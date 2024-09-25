@@ -5899,7 +5899,7 @@ Not all complication benefits and drawbacks are created equal, but each benefit 
 
 ### MODIFYING THE STORY
 
-You can modify the narrative of a complication to better fit with your vision of your character’s backstory—or change it entirely. For instance, if you choose [[Devil]] Deal as a complication, you can have your hero instead make that deal with an archfey or an undead general!
+You can modify the narrative of a complication to better fit with your vision of your character’s backstory—or change it entirely. For instance, if you choose [[Devil Deal]] as a complication, you can have your hero instead make that deal with an archfey or an undead general!
 
 Many of the details of each complication are purposefully left vague, so that you can connect it to the rest of your backstory. If your complication took place during “an attack” or “an accident,” you decide the specific details of who or what attacked you, or what type of accident befell you.
 
@@ -5909,7 +5909,7 @@ You can choose your character’s complication, or you can roll on the Complicat
 
 (Playtest note: More complications are coming.)
 
-#### CULT VICTIM
+#### [[Cult Victim|CULT VICTIM]]
 
 Cultists captured you while raiding your home, then began an unholy ritual to turn your body into an undead spirit. The ritual failed, but your body became infused with corrupted magic, turning you partially incorporeal.
 
@@ -5917,7 +5917,7 @@ Cultists captured you while raiding your home, then began an unholy ritual to tu
 
 **Drawback**: Your body is more susceptible to negative energy. You have corruption weakness 5.
 
-#### [[Devil|DEVIL]] DEAL
+#### [[Devil Deal|[[Devil|DEVIL]] DEAL]]
 
 Your ancestors made a deal with an archdevil that has tied you to that fiend’s service. When you first learned of this deal, you were taken to the Seven Cities of Hell, where some of the timescape’s best minds taught you the ways of battle or magic. The archdevil allows you to use these gifts as you will … until they require a favor from you.
 
@@ -5925,7 +5925,7 @@ Your ancestors made a deal with an archdevil that has tied you to that fiend’s
 
 **Drawback**: The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiendish patron sends devils after you and those you care about.
 
-#### ELEMENTAL ABSORPTION
+#### [[Elemental Absorption|ELEMENTAL ABSORPTION]]
 
 When an evil mage threatened someone you loved, you blocked your foe’s summoning of an elemental creature by absorbing their magic with your body. You are now infused with the power of that elemental—and they’re not happy about it.
 
@@ -5933,7 +5933,7 @@ When an evil mage threatened someone you loved, you blocked your foe’s summoni
 
 **Drawback**: When you are dying, your possessing elemental takes control of your body. The elemental yearns for destruction, causing you to attack the closest creature they notice without regard for your desires or your body’s safety.
 
-#### FIRE AND CHAOS
+#### [[Fire And Chaos|FIRE AND CHAOS]]
 
 A great monster who breathed fire burned your home to the ground. While everything around you was consumed, you somehow stood strong amid the inferno, your body adapting to ignore the effects of the flames.
 
@@ -5941,7 +5941,7 @@ A great monster who breathed fire burned your home to the ground. While everythi
 
 **Drawback**: You have cold weakness 5.
 
-#### PRIMORDIAL SICKNESS
+#### [[Primordial Sickness|PRIMORDIAL SICKNESS]]
 
 You once contracted a terrible illness for which no one could find a cure. You sought out a primordial swamp said to be either incredibly poisonous or miraculously salubrious. It turned out to be both, keeping your illness at bay while corrupting your body with its unnatural energy.
 
@@ -5949,7 +5949,7 @@ You once contracted a terrible illness for which no one could find a cure. You s
 
 **Drawback**: The number of Recoveries you have is reduced by 1.
 
-#### PUNISHMENT CURSE
+#### [[Punishment Curse|PUNISHMENT CURSE]]
 
 Through ignorance, fear, spite, or selfishness, you refused to help someone in need. To teach you a lesson, a deity offered you what seemed to be a blessing—extra power to help you [[Heal|heal]] yourself in times of need, but harsh consequences should your need become excessive. You took the deal, and now benefit from the blessing but also suffer from a curse.
 
@@ -5957,7 +5957,7 @@ Through ignorance, fear, spite, or selfishness, you refused to help someone in n
 
 **Drawback**: When you are out of Recoveries, you are dying, no matter what your current Stamina is.
 
-#### SHIPWRECKED
+#### [[Shipwrecked|SHIPWRECKED]]
 
 You are the sole survivor of a shipwreck that left you stranded on a remote and inhospitable island for years. Your struggle to survive there granted you insight into the natural world but distanced you from who you once were.
 
@@ -5965,7 +5965,7 @@ You are the sole survivor of a shipwreck that left you stranded on a remote and 
 
 **Drawback**: You have forgotten one language you know.
 
-#### VIVID DREAMS
+#### [[Vivid Dreams|VIVID DREAMS]]
 
 You broke a magic amulet that immersed your mind in weird magic. This magic has given you the power of premonition, but you struggle to control this new gift. Whenever you take a respite, make a Reason power roll to determine whether you gain this complication’s benefit or drawback.
 
@@ -5981,7 +5981,7 @@ Your childhood sweetheart was royalty, and the two of you stayed close throughou
 
 **Drawback**: Your royal ward regularly calls upon you for advice and takes that advice to heart—for better or for worse.
 
-#### WAR OF THE GUILDS
+#### [[War Of The Guilds|WAR OF THE GUILDS]]
 
 Being in the wrong place at the wrong time saw you caught in the middle of a conflict between two warring thieves’ guilds. Whether by choice or by accident, you wound up helping one faction at the expense of the other.
 
@@ -5993,16 +5993,16 @@ Being in the wrong place at the wrong time saw you caught in the middle of a con
 
 | d10 | Complication         |
 | --- | -------------------- |
-| 1   | Cult Victim          |
-| 2   | [[Devil]] Deal           |
-| 3   | Elemental Absorption |
-| 4   | Fire and Chaos       |
-| 5   | Primordial Sickness  |
-| 6   | Punishment Curse     |
-| 7   | Shipwrecked          |
-| 8   | Vivid Dreams         |
+| 1   | [[Cult Victim]]          |
+| 2   | [[Devil Deal]]           |
+| 3   | [[Elemental Absorption]] |
+| 4   | [[Fire And Chaos|Fire and Chaos]]       |
+| 5   | [[Primordial Sickness]]  |
+| 6   | [[Punishment Curse]]     |
+| 7   | [[Shipwrecked]]          |
+| 8   | [[Vivid Dreams]]         |
 | 9   | Ward                 |
-| 10  | War of the Guilds    |
+| 10  | [[War Of The Guilds|War of the Guilds]]    |
 
 ## TESTS
 
