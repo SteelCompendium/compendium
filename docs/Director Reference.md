@@ -2,19 +2,21 @@ Draw Steel Compendium is an independent product published under the DRAW STEEL C
 
 # Director Reference
 
-This document serves as a quick-lookup tool for rules with a primary focus on being the destination of links throughout notes, session prep, Screens, etc.
+This document serves as a quick-lookup tool for rules with a primary focus on being the destination of links throughout notes, session prep, Screens, etc.  Its designed for [Obsidian](https://obsidian.md/), but could be easily tweaked for other markdown utilities.
 
 ## Characteristics
 
 | Characteristic                            | Description                          |
 | ----------------------------------------- | ------------------------------------ |
-| [[Draw Steel Rules#MIGHT\|Might]]         | Physical strength                    |Draw Steel Rules: 
-| [[Draw Steel Rules#AGILITY\|Agility]]     | Physical coordination and nimbleness |Draw Steel Rules: 
-| [[Draw Steel Rules#REASON\|Reason]]       | Mental acumen and education          |Draw Steel Rules: 
-| [[Draw Steel Rules#INTUITION\|Intuition]] | Observation and instinct             |Draw Steel Rules: 
-| [[Draw Steel Rules#PRESENCE\|Presence]]   | Force of personality                 |Draw Steel Rules: 
+| [[Draw Steel Rules#MIGHT\|Might]]         | Physical strength                    |
+| [[Draw Steel Rules#AGILITY\|Agility]]     | Physical coordination and nimbleness |
+| [[Draw Steel Rules#REASON\|Reason]]       | Mental acumen and education          |
+| [[Draw Steel Rules#INTUITION\|Intuition]] | Observation and instinct             |
+| [[Draw Steel Rules#PRESENCE\|Presence]]   | Force of personality                 |
 
 ## Skills
+
+- If a Skill applies to a [[#Power Roll]], the roll gets a `+2` bonus 
 
 ### Crafting
 
