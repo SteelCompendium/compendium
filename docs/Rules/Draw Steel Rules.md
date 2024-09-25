@@ -1890,6 +1890,7 @@ A magical sigil you placed on a creature explodes with energy.
 - **Target**: 1 creature with your sigil
 
 **Power Roll** + Reason, Intuition, or Presence:
+
 - 11 or lower: 3 damage; slide 1
 - 12–16: 7 damage; slide 2
 - 17+: 10 damage; slide 3
@@ -2519,6 +2520,7 @@ When a combat encounter begins, you keep any piety you had outside of combat. At
 **Target**: Self
 
 **Power Roll + Intuition**:
+
 - 11 or lower: 1d6 damage; bleeding (EoT)
 - 12–16: Gain 1 piety
 - 17+: Gain 2 piety and choose and use a domain effect
@@ -2688,6 +2690,7 @@ Your divine energy restores the righteous.
 
 **Effect**: The target can spend 1 Recovery.
 **Spend Piety**: For each piety spent, you can choose one of the following enhancements:
+
 - You can target one additional ally within distance.
 - You can end one effect on a target that has a duration of EoT or is ended by a resistance roll.
 - A prone target can stand up.
@@ -2707,6 +2710,7 @@ You unleash a blast of raw divine magic upon your foe.
 - **Target**: 1 creature or object
 
 **Power Roll + Intuition**:
+
 - 11 or lower: 2 damage
 - 12–16: 6 damage
 - 17+: 9 damage
@@ -2761,6 +2765,7 @@ A tendril of divine energy shoots forth to draw in your foe.
 - **Target**: 1 creature or object
 
 **Power Roll + Intuition**:
+
 - 11 or lower: 2 holy damage; pull 2
 - 12–16: 6 holy damage; pull 3
 - 17+: 9 holy damage; pull 4
@@ -2775,6 +2780,7 @@ Holy light scours your foes and sets your allies into perfect attack position.
 - **Target**: All enemies
 
 **Power Roll + Intuition**:
+
 - 11 or lower: 2 holy damage
 - 12–16: 3 holy damage
 - 17+: 4 holy damage
@@ -2791,6 +2797,7 @@ The divine energy of creation tears at your foe.
 - **Target**: 1 creature
 
 **Power Roll + Intuition**:
+
 - 11 or lower: 2 corruption damage
 - 12–16: 6 corruption damage; the next ally to damage the target before the start of your next turn deals an extra 1d6 corruption damage
 - 17+: 9 corruption damage; the next ally to damage the target before the start of your next turn deals an extra 1d10 corruption damage
@@ -2805,6 +2812,7 @@ A bolt of holy energy saps the life from a foe.
 - **Target**: 1 creature or object
 
 **Power Roll + Intuition**:
+
 - 11 or lower: 2 corruption damage
 - 12–16: 6 corruption damage; the target takes a bane on ability power rolls (EoT)
 - 17+: 9 corruption damage; the target has a double bane on ability power rolls (EoT)
@@ -2838,6 +2846,7 @@ Your divine fury is a hammer that crashes down upon the unrighteous.
 - **Target**: 1 creature or object
 
 **Power Roll + Intuition**:
+
 - 11 or lower: 6 holy damage
 - 12–16: 8 holy damage; prone
 - 17+: 13 holy damage; prone and can’t stand (EoT)
@@ -2852,6 +2861,7 @@ Divine wrath strikes your foe with lightning that follows them across the battle
 - **Target**: 1 creature
 
 **Power Roll + Intuition**:
+
 - 11 or lower: 6 lightning damage
 - 12–16: 8 lightning damage
 - 17+: 13 lightning damage
@@ -2868,6 +2878,7 @@ A resounding clap of thunder disrupts your foes.
 - **Target**: All enemies
 
 **Power Roll + Intuition**:
+
 - 11 or lower: 4 sonic damage; push 1
 - 12–16: 5 sonic damage; push 3
 - 17+: 8 sonic damage; push 5
@@ -2888,6 +2899,7 @@ The divine light of protection surrounds your allies.
 - **Target**: 3 allies
 
 **Power Roll + Intuition**:
+
 - 11 or lower: Gain 10 temporary Stamina
 - 12–16: Gain 15 temporary Stamina
 - 17+: Gain 20 temporary Stamina
@@ -2904,6 +2916,7 @@ Divine energy scours your target to make them more susceptible to harm.
 - **Target**: 1 creature or object
 
 **Power Roll + Intuition**:
+
 - 11 or lower: 7 corruption damage; whenever the target takes damage, they take an extra 3 corruption damage (EoT)
 - 12–16: 10 damage; whenever the target takes damage, they take an extra 5 corruption damage (EoT)
 - 17+: 16 damage; whenever the target takes damage, they take an extra 5 corruption damage (EoE)
@@ -2918,6 +2931,7 @@ A mote of holy light racks your foe with their greatest fear.
 - **Target**: 1 creature
 
 **Power Roll + Intuition**:
+
 - 11 or lower: 7 holy damage
 - 12–16: 10 holy damage; frightened (EoT)
 - 17+: 16 holy damage; frightened (EoE)
@@ -3000,6 +3014,7 @@ You hurl a ball of elemental energy at a nearby foe.
 - **Target**: 1 creature or object
 
 **Power Roll + Reason**:
+
 - 11 or lower: 2 damage (type varies)
 - 12–16: 6 damage (type varies)
 - 17+: 9 damage (type varies)
@@ -3019,6 +3034,7 @@ If you maintain the same ability on several targets and the effect includes a po
 Whenever you take damage while you have an active persistent ability, you must make the following power roll.
 
 **Power Roll + Reason**:
+
 - 11 or lower: You lose all active persistent abilities.
 - 12–16: If you have only one persistent ability active, it remains active. Otherwise, you lose one active persistent ability of your choice.
 - 17+: All your active persistent abilities remain active.
@@ -3037,6 +3053,7 @@ Your mastery of elemental power lets you customize your magic.
 - **Target**: Self
 
 **Effect**: Choose one of the following effects:
+
 - You use the Knockback maneuver, but you make a Reason test instead of a Might test. For this use of the maneuver, you can target a creature at a distance equal to the distance of your Hurl Element ability.
 - You choose a creature within the distance of your Hurl Element ability and deal damage to that creature equal to your Reason score. The damage type can be acid, cold, corruption, fire, lightning, poison, or sonic.
 - You teleport a number of squares equal to your Reason score.
@@ -3197,6 +3214,7 @@ A sudden storm of detritus assaults your foes and leaves them struggling to move
 - **Target**: All enemies
 
 **Power Roll + Reason**:
+
 - 11 or lower: 2 damage
 - 12–16: 3 damage
 - 17+: 4 damage
@@ -3213,6 +3231,7 @@ A jet of fire erupts with elemental fury where it strikes.
 - **Target**: 1 creature or object
 
 **Power Roll + Reason**:
+
 - 11 or lower: 2 fire damage; push 2
 - 12–16: 6 fire damage; push 3
 - 17+: 9 fire damage; push 5
@@ -3227,6 +3246,7 @@ Whipping vines erupt from a foe’s body to grasp at another close by.
 - **Target**: 1 creature
 
 **Power Roll + Reason**:
+
 - 11 or lower: 2 damage
 - 12–16: 6 damage
 - 17+: 9 damage
@@ -3243,6 +3263,7 @@ A beam of energy corrupts and hinders whatever it touches.
 - **Target**: 1 creature or object
 
 **Power Roll + Reason**:
+
 - 11 or lower: 2 corruption damage
 - 12–16: 6 corruption damage; slowed (EoT)
 - 17+: 9 corruption damage; slowed (EoT)
@@ -3265,6 +3286,7 @@ Fire engulfs a target of your choice and burns at your command.
 - **Target**: 1 creature or object
 
 **Power Roll + Reason**:
+
 - 11 or lower: 6 fire damage
 - 12–16: 8 fire damage
 - 17+: 13 fire damage
@@ -3281,6 +3303,7 @@ Mushrooms erupt from a foe, sapping their vitality to spread strengthening spore
 - **Target**: 1 creature
 
 **Power Roll + Reason**:
+
 - 11 or lower: 6 poison damage
 - 12–16: 9 poison damage
 - 17+: 14 poison damage
@@ -3297,6 +3320,7 @@ You slam the ground, which buckles out from you in every direction.
 - **Target**: All enemies
 
 **Power Roll + Reason**:
+
 - 11 or lower: 4 damage
 - 12–16: 5 damage
 - 17+: 8 damage; prone
@@ -3313,6 +3337,7 @@ You open a rift into the void to harry your enemies.
 - **Target**: All enemies
 
 **Power Roll + Reason**:
+
 - 11 or lower: 3 psychic damage
 - 12–16: 4 psychic damage
 - 17+: 6 psychic damage
@@ -3333,6 +3358,7 @@ A storm of fire descends upon your enemies.
 - **Target**: All enemies
 
 **Power Roll + Reason**:
+
 - 11 or lower: 5 fire damage
 - 12–16: 7 fire damage
 - 17+: 10 fire damage
@@ -3362,6 +3388,7 @@ You call down a rain that burns your enemies and restores your allies.
 - **Target**: All enemies
 
 **Power Roll + Reason**:
+
 - 11 or lower: 3 acid damage
 - 12–16: 5 acid damage
 - 17+: 7 acid damage
@@ -3380,6 +3407,7 @@ The surface of the world around you opens up at your command.
 **Effect**: You open four holes with 1-square openings that are 6 squares deep, and which can be placed on any mundane surface within distance. You can place these holes next to each other to create fewer holes with wider openings. For each creature standing above a hole when it opens and small enough to fall in, make a power roll.
 
 **Power Roll + Reason**:
+
 - 11 or lower: The target can shift up to 1 square from the edge of the hole to the nearest unoccupied space of their choice.
 - 12–16: The target falls into the hole.
 - 17+: The target falls into the hole and can’t reduce the height of the fall.
@@ -6375,6 +6403,7 @@ Resistance rolls are special power rolls made to avoid harmful effects from trap
 For example, a hero who activates a fire trap might need to make the following resistance roll:
 
 **Resistance + Agility**:
+
 - 11 or lower: 9 fire damage
 - 12–16: 6 fire damage
 - 17+: 2 fire damage
