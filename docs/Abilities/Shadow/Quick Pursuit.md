@@ -1,6 +1,6 @@
 ---
 title: Quick Pursuit (3 Insight)
-name: 'Quick Pursuit '
+name: Quick Pursuit
 type: abilities
 cost: 3 Insight
 subtype: shadow

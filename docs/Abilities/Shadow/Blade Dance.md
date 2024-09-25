@@ -1,6 +1,6 @@
 ---
 title: Blade Dance (3 Insight)
-name: 'Blade Dance '
+name: Blade Dance
 type: abilities
 cost: 3 Insight
 subtype: shadow

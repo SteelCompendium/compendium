@@ -1,6 +1,6 @@
 ---
 title: Death Before Beauty (3 Rage)
-name: 'Death Before Beauty '
+name: Death Before Beauty
 type: abilities
 cost: 3 Rage
 subtype: fury

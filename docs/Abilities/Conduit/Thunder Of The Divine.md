@@ -1,6 +1,6 @@
 ---
 title: Thunder Of The Divine (3 Piety)
-name: 'Thunder Of The Divine '
+name: Thunder Of The Divine
 type: abilities
 cost: 3 Piety
 subtype: conduit

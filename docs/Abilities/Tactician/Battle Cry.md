@@ -1,6 +1,6 @@
 ---
 title: Battle Cry (3 Focus)
-name: 'Battle Cry '
+name: Battle Cry
 type: abilities
 cost: 3 Focus
 subtype: tactician

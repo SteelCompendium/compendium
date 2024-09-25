@@ -1,6 +1,6 @@
 ---
 title: Brute Precision (5 Rage)
-name: 'Brute Precision '
+name: Brute Precision
 type: abilities
 cost: 5 Rage
 subtype: fury

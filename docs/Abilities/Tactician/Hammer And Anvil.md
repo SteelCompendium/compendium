@@ -1,6 +1,6 @@
 ---
 title: Hammer And Anvil (5 Focus)
-name: 'Hammer And Anvil '
+name: Hammer And Anvil
 type: abilities
 cost: 5 Focus
 subtype: tactician

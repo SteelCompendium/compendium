@@ -1,6 +1,6 @@
 ---
 title: Their Weakness Is Our Strength (5 Focus)
-name: 'Their Weakness Is Our Strength '
+name: Their Weakness Is Our Strength
 type: abilities
 cost: 5 Focus
 subtype: tactician

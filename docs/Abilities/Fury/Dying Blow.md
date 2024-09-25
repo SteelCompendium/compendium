@@ -1,6 +1,6 @@
 ---
 title: Dying Blow (5 Rage)
-name: 'Dying Blow '
+name: Dying Blow
 type: abilities
 cost: 5 Rage
 subtype: fury

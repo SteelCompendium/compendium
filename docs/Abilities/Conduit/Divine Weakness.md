@@ -1,6 +1,6 @@
 ---
 title: Divine Weakness (5 Piety)
-name: 'Divine Weakness '
+name: Divine Weakness
 type: abilities
 cost: 5 Piety
 subtype: conduit

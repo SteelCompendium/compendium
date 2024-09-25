@@ -78,7 +78,7 @@ Not the war dogs—they were fanatics.
 
 Sir John ignored the war dog, tilted his head toward the alien. “Embers?”
 
-“A kuran'zoi,” the high elf said, and the alien held her head up with pride. “A time raider from the upper worlds. What the truth is I cannot say, and no people are all one thing. But by reputation? They're intractable, ungovernable, they loathe authority, hate tyranny and are totally, utterly without fear.”
+“A kuran'zoi,” the high elf said, and the alien held her head up with pride. “A time [[Raider|raider]] from the upper worlds. What the truth is I cannot say, and no people are all one thing. But by reputation? They're intractable, ungovernable, they loathe authority, hate tyranny and are totally, utterly without fear.”
 
 John watched the alien. They sneered their approval at Ember's summary. That was enough for Sir John, they could work out the details later. After everything they'd been through before, he trusted Embers implicitly.
 
@@ -94,9 +94,9 @@ Lycaon cocked his head at Sir John and took a few foolish steps toward the tacti
 
 Sir John took a deep breath, his body language changed and that was enough. Several things then happened at once, so quickly no one would later be able to say who acted first.
 
-Ember's eyes flashed into a starfield. The time raider's chains dissolved into starspace and reappeared around Flight Captain Lyria pinning her arms to her side. She was giving the hawklord an excuse to sit this one out. Gods, John was glad she was with them.
+Ember's eyes flashed into a starfield. The time [[Raider|raider]]'s chains dissolved into starspace and reappeared around Flight Captain Lyria pinning her arms to her side. She was giving the hawklord an excuse to sit this one out. Gods, John was glad she was with them.
 
-The time raider's right upper hand shot out, as though she'd been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who'd chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
+The time [[Raider|raider]]'s right upper hand shot out, as though she'd been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who'd chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
 
 From the sun's shadow cast by Taxiarch Lycaon, the [[Polder|polder]] Jackson Bootblack emerged, a rapier in each hand, and no one had seen him move from where he'd been a moment before.
 
@@ -110,7 +110,7 @@ John hadn't hesitated, he'd already drawn his sword.
 
 ## Time Raider Benefits
 
-As a time raider character, you have the following benefits.
+As a time [[Raider|raider]] character, you have the following benefits.
 
 ### Foresight
 

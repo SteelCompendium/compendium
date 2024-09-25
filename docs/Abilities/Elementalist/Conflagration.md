@@ -1,6 +1,6 @@
 ---
 title: Conflagration (5 Essence)
-name: 'Conflagration '
+name: Conflagration
 type: abilities
 cost: 5 Essence
 subtype: elementalist

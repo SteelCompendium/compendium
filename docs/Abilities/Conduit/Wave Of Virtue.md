@@ -1,6 +1,6 @@
 ---
 title: Wave Of Virtue (5 Piety)
-name: 'Wave Of Virtue '
+name: Wave Of Virtue
 type: abilities
 cost: 5 Piety
 subtype: conduit

@@ -1,6 +1,6 @@
 ---
 title: Phalanx Forward! (3 Focus)
-name: 'Phalanx Forward! '
+name: Phalanx Forward!
 type: abilities
 cost: 3 Focus
 subtype: tactician

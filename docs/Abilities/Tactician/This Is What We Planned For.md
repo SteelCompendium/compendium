@@ -1,6 +1,6 @@
 ---
 title: This Is What We Planned For (5 Focus)
-name: 'This Is What We Planned For '
+name: This Is What We Planned For
 type: abilities
 cost: 5 Focus
 subtype: tactician

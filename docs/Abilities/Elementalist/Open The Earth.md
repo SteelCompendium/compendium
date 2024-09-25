@@ -1,6 +1,6 @@
 ---
 title: Open The Earth (5 Essence)
-name: 'Open The Earth '
+name: Open The Earth
 type: abilities
 cost: 5 Essence
 subtype: elementalist

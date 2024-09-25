@@ -1,6 +1,6 @@
 ---
 title: Nourishing Rain (5 Essence)
-name: 'Nourishing Rain '
+name: Nourishing Rain
 type: abilities
 cost: 5 Essence
 subtype: elementalist

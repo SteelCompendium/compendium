@@ -1,6 +1,6 @@
 ---
 title: Inspiring Strike (3 Focus)
-name: 'Inspiring Strike '
+name: Inspiring Strike
 type: abilities
 cost: 3 Focus
 subtype: tactician

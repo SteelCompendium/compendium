@@ -1,6 +1,6 @@
 ---
 title: Righteous Rebuke (3 Piety)
-name: 'Righteous Rebuke '
+name: Righteous Rebuke
 type: abilities
 cost: 3 Piety
 subtype: conduit

@@ -1,6 +1,6 @@
 ---
 title: Impairing Shot (5 Insight)
-name: 'Impairing Shot '
+name: Impairing Shot
 type: abilities
 cost: 5 Insight
 subtype: shadow

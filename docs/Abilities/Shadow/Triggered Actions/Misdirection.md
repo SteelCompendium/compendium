@@ -1,6 +1,6 @@
 ---
 title: Misdirection (1 Insight)
-name: 'Misdirection '
+name: Misdirection
 type: abilities
 cost: 1 Insight
 subtype: shadow

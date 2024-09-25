@@ -1,6 +1,6 @@
 ---
 title: Whirlwind Strike (3 Rage)
-name: 'Whirlwind Strike '
+name: Whirlwind Strike
 type: abilities
 cost: 3 Rage
 subtype: fury

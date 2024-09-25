@@ -1,6 +1,6 @@
 ---
 title: Incorporealness (5 Essence)
-name: 'Incorporealness '
+name: Incorporealness
 type: abilities
 cost: 5 Essence
 subtype: elementalist

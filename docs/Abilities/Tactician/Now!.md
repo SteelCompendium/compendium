@@ -1,6 +1,6 @@
 ---
 title: Now! (5 Focus)
-name: 'Now! '
+name: Now!
 type: abilities
 cost: 5 Focus
 subtype: tactician

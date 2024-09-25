@@ -1,6 +1,6 @@
 ---
 title: Dazing Blow (3 Focus)
-name: 'Dazing Blow '
+name: Dazing Blow
 type: abilities
 cost: 3 Focus
 subtype: tactician

@@ -1,6 +1,6 @@
 ---
 title: Blood For Blood! (5 Rage)
-name: 'Blood For Blood! '
+name: Blood For Blood!
 type: abilities
 cost: 5 Rage
 subtype: fury

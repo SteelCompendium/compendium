@@ -1,6 +1,6 @@
 ---
 title: Two Throats At Once (3 Insight)
-name: 'Two Throats At Once '
+name: Two Throats At Once
 type: abilities
 cost: 3 Insight
 subtype: shadow

@@ -1,6 +1,6 @@
 ---
 title: Armor Of The Faithful (5 Piety)
-name: 'Armor Of The Faithful '
+name: Armor Of The Faithful
 type: abilities
 cost: 5 Piety
 subtype: conduit

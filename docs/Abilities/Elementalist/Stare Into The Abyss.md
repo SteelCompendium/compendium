@@ -1,6 +1,6 @@
 ---
 title: Stare Into The Abyss (3 Essence)
-name: 'Stare Into The Abyss '
+name: Stare Into The Abyss
 type: abilities
 cost: 3 Essence
 subtype: elementalist

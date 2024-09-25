@@ -1,6 +1,6 @@
 ---
 title: Wounding Strike (3 Insight)
-name: 'Wounding Strike '
+name: Wounding Strike
 type: abilities
 cost: 3 Insight
 subtype: shadow

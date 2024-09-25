@@ -1,6 +1,6 @@
 ---
 title: Assassinate (5 Insight)
-name: 'Assassinate '
+name: Assassinate
 type: abilities
 cost: 5 Insight
 subtype: shadow

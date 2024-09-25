@@ -1,6 +1,6 @@
 ---
 title: Stab Me So I Can Pull Myself Closer To You (3 Rage)
-name: 'Stab Me So I Can Pull Myself Closer To You '
+name: Stab Me So I Can Pull Myself Closer To You
 type: abilities
 cost: 3 Rage
 subtype: fury

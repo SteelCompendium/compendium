@@ -1,6 +1,6 @@
 ---
 title: Invigorating Growth (3 Essence)
-name: 'Invigorating Growth '
+name: Invigorating Growth
 type: abilities
 cost: 3 Essence
 subtype: elementalist

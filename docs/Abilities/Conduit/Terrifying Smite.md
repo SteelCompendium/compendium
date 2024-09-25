@@ -1,6 +1,6 @@
 ---
 title: Terrifying Smite (5 Piety)
-name: 'Terrifying Smite '
+name: Terrifying Smite
 type: abilities
 cost: 5 Piety
 subtype: conduit

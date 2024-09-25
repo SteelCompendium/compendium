@@ -1,6 +1,6 @@
 ---
 title: Get In, Get Out (5 Insight)
-name: 'Get In, Get Out '
+name: Get In, Get Out
 type: abilities
 cost: 5 Insight
 subtype: shadow

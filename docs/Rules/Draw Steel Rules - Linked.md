@@ -507,7 +507,7 @@ The first thing you should do is think about the kind of hero you want to make. 
 
 #### 2. ANCESTRY
 
-Choose your hero’s humanoid ancestry from among the range of ancestries available in the game—[[Devil|devil]], [[Dragon Knight|dragon knight]], [[Dwarf|dwarf]], [[Hakaan|hakaan]], high elf, [[Human|human]], [[Memonek|memonek]], [[Orc|orc]], [[Polder|polder]], [[Revenant|revenant]], [[Time [[Raider]]|time raider]], or wode elf. Future supplements will introduce additional ancestries you can choose from. See *Ancestries* for more information.
+Choose your hero’s humanoid ancestry from among the range of ancestries available in the game—[[Devil|devil]], [[Dragon Knight|dragon knight]], [[Dwarf|dwarf]], [[Hakaan|hakaan]], high elf, [[Human|human]], [[Memonek|memonek]], [[Orc|orc]], [[Polder|polder]], [[Revenant|revenant]], [[Time Raider|time raider]], or wode elf. Future supplements will introduce additional ancestries you can choose from. See *Ancestries* for more information.
 
 *(Playtest note: A selection of the game’s full range of ancestries are currently available, some of which feature lore entries.)*
 
@@ -535,7 +535,7 @@ Every hero has the ability to make free strikes under certain circumstances—ex
 
 A melee weapon [[Free Strike|free strike]] is a melee attack made with an unarmed strike or improvised weapon. A ranged weapon [[Free Strike|free strike]] is a ranged attack made with an improvised weapon.
 
-###### MELEE WEAPON [[Free Strike|FREE STRIKE]]
+###### MELEE WEAPON FREE STRIKE
 
 - **Keywords:** Attack, Melee, Weapon
 - **Type:** Action
@@ -548,7 +548,7 @@ A melee weapon [[Free Strike|free strike]] is a melee attack made with an unarme
 - 12–16: 6 damage
 - 17+: 9 damage
 
-###### RANGED WEAPON [[Free Strike|FREE STRIKE]]
+###### RANGED WEAPON FREE STRIKE
 
 - **Keywords:** Attack, Ranged, Weapon
 - **Type:** Action
@@ -694,7 +694,7 @@ Unless otherwise noted, a character from any of these ancestries is size 1M and 
 
 Where an ancestry provides you with an ability, see *Abilities* for details of the ability format.
 
-### [[Devil|DEVIL]]
+### DEVIL
 
 “Go to hell!”
 
@@ -812,7 +812,7 @@ She blushed in spite of herself and raised her own glass in a toast.
 
 “You silver-tongued [[Devil|devil]].”
 
-#### [[Devil|DEVIL]] BENEFITS
+#### DEVIL BENEFITS
 
 As a [[Devil|devil]] character, you have the following benefits:
 
@@ -847,7 +847,7 @@ When you create a [[Devil|devil]] character, you have 3 fiend points, which you 
 - **SILVER TONGUE:**
   You can twist how your words are perceived to get a better read on people. You gain an edge when attempting to discover an NPC’s motivations and pitfalls during negotiations (see *Negotiation*).
 
-### [[Dragon Knight|DRAGON KNIGHT]]
+### DRAGON KNIGHT
 
 “I thought the dragon knights would save us, but even they couldn’t stop Ajax. Now the roads aren’t safe. People are taken from their homes without cause or warning, never to return. I don’t know what’s going to happen now, except everyone’s afraid all the time.”
 
@@ -961,7 +961,7 @@ The [[Dragon Knight|dragon knight]] looked at the people around him, at the thre
 
 “Exactly,” Vaantikalisax said. Then he turned and left the inn.
 
-#### [[Dragon Knight|DRAGON KNIGHT]] BENEFITS
+#### DRAGON KNIGHT BENEFITS
 
 As a [[Dragon Knight|dragon knight]] character, you have the following benefits:
 
@@ -1002,7 +1002,7 @@ You let loose a mighty roar to repel your foes and shake their spirits.
 
   **Effect:** You have a bane on the power roll for this ability when you use it in consecutive rounds of the same encounter.
 
-### [[Dwarf|DWARF]]
+### DWARF
 
 “Remember, we are dwarves. Our strength is the strength of the earth. The strength of the marble column that rises to the heavens. The strength of the granite foundation that reaches deep into the ground. But what is the value of strength if it is not used in service of justice?”
 
@@ -1042,7 +1042,7 @@ You are young yet, but already those who work evil deeds should fear you. You ar
 
 [^1]: This is what happens when you let a dwarven troubadour write the [[Dwarf|dwarf]] entry.
 
-#### [[Dwarf|DWARF]] BENEFITS
+#### DWARF BENEFITS
 
 As a [[Dwarf|dwarf]] character, you have the following benefits:
 
@@ -1062,7 +1062,7 @@ You can carve a magic rune onto your skin. The rune you carve determines the ben
 
 Your stone skin affords you potent protection. Your Stamina increases by 6 at 1st level, then increases by an additional 1 each time you gain a new level
 
-### [[Elf, Wode|ELF, WODE]]
+### ELF, WODE
 
 See you the wood so dark and deep,
 Where runs the fox and hare?
@@ -1176,7 +1176,7 @@ Your speed is 6.
 
 You can magically alter your appearance to better blend in with your surroundings. You gain an edge on Agility tests made to [[Hide|hide]] and sneak, and tests made to find you while you are hidden take a bane.
 
-### [[Elf, High|ELF, HIGH]]
+### ELF, HIGH
 
 “Ajax has a kind of crude style, perhaps, but no taste. I have no objection to a villain, you understand. The world is a tale, but a tale is only as good as its villain. And Ajax is so … artless. We deserve a better villain.”
 
@@ -1270,7 +1270,7 @@ Your elven body and mind can’t be contained for long, and accessing memories i
 
 Your mind allows you to maintain your cool in any situation. You can’t be [[Dazed|dazed]].
 
-### [[Hakaan|HAKAAN]]
+### HAKAAN
 
 “COME FORTH, SONS OF ORD!” the [[Hakaan|hakaan]] metamorph bellowed as Ajax’s dwarven legion advanced. “AND MEET A BETTER WOMAN THAN THEE!!”
 
@@ -1286,7 +1286,7 @@ For this reason, the only [[Hakaan|hakaan]] the average [[Human|human]] meets is
 
 Humans in Vanigar have their own word for this concept of a personal fate, “wyrd.” Traditional [[Hakaan|hakaan]] sometimes refer to the doomsight as wyrdken.
 
-#### ON [[Hakaan|HAKAAN]]
+#### ON HAKAAN
 
 “You … you know when you’re going to die?”
 
@@ -1366,7 +1366,7 @@ The Arrow stared, wide-eyed at the Pillar. Even before the young man spoke, the 
 
 “Wasn’t over!” the Arrow said, his joy impossible to [[Hide|hide]].
 
-#### [[Hakaan|HAKAAN]] BENEFITS
+#### HAKAAN BENEFITS
 
 As a [[Hakaan|hakaan]] character, your size is 1L, and you have the following benefits:
 
@@ -1376,7 +1376,7 @@ Working with your Director, you can predetermine an encounter in which you will 
 
 If you don’t predetermine your death encounter, you can choose to become doomed while you are dying with the director’s approval (no action required). Doing so should be reserved for encounters in which you are dying as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to you—not because you’re playing a one-shot and have nothing to lose, Hacaarl.
 
-##### [[Hakaan|HAKAAN]] MIGHT
+##### HAKAAN MIGHT
 
 When you force move a creature or object, you can increase the distance moved by 1.
 
@@ -1384,7 +1384,7 @@ When you force move a creature or object, you can increase the distance moved by
 
 You can’t be weakened. Additionally, when your Stamina equals the negative of your winded value, you turn to rubble instead of dying. You are unaware of your surroundings in this state. After 12 hours, you regain Stamina equal to your recovery value.
 
-### [[Human|HUMAN]]
+### HUMAN
 
 “Humans,” the [[Dwarf|dwarf]] said with a combination of exasperation and awe. “Their only virtue seems to be believing in impossible things.”
 
@@ -1432,7 +1432,7 @@ But some of your names, I will see written in the stars.
 
 (Professor Cilliarwn did not elaborate on this.)
 
-#### [[Human|HUMAN]] BENEFITS
+#### HUMAN BENEFITS
 
 As a [[Human|human]] character, you have the following benefits:
 
@@ -1448,7 +1448,7 @@ Your connection to the natural world protects you from supernatural forces. You 
 
 Your [[Human|human]] anatomy allows you to fight, run, and stay awake longer than others. Increase your number of Recoveries by 2.
 
-### [[Memonek|MEMONEK]]
+### MEMONEK
 
 “This world of yours. Ships of wood and swords of steel. It’s so … primitive. Like a fairy tale.”
 
@@ -1460,7 +1460,7 @@ The native denizens of Axiom, the Plane of Uttermost Law, [[Memonek|memonek]] dw
 
 The minds of [[Memonek|memonek]] are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Orden where law and chaos mix, a sickness comes over them—an uncontrollable sensation called … emotion.
 
-#### ON [[Memonek|MEMONEK]]
+#### ON MEMONEK
 
 “You want to tell me what just happened?” Sir John asked.
 
@@ -1530,7 +1530,7 @@ Sir John and Count Revile, both tacticians, stood together on the bloody battlef
 
 John laughed and put his arm around his friend as they headed back to the party. “Funny. The world-sickness sounds a lot like me.”
 
-#### [[Memonek|MEMONEK]] BENEFITS
+#### MEMONEK BENEFITS
 
 As a [[Memonek|memonek]] character, you have the following benefits:
 
@@ -1542,7 +1542,7 @@ Your silicone body is aerodynamic and low in density. Your speed is 7, and whene
 
 When you or a creature adjacent to you makes a power roll, you can remove an edge or a bane on the roll as a free triggered action. You can only use this benefit once per round.
 
-### [[Orc|ORC]]
+### ORC
 
 “Even should an arrow pierce their heart, each kanin warrior has within them one last act of revenge.”
 
@@ -1624,7 +1624,7 @@ Ahem.
 
 “Know that you are my children, the children of Kul, he who put fire within the world. And there is fire in you. And though the world and fate and baser minds may conspire to destroy your light, you will survive. And more than survive, you will thrive. And in thriving, you will conquer!”
 
-#### [[Orc|ORC]] BENEFITS
+#### ORC BENEFITS
 
 As an [[Orc|orc]] character, you have the following benefits.
 
@@ -1636,7 +1636,7 @@ When you take damage, your speed increases by 2 until the end of your next turn.
 
 When a creature deals damage to you that leaves you dying, you can make a [[Free Strike|free strike]] against any creature. If the creature is reduced to 0 Stamina by your attack, you can spend a Recovery.
 
-### [[Polder|POLDER]]
+### POLDER
 
 “Wait, where’d he go? Where’d that little son of a bitch go? AAAAGGH!”
 
@@ -1766,11 +1766,11 @@ The knight stared at them for a moment, then turned back to his friend.
 
 “Maybe you’re right,” the [[Dragon Knight|dragon knight]] said.
 
-#### [[Polder|POLDER]] BENEFITS
+#### POLDER BENEFITS
 
 As a [[Polder|polder]] character, your size is 1S and you have the following benefits.
 
-##### [[Polder|POLDER]] GEIST
+##### POLDER GEIST
 
 When you start your turn while no creatures have line of effect to you, or while you are hidden from or have concealment from all creatures with line of effect to you, your speed is increased by 3 until the end of your turn.
 
@@ -1789,7 +1789,7 @@ You become an actual shadow.
 
 **Effect**: You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn’t observing you. While in shadow form, you have full awareness of your surroundings, attacks against you and tests made to find you take a bane, and you can’t move or take actions or maneuvers except to exit this form. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
 
-### [[Revenant|REVENANT]]
+### REVENANT
 
 “I will suck the life from your flesh and leave you a withered corpse!”
 
@@ -1867,7 +1867,7 @@ Lady Filliamo shrugged. “I’m a knight of the church. Jurisdiction’s for th
 
 “I deal in steel.”
 
-#### [[Revenant|REVENANT]] BENEFITS
+#### REVENANT BENEFITS
 
 As a [[Revenant|revenant]] character, you have the following benefits.
 
@@ -1912,7 +1912,7 @@ Additionally, when your Stamina equals the negative of your winded value, you be
 
 Your supernatural gifts allow you to influence other undead. You gain an edge on Reason, Intuition, and Presence tests made to interact with undead creatures.
 
-### [[Time [[Raider]]|TIME RAIDER]]
+### TIME RAIDER
 
 “I fear no living thing, but the time raiders.”
 
@@ -1986,7 +1986,7 @@ Not the war dogs—they were fanatics.
 
 Sir John ignored the war dog, tilted his head toward the alien. “Embers?”
 
-“A kuran’zoi,” the high elf said, and the alien held her head up with pride. “A [[Time [[Raider]]|time raider]] from the upper worlds. What the truth is I cannot say, and no people are all one thing. But by reputation? They’re intractable, ungovernable, they loathe authority, hate tyranny and are totally, utterly without fear.”
+“A kuran’zoi,” the high elf said, and the alien held her head up with pride. “A [[Time Raider|time raider]] from the upper worlds. What the truth is I cannot say, and no people are all one thing. But by reputation? They’re intractable, ungovernable, they loathe authority, hate tyranny and are totally, utterly without fear.”
 
 John watched the alien. They sneered their approval at Ember’s summary. That was enough for Sir John, they could work out the details later. After everything they’d been through before, he trusted Embers implicitly.
 
@@ -2002,9 +2002,9 @@ Lycaon cocked his head at Sir John and took a few foolish steps toward the tacti
 
 Sir John took a deep breath, his body language changed and that was enough. Several things then happened at once, so quickly no one would later be able to say who acted first.
 
-Ember’s eyes flashed into a starfield. The [[Time [[Raider]]|time raider]]’s chains dissolved into starspace and reappeared around Flight Captain Lyria pinning her arms to her side. She was giving the hawklord an excuse to sit this one out. Gods, John was glad she was with them.
+Ember’s eyes flashed into a starfield. The [[Time Raider|time raider]]’s chains dissolved into starspace and reappeared around Flight Captain Lyria pinning her arms to her side. She was giving the hawklord an excuse to sit this one out. Gods, John was glad she was with them.
 
-The [[Time [[Raider]]|time raider]]’s right upper hand shot out, as though she’d been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who’d chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
+The [[Time Raider|time raider]]’s right upper hand shot out, as though she’d been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who’d chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
 
 From the sun’s shadow cast by Taxiarch Lycaon, the [[Polder|polder]] Jackson Bootblack emerged, a rapier in each hand, and no one had seen him move from where he’d been a moment before.
 
@@ -2016,9 +2016,9 @@ John hadn’t hesitated, he’d already drawn his sword.
 
 ***“Draw steel!”***
 
-#### [[Time [[Raider]]|TIME RAIDER]] BENEFITS
+#### TIME RAIDER BENEFITS
 
-As a [[Time [[Raider]]|time raider]] character, you have the following benefits.
+As a [[Time Raider|time raider]] character, you have the following benefits.
 
 ##### FORESIGHT
 
@@ -2240,7 +2240,7 @@ During your inciting incident, something was taken from you. It might have been 
 
 It might be the case that you’re obsessed with getting back what you lost. You might be in a position where you’ll never recover what was taken from you, but you want to prevent that same loss from happening to others. It might be a little bit of both. Whatever the case, the loss you’ve suffered is part of what drives you to be a hero. Record what was taken from you on your character sheet, and let your Director know.
 
-### [[Artisan|ARTISAN]]
+### ARTISAN
 
 You started off making and selling art or useful wares. In defining your career, think about the following questions:
 
@@ -2256,7 +2256,7 @@ You gain the following career benefits:
 - **Project Points**: 100
 - **Title**—Expert [[Artisan]]: Whenever you make a test as part of a research or crafting project that uses a skill you have from the crafting skill group, you can roll the test twice and use either roll.
 
-#### [[Artisan|ARTISAN]] INCITING INCIDENTS
+#### ARTISAN INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                          |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2264,7 +2264,7 @@ You gain the following career benefits:
 | 2   | **Inspired**: As you traveled the road selling your wares, troll bandits attacked you. One of the bandits claimed an item belonging to someone precious to you—or perhaps claimed that person’s life—but the rest were driven off or slain by a group of heroes. Seeing the quick work these heroes made of the bandits inspired you to follow in their footsteps.                                |
 | 3   | **Robbery**: A [[Criminal|criminal]] gang stole your goods and harmed a number of people who worked for you. You became a hero to prevent such indignities from being visited upon others, to seek revenge for the assault, or to find the thieves and get your stuff back.                                                                                                                                    |
 
-### [[Criminal|CRIMINAL]]
+### CRIMINAL
 
 You once worked as a bandit, insurgent, smuggler, outlaw, or even as an assassin. In defining your career, think about the following questions:
 
@@ -2280,7 +2280,7 @@ You gain the following career benefits:
 - **Project Points**: 50
 - **Title**—Lucky Dog: When you fail a test using any skill from the intrigue skill group, you can roll a d6. You lose Stamina equal to the roll and improve the result of your test by one tier. You can make this roll only once per test.
 
-#### [[Criminal|CRIMINAL]] INCITING INCIDENTS
+#### CRIMINAL INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                                                |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2288,7 +2288,7 @@ You gain the following career benefits:
 | 2   | **Friendly Priest**: You went to prison for your crimes and eventually escaped. An elderly priest took you in and shielded you from the law, convinced that your soul wasn’t corrupt. They never judged you for your past, speaking only of the future. Eventually, the priest died, imparting final words that inspired you to become a hero.                                                                          |
 | 3   | **Stand Against Tyranny**: When a tyrant rose to power in your homeland, they began cracking down on all criminals with deadly raids and public executions. The nature of the crime didn’t matter—pickpockets and beggars were made to kneel before the axe alongside murderers. After losing enough friends, you stood up and joined the resistance—not just against this tyrant, but against authoritarians anywhere. |
 
-### [[Gladiator|GLADIATOR]]
+### GLADIATOR
 
 In the past, you entertained the masses with flashy displays of violence in the arena. In defining your career, think about the following questions:
 
@@ -2304,7 +2304,7 @@ You gain the following career benefits:
 - **Renown**: 2
 - **Title**—Monologue Champion: When you are not in combat, you can shout to get the attention of all creatures within 10 squares of you. Each creature who is not hostile toward you listens to what you have to say for at least the next minute, or until they sense danger or any form of imminent harm. While creatures are listening to you, your allies gain an edge on tests made to avoid being noticed by those creatures.
 
-#### [[Gladiator|GLADIATOR]] INCITING INCIDENTS
+#### GLADIATOR INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2312,7 +2312,7 @@ You gain the following career benefits:
 | 2   | **Heckler**: As you stood victorious on the arena sands, a voice cried out among the cheering. “This violence is just for show. You should be ashamed. There are people who need you—who need your skills!” Why did that voice ring so clear? And why did it sound so familiar? You never saw the face of the person who uttered the words, but they weighed heavy on you. The next day, you fled the arena to begin a hero’s life. |
 | 3   | **New Challenges**: You earned every title you could. You beat every opponent willing to face you in the arena. Your final battle with your rival ended with you victorious—and yet you were unsatisfied. There are other, greater foes out there, and you mean to find them.                                                                                                                                                       |
 
-### [[Laborer|LABORER]]
+### LABORER
 
 You worked as a farmer, a builder, a lumberjack, a miner, or some other profession engaged in hard manual labor. In defining your career, think about the following questions:
 
@@ -2328,7 +2328,7 @@ You gain the following career benefits:
 - **Project Points**: 50
 - **Title**—Team Backbone: When you take your first turn during a montage test, you can both make a test and assist another hero’s test.
 
-#### [[Laborer|LABORER]] INCITING INCIDENTS
+#### LABORER INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                             |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2382,7 +2382,7 @@ You cast an entertaining spell that creates a minor but impressive magical effec
 | 2   | **Ultimate Power**: The mage you worked for was a kindly old soul, but the basic magic they taught you always seemed like a small part of something bigger. It wasn’t until you met an adventuring elementalist that you realized hitting the road as a hero was the only way to truly improve and hone your skills. You resigned your apprenticeship and found yourself walking the path of a hero the next day. |
 | 3   | **Missing Mage**: One day you woke up and the mage you worked for was just gone. They didn’t take any of their belongings, and there was no sign of any foul play—just the scent of sulfur in their bedchamber. You set out on your heroic journey in the aftermath, and have been looking for them ever since.                                                                                                   |
 
-### [[Performer|PERFORMER]]
+### PERFORMER
 
 You can sing, act, or dance well enough that people actually pay to see you do it. Imagine that! In defining your career, think about the following questions:
 
@@ -2397,7 +2397,7 @@ You gain the following career benefits:
 - **Renown**: 2
 - **Title**—Dazzler: When a creature watches you perform a song, dance, or role (as an actor, not in disguise) for at least 1 minute, you gain an edge on tests made to influence that creature for 1 hour after the performance ends.
 
-#### [[Performer|PERFORMER]] INCITING INCIDENTS
+#### PERFORMER INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                     |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2405,7 +2405,7 @@ You gain the following career benefits:
 | 2   | **Fame and Fortune**: You thought you were famous—then that hero came to your show. Suddenly, all eyes were on the dragon-slaying brute instead of the stage where they belonged. The audience even gave them a standing ovation when they entered the room. All you got was polite applause. Fine. If people want a hero, then a hero you shall be.                                         |
 | 3   | **Tragic Lesson**: When a producer who once shortchanged you shouted out on the street for you to stop a thief who had picked their pocket, your spite toward the producer inspired you to let the thief run right on by. But that decision led to tragedy when the thief later harmed someone you loved. From that moment on, you decided to make it your responsibility to protect others. |
 
-### [[Sage|SAGE]]
+### SAGE
 
 From an early age, you dedicated yourself to learning, whether you shared the knowledge of the world with others or sought out secret lore only for yourself. In defining your career, think about the following questions:
 
@@ -2421,7 +2421,7 @@ You gain the following career benefits:
 - **Project Points**: 100
 - **Title**—Expert [[Sage]]: Whenever you make a test as part of a research or crafting project that uses a skill you have from the lore skill group, you can roll the test twice and use either roll.
 
-#### [[Sage|SAGE]] INCITING INCIDENTS
+#### SAGE INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                  |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2429,7 +2429,7 @@ You gain the following career benefits:
 | 2   | **Cure the Curse**: You used to think knowledge could fix everything. You were wrong. When someone you loved fell under a curse, the means to cure them couldn’t be found in any of the books you owned. But that wasn’t going to stop you. The answers are out there, and you’ll find them even if you need to face down death to do so. |
 | 3   | **Lost Library**: An evil mage took all your books for themselves, cackling at your impotence as they raided your shelves. Now you’re off to search through ancient ruins and secret libraries to rebuild your collection of rare tomes—and to find the mage who stole from you.                                                          |
 
-### [[Soldier|SOLDIER]]
+### SOLDIER
 
 In your formative years, you fought tirelessly in skirmishes and campaigns against enemy forces. In defining your career, think about the following questions:
 
@@ -2445,7 +2445,7 @@ You gain the following career benefits:
 - **Renown**: 1
 - **Title**—Drill Sergeant: At the start of a group test or montage test, you can spend a hope token. If you do, all participants make tests as if they also had your exploration skills.
 
-#### [[Soldier|SOLDIER]] INCITING INCIDENTS
+#### SOLDIER INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2732,7 +2732,7 @@ You unleash a blast of raw divine magic upon your foe.
 
 Choose one of the following triggered actions.
 
-##### [[Divine Disruption|DIVINE DISRUPTION]]
+##### DIVINE DISRUPTION
 
 You sap the strength of an attacking enemy with divine energy.
 
@@ -2746,7 +2746,7 @@ You sap the strength of an attacking enemy with divine energy.
 
 **Spend 1 Piety**: The attack has a double bane and the damage to one creature targeted by the attack is reduced by an amount equal to twice your Intuition score.
 
-##### [[Holy Infusion|HOLY INFUSION]]
+##### HOLY INFUSION
 
 You invigorate an attacking ally with divine energy.
 
@@ -2768,7 +2768,7 @@ Your training and faith let you specialize in magic that buffs your allies, debu
 
 Select one signature ability from the options below. Signature abilities can be used at will.
 
-###### [[Holy Lance|HOLY LANCE]]
+###### HOLY LANCE
 
 A tendril of divine energy shoots forth to draw in your foe.
 
@@ -2783,7 +2783,7 @@ A tendril of divine energy shoots forth to draw in your foe.
 - 12–16: 6 holy damage; pull 3
 - 17+: 9 holy damage; pull 4
 
-###### [[Lightfall|LIGHTFALL]]
+###### LIGHTFALL
 
 Holy light scours your foes and sets your allies into perfect attack position.
 
@@ -2800,7 +2800,7 @@ Holy light scours your foes and sets your allies into perfect attack position.
 
 **Effect**: You can [[Teleport|teleport]] each ally in the area and yourself (if you’re in the area) to an unoccupied space within the area.
 
-###### [[Sacrificial Offer|SACRIFICIAL OFFER]]
+###### SACRIFICIAL OFFER
 
 The divine energy of creation tears at your foe.
 
@@ -2815,7 +2815,7 @@ The divine energy of creation tears at your foe.
 - 12–16: 6 corruption damage; the next ally to damage the target before the start of your next turn deals an extra 1d6 corruption damage
 - 17+: 9 corruption damage; the next ally to damage the target before the start of your next turn deals an extra 1d10 corruption damage
 
-###### [[Wither|WITHER]]
+###### WITHER
 
 A bolt of holy energy saps the life from a foe.
 
@@ -2838,7 +2838,7 @@ You make use of a number of heroic abilities, all of which channel piety to empo
 
 Choose one heroic ability from the following options, each of which costs 3 piety to use.
 
-###### [[Angel Of Wrath|ANGEL OF WRATH]] (3 PIETY)
+###### ANGEL OF WRATH (3 PIETY)
 
 You conjure an angelic spirit who lashes your foes with burning radiance.
 
@@ -2849,7 +2849,7 @@ You conjure an angelic spirit who lashes your foes with burning radiance.
 
 **Effect**: You summon an angelic spirit of size 1M who can’t be harmed, and who appears in an unoccupied space within distance. The spirit lasts until the end of your next turn. You and your allies can move through the spirit’s space, but enemies can’t. The first time on a turn that an enemy moves within 1 square of the spirit or starts their turn there, they take holy damage equal to twice your Intuition score.
 
-###### [[Punishing Smite|PUNISHING SMITE]] (3 PIETY)
+###### PUNISHING SMITE (3 PIETY)
 
 Your divine fury is a hammer that crashes down upon the unrighteous.
 
@@ -2864,7 +2864,7 @@ Your divine fury is a hammer that crashes down upon the unrighteous.
 - 12–16: 8 holy damage; [[Prone|prone]]
 - 17+: 13 holy damage; [[Prone|prone]] and can’t stand (EoT)
 
-###### [[Righteous Rebuke|RIGHTEOUS REBUKE]] (3 PIETY)
+###### RIGHTEOUS REBUKE (3 PIETY)
 
 Divine wrath strikes your foe with lightning that follows them across the battlefield.
 
@@ -2881,7 +2881,7 @@ Divine wrath strikes your foe with lightning that follows them across the battle
 
 **Effect**: If the target deals damage to another creature before the end of their next turn, the target of this ability takes another 1d10 lightning damage.
 
-###### [[Thunder Of The Divine|THUNDER OF THE DIVINE]] (3 PIETY)
+###### THUNDER OF THE DIVINE (3 PIETY)
 
 A resounding clap of thunder disrupts your foes.
 
@@ -2902,7 +2902,7 @@ A resounding clap of thunder disrupts your foes.
 
 Choose one heroic ability from the following options, each of which costs 5 piety to use.
 
-###### [[Armor Of The Faithful|ARMOR OF THE FAITHFUL]] (5 PIETY)
+###### ARMOR OF THE FAITHFUL (5 PIETY)
 
 The divine light of protection surrounds your allies.
 
@@ -2919,7 +2919,7 @@ The divine light of protection surrounds your allies.
 
 **Effect**: This temporary Stamina disappears at the end of the encounter.
 
-###### [[Divine Weakness|DIVINE WEAKNESS]] (5 PIETY)
+###### DIVINE WEAKNESS (5 PIETY)
 
 Divine energy scours your target to make them more susceptible to harm.
 
@@ -2934,7 +2934,7 @@ Divine energy scours your target to make them more susceptible to harm.
 - 12–16: 10 damage; whenever the target takes damage, they take an extra 5 corruption damage (EoT)
 - 17+: 16 damage; whenever the target takes damage, they take an extra 5 corruption damage (EoE)
 
-###### [[Terrifying Smite|TERRIFYING SMITE]] (5 PIETY)
+###### TERRIFYING SMITE (5 PIETY)
 
 A mote of holy light racks your foe with their greatest fear.
 
@@ -2949,7 +2949,7 @@ A mote of holy light racks your foe with their greatest fear.
 - 12–16: 10 holy damage; [[Frightened|frightened]] (EoT)
 - 17+: 16 holy damage; [[Frightened|frightened]] (EoE)
 
-###### [[Wave Of Virtue|WAVE OF VIRTUE]] (5 PIETY)
+###### WAVE OF VIRTUE (5 PIETY)
 
 A pulse of divine magic lets your comrades draw on their reserves of inner strength.
 
@@ -3158,7 +3158,7 @@ Your specialization grants you a triggered action, as shown on the Elementalist 
 | Green          | [[Mend The Soul|Mend the Soul]]        |
 | Void           | [[Void Embrace]]         |
 
-##### [[Earthen Force|EARTHEN FORCE]]
+##### EARTHEN FORCE
 
 You imbue an attack with the strength of stone.
 
@@ -3172,7 +3172,7 @@ You imbue an attack with the strength of stone.
 
 **Spend 1 Essence**: The attack deals extra damage equal to 4 times your Reason score instead and pushes the target a number of squares equal to your Reason score.
 
-##### [[Explosive Assistance|EXPLOSIVE ASSISTANCE]]
+##### EXPLOSIVE ASSISTANCE
 
 You add a little magic to an ally’s aggression at just the right time.
 
@@ -3186,7 +3186,7 @@ You add a little magic to an ally’s aggression at just the right time.
 
 **Spend 1 Essence**: The distance of the [[Forced Movement|forced movement]] is increased by a number of squares equal to twice your Reason score instead.
 
-##### [[Mend The Soul|MEND THE SOUL]]
+##### MEND THE SOUL
 
 The power you channel grants the ability to get back in the fight.
 
@@ -3198,7 +3198,7 @@ The power you channel grants the ability to get back in the fight.
 
 **Effect**: The target can spend a Recovery.
 
-##### [[Void Embrace|VOID EMBRACE]]
+##### VOID EMBRACE
 
 You call on the void to swallow and spit out an ally.
 
@@ -3220,7 +3220,7 @@ Your mastery of elemental magic grants you unique magical abilities that let you
 
 Select one signature ability from the options below. Signature abilities can be used at will.
 
-###### [[Debris|DEBRIS]]
+###### DEBRIS
 
 A sudden storm of detritus assaults your foes and leaves them struggling to move.
 
@@ -3237,7 +3237,7 @@ A sudden storm of detritus assaults your foes and leaves them struggling to move
 
 **Effect**: The ground beneath the area becomes [[Difficult Terrain|difficult terrain]] for your enemies.
 
-###### [[Fire Lance|FIRE LANCE]]
+###### FIRE LANCE
 
 A jet of fire erupts with elemental fury where it strikes.
 
@@ -3252,7 +3252,7 @@ A jet of fire erupts with elemental fury where it strikes.
 - 12–16: 6 fire damage; push 3
 - 17+: 9 fire damage; push 5
 
-###### [[Growing Pains|GROWING PAINS]]
+###### GROWING PAINS
 
 Whipping vines erupt from a foe’s body to grasp at another close by.
 
@@ -3269,7 +3269,7 @@ Whipping vines erupt from a foe’s body to grasp at another close by.
 
 **Effect**: A creature within 5 squares of the target is pulled 2 squares toward the target.
 
-###### [[Void Ray|VOID RAY]]
+###### VOID RAY
 
 A beam of energy corrupts and hinders whatever it touches.
 
@@ -3309,7 +3309,7 @@ Fire engulfs a target of your choice and burns at your command.
 
 **Persistent 1**: If the target is within distance at the start of your turn, make a power roll for this ability again.
 
-###### [[Invigorating Growth|INVIGORATING GROWTH]] (3 ESSENCE)
+###### INVIGORATING GROWTH (3 ESSENCE)
 
 Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.
 
@@ -3326,7 +3326,7 @@ Mushrooms erupt from a foe, sapping their vitality to spread strengthening spore
 
 **Effect**: The mushrooms can be removed by the target or by an adjacent creature as an action. While the mushrooms are on the target, each of your allies adjacent to the target gains an edge on attacks against them.
 
-###### [[Punch The Earth|PUNCH THE EARTH]] (3 ESSENCE)
+###### PUNCH THE EARTH (3 ESSENCE)
 
 You slam the ground, which buckles out from you in every direction.
 
@@ -3343,7 +3343,7 @@ You slam the ground, which buckles out from you in every direction.
 
 **Effect**: You must be touching the ground or floor to use this ability. The surface beneath the area becomes [[Difficult Terrain|difficult terrain]] for your enemies.
 
-###### [[Stare Into The Abyss|STARE INTO THE ABYSS]] (3 ESSENCE)
+###### STARE INTO THE ABYSS (3 ESSENCE)
 
 You open a rift into the void to harry your enemies.
 
@@ -3364,7 +3364,7 @@ You open a rift into the void to harry your enemies.
 
 Choose one heroic ability from the following options, each of which costs 5 essence to use.
 
-###### [[Conflagration|CONFLAGRATION]] (5 ESSENCE)
+###### CONFLAGRATION (5 ESSENCE)
 
 A storm of fire descends upon your enemies.
 
@@ -3381,7 +3381,7 @@ A storm of fire descends upon your enemies.
 
 **Persistent 2**: At the start of your turn, you can use this ability again as a maneuver without spending essence.
 
-###### [[Incorporealness|INCORPOREALNESS]] (5 ESSENCE)
+###### INCORPOREALNESS (5 ESSENCE)
 
 The material substance of a creature shreds away at your command.
 
@@ -3394,7 +3394,7 @@ The material substance of a creature shreds away at your command.
 
 **Persistent 1**: The effect lasts until the start of your next turn.
 
-###### [[Nourishing Rain|NOURISHING RAIN]] (5 ESSENCE)
+###### NOURISHING RAIN (5 ESSENCE)
 
 You call down a rain that burns your enemies and restores your allies.
 
@@ -3411,7 +3411,7 @@ You call down a rain that burns your enemies and restores your allies.
 
 **Effect**: You and each ally in the area suffering any effect that has a duration of EoT or is ended by a resistance roll have all such effects end.
 
-###### [[Open The Earth|OPEN THE EARTH]] (5 ESSENCE)
+###### OPEN THE EARTH (5 ESSENCE)
 
 The surface of the world around you opens up at your command.
 
@@ -3545,7 +3545,7 @@ Your primordial aspect grants you a triggered action, as shown on the Fury Trigg
 | Reaver     | [[Uncanny Dodge]]        |
 | Stormwight | [[Regeneration]]         |
 
-##### [[Regeneration|REGENERATION]]
+##### REGENERATION
 
 Your transformative abilities bring you back into the fight.
 
@@ -3559,7 +3559,7 @@ Your transformative abilities bring you back into the fight.
 
 **Spend 1 Rage:** If you are not dying, you can spend a Recovery.
 
-##### [[Relentless Toss|RELENTLESS TOSS]]
+##### RELENTLESS TOSS
 
 The Primordial Chaos allows you to redirect kinetic energy for a monstrous smash!
 
@@ -3573,7 +3573,7 @@ The Primordial Chaos allows you to redirect kinetic energy for a monstrous smash
 
 **Spend 1 Rage:** You can increase the forced move distance by a number of squares equal to twice your Might score instead.
 
-##### [[Uncanny Dodge|UNCANNY DODGE]]
+##### UNCANNY DODGE
 
 When a damaging effect surrounds you, you stay two steps ahead.
 
@@ -3595,7 +3595,7 @@ You specialize in dealing massive damage on the battlefield, mastering a number 
 
 Select one signature ability from the options below. Signature abilities can be used at will.
 
-###### [[Brutal Slam|BRUTAL SLAM]]
+###### BRUTAL SLAM
 
 The heavy impact of your weapon attacks drives your foes ever backward.
 
@@ -3610,7 +3610,7 @@ The heavy impact of your weapon attacks drives your foes ever backward.
 - 12–16: 8 damage; push 2
 - 17+: 12 damage; push 4
 
-###### [[Hit And Run|HIT AND RUN]]
+###### HIT AND RUN
 
 Keeping in constant motion helps you slip out of reach after a brutal assault.
 
@@ -3627,7 +3627,7 @@ Keeping in constant motion helps you slip out of reach after a brutal assault.
 
 **Effect:** You can shift 1 square after the attack is resolved.
 
-###### [[Humiliating Strike|HUMILIATING STRIKE]]
+###### HUMILIATING STRIKE
 
 You hit with a strength that’s worth the risk of raising your opponent’s ire.
 
@@ -3644,7 +3644,7 @@ You hit with a strength that’s worth the risk of raising your opponent’s ire
 
 **Effect:** You can choose to do an extra 1d6 damage to the target. If you do, the target gains an edge on their next attack against you.
 
-###### [[Impaling Strike|IMPALING STRIKE]]
+###### IMPALING STRIKE
 
 Fighting up close lets you keep your foe exactly where you want them.
 
@@ -3669,7 +3669,7 @@ You fight with an array of heroic abilities, all of which cost rage to fuel them
 
 Choose one heroic ability from the following options, each of which costs 3 rage to use.
 
-###### [[Death Before Beauty|DEATH BEFORE BEAUTY]] (3 RAGE)
+###### DEATH BEFORE BEAUTY (3 RAGE)
 
 Your enemies will get out of your way—whether they want to or not.
 
@@ -3686,7 +3686,7 @@ Your enemies will get out of your way—whether they want to or not.
 
 **Effect:** When you force move the target, you can move into squares they leave. The target takes the damage from any free strikes you provoke with this movement.
 
-###### [[Stab Me So I Can Pull Myself Closer To You|STAB ME SO I CAN PULL MYSELF CLOSER TO YOU]] (3 RAGE)
+###### STAB ME SO I CAN PULL MYSELF CLOSER TO YOU (3 RAGE)
 
 When you barrel through your foes, they feel your wrath.
 
@@ -3706,7 +3706,7 @@ When you barrel through your foes, they feel your wrath.
 
 **Effect:** The target takes an extra 1d6 damage for every [[Free Strike|free strike]] you triggered from your move.
 
-###### [[Whirlwind|WHIRLWIND]] STRIKE (3 RAGE)
+###### WHIRLWIND STRIKE (3 RAGE)
 
 As your foes close in around you, why bother taking them on one by one?
 
@@ -3759,7 +3759,7 @@ A mighty strike leaves your foe reeling.
 
 **Effect:** You can choose to deal 1d6 damage to yourself to deal an extra 2d6 damage to the target.
 
-###### [[Brute Precision|BRUTE PRECISION]] (5 RAGE)
+###### BRUTE PRECISION (5 RAGE)
 
 You can always trust your anger to get the job done.
 
@@ -3770,7 +3770,7 @@ You can always trust your anger to get the job done.
 
 **Effect:** The next attack you make this turn automatically achieves a tier 3 result and deals an extra 1d6 damage.
 
-###### [[Dying Blow|DYING BLOW]] (5 RAGE)
+###### DYING BLOW (5 RAGE)
 
 You focus your rage into a single devastating strike.
 
@@ -3787,7 +3787,7 @@ You focus your rage into a single devastating strike.
 
 **Spend 1 or More Additional Rage:** If you are winded, you can add 1d6 damage for each rage spent. If you are dying, you can add 1d10 damage for each rage spent. In either case, you then lose 1d6 Stamina.
 
-###### [[Primordial Shockwave|PRIMORDIAL SHOCKWAVE]] (5 RAGE)
+###### PRIMORDIAL SHOCKWAVE (5 RAGE)
 
 The destructive power of nature cannot be contained.
 
@@ -4117,11 +4117,11 @@ Your choice of college grants you one or two features, as shown on the 1st-Level
 | Caustic Alchemy | Coat the Blade, Smoke Bomb |
 | Harlequin Mask | I’m On Your Side |
 
-##### BLACK ASH [[Teleport|TELEPORT]]
+##### BLACK ASH TELEPORT
 
 You gain the following ability.
 
-###### BLACK ASH [[Teleport|TELEPORT]]
+###### BLACK ASH TELEPORT
 
 In a swirl of black ash, you step from one place to another.
 
@@ -4182,7 +4182,7 @@ Your college grants you a triggered action, as shown on the Shadow Triggered Act
 | Caustic Alchemy | [[Defensive Roll]]        |
 | Harlequin Mask  | [[Misdirection]]          |
 
-##### [[Defensive Roll|DEFENSIVE ROLL]]
+##### DEFENSIVE ROLL
 
 When an enemy attacks, you roll with the impact to reduce the harm.
 
@@ -4196,7 +4196,7 @@ When an enemy attacks, you roll with the impact to reduce the harm.
 
 **Spend 1 Insight:** If the triggering damage was from an attack, you also reduce the attack’s damage by one tier.
 
-##### [[In All This Confusion|IN ALL THIS CONFUSION]]
+##### IN ALL THIS CONFUSION
 
 You [[Teleport|teleport]] away in a plume of black smoke to avoid danger.
 
@@ -4210,7 +4210,7 @@ You [[Teleport|teleport]] away in a plume of black smoke to avoid danger.
 
 **Spend Insight:** You [[Teleport|teleport]] 1 additional square for each insight spent.
 
-##### [[Misdirection|MISDIRECTION]] (1 INSIGHT)
+##### MISDIRECTION (1 INSIGHT)
 
 You sow a moment of confusion in combat, to your enemy’s peril.
 
@@ -4246,7 +4246,7 @@ You specialize in dealing damage, then getting out of harm’s way before the in
 
 Select one signature ability from the options below. Signature abilities can be used at will.
 
-###### [[Distracting Pain|DISTRACTING PAIN]]
+###### DISTRACTING PAIN
 
 Your precise strikes let your allies take advantage of a target’s agony.
 
@@ -4261,7 +4261,7 @@ Your precise strikes let your allies take advantage of a target’s agony.
 - 12–16: 8 damage; the next attack against the target gains an edge
 - 17+: 12 damage; the target falls [[Prone|prone]]
 
-###### [[I Work Better Alone|I WORK BETTER ALONE]]
+###### I WORK BETTER ALONE
 
 Facing an enemy alone lets you exploit their overconfidence.
 
@@ -4278,7 +4278,7 @@ Facing an enemy alone lets you exploit their overconfidence.
 
 **Effect:** If the target has no allies adjacent to them, you gain an edge on the attack.
 
-###### [[Shot And Step|SHOT AND STEP]]
+###### SHOT AND STEP
 
 Being fast on your feet makes your ranged attacks especially deadly.
 
@@ -4295,7 +4295,7 @@ Being fast on your feet makes your ranged attacks especially deadly.
 
 **Effect:** You can shift 1 square before or after the attack.
 
-###### [[Sucker Slice|SUCKER SLICE]]
+###### SUCKER SLICE
 
 Keeping an enemy’s focus on you lets your ally hit hard.
 
@@ -4320,7 +4320,7 @@ A range of heroic abilities define your combat prowess, all of which make use of
 
 Choose one heroic ability from the following options, each of which costs 3 insight to use.
 
-###### [[Blade Dance|BLADE DANCE]] (3 INSIGHT)
+###### BLADE DANCE (3 INSIGHT)
 
 As you move across the battlefield, every foe within reach feels your wrath.
 
@@ -4337,7 +4337,7 @@ As you move across the battlefield, every foe within reach feels your wrath.
 - 12–16: 4 damage
 - 17+: 7 damage
 
-###### [[Quick Pursuit|QUICK PURSUIT]] (3 INSIGHT)
+###### QUICK PURSUIT (3 INSIGHT)
 
 A foe forced away from you might assume they’re out of danger, but they’ll soon learn otherwise.
 
@@ -4354,7 +4354,7 @@ A foe forced away from you might assume they’re out of danger, but they’ll s
 
 **Effect:** You can shift into squares the target leaves behind when you force move them.
 
-###### [[Two Throats At Once|TWO THROATS AT ONCE]] (3 INSIGHT)
+###### TWO THROATS AT ONCE (3 INSIGHT)
 
 Striking two foes at once is second nature to you.
 
@@ -4369,7 +4369,7 @@ Striking two foes at once is second nature to you.
 - 12–16: 6 damage
 - 17+: 9 damage
 
-###### [[Wounding Strike|WOUNDING STRIKE]] (3 INSIGHT)
+###### WOUNDING STRIKE (3 INSIGHT)
 
 You leave your foe [[Bleeding|bleeding]] out after a devastating attack.
 
@@ -4390,7 +4390,7 @@ You leave your foe [[Bleeding|bleeding]] out after a devastating attack.
 
 Choose one heroic ability from the following options, each of which costs 5 insight to use.
 
-###### [[Assassinate|ASSASSINATE]] (5 INSIGHT)
+###### ASSASSINATE (5 INSIGHT)
 
 You seize the perfect moment and strike with fatal precision!
 
@@ -4405,7 +4405,7 @@ You seize the perfect moment and strike with fatal precision!
 - 12–16: 2d6 + 12 damage
 - 17+: 2d6 + 18 damage
 
-###### [[Get In, Get Out|GET IN, GET OUT]] (5 INSIGHT)
+###### GET IN, GET OUT (5 INSIGHT)
 
 Move unexpectedly, strike fast, and be gone!
 
@@ -4422,7 +4422,7 @@ Move unexpectedly, strike fast, and be gone!
 
 **Effect:** You can move up to your speed, and that movement doesn’t provoke opportunity attacks. You can move before or after your attack, or can split your movement before and after your attack.
 
-###### [[Impairing Shot|IMPAIRING SHOT]] (5 INSIGHT)
+###### IMPAIRING SHOT (5 INSIGHT)
 
 Your attack leaves a foe in the perfect position for your allies to finish them.
 
@@ -4437,7 +4437,7 @@ Your attack leaves a foe in the perfect position for your allies to finish them.
 - 12–16: 11 damage; attacks against the target gain an edge (EoT)
 - 17+: 17 damage; attacks against the target have a double edge (EoT)
 
-###### [[Quickness|QUICKNESS]] (5 INSIGHT)
+###### QUICKNESS (5 INSIGHT)
 
 You put on a burst of magical speed to get the job done.
 
@@ -4595,7 +4595,7 @@ You help keep your side in motion as attacks rain down on your foes.
 
 **Spend 1 Focus:** The attack deals an extra 1d6 damage.
 
-##### [[Parry|PARRY]]
+##### PARRY
 
 Your quick reflexes cost an enemy the precision they seek.
 
@@ -4609,7 +4609,7 @@ Your quick reflexes cost an enemy the precision they seek.
 
 **Spend 1 Focus:** The result of the attack’s power roll is treated as one tier lower before the damage is halved. If the attack is a critical hit, the attacker can still take an additional action.
 
-##### [[Overwatch|OVERWATCH]]
+##### OVERWATCH
 
 Under your direction, an ally waits for just the right moment to strike.
 
@@ -4658,7 +4658,7 @@ Your heroic abilities cover a range of combat tactics, all of which require focu
 
 Choose one heroic ability from the following options, each of which costs 3 focus to use.
 
-###### [[Battle Cry|BATTLE CRY]] (3 FOCUS)
+###### BATTLE CRY (3 FOCUS)
 
 Hearing your shout of triumph fills your allies with combat fervor.
 
@@ -4669,7 +4669,7 @@ Hearing your shout of triumph fills your allies with combat fervor.
 
 **Effect:** Each target gains an edge on the next attack or resistance roll they make before the end of the encounter.
 
-###### [[Dazing Blow|DAZING BLOW]] (3 FOCUS)
+###### DAZING BLOW (3 FOCUS)
 
 Your precise strike leaves your foe struggling to respond.
 
@@ -4684,7 +4684,7 @@ Your precise strike leaves your foe struggling to respond.
 - 12–16: 8 damage; [[Dazed|dazed]] (EoT)
 - 17+: 13 damage; [[Dazed|dazed]] (EoE)
 
-###### [[Inspiring Strike|INSPIRING STRIKE]] (3 FOCUS)
+###### INSPIRING STRIKE (3 FOCUS)
 
 You hit a foe so hard that it gets your allies back in the fight.
 
@@ -4714,7 +4714,7 @@ On your command, you and your allies force back the enemy line.
 
 Choose one heroic ability from the following options, each of which costs 5 focus to use.
 
-###### [[Hammer And Anvil|HAMMER AND ANVIL]] (5 FOCUS)
+###### HAMMER AND ANVIL (5 FOCUS)
 
 Your attack is your allies’ signal to strike!
 
@@ -4742,7 +4742,7 @@ Your allies wait for your command—then unleash death!
 
 **Effect:** Each target can make a [[Free Strike|free strike]].
 
-###### [[Their Weakness Is Our Strength|THEIR WEAKNESS IS OUR STRENGTH]] (5 FOCUS)
+###### THEIR WEAKNESS IS OUR STRENGTH (5 FOCUS)
 
 Leaving your foe struggling gives your allies a strategic opening.
 
@@ -4759,7 +4759,7 @@ Leaving your foe struggling gives your allies a strategic opening.
 
 **Effect:** The target is marked (EoE). Each of your allies can spend a Recovery the first time they attack any target you’ve marked before the start of your next turn.
 
-###### [[This Is What We Planned For|THIS IS WHAT WE PLANNED FOR]] (5 FOCUS)
+###### THIS IS WHAT WE PLANNED FOR (5 FOCUS)
 
 A quick signal from you gives your allies a chance to turn the tide of battle.
 
@@ -4977,7 +4977,7 @@ Each caster kit grants you a ward that is active as long as you are alive and no
 
 This section details a number of martial kits, whose bonuses and benefits are summarized in the [[Martial Kits Table|Martial Kits table]].
 
-#### [[Cloak And Dagger|CLOAK AND DAGGER]]
+#### CLOAK AND DAGGER
 
 Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the [[Cloak And Dagger|Cloak and Dagger]] kit makes you more mobile while providing a boost to your effectiveness at range and to your damage. This kit is good for a hero who wants to be able to move all over the battlefield while keeping their options open for using short-range attacks.
 
@@ -5013,7 +5013,7 @@ A stab, and a few quick, careful steps back.
 - 12–16: 9 damage; you shift up to 2 squares
 - 17+: 13 damage; you shift up to 3 squares
 
-#### [[Guisarmier|GUISARMIER]]
+#### GUISARMIER
 
 The [[Guisarmier]] kit is for those who want to use a polearm for extended reach and still gain the extra protection of armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.
 
@@ -5047,7 +5047,7 @@ In your hands, the haft is as good as the head.
 - 12–16: 6 damage
 - 17+: 8 damage
 
-#### [[Martial Artist|MARTIAL ARTIST]]
+#### MARTIAL ARTIST
 
 If you want to be fast in a fight, then [[Martial Artist]] is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes to opponents, and allows you to be the ultimate skirmisher.
 
@@ -5083,7 +5083,7 @@ You feint to move your enemies into perfect position.
 
 **Effect:** If you roll a 12 or better and can’t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage.
 
-#### [[Mountain|MOUNTAIN]]
+#### MOUNTAIN
 
 The [[Mountain]] kit does exactly what it says on the tin. You don heavy armor and a heavy weapon to stand strong against your foes, quickly demolishing them when it’s your turn to attack.
 
@@ -5118,7 +5118,7 @@ An enemy who tagged you will pay for that.
 
 **Effect:** If the target dealt damage to you since the end of your last turn, this attack gains an edge.
 
-#### [[Panther|PANTHER]]
+#### PANTHER
 
 If you want a good balance of protection, speed, and damage, the [[Panther]] kit is for you. This kit increases your Stamina not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
 
@@ -5154,7 +5154,7 @@ The faster you move, the harder you hit.
 
 **Effect:** You can move up to 3 squares straight toward the target before this attack. You deal extra damage equal to the distance moved this way.
 
-#### [[Pugilist|PUGILIST]]
+#### PUGILIST
 
 Meant for brawlers and boxers, the [[Pugilist]] kit gives you access to a melee fighting style that boosts your Stamina and damage while allowing you to float like a butterfly. If you want to be a tough, strong hero who doles out punishment with your fists, then this kit is for you.
 
@@ -5190,7 +5190,7 @@ Keeping your enemies stumbling around the battlefield is second nature to you.
 
 **Effect:** You can shift into any square your target leaves after you slide them.
 
-#### [[Raider|RAIDER]]
+#### RAIDER
 
 The [[Raider]] kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
 
@@ -5225,7 +5225,7 @@ In your hands, a shield isn’t just for protection.
 - 12–16: 8 damage; push 2
 - 17+: 11 damage; push 3; [[Prone|prone]] if the target is your size or smaller
 
-#### [[Ranger|RANGER]]
+#### RANGER
 
 The [[Ranger]] kit outfits you with light armor and several weapons, letting you easily switch between using a melee weapon and a bow. This kit provides a good balance of bonuses to Stamina, speed, damage, and range to create a hero who is a jack-of-all-trades.
 
@@ -5261,7 +5261,7 @@ A well-placed shot leaves your enemy struggling to move.
 - 12–16: 7 damage; [[Slowed|slowed]] (EoT)
 - 17+: 10 damage; [[Slowed|slowed]] (EoE)
 
-#### [[Rapid-fire|RAPID-FIRE]]
+#### RAPID-FIRE
 
 The [[Rapid-fire|Rapid-Fire]] kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique focuses on peppering foes at medium range.
 
@@ -5296,7 +5296,7 @@ When you fire two arrows back to back, both hit their mark.
 - 12–16: 6 damage
 - 17+: 7 damage
 
-#### [[Retiarius|RETIARIUS]]
+#### RETIARIUS
 
 The [[Retiarius|retiarius]] is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
 
@@ -5331,7 +5331,7 @@ The well-thrown net that follows your main attack leaves your foes right where y
 - 12–16: 7 damage; [[Slowed|slowed]] (EoT)
 - 17+: 10 damage; [[Restrained|restrained]] (EoT)
 
-#### [[Shining Armor|SHINING ARMOR]]
+#### SHINING ARMOR
 
 The [[Shining Armor]] kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
 
@@ -5364,7 +5364,7 @@ The strength of your assault makes it impossible for your foe to ignore you.
 - 12–16: 9 damage; [[Taunted|taunted]] (EoT)
 - 17+: 12 damage; [[Taunted|taunted]] (EoT)
 
-#### [[Sniper|SNIPER]]
+#### SNIPER
 
 The [[Sniper]] kit gives you the tools and techniques to take down enemies from afar. This kit can help you become the archer who lurks behind trees or down tunnels, picking off enemies with a bow or crossbow as they approach.
 
@@ -5400,7 +5400,7 @@ Breathe… aim… wait… then strike!
 
 **Effect:** If you don’t take a move action this turn, you gain an edge on this attack.
 
-#### [[Stick And Robe|STICK AND ROBE]]
+#### STICK AND ROBE
 
 Armed with a simple reach weapon, often a quarterstaff, heroes using the [[Stick And Robe|Stick and Robe]] kit are highly mobile thanks to their light armor. This allows them to make maximum use of their weapon’s length.
 
@@ -5435,7 +5435,7 @@ When your stick speaks, your enemy moves.
 - 12–16: 8 damage; slide 1
 - 17+: 11 damage; slide 3
 
-#### [[Swashbuckler|SWASHBUCKLER]]
+#### SWASHBUCKLER
 
 If you want to be mobile and deal a lot of damage with melee attacks, then you should reach for the [[Swashbuckler]] kit. This is a great kit for heroes who want to be master duelists.
 
@@ -5471,7 +5471,7 @@ All combat is a dance—and you’ll be the one leading.
 
 **Effect:** You can shift into any square your target leaves after you force move them with this ability.
 
-#### [[Whirlwind|WHIRLWIND]]
+#### WHIRLWIND
 
 The [[Whirlwind]] kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a mobile warrior who uses a chain or whip, then this is the kit for you.
 
@@ -5505,7 +5505,7 @@ When you draw your whip back after an attack, your enemy comes ever closer.
 - 12–16: 8 damage; pull 1
 - 17+: 11 damage; pull 2
 
-#### [[Martial Kits Table|MARTIAL KITS TABLE]]
+#### MARTIAL KITS TABLE
 
 | Kit              | Armor          | Weapon             | Stamina | Speed | Stability | Melee Damage | Ranged Damage | Weapon Distance | Reach | Mobility |
 | ---------------- | -------------- | ------------------ | ------- | ----- | --------- | ------------ | ------------- | --------------- | ----- | -------- |
@@ -5529,7 +5529,7 @@ When you draw your whip back after an attack, your enemy comes ever closer.
 
 This section details a number of caster kits, whose bonuses and benefits are summarized in the Caster Kits table.
 
-#### [[Bloodpact|BLOODPACT]]
+#### BLOODPACT
 
 Sometimes you need a direct line to your heart to get the most of your magic. The [[Bloodpact]] kit trades your blood or lifeforce for more power and heightened casting. With careful control of your natural resources (or borrowing someone else’s), you can take care of business before succumbing to your own hubris. While using this kit, the smell of blood becomes super intense to your senses.
 
@@ -5565,7 +5565,7 @@ You drain the energy from your target and revitalize your senses.
 
 The blood ward is a large projection of your heart that magnifies the sound of your heartbeat. Whenever an ability lets you spend a Recovery, you can forgo regaining Stamina to instead increase your speed by 2 and have your abilities deal 2 extra corruption damage until the end of the encounter instead.
 
-#### [[Dancer|DANCER]]
+#### DANCER
 
 The [[Dancer]] kit forgoes nearly all equipment in exchange for speed, letting you rely purely on kinetic energy to channel your power. The more you move, the more others may want to move with you. Select this kit when your party regularly needs to close the distance on your enemies. While you use this kit, your heartbeat becomes an audible metronome.
 
@@ -5605,7 +5605,7 @@ Your ward surrounds you with a soft, enchanting melody whose volume you control,
 - Whenever an enemy ends their turn adjacent to you, you can shift 2 squares as a free triggered action.
 - Whenever a creature damages you with a melee ability, you can slide them a number of squares equal to your highest characteristic score.
 
-#### [[Frigid|FRIGID]]
+#### FRIGID
 
 The [[Frigid]] kit is for heroes who want to tap into the power of arcane blizzards and magical cold. Armed only with an implement of crystal, you can create bursts of ice and protect yourself with [[Frigid|frigid]] winds. When you meditate to prepare this kit, others notice the area around you becoming slightly cooler.
 
@@ -5644,7 +5644,7 @@ Your ward covers your body in ice, and grants you the following benefits:
 - You have cold immunity and fire immunity equal to your highest characteristic score.
 - When a creature damages you with a melee ability, they take cold damage equal to your highest characteristic score.
 
-#### [[Meditator|MEDITATOR]]
+#### MEDITATOR
 
 The [[Meditator]] kit allows you to wield magic hardened by experience and isolation. Your spirit visibly extends beyond your physical form in the form of moss, spores, and pulsing aura of light. While using this kit, you tend to skip meals and ignore inclement weather.
 
@@ -5682,7 +5682,7 @@ Your spirit overflows and warms the area around you. It grants you the following
 - You gain an edge on resistance rolls.
 - Whenever an enemy damages you with a melee ability, you deal corruption damage to that enemy equal to your highest characteristic score.
 
-#### [[Missile|MISSILE]]
+#### MISSILE
 
 The [[Missile]] kit allows you to throw your implement at your foes, then recall it back to you. Enemies impacted by this concentration of magic are left reeling while you stand safely out of their reach. When you use this kit, your competitive nature is more pronounced, and you wield your implement recklessly.
 
@@ -5722,7 +5722,7 @@ Your ward wraps itself around your head and shields your eyes, granting you the 
 - You have Ranged immunity equal to your highest characteristic score.
 - Whenever an enemy within 15 squares of you damages you with a ranged ability, your ward locks onto them until the end of the encounter.
 
-#### [[Nature Calling|NATURE CALLING]]
+#### NATURE CALLING
 
 The [[Nature Calling]] kit allows you to tap into the magical forces of nature. You wield an implement of stone so that your feet stand firm on the earth and your magic can be carried by the wind. While using this kit, you can faintly hear the whispers of the land around you.
 
@@ -5760,7 +5760,7 @@ Your ward surrounds you with protective animal spirits, and grants you the follo
 - The area within 2 squares of you is [[Difficult Terrain|difficult terrain]] for your enemies.
 - Whenever an enemy within 12 squares of you damages you with a ranged ability, you can either shift towards them or pull them a number of squares equal to your highest characteristic score.
 
-#### [[Rook|ROOK]]
+#### ROOK
 
 The [[Rook]] kit allows you to use strong armor so you can be better protected while you [[Heal|heal]] and enhance your allies on the frontline. Heroes with this kit often dive into support magic. While using this kit, your armor resonates with the sounds of choirs from on high as you polish it.
 
@@ -5797,7 +5797,7 @@ Your armor is reinforced by a bright ward of holy energy, and grants you the fol
 - Allies within 2 squares of you have their stability increased by 1.
 - Whenever an enemy damages you with a melee ability, you or an ally within 2 can shift 2 as a free triggered action.
 
-#### [[Spellslinger|SPELLSLINGER]]
+#### SPELLSLINGER
 
 The [[Spellslinger]] kit is for those who want to focus magic on their foes from far away, becoming a magical blaster surrounded by rippling energy. While using this kit, you can faintly see auras of energy emanating from far-off creatures.
 
@@ -5835,7 +5835,7 @@ Your ward surrounds you with crackling energy.
 
 Whenever you take damage, you gain a bonus to damage equal to your highest characteristic score, which you apply to the next damage-dealing magic ability you use before the end of the encounter. This benefit is cumulative, so that you can accrue bonus damage multiple times, then expend it all on one use of an ability.
 
-#### [[Ward Weaver|WARD WEAVER]]
+#### WARD WEAVER
 
 The [[Ward Weaver]] kit allows you to protect yourself in combat with telekinetic techniques that also boost your damage. This kit creates a supernatural hero who can more effectively ward themself and their allies. While you use this kit, you occasionally take on the mannerisms of your allies without realizing it.
 
@@ -5871,7 +5871,7 @@ Absorbing psychic energy from another creature lets you shield yourself within i
 
 You have an invisible ward of magical force that extends 2 squares from you in all directions. When you or an ally within the area of your ward take damage from another creature’s melee ability, you can push that creature a number of squares equal to your highest characteristic score.
 
-#### [[Caster Kit Table|CASTER KIT TABLE]]
+#### CASTER KIT TABLE
 
 | Caster Kits    | Kit Armor | Implement | Stamina | Speed | Stability | Magical Damage | Magic Distance | Area |
 | -------------- | --------- | --------- | ------- | ----- | --------- | -------------- | -------------- | ---- |
@@ -5909,7 +5909,7 @@ You can choose your character’s complication, or you can roll on the Complicat
 
 (Playtest note: More complications are coming.)
 
-#### [[Cult Victim|CULT VICTIM]]
+#### CULT VICTIM
 
 Cultists captured you while raiding your home, then began an unholy ritual to turn your body into an undead spirit. The ritual failed, but your body became infused with corrupted magic, turning you partially incorporeal.
 
@@ -5917,7 +5917,7 @@ Cultists captured you while raiding your home, then began an unholy ritual to tu
 
 **Drawback**: Your body is more susceptible to negative energy. You have corruption weakness 5.
 
-#### [[Devil Deal|[[Devil|DEVIL]] DEAL]]
+#### DEVIL DEAL
 
 Your ancestors made a deal with an archdevil that has tied you to that fiend’s service. When you first learned of this deal, you were taken to the Seven Cities of Hell, where some of the timescape’s best minds taught you the ways of battle or magic. The archdevil allows you to use these gifts as you will … until they require a favor from you.
 
@@ -5925,7 +5925,7 @@ Your ancestors made a deal with an archdevil that has tied you to that fiend’s
 
 **Drawback**: The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiendish patron sends devils after you and those you care about.
 
-#### [[Elemental Absorption|ELEMENTAL ABSORPTION]]
+#### ELEMENTAL ABSORPTION
 
 When an evil mage threatened someone you loved, you blocked your foe’s summoning of an elemental creature by absorbing their magic with your body. You are now infused with the power of that elemental—and they’re not happy about it.
 
@@ -5933,7 +5933,7 @@ When an evil mage threatened someone you loved, you blocked your foe’s summoni
 
 **Drawback**: When you are dying, your possessing elemental takes control of your body. The elemental yearns for destruction, causing you to attack the closest creature they notice without regard for your desires or your body’s safety.
 
-#### [[Fire And Chaos|FIRE AND CHAOS]]
+#### FIRE AND CHAOS
 
 A great monster who breathed fire burned your home to the ground. While everything around you was consumed, you somehow stood strong amid the inferno, your body adapting to ignore the effects of the flames.
 
@@ -5941,7 +5941,7 @@ A great monster who breathed fire burned your home to the ground. While everythi
 
 **Drawback**: You have cold weakness 5.
 
-#### [[Primordial Sickness|PRIMORDIAL SICKNESS]]
+#### PRIMORDIAL SICKNESS
 
 You once contracted a terrible illness for which no one could find a cure. You sought out a primordial swamp said to be either incredibly poisonous or miraculously salubrious. It turned out to be both, keeping your illness at bay while corrupting your body with its unnatural energy.
 
@@ -5949,7 +5949,7 @@ You once contracted a terrible illness for which no one could find a cure. You s
 
 **Drawback**: The number of Recoveries you have is reduced by 1.
 
-#### [[Punishment Curse|PUNISHMENT CURSE]]
+#### PUNISHMENT CURSE
 
 Through ignorance, fear, spite, or selfishness, you refused to help someone in need. To teach you a lesson, a deity offered you what seemed to be a blessing—extra power to help you [[Heal|heal]] yourself in times of need, but harsh consequences should your need become excessive. You took the deal, and now benefit from the blessing but also suffer from a curse.
 
@@ -5957,7 +5957,7 @@ Through ignorance, fear, spite, or selfishness, you refused to help someone in n
 
 **Drawback**: When you are out of Recoveries, you are dying, no matter what your current Stamina is.
 
-#### [[Shipwrecked|SHIPWRECKED]]
+#### SHIPWRECKED
 
 You are the sole survivor of a shipwreck that left you stranded on a remote and inhospitable island for years. Your struggle to survive there granted you insight into the natural world but distanced you from who you once were.
 
@@ -5965,7 +5965,7 @@ You are the sole survivor of a shipwreck that left you stranded on a remote and 
 
 **Drawback**: You have forgotten one language you know.
 
-#### [[Vivid Dreams|VIVID DREAMS]]
+#### VIVID DREAMS
 
 You broke a magic amulet that immersed your mind in weird magic. This magic has given you the power of premonition, but you struggle to control this new gift. Whenever you take a respite, make a Reason power roll to determine whether you gain this complication’s benefit or drawback.
 
@@ -5981,7 +5981,7 @@ Your childhood sweetheart was royalty, and the two of you stayed close throughou
 
 **Drawback**: Your royal ward regularly calls upon you for advice and takes that advice to heart—for better or for worse.
 
-#### [[War Of The Guilds|WAR OF THE GUILDS]]
+#### WAR OF THE GUILDS
 
 Being in the wrong place at the wrong time saw you caught in the middle of a conflict between two warring thieves’ guilds. Whether by choice or by accident, you wound up helping one faction at the expense of the other.
 
@@ -6562,7 +6562,7 @@ If you land on another creature when you fall, that creature takes the same dama
 
 When you first fall from a great height, you fall 100 squares in the first round. At the end of each subsequent round that you remain falling, you fall another 100 squares.
 
-### [[Hide|HIDE]] AND SNEAK
+### HIDE AND SNEAK
 
 Hiding and sneaking are important tools for heroes and their foes. You might want to avoid another creatures’ notice to eavesdrop on conversations, steal items, set up an ambush, or avoid a combat encounter.
 
@@ -6641,7 +6641,7 @@ Most languages have colloquial or casual names. For instance, many people in Ord
 |                   | Mindspeech         | A symbolic language shared among native telepaths.                   |
 | Everyone          | Caelian            | Common tongue                                                        |
 
-##### VASLORIA [[Human|HUMAN]] LANGUAGES
+##### VASLORIA HUMAN LANGUAGES
 
 | **Region** | **Language** |
 | ---------- | ------------ |
@@ -6731,7 +6731,7 @@ When you attract a new follower, you decide on their name and ancestry, and choo
 
 *(Playtest note: More types of followers are coming.)*
 
-##### [[Artisan|ARTISAN]]
+##### ARTISAN
 
 Artisans are crafting experts who can contribute to your research and crafting projects (see Research and Crafting).
 
@@ -6741,7 +6741,7 @@ An [[Artisan|artisan]] can contribute one project roll per day to a project you 
 
 When you recruit an [[Artisan|artisan]], choose four skills from the crafting skill group that they know. An [[Artisan|artisan]] has a Might or Agility score of 1 (your choice), a Reason score of 1, and a 0 in all other characteristics. They know Caelian and two other languages of your choice.
 
-##### [[Sage|SAGE]]
+##### SAGE
 
 Sages are research experts who can contribute to your research and crafting projects. A [[Sage|sage]] can contribute one project roll per day to a project you choose while they remain at your stronghold, provided they have access to the necessary materials.
 
@@ -6825,7 +6825,7 @@ Abilities with the Area keyword create an area of effect. Many area abilities al
 
 Abilities with the Attack keyword (referred to simply as “attacks”) deal damage to or impose a harmful effect on other creatures.
 
-#### [[Charge|CHARGE]]
+#### CHARGE
 
 Abilities with the [[Charge]] keyword can be used with the [[Charge]] action in place of a melee [[Free Strike|free strike]] (see [[Charge]] in Actions in Combat).
 
@@ -7040,39 +7040,39 @@ Whenever your character moves or when you or another creature are force moved, t
 
 Some abilities and other effects apply specific negative effects called conditions to a creature. The following conditions show up regularly in the game and are included on your character sheet. (Playtest note: They are not included on your character sheet yet.)
 
-#### [[Bleeding|BLEEDING]]
+#### BLEEDING
 
 While you are [[Bleeding|bleeding]], you can’t regain Stamina.
 
-#### [[Dazed|DAZED]]
+#### DAZED
 
 While you are [[Dazed|dazed]], you can do only one thing on your turn: use a maneuver, use an action, or take a move action. You also can’t use triggered actions, free triggered actions, or free maneuvers.
 
-#### [[Frightened|FRIGHTENED]]
+#### FRIGHTENED
 
 If you are [[Frightened|frightened]], attacks you make against the source of your fear take a bane. If that source is a creature, their attacks against you gain an edge. You can’t willingly move closer to the source of your fear if you know the location of that source. If you gain the [[Frightened|frightened]] condition from one source while already [[Frightened|frightened]] by a different source, the new condition replaces the old one.
 
-#### [[Grabbed|GRABBED]]
+#### GRABBED
 
 While you are [[Grabbed|grabbed]], your speed is 0, you can’t be force moved, you can’t use the [[Knockback]] maneuver, and you take a bane on attacks that don’t target the creature grabbing you. If the creature grabbing you moves, they bring you with them. If the creature’s size is equal to or less than yours, their speed is halved while they have you [[Grabbed|grabbed]].
 
 The creature grabbing you can use a maneuver to move you into an unoccupied space adjacent to them. The creature grabbing you can end the [[Grab|grab]] at any time (no action required). You can also attempt to escape being [[Grabbed|grabbed]] (see [[Escape Grab]] in Combat). If you [[Teleport|teleport]] or if the creature grabbing you is force moved to a space that isn’t adjacent to you, you are no longer [[Grabbed|grabbed]].
 
-#### [[Prone|PRONE]]
+#### PRONE
 
 While you are [[Prone|prone]], you are flat on the ground, attacks you make take a bane, and melee attacks made against you gain an edge. You must [[Crawl|crawl]] to move along the ground, which costs you 1 additional square of movement for every square you [[Crawl|crawl]]. You can’t climb, [[Jump|jump]], swim, or [[Fly|fly]] while [[Prone|prone]]. If you are climbing, flying, or jumping while you are knocked [[Prone|prone]], you fall.
 
 While [[Prone|prone]], you can [[Stand Up|stand up]] as a maneuver (see Maneuvers in Combat), unless the ability or effect that imposed the condition says otherwise. You can use a maneuver to make an adjacent [[Prone|prone]] creature [[Stand Up|stand up]].
 
-#### [[Restrained|RESTRAINED]]
+#### RESTRAINED
 
 While you are [[Restrained|restrained]], your speed is 0 and you can’t be force moved. Your attacks take a bane, attacks and damaging area powers against you gain an edge, and you have a bane on Might and Agility resistance rolls. If you [[Teleport|teleport]] while [[Restrained|restrained]], the condition ends.
 
-#### [[Slowed|SLOWED]]
+#### SLOWED
 
 While you are [[Slowed|slowed]], your speed is 2 unless it is already lower.
 
-#### [[Taunted|TAUNTED]]
+#### TAUNTED
 
 If you are [[Taunted|taunted]], you have a double bane on attacks that don’t include the creature who [[Taunted|taunted]] you. If you gain the [[Taunted|taunted]] condition from one creature while already [[Taunted|taunted]] by a different creature, the new condition replaces the old one.
 
@@ -7219,7 +7219,7 @@ A creature can break up their movement granted by their move action with their m
 
 A single move or other effect can never allow a creature to move more squares than their speed, unless the effect specifically states otherwise. For example, a creature with a speed of 5 might have that speed halved to 2. If an ally then targets them with an effect that allows them to move up to 3 squares, the creature can move only 2 squares because that’s their current speed.
 
-#### [[Shifting|SHIFTING]]
+#### SHIFTING
 
 Whenever you use your move action or when another effect allows you to move, you can instead shift to use up to half the maximum squares of movement the effect allows. Whenever you shift, creatures can’t make opportunity attacks against you during your movement (see Free Strikes).
 
@@ -7229,21 +7229,21 @@ Certain effects might also allow you to shift a specific number of squares, incl
 
 Creatures in the game can use eight types of movement: [[Walk|walk]], [[Burrow|burrow]], climb, swim, [[Jump|jump]], [[Crawl|crawl]], [[Fly|fly]], and [[Teleport|teleport]].
 
-##### [[Walk|WALK]]
+##### WALK
 
 Walking is the most common movement type, whether it refers to ambulating on legs, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
 
-##### [[Burrow|BURROW]]
+##### BURROW
 
 A creature with “[[Burrow|burrow]]” in their speed entry can move through dirt vertically or horizontally, and either has the means to breathe while doing so or doesn’t require air to live. Such creatures can’t move through more solid ground, such as stone, unless their stat block says otherwise.
 
-##### [[Climb Or Swim|CLIMB OR SWIM]]
+##### CLIMB OR SWIM
 
 If a creature’s speed entry includes the word “climb,” they can climb across vertical and horizontal surfaces at full speed. Likewise, if a creature has “swim” in their speed entry, they can swim in liquid at full speed.
 
 Creatures without those types of movement can still [[Climb Or Swim|climb or swim]] when a rule allows them to move, but each square of climbing or swimming costs 2 squares of movement. If a surface is difficult to climb (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to swim through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can’t [[Climb Or Swim|climb or swim]] but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
 
-##### [[Climbing Other Creatures|CLIMBING OTHER CREATURES]]
+##### CLIMBING OTHER CREATURES
 
 You can attempt to climb a creature whose size is greater than yours. If the creature is willing, you can climb them without any trouble. If the creature is unwilling, you make the following test:
 
@@ -7263,7 +7263,7 @@ While you climb or ride a creature, you gain an edge to melee attacks against th
 
 If you are knocked [[Prone|prone]] while climbing or riding a creature, you fall and land [[Prone|prone]] in an adjacent space of your choice, taking damage as usual from the fall.
 
-##### [[Jump|JUMP]]
+##### JUMP
 
 When an effect allows you to move, you can long [[Jump|jump]] a number of squares up to your Might or Agility score (your choice; minimum 1 square) without a test as part of that movement. If you move at least 2 squares in a straight line immediately before your [[Jump|jump]], you can long [[Jump|jump]] 1 additional square.
 
@@ -7273,15 +7273,15 @@ The height of your [[Jump|jump]] is 1 square. If you move at least 2 squares in 
 
 You can’t [[Jump|jump]] farther or higher than the distance of the effect that allows you to move.
 
-##### [[Crawl|CRAWL]]
+##### CRAWL
 
 If you are [[Prone|prone]] (see Conditions), you can remain [[Prone|prone]] and [[Crawl|crawl]] on the ground. Doing so costs you 1 additional square of movement for every square you [[Crawl|crawl]]. If you intentionally want to [[Crawl|crawl]], you can fall [[Prone|prone]] as a free maneuver on your turn. While voluntarily [[Prone|prone]], you can choose to stand as a free maneuver.
 
-##### [[Fly|FLY]]
+##### FLY
 
 A creature who can [[Fly|fly]] can move through the air vertically or horizontally at full speed. Such creatures can also hover in midair. If a flying creature is knocked [[Prone|prone]] or has their speed reduced to 0, they fall (see Falling).
 
-##### [[Teleport|TELEPORT]]
+##### TELEPORT
 
 When you [[Teleport|teleport]], you move from one space to another space instantaneously. The following rules apply to teleporting:
 
@@ -7293,15 +7293,15 @@ When you [[Teleport|teleport]], you move from one space to another space instant
 - If you [[Teleport|teleport]] while [[Prone|prone]], you can be standing when you reach your destination space provided you are able to stand. If another creature teleports you, it is up to them if you remain [[Prone|prone]] or stand, provided you are able.
 - If you [[Teleport|teleport]] while affected by the [[Grabbed|grabbed]] or [[Restrained|restrained]] conditions, those conditions end for you.
 
-#### [[Difficult Terrain|DIFFICULT TERRAIN]]
+#### DIFFICULT TERRAIN
 
 Areas of thick underbrush, rubble, spiderwebs, or other obstacles to movement create [[Difficult Terrain|difficult terrain]]. It costs 1 additional square of movement to enter a square of [[Difficult Terrain|difficult terrain]].
 
-#### [[High Ground|HIGH GROUND]]
+#### HIGH GROUND
 
 When you make an attack against a creature or object and you occupy a space that is fully above the space the target takes up, with the bottom of your space higher than the top of the target’s space, you gain an edge on the power roll against that target.
 
-#### [[Forced Movement|FORCED MOVEMENT]]
+#### FORCED MOVEMENT
 
 Some actions and maneuvers allow you to push, pull, or slide another creature a specific distance across the battlefield. Collectively, these types of movement are called [[Forced Movement|forced movement]]:
 
@@ -7376,15 +7376,15 @@ A maneuver typically involves less focus and exertion than an action. It can be 
 
 Sometimes you might not have anything you can do with your maneuver. That’s totally fine! Often, the best thing to do on your turn is take an action and move on.
 
-#### [[Aid Attack|AID ATTACK]]
+#### AID ATTACK
 
 Choose an enemy adjacent to you. The next attack an ally makes against that creature before the start of your next turn has an edge.
 
-#### [[Drink Potion|DRINK POTION]]
+#### DRINK POTION
 
 You can use this maneuver to drink a potion yourself or to administer a potion to an adjacent creature.
 
-#### [[Escape [[Grab]]|ESCAPE GRAB]]
+#### ESCAPE GRAB
 
 While you are [[Grabbed|grabbed]] by another creature (see [[Grab]] below), you can attempt to escape by making a resistance roll. You take a bane on the roll if the creature’s size is larger than yours.
 
@@ -7394,7 +7394,7 @@ While you are [[Grabbed|grabbed]] by another creature (see [[Grab]] below), you 
 - 12–16: You can escape the [[Grab|grab]], but if you do, the creature grabbing you can make a melee [[Free Strike|free strike]] against you before you are no longer [[Grabbed|grabbed]].
 - 17+: You are no longer [[Grabbed|grabbed]].
 
-#### [[Grab|GRAB]]
+#### GRAB
 
 You attempt to [[Grab|grab]] a creature using the following ability:
 
@@ -7413,11 +7413,11 @@ You attempt to [[Grab|grab]] a creature using the following ability:
 
 **Effect:** You gain an edge on the power roll if the creature’s size is smaller than yours. You can [[Grab|grab]] only one creature at a time this way.
 
-#### [[Hide|HIDE]]
+#### HIDE
 
 Using the [[Hide]] maneuver, you attempt to [[Hide|hide]] from other creatures who aren’t observing you while you have cover or concealment (see [[Hide]] and Sneak).
 
-#### [[Knockback|KNOCKBACK]]
+#### KNOCKBACK
 
 You attempt to shove an adjacent creature using the following ability:
 
@@ -7436,17 +7436,17 @@ You attempt to shove an adjacent creature using the following ability:
 
 **Effect:** You gain an edge on the power roll if the creature’s size is smaller than yours.
 
-#### [[Make Or Assist A Test|MAKE OR ASSIST A TEST]]
+#### MAKE OR ASSIST A TEST
 
 Many tests are maneuvers if made in combat. Searching a chest with a Reason test, picking a door’s lock with an Agility test, or lifting a portcullis with a Might test would all be maneuvers. Assisting a test is also a maneuver in combat.
 
 Complex or time-consuming tests might require an action if made in combat—or could take so long that they can’t be made during combat at all. Other tests that take no time at all, such as a Reason test to recall lore about mummies, are usually free maneuvers in combat. The Director has the final say regarding which tests can be made as maneuvers.
 
-#### [[Search For Hidden Creatures|SEARCH FOR HIDDEN CREATURES]]
+#### SEARCH FOR HIDDEN CREATURES
 
 You can use this maneuver to attempt to search for creatures hidden from you (see [[Hide]] and Sneak).
 
-#### [[Stand Up|STAND UP]]
+#### STAND UP
 
 You can use this maneuver to [[Stand Up|stand up]] if you are [[Prone|prone]], ending that condition. Alternatively, you can use this maneuver to make an adjacent [[Prone|prone]] creature [[Stand Up|stand up]].
 
@@ -7454,25 +7454,25 @@ You can use this maneuver to [[Stand Up|stand up]] if you are [[Prone|prone]], e
 
 When you take an action on your turn, you most often do so to use a unique ability defined on your character sheet (see Abilities). These abilities are the most unique, flavorful, and impactful things you can do with your action. You can also use your action to catch your breath, help another creature regain Stamina, [[Charge|charge]] into battle, [[Defend|defend]] yourself, or make a [[Free Strike|free strike]].
 
-#### [[Catch Breath|CATCH BREATH]]
+#### CATCH BREATH
 
 By using the [[Catch Breath]] action, you spend a Recovery and [[Heal|heal]] an amount equal to your recovery value. In addition, you also gain the benefit of the [[Defend]] action.
 
 If you are dying (see Dying and Death in Stamina), you can’t take the [[Catch Breath]] action, but other creatures can help you spend recoveries.
 
-#### [[Charge|CHARGE]]
+#### CHARGE
 
 When you take the [[Charge]] action, you move up to your speed in a straight line, then make a melee [[Free Strike|free strike]] (see Free Strikes) against a creature when you end your move. You can’t shift when you [[Charge|charge]].
 
-#### [[Defend|DEFEND]]
+#### DEFEND
 
 When you take the [[Defend]] action, all attacks against you have a double bane until the end of your next turn. You gain no benefit from this action while another creature is [[Taunted|taunted]] by you (see Conditions).
 
-#### [[Free Strike|FREE STRIKE]]
+#### FREE STRIKE
 
 You can use this action to make a [[Free Strike|free strike]] (see Free Strikes). Most of the time, you’ll want to use the more impactful actions found on your character sheet, just as the director will use the actions in a creature’s stat block, but free strikes are always available for when all else fails. For instance, a fury who has no other options for ranged attacks might use the Ranged Weapon [[Free Strike]] attack with an improvised weapon when battling a flying creature.
 
-#### [[Heal|HEAL]]
+#### HEAL
 
 You use your action to employ medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The creature can spend a Recovery to regain Stamina, or can make a resistance roll against a “(resistance ends)” effect they are suffering.
 
@@ -7494,7 +7494,7 @@ Every hero has two standard free strikes available to them. Your class might giv
 
 A melee weapon [[Free Strike|free strike]] is a melee attack made with an unarmed strike or an improvised weapon. A ranged weapon [[Free Strike|free strike]] is a ranged attack made with an improvised weapon. At the Director’s discretion, the damage type of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage.
 
-##### MELEE WEAPON [[Free Strike|FREE STRIKE]]
+##### MELEE WEAPON FREE STRIKE
 
 - **Keywords:** Attack, Melee, Weapon
 - **Type:** Action
@@ -7507,7 +7507,7 @@ A melee weapon [[Free Strike|free strike]] is a melee attack made with an unarme
 - 12–16: 6 damage
 - 17+: 9 damage
 
-##### RANGED WEAPON [[Free Strike|FREE STRIKE]]
+##### RANGED WEAPON FREE STRIKE
 
 - **Keywords:** Attack, Ranged, Weapon
 - **Type:** Action
@@ -7707,7 +7707,7 @@ Objectives in this category often have a timer associated with them. If the hero
 
 ##### COMPLETE THE ACTION
 
-The opposite of “Stop the Action,” this objective ending sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a [[Time [[Raider]]|time raider]] boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few time raiders actually aboard.
+The opposite of “Stop the Action,” this objective ending sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a [[Time Raider|time raider]] boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few time raiders actually aboard.
 
 ##### OBJECTIVES AND ENCOUNTER DIFFICULTY
 

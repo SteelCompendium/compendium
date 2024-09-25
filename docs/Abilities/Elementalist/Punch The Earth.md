@@ -1,6 +1,6 @@
 ---
 title: Punch The Earth (3 Essence)
-name: 'Punch The Earth '
+name: Punch The Earth
 type: abilities
 cost: 3 Essence
 subtype: elementalist

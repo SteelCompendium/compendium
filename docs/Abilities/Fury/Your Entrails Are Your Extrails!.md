@@ -1,6 +1,6 @@
 ---
 title: Your Entrails Are Your Extrails! (3 Rage)
-name: 'Your Entrails Are Your Extrails! '
+name: Your Entrails Are Your Extrails!
 type: abilities
 cost: 3 Rage
 subtype: fury

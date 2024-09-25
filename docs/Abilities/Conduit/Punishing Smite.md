@@ -1,6 +1,6 @@
 ---
 title: Punishing Smite (3 Piety)
-name: 'Punishing Smite '
+name: Punishing Smite
 type: abilities
 cost: 3 Piety
 subtype: conduit

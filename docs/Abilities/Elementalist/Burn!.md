@@ -1,6 +1,6 @@
 ---
 title: Burn! (3 Essence)
-name: 'Burn! '
+name: Burn!
 type: abilities
 cost: 3 Essence
 subtype: elementalist

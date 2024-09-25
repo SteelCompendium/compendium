@@ -1,6 +1,6 @@
 ---
 title: Primordial Shockwave (5 Rage)
-name: 'Primordial Shockwave '
+name: Primordial Shockwave
 type: abilities
 cost: 5 Rage
 subtype: fury

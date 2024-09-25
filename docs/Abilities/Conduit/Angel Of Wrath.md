@@ -1,6 +1,6 @@
 ---
 title: Angel Of Wrath (3 Piety)
-name: 'Angel Of Wrath '
+name: Angel Of Wrath
 type: abilities
 cost: 3 Piety
 subtype: conduit

@@ -1,6 +1,6 @@
 ---
 title: Quickness (5 Insight)
-name: 'Quickness '
+name: Quickness
 type: abilities
 cost: 5 Insight
 subtype: shadow
