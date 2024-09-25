@@ -22,8 +22,9 @@ You invigorate an attacking ally with divine energy.
 
 <!-- @nosort -->
 
-| **Keywords:** Magic, Ranged | **Type:** Triggered |
+|                             |                     |
 | :-------------------------- | :------------------ |
+| **Keywords:** Magic, Ranged | **Type:** Triggered |
 | **Distance:** Ranged 5      | **Target:** 1 ally  |
 
 - **Trigger**: The target makes an attack. You can use this ability after seeing the result of the attack.

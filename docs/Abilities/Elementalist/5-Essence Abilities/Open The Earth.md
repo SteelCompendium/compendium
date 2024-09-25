@@ -24,8 +24,9 @@ The surface of the world around you opens up at your command.
 
 <!-- @nosort -->
 
-| **Keywords:** Magic, Earth, Persistent, Ranged | **Type:** Maneuver  |
+|                                                |                     |
 | :--------------------------------------------- | :------------------ |
+| **Keywords:** Magic, Earth, Persistent, Ranged | **Type:** Maneuver  |
 | **Distance:** Ranged 5                         | **Target:** Special |
 
 **Effect**: You open four holes with 1-square openings that are 6 squares deep, and which can be placed on any mundane surface within distance. You can place these holes next to each other to create fewer holes with wider openings. For each creature standing above a hole when it opens and small enough to fall in, make a power roll.

@@ -22,8 +22,9 @@ Keeping in constant motion helps you slip out of reach after a brutal assault.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
+|                                     |                                  |
 | :---------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
 | **Distance:** Reach 1               | **Target:** 1 creature or object |
 
 **Power Roll + Might:**

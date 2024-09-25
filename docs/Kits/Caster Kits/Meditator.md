@@ -34,8 +34,9 @@ Your curse causes a foe's flesh to rot off as spores that aid your allies.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
+|                                     |                        |
 | :---------------------------------- | :--------------------- |
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
 | **Distance:** Ranged 5              | **Target:** 1 creature |
 
 **Power Roll** + Reason, Intuition, or Presence:

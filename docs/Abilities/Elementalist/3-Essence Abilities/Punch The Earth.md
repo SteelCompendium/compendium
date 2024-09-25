@@ -23,8 +23,9 @@ You slam the ground, which buckles out from you in every direction.
 
 <!-- @nosort -->
 
-| **Keywords:** Area, Earth, Magic | **Type:** Action        |
+|                                  |                         |
 | :------------------------------- | :---------------------- |
+| **Keywords:** Area, Earth, Magic | **Type:** Action        |
 | **Distance:** 3 burst            | **Target:** All enemies |
 
 **Power Roll + Reason**:

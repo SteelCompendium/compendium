@@ -22,8 +22,9 @@ The divine energy of creation tears at your foe.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
+|                                     |                        |
 | :---------------------------------- | :--------------------- |
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
 | **Distance:** Ranged 5              | **Target:** 1 creature |
 
 **Power Roll + Intuition**:

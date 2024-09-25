@@ -23,8 +23,9 @@ As your foes close in around you, why bother taking them on one by one?
 
 <!-- @nosort -->
 
-| **Keywords:** Area, Melee, Weapon | **Type:** Action        |
+|                                   |                         |
 | :-------------------------------- | :---------------------- |
+| **Keywords:** Area, Melee, Weapon | **Type:** Action        |
 | **Distance:** 1 burst             | **Target:** All enemies |
 
 **Power Roll + Might:**

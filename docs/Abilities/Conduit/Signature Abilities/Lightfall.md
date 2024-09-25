@@ -22,8 +22,9 @@ Holy light scours your foes and sets your allies into perfect attack position.
 
 <!-- @nosort -->
 
-| **Keywords:** Area, Magic, Ranged | **Type:** Action        |
+|                                   |                         |
 | :-------------------------------- | :---------------------- |
+| **Keywords:** Area, Magic, Ranged | **Type:** Action        |
 | **Distance:** Cube 3 within 5     | **Target:** All enemies |
 
 **Power Roll + Intuition**:

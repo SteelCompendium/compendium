@@ -24,8 +24,9 @@ Your attack is your allies' signal to strike!
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |
+|                                             |                                  |
 | :------------------------------------------ | :------------------------------- |
+| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |
 | **Distance:** Reach 1 or Ranged 5           | **Target:** 1 creature or object |
 
 **Power Roll + Might:**

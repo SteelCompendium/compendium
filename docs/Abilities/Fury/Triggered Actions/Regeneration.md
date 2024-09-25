@@ -21,8 +21,9 @@ Your transformative abilities bring you back into the fight.
 
 <!-- @nosort -->
 
-| **Keywords:** Melee | **Type:** Triggered |
+|                     |                     |
 | :------------------ | :------------------ |
+| **Keywords:** Melee | **Type:** Triggered |
 | **Distance:** Self  | **Target:** Self    |
 
 - **Trigger:** You lose Stamina and are not dying.

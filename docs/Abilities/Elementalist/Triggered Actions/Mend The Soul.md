@@ -23,8 +23,9 @@ The power you channel grants the ability to get back in the fight.
 
 <!-- @nosort -->
 
-| **Keywords:** Green, Magic, Ranged | **Type:** Triggered        |
+|                                    |                            |
 | :--------------------------------- | :------------------------- |
+| **Keywords:** Green, Magic, Ranged | **Type:** Triggered        |
 | **Distance:** Ranged 5             | **Target:** Self or 1 ally |
 
 - **Trigger**: The target starts their turn.

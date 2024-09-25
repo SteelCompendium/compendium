@@ -21,8 +21,9 @@ When an enemy attacks, you roll with the impact to reduce the harm.
 
 <!-- @nosort -->
 
-| **Keywords:** —    | **Type:** Triggered |
+|                    |                     |
 | :----------------- | :------------------ |
+| **Keywords:** —    | **Type:** Triggered |
 | **Distance:** Self | **Target:** Self    |
 
 - **Trigger:** Another creature damages you.

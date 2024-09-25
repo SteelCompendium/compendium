@@ -23,8 +23,9 @@ You add a little magic to an ally's aggression at just the right time.
 
 <!-- @nosort -->
 
-| **Keywords:** Fire, Magic, Ranged | **Type:** Triggered        |
+|                                   |                            |
 | :-------------------------------- | :------------------------- |
+| **Keywords:** Fire, Magic, Ranged | **Type:** Triggered        |
 | **Distance:** Ranged 5            | **Target:** Self or 1 ally |
 
 - **Trigger**: The target force moves a creature or object.

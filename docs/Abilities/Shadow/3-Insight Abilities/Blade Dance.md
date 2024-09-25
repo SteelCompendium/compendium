@@ -23,8 +23,9 @@ As you move across the battlefield, every foe within reach feels your wrath.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action |
+|                                     |                  |
 | :---------------------------------- | :--------------- |
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action |
 | **Distance:** Self                  | **Target:** Self |
 
 **Effect:** You move up to your speed, and that movement doesn't provoke opportunity attacks. You make one power roll that targets each enemy who becomes adjacent to you during the move.

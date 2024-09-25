@@ -24,8 +24,9 @@ You leave your foe [[Bleeding|bleeding]] out after a devastating attack.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
+|                                             |                        |
 | :------------------------------------------ | :--------------------- |
+| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
 | **Distance:** Reach 1 or Ranged 3           | **Target:** 1 creature |
 
 **Power Roll + Agility:**

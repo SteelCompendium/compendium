@@ -22,8 +22,9 @@ You hit with a strength that's worth the risk of raising your opponent's ire.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
+|                                     |                                  |
 | :---------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
 | **Distance:** Reach 1               | **Target:** 1 creature or object |
 
 **Power Roll + Might:**

@@ -36,8 +36,9 @@ You wear no armor and wield a heavy weapon.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
+|                                     |                                  |
 | :---------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
 | **Distance:** Reach 1               | **Target:** 1 creature or object |
 
 **Power Roll + Might or Agility:**

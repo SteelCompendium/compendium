@@ -35,8 +35,9 @@ Absorbing psychic energy from another creature lets you shield yourself within i
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
+|                                     |                        |
 | :---------------------------------- | :--------------------- |
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
 | **Distance:** Ranged 10             | **Target:** 1 creature |
 
 **Power Roll** + Intuition:

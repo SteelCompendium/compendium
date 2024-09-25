@@ -35,8 +35,9 @@ Two beams of supernatural force lance out at your command.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Magic, Ranged | **Type:** Action                   |
+|                                     |                                    |
 | :---------------------------------- | :--------------------------------- |
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action                   |
 | **Distance:** Ranged 10             | **Target:** 2 creatures or objects |
 
 **Power Roll** + Reason, Intuition, or Presence:

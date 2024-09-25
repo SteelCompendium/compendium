@@ -23,8 +23,9 @@ A resounding clap of thunder disrupts your foes.
 
 <!-- @nosort -->
 
-| **Keywords:** Area, Magic, Ranged | **Type:** Action        |
+|                                   |                         |
 | :-------------------------------- | :---------------------- |
+| **Keywords:** Area, Magic, Ranged | **Type:** Action        |
 | **Distance:** 4 cube within 5     | **Target:** All enemies |
 
 **Power Roll + Intuition**:

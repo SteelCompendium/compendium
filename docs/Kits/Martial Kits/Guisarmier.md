@@ -36,8 +36,9 @@ You wear medium armor and wield a polearm.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action                   |
+|                                     |                                    |
 | :---------------------------------- | :--------------------------------- |
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action                   |
 | **Distance:** Reach 2               | **Target:** 2 creatures or objects |
 
 **Power Roll + Might or Agility:**

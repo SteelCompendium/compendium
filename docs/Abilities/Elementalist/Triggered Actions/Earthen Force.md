@@ -23,8 +23,9 @@ You imbue an attack with the strength of stone.
 
 <!-- @nosort -->
 
-| **Keywords:** Earth, Magic, Ranged | **Type:** Triggered        |
+|                                    |                            |
 | :--------------------------------- | :------------------------- |
+| **Keywords:** Earth, Magic, Ranged | **Type:** Triggered        |
 | **Distance:** Ranged 5             | **Target:** Self or 1 ally |
 
 - **Trigger**: The target makes a melee attack.

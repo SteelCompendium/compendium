@@ -34,8 +34,9 @@ You lob your implement at high speed toward your opponent, unleashing a chaotic 
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
+|                                     |                                  |
 | :---------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
 | **Distance:** Ranged 15             | **Target:** 1 creature or object |
 
 **Power Roll** + Reason, Intuition, or Presence:

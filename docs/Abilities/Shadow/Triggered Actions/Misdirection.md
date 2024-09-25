@@ -22,8 +22,9 @@ You sow a moment of confusion in combat, to your enemy's peril.
 
 <!-- @nosort -->
 
-| **Keywords:** Magic | **Type:** Triggered |
+|                     |                     |
 | :------------------ | :------------------ |
+| **Keywords:** Magic | **Type:** Triggered |
 | **Distance:** Self  | **Target:** Self    |
 
 - **Trigger:** An enemy attacks you.

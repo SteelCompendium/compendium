@@ -23,8 +23,9 @@ Your divine fury is a hammer that crashes down upon the unrighteous.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
+|                                     |                                  |
 | :---------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
 | **Distance:** Ranged 5              | **Target:** 1 creature or object |
 
 **Power Roll + Intuition**:

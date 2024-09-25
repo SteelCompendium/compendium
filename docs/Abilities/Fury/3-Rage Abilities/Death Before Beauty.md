@@ -23,8 +23,9 @@ Your enemies will get out of your way—whether they want to or not.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
+|                                     |                        |
 | :---------------------------------- | :--------------------- |
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Reach 1               | **Target:** 1 creature |
 
 **Power Roll + Might:**

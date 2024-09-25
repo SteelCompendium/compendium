@@ -21,8 +21,9 @@ Under your direction, an ally waits for just the right moment to strike.
 
 <!-- @nosort -->
 
-| **Keywords:** Ranged    | **Type:** Triggered |
+|                         |                     |
 | :---------------------- | :------------------ |
+| **Keywords:** Ranged    | **Type:** Triggered |
 | **Distance:** Ranged 10 | **Target:** 1 enemy |
 
 - **Trigger:** The target moves.

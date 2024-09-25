@@ -21,8 +21,9 @@ You help keep your side in motion as attacks rain down on your foes.
 
 <!-- @nosort -->
 
-| **Keywords:** Ranged            | **Type:** Triggered        |
+|                                 |                            |
 | :------------------------------ | :------------------------- |
+| **Keywords:** Ranged            | **Type:** Triggered        |
 | **Distance:** Self or Ranged 10 | **Target:** You or an ally |
 
 - **Trigger:** A nontarget ally is about to make an attack.

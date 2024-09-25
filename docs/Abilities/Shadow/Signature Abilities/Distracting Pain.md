@@ -23,8 +23,9 @@ Your precise strikes let your allies take advantage of a target's agony.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
+|                                             |                        |
 | :------------------------------------------ | :--------------------- |
+| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
 | **Distance:** Reach 1 or Ranged 3           | **Target:** 1 creature |
 
 **Power Roll + Agility:**

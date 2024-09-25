@@ -23,8 +23,9 @@ Divine energy scours your target to make them more susceptible to harm.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
+|                                     |                                  |
 | :---------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
 | **Distance:** Ranged 5              | **Target:** 1 creature or object |
 
 **Power Roll + Intuition**:

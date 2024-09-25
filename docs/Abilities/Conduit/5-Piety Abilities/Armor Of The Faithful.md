@@ -22,8 +22,9 @@ The divine light of protection surrounds your allies.
 
 <!-- @nosort -->
 
-| **Keywords:** Magic, Ranged | **Type:** Maneuver   |
+|                             |                      |
 | :-------------------------- | :------------------- |
+| **Keywords:** Magic, Ranged | **Type:** Maneuver   |
 | **Distance:** Ranged 5      | **Target:** 3 allies |
 
 **Power Roll + Intuition**:

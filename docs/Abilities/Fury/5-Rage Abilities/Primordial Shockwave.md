@@ -23,8 +23,9 @@ The destructive power of nature cannot be contained.
 
 <!-- @nosort -->
 
-| **Keywords:** Area, Melee, Weapon | **Type:** Action        |
+|                                   |                         |
 | :-------------------------------- | :---------------------- |
+| **Keywords:** Area, Melee, Weapon | **Type:** Action        |
 | **Distance:** 5 × 1 line within 1 | **Target:** All enemies |
 
 **Power Roll + Might:**

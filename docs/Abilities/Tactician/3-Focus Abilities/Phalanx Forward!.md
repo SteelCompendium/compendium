@@ -22,8 +22,9 @@ On your command, you and your allies force back the enemy line.
 
 <!-- @nosort -->
 
-| **Keywords:** Ranged, Weapon | **Type:** Maneuver              |
+|                              |                                 |
 | :--------------------------- | :------------------------------ |
+| **Keywords:** Ranged, Weapon | **Type:** Maneuver              |
 | **Distance:** Ranged 10      | **Target:** Self and all allies |
 
 **Effect:** Each target can move their speed, push an adjacent enemy 1 square at the end of that move, and shift 1 square into the square the enemy left.

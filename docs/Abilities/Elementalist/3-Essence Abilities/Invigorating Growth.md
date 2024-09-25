@@ -24,8 +24,9 @@ Mushrooms erupt from a foe, sapping their vitality to spread strengthening spore
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Green, Magic, Ranged | **Type:** Action       |
+|                                            |                        |
 | :----------------------------------------- | :--------------------- |
+| **Keywords:** Attack, Green, Magic, Ranged | **Type:** Action       |
 | **Distance:** Ranged 5                     | **Target:** 1 creature |
 
 **Power Roll + Reason**:

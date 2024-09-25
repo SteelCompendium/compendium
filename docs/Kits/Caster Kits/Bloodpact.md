@@ -35,8 +35,9 @@ You drain the energy from your target and revitalize your senses.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Magic, Melee | **Type:** Action       |
+|                                    |                        |
 | :--------------------------------- | :--------------------- |
+| **Keywords:** Attack, Magic, Melee | **Type:** Action       |
 | **Distance:** Reach                | **Target:** 1 creature |
 
 **Power Roll** + Reason, Intuition, or Presence:

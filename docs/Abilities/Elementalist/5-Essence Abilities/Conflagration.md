@@ -25,8 +25,9 @@ A storm of fire descends upon your enemies.
 
 <!-- @nosort -->
 
-| **Keywords:** Area, Fire, Magic, Persistent, Ranged | **Type:** Action        |
+|                                                     |                         |
 | :-------------------------------------------------- | :---------------------- |
+| **Keywords:** Area, Fire, Magic, Persistent, Ranged | **Type:** Action        |
 | **Distance:** 4 cube within 5                       | **Target:** All enemies |
 
 **Power Roll + Reason**:

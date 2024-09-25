@@ -34,8 +34,9 @@ You call forth a small bolt of lightning, then hurl it at your foe.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
+|                                     |                                  |
 | :---------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
 | **Distance:** Ranged 12             | **Target:** 1 creature or object |
 
 **Power Roll** + Reason, Intuition, or Presence:

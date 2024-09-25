@@ -22,8 +22,9 @@ Being fast on your feet makes your ranged attacks especially deadly.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Ranged, Weapon | **Type:** Action                 |
+|                                      |                                  |
 | :----------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Ranged, Weapon | **Type:** Action                 |
 | **Distance:** Ranged 5               | **Target:** 1 creature or object |
 
 **Power Roll + Agility:**

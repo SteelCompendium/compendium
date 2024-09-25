@@ -24,8 +24,9 @@ Striking two foes at once is second nature to you.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                   |
+|                                             |                                    |
 | :------------------------------------------ | :--------------------------------- |
+| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                   |
 | **Distance:** Reach 1 or Ranged 5           | **Target:** 2 creatures or objects |
 
 **Power Roll + Agility:**

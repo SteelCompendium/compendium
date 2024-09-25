@@ -25,8 +25,9 @@ You open a rift into the void to harry your enemies.
 
 <!-- @nosort -->
 
-| **Keywords:** Area, Magic, Persistent, Ranged, Void | **Type:** Action        |
+|                                                     |                         |
 | :-------------------------------------------------- | :---------------------- |
+| **Keywords:** Area, Magic, Persistent, Ranged, Void | **Type:** Action        |
 | **Distance:** 4 cube within 5                       | **Target:** All enemies |
 
 **Power Roll + Reason**:

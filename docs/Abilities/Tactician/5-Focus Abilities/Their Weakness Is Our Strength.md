@@ -24,8 +24,9 @@ Leaving your foe struggling gives your allies a strategic opening.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |
+|                                             |                                  |
 | :------------------------------------------ | :------------------------------- |
+| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |
 | **Distance:** Reach 1 or Ranged 5           | **Target:** 1 creature or object |
 
 **Power Roll + Might:**

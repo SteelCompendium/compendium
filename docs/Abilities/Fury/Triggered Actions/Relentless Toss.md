@@ -22,8 +22,9 @@ The Primordial Chaos allows you to redirect kinetic energy for a monstrous smash
 
 <!-- @nosort -->
 
-| **Keywords:** Magic, Melee  | **Type:** Triggered            |
+|                             |                                |
 | :-------------------------- | :----------------------------- |
+| **Keywords:** Magic, Melee  | **Type:** Triggered            |
 | **Distance:** Self or reach | **Target:** Self or 1 creature |
 
 - **Trigger:** The target is force moved.

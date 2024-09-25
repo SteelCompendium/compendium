@@ -23,8 +23,9 @@ You call down a rain that burns your enemies and restores your allies.
 
 <!-- @nosort -->
 
-| **Keywords:** Area, Green, Magic | **Type:** Action        |
+|                                  |                         |
 | :------------------------------- | :---------------------- |
+| **Keywords:** Area, Green, Magic | **Type:** Action        |
 | **Distance:** 5 burst            | **Target:** All enemies |
 
 **Power Roll + Reason**:

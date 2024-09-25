@@ -21,8 +21,9 @@ You [[Teleport|teleport]] away in a plume of black smoke to avoid danger.
 
 <!-- @nosort -->
 
-| **Keywords:** Magic | **Type:** Triggered |
+|                     |                     |
 | :------------------ | :------------------ |
+| **Keywords:** Magic | **Type:** Triggered |
 | **Distance:** Self  | **Target:** Self    |
 
 - **Trigger:** You take damage.

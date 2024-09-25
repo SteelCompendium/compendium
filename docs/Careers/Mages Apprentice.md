@@ -34,8 +34,9 @@ You cast an entertaining spell that creates a minor but impressive magical effec
 
 <!-- @nosort -->
 
-| **Keywords:** Magic | **Type:** Action |
+|                     |                  |
 | :------------------ | :--------------- |
+| **Keywords:** Magic | **Type:** Action |
 | **Distance:** Self  | **Target:** Self |
 
 **Effect**: Choose one of the following effects:

@@ -35,8 +35,9 @@ You unleash a blast of frigid air to freeze and hinder your foes.
 
 <!-- @nosort -->
 
-| **Keywords:** Area, Magic, Ranged | **Type:** Action        |
+|                                   |                         |
 | :-------------------------------- | :---------------------- |
+| **Keywords:** Area, Magic, Ranged | **Type:** Action        |
 | **Distance:** 3 cube within 12    | **Target:** All enemies |
 
 **Power Roll** + Reason, Intuition, or Presence:

@@ -38,8 +38,9 @@ You wear medium armor and wield a medium weapon and a bow.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Ranged, Weapon | **Type:** Action       |
+|                                      |                        |
 | :----------------------------------- | :--------------------- |
+| **Keywords:** Attack, Ranged, Weapon | **Type:** Action       |
 | **Distance:** Ranged 10              | **Target:** 1 creature |
 
 **Power Roll + Might or Agility:**

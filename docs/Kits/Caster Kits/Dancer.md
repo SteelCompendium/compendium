@@ -34,8 +34,9 @@ Visible energy sparks off you to wash across a nearby foe, who you invite to dan
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Magic, Melee | **Type:** Action                 |
+|                                    |                                  |
 | :--------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Magic, Melee | **Type:** Action                 |
 | **Distance:** Reach 2              | **Target:** 1 creature or object |
 
 **Power Roll** + Agility, Intuition, or Presence:

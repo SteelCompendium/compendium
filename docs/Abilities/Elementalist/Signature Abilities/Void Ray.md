@@ -23,8 +23,9 @@ A beam of energy corrupts and hinders whatever it touches.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Magic, Ranged, Void | **Type:** Action                 |
+|                                           |                                  |
 | :---------------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Magic, Ranged, Void | **Type:** Action                 |
 | **Distance:** Ranged 5                    | **Target:** 1 creature or object |
 
 **Power Roll + Reason**:

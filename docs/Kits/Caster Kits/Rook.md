@@ -33,8 +33,9 @@ Burning radiance falls upon your foe, outlining them with a holy glow.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
+|                                     |                                  |
 | :---------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
 | **Distance:** Ranged 5              | **Target:** 1 creature or object |
 
 **Power Roll** + Reason, Intuition, or Presence:

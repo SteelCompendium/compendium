@@ -23,8 +23,9 @@ Unless they get some help, your foe is finished.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
+|                                     |                                  |
 | :---------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
 | **Distance:** Reach                 | **Target:** 1 creature or object |
 
 **Power Roll + Might:**

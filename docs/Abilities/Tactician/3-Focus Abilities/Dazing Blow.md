@@ -24,8 +24,9 @@ Your precise strike leaves your foe struggling to respond.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |
+|                                             |                                  |
 | :------------------------------------------ | :------------------------------- |
+| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |
 | **Distance:** Reach or Ranged 5             | **Target:** 1 creature or object |
 
 **Power Roll + Might:**

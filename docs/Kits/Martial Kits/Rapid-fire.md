@@ -37,8 +37,9 @@ You wear light armor and wield a bow.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Ranged, Weapon | **Type:** Action                   |
+|                                      |                                    |
 | :----------------------------------- | :--------------------------------- |
+| **Keywords:** Attack, Ranged, Weapon | **Type:** Action                   |
 | **Distance:** Ranged 12              | **Target:** 2 creatures or objects |
 
 **Power Roll + Might or Agility:**

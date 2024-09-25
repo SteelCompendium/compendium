@@ -36,8 +36,9 @@ You wear no armor and wield a bow.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Ranged, Weapon | **Type:** Action       |
+|                                      |                        |
 | :----------------------------------- | :--------------------- |
+| **Keywords:** Attack, Ranged, Weapon | **Type:** Action       |
 | **Distance:** Ranged 15              | **Target:** 1 creature |
 
 **Power Roll + Might or Agility:**

@@ -22,8 +22,9 @@ You sap the strength of an attacking enemy with divine energy.
 
 <!-- @nosort -->
 
-| **Keywords:** Magic, Ranged | **Type:** Triggered |
+|                             |                     |
 | :-------------------------- | :------------------ |
+| **Keywords:** Magic, Ranged | **Type:** Triggered |
 | **Distance:** Ranged 5      | **Target:** 1 enemy |
 
 - **Trigger**: The target makes an attack. You can use this ability after seeing the result of the attack.

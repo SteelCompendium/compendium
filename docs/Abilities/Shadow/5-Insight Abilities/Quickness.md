@@ -21,8 +21,9 @@ You put on a burst of magical speed to get the job done.
 
 <!-- @nosort -->
 
-| **Keywords:** Magic | **Type:** Action |
+|                     |                  |
 | :------------------ | :--------------- |
+| **Keywords:** Magic | **Type:** Action |
 | **Distance:** Self  | **Target:** Self |
 
 **Effect:** You make two signature attacks that each deal extra damage equal to twice your Agility.

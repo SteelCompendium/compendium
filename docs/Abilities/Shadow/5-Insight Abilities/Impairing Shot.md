@@ -23,8 +23,9 @@ Your attack leaves a foe in the perfect position for your allies to finish them.
 
 <!-- @nosort -->
 
-| **Keywords:** Attack, Ranged, Weapon | **Type:** Action       |
+|                                      |                        |
 | :----------------------------------- | :--------------------- |
+| **Keywords:** Attack, Ranged, Weapon | **Type:** Action       |
 | **Distance:** Ranged 5               | **Target:** 1 creature |
 
 **Power Roll + Agility:**
