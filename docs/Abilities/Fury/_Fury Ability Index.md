@@ -1,14 +1,14 @@
 # Fury Ability Index
 
 - [[Brutal Slam]]
-- [[Hit and Run]]
+- [[Hit And Run]]
 - [[Humiliating Strike]]
 - [[Impaling Strike]]
 - [[Death Before Beauty]]
-- [[Stab Me So I Can Pull Myself Closer to You]]
+- [[Stab Me So I Can Pull Myself Closer To You]]
 - [[Whirlwind Strike]]
 - [[Your Entrails Are Your Extrails!]]
-- [[Blood for Blood!]]
+- [[Blood For Blood!]]
 - [[Brute Precision]]
 - [[Dying Blow]]
 - [[Primordial Shockwave]]

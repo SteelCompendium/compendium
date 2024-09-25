@@ -126,7 +126,7 @@ John turned to see. Sir Vaantikalisax loomed just inside the doorway, his scales
 
 The knight stared at them for a moment, then turned back to his friend.
 
-“Maybe you're right,” the [[Dragon knight|dragon knight]] said.
+“Maybe you're right,” the [[Dragon Knight|dragon knight]] said.
 
  POLDER BENEFITS
 

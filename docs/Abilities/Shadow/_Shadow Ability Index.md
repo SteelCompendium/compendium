@@ -2,7 +2,7 @@
 
 - [[Distracting Pain]]
 - [[I Work Better Alone]]
-- [[Shot and Step]]
+- [[Shot And Step]]
 - [[Sucker Slice]]
 - [[Blade Dance]]
 - [[Quick Pursuit]]
