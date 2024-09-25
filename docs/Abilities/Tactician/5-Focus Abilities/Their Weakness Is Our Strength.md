@@ -1,11 +1,17 @@
 ---
+title_raw: Their Weakness Is Our Strength (5 Focus)
 title: Their Weakness Is Our Strength (5 Focus)
+name_raw: Their Weakness Is Our Strength
 name: Their Weakness Is Our Strength
-type: abilities
 cost: 5 Focus
+type: abilities
 subtype: tactician
 keywords: Attack, Melee, Ranged, Weapon
-keyword_list: [Attack, Melee, Ranged, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Ranged
+  - Weapon
 ability_type: Action
 distance: Reach 1 or Ranged 5
 target: 1 creature or object

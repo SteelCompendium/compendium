@@ -1,5 +1,7 @@
 ---
+title_raw: Soldier
 title: Soldier
+name_raw: Soldier
 name: Soldier
 type: careers
 ---

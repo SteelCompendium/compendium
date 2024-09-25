@@ -1,9 +1,12 @@
 ---
+title_raw: Polder
 title: Polder
+name_raw: Polder
 name: Polder
 type: ancestries
 keywords: Magic
-keyword_list: [Magic]
+keyword_list:
+  - Magic
 ability_type: Maneuver
 distance: Self
 target: Self

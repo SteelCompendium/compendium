@@ -1,5 +1,7 @@
 ---
+title_raw: Noble
 title: Noble
+name_raw: Noble
 name: Noble
 type: cultures
 subtype: upbringing

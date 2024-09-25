@@ -1,5 +1,7 @@
 ---
+title_raw: Peace
 title: Peace
+name_raw: Peace
 name: Peace
 type: negotiation
 subtype: motivations and pitfalls

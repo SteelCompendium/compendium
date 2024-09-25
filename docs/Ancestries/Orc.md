@@ -1,5 +1,7 @@
 ---
+title_raw: Orc
 title: Orc
+name_raw: Orc
 name: Orc
 type: ancestries
 ---

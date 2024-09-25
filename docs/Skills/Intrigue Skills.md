@@ -1,5 +1,7 @@
 ---
+title_raw: Intrigue Skills
 title: Intrigue Skills
+name_raw: Intrigue Skills
 name: Intrigue Skills
 type: skills
 ---

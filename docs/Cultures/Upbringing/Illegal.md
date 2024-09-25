@@ -1,5 +1,7 @@
 ---
+title_raw: Illegal
 title: Illegal
+name_raw: Illegal
 name: Illegal
 type: cultures
 subtype: upbringing

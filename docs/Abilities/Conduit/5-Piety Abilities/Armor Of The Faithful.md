@@ -1,11 +1,15 @@
 ---
+title_raw: Armor Of The Faithful (5 Piety)
 title: Armor Of The Faithful (5 Piety)
+name_raw: Armor Of The Faithful
 name: Armor Of The Faithful
-type: abilities
 cost: 5 Piety
+type: abilities
 subtype: conduit
 keywords: Magic, Ranged
-keyword_list: [Magic, Ranged]
+keyword_list:
+  - Magic
+  - Ranged
 ability_type: Maneuver
 distance: Ranged 5
 target: 3 allies

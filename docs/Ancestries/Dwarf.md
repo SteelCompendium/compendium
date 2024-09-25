@@ -1,5 +1,7 @@
 ---
+title_raw: Dwarf
 title: Dwarf
+name_raw: Dwarf
 name: Dwarf
 type: ancestries
 ---

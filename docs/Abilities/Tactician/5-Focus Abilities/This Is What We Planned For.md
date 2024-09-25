@@ -1,11 +1,14 @@
 ---
+title_raw: This Is What We Planned For (5 Focus)
 title: This Is What We Planned For (5 Focus)
+name_raw: This Is What We Planned For
 name: This Is What We Planned For
-type: abilities
 cost: 5 Focus
+type: abilities
 subtype: tactician
 keywords: Ranged
-keyword_list: [Ranged]
+keyword_list:
+  - Ranged
 ability_type: Maneuver
 distance: Ranged 10
 target: 2 allies

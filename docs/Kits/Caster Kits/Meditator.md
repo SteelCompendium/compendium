@@ -1,10 +1,15 @@
 ---
+title_raw: Meditator
 title: Meditator
+name_raw: Meditator
 name: Meditator
 type: kits
 subtype: caster kits
 keywords: Attack, Magic, Ranged
-keyword_list: [Attack, Magic, Ranged]
+keyword_list:
+  - Attack
+  - Magic
+  - Ranged
 ability_type: Action
 distance: Ranged 5
 target: 1 creature

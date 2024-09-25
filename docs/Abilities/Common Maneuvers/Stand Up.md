@@ -1,5 +1,7 @@
 ---
+title_raw: Stand Up
 title: Stand Up
+name_raw: Stand Up
 name: Stand Up
 type: abilities
 subtype: common maneuvers

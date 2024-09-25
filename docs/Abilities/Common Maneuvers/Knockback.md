@@ -1,10 +1,13 @@
 ---
+title_raw: Knockback
 title: Knockback
+name_raw: Knockback
 name: Knockback
 type: abilities
 subtype: common maneuvers
 keywords: Melee
-keyword_list: [Melee]
+keyword_list:
+  - Melee
 ability_type: Maneuver
 distance: Reach 1
 target: 1 creature the same size or smaller than you

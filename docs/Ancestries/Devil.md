@@ -1,5 +1,7 @@
 ---
+title_raw: Devil
 title: Devil
+name_raw: Devil
 name: Devil
 type: ancestries
 ---

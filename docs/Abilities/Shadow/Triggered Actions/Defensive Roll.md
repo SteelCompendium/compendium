@@ -1,10 +1,13 @@
 ---
+title_raw: Defensive Roll
 title: Defensive Roll
+name_raw: Defensive Roll
 name: Defensive Roll
 type: abilities
 subtype: shadow
 keywords: —
-keyword_list: [—]
+keyword_list:
+  - —
 ability_type: Triggered
 distance: Self
 target: Self

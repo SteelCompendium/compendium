@@ -1,5 +1,7 @@
 ---
+title_raw: Exploration Skills
 title: Exploration Skills
+name_raw: Exploration Skills
 name: Exploration Skills
 type: skills
 ---

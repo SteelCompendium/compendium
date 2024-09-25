@@ -1,5 +1,7 @@
 ---
+title_raw: Burrow
 title: Burrow
+name_raw: Burrow
 name: Burrow
 type: movement
 ---

@@ -1,5 +1,7 @@
 ---
+title_raw: Higher Authority
 title: Higher Authority
+name_raw: Higher Authority
 name: Higher Authority
 type: negotiation
 subtype: motivations and pitfalls

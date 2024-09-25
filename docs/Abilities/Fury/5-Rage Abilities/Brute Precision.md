@@ -1,11 +1,14 @@
 ---
+title_raw: Brute Precision (5 Rage)
 title: Brute Precision (5 Rage)
+name_raw: Brute Precision
 name: Brute Precision
-type: abilities
 cost: 5 Rage
+type: abilities
 subtype: fury
 keywords: —
-keyword_list: [—]
+keyword_list:
+  - —
 ability_type: Free maneuver
 distance: Self
 target: Self

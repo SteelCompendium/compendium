@@ -1,5 +1,7 @@
 ---
+title_raw: Nomadic
 title: Nomadic
+name_raw: Nomadic
 name: Nomadic
 type: cultures
 subtype: environments

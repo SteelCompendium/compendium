@@ -1,5 +1,7 @@
 ---
+title_raw: Bureaucratic
 title: Bureaucratic
+name_raw: Bureaucratic
 name: Bureaucratic
 type: cultures
 subtype: organizations

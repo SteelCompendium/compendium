@@ -1,11 +1,14 @@
 ---
+title_raw: Battle Cry (3 Focus)
 title: Battle Cry (3 Focus)
+name_raw: Battle Cry
 name: Battle Cry
-type: abilities
 cost: 3 Focus
+type: abilities
 subtype: tactician
 keywords: Ranged
-keyword_list: [Ranged]
+keyword_list:
+  - Ranged
 ability_type: Maneuver
 distance: Ranged 10
 target: Up to three allies

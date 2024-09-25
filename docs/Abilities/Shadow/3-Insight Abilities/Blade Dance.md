@@ -1,11 +1,16 @@
 ---
+title_raw: Blade Dance (3 Insight)
 title: Blade Dance (3 Insight)
+name_raw: Blade Dance
 name: Blade Dance
-type: abilities
 cost: 3 Insight
+type: abilities
 subtype: shadow
 keywords: Attack, Melee, Weapon
-keyword_list: [Attack, Melee, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
 ability_type: Action
 distance: Self
 target: Self

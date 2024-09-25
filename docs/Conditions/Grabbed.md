@@ -1,5 +1,7 @@
 ---
+title_raw: Grabbed
 title: Grabbed
+name_raw: Grabbed
 name: Grabbed
 type: conditions
 ---

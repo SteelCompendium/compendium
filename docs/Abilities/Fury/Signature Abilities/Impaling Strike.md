@@ -1,10 +1,15 @@
 ---
+title_raw: Impaling Strike
 title: Impaling Strike
+name_raw: Impaling Strike
 name: Impaling Strike
 type: abilities
 subtype: fury
 keywords: Attack, Melee, Weapon
-keyword_list: [Attack, Melee, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
 ability_type: Action
 distance: Reach 1
 target: 1 creature of your size or smaller

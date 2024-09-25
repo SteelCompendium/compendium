@@ -1,5 +1,7 @@
 ---
+title_raw: Academic
 title: Academic
+name_raw: Academic
 name: Academic
 type: cultures
 subtype: upbringing

@@ -1,11 +1,16 @@
 ---
+title_raw: Assassinate (5 Insight)
 title: Assassinate (5 Insight)
+name_raw: Assassinate
 name: Assassinate
-type: abilities
 cost: 5 Insight
+type: abilities
 subtype: shadow
 keywords: Attack, Melee, Weapon
-keyword_list: [Attack, Melee, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
 ability_type: Action
 distance: Reach 1
 target: 1 creature

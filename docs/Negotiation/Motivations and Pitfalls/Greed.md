@@ -1,5 +1,7 @@
 ---
+title_raw: Greed
 title: Greed
+name_raw: Greed
 name: Greed
 type: negotiation
 subtype: motivations and pitfalls

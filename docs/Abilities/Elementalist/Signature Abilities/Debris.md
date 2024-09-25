@@ -1,10 +1,16 @@
 ---
+title_raw: Debris
 title: Debris
+name_raw: Debris
 name: Debris
 type: abilities
 subtype: elementalist
 keywords: Area, Earth, Magic, Ranged
-keyword_list: [Area, Earth, Magic, Ranged]
+keyword_list:
+  - Area
+  - Earth
+  - Magic
+  - Ranged
 ability_type: Action
 distance: 3 cube within 5
 target: All enemies

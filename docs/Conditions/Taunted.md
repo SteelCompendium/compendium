@@ -1,5 +1,7 @@
 ---
+title_raw: Taunted
 title: Taunted
+name_raw: Taunted
 name: Taunted
 type: conditions
 ---

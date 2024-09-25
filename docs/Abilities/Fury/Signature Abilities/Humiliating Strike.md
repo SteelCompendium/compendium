@@ -1,10 +1,15 @@
 ---
+title_raw: Humiliating Strike
 title: Humiliating Strike
+name_raw: Humiliating Strike
 name: Humiliating Strike
 type: abilities
 subtype: fury
 keywords: Attack, Melee, Weapon
-keyword_list: [Attack, Melee, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
 ability_type: Action
 distance: Reach 1
 target: 1 creature or object

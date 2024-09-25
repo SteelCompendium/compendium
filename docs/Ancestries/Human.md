@@ -1,5 +1,7 @@
 ---
+title_raw: Human
 title: Human
+name_raw: Human
 name: Human
 type: ancestries
 ---

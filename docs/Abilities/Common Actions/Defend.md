@@ -1,5 +1,7 @@
 ---
+title_raw: Defend
 title: Defend
+name_raw: Defend
 name: Defend
 type: abilities
 subtype: common actions

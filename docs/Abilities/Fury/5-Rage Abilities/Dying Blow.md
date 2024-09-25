@@ -1,11 +1,16 @@
 ---
+title_raw: Dying Blow (5 Rage)
 title: Dying Blow (5 Rage)
+name_raw: Dying Blow
 name: Dying Blow
-type: abilities
 cost: 5 Rage
+type: abilities
 subtype: fury
 keywords: Attack, Melee, Weapon
-keyword_list: [Attack, Melee, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
 ability_type: Action
 distance: Reach 1
 target: 1 creature

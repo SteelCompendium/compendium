@@ -1,10 +1,15 @@
 ---
+title_raw: Hit And Run
 title: Hit And Run
+name_raw: Hit And Run
 name: Hit And Run
 type: abilities
 subtype: fury
 keywords: Attack, Melee, Weapon
-keyword_list: [Attack, Melee, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
 ability_type: Action
 distance: Reach 1
 target: 1 creature or object

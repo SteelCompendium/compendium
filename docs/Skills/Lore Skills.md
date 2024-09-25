@@ -1,5 +1,7 @@
 ---
+title_raw: Lore Skills
 title: Lore Skills
+name_raw: Lore Skills
 name: Lore Skills
 type: skills
 ---

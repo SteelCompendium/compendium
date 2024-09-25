@@ -1,10 +1,15 @@
 ---
+title_raw: Bloodpact
 title: Bloodpact
+name_raw: Bloodpact
 name: Bloodpact
 type: kits
 subtype: caster kits
 keywords: Attack, Magic, Melee
-keyword_list: [Attack, Magic, Melee]
+keyword_list:
+  - Attack
+  - Magic
+  - Melee
 ability_type: Action
 distance: Reach
 target: 1 creature

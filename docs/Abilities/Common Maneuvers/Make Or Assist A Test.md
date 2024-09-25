@@ -1,5 +1,7 @@
 ---
+title_raw: Make Or Assist A Test
 title: Make Or Assist A Test
+name_raw: Make Or Assist A Test
 name: Make Or Assist A Test
 type: abilities
 subtype: common maneuvers

@@ -1,10 +1,13 @@
 ---
+title_raw: Regeneration
 title: Regeneration
+name_raw: Regeneration
 name: Regeneration
 type: abilities
 subtype: fury
 keywords: Melee
-keyword_list: [Melee]
+keyword_list:
+  - Melee
 ability_type: Triggered
 distance: Self
 target: Self

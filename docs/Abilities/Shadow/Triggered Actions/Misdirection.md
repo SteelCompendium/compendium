@@ -1,11 +1,14 @@
 ---
+title_raw: Misdirection (1 Insight)
 title: Misdirection (1 Insight)
+name_raw: Misdirection
 name: Misdirection
-type: abilities
 cost: 1 Insight
+type: abilities
 subtype: shadow
 keywords: Magic
-keyword_list: [Magic]
+keyword_list:
+  - Magic
 ability_type: Triggered
 distance: Self
 target: Self

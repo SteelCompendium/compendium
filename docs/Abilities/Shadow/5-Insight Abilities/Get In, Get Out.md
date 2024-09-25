@@ -1,11 +1,16 @@
 ---
+title_raw: Get In, Get Out (5 Insight)
 title: Get In, Get Out (5 Insight)
+name_raw: Get In, Get Out
 name: Get In, Get Out
-type: abilities
 cost: 5 Insight
+type: abilities
 subtype: shadow
 keywords: Attack, Melee, Weapon
-keyword_list: [Attack, Melee, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
 ability_type: Action
 distance: Reach 1
 target: 1 creature

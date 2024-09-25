@@ -1,5 +1,7 @@
 ---
+title_raw: Anarchic
 title: Anarchic
+name_raw: Anarchic
 name: Anarchic
 type: cultures
 subtype: organizations

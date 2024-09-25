@@ -1,5 +1,7 @@
 ---
+title_raw: Interpersonal Skills
 title: Interpersonal Skills
+name_raw: Interpersonal Skills
 name: Interpersonal Skills
 type: skills
 ---

@@ -1,5 +1,7 @@
 ---
+title_raw: Escape Grab
 title: Escape Grab
+name_raw: Escape Grab
 name: Escape Grab
 type: abilities
 subtype: common maneuvers

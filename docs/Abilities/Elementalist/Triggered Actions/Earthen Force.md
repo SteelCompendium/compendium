@@ -1,10 +1,15 @@
 ---
+title_raw: Earthen Force
 title: Earthen Force
+name_raw: Earthen Force
 name: Earthen Force
 type: abilities
 subtype: elementalist
 keywords: Earth, Magic, Ranged
-keyword_list: [Earth, Magic, Ranged]
+keyword_list:
+  - Earth
+  - Magic
+  - Ranged
 ability_type: Triggered
 distance: Ranged 5
 target: Self or 1 ally

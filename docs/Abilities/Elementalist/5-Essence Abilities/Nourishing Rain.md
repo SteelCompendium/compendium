@@ -1,11 +1,16 @@
 ---
+title_raw: Nourishing Rain (5 Essence)
 title: Nourishing Rain (5 Essence)
+name_raw: Nourishing Rain
 name: Nourishing Rain
-type: abilities
 cost: 5 Essence
+type: abilities
 subtype: elementalist
 keywords: Area, Green, Magic
-keyword_list: [Area, Green, Magic]
+keyword_list:
+  - Area
+  - Green
+  - Magic
 ability_type: Action
 distance: 5 burst
 target: All enemies

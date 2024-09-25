@@ -1,5 +1,7 @@
 ---
+title_raw: Communal
 title: Communal
+name_raw: Communal
 name: Communal
 type: cultures
 subtype: organizations

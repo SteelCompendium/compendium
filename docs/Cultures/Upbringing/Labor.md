@@ -1,5 +1,7 @@
 ---
+title_raw: Labor
 title: Labor
+name_raw: Labor
 name: Labor
 type: cultures
 subtype: upbringing

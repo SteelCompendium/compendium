@@ -1,5 +1,7 @@
 ---
+title_raw: Charge
 title: Charge
+name_raw: Charge
 name: Charge
 type: abilities
 subtype: common actions

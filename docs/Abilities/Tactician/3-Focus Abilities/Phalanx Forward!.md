@@ -1,11 +1,15 @@
 ---
+title_raw: Phalanx Forward! (3 Focus)
 title: Phalanx Forward! (3 Focus)
+name_raw: Phalanx Forward!
 name: Phalanx Forward!
-type: abilities
 cost: 3 Focus
+type: abilities
 subtype: tactician
 keywords: Ranged, Weapon
-keyword_list: [Ranged, Weapon]
+keyword_list:
+  - Ranged
+  - Weapon
 ability_type: Maneuver
 distance: Ranged 10
 target: Self and all allies

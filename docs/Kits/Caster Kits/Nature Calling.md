@@ -1,10 +1,15 @@
 ---
+title_raw: Nature Calling
 title: Nature Calling
+name_raw: Nature Calling
 name: Nature Calling
 type: kits
 subtype: caster kits
 keywords: Attack, Magic, Ranged
-keyword_list: [Attack, Magic, Ranged]
+keyword_list:
+  - Attack
+  - Magic
+  - Ranged
 ability_type: Action
 distance: Ranged 12
 target: 1 creature or object

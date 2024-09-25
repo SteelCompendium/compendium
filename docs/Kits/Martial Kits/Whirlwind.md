@@ -1,10 +1,15 @@
 ---
+title_raw: Whirlwind
 title: Whirlwind
+name_raw: Whirlwind
 name: Whirlwind
 type: kits
 subtype: martial kits
 keywords: Attack, Melee, Weapon
-keyword_list: [Attack, Melee, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
 ability_type: Action
 distance: Reach 3
 target: 1 creature

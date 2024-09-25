@@ -1,10 +1,14 @@
 ---
+title_raw: Parry
 title: Parry
+name_raw: Parry
 name: Parry
 type: abilities
 subtype: tactician
 keywords: Melee, Weapon
-keyword_list: [Melee, Weapon]
+keyword_list:
+  - Melee
+  - Weapon
 ability_type: Triggered
 distance: Self or Reach 1
 target: Self or 1 ally

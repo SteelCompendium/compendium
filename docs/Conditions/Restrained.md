@@ -1,5 +1,7 @@
 ---
+title_raw: Restrained
 title: Restrained
+name_raw: Restrained
 name: Restrained
 type: conditions
 ---

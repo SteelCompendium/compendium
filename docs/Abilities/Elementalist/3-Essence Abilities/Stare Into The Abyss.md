@@ -1,11 +1,18 @@
 ---
+title_raw: Stare Into The Abyss (3 Essence)
 title: Stare Into The Abyss (3 Essence)
+name_raw: Stare Into The Abyss
 name: Stare Into The Abyss
-type: abilities
 cost: 3 Essence
+type: abilities
 subtype: elementalist
 keywords: Area, Magic, Persistent, Ranged, Void
-keyword_list: [Area, Magic, Persistent, Ranged, Void]
+keyword_list:
+  - Area
+  - Magic
+  - Persistent
+  - Ranged
+  - Void
 ability_type: Action
 distance: 4 cube within 5
 target: All enemies

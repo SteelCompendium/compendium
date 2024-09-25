@@ -1,5 +1,7 @@
 ---
+title_raw: Frightened
 title: Frightened
+name_raw: Frightened
 name: Frightened
 type: conditions
 ---

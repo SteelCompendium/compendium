@@ -1,5 +1,7 @@
 ---
+title_raw: Benevolence
 title: Benevolence
+name_raw: Benevolence
 name: Benevolence
 type: negotiation
 subtype: motivations and pitfalls

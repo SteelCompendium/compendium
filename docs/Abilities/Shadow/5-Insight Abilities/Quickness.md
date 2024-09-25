@@ -1,11 +1,14 @@
 ---
+title_raw: Quickness (5 Insight)
 title: Quickness (5 Insight)
+name_raw: Quickness
 name: Quickness
-type: abilities
 cost: 5 Insight
+type: abilities
 subtype: shadow
 keywords: Magic
-keyword_list: [Magic]
+keyword_list:
+  - Magic
 ability_type: Action
 distance: Self
 target: Self

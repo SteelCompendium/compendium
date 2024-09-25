@@ -1,11 +1,18 @@
 ---
+title_raw: Burn! (3 Essence)
 title: Burn! (3 Essence)
+name_raw: Burn!
 name: Burn!
-type: abilities
 cost: 3 Essence
+type: abilities
 subtype: elementalist
 keywords: Attack, Fire, Magic, Persistent, Ranged
-keyword_list: [Attack, Fire, Magic, Persistent, Ranged]
+keyword_list:
+  - Attack
+  - Fire
+  - Magic
+  - Persistent
+  - Ranged
 ability_type: Action
 distance: Ranged 5
 target: 1 creature or object

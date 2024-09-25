@@ -1,11 +1,14 @@
 ---
+title_raw: Now! (5 Focus)
 title: Now! (5 Focus)
+name_raw: Now!
 name: Now!
-type: abilities
 cost: 5 Focus
+type: abilities
 subtype: tactician
 keywords: Ranged
-keyword_list: [Ranged]
+keyword_list:
+  - Ranged
 ability_type: Maneuver
 distance: Ranged 5
 target: All allies

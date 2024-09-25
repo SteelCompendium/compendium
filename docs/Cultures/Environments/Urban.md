@@ -1,5 +1,7 @@
 ---
+title_raw: Urban
 title: Urban
+name_raw: Urban
 name: Urban
 type: cultures
 subtype: environments

@@ -1,5 +1,7 @@
 ---
+title_raw: Dazed
 title: Dazed
+name_raw: Dazed
 name: Dazed
 type: conditions
 ---

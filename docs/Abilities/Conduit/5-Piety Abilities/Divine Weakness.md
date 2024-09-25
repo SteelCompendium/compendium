@@ -1,11 +1,16 @@
 ---
+title_raw: Divine Weakness (5 Piety)
 title: Divine Weakness (5 Piety)
+name_raw: Divine Weakness
 name: Divine Weakness
-type: abilities
 cost: 5 Piety
+type: abilities
 subtype: conduit
 keywords: Attack, Magic, Ranged
-keyword_list: [Attack, Magic, Ranged]
+keyword_list:
+  - Attack
+  - Magic
+  - Ranged
 ability_type: Action
 distance: Ranged 5
 target: 1 creature or object

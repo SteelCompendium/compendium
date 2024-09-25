@@ -1,5 +1,7 @@
 ---
+title_raw: Martial
 title: Martial
+name_raw: Martial
 name: Martial
 type: cultures
 subtype: upbringing

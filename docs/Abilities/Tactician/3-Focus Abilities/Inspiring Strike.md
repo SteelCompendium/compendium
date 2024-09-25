@@ -1,11 +1,17 @@
 ---
+title_raw: Inspiring Strike (3 Focus)
 title: Inspiring Strike (3 Focus)
+name_raw: Inspiring Strike
 name: Inspiring Strike
-type: abilities
 cost: 3 Focus
+type: abilities
 subtype: tactician
 keywords: Attack, Melee, Ranged, Weapon
-keyword_list: [Attack, Melee, Ranged, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Ranged
+  - Weapon
 ability_type: Action
 distance: Reach 1 or Ranged 5
 target: 1 creature or object

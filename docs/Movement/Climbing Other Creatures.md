@@ -1,5 +1,7 @@
 ---
+title_raw: Climbing Other Creatures
 title: Climbing Other Creatures
+name_raw: Climbing Other Creatures
 name: Climbing Other Creatures
 type: movement
 ---

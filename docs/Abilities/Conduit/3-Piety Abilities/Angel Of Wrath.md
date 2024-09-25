@@ -1,11 +1,15 @@
 ---
+title_raw: Angel Of Wrath (3 Piety)
 title: Angel Of Wrath (3 Piety)
+name_raw: Angel Of Wrath
 name: Angel Of Wrath
-type: abilities
 cost: 3 Piety
+type: abilities
 subtype: conduit
 keywords: Magic, Ranged
-keyword_list: [Magic, Ranged]
+keyword_list:
+  - Magic
+  - Ranged
 ability_type: Action
 distance: Ranged 5
 target: Special

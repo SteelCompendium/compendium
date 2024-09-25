@@ -1,11 +1,16 @@
 ---
+title_raw: Thunder Of The Divine (3 Piety)
 title: Thunder Of The Divine (3 Piety)
+name_raw: Thunder Of The Divine
 name: Thunder Of The Divine
-type: abilities
 cost: 3 Piety
+type: abilities
 subtype: conduit
 keywords: Area, Magic, Ranged
-keyword_list: [Area, Magic, Ranged]
+keyword_list:
+  - Area
+  - Magic
+  - Ranged
 ability_type: Action
 distance: 4 cube within 5
 target: All enemies

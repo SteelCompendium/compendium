@@ -1,10 +1,14 @@
 ---
+title_raw: Divine Disruption
 title: Divine Disruption
+name_raw: Divine Disruption
 name: Divine Disruption
 type: abilities
 subtype: conduit
 keywords: Magic, Ranged
-keyword_list: [Magic, Ranged]
+keyword_list:
+  - Magic
+  - Ranged
 ability_type: Triggered
 distance: Ranged 5
 target: 1 enemy

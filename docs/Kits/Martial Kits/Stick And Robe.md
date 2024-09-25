@@ -1,10 +1,15 @@
 ---
+title_raw: Stick And Robe
 title: Stick And Robe
+name_raw: Stick And Robe
 name: Stick And Robe
 type: kits
 subtype: martial kits
 keywords: Attack, Melee, Weapon
-keyword_list: [Attack, Melee, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
 ability_type: Action
 distance: Reach 2
 target: 1 creature

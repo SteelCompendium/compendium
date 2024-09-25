@@ -1,5 +1,7 @@
 ---
+title_raw: Hakaan
 title: Hakaan
+name_raw: Hakaan
 name: Hakaan
 type: ancestries
 ---

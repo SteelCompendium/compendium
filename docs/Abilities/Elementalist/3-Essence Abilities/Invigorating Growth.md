@@ -1,11 +1,17 @@
 ---
+title_raw: Invigorating Growth (3 Essence)
 title: Invigorating Growth (3 Essence)
+name_raw: Invigorating Growth
 name: Invigorating Growth
-type: abilities
 cost: 3 Essence
+type: abilities
 subtype: elementalist
 keywords: Attack, Green, Magic, Ranged
-keyword_list: [Attack, Green, Magic, Ranged]
+keyword_list:
+  - Attack
+  - Green
+  - Magic
+  - Ranged
 ability_type: Action
 distance: Ranged 5
 target: 1 creature

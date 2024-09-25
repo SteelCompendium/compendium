@@ -1,5 +1,7 @@
 ---
+title_raw: Gladiator
 title: Gladiator
+name_raw: Gladiator
 name: Gladiator
 type: careers
 ---

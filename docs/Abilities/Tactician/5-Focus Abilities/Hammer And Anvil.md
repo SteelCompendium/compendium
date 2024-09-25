@@ -1,11 +1,17 @@
 ---
+title_raw: Hammer And Anvil (5 Focus)
 title: Hammer And Anvil (5 Focus)
+name_raw: Hammer And Anvil
 name: Hammer And Anvil
-type: abilities
 cost: 5 Focus
+type: abilities
 subtype: tactician
 keywords: Attack, Melee, Ranged, Weapon
-keyword_list: [Attack, Melee, Ranged, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Ranged
+  - Weapon
 ability_type: Action
 distance: Reach 1 or Ranged 5
 target: 1 creature or object

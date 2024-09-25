@@ -1,10 +1,15 @@
 ---
+title_raw: Retiarius
 title: Retiarius
+name_raw: Retiarius
 name: Retiarius
 type: kits
 subtype: martial kits
 keywords: Attack, Melee, Weapon
-keyword_list: [Attack, Melee, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
 ability_type: Action
 distance: Reach 2
 target: 1 creature

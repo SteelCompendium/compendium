@@ -1,10 +1,15 @@
 ---
+title_raw: Raider
 title: Raider
+name_raw: Raider
 name: Raider
 type: kits
 subtype: martial kits
 keywords: Attack, Melee, Weapon
-keyword_list: [Attack, Melee, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
 ability_type: Action
 distance: Reach 1
 target: 1 creature

@@ -1,5 +1,7 @@
 ---
+title_raw: Protection
 title: Protection
+name_raw: Protection
 name: Protection
 type: negotiation
 subtype: motivations and pitfalls

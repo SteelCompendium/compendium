@@ -1,11 +1,16 @@
 ---
+title_raw: Righteous Rebuke (3 Piety)
 title: Righteous Rebuke (3 Piety)
+name_raw: Righteous Rebuke
 name: Righteous Rebuke
-type: abilities
 cost: 3 Piety
+type: abilities
 subtype: conduit
 keywords: Attack, Magic, Ranged
-keyword_list: [Attack, Magic, Ranged]
+keyword_list:
+  - Attack
+  - Magic
+  - Ranged
 ability_type: Action
 distance: Ranged 5
 target: 1 creature

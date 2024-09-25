@@ -1,11 +1,16 @@
 ---
+title_raw: Stab Me So I Can Pull Myself Closer To You (3 Rage)
 title: Stab Me So I Can Pull Myself Closer To You (3 Rage)
+name_raw: Stab Me So I Can Pull Myself Closer To You
 name: Stab Me So I Can Pull Myself Closer To You
-type: abilities
 cost: 3 Rage
+type: abilities
 subtype: fury
 keywords: Attack, Melee, Weapon
-keyword_list: [Attack, Melee, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
 ability_type: Action
 distance: Self
 target: Self

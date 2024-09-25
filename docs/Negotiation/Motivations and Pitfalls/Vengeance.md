@@ -1,5 +1,7 @@
 ---
+title_raw: Vengeance
 title: Vengeance
+name_raw: Vengeance
 name: Vengeance
 type: negotiation
 subtype: motivations and pitfalls

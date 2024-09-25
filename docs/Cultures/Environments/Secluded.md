@@ -1,5 +1,7 @@
 ---
+title_raw: Secluded
 title: Secluded
+name_raw: Secluded
 name: Secluded
 type: cultures
 subtype: environments

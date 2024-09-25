@@ -1,5 +1,7 @@
 ---
+title_raw: Revelry
 title: Revelry
+name_raw: Revelry
 name: Revelry
 type: negotiation
 subtype: motivations and pitfalls

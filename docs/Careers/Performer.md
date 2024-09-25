@@ -1,5 +1,7 @@
 ---
+title_raw: Performer
 title: Performer
+name_raw: Performer
 name: Performer
 type: careers
 ---

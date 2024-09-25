@@ -1,11 +1,17 @@
 ---
+title_raw: Incorporealness (5 Essence)
 title: Incorporealness (5 Essence)
+name_raw: Incorporealness
 name: Incorporealness
-type: abilities
 cost: 5 Essence
+type: abilities
 subtype: elementalist
 keywords: Magic, Melee, Persistent, Void
-keyword_list: [Magic, Melee, Persistent, Void]
+keyword_list:
+  - Magic
+  - Melee
+  - Persistent
+  - Void
 ability_type: Maneuver
 distance: Self or Reach
 target: Self or 1 ally

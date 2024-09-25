@@ -1,5 +1,7 @@
 ---
+title_raw: Jump
 title: Jump
+name_raw: Jump
 name: Jump
 type: movement
 ---

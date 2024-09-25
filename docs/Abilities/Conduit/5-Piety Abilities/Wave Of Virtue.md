@@ -1,11 +1,15 @@
 ---
+title_raw: Wave Of Virtue (5 Piety)
 title: Wave Of Virtue (5 Piety)
+name_raw: Wave Of Virtue
 name: Wave Of Virtue
-type: abilities
 cost: 5 Piety
+type: abilities
 subtype: conduit
 keywords: Area, Magic
-keyword_list: [Area, Magic]
+keyword_list:
+  - Area
+  - Magic
 ability_type: Action
 distance: 5 burst
 target: All allies

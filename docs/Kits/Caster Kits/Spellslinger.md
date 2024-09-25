@@ -1,10 +1,15 @@
 ---
+title_raw: Spellslinger
 title: Spellslinger
+name_raw: Spellslinger
 name: Spellslinger
 type: kits
 subtype: caster kits
 keywords: Attack, Magic, Ranged
-keyword_list: [Attack, Magic, Ranged]
+keyword_list:
+  - Attack
+  - Magic
+  - Ranged
 ability_type: Action
 distance: Ranged 10
 target: 2 creatures or objects

@@ -1,10 +1,15 @@
 ---
-title: Rapid-fire
-name: Rapid-fire
+title_raw: Rapid-fire
+title: Rapid-Fire
+name_raw: Rapid-fire
+name: Rapid-Fire
 type: kits
 subtype: martial kits
 keywords: Attack, Ranged, Weapon
-keyword_list: [Attack, Ranged, Weapon]
+keyword_list:
+  - Attack
+  - Ranged
+  - Weapon
 ability_type: Action
 distance: Ranged 12
 target: 2 creatures or objects

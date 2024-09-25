@@ -1,5 +1,7 @@
 ---
+title_raw: Laborer
 title: Laborer
+name_raw: Laborer
 name: Laborer
 type: careers
 ---

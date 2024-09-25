@@ -1,5 +1,7 @@
 ---
+title_raw: Bleeding
 title: Bleeding
+name_raw: Bleeding
 name: Bleeding
 type: conditions
 ---

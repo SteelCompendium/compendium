@@ -1,10 +1,14 @@
 ---
+title_raw: Relentless Toss
 title: Relentless Toss
+name_raw: Relentless Toss
 name: Relentless Toss
 type: abilities
 subtype: fury
 keywords: Magic, Melee
-keyword_list: [Magic, Melee]
+keyword_list:
+  - Magic
+  - Melee
 ability_type: Triggered
 distance: Self or reach
 target: Self or 1 creature

@@ -1,5 +1,7 @@
 ---
+title_raw: Prone
 title: Prone
+name_raw: Prone
 name: Prone
 type: conditions
 ---

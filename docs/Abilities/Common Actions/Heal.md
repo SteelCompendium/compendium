@@ -1,5 +1,7 @@
 ---
+title_raw: Heal
 title: Heal
+name_raw: Heal
 name: Heal
 type: abilities
 subtype: common actions

@@ -1,5 +1,7 @@
 ---
+title_raw: Power
 title: Power
+name_raw: Power
 name: Power
 type: negotiation
 subtype: motivations and pitfalls

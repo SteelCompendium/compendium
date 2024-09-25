@@ -1,10 +1,15 @@
 ---
+title_raw: Guisarmier
 title: Guisarmier
+name_raw: Guisarmier
 name: Guisarmier
 type: kits
 subtype: martial kits
 keywords: Attack, Melee, Weapon
-keyword_list: [Attack, Melee, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
 ability_type: Action
 distance: Reach 2
 target: 2 creatures or objects

@@ -1,10 +1,15 @@
 ---
+title_raw: Martial Artist
 title: Martial Artist
+name_raw: Martial Artist
 name: Martial Artist
 type: kits
 subtype: martial kits
 keywords: Attack, Melee, Weapon
-keyword_list: [Attack, Melee, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
 ability_type: Action
 distance: Reach 1
 target: 1 creature

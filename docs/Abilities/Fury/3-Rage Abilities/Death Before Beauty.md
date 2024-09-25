@@ -1,11 +1,16 @@
 ---
+title_raw: Death Before Beauty (3 Rage)
 title: Death Before Beauty (3 Rage)
+name_raw: Death Before Beauty
 name: Death Before Beauty
-type: abilities
 cost: 3 Rage
+type: abilities
 subtype: fury
 keywords: Attack, Melee, Weapon
-keyword_list: [Attack, Melee, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
 ability_type: Action
 distance: Reach 1
 target: 1 creature

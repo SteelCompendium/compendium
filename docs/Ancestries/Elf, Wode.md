@@ -1,5 +1,7 @@
 ---
+title_raw: Elf, Wode
 title: Elf, Wode
+name_raw: Elf, Wode
 name: Elf, Wode
 type: ancestries
 ---

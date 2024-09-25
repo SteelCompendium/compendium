@@ -1,5 +1,7 @@
 ---
+title_raw: Climb Or Swim
 title: Climb Or Swim
+name_raw: Climb Or Swim
 name: Climb Or Swim
 type: movement
 ---

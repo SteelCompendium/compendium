@@ -1,10 +1,15 @@
 ---
+title_raw: Panther
 title: Panther
+name_raw: Panther
 name: Panther
 type: kits
 subtype: martial kits
 keywords: Attack, Melee, Weapon
-keyword_list: [Attack, Melee, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
 ability_type: Action
 distance: Reach 1
 target: 1 creature or object

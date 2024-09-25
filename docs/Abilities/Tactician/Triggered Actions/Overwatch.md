@@ -1,10 +1,13 @@
 ---
+title_raw: Overwatch
 title: Overwatch
+name_raw: Overwatch
 name: Overwatch
 type: abilities
 subtype: tactician
 keywords: Ranged
-keyword_list: [Ranged]
+keyword_list:
+  - Ranged
 ability_type: Triggered
 distance: Ranged 10
 target: 1 enemy

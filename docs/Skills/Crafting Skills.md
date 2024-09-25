@@ -1,5 +1,7 @@
 ---
+title_raw: Crafting Skills
 title: Crafting Skills
+name_raw: Crafting Skills
 name: Crafting Skills
 type: skills
 ---

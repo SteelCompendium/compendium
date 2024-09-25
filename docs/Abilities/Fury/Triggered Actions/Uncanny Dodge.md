@@ -1,10 +1,13 @@
 ---
+title_raw: Uncanny Dodge
 title: Uncanny Dodge
+name_raw: Uncanny Dodge
 name: Uncanny Dodge
 type: abilities
 subtype: fury
 keywords: Melee
-keyword_list: [Melee]
+keyword_list:
+  - Melee
 ability_type: Triggered
 distance: Reach 1
 target: Self

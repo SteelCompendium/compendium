@@ -1,5 +1,7 @@
 ---
+title_raw: Memonek
 title: Memonek
+name_raw: Memonek
 name: Memonek
 type: ancestries
 ---

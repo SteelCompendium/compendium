@@ -1,5 +1,7 @@
 ---
+title_raw: Wilderness
 title: Wilderness
+name_raw: Wilderness
 name: Wilderness
 type: cultures
 subtype: environments

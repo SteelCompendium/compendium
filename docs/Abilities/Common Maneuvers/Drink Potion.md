@@ -1,5 +1,7 @@
 ---
+title_raw: Drink Potion
 title: Drink Potion
+name_raw: Drink Potion
 name: Drink Potion
 type: abilities
 subtype: common maneuvers

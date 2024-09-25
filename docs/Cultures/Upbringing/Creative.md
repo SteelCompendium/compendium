@@ -1,5 +1,7 @@
 ---
+title_raw: Creative
 title: Creative
+name_raw: Creative
 name: Creative
 type: cultures
 subtype: upbringing

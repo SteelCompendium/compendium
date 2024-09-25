@@ -1,5 +1,7 @@
 ---
+title_raw: Rural
 title: Rural
+name_raw: Rural
 name: Rural
 type: cultures
 subtype: environments

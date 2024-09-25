@@ -1,11 +1,16 @@
 ---
+title_raw: Blood For Blood! (5 Rage)
 title: Blood For Blood! (5 Rage)
+name_raw: Blood For Blood!
 name: Blood For Blood!
-type: abilities
 cost: 5 Rage
+type: abilities
 subtype: fury
 keywords: Attack, Melee, Weapon
-keyword_list: [Attack, Melee, Weapon]
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
 ability_type: Action
 distance: Reach 1
 target: 1 creature or object
