@@ -13,6 +13,8 @@ theme:
       accent: blue
     logo: Media/favicon.ico
     favicon: Media/favicon.ico
+	features:
+    	- navigation.instant.preview
 
 # Extensions
 markdown_extensions:
@@ -52,6 +54,8 @@ plugins:
     #  categories:
     #    - categories
     #    - tags
+extra_css:
+  - stylesheets/extra.css
 
 extra_javascript:
   - javascripts/mathjax.js
