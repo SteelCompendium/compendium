@@ -19,6 +19,7 @@ update push="true":
 		cp -R Cultures "${compendium_dir}/docs"
 		cp -R Skills "${compendium_dir}/docs"
 		cp -R Conditions "${compendium_dir}/docs"
+		cp -R Movement "${compendium_dir}/docs"
 		cp -R Media "${compendium_dir}/docs"
 		
 		rm "${compendium_dir}/docs/README.md" || true
