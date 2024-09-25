@@ -1,3 +1,10 @@
+---
+title: Spellslinger
+name: Spellslinger
+type: kits
+subtype: caster kits
+---
+
 # Spellslinger
 
 The Spellslinger kit is for those who want to focus magic on their foes from far away, becoming a magical blaster surrounded by rippling energy. While using this kit, you can faintly see auras of energy emanating from far-off creatures.

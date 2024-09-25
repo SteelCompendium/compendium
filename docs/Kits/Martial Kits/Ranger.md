@@ -1,3 +1,10 @@
+---
+title: Ranger
+name: Ranger
+type: kits
+subtype: martial kits
+---
+
 # Ranger
 
 The Ranger kit outfits you with light armor and several weapons, letting you easily switch between using a melee weapon and a bow. This kit provides a good balance of bonuses to Stamina, speed, damage, and range to create a hero who is a jack-of-all-trades.

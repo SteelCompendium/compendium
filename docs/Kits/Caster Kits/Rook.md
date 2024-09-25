@@ -1,3 +1,10 @@
+---
+title: Rook
+name: Rook
+type: kits
+subtype: caster kits
+---
+
 # Rook
 
 The Rook kit allows you to use strong armor so you can be better protected while you heal and enhance your allies on the frontline. Heroes with this kit often dive into support magic. While using this kit, your armor resonates with the sounds of choirs from on high as you polish it.

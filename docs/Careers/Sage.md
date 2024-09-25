@@ -1,3 +1,9 @@
+---
+title: Sage
+name: Sage
+type: careers
+---
+
 # Sage
 
 From an early age, you dedicated yourself to learning, whether you shared the knowledge of the world with others or sought out secret lore only for yourself. In defining your career, think about the following questions:
@@ -14,7 +20,7 @@ You gain the following career benefits:
 - **Project Points**: 100
 - **Title**—Expert Sage: Whenever you make a test as part of a research or crafting project that uses a skill you have from the lore skill group, you can roll the test twice and use either roll.
 
-SAGE INCITING INCIDENTS
+## Sage Inciting Incidents
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                  |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

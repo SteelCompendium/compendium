@@ -1,3 +1,10 @@
+---
+title: Cloak And Dagger
+name: Cloak And Dagger
+type: kits
+subtype: martial kits
+---
+
 # Cloak And Dagger
 
 Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the Cloak and Dagger kit makes you more mobile while providing a boost to your effectiveness at range and to your damage. This kit is good for a hero who wants to be able to move all over the battlefield while keeping their options open for using short-range attacks.

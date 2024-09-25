@@ -1,3 +1,10 @@
+---
+title: Caster Kit Table
+name: Caster Kit Table
+type: kits
+subtype: caster kits
+---
+
 # Caster Kit Table
 
 | Caster Kits    | Kit Armor | Implement | Stamina | Speed | Stability | Magical Damage | Magic Distance | Area |

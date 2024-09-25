@@ -1,3 +1,9 @@
+---
+title: Lore Skills
+name: Lore Skills
+type: skills
+---
+
 # Lore Skills
 
 Skills from the lore skill group are used to research and recall specific information. They are especially useful during rests and downtime.

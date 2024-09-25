@@ -1,3 +1,10 @@
+---
+title: Martial Kits Table
+name: Martial Kits Table
+type: kits
+subtype: martial kits
+---
+
 # Martial Kits Table
 
 | Kit              | Armor          | Weapon             | Stamina | Speed | Stability | Melee Damage | Ranged Damage | Weapon Distance | Reach | Mobility |

@@ -1,3 +1,10 @@
+---
+title: Whirlwind
+name: Whirlwind
+type: kits
+subtype: martial kits
+---
+
 # Whirlwind
 
 The Whirlwind kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a mobile warrior who uses a chain or whip, then this is the kit for you.

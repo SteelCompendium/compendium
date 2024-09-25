@@ -1,3 +1,10 @@
+---
+title: Missile
+name: Missile
+type: kits
+subtype: caster kits
+---
+
 # Missile
 
 The Missile kit allows you to throw your implement at your foes, then recall it back to you. Enemies impacted by this concentration of magic are left reeling while you stand safely out of their reach. When you use this kit, your competitive nature is more pronounced, and you wield your implement recklessly.

@@ -1,3 +1,9 @@
+---
+title: Intrigue Skills
+name: Intrigue Skills
+type: skills
+---
+
 # Intrigue Skills
 
 Skills from the intrigue skill group are used in tasks centered around investigation, thievery, and spycraft.

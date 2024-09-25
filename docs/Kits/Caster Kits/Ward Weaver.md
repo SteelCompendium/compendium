@@ -1,3 +1,10 @@
+---
+title: Ward Weaver
+name: Ward Weaver
+type: kits
+subtype: caster kits
+---
+
 # Ward Weaver
 
 The Ward Weaver kit allows you to protect yourself in combat with telekinetic techniques that also boost your damage. This kit creates a supernatural hero who can more effectively ward themself and their allies. While you use this kit, you occasionally take on the mannerisms of your allies without realizing it.

@@ -1,3 +1,10 @@
+---
+title: Guisarmier
+name: Guisarmier
+type: kits
+subtype: martial kits
+---
+
 # Guisarmier
 
 The Guisarmier kit is for those who want to use a polearm for extended reach and still gain the extra protection of armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.

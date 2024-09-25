@@ -1,3 +1,9 @@
+---
+title: Crafting Skills
+name: Crafting Skills
+type: skills
+---
+
 # Crafting Skills
 
 Skills from the crafting skill group are used in the creation and appraisal of goods and for jury-rigging contraptions. They are especially useful during rests and downtime.

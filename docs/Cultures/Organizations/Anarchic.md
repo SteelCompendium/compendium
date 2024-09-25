@@ -1,3 +1,10 @@
+---
+title: Anarchic
+name: Anarchic
+type: cultures
+subtype: organizations
+---
+
 # Anarchic
 
 In an anarchic culture, there are no rules and no one person leads the others. This might sound like complete chaos—people taking what they want when they want it—and some cultures that practice anarchy are. Other anarchic cultures are peaceful places where people mostly work for themselves, their friends, or their family, but rely on the whole group when times get tough.

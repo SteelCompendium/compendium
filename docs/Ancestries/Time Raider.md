@@ -1,3 +1,9 @@
+---
+title: Time Raider
+name: Time Raider
+type: ancestries
+---
+
 # Time Raider
 
 “I fear no living thing, but the time raiders.”
@@ -12,7 +18,7 @@ Extraordinarily rare in Orden, the time raiders thrive on the Sea of Stars, the 
 
 In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. Time raiders also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
 
-ON TIME RAIDERS
+## On Time Raiders
 
 “You will tell me the location of the ship you came here in.”
 
@@ -102,18 +108,18 @@ John hadn't hesitated, he'd already drawn his sword.
 
 ***“Draw steel!”***
 
-TIME RAIDER BENEFITS
+## Time Raider Benefits
 
 As a time raider character, you have the following benefits.
 
-# Foresight
+### Foresight
 
 Your senses extend past mundane obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren't hidden from you, negating the usual bane on attacks against them. Additionally, whenever you are attacked, you can use a triggered action to impose a bane on the power roll.
 
-# Four Arms
+### Four Arms
 
 Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target an additional adjacent creature, using the same power roll for both targets. You can grab up to two creatures at a time.
 
-# Psionic Gift
+### Psionic Gift
 
 Your mind is a formidable layer of defense, granting you psionic immunity 5.

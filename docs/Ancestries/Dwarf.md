@@ -1,3 +1,9 @@
+---
+title: Dwarf
+name: Dwarf
+type: ancestries
+---
+
 # Dwarf
 
 “Remember, we are dwarves. Our strength is the strength of the earth. The strength of the marble column that rises to the heavens. The strength of the granite foundation that reaches deep into the ground. But what is the value of strength if it is not used in service of justice?”
@@ -8,7 +14,7 @@ Possessed of a strength that belies their size, dwarves have flesh infused with 
 
 Dwarves are the children of the elder god Ord, and a common phrase among dwarves is “Ord made the world”—their way of saying, “What will be, will be.” They take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many dwarves leave their homes to see the world and seek glory in Ord's name.
 
-ON DWARVES
+## On Dwarves
 
 There's nothing a team of dwarves can't do! Five dwarves alone can easily kill a dragon. Ten dragons!<a href="#fn1" id="fnref1" class="footnote-ref" role="doc-noteref"><sup>1</sup></a> Why, Vorka the Fell-Handed alone slew five dragons at the Siege of Var Loska before succumbing to her wounds. One dwarf! Think what a small, dedicated party of dwarves could do!
 
@@ -36,15 +42,15 @@ None of us ask to come into this world, and apart from the [[Hakaan]], none of u
 
 You are young yet, but already those who work evil deeds should fear you. You are a dwarf. You have a great destiny ahead.
 
-DWARF BENEFITS
+## Dwarf Benefits
 
 As a dwarf character, you have the following benefits:
 
-# Grounded
+### Grounded
 
 Your heavy stone body and connection to the earth makes it difficult for others to move you. Your stability increases by 1.
 
-# Runic Carving
+### Runic Carving
 
 You can carve a magic rune onto your skin. The rune you carve determines the benefit you receive. You can change or remove this rune with 10 minutes of work while not engaged in combat.
 
@@ -52,6 +58,6 @@ You can carve a magic rune onto your skin. The rune you carve determines the ben
 - **Light:** Your skin sheds light for 10 squares. You can turn this on and off as a maneuver.
 - **Voice:** As a maneuver, you can communicate telepathically with another willing creature you have met before whose name you name, who can speak and understand a language you know, and is within 1 mile of you. You and the creature can respond to one another as if having a normal conversation. You can change the person you communicate with by changing the rune.
 
-# Spark Off Your Skin
+### Spark Off Your Skin
 
 Your stone skin affords you potent protection. Your Stamina increases by 6 at 1st level, then increases by an additional 1 each time you gain a new level

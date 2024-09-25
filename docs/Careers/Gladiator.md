@@ -1,3 +1,9 @@
+---
+title: Gladiator
+name: Gladiator
+type: careers
+---
+
 # Gladiator
 
 In the past, you entertained the masses with flashy displays of violence in the arena. In defining your career, think about the following questions:
@@ -14,7 +20,7 @@ You gain the following career benefits:
 - **Renown**: 2
 - **Title**—Monologue Champion: When you are not in combat, you can shout to get the attention of all creatures within 10 squares of you. Each creature who is not hostile toward you listens to what you have to say for at least the next minute, or until they sense danger or any form of imminent harm. While creatures are listening to you, your allies gain an edge on tests made to avoid being noticed by those creatures.
 
-GLADIATOR INCITING INCIDENTS
+## Gladiator Inciting Incidents
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

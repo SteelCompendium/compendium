@@ -1,3 +1,9 @@
+---
+title: Human
+name: Human
+type: ancestries
+---
+
 # Human
 
 “Humans,” the [[Dwarf|dwarf]] said with a combination of exasperation and awe. “Their only virtue seems to be believing in impossible things.”
@@ -6,7 +12,7 @@
 
 “No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin … the dwarves and the orcs as you say. What is it that sets humans apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason.”
 
-ON HUMANS
+## On Humans
 
 So, we arrive here at the end of your first semester of Human Culture. I hope to see you next year in the Caelian Empire course, and though it may be hard to believe now, I often see former students' names in our textbooks years later. Perhaps that will be some of you.
 
@@ -46,18 +52,18 @@ But some of your names, I will see written in the stars.
 
 (Professor Cilliarwn did not elaborate on this.)
 
-HUMAN BENEFITS
+## Human Benefits
 
 As a human character, you have the following benefits:
 
-# Detect The Supernatural
+### Detect The Supernatural
 
 As a maneuver, you open your awareness to detect supernatural creatures and phenomena. Until the end of your next turn, you know the location of any supernatural object, Undead, Construct, or creature from another plane of existence within 5 squares of you, even if you don't have line of effect to them. You know if you're detecting an item or a creature, and you know if a creature is Undead, a Construct, or from another plane of existence.
 
-# Resist The Supernatural
+### Resist The Supernatural
 
 Your connection to the natural world protects you from supernatural forces. You have Magic immunity 2 and Psionic immunity 2. Each of these immunities increases by 1 each time you level up.
 
-# Staying Power
+### Staying Power
 
 Your human anatomy allows you to fight, run, and stay awake longer than others. Increase your number of Recoveries by 2.

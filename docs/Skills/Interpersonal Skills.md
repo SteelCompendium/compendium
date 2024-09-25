@@ -1,3 +1,9 @@
+---
+title: Interpersonal Skills
+name: Interpersonal Skills
+type: skills
+---
+
 # Interpersonal Skills
 
 Skills from the interpersonal skill group are used to socially interact with other creatures and are particularly useful during negotiations. Aside from the Handle Animals skill, you can generally only use interpersonal skills when you attempt to influence creatures who have emotions and who can understand you.

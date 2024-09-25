@@ -1,3 +1,10 @@
+---
+title: Frigid
+name: Frigid
+type: kits
+subtype: caster kits
+---
+
 # Frigid
 
 The Frigid kit is for heroes who want to tap into the power of arcane blizzards and magical cold. Armed only with an implement of crystal, you can create bursts of ice and protect yourself with frigid winds. When you meditate to prepare this kit, others notice the area around you becoming slightly cooler.

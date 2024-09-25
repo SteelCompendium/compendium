@@ -1,3 +1,9 @@
+---
+title: Grabbed
+name: Grabbed
+type: conditions
+---
+
 # Grabbed
 
 While you are grabbed, your speed is 0, you can't be force moved, you can't use the Knockback maneuver, and you take a bane on attacks that don't target the creature grabbing you. If the creature grabbing you moves, they bring you with them. If the creature's size is equal to or less than yours, their speed is halved while they have you grabbed.

@@ -1,3 +1,9 @@
+---
+title: Elf, High
+name: Elf, High
+type: ancestries
+---
+
 # Elf, High
 
 “Ajax has a kind of crude style, perhaps, but no taste. I have no objection to a villain, you understand. The world is a tale, but a tale is only as good as its villain. And Ajax is so … artless. We deserve a better villain.”
@@ -6,7 +12,7 @@ Children of the solar celestials created to tend their libraries and attend to t
 
 In the millennia since their creators retired to Arcadia, the high elves built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshiping art, and turning more inward and distrusting of outsiders with each generation.
 
-ON HIGH ELVES
+## On High Elves
 
 “They're so beautiful,” Wenna said. “It's hard to imagine we're in danger.”
 
@@ -76,18 +82,18 @@ The king turned back to them. “Should any of you seek hidden lore or deep wisd
 
 Llyander put their hands on their hips and regarded the children. “Not bad for your second quest. What shall you do for an encore?”
 
-HIGH ELF BENEFITS
+## High Elf Benefits
 
 As a high elf character, you have the following benefits.
 
-# High Elf Glamor
+### High Elf Glamor
 
 A magic glamor makes others perceive you as interesting and engaging, granting you an edge on Presence tests using the Flirt or Persuade skills. This glamor makes you look and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.
 
-# Otherworldly Grace
+### Otherworldly Grace
 
 Your elven body and mind can't be contained for long, and accessing memories is as easy as living in the present for you. You gain an edge on resistance rolls, and on tests that use any skills you have from the lore skill group.
 
-# Unstoppable Mind
+### Unstoppable Mind
 
 Your mind allows you to maintain your cool in any situation. You can't be [[Dazed|dazed]].

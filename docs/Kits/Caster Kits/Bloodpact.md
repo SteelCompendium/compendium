@@ -1,3 +1,10 @@
+---
+title: Bloodpact
+name: Bloodpact
+type: kits
+subtype: caster kits
+---
+
 # Bloodpact
 
 Sometimes you need a direct line to your heart to get the most of your magic. The Bloodpact kit trades your blood or lifeforce for more power and heightened casting. With careful control of your natural resources (or borrowing someone else's), you can take care of business before succumbing to your own hubris. While using this kit, the smell of blood becomes super intense to your senses.

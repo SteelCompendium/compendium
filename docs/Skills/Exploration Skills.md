@@ -1,3 +1,9 @@
+---
+title: Exploration Skills
+name: Exploration Skills
+type: skills
+---
+
 # Exploration Skills
 
 Skills from the exploration skill group are used to physically explore the environment around the characters and to overcome physical obstacles.

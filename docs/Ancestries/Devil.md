@@ -1,3 +1,9 @@
+---
+title: Devil
+name: Devil
+type: ancestries
+---
+
 # Devil
 
 “Go to hell!”
@@ -14,7 +20,7 @@ On rare occasions, the summoning goes wrong and the supplicant dies before the d
 
 The majority of devils in Orden are not from, nor have ever been to, the Seven Cities. They are descendants of devils who were stranded in the mundane world decades, centuries, even millennia ago.
 
-ON DEVILS
+## On Devils
 
 Adelard scuttled across the floor of his basement, a heavy tome clutched in one hand, his index finger marking a page. Occasionally he would stop, open the book, consult a diagram, look at the chalk markings he'd made on the floor, tilt his head, then bend down and refine or rub out an esoteric symbol.
 
@@ -116,11 +122,11 @@ She blushed in spite of herself and raised her own glass in a toast.
 
 “You silver-tongued devil.”
 
-DEVIL BENEFITS
+## Devil Benefits
 
 As a devil character, you have the following benefits:
 
-# Fiendish Features
+### Fiendish Features
 
 When you create a devil character, you have 3 fiend points, which you use to select a number of the following features.
 

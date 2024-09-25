@@ -1,3 +1,10 @@
+---
+title: Nature Calling
+name: Nature Calling
+type: kits
+subtype: caster kits
+---
+
 # Nature Calling
 
 The Nature Calling kit allows you to tap into the magical forces of nature. You wield an implement of stone so that your feet stand firm on the earth and your magic can be carried by the wind. While using this kit, you can faintly hear the whispers of the land around you.

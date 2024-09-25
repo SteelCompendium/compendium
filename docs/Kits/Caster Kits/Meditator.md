@@ -1,3 +1,10 @@
+---
+title: Meditator
+name: Meditator
+type: kits
+subtype: caster kits
+---
+
 # Meditator
 
 The Meditator kit allows you to wield magic hardened by experience and isolation. Your spirit visibly extends beyond your physical form in the form of moss, spores, and pulsing aura of light. While using this kit, you tend to skip meals and ignore inclement weather.

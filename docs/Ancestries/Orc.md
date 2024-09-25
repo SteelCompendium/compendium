@@ -1,3 +1,9 @@
+---
+title: Orc
+name: Orc
+type: ancestries
+---
+
 # Orc
 
 “Even should an arrow pierce their heart, each kanin warrior has within them one last act of revenge.”
@@ -10,7 +16,7 @@ Each orc has within them a fire that causes their veins to glow once blood is dr
 
 “Be thankful orcs do not hold grudges.”
 
-ON ORCS
+## On Orcs
 
 What a world we have made.
 
@@ -80,14 +86,14 @@ Ahem.
 
 “Know that you are my children, the children of Kul, he who put fire within the world. And there is fire in you. And though the world and fate and baser minds may conspire to destroy your light, you will survive. And more than survive, you will thrive. And in thriving, you will conquer!”
 
-ORC BENEFITS
+## Orc Benefits
 
 As an orc character, you have the following benefits.
 
-# Bloodfire Rush
+### Bloodfire Rush
 
 When you take damage, your speed increases by 2 until the end of your next turn. You can benefit from this feature only once per round.
 
-# Relentless
+### Relentless
 
 When a creature deals damage to you that leaves you dying, you can make a free strike against any creature. If the creature is reduced to 0 Stamina by your attack, you can spend a Recovery.

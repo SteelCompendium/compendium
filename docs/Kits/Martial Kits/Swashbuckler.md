@@ -1,3 +1,10 @@
+---
+title: Swashbuckler
+name: Swashbuckler
+type: kits
+subtype: martial kits
+---
+
 # Swashbuckler
 
 If you want to be mobile and deal a lot of damage with melee attacks, then you should reach for the Swashbuckler kit. This is a great kit for heroes who want to be master duelists.

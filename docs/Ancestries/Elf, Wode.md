@@ -1,3 +1,9 @@
+---
+title: Elf, Wode
+name: Elf, Wode
+type: ancestries
+---
+
 # Elf, Wode
 
 See you the wood so dark and deep, Where runs the fox and hare? You know now why your mother weeps. Your father's bones lie there.
@@ -8,7 +14,7 @@ Children of the sylvan celestials and masters of the elf-haunted forests called 
 
 The wode elves' natural ability to mask their presence, called glamor, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few wode elves who dwell in cities naturally adept at urban warfare.
 
-ON WODE ELVES
+## On Wode Elves
 
 “I'm scared,” Wenna said. “We should go back.” The forest felt as if it was closing in on them.
 
@@ -90,18 +96,18 @@ Jeremy turned to Dade. “I feel like we're in a dream,” he whispered.
 
 “You are!” their escort called out. “The wode is a dream! With a little luck, one you may soon wake safely from.”
 
-WODE ELF BENEFITS
+## Wode Elf Benefits
 
 As a wode elf character, you have the following benefits.
 
-# Otherworldly Grace
+### Otherworldly Grace
 
 Your elven body and mind can't be contained for long, and accessing memories is as easy as living in the present for you. You gain an edge on resistance rolls, and on tests that use any skills you have from the lore skill group.
 
-# Swift
+### Swift
 
 Your speed is 6.
 
-# Wode Elf Glamor
+### Wode Elf Glamor
 
 You can magically alter your appearance to better blend in with your surroundings. You gain an edge on Agility tests made to hide and sneak, and tests made to find you while you are hidden take a bane.

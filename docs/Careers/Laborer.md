@@ -1,3 +1,9 @@
+---
+title: Laborer
+name: Laborer
+type: careers
+---
+
 # Laborer
 
 You worked as a farmer, a builder, a lumberjack, a miner, or some other profession engaged in hard manual labor. In defining your career, think about the following questions:
@@ -14,7 +20,7 @@ You gain the following career benefits:
 - **Project Points**: 50
 - **Title**—Team Backbone: When you take your first turn during a montage test, you can both make a test and assist another hero's test.
 
-LABORER INCITING INCIDENTS
+## Laborer Inciting Incidents
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                             |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
