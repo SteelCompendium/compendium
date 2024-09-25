@@ -15,8 +15,8 @@ cost: ""
 
 **Power Roll + Might**
 
-- **11 or lower:** 3 damage; slowed (EoT)
-- **12-16:** 8 damage; grabbed
-- **17+:** 12 damage; grabbed
+- **11 or lower:** 3 damage; [[Slowed|slowed]] (EoT)
+- **12-16:** 8 damage; [[Grabbed|grabbed]]
+- **17+:** 12 damage; [[Grabbed|grabbed]]
 
-**Effect:** If the target is grabbed, they take a bane on attempts to escape the grab. If you move while you have the target grabbed, they take 1 damage for each square you move.
+**Effect:** If the target is [[Grabbed|grabbed]], they take a bane on attempts to escape the grab. If you move while you have the target [[Grabbed|grabbed]], they take 1 damage for each square you move.

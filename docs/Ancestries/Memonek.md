@@ -26,7 +26,7 @@ Count Revile took a deep breath. “We call it velloparatha,” he said. “In y
 
 “Are you going mad?” John asked in a whisper.
 
-The memonek smiled ruefully. “It feels that way sometimes. I spent an hour this morning staring at an insect that landed on my finger—a grasshopper, the polder called it. I thought I had never seen a thing so perfect and beautiful. That was awe. As powerful as I have ever felt. In the battle today, anger—just as powerful.
+The memonek smiled ruefully. “It feels that way sometimes. I spent an hour this morning staring at an insect that landed on my finger—a grasshopper, the [[Polder|polder]] called it. I thought I had never seen a thing so perfect and beautiful. That was awe. As powerful as I have ever felt. In the battle today, anger—just as powerful.
 
 “I thought I could resist it. When I arrived here and felt no different, I thought perhaps world-sickness was a legend. But it is a slow process, this illness, these insidious emotions.”
 

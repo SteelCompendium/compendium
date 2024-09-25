@@ -29,5 +29,5 @@ You wear light armor, and wield a polearm and several ensnaring weapons.
 **Power Roll + Might or Agility:**
 
 -   11 or lower: 4 damage
--   12–16: 7 damage; slowed (EoT)
--   17+: 10 damage; restrained (EoT)
+-   12–16: 7 damage; [[Slowed|slowed]] (EoT)
+-   17+: 10 damage; [[Restrained|restrained]] (EoT)

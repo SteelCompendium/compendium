@@ -28,7 +28,7 @@ The five children stood alone in the center of a large circular courtyard open t
 
 At this, Lord Tear exchanged a look with Llyander, consort to Queen Imyrr. It was a knowing look, full of sadness and melancholy. Then he broke his silence.
 
-“Show me an elf who hates humans,” he said, his voice deep and sonorous, “and I will show you an elf who loved a human and watched them grow old and die.” He looked at the children for the first time and smiled a melancholy smile. “Love is like sunlight for us, you see. We love completely but rarely. The loss of it means an eternity of grief for us.”
+“Show me an elf who hates humans,” he said, his voice deep and sonorous, “and I will show you an elf who loved a [[Human|human]] and watched them grow old and die.” He looked at the children for the first time and smiled a melancholy smile. “Love is like sunlight for us, you see. We love completely but rarely. The loss of it means an eternity of grief for us.”
 
 The king tapped the scroll against his lap, seeming to have reached a decision.
 
@@ -46,7 +46,7 @@ Lord Tear glided down the steps until he was standing, as tall as Llyander, befo
 
 “You have heard many things about my people, but this above all you should know. We do not value lore for lore's sake, but beauty first and above all other things. And the truth, to us, is a kind of beauty. Thus do we find knowledge beautiful.
 
-“You have returned something not only of enormous worldpower, but at the same time, a work of art my mother labored over for many of your centuries. It is something of a miracle that it is returned to me now. I will not forget this. You have made an ally of the lord of the high elves. And though you lead brief lives, while you live, you shall have the favor of the elves.” He turned to hand the scroll over to a sage and confer with his herald.
+“You have returned something not only of enormous worldpower, but at the same time, a work of art my mother labored over for many of your centuries. It is something of a miracle that it is returned to me now. I will not forget this. You have made an ally of the lord of the high elves. And though you lead brief lives, while you live, you shall have the favor of the elves.” He turned to hand the scroll over to a [[Sage|sage]] and confer with his herald.
 
 “He seems wise,” Credan said.
 
@@ -72,7 +72,7 @@ Llyander put a finger to their lips, silencing young Meliora. “It is not a thi
 
 Llyander shrugged. “What does anyone really look like?” And while the other children chalked this up to their escort's normally abstruse mode of communication, Meliora caught a glimpse of understanding somewhere in her mind.
 
-The king turned back to them. “Should any of you seek hidden lore or deep wisdom, please allow me to serve you first. But you, young woman, the human child who learned our language, I name thee elf friend. And my naming carries power. You will find the learning of our lore will come more quickly to you, and all those who still revere the elves will give you safe passage in their lands.”
+The king turned back to them. “Should any of you seek hidden lore or deep wisdom, please allow me to serve you first. But you, young woman, the [[Human|human]] child who learned our language, I name thee elf friend. And my naming carries power. You will find the learning of our lore will come more quickly to you, and all those who still revere the elves will give you safe passage in their lands.”
 
 Llyander put their hands on their hips and regarded the children. “Not bad for your second quest. What shall you do for an encore?”
 
@@ -90,4 +90,4 @@ Your elven body and mind can't be contained for long, and accessing memories is 
 
 # Unstoppable Mind
 
-Your mind allows you to maintain your cool in any situation. You can't be dazed.
+Your mind allows you to maintain your cool in any situation. You can't be [[Dazed|dazed]].

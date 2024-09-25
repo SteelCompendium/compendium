@@ -2,7 +2,7 @@
 
 “COME FORTH, SONS OF ORD!” the hakaan metamorph bellowed as Ajax's dwarven legion advanced. “AND MEET A BETTER WOMAN THAN THEE!!”
 
-In spite of their friendly, outgoing nature, the rare presence of a hakaan in human society is considered a harbinger—an omen of dark times.
+In spite of their friendly, outgoing nature, the rare presence of a hakaan in [[Human|human]] society is considered a harbinger—an omen of dark times.
 
 Descended from a tribe of giants in upper Vanigar, the original Haka'an tribe made a bargain with Holkatja, the Vanigar trickster god. They traded some of their gigantic size and strength for the ability to see the future.
 
@@ -10,7 +10,7 @@ But Holkatja betrayed them, and the only future they are allowed to see is the m
 
 This doomsight can happen at any moment. It does not come for all or even most hakaan, but when it comes, it is considered an act of overwhelming hubris to ignore it. Trying to escape the doomsight means a painful, tragic death, and cursing your family to live with shame.
 
-For this reason, the only hakaan the average human meets is one trying to fulfill their doom. The human superstition—that the arrival of one or more hakaan in human lands is a sign of great forces acting in the world, auspicious times—is literally true. In dark times, many hakaan experience the doomsight and leave their communities to venture out into the mundane world, in search of their destiny.
+For this reason, the only hakaan the average [[Human|human]] meets is one trying to fulfill their doom. The [[Human|human]] superstition—that the arrival of one or more hakaan in [[Human|human]] lands is a sign of great forces acting in the world, auspicious times—is literally true. In dark times, many hakaan experience the doomsight and leave their communities to venture out into the mundane world, in search of their destiny.
 
 Humans in Vanigar have their own word for this concept of a personal fate, “wyrd.” Traditional hakaan sometimes refer to the doomsight as wyrdken.
 

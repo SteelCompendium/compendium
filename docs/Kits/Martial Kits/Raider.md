@@ -30,4 +30,4 @@ You wear medium armor and wield a shield and a light weapon.
 
 -   11 or lower: 4 damage; push 1
 -   12–16: 8 damage; push 2
--   17+: 11 damage; push 3; prone if the target is your size or smaller
+-   17+: 11 damage; push 3; [[Prone|prone]] if the target is your size or smaller

@@ -15,6 +15,6 @@ cost: "3 FOCUS"
 
 **Power Roll + Might**
 
-- **11 or lower:** 6 damage; slowed (EoT)
-- **12-16:** 8 damage; dazed (EoT)
-- **17+:** 13 damage; dazed (EoE)
+- **11 or lower:** 6 damage; [[Slowed|slowed]] (EoT)
+- **12-16:** 8 damage; [[Dazed|dazed]] (EoT)
+- **17+:** 13 damage; [[Dazed|dazed]] (EoE)

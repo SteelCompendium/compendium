@@ -1,4 +1,4 @@
-Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2024 MCDM Productions, LLC.
+Draw Steel Compendium is an independent product published under the DRAW STEEL Creator [[LICENSE|License]] and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2024 MCDM Productions, LLC.
 
 # Bay of Blackbottom
 
@@ -92,7 +92,7 @@ These vignettes illustrate the passage of time on the ship. You can run as many 
 
 #### DECK DRAMA
 
-Two women, a human and a high elf, are heading to Blackbottom on their honeymoon. The elf, Waves of Moonlight on a Shore of Glass, accidentally dropped her wedding ring overboard. The human, Lorelei, has yelled for the ship’s guards. Just before the heroes’ arrival, Lorelei jumped overboard to grab the fine porcelain ring, which is light enough to float. Having failed to anticipate the choppiness of the ship’s wake, she is now desperately trying—and failing—to hold her head above water as the Revelation sails away.
+Two women, a [[Human|human]] and a high elf, are heading to Blackbottom on their honeymoon. The elf, Waves of Moonlight on a Shore of Glass, accidentally dropped her wedding ring overboard. The [[Human|human]], Lorelei, has yelled for the ship’s guards. Just before the heroes’ arrival, Lorelei jumped overboard to grab the fine porcelain ring, which is light enough to float. Having failed to anticipate the choppiness of the ship’s wake, she is now desperately trying—and failing—to hold her head above water as the Revelation sails away.
 
 While crew members work to dispatch a lifeboat, a hero can dive into the water and attempt a rescue with an easy Might test:
 
@@ -106,7 +106,7 @@ If the hero also recovered the ring, award the party an additional hero token.
 
 ### SAVING PRIVATE STONEHEART
 
-Samuel, an elderly human passenger, laments the disappearance of his precious Private Stoneheart, a pet bird with glorious golden feathers. Unable to pay the extra fee for traveling with a pet or animal companion, Samuel smuggled the bird aboard in his oversized coat, but the creature grew sick of hiding and flew off when Samuel unzipped his coat. Samuel begs the heroes to help find Private Stoneheart—and to be discreet. He promises on Stoneheart’s return he’ll keep the rascal buttoned up in his coat for the duration of the trip.
+Samuel, an elderly [[Human|human]] passenger, laments the disappearance of his precious Private Stoneheart, a pet bird with glorious golden feathers. Unable to pay the extra fee for traveling with a pet or animal companion, Samuel smuggled the bird aboard in his oversized coat, but the creature grew sick of hiding and flew off when Samuel unzipped his coat. Samuel begs the heroes to help find Private Stoneheart—and to be discreet. He promises on Stoneheart’s return he’ll keep the rascal buttoned up in his coat for the duration of the trip.
 
 Samuel says that Private Stoneheart is affectionate but mischievous. He responds well to music and loves being chased. Any character who sees the bird can make a hard Agility test to secure him:
 
@@ -175,11 +175,11 @@ By the time the heroes reach the deck, the threat is clear:
 
 _Another ship sails dangerously close to the Revelation, its crew gleefully loading ballistae with flaming bolts. Three such bolts already stick into the hull above the waterline, wooden planks beginning to smolder. The other ship’s black sails billow violently in the rough wind. These are pirates, and they’re here to raise hell._
 
-_Two gangplanks are lowered between the ships, a ragtag group of raiders sprinting across to terrorize frightened passengers attempting to flee the deck._
+_Two gangplanks are lowered between the ships, a ragtag group of raiders sprinting across to terrorize [[Frightened|frightened]] passengers attempting to flee the deck._
 
 Use the Pirate Attack Map for this encounter.
 
-Three groups of human pirates have crossed the gangplanks by the time the characters arrive on the scene: a scoundrel captain and two guards, a brawler captain and two raiders, and three archers. The pirates want the passengers’ valuables, not their lives, but they’re not above using human shields or gravely wounding innocents if the heroes take them on.
+Three groups of [[Human|human]] pirates have crossed the gangplanks by the time the characters arrive on the scene: a scoundrel captain and two guards, a brawler captain and two raiders, and three archers. The pirates want the passengers’ valuables, not their lives, but they’re not above using [[Human|human]] shields or gravely wounding innocents if the heroes take them on.
 
 Both of the heavy wooden gangplanks can be lifted and shoved off the ship’s rail with a medium Might test, letting it tumble into the sea and preventing more pirates from crossing over on it (see Villain Power below). Each gangplank also has Stamina 10 and fire weakness 5 if attacked or caught in a damaging area effect. If a gangplank is pushed away from the ship or destroyed, any creature standing on it falls into the sea, 3 squares below deck level.
 
@@ -287,8 +287,8 @@ The Revelation (or the flotilla of lifeboats that hold her crew and passengers) 
 
 Even as the heroes and Captain Oriel step onto the docks alongside the ship’s passengers and crew, two Hawklords serving Ajax the Invincible drop from the sky to confront them. They are:
 
-- **Coriad**, a human trickshot atop a giant hawk
-- **Tyria**, a human brawler atop a giant hawk
+- **Coriad**, a [[Human|human]] trickshot atop a giant hawk
+- **Tyria**, a [[Human|human]] brawler atop a giant hawk
 
 Coriad and Tyria both caught sight of the Revelation’s misfortune while on patrol above the city, though they were unable to reach the ship during the pirate attack. After ensuring that everyone is safe, they demand an explanation.
 
@@ -340,7 +340,7 @@ Negotiation with the Hawklords can have the following outcomes:
 
 ### BATTLE?
 
-If the heroes threaten the Hawklords at any stage of this encounter, combat ensues. Coriad and Tyria each call a squad of four human guards to assist in the arrest, and serve as their group’s captain. The Hawklords avoid lethal force against the characters, wanting only to arrest them.
+If the heroes threaten the Hawklords at any stage of this encounter, combat ensues. Coriad and Tyria each call a squad of four [[Human|human]] guards to assist in the arrest, and serve as their group’s captain. The Hawklords avoid lethal force against the characters, wanting only to arrest them.
 
 The Hawklords fight until they are both winded, until one of them dies, or until one of their hawks dies. If forced to flee, they vow to return with reinforcements. The heroes had better get out of there quickly!
 

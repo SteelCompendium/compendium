@@ -20,7 +20,7 @@ Adelard scuttled across the floor of his basement, a heavy tome clutched in one 
 
 One of the red candles suddenly guttered out, making the small room noticeably darker. “Damn and blast!” he hissed. Then he relit it from another candle.
 
-Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the candles—they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said *a skull*—it didn't even specify a human skull! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual know if the skull was real?
+Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the candles—they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said *a skull*—it didn't even specify a [[Human|human]] skull! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual know if the skull was real?
 
 He was wittering, putting off the inevitable. He pulled himself together. It was either going to work, or it wasn't, and wittering wasn't going to help. He opened the book and turned the page—then began to speak the ritual.
 
@@ -62,7 +62,7 @@ A wide woman dressed in wool, carrying a pile of clean clothes, saw him and stop
 
 “Ah. Um. Hmm.”
 
-A young man in a low, stone building saw this exchange, grabbed what looked like a long iron poker, and ran out to confront the new arrival.
+A young man in a low, stone building saw this exchange, [[Grabbed|grabbed]] what looked like a long iron poker, and ran out to confront the new arrival.
 
 “Have at you, devil!” he said, assuming something like a dueling pose.
 
@@ -138,6 +138,6 @@ When you create a devil character, you have 3 fiend points, which you use to sel
 
 -   **PREHENSILE TAIL (2 FIEND POINTS):** Your prehensile tail allows you to challenge foes on all sides. You can't be flanked.
 
--   **WINGS (2 FIEND POINTS):** You possess wings powerful enough to take you airborne. As a maneuver, you can switch between walking and flying when you are touching the ground, or vice versa when you are within 1 square of the ground. While flying, your stability drops to 0 and you have damage weakness 5. While using your wings to fly, you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall prone.
+-   **WINGS (2 FIEND POINTS):** You possess wings powerful enough to take you airborne. As a maneuver, you can switch between walking and flying when you are touching the ground, or vice versa when you are within 1 square of the ground. While flying, your stability drops to 0 and you have damage weakness 5. While using your wings to fly, you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall [[Prone|prone]].
 
 -   **SILVER TONGUE:** You can twist how your words are perceived to get a better read on people. You gain an edge when attempting to discover an NPC's motivations and pitfalls during negotiations (see *Negotiation*).

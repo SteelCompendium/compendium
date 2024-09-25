@@ -17,4 +17,4 @@ cost: ""
 
 - **11 or lower:** 3 damage
 - **12-16:** 8 damage; the next attack against the target gains an edge
-- **17+:** 12 damage; the target falls prone
+- **17+:** 12 damage; the target falls [[Prone|prone]]

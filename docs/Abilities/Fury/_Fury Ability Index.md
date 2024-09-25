@@ -1,17 +1,17 @@
 # Fury Ability Index
 
-- [Brutal Slam](Brutal Slam.md)
-- [Hit and Run](Hit and Run.md)
-- [Humiliating Strike](Humiliating Strike.md)
-- [Impaling Strike](Impaling Strike.md)
-- [Death Before Beauty](Death Before Beauty.md)
-- [Stab Me So I Can Pull Myself Closer to You](Stab Me So I Can Pull Myself Closer to You.md)
-- [Whirlwind Strike](Whirlwind Strike.md)
-- [Your Entrails Are Your Extrails!](Your Entrails Are Your Extrails!.md)
-- [Blood for Blood!](Blood for Blood!.md)
-- [Brute Precision](Brute Precision.md)
-- [Dying Blow](Dying Blow.md)
-- [Primordial Shockwave](Primordial Shockwave.md)
-- [Regeneration](Regeneration.md)
-- [Relentless Toss](Relentless Toss.md)
-- [Uncanny Dodge](Uncanny Dodge.md)
+- [[Brutal Slam]]
+- [[Hit and Run]]
+- [[Humiliating Strike]]
+- [[Impaling Strike]]
+- [[Death Before Beauty]]
+- [[Stab Me So I Can Pull Myself Closer to You]]
+- [[Whirlwind Strike]]
+- [[Your Entrails Are Your Extrails!]]
+- [[Blood for Blood!]]
+- [[Brute Precision]]
+- [[Dying Blow]]
+- [[Primordial Shockwave]]
+- [[Regeneration]]
+- [[Relentless Toss]]
+- [[Uncanny Dodge]]

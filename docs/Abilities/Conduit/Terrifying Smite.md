@@ -16,5 +16,5 @@ cost: "5 PIETY"
 **Power Roll + Intuition**
 
 - **11 or lower:** 7 holy damage
-- **12-16:** 10 holy damage; frightened (EoT)
-- **17+:** 16 holy damage; frightened (EoE)
+- **12-16:** 10 holy damage; [[Frightened|frightened]] (EoT)
+- **17+:** 16 holy damage; [[Frightened|frightened]] (EoE)

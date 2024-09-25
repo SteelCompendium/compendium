@@ -2,7 +2,7 @@
 
 “Wait, where'd he go? Where'd that little son of a bitch go? AAAAGGH!”
 
-After humans, polders are the most numerous and diverse ancestry in Orden. They are not humans, but they live in and among humans, sharing their gods and culture. Almost every human culture in Orden has a polder saint or a human saint venerated by polder.
+After humans, polders are the most numerous and diverse ancestry in Orden. They are not humans, but they live in and among humans, sharing their gods and culture. Almost every [[Human|human]] culture in Orden has a polder saint or a [[Human|human]] saint venerated by polder.
 
 Short creatures averaging three-and-a-half feet tall, polders have obscure origins. They are a young species who, like humans, have no single patron god. Their natural ability to blend in with shadows makes them excellent spies and thieves. However, many polders consider this stereotype a base slander, pointing out that they're also famed as chefs—though polders can be found in virtually every profession, especially in cities.
 
@@ -88,7 +88,7 @@ The polder looked at the high elf and nodded, impressed. Test passed.
 
 “You mean you're going to make it up?!” John exclaimed.
 
-“I…” Jackson looked with incredulity at the high elf void mage, then back at the human. “Yes, I do mean that. Does he know what I do?” he asked the elf.
+“I…” Jackson looked with incredulity at the high elf void mage, then back at the [[Human|human]]. “Yes, I do mean that. Does he know what I do?” he asked the elf.
 
 “He'll learn,” Embers smiled.
 
@@ -126,7 +126,7 @@ John turned to see. Sir Vaantikalisax loomed just inside the doorway, his scales
 
 The knight stared at them for a moment, then turned back to his friend.
 
-“Maybe you're right,” the dragon knight said.
+“Maybe you're right,” the [[Dragon knight|dragon knight]] said.
 
  POLDER BENEFITS
 

@@ -1,17 +1,17 @@
 # Shadow Ability Index
 
-- [Distracting Pain](Distracting Pain.md)
-- [I Work Better Alone](I Work Better Alone.md)
-- [Shot and Step](Shot and Step.md)
-- [Sucker Slice](Sucker Slice.md)
-- [Blade Dance](Blade Dance.md)
-- [Quick Pursuit](Quick Pursuit.md)
-- [Two Throats At Once](Two Throats At Once.md)
-- [Wounding Strike](Wounding Strike.md)
-- [Assassinate](Assassinate.md)
-- [Get In, Get Out](Get In, Get Out.md)
-- [Impairing Shot](Impairing Shot.md)
-- [Quickness](Quickness.md)
-- [Defensive Roll](Defensive Roll.md)
-- [In All This Confusion](In All This Confusion.md)
-- [Misdirection](Misdirection.md)
+- [[Distracting Pain]]
+- [[I Work Better Alone]]
+- [[Shot and Step]]
+- [[Sucker Slice]]
+- [[Blade Dance]]
+- [[Quick Pursuit]]
+- [[Two Throats At Once]]
+- [[Wounding Strike]]
+- [[Assassinate]]
+- [[Get In, Get Out]]
+- [[Impairing Shot]]
+- [[Quickness]]
+- [[Defensive Roll]]
+- [[In All This Confusion]]
+- [[Misdirection]]

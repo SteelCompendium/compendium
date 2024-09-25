@@ -27,8 +27,8 @@ You unleash a blast of frigid air to freeze and hinder your foes.
 **Power Roll** + Reason, Intuition, or Presence:
 
 -   11 or lower: 2 cold damage
--   12–16: 3 cold damage; slowed (EoT)
--   17+: 4 cold damage; slowed (EoE)
+-   12–16: 3 cold damage; [[Slowed|slowed]] (EoT)
+-   17+: 4 cold damage; [[Slowed|slowed]] (EoE)
 
 ## Kit Ward: Ice Armor
 

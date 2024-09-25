@@ -16,5 +16,5 @@ cost: ""
 **Power Roll + Reason**
 
 - **11 or lower:** 2 corruption damage
-- **12-16:** 6 corruption damage; slowed (EoT)
-- **17+:** 9 corruption damage; slowed (EoT)
+- **12-16:** 6 corruption damage; [[Slowed|slowed]] (EoT)
+- **17+:** 9 corruption damage; [[Slowed|slowed]] (EoT)

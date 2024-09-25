@@ -32,7 +32,7 @@ Look you again at the Hanging City. Yes, your eyes well with tears from the magn
 
 Some say the greatest ages of the world are behind us, but this is not so. Not so. While there is yet will in the world, there is greatness. You will see. The elves, the orcs. Humans and dwarves. All the speaking peoples have wonder in them yet. Our greatest days are ahead. Did not Ord make the world?
 
-None of us ask to come into this world, and apart from the Hakaan, none of us know how we will leave it. But remember, you are a dwarf. You have it in you to work marvels. To change the world, be you a holy conduit of Valak-koth the Peacebringer, one of the talented Mind Masters of the White Gem, a beastheart of the Darkdivers seeking through the World Below for deep knowledge, or a master tactician of the Imperial War College in Capital. You will make a better world.
+None of us ask to come into this world, and apart from the [[Hakaan]], none of us know how we will leave it. But remember, you are a dwarf. You have it in you to work marvels. To change the world, be you a holy conduit of Valak-koth the Peacebringer, one of the talented Mind Masters of the White Gem, a beastheart of the Darkdivers seeking through the World Below for deep knowledge, or a master tactician of the Imperial War College in Capital. You will make a better world.
 
 You are young yet, but already those who work evil deeds should fear you. You are a dwarf. You have a great destiny ahead.
 

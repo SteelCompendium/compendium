@@ -4,7 +4,7 @@
 
 —Chief Executive Admiral Lithiri Aswandala
 
-Commander of the HOV First Get Behind Them Memonek
+Commander of the HOV First Get Behind Them [[Memonek]]
 
 The original servitor species of the synliiroi—evil psions with near god-like power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym “time raiders” was given to them by denizens of the lower worlds who, seeing the advanced technology they wield, concluded they must be from the future.
 
@@ -20,7 +20,7 @@ Taxiarch Lycaon paced outside the ruined church. The four-armed woman with cryst
 
 “Is it that your brain is so small you must talk in order to think?” The woman's smile was a sneer.
 
-Lycaon strode toward the alien, grabbed a length of chain around her waist, and yanked on it, pulling it taut so the chain around her neck tightened. “You are going to die in any event,” he said. “If you wish to deny me the pleasure of hearing you howl and scream for mercy, tell me what I want to know now and my dogs will kill you quickly.”
+Lycaon strode toward the alien, [[Grabbed|grabbed]] a length of chain around her waist, and yanked on it, pulling it taut so the chain around her neck tightened. “You are going to die in any event,” he said. “If you wish to deny me the pleasure of hearing you howl and scream for mercy, tell me what I want to know now and my dogs will kill you quickly.”
 
 Up close she could see the fine stitching along Lycaon's cheeks and forehead, the very slight differences in skin tone that showed his skin was not his own.
 
@@ -32,11 +32,11 @@ He struck a casual, jaunty pose. “Where is your worldship?” he said in a mor
 
 “You see?” The Taxiarch said, impressed with himself. “I am not a primitive like these peasants, who hounded you because you are alien,” he nodded at the folk of the small town watching from the stables some distance away. “I am Ajax's elite. Better than his chosen. I was made for victory.”
 
-Indeed, Taxiarch Lycaon looked almost fully human. Handsome and fit like a statue from Phaedros, which his model had almost certainly been inspired by. Unless you looked closely, there was no sign he was a product of the body banks. “If you agree to lead me to your vessel, I will let you go free.”
+Indeed, Taxiarch Lycaon looked almost fully [[Human|human]]. Handsome and fit like a statue from Phaedros, which his model had almost certainly been inspired by. Unless you looked closely, there was no sign he was a product of the body banks. “If you agree to lead me to your vessel, I will let you go free.”
 
 The alien sighed. “‘Blaap blaap blaap,'” she said. “You should hear yourself. Like barking thrazz, you sound to me. Who holds your leash I wonder? For surely a microbrain such as you could not command any more than these rabble,” she nodded her head at the other twenty or so war dogs.
 
-Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head smashed into the ruined column. She was dazed but she shook it off and laughed.
+Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head smashed into the ruined column. She was [[Dazed|dazed]] but she shook it off and laughed.
 
 “Look how easily this one is goaded!” she said. She spat out dark blue blood and turned to the peasants gathered. “You people! Why do you let yourselves be cowed by these … bits? Bits of people kludged together? Even the least of you is worth more than these.”
 
@@ -58,13 +58,13 @@ Slowly everyone assembled could make out the sounds of a conversation, quiet wit
 
 “Oh, thank you for the brilliant tactical advice,” another voice, high pitched, piped up.
 
-Suddenly, the images became three dimensional, solid, and four heroes stood among them. A human in working battle plate. A polder with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. And a Dragon Knight. The people of the town gasped when they saw him. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
+Suddenly, the images became three dimensional, solid, and four heroes stood among them. A [[Human|human]] in working battle plate. A [[Polder|polder]] with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. And a [[Dragon knight|Dragon Knight]]. The people of the town gasped when they saw him. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
 
 The war dogs scrambled. For a moment, it seemed they might flee at this sudden intrusion, but the Taxiarch bellowed “Hold fast!” and they held their ground, uncertainty over the unknown threat of a band of heroes battling in each of them with the certain fear of their commander.
 
 John immediately read the situation. It was a clear enough picture.
 
-There was something about the war dogs. They loved Ajax's cruelty—reveled in it. John had crossed swords with other commanders in Ajax's army before. Ground Commander Vordokov was a professional—could be reasoned with, but he was an orc.
+There was something about the war dogs. They loved Ajax's cruelty—reveled in it. John had crossed swords with other commanders in Ajax's army before. Ground Commander Vordokov was a professional—could be reasoned with, but he was an [[Orc|orc]].
 
 Not the war dogs—they were fanatics.
 
@@ -84,7 +84,7 @@ John knew what came next, but he wasn't an assassin. He had his own part to play
 
 Lycaon cocked his head at Sir John and took a few foolish steps toward the tactician. He was just out of reach. But close enough.
 
-“I see you are a man, like Ajax. Why do you lower yourself with these … creatures?” the war dog Taxiarch looked at the elf, polder, and dragon knight. “Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you,” his voice lowered almost to a whisper, “to be on the winning side for a change.”
+“I see you are a man, like Ajax. Why do you lower yourself with these … creatures?” the war dog Taxiarch looked at the elf, [[Polder|polder]], and [[Dragon knight|dragon knight]]. “Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you,” his voice lowered almost to a whisper, “to be on the winning side for a change.”
 
 Sir John took a deep breath, his body language changed and that was enough. Several things then happened at once, so quickly no one would later be able to say who acted first.
 
@@ -92,7 +92,7 @@ Ember's eyes flashed into a starfield. The time raider's chains dissolved into s
 
 The time raider's right upper hand shot out, as though she'd been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who'd chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
 
-From the sun's shadow cast by Taxiarch Lycaon, the polder Jackson Bootblack emerged, a rapier in each hand, and no one had seen him move from where he'd been a moment before.
+From the sun's shadow cast by Taxiarch Lycaon, the [[Polder|polder]] Jackson Bootblack emerged, a rapier in each hand, and no one had seen him move from where he'd been a moment before.
 
 At the same instant, a call—a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in John's heart—the Clarion Call of the last Storm Knight!
 
