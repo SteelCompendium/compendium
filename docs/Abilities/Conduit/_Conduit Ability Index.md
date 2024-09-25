@@ -1,4 +1,4 @@
-# CONDUIT
+# Conduit Ability Index
 
 - [Holy Lance](Holy Lance.md)
 - [Lightfall](Lightfall.md)

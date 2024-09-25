@@ -1,4 +1,4 @@
-# FURY
+# Fury Ability Index
 
 - [Brutal Slam](Brutal Slam.md)
 - [Hit and Run](Hit and Run.md)

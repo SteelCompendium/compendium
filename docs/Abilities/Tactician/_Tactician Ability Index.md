@@ -1,4 +1,4 @@
-# TACTICIAN
+# Tactician Ability Index
 
 - [Battle Cry](Battle Cry.md)
 - [Dazing Blow](Dazing Blow.md)

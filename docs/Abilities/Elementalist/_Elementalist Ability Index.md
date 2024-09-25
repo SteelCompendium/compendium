@@ -1,4 +1,4 @@
-# ELEMENTALIST
+# Elementalist Ability Index
 
 - [Debris](Debris.md)
 - [Fire Lance](Fire Lance.md)

@@ -1,4 +1,4 @@
-# SHADOW
+# Shadow Ability Index
 
 - [Distracting Pain](Distracting Pain.md)
 - [I Work Better Alone](I Work Better Alone.md)
