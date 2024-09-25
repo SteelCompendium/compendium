@@ -7,12 +7,11 @@ cost: "5 PIETY"
 
 # Divine Weakness (5 Piety)
 
-Divine energy scours your target to make them more susceptible to harm.
+*Divine energy scours your target to make them more susceptible to harm.*
 
-- **Keywords:** Attack, Magic, Ranged
-- **Type:** Action
-- **Distance:** Ranged 5
-- **Target:** 1 creature or object
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Ranged 5 | **Target:** 1 creature or object |
 
 **Power Roll + Intuition**
 

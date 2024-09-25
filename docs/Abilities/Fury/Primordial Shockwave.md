@@ -7,12 +7,11 @@ cost: "5 RAGE"
 
 # Primordial Shockwave (5 Rage)
 
-The destructive power of nature cannot be contained.
+*The destructive power of nature cannot be contained.*
 
-- **Keywords:** Area, Melee, Weapon
-- **Type:** Action
-- **Distance:** 5 × 1 line within 1
-- **Target:** All enemies
+| **Keywords:** Area, Melee, Weapon | **Type:** Action |
+| :-- | :-- |
+| **Distance:** 5 × 1 line within 1 | **Target:** All enemies |
 
 **Power Roll + Might**
 

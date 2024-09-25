@@ -7,12 +7,11 @@ cost: "3 INSIGHT"
 
 # Quick Pursuit (3 Insight)
 
-A foe forced away from you might assume they’re out of danger, but they’ll soon learn otherwise.
+*A foe forced away from you might assume they’re out of danger, but they’ll soon learn otherwise.*
 
-- **Keywords:** Attack, Melee, Weapon
-- **Type:** Action
-- **Distance:** Reach 1
-- **Target:** 1 creature
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Reach 1 | **Target:** 1 creature |
 
 **Power Roll + Agility**
 

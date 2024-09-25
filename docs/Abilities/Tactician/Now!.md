@@ -7,11 +7,10 @@ cost: "5 FOCUS"
 
 # Now! (5 Focus)
 
-Your allies wait for your command—then unleash death!
+*Your allies wait for your command—then unleash death!*
 
-- **Keywords:** Ranged
-- **Type:** Maneuver
-- **Distance:** Ranged 5
-- **Target:** All allies
+| **Keywords:** Ranged | **Type:** Maneuver |
+| :-- | :-- |
+| **Distance:** Ranged 5 | **Target:** All allies |
 
 **Effect:** Each target can make a free strike.

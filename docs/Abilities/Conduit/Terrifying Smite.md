@@ -7,12 +7,11 @@ cost: "5 PIETY"
 
 # Terrifying Smite (5 Piety)
 
-A mote of holy light racks your foe with their greatest fear.
+*A mote of holy light racks your foe with their greatest fear.*
 
-- **Keywords:** Attack, Magic, Ranged
-- **Type:** Action
-- **Distance:** Ranged 5
-- **Target:** 1 creature
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Ranged 5 | **Target:** 1 creature |
 
 **Power Roll + Intuition**
 

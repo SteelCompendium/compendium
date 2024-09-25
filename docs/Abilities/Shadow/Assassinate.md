@@ -7,12 +7,11 @@ cost: "5 INSIGHT"
 
 # Assassinate (5 Insight)
 
-You seize the perfect moment and strike with fatal precision!
+*You seize the perfect moment and strike with fatal precision!*
 
-- **Keywords:** Attack, Melee, Weapon
-- **Type:** Action
-- **Distance:** Reach 1
-- **Target:** 1 creature
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Reach 1 | **Target:** 1 creature |
 
 **Power Roll + Agility**
 

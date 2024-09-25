@@ -7,12 +7,11 @@ cost: "5 ESSENCE"
 
 # Open the Earth (5 Essence)
 
-The surface of the world around you opens up at your command.
+*The surface of the world around you opens up at your command.*
 
-- **Keywords:** Magic, Earth, Persistent, Ranged
-- **Type:** Maneuver
-- **Distance:** Ranged 5
-- **Target:** Special
+| **Keywords:** Magic, Earth, Persistent, Ranged | **Type:** Maneuver |
+| :-- | :-- |
+| **Distance:** Ranged 5 | **Target:** Special |
 
 **Power Roll + Reason**
 

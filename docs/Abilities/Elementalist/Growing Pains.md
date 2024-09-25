@@ -7,12 +7,11 @@ cost: ""
 
 # Growing Pains
 
-Whipping vines erupt from a foe’s body to grasp at another close by.
+*Whipping vines erupt from a foe’s body to grasp at another close by.*
 
-- **Keywords:** Attack, Green, Magic, Ranged
-- **Type:** Action
-- **Distance:** Ranged 5
-- **Target:** 1 creature
+| **Keywords:** Attack, Green, Magic, Ranged | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Ranged 5 | **Target:** 1 creature |
 
 **Power Roll + Reason**
 

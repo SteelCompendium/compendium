@@ -7,12 +7,11 @@ cost: "5 RAGE"
 
 # Dying Blow (5 Rage)
 
-You focus your rage into a single devastating strike.
+*You focus your rage into a single devastating strike.*
 
-- **Keywords:** Attack, Melee, Weapon
-- **Type:** Action
-- **Distance:** Reach 1
-- **Target:** 1 creature
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Reach 1 | **Target:** 1 creature |
 
 **Power Roll + Might**
 

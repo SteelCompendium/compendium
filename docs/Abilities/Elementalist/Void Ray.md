@@ -7,12 +7,11 @@ cost: ""
 
 # Void Ray
 
-A beam of energy corrupts and hinders whatever it touches.
+*A beam of energy corrupts and hinders whatever it touches.*
 
-- **Keywords:** Attack, Magic, Ranged, Void
-- **Type:** Action
-- **Distance:** Ranged 5
-- **Target:** 1 creature or object
+| **Keywords:** Attack, Magic, Ranged, Void | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Ranged 5 | **Target:** 1 creature or object |
 
 **Power Roll + Reason**
 

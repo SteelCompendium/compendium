@@ -77,7 +77,7 @@
       "5. CLASS": "Choose your hero’s class. This choice has the biggest impact on how your hero interacts with the rules of the game, especially the rules for combat. Your class provides your characteristic scores and Stamina, in addition to skills, several abilities, and other benefits. You can be a censor, conduit, elementalist, fury, null, shadow, tactician, talent, or troubadour. See *Classes* for more information.\n\n*(Playtest note: The currently available classes are the conduit, elementalist, fury, shadow, and tactician, each of which includes only 1st-level features.)*",
       "6. KIT": "Choose your hero’s kit. Your kit provides you with equipment and a fighting style that grants a signature ability and bonuses to one or more of your game statistics.",
       "7. ADD FREE STRIKES": {
-        "flavor": "Every hero has the ability to make free strikes under certain circumstances—extra attacks that don’t require your action. (You can also make a free strike as an action on your turn, though you’ll usually have better options for your action.) Your class might grant you free strike options, but each character also has two standard free strikes.",
+        "description": "Every hero has the ability to make free strikes under certain circumstances—extra attacks that don’t require your action. (You can also make a free strike as an action on your turn, though you’ll usually have better options for your action.) Your class might grant you free strike options, but each character also has two standard free strikes.",
         "keywords": "Attack, Melee, Weapon",
         "type": "Action",
         "distance": "Reach 1",
@@ -117,7 +117,7 @@
       "DRAGON KNIGHT BENEFITS": {
         "WYRMPLATE": "Your hardened scales grant you immunity 5 to one of the following damage types: cold, corruption, fire, lightning, or poison. You can change your damage immunity type while out of combat (no action required).",
         "KNIGHTHOOD": {
-          "flavor": "The legacy of the Dragon Phalanx lives in you. Choose one of the following benefits.",
+          "description": "The legacy of the Dragon Phalanx lives in you. Choose one of the following benefits.",
           "keywords": "Area, Magic",
           "type": "Action",
           "distance": "2 burst",
@@ -189,7 +189,7 @@
         "POLDER GEIST": "When you start your turn while no creatures have line of effect to you, or while you are hidden from or have concealment from all creatures with line of effect to you, your speed is increased by 3 until the end of your turn.",
         "SHADOWMELD": {
           "SHADOWMELD": {
-            "flavor": "You become an actual shadow.",
+            "description": "You become an actual shadow.",
             "keywords": "Magic",
             "type": "Maneuver",
             "distance": "Self",
@@ -205,7 +205,7 @@
         "FORMER LIFE": "Choose the ancestry you were before you died. Your size equals that ancestry’s size. Your speed is 5. You lose all other ancestral benefits from your original ancestry.",
         "VENGEANCE MARK": "As a maneuver, you place a magic sigil on a creature within 10 squares of you. When you place a sigil, you can decide where it appears on the creature’s body, and whether the sigil is visible to only you or to all creatures.\n\nYou always know the direction to the exact location of a creature who bears one of your sigils and is on the same plane of existence as you.\n\nAdditionally, you gain the following ability.",
         "DETONATE SIGIL": {
-          "flavor": "A magical sigil you placed on a creature explodes with energy.",
+          "description": "A magical sigil you placed on a creature explodes with energy.",
           "keywords": "Attack, Magic, Ranged",
           "type": "Action",
           "distance": "Ranged 10",
@@ -300,7 +300,7 @@
       },
       "PIETY": {
         "PRAYER": {
-          "flavor": "*I beseech you!*\n**Keywords**: Magic\n**Type**: Maneuver\n**Distance**: Self\n**Target**: Self",
+          "description": "*I beseech you!*\n**Keywords**: Magic\n**Type**: Maneuver\n**Distance**: Self\n**Target**: Self",
           "keywords": "Magic",
           "type": "Maneuver",
           "distance": "Self",
@@ -337,7 +337,7 @@
         "FATE TRANCE": "If you spend 10 minutes in an uninterrupted meditative state without moving, you get a glimpse of any significant events that will happen in the area around you in the next 24 hours unless you or your allies intercede in those events. As described by the Director, these glimpses of the future might be clear and concise, or might be vague and hard to understand.",
         "GRAVE SPEECH": {
           "GRAVE SPEECH": {
-            "flavor": "The power of death lets you speak with those who have passed from the world.",
+            "description": "The power of death lets you speak with those who have passed from the world.",
             "keywords": "Magic",
             "type": "Maneuver",
             "distance": "Reach 1",
@@ -347,7 +347,7 @@
         },
         "HANDS OF THE MAKER": {
           "HANDS OF THE MAKER": {
-            "flavor": "Craft objects with the power of your mind!",
+            "description": "Craft objects with the power of your mind!",
             "keywords": "Magic",
             "type": "Maneuver",
             "distance": "Self",
@@ -361,7 +361,7 @@
       },
       "HEALING GRACE": {
         "HEALING GRACE": {
-          "flavor": "Your divine energy restores the righteous.",
+          "description": "Your divine energy restores the righteous.",
           "keywords": "Magic, Ranged",
           "type": "Maneuver",
           "distance": "Ranged 5",
@@ -373,7 +373,7 @@
       },
       "PIOUS FORCE": {
         "PIOUS FORCE": {
-          "flavor": "You unleash a blast of raw divine magic upon your foe.",
+          "description": "You unleash a blast of raw divine magic upon your foe.",
           "keywords": "Attack, Magic, Ranged",
           "type": "Action",
           "distance": "Ranged 5",
@@ -387,7 +387,7 @@
       },
       "TRIGGERED ACTION": {
         "DIVINE DISRUPTION": {
-          "flavor": "You sap the strength of an attacking enemy with divine energy.",
+          "description": "You sap the strength of an attacking enemy with divine energy.",
           "keywords": "Magic, Ranged",
           "type": "Triggered",
           "distance": "Ranged 5",
@@ -398,7 +398,7 @@
           "spend_effect": "The attack has a double bane and the damage to one creature targeted by the attack is reduced by an amount equal to twice your Intuition score."
         },
         "HOLY INFUSION": {
-          "flavor": "You invigorate an attacking ally with divine energy.",
+          "description": "You invigorate an attacking ally with divine energy.",
           "keywords": "Magic, Ranged",
           "type": "Triggered",
           "distance": "Ranged 5",
@@ -412,7 +412,7 @@
       "CONDUIT ABILITIES": {
         "SIGNATURE ABILITY": {
           "HOLY LANCE": {
-            "flavor": "A tendril of divine energy shoots forth to draw in your foe.",
+            "description": "A tendril of divine energy shoots forth to draw in your foe.",
             "keywords": "Attack, Magic, Ranged",
             "type": "Action",
             "distance": "Ranged 5",
@@ -423,7 +423,7 @@
             "tier3": "9 holy damage; pull 4"
           },
           "LIGHTFALL": {
-            "flavor": "Holy light scours your foes and sets your allies into perfect attack position.",
+            "description": "Holy light scours your foes and sets your allies into perfect attack position.",
             "keywords": "Area, Magic, Ranged",
             "type": "Action",
             "distance": "Cube 3 within 5",
@@ -435,7 +435,7 @@
             "effect": "You can teleport each ally in the area and yourself (if you’re in the area) to an unoccupied space within the area."
           },
           "SACRIFICIAL OFFER": {
-            "flavor": "The divine energy of creation tears at your foe.",
+            "description": "The divine energy of creation tears at your foe.",
             "keywords": "Attack, Magic, Ranged",
             "type": "Action",
             "distance": "Ranged 5",
@@ -446,7 +446,7 @@
             "tier3": "9 corruption damage; the next ally to damage the target before the start of your next turn deals an extra 1d10 corruption damage"
           },
           "WITHER": {
-            "flavor": "A bolt of holy energy saps the life from a foe.",
+            "description": "A bolt of holy energy saps the life from a foe.",
             "keywords": "Attack, Magic, Ranged",
             "type": "Action",
             "distance": "Ranged 5",
@@ -460,7 +460,7 @@
         "HEROIC ABILITIES": "You make use of a number of heroic abilities, all of which channel piety to empower them.",
         "3-PIETY ABILITIES": {
           "ANGEL OF WRATH (3 PIETY)": {
-            "flavor": "You conjure an angelic spirit who lashes your foes with burning radiance.",
+            "description": "You conjure an angelic spirit who lashes your foes with burning radiance.",
             "keywords": "Magic, Ranged",
             "type": "Action",
             "distance": "Ranged 5",
@@ -468,7 +468,7 @@
             "effect": "You summon an angelic spirit of size 1M who can’t be harmed, and who appears in an unoccupied space within distance. The spirit lasts until the end of your next turn. You and your allies can move through the spirit’s space, but enemies can’t. The first time on a turn that an enemy moves within 1 square of the spirit or starts their turn there, they take holy damage equal to twice your Intuition score."
           },
           "PUNISHING SMITE (3 PIETY)": {
-            "flavor": "Your divine fury is a hammer that crashes down upon the unrighteous.",
+            "description": "Your divine fury is a hammer that crashes down upon the unrighteous.",
             "keywords": "Attack, Magic, Ranged",
             "type": "Action",
             "distance": "Ranged 5",
@@ -479,7 +479,7 @@
             "tier3": "13 holy damage; prone and can’t stand (EoT)"
           },
           "RIGHTEOUS REBUKE (3 PIETY)": {
-            "flavor": "Divine wrath strikes your foe with lightning that follows them across the battlefield.",
+            "description": "Divine wrath strikes your foe with lightning that follows them across the battlefield.",
             "keywords": "Attack, Magic, Ranged",
             "type": "Action",
             "distance": "Ranged 5",
@@ -491,7 +491,7 @@
             "effect": "If the target deals damage to another creature before the end of their next turn, the target of this ability takes another 1d10 lightning damage."
           },
           "THUNDER OF THE DIVINE (3 PIETY)": {
-            "flavor": "A resounding clap of thunder disrupts your foes.",
+            "description": "A resounding clap of thunder disrupts your foes.",
             "keywords": "Area, Magic, Ranged",
             "type": "Action",
             "distance": "4 cube within 5",
@@ -505,7 +505,7 @@
         },
         "5-PIETY ABILITIES": {
           "ARMOR OF THE FAITHFUL (5 PIETY)": {
-            "flavor": "The divine light of protection surrounds your allies.",
+            "description": "The divine light of protection surrounds your allies.",
             "keywords": "Magic, Ranged",
             "type": "Maneuver",
             "distance": "Ranged 5",
@@ -517,7 +517,7 @@
             "effect": "This temporary Stamina disappears at the end of the encounter."
           },
           "DIVINE WEAKNESS (5 PIETY)": {
-            "flavor": "Divine energy scours your target to make them more susceptible to harm.",
+            "description": "Divine energy scours your target to make them more susceptible to harm.",
             "keywords": "Attack, Magic, Ranged",
             "type": "Action",
             "distance": "Ranged 5",
@@ -528,7 +528,7 @@
             "tier3": "16 damage; whenever the target takes damage, they take an extra 5 corruption damage (EoE)"
           },
           "TERRIFYING SMITE (5 PIETY)": {
-            "flavor": "A mote of holy light racks your foe with their greatest fear.",
+            "description": "A mote of holy light racks your foe with their greatest fear.",
             "keywords": "Attack, Magic, Ranged",
             "type": "Action",
             "distance": "Ranged 5",
@@ -539,7 +539,7 @@
             "tier3": "16 holy damage; frightened (EoE)"
           },
           "WAVE OF VIRTUE (5 PIETY)": {
-            "flavor": "A pulse of divine magic lets your comrades draw on their reserves of inner strength.",
+            "description": "A pulse of divine magic lets your comrades draw on their reserves of inner strength.",
             "keywords": "Area, Magic",
             "type": "Action",
             "distance": "5 burst",
@@ -559,7 +559,7 @@
       "ESSENCE": "You channel the substance of creation in the form of a Heroic Resource called essence. In times of great stress, you can focus your control on this substance, gathering and burning it to cast and maintain spells.\n\nOutside of combat and other dangerous situations tracked in turns and rounds, you have essence equal to your Victories. If you lose some or all of this essence outside of combat, it takes you 1 minute to regain it. You can also dedicate that essence to maintaining persistent abilities (see Persistent Magic below).\n\nWhen combat begins, you keep any essence you had outside of combat. At the start of each of your turns during combat, you gain 2 essence. When combat ends, you once more have essence equal to your Victories.",
       "HURL ELEMENT": {
         "HURL ELEMENT": {
-          "flavor": "You hurl a ball of elemental energy at a nearby foe.",
+          "description": "You hurl a ball of elemental energy at a nearby foe.",
           "keywords": "Attack, Magic, Ranged",
           "type": "Action",
           "distance": "Ranged 5",
@@ -574,7 +574,7 @@
       "PERSISTENT MAGIC": "Some of your heroic abilities have the Persistent keyword. Whenever you use a persistent ability, you decide whether you want to maintain it. If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your turn by an amount equal to the ability’s persistent value, which enables the ability’s persistent effect. All your active persistent abilities end when combat ends.\n\nYou can maintain a persistent ability outside of combat as long as you have Victories equal to or greater than its persistent value. If you maintain a persistent ability outside of combat, the maximum essence you can use on other abilities is reduced by the ability’s persistent value. For instance, if you have 4 Victories and maintain the Stone Ward ability (a persistent ability with a cost of 1 essence), you can only use abilities costing 3 essence or less outside of combat.\n\nYou can’t maintain any abilities that would make you earn a negative amount of essence at the start of your turn or have a negative amount of essence outside of combat. You can stop maintaining an ability at any time (no action required).\n\nIf you maintain the same ability on several targets and the effect includes a power roll, you make that roll once and apply the same effect to all targets. A creature can’t be affected by multiple instances of a persistent ability.\n\nWhenever you take damage while you have an active persistent ability, you must make the following power roll.\n\n**Power Roll + Reason**:\n\n['11 or lower: You lose all active persistent abilities.', '12–16: If you have only one persistent ability active, it remains active. Otherwise, you lose one active persistent ability of your choice.', '17+: All your active persistent abilities remain active.']",
       "PRACTICAL MAGIC": {
         "PRACTICAL MAGIC": {
-          "flavor": "Your mastery of elemental power lets you customize your magic.",
+          "description": "Your mastery of elemental power lets you customize your magic.",
           "keywords": "Magic",
           "type": "Maneuver",
           "distance": "Self",
@@ -586,7 +586,7 @@
         "1ST-LEVEL ELEMENTALIST SPECIALIZATION FEATURES": "| Specialization | Feature            |\n| -------------- | ------------------ |\n| Earth          | Manipulate Earth   |\n| Fire           | Melt               |\n| Green          | Speech of the Wild |\n| Void           | Void Sense         |",
         "MANIPULATE EARTH": {
           "MANIPULATE EARTH (2 ESSENCE)": {
-            "flavor": "The earth rises, falls, or opens at your command.",
+            "description": "The earth rises, falls, or opens at your command.",
             "keywords": "Earth, Magic, Melee",
             "type": "Action",
             "distance": "Reach 1",
@@ -602,7 +602,7 @@
         },
         "MELT": {
           "MELT (2 ESSENCE)": {
-            "flavor": "With the merest touch, you cause an object to turn into slag or ash.",
+            "description": "With the merest touch, you cause an object to turn into slag or ash.",
             "keywords": "Fire, Magic, Melee",
             "type": "Action",
             "distance": "Reach 1",
@@ -615,7 +615,7 @@
         "SPEECH OF THE WILD": "You can speak with and understand Animals, Plant Creatures, and Monstrosities, even if they don’t share a language with you. Your ability to communicate with such creatures doesn’t make them inherently more intelligent or less hostile toward you.\n\nAdditionally, when you touch a living plant object, you can communicate with it telepathically. You can use words to communicate with the plant, but it communicates with you only by transmitting feelings and sensations that can’t be overly specific.",
         "VOID SENSE": {
           "SHARED VOID SENSE (1+ ESSENCE)": {
-            "flavor": "You share your special senses with others.",
+            "description": "You share your special senses with others.",
             "keywords": "Magic, Ranged, Void",
             "type": "Maneuver",
             "distance": "Ranged 5",
@@ -626,7 +626,7 @@
       },
       "SPECIALIZATION TRIGGERED ACTION": {
         "EARTHEN FORCE": {
-          "flavor": "You imbue an attack with the strength of stone.",
+          "description": "You imbue an attack with the strength of stone.",
           "keywords": "Earth, Magic, Ranged",
           "type": "Triggered",
           "distance": "Ranged 5",
@@ -637,7 +637,7 @@
           "spend_effect": "The attack deals extra damage equal to 4 times your Reason score instead and pushes the target a number of squares equal to your Reason score."
         },
         "EXPLOSIVE ASSISTANCE": {
-          "flavor": "You add a little magic to an ally’s aggression at just the right time.",
+          "description": "You add a little magic to an ally’s aggression at just the right time.",
           "keywords": "Fire, Magic, Ranged",
           "type": "Triggered",
           "distance": "Ranged 5",
@@ -648,7 +648,7 @@
           "spend_effect": "The distance of the forced movement is increased by a number of squares equal to twice your Reason score instead."
         },
         "MEND THE SOUL": {
-          "flavor": "The power you channel grants the ability to get back in the fight.",
+          "description": "The power you channel grants the ability to get back in the fight.",
           "keywords": "Green, Magic, Ranged",
           "type": "Triggered",
           "distance": "Ranged 5",
@@ -657,7 +657,7 @@
           "effect": "The target can spend a Recovery."
         },
         "VOID EMBRACE": {
-          "flavor": "You call on the void to swallow and spit out an ally.",
+          "description": "You call on the void to swallow and spit out an ally.",
           "keywords": "Magic, Ranged, Void",
           "type": "Triggered",
           "distance": "Self or Ranged 5",
@@ -671,7 +671,7 @@
       "ELEMENTALIST ABILITIES": {
         "SIGNATURE ABILITY": {
           "DEBRIS": {
-            "flavor": "A sudden storm of detritus assaults your foes and leaves them struggling to move.",
+            "description": "A sudden storm of detritus assaults your foes and leaves them struggling to move.",
             "keywords": "Area, Earth, Magic, Ranged",
             "type": "Action",
             "distance": "3 cube within 5",
@@ -683,7 +683,7 @@
             "effect": "The ground beneath the area becomes difficult terrain for your enemies."
           },
           "FIRE LANCE": {
-            "flavor": "A jet of fire erupts with elemental fury where it strikes.",
+            "description": "A jet of fire erupts with elemental fury where it strikes.",
             "keywords": "Attack, Fire, Magic, Ranged",
             "type": "Action",
             "distance": "Ranged 5",
@@ -694,7 +694,7 @@
             "tier3": "9 fire damage; push 5"
           },
           "GROWING PAINS": {
-            "flavor": "Whipping vines erupt from a foe’s body to grasp at another close by.",
+            "description": "Whipping vines erupt from a foe’s body to grasp at another close by.",
             "keywords": "Attack, Green, Magic, Ranged",
             "type": "Action",
             "distance": "Ranged 5",
@@ -706,7 +706,7 @@
             "effect": "A creature within 5 squares of the target is pulled 2 squares toward the target."
           },
           "VOID RAY": {
-            "flavor": "A beam of energy corrupts and hinders whatever it touches.",
+            "description": "A beam of energy corrupts and hinders whatever it touches.",
             "keywords": "Attack, Magic, Ranged, Void",
             "type": "Action",
             "distance": "Ranged 5",
@@ -720,7 +720,7 @@
         "HEROIC ABILITIES": "You channel a range of heroic abilities, all of them fueled by your essence",
         "3-ESSENCE ABILITIES": {
           "BURN! (3 ESSENCE)": {
-            "flavor": "Fire engulfs a target of your choice and burns at your command.",
+            "description": "Fire engulfs a target of your choice and burns at your command.",
             "keywords": "Attack, Fire, Magic, Persistent, Ranged",
             "type": "Action",
             "distance": "Ranged 5",
@@ -733,7 +733,7 @@
             "persistent_effect": "If the target is within distance at the start of your turn, make a power roll for this ability again."
           },
           "INVIGORATING GROWTH (3 ESSENCE)": {
-            "flavor": "Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.",
+            "description": "Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.",
             "keywords": "Attack, Green, Magic, Ranged",
             "type": "Action",
             "distance": "Ranged 5",
@@ -745,7 +745,7 @@
             "effect": "The mushrooms can be removed by the target or by an adjacent creature as an action. While the mushrooms are on the target, each of your allies adjacent to the target gains an edge on attacks against them."
           },
           "PUNCH THE EARTH (3 ESSENCE)": {
-            "flavor": "You slam the ground, which buckles out from you in every direction.",
+            "description": "You slam the ground, which buckles out from you in every direction.",
             "keywords": "Area, Earth, Magic",
             "type": "Action",
             "distance": "3 burst",
@@ -757,7 +757,7 @@
             "effect": "You must be touching the ground or floor to use this ability. The surface beneath the area becomes difficult terrain for your enemies."
           },
           "STARE INTO THE ABYSS (3 ESSENCE)": {
-            "flavor": "You open a rift into the void to harry your enemies.",
+            "description": "You open a rift into the void to harry your enemies.",
             "keywords": "Area, Magic, Persistent, Ranged, Void",
             "type": "Action",
             "distance": "4 cube within 5",
@@ -772,7 +772,7 @@
         },
         "5-ESSENCE ABILITIES": {
           "CONFLAGRATION (5 ESSENCE)": {
-            "flavor": "A storm of fire descends upon your enemies.",
+            "description": "A storm of fire descends upon your enemies.",
             "keywords": "Area, Fire, Magic, Persistent, Ranged",
             "type": "Action",
             "distance": "4 cube within 5",
@@ -785,7 +785,7 @@
             "persistent_effect": "At the start of your turn, you can use this ability again as a maneuver without spending essence."
           },
           "INCORPOREALNESS (5 ESSENCE)": {
-            "flavor": "The material substance of a creature shreds away at your command.",
+            "description": "The material substance of a creature shreds away at your command.",
             "keywords": "Magic, Melee, Persistent, Void",
             "type": "Maneuver",
             "distance": "Self or Reach",
@@ -795,7 +795,7 @@
             "persistent_effect": "The effect lasts until the start of your next turn."
           },
           "NOURISHING RAIN (5 ESSENCE)": {
-            "flavor": "You call down a rain that burns your enemies and restores your allies.",
+            "description": "You call down a rain that burns your enemies and restores your allies.",
             "keywords": "Area, Green, Magic",
             "type": "Action",
             "distance": "5 burst",
@@ -807,7 +807,7 @@
             "effect": "You and each ally in the area suffering any effect that has a duration of EoT or is ended by a resistance roll have all such effects end."
           },
           "OPEN THE EARTH (5 ESSENCE)": {
-            "flavor": "The surface of the world around you opens up at your command.",
+            "description": "The surface of the world around you opens up at your command.",
             "keywords": "Magic, Earth, Persistent, Ranged",
             "type": "Maneuver",
             "distance": "Ranged 5",
@@ -858,7 +858,7 @@
       "ASPECT TRIGGERED ACTION": {
         "FURY TRIGGERED ACTIONS": "| **Aspect** | **Triggered Action** |\n| ---------- | -------------------- |\n| Berserker  | Relentless Toss      |\n| Reaver     | Uncanny Dodge        |\n| Stormwight | Regeneration         |",
         "REGENERATION": {
-          "flavor": "Your transformative abilities bring you back into the fight.",
+          "description": "Your transformative abilities bring you back into the fight.",
           "keywords": "Melee",
           "type": "Triggered",
           "distance": "Self",
@@ -869,7 +869,7 @@
           "spend_effect": "If you are not dying, you can spend a Recovery."
         },
         "RELENTLESS TOSS": {
-          "flavor": "The Primordial Chaos allows you to redirect kinetic energy for a monstrous smash!",
+          "description": "The Primordial Chaos allows you to redirect kinetic energy for a monstrous smash!",
           "keywords": "Magic, Melee",
           "type": "Triggered",
           "distance": "Self or reach",
@@ -880,7 +880,7 @@
           "spend_effect": "You can increase the forced move distance by a number of squares equal to twice your Might score instead."
         },
         "UNCANNY DODGE": {
-          "flavor": "When a damaging effect surrounds you, you stay two steps ahead.",
+          "description": "When a damaging effect surrounds you, you stay two steps ahead.",
           "keywords": "Melee",
           "type": "Triggered",
           "distance": "Reach 1",
@@ -894,7 +894,7 @@
       "FURY ABILITIES": {
         "SIGNATURE ABILITY": {
           "BRUTAL SLAM": {
-            "flavor": "The heavy impact of your weapon attacks drives your foes ever backward.",
+            "description": "The heavy impact of your weapon attacks drives your foes ever backward.",
             "keywords": "Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Reach 1",
@@ -905,7 +905,7 @@
             "tier3": "12 damage; push 4"
           },
           "HIT AND RUN": {
-            "flavor": "Keeping in constant motion helps you slip out of reach after a brutal assault.",
+            "description": "Keeping in constant motion helps you slip out of reach after a brutal assault.",
             "keywords": "Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Reach 1",
@@ -917,7 +917,7 @@
             "effect": "You can shift 1 square after the attack is resolved."
           },
           "HUMILIATING STRIKE": {
-            "flavor": "You hit with a strength that’s worth the risk of raising your opponent’s ire.",
+            "description": "You hit with a strength that’s worth the risk of raising your opponent’s ire.",
             "keywords": "Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Reach 1",
@@ -929,7 +929,7 @@
             "effect": "You can choose to do an extra 1d6 damage to the target. If you do, the target gains an edge on their next attack against you."
           },
           "IMPALING STRIKE": {
-            "flavor": "Fighting up close lets you keep your foe exactly where you want them.",
+            "description": "Fighting up close lets you keep your foe exactly where you want them.",
             "keywords": "Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Reach 1",
@@ -944,7 +944,7 @@
         "HEROIC ABILITIES": "You fight with an array of heroic abilities, all of which cost rage to fuel them.",
         "3-RAGE ABILITIES": {
           "DEATH BEFORE BEAUTY (3 RAGE)": {
-            "flavor": "Your enemies will get out of your way—whether they want to or not.",
+            "description": "Your enemies will get out of your way—whether they want to or not.",
             "keywords": "Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Reach 1",
@@ -956,7 +956,7 @@
             "effect": "When you force move the target, you can move into squares they leave. The target takes the damage from any free strikes you provoke with this movement."
           },
           "STAB ME SO I CAN PULL MYSELF CLOSER TO YOU (3 RAGE)": {
-            "flavor": "When you barrel through your foes, they feel your wrath.",
+            "description": "When you barrel through your foes, they feel your wrath.",
             "keywords": "Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Self",
@@ -968,7 +968,7 @@
             "effect": "Move up to your speed in a straight line toward a creature or object. You don’t treat enemy creatures as difficult terrain for this move. If the target is a creature, you can end your movement in the target’s square, moving them to an adjacent open square. Make a power roll against the target and every enemy you moved through."
           },
           "WHIRLWIND STRIKE (3 RAGE)": {
-            "flavor": "As your foes close in around you, why bother taking them on one by one?",
+            "description": "As your foes close in around you, why bother taking them on one by one?",
             "keywords": "Area, Melee, Weapon",
             "type": "Action",
             "distance": "1 burst",
@@ -979,7 +979,7 @@
             "tier3": "7 damage; push 3"
           },
           "YOUR ENTRAILS ARE YOUR EXTRAILS! (3 RAGE)": {
-            "flavor": "Unless they get some help, your foe is finished.",
+            "description": "Unless they get some help, your foe is finished.",
             "keywords": "Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Reach",
@@ -993,7 +993,7 @@
         },
         "5-RAGE ABILITIES": {
           "BLOOD FOR BLOOD! (5 RAGE)": {
-            "flavor": "A mighty strike leaves your foe reeling.",
+            "description": "A mighty strike leaves your foe reeling.",
             "keywords": "Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Reach 1",
@@ -1005,7 +1005,7 @@
             "effect": "You can choose to deal 1d6 damage to yourself to deal an extra 2d6 damage to the target."
           },
           "BRUTE PRECISION (5 RAGE)": {
-            "flavor": "You can always trust your anger to get the job done.",
+            "description": "You can always trust your anger to get the job done.",
             "keywords": "—",
             "type": "Free maneuver",
             "distance": "Self",
@@ -1013,7 +1013,7 @@
             "effect": "The next attack you make this turn automatically achieves a tier 3 result and deals an extra 1d6 damage."
           },
           "DYING BLOW (5 RAGE)": {
-            "flavor": "You focus your rage into a single devastating strike.",
+            "description": "You focus your rage into a single devastating strike.",
             "keywords": "Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Reach 1",
@@ -1026,7 +1026,7 @@
             "spend_effect": "If you are winded, you can add 1d6 damage for each rage spent. If you are dying, you can add 1d10 damage for each rage spent. In either case, you then lose 1d6 Stamina."
           },
           "PRIMORDIAL SHOCKWAVE (5 RAGE)": {
-            "flavor": "The destructive power of nature cannot be contained.",
+            "description": "The destructive power of nature cannot be contained.",
             "keywords": "Area, Melee, Weapon",
             "type": "Action",
             "distance": "5 × 1 line within 1",
@@ -1045,7 +1045,7 @@
         "ASPECT BENEFITS": "You always have the noted benefits, whether in your true form, the animal form you can take at any time, or the hybrid form that some stormwight kits grant you as your rage increases.",
         "ANIMAL FORM": {
           "ANIMAL FORM": {
-            "flavor": "You take on the form of the animal who channels your rage.",
+            "description": "You take on the form of the animal who channels your rage.",
             "keywords": "—",
             "type": "Maneuver",
             "distance": "Self",
@@ -1071,7 +1071,7 @@
         ],
         "SIGNATURE ABILITY": {
           "BEAR CLAWS": {
-            "flavor": "Attacks with your sharp and deadly claws send your foes staggering back.",
+            "description": "Attacks with your sharp and deadly claws send your foes staggering back.",
             "keywords": "Animal, Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Reach 1",
@@ -1095,7 +1095,7 @@
         ],
         "SIGNATURE ABILITY": {
           "WING BUFFET": {
-            "flavor": "Foes who try to close around you do so at their peril.",
+            "description": "Foes who try to close around you do so at their peril.",
             "keywords": "Animal, Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Reach 1",
@@ -1121,7 +1121,7 @@
         ],
         "SIGNATURE ABILITY": {
           "DRIVING POUNCE": {
-            "flavor": "Your enemies try in vain to fall back from your pouncing attack.",
+            "description": "Your enemies try in vain to fall back from your pouncing attack.",
             "keywords": "Animal, Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Reach 1",
@@ -1147,7 +1147,7 @@
         ],
         "SIGNATURE ABILITY": {
           "PROBING ATTACK": {
-            "flavor": "A savage assault forces your foes back.",
+            "description": "A savage assault forces your foes back.",
             "keywords": "Animal, Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Reach 1",
@@ -1174,7 +1174,7 @@
         "1ST-LEVEL SHADOW COLLEGE FEATURES": "| College | Feature                |\n|---------|------------------------|\n| Black Ash | Black Ash Teleport    |\n| Caustic Alchemy | Coat the Blade, Smoke Bomb |\n| Harlequin Mask | I’m On Your Side |",
         "BLACK ASH TELEPORT": {
           "BLACK ASH TELEPORT": {
-            "flavor": "In a swirl of black ash, you step from one place to another.",
+            "description": "In a swirl of black ash, you step from one place to another.",
             "keywords": "Magic",
             "type": "Maneuver",
             "distance": "Self",
@@ -1186,7 +1186,7 @@
         },
         "COAT THE BLADE": {
           "COAT THE BLADE": {
-            "flavor": "Just a little poison goes a long way.",
+            "description": "Just a little poison goes a long way.",
             "keywords": "—",
             "type": "Maneuver",
             "distance": "Self",
@@ -1198,7 +1198,7 @@
         },
         "I'M ON YOUR SIDE": {
           "I’M ON YOUR SIDE": {
-            "flavor": "Taking on the illusory countenance of another creature gives you an advantage on subterfuge.",
+            "description": "Taking on the illusory countenance of another creature gives you an advantage on subterfuge.",
             "keywords": "Magic",
             "type": "Maneuver",
             "distance": "Self",
@@ -1211,7 +1211,7 @@
       "COLLEGE TRIGGERED ACTION": {
         "SHADOW TRIGGERED ACTIONS": "| College         | Triggered Action      |\n| --------------- | --------------------- |\n| Black Ash       | In All This Confusion |\n| Caustic Alchemy | Defensive Roll        |\n| Harlequin Mask  | Misdirection          |",
         "DEFENSIVE ROLL": {
-          "flavor": "When an enemy attacks, you roll with the impact to reduce the harm.",
+          "description": "When an enemy attacks, you roll with the impact to reduce the harm.",
           "keywords": "—",
           "type": "Triggered",
           "distance": "Self",
@@ -1222,7 +1222,7 @@
           "spend_effect": "If the triggering damage was from an attack, you also reduce the attack’s damage by one tier."
         },
         "IN ALL THIS CONFUSION": {
-          "flavor": "You teleport away in a plume of black smoke to avoid danger.",
+          "description": "You teleport away in a plume of black smoke to avoid danger.",
           "keywords": "Magic",
           "type": "Triggered",
           "distance": "Self",
@@ -1233,7 +1233,7 @@
           "spend_effect": "You teleport 1 additional square for each insight spent."
         },
         "MISDIRECTION (1 INSIGHT)": {
-          "flavor": "You sow a moment of confusion in combat, to your enemy’s peril.",
+          "description": "You sow a moment of confusion in combat, to your enemy’s peril.",
           "keywords": "Magic",
           "type": "Triggered",
           "distance": "Self",
@@ -1243,7 +1243,7 @@
         }
       },
       "HESITATION IS WEAKNESS": {
-        "flavor": "You know how to seize the advantage in battle, working with your allies to find the perfect moment to strike. You have the following ability.",
+        "description": "You know how to seize the advantage in battle, working with your allies to find the perfect moment to strike. You have the following ability.",
         "keywords": "—",
         "type": "Free triggered action",
         "distance": "Self",
@@ -1254,7 +1254,7 @@
       "SHADOW ABILITIES": {
         "SIGNATURE ABILITY": {
           "DISTRACTING PAIN": {
-            "flavor": "Your precise strikes let your allies take advantage of a target’s agony.",
+            "description": "Your precise strikes let your allies take advantage of a target’s agony.",
             "keywords": "Attack, Melee, Ranged, Weapon",
             "type": "Action",
             "distance": "Reach 1 or Ranged 3",
@@ -1265,7 +1265,7 @@
             "tier3": "12 damage; the target falls prone"
           },
           "I WORK BETTER ALONE": {
-            "flavor": "Facing an enemy alone lets you exploit their overconfidence.",
+            "description": "Facing an enemy alone lets you exploit their overconfidence.",
             "keywords": "Attack, Melee, Ranged, Weapon",
             "type": "Action",
             "distance": "Reach 1 or Ranged 3",
@@ -1277,7 +1277,7 @@
             "effect": "If the target has no allies adjacent to them, you gain an edge on the attack."
           },
           "SHOT AND STEP": {
-            "flavor": "Being fast on your feet makes your ranged attacks especially deadly.",
+            "description": "Being fast on your feet makes your ranged attacks especially deadly.",
             "keywords": "Attack, Ranged, Weapon",
             "type": "Action",
             "distance": "Ranged 5",
@@ -1289,7 +1289,7 @@
             "effect": "You can shift 1 square before or after the attack."
           },
           "SUCKER SLICE": {
-            "flavor": "Keeping an enemy’s focus on you lets your ally hit hard.",
+            "description": "Keeping an enemy’s focus on you lets your ally hit hard.",
             "keywords": "Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Reach 1",
@@ -1304,7 +1304,7 @@
         "HEROIC ABILITIES": "A range of heroic abilities define your combat prowess, all of which make use of your insight.",
         "3-INSIGHT ABILITIES": {
           "BLADE DANCE (3 INSIGHT)": {
-            "flavor": "As you move across the battlefield, every foe within reach feels your wrath.",
+            "description": "As you move across the battlefield, every foe within reach feels your wrath.",
             "keywords": "Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Self",
@@ -1316,7 +1316,7 @@
             "effect": "You move up to your speed, and that movement doesn’t provoke opportunity attacks. You make one power roll that targets each enemy who becomes adjacent to you during the move."
           },
           "QUICK PURSUIT (3 INSIGHT)": {
-            "flavor": "A foe forced away from you might assume they’re out of danger, but they’ll soon learn otherwise.",
+            "description": "A foe forced away from you might assume they’re out of danger, but they’ll soon learn otherwise.",
             "keywords": "Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Reach 1",
@@ -1328,7 +1328,7 @@
             "effect": "You can shift into squares the target leaves behind when you force move them."
           },
           "TWO THROATS AT ONCE (3 INSIGHT)": {
-            "flavor": "Striking two foes at once is second nature to you.",
+            "description": "Striking two foes at once is second nature to you.",
             "keywords": "Attack, Melee, Ranged, Weapon",
             "type": "Action",
             "distance": "Reach 1 or Ranged 5",
@@ -1339,7 +1339,7 @@
             "tier3": "9 damage"
           },
           "WOUNDING STRIKE (3 INSIGHT)": {
-            "flavor": "You leave your foe bleeding out after a devastating attack.",
+            "description": "You leave your foe bleeding out after a devastating attack.",
             "keywords": "Attack, Melee, Ranged, Weapon",
             "type": "Action",
             "distance": "Reach 1 or Ranged 3",
@@ -1353,7 +1353,7 @@
         },
         "5-INSIGHT ABILITIES": {
           "ASSASSINATE (5 INSIGHT)": {
-            "flavor": "You seize the perfect moment and strike with fatal precision!",
+            "description": "You seize the perfect moment and strike with fatal precision!",
             "keywords": "Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Reach 1",
@@ -1364,7 +1364,7 @@
             "tier3": "2d6 + 18 damage"
           },
           "GET IN, GET OUT (5 INSIGHT)": {
-            "flavor": "Move unexpectedly, strike fast, and be gone!",
+            "description": "Move unexpectedly, strike fast, and be gone!",
             "keywords": "Attack, Melee, Weapon",
             "type": "Action",
             "distance": "Reach 1",
@@ -1376,7 +1376,7 @@
             "effect": "You can move up to your speed, and that movement doesn’t provoke opportunity attacks. You can move before or after your attack, or can split your movement before and after your attack."
           },
           "IMPAIRING SHOT (5 INSIGHT)": {
-            "flavor": "Your attack leaves a foe in the perfect position for your allies to finish them.",
+            "description": "Your attack leaves a foe in the perfect position for your allies to finish them.",
             "keywords": "Attack, Ranged, Weapon",
             "type": "Action",
             "distance": "Ranged 5",
@@ -1387,7 +1387,7 @@
             "tier3": "17 damage; attacks against the target have a double edge (EoT)"
           },
           "QUICKNESS (5 INSIGHT)": {
-            "flavor": "You put on a burst of magical speed to get the job done.",
+            "description": "You put on a burst of magical speed to get the job done.",
             "keywords": "Magic",
             "type": "Action",
             "distance": "Self",
@@ -1407,7 +1407,7 @@
       "FOCUS": "The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called focus.\n\nOutside of combat and other dangerous situations tracked in turns and rounds, you have focus equal to your Victories. If you lose some or all of this focus outside of combat, it takes you 1 minute to regain it.\n\nWhen a combat encounter begins, you keep any focus you had outside of combat. At the start of each of your turns during combat, you gain 2 focus. If an ally gets a tier 3 result on an attack against a target you have marked, you gain 1 focus. When combat ends, you once again have focus equal to your Victories.",
       "MARK": {
         "MARK": {
-          "flavor": "You draw your allies’ attention to a specific foe—with devastating effect.",
+          "description": "You draw your allies’ attention to a specific foe—with devastating effect.",
           "keywords": "Ranged",
           "type": "Maneuver",
           "distance": "Ranged 10",
@@ -1419,7 +1419,7 @@
       },
       "SEIZE THE OPENING": {
         "SEIZE THE OPENING": {
-          "flavor": "As the battle unfolds, you tell your allies exactly when to strike!",
+          "description": "As the battle unfolds, you tell your allies exactly when to strike!",
           "keywords": "Ranged",
           "type": "Action",
           "distance": "Ranged 10",
@@ -1438,7 +1438,7 @@
       "DOCTRINE TRIGGERED ACTION": {
         "TACTICIAN TRIGGERED ACTIONS": "| Doctrine   | Triggered Action |\n| ---------- | ---------------- |\n| Vanguard   | Parry            |\n| Mastermind | Overwatch        |\n| Insurgent  | Flank Them Now!  |",
         "FLANK THEM NOW!": {
-          "flavor": "You help keep your side in motion as attacks rain down on your foes.",
+          "description": "You help keep your side in motion as attacks rain down on your foes.",
           "keywords": "Ranged",
           "type": "Triggered",
           "distance": "Self or Ranged 10",
@@ -1449,7 +1449,7 @@
           "spend_effect": "The attack deals an extra 1d6 damage."
         },
         "PARRY": {
-          "flavor": "Your quick reflexes cost an enemy the precision they seek.",
+          "description": "Your quick reflexes cost an enemy the precision they seek.",
           "keywords": "Melee, Weapon",
           "type": "Triggered",
           "distance": "Self or Reach 1",
@@ -1460,7 +1460,7 @@
           "spend_effect": "The result of the attack’s power roll is treated as one tier lower before the damage is halved. If the attack is a critical hit, the attacker can still take an additional action."
         },
         "OVERWATCH": {
-          "flavor": "Under your direction, an ally waits for just the right moment to strike.",
+          "description": "Under your direction, an ally waits for just the right moment to strike.",
           "keywords": "Ranged",
           "type": "Triggered",
           "distance": "Ranged 10",
@@ -1477,7 +1477,7 @@
         "HEROIC ABILITIES": "Your heroic abilities cover a range of combat tactics, all of which require focus to use them.",
         "3-FOCUS ABILITIES": {
           "BATTLE CRY (3 FOCUS)": {
-            "flavor": "Hearing your shout of triumph fills your allies with combat fervor.",
+            "description": "Hearing your shout of triumph fills your allies with combat fervor.",
             "keywords": "Ranged",
             "type": "Maneuver",
             "distance": "Ranged 10",
@@ -1485,7 +1485,7 @@
             "effect": "Each target gains an edge on the next attack or resistance roll they make before the end of the encounter."
           },
           "DAZING BLOW (3 FOCUS)": {
-            "flavor": "Your precise strike leaves your foe struggling to respond.",
+            "description": "Your precise strike leaves your foe struggling to respond.",
             "keywords": "Attack, Melee, Ranged, Weapon",
             "type": "Action",
             "distance": "Reach or Ranged 5",
@@ -1496,7 +1496,7 @@
             "tier3": "13 damage; dazed (EoE)"
           },
           "INSPIRING STRIKE (3 FOCUS)": {
-            "flavor": "You hit a foe so hard that it gets your allies back in the fight.",
+            "description": "You hit a foe so hard that it gets your allies back in the fight.",
             "keywords": "Attack, Melee, Ranged, Weapon",
             "type": "Action",
             "distance": "Reach 1 or Ranged 5",
@@ -1507,7 +1507,7 @@
             "tier3": "13 damage; you or an ally within 10 can spend a Recovery, and each of you gains an edge on the next attack they make this encounter"
           },
           "PHALANX FORWARD! (3 FOCUS)": {
-            "flavor": "On your command, you and your allies force back the enemy line.",
+            "description": "On your command, you and your allies force back the enemy line.",
             "keywords": "Ranged, Weapon",
             "type": "Maneuver",
             "distance": "Ranged 10",
@@ -1517,7 +1517,7 @@
         },
         "5-FOCUS ABILITIES": {
           "HAMMER AND ANVIL (5 FOCUS)": {
-            "flavor": "Your attack is your allies’ signal to strike!",
+            "description": "Your attack is your allies’ signal to strike!",
             "keywords": "Attack, Melee, Ranged, Weapon",
             "type": "Action",
             "distance": "Reach 1 or Ranged 5",
@@ -1529,7 +1529,7 @@
             "effect": "If an attack is left to be resolved and the target was reduced to 0 Stamina, the attacker can pick a different target."
           },
           "NOW! (5 FOCUS)": {
-            "flavor": "Your allies wait for your command—then unleash death!",
+            "description": "Your allies wait for your command—then unleash death!",
             "keywords": "Ranged",
             "type": "Maneuver",
             "distance": "Ranged 5",
@@ -1537,7 +1537,7 @@
             "effect": "Each target can make a free strike."
           },
           "THEIR WEAKNESS IS OUR STRENGTH (5 FOCUS)": {
-            "flavor": "Leaving your foe struggling gives your allies a strategic opening.",
+            "description": "Leaving your foe struggling gives your allies a strategic opening.",
             "keywords": "Attack, Melee, Ranged, Weapon",
             "type": "Action",
             "distance": "Reach 1 or Ranged 5",
@@ -1549,7 +1549,7 @@
             "effect": "The target is marked (EoE). Each of your allies can spend a Recovery the first time they attack any target you’ve marked before the start of your next turn."
           },
           "THIS IS WHAT WE PLANNED FOR (5 FOCUS)": {
-            "flavor": "A quick signal from you gives your allies a chance to turn the tide of battle.",
+            "description": "A quick signal from you gives your allies a chance to turn the tide of battle.",
             "keywords": "Ranged",
             "type": "Maneuver",
             "distance": "Ranged 10",
@@ -1618,7 +1618,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "flavor": "**Fade**\nA stab, and a few quick, careful steps back.\n**Keywords:** Attack, Melee, Ranged, Weapon\n**Type:** Action\n**Distance:** Reach 1 or range 10\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Fade**\nA stab, and a few quick, careful steps back.\n**Keywords:** Attack, Melee, Ranged, Weapon\n**Type:** Action\n**Distance:** Reach 1 or range 10\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
           "keywords": "Attack, Melee, Ranged, Weapon",
           "type": "Action",
           "distance": "Reach 1 or range 10",
@@ -1638,7 +1638,7 @@
           "Reach Bonus: +1"
         ],
         "SIGNATURE ABILITY": {
-          "flavor": "**Forward Thrust, Backward Smash**\nIn your hands, the haft is as good as the head.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 2\n**Target:** 2 creatures or objects\n**Power Roll + Might or Agility:**",
+          "description": "**Forward Thrust, Backward Smash**\nIn your hands, the haft is as good as the head.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 2\n**Target:** 2 creatures or objects\n**Power Roll + Might or Agility:**",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 2",
@@ -1658,7 +1658,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "flavor": "**Battle Grace**\nYou feint to move your enemies into perfect position.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Battle Grace**\nYou feint to move your enemies into perfect position.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 1",
@@ -1678,7 +1678,7 @@
           "Melee Weapon Damage Bonus: +0/+0/+4"
         ],
         "SIGNATURE ABILITY": {
-          "flavor": "**Pain for Pain**\nAn enemy who tagged you will pay for that.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Pain for Pain**\nAn enemy who tagged you will pay for that.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 1",
@@ -1699,7 +1699,7 @@
           "Melee Weapon Damage Bonus: +0/+0/+4"
         ],
         "SIGNATURE ABILITY": {
-          "flavor": "**Devastating Rush**\nThe faster you move, the harder you hit.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature or object\n**Power Roll + Might or Agility:**",
+          "description": "**Devastating Rush**\nThe faster you move, the harder you hit.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature or object\n**Power Roll + Might or Agility:**",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 1",
@@ -1720,7 +1720,7 @@
           "Melee Weapon Damage Bonus: +1/+1/+1"
         ],
         "SIGNATURE ABILITY": {
-          "flavor": "**Let's Dance**\nKeeping your enemies stumbling around the battlefield is second nature to you.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Let's Dance**\nKeeping your enemies stumbling around the battlefield is second nature to you.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 1",
@@ -1742,7 +1742,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "flavor": "**Shield Bash**\nIn your hands, a shield isn’t just for protection.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Shield Bash**\nIn your hands, a shield isn’t just for protection.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 1",
@@ -1764,7 +1764,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "flavor": "**Hamstring Shot**\nA well-placed shot leaves your enemy struggling to move.\n**Keywords:** Attack, Ranged, Weapon\n**Type:** Action\n**Distance:** Ranged 10\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Hamstring Shot**\nA well-placed shot leaves your enemy struggling to move.\n**Keywords:** Attack, Ranged, Weapon\n**Type:** Action\n**Distance:** Ranged 10\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
           "keywords": "Attack, Ranged, Weapon",
           "type": "Action",
           "distance": "Ranged 10",
@@ -1785,7 +1785,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "flavor": "**Two Shot**\nWhen you fire two arrows back to back, both hit their mark.\n**Keywords:** Attack, Ranged, Weapon\n**Type:** Action\n**Distance:** Ranged 12\n**Target:** 2 creatures or objects\n**Power Roll + Might or Agility:**",
+          "description": "**Two Shot**\nWhen you fire two arrows back to back, both hit their mark.\n**Keywords:** Attack, Ranged, Weapon\n**Type:** Action\n**Distance:** Ranged 12\n**Target:** 2 creatures or objects\n**Power Roll + Might or Agility:**",
           "keywords": "Attack, Ranged, Weapon",
           "type": "Action",
           "distance": "Ranged 12",
@@ -1806,7 +1806,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "flavor": "**Net and Stab**\nThe well-thrown net that follows your main attack leaves your foes right where you want them.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 2\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Net and Stab**\nThe well-thrown net that follows your main attack leaves your foes right where you want them.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 2\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 2",
@@ -1825,7 +1825,7 @@
           "Melee Weapon Damage Bonus: +2/+2/+2"
         ],
         "SIGNATURE ABILITY": {
-          "flavor": "**Protective Attack**\nThe strength of your assault makes it impossible for your foe to ignore you.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Protective Attack**\nThe strength of your assault makes it impossible for your foe to ignore you.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 1",
@@ -1845,7 +1845,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "flavor": "**Patient Shot**\nBreathe… aim… wait… then strike!\n**Keywords:** Attack, Ranged, Weapon\n**Type:** Action\n**Distance:** Ranged 15\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Patient Shot**\nBreathe… aim… wait… then strike!\n**Keywords:** Attack, Ranged, Weapon\n**Type:** Action\n**Distance:** Ranged 15\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
           "keywords": "Attack, Ranged, Weapon",
           "type": "Action",
           "distance": "Ranged 15",
@@ -1867,7 +1867,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "flavor": "**Where I Want You**\nWhen your stick speaks, your enemy moves.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 2\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Where I Want You**\nWhen your stick speaks, your enemy moves.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 2\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 2",
@@ -1887,7 +1887,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "flavor": "**Fancy Footwork**\nAll combat is a dance—and you’ll be the one leading.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Fancy Footwork**\nAll combat is a dance—and you’ll be the one leading.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 1",
@@ -1908,7 +1908,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "flavor": "**Extension of My Arm**\nWhen you draw your whip back after an attack, your enemy comes ever closer.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 3\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Extension of My Arm**\nWhen you draw your whip back after an attack, your enemy comes ever closer.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 3\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 3",
@@ -1930,7 +1930,7 @@
           "Magic Distance Bonus: +5"
         ],
         "SIGNATURE ABILITY: DRAIN": {
-          "flavor": "You drain the energy from your target and revitalize your senses.",
+          "description": "You drain the energy from your target and revitalize your senses.",
           "keywords": "Attack, Magic, Melee",
           "type": "Action",
           "distance": "Reach",
@@ -1948,7 +1948,7 @@
           "Magic Damage Bonus: +0/+1/+2"
         ],
         "SIGNATURE ABILITY: TARANTELLA VOLLEY": {
-          "flavor": "Visible energy sparks off you to wash across a nearby foe, who you invite to dance with you.",
+          "description": "Visible energy sparks off you to wash across a nearby foe, who you invite to dance with you.",
           "keywords": "Attack, Magic, Melee",
           "type": "Action",
           "distance": "Reach 2",
@@ -1968,7 +1968,7 @@
           "Magic Area Bonus: +1"
         ],
         "SIGNATURE ABILITY: FROZEN EXPLOSION": {
-          "flavor": "You unleash a blast of frigid air to freeze and hinder your foes.",
+          "description": "You unleash a blast of frigid air to freeze and hinder your foes.",
           "keywords": "Area, Magic, Ranged",
           "type": "Action",
           "distance": "3 cube within 12",
@@ -1986,7 +1986,7 @@
           "Speed Bonus: +1"
         ],
         "SIGNATURE ABILITY: BOUNTIFUL DECAY": {
-          "flavor": "Your curse causes a foe’s flesh to rot off as spores that aid your allies.",
+          "description": "Your curse causes a foe’s flesh to rot off as spores that aid your allies.",
           "keywords": "Attack, Magic, Ranged",
           "type": "Action",
           "distance": "Ranged 5",
@@ -2004,7 +2004,7 @@
           "Magic Distance Bonus: +10"
         ],
         "SIGNATURE ABILITY: SPIKE!": {
-          "flavor": "You lob your implement at high speed toward your opponent, unleashing a chaotic flare of magic.",
+          "description": "You lob your implement at high speed toward your opponent, unleashing a chaotic flare of magic.",
           "keywords": "Attack, Magic, Ranged",
           "type": "Action",
           "distance": "Ranged 15",
@@ -2023,7 +2023,7 @@
           "Magic Distance Bonus: +7"
         ],
         "SIGNATURE ABILITY: LIGHTNING SPARK": {
-          "flavor": "You call forth a small bolt of lightning, then hurl it at your foe.",
+          "description": "You call forth a small bolt of lightning, then hurl it at your foe.",
           "keywords": "Attack, Magic, Ranged",
           "type": "Action",
           "distance": "Ranged 12",
@@ -2040,7 +2040,7 @@
           "Stamina Bonus: +12"
         ],
         "SIGNATURE ABILITY: BLESSED LIGHT": {
-          "flavor": "Burning radiance falls upon your foe, outlining them with a holy glow.",
+          "description": "Burning radiance falls upon your foe, outlining them with a holy glow.",
           "keywords": "Attack, Magic, Ranged",
           "type": "Action",
           "distance": "Ranged 5",
@@ -2059,7 +2059,7 @@
           "Magic Distance Bonus: +5"
         ],
         "SIGNATURE ABILITY: SPLIT BEAM": {
-          "flavor": "Two beams of supernatural force lance out at your command.",
+          "description": "Two beams of supernatural force lance out at your command.",
           "keywords": "Attack, Magic, Ranged",
           "type": "Action",
           "distance": "Ranged 10",
@@ -2078,7 +2078,7 @@
           "Magic Distance: +5"
         ],
         "SIGNATURE ABILITY: ENERGY SIPHON": {
-          "flavor": "Absorbing psychic energy from another creature lets you shield yourself within it.",
+          "description": "Absorbing psychic energy from another creature lets you shield yourself within it.",
           "keywords": "Attack, Magic, Ranged",
           "type": "Action",
           "distance": "Ranged 10",

@@ -7,12 +7,11 @@ cost: "3 INSIGHT"
 
 # Blade Dance (3 Insight)
 
-As you move across the battlefield, every foe within reach feels your wrath.
+*As you move across the battlefield, every foe within reach feels your wrath.*
 
-- **Keywords:** Attack, Melee, Weapon
-- **Type:** Action
-- **Distance:** Self
-- **Target:** Self
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Self | **Target:** Self |
 
 **Power Roll + Agility**
 

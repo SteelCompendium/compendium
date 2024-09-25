@@ -7,12 +7,11 @@ cost: ""
 
 # Shot and Step
 
-Being fast on your feet makes your ranged attacks especially deadly.
+*Being fast on your feet makes your ranged attacks especially deadly.*
 
-- **Keywords:** Attack, Ranged, Weapon
-- **Type:** Action
-- **Distance:** Ranged 5
-- **Target:** 1 creature or object
+| **Keywords:** Attack, Ranged, Weapon | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Ranged 5 | **Target:** 1 creature or object |
 
 **Power Roll + Agility**
 

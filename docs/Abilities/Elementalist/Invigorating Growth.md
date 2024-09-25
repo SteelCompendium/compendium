@@ -7,12 +7,11 @@ cost: "3 ESSENCE"
 
 # Invigorating Growth (3 Essence)
 
-Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.
+*Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
 
-- **Keywords:** Attack, Green, Magic, Ranged
-- **Type:** Action
-- **Distance:** Ranged 5
-- **Target:** 1 creature
+| **Keywords:** Attack, Green, Magic, Ranged | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Ranged 5 | **Target:** 1 creature |
 
 **Power Roll + Reason**
 

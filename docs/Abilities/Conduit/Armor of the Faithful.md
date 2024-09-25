@@ -7,12 +7,11 @@ cost: "5 PIETY"
 
 # Armor of the Faithful (5 Piety)
 
-The divine light of protection surrounds your allies.
+*The divine light of protection surrounds your allies.*
 
-- **Keywords:** Magic, Ranged
-- **Type:** Maneuver
-- **Distance:** Ranged 5
-- **Target:** 3 allies
+| **Keywords:** Magic, Ranged | **Type:** Maneuver |
+| :-- | :-- |
+| **Distance:** Ranged 5 | **Target:** 3 allies |
 
 **Power Roll + Intuition**
 

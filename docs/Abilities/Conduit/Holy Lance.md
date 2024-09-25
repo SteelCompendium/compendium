@@ -7,12 +7,11 @@ cost: ""
 
 # Holy Lance
 
-A tendril of divine energy shoots forth to draw in your foe.
+*A tendril of divine energy shoots forth to draw in your foe.*
 
-- **Keywords:** Attack, Magic, Ranged
-- **Type:** Action
-- **Distance:** Ranged 5
-- **Target:** 1 creature or object
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Ranged 5 | **Target:** 1 creature or object |
 
 **Power Roll + Intuition**
 

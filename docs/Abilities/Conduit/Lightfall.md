@@ -7,12 +7,11 @@ cost: ""
 
 # Lightfall
 
-Holy light scours your foes and sets your allies into perfect attack position.
+*Holy light scours your foes and sets your allies into perfect attack position.*
 
-- **Keywords:** Area, Magic, Ranged
-- **Type:** Action
-- **Distance:** Cube 3 within 5
-- **Target:** All enemies
+| **Keywords:** Area, Magic, Ranged | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Cube 3 within 5 | **Target:** All enemies |
 
 **Power Roll + Intuition**
 

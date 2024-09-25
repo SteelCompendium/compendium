@@ -7,12 +7,11 @@ cost: ""
 
 # Hit and Run
 
-Keeping in constant motion helps you slip out of reach after a brutal assault.
+*Keeping in constant motion helps you slip out of reach after a brutal assault.*
 
-- **Keywords:** Attack, Melee, Weapon
-- **Type:** Action
-- **Distance:** Reach 1
-- **Target:** 1 creature or object
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Reach 1 | **Target:** 1 creature or object |
 
 **Power Roll + Might**
 

@@ -7,12 +7,11 @@ cost: "5 ESSENCE"
 
 # Conflagration (5 Essence)
 
-A storm of fire descends upon your enemies.
+*A storm of fire descends upon your enemies.*
 
-- **Keywords:** Area, Fire, Magic, Persistent, Ranged
-- **Type:** Action
-- **Distance:** 4 cube within 5
-- **Target:** All enemies
+| **Keywords:** Area, Fire, Magic, Persistent, Ranged | **Type:** Action |
+| :-- | :-- |
+| **Distance:** 4 cube within 5 | **Target:** All enemies |
 
 **Power Roll + Reason**
 

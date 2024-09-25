@@ -7,12 +7,11 @@ cost: "5 FOCUS"
 
 # Hammer and Anvil (5 Focus)
 
-Your attack is your allies’ signal to strike!
+*Your attack is your allies’ signal to strike!*
 
-- **Keywords:** Attack, Melee, Ranged, Weapon
-- **Type:** Action
-- **Distance:** Reach 1 or Ranged 5
-- **Target:** 1 creature or object
+| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Reach 1 or Ranged 5 | **Target:** 1 creature or object |
 
 **Power Roll + Might**
 

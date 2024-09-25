@@ -7,12 +7,11 @@ cost: "5 RAGE"
 
 # Blood for Blood! (5 Rage)
 
-A mighty strike leaves your foe reeling.
+*A mighty strike leaves your foe reeling.*
 
-- **Keywords:** Attack, Melee, Weapon
-- **Type:** Action
-- **Distance:** Reach 1
-- **Target:** 1 creature or object
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Reach 1 | **Target:** 1 creature or object |
 
 **Power Roll + Might**
 

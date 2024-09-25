@@ -7,12 +7,11 @@ cost: "3 INSIGHT"
 
 # Wounding Strike (3 Insight)
 
-You leave your foe bleeding out after a devastating attack.
+*You leave your foe bleeding out after a devastating attack.*
 
-- **Keywords:** Attack, Melee, Ranged, Weapon
-- **Type:** Action
-- **Distance:** Reach 1 or Ranged 3
-- **Target:** 1 creature
+| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Reach 1 or Ranged 3 | **Target:** 1 creature |
 
 **Power Roll + Agility**
 

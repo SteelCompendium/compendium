@@ -7,12 +7,11 @@ cost: "3 ESSENCE"
 
 # Burn! (3 Essence)
 
-Fire engulfs a target of your choice and burns at your command.
+*Fire engulfs a target of your choice and burns at your command.*
 
-- **Keywords:** Attack, Fire, Magic, Persistent, Ranged
-- **Type:** Action
-- **Distance:** Ranged 5
-- **Target:** 1 creature or object
+| **Keywords:** Attack, Fire, Magic, Persistent, Ranged | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Ranged 5 | **Target:** 1 creature or object |
 
 **Power Roll + Reason**
 

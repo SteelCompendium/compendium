@@ -7,12 +7,11 @@ cost: "3 ESSENCE"
 
 # Punch the Earth (3 Essence)
 
-You slam the ground, which buckles out from you in every direction.
+*You slam the ground, which buckles out from you in every direction.*
 
-- **Keywords:** Area, Earth, Magic
-- **Type:** Action
-- **Distance:** 3 burst
-- **Target:** All enemies
+| **Keywords:** Area, Earth, Magic | **Type:** Action |
+| :-- | :-- |
+| **Distance:** 3 burst | **Target:** All enemies |
 
 **Power Roll + Reason**
 

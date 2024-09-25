@@ -7,12 +7,11 @@ cost: "3 FOCUS"
 
 # Dazing Blow (3 Focus)
 
-Your precise strike leaves your foe struggling to respond.
+*Your precise strike leaves your foe struggling to respond.*
 
-- **Keywords:** Attack, Melee, Ranged, Weapon
-- **Type:** Action
-- **Distance:** Reach or Ranged 5
-- **Target:** 1 creature or object
+| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Reach or Ranged 5 | **Target:** 1 creature or object |
 
 **Power Roll + Might**
 

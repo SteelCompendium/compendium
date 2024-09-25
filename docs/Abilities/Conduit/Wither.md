@@ -7,12 +7,11 @@ cost: ""
 
 # Wither
 
-A bolt of holy energy saps the life from a foe.
+*A bolt of holy energy saps the life from a foe.*
 
-- **Keywords:** Attack, Magic, Ranged
-- **Type:** Action
-- **Distance:** Ranged 5
-- **Target:** 1 creature or object
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Ranged 5 | **Target:** 1 creature or object |
 
 **Power Roll + Intuition**
 

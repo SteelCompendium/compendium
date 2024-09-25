@@ -7,12 +7,11 @@ cost: ""
 
 # Brutal Slam
 
-The heavy impact of your weapon attacks drives your foes ever backward.
+*The heavy impact of your weapon attacks drives your foes ever backward.*
 
-- **Keywords:** Attack, Melee, Weapon
-- **Type:** Action
-- **Distance:** Reach 1
-- **Target:** 1 creature or object
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Reach 1 | **Target:** 1 creature or object |
 
 **Power Roll + Might**
 

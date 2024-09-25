@@ -7,12 +7,11 @@ cost: "3 PIETY"
 
 # Thunder of the Divine (3 Piety)
 
-A resounding clap of thunder disrupts your foes.
+*A resounding clap of thunder disrupts your foes.*
 
-- **Keywords:** Area, Magic, Ranged
-- **Type:** Action
-- **Distance:** 4 cube within 5
-- **Target:** All enemies
+| **Keywords:** Area, Magic, Ranged | **Type:** Action |
+| :-- | :-- |
+| **Distance:** 4 cube within 5 | **Target:** All enemies |
 
 **Power Roll + Intuition**
 

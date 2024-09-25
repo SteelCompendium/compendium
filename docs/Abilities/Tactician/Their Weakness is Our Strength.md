@@ -7,12 +7,11 @@ cost: "5 FOCUS"
 
 # Their Weakness is Our Strength (5 Focus)
 
-Leaving your foe struggling gives your allies a strategic opening.
+*Leaving your foe struggling gives your allies a strategic opening.*
 
-- **Keywords:** Attack, Melee, Ranged, Weapon
-- **Type:** Action
-- **Distance:** Reach 1 or Ranged 5
-- **Target:** 1 creature or object
+| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Reach 1 or Ranged 5 | **Target:** 1 creature or object |
 
 **Power Roll + Might**
 

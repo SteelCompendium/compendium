@@ -7,12 +7,11 @@ cost: ""
 
 # Fire Lance
 
-A jet of fire erupts with elemental fury where it strikes.
+*A jet of fire erupts with elemental fury where it strikes.*
 
-- **Keywords:** Attack, Fire, Magic, Ranged
-- **Type:** Action
-- **Distance:** Ranged 5
-- **Target:** 1 creature or object
+| **Keywords:** Attack, Fire, Magic, Ranged | **Type:** Action |
+| :-- | :-- |
+| **Distance:** Ranged 5 | **Target:** 1 creature or object |
 
 **Power Roll + Reason**
 
