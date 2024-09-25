@@ -2,6 +2,7 @@ site_name: Xentis' Draw Steel Compendium
 
 theme:
     name: 'material'
+    font: 'Source Serif 4'
     palette:
       scheme: slate
       primary: black
