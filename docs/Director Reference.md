@@ -161,7 +161,7 @@ name: Medium Test
 t1: Failure + consequence
 t2: Success + consequence
 t3: Success 
-Nat 19-20: Success + reward
+crit: Success + reward
 ```
 
 *Also see: [[Draw Steel Rules#MEDIUM TESTS|Draw Steel Rules: Medium Tests]]*
@@ -173,7 +173,7 @@ name: Medium Test
 t1: Failure + consequence
 t2: Failure
 t3: Success 
-Nat 19-20: Success + reward
+crit: Success + reward
 ```
 
 *Also see: [[Draw Steel Rules#HARD TESTS|Draw Steel Rules: Hard Tests]]*
@@ -442,12 +442,13 @@ Also see:
 
 #### Melee Free Strike
 
-```ds-pr
+```ds-power-roll
 name: Melee Weapon Free Strike
 keywords: Attack, Melee, Weapon
 type: Action
 distance: Reach
 target: 1 creature or object
+roll: Power Roll + Might or Agility
 t1: 2 damage
 t2: 6 damage
 t3: 9 damage
@@ -465,12 +466,13 @@ t3: 9 damage
 
 #### Ranged Free Strike
 
-```ds-pr
+```ds-power-roll
 name: Ranged Weapon Free Strike
 keywords: Attack, Ranged, Weapon
 type: Action
 distance: Ranged 5
 target: 1 creature or object
+roll: Power Roll + Might or Agility
 t1: 2 damage
 t2: 5 damage
 t3: 8 damage
@@ -564,9 +566,13 @@ notes: "[[#Bane]] if grabber is larger size"
 
 ```ds-pr
 name: Grab a creature
+keywords: Melee
+type: Maneuver
+distance: Reach 1
+target: 1 creature the same size or smaller than you
 roll: Power Roll + Might
-t1: Fail to grab
-t2: "Choose to grab, but target gets [[#Free Strike]] OR don't grab"
+t1: No effect
+t2: Choose: Grab, but target gets [[#Free Strike]] OR don't grab
 t3: Grab the creature
 note: "[[#Edge]] if target is smaller"
 ```
@@ -598,13 +604,18 @@ note: "[[#Edge]] if target is smaller"
 
 - Cost: [[#Maneuver]]
 - Target must be same size or smaller and adjacent
+- Cannot be used when you are [[#Grabbed]]
 
-```ds-pr
-name: "Knockback a creature: Might Test"
+```ds-power-roll
+name: Knockback
+keywords: Melee
+type: Maneuver
+distance: Reach 1
+target: 1 creature the same size or smaller than you
+roll: Power Roll + Might
 t1: Push 1
 t2: Push 2
 t3: Push 3
-note: "[[#Edge]] if target is smaller"
 ```
 
 *Also see: [[Draw Steel Rules#KNOCKBACK|Draw Steel Rules: Knockback]]*
@@ -631,12 +642,19 @@ note: "[[#Edge]] if target is smaller"
 - Must be within 10 squares
 - Must have [[#Line of Effect]]
 
-```ds-pr
-name: Search for [[#Hidden]] creature
+```ds-power-roll
+name: Searching for Hidden Creatures
+keywords: "-"
+type: Maneuver
+distance: Burst 10
+target: All creatures
 roll: Power Roll + Intuition
-t1: Find Hidden **creatures** with Agility 0 or lower without Hide Skill
-t2: Find Hidden creature without the Hide Skill
-t3: Find all Hidden creatures
+t1: You find any hidden creatures with an Agility of 0 or lower and who don't have the Hide skill
+t2: You find any hidden creatures who don't have the Hide skill
+t3: You find all hidden creatures
+notes:
+  - You must have LoE to a creature in order to find them
+  - As part of this Maneuver, you can reveal any creatures you find to allies within 10 sqaures of you
 ```
 
 *Also see:* 
@@ -924,6 +942,7 @@ Pseudo-Conditions
 
 - Speed is 0
 - Can't be [[#Forced Movement|force moved]]
+- Can't use [[#Knockback]] maneuver
 - Your [[#Attack|Attacks]] take a [[#Bane]] when they don't target the Grabber
 - If you [[#Teleport]] or the Grabber is [[#Forced Movement|force moved]] to a non-adjacent square, you are no longer Grabbed
 - Also see [[#Grab]] and [[#Escape Grab]]
@@ -959,7 +978,7 @@ Pseudo-Conditions
 
 ### Slowed
 
-- Speed is reduced to `2`
+- Speed is reduced to `2` unless already lower
 
 *Also see: [[Draw Steel Rules#SLOWED|Draw Steel Rules: Slowed]]*
 
@@ -1030,8 +1049,12 @@ Also see:
 ## Effects
 
 - End when the encounter is over, unless otherwise specified
+- Effect typically applies after damage to all targets
+- Effects always apply unless otherwise specified
 
-*Also see: [[Draw Steel Rules#EFFECT|Draw Steel Rules: Effect]]*
+*Also see:*
+- *[[Draw Steel Rules#EFFECT|Draw Steel Rules: Effect]]*
+- *[[Draw Steel Rules#ABILITIES WITH DAMAGE AND EFFECTS|Draw Steel Rules: Abilities with Damage and Effects]]*
 
 ## EoT
 
@@ -1139,10 +1162,10 @@ t3: The effect ends immediately
 ## Dying
 
 - Considered Dying if Stamina is less than 0
-- Can't take the [[#Catch Breath]] Action in combat
-- Lose `dice: 1d6` Stamina whenever you
+- Can't take the [[#Catch Breath]] Action in combat (can outside combat)
+- Lose `dice: 1d6` Stamina after you
 	- Make Might or Agility [[#Tests|Test]]
-	- Use an [[#Action]] or [[#Triggered Action]]
+	- Use an [[#Action]], [[#Maneuver]] or [[#Triggered Action]]
 - Stamina loss cannot be prevented
 - You [[#Death|Die]] if Stamina reaches negative your [[#Winded]] value
 
@@ -1205,7 +1228,7 @@ t3: The effect ends immediately
 	- No Action required
 - Regain [[#Recovery Value]] Stamina (1/3 Max)
 
-*Also see: *
+*Also see:*
 - *[[Draw Steel Rules#HERO TOKENS|Draw Steel Rules: Hero Tokens]]*
 - *[[Draw Steel Rules#FOR THE DIRECTOR AWARDING HERO TOKENS|Draw Steel Rules: For the Director: Awarding Hero Tokens]]*
 
