@@ -13,8 +13,6 @@ theme:
       accent: blue
    logo: Media/favicon.ico
    favicon: Media/favicon.ico
-   features:
-      - navigation.instant.preview
 
 # Extensions
 markdown_extensions:
