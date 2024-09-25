@@ -17,6 +17,7 @@ update push="true":
 		cp -R Kits "${compendium_dir}/docs"
 		cp -R Careers "${compendium_dir}/docs"
 		cp -R Cultures "${compendium_dir}/docs"
+		cp -R Skills "${compendium_dir}/docs"
 		cp -R Media "${compendium_dir}/docs"
 		
 		rm "${compendium_dir}/docs/README.md" || true
