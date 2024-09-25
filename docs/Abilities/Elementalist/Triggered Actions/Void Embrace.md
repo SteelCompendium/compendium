@@ -4,6 +4,7 @@ name: Void Embrace
 type: abilities
 subtype: elementalist
 keywords: Magic, Ranged, Void
+keyword_list: [Magic, Ranged, Void]
 ability_type: Triggered
 distance: Self or Ranged 5
 target: Self or 1 ally

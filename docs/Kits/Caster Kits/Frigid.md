@@ -4,6 +4,7 @@ name: Frigid
 type: kits
 subtype: caster kits
 keywords: Area, Magic, Ranged
+keyword_list: [Area, Magic, Ranged]
 ability_type: Action
 distance: 3 cube within 12
 target: All enemies

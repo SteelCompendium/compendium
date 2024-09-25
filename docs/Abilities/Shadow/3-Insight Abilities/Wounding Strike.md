@@ -5,6 +5,7 @@ type: abilities
 cost: 3 Insight
 subtype: shadow
 keywords: Attack, Melee, Ranged, Weapon
+keyword_list: [Attack, Melee, Ranged, Weapon]
 ability_type: Action
 distance: Reach 1 or Ranged 3
 target: 1 creature

@@ -5,6 +5,7 @@ type: abilities
 cost: 5 Piety
 subtype: conduit
 keywords: Magic, Ranged
+keyword_list: [Magic, Ranged]
 ability_type: Maneuver
 distance: Ranged 5
 target: 3 allies

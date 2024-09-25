@@ -3,6 +3,7 @@ title: Mage's Apprentice
 name: Mage's Apprentice
 type: careers
 keywords: Magic
+keyword_list: [Magic]
 ability_type: Action
 distance: Self
 target: Self

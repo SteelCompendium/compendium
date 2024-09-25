@@ -5,6 +5,7 @@ type: abilities
 cost: 5 Rage
 subtype: fury
 keywords: Area, Melee, Weapon
+keyword_list: [Area, Melee, Weapon]
 ability_type: Action
 distance: 5 × 1 line within 1
 target: All enemies

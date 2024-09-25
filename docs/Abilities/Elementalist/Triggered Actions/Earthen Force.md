@@ -4,6 +4,7 @@ name: Earthen Force
 type: abilities
 subtype: elementalist
 keywords: Earth, Magic, Ranged
+keyword_list: [Earth, Magic, Ranged]
 ability_type: Triggered
 distance: Ranged 5
 target: Self or 1 ally

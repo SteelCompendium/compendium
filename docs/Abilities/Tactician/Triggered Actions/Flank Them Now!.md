@@ -4,6 +4,7 @@ name: Flank Them Now!
 type: abilities
 subtype: tactician
 keywords: Ranged
+keyword_list: [Ranged]
 ability_type: Triggered
 distance: Self or Ranged 10
 target: You or an ally

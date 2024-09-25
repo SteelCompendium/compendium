@@ -5,6 +5,7 @@ type: abilities
 cost: 3 Insight
 subtype: shadow
 keywords: Attack, Melee, Weapon
+keyword_list: [Attack, Melee, Weapon]
 ability_type: Action
 distance: Self
 target: Self

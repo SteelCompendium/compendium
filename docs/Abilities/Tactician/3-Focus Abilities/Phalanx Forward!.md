@@ -5,6 +5,7 @@ type: abilities
 cost: 3 Focus
 subtype: tactician
 keywords: Ranged, Weapon
+keyword_list: [Ranged, Weapon]
 ability_type: Maneuver
 distance: Ranged 10
 target: Self and all allies

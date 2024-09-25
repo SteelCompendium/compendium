@@ -4,6 +4,7 @@ name: Holy Infusion
 type: abilities
 subtype: conduit
 keywords: Magic, Ranged
+keyword_list: [Magic, Ranged]
 ability_type: Triggered
 distance: Ranged 5
 target: 1 ally

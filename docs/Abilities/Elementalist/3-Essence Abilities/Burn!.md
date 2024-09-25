@@ -5,6 +5,7 @@ type: abilities
 cost: 3 Essence
 subtype: elementalist
 keywords: Attack, Fire, Magic, Persistent, Ranged
+keyword_list: [Attack, Fire, Magic, Persistent, Ranged]
 ability_type: Action
 distance: Ranged 5
 target: 1 creature or object

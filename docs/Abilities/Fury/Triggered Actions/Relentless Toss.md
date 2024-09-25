@@ -4,6 +4,7 @@ name: Relentless Toss
 type: abilities
 subtype: fury
 keywords: Magic, Melee
+keyword_list: [Magic, Melee]
 ability_type: Triggered
 distance: Self or reach
 target: Self or 1 creature

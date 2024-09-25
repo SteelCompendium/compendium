@@ -4,6 +4,7 @@ name: In All This Confusion
 type: abilities
 subtype: shadow
 keywords: Magic
+keyword_list: [Magic]
 ability_type: Triggered
 distance: Self
 target: Self

@@ -4,6 +4,7 @@ name: Holy Lance
 type: abilities
 subtype: conduit
 keywords: Attack, Magic, Ranged
+keyword_list: [Attack, Magic, Ranged]
 ability_type: Action
 distance: Ranged 5
 target: 1 creature or object

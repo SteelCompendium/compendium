@@ -5,6 +5,7 @@ type: abilities
 cost: 5 Insight
 subtype: shadow
 keywords: Magic
+keyword_list: [Magic]
 ability_type: Action
 distance: Self
 target: Self

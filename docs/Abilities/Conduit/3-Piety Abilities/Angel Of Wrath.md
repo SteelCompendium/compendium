@@ -5,6 +5,7 @@ type: abilities
 cost: 3 Piety
 subtype: conduit
 keywords: Magic, Ranged
+keyword_list: [Magic, Ranged]
 ability_type: Action
 distance: Ranged 5
 target: Special

@@ -4,6 +4,7 @@ name: Missile
 type: kits
 subtype: caster kits
 keywords: Attack, Magic, Ranged
+keyword_list: [Attack, Magic, Ranged]
 ability_type: Action
 distance: Ranged 15
 target: 1 creature or object

@@ -4,6 +4,7 @@ name: Ward Weaver
 type: kits
 subtype: caster kits
 keywords: Attack, Magic, Ranged
+keyword_list: [Attack, Magic, Ranged]
 ability_type: Action
 distance: Ranged 10
 target: 1 creature

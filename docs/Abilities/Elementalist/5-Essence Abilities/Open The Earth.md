@@ -5,6 +5,7 @@ type: abilities
 cost: 5 Essence
 subtype: elementalist
 keywords: Magic, Earth, Persistent, Ranged
+keyword_list: [Magic, Earth, Persistent, Ranged]
 ability_type: Maneuver
 distance: Ranged 5
 target: Special

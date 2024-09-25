@@ -5,6 +5,7 @@ type: abilities
 cost: 3 Essence
 subtype: elementalist
 keywords: Area, Earth, Magic
+keyword_list: [Area, Earth, Magic]
 ability_type: Action
 distance: 3 burst
 target: All enemies

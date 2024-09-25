@@ -4,6 +4,7 @@ name: Explosive Assistance
 type: abilities
 subtype: elementalist
 keywords: Fire, Magic, Ranged
+keyword_list: [Fire, Magic, Ranged]
 ability_type: Triggered
 distance: Ranged 5
 target: Self or 1 ally

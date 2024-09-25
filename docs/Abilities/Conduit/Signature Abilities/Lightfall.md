@@ -4,6 +4,7 @@ name: Lightfall
 type: abilities
 subtype: conduit
 keywords: Area, Magic, Ranged
+keyword_list: [Area, Magic, Ranged]
 ability_type: Action
 distance: Cube 3 within 5
 target: All enemies

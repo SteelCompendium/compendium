@@ -4,6 +4,7 @@ name: Fire Lance
 type: abilities
 subtype: elementalist
 keywords: Attack, Fire, Magic, Ranged
+keyword_list: [Attack, Fire, Magic, Ranged]
 ability_type: Action
 distance: Ranged 5
 target: 1 creature or object

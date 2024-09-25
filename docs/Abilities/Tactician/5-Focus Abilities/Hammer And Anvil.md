@@ -5,6 +5,7 @@ type: abilities
 cost: 5 Focus
 subtype: tactician
 keywords: Attack, Melee, Ranged, Weapon
+keyword_list: [Attack, Melee, Ranged, Weapon]
 ability_type: Action
 distance: Reach 1 or Ranged 5
 target: 1 creature or object

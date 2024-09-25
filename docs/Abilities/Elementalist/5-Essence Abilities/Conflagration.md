@@ -5,6 +5,7 @@ type: abilities
 cost: 5 Essence
 subtype: elementalist
 keywords: Area, Fire, Magic, Persistent, Ranged
+keyword_list: [Area, Fire, Magic, Persistent, Ranged]
 ability_type: Action
 distance: 4 cube within 5
 target: All enemies

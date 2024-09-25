@@ -5,6 +5,7 @@ type: abilities
 cost: 3 Piety
 subtype: conduit
 keywords: Area, Magic, Ranged
+keyword_list: [Area, Magic, Ranged]
 ability_type: Action
 distance: 4 cube within 5
 target: All enemies

@@ -5,6 +5,7 @@ type: abilities
 cost: 5 Piety
 subtype: conduit
 keywords: Area, Magic
+keyword_list: [Area, Magic]
 ability_type: Action
 distance: 5 burst
 target: All allies

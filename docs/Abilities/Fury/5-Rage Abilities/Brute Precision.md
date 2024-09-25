@@ -5,6 +5,7 @@ type: abilities
 cost: 5 Rage
 subtype: fury
 keywords: —
+keyword_list: [—]
 ability_type: Free maneuver
 distance: Self
 target: Self
