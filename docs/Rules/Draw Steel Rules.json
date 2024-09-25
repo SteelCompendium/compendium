@@ -300,7 +300,7 @@
       },
       "PIETY": {
         "PRAYER": {
-          "description": "*I beseech you!*\n**Keywords**: Magic\n**Type**: Maneuver\n**Distance**: Self\n**Target**: Self",
+          "description": "*I beseech you!*",
           "keywords": "Magic",
           "type": "Maneuver",
           "distance": "Self",
@@ -1618,7 +1618,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "description": "**Fade**\nA stab, and a few quick, careful steps back.\n**Keywords:** Attack, Melee, Ranged, Weapon\n**Type:** Action\n**Distance:** Reach 1 or range 10\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Fade**\nA stab, and a few quick, careful steps back.",
           "keywords": "Attack, Melee, Ranged, Weapon",
           "type": "Action",
           "distance": "Reach 1 or range 10",
@@ -1638,7 +1638,7 @@
           "Reach Bonus: +1"
         ],
         "SIGNATURE ABILITY": {
-          "description": "**Forward Thrust, Backward Smash**\nIn your hands, the haft is as good as the head.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 2\n**Target:** 2 creatures or objects\n**Power Roll + Might or Agility:**",
+          "description": "**Forward Thrust, Backward Smash**\nIn your hands, the haft is as good as the head.",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 2",
@@ -1658,7 +1658,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "description": "**Battle Grace**\nYou feint to move your enemies into perfect position.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Battle Grace**\nYou feint to move your enemies into perfect position.",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 1",
@@ -1666,8 +1666,8 @@
           "roll": "Power Roll + Might or Agility",
           "tier1": "5 damage",
           "tier2": "9 damage; you swap places with the target",
-          "tier3": "12 damage; you swap places with the target, then slide the target 2 squares\\n",
-          "effect": "If you roll a 12 or better and can’t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage.']"
+          "tier3": "12 damage; you swap places with the target, then slide the target 2 squares",
+          "effect": "If you roll a 12 or better and can’t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage."
         }
       },
       "MOUNTAIN": {
@@ -1678,7 +1678,7 @@
           "Melee Weapon Damage Bonus: +0/+0/+4"
         ],
         "SIGNATURE ABILITY": {
-          "description": "**Pain for Pain**\nAn enemy who tagged you will pay for that.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Pain for Pain**\nAn enemy who tagged you will pay for that.",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 1",
@@ -1686,8 +1686,8 @@
           "roll": "Power Roll + Might or Agility",
           "tier1": "3 damage",
           "tier2": "8 damage",
-          "tier3": "16 damage\\n",
-          "effect": "If the target dealt damage to you since the end of your last turn, this attack gains an edge.']"
+          "tier3": "16 damage",
+          "effect": "If the target dealt damage to you since the end of your last turn, this attack gains an edge."
         }
       },
       "PANTHER": {
@@ -1699,7 +1699,7 @@
           "Melee Weapon Damage Bonus: +0/+0/+4"
         ],
         "SIGNATURE ABILITY": {
-          "description": "**Devastating Rush**\nThe faster you move, the harder you hit.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature or object\n**Power Roll + Might or Agility:**",
+          "description": "**Devastating Rush**\nThe faster you move, the harder you hit.",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 1",
@@ -1707,8 +1707,8 @@
           "roll": "Power Roll + Might or Agility",
           "tier1": "3 damage",
           "tier2": "8 damage",
-          "tier3": "16 damage\\n",
-          "effect": "You can move up to 3 squares straight toward the target before this attack. You deal extra damage equal to the distance moved this way.']"
+          "tier3": "16 damage",
+          "effect": "You can move up to 3 squares straight toward the target before this attack. You deal extra damage equal to the distance moved this way."
         }
       },
       "PUGILIST": {
@@ -1720,7 +1720,7 @@
           "Melee Weapon Damage Bonus: +1/+1/+1"
         ],
         "SIGNATURE ABILITY": {
-          "description": "**Let's Dance**\nKeeping your enemies stumbling around the battlefield is second nature to you.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Let's Dance**\nKeeping your enemies stumbling around the battlefield is second nature to you.",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 1",
@@ -1728,8 +1728,8 @@
           "roll": "Power Roll + Might or Agility",
           "tier1": "4 damage",
           "tier2": "9 damage; slide 1",
-          "tier3": "13 damage; slide 2\\n",
-          "effect": "You can shift into any square your target leaves after you slide them.']"
+          "tier3": "13 damage; slide 2",
+          "effect": "You can shift into any square your target leaves after you slide them."
         }
       },
       "RAIDER": {
@@ -1742,7 +1742,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "description": "**Shield Bash**\nIn your hands, a shield isn’t just for protection.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Shield Bash**\nIn your hands, a shield isn’t just for protection.",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 1",
@@ -1764,7 +1764,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "description": "**Hamstring Shot**\nA well-placed shot leaves your enemy struggling to move.\n**Keywords:** Attack, Ranged, Weapon\n**Type:** Action\n**Distance:** Ranged 10\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Hamstring Shot**\nA well-placed shot leaves your enemy struggling to move.",
           "keywords": "Attack, Ranged, Weapon",
           "type": "Action",
           "distance": "Ranged 10",
@@ -1785,7 +1785,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "description": "**Two Shot**\nWhen you fire two arrows back to back, both hit their mark.\n**Keywords:** Attack, Ranged, Weapon\n**Type:** Action\n**Distance:** Ranged 12\n**Target:** 2 creatures or objects\n**Power Roll + Might or Agility:**",
+          "description": "**Two Shot**\nWhen you fire two arrows back to back, both hit their mark.",
           "keywords": "Attack, Ranged, Weapon",
           "type": "Action",
           "distance": "Ranged 12",
@@ -1806,7 +1806,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "description": "**Net and Stab**\nThe well-thrown net that follows your main attack leaves your foes right where you want them.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 2\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Net and Stab**\nThe well-thrown net that follows your main attack leaves your foes right where you want them.",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 2",
@@ -1825,7 +1825,7 @@
           "Melee Weapon Damage Bonus: +2/+2/+2"
         ],
         "SIGNATURE ABILITY": {
-          "description": "**Protective Attack**\nThe strength of your assault makes it impossible for your foe to ignore you.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Protective Attack**\nThe strength of your assault makes it impossible for your foe to ignore you.",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 1",
@@ -1845,7 +1845,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "description": "**Patient Shot**\nBreathe… aim… wait… then strike!\n**Keywords:** Attack, Ranged, Weapon\n**Type:** Action\n**Distance:** Ranged 15\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Patient Shot**\nBreathe… aim… wait… then strike!",
           "keywords": "Attack, Ranged, Weapon",
           "type": "Action",
           "distance": "Ranged 15",
@@ -1853,8 +1853,8 @@
           "roll": "Power Roll + Might or Agility",
           "tier1": "3 damage",
           "tier2": "7 damage",
-          "tier3": "14 damage\\n",
-          "effect": "If you don’t take a move action this turn, you gain an edge on this attack.']"
+          "tier3": "14 damage",
+          "effect": "If you don’t take a move action this turn, you gain an edge on this attack."
         }
       },
       "STICK AND ROBE": {
@@ -1867,7 +1867,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "description": "**Where I Want You**\nWhen your stick speaks, your enemy moves.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 2\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Where I Want You**\nWhen your stick speaks, your enemy moves.",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 2",
@@ -1887,7 +1887,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "description": "**Fancy Footwork**\nAll combat is a dance—and you’ll be the one leading.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Fancy Footwork**\nAll combat is a dance—and you’ll be the one leading.",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 1",
@@ -1895,8 +1895,8 @@
           "roll": "Power Roll + Might or Agility",
           "tier1": "5 damage",
           "tier2": "10 damage; push 1",
-          "tier3": "14 damage; push 2\\n",
-          "effect": "You can shift into any square your target leaves after you force move them with this ability.']"
+          "tier3": "14 damage; push 2",
+          "effect": "You can shift into any square your target leaves after you force move them with this ability."
         }
       },
       "WHIRLWIND": {
@@ -1908,7 +1908,7 @@
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "description": "**Extension of My Arm**\nWhen you draw your whip back after an attack, your enemy comes ever closer.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 3\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "description": "**Extension of My Arm**\nWhen you draw your whip back after an attack, your enemy comes ever closer.",
           "keywords": "Attack, Melee, Weapon",
           "type": "Action",
           "distance": "Reach 3",
@@ -1955,8 +1955,8 @@
           "target": "1 creature or object",
           "tier1": "2 damage",
           "tier2": "7 damage; you swap places with the target",
-          "tier3": "11 damage; you swap places with the target, and a hero within distance can shift up to 2 squares\\n",
-          "effect": "If you roll a 12 or better and can’t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage.']"
+          "tier3": "11 damage; you swap places with the target, and a hero within distance can shift up to 2 squares",
+          "effect": "If you roll a 12 or better and can’t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage."
         },
         "KIT WARD: WALTZING WARD": "Your ward surrounds you with a soft, enchanting melody whose volume you control, and grants you the following benefits:\n\n['Whenever an enemy ends their turn adjacent to you, you can shift 2 squares as a free triggered action.', 'Whenever a creature damages you with a melee ability, you can slide them a number of squares equal to your highest characteristic score.']"
       },
@@ -2011,8 +2011,8 @@
           "target": "1 creature or object",
           "tier1": "2 fire damage",
           "tier2": "8 cold damage",
-          "tier3": "11 lightning damage\\n",
-          "effect": "If your Magic Eye Ward is locked onto the target, you can target them with this ability regardless of the distance as long as you have line of effect to them, and this ability deals additional damage equal to your highest characteristic.']"
+          "tier3": "11 lightning damage",
+          "effect": "If your Magic Eye Ward is locked onto the target, you can target them with this ability regardless of the distance as long as you have line of effect to them, and this ability deals additional damage equal to your highest characteristic."
         },
         "KIT WARD: MAGIC EYE WARD": "Your ward wraps itself around your head and shields your eyes, granting you the following benefits:\n\n['You have Ranged immunity equal to your highest characteristic score.', 'Whenever an enemy within 15 squares of you damages you with a ranged ability, your ward locks onto them until the end of the encounter.']"
       },
@@ -2101,7 +2101,7 @@
       "ELEMENTAL ABSORPTION": "When an evil mage threatened someone you loved, you blocked your foe’s summoning of an elemental creature by absorbing their magic with your body. You are now infused with the power of that elemental—and they’re not happy about it.\n\n**Benefit**: Your Stamina increases by 6 at 1st level, then increases by an additional 1 each time you gain a new level.\n\n**Drawback**: When you are dying, your possessing elemental takes control of your body. The elemental yearns for destruction, causing you to attack the closest creature they notice without regard for your desires or your body’s safety.",
       "FIRE AND CHAOS": "A great monster who breathed fire burned your home to the ground. While everything around you was consumed, you somehow stood strong amid the inferno, your body adapting to ignore the effects of the flames.\n\n**Benefit**: You have fire immunity 5.\n\n**Drawback**: You have cold weakness 5.",
       "PRIMORDIAL SICKNESS": "You once contracted a terrible illness for which no one could find a cure. You sought out a primordial swamp said to be either incredibly poisonous or miraculously salubrious. It turned out to be both, keeping your illness at bay while corrupting your body with its unnatural energy.\n\n**Benefit**: You have poison immunity 5 and corruption immunity 5.\n\n**Drawback**: The number of Recoveries you have is reduced by 1.",
-      "PUNISHMENT CURSE": "Through ignorance, fear, spite, or selfishness, you refused to help someone in need. To teach you a lesson, a deity offered you what seemed to be a blessing—extra power to help you heal yourself in times of need, but harsh consequences should your need become excessive. You took the deal, and now benefit from the blessing but also suffer from a curse.\n\n**Benefit**: You have 2 additional Recoveries.\n**Drawback**: When you are out of Recoveries, you are dying, no matter what your current Stamina is.",
+      "PUNISHMENT CURSE": "Through ignorance, fear, spite, or selfishness, you refused to help someone in need. To teach you a lesson, a deity offered you what seemed to be a blessing—extra power to help you heal yourself in times of need, but harsh consequences should your need become excessive. You took the deal, and now benefit from the blessing but also suffer from a curse.\n\n**Benefit**: You have 2 additional Recoveries.\n\n**Drawback**: When you are out of Recoveries, you are dying, no matter what your current Stamina is.",
       "SHIPWRECKED": "You are the sole survivor of a shipwreck that left you stranded on a remote and inhospitable island for years. Your struggle to survive there granted you insight into the natural world but distanced you from who you once were.\n\n**Benefit**: You gain two skills from the exploration skill group.\n\n**Drawback**: You have forgotten one language you know.",
       "VIVID DREAMS": "You broke a magic amulet that immersed your mind in weird magic. This magic has given you the power of premonition, but you struggle to control this new gift. Whenever you take a respite, make a Reason power roll to determine whether you gain this complication’s benefit or drawback.\n\n**Benefit**: On a 12 to 16, you experience a vision of an event currently happening in your world. The vision lasts for just a few seconds, but the information you glean is helpful to you. On a 17 or higher, you receive a full minute or more of the scene.\n\n**Drawback**: On an 11 or lower, you receive a painful vision that is fractal and inscrutable. When the respite ends, you immediately lose 1 Recovery.",
       "WARD": "Your childhood sweetheart was royalty, and the two of you stayed close throughout the years. When your former sweetheart died, you swore an oath to dedicate your life to become a tutor for their child, advising them in the ways of being a benevolent monarch.\n\n**Benefit**: You know how to talk to monarchs, aristocrats, and other wealthy leaders. When you engage with any such NPC during a negotiation, their patience increases by 1 (to a maximum of 5).\n\n**Drawback**: Your royal ward regularly calls upon you for advice and takes that advice to heart—for better or for worse.",

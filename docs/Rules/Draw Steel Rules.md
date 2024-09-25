@@ -987,8 +987,11 @@ The legacy of the Dragon Phalanx lives in you. Choose one of the following benef
 You let loose a mighty roar to repel your foes and shake their spirits.
 
 **Keywords:** Area, Magic
+
 **Type:** Action
+
 **Distance:** 2 burst
+
 **Target:** All enemies
 
 **Power Roll + Might or Presence:**
@@ -2354,8 +2357,11 @@ You gain the following career benefits:
 You cast an entertaining spell that creates a minor but impressive magical effect.
 
 **Keywords**: Magic
+
 **Type**: Action
+
 **Distance**: Self
+
 **Target**: Self
 
 **Effect**: Choose one of the following effects:
@@ -2514,9 +2520,13 @@ When a combat encounter begins, you keep any piety you had outside of combat. At
 ##### PRAYER
 
 *I beseech you!*
+
 **Keywords**: Magic
+
 **Type**: Maneuver
+
 **Distance**: Self
+
 **Target**: Self
 
 **Power Roll + Intuition**:
@@ -2689,6 +2699,7 @@ Your divine energy restores the righteous.
 - **Target**: Self or 1 ally
 
 **Effect**: The target can spend 1 Recovery.
+
 **Spend Piety**: For each piety spent, you can choose one of the following enhancements:
 
 - You can target one additional ally within distance.
@@ -2732,6 +2743,7 @@ You sap the strength of an attacking enemy with divine energy.
 - **Trigger**: The target makes an attack. You can use this ability after seeing the result of the attack.
 
 **Effect**: The attack takes a bane and the damage to one creature targeted by the attack is reduced by an amount equal to your Intuition.
+
 **Spend 1 Piety**: The attack has a double bane and the damage to one creature targeted by the attack is reduced by an amount equal to twice your Intuition score.
 
 ##### HOLY INFUSION
@@ -2745,6 +2757,7 @@ You invigorate an attacking ally with divine energy.
 - **Trigger**: The target makes an attack. You can use this ability after seeing the result of the attack.
 
 **Effect**: The attack gains an edge and deals holy damage equal to twice your Intuition score.
+
 **Spend 1 Piety**: The attack has a double edge and deals holy damage equal to twice your Intuition score.
 
 #### CONDUIT ABILITIES
@@ -3156,6 +3169,7 @@ You imbue an attack with the strength of stone.
 - **Trigger**: The target makes a melee attack.
 
 **Effect**: The attack deals extra damage equal to 3 times your Reason score.
+
 **Spend 1 Essence**: The attack deals extra damage equal to 4 times your Reason score instead and pushes the target a number of squares equal to your Reason score.
 
 ##### EXPLOSIVE ASSISTANCE
@@ -3169,6 +3183,7 @@ You add a little magic to an ally’s aggression at just the right time.
 - **Trigger**: The target force moves a creature or object.
 
 **Effect**: The distance of the forced movement is increased by a number of squares equal to your Reason score.
+
 **Spend 1 Essence**: The distance of the forced movement is increased by a number of squares equal to twice your Reason score instead.
 
 ##### MEND THE SOUL
@@ -3194,6 +3209,7 @@ You call on the void to swallow and spit out an ally.
 - **Trigger**: The target starts their turn or moves.
 
 **Effect**: At any point during the move, you teleport the target a number of squares equal to your Reason.
+
 **Spend 1 Essence**: You teleport the target a number of squares equal to twice your Reason score instead.
 
 #### ELEMENTALIST ABILITIES
@@ -4982,10 +4998,15 @@ You wear light armor and wield one or two light weapons.
 
 **Fade**
 A stab, and a few quick, careful steps back.
+
 **Keywords:** Attack, Melee, Ranged, Weapon
+
 **Type:** Action
+
 **Distance:** Reach 1 or range 10
+
 **Target:** 1 creature
+
 **Power Roll + Might or Agility:**
 
 - 11 or lower: 4 damage; you shift 1 square
@@ -5011,10 +5032,15 @@ You wear medium armor and wield a polearm.
 
 **Forward Thrust, Backward Smash**
 In your hands, the haft is as good as the head.
+
 **Keywords:** Attack, Melee, Weapon
+
 **Type:** Action
+
 **Distance:** Reach 2
+
 **Target:** 2 creatures or objects
+
 **Power Roll + Might or Agility:**
 
 - 11 or lower: 4 damage
@@ -5040,15 +5066,21 @@ You wear no armor and wield only your unarmed strikes.
 
 **Battle Grace**
 You feint to move your enemies into perfect position.
+
 **Keywords:** Attack, Melee, Weapon
+
 **Type:** Action
+
 **Distance:** Reach 1
+
 **Target:** 1 creature
+
 **Power Roll + Might or Agility:**
 
 - 11 or lower: 5 damage
 - 12–16: 9 damage; you swap places with the target
 - 17+: 12 damage; you swap places with the target, then slide the target 2 squares
+
 **Effect:** If you roll a 12 or better and can’t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage.
 
 #### MOUNTAIN
@@ -5069,15 +5101,21 @@ You wear heavy armor and wield a heavy weapon.
 
 **Pain for Pain**
 An enemy who tagged you will pay for that.
+
 **Keywords:** Attack, Melee, Weapon
+
 **Type:** Action
+
 **Distance:** Reach 1
+
 **Target:** 1 creature
+
 **Power Roll + Might or Agility:**
 
 - 11 or lower: 3 damage
 - 12–16: 8 damage
 - 17+: 16 damage
+
 **Effect:** If the target dealt damage to you since the end of your last turn, this attack gains an edge.
 
 #### PANTHER
@@ -5099,15 +5137,21 @@ You wear no armor and wield a heavy weapon.
 
 **Devastating Rush**
 The faster you move, the harder you hit.
+
 **Keywords:** Attack, Melee, Weapon
+
 **Type:** Action
+
 **Distance:** Reach 1
+
 **Target:** 1 creature or object
+
 **Power Roll + Might or Agility:**
 
 - 11 or lower: 3 damage
 - 12–16: 8 damage
 - 17+: 16 damage
+
 **Effect:** You can move up to 3 squares straight toward the target before this attack. You deal extra damage equal to the distance moved this way.
 
 #### PUGILIST
@@ -5129,15 +5173,21 @@ You wear no armor and wield only your unarmed strikes.
 
 **Let's Dance**
 Keeping your enemies stumbling around the battlefield is second nature to you.
+
 **Keywords:** Attack, Melee, Weapon
+
 **Type:** Action
+
 **Distance:** Reach 1
+
 **Target:** 1 creature
+
 **Power Roll + Might or Agility:**
 
 - 11 or lower: 4 damage
 - 12–16: 9 damage; slide 1
 - 17+: 13 damage; slide 2
+
 **Effect:** You can shift into any square your target leaves after you slide them.
 
 #### RAIDER
@@ -5160,10 +5210,15 @@ You wear medium armor and wield a shield and a light weapon.
 
 **Shield Bash**
 In your hands, a shield isn’t just for protection.
+
 **Keywords:** Attack, Melee, Weapon
+
 **Type:** Action
+
 **Distance:** Reach 1
+
 **Target:** 1 creature
+
 **Power Roll + Might or Agility:**
 
 - 11 or lower: 4 damage; push 1
@@ -5191,10 +5246,15 @@ You wear medium armor and wield a medium weapon and a bow.
 
 **Hamstring Shot**
 A well-placed shot leaves your enemy struggling to move.
+
 **Keywords:** Attack, Ranged, Weapon
+
 **Type:** Action
+
 **Distance:** Ranged 10
+
 **Target:** 1 creature
+
 **Power Roll + Might or Agility:**
 
 - 11 or lower: 3 damage
@@ -5221,10 +5281,15 @@ You wear light armor and wield a bow.
 
 **Two Shot**
 When you fire two arrows back to back, both hit their mark.
+
 **Keywords:** Attack, Ranged, Weapon
+
 **Type:** Action
+
 **Distance:** Ranged 12
+
 **Target:** 2 creatures or objects
+
 **Power Roll + Might or Agility:**
 
 - 11 or lower: 4 damage
@@ -5251,10 +5316,15 @@ You wear light armor, and wield a polearm and several ensnaring weapons.
 
 **Net and Stab**
 The well-thrown net that follows your main attack leaves your foes right where you want them.
+
 **Keywords:** Attack, Melee, Weapon
+
 **Type:** Action
+
 **Distance:** Reach 2
+
 **Target:** 1 creature
+
 **Power Roll + Might or Agility:**
 
 - 11 or lower: 4 damage
@@ -5279,10 +5349,15 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 **Protective Attack**
 The strength of your assault makes it impossible for your foe to ignore you.
+
 **Keywords:** Attack, Melee, Weapon
+
 **Type:** Action
+
 **Distance:** Reach 1
+
 **Target:** 1 creature
+
 **Power Roll + Might or Agility:**
 
 - 11 or lower: 5 damage; taunted (EoT)
@@ -5308,15 +5383,21 @@ You wear no armor and wield a bow.
 
 **Patient Shot**
 Breathe… aim… wait… then strike!
+
 **Keywords:** Attack, Ranged, Weapon
+
 **Type:** Action
+
 **Distance:** Ranged 15
+
 **Target:** 1 creature
+
 **Power Roll + Might or Agility:**
 
 - 11 or lower: 3 damage
 - 12–16: 7 damage
 - 17+: 14 damage
+
 **Effect:** If you don’t take a move action this turn, you gain an edge on this attack.
 
 #### STICK AND ROBE
@@ -5339,10 +5420,15 @@ You wear light armor and wield a polearm.
 
 **Where I Want You**
 When your stick speaks, your enemy moves.
+
 **Keywords:** Attack, Melee, Weapon
+
 **Type:** Action
+
 **Distance:** Reach 2
+
 **Target:** 1 creature
+
 **Power Roll + Might or Agility:**
 
 - 11 or lower: 4 damage
@@ -5368,15 +5454,21 @@ You wear light armor and wield a medium weapon.
 
 **Fancy Footwork**
 All combat is a dance—and you’ll be the one leading.
+
 **Keywords:** Attack, Melee, Weapon
+
 **Type:** Action
+
 **Distance:** Reach 1
+
 **Target:** 1 creature
+
 **Power Roll + Might or Agility:**
 
 - 11 or lower: 5 damage
 - 12–16: 10 damage; push 1
 - 17+: 14 damage; push 2
+
 **Effect:** You can shift into any square your target leaves after you force move them with this ability.
 
 #### WHIRLWIND
@@ -5398,10 +5490,15 @@ You wear no armor and wield a whip.
 
 **Extension of My Arm**
 When you draw your whip back after an attack, your enemy comes ever closer.
+
 **Keywords:** Attack, Melee, Weapon
+
 **Type:** Action
+
 **Distance:** Reach 3
+
 **Target:** 1 creature
+
 **Power Roll + Might or Agility:**
 
 - 11 or lower: 4 damage
@@ -5451,9 +5548,13 @@ You wield an implement of metal, such as a tome or a crown.
 You drain the energy from your target and revitalize your senses.
 
 **Keywords**: Attack, Magic, Melee
+
 **Type**: Action
+
 **Distance**: Reach
+
 **Target**: 1 creature
+
 **Power Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 5 corruption damage
@@ -5482,14 +5583,19 @@ You don a tiny implement of glass such as a pendant or an anklet.
 Visible energy sparks off you to wash across a nearby foe, who you invite to dance with you.
 
 **Keywords**: Attack, Magic, Melee
+
 **Type**: Action
+
 **Distance**: Reach 2
+
 **Target**: 1 creature or object
+
 **Power Roll** + Agility, Intuition, or Presence:
 
 - 11 or lower: 2 damage
 - 12–16: 7 damage; you swap places with the target
 - 17+: 11 damage; you swap places with the target, and a hero within distance can shift up to 2 squares
+
 **Effect**: If you roll a 12 or better and can’t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage.
 
 ##### KIT WARD: WALTZING WARD
@@ -5518,9 +5624,13 @@ You wield an implement of crystal, such as a staff or a wand.
 You unleash a blast of frigid air to freeze and hinder your foes.
 
 **Keywords**: Area, Magic, Ranged
+
 **Type**: Action
+
 **Distance**: 3 cube within 12
+
 **Target**: All enemies
+
 **Power Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 2 cold damage
@@ -5552,9 +5662,13 @@ You wear light armor and wield an implement of bone such as a staff or a skull.
 Your curse causes a foe’s flesh to rot off as spores that aid your allies.
 
 **Keywords**: Attack, Magic, Ranged
+
 **Type**: Action
+
 **Distance**: Ranged 5
+
 **Target**: 1 creature
+
 **Power Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 2 corruption damage; a hero within distance can make a resistance roll to end an effect
@@ -5586,14 +5700,19 @@ You wield an implement of wood such as an orb or a hooked rod.
 You lob your implement at high speed toward your opponent, unleashing a chaotic flare of magic.
 
 **Keywords**: Attack, Magic, Ranged
+
 **Type**: Action
+
 **Distance**: Ranged 15
+
 **Target**: 1 creature or object
+
 **Power Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 2 fire damage
 - 12–16: 8 cold damage
 - 17+: 11 lightning damage
+
 **Effect**: If your Magic Eye Ward is locked onto the target, you can target them with this ability regardless of the distance as long as you have line of effect to them, and this ability deals additional damage equal to your highest characteristic.
 
 ##### KIT WARD: MAGIC EYE WARD
@@ -5621,9 +5740,13 @@ You wield an implement of stone, such as a club or a crown.
 You call forth a small bolt of lightning, then hurl it at your foe.
 
 **Keywords**: Attack, Magic, Ranged
+
 **Type**: Action
+
 **Distance**: Ranged 12
+
 **Target**: 1 creature or object
+
 **Power Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 2 lightning damage
@@ -5654,9 +5777,13 @@ You wear heavy armor and wield an implement of bone, such as a scepter or a staf
 Burning radiance falls upon your foe, outlining them with a holy glow.
 
 **Keywords**: Attack, Magic, Ranged
+
 **Type**: Action
+
 **Distance**: Ranged 5
+
 **Target**: 1 creature or object
+
 **Power Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 2 holy damage; the next attack against the target has an edge
@@ -5689,9 +5816,13 @@ You wield an implement of metal, such as a knife or a scepter.
 Two beams of supernatural force lance out at your command.
 
 **Keywords**: Attack, Magic, Ranged
+
 **Type**: Action
+
 **Distance**: Ranged 10
+
 **Target**: 2 creatures or objects
+
 **Power Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 3 damage
@@ -5723,9 +5854,13 @@ You wield an implement of stone such as a wand or pendant.
 Absorbing psychic energy from another creature lets you shield yourself within it.
 
 **Keywords**: Attack, Magic, Ranged
+
 **Type**: Action
+
 **Distance**: Ranged 10
+
 **Target**: 1 creature
+
 **Power Roll** + Intuition:
 
 - 11 or lower: 2 psychic damage; you gain damage immunity 1 until the end of your next turn
@@ -5819,6 +5954,7 @@ You once contracted a terrible illness for which no one could find a cure. You s
 Through ignorance, fear, spite, or selfishness, you refused to help someone in need. To teach you a lesson, a deity offered you what seemed to be a blessing—extra power to help you heal yourself in times of need, but harsh consequences should your need become excessive. You took the deal, and now benefit from the blessing but also suffer from a curse.
 
 **Benefit**: You have 2 additional Recoveries.
+
 **Drawback**: When you are out of Recoveries, you are dying, no matter what your current Stamina is.
 
 #### SHIPWRECKED
