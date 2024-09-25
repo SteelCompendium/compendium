@@ -1,17 +1,17 @@
-# NATURE CALLING
+# Nature Calling
 
 The Nature Calling kit allows you to tap into the magical forces of nature. You wield an implement of stone so that your feet stand firm on the earth and your magic can be carried by the wind. While using this kit, you can faintly hear the whispers of the land around you.
 
-## EQUIPMENT
+## Equipment
 
 You wield an implement of stone, such as a club or a crown.
 
-## KIT BONUSES
+## Kit Bonuses
 
 -   Stability Bonus: +2
 -   Magic Distance Bonus: +7
 
-## SIGNATURE ABILITY: LIGHTNING SPARK
+## Signature Ability: Lightning Spark
 
 You call forth a small bolt of lightning, then hurl it at your foe.
 
@@ -29,7 +29,7 @@ You call forth a small bolt of lightning, then hurl it at your foe.
 -   12–16: 6 damage; the target takes a bane on their next power roll
 -   17+: 9 damage; the target has a double bane on their next power roll
 
-## KIT WARD: VINE WARD
+## Kit Ward: Vine Ward
 
 Your ward surrounds you with protective animal spirits, and grants you the following benefits:
 

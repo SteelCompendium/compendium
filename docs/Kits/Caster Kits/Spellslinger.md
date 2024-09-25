@@ -1,18 +1,18 @@
-# SPELLSLINGER
+# Spellslinger
 
 The Spellslinger kit is for those who want to focus magic on their foes from far away, becoming a magical blaster surrounded by rippling energy. While using this kit, you can faintly see auras of energy emanating from far-off creatures.
 
-## EQUIPMENT
+## Equipment
 
 You wield an implement of metal, such as a knife or a scepter.
 
-## KIT BONUSES
+## Kit Bonuses
 
 -   Speed Bonus: +1
 -   Magical Damage Bonus: +1/+1/+1
 -   Magic Distance Bonus: +5
 
-## SIGNATURE ABILITY: SPLIT BEAM
+## Signature Ability: Split Beam
 
 Two beams of supernatural force lance out at your command.
 
@@ -30,7 +30,7 @@ Two beams of supernatural force lance out at your command.
 -   12–16: 5 damage
 -   17+: 6 damage
 
-## KIT WARD: INVIGORATING WARD
+## Kit Ward: Invigorating Ward
 
 Your ward surrounds you with crackling energy.
 

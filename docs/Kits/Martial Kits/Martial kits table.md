@@ -1,4 +1,4 @@
-# MARTIAL KITS TABLE
+# Martial Kits Table
 
 <table style="width:95%;">
 <colgroup>

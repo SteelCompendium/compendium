@@ -1,4 +1,4 @@
-# HUMAN
+# Human
 
 “Humans,” the dwarf said with a combination of exasperation and awe. “Their only virtue seems to be believing in impossible things.”
 
@@ -50,14 +50,14 @@ But some of your names, I will see written in the stars.
 
 As a human character, you have the following benefits:
 
-# DETECT THE SUPERNATURAL
+# Detect The Supernatural
 
 As a maneuver, you open your awareness to detect supernatural creatures and phenomena. Until the end of your next turn, you know the location of any supernatural object, Undead, Construct, or creature from another plane of existence within 5 squares of you, even if you don’t have line of effect to them. You know if you’re detecting an item or a creature, and you know if a creature is Undead, a Construct, or from another plane of existence.
 
-# RESIST THE SUPERNATURAL
+# Resist The Supernatural
 
 Your connection to the natural world protects you from supernatural forces. You have Magic immunity 2 and Psionic immunity 2. Each of these immunities increases by 1 each time you level up.
 
-# STAYING POWER
+# Staying Power
 
 Your human anatomy allows you to fight, run, and stay awake longer than others. Increase your number of Recoveries by 2.

@@ -1,4 +1,4 @@
-# TIME RAIDER
+# Time Raider
 
 “I fear no living thing, but the time raiders.”
 
@@ -106,14 +106,14 @@ John hadn’t hesitated, he’d already drawn his sword.
 
 As a time raider character, you have the following benefits.
 
-# FORESIGHT
+# Foresight
 
 Your senses extend past mundane obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren’t hidden from you, negating the usual bane on attacks against them. Additionally, whenever you are attacked, you can use a triggered action to impose a bane on the power roll.
 
-# FOUR ARMS
+# Four Arms
 
 Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target an additional adjacent creature, using the same power roll for both targets. You can grab up to two creatures at a time.
 
-# PSIONIC GIFT
+# Psionic Gift
 
 Your mind is a formidable layer of defense, granting you psionic immunity 5.

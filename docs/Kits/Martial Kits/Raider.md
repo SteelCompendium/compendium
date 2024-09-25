@@ -1,12 +1,12 @@
-# RAIDER
+# Raider
 
 The Raider kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
 
-## EQUIPMENT
+## Equipment
 
 You wear medium armor and wield a shield and a light weapon.
 
-## KIT BONUSES
+## Kit Bonuses
 
 -   Stamina Bonus: +9
 -   Speed Bonus: +1
@@ -14,7 +14,7 @@ You wear medium armor and wield a shield and a light weapon.
 -   Weapon Distance Bonus: +5
 -   Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-## SIGNATURE ABILITY
+## Signature Ability
 
 **Shield Bash** In your hands, a shield isn’t just for protection.
 

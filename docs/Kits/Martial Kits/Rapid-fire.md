@@ -1,12 +1,12 @@
-# RAPID-FIRE
+# Rapid-fire
 
 The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique focuses on peppering foes at medium range.
 
-## EQUIPMENT
+## Equipment
 
 You wear light armor and wield a bow.
 
-## KIT BONUSES
+## Kit Bonuses
 
 -   Stamina Bonus: +3
 -   Speed Bonus: +1
@@ -14,7 +14,7 @@ You wear light armor and wield a bow.
 -   Weapon Distance Bonus: +7
 -   Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-## SIGNATURE ABILITY
+## Signature Ability
 
 **Two Shot** When you fire two arrows back to back, both hit their mark.
 

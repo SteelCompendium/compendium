@@ -1,12 +1,12 @@
-# RANGER
+# Ranger
 
 The Ranger kit outfits you with light armor and several weapons, letting you easily switch between using a melee weapon and a bow. This kit provides a good balance of bonuses to Stamina, speed, damage, and range to create a hero who is a jack-of-all-trades.
 
-## EQUIPMENT
+## Equipment
 
 You wear medium armor and wield a medium weapon and a bow.
 
-## KIT BONUSES
+## Kit Bonuses
 
 -   Stamina Bonus: +6
 -   Speed Bonus: +1
@@ -15,7 +15,7 @@ You wear medium armor and wield a medium weapon and a bow.
 -   Weapon Distance Bonus: +5
 -   Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-## SIGNATURE ABILITY
+## Signature Ability
 
 **Hamstring Shot** A well-placed shot leaves your enemy struggling to move.
 

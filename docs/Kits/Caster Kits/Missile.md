@@ -1,17 +1,17 @@
-# MISSILE
+# Missile
 
 The Missile kit allows you to throw your implement at your foes, then recall it back to you. Enemies impacted by this concentration of magic are left reeling while you stand safely out of their reach. When you use this kit, your competitive nature is more pronounced, and you wield your implement recklessly.
 
-## EQUIPMENT
+## Equipment
 
 You wield an implement of wood such as an orb or a hooked rod.
 
-## KIT BONUSES
+## Kit Bonuses
 
 -   Magic Damage Bonus: +0/+1/+2
 -   Magic Distance Bonus: +10
 
-## SIGNATURE ABILITY: SPIKE!
+## Signature Ability: Spike!
 
 You lob your implement at high speed toward your opponent, unleashing a chaotic flare of magic.
 
@@ -31,7 +31,7 @@ You lob your implement at high speed toward your opponent, unleashing a chaotic 
 
 **Effect**: If your Magic Eye Ward is locked onto the target, you can target them with this ability regardless of the distance as long as you have line of effect to them, and this ability deals additional damage equal to your highest characteristic.
 
-## KIT WARD: MAGIC EYE WARD
+## Kit Ward: Magic Eye Ward
 
 Your ward wraps itself around your head and shields your eyes, granting you the following benefits:
 

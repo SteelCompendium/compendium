@@ -1,4 +1,4 @@
-# DRAGON KNIGHT
+# Dragon Knight
 
 “I thought the dragon knights would save us, but even they couldn’t stop Ajax. Now the roads aren’t safe. People are taken from their homes without cause or warning, never to return. I don’t know what’s going to happen now, except everyone’s afraid all the time.”
 
@@ -116,11 +116,11 @@ The dragon knight looked at the people around him, at the three peasants despera
 
 As a dragon knight character, you have the following benefits:
 
-# WYRMPLATE
+# Wyrmplate
 
 Your hardened scales grant you immunity 5 to one of the following damage types: cold, corruption, fire, lightning, or poison. You can change your damage immunity type while out of combat (no action required).
 
-# KNIGHTHOOD
+# Knighthood
 
 The legacy of the Dragon Phalanx lives in you. Choose one of the following benefits.
 

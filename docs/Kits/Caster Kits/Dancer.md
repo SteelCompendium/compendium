@@ -1,17 +1,17 @@
-# DANCER
+# Dancer
 
 The Dancer kit forgoes nearly all equipment in exchange for speed, letting you rely purely on kinetic energy to channel your power. The more you move, the more others may want to move with you. Select this kit when your party regularly needs to close the distance on your enemies. While you use this kit, your heartbeat becomes an audible metronome.
 
-## EQUIPMENT
+## Equipment
 
 You don a tiny implement of glass such as a pendant or an anklet.
 
-## KIT BONUSES
+## Kit Bonuses
 
 -   Speed Bonus: +2
 -   Magic Damage Bonus: +0/+1/+2
 
-## SIGNATURE ABILITY: TARANTELLA VOLLEY
+## Signature Ability: Tarantella Volley
 
 Visible energy sparks off you to wash across a nearby foe, who you invite to dance with you.
 
@@ -31,7 +31,7 @@ Visible energy sparks off you to wash across a nearby foe, who you invite to dan
 
 **Effect**: If you roll a 12 or better and can’t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage.
 
-## KIT WARD: WALTZING WARD
+## Kit Ward: Waltzing Ward
 
 Your ward surrounds you with a soft, enchanting melody whose volume you control, and grants you the following benefits:
 

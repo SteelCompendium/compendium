@@ -1,12 +1,12 @@
-# STICK AND ROBE
+# Stick And Robe
 
 Armed with a simple reach weapon, often a quarterstaff, heroes using the Stick and Robe kit are highly mobile thanks to their light armor. This allows them to make maximum use of their weapon’s length.
 
-## EQUIPMENT
+## Equipment
 
 You wear light armor and wield a polearm.
 
-## KIT BONUSES
+## Kit Bonuses
 
 -   Stamina Bonus: +3
 -   Speed Bonus: +2
@@ -14,7 +14,7 @@ You wear light armor and wield a polearm.
 -   Reach Bonus: +1
 -   Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-## SIGNATURE ABILITY
+## Signature Ability
 
 **Where I Want You** When your stick speaks, your enemy moves.
 

@@ -1,4 +1,4 @@
-# RURAL
+# Rural
 
 A rural culture is one located in a town, village, or smaller settled enclave. People dwelling in such places often cultivate the land, trade goods or services with travelers passing through, harvest fish from the sea, or mine metals and gems from the earth.
 

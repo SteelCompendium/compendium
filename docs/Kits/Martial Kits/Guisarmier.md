@@ -1,19 +1,19 @@
-# GUISARMIER
+# Guisarmier
 
 The Guisarmier kit is for those who want to use a polearm for extended reach and still gain the extra protection of armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.
 
-## EQUIPMENT
+## Equipment
 
 You wear medium armor and wield a polearm.
 
-## KIT BONUSES
+## Kit Bonuses
 
 -   Stamina Bonus: +6
 -   Stability Bonus: +1
 -   Melee Weapon Damage Bonus: +2/+2/+2
 -   Reach Bonus: +1
 
-## SIGNATURE ABILITY
+## Signature Ability
 
 **Forward Thrust, Backward Smash** In your hands, the haft is as good as the head.
 

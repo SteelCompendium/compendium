@@ -1,18 +1,18 @@
-# FRIGID
+# Frigid
 
 The Frigid kit is for heroes who want to tap into the power of arcane blizzards and magical cold. Armed only with an implement of crystal, you can create bursts of ice and protect yourself with frigid winds. When you meditate to prepare this kit, others notice the area around you becoming slightly cooler.
 
-## EQUIPMENT
+## Equipment
 
 You wield an implement of crystal, such as a staff or a wand.
 
-## KIT BONUSES
+## Kit Bonuses
 
 -   Stamina Bonus: +3
 -   Magic Distance Bonus: +7
 -   Magic Area Bonus: +1
 
-## SIGNATURE ABILITY: FROZEN EXPLOSION
+## Signature Ability: Frozen Explosion
 
 You unleash a blast of frigid air to freeze and hinder your foes.
 
@@ -30,7 +30,7 @@ You unleash a blast of frigid air to freeze and hinder your foes.
 -   12–16: 3 cold damage; slowed (EoT)
 -   17+: 4 cold damage; slowed (EoE)
 
-## KIT WARD: ICE ARMOR
+## Kit Ward: Ice Armor
 
 Your ward covers your body in ice, and grants you the following benefits:
 

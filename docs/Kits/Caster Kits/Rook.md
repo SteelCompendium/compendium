@@ -1,16 +1,16 @@
-# ROOK
+# Rook
 
 The Rook kit allows you to use strong armor so you can be better protected while you heal and enhance your allies on the frontline. Heroes with this kit often dive into support magic. While using this kit, your armor resonates with the sounds of choirs from on high as you polish it.
 
-## EQUIPMENT
+## Equipment
 
 You wear heavy armor and wield an implement of bone, such as a scepter or a staff.
 
-## KIT BONUS
+## Kit Bonus
 
 -   Stamina Bonus: +12
 
-## SIGNATURE ABILITY: BLESSED LIGHT
+## Signature Ability: Blessed Light
 
 Burning radiance falls upon your foe, outlining them with a holy glow.
 
@@ -28,7 +28,7 @@ Burning radiance falls upon your foe, outlining them with a holy glow.
 -   12–16: 6 holy damage; the next attack against the target has an edge
 -   17+: 9 holy damage; the next attack against the target has a double edge
 
-## KIT WARD: CASTLE GUARD
+## Kit Ward: Castle Guard
 
 Your armor is reinforced by a bright ward of holy energy, and grants you the following benefits:
 

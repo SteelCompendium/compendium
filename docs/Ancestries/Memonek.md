@@ -1,4 +1,4 @@
-# MEMONEK
+# Memonek
 
 “This world of yours. Ships of wood and swords of steel. It’s so … primitive. Like a fairy tale.”
 

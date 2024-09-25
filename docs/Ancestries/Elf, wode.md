@@ -1,4 +1,4 @@
-# ELF, WODE
+# Elf, Wode
 
 See you the wood so dark and deep, Where runs the fox and hare? You know now why your mother weeps. Your father’s bones lie there.
 
@@ -94,14 +94,14 @@ Jeremy turned to Dade. “I feel like we’re in a dream,” he whispered.
 
 As a wode elf character, you have the following benefits.
 
-# OTHERWORLDLY GRACE
+# Otherworldly Grace
 
 Your elven body and mind can’t be contained for long, and accessing memories is as easy as living in the present for you. You gain an edge on resistance rolls, and on tests that use any skills you have from the lore skill group.
 
-# SWIFT
+# Swift
 
 Your speed is 6.
 
-# WODE ELF GLAMOR
+# Wode Elf Glamor
 
 You can magically alter your appearance to better blend in with your surroundings. You gain an edge on Agility tests made to hide and sneak, and tests made to find you while you are hidden take a bane.

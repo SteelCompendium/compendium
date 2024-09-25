@@ -1,4 +1,4 @@
-# DWARF
+# Dwarf
 
 “Remember, we are dwarves. Our strength is the strength of the earth. The strength of the marble column that rises to the heavens. The strength of the granite foundation that reaches deep into the ground. But what is the value of strength if it is not used in service of justice?”
 
@@ -40,11 +40,11 @@ You are young yet, but already those who work evil deeds should fear you. You ar
 
 As a dwarf character, you have the following benefits:
 
-# GROUNDED
+# Grounded
 
 Your heavy stone body and connection to the earth makes it difficult for others to move you. Your stability increases by 1.
 
-# RUNIC CARVING
+# Runic Carving
 
 You can carve a magic rune onto your skin. The rune you carve determines the benefit you receive. You can change or remove this rune with 10 minutes of work while not engaged in combat.
 
@@ -52,6 +52,6 @@ You can carve a magic rune onto your skin. The rune you carve determines the ben
 -   **Light:** Your skin sheds light for 10 squares. You can turn this on and off as a maneuver.
 -   **Voice:** As a maneuver, you can communicate telepathically with another willing creature you have met before whose name you name, who can speak and understand a language you know, and is within 1 mile of you. You and the creature can respond to one another as if having a normal conversation. You can change the person you communicate with by changing the rune.
 
-# SPARK OFF YOUR SKIN
+# Spark Off Your Skin
 
 Your stone skin affords you potent protection. Your Stamina increases by 6 at 1st level, then increases by an additional 1 each time you gain a new level

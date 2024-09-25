@@ -1,4 +1,4 @@
-# POLDER
+# Polder
 
 “Wait, where’d he go? Where’d that little son of a bitch go? AAAAGGH!”
 
@@ -132,11 +132,11 @@ The knight stared at them for a moment, then turned back to his friend.
 
 As a polder character, your size is 1S and you have the following benefits.
 
-# POLDER GEIST
+# Polder Geist
 
 When you start your turn while no creatures have line of effect to you, or while you are hidden from or have concealment from all creatures with line of effect to you, your speed is increased by 3 until the end of your turn.
 
-# SHADOWMELD
+# Shadowmeld
 
 You gain the following ability:
 

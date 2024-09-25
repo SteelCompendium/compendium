@@ -1,4 +1,4 @@
-# ORC
+# Orc
 
 “Even should an arrow pierce their heart, each kanin warrior has within them one last act of revenge.”
 
@@ -84,10 +84,10 @@ Ahem.
 
 As an orc character, you have the following benefits.
 
-# BLOODFIRE RUSH
+# Bloodfire Rush
 
 When you take damage, your speed increases by 2 until the end of your next turn. You can benefit from this feature only once per round.
 
-# RELENTLESS
+# Relentless
 
 When a creature deals damage to you that leaves you dying, you can make a free strike against any creature. If the creature is reduced to 0 Stamina by your attack, you can spend a Recovery.

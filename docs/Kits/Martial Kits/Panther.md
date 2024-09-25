@@ -1,19 +1,19 @@
-# PANTHER
+# Panther
 
 If you want a good balance of protection, speed, and damage, the Panther kit is for you. This kit increases your Stamina not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
 
-## EQUIPMENT
+## Equipment
 
 You wear no armor and wield a heavy weapon.
 
-## KIT BONUSES
+## Kit Bonuses
 
 -   Stamina Bonus: +6
 -   Speed Bonus: +1
 -   Stability Bonus: +1
 -   Melee Weapon Damage Bonus: +0/+0/+4
 
-## SIGNATURE ABILITY
+## Signature Ability
 
 **Devastating Rush** The faster you move, the harder you hit.
 

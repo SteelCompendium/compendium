@@ -1,19 +1,19 @@
-# WHIRLWIND
+# Whirlwind
 
 The Whirlwind kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a mobile warrior who uses a chain or whip, then this is the kit for you.
 
-## EQUIPMENT
+## Equipment
 
 You wear no armor and wield a whip.
 
-## KIT BONUSES
+## Kit Bonuses
 
 -   Speed Bonus: +3
 -   Melee Weapon Damage Bonus: +1/+1/+1
 -   Reach Bonus: +1
 -   Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-## SIGNATURE ABILITY
+## Signature Ability
 
 **Extension of My Arm** When you draw your whip back after an attack, your enemy comes ever closer.
 

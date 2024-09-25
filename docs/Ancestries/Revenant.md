@@ -1,4 +1,4 @@
-# REVENANT
+# Revenant
 
 “I will suck the life from your flesh and leave you a withered corpse!”
 
@@ -80,11 +80,11 @@ Lady Filliamo shrugged. “I’m a knight of the church. Jurisdiction’s for th
 
 As a revenant character, you have the following benefits.
 
-# FORMER LIFE
+# Former Life
 
 Choose the ancestry you were before you died. Your size equals that ancestry’s size. Your speed is 5. You lose all other ancestral benefits from your original ancestry.
 
-# VENGEANCE MARK
+# Vengeance Mark
 
 As a maneuver, you place a magic sigil on a creature within 10 squares of you. When you place a sigil, you can decide where it appears on the creature’s body, and whether the sigil is visible to only you or to all creatures.
 
@@ -92,7 +92,7 @@ You always know the direction to the exact location of a creature who bears one 
 
 Additionally, you gain the following ability.
 
-# DETONATE SIGIL
+# Detonate Sigil
 
 A magical sigil you placed on a creature explodes with energy.
 
@@ -111,12 +111,12 @@ A magical sigil you placed on a creature explodes with energy.
 
 You can have an active number of sigils equal to your level. You can remove a sigil from a creature harmlessly (no action required). If you are already using your maximum number of sigils, your oldest sigil disappears with no other effect.
 
-# TOUGH BUT WITHERED
+# Tough But Withered
 
 Your undead body grants you cold, corruption, lightning immunity, and poison immunity equal to your level. You also have fire weakness 5. You can’t suffocate, and you don’t need to eat or drink to stay alive.
 
 Additionally, when your Stamina equals the negative of your winded value, you become inert instead of dying. You can continue to observe your surroundings, but you can’t speak, take actions, maneuvers, or triggered actions, or move and you fall prone. If you take any fire damage while in this state, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
 
-# UNDEAD INFLUENCE
+# Undead Influence
 
 Your supernatural gifts allow you to influence other undead. You gain an edge on Reason, Intuition, and Presence tests made to interact with undead creatures.

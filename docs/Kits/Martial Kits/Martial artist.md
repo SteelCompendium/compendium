@@ -1,19 +1,19 @@
-# MARTIAL ARTIST
+# Martial Artist
 
 If you want to be fast in a fight, then Martial Artist is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes to opponents, and allows you to be the ultimate skirmisher.
 
-## EQUIPMENT
+## Equipment
 
 You wear no armor and wield only your unarmed strikes.
 
-## KIT BONUSES
+## Kit Bonuses
 
 -   Stamina Bonus: +3
 -   Speed Bonus: +3
 -   Melee Weapon Damage Bonus: +2/+2/+2
 -   Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-## SIGNATURE ABILITY
+## Signature Ability
 
 **Battle Grace** You feint to move your enemies into perfect position.
 

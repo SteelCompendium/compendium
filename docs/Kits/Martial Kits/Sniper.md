@@ -1,19 +1,19 @@
-# SNIPER
+# Sniper
 
 The Sniper kit gives you the tools and techniques to take down enemies from afar. This kit can help you become the archer who lurks behind trees or down tunnels, picking off enemies with a bow or crossbow as they approach.
 
-## EQUIPMENT
+## Equipment
 
 You wear no armor and wield a bow.
 
-## KIT BONUSES
+## Kit Bonuses
 
 -   Speed Bonus: +1
 -   Ranged Weapon Damage Bonus: +0/+0/+4
 -   Weapon Distance Bonus: +10
 -   Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-## SIGNATURE ABILITY
+## Signature Ability
 
 **Patient Shot** Breathe… aim… wait… then strike!
 

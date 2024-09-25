@@ -1,18 +1,18 @@
-# MOUNTAIN
+# Mountain
 
 The Mountain kit does exactly what it says on the tin. You don heavy armor and a heavy weapon to stand strong against your foes, quickly demolishing them when it’s your turn to attack.
 
-## EQUIPMENT
+## Equipment
 
 You wear heavy armor and wield a heavy weapon.
 
-## KIT BONUSES
+## Kit Bonuses
 
 -   Stamina Bonus: +9
 -   Stability Bonus: +2
 -   Melee Weapon Damage Bonus: +0/+0/+4
 
-## SIGNATURE ABILITY
+## Signature Ability
 
 **Pain for Pain** An enemy who tagged you will pay for that.
 

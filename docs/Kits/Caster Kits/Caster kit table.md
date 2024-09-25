@@ -1,4 +1,4 @@
-# CASTER KIT TABLE
+# Caster Kit Table
 
 <table style="width:100%;">
 <colgroup>

@@ -1,4 +1,4 @@
-# PERFORMER
+# Performer
 
 You can sing, act, or dance well enough that people actually pay to see you do it. Imagine that! In defining your career, think about the following questions:
 

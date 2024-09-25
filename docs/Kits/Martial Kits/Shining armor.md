@@ -1,18 +1,18 @@
-# SHINING ARMOR
+# Shining Armor
 
 The Shining Armor kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
 
-## EQUIPMENT
+## Equipment
 
 You wear heavy armor and wield a shield and a medium weapon.
 
-## KIT BONUSES
+## Kit Bonuses
 
 -   Stamina Bonus: +12
 -   Stability Bonus: +1
 -   Melee Weapon Damage Bonus: +2/+2/+2
 
-## SIGNATURE ABILITY
+## Signature Ability
 
 **Protective Attack** The strength of your assault makes it impossible for your foe to ignore you.
 

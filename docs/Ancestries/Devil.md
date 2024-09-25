@@ -1,4 +1,4 @@
-# DEVIL
+# Devil
 
 “Go to hell!”
 
@@ -120,7 +120,7 @@ She blushed in spite of herself and raised her own glass in a toast.
 
 As a devil character, you have the following benefits:
 
-# FIENDISH FEATURES
+# Fiendish Features
 
 When you create a devil character, you have 3 fiend points, which you use to select a number of the following features.
 

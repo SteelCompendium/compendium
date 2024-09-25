@@ -1,4 +1,4 @@
-# ELF, HIGH
+# Elf, High
 
 “Ajax has a kind of crude style, perhaps, but no taste. I have no objection to a villain, you understand. The world is a tale, but a tale is only as good as its villain. And Ajax is so … artless. We deserve a better villain.”
 
@@ -80,14 +80,14 @@ Llyander put their hands on their hips and regarded the children. “Not bad for
 
 As a high elf character, you have the following benefits.
 
-# HIGH ELF GLAMOR
+# High Elf Glamor
 
 A magic glamor makes others perceive you as interesting and engaging, granting you an edge on Presence tests using the Flirt or Persuade skills. This glamor makes you look and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.
 
-# OTHERWORLDLY GRACE
+# Otherworldly Grace
 
 Your elven body and mind can’t be contained for long, and accessing memories is as easy as living in the present for you. You gain an edge on resistance rolls, and on tests that use any skills you have from the lore skill group.
 
-# UNSTOPPABLE MIND
+# Unstoppable Mind
 
 Your mind allows you to maintain your cool in any situation. You can’t be dazed.

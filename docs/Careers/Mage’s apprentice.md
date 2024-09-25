@@ -1,4 +1,4 @@
-# MAGEâ€™S APPRENTICE
+# Mageÿÿÿs Apprentice
 
 For long years, you studied magic under the mentorship of a more experienced mage. In defining your career, think about the following questions:
 
@@ -14,7 +14,7 @@ You gain the following career benefits:
 -   **Renown**: 1
 -   **Title**â€”Hedge Mage: You have the Arcane Trick ability.
 
-# ARCANE TRICK
+# Arcane Trick
 
 You cast an entertaining spell that creates a minor but impressive magical effect.
 
