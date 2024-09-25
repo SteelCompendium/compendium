@@ -10,10 +10,12 @@ update push="true":
 		cd "$dir"
 		echo >&2 "[INFO] Copying compendium markdown to website docs..."
 		cp -R *.md "${compendium_dir}/docs"
+		cp -R Abilities "${compendium_dir}/docs/Abilities"
 		cp -R *.png "${compendium_dir}/docs/Assets"
+		
 		rm "${compendium_dir}/docs/README.md" || true
+		
 		sha="$(git rev-parse --short HEAD)"
-
 		echo >&2 "[INFO] Committing and pushing updates..."
 		cd "$compendium_dir"
 		git add docs/*
