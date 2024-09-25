@@ -12,6 +12,7 @@ theme:
       primary: black
       accent: blue
     logo: Media/favicon.ico
+    favicon: Media/favicon.ico
 
 # Extensions
 markdown_extensions:
