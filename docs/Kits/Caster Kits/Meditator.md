@@ -13,7 +13,7 @@ You wear light armor and wield an implement of bone such as a staff or a skull.
 
 ## Signature Ability: Bountiful Decay
 
-Your curse causes a foe’s flesh to rot off as spores that aid your allies.
+Your curse causes a foe's flesh to rot off as spores that aid your allies.
 
 **Keywords**: Attack, Magic, Ranged
 

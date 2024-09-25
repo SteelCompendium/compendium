@@ -8,7 +8,7 @@ The native ancestry of the Seven Cities of Hell, devils are humanoids with red o
 
 Hell is dominated by the Seven Cities of Hell, each ruled by a different archdevil who constantly plots and schemes against the others in the hope of ascending to the Throne of Hell.
 
-Those devils who join “the trade,” as their civil service is called, spend their days in bureaucratic service, hoping or scheming for promotion. Devils looking for a quick path up the bureaucratic ladder sign up for the Exchange, whereby mortals in the mundane world who perform the right rituals can summon a devil, who bargains with the supplicant on behalf of their archdevil. Archdevils can grant temporary worldly power in exchange for a supplicant’s soul, with the summoned devil acting as the broker.
+Those devils who join “the trade,” as their civil service is called, spend their days in bureaucratic service, hoping or scheming for promotion. Devils looking for a quick path up the bureaucratic ladder sign up for the Exchange, whereby mortals in the mundane world who perform the right rituals can summon a devil, who bargains with the supplicant on behalf of their archdevil. Archdevils can grant temporary worldly power in exchange for a supplicant's soul, with the summoned devil acting as the broker.
 
 On rare occasions, the summoning goes wrong and the supplicant dies before the deal can be struck, stranding the summoned devil on Orden permanently. Some stranded devils seek to return to Hell, but most prefer life in Orden, where the phrase “stabbed in the back by a colleague” is usually a metaphor.
 
@@ -16,21 +16,21 @@ The majority of devils in Orden are not from, nor have ever been to, the Seven C
 
  ON DEVILS
 
-Adelard scuttled across the floor of his basement, a heavy tome clutched in one hand, his index finger marking a page. Occasionally he would stop, open the book, consult a diagram, look at the chalk markings he’d made on the floor, tilt his head, then bend down and refine or rub out an esoteric symbol.
+Adelard scuttled across the floor of his basement, a heavy tome clutched in one hand, his index finger marking a page. Occasionally he would stop, open the book, consult a diagram, look at the chalk markings he'd made on the floor, tilt his head, then bend down and refine or rub out an esoteric symbol.
 
 One of the red candles suddenly guttered out, making the small room noticeably darker. “Damn and blast!” he hissed. Then he relit it from another candle.
 
-Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He’d spent his last coppers on the candles—they weren’t cheap. And he feared the skull might be fake, but did it matter? The book just said *a skull*—it didn’t even specify a human skull! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual know if the skull was real?
+Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the candles—they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said *a skull*—it didn't even specify a human skull! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual know if the skull was real?
 
-He was wittering, putting off the inevitable. He pulled himself together. It was either going to work, or it wasn’t, and wittering wasn’t going to help. He opened the book and turned the page—then began to speak the ritual.
+He was wittering, putting off the inevitable. He pulled himself together. It was either going to work, or it wasn't, and wittering wasn't going to help. He opened the book and turned the page—then began to speak the ritual.
 
 Moments later, the candles flared, there was a burst of flame, and acrid brimstone filled his nostrils. When the smoke cleared… there was a devil standing in his basement—dark purple skin, horns, even a twitching tail.
 
-“Aha! Yes, finally.” It rubbed its hands together. “It’s about time,” the creature said, pulling on the bottom of his waistcoat to straighten it. “Now then! How does it go? Oh, yes.” He cleared his throat. “On behalf of my lord, his grace Archduke Dispater, Lord of Dis, I am empowered to offer you…”
+“Aha! Yes, finally.” It rubbed its hands together. “It's about time,” the creature said, pulling on the bottom of his waistcoat to straighten it. “Now then! How does it go? Oh, yes.” He cleared his throat. “On behalf of my lord, his grace Archduke Dispater, Lord of Dis, I am empowered to offer you…”
 
 But his speech fell on deaf ears.
 
-“It worked!” Adelard said, holding his clenched fists up. “Ahahaha! It worked! Finally, after years! I will have my revenge! Hahaha…!” *cough* *cough* Adelard was suddenly gripped by a coughing fit, but he kept crowing. “Dismiss me from service, will they?! *cough* Old and useless… am I?! I’ll show them!” He coughed again, fighting to breathe now. “I will hex them and torture them until they…”
+“It worked!” Adelard said, holding his clenched fists up. “Ahahaha! It worked! Finally, after years! I will have my revenge! Hahaha…!” *cough* *cough* Adelard was suddenly gripped by a coughing fit, but he kept crowing. “Dismiss me from service, will they?! *cough* Old and useless… am I?! I'll show them!” He coughed again, fighting to breathe now. “I will hex them and torture them until they…”
 
 He stopped cavorting and capering, and his eyes went wide. “Until they… until…” He clutched his chest.
 
@@ -44,7 +44,7 @@ Adelard gasped one last time and uncurled, muscles relaxed. Eyes open but unseei
 
 “…calms me down,” the devil said quietly.
 
-Suddenly, the candles were extinguished as one, plunging the room into pitch-blackness. The devil’s hellsight meant this was only a minor inconvenience for him. “Um,” he said to the empty room. “Uh-oh.”
+Suddenly, the candles were extinguished as one, plunging the room into pitch-blackness. The devil's hellsight meant this was only a minor inconvenience for him. “Um,” he said to the empty room. “Uh-oh.”
 
 He poked the tip of his boot at the chalk symbol surrounding him on the floor. Nothing happened. He stepped on it. Nothing happened. He put his weight on that foot. No alarms went off.
 
@@ -72,11 +72,11 @@ The two of them stood there, frozen in the middle of the street for a few moment
 
 Then the devil turned and ran away as quickly as he could.
 
-“And that’s how I ended up here!” Riyalkin toasted his dinner companion. “Now, after years of obscurity, a legendary hero!”
+“And that's how I ended up here!” Riyalkin toasted his dinner companion. “Now, after years of obscurity, a legendary hero!”
 
 “Legendarily vain,” his dinner guest teased with a smile.
 
-“Simply playing my part, darling. People expect a certain amount of vanity in a troubadour, don’t they?”
+“Simply playing my part, darling. People expect a certain amount of vanity in a troubadour, don't they?”
 
 She laughed. “Riyalkin the Red Pen is every bit as advertised.”
 
@@ -90,7 +90,7 @@ She laughed. “Riyalkin the Red Pen is every bit as advertised.”
 
 “Mostly. Do they speak Caelian in hell?”
 
-“What a good question. Unless it’s very old, the ritual usually grants knowledge of the summoner’s language. I gather in the bad old days, we used to just show up in a cloud of brimstone and gabble at people. I’m sure it was impressive, but what did it achieve? Not very professional, I can tell you that.”
+“What a good question. Unless it's very old, the ritual usually grants knowledge of the summoner's language. I gather in the bad old days, we used to just show up in a cloud of brimstone and gabble at people. I'm sure it was impressive, but what did it achieve? Not very professional, I can tell you that.”
 
 “No cloud of brimstone now?” she teased.
 
@@ -102,11 +102,11 @@ He waggled his eyebrows. “Style counts for something.”
 
 “An accountant!”
 
-Riyalkin shrugged. “It’s what I did before. I’m moderately good at it.”
+Riyalkin shrugged. “It's what I did before. I'm moderately good at it.”
 
 “And how does one go from being an alien accountant to a famous troubadour?”
 
-“Well…” Riyalkin seemed uncomfortable suddenly. “It’s just that… the thing is, accountancy in the Seven Cities is just so much more interesting than it is here. Plotting and scheming, always on the lookout for an assassin, people constantly trying to claw their way up the ladder, usually over your dead body. And I guess I just… missed the excitement.”
+“Well…” Riyalkin seemed uncomfortable suddenly. “It's just that… the thing is, accountancy in the Seven Cities is just so much more interesting than it is here. Plotting and scheming, always on the lookout for an assassin, people constantly trying to claw their way up the ladder, usually over your dead body. And I guess I just… missed the excitement.”
 
 “The excitement of being an accountant.”
 
@@ -132,12 +132,12 @@ When you create a devil character, you have 3 fiend points, which you use to sel
 
 -   **GLOWING EYES (1 FIEND POINT):** Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a triggered action to curse that creature for daring to do you harm. The creature takes 1d10 psychic damage.
 
--   **HELLSIGHT (1 POINT):** Your eyes let you see through the dark, fog, and other types of concealment. You don’t take a bane on attacks against concealed, unhidden creatures.
+-   **HELLSIGHT (1 POINT):** Your eyes let you see through the dark, fog, and other types of concealment. You don't take a bane on attacks against concealed, unhidden creatures.
 
 -   **HORNS (1 FIEND POINT):** Your cherished horns are a hardened representation of your force of will, granting you an edge on Presence resistance rolls.
 
--   **PREHENSILE TAIL (2 FIEND POINTS):** Your prehensile tail allows you to challenge foes on all sides. You can’t be flanked.
+-   **PREHENSILE TAIL (2 FIEND POINTS):** Your prehensile tail allows you to challenge foes on all sides. You can't be flanked.
 
 -   **WINGS (2 FIEND POINTS):** You possess wings powerful enough to take you airborne. As a maneuver, you can switch between walking and flying when you are touching the ground, or vice versa when you are within 1 square of the ground. While flying, your stability drops to 0 and you have damage weakness 5. While using your wings to fly, you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall prone.
 
--   **SILVER TONGUE:** You can twist how your words are perceived to get a better read on people. You gain an edge when attempting to discover an NPC’s motivations and pitfalls during negotiations (see *Negotiation*).
+-   **SILVER TONGUE:** You can twist how your words are perceived to get a better read on people. You gain an edge when attempting to discover an NPC's motivations and pitfalls during negotiations (see *Negotiation*).

@@ -15,7 +15,7 @@ You wear light armor and wield a medium weapon.
 
 ## Signature Ability
 
-**Fancy Footwork** All combat is a dance—and you’ll be the one leading.
+**Fancy Footwork** All combat is a dance—and you'll be the one leading.
 
 **Keywords:** Attack, Melee, Weapon
 

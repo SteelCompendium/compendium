@@ -29,7 +29,7 @@ Visible energy sparks off you to wash across a nearby foe, who you invite to dan
 -   12–16: 7 damage; you swap places with the target
 -   17+: 11 damage; you swap places with the target, and a hero within distance can shift up to 2 squares
 
-**Effect**: If you roll a 12 or better and can’t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage.
+**Effect**: If you roll a 12 or better and can't swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage.
 
 ## Kit Ward: Waltzing Ward
 

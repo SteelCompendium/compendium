@@ -31,4 +31,4 @@ You wear no armor and wield a bow.
 -   12–16: 7 damage
 -   17+: 14 damage
 
-**Effect:** If you don’t take a move action this turn, you gain an edge on this attack.
+**Effect:** If you don't take a move action this turn, you gain an edge on this attack.

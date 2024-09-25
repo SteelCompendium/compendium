@@ -16,29 +16,8 @@ You gain the following career benefits:
 
  SAGE INCITING INCIDENTS
 
-<table style="width:99%;">
-<colgroup>
-<col style="width: 0%" />
-<col style="width: 99%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>d3</th>
-<th>Incident</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1</td>
-<td><strong>Bookish Ideas</strong>: You were always content to live a peaceful life in your library, until you found that one book—the one that told the tale of heroes who had saved the timescape. They didn’t spend their days behind a desk. They made a real difference. It was time for you to do the same.</td>
-</tr>
-<tr class="even">
-<td>2</td>
-<td><strong>Cure the Curse</strong>: You used to think knowledge could fix everything. You were wrong. When someone you loved fell under a curse, the means to cure them couldn’t be found in any of the books you owned. But that wasn’t going to stop you. The answers are out there, and you’ll find them even if you need to face down death to do so.</td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td><strong>Lost Library</strong>: An evil mage took all your books for themselves, cackling at your impotence as they raided your shelves. Now you’re off to search through ancient ruins and secret libraries to rebuild your collection of rare tomes—and to find the mage who stole from you.</td>
-</tr>
-</tbody>
-</table>
+| d3  | Incident                                                                                                                                                                                                                                                                                                                                  |
+|--|----------------------------------------------------------------------|
+| 1   | **Bookish Ideas**: You were always content to live a peaceful life in your library, until you found that one book—the one that told the tale of heroes who had saved the timescape. They didn't spend their days behind a desk. They made a real difference. It was time for you to do the same.                                          |
+| 2   | **Cure the Curse**: You used to think knowledge could fix everything. You were wrong. When someone you loved fell under a curse, the means to cure them couldn't be found in any of the books you owned. But that wasn't going to stop you. The answers are out there, and you'll find them even if you need to face down death to do so. |
+| 3   | **Lost Library**: An evil mage took all your books for themselves, cackling at your impotence as they raided your shelves. Now you're off to search through ancient ruins and secret libraries to rebuild your collection of rare tomes—and to find the mage who stole from you.                                                          |

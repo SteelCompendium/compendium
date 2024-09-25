@@ -31,4 +31,4 @@ You wear no armor and wield only your unarmed strikes.
 -   12–16: 9 damage; you swap places with the target
 -   17+: 12 damage; you swap places with the target, then slide the target 2 squares
 
-**Effect:** If you roll a 12 or better and can’t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage.
+**Effect:** If you roll a 12 or better and can't swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage.

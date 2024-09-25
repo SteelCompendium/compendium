@@ -8,57 +8,15 @@ Failure consequences for tests made with exploration skills include harming your
 
 ## Exploration Skills Table
 
-<table style="width:99%;">
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 85%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Skill</th>
-<th>Use</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Climb</td>
-<td>Move up vertical surfaces</td>
-</tr>
-<tr class="even">
-<td>Drive</td>
-<td>Control vehicles</td>
-</tr>
-<tr class="odd">
-<td>Endurance</td>
-<td>Remain engaged in strenuous activity over a long period</td>
-</tr>
-<tr class="even">
-<td>Gymnastics</td>
-<td>Move across unsteady or narrow surfaces, and tumble</td>
-</tr>
-<tr class="odd">
-<td>Heal</td>
-<td>Use mundane first aid</td>
-</tr>
-<tr class="even">
-<td>Jump</td>
-<td>Leap vertical and horizontal distances</td>
-</tr>
-<tr class="odd">
-<td>Lift</td>
-<td>Pick up, carry, and throw heavy objects</td>
-</tr>
-<tr class="even">
-<td>Navigate</td>
-<td>Read a map and travel without becoming lost</td>
-</tr>
-<tr class="odd">
-<td>Ride</td>
-<td>Ride and control a mount who isn’t sapient, such as a horse</td>
-</tr>
-<tr class="even">
-<td>Swim</td>
-<td>Move through deep liquid</td>
-</tr>
-</tbody>
-</table>
+| Skill      | Use                                                         |
+|------------|-------------------------------------------------------------|
+| Climb      | Move up vertical surfaces                                   |
+| Drive      | Control vehicles                                            |
+| Endurance  | Remain engaged in strenuous activity over a long period     |
+| Gymnastics | Move across unsteady or narrow surfaces, and tumble         |
+| Heal       | Use mundane first aid                                       |
+| Jump       | Leap vertical and horizontal distances                      |
+| Lift       | Pick up, carry, and throw heavy objects                     |
+| Navigate   | Read a map and travel without becoming lost                 |
+| Ride       | Ride and control a mount who isn't sapient, such as a horse |
+| Swim       | Move through deep liquid                                    |

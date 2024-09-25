@@ -22,7 +22,7 @@ It is unseemly. It was better before things started talking.
 
 And having opinions. About our creation. About us!
 
-Oh, I don’t know. I thought I agreed, but then look you what our sibling Ord has made. A fine people, these elementals. They make marvels. Ord made them, and now they make miracles.
+Oh, I don't know. I thought I agreed, but then look you what our sibling Ord has made. A fine people, these elementals. They make marvels. Ord made them, and now they make miracles.
 
 We make marvels. The world is a miracle, and enough.
 
@@ -38,11 +38,11 @@ They should love the forest and green things, like the children of Val. But they
 
 If they excel at war, the terrans will be jealous. They will be in constant conflict with each other.
 
-Perhaps. Yes, I think you’re right. It seems to be the great tragedy of our creation, war. But the constant threat of it will bring wisdom. It will take great wisdom to avoid such conflict, and those possessed of such wisdom will become great leaders.
+Perhaps. Yes, I think you're right. It seems to be the great tragedy of our creation, war. But the constant threat of it will bring wisdom. It will take great wisdom to avoid such conflict, and those possessed of such wisdom will become great leaders.
 
 Would they be lorewise and crafty?
 
-Oh, I would leave that to them. It is not meet that children should be too closely molded by their parents. But you ask, and my mind goes to Ket. They should lack the pride of Ket’s children…
+Oh, I would leave that to them. It is not meet that children should be too closely molded by their parents. But you ask, and my mind goes to Ket. They should lack the pride of Ket's children…
 
 Look where that got him.
 
@@ -54,7 +54,7 @@ And there they are, look at them! Kul, your thoughts made real! Only in the worl
 
 Ah! My children! So fierce and unyielding. I see you lead short lives, like the terrans. Perhaps this is good.
 
-I see they get along well with Ord’s children. I think this a good sign.
+I see they get along well with Ord's children. I think this a good sign.
 
 Already they make homes in the forests by the elves. Some little skirmishing over borders, I note. Nothing serious.
 
@@ -76,7 +76,7 @@ Let me introduce myself, at least.
 
 Ahem.
 
-“Hear me, kanin! This world we made is yours, as much as it is anyone’s. You belong here.
+“Hear me, kanin! This world we made is yours, as much as it is anyone's. You belong here.
 
 “Know that you are my children, the children of Kul, he who put fire within the world. And there is fire in you. And though the world and fate and baser minds may conspire to destroy your light, you will survive. And more than survive, you will thrive. And in thriving, you will conquer!”
 

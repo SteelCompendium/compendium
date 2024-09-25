@@ -32,4 +32,4 @@ Absorbing psychic energy from another creature lets you shield yourself within i
 
 ## Kit Ward: Repulsive Ward
 
-You have an invisible ward of magical force that extends 2 squares from you in all directions. When you or an ally within the area of your ward take damage from another creature’s melee ability, you can push that creature a number of squares equal to your highest characteristic score.
+You have an invisible ward of magical force that extends 2 squares from you in all directions. When you or an ally within the area of your ward take damage from another creature's melee ability, you can push that creature a number of squares equal to your highest characteristic score.

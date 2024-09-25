@@ -15,7 +15,7 @@ You wear no armor and wield only your unarmed strikes.
 
 ## Signature Ability
 
-**Let’s Dance** Keeping your enemies stumbling around the battlefield is second nature to you.
+**Let's Dance** Keeping your enemies stumbling around the battlefield is second nature to you.
 
 **Keywords:** Attack, Melee, Weapon
 
