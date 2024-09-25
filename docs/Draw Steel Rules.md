@@ -541,10 +541,11 @@ A melee weapon free strike is a melee attack made with an unarmed strike or impr
 - **Type:** Action
 - **Distance:** Reach 1
 - **Target:** 1 creature or object
-- **Power Roll + Might or Agility:**
-  - 11 or lower: 2 damage
-  - 12–16: 6 damage
-  - 17+: 9 damage
+
+**Power Roll + Might or Agility:**
+- 11 or lower: 2 damage
+- 12–16: 6 damage
+- 17+: 9 damage
 
 ###### RANGED WEAPON FREE STRIKE
 
@@ -552,10 +553,11 @@ A melee weapon free strike is a melee attack made with an unarmed strike or impr
 - **Type:** Action
 - **Distance:** Ranged 5
 - **Target:** 1 creature or object
-- **Power Roll + Might or Agility:**
-  - 11 or lower: 2 damage
-  - 12–16: 5 damage
-  - 17+: 8 damage
+
+**Power Roll + Might or Agility:**
+- 11 or lower: 2 damage
+- 12–16: 5 damage
+- 17+: 8 damage
 
 See *Free Strikes* for more information on using free strikes, and see *Abilities* for information on the ability format.
 
@@ -978,16 +980,19 @@ The legacy of the Dragon Phalanx lives in you. Choose one of the following benef
 - **DRACONIAN PRIDE:**
   You can use the following ability:
 
-  **DRACONIAN PRIDE**
-  You let loose a mighty roar to repel your foes and shake their spirits.
-  **Keywords:** Area, Magic
-  **Type:** Action
-  **Distance:** 2 burst
-  **Target:** All enemies
-  **Power Roll + Might or Presence:**
-  - 11 or lower: 2 damage; push 1
-  - 12–16: 4 damage; push 3
-  - 17+: 7 damage; push 5; frightened (EoT)
+**DRACONIAN PRIDE**
+
+You let loose a mighty roar to repel your foes and shake their spirits.
+
+**Keywords:** Area, Magic
+**Type:** Action
+**Distance:** 2 burst
+**Target:** All enemies
+
+**Power Roll + Might or Presence:**
+- 11 or lower: 2 damage; push 1
+- 12–16: 4 damage; push 3
+- 17+: 7 damage; push 5; frightened (EoT)
 
   **Effect:** You have a bane on the power roll for this ability when you use it in consecutive rounds of the same encounter.
 
@@ -3551,10 +3556,11 @@ The heavy impact of your weapon attacks drives your foes ever backward.
 - **Type:** Action
 - **Distance:** Reach 1
 - **Target:** 1 creature or object
-- **Power Roll + Might:**
-  - 11 or lower: 3 damage; push 1
-  - 12–16: 8 damage; push 2
-  - 17+: 12 damage; push 4
+
+**Power Roll + Might:**
+- 11 or lower: 3 damage; push 1
+- 12–16: 8 damage; push 2
+- 17+: 12 damage; push 4
 
 ###### HIT AND RUN
 
@@ -3564,10 +3570,11 @@ Keeping in constant motion helps you slip out of reach after a brutal assault.
 - **Type:** Action
 - **Distance:** Reach 1
 - **Target:** 1 creature or object
-- **Power Roll + Might:**
-  - 11 or lower: 3 damage
-  - 12–16: 8 damage
-  - 17+: 12 damage; slowed (EoT)
+
+**Power Roll + Might:**
+- 11 or lower: 3 damage
+- 12–16: 8 damage
+- 17+: 12 damage; slowed (EoT)
 
 **Effect:** You can shift 1 square after the attack is resolved.
 
@@ -3579,10 +3586,11 @@ You hit with a strength that’s worth the risk of raising your opponent’s ire
 - **Type:** Action
 - **Distance:** Reach 1
 - **Target:** 1 creature or object
-- **Power Roll + Might:**
-  - 11 or lower: 3 damage
-  - 12–16: 8 damage
-  - 17+: 12 damage
+
+**Power Roll + Might:**
+- 11 or lower: 3 damage
+- 12–16: 8 damage
+- 17+: 12 damage
 
 **Effect:** You can choose to do an extra 1d6 damage to the target. If you do, the target gains an edge on their next attack against you.
 
@@ -3594,10 +3602,11 @@ Fighting up close lets you keep your foe exactly where you want them.
 - **Type:** Action
 - **Distance:** Reach 1
 - **Target:** 1 creature of your size or smaller
-- **Power Roll + Might:**
-  - 11 or lower: 3 damage; slowed (EoT)
-  - 12–16: 8 damage; grabbed
-  - 17+: 12 damage; grabbed
+
+**Power Roll + Might:**
+- 11 or lower: 3 damage; slowed (EoT)
+- 12–16: 8 damage; grabbed
+- 17+: 12 damage; grabbed
 
 **Effect:** If the target is grabbed, they take a bane on attempts to escape the grab. If you move while you have the target grabbed, they take 1 damage for each square you move.
 
@@ -3617,10 +3626,11 @@ Your enemies will get out of your way—whether they want to or not.
 - **Type:** Action
 - **Distance:** Reach 1
 - **Target:** 1 creature
-- **Power Roll + Might:**
-  - 11 or lower: 3 damage; slide 2
-  - 12–16: 5 damage; slide 3
-  - 17+: 8 damage; slide 5
+
+**Power Roll + Might:**
+- 11 or lower: 3 damage; slide 2
+- 12–16: 5 damage; slide 3
+- 17+: 8 damage; slide 5
 
 **Effect:** When you force move the target, you can move into squares they leave. The target takes the damage from any free strikes you provoke with this movement.
 
@@ -3635,10 +3645,11 @@ When you barrel through your foes, they feel your wrath.
 
 **Effect:** Move up to your speed in a straight line toward a creature or object. You don’t treat enemy creatures as difficult terrain for this move. If the target is a creature, you can end your movement in the target’s square, moving them to an adjacent open square. Make a power roll against the target and every enemy you moved through.
 
-- **Power Roll + Might:**
-  - 11 or lower: 5 damage
-  - 12–16: 6 damage
-  - 17+: 9 damage
+
+**Power Roll + Might:**
+- 11 or lower: 5 damage
+- 12–16: 6 damage
+- 17+: 9 damage
 
 **Effect:** The target takes an extra 1d6 damage for every free strike you triggered from your move.
 
@@ -3650,10 +3661,11 @@ As your foes close in around you, why bother taking them on one by one?
 - **Type:** Action
 - **Distance:** 1 burst
 - **Target:** All enemies
-- **Power Roll + Might:**
-  - 11 or lower: 3 damage
-  - 12–16: 4 damage; push 1
-  - 17+: 7 damage; push 3
+
+**Power Roll + Might:**
+- 11 or lower: 3 damage
+- 12–16: 4 damage; push 1
+- 17+: 7 damage; push 3
 
 ###### YOUR ENTRAILS ARE YOUR EXTRAILS! (3 RAGE)
 
@@ -3663,10 +3675,11 @@ Unless they get some help, your foe is finished.
 - **Type:** Action
 - **Distance:** Reach
 - **Target:** 1 creature or object
-- **Power Roll + Might:**
-  - 11 or lower: 6 damage; slowed (EoT)
-  - 12–16: 9 damage; slowed (EoT)
-  - 17+: 14 damage; slowed (EoE)
+
+**Power Roll + Might:**
+- 11 or lower: 6 damage; slowed (EoT)
+- 12–16: 9 damage; slowed (EoT)
+- 17+: 14 damage; slowed (EoE)
 
 **Effect:** While slowed in this way, the target takes an extra 3 damage at the start of each of your turns.
 
@@ -3682,10 +3695,11 @@ A mighty strike leaves your foe reeling.
 - **Type:** Action
 - **Distance:** Reach 1
 - **Target:** 1 creature or object
-- **Power Roll + Might:**
-  - 11 or lower: 7 damage; weakened and bleeding (EoT)
-  - 12–16: 11 damage; weakened and bleeding (EoT)
-  - 17+: 17 damage; weakened and bleeding (EoE)
+
+**Power Roll + Might:**
+- 11 or lower: 7 damage; weakened and bleeding (EoT)
+- 12–16: 11 damage; weakened and bleeding (EoT)
+- 17+: 17 damage; weakened and bleeding (EoE)
 
 **Effect:** You can choose to deal 1d6 damage to yourself to deal an extra 2d6 damage to the target.
 
@@ -3708,10 +3722,11 @@ You focus your rage into a single devastating strike.
 - **Type:** Action
 - **Distance:** Reach 1
 - **Target:** 1 creature
-- **Power Roll + Might:**
-  - 11 or lower: 9 damage
-  - 12–16: 13 damage
-  - 17+: 21 damage
+
+**Power Roll + Might:**
+- 11 or lower: 9 damage
+- 12–16: 13 damage
+- 17+: 21 damage
 
 **Spend 1 or More Additional Rage:** If you are winded, you can add 1d6 damage for each rage spent. If you are dying, you can add 1d10 damage for each rage spent. In either case, you then lose 1d6 Stamina.
 
@@ -3723,10 +3738,11 @@ The destructive power of nature cannot be contained.
 - **Type:** Action
 - **Distance:** 5 × 1 line within 1
 - **Target:** All enemies
-- **Power Roll + Might:**
-  - 11 or lower: 4 damage; push 2
-  - 12–16: 5 damage; push 4
-  - 17+: 8 damage; push 6
+
+**Power Roll + Might:**
+- 11 or lower: 4 damage; push 2
+- 12–16: 5 damage; push 4
+- 17+: 8 damage; push 6
 
 **Effect:** Targets are pushed one at a time, starting with the target closest to you.
 
@@ -3811,10 +3827,11 @@ Attacks with your sharp and deadly claws send your foes staggering back.
 - **Type:** Action
 - **Distance:** Reach 1
 - **Target:** 2 creatures or objects
-- **Power Roll + Might:**
-  - 11 or lower: 2 damage; push 1
-  - 12–16: 3 damage; push 2
-  - 17+: 8 damage; push 3
+
+**Power Roll + Might:**
+- 11 or lower: 2 damage; push 1
+- 12–16: 3 damage; push 2
+- 17+: 8 damage; push 3
 
 ####### BEAR GROWING RAGE
 
@@ -3859,10 +3876,11 @@ Foes who try to close around you do so at their peril.
 - **Type:** Action
 - **Distance:** Reach 1
 - **Target:** 3 creatures or objects
-- **Power Roll + Agility:**
-  - 11 or lower: 4 damage
-  - 12–16: 5 damage
-  - 17+: 7 damage
+
+**Power Roll + Agility:**
+- 11 or lower: 4 damage
+- 12–16: 5 damage
+- 17+: 7 damage
 
 **Effect:** Resolve each attack individually using one power roll. You can shift 1 square after resolving damage for each target, then choose your next target from your new location.
 
@@ -3909,10 +3927,11 @@ Your enemies try in vain to fall back from your pouncing attack.
 - **Type:** Action
 - **Distance:** Reach 1
 - **Target:** 2 creatures or objects
-- **Power Roll + Agility:**
-  - 11 or lower: 4 damage
-  - 12–16: 5 damage; push 1
-  - 17+: 6 damage; push 2
+
+**Power Roll + Agility:**
+- 11 or lower: 4 damage
+- 12–16: 5 damage; push 1
+- 17+: 6 damage; push 2
 
 **Effect:** Resolve each attack one at a time. After each attack, you can shift the same number of squares that you pushed the target. You select your second target from the square where you end your shift, which can be the first target again.
 
@@ -3959,10 +3978,11 @@ A savage assault forces your foes back.
 - **Type:** Action
 - **Distance:** Reach 1
 - **Target:** 1 creature or object
-- **Power Roll + Might:**
-  - 11 or lower: 5 damage
-  - 12–16: 9 damage; push 1
-  - 17+: 12 damage; push 2; prone if the target is your size or smaller
+
+**Power Roll + Might:**
+- 11 or lower: 5 damage
+- 12–16: 9 damage; push 1
+- 17+: 12 damage; push 2; prone if the target is your size or smaller
 
 **Effect:** You can shift up to 2 squares as long as you end the shift adjacent to the target.
 
@@ -4172,10 +4192,11 @@ Your precise strikes let your allies take advantage of a target’s agony.
 - **Type:** Action
 - **Distance:** Reach 1 or Ranged 3
 - **Target:** 1 creature
-- **Power Roll + Agility:**
-  - 11 or lower: 3 damage
-  - 12–16: 8 damage; the next attack against the target gains an edge
-  - 17+: 12 damage; the target falls prone
+
+**Power Roll + Agility:**
+- 11 or lower: 3 damage
+- 12–16: 8 damage; the next attack against the target gains an edge
+- 17+: 12 damage; the target falls prone
 
 ###### I WORK BETTER ALONE
 
@@ -4185,10 +4206,11 @@ Facing an enemy alone lets you exploit their overconfidence.
 - **Type:** Action
 - **Distance:** Reach 1 or Ranged 3
 - **Target:** 1 creature
-- **Power Roll + Agility:**
-  - 11 or lower: 3 damage
-  - 12–16: 8 damage
-  - 17+: 12 damage
+
+**Power Roll + Agility:**
+- 11 or lower: 3 damage
+- 12–16: 8 damage
+- 17+: 12 damage
 
 **Effect:** If the target has no allies adjacent to them, you gain an edge on the attack.
 
@@ -4200,10 +4222,11 @@ Being fast on your feet makes your ranged attacks especially deadly.
 - **Type:** Action
 - **Distance:** Ranged 5
 - **Target:** 1 creature or object
-- **Power Roll + Agility:**
-  - 11 or lower: 3 damage
-  - 12–16: 7 damage
-  - 17+: 10 damage
+
+**Power Roll + Agility:**
+- 11 or lower: 3 damage
+- 12–16: 7 damage
+- 17+: 10 damage
 
 **Effect:** You can shift 1 square before or after the attack.
 
@@ -4215,10 +4238,11 @@ Keeping an enemy’s focus on you lets your ally hit hard.
 - **Type:** Action
 - **Distance:** Reach 1
 - **Target:** 1 creature
-- **Power Roll + Agility:**
-  - 11 or lower: 3 damage
-  - 12–16: 8 damage
-  - 17+: 12 damage
+
+**Power Roll + Agility:**
+- 11 or lower: 3 damage
+- 12–16: 8 damage
+- 17+: 12 damage
 
 **Effect:** If you are flanking the target when you make this attack, one ally who is flanking with you has a double edge on melee attacks against the target until the end of the ally’s next turn, even if they are no longer flanking the target.
 
@@ -4241,10 +4265,10 @@ As you move across the battlefield, every foe within reach feels your wrath.
 
 **Effect:** You move up to your speed, and that movement doesn’t provoke opportunity attacks. You make one power roll that targets each enemy who becomes adjacent to you during the move.
 
-- **Power Roll + Agility:**
-  - 11 or lower: 3 damage
-  - 12–16: 4 damage
-  - 17+: 7 damage
+**Power Roll + Agility:**
+- 11 or lower: 3 damage
+- 12–16: 4 damage
+- 17+: 7 damage
 
 ###### QUICK PURSUIT (3 INSIGHT)
 
@@ -4254,10 +4278,11 @@ A foe forced away from you might assume they’re out of danger, but they’ll s
 - **Type:** Action
 - **Distance:** Reach 1
 - **Target:** 1 creature
-- **Power Roll + Agility:**
-  - 11 or lower: 6 damage; slide 2
-  - 12–16: 9 damage; slide 3
-  - 17+: 14 damage; slide 5
+
+**Power Roll + Agility:**
+- 11 or lower: 6 damage; slide 2
+- 12–16: 9 damage; slide 3
+- 17+: 14 damage; slide 5
 
 **Effect:** You can shift into squares the target leaves behind when you force move them.
 
@@ -4269,10 +4294,11 @@ Striking two foes at once is second nature to you.
 - **Type:** Action
 - **Distance:** Reach 1 or Ranged 5
 - **Target:** 2 creatures or objects
-- **Power Roll + Agility:**
-  - 11 or lower: 4 damage
-  - 12–16: 6 damage
-  - 17+: 9 damage
+
+**Power Roll + Agility:**
+- 11 or lower: 4 damage
+- 12–16: 6 damage
+- 17+: 9 damage
 
 ###### WOUNDING STRIKE (3 INSIGHT)
 
@@ -4282,10 +4308,11 @@ You leave your foe bleeding out after a devastating attack.
 - **Type:** Action
 - **Distance:** Reach 1 or Ranged 3
 - **Target:** 1 creature
-- **Power Roll + Agility:**
-  - 11 or lower: 6 damage
-  - 12–16: 9 damage; bleeding until a creature uses a maneuver to staunch the wound
-  - 17+: 14 damage; bleeding until a creature uses an action to staunch the wound
+
+**Power Roll + Agility:**
+- 11 or lower: 6 damage
+- 12–16: 9 damage; bleeding until a creature uses a maneuver to staunch the wound
+- 17+: 14 damage; bleeding until a creature uses an action to staunch the wound
 
 **Effect:** While bleeding, the target takes 4 damage at the start of each of your turns.
 
@@ -4301,10 +4328,11 @@ You seize the perfect moment and strike with fatal precision!
 - **Type:** Action
 - **Distance:** Reach 1
 - **Target:** 1 creature
-- **Power Roll + Agility:**
-  - 11 or lower: 2d6 + 8 damage
-  - 12–16: 2d6 + 12 damage
-  - 17+: 2d6 + 18 damage
+
+**Power Roll + Agility:**
+- 11 or lower: 2d6 + 8 damage
+- 12–16: 2d6 + 12 damage
+- 17+: 2d6 + 18 damage
 
 ###### GET IN, GET OUT (5 INSIGHT)
 
@@ -4314,10 +4342,11 @@ Move unexpectedly, strike fast, and be gone!
 - **Type:** Action
 - **Distance:** Reach 1
 - **Target:** 1 creature
-- **Power Roll + Agility:**
-  - 11 or lower: 7 damage
-  - 12–16: 11 damage
-  - 17+: 17 damage
+
+**Power Roll + Agility:**
+- 11 or lower: 7 damage
+- 12–16: 11 damage
+- 17+: 17 damage
 
 **Effect:** You can move up to your speed, and that movement doesn’t provoke opportunity attacks. You can move before or after your attack, or can split your movement before and after your attack.
 
@@ -4329,10 +4358,11 @@ Your attack leaves a foe in the perfect position for your allies to finish them.
 - **Type:** Action
 - **Distance:** Ranged 5
 - **Target:** 1 creature
-- **Power Roll + Agility:**
-  - 11 or lower: 7 damage; attacks against the target gain an edge (EoT)
-  - 12–16: 11 damage; attacks against the target gain an edge (EoT)
-  - 17+: 17 damage; attacks against the target have a double edge (EoT)
+
+**Power Roll + Agility:**
+- 11 or lower: 7 damage; attacks against the target gain an edge (EoT)
+- 12–16: 11 damage; attacks against the target gain an edge (EoT)
+- 17+: 17 damage; attacks against the target have a double edge (EoT)
 
 ###### QUICKNESS (5 INSIGHT)
 
@@ -4574,10 +4604,11 @@ Your precise strike leaves your foe struggling to respond.
 - **Type:** Action
 - **Distance:** Reach or Ranged 5
 - **Target:** 1 creature or object
-- **Power Roll + Might:**
-  - 11 or lower: 6 damage; slowed (EoT)
-  - 12–16: 8 damage; dazed (EoT)
-  - 17+: 13 damage; dazed (EoE)
+
+**Power Roll + Might:**
+- 11 or lower: 6 damage; slowed (EoT)
+- 12–16: 8 damage; dazed (EoT)
+- 17+: 13 damage; dazed (EoE)
 
 ###### INSPIRING STRIKE (3 FOCUS)
 
@@ -4587,10 +4618,11 @@ You hit a foe so hard that it gets your allies back in the fight.
 - **Type:** Action
 - **Distance:** Reach 1 or Ranged 5
 - **Target:** 1 creature or object
-- **Power Roll + Might:**
-  - 11 or lower: 6 damage; you or an ally within 10 can spend a Recovery
-  - 12–16: 8 damage; you or an ally within 10 can spend a Recovery
-  - 17+: 13 damage; you or an ally within 10 can spend a Recovery, and each of you gains an edge on the next attack they make this encounter
+
+**Power Roll + Might:**
+- 11 or lower: 6 damage; you or an ally within 10 can spend a Recovery
+- 12–16: 8 damage; you or an ally within 10 can spend a Recovery
+- 17+: 13 damage; you or an ally within 10 can spend a Recovery, and each of you gains an edge on the next attack they make this encounter
 
 ###### PHALANX FORWARD! (3 FOCUS)
 
@@ -4615,10 +4647,11 @@ Your attack is your allies’ signal to strike!
 - **Type:** Action
 - **Distance:** Reach 1 or Ranged 5
 - **Target:** 1 creature or object
-- **Power Roll + Might:**
-  - 11 or lower: 7 damage; an ally within 10 can make a signature attack against the target as a free triggered action
-  - 12–16: 10 damage; an ally within 10 can make a signature attack with an edge against the target as a free triggered action
-  - 17+: 16 damage; two allies within 10 can each make a signature attack with an edge against the target as a free triggered action
+
+**Power Roll + Might:**
+- 11 or lower: 7 damage; an ally within 10 can make a signature attack against the target as a free triggered action
+- 12–16: 10 damage; an ally within 10 can make a signature attack with an edge against the target as a free triggered action
+- 17+: 16 damage; two allies within 10 can each make a signature attack with an edge against the target as a free triggered action
 
 **Effect:** If an attack is left to be resolved and the target was reduced to 0 Stamina, the attacker can pick a different target.
 
@@ -4641,10 +4674,11 @@ Leaving your foe struggling gives your allies a strategic opening.
 - **Type:** Action
 - **Distance:** Reach 1 or Ranged 5
 - **Target:** 1 creature or object
-- **Power Roll + Might:**
-  - 11 or lower: 7 damage; weakened (EoT)
-  - 12–16: 10 damage; weakened (EoT)
-  - 17+: 16 damage; weakened (EoE)
+
+**Power Roll + Might:**
+- 11 or lower: 7 damage; weakened (EoT)
+- 12–16: 10 damage; weakened (EoT)
+- 17+: 16 damage; weakened (EoE)
 
 **Effect:** The target is marked (EoE). Each of your allies can spend a Recovery the first time they attack any target you’ve marked before the start of your next turn.
 
@@ -6292,10 +6326,10 @@ Resistance rolls are special power rolls made to avoid harmful effects from trap
 
 For example, a hero who activates a fire trap might need to make the following resistance roll:
 
-- **Resistance + Agility**:
-  - 11 or lower: 9 fire damage
-  - 12–16: 6 fire damage
-  - 17+: 2 fire damage
+**Resistance + Agility**:
+- 11 or lower: 9 fire damage
+- 12–16: 6 fire damage
+- 17+: 2 fire damage
 
 ### ADJACENT
 

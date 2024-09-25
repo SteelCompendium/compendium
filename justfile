@@ -1,4 +1,4 @@
-update:
+update push="true":
 	#!/usr/bin/env bash
 	set -euo pipefail
 
@@ -18,6 +18,8 @@ update:
 		cd "$compendium_dir"
 		git add docs/*
 		git commit -am "Updates from compendium ($sha)"
-		git push
+		if [ "{{push}}" == "true" ]; then
+			git push
+		fi
 	)
 	echo >&2 "[INFO] Done!"
