@@ -1,16 +1,16 @@
 ---
-name: "Overwatch"
-type: "Triggered Action"
-source: "Tactician"
-cost: ""
+name: Overwatch
+type: Triggered Action
+source: Tactician
+cost: ''
 ---
 
 # Overwatch
 
 *Under your direction, an ally waits for just the right moment to strike.*
 
-| **Keywords:** Ranged | **Type:** Triggered |
-| :-- | :-- |
+| **Keywords:** Ranged    | **Type:** Triggered |
+| :---------------------- | :------------------ |
 | **Distance:** Ranged 10 | **Target:** 1 enemy |
 
 **Trigger:** The target moves.

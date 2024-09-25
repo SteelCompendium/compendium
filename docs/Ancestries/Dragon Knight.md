@@ -12,7 +12,7 @@ Knighthood was a title carried by every member of that first generation of drago
 
 Then Ajax came.
 
- ON THE DRAGON KNIGHTS
+ON THE DRAGON KNIGHTS
 
 The cloaked figure at the back of the inn stood up. As they did so, their hood slipped down, revealing their head and face. A susurration rippled through the crowd. One man standing near the bar dropped his jaw, followed by his flagon of mead.
 
@@ -112,7 +112,7 @@ The dragon knight looked at the people around him, at the three peasants despera
 
 “Exactly,” Vaantikalisax said. Then he turned and left the inn.
 
- DRAGON KNIGHT BENEFITS
+DRAGON KNIGHT BENEFITS
 
 As a dragon knight character, you have the following benefits:
 
@@ -124,30 +124,26 @@ Your hardened scales grant you immunity 5 to one of the following damage types: 
 
 The legacy of the Dragon Phalanx lives in you. Choose one of the following benefits.
 
--   **DRACONIAN RUSH:** As a maneuver, you can fly in a straight line up to your speed. Until you reach level 6, you must end your turn on a solid surface or fall, then fall [[Prone|prone]].
+- **DRACONIAN RUSH:** As a maneuver, you can fly in a straight line up to your speed. Until you reach level 6, you must end your turn on a solid surface or fall, then fall [[Prone|prone]].
 
--   **DRACONIAN GUARD:** When you or a creature adjacent to you is attacked, you can use a triggered action to swing your wings around and guard against the blow, reducing any damage from the attack by an amount equal to your level + your Victories.
+- **DRACONIAN GUARD:** When you or a creature adjacent to you is attacked, you can use a triggered action to swing your wings around and guard against the blow, reducing any damage from the attack by an amount equal to your level + your Victories.
 
--   **DRACONIAN PRIDE:** You can use the following ability:
+- **DRACONIAN PRIDE:** You can use the following ability:
 
 **DRACONIAN PRIDE**
 
 You let loose a mighty roar to repel your foes and shake their spirits.
 
-**Keywords:** Area, Magic
-
-**Type:** Action
-
-**Distance:** 2 burst
-
-**Target:** All enemies
+| **Keywords:** Area, Magic | **Type:** Action        |
+| ------------------------- | ----------------------- |
+| **Distance:** 2 burst     | **Target:** All enemies |
 
 **Power Roll + Might or Presence:**
 
--   11 or lower: 2 damage; push 1
+- 11 or lower: 2 damage; push 1
 
--   12–16: 4 damage; push 3
+- 12–16: 4 damage; push 3
 
--   17+: 7 damage; push 5; [[Frightened|frightened]] (EoT)
+- 17+: 7 damage; push 5; [[Frightened|frightened]] (EoT)
 
-    **Effect:** You have a bane on the power roll for this ability when you use it in consecutive rounds of the same encounter.
+  **Effect:** You have a bane on the power roll for this ability when you use it in consecutive rounds of the same encounter.

@@ -1,8 +1,8 @@
 ---
-name: "Blade Dance (3 Insight)"
-type: "3-insight Abilities"
-source: "Shadow"
-cost: "3 INSIGHT"
+name: Blade Dance (3 Insight)
+type: 3-insight Abilities
+source: Shadow
+cost: 3 INSIGHT
 ---
 
 # Blade Dance (3 Insight)
@@ -10,8 +10,8 @@ cost: "3 INSIGHT"
 *As you move across the battlefield, every foe within reach feels your wrath.*
 
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action |
-| :-- | :-- |
-| **Distance:** Self | **Target:** Self |
+| :---------------------------------- | :--------------- |
+| **Distance:** Self                  | **Target:** Self |
 
 **Power Roll + Agility**
 

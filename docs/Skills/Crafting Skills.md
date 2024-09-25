@@ -9,7 +9,7 @@ Failure consequences for tests made with crafting skills typically include wasti
 ## Crafting Skills Table
 
 | Skill         | Use                                                |
-|---------------|----------------------------------------------------|
+| ------------- | -------------------------------------------------- |
 | Alchemy       | Make bombs and potions                             |
 | Architecture  | Create buildings and vehicles                      |
 | Blacksmithing | Forge metal armor and weapons                      |

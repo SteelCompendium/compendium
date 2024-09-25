@@ -196,17 +196,17 @@ At the start of each round, if at least one gangplank is still up, a group of tw
 In addition to the Villain Power granted to these villains by their stat blocks, you can spend VP in the following ways at the beginning of any enemy’s turn:
 
 - **Rock the Boat! (5 VP):** Ballista bolts hit the water, causing a wave to hit the boat. All creatures on the Revelation slide 3 squares in a direction of the Director’s choosing.
-    
+
 - **Ballista Shot (7 VP):** The pirate ship fires a ballista bolt at one or more heroes.
-    
-    **Ballista Shot:**
-    
-    - Keywords: Area, Ranged, Resistance
-    - Distance: 3 cube within 50
-    - Target: Each creature in the cube
-    - ✸ ≤11: 5 damage; 3 fire damage
-    - ★ 12–16: 4 damage; 2 fire damage
-    - ✦ 17+: 3 damage; 1 fire damage
+
+  **Ballista Shot:**
+
+  - Keywords: Area, Ranged, Resistance
+  - Distance: 3 cube within 50
+  - Target: Each creature in the cube
+  - ✸ ≤11: 5 damage; 3 fire damage
+  - ★ 12–16: 4 damage; 2 fire damage
+  - ✦ 17+: 3 damage; 1 fire damage
 
 ### VICTORIES
 
@@ -313,6 +313,7 @@ If the heroes totally failed to save the Revelation, there’s no ship to search
 Captain Oriel gives an imploring look at the heroes as the Hawklords move to arrest her. Tell the players that if they wish, they can enter into a negotiation with the Hawklords on her behalf. The full explanation for negotiation is found in the MCDM RPG rules.
 
 **Hawklord Negotiation Stats:**
+
 - Interest: 1
 - Patience: 3
 - Impression: 1
@@ -362,5 +363,8 @@ The heroes can earn the following treasure during the adventure.
 
 This ivory dagger features nine faintly glowing indentations along the blade.
 
-**Keywords:** Light Weapon, Psionic  
+| **Keywords:** Light Weapon, Psionic | **Type:**   |
+| ----------------------------------- | ----------- |
+| **Distance:**                       | **Target:** |
+
 When you use this knife with a weapon ability, the ability deals an extra 3 psychic damage. This extra damage increases by 3 each time you attack the same target during the same encounter, to a maximum of 9.

@@ -1,17 +1,17 @@
 ---
-name: "Death Before Beauty (3 Rage)"
-type: "3-rage Abilities"
-source: "Fury"
-cost: "3 RAGE"
+name: Death Before Beauty (3 Rage)
+type: 3-rage Abilities
+source: Fury
+cost: 3 RAGE
 ---
 
 # Death Before Beauty (3 Rage)
 
 *Your enemies will get out of your way—whether they want to or not.*
 
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action |
-| :-- | :-- |
-| **Distance:** Reach 1 | **Target:** 1 creature |
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
+| :---------------------------------- | :--------------------- |
+| **Distance:** Reach 1               | **Target:** 1 creature |
 
 **Power Roll + Might**
 

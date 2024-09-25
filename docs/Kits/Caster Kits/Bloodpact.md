@@ -8,27 +8,23 @@ You wield an implement of metal, such as a tome or a crown.
 
 ## Kit Bonuses
 
--   Stamina Bonus: +6
--   Magic Damage Bonus: +2/+2/+2
--   Magic Distance Bonus: +5
+- Stamina Bonus: +6
+- Magic Damage Bonus: +2/+2/+2
+- Magic Distance Bonus: +5
 
 ## Signature Ability: Drain
 
 You drain the energy from your target and revitalize your senses.
 
-**Keywords**: Attack, Magic, Melee
-
-**Type**: Action
-
-**Distance**: Reach
-
-**Target**: 1 creature
+| **Keywords:** Attack, Magic, Melee | **Type:** Action       |
+| ---------------------------------- | ---------------------- |
+| **Distance:** Reach                | **Target:** 1 creature |
 
 **Power Roll** + Reason, Intuition, or Presence:
 
--   11 or lower: 5 corruption damage
--   12-16: 10 corruption damage
--   17+: 14 corruption damage; you can spend 1 recovery to regain Stamina
+- 11 or lower: 5 corruption damage
+- 12-16: 10 corruption damage
+- 17+: 14 corruption damage; you can spend 1 recovery to regain Stamina
 
 ## Kit Ward: Blood Ward
 

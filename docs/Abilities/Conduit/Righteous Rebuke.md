@@ -1,17 +1,17 @@
 ---
-name: "Righteous Rebuke (3 Piety)"
-type: "3-piety Abilities"
-source: "Conduit"
-cost: "3 PIETY"
+name: Righteous Rebuke (3 Piety)
+type: 3-piety Abilities
+source: Conduit
+cost: 3 PIETY
 ---
 
 # Righteous Rebuke (3 Piety)
 
 *Divine wrath strikes your foe with lightning that follows them across the battlefield.*
 
-| **Keywords:** Attack, Magic, Ranged | **Type:** Action |
-| :-- | :-- |
-| **Distance:** Ranged 5 | **Target:** 1 creature |
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
+| :---------------------------------- | :--------------------- |
+| **Distance:** Ranged 5              | **Target:** 1 creature |
 
 **Power Roll + Intuition**
 

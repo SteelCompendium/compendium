@@ -1,8 +1,8 @@
 ---
-name: "Divine Disruption"
-type: "Triggered Action"
-source: "Conduit"
-cost: ""
+name: Divine Disruption
+type: Triggered Action
+source: Conduit
+cost: ''
 ---
 
 # Divine Disruption
@@ -10,8 +10,8 @@ cost: ""
 *You sap the strength of an attacking enemy with divine energy.*
 
 | **Keywords:** Magic, Ranged | **Type:** Triggered |
-| :-- | :-- |
-| **Distance:** Ranged 5 | **Target:** 1 enemy |
+| :-------------------------- | :------------------ |
+| **Distance:** Ranged 5      | **Target:** 1 enemy |
 
 **Trigger:** The target makes an attack. You can use this ability after seeing the result of the attack.
 

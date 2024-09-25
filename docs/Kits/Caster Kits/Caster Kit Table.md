@@ -1,7 +1,7 @@
 # Caster Kit Table
 
 | Caster Kits    | Kit Armor | Implement | Stamina | Speed | Stability | Magical Damage | Magic Distance | Area |
-|-----------|--------|--------|------|-----|--------|-----------|-----------|----|
+| -------------- | --------- | --------- | ------- | ----- | --------- | -------------- | -------------- | ---- |
 | [[Bloodpact]]      | None      | Metal     | +6      | —     | —         | +2/+2/+2       | +5             | —    |
 | [[Dancer]]         | None      | Glass     | —       | +2    | —         | +0/+1/+2       | —              | —    |
 | [[Frigid]]         | None      | Crystal   | +3      | —     | —         | —              | +7             | +1   |

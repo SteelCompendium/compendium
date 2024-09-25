@@ -12,7 +12,7 @@ Unlike the necromantic rituals that produce wights and wraiths and zombies, reve
 
 These revenants are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or Capital, where lost souls gather to make a home.
 
- ON REVENANTS
+ON REVENANTS
 
 “I'm telling you, we are being followed.”
 
@@ -76,7 +76,7 @@ Lady Filliamo shrugged. “I'm a knight of the church. Jurisdiction's for the ci
 
 “I deal in steel.”
 
- REVENANT BENEFITS
+REVENANT BENEFITS
 
 As a revenant character, you have the following benefits.
 
@@ -96,16 +96,16 @@ Additionally, you gain the following ability.
 
 A magical sigil you placed on a creature explodes with energy.
 
--   **Keywords**: Attack, Magic, Ranged
--   **Type**: Action
--   **Distance**: Ranged 10
--   **Target**: 1 creature with your sigil
+- **Keywords**: Attack, Magic, Ranged
+- **Type**: Action
+- **Distance**: Ranged 10
+- **Target**: 1 creature with your sigil
 
 **Power Roll** + Reason, Intuition, or Presence:
 
--   11 or lower: 3 damage; slide 1
--   12–16: 7 damage; slide 2
--   17+: 10 damage; slide 3
+- 11 or lower: 3 damage; slide 1
+- 12–16: 7 damage; slide 2
+- 17+: 10 damage; slide 3
 
 **Effect**: The sigil disappears from the creature.
 

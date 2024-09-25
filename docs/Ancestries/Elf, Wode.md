@@ -8,7 +8,7 @@ Children of the sylvan celestials and masters of the elf-haunted forests called 
 
 The wode elves' natural ability to mask their presence, called glamor, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few wode elves who dwell in cities naturally adept at urban warfare.
 
- ON WODE ELVES
+ON WODE ELVES
 
 “I'm scared,” Wenna said. “We should go back.” The forest felt as if it was closing in on them.
 
@@ -90,7 +90,7 @@ Jeremy turned to Dade. “I feel like we're in a dream,” he whispered.
 
 “You are!” their escort called out. “The wode is a dream! With a little luck, one you may soon wake safely from.”
 
- WODE ELF BENEFITS
+WODE ELF BENEFITS
 
 As a wode elf character, you have the following benefits.
 

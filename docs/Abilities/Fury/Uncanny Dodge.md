@@ -1,17 +1,17 @@
 ---
-name: "Uncanny Dodge"
-type: "Triggered Action"
-source: "Fury"
-cost: ""
+name: Uncanny Dodge
+type: Triggered Action
+source: Fury
+cost: ''
 ---
 
 # Uncanny Dodge
 
 *When a damaging effect surrounds you, you stay two steps ahead.*
 
-| **Keywords:** Melee | **Type:** Triggered |
-| :-- | :-- |
-| **Distance:** Reach 1 | **Target:** Self |
+| **Keywords:** Melee   | **Type:** Triggered |
+| :-------------------- | :------------------ |
+| **Distance:** Reach 1 | **Target:** Self    |
 
 **Trigger:** You are targeted by a damaging area of effect.
 

@@ -1,17 +1,17 @@
 ---
-name: "Sucker Slice"
-type: "Signature Ability"
-source: "Shadow"
-cost: ""
+name: Sucker Slice
+type: Signature Ability
+source: Shadow
+cost: ''
 ---
 
 # Sucker Slice
 
 *Keeping an enemy’s focus on you lets your ally hit hard.*
 
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action |
-| :-- | :-- |
-| **Distance:** Reach 1 | **Target:** 1 creature |
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
+| :---------------------------------- | :--------------------- |
+| **Distance:** Reach 1               | **Target:** 1 creature |
 
 **Power Roll + Agility**
 

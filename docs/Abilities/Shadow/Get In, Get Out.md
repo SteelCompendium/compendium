@@ -1,17 +1,17 @@
 ---
-name: "Get In, Get Out (5 Insight)"
-type: "5-insight Abilities"
-source: "Shadow"
-cost: "5 INSIGHT"
+name: Get In, Get Out (5 Insight)
+type: 5-insight Abilities
+source: Shadow
+cost: 5 INSIGHT
 ---
 
 # Get In, Get Out (5 Insight)
 
 *Move unexpectedly, strike fast, and be gone!*
 
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action |
-| :-- | :-- |
-| **Distance:** Reach 1 | **Target:** 1 creature |
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
+| :---------------------------------- | :--------------------- |
+| **Distance:** Reach 1               | **Target:** 1 creature |
 
 **Power Roll + Agility**
 

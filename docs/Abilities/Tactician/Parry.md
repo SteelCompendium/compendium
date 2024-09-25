@@ -1,16 +1,16 @@
 ---
-name: "Parry"
-type: "Triggered Action"
-source: "Tactician"
-cost: ""
+name: Parry
+type: Triggered Action
+source: Tactician
+cost: ''
 ---
 
 # Parry
 
 *Your quick reflexes cost an enemy the precision they seek.*
 
-| **Keywords:** Melee, Weapon | **Type:** Triggered |
-| :-- | :-- |
+| **Keywords:** Melee, Weapon   | **Type:** Triggered        |
+| :---------------------------- | :------------------------- |
 | **Distance:** Self or Reach 1 | **Target:** Self or 1 ally |
 
 **Trigger:** A creature makes a Weapon attack against the target.

@@ -1,17 +1,17 @@
 ---
-name: "Whirlwind Strike (3 Rage)"
-type: "3-rage Abilities"
-source: "Fury"
-cost: "3 RAGE"
+name: Whirlwind Strike (3 Rage)
+type: 3-rage Abilities
+source: Fury
+cost: 3 RAGE
 ---
 
 # Whirlwind Strike (3 Rage)
 
 *As your foes close in around you, why bother taking them on one by one?*
 
-| **Keywords:** Area, Melee, Weapon | **Type:** Action |
-| :-- | :-- |
-| **Distance:** 1 burst | **Target:** All enemies |
+| **Keywords:** Area, Melee, Weapon | **Type:** Action        |
+| :-------------------------------- | :---------------------- |
+| **Distance:** 1 burst             | **Target:** All enemies |
 
 **Power Roll + Might**
 

@@ -1,17 +1,17 @@
 ---
-name: "Open The Earth (5 Essence)"
-type: "5-essence Abilities"
-source: "Elementalist"
-cost: "5 ESSENCE"
+name: Open The Earth (5 Essence)
+type: 5-essence Abilities
+source: Elementalist
+cost: 5 ESSENCE
 ---
 
 # Open The Earth (5 Essence)
 
 *The surface of the world around you opens up at your command.*
 
-| **Keywords:** Magic, Earth, Persistent, Ranged | **Type:** Maneuver |
-| :-- | :-- |
-| **Distance:** Ranged 5 | **Target:** Special |
+| **Keywords:** Magic, Earth, Persistent, Ranged | **Type:** Maneuver  |
+| :--------------------------------------------- | :------------------ |
+| **Distance:** Ranged 5                         | **Target:** Special |
 
 **Power Roll + Reason**
 

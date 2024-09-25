@@ -1,16 +1,16 @@
 ---
-name: "Primordial Shockwave (5 Rage)"
-type: "5-rage Abilities"
-source: "Fury"
-cost: "5 RAGE"
+name: Primordial Shockwave (5 Rage)
+type: 5-rage Abilities
+source: Fury
+cost: 5 RAGE
 ---
 
 # Primordial Shockwave (5 Rage)
 
 *The destructive power of nature cannot be contained.*
 
-| **Keywords:** Area, Melee, Weapon | **Type:** Action |
-| :-- | :-- |
+| **Keywords:** Area, Melee, Weapon | **Type:** Action        |
+| :-------------------------------- | :---------------------- |
 | **Distance:** 5 × 1 line within 1 | **Target:** All enemies |
 
 **Power Roll + Might**

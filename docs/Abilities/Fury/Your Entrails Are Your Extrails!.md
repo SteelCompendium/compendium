@@ -1,17 +1,17 @@
 ---
-name: "Your Entrails Are Your Extrails! (3 Rage)"
-type: "3-rage Abilities"
-source: "Fury"
-cost: "3 RAGE"
+name: Your Entrails Are Your Extrails! (3 Rage)
+type: 3-rage Abilities
+source: Fury
+cost: 3 RAGE
 ---
 
 # Your Entrails Are Your Extrails! (3 Rage)
 
 *Unless they get some help, your foe is finished.*
 
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action |
-| :-- | :-- |
-| **Distance:** Reach | **Target:** 1 creature or object |
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
+| :---------------------------------- | :------------------------------- |
+| **Distance:** Reach                 | **Target:** 1 creature or object |
 
 **Power Roll + Might**
 

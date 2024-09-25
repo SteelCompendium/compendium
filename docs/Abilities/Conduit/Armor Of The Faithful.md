@@ -1,17 +1,17 @@
 ---
-name: "Armor Of The Faithful (5 Piety)"
-type: "5-piety Abilities"
-source: "Conduit"
-cost: "5 PIETY"
+name: Armor Of The Faithful (5 Piety)
+type: 5-piety Abilities
+source: Conduit
+cost: 5 PIETY
 ---
 
 # Armor Of The Faithful (5 Piety)
 
 *The divine light of protection surrounds your allies.*
 
-| **Keywords:** Magic, Ranged | **Type:** Maneuver |
-| :-- | :-- |
-| **Distance:** Ranged 5 | **Target:** 3 allies |
+| **Keywords:** Magic, Ranged | **Type:** Maneuver   |
+| :-------------------------- | :------------------- |
+| **Distance:** Ranged 5      | **Target:** 3 allies |
 
 **Power Roll + Intuition**
 

@@ -6,7 +6,7 @@
 
 “No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin … the dwarves and the orcs as you say. What is it that sets humans apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason.”
 
- ON HUMANS
+ON HUMANS
 
 So, we arrive here at the end of your first semester of Human Culture. I hope to see you next year in the Caelian Empire course, and though it may be hard to believe now, I often see former students' names in our textbooks years later. Perhaps that will be some of you.
 
@@ -46,7 +46,7 @@ But some of your names, I will see written in the stars.
 
 (Professor Cilliarwn did not elaborate on this.)
 
- HUMAN BENEFITS
+HUMAN BENEFITS
 
 As a human character, you have the following benefits:
 

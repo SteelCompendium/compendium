@@ -1,17 +1,17 @@
 ---
-name: "Stare Into The Abyss (3 Essence)"
-type: "3-essence Abilities"
-source: "Elementalist"
-cost: "3 ESSENCE"
+name: Stare Into The Abyss (3 Essence)
+type: 3-essence Abilities
+source: Elementalist
+cost: 3 ESSENCE
 ---
 
 # Stare Into The Abyss (3 Essence)
 
 *You open a rift into the void to harry your enemies.*
 
-| **Keywords:** Area, Magic, Persistent, Ranged, Void | **Type:** Action |
-| :-- | :-- |
-| **Distance:** 4 cube within 5 | **Target:** All enemies |
+| **Keywords:** Area, Magic, Persistent, Ranged, Void | **Type:** Action        |
+| :-------------------------------------------------- | :---------------------- |
+| **Distance:** 4 cube within 5                       | **Target:** All enemies |
 
 **Power Roll + Reason**
 

@@ -1,8 +1,8 @@
 ---
-name: "Misdirection (1 Insight)"
-type: "Triggered Action"
-source: "Shadow"
-cost: "1 INSIGHT"
+name: Misdirection (1 Insight)
+type: Triggered Action
+source: Shadow
+cost: 1 INSIGHT
 ---
 
 # Misdirection (1 Insight)
@@ -10,8 +10,8 @@ cost: "1 INSIGHT"
 *You sow a moment of confusion in combat, to your enemy’s peril.*
 
 | **Keywords:** Magic | **Type:** Triggered |
-| :-- | :-- |
-| **Distance:** Self | **Target:** Self |
+| :------------------ | :------------------ |
+| **Distance:** Self  | **Target:** Self    |
 
 **Trigger:** An enemy attacks you.
 

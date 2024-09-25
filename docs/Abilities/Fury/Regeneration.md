@@ -1,8 +1,8 @@
 ---
-name: "Regeneration"
-type: "Triggered Action"
-source: "Fury"
-cost: ""
+name: Regeneration
+type: Triggered Action
+source: Fury
+cost: ''
 ---
 
 # Regeneration
@@ -10,8 +10,8 @@ cost: ""
 *Your transformative abilities bring you back into the fight.*
 
 | **Keywords:** Melee | **Type:** Triggered |
-| :-- | :-- |
-| **Distance:** Self | **Target:** Self |
+| :------------------ | :------------------ |
+| **Distance:** Self  | **Target:** Self    |
 
 **Trigger:** You lose Stamina and are not dying.
 

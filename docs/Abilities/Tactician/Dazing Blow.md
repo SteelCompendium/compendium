@@ -1,17 +1,17 @@
 ---
-name: "Dazing Blow (3 Focus)"
-type: "3-focus Abilities"
-source: "Tactician"
-cost: "3 FOCUS"
+name: Dazing Blow (3 Focus)
+type: 3-focus Abilities
+source: Tactician
+cost: 3 FOCUS
 ---
 
 # Dazing Blow (3 Focus)
 
 *Your precise strike leaves your foe struggling to respond.*
 
-| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action |
-| :-- | :-- |
-| **Distance:** Reach or Ranged 5 | **Target:** 1 creature or object |
+| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |
+| :------------------------------------------ | :------------------------------- |
+| **Distance:** Reach or Ranged 5             | **Target:** 1 creature or object |
 
 **Power Roll + Might**
 

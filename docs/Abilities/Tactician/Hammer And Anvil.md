@@ -1,17 +1,17 @@
 ---
-name: "Hammer And Anvil (5 Focus)"
-type: "5-focus Abilities"
-source: "Tactician"
-cost: "5 FOCUS"
+name: Hammer And Anvil (5 Focus)
+type: 5-focus Abilities
+source: Tactician
+cost: 5 FOCUS
 ---
 
 # Hammer And Anvil (5 Focus)
 
 *Your attack is your allies’ signal to strike!*
 
-| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action |
-| :-- | :-- |
-| **Distance:** Reach 1 or Ranged 5 | **Target:** 1 creature or object |
+| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |
+| :------------------------------------------ | :------------------------------- |
+| **Distance:** Reach 1 or Ranged 5           | **Target:** 1 creature or object |
 
 **Power Roll + Might**
 

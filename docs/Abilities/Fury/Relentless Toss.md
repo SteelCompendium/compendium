@@ -1,16 +1,16 @@
 ---
-name: "Relentless Toss"
-type: "Triggered Action"
-source: "Fury"
-cost: ""
+name: Relentless Toss
+type: Triggered Action
+source: Fury
+cost: ''
 ---
 
 # Relentless Toss
 
 *The Primordial Chaos allows you to redirect kinetic energy for a monstrous smash!*
 
-| **Keywords:** Magic, Melee | **Type:** Triggered |
-| :-- | :-- |
+| **Keywords:** Magic, Melee  | **Type:** Triggered            |
+| :-------------------------- | :----------------------------- |
 | **Distance:** Self or reach | **Target:** Self or 1 creature |
 
 **Trigger:** The target is force moved.

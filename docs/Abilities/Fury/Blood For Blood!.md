@@ -1,17 +1,17 @@
 ---
-name: "Blood For Blood! (5 Rage)"
-type: "5-rage Abilities"
-source: "Fury"
-cost: "5 RAGE"
+name: Blood For Blood! (5 Rage)
+type: 5-rage Abilities
+source: Fury
+cost: 5 RAGE
 ---
 
 # Blood For Blood! (5 Rage)
 
 *A mighty strike leaves your foe reeling.*
 
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action |
-| :-- | :-- |
-| **Distance:** Reach 1 | **Target:** 1 creature or object |
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
+| :---------------------------------- | :------------------------------- |
+| **Distance:** Reach 1               | **Target:** 1 creature or object |
 
 **Power Roll + Might**
 

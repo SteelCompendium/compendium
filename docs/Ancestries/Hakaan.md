@@ -14,7 +14,7 @@ For this reason, the only hakaan the average [[Human|human]] meets is one trying
 
 Humans in Vanigar have their own word for this concept of a personal fate, “wyrd.” Traditional hakaan sometimes refer to the doomsight as wyrdken.
 
- ON HAKAAN
+ON HAKAAN
 
 “You … you know when you're going to die?”
 
@@ -94,7 +94,7 @@ The Arrow stared, wide-eyed at the Pillar. Even before the young man spoke, the 
 
 “Wasn't over!” the Arrow said, his joy impossible to hide.
 
- HAKAAN BENEFITS
+HAKAAN BENEFITS
 
 As a hakaan character, your size is 1L, and you have the following benefits:
 

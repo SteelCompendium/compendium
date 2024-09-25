@@ -8,27 +8,23 @@ You wield an implement of metal, such as a knife or a scepter.
 
 ## Kit Bonuses
 
--   Speed Bonus: +1
--   Magical Damage Bonus: +1/+1/+1
--   Magic Distance Bonus: +5
+- Speed Bonus: +1
+- Magical Damage Bonus: +1/+1/+1
+- Magic Distance Bonus: +5
 
 ## Signature Ability: Split Beam
 
 Two beams of supernatural force lance out at your command.
 
-**Keywords**: Attack, Magic, Ranged
-
-**Type**: Action
-
-**Distance**: Ranged 10
-
-**Target**: 2 creatures or objects
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action                   |
+| ----------------------------------- | ---------------------------------- |
+| **Distance:** Ranged 10             | **Target:** 2 creatures or objects |
 
 **Power Roll** + Reason, Intuition, or Presence:
 
--   11 or lower: 3 damage
--   12–16: 5 damage
--   17+: 6 damage
+- 11 or lower: 3 damage
+- 12–16: 5 damage
+- 17+: 6 damage
 
 ## Kit Ward: Invigorating Ward
 

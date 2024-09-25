@@ -10,7 +10,7 @@ Each orc has within them a fire that causes their veins to glow once blood is dr
 
 “Be thankful orcs do not hold grudges.”
 
- ON ORCS
+ON ORCS
 
 What a world we have made.
 
@@ -80,7 +80,7 @@ Ahem.
 
 “Know that you are my children, the children of Kul, he who put fire within the world. And there is fire in you. And though the world and fate and baser minds may conspire to destroy your light, you will survive. And more than survive, you will thrive. And in thriving, you will conquer!”
 
- ORC BENEFITS
+ORC BENEFITS
 
 As an orc character, you have the following benefits.
 

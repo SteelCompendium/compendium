@@ -6,7 +6,7 @@ Children of the solar celestials created to tend their libraries and attend to t
 
 In the millennia since their creators retired to Arcadia, the high elves built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshiping art, and turning more inward and distrusting of outsiders with each generation.
 
- ON HIGH ELVES
+ON HIGH ELVES
 
 “They're so beautiful,” Wenna said. “It's hard to imagine we're in danger.”
 
@@ -76,7 +76,7 @@ The king turned back to them. “Should any of you seek hidden lore or deep wisd
 
 Llyander put their hands on their hips and regarded the children. “Not bad for your second quest. What shall you do for an encore?”
 
- HIGH ELF BENEFITS
+HIGH ELF BENEFITS
 
 As a high elf character, you have the following benefits.
 

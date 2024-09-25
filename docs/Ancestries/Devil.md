@@ -14,7 +14,7 @@ On rare occasions, the summoning goes wrong and the supplicant dies before the d
 
 The majority of devils in Orden are not from, nor have ever been to, the Seven Cities. They are descendants of devils who were stranded in the mundane world decades, centuries, even millennia ago.
 
- ON DEVILS
+ON DEVILS
 
 Adelard scuttled across the floor of his basement, a heavy tome clutched in one hand, his index finger marking a page. Occasionally he would stop, open the book, consult a diagram, look at the chalk markings he'd made on the floor, tilt his head, then bend down and refine or rub out an esoteric symbol.
 
@@ -116,7 +116,7 @@ She blushed in spite of herself and raised her own glass in a toast.
 
 “You silver-tongued devil.”
 
- DEVIL BENEFITS
+DEVIL BENEFITS
 
 As a devil character, you have the following benefits:
 
@@ -124,20 +124,20 @@ As a devil character, you have the following benefits:
 
 When you create a devil character, you have 3 fiend points, which you use to select a number of the following features.
 
--   **BARBED TAIL (1 FIEND POINT):** Your pointy tail allows you to punctuate all your actions. Once per round, you can deal 1 extra damage on a melee attack or free strike.
+- **BARBED TAIL (1 FIEND POINT):** Your pointy tail allows you to punctuate all your actions. Once per round, you can deal 1 extra damage on a melee attack or free strike.
 
--   **BEAST LEGS (2 FIEND POINTS):** Your powerful legs improve your speed by 1.
+- **BEAST LEGS (2 FIEND POINTS):** Your powerful legs improve your speed by 1.
 
--   **EXPOSED SKELETON (2 FIEND POINTS):** Your bones are visible and hardened above your skin, granting you Weapon immunity 2.
+- **EXPOSED SKELETON (2 FIEND POINTS):** Your bones are visible and hardened above your skin, granting you Weapon immunity 2.
 
--   **GLOWING EYES (1 FIEND POINT):** Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a triggered action to curse that creature for daring to do you harm. The creature takes 1d10 psychic damage.
+- **GLOWING EYES (1 FIEND POINT):** Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a triggered action to curse that creature for daring to do you harm. The creature takes 1d10 psychic damage.
 
--   **HELLSIGHT (1 POINT):** Your eyes let you see through the dark, fog, and other types of concealment. You don't take a bane on attacks against concealed, unhidden creatures.
+- **HELLSIGHT (1 POINT):** Your eyes let you see through the dark, fog, and other types of concealment. You don't take a bane on attacks against concealed, unhidden creatures.
 
--   **HORNS (1 FIEND POINT):** Your cherished horns are a hardened representation of your force of will, granting you an edge on Presence resistance rolls.
+- **HORNS (1 FIEND POINT):** Your cherished horns are a hardened representation of your force of will, granting you an edge on Presence resistance rolls.
 
--   **PREHENSILE TAIL (2 FIEND POINTS):** Your prehensile tail allows you to challenge foes on all sides. You can't be flanked.
+- **PREHENSILE TAIL (2 FIEND POINTS):** Your prehensile tail allows you to challenge foes on all sides. You can't be flanked.
 
--   **WINGS (2 FIEND POINTS):** You possess wings powerful enough to take you airborne. As a maneuver, you can switch between walking and flying when you are touching the ground, or vice versa when you are within 1 square of the ground. While flying, your stability drops to 0 and you have damage weakness 5. While using your wings to fly, you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall [[Prone|prone]].
+- **WINGS (2 FIEND POINTS):** You possess wings powerful enough to take you airborne. As a maneuver, you can switch between walking and flying when you are touching the ground, or vice versa when you are within 1 square of the ground. While flying, your stability drops to 0 and you have damage weakness 5. While using your wings to fly, you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall [[Prone|prone]].
 
--   **SILVER TONGUE:** You can twist how your words are perceived to get a better read on people. You gain an edge when attempting to discover an NPC's motivations and pitfalls during negotiations (see *Negotiation*).
+- **SILVER TONGUE:** You can twist how your words are perceived to get a better read on people. You gain an edge when attempting to discover an NPC's motivations and pitfalls during negotiations (see *Negotiation*).

@@ -1,17 +1,17 @@
 ---
-name: "Impairing Shot (5 Insight)"
-type: "5-insight Abilities"
-source: "Shadow"
-cost: "5 INSIGHT"
+name: Impairing Shot (5 Insight)
+type: 5-insight Abilities
+source: Shadow
+cost: 5 INSIGHT
 ---
 
 # Impairing Shot (5 Insight)
 
 *Your attack leaves a foe in the perfect position for your allies to finish them.*
 
-| **Keywords:** Attack, Ranged, Weapon | **Type:** Action |
-| :-- | :-- |
-| **Distance:** Ranged 5 | **Target:** 1 creature |
+| **Keywords:** Attack, Ranged, Weapon | **Type:** Action       |
+| :----------------------------------- | :--------------------- |
+| **Distance:** Ranged 5               | **Target:** 1 creature |
 
 **Power Roll + Agility**
 

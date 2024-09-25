@@ -9,7 +9,7 @@ Failure consequences for tests made with interpersonal skills include making the
 ## Interpersonal Skills Table
 
 | Skill          | Use                                                                     |
-|-------------|-----------------------------------------------------------|
+| -------------- | ----------------------------------------------------------------------- |
 | Brag           | Impress others with stories of your deeds                               |
 | Empathize      | Relate to someone on a personal level                                   |
 | Flirt          | Attract romantic attention from someone                                 |

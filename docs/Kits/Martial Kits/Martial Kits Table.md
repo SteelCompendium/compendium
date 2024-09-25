@@ -1,7 +1,7 @@
 # Martial Kits Table
 
 | Kit              | Armor          | Weapon             | Stamina | Speed | Stability | Melee Damage | Ranged Damage | Weapon Distance | Reach | Mobility |
-|---------|--------|----------|-----|----|------|-------|--------|---------|----|-----|
+| ---------------- | -------------- | ------------------ | ------- | ----- | --------- | ------------ | ------------- | --------------- | ----- | -------- |
 | [[Cloak And Dagger|Cloak and Dagger]] | Light          | Light              | +3      | +2    | —         | +1/+1/+1     | +1/+1/+1      | +5              | —     | Yes      |
 | [[Guisarmier]]       | Medium         | Polearm            | +6      | —     | +1        | +2/+2/+2     | —             | —               | +1    | —        |
 | [[Martial Artist]]   | None           | Unarmed Strike     | +3      | +3    | —         | +2/+2/+2     | —             | —               | —     | Yes      |

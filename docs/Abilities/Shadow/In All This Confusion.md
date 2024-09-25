@@ -1,8 +1,8 @@
 ---
-name: "In All This Confusion"
-type: "Triggered Action"
-source: "Shadow"
-cost: ""
+name: In All This Confusion
+type: Triggered Action
+source: Shadow
+cost: ''
 ---
 
 # In All This Confusion
@@ -10,8 +10,8 @@ cost: ""
 *You teleport away in a plume of black smoke to avoid danger.*
 
 | **Keywords:** Magic | **Type:** Triggered |
-| :-- | :-- |
-| **Distance:** Self | **Target:** Self |
+| :------------------ | :------------------ |
+| **Distance:** Self  | **Target:** Self    |
 
 **Trigger:** You take damage.
 

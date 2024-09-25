@@ -8,31 +8,27 @@ You wield an implement of crystal, such as a staff or a wand.
 
 ## Kit Bonuses
 
--   Stamina Bonus: +3
--   Magic Distance Bonus: +7
--   Magic Area Bonus: +1
+- Stamina Bonus: +3
+- Magic Distance Bonus: +7
+- Magic Area Bonus: +1
 
 ## Signature Ability: Frozen Explosion
 
 You unleash a blast of frigid air to freeze and hinder your foes.
 
-**Keywords**: Area, Magic, Ranged
-
-**Type**: Action
-
-**Distance**: 3 cube within 12
-
-**Target**: All enemies
+| **Keywords:** Area, Magic, Ranged | **Type:** Action        |
+| --------------------------------- | ----------------------- |
+| **Distance:** 3 cube within 12    | **Target:** All enemies |
 
 **Power Roll** + Reason, Intuition, or Presence:
 
--   11 or lower: 2 cold damage
--   12–16: 3 cold damage; [[Slowed|slowed]] (EoT)
--   17+: 4 cold damage; [[Slowed|slowed]] (EoE)
+- 11 or lower: 2 cold damage
+- 12–16: 3 cold damage; [[Slowed|slowed]] (EoT)
+- 17+: 4 cold damage; [[Slowed|slowed]] (EoE)
 
 ## Kit Ward: Ice Armor
 
 Your ward covers your body in ice, and grants you the following benefits:
 
--   You have cold immunity and fire immunity equal to your highest characteristic score.
--   When a creature damages you with a melee ability, they take cold damage equal to your highest characteristic score.
+- You have cold immunity and fire immunity equal to your highest characteristic score.
+- When a creature damages you with a melee ability, they take cold damage equal to your highest characteristic score.

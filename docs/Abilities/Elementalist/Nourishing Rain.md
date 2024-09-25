@@ -1,17 +1,17 @@
 ---
-name: "Nourishing Rain (5 Essence)"
-type: "5-essence Abilities"
-source: "Elementalist"
-cost: "5 ESSENCE"
+name: Nourishing Rain (5 Essence)
+type: 5-essence Abilities
+source: Elementalist
+cost: 5 ESSENCE
 ---
 
 # Nourishing Rain (5 Essence)
 
 *You call down a rain that burns your enemies and restores your allies.*
 
-| **Keywords:** Area, Green, Magic | **Type:** Action |
-| :-- | :-- |
-| **Distance:** 5 burst | **Target:** All enemies |
+| **Keywords:** Area, Green, Magic | **Type:** Action        |
+| :------------------------------- | :---------------------- |
+| **Distance:** 5 burst            | **Target:** All enemies |
 
 **Power Roll + Reason**
 

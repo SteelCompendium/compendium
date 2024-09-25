@@ -9,7 +9,7 @@ Failure consequences for tests made with lore skills typically include learning 
 ## Lore Skills Table
 
 | Skill               | Use                                                                                        |
-|-------------|----------------------------------------------------------|
+| ------------------- | ------------------------------------------------------------------------------------------ |
 | Culture             | Knowing about a culture's customs, folktales, and taboos                                   |
 | Criminal Underworld | Knowing about criminal organizations, their crimes, their relationships, and their leaders |
 | History             | Knowing about significant past events                                                      |

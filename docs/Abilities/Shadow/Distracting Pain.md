@@ -1,17 +1,17 @@
 ---
-name: "Distracting Pain"
-type: "Signature Ability"
-source: "Shadow"
-cost: ""
+name: Distracting Pain
+type: Signature Ability
+source: Shadow
+cost: ''
 ---
 
 # Distracting Pain
 
 *Your precise strikes let your allies take advantage of a target’s agony.*
 
-| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action |
-| :-- | :-- |
-| **Distance:** Reach 1 or Ranged 3 | **Target:** 1 creature |
+| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
+| :------------------------------------------ | :--------------------- |
+| **Distance:** Reach 1 or Ranged 3           | **Target:** 1 creature |
 
 **Power Roll + Agility**
 

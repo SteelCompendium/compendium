@@ -9,7 +9,7 @@ Failure consequences for tests made with exploration skills include harming your
 ## Exploration Skills Table
 
 | Skill      | Use                                                         |
-|------------|-------------------------------------------------------------|
+| ---------- | ----------------------------------------------------------- |
 | Climb      | Move up vertical surfaces                                   |
 | Drive      | Control vehicles                                            |
 | Endurance  | Remain engaged in strenuous activity over a long period     |

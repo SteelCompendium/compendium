@@ -1,17 +1,17 @@
 ---
-name: "Sacrificial Offer"
-type: "Signature Ability"
-source: "Conduit"
-cost: ""
+name: Sacrificial Offer
+type: Signature Ability
+source: Conduit
+cost: ''
 ---
 
 # Sacrificial Offer
 
 *The divine energy of creation tears at your foe.*
 
-| **Keywords:** Attack, Magic, Ranged | **Type:** Action |
-| :-- | :-- |
-| **Distance:** Ranged 5 | **Target:** 1 creature |
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
+| :---------------------------------- | :--------------------- |
+| **Distance:** Ranged 5              | **Target:** 1 creature |
 
 **Power Roll + Intuition**
 

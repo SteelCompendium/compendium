@@ -1,17 +1,17 @@
 ---
-name: "Defensive Roll"
-type: "Triggered Action"
-source: "Shadow"
-cost: ""
+name: Defensive Roll
+type: Triggered Action
+source: Shadow
+cost: ''
 ---
 
 # Defensive Roll
 
 *When an enemy attacks, you roll with the impact to reduce the harm.*
 
-| **Keywords:** — | **Type:** Triggered |
-| :-- | :-- |
-| **Distance:** Self | **Target:** Self |
+| **Keywords:** —    | **Type:** Triggered |
+| :----------------- | :------------------ |
+| **Distance:** Self | **Target:** Self    |
 
 **Trigger:** Another creature damages you.
 

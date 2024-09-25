@@ -8,9 +8,9 @@ Possessed of a strength that belies their size, dwarves have flesh infused with 
 
 Dwarves are the children of the elder god Ord, and a common phrase among dwarves is “Ord made the world”—their way of saying, “What will be, will be.” They take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many dwarves leave their homes to see the world and seek glory in Ord's name.
 
- ON DWARVES
+ON DWARVES
 
-There's nothing a team of dwarves can't do! Five dwarves alone can easily kill a dragon. Ten dragons\!<a href="#fn1" id="fnref1" class="footnote-ref" role="doc-noteref"><sup>1</sup></a> Why, Vorka the Fell-Handed alone slew five dragons at the Siege of Var Loska before succumbing to her wounds. One dwarf! Think what a small, dedicated party of dwarves could do!
+There's nothing a team of dwarves can't do! Five dwarves alone can easily kill a dragon. Ten dragons!<a href="#fn1" id="fnref1" class="footnote-ref" role="doc-noteref"><sup>1</sup></a> Why, Vorka the Fell-Handed alone slew five dragons at the Siege of Var Loska before succumbing to her wounds. One dwarf! Think what a small, dedicated party of dwarves could do!
 
 There aren't many of the great dragons left, alas, so we must … I mean, dwarves must content themselves with fighting lesser evils. Necromancers, tyrants. Folks who cheat at dice.
 
@@ -36,7 +36,7 @@ None of us ask to come into this world, and apart from the [[Hakaan]], none of u
 
 You are young yet, but already those who work evil deeds should fear you. You are a dwarf. You have a great destiny ahead.
 
- DWARF BENEFITS
+DWARF BENEFITS
 
 As a dwarf character, you have the following benefits:
 
@@ -48,9 +48,9 @@ Your heavy stone body and connection to the earth makes it difficult for others 
 
 You can carve a magic rune onto your skin. The rune you carve determines the benefit you receive. You can change or remove this rune with 10 minutes of work while not engaged in combat.
 
--   **Detection:** Pick a specific type of creature, such as “goblins” or “humans” or an object, such as “magic swords” or “potions.” Your rune glows softly when you are within 20 squares of a chosen creature or object, regardless of line of effect. You can change the type of creature as a maneuver.
--   **Light:** Your skin sheds light for 10 squares. You can turn this on and off as a maneuver.
--   **Voice:** As a maneuver, you can communicate telepathically with another willing creature you have met before whose name you name, who can speak and understand a language you know, and is within 1 mile of you. You and the creature can respond to one another as if having a normal conversation. You can change the person you communicate with by changing the rune.
+- **Detection:** Pick a specific type of creature, such as “goblins” or “humans” or an object, such as “magic swords” or “potions.” Your rune glows softly when you are within 20 squares of a chosen creature or object, regardless of line of effect. You can change the type of creature as a maneuver.
+- **Light:** Your skin sheds light for 10 squares. You can turn this on and off as a maneuver.
+- **Voice:** As a maneuver, you can communicate telepathically with another willing creature you have met before whose name you name, who can speak and understand a language you know, and is within 1 mile of you. You and the creature can respond to one another as if having a normal conversation. You can change the person you communicate with by changing the rune.
 
 # Spark Off Your Skin
 

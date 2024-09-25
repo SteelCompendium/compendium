@@ -1,8 +1,8 @@
 ---
-name: "Stab Me So I Can Pull Myself Closer To You (3 Rage)"
-type: "3-rage Abilities"
-source: "Fury"
-cost: "3 RAGE"
+name: Stab Me So I Can Pull Myself Closer To You (3 Rage)
+type: 3-rage Abilities
+source: Fury
+cost: 3 RAGE
 ---
 
 # Stab Me So I Can Pull Myself Closer To You (3 Rage)
@@ -10,8 +10,8 @@ cost: "3 RAGE"
 *When you barrel through your foes, they feel your wrath.*
 
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action |
-| :-- | :-- |
-| **Distance:** Self | **Target:** Self |
+| :---------------------------------- | :--------------- |
+| **Distance:** Self                  | **Target:** Self |
 
 **Power Roll + Might**
 

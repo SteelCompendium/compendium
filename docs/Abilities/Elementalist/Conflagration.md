@@ -1,17 +1,17 @@
 ---
-name: "Conflagration (5 Essence)"
-type: "5-essence Abilities"
-source: "Elementalist"
-cost: "5 ESSENCE"
+name: Conflagration (5 Essence)
+type: 5-essence Abilities
+source: Elementalist
+cost: 5 ESSENCE
 ---
 
 # Conflagration (5 Essence)
 
 *A storm of fire descends upon your enemies.*
 
-| **Keywords:** Area, Fire, Magic, Persistent, Ranged | **Type:** Action |
-| :-- | :-- |
-| **Distance:** 4 cube within 5 | **Target:** All enemies |
+| **Keywords:** Area, Fire, Magic, Persistent, Ranged | **Type:** Action        |
+| :-------------------------------------------------- | :---------------------- |
+| **Distance:** 4 cube within 5                       | **Target:** All enemies |
 
 **Power Roll + Reason**
 

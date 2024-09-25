@@ -1,17 +1,17 @@
 ---
-name: "Debris"
-type: "Signature Ability"
-source: "Elementalist"
-cost: ""
+name: Debris
+type: Signature Ability
+source: Elementalist
+cost: ''
 ---
 
 # Debris
 
 *A sudden storm of detritus assaults your foes and leaves them struggling to move.*
 
-| **Keywords:** Area, Earth, Magic, Ranged | **Type:** Action |
-| :-- | :-- |
-| **Distance:** 3 cube within 5 | **Target:** All enemies |
+| **Keywords:** Area, Earth, Magic, Ranged | **Type:** Action        |
+| :--------------------------------------- | :---------------------- |
+| **Distance:** 3 cube within 5            | **Target:** All enemies |
 
 **Power Roll + Reason**
 

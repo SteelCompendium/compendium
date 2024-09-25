@@ -1,17 +1,17 @@
 ---
-name: "Shot And Step"
-type: "Signature Ability"
-source: "Shadow"
-cost: ""
+name: Shot And Step
+type: Signature Ability
+source: Shadow
+cost: ''
 ---
 
 # Shot And Step
 
 *Being fast on your feet makes your ranged attacks especially deadly.*
 
-| **Keywords:** Attack, Ranged, Weapon | **Type:** Action |
-| :-- | :-- |
-| **Distance:** Ranged 5 | **Target:** 1 creature or object |
+| **Keywords:** Attack, Ranged, Weapon | **Type:** Action                 |
+| :----------------------------------- | :------------------------------- |
+| **Distance:** Ranged 5               | **Target:** 1 creature or object |
 
 **Power Roll + Agility**
 

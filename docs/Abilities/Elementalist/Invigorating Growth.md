@@ -1,17 +1,17 @@
 ---
-name: "Invigorating Growth (3 Essence)"
-type: "3-essence Abilities"
-source: "Elementalist"
-cost: "3 ESSENCE"
+name: Invigorating Growth (3 Essence)
+type: 3-essence Abilities
+source: Elementalist
+cost: 3 ESSENCE
 ---
 
 # Invigorating Growth (3 Essence)
 
 *Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
 
-| **Keywords:** Attack, Green, Magic, Ranged | **Type:** Action |
-| :-- | :-- |
-| **Distance:** Ranged 5 | **Target:** 1 creature |
+| **Keywords:** Attack, Green, Magic, Ranged | **Type:** Action       |
+| :----------------------------------------- | :--------------------- |
+| **Distance:** Ranged 5                     | **Target:** 1 creature |
 
 **Power Roll + Reason**
 

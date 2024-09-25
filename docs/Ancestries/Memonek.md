@@ -10,7 +10,7 @@ The native denizens of Axiom, the Plane of Uttermost Law, memonek dwell in a lan
 
 The minds of memonek are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Orden where law and chaos mix, a sickness comes over them—an uncontrollable sensation called … emotion.
 
- ON MEMONEK
+ON MEMONEK
 
 “You want to tell me what just happened?” Sir John asked.
 
@@ -80,14 +80,14 @@ Sir John and Count Revile, both tacticians, stood together on the bloody battlef
 
 John laughed and put his arm around his friend as they headed back to the party. “Funny. The world-sickness sounds a lot like me.”
 
- MEMONEK BENEFITS
+MEMONEK BENEFITS
 
 As a memonek character, you have the following benefits:
 
- LIGHTWEIGHT
+LIGHTWEIGHT
 
 Your silicone body is aerodynamic and low in density. Your speed is 7, and whenever you fall, you reduce the distance of the fall by 2 squares. Additionally, your stability decreases by 2 to a minimum of 0. When you are force moved, you are force moved an additional 2 squares.
 
- KEEPER OF ORDER
+KEEPER OF ORDER
 
 When you or a creature adjacent to you makes a power roll, you can remove an edge or a bane on the roll as a free triggered action. You can only use this benefit once per round.

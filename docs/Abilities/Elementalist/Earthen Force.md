@@ -1,17 +1,17 @@
 ---
-name: "Earthen Force"
-type: "Triggered Action"
-source: "Elementalist"
-cost: ""
+name: Earthen Force
+type: Triggered Action
+source: Elementalist
+cost: ''
 ---
 
 # Earthen Force
 
 *You imbue an attack with the strength of stone.*
 
-| **Keywords:** Earth, Magic, Ranged | **Type:** Triggered |
-| :-- | :-- |
-| **Distance:** Ranged 5 | **Target:** Self or 1 ally |
+| **Keywords:** Earth, Magic, Ranged | **Type:** Triggered        |
+| :--------------------------------- | :------------------------- |
+| **Distance:** Ranged 5             | **Target:** Self or 1 ally |
 
 **Trigger:** The target makes a melee attack.
 

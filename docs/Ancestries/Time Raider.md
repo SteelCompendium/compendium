@@ -12,7 +12,7 @@ Extraordinarily rare in Orden, the time raiders thrive on the Sea of Stars, the 
 
 In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. Time raiders also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
 
- ON TIME RAIDERS
+ON TIME RAIDERS
 
 “You will tell me the location of the ship you came here in.”
 
@@ -102,7 +102,7 @@ John hadn't hesitated, he'd already drawn his sword.
 
 ***“Draw steel!”***
 
- TIME RAIDER BENEFITS
+TIME RAIDER BENEFITS
 
 As a time raider character, you have the following benefits.
 

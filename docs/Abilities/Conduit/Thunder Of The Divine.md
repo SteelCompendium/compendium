@@ -1,17 +1,17 @@
 ---
-name: "Thunder Of The Divine (3 Piety)"
-type: "3-piety Abilities"
-source: "Conduit"
-cost: "3 PIETY"
+name: Thunder Of The Divine (3 Piety)
+type: 3-piety Abilities
+source: Conduit
+cost: 3 PIETY
 ---
 
 # Thunder Of The Divine (3 Piety)
 
 *A resounding clap of thunder disrupts your foes.*
 
-| **Keywords:** Area, Magic, Ranged | **Type:** Action |
-| :-- | :-- |
-| **Distance:** 4 cube within 5 | **Target:** All enemies |
+| **Keywords:** Area, Magic, Ranged | **Type:** Action        |
+| :-------------------------------- | :---------------------- |
+| **Distance:** 4 cube within 5     | **Target:** All enemies |
 
 **Power Roll + Intuition**
 

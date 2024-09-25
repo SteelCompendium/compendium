@@ -6,7 +6,7 @@ After humans, polders are the most numerous and diverse ancestry in Orden. They 
 
 Short creatures averaging three-and-a-half feet tall, polders have obscure origins. They are a young species who, like humans, have no single patron god. Their natural ability to blend in with shadows makes them excellent spies and thieves. However, many polders consider this stereotype a base slander, pointing out that they're also famed as chefs—though polders can be found in virtually every profession, especially in cities.
 
- ON POLDERS
+ON POLDERS
 
 The three peasants—Jago, his wife Sarah, and his sister Beth—sat together watching the three heroes talk in the crowded common room of the inn. Well, Jackson Bootblack seemed to be doing most of the talking.
 
@@ -128,7 +128,7 @@ The knight stared at them for a moment, then turned back to his friend.
 
 “Maybe you're right,” the [[Dragon Knight|dragon knight]] said.
 
- POLDER BENEFITS
+POLDER BENEFITS
 
 As a polder character, your size is 1S and you have the following benefits.
 
@@ -140,13 +140,13 @@ When you start your turn while no creatures have line of effect to you, or while
 
 You gain the following ability:
 
- SHADOWMELD
+SHADOWMELD
 
 You become an actual shadow.
 
--   **Keywords**: Magic
--   **Type**: Maneuver
--   **Distance**: Self
--   **Target**: Self
+- **Keywords**: Magic
+- **Type**: Maneuver
+- **Distance**: Self
+- **Target**: Self
 
 **Effect**: You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, attacks against you and tests made to find you take a bane, and you can't move or take actions or maneuvers except to exit this form. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.

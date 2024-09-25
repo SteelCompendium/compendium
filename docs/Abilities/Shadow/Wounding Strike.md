@@ -1,17 +1,17 @@
 ---
-name: "Wounding Strike (3 Insight)"
-type: "3-insight Abilities"
-source: "Shadow"
-cost: "3 INSIGHT"
+name: Wounding Strike (3 Insight)
+type: 3-insight Abilities
+source: Shadow
+cost: 3 INSIGHT
 ---
 
 # Wounding Strike (3 Insight)
 
 *You leave your foe [[Bleeding|bleeding]] out after a devastating attack.*
 
-| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action |
-| :-- | :-- |
-| **Distance:** Reach 1 or Ranged 3 | **Target:** 1 creature |
+| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
+| :------------------------------------------ | :--------------------- |
+| **Distance:** Reach 1 or Ranged 3           | **Target:** 1 creature |
 
 **Power Roll + Agility**
 

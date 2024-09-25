@@ -8,24 +8,20 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 ## Kit Bonuses
 
--   Stamina Bonus: +12
--   Stability Bonus: +1
--   Melee Weapon Damage Bonus: +2/+2/+2
+- Stamina Bonus: +12
+- Stability Bonus: +1
+- Melee Weapon Damage Bonus: +2/+2/+2
 
 ## Signature Ability
 
 **Protective Attack** The strength of your assault makes it impossible for your foe to ignore you.
 
-**Keywords:** Attack, Melee, Weapon
-
-**Type:** Action
-
-**Distance:** Reach 1
-
-**Target:** 1 creature
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
+| ----------------------------------- | ---------------------- |
+| **Distance:** Reach 1               | **Target:** 1 creature |
 
 **Power Roll + Might or Agility:**
 
--   11 or lower: 5 damage; [[Taunted|taunted]] (EoT)
--   12–16: 9 damage; [[Taunted|taunted]] (EoT)
--   17+: 12 damage; [[Taunted|taunted]] (EoT)
+- 11 or lower: 5 damage; [[Taunted|taunted]] (EoT)
+- 12–16: 9 damage; [[Taunted|taunted]] (EoT)
+- 17+: 12 damage; [[Taunted|taunted]] (EoT)

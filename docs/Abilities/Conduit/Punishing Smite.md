@@ -1,17 +1,17 @@
 ---
-name: "Punishing Smite (3 Piety)"
-type: "3-piety Abilities"
-source: "Conduit"
-cost: "3 PIETY"
+name: Punishing Smite (3 Piety)
+type: 3-piety Abilities
+source: Conduit
+cost: 3 PIETY
 ---
 
 # Punishing Smite (3 Piety)
 
 *Your divine fury is a hammer that crashes down upon the unrighteous.*
 
-| **Keywords:** Attack, Magic, Ranged | **Type:** Action |
-| :-- | :-- |
-| **Distance:** Ranged 5 | **Target:** 1 creature or object |
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
+| :---------------------------------- | :------------------------------- |
+| **Distance:** Ranged 5              | **Target:** 1 creature or object |
 
 **Power Roll + Intuition**
 
