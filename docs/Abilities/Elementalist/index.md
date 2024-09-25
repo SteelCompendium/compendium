@@ -12,7 +12,7 @@
 | [[Conflagration]]        | 5-essence abilities | 5 Essence | 4 cube within 5  | All enemies          |
 | [[Stare Into The Abyss]] | 3-essence abilities | 3 Essence | 4 cube within 5  | All enemies          |
 | [[Punch The Earth]]      | 3-essence abilities | 3 Essence | 3 burst          | All enemies          |
-| Burn!                | 3-essence abilities | 3 Essence | Ranged 5         | 1 creature or object |
+| [[Burn!]]                | 3-essence abilities | 3 Essence | Ranged 5         | 1 creature or object |
 | [[Invigorating Growth]]  | 3-essence abilities | 3 Essence | Ranged 5         | 1 creature           |
 | [[Void Ray]]             | signature abilities |           | Ranged 5         | 1 creature or object |
 | [[Growing Pains]]        | signature abilities |           | Ranged 5         | 1 creature           |

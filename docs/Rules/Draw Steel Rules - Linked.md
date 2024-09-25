@@ -869,7 +869,7 @@ A tall, broad draconian stepped into the light. He was old, his scales battle-sc
 
 The three [[Human|human]] bandits took a step back. One of the [[Dwarf|dwarves]] just sneered—then, sensing his [[Human|human]] compatriot’s reluctance, turned to look at them. “What’s this?” the lead [[Dwarf|dwarf]] growled.
 
-“Don’t be cowards now!” the other [[Dwarf|dwarf]] said, a hint of joy in his voice. “Look what a prize we have caught!”
+“Don’t be cowards [[Now!|now!]]” the other [[Dwarf|dwarf]] said, a hint of joy in his voice. “Look what a prize we have caught!”
 
 “We didn’t…” one bandit said, shaking. “We didn’t know…”
 
@@ -4579,7 +4579,7 @@ Your doctrine grants you a triggered action, as shown on the Tactician Triggered
 | ---------- | ---------------- |
 | Vanguard   | [[Parry]]            |
 | Mastermind | [[Overwatch]]        |
-| Insurgent  | Flank Them Now!  |
+| Insurgent  | [[Flank Them Now!]]  |
 
 ##### FLANK THEM NOW!
 
