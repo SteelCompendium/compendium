@@ -10,8 +10,10 @@ update push="true":
 		cd "$dir"
 		echo >&2 "[INFO] Copying compendium markdown to website docs..."
 		cp -R *.md "${compendium_dir}/docs"
+		cp -R Rules "${compendium_dir}/docs"
+		cp -R Adventures "${compendium_dir}/docs"
 		cp -R Abilities "${compendium_dir}/docs"
-		cp -R *.png "${compendium_dir}/docs/Assets"
+		cp -R Media "${compendium_dir}/docs"
 		
 		rm "${compendium_dir}/docs/README.md" || true
 		
