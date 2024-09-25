@@ -3,6 +3,10 @@ title: Brutal Slam
 name: Brutal Slam
 type: abilities
 subtype: fury
+keywords: Attack, Melee, Weapon
+ability_type: Action
+distance: Reach 1
+target: 1 creature or object
 ---
 
 # Brutal Slam

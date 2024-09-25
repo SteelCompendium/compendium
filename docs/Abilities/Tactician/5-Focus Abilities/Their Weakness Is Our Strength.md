@@ -4,6 +4,10 @@ name: Their Weakness Is Our Strength
 type: abilities
 cost: 5 Focus
 subtype: tactician
+keywords: Attack, Melee, Ranged, Weapon
+ability_type: Action
+distance: Reach 1 or Ranged 5
+target: 1 creature or object
 ---
 
 # Their Weakness Is Our Strength (5 Focus)

@@ -3,6 +3,10 @@ title: Sniper
 name: Sniper
 type: kits
 subtype: martial kits
+keywords: Attack, Ranged, Weapon
+ability_type: Action
+distance: Ranged 15
+target: 1 creature
 ---
 
 # Sniper

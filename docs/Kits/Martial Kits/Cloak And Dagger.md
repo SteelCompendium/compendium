@@ -3,6 +3,10 @@ title: Cloak And Dagger
 name: Cloak And Dagger
 type: kits
 subtype: martial kits
+keywords: Attack, Melee, Ranged, Weapon
+ability_type: Action
+distance: Reach 1 or range 10
+target: 1 creature
 ---
 
 # Cloak And Dagger

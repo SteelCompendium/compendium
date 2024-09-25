@@ -4,6 +4,10 @@ name: Blade Dance
 type: abilities
 cost: 3 Insight
 subtype: shadow
+keywords: Attack, Melee, Weapon
+ability_type: Action
+distance: Self
+target: Self
 ---
 
 # Blade Dance (3 Insight)

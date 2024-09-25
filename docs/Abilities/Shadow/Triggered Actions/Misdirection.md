@@ -4,6 +4,11 @@ name: Misdirection
 type: abilities
 cost: 1 Insight
 subtype: shadow
+keywords: Magic
+ability_type: Triggered
+distance: Self
+target: Self
+trigger: An enemy attacks you.
 ---
 
 # Misdirection (1 Insight)

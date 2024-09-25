@@ -2,6 +2,10 @@
 title: Polder
 name: Polder
 type: ancestries
+keywords: Magic
+ability_type: Maneuver
+distance: Self
+target: Self
 ---
 
 # Polder

@@ -4,6 +4,10 @@ name: Thunder Of The Divine
 type: abilities
 cost: 3 Piety
 subtype: conduit
+keywords: Area, Magic, Ranged
+ability_type: Action
+distance: 4 cube within 5
+target: All enemies
 ---
 
 # Thunder Of The Divine (3 Piety)

@@ -3,6 +3,10 @@ title: Wither
 name: Wither
 type: abilities
 subtype: conduit
+keywords: Attack, Magic, Ranged
+ability_type: Action
+distance: Ranged 5
+target: 1 creature or object
 ---
 
 # Wither

@@ -3,6 +3,10 @@ title: Growing Pains
 name: Growing Pains
 type: abilities
 subtype: elementalist
+keywords: Attack, Green, Magic, Ranged
+ability_type: Action
+distance: Ranged 5
+target: 1 creature
 ---
 
 # Growing Pains

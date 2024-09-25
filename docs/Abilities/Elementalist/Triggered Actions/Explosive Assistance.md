@@ -3,6 +3,11 @@ title: Explosive Assistance
 name: Explosive Assistance
 type: abilities
 subtype: elementalist
+keywords: Fire, Magic, Ranged
+ability_type: Triggered
+distance: Ranged 5
+target: Self or 1 ally
+trigger: The target force moves a creature or object.
 ---
 
 # Explosive Assistance

@@ -4,6 +4,10 @@ name: Assassinate
 type: abilities
 cost: 5 Insight
 subtype: shadow
+keywords: Attack, Melee, Weapon
+ability_type: Action
+distance: Reach 1
+target: 1 creature
 ---
 
 # Assassinate (5 Insight)

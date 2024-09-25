@@ -4,6 +4,10 @@ name: Dying Blow
 type: abilities
 cost: 5 Rage
 subtype: fury
+keywords: Attack, Melee, Weapon
+ability_type: Action
+distance: Reach 1
+target: 1 creature
 ---
 
 # Dying Blow (5 Rage)

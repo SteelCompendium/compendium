@@ -4,6 +4,10 @@ name: Two Throats At Once
 type: abilities
 cost: 3 Insight
 subtype: shadow
+keywords: Attack, Melee, Ranged, Weapon
+ability_type: Action
+distance: Reach 1 or Ranged 5
+target: 2 creatures or objects
 ---
 
 # Two Throats At Once (3 Insight)

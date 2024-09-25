@@ -4,6 +4,10 @@ name: Whirlwind Strike
 type: abilities
 cost: 3 Rage
 subtype: fury
+keywords: Area, Melee, Weapon
+ability_type: Action
+distance: 1 burst
+target: All enemies
 ---
 
 # Whirlwind Strike (3 Rage)

@@ -3,6 +3,10 @@ title: Grab
 name: Grab
 type: abilities
 subtype: common maneuvers
+keywords: Melee
+ability_type: Maneuver
+distance: Reach 1
+target: 1 creature the same size or smaller than you
 ---
 
 # Grab

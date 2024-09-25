@@ -3,6 +3,10 @@ title: Sacrificial Offer
 name: Sacrificial Offer
 type: abilities
 subtype: conduit
+keywords: Attack, Magic, Ranged
+ability_type: Action
+distance: Ranged 5
+target: 1 creature
 ---
 
 # Sacrificial Offer

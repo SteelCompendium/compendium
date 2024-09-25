@@ -3,6 +3,10 @@ title: Meditator
 name: Meditator
 type: kits
 subtype: caster kits
+keywords: Attack, Magic, Ranged
+ability_type: Action
+distance: Ranged 5
+target: 1 creature
 ---
 
 # Meditator

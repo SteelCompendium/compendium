@@ -4,6 +4,10 @@ name: Now!
 type: abilities
 cost: 5 Focus
 subtype: tactician
+keywords: Ranged
+ability_type: Maneuver
+distance: Ranged 5
+target: All allies
 ---
 
 # Now! (5 Focus)

@@ -3,6 +3,11 @@ title: Defensive Roll
 name: Defensive Roll
 type: abilities
 subtype: shadow
+keywords: —
+ability_type: Triggered
+distance: Self
+target: Self
+trigger: Another creature damages you.
 ---
 
 # Defensive Roll

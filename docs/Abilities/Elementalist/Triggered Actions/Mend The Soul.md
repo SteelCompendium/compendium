@@ -3,6 +3,11 @@ title: Mend The Soul
 name: Mend The Soul
 type: abilities
 subtype: elementalist
+keywords: Green, Magic, Ranged
+ability_type: Triggered
+distance: Ranged 5
+target: Self or 1 ally
+trigger: The target starts their turn.
 ---
 
 # Mend The Soul

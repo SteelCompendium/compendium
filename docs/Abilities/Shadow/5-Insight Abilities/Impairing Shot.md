@@ -4,6 +4,10 @@ name: Impairing Shot
 type: abilities
 cost: 5 Insight
 subtype: shadow
+keywords: Attack, Ranged, Weapon
+ability_type: Action
+distance: Ranged 5
+target: 1 creature
 ---
 
 # Impairing Shot (5 Insight)

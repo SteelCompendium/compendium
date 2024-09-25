@@ -3,6 +3,10 @@ title: Distracting Pain
 name: Distracting Pain
 type: abilities
 subtype: shadow
+keywords: Attack, Melee, Ranged, Weapon
+ability_type: Action
+distance: Reach 1 or Ranged 3
+target: 1 creature
 ---
 
 # Distracting Pain

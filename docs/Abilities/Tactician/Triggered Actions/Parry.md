@@ -3,6 +3,11 @@ title: Parry
 name: Parry
 type: abilities
 subtype: tactician
+keywords: Melee, Weapon
+ability_type: Triggered
+distance: Self or Reach 1
+target: Self or 1 ally
+trigger: A creature makes a Weapon attack against the target.
 ---
 
 # Parry

@@ -4,6 +4,10 @@ name: This Is What We Planned For
 type: abilities
 cost: 5 Focus
 subtype: tactician
+keywords: Ranged
+ability_type: Maneuver
+distance: Ranged 10
+target: 2 allies
 ---
 
 # This Is What We Planned For (5 Focus)

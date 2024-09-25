@@ -3,6 +3,10 @@ title: Void Ray
 name: Void Ray
 type: abilities
 subtype: elementalist
+keywords: Attack, Magic, Ranged, Void
+ability_type: Action
+distance: Ranged 5
+target: 1 creature or object
 ---
 
 # Void Ray

@@ -4,6 +4,10 @@ name: Get In, Get Out
 type: abilities
 cost: 5 Insight
 subtype: shadow
+keywords: Attack, Melee, Weapon
+ability_type: Action
+distance: Reach 1
+target: 1 creature
 ---
 
 # Get In, Get Out (5 Insight)

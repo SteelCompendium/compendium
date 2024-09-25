@@ -3,6 +3,10 @@ title: Martial Artist
 name: Martial Artist
 type: kits
 subtype: martial kits
+keywords: Attack, Melee, Weapon
+ability_type: Action
+distance: Reach 1
+target: 1 creature
 ---
 
 # Martial Artist

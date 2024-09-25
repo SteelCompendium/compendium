@@ -4,6 +4,10 @@ name: Open The Earth
 type: abilities
 cost: 5 Essence
 subtype: elementalist
+keywords: Magic, Earth, Persistent, Ranged
+ability_type: Maneuver
+distance: Ranged 5
+target: Special
 ---
 
 # Open The Earth (5 Essence)

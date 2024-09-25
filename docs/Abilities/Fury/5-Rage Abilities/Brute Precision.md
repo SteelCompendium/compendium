@@ -4,6 +4,10 @@ name: Brute Precision
 type: abilities
 cost: 5 Rage
 subtype: fury
+keywords: —
+ability_type: Free maneuver
+distance: Self
+target: Self
 ---
 
 # Brute Precision (5 Rage)

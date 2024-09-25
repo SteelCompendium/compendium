@@ -4,6 +4,10 @@ name: Nourishing Rain
 type: abilities
 cost: 5 Essence
 subtype: elementalist
+keywords: Area, Green, Magic
+ability_type: Action
+distance: 5 burst
+target: All enemies
 ---
 
 # Nourishing Rain (5 Essence)

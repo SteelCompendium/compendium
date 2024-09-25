@@ -2,6 +2,10 @@
 title: Revenant
 name: Revenant
 type: ancestries
+keywords: Attack, Magic, Ranged
+ability_type: Action
+distance: Ranged 10
+target: 1 creature with your sigil
 ---
 
 # Revenant

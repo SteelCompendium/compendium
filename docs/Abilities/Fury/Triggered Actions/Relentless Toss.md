@@ -3,6 +3,11 @@ title: Relentless Toss
 name: Relentless Toss
 type: abilities
 subtype: fury
+keywords: Magic, Melee
+ability_type: Triggered
+distance: Self or reach
+target: Self or 1 creature
+trigger: The target is force moved.
 ---
 
 # Relentless Toss

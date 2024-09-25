@@ -3,6 +3,11 @@ title: Divine Disruption
 name: Divine Disruption
 type: abilities
 subtype: conduit
+keywords: Magic, Ranged
+ability_type: Triggered
+distance: Ranged 5
+target: 1 enemy
+trigger: The target makes an attack. You can use this ability after seeing the result of the attack.
 ---
 
 # Divine Disruption

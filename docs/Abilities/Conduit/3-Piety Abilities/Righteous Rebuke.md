@@ -4,6 +4,10 @@ name: Righteous Rebuke
 type: abilities
 cost: 3 Piety
 subtype: conduit
+keywords: Attack, Magic, Ranged
+ability_type: Action
+distance: Ranged 5
+target: 1 creature
 ---
 
 # Righteous Rebuke (3 Piety)

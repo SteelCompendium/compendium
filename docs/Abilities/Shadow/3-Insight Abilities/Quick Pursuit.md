@@ -4,6 +4,10 @@ name: Quick Pursuit
 type: abilities
 cost: 3 Insight
 subtype: shadow
+keywords: Attack, Melee, Weapon
+ability_type: Action
+distance: Reach 1
+target: 1 creature
 ---
 
 # Quick Pursuit (3 Insight)

@@ -3,6 +3,10 @@ title: Shining Armor
 name: Shining Armor
 type: kits
 subtype: martial kits
+keywords: Attack, Melee, Weapon
+ability_type: Action
+distance: Reach 1
+target: 1 creature
 ---
 
 # Shining Armor

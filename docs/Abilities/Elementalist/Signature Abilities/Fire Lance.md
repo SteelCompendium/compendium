@@ -3,6 +3,10 @@ title: Fire Lance
 name: Fire Lance
 type: abilities
 subtype: elementalist
+keywords: Attack, Fire, Magic, Ranged
+ability_type: Action
+distance: Ranged 5
+target: 1 creature or object
 ---
 
 # Fire Lance

@@ -4,6 +4,10 @@ name: Punch The Earth
 type: abilities
 cost: 3 Essence
 subtype: elementalist
+keywords: Area, Earth, Magic
+ability_type: Action
+distance: 3 burst
+target: All enemies
 ---
 
 # Punch The Earth (3 Essence)

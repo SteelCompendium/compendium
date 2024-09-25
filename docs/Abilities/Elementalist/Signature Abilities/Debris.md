@@ -3,6 +3,10 @@ title: Debris
 name: Debris
 type: abilities
 subtype: elementalist
+keywords: Area, Earth, Magic, Ranged
+ability_type: Action
+distance: 3 cube within 5
+target: All enemies
 ---
 
 # Debris

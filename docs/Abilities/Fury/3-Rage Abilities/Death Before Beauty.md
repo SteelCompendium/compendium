@@ -4,6 +4,10 @@ name: Death Before Beauty
 type: abilities
 cost: 3 Rage
 subtype: fury
+keywords: Attack, Melee, Weapon
+ability_type: Action
+distance: Reach 1
+target: 1 creature
 ---
 
 # Death Before Beauty (3 Rage)

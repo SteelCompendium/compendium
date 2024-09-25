@@ -3,6 +3,10 @@ title: Stick And Robe
 name: Stick And Robe
 type: kits
 subtype: martial kits
+keywords: Attack, Melee, Weapon
+ability_type: Action
+distance: Reach 2
+target: 1 creature
 ---
 
 # Stick And Robe

@@ -4,6 +4,10 @@ name: Your Entrails Are Your Extrails!
 type: abilities
 cost: 3 Rage
 subtype: fury
+keywords: Attack, Melee, Weapon
+ability_type: Action
+distance: Reach
+target: 1 creature or object
 ---
 
 # Your Entrails Are Your Extrails! (3 Rage)

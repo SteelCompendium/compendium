@@ -4,6 +4,10 @@ name: Blood For Blood!
 type: abilities
 cost: 5 Rage
 subtype: fury
+keywords: Attack, Melee, Weapon
+ability_type: Action
+distance: Reach 1
+target: 1 creature or object
 ---
 
 # Blood For Blood! (5 Rage)

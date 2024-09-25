@@ -3,6 +3,11 @@ title: Void Embrace
 name: Void Embrace
 type: abilities
 subtype: elementalist
+keywords: Magic, Ranged, Void
+ability_type: Triggered
+distance: Self or Ranged 5
+target: Self or 1 ally
+trigger: The target starts their turn or moves.
 ---
 
 # Void Embrace

@@ -4,6 +4,10 @@ name: Wave Of Virtue
 type: abilities
 cost: 5 Piety
 subtype: conduit
+keywords: Area, Magic
+ability_type: Action
+distance: 5 burst
+target: All allies
 ---
 
 # Wave Of Virtue (5 Piety)

@@ -3,6 +3,10 @@ title: Rook
 name: Rook
 type: kits
 subtype: caster kits
+keywords: Attack, Magic, Ranged
+ability_type: Action
+distance: Ranged 5
+target: 1 creature or object
 ---
 
 # Rook

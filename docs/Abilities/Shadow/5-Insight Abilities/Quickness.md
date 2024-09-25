@@ -4,6 +4,10 @@ name: Quickness
 type: abilities
 cost: 5 Insight
 subtype: shadow
+keywords: Magic
+ability_type: Action
+distance: Self
+target: Self
 ---
 
 # Quickness (5 Insight)

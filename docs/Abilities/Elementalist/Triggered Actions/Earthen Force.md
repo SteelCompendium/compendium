@@ -3,6 +3,11 @@ title: Earthen Force
 name: Earthen Force
 type: abilities
 subtype: elementalist
+keywords: Earth, Magic, Ranged
+ability_type: Triggered
+distance: Ranged 5
+target: Self or 1 ally
+trigger: The target makes a melee attack.
 ---
 
 # Earthen Force

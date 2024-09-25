@@ -3,6 +3,11 @@ title: Flank Them Now!
 name: Flank Them Now!
 type: abilities
 subtype: tactician
+keywords: Ranged
+ability_type: Triggered
+distance: Self or Ranged 10
+target: You or an ally
+trigger: A nontarget ally is about to make an attack.
 ---
 
 # Flank Them Now!

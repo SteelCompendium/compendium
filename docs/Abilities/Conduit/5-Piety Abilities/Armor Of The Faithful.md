@@ -4,6 +4,10 @@ name: Armor Of The Faithful
 type: abilities
 cost: 5 Piety
 subtype: conduit
+keywords: Magic, Ranged
+ability_type: Maneuver
+distance: Ranged 5
+target: 3 allies
 ---
 
 # Armor Of The Faithful (5 Piety)

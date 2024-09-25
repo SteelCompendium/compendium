@@ -4,6 +4,10 @@ name: Phalanx Forward!
 type: abilities
 cost: 3 Focus
 subtype: tactician
+keywords: Ranged, Weapon
+ability_type: Maneuver
+distance: Ranged 10
+target: Self and all allies
 ---
 
 # Phalanx Forward! (3 Focus)

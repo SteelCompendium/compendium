@@ -2,6 +2,10 @@
 title: Dragon Knight
 name: Dragon Knight
 type: ancestries
+keywords: Area, Magic
+ability_type: Action
+distance: 2 burst
+target: All enemies
 ---
 
 # Dragon Knight

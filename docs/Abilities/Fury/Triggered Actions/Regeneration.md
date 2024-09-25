@@ -3,6 +3,11 @@ title: Regeneration
 name: Regeneration
 type: abilities
 subtype: fury
+keywords: Melee
+ability_type: Triggered
+distance: Self
+target: Self
+trigger: You lose Stamina and are not dying.
 ---
 
 # Regeneration

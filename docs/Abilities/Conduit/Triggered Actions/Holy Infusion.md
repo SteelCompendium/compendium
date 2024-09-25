@@ -3,6 +3,11 @@ title: Holy Infusion
 name: Holy Infusion
 type: abilities
 subtype: conduit
+keywords: Magic, Ranged
+ability_type: Triggered
+distance: Ranged 5
+target: 1 ally
+trigger: The target makes an attack. You can use this ability after seeing the result of the attack.
 ---
 
 # Holy Infusion

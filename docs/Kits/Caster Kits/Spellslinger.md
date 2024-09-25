@@ -3,6 +3,10 @@ title: Spellslinger
 name: Spellslinger
 type: kits
 subtype: caster kits
+keywords: Attack, Magic, Ranged
+ability_type: Action
+distance: Ranged 10
+target: 2 creatures or objects
 ---
 
 # Spellslinger

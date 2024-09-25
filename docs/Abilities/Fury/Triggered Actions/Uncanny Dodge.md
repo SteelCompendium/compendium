@@ -3,6 +3,11 @@ title: Uncanny Dodge
 name: Uncanny Dodge
 type: abilities
 subtype: fury
+keywords: Melee
+ability_type: Triggered
+distance: Reach 1
+target: Self
+trigger: You are targeted by a damaging area of effect.
 ---
 
 # Uncanny Dodge

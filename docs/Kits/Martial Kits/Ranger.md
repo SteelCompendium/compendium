@@ -3,6 +3,10 @@ title: Ranger
 name: Ranger
 type: kits
 subtype: martial kits
+keywords: Attack, Ranged, Weapon
+ability_type: Action
+distance: Ranged 10
+target: 1 creature
 ---
 
 # Ranger

@@ -4,6 +4,10 @@ name: Terrifying Smite
 type: abilities
 cost: 5 Piety
 subtype: conduit
+keywords: Attack, Magic, Ranged
+ability_type: Action
+distance: Ranged 5
+target: 1 creature
 ---
 
 # Terrifying Smite (5 Piety)

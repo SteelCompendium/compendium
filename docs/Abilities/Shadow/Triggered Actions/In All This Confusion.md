@@ -3,6 +3,11 @@ title: In All This Confusion
 name: In All This Confusion
 type: abilities
 subtype: shadow
+keywords: Magic
+ability_type: Triggered
+distance: Self
+target: Self
+trigger: You take damage.
 ---
 
 # In All This Confusion

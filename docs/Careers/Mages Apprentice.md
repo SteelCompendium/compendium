@@ -2,6 +2,10 @@
 title: Mage's Apprentice
 name: Mage's Apprentice
 type: careers
+keywords: Magic
+ability_type: Action
+distance: Self
+target: Self
 ---
 
 # Mage's Apprentice

@@ -3,6 +3,10 @@ title: Retiarius
 name: Retiarius
 type: kits
 subtype: martial kits
+keywords: Attack, Melee, Weapon
+ability_type: Action
+distance: Reach 2
+target: 1 creature
 ---
 
 # Retiarius

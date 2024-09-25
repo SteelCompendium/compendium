@@ -3,6 +3,11 @@ title: Overwatch
 name: Overwatch
 type: abilities
 subtype: tactician
+keywords: Ranged
+ability_type: Triggered
+distance: Ranged 10
+target: 1 enemy
+trigger: The target moves.
 ---
 
 # Overwatch
