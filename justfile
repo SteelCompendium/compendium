@@ -13,6 +13,7 @@ update push="true":
 		cp -R Rules "${compendium_dir}/docs"
 		cp -R Adventures "${compendium_dir}/docs"
 		cp -R Abilities "${compendium_dir}/docs"
+		cp -R Kits "${compendium_dir}/docs"
 		cp -R Media "${compendium_dir}/docs"
 		
 		rm "${compendium_dir}/docs/README.md" || true
