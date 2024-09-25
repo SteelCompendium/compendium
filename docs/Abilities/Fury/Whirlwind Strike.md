@@ -10,19 +10,19 @@ cost: "3 RAGE"
 As your foes close in around you, why bother taking them on one by one?
 
 
-- "**Keywords:** Area, Melee, Weapon"
+- **Keywords:** Area, Melee, Weapon
 
-- "**Type:** Action"
+- **Type:** Action
 
-- "**Distance:** 1 burst"
+- **Distance:** 1 burst
 
-- "**Target:** All enemies"
+- **Target:** All enemies
 
 **Power Roll + Might:**
 
 
-- "11 or lower: 3 damage"
+- 11 or lower: 3 damage
 
-- "12–16: 4 damage; push 1"
+- 12–16: 4 damage; push 1
 
-- "17+: 7 damage; push 3"
+- 17+: 7 damage; push 3

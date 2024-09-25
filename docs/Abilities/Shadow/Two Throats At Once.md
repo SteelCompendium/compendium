@@ -10,19 +10,19 @@ cost: "3 INSIGHT"
 Striking two foes at once is second nature to you.
 
 
-- "**Keywords:** Attack, Melee, Ranged, Weapon"
+- **Keywords:** Attack, Melee, Ranged, Weapon
 
-- "**Type:** Action"
+- **Type:** Action
 
-- "**Distance:** Reach 1 or Ranged 5"
+- **Distance:** Reach 1 or Ranged 5
 
-- "**Target:** 2 creatures or objects"
+- **Target:** 2 creatures or objects
 
 **Power Roll + Agility:**
 
 
-- "11 or lower: 4 damage"
+- 11 or lower: 4 damage
 
-- "12–16: 6 damage"
+- 12–16: 6 damage
 
-- "17+: 9 damage"
+- 17+: 9 damage

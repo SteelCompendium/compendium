@@ -10,12 +10,12 @@ cost: "3 PIETY"
 You conjure an angelic spirit who lashes your foes with burning radiance.
 
 
-- "**Keywords**: Magic, Ranged"
+- **Keywords**: Magic, Ranged
 
-- "**Type**: Action"
+- **Type**: Action
 
-- "**Distance**: Ranged 5"
+- **Distance**: Ranged 5
 
-- "**Target**: Special"
+- **Target**: Special
 
 **Effect**: You summon an angelic spirit of size 1M who can’t be harmed, and who appears in an unoccupied space within distance. The spirit lasts until the end of your next turn. You and your allies can move through the spirit’s space, but enemies can’t. The first time on a turn that an enemy moves within 1 square of the spirit or starts their turn there, they take holy damage equal to twice your Intuition score.

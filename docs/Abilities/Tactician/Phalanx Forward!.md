@@ -10,12 +10,12 @@ cost: "3 FOCUS"
 On your command, you and your allies force back the enemy line.
 
 
-- "**Keywords:** Ranged, Weapon"
+- **Keywords:** Ranged, Weapon
 
-- "**Type:** Maneuver"
+- **Type:** Maneuver
 
-- "**Distance:** Ranged 10"
+- **Distance:** Ranged 10
 
-- "**Target:** Self and all allies"
+- **Target:** Self and all allies
 
 **Effect:** Each target can move their speed, push an adjacent enemy 1 square at the end of that move, and shift 1 square into the square the enemy left.

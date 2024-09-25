@@ -10,19 +10,19 @@ cost: ""
 A tendril of divine energy shoots forth to draw in your foe.
 
 
-- "**Keywords**: Attack, Magic, Ranged"
+- **Keywords**: Attack, Magic, Ranged
 
-- "**Type**: Action"
+- **Type**: Action
 
-- "**Distance**: Ranged 5"
+- **Distance**: Ranged 5
 
-- "**Target**: 1 creature or object"
+- **Target**: 1 creature or object
 
 **Power Roll + Intuition**:
 
 
-- "11 or lower: 2 holy damage; pull 2"
+- 11 or lower: 2 holy damage; pull 2
 
-- "12–16: 6 holy damage; pull 3"
+- 12–16: 6 holy damage; pull 3
 
-- "17+: 9 holy damage; pull 4"
+- 17+: 9 holy damage; pull 4

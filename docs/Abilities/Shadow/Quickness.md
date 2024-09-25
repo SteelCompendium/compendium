@@ -10,12 +10,12 @@ cost: "5 INSIGHT"
 You put on a burst of magical speed to get the job done.
 
 
-- "**Keywords:** Magic"
+- **Keywords:** Magic
 
-- "**Type:** Action"
+- **Type:** Action
 
-- "**Distance:** Self"
+- **Distance:** Self
 
-- "**Target:** Self"
+- **Target:** Self
 
 **Effect:** You make two signature attacks that each deal extra damage equal to twice your Agility.

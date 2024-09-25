@@ -10,19 +10,19 @@ cost: "5 PIETY"
 A mote of holy light racks your foe with their greatest fear.
 
 
-- "**Keywords**: Attack, Magic, Ranged"
+- **Keywords**: Attack, Magic, Ranged
 
-- "**Type**: Action"
+- **Type**: Action
 
-- "**Distance**: Ranged 5"
+- **Distance**: Ranged 5
 
-- "**Target**: 1 creature"
+- **Target**: 1 creature
 
 **Power Roll + Intuition**:
 
 
-- "11 or lower: 7 holy damage"
+- 11 or lower: 7 holy damage
 
-- "12–16: 10 holy damage; frightened (EoT)"
+- 12–16: 10 holy damage; frightened (EoT)
 
-- "17+: 16 holy damage; frightened (EoE)"
+- 17+: 16 holy damage; frightened (EoE)

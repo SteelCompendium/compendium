@@ -10,12 +10,12 @@ cost: "5 RAGE"
 You can always trust your anger to get the job done.
 
 
-- "**Keywords:** —"
+- **Keywords:** —
 
-- "**Type:** Free maneuver"
+- **Type:** Free maneuver
 
-- "**Distance:** Self"
+- **Distance:** Self
 
-- "**Target:** Self"
+- **Target:** Self
 
 **Effect:** The next attack you make this turn automatically achieves a tier 3 result and deals an extra 1d6 damage.

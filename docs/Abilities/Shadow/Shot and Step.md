@@ -10,21 +10,21 @@ cost: ""
 Being fast on your feet makes your ranged attacks especially deadly.
 
 
-- "**Keywords:** Attack, Ranged, Weapon"
+- **Keywords:** Attack, Ranged, Weapon
 
-- "**Type:** Action"
+- **Type:** Action
 
-- "**Distance:** Ranged 5"
+- **Distance:** Ranged 5
 
-- "**Target:** 1 creature or object"
+- **Target:** 1 creature or object
 
 **Power Roll + Agility:**
 
 
-- "11 or lower: 3 damage"
+- 11 or lower: 3 damage
 
-- "12–16: 7 damage"
+- 12–16: 7 damage
 
-- "17+: 10 damage"
+- 17+: 10 damage
 
 **Effect:** You can shift 1 square before or after the attack.

@@ -10,19 +10,19 @@ cost: "3 FOCUS"
 Your precise strike leaves your foe struggling to respond.
 
 
-- "**Keywords:** Attack, Melee, Ranged, Weapon"
+- **Keywords:** Attack, Melee, Ranged, Weapon
 
-- "**Type:** Action"
+- **Type:** Action
 
-- "**Distance:** Reach or Ranged 5"
+- **Distance:** Reach or Ranged 5
 
-- "**Target:** 1 creature or object"
+- **Target:** 1 creature or object
 
 **Power Roll + Might:**
 
 
-- "11 or lower: 6 damage; slowed (EoT)"
+- 11 or lower: 6 damage; slowed (EoT)
 
-- "12–16: 8 damage; dazed (EoT)"
+- 12–16: 8 damage; dazed (EoT)
 
-- "17+: 13 damage; dazed (EoE)"
+- 17+: 13 damage; dazed (EoE)
