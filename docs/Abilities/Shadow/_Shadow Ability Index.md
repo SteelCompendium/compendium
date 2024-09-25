@@ -12,3 +12,6 @@
 - [Get In, Get Out](Get In, Get Out.md)
 - [Impairing Shot](Impairing Shot.md)
 - [Quickness](Quickness.md)
+- [Defensive Roll](Defensive Roll.md)
+- [In All This Confusion](In All This Confusion.md)
+- [Misdirection](Misdirection.md)

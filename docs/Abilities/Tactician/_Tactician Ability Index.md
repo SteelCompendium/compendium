@@ -8,3 +8,6 @@
 - [Now!](Now!.md)
 - [Their Weakness is Our Strength](Their Weakness is Our Strength.md)
 - [This is What We Planned for](This is What We Planned for.md)
+- [Flank Them Now!](Flank Them Now!.md)
+- [Parry](Parry.md)
+- [Overwatch](Overwatch.md)

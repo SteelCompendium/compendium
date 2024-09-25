@@ -12,3 +12,7 @@
 - [Incorporealness](Incorporealness.md)
 - [Nourishing Rain](Nourishing Rain.md)
 - [Open the Earth](Open the Earth.md)
+- [Earthen Force](Earthen Force.md)
+- [Explosive Assistance](Explosive Assistance.md)
+- [Mend the Soul](Mend the Soul.md)
+- [Void Embrace](Void Embrace.md)

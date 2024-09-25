@@ -12,3 +12,6 @@
 - [Brute Precision](Brute Precision.md)
 - [Dying Blow](Dying Blow.md)
 - [Primordial Shockwave](Primordial Shockwave.md)
+- [Regeneration](Regeneration.md)
+- [Relentless Toss](Relentless Toss.md)
+- [Uncanny Dodge](Uncanny Dodge.md)

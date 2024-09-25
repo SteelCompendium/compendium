@@ -12,3 +12,5 @@
 - [Divine Weakness](Divine Weakness.md)
 - [Terrifying Smite](Terrifying Smite.md)
 - [Wave of Virtue](Wave of Virtue.md)
+- [Divine Disruption](Divine Disruption.md)
+- [Holy Infusion](Holy Infusion.md)

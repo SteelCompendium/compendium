@@ -6,3 +6,6 @@ The Draw Steel Compendium is an independent product published under the DRAW STE
 - There are mistakes and errors
 - There is no warrenty written or implied
 
+---
+
+This site includes Draw Steel rules and documents currently sourced from the Backer Packet.
