@@ -15,6 +15,7 @@ Move unexpectedly, strike fast, and be gone!
 - **Target:** 1 creature
 
 **Power Roll + Agility**
+
 - **11 or lower:** 7 damage
 - **12-16:** 11 damage
 - **17+:** 17 damage

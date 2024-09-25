@@ -15,6 +15,7 @@ Mushrooms erupt from a foe, sapping their vitality to spread strengthening spore
 - **Target:** 1 creature
 
 **Power Roll + Reason**
+
 - **11 or lower:** 6 poison damage
 - **12-16:** 9 poison damage
 - **17+:** 14 poison damage

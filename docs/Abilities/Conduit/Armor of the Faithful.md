@@ -15,6 +15,7 @@ The divine light of protection surrounds your allies.
 - **Target:** 3 allies
 
 **Power Roll + Intuition**
+
 - **11 or lower:** Gain 10 temporary Stamina
 - **12-16:** Gain 15 temporary Stamina
 - **17+:** Gain 20 temporary Stamina

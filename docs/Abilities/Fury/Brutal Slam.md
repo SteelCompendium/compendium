@@ -15,6 +15,7 @@ The heavy impact of your weapon attacks drives your foes ever backward.
 - **Target:** 1 creature or object
 
 **Power Roll + Might**
+
 - **11 or lower:** 3 damage; push 1
 - **12-16:** 8 damage; push 2
 - **17+:** 12 damage; push 4

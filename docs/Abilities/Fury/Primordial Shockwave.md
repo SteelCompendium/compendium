@@ -15,6 +15,7 @@ The destructive power of nature cannot be contained.
 - **Target:** All enemies
 
 **Power Roll + Might**
+
 - **11 or lower:** 4 damage; push 2
 - **12-16:** 5 damage; push 4
 - **17+:** 8 damage; push 6

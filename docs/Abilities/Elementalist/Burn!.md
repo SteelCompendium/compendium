@@ -15,6 +15,7 @@ Fire engulfs a target of your choice and burns at your command.
 - **Target:** 1 creature or object
 
 **Power Roll + Reason**
+
 - **11 or lower:** 6 fire damage
 - **12-16:** 8 fire damage
 - **17+:** 13 fire damage

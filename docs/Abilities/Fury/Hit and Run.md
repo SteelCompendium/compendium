@@ -15,6 +15,7 @@ Keeping in constant motion helps you slip out of reach after a brutal assault.
 - **Target:** 1 creature or object
 
 **Power Roll + Might**
+
 - **11 or lower:** 3 damage
 - **12-16:** 8 damage
 - **17+:** 12 damage; slowed (EoT)

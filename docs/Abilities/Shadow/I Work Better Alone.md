@@ -15,6 +15,7 @@ Facing an enemy alone lets you exploit their overconfidence.
 - **Target:** 1 creature
 
 **Power Roll + Agility**
+
 - **11 or lower:** 3 damage
 - **12-16:** 8 damage
 - **17+:** 12 damage

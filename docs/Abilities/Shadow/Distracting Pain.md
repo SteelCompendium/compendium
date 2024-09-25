@@ -15,6 +15,7 @@ Your precise strikes let your allies take advantage of a target’s agony.
 - **Target:** 1 creature
 
 **Power Roll + Agility**
+
 - **11 or lower:** 3 damage
 - **12-16:** 8 damage; the next attack against the target gains an edge
 - **17+:** 12 damage; the target falls prone

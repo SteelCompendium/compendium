@@ -15,6 +15,7 @@ You leave your foe bleeding out after a devastating attack.
 - **Target:** 1 creature
 
 **Power Roll + Agility**
+
 - **11 or lower:** 6 damage
 - **12-16:** 9 damage; bleeding until a creature uses a maneuver to staunch the wound
 - **17+:** 14 damage; bleeding until a creature uses an action to staunch the wound

@@ -15,6 +15,7 @@ You focus your rage into a single devastating strike.
 - **Target:** 1 creature
 
 **Power Roll + Might**
+
 - **11 or lower:** 9 damage
 - **12-16:** 13 damage
 - **17+:** 21 damage

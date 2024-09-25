@@ -15,6 +15,7 @@ Whipping vines erupt from a foe’s body to grasp at another close by.
 - **Target:** 1 creature
 
 **Power Roll + Reason**
+
 - **11 or lower:** 2 damage
 - **12-16:** 6 damage
 - **17+:** 9 damage

@@ -15,6 +15,7 @@ You open a rift into the void to harry your enemies.
 - **Target:** All enemies
 
 **Power Roll + Reason**
+
 - **11 or lower:** 3 psychic damage
 - **12-16:** 4 psychic damage
 - **17+:** 6 psychic damage

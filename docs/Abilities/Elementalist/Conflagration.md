@@ -15,6 +15,7 @@ A storm of fire descends upon your enemies.
 - **Target:** All enemies
 
 **Power Roll + Reason**
+
 - **11 or lower:** 5 fire damage
 - **12-16:** 7 fire damage
 - **17+:** 10 fire damage

@@ -15,6 +15,7 @@ Your enemies will get out of your way—whether they want to or not.
 - **Target:** 1 creature
 
 **Power Roll + Might**
+
 - **11 or lower:** 3 damage; slide 2
 - **12-16:** 5 damage; slide 3
 - **17+:** 8 damage; slide 5

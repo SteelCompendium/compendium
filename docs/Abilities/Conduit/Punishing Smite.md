@@ -15,6 +15,7 @@ Your divine fury is a hammer that crashes down upon the unrighteous.
 - **Target:** 1 creature or object
 
 **Power Roll + Intuition**
+
 - **11 or lower:** 6 holy damage
 - **12-16:** 8 holy damage; prone
 - **17+:** 13 holy damage; prone and can’t stand (EoT)

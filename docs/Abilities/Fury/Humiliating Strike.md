@@ -15,6 +15,7 @@ You hit with a strength that’s worth the risk of raising your opponent’s ire
 - **Target:** 1 creature or object
 
 **Power Roll + Might**
+
 - **11 or lower:** 3 damage
 - **12-16:** 8 damage
 - **17+:** 12 damage

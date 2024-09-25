@@ -15,6 +15,7 @@ Fighting up close lets you keep your foe exactly where you want them.
 - **Target:** 1 creature of your size or smaller
 
 **Power Roll + Might**
+
 - **11 or lower:** 3 damage; slowed (EoT)
 - **12-16:** 8 damage; grabbed
 - **17+:** 12 damage; grabbed

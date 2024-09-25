@@ -15,6 +15,7 @@ Holy light scours your foes and sets your allies into perfect attack position.
 - **Target:** All enemies
 
 **Power Roll + Intuition**
+
 - **11 or lower:** 2 holy damage
 - **12-16:** 3 holy damage
 - **17+:** 4 holy damage

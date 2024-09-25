@@ -15,6 +15,7 @@ When you barrel through your foes, they feel your wrath.
 - **Target:** Self
 
 **Power Roll + Might**
+
 - **11 or lower:** 5 damage
 - **12-16:** 6 damage
 - **17+:** 9 damage

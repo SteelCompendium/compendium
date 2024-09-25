@@ -15,6 +15,7 @@ A sudden storm of detritus assaults your foes and leaves them struggling to move
 - **Target:** All enemies
 
 **Power Roll + Reason**
+
 - **11 or lower:** 2 damage
 - **12-16:** 3 damage
 - **17+:** 4 damage

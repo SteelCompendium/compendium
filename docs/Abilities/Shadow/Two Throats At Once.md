@@ -15,6 +15,7 @@ Striking two foes at once is second nature to you.
 - **Target:** 2 creatures or objects
 
 **Power Roll + Agility**
+
 - **11 or lower:** 4 damage
 - **12-16:** 6 damage
 - **17+:** 9 damage

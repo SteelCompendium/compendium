@@ -15,6 +15,7 @@ Leaving your foe struggling gives your allies a strategic opening.
 - **Target:** 1 creature or object
 
 **Power Roll + Might**
+
 - **11 or lower:** 7 damage; weakened (EoT)
 - **12-16:** 10 damage; weakened (EoT)
 - **17+:** 16 damage; weakened (EoE)

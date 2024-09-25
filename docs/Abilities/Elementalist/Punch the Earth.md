@@ -15,6 +15,7 @@ You slam the ground, which buckles out from you in every direction.
 - **Target:** All enemies
 
 **Power Roll + Reason**
+
 - **11 or lower:** 4 damage
 - **12-16:** 5 damage
 - **17+:** 8 damage; prone

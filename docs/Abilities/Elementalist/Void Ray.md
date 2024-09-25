@@ -15,6 +15,7 @@ A beam of energy corrupts and hinders whatever it touches.
 - **Target:** 1 creature or object
 
 **Power Roll + Reason**
+
 - **11 or lower:** 2 corruption damage
 - **12-16:** 6 corruption damage; slowed (EoT)
 - **17+:** 9 corruption damage; slowed (EoT)

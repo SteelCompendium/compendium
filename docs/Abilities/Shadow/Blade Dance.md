@@ -15,6 +15,7 @@ As you move across the battlefield, every foe within reach feels your wrath.
 - **Target:** Self
 
 **Power Roll + Agility**
+
 - **11 or lower:** 3 damage
 - **12-16:** 4 damage
 - **17+:** 7 damage
