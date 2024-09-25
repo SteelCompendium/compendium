@@ -76,7 +76,17 @@
       "4. CAREER": "Choose your hero’s career, which describes what you did for a living before you became a hero. Your career gives you skills and a title, and might also give you languages, Renown, or knowledge for crafting and research. See *Careers* for more information.",
       "5. CLASS": "Choose your hero’s class. This choice has the biggest impact on how your hero interacts with the rules of the game, especially the rules for combat. Your class provides your characteristic scores and Stamina, in addition to skills, several abilities, and other benefits. You can be a censor, conduit, elementalist, fury, null, shadow, tactician, talent, or troubadour. See *Classes* for more information.\n\n*(Playtest note: The currently available classes are the conduit, elementalist, fury, shadow, and tactician, each of which includes only 1st-level features.)*",
       "6. KIT": "Choose your hero’s kit. Your kit provides you with equipment and a fighting style that grants a signature ability and bonuses to one or more of your game statistics.",
-      "7. ADD FREE STRIKES": "Every hero has the ability to make free strikes under certain circumstances—extra attacks that don’t require your action. (You can also make a free strike as an action on your turn, though you’ll usually have better options for your action.) Your class might grant you free strike options, but each character also has two standard free strikes.\n\nA melee weapon free strike is a melee attack made with an unarmed strike or improvised weapon. A ranged weapon free strike is a ranged attack made with an improvised weapon.\n\nMELEE WEAPON FREE STRIKE\n\n['**Keywords:** Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Reach 1', '**Target:** 1 creature or object']\n\n**Power Roll + Might or Agility:**\n\n['11 or lower: 2 damage', '12–16: 6 damage', '17+: 9 damage']\n\nRANGED WEAPON FREE STRIKE\n\n['**Keywords:** Attack, Ranged, Weapon', '**Type:** Action', '**Distance:** Ranged 5', '**Target:** 1 creature or object']\n\n**Power Roll + Might or Agility:**\n\n['11 or lower: 2 damage', '12–16: 5 damage', '17+: 8 damage']\n\nSee *Free Strikes* for more information on using free strikes, and see *Abilities* for information on the ability format.",
+      "7. ADD FREE STRIKES": {
+        "flavor": "Every hero has the ability to make free strikes under certain circumstances—extra attacks that don’t require your action. (You can also make a free strike as an action on your turn, though you’ll usually have better options for your action.) Your class might grant you free strike options, but each character also has two standard free strikes.",
+        "keywords": "Attack, Melee, Weapon",
+        "type": "Action",
+        "distance": "Reach 1",
+        "target": "1 creature or object",
+        "roll": "Power Roll + Might or Agility",
+        "tier1": "2 damage",
+        "tier2": "6 damage",
+        "tier3": "9 damage"
+      },
       "8. COMPLICATION": "Your hero experienced an event that has left them with a benefit and a drawback. Complications are optional, so check with your Director to make sure your game is using them. See *Complications* for more information.",
       "9. DETERMINE DETAILS": "Once you’ve created your hero, it’s time to determine the additional details of their backstory, appearance, and personality. How do the events of their culture, career, inciting incident, and class tie together into a cohesive narrative? What’s their name? What do they look like? Do they have any cool scars? Any dope tattoos? Do they still sleep with their teddy bear? These sorts of details can help define a well-rounded hero.",
       "10. MAKE CONNECTIONS": "Ask the Director if all the heroes start the campaign knowing each other. If they do, talk to the other players and build some connections between your heroes. If you like, you can use the following prompts to make those connections, or to come up with prompts of your own:\n\n['While fighting a monster, another hero saved your life. What were you battling and who saved you?', 'In your group, who looks after everyone’s health and well-being and makes sure that all the characters get along? If it’s not you, how do you view this other hero?', 'Who is the grumpiest member of your party? If it isn’t you, how do you react to that hero’s sour nature? If it is you, how do you react to other characters teasing you or trying to cheer you up?', 'What’s one thing your fellow heroes know about you that other people do not?', 'What’s your favorite way to bond with your fellow heroes?', 'You’ve known one of the other heroes in your party longer than the rest. Who is it, and how did you meet?', 'Another hero creates food, music, clothing, trinkets, or something else that you enjoy. Who is that hero and what do they make?', 'Another hero is teaching you a new skill. Who is it, and what are they teaching you?']\n\nAnswer these questions with the other players present, and be sure to get a player’s approval if your answer makes use of their character.",
@@ -106,7 +116,18 @@
       "ON THE DRAGON KNIGHTS": "The cloaked figure at the back of the inn stood up. As they did so, their hood slipped down, revealing their head and face. A susurration rippled through the crowd. One man standing near the bar dropped his jaw, followed by his flagon of mead.\n\nA tall, broad draconian stepped into the light. He was old, his scales battle-scarred. He rested one clawed hand on the pommel of a mace that hung from a loop on his belt, while the other carried his shield by a strap. His flat, expressionless look was more terrifying than any threatening glower.\n\nThe three human bandits took a step back. One of the dwarves just sneered—then, sensing his human compatriot’s reluctance, turned to look at them. “What’s this?” the lead dwarf growled.\n\n“Don’t be cowards now!” the other dwarf said, a hint of joy in his voice. “Look what a prize we have caught!”\n\n“We didn’t…” one bandit said, shaking. “We didn’t know…”\n\nLooking at the dragon knight, the other bandit added quickly, “We didn’t know there was one of you here.”\n\nThe draconian didn’t move. Didn’t give any indication he heard the man. Just stared unblinking at the lead dwarf.\n\n“Think of the bounty,” the dwarf hissed to the humans, but he kept his eye on the draconian. “We’ll all be rich.”\n\n“I don’t…” One of the bandits dropped her sword and held her hands up as she backed away from the group toward the exit. “I don’t need it that bad,” she said. Then she turned and ran out the door. Her human compatriots followed.\n\nThe two dwarves surveyed the tavern. The people were now all facing them. A few had stood up. They weren’t afraid anymore.\n\n“We’ll be back,” the lead dwarf said, and the two of them backed out of the inn, sheathing their shortswords before they turned and left.\n\nAs one, the people in the tavern turned to look with undisguised awe at the dragon knight. He noticed this, ducked his head to avoid their gaze. “Show’s over,” he growled, then he turned to go back to his seat in the rear.\n\n“Thank you,” the woman behind the bar said. “Thank you for…”\n\nShe stopped when she saw the draconian was ignoring her.\n\nA short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. “Excuse me, sir knight,” the man said as the dragon knight walked past their table.\n\nThe knight moved on, ignoring them. The man reached out and grabbed the massive draconian’s arm. The knight wheeled on the peasant, looming over him.\n\nThe man bowed his head and touched his forelock. The two women with him curtseyed and tried to avoid making eye contact.\n\n“Begging your pardon, sir, but we been lookin’ for you.”\n\nThe dragon knight sneered and bared a set of sharp teeth. “Look for someone else,” he growled as he pulled his arm away.\n\nThe man scurried around to stand in front of the draconian, blocking his way. He took off his worn cap and held it over his breast. “I’m sorry sir, but there ain’t no one else. And there’s this new tax, you see, from the new baron. And a priest says he’s of Saint Ajax.”\n\nThe knight bared his impressive teeth, ready to scare Jago and the other two away—when someone else spoke.\n\n“You might want to hear ’em out, Vaant,” said a voice from the table the three peasants had been sitting at.\n\nThe dragon knight turned sharply to look at the man who’d spoken. His back was to the draconian, but the voice gave him away.\n\n“John?”\n\nThe man turned to look up.\n\n“Hi Vaant,” he said, smiling. He rose from the table. He was middle-aged, fit. Black hair hung down to his shoulders. He was armed with many weapons, looked like a captain of the guard. “Folks,” he said, “this is Vaantikalisax, Knight of King Omund in the Thunder Phalanx. He may be the last of the Storm Knights.”\n\nThe man held out his hand. The dragon knight looked at it for a moment before reaching out slowly to grasp it. “What are you doing out here?” Vaantikalisax asked.\n\n“These people need help. I said I’d find it. Heard a rumor someone matching your description was holed up here having a drinking contest with Mr. John Barleycorn.”\n\nThe draconian sniffed, released John’s hand, and looked at the three peasants. “Why do you people need me? You’re in the company of Sir John, Commander of the Fifth …”\n\n“Just John,” Sir John said, holding a hand up. “The new baron stripped me of my title. My lands.”\n\n“I didn’t know that.” The draconian’s voice softened. “I’m sorry.”\n\n“I’ll be fine. But these people…” John said, gesturing to the three older peasants. Vaantikalisax waved him to silence.\n\n“Sure,” he said. “But why me?”\n\n“Thought maybe you’d like to get back in the game.”\n\n“The game.”\n\n“Yeah.” Sir John smiled. “The hero game.”\n\nVaantikalisax said nothing. The inn had mostly gone back to its business but the three peasants watched intently. Eventually, the dragon knight spoke again, his voice low.\n\n“I owe you a lot, John—but not everything.”\n\n“I’m not asking everything.”\n\n“No, that’s not how it starts. But I have this feeling that’s how it’ll end.”\n\n“What does your oath say? ‘Even should the sun stop in the sky, even should the night—’ ”\n\n“John,” the dragon knight said, his voice suddenly sad. Exasperated. “You don’t want to quote my oath to me. You really don’t. I liked serving with you. I have fond memories of that time—of you. Don’t spoil it.” He looked at his friend, the three peasants, then shook his head and turned to leave the inn.\n\n“Vaant,” Sir John said, following. “Sir Vaantikalisax, by your oath!”\n\nThe dragon knight stopped and spun around. Everyone in the inn was watching the show again. Act two.\n\n“The people need leadership,” John said as he looked at all the folk watching.\n\nVaantikalisax’s reptile eyes flashed in anger. “They had it. Thirty years, and what did it amount to?! I watched Ajax… I watched him…” The dragon knight’s eyes flinched. His clawed hands tightened on his mace and shield. “I watched the oath… fail.”\n\n“Vaant… Vaant, the Dragon Phalanx didn’t fail. You were betrayed. It was Mandrake! One of your own, don’t you get it? You’re just as fallible as the rest of us. You were never ‘incorruptible.’ It’s just what we wanted to believe. You’re just people—like the rest of us.”\n\nThe dragon knight looked at the people around him, at the three peasants desperate for someone, anyone, to help them. Then he looked back to his friend.\n\n“Exactly,” Vaantikalisax said. Then he turned and left the inn.",
       "DRAGON KNIGHT BENEFITS": {
         "WYRMPLATE": "Your hardened scales grant you immunity 5 to one of the following damage types: cold, corruption, fire, lightning, or poison. You can change your damage immunity type while out of combat (no action required).",
-        "KNIGHTHOOD": "The legacy of the Dragon Phalanx lives in you. Choose one of the following benefits.\n\n['**DRACONIAN RUSH:**\\nAs a maneuver, you can fly in a straight line up to your speed. Until you reach level 6, you must end your turn on a solid surface or fall, then fall prone.', '**DRACONIAN GUARD:**\\nWhen you or a creature adjacent to you is attacked, you can use a triggered action to swing your wings around and guard against the blow, reducing any damage from the attack by an amount equal to your level + your Victories.', '**DRACONIAN PRIDE:**\\nYou can use the following ability:']\n\n**DRACONIAN PRIDE**\n\nYou let loose a mighty roar to repel your foes and shake their spirits.\n\n**Keywords:** Area, Magic\n**Type:** Action\n**Distance:** 2 burst\n**Target:** All enemies\n\n**Power Roll + Might or Presence:**\n\n['11 or lower: 2 damage; push 1', '12–16: 4 damage; push 3', '17+: 7 damage; push 5; frightened (EoT)', '**Effect:** You have a bane on the power roll for this ability when you use it in consecutive rounds of the same encounter.']"
+        "KNIGHTHOOD": {
+          "flavor": "The legacy of the Dragon Phalanx lives in you. Choose one of the following benefits.",
+          "keywords": "Area, Magic",
+          "type": "Action",
+          "distance": "2 burst",
+          "target": "All enemies",
+          "roll": "Power Roll + Might or Presence",
+          "tier1": "2 damage; push 1",
+          "tier2": "4 damage; push 3",
+          "tier3": "7 damage; push 5; frightened (EoT)",
+          "effect": "You have a bane on the power roll for this ability when you use it in consecutive rounds of the same encounter.']"
+        }
       }
     },
     "DWARF": {
@@ -167,7 +188,14 @@
       "POLDER BENEFITS": {
         "POLDER GEIST": "When you start your turn while no creatures have line of effect to you, or while you are hidden from or have concealment from all creatures with line of effect to you, your speed is increased by 3 until the end of your turn.",
         "SHADOWMELD": {
-          "SHADOWMELD": "You become an actual shadow.\n\n['**Keywords**: Magic', '**Type**: Maneuver', '**Distance**: Self', '**Target**: Self']\n\n**Effect**: You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn’t observing you. While in shadow form, you have full awareness of your surroundings, attacks against you and tests made to find you take a bane, and you can’t move or take actions or maneuvers except to exit this form. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver."
+          "SHADOWMELD": {
+            "flavor": "You become an actual shadow.",
+            "keywords": "Magic",
+            "type": "Maneuver",
+            "distance": "Self",
+            "target": "Self",
+            "effect": "You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn’t observing you. While in shadow form, you have full awareness of your surroundings, attacks against you and tests made to find you take a bane, and you can’t move or take actions or maneuvers except to exit this form. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver."
+          }
         }
       }
     },
@@ -176,7 +204,17 @@
       "REVENANT BENEFITS": {
         "FORMER LIFE": "Choose the ancestry you were before you died. Your size equals that ancestry’s size. Your speed is 5. You lose all other ancestral benefits from your original ancestry.",
         "VENGEANCE MARK": "As a maneuver, you place a magic sigil on a creature within 10 squares of you. When you place a sigil, you can decide where it appears on the creature’s body, and whether the sigil is visible to only you or to all creatures.\n\nYou always know the direction to the exact location of a creature who bears one of your sigils and is on the same plane of existence as you.\n\nAdditionally, you gain the following ability.",
-        "DETONATE SIGIL": "A magical sigil you placed on a creature explodes with energy.\n\n['**Keywords**: Attack, Magic, Ranged', '**Type**: Action', '**Distance**: Ranged 10', '**Target**: 1 creature with your sigil']\n\n**Power Roll** + Reason, Intuition, or Presence:\n\n['11 or lower: 3 damage; slide 1', '12–16: 7 damage; slide 2', '17+: 10 damage; slide 3']\n\n**Effect**: The sigil disappears from the creature.\n\nYou can have an active number of sigils equal to your level. You can remove a sigil from a creature harmlessly (no action required). If you are already using your maximum number of sigils, your oldest sigil disappears with no other effect.",
+        "DETONATE SIGIL": {
+          "flavor": "A magical sigil you placed on a creature explodes with energy.",
+          "keywords": "Attack, Magic, Ranged",
+          "type": "Action",
+          "distance": "Ranged 10",
+          "target": "1 creature with your sigil",
+          "tier1": "3 damage; slide 1",
+          "tier2": "7 damage; slide 2",
+          "tier3": "10 damage; slide 3",
+          "effect": "The sigil disappears from the creature.\n\nYou can have an active number of sigils equal to your level. You can remove a sigil from a creature harmlessly (no action required). If you are already using your maximum number of sigils, your oldest sigil disappears with no other effect."
+        },
         "TOUGH BUT WITHERED": "Your undead body grants you cold, corruption, lightning immunity, and poison immunity equal to your level. You also have fire weakness 5. You can’t suffocate, and you don’t need to eat or drink to stay alive.\n\nAdditionally, when your Stamina equals the negative of your winded value, you become inert instead of dying. You can continue to observe your surroundings, but you can’t speak, take actions, maneuvers, or triggered actions, or move and you fall prone. If you take any fire damage while in this state, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.",
         "UNDEAD INFLUENCE": "Your supernatural gifts allow you to influence other undead. You gain an edge on Reason, Intuition, and Presence tests made to interact with undead creatures."
       }
@@ -261,7 +299,18 @@
         "CONDUIT DEITIES": "| Deity   | Domains                         |\n| ------- | ------------------------------- |\n| Adun    | Love, Protection, Storm, War    |\n| Cavall  | Knowledge, Protection, Sun, War |\n| Cyrvis  | Fate, Death, Nature, Trickery   |\n| Malus   | Creation, Fate, Life, Knowledge |\n| Salorna | Death, Nature, Storm, Sun       |\n| Viras   | Creation, Life, Love, Trickery  |"
       },
       "PIETY": {
-        "PRAYER": "*I beseech you!*\n**Keywords**: Magic\n**Type**: Maneuver\n**Distance**: Self\n**Target**: Self\n\n**Power Roll + Intuition**:\n\n['11 or lower: 1d6 damage; bleeding (EoT)', '12–16: Gain 1 piety', '17+: Gain 2 piety and choose and use a domain effect']\n\n**Effect**: The first time you use this ability during an encounter, it has a double edge. The second time you use it, it takes an edge. The third time you use it, it takes a bane. The fourth and each subsequent time you use this ability during an encounter, it has a double bane.",
+        "PRAYER": {
+          "flavor": "*I beseech you!*\n**Keywords**: Magic\n**Type**: Maneuver\n**Distance**: Self\n**Target**: Self",
+          "keywords": "Magic",
+          "type": "Maneuver",
+          "distance": "Self",
+          "target": "Self",
+          "roll": "Power Roll + Intuition",
+          "tier1": "1d6 damage; bleeding (EoT)",
+          "tier2": "Gain 1 piety",
+          "tier3": "Gain 2 piety and choose and use a domain effect",
+          "effect": "The first time you use this ability during an encounter, it has a double edge. The second time you use it, it takes an edge. The third time you use it, it takes a bane. The fourth and each subsequent time you use this ability during an encounter, it has a double bane."
+        },
         "DOMAIN EFFECTS": {
           "CREATION DOMAIN EFFECT": "You create a 5 wall of stone within 10 squares of you.",
           "DEATH DOMAIN EFFECT": "Two enemies of your choice within 10 squares of you take corruption damage equal to 5 + your conduit level.",
@@ -287,44 +336,216 @@
         "DIVINE THIEVERY": "The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use Intuition on the test instead of another characteristic.",
         "FATE TRANCE": "If you spend 10 minutes in an uninterrupted meditative state without moving, you get a glimpse of any significant events that will happen in the area around you in the next 24 hours unless you or your allies intercede in those events. As described by the Director, these glimpses of the future might be clear and concise, or might be vague and hard to understand.",
         "GRAVE SPEECH": {
-          "GRAVE SPEECH": "The power of death lets you speak with those who have passed from the world.\n\n['**Keywords**: Magic', '**Type**: Maneuver', '**Distance**: Reach 1', '**Target**: Special']\n\n**Effect**: You can speak to the corpse or head of a creature who has died within the last 24 hours and who can speak a language you know. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. After 1 minute, the effect ends. You can’t use this ability on the same creature twice."
+          "GRAVE SPEECH": {
+            "flavor": "The power of death lets you speak with those who have passed from the world.",
+            "keywords": "Magic",
+            "type": "Maneuver",
+            "distance": "Reach 1",
+            "target": "Special",
+            "effect": "You can speak to the corpse or head of a creature who has died within the last 24 hours and who can speak a language you know. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. After 1 minute, the effect ends. You can’t use this ability on the same creature twice."
+          }
         },
         "HANDS OF THE MAKER": {
-          "HANDS OF THE MAKER": "Craft objects with the power of your mind!\n\n['**Keywords**: Magic', '**Type**: Maneuver', '**Distance**: Self', '**Target**: Self']\n\n**Effect**: You create a mundane object no larger than size 1S that you hold. If you use this feature again or stop holding the object, it disappears."
+          "HANDS OF THE MAKER": {
+            "flavor": "Craft objects with the power of your mind!",
+            "keywords": "Magic",
+            "type": "Maneuver",
+            "distance": "Self",
+            "target": "Self",
+            "effect": "You create a mundane object no larger than size 1S that you hold. If you use this feature again or stop holding the object, it disappears."
+          }
         },
         "INNER LIGHT": "Each time you finish a respite, you can choose yourself or another character who is also ending a respite to gain the benefit of a divine ritual. As you perform the ritual, you place a ray of morning light into the target’s soul, granting the target an edge on resistance rolls. This benefit lasts until you complete another respite.",
         "REVITALIZING RITUAL": "Each time you finish a respite, you can choose yourself or another character who is also ending a respite to gain the benefit of a divine ritual. When you perform the ritual, the target’s recovery value increases by an amount equal to your level. This benefit lasts until you complete another respite.",
         "RITUAL OF PREPARATION": "As a respite action, you can bless a weapon. Any creature who wields the weapon gains a +1 bonus to damage with abilities that use the weapon. This benefit lasts until you complete your next respite."
       },
       "HEALING GRACE": {
-        "HEALING GRACE": "Your divine energy restores the righteous.\n\n['**Keywords**: Magic, Ranged', '**Type**: Maneuver', '**Distance**: Ranged 5', '**Target**: Self or 1 ally']\n\n**Effect**: The target can spend 1 Recovery.\n**Spend Piety**: For each piety spent, you can choose one of the following enhancements:\n\n['You can target one additional ally within distance.', 'You can end one effect on a target that has a duration of EoT or is ended by a resistance roll.', 'A prone target can stand up.', 'A target can spend 1 additional Recovery.']"
+        "HEALING GRACE": {
+          "flavor": "Your divine energy restores the righteous.",
+          "keywords": "Magic, Ranged",
+          "type": "Maneuver",
+          "distance": "Ranged 5",
+          "target": "Self or 1 ally",
+          "effect": "The target can spend 1 Recovery.",
+          "spend_cost": "Piety",
+          "spend_effect": "For each piety spent, you can choose one of the following enhancements:\n\n['You can target one additional ally within distance.', 'You can end one effect on a target that has a duration of EoT or is ended by a resistance roll.', 'A prone target can stand up.', 'A target can spend 1 additional Recovery.']"
+        }
       },
       "PIOUS FORCE": {
-        "PIOUS FORCE": "You unleash a blast of raw divine magic upon your foe.\n\n['**Keywords**: Attack, Magic, Ranged', '**Type**: Action', '**Distance**: Ranged 5', '**Target**: 1 creature or object']\n\n**Power Roll + Intuition**:\n\n['11 or lower: 2 damage', '12–16: 6 damage', '17+: 9 damage']\n\n**Effect**: You can choose to change the damage type to holy."
+        "PIOUS FORCE": {
+          "flavor": "You unleash a blast of raw divine magic upon your foe.",
+          "keywords": "Attack, Magic, Ranged",
+          "type": "Action",
+          "distance": "Ranged 5",
+          "target": "1 creature or object",
+          "roll": "Power Roll + Intuition",
+          "tier1": "2 damage",
+          "tier2": "6 damage",
+          "tier3": "9 damage",
+          "effect": "You can choose to change the damage type to holy."
+        }
       },
       "TRIGGERED ACTION": {
-        "DIVINE DISRUPTION": "You sap the strength of an attacking enemy with divine energy.\n\n['**Keywords**: Magic, Ranged', '**Type**: Triggered', '**Distance**: Ranged 5', '**Target**: 1 enemy', '**Trigger**: The target makes an attack. You can use this ability after seeing the result of the attack.']\n\n**Effect**: The attack takes a bane and the damage to one creature targeted by the attack is reduced by an amount equal to your Intuition.\n**Spend 1 Piety**: The attack has a double bane and the damage to one creature targeted by the attack is reduced by an amount equal to twice your Intuition score.",
-        "HOLY INFUSION": "You invigorate an attacking ally with divine energy.\n\n['**Keywords**: Magic, Ranged', '**Type**: Triggered', '**Distance**: Ranged 5', '**Target**: 1 ally', '**Trigger**: The target makes an attack. You can use this ability after seeing the result of the attack.']\n\n**Effect**: The attack gains an edge and deals holy damage equal to twice your Intuition score.\n**Spend 1 Piety**: The attack has a double edge and deals holy damage equal to twice your Intuition score."
+        "DIVINE DISRUPTION": {
+          "flavor": "You sap the strength of an attacking enemy with divine energy.",
+          "keywords": "Magic, Ranged",
+          "type": "Triggered",
+          "distance": "Ranged 5",
+          "target": "1 enemy",
+          "trigger": "The target makes an attack. You can use this ability after seeing the result of the attack.",
+          "effect": "The attack takes a bane and the damage to one creature targeted by the attack is reduced by an amount equal to your Intuition.",
+          "spend_cost": "1 Piety",
+          "spend_effect": "The attack has a double bane and the damage to one creature targeted by the attack is reduced by an amount equal to twice your Intuition score."
+        },
+        "HOLY INFUSION": {
+          "flavor": "You invigorate an attacking ally with divine energy.",
+          "keywords": "Magic, Ranged",
+          "type": "Triggered",
+          "distance": "Ranged 5",
+          "target": "1 ally",
+          "trigger": "The target makes an attack. You can use this ability after seeing the result of the attack.",
+          "effect": "The attack gains an edge and deals holy damage equal to twice your Intuition score.",
+          "spend_cost": "1 Piety",
+          "spend_effect": "The attack has a double edge and deals holy damage equal to twice your Intuition score."
+        }
       },
       "CONDUIT ABILITIES": {
         "SIGNATURE ABILITY": {
-          "HOLY LANCE": "A tendril of divine energy shoots forth to draw in your foe.\n\n['**Keywords**: Attack, Magic, Ranged', '**Type**: Action', '**Distance**: Ranged 5', '**Target**: 1 creature or object']\n\n**Power Roll + Intuition**:\n\n['11 or lower: 2 holy damage; pull 2', '12–16: 6 holy damage; pull 3', '17+: 9 holy damage; pull 4']",
-          "LIGHTFALL": "Holy light scours your foes and sets your allies into perfect attack position.\n\n['**Keywords**: Area, Magic, Ranged', '**Type**: Action', '**Distance**: Cube 3 within 5', '**Target**: All enemies']\n\n**Power Roll + Intuition**:\n\n['11 or lower: 2 holy damage', '12–16: 3 holy damage', '17+: 4 holy damage']\n\n**Effect**: You can teleport each ally in the area and yourself (if you’re in the area) to an unoccupied space within the area.",
-          "SACRIFICIAL OFFER": "The divine energy of creation tears at your foe.\n\n['**Keywords**: Attack, Magic, Ranged', '**Type**: Action', '**Distance**: Ranged 5', '**Target**: 1 creature']\n\n**Power Roll + Intuition**:\n\n['11 or lower: 2 corruption damage', '12–16: 6 corruption damage; the next ally to damage the target before the start of your next turn deals an extra 1d6 corruption damage', '17+: 9 corruption damage; the next ally to damage the target before the start of your next turn deals an extra 1d10 corruption damage']",
-          "WITHER": "A bolt of holy energy saps the life from a foe.\n\n['**Keywords**: Attack, Magic, Ranged', '**Type**: Action', '**Distance**: Ranged 5', '**Target**: 1 creature or object']\n\n**Power Roll + Intuition**:\n\n['11 or lower: 2 corruption damage', '12–16: 6 corruption damage; the target takes a bane on ability power rolls (EoT)', '17+: 9 corruption damage; the target has a double bane on ability power rolls (EoT)']"
+          "HOLY LANCE": {
+            "flavor": "A tendril of divine energy shoots forth to draw in your foe.",
+            "keywords": "Attack, Magic, Ranged",
+            "type": "Action",
+            "distance": "Ranged 5",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Intuition",
+            "tier1": "2 holy damage; pull 2",
+            "tier2": "6 holy damage; pull 3",
+            "tier3": "9 holy damage; pull 4"
+          },
+          "LIGHTFALL": {
+            "flavor": "Holy light scours your foes and sets your allies into perfect attack position.",
+            "keywords": "Area, Magic, Ranged",
+            "type": "Action",
+            "distance": "Cube 3 within 5",
+            "target": "All enemies",
+            "roll": "Power Roll + Intuition",
+            "tier1": "2 holy damage",
+            "tier2": "3 holy damage",
+            "tier3": "4 holy damage",
+            "effect": "You can teleport each ally in the area and yourself (if you’re in the area) to an unoccupied space within the area."
+          },
+          "SACRIFICIAL OFFER": {
+            "flavor": "The divine energy of creation tears at your foe.",
+            "keywords": "Attack, Magic, Ranged",
+            "type": "Action",
+            "distance": "Ranged 5",
+            "target": "1 creature",
+            "roll": "Power Roll + Intuition",
+            "tier1": "2 corruption damage",
+            "tier2": "6 corruption damage; the next ally to damage the target before the start of your next turn deals an extra 1d6 corruption damage",
+            "tier3": "9 corruption damage; the next ally to damage the target before the start of your next turn deals an extra 1d10 corruption damage"
+          },
+          "WITHER": {
+            "flavor": "A bolt of holy energy saps the life from a foe.",
+            "keywords": "Attack, Magic, Ranged",
+            "type": "Action",
+            "distance": "Ranged 5",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Intuition",
+            "tier1": "2 corruption damage",
+            "tier2": "6 corruption damage; the target takes a bane on ability power rolls (EoT)",
+            "tier3": "9 corruption damage; the target has a double bane on ability power rolls (EoT)"
+          }
         },
         "HEROIC ABILITIES": "You make use of a number of heroic abilities, all of which channel piety to empower them.",
         "3-PIETY ABILITIES": {
-          "ANGEL OF WRATH (3 PIETY)": "You conjure an angelic spirit who lashes your foes with burning radiance.\n\n['**Keywords**: Magic, Ranged', '**Type**: Action', '**Distance**: Ranged 5', '**Target**: Special']\n\n**Effect**: You summon an angelic spirit of size 1M who can’t be harmed, and who appears in an unoccupied space within distance. The spirit lasts until the end of your next turn. You and your allies can move through the spirit’s space, but enemies can’t. The first time on a turn that an enemy moves within 1 square of the spirit or starts their turn there, they take holy damage equal to twice your Intuition score.",
-          "PUNISHING SMITE (3 PIETY)": "Your divine fury is a hammer that crashes down upon the unrighteous.\n\n['**Keywords**: Attack, Magic, Ranged', '**Type**: Action', '**Distance**: Ranged 5', '**Target**: 1 creature or object']\n\n**Power Roll + Intuition**:\n\n['11 or lower: 6 holy damage', '12–16: 8 holy damage; prone', '17+: 13 holy damage; prone and can’t stand (EoT)']",
-          "RIGHTEOUS REBUKE (3 PIETY)": "Divine wrath strikes your foe with lightning that follows them across the battlefield.\n\n['**Keywords**: Attack, Magic, Ranged', '**Type**: Action', '**Distance**: Ranged 5', '**Target**: 1 creature']\n\n**Power Roll + Intuition**:\n\n['11 or lower: 6 lightning damage', '12–16: 8 lightning damage', '17+: 13 lightning damage']\n\n**Effect**: If the target deals damage to another creature before the end of their next turn, the target of this ability takes another 1d10 lightning damage.",
-          "THUNDER OF THE DIVINE (3 PIETY)": "A resounding clap of thunder disrupts your foes.\n\n['**Keywords**: Area, Magic, Ranged', '**Type**: Action', '**Distance**: 4 cube within 5', '**Target**: All enemies']\n\n**Power Roll + Intuition**:\n\n['11 or lower: 4 sonic damage; push 1', '12–16: 5 sonic damage; push 3', '17+: 8 sonic damage; push 5']\n\n**Effect**: You can also push each willing ally in the area, and their stability doesn’t count against this forced movement."
+          "ANGEL OF WRATH (3 PIETY)": {
+            "flavor": "You conjure an angelic spirit who lashes your foes with burning radiance.",
+            "keywords": "Magic, Ranged",
+            "type": "Action",
+            "distance": "Ranged 5",
+            "target": "Special",
+            "effect": "You summon an angelic spirit of size 1M who can’t be harmed, and who appears in an unoccupied space within distance. The spirit lasts until the end of your next turn. You and your allies can move through the spirit’s space, but enemies can’t. The first time on a turn that an enemy moves within 1 square of the spirit or starts their turn there, they take holy damage equal to twice your Intuition score."
+          },
+          "PUNISHING SMITE (3 PIETY)": {
+            "flavor": "Your divine fury is a hammer that crashes down upon the unrighteous.",
+            "keywords": "Attack, Magic, Ranged",
+            "type": "Action",
+            "distance": "Ranged 5",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Intuition",
+            "tier1": "6 holy damage",
+            "tier2": "8 holy damage; prone",
+            "tier3": "13 holy damage; prone and can’t stand (EoT)"
+          },
+          "RIGHTEOUS REBUKE (3 PIETY)": {
+            "flavor": "Divine wrath strikes your foe with lightning that follows them across the battlefield.",
+            "keywords": "Attack, Magic, Ranged",
+            "type": "Action",
+            "distance": "Ranged 5",
+            "target": "1 creature",
+            "roll": "Power Roll + Intuition",
+            "tier1": "6 lightning damage",
+            "tier2": "8 lightning damage",
+            "tier3": "13 lightning damage",
+            "effect": "If the target deals damage to another creature before the end of their next turn, the target of this ability takes another 1d10 lightning damage."
+          },
+          "THUNDER OF THE DIVINE (3 PIETY)": {
+            "flavor": "A resounding clap of thunder disrupts your foes.",
+            "keywords": "Area, Magic, Ranged",
+            "type": "Action",
+            "distance": "4 cube within 5",
+            "target": "All enemies",
+            "roll": "Power Roll + Intuition",
+            "tier1": "4 sonic damage; push 1",
+            "tier2": "5 sonic damage; push 3",
+            "tier3": "8 sonic damage; push 5",
+            "effect": "You can also push each willing ally in the area, and their stability doesn’t count against this forced movement."
+          }
         },
         "5-PIETY ABILITIES": {
-          "ARMOR OF THE FAITHFUL (5 PIETY)": "The divine light of protection surrounds your allies.\n\n['**Keywords**: Magic, Ranged', '**Type**: Maneuver', '**Distance**: Ranged 5', '**Target**: 3 allies']\n\n**Power Roll + Intuition**:\n\n['11 or lower: Gain 10 temporary Stamina', '12–16: Gain 15 temporary Stamina', '17+: Gain 20 temporary Stamina']\n\n**Effect**: This temporary Stamina disappears at the end of the encounter.",
-          "DIVINE WEAKNESS (5 PIETY)": "Divine energy scours your target to make them more susceptible to harm.\n\n['**Keywords**: Attack, Magic, Ranged', '**Type**: Action', '**Distance**: Ranged 5', '**Target**: 1 creature or object']\n\n**Power Roll + Intuition**:\n\n['11 or lower: 7 corruption damage; whenever the target takes damage, they take an extra 3 corruption damage (EoT)', '12–16: 10 damage; whenever the target takes damage, they take an extra 5 corruption damage (EoT)', '17+: 16 damage; whenever the target takes damage, they take an extra 5 corruption damage (EoE)']",
-          "TERRIFYING SMITE (5 PIETY)": "A mote of holy light racks your foe with their greatest fear.\n\n['**Keywords**: Attack, Magic, Ranged', '**Type**: Action', '**Distance**: Ranged 5', '**Target**: 1 creature']\n\n**Power Roll + Intuition**:\n\n['11 or lower: 7 holy damage', '12–16: 10 holy damage; frightened (EoT)', '17+: 16 holy damage; frightened (EoE)']",
-          "WAVE OF VIRTUE (5 PIETY)": "A pulse of divine magic lets your comrades draw on their reserves of inner strength.\n\n['**Keywords**: Area, Magic', '**Type**: Action', '**Distance**: 5 burst', '**Target**: All allies']\n\n**Effect**: Each target can spend one or two Recoveries, and end one effect that has a duration of EoT or is ended by a resistance roll."
+          "ARMOR OF THE FAITHFUL (5 PIETY)": {
+            "flavor": "The divine light of protection surrounds your allies.",
+            "keywords": "Magic, Ranged",
+            "type": "Maneuver",
+            "distance": "Ranged 5",
+            "target": "3 allies",
+            "roll": "Power Roll + Intuition",
+            "tier1": "Gain 10 temporary Stamina",
+            "tier2": "Gain 15 temporary Stamina",
+            "tier3": "Gain 20 temporary Stamina",
+            "effect": "This temporary Stamina disappears at the end of the encounter."
+          },
+          "DIVINE WEAKNESS (5 PIETY)": {
+            "flavor": "Divine energy scours your target to make them more susceptible to harm.",
+            "keywords": "Attack, Magic, Ranged",
+            "type": "Action",
+            "distance": "Ranged 5",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Intuition",
+            "tier1": "7 corruption damage; whenever the target takes damage, they take an extra 3 corruption damage (EoT)",
+            "tier2": "10 damage; whenever the target takes damage, they take an extra 5 corruption damage (EoT)",
+            "tier3": "16 damage; whenever the target takes damage, they take an extra 5 corruption damage (EoE)"
+          },
+          "TERRIFYING SMITE (5 PIETY)": {
+            "flavor": "A mote of holy light racks your foe with their greatest fear.",
+            "keywords": "Attack, Magic, Ranged",
+            "type": "Action",
+            "distance": "Ranged 5",
+            "target": "1 creature",
+            "roll": "Power Roll + Intuition",
+            "tier1": "7 holy damage",
+            "tier2": "10 holy damage; frightened (EoT)",
+            "tier3": "16 holy damage; frightened (EoE)"
+          },
+          "WAVE OF VIRTUE (5 PIETY)": {
+            "flavor": "A pulse of divine magic lets your comrades draw on their reserves of inner strength.",
+            "keywords": "Area, Magic",
+            "type": "Action",
+            "distance": "5 burst",
+            "target": "All allies",
+            "effect": "Each target can spend one or two Recoveries, and end one effect that has a duration of EoT or is ended by a resistance roll."
+          }
         }
       }
     }
@@ -337,50 +558,268 @@
       "ELEMENTAL SPECIALIZATION": "Through your studies, you know and can manipulate the seven primal elements of the timescape:\n\n['**Air** is the element of movement. Air abilities allow you to manipulate speed, quickness, flight, and breath.', '**Earth** is the element of permanence. Earth abilities create and shape physical terrain in a permanent way, and bolster the strength and hardiness of allies.', '**Fire** is the element of destruction. Fire abilities harm enemies and objects.', '**Green** is the element of creation and growth. Green abilities make and manipulate plants, fungi, and other forms of life to hamper foes and nourish your allies.', '**Rot** is the element of death. Rot abilities decay and debuff enemies.', '**Void** is the element of the unknown. Void abilities warp space and reality, allowing you to teleport, create illusions, and make things incorporeal.', '**Water** is the element of change. Water abilities enhance what your allies can do, and alter the abilities of your enemies for the worse.']\n\nHeroic abilities that include your specialization’s keyword have their initial essence cost reduced by 1 (to a minimum of 1). This reduced cost doesn’t apply to abilities you gain because of your specialization, such as Manipulate Earth or Void Sight.\n\nChoose one of the following elements to be your specialty: earth, fire, green, or void. (Other elemental specializations will be featured in future products.) Your choice of specialization determines many of the features you’ll gain from this class.",
       "ESSENCE": "You channel the substance of creation in the form of a Heroic Resource called essence. In times of great stress, you can focus your control on this substance, gathering and burning it to cast and maintain spells.\n\nOutside of combat and other dangerous situations tracked in turns and rounds, you have essence equal to your Victories. If you lose some or all of this essence outside of combat, it takes you 1 minute to regain it. You can also dedicate that essence to maintaining persistent abilities (see Persistent Magic below).\n\nWhen combat begins, you keep any essence you had outside of combat. At the start of each of your turns during combat, you gain 2 essence. When combat ends, you once more have essence equal to your Victories.",
       "HURL ELEMENT": {
-        "HURL ELEMENT": "You hurl a ball of elemental energy at a nearby foe.\n\n['**Keywords**: Attack, Magic, Ranged', '**Type**: Action', '**Distance**: Ranged 5', '**Target**: 1 creature or object']\n\n**Power Roll + Reason**:\n\n['11 or lower: 2 damage (type varies)', '12–16: 6 damage (type varies)', '17+: 9 damage (type varies)']\n\n**Effect**: When you make this attack, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic."
+        "HURL ELEMENT": {
+          "flavor": "You hurl a ball of elemental energy at a nearby foe.",
+          "keywords": "Attack, Magic, Ranged",
+          "type": "Action",
+          "distance": "Ranged 5",
+          "target": "1 creature or object",
+          "roll": "Power Roll + Reason",
+          "tier1": "2 damage (type varies)",
+          "tier2": "6 damage (type varies)",
+          "tier3": "9 damage (type varies)",
+          "effect": "When you make this attack, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic."
+        }
       },
       "PERSISTENT MAGIC": "Some of your heroic abilities have the Persistent keyword. Whenever you use a persistent ability, you decide whether you want to maintain it. If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your turn by an amount equal to the ability’s persistent value, which enables the ability’s persistent effect. All your active persistent abilities end when combat ends.\n\nYou can maintain a persistent ability outside of combat as long as you have Victories equal to or greater than its persistent value. If you maintain a persistent ability outside of combat, the maximum essence you can use on other abilities is reduced by the ability’s persistent value. For instance, if you have 4 Victories and maintain the Stone Ward ability (a persistent ability with a cost of 1 essence), you can only use abilities costing 3 essence or less outside of combat.\n\nYou can’t maintain any abilities that would make you earn a negative amount of essence at the start of your turn or have a negative amount of essence outside of combat. You can stop maintaining an ability at any time (no action required).\n\nIf you maintain the same ability on several targets and the effect includes a power roll, you make that roll once and apply the same effect to all targets. A creature can’t be affected by multiple instances of a persistent ability.\n\nWhenever you take damage while you have an active persistent ability, you must make the following power roll.\n\n**Power Roll + Reason**:\n\n['11 or lower: You lose all active persistent abilities.', '12–16: If you have only one persistent ability active, it remains active. Otherwise, you lose one active persistent ability of your choice.', '17+: All your active persistent abilities remain active.']",
       "PRACTICAL MAGIC": {
-        "PRACTICAL MAGIC": "Your mastery of elemental power lets you customize your magic.\n\n['**Keywords**: Magic', '**Type**: Maneuver', '**Distance**: Self', '**Target**: Self']\n\n**Effect**: Choose one of the following effects:\n\n['You use the Knockback maneuver, but you make a Reason test instead of a Might test. For this use of the maneuver, you can target a creature at a distance equal to the distance of your Hurl Element ability.', 'You choose a creature within the distance of your Hurl Element ability and deal damage to that creature equal to your Reason score. The damage type can be acid, cold, corruption, fire, lightning, poison, or sonic.', 'You teleport a number of squares equal to your Reason score.']"
+        "PRACTICAL MAGIC": {
+          "flavor": "Your mastery of elemental power lets you customize your magic.",
+          "keywords": "Magic",
+          "type": "Maneuver",
+          "distance": "Self",
+          "target": "Self",
+          "effect": "Choose one of the following effects:\n\n['You use the Knockback maneuver, but you make a Reason test instead of a Might test. For this use of the maneuver, you can target a creature at a distance equal to the distance of your Hurl Element ability.', 'You choose a creature within the distance of your Hurl Element ability and deal damage to that creature equal to your Reason score. The damage type can be acid, cold, corruption, fire, lightning, poison, or sonic.', 'You teleport a number of squares equal to your Reason score.']"
+        }
       },
       "1ST-LEVEL SPECIALIZATION FEATURE": {
         "1ST-LEVEL ELEMENTALIST SPECIALIZATION FEATURES": "| Specialization | Feature            |\n| -------------- | ------------------ |\n| Earth          | Manipulate Earth   |\n| Fire           | Melt               |\n| Green          | Speech of the Wild |\n| Void           | Void Sense         |",
         "MANIPULATE EARTH": {
-          "MANIPULATE EARTH (2 ESSENCE)": "The earth rises, falls, or opens at your command.\n\n['**Keywords**: Earth, Magic, Melee', '**Type**: Action', '**Distance**: Reach 1', '**Target**: Special']\n\n**Effect**: You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.\n\n**Alternative Effect**: You touch a structure of mundane dirt, stone, or metal that takes up at least 2 squares. You can open a 1-square opening in the structure where you touched it.\n\n**Alternative Effect**: You touch a doorway or other opening in a mundane dirt, stone, or metal surface that is no larger than 1 square. The opening is sealed by the same material that makes up the surface.\n\n**Spend No Essence**: You can use this ability without spending essence. If you do, you must spend 1 uninterrupted minute using the ability while within reach of the target before its effect occurs."
+          "MANIPULATE EARTH (2 ESSENCE)": {
+            "flavor": "The earth rises, falls, or opens at your command.",
+            "keywords": "Earth, Magic, Melee",
+            "type": "Action",
+            "distance": "Reach 1",
+            "target": "Special",
+            "effect": "You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.",
+            "alternative_effects": [
+              "You touch a structure of mundane dirt, stone, or metal that takes up at least 2 squares. You can open a 1-square opening in the structure where you touched it.\n",
+              "You touch a doorway or other opening in a mundane dirt, stone, or metal surface that is no larger than 1 square. The opening is sealed by the same material that makes up the surface.\n"
+            ],
+            "spend_cost": "No Essence",
+            "spend_effect": "You can use this ability without spending essence. If you do, you must spend 1 uninterrupted minute using the ability while within reach of the target before its effect occurs."
+          }
         },
         "MELT": {
-          "MELT (2 ESSENCE)": "With the merest touch, you cause an object to turn into slag or ash.\n\n['**Keywords**: Fire, Magic, Melee', '**Type**: Action', '**Distance**: Reach 1', '**Target**: 1 mundane object']\n\n**Effect**: You heat the target and cause it to combust and melt. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.\n\n**Spend No Essence**: You can use this ability without spending essence. If you do, you must spend 1 uninterrupted minute using the ability while touching the target before its effect occurs."
+          "MELT (2 ESSENCE)": {
+            "flavor": "With the merest touch, you cause an object to turn into slag or ash.",
+            "keywords": "Fire, Magic, Melee",
+            "type": "Action",
+            "distance": "Reach 1",
+            "target": "1 mundane object",
+            "effect": "You heat the target and cause it to combust and melt. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.",
+            "spend_cost": "No Essence",
+            "spend_effect": "You can use this ability without spending essence. If you do, you must spend 1 uninterrupted minute using the ability while touching the target before its effect occurs."
+          }
         },
         "SPEECH OF THE WILD": "You can speak with and understand Animals, Plant Creatures, and Monstrosities, even if they don’t share a language with you. Your ability to communicate with such creatures doesn’t make them inherently more intelligent or less hostile toward you.\n\nAdditionally, when you touch a living plant object, you can communicate with it telepathically. You can use words to communicate with the plant, but it communicates with you only by transmitting feelings and sensations that can’t be overly specific.",
         "VOID SENSE": {
-          "SHARED VOID SENSE (1+ ESSENCE)": "You share your special senses with others.\n\n['**Keywords**: Magic, Ranged, Void', '**Type**: Maneuver', '**Distance**: Ranged 5', '**Target**: Special']\n\n**Effect**: For each essence you spend, you can target 1 creature. That creature gains the benefit of your Void Sense feature until the end of your next turn, but doesn’t gain the use of Shared Void Sense."
+          "SHARED VOID SENSE (1+ ESSENCE)": {
+            "flavor": "You share your special senses with others.",
+            "keywords": "Magic, Ranged, Void",
+            "type": "Maneuver",
+            "distance": "Ranged 5",
+            "target": "Special",
+            "effect": "For each essence you spend, you can target 1 creature. That creature gains the benefit of your Void Sense feature until the end of your next turn, but doesn’t gain the use of Shared Void Sense."
+          }
         }
       },
       "SPECIALIZATION TRIGGERED ACTION": {
-        "EARTHEN FORCE": "You imbue an attack with the strength of stone.\n\n['**Keywords**: Earth, Magic, Ranged', '**Type**: Triggered', '**Distance**: Ranged 5', '**Target**: Self or 1 ally', '**Trigger**: The target makes a melee attack.']\n\n**Effect**: The attack deals extra damage equal to 3 times your Reason score.\n**Spend 1 Essence**: The attack deals extra damage equal to 4 times your Reason score instead and pushes the target a number of squares equal to your Reason score.",
-        "EXPLOSIVE ASSISTANCE": "You add a little magic to an ally’s aggression at just the right time.\n\n['**Keywords**: Fire, Magic, Ranged', '**Type**: Triggered', '**Distance**: Ranged 5', '**Target**: Self or 1 ally', '**Trigger**: The target force moves a creature or object.']\n\n**Effect**: The distance of the forced movement is increased by a number of squares equal to your Reason score.\n**Spend 1 Essence**: The distance of the forced movement is increased by a number of squares equal to twice your Reason score instead.",
-        "MEND THE SOUL": "The power you channel grants the ability to get back in the fight.\n\n['**Keywords**: Green, Magic, Ranged', '**Type**: Triggered', '**Distance**: Ranged 5', '**Target**: Self or 1 ally', '**Trigger**: The target starts their turn.']\n\n**Effect**: The target can spend a Recovery.",
-        "VOID EMBRACE": "You call on the void to swallow and spit out an ally.\n\n['**Keywords**: Magic, Ranged, Void', '**Type**: Triggered', '**Distance**: Self or Ranged 5', '**Target**: Self or 1 ally', '**Trigger**: The target starts their turn or moves.']\n\n**Effect**: At any point during the move, you teleport the target a number of squares equal to your Reason.\n**Spend 1 Essence**: You teleport the target a number of squares equal to twice your Reason score instead."
+        "EARTHEN FORCE": {
+          "flavor": "You imbue an attack with the strength of stone.",
+          "keywords": "Earth, Magic, Ranged",
+          "type": "Triggered",
+          "distance": "Ranged 5",
+          "target": "Self or 1 ally",
+          "trigger": "The target makes a melee attack.",
+          "effect": "The attack deals extra damage equal to 3 times your Reason score.",
+          "spend_cost": "1 Essence",
+          "spend_effect": "The attack deals extra damage equal to 4 times your Reason score instead and pushes the target a number of squares equal to your Reason score."
+        },
+        "EXPLOSIVE ASSISTANCE": {
+          "flavor": "You add a little magic to an ally’s aggression at just the right time.",
+          "keywords": "Fire, Magic, Ranged",
+          "type": "Triggered",
+          "distance": "Ranged 5",
+          "target": "Self or 1 ally",
+          "trigger": "The target force moves a creature or object.",
+          "effect": "The distance of the forced movement is increased by a number of squares equal to your Reason score.",
+          "spend_cost": "1 Essence",
+          "spend_effect": "The distance of the forced movement is increased by a number of squares equal to twice your Reason score instead."
+        },
+        "MEND THE SOUL": {
+          "flavor": "The power you channel grants the ability to get back in the fight.",
+          "keywords": "Green, Magic, Ranged",
+          "type": "Triggered",
+          "distance": "Ranged 5",
+          "target": "Self or 1 ally",
+          "trigger": "The target starts their turn.",
+          "effect": "The target can spend a Recovery."
+        },
+        "VOID EMBRACE": {
+          "flavor": "You call on the void to swallow and spit out an ally.",
+          "keywords": "Magic, Ranged, Void",
+          "type": "Triggered",
+          "distance": "Self or Ranged 5",
+          "target": "Self or 1 ally",
+          "trigger": "The target starts their turn or moves.",
+          "effect": "At any point during the move, you teleport the target a number of squares equal to your Reason.",
+          "spend_cost": "1 Essence",
+          "spend_effect": "You teleport the target a number of squares equal to twice your Reason score instead."
+        }
       },
       "ELEMENTALIST ABILITIES": {
         "SIGNATURE ABILITY": {
-          "DEBRIS": "A sudden storm of detritus assaults your foes and leaves them struggling to move.\n\n['**Keywords**: Area, Earth, Magic, Ranged', '**Type**: Action', '**Distance**: 3 cube within 5', '**Target**: All enemies']\n\n**Power Roll + Reason**:\n\n['11 or lower: 2 damage', '12–16: 3 damage', '17+: 4 damage']\n\n**Effect**: The ground beneath the area becomes difficult terrain for your enemies.",
-          "FIRE LANCE": "A jet of fire erupts with elemental fury where it strikes.\n\n['**Keywords**: Attack, Fire, Magic, Ranged', '**Type**: Action', '**Distance**: Ranged 5', '**Target**: 1 creature or object']\n\n**Power Roll + Reason**:\n\n['11 or lower: 2 fire damage; push 2', '12–16: 6 fire damage; push 3', '17+: 9 fire damage; push 5']",
-          "GROWING PAINS": "Whipping vines erupt from a foe’s body to grasp at another close by.\n\n['**Keywords**: Attack, Green, Magic, Ranged', '**Type**: Action', '**Distance**: Ranged 5', '**Target**: 1 creature']\n\n**Power Roll + Reason**:\n\n['11 or lower: 2 damage', '12–16: 6 damage', '17+: 9 damage']\n\n**Effect**: A creature within 5 squares of the target is pulled 2 squares toward the target.",
-          "VOID RAY": "A beam of energy corrupts and hinders whatever it touches.\n\n['**Keywords**: Attack, Magic, Ranged, Void', '**Type**: Action', '**Distance**: Ranged 5', '**Target**: 1 creature or object']\n\n**Power Roll + Reason**:\n\n['11 or lower: 2 corruption damage', '12–16: 6 corruption damage; slowed (EoT)', '17+: 9 corruption damage; slowed (EoT)']"
+          "DEBRIS": {
+            "flavor": "A sudden storm of detritus assaults your foes and leaves them struggling to move.",
+            "keywords": "Area, Earth, Magic, Ranged",
+            "type": "Action",
+            "distance": "3 cube within 5",
+            "target": "All enemies",
+            "roll": "Power Roll + Reason",
+            "tier1": "2 damage",
+            "tier2": "3 damage",
+            "tier3": "4 damage",
+            "effect": "The ground beneath the area becomes difficult terrain for your enemies."
+          },
+          "FIRE LANCE": {
+            "flavor": "A jet of fire erupts with elemental fury where it strikes.",
+            "keywords": "Attack, Fire, Magic, Ranged",
+            "type": "Action",
+            "distance": "Ranged 5",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Reason",
+            "tier1": "2 fire damage; push 2",
+            "tier2": "6 fire damage; push 3",
+            "tier3": "9 fire damage; push 5"
+          },
+          "GROWING PAINS": {
+            "flavor": "Whipping vines erupt from a foe’s body to grasp at another close by.",
+            "keywords": "Attack, Green, Magic, Ranged",
+            "type": "Action",
+            "distance": "Ranged 5",
+            "target": "1 creature",
+            "roll": "Power Roll + Reason",
+            "tier1": "2 damage",
+            "tier2": "6 damage",
+            "tier3": "9 damage",
+            "effect": "A creature within 5 squares of the target is pulled 2 squares toward the target."
+          },
+          "VOID RAY": {
+            "flavor": "A beam of energy corrupts and hinders whatever it touches.",
+            "keywords": "Attack, Magic, Ranged, Void",
+            "type": "Action",
+            "distance": "Ranged 5",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Reason",
+            "tier1": "2 corruption damage",
+            "tier2": "6 corruption damage; slowed (EoT)",
+            "tier3": "9 corruption damage; slowed (EoT)"
+          }
         },
         "HEROIC ABILITIES": "You channel a range of heroic abilities, all of them fueled by your essence",
         "3-ESSENCE ABILITIES": {
-          "BURN! (3 ESSENCE)": "Fire engulfs a target of your choice and burns at your command.\n\n['**Keywords**: Attack, Fire, Magic, Persistent, Ranged', '**Type**: Action', '**Distance**: Ranged 5', '**Target**: 1 creature or object']\n\n**Power Roll + Reason**:\n\n['11 or lower: 6 fire damage', '12–16: 8 fire damage', '17+: 13 fire damage']\n\n**Persistent 1**: If the target is within distance at the start of your turn, make a power roll for this ability again.",
-          "INVIGORATING GROWTH (3 ESSENCE)": "Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.\n\n['**Keywords**: Attack, Green, Magic, Ranged', '**Type**: Action', '**Distance**: Ranged 5', '**Target**: 1 creature']\n\n**Power Roll + Reason**:\n\n['11 or lower: 6 poison damage', '12–16: 9 poison damage', '17+: 14 poison damage']\n\n**Effect**: The mushrooms can be removed by the target or by an adjacent creature as an action. While the mushrooms are on the target, each of your allies adjacent to the target gains an edge on attacks against them.",
-          "PUNCH THE EARTH (3 ESSENCE)": "You slam the ground, which buckles out from you in every direction.\n\n['**Keywords**: Area, Earth, Magic', '**Type**: Action', '**Distance**: 3 burst', '**Target**: All enemies']\n\n**Power Roll + Reason**:\n\n['11 or lower: 4 damage', '12–16: 5 damage', '17+: 8 damage; prone']\n\n**Effect**: You must be touching the ground or floor to use this ability. The surface beneath the area becomes difficult terrain for your enemies.",
-          "STARE INTO THE ABYSS (3 ESSENCE)": "You open a rift into the void to harry your enemies.\n\n['**Keywords**: Area, Magic, Persistent, Ranged, Void', '**Type**: Action', '**Distance**: 4 cube within 5', '**Target**: All enemies']\n\n**Power Roll + Reason**:\n\n['11 or lower: 3 psychic damage', '12–16: 4 psychic damage', '17+: 6 psychic damage']\n\n**Persistent 1**: At the start of your turn, you can use this ability again as a maneuver without spending essence."
+          "BURN! (3 ESSENCE)": {
+            "flavor": "Fire engulfs a target of your choice and burns at your command.",
+            "keywords": "Attack, Fire, Magic, Persistent, Ranged",
+            "type": "Action",
+            "distance": "Ranged 5",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Reason",
+            "tier1": "6 fire damage",
+            "tier2": "8 fire damage",
+            "tier3": "13 fire damage",
+            "persistent_cost": "1",
+            "persistent_effect": "If the target is within distance at the start of your turn, make a power roll for this ability again."
+          },
+          "INVIGORATING GROWTH (3 ESSENCE)": {
+            "flavor": "Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.",
+            "keywords": "Attack, Green, Magic, Ranged",
+            "type": "Action",
+            "distance": "Ranged 5",
+            "target": "1 creature",
+            "roll": "Power Roll + Reason",
+            "tier1": "6 poison damage",
+            "tier2": "9 poison damage",
+            "tier3": "14 poison damage",
+            "effect": "The mushrooms can be removed by the target or by an adjacent creature as an action. While the mushrooms are on the target, each of your allies adjacent to the target gains an edge on attacks against them."
+          },
+          "PUNCH THE EARTH (3 ESSENCE)": {
+            "flavor": "You slam the ground, which buckles out from you in every direction.",
+            "keywords": "Area, Earth, Magic",
+            "type": "Action",
+            "distance": "3 burst",
+            "target": "All enemies",
+            "roll": "Power Roll + Reason",
+            "tier1": "4 damage",
+            "tier2": "5 damage",
+            "tier3": "8 damage; prone",
+            "effect": "You must be touching the ground or floor to use this ability. The surface beneath the area becomes difficult terrain for your enemies."
+          },
+          "STARE INTO THE ABYSS (3 ESSENCE)": {
+            "flavor": "You open a rift into the void to harry your enemies.",
+            "keywords": "Area, Magic, Persistent, Ranged, Void",
+            "type": "Action",
+            "distance": "4 cube within 5",
+            "target": "All enemies",
+            "roll": "Power Roll + Reason",
+            "tier1": "3 psychic damage",
+            "tier2": "4 psychic damage",
+            "tier3": "6 psychic damage",
+            "persistent_cost": "1",
+            "persistent_effect": "At the start of your turn, you can use this ability again as a maneuver without spending essence."
+          }
         },
         "5-ESSENCE ABILITIES": {
-          "CONFLAGRATION (5 ESSENCE)": "A storm of fire descends upon your enemies.\n\n['**Keywords**: Area, Fire, Magic, Persistent, Ranged', '**Type**: Action', '**Distance**: 4 cube within 5', '**Target**: All enemies']\n\n**Power Roll + Reason**:\n\n['11 or lower: 5 fire damage', '12–16: 7 fire damage', '17+: 10 fire damage']\n\n**Persistent 2**: At the start of your turn, you can use this ability again as a maneuver without spending essence.",
-          "INCORPOREALNESS (5 ESSENCE)": "The material substance of a creature shreds away at your command.\n\n['**Keywords**: Magic, Melee, Persistent, Void', '**Type**: Maneuver', '**Distance**: Self or Reach', '**Target**: Self or 1 ally']\n\n**Effect**: Until the start of your next turn, the target has damage immunity 5 and can move through 1 square of solid matter once per turn. If the target ends their turn inside solid matter, they are shunted out into the space where they entered it and this effect ends.\n\n**Persistent 1**: The effect lasts until the start of your next turn.",
-          "NOURISHING RAIN (5 ESSENCE)": "You call down a rain that burns your enemies and restores your allies.\n\n['**Keywords**: Area, Green, Magic', '**Type**: Action', '**Distance**: 5 burst', '**Target**: All enemies']\n\n**Power Roll + Reason**:\n\n['11 or lower: 3 acid damage', '12–16: 5 acid damage', '17+: 7 acid damage']\n\n**Effect**: You and each ally in the area suffering any effect that has a duration of EoT or is ended by a resistance roll have all such effects end.",
-          "OPEN THE EARTH (5 ESSENCE)": "The surface of the world around you opens up at your command.\n\n['**Keywords**: Magic, Earth, Persistent, Ranged', '**Type**: Maneuver', '**Distance**: Ranged 5', '**Target**: Special']\n\n**Effect**: You open four holes with 1-square openings that are 6 squares deep, and which can be placed on any mundane surface within distance. You can place these holes next to each other to create fewer holes with wider openings. For each creature standing above a hole when it opens and small enough to fall in, make a power roll.\n\n**Power Roll + Reason**:\n\n['11 or lower: The target can shift up to 1 square from the edge of the hole to the nearest unoccupied space of their choice.', '12–16: The target falls into the hole.', '17+: The target falls into the hole and can’t reduce the height of the fall.']\n\n**Persistent 1**: At the start of your turn, you open another hole."
+          "CONFLAGRATION (5 ESSENCE)": {
+            "flavor": "A storm of fire descends upon your enemies.",
+            "keywords": "Area, Fire, Magic, Persistent, Ranged",
+            "type": "Action",
+            "distance": "4 cube within 5",
+            "target": "All enemies",
+            "roll": "Power Roll + Reason",
+            "tier1": "5 fire damage",
+            "tier2": "7 fire damage",
+            "tier3": "10 fire damage",
+            "persistent_cost": "2",
+            "persistent_effect": "At the start of your turn, you can use this ability again as a maneuver without spending essence."
+          },
+          "INCORPOREALNESS (5 ESSENCE)": {
+            "flavor": "The material substance of a creature shreds away at your command.",
+            "keywords": "Magic, Melee, Persistent, Void",
+            "type": "Maneuver",
+            "distance": "Self or Reach",
+            "target": "Self or 1 ally",
+            "effect": "Until the start of your next turn, the target has damage immunity 5 and can move through 1 square of solid matter once per turn. If the target ends their turn inside solid matter, they are shunted out into the space where they entered it and this effect ends.",
+            "persistent_cost": "1",
+            "persistent_effect": "The effect lasts until the start of your next turn."
+          },
+          "NOURISHING RAIN (5 ESSENCE)": {
+            "flavor": "You call down a rain that burns your enemies and restores your allies.",
+            "keywords": "Area, Green, Magic",
+            "type": "Action",
+            "distance": "5 burst",
+            "target": "All enemies",
+            "roll": "Power Roll + Reason",
+            "tier1": "3 acid damage",
+            "tier2": "5 acid damage",
+            "tier3": "7 acid damage",
+            "effect": "You and each ally in the area suffering any effect that has a duration of EoT or is ended by a resistance roll have all such effects end."
+          },
+          "OPEN THE EARTH (5 ESSENCE)": {
+            "flavor": "The surface of the world around you opens up at your command.",
+            "keywords": "Magic, Earth, Persistent, Ranged",
+            "type": "Maneuver",
+            "distance": "Ranged 5",
+            "target": "Special",
+            "roll": "Power Roll + Reason",
+            "tier1": "The target can shift up to 1 square from the edge of the hole to the nearest unoccupied space of their choice.",
+            "tier2": "The target falls into the hole.",
+            "tier3": "The target falls into the hole and can’t reduce the height of the fall.",
+            "effect": "You open four holes with 1-square openings that are 6 squares deep, and which can be placed on any mundane surface within distance. You can place these holes next to each other to create fewer holes with wider openings. For each creature standing above a hole when it opens and small enough to fall in, make a power roll.",
+            "persistent_cost": "1",
+            "persistent_effect": "At the start of your turn, you open another hole."
+          }
         }
       }
     }
@@ -418,29 +857,186 @@
       },
       "ASPECT TRIGGERED ACTION": {
         "FURY TRIGGERED ACTIONS": "| **Aspect** | **Triggered Action** |\n| ---------- | -------------------- |\n| Berserker  | Relentless Toss      |\n| Reaver     | Uncanny Dodge        |\n| Stormwight | Regeneration         |",
-        "REGENERATION": "Your transformative abilities bring you back into the fight.\n\n['**Keywords:** Melee', '**Type:** Triggered', '**Distance:** Self', '**Target:** Self', '**Trigger:** You lose Stamina and are not dying.']\n\n**Effect:** After damage is resolved, if your rage is high enough, you can enter your animal or hybrid form as a free triggered action. If you can’t gain the temporary Stamina from that form because you have already done so this encounter, you gain temporary Stamina equal to your Might.\n\n**Spend 1 Rage:** If you are not dying, you can spend a Recovery.",
-        "RELENTLESS TOSS": "The Primordial Chaos allows you to redirect kinetic energy for a monstrous smash!\n\n['**Keywords:** Magic, Melee', '**Type:** Triggered', '**Distance:** Self or reach', '**Target:** Self or 1 creature', '**Trigger:** The target is force moved.']\n\n**Effect:** You can select a new target of the same size or smaller within distance to be force moved instead. Additionally, you can increase the forced move distance by a number of squares equal to your Might score. You can use your Primordial Strength benefit to make this forced movement vertical.\n\n**Spend 1 Rage:** You can increase the forced move distance by a number of squares equal to twice your Might score instead.",
-        "UNCANNY DODGE": "When a damaging effect surrounds you, you stay two steps ahead.\n\n['**Keywords:** Melee', '**Type:** Triggered', '**Distance:** Reach 1', '**Target:** Self', '**Trigger:** You are targeted by a damaging area of effect.']\n\n**Effect:** You shift up to 2 squares. If that moves you out of the area of effect, you ignore the attack. Otherwise, you take half damage.\n\n**Spend 1 Rage:** You move a willing adjacent ally affected by the attack with you, applying the same outcome to them."
+        "REGENERATION": {
+          "flavor": "Your transformative abilities bring you back into the fight.",
+          "keywords": "Melee",
+          "type": "Triggered",
+          "distance": "Self",
+          "target": "Self",
+          "trigger": "You lose Stamina and are not dying.",
+          "effect": "After damage is resolved, if your rage is high enough, you can enter your animal or hybrid form as a free triggered action. If you can’t gain the temporary Stamina from that form because you have already done so this encounter, you gain temporary Stamina equal to your Might.",
+          "spend_cost": "1 Rage",
+          "spend_effect": "If you are not dying, you can spend a Recovery."
+        },
+        "RELENTLESS TOSS": {
+          "flavor": "The Primordial Chaos allows you to redirect kinetic energy for a monstrous smash!",
+          "keywords": "Magic, Melee",
+          "type": "Triggered",
+          "distance": "Self or reach",
+          "target": "Self or 1 creature",
+          "trigger": "The target is force moved.",
+          "effect": "You can select a new target of the same size or smaller within distance to be force moved instead. Additionally, you can increase the forced move distance by a number of squares equal to your Might score. You can use your Primordial Strength benefit to make this forced movement vertical.",
+          "spend_cost": "1 Rage",
+          "spend_effect": "You can increase the forced move distance by a number of squares equal to twice your Might score instead."
+        },
+        "UNCANNY DODGE": {
+          "flavor": "When a damaging effect surrounds you, you stay two steps ahead.",
+          "keywords": "Melee",
+          "type": "Triggered",
+          "distance": "Reach 1",
+          "target": "Self",
+          "trigger": "You are targeted by a damaging area of effect.",
+          "effect": "You shift up to 2 squares. If that moves you out of the area of effect, you ignore the attack. Otherwise, you take half damage.",
+          "spend_cost": "1 Rage",
+          "spend_effect": "You move a willing adjacent ally affected by the attack with you, applying the same outcome to them."
+        }
       },
       "FURY ABILITIES": {
         "SIGNATURE ABILITY": {
-          "BRUTAL SLAM": "The heavy impact of your weapon attacks drives your foes ever backward.\n\n['**Keywords:** Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Reach 1', '**Target:** 1 creature or object']\n\n**Power Roll + Might:**\n\n['11 or lower: 3 damage; push 1', '12–16: 8 damage; push 2', '17+: 12 damage; push 4']",
-          "HIT AND RUN": "Keeping in constant motion helps you slip out of reach after a brutal assault.\n\n['**Keywords:** Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Reach 1', '**Target:** 1 creature or object']\n\n**Power Roll + Might:**\n\n['11 or lower: 3 damage', '12–16: 8 damage', '17+: 12 damage; slowed (EoT)']\n\n**Effect:** You can shift 1 square after the attack is resolved.",
-          "HUMILIATING STRIKE": "You hit with a strength that’s worth the risk of raising your opponent’s ire.\n\n['**Keywords:** Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Reach 1', '**Target:** 1 creature or object']\n\n**Power Roll + Might:**\n\n['11 or lower: 3 damage', '12–16: 8 damage', '17+: 12 damage']\n\n**Effect:** You can choose to do an extra 1d6 damage to the target. If you do, the target gains an edge on their next attack against you.",
-          "IMPALING STRIKE": "Fighting up close lets you keep your foe exactly where you want them.\n\n['**Keywords:** Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Reach 1', '**Target:** 1 creature of your size or smaller']\n\n**Power Roll + Might:**\n\n['11 or lower: 3 damage; slowed (EoT)', '12–16: 8 damage; grabbed', '17+: 12 damage; grabbed']\n\n**Effect:** If the target is grabbed, they take a bane on attempts to escape the grab. If you move while you have the target grabbed, they take 1 damage for each square you move."
+          "BRUTAL SLAM": {
+            "flavor": "The heavy impact of your weapon attacks drives your foes ever backward.",
+            "keywords": "Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Reach 1",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Might",
+            "tier1": "3 damage; push 1",
+            "tier2": "8 damage; push 2",
+            "tier3": "12 damage; push 4"
+          },
+          "HIT AND RUN": {
+            "flavor": "Keeping in constant motion helps you slip out of reach after a brutal assault.",
+            "keywords": "Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Reach 1",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Might",
+            "tier1": "3 damage",
+            "tier2": "8 damage",
+            "tier3": "12 damage; slowed (EoT)",
+            "effect": "You can shift 1 square after the attack is resolved."
+          },
+          "HUMILIATING STRIKE": {
+            "flavor": "You hit with a strength that’s worth the risk of raising your opponent’s ire.",
+            "keywords": "Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Reach 1",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Might",
+            "tier1": "3 damage",
+            "tier2": "8 damage",
+            "tier3": "12 damage",
+            "effect": "You can choose to do an extra 1d6 damage to the target. If you do, the target gains an edge on their next attack against you."
+          },
+          "IMPALING STRIKE": {
+            "flavor": "Fighting up close lets you keep your foe exactly where you want them.",
+            "keywords": "Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Reach 1",
+            "target": "1 creature of your size or smaller",
+            "roll": "Power Roll + Might",
+            "tier1": "3 damage; slowed (EoT)",
+            "tier2": "8 damage; grabbed",
+            "tier3": "12 damage; grabbed",
+            "effect": "If the target is grabbed, they take a bane on attempts to escape the grab. If you move while you have the target grabbed, they take 1 damage for each square you move."
+          }
         },
         "HEROIC ABILITIES": "You fight with an array of heroic abilities, all of which cost rage to fuel them.",
         "3-RAGE ABILITIES": {
-          "DEATH BEFORE BEAUTY (3 RAGE)": "Your enemies will get out of your way—whether they want to or not.\n\n['**Keywords:** Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Reach 1', '**Target:** 1 creature']\n\n**Power Roll + Might:**\n\n['11 or lower: 3 damage; slide 2', '12–16: 5 damage; slide 3', '17+: 8 damage; slide 5']\n\n**Effect:** When you force move the target, you can move into squares they leave. The target takes the damage from any free strikes you provoke with this movement.",
-          "STAB ME SO I CAN PULL MYSELF CLOSER TO YOU (3 RAGE)": "When you barrel through your foes, they feel your wrath.\n\n['**Keywords:** Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Self', '**Target:** Self']\n\n**Effect:** Move up to your speed in a straight line toward a creature or object. You don’t treat enemy creatures as difficult terrain for this move. If the target is a creature, you can end your movement in the target’s square, moving them to an adjacent open square. Make a power roll against the target and every enemy you moved through.\n\n**Power Roll + Might:**\n\n['11 or lower: 5 damage', '12–16: 6 damage', '17+: 9 damage']\n\n**Effect:** The target takes an extra 1d6 damage for every free strike you triggered from your move.",
-          "WHIRLWIND STRIKE (3 RAGE)": "As your foes close in around you, why bother taking them on one by one?\n\n['**Keywords:** Area, Melee, Weapon', '**Type:** Action', '**Distance:** 1 burst', '**Target:** All enemies']\n\n**Power Roll + Might:**\n\n['11 or lower: 3 damage', '12–16: 4 damage; push 1', '17+: 7 damage; push 3']",
-          "YOUR ENTRAILS ARE YOUR EXTRAILS! (3 RAGE)": "Unless they get some help, your foe is finished.\n\n['**Keywords:** Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Reach', '**Target:** 1 creature or object']\n\n**Power Roll + Might:**\n\n['11 or lower: 6 damage; slowed (EoT)', '12–16: 9 damage; slowed (EoT)', '17+: 14 damage; slowed (EoE)']\n\n**Effect:** While slowed in this way, the target takes an extra 3 damage at the start of each of your turns."
+          "DEATH BEFORE BEAUTY (3 RAGE)": {
+            "flavor": "Your enemies will get out of your way—whether they want to or not.",
+            "keywords": "Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Reach 1",
+            "target": "1 creature",
+            "roll": "Power Roll + Might",
+            "tier1": "3 damage; slide 2",
+            "tier2": "5 damage; slide 3",
+            "tier3": "8 damage; slide 5",
+            "effect": "When you force move the target, you can move into squares they leave. The target takes the damage from any free strikes you provoke with this movement."
+          },
+          "STAB ME SO I CAN PULL MYSELF CLOSER TO YOU (3 RAGE)": {
+            "flavor": "When you barrel through your foes, they feel your wrath.",
+            "keywords": "Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Self",
+            "target": "Self",
+            "roll": "Power Roll + Might",
+            "tier1": "5 damage",
+            "tier2": "6 damage",
+            "tier3": "9 damage",
+            "effect": "Move up to your speed in a straight line toward a creature or object. You don’t treat enemy creatures as difficult terrain for this move. If the target is a creature, you can end your movement in the target’s square, moving them to an adjacent open square. Make a power roll against the target and every enemy you moved through."
+          },
+          "WHIRLWIND STRIKE (3 RAGE)": {
+            "flavor": "As your foes close in around you, why bother taking them on one by one?",
+            "keywords": "Area, Melee, Weapon",
+            "type": "Action",
+            "distance": "1 burst",
+            "target": "All enemies",
+            "roll": "Power Roll + Might",
+            "tier1": "3 damage",
+            "tier2": "4 damage; push 1",
+            "tier3": "7 damage; push 3"
+          },
+          "YOUR ENTRAILS ARE YOUR EXTRAILS! (3 RAGE)": {
+            "flavor": "Unless they get some help, your foe is finished.",
+            "keywords": "Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Reach",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Might",
+            "tier1": "6 damage; slowed (EoT)",
+            "tier2": "9 damage; slowed (EoT)",
+            "tier3": "14 damage; slowed (EoE)",
+            "effect": "While slowed in this way, the target takes an extra 3 damage at the start of each of your turns."
+          }
         },
         "5-RAGE ABILITIES": {
-          "BLOOD FOR BLOOD! (5 RAGE)": "A mighty strike leaves your foe reeling.\n\n['**Keywords:** Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Reach 1', '**Target:** 1 creature or object']\n\n**Power Roll + Might:**\n\n['11 or lower: 7 damage; weakened and bleeding (EoT)', '12–16: 11 damage; weakened and bleeding (EoT)', '17+: 17 damage; weakened and bleeding (EoE)']\n\n**Effect:** You can choose to deal 1d6 damage to yourself to deal an extra 2d6 damage to the target.",
-          "BRUTE PRECISION (5 RAGE)": "You can always trust your anger to get the job done.\n\n['**Keywords:** —', '**Type:** Free maneuver', '**Distance:** Self', '**Target:** Self']\n\n**Effect:** The next attack you make this turn automatically achieves a tier 3 result and deals an extra 1d6 damage.",
-          "DYING BLOW (5 RAGE)": "You focus your rage into a single devastating strike.\n\n['**Keywords:** Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Reach 1', '**Target:** 1 creature']\n\n**Power Roll + Might:**\n\n['11 or lower: 9 damage', '12–16: 13 damage', '17+: 21 damage']\n\n**Spend 1 or More Additional Rage:** If you are winded, you can add 1d6 damage for each rage spent. If you are dying, you can add 1d10 damage for each rage spent. In either case, you then lose 1d6 Stamina.",
-          "PRIMORDIAL SHOCKWAVE (5 RAGE)": "The destructive power of nature cannot be contained.\n\n['**Keywords:** Area, Melee, Weapon', '**Type:** Action', '**Distance:** 5 × 1 line within 1', '**Target:** All enemies']\n\n**Power Roll + Might:**\n\n['11 or lower: 4 damage; push 2', '12–16: 5 damage; push 4', '17+: 8 damage; push 6']\n\n**Effect:** Targets are pushed one at a time, starting with the target closest to you."
+          "BLOOD FOR BLOOD! (5 RAGE)": {
+            "flavor": "A mighty strike leaves your foe reeling.",
+            "keywords": "Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Reach 1",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Might",
+            "tier1": "7 damage; weakened and bleeding (EoT)",
+            "tier2": "11 damage; weakened and bleeding (EoT)",
+            "tier3": "17 damage; weakened and bleeding (EoE)",
+            "effect": "You can choose to deal 1d6 damage to yourself to deal an extra 2d6 damage to the target."
+          },
+          "BRUTE PRECISION (5 RAGE)": {
+            "flavor": "You can always trust your anger to get the job done.",
+            "keywords": "—",
+            "type": "Free maneuver",
+            "distance": "Self",
+            "target": "Self",
+            "effect": "The next attack you make this turn automatically achieves a tier 3 result and deals an extra 1d6 damage."
+          },
+          "DYING BLOW (5 RAGE)": {
+            "flavor": "You focus your rage into a single devastating strike.",
+            "keywords": "Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Reach 1",
+            "target": "1 creature",
+            "roll": "Power Roll + Might",
+            "tier1": "9 damage",
+            "tier2": "13 damage",
+            "tier3": "21 damage",
+            "spend_cost": "1 or More Additional Rage",
+            "spend_effect": "If you are winded, you can add 1d6 damage for each rage spent. If you are dying, you can add 1d10 damage for each rage spent. In either case, you then lose 1d6 Stamina."
+          },
+          "PRIMORDIAL SHOCKWAVE (5 RAGE)": {
+            "flavor": "The destructive power of nature cannot be contained.",
+            "keywords": "Area, Melee, Weapon",
+            "type": "Action",
+            "distance": "5 × 1 line within 1",
+            "target": "All enemies",
+            "roll": "Power Roll + Might",
+            "tier1": "4 damage; push 2",
+            "tier2": "5 damage; push 4",
+            "tier3": "8 damage; push 6",
+            "effect": "Targets are pushed one at a time, starting with the target closest to you."
+          }
         }
       }
     },
@@ -448,7 +1044,16 @@
       "KIT FEATURES": {
         "ASPECT BENEFITS": "You always have the noted benefits, whether in your true form, the animal form you can take at any time, or the hybrid form that some stormwight kits grant you as your rage increases.",
         "ANIMAL FORM": {
-          "ANIMAL FORM": "You take on the form of the animal who channels your rage.\n\n['**Keywords:** —', '**Type:** Maneuver', '**Distance:** Self', '**Target:** Self']\n\n**Effect:** You can shapeshift into the animal defined by your stormwight kit or back into your true form. While in animal form, you can’t use signature abilities or heroic abilities unless they have the Animal keyword.\n\nAdditionally, you can both speak normally and speak to animals who share your form. If negotiation with an animal comes into play, you treat your Renown as 2 higher than usual while in your animal form.\n\n**Spend 1 Rage:** As a free maneuver on your turn, you can shapeshift a second time, either into another animal form or back into your true form."
+          "ANIMAL FORM": {
+            "flavor": "You take on the form of the animal who channels your rage.",
+            "keywords": "—",
+            "type": "Maneuver",
+            "distance": "Self",
+            "target": "Self",
+            "effect": "You can shapeshift into the animal defined by your stormwight kit or back into your true form. While in animal form, you can’t use signature abilities or heroic abilities unless they have the Animal keyword.\n\nAdditionally, you can both speak normally and speak to animals who share your form. If negotiation with an animal comes into play, you treat your Renown as 2 higher than usual while in your animal form.",
+            "spend_cost": "1 Rage",
+            "spend_effect": "As a free maneuver on your turn, you can shapeshift a second time, either into another animal form or back into your true form."
+          }
         },
         "PRIMORDIAL STORM": "Each stormwight is associated with a primordial storm that refers to a specific damage type used by certain stormwight abilities.",
         "EQUIPMENT": "You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your rage grows.",
@@ -465,7 +1070,17 @@
           "**Melee Weapon Damage Bonus:** +0/+0/+4"
         ],
         "SIGNATURE ABILITY": {
-          "BEAR CLAWS": "Attacks with your sharp and deadly claws send your foes staggering back.\n\n['**Keywords:** Animal, Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Reach 1', '**Target:** 2 creatures or objects']\n\n**Power Roll + Might:**\n\n['11 or lower: 2 damage; push 1', '12–16: 3 damage; push 2', '17+: 8 damage; push 3']\n\n####### BEAR GROWING RAGE\n\n| **Rage** | **Benefit**                                                                                                                                                                                                                                                               |\n| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| 2        | • You gain an edge on Might tests, resistance rolls, and power rolls made to grab. <br> • While in bear form, your attacks deal extra damage equal to your Might score, and any target you have grabbed at the start of your turn takes damage equal to your Might score. |\n| 4        | While in bear form, you can use all your abilities, your attacks deal extra damage equal to twice your Might score, and any target you have grabbed at the start of your turn takes damage equal to twice your Might score, instead of once your Might score.             |\n| 6        | You have a double edge on Might tests, resistance rolls, and power rolls made with the Grab ability.                                                                                                                                                                      |"
+          "BEAR CLAWS": {
+            "flavor": "Attacks with your sharp and deadly claws send your foes staggering back.",
+            "keywords": "Animal, Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Reach 1",
+            "target": "2 creatures or objects",
+            "roll": "Power Roll + Might",
+            "tier1": "2 damage; push 1",
+            "tier2": "3 damage; push 2",
+            "tier3": "8 damage; push 3"
+          }
         }
       },
       "CORVEN": {
@@ -479,7 +1094,18 @@
           "**Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "WING BUFFET": "Foes who try to close around you do so at their peril.\n\n['**Keywords:** Animal, Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Reach 1', '**Target:** 3 creatures or objects']\n\n**Power Roll + Agility:**\n\n['11 or lower: 4 damage', '12–16: 5 damage', '17+: 7 damage']\n\n**Effect:** Resolve each attack individually using one power roll. You can shift 1 square after resolving damage for each target, then choose your next target from your new location.",
+          "WING BUFFET": {
+            "flavor": "Foes who try to close around you do so at their peril.",
+            "keywords": "Animal, Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Reach 1",
+            "target": "3 creatures or objects",
+            "roll": "Power Roll + Agility",
+            "tier1": "4 damage",
+            "tier2": "5 damage",
+            "tier3": "7 damage",
+            "effect": "Resolve each attack individually using one power roll. You can shift 1 square after resolving damage for each target, then choose your next target from your new location."
+          },
           "CROW GROWING RAGE": "| **Rage** | **Benefit**                                                                                                                                                                                                                                                                                                                                                             |\n| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| 2        | • You can shift 1 square as a free maneuver once per turn. <br> • While in crow form, your attacks deal extra damage equal to your Agility score. <br> • Once per turn while in crow form, when you move away from an enemy, that enemy takes damage equal to your Agility score.                                                                                       |\n| 4        | • While in crow or hybrid crow form, you can use all your abilities, and your attacks deal extra damage equal to twice your Agility score, instead of once your Agility score. <br> • Once per turn while in crow or hybrid crow form, when you move away from an enemy, that enemy takes damage equal to twice your Agility score, instead of once your Agility score. |\n| 6        | You can shift up to 2 squares as a free maneuver once per turn.                                                                                                                                                                                                                                                                                                         |"
         }
       },
@@ -494,7 +1120,18 @@
           "**Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "DRIVING POUNCE": "Your enemies try in vain to fall back from your pouncing attack.\n\n['**Keywords:** Animal, Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Reach 1', '**Target:** 2 creatures or objects']\n\n**Power Roll + Agility:**\n\n['11 or lower: 4 damage', '12–16: 5 damage; push 1', '17+: 6 damage; push 2']\n\n**Effect:** Resolve each attack one at a time. After each attack, you can shift the same number of squares that you pushed the target. You select your second target from the square where you end your shift, which can be the first target again.",
+          "DRIVING POUNCE": {
+            "flavor": "Your enemies try in vain to fall back from your pouncing attack.",
+            "keywords": "Animal, Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Reach 1",
+            "target": "2 creatures or objects",
+            "roll": "Power Roll + Agility",
+            "tier1": "4 damage",
+            "tier2": "5 damage; push 1",
+            "tier3": "6 damage; push 2",
+            "effect": "Resolve each attack one at a time. After each attack, you can shift the same number of squares that you pushed the target. You select your second target from the square where you end your shift, which can be the first target again."
+          },
           "RAT GROWING RAGE": "| **Rage** | **Benefit**                                                                                                                                                                                                               |\n| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| 2        | • You have Weapon immunity 2. <br> • While in rat form, your attacks deal extra damage equal to your Agility score. <br> • While in rat form, if you attack a creature you are climbing, that creature is bleeding (EoT). |\n| 4        | While in rat or hybrid rat form, you can use all your abilities, and your attacks deal extra damage equal to twice your Agility score, instead of once your Agility score.                                                |\n| 6        | You have Weapon immunity 2. Any damage you ignore because of this immunity is dealt to each enemy adjacent to you when you are attacked.                                                                                  |"
         }
       },
@@ -509,7 +1146,18 @@
           "**Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
         "SIGNATURE ABILITY": {
-          "PROBING ATTACK": "A savage assault forces your foes back.\n\n['**Keywords:** Animal, Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Reach 1', '**Target:** 1 creature or object']\n\n**Power Roll + Might:**\n\n['11 or lower: 5 damage', '12–16: 9 damage; push 1', '17+: 12 damage; push 2; prone if the target is your size or smaller']\n\n**Effect:** You can shift up to 2 squares as long as you end the shift adjacent to the target.",
+          "PROBING ATTACK": {
+            "flavor": "A savage assault forces your foes back.",
+            "keywords": "Animal, Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Reach 1",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Might",
+            "tier1": "5 damage",
+            "tier2": "9 damage; push 1",
+            "tier3": "12 damage; push 2; prone if the target is your size or smaller",
+            "effect": "You can shift up to 2 squares as long as you end the shift adjacent to the target."
+          },
           "WOLF GROWING RAGE": "| **Rage** | **Benefit**                                                                                                                                                                                                                                                                                                                                                                                                        |\n| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |\n| 2        | • You gain an edge on Agility tests and resistance rolls. <br> • While in wolf form, your attacks deal extra damage equal to your Agility score. <br> • When you attack a target while in wolf form, the next ally to damage that target before the start of your next turn deals extra damage equal to your Agility score.                                                                                        |\n| 4        | • While in wolf or hybrid wolf form, you can use all your abilities, and your attacks deal extra damage equal to twice your Agility score, instead of once your Agility score. <br> • When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn deals extra damage equal to twice your Agility score, instead of once your Agility score. |\n| 6        | You have a double edge on Agility tests and resistance rolls.                                                                                                                                                                                                                                                                                                                                                      |"
         }
       }
@@ -525,42 +1173,227 @@
       "1ST-LEVEL COLLEGE FEATURES": {
         "1ST-LEVEL SHADOW COLLEGE FEATURES": "| College | Feature                |\n|---------|------------------------|\n| Black Ash | Black Ash Teleport    |\n| Caustic Alchemy | Coat the Blade, Smoke Bomb |\n| Harlequin Mask | I’m On Your Side |",
         "BLACK ASH TELEPORT": {
-          "BLACK ASH TELEPORT": "In a swirl of black ash, you step from one place to another.\n\n['**Keywords:** Magic', '**Type:** Maneuver', '**Distance:** Self', '**Target:** Self']\n\n**Effect:** You teleport up to 5 squares. If you end this movement in concealment or cover, you can use the Hide maneuver even if you are observed.\n\n**Spend Insight:** You teleport 1 additional square for each insight spent."
+          "BLACK ASH TELEPORT": {
+            "flavor": "In a swirl of black ash, you step from one place to another.",
+            "keywords": "Magic",
+            "type": "Maneuver",
+            "distance": "Self",
+            "target": "Self",
+            "effect": "You teleport up to 5 squares. If you end this movement in concealment or cover, you can use the Hide maneuver even if you are observed.",
+            "spend_cost": "Insight",
+            "spend_effect": "You teleport 1 additional square for each insight spent."
+          }
         },
         "COAT THE BLADE": {
-          "COAT THE BLADE": "Just a little poison goes a long way.\n\n['**Keywords:** —', '**Type:** Maneuver', '**Distance:** Self', '**Target:** Self']\n\n**Effect:** You coat one of your weapons with a harmful poison. The next creature you damage with an ability that uses that weapon takes extra poison damage equal to twice your Presence score or the target is weakened (EoT). You choose the effect when you apply the poison. The poison loses its potency after you damage the creature or at the end of the encounter.\n\n**Spend Insight:** For each insight you spend, the damage dealt by the poison increases by a number equal to your Presence score. You can’t spend more Insight than your shadow level on this ability."
+          "COAT THE BLADE": {
+            "flavor": "Just a little poison goes a long way.",
+            "keywords": "—",
+            "type": "Maneuver",
+            "distance": "Self",
+            "target": "Self",
+            "effect": "You coat one of your weapons with a harmful poison. The next creature you damage with an ability that uses that weapon takes extra poison damage equal to twice your Presence score or the target is weakened (EoT). You choose the effect when you apply the poison. The poison loses its potency after you damage the creature or at the end of the encounter.",
+            "spend_cost": "Insight",
+            "spend_effect": "For each insight you spend, the damage dealt by the poison increases by a number equal to your Presence score. You can’t spend more Insight than your shadow level on this ability."
+          }
         },
         "I'M ON YOUR SIDE": {
-          "I’M ON YOUR SIDE": "Taking on the illusory countenance of another creature gives you an advantage on subterfuge.\n\n['**Keywords:** Magic', '**Type:** Maneuver', '**Distance:** Self', '**Target:** Self']\n\n**Effect:** Choose a creature of your size, whose size is no more than 1 greater than yours, and who is within 10 squares of you. Your body is covered in an illusion that makes you appear to be that creature. This illusion covers your entire body, including clothing and armor, and changes your voice to sound like the creature. While this illusion lasts, you gain an edge on attacks against and Presence tests made to interact with the creature’s allies, and you don’t provoke opportunity attacks from those allies. These benefits don’t apply against the creature whose appearance you’ve taken on. The illusion ends when you harm another creature, when you and another creature physically interact, when you use this ability again, or when you end the illusion (no action required)."
+          "I’M ON YOUR SIDE": {
+            "flavor": "Taking on the illusory countenance of another creature gives you an advantage on subterfuge.",
+            "keywords": "Magic",
+            "type": "Maneuver",
+            "distance": "Self",
+            "target": "Self",
+            "effect": "Choose a creature of your size, whose size is no more than 1 greater than yours, and who is within 10 squares of you. Your body is covered in an illusion that makes you appear to be that creature. This illusion covers your entire body, including clothing and armor, and changes your voice to sound like the creature. While this illusion lasts, you gain an edge on attacks against and Presence tests made to interact with the creature’s allies, and you don’t provoke opportunity attacks from those allies. These benefits don’t apply against the creature whose appearance you’ve taken on. The illusion ends when you harm another creature, when you and another creature physically interact, when you use this ability again, or when you end the illusion (no action required)."
+          }
         },
         "SMOKE BOMB": "You always carry a supply of smoke bombs to make it easy for you to distract and get away from foes. You can use the Hide maneuver even if you are observed and don’t start in cover or concealment. If you do, you can shift a number of squares equal to your Agility. If you end this movement in cover or concealment, you are hidden."
       },
       "COLLEGE TRIGGERED ACTION": {
         "SHADOW TRIGGERED ACTIONS": "| College         | Triggered Action      |\n| --------------- | --------------------- |\n| Black Ash       | In All This Confusion |\n| Caustic Alchemy | Defensive Roll        |\n| Harlequin Mask  | Misdirection          |",
-        "DEFENSIVE ROLL": "When an enemy attacks, you roll with the impact to reduce the harm.\n\n['**Keywords:** —', '**Type:** Triggered', '**Distance:** Self', '**Target:** Self', '**Trigger:** Another creature damages you.']\n\n**Effect:** You shift up to 2 squares, halve the triggering damage, and don’t suffer any effect associated with the damage. If you end this movement with concealment or cover, you can use the Hide maneuver even if you are observed.\n\n**Spend 1 Insight:** If the triggering damage was from an attack, you also reduce the attack’s damage by one tier.",
-        "IN ALL THIS CONFUSION": "You teleport away in a plume of black smoke to avoid danger.\n\n['**Keywords:** Magic', '**Type:** Triggered', '**Distance:** Self', '**Target:** Self', '**Trigger:** You take damage.']\n\n**Effect:** You teleport up to 4 squares, halve the triggering damage, and don’t suffer any effect associated with the damage.\n\n**Spend Insight:** You teleport 1 additional square for each insight spent.",
-        "MISDIRECTION (1 INSIGHT)": "You sow a moment of confusion in combat, to your enemy’s peril.\n\n['**Keywords:** Magic', '**Type:** Triggered', '**Distance:** Self', '**Target:** Self', '**Trigger:** An enemy attacks you.']\n\n**Effect:** Choose an enemy within distance of the attack. The attack targets that enemy instead."
+        "DEFENSIVE ROLL": {
+          "flavor": "When an enemy attacks, you roll with the impact to reduce the harm.",
+          "keywords": "—",
+          "type": "Triggered",
+          "distance": "Self",
+          "target": "Self",
+          "trigger": "Another creature damages you.",
+          "effect": "You shift up to 2 squares, halve the triggering damage, and don’t suffer any effect associated with the damage. If you end this movement with concealment or cover, you can use the Hide maneuver even if you are observed.",
+          "spend_cost": "1 Insight",
+          "spend_effect": "If the triggering damage was from an attack, you also reduce the attack’s damage by one tier."
+        },
+        "IN ALL THIS CONFUSION": {
+          "flavor": "You teleport away in a plume of black smoke to avoid danger.",
+          "keywords": "Magic",
+          "type": "Triggered",
+          "distance": "Self",
+          "target": "Self",
+          "trigger": "You take damage.",
+          "effect": "You teleport up to 4 squares, halve the triggering damage, and don’t suffer any effect associated with the damage.",
+          "spend_cost": "Insight",
+          "spend_effect": "You teleport 1 additional square for each insight spent."
+        },
+        "MISDIRECTION (1 INSIGHT)": {
+          "flavor": "You sow a moment of confusion in combat, to your enemy’s peril.",
+          "keywords": "Magic",
+          "type": "Triggered",
+          "distance": "Self",
+          "target": "Self",
+          "trigger": "An enemy attacks you.",
+          "effect": "Choose an enemy within distance of the attack. The attack targets that enemy instead."
+        }
       },
-      "HESITATION IS WEAKNESS": "You know how to seize the advantage in battle, working with your allies to find the perfect moment to strike. You have the following ability.\n\nHESITATION IS WEAKNESS (1 INSIGHT)\n\nWaiting for your enemies to act was never your style.\n\n['**Keywords:** —', '**Type:** Free triggered action', '**Distance:** Self', '**Target:** Self', '**Trigger:** Another hero ends their turn.']\n\n**Effect:** You take your turn immediately.",
+      "HESITATION IS WEAKNESS": {
+        "flavor": "You know how to seize the advantage in battle, working with your allies to find the perfect moment to strike. You have the following ability.",
+        "keywords": "—",
+        "type": "Free triggered action",
+        "distance": "Self",
+        "target": "Self",
+        "trigger": "Another hero ends their turn.",
+        "effect": "You take your turn immediately."
+      },
       "SHADOW ABILITIES": {
         "SIGNATURE ABILITY": {
-          "DISTRACTING PAIN": "Your precise strikes let your allies take advantage of a target’s agony.\n\n['**Keywords:** Attack, Melee, Ranged, Weapon', '**Type:** Action', '**Distance:** Reach 1 or Ranged 3', '**Target:** 1 creature']\n\n**Power Roll + Agility:**\n\n['11 or lower: 3 damage', '12–16: 8 damage; the next attack against the target gains an edge', '17+: 12 damage; the target falls prone']",
-          "I WORK BETTER ALONE": "Facing an enemy alone lets you exploit their overconfidence.\n\n['**Keywords:** Attack, Melee, Ranged, Weapon', '**Type:** Action', '**Distance:** Reach 1 or Ranged 3', '**Target:** 1 creature']\n\n**Power Roll + Agility:**\n\n['11 or lower: 3 damage', '12–16: 8 damage', '17+: 12 damage']\n\n**Effect:** If the target has no allies adjacent to them, you gain an edge on the attack.",
-          "SHOT AND STEP": "Being fast on your feet makes your ranged attacks especially deadly.\n\n['**Keywords:** Attack, Ranged, Weapon', '**Type:** Action', '**Distance:** Ranged 5', '**Target:** 1 creature or object']\n\n**Power Roll + Agility:**\n\n['11 or lower: 3 damage', '12–16: 7 damage', '17+: 10 damage']\n\n**Effect:** You can shift 1 square before or after the attack.",
-          "SUCKER SLICE": "Keeping an enemy’s focus on you lets your ally hit hard.\n\n['**Keywords:** Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Reach 1', '**Target:** 1 creature']\n\n**Power Roll + Agility:**\n\n['11 or lower: 3 damage', '12–16: 8 damage', '17+: 12 damage']\n\n**Effect:** If you are flanking the target when you make this attack, one ally who is flanking with you has a double edge on melee attacks against the target until the end of the ally’s next turn, even if they are no longer flanking the target."
+          "DISTRACTING PAIN": {
+            "flavor": "Your precise strikes let your allies take advantage of a target’s agony.",
+            "keywords": "Attack, Melee, Ranged, Weapon",
+            "type": "Action",
+            "distance": "Reach 1 or Ranged 3",
+            "target": "1 creature",
+            "roll": "Power Roll + Agility",
+            "tier1": "3 damage",
+            "tier2": "8 damage; the next attack against the target gains an edge",
+            "tier3": "12 damage; the target falls prone"
+          },
+          "I WORK BETTER ALONE": {
+            "flavor": "Facing an enemy alone lets you exploit their overconfidence.",
+            "keywords": "Attack, Melee, Ranged, Weapon",
+            "type": "Action",
+            "distance": "Reach 1 or Ranged 3",
+            "target": "1 creature",
+            "roll": "Power Roll + Agility",
+            "tier1": "3 damage",
+            "tier2": "8 damage",
+            "tier3": "12 damage",
+            "effect": "If the target has no allies adjacent to them, you gain an edge on the attack."
+          },
+          "SHOT AND STEP": {
+            "flavor": "Being fast on your feet makes your ranged attacks especially deadly.",
+            "keywords": "Attack, Ranged, Weapon",
+            "type": "Action",
+            "distance": "Ranged 5",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Agility",
+            "tier1": "3 damage",
+            "tier2": "7 damage",
+            "tier3": "10 damage",
+            "effect": "You can shift 1 square before or after the attack."
+          },
+          "SUCKER SLICE": {
+            "flavor": "Keeping an enemy’s focus on you lets your ally hit hard.",
+            "keywords": "Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Reach 1",
+            "target": "1 creature",
+            "roll": "Power Roll + Agility",
+            "tier1": "3 damage",
+            "tier2": "8 damage",
+            "tier3": "12 damage",
+            "effect": "If you are flanking the target when you make this attack, one ally who is flanking with you has a double edge on melee attacks against the target until the end of the ally’s next turn, even if they are no longer flanking the target."
+          }
         },
         "HEROIC ABILITIES": "A range of heroic abilities define your combat prowess, all of which make use of your insight.",
         "3-INSIGHT ABILITIES": {
-          "BLADE DANCE (3 INSIGHT)": "As you move across the battlefield, every foe within reach feels your wrath.\n\n['**Keywords:** Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Self', '**Target:** Self']\n\n**Effect:** You move up to your speed, and that movement doesn’t provoke opportunity attacks. You make one power roll that targets each enemy who becomes adjacent to you during the move.\n\n**Power Roll + Agility:**\n\n['11 or lower: 3 damage', '12–16: 4 damage', '17+: 7 damage']",
-          "QUICK PURSUIT (3 INSIGHT)": "A foe forced away from you might assume they’re out of danger, but they’ll soon learn otherwise.\n\n['**Keywords:** Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Reach 1', '**Target:** 1 creature']\n\n**Power Roll + Agility:**\n\n['11 or lower: 6 damage; slide 2', '12–16: 9 damage; slide 3', '17+: 14 damage; slide 5']\n\n**Effect:** You can shift into squares the target leaves behind when you force move them.",
-          "TWO THROATS AT ONCE (3 INSIGHT)": "Striking two foes at once is second nature to you.\n\n['**Keywords:** Attack, Melee, Ranged, Weapon', '**Type:** Action', '**Distance:** Reach 1 or Ranged 5', '**Target:** 2 creatures or objects']\n\n**Power Roll + Agility:**\n\n['11 or lower: 4 damage', '12–16: 6 damage', '17+: 9 damage']",
-          "WOUNDING STRIKE (3 INSIGHT)": "You leave your foe bleeding out after a devastating attack.\n\n['**Keywords:** Attack, Melee, Ranged, Weapon', '**Type:** Action', '**Distance:** Reach 1 or Ranged 3', '**Target:** 1 creature']\n\n**Power Roll + Agility:**\n\n['11 or lower: 6 damage', '12–16: 9 damage; bleeding until a creature uses a maneuver to staunch the wound', '17+: 14 damage; bleeding until a creature uses an action to staunch the wound']\n\n**Effect:** While bleeding, the target takes 4 damage at the start of each of your turns."
+          "BLADE DANCE (3 INSIGHT)": {
+            "flavor": "As you move across the battlefield, every foe within reach feels your wrath.",
+            "keywords": "Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Self",
+            "target": "Self",
+            "roll": "Power Roll + Agility",
+            "tier1": "3 damage",
+            "tier2": "4 damage",
+            "tier3": "7 damage",
+            "effect": "You move up to your speed, and that movement doesn’t provoke opportunity attacks. You make one power roll that targets each enemy who becomes adjacent to you during the move."
+          },
+          "QUICK PURSUIT (3 INSIGHT)": {
+            "flavor": "A foe forced away from you might assume they’re out of danger, but they’ll soon learn otherwise.",
+            "keywords": "Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Reach 1",
+            "target": "1 creature",
+            "roll": "Power Roll + Agility",
+            "tier1": "6 damage; slide 2",
+            "tier2": "9 damage; slide 3",
+            "tier3": "14 damage; slide 5",
+            "effect": "You can shift into squares the target leaves behind when you force move them."
+          },
+          "TWO THROATS AT ONCE (3 INSIGHT)": {
+            "flavor": "Striking two foes at once is second nature to you.",
+            "keywords": "Attack, Melee, Ranged, Weapon",
+            "type": "Action",
+            "distance": "Reach 1 or Ranged 5",
+            "target": "2 creatures or objects",
+            "roll": "Power Roll + Agility",
+            "tier1": "4 damage",
+            "tier2": "6 damage",
+            "tier3": "9 damage"
+          },
+          "WOUNDING STRIKE (3 INSIGHT)": {
+            "flavor": "You leave your foe bleeding out after a devastating attack.",
+            "keywords": "Attack, Melee, Ranged, Weapon",
+            "type": "Action",
+            "distance": "Reach 1 or Ranged 3",
+            "target": "1 creature",
+            "roll": "Power Roll + Agility",
+            "tier1": "6 damage",
+            "tier2": "9 damage; bleeding until a creature uses a maneuver to staunch the wound",
+            "tier3": "14 damage; bleeding until a creature uses an action to staunch the wound",
+            "effect": "While bleeding, the target takes 4 damage at the start of each of your turns."
+          }
         },
         "5-INSIGHT ABILITIES": {
-          "ASSASSINATE (5 INSIGHT)": "You seize the perfect moment and strike with fatal precision!\n\n['**Keywords:** Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Reach 1', '**Target:** 1 creature']\n\n**Power Roll + Agility:**\n\n['11 or lower: 2d6 + 8 damage', '12–16: 2d6 + 12 damage', '17+: 2d6 + 18 damage']",
-          "GET IN, GET OUT (5 INSIGHT)": "Move unexpectedly, strike fast, and be gone!\n\n['**Keywords:** Attack, Melee, Weapon', '**Type:** Action', '**Distance:** Reach 1', '**Target:** 1 creature']\n\n**Power Roll + Agility:**\n\n['11 or lower: 7 damage', '12–16: 11 damage', '17+: 17 damage']\n\n**Effect:** You can move up to your speed, and that movement doesn’t provoke opportunity attacks. You can move before or after your attack, or can split your movement before and after your attack.",
-          "IMPAIRING SHOT (5 INSIGHT)": "Your attack leaves a foe in the perfect position for your allies to finish them.\n\n['**Keywords:** Attack, Ranged, Weapon', '**Type:** Action', '**Distance:** Ranged 5', '**Target:** 1 creature']\n\n**Power Roll + Agility:**\n\n['11 or lower: 7 damage; attacks against the target gain an edge (EoT)', '12–16: 11 damage; attacks against the target gain an edge (EoT)', '17+: 17 damage; attacks against the target have a double edge (EoT)']",
-          "QUICKNESS (5 INSIGHT)": "You put on a burst of magical speed to get the job done.\n\n['**Keywords:** Magic', '**Type:** Action', '**Distance:** Self', '**Target:** Self']\n\n**Effect:** You make two signature attacks that each deal extra damage equal to twice your Agility."
+          "ASSASSINATE (5 INSIGHT)": {
+            "flavor": "You seize the perfect moment and strike with fatal precision!",
+            "keywords": "Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Reach 1",
+            "target": "1 creature",
+            "roll": "Power Roll + Agility",
+            "tier1": "2d6 + 8 damage",
+            "tier2": "2d6 + 12 damage",
+            "tier3": "2d6 + 18 damage"
+          },
+          "GET IN, GET OUT (5 INSIGHT)": {
+            "flavor": "Move unexpectedly, strike fast, and be gone!",
+            "keywords": "Attack, Melee, Weapon",
+            "type": "Action",
+            "distance": "Reach 1",
+            "target": "1 creature",
+            "roll": "Power Roll + Agility",
+            "tier1": "7 damage",
+            "tier2": "11 damage",
+            "tier3": "17 damage",
+            "effect": "You can move up to your speed, and that movement doesn’t provoke opportunity attacks. You can move before or after your attack, or can split your movement before and after your attack."
+          },
+          "IMPAIRING SHOT (5 INSIGHT)": {
+            "flavor": "Your attack leaves a foe in the perfect position for your allies to finish them.",
+            "keywords": "Attack, Ranged, Weapon",
+            "type": "Action",
+            "distance": "Ranged 5",
+            "target": "1 creature",
+            "roll": "Power Roll + Agility",
+            "tier1": "7 damage; attacks against the target gain an edge (EoT)",
+            "tier2": "11 damage; attacks against the target gain an edge (EoT)",
+            "tier3": "17 damage; attacks against the target have a double edge (EoT)"
+          },
+          "QUICKNESS (5 INSIGHT)": {
+            "flavor": "You put on a burst of magical speed to get the job done.",
+            "keywords": "Magic",
+            "type": "Action",
+            "distance": "Self",
+            "target": "Self",
+            "effect": "You make two signature attacks that each deal extra damage equal to twice your Agility."
+          }
         }
       }
     }
@@ -573,10 +1406,28 @@
       "TACTICAL DOCTRINE": "Warfare is as old as civilization—and perhaps even older. As battle became ever more developed and complex, military leaders invented doctrine, outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield.\n\nYou have developed a mastery of tactics of historical significance, letting you choose one of the following doctrines:\n\n['**Vanguard (Shock and Awe):** You have learned the tactics and stratagems of the heroes of ancient history, letting you lead from the front lines of battle and seek victory through sheer force of will and personality. You gain a skill from the interpersonal skill group.', '**Mastermind (Grand Strategy):** You have an encyclopedic knowledge of warfare, viewing the battlefield as a game board, and seeking victory by thinking multiple steps ahead of your opponents. You gain a skill from the lore skill group.', '**Insurgent (Asymmetric Warfare):** Doing your duty, playing fair, and dying honorably in battle is your opponent’s job. By contrast, you’ll do whatever it takes to keep your allies alive. You gain a skill from the intrigue skill group.']\n\nYour choice of doctrine determines many of the features you’ll gain from this class.",
       "FOCUS": "The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called focus.\n\nOutside of combat and other dangerous situations tracked in turns and rounds, you have focus equal to your Victories. If you lose some or all of this focus outside of combat, it takes you 1 minute to regain it.\n\nWhen a combat encounter begins, you keep any focus you had outside of combat. At the start of each of your turns during combat, you gain 2 focus. If an ally gets a tier 3 result on an attack against a target you have marked, you gain 1 focus. When combat ends, you once again have focus equal to your Victories.",
       "MARK": {
-        "MARK": "You draw your allies’ attention to a specific foe—with devastating effect.\n\n['**Keywords:** Ranged', '**Type:** Maneuver', '**Distance:** Ranged 10', '**Target:** 1 creature']\n\n**Effect:** The target is marked by you until the start of your next turn. When attacking a marked target, you and each of your allies gains an edge on power rolls and deals extra damage equal to your Reason score.\n\n**Spend 1 Focus:** You mark 1 additional creature within distance."
+        "MARK": {
+          "flavor": "You draw your allies’ attention to a specific foe—with devastating effect.",
+          "keywords": "Ranged",
+          "type": "Maneuver",
+          "distance": "Ranged 10",
+          "target": "1 creature",
+          "effect": "The target is marked by you until the start of your next turn. When attacking a marked target, you and each of your allies gains an edge on power rolls and deals extra damage equal to your Reason score.",
+          "spend_cost": "1 Focus",
+          "spend_effect": "You mark 1 additional creature within distance."
+        }
       },
       "SEIZE THE OPENING": {
-        "SEIZE THE OPENING": "As the battle unfolds, you tell your allies exactly when to strike!\n\n['**Keywords:** Ranged', '**Type:** Action', '**Distance:** Ranged 10', '**Target:** 1 ally']\n\n**Effect:** The target makes a signature attack as a free triggered action, and deals extra damage equal to your Reason score.\n\n**Spend 5 Focus:** You target two allies instead of one."
+        "SEIZE THE OPENING": {
+          "flavor": "As the battle unfolds, you tell your allies exactly when to strike!",
+          "keywords": "Ranged",
+          "type": "Action",
+          "distance": "Ranged 10",
+          "target": "1 ally",
+          "effect": "The target makes a signature attack as a free triggered action, and deals extra damage equal to your Reason score.",
+          "spend_cost": "5 Focus",
+          "spend_effect": "You target two allies instead of one."
+        }
       },
       "1ST-LEVEL DOCTRINE FEATURES": {
         "1ST-LEVEL TACTICAL DOCTRINE FEATURES": "| Doctrine   | Feature           |\n| ---------- | ----------------- |\n| Vanguard   | Imposing Attitude |\n| Mastermind | I Read Your Book! |\n| Insurgent  | Covert Operations |",
@@ -586,25 +1437,125 @@
       },
       "DOCTRINE TRIGGERED ACTION": {
         "TACTICIAN TRIGGERED ACTIONS": "| Doctrine   | Triggered Action |\n| ---------- | ---------------- |\n| Vanguard   | Parry            |\n| Mastermind | Overwatch        |\n| Insurgent  | Flank Them Now!  |",
-        "FLANK THEM NOW!": "You help keep your side in motion as attacks rain down on your foes.\n\n['**Keywords:** Ranged', '**Type:** Triggered', '**Distance:** Self or Ranged 10', '**Target:** You or an ally', '**Trigger:** A nontarget ally is about to make an attack.']\n\n**Effect:** The target can shift up to 2 squares before the attack resolves. After the attack resolves, both the original attacker and the target can shift up to 2 squares.\n\n**Spend 1 Focus:** The attack deals an extra 1d6 damage.",
-        "PARRY": "Your quick reflexes cost an enemy the precision they seek.\n\n['**Keywords:** Melee, Weapon', '**Type:** Triggered', '**Distance:** Self or Reach 1', '**Target:** Self or 1 ally', '**Trigger:** A creature makes a Weapon attack against the target.']\n\n**Effect:** The attack’s damage against the target is halved.\n\n**Spend 1 Focus:** The result of the attack’s power roll is treated as one tier lower before the damage is halved. If the attack is a critical hit, the attacker can still take an additional action.",
-        "OVERWATCH": "Under your direction, an ally waits for just the right moment to strike.\n\n['**Keywords:** Ranged', '**Type:** Triggered', '**Distance:** Ranged 10', '**Target:** 1 enemy', '**Trigger:** The target moves.']\n\n**Effect:** At any point during the target’s movement, one ally can make a free strike against the target.\n\n**Spend 1 Focus:** The target’s speed becomes 0 (EoT)."
+        "FLANK THEM NOW!": {
+          "flavor": "You help keep your side in motion as attacks rain down on your foes.",
+          "keywords": "Ranged",
+          "type": "Triggered",
+          "distance": "Self or Ranged 10",
+          "target": "You or an ally",
+          "trigger": "A nontarget ally is about to make an attack.",
+          "effect": "The target can shift up to 2 squares before the attack resolves. After the attack resolves, both the original attacker and the target can shift up to 2 squares.",
+          "spend_cost": "1 Focus",
+          "spend_effect": "The attack deals an extra 1d6 damage."
+        },
+        "PARRY": {
+          "flavor": "Your quick reflexes cost an enemy the precision they seek.",
+          "keywords": "Melee, Weapon",
+          "type": "Triggered",
+          "distance": "Self or Reach 1",
+          "target": "Self or 1 ally",
+          "trigger": "A creature makes a Weapon attack against the target.",
+          "effect": "The attack’s damage against the target is halved.",
+          "spend_cost": "1 Focus",
+          "spend_effect": "The result of the attack’s power roll is treated as one tier lower before the damage is halved. If the attack is a critical hit, the attacker can still take an additional action."
+        },
+        "OVERWATCH": {
+          "flavor": "Under your direction, an ally waits for just the right moment to strike.",
+          "keywords": "Ranged",
+          "type": "Triggered",
+          "distance": "Ranged 10",
+          "target": "1 enemy",
+          "trigger": "The target moves.",
+          "effect": "At any point during the target’s movement, one ally can make a free strike against the target.",
+          "spend_cost": "1 Focus",
+          "spend_effect": "The target’s speed becomes 0 (EoT)."
+        }
       },
       "FIELD ARSENAL": "You have drilled with a broad array of weapons and have developed techniques to optimize their use. Whenever you select or change your kit, you can select an additional martial kit and gain the benefits of both kits. (See Kits.)\n\nIf both kits grant you the same benefit, you take one or the other and can’t change your choice until you finish a Respite. (This usually means taking the higher of two bonuses.) You also gain access to the signature abilities of both kits.\n\nFor example, if you take the Shining Armor and Sniper kits, you gain the following benefits overall:\n\n['**Stamina Bonus:** +12', '**Stability Bonus:** +1', '**Melee Weapon Damage Bonus:** +2/+2/+2', '**Speed Bonus:** +1', '**Ranged Weapon Damage Bonus:** +0/+0/+4', '**Distance Bonus:** +10', '**Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.', '**You also gain the use of the Protective Attack and Patient Shot signature abilities.**']\n\nKit signature abilities already have their bonuses applied. For example, you might take the Martial Artist kit, which gives a melee weapon damage bonus of +2/+2/+2, and the Mountain kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the Mountain kit’s damage bonus, then the Battle Grace signature ability from the Martial Artist kit would reduce its damage by −2/−2/−2, as it loses the bonus from the Martial Artist kit. It then gains the +0/+0/+4 of the Mountain kit, to deal damage of 3/7/14 for its tier 1, tier 2, and tier 3 results.",
       "TACTICIAN ABILITIES": {
         "KIT SIGNATURE ABILITY": "Your additional kit from your Field Arsenal feature grants you a second signature ability. Signature abilities can be used at will.",
         "HEROIC ABILITIES": "Your heroic abilities cover a range of combat tactics, all of which require focus to use them.",
         "3-FOCUS ABILITIES": {
-          "BATTLE CRY (3 FOCUS)": "Hearing your shout of triumph fills your allies with combat fervor.\n\n['**Keywords:** Ranged', '**Type:** Maneuver', '**Distance:** Ranged 10', '**Target:** Up to three allies']\n\n**Effect:** Each target gains an edge on the next attack or resistance roll they make before the end of the encounter.",
-          "DAZING BLOW (3 FOCUS)": "Your precise strike leaves your foe struggling to respond.\n\n['**Keywords:** Attack, Melee, Ranged, Weapon', '**Type:** Action', '**Distance:** Reach or Ranged 5', '**Target:** 1 creature or object']\n\n**Power Roll + Might:**\n\n['11 or lower: 6 damage; slowed (EoT)', '12–16: 8 damage; dazed (EoT)', '17+: 13 damage; dazed (EoE)']",
-          "INSPIRING STRIKE (3 FOCUS)": "You hit a foe so hard that it gets your allies back in the fight.\n\n['**Keywords:** Attack, Melee, Ranged, Weapon', '**Type:** Action', '**Distance:** Reach 1 or Ranged 5', '**Target:** 1 creature or object']\n\n**Power Roll + Might:**\n\n['11 or lower: 6 damage; you or an ally within 10 can spend a Recovery', '12–16: 8 damage; you or an ally within 10 can spend a Recovery', '17+: 13 damage; you or an ally within 10 can spend a Recovery, and each of you gains an edge on the next attack they make this encounter']",
-          "PHALANX FORWARD! (3 FOCUS)": "On your command, you and your allies force back the enemy line.\n\n['**Keywords:** Ranged, Weapon', '**Type:** Maneuver', '**Distance:** Ranged 10', '**Target:** Self and all allies']\n\n**Effect:** Each target can move their speed, push an adjacent enemy 1 square at the end of that move, and shift 1 square into the square the enemy left."
+          "BATTLE CRY (3 FOCUS)": {
+            "flavor": "Hearing your shout of triumph fills your allies with combat fervor.",
+            "keywords": "Ranged",
+            "type": "Maneuver",
+            "distance": "Ranged 10",
+            "target": "Up to three allies",
+            "effect": "Each target gains an edge on the next attack or resistance roll they make before the end of the encounter."
+          },
+          "DAZING BLOW (3 FOCUS)": {
+            "flavor": "Your precise strike leaves your foe struggling to respond.",
+            "keywords": "Attack, Melee, Ranged, Weapon",
+            "type": "Action",
+            "distance": "Reach or Ranged 5",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Might",
+            "tier1": "6 damage; slowed (EoT)",
+            "tier2": "8 damage; dazed (EoT)",
+            "tier3": "13 damage; dazed (EoE)"
+          },
+          "INSPIRING STRIKE (3 FOCUS)": {
+            "flavor": "You hit a foe so hard that it gets your allies back in the fight.",
+            "keywords": "Attack, Melee, Ranged, Weapon",
+            "type": "Action",
+            "distance": "Reach 1 or Ranged 5",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Might",
+            "tier1": "6 damage; you or an ally within 10 can spend a Recovery",
+            "tier2": "8 damage; you or an ally within 10 can spend a Recovery",
+            "tier3": "13 damage; you or an ally within 10 can spend a Recovery, and each of you gains an edge on the next attack they make this encounter"
+          },
+          "PHALANX FORWARD! (3 FOCUS)": {
+            "flavor": "On your command, you and your allies force back the enemy line.",
+            "keywords": "Ranged, Weapon",
+            "type": "Maneuver",
+            "distance": "Ranged 10",
+            "target": "Self and all allies",
+            "effect": "Each target can move their speed, push an adjacent enemy 1 square at the end of that move, and shift 1 square into the square the enemy left."
+          }
         },
         "5-FOCUS ABILITIES": {
-          "HAMMER AND ANVIL (5 FOCUS)": "Your attack is your allies’ signal to strike!\n\n['**Keywords:** Attack, Melee, Ranged, Weapon', '**Type:** Action', '**Distance:** Reach 1 or Ranged 5', '**Target:** 1 creature or object']\n\n**Power Roll + Might:**\n\n['11 or lower: 7 damage; an ally within 10 can make a signature attack against the target as a free triggered action', '12–16: 10 damage; an ally within 10 can make a signature attack with an edge against the target as a free triggered action', '17+: 16 damage; two allies within 10 can each make a signature attack with an edge against the target as a free triggered action']\n\n**Effect:** If an attack is left to be resolved and the target was reduced to 0 Stamina, the attacker can pick a different target.",
-          "NOW! (5 FOCUS)": "Your allies wait for your command—then unleash death!\n\n['**Keywords:** Ranged', '**Type:** Maneuver', '**Distance:** Ranged 5', '**Target:** All allies']\n\n**Effect:** Each target can make a free strike.",
-          "THEIR WEAKNESS IS OUR STRENGTH (5 FOCUS)": "Leaving your foe struggling gives your allies a strategic opening.\n\n['**Keywords:** Attack, Melee, Ranged, Weapon', '**Type:** Action', '**Distance:** Reach 1 or Ranged 5', '**Target:** 1 creature or object']\n\n**Power Roll + Might:**\n\n['11 or lower: 7 damage; weakened (EoT)', '12–16: 10 damage; weakened (EoT)', '17+: 16 damage; weakened (EoE)']\n\n**Effect:** The target is marked (EoE). Each of your allies can spend a Recovery the first time they attack any target you’ve marked before the start of your next turn.",
-          "THIS IS WHAT WE PLANNED FOR (5 FOCUS)": "A quick signal from you gives your allies a chance to turn the tide of battle.\n\n['**Keywords:** Ranged', '**Type:** Maneuver', '**Distance:** Ranged 10', '**Target:** 2 allies']\n\n**Effect:** Each target who hasn’t acted yet this round can take their turn in any order immediately after yours."
+          "HAMMER AND ANVIL (5 FOCUS)": {
+            "flavor": "Your attack is your allies’ signal to strike!",
+            "keywords": "Attack, Melee, Ranged, Weapon",
+            "type": "Action",
+            "distance": "Reach 1 or Ranged 5",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Might",
+            "tier1": "7 damage; an ally within 10 can make a signature attack against the target as a free triggered action",
+            "tier2": "10 damage; an ally within 10 can make a signature attack with an edge against the target as a free triggered action",
+            "tier3": "16 damage; two allies within 10 can each make a signature attack with an edge against the target as a free triggered action",
+            "effect": "If an attack is left to be resolved and the target was reduced to 0 Stamina, the attacker can pick a different target."
+          },
+          "NOW! (5 FOCUS)": {
+            "flavor": "Your allies wait for your command—then unleash death!",
+            "keywords": "Ranged",
+            "type": "Maneuver",
+            "distance": "Ranged 5",
+            "target": "All allies",
+            "effect": "Each target can make a free strike."
+          },
+          "THEIR WEAKNESS IS OUR STRENGTH (5 FOCUS)": {
+            "flavor": "Leaving your foe struggling gives your allies a strategic opening.",
+            "keywords": "Attack, Melee, Ranged, Weapon",
+            "type": "Action",
+            "distance": "Reach 1 or Ranged 5",
+            "target": "1 creature or object",
+            "roll": "Power Roll + Might",
+            "tier1": "7 damage; weakened (EoT)",
+            "tier2": "10 damage; weakened (EoT)",
+            "tier3": "16 damage; weakened (EoE)",
+            "effect": "The target is marked (EoE). Each of your allies can spend a Recovery the first time they attack any target you’ve marked before the start of your next turn."
+          },
+          "THIS IS WHAT WE PLANNED FOR (5 FOCUS)": {
+            "flavor": "A quick signal from you gives your allies a chance to turn the tide of battle.",
+            "keywords": "Ranged",
+            "type": "Maneuver",
+            "distance": "Ranged 10",
+            "target": "2 allies",
+            "effect": "Each target who hasn’t acted yet this round can take their turn in any order immediately after yours."
+          }
         }
       }
     }
@@ -666,7 +1617,17 @@
           "Weapon Distance Bonus: +5",
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
-        "SIGNATURE ABILITY": "**Fade**\nA stab, and a few quick, careful steps back.\n**Keywords:** Attack, Melee, Ranged, Weapon\n**Type:** Action\n**Distance:** Reach 1 or range 10\n**Target:** 1 creature\n**Power Roll + Might or Agility:**\n\n['11 or lower: 4 damage; you shift 1 square', '12–16: 9 damage; you shift up to 2 squares', '17+: 13 damage; you shift up to 3 squares']"
+        "SIGNATURE ABILITY": {
+          "flavor": "**Fade**\nA stab, and a few quick, careful steps back.\n**Keywords:** Attack, Melee, Ranged, Weapon\n**Type:** Action\n**Distance:** Reach 1 or range 10\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "keywords": "Attack, Melee, Ranged, Weapon",
+          "type": "Action",
+          "distance": "Reach 1 or range 10",
+          "target": "1 creature",
+          "roll": "Power Roll + Might or Agility",
+          "tier1": "4 damage; you shift 1 square",
+          "tier2": "9 damage; you shift up to 2 squares",
+          "tier3": "13 damage; you shift up to 3 squares"
+        }
       },
       "GUISARMIER": {
         "EQUIPMENT": "You wear medium armor and wield a polearm.",
@@ -676,7 +1637,17 @@
           "Melee Weapon Damage Bonus: +2/+2/+2",
           "Reach Bonus: +1"
         ],
-        "SIGNATURE ABILITY": "**Forward Thrust, Backward Smash**\nIn your hands, the haft is as good as the head.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 2\n**Target:** 2 creatures or objects\n**Power Roll + Might or Agility:**\n\n['11 or lower: 4 damage', '12–16: 6 damage', '17+: 8 damage']"
+        "SIGNATURE ABILITY": {
+          "flavor": "**Forward Thrust, Backward Smash**\nIn your hands, the haft is as good as the head.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 2\n**Target:** 2 creatures or objects\n**Power Roll + Might or Agility:**",
+          "keywords": "Attack, Melee, Weapon",
+          "type": "Action",
+          "distance": "Reach 2",
+          "target": "2 creatures or objects",
+          "roll": "Power Roll + Might or Agility",
+          "tier1": "4 damage",
+          "tier2": "6 damage",
+          "tier3": "8 damage"
+        }
       },
       "MARTIAL ARTIST": {
         "EQUIPMENT": "You wear no armor and wield only your unarmed strikes.",
@@ -686,7 +1657,18 @@
           "Melee Weapon Damage Bonus: +2/+2/+2",
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
-        "SIGNATURE ABILITY": "**Battle Grace**\nYou feint to move your enemies into perfect position.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**\n\n['11 or lower: 5 damage', '12–16: 9 damage; you swap places with the target', '17+: 12 damage; you swap places with the target, then slide the target 2 squares\\n**Effect:** If you roll a 12 or better and can’t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage.']"
+        "SIGNATURE ABILITY": {
+          "flavor": "**Battle Grace**\nYou feint to move your enemies into perfect position.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "keywords": "Attack, Melee, Weapon",
+          "type": "Action",
+          "distance": "Reach 1",
+          "target": "1 creature",
+          "roll": "Power Roll + Might or Agility",
+          "tier1": "5 damage",
+          "tier2": "9 damage; you swap places with the target",
+          "tier3": "12 damage; you swap places with the target, then slide the target 2 squares\\n",
+          "effect": "If you roll a 12 or better and can’t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage.']"
+        }
       },
       "MOUNTAIN": {
         "EQUIPMENT": "You wear heavy armor and wield a heavy weapon.",
@@ -695,7 +1677,18 @@
           "Stability Bonus: +2",
           "Melee Weapon Damage Bonus: +0/+0/+4"
         ],
-        "SIGNATURE ABILITY": "**Pain for Pain**\nAn enemy who tagged you will pay for that.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**\n\n['11 or lower: 3 damage', '12–16: 8 damage', '17+: 16 damage\\n**Effect:** If the target dealt damage to you since the end of your last turn, this attack gains an edge.']"
+        "SIGNATURE ABILITY": {
+          "flavor": "**Pain for Pain**\nAn enemy who tagged you will pay for that.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "keywords": "Attack, Melee, Weapon",
+          "type": "Action",
+          "distance": "Reach 1",
+          "target": "1 creature",
+          "roll": "Power Roll + Might or Agility",
+          "tier1": "3 damage",
+          "tier2": "8 damage",
+          "tier3": "16 damage\\n",
+          "effect": "If the target dealt damage to you since the end of your last turn, this attack gains an edge.']"
+        }
       },
       "PANTHER": {
         "EQUIPMENT": "You wear no armor and wield a heavy weapon.",
@@ -705,7 +1698,18 @@
           "Stability Bonus: +1",
           "Melee Weapon Damage Bonus: +0/+0/+4"
         ],
-        "SIGNATURE ABILITY": "**Devastating Rush**\nThe faster you move, the harder you hit.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature or object\n**Power Roll + Might or Agility:**\n\n['11 or lower: 3 damage', '12–16: 8 damage', '17+: 16 damage\\n**Effect:** You can move up to 3 squares straight toward the target before this attack. You deal extra damage equal to the distance moved this way.']"
+        "SIGNATURE ABILITY": {
+          "flavor": "**Devastating Rush**\nThe faster you move, the harder you hit.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature or object\n**Power Roll + Might or Agility:**",
+          "keywords": "Attack, Melee, Weapon",
+          "type": "Action",
+          "distance": "Reach 1",
+          "target": "1 creature or object",
+          "roll": "Power Roll + Might or Agility",
+          "tier1": "3 damage",
+          "tier2": "8 damage",
+          "tier3": "16 damage\\n",
+          "effect": "You can move up to 3 squares straight toward the target before this attack. You deal extra damage equal to the distance moved this way.']"
+        }
       },
       "PUGILIST": {
         "EQUIPMENT": "You wear no armor and wield only your unarmed strikes.",
@@ -715,7 +1719,18 @@
           "Stability Bonus: +1",
           "Melee Weapon Damage Bonus: +1/+1/+1"
         ],
-        "SIGNATURE ABILITY": "**Let's Dance**\nKeeping your enemies stumbling around the battlefield is second nature to you.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**\n\n['11 or lower: 4 damage', '12–16: 9 damage; slide 1', '17+: 13 damage; slide 2\\n**Effect:** You can shift into any square your target leaves after you slide them.']"
+        "SIGNATURE ABILITY": {
+          "flavor": "**Let's Dance**\nKeeping your enemies stumbling around the battlefield is second nature to you.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "keywords": "Attack, Melee, Weapon",
+          "type": "Action",
+          "distance": "Reach 1",
+          "target": "1 creature",
+          "roll": "Power Roll + Might or Agility",
+          "tier1": "4 damage",
+          "tier2": "9 damage; slide 1",
+          "tier3": "13 damage; slide 2\\n",
+          "effect": "You can shift into any square your target leaves after you slide them.']"
+        }
       },
       "RAIDER": {
         "EQUIPMENT": "You wear medium armor and wield a shield and a light weapon.",
@@ -726,7 +1741,17 @@
           "Weapon Distance Bonus: +5",
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
-        "SIGNATURE ABILITY": "**Shield Bash**\nIn your hands, a shield isn’t just for protection.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**\n\n['11 or lower: 4 damage; push 1', '12–16: 8 damage; push 2', '17+: 11 damage; push 3; prone if the target is your size or smaller']"
+        "SIGNATURE ABILITY": {
+          "flavor": "**Shield Bash**\nIn your hands, a shield isn’t just for protection.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "keywords": "Attack, Melee, Weapon",
+          "type": "Action",
+          "distance": "Reach 1",
+          "target": "1 creature",
+          "roll": "Power Roll + Might or Agility",
+          "tier1": "4 damage; push 1",
+          "tier2": "8 damage; push 2",
+          "tier3": "11 damage; push 3; prone if the target is your size or smaller"
+        }
       },
       "RANGER": {
         "EQUIPMENT": "You wear medium armor and wield a medium weapon and a bow.",
@@ -738,7 +1763,17 @@
           "Weapon Distance Bonus: +5",
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
-        "SIGNATURE ABILITY": "**Hamstring Shot**\nA well-placed shot leaves your enemy struggling to move.\n**Keywords:** Attack, Ranged, Weapon\n**Type:** Action\n**Distance:** Ranged 10\n**Target:** 1 creature\n**Power Roll + Might or Agility:**\n\n['11 or lower: 3 damage', '12–16: 7 damage; slowed (EoT)', '17+: 10 damage; slowed (EoE)']"
+        "SIGNATURE ABILITY": {
+          "flavor": "**Hamstring Shot**\nA well-placed shot leaves your enemy struggling to move.\n**Keywords:** Attack, Ranged, Weapon\n**Type:** Action\n**Distance:** Ranged 10\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "keywords": "Attack, Ranged, Weapon",
+          "type": "Action",
+          "distance": "Ranged 10",
+          "target": "1 creature",
+          "roll": "Power Roll + Might or Agility",
+          "tier1": "3 damage",
+          "tier2": "7 damage; slowed (EoT)",
+          "tier3": "10 damage; slowed (EoE)"
+        }
       },
       "RAPID-FIRE": {
         "EQUIPMENT": "You wear light armor and wield a bow.",
@@ -749,7 +1784,17 @@
           "Weapon Distance Bonus: +7",
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
-        "SIGNATURE ABILITY": "**Two Shot**\nWhen you fire two arrows back to back, both hit their mark.\n**Keywords:** Attack, Ranged, Weapon\n**Type:** Action\n**Distance:** Ranged 12\n**Target:** 2 creatures or objects\n**Power Roll + Might or Agility:**\n\n['11 or lower: 4 damage', '12–16: 6 damage', '17+: 7 damage']"
+        "SIGNATURE ABILITY": {
+          "flavor": "**Two Shot**\nWhen you fire two arrows back to back, both hit their mark.\n**Keywords:** Attack, Ranged, Weapon\n**Type:** Action\n**Distance:** Ranged 12\n**Target:** 2 creatures or objects\n**Power Roll + Might or Agility:**",
+          "keywords": "Attack, Ranged, Weapon",
+          "type": "Action",
+          "distance": "Ranged 12",
+          "target": "2 creatures or objects",
+          "roll": "Power Roll + Might or Agility",
+          "tier1": "4 damage",
+          "tier2": "6 damage",
+          "tier3": "7 damage"
+        }
       },
       "RETIARIUS": {
         "EQUIPMENT": "You wear light armor, and wield a polearm and several ensnaring weapons.",
@@ -760,7 +1805,17 @@
           "Reach Bonus: +1",
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
-        "SIGNATURE ABILITY": "**Net and Stab**\nThe well-thrown net that follows your main attack leaves your foes right where you want them.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 2\n**Target:** 1 creature\n**Power Roll + Might or Agility:**\n\n['11 or lower: 4 damage', '12–16: 7 damage; slowed (EoT)', '17+: 10 damage; restrained (EoT)']"
+        "SIGNATURE ABILITY": {
+          "flavor": "**Net and Stab**\nThe well-thrown net that follows your main attack leaves your foes right where you want them.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 2\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "keywords": "Attack, Melee, Weapon",
+          "type": "Action",
+          "distance": "Reach 2",
+          "target": "1 creature",
+          "roll": "Power Roll + Might or Agility",
+          "tier1": "4 damage",
+          "tier2": "7 damage; slowed (EoT)",
+          "tier3": "10 damage; restrained (EoT)"
+        }
       },
       "SHINING ARMOR": {
         "EQUIPMENT": "You wear heavy armor and wield a shield and a medium weapon.",
@@ -769,7 +1824,17 @@
           "Stability Bonus: +1",
           "Melee Weapon Damage Bonus: +2/+2/+2"
         ],
-        "SIGNATURE ABILITY": "**Protective Attack**\nThe strength of your assault makes it impossible for your foe to ignore you.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**\n\n['11 or lower: 5 damage; taunted (EoT)', '12–16: 9 damage; taunted (EoT)', '17+: 12 damage; taunted (EoT)']"
+        "SIGNATURE ABILITY": {
+          "flavor": "**Protective Attack**\nThe strength of your assault makes it impossible for your foe to ignore you.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "keywords": "Attack, Melee, Weapon",
+          "type": "Action",
+          "distance": "Reach 1",
+          "target": "1 creature",
+          "roll": "Power Roll + Might or Agility",
+          "tier1": "5 damage; taunted (EoT)",
+          "tier2": "9 damage; taunted (EoT)",
+          "tier3": "12 damage; taunted (EoT)"
+        }
       },
       "SNIPER": {
         "EQUIPMENT": "You wear no armor and wield a bow.",
@@ -779,7 +1844,18 @@
           "Weapon Distance Bonus: +10",
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
-        "SIGNATURE ABILITY": "**Patient Shot**\nBreathe… aim… wait… then strike!\n**Keywords:** Attack, Ranged, Weapon\n**Type:** Action\n**Distance:** Ranged 15\n**Target:** 1 creature\n**Power Roll + Might or Agility:**\n\n['11 or lower: 3 damage', '12–16: 7 damage', '17+: 14 damage\\n**Effect:** If you don’t take a move action this turn, you gain an edge on this attack.']"
+        "SIGNATURE ABILITY": {
+          "flavor": "**Patient Shot**\nBreathe… aim… wait… then strike!\n**Keywords:** Attack, Ranged, Weapon\n**Type:** Action\n**Distance:** Ranged 15\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "keywords": "Attack, Ranged, Weapon",
+          "type": "Action",
+          "distance": "Ranged 15",
+          "target": "1 creature",
+          "roll": "Power Roll + Might or Agility",
+          "tier1": "3 damage",
+          "tier2": "7 damage",
+          "tier3": "14 damage\\n",
+          "effect": "If you don’t take a move action this turn, you gain an edge on this attack.']"
+        }
       },
       "STICK AND ROBE": {
         "EQUIPMENT": "You wear light armor and wield a polearm.",
@@ -790,7 +1866,17 @@
           "Reach Bonus: +1",
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
-        "SIGNATURE ABILITY": "**Where I Want You**\nWhen your stick speaks, your enemy moves.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 2\n**Target:** 1 creature\n**Power Roll + Might or Agility:**\n\n['11 or lower: 4 damage', '12–16: 8 damage; slide 1', '17+: 11 damage; slide 3']"
+        "SIGNATURE ABILITY": {
+          "flavor": "**Where I Want You**\nWhen your stick speaks, your enemy moves.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 2\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "keywords": "Attack, Melee, Weapon",
+          "type": "Action",
+          "distance": "Reach 2",
+          "target": "1 creature",
+          "roll": "Power Roll + Might or Agility",
+          "tier1": "4 damage",
+          "tier2": "8 damage; slide 1",
+          "tier3": "11 damage; slide 3"
+        }
       },
       "SWASHBUCKLER": {
         "EQUIPMENT": "You wear light armor and wield a medium weapon.",
@@ -800,7 +1886,18 @@
           "Melee Weapon Damage Bonus: +2/+2/+2",
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
-        "SIGNATURE ABILITY": "**Fancy Footwork**\nAll combat is a dance—and you’ll be the one leading.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**\n\n['11 or lower: 5 damage', '12–16: 10 damage; push 1', '17+: 14 damage; push 2\\n**Effect:** You can shift into any square your target leaves after you force move them with this ability.']"
+        "SIGNATURE ABILITY": {
+          "flavor": "**Fancy Footwork**\nAll combat is a dance—and you’ll be the one leading.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 1\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "keywords": "Attack, Melee, Weapon",
+          "type": "Action",
+          "distance": "Reach 1",
+          "target": "1 creature",
+          "roll": "Power Roll + Might or Agility",
+          "tier1": "5 damage",
+          "tier2": "10 damage; push 1",
+          "tier3": "14 damage; push 2\\n",
+          "effect": "You can shift into any square your target leaves after you force move them with this ability.']"
+        }
       },
       "WHIRLWIND": {
         "EQUIPMENT": "You wear no armor and wield a whip.",
@@ -810,7 +1907,17 @@
           "Reach Bonus: +1",
           "Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action."
         ],
-        "SIGNATURE ABILITY": "**Extension of My Arm**\nWhen you draw your whip back after an attack, your enemy comes ever closer.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 3\n**Target:** 1 creature\n**Power Roll + Might or Agility:**\n\n['11 or lower: 4 damage', '12–16: 8 damage; pull 1', '17+: 11 damage; pull 2']"
+        "SIGNATURE ABILITY": {
+          "flavor": "**Extension of My Arm**\nWhen you draw your whip back after an attack, your enemy comes ever closer.\n**Keywords:** Attack, Melee, Weapon\n**Type:** Action\n**Distance:** Reach 3\n**Target:** 1 creature\n**Power Roll + Might or Agility:**",
+          "keywords": "Attack, Melee, Weapon",
+          "type": "Action",
+          "distance": "Reach 3",
+          "target": "1 creature",
+          "roll": "Power Roll + Might or Agility",
+          "tier1": "4 damage",
+          "tier2": "8 damage; pull 1",
+          "tier3": "11 damage; pull 2"
+        }
       },
       "MARTIAL KITS TABLE": "| Kit              | Armor          | Weapon             | Stamina | Speed | Stability | Melee Damage | Ranged Damage | Weapon Distance | Reach | Mobility |\n| ---------------- | -------------- | ------------------ | ------- | ----- | --------- | ------------ | ------------- | --------------- | ----- | -------- |\n| Cloak and Dagger | Light          | Light              | +3      | +2    | —         | +1/+1/+1     | +1/+1/+1      | +5              | —     | Yes      |\n| Guisarmier       | Medium         | Polearm            | +6      | —     | +1        | +2/+2/+2     | —             | —               | +1    | —        |\n| Martial Artist   | None           | Unarmed Strike     | +3      | +3    | —         | +2/+2/+2     | —             | —               | —     | Yes      |\n| Mountain         | Heavy          | Heavy              | +9      | —     | +2        | +0/+0/+4     | —             | —               | —     | —        |\n| Panther          | None           | Heavy              | +6      | +1    | +1        | +0/+0/+4     | —             | —               | —     | —        |\n| Pugilist         | None           | Unarmed Strike     | +6      | +2    | +1        | +1/+1/+1     | —             | —               | —     | —        |\n| Raider           | Medium, Shield | Light              | +9      | +1    | —         | +1/+1/+1     | —             | +5              | —     | Yes      |\n| Ranger           | Medium         | Medium, Bow        | +6      | +1    | —         | +1/+1/+1     | +1/+1/+1      | +5              | —     | Yes      |\n| Rapid-Fire       | Light          | Bow                | +3      | +1    | —         | —            | +2/+2/+2      | +7              | —     | Yes      |\n| Retiarius        | Light          | Polearm, Ensnaring | +3      | +1    | —         | +2/+2/+2     | —             | —               | +1    | Yes      |\n| Shining Armor    | Heavy, Shield  | Medium             | +12     | —     | +1        | +2/+2/+2     | —             | —               | —     | —        |\n| Sniper           | None           | Bow                | —       | +1    | —         | —            | +0/+0/+4      | +10             | —     | Yes      |\n| Stick and Robe   | Light          | Polearm            | +3      | +2    | —         | +1/+1/+1     | —             | —               | +1    | Yes      |\n| Swashbuckler     | Light          | Medium             | +3      | +3    | —         | +2/+2/+2     | —             | —               | —     | Yes      |\n| Whirlwind        | None           | Whip               | —       | +3    | —         | +1/+1/+1     | —             | —               | +1    | Yes      |"
     },
@@ -822,7 +1929,16 @@
           "Magic Damage Bonus: +2/+2/+2",
           "Magic Distance Bonus: +5"
         ],
-        "SIGNATURE ABILITY: DRAIN": "You drain the energy from your target and revitalize your senses.\n\n**Keywords**: Attack, Magic, Melee\n**Type**: Action\n**Distance**: Reach\n**Target**: 1 creature\n**Power Roll** + Reason, Intuition, or Presence:\n\n['11 or lower: 5 corruption damage', '12-16: 10 corruption damage', '17+: 14 corruption damage; you can spend 1 recovery to regain Stamina']",
+        "SIGNATURE ABILITY: DRAIN": {
+          "flavor": "You drain the energy from your target and revitalize your senses.",
+          "keywords": "Attack, Magic, Melee",
+          "type": "Action",
+          "distance": "Reach",
+          "target": "1 creature",
+          "tier1": "5 corruption damage",
+          "tier2": "10 corruption damage",
+          "tier3": "14 corruption damage; you can spend 1 recovery to regain Stamina"
+        },
         "KIT WARD: BLOOD WARD": "The blood ward is a large projection of your heart that magnifies the sound of your heartbeat. Whenever an ability lets you spend a Recovery, you can forgo regaining Stamina to instead increase your speed by 2 and have your abilities deal 2 extra corruption damage until the end of the encounter instead."
       },
       "DANCER": {
@@ -831,7 +1947,17 @@
           "Speed Bonus: +2",
           "Magic Damage Bonus: +0/+1/+2"
         ],
-        "SIGNATURE ABILITY: TARANTELLA VOLLEY": "Visible energy sparks off you to wash across a nearby foe, who you invite to dance with you.\n\n**Keywords**: Attack, Magic, Melee\n**Type**: Action\n**Distance**: Reach 2\n**Target**: 1 creature or object\n**Power Roll** + Agility, Intuition, or Presence:\n\n['11 or lower: 2 damage', '12–16: 7 damage; you swap places with the target', '17+: 11 damage; you swap places with the target, and a hero within distance can shift up to 2 squares\\n**Effect**: If you roll a 12 or better and can’t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage.']",
+        "SIGNATURE ABILITY: TARANTELLA VOLLEY": {
+          "flavor": "Visible energy sparks off you to wash across a nearby foe, who you invite to dance with you.",
+          "keywords": "Attack, Magic, Melee",
+          "type": "Action",
+          "distance": "Reach 2",
+          "target": "1 creature or object",
+          "tier1": "2 damage",
+          "tier2": "7 damage; you swap places with the target",
+          "tier3": "11 damage; you swap places with the target, and a hero within distance can shift up to 2 squares\\n",
+          "effect": "If you roll a 12 or better and can’t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage.']"
+        },
         "KIT WARD: WALTZING WARD": "Your ward surrounds you with a soft, enchanting melody whose volume you control, and grants you the following benefits:\n\n['Whenever an enemy ends their turn adjacent to you, you can shift 2 squares as a free triggered action.', 'Whenever a creature damages you with a melee ability, you can slide them a number of squares equal to your highest characteristic score.']"
       },
       "FRIGID": {
@@ -841,7 +1967,16 @@
           "Magic Distance Bonus: +7",
           "Magic Area Bonus: +1"
         ],
-        "SIGNATURE ABILITY: FROZEN EXPLOSION": "You unleash a blast of frigid air to freeze and hinder your foes.\n\n**Keywords**: Area, Magic, Ranged\n**Type**: Action\n**Distance**: 3 cube within 12\n**Target**: All enemies\n**Power Roll** + Reason, Intuition, or Presence:\n\n['11 or lower: 2 cold damage', '12–16: 3 cold damage; slowed (EoT)', '17+: 4 cold damage; slowed (EoE)']",
+        "SIGNATURE ABILITY: FROZEN EXPLOSION": {
+          "flavor": "You unleash a blast of frigid air to freeze and hinder your foes.",
+          "keywords": "Area, Magic, Ranged",
+          "type": "Action",
+          "distance": "3 cube within 12",
+          "target": "All enemies",
+          "tier1": "2 cold damage",
+          "tier2": "3 cold damage; slowed (EoT)",
+          "tier3": "4 cold damage; slowed (EoE)"
+        },
         "KIT WARD: ICE ARMOR": "Your ward covers your body in ice, and grants you the following benefits:\n\n['You have cold immunity and fire immunity equal to your highest characteristic score.', 'When a creature damages you with a melee ability, they take cold damage equal to your highest characteristic score.']"
       },
       "MEDITATOR": {
@@ -850,7 +1985,16 @@
           "Stamina Bonus: +9",
           "Speed Bonus: +1"
         ],
-        "SIGNATURE ABILITY: BOUNTIFUL DECAY": "Your curse causes a foe’s flesh to rot off as spores that aid your allies.\n\n**Keywords**: Attack, Magic, Ranged\n**Type**: Action\n**Distance**: Ranged 5\n**Target**: 1 creature\n**Power Roll** + Reason, Intuition, or Presence:\n\n['11 or lower: 2 corruption damage; a hero within distance can make a resistance roll to end an effect', '12–16: 6 corruption damage; a hero within distance can make a resistance roll to end an effect', '17+: 9 corruption damage; a hero within distance who is affected by an “(EoT)” or “(resistance ends)” effect has the effect end']",
+        "SIGNATURE ABILITY: BOUNTIFUL DECAY": {
+          "flavor": "Your curse causes a foe’s flesh to rot off as spores that aid your allies.",
+          "keywords": "Attack, Magic, Ranged",
+          "type": "Action",
+          "distance": "Ranged 5",
+          "target": "1 creature",
+          "tier1": "2 corruption damage; a hero within distance can make a resistance roll to end an effect",
+          "tier2": "6 corruption damage; a hero within distance can make a resistance roll to end an effect",
+          "tier3": "9 corruption damage; a hero within distance who is affected by an “(EoT)” or “(resistance ends)” effect has the effect end"
+        },
         "KIT WARD: SPIRIT WARD": "Your spirit overflows and warms the area around you. It grants you the following benefits:\n\n['You gain an edge on resistance rolls.', 'Whenever an enemy damages you with a melee ability, you deal corruption damage to that enemy equal to your highest characteristic score.']"
       },
       "MISSILE": {
@@ -859,7 +2003,17 @@
           "Magic Damage Bonus: +0/+1/+2",
           "Magic Distance Bonus: +10"
         ],
-        "SIGNATURE ABILITY: SPIKE!": "You lob your implement at high speed toward your opponent, unleashing a chaotic flare of magic.\n\n**Keywords**: Attack, Magic, Ranged\n**Type**: Action\n**Distance**: Ranged 15\n**Target**: 1 creature or object\n**Power Roll** + Reason, Intuition, or Presence:\n\n['11 or lower: 2 fire damage', '12–16: 8 cold damage', '17+: 11 lightning damage\\n**Effect**: If your Magic Eye Ward is locked onto the target, you can target them with this ability regardless of the distance as long as you have line of effect to them, and this ability deals additional damage equal to your highest characteristic.']",
+        "SIGNATURE ABILITY: SPIKE!": {
+          "flavor": "You lob your implement at high speed toward your opponent, unleashing a chaotic flare of magic.",
+          "keywords": "Attack, Magic, Ranged",
+          "type": "Action",
+          "distance": "Ranged 15",
+          "target": "1 creature or object",
+          "tier1": "2 fire damage",
+          "tier2": "8 cold damage",
+          "tier3": "11 lightning damage\\n",
+          "effect": "If your Magic Eye Ward is locked onto the target, you can target them with this ability regardless of the distance as long as you have line of effect to them, and this ability deals additional damage equal to your highest characteristic.']"
+        },
         "KIT WARD: MAGIC EYE WARD": "Your ward wraps itself around your head and shields your eyes, granting you the following benefits:\n\n['You have Ranged immunity equal to your highest characteristic score.', 'Whenever an enemy within 15 squares of you damages you with a ranged ability, your ward locks onto them until the end of the encounter.']"
       },
       "NATURE CALLING": {
@@ -868,7 +2022,16 @@
           "Stability Bonus: +2",
           "Magic Distance Bonus: +7"
         ],
-        "SIGNATURE ABILITY: LIGHTNING SPARK": "You call forth a small bolt of lightning, then hurl it at your foe.\n\n**Keywords**: Attack, Magic, Ranged\n**Type**: Action\n**Distance**: Ranged 12\n**Target**: 1 creature or object\n**Power Roll** + Reason, Intuition, or Presence:\n\n['11 or lower: 2 lightning damage', '12–16: 6 damage; the target takes a bane on their next power roll', '17+: 9 damage; the target has a double bane on their next power roll']",
+        "SIGNATURE ABILITY: LIGHTNING SPARK": {
+          "flavor": "You call forth a small bolt of lightning, then hurl it at your foe.",
+          "keywords": "Attack, Magic, Ranged",
+          "type": "Action",
+          "distance": "Ranged 12",
+          "target": "1 creature or object",
+          "tier1": "2 lightning damage",
+          "tier2": "6 damage; the target takes a bane on their next power roll",
+          "tier3": "9 damage; the target has a double bane on their next power roll"
+        },
         "KIT WARD: VINE WARD": "Your ward surrounds you with protective animal spirits, and grants you the following benefits:\n\n['The area within 2 squares of you is difficult terrain for your enemies.', 'Whenever an enemy within 12 squares of you damages you with a ranged ability, you can either shift towards them or pull them a number of squares equal to your highest characteristic score.']"
       },
       "ROOK": {
@@ -876,7 +2039,16 @@
         "KIT BONUS": [
           "Stamina Bonus: +12"
         ],
-        "SIGNATURE ABILITY: BLESSED LIGHT": "Burning radiance falls upon your foe, outlining them with a holy glow.\n\n**Keywords**: Attack, Magic, Ranged\n**Type**: Action\n**Distance**: Ranged 5\n**Target**: 1 creature or object\n**Power Roll** + Reason, Intuition, or Presence:\n\n['11 or lower: 2 holy damage; the next attack against the target has an edge', '12–16: 6 holy damage; the next attack against the target has an edge', '17+: 9 holy damage; the next attack against the target has a double edge']",
+        "SIGNATURE ABILITY: BLESSED LIGHT": {
+          "flavor": "Burning radiance falls upon your foe, outlining them with a holy glow.",
+          "keywords": "Attack, Magic, Ranged",
+          "type": "Action",
+          "distance": "Ranged 5",
+          "target": "1 creature or object",
+          "tier1": "2 holy damage; the next attack against the target has an edge",
+          "tier2": "6 holy damage; the next attack against the target has an edge",
+          "tier3": "9 holy damage; the next attack against the target has a double edge"
+        },
         "KIT WARD: CASTLE GUARD": "Your armor is reinforced by a bright ward of holy energy, and grants you the following benefits:\n\n['Allies within 2 squares of you have their stability increased by 1.', 'Whenever an enemy damages you with a melee ability, you or an ally within 2 can shift 2 as a free triggered action.']"
       },
       "SPELLSLINGER": {
@@ -886,7 +2058,16 @@
           "Magical Damage Bonus: +1/+1/+1",
           "Magic Distance Bonus: +5"
         ],
-        "SIGNATURE ABILITY: SPLIT BEAM": "Two beams of supernatural force lance out at your command.\n\n**Keywords**: Attack, Magic, Ranged\n**Type**: Action\n**Distance**: Ranged 10\n**Target**: 2 creatures or objects\n**Power Roll** + Reason, Intuition, or Presence:\n\n['11 or lower: 3 damage', '12–16: 5 damage', '17+: 6 damage']",
+        "SIGNATURE ABILITY: SPLIT BEAM": {
+          "flavor": "Two beams of supernatural force lance out at your command.",
+          "keywords": "Attack, Magic, Ranged",
+          "type": "Action",
+          "distance": "Ranged 10",
+          "target": "2 creatures or objects",
+          "tier1": "3 damage",
+          "tier2": "5 damage",
+          "tier3": "6 damage"
+        },
         "KIT WARD: INVIGORATING WARD": "Your ward surrounds you with crackling energy.\n\nWhenever you take damage, you gain a bonus to damage equal to your highest characteristic score, which you apply to the next damage-dealing magic ability you use before the end of the encounter. This benefit is cumulative, so that you can accrue bonus damage multiple times, then expend it all on one use of an ability."
       },
       "WARD WEAVER": {
@@ -896,7 +2077,16 @@
           "Stability Bonus: +1",
           "Magic Distance: +5"
         ],
-        "SIGNATURE ABILITY: ENERGY SIPHON": "Absorbing psychic energy from another creature lets you shield yourself within it.\n\n**Keywords**: Attack, Magic, Ranged\n**Type**: Action\n**Distance**: Ranged 10\n**Target**: 1 creature\n**Power Roll** + Intuition:\n\n['11 or lower: 2 psychic damage; you gain damage immunity 1 until the end of your next turn', '12–16: 6 psychic damage; you gain damage immunity 3 until the end of your next turn', '17+: 9 psychic damage; you gain damage immunity 5 until the end of your next turn']",
+        "SIGNATURE ABILITY: ENERGY SIPHON": {
+          "flavor": "Absorbing psychic energy from another creature lets you shield yourself within it.",
+          "keywords": "Attack, Magic, Ranged",
+          "type": "Action",
+          "distance": "Ranged 10",
+          "target": "1 creature",
+          "tier1": "2 psychic damage; you gain damage immunity 1 until the end of your next turn",
+          "tier2": "6 psychic damage; you gain damage immunity 3 until the end of your next turn",
+          "tier3": "9 psychic damage; you gain damage immunity 5 until the end of your next turn"
+        },
         "KIT WARD: REPULSIVE WARD": "You have an invisible ward of magical force that extends 2 squares from you in all directions. When you or an ally within the area of your ward take damage from another creature’s melee ability, you can push that creature a number of squares equal to your highest characteristic score."
       },
       "CASTER KIT TABLE": "| Caster Kits    | Kit Armor | Implement | Stamina | Speed | Stability | Magical Damage | Magic Distance | Area |\n| -------------- | --------- | --------- | ------- | ----- | --------- | -------------- | -------------- | ---- |\n| Bloodpact      | None      | Metal     | +6      | —     | —         | +2/+2/+2       | +5             | —    |\n| Dancer         | None      | Glass     | —       | +2    | —         | +0/+1/+2       | —              | —    |\n| Frigid         | None      | Crystal   | +3      | —     | —         | —              | +7             | +1   |\n| Meditator      | Light     | Bone      | +6      | +1    | —         | —              | —              | —    |\n| Missile        | None      | Wood      | —       | —     | —         | +0/+1/+2       | +10            | —    |\n| Nature Calling | None      | Stone     | —       | —     | +2        | —              | +7             | —    |\n| Rook           | Heavy     | Bone      | +12     | —     | —         | —              | —              | —    |\n| Spellslinger   | None      | Metal     | —       | +1    | —         | +1/+1/+1       | +5             | —    |\n| Ward Weaver    | None      | Bone      | +6      | —     | +1        | —              | +5             | —    |"

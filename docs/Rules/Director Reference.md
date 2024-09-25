@@ -1229,6 +1229,8 @@ t3: The effect ends immediately
 - Spent on a Hero's turn or when they take damage
 	- No Action required
 - Regain [[#Recovery Value]] Stamina (1/3 Max)
+- No upper limit
+- Can be awarded to individual Hero or to group as a whole
 
 *Also see:*
 - *[[Draw Steel Rules#HERO TOKENS|Draw Steel Rules: Hero Tokens]]*
