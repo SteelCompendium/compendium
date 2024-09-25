@@ -20,4 +20,4 @@ Your enemies will get out of your way—whether they want to or not.
 - 12–16: 5 damage; slide 3
 - 17+: 8 damage; slide 5
 
-**Effect:** When you force move the target, you can move into squares they leave. The target takes the damage from any free strikes you provoke with this movement.
+**Effect:** When you force move the target, you can move into squares they leave. The target takes the damage from any [[Free Strike|free strikes]] you provoke with this movement.

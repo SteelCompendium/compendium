@@ -4,7 +4,7 @@ Draw Steel Compendium is an independent product published under the DRAW STEEL C
 
 Bay of Blackbottom is a playtest adventure for Draw Steel, the MCDM RPG. It’s written for the player who’ll act as the Director of the adventure, and shouldn’t be read by any other players. The adventure takes about 2 to 3 hours to complete and is optimized for five 1st-level heroes.
 
-## What You Need to Play
+What You Need to Play
 
 - A Director who’ll run the adventure (that’s you)
 - Five players to take on the roles of different heroes
@@ -17,17 +17,17 @@ Bay of Blackbottom is a playtest adventure for Draw Steel, the MCDM RPG. It’s 
 
 This adventure comes with a full set of pregenerated heroes:
 
-- **Conduit:** A priest who heals allies and smites enemies with divine power.
+- **Conduit:** A priest who [[Heal|heals]] allies and smites enemies with divine power.
 - **Elementalist:** A mage who harnesses the elements of creation to devastate foes.
 - **Fury:** A warrior who can hit hard and soak up damage thanks to their growing rage in battle.
-- **Shadow:** A sneaky assassin who teleports around the battlefield.
+- **Shadow:** A sneaky assassin who [[Teleport|teleports]] around the battlefield.
 - **Tactician:** A strategist and protector who inspires allies to be more effective.
 
 ## Adventure Formatting
 
 Sometimes when the adventure text introduces a new scene or adventure area, the formatting looks like this:
 
-### Area Details
+#### Area Details
 
 *Paragraphs in italics like this one are meant to be read aloud or paraphrased to players when their heroes first enter the area, provided the heroes have the means to sense their environment. These are important details that the heroes immediately notice.*
 
@@ -51,17 +51,15 @@ The captain isn’t being altogether truthful. The cargo hold, which is off limi
 
 Captain Oriel is walking a fine line. She cares for the safety of her passengers but needs the profits that smuggling black powder brings. Though she keeps the secret of her smuggling from the heroes for now, she’s hired them in the hopes that having the characters along to deal with any possible trouble during the voyage will let her achieve both objectives.
 
-### Tying to the Fall of Blackbottom
+#### Tying to the Fall of Blackbottom
 
-This adventure takes place before *The Fall of Blackbottom*, a combat-heavy adventure detailing the destruction of the city by the forces of Ajax the Invincible, the tyrant overlord of Vasloria. If you plan on playing that adventure after this one, *Bay of Blackbottom* provides a number of possible connections between the adventures.
+> This adventure takes place before *The Fall of Blackbottom*, a combat-heavy adventure detailing the destruction of the city by the forces of Ajax the Invincible, the tyrant overlord of Vasloria. If you plan on playing that adventure after this one, *Bay of Blackbottom* provides a number of possible connections between the adventures.
 
 ## Adventure Synopsis
 
 The heroes begin aboard the Revelation, a few days out from Blackbottom. As they cross the open sea, they can get to know the passengers, solve minor problems, and potentially uncover the smuggled goods.
 
 Just before the Revelation gets to Blackbottom harbor, pirates waylay the ship and the heroes must [[Defend|defend]] the passengers and cargo. During the fight, the Revelation sustains major damage. The heroes must work to stabilize the ship when it begins to sink, even as fires threaten to ignite the black powder with disastrous results.
-
-When the Revelation (or what remains of it) arrives in Blackbottom, members of the Hawklords who patrol the city question Captain Oriel and the heroes. The heroes can attempt to smooth things over for the captain in negotiations if they wish.
 
 When the Revelation (or what remains of it) arrives in Blackbottom, members of the Hawklords who patrol the city question Captain Oriel and the heroes. The heroes can attempt to smooth things over for the captain in negotiations if they wish.
 
@@ -104,7 +102,7 @@ Back on deck, Lorelei’s wife admonishes her for acting without thinking. Then 
 
 If the hero also recovered the ring, award the party an additional hero token.
 
-### SAVING PRIVATE STONEHEART
+#### SAVING PRIVATE STONEHEART
 
 Samuel, an elderly [[Human|human]] passenger, laments the disappearance of his precious Private Stoneheart, a pet bird with glorious golden feathers. Unable to pay the extra fee for traveling with a pet or animal companion, Samuel smuggled the bird aboard in his oversized coat, but the creature grew sick of hiding and flew off when Samuel unzipped his coat. Samuel begs the heroes to help find Private Stoneheart—and to be discreet. He promises on Stoneheart’s return he’ll keep the rascal buttoned up in his coat for the duration of the trip.
 
@@ -118,11 +116,11 @@ A hero who can playfully catch the bird’s attention (for example, through song
 
 If the bird got the attention of any passenger, that passenger reports the disturbance, with word quickly reaching Captain Oriel. Because Samuel doesn’t have enough coin to pay the pet fee, she leads him to the deck, hands him a rag, and tells him to get swabbing. Samuel’s sentence lasts one day for each disturbance his bird caused. Even at 1st level, any of the heroes has access to enough wealth to pay the fee for Samuel if they wish to. This way, he won’t have to stay buttoned up to the throat for the rest of the voyage.
 
-### HINTS OF HOLD
+#### HINTS OF HOLD
 
-You can let Private Stoneheart lead the heroes toward the cargo hold (see What’s in the Hold? below) so they can observe that the entryway is watched by two guards. The guards care little for the nonsense of this vignette as long as the heroes (and the bird!) don’t try to enter the hold.
+> You can let Private Stoneheart lead the heroes toward the cargo hold (see What’s in the Hold? below) so they can observe that the entryway is watched by two guards. The guards care little for the nonsense of this vignette as long as the heroes (and the bird!) don’t try to enter the hold.
 
-### COMET WATCH PARTY
+#### COMET WATCH PARTY
 
 Percival, a wealthy and entitled passenger, has alerted Captain Oriel to the impending arrival of Aelian’s Comet, a heavenly body that has not graced the skies of Vasloria in over two hundred years. Percival insists that the crew prepare a feast in celebration of this momentous occasion this very night. The crew members hadn’t planned on such a meal, and have neither the time nor the supplies to prepare it.
 
@@ -138,11 +136,11 @@ If half or more heroes succeed on this test, Percival comes to them at the end o
 
 Another passenger frowns. *“Textiles? The captain herself told me it was spices.”*
 
-### REASONING OUT OF REASON
+#### REASONING OUT OF REASON
 
-If a player wants to use a different characteristic for this test, such as Agility to cook many meals at once, or Intuition to recall a family recipe, you can let them roll with that instead if you like! As the Director, it’s up to you.
+> If a player wants to use a different characteristic for this test, such as Agility to cook many meals at once, or Intuition to recall a family recipe, you can let them roll with that instead if you like! As the Director, it’s up to you.
 
-### WHAT’S IN THE HOLD?
+#### WHAT’S IN THE HOLD?
 
 The heroes might wish to investigate the cargo hold if they become aware that it’s under guard or hear conflicting stories about what the Revelation is carrying. If you need more hooks to feed the players’ curiosity, try the following:
 
@@ -175,23 +173,23 @@ By the time the heroes reach the deck, the threat is clear:
 
 _Another ship sails dangerously close to the Revelation, its crew gleefully loading ballistae with flaming bolts. Three such bolts already stick into the hull above the waterline, wooden planks beginning to smolder. The other ship’s black sails billow violently in the rough wind. These are pirates, and they’re here to raise hell._
 
-_Two gangplanks are lowered between the ships, a ragtag group of raiders sprinting across to terrorize [[Frightened|frightened]] passengers attempting to flee the deck._
+_Two gangplanks are lowered between the ships, a ragtag group of [[Raider|raiders]] sprinting across to terrorize [[Frightened|frightened]] passengers attempting to flee the deck._
 
 Use the Pirate Attack Map for this encounter.
 
-Three groups of [[Human|human]] pirates have crossed the gangplanks by the time the characters arrive on the scene: a scoundrel captain and two guards, a brawler captain and two raiders, and three archers. The pirates want the passengers’ valuables, not their lives, but they’re not above using [[Human|human]] shields or gravely wounding innocents if the heroes take them on.
+Three groups of [[Human|human]] pirates have crossed the gangplanks by the time the characters arrive on the scene: a scoundrel captain and two guards, a brawler captain and two [[Raider|raiders]], and three archers. The pirates want the passengers’ valuables, not their lives, but they’re not above using [[Human|human]] shields or gravely wounding innocents if the heroes take them on.
 
 Both of the heavy wooden gangplanks can be lifted and shoved off the ship’s rail with a medium Might test, letting it tumble into the sea and preventing more pirates from crossing over on it (see Villain Power below). Each gangplank also has Stamina 10 and fire weakness 5 if attacked or caught in a damaging area effect. If a gangplank is pushed away from the ship or destroyed, any creature standing on it falls into the sea, 3 squares below deck level.
 
 Four civilians remain on the deck at the start of the fight, each a noncombatant with Stamina 10.
 
-### TACTICS
+#### TACTICS
 
-The brawler attempts to [[Grab|grab]] the nearest noncombatant as a shield, leaving nearby heroes to deal with the raiders. The scoundrel and their guards select the nearest hero and focus attacks on them, attempting to pick characters off one by one. The archers make ranged attacks from the back ranks, doing their best to stay out of melee.
+The brawler attempts to [[Grab|grab]] the nearest noncombatant as a shield, leaving nearby heroes to deal with the [[Raider|raiders]]. The scoundrel and their guards select the nearest hero and focus attacks on them, attempting to pick characters off one by one. The archers make ranged attacks from the back ranks, doing their best to stay out of melee.
 
-At the start of each round, if at least one gangplank is still up, a group of two raiders appears at the far end of a gangplank and prepares to board on their turn.
+At the start of each round, if at least one gangplank is still up, a group of two [[Raider|raiders]] appears at the far end of a gangplank and prepares to board on their turn.
 
-### VILLAIN POWER
+#### VILLAIN POWER
 
 In addition to the Villain Power granted to these villains by their stat blocks, you can spend VP in the following ways at the beginning of any enemy’s turn:
 
@@ -208,7 +206,7 @@ In addition to the Villain Power granted to these villains by their stat blocks,
   - ★ 12–16: 4 damage; 2 fire damage
   - ✦ 17+: 3 damage; 1 fire damage
 
-### VICTORIES
+#### VICTORIES
 
 Each hero gains 1 Victory for subduing the pirates, plus 1 additional Victory if at least three of the civilians on deck at the start of the fight survive.
 
@@ -222,7 +220,7 @@ _“Trouble below, Cap’n!” comes a shout. “She’s taking on water—and t
 
 Tell the players that to stop the ship from exploding, they must complete a montage test that has a success limit of 6 and a failure limit of 3. The full explanation for a montage test is found in the MCDM RPG rules.
 
-### MONTAGE TEST CHALLENGES
+#### MONTAGE TEST CHALLENGES
 
 Use the following narration to set the scene. The list after the narration summarizes the challenges of the montage test and offers a few ideas for activities during the test—though you’re free to come up with your own!
 
@@ -239,23 +237,23 @@ Any of the following challenges can be used as part of the montage test:
 - **Panicked Crew:** Disorganized crew members can be calmed, directed to action, or inspired to help.
 - **Passengers:** Passengers can be evacuated, calmed, or persuaded to help.
 
-### MONTAGE TEST OUTCOMES
+#### MONTAGE TEST OUTCOMES
 
 If the heroes achieve 6 successes before 3 failures, they achieve total success in the montage test. If time runs out and the heroes have achieved at least two more successes than failures, they achieve a partial success. If the heroes hit the failure limit, or if time runs out and they don’t have at least two more successes than failures, they suffer total failure.
 
-#### TOTAL SUCCESS
+##### TOTAL SUCCESS
 
 If the heroes earn a total success, they stabilize the ship. Read or paraphrase the following:
 
 _Everyone helps in the effort to save the ship, from the captain, to all able passengers, to Private Stoneheart! With quick thinking and quicker hands, you repair the worst of the damage and prevent the dangerous cargo in the hold from exploding. When all is done, the Revelation isn’t completely shipshape, but she’ll get you safely to port._
 
-#### PARTIAL SUCCESS
+##### PARTIAL SUCCESS
 
 If the heroes earn a partial success, they stabilize the ship, but many crew and passengers are injured. Fighting the fire is exhausting work, and each hero takes a bane on their next power roll.
 
-_Water flooding the cargo hold stops the fire even as you get the leaks repaired, but renders much of the black powder useless. The ship won’t blow, but it isn’t moving very quickly either. A fortunate breeze allows the Revelation to creep ever closer to port. Some members of the crew send lifeboats out ahead with passengers, but Captain Oriel remains with her ship until it crawls up to the docks._
+_Water flooding the cargo hold stops the fire even as you get the leaks repaired, but renders much of the black powder useless. The ship won’t blow, but it isn’t moving very quickly either. A fortunate breeze allows the Revelation to creep ever closer to port. Some members of the crew send lifeboats out ahead with passengers, but Captain Oriel remains with her ship until it [[Crawl|crawls]] up to the docks._
 
-#### TOTAL FAILURE
+##### TOTAL FAILURE
 
 If the heroes earn a total failure, Captain Oriel realizes they can’t stop the runaway fires. She orders everyone off the ship, with many passengers injured in the attack or the evacuation. Each hero emerges from the ordeal exhausted, and loses two recoveries.
 
@@ -265,7 +263,7 @@ Allow the heroes to narrate how they get into Oriel’s boat, then read:
 
 _Behind you, the ship goes up, exploding as the black powder burns. You’re close enough to feel the heat on your skin. Next to you, Captain Oriel sighs._
 
-### VICTORIES
+#### VICTORIES
 
 Each hero earns 1 Victory if the characters achieve a total or partial success on the montage test.
 
@@ -279,7 +277,7 @@ If the heroes have any questions, feel free to have Oriel share any of the detai
 
 Oriel offers the heroes a Knife of Nine as an apology and thanks (see Treasure below). The knife is a relic she found at sea a long time ago, and it has saved her life on many occasions. She believes it will save even more lives in the hands of the heroes.
 
-### ACT 3: FINISH LINE
+## ACT 3: FINISH LINE
 
 The Revelation (or the flotilla of lifeboats that hold her crew and passengers) pulls into Blackbottom harbor, but the heroes aren’t yet in the clear.
 
@@ -292,9 +290,9 @@ Even as the heroes and Captain Oriel step onto the docks alongside the ship’s 
 
 Coriad and Tyria both caught sight of the Revelation’s misfortune while on patrol above the city, though they were unable to reach the ship during the pirate attack. After ensuring that everyone is safe, they demand an explanation.
 
-*Two humans riding giant hawks fitted with saddles and bridles descend to the docks as you arrive. Concern is etched on their faces as they see the damaged ship. “Is everyone safe? We can help with the wounded. And what happened here?” These are Hawklords, the elite guards of Ajax the Invincible, and agents of the Overlord’s authority.*
+*Two [[Human|humans]] riding giant hawks fitted with saddles and bridles descend to the docks as you arrive. Concern is etched on their faces as they see the damaged ship. “Is everyone safe? We can help with the wounded. And what happened here?” These are Hawklords, the elite guards of Ajax the Invincible, and agents of the Overlord’s authority.*
 
-### INITIAL QUESTIONING
+#### INITIAL QUESTIONING
 
 The heroes can intervene on Captain Oriel’s behalf with a hard Presence test:
 
@@ -304,9 +302,9 @@ The heroes can intervene on Captain Oriel’s behalf with a hard Presence test:
 
 If the heroes don’t intervene, treat the outcome as the tier 1 result on the test. The threat of arrest may move the heroes to more drastic action, but it also means it’ll take more than a few nice words to persuade the Hawklords to look the other way. See *“Negotiation for Captain Oriel”* below.
 
-### WHAT IF THE POWDER’S GONE?
+#### WHAT IF THE POWDER’S GONE?
 
-If the heroes totally failed to save the Revelation, there’s no ship to search! Or perhaps they opted to throw all the black powder overboard to prevent an explosion. In either case, the Hawklords still have a reason for arresting Oriel. If the ship went up in flames, it’s obvious to the Hawklords that black powder was on board. If the powder was dumped, they witnessed that from the air and detain Oriel while they retrieve one of the crates from the sea to confirm what it holds.
+> If the heroes totally failed to save the Revelation, there’s no ship to search! Or perhaps they opted to throw all the black powder overboard to prevent an explosion. In either case, the Hawklords still have a reason for arresting Oriel. If the ship went up in flames, it’s obvious to the Hawklords that black powder was on board. If the powder was dumped, they witnessed that from the air and detain Oriel while they retrieve one of the crates from the sea to confirm what it holds.
 
 ### NEGOTIATION FOR CAPTAIN ORIEL
 
@@ -339,13 +337,13 @@ Negotiation with the Hawklords can have the following outcomes:
 - **Interest 1:** The Hawklords arrest Oriel.
 - **Interest 0:** The Hawklords attempt to arrest Oriel and the heroes, whom they now see as accomplices, triggering a combat encounter.
 
-### BATTLE?
+#### BATTLE?
 
 If the heroes threaten the Hawklords at any stage of this encounter, combat ensues. Coriad and Tyria each call a squad of four [[Human|human]] guards to assist in the arrest, and serve as their group’s captain. The Hawklords avoid lethal force against the characters, wanting only to arrest them.
 
 The Hawklords fight until they are both winded, until one of them dies, or until one of their hawks dies. If forced to flee, they vow to return with reinforcements. The heroes had better get out of there quickly!
 
-### VICTORIES
+##### VICTORIES
 
 Each of the heroes earns 1 Victory if this encounter ends with Oriel walking free.
 
@@ -355,7 +353,7 @@ After several days at sea, the heroes need a place to unwind and plot their next
 
 You can continue the characters’ adventures in *The Fall of Blackbottom*, or can take their story in your own direction!
 
-### TREASURE
+## TREASURE
 
 The heroes can earn the following treasure during the adventure.
 

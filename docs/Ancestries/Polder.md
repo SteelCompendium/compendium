@@ -8,9 +8,9 @@ type: ancestries
 
 “Wait, where'd he go? Where'd that little son of a bitch go? AAAAGGH!”
 
-After humans, polders are the most numerous and diverse ancestry in Orden. They are not humans, but they live in and among humans, sharing their gods and culture. Almost every [[Human|human]] culture in Orden has a polder saint or a [[Human|human]] saint venerated by polder.
+After [[Human|humans]], polders are the most numerous and diverse ancestry in Orden. They are not [[Human|humans]], but they live in and among [[Human|humans]], sharing their gods and culture. Almost every [[Human|human]] culture in Orden has a polder saint or a [[Human|human]] saint venerated by polder.
 
-Short creatures averaging three-and-a-half feet tall, polders have obscure origins. They are a young species who, like humans, have no single patron god. Their natural ability to blend in with shadows makes them excellent spies and thieves. However, many polders consider this stereotype a base slander, pointing out that they're also famed as chefs—though polders can be found in virtually every profession, especially in cities.
+Short creatures averaging three-and-a-half feet tall, polders have obscure origins. They are a young species who, like [[Human|humans]], have no single patron god. Their natural ability to blend in with shadows makes them excellent spies and thieves. However, many polders consider this stereotype a base slander, pointing out that they're also famed as chefs—though polders can be found in virtually every profession, especially in cities.
 
 ## On Polders
 
@@ -52,7 +52,7 @@ The polder put his drink down. “Oh, thank you. Thank you very much. You know, 
 
 Jago, Sarah, and Beth all smiled at the exchange.
 
-“Humans are loud, yes,” Embers agreed.
+“[[Human|Humans]] are loud, yes,” Embers agreed.
 
 “Do we have to … can we talk about something else, please?”
 

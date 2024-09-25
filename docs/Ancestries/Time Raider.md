@@ -6,17 +6,17 @@ type: ancestries
 
 # Time Raider
 
-“I fear no living thing, but the time raiders.”
+“I fear no living thing, but the time [[Raider|raiders]].”
 
 —Chief Executive Admiral Lithiri Aswandala
 
 Commander of the HOV First Get Behind Them [[Memonek]]
 
-The original servitor species of the synliiroi—evil psions with near god-like power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym “time raiders” was given to them by denizens of the lower worlds who, seeing the advanced technology they wield, concluded they must be from the future.
+The original servitor species of the synliiroi—evil psions with near god-like power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym “time [[Raider|raiders]]” was given to them by denizens of the lower worlds who, seeing the advanced technology they wield, concluded they must be from the future.
 
-Extraordinarily rare in Orden, the time raiders thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
+Extraordinarily rare in Orden, the time [[Raider|raiders]] thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
 
-In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. Time raiders also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
+In place of eyes, kuran'zoi possess crystalline ocular sensors that grant them high-spectral vision hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. Time [[Raider|raiders]] also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran'zoi is like a squad unto themself.
 
 ## On Time Raiders
 
@@ -50,7 +50,7 @@ Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head
 
 “No!” Taxiarch Lycaon pointed a finger at the hawklord and strode toward her. “You are the elite of Ajax's winged harriers, I am his chosen brigade commander. We are not scavengers! This one,” he stabbed a gloved finger at the alien, “will come to heel, or I will give her to my war dogs.” He turned to face the chained alien, who yawned. Lycaon seethed.
 
-“They may pull you apart,” he said to her, and at this, his squadron of soldiers, all in black leather and golden pauldrons, started making barking sounds. Then they laughed at each other.
+“They may pull you apart,” he said to her, and at this, his squadron of [[Soldier|soldiers]], all in black leather and golden pauldrons, started making barking sounds. Then they laughed at each other.
 
 “Or I may let my crucibite melt the skin from your bones.”
 
@@ -74,7 +74,7 @@ There was something about the war dogs. They loved Ajax's cruelty—reveled in i
 
 Not the war dogs—they were fanatics.
 
-“What's this?” the Taxiarch called out with a hungry grin. “Allies of the alien?” He was projecting confidence. Trying to muster his wary soldiers.
+“What's this?” the Taxiarch called out with a hungry grin. “Allies of the alien?” He was projecting confidence. Trying to muster his wary [[Soldier|soldiers]].
 
 Sir John ignored the war dog, tilted his head toward the alien. “Embers?”
 

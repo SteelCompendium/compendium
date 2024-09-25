@@ -10,7 +10,7 @@ See you the wood so dark and deep, Where runs the fox and hare? You know now why
 
 See you the river clear and sweet So beautiful and fair? Follow it in and you may meet The Queen of Dark and Air.
 
-Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among humans for snatching children who wander too far into the woods. Humans should fear the trees.
+Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among [[Human|humans]] for snatching children who wander too far into the woods. [[Human|Humans]] should fear the trees.
 
 The wode elves' natural ability to mask their presence, called glamor, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few wode elves who dwell in cities naturally adept at urban warfare.
 
@@ -88,7 +88,7 @@ Llyander turned and marched off. “Come!” they called. The children ran to ca
 
 The elf stopped suddenly and spun toward them, serious but kindly. They pointed to each of the children in turn.
 
-“I will instruct you on the proper etiquette, but remember this: Lord Tear will test us. Some tests for you and some for me. The high elves and the wode elves are but distant cousins. You will hear much that is polite, much that is flattering, but it is all another kind of glamor. It hides deep tensions, recently exacerbated by the treaty with Ajax.”
+“I will instruct you on the proper etiquette, but remember this: Lord Tear will test us. Some tests for you and some for me. The high elves and the wode elves are but distant cousins. You will hear much that is polite, much that is flattering, but it is all another kind of glamor. It [[Hide|hides]] deep tensions, recently exacerbated by the treaty with Ajax.”
 
 The children nodded. The elf, satisfied, marched off and they followed.
 

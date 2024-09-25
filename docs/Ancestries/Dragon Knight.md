@@ -24,7 +24,7 @@ The cloaked figure at the back of the inn stood up. As they did so, their hood s
 
 A tall, broad draconian stepped into the light. He was old, his scales battle-scarred. He rested one clawed hand on the pommel of a mace that hung from a loop on his belt, while the other carried his shield by a strap. His flat, expressionless look was more terrifying than any threatening glower.
 
-The three [[Human|human]] bandits took a step back. One of the dwarves just sneered—then, sensing his [[Human|human]] compatriot's reluctance, turned to look at them. “What's this?” the lead [[Dwarf|dwarf]] growled.
+The three [[Human|human]] bandits took a step back. One of the [[Dwarf|dwarves]] just sneered—then, sensing his [[Human|human]] compatriot's reluctance, turned to look at them. “What's this?” the lead [[Dwarf|dwarf]] growled.
 
 “Don't be cowards now!” the other [[Dwarf|dwarf]] said, a hint of joy in his voice. “Look what a prize we have caught!”
 
@@ -34,11 +34,11 @@ Looking at the dragon knight, the other bandit added quickly, “We didn't know 
 
 The draconian didn't move. Didn't give any indication he heard the man. Just stared unblinking at the lead [[Dwarf|dwarf]].
 
-“Think of the bounty,” the [[Dwarf|dwarf]] hissed to the humans, but he kept his eye on the draconian. “We'll all be rich.”
+“Think of the bounty,” the [[Dwarf|dwarf]] hissed to the [[Human|humans]], but he kept his eye on the draconian. “We'll all be rich.”
 
 “I don't…” One of the bandits dropped her sword and held her hands up as she backed away from the group toward the exit. “I don't need it that bad,” she said. Then she turned and ran out the door. Her [[Human|human]] compatriots followed.
 
-The two dwarves surveyed the tavern. The people were now all facing them. A few had stood up. They weren't afraid anymore.
+The two [[Dwarf|dwarves]] surveyed the tavern. The people were now all facing them. A few had stood up. They weren't afraid anymore.
 
 “We'll be back,” the lead [[Dwarf|dwarf]] said, and the two of them backed out of the inn, sheathing their shortswords before they turned and left.
 

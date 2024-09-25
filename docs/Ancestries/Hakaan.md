@@ -18,7 +18,7 @@ This doomsight can happen at any moment. It does not come for all or even most h
 
 For this reason, the only hakaan the average [[Human|human]] meets is one trying to fulfill their doom. The [[Human|human]] superstition—that the arrival of one or more hakaan in [[Human|human]] lands is a sign of great forces acting in the world, auspicious times—is literally true. In dark times, many hakaan experience the doomsight and leave their communities to venture out into the mundane world, in search of their destiny.
 
-Humans in Vanigar have their own word for this concept of a personal fate, “wyrd.” Traditional hakaan sometimes refer to the doomsight as wyrdken.
+[[Human|Humans]] in Vanigar have their own word for this concept of a personal fate, “wyrd.” Traditional hakaan sometimes refer to the doomsight as wyrdken.
 
 ## On Hakaan
 
@@ -44,7 +44,7 @@ The Arrow had seen it, and enthusiastically agreed.
 
 “You're not from the Barrow Hills,” he said.
 
-The Pillar shook her head. “No, I do not wot of your hills. I am from the hills north of the Blue Cloud Mountains in far Vanigar.” She turned and looked down at the Arrow with some pride. “My people are descended from the original Haka'an tribe.” She went back to work. “Though I am sure the Barrow Men, as you call them, are a fine people. We're all related, you see.”
+The Pillar shook her head. “No, I do not wot of your hills. I am from the hills north of the Blue Cloud [[Mountain|Mountains]] in far Vanigar.” She turned and looked down at the Arrow with some pride. “My people are descended from the original Haka'an tribe.” She went back to work. “Though I am sure the Barrow Men, as you call them, are a fine people. We're all related, you see.”
 
 “Is that why you joined the Society?”
 

@@ -8,7 +8,7 @@ type: ancestries
 
 “Ajax has a kind of crude style, perhaps, but no taste. I have no objection to a villain, you understand. The world is a tale, but a tale is only as good as its villain. And Ajax is so … artless. We deserve a better villain.”
 
-Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, the high elves remember a better age, before the coming of humans and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
+Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, the high elves remember a better age, before the coming of [[Human|humans]] and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
 
 In the millennia since their creators retired to Arcadia, the high elves built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshiping art, and turning more inward and distrusting of outsiders with each generation.
 
@@ -18,7 +18,7 @@ In the millennia since their creators retired to Arcadia, the high elves built a
 
 “It's not that hard,” Dade said darkly.
 
-The five children stood alone in the center of a large circular courtyard open to the sky, their wode elf escort Llyander at their side. Lord Tear, King of the High Elves, sat on a marble throne, holding the scroll of the Codex Dryadalis in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned sages, gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter. They bristled with weapons.
+The five children stood alone in the center of a large circular courtyard open to the sky, their wode elf escort Llyander at their side. Lord Tear, King of the High Elves, sat on a marble throne, holding the scroll of the Codex Dryadalis in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned [[Sage|sages]], gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter. They bristled with weapons.
 
 “They seem like …” Meliora said, searching for the words.
 
@@ -30,15 +30,15 @@ The five children stood alone in the center of a large circular courtyard open t
 
 “Yes,” Jeremy said, looking at the nearest guards with their longspears and swords. “We feel very safe.”
 
-“Who are you kidding?” Dade said. “Everyone knows how much elves hate humans.”
+“Who are you kidding?” Dade said. “Everyone knows how much elves hate [[Human|humans]].”
 
 At this, Lord Tear exchanged a look with Llyander, consort to Queen Imyrr. It was a knowing look, full of sadness and melancholy. Then he broke his silence.
 
-“Show me an elf who hates humans,” he said, his voice deep and sonorous, “and I will show you an elf who loved a [[Human|human]] and watched them grow old and die.” He looked at the children for the first time and smiled a melancholy smile. “Love is like sunlight for us, you see. We love completely but rarely. The loss of it means an eternity of grief for us.”
+“Show me an elf who hates [[Human|humans]],” he said, his voice deep and sonorous, “and I will show you an elf who loved a [[Human|human]] and watched them grow old and die.” He looked at the children for the first time and smiled a melancholy smile. “Love is like sunlight for us, you see. We love completely but rarely. The loss of it means an eternity of grief for us.”
 
 The king tapped the scroll against his lap, seeming to have reached a decision.
 
-“Well done, consort. Young humans, your escort here seeks to shame me. For they know well they could have taken this prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they deliver me the power necessary to throw off the yoke of Ajax's rule. Long has Llyander resented the decision I made and sought to change it …” He looked at Llyander. “… by changing my mind.”
+“Well done, consort. Young [[Human|humans]], your escort here seeks to shame me. For they know well they could have taken this prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they deliver me the power necessary to throw off the yoke of Ajax's rule. Long has Llyander resented the decision I made and sought to change it …” He looked at Llyander. “… by changing my mind.”
 
 Llyander nodded deferentially, silently congratulating the king on his insight.
 
@@ -64,9 +64,9 @@ Llyander chuckled. Wenna noticed. She didn't say anything at first, but eventual
 
 Llyander raised an eyebrow, then walked in front of the children so that as the wode elf spoke, their back was to the king.
 
-“Do you remember when my cousin's soldiers hid in the wode?” they said, their voice low. “How astonished you were?”
+“Do you remember when my cousin's [[Soldier|soldiers]] hid in the wode?” they said, their voice low. “How astonished you were?”
 
-Wenna and Meliora nodded. Llyander nodded to the guards and guests. “This is their glamor. Whatever you find pleasant and attractive in another? That is what you see in them. If you value good humor, they are jesters. If you value beauty, they are breathtaking. If you find intelligence attractive, they are sages. It is not just an effect of appearance, though it is also that. It is one of demeanor.”
+Wenna and Meliora nodded. Llyander nodded to the guards and guests. “This is their glamor. Whatever you find pleasant and attractive in another? That is what you see in them. If you value good humor, they are jesters. If you value beauty, they are breathtaking. If you find intelligence attractive, they are [[Sage|sages]]. It is not just an effect of appearance, though it is also that. It is one of demeanor.”
 
 “But how do they do …” Meliora started.
 

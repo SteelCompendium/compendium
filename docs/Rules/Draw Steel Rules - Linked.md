@@ -58,7 +58,7 @@ So that’s one component of the heroic keyword. But another component, equally 
 
 For instance, you never see Indiana Jones having to find a local sporting goods store because he needs to stock up on ammo. You never see Katniss Everdeen have to stop and take a shower because she stinks.
 
-These things do happen. No one watching *Raiders of the Lost Ark* thinks that Indy’s gun is magical and doesn’t need bullets—but we just don’t need to see Indy doing that stuff. We don’t need to waste time on it.
+These things do happen. No one watching *[[Raider|Raiders]] of the Lost Ark* thinks that Indy’s gun is magical and doesn’t need bullets—but we just don’t need to see Indy doing that stuff. We don’t need to waste time on it.
 
 ### CINEMATIC
 
@@ -72,7 +72,7 @@ You should imagine your tactician character leading the battle, granting your al
 
 Just … you know … it’s got dragons and stuff. :D
 
-It’s worth mentioning—while everyone basically already knows what fantasy means in this context, we do imagine it a little more broadly than your average classical medieval fantasy. We like that stuff! Vasloria is our medieval European fantasy analog with knights on horseback and wizards in towers. But we also like high fantasy urban intrigue, and so we’re developing Capital, the City of the Great Game, the Greatest City In This or Any Age. Vasloria is mostly humans and elves and orcs and dwarves, but Capital has dozens, hundreds of different ancestries in it.
+It’s worth mentioning—while everyone basically already knows what fantasy means in this context, we do imagine it a little more broadly than your average classical medieval fantasy. We like that stuff! Vasloria is our medieval European fantasy analog with knights on horseback and wizards in towers. But we also like high fantasy urban intrigue, and so we’re developing Capital, the City of the Great Game, the Greatest City In This or Any Age. Vasloria is mostly [[Human|humans]] and elves and [[Orc|orcs]] and [[Dwarf|dwarves]], but Capital has dozens, hundreds of different ancestries in it.
 
 Looking back at movies like Star Wars and the work of artists like Chris Foss, that ’70s stuff now seems explicitly fantastical. There’s nothing scientific or even plausible about a lightsaber or a John Berkey spaceship. But damn, they look cool!
 
@@ -134,7 +134,7 @@ At some point, a player will have their hero attempt a task that has a risk of f
 
 **Grace**: Yeah. Should have warned you.
 
-**Director**: The whole tower starts to sway as the sarcophagus lids slide to the floor and clawed undead hands emerge from within. Six decaying devils, each tattooed with glowing green runes, rise. They’re eager for violence.
+**Director**: The whole tower starts to sway as the sarcophagus lids slide to the floor and clawed undead hands emerge from within. Six decaying [[Devil|devils]], each tattooed with glowing green runes, rise. They’re eager for violence.
 
 **James**: I think we found the Rotting Lords of Hell.
 
@@ -267,7 +267,7 @@ Players can also be awarded hero tokens as part of a test’s outcome when they 
 > You can award hero tokens to the players for taking risks with their heroes beyond what the game typically expects of them. For instance, battling a group of monsters is part of the game and doesn’t earn a hero token. However, the following sorts of activities might:
 > 
 > - A hero stands alone against a group of enemies to allow their comrades to escape.
-> - A hero willingly jumps into quicksand, into lava, off a cliff, or into some other hazard to save another character.
+> - A hero willingly [[Jump|jumps]] into quicksand, into lava, off a cliff, or into some other hazard to save another character.
 > - The group is presented with an easy way out of a difficult situation that involves lying, cheating, stealing, or the like, but they take the more arduous and honorable path.
 > - A hero gives away an important resource, such as a Healing Potion, to help another creature in need.
 
@@ -283,7 +283,7 @@ There are times when the rules tell you to divide a number in half. Whenever you
 
 ### CREATURES AND OBJECTS
 
-This game uses the terms “creature” and “object.” Creatures are living or unliving beings such as animals, elves, humans, dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings. Creatures always have stat blocks that relay their statistics, but objects do not.
+This game uses the terms “creature” and “object.” Creatures are living or unliving beings such as animals, elves, [[Human|humans]], dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings. Creatures always have stat blocks that relay their statistics, but objects do not.
 
 When a creature dies, their body becomes an object, and can be affected by abilities and other effects that target objects. For example, a talent can’t use their Telekinesis power to slide an unwilling enemy cult leader into an evil temple’s pit of hellfire. But if that boss dies, the talent can slide their body into the pit to prevent the boss from being raised as a powerful undead by the temple’s magic.
 
@@ -379,7 +379,7 @@ The standard eightish hours of sleep one gets at night doesn’t count as a resp
 
 A new game demands new worlds! Welcome to the timescape—a collection of worlds spanning high fantasy, dark fantasy, and even space fantasy! We sincerely hope you take these rules and adapt them to your own world, or adapt your world to these rules, or something in between!
 
-Our tour begins on the world of Orden, the Prime Manifold—a realm of elves, dwarves, humans, orcs, dragons, and more. But [[Human|human]] civilization and politics dominate here, especially in the great city of Capital, a hotbed of urban fantasy intrigue.
+Our tour begins on the world of Orden, the Prime Manifold—a realm of elves, [[Dwarf|dwarves]], [[Human|humans]], [[Orc|orcs]], dragons, and more. But [[Human|human]] civilization and politics dominate here, especially in the great city of Capital, a hotbed of urban fantasy intrigue.
 
 Orden contains seven major regions, the largest of which is Vasloria.
 
@@ -389,13 +389,13 @@ A forested medieval and feudal land, Vasloria holds few cities—just towns and 
 
 When Omund was betrayed by Mandrake, a captain of the Dragon Phalanx, his castle fell to Ajax the Invincible—now called the Overlord and the Iron Saint. Ajax’s wizard Mortum unlocked the secret of the ancient flying cities of the sky elves to raise the Chrysopolis, Ajax’s city-fortress in the sky.
 
-Ajax abolished all faiths and temples in Vasloria. He executed the dukes who served King Omund loyally, leaving only the three surviving baronies of Dalrath, Bedegar, and Tor to hold [[Human|human]] civilization together. Once, the people of all the lands of Vasloria were loose allies. There was trade between humans, elves, dwarves, and orcs.
+Ajax abolished all faiths and temples in Vasloria. He executed the dukes who served King Omund loyally, leaving only the three surviving baronies of Dalrath, Bedegar, and Tor to hold [[Human|human]] civilization together. Once, the people of all the lands of Vasloria were loose allies. There was trade between [[Human|humans]], elves, [[Dwarf|dwarves]], and [[Orc|orcs]].
 
 Now there is only suspicion.
 
 The high elves of the Fallen City, once the sky elf city of Irranys, pay tribute to Ajax with ancient artifacts they plunder from their ruined home. The wode elves of the Orchid Court, lacking any centralized government or cities, refuse to bow to the Iron Saint.
 
-The dwarves of Kal Kalavar pay tribute in prisoners they abduct from among those foolish enough to travel the roads unescorted—prisoners who serve Ajax as forced labor or are fed into the Body Banks. Brooding under the mountains in their fabled Hanging City of Kal Kalavar, the stone dwarves do not like this deal with the Overlord, but they lack the power—or perhaps the will—to rebel.
+The [[Dwarf|dwarves]] of Kal Kalavar pay tribute in prisoners they abduct from among those foolish enough to travel the roads unescorted—prisoners who serve Ajax as forced labor or are fed into the Body Banks. Brooding under the [[Mountain|mountains]] in their fabled Hanging City of Kal Kalavar, the stone [[Dwarf|dwarves]] do not like this deal with the Overlord, but they lack the power—or perhaps the will—to rebel.
 
 The Hawklords of the High Aerie now act as Ajax’s royal guard. Mounted on their giant hawks, these [[Human|human]] warriors project Ajax’s power, enforce his tyrannical order, and extend his influence into every corner of the wilderness. Their mastery of the air means that any revolt or rebellion is seen and crushed quickly.
 
@@ -439,11 +439,11 @@ Orden is only one world in the timescape! Each star in the night sky is another 
 
 The lower worlds lack the energy necessary for such extraordinary technology to function, and so rely on magic to break the rules.
 
-On Axiom, the Plane of Uttermost Law, the [[Memonek|memonek]] live on a world teeming with complex, inorganic life. UNISOL, the Universal Solar League, ensures and protects trade across the upper worlds, defending the star freighters from pirates such as the time raiders and the infamous Sunrunners on their legendary ship the K.R.A.D Fearless.
+On Axiom, the Plane of Uttermost Law, the [[Memonek|memonek]] live on a world teeming with complex, inorganic life. UNISOL, the Universal Solar League, ensures and protects trade across the upper worlds, defending the star freighters from pirates such as the [[Time Raider|time raiders]] and the infamous Sunrunners on their legendary ship the K.R.A.D Fearless.
 
 Meanwhile, on Proteus, the Sea of Eternal Change, the formless proteans rebelled against the synlirii who once ruled the plane of uttermost chaos, exiling the voiceless talkers to the World Below. Now the masters of their world, the proteans take to the stars in their living change-ships, hurling their small fleet against what they perceive as the tyrannical might of UNISOL.
 
-On Quintessence, the lowest of the upper worlds, proteans and [[Memonek|memonek]] alike rub shoulders with devils, fire dwarves, and even humans in Quintessence’s capital city of Alloy, the City at the Center of the Timescape. The Free City of Alloy, also known as the City of Brass, is the gateway to the timescape. People traveling to or from the upper and lower worlds meet here to trade goods and information, free from the inflexible laws of UNISOL.
+On Quintessence, the lowest of the upper worlds, proteans and [[Memonek|memonek]] alike rub shoulders with [[Devil|devils]], fire [[Dwarf|dwarves]], and even [[Human|humans]] in Quintessence’s capital city of Alloy, the City at the Center of the Timescape. The Free City of Alloy, also known as the City of Brass, is the gateway to the timescape. People traveling to or from the upper and lower worlds meet here to trade goods and information, free from the inflexible laws of UNISOL.
 
 Traveling downward from Quintessence, one arrives on Orden, the Plane of Gods and Sorcery, highest of the lower worlds where magic rules. The gods, forbidden from interfering directly in a world with such a low energy state, rely on saints to enact their will. The technology from the upper worlds does not function down here, unless powered by a strong psionic mind, or the miracle mineral prismacore.
 
@@ -451,7 +451,7 @@ Almost coterminous with Orden is its sister-plane, the World Below, and the Dark
 
 The power of the World Below wanes, even as the power of Equinox rises. Also known as Dusk, this smaller parasitic manifold is home to the exiled shadow elves and ruled by the Queen of Shadows, third of the Three Sisters Below. She plots to return her people to their homeland in Orden, and to escape the twisted shadow world.
 
-The last plane of law, the Seven Cities of Hell, is among the lowest of the lower planes. A realm of devils proud of their civilization, the Seven Cities are each ruled by an archduke who schemes to ascend to the Throne of Hell. Living in a world of bureaucratic law, the [[Devil|devil]] denizens of Hell have little interest in the other planes. Life is so much more interesting down here. The seven dukes of Hell conspired together once, agreeing to create the Order of Desolation, also known as the illriggers. Doing so was meant to extend their power into the timescape, and to [[Defend|defend]] the Seven Cities from the demon hordes below.
+The last plane of law, the Seven Cities of Hell, is among the lowest of the lower planes. A realm of [[Devil|devils]] proud of their civilization, the Seven Cities are each ruled by an archduke who schemes to ascend to the Throne of Hell. Living in a world of bureaucratic law, the [[Devil|devil]] denizens of Hell have little interest in the other planes. Life is so much more interesting down here. The seven dukes of Hell conspired together once, agreeing to create the Order of Desolation, also known as the illriggers. Doing so was meant to extend their power into the timescape, and to [[Defend|defend]] the Seven Cities from the demon hordes below.
 
 The demons of the Abyssal Waste, the lowest plane, claw and scramble over each other, competing for souls in this heat-blasted desert under a baleful, giant orange sun. Mindless collections of organs, claws, and teeth, demons collect souls until they reach sentience, gaining identity and the blessing of memory. These demons will do anything to escape upward out of the wasteland, lest they lose their collected souls, lose their identities, and fall into that mindless state called lethe.
 
@@ -461,7 +461,7 @@ At the center of the Abyssal Waste lies the Necropolitan Ruin, the Last City. A 
 
 > We use the timescape and its medieval fantasy land Orden as the default setting presented in these books. Doing so makes it easier for us as designers to marry our design with real examples from a real (imaginary) fantasy world. We also think it’s easier for you to take the names for places, languages, and gods, and replace them with your own. We might reference some hero or villain, saint or god, whose name makes you think, “Well, I don’t have that in my setting.” If we do a good job, though, you might be inspired to say, “But that makes me think …” And being inspired is part of the fun!
 > 
-> If you’re the Director, you can use as many or as few of the details of the timescape as you like. You might wish to create your own world within the timescape, or use a setting you’ve created that exists outside of the official MCDM manifolds. You can use details from settings published by other companies. There are no rules when it comes to world-building. Feel free to take what you like from this book and change the rest. For example, you might not care for our dwarves having literal stone skin. That’s fine. You can make them fleshy, stout, bearded folk, or mohawked, barrel-chested punk rockers, or anything else you wish. As long as you’re running a heroic fantasy campaign about fighting monsters, then the game’s rules are still likely to serve your narrative even if that narrative deviates from ours.
+> If you’re the Director, you can use as many or as few of the details of the timescape as you like. You might wish to create your own world within the timescape, or use a setting you’ve created that exists outside of the official MCDM manifolds. You can use details from settings published by other companies. There are no rules when it comes to world-building. Feel free to take what you like from this book and change the rest. For example, you might not care for our [[Dwarf|dwarves]] having literal stone skin. That’s fine. You can make them fleshy, stout, bearded folk, or mohawked, barrel-chested punk rockers, or anything else you wish. As long as you’re running a heroic fantasy campaign about fighting monsters, then the game’s rules are still likely to serve your narrative even if that narrative deviates from ours.
 > 
 > If you’re a player, ask your Director about the setting where the game takes place and discuss with them the sort of hero you want to create. Maybe you want to play a more traditional gruff and bearded [[Dwarf|dwarf]] rather than go all short and stony. An open dialogue and honest discussion with your Director can lead to everyone getting what they want out of the game.
 
@@ -531,7 +531,7 @@ Choose your hero’s kit. Your kit provides you with equipment and a fighting st
 
 #### 7. ADD FREE STRIKES
 
-Every hero has the ability to make free strikes under certain circumstances—extra attacks that don’t require your action. (You can also make a [[Free Strike|free strike]] as an action on your turn, though you’ll usually have better options for your action.) Your class might grant you [[Free Strike|free strike]] options, but each character also has two standard free strikes.
+Every hero has the ability to make [[Free Strike|free strikes]] under certain circumstances—extra attacks that don’t require your action. (You can also make a [[Free Strike|free strike]] as an action on your turn, though you’ll usually have better options for your action.) Your class might grant you [[Free Strike|free strike]] options, but each character also has two standard [[Free Strike|free strikes]].
 
 A melee weapon [[Free Strike|free strike]] is a melee attack made with an unarmed strike or improvised weapon. A ranged weapon [[Free Strike|free strike]] is a ranged attack made with an improvised weapon.
 
@@ -561,7 +561,7 @@ A melee weapon [[Free Strike|free strike]] is a melee attack made with an unarme
 - 12–16: 5 damage
 - 17+: 8 damage
 
-See *Free Strikes* for more information on using free strikes, and see *Abilities* for information on the ability format.
+See *[[Free Strike|Free Strikes]]* for more information on using [[Free Strike|free strikes]], and see *Abilities* for information on the ability format.
 
 #### 8. COMPLICATION
 
@@ -652,19 +652,19 @@ Some games don’t track XP or goals at all. The heroes simply gain a level when
 
 ## ANCESTRIES
 
-Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are devils, dwarves, elves, time raiders—even humans with their ability to sense the supernatural.
+Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are [[Devil|devils]], [[Dwarf|dwarves]], elves, [[Time Raider|time raiders]]—even [[Human|humans]] with their ability to sense the supernatural.
 
 Your hero is one of these folks! The fantastic ancestry you choose bestows benefits that come from your anatomy and physiology. This choice doesn’t grant you cultural benefits, like crafting or lore skills. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a cosmopolitan mix of peoples.
 
-Ancestry describes how you were born. Culture (in the next chapter) describes how you grew up. If you want to be a wode elf who was raised in a forest among other wode elves, you can do that! If you want to play a wode elf who was raised in an underground city of dwarves, humans, and orcs, you can do that too!
+Ancestry describes how you were born. Culture (in the next chapter) describes how you grew up. If you want to be a wode elf who was raised in a forest among other wode elves, you can do that! If you want to play a wode elf who was raised in an underground city of [[Dwarf|dwarves]], [[Human|humans]], and [[Orc|orcs]], you can do that too!
 
 ### ON THE ORIGIN OF SPECIES
 
 Orden is a fantasy world. It works on principles similar to those many people throughout history believed governed the real world. "I dunno, a god did it probably."
 
-Humans, elves, orcs, dwarves, dragons—all have creator gods—the elder gods, four of whom made the world for some reason. Maybe they were bored.
+[[Human|Humans]], elves, [[Orc|orcs]], [[Dwarf|dwarves]], dragons—all have creator gods—the elder gods, four of whom made the world for some reason. Maybe they were bored.
 
-The fashion among those gods for creating new, intelligent species petered after the orcs. Once humans came along and invented war, it stopped being fun.
+The fashion among those gods for creating new, intelligent species petered after the [[Orc|orcs]]. Once [[Human|humans]] came along and invented war, it stopped being fun.
 
 It may be all species were created by gods. That’s certainly what a lot of people throughout our own history assumed. Orden has no Darwin and probably won’t ever. There’s still inheritance. People expect children to look like their parents, but there aren’t evolutionary pressures except on a very local scale.
 
@@ -672,13 +672,13 @@ And in a world where powerful, world-altering magics are available, mortals some
 
 However, mortals are not gods and lack their ineffable wisdom. They are, in fact, very effable. Many have sought the power to create. It is available to any sorcerer of near-godlike power with the right rituals, though these days that power is very obscure. Creating new intelligent species was easier for mortal wizards back in the youth of the world when magic was friskier.
 
-In every instance in recorded history, attempts by mortals to make obedient servitor species backfire. The steel dwarves worked marvels with valiar, the truemetal, and the miracle mineral prismacore that grants objects a semblance of life. Eventually, their science and magics produced the omnivok, machines that were self-aware. Perhaps uniquely, when the dwarves realized they had created beings equal to themselves, they stopped their work and gave their creation full rights and independence, preferring to work with them rather than attempt, and inevitably fail, to be their masters.
+In every instance in recorded history, attempts by mortals to make obedient servitor species backfire. The steel [[Dwarf|dwarves]] worked marvels with valiar, the truemetal, and the miracle mineral prismacore that grants objects a semblance of life. Eventually, their science and magics produced the omnivok, machines that were self-aware. Perhaps uniquely, when the [[Dwarf|dwarves]] realized they had created beings equal to themselves, they stopped their work and gave their creation full rights and independence, preferring to work with them rather than attempt, and inevitably fail, to be their masters.
 
-Normally, it doesn’t work out that nicely. Even with the best of intentions, things go awry. The Dragon Phalanx were created by Good King Omund’s wizard Vitae to be the perfect knights, dispensing justice throughout the lands. But the same sorceries that grant self-awareness also grant independence. Agency. And though they enjoyed thirty years of peace and justice, eventually the dragon knights were betrayed by one of their own, seduced by the power offered by Ajax.
+Normally, it doesn’t work out that nicely. Even with the best of intentions, things go awry. The Dragon Phalanx were created by Good King Omund’s wizard Vitae to be the perfect knights, dispensing justice throughout the lands. But the same sorceries that grant self-awareness also grant independence. Agency. And though they enjoyed thirty years of peace and justice, eventually the [[Dragon Knight|dragon knights]] were betrayed by one of their own, seduced by the power offered by Ajax.
 
 The law of unintended consequences applies to the just and the unjust alike.
 
-Usually when some powerful being tries to create an intelligent people, it’s for less than virtuous reasons. The synliroi are responsible for several intelligent species in the timescape, each an attempt to create a perfectly obedient servitor species. The most notorious example are the kuran’zoi, the time raiders who rebelled almost immediately and carry a burning hate for the voiceless talkers to this day.
+Usually when some powerful being tries to create an intelligent people, it’s for less than virtuous reasons. The synliroi are responsible for several intelligent species in the timescape, each an attempt to create a perfectly obedient servitor species. The most notorious example are the kuran’zoi, the [[Time Raider|time raiders]] who rebelled almost immediately and carry a burning hate for the voiceless talkers to this day.
 
 A perhaps less egregious use of this power is called quickening. Used when a powerful mage lives in and amongst some clever species just on the cusp of self-awareness. These instances, which are much more numerous than creating a new species from whole cloth, are more like the concept of uplifting found in science fiction. The mage or witch or shaman didn’t create anything. They just gave these cute, clever, frog-things a little boost. A little nudge. And suddenly there are angualotls walking around having conversations with each other, wondering when someone will invent a fabric that doesn’t get moldy in the swamp.
 
@@ -700,15 +700,15 @@ Where an ancestry provides you with an ability, see *Abilities* for details of t
 
 “You know, I have a rather interesting story about that…”
 
-The native ancestry of the Seven Cities of Hell, devils are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each [[Devil|devil]] is born with some hellmark—horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings.
+The native ancestry of the Seven Cities of Hell, [[Devil|devils]] are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each [[Devil|devil]] is born with some hellmark—horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings.
 
 Hell is dominated by the Seven Cities of Hell, each ruled by a different archdevil who constantly plots and schemes against the others in the hope of ascending to the Throne of Hell.
 
-Those devils who join “the trade,” as their civil service is called, spend their days in bureaucratic service, hoping or scheming for promotion. Devils looking for a quick path up the bureaucratic ladder sign up for the Exchange, whereby mortals in the mundane world who perform the right rituals can summon a [[Devil|devil]], who bargains with the supplicant on behalf of their archdevil. Archdevils can grant temporary worldly power in exchange for a supplicant’s soul, with the summoned [[Devil|devil]] acting as the broker.
+Those [[Devil|devils]] who join “the trade,” as their civil service is called, spend their days in bureaucratic service, hoping or scheming for promotion. [[Devil|Devils]] looking for a quick path up the bureaucratic ladder sign up for the Exchange, whereby mortals in the mundane world who perform the right rituals can summon a [[Devil|devil]], who bargains with the supplicant on behalf of their archdevil. Archdevils can grant temporary worldly power in exchange for a supplicant’s soul, with the summoned [[Devil|devil]] acting as the broker.
 
-On rare occasions, the summoning goes wrong and the supplicant dies before the deal can be struck, stranding the summoned [[Devil|devil]] on Orden permanently. Some stranded devils seek to return to Hell, but most prefer life in Orden, where the phrase “stabbed in the back by a colleague” is usually a metaphor.
+On rare occasions, the summoning goes wrong and the supplicant dies before the deal can be struck, stranding the summoned [[Devil|devil]] on Orden permanently. Some stranded [[Devil|devils]] seek to return to Hell, but most prefer life in Orden, where the phrase “stabbed in the back by a colleague” is usually a metaphor.
 
-The majority of devils in Orden are not from, nor have ever been to, the Seven Cities. They are descendants of devils who were stranded in the mundane world decades, centuries, even millennia ago.
+The majority of [[Devil|devils]] in Orden are not from, nor have ever been to, the Seven Cities. They are descendants of [[Devil|devils]] who were stranded in the mundane world decades, centuries, even millennia ago.
 
 #### ON DEVILS
 
@@ -849,15 +849,15 @@ When you create a [[Devil|devil]] character, you have 3 fiend points, which you 
 
 ### DRAGON KNIGHT
 
-“I thought the dragon knights would save us, but even they couldn’t stop Ajax. Now the roads aren’t safe. People are taken from their homes without cause or warning, never to return. I don’t know what’s going to happen now, except everyone’s afraid all the time.”
+“I thought the [[Dragon Knight|dragon knights]] would save us, but even they couldn’t stop Ajax. Now the roads aren’t safe. People are taken from their homes without cause or warning, never to return. I don’t know what’s going to happen now, except everyone’s afraid all the time.”
 
 “I think things are going to get a lot worse before they get better.”
 
-The **Ritual of Dracogenesis** that grants the power to create a generation of dragon knights—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khorshir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
+The **Ritual of Dracogenesis** that grants the power to create a generation of [[Dragon Knight|dragon knights]]—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khorshir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
 
 The largest extant population of draconians is the remnants of the Dragon Phalanx in Vasloria. Created by Good King Omund’s wizard Vitae, the Dragon Phalanx once numbered several thousand of the king’s greatest knights, ensuring the rule of law across the land.
 
-Knighthood was a title carried by every member of that first generation of dragon knights. Within the Dragon Phalanx were shadows, censors, tacticians, and elementalists. Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over thirty years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could never have imagined any other way of life.
+Knighthood was a title carried by every member of that first generation of [[Dragon Knight|dragon knights]]. Within the Dragon Phalanx were shadows, censors, tacticians, and elementalists. Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over thirty years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could never have imagined any other way of life.
 
 Then Ajax came.
 
@@ -867,7 +867,7 @@ The cloaked figure at the back of the inn stood up. As they did so, their hood s
 
 A tall, broad draconian stepped into the light. He was old, his scales battle-scarred. He rested one clawed hand on the pommel of a mace that hung from a loop on his belt, while the other carried his shield by a strap. His flat, expressionless look was more terrifying than any threatening glower.
 
-The three [[Human|human]] bandits took a step back. One of the dwarves just sneered—then, sensing his [[Human|human]] compatriot’s reluctance, turned to look at them. “What’s this?” the lead [[Dwarf|dwarf]] growled.
+The three [[Human|human]] bandits took a step back. One of the [[Dwarf|dwarves]] just sneered—then, sensing his [[Human|human]] compatriot’s reluctance, turned to look at them. “What’s this?” the lead [[Dwarf|dwarf]] growled.
 
 “Don’t be cowards now!” the other [[Dwarf|dwarf]] said, a hint of joy in his voice. “Look what a prize we have caught!”
 
@@ -877,11 +877,11 @@ Looking at the [[Dragon Knight|dragon knight]], the other bandit added quickly, 
 
 The draconian didn’t move. Didn’t give any indication he heard the man. Just stared unblinking at the lead [[Dwarf|dwarf]].
 
-“Think of the bounty,” the [[Dwarf|dwarf]] hissed to the humans, but he kept his eye on the draconian. “We’ll all be rich.”
+“Think of the bounty,” the [[Dwarf|dwarf]] hissed to the [[Human|humans]], but he kept his eye on the draconian. “We’ll all be rich.”
 
 “I don’t…” One of the bandits dropped her sword and held her hands up as she backed away from the group toward the exit. “I don’t need it that bad,” she said. Then she turned and ran out the door. Her [[Human|human]] compatriots followed.
 
-The two dwarves surveyed the tavern. The people were now all facing them. A few had stood up. They weren’t afraid anymore.
+The two [[Dwarf|dwarves]] surveyed the tavern. The people were now all facing them. A few had stood up. They weren’t afraid anymore.
 
 “We’ll be back,” the lead [[Dwarf|dwarf]] said, and the two of them backed out of the inn, sheathing their shortswords before they turned and left.
 
@@ -1004,37 +1004,37 @@ You let loose a mighty roar to repel your foes and shake their spirits.
 
 ### DWARF
 
-“Remember, we are dwarves. Our strength is the strength of the earth. The strength of the marble column that rises to the heavens. The strength of the granite foundation that reaches deep into the ground. But what is the value of strength if it is not used in service of justice?”
+“Remember, we are [[Dwarf|dwarves]]. Our strength is the strength of the earth. The strength of the marble column that rises to the heavens. The strength of the granite foundation that reaches deep into the ground. But what is the value of strength if it is not used in service of justice?”
 
-—Zarok the Lawgiver, Hero, Dwarves 232
+—Zarok the Lawgiver, Hero, [[Dwarf|Dwarves]] 232
 
-Possessed of a strength that belies their size, dwarves have flesh infused with stone—a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel dwarves.
+Possessed of a strength that belies their size, [[Dwarf|dwarves]] have flesh infused with stone—a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel [[Dwarf|dwarves]].
 
-Dwarves are the children of the elder god Ord, and a common phrase among dwarves is “Ord made the world”—their way of saying, “What will be, will be.” They take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many dwarves leave their homes to see the world and seek glory in Ord’s name.
+[[Dwarf|Dwarves]] are the children of the elder god Ord, and a common phrase among [[Dwarf|dwarves]] is “Ord made the world”—their way of saying, “What will be, will be.” They take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many [[Dwarf|dwarves]] leave their homes to see the world and seek glory in Ord’s name.
 
 #### ON DWARVES
 
-There’s nothing a team of dwarves can’t do! Five dwarves alone can easily kill a dragon. Ten dragons![^1] Why, Vorka the Fell-Handed alone slew five dragons at the Siege of Var Loska before succumbing to her wounds. One [[Dwarf|dwarf]]! Think what a small, dedicated party of dwarves could do!
+There’s nothing a team of [[Dwarf|dwarves]] can’t do! Five [[Dwarf|dwarves]] alone can easily kill a dragon. Ten dragons![^1] Why, Vorka the Fell-Handed alone slew five dragons at the Siege of Var Loska before succumbing to her wounds. One [[Dwarf|dwarf]]! Think what a small, dedicated party of [[Dwarf|dwarves]] could do!
 
-There aren’t many of the great dragons left, alas, so we must … I mean, dwarves must content themselves with fighting lesser evils. Necromancers, tyrants. Folks who cheat at dice.
+There aren’t many of the great dragons left, alas, so we must … I mean, [[Dwarf|dwarves]] must content themselves with fighting lesser evils. Necromancers, tyrants. Folks who cheat at dice.
 
-Dwarves take the long view. Well, so do elves, but elves seem more interested in preserving things. Dwarves want to make things! Improve the world! “The world is fine the way it is …” Shut up! No it’s not! The world is full of pain, misery, injustice. We cannot make a perfect world, but we can strive to improve the one we’ve got!
+[[Dwarf|Dwarves]] take the long view. Well, so do elves, but elves seem more interested in preserving things. [[Dwarf|Dwarves]] want to make things! Improve the world! “The world is fine the way it is …” Shut up! No it’s not! The world is full of pain, misery, injustice. We cannot make a perfect world, but we can strive to improve the one we’ve got!
 
-Anyway. Humans make too much of this so-called rivalry between dwarves and elves. Yes, it was an elf army that slew the last steel dwarves in the War Against Night, but that was tens of thousands of years ago. And anyway, those were the shadow elves, long banished to the World Below. And none now live who remember those days.
+Anyway. [[Human|Humans]] make too much of this so-called rivalry between [[Dwarf|dwarves]] and elves. Yes, it was an elf army that slew the last steel [[Dwarf|dwarves]] in the War Against Night, but that was tens of thousands of years ago. And anyway, those were the shadow elves, long banished to the World Below. And none now live who remember those days.
 
-The steel dwarves—the greatest of us—are dead now, and our cousins the fire dwarves left this world for Quintessence long ago. There they built Alloy, the City of Brass, the City at the Center of the Timescape. A marvel! Not so large as Capital, perhaps, but not so … fragrant either.
+The steel [[Dwarf|dwarves]]—the greatest of us—are dead now, and our cousins the fire [[Dwarf|dwarves]] left this world for Quintessence long ago. There they built Alloy, the City of Brass, the City at the Center of the Timescape. A marvel! Not so large as Capital, perhaps, but not so … fragrant either.
 
-It is left to us, the stone dwarves, the Last Children of Ord, to work stone, create great marvels with it. Our greatest days are not behind us! Who speaks thus?! Have we not been to the Hanging City of Kal Kalavar together? Will you ever forget that place? I will not should I live to be a thousand, and neither will you. And it was finished in my lifetime. Only three hundred years ago! It’s brand new!
+It is left to us, the stone [[Dwarf|dwarves]], the Last Children of Ord, to work stone, create great marvels with it. Our greatest days are not behind us! Who speaks thus?! Have we not been to the Hanging City of Kal Kalavar together? Will you ever forget that place? I will not should I live to be a thousand, and neither will you. And it was finished in my lifetime. Only three hundred years ago! It’s brand new!
 
 Elven rivalry. Pagh! Did we not name the most precious metal in the earth "valiar" after their god Val? Val is a noble god, a worthy patron of the elves. He seeks justice and glory in his own way, we deem. Were one to choose the path of the conduit, you could pick worse gods than Val to serve.
 
-It is the humans who make so much of rivalries between the ancestries. It was the humans who called us “dwarves.” We do not know the significance of this word in their tongue, but we accept it. Their speech is crude, true, but they are a young species after all. We must not judge them too harshly. “Elemental” would be a faithful translation of our word for ourselves into the Caelian tongue.
+It is the [[Human|humans]] who make so much of rivalries between the ancestries. It was the [[Human|humans]] who called us “[[Dwarf|dwarves]].” We do not know the significance of this word in their tongue, but we accept it. Their speech is crude, true, but they are a young species after all. We must not judge them too harshly. “Elemental” would be a faithful translation of our word for ourselves into the Caelian tongue.
 
-Ah, the record of dwarven achievement is long … too long to tell in so short a space. And it is not seemly to compare ourselves so. This entry spends many words on elves and men as though we were competitors, but who says it? Why should it be thus? Was it a [[Dwarf|dwarf]] who slew Baalorak the Griefbringer? No! It was the Crown of Nine Stars! That legendary company of heroes who counted three dwarves among their number, but also elves and orcs and humans. Like the great cosmopolitan city of Alloy, we are stronger together.
+Ah, the record of dwarven achievement is long … too long to tell in so short a space. And it is not seemly to compare ourselves so. This entry spends many words on elves and men as though we were competitors, but who says it? Why should it be thus? Was it a [[Dwarf|dwarf]] who slew Baalorak the Griefbringer? No! It was the Crown of Nine Stars! That legendary company of heroes who counted three [[Dwarf|dwarves]] among their number, but also elves and [[Orc|orcs]] and [[Human|humans]]. Like the great cosmopolitan city of Alloy, we are stronger together.
 
-Look you again at the Hanging City. Yes, your eyes well with tears from the magnificence of it, but see it clearly. Is it a dwarven city? Everyone calls it thus, but do you know how many humans live there? Thousands. And orcs. And elves! Of course! How else should it be?
+Look you again at the Hanging City. Yes, your eyes well with tears from the magnificence of it, but see it clearly. Is it a dwarven city? Everyone calls it thus, but do you know how many [[Human|humans]] live there? Thousands. And [[Orc|orcs]]. And elves! Of course! How else should it be?
 
-Some say the greatest ages of the world are behind us, but this is not so. Not so. While there is yet will in the world, there is greatness. You will see. The elves, the orcs. Humans and dwarves. All the speaking peoples have wonder in them yet. Our greatest days are ahead. Did not Ord make the world?
+Some say the greatest ages of the world are behind us, but this is not so. Not so. While there is yet will in the world, there is greatness. You will see. The elves, the [[Orc|orcs]]. [[Human|Humans]] and [[Dwarf|dwarves]]. All the speaking peoples have wonder in them yet. Our greatest days are ahead. Did not Ord make the world?
 
 None of us ask to come into this world, and apart from the [[Hakaan]], none of us know how we will leave it. But remember, you are a [[Dwarf|dwarf]]. You have it in you to work marvels. To change the world, be you a holy conduit of Valak-koth the Peacebringer, one of the talented Mind Masters of the White Gem, a beastheart of the Darkdivers seeking through the World Below for deep knowledge, or a master tactician of the Imperial War College in Capital. You will make a better world.
 
@@ -1054,7 +1054,7 @@ Your heavy stone body and connection to the earth makes it difficult for others 
 
 You can carve a magic rune onto your skin. The rune you carve determines the benefit you receive. You can change or remove this rune with 10 minutes of work while not engaged in combat.
 
-- **Detection:** Pick a specific type of creature, such as “goblins” or “humans” or an object, such as “magic swords” or “potions.” Your rune glows softly when you are within 20 squares of a chosen creature or object, regardless of line of effect. You can change the type of creature as a maneuver.
+- **Detection:** Pick a specific type of creature, such as “goblins” or “[[Human|humans]]” or an object, such as “magic swords” or “potions.” Your rune glows softly when you are within 20 squares of a chosen creature or object, regardless of line of effect. You can change the type of creature as a maneuver.
 - **Light:** Your skin sheds light for 10 squares. You can turn this on and off as a maneuver.
 - **Voice:** As a maneuver, you can communicate telepathically with another willing creature you have met before whose name you name, who can speak and understand a language you know, and is within 1 mile of you. You and the creature can respond to one another as if having a normal conversation. You can change the person you communicate with by changing the rune.
 
@@ -1074,7 +1074,7 @@ So beautiful and fair?
 Follow it in and you may meet
 The Queen of Dark and Air.
 
-Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among humans for snatching children who wander too far into the woods. Humans should fear the trees.
+Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among [[Human|humans]] for snatching children who wander too far into the woods. [[Human|Humans]] should fear the trees.
 
 The wode elves’ natural ability to mask their presence, called glamor, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few wode elves who dwell in cities naturally adept at urban warfare.
 
@@ -1152,7 +1152,7 @@ Llyander turned and marched off. “Come!” they called. The children ran to ca
 
 The elf stopped suddenly and spun toward them, serious but kindly. They pointed to each of the children in turn.
 
-“I will instruct you on the proper etiquette, but remember this: Lord Tear will test us. Some tests for you and some for me. The high elves and the wode elves are but distant cousins. You will hear much that is polite, much that is flattering, but it is all another kind of glamor. It hides deep tensions, recently exacerbated by the treaty with Ajax.”
+“I will instruct you on the proper etiquette, but remember this: Lord Tear will test us. Some tests for you and some for me. The high elves and the wode elves are but distant cousins. You will hear much that is polite, much that is flattering, but it is all another kind of glamor. It [[Hide|hides]] deep tensions, recently exacerbated by the treaty with Ajax.”
 
 The children nodded. The elf, satisfied, marched off and they followed.
 
@@ -1180,7 +1180,7 @@ You can magically alter your appearance to better blend in with your surrounding
 
 “Ajax has a kind of crude style, perhaps, but no taste. I have no objection to a villain, you understand. The world is a tale, but a tale is only as good as its villain. And Ajax is so … artless. We deserve a better villain.”
 
-Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, the high elves remember a better age, before the coming of humans and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
+Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, the high elves remember a better age, before the coming of [[Human|humans]] and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
 
 In the millennia since their creators retired to Arcadia, the high elves built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshiping art, and turning more inward and distrusting of outsiders with each generation.
 
@@ -1190,7 +1190,7 @@ In the millennia since their creators retired to Arcadia, the high elves built a
 
 “It’s not that hard,” Dade said darkly.
 
-The five children stood alone in the center of a large circular courtyard open to the sky, their wode elf escort Llyander at their side. Lord Tear, King of the High Elves, sat on a marble throne, holding the scroll of the Codex Dryadalis in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned sages, gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter. They bristled with weapons.
+The five children stood alone in the center of a large circular courtyard open to the sky, their wode elf escort Llyander at their side. Lord Tear, King of the High Elves, sat on a marble throne, holding the scroll of the Codex Dryadalis in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned [[Sage|sages]], gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter. They bristled with weapons.
 
 “They seem like …” Meliora said, searching for the words.
 
@@ -1202,15 +1202,15 @@ The five children stood alone in the center of a large circular courtyard open t
 
 “Yes,” Jeremy said, looking at the nearest guards with their longspears and swords. “We feel very safe.”
 
-“Who are you kidding?” Dade said. “Everyone knows how much elves hate humans.”
+“Who are you kidding?” Dade said. “Everyone knows how much elves hate [[Human|humans]].”
 
 At this, Lord Tear exchanged a look with Llyander, consort to Queen Imyrr. It was a knowing look, full of sadness and melancholy. Then he broke his silence.
 
-“Show me an elf who hates humans,” he said, his voice deep and sonorous, “and I will show you an elf who loved a [[Human|human]] and watched them grow old and die.” He looked at the children for the first time and smiled a melancholy smile. “Love is like sunlight for us, you see. We love completely but rarely. The loss of it means an eternity of grief for us.”
+“Show me an elf who hates [[Human|humans]],” he said, his voice deep and sonorous, “and I will show you an elf who loved a [[Human|human]] and watched them grow old and die.” He looked at the children for the first time and smiled a melancholy smile. “Love is like sunlight for us, you see. We love completely but rarely. The loss of it means an eternity of grief for us.”
 
 The king tapped the scroll against his lap, seeming to have reached a decision.
 
-“Well done, consort. Young humans, your escort here seeks to shame me. For they know well they could have taken this prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they deliver me the power necessary to throw off the yoke of Ajax’s rule. Long has Llyander resented the decision I made and sought to change it …” He looked at Llyander. “… by changing my mind.”
+“Well done, consort. Young [[Human|humans]], your escort here seeks to shame me. For they know well they could have taken this prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they deliver me the power necessary to throw off the yoke of Ajax’s rule. Long has Llyander resented the decision I made and sought to change it …” He looked at Llyander. “… by changing my mind.”
 
 Llyander nodded deferentially, silently congratulating the king on his insight.
 
@@ -1236,9 +1236,9 @@ Llyander chuckled. Wenna noticed. She didn’t say anything at first, but eventu
 
 Llyander raised an eyebrow, then walked in front of the children so that as the wode elf spoke, their back was to the king.
 
-“Do you remember when my cousin’s soldiers hid in the wode?” they said, their voice low. “How astonished you were?”
+“Do you remember when my cousin’s [[Soldier|soldiers]] hid in the wode?” they said, their voice low. “How astonished you were?”
 
-Wenna and Meliora nodded. Llyander nodded to the guards and guests. “This is their glamor. Whatever you find pleasant and attractive in another? That is what you see in them. If you value good humor, they are jesters. If you value beauty, they are breathtaking. If you find intelligence attractive, they are sages. It is not just an effect of appearance, though it is also that. It is one of demeanor.”
+Wenna and Meliora nodded. Llyander nodded to the guards and guests. “This is their glamor. Whatever you find pleasant and attractive in another? That is what you see in them. If you value good humor, they are jesters. If you value beauty, they are breathtaking. If you find intelligence attractive, they are [[Sage|sages]]. It is not just an effect of appearance, though it is also that. It is one of demeanor.”
 
 “But how do they do …” Meliora started.
 
@@ -1284,7 +1284,7 @@ This doomsight can happen at any moment. It does not come for all or even most [
 
 For this reason, the only [[Hakaan|hakaan]] the average [[Human|human]] meets is one trying to fulfill their doom. The [[Human|human]] superstition—that the arrival of one or more [[Hakaan|hakaan]] in [[Human|human]] lands is a sign of great forces acting in the world, auspicious times—is literally true. In dark times, many [[Hakaan|hakaan]] experience the doomsight and leave their communities to venture out into the mundane world, in search of their destiny.
 
-Humans in Vanigar have their own word for this concept of a personal fate, “wyrd.” Traditional [[Hakaan|hakaan]] sometimes refer to the doomsight as wyrdken.
+[[Human|Humans]] in Vanigar have their own word for this concept of a personal fate, “wyrd.” Traditional [[Hakaan|hakaan]] sometimes refer to the doomsight as wyrdken.
 
 #### ON HAKAAN
 
@@ -1310,7 +1310,7 @@ The Arrow had seen it, and enthusiastically agreed.
 
 “You’re not from the Barrow Hills,” he said.
 
-The Pillar shook her head. “No, I do not wot of your hills. I am from the hills north of the Blue Cloud Mountains in far Vanigar.” She turned and looked down at the Arrow with some pride. “My people are descended from the original Haka’an tribe.” She went back to work. “Though I am sure the Barrow Men, as you call them, are a fine people. We’re all related, you see.”
+The Pillar shook her head. “No, I do not wot of your hills. I am from the hills north of the Blue Cloud [[Mountain|Mountains]] in far Vanigar.” She turned and looked down at the Arrow with some pride. “My people are descended from the original Haka’an tribe.” She went back to work. “Though I am sure the Barrow Men, as you call them, are a fine people. We’re all related, you see.”
 
 “Is that why you joined the Society?”
 
@@ -1386,27 +1386,27 @@ You can’t be weakened. Additionally, when your Stamina equals the negative of 
 
 ### HUMAN
 
-“Humans,” the [[Dwarf|dwarf]] said with a combination of exasperation and awe. “Their only virtue seems to be believing in impossible things.”
+“[[Human|Humans]],” the [[Dwarf|dwarf]] said with a combination of exasperation and awe. “Their only virtue seems to be believing in impossible things.”
 
-“Humans belong to the world in a way the other speaking peoples do not. You can sense the presence of magic—that… oily smell in the air, as I’ve heard it described. And the presence of deathless causes the hairs on the back of your neck to [[Stand Up|stand up]]. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
+“[[Human|Humans]] belong to the world in a way the other speaking peoples do not. You can sense the presence of magic—that… oily smell in the air, as I’ve heard it described. And the presence of deathless causes the hairs on the back of your neck to [[Stand Up|stand up]]. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
 
-“No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin … the dwarves and the orcs as you say. What is it that sets humans apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason.”
+“No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin … the [[Dwarf|dwarves]] and the [[Orc|orcs]] as you say. What is it that sets [[Human|humans]] apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason.”
 
 #### ON HUMANS
 
 So, we arrive here at the end of your first semester of [[Human]] Culture. I hope to see you next year in the Caelian Empire course, and though it may be hard to believe now, I often see former students’ names in our textbooks years later. Perhaps that will be some of you.
 
-I will now answer the one question I am asked most often, and which I save answering until the last day of class: What do I think of humans?
+I will now answer the one question I am asked most often, and which I save answering until the last day of class: What do I think of [[Human|humans]]?
 
-I am a high elf, as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young humans, since the Caelian emperors founded this city. I was asked to join the faculty by the first chancellor. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
+I am a high elf, as you deem it in your tongue. A child of the solar celestials. And I have taught this class, mostly to young [[Human|humans]], since the Caelian emperors founded this city. I was asked to join the faculty by the first chancellor. I have seen generations of your people come through this classroom, and that alone would well qualify me to answer this question.
 
-What do I think of humans? Well, I will tell you.
+What do I think of [[Human|humans]]? Well, I will tell you.
 
 I was here, teaching this class during the fire of Enlightenment 373. The fire leveled this city. Can you imagine that? Can you imagine the heat, the death, destruction that such a thing causes?
 
 Six months after the Great Fire, your ancestors had rebuilt… everything. I have seen many miracles in my life. Witnessing that feat might be chief among them.
 
-Liches are almost always humans. Did you know that? I think I know why. Your lives are so short—almost as soon as you’re born, you’re thinking about dying, and you refuse to yield.
+Liches are almost always [[Human|humans]]. Did you know that? I think I know why. Your lives are so short—almost as soon as you’re born, you’re thinking about dying, and you refuse to yield.
 
 That refusal to yield to death… to death… is what drives you, I think. Drives you to leave the world better than you found it. Causes ruined people to rebuild great city.
 
@@ -1416,11 +1416,11 @@ Today, Ajax’s name is on everyone’s tongue, but I have seen many great evils
 
 I was alive, though not yet a professor, when Cthrion Uroniziir tried to reduce the timescape into one singular universe, wiping out reality as we know it. She was defeated, and we see her cage every day.
 
-Each of these great evils was defeated by a coalition. The armies and heroes of many speaking peoples. And all of them—all of them—were led… by humans. That’s a fact. That’s history. You can look it up.
+Each of these great evils was defeated by a coalition. The armies and heroes of many speaking peoples. And all of them—all of them—were led… by [[Human|humans]]. That’s a fact. That’s history. You can look it up.
 
 Is there some rare trait that makes you uniquely qualified to lead disparate peoples, bring them together to achieve great things? I think… there must be.
 
-Those great humans, your ancestors, did not focus on differences. They did not weigh different people and grade them based on arbitrary traits deemed virtues and flaws. That is what Ajax does. No, those humans focused on the future. On making a better world… for all of us. A world many of them knew they would not live to see. That is a sacrifice… I can scarcely imagine.
+Those great [[Human|humans]], your ancestors, did not focus on differences. They did not weigh different people and grade them based on arbitrary traits deemed virtues and flaws. That is what Ajax does. No, those [[Human|humans]] focused on the future. On making a better world… for all of us. A world many of them knew they would not live to see. That is a sacrifice… I can scarcely imagine.
 
 The people who stand against Ajax and tyrants like him will be just like you—normal people. Priests and scholars and merchants and farmers. Maybe even teachers.
 
@@ -1546,13 +1546,13 @@ When you or a creature adjacent to you makes a power roll, you can remove an edg
 
 “Even should an arrow pierce their heart, each kanin warrior has within them one last act of revenge.”
 
-An anger that cannot be hidden. A fury that drives them in battle. Orcs are famed throughout the world as consummate warriors—a reputation that the peace-loving orcs find distasteful.
+An anger that cannot be hidden. A fury that drives them in battle. [[Orc|Orcs]] are famed throughout the world as consummate warriors—a reputation that the peace-loving [[Orc|orcs]] find distasteful.
 
-The fifth of the speaking peoples, orcs arrived on Orden after humans and elves. They made their homes in the borderlands between those two cultures, preferring the natural forests and avoiding the elf-haunted wodes. For generations, this put them directly in the path of humans who cut down the trees and built roads and farms.
+The fifth of the speaking peoples, [[Orc|orcs]] arrived on Orden after [[Human|humans]] and elves. They made their homes in the borderlands between those two cultures, preferring the natural forests and avoiding the elf-haunted wodes. For generations, this put them directly in the path of [[Human|humans]] who cut down the trees and built roads and farms.
 
 Each [[Orc|orc]] has within them a fire that causes their veins to glow once blood is drawn. This anger propels them right to the edge of death. The dichotomy between their desire to be left alone and their zeal in battle is summarized in a dwarven proverb:
 
-“Be thankful orcs do not hold grudges.”
+“Be thankful [[Orc|orcs]] do not hold grudges.”
 
 #### ON ORCS
 
@@ -1640,9 +1640,9 @@ When a creature deals damage to you that leaves you dying, you can make a [[Free
 
 “Wait, where’d he go? Where’d that little son of a bitch go? AAAAGGH!”
 
-After humans, polders are the most numerous and diverse ancestry in Orden. They are not humans, but they live in and among humans, sharing their gods and culture. Almost every [[Human|human]] culture in Orden has a [[Polder|polder]] saint or a [[Human|human]] saint venerated by [[Polder|polder]].
+After [[Human|humans]], [[Polder|polders]] are the most numerous and diverse ancestry in Orden. They are not [[Human|humans]], but they live in and among [[Human|humans]], sharing their gods and culture. Almost every [[Human|human]] culture in Orden has a [[Polder|polder]] saint or a [[Human|human]] saint venerated by [[Polder|polder]].
 
-Short creatures averaging three-and-a-half feet tall, polders have obscure origins. They are a young species who, like humans, have no single patron god. Their natural ability to blend in with shadows makes them excellent spies and thieves. However, many polders consider this stereotype a base slander, pointing out that they’re also famed as chefs—though polders can be found in virtually every profession, especially in cities.
+Short creatures averaging three-and-a-half feet tall, [[Polder|polders]] have obscure origins. They are a young species who, like [[Human|humans]], have no single patron god. Their natural ability to blend in with shadows makes them excellent spies and thieves. However, many [[Polder|polders]] consider this stereotype a base slander, pointing out that they’re also famed as chefs—though [[Polder|polders]] can be found in virtually every profession, especially in cities.
 
 #### ON POLDERS
 
@@ -1684,11 +1684,11 @@ The [[Polder|polder]] put his drink down. “Oh, thank you. Thank you very much.
 
 Jago, Sarah, and Beth all smiled at the exchange.
 
-“Humans are loud, yes,” Embers agreed.
+“[[Human|Humans]] are loud, yes,” Embers agreed.
 
 “Do we have to … can we talk about something else, please?”
 
-“I just …” The [[Polder|polder]] wouldn’t let it go. “You seriously never … you never been to an inn? Cavall’s teeth, I can’t count how many inns and taverns I’ve been to run by polders, got polders in the kitchen or waiting tables. One of the only two things we’re good at, I think.”
+“I just …” The [[Polder|polder]] wouldn’t let it go. “You seriously never … you never been to an inn? Cavall’s teeth, I can’t count how many inns and taverns I’ve been to run by [[Polder|polders]], got [[Polder|polders]] in the kitchen or waiting tables. One of the only two things we’re good at, I think.”
 
 “Yeah?” John asked. “What’s the other one?”
 
@@ -1799,9 +1799,9 @@ The [[Revenant|revenant]] null flexed his arms and assumed a fighting pose. He s
 
 The dead [[Walk|walk]] among us. Some of them are happier about it than others.
 
-Unlike the necromantic rituals that produce wights and wraiths and zombies, revenants rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
+Unlike the necromantic rituals that produce wights and wraiths and zombies, [[Revenant|revenants]] rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
 
-These revenants are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or Capital, where lost souls gather to make a home.
+These [[Revenant|revenants]] are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or Capital, where lost souls gather to make a home.
 
 #### ON REVENANTS
 
@@ -1914,17 +1914,17 @@ Your supernatural gifts allow you to influence other undead. You gain an edge on
 
 ### TIME RAIDER
 
-“I fear no living thing, but the time raiders.”
+“I fear no living thing, but the [[Time Raider|time raiders]].”
 
 —Chief Executive Admiral Lithiri Aswandala
 
 Commander of the HOV First Get Behind Them [[Memonek]]
 
-The original servitor species of the synliiroi—evil psions with near god-like power—the kuran’zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym “time raiders” was given to them by denizens of the lower worlds who, seeing the advanced technology they wield, concluded they must be from the future.
+The original servitor species of the synliiroi—evil psions with near god-like power—the kuran’zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym “[[Time Raider|time raiders]]” was given to them by denizens of the lower worlds who, seeing the advanced technology they wield, concluded they must be from the future.
 
-Extraordinarily rare in Orden, the time raiders thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
+Extraordinarily rare in Orden, the [[Time Raider|time raiders]] thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
 
-In place of eyes, kuran’zoi possess crystalline ocular sensors that grant them high-spectral vision hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. Time raiders also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran’zoi is like a squad unto themself.
+In place of eyes, kuran’zoi possess crystalline ocular sensors that grant them high-spectral vision hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. [[Time Raider|Time raiders]] also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran’zoi is like a squad unto themself.
 
 #### ON TIME RAIDERS
 
@@ -1958,7 +1958,7 @@ Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head
 
 “No!” Taxiarch Lycaon pointed a finger at the hawklord and strode toward her. “You are the elite of Ajax’s winged harriers, I am his chosen brigade commander. We are not scavengers! This one,” he stabbed a gloved finger at the alien, “will come to heel, or I will give her to my war dogs.” He turned to face the chained alien, who yawned. Lycaon seethed.
 
-“They may pull you apart,” he said to her, and at this, his squadron of soldiers, all in black leather and golden pauldrons, started making barking sounds. Then they laughed at each other.
+“They may pull you apart,” he said to her, and at this, his squadron of [[Soldier|soldiers]], all in black leather and golden pauldrons, started making barking sounds. Then they laughed at each other.
 
 “Or I may let my crucibite melt the skin from your bones.”
 
@@ -1982,7 +1982,7 @@ There was something about the war dogs. They loved Ajax’s cruelty—reveled in
 
 Not the war dogs—they were fanatics.
 
-“What’s this?” the Taxiarch called out with a hungry grin. “Allies of the alien?” He was projecting confidence. Trying to muster his wary soldiers.
+“What’s this?” the Taxiarch called out with a hungry grin. “Allies of the alien?” He was projecting confidence. Trying to muster his wary [[Soldier|soldiers]].
 
 Sir John ignored the war dog, tilted his head toward the alien. “Embers?”
 
@@ -2054,7 +2054,7 @@ Directors can use the rules in this section to build cultures that players can c
 
 You can use the table for a campaign that takes place in Vasloria, or pillage from it liberally for a custom setting.
 
-In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in Vasloria, are mostly humans. The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily wode elves. However, you can always choose to be from one of these cultures and take a different ancestry. A [[Dwarf|dwarf]] raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a [[Dwarf|dwarf]] raised in the dwarven thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
+In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in Vasloria, are mostly [[Human|humans]]. The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily wode elves. However, you can always choose to be from one of these cultures and take a different ancestry. A [[Dwarf|dwarf]] raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a [[Dwarf|dwarf]] raised in the dwarven thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
 
 #### WHY BUILD A CULTURE?
 
@@ -2108,7 +2108,7 @@ An urban culture is always centered in a city. Such a culture might arise within
 
 ###### WILDERNESS
 
-A wilderness culture doesn’t attempt to tame the terrain in which its people live, whether desert, forest, swamp, tundra, ocean, or more exotic climes. Instead, the folk of such a culture thrive amid nature, taking their sustenance and shelter from the land itself. A wilderness culture might be a circle of druids protecting a great wode, a band of brigands hiding out in desert caves, or a camp of [[Orc|orc]] mercenaries who call the trackless mountains home. People in a wilderness culture learn how to use the land for all they need to live, typically crafting their own tools, clothing, and more.
+A wilderness culture doesn’t attempt to tame the terrain in which its people live, whether desert, forest, swamp, tundra, ocean, or more exotic climes. Instead, the folk of such a culture thrive amid nature, taking their sustenance and shelter from the land itself. A wilderness culture might be a circle of druids protecting a great wode, a band of brigands hiding out in desert caves, or a camp of [[Orc|orc]] mercenaries who call the trackless [[Mountain|mountains]] home. People in a wilderness culture learn how to use the land for all they need to live, typically crafting their own tools, clothing, and more.
 
 **Skill Options:** One skill from the crafting or exploration skill groups.
 
@@ -2122,7 +2122,7 @@ When you build a culture, select its organization aspect from the following opti
 
 In an anarchic culture, there are no rules and no one person leads the others. This might sound like complete chaos—people taking what they want when they want it—and some cultures that practice anarchy are. Other anarchic cultures are peaceful places where people mostly work for themselves, their friends, or their family, but rely on the whole group when times get tough.
 
-Many anarchic cultures come together when the need arises, but they leave day-to-day responsibilities up to the individual. If an informal leader appears, it’s because each member of the culture has decided to follow that person for a time, and the leader enjoys their power only as long as they keep everyone happy. A group of rangers who protect a vast forest, a gang of rebels fighting against a tyrannical despot leader, and a bandit group roving the wilds without a leader are all anarchic cultures.
+Many anarchic cultures come together when the need arises, but they leave day-to-day responsibilities up to the individual. If an informal leader appears, it’s because each member of the culture has decided to follow that person for a time, and the leader enjoys their power only as long as they keep everyone happy. A group of [[Ranger|rangers]] who protect a vast forest, a gang of rebels fighting against a tyrannical despot leader, and a bandit group roving the wilds without a leader are all anarchic cultures.
 
 Most anarchic cultures operate outside of settled lands, sticking to the wilds, city sewers, or other secret places. For even when such cultures are harmless, their members know that outsiders might try to impose rules upon them if they live in the same place. As such, many folks in anarchic cultures learn how to navigate the wilds and fend for themselves while avoiding the danger that other folks can represent.
 
@@ -2176,7 +2176,7 @@ People who labor for a living survive through cultivation, typically raising cro
 
 ##### MARTIAL
 
-Heroes who have a martial upbringing are raised by warriors. These might be the soldiers of an established army, a band of mercenaries, a guild of monster-slaying adventurers, or any other folk whose lives revolve around combat. Heroes with a martial upbringing are always ready for a fight—and they know how to finish that fight.
+Heroes who have a martial upbringing are raised by warriors. These might be the [[Soldier|soldiers]] of an established army, a band of mercenaries, a guild of monster-slaying adventurers, or any other folk whose lives revolve around combat. Heroes with a martial upbringing are always ready for a fight—and they know how to finish that fight.
 
 **Skill Options**: One of the Alertness, Blacksmithing, Climb, Endurance, Fletching, Intimidate, [[Jump]], Monsters, Ride, or Track skills.
 
@@ -2286,7 +2286,7 @@ You gain the following career benefits:
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Atonement**: The last [[Criminal|criminal]] job you pulled led to the death of someone or the destruction of something you love. In order to make up for the loss you caused, you left your [[Criminal|criminal]] ways behind and became a hero.                                                                                                                                                                                                |
 | 2   | **Friendly Priest**: You went to prison for your crimes and eventually escaped. An elderly priest took you in and shielded you from the law, convinced that your soul wasn’t corrupt. They never judged you for your past, speaking only of the future. Eventually, the priest died, imparting final words that inspired you to become a hero.                                                                          |
-| 3   | **Stand Against Tyranny**: When a tyrant rose to power in your homeland, they began cracking down on all criminals with deadly raids and public executions. The nature of the crime didn’t matter—pickpockets and beggars were made to kneel before the axe alongside murderers. After losing enough friends, you stood up and joined the resistance—not just against this tyrant, but against authoritarians anywhere. |
+| 3   | **Stand Against Tyranny**: When a tyrant rose to power in your homeland, they began cracking down on all [[Criminal|criminals]] with deadly raids and public executions. The nature of the crime didn’t matter—pickpockets and beggars were made to kneel before the axe alongside murderers. After losing enough friends, you stood up and joined the resistance—not just against this tyrant, but against authoritarians anywhere. |
 
 ### GLADIATOR
 
@@ -3684,7 +3684,7 @@ Your enemies will get out of your way—whether they want to or not.
 - 12–16: 5 damage; slide 3
 - 17+: 8 damage; slide 5
 
-**Effect:** When you force move the target, you can move into squares they leave. The target takes the damage from any free strikes you provoke with this movement.
+**Effect:** When you force move the target, you can move into squares they leave. The target takes the damage from any [[Free Strike|free strikes]] you provoke with this movement.
 
 ###### STAB ME SO I CAN PULL MYSELF CLOSER TO YOU (3 RAGE)
 
@@ -4803,7 +4803,7 @@ Each kit has an armor category that indicates the kind of protection you have wh
 
 - **None:** If a kit has no armor, you can wear whatever clothing you like! Robes, a fashionable tunic and pants, or just a loincloth—it’s totally up to you.
 - **Light Armor:** If a kit features light armor, you might wear padded cloth, leather armor, or even a chain shirt.
-- **Medium Armor:** If a kit has medium armor, you might wear layers of thick hides, a breastplate, or armor made of metal scales.
+- **Medium Armor:** If a kit has medium armor, you might wear layers of thick [[Hide|hides]], a breastplate, or armor made of metal scales.
 - **Heavy Armor:** If a kit has heavy armor, then you’re likely wearing metal from head to toe. Chain mail, ring mail, and suits of plate armor protect you better than any other mundane protection.
 - **Shield:** If a kit has a shield, then you wield a shield that can be any shape and made of any mundane material you like. The best shields have a sweet insignia on them, so start thinking about yours!
 
@@ -4853,7 +4853,7 @@ Whip weapons include the standard whip, but also include spiked chains, flails, 
 
 > Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren’t part of your kit count as improvised weapons for you. If you’re not using a kit with unarmed strikes, then your feet and fists are improvised weapons.
 > 
-> Improvised weapons can be used to make attacks with the Weapon keyword that you gain from your class, though not from your kit. They add no special bonuses from your kit to the attack. Many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged free strikes with improvised weapons.
+> Improvised weapons can be used to make attacks with the Weapon keyword that you gain from your class, though not from your kit. They add no special bonuses from your kit to the attack. Many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged [[Free Strike|free strikes]] with improvised weapons.
 
 #### KIT IMPLEMENT MATERIALS
 
@@ -4896,7 +4896,7 @@ If you find a piece of equipment you really want to use that isn’t part of you
 
 ### KIT BONUSES AND TRAITS
 
-Taking a martial kit can increase your Stamina, speed, and stability, as well as the damage, distance, and reach of your weapon abilities. Caster kits can increase your Stamina, speed, and stability, as well as the damage, distance, and area of your magical abilities. Kit bonuses are applied to free strikes.
+Taking a martial kit can increase your Stamina, speed, and stability, as well as the damage, distance, and reach of your weapon abilities. Caster kits can increase your Stamina, speed, and stability, as well as the damage, distance, and area of your magical abilities. Kit bonuses are applied to [[Free Strike|free strikes]].
 
 #### STAMINA BONUS
 
@@ -5923,7 +5923,7 @@ Your ancestors made a deal with an archdevil that has tied you to that fiend’s
 
 **Benefit**: Whenever you are present for a battle in which all the creatures on one side are not surprised, your side goes first on a result of 4 or greater on the d10 roll (see Determine Who Goes First in Combat Round).
 
-**Drawback**: The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiendish patron sends devils after you and those you care about.
+**Drawback**: The archdevil occasionally asks you to defeat enemies on their behalf. If you refuse, your fiendish patron sends [[Devil|devils]] after you and those you care about.
 
 #### ELEMENTAL ABSORPTION
 
@@ -6438,7 +6438,7 @@ At the start of a montage test, the Director should describe the scenario underl
 
 #### INDIVIDUAL TESTS IN MONTAGE TESTS
 
-The difficulty of each individual test in a montage test is set by the Director and can vary from test to test. For instance, if the heroes are preparing the defenses of a village threatened by a band of approaching raiders, the Director might decide that a character who wants to dig a trench around the village needs to make an easy Might test. Another hero wants to train the untested farmers of the village in the ways of war, and the Director decides this is a hard Reason test.
+The difficulty of each individual test in a montage test is set by the Director and can vary from test to test. For instance, if the heroes are preparing the defenses of a village threatened by a band of approaching [[Raider|raiders]], the Director might decide that a character who wants to dig a trench around the village needs to make an easy Might test. Another hero wants to train the untested farmers of the village in the ways of war, and the Director decides this is a hard Reason test.
 
 The same rules and guidelines that apply to all individual tests apply here. If a hero has a clever, out-of-the-box idea that the Director thinks should automatically succeed without rolling dice, it does. If the circumstances of the test should grant an edge or a bane, they do. Individual test outcomes shouldn’t halt the story.
 
@@ -6598,11 +6598,11 @@ If your hero knows a language, they can speak, read, write, and understand it.
 
 #### CAELIAN EMPIRE
 
-The Caelian Empire dominated five of the seven regions of Orden three thousand years ago. During the height of this most recent [[Human|human]] empire, all humans (including folks from Vanigar in the far north, but not folks from the islands of Ix) learned to speak the Caelian tongue. For many, especially the noble classes and the well-to-do, Caelian effectively replaced their native language.
+The Caelian Empire dominated five of the seven regions of Orden three thousand years ago. During the height of this most recent [[Human|human]] empire, all [[Human|humans]] (including folks from Vanigar in the far north, but not folks from the islands of Ix) learned to speak the Caelian tongue. For many, especially the noble classes and the well-to-do, Caelian effectively replaced their native language.
 
-Some thirteen hundred years after the fall of the Caelian Empire, the languages of the different regions of the empire are enjoying a resurgence. Still, the Caelian tongue is spoken by most humans in most regions to one extent or another.
+Some thirteen hundred years after the fall of the Caelian Empire, the languages of the different regions of the empire are enjoying a resurgence. Still, the Caelian tongue is spoken by most [[Human|humans]] in most regions to one extent or another.
 
-Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including dwarves, elves, orcs, lizardfolk, and goblins. If you speak more than one language in Orden, your second language is almost certainly Caelian. As a result, that language of empire is now colloquially referred to as “the common tongue”—the language that most folk of Orden have in common.
+Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including [[Dwarf|dwarves]], elves, [[Orc|orcs]], lizardfolk, and goblins. If you speak more than one language in Orden, your second language is almost certainly Caelian. As a result, that language of empire is now colloquially referred to as “the common tongue”—the language that most folk of Orden have in common.
 
 #### EXTANT SPOKEN LANGUAGES
 
@@ -6618,8 +6618,8 @@ Most languages have colloquial or casual names. For instance, many people in Ord
 | ----------------- | ------------------ | -------------------------------------------------------------------- |
 | Angulotls         | Filliaric          | Offshoot of Cyllinric                                                |
 | Demons            | Proto-Ctholl       |                                                                      |
-| Devils            | Anjal              | Language of contract law                                             |
-| Dwarves           | Zaliac             | Language of engineering                                              |
+| [[Devil|Devils]]            | Anjal              | Language of contract law                                             |
+| [[Dwarf|Dwarves]]           | Zaliac             | Language of engineering                                              |
 | Dragons           | Xakalliac          |                                                                      |
 | Dragons, elder    | The First Language | Language of magic                                                    |
 | Elves, wode       | Yllyric            | Language of druids                                                   |
@@ -6633,9 +6633,9 @@ Most languages have colloquial or casual names. For instance, many people in Ord
 | Lizardfolk        | Khamish            |                                                                      |
 | Ogres             | Kuric              |                                                                      |
 | Olothec           | Urollialic         |                                                                      |
-| Orcs              | Kalliak            | Offshoot of Zaliac                                                   |
+| [[Orc|Orcs]]              | Kalliak            | Offshoot of Zaliac                                                   |
 | Overminds         | Za’hariax          |                                                                      |
-| Time raiders      | Voll               |                                                                      |
+| [[Time Raider|Time raiders]]      | Voll               |                                                                      |
 | Trolls            | Variac             | Common language of the World Below                                   |
 | Voiceless talkers | Variac             |                                                                      |
 |                   | Mindspeech         | A symbolic language shared among native telepaths.                   |
@@ -6657,7 +6657,7 @@ Most languages have colloquial or casual names. For instance, many people in Ord
 
 ##### LANGUAGE USAGE
 
-**Hyrallic** is the primary language of the high elves in Orden. Although young for an elven language, Hyrallic is older than almost all other modern cultural languages, save those of the dwarves. As a result, while anyone who lives near or trades with a [[Human|human]] culture probably speaks at least a little Caelian, most nobles across all ancestries make sure their children or offspring speak Hyrallic. Caelian is new from many cultures’ point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
+**Hyrallic** is the primary language of the high elves in Orden. Although young for an elven language, Hyrallic is older than almost all other modern cultural languages, save those of the [[Dwarf|dwarves]]. As a result, while anyone who lives near or trades with a [[Human|human]] culture probably speaks at least a little Caelian, most nobles across all ancestries make sure their children or offspring speak Hyrallic. Caelian is new from many cultures’ point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
 
 **Yllyric** is the cultural language of wode elves, and also the common language among those who [[Defend|defend]] and protect the natural forests of Orden.
 
@@ -6673,7 +6673,7 @@ For an adventuring hero with an ambition to create great works or unlock deep lo
 
 Most of these ancient writings were written by people who expected other people to read it. The lore might have been kept secret by not sharing it with anyone outside the college or cult whose members originally wrote it, but the actual writing was not intended to be difficult to read or understand. It wasn’t written in code—just in a language that people stopped speaking long ago.
 
-Sages can reconstruct many of these languages by learning which modern languages descended from them, then comparing them to related languages from the same time period that might have survived. Translating such ancient languages has been extremely useful for the purposes of crafting and research.
+[[Sage|Sages]] can reconstruct many of these languages by learning which modern languages descended from them, then comparing them to related languages from the same time period that might have survived. Translating such ancient languages has been extremely useful for the purposes of crafting and research.
 
 ##### DEAD LANGUAGES TABLE
 
@@ -6733,7 +6733,7 @@ When you attract a new follower, you decide on their name and ancestry, and choo
 
 ##### ARTISAN
 
-Artisans are crafting experts who can contribute to your research and crafting projects (see Research and Crafting).
+[[Artisan|Artisans]] are crafting experts who can contribute to your research and crafting projects (see Research and Crafting).
 
 *(Playtest note: The Research and Crafting section is still to come.)*
 
@@ -6743,7 +6743,7 @@ When you recruit an [[Artisan|artisan]], choose four skills from the crafting sk
 
 ##### SAGE
 
-Sages are research experts who can contribute to your research and crafting projects. A [[Sage|sage]] can contribute one project roll per day to a project you choose while they remain at your stronghold, provided they have access to the necessary materials.
+[[Sage|Sages]] are research experts who can contribute to your research and crafting projects. A [[Sage|sage]] can contribute one project roll per day to a project you choose while they remain at your stronghold, provided they have access to the necessary materials.
 
 When you recruit a [[Sage|sage]], choose four skills from the lore skill group that they know. A [[Sage|sage]] has a Reason and Intuition score of 1, and a 0 in all other characteristics. They know Caelian and two other languages of your choice.
 
@@ -7096,7 +7096,7 @@ When combat begins, the Director should position miniatures or tokens on a gridd
 
 A creature’s size indicates how many squares they occupy during combat, which defines the creature’s space. If a creature’s size is 1, they occupy a space of 1 square. If a creature is larger than 1 square, their size equals the number of squares they take up in length, width, and height. For example, a horse has a size of 2, which means that during combat, they occupy a space that is 2 squares long, 2 squares wide, and 2 squares high. You could also think of that space as a cube that is 2 squares on all sides.
 
-If a creature is a size 1, their size value includes the letter T, S, M, or L, abbreviations of tiny, small, medium, and large respectively. Since the minimal amount of space a creature can take up during combat is 1, this letter indicates the difference between tiny pixies, small polders, medium humans, and large [[Hakaan|hakaan]], each of which occupy of a space 1 square in combat. These sizes in order from smallest to largest are 1T, 1S, 1M, and 1L.
+If a creature is a size 1, their size value includes the letter T, S, M, or L, abbreviations of tiny, small, medium, and large respectively. Since the minimal amount of space a creature can take up during combat is 1, this letter indicates the difference between tiny pixies, small [[Polder|polders]], medium [[Human|humans]], and large [[Hakaan|hakaan]], each of which occupy of a space 1 square in combat. These sizes in order from smallest to largest are 1T, 1S, 1M, and 1L.
 
 Objects can also have a size rating. If an object has an O (an abbreviation for oblong) next to its size, it indicates that the object’s size isn’t the number of squares the object occupies, but rather it's relative mass and weight to a creature of equivalent size. If an ability or feature allows you to interact with objects of a certain size that rule includes all objects of that size, oblong or otherwise.
 
@@ -7221,7 +7221,7 @@ A single move or other effect can never allow a creature to move more squares th
 
 #### SHIFTING
 
-Whenever you use your move action or when another effect allows you to move, you can instead shift to use up to half the maximum squares of movement the effect allows. Whenever you shift, creatures can’t make opportunity attacks against you during your movement (see Free Strikes).
+Whenever you use your move action or when another effect allows you to move, you can instead shift to use up to half the maximum squares of movement the effect allows. Whenever you shift, creatures can’t make opportunity attacks against you during your movement (see [[Free Strike|Free Strikes]]).
 
 Certain effects might also allow you to shift a specific number of squares, including many effects that let you shift up to your speed.
 
@@ -7290,7 +7290,7 @@ When you [[Teleport|teleport]], you move from one space to another space instant
 - The creature teleporting you must have line of effect from the space you leave and to your destination space.
 - Your destination space can’t be occupied by another creature or object.
 - You don’t spend your movement when you [[Teleport|teleport]]. Instead, the effect that lets you [[Teleport|teleport]] tells you how far you can [[Teleport|teleport]].
-- If you [[Teleport|teleport]] while [[Prone|prone]], you can be standing when you reach your destination space provided you are able to stand. If another creature teleports you, it is up to them if you remain [[Prone|prone]] or stand, provided you are able.
+- If you [[Teleport|teleport]] while [[Prone|prone]], you can be standing when you reach your destination space provided you are able to stand. If another creature [[Teleport|teleports]] you, it is up to them if you remain [[Prone|prone]] or stand, provided you are able.
 - If you [[Teleport|teleport]] while affected by the [[Grabbed|grabbed]] or [[Restrained|restrained]] conditions, those conditions end for you.
 
 #### DIFFICULT TERRAIN
@@ -7462,7 +7462,7 @@ If you are dying (see Dying and Death in Stamina), you can’t take the [[Catch 
 
 #### CHARGE
 
-When you take the [[Charge]] action, you move up to your speed in a straight line, then make a melee [[Free Strike|free strike]] (see Free Strikes) against a creature when you end your move. You can’t shift when you [[Charge|charge]].
+When you take the [[Charge]] action, you move up to your speed in a straight line, then make a melee [[Free Strike|free strike]] (see [[Free Strike|Free Strikes]]) against a creature when you end your move. You can’t shift when you [[Charge|charge]].
 
 #### DEFEND
 
@@ -7470,7 +7470,7 @@ When you take the [[Defend]] action, all attacks against you have a double bane 
 
 #### FREE STRIKE
 
-You can use this action to make a [[Free Strike|free strike]] (see Free Strikes). Most of the time, you’ll want to use the more impactful actions found on your character sheet, just as the director will use the actions in a creature’s stat block, but free strikes are always available for when all else fails. For instance, a fury who has no other options for ranged attacks might use the Ranged Weapon [[Free Strike]] attack with an improvised weapon when battling a flying creature.
+You can use this action to make a [[Free Strike|free strike]] (see [[Free Strike|Free Strikes]]). Most of the time, you’ll want to use the more impactful actions found on your character sheet, just as the director will use the actions in a creature’s stat block, but [[Free Strike|free strikes]] are always available for when all else fails. For instance, a fury who has no other options for ranged attacks might use the Ranged Weapon [[Free Strike]] attack with an improvised weapon when battling a flying creature.
 
 #### HEAL
 
@@ -7478,9 +7478,9 @@ You use your action to employ medicine or inspiring words to make an adjacent cr
 
 ### FREE STRIKES
 
-Every creature can make a **[[Free Strike|free strike]]** as an action on their turn, though doing so typically isn’t the most effective choice. Most of the time, you’ll use free strikes when the rules call for it. Specific rules let you use free strikes as part of an action that allows you to also do something else impactful, such as how the [[Charge]] action lets you move and use a melee [[Free Strike|free strike]] in one action (see [[Charge]] above).
+Every creature can make a **[[Free Strike|free strike]]** as an action on their turn, though doing so typically isn’t the most effective choice. Most of the time, you’ll use [[Free Strike|free strikes]] when the rules call for it. Specific rules let you use [[Free Strike|free strikes]] as part of an action that allows you to also do something else impactful, such as how the [[Charge]] action lets you move and use a melee [[Free Strike|free strike]] in one action (see [[Charge]] above).
 
-Many rules and abilities allow heroes to make free strikes when it isn’t their turn, such as the tactician’s [[Overwatch]] ability. As well, all characters can make an opportunity attack [[Free Strike|free strike]].
+Many rules and abilities allow heroes to make [[Free Strike|free strikes]] when it isn’t their turn, such as the tactician’s [[Overwatch]] ability. As well, all characters can make an opportunity attack [[Free Strike|free strike]].
 
 #### OPPORTUNITY ATTACKS
 
@@ -7490,7 +7490,7 @@ If you have a bane or double bane on the power roll against the creature, you ca
 
 #### STANDARD FREE STRIKES
 
-Every hero has two standard free strikes available to them. Your class might give you additional [[Free Strike|free strike]] options, and your kit can improve the standard options (see Kits).
+Every hero has two standard [[Free Strike|free strikes]] available to them. Your class might give you additional [[Free Strike|free strike]] options, and your kit can improve the standard options (see Kits).
 
 A melee weapon [[Free Strike|free strike]] is a melee attack made with an unarmed strike or an improvised weapon. A ranged weapon [[Free Strike|free strike]] is a ranged attack made with an improvised weapon. At the Director’s discretion, the damage type of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage.
 
@@ -7707,7 +7707,7 @@ Objectives in this category often have a timer associated with them. If the hero
 
 ##### COMPLETE THE ACTION
 
-The opposite of “Stop the Action,” this objective ending sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a [[Time Raider|time raider]] boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few time raiders actually aboard.
+The opposite of “Stop the Action,” this objective ending sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a [[Time Raider|time raider]] boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few [[Time Raider|time raiders]] actually aboard.
 
 ##### OBJECTIVES AND ENCOUNTER DIFFICULTY
 
@@ -7737,7 +7737,7 @@ Think of negotiation as something like learning a new system for combat, explora
 
 ### WHEN TO NEGOTIATE
 
-In order for a negotiation to occur, an NPC must have an interest in negotiating with the heroes—but must also have a reason to not simply [[Jump|jump]] on board with whatever the heroes propose. Negotiations happen only when an NPC has that internal tension between interest and reluctance. For example, if the characters ask a king to send his army into a neighboring kingdom to battle a demon incursion, the king needs to be conflicted. He wants to stop the incursion, but he doesn’t want to risk the lives of his soldiers defending a foreign nation while leaving their own people unprotected. If the heroes want the help of the king’s army, they need to negotiate.
+In order for a negotiation to occur, an NPC must have an interest in negotiating with the heroes—but must also have a reason to not simply [[Jump|jump]] on board with whatever the heroes propose. Negotiations happen only when an NPC has that internal tension between interest and reluctance. For example, if the characters ask a king to send his army into a neighboring kingdom to battle a demon incursion, the king needs to be conflicted. He wants to stop the incursion, but he doesn’t want to risk the lives of his [[Soldier|soldiers]] defending a foreign nation while leaving their own people unprotected. If the heroes want the help of the king’s army, they need to negotiate.
 
 Heroes aren’t expected to use the negotiation rules every time one character tries to convince an NPC to see things their way. For instance, if a hero wants information about a cult leader from a captured cultist, a single Presence test using the Lie skill or a Might test using Intimidate is likely all that’s needed. A character who wants to flirt with the local alchemist to obtain a free Healing Potion likely just needs to make a Presence test using the Flirt skill.
 
@@ -7920,7 +7920,7 @@ An NPC with the protection pitfall is happy to leave others to fend for themselv
 
 Arguments that appeal to a protection motivation contend that helping the heroes allows an NPC to better protect their [[Charge|charge]]. Example arguments include the following:
 
-- "Dead soldiers grow the necromancer’s ranks. Total annihilation is the only way to defeat her. March with us now, while her army is small, and we’ll defeat her. Or..."
+- "Dead [[Soldier|soldiers]] grow the necromancer’s ranks. Total annihilation is the only way to defeat her. March with us now, while her army is small, and we’ll defeat her. Or..."
 
 ##### REVELRY
 
@@ -8170,7 +8170,7 @@ Here’s how the negotiation with Zola might play out. In this scenario, Alyssa 
 
 **Alyssa (playing Jorn):** “We’re building an army to take down Saxton once and for all.”
 
-**Director:** Zola gives a mirthless chuckle as she shakes her head. “Oh is that all? I have to tell you, I don’t think the four of you stand much of a chance. Unless you’re hiding a legion or two of dwarves in your pockets. Yes, you have Jorn the Mighty with you, but you’ll need more than one famous warrior to win the day.”
+**Director:** Zola gives a mirthless chuckle as she shakes her head. “Oh is that all? I have to tell you, I don’t think the four of you stand much of a chance. Unless you’re hiding a legion or two of [[Dwarf|dwarves]] in your pockets. Yes, you have Jorn the Mighty with you, but you’ll need more than one famous warrior to win the day.”
 
 **Alyssa:** Ah! So she has heard of me at least! Thanks, Renown.
 
@@ -8178,7 +8178,7 @@ Here’s how the negotiation with Zola might play out. In this scenario, Alyssa 
 
 **Director:** Zola nods, impressed. “I’m glad the boy is safe, but that’s all he is—a boy, not an army.”
 
-**Matt (playing Linn):** “He’s a boy people will rally around. We have no army, but that’s why we’re here. We’re planning on changing that. Can you spare any soldiers for our cause?”
+**Matt (playing Linn):** “He’s a boy people will rally around. We have no army, but that’s why we’re here. We’re planning on changing that. Can you spare any [[Soldier|soldiers]] for our cause?”
 
 The negotiation officially starts. The heroes have stated what they want from Zola. The Director begins by prompting them to make an argument.
 
@@ -8208,7 +8208,7 @@ Korvo inadvertently made an argument using a pitfall by appealing to a higher au
 
 The heroes now know both of Zola’s pitfalls: higher authority and revelry.
 
-**Linn:** Linn is going to say, “We’re recruiting more than just the Clock. We have a good chance of recruiting the elves of the wode and the orcs of Forest Rend, and we’re already training the people of Gravesford to put up a fight. If we strike before Saxton can fully build his forces, we all stand a better chance of survival. If you don’t stand with us, Saxton will still come for you. He’s already coming for you. The Clock stands less of a chance alone.”
+**Linn:** Linn is going to say, “We’re recruiting more than just the Clock. We have a good chance of recruiting the elves of the wode and the [[Orc|orcs]] of Forest Rend, and we’re already training the people of Gravesford to put up a fight. If we strike before Saxton can fully build his forces, we all stand a better chance of survival. If you don’t stand with us, Saxton will still come for you. He’s already coming for you. The Clock stands less of a chance alone.”
 
 **Director:** I think that’s a Reason test, since you’re using logic to point out that you have a better chance together than on your own. It’s easy too, since you’re appealing to one of her motivations.
 
