@@ -24,7 +24,7 @@ Count Revile avoided his gaze, then turned and stamped away across the bloody ba
 
 “I'm fine!” Revile shouted, all evidence to the contrary.
 
-“I know what I saw,” John said as he followed his friend. “You went into a bloodlust. And it's not the first time. Whether you like it or not, whether I like it or not, I'm in charge of this mission. Either you tell me what's going on, or I have no choice. I have to conclude you're a danger to the team and cut you loose.”
+“I know what I saw,” John said as he followed his friend. “You went into a bloodlust. And it's not the first time. Whether you like it or not, whether I like it or not, I'm in [[Charge|charge]] of this mission. Either you tell me what's going on, or I have no choice. I have to conclude you're a danger to the team and cut you loose.”
 
 Revile stopped and turned to look at the rest of the party, recovering from their wounds. The memonek's white porcelain chest heaved as he tried to calm himself. His ceramic skin looked as strong as plate, but John knew it was brittle, fragile.
 

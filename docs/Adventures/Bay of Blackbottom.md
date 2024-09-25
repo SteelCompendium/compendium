@@ -59,7 +59,7 @@ This adventure takes place before *The Fall of Blackbottom*, a combat-heavy adve
 
 The heroes begin aboard the Revelation, a few days out from Blackbottom. As they cross the open sea, they can get to know the passengers, solve minor problems, and potentially uncover the smuggled goods.
 
-Just before the Revelation gets to Blackbottom harbor, pirates waylay the ship and the heroes must defend the passengers and cargo. During the fight, the Revelation sustains major damage. The heroes must work to stabilize the ship when it begins to sink, even as fires threaten to ignite the black powder with disastrous results.
+Just before the Revelation gets to Blackbottom harbor, pirates waylay the ship and the heroes must [[Defend|defend]] the passengers and cargo. During the fight, the Revelation sustains major damage. The heroes must work to stabilize the ship when it begins to sink, even as fires threaten to ignite the black powder with disastrous results.
 
 When the Revelation (or what remains of it) arrives in Blackbottom, members of the Hawklords who patrol the city question Captain Oriel and the heroes. The heroes can attempt to smooth things over for the captain in negotiations if they wish.
 
@@ -92,13 +92,13 @@ These vignettes illustrate the passage of time on the ship. You can run as many 
 
 #### DECK DRAMA
 
-Two women, a [[Human|human]] and a high elf, are heading to Blackbottom on their honeymoon. The elf, Waves of Moonlight on a Shore of Glass, accidentally dropped her wedding ring overboard. The [[Human|human]], Lorelei, has yelled for the ship’s guards. Just before the heroes’ arrival, Lorelei jumped overboard to grab the fine porcelain ring, which is light enough to float. Having failed to anticipate the choppiness of the ship’s wake, she is now desperately trying—and failing—to hold her head above water as the Revelation sails away.
+Two women, a [[Human|human]] and a high elf, are heading to Blackbottom on their honeymoon. The elf, Waves of Moonlight on a Shore of Glass, accidentally dropped her wedding ring overboard. The [[Human|human]], Lorelei, has yelled for the ship’s guards. Just before the heroes’ arrival, Lorelei jumped overboard to [[Grab|grab]] the fine porcelain ring, which is light enough to float. Having failed to anticipate the choppiness of the ship’s wake, she is now desperately trying—and failing—to hold her head above water as the Revelation sails away.
 
 While crew members work to dispatch a lifeboat, a hero can dive into the water and attempt a rescue with an easy Might test:
 
 - 11 or lower: The hero keeps the struggling Lorelei above the surface until the lifeboat arrives. Doing so exhausts the hero, who loses 1 recovery.
 - 12–16: The hero swims back to the ship with Lorelei, sparing the crew the effort.
-- 17 or higher: The hero swims back to the ship with Lorelei, and manages to find and grab the lost ring along the way.
+- 17 or higher: The hero swims back to the ship with Lorelei, and manages to find and [[Grab|grab]] the lost ring along the way.
 
 Back on deck, Lorelei’s wife admonishes her for acting without thinking. Then with a wry smile, she says, “I know we said ‘until death do us part’ last week, but I thought you’d have a little longer in you!”
 
@@ -187,7 +187,7 @@ Four civilians remain on the deck at the start of the fight, each a noncombatant
 
 ### TACTICS
 
-The brawler attempts to grab the nearest noncombatant as a shield, leaving nearby heroes to deal with the raiders. The scoundrel and their guards select the nearest hero and focus attacks on them, attempting to pick characters off one by one. The archers make ranged attacks from the back ranks, doing their best to stay out of melee.
+The brawler attempts to [[Grab|grab]] the nearest noncombatant as a shield, leaving nearby heroes to deal with the raiders. The scoundrel and their guards select the nearest hero and focus attacks on them, attempting to pick characters off one by one. The archers make ranged attacks from the back ranks, doing their best to stay out of melee.
 
 At the start of each round, if at least one gangplank is still up, a group of two raiders appears at the far end of a gangplank and prepares to board on their turn.
 

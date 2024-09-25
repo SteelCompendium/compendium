@@ -22,4 +22,4 @@ When you barrel through your foes, they feel your wrath.
 - 12–16: 6 damage
 - 17+: 9 damage
 
-**Effect:** The target takes an extra 1d6 damage for every free strike you triggered from your move.
+**Effect:** The target takes an extra 1d6 damage for every [[Free Strike|free strike]] you triggered from your move.

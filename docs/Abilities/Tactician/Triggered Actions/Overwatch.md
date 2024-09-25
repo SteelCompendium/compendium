@@ -15,6 +15,6 @@ Under your direction, an ally waits for just the right moment to strike.
 
 - **Trigger:** The target moves.
 
-**Effect:** At any point during the target's movement, one ally can make a free strike against the target.
+**Effect:** At any point during the target's movement, one ally can make a [[Free Strike|free strike]] against the target.
 
 **Spend 1 Focus:** The target's speed becomes 0 (EoT).

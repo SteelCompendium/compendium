@@ -14,4 +14,4 @@ Your allies wait for your command—then unleash death!
 | :--------------------- | :--------------------- |
 | **Distance:** Ranged 5 | **Target:** All allies |
 
-**Effect:** Each target can make a free strike.
+**Effect:** Each target can make a [[Free Strike|free strike]].

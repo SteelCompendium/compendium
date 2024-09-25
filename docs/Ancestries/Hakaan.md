@@ -98,7 +98,7 @@ The Pillar shrugged, giant muscles in her shoulders rippling. “That was the en
 
 The Arrow stared, wide-eyed at the Pillar. Even before the young man spoke, the hakaan talent's eyes widened in realization. “My vision …” she said.
 
-“Wasn't over!” the Arrow said, his joy impossible to hide.
+“Wasn't over!” the Arrow said, his joy impossible to [[Hide|hide]].
 
 ## Hakaan Benefits
 

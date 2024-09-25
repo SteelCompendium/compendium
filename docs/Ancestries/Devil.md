@@ -130,7 +130,7 @@ As a devil character, you have the following benefits:
 
 When you create a devil character, you have 3 fiend points, which you use to select a number of the following features.
 
-- **BARBED TAIL (1 FIEND POINT):** Your pointy tail allows you to punctuate all your actions. Once per round, you can deal 1 extra damage on a melee attack or free strike.
+- **BARBED TAIL (1 FIEND POINT):** Your pointy tail allows you to punctuate all your actions. Once per round, you can deal 1 extra damage on a melee attack or [[Free Strike|free strike]].
 
 - **BEAST LEGS (2 FIEND POINTS):** Your powerful legs improve your speed by 1.
 

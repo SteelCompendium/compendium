@@ -110,4 +110,4 @@ Your speed is 6.
 
 ### Wode Elf Glamor
 
-You can magically alter your appearance to better blend in with your surroundings. You gain an edge on Agility tests made to hide and sneak, and tests made to find you while you are hidden take a bane.
+You can magically alter your appearance to better blend in with your surroundings. You gain an edge on Agility tests made to [[Hide|hide]] and sneak, and tests made to find you while you are hidden take a bane.

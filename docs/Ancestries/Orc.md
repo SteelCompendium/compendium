@@ -96,4 +96,4 @@ When you take damage, your speed increases by 2 until the end of your next turn.
 
 ### Relentless
 
-When a creature deals damage to you that leaves you dying, you can make a free strike against any creature. If the creature is reduced to 0 Stamina by your attack, you can spend a Recovery.
+When a creature deals damage to you that leaves you dying, you can make a [[Free Strike|free strike]] against any creature. If the creature is reduced to 0 Stamina by your attack, you can spend a Recovery.

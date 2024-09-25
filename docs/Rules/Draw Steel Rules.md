@@ -7400,10 +7400,10 @@ You attempt to grab a creature using the following ability:
 
 **GRAB**
 
-- Keywords: Melee
-- Type: Maneuver
-- Distance: Reach 1
-- Target: 1 creature the same size or smaller than you
+- **Keywords:** Melee
+- **Type:** Maneuver
+- **Distance:** Reach 1
+- **Target:** 1 creature the same size or smaller than you
 
 **Power Roll + Might:**
 
@@ -7423,10 +7423,10 @@ You attempt to shove an adjacent creature using the following ability:
 
 **KNOCKBACK**
 
-- Keywords: Melee
-- Type: Maneuver
-- Distance: Reach 1
-- Target: 1 creature the same size or smaller than you
+- **Keywords:** Melee
+- **Type:** Maneuver
+- **Distance:** Reach 1
+- **Target:** 1 creature the same size or smaller than you
 
 **Power Roll + Might:**
 
@@ -7496,10 +7496,10 @@ A melee weapon free strike is a melee attack made with an unarmed strike or an i
 
 ##### MELEE WEAPON FREE STRIKE
 
-- Keywords: Attack, Melee, Weapon
-- Type: Action
-- Distance: Reach 1
-- Target: 1 creature or object
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Reach 1
+- **Target:** 1 creature or object
 
 **Power Roll + Might or Agility:**
 
@@ -7509,10 +7509,10 @@ A melee weapon free strike is a melee attack made with an unarmed strike or an i
 
 ##### RANGED WEAPON FREE STRIKE
 
-- Keywords: Attack, Ranged, Weapon
-- Type: Action
-- Distance: Ranged 5
-- Target: 1 creature or object
+- **Keywords:** Attack, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Ranged 5
+- **Target:** 1 creature or object
 
 **Power Roll + Might or Agility:**
 

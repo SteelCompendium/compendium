@@ -92,7 +92,7 @@ Here are a few key distinctions between this game and typical d20 fantasy that y
 - **You don’t need to rest all the time.** Most d20 fantasy games are games of attrition. Your spell slots and other features dwindle as the adventuring day goes on. In Draw Steel, you need to rest to regain your Stamina and Recoveries (the stat that determine how robust you are in combat). But all characters earn the ability to use their magic and other awesome abilities as they adventure, encouraging you to press on heroically.
 - **Character options are different.** We very strongly recommend you start by looking through the character creation section before you decide what you want to play. You can’t just assume the conduit is “basically a cleric.” In some ways it is! But in other ways it’s very different. You may have some cool character archetype you love to play in d20 Fantasy and you’re dying to see how it works in *Draw Steel*, but you’ll have a lot more fun if you start by browsing the Ancestries and Class sections and being inspired. Once you know how the game works, you’ll have a better handle on how to build your favorite character in here.
 - **Smaller bonuses and penalties** *Draw Steel* is built around the roll of two ten-sided dice to produce three possible outcomes. On the surface, this might not seem that different from rolling a twenty-sided die and having two outcomes, but we’ve run the math. A lot. A bonus of +1 or penalty of −2 is significant in *Draw Steel*, much more so than in a typical d20 fantasy game. That means you should feel pretty good attempting most power rolls—the rolls you make to determine success out of combat—if you have a decent characteristic bonus on those rolls. And if you have a specific skill that applies to a power roll made as a test outside of combat, you’ll do even better.
-- **Our game has a lot of skills** Your character can make use of a long list of skills, but we don’t expect you to memorize that list. We get into why there are so many skills in the *Tests* chapter, but the short version is that we think having a lot of skills allows you to create more distinct and specialized heroes, which supports the sort of gameplay we want to see in *Draw Steel*. And skills in *Draw Steel* aren’t tied to characteristics. If you’re trying to lose someone in a crowd? You can use Presence to Hide! Why not?
+- **Our game has a lot of skills** Your character can make use of a long list of skills, but we don’t expect you to memorize that list. We get into why there are so many skills in the *Tests* chapter, but the short version is that we think having a lot of skills allows you to create more distinct and specialized heroes, which supports the sort of gameplay we want to see in *Draw Steel*. And skills in *Draw Steel* aren’t tied to characteristics. If you’re trying to lose someone in a crowd? You can use Presence to [[Hide]]! Why not?
 - **We won’t be able to point out every difference.** Beyond what’s noted here, don’t assume that these rules work like any d20 fantasy game you’ve played. We don’t have the space to point out every exception. So if you’re in doubt about how something works, put d20 fantasy out of your mind and read our rules without those assumptions, and you’ll find that things make better sense. If you’re still confused, stop by the MCDM Discord and ask. We’ve got tons of awesome community members ready to help!
 - **We don’t expect you to do everything to the letter.** This is actually one thing *Draw Steel* does have in common with d20 fantasy. This is a big book of rules! Don’t stress if you need to look something up or make a ruling about an edge case on the fly. If everyone’s having fun, you’re doing it right.
 
@@ -146,7 +146,7 @@ Each creature in the game has five characteristics that represent their capacity
 
 #### MIGHT
 
-Might (MGT) represents strength and brawn. A creature’s ability to break down doors, swing an axe, stand up during an earthquake, or hurl an ally across a chasm is determined by Might.
+Might (MGT) represents strength and brawn. A creature’s ability to break down doors, swing an axe, [[Stand Up|stand up]] during an earthquake, or hurl an ally across a chasm is determined by Might.
 
 #### AGILITY
 
@@ -353,13 +353,13 @@ Your hero’s class description has more information about how to use your Heroi
 
 #### RECOVERIES
 
-Each hero has a limited number of Recoveries that they can use to heal themself. Recoveries are a way to rally and get back some of the energy you lose in battle by taking a breather, accepting a little magical help from a conduit or troubadour, getting an allied tactician to inspire you with a rush of adrenaline, and so forth. Of course, your body can only rally so many times before your energy reserves are completely shot, so you have a limited number of recoveries as a result.
+Each hero has a limited number of Recoveries that they can use to [[Heal|heal]] themself. Recoveries are a way to rally and get back some of the energy you lose in battle by taking a breather, accepting a little magical help from a conduit or troubadour, getting an allied tactician to inspire you with a rush of adrenaline, and so forth. Of course, your body can only rally so many times before your energy reserves are completely shot, so you have a limited number of recoveries as a result.
 
 When you spend a Recovery, you regain Stamina equal to your recovery value, which is one-third your Stamina maximum.
 
 ##### SPENDING RECOVERIES
 
-During combat encounters and similarly dangerous situations when time is tracked in rounds (see Combat), you can use the Catch Breath action to regain Stamina. See Catch Breath in Actions for more information. Some heroes have abilities that allow them or their allies to spend more Recoveries without using the Catch Breath action.
+During combat encounters and similarly dangerous situations when time is tracked in rounds (see Combat), you can use the [[Catch Breath]] action to regain Stamina. See [[Catch Breath]] in Actions for more information. Some heroes have abilities that allow them or their allies to spend more Recoveries without using the [[Catch Breath]] action.
 
 Outside of combat and other dangerous situations, you can spend Recoveries freely.
 
@@ -451,7 +451,7 @@ Almost coterminous with Orden is its sister-plane, the World Below, and the Dark
 
 The power of the World Below wanes, even as the power of Equinox rises. Also known as Dusk, this smaller parasitic manifold is home to the exiled shadow elves and ruled by the Queen of Shadows, third of the Three Sisters Below. She plots to return her people to their homeland in Orden, and to escape the twisted shadow world.
 
-The last plane of law, the Seven Cities of Hell, is among the lowest of the lower planes. A realm of devils proud of their civilization, the Seven Cities are each ruled by an archduke who schemes to ascend to the Throne of Hell. Living in a world of bureaucratic law, the [[Devil|devil]] denizens of Hell have little interest in the other planes. Life is so much more interesting down here. The seven dukes of Hell conspired together once, agreeing to create the Order of Desolation, also known as the illriggers. Doing so was meant to extend their power into the timescape, and to defend the Seven Cities from the demon hordes below.
+The last plane of law, the Seven Cities of Hell, is among the lowest of the lower planes. A realm of devils proud of their civilization, the Seven Cities are each ruled by an archduke who schemes to ascend to the Throne of Hell. Living in a world of bureaucratic law, the [[Devil|devil]] denizens of Hell have little interest in the other planes. Life is so much more interesting down here. The seven dukes of Hell conspired together once, agreeing to create the Order of Desolation, also known as the illriggers. Doing so was meant to extend their power into the timescape, and to [[Defend|defend]] the Seven Cities from the demon hordes below.
 
 The demons of the Abyssal Waste, the lowest plane, claw and scramble over each other, competing for souls in this heat-blasted desert under a baleful, giant orange sun. Mindless collections of organs, claws, and teeth, demons collect souls until they reach sentience, gaining identity and the blessing of memory. These demons will do anything to escape upward out of the wasteland, lest they lose their collected souls, lose their identities, and fall into that mindless state called lethe.
 
@@ -531,11 +531,11 @@ Choose your hero’s kit. Your kit provides you with equipment and a fighting st
 
 #### 7. ADD FREE STRIKES
 
-Every hero has the ability to make free strikes under certain circumstances—extra attacks that don’t require your action. (You can also make a free strike as an action on your turn, though you’ll usually have better options for your action.) Your class might grant you free strike options, but each character also has two standard free strikes.
+Every hero has the ability to make free strikes under certain circumstances—extra attacks that don’t require your action. (You can also make a [[Free Strike|free strike]] as an action on your turn, though you’ll usually have better options for your action.) Your class might grant you [[Free Strike|free strike]] options, but each character also has two standard free strikes.
 
-A melee weapon free strike is a melee attack made with an unarmed strike or improvised weapon. A ranged weapon free strike is a ranged attack made with an improvised weapon.
+A melee weapon [[Free Strike|free strike]] is a melee attack made with an unarmed strike or improvised weapon. A ranged weapon [[Free Strike|free strike]] is a ranged attack made with an improvised weapon.
 
-###### MELEE WEAPON FREE STRIKE
+###### MELEE WEAPON [[Free Strike|FREE STRIKE]]
 
 - **Keywords:** Attack, Melee, Weapon
 - **Type:** Action
@@ -548,7 +548,7 @@ A melee weapon free strike is a melee attack made with an unarmed strike or impr
 - 12–16: 6 damage
 - 17+: 9 damage
 
-###### RANGED WEAPON FREE STRIKE
+###### RANGED WEAPON [[Free Strike|FREE STRIKE]]
 
 - **Keywords:** Attack, Ranged, Weapon
 - **Type:** Action
@@ -821,7 +821,7 @@ As a [[Devil|devil]] character, you have the following benefits:
 When you create a [[Devil|devil]] character, you have 3 fiend points, which you use to select a number of the following features.
 
 - **BARBED TAIL (1 FIEND POINT):**
-  Your pointy tail allows you to punctuate all your actions. Once per round, you can deal 1 extra damage on a melee attack or free strike.
+  Your pointy tail allows you to punctuate all your actions. Once per round, you can deal 1 extra damage on a melee attack or [[Free Strike|free strike]].
 
 - **BEAST LEGS (2 FIEND POINTS):**
   Your powerful legs improve your speed by 1.
@@ -1174,7 +1174,7 @@ Your speed is 6.
 
 ##### WODE ELF GLAMOR
 
-You can magically alter your appearance to better blend in with your surroundings. You gain an edge on Agility tests made to hide and sneak, and tests made to find you while you are hidden take a bane.
+You can magically alter your appearance to better blend in with your surroundings. You gain an edge on Agility tests made to [[Hide|hide]] and sneak, and tests made to find you while you are hidden take a bane.
 
 ### [[Elf, High|ELF, HIGH]]
 
@@ -1364,7 +1364,7 @@ The Pillar shrugged, giant muscles in her shoulders rippling. “That was the en
 
 The Arrow stared, wide-eyed at the Pillar. Even before the young man spoke, the [[Hakaan|hakaan]] talent’s eyes widened in realization. “My vision …” she said.
 
-“Wasn’t over!” the Arrow said, his joy impossible to hide.
+“Wasn’t over!” the Arrow said, his joy impossible to [[Hide|hide]].
 
 #### [[Hakaan|HAKAAN]] BENEFITS
 
@@ -1388,7 +1388,7 @@ You can’t be weakened. Additionally, when your Stamina equals the negative of 
 
 “Humans,” the [[Dwarf|dwarf]] said with a combination of exasperation and awe. “Their only virtue seems to be believing in impossible things.”
 
-“Humans belong to the world in a way the other speaking peoples do not. You can sense the presence of magic—that… oily smell in the air, as I’ve heard it described. And the presence of deathless causes the hairs on the back of your neck to stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
+“Humans belong to the world in a way the other speaking peoples do not. You can sense the presence of magic—that… oily smell in the air, as I’ve heard it described. And the presence of deathless causes the hairs on the back of your neck to [[Stand Up|stand up]]. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
 
 “No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin … the dwarves and the orcs as you say. What is it that sets humans apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason.”
 
@@ -1468,7 +1468,7 @@ Count Revile avoided his gaze, then turned and stamped away across the bloody ba
 
 “I’m fine!” Revile shouted, all evidence to the contrary.
 
-“I know what I saw,” John said as he followed his friend. “You went into a bloodlust. And it’s not the first time. Whether you like it or not, whether I like it or not, I’m in charge of this mission. Either you tell me what’s going on, or I have no choice. I have to conclude you’re a danger to the team and cut you loose.”
+“I know what I saw,” John said as he followed his friend. “You went into a bloodlust. And it’s not the first time. Whether you like it or not, whether I like it or not, I’m in [[Charge|charge]] of this mission. Either you tell me what’s going on, or I have no choice. I have to conclude you’re a danger to the team and cut you loose.”
 
 Revile stopped and turned to look at the rest of the party, recovering from their wounds. The [[Memonek|memonek]]’s white porcelain chest heaved as he tried to calm himself. His ceramic skin looked as strong as plate, but John knew it was brittle, fragile.
 
@@ -1634,7 +1634,7 @@ When you take damage, your speed increases by 2 until the end of your next turn.
 
 ##### RELENTLESS
 
-When a creature deals damage to you that leaves you dying, you can make a free strike against any creature. If the creature is reduced to 0 Stamina by your attack, you can spend a Recovery.
+When a creature deals damage to you that leaves you dying, you can make a [[Free Strike|free strike]] against any creature. If the creature is reduced to 0 Stamina by your attack, you can spend a Recovery.
 
 ### [[Polder|POLDER]]
 
@@ -1680,7 +1680,7 @@ The [[Polder|polder]] put his drink down. “Oh, thank you. Thank you very much.
 
 “You’re talking just … my voice is just as loud as yours!”
 
-“I mean the way you walk around. Just the way you move, the way you stand up and sit down. You make so much goddamn noise.”
+“I mean the way you walk around. Just the way you move, the way you [[Stand Up|stand up]] and sit down. You make so much goddamn noise.”
 
 Jago, Sarah, and Beth all smiled at the exchange.
 
@@ -1835,7 +1835,7 @@ One of the four thieves opened a vial and dipped his dirk into the red oil withi
 
 “What is that gonna do? She’s already dead!”
 
-Another knock at the hidden door. “Forget it. Let her knock. Grab as many as you can, and we’ll go out the back.”
+Another knock at the hidden door. “Forget it. Let her knock. [[Grab]] as many as you can, and we’ll go out the back.”
 
 The head thief ran for the door out the back of the safe house. He jerked it open—and the other thieves watched as a silver flash silently flared across his forehead.
 
@@ -2026,7 +2026,7 @@ Your senses extend past mundane obscuration and the veil of the future alike. Yo
 
 ##### FOUR ARMS
 
-Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target an additional adjacent creature, using the same power roll for both targets. You can grab up to two creatures at a time.
+Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [[Grab]] or [[Knockback]] maneuver against an adjacent creature, you can target an additional adjacent creature, using the same power roll for both targets. You can [[Grab|grab]] up to two creatures at a time.
 
 ##### PSIONIC GIFT
 
@@ -2034,7 +2034,7 @@ Your mind is a formidable layer of defense, granting you psionic immunity 5.
 
 ## CULTURE
 
-What makes a hero? Is their desire to stand up for the innocent and protect others somehow innate? Are they born knowing that tyrants must fall? Does a higher power instill the idea that sometimes those least deserving of compassion are those who need it most?
+What makes a hero? Is their desire to [[Stand Up|stand up]] for the innocent and protect others somehow innate? Are they born knowing that tyrants must fall? Does a higher power instill the idea that sometimes those least deserving of compassion are those who need it most?
 
 No. A hero’s life experience teaches them right from wrong—and that experience starts with the culture that raised them.
 
@@ -2114,7 +2114,7 @@ A wilderness culture doesn’t attempt to tame the terrain in which its people l
 
 #### ORGANIZATION
 
-Your culture’s organization aspect determines the functioning and leadership of your community. You might come from a place with an officially recognized government and a system of laws. Or your culture might have enjoyed a less formal organization, with the people in charge having naturally gravitated toward their positions without any official offices or oaths.
+Your culture’s organization aspect determines the functioning and leadership of your community. You might come from a place with an officially recognized government and a system of laws. Or your culture might have enjoyed a less formal organization, with the people in [[Charge|charge]] having naturally gravitated toward their positions without any official offices or oaths.
 
 When you build a culture, select its organization aspect from the following options: anarchic, bureaucratic, or communal. You then gain skill options from your chosen system of organization.
 
@@ -2465,7 +2465,7 @@ Your class provides you with most of your abilities. For details on the ability 
 
 The power of the gods flows through you! As a vessel for divine magic, you don’t just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. While the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
 
-As a conduit, you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, aweing your enemies and granting you increased empathy.
+As a conduit, you [[Heal|heal]] and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, aweing your enemies and granting you increased empathy.
 
 ### BASICS
 
@@ -2511,7 +2511,7 @@ After choosing your deity, pick two domains from their portfolio. Your choice of
 
 #### PIETY
 
-Your deity grants you a Heroic Resource called piety to fuel your abilities. You use piety to heal and empower your allies, and to unleash your deity’s power upon your foes.
+Your deity grants you a Heroic Resource called piety to fuel your abilities. You use piety to [[Heal|heal]] and empower your allies, and to unleash your deity’s power upon your foes.
 
 Outside of combat and other dangerous situations tracked in turns and rounds, you have piety equal to your Victories. If you lose some or all of this piety outside of combat, it takes you 1 minute to regain it.
 
@@ -2559,7 +2559,7 @@ Choose up to three allies within 10 squares of you. Each ally has a double edge 
 
 ###### LIFE DOMAIN EFFECT
 
-You or an ally within 10 squares of you can spend 2 Recoveries, can end any effects on them that have a duration of EoT or are ended by a resistance roll, and can stand up if they are [[Prone|prone]]. Alternatively, you or an ally within 10 squares of you gains 20 temporary Stamina.
+You or an ally within 10 squares of you can spend 2 Recoveries, can end any effects on them that have a duration of EoT or are ended by a resistance roll, and can [[Stand Up|stand up]] if they are [[Prone|prone]]. Alternatively, you or an ally within 10 squares of you gains 20 temporary Stamina.
 
 ###### LOVE DOMAIN EFFECT
 
@@ -2627,7 +2627,7 @@ You exude a magic aura that can soothe those willing to socially engage with you
 When you finish a respite, you can decide the weather conditions in the local area. Those weather conditions follow you through any mundane outdoors locations where you travel until the end of your next respite. Choose one of the following types of weather:
 
 - **Clear**: You and your allies each gain an edge on tests that use the Search or Navigate skills.
-- **Foggy**: You and your allies each gain an edge on tests that use the Hide skill.
+- **Foggy**: You and your allies each gain an edge on tests that use the [[Hide]] skill.
 - **Overcast**: You and your allies each gain an edge on tests that use the Endurance skill.
 - **Precipitation**: When the ground is muddy or snowy, you and your allies each gain an edge on tests that use the Track skill.
 
@@ -2704,12 +2704,12 @@ Your divine energy restores the righteous.
 
 - You can target one additional ally within distance.
 - You can end one effect on a target that has a duration of EoT or is ended by a resistance roll.
-- A [[Prone|prone]] target can stand up.
+- A [[Prone|prone]] target can [[Stand Up|stand up]].
 - A target can spend 1 additional Recovery.
 
 #### PIOUS FORCE
 
-You gain the following ability, which can be used as a ranged free strike.
+You gain the following ability, which can be used as a ranged [[Free Strike|free strike]].
 
 ##### PIOUS FORCE
 
@@ -3015,7 +3015,7 @@ When combat begins, you keep any essence you had outside of combat. At the start
 
 #### HURL ELEMENT
 
-You gain the following ability, which can be used as a ranged free strike:
+You gain the following ability, which can be used as a ranged [[Free Strike|free strike]]:
 
 ##### HURL ELEMENT
 
@@ -3067,7 +3067,7 @@ Your mastery of elemental power lets you customize your magic.
 
 **Effect**: Choose one of the following effects:
 
-- You use the Knockback maneuver, but you make a Reason test instead of a Might test. For this use of the maneuver, you can target a creature at a distance equal to the distance of your Hurl Element ability.
+- You use the [[Knockback]] maneuver, but you make a Reason test instead of a Might test. For this use of the maneuver, you can target a creature at a distance equal to the distance of your Hurl Element ability.
 - You choose a creature within the distance of your Hurl Element ability and deal damage to that creature equal to your Reason score. The damage type can be acid, cold, corruption, fire, lightning, poison, or sonic.
 - You teleport a number of squares equal to your Reason score.
 
@@ -3464,7 +3464,7 @@ As a fury, you gain the following features.
 You come from a tradition older than civilization, older than warfare, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and which left an aspect of the Primordial Chaos inside you. As you channel the rage that shapes you, you can choose a primordial aspect from the following:
 
 - **Berserker:** You channel your rage into expressions of physical might, acting as a living version of the forces that reshape the world. You gain the Lift skill.
-- **Reaver:** You channel your rage into instinct and cunning, challenging the false order of civilization. You gain the Hide skill.
+- **Reaver:** You channel your rage into instinct and cunning, challenging the false order of civilization. You gain the [[Hide]] skill.
 - **Stormwight:** You channel your rage into the form of animals and primordial storms. You gain the Track skill.
 
 Your choice of primordial aspect determines many of the features you’ll gain from this class.
@@ -3659,7 +3659,7 @@ Fighting up close lets you keep your foe exactly where you want them.
 - 12–16: 8 damage; [[Grabbed|grabbed]]
 - 17+: 12 damage; [[Grabbed|grabbed]]
 
-**Effect:** If the target is [[Grabbed|grabbed]], they take a bane on attempts to escape the grab. If you move while you have the target [[Grabbed|grabbed]], they take 1 damage for each square you move.
+**Effect:** If the target is [[Grabbed|grabbed]], they take a bane on attempts to escape the [[Grab|grab]]. If you move while you have the target [[Grabbed|grabbed]], they take 1 damage for each square you move.
 
 ##### HEROIC ABILITIES
 
@@ -3700,11 +3700,12 @@ When you barrel through your foes, they feel your wrath.
 
 **Power Roll + Might:**
 
+
 - 11 or lower: 5 damage
 - 12–16: 6 damage
 - 17+: 9 damage
 
-**Effect:** The target takes an extra 1d6 damage for every free strike you triggered from your move.
+**Effect:** The target takes an extra 1d6 damage for every [[Free Strike|free strike]] you triggered from your move.
 
 ###### [[Whirlwind|WHIRLWIND]] STRIKE (3 RAGE)
 
@@ -3859,7 +3860,7 @@ With this stormwight kit, you channel your primordial rage into the form of a be
 
 ##### ASPECT BENEFITS
 
-Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever an attack pulls a creature adjacent to you, you can attempt to grab that creature as a free triggered action.
+Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever an attack pulls a creature adjacent to you, you can attempt to [[Grab|grab]] that creature as a free triggered action.
 
 ##### ANIMAL FORM: BEAR
 
@@ -3896,9 +3897,9 @@ Attacks with your sharp and deadly claws send your foes staggering back.
 
 | **Rage** | **Benefit**                                                                                                                                                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2        | • You gain an edge on Might tests, resistance rolls, and power rolls made to grab. <br> • While in bear form, your attacks deal extra damage equal to your Might score, and any target you have [[Grabbed|grabbed]] at the start of your turn takes damage equal to your Might score. |
+| 2        | • You gain an edge on Might tests, resistance rolls, and power rolls made to [[Grab|grab]]. <br> • While in bear form, your attacks deal extra damage equal to your Might score, and any target you have [[Grabbed|grabbed]] at the start of your turn takes damage equal to your Might score. |
 | 4        | While in bear form, you can use all your abilities, your attacks deal extra damage equal to twice your Might score, and any target you have [[Grabbed|grabbed]] at the start of your turn takes damage equal to twice your Might score, instead of once your Might score.             |
-| 6        | You have a double edge on Might tests, resistance rolls, and power rolls made with the Grab ability.                                                                                                                                                                      |
+| 6        | You have a double edge on Might tests, resistance rolls, and power rolls made with the [[Grab]] ability.                                                                                                                                                                      |
 
 #### CORVEN
 
@@ -3906,11 +3907,11 @@ With this stormwight kit, you channel your primordial rage into the form of a cr
 
 ##### ASPECT BENEFITS
 
-You gain an edge on tests made to hide and sneak. Whenever you are falling, you can use your Animal Form ability as a free triggered action.
+You gain an edge on tests made to [[Hide|hide]] and sneak. Whenever you are falling, you can use your Animal Form ability as a free triggered action.
 
 ##### ANIMAL FORM: CROW
 
-When you are in your crow form, your movement gains the Fly keyword, and your size becomes 1T. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide.
+When you are in your crow form, your movement gains the Fly keyword, and your size becomes 1T. You can use the [[Hide]] maneuver as a free maneuver, and you can use your allies as cover when you [[Hide|hide]].
 
 Whenever your rage is 4 or higher, you can shapeshift to become a hybrid bipedal crow of your true form’s size. You gain 10 temporary Stamina the first time you shapeshift into hybrid crow form during an encounter.
 
@@ -3958,11 +3959,11 @@ With this stormwight kit, you channel your primordial rage into the form of a ra
 
 ##### ASPECT BENEFITS
 
-You gain an edge on tests made to hide and sneak. Additionally, you ignore difficult terrain, and you gain an edge on tests made to climb other creatures. If you are hidden, you automatically achieve a tier 3 result on attempts to climb and remain hidden.
+You gain an edge on tests made to [[Hide|hide]] and sneak. Additionally, you ignore difficult terrain, and you gain an edge on tests made to climb other creatures. If you are hidden, you automatically achieve a tier 3 result on attempts to climb and remain hidden.
 
 ##### ANIMAL FORM: RAT
 
-When you are in your rat form, your movement gains the Climb keyword, and your size becomes 1T. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when hiding. You can stay hidden while moving through squares occupied by a creature.
+When you are in your rat form, your movement gains the Climb keyword, and your size becomes 1T. You can use the [[Hide]] maneuver as a free maneuver, and you can use your allies as cover when hiding. You can stay hidden while moving through squares occupied by a creature.
 
 Whenever your rage is 4 or higher, you can shapeshift to become a hybrid bipedal rat of your true form’s size. You gain 10 temporary Stamina the first time you shapeshift into hybrid rat form during an encounter.
 
@@ -4071,7 +4072,7 @@ As a shadow, you have abilities that deal a lot of damage, let you move swiftly 
 - **Starting Stamina at 1st Level:** 18
 - **Stamina Gained at 2nd and Higher Levels:** 8
 - **Recoveries:** 10
-- **Skills:** Hide and Sneak, plus choose any five skills from [[Criminal]] Underworld or the skills of the exploration, interpersonal, or intrigue skill groups.
+- **Skills:** [[Hide]] and Sneak, plus choose any five skills from [[Criminal]] Underworld or the skills of the exploration, interpersonal, or intrigue skill groups.
 
 #### SHADOW ADVANCEMENT
 
@@ -4130,7 +4131,7 @@ In a swirl of black ash, you step from one place to another.
 - **Distance:** Self
 - **Target:** Self
 
-**Effect:** You teleport up to 5 squares. If you end this movement in concealment or cover, you can use the Hide maneuver even if you are observed.
+**Effect:** You teleport up to 5 squares. If you end this movement in concealment or cover, you can use the [[Hide]] maneuver even if you are observed.
 
 **Spend Insight:** You teleport 1 additional square for each insight spent.
 
@@ -4168,7 +4169,7 @@ Taking on the illusory countenance of another creature gives you an advantage on
 
 ##### SMOKE BOMB
 
-You always carry a supply of smoke bombs to make it easy for you to distract and get away from foes. You can use the Hide maneuver even if you are observed and don’t start in cover or concealment. If you do, you can shift a number of squares equal to your Agility. If you end this movement in cover or concealment, you are hidden.
+You always carry a supply of smoke bombs to make it easy for you to distract and get away from foes. You can use the [[Hide]] maneuver even if you are observed and don’t start in cover or concealment. If you do, you can shift a number of squares equal to your Agility. If you end this movement in cover or concealment, you are hidden.
 
 #### COLLEGE TRIGGERED ACTION
 
@@ -4192,7 +4193,7 @@ When an enemy attacks, you roll with the impact to reduce the harm.
 - **Target:** Self
 - **Trigger:** Another creature damages you.
 
-**Effect:** You shift up to 2 squares, halve the triggering damage, and don’t suffer any effect associated with the damage. If you end this movement with concealment or cover, you can use the Hide maneuver even if you are observed.
+**Effect:** You shift up to 2 squares, halve the triggering damage, and don’t suffer any effect associated with the damage. If you end this movement with concealment or cover, you can use the [[Hide]] maneuver even if you are observed.
 
 **Spend 1 Insight:** If the triggering damage was from an attack, you also reduce the attack’s damage by one tier.
 
@@ -4452,7 +4453,7 @@ You put on a burst of magical speed to get the job done.
 
 Strategist. Defender. Leader. With sword in hand, you lead allies into the maw of battle, barking out commands that inspire your fellow heroes to move faster and strike more precisely. All the while, you stand between your compatriots and death, taunting the followers of evil to best you if they can.
 
-As a tactician, you have abilities that heal your allies and grant them extra damage, movement, and attacks. You can taunt your enemies into attacking you instead of targeting your allies, and can help soak up damage when those allies stand alone.
+As a tactician, you have abilities that [[Heal|heal]] your allies and grant them extra damage, movement, and attacks. You can taunt your enemies into attacking you instead of targeting your allies, and can help soak up damage when those allies stand alone.
 
 ### BASICS
 
@@ -4619,7 +4620,7 @@ Under your direction, an ally waits for just the right moment to strike.
 - **Target:** 1 enemy
 - **Trigger:** The target moves.
 
-**Effect:** At any point during the target’s movement, one ally can make a free strike against the target.
+**Effect:** At any point during the target’s movement, one ally can make a [[Free Strike|free strike]] against the target.
 
 **Spend 1 Focus:** The target’s speed becomes 0 (EoT).
 
@@ -4740,7 +4741,7 @@ Your allies wait for your command—then unleash death!
 - **Distance:** Ranged 5
 - **Target:** All allies
 
-**Effect:** Each target can make a free strike.
+**Effect:** Each target can make a [[Free Strike|free strike]].
 
 ###### [[Their Weakness Is Our Strength|THEIR WEAKNESS IS OUR STRENGTH]] (5 FOCUS)
 
@@ -4789,7 +4790,7 @@ Your choice of kit is always flexible, and your character is never locked into a
 
 Each kit includes an armor entry. Martial kits also have a weapons entry, and caster kits have an implement entry. It’s important to know what equipment a kit uses, because that informs your hero’s appearance and story. It also determines the type of treasures they can wield.
 
-The description of gear in your kit is limited to broad categories, leaving you free to decide the specifics that best align with your vision of the character. For instance, the [[Guisarmier]] kit provides medium armor and a polearm. One player using this kit could wear heavy layers of hide and wield a longspear, while another might wear a shining breastplate and carry a halberd into battle.
+The description of gear in your kit is limited to broad categories, leaving you free to decide the specifics that best align with your vision of the character. For instance, the [[Guisarmier]] kit provides medium armor and a polearm. One player using this kit could wear heavy layers of [[Hide|hide]] and wield a longspear, while another might wear a shining breastplate and carry a halberd into battle.
 
 The equipment categories your kit gives you are part of what affects the math behind your kit’s benefits, alongside the fighting techniques each kit provides.
 
@@ -5762,7 +5763,7 @@ Your ward surrounds you with protective animal spirits, and grants you the follo
 
 #### [[Rook|ROOK]]
 
-The [[Rook]] kit allows you to use strong armor so you can be better protected while you heal and enhance your allies on the frontline. Heroes with this kit often dive into support magic. While using this kit, your armor resonates with the sounds of choirs from on high as you polish it.
+The [[Rook]] kit allows you to use strong armor so you can be better protected while you [[Heal|heal]] and enhance your allies on the frontline. Heroes with this kit often dive into support magic. While using this kit, your armor resonates with the sounds of choirs from on high as you polish it.
 
 ##### EQUIPMENT
 
@@ -5951,7 +5952,7 @@ You once contracted a terrible illness for which no one could find a cure. You s
 
 #### PUNISHMENT CURSE
 
-Through ignorance, fear, spite, or selfishness, you refused to help someone in need. To teach you a lesson, a deity offered you what seemed to be a blessing—extra power to help you heal yourself in times of need, but harsh consequences should your need become excessive. You took the deal, and now benefit from the blessing but also suffer from a curse.
+Through ignorance, fear, spite, or selfishness, you refused to help someone in need. To teach you a lesson, a deity offered you what seemed to be a blessing—extra power to help you [[Heal|heal]] yourself in times of need, but harsh consequences should your need become excessive. You took the deal, and now benefit from the blessing but also suffer from a curse.
 
 **Benefit**: You have 2 additional Recoveries.
 
@@ -6010,7 +6011,7 @@ When you want your hero to rifle through a desk and locate a specific document, 
 
 ### WHEN TO MAKE A TEST
 
-The Director should ask a player to make a test only when the player’s hero attempts a task where the consequences of failure are interesting or dramatic, and where failure won’t grind the story to a halt. For example, if a hero wants to leap over a waist-high wall while casually walking through a peaceful city neighborhood, the worst case for failure is probably that the hero falls on their butt, takes no damage, and can stand up to either try again or walk around the wall. As such, no test is required. But if the hero were being chased by enemies, failing to leap over the wall means the pursuers can catch them, so the Director might decide to call for a test to determine what happens.
+The Director should ask a player to make a test only when the player’s hero attempts a task where the consequences of failure are interesting or dramatic, and where failure won’t grind the story to a halt. For example, if a hero wants to leap over a waist-high wall while casually walking through a peaceful city neighborhood, the worst case for failure is probably that the hero falls on their butt, takes no damage, and can [[Stand Up|stand up]] to either try again or walk around the wall. As such, no test is required. But if the hero were being chased by enemies, failing to leap over the wall means the pursuers can catch them, so the Director might decide to call for a test to determine what happens.
 
 The advancement of a story shouldn’t be halted by failing a test. For instance, the heroes might need to know the color of a [[Dwarf|dwarf]] king’s crown to solve a puzzle, with that puzzle opening the only entrance to a tomb they must enter to stop a world-ending ritual. It could be that a successful Reason test allows the heroes to recall that lore, but the test shouldn’t be their only option to get the information. If the test fails, perhaps the heroes need to go to a flying library to do research, or they might be able to delve into a ruin to find the ancient monarch’s portrait. A failed test should always result in a story becoming more interesting, not in the action coming to an end.
 
@@ -6158,7 +6159,7 @@ In lieu of other rewards, the Director can also decide that a hero who succeeds 
 
 #### HOW LONG DOES IT TAKE?
 
-The amount of time required for a task involving a test is determined by the Director. A task such as recalling lore with a Reason test might take no time at all. Ducking behind a barrel to hide with an Agility test might require a maneuver or an action, while tracking a band of voiceless talkers through the World Below could take hours or even days.
+The amount of time required for a task involving a test is determined by the Director. A task such as recalling lore with a Reason test might take no time at all. Ducking behind a barrel to [[Hide|hide]] with an Agility test might require a maneuver or an action, while tracking a band of voiceless talkers through the World Below could take hours or even days.
 
 ##### TESTS DURING COMBAT
 
@@ -6182,7 +6183,7 @@ To quickly assess the difficulty of a task and the test made to attempt it, the 
 - **Moderate Test**: A test is moderate if multiple creatures oppose the hero and those creatures would have lower bonuses to their test rolls than the hero, or if only one creature opposes the hero and has the same test bonus as the hero.
 - **Hard Test**: A test is hard if an opposed creature would have a higher bonus to their test roll than the hero, or if multiple creatures with the same test bonus as the hero oppose the hero.
 
-The failure consequences of opposed actions are some of the easiest to create on the fly. Fail to hide from someone, and they see you. Fail to lie to someone, and they catch your duplicity. Fail to arm wrestle someone for a free ale, and you’re picking up the tab. The consequence is that the opposition bests the hero.
+The failure consequences of opposed actions are some of the easiest to create on the fly. Fail to [[Hide|hide]] from someone, and they see you. Fail to lie to someone, and they catch your duplicity. Fail to arm wrestle someone for a free ale, and you’re picking up the tab. The consequence is that the opposition bests the hero.
 
 #### NPCS ROLL FOR DECEPTIVE TASKS
 
@@ -6229,7 +6230,7 @@ Skills represent the different specializations a hero has outside of attacking, 
 
 #### APPLYING SKILLS
 
-If you have a skill that applies to a test you make, you gain a +2 bonus to the test. For instance, if your hero has the Hide skill, you have a +2 bonus to any test you make that involves hiding yourself. This might include an Agility test to hide behind a barrel, or a Presence test to disappear into a crowd.
+If you have a skill that applies to a test you make, you gain a +2 bonus to the test. For instance, if your hero has the [[Hide]] skill, you have a +2 bonus to any test you make that involves hiding yourself. This might include an Agility test to [[Hide|hide]] behind a barrel, or a Presence test to disappear into a crowd.
 
 Unless the Director deems otherwise, you can make a skill test even when you don’t have the appropriate skill. This means you simply make the test using the typical characteristic but without the +2 bonus the skill grants. You can’t apply more than one skill to a test.
 
@@ -6294,7 +6295,7 @@ Failure consequences for tests made with exploration skills include harming your
 | Drive      | Control vehicles                                            |
 | Endurance  | Remain engaged in strenuous activity over a long period     |
 | Gymnastics | Move across unsteady or narrow surfaces, and tumble         |
-| Heal       | Use mundane first aid                                       |
+| [[Heal]]       | Use mundane first aid                                       |
 | Jump       | Leap vertical and horizontal distances                      |
 | Lift       | Pick up, carry, and throw heavy objects                     |
 | Navigate   | Read a map and travel without becoming lost                 |
@@ -6340,11 +6341,11 @@ Failure consequences for tests made with intrigue skills include getting caught 
 | Skill          | Use                                                                                               |
 | -------------- |---------------------------------------------------------------------------------------------------|
 | Alertness      | Intuitively sense the details of your surroundings                                                |
-| Conceal Object | Hide an object on your person or in your environment                                              |
+| Conceal Object | [[Hide]] an object on your person or in your environment                                              |
 | Disguise       | Change your appearance to look like a different person                                            |
 | Eavesdrop      | Actively listen to something that is hard to hear, such as a whispered conversation through a door |
 | Escape Artist  | Escape from bonds such as rope or manacles                                                        |
-| Hide           | Conceal yourself from others’ observation                                                         |
+| [[Hide]]           | Conceal yourself from others’ observation                                                         |
 | Pick Lock      | Open a lock without using the key                                                                 |
 | Pick Pocket    | Steal an item that another person wears or carries without them noticing                          |
 | Sabotage       | Disable a mechanical device such as a trap                                                        |
@@ -6562,15 +6563,15 @@ If you land on another creature when you fall, that creature takes the same dama
 
 When you first fall from a great height, you fall 100 squares in the first round. At the end of each subsequent round that you remain falling, you fall another 100 squares.
 
-### HIDE AND SNEAK
+### [[Hide|HIDE]] AND SNEAK
 
 Hiding and sneaking are important tools for heroes and their foes. You might want to avoid another creatures’ notice to eavesdrop on conversations, steal items, set up an ambush, or avoid a combat encounter.
 
 #### HIDING
 
-When you wish to hide from a creature, you must have cover or concealment (see Combat) from your foe, and that foe can’t observe you attempting to hide. If you duck behind a barrel to hide from a foe, your attempt to hide has a chance of succeeding only if your foe doesn’t notice you doing so. If you are being chased by a hungry dragon, you can hide only if you first move into a place where the dragon can’t observe you, such as turning a sharp corner into a tunnel full of giant stalagmites before the dragon does. You then make your hide attempt.
+When you wish to [[Hide|hide]] from a creature, you must have cover or concealment (see Combat) from your foe, and that foe can’t observe you attempting to [[Hide|hide]]. If you duck behind a barrel to [[Hide|hide]] from a foe, your attempt to [[Hide|hide]] has a chance of succeeding only if your foe doesn’t notice you doing so. If you are being chased by a hungry dragon, you can [[Hide|hide]] only if you first move into a place where the dragon can’t observe you, such as turning a sharp corner into a tunnel full of giant stalagmites before the dragon does. You then make your [[Hide|hide]] attempt.
 
-Most often, you use the Hide maneuver to hide during combat (see Maneuvers). If you do so while you have cover or concealment from a creature who isn’t observing you, you are automatically hidden from them unless the Director deems otherwise. If you hide outside of combat, the Director might ask you to make a test using the Hide skill.
+Most often, you use the [[Hide]] maneuver to [[Hide|hide]] during combat (see Maneuvers). If you do so while you have cover or concealment from a creature who isn’t observing you, you are automatically hidden from them unless the Director deems otherwise. If you [[Hide|hide]] outside of combat, the Director might ask you to make a test using the [[Hide]] skill.
 
 If you are hidden from another creature, you gain an edge on attacks made against them, and the creature can’t target you with attacks. You are no longer hidden from a creature if you don’t have cover or concealment from them. If you use an ability, interact with an enemy creature, move without sneaking, or otherwise make noise or reveal yourself while hidden, you are no longer hidden once the thing you’re doing resolves. For instance, if you are hidden and then make an attack, you resolve the attack first, then are no longer hidden.
 
@@ -6578,8 +6579,8 @@ If you are hidden from another creature, you gain an edge on attacks made agains
 
 You can search for creatures who are hidden from you as long as those creatures are within 10 squares of you and you have line of effect to them. To do so, you make an Intuition test as a maneuver and assess the result:
 
-- **11 or lower**: You find any hidden creatures with an Agility of 0 or lower and who don’t have the Hide skill.
-- **12–16**: You find any hidden creatures who don’t have the Hide skill.
+- **11 or lower**: You find any hidden creatures with an Agility of 0 or lower and who don’t have the [[Hide]] skill.
+- **12–16**: You find any hidden creatures who don’t have the [[Hide]] skill.
 - **17 or more**: You find all hidden creatures.
 
 As part of this maneuver, you can point out any creatures you find to allies within 10 squares of you, making those creatures no longer hidden from those allies.
@@ -6659,7 +6660,7 @@ Most languages have colloquial or casual names. For instance, many people in Ord
 
 **Hyrallic** is the primary language of the high elves in Orden. Although young for an elven language, Hyrallic is older than almost all other modern cultural languages, save those of the dwarves. As a result, while anyone who lives near or trades with a [[Human|human]] culture probably speaks at least a little Caelian, most nobles across all ancestries make sure their children or offspring speak Hyrallic. Caelian is new from many cultures’ point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
 
-**Yllyric** is the cultural language of wode elves, and also the common language among those who defend and protect the natural forests of Orden.
+**Yllyric** is the cultural language of wode elves, and also the common language among those who [[Defend|defend]] and protect the natural forests of Orden.
 
 Within any document concerning the workings of machines, masonry, or geology, you are likely to find a healthy supply of jargon using **Zaliac**, the most popular dwarven language. Even when such texts aren’t fully written in Zaliac, they use a lot of dwarven language when describing esoteric, complex ideas.
 
@@ -6807,7 +6808,7 @@ Your class, kit, ancestry, titles, and other heroic options give you access to a
 
 Each ability has an evocative name that sets up what it does in the game, followed by a line or two of flavor text that provides a sense of how the use of the ability might appear if described in an action scene in a story.
 
-The name and story text for abilities sometimes make reference to specific ways in which the ability is used—particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the fury’s *[[Impaling Strike]]* ability allows you to grab a target, setting up the idea of harpooning your monstrous foe with a sword, then wrenching them in close before pulling your weapon free. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
+The name and story text for abilities sometimes make reference to specific ways in which the ability is used—particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the fury’s *[[Impaling Strike]]* ability allows you to [[Grab|grab]] a target, setting up the idea of harpooning your monstrous foe with a sword, then wrenching them in close before pulling your weapon free. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
 
 ### RESOURCE COST
 
@@ -6825,9 +6826,9 @@ Abilities with the Area keyword create an area of effect. Many area abilities al
 
 Abilities with the Attack keyword (referred to simply as “attacks”) deal damage to or impose a harmful effect on other creatures.
 
-#### CHARGE
+#### [[Charge|CHARGE]]
 
-Abilities with the Charge keyword can be used with the Charge action in place of a melee free strike (see Charge in Actions in Combat).
+Abilities with the [[Charge]] keyword can be used with the [[Charge]] action in place of a melee [[Free Strike|free strike]] (see [[Charge]] in Actions in Combat).
 
 #### MAGIC
 
@@ -7054,15 +7055,15 @@ If you are [[Frightened|frightened]], attacks you make against the source of you
 
 #### [[Grabbed|GRABBED]]
 
-While you are [[Grabbed|grabbed]], your speed is 0, you can’t be force moved, you can’t use the Knockback maneuver, and you take a bane on attacks that don’t target the creature grabbing you. If the creature grabbing you moves, they bring you with them. If the creature’s size is equal to or less than yours, their speed is halved while they have you [[Grabbed|grabbed]].
+While you are [[Grabbed|grabbed]], your speed is 0, you can’t be force moved, you can’t use the [[Knockback]] maneuver, and you take a bane on attacks that don’t target the creature grabbing you. If the creature grabbing you moves, they bring you with them. If the creature’s size is equal to or less than yours, their speed is halved while they have you [[Grabbed|grabbed]].
 
-The creature grabbing you can use a maneuver to move you into an unoccupied space adjacent to them. The creature grabbing you can end the grab at any time (no action required). You can also attempt to escape being [[Grabbed|grabbed]] (see Escape Grab in Combat). If you teleport or if the creature grabbing you is force moved to a space that isn’t adjacent to you, you are no longer [[Grabbed|grabbed]].
+The creature grabbing you can use a maneuver to move you into an unoccupied space adjacent to them. The creature grabbing you can end the [[Grab|grab]] at any time (no action required). You can also attempt to escape being [[Grabbed|grabbed]] (see [[Escape Grab]] in Combat). If you teleport or if the creature grabbing you is force moved to a space that isn’t adjacent to you, you are no longer [[Grabbed|grabbed]].
 
 #### [[Prone|PRONE]]
 
 While you are [[Prone|prone]], you are flat on the ground, attacks you make take a bane, and melee attacks made against you gain an edge. You must crawl to move along the ground, which costs you 1 additional square of movement for every square you crawl. You can’t climb, jump, swim, or fly while [[Prone|prone]]. If you are climbing, flying, or jumping while you are knocked [[Prone|prone]], you fall.
 
-While [[Prone|prone]], you can stand up as a maneuver (see Maneuvers in Combat), unless the ability or effect that imposed the condition says otherwise. You can use a maneuver to make an adjacent [[Prone|prone]] creature stand up.
+While [[Prone|prone]], you can [[Stand Up|stand up]] as a maneuver (see Maneuvers in Combat), unless the ability or effect that imposed the condition says otherwise. You can use a maneuver to make an adjacent [[Prone|prone]] creature [[Stand Up|stand up]].
 
 #### [[Restrained|RESTRAINED]]
 
@@ -7249,7 +7250,7 @@ You can attempt to climb a creature whose size is greater than yours. If the cre
 
 **Power Roll + Might or Agility:**
 
-- 11 or lower: You fail to climb the creature, and they can make a free strike against you.
+- 11 or lower: You fail to climb the creature, and they can make a [[Free Strike|free strike]] against you.
 - 12–16: You fail to climb the creature.
 - 17+: You climb the creature.
 
@@ -7376,57 +7377,57 @@ A maneuver typically involves less focus and exertion than an action. It can be 
 
 Sometimes you might not have anything you can do with your maneuver. That’s totally fine! Often, the best thing to do on your turn is take an action and move on.
 
-#### AID ATTACK
+#### [[Aid Attack|AID ATTACK]]
 
 Choose an enemy adjacent to you. The next attack an ally makes against that creature before the start of your next turn has an edge.
 
-#### DRINK POTION
+#### [[Drink Potion|DRINK POTION]]
 
 You can use this maneuver to drink a potion yourself or to administer a potion to an adjacent creature.
 
-#### ESCAPE GRAB
+#### [[Escape [[Grab]]|ESCAPE GRAB]]
 
-While you are [[Grabbed|grabbed]] by another creature (see Grab below), you can attempt to escape by making a resistance roll. You take a bane on the roll if the creature’s size is larger than yours.
+While you are [[Grabbed|grabbed]] by another creature (see [[Grab]] below), you can attempt to escape by making a resistance roll. You take a bane on the roll if the creature’s size is larger than yours.
 
 **Power Roll + Might or Agility:**
 
-- 11 or lower: You fail to escape the grab.
-- 12–16: You can escape the grab, but if you do, the creature grabbing you can make a melee free strike against you before you are no longer [[Grabbed|grabbed]].
+- 11 or lower: You fail to escape the [[Grab|grab]].
+- 12–16: You can escape the [[Grab|grab]], but if you do, the creature grabbing you can make a melee [[Free Strike|free strike]] against you before you are no longer [[Grabbed|grabbed]].
 - 17+: You are no longer [[Grabbed|grabbed]].
 
-#### GRAB
+#### [[Grab|GRAB]]
 
-You attempt to grab a creature using the following ability:
+You attempt to [[Grab|grab]] a creature using the following ability:
 
-**GRAB**
+**[[Grab|GRAB]]**
 
-- Keywords: Melee
-- Type: Maneuver
-- Distance: Reach 1
-- Target: 1 creature the same size or smaller than you
+- **Keywords:** Melee
+- **Type:** Maneuver
+- **Distance:** Reach 1
+- **Target:** 1 creature the same size or smaller than you
 
 **Power Roll + Might:**
 
 - 11 or lower: No effect
-- 12–16: You can grab the target, but if you do, they can make a melee free strike against you right before they become [[Grabbed|grabbed]] by you.
+- 12–16: You can [[Grab|grab]] the target, but if you do, they can make a melee [[Free Strike|free strike]] against you right before they become [[Grabbed|grabbed]] by you.
 - 17+: The target is [[Grabbed|grabbed]] by you.
 
-**Effect:** You gain an edge on the power roll if the creature’s size is smaller than yours. You can grab only one creature at a time this way.
+**Effect:** You gain an edge on the power roll if the creature’s size is smaller than yours. You can [[Grab|grab]] only one creature at a time this way.
 
-#### HIDE
+#### [[Hide|HIDE]]
 
-Using the Hide maneuver, you attempt to hide from other creatures who aren’t observing you while you have cover or concealment (see Hide and Sneak).
+Using the [[Hide]] maneuver, you attempt to [[Hide|hide]] from other creatures who aren’t observing you while you have cover or concealment (see [[Hide]] and Sneak).
 
-#### KNOCKBACK
+#### [[Knockback|KNOCKBACK]]
 
 You attempt to shove an adjacent creature using the following ability:
 
-**KNOCKBACK**
+**[[Knockback|KNOCKBACK]]**
 
-- Keywords: Melee
-- Type: Maneuver
-- Distance: Reach 1
-- Target: 1 creature the same size or smaller than you
+- **Keywords:** Melee
+- **Type:** Maneuver
+- **Distance:** Reach 1
+- **Target:** 1 creature the same size or smaller than you
 
 **Power Roll + Might:**
 
@@ -7436,70 +7437,70 @@ You attempt to shove an adjacent creature using the following ability:
 
 **Effect:** You gain an edge on the power roll if the creature’s size is smaller than yours.
 
-#### MAKE OR ASSIST A TEST
+#### [[Make Or Assist A Test|MAKE OR ASSIST A TEST]]
 
 Many tests are maneuvers if made in combat. Searching a chest with a Reason test, picking a door’s lock with an Agility test, or lifting a portcullis with a Might test would all be maneuvers. Assisting a test is also a maneuver in combat.
 
 Complex or time-consuming tests might require an action if made in combat—or could take so long that they can’t be made during combat at all. Other tests that take no time at all, such as a Reason test to recall lore about mummies, are usually free maneuvers in combat. The Director has the final say regarding which tests can be made as maneuvers.
 
-#### SEARCH FOR HIDDEN CREATURES
+#### [[Search For Hidden Creatures|SEARCH FOR HIDDEN CREATURES]]
 
-You can use this maneuver to attempt to search for creatures hidden from you (see Hide and Sneak).
+You can use this maneuver to attempt to search for creatures hidden from you (see [[Hide]] and Sneak).
 
-#### STAND UP
+#### [[Stand Up|STAND UP]]
 
-You can use this maneuver to stand up if you are [[Prone|prone]], ending that condition. Alternatively, you can use this maneuver to make an adjacent [[Prone|prone]] creature stand up.
+You can use this maneuver to [[Stand Up|stand up]] if you are [[Prone|prone]], ending that condition. Alternatively, you can use this maneuver to make an adjacent [[Prone|prone]] creature [[Stand Up|stand up]].
 
 ### ACTIONS
 
-When you take an action on your turn, you most often do so to use a unique ability defined on your character sheet (see Abilities). These abilities are the most unique, flavorful, and impactful things you can do with your action. You can also use your action to catch your breath, help another creature regain Stamina, charge into battle, defend yourself, or make a free strike.
+When you take an action on your turn, you most often do so to use a unique ability defined on your character sheet (see Abilities). These abilities are the most unique, flavorful, and impactful things you can do with your action. You can also use your action to catch your breath, help another creature regain Stamina, [[Charge|charge]] into battle, [[Defend|defend]] yourself, or make a [[Free Strike|free strike]].
 
-#### CATCH BREATH
+#### [[Catch Breath|CATCH BREATH]]
 
-By using the Catch Breath action, you spend a Recovery and heal an amount equal to your recovery value. In addition, you also gain the benefit of the Defend action.
+By using the [[Catch Breath]] action, you spend a Recovery and [[Heal|heal]] an amount equal to your recovery value. In addition, you also gain the benefit of the [[Defend]] action.
 
-If you are dying (see Dying and Death in Stamina), you can’t take the Catch Breath action, but other creatures can help you spend recoveries.
+If you are dying (see Dying and Death in Stamina), you can’t take the [[Catch Breath]] action, but other creatures can help you spend recoveries.
 
-#### CHARGE
+#### [[Charge|CHARGE]]
 
-When you take the Charge action, you move up to your speed in a straight line, then make a melee free strike (see Free Strikes) against a creature when you end your move. You can’t shift when you charge.
+When you take the [[Charge]] action, you move up to your speed in a straight line, then make a melee [[Free Strike|free strike]] (see Free Strikes) against a creature when you end your move. You can’t shift when you [[Charge|charge]].
 
-#### DEFEND
+#### [[Defend|DEFEND]]
 
-When you take the Defend action, all attacks against you have a double bane until the end of your next turn. You gain no benefit from this action while another creature is [[Taunted|taunted]] by you (see Conditions).
+When you take the [[Defend]] action, all attacks against you have a double bane until the end of your next turn. You gain no benefit from this action while another creature is [[Taunted|taunted]] by you (see Conditions).
 
-#### FREE STRIKE
+#### [[Free Strike|FREE STRIKE]]
 
-You can use this action to make a free strike (see Free Strikes). Most of the time, you’ll want to use the more impactful actions found on your character sheet, just as the director will use the actions in a creature’s stat block, but free strikes are always available for when all else fails. For instance, a fury who has no other options for ranged attacks might use the Ranged Weapon Free Strike attack with an improvised weapon when battling a flying creature.
+You can use this action to make a [[Free Strike|free strike]] (see Free Strikes). Most of the time, you’ll want to use the more impactful actions found on your character sheet, just as the director will use the actions in a creature’s stat block, but free strikes are always available for when all else fails. For instance, a fury who has no other options for ranged attacks might use the Ranged Weapon [[Free Strike]] attack with an improvised weapon when battling a flying creature.
 
-#### HEAL
+#### [[Heal|HEAL]]
 
 You use your action to employ medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The creature can spend a Recovery to regain Stamina, or can make a resistance roll against a “(resistance ends)” effect they are suffering.
 
 ### FREE STRIKES
 
-Every creature can make a **free strike** as an action on their turn, though doing so typically isn’t the most effective choice. Most of the time, you’ll use free strikes when the rules call for it. Specific rules let you use free strikes as part of an action that allows you to also do something else impactful, such as how the Charge action lets you move and use a melee free strike in one action (see Charge above).
+Every creature can make a **[[Free Strike|free strike]]** as an action on their turn, though doing so typically isn’t the most effective choice. Most of the time, you’ll use free strikes when the rules call for it. Specific rules let you use free strikes as part of an action that allows you to also do something else impactful, such as how the [[Charge]] action lets you move and use a melee [[Free Strike|free strike]] in one action (see [[Charge]] above).
 
-Many rules and abilities allow heroes to make free strikes when it isn’t their turn, such as the tactician’s [[Overwatch]] ability. As well, all characters can make an opportunity attack free strike.
+Many rules and abilities allow heroes to make free strikes when it isn’t their turn, such as the tactician’s [[Overwatch]] ability. As well, all characters can make an opportunity attack [[Free Strike|free strike]].
 
 #### OPPORTUNITY ATTACKS
 
-Whenever a creature within the reach of your melee free strike moves out of it without shifting, you can take advantage of their movement to quickly make a melee free strike against them as a free triggered action. This is called an opportunity attack.
+Whenever a creature within the reach of your melee [[Free Strike|free strike]] moves out of it without shifting, you can take advantage of their movement to quickly make a melee [[Free Strike|free strike]] against them as a free triggered action. This is called an opportunity attack.
 
-If you have a bane or double bane on the power roll against the creature, you can’t make the free strike.
+If you have a bane or double bane on the power roll against the creature, you can’t make the [[Free Strike|free strike]].
 
 #### STANDARD FREE STRIKES
 
-Every hero has two standard free strikes available to them. Your class might give you additional free strike options, and your kit can improve the standard options (see Kits).
+Every hero has two standard free strikes available to them. Your class might give you additional [[Free Strike|free strike]] options, and your kit can improve the standard options (see Kits).
 
-A melee weapon free strike is a melee attack made with an unarmed strike or an improvised weapon. A ranged weapon free strike is a ranged attack made with an improvised weapon. At the Director’s discretion, the damage type of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage.
+A melee weapon [[Free Strike|free strike]] is a melee attack made with an unarmed strike or an improvised weapon. A ranged weapon [[Free Strike|free strike]] is a ranged attack made with an improvised weapon. At the Director’s discretion, the damage type of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage.
 
-##### MELEE WEAPON FREE STRIKE
+##### MELEE WEAPON [[Free Strike|FREE STRIKE]]
 
-- Keywords: Attack, Melee, Weapon
-- Type: Action
-- Distance: Reach 1
-- Target: 1 creature or object
+- **Keywords:** Attack, Melee, Weapon
+- **Type:** Action
+- **Distance:** Reach 1
+- **Target:** 1 creature or object
 
 **Power Roll + Might or Agility:**
 
@@ -7507,12 +7508,12 @@ A melee weapon free strike is a melee attack made with an unarmed strike or an i
 - 12–16: 6 damage
 - 17+: 9 damage
 
-##### RANGED WEAPON FREE STRIKE
+##### RANGED WEAPON [[Free Strike|FREE STRIKE]]
 
-- Keywords: Attack, Ranged, Weapon
-- Type: Action
-- Distance: Ranged 5
-- Target: 1 creature or object
+- **Keywords:** Attack, Ranged, Weapon
+- **Type:** Action
+- **Distance:** Ranged 5
+- **Target:** 1 creature or object
 
 **Power Roll + Might or Agility:**
 
@@ -7534,7 +7535,7 @@ When you have line of effect to a creature or object but that target has at leas
 
 ### CONCEALMENT
 
-Darkness, fog, invisibility magic, and any other effect that fully obscures a creature but doesn’t protect their body grants that creature concealment. You can target a creature who has concealment with attacks, provided they aren’t hidden (see Hide and Sneak in Adventuring). However, attacks against such creatures take a bane. Even if you have line of effect to a creature, they have concealment from you if you can’t see them.
+Darkness, fog, invisibility magic, and any other effect that fully obscures a creature but doesn’t protect their body grants that creature concealment. You can target a creature who has concealment with attacks, provided they aren’t hidden (see [[Hide]] and Sneak in Adventuring). However, attacks against such creatures take a bane. Even if you have line of effect to a creature, they have concealment from you if you can’t see them.
 
 #### INVISIBLE CREATURES
 
@@ -7578,7 +7579,7 @@ After any damage you take is reduced by damage immunity or other effects, your S
 
 #### RECOVERIES AND RECOVERY VALUE
 
-Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their Stamina, rounded down. When you use the Catch Breath action (see Actions), you spend a Recovery and regain Stamina equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain Stamina equal to your recovery value plus a little extra (as described by the effect), or to regain Stamina without spending a Recovery.
+Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their Stamina, rounded down. When you use the [[Catch Breath]] action (see Actions), you spend a Recovery and regain Stamina equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain Stamina equal to your recovery value plus a little extra (as described by the effect), or to regain Stamina without spending a Recovery.
 
 #### WINDED
 
@@ -7588,7 +7589,7 @@ You can tell when other creatures are winded and vice versa.
 
 #### DYING AND DEATH
 
-When your Stamina is 0 or lower, you are dying. While dying, you can’t take the Catch Breath action in combat, and whenever you make a test using Might or Agility, make an attack, or use an action, maneuver, or a triggered action, you lose 1d6 Stamina after the action, maneuver, or triggered action is resolved. This Stamina loss can’t be prevented in any way. While you are dying, your allies can help you spend recoveries in combat, and you can spend Recoveries out of combat as usual.
+When your Stamina is 0 or lower, you are dying. While dying, you can’t take the [[Catch Breath]] action in combat, and whenever you make a test using Might or Agility, make an attack, or use an action, maneuver, or a triggered action, you lose 1d6 Stamina after the action, maneuver, or triggered action is resolved. This Stamina loss can’t be prevented in any way. While you are dying, your allies can help you spend recoveries in combat, and you can spend Recoveries out of combat as usual.
 
 While your Stamina is lower than 0, if it reaches the negative of your winded value, you die. When you die, you can’t be brought back to life without the use of a special powerful item such as a Scroll of Resurrection.
 
@@ -7608,7 +7609,7 @@ Director-controlled creatures remain unconscious for 1 hour if no one does anyth
 
 ##### UNCONSCIOUS
 
-While you are unconscious, you can’t take actions, maneuvers, triggered actions, free triggered actions, or free maneuvers; your speed is 0; you are unaware of your surroundings; and you are [[Prone|prone]]. Attacks against you have a double edge. If you wake up from being unconscious, you can stand up from [[Prone|prone]] as a free maneuver.
+While you are unconscious, you can’t take actions, maneuvers, triggered actions, free triggered actions, or free maneuvers; your speed is 0; you are unaware of your surroundings; and you are [[Prone|prone]]. Attacks against you have a double edge. If you wake up from being unconscious, you can [[Stand Up|stand up]] from [[Prone|prone]] as a free maneuver.
 
 #### TEMPORARY STAMINA
 
@@ -7914,11 +7915,11 @@ Arguments that appeal to a power motivation contend that working with the heroes
 
 ##### PROTECTION
 
-An NPC with the protection motivation has land, people, information, items, or an organization they want protected above all else. Keeping their charge safe is a duty they hold dear, and aiding in that protection earns their favor. Most people have friends or family they wish to protect, but an NPC with the protection motivation believes in doing so above all else.
+An NPC with the protection motivation has land, people, information, items, or an organization they want protected above all else. Keeping their [[Charge|charge]] safe is a duty they hold dear, and aiding in that protection earns their favor. Most people have friends or family they wish to protect, but an NPC with the protection motivation believes in doing so above all else.
 
 An NPC with the protection pitfall is happy to leave others to fend for themselves. They don’t believe that it’s their responsibility to protect anyone other than themself, and might be outright disgusted at the thought of risking themself or their property to protect others.
 
-Arguments that appeal to a protection motivation contend that helping the heroes allows an NPC to better protect their charge. Example arguments include the following:
+Arguments that appeal to a protection motivation contend that helping the heroes allows an NPC to better protect their [[Charge|charge]]. Example arguments include the following:
 
 - "Dead soldiers grow the necromancer’s ranks. Total annihilation is the only way to defeat her. March with us now, while her army is small, and we’ll defeat her. Or..."
 
@@ -7930,7 +7931,7 @@ An NPC with the revelry pitfall sees social encounters and hedonism as a waste o
 
 Arguments that appeal to the revelry motivation contend that striking a deal with the heroes will allow the NPC to get back to reveling sooner, longer, or harder. Example arguments include the following:
 
-- "How would you like to have the most exclusive songs for your exclusive birthday celebration next week? I’ll write you a whole original set list, free of charge … provided you extend me and my band here an invitation."
+- "How would you like to have the most exclusive songs for your exclusive birthday celebration next week? I’ll write you a whole original set list, free of [[Charge|charge]] … provided you extend me and my band here an invitation."
 - "I know you don’t want to forge five Chronokinesis Crowns. How’s this instead? You do that for me, and I’ll give you the fourteen kegs of whiskey we found in a steel-[[Dwarf|dwarf]] ruin. This stuff is old, unique, and forget-your-first-name potent. You can crack a keg with your friends to celebrate a job well done."
 
 ##### VENGEANCE
