@@ -23,7 +23,7 @@ You wield an implement of wood such as an orb or a hooked rod.
 You lob your implement at high speed toward your opponent, unleashing a chaotic flare of magic.
 
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
-| ----------------------------------- | -------------------------------- |
+| :---------------------------------- | :------------------------------- |
 | **Distance:** Ranged 15             | **Target:** 1 creature or object |
 
 **Power Roll** + Reason, Intuition, or Presence:

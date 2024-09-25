@@ -1,13 +1,14 @@
 ---
-name: Brute Precision (5 Rage)
-type: 5-rage Abilities
-source: Fury
-cost: 5 RAGE
+title: Brute Precision (5 Rage)
+name: 'Brute Precision '
+type: abilities
+cost: 5 Rage
+subtype: fury
 ---
 
 # Brute Precision (5 Rage)
 
-*You can always trust your anger to get the job done.*
+You can always trust your anger to get the job done.
 
 | **Keywords:** —    | **Type:** Free maneuver |
 | :----------------- | :---------------------- |

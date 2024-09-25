@@ -25,7 +25,7 @@ You wear light armor and wield a medium weapon.
 **Fancy Footwork** All combat is a dance—and you'll be the one leading.
 
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
-| ----------------------------------- | ---------------------- |
+| :---------------------------------- | :--------------------- |
 | **Distance:** Reach 1               | **Target:** 1 creature |
 
 **Power Roll + Might or Agility:**

@@ -1,13 +1,14 @@
 ---
-name: Phalanx Forward! (3 Focus)
-type: 3-focus Abilities
-source: Tactician
-cost: 3 FOCUS
+title: Phalanx Forward! (3 Focus)
+name: 'Phalanx Forward! '
+type: abilities
+cost: 3 Focus
+subtype: tactician
 ---
 
 # Phalanx Forward! (3 Focus)
 
-*On your command, you and your allies force back the enemy line.*
+On your command, you and your allies force back the enemy line.
 
 | **Keywords:** Ranged, Weapon | **Type:** Maneuver              |
 | :--------------------------- | :------------------------------ |

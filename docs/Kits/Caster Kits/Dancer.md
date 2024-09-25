@@ -23,7 +23,7 @@ You don a tiny implement of glass such as a pendant or an anklet.
 Visible energy sparks off you to wash across a nearby foe, who you invite to dance with you.
 
 | **Keywords:** Attack, Magic, Melee | **Type:** Action                 |
-| ---------------------------------- | -------------------------------- |
+| :--------------------------------- | :------------------------------- |
 | **Distance:** Reach 2              | **Target:** 1 creature or object |
 
 **Power Roll** + Agility, Intuition, or Presence:

@@ -102,10 +102,9 @@ Additionally, you gain the following ability.
 
 A magical sigil you placed on a creature explodes with energy.
 
-- **Keywords**: Attack, Magic, Ranged
-- **Type**: Action
-- **Distance**: Ranged 10
-- **Target**: 1 creature with your sigil
+| **Keywords:** Attack, Magic, Ranged | **Type:** Action                       |
+| :---------------------------------- | :------------------------------------- |
+| **Distance:** Ranged 10             | **Target:** 1 creature with your sigil |
 
 **Power Roll** + Reason, Intuition, or Presence:
 

@@ -27,7 +27,7 @@ You wear light armor and wield one or two light weapons.
 **Fade** A stab, and a few quick, careful steps back.
 
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
-| ------------------------------------------- | ---------------------- |
+| :------------------------------------------ | :--------------------- |
 | **Distance:** Reach 1 or range 10           | **Target:** 1 creature |
 
 **Power Roll + Might or Agility:**

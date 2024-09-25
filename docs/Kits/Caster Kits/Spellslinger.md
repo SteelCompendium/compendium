@@ -24,7 +24,7 @@ You wield an implement of metal, such as a knife or a scepter.
 Two beams of supernatural force lance out at your command.
 
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                   |
-| ----------------------------------- | ---------------------------------- |
+| :---------------------------------- | :--------------------------------- |
 | **Distance:** Ranged 10             | **Target:** 2 creatures or objects |
 
 **Power Roll** + Reason, Intuition, or Presence:

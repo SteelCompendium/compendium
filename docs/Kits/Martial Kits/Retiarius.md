@@ -26,7 +26,7 @@ You wear light armor, and wield a polearm and several ensnaring weapons.
 **Net and Stab** The well-thrown net that follows your main attack leaves your foes right where you want them.
 
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
-| ----------------------------------- | ---------------------- |
+| :---------------------------------- | :--------------------- |
 | **Distance:** Reach 2               | **Target:** 1 creature |
 
 **Power Roll + Might or Agility:**

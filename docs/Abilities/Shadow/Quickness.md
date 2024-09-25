@@ -1,13 +1,14 @@
 ---
-name: Quickness (5 Insight)
-type: 5-insight Abilities
-source: Shadow
-cost: 5 INSIGHT
+title: Quickness (5 Insight)
+name: 'Quickness '
+type: abilities
+cost: 5 Insight
+subtype: shadow
 ---
 
 # Quickness (5 Insight)
 
-*You put on a burst of magical speed to get the job done.*
+You put on a burst of magical speed to get the job done.
 
 | **Keywords:** Magic | **Type:** Action |
 | :------------------ | :--------------- |

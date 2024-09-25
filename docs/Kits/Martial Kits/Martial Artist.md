@@ -25,7 +25,7 @@ You wear no armor and wield only your unarmed strikes.
 **Battle Grace** You feint to move your enemies into perfect position.
 
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
-| ----------------------------------- | ---------------------- |
+| :---------------------------------- | :--------------------- |
 | **Distance:** Reach 1               | **Target:** 1 creature |
 
 **Power Roll + Might or Agility:**
