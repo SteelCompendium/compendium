@@ -234,14 +234,6 @@ t3: Grant a Double-Edge on Test
 - *[[Draw Steel Rules#MONTAGE TEST OUTCOMES|Draw Steel Rules: Montage Test Outcomes]]*
 - *[[Draw Steel Rules#MONTAGE TEST DIFFICULTY|Draw Steel Rules: Montage Test Difficulty]]*
 
-## Resistance Roll
-
-%% TODO %%
-
-*Also see:* 
-- *[[Draw Steel Rules#RESISTANCE ROLLS|Draw Steel Rules: Resistance Rolls]]*
-- *[[Draw Steel Rules#RESISTANCE ROLLS|Draw Steel Rules: Resistance Rolls]]*
-
 ## Initiative
 
 - Creatures not ready are [[#Surprised]]
@@ -837,7 +829,7 @@ indent: 1
 
 #### Slamming Into Objects
 
-- Conditions 
+- Conditions:
 	- [[#Forced Movement]] into a stationary object
 	- Creature is lighter than the object
 		- (if equal or heavier, use [[#Hurling Through Objects]] rules)
@@ -849,7 +841,7 @@ indent: 1
 
 #### Hurling Through Objects
 
-- Conditions 
+- Conditions:
 	- [[#Forced Movement]] into a stationary object
 	- Creature weight is equal-to or heavier than the object
 		- (if lighter, use [[#Slamming Into Objects]] rules)
@@ -1021,26 +1013,77 @@ Pseudo-Conditions
 ## Area of Effect
 
 %% TODO %%
+
+- Origin Square
+	- Must be within your [[#Line of Effect]]
+	- Must be within the `within X` distance to you
+- Does not pass through barriers and doesn't spread around corners 
 - [[#Area of Effect]] are not [[#Attack|Attacks]]
+
+![[AreaEffects.png]]
+
+![[AreaEffectExamples.png]]
 
 Also see: 
 - [[Draw Steel Rules#AREA ABILITIES|Draw Steel Rules: Area Abilities]]
 
 ## Effects
 
-%% TODO %%
+- End when the encounter is over, unless otherwise specified
 
 *Also see: [[Draw Steel Rules#EFFECT|Draw Steel Rules: Effect]]*
 
+## EoT
+
+- "End of Turn"
+- Effect lasts until end of the creature's next turn
+
+*Also see: [[Draw Steel Rules#EOT|Draw Steel Rules: EoT]]*
+
+## EoE
+
+- "End of Encounter"
+- Effect lasts until the end of the encounter
+
+## Resistance Roll
+
+- aka "(`CHARACTERISTIC` resistance ends)"
+- Creature makes a resistance roll and the of their (?) turn to remove the effect
+
+```ds-pr
+name: End Effect with Resistance Roll
+roll: Power Roll + [CHARACTERISTIC]
+t1: The effect persists
+t2: The effect ends at the end of your next turn
+t3: The effect ends immediately
+```
+
+*Also see:* 
+- *[[Draw Steel Rules#RESISTANCE ROLLS|Draw Steel Rules: Resistance Rolls]]*
+- *[[Draw Steel Rules#RESISTANCE ROLLS AND EFFECTS|Draw Steel Rules: Resistance Rolls and Effects]]*
+
 ## Line of Effect
 
-%% TODO %%
+- Low if unobstructed line from any of your corners to any of their corners
+- No LoE if solid object completely blocks
+- Flimsy or fragile obstructions (ex: glass) don't block LoE (Director discretion)
+
+![[LineOfEffect.png]]
 
 *Also see: [[Draw Steel Rules#LINE OF EFFECT|Draw Steel Rules: Line of Effect]]*
 
+## Straight Line
+
+![[StraightLines.png]]
+
+*Also see: [[Draw Steel Rules#STRAIGHT LINE|Draw Steel Rules: Straight Line]]
+
 ## Improvised Weapons
 
-%% TODO %%
+- Any weapons not included in your [[#Kit]] count as an Improvised Weapon
+	- Feet/Fists are Improvised Weapons unless using a [[#Kit]] with Unarmed Strikes
+- Gain no bonus from your [[#Kit]]
+- Used for Weapon Attacks
 
 *Also see: [[Draw Steel Rules#IMPROVISED WEAPONS|Draw Steel Rules: Improvised Weapons]]*
 
@@ -1072,6 +1115,15 @@ Also see:
 - Regain all Recoveries after a [[#Respite]]
 - Director-controlled creatures dont have Recoveries
 	- But they may still heal 1/3 max Stamina if creature uses an ability that allows then to use a Recovery
+
+*Also see:* 
+- *[[Draw Steel Rules#RECOVERIES|Draw Steel Rules: Recoveries]]*
+- *[[Draw Steel Rules#RECOVERIES AND RECOVERY VALUE|Draw Steel Rules: Recoveries and Recovery Value]]*
+
+### Recovery Value
+
+- 1/2 max Stamina
+- Also see [[#Recovery]]
 
 *Also see:* 
 - *[[Draw Steel Rules#RECOVERIES|Draw Steel Rules: Recoveries]]*
@@ -1149,9 +1201,13 @@ Also see:
 
 ## Hero Token
 
-%% TODO %%
+- Spent on a Hero's turn or when they take damage
+	- No Action required
+- Regain [[#Recovery Value]] Stamina (1/3 Max)
 
-*Also see: [[Draw Steel Rules#HERO TOKENS|Draw Steel Rules: Hero Tokens]]*
+*Also see: *
+- *[[Draw Steel Rules#HERO TOKENS|Draw Steel Rules: Hero Tokens]]*
+- *[[Draw Steel Rules#FOR THE DIRECTOR AWARDING HERO TOKENS|Draw Steel Rules: For the Director: Awarding Hero Tokens]]*
 
 ## Villain Power
 
