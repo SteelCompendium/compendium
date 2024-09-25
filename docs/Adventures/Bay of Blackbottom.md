@@ -259,7 +259,7 @@ _Water flooding the cargo hold stops the fire even as you get the leaks repaired
 
 If the heroes earn a total failure, Captain Oriel realizes they can’t stop the runaway fires. She orders everyone off the ship, with many passengers injured in the attack or the evacuation. Each hero emerges from the ordeal exhausted, and loses two recoveries.
 
-_The Revelation’s wake is dotted with lifeboats carrying crew members and passengers to safety. Captain Oriel stands on the nearest one, calling up to you. “No cargo’s as precious as life!” she barks. “Jump, before you can’t!”_
+_The Revelation’s wake is dotted with lifeboats carrying crew members and passengers to safety. Captain Oriel stands on the nearest one, calling up to you. “No cargo’s as precious as life!” she barks. “[[Jump]], before you can’t!”_
 
 Allow the heroes to narrate how they get into Oriel’s boat, then read:
 

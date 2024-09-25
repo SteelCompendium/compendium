@@ -15,6 +15,6 @@ The Primordial Chaos allows you to redirect kinetic energy for a monstrous smash
 
 - **Trigger:** The target is force moved.
 
-**Effect:** You can select a new target of the same size or smaller within distance to be force moved instead. Additionally, you can increase the forced move distance by a number of squares equal to your Might score. You can use your Primordial Strength benefit to make this forced movement vertical.
+**Effect:** You can select a new target of the same size or smaller within distance to be force moved instead. Additionally, you can increase the forced move distance by a number of squares equal to your Might score. You can use your Primordial Strength benefit to make this [[Forced Movement|forced movement]] vertical.
 
 **Spend 1 Rage:** You can increase the forced move distance by a number of squares equal to twice your Might score instead.

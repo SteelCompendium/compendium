@@ -20,4 +20,4 @@ A resounding clap of thunder disrupts your foes.
 - 12–16: 5 sonic damage; push 3
 - 17+: 8 sonic damage; push 5
 
-**Effect**: You can also push each willing ally in the area, and their stability doesn't count against this forced movement.
+**Effect**: You can also push each willing ally in the area, and their stability doesn't count against this [[Forced Movement|forced movement]].

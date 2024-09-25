@@ -48,7 +48,7 @@ The polder put his drink down. “Oh, thank you. Thank you very much. You know, 
 
 “You're talking just … my voice is just as loud as yours!”
 
-“I mean the way you walk around. Just the way you move, the way you [[Stand Up|stand up]] and sit down. You make so much goddamn noise.”
+“I mean the way you [[Walk|walk]] around. Just the way you move, the way you [[Stand Up|stand up]] and sit down. You make so much goddamn noise.”
 
 Jago, Sarah, and Beth all smiled at the exchange.
 
@@ -106,7 +106,7 @@ John turned to Embers. “I thought he was a thief.”
 
 “You were a thief.”
 
-“Yeah, I was with the Clock. Probably still am—they don't exactly let you just walk away. We sort of have an agreement. I agree to do what they tell me and they agree not to tell me to do anything.”
+“Yeah, I was with the Clock. Probably still am—they don't exactly let you just [[Walk|walk]] away. We sort of have an agreement. I agree to do what they tell me and they agree not to tell me to do anything.”
 
 “Did they kick you out, or did you quit?”
 

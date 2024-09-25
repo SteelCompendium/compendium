@@ -19,4 +19,4 @@ A sudden storm of detritus assaults your foes and leaves them struggling to move
 - 12–16: 3 damage
 - 17+: 4 damage
 
-**Effect**: The ground beneath the area becomes difficult terrain for your enemies.
+**Effect**: The ground beneath the area becomes [[Difficult Terrain|difficult terrain]] for your enemies.

@@ -52,7 +52,7 @@ The Pillar shook her head. “No, I do not wot of your hills. I am from the hill
 
 “Did she look like herself?” the Arrow asked, smiling, enjoying a moment of shared experience with the giant woman.
 
-The Pillar chuckled, and the Arrow's chest vibrated with the force of it. “No, she looked like an agéd wise woman of Vanigar. I think only in fabled Alloy could the Memory of a Sunset at Dawn walk the streets without ‘scaring the horses,' as they say.”
+The Pillar chuckled, and the Arrow's chest vibrated with the force of it. “No, she looked like an agéd wise woman of Vanigar. I think only in fabled Alloy could the Memory of a Sunset at Dawn [[Walk|walk]] the streets without ‘scaring the horses,' as they say.”
 
 “Alloy?”
 
@@ -72,7 +72,7 @@ The Pillar looked at the Arrow out of the corner of her eye. “You'll see,” s
 
 “Is it like a dream or a nightmare?” The Arrow wasn't sure how much it was okay to ask.
 
-“No, it was not a dream, it was a thing that happened.” She turned to face the Arrow and leaned her massive arms on her legs. “I know not how it is for other doomseekers, but this is how it was for me. I was collecting flecks of jasper, a … a mineral we add to our food. I was picking flakes of rock up off the ground when I saw a bee that could not fly and a horde of ants all around, one with wings. In that moment, that was all that I could see. It was like the rest of the world fell away, and the bee and the ants filled my sight. Though the bee was surrounded and the ants seemed to go on forever, I could see the ants were afraid. There were dozens of dead ants on the ground.”
+“No, it was not a dream, it was a thing that happened.” She turned to face the Arrow and leaned her massive arms on her legs. “I know not how it is for other doomseekers, but this is how it was for me. I was collecting flecks of jasper, a … a mineral we add to our food. I was picking flakes of rock up off the ground when I saw a bee that could not [[Fly|fly]] and a horde of ants all around, one with wings. In that moment, that was all that I could see. It was like the rest of the world fell away, and the bee and the ants filled my sight. Though the bee was surrounded and the ants seemed to go on forever, I could see the ants were afraid. There were dozens of dead ants on the ground.”
 
 “What did you do?”
 
@@ -94,7 +94,7 @@ The Pillar shrugged, giant muscles in her shoulders rippling. “That was the en
 
 “Oh, feeling sorry for it, I placed my finger gently on the ground, and you must see,” she held up her pinky, “even my little finger is like a mighty wall for the bee. I sought only to protect it from the ants, but it quickly scrambled onto my finger, and after I stood up, it cleaned itself and flew away.”
 
-“It could fly!” the Arrow said, suddenly full of youthful exuberance. “It could fly the entire time! It was just waiting … for someone else to come along.”
+“It could [[Fly|fly]]!” the Arrow said, suddenly full of youthful exuberance. “It could [[Fly|fly]] the entire time! It was just waiting … for someone else to come along.”
 
 The Arrow stared, wide-eyed at the Pillar. Even before the young man spoke, the hakaan talent's eyes widened in realization. “My vision …” she said.
 

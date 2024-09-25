@@ -10,7 +10,7 @@ This game will absolutely feature dungeons. Ancient underground complexes filled
 
 You can fight monsters in a dungeon, but the game is not about dungeons. Lots of games focus on that gameplay and do it really well! Like Shadowdark.
 
-It’s not a wilderness exploration game, aka a hex crawl. It’s not about surviving in extreme weather, getting lost, or trying to navigate your way back to safety.
+It’s not a wilderness exploration game, aka a hex [[Crawl|crawl]]. It’s not about surviving in extreme weather, getting lost, or trying to navigate your way back to safety.
 
 You can fight monsters in the wilderness, even run a whole campaign in the wilderness, but this game is not about the wilderness. We love games that focus on that fantasy, like *Forbidden Lands*.
 
@@ -94,7 +94,7 @@ Here are a few key distinctions between this game and typical d20 fantasy that y
 - **Smaller bonuses and penalties** *Draw Steel* is built around the roll of two ten-sided dice to produce three possible outcomes. On the surface, this might not seem that different from rolling a twenty-sided die and having two outcomes, but we’ve run the math. A lot. A bonus of +1 or penalty of −2 is significant in *Draw Steel*, much more so than in a typical d20 fantasy game. That means you should feel pretty good attempting most power rolls—the rolls you make to determine success out of combat—if you have a decent characteristic bonus on those rolls. And if you have a specific skill that applies to a power roll made as a test outside of combat, you’ll do even better.
 - **Our game has a lot of skills** Your character can make use of a long list of skills, but we don’t expect you to memorize that list. We get into why there are so many skills in the *Tests* chapter, but the short version is that we think having a lot of skills allows you to create more distinct and specialized heroes, which supports the sort of gameplay we want to see in *Draw Steel*. And skills in *Draw Steel* aren’t tied to characteristics. If you’re trying to lose someone in a crowd? You can use Presence to [[Hide]]! Why not?
 - **We won’t be able to point out every difference.** Beyond what’s noted here, don’t assume that these rules work like any d20 fantasy game you’ve played. We don’t have the space to point out every exception. So if you’re in doubt about how something works, put d20 fantasy out of your mind and read our rules without those assumptions, and you’ll find that things make better sense. If you’re still confused, stop by the MCDM Discord and ask. We’ve got tons of awesome community members ready to help!
-- **We don’t expect you to do everything to the letter.** This is actually one thing *Draw Steel* does have in common with d20 fantasy. This is a big book of rules! Don’t stress if you need to look something up or make a ruling about an edge case on the fly. If everyone’s having fun, you’re doing it right.
+- **We don’t expect you to do everything to the letter.** This is actually one thing *Draw Steel* does have in common with d20 fantasy. This is a big book of rules! Don’t stress if you need to look something up or make a ruling about an edge case on the [[Fly|fly]]. If everyone’s having fun, you’re doing it right.
 
 ## THE BASICS
 
@@ -216,7 +216,7 @@ Whenever you roll a natural 19 or 20 on a power roll, you always achieve the tie
 
 #### EDGES AND BANES
 
-An archer standing on a castle wall fires down into a throng of enemies, hitting the mark each time thanks to their high ground. A drunken bandit struggles to land blows on sober opponents as alcohol clouds their senses. Under certain circumstances, you need more than just a characteristic to represent the advantages and disadvantages that heroes, their enemies, and their allies might have.
+An archer standing on a castle wall fires down into a throng of enemies, hitting the mark each time thanks to their [[High Ground|high ground]]. A drunken bandit struggles to land blows on sober opponents as alcohol clouds their senses. Under certain circumstances, you need more than just a characteristic to represent the advantages and disadvantages that heroes, their enemies, and their allies might have.
 
 ##### EDGE
 
@@ -842,7 +842,7 @@ When you create a [[Devil|devil]] character, you have 3 fiend points, which you 
   Your prehensile tail allows you to challenge foes on all sides. You can’t be flanked.
 
 - **WINGS (2 FIEND POINTS):**
-  You possess wings powerful enough to take you airborne. As a maneuver, you can switch between walking and flying when you are touching the ground, or vice versa when you are within 1 square of the ground. While flying, your stability drops to 0 and you have damage weakness 5. While using your wings to fly, you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall [[Prone|prone]].
+  You possess wings powerful enough to take you airborne. As a maneuver, you can switch between walking and flying when you are touching the ground, or vice versa when you are within 1 square of the ground. While flying, your stability drops to 0 and you have damage weakness 5. While using your wings to [[Fly|fly]], you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall [[Prone|prone]].
 
 - **SILVER TONGUE:**
   You can twist how your words are perceived to get a better read on people. You gain an edge when attempting to discover an NPC’s motivations and pitfalls during negotiations (see *Negotiation*).
@@ -974,7 +974,7 @@ Your hardened scales grant you immunity 5 to one of the following damage types: 
 The legacy of the Dragon Phalanx lives in you. Choose one of the following benefits.
 
 - **DRACONIAN RUSH:**
-  As a maneuver, you can fly in a straight line up to your speed. Until you reach level 6, you must end your turn on a solid surface or fall, then fall [[Prone|prone]].
+  As a maneuver, you can [[Fly|fly]] in a straight line up to your speed. Until you reach level 6, you must end your turn on a solid surface or fall, then fall [[Prone|prone]].
 
 - **DRACONIAN GUARD:**
   When you or a creature adjacent to you is attacked, you can use a triggered action to swing your wings around and guard against the blow, reducing any damage from the attack by an amount equal to your level + your Victories.
@@ -1318,7 +1318,7 @@ The Pillar shook her head. “No, I do not wot of your hills. I am from the hill
 
 “Did she look like herself?” the Arrow asked, smiling, enjoying a moment of shared experience with the giant woman.
 
-The Pillar chuckled, and the Arrow’s chest vibrated with the force of it. “No, she looked like an agéd wise woman of Vanigar. I think only in fabled Alloy could the Memory of a Sunset at Dawn walk the streets without ‘scaring the horses,’ as they say.”
+The Pillar chuckled, and the Arrow’s chest vibrated with the force of it. “No, she looked like an agéd wise woman of Vanigar. I think only in fabled Alloy could the Memory of a Sunset at Dawn [[Walk|walk]] the streets without ‘scaring the horses,’ as they say.”
 
 “Alloy?”
 
@@ -1338,7 +1338,7 @@ The Pillar looked at the Arrow out of the corner of her eye. “You’ll see,”
 
 “Is it like a dream or a nightmare?” The Arrow wasn’t sure how much it was okay to ask.
 
-“No, it was not a dream, it was a thing that happened.” She turned to face the Arrow and leaned her massive arms on her legs. “I know not how it is for other doomseekers, but this is how it was for me. I was collecting flecks of jasper, a … a mineral we add to our food. I was picking flakes of rock up off the ground when I saw a bee that could not fly and a horde of ants all around, one with wings. In that moment, that was all that I could see. It was like the rest of the world fell away, and the bee and the ants filled my sight. Though the bee was surrounded and the ants seemed to go on forever, I could see the ants were afraid. There were dozens of dead ants on the ground.”
+“No, it was not a dream, it was a thing that happened.” She turned to face the Arrow and leaned her massive arms on her legs. “I know not how it is for other doomseekers, but this is how it was for me. I was collecting flecks of jasper, a … a mineral we add to our food. I was picking flakes of rock up off the ground when I saw a bee that could not [[Fly|fly]] and a horde of ants all around, one with wings. In that moment, that was all that I could see. It was like the rest of the world fell away, and the bee and the ants filled my sight. Though the bee was surrounded and the ants seemed to go on forever, I could see the ants were afraid. There were dozens of dead ants on the ground.”
 
 “What did you do?”
 
@@ -1360,7 +1360,7 @@ The Pillar shrugged, giant muscles in her shoulders rippling. “That was the en
 
 “Oh, feeling sorry for it, I placed my finger gently on the ground, and you must see,” she held up her pinky, “even my little finger is like a mighty wall for the bee. I sought only to protect it from the ants, but it quickly scrambled onto my finger, and after I stood up, it cleaned itself and flew away.”
 
-“It could fly!” the Arrow said, suddenly full of youthful exuberance. “It could fly the entire time! It was just waiting … for someone else to come along.”
+“It could [[Fly|fly]]!” the Arrow said, suddenly full of youthful exuberance. “It could [[Fly|fly]] the entire time! It was just waiting … for someone else to come along.”
 
 The Arrow stared, wide-eyed at the Pillar. Even before the young man spoke, the [[Hakaan|hakaan]] talent’s eyes widened in realization. “My vision …” she said.
 
@@ -1680,7 +1680,7 @@ The [[Polder|polder]] put his drink down. “Oh, thank you. Thank you very much.
 
 “You’re talking just … my voice is just as loud as yours!”
 
-“I mean the way you walk around. Just the way you move, the way you [[Stand Up|stand up]] and sit down. You make so much goddamn noise.”
+“I mean the way you [[Walk|walk]] around. Just the way you move, the way you [[Stand Up|stand up]] and sit down. You make so much goddamn noise.”
 
 Jago, Sarah, and Beth all smiled at the exchange.
 
@@ -1738,7 +1738,7 @@ John turned to Embers. “I thought he was a thief.”
 
 “You were a thief.”
 
-“Yeah, I was with the Clock. Probably still am—they don’t exactly let you just walk away. We sort of have an agreement. I agree to do what they tell me and they agree not to tell me to do anything.”
+“Yeah, I was with the Clock. Probably still am—they don’t exactly let you just [[Walk|walk]] away. We sort of have an agreement. I agree to do what they tell me and they agree not to tell me to do anything.”
 
 “Did they kick you out, or did you quit?”
 
@@ -1797,7 +1797,7 @@ The [[Revenant|revenant]] null flexed his arms and assumed a fighting pose. He s
 
 “Little late for that.”
 
-The dead walk among us. Some of them are happier about it than others.
+The dead [[Walk|walk]] among us. Some of them are happier about it than others.
 
 Unlike the necromantic rituals that produce wights and wraiths and zombies, revenants rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
 
@@ -2178,7 +2178,7 @@ People who labor for a living survive through cultivation, typically raising cro
 
 Heroes who have a martial upbringing are raised by warriors. These might be the soldiers of an established army, a band of mercenaries, a guild of monster-slaying adventurers, or any other folk whose lives revolve around combat. Heroes with a martial upbringing are always ready for a fight—and they know how to finish that fight.
 
-**Skill Options**: One of the Alertness, Blacksmithing, Climb, Endurance, Fletching, Intimidate, Jump, Monsters, Ride, or Track skills.
+**Skill Options**: One of the Alertness, Blacksmithing, Climb, Endurance, Fletching, Intimidate, [[Jump]], Monsters, Ride, or Track skills.
 
 ##### NOBLE
 
@@ -2366,7 +2366,7 @@ You cast an entertaining spell that creates a minor but impressive magical effec
 
 **Effect**: Choose one of the following effects:
 
-- You teleport an unattended size 1T or 1S object within 1 square of you to an unoccupied space within 1 square of you.
+- You [[Teleport|teleport]] an unattended size 1T or 1S object within 1 square of you to an unoccupied space within 1 square of you.
 - Until the start of your next turn, a part of your body shoots a shower of harmless noisy sparks that give off light within 1 square of you.
 - You ignite or snuff out (your choice) every mundane light source within 1 square of you.
 - You make up to 1 pound of edible food you can touch taste delicious or disgusting.
@@ -2616,7 +2616,7 @@ You exude a magic aura of awareness, granting you and each ally within 2 squares
 
 ##### ANIMAL SPIRIT
 
-As an action, you conjure an animal spirit that takes the form of any animal you have seen. The incorporeal animal can’t physically interact with the world, but they have a speed of 5 (fly) and can move through mundane objects. While you are within 20 squares of the spirit, you can sense everything an animal of their form could sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required).
+As an action, you conjure an animal spirit that takes the form of any animal you have seen. The incorporeal animal can’t physically interact with the world, but they have a speed of 5 ([[Fly|fly]]) and can move through mundane objects. While you are within 20 squares of the spirit, you can sense everything an animal of their form could sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required).
 
 ##### COMPASSIONATE AURA
 
@@ -2798,7 +2798,7 @@ Holy light scours your foes and sets your allies into perfect attack position.
 - 12–16: 3 holy damage
 - 17+: 4 holy damage
 
-**Effect**: You can teleport each ally in the area and yourself (if you’re in the area) to an unoccupied space within the area.
+**Effect**: You can [[Teleport|teleport]] each ally in the area and yourself (if you’re in the area) to an unoccupied space within the area.
 
 ###### [[Sacrificial Offer|SACRIFICIAL OFFER]]
 
@@ -2896,7 +2896,7 @@ A resounding clap of thunder disrupts your foes.
 - 12–16: 5 sonic damage; push 3
 - 17+: 8 sonic damage; push 5
 
-**Effect**: You can also push each willing ally in the area, and their stability doesn’t count against this forced movement.
+**Effect**: You can also push each willing ally in the area, and their stability doesn’t count against this [[Forced Movement|forced movement]].
 
 ##### 5-PIETY ABILITIES
 
@@ -2998,7 +2998,7 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Fire** is the element of destruction. Fire abilities harm enemies and objects.
 - **Green** is the element of creation and growth. Green abilities make and manipulate plants, fungi, and other forms of life to hamper foes and nourish your allies.
 - **Rot** is the element of death. Rot abilities decay and debuff enemies.
-- **Void** is the element of the unknown. Void abilities warp space and reality, allowing you to teleport, create illusions, and make things incorporeal.
+- **Void** is the element of the unknown. Void abilities warp space and reality, allowing you to [[Teleport|teleport]], create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance what your allies can do, and alter the abilities of your enemies for the worse.
 
 Heroic abilities that include your specialization’s keyword have their initial essence cost reduced by 1 (to a minimum of 1). This reduced cost doesn’t apply to abilities you gain because of your specialization, such as Manipulate Earth or Void Sight.
@@ -3069,7 +3069,7 @@ Your mastery of elemental power lets you customize your magic.
 
 - You use the [[Knockback]] maneuver, but you make a Reason test instead of a Might test. For this use of the maneuver, you can target a creature at a distance equal to the distance of your Hurl Element ability.
 - You choose a creature within the distance of your Hurl Element ability and deal damage to that creature equal to your Reason score. The damage type can be acid, cold, corruption, fire, lightning, poison, or sonic.
-- You teleport a number of squares equal to your Reason score.
+- You [[Teleport|teleport]] a number of squares equal to your Reason score.
 
 #### 1ST-LEVEL SPECIALIZATION FEATURE
 
@@ -3182,9 +3182,9 @@ You add a little magic to an ally’s aggression at just the right time.
 - **Target**: Self or 1 ally
 - **Trigger**: The target force moves a creature or object.
 
-**Effect**: The distance of the forced movement is increased by a number of squares equal to your Reason score.
+**Effect**: The distance of the [[Forced Movement|forced movement]] is increased by a number of squares equal to your Reason score.
 
-**Spend 1 Essence**: The distance of the forced movement is increased by a number of squares equal to twice your Reason score instead.
+**Spend 1 Essence**: The distance of the [[Forced Movement|forced movement]] is increased by a number of squares equal to twice your Reason score instead.
 
 ##### [[Mend The Soul|MEND THE SOUL]]
 
@@ -3208,9 +3208,9 @@ You call on the void to swallow and spit out an ally.
 - **Target**: Self or 1 ally
 - **Trigger**: The target starts their turn or moves.
 
-**Effect**: At any point during the move, you teleport the target a number of squares equal to your Reason.
+**Effect**: At any point during the move, you [[Teleport|teleport]] the target a number of squares equal to your Reason.
 
-**Spend 1 Essence**: You teleport the target a number of squares equal to twice your Reason score instead.
+**Spend 1 Essence**: You [[Teleport|teleport]] the target a number of squares equal to twice your Reason score instead.
 
 #### ELEMENTALIST ABILITIES
 
@@ -3235,7 +3235,7 @@ A sudden storm of detritus assaults your foes and leaves them struggling to move
 - 12–16: 3 damage
 - 17+: 4 damage
 
-**Effect**: The ground beneath the area becomes difficult terrain for your enemies.
+**Effect**: The ground beneath the area becomes [[Difficult Terrain|difficult terrain]] for your enemies.
 
 ###### [[Fire Lance|FIRE LANCE]]
 
@@ -3341,7 +3341,7 @@ You slam the ground, which buckles out from you in every direction.
 - 12–16: 5 damage
 - 17+: 8 damage; [[Prone|prone]]
 
-**Effect**: You must be touching the ground or floor to use this ability. The surface beneath the area becomes difficult terrain for your enemies.
+**Effect**: You must be touching the ground or floor to use this ability. The surface beneath the area becomes [[Difficult Terrain|difficult terrain]] for your enemies.
 
 ###### [[Stare Into The Abyss|STARE INTO THE ABYSS]] (3 ESSENCE)
 
@@ -3483,7 +3483,7 @@ You gain certain benefits in combat based on the amount of rage you have. See As
 
 #### MIGHTY LEAPS
 
-You always succeed on Might tests made to jump. You can still roll to see if you get a reward result.
+You always succeed on Might tests made to [[Jump|jump]]. You can still roll to see if you get a reward result.
 
 #### 1ST-LEVEL ASPECT FEATURES
 
@@ -3499,7 +3499,7 @@ Your chosen primordial aspect grants you features as shown on the 1st-Level Prim
 
 ##### PRIMORDIAL CUNNING
 
-You are never surprised. Additionally, whenever you would push a target with forced movement, you can slide them instead.
+You are never surprised. Additionally, whenever you would push a target with [[Forced Movement|forced movement]], you can slide them instead.
 
 As your rage grows, your primordial cunning intensifies. These benefits are cumulative.
 
@@ -3569,7 +3569,7 @@ The Primordial Chaos allows you to redirect kinetic energy for a monstrous smash
 - **Target:** Self or 1 creature
 - **Trigger:** The target is force moved.
 
-**Effect:** You can select a new target of the same size or smaller within distance to be force moved instead. Additionally, you can increase the forced move distance by a number of squares equal to your Might score. You can use your Primordial Strength benefit to make this forced movement vertical.
+**Effect:** You can select a new target of the same size or smaller within distance to be force moved instead. Additionally, you can increase the forced move distance by a number of squares equal to your Might score. You can use your Primordial Strength benefit to make this [[Forced Movement|forced movement]] vertical.
 
 **Spend 1 Rage:** You can increase the forced move distance by a number of squares equal to twice your Might score instead.
 
@@ -3695,11 +3695,10 @@ When you barrel through your foes, they feel your wrath.
 - **Distance:** Self
 - **Target:** Self
 
-**Effect:** Move up to your speed in a straight line toward a creature or object. You don’t treat enemy creatures as difficult terrain for this move. If the target is a creature, you can end your movement in the target’s square, moving them to an adjacent open square. Make a power roll against the target and every enemy you moved through.
+**Effect:** Move up to your speed in a straight line toward a creature or object. You don’t treat enemy creatures as [[Difficult Terrain|difficult terrain]] for this move. If the target is a creature, you can end your movement in the target’s square, moving them to an adjacent open square. Make a power roll against the target and every enemy you moved through.
 
 
 **Power Roll + Might:**
-
 
 - 11 or lower: 5 damage
 - 12–16: 6 damage
@@ -3860,7 +3859,7 @@ With this stormwight kit, you channel your primordial rage into the form of a be
 
 ##### ASPECT BENEFITS
 
-Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever an attack pulls a creature adjacent to you, you can attempt to [[Grab|grab]] that creature as a free triggered action.
+Whenever you use [[Forced Movement|forced movement]] to push a creature, you can pull that creature instead. Whenever an attack pulls a creature adjacent to you, you can attempt to [[Grab|grab]] that creature as a free triggered action.
 
 ##### ANIMAL FORM: BEAR
 
@@ -3911,7 +3910,7 @@ You gain an edge on tests made to [[Hide|hide]] and sneak. Whenever you are fall
 
 ##### ANIMAL FORM: CROW
 
-When you are in your crow form, your movement gains the Fly keyword, and your size becomes 1T. You can use the [[Hide]] maneuver as a free maneuver, and you can use your allies as cover when you [[Hide|hide]].
+When you are in your crow form, your movement gains the [[Fly]] keyword, and your size becomes 1T. You can use the [[Hide]] maneuver as a free maneuver, and you can use your allies as cover when you [[Hide|hide]].
 
 Whenever your rage is 4 or higher, you can shapeshift to become a hybrid bipedal crow of your true form’s size. You gain 10 temporary Stamina the first time you shapeshift into hybrid crow form during an encounter.
 
@@ -3959,7 +3958,7 @@ With this stormwight kit, you channel your primordial rage into the form of a ra
 
 ##### ASPECT BENEFITS
 
-You gain an edge on tests made to [[Hide|hide]] and sneak. Additionally, you ignore difficult terrain, and you gain an edge on tests made to climb other creatures. If you are hidden, you automatically achieve a tier 3 result on attempts to climb and remain hidden.
+You gain an edge on tests made to [[Hide|hide]] and sneak. Additionally, you ignore [[Difficult Terrain|difficult terrain]], and you gain an edge on tests made to climb other creatures. If you are hidden, you automatically achieve a tier 3 result on attempts to climb and remain hidden.
 
 ##### ANIMAL FORM: RAT
 
@@ -4015,7 +4014,7 @@ You and an ally gain the benefits of flanking whenever you are both adjacent to 
 
 ##### ANIMAL FORM: WOLF
 
-When you are in your wolf form, your speed increases by 2, you ignore difficult terrain, and your size becomes 1M.
+When you are in your wolf form, your speed increases by 2, you ignore [[Difficult Terrain|difficult terrain]], and your size becomes 1M.
 
 Whenever your rage is 4 or higher, you can shapeshift to become a hybrid bipedal wolf of your true form’s size. You gain 10 temporary Stamina the first time you shapeshift into hybrid wolf form during an encounter.
 
@@ -4092,7 +4091,7 @@ Shadow colleges are secret institutions that turn ordinary folk into something e
 
 You are one of the few who has graduated from a shadow college, chosen from the following options:
 
-- **College of Black Ash:** The College of Black Ash founded the art of being a shadow. Its graduates use Black Ash sorcery to teleport around the battlefield in clouds of soot, and to manipulate and create darkness. Graduates of the college are unmatched in mobility. You gain the Magic skill.
+- **College of Black Ash:** The College of Black Ash founded the art of being a shadow. Its graduates use Black Ash sorcery to [[Teleport|teleport]] around the battlefield in clouds of soot, and to manipulate and create darkness. Graduates of the college are unmatched in mobility. You gain the Magic skill.
 - **College of Caustic Alchemy:** The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You gain the Alchemy skill.
 - **College of the Harlequin Mask:** Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You gain the Lie skill.
 
@@ -4114,15 +4113,15 @@ Your choice of college grants you one or two features, as shown on the 1st-Level
 
 | College | Feature                |
 |---------|------------------------|
-| Black Ash | Black Ash Teleport    |
+| Black Ash | Black Ash [[Teleport]]    |
 | Caustic Alchemy | Coat the Blade, Smoke Bomb |
 | Harlequin Mask | I’m On Your Side |
 
-##### BLACK ASH TELEPORT
+##### BLACK ASH [[Teleport|TELEPORT]]
 
 You gain the following ability.
 
-###### BLACK ASH TELEPORT
+###### BLACK ASH [[Teleport|TELEPORT]]
 
 In a swirl of black ash, you step from one place to another.
 
@@ -4131,9 +4130,9 @@ In a swirl of black ash, you step from one place to another.
 - **Distance:** Self
 - **Target:** Self
 
-**Effect:** You teleport up to 5 squares. If you end this movement in concealment or cover, you can use the [[Hide]] maneuver even if you are observed.
+**Effect:** You [[Teleport|teleport]] up to 5 squares. If you end this movement in concealment or cover, you can use the [[Hide]] maneuver even if you are observed.
 
-**Spend Insight:** You teleport 1 additional square for each insight spent.
+**Spend Insight:** You [[Teleport|teleport]] 1 additional square for each insight spent.
 
 ##### COAT THE BLADE
 
@@ -4199,7 +4198,7 @@ When an enemy attacks, you roll with the impact to reduce the harm.
 
 ##### [[In All This Confusion|IN ALL THIS CONFUSION]]
 
-You teleport away in a plume of black smoke to avoid danger.
+You [[Teleport|teleport]] away in a plume of black smoke to avoid danger.
 
 - **Keywords:** Magic
 - **Type:** Triggered
@@ -4207,9 +4206,9 @@ You teleport away in a plume of black smoke to avoid danger.
 - **Target:** Self
 - **Trigger:** You take damage.
 
-**Effect:** You teleport up to 4 squares, halve the triggering damage, and don’t suffer any effect associated with the damage.
+**Effect:** You [[Teleport|teleport]] up to 4 squares, halve the triggering damage, and don’t suffer any effect associated with the damage.
 
-**Spend Insight:** You teleport 1 additional square for each insight spent.
+**Spend Insight:** You [[Teleport|teleport]] 1 additional square for each insight spent.
 
 ##### [[Misdirection|MISDIRECTION]] (1 INSIGHT)
 
@@ -4550,7 +4549,7 @@ While in your presence or working according to your plans, each of your allies g
 
 ##### IMPOSING ATTITUDE
 
-You command any room you walk into. While you are present, each hero with you is treated as having a Renown 2 higher than usual for the purpose of negotiations and influencing tests. Additionally, each hero with you has a double edge on tests made to stop combat and start a negotiation with the other side.
+You command any room you [[Walk|walk]] into. While you are present, each hero with you is treated as having a Renown 2 higher than usual for the purpose of negotiations and influencing tests. Additionally, each hero with you has a double edge on tests made to stop combat and start a negotiation with the other side.
 
 ##### I READ YOUR BOOK!
 
@@ -5758,7 +5757,7 @@ You call forth a small bolt of lightning, then hurl it at your foe.
 
 Your ward surrounds you with protective animal spirits, and grants you the following benefits:
 
-- The area within 2 squares of you is difficult terrain for your enemies.
+- The area within 2 squares of you is [[Difficult Terrain|difficult terrain]] for your enemies.
 - Whenever an enemy within 12 squares of you damages you with a ranged ability, you can either shift towards them or pull them a number of squares equal to your highest characteristic score.
 
 #### [[Rook|ROOK]]
@@ -6011,7 +6010,7 @@ When you want your hero to rifle through a desk and locate a specific document, 
 
 ### WHEN TO MAKE A TEST
 
-The Director should ask a player to make a test only when the player’s hero attempts a task where the consequences of failure are interesting or dramatic, and where failure won’t grind the story to a halt. For example, if a hero wants to leap over a waist-high wall while casually walking through a peaceful city neighborhood, the worst case for failure is probably that the hero falls on their butt, takes no damage, and can [[Stand Up|stand up]] to either try again or walk around the wall. As such, no test is required. But if the hero were being chased by enemies, failing to leap over the wall means the pursuers can catch them, so the Director might decide to call for a test to determine what happens.
+The Director should ask a player to make a test only when the player’s hero attempts a task where the consequences of failure are interesting or dramatic, and where failure won’t grind the story to a halt. For example, if a hero wants to leap over a waist-high wall while casually walking through a peaceful city neighborhood, the worst case for failure is probably that the hero falls on their butt, takes no damage, and can [[Stand Up|stand up]] to either try again or [[Walk|walk]] around the wall. As such, no test is required. But if the hero were being chased by enemies, failing to leap over the wall means the pursuers can catch them, so the Director might decide to call for a test to determine what happens.
 
 The advancement of a story shouldn’t be halted by failing a test. For instance, the heroes might need to know the color of a [[Dwarf|dwarf]] king’s crown to solve a puzzle, with that puzzle opening the only entrance to a tomb they must enter to stop a world-ending ritual. It could be that a successful Reason test allows the heroes to recall that lore, but the test shouldn’t be their only option to get the information. If the test fails, perhaps the heroes need to go to a flying library to do research, or they might be able to delve into a ruin to find the ancient monarch’s portrait. A failed test should always result in a story becoming more interesting, not in the action coming to an end.
 
@@ -6057,7 +6056,7 @@ You make a Presence test whenever you attempt a risky task that requires the use
 
 #### INFLUENCING PLAYER CHARACTER ACTIONS WITH TESTS
 
-> Tests can’t be used by NPCs or PCs to influence the actions of PCs. Many players feel that their agency is taken away if they’re compelled to jump into a pile of gold filled with hidden scorpions because an NPC convinced them to do so with a Presence test. For most players, it’s not fun to be in control of a single hero and lose some of that control.
+> Tests can’t be used by NPCs or PCs to influence the actions of PCs. Many players feel that their agency is taken away if they’re compelled to [[Jump|jump]] into a pile of gold filled with hidden scorpions because an NPC convinced them to do so with a Presence test. For most players, it’s not fun to be in control of a single hero and lose some of that control.
 > 
 > Instead, Directors should do their level best to have an NPC suggest that a character dive headlong into the gold like a billionaire duck, then let the player decide what their character does. Similarly, a Director might decide that one player character can’t make an Intuition test to discern another PC’s motivations or honesty.
 > 
@@ -6183,7 +6182,7 @@ To quickly assess the difficulty of a task and the test made to attempt it, the 
 - **Moderate Test**: A test is moderate if multiple creatures oppose the hero and those creatures would have lower bonuses to their test rolls than the hero, or if only one creature opposes the hero and has the same test bonus as the hero.
 - **Hard Test**: A test is hard if an opposed creature would have a higher bonus to their test roll than the hero, or if multiple creatures with the same test bonus as the hero oppose the hero.
 
-The failure consequences of opposed actions are some of the easiest to create on the fly. Fail to [[Hide|hide]] from someone, and they see you. Fail to lie to someone, and they catch your duplicity. Fail to arm wrestle someone for a free ale, and you’re picking up the tab. The consequence is that the opposition bests the hero.
+The failure consequences of opposed actions are some of the easiest to create on the [[Fly|fly]]. Fail to [[Hide|hide]] from someone, and they see you. Fail to lie to someone, and they catch your duplicity. Fail to arm wrestle someone for a free ale, and you’re picking up the tab. The consequence is that the opposition bests the hero.
 
 #### NPCS ROLL FOR DECEPTIVE TASKS
 
@@ -6242,7 +6241,7 @@ For example, intimidating someone with a purely verbal threat is a Presence test
 
 #### MANY SPECIFIC SKILLS
 
-This game includes a big list of skills, and each is fairly specific. For example, instead of one Athletics skill that covers climbing, jumping, swimming, and lifting heavy objects, your character might use separate Climb, Jump, Lift, and Swim skills. Instead of a Thievery skill that covers picking locks, picking pockets, and disabling traps, the game has three skills: Pick Lock, Pick Pocket, and Sabotage.
+This game includes a big list of skills, and each is fairly specific. For example, instead of one Athletics skill that covers climbing, jumping, swimming, and lifting heavy objects, your character might use separate Climb, [[Jump]], Lift, and Swim skills. Instead of a Thievery skill that covers picking locks, picking pockets, and disabling traps, the game has three skills: Pick Lock, Pick Pocket, and Sabotage.
 
 We made the decision to have a lot of specific skills based on our design goals. First, having skills this specific means that you will frequently make tests that don’t use one of your character’s skills and simply apply a characteristic. By not having a few broader skills, it means that having a character who covers the spread of every skill is actually impossible. Luckily, the math of the game doesn’t require you to have a skill to have a decent chance of success on a test. That means heroes can attempt tasks without the help of a skill just because someone needs to do it, and that is pretty darn heroic!
 
@@ -6296,7 +6295,7 @@ Failure consequences for tests made with exploration skills include harming your
 | Endurance  | Remain engaged in strenuous activity over a long period     |
 | Gymnastics | Move across unsteady or narrow surfaces, and tumble         |
 | [[Heal]]       | Use mundane first aid                                       |
-| Jump       | Leap vertical and horizontal distances                      |
+| [[Jump]]       | Leap vertical and horizontal distances                      |
 | Lift       | Pick up, carry, and throw heavy objects                     |
 | Navigate   | Read a map and travel without becoming lost                 |
 | Ride       | Ride and control a mount who isn’t sapient, such as a horse |
@@ -6553,7 +6552,7 @@ Many abilities and other options refer to creatures, objects, or spaces that are
 
 When you fall 2 or more squares, you take 2 damage for each square you fall, then you land [[Prone|prone]]. When you fall, you reduce the effective height of the fall by a number of squares equal to your Agility score. Falling into liquid that is at least 1 square deep reduces the effective height of a fall by 4 squares.
 
-Falling is not forced movement, but being force moved downward is considered falling (see Forced Movement in Combat). Movement from falling doesn’t provoke opportunity attacks (see Opportunity Attacks).
+Falling is not [[Forced Movement|forced movement]], but being force moved downward is considered falling (see [[Forced Movement]] in Combat). Movement from falling doesn’t provoke opportunity attacks (see Opportunity Attacks).
 
 #### FALLING ONTO ANOTHER CREATURE
 
@@ -7057,17 +7056,17 @@ If you are [[Frightened|frightened]], attacks you make against the source of you
 
 While you are [[Grabbed|grabbed]], your speed is 0, you can’t be force moved, you can’t use the [[Knockback]] maneuver, and you take a bane on attacks that don’t target the creature grabbing you. If the creature grabbing you moves, they bring you with them. If the creature’s size is equal to or less than yours, their speed is halved while they have you [[Grabbed|grabbed]].
 
-The creature grabbing you can use a maneuver to move you into an unoccupied space adjacent to them. The creature grabbing you can end the [[Grab|grab]] at any time (no action required). You can also attempt to escape being [[Grabbed|grabbed]] (see [[Escape Grab]] in Combat). If you teleport or if the creature grabbing you is force moved to a space that isn’t adjacent to you, you are no longer [[Grabbed|grabbed]].
+The creature grabbing you can use a maneuver to move you into an unoccupied space adjacent to them. The creature grabbing you can end the [[Grab|grab]] at any time (no action required). You can also attempt to escape being [[Grabbed|grabbed]] (see [[Escape Grab]] in Combat). If you [[Teleport|teleport]] or if the creature grabbing you is force moved to a space that isn’t adjacent to you, you are no longer [[Grabbed|grabbed]].
 
 #### [[Prone|PRONE]]
 
-While you are [[Prone|prone]], you are flat on the ground, attacks you make take a bane, and melee attacks made against you gain an edge. You must crawl to move along the ground, which costs you 1 additional square of movement for every square you crawl. You can’t climb, jump, swim, or fly while [[Prone|prone]]. If you are climbing, flying, or jumping while you are knocked [[Prone|prone]], you fall.
+While you are [[Prone|prone]], you are flat on the ground, attacks you make take a bane, and melee attacks made against you gain an edge. You must [[Crawl|crawl]] to move along the ground, which costs you 1 additional square of movement for every square you [[Crawl|crawl]]. You can’t climb, [[Jump|jump]], swim, or [[Fly|fly]] while [[Prone|prone]]. If you are climbing, flying, or jumping while you are knocked [[Prone|prone]], you fall.
 
 While [[Prone|prone]], you can [[Stand Up|stand up]] as a maneuver (see Maneuvers in Combat), unless the ability or effect that imposed the condition says otherwise. You can use a maneuver to make an adjacent [[Prone|prone]] creature [[Stand Up|stand up]].
 
 #### [[Restrained|RESTRAINED]]
 
-While you are [[Restrained|restrained]], your speed is 0 and you can’t be force moved. Your attacks take a bane, attacks and damaging area powers against you gain an edge, and you have a bane on Might and Agility resistance rolls. If you teleport while [[Restrained|restrained]], the condition ends.
+While you are [[Restrained|restrained]], your speed is 0 and you can’t be force moved. Your attacks take a bane, attacks and damaging area powers against you gain an edge, and you have a bane on Might and Agility resistance rolls. If you [[Teleport|teleport]] while [[Restrained|restrained]], the condition ends.
 
 #### [[Slowed|SLOWED]]
 
@@ -7212,7 +7211,7 @@ Your hero starts with a speed based on their ancestry—usually 5. This represen
 
 All squares adjacent to your character cost 1 movement to move into. No, there is no Pythagorean theorem on the grid. It’s a game, don’t overthink it.
 
-You can move freely through an allied creature’s space. You can move through an enemy creature’s space, but it counts as difficult terrain (see Difficult Terrain). You can’t stop moving in any other creature’s space, including making an attack or using an action or maneuver while in that space and then continuing your move.
+You can move freely through an allied creature’s space. You can move through an enemy creature’s space, but it counts as [[Difficult Terrain|difficult terrain]] (see [[Difficult Terrain]]). You can’t stop moving in any other creature’s space, including making an attack or using an action or maneuver while in that space and then continuing your move.
 
 A creature can break up their movement granted by their move action with their maneuver and action however they wish.
 
@@ -7220,7 +7219,7 @@ A creature can break up their movement granted by their move action with their m
 
 A single move or other effect can never allow a creature to move more squares than their speed, unless the effect specifically states otherwise. For example, a creature with a speed of 5 might have that speed halved to 2. If an ally then targets them with an effect that allows them to move up to 3 squares, the creature can move only 2 squares because that’s their current speed.
 
-#### SHIFTING
+#### [[Shifting|SHIFTING]]
 
 Whenever you use your move action or when another effect allows you to move, you can instead shift to use up to half the maximum squares of movement the effect allows. Whenever you shift, creatures can’t make opportunity attacks against you during your movement (see Free Strikes).
 
@@ -7228,23 +7227,23 @@ Certain effects might also allow you to shift a specific number of squares, incl
 
 #### MOVEMENT TYPES
 
-Creatures in the game can use eight types of movement: walk, burrow, climb, swim, jump, crawl, fly, and teleport.
+Creatures in the game can use eight types of movement: [[Walk|walk]], [[Burrow|burrow]], climb, swim, [[Jump|jump]], [[Crawl|crawl]], [[Fly|fly]], and [[Teleport|teleport]].
 
-##### WALK
+##### [[Walk|WALK]]
 
 Walking is the most common movement type, whether it refers to ambulating on legs, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
 
-##### BURROW
+##### [[Burrow|BURROW]]
 
-A creature with “burrow” in their speed entry can move through dirt vertically or horizontally, and either has the means to breathe while doing so or doesn’t require air to live. Such creatures can’t move through more solid ground, such as stone, unless their stat block says otherwise.
+A creature with “[[Burrow|burrow]]” in their speed entry can move through dirt vertically or horizontally, and either has the means to breathe while doing so or doesn’t require air to live. Such creatures can’t move through more solid ground, such as stone, unless their stat block says otherwise.
 
-##### CLIMB OR SWIM
+##### [[Climb Or Swim|CLIMB OR SWIM]]
 
 If a creature’s speed entry includes the word “climb,” they can climb across vertical and horizontal surfaces at full speed. Likewise, if a creature has “swim” in their speed entry, they can swim in liquid at full speed.
 
-Creatures without those types of movement can still climb or swim when a rule allows them to move, but each square of climbing or swimming costs 2 squares of movement. If a surface is difficult to climb (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to swim through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can’t climb or swim but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
+Creatures without those types of movement can still [[Climb Or Swim|climb or swim]] when a rule allows them to move, but each square of climbing or swimming costs 2 squares of movement. If a surface is difficult to climb (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to swim through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can’t [[Climb Or Swim|climb or swim]] but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
 
-##### CLIMBING OTHER CREATURES
+##### [[Climbing Other Creatures|CLIMBING OTHER CREATURES]]
 
 You can attempt to climb a creature whose size is greater than yours. If the creature is willing, you can climb them without any trouble. If the creature is unwilling, you make the following test:
 
@@ -7264,47 +7263,47 @@ While you climb or ride a creature, you gain an edge to melee attacks against th
 
 If you are knocked [[Prone|prone]] while climbing or riding a creature, you fall and land [[Prone|prone]] in an adjacent space of your choice, taking damage as usual from the fall.
 
-##### JUMP
+##### [[Jump|JUMP]]
 
-When an effect allows you to move, you can long jump a number of squares up to your Might or Agility score (your choice; minimum 1 square) without a test as part of that movement. If you move at least 2 squares in a straight line immediately before your jump, you can long jump 1 additional square.
+When an effect allows you to move, you can long [[Jump|jump]] a number of squares up to your Might or Agility score (your choice; minimum 1 square) without a test as part of that movement. If you move at least 2 squares in a straight line immediately before your [[Jump|jump]], you can long [[Jump|jump]] 1 additional square.
 
-If you want to jump even farther than your initial jump allows, make an easy Might test. On a success, you jump 1 additional square, or 2 additional squares if you get a success with a reward.
+If you want to [[Jump|jump]] even farther than your initial [[Jump|jump]] allows, make an easy Might test. On a success, you [[Jump|jump]] 1 additional square, or 2 additional squares if you get a success with a reward.
 
-The height of your jump is 1 square. If you move at least 2 squares in a straight line immediately before your jump, you can jump 1 square higher.
+The height of your [[Jump|jump]] is 1 square. If you move at least 2 squares in a straight line immediately before your [[Jump|jump]], you can [[Jump|jump]] 1 square higher.
 
-You can’t jump farther or higher than the distance of the effect that allows you to move.
+You can’t [[Jump|jump]] farther or higher than the distance of the effect that allows you to move.
 
-##### CRAWL
+##### [[Crawl|CRAWL]]
 
-If you are [[Prone|prone]] (see Conditions), you can remain [[Prone|prone]] and crawl on the ground. Doing so costs you 1 additional square of movement for every square you crawl. If you intentionally want to crawl, you can fall [[Prone|prone]] as a free maneuver on your turn. While voluntarily [[Prone|prone]], you can choose to stand as a free maneuver.
+If you are [[Prone|prone]] (see Conditions), you can remain [[Prone|prone]] and [[Crawl|crawl]] on the ground. Doing so costs you 1 additional square of movement for every square you [[Crawl|crawl]]. If you intentionally want to [[Crawl|crawl]], you can fall [[Prone|prone]] as a free maneuver on your turn. While voluntarily [[Prone|prone]], you can choose to stand as a free maneuver.
 
-##### FLY
+##### [[Fly|FLY]]
 
-A creature who can fly can move through the air vertically or horizontally at full speed. Such creatures can also hover in midair. If a flying creature is knocked [[Prone|prone]] or has their speed reduced to 0, they fall (see Falling).
+A creature who can [[Fly|fly]] can move through the air vertically or horizontally at full speed. Such creatures can also hover in midair. If a flying creature is knocked [[Prone|prone]] or has their speed reduced to 0, they fall (see Falling).
 
-##### TELEPORT
+##### [[Teleport|TELEPORT]]
 
-When you teleport, you move from one space to another space instantaneously. The following rules apply to teleporting:
+When you [[Teleport|teleport]], you move from one space to another space instantaneously. The following rules apply to teleporting:
 
 - Teleporting doesn’t provoke opportunity attacks.
-- When you teleport, you bypass any obstacles between the space you leave and your destination space.
+- When you [[Teleport|teleport]], you bypass any obstacles between the space you leave and your destination space.
 - The creature teleporting you must have line of effect from the space you leave and to your destination space.
 - Your destination space can’t be occupied by another creature or object.
-- You don’t spend your movement when you teleport. Instead, the effect that lets you teleport tells you how far you can teleport.
-- If you teleport while [[Prone|prone]], you can be standing when you reach your destination space provided you are able to stand. If another creature teleports you, it is up to them if you remain [[Prone|prone]] or stand, provided you are able.
-- If you teleport while affected by the [[Grabbed|grabbed]] or [[Restrained|restrained]] conditions, those conditions end for you.
+- You don’t spend your movement when you [[Teleport|teleport]]. Instead, the effect that lets you [[Teleport|teleport]] tells you how far you can [[Teleport|teleport]].
+- If you [[Teleport|teleport]] while [[Prone|prone]], you can be standing when you reach your destination space provided you are able to stand. If another creature teleports you, it is up to them if you remain [[Prone|prone]] or stand, provided you are able.
+- If you [[Teleport|teleport]] while affected by the [[Grabbed|grabbed]] or [[Restrained|restrained]] conditions, those conditions end for you.
 
-#### DIFFICULT TERRAIN
+#### [[Difficult Terrain|DIFFICULT TERRAIN]]
 
-Areas of thick underbrush, rubble, spiderwebs, or other obstacles to movement create difficult terrain. It costs 1 additional square of movement to enter a square of difficult terrain.
+Areas of thick underbrush, rubble, spiderwebs, or other obstacles to movement create [[Difficult Terrain|difficult terrain]]. It costs 1 additional square of movement to enter a square of [[Difficult Terrain|difficult terrain]].
 
-#### HIGH GROUND
+#### [[High Ground|HIGH GROUND]]
 
 When you make an attack against a creature or object and you occupy a space that is fully above the space the target takes up, with the bottom of your space higher than the top of the target’s space, you gain an edge on the power roll against that target.
 
-#### FORCED MOVEMENT
+#### [[Forced Movement|FORCED MOVEMENT]]
 
-Some actions and maneuvers allow you to push, pull, or slide another creature a specific distance across the battlefield. Collectively, these types of movement are called forced movement:
+Some actions and maneuvers allow you to push, pull, or slide another creature a specific distance across the battlefield. Collectively, these types of movement are called [[Forced Movement|forced movement]]:
 
 - **Push X:** You move the target up to X squares away from you in a straight line, without moving them vertically.
 - **Pull X:** You move the target up to X squares toward you in a straight line, without moving them vertically. Each square you move the creature must bring them closer to you.
@@ -7312,19 +7311,19 @@ Some actions and maneuvers allow you to push, pull, or slide another creature a 
 
 When you force move a target, you can always move that target fewer squares than the number indicated. For example, when the conduit gets a tier 3 “push 5” result with their [[Thunder Of The Divine|Thunder of the Divine]] ability, they can push targets any distance up to 5 squares, including choosing to not move certain targets at all.
 
-Forced movement ignores difficult terrain and never provokes opportunity attacks. When you force move a target into damaging terrain or into terrain that produces an effect, they are affected as if they had moved into it willingly.
+[[Forced Movement|Forced movement]] ignores [[Difficult Terrain|difficult terrain]] and never provokes opportunity attacks. When you force move a target into damaging terrain or into terrain that produces an effect, they are affected as if they had moved into it willingly.
 
 ##### VERTICAL
 
-If a forced movement effect has the word “vertical” in front of it, then the forced movement can move a target up or down in addition to horizontally. For example, if a forced movement effect says “vertical push 5,” then the creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the forced movement is a straight line.
+If a [[Forced Movement|forced movement]] effect has the word “vertical” in front of it, then the [[Forced Movement|forced movement]] can move a target up or down in addition to horizontally. For example, if a [[Forced Movement|forced movement]] effect says “vertical push 5,” then the creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the [[Forced Movement|forced movement]] is a straight line.
 
-If a creature who can’t fly is left in midair at the end of a vertical forced move, they fall.
+If a creature who can’t [[Fly|fly]] is left in midair at the end of a vertical forced move, they fall.
 
-Though you can’t push, pull, or slide a creature unless that forced movement specifies “vertical,” you can move them along a slope. For a creature to be force moved along a slope, each square of the slope can be no more than 1 square higher or lower than the previous square.
+Though you can’t push, pull, or slide a creature unless that [[Forced Movement|forced movement]] specifies “vertical,” you can move them along a slope. For a creature to be force moved along a slope, each square of the slope can be no more than 1 square higher or lower than the previous square.
 
 ##### SLAMMING INTO CREATURES
 
-When you force move a creature into another creature, the movement ends and both creatures take 1 damage for each square remaining in the first creature’s forced movement. You can also force move an object into a creature. The object’s movement ends and the creature takes 1 damage for each square remaining in the object’s forced movement.
+When you force move a creature into another creature, the movement ends and both creatures take 1 damage for each square remaining in the first creature’s [[Forced Movement|forced movement]]. You can also force move an object into a creature. The object’s movement ends and the creature takes 1 damage for each square remaining in the object’s [[Forced Movement|forced movement]].
 
 It is possible to move a creature or object of a larger size into several creatures of a smaller size at the same time. When this happens, all creatures in the collision take damage once.
 
@@ -7344,32 +7343,32 @@ You can force move another creature into yourself with a pull or a slide.
 
 ##### SLAMMING INTO OBJECTS
 
-When you force move a creature into a stationary object that is their size or larger and the object doesn’t break (see below), the movement ends and the creature takes 1 damage for each square remaining in their forced movement.
+When you force move a creature into a stationary object that is their size or larger and the object doesn’t break (see below), the movement ends and the creature takes 1 damage for each square remaining in their [[Forced Movement|forced movement]].
 
 If you force move a creature downward into an object that doesn’t break (including the ground), they also take falling damage.
 
 ##### HURLING THROUGH OBJECTS
 
-When you move a creature into a mundane object, the object can break depending on how many squares of forced movement remain:
+When you move a creature into a mundane object, the object can break depending on how many squares of [[Forced Movement|forced movement]] remain:
 
-- It costs 1 remaining square of forced movement to destroy 1 square of glass. The creature moved takes 1 damage.
-- It costs 3 remaining squares of forced movement to destroy 1 square of wood. The creature moved takes 3 damage.
-- It costs 6 remaining squares of forced movement to destroy 1 square of stone. The creature moved takes 6 damage.
-- It costs 9 remaining squares of forced movement to destroy 1 square of metal. The creature moved takes 9 damage.
+- It costs 1 remaining square of [[Forced Movement|forced movement]] to destroy 1 square of glass. The creature moved takes 1 damage.
+- It costs 3 remaining squares of [[Forced Movement|forced movement]] to destroy 1 square of wood. The creature moved takes 3 damage.
+- It costs 6 remaining squares of [[Forced Movement|forced movement]] to destroy 1 square of stone. The creature moved takes 6 damage.
+- It costs 9 remaining squares of [[Forced Movement|forced movement]] to destroy 1 square of metal. The creature moved takes 9 damage.
 
-If any forced movement remains after the object is destroyed, you can continue to move the creature who destroyed the object.
+If any [[Forced Movement|forced movement]] remains after the object is destroyed, you can continue to move the creature who destroyed the object.
 
 ##### FORCED INTO A FALL
 
-If you can’t fly and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when your move ends, you fall.
+If you can’t [[Fly|fly]] and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when your move ends, you fall.
 
 ##### FOR THE DIRECTOR: USE TACTICAL MAPS
 
-> This is a tactical game. To get the most out of the rules for movement, difficult terrain, and falling, you should use encounter maps with interesting environmental features. You might have ledges, pits of acid, walls of fire, mechanical traps, columns, giant webs, magical hazards, and the like for creatures to be thrown into, thrown off of, or thrown through. You’ll want most of your battles to take place in environments with plenty of space to move around, avoiding a lot of long corridors that are 1 square wide.
+> This is a tactical game. To get the most out of the rules for movement, [[Difficult Terrain|difficult terrain]], and falling, you should use encounter maps with interesting environmental features. You might have ledges, pits of acid, walls of fire, mechanical traps, columns, giant webs, magical hazards, and the like for creatures to be thrown into, thrown off of, or thrown through. You’ll want most of your battles to take place in environments with plenty of space to move around, avoiding a lot of long corridors that are 1 square wide.
 
 ##### STABILITY
 
-Each creature has a stability that allows them to resist forced movement. When a creature is forced moved, they can reduce the movement up to a number of squares equal to their stability. Heroes start with a stability of 0 that can be increased through kit and ancestry options.
+Each creature has a stability that allows them to resist [[Forced Movement|forced movement]]. When a creature is forced moved, they can reduce the movement up to a number of squares equal to their stability. Heroes start with a stability of 0 that can be increased through kit and ancestry options.
 
 ### MANEUVERS
 
@@ -7485,7 +7484,7 @@ Many rules and abilities allow heroes to make free strikes when it isn’t their
 
 #### OPPORTUNITY ATTACKS
 
-Whenever a creature within the reach of your melee [[Free Strike|free strike]] moves out of it without shifting, you can take advantage of their movement to quickly make a melee [[Free Strike|free strike]] against them as a free triggered action. This is called an opportunity attack.
+Whenever a creature within the reach of your melee [[Free Strike|free strike]] moves out of it without [[Shifting|shifting]], you can take advantage of their movement to quickly make a melee [[Free Strike|free strike]] against them as a free triggered action. This is called an opportunity attack.
 
 If you have a bane or double bane on the power roll against the creature, you can’t make the [[Free Strike|free strike]].
 
@@ -7557,7 +7556,7 @@ Damage immunity might have a damage type associated with it, expressed as “[da
 
 Whenever a target with damage immunity takes damage of the indicated type or from a power with the indicated keyword, they reduce the damage by the value of the immunity (to a minimum of 0 damage). If the value of the immunity is “all,” then the target takes no damage of the indicated type or from those powers.
 
-Certain creatures also have forced move damage immunity. Whenever they take damage from forced movement, that damage is reduced by a number equal to their immunity.
+Certain creatures also have forced move damage immunity. Whenever they take damage from [[Forced Movement|forced movement]], that damage is reduced by a number equal to their immunity.
 
 Damage immunity should be the last thing applied when calculating damage. For instance, if your hero has Weapon immunity 5 and takes 8 damage from a weapon attack, you would take 3 damage. If a tactician first halved the damage you take with the [[Parry]] triggered action, you would take 4 damage from the attack before immunity is applied, with immunity then reducing the damage to 0.
 
@@ -7638,9 +7637,9 @@ If a creature is fully submerged in water, they have fire immunity 5 and lightni
 
 ### MOUNTED COMBAT
 
-A willing allied creature with the Mount role (see Creature Roles in the Bestiary) can serve as your mount as long as their size is greater than yours. You can climb onto your mount freely (see Climbing Other Creatures). You can then use your maneuver on your turn to allow your mount to take a move action instead of you. The mount can benefit from this extra move action only once per round.
+A willing allied creature with the Mount role (see Creature Roles in the Bestiary) can serve as your mount as long as their size is greater than yours. You can climb onto your mount freely (see [[Climbing Other Creatures]]). You can then use your maneuver on your turn to allow your mount to take a move action instead of you. The mount can benefit from this extra move action only once per round.
 
-If a creature riding a mount is force moved, they are knocked off the mount, and must make a test to determine how they land (see Climbing Other Creatures). If a mount is force moved, they carry any riders with them.
+If a creature riding a mount is force moved, they are knocked off the mount, and must make a test to determine how they land (see [[Climbing Other Creatures]]). If a mount is force moved, they carry any riders with them.
 
 ### END OF COMBAT
 
@@ -7722,7 +7721,7 @@ If the heroes are able to end a fight with a dramatic finish, the Director assig
 
 #### EVENT ENDING
 
-If the Director calls the end of combat when a specific objective in an encounter is achieved, the event ending creates a big narrative finish. The Director can pick a narrative trigger for an event ending before an encounter begins, or can come up with one on the fly if that makes more sense.
+If the Director calls the end of combat when a specific objective in an encounter is achieved, the event ending creates a big narrative finish. The Director can pick a narrative trigger for an event ending before an encounter begins, or can come up with one on the [[Fly|fly]] if that makes more sense.
 
 Event endings can cover big scenarios, such as the characters destroying a dam to unleash a river upon their enemies, or completing a ritual that sends all the demons they've been battling back to the Abyssal Wasteland. These endings should be accompanied by vivid visual details. For example, if the heroes are battling a necromancer controlling a horde of zombies, the undead might crumble to dust upon the necromancer's defeat. Similarly, if the heroes destroy an eldritch machine sapping the land of its natural energy, the shockwave from its destruction could vaporize the cultists trying to protect it.
 
@@ -7738,7 +7737,7 @@ Think of negotiation as something like learning a new system for combat, explora
 
 ### WHEN TO NEGOTIATE
 
-In order for a negotiation to occur, an NPC must have an interest in negotiating with the heroes—but must also have a reason to not simply jump on board with whatever the heroes propose. Negotiations happen only when an NPC has that internal tension between interest and reluctance. For example, if the characters ask a king to send his army into a neighboring kingdom to battle a demon incursion, the king needs to be conflicted. He wants to stop the incursion, but he doesn’t want to risk the lives of his soldiers defending a foreign nation while leaving their own people unprotected. If the heroes want the help of the king’s army, they need to negotiate.
+In order for a negotiation to occur, an NPC must have an interest in negotiating with the heroes—but must also have a reason to not simply [[Jump|jump]] on board with whatever the heroes propose. Negotiations happen only when an NPC has that internal tension between interest and reluctance. For example, if the characters ask a king to send his army into a neighboring kingdom to battle a demon incursion, the king needs to be conflicted. He wants to stop the incursion, but he doesn’t want to risk the lives of his soldiers defending a foreign nation while leaving their own people unprotected. If the heroes want the help of the king’s army, they need to negotiate.
 
 Heroes aren’t expected to use the negotiation rules every time one character tries to convince an NPC to see things their way. For instance, if a hero wants information about a cult leader from a captured cultist, a single Presence test using the Lie skill or a Might test using Intimidate is likely all that’s needed. A character who wants to flirt with the local alchemist to obtain a free Healing Potion likely just needs to make a Presence test using the Flirt skill.
 
@@ -7819,7 +7818,7 @@ An NPC with the benevolence pitfall has a cynical view of the world, believing t
 Arguments that appeal to a benevolence motivation contend that if the NPC strikes a deal with the heroes, the people the NPC cares about will benefit from the deal. Example arguments include the following:
 
 - “If you lend us the Sword of Agathor, we can make Capital safer for your guild by using it to lay your enemies low.”
-- "If you can teleport us into the dragon’s cave, we’ll give you half the wyrm’s hoard once we cut off the creature’s head. That could benefit generations of students at your academy!"
+- "If you can [[Teleport|teleport]] us into the dragon’s cave, we’ll give you half the wyrm’s hoard once we cut off the creature’s head. That could benefit generations of students at your academy!"
 
 ##### DISCOVERY
 
@@ -8129,7 +8128,7 @@ If the NPC’s patience is 0 or their interest is 5, then the offer the NPC make
 
 If the NPC’s interest is 0, the NPC ends the negotiation without accepting a deal.
 
-The heroes can walk away from a negotiation without accepting a deal at any time.
+The heroes can [[Walk|walk]] away from a negotiation without accepting a deal at any time.
 
 ### SAMPLE NEGOTIATION
 

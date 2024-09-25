@@ -130,7 +130,7 @@ Your hardened scales grant you immunity 5 to one of the following damage types: 
 
 The legacy of the Dragon Phalanx lives in you. Choose one of the following benefits.
 
-- **DRACONIAN RUSH:** As a maneuver, you can fly in a straight line up to your speed. Until you reach level 6, you must end your turn on a solid surface or fall, then fall [[Prone|prone]].
+- **DRACONIAN RUSH:** As a maneuver, you can [[Fly|fly]] in a straight line up to your speed. Until you reach level 6, you must end your turn on a solid surface or fall, then fall [[Prone|prone]].
 
 - **DRACONIAN GUARD:** When you or a creature adjacent to you is attacked, you can use a triggered action to swing your wings around and guard against the blow, reducing any damage from the attack by an amount equal to your level + your Victories.
 

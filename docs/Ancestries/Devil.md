@@ -144,6 +144,6 @@ When you create a devil character, you have 3 fiend points, which you use to sel
 
 - **PREHENSILE TAIL (2 FIEND POINTS):** Your prehensile tail allows you to challenge foes on all sides. You can't be flanked.
 
-- **WINGS (2 FIEND POINTS):** You possess wings powerful enough to take you airborne. As a maneuver, you can switch between walking and flying when you are touching the ground, or vice versa when you are within 1 square of the ground. While flying, your stability drops to 0 and you have damage weakness 5. While using your wings to fly, you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall [[Prone|prone]].
+- **WINGS (2 FIEND POINTS):** You possess wings powerful enough to take you airborne. As a maneuver, you can switch between walking and flying when you are touching the ground, or vice versa when you are within 1 square of the ground. While flying, your stability drops to 0 and you have damage weakness 5. While using your wings to [[Fly|fly]], you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall [[Prone|prone]].
 
 - **SILVER TONGUE:** You can twist how your words are perceived to get a better read on people. You gain an edge when attempting to discover an NPC's motivations and pitfalls during negotiations (see *Negotiation*).
