@@ -1,6 +1,6 @@
 Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2024 MCDM Productions, LLC.
 
-## WHAT IS THIS GAME?
+# WHAT IS THIS GAME?
 
 This is a game about fighting monsters. About larger-than-life, extraordinary heroes plunging into battle against terrifying, monstrous enemies.
 
@@ -26,7 +26,7 @@ These terms are just guidelines. A vibe. But we find them useful when trying to 
 
 So let’s talk about what we mean when we use these terms.
 
-### TACTICAL
+## TACTICAL
 
 Strategy is: “What are we trying to do?” Break a siege, free a prisoner, rescue a captive, steal a tome of ancient lore. Strategy is about long-term goals.
 
@@ -46,7 +46,7 @@ You learn which characters are the “squishies” who need to be protected or h
 
 Our game is not about tactics. It’s not a war game. But it is tactical.
 
-### HEROIC
+## HEROIC
 
 Our game is definitely about heroism! :D
 
@@ -60,7 +60,7 @@ For instance, you never see Indiana Jones having to find a local sporting goods 
 
 These things do happen. No one watching *Raiders of the Lost Ark* thinks that Indy’s gun is magical and doesn’t need bullets—but we just don’t need to see Indy doing that stuff. We don’t need to waste time on it.
 
-### CINEMATIC
+## CINEMATIC
 
 Closely tied to the heroic keyword, the cinematic keyword is about how we like powers and abilities with a strong visual component. You can imagine your character doing or saying these things. “In All This Confusion” is a good name for the shadow’s ability to slip out of melee and retreat to safety. The text of the ability says how it works, but the name creates a visual that explains how it’s working.
 
@@ -68,7 +68,7 @@ When Sir Vanazor the dragon knight fury leaps onto a goblin war spider, cleaving
 
 You should imagine your tactician character leading the battle, granting your allies free attacks, extra maneuvers. Coordinating the battle. That’s what the name implies. And if we’ve done a good job, when you read the character’s abilities, you think, “Yes! This is what I was imagining! I can’t wait to do this!”
 
-### FANTASY
+## FANTASY
 
 Just … you know … it’s got dragons and stuff. :D
 
@@ -82,7 +82,7 @@ These core rules mostly cover the classic fantasy stuff. But we think Capital an
 
 For us, fantasy includes magic, like wizards casting spells, and psionics, the natural and focused ability some creatures have to manipulate and warp reality with their minds. You know, telekinesis and telepathy! Jean Grey style! Although heroes have a few of these options in the core rules, you’ll see more psionics in later products.
 
-### IF YOU’RE COMING FROM D20 FANTASY…
+## IF YOU’RE COMING FROM D20 FANTASY…
 
 If you’ve most often played medieval fantasy RPGs that use a d20 and have Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma as primary creature statistics, you’re going to notice a lot of similarities between that style of game and Draw Steel. But as talked about above, our game is explicitly heroic and tactical, and it includes our own ideas of what a fantasy world should include. As such, you’ll definitely notice some differences. We might use similar terminology for rules, but our use of those game terms might mean different things, because we’re trying to support a specific style of play and there are only so many words that make sense to use with a fantasy game in the English language.
 
@@ -96,7 +96,7 @@ Here are a few key distinctions between this game and typical d20 fantasy that y
 - **We won’t be able to point out every difference.** Beyond what’s noted here, don’t assume that these rules work like any d20 fantasy game you’ve played. We don’t have the space to point out every exception. So if you’re in doubt about how something works, put d20 fantasy out of your mind and read our rules without those assumptions, and you’ll find that things make better sense. If you’re still confused, stop by the MCDM Discord and ask. We’ve got tons of awesome community members ready to help!
 - **We don’t expect you to do everything to the letter.** This is actually one thing *Draw Steel* does have in common with d20 fantasy. This is a big book of rules! Don’t stress if you need to look something up or make a ruling about an edge case on the fly. If everyone’s having fun, you’re doing it right.
 
-## THE BASICS
+# THE BASICS
 
 The flow of playing Draw Steel is like playing any other tabletop roleplaying game with a Director (also called a Game Master or GM in other games). Play is a conversation between the Director and the heroes that describes the story. The Director sets the scene, describing the important elements of the environment that the heroes would notice.
 
@@ -192,43 +192,45 @@ The game uses three types of power rolls:
 
 When you make a power roll, you roll two ten-sided dice (sometimes noted as 2d10 in the rules) and add one of your characteristics. The characteristic you add depends on the kind of roll you’re making, as outlined in Abilities and Tests.
 
-### POWER ROLL OUTCOMES
+#### POWER ROLL OUTCOMES
 
 The result of a power roll determines your outcome tier—three levels that determine how successful your power roll is.
 
-- **Tier 1**: A result of 11 or lower. The worst result.
-- **Tier 2**: A result of 12 to 16. The average result.
-- **Tier 3**: A result of 17 or higher. The best result.
+**Tier 1**: If your power roll result is 11 or lower, it is a tier 1 result. This is the worst result a power roll can have. If you’re using an ability, a tier 1 result means you still do something, but the impact of what you do is minimal. With this result, an attack ability might deal a little bit of damage and not do much else. For a test, a tier 1 result means you fail at what you set out to do, and you might also suffer a negative consequence. 
 
-### DOWNGRADE A POWER ROLL
+**Tier 2**: If your power roll result is 12 to 16, it is a tier 2 result. This is the average result of many power rolls, especially for heroes who are 1st level. When using an ability, a tier 2 result means that what you do has a moderate impact. With this result, an attack ability deals a decent amount of damage and has an effect that briefly helps allies or hinders enemies. For a test, a tier 2 result means you might succeed at what you set out to do— though depending on the difficulty, success might have a cost. 
+
+**Tier 3**: If your power roll result is 17 or higher, it is a tier 3 result. This is the best result a power roll can have. When using an ability, a tier 3 result means you deliver the maximum impact possible. With this result, an attack ability deals a lot of damage and has a powerful or lasting effect on enemies or allies. For a test, a tier 3 result means you succeed at what you set out to do. If the test has an easy difficulty, you also get a little something extra in addition to your success
+
+#### DOWNGRADE A POWER ROLL
 
 Whenever you make a power roll, you can downgrade it to select the result of a lower tier. For instance, if an ability has a tier 3 result that lets you impose the restrained condition on a creature, but the tier 2 result for that ability lets you impose the slowed condition, you can use the tier 2 result if you would rather have the creature slowed than restrained.
 
 If you downgrade a critical hit, you still get the extra action benefit of the critical hit (see Critical Hit in Abilities).
 
-### NATURAL RESULT
+#### NATURAL RESULT
 
 The result of your power roll before your characteristic or any other modifiers are applied is called the natural result. The rules often refer to this as “rolling a natural X,” where X is the result of the roll. For example, if you get a 20 on the power roll before adding your characteristic, this is called rolling a natural 20.
 
 Whenever you roll a natural 19 or 20 on a power roll, you always achieve the tier 3 result, no matter what characteristic is added to the roll.
 
-## EDGES AND BANES
+### EDGES AND BANES
 
 An archer standing on a castle wall fires down into a throng of enemies, hitting the mark each time thanks to their high ground. A drunken bandit struggles to land blows on sober opponents as alcohol clouds their senses. Under certain circumstances, you need more than just a characteristic to represent the advantages and disadvantages that heroes, their enemies, and their allies might have.
 
-### EDGE
+#### EDGE
 
 An edge represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee attack against a prone creature gains an edge on the power roll for their attack. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to climb walls!
 
 When you make a power roll with a single edge, you add 2 to the roll. If you make a power roll with two or more edges, you have a double edge. This means you don’t add anything to the power roll, but the result of the roll automatically improves one tier (to a maximum of tier 3).
 
-### BANE
+#### BANE
 
 A bane represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make an attack while prone, the power roll for the attack takes a bane. A rainstorm might give you a bane on a power roll made to climb an outdoor wall because the weather makes the stone surface extra slick.
 
 When you make a power roll with a single bane, you subtract 2 from the roll. If you make a power roll with two or more banes, you have a double bane. This means you don’t subtract anything from the power roll, but the result of the roll automatically decreases one tier (to a minimum of tier 1).
 
-### ROLLING WITH EDGES AND BANES
+#### ROLLING WITH EDGES AND BANES
 
 Under certain circumstances, you might have one or more edges and banes on the same roll. For instance, you might take a bane when weakened by poison, even as you gain an edge for attacking a prone creature. In general, edges and banes cancel each other out, resolving as follows:
 
@@ -236,17 +238,17 @@ Under certain circumstances, you might have one or more edges and banes on the s
 - If you have a double edge and just one bane, the roll is made with one edge, regardless of how many single edge instances contribute to the double edge.
 - If you have a double bane and just one edge, the roll is made with one bane, regardless of how many single bane instances contribute to the double bane.
 
-### WHEN TO USE EDGES AND BANES
+#### WHEN TO USE EDGES AND BANES
 
 The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to climb a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
 
-### WHY CAP?
+#### WHY CAP?
 
-We capped edges and banes at a maximum of two each for several reasons, including thinking about the narrative of those penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a creature can only benefit or be hindered by short-term circumstances so much. For example, a character who is prone and weakened by poison already finds it difficult to attack—so that becoming restrained by a net can’t really make it harder.
+> We capped edges and banes at a maximum of two each for several reasons, including thinking about the narrative of those penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a creature can only benefit or be hindered by short-term circumstances so much. For example, a character who is prone and weakened by poison already finds it difficult to attack—so that becoming restrained by a net can’t really make it harder.
+> 
+> We also liked capping edges and banes at two because it keeps play quick. It’s nice to not need to count beyond two positive or negative circumstances in a battle with a lot of effects flying around.
 
-We also liked capping edges and banes at two because it keeps play quick. It’s nice to not need to count beyond two positive or negative circumstances in a battle with a lot of effects flying around.
-
-## BONUSES AND PENALTIES
+### BONUSES AND PENALTIES
 
 While edges and banes cover most circumstantial effects that can have an impact on a power roll, a few rules add numeric bonuses or penalties to power rolls. Bonus and penalty values are specified in the rules that impose them, and are calculated independently of edges and banes, and before edges and banes are factored into a power roll. There is no limit to the number of bonuses or penalties that can apply to a power roll, and bonuses and penalties always add together.
 
@@ -262,12 +264,12 @@ Players can also be awarded hero tokens as part of a test’s outcome when they 
 
 ### FOR THE DIRECTOR: AWARDING HERO TOKENS
 
-You can award hero tokens to the players for taking risks with their heroes beyond what the game typically expects of them. For instance, battling a group of monsters is part of the game and doesn’t earn a hero token. However, the following sorts of activities might:
-
-- A hero stands alone against a group of enemies to allow their comrades to escape.
-- A hero willingly jumps into quicksand, into lava, off a cliff, or into some other hazard to save another character.
-- The group is presented with an easy way out of a difficult situation that involves lying, cheating, stealing, or the like, but they take the more arduous and honorable path.
-- A hero gives away an important resource, such as a Healing Potion, to help another creature in need.
+> You can award hero tokens to the players for taking risks with their heroes beyond what the game typically expects of them. For instance, battling a group of monsters is part of the game and doesn’t earn a hero token. However, the following sorts of activities might:
+> 
+> - A hero stands alone against a group of enemies to allow their comrades to escape.
+> - A hero willingly jumps into quicksand, into lava, off a cliff, or into some other hazard to save another character.
+> - The group is presented with an easy way out of a difficult situation that involves lying, cheating, stealing, or the like, but they take the more arduous and honorable path.
+> - A hero gives away an important resource, such as a Healing Potion, to help another creature in need.
 
 ## GAME OF EXCEPTIONS
 
@@ -317,27 +319,27 @@ Whenever you finish a respite (see Respite), your Victories are converted into E
 
 ### FOR THE DIRECTOR: AWARDING VICTORIES
 
-We’re still figuring out rules for encounter building, but here are some general guidelines.
+> We’re still figuring out rules for encounter building, but here are some general guidelines.
+> 
+> A successful combat in which the party’s objectives are achieved earns the heroes 1 Victory. Particularly hard encounters are worth 2 Victories when completed. We’ll have better guidelines on this topic in the future, but for now, consider tough boss battles worth 2 Victories.
+> 
+> A successful negotiation or montage test should earn the heroes 1 Victory. Other noncombat challenges are left to the Director’s discretion, but consider the following guidelines to help you determine when awarding 1 Victory is warranted:
+> 
+> - If the heroes overcome a complicated trap that requires more than one test to find and disarm, award them 1 Victory.
+> - If the heroes investigate a series of clues in a mystery, award 1 Victory when they solve the mystery.
+> - If the heroes solve a complicated puzzle that requires them to use resources or would take most people at least 10 minutes to complete, award them a Victory.
+> - If the heroes achieve a major story goal that accomplishes a quest (such as saving a prince trapped by an evil baroness or stopping a necromancer from performing a world-ending ritual), award them 1 Victory.
+> - If the heroes use clever thinking to easily and surprisingly overcome or bypass a combat encounter, a negotiation, a montage test, a trap, a puzzle, or some other challenge that would award them 1 or more Victories in a more difficult fashion, award them 1 Victory. Clever thinking is just as worthy of a Victory—if not more so!
+> 
+> At the Director’s discretion, particularly hard negotiations, puzzles, mysteries, and other noncombat challenges can be worth 2 Victories.
 
-A successful combat in which the party’s objectives are achieved earns the heroes 1 Victory. Particularly hard encounters are worth 2 Victories when completed. We’ll have better guidelines on this topic in the future, but for now, consider tough boss battles worth 2 Victories.
-
-A successful negotiation or montage test should earn the heroes 1 Victory. Other noncombat challenges are left to the Director’s discretion, but consider the following guidelines to help you determine when awarding 1 Victory is warranted:
-
-- If the heroes overcome a complicated trap that requires more than one test to find and disarm, award them 1 Victory.
-- If the heroes investigate a series of clues in a mystery, award 1 Victory when they solve the mystery.
-- If the heroes solve a complicated puzzle that requires them to use resources or would take most people at least 10 minutes to complete, award them a Victory.
-- If the heroes achieve a major story goal that accomplishes a quest (such as saving a prince trapped by an evil baroness or stopping a necromancer from performing a world-ending ritual), award them 1 Victory.
-- If the heroes use clever thinking to easily and surprisingly overcome or bypass a combat encounter, a negotiation, a montage test, a trap, a puzzle, or some other challenge that would award them 1 or more Victories in a more difficult fashion, award them 1 Victory. Clever thinking is just as worthy of a Victory—if not more so!
-
-At the Director’s discretion, particularly hard negotiations, puzzles, mysteries, and other noncombat challenges can be worth 2 Victories.
-
-## EXPERIENCE
+### EXPERIENCE
 
 Victories temporarily increase a hero’s power during an adventure, but Experience (or XP) permanently improves their capabilities. Each time you finish a respite (see below), you gain XP equal to your Victories, then your Victories drop to 0. In other words, your Victories are converted to XP when you finish a respite.
 
 For more information on how XP increases your hero’s power, see Heroic Advancement.
 
-## HEROIC RESOURCES
+### HEROIC RESOURCES
 
 Your hero has a Heroic Resource (sometimes two Heroic Resources) determined by your class, and which you manage during play. For many classes, earning Resources can increase your hero’s power, and Resources are spent to activate your most powerful abilities. Other classes, like the talent, earn a negative resource that gives them a penalty during battle, and they gain the resource to activate their most powerful abilities. Each class gains and uses its Heroic Resource differently, and resources aren’t equivalent across classes. For example, 1 piety for the conduit isn’t worth as much as 1 focus for the tactician.
 
@@ -345,27 +347,27 @@ Some classes, such as the tactician and the fury, generate and use Heroic Resour
 
 Your hero’s class description has more information about how to use your Heroic Resource.
 
-## BAGS OF RATS AIN’T HEROIC
+### BAGS OF RATS AIN’T HEROIC
 
-Some players might think that quickly starting a fight with some bar patrons or carrying around a bag of rats is a good way to gather up those sweet, sweet Victories and Heroic Resources. Those strategies don’t work! The rules of the game exist to help you tell a cool heroic fantasy story, not so you can try to be clever and exploit them by harming innocent rats to “win.” In order to generate Victories and Heroic Resources, you must face and overcome challenges worthy of a hero!
+> Some players might think that quickly starting a fight with some bar patrons or carrying around a bag of rats is a good way to gather up those sweet, sweet Victories and Heroic Resources. Those strategies don’t work! The rules of the game exist to help you tell a cool heroic fantasy story, not so you can try to be clever and exploit them by harming innocent rats to “win.” In order to generate Victories and Heroic Resources, you must face and overcome challenges worthy of a hero!
 
-## RECOVERIES
+### RECOVERIES
 
 Each hero has a limited number of Recoveries that they can use to heal themself. Recoveries are a way to rally and get back some of the energy you lose in battle by taking a breather, accepting a little magical help from a conduit or troubadour, getting an allied tactician to inspire you with a rush of adrenaline, and so forth. Of course, your body can only rally so many times before your energy reserves are completely shot, so you have a limited number of recoveries as a result.
 
 When you spend a Recovery, you regain Stamina equal to your recovery value, which is one-third your Stamina maximum.
 
-### SPENDING RECOVERIES
+#### SPENDING RECOVERIES
 
 During combat encounters and similarly dangerous situations when time is tracked in rounds (see Combat), you can use the Catch Breath action to regain Stamina. See Catch Breath in Actions for more information. Some heroes have abilities that allow them or their allies to spend more Recoveries without using the Catch Breath action.
 
 Outside of combat and other dangerous situations, you can spend Recoveries freely.
 
-### REGAINING RECOVERIES
+#### REGAINING RECOVERIES
 
 You regain all lost Recoveries when you finish a respite (see Respite).
 
-## RESPITE
+### RESPITE
 
 A respite is a focused period of rest and recuperation that allows heroes to regain Stamina and Recoveries. During a respite, you must spend 24 hours uninterrupted and doing nothing but sleeping, eating, dressing your wounds, and recuperating. You can also undertake one respite activity, such as making a project roll (see Research and Crafting in future packets for more information), or changing your kit (see Kits).
 
@@ -423,7 +425,7 @@ House Navarr, the oldest of the Great Houses, enforces the law of the Church of 
 
 Arguably the most powerful Great House, House Valetta controls the city’s tax collectors, known as the Arbitros Fiat. Valetta is led by the Duchess Lenore, who opened theCodex Mortis while in mourning for her assassinated husband Maximo, speaking a ritual from that ancient necromantic artifact that should have returned her love to life. Instead, she brought about the Lilac Night, which transformed everyone in her district into undead—including herself. The Duchess Lenore is now an immortal vampire queen, a dead lady ruling over a dead city.
 
-### THE POWER OF THE GUILDS
+#### THE POWER OF THE GUILDS
 
 After the Lilac Night, with the city no longer able to rely on House Valetta to deliver the taxes it collected, Lady Shirome bought Great House status for the Fulcrum—the city’s assayer’s guild she controls—along with the Broadsheet Guild and the Farrier’s Guild. The Fulcrum controls the Trade Integrity Board, which sets lending rates and leads trade negotiations between Capital and other governments in Orden. It was that guild that convinced the late prince to switch the city to paper money. As a result, Capital is the first and only city in Orden to have a robust monetary policy.
 
@@ -431,7 +433,7 @@ The Broadsheet Guild, formally known as the Font, publishes the thrice-daily new
 
 The Farrier’s Guild, popularly known as the Rasp, controls transport throughout the city. The guild is led by Lord Kashimir, a heliox from the planar gateway city of Alloy. It was he who introduced the flying tapestries that metaphorically shrank Capital, allowing the rich and powerful to cross the thirteen-mile-wide city in just a few minutes. He also created the Kites, couriers famous for being able to get a message to anywhere in Capital in only a few hours. His monopoly on importing flying tapestries from Alloy gives Lord Kashimir enormous power, and he is not shy about wanting more.
 
-## THE MYRIAD WORLDS OF THE TIMESCAPE
+### THE MYRIAD WORLDS OF THE TIMESCAPE
 
 Orden is only one world in the timescape! Each star in the night sky is another world, though this fact is not known to most people living on Orden. Higher worlds are more energetic, affording access to alien technologies. Great star freighters ply the space lanes, with knights wielding psionically powered hard-light blades dueling against star pirates with hard-light blasters.
 
@@ -457,19 +459,19 @@ At the center of the Abyssal Waste lies the Necropolitan Ruin, the Last City. A 
 
 ### THE TIMESCAPE IN YOUR GAME
 
-We use the timescape and its medieval fantasy land Orden as the default setting presented in these books. Doing so makes it easier for us as designers to marry our design with real examples from a real (imaginary) fantasy world. We also think it’s easier for you to take the names for places, languages, and gods, and replace them with your own. We might reference some hero or villain, saint or god, whose name makes you think, “Well, I don’t have that in my setting.” If we do a good job, though, you might be inspired to say, “But that makes me think …” And being inspired is part of the fun!
+> We use the timescape and its medieval fantasy land Orden as the default setting presented in these books. Doing so makes it easier for us as designers to marry our design with real examples from a real (imaginary) fantasy world. We also think it’s easier for you to take the names for places, languages, and gods, and replace them with your own. We might reference some hero or villain, saint or god, whose name makes you think, “Well, I don’t have that in my setting.” If we do a good job, though, you might be inspired to say, “But that makes me think …” And being inspired is part of the fun!
+> 
+> If you’re the Director, you can use as many or as few of the details of the timescape as you like. You might wish to create your own world within the timescape, or use a setting you’ve created that exists outside of the official MCDM manifolds. You can use details from settings published by other companies. There are no rules when it comes to world-building. Feel free to take what you like from this book and change the rest. For example, you might not care for our dwarves having literal stone skin. That’s fine. You can make them fleshy, stout, bearded folk, or mohawked, barrel-chested punk rockers, or anything else you wish. As long as you’re running a heroic fantasy campaign about fighting monsters, then the game’s rules are still likely to serve your narrative even if that narrative deviates from ours.
+> 
+> If you’re a player, ask your Director about the setting where the game takes place and discuss with them the sort of hero you want to create. Maybe you want to play a more traditional gruff and bearded dwarf rather than go all short and stony. An open dialogue and honest discussion with your Director can lead to everyone getting what they want out of the game.
 
-If you’re the Director, you can use as many or as few of the details of the timescape as you like. You might wish to create your own world within the timescape, or use a setting you’ve created that exists outside of the official MCDM manifolds. You can use details from settings published by other companies. There are no rules when it comes to world-building. Feel free to take what you like from this book and change the rest. For example, you might not care for our dwarves having literal stone skin. That’s fine. You can make them fleshy, stout, bearded folk, or mohawked, barrel-chested punk rockers, or anything else you wish. As long as you’re running a heroic fantasy campaign about fighting monsters, then the game’s rules are still likely to serve your narrative even if that narrative deviates from ours.
-
-If you’re a player, ask your Director about the setting where the game takes place and discuss with them the sort of hero you want to create. Maybe you want to play a more traditional gruff and bearded dwarf rather than go all short and stony. An open dialogue and honest discussion with your Director can lead to everyone getting what they want out of the game.
-
-## MAKING A HERO
+# MAKING A HERO
 
 If you’re not the Director, then you create and play one of the main characters in the game’s story—a hero. Your hero is a person motivated to fight forces of evil to protect the innocent, but each hero has their own personal reason for doing so. You don’t have to be a pure beacon of good. Heroes have flaws and are complex, just like people in the real world. But your hero should be someone who isn’t afraid to battle monsters for altruistic reasons. If you’re only interested in playing a money-grubbing sellsword, you can achieve that with these rules, but you’ll likely be happier playing another game.
 
 The hero you create will be roleplayed by you. Often when referring to your hero, the rules use second-person pronouns (you/your) for shorthand, only making a distinction between you and your hero when that distinction is important.
 
-### YOUR FIRST SESSION
+## YOUR FIRST SESSION
 
 Getting together with your friends to make characters can be a lot of fun. Many groups spend most of their first session talking about the campaign’s story, making heroes, and going over expectations for the game. It’s a great way to kick off a long-term campaign.
 
@@ -481,7 +483,7 @@ The Director should make an agenda for a campaign’s first session—often call
 - Make heroes! Once everyone understands what the campaign is about, it’s the perfect time to get into character creation. When a group of players make heroes together, they can tie backstories together and strategize to build a tactically dominant party both in and out of combat.
 - The Director runs an encounter to kick off the campaign. If all the players have the time, it’s totally worth it to get some play in during the first session, even if it’s just a quick brawl in a tavern with some cultists! Giving the players a little action lets them see what the game is all about—and leaves them excited for the next session.
 
-### STEP-BY-STEP HERO MAKING
+## STEP-BY-STEP HERO MAKING
 
 Use the following step-by-step guide to create a hero. These steps are presented in what we believe is the best way to approach making your first hero for *Draw Steel*. That said, the order of the steps is still a suggestion, not a hard and fast rule.
 
@@ -491,7 +493,7 @@ You’ll want a character sheet to fill out while you make your hero.
 
 *(Playtest note: The character sheet is still to come.)*
 
-#### 1. THINK
+### 1. THINK
 
 The first thing you should do is think about the kind of hero you want to make. Ask yourself the following questions:
 
@@ -503,31 +505,31 @@ The first thing you should do is think about the kind of hero you want to make. 
 - What people, places, and objects are important to you?
 - How will your hero complement the strengths and weaknesses of the other heroes?
 
-#### 2. ANCESTRY
+### 2. ANCESTRY
 
 Choose your hero’s humanoid ancestry from among the range of ancestries available in the game—devil, dragon knight, dwarf, hakaan, high elf, human, memonek, orc, polder, revenant, time raider, or wode elf. Future supplements will introduce additional ancestries you can choose from. See *Ancestries* for more information.
 
 *(Playtest note: A selection of the game’s full range of ancestries are currently available, some of which feature lore entries.)*
 
-#### 3. CULTURE
+### 3. CULTURE
 
 Create your hero’s culture. Although ancestry gives your hero a number of physiological benefits, your culture describes the community that raised you and gives you languages and skills. See *Culture* for more information.
 
-#### 4. CAREER
+### 4. CAREER
 
 Choose your hero’s career, which describes what you did for a living before you became a hero. Your career gives you skills and a title, and might also give you languages, Renown, or knowledge for crafting and research. See *Careers* for more information.
 
-#### 5. CLASS
+### 5. CLASS
 
 Choose your hero’s class. This choice has the biggest impact on how your hero interacts with the rules of the game, especially the rules for combat. Your class provides your characteristic scores and Stamina, in addition to skills, several abilities, and other benefits. You can be a censor, conduit, elementalist, fury, null, shadow, tactician, talent, or troubadour. See *Classes* for more information.
 
 *(Playtest note: The currently available classes are the conduit, elementalist, fury, shadow, and tactician, each of which includes only 1st-level features.)*
 
-#### 6. KIT
+### 6. KIT
 
 Choose your hero’s kit. Your kit provides you with equipment and a fighting style that grants a signature ability and bonuses to one or more of your game statistics.
 
-#### 7. ADD FREE STRIKES
+### 7. ADD FREE STRIKES
 
 Every hero has the ability to make free strikes under certain circumstances—extra attacks that don’t require your action. (You can also make a free strike as an action on your turn, though you’ll usually have better options for your action.) Your class might grant you free strike options, but each character also has two standard free strikes.
 
@@ -557,15 +559,15 @@ A melee weapon free strike is a melee attack made with an unarmed strike or impr
 
 See *Free Strikes* for more information on using free strikes, and see *Abilities* for information on the ability format.
 
-#### 8. COMPLICATION
+### 8. COMPLICATION
 
 Your hero experienced an event that has left them with a benefit and a drawback. Complications are optional, so check with your Director to make sure your game is using them. See *Complications* for more information.
 
-#### 9. DETERMINE DETAILS
+### 9. DETERMINE DETAILS
 
 Once you’ve created your hero, it’s time to determine the additional details of their backstory, appearance, and personality. How do the events of their culture, career, inciting incident, and class tie together into a cohesive narrative? What’s their name? What do they look like? Do they have any cool scars? Any dope tattoos? Do they still sleep with their teddy bear? These sorts of details can help define a well-rounded hero.
 
-#### 10. MAKE CONNECTIONS
+### 10. MAKE CONNECTIONS
 
 Ask the Director if all the heroes start the campaign knowing each other. If they do, talk to the other players and build some connections between your heroes. If you like, you can use the following prompts to make those connections, or to come up with prompts of your own:
 
@@ -582,11 +584,11 @@ Answer these questions with the other players present, and be sure to get a play
 
 ### CHOOSING SKILLS
 
-This game has lots of skills, and lots of opportunities during character creation to gain them. We recommend recording a list of all the skills you might gain from the different steps of the character creation process, then making your choices at the end of that process rather than flipping back and forth through the book.
+> This game has lots of skills, and lots of opportunities during character creation to gain them. We recommend recording a list of all the skills you might gain from the different steps of the character creation process, then making your choices at the end of that process rather than flipping back and forth through the book.
+> 
+> If you gain the same specific skill from two different sources (for instance, from a career and a class), you can pick a different skill from the same skill group. See *Skills* for more information.
 
-If you gain the same specific skill from two different sources (for instance, from a career and a class), you can pick a different skill from the same skill group. See *Skills* for more information.
-
-### CHANGING CHARACTER OPTIONS
+## CHANGING CHARACTER OPTIONS
 
 If you pick a skill, ability, class, or any other option that you end up not liking after using it in the game—even your character’s ancestry—you can always freely change that option between game sessions. If you want to change an option during a session, ask your Director. If they say it’s fine to swap that option out for something else, go for it.
 
@@ -596,7 +598,7 @@ Your character’s heroic advancement is marked by level. Each time you gain a n
 
 In the standard setup for the game, heroes gain Experience each time they finish a respite. When you gain sufficient Experience, you gain a level during the same respite (see *Building a Heroic Narrative*). The Heroic Advancement table shows how much Experience (XP) you need to advance from one level to the next. The amount of Experience you gain is cumulative.
 
-### HEROIC ADVANCEMENT TABLE
+##### HEROIC ADVANCEMENT TABLE
 
 | XP Range | Level |
 | -------- | ----- |
@@ -640,11 +642,11 @@ Rather than tracking XP, some games see the heroes advance in level when they ac
 
 For many Directors using milestone advancement, the end of each adventure within a campaign serves as a milestone for leveling up. The Director can share these milestones with the players to encourage them to work toward particular goals, and to engage with the story and world the Director has prepared. For example, in a campaign where the heroes have to face nine evil mages, it makes sense that each time the heroes defeat a mage, they gain a level. The Director should keep milestone goals flexible, though. Defeating a mage could mean stopping them with violence, using negotiation to make them stand down, or anything else that thwarts their evil plans.
 
-### DIRECTOR SAYS SO
+#### DIRECTOR SAYS SO
 
 Some games don’t track XP or goals at all. The heroes simply gain a level whenever the Director decides it’s appropriate for the story.
 
-## ANCESTRIES
+# ANCESTRIES
 
 Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are devils, dwarves, elves, time raiders—even humans with their ability to sense the supernatural.
 
@@ -652,7 +654,7 @@ Your hero is one of these folks! The fantastic ancestry you choose bestows benef
 
 Ancestry describes how you were born. Culture (in the next chapter) describes how you grew up. If you want to be a wode elf who was raised in a forest among other wode elves, you can do that! If you want to play a wode elf who was raised in an underground city of dwarves, humans, and orcs, you can do that too!
 
-### ON THE ORIGIN OF SPECIES
+## ON THE ORIGIN OF SPECIES
 
 Orden is a fantasy world. It works on principles similar to those many people throughout history believed governed the real world. "I dunno, a god did it probably."
 
@@ -682,7 +684,7 @@ This is only how it works on Orden. You may have completely different explanatio
 
 At the end of the day, if you throw out all of this and replace it with something you made up, it will be better. Because it’s *yours*!
 
-### STARTING SIZE AND SPEED
+## STARTING SIZE AND SPEED
 
 Unless otherwise noted, a character from any of these ancestries is size 1M and has a speed of 5.
 
@@ -1029,15 +1031,15 @@ You are young yet, but already those who work evil deeds should fear you. You ar
 
 [^1]: This is what happens when you let a dwarven troubadour write the dwarf entry.
 
-## DWARF BENEFITS
+### DWARF BENEFITS
 
 As a dwarf character, you have the following benefits:
 
-### GROUNDED
+#### GROUNDED
 
 Your heavy stone body and connection to the earth makes it difficult for others to move you. Your stability increases by 1.
 
-### RUNIC CARVING
+#### RUNIC CARVING
 
 You can carve a magic rune onto your skin. The rune you carve determines the benefit you receive. You can change or remove this rune with 10 minutes of work while not engaged in combat.
 
@@ -1045,22 +1047,20 @@ You can carve a magic rune onto your skin. The rune you carve determines the ben
 - **Light:** Your skin sheds light for 10 squares. You can turn this on and off as a maneuver.
 - **Voice:** As a maneuver, you can communicate telepathically with another willing creature you have met before whose name you name, who can speak and understand a language you know, and is within 1 mile of you. You and the creature can respond to one another as if having a normal conversation. You can change the person you communicate with by changing the rune.
 
+#### SPARK OFF YOUR SKIN 
+
+Your stone skin affords you potent protection. Your Stamina increases by 6 at 1st level, then increases by an additional 1 each time you gain a new level
+
 ## ELF, WODE
 
 See you the wood so dark and deep,
-
 Where runs the fox and hare?
-
 You know now why your mother weeps.
-
 Your father’s bones lie there.
 
 See you the river clear and sweet
-
 So beautiful and fair?
-
 Follow it in and you may meet
-
 The Queen of Dark and Air.
 
 Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among humans for snatching children who wander too far into the woods. Humans should fear the trees.
@@ -1701,10 +1701,6 @@ John took a deep breath and came back to reality. “Well. If we could be picky,
 
 The polder looked at the high elf and nodded, impressed. Test passed.
 
-31
-
-**Draw Steel © 2024 MCDM Productions, LLC**
-
 “Okay. Well, if you’ve already got a candidate, I could get things started. The other half is: we need a good story—short, punchy. Something that’ll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre … no, three ogres. Yeah, three is better. Three ogres in Ajax’s livery. A lone figure standing against them. See? Easy.”
 
 “Where are we going to find three ogres?” John asked.
@@ -1759,19 +1755,19 @@ The knight stared at them for a moment, then turned back to his friend.
 
 “Maybe you’re right,” the dragon knight said.
 
-## POLDER BENEFITS
+### POLDER BENEFITS
 
 As a polder character, your size is 1S and you have the following benefits.
 
-### POLDER GEIST
+#### POLDER GEIST
 
 When you start your turn while no creatures have line of effect to you, or while you are hidden from or have concealment from all creatures with line of effect to you, your speed is increased by 3 until the end of your turn.
 
-### SHADOWMELD
+#### SHADOWMELD
 
 You gain the following ability:
 
-#### SHADOWMELD
+##### SHADOWMELD
 
 You become an actual shadow.
 
@@ -2024,7 +2020,7 @@ Your multiple arms let you take on multiple tasks at the same time. Whenever you
 
 Your mind is a formidable layer of defense, granting you psionic immunity 5.
 
-## CULTURE
+# CULTURE
 
 What makes a hero? Is their desire to stand up for the innocent and protect others somehow innate? Are they born knowing that tyrants must fall? Does a higher power instill the idea that sometimes those least deserving of compassion are those who need it most?
 
@@ -2032,7 +2028,7 @@ No. A hero’s life experience teaches them right from wrong—and that experien
 
 (Playtest note: Sample cultures are coming.)
 
-### CREATING A CULTURE
+## CREATING A CULTURE
 
 A hero’s culture describes the beliefs, customs, values, and way of life held by the community in which they were raised. This community provides life experiences that give a character some of their game statistics. Even if a hero doesn’t share their culture’s values, those values shaped their early development and way of life. In fact, some people become heroes primarily from the rejection of the ways of their culture.
 
@@ -2052,7 +2048,7 @@ In many worlds, at least some cultures have a majority ancestry. The people of B
 
 Building a character is about more than adding up your stats, picking skills and abilities, and recording that information on a character sheet. You’re building a hero—a main character in a story, be it a one-shot or a heroic campaign. Think about the personality and the past of who you are creating. That’s why the game lets you build a culture rather than simply saying, “Pick three skills and a bonus language.” We want players to imagine their heroes as complex and intricate characters.
 
-### CULTURE BENEFITS
+## CULTURE BENEFITS
 
 The culture you choose or create grants you the following benefits:
 
@@ -2060,11 +2056,11 @@ The culture you choose or create grants you the following benefits:
 - From the environment, organization, and upbringing aspects of your culture, you gain access to skills. You can select one skill from each aspect’s list of options. (See Skills for details.)
 - You gain an edge on tests to recall lore about your culture, and on tests to influence and interact with people of your culture.
 
-#### LANGUAGE
+### LANGUAGE
 
 Your culture’s language aspect determines how the people of your culture communicate. This can be any language in Languages.
 
-#### ENVIRONMENT
+### ENVIRONMENT
 
 Your culture’s environment aspect describes where the people of that culture spend most of their time. Is your culture centered in a bustling city or a small village? Did you spend your early life in an isolated monastery? Or did you wander the wilderness, never staying in one place for long?
 
@@ -2104,13 +2100,13 @@ A wilderness culture doesn’t attempt to tame the terrain in which its people l
 
 **Skill Options:** One skill from the crafting or exploration skill groups.
 
-#### ORGANIZATION
+### ORGANIZATION
 
 Your culture’s organization aspect determines the functioning and leadership of your community. You might come from a place with an officially recognized government and a system of laws. Or your culture might have enjoyed a less formal organization, with the people in charge having naturally gravitated toward their positions without any official offices or oaths.
 
 When you build a culture, select its organization aspect from the following options: anarchic, bureaucratic, or communal. You then gain skill options from your chosen system of organization.
 
-##### ANARCHIC
+#### ANARCHIC
 
 In an anarchic culture, there are no rules and no one person leads the others. This might sound like complete chaos—people taking what they want when they want it—and some cultures that practice anarchy are. Other anarchic cultures are peaceful places where people mostly work for themselves, their friends, or their family, but rely on the whole group when times get tough.
 
@@ -2120,7 +2116,7 @@ Most anarchic cultures operate outside of settled lands, sticking to the wilds, 
 
 **Skill Options:** One skill from the exploration or intrigue skill groups.
 
-##### BUREAUCRATIC
+#### BUREAUCRATIC
 
 Bureaucratic cultures are steeped in official leadership and formally recorded laws. Members of such a culture are often ranked in power according to those laws, with a small group of people holding the power to rule according to birthright, popular vote, or some other official and measurable standard. Many bureaucratic communities have one person at the very top, though others might be ruled by a council. A trade guild with a guildmaster, treasurer, secretary, and a charter of rules and regulations for membership; a feudal lord who rules over a group of knights, who in turn rule over peasants who work the land; and a militaristic society with ranks and rules that its people must abide are all examples of bureaucratic cultures.
 
@@ -2128,7 +2124,7 @@ Those who thrive in bureaucratic cultures don’t just follow the rules. They kn
 
 **Skill Options:** One skill from the intrigue or lore skill groups.
 
-##### COMMUNAL
+#### COMMUNAL
 
 A communal culture has no formal book of laws or rules for governing. Instead, the community works together to pick leaders and make important decisions. Often in these cultures, each person has a relatively equal say in how the culture operates, and everyone contributes to help the culture survive and thrive. People share the burdens of governing, physical labor, childcare, and other duties. A collective of farmers who work together to cultivate and protect their land without a noble, a city of pirates where each person can do as they wish, and a traveling theatrical troupe whose members vote on every artistic and administrative decision are all communal cultures.
 
@@ -2136,89 +2132,89 @@ Some communal cultures have one or more people who serve as leaders, but the way
 
 **Skill Options**: One skill from the crafting or interpersonal skill groups.
 
-#### UPBRINGING
+### UPBRINGING
 
 Your culture’s upbringing aspect is a more specific and personal part of your hero’s story, describing how you were individually raised within your culture. Were you trained to become the newest archmage in a secret order of wizards, or to be a sword-wielding bodyguard who protected that arcane organization? Did you learn to delve deep into mines looking for ore in a mountain kingdom, or did you build machines meant to dig faster and deeper than any person could alone? Whatever your culture, your upbringing makes you special within that culture.
 
 Pick your upbringing aspect from the following list: academic, creative, illegal, labor, martial, or noble. You then gain skill options from your chosen aspect.
 
-##### ACADEMIC
+#### ACADEMIC
 
 Heroes with an academic upbringing were raised by people who collect, study, and share books and other records. Some academics focus on one area of study, such as a college for wizards dedicated to the study of magic, or a church that teaches the word of one deity. People in an academic culture learn how to wield the power that is knowledge.
 
 **Skill Options**: One skill from the lore skill group.
 
-##### CREATIVE
+#### CREATIVE
 
 Heroes with a creative upbringing were raised among folk who create art or other works valuable enough to trade. A creative culture might produce fine art such as dance, music, or sculpture, or more practical wares such as wagons, weapons, tools, or buildings. People in such cultures learn the value of quality crafting and attention to detail.
 
 **Skill Options**: The Music or Perform skill, or one skill from the crafting skill group.
 
-##### ILLEGAL
+#### ILLEGAL
 
 Heroes with an illegal upbringing had caregivers who performed activities that other folk—whether within or outside their culture—considered unlawful. A band of pirates, a guild of assassins, or an organization of spies all commit unlawful acts for money. People with illegal upbringings typically don’t mind breaking the rules when it suits them—and are good at making sure no one finds out they did.
 
 **Skill Options**: One skill from the intrigue skill group.
 
-##### LABOR
+#### LABOR
 
 People who labor for a living survive through cultivation, typically raising crops or livestock on a farm; by harvesting natural resources, whether by hunting, trapping, logging, or mining; or through manual labor tied to settlement and trade, such as construction, carting, loading cargo, and so forth. People with a labor upbringing know the value of hard work.
 
 **Skill Options**: One of the Blacksmithing or Handle Animals skills, or one skill from the exploration skill group.
 
-##### MARTIAL
+#### MARTIAL
 
 Heroes who have a martial upbringing are raised by warriors. These might be the soldiers of an established army, a band of mercenaries, a guild of monster-slaying adventurers, or any other folk whose lives revolve around combat. Heroes with a martial upbringing are always ready for a fight—and they know how to finish that fight.
 
 **Skill Options**: One of the Alertness, Blacksmithing, Climb, Endurance, Fletching, Intimidate, Jump, Monsters, Ride, or Track skills.
 
-##### NOBLE
+#### NOBLE
 
 Heroes with a noble upbringing were raised by leaders who rule over others and play the games of politics to maintain power. Many families are nobles by birthright, but some cultures have noble titles that are earned through deeds or popularity. Whatever the case, heroes with this background understand why the whispered words in the right ear can sometimes be more powerful than any army.
 
 **Skill Options**: One skill from the interpersonal skill group.
 
-##### BUT I REALLY WANT ALERTNESS
+#### BUT I REALLY WANT ALERTNESS
 
-If the culture you create doesn’t grant a skill that you want, check with your Director about modifying what the culture’s aspects offer. For instance, you can easily make the case that a culture with the martial upbringing aspect should give a character access to the Alertness skill, given that being successful in battle means always being aware of your surroundings.
+> If the culture you create doesn’t grant a skill that you want, check with your Director about modifying what the culture’s aspects offer. For instance, you can easily make the case that a culture with the martial upbringing aspect should give a character access to the Alertness skill, given that being successful in battle means always being aware of your surroundings.
 
-## CAREER
+# CAREER
 
 Hero isn’t a job. It’s a calling. But before you answered that call, you had a different job or vocation that paid the bills. Thank the gods for that, because the experience you gained in that career is now helping you save lives and slay monsters.
 
 (Playtest note: Eight careers are detailed below, with more coming.)
 
-### CAREER QUESTIONS
+## CAREER QUESTIONS
 
 The careers in this section don’t go into great detail about the actual jobs they represent. We assume that you know the basics of what an artisan, a criminal, or a gladiator does for a living. However, each career does include a list of questions that you should think about to help you define the specific details of your hero’s career. For instance, if you pick the Artisan career, one of the questions is, “What did you create?” You don’t need to answer these questions, but doing so helps shape a more complete picture of your hero.
 
-### CAREER BENEFITS
+## CAREER BENEFITS
 
 Your career describes what your life was before you became a hero. When you select a career, you gain a number of benefits, the details of which are specified in the career’s description.
 
-#### SKILLS
+### SKILLS
 
 Each career grants you two or three skills. If a career grants you a skill you already have, you can select a different skill.
 
-#### LANGUAGES
+### LANGUAGES
 
 Some careers allow you to learn extra languages, chosen from those available in Languages.
 
-#### RENOWN
+### RENOWN
 
 Some careers increase your starting Renown score. See Renown for more information.
 
-#### PROJECT POINTS
+### PROJECT POINTS
 
 Some careers provide project points that you can put toward research and crafting projects (see Research and Crafting in future packets for more information). These points can be divided among multiple projects, but they can’t be used more than once. At the Director’s discretion, your career might also let you start the game with the materials needed for one or more projects, so that you can immediately put your project points toward them.
 
-#### CAREER TITLE
+### CAREER TITLE
 
 Your career provides you with a common title. See Titles for more information.
 
 (Playtest note: The Titles section is still to come.)
 
-### INCITING INCIDENT
+## INCITING INCIDENT
 
 Each career has a list of inciting incidents, each of which suggests a potential reason why you gave up your career, turned away from a possibly comfortable and reliable living, and took up the sword (or axe or wand) to become an adventuring hero. Each inciting incident represents a life-changing event that might have motivated you to change course, becoming a person who risks it all to save others.
 
@@ -2226,13 +2222,13 @@ You can roll for or choose an inciting incident from the table that accompanies 
 
 (Playtest note: There are currently three inciting incidents for each career. More are coming.)
 
-#### WHAT WAS TAKEN FROM YOU?
+### WHAT WAS TAKEN FROM YOU?
 
 During your inciting incident, something was taken from you. It might have been a material object, such as an heirloom sword or a locket that proves your royal heritage. It could be a person you loved who was killed, kidnapped, or cursed. It might be something deeper and more abstract, as with a chance for happiness or a lifetime goal snatched away.
 
 It might be the case that you’re obsessed with getting back what you lost. You might be in a position where you’ll never recover what was taken from you, but you want to prevent that same loss from happening to others. It might be a little bit of both. Whatever the case, the loss you’ve suffered is part of what drives you to be a hero. Record what was taken from you on your character sheet, and let your Director know.
 
-### ARTISAN
+## ARTISAN
 
 You started off making and selling art or useful wares. In defining your career, think about the following questions:
 
@@ -2248,7 +2244,7 @@ You gain the following career benefits:
 - **Project Points**: 100
 - **Title**—Expert Artisan: Whenever you make a test as part of a research or crafting project that uses a skill you have from the crafting skill group, you can roll the test twice and use either roll.
 
-#### ARTISAN INCITING INCIDENTS
+### ARTISAN INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                          |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2256,7 +2252,7 @@ You gain the following career benefits:
 | 2   | **Inspired**: As you traveled the road selling your wares, troll bandits attacked you. One of the bandits claimed an item belonging to someone precious to you—or perhaps claimed that person’s life—but the rest were driven off or slain by a group of heroes. Seeing the quick work these heroes made of the bandits inspired you to follow in their footsteps.                                |
 | 3   | **Robbery**: A criminal gang stole your goods and harmed a number of people who worked for you. You became a hero to prevent such indignities from being visited upon others, to seek revenge for the assault, or to find the thieves and get your stuff back.                                                                                                                                    |
 
-### CRIMINAL
+## CRIMINAL
 
 You once worked as a bandit, insurgent, smuggler, outlaw, or even as an assassin. In defining your career, think about the following questions:
 
@@ -2272,7 +2268,7 @@ You gain the following career benefits:
 - **Project Points**: 50
 - **Title**—Lucky Dog: When you fail a test using any skill from the intrigue skill group, you can roll a d6. You lose Stamina equal to the roll and improve the result of your test by one tier. You can make this roll only once per test.
 
-#### CRIMINAL INCITING INCIDENTS
+### CRIMINAL INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                                                |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2280,7 +2276,7 @@ You gain the following career benefits:
 | 2   | **Friendly Priest**: You went to prison for your crimes and eventually escaped. An elderly priest took you in and shielded you from the law, convinced that your soul wasn’t corrupt. They never judged you for your past, speaking only of the future. Eventually, the priest died, imparting final words that inspired you to become a hero.                                                                          |
 | 3   | **Stand Against Tyranny**: When a tyrant rose to power in your homeland, they began cracking down on all criminals with deadly raids and public executions. The nature of the crime didn’t matter—pickpockets and beggars were made to kneel before the axe alongside murderers. After losing enough friends, you stood up and joined the resistance—not just against this tyrant, but against authoritarians anywhere. |
 
-### GLADIATOR
+## GLADIATOR
 
 In the past, you entertained the masses with flashy displays of violence in the arena. In defining your career, think about the following questions:
 
@@ -2296,7 +2292,7 @@ You gain the following career benefits:
 - **Renown**: 2
 - **Title**—Monologue Champion: When you are not in combat, you can shout to get the attention of all creatures within 10 squares of you. Each creature who is not hostile toward you listens to what you have to say for at least the next minute, or until they sense danger or any form of imminent harm. While creatures are listening to you, your allies gain an edge on tests made to avoid being noticed by those creatures.
 
-#### GLADIATOR INCITING INCIDENTS
+### GLADIATOR INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2304,7 +2300,7 @@ You gain the following career benefits:
 | 2   | **Heckler**: As you stood victorious on the arena sands, a voice cried out among the cheering. “This violence is just for show. You should be ashamed. There are people who need you—who need your skills!” Why did that voice ring so clear? And why did it sound so familiar? You never saw the face of the person who uttered the words, but they weighed heavy on you. The next day, you fled the arena to begin a hero’s life. |
 | 3   | **New Challenges**: You earned every title you could. You beat every opponent willing to face you in the arena. Your final battle with your rival ended with you victorious—and yet you were unsatisfied. There are other, greater foes out there, and you mean to find them.                                                                                                                                                       |
 
-### LABORER
+## LABORER
 
 You worked as a farmer, a builder, a lumberjack, a miner, or some other profession engaged in hard manual labor. In defining your career, think about the following questions:
 
@@ -2320,7 +2316,7 @@ You gain the following career benefits:
 - **Project Points**: 50
 - **Title**—Team Backbone: When you take your first turn during a montage test, you can both make a test and assist another hero’s test.
 
-#### LABORER INCITING INCIDENTS
+### LABORER INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                             |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2328,7 +2324,7 @@ You gain the following career benefits:
 | 2   | **Embarrassment**: A noble you worked for admonished you publicly for work done poorly—more than once. Finally, you had enough. You vowed to take up a new path and show this noble that you are far more than what they make you out to be.                                                                                         |
 | 3   | **Live the Dream**: You worked with a good friend, and on the job you’d always fantasize about what it’d be like to hit the road as adventuring heroes—someday. You didn’t count on your friend falling ill and passing away. Now it’s time to live out that dream for both of you.                                                  |
 
-### MAGE'S APPRENTICE
+## MAGE'S APPRENTICE
 
 For long years, you studied magic under the mentorship of a more experienced mage. In defining your career, think about the following questions:
 
@@ -2344,7 +2340,7 @@ You gain the following career benefits:
 - **Renown**: 1
 - **Title**—Hedge Mage: You have the Arcane Trick ability.
 
-##### ARCANE TRICK
+#### ARCANE TRICK
 
 You cast an entertaining spell that creates a minor but impressive magical effect.
 
@@ -2363,7 +2359,7 @@ You cast an entertaining spell that creates a minor but impressive magical effec
 - You place a small magical inscription on the surface of a mundane object you can touch, or remove an inscription that was made by you or by another creature using Arcane Trick.
 - You cover a size 1T object that you touch with an illusion that makes it look like another object. A creature who handles the object can see through the illusion. The illusion ends when yo
 
-#### MAGE'S APPRENTICE INCITING INCIDENTS
+### MAGE'S APPRENTICE INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                                          |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2371,7 +2367,7 @@ You cast an entertaining spell that creates a minor but impressive magical effec
 | 2   | **Ultimate Power**: The mage you worked for was a kindly old soul, but the basic magic they taught you always seemed like a small part of something bigger. It wasn’t until you met an adventuring elementalist that you realized hitting the road as a hero was the only way to truly improve and hone your skills. You resigned your apprenticeship and found yourself walking the path of a hero the next day. |
 | 3   | **Missing Mage**: One day you woke up and the mage you worked for was just gone. They didn’t take any of their belongings, and there was no sign of any foul play—just the scent of sulfur in their bedchamber. You set out on your heroic journey in the aftermath, and have been looking for them ever since.                                                                                                   |
 
-### PERFORMER
+## PERFORMER
 
 You can sing, act, or dance well enough that people actually pay to see you do it. Imagine that! In defining your career, think about the following questions:
 
@@ -2386,7 +2382,7 @@ You gain the following career benefits:
 - **Renown**: 2
 - **Title**—Dazzler: When a creature watches you perform a song, dance, or role (as an actor, not in disguise) for at least 1 minute, you gain an edge on tests made to influence that creature for 1 hour after the performance ends.
 
-#### PERFORMER INCITING INCIDENTS
+### PERFORMER INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                     |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2394,7 +2390,7 @@ You gain the following career benefits:
 | 2   | **Fame and Fortune**: You thought you were famous—then that hero came to your show. Suddenly, all eyes were on the dragon-slaying brute instead of the stage where they belonged. The audience even gave them a standing ovation when they entered the room. All you got was polite applause. Fine. If people want a hero, then a hero you shall be.                                         |
 | 3   | **Tragic Lesson**: When a producer who once shortchanged you shouted out on the street for you to stop a thief who had picked their pocket, your spite toward the producer inspired you to let the thief run right on by. But that decision led to tragedy when the thief later harmed someone you loved. From that moment on, you decided to make it your responsibility to protect others. |
 
-### SAGE
+## SAGE
 
 From an early age, you dedicated yourself to learning, whether you shared the knowledge of the world with others or sought out secret lore only for yourself. In defining your career, think about the following questions:
 
@@ -2410,7 +2406,7 @@ You gain the following career benefits:
 - **Project Points**: 100
 - **Title**—Expert Sage: Whenever you make a test as part of a research or crafting project that uses a skill you have from the lore skill group, you can roll the test twice and use either roll.
 
-#### SAGE INCITING INCIDENTS
+### SAGE INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                  |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2418,7 +2414,7 @@ You gain the following career benefits:
 | 2   | **Cure the Curse**: You used to think knowledge could fix everything. You were wrong. When someone you loved fell under a curse, the means to cure them couldn’t be found in any of the books you owned. But that wasn’t going to stop you. The answers are out there, and you’ll find them even if you need to face down death to do so. |
 | 3   | **Lost Library**: An evil mage took all your books for themselves, cackling at your impotence as they raided your shelves. Now you’re off to search through ancient ruins and secret libraries to rebuild your collection of rare tomes—and to find the mage who stole from you.                                                          |
 
-### SOLDIER
+## SOLDIER
 
 In your formative years, you fought tirelessly in skirmishes and campaigns against enemy forces. In defining your career, think about the following questions:
 
@@ -2434,7 +2430,7 @@ You gain the following career benefits:
 - **Renown**: 1
 - **Title**—Drill Sergeant: At the start of a group test or montage test, you can spend a hope token. If you do, all participants make tests as if they also had your exploration skills.
 
-#### SOLDIER INCITING INCIDENTS
+### SOLDIER INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2442,7 +2438,7 @@ You gain the following career benefits:
 | 2   | **Out of Retirement**: You had a long and storied career as a soldier before deciding to retire to a simpler life. But when you returned to your old home, you found that your enemies had laid waste to it. Now the skills you earned on the battlefield are helping you as you become a different kind of warrior, seeking to save others from the fate you suffered. |
 | 3   | **Sole Survivor**: You were the last surviving member of your unit after an arduous battle or monstrous assault, surviving only because of your luck. You turned away from the life of a soldier then, seeking to become a hero who could stand against such threats.                                                                                                   |
 
-## CLASSES
+# CLASSES
 
 (Playtest note: Introduction to come.)
 
@@ -2450,13 +2446,13 @@ Your class provides you with most of your abilities. For details on the ability 
 
 (Playtest note: The currently available classes are the conduit, elementalist, fury, shadow, and tactician, each of which includes only 1st-level features.)
 
-## CONDUIT
+# CONDUIT
 
 The power of the gods flows through you! As a vessel for divine magic, you don’t just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. While the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
 
 As a conduit, you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, aweing your enemies and granting you increased empathy.
 
-### BASICS
+## BASICS
 
 - **Starting Characteristics**: You start with an Intuition of 2 and a Presence of 2, and can choose one of the following arrays for your other characteristic scores:
   - 2, −1, −1
@@ -2475,11 +2471,11 @@ As a conduit, you heal and buff your allies, and debuff your foes while smiting 
 | 2nd   | Gift of the Gods, Domain Feature, Domain Ability Signature, 3, 5, 5 (Domain)                                             |
 | 3rd   | Restore Life, 7-Piety, Ability Signature, 3, 5, 5 (Domain), 7                                                            |
 
-### 1ST-LEVEL FEATURES
+## 1ST-LEVEL FEATURES
 
 As a conduit, you gain the following features.
 
-#### DEITY AND DOMAINS
+### DEITY AND DOMAINS
 
 Choose a god or saint who you revere from the Conduit Deities table, or ask your Director about the deities in your campaign world. With the Director’s permission, you can also create your own deity, and can choose four domains to be part of their portfolio.
 
@@ -2487,7 +2483,7 @@ After choosing your deity, pick two domains from their portfolio. Your choice of
 
 (Playtest note: More gods and saints are coming, along with their descriptions.)
 
-### CONDUIT DEITIES
+#### CONDUIT DEITIES
 
 | Deity   | Domains                         |
 | ------- | ------------------------------- |
@@ -2498,7 +2494,7 @@ After choosing your deity, pick two domains from their portfolio. Your choice of
 | Salorna | Death, Nature, Storm, Sun       |
 | Viras   | Creation, Life, Love, Trickery  |
 
-#### PIETY
+### PIETY
 
 Your deity grants you a Heroic Resource called piety to fuel your abilities. You use piety to heal and empower your allies, and to unleash your deity’s power upon your foes.
 
@@ -2521,55 +2517,55 @@ When a combat encounter begins, you keep any piety you had outside of combat. At
 
 **Effect**: The first time you use this ability during an encounter, it has a double edge. The second time you use it, it takes an edge. The third time you use it, it takes a bane. The fourth and each subsequent time you use this ability during an encounter, it has a double bane.
 
-### DOMAIN EFFECTS
+#### DOMAIN EFFECTS
 
 Whenever you get the tier 3 result of the Prayer ability, you can choose one of your domain’s effects to immediately take effect.
 
-#### CREATION DOMAIN EFFECT
+##### CREATION DOMAIN EFFECT
 
 You create a 5 wall of stone within 10 squares of you.
 
-#### DEATH DOMAIN EFFECT
+##### DEATH DOMAIN EFFECT
 
 Two enemies of your choice within 10 squares of you take corruption damage equal to 5 + your conduit level.
 
-#### FATE DOMAIN EFFECT
+##### FATE DOMAIN EFFECT
 
 Choose another creature you have line of effect to. That creature automatically gets a tier 1 or tier 3 result (your choice) on their next power roll.
 
-#### KNOWLEDGE DOMAIN EFFECT
+##### KNOWLEDGE DOMAIN EFFECT
 
 Choose up to three allies within 10 squares of you. Each ally has a double edge on the next power roll they make.
 
-#### LIFE DOMAIN EFFECT
+##### LIFE DOMAIN EFFECT
 
 You or an ally within 10 squares of you can spend 2 Recoveries, can end any effects on them that have a duration of EoT or are ended by a resistance roll, and can stand up if they are prone. Alternatively, you or an ally within 10 squares of you gains 20 temporary Stamina.
 
-#### LOVE DOMAIN EFFECT
+##### LOVE DOMAIN EFFECT
 
 Each ally within 10 squares of you gains 5 temporary Stamina, and gains an edge on the next power roll they make before the end of the encounter.
 
-#### NATURE DOMAIN EFFECT
+##### NATURE DOMAIN EFFECT
 
 Vines whip up from the floor or ground around a creature of your choice within 10 squares of you, then slide that creature a number of squares equal to 3 times your Intuition score.
 
-#### PROTECTION DOMAIN EFFECT
+##### PROTECTION DOMAIN EFFECT
 
 An ally of your choice within 10 squares of you gains damage immunity equal to your Intuition score plus your level, which lasts until the end of your next turn.
 
-#### STORM DOMAIN EFFECT
+##### STORM DOMAIN EFFECT
 
 Each enemy in a 3-cube area within 10 squares of you takes lightning damage equal to 5 + your conduit level.
 
-#### SUN DOMAIN EFFECT
+##### SUN DOMAIN EFFECT
 
 An enemy of your choice within 10 squares of you takes fire damage equal to 10 + your conduit level.
 
-#### TRICKERY DOMAIN EFFECT
+##### TRICKERY DOMAIN EFFECT
 
 Choose a creature within 10 squares of you. You can slide that creature a number of squares equal to 5 + your conduit level. If you choose a willing ally, this movement can ignore their stability.
 
-#### WAR DOMAIN EFFECT
+##### WAR DOMAIN EFFECT
 
 Your attacks deal extra damage equal to twice your Intuition score until the end of your next turn.
 
@@ -2805,7 +2801,7 @@ A bolt of holy energy saps the life from a foe.
 - 12–16: 6 corruption damage; the target takes a bane on ability power rolls (EoT)
 - 17+: 9 corruption damage; the target has a double bane on ability power rolls (EoT)
 
-### HEROIC ABILITIES
+#### HEROIC ABILITIES
 
 You make use of a number of heroic abilities, all of which channel piety to empower them.
 
@@ -2929,13 +2925,13 @@ A pulse of divine magic lets your comrades draw on their reserves of inner stren
 
 **Effect**: Each target can spend one or two Recoveries, and end one effect that has a duration of EoT or is ended by a resistance roll.
 
-## ELEMENTALIST
+# ELEMENTALIST
 
 Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the unknown. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.
 
 As an elementalist, you can unleash your wrath across a field of foes, put an enemy exactly where you want them, debilitate foes with harmful effects, ward yourself and allies against danger, manipulate terrain, warp space, and more. Your choice of elemental specialization determines which of these things you do best.
 
-### BASICS
+## BASICS
 
 - **Starting Characteristics**: You start with a Reason of 2 and an Intuition of 2, and can choose one of the following arrays for your other characteristics scores:
   - 2, −1, −1
@@ -2954,11 +2950,11 @@ As an elementalist, you can unleash your wrath across a field of foes, put an en
 | 2nd   | Specialization Feature, New 5-Essence Ability Signature, 1, 3, 5, 5                                                                                                                    |
 | 3rd   | Specialization Feature, 7-Essence Ability Signature, 1, 3, 5, 5, 7                                                                                                                     |
 
-### 1ST-LEVEL FEATURES
+## 1ST-LEVEL FEATURES
 
 As an elementalist, you gain the following features.
 
-#### ELEMENTAL SPECIALIZATION
+### ELEMENTAL SPECIALIZATION
 
 Through your studies, you know and can manipulate the seven primal elements of the timescape:
 
@@ -2974,7 +2970,7 @@ Heroic abilities that include your specialization’s keyword have their initial
 
 Choose one of the following elements to be your specialty: earth, fire, green, or void. (Other elemental specializations will be featured in future products.) Your choice of specialization determines many of the features you’ll gain from this class.
 
-#### ESSENCE
+### ESSENCE
 
 You channel the substance of creation in the form of a Heroic Resource called essence. In times of great stress, you can focus your control on this substance, gathering and burning it to cast and maintain spells.
 
@@ -2982,11 +2978,11 @@ Outside of combat and other dangerous situations tracked in turns and rounds, yo
 
 When combat begins, you keep any essence you had outside of combat. At the start of each of your turns during combat, you gain 2 essence. When combat ends, you once more have essence equal to your Victories.
 
-#### HURL ELEMENT
+### HURL ELEMENT
 
 You gain the following ability, which can be used as a ranged free strike:
 
-### HURL ELEMENT
+#### HURL ELEMENT
 
 You hurl a ball of elemental energy at a nearby foe.
 
@@ -3002,7 +2998,7 @@ You hurl a ball of elemental energy at a nearby foe.
 
 **Effect**: When you make this attack, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.
 
-#### PERSISTENT MAGIC
+### PERSISTENT MAGIC
 
 Some of your heroic abilities have the Persistent keyword. Whenever you use a persistent ability, you decide whether you want to maintain it. If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your turn by an amount equal to the ability’s persistent value, which enables the ability’s persistent effect. All your active persistent abilities end when combat ends.
 
@@ -3019,11 +3015,11 @@ Whenever you take damage while you have an active persistent ability, you must m
 - 12–16: If you have only one persistent ability active, it remains active. Otherwise, you lose one active persistent ability of your choice.
 - 17+: All your active persistent abilities remain active.
 
-#### PRACTICAL MAGIC
+### PRACTICAL MAGIC
 
 You have the following ability:
 
-##### PRACTICAL MAGIC
+#### PRACTICAL MAGIC
 
 Your mastery of elemental power lets you customize your magic.
 
@@ -3111,7 +3107,7 @@ You share your special senses with others.
 
 **Effect**: For each essence you spend, you can target 1 creature. That creature gains the benefit of your Void Sense feature until the end of your next turn, but doesn’t gain the use of Shared Void Sense.
 
-#### SPECIALIZATION TRIGGERED ACTION
+### SPECIALIZATION TRIGGERED ACTION
 
 Your specialization grants you a triggered action, as shown on the Elementalist Triggered Actions table.
 
@@ -3124,7 +3120,7 @@ Your specialization grants you a triggered action, as shown on the Elementalist 
 | Green          | Mend the Soul        |
 | Void           | Void Embrace         |
 
-##### EARTHEN FORCE
+#### EARTHEN FORCE
 
 You imbue an attack with the strength of stone.
 
@@ -3137,7 +3133,7 @@ You imbue an attack with the strength of stone.
 **Effect**: The attack deals extra damage equal to 3 times your Reason score.
 **Spend 1 Essence**: The attack deals extra damage equal to 4 times your Reason score instead and pushes the target a number of squares equal to your Reason score.
 
-##### EXPLOSIVE ASSISTANCE
+#### EXPLOSIVE ASSISTANCE
 
 You add a little magic to an ally’s aggression at just the right time.
 
@@ -3150,7 +3146,7 @@ You add a little magic to an ally’s aggression at just the right time.
 **Effect**: The distance of the forced movement is increased by a number of squares equal to your Reason score.
 **Spend 1 Essence**: The distance of the forced movement is increased by a number of squares equal to twice your Reason score instead.
 
-##### MEND THE SOUL
+#### MEND THE SOUL
 
 The power you channel grants the ability to get back in the fight.
 
@@ -3162,7 +3158,7 @@ The power you channel grants the ability to get back in the fight.
 
 **Effect**: The target can spend a Recovery.
 
-##### VOID EMBRACE
+#### VOID EMBRACE
 
 You call on the void to swallow and spit out an ally.
 
@@ -3243,9 +3239,9 @@ A beam of energy corrupts and hinders whatever it touches.
 - 12–16: 6 corruption damage; slowed (EoT)
 - 17+: 9 corruption damage; slowed (EoT)
 
-### HEROIC ABILITIES
+#### HEROIC ABILITIES
 
-You channel a range of heroic abilities, all of them fueled by your essence.
+You channel a range of heroic abilities, all of them fueled by your essence
 
 #### 3-ESSENCE ABILITIES
 
@@ -4663,7 +4659,7 @@ A quick signal from you gives your allies a chance to turn the tide of battle.
 
 **Effect:** Each target who hasn’t acted yet this round can take their turn in any order immediately after yours.
 
-### KITS
+# KITS
 
 (Playtest note: This is not all the kits we imagine will be available in the game, but just a sampling. There might be more implement and weapon categories too.)
 
@@ -5654,31 +5650,31 @@ You have an invisible ward of magical force that extends 2 squares from you in a
 | Spellslinger   | None      | Metal     | —       | +1    | —         | +1/+1/+1       | +5             | —    |
 | Ward Weaver    | None      | Bone      | +6      | —     | +1        | —              | +5             | —    |
 
-## COMPLICATIONS
+# COMPLICATIONS
 
 Beyond your abilities and features, your hero might have something else that makes them … unusual. Perhaps you have an earth elemental living in your body. Or you might wield a magic sword that devastates enemies but feeds on your own vitality.
 
 A complication is an optional feature you can take to enrich your hero’s backstory, with any complication providing you both a positive benefit and a negative drawback. Because complications are optional, check with your Director before taking one.
 
-### BENEFIT AND DRAWBACK
+## BENEFIT AND DRAWBACK
 
 Your complication gives your hero both a benefit and a drawback. Some of these benefits and drawbacks are mechanical, while others are narrative. The benefit and drawback of a complication makes your connection to the game deeper and more interesting, and provides hooks to let the Director better draw your hero into the campaign’s story.
 
 Not all complication benefits and drawbacks are created equal, but each benefit is balanced by its drawback. If you have a powerful positive side to your complication, be prepared to have an equally influential bit of negative backstory as well.
 
-### MODIFYING THE STORY
+## MODIFYING THE STORY
 
 You can modify the narrative of a complication to better fit with your vision of your character’s backstory—or change it entirely. For instance, if you choose Devil Deal as a complication, you can have your hero instead make that deal with an archfey or an undead general!
 
 Many of the details of each complication are purposefully left vague, so that you can connect it to the rest of your backstory. If your complication took place during “an attack” or “an accident,” you decide the specific details of who or what attacked you, or what type of accident befell you.
 
-### DETERMINE COMPLICATION
+## DETERMINE COMPLICATION
 
 You can choose your character’s complication, or you can roll on the Complications table.
 
 (Playtest note: More complications are coming.)
 
-#### CULT VICTIM
+### CULT VICTIM
 
 Cultists captured you while raiding your home, then began an unholy ritual to turn your body into an undead spirit. The ritual failed, but your body became infused with corrupted magic, turning you partially incorporeal.
 
@@ -5772,7 +5768,7 @@ Being in the wrong place at the wrong time saw you caught in the middle of a con
 | 9   | Ward                 |
 | 10  | War of the Guilds    |
 
-## TESTS
+# TESTS
 
 When you want your hero to rifle through a desk and locate a specific document, scale a castle wall, negotiate a treaty with a monarch, or undertake any other activity with a chance of failure, you’ll need to make a test to determine how successful you are on the task. A test is any power roll that has failure as an option.
 
@@ -6296,7 +6292,7 @@ Before the next montage test round, the Director pauses the montage test to run 
 
 The heroes could have attempted other tests during their travels, such as an Agility test using the Stealth skill to lead the group through dangerous shortcuts in the desert without being seen or waylaid by predators, a Reason test using the Nature skill to find enough food and water to keep the group hydrated and fed, or a Presence test using the Music skill to inspire allies to travel faster with song.
 
-### ADVENTURING
+# ADVENTURING
 
 This section collects a number of the rules for adventuring that make up the heart of the game. These rules will be organized differently as the game is developed.
 
@@ -6566,7 +6562,7 @@ This isn’t an exhaustive list, but you and the Director can use the table to j
 | 7th–8th  | Library; tavern; manor home; sailing boat                                                                                          | Church; keep; wizard tower                                  |
 | 9th–10th | Church; keep; wizard tower                                                                                                         | Castle; shipyard                                            |
 
-## ABILITIES
+# ABILITIES
 
 Your class, kit, ancestry, titles, and other heroic options give you access to abilities that make your hero stand out. Abilities are special actions, maneuvers, and more that allow you to affect creatures, objects, and the environment. Abilities are presented in a format that breaks out specific entries for keywords, time, distance, target, and effect. If an ability is an attack, it also includes a damage entry.
 
@@ -6847,7 +6843,7 @@ If you are taunted, you have a double bane on attacks that don’t include the c
 
 While you are weakened, all your ability power rolls and tests (but not resistance rolls) take a bane.
 
-## COMBAT
+# COMBAT
 
 When the heroes face a problem that can be solved only with action, or when they come up against creatures who want to harm them, it’s time to throw down!
 
@@ -6894,17 +6890,17 @@ If an NPC ally fights alongside the heroes, the Director should give the players
 
 Combat takes place over a series of rounds. During a round, each creature in the battle takes a turn. Once every creature has taken a turn, a new round begins.
 
-### DETERMINE SURPRISE
+#### DETERMINE SURPRISE
 
 When battle begins, the Director determines which creatures, if any, are caught off guard. Any creature who isn’t ready for combat at the start of an encounter is surprised until the end of the first round of combat. A surprised creature can’t take triggered or free triggered actions, attacks and damaging area powers rolled against them gain an edge, and they have a bane on resistance rolls.
 
 For example, if the heroes sneak up unnoticed on a camp of marauders and attack, each marauder is surprised. Likewise, if the heroes fail to notice that all the cloaked figures in a tavern are actually brain-devouring zombies, then the heroes are surprised. If one of the heroes notices the disguised undead before the zombies attack but has no opportunity to warn their allies, that hero isn’t surprised but the rest of the characters are.
 
-### DETERMINE WHO GOES FIRST
+#### DETERMINE WHO GOES FIRST
 
 Sometimes figuring out who gets to take the first turn in combat is automatic. If all the creatures on one side are surprised, then a creature on the other side gets to go first. But if both sides have creatures who aren’t surprised, the Director or a player they choose rolls 1d10. On a result of 6 or greater, the heroes’ side acts first. Otherwise, the other side acts first.
 
-### CREATURES TAKE TURNS
+#### CREATURES TAKE TURNS
 
 Whichever side goes first chooses a creature (or sometimes a group of creatures on the Director’s side) to act at the start of combat. Whenever the rules talk about a creature acting in combat, that creature gets to take their turn. When that turn is over, the other side chooses a creature to act. Play continues back and forth this way as each creature takes their turn.
 
@@ -6914,37 +6910,37 @@ In many encounters, a point comes when one side has creatures who haven’t acte
 
 Once all creatures on both sides of a battle have acted, the round ends and a new one begins. The side whose members acted first during the starting round of combat acts first in all subsequent rounds.
 
-### DETERMINING WHO ACTS NEXT
+#### DETERMINING WHO ACTS NEXT
 
 When it comes to the heroes’ side, the choice of who should act next is intended to give players the opportunity to comment, strategize, and plan. Some tables, in some encounters, might find that the choice of who should act next isn’t obvious, leading to debate. That’s fine. Deliberating about what the group should do next is classic roleplaying.
 
 In general, though, most groups find that it’s usually only one or two players in a given round who think it best if they act next. And as soon as those players explain why they want to act next and what they plan on doing, the issue is quickly resolved.
 
-### ARGUMENT TIMER
+#### ARGUMENT TIMER
 
 If the players do end up arguing in circles about what to do next, the Director can place a timer on the discussion. Usually, giving the players a warning and 30 seconds to decide who goes next does the trick. If they can’t choose by the end of that time, the Director chooses a hero to act.
 
-### ALTERNATIVE INITIATIVE
+#### ALTERNATIVE INITIATIVE
 
 If planning everyone’s turn order isn’t fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an Agility test, then record the results. When it’s time for someone on the heroes’ side to act, the hero with the highest result goes first. On the next hero turn, the hero with the second-highest result takes their turn, and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied Agility tests to determine who among the tied creatures acts before the others.
 
 At the Director’s discretion, a hero can swap their turn in the initiative order with another willing hero at the start of a new round of combat. This allows certain abilities that interact with the core initiative system, such as the shadow’s **Hesitation is Weakness** ability, to better work with this alternative system.
 
-### ENEMIES ACT IN GROUPS
+#### ENEMIES ACT IN GROUPS
 
 Director-controlled creatures act in groups, with information for building groups found in the Bestiary. When a group of enemies acts, the Director chooses a single creature or minion squad to take a turn. Once that turn is over, the Director chooses another creature in that group to take a turn, continuing until all members of the group have taken their turn.
 
-### END OF ROUND
+#### END OF ROUND
 
 Once all creatures on both sides of a battle have acted, the round ends and a new round begins.
 
-### TAKING A TURN
+#### TAKING A TURN
 
 Each creature in combat—whether hero, adversary, or something in between—gets to take a move action, a maneuver, and an action on their turn. Each combatant can perform their maneuver and action in any order, and can break up the movement granted by their move action before, after, or between their maneuver and action however they like. You can also turn your action into a move action or a maneuver, so that your turn can alternatively consist of two move actions and a maneuver; or two maneuvers and a move action.
 
 The Movement section breaks down how your move action works, while the Maneuvers and Actions sections break down the baseline maneuvers and actions your character can undertake. For any activities not specifically covered in those rules, such as cutting down a chandelier to drop on enemies, the Director decides whether such an activity is a maneuver or an action.
 
-### TRIGGERED ACTIONS AND FREE TRIGGERED ACTIONS
+#### TRIGGERED ACTIONS AND FREE TRIGGERED ACTIONS
 
 Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature’s turn, but only when the action’s trigger occurs. For instance, a fury hero can use the **Relentless Toss** triggered action to force move a target, but only after an enemy has first tried to force move the fury or one of their allies.
 
@@ -6954,7 +6950,7 @@ If multiple triggered actions occur in response to the same trigger, any heroes 
 
 Any effect that prevents you from making triggered actions also prevents you from making free triggered actions.
 
-### FREE MANEUVERS
+#### FREE MANEUVERS
 
 Boring stuff like opening an unlocked door, picking up an arrow from the ground, giving an object to an adjacent ally, or drawing a weapon doesn’t require a maneuver or an action. Rather, you can undertake such straightforward activities as free maneuvers on your turn. A free maneuver follows the same rules as a regular maneuver, but you can typically take as many free maneuvers as you like.
 
@@ -6964,7 +6960,7 @@ Likewise, the nature of an activity might make it too complicated for a free man
 
 Any effect that prevents you from making maneuvers also prevents you from making free maneuvers.
 
-### NO-ACTION ACTIVITIES
+#### NO-ACTION ACTIVITIES
 
 Free maneuvers cover most of the simple activities you might want to undertake on your turn. When it isn’t your turn, you can typically undertake even simpler activities requiring no action with the Director’s approval. For instance, shouting out a warning to an ally or dropping an item so another creature can pick it up require no action.
 
@@ -7496,7 +7492,7 @@ Event endings can cover big scenarios, such as the characters destroying a dam t
 
 For players who enjoy fighting to the bitter end rather than ending combat early, the Director can use this **optional rule** to bring things to a quicker conclusion. When it's clear that the heroes are going to win a battle, their enemies are overcome with fear, despair, and panic. In this weakened state, each enemy's Stamina drops to 1, and each minion has a damage threshold of 1. The heroes can then swiftly finish off the remaining foes, getting the satisfaction of total annihilation through dice rolls.
 
-## NEGOTIATION
+# NEGOTIATION
 
 Negotiation gives the heroes a chance to get what they want without combat … or at least without further combat! You might negotiate with a king to obtain military support against an incursion of demons in a neighboring country. You could enter into talks with a bandit leader to convince her to stop attacking merchant caravans on the road, and instead target nobles loyal to a tyrant. You might attempt to convince an archmage to allow you access to their secret library so you can research the location of a dragon-slaying axe. Negotiation covers all these scenarios and more.
 

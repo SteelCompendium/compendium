@@ -6,13 +6,13 @@ This document serves as a quick-lookup tool for rules with a primary focus on be
 
 ## Characteristics
 
-| Characteristic | Description                          |
-| -------------- | ------------------------------------ |
-| Might          | Physical strength                    |
-| Agility        | Physical coordination and nimbleness |
-| Reason         | Mental acumen and education          |
-| Intuition      | Observation and instinct             |
-| Presence       | Force of personality                 |
+| Characteristic                            | Description                          |
+| ----------------------------------------- | ------------------------------------ |
+| [[Draw Steel Rules#MIGHT\|Might]]         | Physical strength                    |
+| [[Draw Steel Rules#AGILITY\|Agility]]     | Physical coordination and nimbleness |
+| [[Draw Steel Rules#REASON\|Reason]]       | Mental acumen and education          |
+| [[Draw Steel Rules#INTUITION\|Intuition]] | Observation and instinct             |
+| [[Draw Steel Rules#PRESENCE\|Presence]]   | Force of personality                 |
 
 ## Skills
 
@@ -27,6 +27,8 @@ This document serves as a quick-lookup tool for rules with a primary focus on be
 - Mechanics
 - Tailoring
 
+Also See: [[Draw Steel Rules#CRAFTING SKILLS|Crafting Skills]]
+
 ### Exploration
 
 - Climb
@@ -37,6 +39,8 @@ This document serves as a quick-lookup tool for rules with a primary focus on be
 - Jump
 - Lift
 - Navigate
+
+Also See: [[Draw Steel Rules#EXPLORATION SKILLS|Exploration Skills]]
 
 ### Interpersonal
 
@@ -54,6 +58,8 @@ This document serves as a quick-lookup tool for rules with a primary focus on be
 - Persuade
 - Read Person
 
+Also See: [[Draw Steel Rules#INTERPERSONAL SKILLS|Interpersonal Skills]]
+
 ### Intrigue
 
 - Alertness
@@ -69,6 +75,8 @@ This document serves as a quick-lookup tool for rules with a primary focus on be
 - Sneak
 - Track
 
+Also See: [[Draw Steel Rules#INTRIGUE SKILLS|Intrigue Skills]]
+
 ### Lore
 
 - Culture
@@ -83,12 +91,16 @@ This document serves as a quick-lookup tool for rules with a primary focus on be
 - Society
 - Timescape
 
+Also See: [[Draw Steel Rules#LORE SKILLS|Lore Skills]]
+
 ## Power Roll
 
 `2d10 + Characteristic + 2 (Skill) ± 2 (Edge/Bane) + Bonuses`
 
 - [[#Double Edge]] and [[#Double Bane]] shift tier up or down
 - Nat 19-20: Extra Action and Auto tier-3 regardless of modifiers
+
+Also see [[Draw Steel Rules#POWER ROLLS|Power Rolls]]
 
 ### Mixed Edges and Banes
 
@@ -97,27 +109,39 @@ This document serves as a quick-lookup tool for rules with a primary focus on be
 - Subtract Effective Banes from Effective Edges
 - Ex: 3 Edges and 1 Bane results in a single [[#Edge]]
 
+Also see: [[Draw Steel Rules#ROLLING WITH EDGES AND BANES|Rolling with Edges and Banes]]
+
 ### Edge
 
 - `+2` to [[#Power Roll]]
 - Also see [[#Double Edge]] and [[#Mixed Edges and Banes]]
+
+Also see [[Draw Steel Rules#EDGE|Edge]]
 
 ### Double Edge
 
 - Bump up to next tier in [[#Power Roll]]
 - Also see [[#Edge]] and [[#Mixed Edges and Banes]]
 
+Also see [[Draw Steel Rules#EDGE|Edge]]
+
 ### Bane
 
 - `-2` to [[#Power Roll]]
 - Also see [[#Double Bane]] and [[#Mixed Edges and Banes]]
+
+Also see: [[Draw Steel Rules#BANE|Bane]]
 
 ### Double Bane
 
 - Bump down to previous tier in [[#Power Roll]]
 - Also see [[#Bane]] and [[#Mixed Edges and Banes]]
 
+Also see: [[Draw Steel Rules#BANE|Bane]]
+
 ## Tests
+
+Also see: [[Draw Steel Rules#TESTS|Tests]]
 
 ### Easy Test
 
@@ -127,6 +151,8 @@ t1: Failure
 t2: Success
 t3: Success + reward
 ```
+
+Also see: [[Draw Steel Rules#EASY TESTS|Easy Tests]]
 
 ### Medium Test
 
@@ -138,6 +164,8 @@ t3: Success
 Nat 19-20: Success + reward
 ```
 
+Also see: [[Draw Steel Rules#MEDIUM TESTS|Medium Tests]]
+
 ### Hard Test
 
 ```ds-pr
@@ -148,15 +176,22 @@ t3: Success
 Nat 19-20: Success + reward
 ```
 
+Also see: [[Draw Steel Rules#HARD TESTS|Hard Tests]]
+
 ### Consequence
 
 - Default Consequences
 	- +2 [[#Villain Power|Villain Power]]
 	- Hero takes `1d6 damage`
 
+Also see: 
+- [[Draw Steel Rules#FAILURE WITH A CONSEQUENCE|Failure with a Consequence]]
+- [[Draw Steel Rules#SUCCESS WITH A CONSEQUENCE|Success with a Consequence]]
+- [[Draw Steel Rules#OPTION LET PLAYERS PITCH CONSEQUENCES AND REWARDS|Option: Let Players Pitch Consequences and Rewards]]
+
 ### Reward
 
-- Default Reward: [[#Hope Token]]
+- Default Reward: [[#Hero Token]]
 
 ### Assist
 
@@ -167,13 +202,15 @@ t2: Grant an Edge on Test
 t3: Grant a Double-Edge on Test
 ```
 
+Also see: [[Draw Steel Rules#ASSIST A TEST|Assist a Test]]
+
 ## Montage Test
 
 - Set the scene, describe the various challenges
-- 1/round: Each hero makes [[#Test]], [[#Assist]], use item, use ability, etc or do nothing
+- 1/round: Each hero makes [[#Tests]], [[#Assist]], use item, use ability, etc or do nothing
 - Each Test has its own difficulty
 - Tests can auto-succeed, have [[#Edge|Edges]], or take [[#Bane|Banes]]
-- [[#Villain Power|Villain Points]] and [[#Hope Token|Hope Tokens]] are granted as normal
+- [[#Villain Power|Villain Points]] and [[#Hero Token|Hope Tokens]] are granted as normal
 - Each character cant use same [[#Skills|Skill]] twice (by default)
 - Cant Test against the same challenge twice (by default)
 - Ends after 2 rounds or when success/failure limit is reached
@@ -192,15 +229,28 @@ t3: Grant a Double-Edge on Test
 | Partial Success | Finish with 2 more Successes than Failures    | Achieve goal, but with complication or cost. 1 [[#Victories]] for moderate/hard Montage Test  |
 | Total Failure   | Finish with 1 or less Successes than Failures | Don't achieve goal, but story doesn't come to a halt.                                         |
 
+Also see: 
+- [[Draw Steel Rules#MONTAGE TESTS|Montage Tests]]
+- [[Draw Steel Rules#MONTAGE TEST OUTCOMES|Montage Test Outcomes]]
+- [[Draw Steel Rules#MONTAGE TEST DIFFICULTY|Montage Test Difficulty]]
+
 ## Resistance Roll
 
-#TODO
+%% TODO %%
+
+Also see: 
+- [[Draw Steel Rules#RESISTANCE ROLLS|Resistance Rolls]]
+- [[Draw Steel Rules#RESISTANCE ROLLS|Resistance Rolls]]
 
 ## Initiative
 
 - Creatures not ready are [[#Surprised]]
 - If all creatures on one side are Surprised, other side goes first
 - Otherwise, roll `dice: d10`: Heroes go first on 6+
+
+Also see: 
+- [[Draw Steel Rules#COMBAT ROUND|Combat Round]]
+- [[Draw Steel Rules#ALTERNATIVE INITIATIVE|Alternative Initiative]]
 
 ### Surprised
 
@@ -210,6 +260,8 @@ t3: Grant a Double-Edge on Test
 - Attacks and Damaging AoEs against have [[#Edge]]
 - [[#Bane]] on [[#Resistance Roll|Resistance Rolls]]
 
+Also see: [[Draw Steel Rules#DETERMINE SURPRISE|Determine Surprise]]
+
 ## Turn
 
 - Player gets 1 [[#Action]], 1 [[#Maneuver]], and 1 [[#Movement]]
@@ -217,13 +269,23 @@ t3: Grant a Double-Edge on Test
 - [[#Action]] can convert to [[#Maneuver]] or [[#Movement]]
 - [[#Movement]] can be split up
 
+Also see: 
+- [[Draw Steel Rules#TAKING A TURN|Taking a Turn]]
+- [[Draw Steel Rules#CREATURES TAKE TURNS|Creatures Take Turns]]
+
 ## Triggered Action
 
-#TODO
+%% TODO %%
+
+Also see: 
+- [[Draw Steel Rules#TRIGGERED ACTION|Triggered Action]]
+- [[Draw Steel Rules#TRIGGERED ACTIONS AND FREE TRIGGERED ACTIONS|Triggered Actions and Free Triggered Actions]]
 
 ## Free Triggered Action
 
 - Same rules as [[#Triggered Action]], but unlimited
+
+Also see: [[Draw Steel Rules#TRIGGERED ACTIONS AND FREE TRIGGERED ACTIONS|Triggered Actions and Free Triggered Actions]]
 
 ## Opportunity Attack
 
@@ -232,11 +294,15 @@ t3: Grant a Double-Edge on Test
 - Make [[#Melee Free Strike]] against creature
 - Cannot have [[#Bane]] on the attack
 
+Also see: [[Draw Steel Rules#OPPORTUNITY ATTACKS|Opportunity Attacks]]
+
 ## Flanking
 
 - [[#Edge|Edge]] on melee attacks
 - Line from center of space to center of ally
 	- Must pass through 2 corners or 2 sides of enemy
+
+Also see: [[Draw Steel Rules#FLANKING|Flanking]]
 
 ## Falling
 
@@ -250,14 +316,20 @@ t3: Grant a Double-Edge on Test
 - Downward [[#Forced Movement]] is considered falling
 - 100 squares in the first round, 100 squares at end of each subsequent round
 
+Also see: [[Draw Steel Rules#FALLING|Falling]]
+
 ## Difficult Terrain
 
 - Costs 1 additional movement to move into a square of Difficult Terrain
+
+Also see: [[Draw Steel Rules#DIFFICULT TERRAIN|Difficult Terrain]]
 
 ## High Ground
 
 - Gain an [[#Edge|Edge]] on Attacks
 - Bottom of your space must be above the target's space
+
+Also see: [[Draw Steel Rules#HIGH GROUND|High Ground]]
 
 ## Weakness
 
@@ -265,6 +337,8 @@ t3: Grant a Double-Edge on Test
 - Applies to each instance of damage of the Weakness type
 - `damage weakness X` applies to all damage types
 - Applied before [[#Immunity]]
+
+Also see: [[Draw Steel Rules#DAMAGE WEAKNESS|Damage Weakness]]
 
 ## Immunity
 
@@ -274,12 +348,18 @@ t3: Grant a Double-Edge on Test
 - Applied last
 - Doesn't stack, use highest Immunity only
 
+Also see: [[Draw Steel Rules#DAMAGE IMMUNITY|Damage Immunity]]
+
 ## Hide and Sneak
+
+Also see: [[Draw Steel Rules#HIDE AND SNEAK|Hide and Sneak]]
 
 ### Cover
 
 - Obstructions grant [[#Bane]] on attacks and AoE effects
 - Obstructions block at least 1/2 of their form
+
+Also see: [[Draw Steel Rules#COVER|Cover]]
 
 ### Concealment
 
@@ -287,11 +367,15 @@ t3: Grant a Double-Edge on Test
 - Effects that fully obscure a creature, but offer no protection
 - Concealed creatures can be targeted (unless [[#Hidden]])
 
+Also see: [[Draw Steel Rules#CONCEALMENT|Concealment]]
+
 ### Invisibility
 
 - Always have [[#Concealment]]
 - Can be targeted (unless also [[#Hidden]])
 - [[#Tests]] to find [[#Hidden]] + Invisible creature takes a [[#Bane]]
+
+Also see: [[Draw Steel Rules#INVISIBLE CREATURES|Invisible Creatures]]
 
 ### Hidden
 
@@ -307,23 +391,31 @@ t3: Grant a Double-Edge on Test
 	- Make noise or reveal yourself
 - Can be [[#Search for Hidden Creatures|searched for]]
 
+Also see: 
+- [[Draw Steel Rules#HIDING|Hiding]]
+- [[Draw Steel Rules#HIDE|Hide Maneuver]]
+
 ### Sneaking
 
 - Move at half speed
 - Must end movement in [[#Cover]] or [[#Concealment]]
 - Make an Agility [[#Tests|Test]] to remain [[#Hidden]]
 
+Also see: [[Draw Steel Rules#SNEAK|Sneak]]
+
 ## Action
 
 - Reminder: Can convert [[#Action]] into [[#Movement]] or [[#Maneuver]]
 
-Common Actions:
+**Common Actions:**
 
 - [[#Catch Breath]]
 - [[#Charge]]
 - [[#Defend]]
 - [[#Free Strike]]
 - [[#Heal]]
+
+Also see: [[Draw Steel Rules#ACTIONS]]
 
 ### Catch Breath
 
@@ -332,11 +424,15 @@ Common Actions:
 - Gain effects of the [[#Defend]] action (Attacks have [[#Double Bane]])
 - Cannot use while [[#Dying]]
 
+Also see: [[Draw Steel Rules#CATCH BREATH|Catch Breath]]
+
 ### Charge
 
 - Cost: [[#Action]]
 - Move up to Speed, make Melee [[#Free Strike]]
 - Cannot [[#Shift]]
+
+Also see: [[Draw Steel Rules#CHARGE|Charge]]
 
 ### Defend
 
@@ -344,7 +440,13 @@ Common Actions:
 - Attacks against you have [[#Double Bane]]
 - No benefit if a creature is [[#Taunted]] by you
 
+Also see: [[Draw Steel Rules#DEFEND|Defend]]
+
 ### Free Strike
+
+Also see: 
+- [[Draw Steel Rules#FREE STRIKE|Free Strike]]
+- [[Draw Steel Rules#FREE STRIKES|Free Strikes]]
 
 #### Melee Free Strike
 
@@ -361,8 +463,13 @@ t3: 9 damage
 
 - Used in [[#Opportunity Attack]], etc
 - Kit can modify these stats
-- Made with unarmed strike or improvised weapon
+- Made with unarmed strike or [[#Improvised Weapon]]
 - Damage type can change based on improvised weapon
+
+Also see: 
+- [[Draw Steel Rules#MELEE WEAPON FREE STRIKE|Melee Weapon Free Strike]]
+- [[Draw Steel Rules#FREE STRIKE|Free Strike]]
+- [[Draw Steel Rules#FREE STRIKES|Free Strikes]]
 
 #### Ranged Free Strike
 
@@ -378,8 +485,13 @@ t3: 8 damage
 ```
 
 - Kit can modify these stats
-- Made with improvised weapon
+- Made with [[#Improvised Weapon]] if kit doesn't provide a `Ranged` Weapon
 - Damage type can change based on improvised weapon
+
+Also see: 
+- [[Draw Steel Rules#RANGEDWEAPON FREE STRIKE|Ranged Weapon Free Strike]]
+- [[Draw Steel Rules#FREE STRIKE|Free Strike]]
+- [[Draw Steel Rules#FREE STRIKES|Free Strikes]]
 
 ### Heal
 
@@ -388,13 +500,19 @@ t3: 8 damage
 	- Expends their [[#Recovery]] and gains 1/3 stamina
 	- Makes [[#Resistance Roll]] against a `(resistance ends)` effect
 
-### Use additional Movement or Maneuver
+Also see: [[Draw Steel Rules#HEAL|Heal]]
+
+### Use Additional Movement or Maneuver
 
 - Can exchange your [[#Action]] for an additional [[#Movement]] or [[#Maneuver]]
+
+Also see: [[Draw Steel Rules#TAKING A TURN|Taking a Turn]]
 
 ## Free Maneuver
 
 - Same rules as [[#Maneuver|Maneuvers]], but unlimited
+
+Also see: [[Draw Steel Rules#FREE MANEUVERS|Free Maneuvers]]
 
 ## Maneuver
 
@@ -413,28 +531,37 @@ Common Maneuvers:
 - [[#Search for Hidden Creatures]]
 - [[#Knock off a Creature that Climbed You]]
 
+Also see: [[Draw Steel Rules#MANEUVERS|Maneuvers]]
+
 ### Aid Attack
 
 - Cost: [[#Maneuver]]
 - Choose an enemy within reach
 - Grant [[#Edge|Edge]] to an ally's next attack against that creature before your next turn
 
+Also see: [[Draw Steel Rules#AID ATTACK|Aid Attack]]
+
 ### Drink Potion
 
 - Cost: [[#Maneuver]]
 - Drink or administer a potion to an adjacent creature.
+
+Also see: [[Draw Steel Rules#DRINK POTION|Drink Potion]]
 
 ### Escape Grab
 
 - Cost: [[#Maneuver]]
 
 ```ds-pr
-name: "Escape Grab: Might or Agility Resistance Roll"
+name: Escape Grab
+roll: Might or Agility Resistance Roll
 t1: Fail to escape
 t2: Escape, but grabber can [[#Free Strike]] against you
 t3: Escape
 notes: "[[#Bane]] if grabber is larger size"
 ```
+
+Also see: [[Draw Steel Rules#ESCAPE GRAB|Escape Grab]]
 
 ### Grab
 
@@ -459,6 +586,10 @@ note: "[[#Edge]] if target is smaller"
 	- You can end the Grab at any time (no Action)
 		- (Speculation) the previously [[#Grabbed]] creature is placed in an adjacent square of their choice
 
+Also see: 
+- [[Draw Steel Rules#GRAB|Grab]]
+- [[Draw Steel Rules#GRABBED|Grabbed]]
+
 ### Hide
 
 - Cost: [[#Maneuver]]
@@ -468,6 +599,8 @@ note: "[[#Edge]] if target is smaller"
 - In combat, you automatically hide
 - Outside combat, you may need a Hide ([[#Skills|Skill]]) [[#Tests|Test]]
 - See [[#Hide and Sneak]] for more details
+
+Also see: [[Draw Steel Rules#HIDE|Hide]]
 
 ### Knockback
 
@@ -482,6 +615,8 @@ t3: Push 3
 note: "[[#Edge]] if target is smaller"
 ```
 
+Also see: [[Draw Steel Rules#KNOCKBACK|Knockback]]
+
 ### Make or Assist on a Test
 
 - Cost: [[#Maneuver]]
@@ -489,10 +624,14 @@ note: "[[#Edge]] if target is smaller"
 - Complex or time-consuming Tests may take an [[#Action]] or more
 - Tests that require no time are usually [[#Free Maneuver|Free Maneuvers]]
 
+Also see: [[Draw Steel Rules#MAKE OR ASSIST A TEST|Make or Assist a Test]]
+
 ### Stand up
 
 - Cost: [[#Maneuver]]
 - Stand up if you are [[#Prone]] or make adjacent creature stand up
+
+Also see: [[Draw Steel Rules#STAND UP|Stand Up]]
 
 ### Search for Hidden Creatures
 
@@ -508,6 +647,10 @@ t2: Find Hidden creature without the Hide Skill
 t3: Find all Hidden creatures
 ```
 
+Also see: 
+- [[Draw Steel Rules#SEARCH FOR HIDDEN CREATURES|Search for Hidden Creatures]]
+- [[Draw Steel Rules#SEARCHING FOR HIDDEN CREATURES|Searching for Hidden Creatures]]
+
 ### Knock off a Creature that Climbed You
 
 - Cost: [[#Maneuver]]
@@ -522,10 +665,14 @@ t3: Continue to hold onto creature
 indent: 1
 ```
 
+Also see: [[Draw Steel Rules#CLIMBING OTHER CREATURES|Climbing Other Creatures]]
+
 ## Movement
 
 - Cannot move more than speed, even if an ability allows them to
 - Reminder: Can convert [[#Action]] into [[#Movement]] or [[#Maneuver]]
+
+Also see: [[Draw Steel Rules#MOVEMENT|Movement]]
 
 ### Shift
 
@@ -533,11 +680,15 @@ indent: 1
 - Cannot be targeted by [[#Opportunity Attack]]
 - Whenever allowed to move (not [[#Forced Movement|forced]])
 
+Also see: [[Draw Steel Rules#SHIFTING|Shifting]]
+
 ### Burrow
 
 - Can move through dirt horizontally or vertically
 - No need to be concerned with breath
 - Cant move through solid stone, etc
+
+Also see: [[Draw Steel Rules#BURROW|Burrow]]
 
 ### Climb
 
@@ -546,9 +697,11 @@ indent: 1
 - If difficult, a Might [[#Tests|Test]] may be required
 	- On failure: unable to move, but movement is not expended
 
+Also see: [[Draw Steel Rules#CLIMB OR SWIM|Climb or Swim]]
+
 ### Climb a Creature
 
-#TODO is this a maneuver?
+%% TODO is this a maneuver? %%
 
 ```ds-pr
 name: Climb an unwilling creature
@@ -563,12 +716,16 @@ t3: Climb the creature
 - Once you climb a creature, they can attempt to [[#Knock off a Creature that Climbed You|knock you off]]
 - If knocked [[#Prone]] while climbing/riding, [[#Falling|fall]] and land [[#Prone]] in unoccupied adjacent space
 
+Also see: [[Draw Steel Rules#CLIMBING OTHER CREATURES|Climbing Other Creatures]]
+
 ### Swim
 
 - Swim Speed: Can move through liquids at full speed
 - Otherwise: Each square costs 2 movement
 - If difficult, a Might [[#Tests|Test]] may be required
 	- On failure: unable to move, but movement is not expended
+
+Also see: [[Draw Steel Rules#CLIMB OR SWIM|Climb of Swim]]
 
 ### Jump
 
@@ -592,15 +749,21 @@ t3: Jump 2 additonal squares
 indent: 1
 ```
 
+Also see: [[Draw Steel Rules#JUMP|Jump]]
+
 ### Crawl
 
 - If [[#Prone]], movement costs 1 additional movement per square
+
+Also see: [[Draw Steel Rules#CRAWL|Crawl]]
 
 ### Fly
 
 - Can move speed horizontally and vertically
 - Can hover midair
 - Fall [[#Prone]] if knocked [[#Prone]] or speed reduced to 0
+
+Also see: [[Draw Steel Rules#FLY|Fly]]
 
 ### Teleport
 
@@ -614,6 +777,8 @@ indent: 1
 	- If someone teleports you: remain [[#Pron]]
 - Ends [[#Grabbed]] and [[#Restrained]] [[#Conditions]]
 
+Also see: [[Draw Steel Rules#TELEPORT|Teleport]]
+
 ## Forced Movement
 
 - Can move fewer squares than indicated.
@@ -621,11 +786,17 @@ indent: 1
 - Target affected by damaging/effect terrain as if they moved willingly.
 - Ignores falling rules until forced movement is finished; then apply [[#Falling]] rules
 
+Also see: 
+- [[Draw Steel Rules#FORCED MOVEMENT|Forced Movement]]
+- [[Draw Steel Rules#FORCED INTO A FALL|Forced into a Fall]]
+
 ### Push X
 
 - [[#Forced Movement]] X squares in straight line away from you
 - Vertical only allowed if `vertical` keyword is included
 - Sloped movement allowed if 1 square or less vertically
+
+Also see: [[Draw Steel Rules#FORCED MOVEMENT|Forced Movement]]
 
 ### Pull X
 
@@ -633,13 +804,19 @@ indent: 1
 - Vertical only allowed if `vertical` keyword is included
 - Sloped movement allowed if 1 square or less vertically
 
+Also see: [[Draw Steel Rules#FORCED MOVEMENT|Forced Movement]]
+
 ### Slide X
 
 - [[#Forced Movement]] X squares in any direction, not vertical
 
+Also see: [[Draw Steel Rules#FORCED MOVEMENT|Forced Movement]]
+
 ### Stability
 
 - Reduce [[#Forced Movement]] squares up to Stability score
+
+Also see: [[Draw Steel Rules#STABILITY|Stability]]
 
 ### Slamming Into Creatures
 
@@ -650,6 +827,8 @@ indent: 1
 - Take damage once, regardless of size
 - Attacks/Effects that also [[#Forced Movement|force movement]]: creatures slammed into by the corpse still take damage (Director's discretion)
 - You can [[#Pull X|Pull]] or [[#Slide X|Slide]] a creature into yourself
+
+Also see: [[Draw Steel Rules#SLAMMING INTO CREATURES|Slamming into Creatures]]
 
 ### Forced Movement of Objects
 
@@ -666,6 +845,8 @@ indent: 1
 - Creature takes 1 damage per remaining square.
 - If downward, apply [[#Falling]] rules
 
+Also see: [[Draw Steel Rules#SLAMMING INTO OBJECTS|Slamming into Objects]]
+
 #### Hurling Through Objects
 
 - Conditions 
@@ -681,6 +862,8 @@ indent: 1
 | Stone    | 6                                                               | 6                  |
 | Metal    | 9                                                               | 9                  |
 
+Also see: [[Draw Steel Rules#HURLING THROUGH OBJECTS|Hurling Through Objects]]
+
 ### Damage to objects during [[#Forced Movement]]
 
 | Material       | Stamina per 1 square of object |
@@ -689,6 +872,8 @@ indent: 1
 | Stone          | 6                              |
 | Metal          | 9                              |
 | Other, fragile | (Any damage destroys)          |
+
+Also see: [[Draw Steel Rules#OBJECT STAMINA|Object Stamina]]
 
 ## Conditions
 
@@ -719,14 +904,20 @@ Pseudo-Conditions
 - [[#Unconscious]]
 - [[#Winded]]
 
+Also see: [[Draw Steel Rules#CONDITIONS|Conditions]]
+
 ### Bleeding
 
 - Can't regain Stamina
+
+Also see: [[Draw Steel Rules#BLEEDING|Bleeding]]
 
 ### Dazed
 
 - On your turn, can only do one of [[#Action]], [[#Maneuver]], or [[#Movement]]
 - Cannot use [[#Triggered Action]], [[#Free Triggered Action]], or [[#Free Maneuver]]
+
+Also see: [[Draw Steel Rules#DAZED|Dazed]]
 
 ### Frightened
 
@@ -735,6 +926,8 @@ Pseudo-Conditions
 - Cant willingly move closer to source of fear if you know location
 - When Frightened twice, new source replaces the old
 
+Also see: [[Draw Steel Rules#FRIGHTENED|Frightened]]
+
 ### Grabbed
 
 - Speed is 0
@@ -742,6 +935,8 @@ Pseudo-Conditions
 - Your [[#Attack|Attacks]] take a [[#Bane]] when they don't target the Grabber
 - If you [[#Teleport]] or the Grabber is [[#Forced Movement|force moved]] to a non-adjacent square, you are no longer Grabbed
 - Also see [[#Grab]] and [[#Escape Grab]]
+
+Also see: [[Draw Steel Rules#GRABBED|Grabbed]]
 
 ### Prone
 
@@ -755,6 +950,10 @@ Pseudo-Conditions
 - Can intentionally fall Prone as [[#Free Maneuver]]
 	- Get up with [[#Free Maneuver]] (only if voluntarily prone)
 
+Also see: 
+- [[Draw Steel Rules#PRONE|Prone]]
+- [[Draw Steel Rules#STAND UP|Stand Up]]
+
 ### Restrained
 
 - Speed is 0
@@ -764,19 +963,27 @@ Pseudo-Conditions
 - You have a [[#Bane]] on Might and Agility [[#Resistance Roll|Resistance Rolls]]
 - If you [[#Teleport]] you are no longer Restrained
 
+Also see: [[Draw Steel Rules#RESTRAINED|Restrained]]
+
 ### Slowed
 
 - Speed is reduced to `2`
+
+Also see: [[Draw Steel Rules#SLOWED|Slowed]]
 
 ### Taunted
 
 - [[#Double Bane]] on [[#Attack|Attacks]] that don't include the Taunter
 - When Taunted twice, new condition replaces the old
 
+Also see: [[Draw Steel Rules#TAUNTED|Taunted]]
+
 ### Weakened
 
 - All ability [[#Power Roll|Power Rolls]] and [[#Tests]] have a [[#Bane]]
 	- Not [[#Resistance Roll|Resistance Rolls]]
+
+Also see: [[Draw Steel Rules#WEAKENED|Weakened]]
 
 ### Unconscious
 
@@ -788,12 +995,16 @@ Pseudo-Conditions
 - When you wake up from unconsciousness, can stand up with [[#Free Maneuver]]
 	- Otherwise, use [[#Stand up]] rules
 
+Also see: [[Draw Steel Rules#UNCONSCIOUS|Unconscious]]
+
 ## Attack
 
-#TODO - keep this?
+%% TODO - keep this? %%
 
 - An ability with the `Attack` keyword
 - [[#Area of Effect]] are not Attacks
+
+Also see: [[Draw Steel Rules#ATTACK|Attack]]
 
 ## Knock Unconscious
 
@@ -805,22 +1016,39 @@ Pseudo-Conditions
 	- Then they can spend a [[#Recovery]] to heal and regain consciousness
 	- If no [[#Recovery|Recoveries]] are available, they remain [[#Unconscience]] until they complete a [[#Respite]]
 
+Also see: [[Draw Steel Rules#KNOCKING CREATURES OUT|Knocking Creatures Out]]
+
 ## Area of Effect
 
-#TODO
+%% TODO %%
 - [[#Area of Effect]] are not [[#Attack|Attacks]]
+
+Also see: 
+- [[Draw Steel Rules#AREA ABILITIES|Area Abilities]]
 
 ## Effects
 
-#TODO
+%% TODO %%
+
+Also see: [[Draw Steel Rules#EFFECT|Effect]]
 
 ## Line of Effect
 
-#TODO
+%% TODO %%
+
+Also see: [[Draw Steel Rules#LINE OF EFFECT|Line of Effect]]
+
+## Improvised Weapons
+
+%% TODO %%
+
+Also see: [[Draw Steel Rules#IMPROVISED WEAPONS|Improvised Weapons]]
 
 ## Mounted Combat
 
-#TODO
+%% TODO %%
+
+Also see: [[Draw Steel Rules#MOUNTED COMBAT|Mounted Combat]]
 
 ## Temporary Stamina
 
@@ -833,6 +1061,8 @@ Pseudo-Conditions
 
 ![[#Stamina Example]]
 
+Also see: [[Draw Steel Rules#TEMPORARY STAMINA|Temporary Stamina]]
+
 ## Recovery
 
 - [[#Catch Breath]] (Action + your Recovery): gain 1/3 max stamina
@@ -843,10 +1073,16 @@ Pseudo-Conditions
 - Director-controlled creatures dont have Recoveries
 	- But they may still heal 1/3 max Stamina if creature uses an ability that allows then to use a Recovery
 
+Also see: 
+- [[Draw Steel Rules#RECOVERIES|Recoveries]]
+- [[Draw Steel Rules#RECOVERIES AND RECOVERY VALUE|Recoveries and Recovery Value]]
+
 ## Winded 
 
 - If Stamina is less than or equal to half of max Stamina
 - Others know when you are Winded
+
+Also see: [[Draw Steel Rules#WINDED|Winded]]
 
 ## Dying
 
@@ -860,6 +1096,8 @@ Pseudo-Conditions
 
 ![[#Stamina Example]]
 
+Also see: [[Draw Steel Rules#DYING AND DEATH|Dying and Death]]
+
 ## Death
 
 - You die if you Stamina is less than or equal to negative your [[#Winded]] value
@@ -869,11 +1107,15 @@ Pseudo-Conditions
 
 ![[#Stamina Example]]
 
+Also see: [[Draw Steel Rules#DYING AND DEATH|Dying and Death]]
+
 ## Respite
 
 - 24 hours uninterrupted
 - Restore all [[#Recovery|recoveries]]
 - [[#Victories]] convert to XP (See [[#Leveling]])
+
+Also see: [[Draw Steel Rules#RESPITE|Respite]]
 
 ### Leveling
 
@@ -890,54 +1132,55 @@ Pseudo-Conditions
 | 9     | 115-129         |
 | 10    | 130+            |
 
+Also see: [[Draw Steel Rules#HEROIC ADVANCEMENT|Heroic Advancement]]
+
 ## Victories
 
 - 1 Victory per challenge
 	- Tough challenges (bosses) grant 2 Victories
 - Converted to XP during [[#Respite]] (See [[#Leveling]])
 
-## Hope Token
+Also see: 
+- [[Draw Steel Rules#VICTORIES|Victories]]
+- [[Draw Steel Rules#VICTORIES RESET|Victories Reset]]
+- [[Draw Steel Rules#VICTORIES AFTER COMBAT|Victories After Combat]]
+- [[Draw Steel Rules#VICTORIES AFTER NONCOMBAT CHALLENGES|Victories After Non-Combat Challenges]]
+- [[Draw Steel Rules#FOR THE DIRECTOR AWARDING VICTORIES|For the Director: Awarding Victories]]
 
-#TODO
+## Hero Token
+
+%% TODO %%
+
+Also see: [[Draw Steel Rules#HERO TOKENS|Hero Tokens]]
 
 ## Villain Power
 
-#TODO
+%% TODO %%
 
 ## Negotiation
 
-#TODO
+%% TODO %%
+
+Also see: [[Draw Steel Rules#NEGOTIATION|Negotiation]]
 
 ## Languages
 
 > [!info]- Language Connections and Hierarchy
 > ![[Languages.png]]
 
-## Weight
-
-| Weight | Example Creature | Example Object    |
-| ------ | ---------------- | ----------------- |
-| 1      | Pixie            | Potato            |
-| 2      | House cat        | Maul              |
-| 3      | Polder           | Heavy Armor       |
-| 4      | Human            | Wardrobe          |
-| 5      | Ankheg           | Anvil             |
-| 6      | Ogre             | Carriage          |
-| 7      | Treant           | Sailboat          |
-| 8      | Stone Giant      | Siege Tower       |
-| 9      | Dragon           | Gallery           |
-| 10     | Goxomoc          | Keep              |
-| 11+    | None             | Too heavy to lift |
+Also see: 
+- [[Draw Steel Rules#LANGUAGE|Language]]
+- [[Draw Steel Rules#LANGUAGE USAGE|Language Usage]]
 
 ## Classes
 
-- Censor
-- Conduit *(in development)*
-- Elementalist
-- Fury
+- Censor *(in development)*
+- [[Draw Steel Rules#CONDUIT|Conduit]]
+- [[Draw Steel Rules#ELEMENTALIST|Elementalist]]
+- [[Draw Steel Rules#FURY|Fury]]
 - Null *(in development)*
-- Shadow
-- Tactician
+- [[Draw Steel Rules#SHADOW|Shadow]]
+- [[Draw Steel Rules#TACTICIAN|Tactician]]
 - Talent *(in development)*
 - Troubadour *(in development)*
 
