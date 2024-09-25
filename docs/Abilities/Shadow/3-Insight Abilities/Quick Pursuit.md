@@ -6,6 +6,7 @@ name: Quick Pursuit
 cost: 3 Insight
 type: abilities
 subtype: shadow
+kind: 3-insight abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -19,6 +20,8 @@ target: 1 creature
 # Quick Pursuit (3 Insight)
 
 A foe forced away from you might assume they're out of danger, but they'll soon learn otherwise.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | :---------------------------------- | :--------------------- |

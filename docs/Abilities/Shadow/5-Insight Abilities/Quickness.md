@@ -6,6 +6,7 @@ name: Quickness
 cost: 5 Insight
 type: abilities
 subtype: shadow
+kind: 5-insight abilities
 keywords: Magic
 keyword_list:
   - Magic
@@ -17,6 +18,8 @@ target: Self
 # Quickness (5 Insight)
 
 You put on a burst of magical speed to get the job done.
+
+<!-- @nosort -->
 
 | **Keywords:** Magic | **Type:** Action |
 | :------------------ | :--------------- |

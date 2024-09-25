@@ -5,6 +5,7 @@ name_raw: Fire Lance
 name: Fire Lance
 type: abilities
 subtype: elementalist
+kind: signature abilities
 keywords: Attack, Fire, Magic, Ranged
 keyword_list:
   - Attack
@@ -19,6 +20,8 @@ target: 1 creature or object
 # Fire Lance
 
 A jet of fire erupts with elemental fury where it strikes.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Fire, Magic, Ranged | **Type:** Action                 |
 | :---------------------------------------- | :------------------------------- |

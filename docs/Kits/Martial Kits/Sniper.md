@@ -34,6 +34,8 @@ You wear no armor and wield a bow.
 
 **Patient Shot** Breathe… aim… wait… then strike!
 
+<!-- @nosort -->
+
 | **Keywords:** Attack, Ranged, Weapon | **Type:** Action       |
 | :----------------------------------- | :--------------------- |
 | **Distance:** Ranged 15              | **Target:** 1 creature |

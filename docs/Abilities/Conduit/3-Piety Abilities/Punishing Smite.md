@@ -6,6 +6,7 @@ name: Punishing Smite
 cost: 3 Piety
 type: abilities
 subtype: conduit
+kind: 3-piety abilities
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack
@@ -19,6 +20,8 @@ target: 1 creature or object
 # Punishing Smite (3 Piety)
 
 Your divine fury is a hammer that crashes down upon the unrighteous.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
 | :---------------------------------- | :------------------------------- |

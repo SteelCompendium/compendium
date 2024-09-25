@@ -5,6 +5,7 @@ name_raw: Overwatch
 name: Overwatch
 type: abilities
 subtype: tactician
+kind: triggered actions
 keywords: Ranged
 keyword_list:
   - Ranged
@@ -17,6 +18,8 @@ trigger: The target moves.
 # Overwatch
 
 Under your direction, an ally waits for just the right moment to strike.
+
+<!-- @nosort -->
 
 | **Keywords:** Ranged    | **Type:** Triggered |
 | :---------------------- | :------------------ |

@@ -6,6 +6,7 @@ name: Righteous Rebuke
 cost: 3 Piety
 type: abilities
 subtype: conduit
+kind: 3-piety abilities
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack
@@ -19,6 +20,8 @@ target: 1 creature
 # Righteous Rebuke (3 Piety)
 
 Divine wrath strikes your foe with lightning that follows them across the battlefield.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
 | :---------------------------------- | :--------------------- |

@@ -5,6 +5,7 @@ name_raw: In All This Confusion
 name: In All This Confusion
 type: abilities
 subtype: shadow
+kind: triggered actions
 keywords: Magic
 keyword_list:
   - Magic
@@ -17,6 +18,8 @@ trigger: You take damage.
 # In All This Confusion
 
 You [[Teleport|teleport]] away in a plume of black smoke to avoid danger.
+
+<!-- @nosort -->
 
 | **Keywords:** Magic | **Type:** Triggered |
 | :------------------ | :------------------ |

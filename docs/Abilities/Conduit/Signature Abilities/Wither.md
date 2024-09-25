@@ -5,6 +5,7 @@ name_raw: Wither
 name: Wither
 type: abilities
 subtype: conduit
+kind: signature abilities
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack
@@ -18,6 +19,8 @@ target: 1 creature or object
 # Wither
 
 A bolt of holy energy saps the life from a foe.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
 | :---------------------------------- | :------------------------------- |

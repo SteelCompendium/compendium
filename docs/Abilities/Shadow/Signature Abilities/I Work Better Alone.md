@@ -5,6 +5,7 @@ name_raw: I Work Better Alone
 name: I Work Better Alone
 type: abilities
 subtype: shadow
+kind: signature abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack
@@ -19,6 +20,8 @@ target: 1 creature
 # I Work Better Alone
 
 Facing an enemy alone lets you exploit their overconfidence.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
 | :------------------------------------------ | :--------------------- |

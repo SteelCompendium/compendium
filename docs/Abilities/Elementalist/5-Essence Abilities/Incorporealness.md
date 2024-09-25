@@ -6,6 +6,7 @@ name: Incorporealness
 cost: 5 Essence
 type: abilities
 subtype: elementalist
+kind: 5-essence abilities
 keywords: Magic, Melee, Persistent, Void
 keyword_list:
   - Magic
@@ -20,6 +21,8 @@ target: Self or 1 ally
 # Incorporealness (5 Essence)
 
 The material substance of a creature shreds away at your command.
+
+<!-- @nosort -->
 
 | **Keywords:** Magic, Melee, Persistent, Void | **Type:** Maneuver         |
 | :------------------------------------------- | :------------------------- |

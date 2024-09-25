@@ -6,6 +6,7 @@ name: Whirlwind Strike
 cost: 3 Rage
 type: abilities
 subtype: fury
+kind: 3-rage abilities
 keywords: Area, Melee, Weapon
 keyword_list:
   - Area
@@ -19,6 +20,8 @@ target: All enemies
 # Whirlwind Strike (3 Rage)
 
 As your foes close in around you, why bother taking them on one by one?
+
+<!-- @nosort -->
 
 | **Keywords:** Area, Melee, Weapon | **Type:** Action        |
 | :-------------------------------- | :---------------------- |

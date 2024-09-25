@@ -6,6 +6,7 @@ name: Armor Of The Faithful
 cost: 5 Piety
 type: abilities
 subtype: conduit
+kind: 5-piety abilities
 keywords: Magic, Ranged
 keyword_list:
   - Magic
@@ -18,6 +19,8 @@ target: 3 allies
 # Armor Of The Faithful (5 Piety)
 
 The divine light of protection surrounds your allies.
+
+<!-- @nosort -->
 
 | **Keywords:** Magic, Ranged | **Type:** Maneuver   |
 | :-------------------------- | :------------------- |

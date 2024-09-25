@@ -5,6 +5,7 @@ name_raw: Hit And Run
 name: Hit And Run
 type: abilities
 subtype: fury
+kind: signature abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -18,6 +19,8 @@ target: 1 creature or object
 # Hit And Run
 
 Keeping in constant motion helps you slip out of reach after a brutal assault.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
 | :---------------------------------- | :------------------------------- |

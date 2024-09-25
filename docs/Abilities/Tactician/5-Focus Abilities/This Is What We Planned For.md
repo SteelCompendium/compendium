@@ -6,6 +6,7 @@ name: This Is What We Planned For
 cost: 5 Focus
 type: abilities
 subtype: tactician
+kind: 5-focus abilities
 keywords: Ranged
 keyword_list:
   - Ranged
@@ -17,6 +18,8 @@ target: 2 allies
 # This Is What We Planned For (5 Focus)
 
 A quick signal from you gives your allies a chance to turn the tide of battle.
+
+<!-- @nosort -->
 
 | **Keywords:** Ranged    | **Type:** Maneuver   |
 | :---------------------- | :------------------- |

@@ -6,6 +6,7 @@ name: Angel Of Wrath
 cost: 3 Piety
 type: abilities
 subtype: conduit
+kind: 3-piety abilities
 keywords: Magic, Ranged
 keyword_list:
   - Magic
@@ -18,6 +19,8 @@ target: Special
 # Angel Of Wrath (3 Piety)
 
 You conjure an angelic spirit who lashes your foes with burning radiance.
+
+<!-- @nosort -->
 
 | **Keywords:** Magic, Ranged | **Type:** Action    |
 | :-------------------------- | :------------------ |

@@ -6,6 +6,7 @@ name: Now!
 cost: 5 Focus
 type: abilities
 subtype: tactician
+kind: 5-focus abilities
 keywords: Ranged
 keyword_list:
   - Ranged
@@ -17,6 +18,8 @@ target: All allies
 # Now! (5 Focus)
 
 Your allies wait for your command—then unleash death!
+
+<!-- @nosort -->
 
 | **Keywords:** Ranged   | **Type:** Maneuver     |
 | :--------------------- | :--------------------- |

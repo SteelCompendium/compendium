@@ -6,6 +6,7 @@ name: Open The Earth
 cost: 5 Essence
 type: abilities
 subtype: elementalist
+kind: 5-essence abilities
 keywords: Magic, Earth, Persistent, Ranged
 keyword_list:
   - Magic
@@ -20,6 +21,8 @@ target: Special
 # Open The Earth (5 Essence)
 
 The surface of the world around you opens up at your command.
+
+<!-- @nosort -->
 
 | **Keywords:** Magic, Earth, Persistent, Ranged | **Type:** Maneuver  |
 | :--------------------------------------------- | :------------------ |

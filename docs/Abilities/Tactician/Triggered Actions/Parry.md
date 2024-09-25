@@ -5,6 +5,7 @@ name_raw: Parry
 name: Parry
 type: abilities
 subtype: tactician
+kind: triggered actions
 keywords: Melee, Weapon
 keyword_list:
   - Melee
@@ -18,6 +19,8 @@ trigger: A creature makes a Weapon attack against the target.
 # Parry
 
 Your quick reflexes cost an enemy the precision they seek.
+
+<!-- @nosort -->
 
 | **Keywords:** Melee, Weapon   | **Type:** Triggered        |
 | :---------------------------- | :------------------------- |

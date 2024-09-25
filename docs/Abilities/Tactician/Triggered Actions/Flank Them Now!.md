@@ -5,6 +5,7 @@ name_raw: Flank Them Now!
 name: Flank Them Now!
 type: abilities
 subtype: tactician
+kind: triggered actions
 keywords: Ranged
 keyword_list:
   - Ranged
@@ -17,6 +18,8 @@ trigger: A nontarget ally is about to make an attack.
 # Flank Them Now!
 
 You help keep your side in motion as attacks rain down on your foes.
+
+<!-- @nosort -->
 
 | **Keywords:** Ranged            | **Type:** Triggered        |
 | :------------------------------ | :------------------------- |

@@ -34,6 +34,8 @@ You wear medium armor and wield a polearm.
 
 **Forward Thrust, Backward Smash** In your hands, the haft is as good as the head.
 
+<!-- @nosort -->
+
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action                   |
 | :---------------------------------- | :--------------------------------- |
 | **Distance:** Reach 2               | **Target:** 2 creatures or objects |

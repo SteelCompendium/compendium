@@ -6,6 +6,7 @@ name: Brute Precision
 cost: 5 Rage
 type: abilities
 subtype: fury
+kind: 5-rage abilities
 keywords: —
 keyword_list:
   - —
@@ -17,6 +18,8 @@ target: Self
 # Brute Precision (5 Rage)
 
 You can always trust your anger to get the job done.
+
+<!-- @nosort -->
 
 | **Keywords:** —    | **Type:** Free maneuver |
 | :----------------- | :---------------------- |

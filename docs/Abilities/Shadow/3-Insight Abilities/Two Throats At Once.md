@@ -6,6 +6,7 @@ name: Two Throats At Once
 cost: 3 Insight
 type: abilities
 subtype: shadow
+kind: 3-insight abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack
@@ -20,6 +21,8 @@ target: 2 creatures or objects
 # Two Throats At Once (3 Insight)
 
 Striking two foes at once is second nature to you.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                   |
 | :------------------------------------------ | :--------------------------------- |

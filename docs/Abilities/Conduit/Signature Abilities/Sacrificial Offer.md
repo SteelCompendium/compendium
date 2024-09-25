@@ -5,6 +5,7 @@ name_raw: Sacrificial Offer
 name: Sacrificial Offer
 type: abilities
 subtype: conduit
+kind: signature abilities
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack
@@ -18,6 +19,8 @@ target: 1 creature
 # Sacrificial Offer
 
 The divine energy of creation tears at your foe.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
 | :---------------------------------- | :--------------------- |

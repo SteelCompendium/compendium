@@ -6,6 +6,7 @@ name: Divine Weakness
 cost: 5 Piety
 type: abilities
 subtype: conduit
+kind: 5-piety abilities
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack
@@ -19,6 +20,8 @@ target: 1 creature or object
 # Divine Weakness (5 Piety)
 
 Divine energy scours your target to make them more susceptible to harm.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
 | :---------------------------------- | :------------------------------- |

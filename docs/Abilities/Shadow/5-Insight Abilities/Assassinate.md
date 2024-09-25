@@ -6,6 +6,7 @@ name: Assassinate
 cost: 5 Insight
 type: abilities
 subtype: shadow
+kind: 5-insight abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -19,6 +20,8 @@ target: 1 creature
 # Assassinate (5 Insight)
 
 You seize the perfect moment and strike with fatal precision!
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | :---------------------------------- | :--------------------- |

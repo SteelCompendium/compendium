@@ -19,6 +19,8 @@ You attempt to shove an adjacent creature using the following ability:
 
 **KNOCKBACK**
 
+<!-- @nosort -->
+
 | **Keywords:** Melee   | **Type:** Maneuver                                       |
 | :-------------------- | :------------------------------------------------------- |
 | **Distance:** Reach 1 | **Target:** 1 creature the same size or smaller than you |

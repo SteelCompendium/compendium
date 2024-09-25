@@ -6,6 +6,7 @@ name: Dazing Blow
 cost: 3 Focus
 type: abilities
 subtype: tactician
+kind: 3-focus abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack
@@ -20,6 +21,8 @@ target: 1 creature or object
 # Dazing Blow (3 Focus)
 
 Your precise strike leaves your foe struggling to respond.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |
 | :------------------------------------------ | :------------------------------- |

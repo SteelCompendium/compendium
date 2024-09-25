@@ -5,6 +5,7 @@ name_raw: Regeneration
 name: Regeneration
 type: abilities
 subtype: fury
+kind: triggered actions
 keywords: Melee
 keyword_list:
   - Melee
@@ -17,6 +18,8 @@ trigger: You lose Stamina and are not dying.
 # Regeneration
 
 Your transformative abilities bring you back into the fight.
+
+<!-- @nosort -->
 
 | **Keywords:** Melee | **Type:** Triggered |
 | :------------------ | :------------------ |

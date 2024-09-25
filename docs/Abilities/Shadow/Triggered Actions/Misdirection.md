@@ -6,6 +6,7 @@ name: Misdirection
 cost: 1 Insight
 type: abilities
 subtype: shadow
+kind: triggered actions
 keywords: Magic
 keyword_list:
   - Magic
@@ -18,6 +19,8 @@ trigger: An enemy attacks you.
 # Misdirection (1 Insight)
 
 You sow a moment of confusion in combat, to your enemy's peril.
+
+<!-- @nosort -->
 
 | **Keywords:** Magic | **Type:** Triggered |
 | :------------------ | :------------------ |

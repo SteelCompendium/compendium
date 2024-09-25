@@ -5,6 +5,7 @@ name_raw: Holy Infusion
 name: Holy Infusion
 type: abilities
 subtype: conduit
+kind: triggered actions
 keywords: Magic, Ranged
 keyword_list:
   - Magic
@@ -18,6 +19,8 @@ trigger: The target makes an attack. You can use this ability after seeing the r
 # Holy Infusion
 
 You invigorate an attacking ally with divine energy.
+
+<!-- @nosort -->
 
 | **Keywords:** Magic, Ranged | **Type:** Triggered |
 | :-------------------------- | :------------------ |

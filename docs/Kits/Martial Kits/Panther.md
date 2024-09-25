@@ -34,6 +34,8 @@ You wear no armor and wield a heavy weapon.
 
 **Devastating Rush** The faster you move, the harder you hit.
 
+<!-- @nosort -->
+
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
 | :---------------------------------- | :------------------------------- |
 | **Distance:** Reach 1               | **Target:** 1 creature or object |

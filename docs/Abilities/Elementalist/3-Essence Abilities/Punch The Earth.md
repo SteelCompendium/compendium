@@ -6,6 +6,7 @@ name: Punch The Earth
 cost: 3 Essence
 type: abilities
 subtype: elementalist
+kind: 3-essence abilities
 keywords: Area, Earth, Magic
 keyword_list:
   - Area
@@ -19,6 +20,8 @@ target: All enemies
 # Punch The Earth (3 Essence)
 
 You slam the ground, which buckles out from you in every direction.
+
+<!-- @nosort -->
 
 | **Keywords:** Area, Earth, Magic | **Type:** Action        |
 | :------------------------------- | :---------------------- |

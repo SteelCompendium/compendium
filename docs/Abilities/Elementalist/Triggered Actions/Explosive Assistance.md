@@ -5,6 +5,7 @@ name_raw: Explosive Assistance
 name: Explosive Assistance
 type: abilities
 subtype: elementalist
+kind: triggered actions
 keywords: Fire, Magic, Ranged
 keyword_list:
   - Fire
@@ -19,6 +20,8 @@ trigger: The target force moves a creature or object.
 # Explosive Assistance
 
 You add a little magic to an ally's aggression at just the right time.
+
+<!-- @nosort -->
 
 | **Keywords:** Fire, Magic, Ranged | **Type:** Triggered        |
 | :-------------------------------- | :------------------------- |

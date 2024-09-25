@@ -33,6 +33,8 @@ You wield an implement of metal, such as a tome or a crown.
 
 You drain the energy from your target and revitalize your senses.
 
+<!-- @nosort -->
+
 | **Keywords:** Attack, Magic, Melee | **Type:** Action       |
 | :--------------------------------- | :--------------------- |
 | **Distance:** Reach                | **Target:** 1 creature |

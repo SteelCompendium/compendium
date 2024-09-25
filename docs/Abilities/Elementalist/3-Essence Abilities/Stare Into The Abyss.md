@@ -6,6 +6,7 @@ name: Stare Into The Abyss
 cost: 3 Essence
 type: abilities
 subtype: elementalist
+kind: 3-essence abilities
 keywords: Area, Magic, Persistent, Ranged, Void
 keyword_list:
   - Area
@@ -21,6 +22,8 @@ target: All enemies
 # Stare Into The Abyss (3 Essence)
 
 You open a rift into the void to harry your enemies.
+
+<!-- @nosort -->
 
 | **Keywords:** Area, Magic, Persistent, Ranged, Void | **Type:** Action        |
 | :-------------------------------------------------- | :---------------------- |

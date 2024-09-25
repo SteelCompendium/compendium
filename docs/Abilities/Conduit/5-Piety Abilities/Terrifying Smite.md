@@ -6,6 +6,7 @@ name: Terrifying Smite
 cost: 5 Piety
 type: abilities
 subtype: conduit
+kind: 5-piety abilities
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack
@@ -19,6 +20,8 @@ target: 1 creature
 # Terrifying Smite (5 Piety)
 
 A mote of holy light racks your foe with their greatest fear.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
 | :---------------------------------- | :--------------------- |

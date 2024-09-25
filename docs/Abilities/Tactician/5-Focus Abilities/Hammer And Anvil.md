@@ -6,6 +6,7 @@ name: Hammer And Anvil
 cost: 5 Focus
 type: abilities
 subtype: tactician
+kind: 5-focus abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack
@@ -20,6 +21,8 @@ target: 1 creature or object
 # Hammer And Anvil (5 Focus)
 
 Your attack is your allies' signal to strike!
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |
 | :------------------------------------------ | :------------------------------- |

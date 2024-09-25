@@ -6,6 +6,7 @@ name: Wave Of Virtue
 cost: 5 Piety
 type: abilities
 subtype: conduit
+kind: 5-piety abilities
 keywords: Area, Magic
 keyword_list:
   - Area
@@ -18,6 +19,8 @@ target: All allies
 # Wave Of Virtue (5 Piety)
 
 A pulse of divine magic lets your comrades draw on their reserves of inner strength.
+
+<!-- @nosort -->
 
 | **Keywords:** Area, Magic | **Type:** Action       |
 | :------------------------ | :--------------------- |

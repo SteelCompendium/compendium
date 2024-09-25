@@ -5,6 +5,7 @@ name_raw: Relentless Toss
 name: Relentless Toss
 type: abilities
 subtype: fury
+kind: triggered actions
 keywords: Magic, Melee
 keyword_list:
   - Magic
@@ -18,6 +19,8 @@ trigger: The target is force moved.
 # Relentless Toss
 
 The Primordial Chaos allows you to redirect kinetic energy for a monstrous smash!
+
+<!-- @nosort -->
 
 | **Keywords:** Magic, Melee  | **Type:** Triggered            |
 | :-------------------------- | :----------------------------- |

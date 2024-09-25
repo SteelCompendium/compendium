@@ -5,6 +5,7 @@ name_raw: Distracting Pain
 name: Distracting Pain
 type: abilities
 subtype: shadow
+kind: signature abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack
@@ -19,6 +20,8 @@ target: 1 creature
 # Distracting Pain
 
 Your precise strikes let your allies take advantage of a target's agony.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
 | :------------------------------------------ | :--------------------- |

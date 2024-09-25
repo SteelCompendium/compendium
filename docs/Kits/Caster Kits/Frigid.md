@@ -33,6 +33,8 @@ You wield an implement of crystal, such as a staff or a wand.
 
 You unleash a blast of frigid air to freeze and hinder your foes.
 
+<!-- @nosort -->
+
 | **Keywords:** Area, Magic, Ranged | **Type:** Action        |
 | :-------------------------------- | :---------------------- |
 | **Distance:** 3 cube within 12    | **Target:** All enemies |

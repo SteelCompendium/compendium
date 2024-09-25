@@ -5,6 +5,7 @@ name_raw: Impaling Strike
 name: Impaling Strike
 type: abilities
 subtype: fury
+kind: signature abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -18,6 +19,8 @@ target: 1 creature of your size or smaller
 # Impaling Strike
 
 Fighting up close lets you keep your foe exactly where you want them.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action                               |
 | :---------------------------------- | :--------------------------------------------- |

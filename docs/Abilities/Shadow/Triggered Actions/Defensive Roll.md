@@ -5,6 +5,7 @@ name_raw: Defensive Roll
 name: Defensive Roll
 type: abilities
 subtype: shadow
+kind: triggered actions
 keywords: —
 keyword_list:
   - —
@@ -17,6 +18,8 @@ trigger: Another creature damages you.
 # Defensive Roll
 
 When an enemy attacks, you roll with the impact to reduce the harm.
+
+<!-- @nosort -->
 
 | **Keywords:** —    | **Type:** Triggered |
 | :----------------- | :------------------ |

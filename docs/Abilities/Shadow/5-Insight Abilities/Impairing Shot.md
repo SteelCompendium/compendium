@@ -6,6 +6,7 @@ name: Impairing Shot
 cost: 5 Insight
 type: abilities
 subtype: shadow
+kind: 5-insight abilities
 keywords: Attack, Ranged, Weapon
 keyword_list:
   - Attack
@@ -19,6 +20,8 @@ target: 1 creature
 # Impairing Shot (5 Insight)
 
 Your attack leaves a foe in the perfect position for your allies to finish them.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Ranged, Weapon | **Type:** Action       |
 | :----------------------------------- | :--------------------- |

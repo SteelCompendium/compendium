@@ -6,6 +6,7 @@ name: Inspiring Strike
 cost: 3 Focus
 type: abilities
 subtype: tactician
+kind: 3-focus abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack
@@ -20,6 +21,8 @@ target: 1 creature or object
 # Inspiring Strike (3 Focus)
 
 You hit a foe so hard that it gets your allies back in the fight.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |
 | :------------------------------------------ | :------------------------------- |

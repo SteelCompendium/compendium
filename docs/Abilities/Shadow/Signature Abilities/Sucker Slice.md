@@ -5,6 +5,7 @@ name_raw: Sucker Slice
 name: Sucker Slice
 type: abilities
 subtype: shadow
+kind: signature abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -18,6 +19,8 @@ target: 1 creature
 # Sucker Slice
 
 Keeping an enemy's focus on you lets your ally hit hard.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | :---------------------------------- | :--------------------- |

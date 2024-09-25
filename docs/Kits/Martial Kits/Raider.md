@@ -35,6 +35,8 @@ You wear medium armor and wield a shield and a light weapon.
 
 **Shield Bash** In your hands, a shield isn't just for protection.
 
+<!-- @nosort -->
+
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | :---------------------------------- | :--------------------- |
 | **Distance:** Reach 1               | **Target:** 1 creature |

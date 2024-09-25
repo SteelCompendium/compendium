@@ -5,6 +5,7 @@ name_raw: Debris
 name: Debris
 type: abilities
 subtype: elementalist
+kind: signature abilities
 keywords: Area, Earth, Magic, Ranged
 keyword_list:
   - Area
@@ -19,6 +20,8 @@ target: All enemies
 # Debris
 
 A sudden storm of detritus assaults your foes and leaves them struggling to move.
+
+<!-- @nosort -->
 
 | **Keywords:** Area, Earth, Magic, Ranged | **Type:** Action        |
 | :--------------------------------------- | :---------------------- |

@@ -6,6 +6,7 @@ name: Phalanx Forward!
 cost: 3 Focus
 type: abilities
 subtype: tactician
+kind: 3-focus abilities
 keywords: Ranged, Weapon
 keyword_list:
   - Ranged
@@ -18,6 +19,8 @@ target: Self and all allies
 # Phalanx Forward! (3 Focus)
 
 On your command, you and your allies force back the enemy line.
+
+<!-- @nosort -->
 
 | **Keywords:** Ranged, Weapon | **Type:** Maneuver              |
 | :--------------------------- | :------------------------------ |

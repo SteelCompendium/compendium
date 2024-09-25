@@ -31,6 +31,8 @@ You wear heavy armor and wield an implement of bone, such as a scepter or a staf
 
 Burning radiance falls upon your foe, outlining them with a holy glow.
 
+<!-- @nosort -->
+
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
 | :---------------------------------- | :------------------------------- |
 | **Distance:** Ranged 5              | **Target:** 1 creature or object |

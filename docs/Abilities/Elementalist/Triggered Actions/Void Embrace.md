@@ -5,6 +5,7 @@ name_raw: Void Embrace
 name: Void Embrace
 type: abilities
 subtype: elementalist
+kind: triggered actions
 keywords: Magic, Ranged, Void
 keyword_list:
   - Magic
@@ -19,6 +20,8 @@ trigger: The target starts their turn or moves.
 # Void Embrace
 
 You call on the void to swallow and spit out an ally.
+
+<!-- @nosort -->
 
 | **Keywords:** Magic, Ranged, Void | **Type:** Triggered        |
 | :-------------------------------- | :------------------------- |

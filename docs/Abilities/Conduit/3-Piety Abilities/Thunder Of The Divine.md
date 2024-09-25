@@ -6,6 +6,7 @@ name: Thunder Of The Divine
 cost: 3 Piety
 type: abilities
 subtype: conduit
+kind: 3-piety abilities
 keywords: Area, Magic, Ranged
 keyword_list:
   - Area
@@ -19,6 +20,8 @@ target: All enemies
 # Thunder Of The Divine (3 Piety)
 
 A resounding clap of thunder disrupts your foes.
+
+<!-- @nosort -->
 
 | **Keywords:** Area, Magic, Ranged | **Type:** Action        |
 | :-------------------------------- | :---------------------- |

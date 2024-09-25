@@ -6,6 +6,7 @@ name: Your Entrails Are Your Extrails!
 cost: 3 Rage
 type: abilities
 subtype: fury
+kind: 3-rage abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -19,6 +20,8 @@ target: 1 creature or object
 # Your Entrails Are Your Extrails! (3 Rage)
 
 Unless they get some help, your foe is finished.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
 | :---------------------------------- | :------------------------------- |

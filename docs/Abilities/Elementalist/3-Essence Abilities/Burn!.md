@@ -6,6 +6,7 @@ name: Burn!
 cost: 3 Essence
 type: abilities
 subtype: elementalist
+kind: 3-essence abilities
 keywords: Attack, Fire, Magic, Persistent, Ranged
 keyword_list:
   - Attack
@@ -21,6 +22,8 @@ target: 1 creature or object
 # Burn! (3 Essence)
 
 Fire engulfs a target of your choice and burns at your command.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Fire, Magic, Persistent, Ranged | **Type:** Action                 |
 | :---------------------------------------------------- | :------------------------------- |

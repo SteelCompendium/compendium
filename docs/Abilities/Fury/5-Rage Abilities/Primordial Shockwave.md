@@ -6,6 +6,7 @@ name: Primordial Shockwave
 cost: 5 Rage
 type: abilities
 subtype: fury
+kind: 5-rage abilities
 keywords: Area, Melee, Weapon
 keyword_list:
   - Area
@@ -19,6 +20,8 @@ target: All enemies
 # Primordial Shockwave (5 Rage)
 
 The destructive power of nature cannot be contained.
+
+<!-- @nosort -->
 
 | **Keywords:** Area, Melee, Weapon | **Type:** Action        |
 | :-------------------------------- | :---------------------- |

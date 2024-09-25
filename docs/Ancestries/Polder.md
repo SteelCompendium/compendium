@@ -158,6 +158,8 @@ You gain the following ability:
 
 You become an actual shadow.
 
+<!-- @nosort -->
+
 | **Keywords:** Magic | **Type:** Maneuver |
 | :------------------ | :----------------- |
 | **Distance:** Self  | **Target:** Self   |

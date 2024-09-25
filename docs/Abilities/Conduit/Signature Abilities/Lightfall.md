@@ -5,6 +5,7 @@ name_raw: Lightfall
 name: Lightfall
 type: abilities
 subtype: conduit
+kind: signature abilities
 keywords: Area, Magic, Ranged
 keyword_list:
   - Area
@@ -18,6 +19,8 @@ target: All enemies
 # Lightfall
 
 Holy light scours your foes and sets your allies into perfect attack position.
+
+<!-- @nosort -->
 
 | **Keywords:** Area, Magic, Ranged | **Type:** Action        |
 | :-------------------------------- | :---------------------- |

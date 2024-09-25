@@ -5,6 +5,7 @@ name_raw: Brutal Slam
 name: Brutal Slam
 type: abilities
 subtype: fury
+kind: signature abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -18,6 +19,8 @@ target: 1 creature or object
 # Brutal Slam
 
 The heavy impact of your weapon attacks drives your foes ever backward.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
 | :---------------------------------- | :------------------------------- |

@@ -6,6 +6,7 @@ name: Battle Cry
 cost: 3 Focus
 type: abilities
 subtype: tactician
+kind: 3-focus abilities
 keywords: Ranged
 keyword_list:
   - Ranged
@@ -17,6 +18,8 @@ target: Up to three allies
 # Battle Cry (3 Focus)
 
 Hearing your shout of triumph fills your allies with combat fervor.
+
+<!-- @nosort -->
 
 | **Keywords:** Ranged    | **Type:** Maneuver             |
 | :---------------------- | :----------------------------- |

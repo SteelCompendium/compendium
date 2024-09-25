@@ -6,6 +6,7 @@ name: Conflagration
 cost: 5 Essence
 type: abilities
 subtype: elementalist
+kind: 5-essence abilities
 keywords: Area, Fire, Magic, Persistent, Ranged
 keyword_list:
   - Area
@@ -21,6 +22,8 @@ target: All enemies
 # Conflagration (5 Essence)
 
 A storm of fire descends upon your enemies.
+
+<!-- @nosort -->
 
 | **Keywords:** Area, Fire, Magic, Persistent, Ranged | **Type:** Action        |
 | :-------------------------------------------------- | :---------------------- |

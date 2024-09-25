@@ -5,6 +5,7 @@ name_raw: Divine Disruption
 name: Divine Disruption
 type: abilities
 subtype: conduit
+kind: triggered actions
 keywords: Magic, Ranged
 keyword_list:
   - Magic
@@ -18,6 +19,8 @@ trigger: The target makes an attack. You can use this ability after seeing the r
 # Divine Disruption
 
 You sap the strength of an attacking enemy with divine energy.
+
+<!-- @nosort -->
 
 | **Keywords:** Magic, Ranged | **Type:** Triggered |
 | :-------------------------- | :------------------ |

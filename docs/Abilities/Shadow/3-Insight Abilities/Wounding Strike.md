@@ -6,6 +6,7 @@ name: Wounding Strike
 cost: 3 Insight
 type: abilities
 subtype: shadow
+kind: 3-insight abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack
@@ -20,6 +21,8 @@ target: 1 creature
 # Wounding Strike (3 Insight)
 
 You leave your foe [[Bleeding|bleeding]] out after a devastating attack.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
 | :------------------------------------------ | :--------------------- |

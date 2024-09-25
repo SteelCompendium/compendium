@@ -6,6 +6,7 @@ name: Their Weakness Is Our Strength
 cost: 5 Focus
 type: abilities
 subtype: tactician
+kind: 5-focus abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack
@@ -20,6 +21,8 @@ target: 1 creature or object
 # Their Weakness Is Our Strength (5 Focus)
 
 Leaving your foe struggling gives your allies a strategic opening.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |
 | :------------------------------------------ | :------------------------------- |

@@ -5,6 +5,7 @@ name_raw: Shot And Step
 name: Shot And Step
 type: abilities
 subtype: shadow
+kind: signature abilities
 keywords: Attack, Ranged, Weapon
 keyword_list:
   - Attack
@@ -18,6 +19,8 @@ target: 1 creature or object
 # Shot And Step
 
 Being fast on your feet makes your ranged attacks especially deadly.
+
+<!-- @nosort -->
 
 | **Keywords:** Attack, Ranged, Weapon | **Type:** Action                 |
 | :----------------------------------- | :------------------------------- |
