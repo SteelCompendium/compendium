@@ -20,8 +20,6 @@ target: 1 creature or object
 
 Being fast on your feet makes your ranged attacks especially deadly.
 
-<!-- @nosort -->
-
 |                                      |                                  |
 | :----------------------------------- | :------------------------------- |
 | **Keywords:** Attack, Ranged, Weapon | **Type:** Action                 |

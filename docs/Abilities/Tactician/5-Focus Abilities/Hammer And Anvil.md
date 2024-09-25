@@ -22,8 +22,6 @@ target: 1 creature or object
 
 Your attack is your allies' signal to strike!
 
-<!-- @nosort -->
-
 |                                             |                                  |
 | :------------------------------------------ | :------------------------------- |
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |

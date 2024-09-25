@@ -21,8 +21,6 @@ target: 1 creature or object
 
 Unless they get some help, your foe is finished.
 
-<!-- @nosort -->
-
 |                                     |                                  |
 | :---------------------------------- | :------------------------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |

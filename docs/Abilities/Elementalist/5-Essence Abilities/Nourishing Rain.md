@@ -21,8 +21,6 @@ target: All enemies
 
 You call down a rain that burns your enemies and restores your allies.
 
-<!-- @nosort -->
-
 |                                  |                         |
 | :------------------------------- | :---------------------- |
 | **Keywords:** Area, Green, Magic | **Type:** Action        |

@@ -21,8 +21,6 @@ target: 1 creature
 
 Your precise strikes let your allies take advantage of a target's agony.
 
-<!-- @nosort -->
-
 |                                             |                        |
 | :------------------------------------------ | :--------------------- |
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |

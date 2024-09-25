@@ -21,8 +21,6 @@ target: 1 creature or object
 
 A jet of fire erupts with elemental fury where it strikes.
 
-<!-- @nosort -->
-
 |                                           |                                  |
 | :---------------------------------------- | :------------------------------- |
 | **Keywords:** Attack, Fire, Magic, Ranged | **Type:** Action                 |

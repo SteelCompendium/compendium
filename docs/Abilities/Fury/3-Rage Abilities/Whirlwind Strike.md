@@ -21,8 +21,6 @@ target: All enemies
 
 As your foes close in around you, why bother taking them on one by one?
 
-<!-- @nosort -->
-
 |                                   |                         |
 | :-------------------------------- | :---------------------- |
 | **Keywords:** Area, Melee, Weapon | **Type:** Action        |

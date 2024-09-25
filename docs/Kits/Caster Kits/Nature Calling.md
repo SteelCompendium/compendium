@@ -32,8 +32,6 @@ You wield an implement of stone, such as a club or a crown.
 
 You call forth a small bolt of lightning, then hurl it at your foe.
 
-<!-- @nosort -->
-
 |                                     |                                  |
 | :---------------------------------- | :------------------------------- |
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |

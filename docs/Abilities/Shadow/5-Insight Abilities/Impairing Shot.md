@@ -21,8 +21,6 @@ target: 1 creature
 
 Your attack leaves a foe in the perfect position for your allies to finish them.
 
-<!-- @nosort -->
-
 |                                      |                        |
 | :----------------------------------- | :--------------------- |
 | **Keywords:** Attack, Ranged, Weapon | **Type:** Action       |

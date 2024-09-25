@@ -21,8 +21,6 @@ target: Self
 
 As you move across the battlefield, every foe within reach feels your wrath.
 
-<!-- @nosort -->
-
 |                                     |                  |
 | :---------------------------------- | :--------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action |

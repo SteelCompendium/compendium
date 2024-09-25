@@ -32,8 +32,6 @@ You wear light armor and wield an implement of bone such as a staff or a skull.
 
 Your curse causes a foe's flesh to rot off as spores that aid your allies.
 
-<!-- @nosort -->
-
 |                                     |                        |
 | :---------------------------------- | :--------------------- |
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action       |

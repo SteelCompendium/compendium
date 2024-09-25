@@ -33,8 +33,6 @@ You wear heavy armor and wield a heavy weapon.
 
 **Pain for Pain** An enemy who tagged you will pay for that.
 
-<!-- @nosort -->
-
 |                                     |                        |
 | :---------------------------------- | :--------------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |

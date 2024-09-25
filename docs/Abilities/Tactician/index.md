@@ -1,6 +1,6 @@
 # Tactician Abilities
 
-| name                           | kind              | cost    | distance            | target               |
+| Name                           | Kind              | Cost    | Distance            | Target               |
 | ------------------------------ | ----------------- | ------- | ------------------- | -------------------- |
 | [[Parry]]                          | triggered actions |         | Self or Reach 1     | Self or 1 ally       |
 | [[Overwatch]]                      | triggered actions |         | Ranged 10           | 1 enemy              |

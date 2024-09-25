@@ -22,8 +22,6 @@ target: Special
 
 The surface of the world around you opens up at your command.
 
-<!-- @nosort -->
-
 |                                                |                     |
 | :--------------------------------------------- | :------------------ |
 | **Keywords:** Magic, Earth, Persistent, Ranged | **Type:** Maneuver  |

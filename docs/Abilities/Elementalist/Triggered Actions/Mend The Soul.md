@@ -21,8 +21,6 @@ trigger: The target starts their turn.
 
 The power you channel grants the ability to get back in the fight.
 
-<!-- @nosort -->
-
 |                                    |                            |
 | :--------------------------------- | :------------------------- |
 | **Keywords:** Green, Magic, Ranged | **Type:** Triggered        |

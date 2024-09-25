@@ -36,8 +36,6 @@ You wear medium armor and wield a medium weapon and a bow.
 
 **Hamstring Shot** A well-placed shot leaves your enemy struggling to move.
 
-<!-- @nosort -->
-
 |                                      |                        |
 | :----------------------------------- | :--------------------- |
 | **Keywords:** Attack, Ranged, Weapon | **Type:** Action       |

@@ -22,8 +22,6 @@ target: 1 creature or object
 
 Leaving your foe struggling gives your allies a strategic opening.
 
-<!-- @nosort -->
-
 |                                             |                                  |
 | :------------------------------------------ | :------------------------------- |
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |

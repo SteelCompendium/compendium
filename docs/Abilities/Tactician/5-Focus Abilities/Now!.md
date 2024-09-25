@@ -19,8 +19,6 @@ target: All allies
 
 Your allies wait for your command—then unleash death!
 
-<!-- @nosort -->
-
 |                        |                        |
 | :--------------------- | :--------------------- |
 | **Keywords:** Ranged   | **Type:** Maneuver     |

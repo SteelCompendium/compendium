@@ -20,8 +20,6 @@ target: 1 creature or object
 
 Keeping in constant motion helps you slip out of reach after a brutal assault.
 
-<!-- @nosort -->
-
 |                                     |                                  |
 | :---------------------------------- | :------------------------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |

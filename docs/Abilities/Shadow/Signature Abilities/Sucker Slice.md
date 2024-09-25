@@ -20,8 +20,6 @@ target: 1 creature
 
 Keeping an enemy's focus on you lets your ally hit hard.
 
-<!-- @nosort -->
-
 |                                     |                        |
 | :---------------------------------- | :--------------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |

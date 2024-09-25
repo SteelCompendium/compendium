@@ -19,8 +19,6 @@ target: 2 allies
 
 A quick signal from you gives your allies a chance to turn the tide of battle.
 
-<!-- @nosort -->
-
 |                         |                      |
 | :---------------------- | :------------------- |
 | **Keywords:** Ranged    | **Type:** Maneuver   |

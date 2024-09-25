@@ -20,8 +20,6 @@ target: 1 creature or object
 
 A bolt of holy energy saps the life from a foe.
 
-<!-- @nosort -->
-
 |                                     |                                  |
 | :---------------------------------- | :------------------------------- |
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |

@@ -35,8 +35,6 @@ You wear light armor and wield a polearm.
 
 **Where I Want You** When your stick speaks, your enemy moves.
 
-<!-- @nosort -->
-
 |                                     |                        |
 | :---------------------------------- | :--------------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |

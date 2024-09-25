@@ -21,8 +21,6 @@ target: 1 creature
 
 You seize the perfect moment and strike with fatal precision!
 
-<!-- @nosort -->
-
 |                                     |                        |
 | :---------------------------------- | :--------------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |

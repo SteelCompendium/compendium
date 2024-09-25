@@ -37,8 +37,6 @@ You wear light armor and wield one or two light weapons.
 
 **Fade** A stab, and a few quick, careful steps back.
 
-<!-- @nosort -->
-
 |                                             |                        |
 | :------------------------------------------ | :--------------------- |
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |

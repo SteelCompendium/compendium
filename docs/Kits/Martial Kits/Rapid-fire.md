@@ -35,8 +35,6 @@ You wear light armor and wield a bow.
 
 **Two Shot** When you fire two arrows back to back, both hit their mark.
 
-<!-- @nosort -->
-
 |                                      |                                    |
 | :----------------------------------- | :--------------------------------- |
 | **Keywords:** Attack, Ranged, Weapon | **Type:** Action                   |

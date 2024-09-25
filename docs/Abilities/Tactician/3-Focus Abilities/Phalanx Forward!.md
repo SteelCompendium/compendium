@@ -20,8 +20,6 @@ target: Self and all allies
 
 On your command, you and your allies force back the enemy line.
 
-<!-- @nosort -->
-
 |                              |                                 |
 | :--------------------------- | :------------------------------ |
 | **Keywords:** Ranged, Weapon | **Type:** Maneuver              |

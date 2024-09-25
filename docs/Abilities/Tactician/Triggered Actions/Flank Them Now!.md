@@ -19,8 +19,6 @@ trigger: A nontarget ally is about to make an attack.
 
 You help keep your side in motion as attacks rain down on your foes.
 
-<!-- @nosort -->
-
 |                                 |                            |
 | :------------------------------ | :------------------------- |
 | **Keywords:** Ranged            | **Type:** Triggered        |

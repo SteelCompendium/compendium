@@ -21,8 +21,6 @@ target: All enemies
 
 The destructive power of nature cannot be contained.
 
-<!-- @nosort -->
-
 |                                   |                         |
 | :-------------------------------- | :---------------------- |
 | **Keywords:** Area, Melee, Weapon | **Type:** Action        |

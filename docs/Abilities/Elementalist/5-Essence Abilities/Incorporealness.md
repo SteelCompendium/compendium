@@ -22,8 +22,6 @@ target: Self or 1 ally
 
 The material substance of a creature shreds away at your command.
 
-<!-- @nosort -->
-
 |                                              |                            |
 | :------------------------------------------- | :------------------------- |
 | **Keywords:** Magic, Melee, Persistent, Void | **Type:** Maneuver         |

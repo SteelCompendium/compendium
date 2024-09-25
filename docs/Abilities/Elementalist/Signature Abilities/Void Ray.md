@@ -21,8 +21,6 @@ target: 1 creature or object
 
 A beam of energy corrupts and hinders whatever it touches.
 
-<!-- @nosort -->
-
 |                                           |                                  |
 | :---------------------------------------- | :------------------------------- |
 | **Keywords:** Attack, Magic, Ranged, Void | **Type:** Action                 |

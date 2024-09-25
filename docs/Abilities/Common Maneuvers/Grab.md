@@ -19,8 +19,6 @@ You attempt to grab a creature using the following ability:
 
 **GRAB**
 
-<!-- @nosort -->
-
 |                       |                                                          |
 | :-------------------- | :------------------------------------------------------- |
 | **Keywords:** Melee   | **Type:** Maneuver                                       |

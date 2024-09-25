@@ -23,8 +23,6 @@ target: All enemies
 
 A storm of fire descends upon your enemies.
 
-<!-- @nosort -->
-
 |                                                     |                         |
 | :-------------------------------------------------- | :---------------------- |
 | **Keywords:** Area, Fire, Magic, Persistent, Ranged | **Type:** Action        |

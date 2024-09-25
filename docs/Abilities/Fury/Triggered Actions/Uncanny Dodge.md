@@ -19,8 +19,6 @@ trigger: You are targeted by a damaging area of effect.
 
 When a damaging effect surrounds you, you stay two steps ahead.
 
-<!-- @nosort -->
-
 |                       |                     |
 | :-------------------- | :------------------ |
 | **Keywords:** Melee   | **Type:** Triggered |

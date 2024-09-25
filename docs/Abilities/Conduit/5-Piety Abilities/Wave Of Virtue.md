@@ -20,8 +20,6 @@ target: All allies
 
 A pulse of divine magic lets your comrades draw on their reserves of inner strength.
 
-<!-- @nosort -->
-
 |                           |                        |
 | :------------------------ | :--------------------- |
 | **Keywords:** Area, Magic | **Type:** Action       |

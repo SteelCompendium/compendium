@@ -22,8 +22,6 @@ target: 1 creature
 
 You leave your foe [[Bleeding|bleeding]] out after a devastating attack.
 
-<!-- @nosort -->
-
 |                                             |                        |
 | :------------------------------------------ | :--------------------- |
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |

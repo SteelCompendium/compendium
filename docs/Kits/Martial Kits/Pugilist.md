@@ -34,8 +34,6 @@ You wear no armor and wield only your unarmed strikes.
 
 **Let's Dance** Keeping your enemies stumbling around the battlefield is second nature to you.
 
-<!-- @nosort -->
-
 |                                     |                        |
 | :---------------------------------- | :--------------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |

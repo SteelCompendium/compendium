@@ -19,8 +19,6 @@ target: Self
 
 You put on a burst of magical speed to get the job done.
 
-<!-- @nosort -->
-
 |                     |                  |
 | :------------------ | :--------------- |
 | **Keywords:** Magic | **Type:** Action |

@@ -21,8 +21,6 @@ target: All enemies
 
 You slam the ground, which buckles out from you in every direction.
 
-<!-- @nosort -->
-
 |                                  |                         |
 | :------------------------------- | :---------------------- |
 | **Keywords:** Area, Earth, Magic | **Type:** Action        |

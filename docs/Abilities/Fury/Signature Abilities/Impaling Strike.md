@@ -20,8 +20,6 @@ target: 1 creature of your size or smaller
 
 Fighting up close lets you keep your foe exactly where you want them.
 
-<!-- @nosort -->
-
 |                                     |                                                |
 | :---------------------------------- | :--------------------------------------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action                               |

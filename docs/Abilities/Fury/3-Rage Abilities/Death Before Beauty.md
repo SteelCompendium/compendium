@@ -21,8 +21,6 @@ target: 1 creature
 
 Your enemies will get out of your way—whether they want to or not.
 
-<!-- @nosort -->
-
 |                                     |                        |
 | :---------------------------------- | :--------------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |

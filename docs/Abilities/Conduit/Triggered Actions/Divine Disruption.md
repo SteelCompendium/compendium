@@ -20,8 +20,6 @@ trigger: The target makes an attack. You can use this ability after seeing the r
 
 You sap the strength of an attacking enemy with divine energy.
 
-<!-- @nosort -->
-
 |                             |                     |
 | :-------------------------- | :------------------ |
 | **Keywords:** Magic, Ranged | **Type:** Triggered |

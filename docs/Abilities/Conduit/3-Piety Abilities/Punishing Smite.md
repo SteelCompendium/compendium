@@ -21,8 +21,6 @@ target: 1 creature or object
 
 Your divine fury is a hammer that crashes down upon the unrighteous.
 
-<!-- @nosort -->
-
 |                                     |                                  |
 | :---------------------------------- | :------------------------------- |
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |

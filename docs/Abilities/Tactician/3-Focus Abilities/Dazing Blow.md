@@ -22,8 +22,6 @@ target: 1 creature or object
 
 Your precise strike leaves your foe struggling to respond.
 
-<!-- @nosort -->
-
 |                                             |                                  |
 | :------------------------------------------ | :------------------------------- |
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |

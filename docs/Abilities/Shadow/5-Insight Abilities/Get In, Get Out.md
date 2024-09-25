@@ -21,8 +21,6 @@ target: 1 creature
 
 Move unexpectedly, strike fast, and be gone!
 
-<!-- @nosort -->
-
 |                                     |                        |
 | :---------------------------------- | :--------------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |

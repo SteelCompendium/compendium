@@ -20,8 +20,6 @@ target: All enemies
 
 Holy light scours your foes and sets your allies into perfect attack position.
 
-<!-- @nosort -->
-
 |                                   |                         |
 | :-------------------------------- | :---------------------- |
 | **Keywords:** Area, Magic, Ranged | **Type:** Action        |

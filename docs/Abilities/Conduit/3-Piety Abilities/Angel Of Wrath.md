@@ -20,8 +20,6 @@ target: Special
 
 You conjure an angelic spirit who lashes your foes with burning radiance.
 
-<!-- @nosort -->
-
 |                             |                     |
 | :-------------------------- | :------------------ |
 | **Keywords:** Magic, Ranged | **Type:** Action    |

@@ -21,8 +21,6 @@ trigger: The target force moves a creature or object.
 
 You add a little magic to an ally's aggression at just the right time.
 
-<!-- @nosort -->
-
 |                                   |                            |
 | :-------------------------------- | :------------------------- |
 | **Keywords:** Fire, Magic, Ranged | **Type:** Triggered        |

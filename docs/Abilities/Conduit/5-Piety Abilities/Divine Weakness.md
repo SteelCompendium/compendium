@@ -21,8 +21,6 @@ target: 1 creature or object
 
 Divine energy scours your target to make them more susceptible to harm.
 
-<!-- @nosort -->
-
 |                                     |                                  |
 | :---------------------------------- | :------------------------------- |
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |

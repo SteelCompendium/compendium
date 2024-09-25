@@ -23,8 +23,6 @@ target: 1 creature or object
 
 Fire engulfs a target of your choice and burns at your command.
 
-<!-- @nosort -->
-
 |                                                       |                                  |
 | :---------------------------------------------------- | :------------------------------- |
 | **Keywords:** Attack, Fire, Magic, Persistent, Ranged | **Type:** Action                 |

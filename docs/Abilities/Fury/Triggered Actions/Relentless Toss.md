@@ -20,8 +20,6 @@ trigger: The target is force moved.
 
 The Primordial Chaos allows you to redirect kinetic energy for a monstrous smash!
 
-<!-- @nosort -->
-
 |                             |                                |
 | :-------------------------- | :----------------------------- |
 | **Keywords:** Magic, Melee  | **Type:** Triggered            |

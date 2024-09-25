@@ -21,8 +21,6 @@ target: 1 creature or object
 
 A mighty strike leaves your foe reeling.
 
-<!-- @nosort -->
-
 |                                     |                                  |
 | :---------------------------------- | :------------------------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |

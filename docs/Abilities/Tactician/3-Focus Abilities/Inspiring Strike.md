@@ -22,8 +22,6 @@ target: 1 creature or object
 
 You hit a foe so hard that it gets your allies back in the fight.
 
-<!-- @nosort -->
-
 |                                             |                                  |
 | :------------------------------------------ | :------------------------------- |
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |

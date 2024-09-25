@@ -21,8 +21,6 @@ target: 1 creature
 
 Divine wrath strikes your foe with lightning that follows them across the battlefield.
 
-<!-- @nosort -->
-
 |                                     |                        |
 | :---------------------------------- | :--------------------- |
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action       |

@@ -19,8 +19,6 @@ trigger: You take damage.
 
 You [[Teleport|teleport]] away in a plume of black smoke to avoid danger.
 
-<!-- @nosort -->
-
 |                     |                     |
 | :------------------ | :------------------ |
 | **Keywords:** Magic | **Type:** Triggered |

@@ -20,8 +20,6 @@ target: 3 allies
 
 The divine light of protection surrounds your allies.
 
-<!-- @nosort -->
-
 |                             |                      |
 | :-------------------------- | :------------------- |
 | **Keywords:** Magic, Ranged | **Type:** Maneuver   |

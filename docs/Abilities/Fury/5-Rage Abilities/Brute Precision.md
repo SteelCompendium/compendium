@@ -19,8 +19,6 @@ target: Self
 
 You can always trust your anger to get the job done.
 
-<!-- @nosort -->
-
 |                    |                         |
 | :----------------- | :---------------------- |
 | **Keywords:** —    | **Type:** Free maneuver |

@@ -32,8 +32,6 @@ You gain the following career benefits:
 
 You cast an entertaining spell that creates a minor but impressive magical effect.
 
-<!-- @nosort -->
-
 |                     |                  |
 | :------------------ | :--------------- |
 | **Keywords:** Magic | **Type:** Action |

@@ -21,8 +21,6 @@ trigger: The target makes a melee attack.
 
 You imbue an attack with the strength of stone.
 
-<!-- @nosort -->
-
 |                                    |                            |
 | :--------------------------------- | :------------------------- |
 | **Keywords:** Earth, Magic, Ranged | **Type:** Triggered        |

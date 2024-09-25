@@ -34,8 +34,6 @@ You wear no armor and wield a whip.
 
 **Extension of My Arm** When you draw your whip back after an attack, your enemy comes ever closer.
 
-<!-- @nosort -->
-
 |                                     |                        |
 | :---------------------------------- | :--------------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |

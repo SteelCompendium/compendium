@@ -1,6 +1,6 @@
 # Fury Abilities
 
-| name                                       | kind                | cost   | distance            | target                             |
+| Name                                       | Kind                | Cost   | Distance            | Target                             |
 | ------------------------------------------ | ------------------- | ------ | ------------------- | ---------------------------------- |
 | [[Relentless Toss]]                            | triggered actions   |        | Self or reach       | Self or 1 creature                 |
 | [[Uncanny Dodge]]                              | triggered actions   |        | Reach 1             | Self                               |

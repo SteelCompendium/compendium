@@ -20,8 +20,6 @@ target: 1 creature or object
 
 The heavy impact of your weapon attacks drives your foes ever backward.
 
-<!-- @nosort -->
-
 |                                     |                                  |
 | :---------------------------------- | :------------------------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |

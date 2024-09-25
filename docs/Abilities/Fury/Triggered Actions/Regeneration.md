@@ -19,8 +19,6 @@ trigger: You lose Stamina and are not dying.
 
 Your transformative abilities bring you back into the fight.
 
-<!-- @nosort -->
-
 |                     |                     |
 | :------------------ | :------------------ |
 | **Keywords:** Melee | **Type:** Triggered |

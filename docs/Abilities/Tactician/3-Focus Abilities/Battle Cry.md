@@ -19,8 +19,6 @@ target: Up to three allies
 
 Hearing your shout of triumph fills your allies with combat fervor.
 
-<!-- @nosort -->
-
 |                         |                                |
 | :---------------------- | :----------------------------- |
 | **Keywords:** Ranged    | **Type:** Maneuver             |

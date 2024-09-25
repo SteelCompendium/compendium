@@ -21,8 +21,6 @@ target: Self
 
 When you barrel through your foes, they feel your wrath.
 
-<!-- @nosort -->
-
 |                                     |                  |
 | :---------------------------------- | :--------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action |

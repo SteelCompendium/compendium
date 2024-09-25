@@ -22,8 +22,6 @@ target: 2 creatures or objects
 
 Striking two foes at once is second nature to you.
 
-<!-- @nosort -->
-
 |                                             |                                    |
 | :------------------------------------------ | :--------------------------------- |
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                   |

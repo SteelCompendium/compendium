@@ -1,6 +1,6 @@
 # Conduit Abilities
 
-| name                  | kind                | cost    | distance        | target               |
+| Name                  | Kind                | Cost    | Distance        | Target               |
 | --------------------- | ------------------- | ------- | --------------- | -------------------- |
 | [[Holy Infusion]]         | triggered actions   |         | Ranged 5        | 1 ally               |
 | [[Divine Disruption]]     | triggered actions   |         | Ranged 5        | 1 enemy              |

@@ -21,8 +21,6 @@ trigger: The target starts their turn or moves.
 
 You call on the void to swallow and spit out an ally.
 
-<!-- @nosort -->
-
 |                                   |                            |
 | :-------------------------------- | :------------------------- |
 | **Keywords:** Magic, Ranged, Void | **Type:** Triggered        |

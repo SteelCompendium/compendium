@@ -33,8 +33,6 @@ You wield an implement of metal, such as a knife or a scepter.
 
 Two beams of supernatural force lance out at your command.
 
-<!-- @nosort -->
-
 |                                     |                                    |
 | :---------------------------------- | :--------------------------------- |
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                   |

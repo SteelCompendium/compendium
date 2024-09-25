@@ -20,8 +20,6 @@ trigger: A creature makes a Weapon attack against the target.
 
 Your quick reflexes cost an enemy the precision they seek.
 
-<!-- @nosort -->
-
 |                               |                            |
 | :---------------------------- | :------------------------- |
 | **Keywords:** Melee, Weapon   | **Type:** Triggered        |

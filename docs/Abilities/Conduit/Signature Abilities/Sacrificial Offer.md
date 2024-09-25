@@ -20,8 +20,6 @@ target: 1 creature
 
 The divine energy of creation tears at your foe.
 
-<!-- @nosort -->
-
 |                                     |                        |
 | :---------------------------------- | :--------------------- |
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action       |

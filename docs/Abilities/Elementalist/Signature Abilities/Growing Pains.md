@@ -21,8 +21,6 @@ target: 1 creature
 
 Whipping vines erupt from a foe's body to grasp at another close by.
 
-<!-- @nosort -->
-
 |                                            |                        |
 | :----------------------------------------- | :--------------------- |
 | **Keywords:** Attack, Green, Magic, Ranged | **Type:** Action       |

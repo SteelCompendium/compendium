@@ -21,8 +21,6 @@ target: All enemies
 
 A sudden storm of detritus assaults your foes and leaves them struggling to move.
 
-<!-- @nosort -->
-
 |                                          |                         |
 | :--------------------------------------- | :---------------------- |
 | **Keywords:** Area, Earth, Magic, Ranged | **Type:** Action        |

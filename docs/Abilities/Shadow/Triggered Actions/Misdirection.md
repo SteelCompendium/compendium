@@ -20,8 +20,6 @@ trigger: An enemy attacks you.
 
 You sow a moment of confusion in combat, to your enemy's peril.
 
-<!-- @nosort -->
-
 |                     |                     |
 | :------------------ | :------------------ |
 | **Keywords:** Magic | **Type:** Triggered |

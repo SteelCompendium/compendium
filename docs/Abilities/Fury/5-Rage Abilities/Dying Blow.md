@@ -21,8 +21,6 @@ target: 1 creature
 
 You focus your rage into a single devastating strike.
 
-<!-- @nosort -->
-
 |                                     |                        |
 | :---------------------------------- | :--------------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |

@@ -20,8 +20,6 @@ target: 1 creature or object
 
 You hit with a strength that's worth the risk of raising your opponent's ire.
 
-<!-- @nosort -->
-
 |                                     |                                  |
 | :---------------------------------- | :------------------------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |

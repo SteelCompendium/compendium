@@ -1,6 +1,6 @@
 # Shadow Abilities
 
-| name                  | kind                | cost      | distance            | target                 |
+| Name                  | Kind                | Cost      | Distance            | Target                 |
 | --------------------- | ------------------- | --------- | ------------------- | ---------------------- |
 | [[Wounding Strike]]       | 3-insight abilities | 3 Insight | Reach 1 or Ranged 3 | 1 creature             |
 | [[Two Throats At Once]]   | 3-insight abilities | 3 Insight | Reach 1 or Ranged 5 | 2 creatures or objects |

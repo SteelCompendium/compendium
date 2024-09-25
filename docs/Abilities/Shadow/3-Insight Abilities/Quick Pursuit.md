@@ -21,8 +21,6 @@ target: 1 creature
 
 A foe forced away from you might assume they're out of danger, but they'll soon learn otherwise.
 
-<!-- @nosort -->
-
 |                                     |                        |
 | :---------------------------------- | :--------------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |

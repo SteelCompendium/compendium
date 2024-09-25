@@ -21,8 +21,6 @@ target: All enemies
 
 A resounding clap of thunder disrupts your foes.
 
-<!-- @nosort -->
-
 |                                   |                         |
 | :-------------------------------- | :---------------------- |
 | **Keywords:** Area, Magic, Ranged | **Type:** Action        |

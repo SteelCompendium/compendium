@@ -1,6 +1,6 @@
 # Elementalist Abilities
 
-| name                 | kind                | cost      | distance         | target               |
+| Name                 | Kind                | Cost      | Distance         | Target               |
 | -------------------- | ------------------- | --------- | ---------------- | -------------------- |
 | [[Mend The Soul]]        | triggered actions   |           | Ranged 5         | Self or 1 ally       |
 | [[Explosive Assistance]] | triggered actions   |           | Ranged 5         | Self or 1 ally       |

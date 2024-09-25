@@ -21,8 +21,6 @@ target: 1 creature
 
 A mote of holy light racks your foe with their greatest fear.
 
-<!-- @nosort -->
-
 |                                     |                        |
 | :---------------------------------- | :--------------------- |
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
