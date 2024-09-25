@@ -1,6 +1,6 @@
 Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2024 MCDM Productions, LLC.
 
-# WHAT IS THIS GAME?
+## WHAT IS THIS GAME?
 
 This is a game about fighting monsters. About larger-than-life, extraordinary heroes plunging into battle against terrifying, monstrous enemies.
 
@@ -26,7 +26,7 @@ These terms are just guidelines. A vibe. But we find them useful when trying to 
 
 So let’s talk about what we mean when we use these terms.
 
-## TACTICAL
+### TACTICAL
 
 Strategy is: “What are we trying to do?” Break a siege, free a prisoner, rescue a captive, steal a tome of ancient lore. Strategy is about long-term goals.
 
@@ -46,7 +46,7 @@ You learn which characters are the “squishies” who need to be protected or h
 
 Our game is not about tactics. It’s not a war game. But it is tactical.
 
-## HEROIC
+### HEROIC
 
 Our game is definitely about heroism! :D
 
@@ -60,7 +60,7 @@ For instance, you never see Indiana Jones having to find a local sporting goods 
 
 These things do happen. No one watching *Raiders of the Lost Ark* thinks that Indy’s gun is magical and doesn’t need bullets—but we just don’t need to see Indy doing that stuff. We don’t need to waste time on it.
 
-## CINEMATIC
+### CINEMATIC
 
 Closely tied to the heroic keyword, the cinematic keyword is about how we like powers and abilities with a strong visual component. You can imagine your character doing or saying these things. “In All This Confusion” is a good name for the shadow’s ability to slip out of melee and retreat to safety. The text of the ability says how it works, but the name creates a visual that explains how it’s working.
 
@@ -68,7 +68,7 @@ When Sir Vanazor the dragon knight fury leaps onto a goblin war spider, cleaving
 
 You should imagine your tactician character leading the battle, granting your allies free attacks, extra maneuvers. Coordinating the battle. That’s what the name implies. And if we’ve done a good job, when you read the character’s abilities, you think, “Yes! This is what I was imagining! I can’t wait to do this!”
 
-## FANTASY
+### FANTASY
 
 Just … you know … it’s got dragons and stuff. :D
 
@@ -82,7 +82,7 @@ These core rules mostly cover the classic fantasy stuff. But we think Capital an
 
 For us, fantasy includes magic, like wizards casting spells, and psionics, the natural and focused ability some creatures have to manipulate and warp reality with their minds. You know, telekinesis and telepathy! Jean Grey style! Although heroes have a few of these options in the core rules, you’ll see more psionics in later products.
 
-## IF YOU’RE COMING FROM D20 FANTASY…
+### IF YOU’RE COMING FROM D20 FANTASY…
 
 If you’ve most often played medieval fantasy RPGs that use a d20 and have Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma as primary creature statistics, you’re going to notice a lot of similarities between that style of game and Draw Steel. But as talked about above, our game is explicitly heroic and tactical, and it includes our own ideas of what a fantasy world should include. As such, you’ll definitely notice some differences. We might use similar terminology for rules, but our use of those game terms might mean different things, because we’re trying to support a specific style of play and there are only so many words that make sense to use with a fantasy game in the English language.
 
@@ -96,7 +96,7 @@ Here are a few key distinctions between this game and typical d20 fantasy that y
 - **We won’t be able to point out every difference.** Beyond what’s noted here, don’t assume that these rules work like any d20 fantasy game you’ve played. We don’t have the space to point out every exception. So if you’re in doubt about how something works, put d20 fantasy out of your mind and read our rules without those assumptions, and you’ll find that things make better sense. If you’re still confused, stop by the MCDM Discord and ask. We’ve got tons of awesome community members ready to help!
 - **We don’t expect you to do everything to the letter.** This is actually one thing *Draw Steel* does have in common with d20 fantasy. This is a big book of rules! Don’t stress if you need to look something up or make a ruling about an edge case on the fly. If everyone’s having fun, you’re doing it right.
 
-# THE BASICS
+## THE BASICS
 
 The flow of playing Draw Steel is like playing any other tabletop roleplaying game with a Director (also called a Game Master or GM in other games). Play is a conversation between the Director and the heroes that describes the story. The Director sets the scene, describing the important elements of the environment that the heroes would notice.
 
@@ -140,47 +140,47 @@ At some point, a player will have their hero attempt a task that has a risk of f
 
 **Director**: Draw steel!
 
-## CHARACTERISTICS
+### CHARACTERISTICS
 
 Each creature in the game has five characteristics that represent their capacity to interact with other creatures and the environment.
 
-### MIGHT
+#### MIGHT
 
 Might (MGT) represents strength and brawn. A creature’s ability to break down doors, swing an axe, stand up during an earthquake, or hurl an ally across a chasm is determined by Might.
 
-### AGILITY
+#### AGILITY
 
 Agility (AGL) represents coordination and nimbleness. A creature’s ability to backflip out of danger, shoot a crossbow, dodge an explosion, or pluck keys from a guard’s belt is determined by Agility.
 
-### REASON
+#### REASON
 
 Reason (REA) represents a logical mind and education. A creature’s ability to solve a puzzle that unlocks a door, recall lore about necromancy, decipher a coded message, or blast a foe with psionic power is determined by Reason.
 
-### INTUITION
+#### INTUITION
 
 Intuition (INU) represents instincts and experience. A creature’s ability to hear the approach of a distant rider, figure out the tell of a bluffing gambler, calm a rearing horse, or track a monster across the tundra is determined by Intuition.
 
-### PRESENCE
+#### PRESENCE
 
 Presence (PRS) represents force of personality. A creature’s ability to lie to a judge, convince a crowd to join a revolution, impress a queen at a royal banquet, or cast a magic spell by singing a song is determined by Presence.
 
-### CHARACTERISTIC SCORES
+#### CHARACTERISTIC SCORES
 
 Each characteristic has a score that runs from −5 to +5. The higher a score, the more impact the creature has with that characteristic. A baby bunny rabbit would have a Might score of −5, while an ancient dragon would have a Might score of 5. The average human has a score of 0 in all their characteristics. Characteristic scores are added to power rolls—the dice rolls you make whenever your character attempts a task with an uncertain outcome (see Power Rolls).
 
-## DICE
+### DICE
 
 This game uses ten-sided dice (also called d10s). Each player and the Director should have two of these. The game also makes occasional use of a six-sided die (called a d6), so it’s helpful if each player has one or two of those as well.
 
-### D3S
+#### D3S
 
 On rare occasions, the rules ask a player to roll one or more three-sided dice (also called d3s). If you don’t have a d3, you can roll a six-sided die instead, treating a roll of 1–2 as a 1, a roll of 3–4 as a 2, and a roll of 5–6 as a 3.
 
-## POWER ROLLS
+### POWER ROLLS
 
 Whenever a hero or other creature in the game attempts a task with an uncertain outcome, such as attacking a foe, sneaking by a guard patrol without being seen, or persuading a queen to provide military aid, the creature makes a power roll to determine the outcome of their actions.
 
-### TYPES OF POWER ROLLS
+#### TYPES OF POWER ROLLS
 
 The game uses three types of power rolls:
 
@@ -188,11 +188,11 @@ The game uses three types of power rolls:
 - **Resistance Roll**: Made to avoid harmful effects.
 - **Test**: Made outside of using your abilities to affect or interact with the world around you.
 
-### MAKING A POWER ROLL
+#### MAKING A POWER ROLL
 
 When you make a power roll, you roll two ten-sided dice (sometimes noted as 2d10 in the rules) and add one of your characteristics. The characteristic you add depends on the kind of roll you’re making, as outlined in Abilities and Tests.
 
-#### POWER ROLL OUTCOMES
+##### POWER ROLL OUTCOMES
 
 The result of a power roll determines your outcome tier—three levels that determine how successful your power roll is.
 
@@ -202,35 +202,35 @@ The result of a power roll determines your outcome tier—three levels that dete
 
 **Tier 3**: If your power roll result is 17 or higher, it is a tier 3 result. This is the best result a power roll can have. When using an ability, a tier 3 result means you deliver the maximum impact possible. With this result, an attack ability deals a lot of damage and has a powerful or lasting effect on enemies or allies. For a test, a tier 3 result means you succeed at what you set out to do. If the test has an easy difficulty, you also get a little something extra in addition to your success
 
-#### DOWNGRADE A POWER ROLL
+##### DOWNGRADE A POWER ROLL
 
 Whenever you make a power roll, you can downgrade it to select the result of a lower tier. For instance, if an ability has a tier 3 result that lets you impose the restrained condition on a creature, but the tier 2 result for that ability lets you impose the slowed condition, you can use the tier 2 result if you would rather have the creature slowed than restrained.
 
 If you downgrade a critical hit, you still get the extra action benefit of the critical hit (see Critical Hit in Abilities).
 
-#### NATURAL RESULT
+##### NATURAL RESULT
 
 The result of your power roll before your characteristic or any other modifiers are applied is called the natural result. The rules often refer to this as “rolling a natural X,” where X is the result of the roll. For example, if you get a 20 on the power roll before adding your characteristic, this is called rolling a natural 20.
 
 Whenever you roll a natural 19 or 20 on a power roll, you always achieve the tier 3 result, no matter what characteristic is added to the roll.
 
-### EDGES AND BANES
+#### EDGES AND BANES
 
 An archer standing on a castle wall fires down into a throng of enemies, hitting the mark each time thanks to their high ground. A drunken bandit struggles to land blows on sober opponents as alcohol clouds their senses. Under certain circumstances, you need more than just a characteristic to represent the advantages and disadvantages that heroes, their enemies, and their allies might have.
 
-#### EDGE
+##### EDGE
 
 An edge represents a situational advantage a hero or an enemy has when making a power roll. For example, a standing hero who makes a melee attack against a prone creature gains an edge on the power roll for their attack. A pair of magic gloves that makes your hands sticky might grant you an edge when making a power roll to climb walls!
 
 When you make a power roll with a single edge, you add 2 to the roll. If you make a power roll with two or more edges, you have a double edge. This means you don’t add anything to the power roll, but the result of the roll automatically improves one tier (to a maximum of tier 3).
 
-#### BANE
+##### BANE
 
 A bane represents a situational disadvantage a hero or an enemy has when making a power roll. For example, if you make an attack while prone, the power roll for the attack takes a bane. A rainstorm might give you a bane on a power roll made to climb an outdoor wall because the weather makes the stone surface extra slick.
 
 When you make a power roll with a single bane, you subtract 2 from the roll. If you make a power roll with two or more banes, you have a double bane. This means you don’t subtract anything from the power roll, but the result of the roll automatically decreases one tier (to a minimum of tier 1).
 
-#### ROLLING WITH EDGES AND BANES
+##### ROLLING WITH EDGES AND BANES
 
 Under certain circumstances, you might have one or more edges and banes on the same roll. For instance, you might take a bane when weakened by poison, even as you gain an edge for attacking a prone creature. In general, edges and banes cancel each other out, resolving as follows:
 
@@ -238,23 +238,23 @@ Under certain circumstances, you might have one or more edges and banes on the s
 - If you have a double edge and just one bane, the roll is made with one edge, regardless of how many single edge instances contribute to the double edge.
 - If you have a double bane and just one edge, the roll is made with one bane, regardless of how many single bane instances contribute to the double bane.
 
-#### WHEN TO USE EDGES AND BANES
+##### WHEN TO USE EDGES AND BANES
 
 The rules tell you when to modify a roll with an edge or a bane. The Director can also modify rolls with edges and banes as a response to narrative or environmental circumstances. For instance, no rule specifically says that rain imposes a bane on power rolls made to climb a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
 
-#### WHY CAP?
+##### WHY CAP?
 
 > We capped edges and banes at a maximum of two each for several reasons, including thinking about the narrative of those penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a creature can only benefit or be hindered by short-term circumstances so much. For example, a character who is prone and weakened by poison already finds it difficult to attack—so that becoming restrained by a net can’t really make it harder.
 > 
 > We also liked capping edges and banes at two because it keeps play quick. It’s nice to not need to count beyond two positive or negative circumstances in a battle with a lot of effects flying around.
 
-### BONUSES AND PENALTIES
+#### BONUSES AND PENALTIES
 
 While edges and banes cover most circumstantial effects that can have an impact on a power roll, a few rules add numeric bonuses or penalties to power rolls. Bonus and penalty values are specified in the rules that impose them, and are calculated independently of edges and banes, and before edges and banes are factored into a power roll. There is no limit to the number of bonuses or penalties that can apply to a power roll, and bonuses and penalties always add together.
 
 Though it might sound as if the math with bonuses and penalties can get confusing, fear not! Bonuses and penalties are rare except in the case of skills, which appear on your character sheet (see Skills for more information).
 
-## HERO TOKENS
+### HERO TOKENS
 
 When players roleplay their heroes well or take big risks, the Director can reward them with the potential to restore vitality when it’s needed, in the form of hero tokens. Hero tokens are given out by the Director one at a time, either to an individual player or to the group as a whole. They can be tracked using poker chips, stones, or other markers, and are then shared by all players.
 
@@ -262,7 +262,7 @@ Whenever hero tokens are available, you can spend a hero token on your turn or w
 
 Players can also be awarded hero tokens as part of a test’s outcome when they succeed in a task with a reward (see Tests). Unless the Director decides otherwise, unused hero tokens disappear at the end of a session.
 
-### FOR THE DIRECTOR: AWARDING HERO TOKENS
+#### FOR THE DIRECTOR: AWARDING HERO TOKENS
 
 > You can award hero tokens to the players for taking risks with their heroes beyond what the game typically expects of them. For instance, battling a group of monsters is part of the game and doesn’t earn a hero token. However, the following sorts of activities might:
 > 
@@ -271,17 +271,17 @@ Players can also be awarded hero tokens as part of a test’s outcome when they 
 > - The group is presented with an easy way out of a difficult situation that involves lying, cheating, stealing, or the like, but they take the more arduous and honorable path.
 > - A hero gives away an important resource, such as a Healing Potion, to help another creature in need.
 
-## GAME OF EXCEPTIONS
+### GAME OF EXCEPTIONS
 
 This game has a fair number of rules. But it also has plenty of character options, specialized equipment, and other game elements that let you break those rules. This is on purpose! Breaking the rules allows heroes to feel special and makes their foes seem extra dangerous.
 
 If you’re not sure what to do when two rules come into conflict with each other, remember that a specific exception always beats a more general rule. The Director has the final say in how rules are adjudicated.
 
-## ALWAYS ROUND DOWN
+### ALWAYS ROUND DOWN
 
 There are times when the rules tell you to divide a number in half. Whenever you divide an odd number in half and it results in a decimal, round the result down to the nearest whole number. For instance, if you have a speed of 7 and become slowed (a condition that halves your speed), then your speed becomes 3.
 
-## CREATURES AND OBJECTS
+### CREATURES AND OBJECTS
 
 This game uses the terms “creature” and “object.” Creatures are living or unliving beings such as animals, elves, humans, dragons, giants, zombies, and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes, coins, paintings, columns, and buildings. Creatures always have stat blocks that relay their statistics, but objects do not.
 
@@ -289,11 +289,11 @@ When a creature dies, their body becomes an object, and can be affected by abili
 
 The game sometimes refers to “unattended objects,” which are objects that aren’t held, worn, or controlled by a creature. Whenever an ability affects objects, it affects only unattended objects unless the Director determines otherwise.
 
-## PCS AND NPCS
+### PCS AND NPCS
 
 Two types of characters inhabit the world of the game— the player characters (also called PCs or heroes) who are created and controlled by the players, and nonplayer characters (NPCs) created and controlled by the Director. NPCs can include any of the game’s monsters, but when the rules refer to NPCs, they generally do so in the context of interacting with them outside of combat.
 
-## BUILDING A HEROIC NARRATIVE
+### BUILDING A HEROIC NARRATIVE
 
 The game takes place in a series of scenes with the heroes as the main characters. An adventure is a collection of scenes that make up a single story arc, and a campaign is a collection of adventures that tell the entire epic tale of a group of heroes. You can think of each adventure as a movie in a saga of films, a book in a series of novels, or a season of a television show. While many heroes have their stories told over the course of a campaign, some wrap up their careers in a single adventure that takes place in one game session, called a one-shot. You can think of a one-shot as a great stand-alone novella or movie.
 
@@ -301,23 +301,23 @@ This game is built so that each adventure you play and each battle you fight get
 
 The things a hero can achieve at the end of the story are far more daring and impactful than what they do at the start, and the final showdown against a villain’s forces is more deadly and desperate than the first. The rules of the game help build a heroic narrative in this same fashion, making use of the four most important mechanics for building heroic narratives: Victories, Experience, Heroic Resources, and Recoveries.
 
-### VICTORIES
+#### VICTORIES
 
 Your hero’s power increases throughout an adventure as you fight more battles and overcome other challenges, measured through a stat called Victories. At the start of an adventure, your hero has 0 Victories.
 
-#### VICTORIES AFTER COMBAT
+##### VICTORIES AFTER COMBAT
 
 Each time your hero survives a combat encounter in which the party’s objectives are achieved, your Victories increase by 1. The Director can decide that a trivially easy encounter doesn’t increase a hero’s Victories.
 
-#### VICTORIES AFTER NONCOMBAT CHALLENGES
+##### VICTORIES AFTER NONCOMBAT CHALLENGES
 
 When your hero successfully overcomes a big challenge that doesn’t involve combat, the Director can award you 1 Victory. Such challenges can include things like a particularly complicated and deadly trap, a negotiation, a montage test, a complicated puzzle, or the execution of a clever idea that avoids a battle.
 
-#### VICTORIES RESET
+##### VICTORIES RESET
 
 Whenever you finish a respite (see Respite), your Victories are converted into Experience.
 
-### FOR THE DIRECTOR: AWARDING VICTORIES
+#### FOR THE DIRECTOR: AWARDING VICTORIES
 
 > We’re still figuring out rules for encounter building, but here are some general guidelines.
 > 
@@ -333,13 +333,13 @@ Whenever you finish a respite (see Respite), your Victories are converted into E
 > 
 > At the Director’s discretion, particularly hard negotiations, puzzles, mysteries, and other noncombat challenges can be worth 2 Victories.
 
-### EXPERIENCE
+#### EXPERIENCE
 
 Victories temporarily increase a hero’s power during an adventure, but Experience (or XP) permanently improves their capabilities. Each time you finish a respite (see below), you gain XP equal to your Victories, then your Victories drop to 0. In other words, your Victories are converted to XP when you finish a respite.
 
 For more information on how XP increases your hero’s power, see Heroic Advancement.
 
-### HEROIC RESOURCES
+#### HEROIC RESOURCES
 
 Your hero has a Heroic Resource (sometimes two Heroic Resources) determined by your class, and which you manage during play. For many classes, earning Resources can increase your hero’s power, and Resources are spent to activate your most powerful abilities. Other classes, like the talent, earn a negative resource that gives them a penalty during battle, and they gain the resource to activate their most powerful abilities. Each class gains and uses its Heroic Resource differently, and resources aren’t equivalent across classes. For example, 1 piety for the conduit isn’t worth as much as 1 focus for the tactician.
 
@@ -347,27 +347,27 @@ Some classes, such as the tactician and the fury, generate and use Heroic Resour
 
 Your hero’s class description has more information about how to use your Heroic Resource.
 
-### BAGS OF RATS AIN’T HEROIC
+#### BAGS OF RATS AIN’T HEROIC
 
 > Some players might think that quickly starting a fight with some bar patrons or carrying around a bag of rats is a good way to gather up those sweet, sweet Victories and Heroic Resources. Those strategies don’t work! The rules of the game exist to help you tell a cool heroic fantasy story, not so you can try to be clever and exploit them by harming innocent rats to “win.” In order to generate Victories and Heroic Resources, you must face and overcome challenges worthy of a hero!
 
-### RECOVERIES
+#### RECOVERIES
 
 Each hero has a limited number of Recoveries that they can use to heal themself. Recoveries are a way to rally and get back some of the energy you lose in battle by taking a breather, accepting a little magical help from a conduit or troubadour, getting an allied tactician to inspire you with a rush of adrenaline, and so forth. Of course, your body can only rally so many times before your energy reserves are completely shot, so you have a limited number of recoveries as a result.
 
 When you spend a Recovery, you regain Stamina equal to your recovery value, which is one-third your Stamina maximum.
 
-#### SPENDING RECOVERIES
+##### SPENDING RECOVERIES
 
 During combat encounters and similarly dangerous situations when time is tracked in rounds (see Combat), you can use the Catch Breath action to regain Stamina. See Catch Breath in Actions for more information. Some heroes have abilities that allow them or their allies to spend more Recoveries without using the Catch Breath action.
 
 Outside of combat and other dangerous situations, you can spend Recoveries freely.
 
-#### REGAINING RECOVERIES
+##### REGAINING RECOVERIES
 
 You regain all lost Recoveries when you finish a respite (see Respite).
 
-### RESPITE
+#### RESPITE
 
 A respite is a focused period of rest and recuperation that allows heroes to regain Stamina and Recoveries. During a respite, you must spend 24 hours uninterrupted and doing nothing but sleeping, eating, dressing your wounds, and recuperating. You can also undertake one respite activity, such as making a project roll (see Research and Crafting in future packets for more information), or changing your kit (see Kits).
 
@@ -375,7 +375,7 @@ When you finish a respite, you regain all your Recoveries and Stamina, and your 
 
 The standard eightish hours of sleep one gets at night doesn’t count as a respite. The rules assume that all heroes take the time to sleep, eat, and take care of all the other functions necessary for life even if they aren’t engaged in a respite.
 
-## ORDEN AND THE TIMESCAPE
+### ORDEN AND THE TIMESCAPE
 
 A new game demands new worlds! Welcome to the timescape—a collection of worlds spanning high fantasy, dark fantasy, and even space fantasy! We sincerely hope you take these rules and adapt them to your own world, or adapt your world to these rules, or something in between!
 
@@ -383,7 +383,7 @@ Our tour begins on the world of Orden, the Prime Manifold—a realm of elves, dw
 
 Orden contains seven major regions, the largest of which is Vasloria.
 
-### VASLORIA
+#### VASLORIA
 
 A forested medieval and feudal land, Vasloria holds few cities—just towns and villages. Western Vasloria, including most of Aendrim and Corwell and parts of Graid, was until recently ruled by Good King Omund. His draconian knights, the Dragon Phalanx, protected the weak from the strong, dispensing justice throughout the land. But Omund died fifteen years ago—and so died the rule of law in Vasloria. Now, forests claim towns and roads once held safe under his rule. The woods are dangerous, their only law that of tooth and claw.
 
@@ -403,13 +403,13 @@ The Dragon Phalanx is broken now, its knights scattered. Ajax has placed a high 
 
 The peoples of Dalrath, Bedegar, and Tor, isolated and outnumbered, desperately fight a losing battle against the encroaching wilderness. Law dies. Chaos thrives.
 
-### CAPITAL
+#### CAPITAL
 
 The Greatest City in This or Any Age! City of the Great Game! Located west across the Bale Sea from Vasloria on the eastern coast of Rioja, Capital is not only the largest city in Orden. It’s the largest city there has ever been—larger than the fabled steel dwarf capital of Kalas Valiar, larger even than Alloy, the City at the Center of the Timescape. Capital is the exception to many rules.
 
 It is a city of playwrights and opera, of spies and sorcery. Famed throughout the world as a city of high magic where flying tapestries act as taxis. But the reality of living in Capital is somewhat more mundane, for only the very wealthy can afford such luxuries.
 
-#### THE GREAT HOUSES
+##### THE GREAT HOUSES
 
 The Great Houses, Capital’s ancient noble families, reluctantly share power with the upstart guilds who think that their vast wealth entitles them to rule. The members of the Great Houses are proud of their city, and believe anyone, from anywhere, should be able to come to Capital and earn a living, own property, and expect justice. They just don’t think anyone else should be able to rule. The guilds of the city, by contrast, are more egalitarian, more democratic, largely obsessed with accruing wealth—and caring little for the welfare of the city or its people.
 
@@ -425,7 +425,7 @@ House Navarr, the oldest of the Great Houses, enforces the law of the Church of 
 
 Arguably the most powerful Great House, House Valetta controls the city’s tax collectors, known as the Arbitros Fiat. Valetta is led by the Duchess Lenore, who opened theCodex Mortis while in mourning for her assassinated husband Maximo, speaking a ritual from that ancient necromantic artifact that should have returned her love to life. Instead, she brought about the Lilac Night, which transformed everyone in her district into undead—including herself. The Duchess Lenore is now an immortal vampire queen, a dead lady ruling over a dead city.
 
-#### THE POWER OF THE GUILDS
+##### THE POWER OF THE GUILDS
 
 After the Lilac Night, with the city no longer able to rely on House Valetta to deliver the taxes it collected, Lady Shirome bought Great House status for the Fulcrum—the city’s assayer’s guild she controls—along with the Broadsheet Guild and the Farrier’s Guild. The Fulcrum controls the Trade Integrity Board, which sets lending rates and leads trade negotiations between Capital and other governments in Orden. It was that guild that convinced the late prince to switch the city to paper money. As a result, Capital is the first and only city in Orden to have a robust monetary policy.
 
@@ -433,7 +433,7 @@ The Broadsheet Guild, formally known as the Font, publishes the thrice-daily new
 
 The Farrier’s Guild, popularly known as the Rasp, controls transport throughout the city. The guild is led by Lord Kashimir, a heliox from the planar gateway city of Alloy. It was he who introduced the flying tapestries that metaphorically shrank Capital, allowing the rich and powerful to cross the thirteen-mile-wide city in just a few minutes. He also created the Kites, couriers famous for being able to get a message to anywhere in Capital in only a few hours. His monopoly on importing flying tapestries from Alloy gives Lord Kashimir enormous power, and he is not shy about wanting more.
 
-### THE MYRIAD WORLDS OF THE TIMESCAPE
+#### THE MYRIAD WORLDS OF THE TIMESCAPE
 
 Orden is only one world in the timescape! Each star in the night sky is another world, though this fact is not known to most people living on Orden. Higher worlds are more energetic, affording access to alien technologies. Great star freighters ply the space lanes, with knights wielding psionically powered hard-light blades dueling against star pirates with hard-light blasters.
 
@@ -457,7 +457,7 @@ The demons of the Abyssal Waste, the lowest plane, claw and scramble over each o
 
 At the center of the Abyssal Waste lies the Necropolitan Ruin, the Last City. A great city of the dead, the site is ruled by Khorsekef, once the Infinite Pharaoh of the desert wasteland of Khemhara, now the Ultralich. Khorsekef intends to return to Orden and sit once again on his throne in the grand Heliopolis at the center of Khemhara—and he has a plan …
 
-### THE TIMESCAPE IN YOUR GAME
+#### THE TIMESCAPE IN YOUR GAME
 
 > We use the timescape and its medieval fantasy land Orden as the default setting presented in these books. Doing so makes it easier for us as designers to marry our design with real examples from a real (imaginary) fantasy world. We also think it’s easier for you to take the names for places, languages, and gods, and replace them with your own. We might reference some hero or villain, saint or god, whose name makes you think, “Well, I don’t have that in my setting.” If we do a good job, though, you might be inspired to say, “But that makes me think …” And being inspired is part of the fun!
 > 
@@ -465,13 +465,13 @@ At the center of the Abyssal Waste lies the Necropolitan Ruin, the Last City. A 
 > 
 > If you’re a player, ask your Director about the setting where the game takes place and discuss with them the sort of hero you want to create. Maybe you want to play a more traditional gruff and bearded dwarf rather than go all short and stony. An open dialogue and honest discussion with your Director can lead to everyone getting what they want out of the game.
 
-# MAKING A HERO
+## MAKING A HERO
 
 If you’re not the Director, then you create and play one of the main characters in the game’s story—a hero. Your hero is a person motivated to fight forces of evil to protect the innocent, but each hero has their own personal reason for doing so. You don’t have to be a pure beacon of good. Heroes have flaws and are complex, just like people in the real world. But your hero should be someone who isn’t afraid to battle monsters for altruistic reasons. If you’re only interested in playing a money-grubbing sellsword, you can achieve that with these rules, but you’ll likely be happier playing another game.
 
 The hero you create will be roleplayed by you. Often when referring to your hero, the rules use second-person pronouns (you/your) for shorthand, only making a distinction between you and your hero when that distinction is important.
 
-## YOUR FIRST SESSION
+### YOUR FIRST SESSION
 
 Getting together with your friends to make characters can be a lot of fun. Many groups spend most of their first session talking about the campaign’s story, making heroes, and going over expectations for the game. It’s a great way to kick off a long-term campaign.
 
@@ -483,7 +483,7 @@ The Director should make an agenda for a campaign’s first session—often call
 - Make heroes! Once everyone understands what the campaign is about, it’s the perfect time to get into character creation. When a group of players make heroes together, they can tie backstories together and strategize to build a tactically dominant party both in and out of combat.
 - The Director runs an encounter to kick off the campaign. If all the players have the time, it’s totally worth it to get some play in during the first session, even if it’s just a quick brawl in a tavern with some cultists! Giving the players a little action lets them see what the game is all about—and leaves them excited for the next session.
 
-## STEP-BY-STEP HERO MAKING
+### STEP-BY-STEP HERO MAKING
 
 Use the following step-by-step guide to create a hero. These steps are presented in what we believe is the best way to approach making your first hero for *Draw Steel*. That said, the order of the steps is still a suggestion, not a hard and fast rule.
 
@@ -493,7 +493,7 @@ You’ll want a character sheet to fill out while you make your hero.
 
 *(Playtest note: The character sheet is still to come.)*
 
-### 1. THINK
+#### 1. THINK
 
 The first thing you should do is think about the kind of hero you want to make. Ask yourself the following questions:
 
@@ -505,37 +505,37 @@ The first thing you should do is think about the kind of hero you want to make. 
 - What people, places, and objects are important to you?
 - How will your hero complement the strengths and weaknesses of the other heroes?
 
-### 2. ANCESTRY
+#### 2. ANCESTRY
 
 Choose your hero’s humanoid ancestry from among the range of ancestries available in the game—devil, dragon knight, dwarf, hakaan, high elf, human, memonek, orc, polder, revenant, time raider, or wode elf. Future supplements will introduce additional ancestries you can choose from. See *Ancestries* for more information.
 
 *(Playtest note: A selection of the game’s full range of ancestries are currently available, some of which feature lore entries.)*
 
-### 3. CULTURE
+#### 3. CULTURE
 
 Create your hero’s culture. Although ancestry gives your hero a number of physiological benefits, your culture describes the community that raised you and gives you languages and skills. See *Culture* for more information.
 
-### 4. CAREER
+#### 4. CAREER
 
 Choose your hero’s career, which describes what you did for a living before you became a hero. Your career gives you skills and a title, and might also give you languages, Renown, or knowledge for crafting and research. See *Careers* for more information.
 
-### 5. CLASS
+#### 5. CLASS
 
 Choose your hero’s class. This choice has the biggest impact on how your hero interacts with the rules of the game, especially the rules for combat. Your class provides your characteristic scores and Stamina, in addition to skills, several abilities, and other benefits. You can be a censor, conduit, elementalist, fury, null, shadow, tactician, talent, or troubadour. See *Classes* for more information.
 
 *(Playtest note: The currently available classes are the conduit, elementalist, fury, shadow, and tactician, each of which includes only 1st-level features.)*
 
-### 6. KIT
+#### 6. KIT
 
 Choose your hero’s kit. Your kit provides you with equipment and a fighting style that grants a signature ability and bonuses to one or more of your game statistics.
 
-### 7. ADD FREE STRIKES
+#### 7. ADD FREE STRIKES
 
 Every hero has the ability to make free strikes under certain circumstances—extra attacks that don’t require your action. (You can also make a free strike as an action on your turn, though you’ll usually have better options for your action.) Your class might grant you free strike options, but each character also has two standard free strikes.
 
 A melee weapon free strike is a melee attack made with an unarmed strike or improvised weapon. A ranged weapon free strike is a ranged attack made with an improvised weapon.
 
-##### MELEE WEAPON FREE STRIKE
+###### MELEE WEAPON FREE STRIKE
 
 - **Keywords:** Attack, Melee, Weapon
 - **Type:** Action
@@ -546,7 +546,7 @@ A melee weapon free strike is a melee attack made with an unarmed strike or impr
   - 12–16: 6 damage
   - 17+: 9 damage
 
-##### RANGED WEAPON FREE STRIKE
+###### RANGED WEAPON FREE STRIKE
 
 - **Keywords:** Attack, Ranged, Weapon
 - **Type:** Action
@@ -559,15 +559,15 @@ A melee weapon free strike is a melee attack made with an unarmed strike or impr
 
 See *Free Strikes* for more information on using free strikes, and see *Abilities* for information on the ability format.
 
-### 8. COMPLICATION
+#### 8. COMPLICATION
 
 Your hero experienced an event that has left them with a benefit and a drawback. Complications are optional, so check with your Director to make sure your game is using them. See *Complications* for more information.
 
-### 9. DETERMINE DETAILS
+#### 9. DETERMINE DETAILS
 
 Once you’ve created your hero, it’s time to determine the additional details of their backstory, appearance, and personality. How do the events of their culture, career, inciting incident, and class tie together into a cohesive narrative? What’s their name? What do they look like? Do they have any cool scars? Any dope tattoos? Do they still sleep with their teddy bear? These sorts of details can help define a well-rounded hero.
 
-### 10. MAKE CONNECTIONS
+#### 10. MAKE CONNECTIONS
 
 Ask the Director if all the heroes start the campaign knowing each other. If they do, talk to the other players and build some connections between your heroes. If you like, you can use the following prompts to make those connections, or to come up with prompts of your own:
 
@@ -582,23 +582,23 @@ Ask the Director if all the heroes start the campaign knowing each other. If the
 
 Answer these questions with the other players present, and be sure to get a player’s approval if your answer makes use of their character.
 
-### CHOOSING SKILLS
+#### CHOOSING SKILLS
 
 > This game has lots of skills, and lots of opportunities during character creation to gain them. We recommend recording a list of all the skills you might gain from the different steps of the character creation process, then making your choices at the end of that process rather than flipping back and forth through the book.
 > 
 > If you gain the same specific skill from two different sources (for instance, from a career and a class), you can pick a different skill from the same skill group. See *Skills* for more information.
 
-## CHANGING CHARACTER OPTIONS
+### CHANGING CHARACTER OPTIONS
 
 If you pick a skill, ability, class, or any other option that you end up not liking after using it in the game—even your character’s ancestry—you can always freely change that option between game sessions. If you want to change an option during a session, ask your Director. If they say it’s fine to swap that option out for something else, go for it.
 
-## HEROIC ADVANCEMENT
+### HEROIC ADVANCEMENT
 
 Your character’s heroic advancement is marked by level. Each time you gain a new level in your class, your Stamina increases, and you gain new features or abilities according to your class’s advancement, as detailed in *Classes*.
 
 In the standard setup for the game, heroes gain Experience each time they finish a respite. When you gain sufficient Experience, you gain a level during the same respite (see *Building a Heroic Narrative*). The Heroic Advancement table shows how much Experience (XP) you need to advance from one level to the next. The amount of Experience you gain is cumulative.
 
-##### HEROIC ADVANCEMENT TABLE
+###### HEROIC ADVANCEMENT TABLE
 
 | XP Range | Level |
 | -------- | ----- |
@@ -613,15 +613,15 @@ In the standard setup for the game, heroes gain Experience each time they finish
 | 115–129  | 9     |
 | 130+     | 10    |
 
-### ALTERNATIVE ADVANCEMENT
+#### ALTERNATIVE ADVANCEMENT
 
 Though many games might advance using the standard setup for heroic advancement, the Director can decide that their game uses different advancement. Check with your Director to see what method of advancement they plan to use.
 
-#### ADJUSTED XP ADVANCEMENT
+##### ADJUSTED XP ADVANCEMENT
 
 Some Directors prefer that heroes level up faster or slower to suit the pace of their story. The *Adjusted XP Advancement* table is set up for campaigns where heroes advance at double or half the usual pace. Directors can also create their own customized pace for XP-based advancement.
 
-##### ADJUSTED XP ADVANCEMENT TABLE
+###### ADJUSTED XP ADVANCEMENT TABLE
 
 | Level | XP for Double Speed | XP for Half Speed |
 | ----- | ------------------- | ----------------- |
@@ -636,17 +636,17 @@ Some Directors prefer that heroes level up faster or slower to suit the pace of 
 | 9     | 59–65               | 230–259           |
 | 10    | 66+                 | 260+              |
 
-#### MILESTONE
+##### MILESTONE
 
 Rather than tracking XP, some games see the heroes advance in level when they achieve a particular story milestone. For example, when a party defeats the main villain of an adventure and foils their dastardly plot, each hero gains a level for achieving this objective, no matter how many or few obstacles they faced along the way.
 
 For many Directors using milestone advancement, the end of each adventure within a campaign serves as a milestone for leveling up. The Director can share these milestones with the players to encourage them to work toward particular goals, and to engage with the story and world the Director has prepared. For example, in a campaign where the heroes have to face nine evil mages, it makes sense that each time the heroes defeat a mage, they gain a level. The Director should keep milestone goals flexible, though. Defeating a mage could mean stopping them with violence, using negotiation to make them stand down, or anything else that thwarts their evil plans.
 
-#### DIRECTOR SAYS SO
+##### DIRECTOR SAYS SO
 
 Some games don’t track XP or goals at all. The heroes simply gain a level whenever the Director decides it’s appropriate for the story.
 
-# ANCESTRIES
+## ANCESTRIES
 
 Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are devils, dwarves, elves, time raiders—even humans with their ability to sense the supernatural.
 
@@ -654,7 +654,7 @@ Your hero is one of these folks! The fantastic ancestry you choose bestows benef
 
 Ancestry describes how you were born. Culture (in the next chapter) describes how you grew up. If you want to be a wode elf who was raised in a forest among other wode elves, you can do that! If you want to play a wode elf who was raised in an underground city of dwarves, humans, and orcs, you can do that too!
 
-## ON THE ORIGIN OF SPECIES
+### ON THE ORIGIN OF SPECIES
 
 Orden is a fantasy world. It works on principles similar to those many people throughout history believed governed the real world. "I dunno, a god did it probably."
 
@@ -684,13 +684,13 @@ This is only how it works on Orden. You may have completely different explanatio
 
 At the end of the day, if you throw out all of this and replace it with something you made up, it will be better. Because it’s *yours*!
 
-## STARTING SIZE AND SPEED
+### STARTING SIZE AND SPEED
 
 Unless otherwise noted, a character from any of these ancestries is size 1M and has a speed of 5.
 
 Where an ancestry provides you with an ability, see *Abilities* for details of the ability format.
 
-## DEVIL
+### DEVIL
 
 “Go to hell!”
 
@@ -706,7 +706,7 @@ On rare occasions, the summoning goes wrong and the supplicant dies before the d
 
 The majority of devils in Orden are not from, nor have ever been to, the Seven Cities. They are descendants of devils who were stranded in the mundane world decades, centuries, even millennia ago.
 
-### ON DEVILS
+#### ON DEVILS
 
 Adelard scuttled across the floor of his basement, a heavy tome clutched in one hand, his index finger marking a page. Occasionally he would stop, open the book, consult a diagram, look at the chalk markings he’d made on the floor, tilt his head, then bend down and refine or rub out an esoteric symbol.
 
@@ -808,11 +808,11 @@ She blushed in spite of herself and raised her own glass in a toast.
 
 “You silver-tongued devil.”
 
-### DEVIL BENEFITS
+#### DEVIL BENEFITS
 
 As a devil character, you have the following benefits:
 
-#### FIENDISH FEATURES
+##### FIENDISH FEATURES
 
 When you create a devil character, you have 3 fiend points, which you use to select a number of the following features.
 
@@ -843,7 +843,7 @@ When you create a devil character, you have 3 fiend points, which you use to sel
 - **SILVER TONGUE:**
   You can twist how your words are perceived to get a better read on people. You gain an edge when attempting to discover an NPC’s motivations and pitfalls during negotiations (see *Negotiation*).
 
-## DRAGON KNIGHT
+### DRAGON KNIGHT
 
 “I thought the dragon knights would save us, but even they couldn’t stop Ajax. Now the roads aren’t safe. People are taken from their homes without cause or warning, never to return. I don’t know what’s going to happen now, except everyone’s afraid all the time.”
 
@@ -857,7 +857,7 @@ Knighthood was a title carried by every member of that first generation of drago
 
 Then Ajax came.
 
-### ON THE DRAGON KNIGHTS
+#### ON THE DRAGON KNIGHTS
 
 The cloaked figure at the back of the inn stood up. As they did so, their hood slipped down, revealing their head and face. A susurration rippled through the crowd. One man standing near the bar dropped his jaw, followed by his flagon of mead.
 
@@ -957,15 +957,15 @@ The dragon knight looked at the people around him, at the three peasants despera
 
 “Exactly,” Vaantikalisax said. Then he turned and left the inn.
 
-### DRAGON KNIGHT BENEFITS
+#### DRAGON KNIGHT BENEFITS
 
 As a dragon knight character, you have the following benefits:
 
-#### WYRMPLATE
+##### WYRMPLATE
 
 Your hardened scales grant you immunity 5 to one of the following damage types: cold, corruption, fire, lightning, or poison. You can change your damage immunity type while out of combat (no action required).
 
-#### KNIGHTHOOD
+##### KNIGHTHOOD
 
 The legacy of the Dragon Phalanx lives in you. Choose one of the following benefits.
 
@@ -991,7 +991,7 @@ The legacy of the Dragon Phalanx lives in you. Choose one of the following benef
 
   **Effect:** You have a bane on the power roll for this ability when you use it in consecutive rounds of the same encounter.
 
-## DWARF
+### DWARF
 
 “Remember, we are dwarves. Our strength is the strength of the earth. The strength of the marble column that rises to the heavens. The strength of the granite foundation that reaches deep into the ground. But what is the value of strength if it is not used in service of justice?”
 
@@ -1001,7 +1001,7 @@ Possessed of a strength that belies their size, dwarves have flesh infused with 
 
 Dwarves are the children of the elder god Ord, and a common phrase among dwarves is “Ord made the world”—their way of saying, “What will be, will be.” They take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many dwarves leave their homes to see the world and seek glory in Ord’s name.
 
-### ON DWARVES
+#### ON DWARVES
 
 There’s nothing a team of dwarves can’t do! Five dwarves alone can easily kill a dragon. Ten dragons![^1] Why, Vorka the Fell-Handed alone slew five dragons at the Siege of Var Loska before succumbing to her wounds. One dwarf! Think what a small, dedicated party of dwarves could do!
 
@@ -1031,15 +1031,15 @@ You are young yet, but already those who work evil deeds should fear you. You ar
 
 [^1]: This is what happens when you let a dwarven troubadour write the dwarf entry.
 
-### DWARF BENEFITS
+#### DWARF BENEFITS
 
 As a dwarf character, you have the following benefits:
 
-#### GROUNDED
+##### GROUNDED
 
 Your heavy stone body and connection to the earth makes it difficult for others to move you. Your stability increases by 1.
 
-#### RUNIC CARVING
+##### RUNIC CARVING
 
 You can carve a magic rune onto your skin. The rune you carve determines the benefit you receive. You can change or remove this rune with 10 minutes of work while not engaged in combat.
 
@@ -1047,11 +1047,11 @@ You can carve a magic rune onto your skin. The rune you carve determines the ben
 - **Light:** Your skin sheds light for 10 squares. You can turn this on and off as a maneuver.
 - **Voice:** As a maneuver, you can communicate telepathically with another willing creature you have met before whose name you name, who can speak and understand a language you know, and is within 1 mile of you. You and the creature can respond to one another as if having a normal conversation. You can change the person you communicate with by changing the rune.
 
-#### SPARK OFF YOUR SKIN 
+##### SPARK OFF YOUR SKIN 
 
 Your stone skin affords you potent protection. Your Stamina increases by 6 at 1st level, then increases by an additional 1 each time you gain a new level
 
-## ELF, WODE
+### ELF, WODE
 
 See you the wood so dark and deep,
 Where runs the fox and hare?
@@ -1067,7 +1067,7 @@ Children of the sylvan celestials and masters of the elf-haunted forests called 
 
 The wode elves’ natural ability to mask their presence, called glamor, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few wode elves who dwell in cities naturally adept at urban warfare.
 
-### ON WODE ELVES
+#### ON WODE ELVES
 
 “I’m scared,” Wenna said. “We should go back.” The forest felt as if it was closing in on them.
 
@@ -1149,23 +1149,23 @@ Jeremy turned to Dade. “I feel like we’re in a dream,” he whispered.
 
 “You are!” their escort called out. “The wode is a dream! With a little luck, one you may soon wake safely from.”
 
-### WODE ELF BENEFITS
+#### WODE ELF BENEFITS
 
 As a wode elf character, you have the following benefits.
 
-#### OTHERWORLDLY GRACE
+##### OTHERWORLDLY GRACE
 
 Your elven body and mind can’t be contained for long, and accessing memories is as easy as living in the present for you. You gain an edge on resistance rolls, and on tests that use any skills you have from the lore skill group.
 
-#### SWIFT
+##### SWIFT
 
 Your speed is 6.
 
-#### WODE ELF GLAMOR
+##### WODE ELF GLAMOR
 
 You can magically alter your appearance to better blend in with your surroundings. You gain an edge on Agility tests made to hide and sneak, and tests made to find you while you are hidden take a bane.
 
-## ELF, HIGH
+### ELF, HIGH
 
 “Ajax has a kind of crude style, perhaps, but no taste. I have no objection to a villain, you understand. The world is a tale, but a tale is only as good as its villain. And Ajax is so … artless. We deserve a better villain.”
 
@@ -1173,7 +1173,7 @@ Children of the solar celestials created to tend their libraries and attend to t
 
 In the millennia since their creators retired to Arcadia, the high elves built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshiping art, and turning more inward and distrusting of outsiders with each generation.
 
-### ON HIGH ELVES
+#### ON HIGH ELVES
 
 “They’re so beautiful,” Wenna said. “It’s hard to imagine we’re in danger.”
 
@@ -1243,23 +1243,23 @@ The king turned back to them. “Should any of you seek hidden lore or deep wisd
 
 Llyander put their hands on their hips and regarded the children. “Not bad for your second quest. What shall you do for an encore?”
 
-### HIGH ELF BENEFITS
+#### HIGH ELF BENEFITS
 
 As a high elf character, you have the following benefits.
 
-#### HIGH ELF GLAMOR
+##### HIGH ELF GLAMOR
 
 A magic glamor makes others perceive you as interesting and engaging, granting you an edge on Presence tests using the Flirt or Persuade skills. This glamor makes you look and sound slightly different to each creature you meet, since what is engaging to one might be different for another. However, you never appear to be anyone other than yourself.
 
-#### OTHERWORLDLY GRACE
+##### OTHERWORLDLY GRACE
 
 Your elven body and mind can’t be contained for long, and accessing memories is as easy as living in the present for you. You gain an edge on resistance rolls, and on tests that use any skills you have from the lore skill group.
 
-#### UNSTOPPABLE MIND
+##### UNSTOPPABLE MIND
 
 Your mind allows you to maintain your cool in any situation. You can’t be dazed.
 
-## HAKAAN
+### HAKAAN
 
 “COME FORTH, SONS OF ORD!” the hakaan metamorph bellowed as Ajax’s dwarven legion advanced. “AND MEET A BETTER WOMAN THAN THEE!!”
 
@@ -1275,7 +1275,7 @@ For this reason, the only hakaan the average human meets is one trying to fulfil
 
 Humans in Vanigar have their own word for this concept of a personal fate, “wyrd.” Traditional hakaan sometimes refer to the doomsight as wyrdken.
 
-### ON HAKAAN
+#### ON HAKAAN
 
 “You … you know when you’re going to die?”
 
@@ -1355,25 +1355,25 @@ The Arrow stared, wide-eyed at the Pillar. Even before the young man spoke, the 
 
 “Wasn’t over!” the Arrow said, his joy impossible to hide.
 
-### HAKAAN BENEFITS
+#### HAKAAN BENEFITS
 
 As a hakaan character, your size is 1L, and you have the following benefits:
 
-#### DOOMSIGHT
+##### DOOMSIGHT
 
 Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you lose the Undaunted benefit from this ancestry, you automatically get tier 3 results on tests and resistance rolls, and you don’t die no matter how low your Stamina falls. You then die immediately at the end of the encounter.
 
 If you don’t predetermine your death encounter, you can choose to become doomed while you are dying with the director’s approval (no action required). Doing so should be reserved for encounters in which you are dying as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to you—not because you’re playing a one-shot and have nothing to lose, Hacaarl.
 
-#### HAKAAN MIGHT
+##### HAKAAN MIGHT
 
 When you force move a creature or object, you can increase the distance moved by 1.
 
-#### UNDAUNTED
+##### UNDAUNTED
 
 You can’t be weakened. Additionally, when your Stamina equals the negative of your winded value, you turn to rubble instead of dying. You are unaware of your surroundings in this state. After 12 hours, you regain Stamina equal to your recovery value.
 
-## HUMAN
+### HUMAN
 
 “Humans,” the dwarf said with a combination of exasperation and awe. “Their only virtue seems to be believing in impossible things.”
 
@@ -1381,7 +1381,7 @@ You can’t be weakened. Additionally, when your Stamina equals the negative of 
 
 “No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin … the dwarves and the orcs as you say. What is it that sets humans apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason.”
 
-### ON HUMANS
+#### ON HUMANS
 
 So, we arrive here at the end of your first semester of Human Culture. I hope to see you next year in the Caelian Empire course, and though it may be hard to believe now, I often see former students’ names in our textbooks years later. Perhaps that will be some of you.
 
@@ -1421,23 +1421,23 @@ But some of your names, I will see written in the stars.
 
 (Professor Cilliarwn did not elaborate on this.)
 
-### HUMAN BENEFITS
+#### HUMAN BENEFITS
 
 As a human character, you have the following benefits:
 
-#### DETECT THE SUPERNATURAL
+##### DETECT THE SUPERNATURAL
 
 As a maneuver, you open your awareness to detect supernatural creatures and phenomena. Until the end of your next turn, you know the location of any supernatural object, Undead, Construct, or creature from another plane of existence within 5 squares of you, even if you don’t have line of effect to them. You know if you’re detecting an item or a creature, and you know if a creature is Undead, a Construct, or from another plane of existence.
 
-#### RESIST THE SUPERNATURAL
+##### RESIST THE SUPERNATURAL
 
 Your connection to the natural world protects you from supernatural forces. You have Magic immunity 2 and Psionic immunity 2. Each of these immunities increases by 1 each time you level up.
 
-#### STAYING POWER
+##### STAYING POWER
 
 Your human anatomy allows you to fight, run, and stay awake longer than others. Increase your number of Recoveries by 2.
 
-## MEMONEK
+### MEMONEK
 
 “This world of yours. Ships of wood and swords of steel. It’s so … primitive. Like a fairy tale.”
 
@@ -1449,7 +1449,7 @@ The native denizens of Axiom, the Plane of Uttermost Law, memonek dwell in a lan
 
 The minds of memonek are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Orden where law and chaos mix, a sickness comes over them—an uncontrollable sensation called … emotion.
 
-### ON MEMONEK
+#### ON MEMONEK
 
 “You want to tell me what just happened?” Sir John asked.
 
@@ -1519,19 +1519,19 @@ Sir John and Count Revile, both tacticians, stood together on the bloody battlef
 
 John laughed and put his arm around his friend as they headed back to the party. “Funny. The world-sickness sounds a lot like me.”
 
-### MEMONEK BENEFITS
+#### MEMONEK BENEFITS
 
 As a memonek character, you have the following benefits:
 
-### LIGHTWEIGHT
+#### LIGHTWEIGHT
 
 Your silicone body is aerodynamic and low in density. Your speed is 7, and whenever you fall, you reduce the distance of the fall by 2 squares. Additionally, your stability decreases by 2 to a minimum of 0. When you are force moved, you are force moved an additional 2 squares.
 
-### KEEPER OF ORDER
+#### KEEPER OF ORDER
 
 When you or a creature adjacent to you makes a power roll, you can remove an edge or a bane on the roll as a free triggered action. You can only use this benefit once per round.
 
-## ORC
+### ORC
 
 “Even should an arrow pierce their heart, each kanin warrior has within them one last act of revenge.”
 
@@ -1543,7 +1543,7 @@ Each orc has within them a fire that causes their veins to glow once blood is dr
 
 “Be thankful orcs do not hold grudges.”
 
-### ON ORCS
+#### ON ORCS
 
 What a world we have made.
 
@@ -1613,19 +1613,19 @@ Ahem.
 
 “Know that you are my children, the children of Kul, he who put fire within the world. And there is fire in you. And though the world and fate and baser minds may conspire to destroy your light, you will survive. And more than survive, you will thrive. And in thriving, you will conquer!”
 
-### ORC BENEFITS
+#### ORC BENEFITS
 
 As an orc character, you have the following benefits.
 
-#### BLOODFIRE RUSH
+##### BLOODFIRE RUSH
 
 When you take damage, your speed increases by 2 until the end of your next turn. You can benefit from this feature only once per round.
 
-#### RELENTLESS
+##### RELENTLESS
 
 When a creature deals damage to you that leaves you dying, you can make a free strike against any creature. If the creature is reduced to 0 Stamina by your attack, you can spend a Recovery.
 
-## POLDER
+### POLDER
 
 “Wait, where’d he go? Where’d that little son of a bitch go? AAAAGGH!”
 
@@ -1633,7 +1633,7 @@ After humans, polders are the most numerous and diverse ancestry in Orden. They 
 
 Short creatures averaging three-and-a-half feet tall, polders have obscure origins. They are a young species who, like humans, have no single patron god. Their natural ability to blend in with shadows makes them excellent spies and thieves. However, many polders consider this stereotype a base slander, pointing out that they’re also famed as chefs—though polders can be found in virtually every profession, especially in cities.
 
-### ON POLDERS
+#### ON POLDERS
 
 The three peasants—Jago, his wife Sarah, and his sister Beth—sat together watching the three heroes talk in the crowded common room of the inn. Well, Jackson Bootblack seemed to be doing most of the talking.
 
@@ -1755,19 +1755,19 @@ The knight stared at them for a moment, then turned back to his friend.
 
 “Maybe you’re right,” the dragon knight said.
 
-### POLDER BENEFITS
+#### POLDER BENEFITS
 
 As a polder character, your size is 1S and you have the following benefits.
 
-#### POLDER GEIST
+##### POLDER GEIST
 
 When you start your turn while no creatures have line of effect to you, or while you are hidden from or have concealment from all creatures with line of effect to you, your speed is increased by 3 until the end of your turn.
 
-#### SHADOWMELD
+##### SHADOWMELD
 
 You gain the following ability:
 
-##### SHADOWMELD
+###### SHADOWMELD
 
 You become an actual shadow.
 
@@ -1778,7 +1778,7 @@ You become an actual shadow.
 
 **Effect**: You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn’t observing you. While in shadow form, you have full awareness of your surroundings, attacks against you and tests made to find you take a bane, and you can’t move or take actions or maneuvers except to exit this form. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
 
-## REVENANT
+### REVENANT
 
 “I will suck the life from your flesh and leave you a withered corpse!”
 
@@ -1792,7 +1792,7 @@ Unlike the necromantic rituals that produce wights and wraiths and zombies, reve
 
 These revenants are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or Capital, where lost souls gather to make a home.
 
-### ON REVENANTS
+#### ON REVENANTS
 
 “I’m telling you, we are being followed.”
 
@@ -1856,15 +1856,15 @@ Lady Filliamo shrugged. “I’m a knight of the church. Jurisdiction’s for th
 
 “I deal in steel.”
 
-### REVENANT BENEFITS
+#### REVENANT BENEFITS
 
 As a revenant character, you have the following benefits.
 
-#### FORMER LIFE
+##### FORMER LIFE
 
 Choose the ancestry you were before you died. Your size equals that ancestry’s size. Your speed is 5. You lose all other ancestral benefits from your original ancestry.
 
-#### VENGEANCE MARK
+##### VENGEANCE MARK
 
 As a maneuver, you place a magic sigil on a creature within 10 squares of you. When you place a sigil, you can decide where it appears on the creature’s body, and whether the sigil is visible to only you or to all creatures.
 
@@ -1872,7 +1872,7 @@ You always know the direction to the exact location of a creature who bears one 
 
 Additionally, you gain the following ability.
 
-#### DETONATE SIGIL
+##### DETONATE SIGIL
 
 A magical sigil you placed on a creature explodes with energy.
 
@@ -1890,17 +1890,17 @@ A magical sigil you placed on a creature explodes with energy.
 
 You can have an active number of sigils equal to your level. You can remove a sigil from a creature harmlessly (no action required). If you are already using your maximum number of sigils, your oldest sigil disappears with no other effect.
 
-#### TOUGH BUT WITHERED
+##### TOUGH BUT WITHERED
 
 Your undead body grants you cold, corruption, lightning immunity, and poison immunity equal to your level. You also have fire weakness 5. You can’t suffocate, and you don’t need to eat or drink to stay alive.
 
 Additionally, when your Stamina equals the negative of your winded value, you become inert instead of dying. You can continue to observe your surroundings, but you can’t speak, take actions, maneuvers, or triggered actions, or move and you fall prone. If you take any fire damage while in this state, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
 
-#### UNDEAD INFLUENCE
+##### UNDEAD INFLUENCE
 
 Your supernatural gifts allow you to influence other undead. You gain an edge on Reason, Intuition, and Presence tests made to interact with undead creatures.
 
-## TIME RAIDER
+### TIME RAIDER
 
 “I fear no living thing, but the time raiders.”
 
@@ -1914,7 +1914,7 @@ Extraordinarily rare in Orden, the time raiders thrive on the Sea of Stars, the 
 
 In place of eyes, kuran’zoi possess crystalline ocular sensors that grant them high-spectral vision hardened against the extreme radiations encountered in the Sea of Stars, permitting them to operate freely outside their vessels with only their portable rebreathers. Time raiders also have two sets of arms, allowing them to wield melee weapons at the same time as ranged weapons. A single well-trained kuran’zoi is like a squad unto themself.
 
-### ON TIME RAIDERS
+#### ON TIME RAIDERS
 
 “You will tell me the location of the ship you came here in.”
 
@@ -2004,23 +2004,23 @@ John hadn’t hesitated, he’d already drawn his sword.
 
 ***“Draw steel!”***
 
-### TIME RAIDER BENEFITS
+#### TIME RAIDER BENEFITS
 
 As a time raider character, you have the following benefits.
 
-#### FORESIGHT
+##### FORESIGHT
 
 Your senses extend past mundane obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren’t hidden from you, negating the usual bane on attacks against them. Additionally, whenever you are attacked, you can use a triggered action to impose a bane on the power roll.
 
-#### FOUR ARMS
+##### FOUR ARMS
 
 Your multiple arms let you take on multiple tasks at the same time. Whenever you use the Grab or Knockback maneuver against an adjacent creature, you can target an additional adjacent creature, using the same power roll for both targets. You can grab up to two creatures at a time.
 
-#### PSIONIC GIFT
+##### PSIONIC GIFT
 
 Your mind is a formidable layer of defense, granting you psionic immunity 5.
 
-# CULTURE
+## CULTURE
 
 What makes a hero? Is their desire to stand up for the innocent and protect others somehow innate? Are they born knowing that tyrants must fall? Does a higher power instill the idea that sometimes those least deserving of compassion are those who need it most?
 
@@ -2028,13 +2028,13 @@ No. A hero’s life experience teaches them right from wrong—and that experien
 
 (Playtest note: Sample cultures are coming.)
 
-## CREATING A CULTURE
+### CREATING A CULTURE
 
 A hero’s culture describes the beliefs, customs, values, and way of life held by the community in which they were raised. This community provides life experiences that give a character some of their game statistics. Even if a hero doesn’t share their culture’s values, those values shaped their early development and way of life. In fact, some people become heroes primarily from the rejection of the ways of their culture.
 
 For our purposes, a hero’s culture represents people, not a place. Yes, you might have grown up in the city of Capital, but your culture is more specific than that. One hero’s culture might be House Alvaro, a noble house in Capital where they were raised. Another’s culture could be a group or organization that moves around, such as a band of pirates or a secret order of sorcerers sworn to protect books of fell magic. It helps to get specific when thinking about your culture, and working with the four aspects of a culture can help you do that: language, environment, organization, and upbringing.
 
-### USING CULTURE
+#### USING CULTURE
 
 Directors can use the rules in this section to build cultures that players can choose for their characters. Players can use these rules to build a unique culture or modify an existing culture for their character, working with the Director to find a right place for that culture within the world of the campaign’s world. The Vasloria Cultures table provides a cultural breakdown for Vasloria, the game’s medieval European fantasy analog.
 
@@ -2044,11 +2044,11 @@ You can use the table for a campaign that takes place in Vasloria, or pillage fr
 
 In many worlds, at least some cultures have a majority ancestry. The people of Bedegar, a duchy in Vasloria, are mostly humans. The folk dwelling in the Great Wode, a forest realm north of Bedegar, are primarily wode elves. However, you can always choose to be from one of these cultures and take a different ancestry. A dwarf raised in the culture of the Great Wode speaks Yllyric and probably knows a lot about nature, while a dwarf raised in the dwarven thanedom of Kal Kalavar speaks Zaliac and might know a good deal about smithing.
 
-### WHY BUILD A CULTURE?
+#### WHY BUILD A CULTURE?
 
 Building a character is about more than adding up your stats, picking skills and abilities, and recording that information on a character sheet. You’re building a hero—a main character in a story, be it a one-shot or a heroic campaign. Think about the personality and the past of who you are creating. That’s why the game lets you build a culture rather than simply saying, “Pick three skills and a bonus language.” We want players to imagine their heroes as complex and intricate characters.
 
-## CULTURE BENEFITS
+### CULTURE BENEFITS
 
 The culture you choose or create grants you the following benefits:
 
@@ -2056,23 +2056,23 @@ The culture you choose or create grants you the following benefits:
 - From the environment, organization, and upbringing aspects of your culture, you gain access to skills. You can select one skill from each aspect’s list of options. (See Skills for details.)
 - You gain an edge on tests to recall lore about your culture, and on tests to influence and interact with people of your culture.
 
-### LANGUAGE
+#### LANGUAGE
 
 Your culture’s language aspect determines how the people of your culture communicate. This can be any language in Languages.
 
-### ENVIRONMENT
+#### ENVIRONMENT
 
 Your culture’s environment aspect describes where the people of that culture spend most of their time. Is your culture centered in a bustling city or a small village? Did you spend your early life in an isolated monastery? Or did you wander the wilderness, never staying in one place for long?
 
 When you build a culture, select its environment aspect from the following options: nomadic, rural, secluded, urban, or wilderness. You then gain skill options from your chosen environment. All of these environments can be found in any sort of terrain, whether aboveground, in subterranean caverns, deep in trackless forest, or even underwater.
 
-##### NOMADIC
+###### NOMADIC
 
 A nomadic culture travels from place to place to survive. They might follow animal migrations or the weather, travel to sell their wares or services, or simply enjoy a restless lifestyle full of new experiences and peoples. Those who grow up in nomadic cultures learn to navigate the wilderness and interact with others.
 
 **Skill Options:** One skill from the exploration or interpersonal skill groups.
 
-##### RURAL
+###### RURAL
 
 A rural culture is one located in a town, village, or smaller settled enclave. People dwelling in such places often cultivate the land, trade goods or services with travelers passing through, harvest fish from the sea, or mine metals and gems from the earth.
 
@@ -2080,7 +2080,7 @@ Living among a small population, most folks in a rural community learn a trade a
 
 **Skill Options:** One skill from the crafting or lore skill groups.
 
-##### SECLUDED
+###### SECLUDED
 
 A secluded culture is based in one relatively close-quarters structure—a building, a cavern, and so forth—and interacts with other cultures only rarely. Such places are often buildings or complexes such as monasteries, castles, or prisons. Folk in a secluded culture have little or no reason to leave their home or interact with other cultures on the outside, but might have an awareness of those cultures and of events happening outside their enclave.
 
@@ -2088,25 +2088,25 @@ When people live together in close quarters, they typically learn to get along. 
 
 **Skill Options:** One skill from the interpersonal or lore skill groups.
 
-##### URBAN
+###### URBAN
 
 An urban culture is always centered in a city. Such a culture might arise within the walls of Capital, a massive metropolis with a cosmopolitan population; within a network of caverns that hold an underground city; or in any other place where a large population lives relatively close together. The people of urban cultures often learn to effectively misdirect others in order to navigate the crowds and the political machinations that can come with city life.
 
 **Skill Options:** One skill from the interpersonal or intrigue skill groups.
 
-##### WILDERNESS
+###### WILDERNESS
 
 A wilderness culture doesn’t attempt to tame the terrain in which its people live, whether desert, forest, swamp, tundra, ocean, or more exotic climes. Instead, the folk of such a culture thrive amid nature, taking their sustenance and shelter from the land itself. A wilderness culture might be a circle of druids protecting a great wode, a band of brigands hiding out in desert caves, or a camp of orc mercenaries who call the trackless mountains home. People in a wilderness culture learn how to use the land for all they need to live, typically crafting their own tools, clothing, and more.
 
 **Skill Options:** One skill from the crafting or exploration skill groups.
 
-### ORGANIZATION
+#### ORGANIZATION
 
 Your culture’s organization aspect determines the functioning and leadership of your community. You might come from a place with an officially recognized government and a system of laws. Or your culture might have enjoyed a less formal organization, with the people in charge having naturally gravitated toward their positions without any official offices or oaths.
 
 When you build a culture, select its organization aspect from the following options: anarchic, bureaucratic, or communal. You then gain skill options from your chosen system of organization.
 
-#### ANARCHIC
+##### ANARCHIC
 
 In an anarchic culture, there are no rules and no one person leads the others. This might sound like complete chaos—people taking what they want when they want it—and some cultures that practice anarchy are. Other anarchic cultures are peaceful places where people mostly work for themselves, their friends, or their family, but rely on the whole group when times get tough.
 
@@ -2116,7 +2116,7 @@ Most anarchic cultures operate outside of settled lands, sticking to the wilds, 
 
 **Skill Options:** One skill from the exploration or intrigue skill groups.
 
-#### BUREAUCRATIC
+##### BUREAUCRATIC
 
 Bureaucratic cultures are steeped in official leadership and formally recorded laws. Members of such a culture are often ranked in power according to those laws, with a small group of people holding the power to rule according to birthright, popular vote, or some other official and measurable standard. Many bureaucratic communities have one person at the very top, though others might be ruled by a council. A trade guild with a guildmaster, treasurer, secretary, and a charter of rules and regulations for membership; a feudal lord who rules over a group of knights, who in turn rule over peasants who work the land; and a militaristic society with ranks and rules that its people must abide are all examples of bureaucratic cultures.
 
@@ -2124,7 +2124,7 @@ Those who thrive in bureaucratic cultures don’t just follow the rules. They kn
 
 **Skill Options:** One skill from the intrigue or lore skill groups.
 
-#### COMMUNAL
+##### COMMUNAL
 
 A communal culture has no formal book of laws or rules for governing. Instead, the community works together to pick leaders and make important decisions. Often in these cultures, each person has a relatively equal say in how the culture operates, and everyone contributes to help the culture survive and thrive. People share the burdens of governing, physical labor, childcare, and other duties. A collective of farmers who work together to cultivate and protect their land without a noble, a city of pirates where each person can do as they wish, and a traveling theatrical troupe whose members vote on every artistic and administrative decision are all communal cultures.
 
@@ -2132,89 +2132,89 @@ Some communal cultures have one or more people who serve as leaders, but the way
 
 **Skill Options**: One skill from the crafting or interpersonal skill groups.
 
-### UPBRINGING
+#### UPBRINGING
 
 Your culture’s upbringing aspect is a more specific and personal part of your hero’s story, describing how you were individually raised within your culture. Were you trained to become the newest archmage in a secret order of wizards, or to be a sword-wielding bodyguard who protected that arcane organization? Did you learn to delve deep into mines looking for ore in a mountain kingdom, or did you build machines meant to dig faster and deeper than any person could alone? Whatever your culture, your upbringing makes you special within that culture.
 
 Pick your upbringing aspect from the following list: academic, creative, illegal, labor, martial, or noble. You then gain skill options from your chosen aspect.
 
-#### ACADEMIC
+##### ACADEMIC
 
 Heroes with an academic upbringing were raised by people who collect, study, and share books and other records. Some academics focus on one area of study, such as a college for wizards dedicated to the study of magic, or a church that teaches the word of one deity. People in an academic culture learn how to wield the power that is knowledge.
 
 **Skill Options**: One skill from the lore skill group.
 
-#### CREATIVE
+##### CREATIVE
 
 Heroes with a creative upbringing were raised among folk who create art or other works valuable enough to trade. A creative culture might produce fine art such as dance, music, or sculpture, or more practical wares such as wagons, weapons, tools, or buildings. People in such cultures learn the value of quality crafting and attention to detail.
 
 **Skill Options**: The Music or Perform skill, or one skill from the crafting skill group.
 
-#### ILLEGAL
+##### ILLEGAL
 
 Heroes with an illegal upbringing had caregivers who performed activities that other folk—whether within or outside their culture—considered unlawful. A band of pirates, a guild of assassins, or an organization of spies all commit unlawful acts for money. People with illegal upbringings typically don’t mind breaking the rules when it suits them—and are good at making sure no one finds out they did.
 
 **Skill Options**: One skill from the intrigue skill group.
 
-#### LABOR
+##### LABOR
 
 People who labor for a living survive through cultivation, typically raising crops or livestock on a farm; by harvesting natural resources, whether by hunting, trapping, logging, or mining; or through manual labor tied to settlement and trade, such as construction, carting, loading cargo, and so forth. People with a labor upbringing know the value of hard work.
 
 **Skill Options**: One of the Blacksmithing or Handle Animals skills, or one skill from the exploration skill group.
 
-#### MARTIAL
+##### MARTIAL
 
 Heroes who have a martial upbringing are raised by warriors. These might be the soldiers of an established army, a band of mercenaries, a guild of monster-slaying adventurers, or any other folk whose lives revolve around combat. Heroes with a martial upbringing are always ready for a fight—and they know how to finish that fight.
 
 **Skill Options**: One of the Alertness, Blacksmithing, Climb, Endurance, Fletching, Intimidate, Jump, Monsters, Ride, or Track skills.
 
-#### NOBLE
+##### NOBLE
 
 Heroes with a noble upbringing were raised by leaders who rule over others and play the games of politics to maintain power. Many families are nobles by birthright, but some cultures have noble titles that are earned through deeds or popularity. Whatever the case, heroes with this background understand why the whispered words in the right ear can sometimes be more powerful than any army.
 
 **Skill Options**: One skill from the interpersonal skill group.
 
-#### BUT I REALLY WANT ALERTNESS
+##### BUT I REALLY WANT ALERTNESS
 
 > If the culture you create doesn’t grant a skill that you want, check with your Director about modifying what the culture’s aspects offer. For instance, you can easily make the case that a culture with the martial upbringing aspect should give a character access to the Alertness skill, given that being successful in battle means always being aware of your surroundings.
 
-# CAREER
+## CAREER
 
 Hero isn’t a job. It’s a calling. But before you answered that call, you had a different job or vocation that paid the bills. Thank the gods for that, because the experience you gained in that career is now helping you save lives and slay monsters.
 
 (Playtest note: Eight careers are detailed below, with more coming.)
 
-## CAREER QUESTIONS
+### CAREER QUESTIONS
 
 The careers in this section don’t go into great detail about the actual jobs they represent. We assume that you know the basics of what an artisan, a criminal, or a gladiator does for a living. However, each career does include a list of questions that you should think about to help you define the specific details of your hero’s career. For instance, if you pick the Artisan career, one of the questions is, “What did you create?” You don’t need to answer these questions, but doing so helps shape a more complete picture of your hero.
 
-## CAREER BENEFITS
+### CAREER BENEFITS
 
 Your career describes what your life was before you became a hero. When you select a career, you gain a number of benefits, the details of which are specified in the career’s description.
 
-### SKILLS
+#### SKILLS
 
 Each career grants you two or three skills. If a career grants you a skill you already have, you can select a different skill.
 
-### LANGUAGES
+#### LANGUAGES
 
 Some careers allow you to learn extra languages, chosen from those available in Languages.
 
-### RENOWN
+#### RENOWN
 
 Some careers increase your starting Renown score. See Renown for more information.
 
-### PROJECT POINTS
+#### PROJECT POINTS
 
 Some careers provide project points that you can put toward research and crafting projects (see Research and Crafting in future packets for more information). These points can be divided among multiple projects, but they can’t be used more than once. At the Director’s discretion, your career might also let you start the game with the materials needed for one or more projects, so that you can immediately put your project points toward them.
 
-### CAREER TITLE
+#### CAREER TITLE
 
 Your career provides you with a common title. See Titles for more information.
 
 (Playtest note: The Titles section is still to come.)
 
-## INCITING INCIDENT
+### INCITING INCIDENT
 
 Each career has a list of inciting incidents, each of which suggests a potential reason why you gave up your career, turned away from a possibly comfortable and reliable living, and took up the sword (or axe or wand) to become an adventuring hero. Each inciting incident represents a life-changing event that might have motivated you to change course, becoming a person who risks it all to save others.
 
@@ -2222,13 +2222,13 @@ You can roll for or choose an inciting incident from the table that accompanies 
 
 (Playtest note: There are currently three inciting incidents for each career. More are coming.)
 
-### WHAT WAS TAKEN FROM YOU?
+#### WHAT WAS TAKEN FROM YOU?
 
 During your inciting incident, something was taken from you. It might have been a material object, such as an heirloom sword or a locket that proves your royal heritage. It could be a person you loved who was killed, kidnapped, or cursed. It might be something deeper and more abstract, as with a chance for happiness or a lifetime goal snatched away.
 
 It might be the case that you’re obsessed with getting back what you lost. You might be in a position where you’ll never recover what was taken from you, but you want to prevent that same loss from happening to others. It might be a little bit of both. Whatever the case, the loss you’ve suffered is part of what drives you to be a hero. Record what was taken from you on your character sheet, and let your Director know.
 
-## ARTISAN
+### ARTISAN
 
 You started off making and selling art or useful wares. In defining your career, think about the following questions:
 
@@ -2244,7 +2244,7 @@ You gain the following career benefits:
 - **Project Points**: 100
 - **Title**—Expert Artisan: Whenever you make a test as part of a research or crafting project that uses a skill you have from the crafting skill group, you can roll the test twice and use either roll.
 
-### ARTISAN INCITING INCIDENTS
+#### ARTISAN INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                          |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2252,7 +2252,7 @@ You gain the following career benefits:
 | 2   | **Inspired**: As you traveled the road selling your wares, troll bandits attacked you. One of the bandits claimed an item belonging to someone precious to you—or perhaps claimed that person’s life—but the rest were driven off or slain by a group of heroes. Seeing the quick work these heroes made of the bandits inspired you to follow in their footsteps.                                |
 | 3   | **Robbery**: A criminal gang stole your goods and harmed a number of people who worked for you. You became a hero to prevent such indignities from being visited upon others, to seek revenge for the assault, or to find the thieves and get your stuff back.                                                                                                                                    |
 
-## CRIMINAL
+### CRIMINAL
 
 You once worked as a bandit, insurgent, smuggler, outlaw, or even as an assassin. In defining your career, think about the following questions:
 
@@ -2268,7 +2268,7 @@ You gain the following career benefits:
 - **Project Points**: 50
 - **Title**—Lucky Dog: When you fail a test using any skill from the intrigue skill group, you can roll a d6. You lose Stamina equal to the roll and improve the result of your test by one tier. You can make this roll only once per test.
 
-### CRIMINAL INCITING INCIDENTS
+#### CRIMINAL INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                                                |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2276,7 +2276,7 @@ You gain the following career benefits:
 | 2   | **Friendly Priest**: You went to prison for your crimes and eventually escaped. An elderly priest took you in and shielded you from the law, convinced that your soul wasn’t corrupt. They never judged you for your past, speaking only of the future. Eventually, the priest died, imparting final words that inspired you to become a hero.                                                                          |
 | 3   | **Stand Against Tyranny**: When a tyrant rose to power in your homeland, they began cracking down on all criminals with deadly raids and public executions. The nature of the crime didn’t matter—pickpockets and beggars were made to kneel before the axe alongside murderers. After losing enough friends, you stood up and joined the resistance—not just against this tyrant, but against authoritarians anywhere. |
 
-## GLADIATOR
+### GLADIATOR
 
 In the past, you entertained the masses with flashy displays of violence in the arena. In defining your career, think about the following questions:
 
@@ -2292,7 +2292,7 @@ You gain the following career benefits:
 - **Renown**: 2
 - **Title**—Monologue Champion: When you are not in combat, you can shout to get the attention of all creatures within 10 squares of you. Each creature who is not hostile toward you listens to what you have to say for at least the next minute, or until they sense danger or any form of imminent harm. While creatures are listening to you, your allies gain an edge on tests made to avoid being noticed by those creatures.
 
-### GLADIATOR INCITING INCIDENTS
+#### GLADIATOR INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2300,7 +2300,7 @@ You gain the following career benefits:
 | 2   | **Heckler**: As you stood victorious on the arena sands, a voice cried out among the cheering. “This violence is just for show. You should be ashamed. There are people who need you—who need your skills!” Why did that voice ring so clear? And why did it sound so familiar? You never saw the face of the person who uttered the words, but they weighed heavy on you. The next day, you fled the arena to begin a hero’s life. |
 | 3   | **New Challenges**: You earned every title you could. You beat every opponent willing to face you in the arena. Your final battle with your rival ended with you victorious—and yet you were unsatisfied. There are other, greater foes out there, and you mean to find them.                                                                                                                                                       |
 
-## LABORER
+### LABORER
 
 You worked as a farmer, a builder, a lumberjack, a miner, or some other profession engaged in hard manual labor. In defining your career, think about the following questions:
 
@@ -2316,7 +2316,7 @@ You gain the following career benefits:
 - **Project Points**: 50
 - **Title**—Team Backbone: When you take your first turn during a montage test, you can both make a test and assist another hero’s test.
 
-### LABORER INCITING INCIDENTS
+#### LABORER INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                             |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2324,7 +2324,7 @@ You gain the following career benefits:
 | 2   | **Embarrassment**: A noble you worked for admonished you publicly for work done poorly—more than once. Finally, you had enough. You vowed to take up a new path and show this noble that you are far more than what they make you out to be.                                                                                         |
 | 3   | **Live the Dream**: You worked with a good friend, and on the job you’d always fantasize about what it’d be like to hit the road as adventuring heroes—someday. You didn’t count on your friend falling ill and passing away. Now it’s time to live out that dream for both of you.                                                  |
 
-## MAGE'S APPRENTICE
+### MAGE'S APPRENTICE
 
 For long years, you studied magic under the mentorship of a more experienced mage. In defining your career, think about the following questions:
 
@@ -2340,7 +2340,7 @@ You gain the following career benefits:
 - **Renown**: 1
 - **Title**—Hedge Mage: You have the Arcane Trick ability.
 
-#### ARCANE TRICK
+##### ARCANE TRICK
 
 You cast an entertaining spell that creates a minor but impressive magical effect.
 
@@ -2359,7 +2359,7 @@ You cast an entertaining spell that creates a minor but impressive magical effec
 - You place a small magical inscription on the surface of a mundane object you can touch, or remove an inscription that was made by you or by another creature using Arcane Trick.
 - You cover a size 1T object that you touch with an illusion that makes it look like another object. A creature who handles the object can see through the illusion. The illusion ends when yo
 
-### MAGE'S APPRENTICE INCITING INCIDENTS
+#### MAGE'S APPRENTICE INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                                          |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2367,7 +2367,7 @@ You cast an entertaining spell that creates a minor but impressive magical effec
 | 2   | **Ultimate Power**: The mage you worked for was a kindly old soul, but the basic magic they taught you always seemed like a small part of something bigger. It wasn’t until you met an adventuring elementalist that you realized hitting the road as a hero was the only way to truly improve and hone your skills. You resigned your apprenticeship and found yourself walking the path of a hero the next day. |
 | 3   | **Missing Mage**: One day you woke up and the mage you worked for was just gone. They didn’t take any of their belongings, and there was no sign of any foul play—just the scent of sulfur in their bedchamber. You set out on your heroic journey in the aftermath, and have been looking for them ever since.                                                                                                   |
 
-## PERFORMER
+### PERFORMER
 
 You can sing, act, or dance well enough that people actually pay to see you do it. Imagine that! In defining your career, think about the following questions:
 
@@ -2382,7 +2382,7 @@ You gain the following career benefits:
 - **Renown**: 2
 - **Title**—Dazzler: When a creature watches you perform a song, dance, or role (as an actor, not in disguise) for at least 1 minute, you gain an edge on tests made to influence that creature for 1 hour after the performance ends.
 
-### PERFORMER INCITING INCIDENTS
+#### PERFORMER INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                     |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2390,7 +2390,7 @@ You gain the following career benefits:
 | 2   | **Fame and Fortune**: You thought you were famous—then that hero came to your show. Suddenly, all eyes were on the dragon-slaying brute instead of the stage where they belonged. The audience even gave them a standing ovation when they entered the room. All you got was polite applause. Fine. If people want a hero, then a hero you shall be.                                         |
 | 3   | **Tragic Lesson**: When a producer who once shortchanged you shouted out on the street for you to stop a thief who had picked their pocket, your spite toward the producer inspired you to let the thief run right on by. But that decision led to tragedy when the thief later harmed someone you loved. From that moment on, you decided to make it your responsibility to protect others. |
 
-## SAGE
+### SAGE
 
 From an early age, you dedicated yourself to learning, whether you shared the knowledge of the world with others or sought out secret lore only for yourself. In defining your career, think about the following questions:
 
@@ -2406,7 +2406,7 @@ You gain the following career benefits:
 - **Project Points**: 100
 - **Title**—Expert Sage: Whenever you make a test as part of a research or crafting project that uses a skill you have from the lore skill group, you can roll the test twice and use either roll.
 
-### SAGE INCITING INCIDENTS
+#### SAGE INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                  |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2414,7 +2414,7 @@ You gain the following career benefits:
 | 2   | **Cure the Curse**: You used to think knowledge could fix everything. You were wrong. When someone you loved fell under a curse, the means to cure them couldn’t be found in any of the books you owned. But that wasn’t going to stop you. The answers are out there, and you’ll find them even if you need to face down death to do so. |
 | 3   | **Lost Library**: An evil mage took all your books for themselves, cackling at your impotence as they raided your shelves. Now you’re off to search through ancient ruins and secret libraries to rebuild your collection of rare tomes—and to find the mage who stole from you.                                                          |
 
-## SOLDIER
+### SOLDIER
 
 In your formative years, you fought tirelessly in skirmishes and campaigns against enemy forces. In defining your career, think about the following questions:
 
@@ -2430,7 +2430,7 @@ You gain the following career benefits:
 - **Renown**: 1
 - **Title**—Drill Sergeant: At the start of a group test or montage test, you can spend a hope token. If you do, all participants make tests as if they also had your exploration skills.
 
-### SOLDIER INCITING INCIDENTS
+#### SOLDIER INCITING INCIDENTS
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2438,7 +2438,7 @@ You gain the following career benefits:
 | 2   | **Out of Retirement**: You had a long and storied career as a soldier before deciding to retire to a simpler life. But when you returned to your old home, you found that your enemies had laid waste to it. Now the skills you earned on the battlefield are helping you as you become a different kind of warrior, seeking to save others from the fate you suffered. |
 | 3   | **Sole Survivor**: You were the last surviving member of your unit after an arduous battle or monstrous assault, surviving only because of your luck. You turned away from the life of a soldier then, seeking to become a hero who could stand against such threats.                                                                                                   |
 
-# CLASSES
+## CLASSES
 
 (Playtest note: Introduction to come.)
 
@@ -2446,13 +2446,13 @@ Your class provides you with most of your abilities. For details on the ability 
 
 (Playtest note: The currently available classes are the conduit, elementalist, fury, shadow, and tactician, each of which includes only 1st-level features.)
 
-# CONDUIT
+## CONDUIT
 
 The power of the gods flows through you! As a vessel for divine magic, you don’t just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. While the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
 
 As a conduit, you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, aweing your enemies and granting you increased empathy.
 
-## BASICS
+### BASICS
 
 - **Starting Characteristics**: You start with an Intuition of 2 and a Presence of 2, and can choose one of the following arrays for your other characteristic scores:
   - 2, −1, −1
@@ -2463,7 +2463,7 @@ As a conduit, you heal and buff your allies, and debuff your foes while smiting 
 - **Recoveries**: 10
 - **Skills**: Choose any two skills from the interpersonal or lore skill groups.
 
-### CONDUIT ADVANCEMENT
+#### CONDUIT ADVANCEMENT
 
 | Level | Features                                                                                                                 |
 | ----- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -2471,11 +2471,11 @@ As a conduit, you heal and buff your allies, and debuff your foes while smiting 
 | 2nd   | Gift of the Gods, Domain Feature, Domain Ability Signature, 3, 5, 5 (Domain)                                             |
 | 3rd   | Restore Life, 7-Piety, Ability Signature, 3, 5, 5 (Domain), 7                                                            |
 
-## 1ST-LEVEL FEATURES
+### 1ST-LEVEL FEATURES
 
 As a conduit, you gain the following features.
 
-### DEITY AND DOMAINS
+#### DEITY AND DOMAINS
 
 Choose a god or saint who you revere from the Conduit Deities table, or ask your Director about the deities in your campaign world. With the Director’s permission, you can also create your own deity, and can choose four domains to be part of their portfolio.
 
@@ -2483,7 +2483,7 @@ After choosing your deity, pick two domains from their portfolio. Your choice of
 
 (Playtest note: More gods and saints are coming, along with their descriptions.)
 
-#### CONDUIT DEITIES
+##### CONDUIT DEITIES
 
 | Deity   | Domains                         |
 | ------- | ------------------------------- |
@@ -2494,7 +2494,7 @@ After choosing your deity, pick two domains from their portfolio. Your choice of
 | Salorna | Death, Nature, Storm, Sun       |
 | Viras   | Creation, Life, Love, Trickery  |
 
-### PIETY
+#### PIETY
 
 Your deity grants you a Heroic Resource called piety to fuel your abilities. You use piety to heal and empower your allies, and to unleash your deity’s power upon your foes.
 
@@ -2502,7 +2502,7 @@ Outside of combat and other dangerous situations tracked in turns and rounds, yo
 
 When a combat encounter begins, you keep any piety you had outside of combat. At the start of each of your turns during combat, you gain 2 piety. You can also use the Prayer ability to gain additional piety. When combat ends, you once again have piety equal to your Victories.
 
-#### PRAYER
+##### PRAYER
 
 *I beseech you!*
 **Keywords**: Magic
@@ -2517,63 +2517,63 @@ When a combat encounter begins, you keep any piety you had outside of combat. At
 
 **Effect**: The first time you use this ability during an encounter, it has a double edge. The second time you use it, it takes an edge. The third time you use it, it takes a bane. The fourth and each subsequent time you use this ability during an encounter, it has a double bane.
 
-#### DOMAIN EFFECTS
+##### DOMAIN EFFECTS
 
 Whenever you get the tier 3 result of the Prayer ability, you can choose one of your domain’s effects to immediately take effect.
 
-##### CREATION DOMAIN EFFECT
+###### CREATION DOMAIN EFFECT
 
 You create a 5 wall of stone within 10 squares of you.
 
-##### DEATH DOMAIN EFFECT
+###### DEATH DOMAIN EFFECT
 
 Two enemies of your choice within 10 squares of you take corruption damage equal to 5 + your conduit level.
 
-##### FATE DOMAIN EFFECT
+###### FATE DOMAIN EFFECT
 
 Choose another creature you have line of effect to. That creature automatically gets a tier 1 or tier 3 result (your choice) on their next power roll.
 
-##### KNOWLEDGE DOMAIN EFFECT
+###### KNOWLEDGE DOMAIN EFFECT
 
 Choose up to three allies within 10 squares of you. Each ally has a double edge on the next power roll they make.
 
-##### LIFE DOMAIN EFFECT
+###### LIFE DOMAIN EFFECT
 
 You or an ally within 10 squares of you can spend 2 Recoveries, can end any effects on them that have a duration of EoT or are ended by a resistance roll, and can stand up if they are prone. Alternatively, you or an ally within 10 squares of you gains 20 temporary Stamina.
 
-##### LOVE DOMAIN EFFECT
+###### LOVE DOMAIN EFFECT
 
 Each ally within 10 squares of you gains 5 temporary Stamina, and gains an edge on the next power roll they make before the end of the encounter.
 
-##### NATURE DOMAIN EFFECT
+###### NATURE DOMAIN EFFECT
 
 Vines whip up from the floor or ground around a creature of your choice within 10 squares of you, then slide that creature a number of squares equal to 3 times your Intuition score.
 
-##### PROTECTION DOMAIN EFFECT
+###### PROTECTION DOMAIN EFFECT
 
 An ally of your choice within 10 squares of you gains damage immunity equal to your Intuition score plus your level, which lasts until the end of your next turn.
 
-##### STORM DOMAIN EFFECT
+###### STORM DOMAIN EFFECT
 
 Each enemy in a 3-cube area within 10 squares of you takes lightning damage equal to 5 + your conduit level.
 
-##### SUN DOMAIN EFFECT
+###### SUN DOMAIN EFFECT
 
 An enemy of your choice within 10 squares of you takes fire damage equal to 10 + your conduit level.
 
-##### TRICKERY DOMAIN EFFECT
+###### TRICKERY DOMAIN EFFECT
 
 Choose a creature within 10 squares of you. You can slide that creature a number of squares equal to 5 + your conduit level. If you choose a willing ally, this movement can ignore their stability.
 
-##### WAR DOMAIN EFFECT
+###### WAR DOMAIN EFFECT
 
 Your attacks deal extra damage equal to twice your Intuition score until the end of your next turn.
 
-### 1ST-LEVEL DOMAIN FEATURE
+#### 1ST-LEVEL DOMAIN FEATURE
 
 You gain a domain feature from one of your domains, as shown on the 1st-Level Conduit Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table.
 
-#### 1ST-LEVEL CONDUIT DOMAIN FEATURES
+##### 1ST-LEVEL CONDUIT DOMAIN FEATURES
 
 | Domain     | Feature               | Skill         |
 | ---------- | --------------------- | ------------- |
@@ -2590,19 +2590,19 @@ You gain a domain feature from one of your domains, as shown on the 1st-Level Co
 | Trickery   | Divine Thievery       | Intrigue      |
 | War        | Ritual of Preparation | Exploration   |
 
-#### ALERTNESS WARD
+##### ALERTNESS WARD
 
 You exude a magic aura of awareness, granting you and each ally within 2 squares of you an edge on tests that use the Alertness skill.
 
-#### ANIMAL SPIRIT
+##### ANIMAL SPIRIT
 
 As an action, you conjure an animal spirit that takes the form of any animal you have seen. The incorporeal animal can’t physically interact with the world, but they have a speed of 5 (fly) and can move through mundane objects. While you are within 20 squares of the spirit, you can sense everything an animal of their form could sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required).
 
-#### COMPASSIONATE AURA
+##### COMPASSIONATE AURA
 
 You exude a magic aura that can soothe those willing to socially engage with you. You gain an edge on any test made to assist another creature with a test. Additionally, when you are present at the start of a negotiation, the NPC’s patience increases by 1 (to a maximum of 5), and the first test made to influence them gains an edge.
 
-#### CONTROL WEATHER
+##### CONTROL WEATHER
 
 When you finish a respite, you can decide the weather conditions in the local area. Those weather conditions follow you through any mundane outdoors locations where you travel until the end of your next respite. Choose one of the following types of weather:
 
@@ -2611,23 +2611,23 @@ When you finish a respite, you can decide the weather conditions in the local ar
 - **Overcast**: You and your allies each gain an edge on tests that use the Endurance skill.
 - **Precipitation**: When the ground is muddy or snowy, you and your allies each gain an edge on tests that use the Track skill.
 
-#### CYPHER MIND
+##### CYPHER MIND
 
 Given a little time, you can translate almost any text into a language you know, even if you don’t know the text’s original language. For the purpose of making project rolls (see Research and Crafting in future packets for more information), you are considered fluent in all languages.
 
-#### DIVINE THIEVERY
+##### DIVINE THIEVERY
 
 The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use Intuition on the test instead of another characteristic.
 
-#### FATE TRANCE
+##### FATE TRANCE
 
 If you spend 10 minutes in an uninterrupted meditative state without moving, you get a glimpse of any significant events that will happen in the area around you in the next 24 hours unless you or your allies intercede in those events. As described by the Director, these glimpses of the future might be clear and concise, or might be vague and hard to understand.
 
-#### GRAVE SPEECH
+##### GRAVE SPEECH
 
 You gain the following ability.
 
-##### GRAVE SPEECH
+###### GRAVE SPEECH
 
 The power of death lets you speak with those who have passed from the world.
 
@@ -2638,11 +2638,11 @@ The power of death lets you speak with those who have passed from the world.
 
 **Effect**: You can speak to the corpse or head of a creature who has died within the last 24 hours and who can speak a language you know. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. After 1 minute, the effect ends. You can’t use this ability on the same creature twice.
 
-#### HANDS OF THE MAKER
+##### HANDS OF THE MAKER
 
 You gain the following ability.
 
-##### HANDS OF THE MAKER
+###### HANDS OF THE MAKER
 
 Craft objects with the power of your mind!
 
@@ -2653,23 +2653,23 @@ Craft objects with the power of your mind!
 
 **Effect**: You create a mundane object no larger than size 1S that you hold. If you use this feature again or stop holding the object, it disappears.
 
-#### INNER LIGHT
+##### INNER LIGHT
 
 Each time you finish a respite, you can choose yourself or another character who is also ending a respite to gain the benefit of a divine ritual. As you perform the ritual, you place a ray of morning light into the target’s soul, granting the target an edge on resistance rolls. This benefit lasts until you complete another respite.
 
-#### REVITALIZING RITUAL
+##### REVITALIZING RITUAL
 
 Each time you finish a respite, you can choose yourself or another character who is also ending a respite to gain the benefit of a divine ritual. When you perform the ritual, the target’s recovery value increases by an amount equal to your level. This benefit lasts until you complete another respite.
 
-#### RITUAL OF PREPARATION
+##### RITUAL OF PREPARATION
 
 As a respite action, you can bless a weapon. Any creature who wields the weapon gains a +1 bonus to damage with abilities that use the weapon. This benefit lasts until you complete your next respite.
 
-### HEALING GRACE
+#### HEALING GRACE
 
 You gain the following ability, which you can use once on your turn.
 
-#### HEALING GRACE
+##### HEALING GRACE
 
 Your divine energy restores the righteous.
 
@@ -2685,11 +2685,11 @@ Your divine energy restores the righteous.
 - A prone target can stand up.
 - A target can spend 1 additional Recovery.
 
-### PIOUS FORCE
+#### PIOUS FORCE
 
 You gain the following ability, which can be used as a ranged free strike.
 
-#### PIOUS FORCE
+##### PIOUS FORCE
 
 You unleash a blast of raw divine magic upon your foe.
 
@@ -2705,11 +2705,11 @@ You unleash a blast of raw divine magic upon your foe.
 
 **Effect**: You can choose to change the damage type to holy.
 
-### TRIGGERED ACTION
+#### TRIGGERED ACTION
 
 Choose one of the following triggered actions.
 
-#### DIVINE DISRUPTION
+##### DIVINE DISRUPTION
 
 You sap the strength of an attacking enemy with divine energy.
 
@@ -2722,7 +2722,7 @@ You sap the strength of an attacking enemy with divine energy.
 **Effect**: The attack takes a bane and the damage to one creature targeted by the attack is reduced by an amount equal to your Intuition.
 **Spend 1 Piety**: The attack has a double bane and the damage to one creature targeted by the attack is reduced by an amount equal to twice your Intuition score.
 
-#### HOLY INFUSION
+##### HOLY INFUSION
 
 You invigorate an attacking ally with divine energy.
 
@@ -2735,15 +2735,15 @@ You invigorate an attacking ally with divine energy.
 **Effect**: The attack gains an edge and deals holy damage equal to twice your Intuition score.
 **Spend 1 Piety**: The attack has a double edge and deals holy damage equal to twice your Intuition score.
 
-### CONDUIT ABILITIES
+#### CONDUIT ABILITIES
 
 Your training and faith let you specialize in magic that buffs your allies, debuffs your foes, and lets you hold your own in combat even while aiding your friends.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 Select one signature ability from the options below. Signature abilities can be used at will.
 
-##### HOLY LANCE
+###### HOLY LANCE
 
 A tendril of divine energy shoots forth to draw in your foe.
 
@@ -2757,7 +2757,7 @@ A tendril of divine energy shoots forth to draw in your foe.
 - 12–16: 6 holy damage; pull 3
 - 17+: 9 holy damage; pull 4
 
-##### LIGHTFALL
+###### LIGHTFALL
 
 Holy light scours your foes and sets your allies into perfect attack position.
 
@@ -2773,7 +2773,7 @@ Holy light scours your foes and sets your allies into perfect attack position.
 
 **Effect**: You can teleport each ally in the area and yourself (if you’re in the area) to an unoccupied space within the area.
 
-##### SACRIFICIAL OFFER
+###### SACRIFICIAL OFFER
 
 The divine energy of creation tears at your foe.
 
@@ -2787,7 +2787,7 @@ The divine energy of creation tears at your foe.
 - 12–16: 6 corruption damage; the next ally to damage the target before the start of your next turn deals an extra 1d6 corruption damage
 - 17+: 9 corruption damage; the next ally to damage the target before the start of your next turn deals an extra 1d10 corruption damage
 
-##### WITHER
+###### WITHER
 
 A bolt of holy energy saps the life from a foe.
 
@@ -2801,15 +2801,15 @@ A bolt of holy energy saps the life from a foe.
 - 12–16: 6 corruption damage; the target takes a bane on ability power rolls (EoT)
 - 17+: 9 corruption damage; the target has a double bane on ability power rolls (EoT)
 
-#### HEROIC ABILITIES
+##### HEROIC ABILITIES
 
 You make use of a number of heroic abilities, all of which channel piety to empower them.
 
-#### 3-PIETY ABILITIES
+##### 3-PIETY ABILITIES
 
 Choose one heroic ability from the following options, each of which costs 3 piety to use.
 
-##### ANGEL OF WRATH (3 PIETY)
+###### ANGEL OF WRATH (3 PIETY)
 
 You conjure an angelic spirit who lashes your foes with burning radiance.
 
@@ -2820,7 +2820,7 @@ You conjure an angelic spirit who lashes your foes with burning radiance.
 
 **Effect**: You summon an angelic spirit of size 1M who can’t be harmed, and who appears in an unoccupied space within distance. The spirit lasts until the end of your next turn. You and your allies can move through the spirit’s space, but enemies can’t. The first time on a turn that an enemy moves within 1 square of the spirit or starts their turn there, they take holy damage equal to twice your Intuition score.
 
-##### PUNISHING SMITE (3 PIETY)
+###### PUNISHING SMITE (3 PIETY)
 
 Your divine fury is a hammer that crashes down upon the unrighteous.
 
@@ -2834,7 +2834,7 @@ Your divine fury is a hammer that crashes down upon the unrighteous.
 - 12–16: 8 holy damage; prone
 - 17+: 13 holy damage; prone and can’t stand (EoT)
 
-##### RIGHTEOUS REBUKE (3 PIETY)
+###### RIGHTEOUS REBUKE (3 PIETY)
 
 Divine wrath strikes your foe with lightning that follows them across the battlefield.
 
@@ -2850,7 +2850,7 @@ Divine wrath strikes your foe with lightning that follows them across the battle
 
 **Effect**: If the target deals damage to another creature before the end of their next turn, the target of this ability takes another 1d10 lightning damage.
 
-##### THUNDER OF THE DIVINE (3 PIETY)
+###### THUNDER OF THE DIVINE (3 PIETY)
 
 A resounding clap of thunder disrupts your foes.
 
@@ -2866,11 +2866,11 @@ A resounding clap of thunder disrupts your foes.
 
 **Effect**: You can also push each willing ally in the area, and their stability doesn’t count against this forced movement.
 
-#### 5-PIETY ABILITIES
+##### 5-PIETY ABILITIES
 
 Choose one heroic ability from the following options, each of which costs 5 piety to use.
 
-##### ARMOR OF THE FAITHFUL (5 PIETY)
+###### ARMOR OF THE FAITHFUL (5 PIETY)
 
 The divine light of protection surrounds your allies.
 
@@ -2886,7 +2886,7 @@ The divine light of protection surrounds your allies.
 
 **Effect**: This temporary Stamina disappears at the end of the encounter.
 
-##### DIVINE WEAKNESS (5 PIETY)
+###### DIVINE WEAKNESS (5 PIETY)
 
 Divine energy scours your target to make them more susceptible to harm.
 
@@ -2900,7 +2900,7 @@ Divine energy scours your target to make them more susceptible to harm.
 - 12–16: 10 damage; whenever the target takes damage, they take an extra 5 corruption damage (EoT)
 - 17+: 16 damage; whenever the target takes damage, they take an extra 5 corruption damage (EoE)
 
-##### TERRIFYING SMITE (5 PIETY)
+###### TERRIFYING SMITE (5 PIETY)
 
 A mote of holy light racks your foe with their greatest fear.
 
@@ -2914,7 +2914,7 @@ A mote of holy light racks your foe with their greatest fear.
 - 12–16: 10 holy damage; frightened (EoT)
 - 17+: 16 holy damage; frightened (EoE)
 
-##### WAVE OF VIRTUE (5 PIETY)
+###### WAVE OF VIRTUE (5 PIETY)
 
 A pulse of divine magic lets your comrades draw on their reserves of inner strength.
 
@@ -2925,13 +2925,13 @@ A pulse of divine magic lets your comrades draw on their reserves of inner stren
 
 **Effect**: Each target can spend one or two Recoveries, and end one effect that has a duration of EoT or is ended by a resistance roll.
 
-# ELEMENTALIST
+## ELEMENTALIST
 
 Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the unknown. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.
 
 As an elementalist, you can unleash your wrath across a field of foes, put an enemy exactly where you want them, debilitate foes with harmful effects, ward yourself and allies against danger, manipulate terrain, warp space, and more. Your choice of elemental specialization determines which of these things you do best.
 
-## BASICS
+### BASICS
 
 - **Starting Characteristics**: You start with a Reason of 2 and an Intuition of 2, and can choose one of the following arrays for your other characteristics scores:
   - 2, −1, −1
@@ -2942,7 +2942,7 @@ As an elementalist, you can unleash your wrath across a field of foes, put an en
 - **Recoveries**: 8
 - **Skills**: You gain Magic and can choose any three skills from the crafting or lore skill groups.
 
-### ELEMENTALIST ADVANCEMENT
+#### ELEMENTALIST ADVANCEMENT
 
 | Level | Features                                                                                                                                                                               |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -2950,11 +2950,11 @@ As an elementalist, you can unleash your wrath across a field of foes, put an en
 | 2nd   | Specialization Feature, New 5-Essence Ability Signature, 1, 3, 5, 5                                                                                                                    |
 | 3rd   | Specialization Feature, 7-Essence Ability Signature, 1, 3, 5, 5, 7                                                                                                                     |
 
-## 1ST-LEVEL FEATURES
+### 1ST-LEVEL FEATURES
 
 As an elementalist, you gain the following features.
 
-### ELEMENTAL SPECIALIZATION
+#### ELEMENTAL SPECIALIZATION
 
 Through your studies, you know and can manipulate the seven primal elements of the timescape:
 
@@ -2970,7 +2970,7 @@ Heroic abilities that include your specialization’s keyword have their initial
 
 Choose one of the following elements to be your specialty: earth, fire, green, or void. (Other elemental specializations will be featured in future products.) Your choice of specialization determines many of the features you’ll gain from this class.
 
-### ESSENCE
+#### ESSENCE
 
 You channel the substance of creation in the form of a Heroic Resource called essence. In times of great stress, you can focus your control on this substance, gathering and burning it to cast and maintain spells.
 
@@ -2978,11 +2978,11 @@ Outside of combat and other dangerous situations tracked in turns and rounds, yo
 
 When combat begins, you keep any essence you had outside of combat. At the start of each of your turns during combat, you gain 2 essence. When combat ends, you once more have essence equal to your Victories.
 
-### HURL ELEMENT
+#### HURL ELEMENT
 
 You gain the following ability, which can be used as a ranged free strike:
 
-#### HURL ELEMENT
+##### HURL ELEMENT
 
 You hurl a ball of elemental energy at a nearby foe.
 
@@ -2998,7 +2998,7 @@ You hurl a ball of elemental energy at a nearby foe.
 
 **Effect**: When you make this attack, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.
 
-### PERSISTENT MAGIC
+#### PERSISTENT MAGIC
 
 Some of your heroic abilities have the Persistent keyword. Whenever you use a persistent ability, you decide whether you want to maintain it. If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your turn by an amount equal to the ability’s persistent value, which enables the ability’s persistent effect. All your active persistent abilities end when combat ends.
 
@@ -3015,11 +3015,11 @@ Whenever you take damage while you have an active persistent ability, you must m
 - 12–16: If you have only one persistent ability active, it remains active. Otherwise, you lose one active persistent ability of your choice.
 - 17+: All your active persistent abilities remain active.
 
-### PRACTICAL MAGIC
+#### PRACTICAL MAGIC
 
 You have the following ability:
 
-#### PRACTICAL MAGIC
+##### PRACTICAL MAGIC
 
 Your mastery of elemental power lets you customize your magic.
 
@@ -3033,11 +3033,11 @@ Your mastery of elemental power lets you customize your magic.
 - You choose a creature within the distance of your Hurl Element ability and deal damage to that creature equal to your Reason score. The damage type can be acid, cold, corruption, fire, lightning, poison, or sonic.
 - You teleport a number of squares equal to your Reason score.
 
-### 1ST-LEVEL SPECIALIZATION FEATURE
+#### 1ST-LEVEL SPECIALIZATION FEATURE
 
 Your elementalist specialization grants you a feature, as shown on the 1st-Level Elementalist Specialization Features table.
 
-#### 1ST-LEVEL ELEMENTALIST SPECIALIZATION FEATURES
+##### 1ST-LEVEL ELEMENTALIST SPECIALIZATION FEATURES
 
 | Specialization | Feature            |
 | -------------- | ------------------ |
@@ -3046,11 +3046,11 @@ Your elementalist specialization grants you a feature, as shown on the 1st-Level
 | Green          | Speech of the Wild |
 | Void           | Void Sense         |
 
-#### MANIPULATE EARTH
+##### MANIPULATE EARTH
 
 You gain the following ability:
 
-##### MANIPULATE EARTH (2 ESSENCE)
+###### MANIPULATE EARTH (2 ESSENCE)
 
 The earth rises, falls, or opens at your command.
 
@@ -3067,11 +3067,11 @@ The earth rises, falls, or opens at your command.
 
 **Spend No Essence**: You can use this ability without spending essence. If you do, you must spend 1 uninterrupted minute using the ability while within reach of the target before its effect occurs.
 
-#### MELT
+##### MELT
 
 You gain the following ability:
 
-##### MELT (2 ESSENCE)
+###### MELT (2 ESSENCE)
 
 With the merest touch, you cause an object to turn into slag or ash.
 
@@ -3084,19 +3084,19 @@ With the merest touch, you cause an object to turn into slag or ash.
 
 **Spend No Essence**: You can use this ability without spending essence. If you do, you must spend 1 uninterrupted minute using the ability while touching the target before its effect occurs.
 
-#### SPEECH OF THE WILD
+##### SPEECH OF THE WILD
 
 You can speak with and understand Animals, Plant Creatures, and Monstrosities, even if they don’t share a language with you. Your ability to communicate with such creatures doesn’t make them inherently more intelligent or less hostile toward you.
 
 Additionally, when you touch a living plant object, you can communicate with it telepathically. You can use words to communicate with the plant, but it communicates with you only by transmitting feelings and sensations that can’t be overly specific.
 
-#### VOID SENSE
+##### VOID SENSE
 
 You instantly recognize illusions for what they are, you can see invisible creatures, and supernatural effects can’t conceal creatures and objects from you. You always know if an area or object you observe is magical or affected by magic, and the specifics of what that magic can do.
 
 You also gain the following ability:
 
-##### SHARED VOID SENSE (1+ ESSENCE)
+###### SHARED VOID SENSE (1+ ESSENCE)
 
 You share your special senses with others.
 
@@ -3107,11 +3107,11 @@ You share your special senses with others.
 
 **Effect**: For each essence you spend, you can target 1 creature. That creature gains the benefit of your Void Sense feature until the end of your next turn, but doesn’t gain the use of Shared Void Sense.
 
-### SPECIALIZATION TRIGGERED ACTION
+#### SPECIALIZATION TRIGGERED ACTION
 
 Your specialization grants you a triggered action, as shown on the Elementalist Triggered Actions table.
 
-##### ELEMENTALIST TRIGGERED ACTIONS
+###### ELEMENTALIST TRIGGERED ACTIONS
 
 | Specialization | Triggered Action     |
 | -------------- | -------------------- |
@@ -3120,7 +3120,7 @@ Your specialization grants you a triggered action, as shown on the Elementalist 
 | Green          | Mend the Soul        |
 | Void           | Void Embrace         |
 
-#### EARTHEN FORCE
+##### EARTHEN FORCE
 
 You imbue an attack with the strength of stone.
 
@@ -3133,7 +3133,7 @@ You imbue an attack with the strength of stone.
 **Effect**: The attack deals extra damage equal to 3 times your Reason score.
 **Spend 1 Essence**: The attack deals extra damage equal to 4 times your Reason score instead and pushes the target a number of squares equal to your Reason score.
 
-#### EXPLOSIVE ASSISTANCE
+##### EXPLOSIVE ASSISTANCE
 
 You add a little magic to an ally’s aggression at just the right time.
 
@@ -3146,7 +3146,7 @@ You add a little magic to an ally’s aggression at just the right time.
 **Effect**: The distance of the forced movement is increased by a number of squares equal to your Reason score.
 **Spend 1 Essence**: The distance of the forced movement is increased by a number of squares equal to twice your Reason score instead.
 
-#### MEND THE SOUL
+##### MEND THE SOUL
 
 The power you channel grants the ability to get back in the fight.
 
@@ -3158,7 +3158,7 @@ The power you channel grants the ability to get back in the fight.
 
 **Effect**: The target can spend a Recovery.
 
-#### VOID EMBRACE
+##### VOID EMBRACE
 
 You call on the void to swallow and spit out an ally.
 
@@ -3171,15 +3171,15 @@ You call on the void to swallow and spit out an ally.
 **Effect**: At any point during the move, you teleport the target a number of squares equal to your Reason.
 **Spend 1 Essence**: You teleport the target a number of squares equal to twice your Reason score instead.
 
-### ELEMENTALIST ABILITIES
+#### ELEMENTALIST ABILITIES
 
 Your mastery of elemental magic grants you unique magical abilities that let you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 Select one signature ability from the options below. Signature abilities can be used at will.
 
-##### DEBRIS
+###### DEBRIS
 
 A sudden storm of detritus assaults your foes and leaves them struggling to move.
 
@@ -3195,7 +3195,7 @@ A sudden storm of detritus assaults your foes and leaves them struggling to move
 
 **Effect**: The ground beneath the area becomes difficult terrain for your enemies.
 
-##### FIRE LANCE
+###### FIRE LANCE
 
 A jet of fire erupts with elemental fury where it strikes.
 
@@ -3209,7 +3209,7 @@ A jet of fire erupts with elemental fury where it strikes.
 - 12–16: 6 fire damage; push 3
 - 17+: 9 fire damage; push 5
 
-##### GROWING PAINS
+###### GROWING PAINS
 
 Whipping vines erupt from a foe’s body to grasp at another close by.
 
@@ -3225,7 +3225,7 @@ Whipping vines erupt from a foe’s body to grasp at another close by.
 
 **Effect**: A creature within 5 squares of the target is pulled 2 squares toward the target.
 
-##### VOID RAY
+###### VOID RAY
 
 A beam of energy corrupts and hinders whatever it touches.
 
@@ -3239,15 +3239,15 @@ A beam of energy corrupts and hinders whatever it touches.
 - 12–16: 6 corruption damage; slowed (EoT)
 - 17+: 9 corruption damage; slowed (EoT)
 
-#### HEROIC ABILITIES
+##### HEROIC ABILITIES
 
 You channel a range of heroic abilities, all of them fueled by your essence
 
-#### 3-ESSENCE ABILITIES
+##### 3-ESSENCE ABILITIES
 
 Choose one heroic ability from the following options, each of which costs 3 essence to use.
 
-##### BURN! (3 ESSENCE)
+###### BURN! (3 ESSENCE)
 
 Fire engulfs a target of your choice and burns at your command.
 
@@ -3263,7 +3263,7 @@ Fire engulfs a target of your choice and burns at your command.
 
 **Persistent 1**: If the target is within distance at the start of your turn, make a power roll for this ability again.
 
-##### INVIGORATING GROWTH (3 ESSENCE)
+###### INVIGORATING GROWTH (3 ESSENCE)
 
 Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.
 
@@ -3279,7 +3279,7 @@ Mushrooms erupt from a foe, sapping their vitality to spread strengthening spore
 
 **Effect**: The mushrooms can be removed by the target or by an adjacent creature as an action. While the mushrooms are on the target, each of your allies adjacent to the target gains an edge on attacks against them.
 
-##### PUNCH THE EARTH (3 ESSENCE)
+###### PUNCH THE EARTH (3 ESSENCE)
 
 You slam the ground, which buckles out from you in every direction.
 
@@ -3295,7 +3295,7 @@ You slam the ground, which buckles out from you in every direction.
 
 **Effect**: You must be touching the ground or floor to use this ability. The surface beneath the area becomes difficult terrain for your enemies.
 
-##### STARE INTO THE ABYSS (3 ESSENCE)
+###### STARE INTO THE ABYSS (3 ESSENCE)
 
 You open a rift into the void to harry your enemies.
 
@@ -3311,11 +3311,11 @@ You open a rift into the void to harry your enemies.
 
 **Persistent 1**: At the start of your turn, you can use this ability again as a maneuver without spending essence.
 
-#### 5-ESSENCE ABILITIES
+##### 5-ESSENCE ABILITIES
 
 Choose one heroic ability from the following options, each of which costs 5 essence to use.
 
-##### CONFLAGRATION (5 ESSENCE)
+###### CONFLAGRATION (5 ESSENCE)
 
 A storm of fire descends upon your enemies.
 
@@ -3331,7 +3331,7 @@ A storm of fire descends upon your enemies.
 
 **Persistent 2**: At the start of your turn, you can use this ability again as a maneuver without spending essence.
 
-##### INCORPOREALNESS (5 ESSENCE)
+###### INCORPOREALNESS (5 ESSENCE)
 
 The material substance of a creature shreds away at your command.
 
@@ -3344,7 +3344,7 @@ The material substance of a creature shreds away at your command.
 
 **Persistent 1**: The effect lasts until the start of your next turn.
 
-##### NOURISHING RAIN (5 ESSENCE)
+###### NOURISHING RAIN (5 ESSENCE)
 
 You call down a rain that burns your enemies and restores your allies.
 
@@ -3360,7 +3360,7 @@ You call down a rain that burns your enemies and restores your allies.
 
 **Effect**: You and each ally in the area suffering any effect that has a duration of EoT or is ended by a resistance roll have all such effects end.
 
-##### OPEN THE EARTH (5 ESSENCE)
+###### OPEN THE EARTH (5 ESSENCE)
 
 The surface of the world around you opens up at your command.
 
@@ -3417,7 +3417,7 @@ You come from a tradition older than civilization, older than warfare, older tha
 
 Your choice of primordial aspect determines many of the features you’ll gain from this class.
 
-### RAGE
+#### RAGE
 
 As the battle intensifies around you, your determination and anger grow, fueling a Heroic Resource called rage.
 
@@ -3425,19 +3425,19 @@ Outside of combat and other dangerous situations tracked in turns and rounds, yo
 
 When a combat encounter begins, you keep any rage you had outside of combat. At the start of each of your turns during combat, you gain 1d3 rage. When combat ends, you once again have rage equal to your Victories.
 
-### GROWING RAGE
+#### GROWING RAGE
 
 You gain certain benefits in combat based on the amount of rage you have. See Aspect Features for details. The benefits from your growing rage last until the end of your turn, even if a benefit would become unavailable to you because of the amount of rage you spend during your turn.
 
-### MIGHTY LEAPS
+#### MIGHTY LEAPS
 
 You always succeed on Might tests made to jump. You can still roll to see if you get a reward result.
 
-### 1ST-LEVEL ASPECT FEATURES
+#### 1ST-LEVEL ASPECT FEATURES
 
 Your chosen primordial aspect grants you features as shown on the 1st-Level Primordial Aspect Features table.
 
-#### 1ST-LEVEL PRIMORDIAL ASPECT FEATURES
+##### 1ST-LEVEL PRIMORDIAL ASPECT FEATURES
 
 | Aspect     | Feature                             |
 | ---------- | ----------------------------------- |
@@ -3445,13 +3445,13 @@ Your chosen primordial aspect grants you features as shown on the 1st-Level Prim
 | Reaver     | Primordial Cunning                  |
 | Stormwight | Primordial Shape, Relentless Hunter |
 
-#### PRIMORDIAL CUNNING
+##### PRIMORDIAL CUNNING
 
 You are never surprised. Additionally, whenever you would push a target with forced movement, you can slide them instead.
 
 As your rage grows, your primordial cunning intensifies. These benefits are cumulative.
 
-### PRIMORDIAL CUNNING GROWING RAGE
+###### PRIMORDIAL CUNNING GROWING RAGE
 
 | **Rage** | **Benefit**                                                                                                                                                                                                                        |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3459,17 +3459,17 @@ As your rage grows, your primordial cunning intensifies. These benefits are cumu
 | 4        | Once per turn, when you slide a target or when you move adjacent to a target during a shift, you can deal weapon damage to the target equal to twice your Agility score, instead of once your Agility score.                       |
 | 6        | You have a double edge on Agility tests and resistance rolls.                                                                                                                                                                      |
 
-### PRIMORDIAL SHAPE
+#### PRIMORDIAL SHAPE
 
 When you select a martial kit, you can instead select a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including effects tied to your Growing Rage feature.
 
-### PRIMORDIAL STRENGTH
+##### PRIMORDIAL STRENGTH
 
 When you damage an object with a weapon attack, it takes an additional 5 damage. Additionally, whenever you push another creature, you can make it a vertical push.
 
 As your rage grows, your primordial strength intensifies. These benefits are cumulative.
 
-#### PRIMORDIAL STRENGTH GROWING RAGE
+###### PRIMORDIAL STRENGTH GROWING RAGE
 
 | **Rage** | **Benefit**                                                                                                                                                                                                |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3477,15 +3477,15 @@ As your rage grows, your primordial strength intensifies. These benefits are cum
 | 4        | You gain a bonus to weapon damage equal to twice your Might score, instead of once your Might score, if you are at least two squares from where you started your turn when you attack.                     |
 | 6        | You have a double edge on Might tests and resistance rolls.                                                                                                                                                |
 
-### RELENTLESS HUNTER
+##### RELENTLESS HUNTER
 
 You gain an edge on tests that use the Track skill.
 
-### ASPECT TRIGGERED ACTION
+#### ASPECT TRIGGERED ACTION
 
 Your primordial aspect grants you a triggered action, as shown on the Fury Triggered Actions table.
 
-#### FURY TRIGGERED ACTIONS
+##### FURY TRIGGERED ACTIONS
 
 | **Aspect** | **Triggered Action** |
 | ---------- | -------------------- |
@@ -3493,7 +3493,7 @@ Your primordial aspect grants you a triggered action, as shown on the Fury Trigg
 | Reaver     | Uncanny Dodge        |
 | Stormwight | Regeneration         |
 
-### REGENERATION
+##### REGENERATION
 
 Your transformative abilities bring you back into the fight.
 
@@ -3507,7 +3507,7 @@ Your transformative abilities bring you back into the fight.
 
 **Spend 1 Rage:** If you are not dying, you can spend a Recovery.
 
-### RELENTLESS TOSS
+##### RELENTLESS TOSS
 
 The Primordial Chaos allows you to redirect kinetic energy for a monstrous smash!
 
@@ -3521,7 +3521,7 @@ The Primordial Chaos allows you to redirect kinetic energy for a monstrous smash
 
 **Spend 1 Rage:** You can increase the forced move distance by a number of squares equal to twice your Might score instead.
 
-### UNCANNY DODGE
+##### UNCANNY DODGE
 
 When a damaging effect surrounds you, you stay two steps ahead.
 
@@ -3535,15 +3535,15 @@ When a damaging effect surrounds you, you stay two steps ahead.
 
 **Spend 1 Rage:** You move a willing adjacent ally affected by the attack with you, applying the same outcome to them.
 
-### FURY ABILITIES
+#### FURY ABILITIES
 
 You specialize in dealing massive damage on the battlefield, mastering a number of unique martial abilities that allow you to strike hard and keep moving in combat.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 Select one signature ability from the options below. Signature abilities can be used at will.
 
-##### BRUTAL SLAM
+###### BRUTAL SLAM
 
 The heavy impact of your weapon attacks drives your foes ever backward.
 
@@ -3556,7 +3556,7 @@ The heavy impact of your weapon attacks drives your foes ever backward.
   - 12–16: 8 damage; push 2
   - 17+: 12 damage; push 4
 
-##### HIT AND RUN
+###### HIT AND RUN
 
 Keeping in constant motion helps you slip out of reach after a brutal assault.
 
@@ -3571,7 +3571,7 @@ Keeping in constant motion helps you slip out of reach after a brutal assault.
 
 **Effect:** You can shift 1 square after the attack is resolved.
 
-##### HUMILIATING STRIKE
+###### HUMILIATING STRIKE
 
 You hit with a strength that’s worth the risk of raising your opponent’s ire.
 
@@ -3586,7 +3586,7 @@ You hit with a strength that’s worth the risk of raising your opponent’s ire
 
 **Effect:** You can choose to do an extra 1d6 damage to the target. If you do, the target gains an edge on their next attack against you.
 
-##### IMPALING STRIKE
+###### IMPALING STRIKE
 
 Fighting up close lets you keep your foe exactly where you want them.
 
@@ -3601,15 +3601,15 @@ Fighting up close lets you keep your foe exactly where you want them.
 
 **Effect:** If the target is grabbed, they take a bane on attempts to escape the grab. If you move while you have the target grabbed, they take 1 damage for each square you move.
 
-### HEROIC ABILITIES
+##### HEROIC ABILITIES
 
 You fight with an array of heroic abilities, all of which cost rage to fuel them.
 
-#### 3-RAGE ABILITIES
+##### 3-RAGE ABILITIES
 
 Choose one heroic ability from the following options, each of which costs 3 rage to use.
 
-##### DEATH BEFORE BEAUTY (3 RAGE)
+###### DEATH BEFORE BEAUTY (3 RAGE)
 
 Your enemies will get out of your way—whether they want to or not.
 
@@ -3624,7 +3624,7 @@ Your enemies will get out of your way—whether they want to or not.
 
 **Effect:** When you force move the target, you can move into squares they leave. The target takes the damage from any free strikes you provoke with this movement.
 
-##### STAB ME SO I CAN PULL MYSELF CLOSER TO YOU (3 RAGE)
+###### STAB ME SO I CAN PULL MYSELF CLOSER TO YOU (3 RAGE)
 
 When you barrel through your foes, they feel your wrath.
 
@@ -3642,7 +3642,7 @@ When you barrel through your foes, they feel your wrath.
 
 **Effect:** The target takes an extra 1d6 damage for every free strike you triggered from your move.
 
-##### WHIRLWIND STRIKE (3 RAGE)
+###### WHIRLWIND STRIKE (3 RAGE)
 
 As your foes close in around you, why bother taking them on one by one?
 
@@ -3655,7 +3655,7 @@ As your foes close in around you, why bother taking them on one by one?
   - 12–16: 4 damage; push 1
   - 17+: 7 damage; push 3
 
-##### YOUR ENTRAILS ARE YOUR EXTRAILS! (3 RAGE)
+###### YOUR ENTRAILS ARE YOUR EXTRAILS! (3 RAGE)
 
 Unless they get some help, your foe is finished.
 
@@ -3670,11 +3670,11 @@ Unless they get some help, your foe is finished.
 
 **Effect:** While slowed in this way, the target takes an extra 3 damage at the start of each of your turns.
 
-#### 5-RAGE ABILITIES
+##### 5-RAGE ABILITIES
 
 Choose one heroic ability from the following options, each of which costs 5 rage to use.
 
-##### BLOOD FOR BLOOD! (5 RAGE)
+###### BLOOD FOR BLOOD! (5 RAGE)
 
 A mighty strike leaves your foe reeling.
 
@@ -3689,7 +3689,7 @@ A mighty strike leaves your foe reeling.
 
 **Effect:** You can choose to deal 1d6 damage to yourself to deal an extra 2d6 damage to the target.
 
-##### BRUTE PRECISION (5 RAGE)
+###### BRUTE PRECISION (5 RAGE)
 
 You can always trust your anger to get the job done.
 
@@ -3700,7 +3700,7 @@ You can always trust your anger to get the job done.
 
 **Effect:** The next attack you make this turn automatically achieves a tier 3 result and deals an extra 1d6 damage.
 
-##### DYING BLOW (5 RAGE)
+###### DYING BLOW (5 RAGE)
 
 You focus your rage into a single devastating strike.
 
@@ -3715,7 +3715,7 @@ You focus your rage into a single devastating strike.
 
 **Spend 1 or More Additional Rage:** If you are winded, you can add 1d6 damage for each rage spent. If you are dying, you can add 1d10 damage for each rage spent. In either case, you then lose 1d6 Stamina.
 
-##### PRIMORDIAL SHOCKWAVE (5 RAGE)
+###### PRIMORDIAL SHOCKWAVE (5 RAGE)
 
 The destructive power of nature cannot be contained.
 
@@ -3779,11 +3779,11 @@ These bonuses apply in your true form, your animal form, and your hybrid form if
 
 Each stormwight gains a specific set of benefits for their fury Growing Rage feature, as noted in the table for each stormwight kit. These benefits are cumulative.
 
-### BOREN
+#### BOREN
 
 With this stormwight kit, you channel your primordial rage into the form of a bear, becoming large, durable, and imposing. Boren are tied to the craggy, rocky north, and this aspect is associated with the blizzard’s bitter cold.
 
-#### ASPECT BENEFITS
+##### ASPECT BENEFITS
 
 Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever an attack pulls a creature adjacent to you, you can attempt to grab that creature as a free triggered action.
 
@@ -3801,9 +3801,9 @@ Your primordial damage type is cold.
 - **Stability Bonus:** +2
 - **Melee Weapon Damage Bonus:** +0/+0/+4
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
-##### BEAR CLAWS
+###### BEAR CLAWS
 
 Attacks with your sharp and deadly claws send your foes staggering back.
 
@@ -3816,7 +3816,7 @@ Attacks with your sharp and deadly claws send your foes staggering back.
   - 12–16: 3 damage; push 2
   - 17+: 8 damage; push 3
 
-#### BEAR GROWING RAGE
+####### BEAR GROWING RAGE
 
 | **Rage** | **Benefit**                                                                                                                                                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3824,11 +3824,11 @@ Attacks with your sharp and deadly claws send your foes staggering back.
 | 4        | While in bear form, you can use all your abilities, your attacks deal extra damage equal to twice your Might score, and any target you have grabbed at the start of your turn takes damage equal to twice your Might score, instead of once your Might score.             |
 | 6        | You have a double edge on Might tests, resistance rolls, and power rolls made with the Grab ability.                                                                                                                                                                      |
 
-### CORVEN
+#### CORVEN
 
 With this stormwight kit, you channel your primordial rage into the form of a crow. Corven are tied to the mountain passes and the hot winds that flow through them. This aspect is associated with the katabatic wind.
 
-#### ASPECT BENEFITS
+##### ASPECT BENEFITS
 
 You gain an edge on tests made to hide and sneak. Whenever you are falling, you can use your Animal Form ability as a free triggered action.
 
@@ -3849,9 +3849,9 @@ Your primordial damage type is fire.
 - **Melee Weapon Damage Bonus:** +2/+2/+2
 - **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
-##### WING BUFFET
+###### WING BUFFET
 
 Foes who try to close around you do so at their peril.
 
@@ -3866,7 +3866,7 @@ Foes who try to close around you do so at their peril.
 
 **Effect:** Resolve each attack individually using one power roll. You can shift 1 square after resolving damage for each target, then choose your next target from your new location.
 
-#### CROW GROWING RAGE
+###### CROW GROWING RAGE
 
 | **Rage** | **Benefit**                                                                                                                                                                                                                                                                                                                                                             |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3874,11 +3874,11 @@ Foes who try to close around you do so at their peril.
 | 4        | • While in crow or hybrid crow form, you can use all your abilities, and your attacks deal extra damage equal to twice your Agility score, instead of once your Agility score. <br> • Once per turn while in crow or hybrid crow form, when you move away from an enemy, that enemy takes damage equal to twice your Agility score, instead of once your Agility score. |
 | 6        | You can shift up to 2 squares as a free maneuver once per turn.                                                                                                                                                                                                                                                                                                         |
 
-### RADEN
+#### RADEN
 
 With this stormwight kit, you channel your primordial rage into the form of a rat. Raden are associated with the true nature of the rat, before cities became their habitat. Rats are avatars of the balance between green and rot, and this aspect is associated with the rat flood.
 
-#### ASPECT BENEFITS
+##### ASPECT BENEFITS
 
 You gain an edge on tests made to hide and sneak. Additionally, you ignore difficult terrain, and you gain an edge on tests made to climb other creatures. If you are hidden, you automatically achieve a tier 3 result on attempts to climb and remain hidden.
 
@@ -3899,9 +3899,9 @@ Your primordial damage type is corruption.
 - **Melee Weapon Damage Bonus:** +2/+2/+2
 - **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
-##### DRIVING POUNCE
+###### DRIVING POUNCE
 
 Your enemies try in vain to fall back from your pouncing attack.
 
@@ -3916,7 +3916,7 @@ Your enemies try in vain to fall back from your pouncing attack.
 
 **Effect:** Resolve each attack one at a time. After each attack, you can shift the same number of squares that you pushed the target. You select your second target from the square where you end your shift, which can be the first target again.
 
-#### RAT GROWING RAGE
+###### RAT GROWING RAGE
 
 | **Rage** | **Benefit**                                                                                                                                                                                                               |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -3924,11 +3924,11 @@ Your enemies try in vain to fall back from your pouncing attack.
 | 4        | While in rat or hybrid rat form, you can use all your abilities, and your attacks deal extra damage equal to twice your Agility score, instead of once your Agility score.                                                |
 | 6        | You have Weapon immunity 2. Any damage you ignore because of this immunity is dealt to each enemy adjacent to you when you are attacked.                                                                                  |
 
-### VUKEN
+#### VUKEN
 
 With this stormwight kit, you channel your primordial rage into the form of a wolf. Vuken are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
 
-#### ASPECT BENEFITS
+##### ASPECT BENEFITS
 
 You and an ally gain the benefits of flanking whenever you are both adjacent to a target. If you and at least two other allies are all adjacent to a target, each of you has a double edge for flanking.
 
@@ -3949,9 +3949,9 @@ Your primordial damage type is lightning.
 - **Melee Weapon Damage Bonus:** +2/+2/+2
 - **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
-##### PROBING ATTACK
+###### PROBING ATTACK
 
 A savage assault forces your foes back.
 
@@ -3966,7 +3966,7 @@ A savage assault forces your foes back.
 
 **Effect:** You can shift up to 2 squares as long as you end the shift adjacent to the target.
 
-#### WOLF GROWING RAGE
+###### WOLF GROWING RAGE
 
 | **Rage** | **Benefit**                                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -3991,7 +3991,7 @@ As a shadow, you have abilities that deal a lot of damage, let you move swiftly 
 - **Recoveries:** 10
 - **Skills:** Hide and Sneak, plus choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups.
 
-### SHADOW ADVANCEMENT
+#### SHADOW ADVANCEMENT
 
 | Level | Features                                                                                                     | Abilities                       |
 | ----- | ------------------------------------------------------------------------------------------------------------ | ------------------------------- |
@@ -4003,7 +4003,7 @@ As a shadow, you have abilities that deal a lot of damage, let you move swiftly 
 
 As a shadow, you gain the following features.
 
-### SHADOW COLLEGE
+#### SHADOW COLLEGE
 
 Shadow colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
@@ -4015,7 +4015,7 @@ You are one of the few who has graduated from a shadow college, chosen from the 
 
 Your choice of shadow college determines many of the features you’ll gain from this class.
 
-### INSIGHT
+#### INSIGHT
 
 By observing your enemy, you learn how to use their weaknesses against them. You have a Heroic Resource called insight.
 
@@ -4023,11 +4023,11 @@ Outside of combat and other dangerous situations tracked in turns and rounds, yo
 
 When a combat encounter begins, you keep any insight you had outside of combat. At the start of each of your turns during combat, you gain 2 insight. You gain 1 insight whenever you get a tier 3 result with an attack. When combat ends, you once again have insight equal to your Victories.
 
-### 1ST-LEVEL COLLEGE FEATURES
+#### 1ST-LEVEL COLLEGE FEATURES
 
 Your choice of college grants you one or two features, as shown on the 1st-Level Shadow College Features table.
 
-### 1ST-LEVEL SHADOW COLLEGE FEATURES
+##### 1ST-LEVEL SHADOW COLLEGE FEATURES
 
 | College | Feature                |
 |---------|------------------------|
@@ -4035,11 +4035,11 @@ Your choice of college grants you one or two features, as shown on the 1st-Level
 | Caustic Alchemy | Coat the Blade, Smoke Bomb |
 | Harlequin Mask | I’m On Your Side |
 
-#### BLACK ASH TELEPORT
+##### BLACK ASH TELEPORT
 
 You gain the following ability.
 
-##### BLACK ASH TELEPORT
+###### BLACK ASH TELEPORT
 
 In a swirl of black ash, you step from one place to another.
 
@@ -4056,7 +4056,7 @@ In a swirl of black ash, you step from one place to another.
 
 You gain the following ability.
 
-##### COAT THE BLADE
+###### COAT THE BLADE
 
 Just a little poison goes a long way.
 
@@ -4073,7 +4073,7 @@ Just a little poison goes a long way.
 
 You gain the following ability.
 
-##### I’M ON YOUR SIDE
+###### I’M ON YOUR SIDE
 
 Taking on the illusory countenance of another creature gives you an advantage on subterfuge.
 
@@ -4088,11 +4088,11 @@ Taking on the illusory countenance of another creature gives you an advantage on
 
 You always carry a supply of smoke bombs to make it easy for you to distract and get away from foes. You can use the Hide maneuver even if you are observed and don’t start in cover or concealment. If you do, you can shift a number of squares equal to your Agility. If you end this movement in cover or concealment, you are hidden.
 
-### COLLEGE TRIGGERED ACTION
+#### COLLEGE TRIGGERED ACTION
 
 Your college grants you a triggered action, as shown on the Shadow Triggered Actions table.
 
-#### SHADOW TRIGGERED ACTIONS
+##### SHADOW TRIGGERED ACTIONS
 
 | College         | Triggered Action      |
 | --------------- | --------------------- |
@@ -4140,11 +4140,11 @@ You sow a moment of confusion in combat, to your enemy’s peril.
 
 **Effect:** Choose an enemy within distance of the attack. The attack targets that enemy instead.
 
-### HESITATION IS WEAKNESS
+#### HESITATION IS WEAKNESS
 
 You know how to seize the advantage in battle, working with your allies to find the perfect moment to strike. You have the following ability.
 
-##### HESITATION IS WEAKNESS (1 INSIGHT)
+###### HESITATION IS WEAKNESS (1 INSIGHT)
 
 Waiting for your enemies to act was never your style.
 
@@ -4156,15 +4156,15 @@ Waiting for your enemies to act was never your style.
 
 **Effect:** You take your turn immediately.
 
-### SHADOW ABILITIES
+#### SHADOW ABILITIES
 
 You specialize in dealing damage, then getting out of harm’s way before the inevitable counterattack. You know a number of unique martial abilities that define your presence on the battlefield.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 Select one signature ability from the options below. Signature abilities can be used at will.
 
-#### DISTRACTING PAIN
+###### DISTRACTING PAIN
 
 Your precise strikes let your allies take advantage of a target’s agony.
 
@@ -4177,7 +4177,7 @@ Your precise strikes let your allies take advantage of a target’s agony.
   - 12–16: 8 damage; the next attack against the target gains an edge
   - 17+: 12 damage; the target falls prone
 
-#### I WORK BETTER ALONE
+###### I WORK BETTER ALONE
 
 Facing an enemy alone lets you exploit their overconfidence.
 
@@ -4192,7 +4192,7 @@ Facing an enemy alone lets you exploit their overconfidence.
 
 **Effect:** If the target has no allies adjacent to them, you gain an edge on the attack.
 
-#### SHOT AND STEP
+###### SHOT AND STEP
 
 Being fast on your feet makes your ranged attacks especially deadly.
 
@@ -4207,7 +4207,7 @@ Being fast on your feet makes your ranged attacks especially deadly.
 
 **Effect:** You can shift 1 square before or after the attack.
 
-#### SUCKER SLICE
+###### SUCKER SLICE
 
 Keeping an enemy’s focus on you lets your ally hit hard.
 
@@ -4222,15 +4222,15 @@ Keeping an enemy’s focus on you lets your ally hit hard.
 
 **Effect:** If you are flanking the target when you make this attack, one ally who is flanking with you has a double edge on melee attacks against the target until the end of the ally’s next turn, even if they are no longer flanking the target.
 
-### HEROIC ABILITIES
+##### HEROIC ABILITIES
 
 A range of heroic abilities define your combat prowess, all of which make use of your insight.
 
-#### 3-INSIGHT ABILITIES
+##### 3-INSIGHT ABILITIES
 
 Choose one heroic ability from the following options, each of which costs 3 insight to use.
 
-##### BLADE DANCE (3 INSIGHT)
+###### BLADE DANCE (3 INSIGHT)
 
 As you move across the battlefield, every foe within reach feels your wrath.
 
@@ -4246,7 +4246,7 @@ As you move across the battlefield, every foe within reach feels your wrath.
   - 12–16: 4 damage
   - 17+: 7 damage
 
-##### QUICK PURSUIT (3 INSIGHT)
+###### QUICK PURSUIT (3 INSIGHT)
 
 A foe forced away from you might assume they’re out of danger, but they’ll soon learn otherwise.
 
@@ -4261,7 +4261,7 @@ A foe forced away from you might assume they’re out of danger, but they’ll s
 
 **Effect:** You can shift into squares the target leaves behind when you force move them.
 
-##### TWO THROATS AT ONCE (3 INSIGHT)
+###### TWO THROATS AT ONCE (3 INSIGHT)
 
 Striking two foes at once is second nature to you.
 
@@ -4274,7 +4274,7 @@ Striking two foes at once is second nature to you.
   - 12–16: 6 damage
   - 17+: 9 damage
 
-##### WOUNDING STRIKE (3 INSIGHT)
+###### WOUNDING STRIKE (3 INSIGHT)
 
 You leave your foe bleeding out after a devastating attack.
 
@@ -4289,11 +4289,11 @@ You leave your foe bleeding out after a devastating attack.
 
 **Effect:** While bleeding, the target takes 4 damage at the start of each of your turns.
 
-### 5-INSIGHT ABILITIES
+##### 5-INSIGHT ABILITIES
 
 Choose one heroic ability from the following options, each of which costs 5 insight to use.
 
-##### ASSASSINATE (5 INSIGHT)
+###### ASSASSINATE (5 INSIGHT)
 
 You seize the perfect moment and strike with fatal precision!
 
@@ -4306,7 +4306,7 @@ You seize the perfect moment and strike with fatal precision!
   - 12–16: 2d6 + 12 damage
   - 17+: 2d6 + 18 damage
 
-##### GET IN, GET OUT (5 INSIGHT)
+###### GET IN, GET OUT (5 INSIGHT)
 
 Move unexpectedly, strike fast, and be gone!
 
@@ -4321,7 +4321,7 @@ Move unexpectedly, strike fast, and be gone!
 
 **Effect:** You can move up to your speed, and that movement doesn’t provoke opportunity attacks. You can move before or after your attack, or can split your movement before and after your attack.
 
-##### IMPAIRING SHOT (5 INSIGHT)
+###### IMPAIRING SHOT (5 INSIGHT)
 
 Your attack leaves a foe in the perfect position for your allies to finish them.
 
@@ -4334,7 +4334,7 @@ Your attack leaves a foe in the perfect position for your allies to finish them.
   - 12–16: 11 damage; attacks against the target gain an edge (EoT)
   - 17+: 17 damage; attacks against the target have a double edge (EoT)
 
-##### QUICKNESS (5 INSIGHT)
+###### QUICKNESS (5 INSIGHT)
 
 You put on a burst of magical speed to get the job done.
 
@@ -4362,7 +4362,7 @@ As a tactician, you have abilities that heal your allies and grant them extra da
 - **Recoveries:** 12
 - **Skills:** Lead, plus choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, History, Mechanics, Monsters, Search, or the skills of the exploration skill group.
 
-### TACTICIAN ADVANCEMENT
+#### TACTICIAN ADVANCEMENT
 
 | Level | Features                                                                                                       | Abilities                            |
 | ----- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
@@ -4428,11 +4428,11 @@ As the battle unfolds, you tell your allies exactly when to strike!
 
 **Spend 5 Focus:** You target two allies instead of one.
 
-### 1ST-LEVEL DOCTRINE FEATURES
+#### 1ST-LEVEL DOCTRINE FEATURES
 
 Your chosen doctrine grants you two features, as shown on the 1st-Level Tactical Doctrine Features table.
 
-#### 1ST-LEVEL TACTICAL DOCTRINE FEATURES
+##### 1ST-LEVEL TACTICAL DOCTRINE FEATURES
 
 | Doctrine   | Feature           |
 | ---------- | ----------------- |
@@ -4466,11 +4466,11 @@ The following test results apply to a negotiation:
 
 You can only make this test once for each encounter and negotiation.
 
-### DOCTRINE TRIGGERED ACTION
+#### DOCTRINE TRIGGERED ACTION
 
 Your doctrine grants you a triggered action, as shown on the Tactician Triggered Actions table.
 
-#### TACTICIAN TRIGGERED ACTIONS
+##### TACTICIAN TRIGGERED ACTIONS
 
 | Doctrine   | Triggered Action |
 | ---------- | ---------------- |
@@ -4520,7 +4520,7 @@ Under your direction, an ally waits for just the right moment to strike.
 
 **Spend 1 Focus:** The target’s speed becomes 0 (EoT).
 
-### FIELD ARSENAL
+#### FIELD ARSENAL
 
 You have drilled with a broad array of weapons and have developed techniques to optimize their use. Whenever you select or change your kit, you can select an additional martial kit and gain the benefits of both kits. (See Kits.)
 
@@ -4539,23 +4539,23 @@ For example, if you take the Shining Armor and Sniper kits, you gain the followi
 
 Kit signature abilities already have their bonuses applied. For example, you might take the Martial Artist kit, which gives a melee weapon damage bonus of +2/+2/+2, and the Mountain kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the Mountain kit’s damage bonus, then the Battle Grace signature ability from the Martial Artist kit would reduce its damage by −2/−2/−2, as it loses the bonus from the Martial Artist kit. It then gains the +0/+0/+4 of the Mountain kit, to deal damage of 3/7/14 for its tier 1, tier 2, and tier 3 results.
 
-### TACTICIAN ABILITIES
+#### TACTICIAN ABILITIES
 
 You are a formidable combatant in your own right, but your greatest strength in battle is the ability to make your allies even more formidable. You know a range of abilities that shape the scope of your control of the battlefield.
 
-### KIT SIGNATURE ABILITY
+##### KIT SIGNATURE ABILITY
 
 Your additional kit from your Field Arsenal feature grants you a second signature ability. Signature abilities can be used at will.
 
-### HEROIC ABILITIES
+##### HEROIC ABILITIES
 
 Your heroic abilities cover a range of combat tactics, all of which require focus to use them.
 
-#### 3-FOCUS ABILITIES
+##### 3-FOCUS ABILITIES
 
 Choose one heroic ability from the following options, each of which costs 3 focus to use.
 
-##### BATTLE CRY (3 FOCUS)
+###### BATTLE CRY (3 FOCUS)
 
 Hearing your shout of triumph fills your allies with combat fervor.
 
@@ -4566,7 +4566,7 @@ Hearing your shout of triumph fills your allies with combat fervor.
 
 **Effect:** Each target gains an edge on the next attack or resistance roll they make before the end of the encounter.
 
-##### DAZING BLOW (3 FOCUS)
+###### DAZING BLOW (3 FOCUS)
 
 Your precise strike leaves your foe struggling to respond.
 
@@ -4579,7 +4579,7 @@ Your precise strike leaves your foe struggling to respond.
   - 12–16: 8 damage; dazed (EoT)
   - 17+: 13 damage; dazed (EoE)
 
-##### INSPIRING STRIKE (3 FOCUS)
+###### INSPIRING STRIKE (3 FOCUS)
 
 You hit a foe so hard that it gets your allies back in the fight.
 
@@ -4592,7 +4592,7 @@ You hit a foe so hard that it gets your allies back in the fight.
   - 12–16: 8 damage; you or an ally within 10 can spend a Recovery
   - 17+: 13 damage; you or an ally within 10 can spend a Recovery, and each of you gains an edge on the next attack they make this encounter
 
-##### PHALANX FORWARD! (3 FOCUS)
+###### PHALANX FORWARD! (3 FOCUS)
 
 On your command, you and your allies force back the enemy line.
 
@@ -4603,11 +4603,11 @@ On your command, you and your allies force back the enemy line.
 
 **Effect:** Each target can move their speed, push an adjacent enemy 1 square at the end of that move, and shift 1 square into the square the enemy left.
 
-#### 5-FOCUS ABILITIES
+##### 5-FOCUS ABILITIES
 
 Choose one heroic ability from the following options, each of which costs 5 focus to use.
 
-##### HAMMER AND ANVIL (5 FOCUS)
+###### HAMMER AND ANVIL (5 FOCUS)
 
 Your attack is your allies’ signal to strike!
 
@@ -4622,7 +4622,7 @@ Your attack is your allies’ signal to strike!
 
 **Effect:** If an attack is left to be resolved and the target was reduced to 0 Stamina, the attacker can pick a different target.
 
-##### NOW! (5 FOCUS)
+###### NOW! (5 FOCUS)
 
 Your allies wait for your command—then unleash death!
 
@@ -4633,7 +4633,7 @@ Your allies wait for your command—then unleash death!
 
 **Effect:** Each target can make a free strike.
 
-##### THEIR WEAKNESS IS OUR STRENGTH (5 FOCUS)
+###### THEIR WEAKNESS IS OUR STRENGTH (5 FOCUS)
 
 Leaving your foe struggling gives your allies a strategic opening.
 
@@ -4648,7 +4648,7 @@ Leaving your foe struggling gives your allies a strategic opening.
 
 **Effect:** The target is marked (EoE). Each of your allies can spend a Recovery the first time they attack any target you’ve marked before the start of your next turn.
 
-##### THIS IS WHAT WE PLANNED FOR (5 FOCUS)
+###### THIS IS WHAT WE PLANNED FOR (5 FOCUS)
 
 A quick signal from you gives your allies a chance to turn the tide of battle.
 
@@ -4659,7 +4659,7 @@ A quick signal from you gives your allies a chance to turn the tide of battle.
 
 **Effect:** Each target who hasn’t acted yet this round can take their turn in any order immediately after yours.
 
-# KITS
+## KITS
 
 (Playtest note: This is not all the kits we imagine will be available in the game, but just a sampling. There might be more implement and weapon categories too.)
 
@@ -4682,11 +4682,11 @@ The description of gear in your kit is limited to broad categories, leaving you 
 
 The equipment categories your kit gives you are part of what affects the math behind your kit’s benefits, alongside the fighting techniques each kit provides.
 
-### CUSTOMIZING EQUIPMENT APPEARANCES
+#### CUSTOMIZING EQUIPMENT APPEARANCES
 
 You should absolutely feel free to describe your equipment in a way that makes sense for the story of your game and hero. For instance, if your hero uses a weapon in the whip category as part of their kit, they could use a leather whip, a spiked chain, or a dagger tied to a knotted rope. A hero who wears heavy armor might wear a suit of chain mail, plate armor, or heavy wooden planks tied together. Your choices for equipment aren’t limited just to the examples in this book.
 
-### KIT ARMOR CATEGORIES
+#### KIT ARMOR CATEGORIES
 
 Each kit has an armor category that indicates the kind of protection you have while using the kit.
 
@@ -4696,41 +4696,55 @@ Each kit has an armor category that indicates the kind of protection you have wh
 - **Heavy Armor:** If a kit has heavy armor, then you’re likely wearing metal from head to toe. Chain mail, ring mail, and suits of plate armor protect you better than any other mundane protection.
 - **Shield:** If a kit has a shield, then you wield a shield that can be any shape and made of any mundane material you like. The best shields have a sweet insignia on them, so start thinking about yours!
 
-### KIT WEAPON CATEGORIES
+#### KIT WEAPON CATEGORIES
 
 Each martial kit has a weapon category that indicates the types of weapons you wield while using the kit. You can use any ability with the Weapon keyword even if your kit doesn’t have a weapon, but you don’t get to apply your kit’s bonuses to that ability.
 
-- **None:** If a kit uses no weapons, then you don’t wield any weapons effectively, not even your own fists and feet.
-- **Bow:** Bows cover any weapon used to fire an arrow or bolt projectile. This includes crossbows, longbows, and shortbows. You don’t need to track mundane ammunition for these weapons, unless the Director says otherwise.
-- **Ensnaring Weapon:** Ensnaring weapons include bolas, nets, and other weapons made to capture an enemy and hold them in place.
-- **Heavy Weapon:** Heavy weapons are two-handed melee weapons with weighty bladed or bludgeoning heads, made to seriously harm or kill enemies in a single mighty blow. Greatswords, greataxes, mauls, and morningstars are all examples of heavy weapons.
-- **Light Weapon:** Light weapons are one-handed melee weapons that can be used to make several strikes in rapid succession. Many such weapons can be thrown or used as an off-hand defensive weapon. Daggers, shortswords, rapiers, and throwing hammers are typical light weapons.
+##### NONE
+
+If a kit uses no weapons, then you don’t wield any weapons effectively, not even your own fists and feet.
+
+##### BOW 
+
+Bows cover any weapon used to fire an arrow or bolt projectile. This includes crossbows, longbows, and shortbows. You don’t need to track mundane ammunition for these weapons, unless the Director says otherwise.
+
+##### ENSNARING WEAPON
+
+Ensnaring weapons include bolas, nets, and other weapons made to capture an enemy and hold them in place.
+
+##### HEAVY WEAPON
+
+Heavy weapons are two-handed melee weapons with weighty bladed or bludgeoning heads, made to seriously harm or kill enemies in a single mighty blow. Greatswords, greataxes, mauls, and morningstars are all examples of heavy weapons.
+
+##### LIGHT WEAPON
+
+Light weapons are one-handed melee weapons that can be used to make several strikes in rapid succession. Many such weapons can be thrown or used as an off-hand defensive weapon. Daggers, shortswords, rapiers, and throwing hammers are typical light weapons.
 
 If your kit uses a light weapon, you can wield two light weapons at a time.
 
-### MEDIUM WEAPON
+##### MEDIUM WEAPON
 
 Medium weapons are one-handed melee weapons that can be carried into battle while leaving one hand free, or while using that hand to hold a shield or implement. Battleaxes, clubs, longswords, and warhammers are medium weapons.
 
-### POLEARM
+##### POLEARM
 
 Polearms are two-handed melee weapons with long hafts that increase the wielder’s reach. They include glaives, halberds, longspears, and quarterstaffs.
 
-### UNARMED STRIKE
+##### UNARMED STRIKE
 
 Any kit that uses unarmed strikes allows you to use your body as a weapon. Punches, kicks, eye gouges, and the like are your forte.
 
-### WHIP
+##### WHIP
 
 Whip weapons include the standard whip, but also include spiked chains, flails, and any similarly long and flexible melee weapon.
 
-### IMPROVISED WEAPONS
+##### IMPROVISED WEAPONS
 
-Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren’t part of your kit count as improvised weapons for you. If you’re not using a kit with unarmed strikes, then your feet and fists are improvised weapons.
+> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren’t part of your kit count as improvised weapons for you. If you’re not using a kit with unarmed strikes, then your feet and fists are improvised weapons.
+> 
+> Improvised weapons can be used to make attacks with the Weapon keyword that you gain from your class, though not from your kit. They add no special bonuses from your kit to the attack. Many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged free strikes with improvised weapons.
 
-Improvised weapons can be used to make attacks with the Weapon keyword that you gain from your class, though not from your kit. They add no special bonuses from your kit to the attack. Many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged free strikes with improvised weapons.
-
-### KIT IMPLEMENT MATERIALS
+#### KIT IMPLEMENT MATERIALS
 
 Caster kits have an implement that enhances and focuses a hero’s magic abilities. Even a creature who doesn’t use magic abilities can eke a bit of power from an implement by using the proper spellcasting style and techniques. Each material can boost some of a caster’s magic abilities, but also focuses on improving a specific aspect of their magic. Your implement might be an amulet or a book of incantations, a holy symbol, orb, rod, staff, or wand, or any other similar item that you touch while using your abilities. The exact look of an implement is for you to decide.
 
@@ -4738,14 +4752,32 @@ Each material that can be used to create an implement (such as bone, crystal, or
 
 You can use any ability with the Magic keyword even if your kit doesn’t have an implement, but you don’t get to apply your kit’s bonuses to that ability.
 
-- **BONE:** Implements made from bone siphon the residual energy of your magic abilities to create or enhance a protective ward around you.
-- **CRYSTAL:** Crystal implements spread the energy of magic abilities that create areas of effect to send their power farther.
-- **GLASS:** While wielding a glass implement, your magic abilities are drawn into your body, giving you the gift of alacrity to increase your speed.
-- **METAL:** When supernatural force flows through metal, that force’s ability to harm is enhanced. Metal implements increase the damage you deal with magic abilities.
-- **STONE:** When you wield a stone implement, you absorb the metaphysical weight of your magic abilities, increasing your stability.
-- **WOOD:** Wood implements catapult magic energy that travels through them, increasing the range of your supernatural abilities.
+##### BONE
 
-### KITS AND TREASURES
+Implements made from bone siphon the residual energy of your magic abilities to create or enhance a protective ward around you.
+
+##### CRYSTAL
+
+Crystal implements spread the energy of magic abilities that create areas of effect to send their power farther.
+
+##### GLASS
+
+While wielding a glass implement, your magic abilities are drawn into your body, giving you the gift of alacrity to increase your speed.
+
+##### METAL
+
+When supernatural force flows through metal, that force’s ability to harm is enhanced. Metal implements increase the damage you deal with 
+magic abilities.
+
+##### STONE
+
+When you wield a stone implement, you absorb the metaphysical weight of your magic abilities, increasing your stability.
+
+##### WOOD
+
+Wood implements catapult magic energy that travels through them, increasing the range of your supernatural abilities.
+
+#### KITS AND TREASURES
 
 When you find a supernatural item such as a magic sword, you can use the item as long as it matches one of your kit’s equipment categories. A Blade of Quintessence is a medium weapon, so you can use it with the Ranger or Shining Armor kits. However, you can’t use it with the Cloak and Dagger or Spellslinger kits because those kits don’t use medium weapons, meaning you haven’t done the necessary preparations to use the weapon effectively. You can still swing a Blade of Quintessence around, but you don’t get any of its bonuses or benefits.
 
@@ -4755,41 +4787,41 @@ If you find a piece of equipment you really want to use that isn’t part of you
 
 Taking a martial kit can increase your Stamina, speed, and stability, as well as the damage, distance, and reach of your weapon abilities. Caster kits can increase your Stamina, speed, and stability, as well as the damage, distance, and area of your magical abilities. Kit bonuses are applied to free strikes.
 
-### STAMINA BONUS
+#### STAMINA BONUS
 
 Your kit’s Stamina bonus is added to your Stamina maximum.
 
-### SPEED BONUS
+#### SPEED BONUS
 
 Your kit’s speed bonus is added to your speed.
 
-### STABILITY BONUS
+#### STABILITY BONUS
 
 Your kit’s stability bonus is added to your stability.
 
-### DAMAGE BONUSES
+#### DAMAGE BONUSES
 
 Martial and caster kits can grant you a bonus to damage with certain types of abilities.
 
-#### MELEE WEAPON DAMAGE BONUS
+##### MELEE WEAPON DAMAGE BONUS
 
 Martial kits can have a melee weapon damage bonus. This bonus is added to abilities with the Melee and Weapon keywords that deal damage.
 
-#### RANGED WEAPON DAMAGE BONUS
+##### RANGED WEAPON DAMAGE BONUS
 
 Martial kits can have a ranged weapon damage bonus. This bonus is added to abilities with the Ranged and Weapon keywords that deal damage.
 
-#### MAGICAL DAMAGE BONUS
+##### MAGICAL DAMAGE BONUS
 
 Caster kits can have a magical damage bonus. This bonus is added to magic abilities that deal damage.
 
-### BONUSES ACROSS TIERS
+##### BONUSES ACROSS TIERS
 
 Kit damage bonuses are presented as “+X/+Y/+Z.” The X bonus is added to qualifying tier 1 power roll results, the Y bonus is added to qualifying tier 2 power roll results, and the Z bonus is added to qualifying tier 3 power roll results.
 
 For example, the Shining Armor Kit has a +2/+2/+2 melee weapon damage bonus, increasing the damage of your abilities with the Melee and Weapon keywords across all tier results. The Dancer kit has a +0/+1/+2 magic damage bonus, having no effect on tier 1 results, increasing the damage of tier 2 results by 1, and increasing the damage of tier 3 results by 2 for your magic abilities.
 
-### DISTANCE BONUS
+#### DISTANCE BONUS
 
 If you have a martial kit, its distance bonus increases the distance of your abilities with the Ranged and Weapon keywords.
 
@@ -4797,17 +4829,17 @@ If you have a caster kit, its distance bonus increases the distance of your abil
 
 A distance bonus doesn’t increase the size of any ability’s area of effect.
 
-### REACH BONUS
+#### REACH BONUS
 
 Your kit’s reach bonus is added to the reach of your melee weapon attacks.
 
-### AREA BONUS
+#### AREA BONUS
 
 Some caster kits have an area bonus. For all areas except walls, the bonus is added to all dimensions of any area of effect created by your magic abilities. For walls, the bonus is added to the number of squares the wall can create.
 
 For example, the conduit’s Thunder of the Divine ability has a 4-cube area of effect, so an area bonus of +1 increases the ability’s area of effect to a 5-cube.
 
-### MOBILITY
+#### MOBILITY
 
 Some martial kits grant you the Mobility trait. With this trait, when an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
@@ -4819,30 +4851,30 @@ Each kit grants you a signature ability, which already includes the kit’s bonu
 
 Each caster kit grants you a ward that is active as long as you are alive and not unconscious. This ward protects you from harm and can hinder your foes. The narrative details of how this ward manifests are up to you. A ward might be something anyone can notice, such as a glimmering field of energy that always surrounds you. Or it might be hidden from the senses of others until combat begins.
 
-### OPTIONAL RULE: LOSING EQUIPMENT
+#### OPTIONAL RULE: LOSING EQUIPMENT
 
-The rules of the game expect that heroes always have access to their equipment. However, there may be times where your group wants to tell a story of heroes who are captured and stripped of their equipment or who find themselves at a masquerade where weapons need to be checked at the door. For those sorts of scenarios, you can use the following rules:
-
-- If your kit has armor and you aren’t wearing or wielding it, then you lose your kit’s bonuses to Stamina and stability. If you lose your shield but keep the rest of your armor, your Stamina decreases by 3. As long as you are carrying your shield, you don’t lose its bonus to Stamina, even if you aren’t actively wielding it.
-- If your kit has a medium or heavy weapon that you aren’t wielding, you lose the kit’s melee damage bonus.
-- If your kit has a light weapon that you aren’t wielding, you lose the kit’s melee damage, ranged damage, and distance bonus.
-- If your kit has a reach weapon or whip that you aren’t wielding, you lose the kit’s melee damage and reach bonus.
-- If your kit has an ensnaring weapon that you aren’t wielding, you lose the kit’s signature ability.
-- If your kit has an implement that you aren’t wielding, you lose the kit’s speed, stability, distance, area, damage bonus, and ward.
+> The rules of the game expect that heroes always have access to their equipment. However, there may be times where your group wants to tell a story of heroes who are captured and stripped of their equipment or who find themselves at a masquerade where weapons need to be checked at the door. For those sorts of scenarios, you can use the following rules:
+> 
+> - If your kit has armor and you aren’t wearing or wielding it, then you lose your kit’s bonuses to Stamina and stability. If you lose your shield but keep the rest of your armor, your Stamina decreases by 3. As long as you are carrying your shield, you don’t lose its bonus to Stamina, even if you aren’t actively wielding it.
+> - If your kit has a medium or heavy weapon that you aren’t wielding, you lose the kit’s melee damage bonus.
+> - If your kit has a light weapon that you aren’t wielding, you lose the kit’s melee damage, ranged damage, and distance bonus.
+> - If your kit has a reach weapon or whip that you aren’t wielding, you lose the kit’s melee damage and reach bonus.
+> - If your kit has an ensnaring weapon that you aren’t wielding, you lose the kit’s signature ability.
+> - If your kit has an implement that you aren’t wielding, you lose the kit’s speed, stability, distance, area, damage bonus, and ward.
 
 ### MARTIAL KITS
 
 This section details a number of martial kits, whose bonuses and benefits are summarized in the Martial Kits table.
 
-### CLOAK AND DAGGER
+#### CLOAK AND DAGGER
 
 Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the Cloak and Dagger kit makes you more mobile while providing a boost to your effectiveness at range and to your damage. This kit is good for a hero who wants to be able to move all over the battlefield while keeping their options open for using short-range attacks.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear light armor and wield one or two light weapons.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stamina Bonus: +3
 - Speed Bonus: +2
@@ -4851,7 +4883,7 @@ You wear light armor and wield one or two light weapons.
 - Weapon Distance Bonus: +5
 - Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 **Fade**
 A stab, and a few quick, careful steps back.
@@ -4864,22 +4896,22 @@ A stab, and a few quick, careful steps back.
 - 12–16: 9 damage; you shift up to 2 squares
 - 17+: 13 damage; you shift up to 3 squares
 
-### GUISARMIER
+#### GUISARMIER
 
 The Guisarmier kit is for those who want to use a polearm for extended reach and still gain the extra protection of armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear medium armor and wield a polearm.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stamina Bonus: +6
 - Stability Bonus: +1
 - Melee Weapon Damage Bonus: +2/+2/+2
 - Reach Bonus: +1
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 **Forward Thrust, Backward Smash**
 In your hands, the haft is as good as the head.
@@ -4892,22 +4924,22 @@ In your hands, the haft is as good as the head.
 - 12–16: 6 damage
 - 17+: 8 damage
 
-### MARTIAL ARTIST
+#### MARTIAL ARTIST
 
 If you want to be fast in a fight, then Martial Artist is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes to opponents, and allows you to be the ultimate skirmisher.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear no armor and wield only your unarmed strikes.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stamina Bonus: +3
 - Speed Bonus: +3
 - Melee Weapon Damage Bonus: +2/+2/+2
 - Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 **Battle Grace**
 You feint to move your enemies into perfect position.
@@ -4921,21 +4953,21 @@ You feint to move your enemies into perfect position.
 - 17+: 12 damage; you swap places with the target, then slide the target 2 squares
 **Effect:** If you roll a 12 or better and can’t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage.
 
-### MOUNTAIN
+#### MOUNTAIN
 
 The Mountain kit does exactly what it says on the tin. You don heavy armor and a heavy weapon to stand strong against your foes, quickly demolishing them when it’s your turn to attack.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear heavy armor and wield a heavy weapon.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stamina Bonus: +9
 - Stability Bonus: +2
 - Melee Weapon Damage Bonus: +0/+0/+4
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 **Pain for Pain**
 An enemy who tagged you will pay for that.
@@ -4949,22 +4981,22 @@ An enemy who tagged you will pay for that.
 - 17+: 16 damage
 **Effect:** If the target dealt damage to you since the end of your last turn, this attack gains an edge.
 
-### PANTHER
+#### PANTHER
 
 If you want a good balance of protection, speed, and damage, the Panther kit is for you. This kit increases your Stamina not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear no armor and wield a heavy weapon.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stamina Bonus: +6
 - Speed Bonus: +1
 - Stability Bonus: +1
 - Melee Weapon Damage Bonus: +0/+0/+4
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 **Devastating Rush**
 The faster you move, the harder you hit.
@@ -4978,22 +5010,22 @@ The faster you move, the harder you hit.
 - 17+: 16 damage
 **Effect:** You can move up to 3 squares straight toward the target before this attack. You deal extra damage equal to the distance moved this way.
 
-### PUGILIST
+#### PUGILIST
 
 Meant for brawlers and boxers, the Pugilist kit gives you access to a melee fighting style that boosts your Stamina and damage while allowing you to float like a butterfly. If you want to be a tough, strong hero who doles out punishment with your fists, then this kit is for you.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear no armor and wield only your unarmed strikes.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stamina Bonus: +6
 - Speed Bonus: +2
 - Stability Bonus: +1
 - Melee Weapon Damage Bonus: +1/+1/+1
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 **Let's Dance**
 Keeping your enemies stumbling around the battlefield is second nature to you.
@@ -5007,15 +5039,15 @@ Keeping your enemies stumbling around the battlefield is second nature to you.
 - 17+: 13 damage; slide 2
 **Effect:** You can shift into any square your target leaves after you slide them.
 
-### RAIDER
+#### RAIDER
 
 The Raider kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear medium armor and wield a shield and a light weapon.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stamina Bonus: +9
 - Speed Bonus: +1
@@ -5023,7 +5055,7 @@ You wear medium armor and wield a shield and a light weapon.
 - Weapon Distance Bonus: +5
 - Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 **Shield Bash**
 In your hands, a shield isn’t just for protection.
@@ -5036,23 +5068,15 @@ In your hands, a shield isn’t just for protection.
 - 12–16: 8 damage; push 2
 - 17+: 11 damage; push 3; prone if the target is your size or smaller
 
-### RANGER
+#### RANGER
 
 The Ranger kit outfits you with light armor and several weapons, letting you easily switch between using a melee weapon and a bow. This kit provides a good balance of bonuses to Stamina, speed, damage, and range to create a hero who is a jack-of-all-trades.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear medium armor and wield a medium weapon and a bow.
 
-### RANGER
-
-The Ranger kit outfits you with light armor and several weapons, letting you easily switch between using a melee weapon and a bow. This kit provides a good balance of bonuses to Stamina, speed, damage, and range to create a hero who is a jack-of-all-trades.
-
-#### EQUIPMENT
-
-You wear medium armor and wield a medium weapon and a bow.
-
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stamina Bonus: +6
 - Speed Bonus: +1
@@ -5061,7 +5085,7 @@ You wear medium armor and wield a medium weapon and a bow.
 - Weapon Distance Bonus: +5
 - Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 **Hamstring Shot**
 A well-placed shot leaves your enemy struggling to move.
@@ -5074,15 +5098,15 @@ A well-placed shot leaves your enemy struggling to move.
 - 12–16: 7 damage; slowed (EoT)
 - 17+: 10 damage; slowed (EoE)
 
-### RAPID-FIRE
+#### RAPID-FIRE
 
 The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique focuses on peppering foes at medium range.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear light armor and wield a bow.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stamina Bonus: +3
 - Speed Bonus: +1
@@ -5090,7 +5114,7 @@ You wear light armor and wield a bow.
 - Weapon Distance Bonus: +7
 - Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 **Two Shot**
 When you fire two arrows back to back, both hit their mark.
@@ -5103,15 +5127,15 @@ When you fire two arrows back to back, both hit their mark.
 - 12–16: 6 damage
 - 17+: 7 damage
 
-### RETIARIUS
+#### RETIARIUS
 
 The retiarius is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear light armor, and wield a polearm and several ensnaring weapons.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stamina Bonus: +3
 - Speed Bonus: +1
@@ -5119,7 +5143,7 @@ You wear light armor, and wield a polearm and several ensnaring weapons.
 - Reach Bonus: +1
 - Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 **Net and Stab**
 The well-thrown net that follows your main attack leaves your foes right where you want them.
@@ -5132,21 +5156,21 @@ The well-thrown net that follows your main attack leaves your foes right where y
 - 12–16: 7 damage; slowed (EoT)
 - 17+: 10 damage; restrained (EoT)
 
-### SHINING ARMOR
+#### SHINING ARMOR
 
 The Shining Armor kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear heavy armor and wield a shield and a medium weapon.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stamina Bonus: +12
 - Stability Bonus: +1
 - Melee Weapon Damage Bonus: +2/+2/+2
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 **Protective Attack**
 The strength of your assault makes it impossible for your foe to ignore you.
@@ -5159,22 +5183,22 @@ The strength of your assault makes it impossible for your foe to ignore you.
 - 12–16: 9 damage; taunted (EoT)
 - 17+: 12 damage; taunted (EoT)
 
-### SNIPER
+#### SNIPER
 
 The Sniper kit gives you the tools and techniques to take down enemies from afar. This kit can help you become the archer who lurks behind trees or down tunnels, picking off enemies with a bow or crossbow as they approach.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear no armor and wield a bow.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Speed Bonus: +1
 - Ranged Weapon Damage Bonus: +0/+0/+4
 - Weapon Distance Bonus: +10
 - Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 **Patient Shot**
 Breathe… aim… wait… then strike!
@@ -5188,15 +5212,15 @@ Breathe… aim… wait… then strike!
 - 17+: 14 damage
 **Effect:** If you don’t take a move action this turn, you gain an edge on this attack.
 
-### STICK AND ROBE
+#### STICK AND ROBE
 
 Armed with a simple reach weapon, often a quarterstaff, heroes using the Stick and Robe kit are highly mobile thanks to their light armor. This allows them to make maximum use of their weapon’s length.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear light armor and wield a polearm.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stamina Bonus: +3
 - Speed Bonus: +2
@@ -5204,7 +5228,7 @@ You wear light armor and wield a polearm.
 - Reach Bonus: +1
 - Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 **Where I Want You**
 When your stick speaks, your enemy moves.
@@ -5217,22 +5241,22 @@ When your stick speaks, your enemy moves.
 - 12–16: 8 damage; slide 1
 - 17+: 11 damage; slide 3
 
-### SWASHBUCKLER
+#### SWASHBUCKLER
 
 If you want to be mobile and deal a lot of damage with melee attacks, then you should reach for the Swashbuckler kit. This is a great kit for heroes who want to be master duelists.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear light armor and wield a medium weapon.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stamina Bonus: +3
 - Speed Bonus: +3
 - Melee Weapon Damage Bonus: +2/+2/+2
 - Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 **Fancy Footwork**
 All combat is a dance—and you’ll be the one leading.
@@ -5246,22 +5270,22 @@ All combat is a dance—and you’ll be the one leading.
 - 17+: 14 damage; push 2
 **Effect:** You can shift into any square your target leaves after you force move them with this ability.
 
-### WHIRLWIND
+#### WHIRLWIND
 
 The Whirlwind kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a mobile warrior who uses a chain or whip, then this is the kit for you.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear no armor and wield a whip.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Speed Bonus: +3
 - Melee Weapon Damage Bonus: +1/+1/+1
 - Reach Bonus: +1
 - Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 **Extension of My Arm**
 When you draw your whip back after an attack, your enemy comes ever closer.
@@ -5274,7 +5298,7 @@ When you draw your whip back after an attack, your enemy comes ever closer.
 - 12–16: 8 damage; pull 1
 - 17+: 11 damage; pull 2
 
-### MARTIAL KITS
+#### MARTIAL KITS TABLE
 
 | Kit              | Armor          | Weapon             | Stamina | Speed | Stability | Melee Damage | Ranged Damage | Weapon Distance | Reach | Mobility |
 | ---------------- | -------------- | ------------------ | ------- | ----- | --------- | ------------ | ------------- | --------------- | ----- | -------- |
@@ -5294,71 +5318,63 @@ When you draw your whip back after an attack, your enemy comes ever closer.
 | Swashbuckler     | Light          | Medium             | +3      | +3    | —         | +2/+2/+2     | —             | —               | —     | Yes      |
 | Whirlwind        | None           | Whip               | —       | +3    | —         | +1/+1/+1     | —             | —               | +1    | Yes      |
 
-## CASTER KITS
+### CASTER KITS
 
 This section details a number of caster kits, whose bonuses and benefits are summarized in the Caster Kits table.
 
-### BLOODPACT
+#### BLOODPACT
 
 Sometimes you need a direct line to your heart to get the most of your magic. The Bloodpact kit trades your blood or lifeforce for more power and heightened casting. With careful control of your natural resources (or borrowing someone else’s), you can take care of business before succumbing to your own hubris. While using this kit, the smell of blood becomes super intense to your senses.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wield an implement of metal, such as a tome or a crown.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stamina Bonus: +6
 - Magic Damage Bonus: +2/+2/+2
 - Magic Distance Bonus: +5
 
-#### SIGNATURE ABILITY: DRAIN
+##### SIGNATURE ABILITY: DRAIN
 
 You drain the energy from your target and revitalize your senses.
 
 **Keywords**: Attack, Magic, Melee
-
 **Type**: Action
-
 **Distance**: Reach
-
 **Target**: 1 creature
-
 **Power Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 5 corruption damage
 - 12-16: 10 corruption damage
 - 17+: 14 corruption damage; you can spend 1 recovery to regain Stamina
 
-#### KIT WARD: BLOOD WARD
+##### KIT WARD: BLOOD WARD
 
 The blood ward is a large projection of your heart that magnifies the sound of your heartbeat. Whenever an ability lets you spend a Recovery, you can forgo regaining Stamina to instead increase your speed by 2 and have your abilities deal 2 extra corruption damage until the end of the encounter instead.
 
-### DANCER
+#### DANCER
 
 The Dancer kit forgoes nearly all equipment in exchange for speed, letting you rely purely on kinetic energy to channel your power. The more you move, the more others may want to move with you. Select this kit when your party regularly needs to close the distance on your enemies. While you use this kit, your heartbeat becomes an audible metronome.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You don a tiny implement of glass such as a pendant or an anklet.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Speed Bonus: +2
 - Magic Damage Bonus: +0/+1/+2
 
-#### SIGNATURE ABILITY: TARANTELLA VOLLEY
+##### SIGNATURE ABILITY: TARANTELLA VOLLEY
 
 Visible energy sparks off you to wash across a nearby foe, who you invite to dance with you.
 
 **Keywords**: Attack, Magic, Melee
-
 **Type**: Action
-
 **Distance**: Reach 2
-
 **Target**: 1 creature or object
-
 **Power Roll** + Agility, Intuition, or Presence:
 
 - 11 or lower: 2 damage
@@ -5366,115 +5382,103 @@ Visible energy sparks off you to wash across a nearby foe, who you invite to dan
 - 17+: 11 damage; you swap places with the target, and a hero within distance can shift up to 2 squares
 **Effect**: If you roll a 12 or better and can’t swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 2 extra damage.
 
-#### KIT WARD: WALTZING WARD
+##### KIT WARD: WALTZING WARD
 
 Your ward surrounds you with a soft, enchanting melody whose volume you control, and grants you the following benefits:
 
 - Whenever an enemy ends their turn adjacent to you, you can shift 2 squares as a free triggered action.
 - Whenever a creature damages you with a melee ability, you can slide them a number of squares equal to your highest characteristic score.
 
-### FRIGID
+#### FRIGID
 
 The Frigid kit is for heroes who want to tap into the power of arcane blizzards and magical cold. Armed only with an implement of crystal, you can create bursts of ice and protect yourself with frigid winds. When you meditate to prepare this kit, others notice the area around you becoming slightly cooler.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wield an implement of crystal, such as a staff or a wand.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stamina Bonus: +3
 - Magic Distance Bonus: +7
 - Magic Area Bonus: +1
 
-#### SIGNATURE ABILITY: FROZEN EXPLOSION
+##### SIGNATURE ABILITY: FROZEN EXPLOSION
 
 You unleash a blast of frigid air to freeze and hinder your foes.
 
 **Keywords**: Area, Magic, Ranged
-
 **Type**: Action
-
 **Distance**: 3 cube within 12
-
 **Target**: All enemies
-
 **Power Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 2 cold damage
 - 12–16: 3 cold damage; slowed (EoT)
 - 17+: 4 cold damage; slowed (EoE)
 
-#### KIT WARD: ICE ARMOR
+##### KIT WARD: ICE ARMOR
 
 Your ward covers your body in ice, and grants you the following benefits:
 
 - You have cold immunity and fire immunity equal to your highest characteristic score.
 - When a creature damages you with a melee ability, they take cold damage equal to your highest characteristic score.
 
-### MEDITATOR
+#### MEDITATOR
 
 The Meditator kit allows you to wield magic hardened by experience and isolation. Your spirit visibly extends beyond your physical form in the form of moss, spores, and pulsing aura of light. While using this kit, you tend to skip meals and ignore inclement weather.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear light armor and wield an implement of bone such as a staff or a skull.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stamina Bonus: +9
 - Speed Bonus: +1
 
-#### SIGNATURE ABILITY: BOUNTIFUL DECAY
+##### SIGNATURE ABILITY: BOUNTIFUL DECAY
 
 Your curse causes a foe’s flesh to rot off as spores that aid your allies.
 
 **Keywords**: Attack, Magic, Ranged
-
 **Type**: Action
-
 **Distance**: Ranged 5
-
 **Target**: 1 creature
-
 **Power Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 2 corruption damage; a hero within distance can make a resistance roll to end an effect
 - 12–16: 6 corruption damage; a hero within distance can make a resistance roll to end an effect
 - 17+: 9 corruption damage; a hero within distance who is affected by an “(EoT)” or “(resistance ends)” effect has the effect end
 
-#### KIT WARD: SPIRIT WARD
+##### KIT WARD: SPIRIT WARD
 
 Your spirit overflows and warms the area around you. It grants you the following benefits:
 
 - You gain an edge on resistance rolls.
 - Whenever an enemy damages you with a melee ability, you deal corruption damage to that enemy equal to your highest characteristic score.
 
-### MISSILE
+#### MISSILE
 
 The Missile kit allows you to throw your implement at your foes, then recall it back to you. Enemies impacted by this concentration of magic are left reeling while you stand safely out of their reach. When you use this kit, your competitive nature is more pronounced, and you wield your implement recklessly.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wield an implement of wood such as an orb or a hooked rod.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Magic Damage Bonus: +0/+1/+2
 - Magic Distance Bonus: +10
 
-#### SIGNATURE ABILITY: SPIKE!
+##### SIGNATURE ABILITY: SPIKE!
 
 You lob your implement at high speed toward your opponent, unleashing a chaotic flare of magic.
 
 **Keywords**: Attack, Magic, Ranged
-
 **Type**: Action
-
 **Distance**: Ranged 15
-
 **Target**: 1 creature or object
-
 **Power Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 2 fire damage
@@ -5482,161 +5486,147 @@ You lob your implement at high speed toward your opponent, unleashing a chaotic 
 - 17+: 11 lightning damage
 **Effect**: If your Magic Eye Ward is locked onto the target, you can target them with this ability regardless of the distance as long as you have line of effect to them, and this ability deals additional damage equal to your highest characteristic.
 
-#### KIT WARD: MAGIC EYE WARD
+##### KIT WARD: MAGIC EYE WARD
 
 Your ward wraps itself around your head and shields your eyes, granting you the following benefits:
 
 - You have Ranged immunity equal to your highest characteristic score.
 - Whenever an enemy within 15 squares of you damages you with a ranged ability, your ward locks onto them until the end of the encounter.
 
-### NATURE CALLING
+#### NATURE CALLING
 
 The Nature Calling kit allows you to tap into the magical forces of nature. You wield an implement of stone so that your feet stand firm on the earth and your magic can be carried by the wind. While using this kit, you can faintly hear the whispers of the land around you.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wield an implement of stone, such as a club or a crown.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stability Bonus: +2
 - Magic Distance Bonus: +7
 
-#### SIGNATURE ABILITY: LIGHTNING SPARK
+##### SIGNATURE ABILITY: LIGHTNING SPARK
 
 You call forth a small bolt of lightning, then hurl it at your foe.
 
 **Keywords**: Attack, Magic, Ranged
-
 **Type**: Action
-
 **Distance**: Ranged 12
-
 **Target**: 1 creature or object
-
 **Power Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 2 lightning damage
 - 12–16: 6 damage; the target takes a bane on their next power roll
 - 17+: 9 damage; the target has a double bane on their next power roll
 
-#### KIT WARD: VINE WARD
+##### KIT WARD: VINE WARD
 
 Your ward surrounds you with protective animal spirits, and grants you the following benefits:
 
 - The area within 2 squares of you is difficult terrain for your enemies.
 - Whenever an enemy within 12 squares of you damages you with a ranged ability, you can either shift towards them or pull them a number of squares equal to your highest characteristic score.
 
-### ROOK
+#### ROOK
 
 The Rook kit allows you to use strong armor so you can be better protected while you heal and enhance your allies on the frontline. Heroes with this kit often dive into support magic. While using this kit, your armor resonates with the sounds of choirs from on high as you polish it.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear heavy armor and wield an implement of bone, such as a scepter or a staff.
 
-#### KIT BONUS
+##### KIT BONUS
 
 - Stamina Bonus: +12
 
-#### SIGNATURE ABILITY: BLESSED LIGHT
+##### SIGNATURE ABILITY: BLESSED LIGHT
 
 Burning radiance falls upon your foe, outlining them with a holy glow.
 
 **Keywords**: Attack, Magic, Ranged
-
 **Type**: Action
-
 **Distance**: Ranged 5
-
 **Target**: 1 creature or object
-
 **Power Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 2 holy damage; the next attack against the target has an edge
 - 12–16: 6 holy damage; the next attack against the target has an edge
 - 17+: 9 holy damage; the next attack against the target has a double edge
 
-#### KIT WARD: CASTLE GUARD
+##### KIT WARD: CASTLE GUARD
 
 Your armor is reinforced by a bright ward of holy energy, and grants you the following benefits:
 
 - Allies within 2 squares of you have their stability increased by 1.
 - Whenever an enemy damages you with a melee ability, you or an ally within 2 can shift 2 as a free triggered action.
 
-### SPELLSLINGER
+#### SPELLSLINGER
 
 The Spellslinger kit is for those who want to focus magic on their foes from far away, becoming a magical blaster surrounded by rippling energy. While using this kit, you can faintly see auras of energy emanating from far-off creatures.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wield an implement of metal, such as a knife or a scepter.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Speed Bonus: +1
 - Magical Damage Bonus: +1/+1/+1
 - Magic Distance Bonus: +5
 
-#### SIGNATURE ABILITY: SPLIT BEAM
+##### SIGNATURE ABILITY: SPLIT BEAM
 
 Two beams of supernatural force lance out at your command.
 
 **Keywords**: Attack, Magic, Ranged
-
 **Type**: Action
-
 **Distance**: Ranged 10
-
 **Target**: 2 creatures or objects
-
 **Power Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 3 damage
 - 12–16: 5 damage
 - 17+: 6 damage
 
-#### KIT WARD: INVIGORATING WARD
+##### KIT WARD: INVIGORATING WARD
 
 Your ward surrounds you with crackling energy.
 
 Whenever you take damage, you gain a bonus to damage equal to your highest characteristic score, which you apply to the next damage-dealing magic ability you use before the end of the encounter. This benefit is cumulative, so that you can accrue bonus damage multiple times, then expend it all on one use of an ability.
 
-### WARD WEAVER
+#### WARD WEAVER
 
 The Ward Weaver kit allows you to protect yourself in combat with telekinetic techniques that also boost your damage. This kit creates a supernatural hero who can more effectively ward themself and their allies. While you use this kit, you occasionally take on the mannerisms of your allies without realizing it.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wield an implement of stone such as a wand or pendant.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - Stamina Bonus: +6
 - Stability Bonus: +1
 - Magic Distance: +5
 
-#### SIGNATURE ABILITY: ENERGY SIPHON
+##### SIGNATURE ABILITY: ENERGY SIPHON
 
 Absorbing psychic energy from another creature lets you shield yourself within it.
 
 **Keywords**: Attack, Magic, Ranged
-
 **Type**: Action
-
 **Distance**: Ranged 10
-
 **Target**: 1 creature
-
 **Power Roll** + Intuition:
 
 - 11 or lower: 2 psychic damage; you gain damage immunity 1 until the end of your next turn
 - 12–16: 6 psychic damage; you gain damage immunity 3 until the end of your next turn
 - 17+: 9 psychic damage; you gain damage immunity 5 until the end of your next turn
 
-#### KIT WARD: REPULSIVE WARD
+##### KIT WARD: REPULSIVE WARD
 
 You have an invisible ward of magical force that extends 2 squares from you in all directions. When you or an ally within the area of your ward take damage from another creature’s melee ability, you can push that creature a number of squares equal to your highest characteristic score.
+
+#### CASTER KIT TABLE
 
 | Caster Kits    | Kit Armor | Implement | Stamina | Speed | Stability | Magical Damage | Magic Distance | Area |
 | -------------- | --------- | --------- | ------- | ----- | --------- | -------------- | -------------- | ---- |
@@ -5650,31 +5640,31 @@ You have an invisible ward of magical force that extends 2 squares from you in a
 | Spellslinger   | None      | Metal     | —       | +1    | —         | +1/+1/+1       | +5             | —    |
 | Ward Weaver    | None      | Bone      | +6      | —     | +1        | —              | +5             | —    |
 
-# COMPLICATIONS
+## COMPLICATIONS
 
 Beyond your abilities and features, your hero might have something else that makes them … unusual. Perhaps you have an earth elemental living in your body. Or you might wield a magic sword that devastates enemies but feeds on your own vitality.
 
 A complication is an optional feature you can take to enrich your hero’s backstory, with any complication providing you both a positive benefit and a negative drawback. Because complications are optional, check with your Director before taking one.
 
-## BENEFIT AND DRAWBACK
+### BENEFIT AND DRAWBACK
 
 Your complication gives your hero both a benefit and a drawback. Some of these benefits and drawbacks are mechanical, while others are narrative. The benefit and drawback of a complication makes your connection to the game deeper and more interesting, and provides hooks to let the Director better draw your hero into the campaign’s story.
 
 Not all complication benefits and drawbacks are created equal, but each benefit is balanced by its drawback. If you have a powerful positive side to your complication, be prepared to have an equally influential bit of negative backstory as well.
 
-## MODIFYING THE STORY
+### MODIFYING THE STORY
 
 You can modify the narrative of a complication to better fit with your vision of your character’s backstory—or change it entirely. For instance, if you choose Devil Deal as a complication, you can have your hero instead make that deal with an archfey or an undead general!
 
 Many of the details of each complication are purposefully left vague, so that you can connect it to the rest of your backstory. If your complication took place during “an attack” or “an accident,” you decide the specific details of who or what attacked you, or what type of accident befell you.
 
-## DETERMINE COMPLICATION
+### DETERMINE COMPLICATION
 
 You can choose your character’s complication, or you can roll on the Complications table.
 
 (Playtest note: More complications are coming.)
 
-### CULT VICTIM
+#### CULT VICTIM
 
 Cultists captured you while raiding your home, then began an unholy ritual to turn your body into an undead spirit. The ritual failed, but your body became infused with corrupted magic, turning you partially incorporeal.
 
@@ -5753,7 +5743,7 @@ Being in the wrong place at the wrong time saw you caught in the middle of a con
 
 **Drawback**: The faction you wronged hates you, and its members would love to see you pay for your transgression.
 
-### COMPLICATIONS
+#### COMPLICATIONS TABLE
 
 | d10 | Complication         |
 | --- | -------------------- |
@@ -5768,7 +5758,7 @@ Being in the wrong place at the wrong time saw you caught in the middle of a con
 | 9   | Ward                 |
 | 10  | War of the Guilds    |
 
-# TESTS
+## TESTS
 
 When you want your hero to rifle through a desk and locate a specific document, scale a castle wall, negotiate a treaty with a monarch, or undertake any other activity with a chance of failure, you’ll need to make a test to determine how successful you are on the task. A test is any power roll that has failure as an option.
 
@@ -5778,7 +5768,7 @@ The Director should ask a player to make a test only when the player’s hero at
 
 The advancement of a story shouldn’t be halted by failing a test. For instance, the heroes might need to know the color of a dwarf king’s crown to solve a puzzle, with that puzzle opening the only entrance to a tomb they must enter to stop a world-ending ritual. It could be that a successful Reason test allows the heroes to recall that lore, but the test shouldn’t be their only option to get the information. If the test fails, perhaps the heroes need to go to a flying library to do research, or they might be able to delve into a ruin to find the ancient monarch’s portrait. A failed test should always result in a story becoming more interesting, not in the action coming to an end.
 
-### IT JUST WORKS!
+#### IT JUST WORKS!
 
 When a hero attempts to solve a task that normally requires a test with clever, outside-the-box thinking, the Director can instead decide that no test is required and the attempt automatically works! For example, if a hero who wants to climb a wall first covers their hands and feet in giant strands of sticky spider webs, the Director might decide that they can climb up the wall without needing to make a test.
 
@@ -5792,47 +5782,47 @@ Each test has the following steps:
 - The player makes the power roll. If the character has a skill that applies to the test (see Skills), they gain a +2 bonus to the roll.
 - The player reports the result, and the Director interprets the success or failure of the roll.
 
-### CHARACTERISTICS AND TESTS
+#### CHARACTERISTICS AND TESTS
 
 When you describe a task you want your hero to undertake and the Director determines that a test is necessary, they then determine which characteristic the test uses based on the nature of the task. For instance, if you’re scaling a wall, the Director could ask for a Might test to determine how far and how quickly you’re able to climb. If you’re attempting to plead your innocence in court for a murder you didn’t commit, the Director might ask for a Presence test if you’re attempting to win over the jury with your personality, or a Reason test if you’re laying out a logical argument to support your innocence.
 
 Though the Director can decide to call for tests in any circumstances, a number of tasks that heroes routinely undertake are commonly set up as tests.
 
-#### MIGHT TESTS
+##### MIGHT TESTS
 
 You make a Might test whenever a risky task calls for the use of physical strength. Might tests are most often used for breaking down doors and other structures, hurling heavy objects, pulling your body up a sheer wall, swimming against a mighty current, and other feats of physical power.
 
-#### AGILITY TESTS
+##### AGILITY TESTS
 
 You make an Agility test whenever a risky task calls for the use of your physical coordination and nimbleness. Agility tests are most often used for tumbling, sneaking, picking locks, and engaging in sleight of hand.
 
-#### REASON TESTS
+##### REASON TESTS
 
 You make a Reason test whenever you attempt a risky task that requires the use of your mental acumen and education, formal or otherwise. Reason tests are most often used to recall lore, deduce information based on clues, complete a puzzle, forge counterfeit items or documents, break a code, convince others of a logical argument, or make an estimation.
 
-#### INTUITION TESTS
+##### INTUITION TESTS
 
 You make an Intuition test whenever you attempt a risky task that requires the use of your powers of observation and instinct. Intuition tests are most often used to notice hidden creatures or details, discern another person’s motivations or honesty, calm and reassure others, and train animals.
 
-#### PRESENCE TESTS
+##### PRESENCE TESTS
 
 You make a Presence test whenever you attempt a risky task that requires the use of your force of personality. Presence tests are most often used to gain trust, project confidence, and influence and lead other creatures.
 
-## INFLUENCING PLAYER CHARACTER ACTIONS WITH TESTS
+#### INFLUENCING PLAYER CHARACTER ACTIONS WITH TESTS
 
-Tests can’t be used by NPCs or PCs to influence the actions of PCs. Many players feel that their agency is taken away if they’re compelled to jump into a pile of gold filled with hidden scorpions because an NPC convinced them to do so with a Presence test. For most players, it’s not fun to be in control of a single hero and lose some of that control.
+> Tests can’t be used by NPCs or PCs to influence the actions of PCs. Many players feel that their agency is taken away if they’re compelled to jump into a pile of gold filled with hidden scorpions because an NPC convinced them to do so with a Presence test. For most players, it’s not fun to be in control of a single hero and lose some of that control.
+> 
+> Instead, Directors should do their level best to have an NPC suggest that a character dive headlong into the gold like a billionaire duck, then let the player decide what their character does. Similarly, a Director might decide that one player character can’t make an Intuition test to discern another PC’s motivations or honesty.
+> 
+> That said, if everyone in your gaming group decides to lift one or more of these restrictions after talking about it, go for it! There’s no wrong way to play as long as everyone is having fun. The MCDM Safety Toolkit (available for download at [https://mcdm.gg/SafetyToolkit](https://mcdm.gg/SafetyToolkit)) discusses how to talk about potentially problematic topics such as limiting character agency at your table.
 
-Instead, Directors should do their level best to have an NPC suggest that a character dive headlong into the gold like a billionaire duck, then let the player decide what their character does. Similarly, a Director might decide that one player character can’t make an Intuition test to discern another PC’s motivations or honesty.
-
-That said, if everyone in your gaming group decides to lift one or more of these restrictions after talking about it, go for it! There’s no wrong way to play as long as everyone is having fun. The MCDM Safety Toolkit (available for download at [https://mcdm.gg/SafetyToolkit](https://mcdm.gg/SafetyToolkit)) discusses how to talk about potentially problematic topics such as limiting character agency at your table.
-
-### TEST DIFFICULTY
+#### TEST DIFFICULTY
 
 The Director decides how difficult a task that requires a test is: easy, medium, or hard. If a task seems as though it’s easier than easy, then no test is necessary. The hero simply accomplishes the task. If the task seems harder than hard, then the Director is free to decide that it’s impossible to complete with a test.
 
 On a test-by-test basis, the Director can share the difficulty of a task before the player makes the test, which makes interpreting the result faster at the table. The Director can also keep the test’s difficulty secret until after the player rolls the test, for dramatic effect.
 
-#### EASY TESTS
+##### EASY TESTS
 
 An easy test has some risk of failure, but most heroes will likely overcome it. The power roll you make for an easy test determines the outcome (see Test Outcomes):
 
@@ -5840,7 +5830,7 @@ An easy test has some risk of failure, but most heroes will likely overcome it. 
 - 12–16: You succeed on the task.
 - 17+: You succeed on the task with a reward.
 
-#### MEDIUM TESTS
+##### MEDIUM TESTS
 
 A medium test has some risk of failure that most heroes will likely overcome—but with a cost. The power roll you make for a medium test determines the outcome:
 
@@ -5848,7 +5838,7 @@ A medium test has some risk of failure that most heroes will likely overcome—b
 - 12–16: You succeed on the task and incur a consequence.
 - 17+: You succeed on the task.
 
-#### HARD TESTS
+##### HARD TESTS
 
 A hard test has a greater risk of failure, and most heroes are likely to suffer some hardship while trying to overcome the intended task. The power roll you make for a hard test determines the outcome:
 
@@ -5856,15 +5846,15 @@ A hard test has a greater risk of failure, and most heroes are likely to suffer 
 - 12–16: You fail the task.
 - 17+: You succeed on the task.
 
-#### NATURAL 19 OR 20: SUCCESS WITH A REWARD
+##### NATURAL 19 OR 20: SUCCESS WITH A REWARD
 
 When you get a natural 19 or 20 on a test’s power roll, you succeed on the task with a reward, even if the test has a medium or hard difficulty.
 
-### TEST OUTCOMES
+#### TEST OUTCOMES
 
 Depending on a test’s difficulty and the result of the power roll made to accomplish a task, you can obtain one of the following outcomes.
 
-#### FAILURE WITH A CONSEQUENCE
+##### FAILURE WITH A CONSEQUENCE
 
 If you fail a test and incur a consequence, you don’t do what you set out to do—in addition to which, you suffer an impactful setback. The Director determines the exact nature of the consequence, which is typically related to the specific task. For instance, if a hero suffers a consequence while trying to climb a wall, they might make it halfway up the wall and then fall, taking damage and landing prone. A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to arrest the hero or lead them into a trap. If a hero suffers a consequence on a Reason test made to recall lore about the king’s favorite meal, they might confuse it for a dish to which the monarch is deathly allergic.
 
@@ -5881,13 +5871,13 @@ Common consequences for failing a test include the following:
 
 In lieu of other consequences, the Director has the option to gain 2 additional Villain Power (VP), a resource their creatures use in combat, at the start of the next combat encounter.
 
-### FAILURE
+##### FAILURE
 
 If you fail a test without incurring a consequence, you simply don’t do what you set out to do. If you’re attempting to climb a wall, you find no purchase. If you’re attempting to recall lore, you can’t remember the desired facts. If you’re attempting to bribe a guard, they don’t take the bait.
 
 When you get this result, the Director can decide that there might still be a small penalty for failure, depending on the circumstances of the test. This penalty shouldn’t be as harsh as rolling a failure with a consequence, though. For instance, a hero who gets this result on an Agility test made to sneak by a group of cultists might draw the attention of one cultist with their failure. Now that cultist is coming to investigate, but they haven’t raised the alarm… yet.
 
-### SUCCESS WITH A CONSEQUENCE
+##### SUCCESS WITH A CONSEQUENCE
 
 If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. You might succeed in climbing up a wall, but the surface of the wall crumbles and becomes unstable as you do, making the climb more difficult for the ally ascending after you. When trying to sneak by a cultist, you successfully do so, but you leave footprints or other evidence of trespassing behind that someone will eventually find. If you attempt to bribe a guard to let you sneak into a prison, the guard lets you in—but then demands that you hand over a gemstone you need for an important crafting project before they let you out.
 
@@ -5895,11 +5885,11 @@ Just like failure with a consequence, the consequences accompanying success don�
 
 Sometimes when a hero rolls a failure without a consequence, the Director can offer to let them succeed with a consequence. Likewise, a hero who rolls a success with a consequence might be given a chance to fail without a consequence if doing so is the better option. For instance, when a hero rolls a 10 on an easy Might test to break down a locked door, that’s a failure. But the Director could offer the player the choice of either not breaking down the door, or breaking down the door and losing 1d6 Stamina as they get injured in the effort.
 
-### SUCCESS
+##### SUCCESS
 
 If you succeed on a test without consequence or reward, you simply achieve whatever you set out to do. You climb that wall, sneak by those cultists, or bribe that guard just like you planned it. Smooth.
 
-### SUCCESS WITH A REWARD
+##### SUCCESS WITH A REWARD
 
 If you succeed on a test with a reward, you accomplish whatever you set out to do. But you also gain a little something extra, in the form of momentum or luck that makes the immediate future easier for you or your friends. The Director determines your reward, which is most often related to the task at hand. For instance, if you succeed with a reward while climbing a wall, you might find a ladder at the top that you can lower so any allies climbing after you can do so without needing to make a test. A hero trying to sneak by cultists who succeeds with a reward might then be able to dose the cultists’ nearby water barrel with sleeping poison as they pass by unseen. Succeeding with a reward while bribing a prison guard could mean that the guard will unlock a door for you in addition to forgetting you were ever there.
 
@@ -5916,19 +5906,19 @@ Some common rewards accompanying success on a test include the following:
 
 In lieu of other rewards, the Director can also decide that a hero who succeeds on a test with a reward earns the players a hero token (see Hero Tokens).
 
-### OPTION: LET PLAYERS PITCH CONSEQUENCES AND REWARDS
+##### OPTION: LET PLAYERS PITCH CONSEQUENCES AND REWARDS
 
-Coming up with consequences and rewards for tests can be a big part of the fun for many Directors, but even the best of us occasionally run low on ideas. That’s why the game gives the default option of consequences and rewards in the form of Villain Power and hero tokens. However, if you’re a Director who prefers narrative consequences and rewards, consider asking the players to pitch you different consequences and rewards when they make a test. You can reject, add to, or modify their ideas as you see fit. Players who take this option should understand that they need to pitch real consequences when they suffer one, and not minor rewards disguised as consequences.
+> Coming up with consequences and rewards for tests can be a big part of the fun for many Directors, but even the best of us occasionally run low on ideas. That’s why the game gives the default option of consequences and rewards in the form of Villain Power and hero tokens. However, if you’re a Director who prefers narrative consequences and rewards, consider asking the players to pitch you different consequences and rewards when they make a test. You can reject, add to, or modify their ideas as you see fit. Players who take this option should understand that they need to pitch real consequences when they suffer one, and not minor rewards disguised as consequences.
 
-### HOW LONG DOES IT TAKE?
+#### HOW LONG DOES IT TAKE?
 
 The amount of time required for a task involving a test is determined by the Director. A task such as recalling lore with a Reason test might take no time at all. Ducking behind a barrel to hide with an Agility test might require a maneuver or an action, while tracking a band of voiceless talkers through the World Below could take hours or even days.
 
-## TESTS DURING COMBAT
+##### TESTS DURING COMBAT
 
 Many (but not all) tests that a hero might make during combat are made as maneuvers. See *Make a Test in Maneuvers* for more information.
 
-### CAN I TRY AGAIN?
+#### CAN I TRY AGAIN?
 
 In many cases when you fail a test, you can’t attempt the test again unless the circumstances of the test change. For instance, if you attempt an Agility test to pick a lock and fail, you can’t attempt to pick the lock again unless you get some better lockpicks, oil the lock, have someone demonstrate how to pick a similar lock, and so on.
 
@@ -5948,7 +5938,7 @@ To quickly assess the difficulty of a task and the test made to attempt it, the 
 
 The failure consequences of opposed actions are some of the easiest to create on the fly. Fail to hide from someone, and they see you. Fail to lie to someone, and they catch your duplicity. Fail to arm wrestle someone for a free ale, and you’re picking up the tab. The consequence is that the opposition bests the hero.
 
-### NPCS ROLL FOR DECEPTIVE TASKS
+#### NPCS ROLL FOR DECEPTIVE TASKS
 
 At times, a hero and an NPC might oppose each other in a scenario where the Director chooses for the NPC to make a test instead of a player. This occurs when an NPC undertakes an action the heroes aren’t aware of or aren’t seeking actively to notice. By having the NPC roll in these scenarios, the Director can keep secret the fact that the task is happening, as well as its outcome.
 
@@ -5960,7 +5950,7 @@ The difficulty of the NPC’s test can be modified by the skills and characteris
 
 As an optional rule, the Director is also free to ask the heroes to make a reactive test to a deceptive NPC action instead (see *Reactive Tests*) whenever they see fit.
 
-### OPTIONAL RULE: OPPOSED POWER ROLLS
+#### OPTIONAL RULE: OPPOSED POWER ROLLS
 
 In the very rare occurrence that two or more heroes are in conflict with each other in a way that requires them to make tests, the Director can have all the heroes involved make a test. The hero with the highest result on their power roll wins. You can’t earn a reward as part of these opposed power rolls, and they don’t follow the typical difficulty structure or have three different tiers of possible outcomes.
 
@@ -5970,7 +5960,7 @@ In the event of a tie in an opposed test, the state of the scene doesn’t chang
 
 The Director can also use opposed power rolls when heroes face off against important NPCs using tests.
 
-## REACTIVE TESTS
+### REACTIVE TESTS
 
 At certain times when a hero isn’t engaged in overcoming a task, the Director might ask the player of the hero to make a test without context, explaining the test only after the power roll is made. This often happens when a hero has a chance of knowing or noticing something of significance that the player doesn’t know to look for or ask about.
 
@@ -5981,29 +5971,29 @@ Reactive tests are typically made in the following circumstances, though the Dir
 - **Hidden Motives**: The Director can ask for an Intuition test during a conversation to gauge how well a hero can read an NPC, judging whether they’re lying, withholding information, or concealing an emotional response. (The Director could also use the rules in *NPCs Roll for Deceptive Tasks*.)
 - **Recall Lore**: The Director might ask a hero to make a Reason test when dealing with a new object, a piece of information, or an event to see what history or details the hero might already know about it.
 
-### DIRECTOR’S OPTION: SECRET REACTIVE TESTS
+##### DIRECTOR’S OPTION: SECRET REACTIVE TESTS
 
 Some Directors prefer to make the power rolls for reactive tests for the heroes rather than asking the players to do so. This allows the Director to make the rolls when appropriate for hidden objects, creatures, motivations, and information without tipping off the players that there is information to be gained. Having the Director roll requires the Director to have everyone’s characteristics and skills written down (whether physically or digitally) for easy reference.
 
-## SKILLS
+### SKILLS
 
 (Playtest note: Currently, some skills are more useful than others. This is likely going to be the case for a while, since the game isn’t completed yet. There are also certain skills that will always be more useful in a particular type of campaign. This is called out in the “Are All Skills Equal?” sidebar.)
 
 Skills represent the different specializations a hero has outside of attacking, defending, and using their ancestry features, class features, and equipment. Whenever you make a test, having a particular skill associated with the test increases your chance of success.
 
-### APPLYING SKILLS
+#### APPLYING SKILLS
 
 If you have a skill that applies to a test you make, you gain a +2 bonus to the test. For instance, if your hero has the Hide skill, you have a +2 bonus to any test you make that involves hiding yourself. This might include an Agility test to hide behind a barrel, or a Presence test to disappear into a crowd.
 
 Unless the Director deems otherwise, you can make a skill test even when you don’t have the appropriate skill. This means you simply make the test using the typical characteristic but without the +2 bonus the skill grants. You can’t apply more than one skill to a test.
 
-### MIXING CHARACTERISTICS AND SKILLS
+##### MIXING CHARACTERISTICS AND SKILLS
 
 The bonuses from characteristics and the +2 from skills are separate and can apply to the same roll. Although certain skills are often paired with one characteristic more than others, a skill can apply to any characteristic test that makes sense. The Director has the final say on which characteristic is used to complete a task and can call for a different characteristic based on the circumstances.
 
 For example, intimidating someone with a purely verbal threat is a Presence test. But if a player describes their character tearing a log in half with their bare hands to intimidate a foe, the Director is likely to call for a Might test instead. The Intimidate skill applies to both tests. In the same way, scaling the side of a building is covered by a Might test, but if a hero does a series of leaps from one balcony to another to reach a roof, the Director could call for an Agility test instead. The Climb skill applies to both of these tests.
 
-### MANY SPECIFIC SKILLS
+#### MANY SPECIFIC SKILLS
 
 This game includes a big list of skills, and each is fairly specific. For example, instead of one Athletics skill that covers climbing, jumping, swimming, and lifting heavy objects, your character might use separate Climb, Jump, Lift, and Swim skills. Instead of a Thievery skill that covers picking locks, picking pockets, and disabling traps, the game has three skills: Pick Lock, Pick Pocket, and Sabotage.
 
@@ -6013,15 +6003,15 @@ Since players don’t need to be worried about their characters covering a wide 
 
 Our rules for skills allow for them to be flexibly applied to any test that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, “I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my Climb skill to get a +2 bonus to my Presence test?” That’s great! Getting creative like that is a lot of fun. It paints a visual picture and it’s tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, that sometimes encourages players to find a way to apply the same skill over and over again with as many tests as possible. This isn’t fun for anyone, and doesn’t make a very compelling story.
 
-## SKILL GROUPS
+#### SKILL GROUPS
 
 Skills are broken down into five groups: crafting, exploration, interpersonal, intrigue, and lore.
 
-### FOR THE DIRECTOR: MAKE YOUR OWN SKILLS
+##### FOR THE DIRECTOR: MAKE YOUR OWN SKILLS
 
-Directors should feel free to make their own skills that they feel are relevant and useful to their campaigns and adventures. For instance, the game doesn’t have a Brewing skill for brewing ale or a Painting skill for making art because those aren’t tasks that typically come up or require a test in a game about fighting monsters and saving the world. However, a Director could decide that their campaign involves poisoned barrels of ale and large amounts of counterfeit art, and that adding these two new skills to the game would make it more fun for the players. The Director simply needs to pick a group for these new skills—in this case, crafting makes sense. They then let the players know that they can swap out any crafting skill they have for these new skills.
+> Directors should feel free to make their own skills that they feel are relevant and useful to their campaigns and adventures. For instance, the game doesn’t have a Brewing skill for brewing ale or a Painting skill for making art because those aren’t tasks that typically come up or require a test in a game about fighting monsters and saving the world. However, a Director could decide that their campaign involves poisoned barrels of ale and large amounts of counterfeit art, and that adding these two new skills to the game would make it more fun for the players. The Director simply needs to pick a group for these new skills—in this case, crafting makes sense. They then let the players know that they can swap out any crafting skill they have for these new skills.
 
-### CRAFTING SKILLS
+##### CRAFTING SKILLS
 
 Skills from the crafting skill group are used in the creation and appraisal of goods and for jury-rigging contraptions. They are especially useful during rests and downtime.
 
@@ -6029,7 +6019,7 @@ Rewards for tests made with crafting skills typically include having leftover ra
 
 Failure consequences for tests made with crafting skills typically include wasting rare materials used in the creation process, greatly overestimating or underestimating an item’s value, and poorly jury-rigging a contraption so that it harms people (or at least the wrong people).
 
-#### CRAFTING SKILLS TABLE
+###### CRAFTING SKILLS TABLE
 
 | Skill         | Use                                                |
 | ------------- | -------------------------------------------------- |
@@ -6042,7 +6032,7 @@ Failure consequences for tests made with crafting skills typically include wasti
 | Mechanics     | Build machines and clockwork items                 |
 | Tailoring     | Craft cloth and leather clothing                   |
 
-### EXPLORATION SKILLS
+##### EXPLORATION SKILLS
 
 Skills from the exploration skill group are used to physically explore the environment around the characters and to overcome physical obstacles.
 
@@ -6050,7 +6040,7 @@ Rewards for tests made with exploration skills typically include helping another
 
 Failure consequences for tests made with exploration skills include harming yourself, your gear, or your allies, becoming lost, or stumbling headlong into a hazard or a place you were trying to avoid.
 
-#### EXPLORATION SKILLS TABLE
+###### EXPLORATION SKILLS TABLE
 
 | Skill      | Use                                                         |
 | ---------- | ----------------------------------------------------------- |
@@ -6065,7 +6055,7 @@ Failure consequences for tests made with exploration skills include harming your
 | Ride       | Ride and control a mount who isn’t sapient, such as a horse |
 | Swim       | Move through deep liquid                                    |
 
-### INTERPERSONAL SKILLS
+##### INTERPERSONAL SKILLS
 
 Skills from the interpersonal skill group are used to socially interact with other creatures and are particularly useful during negotiations. Aside from the Handle Animals skill, you can generally only use interpersonal skills when you attempt to influence creatures who have emotions and who can understand you.
 
@@ -6073,7 +6063,7 @@ Rewards for tests made with interpersonal skills typically include gaining an ex
 
 Failure consequences for tests made with interpersonal skills include making the person you’re interacting with angry, sad, embarrassed, offended, or otherwise upset or uncomfortable, which might cause them to ignore you, storm off, spread rumors about you, attack you, betray you, blackmail you, or otherwise attempt to harm you.
 
-### INTERPERSONAL SKILLS
+##### INTERPERSONAL SKILLS
 
 | Skill          | Use                                                                     |
 | -------------- | ----------------------------------------------------------------------- |
@@ -6091,7 +6081,7 @@ Failure consequences for tests made with interpersonal skills include making the
 | Persuade       | Convince someone to agree with you through use of your charms and grace |
 | Read Person    | Read the emotions and body language of other creatures                  |
 
-### INTRIGUE SKILLS
+##### INTRIGUE SKILLS
 
 Skills from the intrigue skill group are used in tasks centered around investigation, thievery, and spycraft.
 
@@ -6099,7 +6089,7 @@ Rewards for tests made with skills from this group typically include helping ano
 
 Failure consequences for tests made with intrigue skills include getting caught in the act or failing to notice a detail that places you in danger, such as triggering a trap or walking into an ambush.
 
-#### INTRIGUE SKILLS TABLE
+###### INTRIGUE SKILLS TABLE
 
 | Skill          | Use                                                                                               |
 | -------------- |---------------------------------------------------------------------------------------------------|
@@ -6116,7 +6106,7 @@ Failure consequences for tests made with intrigue skills include getting caught 
 | Sneak          | Move silently                                                                                     |
 | Track          | Follow a trail that another creature has left behind                                              |
 
-### LORE SKILLS
+##### LORE SKILLS
 
 Skills from the lore skill group are used to research and recall specific information. They are especially useful during rests and downtime.
 
@@ -6124,7 +6114,7 @@ Rewards for tests made with lore skills typically include learning an extra piec
 
 Failure consequences for tests made with lore skills typically include learning an incorrect piece of information that seems useful, but which actually makes things worse or wastes time. (It’s fun to roleplay these sorts of moments, so lean in!) Alternatively, the Director can make medium and hard lore tests for each hero in secret and let the players know the narrative outcome without revealing the result of the dice.
 
-### LORE SKILLS TABLE
+##### LORE SKILLS TABLE
 
 | Skill               | Use                                                                                        |
 | ------------------- | ------------------------------------------------------------------------------------------ |
@@ -6140,11 +6130,11 @@ Failure consequences for tests made with lore skills typically include learning 
 | Society             | Knowing noble etiquette and the leadership and power dynamics of noble families            |
 | Timescape           | Knowing about the various planets of the timescape                                         |
 
-### ARE ALL SKILLS EQUAL?
+##### ARE ALL SKILLS EQUAL?
 
-This game has a big list of skills, and it’s impossible for us or anyone else to know in advance which will be most useful during a campaign. For instance, the Swim skill might be used constantly during a campaign that takes place on the ocean and has heroes exploring underwater ruins, but it won’t come up as much in a campaign that takes place entirely in a vast desert. The Psionics skill might come up a lot in a campaign where voiceless talkers are the main foes, and Magic might be more useful in a game where the heroes take on a circle of evil wizards.
-
-If you’re worried about whether a skill you’d like to take will be useful, discuss your skill list with the Director after you create a hero. At the Director’s discretion, you can swap out any skill you have with any other skill in the same group.
+> This game has a big list of skills, and it’s impossible for us or anyone else to know in advance which will be most useful during a campaign. For instance, the Swim skill might be used constantly during a campaign that takes place on the ocean and has heroes exploring underwater ruins, but it won’t come up as much in a campaign that takes place entirely in a vast desert. The Psionics skill might come up a lot in a campaign where voiceless talkers are the main foes, and Magic might be more useful in a game where the heroes take on a circle of evil wizards.
+> 
+> If you’re worried about whether a skill you’d like to take will be useful, discuss your skill list with the Director after you create a hero. At the Director’s discretion, you can swap out any skill you have with any other skill in the same group.
 
 ### ASSIST A TEST
 
@@ -6214,31 +6204,31 @@ The rewards and consequences of individual tests made during a montage test shou
 
 An individual character can’t use the same skill more than once in a montage test. Though multiple heroes can use the same skill, a test or an assist with a specific skill represents each characters’ entire contribution to the montage test with that skill. At the Director’s discretion, this restriction can be lifted for prolonged montage tests, or for montage tests that are limited in scope and have only a small number of skills that apply to them.
 
-### NEW CHALLENGES FOR EACH TEST
+#### NEW CHALLENGES FOR EACH TEST
 
 In general, when a hero makes a test as part of a montage test, they should choose new obstacles to overcome that haven’t already been tackled as part of the test. If the heroes are chasing a thief through the marketplace and one of them has already distracted the pack of stray dogs with a deft hand and a piece of meat, additional tests made to distract the animals don’t count toward the result of the montage test.
 
 When it fits the scenario, the Director can adjust this restriction. If part of a montage test involves searching for people trapped in a burning building, the Director is likely to allow multiple tests to fight or avoid the fire, since this will happen throughout the montage test, not just once.
 
-### DIRECTOR CAN INTRODUCE MORE CHALLENGES
+#### DIRECTOR CAN INTRODUCE MORE CHALLENGES
 
 During a montage test, a Director can introduce new challenges for the heroes to face. While attempting to run out of a burning building from the top floor, the characters might discover that by the time they reach the second floor, beams are starting to fall and glass windows are exploding as the structure begins to collapse. These new challenges can be incorporated into the tests the heroes subsequently make.
 
-### TOTAL SUCCESSES AND FAILURES
+#### TOTAL SUCCESSES AND FAILURES
 
 The Director or another player will track the total number of successes and failures the heroes earn during a montage test. Every montage test has a **success limit** and a **failure limit**. When the number of successful tests equals the success limit, the montage test ends and the heroes achieve total success (see Montage Test Outcomes). The montage test can also end when the number of failed tests equals the failure limit, and the heroes suffer total failure.
 
-### LIMITED ROUNDS
+#### LIMITED ROUNDS
 
 A montage test should last only 2 montage test rounds. If the heroes don’t end the montage test by achieving the success limit or failure limit, the montage test ends when the second montage test round is over. This time limit helps to keep a montage test from becoming a slog, and prevents heroes from simply using their turns to assist the one hero with the best chance of success. This can inspire each hero to be a more active participant in the montage test. That said, the Director can increase the number of rounds a montage test lasts if they wish to create a particularly grueling challenge.
 
-### MONTAGE TEST DIFFICULTY
+#### MONTAGE TEST DIFFICULTY
 
 The Director determines the success limit and failure limit of a montage test. They can share this information or keep it secret, depending on what feels the most fun and dramatic for the situation and the players.
 
 In general, the higher the success limit, the harder and more complicated it is for the heroes to overcome the montage test since a hero can’t make the same test twice. The **Montage Test Difficulty** table gives a recommended success limit and failure limit for easy, moderate, and hard montage tests for groups with five heroes.
 
-#### MONTAGE TEST DIFFICULTY TABLE
+##### MONTAGE TEST DIFFICULTY TABLE
 
 | Difficulty | Success Limit | Failure Limit |
 | ---------- | ------------- | ------------- |
@@ -6251,7 +6241,7 @@ For larger or smaller groups, you can make the following adjustments to keep mon
 - For four or fewer heroes, decrease the success limit and failure limits by 1 (to a minimum of 2) for every hero fewer than five. For example, if your group has only three heroes, an easy montage test has a success and failure limit of 3.
 - For six or more heroes, increase the success and failure limits by 1 for every hero more than five.
 
-### MONTAGE TEST OUTCOMES
+#### MONTAGE TEST OUTCOMES
 
 A montage test can have three different outcomes:
 
@@ -6259,19 +6249,19 @@ A montage test can have three different outcomes:
 - If the heroes hit the failure limit or time runs out, and if they’ve achieved at least two more successes than failures, they achieve a partial success.
 - If the heroes hit the failure limit or time runs out, and if they don’t have at least two more successes than failures, they suffer total failure.
 
-#### TOTAL SUCCESS
+##### TOTAL SUCCESS
 
 If the heroes earn a total success, they achieve what they set out to do without complication. For instance, if the heroes engaged in a montage test to see if they can cross a desert to reach a city before a tyrant’s army arrived there and leveled the place, a total success sees them arrive at the city gates with plenty of time to warn people of the impending assault. The heroes earn **1 Victory** when they achieve total success on an easy or moderate montage test, and **2 Victories** on a hard montage test.
 
-#### PARTIAL SUCCESS
+##### PARTIAL SUCCESS
 
 If the heroes earn a partial success, they succeed at what they set out to do, but there is a complication or a cost involved. For instance, when crossing the desert to reach and warn the city of the tyrant’s army, a mixed success sees the characters arrive at the city gates with the enemy forces just behind them. Alternatively, the Director might allow the heroes to arrive well before the army, but they don’t cover their movements well enough. The tyrant realizes the city has been warned and decides to call in a favor to have a powerful dragon join the siege. The heroes earn **1 Victory** when they achieve partial success on a hard or moderate montage test.
 
-### TOTAL FAILURE
+##### TOTAL FAILURE
 
 If the heroes suffer total failure, they don’t achieve what they set out to do. Just as with standard tests, failure on a group test shouldn’t bring a story to a halt. Total failure should make things more interesting and challenging! With a total failure in a montage test to cross the desert and warn the city, the characters arrive at the city to find it already under siege by the tyrant.
 
-### SAMPLE MONTAGE TEST
+#### SAMPLE MONTAGE TEST
 
 Four heroes must cross the vast and inhospitable Infinite Desert to warn the city of Ahset that the tyrannical Empress Vardo is coming to conquer them. If the characters arrive in time, they can organize the defenses of the city, giving its people a greater chance of defeating the tyrant.
 
@@ -6292,7 +6282,7 @@ Before the next montage test round, the Director pauses the montage test to run 
 
 The heroes could have attempted other tests during their travels, such as an Agility test using the Stealth skill to lead the group through dangerous shortcuts in the desert without being seen or waylaid by predators, a Reason test using the Nature skill to find enough food and water to keep the group hydrated and fed, or a Presence test using the Music skill to inspire allies to travel faster with song.
 
-# ADVENTURING
+## ADVENTURING
 
 This section collects a number of the rules for adventuring that make up the heart of the game. These rules will be organized differently as the game is developed.
 
@@ -6337,7 +6327,7 @@ Most often, you use the Hide maneuver to hide during combat (see Maneuvers). If 
 
 If you are hidden from another creature, you gain an edge on attacks made against them, and the creature can’t target you with attacks. You are no longer hidden from a creature if you don’t have cover or concealment from them. If you use an ability, interact with an enemy creature, move without sneaking, or otherwise make noise or reveal yourself while hidden, you are no longer hidden once the thing you’re doing resolves. For instance, if you are hidden and then make an attack, you resolve the attack first, then are no longer hidden.
 
-#### SEARCHING FOR HIDDEN CREATURES
+##### SEARCHING FOR HIDDEN CREATURES
 
 You can search for creatures who are hidden from you as long as those creatures are within 10 squares of you and you have line of effect to them. To do so, you make an Intuition test as a maneuver and assess the result:
 
@@ -6359,7 +6349,7 @@ If your hero knows a language, they can speak, read, write, and understand it.
 
 *(Playtest note: The full list of languages for the game isn’t included here. More is coming.)*
 
-### CAELIAN EMPIRE
+#### CAELIAN EMPIRE
 
 The Caelian Empire dominated five of the seven regions of Orden three thousand years ago. During the height of this most recent human empire, all humans (including folks from Vanigar in the far north, but not folks from the islands of Ix) learned to speak the Caelian tongue. For many, especially the noble classes and the well-to-do, Caelian effectively replaced their native language.
 
@@ -6367,7 +6357,7 @@ Some thirteen hundred years after the fall of the Caelian Empire, the languages 
 
 Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including dwarves, elves, orcs, lizardfolk, and goblins. If you speak more than one language in Orden, your second language is almost certainly Caelian. As a result, that language of empire is now colloquially referred to as “the common tongue”—the language that most folk of Orden have in common.
 
-### EXTANT SPOKEN LANGUAGES
+#### EXTANT SPOKEN LANGUAGES
 
 Folks have been speaking and writing in Orden for at least thirty thousand years, but most of those languages are now dead. Many have been forgotten. Others were spoken by peoples who never developed writing, preventing those languages from being preserved. And many languages that were preserved in writing left no related descendants, so that no one knows what sounds that writing represented.
 
@@ -6375,7 +6365,7 @@ The languages on the Vasloria Languages by Ancestry table are the most common la
 
 Most languages have colloquial or casual names. For instance, many people in Orden call Kalliak “Orcish” and Hyrallic “Elvish,” but any sage knows there are many orcish and elven languages, just as there are multiple human languages.
 
-#### VASLORIA LANGUAGES BY ANCESTRY
+##### VASLORIA LANGUAGES BY ANCESTRY
 
 | **Ancestry**      | **Language**       | **Notes**                                                            |
 | ----------------- | ------------------ | -------------------------------------------------------------------- |
@@ -6404,7 +6394,7 @@ Most languages have colloquial or casual names. For instance, many people in Ord
 |                   | Mindspeech         | A symbolic language shared among native telepaths.                   |
 | Everyone          | Caelian            | Common tongue                                                        |
 
-#### VASLORIA HUMAN LANGUAGES
+##### VASLORIA HUMAN LANGUAGES
 
 | **Region** | **Language** |
 | ---------- | ------------ |
@@ -6418,7 +6408,7 @@ Most languages have colloquial or casual names. For instance, many people in Ord
 | Vanigar    | Vaniric      |
 | Vasloria   | Vaslorian    |
 
-#### LANGUAGE USAGE
+##### LANGUAGE USAGE
 
 **Hyrallic** is the primary language of the high elves in Orden. Although young for an elven language, Hyrallic is older than almost all other modern cultural languages, save those of the dwarves. As a result, while anyone who lives near or trades with a human culture probably speaks at least a little Caelian, most nobles across all ancestries make sure their children or offspring speak Hyrallic. Caelian is new from many cultures’ point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
 
@@ -6430,7 +6420,7 @@ Just as Zaliac is used in engineering, contract law isn’t written purely in **
 
 In the same way that intelligent creatures in Orden who live near or trade with other cultures use **Caelian** as a common language, the denizens of the World Below, the Dark Under All, often speak **Variac**, the language of the voiceless talkers.
 
-### DEAD LANGUAGES
+#### DEAD LANGUAGES
 
 For an adventuring hero with an ambition to create great works or unlock deep lore, it can be useful to be able to read ancient writing. Much deep lore is attested only in ancient tomes and scrolls written in languages that no modern culture uses.
 
@@ -6438,7 +6428,7 @@ Most of these ancient writings were written by people who expected other people 
 
 Sages can reconstruct many of these languages by learning which modern languages descended from them, then comparing them to related languages from the same time period that might have survived. Translating such ancient languages has been extremely useful for the purposes of crafting and research.
 
-#### DEAD LANGUAGES TABLE
+##### DEAD LANGUAGES TABLE
 
 | **Language** | **Related Languages** | **Common Topics**                   |
 | ------------ | --------------------- | ----------------------------------- |
@@ -6457,25 +6447,25 @@ As you accomplish heroic deeds, your fame allows you to influence NPCs and attra
 
 At the start of character creation, your Renown is 0. Some careers can increase your initial Renown score (see Careers).
 
-### INCREASING RENOWN
+#### INCREASING RENOWN
 
 Renown typically increases at the end of an adventure, often after the acknowledgment of a powerful NPC that you helped save them, their family, their home, or their organization. That NPC and anyone else who witnessed your heroics can tell the tale, and from there, your legend grows.
 
-#### FOR THE DIRECTOR: AWARDING RENOWN
+##### FOR THE DIRECTOR: AWARDING RENOWN
 
-In general, a hero gains 1 Renown each time they complete an adventure. If you want the characters to be less famous than in a standard heroic tale, you can adjust this to give out Renown only after every other adventure or only when the heroes level up. Alternatively, you can award more Renown after each adventure if you want the heroes to become power players in the world more quickly.
+> In general, a hero gains 1 Renown each time they complete an adventure. If you want the characters to be less famous than in a standard heroic tale, you can adjust this to give out Renown only after every other adventure or only when the heroes level up. Alternatively, you can award more Renown after each adventure if you want the heroes to become power players in the world more quickly.
 
-### INFLUENCE NEGOTIATION
+#### INFLUENCE NEGOTIATION
 
 Renown changes the way NPCs respond to heroes during negotiations. For more information, see Negotiation.
 
-### ATTRACT FOLLOWERS
+#### ATTRACT FOLLOWERS
 
 You can also use your Renown score to attract and employ followers who perform different duties or favors for you. The **Renown Followers** table shows how many followers a hero can have at one time based on Renown. You can always let go of a follower in your employ to hire a new one.
 
 You can recruit as many new followers as your Renown allows as a respite activity, provided you are in a place or have a means of communication that allows you to recruit such followers.
 
-#### RENOWN AND FOLLOWERS TABLE
+##### RENOWN AND FOLLOWERS TABLE
 
 | **Renown** | **Number of Followers** |
 | ---------- | ----------------------- |
@@ -6484,17 +6474,17 @@ You can recruit as many new followers as your Renown allows as a respite activit
 | 9          | 3                       |
 | 12         | 4                       |
 
-### STRONGHOLD
+##### STRONGHOLD
 
 Many followers stay at a stronghold, which is a home base you designate and can change. Your stronghold is typically a location shared by your fellow heroes. It could be a few rooms at an inn in a sleepy village, an old castle you claimed after clearing it of monsters, or a fleet of sailing ships.
 
-### FOLLOWER TYPES
+#### FOLLOWER TYPES
 
 When you attract a new follower, you decide on their name and ancestry, and choose what role they play in their service to you.
 
 *(Playtest note: More types of followers are coming.)*
 
-#### ARTISAN
+##### ARTISAN
 
 Artisans are crafting experts who can contribute to your research and crafting projects (see Research and Crafting).
 
@@ -6504,13 +6494,13 @@ An artisan can contribute one project roll per day to a project you choose while
 
 When you recruit an artisan, choose four skills from the crafting skill group that they know. An artisan has a Might or Agility score of 1 (your choice), a Reason score of 1, and a 0 in all other characteristics. They know Caelian and two other languages of your choice.
 
-#### SAGE
+##### SAGE
 
 Sages are research experts who can contribute to your research and crafting projects. A sage can contribute one project roll per day to a project you choose while they remain at your stronghold, provided they have access to the necessary materials.
 
 When you recruit a sage, choose four skills from the lore skill group that they know. A sage has a Reason and Intuition score of 1, and a 0 in all other characteristics. They know Caelian and two other languages of your choice.
 
-### SPECIFIC USES FOR RENOWN
+#### SPECIFIC USES FOR RENOWN
 
 The Director can use Renown as a tool that determines how much access heroes have to exclusive places in the campaign’s world, or how much power they wield in organizations of which they are members. The rules for using Renown in such ways is in the For the Director section.
 
@@ -6552,7 +6542,7 @@ The Hero Wealth table shows the types of items, gear, services, property, and mo
 
 This isn’t an exhaustive list, but you and the Director can use the table to judge what your character can and can’t purchase. For instance, the price of an ox isn’t on this list, but you can reasonably assume that if you can buy a horse, you can probably afford an ox as well. (Don’t @ us, farm nerds.) And if you can’t afford something you want, fear not! You might still be able to acquire a specific good or service through negotiation, or by trading your heroic services instead of spending cash. Treasures such as magic swords and psionic crowns are rare and typically can’t be purchased. Instead, they’re found on adventures, traded for other treasures, given as rewards by NPCs, or crafted by the characters.
 
-### HERO WEALTH
+#### HERO WEALTH TABLE
 
 | Level    | Individual                                                                                                                | Group                                              |
 | -------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
@@ -6562,7 +6552,7 @@ This isn’t an exhaustive list, but you and the Director can use the table to j
 | 7th–8th  | Library; tavern; manor home; sailing boat                                                                                          | Church; keep; wizard tower                                  |
 | 9th–10th | Church; keep; wizard tower                                                                                                         | Castle; shipyard                                            |
 
-# ABILITIES
+## ABILITIES
 
 Your class, kit, ancestry, titles, and other heroic options give you access to abilities that make your hero stand out. Abilities are special actions, maneuvers, and more that allow you to affect creatures, objects, and the environment. Abilities are presented in a format that breaks out specific entries for keywords, time, distance, target, and effect. If an ability is an attack, it also includes a damage entry.
 
@@ -6618,9 +6608,9 @@ Abilities with the Resistance keyword require the target to make a resistance ro
 
 The Weapon keyword is used in attacks that are made with blades, bows, and other such items. Weapon abilities also include attacks creatures make with their own bodies, such as punches, kicks, bites, tail slaps, and more. Your kit determines the types of weapons you wield and use with weapon abilities (see Kits).
 
-### IT’S NOT ALL ATTACKS!
+#### IT’S NOT ALL ATTACKS!
 
-The Attack keyword and phrases like “makes an attack” are reserved for abilities that have a creature specifically targeting other creatures or objects (not an area) and dealing harm to them by making a power roll. Other abilities that target areas of effect, or that require the target to make a resistance roll instead of having the creature using the ability make the roll, are not attacks. They instead use the Area and Resistance keywords, respectively. That means if a feature distinctly interacts with an attack (for instance, the conduit’s Holy Infusion triggered action), that feature has no effect on abilities with the Area or Resistance keyword.
+> The Attack keyword and phrases like “makes an attack” are reserved for abilities that have a creature specifically targeting other creatures or objects (not an area) and dealing harm to them by making a power roll. Other abilities that target areas of effect, or that require the target to make a resistance roll instead of having the creature using the ability make the roll, are not attacks. They instead use the Area and Resistance keywords, respectively. That means if a feature distinctly interacts with an attack (for instance, the conduit’s Holy Infusion triggered action), that feature has no effect on abilities with the Area or Resistance keyword.
 
 ### TYPE
 
@@ -6650,7 +6640,7 @@ If you make a ranged attack while an enemy is adjacent to you, you have a bane o
 
 Some abilities have a melee distance and a ranged distance. When you use such an ability, you choose whether to use it as a melee or a ranged ability. The ability never has both the Melee and Ranged keywords at the same time. For example, if you have the Cloak and Dagger kit, which has a weapon damage bonus to melee and ranged abilities, only one bonus at a time applies to an ability with the Melee or Ranged keywords.
 
-### AREA ABILITIES
+#### AREA ABILITIES
 
 Area abilities cover an area, creating an effect within that area that lets you target multiple creatures or objects at once. When an ability allows you to create an area of effect, you are sometimes given a distance, noted as “within X,” that describes how many squares away from you the area can be. If an area ability doesn’t originate from you, then at least 1 square of the area of effect must be within that distance and your line of effect. This square is referred to as the origin square of the area of effect. The area of effect can spread from the origin square however you choose, as long as the area of effect conforms to the shape and arrangement rules of that particular area.
 
@@ -6665,7 +6655,7 @@ An area ability might use any of the following areas of effect:
 - **Wall**: When an ability creates a wall, it is expressed as “X wall,” where X equals how many squares are used to make the wall. When you place a wall, you can build it one square at a time, but each square must share at least one side (not just a corner) with another square of the wall. You can stack squares on top of each other to make the wall higher. Unless otherwise stated, a wall can’t be placed in occupied squares, and a wall blocks line of effect.
 - **Special**: Some abilities create a unique area of effect. The distance entry of such abilities specifies how the area is created.
 
-### SELF
+#### SELF
 
 If an ability has a distance of “Self,” that ability originates from or affects only you. The ability’s description specifies how it works.
 
@@ -6673,27 +6663,27 @@ If an ability has a distance of “Self,” that ability originates from or affe
 
 The “Target” entry of an ability notes the number of creatures or objects who can be targeted by that ability.
 
-### CREATURE
+#### CREATURE
 
 If an ability targets one or more creatures, you can have it target any creature within the ability’s distance. You aren’t an eligible creature target for your own abilities unless those abilities also have “self” as a target (see below).
 
-### OBJECT
+#### OBJECT
 
 If an ability targets one or more objects, you can have it target any object within the ability’s distance. Unless otherwise noted, objects have poison and psychic immunity. When an ability can target creatures and objects, the ability can damage objects. However, unless otherwise noted or if the Director decides otherwise, objects are immune to an ability’s other effects.
 
-### ENEMY
+#### ENEMY
 
 If an ability targets one or more enemies, you can use the ability to target only creatures who are hostile to you. Typically, you decide who counts as an enemy, though the Director has the final say.
 
-### ALLY
+#### ALLY
 
 If an ability targets one or more allies, you can use the ability to target only creatures who are friendly to you. Typically, you decide who counts as an ally, though the Director has the final say. You aren’t an eligible ally target for your own abilities unless those abilities also have “self” as a target.
 
-### SELF
+#### SELF
 
 If an ability targets “self,” then you are a valid target for the ability.
 
-### ALL
+#### ALL
 
 If an ability doesn’t provide a number of targets but instead says it applies to all creatures, objects, enemies, or allies, then all eligible targets are affected.
 
@@ -6707,7 +6697,7 @@ For instance, the fury’s Brutal Slam ability is a melee attack that targets a 
 - **Tier 2 (12–16):** The attack deals 8 damage and pushes the target back 2 squares.
 - **Tier 3 (17 or more):** The attack deals 12 damage and pushes the target back 4 squares.
 
-### ABILITIES WITH DAMAGE AND EFFECTS
+#### ABILITIES WITH DAMAGE AND EFFECTS
 
 Both attacks and area abilities deal damage and often have an additional effect on their target. The amount of damage and the strength of the effect are determined by the power roll.
 
@@ -6721,15 +6711,15 @@ To keep things quick and easy to read at the table, damage and effects are separ
 
 Unless otherwise indicated, any effects that are determined by a power roll result occur after the power roll’s damage has been dealt to all targets.
 
-### CRITICAL HIT
+##### CRITICAL HIT
 
 When you make a power roll as part of an attack or action and the total of the roll is 19 or 20 before adding your characteristic (a natural 19 or natural 20), you score a critical hit. This allows you to immediately take an additional action after resolving the power roll, whether or not it’s your turn and even if you are dazed (see Conditions).
 
-### DURING THE MOVE
+##### DURING THE MOVE
 
 Certain ability effects allow you to move and affect other creatures or objects during that move, such as the shadow’s Blade Dance ability. For such abilities, the move begins in the space you first leave when you move, and ends in the last space you move into.
 
-### ROLL AGAINST MULTIPLE CREATURES
+#### ROLL AGAINST MULTIPLE CREATURES
 
 When an ability targets multiple creatures, you make one power roll and apply the result to all the creatures you target. If you have edges or banes against some but not all of your targets, you might apply a different tier of result to individual targets.
 
@@ -6765,11 +6755,11 @@ Different effects that impose the same condition (see Conditions) don’t stack 
 
 When a creature suffers a lasting effect, whatever ability, hazard, or other mechanic imposed the effect specifies how long the effect lasts. Unless otherwise noted, all effects and conditions (see Conditions) that are imposed on you during a combat encounter end when the encounter is over if you want them to.
 
-### EOT
+#### EOT
 
 If an effect ends with “(EoT)” at the end of its description, a creature suffers the effect until the end of their next turn.
 
-### RESISTANCE ROLLS AND EFFECTS
+#### RESISTANCE ROLLS AND EFFECTS
 
 If an effect ends with “([CHARACTERISTIC] resistance ends)” at the end of its description, then a creature suffering the effect can make a resistance roll at the end of your turn to remove the effect. Unless otherwise specified, a resistance roll to end an effect is set up as follows:
 
@@ -6781,7 +6771,7 @@ If an effect ends with “([CHARACTERISTIC] resistance ends)” at the end of it
 
 Heroes’ abilities don’t apply effects that require resistance rolls, to prevent the Director from doing a lot of tracking and rolling.
 
-### EOE
+#### EOE
 
 If an effect ends with “(EoE)” at the end of its description, a creature suffers the effect until the end of the encounter. In general, enemies’ abilities don’t apply end-of-encounter effects to heroes, since heroes should always have a chance to get back in the fight!
 
@@ -6839,11 +6829,11 @@ While you are slowed, your speed is 2 unless it is already lower.
 
 If you are taunted, you have a double bane on attacks that don’t include the creature who taunted you. If you gain the taunted condition from one creature while already taunted by a different creature, the new condition replaces the old one.
 
-#### WEAKENED
+##### WEAKENED
 
 While you are weakened, all your ability power rolls and tests (but not resistance rolls) take a bane.
 
-# COMBAT
+## COMBAT
 
 When the heroes face a problem that can be solved only with action, or when they come up against creatures who want to harm them, it’s time to throw down!
 
@@ -6851,11 +6841,11 @@ When the heroes face a problem that can be solved only with action, or when they
 
 When combat begins, the Director should position miniatures or tokens on a gridded map to represent the environment, the heroes, their foes, and any other creatures in the battle.
 
-### HOW BIG IS A SQUARE?
+#### HOW BIG IS A SQUARE?
 
-It’s helpful to know how big a square is for abilities that heroes and NPCs can use outside of combat. A single square is 5 feet on all sides. The Director can change this measurement to 2 meters, 1 meter, or any other measurement you prefer, as long as that scale stays consistent throughout your game.
+> It’s helpful to know how big a square is for abilities that heroes and NPCs can use outside of combat. A single square is 5 feet on all sides. The Director can change this measurement to 2 meters, 1 meter, or any other measurement you prefer, as long as that scale stays consistent throughout your game.
 
-### SIZE AND SPACE
+#### SIZE AND SPACE
 
 A creature’s size indicates how many squares they occupy during combat, which defines the creature’s space. If a creature’s size is 1, they occupy a space of 1 square. If a creature is larger than 1 square, their size equals the number of squares they take up in length, width, and height. For example, a horse has a size of 2, which means that during combat, they occupy a space that is 2 squares long, 2 squares wide, and 2 squares high. You could also think of that space as a cube that is 2 squares on all sides.
 
@@ -6865,7 +6855,7 @@ Objects can also have a size rating. If an object has an O (an abbreviation for 
 
 The Creature and Object Sizes table shows examples sizes of creatures and objects up to size 5, but there is no limit to what a creature or object’s size could be.
 
-### CREATURE AND OBJECT SIZES
+#### CREATURE AND OBJECT SIZES
 
 | Size | Example Creature | Example Object |
 | ---- | ---------------- | -------------- |
@@ -6878,13 +6868,13 @@ The Creature and Object Sizes table shows examples sizes of creatures and object
 | 4    | Ancient Dragon   | Galley         |
 | 5    | The Kraken       | Castle         |
 
-### SIDES
+#### SIDES
 
 Every combat encounter is a conflict between two sides. The heroes and any of their allies are one side, controlled by the players. Any creatures who oppose the heroes are the other side, controlled by the Director. All creatures who oppose the heroes are on the same side, even if those creatures also oppose each other. For example, if the heroes are battling a group of bandits when a kingfissure worm suddenly bursts into the fray to devour player characters and brigands alike, the worm is still on the side of the bandits for the purpose of the game’s combat rules.
 
-### NPC ALLIES
+##### NPC ALLIES
 
-If an NPC ally fights alongside the heroes, the Director should give the players the ally’s stat block and let them control the NPC during combat. The Director has enough to worry about. As well, any missteps, mistakes, or triumphs the ally makes will be thanks to the decisions of the players and not the Director, which can make the outcome of the battle more satisfying for the players.
+> If an NPC ally fights alongside the heroes, the Director should give the players the ally’s stat block and let them control the NPC during combat. The Director has enough to worry about. As well, any missteps, mistakes, or triumphs the ally makes will be thanks to the decisions of the players and not the Director, which can make the outcome of the battle more satisfying for the players.
 
 ### COMBAT ROUND
 
@@ -6910,23 +6900,23 @@ In many encounters, a point comes when one side has creatures who haven’t acte
 
 Once all creatures on both sides of a battle have acted, the round ends and a new one begins. The side whose members acted first during the starting round of combat acts first in all subsequent rounds.
 
-#### DETERMINING WHO ACTS NEXT
+##### DETERMINING WHO ACTS NEXT
 
 When it comes to the heroes’ side, the choice of who should act next is intended to give players the opportunity to comment, strategize, and plan. Some tables, in some encounters, might find that the choice of who should act next isn’t obvious, leading to debate. That’s fine. Deliberating about what the group should do next is classic roleplaying.
 
 In general, though, most groups find that it’s usually only one or two players in a given round who think it best if they act next. And as soon as those players explain why they want to act next and what they plan on doing, the issue is quickly resolved.
 
-#### ARGUMENT TIMER
+##### ARGUMENT TIMER
 
 If the players do end up arguing in circles about what to do next, the Director can place a timer on the discussion. Usually, giving the players a warning and 30 seconds to decide who goes next does the trick. If they can’t choose by the end of that time, the Director chooses a hero to act.
 
-#### ALTERNATIVE INITIATIVE
+##### ALTERNATIVE INITIATIVE
 
-If planning everyone’s turn order isn’t fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an Agility test, then record the results. When it’s time for someone on the heroes’ side to act, the hero with the highest result goes first. On the next hero turn, the hero with the second-highest result takes their turn, and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied Agility tests to determine who among the tied creatures acts before the others.
+> If planning everyone’s turn order isn’t fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an Agility test, then record the results. When it’s time for someone on the heroes’ side to act, the hero with the highest result goes first. On the next hero turn, the hero with the second-highest result takes their turn, and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied Agility tests to determine who among the tied creatures acts before the others.
+> 
+> At the Director’s discretion, a hero can swap their turn in the initiative order with another willing hero at the start of a new round of combat. This allows certain abilities that interact with the core initiative system, such as the shadow’s **Hesitation is Weakness** ability, to better work with this alternative system.
 
-At the Director’s discretion, a hero can swap their turn in the initiative order with another willing hero at the start of a new round of combat. This allows certain abilities that interact with the core initiative system, such as the shadow’s **Hesitation is Weakness** ability, to better work with this alternative system.
-
-#### ENEMIES ACT IN GROUPS
+##### ENEMIES ACT IN GROUPS
 
 Director-controlled creatures act in groups, with information for building groups found in the Bestiary. When a group of enemies acts, the Director chooses a single creature or minion squad to take a turn. Once that turn is over, the Director chooses another creature in that group to take a turn, continuing until all members of the group have taken their turn.
 
@@ -6940,7 +6930,7 @@ Each creature in combat—whether hero, adversary, or something in between—get
 
 The Movement section breaks down how your move action works, while the Maneuvers and Actions sections break down the baseline maneuvers and actions your character can undertake. For any activities not specifically covered in those rules, such as cutting down a chandelier to drop on enemies, the Director decides whether such an activity is a maneuver or an action.
 
-#### TRIGGERED ACTIONS AND FREE TRIGGERED ACTIONS
+##### TRIGGERED ACTIONS AND FREE TRIGGERED ACTIONS
 
 Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature’s turn, but only when the action’s trigger occurs. For instance, a fury hero can use the **Relentless Toss** triggered action to force move a target, but only after an enemy has first tried to force move the fury or one of their allies.
 
@@ -6950,7 +6940,7 @@ If multiple triggered actions occur in response to the same trigger, any heroes 
 
 Any effect that prevents you from making triggered actions also prevents you from making free triggered actions.
 
-#### FREE MANEUVERS
+##### FREE MANEUVERS
 
 Boring stuff like opening an unlocked door, picking up an arrow from the ground, giving an object to an adjacent ally, or drawing a weapon doesn’t require a maneuver or an action. Rather, you can undertake such straightforward activities as free maneuvers on your turn. A free maneuver follows the same rules as a regular maneuver, but you can typically take as many free maneuvers as you like.
 
@@ -6960,7 +6950,7 @@ Likewise, the nature of an activity might make it too complicated for a free man
 
 Any effect that prevents you from making maneuvers also prevents you from making free maneuvers.
 
-#### NO-ACTION ACTIVITIES
+##### NO-ACTION ACTIVITIES
 
 Free maneuvers cover most of the simple activities you might want to undertake on your turn. When it isn’t your turn, you can typically undertake even simpler activities requiring no action with the Director’s approval. For instance, shouting out a warning to an ally or dropping an item so another creature can pick it up require no action.
 
@@ -6978,35 +6968,35 @@ You can move freely through an allied creature’s space. You can move through a
 
 A creature can break up their movement granted by their move action with their maneuver and action however they wish.
 
-### CAN’T EXCEED SPEED
+#### CAN’T EXCEED SPEED
 
 A single move or other effect can never allow a creature to move more squares than their speed, unless the effect specifically states otherwise. For example, a creature with a speed of 5 might have that speed halved to 2. If an ally then targets them with an effect that allows them to move up to 3 squares, the creature can move only 2 squares because that’s their current speed.
 
-### SHIFTING
+#### SHIFTING
 
 Whenever you use your move action or when another effect allows you to move, you can instead shift to use up to half the maximum squares of movement the effect allows. Whenever you shift, creatures can’t make opportunity attacks against you during your movement (see Free Strikes).
 
 Certain effects might also allow you to shift a specific number of squares, including many effects that let you shift up to your speed.
 
-### MOVEMENT TYPES
+#### MOVEMENT TYPES
 
 Creatures in the game can use eight types of movement: walk, burrow, climb, swim, jump, crawl, fly, and teleport.
 
-#### WALK
+##### WALK
 
 Walking is the most common movement type, whether it refers to ambulating on legs, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
 
-#### BURROW
+##### BURROW
 
 A creature with “burrow” in their speed entry can move through dirt vertically or horizontally, and either has the means to breathe while doing so or doesn’t require air to live. Such creatures can’t move through more solid ground, such as stone, unless their stat block says otherwise.
 
-#### CLIMB OR SWIM
+##### CLIMB OR SWIM
 
 If a creature’s speed entry includes the word “climb,” they can climb across vertical and horizontal surfaces at full speed. Likewise, if a creature has “swim” in their speed entry, they can swim in liquid at full speed.
 
 Creatures without those types of movement can still climb or swim when a rule allows them to move, but each square of climbing or swimming costs 2 squares of movement. If a surface is difficult to climb (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to swim through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can’t climb or swim but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
 
-### CLIMBING OTHER CREATURES
+##### CLIMBING OTHER CREATURES
 
 You can attempt to climb a creature whose size is greater than yours. If the creature is willing, you can climb them without any trouble. If the creature is unwilling, you make the following test:
 
@@ -7026,7 +7016,7 @@ While you climb or ride a creature, you gain an edge to melee attacks against th
 
 If you are knocked prone while climbing or riding a creature, you fall and land prone in an adjacent space of your choice, taking damage as usual from the fall.
 
-### JUMP
+##### JUMP
 
 When an effect allows you to move, you can long jump a number of squares up to your Might or Agility score (your choice; minimum 1 square) without a test as part of that movement. If you move at least 2 squares in a straight line immediately before your jump, you can long jump 1 additional square.
 
@@ -7036,15 +7026,15 @@ The height of your jump is 1 square. If you move at least 2 squares in a straigh
 
 You can’t jump farther or higher than the distance of the effect that allows you to move.
 
-### CRAWL
+##### CRAWL
 
 If you are prone (see Conditions), you can remain prone and crawl on the ground. Doing so costs you 1 additional square of movement for every square you crawl. If you intentionally want to crawl, you can fall prone as a free maneuver on your turn. While voluntarily prone, you can choose to stand as a free maneuver.
 
-### FLY
+##### FLY
 
 A creature who can fly can move through the air vertically or horizontally at full speed. Such creatures can also hover in midair. If a flying creature is knocked prone or has their speed reduced to 0, they fall (see Falling).
 
-### TELEPORT
+##### TELEPORT
 
 When you teleport, you move from one space to another space instantaneously. The following rules apply to teleporting:
 
@@ -7056,15 +7046,15 @@ When you teleport, you move from one space to another space instantaneously. The
 - If you teleport while prone, you can be standing when you reach your destination space provided you are able to stand. If another creature teleports you, it is up to them if you remain prone or stand, provided you are able.
 - If you teleport while affected by the grabbed or restrained conditions, those conditions end for you.
 
-### DIFFICULT TERRAIN
+#### DIFFICULT TERRAIN
 
 Areas of thick underbrush, rubble, spiderwebs, or other obstacles to movement create difficult terrain. It costs 1 additional square of movement to enter a square of difficult terrain.
 
-### HIGH GROUND
+#### HIGH GROUND
 
 When you make an attack against a creature or object and you occupy a space that is fully above the space the target takes up, with the bottom of your space higher than the top of the target’s space, you gain an edge on the power roll against that target.
 
-### FORCED MOVEMENT
+#### FORCED MOVEMENT
 
 Some actions and maneuvers allow you to push, pull, or slide another creature a specific distance across the battlefield. Collectively, these types of movement are called forced movement:
 
@@ -7076,7 +7066,7 @@ When you force move a target, you can always move that target fewer squares than
 
 Forced movement ignores difficult terrain and never provokes opportunity attacks. When you force move a target into damaging terrain or into terrain that produces an effect, they are affected as if they had moved into it willingly.
 
-### VERTICAL
+##### VERTICAL
 
 If a forced movement effect has the word “vertical” in front of it, then the forced movement can move a target up or down in addition to horizontally. For example, if a forced movement effect says “vertical push 5,” then the creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the forced movement is a straight line.
 
@@ -7084,7 +7074,7 @@ If a creature who can’t fly is left in midair at the end of a vertical forced 
 
 Though you can’t push, pull, or slide a creature unless that forced movement specifies “vertical,” you can move them along a slope. For a creature to be force moved along a slope, each square of the slope can be no more than 1 square higher or lower than the previous square.
 
-### SLAMMING INTO CREATURES
+##### SLAMMING INTO CREATURES
 
 When you force move a creature into another creature, the movement ends and both creatures take 1 damage for each square remaining in the first creature’s forced movement. You can also force move an object into a creature. The object’s movement ends and the creature takes 1 damage for each square remaining in the object’s forced movement.
 
@@ -7094,23 +7084,23 @@ If a creature is killed by damage from an attack or effect that force moves them
 
 You can force move another creature into yourself with a pull or a slide.
 
-### TRACKING OBJECT FORCED-MOVEMENT DAMAGE
+##### TRACKING OBJECT FORCED-MOVEMENT DAMAGE
 
-At the Director’s discretion, mundane objects that are force moved into creatures or other objects take damage as if they were creatures. Sturdy objects can take damage as follows:
+> At the Director’s discretion, mundane objects that are force moved into creatures or other objects take damage as if they were creatures. Sturdy objects can take damage as follows:
+> 
+> - For each square a wood object occupies, it can take 3 damage before it is destroyed.
+> - For each square a stone object occupies, it can take 6 damage before it is destroyed.
+> - For each square a metal object occupies, it can take 9 damage before it is destroyed.
+> 
+> More fragile objects are destroyed after taking any damage.
 
-- For each square a wood object occupies, it can take 3 damage before it is destroyed.
-- For each square a stone object occupies, it can take 6 damage before it is destroyed.
-- For each square a metal object occupies, it can take 9 damage before it is destroyed.
-
-More fragile objects are destroyed after taking any damage.
-
-### SLAMMING INTO OBJECTS
+##### SLAMMING INTO OBJECTS
 
 When you force move a creature into a stationary object that is their size or larger and the object doesn’t break (see below), the movement ends and the creature takes 1 damage for each square remaining in their forced movement.
 
 If you force move a creature downward into an object that doesn’t break (including the ground), they also take falling damage.
 
-### HURLING THROUGH OBJECTS
+##### HURLING THROUGH OBJECTS
 
 When you move a creature into a mundane object, the object can break depending on how many squares of forced movement remain:
 
@@ -7121,15 +7111,15 @@ When you move a creature into a mundane object, the object can break depending o
 
 If any forced movement remains after the object is destroyed, you can continue to move the creature who destroyed the object.
 
-### FORCED INTO A FALL
+##### FORCED INTO A FALL
 
 If you can’t fly and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when your move ends, you fall.
 
-### FOR THE DIRECTOR: USE TACTICAL MAPS
+##### FOR THE DIRECTOR: USE TACTICAL MAPS
 
-This is a tactical game. To get the most out of the rules for movement, difficult terrain, and falling, you should use encounter maps with interesting environmental features. You might have ledges, pits of acid, walls of fire, mechanical traps, columns, giant webs, magical hazards, and the like for creatures to be thrown into, thrown off of, or thrown through. You’ll want most of your battles to take place in environments with plenty of space to move around, avoiding a lot of long corridors that are 1 square wide.
+> This is a tactical game. To get the most out of the rules for movement, difficult terrain, and falling, you should use encounter maps with interesting environmental features. You might have ledges, pits of acid, walls of fire, mechanical traps, columns, giant webs, magical hazards, and the like for creatures to be thrown into, thrown off of, or thrown through. You’ll want most of your battles to take place in environments with plenty of space to move around, avoiding a lot of long corridors that are 1 square wide.
 
-### STABILITY
+##### STABILITY
 
 Each creature has a stability that allows them to resist forced movement. When a creature is forced moved, they can reduce the movement up to a number of squares equal to their stability. Heroes start with a stability of 0 that can be increased through kit and ancestry options.
 
@@ -7157,7 +7147,7 @@ While you are grabbed by another creature (see Grab below), you can attempt to e
 - 12–16: You can escape the grab, but if you do, the creature grabbing you can make a melee free strike against you before you are no longer grabbed.
 - 17+: You are no longer grabbed.
 
-### GRAB
+#### GRAB
 
 You attempt to grab a creature using the following ability:
 
@@ -7176,11 +7166,11 @@ You attempt to grab a creature using the following ability:
 
 **Effect:** You gain an edge on the power roll if the creature’s size is smaller than yours. You can grab only one creature at a time this way.
 
-### HIDE
+#### HIDE
 
 Using the Hide maneuver, you attempt to hide from other creatures who aren’t observing you while you have cover or concealment (see Hide and Sneak).
 
-### KNOCKBACK
+#### KNOCKBACK
 
 You attempt to shove an adjacent creature using the following ability:
 
@@ -7199,17 +7189,17 @@ You attempt to shove an adjacent creature using the following ability:
 
 **Effect:** You gain an edge on the power roll if the creature’s size is smaller than yours.
 
-### MAKE OR ASSIST A TEST
+#### MAKE OR ASSIST A TEST
 
 Many tests are maneuvers if made in combat. Searching a chest with a Reason test, picking a door’s lock with an Agility test, or lifting a portcullis with a Might test would all be maneuvers. Assisting a test is also a maneuver in combat.
 
 Complex or time-consuming tests might require an action if made in combat—or could take so long that they can’t be made during combat at all. Other tests that take no time at all, such as a Reason test to recall lore about mummies, are usually free maneuvers in combat. The Director has the final say regarding which tests can be made as maneuvers.
 
-### SEARCH FOR HIDDEN CREATURES
+#### SEARCH FOR HIDDEN CREATURES
 
 You can use this maneuver to attempt to search for creatures hidden from you (see Hide and Sneak).
 
-### STAND UP
+#### STAND UP
 
 You can use this maneuver to stand up if you are prone, ending that condition. Alternatively, you can use this maneuver to make an adjacent prone creature stand up.
 
@@ -7245,19 +7235,19 @@ Every creature can make a **free strike** as an action on their turn, though doi
 
 Many rules and abilities allow heroes to make free strikes when it isn’t their turn, such as the tactician’s Overwatch ability. As well, all characters can make an opportunity attack free strike.
 
-### OPPORTUNITY ATTACKS
+#### OPPORTUNITY ATTACKS
 
 Whenever a creature within the reach of your melee free strike moves out of it without shifting, you can take advantage of their movement to quickly make a melee free strike against them as a free triggered action. This is called an opportunity attack.
 
 If you have a bane or double bane on the power roll against the creature, you can’t make the free strike.
 
-### STANDARD FREE STRIKES
+#### STANDARD FREE STRIKES
 
 Every hero has two standard free strikes available to them. Your class might give you additional free strike options, and your kit can improve the standard options (see Kits).
 
 A melee weapon free strike is a melee attack made with an unarmed strike or an improvised weapon. A ranged weapon free strike is a ranged attack made with an improvised weapon. At the Director’s discretion, the damage type of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage.
 
-#### MELEE WEAPON FREE STRIKE
+##### MELEE WEAPON FREE STRIKE
 
 - Keywords: Attack, Melee, Weapon
 - Type: Action
@@ -7270,7 +7260,7 @@ A melee weapon free strike is a melee attack made with an unarmed strike or an i
 - 12–16: 6 damage
 - 17+: 9 damage
 
-#### RANGED WEAPON FREE STRIKE
+##### RANGED WEAPON FREE STRIKE
 
 - Keywords: Attack, Ranged, Weapon
 - Type: Action
@@ -7299,7 +7289,7 @@ When you have line of effect to a creature or object but that target has at leas
 
 Darkness, fog, invisibility magic, and any other effect that fully obscures a creature but doesn’t protect their body grants that creature concealment. You can target a creature who has concealment with attacks, provided they aren’t hidden (see Hide and Sneak in Adventuring). However, attacks against such creatures take a bane. Even if you have line of effect to a creature, they have concealment from you if you can’t see them.
 
-### INVISIBLE CREATURES
+#### INVISIBLE CREATURES
 
 Invisible creatures always have concealment from other creatures. If an invisible creature isn’t hidden, they can still be targeted with abilities, though attacks against them take a bane. The test made to find a hidden creature who is invisible takes a bane.
 
@@ -7307,11 +7297,11 @@ Invisible creatures always have concealment from other creatures. If an invisibl
 
 Whenever you take damage, you reduce your Stamina by an amount equal to the damage taken.
 
-### DAMAGE TYPES
+#### DAMAGE TYPES
 
 Typical damage, such as that caused by weapons, falling, traps, and monstrous claws, has no type associated with it. That’s because for most creatures, there’s no difference in the amount of harm caused by being run through with a pike, dropped from a height onto a stone floor, slashed by a pendulum scythe, or skewered on a minotaur’s horns. However, when it comes to elemental and magical damage sources, some creatures might have an immunity or weakness to that damage. As such, attacks and effects note when they deal any of the following damage types: acid, cold, corruption, fire, holy, lightning, poison, psychic, or sonic.
 
-### DAMAGE IMMUNITY
+##### DAMAGE IMMUNITY
 
 Damage immunity means that a creature can ignore some or all of the damage they would usually take from certain attacks or effects.
 
@@ -7325,7 +7315,7 @@ Damage immunity should be the last thing applied when calculating damage. For in
 
 If multiple damage immunities apply to a source of damage, only the immunity with the highest value applies.
 
-### DAMAGE WEAKNESS
+##### DAMAGE WEAKNESS
 
 Damage weakness works like damage immunity, except that creatures take extra damage whenever they take damage of the indicated type, or from a source with the indicated keyword. For instance, if a creature has fire weakness 5 and is dealt 10 fire damage, they take 15 fire damage instead.
 
@@ -7339,41 +7329,41 @@ Your hero’s survivability is represented by your **Stamina**. Think of Stamina
 
 After any damage you take is reduced by damage immunity or other effects, your Stamina is reduced by an amount equal to the remaining damage. Some effects can also reduce your Stamina maximum, limiting the amount of Stamina you can regain.
 
-### RECOVERIES AND RECOVERY VALUE
+#### RECOVERIES AND RECOVERY VALUE
 
 Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their Stamina, rounded down. When you use the Catch Breath action (see Actions), you spend a Recovery and regain Stamina equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain Stamina equal to your recovery value plus a little extra (as described by the effect), or to regain Stamina without spending a Recovery.
 
-### WINDED
+#### WINDED
 
 Your winded value equals half your Stamina maximum. When your Stamina is equal to or less than your winded value, you are winded. Although being winded has no effects on its own, certain ancestry, class, item, and title abilities affect winded creatures.
 
 You can tell when other creatures are winded and vice versa.
 
-### DYING AND DEATH
+#### DYING AND DEATH
 
 When your Stamina is 0 or lower, you are dying. While dying, you can’t take the Catch Breath action in combat, and whenever you make a test using Might or Agility, make an attack, or use an action, maneuver, or a triggered action, you lose 1d6 Stamina after the action, maneuver, or triggered action is resolved. This Stamina loss can’t be prevented in any way. While you are dying, your allies can help you spend recoveries in combat, and you can spend Recoveries out of combat as usual.
 
 While your Stamina is lower than 0, if it reaches the negative of your winded value, you die. When you die, you can’t be brought back to life without the use of a special powerful item such as a Scroll of Resurrection.
 
-### DIRECTOR-CONTROLLED CREATURES
+#### DIRECTOR-CONTROLLED CREATURES
 
 Director-controlled creatures die when their Stamina drops to 0.
 
-### NO RECOVERIES
+##### NO RECOVERIES
 
 Director-controlled creatures don’t have Recoveries or a recovery value. Any such creatures who regain Stamina during a battle do so via a special item or an ability in their stat block. However, there are times when a hero might wish to use an ability that allows another creature to spend a Recovery or to regain Stamina equal to their recovery value on an injured NPC. In such cases, a Director-controlled creature regains Stamina equal to one-third their Stamina maximum.
 
-### KNOCKING CREATURES OUT
+#### KNOCKING CREATURES OUT
 
 If you damage a creature with an attack that would kill them, you can choose to instead knock them unconscious. If a creature takes damage while unconscious in this way, they die.
 
 Director-controlled creatures remain unconscious for 1 hour if no one does anything to end that condition. They then gain 1 Stamina and their unconsciousness ends. Heroes remain unconscious for 1 hour if no one does anything to end that condition. After 1 hour, they can spend a Recovery and end their unconsciousness. If the hero has no Recoveries left, they can’t wake up until they complete a respite.
 
-### UNCONSCIOUS
+##### UNCONSCIOUS
 
 While you are unconscious, you can’t take actions, maneuvers, triggered actions, free triggered actions, or free maneuvers; your speed is 0; you are unaware of your surroundings; and you are prone. Attacks against you have a double edge. If you wake up from being unconscious, you can stand up from prone as a free maneuver.
 
-### TEMPORARY STAMINA
+#### TEMPORARY STAMINA
 
 Some abilities, treasures, and other effects grant a creature temporary Stamina. Temporary Stamina shouldn’t be included in a creature’s Stamina total when figuring out a creature’s recovery value or winded value. If you have temporary Stamina while winded, dying, or dead, the temporary Stamina doesn’t change those states.
 
@@ -7383,7 +7373,7 @@ There is no maximum to how much temporary Stamina you can have. Regaining Stamin
 
 Unless otherwise indicated, temporary Stamina disappears when you finish a Respite.
 
-### OBJECT STAMINA
+#### OBJECT STAMINA
 
 Mundane objects in the game have Stamina based on the material they’re made of. When an object’s Stamina is reduced to 0, the object is destroyed. Objects have damage immunity to all poison and psychic damage. Objects made of common materials have Stamina as follows:
 
@@ -7408,7 +7398,7 @@ If a creature riding a mount is force moved, they are knocked off the mount, and
 
 At the end of combat, the Director determines if the heroes each gain a Victory (see Victories). Any effect or condition affecting you that you suffered during combat (except for being winded, unconscious, or dying) ends if you want it to.
 
-### HOW COMBAT ENDS
+#### HOW COMBAT ENDS
 
 The Director determines when a combat encounter is over. While some battles—especially showdowns with important villains—can be about a fight to the bitter end, many other encounters can become a slog if the heroes need to fight until every last enemy’s Stamina is reduced to 0.
 
@@ -7416,83 +7406,83 @@ To avoid a battle dragging, the Director can set objectives when they build the 
 
 When the Director ends combat this way, the players typically choose how the battle ends by narrating a dramatic finish. Or in rarer cases when the heroes achieve a major objective that sets off a story-defining event, the Director narrates the end of the battle with a positive outcome for the players, called an event ending (see below).
 
-### FLEEING FOES
+##### FLEEING FOES
 
-If you’ve played an RPG like this one before, odds are you’ve had an encounter where you didn’t chase down every last fleeing foe—and then one such foe grabbed another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, “No survivors. No mercy!” whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.
+> If you’ve played an RPG like this one before, odds are you’ve had an encounter where you didn’t chase down every last fleeing foe—and then one such foe grabbed another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, “No survivors. No mercy!” whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.
+> 
+> Luckily, this is a heroic game. Although the Director can surprise the players with dramatic reveals and twisty-turny stories, “Gotcha!” moments that make players suspicious of every fleeing bandit shouldn’t be part of those stories. If a bandit is fleeing an encounter, they’re running away to rethink their life. If they’re going for help, the players should get some sense of that—for example, the bandit screaming at the top of their lungs as they run toward their leader’s tent. That way, the players can process what’s happening, and will understand that stopping that fleeing bandit is part of the challenge of the encounter.
 
-Luckily, this is a heroic game. Although the Director can surprise the players with dramatic reveals and twisty-turny stories, “Gotcha!” moments that make players suspicious of every fleeing bandit shouldn’t be part of those stories. If a bandit is fleeing an encounter, they’re running away to rethink their life. If they’re going for help, the players should get some sense of that—for example, the bandit screaming at the top of their lungs as they run toward their leader’s tent. That way, the players can process what’s happening, and will understand that stopping that fleeing bandit is part of the challenge of the encounter.
-
-### OBJECTIVE ENDINGS
+#### OBJECTIVE ENDINGS
 
 While planning a combat encounter, the Director can set one or more objectives the heroes can achieve to end the encounter without dropping every last foe. Some broad categories of objectives are described in this section, but the Director should feel free to create their own. As well, Directors can always end combat anytime it becomes clear that the heroes are going to win an encounter with minimal effort, even if they haven’t achieved all the objectives.
 
-#### DIMINISH NUMBERS
+##### DIMINISH NUMBERS
 
 Sometimes the heroes simply defeat enough of their enemies that the rest don’t stand a chance. For example, the Director might decide that an encounter ends when the heroes have no non-minion enemies remaining, when the heroes outnumber their foes, or when the number of remaining enemies is half of what it was at the start of the encounter.
 
 The Director can also use the following guideline to determine when it’s time to call “Cut!” if one of the encounter’s objectives is for the heroes to diminish their foes. At the end of a round of combat with no living solo or boss creatures (see the Bestiary), the Director should add up the levels of all the enemies who oppose the heroes. Minions count as 1/5 of their listed level for this purpose. Then the Director adds the levels of all the remaining heroes who aren’t dying together. If the combined level of the heroes is twice or more than the combined level of their enemies, the Director should end combat.
 
-#### DEFEAT SPECIFIC FOE
+##### DEFEAT SPECIFIC FOE
 
 A combat encounter might include one or more of the heroes’ enemies commanding the rest, such as a hobgoblin captain leading a group of mercenaries, or one or more particularly powerful foes among a group of weaker ones, such as a pair of tusker demons in a gnoll war band. Because these enemies are the stars of the encounter, if only weak foes are left once the stars are gone, the battle loses its challenge and it’s time to wrap it up. Under such circumstances, the Director can end the combat once those special creatures are defeated.
 
-### GET THE THING!
+##### GET THE THING!
 
 Classic heroic fantasy is full of important objects that the heroes must protect from the forces of evil: magic rings, royal birth certificates, dragon eggs, and the like. Heroes often find themselves at violent odds with their enemies as they race to collect a valuable or important item from a guarded temple or castle, or when they need to steal the item from a group of enemies already in possession of it.
 
 Objectives in this category work well when paired with other objectives. For instance, the heroes must steal a ledger containing a record of criminal activity from an overmind and her lackeys. However, even if they obtain the ledger, the battle won’t be over until they also defeat the overmind, who won’t let the book go without a fight!
 
-### DESTROY THE THING!
+##### DESTROY THE THING!
 
 Combat doesn’t always have to be about destroying your enemies. Sometimes it’s about destroying their stuff! Burning a pirate captain’s vessel, closing a portal to the Abyssal Wasteland before it lets in an army of demons, or shutting down a massive kobold trap made of spinning blades could so hamper the heroes’ foes that the battle is no longer worth fighting once the damage is done.
 
-### SAVE ANOTHER
+##### SAVE ANOTHER
 
 No one earns the mantle of hero without saving a few lives. If the heroes rescue a powerful ally from the clutches of their foes during combat, the added strength of that ally might be enough to make the remainder of the encounter trivial. When you and your allies save a griffon from a crew of poachers, the hunters become the… well, you know the rest.
 
-### HOLD THEM OFF
+##### HOLD THEM OFF
 
 Sometimes the heroes just need to buy time. They might need to battle a conquering tyrant’s army to allow innocent villagers time to escape. They might need to hold off wave after wave of zombies while a group of priests completes a ritual to lay the undead to rest for good. To achieve this objective, the heroes need to stay alive and protect a particular position for a number of rounds determined by the Director.
 
-### STOP THE ACTION
+##### STOP THE ACTION
 
 Sometimes combat is complicated by the fact that the heroes need to stop the villainous actions of their foes. It’s not enough to simply defeat the warriors in a cult. The heroes must also stop the zealots’ archdevil-summoning ritual! Or it might be that the heroes need to interrupt a wedding and make sure an evil mage doesn’t marry the heir to the throne. Despite combat, the mage forces the ceremony to continue!
 
 Objectives in this category often have a timer associated with them. If the heroes don’t achieve the objective in a certain number of rounds, the conditions of the battle should change. For instance, if the cultists summon the archdevil, defeating the devil suddenly becomes the heroes’ new objective!
 
-### MAKING OBJECTIVES KNOWN
+##### MAKING OBJECTIVES KNOWN
 
-Encounters work best if the players have a good idea of what they are working toward. The Director doesn’t need to state objectives outright to the players at the start of the battle, though they can if they like. Not all groups want to start combat with the Director saying, “Your objectives are to break the eldritch machine and destroy the vampire lord,” because doing so might take the players out of the game’s narrative.
+> Encounters work best if the players have a good idea of what they are working toward. The Director doesn’t need to state objectives outright to the players at the start of the battle, though they can if they like. Not all groups want to start combat with the Director saying, “Your objectives are to break the eldritch machine and destroy the vampire lord,” because doing so might take the players out of the game’s narrative.
+> 
+> In many combat encounters, the objectives are obvious. For instance, in a battle against a necromancer controlling a horde of undead minions, the players probably don’t need to be told that defeating the necromancer ends the encounter when that’s an easy assumption. In an encounter against cultists performing a world-ending ritual, the heroes can guess that stopping the ritual is one of their objectives. In fact, they probably went on this adventure to specifically achieve that objective. They’re not there for karaoke at the end of existence!
+> 
+> Not all objectives are so clear, however. In a battle against a goblin cursespitter, a kobold legionary, and three human knaves guarding the entrance to a bandit fortress, it can be difficult to know what the exact objective of the encounter is, beyond “Defeat them all!” The objective could be to simply diminish the enemy forces, but it could also be the case that the cursespitter leads the group, so that defeating the goblin causes the other forces to fall apart. In such a case, it helps if the Director provides at least a hint of that setup at the start of the battle. The cursespitter could clearly issue orders and even call the other bandits cowards, demanding that they not “run away like last time!”
 
-In many combat encounters, the objectives are obvious. For instance, in a battle against a necromancer controlling a horde of undead minions, the players probably don’t need to be told that defeating the necromancer ends the encounter when that’s an easy assumption. In an encounter against cultists performing a world-ending ritual, the heroes can guess that stopping the ritual is one of their objectives. In fact, they probably went on this adventure to specifically achieve that objective. They’re not there for karaoke at the end of existence!
-
-Not all objectives are so clear, however. In a battle against a goblin cursespitter, a kobold legionary, and three human knaves guarding the entrance to a bandit fortress, it can be difficult to know what the exact objective of the encounter is, beyond “Defeat them all!” The objective could be to simply diminish the enemy forces, but it could also be the case that the cursespitter leads the group, so that defeating the goblin causes the other forces to fall apart. In such a case, it helps if the Director provides at least a hint of that setup at the start of the battle. The cursespitter could clearly issue orders and even call the other bandits cowards, demanding that they not “run away like last time!”
-
-### COMPLETE THE ACTION
+##### COMPLETE THE ACTION
 
 The opposite of “Stop the Action,” this objective ending sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a time raider boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few time raiders actually aboard.
 
-### OBJECTIVES AND ENCOUNTER DIFFICULTY
+##### OBJECTIVES AND ENCOUNTER DIFFICULTY
 
 Objectives can modify an encounter’s difficulty by extending the scope of success beyond grinding every enemy down to 0 Stamina. When the heroes are challenged to defeat specific foes or take other actions while trying not to die, those objectives can make an encounter easier than the encounter rules would usually dictate. As such, the Director should feel free to turn up the heat a bit.
 
 (Playtest note: More specific advice on this topic is to come as the encounter-building system is developed.)
 
-### DRAMATIC FINISH
+#### DRAMATIC FINISH
 
 If the heroes are able to end a fight with a dramatic finish, the Director assigns each hero one or more of their remaining enemies, then asks that hero’s player to describe how the hero neutralizes that enemy. The hero might deliver a killing blow, knock their foe out, or let the enemy flee with their tail between their legs (literally or figuratively). If the fight has more heroes than Director controlled enemies, the Director can assign more than one hero to an enemy, then ask the players how their characters work together to bring that enemy down. After everyone gives a description, the battle ends.
 
-### EVENT ENDING
+#### EVENT ENDING
 
 If the Director calls the end of combat when a specific objective in an encounter is achieved, the event ending creates a big narrative finish. The Director can pick a narrative trigger for an event ending before an encounter begins, or can come up with one on the fly if that makes more sense.
 
 Event endings can cover big scenarios, such as the characters destroying a dam to unleash a river upon their enemies, or completing a ritual that sends all the demons they've been battling back to the Abyssal Wasteland. These endings should be accompanied by vivid visual details. For example, if the heroes are battling a necromancer controlling a horde of zombies, the undead might crumble to dust upon the necromancer's defeat. Similarly, if the heroes destroy an eldritch machine sapping the land of its natural energy, the shockwave from its destruction could vaporize the cultists trying to protect it.
 
-### LAST-STAND STAMINA
+##### LAST-STAND STAMINA
 
-For players who enjoy fighting to the bitter end rather than ending combat early, the Director can use this **optional rule** to bring things to a quicker conclusion. When it's clear that the heroes are going to win a battle, their enemies are overcome with fear, despair, and panic. In this weakened state, each enemy's Stamina drops to 1, and each minion has a damage threshold of 1. The heroes can then swiftly finish off the remaining foes, getting the satisfaction of total annihilation through dice rolls.
+> For players who enjoy fighting to the bitter end rather than ending combat early, the Director can use this **optional rule** to bring things to a quicker conclusion. When it's clear that the heroes are going to win a battle, their enemies are overcome with fear, despair, and panic. In this weakened state, each enemy's Stamina drops to 1, and each minion has a damage threshold of 1. The heroes can then swiftly finish off the remaining foes, getting the satisfaction of total annihilation through dice rolls.
 
-# NEGOTIATION
+## NEGOTIATION
 
 Negotiation gives the heroes a chance to get what they want without combat … or at least without further combat! You might negotiate with a king to obtain military support against an incursion of demons in a neighboring country. You could enter into talks with a bandit leader to convince her to stop attacking merchant caravans on the road, and instead target nobles loyal to a tyrant. You might attempt to convince an archmage to allow you access to their secret library so you can research the location of a dragon-slaying axe. Negotiation covers all these scenarios and more.
 
@@ -7508,17 +7498,17 @@ By contrast, negotiations typically involve all the heroes interacting with one 
 
 To negotiate successfully, the heroes must make persuasive arguments to convince NPCs to do what they want. “Do it or we kill you” is a threat that might well accompany a single Might test using the Intimidate skill, but it’s not a negotiating tactic.
 
-### LIMITS OF NEGOTIATION
+#### LIMITS OF NEGOTIATION
 
 Some players might instinctively feel that the negotiation rules should give them something akin to mind-control superpowers. They’re not used to imagining NPCs complexly, and might attempt to negotiate in situations where negotiation is either completely unreasonable or literally impossible. No matter how persuasive or well spoken a hero is, there’s no argument to be made that might convince the vile Lord Syuul to give up his pursuit of evil and become a gardener. A negotiation typically can’t convince a queen to hand over her crown to the heroes and name them the new rulers of the land, or inspire a dragon to fork over every piece of treasure in their hoard.
 
 Negotiations only work when the heroes ask for something from an NPC that the NPC is willing to seriously consider giving them.
 
-Negotiation is not a process that changes an NPC’s character. Rather, the heroes are trying to make an NPC understand how behaving differently would be in character. You might well be able to get the hitherto loyal lieutenant of an evil boss to reconsider the error of their ways. That’s a classic dramatic trope. But even then, you’re not changing their character—you’re convincing them that their current evil ways are out of character. “Is this who you are? Is this how you want to be remembered?!”
+**Negotiation is not a process that changes an NPC’s character.** Rather, the heroes are trying to make an NPC understand how behaving differently would be in character. You might well be able to get the hitherto loyal lieutenant of an evil boss to reconsider the error of their ways. That’s a classic dramatic trope. But even then, you’re not changing their character—you’re convincing them that their current evil ways are out of character. “Is this who you are? Is this how you want to be remembered?!”
 
 If some players want to use the negotiation system as a means to an end by having their characters say, “Just do what we tell you, or else!,” you can remind them that that’s not how most people, including NPCs, work. Any heroes who open with that attitude are likely to lose the negotiation before it begins.
 
-### THE THREAT OF VIOLENCE
+#### THE THREAT OF VIOLENCE
 
 In the real world, negotiations rarely come with a threat of immediate violence. Ambassadors don’t usually get into fistfights. But this is a heroic fantasy RPG, featuring heroes who are armed to the teeth and able to alter reality with their minds. The threat of violence is already implied. Everyone involved knows that the characters could draw steel at any moment.
 
@@ -7526,9 +7516,9 @@ The Director typically assumes that the underlying potential for events to turn 
 
 Negotiation is about persuading someone to help you willingly because you’ve convinced them that meeting your objectives is a good idea. Working with you is wise or logical, or might make them look good. A hero can absolutely threaten someone with violence and force them to do what they want, but this is an incredibly temporary state. A threatened NPC isn’t willingly doing what they’ve been asked. They’re doing it on threat of violence, and will comply only while that threat is evident—after which, they’ll likely go back to their previous behavior as soon as they think they can get away with it.
 
-### NEWGOTIATION
+#### NEWGOTIATION
 
-If you’ve never played a game with a dedicated negotiation system like this, you might need to run it once or twice before you master it, similar to learning any new subsystem in an RPG. The new rules you’ll learn are all dedicated to facilitating roleplaying by allowing the heroes to beseech an NPC for aid, and only involve rolling dice when the heroes don’t directly appeal to that NPC’s motivations.
+> If you’ve never played a game with a dedicated negotiation system like this, you might need to run it once or twice before you master it, similar to learning any new subsystem in an RPG. The new rules you’ll learn are all dedicated to facilitating roleplaying by allowing the heroes to beseech an NPC for aid, and only involve rolling dice when the heroes don’t directly appeal to that NPC’s motivations.
 
 ### NEGOTIATION STATS
 
@@ -7546,13 +7536,13 @@ An NPC’s patience represents how much time and effort they’re willing to dev
 
 Patience can decrease each time the heroes make an argument during a negotiation.
 
-#### LANGUAGE AND PATIENCE
+##### LANGUAGE AND PATIENCE
 
 If at least one hero negotiating with an NPC speaks the NPC’s native language (not including Caelian), then the NPC’s patience increases by 1 at the start of the negotiation (to a maximum of 5). If three or more heroes negotiating with an NPC speak the NPC’s native language, the NPC’s patience increases by 2 (to a maximum of 5).
 
-### FOR THE DIRECTOR: SHARING INTEREST AND PATIENCE
+#### FOR THE DIRECTOR: SHARING INTEREST AND PATIENCE
 
-It’s up to you as the Director to decide whether to share an NPC’s interest or patience during a negotiation. Sometimes sharing this information can make an encounter more dramatic, with the players watching their progress rise and fall in real-time. Other groups might find negotiation more fun, dramatic, and immersive if those exact numbers are hidden from the players. In playtesting, some groups loved seeing these statistics and some groups didn’t, just as some groups like knowing the Stamina of every creature in a battle and others prefer to keep that information secret. Talk to your group about what they’d prefer.
+> It’s up to you as the Director to decide whether to share an NPC’s interest or patience during a negotiation. Sometimes sharing this information can make an encounter more dramatic, with the players watching their progress rise and fall in real-time. Other groups might find negotiation more fun, dramatic, and immersive if those exact numbers are hidden from the players. In playtesting, some groups loved seeing these statistics and some groups didn’t, just as some groups like knowing the Stamina of every creature in a battle and others prefer to keep that information secret. Talk to your group about what they’d prefer.
 
 #### MOTIVATIONS
 
@@ -7566,11 +7556,11 @@ Pitfalls are motivations that spark ire, discomfort, shame, fear, or some other 
 
 Pitfalls and motivations are two sides of the same concept. They’re presented below as a single list, so that what might be a motivation for one NPC is a pitfall for another. Whenever the heroes make an argument, they risk stumbling into one of an NPC’s pitfalls unless they do their research beforehand or read the NPC well.
 
-### LIST OF MOTIVATIONS AND PITFALLS
+#### LIST OF MOTIVATIONS AND PITFALLS
 
 An NPC can have any of the following twelve motivations or pitfalls.
 
-#### BENEVOLENCE
+##### BENEVOLENCE
 
 An NPC with the benevolence motivation believes in sharing what they have with others. However, an NPC involved in a negotiation must be limited in their benevolence, so that they don’t just give the heroes what they need.
 
@@ -7583,7 +7573,7 @@ Arguments that appeal to a benevolence motivation contend that if the NPC strike
 - “If you lend us the Sword of Agathor, we can make Capital safer for your guild by using it to lay your enemies low.”
 - "If you can teleport us into the dragon’s cave, we’ll give you half the wyrm’s hoard once we cut off the creature’s head. That could benefit generations of students at your academy!"
 
-### DISCOVERY
+##### DISCOVERY
 
 An NPC with the discovery motivation wants to learn new lore, explore forgotten places, break ground with new experiments, or uncover artifacts lost to time. Their curiosity and quest for knowledge might be driven by a specific goal, such as seeking the cure for a rare disease or a portal to a specific far-off world. Or it could be that they are a naturally inquisitive person who just wants to understand all they can about the timescape.
 
@@ -7594,7 +7584,7 @@ Arguments that appeal to a discovery motivation contend that striking a deal wit
 - "Allow us to use your cipher to translate the only copy of the *Codex Mortis*, and then we’ll let you read the book when we’re done."
 - "We know the journey to Decant Isle is dangerous, but we’re going into uncharted territory. We thought that your crew of sailors might want to be among the few mortals to lay eyes on the place."
 
-### FREEDOM
+##### FREEDOM
 
 An NPC with the freedom motivation wants no authority above them and desires no authority over others. They might already have personal freedom and wish to maintain that status quo, or they might wish to liberate themself or others from someone else’s authority.
 
@@ -7605,7 +7595,7 @@ Arguments that appeal to a freedom motivation contend that helping the heroes wi
 - "I know you want to see the queen’s authority revoked forever. She has no heirs. Give us the key to her study so that we can prove her corruption and give you a chance to topple the monarchy henceforth."
 - "If you promise to give us ten vials of Assassin’s Kiss, we’ll see to it that the baron’s prison is emptied."
 
-### GREED
+##### GREED
 
 An NPC with the greed motivation desires wealth and resources above almost anything else. Sometimes these NPCs are misers, much like wyrms who hoard coins and gems but never spend or donate them. Others flaunt their wealth, viewing it as a sign of their station in life. Greed-driven NPCs might share their wealth with a select group of people they love, such as a noble lord who indulges his children’s every desire. Some NPCs might be greedy for resources other than money, such as a demon who wants to collect and devour souls, or a troll lord who hungers endlessly for the flesh of others.
 
@@ -7616,7 +7606,7 @@ Arguments that appeal to a greed motivation contend that helping the heroes will
 - "You should help us battle the overmind. Xorranox’s wealth is legendary, and we’ll see to it that you get your fair share."
 - "Give us a week to do research among your private collection of books, and we’ll give you another ten unique tomes we found in an ancient star elf sanctuary."
 
-### HIGHER AUTHORITY
+##### HIGHER AUTHORITY
 
 An NPC with the higher authority motivation remains staunchly loyal to a person or force they perceive as more important than themself. This higher authority could be an organization, a deity or being of great power, a formal leader such as a noble or monarch, a mystical presence or force the NPC might not fully understand, or a person the NPC sees as an informal authority figure (an older sibling, a personal hero, and so forth).
 
@@ -7627,20 +7617,18 @@ Arguments that appeal to a higher authority motivation contend that it’s in th
 - "All great creations honor your god, Malus. If you teach me to forge the Hammer of Azdul, that will be a great honor to bestow upon your god."
 - "You know what Jarith the Bold would do? He’d guide us through the vast wasteland of the desert to reach the tower. Will you be our Jarith?"
 
-### JUSTICE
+##### JUSTICE
 
 An NPC with the justice motivation wants to see the righteous rewarded and the wicked punished, however subjective their sense of who or what is good and evil. A priest who venerates a god of nature might believe that all who protect plants and animals are righteous, and that those who harvest natural resources as miners and lumberjacks must die. Having a justice motivation doesn’t necessarily make an NPC a kind or charitable person.
 
 An NPC with the justice pitfall doesn’t believe that the timescape is an inherently just place, and has no interest in making it one. The world is eternal conflict, there is no such thing as justice, and anyone who thinks otherwise is a naive fool.
-
-### JUSTICE
 
 Arguments that appeal to a justice motivation position the heroes on the good side of an NPC’s sense of right and wrong. Example arguments include the following:
 
 - "You despise those who steal from nature. Allow us peacefully into your wode so we may bottle the Blessed Spring’s water. We’re going to use it to stop an army from felling every tree and tearing up the earth wherever they go."
 - "You think nobles are lazy barons who get rich off the backs of peasants. We want to dethrone Lord Saxton. Lend us your crew of thieves, and we’ll see to it that when Saxton falls, the people can choose their own leaders."
 
-### LEGACY
+##### LEGACY
 
 An NPC with the legacy motivation desires fame while alive and acclaim that lasts long after their death. They hope others will know and remember their deeds, great or terrible. Some of these NPCs might even seek immortality through deification or undeath, so that the eventual shedding of their mortal coil doesn’t prevent them from continuing to make history.
 
@@ -7651,7 +7639,7 @@ Arguments that appeal to a legacy motivation contend that striking a deal with t
 - "If you give us the vizier’s itinerary, I’ll compose a song about your bravery in defying him, then sing it in every tavern from here to Ix!"
 - "Yes, losing the battle is a possibility. If we do, the gnolls will still come for you eventually. But if we crush our foes, imagine the honors, the histories, the poems, the statues—all of it created for you because your siege engines turned the tide."
 
-### PEACE
+##### PEACE
 
 An NPC with the peace motivation wants calm in their life. Under typical circumstances, they want to be left alone to run their business, farm, kingdom, criminal empire, or whatever small slice of the timescape is theirs. Some such NPCs don’t have peace and need help obtaining it, while others want their peaceful status quo to be maintained.
 
@@ -7662,7 +7650,7 @@ Arguments that appeal to a peace motivation contend that helping the heroes will
 - "You have a good thing going here. A little burgling of nobles, some alcohol smuggling, and some illegal gambling dens. No one’s getting hurt, but Constable Cofax is closing in on you. We could redirect him toward some real danger to the community, if you can help us set a trap for the Watchmaker."
 - "I know you don’t sell to outsiders, but we need that helm. I’m going to use it to turn back a group of hobgoblins marching this way. They’re not going to be as friendly as us."
 
-### POWER
+##### POWER
 
 An NPC with the power motivation covets the authority of others. They want to increase their influence, no matter how great it already is, and maintain their domain. They might seek power through conquering others, the collection of artifacts, or through the infusion of supernatural rituals—though why choose one method when all three together achieve the best results? Some such NPCs are world-traversing tyrants, but the petty administrators of village organizations and shrines can covet power just as hungrily.
 
@@ -7673,11 +7661,11 @@ Arguments that appeal to a power motivation contend that working with the heroes
 - "Everyone knows you should be running the watch, Percy. The old lady’s retiring, and our friend Baron Kuglar is naming the replacement. Now, you let us into the restricted armory, and we’ll put in a good word."
 - "We know he’s your brother, Your Highness, but he’s older—first in line for the throne. If you help us prove he’s in a cult, you become the favorite son."
 
-### NPCS CHANGE OVER TIME
+##### NPCS CHANGE OVER TIME
 
-Just like the heroes, NPCs in negotiations are complex individuals who can change over time. It’s possible that the heroes might have to negotiate with the same NPC for several different favors during the course of a campaign, over which time the NPC’s motivations and pitfalls might change. If the heroes turn a bandit captain with the greed and power motivations into a temporary ally, that criminal might learn from them, changing their ways to rob only those who exploit the poor and giving those earnings to people in need. The next time the heroes negotiate with the bandit captain, they have the benevolence and protection motivations.
+> Just like the heroes, NPCs in negotiations are complex individuals who can change over time. It’s possible that the heroes might have to negotiate with the same NPC for several different favors during the course of a campaign, over which time the NPC’s motivations and pitfalls might change. If the heroes turn a bandit captain with the greed and power motivations into a temporary ally, that criminal might learn from them, changing their ways to rob only those who exploit the poor and giving those earnings to people in need. The next time the heroes negotiate with the bandit captain, they have the benevolence and protection motivations.
 
-### PROTECTION
+##### PROTECTION
 
 An NPC with the protection motivation has land, people, information, items, or an organization they want protected above all else. Keeping their charge safe is a duty they hold dear, and aiding in that protection earns their favor. Most people have friends or family they wish to protect, but an NPC with the protection motivation believes in doing so above all else.
 
@@ -7687,7 +7675,7 @@ Arguments that appeal to a protection motivation contend that helping the heroes
 
 - "Dead soldiers grow the necromancer’s ranks. Total annihilation is the only way to defeat her. March with us now, while her army is small, and we’ll defeat her. Or..."
 
-### REVELRY
+##### REVELRY
 
 An NPC with the revelry motivation just wants to have fun. They enjoy socializing at parties, thrill-seeking, or indulging in other hedonistic activities. Getting pleasure out of life while spending time with people they like is paramount to such NPCs.
 
@@ -7698,7 +7686,7 @@ Arguments that appeal to the revelry motivation contend that striking a deal wit
 - "How would you like to have the most exclusive songs for your exclusive birthday celebration next week? I’ll write you a whole original set list, free of charge … provided you extend me and my band here an invitation."
 - "I know you don’t want to forge five Chronokinesis Crowns. How’s this instead? You do that for me, and I’ll give you the fourteen kegs of whiskey we found in a steel-dwarf ruin. This stuff is old, unique, and forget-your-first-name potent. You can crack a keg with your friends to celebrate a job well done."
 
-### VENGEANCE
+##### VENGEANCE
 
 An NPC with the vengeance motivation wants to harm another who has hurt them. Their desire for revenge could be proportional to the harm that was inflicted upon them, or they might wish to pay back their pain with interest. In some cases, a desire for vengeance can be satisfied only by the death of another, but an NPC might wish to pay back their own suffering with embarrassment, career failure, or some other less permanent pain.
 
@@ -7713,15 +7701,15 @@ Arguments that appeal to the vengeance motivation contend that the NPC can gain 
 
 A negotiation begins when the heroes ask something of an NPC and the Director deems that the circumstances require a negotiation. Those circumstances always involve the heroes requiring assistance that could change the course of the adventure, and having the NPC conflicted about working with them.
 
-### STOP COMBAT, START NEGOTIATION
+#### STOP COMBAT, START NEGOTIATION
 
 If a hero wants to halt hostilities to negotiate with the other side, they can use a maneuver to make a hard Presence test (or another applicable test, as the Director determines) in an attempt to stop combat and start a negotiation. The test has a chance of success only if the Director believes the other side is willing and capable of negotiating. A foe who has the upper hand, who hates the heroes beyond measure, or who lacks sapience is unlikely to negotiate.
 
-### STARTING STATS
+#### STARTING STATS
 
 An NPC’s starting negotiation stats depend on their attitude toward the heroes, as shown on the Negotiation Starting Attitudes table, and can be adjusted by the Director as they see fit. A naturally irascible NPC might have lower patience, while a hostile NPC with a greater-than-expected stake in the negotiation topic might have a higher-than-typical interest.
 
-### NEGOTIATION STARTING ATTITUDES
+##### NEGOTIATION STARTING ATTITUDES
 
 | Attitude   | Description                                                                                               | Interest | Patience |
 | ---------- | --------------------------------------------------------------------------------------------------------- | -------- | -------- |
@@ -7745,7 +7733,7 @@ If an NPC isn’t as forthcoming, or if the heroes want to learn one of the NPC�
 
 After this test is made, the heroes can’t make another test to determine the same NPC’s motivations or pitfalls until they make an argument to the NPC or the negotiation ends.
 
-### OUTSIDE OF NEGOTIATION
+#### OUTSIDE OF NEGOTIATION
 
 While the heroes can discover an NPC’s motivations or pitfalls through tests made during negotiation, they can employ other methods of investigating motivations or pitfalls before negotiation. Research or a little reconnaissance (for instance, reading the NPC’s diary or talking to their closest friends), can reveal quite a bit about a person!
 
@@ -7759,7 +7747,7 @@ One hero makes an argument to an NPC, but the players can discuss the details of
 
 This is a good topic for discussion before a group actually gets into a negotiation, so everyone knows the other players’ thoughts. Some groups have the most fun without any around-the-table discussion, while others prefer being able to strategize as often as possible.
 
-### APPEAL TO MOTIVATION
+#### APPEAL TO MOTIVATION
 
 If an argument doesn’t include a pitfall and appeals to one of the NPC’s motivations that hasn’t already been appealed to, the hero making the argument can make an easy test to attempt to sway the NPC with the argument. Depending on the argument, this can be a Reason, Intuition, or Presence test using any applicable skill—most commonly a skill from the interpersonal skill group. The test has the following outcomes:
 
@@ -7772,7 +7760,7 @@ At the Director’s discretion, a particularly well-roleplayed or well-reasoned 
 
 If the heroes attempt to appeal to a motivation that’s already been appealed to, the NPC’s interest remains the same and their patience decreases by 1.
 
-### NO MOTIVATION OR PITFALL
+#### NO MOTIVATION OR PITFALL
 
 If an argument doesn’t include one of the NPC’s motivations or pitfalls, the hero who makes the argument must make a more difficult test to appeal to the NPC. The test has the following outcomes:
 
@@ -7783,25 +7771,25 @@ If an argument doesn’t include one of the NPC’s motivations or pitfalls, the
 
 If the heroes try to use the same argument without a pitfall or motivation twice, the test automatically gets a tier 1 result.
 
-### EVERYONE CAN PARTICIPATE
+#### EVERYONE CAN PARTICIPATE
 
-Since Reason and Intuition with creatively applied skills can be used to make arguments, all heroes can actively participate in the process of negotiation. The hero with the highest Presence who has the Persuade skill doesn’t automatically have to be the one who makes all the tests.
+> Since Reason and Intuition with creatively applied skills can be used to make arguments, all heroes can actively participate in the process of negotiation. The hero with the highest Presence who has the Persuade skill doesn’t automatically have to be the one who makes all the tests.
 
-### CAUGHT IN A LIE
+#### CAUGHT IN A LIE
 
 If a hero lies to an NPC with an argument that fails to increase the NPC’s interest, the Director can decide that the NPC catches the lie and is offended by it. The NPC’s interest decreases by 1, in addition to any decrease imposed by the failure.
 
-### PITFALL USED
+#### PITFALL USED
 
 If an argument uses one of the NPC’s pitfalls, it automatically fails and the NPC’s interest and patience each decrease by 1. The NPC might also warn the heroes not to treat them in such a way again.
 
-### RENOWN AND NEGOTIATION
+#### RENOWN AND NEGOTIATION
 
 During a negotiation, an NPC has an Impression score that determines the amount of Renown needed to influence them (see Renown). This score only matters if the NPC knows of the heroes. A dragon who slumbered away the last hundred years and was just woken up to negotiate can’t be influenced by a hero’s Renown. (By the way, it’s a terrible idea to wake a dragon, even if they do know you’re famous.) If the NPC does know of the hero and has an Impression that is equal to or lower than the hero’s Renown, the NPC can be influenced by that hero.
 
 The higher an NPC’s Impression, the harder they are to influence with Renown. A small-time brigand has a lower Impression score than a monarch who meets with powerful and famous people all the time. The **NPCs and Impression** table provides examples of different archetypical NPC Impression scores. If a creature has a level, then their Impression equals their level unless the Director deems otherwise.
 
-### NPCS AND IMPRESSION
+##### NPCS AND IMPRESSION
 
 | Impression | Example NPC                                          |
 | ---------- | ---------------------------------------------------- |
@@ -7818,11 +7806,11 @@ The higher an NPC’s Impression, the harder they are to influence with Renown. 
 | 11         | Archdevil, archfey, demigod                          |
 | 12         | Deity, titan                                         |
 
-### FAME OR INFAMY?
+##### FAME OR INFAMY?
 
 If a hero has enough Renown to influence an NPC during negotiation, the Director decides if they are famous or infamous to the NPC. If the NPC appreciates a character’s deeds and views them as a hero who makes the world a better place, that hero is famous to them. If the NPC believes the hero’s accomplishments make the world worse and views them as an enemy, the hero is infamous to the NPC.
 
-### INFLUENCING TESTS
+##### INFLUENCING TESTS
 
 If a hero is famous to an NPC, they gain an edge on tests when making arguments to which the Flirt, Lead, or Persuade skill could be applied. If they are infamous to the NPC, they gain an edge on tests when making arguments to which the Brag, Interrogate, or Intimidate skill could be applied. A hero gains this edge even if they don’t have the appropriate skill.
 
@@ -7838,11 +7826,11 @@ Unless the NPC is deceitful, it should be clear to the heroes if their argument 
 
 The initial response should come with an offer (or a refusal to make an offer) based on the NPC’s current interest. If a hero’s argument reduces an NPC’s patience to 0, the NPC lets the heroes know that this is their final offer.
 
-### FOR THE DIRECTOR: REASONS FOR DECEPTION
+#### FOR THE DIRECTOR: REASONS FOR DECEPTION
 
-Under certain circumstances, an NPC might not want to show the heroes how well their arguments are working. For example, if an NPC’s interest has dropped so low that they now intend to harm the heroes, the NPC might falsely agree to what the heroes ask for as part of a trap. Likewise, a greedy NPC might try to keep their enthusiasm for a deal concealed while their interest is high to obtain more money or favors from the heroes. If a hero thinks an NPC is attempting to fool them, they can make an Intuition test. On a success, the hero learns their true standing with the NPC.
+> Under certain circumstances, an NPC might not want to show the heroes how well their arguments are working. For example, if an NPC’s interest has dropped so low that they now intend to harm the heroes, the NPC might falsely agree to what the heroes ask for as part of a trap. Likewise, a greedy NPC might try to keep their enthusiasm for a deal concealed while their interest is high to obtain more money or favors from the heroes. If a hero thinks an NPC is attempting to fool them, they can make an Intuition test. On a success, the hero learns their true standing with the NPC.
 
-### INTEREST 5 (“YES, AND …”)
+#### INTEREST 5 (“YES, AND …”)
 
 If the NPC’s interest is 5, they offer everything the heroes initially asked for—and then sweeten the deal. This result is the best possible outcome for the heroes. If they offered to perform any services or make payments as part of the deal, the NPC might waive those obligations, allowing the heroes to get what they want for free. Alternatively, the NPC might hold the heroes to any offers they made and instead offer an extra service or item on top of what was asked for.
 
@@ -7850,37 +7838,37 @@ For example, if the heroes asked the boss of a thieves guild for that organizati
 
 The NPC should let the heroes know that this is the best offer they can make.
 
-### INTEREST 4 ("YES.")
+#### INTEREST 4 ("YES.")
 
 If the NPC’s interest is 4, they offer the heroes everything they asked for but won’t sweeten the deal. The NPC also accepts anything the heroes have offered as part of the deal with this result.
 
 For example, if the heroes offered to help spring a guild thief from prison in exchange for the thieves guild’s elite assassins standing against Lord Saxton, the guildmaster agrees to those terms without attempting to adjust anything. This likely ends the negotiation, but it’s possible that the heroes could push for a little more, provided the NPC has the patience for another argument. A Director could prompt the heroes to push for more by having the NPC ask a leading question, such as, “Is there anything else?” or “What else do you want from me?”
 
-### INTEREST 3 ("YES, BUT …")
+#### INTEREST 3 ("YES, BUT …")
 
 If the NPC’s interest is 3, they offer the heroes what they want in exchange for everything the heroes offered … then they ask for a little extra, such as a favor or a payment from the characters. If the heroes offered to free a thieves guild member from prison in exchange for the service of the organization’s assassins, the guildmaster might ask them to free an additional prisoner, or to grant the prisoner they rescue a sum of cash or a magic weapon.
 
-### INTEREST 2 ("NO, BUT …")
+#### INTEREST 2 ("NO, BUT …")
 
 If the NPC’s interest is 2, the NPC can’t give the heroes what they want. However, they are willing to offer other less impactful goods or services in exchange for whatever the heroes have promised. The guildmaster might not be willing to spare any troops to fight Lord Saxton, but could instead offer the latest spy reports on Saxton’s movements in exchange for the jailbreak.
 
-### INTEREST 1 ("NO.")
+#### INTEREST 1 ("NO.")
 
 If the NPC’s interest is 1, they outright reject the heroes’ idea without a counteroffer. If the NPC still has patience, they might press the heroes for a better deal, saying something like, “Why should we risk our necks to help you fight Lord Saxton? What’s really in it for the thieves guild, other than a short, brutal end when you inevitably fail?”
 
-### INTEREST 0 ("NO, AND …")
+#### INTEREST 0 ("NO, AND …")
 
 If an NPC’s interest is 0, they offer nothing, refuse to negotiate further, and seek to harm the heroes. The NPC might attack immediately, or they could take a different approach, perhaps spreading malicious rumors about the characters, sending assassins after them, or otherwise making their lives difficult. If the heroes don’t want to be at odds with the NPC, they’ll need to offer an valuable gift or undertake a quest just to make amends.
 
 It is impossible to continue a negotiation when an NPC’s interest drops to 0.
 
-### FOR THE DIRECTOR: CREATING RESPONSES AND OFFERS
+#### FOR THE DIRECTOR: CREATING RESPONSES AND OFFERS
 
-When you’re preparing a negotiation, think of at least two specific asks that the NPC could make of the heroes. Then you’re prepared if the heroes ask what they can do for the NPC and you want to give a response, or if the NPC’s interest becomes 3.
-
-These asks could be specific items the heroes have or can obtain (such as a magic sword or psionic crystal), or they might be favors in the form of adventuring (such as slaying a dragon or rescuing a village from a siege).
-
-You should also have at least two specific ways the NPC can help the heroes beyond what they’re asking for. These can be used if the NPC’s interest becomes 2, to give the heroes something that can help them that isn’t what they asked for. They can also be used if the NPC’s interest rises to 5, to give the heroes something extra in addition to what they asked for. This help could take the form of treasures or the assistance of a companion or retainer. It might be hidden information that the heroes don’t yet know, and which can help them with their overall goal. Or perhaps it’s a less impactful version of what the heroes initially asked for. If the heroes ask an ancient dragon for help storming a castle, the dragon might offer the services of their younger, less powerful offspring instead of their own assistance … or in addition to it!
+> When you’re preparing a negotiation, think of at least two specific asks that the NPC could make of the heroes. Then you’re prepared if the heroes ask what they can do for the NPC and you want to give a response, or if the NPC’s interest becomes 3.
+> 
+> These asks could be specific items the heroes have or can obtain (such as a magic sword or psionic crystal), or they might be favors in the form of adventuring (such as slaying a dragon or rescuing a village from a siege).
+> 
+> You should also have at least two specific ways the NPC can help the heroes beyond what they’re asking for. These can be used if the NPC’s interest becomes 2, to give the heroes something that can help them that isn’t what they asked for. They can also be used if the NPC’s interest rises to 5, to give the heroes something extra in addition to what they asked for. This help could take the form of treasures or the assistance of a companion or retainer. It might be hidden information that the heroes don’t yet know, and which can help them with their overall goal. Or perhaps it’s a less impactful version of what the heroes initially asked for. If the heroes ask an ancient dragon for help storming a castle, the dragon might offer the services of their younger, less powerful offspring instead of their own assistance … or in addition to it!
 
 ### KEEP GOING OR STOP
 
@@ -7898,7 +7886,7 @@ After killing the true lord of Bedegar, the tyrannical Lord Saxton took over the
 
 The heroes are engaging in a negotiation with Zola Honeycut, the human guildmaster of the Clock—a thieves’ guild whose headquarters is located in Bedegar’s capital. The guild openly opposed Saxton when he first seized power, but the tyrant was quick to crack down on all known members of the Clock, forcing them into hiding or hanging them as a warning to others. The heroes’ hope is that they can convince Zola to support their armed resistance.
 
-### ZOLA’S NEGOTIATION STATS
+#### ZOLA’S NEGOTIATION STATS
 
 Zola is neutral toward the heroes when the negotiation begins. She knows them only by reputation, though she understands that they too believe Saxton is a tyrant who must be stopped. However, standing up to that tyrant has cost her people dearly, and she’s not sure she’s ready to rejoin the fight. One wrong move could spell the end of the Clock!
 
@@ -7915,11 +7903,11 @@ Zola is neutral toward the heroes when the negotiation begins. She knows them on
 - **Higher Authority:** Zola has no interest in serving anyone other than herself, and she scoffs at the suggestion of taking orders.
 - **Revelry:** Zola is all business and has no time for frivolity, especially while living under Saxton’s threat.
 
-### ROLEPLAYING ZOLA
+#### ROLEPLAYING ZOLA
 
 Zola is glad that people are finally opposing Lord Saxton, but is angry that no one rose up with the Clock months ago when the tyrant first staged his coup. She’s passionate about protecting her people, quick to call out dangerous plans in arguments she doesn’t like, and fast to praise statements she agrees with. She’s not afraid to speak her mind to the heroes, knowing that they share her desire to see Saxton gone. She’s just not sure she can risk more of her found family in the current fight.
 
-### NEGOTIATION IN ACTION
+#### NEGOTIATION IN ACTION
 
 Here’s how the negotiation with Zola might play out. In this scenario, Alyssa is playing Jorn the tactician, Grace is playing Val the conduit, James is playing Korvo the shadow, and Matt is playing Linn the talent. All the heroes have a Renown of 2 except for Jorn, who has a Renown of 3 and is therefore famous to Zola.
 
