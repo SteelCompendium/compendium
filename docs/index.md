@@ -4,7 +4,7 @@ The Draw Steel Compendium is an independent product published under the DRAW STE
 
 - This Compendium is unofficial
 - There are mistakes and errors
-- There is no warrenty written or implied
+- There is no warranty written or implied
 
 ---
 
