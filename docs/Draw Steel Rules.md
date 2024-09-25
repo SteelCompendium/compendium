@@ -543,6 +543,7 @@ A melee weapon free strike is a melee attack made with an unarmed strike or impr
 - **Target:** 1 creature or object
 
 **Power Roll + Might or Agility:**
+
 - 11 or lower: 2 damage
 - 12–16: 6 damage
 - 17+: 9 damage
@@ -555,6 +556,7 @@ A melee weapon free strike is a melee attack made with an unarmed strike or impr
 - **Target:** 1 creature or object
 
 **Power Roll + Might or Agility:**
+
 - 11 or lower: 2 damage
 - 12–16: 5 damage
 - 17+: 8 damage
@@ -990,6 +992,7 @@ You let loose a mighty roar to repel your foes and shake their spirits.
 **Target:** All enemies
 
 **Power Roll + Might or Presence:**
+
 - 11 or lower: 2 damage; push 1
 - 12–16: 4 damage; push 3
 - 17+: 7 damage; push 5; frightened (EoT)
@@ -3558,6 +3561,7 @@ The heavy impact of your weapon attacks drives your foes ever backward.
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
+
 - 11 or lower: 3 damage; push 1
 - 12–16: 8 damage; push 2
 - 17+: 12 damage; push 4
@@ -3572,6 +3576,7 @@ Keeping in constant motion helps you slip out of reach after a brutal assault.
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
+
 - 11 or lower: 3 damage
 - 12–16: 8 damage
 - 17+: 12 damage; slowed (EoT)
@@ -3588,6 +3593,7 @@ You hit with a strength that’s worth the risk of raising your opponent’s ire
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
+
 - 11 or lower: 3 damage
 - 12–16: 8 damage
 - 17+: 12 damage
@@ -3604,6 +3610,7 @@ Fighting up close lets you keep your foe exactly where you want them.
 - **Target:** 1 creature of your size or smaller
 
 **Power Roll + Might:**
+
 - 11 or lower: 3 damage; slowed (EoT)
 - 12–16: 8 damage; grabbed
 - 17+: 12 damage; grabbed
@@ -3628,6 +3635,7 @@ Your enemies will get out of your way—whether they want to or not.
 - **Target:** 1 creature
 
 **Power Roll + Might:**
+
 - 11 or lower: 3 damage; slide 2
 - 12–16: 5 damage; slide 3
 - 17+: 8 damage; slide 5
@@ -3647,6 +3655,7 @@ When you barrel through your foes, they feel your wrath.
 
 
 **Power Roll + Might:**
+
 - 11 or lower: 5 damage
 - 12–16: 6 damage
 - 17+: 9 damage
@@ -3663,6 +3672,7 @@ As your foes close in around you, why bother taking them on one by one?
 - **Target:** All enemies
 
 **Power Roll + Might:**
+
 - 11 or lower: 3 damage
 - 12–16: 4 damage; push 1
 - 17+: 7 damage; push 3
@@ -3677,6 +3687,7 @@ Unless they get some help, your foe is finished.
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
+
 - 11 or lower: 6 damage; slowed (EoT)
 - 12–16: 9 damage; slowed (EoT)
 - 17+: 14 damage; slowed (EoE)
@@ -3697,6 +3708,7 @@ A mighty strike leaves your foe reeling.
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
+
 - 11 or lower: 7 damage; weakened and bleeding (EoT)
 - 12–16: 11 damage; weakened and bleeding (EoT)
 - 17+: 17 damage; weakened and bleeding (EoE)
@@ -3724,6 +3736,7 @@ You focus your rage into a single devastating strike.
 - **Target:** 1 creature
 
 **Power Roll + Might:**
+
 - 11 or lower: 9 damage
 - 12–16: 13 damage
 - 17+: 21 damage
@@ -3740,6 +3753,7 @@ The destructive power of nature cannot be contained.
 - **Target:** All enemies
 
 **Power Roll + Might:**
+
 - 11 or lower: 4 damage; push 2
 - 12–16: 5 damage; push 4
 - 17+: 8 damage; push 6
@@ -3829,6 +3843,7 @@ Attacks with your sharp and deadly claws send your foes staggering back.
 - **Target:** 2 creatures or objects
 
 **Power Roll + Might:**
+
 - 11 or lower: 2 damage; push 1
 - 12–16: 3 damage; push 2
 - 17+: 8 damage; push 3
@@ -3878,6 +3893,7 @@ Foes who try to close around you do so at their peril.
 - **Target:** 3 creatures or objects
 
 **Power Roll + Agility:**
+
 - 11 or lower: 4 damage
 - 12–16: 5 damage
 - 17+: 7 damage
@@ -3929,6 +3945,7 @@ Your enemies try in vain to fall back from your pouncing attack.
 - **Target:** 2 creatures or objects
 
 **Power Roll + Agility:**
+
 - 11 or lower: 4 damage
 - 12–16: 5 damage; push 1
 - 17+: 6 damage; push 2
@@ -3980,6 +3997,7 @@ A savage assault forces your foes back.
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
+
 - 11 or lower: 5 damage
 - 12–16: 9 damage; push 1
 - 17+: 12 damage; push 2; prone if the target is your size or smaller
@@ -4194,6 +4212,7 @@ Your precise strikes let your allies take advantage of a target’s agony.
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
+
 - 11 or lower: 3 damage
 - 12–16: 8 damage; the next attack against the target gains an edge
 - 17+: 12 damage; the target falls prone
@@ -4208,6 +4227,7 @@ Facing an enemy alone lets you exploit their overconfidence.
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
+
 - 11 or lower: 3 damage
 - 12–16: 8 damage
 - 17+: 12 damage
@@ -4224,6 +4244,7 @@ Being fast on your feet makes your ranged attacks especially deadly.
 - **Target:** 1 creature or object
 
 **Power Roll + Agility:**
+
 - 11 or lower: 3 damage
 - 12–16: 7 damage
 - 17+: 10 damage
@@ -4240,6 +4261,7 @@ Keeping an enemy’s focus on you lets your ally hit hard.
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
+
 - 11 or lower: 3 damage
 - 12–16: 8 damage
 - 17+: 12 damage
@@ -4266,6 +4288,7 @@ As you move across the battlefield, every foe within reach feels your wrath.
 **Effect:** You move up to your speed, and that movement doesn’t provoke opportunity attacks. You make one power roll that targets each enemy who becomes adjacent to you during the move.
 
 **Power Roll + Agility:**
+
 - 11 or lower: 3 damage
 - 12–16: 4 damage
 - 17+: 7 damage
@@ -4280,6 +4303,7 @@ A foe forced away from you might assume they’re out of danger, but they’ll s
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
+
 - 11 or lower: 6 damage; slide 2
 - 12–16: 9 damage; slide 3
 - 17+: 14 damage; slide 5
@@ -4296,6 +4320,7 @@ Striking two foes at once is second nature to you.
 - **Target:** 2 creatures or objects
 
 **Power Roll + Agility:**
+
 - 11 or lower: 4 damage
 - 12–16: 6 damage
 - 17+: 9 damage
@@ -4310,6 +4335,7 @@ You leave your foe bleeding out after a devastating attack.
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
+
 - 11 or lower: 6 damage
 - 12–16: 9 damage; bleeding until a creature uses a maneuver to staunch the wound
 - 17+: 14 damage; bleeding until a creature uses an action to staunch the wound
@@ -4330,6 +4356,7 @@ You seize the perfect moment and strike with fatal precision!
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
+
 - 11 or lower: 2d6 + 8 damage
 - 12–16: 2d6 + 12 damage
 - 17+: 2d6 + 18 damage
@@ -4344,6 +4371,7 @@ Move unexpectedly, strike fast, and be gone!
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
+
 - 11 or lower: 7 damage
 - 12–16: 11 damage
 - 17+: 17 damage
@@ -4360,6 +4388,7 @@ Your attack leaves a foe in the perfect position for your allies to finish them.
 - **Target:** 1 creature
 
 **Power Roll + Agility:**
+
 - 11 or lower: 7 damage; attacks against the target gain an edge (EoT)
 - 12–16: 11 damage; attacks against the target gain an edge (EoT)
 - 17+: 17 damage; attacks against the target have a double edge (EoT)
@@ -4606,6 +4635,7 @@ Your precise strike leaves your foe struggling to respond.
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
+
 - 11 or lower: 6 damage; slowed (EoT)
 - 12–16: 8 damage; dazed (EoT)
 - 17+: 13 damage; dazed (EoE)
@@ -4620,6 +4650,7 @@ You hit a foe so hard that it gets your allies back in the fight.
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
+
 - 11 or lower: 6 damage; you or an ally within 10 can spend a Recovery
 - 12–16: 8 damage; you or an ally within 10 can spend a Recovery
 - 17+: 13 damage; you or an ally within 10 can spend a Recovery, and each of you gains an edge on the next attack they make this encounter
@@ -4649,6 +4680,7 @@ Your attack is your allies’ signal to strike!
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
+
 - 11 or lower: 7 damage; an ally within 10 can make a signature attack against the target as a free triggered action
 - 12–16: 10 damage; an ally within 10 can make a signature attack with an edge against the target as a free triggered action
 - 17+: 16 damage; two allies within 10 can each make a signature attack with an edge against the target as a free triggered action
@@ -4676,6 +4708,7 @@ Leaving your foe struggling gives your allies a strategic opening.
 - **Target:** 1 creature or object
 
 **Power Roll + Might:**
+
 - 11 or lower: 7 damage; weakened (EoT)
 - 12–16: 10 damage; weakened (EoT)
 - 17+: 16 damage; weakened (EoE)
@@ -4926,6 +4959,7 @@ A stab, and a few quick, careful steps back.
 **Distance:** Reach 1 or range 10
 **Target:** 1 creature
 **Power Roll + Might or Agility:**
+
 - 11 or lower: 4 damage; you shift 1 square
 - 12–16: 9 damage; you shift up to 2 squares
 - 17+: 13 damage; you shift up to 3 squares
@@ -4954,6 +4988,7 @@ In your hands, the haft is as good as the head.
 **Distance:** Reach 2
 **Target:** 2 creatures or objects
 **Power Roll + Might or Agility:**
+
 - 11 or lower: 4 damage
 - 12–16: 6 damage
 - 17+: 8 damage
@@ -4982,6 +5017,7 @@ You feint to move your enemies into perfect position.
 **Distance:** Reach 1
 **Target:** 1 creature
 **Power Roll + Might or Agility:**
+
 - 11 or lower: 5 damage
 - 12–16: 9 damage; you swap places with the target
 - 17+: 12 damage; you swap places with the target, then slide the target 2 squares
@@ -5010,6 +5046,7 @@ An enemy who tagged you will pay for that.
 **Distance:** Reach 1
 **Target:** 1 creature
 **Power Roll + Might or Agility:**
+
 - 11 or lower: 3 damage
 - 12–16: 8 damage
 - 17+: 16 damage
@@ -5039,6 +5076,7 @@ The faster you move, the harder you hit.
 **Distance:** Reach 1
 **Target:** 1 creature or object
 **Power Roll + Might or Agility:**
+
 - 11 or lower: 3 damage
 - 12–16: 8 damage
 - 17+: 16 damage
@@ -5068,6 +5106,7 @@ Keeping your enemies stumbling around the battlefield is second nature to you.
 **Distance:** Reach 1
 **Target:** 1 creature
 **Power Roll + Might or Agility:**
+
 - 11 or lower: 4 damage
 - 12–16: 9 damage; slide 1
 - 17+: 13 damage; slide 2
@@ -5098,6 +5137,7 @@ In your hands, a shield isn’t just for protection.
 **Distance:** Reach 1
 **Target:** 1 creature
 **Power Roll + Might or Agility:**
+
 - 11 or lower: 4 damage; push 1
 - 12–16: 8 damage; push 2
 - 17+: 11 damage; push 3; prone if the target is your size or smaller
@@ -5128,6 +5168,7 @@ A well-placed shot leaves your enemy struggling to move.
 **Distance:** Ranged 10
 **Target:** 1 creature
 **Power Roll + Might or Agility:**
+
 - 11 or lower: 3 damage
 - 12–16: 7 damage; slowed (EoT)
 - 17+: 10 damage; slowed (EoE)
@@ -5157,6 +5198,7 @@ When you fire two arrows back to back, both hit their mark.
 **Distance:** Ranged 12
 **Target:** 2 creatures or objects
 **Power Roll + Might or Agility:**
+
 - 11 or lower: 4 damage
 - 12–16: 6 damage
 - 17+: 7 damage
@@ -5186,6 +5228,7 @@ The well-thrown net that follows your main attack leaves your foes right where y
 **Distance:** Reach 2
 **Target:** 1 creature
 **Power Roll + Might or Agility:**
+
 - 11 or lower: 4 damage
 - 12–16: 7 damage; slowed (EoT)
 - 17+: 10 damage; restrained (EoT)
@@ -5213,6 +5256,7 @@ The strength of your assault makes it impossible for your foe to ignore you.
 **Distance:** Reach 1
 **Target:** 1 creature
 **Power Roll + Might or Agility:**
+
 - 11 or lower: 5 damage; taunted (EoT)
 - 12–16: 9 damage; taunted (EoT)
 - 17+: 12 damage; taunted (EoT)
@@ -5241,6 +5285,7 @@ Breathe… aim… wait… then strike!
 **Distance:** Ranged 15
 **Target:** 1 creature
 **Power Roll + Might or Agility:**
+
 - 11 or lower: 3 damage
 - 12–16: 7 damage
 - 17+: 14 damage
@@ -5271,6 +5316,7 @@ When your stick speaks, your enemy moves.
 **Distance:** Reach 2
 **Target:** 1 creature
 **Power Roll + Might or Agility:**
+
 - 11 or lower: 4 damage
 - 12–16: 8 damage; slide 1
 - 17+: 11 damage; slide 3
@@ -5299,6 +5345,7 @@ All combat is a dance—and you’ll be the one leading.
 **Distance:** Reach 1
 **Target:** 1 creature
 **Power Roll + Might or Agility:**
+
 - 11 or lower: 5 damage
 - 12–16: 10 damage; push 1
 - 17+: 14 damage; push 2
@@ -5328,6 +5375,7 @@ When you draw your whip back after an attack, your enemy comes ever closer.
 **Distance:** Reach 3
 **Target:** 1 creature
 **Power Roll + Might or Agility:**
+
 - 11 or lower: 4 damage
 - 12–16: 8 damage; pull 1
 - 17+: 11 damage; pull 2
@@ -7761,6 +7809,7 @@ If a hero wishes to figure out an NPC’s motivations, they can begin by simply 
 If an NPC isn’t as forthcoming, or if the heroes want to learn one of the NPC’s pitfalls, a hero can make a Reason, Intuition, or Presence test while interacting with the NPC during the negotiation, based on the tactics used to draw out the NPC. The test has the following outcomes:
 
 **Power Roll + Reason, Intuition, or Presence:**
+
 - 11 or lower: The hero learns no information regarding the NPC’s motivations or pitfalls, and the NPC realizes the hero is trying to read them and becomes annoyed. As a consequence, the NPC’s patience is reduced by 1.
 - 12–16: The hero learns no information regarding the NPC’s motivations or pitfalls.
 - 17+: The hero learns one of the NPC’s motivations or pitfalls (their choice).
@@ -7786,6 +7835,7 @@ This is a good topic for discussion before a group actually gets into a negotiat
 If an argument doesn’t include a pitfall and appeals to one of the NPC’s motivations that hasn’t already been appealed to, the hero making the argument can make an easy test to attempt to sway the NPC with the argument. Depending on the argument, this can be a Reason, Intuition, or Presence test using any applicable skill—most commonly a skill from the interpersonal skill group. The test has the following outcomes:
 
 **Power Roll + Reason, Intuition, or Presence:**
+
 - 11 or lower: The NPC’s patience decreases by 1.
 - 12–16: The NPC’s interest increases by 1, and their patience decreases by 1.
 - 17+: The NPC’s interest increases by 1, and their patience doesn’t change.
@@ -7799,6 +7849,7 @@ If the heroes attempt to appeal to a motivation that’s already been appealed t
 If an argument doesn’t include one of the NPC’s motivations or pitfalls, the hero who makes the argument must make a more difficult test to appeal to the NPC. The test has the following outcomes:
 
 **Power Roll + Reason, Intuition, or Presence:**
+
 - 11 or lower: The NPC’s patience decreases by 1, and their interest decreases by 1.
 - 12–16: The NPC’s patience decreases by 1.
 - 17+: The NPC’s interest increases by 1, and their patience decreases by 1. (On a natural 19 or 20, the NPC’s patience remains the same.)
@@ -7925,6 +7976,7 @@ The heroes are engaging in a negotiation with Zola Honeycut, the human guildmast
 Zola is neutral toward the heroes when the negotiation begins. She knows them only by reputation, though she understands that they too believe Saxton is a tyrant who must be stopped. However, standing up to that tyrant has cost her people dearly, and she’s not sure she’s ready to rejoin the fight. One wrong move could spell the end of the Clock!
 
 **ZOLA HONEYCUT NEGOTIATION STATS:**
+
 - **Interest:** 2
 - **Patience:** 3
 - **Impression:** 3
