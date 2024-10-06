@@ -40,6 +40,10 @@ markdown_extensions:
          permalink: true
          toc_depth: 1-6
 
+extra:
+   version:
+      provider: mike
+
 plugins:
    - search
    - roamlinks
