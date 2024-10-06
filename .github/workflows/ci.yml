@@ -5,6 +5,7 @@ on:
       branches:
          - backer
          - patron
+         - main
 
 permissions:
    contents: write
