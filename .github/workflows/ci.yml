@@ -1,31 +1,36 @@
 name: ci
+
 on:
    push:
       branches:
          - backer
          - patron
-         - main
+
 permissions:
    contents: write
+
 jobs:
    deploy:
       runs-on: ubuntu-latest
       steps:
-         -  uses: actions/checkout@v3
-         -  uses: actions/setup-python@v4
-            with:
-               python-version: 3.x
-         -  uses: actions/cache@v2
-            with:
-               key: ${{ github.ref }}
-               path: .cache
-         -  run: pip install mkdocs-material mike mkdocs-roamlinks-plugin mkdocs-rss-plugin
+         - name: Check out the code
+           uses: actions/checkout@v3
 
-         # Deploy to the 'backer' branch
-         -  run: mike deploy backer --branch backer --push --update-aliases backer
+         - name: Set up Python
+           uses: actions/setup-python@v4
+           with:
+              python-version: 3.x
 
-         # Deploy to the 'patron' branch
-         -  run: mike deploy patron --branch patron --push --update-aliases latest
+         - name: Install dependencies
+           run: |
+              pip install mkdocs-material mike mkdocs-roamlinks-plugin
 
-         # Deploy to the 'main' branch, which for now is the same as 'patron'
-         -  run: mike deploy patron --branch main --push --update-aliases latest
+         - name: Deploy documentation
+           env:
+              VERSION_NAME: ${{ github.ref_name }}
+           run: |
+              if [ "$VERSION_NAME" = "patron" ]; then
+                mike deploy --push --update-aliases $VERSION_NAME latest
+              else
+                mike deploy --push $VERSION_NAME
+              fi
