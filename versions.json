@@ -1,5 +1,12 @@
 [
   {
+    "version": "patron",
+    "title": "patron",
+    "aliases": [
+      "latest"
+    ]
+  },
+  {
     "version": "main",
     "title": "main",
     "aliases": []
