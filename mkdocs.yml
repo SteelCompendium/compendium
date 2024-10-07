@@ -44,7 +44,9 @@ extra:
 plugins:
    - search
    - roamlinks
-
+   - encryptcontent:
+        # Im aware this isnt secure; its not really supposed to be.
+        global_password: 'XXAXX'
 extra_css:
    - stylesheets/extra.css
 
