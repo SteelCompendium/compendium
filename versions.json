@@ -3,13 +3,9 @@
     "version": "patron",
     "title": "patron",
     "aliases": [
-      "latest"
+      "latest",
+		"patreon"
     ]
-  },
-  {
-    "version": "main",
-    "title": "main",
-    "aliases": []
   },
   {
     "version": "backer",
