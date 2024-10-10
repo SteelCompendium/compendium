@@ -48,7 +48,7 @@ Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head
 
 “Look how easily this one is goaded!” she said. She spat out dark blue blood and turned to the peasants gathered. “You people! Why do you let yourselves be cowed by these … bits? Bits of people kludged together? Even the least of you is worth more than these.”
 
-“Perhaps from the air,” Flight Captain Lyria offered, and she stroked the feathers of her giant hawk mount to calm it. “I could scout the forest around the …”
+“Perhaps from the air,” Flight Captain Lyria offered, and she stroked the feathers of her [[Giant Hawk|giant hawk]] mount to calm it. “I could scout the forest around the …”
 
 “No!” Taxiarch Lycaon pointed a finger at the hawklord and strode toward her. “You are the elite of Ajax's winged harriers, I am his chosen brigade commander. We are not scavengers! This one,” he stabbed a gloved finger at the alien, “will come to heel, or I will give her to my war dogs.” He turned to face the chained alien, who yawned. Lycaon seethed.
 
