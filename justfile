@@ -14,7 +14,7 @@ update push="true":
 		cp -R Adventures "${compendium_dir}/docs"
 		cp -R Abilities "${compendium_dir}/docs"
 		cp -R Ancestries "${compendium_dir}/docs"
-		cp -R Bestiary/markdown "${compendium_dir}/docs"
+		cp -R Bestiary/markdown "${compendium_dir}/docs/Bestiary"
 		cp -R Kits "${compendium_dir}/docs"
 		cp -R Careers "${compendium_dir}/docs"
 		cp -R Cultures "${compendium_dir}/docs"
