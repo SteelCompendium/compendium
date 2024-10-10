@@ -1,18 +1,14 @@
 #### WAR DOG COGNIVITE
 
-**Level 1 Defender**
-*Humanoid, War Dog*
-**EV 11**
-**Stamina**: 25
-**Speed**: 5 ([[Fly|fly]])
-**Size**: 1M / Stability 0
-**[[Free Strike]]**: 2
+| WAR DOG COGNIVITE          | **Level 1 Defender** |
+| :------------------------- | -------------------: |
+| *Humanoid, War Dog*        |            **EV 11** |
+| **Stamina**: 25            |   **Speed**: 5 ([[Fly|fly]]) |
+| **Size**: 1M / Stability 0 |   **[[Free Strike]]**: 2 |
 
-- **Might**: +0
-- **Agility**: +1
-- **Reason**: +0
-- **Intuition**: +0
-- **Presence**: +1
+| **Might**: +0 | **Agility**: +1 | **Reason**: +0 | **Intuition**: +0 | **Presence**: +1 |
+| ------------- | --------------- | -------------- | ----------------- | ---------------- |
+|               |                 |                |                   |                  |
 
 **Synlirii Grafts (Action)** ◆ 2d10 + 1 ◆ Signature
 
@@ -34,4 +30,5 @@
 **Effect**: The cognivite chooses an ally within 10 squares, then chooses whether each target is [[Taunted|taunted]] by the ally (EoT) or has a double bane on attacks against the ally (EoT). The same choice must be made for all targets.
 
 **Loyalty Collar**
+
 When the cognivite dies, they explode, dealing 1d6 damage to each adjacent enemy.

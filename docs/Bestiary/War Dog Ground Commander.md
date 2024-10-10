@@ -1,18 +1,14 @@
 #### WAR DOG GROUND COMMANDER
 
-**Level 3 Boss**
-*Humanoid, War Dog*
-**EV 36**
-**Stamina**: 90
-**Speed**: 5
-**Size**: 1M / Stability 2
-**[[Free Strike]]**: 5
+| WAR DOG GROUND COMMANDER   |   **Level 3 Boss** |
+| :------------------------- | -----------------: |
+| *Humanoid, War Dog*        |          **EV 36** |
+| **Stamina**: 90            |       **Speed**: 5 |
+| **Size**: 1M / Stability 2 | **[[Free Strike]]**: 5 |
 
-- **Might**: +2
-- **Agility**: +2
-- **Reason**: +2
-- **Intuition**: +2
-- **Presence**: +2
+| **Might**: +2 | **Agility**: +2 | **Reason**: +2 | **Intuition**: +2 | **Presence**: +2 |
+| ------------- | --------------- | -------------- | ----------------- | ---------------- |
+|               |                 |                |                   |                  |
 
 **Conditioning Spear (Action) ◆ 2d10 + 2 ◆ Signature**
 
@@ -24,8 +20,10 @@
 - ✦ ≤11: 5 damage; pull 1
 - ★ 12–16: 8 damage; pull 2
 - ✸ 17+: 11 damage; pull 3
-  **Effect**: One ally within 10 squares of the commander can make a [[Free Strike|free strike]].
-  **1 VP**: A target who is adjacent to the ground commander after this ability is resolved is [[Grabbed|grabbed]] (INU ends). This [[Grab|grab]] can’t be escaped using the [[Escape Grab]] maneuver. The ground commander can [[Grab|grab]] up to two creatures at a time.
+
+**Effect**: One ally within 10 squares of the commander can make a [[Free Strike|free strike]].
+
+**1 VP**: A target who is adjacent to the ground commander after this ability is resolved is [[Grabbed|grabbed]] (INU ends). This [[Grab|grab]] can’t be escaped using the [[Escape Grab]] maneuver. The ground commander can [[Grab|grab]] up to two creatures at a time.
 
 **Highest Posthumous Promotion (Maneuver)**
 
@@ -34,12 +32,15 @@
 **Final Orders (Triggered Action)**
 
 **Trigger**: The target has a condition imposed on them, is force moved, or is killed.
+
 **Effect**: The target can move up to their speed and make a [[Free Strike|free strike]] before the triggering effect happens.
 
 **End Effect**
+
 At the end of their turn, the ground commander can take 5 damage to end one EoE effect affecting them. This damage can’t be reduced in any way.
 
 **Loyalty Collar**
+
 When the ground commander dies, they explode, dealing 2d6 damage to each adjacent enemy.
 
 **Combined Arms (Villain Action 1)**

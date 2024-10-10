@@ -1,19 +1,15 @@
 #### TIME RAIDER HELIX
 
-**Level 3 Controller**
-*Humanoid, [[Time Raider]]*
-**EV 17**
-**Stamina**: 40
-**Immunity**: Psychic 4
-**Speed**: 5 ([[Fly|fly]])
-**Size**: 1M / Stability 0
-**[[Free Strike]]**: 5
+| [[Time Raider|TIME RAIDER]] HELIX       |     **Level 3 Controller** |
+| :---------------------- | -------------------------: |
+| *Humanoid, [[Time Raider]]* |                  **EV 17** |
+| **Stamina**: 40         |    **Immunity**: Psychic 4 |
+| **Speed**: 5 ([[Fly|fly]])      | **Size**: 1M / Stability 0 |
+|                         |         **[[Free Strike]]**: 5 |
 
-- **Might**: +0
-- **Agility**: +2
-- **Reason**: +2
-- **Intuition**: +2
-- **Presence**: +2
+| **Might**: +0 | **Agility**: +2 | **Reason**: +2 | **Intuition**: +2 | **Presence**: +2 |
+| ------------- | --------------- | -------------- | ----------------- | ---------------- |
+|               |                 |                |                   |                  |
 
 **Blaster Volley (Action)** ◆ 2d10 + 2 ◆ Signature
 
@@ -29,7 +25,9 @@
 **Kinetic Lane (Maneuver)**
 
 **Effect**: Until the start of the helix’s next turn, the area becomes a psionically charged treadmill that pushes creatures and objects at high speed in one direction of the helix’s choice. Any creature that moves into the area or starts their turn there is immediately slid 3 squares toward the square at the end of the area in the appropriate direction, starting with creatures closest to the helix. Any non-[[Time Raider|time raider]] standing in the area when it first appears takes 3 damage before they are moved.
+
 **5 VP**: The helix creates a second kinetic lane.
 
 **Foresight**
+
 The helix doesn’t take a bane on attacks against concealed creatures.
