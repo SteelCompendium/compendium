@@ -64,7 +64,7 @@ These things do happen. No one watching *[[Raider|Raiders]] of the Lost Ark* thi
 
 Closely tied to the heroic keyword, the cinematic keyword is about how we like powers and abilities with a strong visual component. You can imagine your character doing or saying these things. “[[In All This Confusion]]” is a good name for the shadow’s ability to slip out of melee and retreat to safety. The text of the ability says how it works, but the name creates a visual that explains how it’s working.
 
-When Sir Vanazor the [[Dragon Knight|dragon knight]] fury leaps onto a goblin war spider, cleaving through the goblins riding the creature in a single turn, you can see it in your mind. It feels like a movie. It doesn’t feel simply as if you rolled well, but like an epic scene, complete with slow motion and a Carpenter Brut soundtrack.
+When Sir Vanazor the [[Dragon Knight|dragon knight]] fury leaps onto a goblin [[War Spider|war spider]], cleaving through the goblins riding the creature in a single turn, you can see it in your mind. It feels like a movie. It doesn’t feel simply as if you rolled well, but like an epic scene, complete with slow motion and a Carpenter Brut soundtrack.
 
 You should imagine your tactician character leading the battle, granting your allies free attacks, extra maneuvers. Coordinating the battle. That’s what the name implies. And if we’ve done a good job, when you read the character’s abilities, you think, “Yes! This is what I was imagining! I can’t wait to do this!”
 
@@ -397,7 +397,7 @@ The high elves of the Fallen City, once the sky elf city of Irranys, pay tribute
 
 The [[Dwarf|dwarves]] of Kal Kalavar pay tribute in prisoners they abduct from among those foolish enough to travel the roads unescorted—prisoners who serve Ajax as forced labor or are fed into the Body Banks. Brooding under the [[Mountain|mountains]] in their fabled Hanging City of Kal Kalavar, the stone [[Dwarf|dwarves]] do not like this deal with the Overlord, but they lack the power—or perhaps the will—to rebel.
 
-The Hawklords of the High Aerie now act as Ajax’s royal guard. Mounted on their giant hawks, these [[Human|human]] warriors project Ajax’s power, enforce his tyrannical order, and extend his influence into every corner of the wilderness. Their mastery of the air means that any revolt or rebellion is seen and crushed quickly.
+The Hawklords of the High Aerie now act as Ajax’s royal guard. Mounted on their [[Giant Hawk|giant hawks]], these [[Human|human]] warriors project Ajax’s power, enforce his tyrannical order, and extend his influence into every corner of the wilderness. Their mastery of the air means that any revolt or rebellion is seen and crushed quickly.
 
 The Dragon Phalanx is broken now, its knights scattered. Ajax has placed a high bounty on their heads. Some folk still see Omund’s knights as symbols of justice, heroes of a lost age before might made right. But in every town, every village, there are always desperate people willing to collect the bounty, summoning the Hawklords to pluck any [[Dragon Knight|dragon knight]] foolish enough to travel without a disguise away to the Chrysopolis.
 
@@ -1954,7 +1954,7 @@ Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head
 
 “Look how easily this one is goaded!” she said. She spat out dark blue blood and turned to the peasants gathered. “You people! Why do you let yourselves be cowed by these … bits? Bits of people kludged together? Even the least of you is worth more than these.”
 
-“Perhaps from the air,” Flight Captain Lyria offered, and she stroked the feathers of her giant hawk mount to calm it. “I could scout the forest around the …”
+“Perhaps from the air,” Flight Captain Lyria offered, and she stroked the feathers of her [[Giant Hawk|giant hawk]] mount to calm it. “I could scout the forest around the …”
 
 “No!” Taxiarch Lycaon pointed a finger at the hawklord and strode toward her. “You are the elite of Ajax’s winged harriers, I am his chosen brigade commander. We are not scavengers! This one,” he stabbed a gloved finger at the alien, “will come to heel, or I will give her to my war dogs.” He turned to face the chained alien, who yawned. Lycaon seethed.
 
@@ -6974,7 +6974,7 @@ For example, if you target three creatures with an attack ability and your resul
 
 ### RESISTANCE ROLLS
 
-Some abilities that are used by the heroes’ foes have the target of the ability make a resistance roll instead of the creature using the ability making a power roll. These abilities have the Resistance keyword, indicating that the target rolls to see how well they can resist the ability. For instance, the goblin cursespitter’s Eye of Surlach ability forces a target to make an Intuition resistance roll:
+Some abilities that are used by the heroes’ foes have the target of the ability make a resistance roll instead of the creature using the ability making a power roll. These abilities have the Resistance keyword, indicating that the target rolls to see how well they can resist the ability. For instance, the [[Goblin Cursespitter|goblin cursespitter]]’s Eye of Surlach ability forces a target to make an Intuition resistance roll:
 
 **Target Resists + Intuition:**
 
@@ -7703,7 +7703,7 @@ Objectives in this category often have a timer associated with them. If the hero
 > 
 > In many combat encounters, the objectives are obvious. For instance, in a battle against a necromancer controlling a horde of undead minions, the players probably don’t need to be told that defeating the necromancer ends the encounter when that’s an easy assumption. In an encounter against cultists performing a world-ending ritual, the heroes can guess that stopping the ritual is one of their objectives. In fact, they probably went on this adventure to specifically achieve that objective. They’re not there for karaoke at the end of existence!
 > 
-> Not all objectives are so clear, however. In a battle against a goblin cursespitter, a kobold legionary, and three [[Human|human]] knaves guarding the entrance to a bandit fortress, it can be difficult to know what the exact objective of the encounter is, beyond “Defeat them all!” The objective could be to simply diminish the enemy forces, but it could also be the case that the cursespitter leads the group, so that defeating the goblin causes the other forces to fall apart. In such a case, it helps if the Director provides at least a hint of that setup at the start of the battle. The cursespitter could clearly issue orders and even call the other bandits cowards, demanding that they not “run away like last time!”
+> Not all objectives are so clear, however. In a battle against a [[Goblin Cursespitter|goblin cursespitter]], a kobold legionary, and three [[Human Knave|human knaves]] guarding the entrance to a bandit fortress, it can be difficult to know what the exact objective of the encounter is, beyond “Defeat them all!” The objective could be to simply diminish the enemy forces, but it could also be the case that the cursespitter leads the group, so that defeating the goblin causes the other forces to fall apart. In such a case, it helps if the Director provides at least a hint of that setup at the start of the battle. The cursespitter could clearly issue orders and even call the other bandits cowards, demanding that they not “run away like last time!”
 
 ##### COMPLETE THE ACTION
 

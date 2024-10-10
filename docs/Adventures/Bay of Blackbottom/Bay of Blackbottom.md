@@ -285,12 +285,12 @@ The Revelation (or the flotilla of lifeboats that hold her crew and passengers) 
 
 Even as the heroes and Captain Oriel step onto the docks alongside the ship’s passengers and crew, two Hawklords serving Ajax the Invincible drop from the sky to confront them. They are:
 
-- **Coriad**, a [[Human|human]] trickshot atop a giant hawk
-- **Tyria**, a [[Human|human]] brawler atop a giant hawk
+- **Coriad**, a [[Human|human]] trickshot atop a [[Giant Hawk|giant hawk]]
+- **Tyria**, a [[Human|human]] brawler atop a [[Giant Hawk|giant hawk]]
 
 Coriad and Tyria both caught sight of the Revelation’s misfortune while on patrol above the city, though they were unable to reach the ship during the pirate attack. After ensuring that everyone is safe, they demand an explanation.
 
-*Two [[Human|humans]] riding giant hawks fitted with saddles and bridles descend to the docks as you arrive. Concern is etched on their faces as they see the damaged ship. “Is everyone safe? We can help with the wounded. And what happened here?” These are Hawklords, the elite guards of Ajax the Invincible, and agents of the Overlord’s authority.*
+*Two [[Human|humans]] riding [[Giant Hawk|giant hawks]] fitted with saddles and bridles descend to the docks as you arrive. Concern is etched on their faces as they see the damaged ship. “Is everyone safe? We can help with the wounded. And what happened here?” These are Hawklords, the elite guards of Ajax the Invincible, and agents of the Overlord’s authority.*
 
 #### INITIAL QUESTIONING
 

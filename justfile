@@ -14,6 +14,7 @@ update push="true":
 		cp -R Adventures "${compendium_dir}/docs"
 		cp -R Abilities "${compendium_dir}/docs"
 		cp -R Ancestries "${compendium_dir}/docs"
+		cp -R Bestiary/markdown "${compendium_dir}/docs"
 		cp -R Kits "${compendium_dir}/docs"
 		cp -R Careers "${compendium_dir}/docs"
 		cp -R Cultures "${compendium_dir}/docs"
@@ -22,9 +23,9 @@ update push="true":
 		cp -R Movement "${compendium_dir}/docs"
 		cp -R Negotiation "${compendium_dir}/docs"
 		cp -R Media "${compendium_dir}/docs"
-		
+
 		rm "${compendium_dir}/docs/README.md" || true
-		
+
 		sha="$(git rev-parse --short HEAD)"
 		echo >&2 "[INFO] Committing and pushing updates..."
 		cd "$compendium_dir"
