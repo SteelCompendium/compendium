@@ -10,9 +10,8 @@ update push="true":
 		cd "$dir"
 		echo >&2 "[INFO] Copying compendium markdown to website docs..."
 		cp -R * "${compendium_dir}/docs"
-		# TODO
-		#cp -R Adventures "${compendium_dir}/docs"
-		#cp -R Media "${compendium_dir}/docs"
+		# TODO - what am i doing with this?
+		cp -R Media "${compendium_dir}/docs"
 
 		sha="$(git rev-parse --short HEAD)"
 		echo >&2 "[INFO] Committing and pushing updates..."
