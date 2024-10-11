@@ -3,8 +3,9 @@ title_raw: Rapid-fire
 title: Rapid-Fire
 name_raw: Rapid-fire
 name: Rapid-Fire
-type: kits
-subtype: martial kits
+type: ..
+subtype: data-rules-md
+kind: kits
 keywords: Attack, Ranged, Weapon
 keyword_list:
   - Attack
@@ -40,7 +41,7 @@ You wear light armor and wield a bow.
 | **Keywords:** Attack, Ranged, Weapon | **Type:** Action                   |
 | **Distance:** Ranged 12              | **Target:** 2 creatures or objects |
 
-**Power Roll + Might or Agility:**
+**[[Power]] Roll + Might or Agility:**
 
 - 11 or lower: 4 damage
 - 12–16: 6 damage

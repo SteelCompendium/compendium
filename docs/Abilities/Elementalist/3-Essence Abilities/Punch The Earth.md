@@ -4,9 +4,9 @@ title: Punch The Earth (3 Essence)
 name_raw: Punch The Earth
 name: Punch The Earth
 cost: 3 Essence
-type: abilities
-subtype: elementalist
-kind: 3-essence abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Area, Earth, Magic
 keyword_list:
   - Area
@@ -26,7 +26,7 @@ You slam the ground, which buckles out from you in every direction.
 | **Keywords:** Area, Earth, Magic | **Type:** Action        |
 | **Distance:** 3 burst            | **Target:** All enemies |
 
-**Power Roll + Reason**:
+**[[Power]] Roll + Reason**:
 
 - 11 or lower: 4 damage
 - 12–16: 5 damage

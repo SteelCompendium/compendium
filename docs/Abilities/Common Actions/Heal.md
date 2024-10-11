@@ -3,8 +3,9 @@ title_raw: Heal
 title: Heal
 name_raw: Heal
 name: Heal
-type: abilities
-subtype: common actions
+type: ..
+subtype: data-rules-md
+kind: abilities
 ---
 
 # Heal

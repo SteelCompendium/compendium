@@ -3,8 +3,9 @@ title_raw: Secluded
 title: Secluded
 name_raw: Secluded
 name: Secluded
-type: cultures
-subtype: environments
+type: ..
+subtype: data-rules-md
+kind: cultures
 ---
 
 # Secluded
@@ -13,4 +14,4 @@ A secluded culture is based in one relatively close-quarters structure—a build
 
 When people live together in close quarters, they typically learn to get along. They often spend much time in study or introspection, as there is not much else to do in seclusion.
 
-**Skill Options:** One skill from the interpersonal or lore skill groups.
+**Skill Options:** One skill from the interpersonal or [[Lore Skills|lore skill]] groups.

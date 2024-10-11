@@ -3,7 +3,9 @@ title_raw: Teleport
 title: Teleport
 name_raw: Teleport
 name: Teleport
-type: movement
+type: ..
+subtype: data-rules-md
+kind: movement
 ---
 
 # Teleport

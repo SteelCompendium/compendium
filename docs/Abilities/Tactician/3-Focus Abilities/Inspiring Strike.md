@@ -4,9 +4,9 @@ title: Inspiring Strike (3 Focus)
 name_raw: Inspiring Strike
 name: Inspiring Strike
 cost: 3 Focus
-type: abilities
-subtype: tactician
-kind: 3-focus abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack
@@ -27,7 +27,7 @@ You hit a foe so hard that it gets your allies back in the fight.
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |
 | **Distance:** Reach 1 or Ranged 5           | **Target:** 1 creature or object |
 
-**Power Roll + Might:**
+**[[Power]] Roll + Might:**
 
 - 11 or lower: 6 damage; you or an ally within 10 can spend a Recovery
 - 12–16: 8 damage; you or an ally within 10 can spend a Recovery

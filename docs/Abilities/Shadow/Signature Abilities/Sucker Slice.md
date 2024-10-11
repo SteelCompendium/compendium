@@ -3,9 +3,9 @@ title_raw: Sucker Slice
 title: Sucker Slice
 name_raw: Sucker Slice
 name: Sucker Slice
-type: abilities
-subtype: shadow
-kind: signature abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -25,7 +25,7 @@ Keeping an enemy's focus on you lets your ally hit hard.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Reach 1               | **Target:** 1 creature |
 
-**Power Roll + Agility:**
+**[[Power]] Roll + Agility:**
 
 - 11 or lower: 3 damage
 - 12–16: 8 damage

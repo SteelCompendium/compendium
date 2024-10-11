@@ -3,9 +3,9 @@ title_raw: Holy Infusion
 title: Holy Infusion
 name_raw: Holy Infusion
 name: Holy Infusion
-type: abilities
-subtype: conduit
-kind: triggered actions
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Magic, Ranged
 keyword_list:
   - Magic

@@ -4,9 +4,9 @@ title: Quick Pursuit (3 Insight)
 name_raw: Quick Pursuit
 name: Quick Pursuit
 cost: 3 Insight
-type: abilities
-subtype: shadow
-kind: 3-insight abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -26,7 +26,7 @@ A foe forced away from you might assume they're out of danger, but they'll soon 
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Reach 1               | **Target:** 1 creature |
 
-**Power Roll + Agility:**
+**[[Power]] Roll + Agility:**
 
 - 11 or lower: 6 damage; slide 2
 - 12–16: 9 damage; slide 3

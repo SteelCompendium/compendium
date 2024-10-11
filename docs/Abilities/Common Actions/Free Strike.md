@@ -3,8 +3,9 @@ title_raw: Free Strike
 title: Free Strike
 name_raw: Free Strike
 name: Free Strike
-type: abilities
-subtype: common actions
+type: ..
+subtype: data-rules-md
+kind: abilities
 ---
 
 # Free Strike

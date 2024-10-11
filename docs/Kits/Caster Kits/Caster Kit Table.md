@@ -3,8 +3,9 @@ title_raw: Caster Kit Table
 title: Caster Kit Table
 name_raw: Caster Kit Table
 name: Caster Kit Table
-type: kits
-subtype: caster kits
+type: ..
+subtype: data-rules-md
+kind: kits
 ---
 
 # Caster Kit Table

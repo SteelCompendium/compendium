@@ -3,7 +3,9 @@ title_raw: Frightened
 title: Frightened
 name_raw: Frightened
 name: Frightened
-type: conditions
+type: ..
+subtype: data-rules-md
+kind: conditions
 ---
 
 # Frightened

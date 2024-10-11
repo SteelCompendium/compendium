@@ -3,7 +3,9 @@ title_raw: Performer
 title: Performer
 name_raw: Performer
 name: Performer
-type: careers
+type: ..
+subtype: data-rules-md
+kind: careers
 ---
 
 # Performer
@@ -17,7 +19,7 @@ You can sing, act, or dance well enough that people actually pay to see you do i
 
 You gain the following career benefits:
 
-- **Skills**: The Music or Performance skill, plus two skills from the interpersonal skill group
+- **Skills**: The Music or Performance skill, plus two skills from the [[Interpersonal Skills|interpersonal skill]] group
 - **Renown**: 2
 - **Title**—Dazzler: When a creature watches you perform a song, dance, or role (as an actor, not in disguise) for at least 1 minute, you gain an edge on tests made to influence that creature for 1 hour after the performance ends.
 

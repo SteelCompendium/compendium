@@ -3,9 +3,9 @@ title_raw: Growing Pains
 title: Growing Pains
 name_raw: Growing Pains
 name: Growing Pains
-type: abilities
-subtype: elementalist
-kind: signature abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Attack, Green, Magic, Ranged
 keyword_list:
   - Attack
@@ -26,7 +26,7 @@ Whipping vines erupt from a foe's body to grasp at another close by.
 | **Keywords:** Attack, Green, Magic, Ranged | **Type:** Action       |
 | **Distance:** Ranged 5                     | **Target:** 1 creature |
 
-**Power Roll + Reason**:
+**[[Power]] Roll + Reason**:
 
 - 11 or lower: 2 damage
 - 12–16: 6 damage

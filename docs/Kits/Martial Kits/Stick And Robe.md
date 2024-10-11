@@ -3,8 +3,9 @@ title_raw: Stick And Robe
 title: Stick And Robe
 name_raw: Stick And Robe
 name: Stick And Robe
-type: kits
-subtype: martial kits
+type: ..
+subtype: data-rules-md
+kind: kits
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -40,7 +41,7 @@ You wear light armor and wield a polearm.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Reach 2               | **Target:** 1 creature |
 
-**Power Roll + Might or Agility:**
+**[[Power]] Roll + Might or Agility:**
 
 - 11 or lower: 4 damage
 - 12–16: 8 damage; slide 1

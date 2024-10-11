@@ -3,9 +3,9 @@ title_raw: Mend The Soul
 title: Mend The Soul
 name_raw: Mend The Soul
 name: Mend The Soul
-type: abilities
-subtype: elementalist
-kind: triggered actions
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Green, Magic, Ranged
 keyword_list:
   - Green
@@ -19,7 +19,7 @@ trigger: The target starts their turn.
 
 # Mend The Soul
 
-The power you channel grants the ability to get back in the fight.
+The [[Power|power]] you channel grants the ability to get back in the fight.
 
 |                                    |                            |
 | :--------------------------------- | :------------------------- |

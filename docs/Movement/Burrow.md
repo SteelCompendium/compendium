@@ -3,7 +3,9 @@ title_raw: Burrow
 title: Burrow
 name_raw: Burrow
 name: Burrow
-type: movement
+type: ..
+subtype: data-rules-md
+kind: movement
 ---
 
 # Burrow

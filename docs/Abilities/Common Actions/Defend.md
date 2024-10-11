@@ -3,8 +3,9 @@ title_raw: Defend
 title: Defend
 name_raw: Defend
 name: Defend
-type: abilities
-subtype: common actions
+type: ..
+subtype: data-rules-md
+kind: abilities
 ---
 
 # Defend

@@ -4,9 +4,9 @@ title: Hammer And Anvil (5 Focus)
 name_raw: Hammer And Anvil
 name: Hammer And Anvil
 cost: 5 Focus
-type: abilities
-subtype: tactician
-kind: 5-focus abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack
@@ -27,7 +27,7 @@ Your attack is your allies' signal to strike!
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |
 | **Distance:** Reach 1 or Ranged 5           | **Target:** 1 creature or object |
 
-**Power Roll + Might:**
+**[[Power]] Roll + Might:**
 
 - 11 or lower: 7 damage; an ally within 10 can make a signature attack against the target as a free triggered action
 - 12–16: 10 damage; an ally within 10 can make a signature attack with an edge against the target as a free triggered action

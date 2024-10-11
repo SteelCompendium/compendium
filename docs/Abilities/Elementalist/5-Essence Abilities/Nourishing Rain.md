@@ -4,9 +4,9 @@ title: Nourishing Rain (5 Essence)
 name_raw: Nourishing Rain
 name: Nourishing Rain
 cost: 5 Essence
-type: abilities
-subtype: elementalist
-kind: 5-essence abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Area, Green, Magic
 keyword_list:
   - Area
@@ -26,7 +26,7 @@ You call down a rain that burns your enemies and restores your allies.
 | **Keywords:** Area, Green, Magic | **Type:** Action        |
 | **Distance:** 5 burst            | **Target:** All enemies |
 
-**Power Roll + Reason**:
+**[[Power]] Roll + Reason**:
 
 - 11 or lower: 3 acid damage
 - 12–16: 5 acid damage

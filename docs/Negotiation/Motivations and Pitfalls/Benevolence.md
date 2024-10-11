@@ -3,8 +3,9 @@ title_raw: Benevolence
 title: Benevolence
 name_raw: Benevolence
 name: Benevolence
-type: negotiation
-subtype: motivations and pitfalls
+type: ..
+subtype: data-rules-md
+kind: negotiation
 ---
 
 # Benevolence
@@ -18,4 +19,4 @@ An NPC with the benevolence pitfall has a cynical view of the world, believing t
 Arguments that appeal to a benevolence motivation contend that if the NPC strikes a deal with the heroes, the people the NPC cares about will benefit from the deal. Example arguments include the following:
 
 - “If you lend us the Sword of Agathor, we can make Capital safer for your guild by using it to lay your enemies low.”
-- “If you can teleport us into the dragon's cave, we'll give you half the wyrm's hoard once we cut off the creature's head. That could benefit generations of students at your academy!”
+- “If you can [[Teleport|teleport]] us into the dragon's cave, we'll give you half the wyrm's hoard once we cut off the creature's head. That could benefit generations of students at your academy!”

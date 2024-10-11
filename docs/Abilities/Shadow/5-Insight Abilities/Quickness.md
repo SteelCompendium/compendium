@@ -4,9 +4,9 @@ title: Quickness (5 Insight)
 name_raw: Quickness
 name: Quickness
 cost: 5 Insight
-type: abilities
-subtype: shadow
-kind: 5-insight abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Magic
 keyword_list:
   - Magic

@@ -3,7 +3,9 @@ title_raw: Time Raider
 title: Time Raider
 name_raw: Time Raider
 name: Time Raider
-type: ancestries
+type: ..
+subtype: data-rules-md
+kind: ancestries
 ---
 
 # Time Raider
@@ -14,7 +16,7 @@ type: ancestries
 
 Commander of the HOV First Get Behind Them [[Memonek]]
 
-The original servitor species of the synliiroi—evil psions with near god-like power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym “time [[Raider|raiders]]” was given to them by denizens of the lower worlds who, seeing the advanced technology they wield, concluded they must be from the future.
+The original servitor species of the synliiroi—evil psions with near god-like [[Power|power]]—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym “time [[Raider|raiders]]” was given to them by denizens of the lower worlds who, seeing the advanced technology they wield, concluded they must be from the future.
 
 Extraordinarily rare in Orden, the time [[Raider|raiders]] thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
 
@@ -48,7 +50,7 @@ Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head
 
 “Look how easily this one is goaded!” she said. She spat out dark blue blood and turned to the peasants gathered. “You people! Why do you let yourselves be cowed by these … bits? Bits of people kludged together? Even the least of you is worth more than these.”
 
-“Perhaps from the air,” Flight Captain Lyria offered, and she stroked the feathers of her [[Giant Hawk|giant hawk]] mount to calm it. “I could scout the forest around the …”
+“Perhaps from the air,” Flight Captain Lyria offered, and she stroked the feathers of her giant hawk mount to calm it. “I could scout the forest around the …”
 
 “No!” Taxiarch Lycaon pointed a finger at the hawklord and strode toward her. “You are the elite of Ajax's winged harriers, I am his chosen brigade commander. We are not scavengers! This one,” he stabbed a gloved finger at the alien, “will come to heel, or I will give her to my war dogs.” He turned to face the chained alien, who yawned. Lycaon seethed.
 
@@ -116,11 +118,11 @@ As a time [[Raider|raider]] character, you have the following benefits.
 
 ### Foresight
 
-Your senses extend past mundane obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren't hidden from you, negating the usual bane on attacks against them. Additionally, whenever you are attacked, you can use a triggered action to impose a bane on the power roll.
+Your senses extend past mundane obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren't hidden from you, negating the usual bane on attacks against them. Additionally, whenever you are attacked, you can use a triggered action to impose a bane on the [[Power|power]] roll.
 
 ### Four Arms
 
-Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [[Grab]] or [[Knockback]] maneuver against an adjacent creature, you can target an additional adjacent creature, using the same power roll for both targets. You can [[Grab|grab]] up to two creatures at a time.
+Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [[Grab]] or [[Knockback]] maneuver against an adjacent creature, you can target an additional adjacent creature, using the same [[Power|power]] roll for both targets. You can [[Grab|grab]] up to two creatures at a time.
 
 ### Psionic Gift
 

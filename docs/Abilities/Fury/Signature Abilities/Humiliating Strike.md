@@ -3,9 +3,9 @@ title_raw: Humiliating Strike
 title: Humiliating Strike
 name_raw: Humiliating Strike
 name: Humiliating Strike
-type: abilities
-subtype: fury
-kind: signature abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -25,7 +25,7 @@ You hit with a strength that's worth the risk of raising your opponent's ire.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
 | **Distance:** Reach 1               | **Target:** 1 creature or object |
 
-**Power Roll + Might:**
+**[[Power]] Roll + Might:**
 
 - 11 or lower: 3 damage
 - 12–16: 8 damage

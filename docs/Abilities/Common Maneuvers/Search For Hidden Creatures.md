@@ -3,8 +3,9 @@ title_raw: Search For Hidden Creatures
 title: Search For Hidden Creatures
 name_raw: Search For Hidden Creatures
 name: Search For Hidden Creatures
-type: abilities
-subtype: common maneuvers
+type: ..
+subtype: data-rules-md
+kind: abilities
 ---
 
 # Search For Hidden Creatures

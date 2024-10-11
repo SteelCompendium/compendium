@@ -3,8 +3,9 @@ title_raw: Sniper
 title: Sniper
 name_raw: Sniper
 name: Sniper
-type: kits
-subtype: martial kits
+type: ..
+subtype: data-rules-md
+kind: kits
 keywords: Attack, Ranged, Weapon
 keyword_list:
   - Attack
@@ -39,7 +40,7 @@ You wear no armor and wield a bow.
 | **Keywords:** Attack, Ranged, Weapon | **Type:** Action       |
 | **Distance:** Ranged 15              | **Target:** 1 creature |
 
-**Power Roll + Might or Agility:**
+**[[Power]] Roll + Might or Agility:**
 
 - 11 or lower: 3 damage
 - 12–16: 7 damage

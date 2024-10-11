@@ -3,8 +3,9 @@ title_raw: Ward Weaver
 title: Ward Weaver
 name_raw: Ward Weaver
 name: Ward Weaver
-type: kits
-subtype: caster kits
+type: ..
+subtype: data-rules-md
+kind: kits
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack
@@ -38,7 +39,7 @@ Absorbing psychic energy from another creature lets you shield yourself within i
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
 | **Distance:** Ranged 10             | **Target:** 1 creature |
 
-**Power Roll** + Intuition:
+**[[Power]] Roll** + Intuition:
 
 - 11 or lower: 2 psychic damage; you gain damage immunity 1 until the end of your next turn
 - 12–16: 6 psychic damage; you gain damage immunity 3 until the end of your next turn

@@ -3,8 +3,9 @@ title_raw: Swashbuckler
 title: Swashbuckler
 name_raw: Swashbuckler
 name: Swashbuckler
-type: kits
-subtype: martial kits
+type: ..
+subtype: data-rules-md
+kind: kits
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -39,7 +40,7 @@ You wear light armor and wield a medium weapon.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Reach 1               | **Target:** 1 creature |
 
-**Power Roll + Might or Agility:**
+**[[Power]] Roll + Might or Agility:**
 
 - 11 or lower: 5 damage
 - 12–16: 10 damage; push 1

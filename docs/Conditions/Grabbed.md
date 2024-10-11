@@ -3,7 +3,9 @@ title_raw: Grabbed
 title: Grabbed
 name_raw: Grabbed
 name: Grabbed
-type: conditions
+type: ..
+subtype: data-rules-md
+kind: conditions
 ---
 
 # Grabbed

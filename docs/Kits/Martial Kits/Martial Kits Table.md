@@ -3,8 +3,9 @@ title_raw: Martial Kits Table
 title: Martial Kits Table
 name_raw: Martial Kits Table
 name: Martial Kits Table
-type: kits
-subtype: martial kits
+type: ..
+subtype: data-rules-md
+kind: kits
 ---
 
 # Martial Kits Table

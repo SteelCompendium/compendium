@@ -3,8 +3,9 @@ title_raw: Martial Artist
 title: Martial Artist
 name_raw: Martial Artist
 name: Martial Artist
-type: kits
-subtype: martial kits
+type: ..
+subtype: data-rules-md
+kind: kits
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -17,7 +18,7 @@ target: 1 creature
 
 # Martial Artist
 
-If you want to be fast in a fight, then Martial Artist is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes to opponents, and allows you to be the ultimate skirmisher.
+If you want to be fast in a fight, then [[Martial]] Artist is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes to opponents, and allows you to be the ultimate skirmisher.
 
 ## Equipment
 
@@ -39,7 +40,7 @@ You wear no armor and wield only your unarmed strikes.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Reach 1               | **Target:** 1 creature |
 
-**Power Roll + Might or Agility:**
+**[[Power]] Roll + Might or Agility:**
 
 - 11 or lower: 5 damage
 - 12–16: 9 damage; you swap places with the target

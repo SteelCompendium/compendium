@@ -3,9 +3,11 @@ title_raw: High Ground
 title: High Ground
 name_raw: High Ground
 name: High Ground
-type: movement
+type: ..
+subtype: data-rules-md
+kind: movement
 ---
 
 # High Ground
 
-When you make an attack against a creature or object and you occupy a space that is fully above the space the target takes up, with the bottom of your space higher than the top of the target's space, you gain an edge on the power roll against that target.
+When you make an attack against a creature or object and you occupy a space that is fully above the space the target takes up, with the bottom of your space higher than the top of the target's space, you gain an edge on the [[Power|power]] roll against that target.

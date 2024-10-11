@@ -4,9 +4,9 @@ title: Conflagration (5 Essence)
 name_raw: Conflagration
 name: Conflagration
 cost: 5 Essence
-type: abilities
-subtype: elementalist
-kind: 5-essence abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Area, Fire, Magic, Persistent, Ranged
 keyword_list:
   - Area
@@ -28,7 +28,7 @@ A storm of fire descends upon your enemies.
 | **Keywords:** Area, Fire, Magic, Persistent, Ranged | **Type:** Action        |
 | **Distance:** 4 cube within 5                       | **Target:** All enemies |
 
-**Power Roll + Reason**:
+**[[Power]] Roll + Reason**:
 
 - 11 or lower: 5 fire damage
 - 12–16: 7 fire damage

@@ -3,9 +3,9 @@ title_raw: Void Ray
 title: Void Ray
 name_raw: Void Ray
 name: Void Ray
-type: abilities
-subtype: elementalist
-kind: signature abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Attack, Magic, Ranged, Void
 keyword_list:
   - Attack
@@ -26,7 +26,7 @@ A beam of energy corrupts and hinders whatever it touches.
 | **Keywords:** Attack, Magic, Ranged, Void | **Type:** Action                 |
 | **Distance:** Ranged 5                    | **Target:** 1 creature or object |
 
-**Power Roll + Reason**:
+**[[Power]] Roll + Reason**:
 
 - 11 or lower: 2 corruption damage
 - 12–16: 6 corruption damage; [[Slowed|slowed]] (EoT)

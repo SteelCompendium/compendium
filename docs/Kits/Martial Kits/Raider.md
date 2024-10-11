@@ -3,8 +3,9 @@ title_raw: Raider
 title: Raider
 name_raw: Raider
 name: Raider
-type: kits
-subtype: martial kits
+type: ..
+subtype: data-rules-md
+kind: kits
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -33,14 +34,14 @@ You wear medium armor and wield a shield and a light weapon.
 
 ## Signature Ability
 
-**Shield Bash** In your hands, a shield isn't just for protection.
+**Shield Bash** In your hands, a shield isn't just for [[Protection|protection]].
 
 |                                     |                        |
 | :---------------------------------- | :--------------------- |
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Reach 1               | **Target:** 1 creature |
 
-**Power Roll + Might or Agility:**
+**[[Power]] Roll + Might or Agility:**
 
 - 11 or lower: 4 damage; push 1
 - 12–16: 8 damage; push 2

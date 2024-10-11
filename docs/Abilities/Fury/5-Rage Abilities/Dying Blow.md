@@ -4,9 +4,9 @@ title: Dying Blow (5 Rage)
 name_raw: Dying Blow
 name: Dying Blow
 cost: 5 Rage
-type: abilities
-subtype: fury
-kind: 5-rage abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -26,7 +26,7 @@ You focus your rage into a single devastating strike.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Reach 1               | **Target:** 1 creature |
 
-**Power Roll + Might:**
+**[[Power]] Roll + Might:**
 
 - 11 or lower: 9 damage
 - 12–16: 13 damage

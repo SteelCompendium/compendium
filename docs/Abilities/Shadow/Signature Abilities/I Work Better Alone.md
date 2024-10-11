@@ -3,9 +3,9 @@ title_raw: I Work Better Alone
 title: I Work Better Alone
 name_raw: I Work Better Alone
 name: I Work Better Alone
-type: abilities
-subtype: shadow
-kind: signature abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack
@@ -26,7 +26,7 @@ Facing an enemy alone lets you exploit their overconfidence.
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
 | **Distance:** Reach 1 or Ranged 3           | **Target:** 1 creature |
 
-**Power Roll + Agility:**
+**[[Power]] Roll + Agility:**
 
 - 11 or lower: 3 damage
 - 12–16: 8 damage

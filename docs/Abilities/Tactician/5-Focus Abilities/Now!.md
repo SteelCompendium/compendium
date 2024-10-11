@@ -4,9 +4,9 @@ title: Now! (5 Focus)
 name_raw: Now!
 name: Now!
 cost: 5 Focus
-type: abilities
-subtype: tactician
-kind: 5-focus abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Ranged
 keyword_list:
   - Ranged

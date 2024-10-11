@@ -3,9 +3,9 @@ title_raw: In All This Confusion
 title: In All This Confusion
 name_raw: In All This Confusion
 name: In All This Confusion
-type: abilities
-subtype: shadow
-kind: triggered actions
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Magic
 keyword_list:
   - Magic

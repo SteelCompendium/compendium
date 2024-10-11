@@ -3,8 +3,9 @@ title_raw: Cloak And Dagger
 title: Cloak And Dagger
 name_raw: Cloak And Dagger
 name: Cloak And Dagger
-type: kits
-subtype: martial kits
+type: ..
+subtype: data-rules-md
+kind: kits
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack
@@ -42,7 +43,7 @@ You wear light armor and wield one or two light weapons.
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
 | **Distance:** Reach 1 or range 10           | **Target:** 1 creature |
 
-**Power Roll + Might or Agility:**
+**[[Power]] Roll + Might or Agility:**
 
 - 11 or lower: 4 damage; you shift 1 square
 - 12–16: 9 damage; you shift up to 2 squares

@@ -4,9 +4,9 @@ title: Battle Cry (3 Focus)
 name_raw: Battle Cry
 name: Battle Cry
 cost: 3 Focus
-type: abilities
-subtype: tactician
-kind: 3-focus abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Ranged
 keyword_list:
   - Ranged

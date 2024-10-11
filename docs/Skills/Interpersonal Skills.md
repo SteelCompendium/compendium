@@ -3,7 +3,9 @@ title_raw: Interpersonal Skills
 title: Interpersonal Skills
 name_raw: Interpersonal Skills
 name: Interpersonal Skills
-type: skills
+type: ..
+subtype: data-rules-md
+kind: skills
 ---
 
 # Interpersonal Skills

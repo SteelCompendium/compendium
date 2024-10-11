@@ -3,9 +3,9 @@ title_raw: Parry
 title: Parry
 name_raw: Parry
 name: Parry
-type: abilities
-subtype: tactician
-kind: triggered actions
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Melee, Weapon
 keyword_list:
   - Melee
@@ -29,4 +29,4 @@ Your quick reflexes cost an enemy the precision they seek.
 
 **Effect:** The attack's damage against the target is halved.
 
-**Spend 1 Focus:** The result of the attack's power roll is treated as one tier lower before the damage is halved. If the attack is a critical hit, the attacker can still take an additional action.
+**Spend 1 Focus:** The result of the attack's [[Power|power]] roll is treated as one tier lower before the damage is halved. If the attack is a critical hit, the attacker can still take an additional action.

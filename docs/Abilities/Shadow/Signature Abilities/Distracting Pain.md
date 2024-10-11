@@ -3,9 +3,9 @@ title_raw: Distracting Pain
 title: Distracting Pain
 name_raw: Distracting Pain
 name: Distracting Pain
-type: abilities
-subtype: shadow
-kind: signature abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack
@@ -26,7 +26,7 @@ Your precise strikes let your allies take advantage of a target's agony.
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
 | **Distance:** Reach 1 or Ranged 3           | **Target:** 1 creature |
 
-**Power Roll + Agility:**
+**[[Power]] Roll + Agility:**
 
 - 11 or lower: 3 damage
 - 12–16: 8 damage; the next attack against the target gains an edge

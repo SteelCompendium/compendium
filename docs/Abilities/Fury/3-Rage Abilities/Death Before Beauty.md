@@ -4,9 +4,9 @@ title: Death Before Beauty (3 Rage)
 name_raw: Death Before Beauty
 name: Death Before Beauty
 cost: 3 Rage
-type: abilities
-subtype: fury
-kind: 3-rage abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -26,7 +26,7 @@ Your enemies will get out of your way—whether they want to or not.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Reach 1               | **Target:** 1 creature |
 
-**Power Roll + Might:**
+**[[Power]] Roll + Might:**
 
 - 11 or lower: 3 damage; slide 2
 - 12–16: 5 damage; slide 3

@@ -3,9 +3,9 @@ title_raw: Sacrificial Offer
 title: Sacrificial Offer
 name_raw: Sacrificial Offer
 name: Sacrificial Offer
-type: abilities
-subtype: conduit
-kind: signature abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack
@@ -25,7 +25,7 @@ The divine energy of creation tears at your foe.
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
 | **Distance:** Ranged 5              | **Target:** 1 creature |
 
-**Power Roll + Intuition**:
+**[[Power]] Roll + Intuition**:
 
 - 11 or lower: 2 corruption damage
 - 12–16: 6 corruption damage; the next ally to damage the target before the start of your next turn deals an extra 1d6 corruption damage

@@ -3,8 +3,9 @@ title_raw: Whirlwind
 title: Whirlwind
 name_raw: Whirlwind
 name: Whirlwind
-type: kits
-subtype: martial kits
+type: ..
+subtype: data-rules-md
+kind: kits
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -39,7 +40,7 @@ You wear no armor and wield a whip.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Reach 3               | **Target:** 1 creature |
 
-**Power Roll + Might or Agility:**
+**[[Power]] Roll + Might or Agility:**
 
 - 11 or lower: 4 damage
 - 12–16: 8 damage; pull 1

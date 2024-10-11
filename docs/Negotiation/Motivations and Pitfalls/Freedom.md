@@ -3,8 +3,9 @@ title_raw: Freedom
 title: Freedom
 name_raw: Freedom
 name: Freedom
-type: negotiation
-subtype: motivations and pitfalls
+type: ..
+subtype: data-rules-md
+kind: negotiation
 ---
 
 # Freedom

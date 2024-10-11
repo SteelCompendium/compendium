@@ -3,8 +3,9 @@ title_raw: Shining Armor
 title: Shining Armor
 name_raw: Shining Armor
 name: Shining Armor
-type: kits
-subtype: martial kits
+type: ..
+subtype: data-rules-md
+kind: kits
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack
@@ -17,7 +18,7 @@ target: 1 creature
 
 # Shining Armor
 
-The Shining Armor kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
+The Shining Armor kit provides the most [[Protection|protection]] a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
 
 ## Equipment
 
@@ -38,7 +39,7 @@ You wear heavy armor and wield a shield and a medium weapon.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Reach 1               | **Target:** 1 creature |
 
-**Power Roll + Might or Agility:**
+**[[Power]] Roll + Might or Agility:**
 
 - 11 or lower: 5 damage; [[Taunted|taunted]] (EoT)
 - 12–16: 9 damage; [[Taunted|taunted]] (EoT)

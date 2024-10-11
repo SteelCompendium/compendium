@@ -4,9 +4,9 @@ title: Invigorating Growth (3 Essence)
 name_raw: Invigorating Growth
 name: Invigorating Growth
 cost: 3 Essence
-type: abilities
-subtype: elementalist
-kind: 3-essence abilities
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Attack, Green, Magic, Ranged
 keyword_list:
   - Attack
@@ -27,7 +27,7 @@ Mushrooms erupt from a foe, sapping their vitality to spread strengthening spore
 | **Keywords:** Attack, Green, Magic, Ranged | **Type:** Action       |
 | **Distance:** Ranged 5                     | **Target:** 1 creature |
 
-**Power Roll + Reason**:
+**[[Power]] Roll + Reason**:
 
 - 11 or lower: 6 poison damage
 - 12–16: 9 poison damage

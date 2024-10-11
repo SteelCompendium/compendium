@@ -3,9 +3,9 @@ title_raw: Uncanny Dodge
 title: Uncanny Dodge
 name_raw: Uncanny Dodge
 name: Uncanny Dodge
-type: abilities
-subtype: fury
-kind: triggered actions
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Melee
 keyword_list:
   - Melee

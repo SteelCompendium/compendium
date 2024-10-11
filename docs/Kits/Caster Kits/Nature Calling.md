@@ -3,8 +3,9 @@ title_raw: Nature Calling
 title: Nature Calling
 name_raw: Nature Calling
 name: Nature Calling
-type: kits
-subtype: caster kits
+type: ..
+subtype: data-rules-md
+kind: kits
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack
@@ -37,11 +38,11 @@ You call forth a small bolt of lightning, then hurl it at your foe.
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
 | **Distance:** Ranged 12             | **Target:** 1 creature or object |
 
-**Power Roll** + Reason, Intuition, or Presence:
+**[[Power]] Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 2 lightning damage
-- 12–16: 6 damage; the target takes a bane on their next power roll
-- 17+: 9 damage; the target has a double bane on their next power roll
+- 12–16: 6 damage; the target takes a bane on their next [[Power|power]] roll
+- 17+: 9 damage; the target has a double bane on their next [[Power|power]] roll
 
 ## Kit Ward: Vine Ward
 

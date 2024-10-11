@@ -3,9 +3,9 @@ title_raw: Overwatch
 title: Overwatch
 name_raw: Overwatch
 name: Overwatch
-type: abilities
-subtype: tactician
-kind: triggered actions
+type: ..
+subtype: data-rules-md
+kind: abilities
 keywords: Ranged
 keyword_list:
   - Ranged
