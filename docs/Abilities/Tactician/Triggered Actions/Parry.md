@@ -3,9 +3,9 @@ title_raw: Parry
 title: Parry
 name_raw: Parry
 name: Parry
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: tactician
+kind: triggered actions
 keywords: Melee, Weapon
 keyword_list:
   - Melee

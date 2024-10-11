@@ -3,9 +3,8 @@ title_raw: Noble
 title: Noble
 name_raw: Noble
 name: Noble
-type: ..
-subtype: data-rules-md
-kind: cultures
+type: cultures
+subtype: upbringing
 ---
 
 # Noble

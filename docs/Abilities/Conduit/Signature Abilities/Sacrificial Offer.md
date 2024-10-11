@@ -3,9 +3,9 @@ title_raw: Sacrificial Offer
 title: Sacrificial Offer
 name_raw: Sacrificial Offer
 name: Sacrificial Offer
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: conduit
+kind: signature abilities
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack

@@ -3,9 +3,9 @@ title_raw: Debris
 title: Debris
 name_raw: Debris
 name: Debris
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: elementalist
+kind: signature abilities
 keywords: Area, Earth, Magic, Ranged
 keyword_list:
   - Area

@@ -4,9 +4,9 @@ title: Terrifying Smite (5 Piety)
 name_raw: Terrifying Smite
 name: Terrifying Smite
 cost: 5 Piety
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: conduit
+kind: 5-piety abilities
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack

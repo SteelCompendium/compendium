@@ -3,9 +3,9 @@ title_raw: Fire Lance
 title: Fire Lance
 name_raw: Fire Lance
 name: Fire Lance
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: elementalist
+kind: signature abilities
 keywords: Attack, Fire, Magic, Ranged
 keyword_list:
   - Attack

@@ -3,9 +3,8 @@ title_raw: Academic
 title: Academic
 name_raw: Academic
 name: Academic
-type: ..
-subtype: data-rules-md
-kind: cultures
+type: cultures
+subtype: upbringing
 ---
 
 # Academic

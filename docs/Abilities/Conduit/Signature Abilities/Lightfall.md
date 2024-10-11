@@ -3,9 +3,9 @@ title_raw: Lightfall
 title: Lightfall
 name_raw: Lightfall
 name: Lightfall
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: conduit
+kind: signature abilities
 keywords: Area, Magic, Ranged
 keyword_list:
   - Area

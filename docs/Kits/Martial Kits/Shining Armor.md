@@ -3,9 +3,8 @@ title_raw: Shining Armor
 title: Shining Armor
 name_raw: Shining Armor
 name: Shining Armor
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: martial kits
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

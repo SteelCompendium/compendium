@@ -3,9 +3,8 @@ title_raw: Legacy
 title: Legacy
 name_raw: Legacy
 name: Legacy
-type: ..
-subtype: data-rules-md
-kind: negotiation
+type: negotiation
+subtype: motivations and pitfalls
 ---
 
 # Legacy

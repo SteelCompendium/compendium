@@ -3,9 +3,8 @@ title_raw: Spellslinger
 title: Spellslinger
 name_raw: Spellslinger
 name: Spellslinger
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: caster kits
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack

@@ -3,9 +3,8 @@ title_raw: Power
 title: Power
 name_raw: Power
 name: Power
-type: ..
-subtype: data-rules-md
-kind: negotiation
+type: negotiation
+subtype: motivations and pitfalls
 ---
 
 # Power

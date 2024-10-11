@@ -3,9 +3,8 @@ title_raw: Retiarius
 title: Retiarius
 name_raw: Retiarius
 name: Retiarius
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: martial kits
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

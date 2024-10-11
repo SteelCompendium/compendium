@@ -3,9 +3,9 @@ title_raw: Earthen Force
 title: Earthen Force
 name_raw: Earthen Force
 name: Earthen Force
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: elementalist
+kind: triggered actions
 keywords: Earth, Magic, Ranged
 keyword_list:
   - Earth

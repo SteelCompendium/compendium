@@ -3,9 +3,8 @@ title_raw: Benevolence
 title: Benevolence
 name_raw: Benevolence
 name: Benevolence
-type: ..
-subtype: data-rules-md
-kind: negotiation
+type: negotiation
+subtype: motivations and pitfalls
 ---
 
 # Benevolence

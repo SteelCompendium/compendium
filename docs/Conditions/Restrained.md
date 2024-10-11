@@ -3,9 +3,7 @@ title_raw: Restrained
 title: Restrained
 name_raw: Restrained
 name: Restrained
-type: ..
-subtype: data-rules-md
-kind: conditions
+type: conditions
 ---
 
 # Restrained

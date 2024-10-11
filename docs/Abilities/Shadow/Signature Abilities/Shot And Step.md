@@ -3,9 +3,9 @@ title_raw: Shot And Step
 title: Shot And Step
 name_raw: Shot And Step
 name: Shot And Step
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: shadow
+kind: signature abilities
 keywords: Attack, Ranged, Weapon
 keyword_list:
   - Attack

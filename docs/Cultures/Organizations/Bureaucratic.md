@@ -3,9 +3,8 @@ title_raw: Bureaucratic
 title: Bureaucratic
 name_raw: Bureaucratic
 name: Bureaucratic
-type: ..
-subtype: data-rules-md
-kind: cultures
+type: cultures
+subtype: organizations
 ---
 
 # Bureaucratic

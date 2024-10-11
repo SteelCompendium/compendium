@@ -3,9 +3,8 @@ title_raw: Swashbuckler
 title: Swashbuckler
 name_raw: Swashbuckler
 name: Swashbuckler
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: martial kits
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

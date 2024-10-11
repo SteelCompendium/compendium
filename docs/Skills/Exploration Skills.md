@@ -3,9 +3,7 @@ title_raw: Exploration Skills
 title: Exploration Skills
 name_raw: Exploration Skills
 name: Exploration Skills
-type: ..
-subtype: data-rules-md
-kind: skills
+type: skills
 ---
 
 # Exploration Skills

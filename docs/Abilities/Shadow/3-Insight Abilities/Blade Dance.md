@@ -4,9 +4,9 @@ title: Blade Dance (3 Insight)
 name_raw: Blade Dance
 name: Blade Dance
 cost: 3 Insight
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: shadow
+kind: 3-insight abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

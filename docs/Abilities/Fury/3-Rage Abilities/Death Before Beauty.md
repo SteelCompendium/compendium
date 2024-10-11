@@ -4,9 +4,9 @@ title: Death Before Beauty (3 Rage)
 name_raw: Death Before Beauty
 name: Death Before Beauty
 cost: 3 Rage
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: fury
+kind: 3-rage abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

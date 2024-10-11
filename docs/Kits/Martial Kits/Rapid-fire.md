@@ -3,9 +3,8 @@ title_raw: Rapid-fire
 title: Rapid-Fire
 name_raw: Rapid-fire
 name: Rapid-Fire
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: martial kits
 keywords: Attack, Ranged, Weapon
 keyword_list:
   - Attack

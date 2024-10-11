@@ -4,9 +4,9 @@ title: Primordial Shockwave (5 Rage)
 name_raw: Primordial Shockwave
 name: Primordial Shockwave
 cost: 5 Rage
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: fury
+kind: 5-rage abilities
 keywords: Area, Melee, Weapon
 keyword_list:
   - Area

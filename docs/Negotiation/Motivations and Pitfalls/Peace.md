@@ -3,9 +3,8 @@ title_raw: Peace
 title: Peace
 name_raw: Peace
 name: Peace
-type: ..
-subtype: data-rules-md
-kind: negotiation
+type: negotiation
+subtype: motivations and pitfalls
 ---
 
 # Peace

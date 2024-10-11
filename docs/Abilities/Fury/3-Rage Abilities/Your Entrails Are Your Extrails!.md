@@ -4,9 +4,9 @@ title: Your Entrails Are Your Extrails! (3 Rage)
 name_raw: Your Entrails Are Your Extrails!
 name: Your Entrails Are Your Extrails!
 cost: 3 Rage
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: fury
+kind: 3-rage abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

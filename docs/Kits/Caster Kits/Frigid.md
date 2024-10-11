@@ -3,9 +3,8 @@ title_raw: Frigid
 title: Frigid
 name_raw: Frigid
 name: Frigid
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: caster kits
 keywords: Area, Magic, Ranged
 keyword_list:
   - Area

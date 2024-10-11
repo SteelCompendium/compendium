@@ -3,9 +3,9 @@ title_raw: Growing Pains
 title: Growing Pains
 name_raw: Growing Pains
 name: Growing Pains
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: elementalist
+kind: signature abilities
 keywords: Attack, Green, Magic, Ranged
 keyword_list:
   - Attack

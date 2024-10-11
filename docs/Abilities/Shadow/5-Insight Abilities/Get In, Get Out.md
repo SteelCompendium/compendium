@@ -4,9 +4,9 @@ title: Get In, Get Out (5 Insight)
 name_raw: Get In, Get Out
 name: Get In, Get Out
 cost: 5 Insight
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: shadow
+kind: 5-insight abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

@@ -3,9 +3,8 @@ title_raw: Pugilist
 title: Pugilist
 name_raw: Pugilist
 name: Pugilist
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: martial kits
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

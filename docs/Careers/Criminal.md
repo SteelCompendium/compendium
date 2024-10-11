@@ -3,9 +3,7 @@ title_raw: Criminal
 title: Criminal
 name_raw: Criminal
 name: Criminal
-type: ..
-subtype: data-rules-md
-kind: careers
+type: careers
 ---
 
 # Criminal

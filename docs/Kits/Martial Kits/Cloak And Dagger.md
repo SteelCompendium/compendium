@@ -3,9 +3,8 @@ title_raw: Cloak And Dagger
 title: Cloak And Dagger
 name_raw: Cloak And Dagger
 name: Cloak And Dagger
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: martial kits
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack

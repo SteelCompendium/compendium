@@ -4,9 +4,9 @@ title: Their Weakness Is Our Strength (5 Focus)
 name_raw: Their Weakness Is Our Strength
 name: Their Weakness Is Our Strength
 cost: 5 Focus
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: tactician
+kind: 5-focus abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack

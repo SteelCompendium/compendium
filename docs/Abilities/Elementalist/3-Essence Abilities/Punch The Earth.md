@@ -4,9 +4,9 @@ title: Punch The Earth (3 Essence)
 name_raw: Punch The Earth
 name: Punch The Earth
 cost: 3 Essence
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: elementalist
+kind: 3-essence abilities
 keywords: Area, Earth, Magic
 keyword_list:
   - Area

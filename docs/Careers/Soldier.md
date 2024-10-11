@@ -3,9 +3,7 @@ title_raw: Soldier
 title: Soldier
 name_raw: Soldier
 name: Soldier
-type: ..
-subtype: data-rules-md
-kind: careers
+type: careers
 ---
 
 # Soldier

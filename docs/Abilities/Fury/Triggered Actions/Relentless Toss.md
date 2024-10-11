@@ -3,9 +3,9 @@ title_raw: Relentless Toss
 title: Relentless Toss
 name_raw: Relentless Toss
 name: Relentless Toss
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: fury
+kind: triggered actions
 keywords: Magic, Melee
 keyword_list:
   - Magic

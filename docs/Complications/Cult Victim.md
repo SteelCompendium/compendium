@@ -3,9 +3,7 @@ title_raw: Cult Victim
 title: Cult Victim
 name_raw: Cult Victim
 name: Cult Victim
-type: ..
-subtype: data-rules-md
-kind: complications
+type: complications
 ---
 
 # Cult Victim

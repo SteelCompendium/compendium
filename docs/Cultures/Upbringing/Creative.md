@@ -3,9 +3,8 @@ title_raw: Creative
 title: Creative
 name_raw: Creative
 name: Creative
-type: ..
-subtype: data-rules-md
-kind: cultures
+type: cultures
+subtype: upbringing
 ---
 
 # Creative

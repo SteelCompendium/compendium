@@ -3,9 +3,7 @@ title_raw: Elf, High
 title: Elf, High
 name_raw: Elf, High
 name: Elf, High
-type: ..
-subtype: data-rules-md
-kind: ancestries
+type: ancestries
 ---
 
 # Elf, High

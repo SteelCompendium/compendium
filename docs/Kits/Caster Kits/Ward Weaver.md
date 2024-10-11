@@ -3,9 +3,8 @@ title_raw: Ward Weaver
 title: Ward Weaver
 name_raw: Ward Weaver
 name: Ward Weaver
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: caster kits
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack

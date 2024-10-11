@@ -3,9 +3,8 @@ title_raw: Meditator
 title: Meditator
 name_raw: Meditator
 name: Meditator
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: caster kits
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack

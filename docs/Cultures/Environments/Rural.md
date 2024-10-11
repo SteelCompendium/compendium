@@ -3,9 +3,8 @@ title_raw: Rural
 title: Rural
 name_raw: Rural
 name: Rural
-type: ..
-subtype: data-rules-md
-kind: cultures
+type: cultures
+subtype: environments
 ---
 
 # Rural

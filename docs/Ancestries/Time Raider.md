@@ -3,9 +3,7 @@ title_raw: Time Raider
 title: Time Raider
 name_raw: Time Raider
 name: Time Raider
-type: ..
-subtype: data-rules-md
-kind: ancestries
+type: ancestries
 ---
 
 # Time Raider

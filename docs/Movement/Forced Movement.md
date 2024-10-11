@@ -3,9 +3,7 @@ title_raw: Forced Movement
 title: Forced Movement
 name_raw: Forced Movement
 name: Forced Movement
-type: ..
-subtype: data-rules-md
-kind: movement
+type: movement
 ---
 
 # Forced Movement

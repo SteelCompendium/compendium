@@ -3,9 +3,7 @@ title_raw: Fly
 title: Fly
 name_raw: Fly
 name: Fly
-type: ..
-subtype: data-rules-md
-kind: movement
+type: movement
 ---
 
 # Fly

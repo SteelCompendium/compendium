@@ -4,9 +4,9 @@ title: Burn! (3 Essence)
 name_raw: Burn!
 name: Burn!
 cost: 3 Essence
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: elementalist
+kind: 3-essence abilities
 keywords: Attack, Fire, Magic, Persistent, Ranged
 keyword_list:
   - Attack

@@ -3,9 +3,8 @@ title_raw: Whirlwind
 title: Whirlwind
 name_raw: Whirlwind
 name: Whirlwind
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: martial kits
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

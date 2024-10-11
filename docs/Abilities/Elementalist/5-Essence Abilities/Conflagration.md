@@ -4,9 +4,9 @@ title: Conflagration (5 Essence)
 name_raw: Conflagration
 name: Conflagration
 cost: 5 Essence
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: elementalist
+kind: 5-essence abilities
 keywords: Area, Fire, Magic, Persistent, Ranged
 keyword_list:
   - Area

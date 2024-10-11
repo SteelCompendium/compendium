@@ -3,9 +3,7 @@ title_raw: Devil Deal
 title: Devil Deal
 name_raw: Devil Deal
 name: Devil Deal
-type: ..
-subtype: data-rules-md
-kind: complications
+type: complications
 ---
 
 # Devil Deal

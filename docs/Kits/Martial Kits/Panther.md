@@ -3,9 +3,8 @@ title_raw: Panther
 title: Panther
 name_raw: Panther
 name: Panther
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: martial kits
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

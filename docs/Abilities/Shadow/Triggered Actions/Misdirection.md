@@ -4,9 +4,9 @@ title: Misdirection (1 Insight)
 name_raw: Misdirection
 name: Misdirection
 cost: 1 Insight
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: shadow
+kind: triggered actions
 keywords: Magic
 keyword_list:
   - Magic

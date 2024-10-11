@@ -3,9 +3,8 @@ title_raw: Knockback
 title: Knockback
 name_raw: Knockback
 name: Knockback
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: common maneuvers
 keywords: Melee
 keyword_list:
   - Melee

@@ -3,9 +3,7 @@ title_raw: Prone
 title: Prone
 name_raw: Prone
 name: Prone
-type: ..
-subtype: data-rules-md
-kind: conditions
+type: conditions
 ---
 
 # Prone

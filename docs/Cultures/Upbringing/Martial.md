@@ -3,9 +3,8 @@ title_raw: Martial
 title: Martial
 name_raw: Martial
 name: Martial
-type: ..
-subtype: data-rules-md
-kind: cultures
+type: cultures
+subtype: upbringing
 ---
 
 # Martial

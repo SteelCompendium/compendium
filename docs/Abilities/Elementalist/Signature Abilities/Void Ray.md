@@ -3,9 +3,9 @@ title_raw: Void Ray
 title: Void Ray
 name_raw: Void Ray
 name: Void Ray
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: elementalist
+kind: signature abilities
 keywords: Attack, Magic, Ranged, Void
 keyword_list:
   - Attack

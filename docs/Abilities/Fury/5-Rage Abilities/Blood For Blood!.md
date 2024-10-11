@@ -4,9 +4,9 @@ title: Blood For Blood! (5 Rage)
 name_raw: Blood For Blood!
 name: Blood For Blood!
 cost: 5 Rage
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: fury
+kind: 5-rage abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

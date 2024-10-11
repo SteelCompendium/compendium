@@ -3,9 +3,9 @@ title_raw: Regeneration
 title: Regeneration
 name_raw: Regeneration
 name: Regeneration
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: fury
+kind: triggered actions
 keywords: Melee
 keyword_list:
   - Melee

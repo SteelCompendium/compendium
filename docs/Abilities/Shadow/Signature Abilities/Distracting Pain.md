@@ -3,9 +3,9 @@ title_raw: Distracting Pain
 title: Distracting Pain
 name_raw: Distracting Pain
 name: Distracting Pain
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: shadow
+kind: signature abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack

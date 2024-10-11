@@ -3,9 +3,9 @@ title_raw: Divine Disruption
 title: Divine Disruption
 name_raw: Divine Disruption
 name: Divine Disruption
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: conduit
+kind: triggered actions
 keywords: Magic, Ranged
 keyword_list:
   - Magic

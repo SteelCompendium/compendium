@@ -3,9 +3,9 @@ title_raw: Humiliating Strike
 title: Humiliating Strike
 name_raw: Humiliating Strike
 name: Humiliating Strike
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: fury
+kind: signature abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

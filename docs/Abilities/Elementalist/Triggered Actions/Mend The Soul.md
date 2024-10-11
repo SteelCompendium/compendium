@@ -3,9 +3,9 @@ title_raw: Mend The Soul
 title: Mend The Soul
 name_raw: Mend The Soul
 name: Mend The Soul
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: elementalist
+kind: triggered actions
 keywords: Green, Magic, Ranged
 keyword_list:
   - Green

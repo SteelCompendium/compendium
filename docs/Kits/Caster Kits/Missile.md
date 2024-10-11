@@ -3,9 +3,8 @@ title_raw: Missile
 title: Missile
 name_raw: Missile
 name: Missile
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: caster kits
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack

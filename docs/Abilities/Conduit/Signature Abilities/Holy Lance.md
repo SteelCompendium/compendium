@@ -3,9 +3,9 @@ title_raw: Holy Lance
 title: Holy Lance
 name_raw: Holy Lance
 name: Holy Lance
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: conduit
+kind: signature abilities
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack

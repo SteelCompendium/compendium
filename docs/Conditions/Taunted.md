@@ -3,9 +3,7 @@ title_raw: Taunted
 title: Taunted
 name_raw: Taunted
 name: Taunted
-type: ..
-subtype: data-rules-md
-kind: conditions
+type: conditions
 ---
 
 # Taunted

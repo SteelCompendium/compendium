@@ -4,9 +4,9 @@ title: Open The Earth (5 Essence)
 name_raw: Open The Earth
 name: Open The Earth
 cost: 5 Essence
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: elementalist
+kind: 5-essence abilities
 keywords: Magic, Earth, Persistent, Ranged
 keyword_list:
   - Magic

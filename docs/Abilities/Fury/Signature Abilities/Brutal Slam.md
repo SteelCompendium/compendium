@@ -3,9 +3,9 @@ title_raw: Brutal Slam
 title: Brutal Slam
 name_raw: Brutal Slam
 name: Brutal Slam
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: fury
+kind: signature abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

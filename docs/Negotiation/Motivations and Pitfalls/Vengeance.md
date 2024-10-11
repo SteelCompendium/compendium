@@ -3,9 +3,8 @@ title_raw: Vengeance
 title: Vengeance
 name_raw: Vengeance
 name: Vengeance
-type: ..
-subtype: data-rules-md
-kind: negotiation
+type: negotiation
+subtype: motivations and pitfalls
 ---
 
 # Vengeance

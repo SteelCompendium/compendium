@@ -3,9 +3,8 @@ title_raw: Secluded
 title: Secluded
 name_raw: Secluded
 name: Secluded
-type: ..
-subtype: data-rules-md
-kind: cultures
+type: cultures
+subtype: environments
 ---
 
 # Secluded

@@ -3,9 +3,7 @@ title_raw: Revenant
 title: Revenant
 name_raw: Revenant
 name: Revenant
-type: ..
-subtype: data-rules-md
-kind: ancestries
+type: ancestries
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack

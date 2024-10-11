@@ -3,9 +3,7 @@ title_raw: Shifting
 title: Shifting
 name_raw: Shifting
 name: Shifting
-type: ..
-subtype: data-rules-md
-kind: movement
+type: movement
 ---
 
 # Shifting

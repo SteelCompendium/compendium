@@ -3,9 +3,8 @@ title_raw: Revelry
 title: Revelry
 name_raw: Revelry
 name: Revelry
-type: ..
-subtype: data-rules-md
-kind: negotiation
+type: negotiation
+subtype: motivations and pitfalls
 ---
 
 # Revelry

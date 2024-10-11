@@ -3,9 +3,7 @@ title_raw: Dragon Knight
 title: Dragon Knight
 name_raw: Dragon Knight
 name: Dragon Knight
-type: ..
-subtype: data-rules-md
-kind: ancestries
+type: ancestries
 keywords: Area, Magic
 keyword_list:
   - Area

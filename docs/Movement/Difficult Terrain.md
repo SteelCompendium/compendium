@@ -3,9 +3,7 @@ title_raw: Difficult Terrain
 title: Difficult Terrain
 name_raw: Difficult Terrain
 name: Difficult Terrain
-type: ..
-subtype: data-rules-md
-kind: movement
+type: movement
 ---
 
 # Difficult Terrain

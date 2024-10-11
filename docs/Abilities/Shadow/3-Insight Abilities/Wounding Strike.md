@@ -4,9 +4,9 @@ title: Wounding Strike (3 Insight)
 name_raw: Wounding Strike
 name: Wounding Strike
 cost: 3 Insight
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: shadow
+kind: 3-insight abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack

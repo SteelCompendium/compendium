@@ -3,9 +3,9 @@ title_raw: Wither
 title: Wither
 name_raw: Wither
 name: Wither
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: conduit
+kind: signature abilities
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack

@@ -3,9 +3,8 @@ title_raw: Ranger
 title: Ranger
 name_raw: Ranger
 name: Ranger
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: martial kits
 keywords: Attack, Ranged, Weapon
 keyword_list:
   - Attack

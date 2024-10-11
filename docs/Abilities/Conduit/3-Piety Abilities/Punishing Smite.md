@@ -4,9 +4,9 @@ title: Punishing Smite (3 Piety)
 name_raw: Punishing Smite
 name: Punishing Smite
 cost: 3 Piety
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: conduit
+kind: 3-piety abilities
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack

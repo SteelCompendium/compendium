@@ -4,9 +4,9 @@ title: Armor Of The Faithful (5 Piety)
 name_raw: Armor Of The Faithful
 name: Armor Of The Faithful
 cost: 5 Piety
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: conduit
+kind: 5-piety abilities
 keywords: Magic, Ranged
 keyword_list:
   - Magic

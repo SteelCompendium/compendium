@@ -3,9 +3,9 @@ title_raw: Sucker Slice
 title: Sucker Slice
 name_raw: Sucker Slice
 name: Sucker Slice
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: shadow
+kind: signature abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

@@ -3,9 +3,7 @@ title_raw: Gladiator
 title: Gladiator
 name_raw: Gladiator
 name: Gladiator
-type: ..
-subtype: data-rules-md
-kind: careers
+type: careers
 ---
 
 # Gladiator

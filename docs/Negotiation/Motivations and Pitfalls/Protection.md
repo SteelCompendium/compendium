@@ -3,9 +3,8 @@ title_raw: Protection
 title: Protection
 name_raw: Protection
 name: Protection
-type: ..
-subtype: data-rules-md
-kind: negotiation
+type: negotiation
+subtype: motivations and pitfalls
 ---
 
 # Protection

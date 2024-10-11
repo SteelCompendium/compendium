@@ -3,9 +3,8 @@ title_raw: Labor
 title: Labor
 name_raw: Labor
 name: Labor
-type: ..
-subtype: data-rules-md
-kind: cultures
+type: cultures
+subtype: upbringing
 ---
 
 # Labor

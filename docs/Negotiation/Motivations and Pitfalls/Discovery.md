@@ -3,9 +3,8 @@ title_raw: Discovery
 title: Discovery
 name_raw: Discovery
 name: Discovery
-type: ..
-subtype: data-rules-md
-kind: negotiation
+type: negotiation
+subtype: motivations and pitfalls
 ---
 
 # Discovery

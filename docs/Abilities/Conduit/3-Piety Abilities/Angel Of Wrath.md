@@ -4,9 +4,9 @@ title: Angel Of Wrath (3 Piety)
 name_raw: Angel Of Wrath
 name: Angel Of Wrath
 cost: 3 Piety
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: conduit
+kind: 3-piety abilities
 keywords: Magic, Ranged
 keyword_list:
   - Magic

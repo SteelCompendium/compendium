@@ -3,9 +3,7 @@ title_raw: Laborer
 title: Laborer
 name_raw: Laborer
 name: Laborer
-type: ..
-subtype: data-rules-md
-kind: careers
+type: careers
 ---
 
 # Laborer

@@ -3,9 +3,8 @@ title_raw: Grab
 title: Grab
 name_raw: Grab
 name: Grab
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: common maneuvers
 keywords: Melee
 keyword_list:
   - Melee

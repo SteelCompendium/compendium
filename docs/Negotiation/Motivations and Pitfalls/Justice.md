@@ -3,9 +3,8 @@ title_raw: Justice
 title: Justice
 name_raw: Justice
 name: Justice
-type: ..
-subtype: data-rules-md
-kind: negotiation
+type: negotiation
+subtype: motivations and pitfalls
 ---
 
 # Justice

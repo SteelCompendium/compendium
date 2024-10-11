@@ -4,9 +4,9 @@ title: Nourishing Rain (5 Essence)
 name_raw: Nourishing Rain
 name: Nourishing Rain
 cost: 5 Essence
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: elementalist
+kind: 5-essence abilities
 keywords: Area, Green, Magic
 keyword_list:
   - Area

@@ -3,9 +3,8 @@ title_raw: Urban
 title: Urban
 name_raw: Urban
 name: Urban
-type: ..
-subtype: data-rules-md
-kind: cultures
+type: cultures
+subtype: environments
 ---
 
 # Urban

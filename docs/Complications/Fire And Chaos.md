@@ -3,9 +3,7 @@ title_raw: Fire And Chaos
 title: Fire And Chaos
 name_raw: Fire And Chaos
 name: Fire And Chaos
-type: ..
-subtype: data-rules-md
-kind: complications
+type: complications
 ---
 
 # Fire And Chaos

@@ -3,9 +3,9 @@ title_raw: Void Embrace
 title: Void Embrace
 name_raw: Void Embrace
 name: Void Embrace
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: elementalist
+kind: triggered actions
 keywords: Magic, Ranged, Void
 keyword_list:
   - Magic

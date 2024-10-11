@@ -3,9 +3,7 @@ title_raw: Punishment Curse
 title: Punishment Curse
 name_raw: Punishment Curse
 name: Punishment Curse
-type: ..
-subtype: data-rules-md
-kind: complications
+type: complications
 ---
 
 # Punishment Curse

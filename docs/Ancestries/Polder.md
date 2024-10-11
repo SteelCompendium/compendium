@@ -3,9 +3,7 @@ title_raw: Polder
 title: Polder
 name_raw: Polder
 name: Polder
-type: ..
-subtype: data-rules-md
-kind: ancestries
+type: ancestries
 keywords: Magic
 keyword_list:
   - Magic

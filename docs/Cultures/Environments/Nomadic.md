@@ -3,9 +3,8 @@ title_raw: Nomadic
 title: Nomadic
 name_raw: Nomadic
 name: Nomadic
-type: ..
-subtype: data-rules-md
-kind: cultures
+type: cultures
+subtype: environments
 ---
 
 # Nomadic

@@ -3,9 +3,8 @@ title_raw: Guisarmier
 title: Guisarmier
 name_raw: Guisarmier
 name: Guisarmier
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: martial kits
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

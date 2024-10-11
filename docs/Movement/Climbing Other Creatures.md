@@ -3,9 +3,7 @@ title_raw: Climbing Other Creatures
 title: Climbing Other Creatures
 name_raw: Climbing Other Creatures
 name: Climbing Other Creatures
-type: ..
-subtype: data-rules-md
-kind: movement
+type: movement
 ---
 
 # Climbing Other Creatures

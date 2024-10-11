@@ -3,9 +3,7 @@ title_raw: Orc
 title: Orc
 name_raw: Orc
 name: Orc
-type: ..
-subtype: data-rules-md
-kind: ancestries
+type: ancestries
 ---
 
 # Orc

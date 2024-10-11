@@ -3,9 +3,8 @@ title_raw: Bloodpact
 title: Bloodpact
 name_raw: Bloodpact
 name: Bloodpact
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: caster kits
 keywords: Attack, Magic, Melee
 keyword_list:
   - Attack

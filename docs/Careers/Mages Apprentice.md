@@ -3,9 +3,7 @@ title_raw: Mage's Apprentice
 title: Mage'S Apprentice
 name_raw: Mage's Apprentice
 name: Mage'S Apprentice
-type: ..
-subtype: data-rules-md
-kind: careers
+type: careers
 keywords: Magic
 keyword_list:
   - Magic

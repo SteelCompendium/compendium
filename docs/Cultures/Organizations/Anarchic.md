@@ -3,9 +3,8 @@ title_raw: Anarchic
 title: Anarchic
 name_raw: Anarchic
 name: Anarchic
-type: ..
-subtype: data-rules-md
-kind: cultures
+type: cultures
+subtype: organizations
 ---
 
 # Anarchic

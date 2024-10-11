@@ -3,9 +3,8 @@ title_raw: Illegal
 title: Illegal
 name_raw: Illegal
 name: Illegal
-type: ..
-subtype: data-rules-md
-kind: cultures
+type: cultures
+subtype: upbringing
 ---
 
 # Illegal

@@ -3,9 +3,8 @@ title_raw: Catch Breath
 title: Catch Breath
 name_raw: Catch Breath
 name: Catch Breath
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: common actions
 ---
 
 # Catch Breath

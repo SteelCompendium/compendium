@@ -3,9 +3,7 @@ title_raw: Slowed
 title: Slowed
 name_raw: Slowed
 name: Slowed
-type: ..
-subtype: data-rules-md
-kind: conditions
+type: conditions
 ---
 
 # Slowed

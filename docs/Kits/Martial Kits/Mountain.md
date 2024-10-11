@@ -3,9 +3,8 @@ title_raw: Mountain
 title: Mountain
 name_raw: Mountain
 name: Mountain
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: martial kits
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

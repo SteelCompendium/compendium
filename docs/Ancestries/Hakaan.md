@@ -3,9 +3,7 @@ title_raw: Hakaan
 title: Hakaan
 name_raw: Hakaan
 name: Hakaan
-type: ..
-subtype: data-rules-md
-kind: ancestries
+type: ancestries
 ---
 
 # Hakaan

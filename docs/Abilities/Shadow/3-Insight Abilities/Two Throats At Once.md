@@ -4,9 +4,9 @@ title: Two Throats At Once (3 Insight)
 name_raw: Two Throats At Once
 name: Two Throats At Once
 cost: 3 Insight
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: shadow
+kind: 3-insight abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack

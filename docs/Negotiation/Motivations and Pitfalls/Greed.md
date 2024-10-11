@@ -3,9 +3,8 @@ title_raw: Greed
 title: Greed
 name_raw: Greed
 name: Greed
-type: ..
-subtype: data-rules-md
-kind: negotiation
+type: negotiation
+subtype: motivations and pitfalls
 ---
 
 # Greed

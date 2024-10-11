@@ -4,9 +4,9 @@ title: Wave Of Virtue (5 Piety)
 name_raw: Wave Of Virtue
 name: Wave Of Virtue
 cost: 5 Piety
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: conduit
+kind: 5-piety abilities
 keywords: Area, Magic
 keyword_list:
   - Area

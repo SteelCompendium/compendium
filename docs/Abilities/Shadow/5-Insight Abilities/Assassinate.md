@@ -4,9 +4,9 @@ title: Assassinate (5 Insight)
 name_raw: Assassinate
 name: Assassinate
 cost: 5 Insight
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: shadow
+kind: 5-insight abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

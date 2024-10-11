@@ -3,9 +3,8 @@ title_raw: Aid Attack
 title: Aid Attack
 name_raw: Aid Attack
 name: Aid Attack
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: common maneuvers
 ---
 
 # Aid Attack

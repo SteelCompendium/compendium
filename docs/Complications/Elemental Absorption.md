@@ -3,9 +3,7 @@ title_raw: Elemental Absorption
 title: Elemental Absorption
 name_raw: Elemental Absorption
 name: Elemental Absorption
-type: ..
-subtype: data-rules-md
-kind: complications
+type: complications
 ---
 
 # Elemental Absorption

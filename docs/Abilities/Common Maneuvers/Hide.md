@@ -3,9 +3,8 @@ title_raw: Hide
 title: Hide
 name_raw: Hide
 name: Hide
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: common maneuvers
 ---
 
 # Hide

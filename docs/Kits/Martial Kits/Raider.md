@@ -3,9 +3,8 @@ title_raw: Raider
 title: Raider
 name_raw: Raider
 name: Raider
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: martial kits
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

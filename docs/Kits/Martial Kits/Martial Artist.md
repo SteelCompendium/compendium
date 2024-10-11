@@ -3,9 +3,8 @@ title_raw: Martial Artist
 title: Martial Artist
 name_raw: Martial Artist
 name: Martial Artist
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: martial kits
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

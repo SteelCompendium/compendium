@@ -3,9 +3,8 @@ title_raw: Rook
 title: Rook
 name_raw: Rook
 name: Rook
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: caster kits
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack

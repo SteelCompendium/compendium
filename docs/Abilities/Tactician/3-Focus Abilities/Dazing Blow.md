@@ -4,9 +4,9 @@ title: Dazing Blow (3 Focus)
 name_raw: Dazing Blow
 name: Dazing Blow
 cost: 3 Focus
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: tactician
+kind: 3-focus abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack

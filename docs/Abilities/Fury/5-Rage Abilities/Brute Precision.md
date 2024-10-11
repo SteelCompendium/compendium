@@ -4,9 +4,9 @@ title: Brute Precision (5 Rage)
 name_raw: Brute Precision
 name: Brute Precision
 cost: 5 Rage
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: fury
+kind: 5-rage abilities
 keywords: —
 keyword_list:
   - —

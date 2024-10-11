@@ -4,9 +4,9 @@ title: Phalanx Forward! (3 Focus)
 name_raw: Phalanx Forward!
 name: Phalanx Forward!
 cost: 3 Focus
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: tactician
+kind: 3-focus abilities
 keywords: Ranged, Weapon
 keyword_list:
   - Ranged

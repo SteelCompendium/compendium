@@ -3,9 +3,8 @@ title_raw: Escape Grab
 title: Escape Grab
 name_raw: Escape Grab
 name: Escape Grab
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: common maneuvers
 ---
 
 # Escape Grab

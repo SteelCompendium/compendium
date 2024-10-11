@@ -3,9 +3,9 @@ title_raw: I Work Better Alone
 title: I Work Better Alone
 name_raw: I Work Better Alone
 name: I Work Better Alone
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: shadow
+kind: signature abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack

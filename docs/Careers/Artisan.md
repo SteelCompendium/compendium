@@ -3,9 +3,7 @@ title_raw: Artisan
 title: Artisan
 name_raw: Artisan
 name: Artisan
-type: ..
-subtype: data-rules-md
-kind: careers
+type: careers
 ---
 
 # Artisan

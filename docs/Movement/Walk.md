@@ -3,9 +3,7 @@ title_raw: Walk
 title: Walk
 name_raw: Walk
 name: Walk
-type: ..
-subtype: data-rules-md
-kind: movement
+type: movement
 ---
 
 # Walk

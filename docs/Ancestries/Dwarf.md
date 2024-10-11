@@ -3,9 +3,7 @@ title_raw: Dwarf
 title: Dwarf
 name_raw: Dwarf
 name: Dwarf
-type: ..
-subtype: data-rules-md
-kind: ancestries
+type: ancestries
 ---
 
 # Dwarf

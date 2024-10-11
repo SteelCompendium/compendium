@@ -4,9 +4,9 @@ title: Inspiring Strike (3 Focus)
 name_raw: Inspiring Strike
 name: Inspiring Strike
 cost: 3 Focus
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: tactician
+kind: 3-focus abilities
 keywords: Attack, Melee, Ranged, Weapon
 keyword_list:
   - Attack

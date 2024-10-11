@@ -3,9 +3,9 @@ title_raw: Flank Them Now!
 title: Flank Them Now!
 name_raw: Flank Them Now!
 name: Flank Them Now!
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: tactician
+kind: triggered actions
 keywords: Ranged
 keyword_list:
   - Ranged

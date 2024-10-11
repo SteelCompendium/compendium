@@ -4,9 +4,9 @@ title: Whirlwind Strike (3 Rage)
 name_raw: Whirlwind Strike
 name: Whirlwind Strike
 cost: 3 Rage
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: fury
+kind: 3-rage abilities
 keywords: Area, Melee, Weapon
 keyword_list:
   - Area

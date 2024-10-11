@@ -4,9 +4,9 @@ title: Thunder Of The Divine (3 Piety)
 name_raw: Thunder Of The Divine
 name: Thunder Of The Divine
 cost: 3 Piety
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: conduit
+kind: 3-piety abilities
 keywords: Area, Magic, Ranged
 keyword_list:
   - Area

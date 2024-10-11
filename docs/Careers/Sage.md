@@ -3,9 +3,7 @@ title_raw: Sage
 title: Sage
 name_raw: Sage
 name: Sage
-type: ..
-subtype: data-rules-md
-kind: careers
+type: careers
 ---
 
 # Sage

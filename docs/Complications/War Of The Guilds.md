@@ -3,9 +3,7 @@ title_raw: War Of The Guilds
 title: War Of The Guilds
 name_raw: War Of The Guilds
 name: War Of The Guilds
-type: ..
-subtype: data-rules-md
-kind: complications
+type: complications
 ---
 
 # War Of The Guilds

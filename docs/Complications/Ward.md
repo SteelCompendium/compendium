@@ -3,9 +3,7 @@ title_raw: Ward
 title: Ward
 name_raw: Ward
 name: Ward
-type: ..
-subtype: data-rules-md
-kind: complications
+type: complications
 ---
 
 # Ward

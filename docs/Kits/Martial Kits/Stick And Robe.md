@@ -3,9 +3,8 @@ title_raw: Stick And Robe
 title: Stick And Robe
 name_raw: Stick And Robe
 name: Stick And Robe
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: martial kits
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

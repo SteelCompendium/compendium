@@ -3,9 +3,8 @@ title_raw: Dancer
 title: Dancer
 name_raw: Dancer
 name: Dancer
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: caster kits
 keywords: Attack, Magic, Melee
 keyword_list:
   - Attack

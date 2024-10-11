@@ -3,9 +3,7 @@ title_raw: Lore Skills
 title: Lore Skills
 name_raw: Lore Skills
 name: Lore Skills
-type: ..
-subtype: data-rules-md
-kind: skills
+type: skills
 ---
 
 # Lore Skills

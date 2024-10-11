@@ -4,9 +4,9 @@ title: Incorporealness (5 Essence)
 name_raw: Incorporealness
 name: Incorporealness
 cost: 5 Essence
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: elementalist
+kind: 5-essence abilities
 keywords: Magic, Melee, Persistent, Void
 keyword_list:
   - Magic

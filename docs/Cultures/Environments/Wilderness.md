@@ -3,9 +3,8 @@ title_raw: Wilderness
 title: Wilderness
 name_raw: Wilderness
 name: Wilderness
-type: ..
-subtype: data-rules-md
-kind: cultures
+type: cultures
+subtype: environments
 ---
 
 # Wilderness

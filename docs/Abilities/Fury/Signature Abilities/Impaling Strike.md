@@ -3,9 +3,9 @@ title_raw: Impaling Strike
 title: Impaling Strike
 name_raw: Impaling Strike
 name: Impaling Strike
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: fury
+kind: signature abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

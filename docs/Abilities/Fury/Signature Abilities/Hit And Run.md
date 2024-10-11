@@ -3,9 +3,9 @@ title_raw: Hit And Run
 title: Hit And Run
 name_raw: Hit And Run
 name: Hit And Run
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: fury
+kind: signature abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

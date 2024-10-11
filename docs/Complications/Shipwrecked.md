@@ -3,9 +3,7 @@ title_raw: Shipwrecked
 title: Shipwrecked
 name_raw: Shipwrecked
 name: Shipwrecked
-type: ..
-subtype: data-rules-md
-kind: complications
+type: complications
 ---
 
 # Shipwrecked

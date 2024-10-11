@@ -4,9 +4,9 @@ title: Quick Pursuit (3 Insight)
 name_raw: Quick Pursuit
 name: Quick Pursuit
 cost: 3 Insight
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: shadow
+kind: 3-insight abilities
 keywords: Attack, Melee, Weapon
 keyword_list:
   - Attack

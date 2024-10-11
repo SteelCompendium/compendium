@@ -3,9 +3,7 @@ title_raw: Dazed
 title: Dazed
 name_raw: Dazed
 name: Dazed
-type: ..
-subtype: data-rules-md
-kind: conditions
+type: conditions
 ---
 
 # Dazed

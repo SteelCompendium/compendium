@@ -3,9 +3,9 @@ title_raw: Defensive Roll
 title: Defensive Roll
 name_raw: Defensive Roll
 name: Defensive Roll
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: shadow
+kind: triggered actions
 keywords: —
 keyword_list:
   - —

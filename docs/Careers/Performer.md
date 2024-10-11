@@ -3,9 +3,7 @@ title_raw: Performer
 title: Performer
 name_raw: Performer
 name: Performer
-type: ..
-subtype: data-rules-md
-kind: careers
+type: careers
 ---
 
 # Performer

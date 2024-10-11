@@ -4,9 +4,9 @@ title: Righteous Rebuke (3 Piety)
 name_raw: Righteous Rebuke
 name: Righteous Rebuke
 cost: 3 Piety
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: conduit
+kind: 3-piety abilities
 keywords: Attack, Magic, Ranged
 keyword_list:
   - Attack

@@ -4,9 +4,9 @@ title: Impairing Shot (5 Insight)
 name_raw: Impairing Shot
 name: Impairing Shot
 cost: 5 Insight
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: shadow
+kind: 5-insight abilities
 keywords: Attack, Ranged, Weapon
 keyword_list:
   - Attack

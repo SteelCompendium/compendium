@@ -3,9 +3,8 @@ title_raw: Sniper
 title: Sniper
 name_raw: Sniper
 name: Sniper
-type: ..
-subtype: data-rules-md
-kind: kits
+type: kits
+subtype: martial kits
 keywords: Attack, Ranged, Weapon
 keyword_list:
   - Attack

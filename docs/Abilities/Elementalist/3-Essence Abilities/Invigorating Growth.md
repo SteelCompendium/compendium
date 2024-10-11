@@ -4,9 +4,9 @@ title: Invigorating Growth (3 Essence)
 name_raw: Invigorating Growth
 name: Invigorating Growth
 cost: 3 Essence
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: elementalist
+kind: 3-essence abilities
 keywords: Attack, Green, Magic, Ranged
 keyword_list:
   - Attack

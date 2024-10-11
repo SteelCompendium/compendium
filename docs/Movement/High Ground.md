@@ -3,9 +3,7 @@ title_raw: High Ground
 title: High Ground
 name_raw: High Ground
 name: High Ground
-type: ..
-subtype: data-rules-md
-kind: movement
+type: movement
 ---
 
 # High Ground

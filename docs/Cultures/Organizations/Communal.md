@@ -3,9 +3,8 @@ title_raw: Communal
 title: Communal
 name_raw: Communal
 name: Communal
-type: ..
-subtype: data-rules-md
-kind: cultures
+type: cultures
+subtype: organizations
 ---
 
 # Communal

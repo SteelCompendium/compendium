@@ -4,9 +4,9 @@ title: This Is What We Planned For (5 Focus)
 name_raw: This Is What We Planned For
 name: This Is What We Planned For
 cost: 5 Focus
-type: ..
-subtype: data-rules-md
-kind: abilities
+type: abilities
+subtype: tactician
+kind: 5-focus abilities
 keywords: Ranged
 keyword_list:
   - Ranged
