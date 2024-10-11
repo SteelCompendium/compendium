@@ -19,10 +19,10 @@ In your formative years, you fought tirelessly in skirmishes and campaigns again
 
 You gain the following career benefits:
 
-- **Skills**: One skill from each of the exploration skill group and the intrigue skill group
+- **Skills**: One skill from each of the [[Exploration Skills|exploration skill]] group and the [[Intrigue Skills|intrigue skill]] group
 - **Languages**: Two languages
 - **Renown**: 1
-- **Title**—Drill Sergeant: At the start of a group test or montage test, you can spend a hope token. If you do, all participants make tests as if they also had your exploration skills.
+- **Title**—Drill Sergeant: At the start of a group test or montage test, you can spend a hope token. If you do, all participants make tests as if they also had your [[Exploration Skills|exploration skills]].
 
 ## Soldier Inciting Incidents
 

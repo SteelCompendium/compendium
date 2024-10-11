@@ -24,9 +24,9 @@ The revenant null flexed his arms and assumed a fighting pose. He smiled.
 
 “Little late for that.”
 
-The dead walk among us. Some of them are happier about it than others.
+The dead [[Walk|walk]] among us. Some of them are happier about it than others.
 
-Unlike the necromantic rituals that produce wights and wraiths and zombies, revenants rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
+Unlike the necromantic rituals that produce wights and wraiths and zombies, revenants rise from the grave through a combination of an unjust death and a burning desire for [[Vengeance|vengeance]]. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
 
 These revenants are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or Capital, where lost souls gather to make a home.
 
@@ -62,7 +62,7 @@ One of the four thieves opened a vial and dipped his dirk into the red oil withi
 
 “What is that gonna do? She's already dead!”
 
-Another knock at the hidden door. “Forget it. Let her knock. Grab as many as you can, and we'll go out the back.”
+Another knock at the hidden door. “Forget it. Let her knock. [[Grab]] as many as you can, and we'll go out the back.”
 
 The head thief ran for the door out the back of the safe house. He jerked it open—and the other thieves watched as a silver flash silently flared across his forehead.
 
@@ -76,7 +76,7 @@ The gray-skinned knight walked into the room. Metal heels rang out on the wooden
 
 “How did you … this is impossible, how did you find us?”
 
-She looked at the man groaning on the floor. “Your boss didn't tell you about the vengeance mark?”
+She looked at the man groaning on the floor. “Your boss didn't tell you about the [[Vengeance|vengeance]] mark?”
 
 “You marked us. Back in Capital. You marked one of us and just … just walked here.”
 
@@ -119,7 +119,7 @@ A magical sigil you placed on a creature explodes with energy.
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                       |
 | **Distance:** Ranged 10             | **Target:** 1 creature with your sigil |
 
-**Power Roll** + Reason, Intuition, or Presence:
+**[[Power]] Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 3 damage; slide 1
 - 12–16: 7 damage; slide 2
@@ -133,7 +133,7 @@ You can have an active number of sigils equal to your level. You can remove a si
 
 Your undead body grants you cold, corruption, lightning immunity, and poison immunity equal to your level. You also have fire weakness 5. You can't suffocate, and you don't need to eat or drink to stay alive.
 
-Additionally, when your Stamina equals the negative of your winded value, you become inert instead of dying. You can continue to observe your surroundings, but you can't speak, take actions, maneuvers, or triggered actions, or move and you fall prone. If you take any fire damage while in this state, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
+Additionally, when your Stamina equals the negative of your winded value, you become inert instead of dying. You can continue to observe your surroundings, but you can't speak, take actions, maneuvers, or triggered actions, or move and you fall [[Prone|prone]]. If you take any fire damage while in this state, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
 
 ### Undead Influence
 

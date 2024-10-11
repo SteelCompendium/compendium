@@ -18,7 +18,7 @@ target: All enemies
 
 # Frigid
 
-The Frigid kit is for heroes who want to tap into the power of arcane blizzards and magical cold. Armed only with an implement of crystal, you can create bursts of ice and protect yourself with frigid winds. When you meditate to prepare this kit, others notice the area around you becoming slightly cooler.
+The Frigid kit is for heroes who want to tap into the [[Power|power]] of arcane blizzards and magical cold. Armed only with an implement of crystal, you can create bursts of ice and protect yourself with frigid winds. When you meditate to prepare this kit, others notice the area around you becoming slightly cooler.
 
 ## Equipment
 
@@ -39,11 +39,11 @@ You unleash a blast of frigid air to freeze and hinder your foes.
 | **Keywords:** Area, Magic, Ranged | **Type:** Action        |
 | **Distance:** 3 cube within 12    | **Target:** All enemies |
 
-**Power Roll** + Reason, Intuition, or Presence:
+**[[Power]] Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 2 cold damage
-- 12–16: 3 cold damage; slowed (EoT)
-- 17+: 4 cold damage; slowed (EoE)
+- 12–16: 3 cold damage; [[Slowed|slowed]] (EoT)
+- 17+: 4 cold damage; [[Slowed|slowed]] (EoE)
 
 ## Kit Ward: Ice Armor
 

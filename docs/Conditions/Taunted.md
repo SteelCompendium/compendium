@@ -14,4 +14,4 @@ If you are taunted, you have a double bane on attacks that don't include the cre
 
 ## Weakened
 
-While you are weakened, all your ability power rolls and tests (but not resistance rolls) take a bane.
+While you are weakened, all your ability [[Power|power]] rolls and tests (but not resistance rolls) take a bane.

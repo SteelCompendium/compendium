@@ -38,7 +38,7 @@ You lob your implement at high speed toward your opponent, unleashing a chaotic 
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
 | **Distance:** Ranged 15             | **Target:** 1 creature or object |
 
-**Power Roll** + Reason, Intuition, or Presence:
+**[[Power]] Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 2 fire damage
 - 12–16: 8 cold damage

@@ -39,7 +39,7 @@ Two beams of supernatural force lance out at your command.
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                   |
 | **Distance:** Ranged 10             | **Target:** 2 creatures or objects |
 
-**Power Roll** + Reason, Intuition, or Presence:
+**[[Power]] Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 3 damage
 - 12–16: 5 damage

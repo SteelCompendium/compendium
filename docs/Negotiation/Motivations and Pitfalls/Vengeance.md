@@ -17,4 +17,4 @@ An NPC with the vengeance pitfall believes that revenge solves nothing. They mig
 Arguments that appeal to the vengeance motivation contend that the NPC can gain payback for their pain by helping the heroes. Example arguments include the following:
 
 - “The servants of Ajax killed your sister as she scoured the city for his cults. The Black Iron Pact works for the Overlord. Give us her diaries, and we might uncover the pact's hideaway and deal a great blow to your hated foes.”
-- “That prankster Huckable made your trousers tear at the last council meeting. Don't you want to pay him back? We can arrange a delicious prank at the next gathering, but we need you to guarantee the safety of the orc refugees.”
+- “That prankster Huckable made your trousers tear at the last council meeting. Don't you want to pay him back? We can arrange a delicious prank at the next gathering, but we need you to guarantee the safety of the [[Orc|orc]] refugees.”

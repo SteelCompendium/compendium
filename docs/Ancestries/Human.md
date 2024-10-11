@@ -10,11 +10,11 @@ kind: ancestries
 
 # Human
 
-“Humans,” the dwarf said with a combination of exasperation and awe. “Their only virtue seems to be believing in impossible things.”
+“Humans,” the [[Dwarf|dwarf]] said with a combination of exasperation and awe. “Their only virtue seems to be believing in impossible things.”
 
-“Humans belong to the world in a way the other speaking peoples do not. You can sense the presence of magic—that… oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
+“Humans belong to the world in a way the other speaking peoples do not. You can sense the presence of magic—that… oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to [[Stand Up|stand up]]. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
 
-“No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin … the dwarves and the orcs as you say. What is it that sets humans apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason.”
+“No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin … the [[Dwarf|dwarves]] and the [[Orc|orcs]] as you say. What is it that sets humans apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason.”
 
 ## On Humans
 
@@ -36,7 +36,7 @@ That refusal to yield to death… to death… is what drives you, I think. Drive
 
 We studied human history in this room. Did you feel that those great ancestors of yours were perhaps made of finer stuff than you? Do not think thus. I knew them, and I know you, and your future is greater. I sometimes think each human generation greater than the last—more courageous, more generous. Quicker to forgive.
 
-Today, Ajax's name is on everyone's tongue, but I have seen many great evils arise in the world. I was teaching in this classroom when the Pharaoh Khorsekef, desperate, his power failing, opened the Great Tet and drank of the time stored there, becoming the Ultralich. He was defeated, and now rules the Necropolitan Ruin in the Abyssal Waste.
+Today, Ajax's name is on everyone's tongue, but I have seen many great evils arise in the world. I was teaching in this classroom when the Pharaoh Khorsekef, desperate, his [[Power|power]] failing, opened the Great Tet and drank of the time stored there, becoming the Ultralich. He was defeated, and now rules the Necropolitan Ruin in the Abyssal Waste.
 
 I was alive, though not yet a professor, when Cthrion Uroniziir tried to reduce the timescape into one singular universe, wiping out reality as we know it. She was defeated, and we see her cage every day.
 

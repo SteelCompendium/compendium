@@ -38,7 +38,7 @@ Your curse causes a foe's flesh to rot off as spores that aid your allies.
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
 | **Distance:** Ranged 5              | **Target:** 1 creature |
 
-**Power Roll** + Reason, Intuition, or Presence:
+**[[Power]] Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 2 corruption damage; a hero within distance can make a resistance roll to end an effect
 - 12–16: 6 corruption damage; a hero within distance can make a resistance roll to end an effect

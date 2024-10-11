@@ -39,7 +39,7 @@ Absorbing psychic energy from another creature lets you shield yourself within i
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
 | **Distance:** Ranged 10             | **Target:** 1 creature |
 
-**Power Roll** + Intuition:
+**[[Power]] Roll** + Intuition:
 
 - 11 or lower: 2 psychic damage; you gain damage immunity 1 until the end of your next turn
 - 12–16: 6 psychic damage; you gain damage immunity 3 until the end of your next turn

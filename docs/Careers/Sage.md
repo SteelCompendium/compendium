@@ -19,10 +19,10 @@ From an early age, you dedicated yourself to learning, whether you shared the kn
 
 You gain the following career benefits:
 
-- **Skills**: Two skills from the lore skill group
+- **Skills**: Two skills from the [[Lore Skills|lore skill]] group
 - **Languages**: One language
 - **Project Points**: 100
-- **Title**—Expert Sage: Whenever you make a test as part of a research or crafting project that uses a skill you have from the lore skill group, you can roll the test twice and use either roll.
+- **Title**—Expert Sage: Whenever you make a test as part of a research or crafting project that uses a skill you have from the [[Lore Skills|lore skill]] group, you can roll the test twice and use either roll.
 
 ## Sage Inciting Incidents
 

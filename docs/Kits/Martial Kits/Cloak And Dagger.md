@@ -43,7 +43,7 @@ You wear light armor and wield one or two light weapons.
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
 | **Distance:** Reach 1 or range 10           | **Target:** 1 creature |
 
-**Power Roll + Might or Agility:**
+**[[Power]] Roll + Might or Agility:**
 
 - 11 or lower: 4 damage; you shift 1 square
 - 12–16: 9 damage; you shift up to 2 squares

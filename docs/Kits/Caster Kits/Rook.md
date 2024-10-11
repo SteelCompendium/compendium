@@ -18,7 +18,7 @@ target: 1 creature or object
 
 # Rook
 
-The Rook kit allows you to use strong armor so you can be better protected while you heal and enhance your allies on the frontline. Heroes with this kit often dive into support magic. While using this kit, your armor resonates with the sounds of choirs from on high as you polish it.
+The Rook kit allows you to use strong armor so you can be better protected while you [[Heal|heal]] and enhance your allies on the frontline. Heroes with this kit often dive into support magic. While using this kit, your armor resonates with the sounds of choirs from on high as you polish it.
 
 ## Equipment
 
@@ -37,7 +37,7 @@ Burning radiance falls upon your foe, outlining them with a holy glow.
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
 | **Distance:** Ranged 5              | **Target:** 1 creature or object |
 
-**Power Roll** + Reason, Intuition, or Presence:
+**[[Power]] Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 2 holy damage; the next attack against the target has an edge
 - 12–16: 6 holy damage; the next attack against the target has an edge

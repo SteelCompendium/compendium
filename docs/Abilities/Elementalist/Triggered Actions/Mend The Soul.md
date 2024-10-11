@@ -19,7 +19,7 @@ trigger: The target starts their turn.
 
 # Mend The Soul
 
-The power you channel grants the ability to get back in the fight.
+The [[Power|power]] you channel grants the ability to get back in the fight.
 
 |                                    |                            |
 | :--------------------------------- | :------------------------- |
