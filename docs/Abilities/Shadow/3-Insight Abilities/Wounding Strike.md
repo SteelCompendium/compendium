@@ -27,7 +27,7 @@ You leave your foe [[Bleeding|bleeding]] out after a devastating attack.
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
 | **Distance:** Reach 1 or Ranged 3           | **Target:** 1 creature |
 
-**[[Power]] Roll + Agility:**
+**Power Roll + Agility:**
 
 - 11 or lower: 6 damage
 - 12–16: 9 damage; [[Bleeding|bleeding]] until a creature uses a maneuver to staunch the wound

@@ -27,7 +27,7 @@ You hit a foe so hard that it gets your allies back in the fight.
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |
 | **Distance:** Reach 1 or Ranged 5           | **Target:** 1 creature or object |
 
-**[[Power]] Roll + Might:**
+**Power Roll + Might:**
 
 - 11 or lower: 6 damage; you or an ally within 10 can spend a Recovery
 - 12–16: 8 damage; you or an ally within 10 can spend a Recovery

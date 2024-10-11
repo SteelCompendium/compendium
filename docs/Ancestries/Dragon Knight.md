@@ -21,11 +21,11 @@ target: All enemies
 
 “I think things are going to get a lot worse before they get better.”
 
-The **Ritual of Dracogenesis** that grants the [[Power|power]] to create a generation of dragon knights—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khorshir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
+The **Ritual of Dracogenesis** that grants the power to create a generation of dragon knights—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khorshir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
 
 The largest extant population of draconians is the remnants of the Dragon Phalanx in Vasloria. Created by Good King Omund's wizard Vitae, the Dragon Phalanx once numbered several thousand of the king's greatest knights, ensuring the rule of law across the land.
 
-Knighthood was a title carried by every member of that first generation of dragon knights. Within the Dragon Phalanx were shadows, censors, tacticians, and elementalists. Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over thirty years, these heroes were symbols of [[Justice|justice]], protecting the weak from the strong, and standing between the common folk and those who sought [[Power|power]] over others. Those who grew up in that place and time could never have imagined any other way of life.
+Knighthood was a title carried by every member of that first generation of dragon knights. Within the Dragon Phalanx were shadows, censors, tacticians, and elementalists. Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over thirty years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could never have imagined any other way of life.
 
 Then Ajax came.
 
@@ -139,7 +139,7 @@ Your hardened scales grant you immunity 5 to one of the following damage types: 
 
 ### Knighthood
 
-The [[Legacy|legacy]] of the Dragon Phalanx lives in you. Choose one of the following benefits.
+The legacy of the Dragon Phalanx lives in you. Choose one of the following benefits.
 
 - **DRACONIAN RUSH:** As a maneuver, you can [[Fly|fly]] in a straight line up to your speed. Until you reach level 6, you must end your turn on a solid surface or fall, then fall [[Prone|prone]].
 
@@ -156,7 +156,7 @@ You let loose a mighty roar to repel your foes and shake their spirits.
 | **Keywords:** Area, Magic | **Type:** Action        |
 | **Distance:** 2 burst     | **Target:** All enemies |
 
-**[[Power]] Roll + Might or Presence:**
+**Power Roll + Might or Presence:**
 
 - 11 or lower: 2 damage; push 1
 
@@ -164,4 +164,4 @@ You let loose a mighty roar to repel your foes and shake their spirits.
 
 - 17+: 7 damage; push 5; [[Frightened|frightened]] (EoT)
 
-  **Effect:** You have a bane on the [[Power|power]] roll for this ability when you use it in consecutive rounds of the same encounter.
+  **Effect:** You have a bane on the power roll for this ability when you use it in consecutive rounds of the same encounter.

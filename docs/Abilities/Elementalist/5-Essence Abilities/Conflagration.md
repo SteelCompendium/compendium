@@ -28,7 +28,7 @@ A storm of fire descends upon your enemies.
 | **Keywords:** Area, Fire, Magic, Persistent, Ranged | **Type:** Action        |
 | **Distance:** 4 cube within 5                       | **Target:** All enemies |
 
-**[[Power]] Roll + Reason**:
+**Power Roll + Reason**:
 
 - 11 or lower: 5 fire damage
 - 12–16: 7 fire damage

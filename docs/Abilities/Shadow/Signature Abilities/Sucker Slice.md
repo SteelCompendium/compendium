@@ -25,7 +25,7 @@ Keeping an enemy's focus on you lets your ally hit hard.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Reach 1               | **Target:** 1 creature |
 
-**[[Power]] Roll + Agility:**
+**Power Roll + Agility:**
 
 - 11 or lower: 3 damage
 - 12–16: 8 damage

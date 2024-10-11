@@ -12,7 +12,7 @@ kind: movement
 
 You can attempt to climb a creature whose size is greater than yours. If the creature is willing, you can climb them without any trouble. If the creature is unwilling, you make the following test:
 
-**[[Power]] Roll + Might or Agility:**
+**Power Roll + Might or Agility:**
 
 - 11 or lower: You fail to climb the creature, and they can make a [[Free Strike|free strike]] against you.
 - 12–16: You fail to climb the creature.
@@ -20,7 +20,7 @@ You can attempt to climb a creature whose size is greater than yours. If the cre
 
 While you climb or ride a creature, you gain an edge to melee attacks against them. The creature can use a maneuver to attempt to knock you off. If you are knocked off a creature, you must make the following test:
 
-**[[Power]] Roll + Might or Agility:**
+**Power Roll + Might or Agility:**
 
 - 11 or lower: You fall off the creature into an unoccupied adjacent space of your choice, taking falling damage and landing [[Prone|prone]] as usual (see Falling in Adventuring).
 - 12–16: You slide down the creature into an unoccupied adjacent space of your choice and don't land [[Prone|prone]].

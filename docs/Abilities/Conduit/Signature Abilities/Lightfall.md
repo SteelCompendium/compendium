@@ -25,7 +25,7 @@ Holy light scours your foes and sets your allies into perfect attack position.
 | **Keywords:** Area, Magic, Ranged | **Type:** Action        |
 | **Distance:** Cube 3 within 5     | **Target:** All enemies |
 
-**[[Power]] Roll + Intuition**:
+**Power Roll + Intuition**:
 
 - 11 or lower: 2 holy damage
 - 12–16: 3 holy damage

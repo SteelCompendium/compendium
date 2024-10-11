@@ -36,7 +36,7 @@ That refusal to yield to death… to death… is what drives you, I think. Drive
 
 We studied human history in this room. Did you feel that those great ancestors of yours were perhaps made of finer stuff than you? Do not think thus. I knew them, and I know you, and your future is greater. I sometimes think each human generation greater than the last—more courageous, more generous. Quicker to forgive.
 
-Today, Ajax's name is on everyone's tongue, but I have seen many great evils arise in the world. I was teaching in this classroom when the Pharaoh Khorsekef, desperate, his [[Power|power]] failing, opened the Great Tet and drank of the time stored there, becoming the Ultralich. He was defeated, and now rules the Necropolitan Ruin in the Abyssal Waste.
+Today, Ajax's name is on everyone's tongue, but I have seen many great evils arise in the world. I was teaching in this classroom when the Pharaoh Khorsekef, desperate, his power failing, opened the Great Tet and drank of the time stored there, becoming the Ultralich. He was defeated, and now rules the Necropolitan Ruin in the Abyssal Waste.
 
 I was alive, though not yet a professor, when Cthrion Uroniziir tried to reduce the timescape into one singular universe, wiping out reality as we know it. She was defeated, and we see her cage every day.
 

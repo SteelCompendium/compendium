@@ -26,7 +26,7 @@ A resounding clap of thunder disrupts your foes.
 | **Keywords:** Area, Magic, Ranged | **Type:** Action        |
 | **Distance:** 4 cube within 5     | **Target:** All enemies |
 
-**[[Power]] Roll + Intuition**:
+**Power Roll + Intuition**:
 
 - 11 or lower: 4 sonic damage; push 1
 - 12–16: 5 sonic damage; push 3

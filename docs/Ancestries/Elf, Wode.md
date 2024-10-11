@@ -16,7 +16,7 @@ See you the river clear and sweet So beautiful and fair? Follow it in and you ma
 
 Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among [[Human|humans]] for snatching children who wander too far into the woods. [[Human|Humans]] should fear the trees.
 
-The wode elves' natural ability to mask their presence, called glamor, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few wode elves who dwell in cities naturally adept at [[Urban|urban]] warfare.
+The wode elves' natural ability to mask their presence, called glamor, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few wode elves who dwell in cities naturally adept at urban warfare.
 
 ## On Wode Elves
 
@@ -106,7 +106,7 @@ As a wode elf character, you have the following benefits.
 
 ### Otherworldly Grace
 
-Your elven body and mind can't be contained for long, and accessing memories is as easy as living in the present for you. You gain an edge on resistance rolls, and on tests that use any skills you have from the [[Lore Skills|lore skill]] group.
+Your elven body and mind can't be contained for long, and accessing memories is as easy as living in the present for you. You gain an edge on resistance rolls, and on tests that use any skills you have from the lore skill group.
 
 ### Swift
 

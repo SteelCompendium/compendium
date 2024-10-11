@@ -41,7 +41,7 @@ You wear light armor and wield a bow.
 | **Keywords:** Attack, Ranged, Weapon | **Type:** Action                   |
 | **Distance:** Ranged 12              | **Target:** 2 creatures or objects |
 
-**[[Power]] Roll + Might or Agility:**
+**Power Roll + Might or Agility:**
 
 - 11 or lower: 4 damage
 - 12–16: 6 damage

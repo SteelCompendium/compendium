@@ -18,7 +18,7 @@ target: 1 creature or object
 
 # Dancer
 
-The Dancer kit forgoes nearly all equipment in exchange for speed, letting you rely purely on kinetic energy to channel your [[Power|power]]. The more you move, the more others may want to move with you. Select this kit when your party regularly needs to close the distance on your enemies. While you use this kit, your heartbeat becomes an audible metronome.
+The Dancer kit forgoes nearly all equipment in exchange for speed, letting you rely purely on kinetic energy to channel your power. The more you move, the more others may want to move with you. Select this kit when your party regularly needs to close the distance on your enemies. While you use this kit, your heartbeat becomes an audible metronome.
 
 ## Equipment
 
@@ -38,7 +38,7 @@ Visible energy sparks off you to wash across a nearby foe, who you invite to dan
 | **Keywords:** Attack, Magic, Melee | **Type:** Action                 |
 | **Distance:** Reach 2              | **Target:** 1 creature or object |
 
-**[[Power]] Roll** + Agility, Intuition, or Presence:
+**Power Roll** + Agility, Intuition, or Presence:
 
 - 11 or lower: 2 damage
 - 12–16: 7 damage; you swap places with the target

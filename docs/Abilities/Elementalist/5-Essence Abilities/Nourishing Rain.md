@@ -26,7 +26,7 @@ You call down a rain that burns your enemies and restores your allies.
 | **Keywords:** Area, Green, Magic | **Type:** Action        |
 | **Distance:** 5 burst            | **Target:** All enemies |
 
-**[[Power]] Roll + Reason**:
+**Power Roll + Reason**:
 
 - 11 or lower: 3 acid damage
 - 12–16: 5 acid damage

@@ -17,4 +17,4 @@ An NPC with the justice pitfall doesn't believe that the timescape is an inheren
 Arguments that appeal to a justice motivation position the heroes on the good side of an NPC's sense of right and wrong. Example arguments include the following:
 
 - “You despise those who steal from nature. Allow us peacefully into your wode so we may bottle the Blessed Spring's water. We're going to use it to stop an army from felling every tree and tearing up the earth wherever they go.”
-- “You think [[Noble|nobles]] are lazy barons who get rich off the backs of peasants. We want to dethrone Lord Saxton. Lend us your crew of thieves, and we'll see to it that when Saxton falls, the people can choose their own leaders.”
+- “You think nobles are lazy barons who get rich off the backs of peasants. We want to dethrone Lord Saxton. Lend us your crew of thieves, and we'll see to it that when Saxton falls, the people can choose their own leaders.”

@@ -26,7 +26,7 @@ The revenant null flexed his arms and assumed a fighting pose. He smiled.
 
 The dead [[Walk|walk]] among us. Some of them are happier about it than others.
 
-Unlike the necromantic rituals that produce wights and wraiths and zombies, revenants rise from the grave through a combination of an unjust death and a burning desire for [[Vengeance|vengeance]]. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
+Unlike the necromantic rituals that produce wights and wraiths and zombies, revenants rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
 
 These revenants are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or Capital, where lost souls gather to make a home.
 
@@ -76,7 +76,7 @@ The gray-skinned knight walked into the room. Metal heels rang out on the wooden
 
 “How did you … this is impossible, how did you find us?”
 
-She looked at the man groaning on the floor. “Your boss didn't tell you about the [[Vengeance|vengeance]] mark?”
+She looked at the man groaning on the floor. “Your boss didn't tell you about the vengeance mark?”
 
 “You marked us. Back in Capital. You marked one of us and just … just walked here.”
 
@@ -119,7 +119,7 @@ A magical sigil you placed on a creature explodes with energy.
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                       |
 | **Distance:** Ranged 10             | **Target:** 1 creature with your sigil |
 
-**[[Power]] Roll** + Reason, Intuition, or Presence:
+**Power Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 3 damage; slide 1
 - 12–16: 7 damage; slide 2

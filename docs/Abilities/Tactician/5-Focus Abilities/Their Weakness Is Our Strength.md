@@ -27,7 +27,7 @@ Leaving your foe struggling gives your allies a strategic opening.
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action                 |
 | **Distance:** Reach 1 or Ranged 5           | **Target:** 1 creature or object |
 
-**[[Power]] Roll + Might:**
+**Power Roll + Might:**
 
 - 11 or lower: 7 damage; weakened (EoT)
 - 12–16: 10 damage; weakened (EoT)

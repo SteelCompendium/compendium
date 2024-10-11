@@ -19,14 +19,14 @@ target: All enemies
 
 # Primordial Shockwave (5 Rage)
 
-The destructive [[Power|power]] of nature cannot be contained.
+The destructive power of nature cannot be contained.
 
 |                                   |                         |
 | :-------------------------------- | :---------------------- |
 | **Keywords:** Area, Melee, Weapon | **Type:** Action        |
 | **Distance:** 5 × 1 line within 1 | **Target:** All enemies |
 
-**[[Power]] Roll + Might:**
+**Power Roll + Might:**
 
 - 11 or lower: 4 damage; push 2
 - 12–16: 5 damage; push 4

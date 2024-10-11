@@ -10,7 +10,7 @@ kind: ancestries
 
 # Dwarf
 
-“Remember, we are dwarves. Our strength is the strength of the earth. The strength of the marble column that rises to the heavens. The strength of the granite foundation that reaches deep into the ground. But what is the value of strength if it is not used in service of [[Justice|justice]]?”
+“Remember, we are dwarves. Our strength is the strength of the earth. The strength of the marble column that rises to the heavens. The strength of the granite foundation that reaches deep into the ground. But what is the value of strength if it is not used in service of justice?”
 
 —Zarok the Lawgiver, Hero, Dwarves 232
 
@@ -32,7 +32,7 @@ The steel dwarves—the greatest of us—are dead now, and our cousins the fire 
 
 It is left to us, the stone dwarves, the Last Children of Ord, to work stone, create great marvels with it. Our greatest days are not behind us! Who speaks thus?! Have we not been to the Hanging City of Kal Kalavar together? Will you ever forget that place? I will not should I live to be a thousand, and neither will you. And it was finished in my lifetime. Only three hundred years ago! It's brand new!
 
-Elven rivalry. Pagh! Did we not name the most precious metal in the earth “valiar” after their god Val? Val is a [[Noble|noble]] god, a worthy patron of the elves. He seeks [[Justice|justice]] and glory in his own way, we deem. Were one to choose the path of the conduit, you could pick worse gods than Val to serve.
+Elven rivalry. Pagh! Did we not name the most precious metal in the earth “valiar” after their god Val? Val is a noble god, a worthy patron of the elves. He seeks justice and glory in his own way, we deem. Were one to choose the path of the conduit, you could pick worse gods than Val to serve.
 
 It is the [[Human|humans]] who make so much of rivalries between the ancestries. It was the [[Human|humans]] who called us “dwarves.” We do not know the significance of this word in their tongue, but we accept it. Their speech is crude, true, but they are a young species after all. We must not judge them too harshly. “Elemental” would be a faithful translation of our word for ourselves into the Caelian tongue.
 
@@ -64,4 +64,4 @@ You can carve a magic rune onto your skin. The rune you carve determines the ben
 
 ### Spark Off Your Skin
 
-Your stone skin affords you potent [[Protection|protection]]. Your Stamina increases by 6 at 1st level, then increases by an additional 1 each time you gain a new level
+Your stone skin affords you potent protection. Your Stamina increases by 6 at 1st level, then increases by an additional 1 each time you gain a new level

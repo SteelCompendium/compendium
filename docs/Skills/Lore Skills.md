@@ -21,7 +21,7 @@ Failure consequences for tests made with lore skills typically include learning 
 | Skill               | Use                                                                                        |
 | ------------------- | ------------------------------------------------------------------------------------------ |
 | Culture             | Knowing about a culture's customs, folktales, and taboos                                   |
-| [[Criminal]] Underworld | Knowing about [[Criminal|criminal]] organizations, their crimes, their relationships, and their leaders |
+| Criminal Underworld | Knowing about criminal organizations, their crimes, their relationships, and their leaders |
 | History             | Knowing about significant past events                                                      |
 | Magic               | Knowing about magical places, spells, rituals, items, and phenomena                        |
 | Monsters            | Knowing monster ecology, strengths, and weaknesses                                         |
@@ -29,5 +29,5 @@ Failure consequences for tests made with lore skills typically include learning 
 | Psionics            | Knowing about psionic places, spells, rituals, items, and phenomena                        |
 | Religion            | Knowing about religious mythology, practices, and rituals                                  |
 | Rumors              | Knowing gossip, legends, and uncertain truths                                              |
-| Society             | Knowing [[Noble|noble]] etiquette and the leadership and [[Power|power]] dynamics of [[Noble|noble]] families            |
+| Society             | Knowing noble etiquette and the leadership and power dynamics of noble families            |
 | Timescape           | Knowing about the various planets of the timescape                                         |

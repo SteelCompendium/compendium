@@ -16,7 +16,7 @@ kind: ancestries
 
 Commander of the HOV First Get Behind Them [[Memonek]]
 
-The original servitor species of the synliiroi—evil psions with near god-like [[Power|power]]—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym “time [[Raider|raiders]]” was given to them by denizens of the lower worlds who, seeing the advanced technology they wield, concluded they must be from the future.
+The original servitor species of the synliiroi—evil psions with near god-like power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym “time [[Raider|raiders]]” was given to them by denizens of the lower worlds who, seeing the advanced technology they wield, concluded they must be from the future.
 
 Extraordinarily rare in Orden, the time [[Raider|raiders]] thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
 
@@ -118,11 +118,11 @@ As a time [[Raider|raider]] character, you have the following benefits.
 
 ### Foresight
 
-Your senses extend past mundane obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren't hidden from you, negating the usual bane on attacks against them. Additionally, whenever you are attacked, you can use a triggered action to impose a bane on the [[Power|power]] roll.
+Your senses extend past mundane obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren't hidden from you, negating the usual bane on attacks against them. Additionally, whenever you are attacked, you can use a triggered action to impose a bane on the power roll.
 
 ### Four Arms
 
-Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [[Grab]] or [[Knockback]] maneuver against an adjacent creature, you can target an additional adjacent creature, using the same [[Power|power]] roll for both targets. You can [[Grab|grab]] up to two creatures at a time.
+Your multiple arms let you take on multiple tasks at the same time. Whenever you use the [[Grab]] or [[Knockback]] maneuver against an adjacent creature, you can target an additional adjacent creature, using the same power roll for both targets. You can [[Grab|grab]] up to two creatures at a time.
 
 ### Psionic Gift
 

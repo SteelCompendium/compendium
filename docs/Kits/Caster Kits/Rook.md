@@ -37,7 +37,7 @@ Burning radiance falls upon your foe, outlining them with a holy glow.
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
 | **Distance:** Ranged 5              | **Target:** 1 creature or object |
 
-**[[Power]] Roll** + Reason, Intuition, or Presence:
+**Power Roll** + Reason, Intuition, or Presence:
 
 - 11 or lower: 2 holy damage; the next attack against the target has an edge
 - 12–16: 6 holy damage; the next attack against the target has an edge

@@ -26,7 +26,7 @@ You focus your rage into a single devastating strike.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Reach 1               | **Target:** 1 creature |
 
-**[[Power]] Roll + Might:**
+**Power Roll + Might:**
 
 - 11 or lower: 9 damage
 - 12–16: 13 damage

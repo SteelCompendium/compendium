@@ -72,7 +72,7 @@ The Pillar looked at the Arrow out of the corner of her eye. “You'll see,” s
 
 “It's bad luck?”
 
-“Mmmm … you would say maybe. I think … rude is closer, but the doomsight is rarely clear in any event. It is full of symbolism and metaphor. My father is the shaa'er of our tribe. The skald as the Vanigair call it. He thought the symbolism was a kind of [[Protection|protection]]. So that I might know with certainty the meaning, but be unable to clearly convey it to others.” She nodded. “I think he is right.”
+“Mmmm … you would say maybe. I think … rude is closer, but the doomsight is rarely clear in any event. It is full of symbolism and metaphor. My father is the shaa'er of our tribe. The skald as the Vanigair call it. He thought the symbolism was a kind of protection. So that I might know with certainty the meaning, but be unable to clearly convey it to others.” She nodded. “I think he is right.”
 
 “Is it like a dream or a nightmare?” The Arrow wasn't sure how much it was okay to ask.
 
