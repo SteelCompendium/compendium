@@ -14,9 +14,9 @@ See you the wood so dark and deep, Where runs the fox and hare? You know now why
 
 See you the river clear and sweet So beautiful and fair? Follow it in and you may meet The Queen of Dark and Air.
 
-Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among [[Human|humans]] for snatching children who wander too far into the woods. [[Human|Humans]] should fear the trees.
+Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among humans for snatching children who wander too far into the woods. Humans should fear the trees.
 
-The wode elves' natural ability to mask their presence, called glamor, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few wode elves who dwell in cities naturally adept at [[Urban|urban]] warfare.
+The wode elves' natural ability to mask their presence, called glamor, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few wode elves who dwell in cities naturally adept at urban warfare.
 
 ## On Wode Elves
 
@@ -34,7 +34,7 @@ Then, only a few feet from them, a half-dozen figures melded out of the backgrou
 
 “Black gods!” Meliora gasped. Credan frowned, and Wenna hushed her for swearing. Dade was ushered back toward them by two more wode elves, his bow in hand. The children huddled together, Credan's hand on the symbol of Saint Gryffyn around his neck, and Jeremy's hand on the hilt of his sword.
 
-The elves were tall, taller than an adult [[Human|human]], but seemed always to crouch as soon as they stopped moving. Their eyes were unsettling, widely spaced and huge. But it was their ears, long and tall and twisting and set with great scoops to catch all sound, that marked them as elves of the wode.
+The elves were tall, taller than an adult human, but seemed always to crouch as soon as they stopped moving. Their eyes were unsettling, widely spaced and huge. But it was their ears, long and tall and twisting and set with great scoops to catch all sound, that marked them as elves of the wode.
 
 “Admittedly, though, most terrans regret the experience.”
 
@@ -92,7 +92,7 @@ Llyander turned and marched off. “Come!” they called. The children ran to ca
 
 The elf stopped suddenly and spun toward them, serious but kindly. They pointed to each of the children in turn.
 
-“I will instruct you on the proper etiquette, but remember this: Lord Tear will test us. Some tests for you and some for me. The high elves and the wode elves are but distant cousins. You will hear much that is polite, much that is flattering, but it is all another kind of glamor. It [[Hide|hides]] deep tensions, recently exacerbated by the treaty with Ajax.”
+“I will instruct you on the proper etiquette, but remember this: Lord Tear will test us. Some tests for you and some for me. The high elves and the wode elves are but distant cousins. You will hear much that is polite, much that is flattering, but it is all another kind of glamor. It hides deep tensions, recently exacerbated by the treaty with Ajax.”
 
 The children nodded. The elf, satisfied, marched off and they followed.
 
@@ -106,7 +106,7 @@ As a wode elf character, you have the following benefits.
 
 ### Otherworldly Grace
 
-Your elven body and mind can't be contained for long, and accessing memories is as easy as living in the present for you. You gain an edge on resistance rolls, and on tests that use any skills you have from the [[Lore Skills|lore skill]] group.
+Your elven body and mind can't be contained for long, and accessing memories is as easy as living in the present for you. You gain an edge on resistance rolls, and on tests that use any skills you have from the lore skill group.
 
 ### Swift
 
@@ -114,4 +114,4 @@ Your speed is 6.
 
 ### Wode Elf Glamor
 
-You can magically alter your appearance to better blend in with your surroundings. You gain an edge on Agility tests made to [[Hide|hide]] and sneak, and tests made to find you while you are hidden take a bane.
+You can magically alter your appearance to better blend in with your surroundings. You gain an edge on Agility tests made to hide and sneak, and tests made to find you while you are hidden take a bane.

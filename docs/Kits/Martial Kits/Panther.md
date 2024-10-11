@@ -18,7 +18,7 @@ target: 1 creature or object
 
 # Panther
 
-If you want a good balance of [[Protection|protection]], speed, and damage, the Panther kit is for you. This kit increases your Stamina not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
+If you want a good balance of protection, speed, and damage, the Panther kit is for you. This kit increases your Stamina not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
 
 ## Equipment
 
@@ -40,7 +40,7 @@ You wear no armor and wield a heavy weapon.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
 | **Distance:** Reach 1               | **Target:** 1 creature or object |
 
-**[[Power]] Roll + Might or Agility:**
+**Power Roll + Might or Agility:**
 
 - 11 or lower: 3 damage
 - 12–16: 8 damage

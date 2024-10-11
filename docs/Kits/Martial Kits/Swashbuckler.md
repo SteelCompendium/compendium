@@ -40,7 +40,7 @@ You wear light armor and wield a medium weapon.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Reach 1               | **Target:** 1 creature |
 
-**[[Power]] Roll + Might or Agility:**
+**Power Roll + Might or Agility:**
 
 - 11 or lower: 5 damage
 - 12–16: 10 damage; push 1

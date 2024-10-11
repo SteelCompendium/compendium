@@ -10,7 +10,7 @@ kind: complications
 
 # Elemental Absorption
 
-When an evil mage threatened someone you loved, you blocked your foe's summoning of an elemental creature by absorbing their magic with your body. You are now infused with the [[Power|power]] of that elemental—and they're not happy about it.
+When an evil mage threatened someone you loved, you blocked your foe's summoning of an elemental creature by absorbing their magic with your body. You are now infused with the power of that elemental—and they're not happy about it.
 
 **Benefit**: Your Stamina increases by 6 at 1st level, then increases by an additional 1 each time you gain a new level.
 

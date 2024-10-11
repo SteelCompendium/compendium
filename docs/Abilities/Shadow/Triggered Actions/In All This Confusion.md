@@ -17,7 +17,7 @@ trigger: You take damage.
 
 # In All This Confusion
 
-You [[Teleport|teleport]] away in a plume of black smoke to avoid danger.
+You teleport away in a plume of black smoke to avoid danger.
 
 |                     |                     |
 | :------------------ | :------------------ |
@@ -26,6 +26,6 @@ You [[Teleport|teleport]] away in a plume of black smoke to avoid danger.
 
 - **Trigger:** You take damage.
 
-**Effect:** You [[Teleport|teleport]] up to 4 squares, halve the triggering damage, and don't suffer any effect associated with the damage.
+**Effect:** You teleport up to 4 squares, halve the triggering damage, and don't suffer any effect associated with the damage.
 
-**Spend Insight:** You [[Teleport|teleport]] 1 additional square for each insight spent.
+**Spend Insight:** You teleport 1 additional square for each insight spent.

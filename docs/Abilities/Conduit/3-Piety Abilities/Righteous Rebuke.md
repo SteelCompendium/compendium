@@ -26,7 +26,7 @@ Divine wrath strikes your foe with lightning that follows them across the battle
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
 | **Distance:** Ranged 5              | **Target:** 1 creature |
 
-**[[Power]] Roll + Intuition**:
+**Power Roll + Intuition**:
 
 - 11 or lower: 6 lightning damage
 - 12–16: 8 lightning damage

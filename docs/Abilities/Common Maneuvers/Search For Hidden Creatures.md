@@ -10,4 +10,4 @@ kind: abilities
 
 # Search For Hidden Creatures
 
-You can use this maneuver to attempt to search for creatures hidden from you (see [[Hide]] and Sneak).
+You can use this maneuver to attempt to search for creatures hidden from you (see Hide and Sneak).

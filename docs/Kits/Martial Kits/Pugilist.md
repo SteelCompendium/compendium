@@ -40,7 +40,7 @@ You wear no armor and wield only your unarmed strikes.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Reach 1               | **Target:** 1 creature |
 
-**[[Power]] Roll + Might or Agility:**
+**Power Roll + Might or Agility:**
 
 - 11 or lower: 4 damage
 - 12–16: 9 damage; slide 1

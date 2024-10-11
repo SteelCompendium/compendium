@@ -28,7 +28,7 @@ Count Revile avoided his gaze, then turned and stamped away across the bloody ba
 
 “I'm fine!” Revile shouted, all evidence to the contrary.
 
-“I know what I saw,” John said as he followed his friend. “You went into a bloodlust. And it's not the first time. Whether you like it or not, whether I like it or not, I'm in [[Charge|charge]] of this mission. Either you tell me what's going on, or I have no choice. I have to conclude you're a danger to the team and cut you loose.”
+“I know what I saw,” John said as he followed his friend. “You went into a bloodlust. And it's not the first time. Whether you like it or not, whether I like it or not, I'm in charge of this mission. Either you tell me what's going on, or I have no choice. I have to conclude you're a danger to the team and cut you loose.”
 
 Revile stopped and turned to look at the rest of the party, recovering from their wounds. The memonek's white porcelain chest heaved as he tried to calm himself. His ceramic skin looked as strong as plate, but John knew it was brittle, fragile.
 
@@ -36,7 +36,7 @@ Count Revile took a deep breath. “We call it velloparatha,” he said. “In y
 
 “Are you going mad?” John asked in a whisper.
 
-The memonek smiled ruefully. “It feels that way sometimes. I spent an hour this morning staring at an insect that landed on my finger—a grasshopper, the [[Polder|polder]] called it. I thought I had never seen a thing so perfect and beautiful. That was awe. As powerful as I have ever felt. In the battle today, anger—just as powerful.
+The memonek smiled ruefully. “It feels that way sometimes. I spent an hour this morning staring at an insect that landed on my finger—a grasshopper, the polder called it. I thought I had never seen a thing so perfect and beautiful. That was awe. As powerful as I have ever felt. In the battle today, anger—just as powerful.
 
 “I thought I could resist it. When I arrived here and felt no different, I thought perhaps world-sickness was a legend. But it is a slow process, this illness, these insidious emotions.”
 
@@ -100,4 +100,4 @@ Your silicone body is aerodynamic and low in density. Your speed is 7, and whene
 
 ## Keeper Of Order
 
-When you or a creature adjacent to you makes a [[Power|power]] roll, you can remove an edge or a bane on the roll as a free triggered action. You can only use this benefit once per round.
+When you or a creature adjacent to you makes a power roll, you can remove an edge or a bane on the roll as a free triggered action. You can only use this benefit once per round.

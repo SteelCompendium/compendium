@@ -10,7 +10,7 @@ update push="true":
 		cd "$dir"
 		echo >&2 "[INFO] Copying compendium markdown to website docs..."
 		cp -R * "${compendium_dir}/docs"
-		# TODO 
+		# TODO
 		#cp -R Adventures "${compendium_dir}/docs"
 		#cp -R Media "${compendium_dir}/docs"
 
