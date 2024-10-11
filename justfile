@@ -14,8 +14,6 @@ update push="true":
 		#cp -R Adventures "${compendium_dir}/docs"
 		#cp -R Media "${compendium_dir}/docs"
 
-		rm "${compendium_dir}/docs/README.md" || true
-
 		sha="$(git rev-parse --short HEAD)"
 		echo >&2 "[INFO] Committing and pushing updates..."
 		cd "$compendium_dir"
