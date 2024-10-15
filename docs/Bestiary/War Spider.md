@@ -4,7 +4,7 @@
 | :------------------------ | -------------------: |
 | *Animal, Goblin*          |            **EV 28** |
 | **Stamina**: 60           | **Speed**: 7 (climb) |
-| **Size**: 3 / Stability 2 |   **Free Strike**: 4 |
+| **Size**: 3 / Stability 2 |   **[[Free Strike]]**: 4 |
 
 | **Might** +2 | **Agility** +1 | **Reason** −4 | **Intuition** +0 | **Presence** −3 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -17,8 +17,8 @@ Distance: Reach 1
 Target: One creature or object
 
 - ✦ ≤11: 4 poison damage
-- ★ 12–16: 7 poison damage; weakened (EoT)
-- ✸ 17+: 10 poison damage; weakened (MGT ends)
+- ★ 12–16: 7 poison damage; [[Weakened|weakened]] (EoT)
+- ✸ 17+: 10 poison damage; [[Weakened|weakened]] (MGT ends)
 
 **Leg Blade (Action)** ◆ 2d10 + 2
 
@@ -44,13 +44,13 @@ Keywords: Area, Resistance
 Distance: 3 cube within 1
 Target: Each creature
 
-- ✸ ≤11: Restrained (AGL ends)
-- ★ 12–16: Restrained (EoT)
+- ✸ ≤11: [[Restrained]] (AGL ends)
+- ★ 12–16: [[Restrained]] (EoT)
 - ✦ 17+: No effect
 
 **Ride Launcher**
 
-An ally who leaps off the back of the spider can jump up to 6 squares without a test, and takes no damage if they fall during the jump. After the jump, the first melee attack an ally makes on the same turn gains an edge.
+An ally who leaps off the back of the spider can [[Jump|jump]] up to 6 squares without a test, and takes no damage if they fall during the [[Jump|jump]]. After the [[Jump|jump]], the first melee attack an ally makes on the same turn gains an edge.
 
 **Wide Back**
 

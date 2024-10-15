@@ -5,7 +5,7 @@
 | *Demon, Planar* |                   **EV 6** |
 | **Stamina**: 10 |       **Weakness**: Holy 3 |
 | **Speed**: 5    | **Size**: 1M / Stability 0 |
-|                 |         **Free Strike**: 2 |
+|                 |         **[[Free Strike]]**: 2 |
 
 | **Might** +1 | **Agility** +0 | **Reason** −1 | **Intuition** −1 | **Presence** −1 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -19,7 +19,7 @@ Target: One creature or object per minion
 
 - ✦ ≤11: 2 damage; pull 1
 - ★ 12–16: 4 damage; pull 2
-- ✸ 17+: 5 damage; pull 3; slowed (EoT)
+- ✸ 17+: 5 damage; pull 3; [[Slowed|slowed]] (EoT)
 
 **Soulsight**
 

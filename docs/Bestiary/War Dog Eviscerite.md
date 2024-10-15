@@ -4,7 +4,7 @@
 | :------------------------- | ------------------: |
 | *Humanoid, War Dog*        |           **EV 10** |
 | **Stamina**: 20            |        **Speed**: 7 |
-| **Size**: 1M / Stability 0 |  **Free Strike**: 3 |
+| **Size**: 1M / Stability 0 |  **[[Free Strike]]**: 3 |
 
 | **Might**: +1 | **Agility**: +1 | **Reason**: +0 | **Intuition**: +0 | **Presence**: +0 |
 | ------------- | --------------- | -------------- | ----------------- | ---------------- |
@@ -21,7 +21,7 @@
 - ★ 12–16: 5 damage; pull 1
 - ✸ 17+: 7 damage; pull 2
 
-**Effect**: The eviscerite can grab a target pulled adjacent to them by this ability.
+**Effect**: The eviscerite can [[Grab|grab]] a target pulled adjacent to them by this ability.
 
 **Posthumous Promotion (Maneuver)**
 

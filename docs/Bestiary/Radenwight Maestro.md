@@ -4,7 +4,7 @@
 | :------------------------- | -------------------: |
 | *Humanoid, Radenwight*     |            **EV 38** |
 | **Stamina**: 80            | **Speed**: 5 (climb) |
-| **Size**: 1S / Stability 1 |   **Free Strike**: 5 |
+| **Size**: 1S / Stability 1 |   **[[Free Strike]]**: 5 |
 
 | **Might** −2 | **Agility** +2 | **Reason** +0 | **Intuition** +0 | **Presence** +2 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -28,8 +28,8 @@ Keywords: Magic, Ranged, Resistance
 Distance: Ranged 10
 Target: Two enemies
 
-- ✸ ≤11: Slowed (MGT ends)
-- ★ 12–16: Slowed (EoT)
+- ✸ ≤11: [[Slowed]] (MGT ends)
+- ★ 12–16: [[Slowed]] (EoT)
 - ✦ 17+: No effect
   5 VP: Each ally of the maestro within distance has their speed increased by 2 until the end of their next turn.
 
@@ -40,7 +40,7 @@ Distance: Ranged 10
 Target: One creature
 Trigger: An ally deals damage to the target.
 
-Effect: The maestro makes a free strike against the target.
+Effect: The maestro makes a [[Free Strike|free strike]] against the target.
 
 **End Effect**
 
@@ -52,7 +52,7 @@ Keywords: Area
 Distance: 10 burst
 Target: Each ally
 
-Effect: Each target shifts up to their speed or takes the Defend action.
+Effect: Each target shifts up to their speed or takes the [[Defend]] action.
 
 **Solo Act (Villain Action 2)**
 
@@ -68,4 +68,4 @@ Keywords: Area
 Distance: 10 burst
 Target: Each dead ally
 
-Effect: Each target stands, makes a free strike, then collapses again. Allies of the targets can use Ready Rodent as a free triggered action once in conjunction with these free strikes.
+Effect: Each target stands, makes a [[Free Strike|free strike]], then collapses again. Allies of the targets can use Ready Rodent as a free triggered action once in conjunction with these [[Free Strike|free strikes]].

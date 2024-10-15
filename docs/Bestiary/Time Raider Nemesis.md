@@ -1,11 +1,11 @@
 #### TIME RAIDER NEMESIS
 
-| TIME RAIDER NEMESIS     |        **Level 3 Harrier** |
+| [[Time Raider|TIME RAIDER]] NEMESIS     |        **Level 3 Harrier** |
 | :---------------------- | -------------------------: |
-| *Humanoid, Time Raider* |                  **EV 19** |
+| *Humanoid, [[Time Raider]]* |                  **EV 19** |
 | **Stamina**: 50         |    **Immunity**: Psychic 5 |
 | **Speed**: 7            | **Size**: 1M / Stability 0 |
-|                         |         **Free Strike**: 5 |
+|                         |         **[[Free Strike]]**: 5 |
 
 | **Might**: +1 | **Agility**: +2 | **Reason**: +2 | **Intuition**: +1 | **Presence**: +0 |
 | ------------- | --------------- | -------------- | ----------------- | ---------------- |
@@ -20,14 +20,14 @@
 
 - ✦ ≤11: 5 damage
 - ★ 12–16: 8 damage; pull 1
-- ✸ 17+: 11 damage; pull 2; restrained (EoT)
+- ✸ 17+: 11 damage; pull 2; [[Restrained|restrained]] (EoT)
 
 **Effect**: This ability can affect creatures on parallel planes of existence and pull them onto the nemesis’s plane.
 
 **Kinetic Crush (Action)** ◆ MGT RR ◆ 2 VP
 
-- ✸ ≤11: 11 psychic damage; restrained (MGT ends)
-- ★ 12–16: 8 psychic damage; slowed (EoT)
+- ✸ ≤11: 11 psychic damage; [[Restrained|restrained]] (MGT ends)
+- ★ 12–16: 8 psychic damage; [[Slowed|slowed]] (EoT)
 - ✦ 17+: 5 psychic damage
 
 **Foresight**

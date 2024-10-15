@@ -4,7 +4,7 @@
 | :------------------------ | --------------------: |
 | *Animal*                  |             **EV 13** |
 | **Stamina**: 20           | **Speed**: 7 (flying) |
-| **Size**: 2 / Stability 0 |    **Free Strike**: 3 |
+| **Size**: 2 / Stability 0 |    **[[Free Strike]]**: 3 |
 
 | **Might** +1 | **Agility** +1 | **Reason** −3 | **Intuition** +0 | **Presence** −2 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -20,7 +20,7 @@ Target: One creature or object
 - ★ 12–16: 5 damage
 - ✸ 17+: 7 damage
 
-Effect: The target is grabbed by the giant hawk.
+Effect: The target is [[Grabbed|grabbed]] by the giant hawk.
 
 **Dive (Maneuver)**
 
@@ -28,4 +28,4 @@ The hawk moves up to their speed.
 
 **Mounted Platform**
 
-Any creature riding the hawk can make a free strike during or after the hawk’s movement.
+Any creature riding the hawk can make a [[Free Strike|free strike]] during or after the hawk’s movement.

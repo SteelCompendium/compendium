@@ -4,7 +4,7 @@
 | :------------------------- | ------------------: |
 | *Humanoid, War Dog*        |           **EV 12** |
 | **Stamina**: 25            |        **Speed**: 5 |
-| **Size**: 1M / Stability 0 |  **Free Strike**: 3 |
+| **Size**: 1M / Stability 0 |  **[[Free Strike]]**: 3 |
 
 | **Might**: +1 | **Agility**: +0 | **Reason**: +0 | **Intuition**: +0 | **Presence**: +0 |
 | ------------- | --------------- | -------------- | ----------------- | ---------------- |
@@ -21,7 +21,7 @@
 - ★ 12–16: 5 damage
 - ✸ 17+: 7 damage
 
-**Effect**: One ally of the subcommander within 5 squares of them can make a free strike against the target.
+**Effect**: One ally of the subcommander within 5 squares of them can make a [[Free Strike|free strike]] against the target.
 
 **Posthumous Promotion (Maneuver)**
 

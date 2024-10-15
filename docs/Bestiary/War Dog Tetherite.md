@@ -4,7 +4,7 @@
 | :------------------------- | -----------------------: |
 | *Humanoid, War Dog*        |                 **EV 6** |
 | **Stamina**: 8             |             **Speed**: 5 |
-| **Size**: 1M / Stability 0 |       **Free Strike**: 2 |
+| **Size**: 1M / Stability 0 |       **[[Free Strike]]**: 2 |
 
 | **Might**: +1 | **Agility**: +0 | **Reason**: +0 | **Intuition**: +0 | **Presence**: +0 |
 | ------------- | --------------- | -------------- | ----------------- | ---------------- |

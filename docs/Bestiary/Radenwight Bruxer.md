@@ -4,7 +4,7 @@
 | :------------------------- | -------------------: |
 | *Humanoid, Radenwight*     |            **EV 16** |
 | **Stamina**: 40            | **Speed**: 5 (climb) |
-| **Size**: 1M / Stability 2 |   **Free Strike**: 5 |
+| **Size**: 1M / Stability 2 |   **[[Free Strike]]**: 5 |
 
 | **Might** +1 | **Agility** +1 | **Reason** −1 | **Intuition** +0 | **Presence** +0 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -17,10 +17,10 @@ Distance: Reach 1
 Target: One creature or object
 
 - ✦ ≤11: 5 damage
-- ★ 12–16: 9 damage; grabbed
-- ✸ 17+: 12 damage; grabbed
+- ★ 12–16: 9 damage; [[Grabbed|grabbed]]
+- ✸ 17+: 12 damage; [[Grabbed|grabbed]]
 
-Effect: While the target is grabbed, they take 2 damage at the start of each of the bruxer’s turns.
+Effect: While the target is [[Grabbed|grabbed]], they take 2 damage at the start of each of the bruxer’s turns.
 
 **Flurry of Bites (Action)** ◆ 2d10 + 1 ◆ 3 VP
 
@@ -30,7 +30,7 @@ Target: Each enemy
 
 - ✦ ≤11: 4 damage
 - ★ 12–16: 8 damage
-- ✸ 17+: 10 damage; bleeding (EoT)
+- ✸ 17+: 10 damage; [[Bleeding|bleeding]] (EoT)
 
 **Ready Rodent (Triggered Action)**
 
@@ -39,4 +39,4 @@ Distance: Reach 1
 Target: One creature
 Trigger: An ally deals damage to the target.
 
-Effect: The bruxer makes a free strike against the target.
+Effect: The bruxer makes a [[Free Strike|free strike]] against the target.

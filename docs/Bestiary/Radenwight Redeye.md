@@ -4,7 +4,7 @@
 | :------------------------- | ---------------------------: |
 | *Humanoid, Radenwight*     |                     **EV 6** |
 | **Stamina**: 8             |         **Speed**: 5 (climb) |
-| **Size**: 1S / Stability 0 |           **Free Strike**: 2 |
+| **Size**: 1S / Stability 0 |           **[[Free Strike]]**: 2 |
 
 | **Might** +1 | **Agility** +1 | **Reason** −1 | **Intuition** +0 | **Presence** +0 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -29,4 +29,4 @@ Distance: Reach 1
 Target: One creature
 Trigger: An ally deals damage to the target.
 
-Effect: The redeye makes a free strike against the target.
+Effect: The redeye makes a [[Free Strike|free strike]] against the target.

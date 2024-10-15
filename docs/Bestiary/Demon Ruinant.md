@@ -5,7 +5,7 @@
 | *Demon, Planar* |                  **EV 10** |
 | **Stamina**: 20 |       **Weakness**: Holy 3 |
 | **Speed**: 6    | **Size**: 1M / Stability 0 |
-|                 |         **Free Strike**: 2 |
+|                 |         **[[Free Strike]]**: 2 |
 
 | **Might** +0 | **Agility** +1 | **Reason** +0 | **Intuition** +0 | **Presence** +1 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -18,8 +18,8 @@ Distance: Reach 1
 Target: Two creatures or objects
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 5 damage; bleeding (EoT)
-- ✸ 17+: 6 damage; bleeding (EoT)
+- ★ 12–16: 5 damage; [[Bleeding|bleeding]] (EoT)
+- ✸ 17+: 6 damage; [[Bleeding|bleeding]] (EoT)
 
 **Salt Wounds (Maneuver)** ◆ MGT RR ◆ 3 VP
 

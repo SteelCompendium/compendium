@@ -1,11 +1,11 @@
 #### HUMAN DEATH CULTIST
 
-| HUMAN DEATH CULTIST |              **Level 2 Support** |
+| [[Human|HUMAN]] DEATH CULTIST |              **Level 2 Support** |
 | :------------------ | -------------------------------: |
-| *Human, Humanoid*   |                        **EV 16** |
+| *[[Human]], Humanoid*   |                        **EV 16** |
 | **Stamina**: 40     | **Immunity**: Magic 2, Psionic 2 |
 | **Speed**: 5        |       **Size**: 1M / Stability 0 |
-|                     |               **Free Strike**: 4 |
+|                     |               **[[Free Strike]]**: 4 |
 
 | **Might** +0 | **Agility** +1 | **Reason** +0 | **Intuition** +0 | **Presence** +1 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -18,8 +18,8 @@ Distance: Reach 1 or Ranged 10
 Target: One creature or object
 
 - ✦ ≤11: 4 corruption damage
-- ★ 12–16: 7 corruption damage; weakened (EoT)
-- ✸ 17+: 10 corruption damage; weakened (INU ends)
+- ★ 12–16: 7 corruption damage; [[Weakened|weakened]] (EoT)
+- ✸ 17+: 10 corruption damage; [[Weakened|weakened]] (INU ends)
 - **2 VP:** The death cultist regains Stamina equal to half the damage dealt by this ability.
 
 **Rise, My Minions (Maneuver)** ◆ 1 VP per minion

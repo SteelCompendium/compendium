@@ -1,11 +1,11 @@
 #### TIME RAIDER MIND PUNK
 
-| TIME RAIDER MIND PUNK   |         **Level 3 Hexer** |
+| [[Time Raider|TIME RAIDER]] MIND PUNK   |         **Level 3 Hexer** |
 | :---------------------- | ------------------------: |
-| *Humanoid, Time Raider* |                 **EV 17** |
+| *Humanoid, [[Time Raider]]* |                 **EV 17** |
 | **Stamina**: 40         |   **Immunity**: Psychic 4 |
 | **Speed**: 5            | **Size**: 2 / Stability 2 |
-|                         |        **Free Strike**: 5 |
+|                         |        **[[Free Strike]]**: 5 |
 
 | **Might**: +2 | **Agility**: +0 | **Reason**: +2 | **Intuition**: +2 | **Presence**: +1 |
 | ------------- | --------------- | -------------- | ----------------- | ---------------- |
@@ -20,13 +20,13 @@
 
 - ✦ ≤11: 4 damage
 - ★ 12–16: 6 damage
-- ✸ 17+: 9 damage; dazed (EoT)
+- ✸ 17+: 9 damage; [[Dazed|dazed]] (EoT)
 
-**Effect**: A target who ends their next turn adjacent to the other target falls prone.
+**Effect**: A target who ends their next turn adjacent to the other target falls [[Prone|prone]].
 
 **Mindpunk (Action)** ◆ REA RR
 
-- ✸ ≤11: 7 psychic damage; push 2; prone and can’t stand (EoT)
+- ✸ ≤11: 7 psychic damage; push 2; [[Prone|prone]] and can’t stand (EoT)
 - ★ 12–16: 5 psychic damage; push 1
 - ✦ 17+: 2 psychic damage
 

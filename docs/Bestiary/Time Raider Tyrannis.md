@@ -1,11 +1,11 @@
 #### TIME RAIDER TYRANNIS
 
-| TIME RAIDER TYRANNIS          |          **Level 3 Boss** |
+| [[Time Raider|TIME RAIDER]] TYRANNIS          |          **Level 3 Boss** |
 | :---------------------------- | ------------------------: |
-| *Humanoid, Time Raider*       |                 **EV 54** |
+| *Humanoid, [[Time Raider]]*       |                 **EV 54** |
 | **Stamina**: 120              |   **Immunity**: Psychic 7 |
-| **Speed**: 10 (fly, teleport) | **Size**: 2 / Stability 0 |
-|                               |        **Free Strike**: 5 |
+| **Speed**: 10 ([[Fly|fly]], [[Teleport|teleport]]) | **Size**: 2 / Stability 0 |
+|                               |        **[[Free Strike]]**: 5 |
 
 | **Might**: +0 | **Agility**: +3 | **Reason**: +3 | **Intuition**: +1 | **Presence**: +0 |
 | ------------- | --------------- | -------------- | ----------------- | ---------------- |
@@ -26,13 +26,13 @@
 
 **Air Raid! (Maneuver)** ◆ 3 VP
 
-**Effect**: Each target is psionically lifted into the air and can fly up to their speed. If a target doesn’t land in an unoccupied space, they fall.
+**Effect**: Each target is psionically lifted into the air and can [[Fly|fly]] up to their speed. If a target doesn’t land in an unoccupied space, they fall.
 
 **Precog Reflexes (Triggered Action)**
 
 **Trigger**: The target attacks the tyrannis.
 
-**Effect**: The power roll for the attack takes a bane and the tyrannis makes a free strike against the target.
+**Effect**: The power roll for the attack takes a bane and the tyrannis makes a [[Free Strike|free strike]] against the target.
 
 **End Effect**
 

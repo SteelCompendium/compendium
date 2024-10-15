@@ -4,7 +4,7 @@
 | :------------------------- | -------------------: |
 | *Humanoid, Radenwight*     |            **EV 13** |
 | **Stamina**: 30            | **Speed**: 7 (climb) |
-| **Size**: 1S / Stability 0 |   **Free Strike**: 5 |
+| **Size**: 1S / Stability 0 |   **[[Free Strike]]**: 5 |
 
 | **Might** −1 | **Agility** +1 | **Reason** +0 | **Intuition** +0 | **Presence** +1 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -37,7 +37,7 @@ Distance: Reach 1
 Target: One creature
 Trigger: An ally deals damage to the target.
 
-Effect: The ratcrobat makes a free strike against the target.
+Effect: The ratcrobat makes a [[Free Strike|free strike]] against the target.
 
 **Gymratstics**
 

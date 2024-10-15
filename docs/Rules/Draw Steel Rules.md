@@ -196,9 +196,9 @@ When you make a power roll, you roll two ten-sided dice (sometimes noted as 2d10
 
 The result of a power roll determines your outcome tier—three levels that determine how successful your power roll is.
 
-**Tier 1**: If your power roll result is 11 or lower, it is a tier 1 result. This is the worst result a power roll can have. If you’re using an ability, a tier 1 result means you still do something, but the impact of what you do is minimal. With this result, an attack ability might deal a little bit of damage and not do much else. For a test, a tier 1 result means you fail at what you set out to do, and you might also suffer a negative consequence. 
+**Tier 1**: If your power roll result is 11 or lower, it is a tier 1 result. This is the worst result a power roll can have. If you’re using an ability, a tier 1 result means you still do something, but the impact of what you do is minimal. With this result, an attack ability might deal a little bit of damage and not do much else. For a test, a tier 1 result means you fail at what you set out to do, and you might also suffer a negative consequence.
 
-**Tier 2**: If your power roll result is 12 to 16, it is a tier 2 result. This is the average result of many power rolls, especially for heroes who are 1st level. When using an ability, a tier 2 result means that what you do has a moderate impact. With this result, an attack ability deals a decent amount of damage and has an effect that briefly helps allies or hinders enemies. For a test, a tier 2 result means you might succeed at what you set out to do— though depending on the difficulty, success might have a cost. 
+**Tier 2**: If your power roll result is 12 to 16, it is a tier 2 result. This is the average result of many power rolls, especially for heroes who are 1st level. When using an ability, a tier 2 result means that what you do has a moderate impact. With this result, an attack ability deals a decent amount of damage and has an effect that briefly helps allies or hinders enemies. For a test, a tier 2 result means you might succeed at what you set out to do— though depending on the difficulty, success might have a cost.
 
 **Tier 3**: If your power roll result is 17 or higher, it is a tier 3 result. This is the best result a power roll can have. When using an ability, a tier 3 result means you deliver the maximum impact possible. With this result, an attack ability deals a lot of damage and has a powerful or lasting effect on enemies or allies. For a test, a tier 3 result means you succeed at what you set out to do. If the test has an easy difficulty, you also get a little something extra in addition to your success
 
@@ -245,7 +245,7 @@ The rules tell you when to modify a roll with an edge or a bane. The Director ca
 ##### WHY CAP?
 
 > We capped edges and banes at a maximum of two each for several reasons, including thinking about the narrative of those penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a creature can only benefit or be hindered by short-term circumstances so much. For example, a character who is prone and weakened by poison already finds it difficult to attack—so that becoming restrained by a net can’t really make it harder.
-> 
+>
 > We also liked capping edges and banes at two because it keeps play quick. It’s nice to not need to count beyond two positive or negative circumstances in a battle with a lot of effects flying around.
 
 #### BONUSES AND PENALTIES
@@ -265,7 +265,7 @@ Players can also be awarded hero tokens as part of a test’s outcome when they 
 #### FOR THE DIRECTOR: AWARDING HERO TOKENS
 
 > You can award hero tokens to the players for taking risks with their heroes beyond what the game typically expects of them. For instance, battling a group of monsters is part of the game and doesn’t earn a hero token. However, the following sorts of activities might:
-> 
+>
 > - A hero stands alone against a group of enemies to allow their comrades to escape.
 > - A hero willingly jumps into quicksand, into lava, off a cliff, or into some other hazard to save another character.
 > - The group is presented with an easy way out of a difficult situation that involves lying, cheating, stealing, or the like, but they take the more arduous and honorable path.
@@ -320,17 +320,17 @@ Whenever you finish a respite (see Respite), your Victories are converted into E
 #### FOR THE DIRECTOR: AWARDING VICTORIES
 
 > We’re still figuring out rules for encounter building, but here are some general guidelines.
-> 
+>
 > A successful combat in which the party’s objectives are achieved earns the heroes 1 Victory. Particularly hard encounters are worth 2 Victories when completed. We’ll have better guidelines on this topic in the future, but for now, consider tough boss battles worth 2 Victories.
-> 
+>
 > A successful negotiation or montage test should earn the heroes 1 Victory. Other noncombat challenges are left to the Director’s discretion, but consider the following guidelines to help you determine when awarding 1 Victory is warranted:
-> 
+>
 > - If the heroes overcome a complicated trap that requires more than one test to find and disarm, award them 1 Victory.
 > - If the heroes investigate a series of clues in a mystery, award 1 Victory when they solve the mystery.
 > - If the heroes solve a complicated puzzle that requires them to use resources or would take most people at least 10 minutes to complete, award them a Victory.
 > - If the heroes achieve a major story goal that accomplishes a quest (such as saving a prince trapped by an evil baroness or stopping a necromancer from performing a world-ending ritual), award them 1 Victory.
 > - If the heroes use clever thinking to easily and surprisingly overcome or bypass a combat encounter, a negotiation, a montage test, a trap, a puzzle, or some other challenge that would award them 1 or more Victories in a more difficult fashion, award them 1 Victory. Clever thinking is just as worthy of a Victory—if not more so!
-> 
+>
 > At the Director’s discretion, particularly hard negotiations, puzzles, mysteries, and other noncombat challenges can be worth 2 Victories.
 
 #### EXPERIENCE
@@ -460,9 +460,9 @@ At the center of the Abyssal Waste lies the Necropolitan Ruin, the Last City. A 
 #### THE TIMESCAPE IN YOUR GAME
 
 > We use the timescape and its medieval fantasy land Orden as the default setting presented in these books. Doing so makes it easier for us as designers to marry our design with real examples from a real (imaginary) fantasy world. We also think it’s easier for you to take the names for places, languages, and gods, and replace them with your own. We might reference some hero or villain, saint or god, whose name makes you think, “Well, I don’t have that in my setting.” If we do a good job, though, you might be inspired to say, “But that makes me think …” And being inspired is part of the fun!
-> 
+>
 > If you’re the Director, you can use as many or as few of the details of the timescape as you like. You might wish to create your own world within the timescape, or use a setting you’ve created that exists outside of the official MCDM manifolds. You can use details from settings published by other companies. There are no rules when it comes to world-building. Feel free to take what you like from this book and change the rest. For example, you might not care for our dwarves having literal stone skin. That’s fine. You can make them fleshy, stout, bearded folk, or mohawked, barrel-chested punk rockers, or anything else you wish. As long as you’re running a heroic fantasy campaign about fighting monsters, then the game’s rules are still likely to serve your narrative even if that narrative deviates from ours.
-> 
+>
 > If you’re a player, ask your Director about the setting where the game takes place and discuss with them the sort of hero you want to create. Maybe you want to play a more traditional gruff and bearded dwarf rather than go all short and stony. An open dialogue and honest discussion with your Director can lead to everyone getting what they want out of the game.
 
 ## MAKING A HERO
@@ -589,7 +589,7 @@ Answer these questions with the other players present, and be sure to get a play
 #### CHOOSING SKILLS
 
 > This game has lots of skills, and lots of opportunities during character creation to gain them. We recommend recording a list of all the skills you might gain from the different steps of the character creation process, then making your choices at the end of that process rather than flipping back and forth through the book.
-> 
+>
 > If you gain the same specific skill from two different sources (for instance, from a career and a class), you can pick a different skill from the same skill group. See *Skills* for more information.
 
 ### CHANGING CHARACTER OPTIONS
@@ -1058,7 +1058,7 @@ You can carve a magic rune onto your skin. The rune you carve determines the ben
 - **Light:** Your skin sheds light for 10 squares. You can turn this on and off as a maneuver.
 - **Voice:** As a maneuver, you can communicate telepathically with another willing creature you have met before whose name you name, who can speak and understand a language you know, and is within 1 mile of you. You and the creature can respond to one another as if having a normal conversation. You can change the person you communicate with by changing the rune.
 
-##### SPARK OFF YOUR SKIN 
+##### SPARK OFF YOUR SKIN
 
 Your stone skin affords you potent protection. Your Stamina increases by 6 at 1st level, then increases by an additional 1 each time you gain a new level
 
@@ -4815,7 +4815,7 @@ Each martial kit has a weapon category that indicates the types of weapons you w
 
 If a kit uses no weapons, then you don’t wield any weapons effectively, not even your own fists and feet.
 
-##### BOW 
+##### BOW
 
 Bows cover any weapon used to fire an arrow or bolt projectile. This includes crossbows, longbows, and shortbows. You don’t need to track mundane ammunition for these weapons, unless the Director says otherwise.
 
@@ -4852,7 +4852,7 @@ Whip weapons include the standard whip, but also include spiked chains, flails, 
 ##### IMPROVISED WEAPONS
 
 > Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren’t part of your kit count as improvised weapons for you. If you’re not using a kit with unarmed strikes, then your feet and fists are improvised weapons.
-> 
+>
 > Improvised weapons can be used to make attacks with the Weapon keyword that you gain from your class, though not from your kit. They add no special bonuses from your kit to the attack. Many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged free strikes with improvised weapons.
 
 #### KIT IMPLEMENT MATERIALS
@@ -4877,7 +4877,7 @@ While wielding a glass implement, your magic abilities are drawn into your body,
 
 ##### METAL
 
-When supernatural force flows through metal, that force’s ability to harm is enhanced. Metal implements increase the damage you deal with 
+When supernatural force flows through metal, that force’s ability to harm is enhanced. Metal implements increase the damage you deal with
 magic abilities.
 
 ##### STONE
@@ -4965,7 +4965,7 @@ Each caster kit grants you a ward that is active as long as you are alive and no
 #### OPTIONAL RULE: LOSING EQUIPMENT
 
 > The rules of the game expect that heroes always have access to their equipment. However, there may be times where your group wants to tell a story of heroes who are captured and stripped of their equipment or who find themselves at a masquerade where weapons need to be checked at the door. For those sorts of scenarios, you can use the following rules:
-> 
+>
 > - If your kit has armor and you aren’t wearing or wielding it, then you lose your kit’s bonuses to Stamina and stability. If you lose your shield but keep the rest of your armor, your Stamina decreases by 3. As long as you are carrying your shield, you don’t lose its bonus to Stamina, even if you aren’t actively wielding it.
 > - If your kit has a medium or heavy weapon that you aren’t wielding, you lose the kit’s melee damage bonus.
 > - If your kit has a light weapon that you aren’t wielding, you lose the kit’s melee damage, ranged damage, and distance bonus.
@@ -6057,9 +6057,9 @@ You make a Presence test whenever you attempt a risky task that requires the use
 #### INFLUENCING PLAYER CHARACTER ACTIONS WITH TESTS
 
 > Tests can’t be used by NPCs or PCs to influence the actions of PCs. Many players feel that their agency is taken away if they’re compelled to jump into a pile of gold filled with hidden scorpions because an NPC convinced them to do so with a Presence test. For most players, it’s not fun to be in control of a single hero and lose some of that control.
-> 
+>
 > Instead, Directors should do their level best to have an NPC suggest that a character dive headlong into the gold like a billionaire duck, then let the player decide what their character does. Similarly, a Director might decide that one player character can’t make an Intuition test to discern another PC’s motivations or honesty.
-> 
+>
 > That said, if everyone in your gaming group decides to lift one or more of these restrictions after talking about it, go for it! There’s no wrong way to play as long as everyone is having fun. The MCDM Safety Toolkit (available for download at [https://mcdm.gg/SafetyToolkit](https://mcdm.gg/SafetyToolkit)) discusses how to talk about potentially problematic topics such as limiting character agency at your table.
 
 #### TEST DIFFICULTY
@@ -6379,7 +6379,7 @@ Failure consequences for tests made with lore skills typically include learning 
 ##### ARE ALL SKILLS EQUAL?
 
 > This game has a big list of skills, and it’s impossible for us or anyone else to know in advance which will be most useful during a campaign. For instance, the Swim skill might be used constantly during a campaign that takes place on the ocean and has heroes exploring underwater ruins, but it won’t come up as much in a campaign that takes place entirely in a vast desert. The Psionics skill might come up a lot in a campaign where voiceless talkers are the main foes, and Magic might be more useful in a game where the heroes take on a circle of evil wizards.
-> 
+>
 > If you’re worried about whether a skill you’d like to take will be useful, discuss your skill list with the Director after you create a hero. At the Director’s discretion, you can swap out any skill you have with any other skill in the same group.
 
 ### ASSIST A TEST
@@ -7076,7 +7076,7 @@ While you are slowed, your speed is 2 unless it is already lower.
 
 If you are taunted, you have a double bane on attacks that don’t include the creature who taunted you. If you gain the taunted condition from one creature while already taunted by a different creature, the new condition replaces the old one.
 
-##### WEAKENED
+#### WEAKENED
 
 While you are weakened, all your ability power rolls and tests (but not resistance rolls) take a bane.
 
@@ -7160,7 +7160,7 @@ If the players do end up arguing in circles about what to do next, the Director 
 ##### ALTERNATIVE INITIATIVE
 
 > If planning everyone’s turn order isn’t fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an Agility test, then record the results. When it’s time for someone on the heroes’ side to act, the hero with the highest result goes first. On the next hero turn, the hero with the second-highest result takes their turn, and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied Agility tests to determine who among the tied creatures acts before the others.
-> 
+>
 > At the Director’s discretion, a hero can swap their turn in the initiative order with another willing hero at the start of a new round of combat. This allows certain abilities that interact with the core initiative system, such as the shadow’s **Hesitation is Weakness** ability, to better work with this alternative system.
 
 ##### ENEMIES ACT IN GROUPS
@@ -7334,11 +7334,11 @@ You can force move another creature into yourself with a pull or a slide.
 ##### TRACKING OBJECT FORCED-MOVEMENT DAMAGE
 
 > At the Director’s discretion, mundane objects that are force moved into creatures or other objects take damage as if they were creatures. Sturdy objects can take damage as follows:
-> 
+>
 > - For each square a wood object occupies, it can take 3 damage before it is destroyed.
 > - For each square a stone object occupies, it can take 6 damage before it is destroyed.
 > - For each square a metal object occupies, it can take 9 damage before it is destroyed.
-> 
+>
 > More fragile objects are destroyed after taking any damage.
 
 ##### SLAMMING INTO OBJECTS
@@ -7656,7 +7656,7 @@ When the Director ends combat this way, the players typically choose how the bat
 ##### FLEEING FOES
 
 > If you’ve played an RPG like this one before, odds are you’ve had an encounter where you didn’t chase down every last fleeing foe—and then one such foe grabbed another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, “No survivors. No mercy!” whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.
-> 
+>
 > Luckily, this is a heroic game. Although the Director can surprise the players with dramatic reveals and twisty-turny stories, “Gotcha!” moments that make players suspicious of every fleeing bandit shouldn’t be part of those stories. If a bandit is fleeing an encounter, they’re running away to rethink their life. If they’re going for help, the players should get some sense of that—for example, the bandit screaming at the top of their lungs as they run toward their leader’s tent. That way, the players can process what’s happening, and will understand that stopping that fleeing bandit is part of the challenge of the encounter.
 
 #### OBJECTIVE ENDINGS
@@ -7700,9 +7700,9 @@ Objectives in this category often have a timer associated with them. If the hero
 ##### MAKING OBJECTIVES KNOWN
 
 > Encounters work best if the players have a good idea of what they are working toward. The Director doesn’t need to state objectives outright to the players at the start of the battle, though they can if they like. Not all groups want to start combat with the Director saying, “Your objectives are to break the eldritch machine and destroy the vampire lord,” because doing so might take the players out of the game’s narrative.
-> 
+>
 > In many combat encounters, the objectives are obvious. For instance, in a battle against a necromancer controlling a horde of undead minions, the players probably don’t need to be told that defeating the necromancer ends the encounter when that’s an easy assumption. In an encounter against cultists performing a world-ending ritual, the heroes can guess that stopping the ritual is one of their objectives. In fact, they probably went on this adventure to specifically achieve that objective. They’re not there for karaoke at the end of existence!
-> 
+>
 > Not all objectives are so clear, however. In a battle against a goblin cursespitter, a kobold legionary, and three human knaves guarding the entrance to a bandit fortress, it can be difficult to know what the exact objective of the encounter is, beyond “Defeat them all!” The objective could be to simply diminish the enemy forces, but it could also be the case that the cursespitter leads the group, so that defeating the goblin causes the other forces to fall apart. In such a case, it helps if the Director provides at least a hint of that setup at the start of the battle. The cursespitter could clearly issue orders and even call the other bandits cowards, demanding that they not “run away like last time!”
 
 ##### COMPLETE THE ACTION
@@ -8115,9 +8115,9 @@ It is impossible to continue a negotiation when an NPC’s interest drops to 0.
 #### FOR THE DIRECTOR: CREATING RESPONSES AND OFFERS
 
 > When you’re preparing a negotiation, think of at least two specific asks that the NPC could make of the heroes. Then you’re prepared if the heroes ask what they can do for the NPC and you want to give a response, or if the NPC’s interest becomes 3.
-> 
+>
 > These asks could be specific items the heroes have or can obtain (such as a magic sword or psionic crystal), or they might be favors in the form of adventuring (such as slaying a dragon or rescuing a village from a siege).
-> 
+>
 > You should also have at least two specific ways the NPC can help the heroes beyond what they’re asking for. These can be used if the NPC’s interest becomes 2, to give the heroes something that can help them that isn’t what they asked for. They can also be used if the NPC’s interest rises to 5, to give the heroes something extra in addition to what they asked for. This help could take the form of treasures or the assistance of a companion or retainer. It might be hidden information that the heroes don’t yet know, and which can help them with their overall goal. Or perhaps it’s a less impactful version of what the heroes initially asked for. If the heroes ask an ancient dragon for help storming a castle, the dragon might offer the services of their younger, less powerful offspring instead of their own assistance … or in addition to it!
 
 ### KEEP GOING OR STOP

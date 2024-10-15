@@ -1,11 +1,11 @@
 #### HUMAN TRICKSHOT
 
-| HUMAN TRICKSHOT   |            **Level 1 Artillery** |
+| [[Human|HUMAN]] TRICKSHOT   |            **Level 1 Artillery** |
 | :---------------- | -------------------------------: |
-| *Human, Humanoid* |                        **EV 12** |
+| *[[Human]], Humanoid* |                        **EV 12** |
 | **Stamina**: 20   | **Immunity**: Magic 2, Psionic 2 |
 | **Speed**: 5      |       **Size**: 1M / Stability 0 |
-|                   |               **Free Strike**: 4 |
+|                   |               **[[Free Strike]]**: 4 |
 
 | **Might** +0 | **Agility** +1 | **Reason** +0 | **Intuition** +0 | **Presence** +0 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |

@@ -1,11 +1,11 @@
 #### TIME RAIDER ARCHON
 
-| TIME RAIDER ARCHON      | **Level 3 Harrier Minion** |
+| [[Time Raider|TIME RAIDER]] ARCHON      | **Level 3 Harrier Minion** |
 | :---------------------- | -------------------------: |
-| *Humanoid, Time Raider* |                   **EV 8** |
+| *Humanoid, [[Time Raider]]* |                   **EV 8** |
 | **Stamina**: 15         |    **Immunity**: Psychic 3 |
 | **Speed**: 7            | **Size**: 1M / Stability 0 |
-|                         |         **Free Strike**: 2 |
+|                         |         **[[Free Strike]]**: 2 |
 
 | **Might**: +2 | **Agility**: +2 | **Reason**: +2 | **Intuition**: +1 | **Presence**: −1 |
 | ------------- | --------------- | -------------- | ----------------- | ---------------- |
@@ -20,7 +20,7 @@
 
 - ✦ ≤11: 2 damage
 - ★ 12–16: 4 damage
-- ✸ 17+: 5 damage; dazed (EoT)
+- ✸ 17+: 5 damage; [[Dazed|dazed]] (EoT)
 
 **Foresight**
 

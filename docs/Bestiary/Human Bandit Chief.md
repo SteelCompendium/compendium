@@ -1,11 +1,11 @@
 #### HUMAN BANDIT CHIEF
 
-| HUMAN BANDIT CHIEF |                 **Level 3 Boss** |
+| [[Human|HUMAN]] BANDIT CHIEF |                 **Level 3 Boss** |
 | :----------------- | -------------------------------: |
-| *Human, Humanoid*  |                        **EV 54** |
+| *[[Human]], Humanoid*  |                        **EV 54** |
 | **Stamina**: 120   | **Immunity**: Magic 2, Psionic 2 |
 | **Speed**: 5       |       **Size**: 1M / Stability 2 |
-|                    |               **Free Strike**: 5 |
+|                    |               **[[Free Strike]]**: 5 |
 
 | **Might** +2 | **Agility** +2 | **Reason** +2 | **Intuition** +2 | **Presence** +2 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -32,8 +32,8 @@ Distance: Reach 1
 Target: One enemy or object
 
 - ✦ ≤11: Push 1
-- ★ 12–16: Push 2; prone
-- ✸ 17+: Push 3; prone
+- ★ 12–16: Push 2; [[Prone|prone]]
+- ✸ 17+: Push 3; [[Prone|prone]]
 - **2 VP:** This ability targets each enemy adjacent to the bandit chief.
 
 **Bloodstones (Triggered Action)**
@@ -55,7 +55,7 @@ Keywords: Area
 Distance: 10 burst
 Target: Each ally
 
-Effect: Each target can make a ranged free strike.
+Effect: Each target can make a ranged [[Free Strike|free strike]].
 
 **Form Up! (Villain Action 2)**
 
@@ -71,4 +71,4 @@ Keywords: Attack, Weapon
 Distance: Self
 Target: Self
 
-Effect: The bandit chief shifts twice their speed. During or after this movement, they can attack up to four targets with Whip & Magic Longsword. Any ally of the bandit chief adjacent to a target can make a free strike against that target.
+Effect: The bandit chief shifts twice their speed. During or after this movement, they can attack up to four targets with Whip & Magic Longsword. Any ally of the bandit chief adjacent to a target can make a [[Free Strike|free strike]] against that target.

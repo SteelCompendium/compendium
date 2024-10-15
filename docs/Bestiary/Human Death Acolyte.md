@@ -1,11 +1,11 @@
 #### HUMAN DEATH ACOLYTE
 
-| HUMAN DEATH ACOLYTE |         **Level 1 Hexer Minion** |
+| [[Human|HUMAN]] DEATH ACOLYTE |         **Level 1 Hexer Minion** |
 | :------------------ | -------------------------------: |
-| *Human, Humanoid*   |                         **EV 5** |
+| *[[Human]], Humanoid*   |                         **EV 5** |
 | **Stamina**: 8      | **Immunity**: Magic 2, Psionic 2 |
 | **Speed**: 5        |       **Size**: 1M / Stability 0 |
-|                     |               **Free Strike**: 2 |
+|                     |               **[[Free Strike]]**: 2 |
 
 | **Might** +0 | **Agility** +1 | **Reason** +0 | **Intuition** +0 | **Presence** +1 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
