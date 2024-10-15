@@ -17,11 +17,11 @@ What You Need to Play
 
 This adventure comes with a full set of pregenerated heroes:
 
-- **Conduit:** A priest who [[Heal|heals]] allies and smites enemies with divine power.
-- **Elementalist:** A mage who harnesses the elements of creation to devastate foes.
-- **Fury:** A warrior who can hit hard and soak up damage thanks to their growing rage in battle.
-- **Shadow:** A sneaky assassin who [[Teleport|teleports]] around the battlefield.
-- **Tactician:** A strategist and protector who inspires allies to be more effective.
+- **[[Conduit]]:** A priest who [[Heal|heals]] allies and smites enemies with divine power.
+- **[[Elementalist]]:** A mage who harnesses the elements of creation to devastate foes.
+- **[[Fury]]:** A warrior who can hit hard and soak up damage thanks to their growing rage in battle.
+- **[[Shadow]]:** A sneaky assassin who [[Teleport|teleports]] around the battlefield.
+- **[[Tactician]]:** A strategist and protector who inspires allies to be more effective.
 
 ## Adventure Formatting
 

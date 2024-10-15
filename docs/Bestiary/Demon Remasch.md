@@ -23,7 +23,7 @@ Target: One creature or object
 
 **5 VP:** The remasch takes an adjacent creature with them when they [[Teleport|teleport]]. The creature appears in an unoccupied space adjacent to the remasch’s destination.
 
-**Grasping Shadow (Maneuver)** ◆ 5 VP
+**Grasping [[Shadow]] (Maneuver)** ◆ 5 VP
 
 Keywords: Magic, Ranged
 Distance: Ranged 10

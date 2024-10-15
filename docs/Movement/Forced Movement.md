@@ -14,7 +14,7 @@ Some actions and maneuvers allow you to push, pull, or slide another creature a 
 - **Pull X:** You move the target up to X squares toward you in a straight line, without moving them vertically. Each square you move the creature must bring them closer to you.
 - **Slide X:** You move the target up to X squares in any direction, except for vertically.
 
-When you force move a target, you can always move that target fewer squares than the number indicated. For example, when the conduit gets a tier 3 “push 5” result with their [[Thunder Of The Divine|Thunder of the Divine]] ability, they can push targets any distance up to 5 squares, including choosing to not move certain targets at all.
+When you force move a target, you can always move that target fewer squares than the number indicated. For example, when the [[Conduit|conduit]] gets a tier 3 “push 5” result with their [[Thunder Of The Divine|Thunder of the Divine]] ability, they can push targets any distance up to 5 squares, including choosing to not move certain targets at all.
 
 Forced movement ignores [[Difficult Terrain|difficult terrain]] and never provokes opportunity attacks. When you force move a target into damaging terrain or into terrain that produces an effect, they are affected as if they had moved into it willingly.
 

@@ -74,7 +74,7 @@ Count Revile did not like being reminded of that. He looked to the sky and shook
 
 “Don't be so hard on yourself. If you're trying to seduce our void mage, you made a good start of it. She's three thousand years old, I've known her since I was fifteen. I don't think I've ever seen her blush. Anyway, now that I know what's going on, now that I know you're basically a giant teenager with overactive glands, I can relax a little.”
 
-Sir John and Count Revile, both tacticians, stood together on the bloody battlefield, looking at each other.
+Sir John and Count Revile, both [[Tactician|tacticians]], stood together on the bloody battlefield, looking at each other.
 
 “John, I fear this may get worse before it gets better.”
 

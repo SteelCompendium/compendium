@@ -19,7 +19,7 @@ target: 1 creature or object
 
 # Fire Lance
 
-A jet of fire erupts with elemental fury where it strikes.
+A jet of fire erupts with elemental [[Fury|fury]] where it strikes.
 
 |                                           |                                  |
 | :---------------------------------------- | :------------------------------- |
