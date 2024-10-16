@@ -4,7 +4,7 @@
 | :----------------- | ---------------------------: |
 | *Demon, Planar*    |                     **EV 2** |
 | **Stamina**: 4     |         **Weakness**: Holy 3 |
-| **Speed**: 5 ([[Fly|fly]]) |   **Size**: 1T / Stability 0 |
+| **Speed**: 5 ([[Fly\|fly]]) |   **Size**: 1T / Stability 0 |
 |                    |           **[[Free Strike]]**: 2 |
 
 | **Might** −2 | **Agility** +1 | **Reason** −2 | **Intuition** −2 | **Presence** −2 |

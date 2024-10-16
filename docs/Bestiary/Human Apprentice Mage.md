@@ -1,6 +1,6 @@
 #### HUMAN APPRENTICE MAGE
 
-| [[Human|HUMAN]] APPRENTICE MAGE |    **Level 2 Controller Minion** |
+| [[Human\|HUMAN]] APPRENTICE MAGE |    **Level 2 Controller Minion** |
 | :-------------------- | -------------------------------: |
 | *[[Human]], Humanoid*     |                         **EV 6** |
 | **Stamina**: 10       | **Immunity**: Magic 2, Psionic 2 |
@@ -21,4 +21,4 @@ Target: One creature or object per minion
 - ★ 12–16: 4 lightning damage
 - ✸ 17+: 5 lightning damage
 
-Effect: If the apprentice mage doesn’t use a maneuver or a move action this turn, the target is [[Slowed|slowed]] (EoT).
+Effect: If the apprentice mage doesn’t use a maneuver or a move action this turn, the target is [[Slowed\|slowed]] (EoT).

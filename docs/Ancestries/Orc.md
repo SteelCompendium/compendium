@@ -10,9 +10,9 @@ type: ancestries
 
 “Even should an arrow pierce their heart, each kanin warrior has within them one last act of revenge.”
 
-An anger that cannot be hidden. A [[Fury|fury]] that drives them in battle. Orcs are famed throughout the world as consummate warriors—a reputation that the peace-loving orcs find distasteful.
+An anger that cannot be hidden. A [[Fury\|fury]] that drives them in battle. Orcs are famed throughout the world as consummate warriors—a reputation that the peace-loving orcs find distasteful.
 
-The fifth of the speaking peoples, orcs arrived on Orden after [[Human|humans]] and elves. They made their homes in the borderlands between those two cultures, preferring the natural forests and avoiding the elf-haunted wodes. For generations, this put them directly in the path of [[Human|humans]] who cut down the trees and built roads and farms.
+The fifth of the speaking peoples, orcs arrived on Orden after [[Human\|humans]] and elves. They made their homes in the borderlands between those two cultures, preferring the natural forests and avoiding the elf-haunted wodes. For generations, this put them directly in the path of [[Human\|humans]] who cut down the trees and built roads and farms.
 
 Each orc has within them a fire that causes their veins to glow once blood is drawn. This anger propels them right to the edge of death. The dichotomy between their desire to be left alone and their zeal in battle is summarized in a dwarven proverb:
 
@@ -98,4 +98,4 @@ When you take damage, your speed increases by 2 until the end of your next turn.
 
 ### Relentless
 
-When a creature deals damage to you that leaves you dying, you can make a [[Free Strike|free strike]] against any creature. If the creature is reduced to 0 Stamina by your attack, you can spend a Recovery.
+When a creature deals damage to you that leaves you dying, you can make a [[Free Strike\|free strike]] against any creature. If the creature is reduced to 0 Stamina by your attack, you can spend a Recovery.

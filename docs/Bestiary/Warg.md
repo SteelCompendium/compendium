@@ -30,7 +30,7 @@ Effect: The warg moves up to their speed.
 
 **Mounted Charger**
 
-If a warg used as a mount [[Charge|charges]], their rider gains an edge on melee attacks until the end of their turn.
+If a warg used as a mount [[Charge\|charges]], their rider gains an edge on melee attacks until the end of their turn.
 
 **Shared Crafty**
 

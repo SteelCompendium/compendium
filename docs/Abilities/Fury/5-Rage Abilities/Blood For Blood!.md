@@ -28,8 +28,8 @@ A mighty strike leaves your foe reeling.
 
 **Power Roll + Might:**
 
-- 11 or lower: 7 damage; [[Weakened|weakened]] and [[Bleeding|bleeding]] (EoT)
-- 12–16: 11 damage; [[Weakened|weakened]] and [[Bleeding|bleeding]] (EoT)
-- 17+: 17 damage; [[Weakened|weakened]] and [[Bleeding|bleeding]] (EoE)
+- 11 or lower: 7 damage; [[Weakened\|weakened]] and [[Bleeding\|bleeding]] (EoT)
+- 12–16: 11 damage; [[Weakened\|weakened]] and [[Bleeding\|bleeding]] (EoT)
+- 17+: 17 damage; [[Weakened\|weakened]] and [[Bleeding\|bleeding]] (EoE)
 
 **Effect:** You can choose to deal 1d6 damage to yourself to deal an extra 2d6 damage to the target.

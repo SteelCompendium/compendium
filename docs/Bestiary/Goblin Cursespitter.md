@@ -16,8 +16,8 @@ Keywords: Magic, Ranged, Resistance
 Distance: Ranged 10
 Target: One creature
 
-- ✸ ≤11: 6 corruption damage; [[Weakened|weakened]] (INU ends)
-- ★ 12–16: 5 corruption damage; [[Weakened|weakened]] (EoT)
+- ✸ ≤11: 6 corruption damage; [[Weakened\|weakened]] (INU ends)
+- ★ 12–16: 5 corruption damage; [[Weakened\|weakened]] (EoT)
 - ✦ 17+: 2 corruption damage
 
 **Dizzying Hex (Maneuver)** ◆ INU RR ◆ 1 VP

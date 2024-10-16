@@ -17,7 +17,7 @@ target: 1 creature or object
 
 # Rook
 
-The Rook kit allows you to use strong armor so you can be better protected while you [[Heal|heal]] and enhance your allies on the frontline. Heroes with this kit often dive into support magic. While using this kit, your armor resonates with the sounds of choirs from on high as you polish it.
+The Rook kit allows you to use strong armor so you can be better protected while you [[Heal\|heal]] and enhance your allies on the frontline. Heroes with this kit often dive into support magic. While using this kit, your armor resonates with the sounds of choirs from on high as you polish it.
 
 ## Equipment
 

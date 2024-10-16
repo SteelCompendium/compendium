@@ -16,9 +16,9 @@ target: Self
 
 “Wait, where'd he go? Where'd that little son of a bitch go? AAAAGGH!”
 
-After [[Human|humans]], polders are the most numerous and diverse ancestry in Orden. They are not [[Human|humans]], but they live in and among [[Human|humans]], sharing their gods and culture. Almost every [[Human|human]] culture in Orden has a polder saint or a [[Human|human]] saint venerated by polder.
+After [[Human\|humans]], polders are the most numerous and diverse ancestry in Orden. They are not [[Human\|humans]], but they live in and among [[Human\|humans]], sharing their gods and culture. Almost every [[Human\|human]] culture in Orden has a polder saint or a [[Human\|human]] saint venerated by polder.
 
-Short creatures averaging three-and-a-half feet tall, polders have obscure origins. They are a young species who, like [[Human|humans]], have no single patron god. Their natural ability to blend in with [[Shadow|shadows]] makes them excellent spies and thieves. However, many polders consider this stereotype a base slander, pointing out that they're also famed as chefs—though polders can be found in virtually every profession, especially in cities.
+Short creatures averaging three-and-a-half feet tall, polders have obscure origins. They are a young species who, like [[Human\|humans]], have no single patron god. Their natural ability to blend in with [[Shadow\|shadows]] makes them excellent spies and thieves. However, many polders consider this stereotype a base slander, pointing out that they're also famed as chefs—though polders can be found in virtually every profession, especially in cities.
 
 ## On Polders
 
@@ -56,11 +56,11 @@ The polder put his drink down. “Oh, thank you. Thank you very much. You know, 
 
 “You're talking just … my voice is just as loud as yours!”
 
-“I mean the way you [[Walk|walk]] around. Just the way you move, the way you [[Stand Up|stand up]] and sit down. You make so much goddamn noise.”
+“I mean the way you [[Walk\|walk]] around. Just the way you move, the way you [[Stand Up\|stand up]] and sit down. You make so much goddamn noise.”
 
 Jago, Sarah, and Beth all smiled at the exchange.
 
-“[[Human|Humans]] are loud, yes,” Embers agreed.
+“[[Human\|Humans]] are loud, yes,” Embers agreed.
 
 “Do we have to … can we talk about something else, please?”
 
@@ -102,7 +102,7 @@ The polder looked at the high elf and nodded, impressed. Test passed.
 
 “You mean you're going to make it up?!” John exclaimed.
 
-“I…” Jackson looked with incredulity at the high elf void mage, then back at the [[Human|human]]. “Yes, I do mean that. Does he know what I do?” he asked the elf.
+“I…” Jackson looked with incredulity at the high elf void mage, then back at the [[Human\|human]]. “Yes, I do mean that. Does he know what I do?” he asked the elf.
 
 “He'll learn,” Embers smiled.
 
@@ -114,7 +114,7 @@ John turned to Embers. “I thought he was a thief.”
 
 “You were a thief.”
 
-“Yeah, I was with the Clock. Probably still am—they don't exactly let you just [[Walk|walk]] away. We sort of have an agreement. I agree to do what they tell me and they agree not to tell me to do anything.”
+“Yeah, I was with the Clock. Probably still am—they don't exactly let you just [[Walk\|walk]] away. We sort of have an agreement. I agree to do what they tell me and they agree not to tell me to do anything.”
 
 “Did they kick you out, or did you quit?”
 
@@ -140,7 +140,7 @@ John turned to see. Sir Vaantikalisax loomed just inside the doorway, his scales
 
 The knight stared at them for a moment, then turned back to his friend.
 
-“Maybe you're right,” the [[Dragon Knight|dragon knight]] said.
+“Maybe you're right,” the [[Dragon Knight\|dragon knight]] said.
 
 ## Polder Benefits
 
@@ -156,11 +156,11 @@ You gain the following ability:
 
 #### Shadowmeld
 
-You become an actual [[Shadow|shadow]].
+You become an actual [[Shadow\|shadow]].
 
 |                     |                    |
 | :------------------ | :----------------- |
 | **Keywords:** Magic | **Type:** Maneuver |
 | **Distance:** Self  | **Target:** Self   |
 
-**Effect**: You flatten yourself into a [[Shadow|shadow]] against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in [[Shadow|shadow]] form, you have full awareness of your surroundings, attacks against you and tests made to find you take a bane, and you can't move or take actions or maneuvers except to exit this form. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
+**Effect**: You flatten yourself into a [[Shadow\|shadow]] against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in [[Shadow\|shadow]] form, you have full awareness of your surroundings, attacks against you and tests made to find you take a bane, and you can't move or take actions or maneuvers except to exit this form. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.

@@ -1,6 +1,6 @@
 #### TIME RAIDER MYRIAD
 
-| [[Time Raider|TIME RAIDER]] MYRIAD      |   **Level 3 Brute Minion** |
+| [[Time [[Raider]]\|TIME RAIDER]] MYRIAD      |   **Level 3 Brute Minion** |
 | :---------------------- | -------------------------: |
 | *Humanoid, [[Time Raider]]* |                  **EV 10** |
 | **Stamina**: 20         |    **Immunity**: Psychic 3 |
@@ -17,7 +17,7 @@
 
 - ✦ ≤11: 2 damage; slide 1
 - ★ 12–16: 5 damage; slide 2
-- ✸ 17+: 6 damage; slide 3; [[Prone|prone]]
+- ✸ 17+: 6 damage; slide 3; [[Prone\|prone]]
 
 **Foresight**
 

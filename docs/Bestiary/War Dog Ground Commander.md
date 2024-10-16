@@ -21,9 +21,9 @@
 - ★ 12–16: 8 damage; pull 2
 - ✸ 17+: 11 damage; pull 3
 
-**Effect**: One ally within 10 squares of the commander can make a [[Free Strike|free strike]].
+**Effect**: One ally within 10 squares of the commander can make a [[Free Strike\|free strike]].
 
-**1 VP**: A target who is adjacent to the ground commander after this ability is resolved is [[Grabbed|grabbed]] (INU ends). This [[Grab|grab]] can’t be escaped using the [[Escape Grab]] maneuver. The ground commander can [[Grab|grab]] up to two creatures at a time.
+**1 VP**: A target who is adjacent to the ground commander after this ability is resolved is [[Grabbed\|grabbed]] (INU ends). This [[Grab\|grab]] can’t be escaped using the [[Escape Grab]] maneuver. The ground commander can [[Grab\|grab]] up to two creatures at a time.
 
 **Highest Posthumous Promotion (Maneuver)**
 
@@ -33,7 +33,7 @@
 
 **Trigger**: The target has a condition imposed on them, is force moved, or is killed.
 
-**Effect**: The target can move up to their speed and make a [[Free Strike|free strike]] before the triggering effect happens.
+**Effect**: The target can move up to their speed and make a [[Free Strike\|free strike]] before the triggering effect happens.
 
 **End Effect**
 
@@ -45,11 +45,11 @@ When the ground commander dies, they explode, dealing 2d6 damage to each adjacen
 
 **Combined Arms (Villain Action 1)**
 
-**Effect**: Each target can make a ranged [[Free Strike|free strike]], then immediately use the [[Charge]] action.
+**Effect**: Each target can make a ranged [[Free Strike\|free strike]], then immediately use the [[Charge]] action.
 
 **Make an Example of Them (Villain Action 2)**
 
-**Effect**: Each ally within 5 squares of the target can move up to their speed and make a [[Free Strike|free strike]] against the target. The target is then [[Frightened|frightened]] of the ground commander (INU ends).
+**Effect**: Each ally within 5 squares of the target can move up to their speed and make a [[Free Strike\|free strike]] against the target. The target is then [[Frightened\|frightened]] of the ground commander (INU ends).
 
 **Claim Them for the Body Banks (Villain Action 3)**
 

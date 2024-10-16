@@ -29,5 +29,5 @@ A mote of holy light racks your foe with their greatest fear.
 **Power Roll + Intuition**:
 
 - 11 or lower: 7 holy damage
-- 12–16: 10 holy damage; [[Frightened|frightened]] (EoT)
-- 17+: 16 holy damage; [[Frightened|frightened]] (EoE)
+- 12–16: 10 holy damage; [[Frightened\|frightened]] (EoT)
+- 17+: 16 holy damage; [[Frightened\|frightened]] (EoE)

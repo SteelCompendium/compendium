@@ -1,6 +1,6 @@
 #### GOBLIN SNIPER
 
-| GOBLIN [[Sniper|SNIPER]]              | **Level 1 Artillery Minion** |
+| GOBLIN [[Sniper\|SNIPER]]              | **Level 1 Artillery Minion** |
 | :------------------------- | ---------------------------: |
 | *Goblin, Humanoid*         |                     **EV 4** |
 | **Stamina**: 5             |         **Speed**: 5 (climb) |
@@ -20,8 +20,8 @@ Target: One creature or object per minion
 - ★ 12–16: 4 damage
 - ✸ 17+: 5 damage
 
-Effect: If the [[Sniper|sniper]] doesn’t use a maneuver or a move action this turn, the ability deals an extra 2 damage.
+Effect: If the [[Sniper\|sniper]] doesn’t use a maneuver or a move action this turn, the ability deals an extra 2 damage.
 
 **Crafty**
 
-The [[Sniper|sniper]] doesn’t provoke opportunity attacks by moving.
+The [[Sniper\|sniper]] doesn’t provoke opportunity attacks by moving.

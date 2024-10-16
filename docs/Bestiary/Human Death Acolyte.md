@@ -1,6 +1,6 @@
 #### HUMAN DEATH ACOLYTE
 
-| [[Human|HUMAN]] DEATH ACOLYTE |         **Level 1 Hexer Minion** |
+| [[Human\|HUMAN]] DEATH ACOLYTE |         **Level 1 Hexer Minion** |
 | :------------------ | -------------------------------: |
 | *[[Human]], Humanoid*   |                         **EV 5** |
 | **Stamina**: 8      | **Immunity**: Magic 2, Psionic 2 |

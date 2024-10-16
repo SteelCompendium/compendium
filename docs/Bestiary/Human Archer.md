@@ -1,6 +1,6 @@
 #### HUMAN ARCHER
 
-| [[Human|HUMAN]] ARCHER      |     **Level 1 Artillery Minion** |
+| [[Human\|HUMAN]] ARCHER      |     **Level 1 Artillery Minion** |
 | :---------------- | -------------------------------: |
 | *[[Human]], Humanoid* |                         **EV 6** |
 | **Stamina**: 8    | **Immunity**: Magic 2, Psionic 2 |

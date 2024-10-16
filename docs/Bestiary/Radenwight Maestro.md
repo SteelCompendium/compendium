@@ -40,7 +40,7 @@ Distance: Ranged 10
 Target: One creature
 Trigger: An ally deals damage to the target.
 
-Effect: The maestro makes a [[Free Strike|free strike]] against the target.
+Effect: The maestro makes a [[Free Strike\|free strike]] against the target.
 
 **End Effect**
 
@@ -68,4 +68,4 @@ Keywords: Area
 Distance: 10 burst
 Target: Each dead ally
 
-Effect: Each target stands, makes a [[Free Strike|free strike]], then collapses again. Allies of the targets can use Ready Rodent as a free triggered action once in conjunction with these [[Free Strike|free strikes]].
+Effect: Each target stands, makes a [[Free Strike\|free strike]], then collapses again. Allies of the targets can use Ready Rodent as a free triggered action once in conjunction with these [[Free Strike\|free strikes]].

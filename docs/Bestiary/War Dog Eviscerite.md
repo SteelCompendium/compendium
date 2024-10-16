@@ -21,7 +21,7 @@
 - ★ 12–16: 5 damage; pull 1
 - ✸ 17+: 7 damage; pull 2
 
-**Effect**: The eviscerite can [[Grab|grab]] a target pulled adjacent to them by this ability.
+**Effect**: The eviscerite can [[Grab\|grab]] a target pulled adjacent to them by this ability.
 
 **Posthumous Promotion (Maneuver)**
 

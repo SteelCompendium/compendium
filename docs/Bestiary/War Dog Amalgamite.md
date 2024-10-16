@@ -18,12 +18,12 @@
 | **Distance:** Ranged 10     | **Target:** One war dog with a loyalty collar |
 
 - ✦ ≤11: 4 damage
-- ★ 12–16: 7 damage; [[Grabbed|grabbed]]
-- ✸ 17+: 10 damage; [[Grabbed|grabbed]]
+- ★ 12–16: 7 damage; [[Grabbed\|grabbed]]
+- ✸ 17+: 10 damage; [[Grabbed\|grabbed]]
 
-**Special**: The amalgamite can [[Grab|grab]] up to four creatures.
+**Special**: The amalgamite can [[Grab\|grab]] up to four creatures.
 
-**5 VP**: The amalgamite deals 4 damage to each creature they have [[Grabbed|grabbed]], and regains Stamina equal to the damage dealt.
+**5 VP**: The amalgamite deals 4 damage to each creature they have [[Grabbed\|grabbed]], and regains Stamina equal to the damage dealt.
 
 **Posthumous Promotion (Maneuver)**
 

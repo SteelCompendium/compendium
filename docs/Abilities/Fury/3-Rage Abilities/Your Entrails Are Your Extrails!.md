@@ -28,8 +28,8 @@ Unless they get some help, your foe is finished.
 
 **Power Roll + Might:**
 
-- 11 or lower: 6 damage; [[Slowed|slowed]] (EoT)
-- 12–16: 9 damage; [[Slowed|slowed]] (EoT)
-- 17+: 14 damage; [[Slowed|slowed]] (EoE)
+- 11 or lower: 6 damage; [[Slowed\|slowed]] (EoT)
+- 12–16: 9 damage; [[Slowed\|slowed]] (EoT)
+- 17+: 14 damage; [[Slowed\|slowed]] (EoE)
 
-**Effect:** While [[Slowed|slowed]] in this way, the target takes an extra 3 damage at the start of each of your turns.
+**Effect:** While [[Slowed\|slowed]] in this way, the target takes an extra 3 damage at the start of each of your turns.

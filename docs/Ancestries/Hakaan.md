@@ -10,7 +10,7 @@ type: ancestries
 
 “COME FORTH, SONS OF ORD!” the hakaan metamorph bellowed as Ajax's dwarven legion advanced. “AND MEET A BETTER WOMAN THAN THEE!!”
 
-In spite of their friendly, outgoing nature, the rare presence of a hakaan in [[Human|human]] society is considered a harbinger—an omen of dark times.
+In spite of their friendly, outgoing nature, the rare presence of a hakaan in [[Human\|human]] society is considered a harbinger—an omen of dark times.
 
 Descended from a tribe of giants in upper Vanigar, the original Haka'an tribe made a bargain with Holkatja, the Vanigar trickster god. They traded some of their gigantic size and strength for the ability to see the future.
 
@@ -18,9 +18,9 @@ But Holkatja betrayed them, and the only future they are allowed to see is the m
 
 This doomsight can happen at any moment. It does not come for all or even most hakaan, but when it comes, it is considered an act of overwhelming hubris to ignore it. Trying to escape the doomsight means a painful, tragic death, and cursing your family to live with shame.
 
-For this reason, the only hakaan the average [[Human|human]] meets is one trying to fulfill their doom. The [[Human|human]] superstition—that the arrival of one or more hakaan in [[Human|human]] lands is a sign of great forces acting in the world, auspicious times—is literally true. In dark times, many hakaan experience the doomsight and leave their communities to venture out into the mundane world, in search of their destiny.
+For this reason, the only hakaan the average [[Human\|human]] meets is one trying to fulfill their doom. The [[Human\|human]] superstition—that the arrival of one or more hakaan in [[Human\|human]] lands is a sign of great forces acting in the world, auspicious times—is literally true. In dark times, many hakaan experience the doomsight and leave their communities to venture out into the mundane world, in search of their destiny.
 
-[[Human|Humans]] in Vanigar have their own word for this concept of a personal fate, “wyrd.” Traditional hakaan sometimes refer to the doomsight as wyrdken.
+[[Human\|Humans]] in Vanigar have their own word for this concept of a personal fate, “wyrd.” Traditional hakaan sometimes refer to the doomsight as wyrdken.
 
 ## On Hakaan
 
@@ -46,7 +46,7 @@ The Arrow had seen it, and enthusiastically agreed.
 
 “You're not from the Barrow Hills,” he said.
 
-The Pillar shook her head. “No, I do not wot of your hills. I am from the hills north of the Blue Cloud [[Mountain|Mountains]] in far Vanigar.” She turned and looked down at the Arrow with some pride. “My people are descended from the original Haka'an tribe.” She went back to work. “Though I am sure the Barrow Men, as you call them, are a fine people. We're all related, you see.”
+The Pillar shook her head. “No, I do not wot of your hills. I am from the hills north of the Blue Cloud [[Mountain\|Mountains]] in far Vanigar.” She turned and looked down at the Arrow with some pride. “My people are descended from the original Haka'an tribe.” She went back to work. “Though I am sure the Barrow Men, as you call them, are a fine people. We're all related, you see.”
 
 “Is that why you joined the Society?”
 
@@ -54,7 +54,7 @@ The Pillar shook her head. “No, I do not wot of your hills. I am from the hill
 
 “Did she look like herself?” the Arrow asked, smiling, enjoying a moment of shared experience with the giant woman.
 
-The Pillar chuckled, and the Arrow's chest vibrated with the force of it. “No, she looked like an agéd wise woman of Vanigar. I think only in fabled Alloy could the Memory of a Sunset at Dawn [[Walk|walk]] the streets without ‘scaring the horses,' as they say.”
+The Pillar chuckled, and the Arrow's chest vibrated with the force of it. “No, she looked like an agéd wise woman of Vanigar. I think only in fabled Alloy could the Memory of a Sunset at Dawn [[Walk\|walk]] the streets without ‘scaring the horses,' as they say.”
 
 “Alloy?”
 
@@ -74,7 +74,7 @@ The Pillar looked at the Arrow out of the corner of her eye. “You'll see,” s
 
 “Is it like a dream or a nightmare?” The Arrow wasn't sure how much it was okay to ask.
 
-“No, it was not a dream, it was a thing that happened.” She turned to face the Arrow and leaned her massive arms on her legs. “I know not how it is for other doomseekers, but this is how it was for me. I was collecting flecks of jasper, a … a mineral we add to our food. I was picking flakes of rock up off the ground when I saw a bee that could not [[Fly|fly]] and a horde of ants all around, one with wings. In that moment, that was all that I could see. It was like the rest of the world fell away, and the bee and the ants filled my sight. Though the bee was surrounded and the ants seemed to go on forever, I could see the ants were afraid. There were dozens of dead ants on the ground.”
+“No, it was not a dream, it was a thing that happened.” She turned to face the Arrow and leaned her massive arms on her legs. “I know not how it is for other doomseekers, but this is how it was for me. I was collecting flecks of jasper, a … a mineral we add to our food. I was picking flakes of rock up off the ground when I saw a bee that could not [[Fly\|fly]] and a horde of ants all around, one with wings. In that moment, that was all that I could see. It was like the rest of the world fell away, and the bee and the ants filled my sight. Though the bee was surrounded and the ants seemed to go on forever, I could see the ants were afraid. There were dozens of dead ants on the ground.”
 
 “What did you do?”
 
@@ -96,11 +96,11 @@ The Pillar shrugged, giant muscles in her shoulders rippling. “That was the en
 
 “Oh, feeling sorry for it, I placed my finger gently on the ground, and you must see,” she held up her pinky, “even my little finger is like a mighty wall for the bee. I sought only to protect it from the ants, but it quickly scrambled onto my finger, and after I stood up, it cleaned itself and flew away.”
 
-“It could [[Fly|fly]]!” the Arrow said, suddenly full of youthful exuberance. “It could [[Fly|fly]] the entire time! It was just waiting … for someone else to come along.”
+“It could [[Fly\|fly]]!” the Arrow said, suddenly full of youthful exuberance. “It could [[Fly\|fly]] the entire time! It was just waiting … for someone else to come along.”
 
 The Arrow stared, wide-eyed at the Pillar. Even before the young man spoke, the hakaan talent's eyes widened in realization. “My vision …” she said.
 
-“Wasn't over!” the Arrow said, his joy impossible to [[Hide|hide]].
+“Wasn't over!” the Arrow said, his joy impossible to [[Hide\|hide]].
 
 ## Hakaan Benefits
 
@@ -118,4 +118,4 @@ When you force move a creature or object, you can increase the distance moved by
 
 ### Undaunted
 
-You can't be [[Weakened|weakened]]. Additionally, when your Stamina equals the negative of your winded value, you turn to rubble instead of dying. You are unaware of your surroundings in this state. After 12 hours, you regain Stamina equal to your recovery value.
+You can't be [[Weakened\|weakened]]. Additionally, when your Stamina equals the negative of your winded value, you turn to rubble instead of dying. You are unaware of your surroundings in this state. After 12 hours, you regain Stamina equal to your recovery value.

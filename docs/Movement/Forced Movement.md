@@ -14,15 +14,15 @@ Some actions and maneuvers allow you to push, pull, or slide another creature a 
 - **Pull X:** You move the target up to X squares toward you in a straight line, without moving them vertically. Each square you move the creature must bring them closer to you.
 - **Slide X:** You move the target up to X squares in any direction, except for vertically.
 
-When you force move a target, you can always move that target fewer squares than the number indicated. For example, when the [[Conduit|conduit]] gets a tier 3 “push 5” result with their [[Thunder Of The Divine|Thunder of the Divine]] ability, they can push targets any distance up to 5 squares, including choosing to not move certain targets at all.
+When you force move a target, you can always move that target fewer squares than the number indicated. For example, when the [[Conduit\|conduit]] gets a tier 3 “push 5” result with their [[Thunder Of The Divine\|Thunder of the Divine]] ability, they can push targets any distance up to 5 squares, including choosing to not move certain targets at all.
 
-Forced movement ignores [[Difficult Terrain|difficult terrain]] and never provokes opportunity attacks. When you force move a target into damaging terrain or into terrain that produces an effect, they are affected as if they had moved into it willingly.
+Forced movement ignores [[Difficult Terrain\|difficult terrain]] and never provokes opportunity attacks. When you force move a target into damaging terrain or into terrain that produces an effect, they are affected as if they had moved into it willingly.
 
 ## Vertical
 
 If a forced movement effect has the word “vertical” in front of it, then the forced movement can move a target up or down in addition to horizontally. For example, if a forced movement effect says “vertical push 5,” then the creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the forced movement is a straight line.
 
-If a creature who can't [[Fly|fly]] is left in midair at the end of a vertical forced move, they fall.
+If a creature who can't [[Fly\|fly]] is left in midair at the end of a vertical forced move, they fall.
 
 Though you can't push, pull, or slide a creature unless that forced movement specifies “vertical,” you can move them along a slope. For a creature to be force moved along a slope, each square of the slope can be no more than 1 square higher or lower than the previous square.
 
@@ -65,11 +65,11 @@ If any forced movement remains after the object is destroyed, you can continue t
 
 ## Forced Into A Fall
 
-If you can't [[Fly|fly]] and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when your move ends, you fall.
+If you can't [[Fly\|fly]] and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when your move ends, you fall.
 
 ## For The Director: Use Tactical Maps
 
-> This is a tactical game. To get the most out of the rules for movement, [[Difficult Terrain|difficult terrain]], and falling, you should use encounter maps with interesting environmental features. You might have ledges, pits of acid, walls of fire, mechanical traps, columns, giant webs, magical hazards, and the like for creatures to be thrown into, thrown off of, or thrown through. You'll want most of your battles to take place in environments with plenty of space to move around, avoiding a lot of long corridors that are 1 square wide.
+> This is a tactical game. To get the most out of the rules for movement, [[Difficult Terrain\|difficult terrain]], and falling, you should use encounter maps with interesting environmental features. You might have ledges, pits of acid, walls of fire, mechanical traps, columns, giant webs, magical hazards, and the like for creatures to be thrown into, thrown off of, or thrown through. You'll want most of your battles to take place in environments with plenty of space to move around, avoiding a lot of long corridors that are 1 square wide.
 
 ## Stability
 

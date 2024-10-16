@@ -18,8 +18,8 @@ Distance: 5 burst
 Target: Each enemy
 
 - ✦ ≤11: 3 psychic damage
-- ★ 12–16: 5 psychic damage; [[Slowed|slowed]] (EoT)
-- ✸ 17+: 7 psychic damage; [[Slowed|slowed]] (INU ends)
+- ★ 12–16: 5 psychic damage; [[Slowed\|slowed]] (EoT)
+- ✸ 17+: 7 psychic damage; [[Slowed\|slowed]] (INU ends)
 
 Effect: An ally within 10 squares of the chorogaunt can shift up to their speed.
 
@@ -58,7 +58,7 @@ Keywords: Ranged
 Distance: Ranged 10
 Target: Three enemies
 
-Effect: Each target either takes 5 psychic damage or is [[Frightened|frightened]] of the chorogaunt (EoT). Each target gets to choose which to do.
+Effect: Each target either takes 5 psychic damage or is [[Frightened\|frightened]] of the chorogaunt (EoT). Each target gets to choose which to do.
 
 **Bully the Weak (Villain Action 2)**
 

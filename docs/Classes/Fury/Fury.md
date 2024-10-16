@@ -19,7 +19,7 @@ trigger: You are targeted by a damaging area of effect.
 
 # Fury
 
-You do not temper the heat of battle within you, you unleash it! Like a raptor, a [[Panther|panther]], a wolf, your experience in the wild taught you the secret of channeling unfettered anger into martial prowess. Primordial chaos is your ally. Leave it to others to use finesse to clean up the pieces you leave behind.
+You do not temper the heat of battle within you, you unleash it! Like a raptor, a [[Panther\|panther]], a wolf, your experience in the wild taught you the secret of channeling unfettered anger into martial prowess. Primordial chaos is your ally. Leave it to others to use finesse to clean up the pieces you leave behind.
 
 As a fury, you have abilities that deal a lot of damage, move you around the battlefield, and grow in strength as your rage increases. Nature has no concept of fairness—and neither do you.
 
@@ -70,7 +70,7 @@ You gain certain benefits in combat based on the amount of rage you have. See As
 
 ### Mighty Leaps
 
-You always succeed on Might tests made to [[Jump|jump]]. You can still roll to see if you get a reward result.
+You always succeed on Might tests made to [[Jump\|jump]]. You can still roll to see if you get a reward result.
 
 ### 1st-level Aspect Features
 
@@ -86,7 +86,7 @@ Your chosen primordial aspect grants you features as shown on the 1st-Level Prim
 
 #### Primordial Cunning
 
-You are never surprised. Additionally, whenever you would push a target with [[Forced Movement|forced movement]], you can slide them instead.
+You are never surprised. Additionally, whenever you would push a target with [[Forced Movement\|forced movement]], you can slide them instead.
 
 As your rage grows, your primordial cunning intensifies. These benefits are cumulative.
 
@@ -197,7 +197,7 @@ The Primordial Chaos allows you to redirect kinetic energy for a monstrous smash
 
 - **Trigger:** The target is force moved.
 
-**Effect:** You can select a new target of the same size or smaller within distance to be force moved instead. Additionally, you can increase the forced move distance by a number of squares equal to your Might score. You can use your Primordial Strength benefit to make this [[Forced Movement|forced movement]] vertical.
+**Effect:** You can select a new target of the same size or smaller within distance to be force moved instead. Additionally, you can increase the forced move distance by a number of squares equal to your Might score. You can use your Primordial Strength benefit to make this [[Forced Movement\|forced movement]] vertical.
 
 **Spend 1 Rage:** You can increase the forced move distance by a number of squares equal to twice your Might score instead.
 
@@ -237,7 +237,7 @@ Keeping in constant motion helps you slip out of reach after a brutal assault.
 
 - 11 or lower: 3 damage
 - 12–16: 8 damage
-- 17+: 12 damage; [[Slowed|slowed]] (EoT)
+- 17+: 12 damage; [[Slowed\|slowed]] (EoT)
 
 **Effect:** You can shift 1 square after the attack is resolved.
 
@@ -259,11 +259,11 @@ Fighting up close lets you keep your foe exactly where you want them.
 
 **Power Roll + Might:**
 
-- 11 or lower: 3 damage; [[Slowed|slowed]] (EoT)
-- 12–16: 8 damage; [[Grabbed|grabbed]]
-- 17+: 12 damage; [[Grabbed|grabbed]]
+- 11 or lower: 3 damage; [[Slowed\|slowed]] (EoT)
+- 12–16: 8 damage; [[Grabbed\|grabbed]]
+- 17+: 12 damage; [[Grabbed\|grabbed]]
 
-**Effect:** If the target is [[Grabbed|grabbed]], they take a bane on attempts to escape the [[Grab|grab]]. If you move while you have the target [[Grabbed|grabbed]], they take 1 damage for each square you move.
+**Effect:** If the target is [[Grabbed\|grabbed]], they take a bane on attempts to escape the [[Grab\|grab]]. If you move while you have the target [[Grabbed\|grabbed]], they take 1 damage for each square you move.
 
 #### Heroic Abilities
 
@@ -283,13 +283,13 @@ Your enemies will get out of your way—whether they want to or not.
 - 12–16: 5 damage; slide 3
 - 17+: 8 damage; slide 5
 
-**Effect:** When you force move the target, you can move into squares they leave. The target takes the damage from any [[Free Strike|free strikes]] you provoke with this movement.
+**Effect:** When you force move the target, you can move into squares they leave. The target takes the damage from any [[Free Strike\|free strikes]] you provoke with this movement.
 
 ##### Stab Me So I Can Pull Myself Closer To You (3 Rage)
 
 When you barrel through your foes, they feel your wrath.
 
-**Effect:** Move up to your speed in a straight line toward a creature or object. You don't treat enemy creatures as [[Difficult Terrain|difficult terrain]] for this move. If the target is a creature, you can end your movement in the target's square, moving them to an adjacent open square. Make a power roll against the target and every enemy you moved through.
+**Effect:** Move up to your speed in a straight line toward a creature or object. You don't treat enemy creatures as [[Difficult Terrain\|difficult terrain]] for this move. If the target is a creature, you can end your movement in the target's square, moving them to an adjacent open square. Make a power roll against the target and every enemy you moved through.
 
 **Power Roll + Might:**
 
@@ -297,7 +297,7 @@ When you barrel through your foes, they feel your wrath.
 - 12–16: 6 damage
 - 17+: 9 damage
 
-**Effect:** The target takes an extra 1d6 damage for every [[Free Strike|free strike]] you triggered from your move.
+**Effect:** The target takes an extra 1d6 damage for every [[Free Strike\|free strike]] you triggered from your move.
 
 ##### Whirlwind Strike (3 Rage)
 
@@ -315,11 +315,11 @@ Unless they get some help, your foe is finished.
 
 **Power Roll + Might:**
 
-- 11 or lower: 6 damage; [[Slowed|slowed]] (EoT)
-- 12–16: 9 damage; [[Slowed|slowed]] (EoT)
-- 17+: 14 damage; [[Slowed|slowed]] (EoE)
+- 11 or lower: 6 damage; [[Slowed\|slowed]] (EoT)
+- 12–16: 9 damage; [[Slowed\|slowed]] (EoT)
+- 17+: 14 damage; [[Slowed\|slowed]] (EoE)
 
-**Effect:** While [[Slowed|slowed]] in this way, the target takes an extra 3 damage at the start of each of your turns.
+**Effect:** While [[Slowed\|slowed]] in this way, the target takes an extra 3 damage at the start of each of your turns.
 
 #### 5-rage Abilities
 
@@ -331,9 +331,9 @@ A mighty strike leaves your foe reeling.
 
 **Power Roll + Might:**
 
-- 11 or lower: 7 damage; [[Weakened|weakened]] and [[Bleeding|bleeding]] (EoT)
-- 12–16: 11 damage; [[Weakened|weakened]] and [[Bleeding|bleeding]] (EoT)
-- 17+: 17 damage; [[Weakened|weakened]] and [[Bleeding|bleeding]] (EoE)
+- 11 or lower: 7 damage; [[Weakened\|weakened]] and [[Bleeding\|bleeding]] (EoT)
+- 12–16: 11 damage; [[Weakened\|weakened]] and [[Bleeding\|bleeding]] (EoT)
+- 17+: 17 damage; [[Weakened\|weakened]] and [[Bleeding\|bleeding]] (EoE)
 
 **Effect:** You can choose to deal 1d6 damage to yourself to deal an extra 2d6 damage to the target.
 
@@ -417,7 +417,7 @@ With this stormwight kit, you channel your primordial rage into the form of a be
 
 #### Aspect Benefits
 
-Whenever you use [[Forced Movement|forced movement]] to push a creature, you can pull that creature instead. Whenever an attack pulls a creature adjacent to you, you can attempt to [[Grab|grab]] that creature as a free triggered action.
+Whenever you use [[Forced Movement\|forced movement]] to push a creature, you can pull that creature instead. Whenever an attack pulls a creature adjacent to you, you can attempt to [[Grab\|grab]] that creature as a free triggered action.
 
 #### Animal Form: Bear
 
@@ -461,12 +461,12 @@ BEAR GROWING RAGE
 <tbody>
 <tr class="odd">
 <td>2</td>
-<td>• You gain an edge on Might tests, resistance rolls, and power rolls made to [[Grab|grab]].<br />
-• While in bear form, your attacks deal extra damage equal to your Might score, and any target you have [[Grabbed|grabbed]] at the start of your turn takes damage equal to your Might score.</td>
+<td>• You gain an edge on Might tests, resistance rolls, and power rolls made to [[Grab\|grab]].<br />
+• While in bear form, your attacks deal extra damage equal to your Might score, and any target you have [[Grabbed\|grabbed]] at the start of your turn takes damage equal to your Might score.</td>
 </tr>
 <tr class="even">
 <td>4</td>
-<td>While in bear form, you can use all your abilities, your attacks deal extra damage equal to twice your Might score, and any target you have [[Grabbed|grabbed]] at the start of your turn takes damage equal to twice your Might score, instead of once your Might score.</td>
+<td>While in bear form, you can use all your abilities, your attacks deal extra damage equal to twice your Might score, and any target you have [[Grabbed\|grabbed]] at the start of your turn takes damage equal to twice your Might score, instead of once your Might score.</td>
 </tr>
 <tr class="odd">
 <td>6</td>
@@ -477,15 +477,15 @@ BEAR GROWING RAGE
 
 ### Corven
 
-With this stormwight kit, you channel your primordial rage into the form of a crow. Corven are tied to the [[Mountain|mountain]] passes and the hot winds that flow through them. This aspect is associated with the katabatic wind.
+With this stormwight kit, you channel your primordial rage into the form of a crow. Corven are tied to the [[Mountain\|mountain]] passes and the hot winds that flow through them. This aspect is associated with the katabatic wind.
 
 #### Aspect Benefits
 
-You gain an edge on tests made to [[Hide|hide]] and sneak. Whenever you are falling, you can use your Animal Form ability as a free triggered action.
+You gain an edge on tests made to [[Hide\|hide]] and sneak. Whenever you are falling, you can use your Animal Form ability as a free triggered action.
 
 #### Animal Form: Crow
 
-When you are in your crow form, your movement gains the [[Fly]] keyword, and your size becomes 1T. You can use the [[Hide]] maneuver as a free maneuver, and you can use your allies as cover when you [[Hide|hide]].
+When you are in your crow form, your movement gains the [[Fly]] keyword, and your size becomes 1T. You can use the [[Hide]] maneuver as a free maneuver, and you can use your allies as cover when you [[Hide\|hide]].
 
 Whenever your rage is 4 or higher, you can shapeshift to become a hybrid bipedal crow of your true form's size. You gain 10 temporary Stamina the first time you shapeshift into hybrid crow form during an encounter.
 
@@ -552,7 +552,7 @@ With this stormwight kit, you channel your primordial rage into the form of a ra
 
 #### Aspect Benefits
 
-You gain an edge on tests made to [[Hide|hide]] and sneak. Additionally, you ignore [[Difficult Terrain|difficult terrain]], and you gain an edge on tests made to climb other creatures. If you are hidden, you automatically achieve a tier 3 result on attempts to climb and remain hidden.
+You gain an edge on tests made to [[Hide\|hide]] and sneak. Additionally, you ignore [[Difficult Terrain\|difficult terrain]], and you gain an edge on tests made to climb other creatures. If you are hidden, you automatically achieve a tier 3 result on attempts to climb and remain hidden.
 
 #### Animal Form: Rat
 
@@ -603,7 +603,7 @@ Your enemies try in vain to fall back from your pouncing attack.
 <td>2</td>
 <td>• You have Weapon immunity 2.<br />
 • While in rat form, your attacks deal extra damage equal to your Agility score.<br />
-• While in rat form, if you attack a creature you are climbing, that creature is [[Bleeding|bleeding]] (EoT).</td>
+• While in rat form, if you attack a creature you are climbing, that creature is [[Bleeding\|bleeding]] (EoT).</td>
 </tr>
 <tr class="even">
 <td>4</td>
@@ -626,7 +626,7 @@ You and an ally gain the benefits of flanking whenever you are both adjacent to 
 
 #### Animal Form: Wolf
 
-When you are in your wolf form, your speed increases by 2, you ignore [[Difficult Terrain|difficult terrain]], and your size becomes 1M.
+When you are in your wolf form, your speed increases by 2, you ignore [[Difficult Terrain\|difficult terrain]], and your size becomes 1M.
 
 Whenever your rage is 4 or higher, you can shapeshift to become a hybrid bipedal wolf of your true form's size. You gain 10 temporary Stamina the first time you shapeshift into hybrid wolf form during an encounter.
 
@@ -651,7 +651,7 @@ A savage assault forces your foes back.
 
 - 11 or lower: 5 damage
 - 12–16: 9 damage; push 1
-- 17+: 12 damage; push 2; [[Prone|prone]] if the target is your size or smaller
+- 17+: 12 damage; push 2; [[Prone\|prone]] if the target is your size or smaller
 
 **Effect:** You can shift up to 2 squares as long as you end the shift adjacent to the target.
 

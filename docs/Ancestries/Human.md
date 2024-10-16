@@ -8,11 +8,11 @@ type: ancestries
 
 # Human
 
-“Humans,” the [[Dwarf|dwarf]] said with a combination of exasperation and awe. “Their only virtue seems to be believing in impossible things.”
+“Humans,” the [[Dwarf\|dwarf]] said with a combination of exasperation and awe. “Their only virtue seems to be believing in impossible things.”
 
-“Humans belong to the world in a way the other speaking peoples do not. You can sense the presence of magic—that… oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to [[Stand Up|stand up]]. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
+“Humans belong to the world in a way the other speaking peoples do not. You can sense the presence of magic—that… oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to [[Stand Up\|stand up]]. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
 
-“No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin … the [[Dwarf|dwarves]] and the [[Orc|orcs]] as you say. What is it that sets humans apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason.”
+“No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin … the [[Dwarf\|dwarves]] and the [[Orc\|orcs]] as you say. What is it that sets humans apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason.”
 
 ## On Humans
 
@@ -46,7 +46,7 @@ Those great humans, your ancestors, did not focus on differences. They did not w
 
 The people who stand against Ajax and tyrants like him will be just like you—normal people. Priests and scholars and merchants and farmers. Maybe even teachers.
 
-Stopping Ajax will require you to become something else. You must become heroes. [[Conduit|Conduits]] of saints, warmasters of great armies. Censors and [[Shadow|shadows]]. That may seem unlikely now, but the future has a way of surprising us.
+Stopping Ajax will require you to become something else. You must become heroes. [[Conduit\|Conduits]] of saints, warmasters of great armies. Censors and [[Shadow\|shadows]]. That may seem unlikely now, but the future has a way of surprising us.
 
 Some of your names, I will see written in future textbooks.
 

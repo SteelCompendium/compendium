@@ -49,7 +49,7 @@ Shadow colleges are secret institutions that turn ordinary folk into something e
 
 You are one of the few who has graduated from a shadow college, chosen from the following options:
 
-- **College of Black Ash:** The College of Black Ash founded the art of being a shadow. Its graduates use Black Ash sorcery to [[Teleport|teleport]] around the battlefield in clouds of soot, and to manipulate and create darkness. Graduates of the college are unmatched in mobility. You gain the Magic skill.
+- **College of Black Ash:** The College of Black Ash founded the art of being a shadow. Its graduates use Black Ash sorcery to [[Teleport\|teleport]] around the battlefield in clouds of soot, and to manipulate and create darkness. Graduates of the college are unmatched in mobility. You gain the Magic skill.
 - **College of Caustic Alchemy:** The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You gain the Alchemy skill.
 - **College of the Harlequin Mask:** Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You gain the Lie skill.
 
@@ -88,9 +88,9 @@ In a swirl of black ash, you step from one place to another.
 | **Keywords:** Magic | **Type:** Action |
 | **Distance:** Self  | **Target:** Self |
 
-**Effect:** You [[Teleport|teleport]] up to 5 squares. If you end this movement in concealment or cover, you can use the [[Hide]] maneuver even if you are observed.
+**Effect:** You [[Teleport\|teleport]] up to 5 squares. If you end this movement in concealment or cover, you can use the [[Hide]] maneuver even if you are observed.
 
-**Spend Insight:** You [[Teleport|teleport]] 1 additional square for each insight spent.
+**Spend Insight:** You [[Teleport\|teleport]] 1 additional square for each insight spent.
 
 #### Coat The Blade
 
@@ -100,7 +100,7 @@ You gain the following ability.
 
 Just a little poison goes a long way.
 
-**Effect:** You coat one of your weapons with a harmful poison. The next creature you damage with an ability that uses that weapon takes extra poison damage equal to twice your Presence score or the target is [[Weakened|weakened]] (EoT). You choose the effect when you apply the poison. The poison loses its potency after you damage the creature or at the end of the encounter.
+**Effect:** You coat one of your weapons with a harmful poison. The next creature you damage with an ability that uses that weapon takes extra poison damage equal to twice your Presence score or the target is [[Weakened\|weakened]] (EoT). You choose the effect when you apply the poison. The poison loses its potency after you damage the creature or at the end of the encounter.
 
 **Spend Insight:** For each insight you spend, the damage dealt by the poison increases by a number equal to your Presence score. You can't spend more Insight than your shadow level on this ability.
 
@@ -142,13 +142,13 @@ When an enemy attacks, you roll with the impact to reduce the harm.
 
 #### In All This Confusion
 
-You [[Teleport|teleport]] away in a plume of black smoke to avoid danger.
+You [[Teleport\|teleport]] away in a plume of black smoke to avoid danger.
 
 - **Trigger:** You take damage.
 
-**Effect:** You [[Teleport|teleport]] up to 4 squares, halve the triggering damage, and don't suffer any effect associated with the damage.
+**Effect:** You [[Teleport\|teleport]] up to 4 squares, halve the triggering damage, and don't suffer any effect associated with the damage.
 
-**Spend Insight:** You [[Teleport|teleport]] 1 additional square for each insight spent.
+**Spend Insight:** You [[Teleport\|teleport]] 1 additional square for each insight spent.
 
 #### Misdirection (1 Insight)
 
@@ -186,7 +186,7 @@ Your precise strikes let your allies take advantage of a target's agony.
 
 - 11 or lower: 3 damage
 - 12–16: 8 damage; the next attack against the target gains an edge
-- 17+: 12 damage; the target falls [[Prone|prone]]
+- 17+: 12 damage; the target falls [[Prone\|prone]]
 
 ##### I Work Better Alone
 
@@ -268,15 +268,15 @@ Striking two foes at once is second nature to you.
 
 ##### Wounding Strike (3 Insight)
 
-You leave your foe [[Bleeding|bleeding]] out after a devastating attack.
+You leave your foe [[Bleeding\|bleeding]] out after a devastating attack.
 
 **Power Roll + Agility:**
 
 - 11 or lower: 6 damage
-- 12–16: 9 damage; [[Bleeding|bleeding]] until a creature uses a maneuver to staunch the wound
-- 17+: 14 damage; [[Bleeding|bleeding]] until a creature uses an action to staunch the wound
+- 12–16: 9 damage; [[Bleeding\|bleeding]] until a creature uses a maneuver to staunch the wound
+- 17+: 14 damage; [[Bleeding\|bleeding]] until a creature uses an action to staunch the wound
 
-**Effect:** While [[Bleeding|bleeding]], the target takes 4 damage at the start of each of your turns.
+**Effect:** While [[Bleeding\|bleeding]], the target takes 4 damage at the start of each of your turns.
 
 #### 5-insight Abilities
 

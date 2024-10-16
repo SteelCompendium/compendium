@@ -1,6 +1,6 @@
 #### HUMAN STORM MAGE
 
-| [[Human|HUMAN]] STORM MAGE  |           **Level 3 Controller** |
+| [[Human\|HUMAN]] STORM MAGE  |           **Level 3 Controller** |
 | :---------------- | -------------------------------: |
 | *[[Human]], Humanoid* |                        **EV 17** |
 | **Stamina**: 40   | **Immunity**: Magic 2, Psionic 2 |
@@ -28,8 +28,8 @@ Keywords: Area, Magic, Resistance
 Distance: 5 cube within 1
 Target: Each creature and object
 
-- ✸ ≤11: Slide 5; [[Slowed|slowed]] (MGT ends)
-- ★ 12–16: Slide 3; [[Slowed|slowed]] (EoT)
+- ✸ ≤11: Slide 5; [[Slowed\|slowed]] (MGT ends)
+- ★ 12–16: Slide 3; [[Slowed\|slowed]] (EoT)
 - ✦ 17+: Slide 1
 
 Effect: The gust of wind disperses gas or vapor and extinguishes any flames, including persistent effects.

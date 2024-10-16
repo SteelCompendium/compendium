@@ -20,7 +20,7 @@ target: 1 creature
 
 # Wounding Strike (3 Insight)
 
-You leave your foe [[Bleeding|bleeding]] out after a devastating attack.
+You leave your foe [[Bleeding\|bleeding]] out after a devastating attack.
 
 |                                             |                        |
 | :------------------------------------------ | :--------------------- |
@@ -30,7 +30,7 @@ You leave your foe [[Bleeding|bleeding]] out after a devastating attack.
 **Power Roll + Agility:**
 
 - 11 or lower: 6 damage
-- 12–16: 9 damage; [[Bleeding|bleeding]] until a creature uses a maneuver to staunch the wound
-- 17+: 14 damage; [[Bleeding|bleeding]] until a creature uses an action to staunch the wound
+- 12–16: 9 damage; [[Bleeding\|bleeding]] until a creature uses a maneuver to staunch the wound
+- 17+: 14 damage; [[Bleeding\|bleeding]] until a creature uses an action to staunch the wound
 
-**Effect:** While [[Bleeding|bleeding]], the target takes 4 damage at the start of each of your turns.
+**Effect:** While [[Bleeding\|bleeding]], the target takes 4 damage at the start of each of your turns.

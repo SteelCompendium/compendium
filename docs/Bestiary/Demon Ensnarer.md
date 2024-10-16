@@ -19,7 +19,7 @@ Target: One creature or object per minion
 
 - ✦ ≤11: 2 damage; pull 1
 - ★ 12–16: 4 damage; pull 2
-- ✸ 17+: 5 damage; pull 3; [[Slowed|slowed]] (EoT)
+- ✸ 17+: 5 damage; pull 3; [[Slowed\|slowed]] (EoT)
 
 **Soulsight**
 

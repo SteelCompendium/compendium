@@ -29,5 +29,5 @@ A beam of energy corrupts and hinders whatever it touches.
 **Power Roll + Reason**:
 
 - 11 or lower: 2 corruption damage
-- 12–16: 6 corruption damage; [[Slowed|slowed]] (EoT)
-- 17+: 9 corruption damage; [[Slowed|slowed]] (EoT)
+- 12–16: 6 corruption damage; [[Slowed\|slowed]] (EoT)
+- 17+: 9 corruption damage; [[Slowed\|slowed]] (EoT)

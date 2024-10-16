@@ -3,7 +3,7 @@
 | WAR DOG COGNIVITE          | **Level 1 Defender** |
 | :------------------------- | -------------------: |
 | *Humanoid, War Dog*        |            **EV 11** |
-| **Stamina**: 25            |   **Speed**: 5 ([[Fly|fly]]) |
+| **Stamina**: 25            |   **Speed**: 5 ([[Fly\|fly]]) |
 | **Size**: 1M / Stability 0 |   **[[Free Strike]]**: 2 |
 
 | **Might**: +0 | **Agility**: +1 | **Reason**: +0 | **Intuition**: +0 | **Presence**: +1 |
@@ -27,7 +27,7 @@
 
 **The Voice (Maneuver) ◆ 1 VP**
 
-**Effect**: The cognivite chooses an ally within 10 squares, then chooses whether each target is [[Taunted|taunted]] by the ally (EoT) or has a double bane on attacks against the ally (EoT). The same choice must be made for all targets.
+**Effect**: The cognivite chooses an ally within 10 squares, then chooses whether each target is [[Taunted\|taunted]] by the ally (EoT) or has a double bane on attacks against the ally (EoT). The same choice must be made for all targets.
 
 **Loyalty Collar**
 
