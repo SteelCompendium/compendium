@@ -19,10 +19,10 @@
 | **Distance:** Ranged 5                | **Target:** One creature or object |
 
 - ✦ ≤11: 5 damage
-- ★ 12–16: 9 damage; [[Bleeding\|bleeding]] (EoT)
-- ✸ 17+: 12 damage; [[Bleeding\|bleeding]] (REA ends)
+- ★ 12–16: 9 damage; [[Bleeding|bleeding]] (EoT)
+- ✸ 17+: 12 damage; [[Bleeding|bleeding]] (REA ends)
 
-**Effect**: If the target is [[Bleeding\|bleeding]] from this ability, the hijack is hidden from the target until that [[Bleeding\|bleeding]] ends.
+**Effect**: If the target is [[Bleeding|bleeding]] from this ability, the hijack is hidden from the target until that [[Bleeding|bleeding]] ends.
 
 **Psi-Sickle (Maneuver)**
 

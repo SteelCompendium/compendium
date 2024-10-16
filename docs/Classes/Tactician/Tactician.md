@@ -18,7 +18,7 @@ trigger: The target moves.
 
 Strategist. Defender. Leader. With sword in hand, you lead allies into the maw of battle, barking out commands that inspire your fellow heroes to move faster and strike more precisely. All the while, you stand between your compatriots and death, taunting the followers of evil to best you if they can.
 
-As a tactician, you have abilities that [[Heal\|heal]] your allies and grant them extra damage, movement, and attacks. You can taunt your enemies into attacking you instead of targeting your allies, and can help soak up damage when those allies stand alone.
+As a tactician, you have abilities that [[Heal|heal]] your allies and grant them extra damage, movement, and attacks. You can taunt your enemies into attacking you instead of targeting your allies, and can help soak up damage when those allies stand alone.
 
 ## Basics
 
@@ -110,7 +110,7 @@ While in your presence or working according to your plans, each of your allies g
 
 #### Imposing Attitude
 
-You command any room you [[Walk\|walk]] into. While you are present, each hero with you is treated as having a Renown 2 higher than usual for the purpose of negotiations and influencing tests. Additionally, each hero with you has a double edge on tests made to stop combat and start a negotiation with the other side.
+You command any room you [[Walk|walk]] into. While you are present, each hero with you is treated as having a Renown 2 higher than usual for the purpose of negotiations and influencing tests. Additionally, each hero with you has a double edge on tests made to stop combat and start a negotiation with the other side.
 
 #### I Read Your Book!
 
@@ -168,7 +168,7 @@ Under your direction, an ally waits for just the right moment to strike.
 
 - **Trigger:** The target moves.
 
-**Effect:** At any point during the target's movement, one ally can make a [[Free Strike\|free strike]] against the target.
+**Effect:** At any point during the target's movement, one ally can make a [[Free Strike|free strike]] against the target.
 
 **Spend 1 Focus:** The target's speed becomes 0 (EoT).
 
@@ -219,9 +219,9 @@ Your precise strike leaves your foe struggling to respond.
 
 **Power Roll + Might:**
 
-- 11 or lower: 6 damage; [[Slowed\|slowed]] (EoT)
-- 12–16: 8 damage; [[Dazed\|dazed]] (EoT)
-- 17+: 13 damage; [[Dazed\|dazed]] (EoE)
+- 11 or lower: 6 damage; [[Slowed|slowed]] (EoT)
+- 12–16: 8 damage; [[Dazed|dazed]] (EoT)
+- 17+: 13 damage; [[Dazed|dazed]] (EoE)
 
 ##### Inspiring Strike (3 Focus)
 
@@ -259,7 +259,7 @@ Your attack is your allies' signal to strike!
 
 Your allies wait for your command—then unleash death!
 
-**Effect:** Each target can make a [[Free Strike\|free strike]].
+**Effect:** Each target can make a [[Free Strike|free strike]].
 
 ##### Their Weakness Is Our Strength (5 Focus)
 
@@ -267,9 +267,9 @@ Leaving your foe struggling gives your allies a strategic opening.
 
 **Power Roll + Might:**
 
-- 11 or lower: 7 damage; [[Weakened\|weakened]] (EoT)
-- 12–16: 10 damage; [[Weakened\|weakened]] (EoT)
-- 17+: 16 damage; [[Weakened\|weakened]] (EoE)
+- 11 or lower: 7 damage; [[Weakened|weakened]] (EoT)
+- 12–16: 10 damage; [[Weakened|weakened]] (EoT)
+- 17+: 16 damage; [[Weakened|weakened]] (EoE)
 
 **Effect:** The target is marked (EoE). Each of your allies can spend a Recovery the first time they attack any target you've marked before the start of your next turn.
 

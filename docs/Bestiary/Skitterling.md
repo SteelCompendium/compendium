@@ -17,5 +17,5 @@ Distance: Reach 1
 Target: One creature or object per minion
 
 - ✦ ≤11: 2 poison damage
-- ★ 12–16: 3 poison damage; [[Slowed\|slowed]] (EoT)
-- ✸ 17+: 4 poison damage; [[Slowed\|slowed]] (EoT)
+- ★ 12–16: 3 poison damage; [[Slowed|slowed]] (EoT)
+- ✸ 17+: 4 poison damage; [[Slowed|slowed]] (EoT)

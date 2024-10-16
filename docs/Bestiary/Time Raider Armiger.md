@@ -16,8 +16,8 @@
 | **Distance:** Ranged 20                        | **Target:** Triggering creature   |                |                  |                                                    |
 
 - ✦ ≤11: 5 damage
-- ★ 12–16: 8 damage; [[Weakened\|weakened]] (EoT)
-- ✸ 17+: 11 damage; [[Weakened\|weakened]] (REA ends)
+- ★ 12–16: 8 damage; [[Weakened|weakened]] (EoT)
+- ✸ 17+: 11 damage; [[Weakened|weakened]] (REA ends)
 
 **Effect**: The target takes a bane on the next attack they make before the start of the armiger’s next turn.
 
@@ -35,4 +35,4 @@ The armiger doesn’t take a bane on attacks against concealed creatures.
 
 **Kuran’zoi Heraldry**
 
-While any [[Time [[Raider]]\|time raider]] starts their turn with line of effect to the armiger, that [[Time [[Raider]]\|time raider]] can end one condition affecting them.
+While any [[Time Raider|time raider]] starts their turn with line of effect to the armiger, that [[Time Raider|time raider]] can end one condition affecting them.

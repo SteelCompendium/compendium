@@ -19,7 +19,7 @@ trigger: The target makes an attack. You can use this ability after seeing the r
 
 The power of the gods flows through you! As a vessel for divine magic, you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. While the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
 
-As a conduit, you [[Heal\|heal]] and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, aweing your enemies and granting you increased empathy.
+As a conduit, you [[Heal|heal]] and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, aweing your enemies and granting you increased empathy.
 
 ## Basics
 
@@ -65,7 +65,7 @@ After choosing your deity, pick two domains from their portfolio. Your choice of
 
 ### Piety
 
-Your deity grants you a Heroic Resource called piety to fuel your abilities. You use piety to [[Heal\|heal]] and empower your allies, and to unleash your deity's power upon your foes.
+Your deity grants you a Heroic Resource called piety to fuel your abilities. You use piety to [[Heal|heal]] and empower your allies, and to unleash your deity's power upon your foes.
 
 Outside of combat and other dangerous situations tracked in turns and rounds, you have piety equal to your Victories. If you lose some or all of this piety outside of combat, it takes you 1 minute to regain it.
 
@@ -82,7 +82,7 @@ When a combat encounter begins, you keep any piety you had outside of combat. At
 
 **Power Roll + Intuition**:
 
-- 11 or lower: 1d6 damage; [[Bleeding\|bleeding]] (EoT)
+- 11 or lower: 1d6 damage; [[Bleeding|bleeding]] (EoT)
 - 12–16: Gain 1 piety
 - 17+: Gain 2 piety and choose and use a domain effect
 
@@ -110,7 +110,7 @@ Choose up to three allies within 10 squares of you. Each ally has a double edge 
 
 ##### Life Domain Effect
 
-You or an ally within 10 squares of you can spend 2 Recoveries, can end any effects on them that have a duration of EoT or are ended by a resistance roll, and can [[Stand Up\|stand up]] if they are [[Prone\|prone]]. Alternatively, you or an ally within 10 squares of you gains 20 temporary Stamina.
+You or an ally within 10 squares of you can spend 2 Recoveries, can end any effects on them that have a duration of EoT or are ended by a resistance roll, and can [[Stand Up|stand up]] if they are [[Prone|prone]]. Alternatively, you or an ally within 10 squares of you gains 20 temporary Stamina.
 
 ##### Love Domain Effect
 
@@ -167,7 +167,7 @@ You exude a magic aura of awareness, granting you and each ally within 2 squares
 
 #### Animal Spirit
 
-As an action, you conjure an animal spirit that takes the form of any animal you have seen. The incorporeal animal can't physically interact with the world, but they have a speed of 5 ([[Fly\|fly]]) and can move through mundane objects. While you are within 20 squares of the spirit, you can sense everything an animal of their form could sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required).
+As an action, you conjure an animal spirit that takes the form of any animal you have seen. The incorporeal animal can't physically interact with the world, but they have a speed of 5 ([[Fly|fly]]) and can move through mundane objects. While you are within 20 squares of the spirit, you can sense everything an animal of their form could sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required).
 
 #### Compassionate Aura
 
@@ -240,12 +240,12 @@ Your divine energy restores the righteous.
 
 - You can target one additional ally within distance.
 - You can end one effect on a target that has a duration of EoT or is ended by a resistance roll.
-- A [[Prone\|prone]] target can [[Stand Up\|stand up]].
+- A [[Prone|prone]] target can [[Stand Up|stand up]].
 - A target can spend 1 additional Recovery.
 
 ### Pious Force
 
-You gain the following ability, which can be used as a ranged [[Free Strike\|free strike]].
+You gain the following ability, which can be used as a ranged [[Free Strike|free strike]].
 
 #### Pious Force
 
@@ -311,7 +311,7 @@ Holy light scours your foes and sets your allies into perfect attack position.
 - 12–16: 3 holy damage
 - 17+: 4 holy damage
 
-**Effect**: You can [[Teleport\|teleport]] each ally in the area and yourself (if you're in the area) to an unoccupied space within the area.
+**Effect**: You can [[Teleport|teleport]] each ally in the area and yourself (if you're in the area) to an unoccupied space within the area.
 
 ##### Sacrificial Offer
 
@@ -349,13 +349,13 @@ You conjure an angelic spirit who lashes your foes with burning radiance.
 
 ##### Punishing Smite (3 Piety)
 
-Your divine [[Fury\|fury]] is a hammer that crashes down upon the unrighteous.
+Your divine [[Fury|fury]] is a hammer that crashes down upon the unrighteous.
 
 **Power Roll + Intuition**:
 
 - 11 or lower: 6 holy damage
-- 12–16: 8 holy damage; [[Prone\|prone]]
-- 17+: 13 holy damage; [[Prone\|prone]] and can't stand (EoT)
+- 12–16: 8 holy damage; [[Prone|prone]]
+- 17+: 13 holy damage; [[Prone|prone]] and can't stand (EoT)
 
 ##### Righteous Rebuke (3 Piety)
 
@@ -379,7 +379,7 @@ A resounding clap of thunder disrupts your foes.
 - 12–16: 5 sonic damage; push 3
 - 17+: 8 sonic damage; push 5
 
-**Effect**: You can also push each willing ally in the area, and their stability doesn't count against this [[Forced Movement\|forced movement]].
+**Effect**: You can also push each willing ally in the area, and their stability doesn't count against this [[Forced Movement|forced movement]].
 
 #### 5-piety Abilities
 
@@ -414,8 +414,8 @@ A mote of holy light racks your foe with their greatest fear.
 **Power Roll + Intuition**:
 
 - 11 or lower: 7 holy damage
-- 12–16: 10 holy damage; [[Frightened\|frightened]] (EoT)
-- 17+: 16 holy damage; [[Frightened\|frightened]] (EoE)
+- 12–16: 10 holy damage; [[Frightened|frightened]] (EoT)
+- 17+: 16 holy damage; [[Frightened|frightened]] (EoE)
 
 ##### Wave Of Virtue (5 Piety)
 

@@ -50,12 +50,12 @@ As an elementalist, you gain the following features.
 
 Through your studies, you know and can manipulate the seven primal elements of the timescape:
 
-- **Air** is the element of movement. Air abilities allow you to manipulate speed, [[Quickness\|quickness]], flight, and breath.
+- **Air** is the element of movement. Air abilities allow you to manipulate speed, [[Quickness|quickness]], flight, and breath.
 - **Earth** is the element of permanence. Earth abilities create and shape physical terrain in a permanent way, and bolster the strength and hardiness of allies.
 - **Fire** is the element of destruction. Fire abilities harm enemies and objects.
 - **Green** is the element of creation and growth. Green abilities make and manipulate plants, fungi, and other forms of life to hamper foes and nourish your allies.
 - **Rot** is the element of death. Rot abilities decay and debuff enemies.
-- **Void** is the element of the unknown. Void abilities warp space and reality, allowing you to [[Teleport\|teleport]], create illusions, and make things incorporeal.
+- **Void** is the element of the unknown. Void abilities warp space and reality, allowing you to [[Teleport|teleport]], create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance what your allies can do, and alter the abilities of your enemies for the worse.
 
 Heroic abilities that include your specialization's keyword have their initial essence cost reduced by 1 (to a minimum of 1). This reduced cost doesn't apply to abilities you gain because of your specialization, such as Manipulate Earth or Void Sight.
@@ -72,7 +72,7 @@ When combat begins, you keep any essence you had outside of combat. At the start
 
 ### Hurl Element
 
-You gain the following ability, which can be used as a ranged [[Free Strike\|free strike]]:
+You gain the following ability, which can be used as a ranged [[Free Strike|free strike]]:
 
 #### Hurl Element
 
@@ -121,7 +121,7 @@ Your mastery of elemental power lets you customize your magic.
 
 - You use the [[Knockback]] maneuver, but you make a Reason test instead of a Might test. For this use of the maneuver, you can target a creature at a distance equal to the distance of your Hurl Element ability.
 - You choose a creature within the distance of your Hurl Element ability and deal damage to that creature equal to your Reason score. The damage type can be acid, cold, corruption, fire, lightning, poison, or sonic.
-- You [[Teleport\|teleport]] a number of squares equal to your Reason score.
+- You [[Teleport|teleport]] a number of squares equal to your Reason score.
 
 ### 1st-level Specialization Feature
 
@@ -211,9 +211,9 @@ You add a little magic to an ally's aggression at just the right time.
 
 - **Trigger**: The target force moves a creature or object.
 
-**Effect**: The distance of the [[Forced Movement\|forced movement]] is increased by a number of squares equal to your Reason score.
+**Effect**: The distance of the [[Forced Movement|forced movement]] is increased by a number of squares equal to your Reason score.
 
-**Spend 1 Essence**: The distance of the [[Forced Movement\|forced movement]] is increased by a number of squares equal to twice your Reason score instead.
+**Spend 1 Essence**: The distance of the [[Forced Movement|forced movement]] is increased by a number of squares equal to twice your Reason score instead.
 
 #### Mend The Soul
 
@@ -229,9 +229,9 @@ You call on the void to swallow and spit out an ally.
 
 - **Trigger**: The target starts their turn or moves.
 
-**Effect**: At any point during the move, you [[Teleport\|teleport]] the target a number of squares equal to your Reason.
+**Effect**: At any point during the move, you [[Teleport|teleport]] the target a number of squares equal to your Reason.
 
-**Spend 1 Essence**: You [[Teleport\|teleport]] the target a number of squares equal to twice your Reason score instead.
+**Spend 1 Essence**: You [[Teleport|teleport]] the target a number of squares equal to twice your Reason score instead.
 
 ### Elementalist Abilities
 
@@ -251,11 +251,11 @@ A sudden storm of detritus assaults your foes and leaves them struggling to move
 - 12–16: 3 damage
 - 17+: 4 damage
 
-**Effect**: The ground beneath the area becomes [[Difficult Terrain\|difficult terrain]] for your enemies.
+**Effect**: The ground beneath the area becomes [[Difficult Terrain|difficult terrain]] for your enemies.
 
 ##### Fire Lance
 
-A jet of fire erupts with elemental [[Fury\|fury]] where it strikes.
+A jet of fire erupts with elemental [[Fury|fury]] where it strikes.
 
 **Power Roll + Reason**:
 
@@ -282,8 +282,8 @@ A beam of energy corrupts and hinders whatever it touches.
 **Power Roll + Reason**:
 
 - 11 or lower: 2 corruption damage
-- 12–16: 6 corruption damage; [[Slowed\|slowed]] (EoT)
-- 17+: 9 corruption damage; [[Slowed\|slowed]] (EoT)
+- 12–16: 6 corruption damage; [[Slowed|slowed]] (EoT)
+- 17+: 9 corruption damage; [[Slowed|slowed]] (EoT)
 
 #### Heroic Abilities
 
@@ -325,9 +325,9 @@ You slam the ground, which buckles out from you in every direction.
 
 - 11 or lower: 4 damage
 - 12–16: 5 damage
-- 17+: 8 damage; [[Prone\|prone]]
+- 17+: 8 damage; [[Prone|prone]]
 
-**Effect**: You must be touching the ground or floor to use this ability. The surface beneath the area becomes [[Difficult Terrain\|difficult terrain]] for your enemies.
+**Effect**: You must be touching the ground or floor to use this ability. The surface beneath the area becomes [[Difficult Terrain|difficult terrain]] for your enemies.
 
 ##### Stare Into The Abyss (3 Essence)
 

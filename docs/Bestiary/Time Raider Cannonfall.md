@@ -16,8 +16,8 @@
 | **Distance:** 5 burst                | **Target:** Each ally             |                |                  |                                                |
 
 - ✦ ≤11: 4 sonic damage
-- ★ 12–16: 8 sonic damage; [[Slowed\|slowed]] (EoT)
-- ✸ 17+: 10 sonic damage; [[Slowed\|slowed]] (EoT); [[Prone\|prone]]
+- ★ 12–16: 8 sonic damage; [[Slowed|slowed]] (EoT)
+- ✸ 17+: 10 sonic damage; [[Slowed|slowed]] (EoT); [[Prone|prone]]
 
 **Effect**: A layer of ground or floor beneath the area that is 1 square deep is destroyed.
 

@@ -27,7 +27,7 @@
 
 **The Voice (Maneuver) ◆ 1 VP**
 
-**Effect**: The cognivite chooses an ally within 10 squares, then chooses whether each target is [[Taunted\|taunted]] by the ally (EoT) or has a double bane on attacks against the ally (EoT). The same choice must be made for all targets.
+**Effect**: The cognivite chooses an ally within 10 squares, then chooses whether each target is [[Taunted|taunted]] by the ally (EoT) or has a double bane on attacks against the ally (EoT). The same choice must be made for all targets.
 
 **Loyalty Collar**
 

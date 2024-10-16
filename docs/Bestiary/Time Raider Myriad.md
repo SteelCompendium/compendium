@@ -17,7 +17,7 @@
 
 - ✦ ≤11: 2 damage; slide 1
 - ★ 12–16: 5 damage; slide 2
-- ✸ 17+: 6 damage; slide 3; [[Prone\|prone]]
+- ✸ 17+: 6 damage; slide 3; [[Prone|prone]]
 
 **Foresight**
 

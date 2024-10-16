@@ -22,7 +22,7 @@ The revenant null flexed his arms and assumed a fighting pose. He smiled.
 
 “Little late for that.”
 
-The dead [[Walk\|walk]] among us. Some of them are happier about it than others.
+The dead [[Walk|walk]] among us. Some of them are happier about it than others.
 
 Unlike the necromantic rituals that produce wights and wraiths and zombies, revenants rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
 
@@ -131,7 +131,7 @@ You can have an active number of sigils equal to your level. You can remove a si
 
 Your undead body grants you cold, corruption, lightning immunity, and poison immunity equal to your level. You also have fire weakness 5. You can't suffocate, and you don't need to eat or drink to stay alive.
 
-Additionally, when your Stamina equals the negative of your winded value, you become inert instead of dying. You can continue to observe your surroundings, but you can't speak, take actions, maneuvers, or triggered actions, or move and you fall [[Prone\|prone]]. If you take any fire damage while in this state, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
+Additionally, when your Stamina equals the negative of your winded value, you become inert instead of dying. You can continue to observe your surroundings, but you can't speak, take actions, maneuvers, or triggered actions, or move and you fall [[Prone|prone]]. If you take any fire damage while in this state, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
 
 ### Undead Influence
 

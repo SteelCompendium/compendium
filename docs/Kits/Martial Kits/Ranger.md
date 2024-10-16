@@ -44,5 +44,5 @@ You wear medium armor and wield a medium weapon and a bow.
 **Power Roll + Might or Agility:**
 
 - 11 or lower: 3 damage
-- 12–16: 7 damage; [[Slowed\|slowed]] (EoT)
-- 17+: 10 damage; [[Slowed\|slowed]] (EoE)
+- 12–16: 7 damage; [[Slowed|slowed]] (EoT)
+- 17+: 10 damage; [[Slowed|slowed]] (EoE)

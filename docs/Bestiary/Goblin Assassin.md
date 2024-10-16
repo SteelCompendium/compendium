@@ -28,8 +28,8 @@ Keywords: Magic, Ranged, Resistance
 Distance: Ranged 10
 Target: Three creatures
 
-- ✸ ≤11: 7 corruption damage; [[Restrained\|restrained]] (AGL ends)
-- ★ 12–16: 5 corruption damage; [[Restrained\|restrained]] (EoT)
+- ✸ ≤11: 7 corruption damage; [[Restrained|restrained]] (AGL ends)
+- ★ 12–16: 5 corruption damage; [[Restrained|restrained]] (EoT)
 - ✦ 17+: 3 corruption damage
 
 **Crafty**

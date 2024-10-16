@@ -17,11 +17,11 @@ Keywords: Attack, Melee, Ranged, Weapon
 Distance: Reach 1 or Ranged 5
 Target: One creature or object
 
-- ✦ ≤11: 4 damage; [[Taunted\|taunted]] (EoT)
-- ★ 12–16: 7 damage; [[Taunted\|taunted]] (EoT)
-- ✸ 17+: 10 damage; [[Taunted\|taunted]] (EoT)
+- ✦ ≤11: 4 damage; [[Taunted|taunted]] (EoT)
+- ★ 12–16: 7 damage; [[Taunted|taunted]] (EoT)
+- ✸ 17+: 10 damage; [[Taunted|taunted]] (EoT)
 
-Effect: If an adjacent target [[Taunted\|taunted]] by this ability harms a creature other than the knave, the knave can make a [[Free Strike\|free strike]] against the [[Taunted\|taunted]] creature as a free triggered action.
+Effect: If an adjacent target [[Taunted|taunted]] by this ability harms a creature other than the knave, the knave can make a [[Free Strike|free strike]] against the [[Taunted|taunted]] creature as a free triggered action.
 
 **Overwhelm**
 

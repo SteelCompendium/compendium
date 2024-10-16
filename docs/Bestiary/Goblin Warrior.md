@@ -27,8 +27,8 @@ Distance: Reach 1
 Target: One creature
 
 - ✦ ≤11: 3 damage
-- ★ 12–16: 7 damage; [[Bleeding\|bleeding]] (EoT)
-- ✸ 17+: 8 damage; [[Bleeding\|bleeding]] (MGT ends)
+- ★ 12–16: 7 damage; [[Bleeding|bleeding]] (EoT)
+- ✸ 17+: 8 damage; [[Bleeding|bleeding]] (MGT ends)
 
 **Crafty**
 

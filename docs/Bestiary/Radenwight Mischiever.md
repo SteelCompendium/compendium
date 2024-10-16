@@ -29,4 +29,4 @@ Distance: Reach 1
 Target: One creature
 Trigger: An ally deals damage to the target.
 
-Effect: The mischiever makes a [[Free Strike\|free strike]] against the target.
+Effect: The mischiever makes a [[Free Strike|free strike]] against the target.

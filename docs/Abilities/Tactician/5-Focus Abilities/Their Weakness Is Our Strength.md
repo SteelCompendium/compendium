@@ -29,8 +29,8 @@ Leaving your foe struggling gives your allies a strategic opening.
 
 **Power Roll + Might:**
 
-- 11 or lower: 7 damage; [[Weakened\|weakened]] (EoT)
-- 12–16: 10 damage; [[Weakened\|weakened]] (EoT)
-- 17+: 16 damage; [[Weakened\|weakened]] (EoE)
+- 11 or lower: 7 damage; [[Weakened|weakened]] (EoT)
+- 12–16: 10 damage; [[Weakened|weakened]] (EoT)
+- 17+: 16 damage; [[Weakened|weakened]] (EoE)
 
 **Effect:** The target is marked (EoE). Each of your allies can spend a Recovery the first time they attack any target you've marked before the start of your next turn.

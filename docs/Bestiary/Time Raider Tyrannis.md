@@ -26,13 +26,13 @@
 
 **Air Raid! (Maneuver)** ◆ 3 VP
 
-**Effect**: Each target is psionically lifted into the air and can [[Fly\|fly]] up to their speed. If a target doesn’t land in an unoccupied space, they fall.
+**Effect**: Each target is psionically lifted into the air and can [[Fly|fly]] up to their speed. If a target doesn’t land in an unoccupied space, they fall.
 
 **Precog Reflexes (Triggered Action)**
 
 **Trigger**: The target attacks the tyrannis.
 
-**Effect**: The power roll for the attack takes a bane and the tyrannis makes a [[Free Strike\|free strike]] against the target.
+**Effect**: The power roll for the attack takes a bane and the tyrannis makes a [[Free Strike|free strike]] against the target.
 
 **End Effect**
 

@@ -40,6 +40,6 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 **Power Roll + Might or Agility:**
 
-- 11 or lower: 5 damage; [[Taunted\|taunted]] (EoT)
-- 12–16: 9 damage; [[Taunted\|taunted]] (EoT)
-- 17+: 12 damage; [[Taunted\|taunted]] (EoT)
+- 11 or lower: 5 damage; [[Taunted|taunted]] (EoT)
+- 12–16: 9 damage; [[Taunted|taunted]] (EoT)
+- 17+: 12 damage; [[Taunted|taunted]] (EoT)

@@ -18,10 +18,10 @@ Distance: Reach 1
 Target: Each adjacent enemy
 
 - ✦ ≤11: 4 damage
-- ★ 12–16: 7 damage; [[Slowed\|slowed]] (EoT)
-- ✸ 17+: 10 damage; [[Slowed\|slowed]] (MGT ends)
+- ★ 12–16: 7 damage; [[Slowed|slowed]] (EoT)
+- ✸ 17+: 10 damage; [[Slowed|slowed]] (MGT ends)
 
-Effect: An ally within 10 squares of the blackguard can make a [[Free Strike\|free strike]].
+Effect: An ally within 10 squares of the blackguard can make a [[Free Strike|free strike]].
 
 - **1 VP:** The ally can use their signature action instead.
 
@@ -68,4 +68,4 @@ Keywords: Area, Magic, Ranged, Weapon
 Distance: 3 cube within 5
 Target: Each enemy in the cube
 
-Effect: The blackguard makes a Zweihander attack against each enemy in the area, making one power roll against all targets. Additionally, each ally within 5 squares of the area can make a [[Free Strike\|free strike]] against any enemy in the area.
+Effect: The blackguard makes a Zweihander attack against each enemy in the area, making one power roll against all targets. Additionally, each ally within 5 squares of the area can make a [[Free Strike|free strike]] against any enemy in the area.

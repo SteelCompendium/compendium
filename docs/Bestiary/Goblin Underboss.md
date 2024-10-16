@@ -20,7 +20,7 @@ Target: One creature or object
 - ★ 12–16: 5 damage
 - ✸ 17+: 6 damage
 
-Effect: One ally of the underboss adjacent to the target can make a [[Free Strike\|free strike]] against them.
+Effect: One ally of the underboss adjacent to the target can make a [[Free Strike|free strike]] against them.
 
 **Get Reckless! (Maneuver)**
 

@@ -17,9 +17,9 @@ Keywords: Attack, Melee, Weapon
 Distance: Reach 2
 Target: One creature
 
-- ✦ ≤11: 5 damage; [[Taunted\|taunted]] (EoT)
-- ★ 12–16: 8 damage; [[Taunted\|taunted]] (EoT)
-- ✸ 17+: 11 damage; [[Taunted\|taunted]] (EoT)
+- ✦ ≤11: 5 damage; [[Taunted|taunted]] (EoT)
+- ★ 12–16: 8 damage; [[Taunted|taunted]] (EoT)
+- ✸ 17+: 11 damage; [[Taunted|taunted]] (EoT)
 
 **Tongue Pull (Maneuver)** ◆ 2 VP
 

@@ -21,7 +21,7 @@ Target: Each creature
 - ★ 12–16: Slide 2
 - ✸ 17+: Slide 3
 
-Effect: The area turns into a morass of spongy flesh before the targets are force moved. Until the start of the torlas’s next turn, the area is [[Difficult Terrain\|difficult terrain]], and each creature who moves within the area takes 1 damage for each square moved.
+Effect: The area turns into a morass of spongy flesh before the targets are force moved. Until the start of the torlas’s next turn, the area is [[Difficult Terrain|difficult terrain]], and each creature who moves within the area takes 1 damage for each square moved.
 
 **Grasping Tendons (Maneuver)**
 

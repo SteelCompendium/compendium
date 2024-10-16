@@ -20,13 +20,13 @@
 
 - ✦ ≤11: 4 damage
 - ★ 12–16: 6 damage
-- ✸ 17+: 9 damage; [[Dazed\|dazed]] (EoT)
+- ✸ 17+: 9 damage; [[Dazed|dazed]] (EoT)
 
-**Effect**: A target who ends their next turn adjacent to the other target falls [[Prone\|prone]].
+**Effect**: A target who ends their next turn adjacent to the other target falls [[Prone|prone]].
 
 **Mindpunk (Action)** ◆ REA RR
 
-- ✸ ≤11: 7 psychic damage; push 2; [[Prone\|prone]] and can’t stand (EoT)
+- ✸ ≤11: 7 psychic damage; push 2; [[Prone|prone]] and can’t stand (EoT)
 - ★ 12–16: 5 psychic damage; push 1
 - ✦ 17+: 2 psychic damage
 

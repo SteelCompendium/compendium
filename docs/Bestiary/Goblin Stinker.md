@@ -27,7 +27,7 @@ Keywords: Area, Magic, Ranged
 Distance: 3 cube within 10
 Target: Special
 
-Effect: The area is filled with a green haze until the start of the stinker’s next turn or until the stinker is reduced to Stamina 0. The area is [[Difficult Terrain\|difficult terrain]] for non-goblin creatures, and each such creature who moves within the area takes 2 poison damage for each square moved. The haze can’t be dispersed by wind.
+Effect: The area is filled with a green haze until the start of the stinker’s next turn or until the stinker is reduced to Stamina 0. The area is [[Difficult Terrain|difficult terrain]] for non-goblin creatures, and each such creature who moves within the area takes 2 poison damage for each square moved. The haze can’t be dispersed by wind.
 
 **Crafty**
 

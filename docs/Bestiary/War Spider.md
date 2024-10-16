@@ -17,8 +17,8 @@ Distance: Reach 1
 Target: One creature or object
 
 - ✦ ≤11: 4 poison damage
-- ★ 12–16: 7 poison damage; [[Weakened\|weakened]] (EoT)
-- ✸ 17+: 10 poison damage; [[Weakened\|weakened]] (MGT ends)
+- ★ 12–16: 7 poison damage; [[Weakened|weakened]] (EoT)
+- ✸ 17+: 10 poison damage; [[Weakened|weakened]] (MGT ends)
 
 **Leg Blade (Action)** ◆ 2d10 + 2
 
@@ -50,7 +50,7 @@ Target: Each creature
 
 **Ride Launcher**
 
-An ally who leaps off the back of the spider can [[Jump\|jump]] up to 6 squares without a test, and takes no damage if they fall during the [[Jump\|jump]]. After the [[Jump\|jump]], the first melee attack an ally makes on the same turn gains an edge.
+An ally who leaps off the back of the spider can [[Jump|jump]] up to 6 squares without a test, and takes no damage if they fall during the [[Jump|jump]]. After the [[Jump|jump]], the first melee attack an ally makes on the same turn gains an edge.
 
 **Wide Back**
 
