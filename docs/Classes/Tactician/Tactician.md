@@ -136,11 +136,11 @@ Your doctrine grants you a triggered action, as shown on the Tactician Triggered
 
 #### Tactician Triggered Actions
 
-| Doctrine   | Triggered Action |
-| ---------- | ---------------- |
-| Vanguard   | [[Parry]]            |
-| Mastermind | [[Overwatch]]        |
-| Insurgent  | [[Flank Them Now!]]  |
+| Doctrine   | Triggered Action    |
+| ---------- | ------------------- |
+| Vanguard   | [[Parry]]           |
+| Mastermind | [[Overwatch]]       |
+| Insurgent  | [[Flank Them Now!]] |
 
 #### Flank Them Now!
 

@@ -1,30 +1,35 @@
 #### WARG
 
-| WARG                       |  **Level 1 Mount** |
-| :------------------------- | -----------------: |
-| *Animal, Goblin*           |          **EV 10** |
-| **Stamina**: 20            |       **Speed**: 7 |
-| **Size**: 1L / Stability 1 | **[[Free Strike]]**: 2 |
+| WARG             |          **Level 1 Mount** |
+| :--------------- | -------------------------: |
+| *Animal, Goblin* |                  **EV 10** |
+| **Stamina**: 20  |              **Weakness**: |
+| **Speed**: 7     | **Size**: 1L / Stability 1 |
+|                  |     **[[Free Strike]]**: 2 |
 
-| **Might** +1 | **Agility** +1 | **Reason** −1 | **Intuition** +0 | **Presence** −1 |
-| ------------ | -------------- | ------------- | ---------------- | --------------- |
-|              |                |               |                  |                 |
+| **Might** +1 | **Agility** +1 | **Reason** -1 | **Intuition** 0 | **Presence** -1 |
+| ------------ | -------------- | ------------- | --------------- | --------------- |
+|              |                |               |                 |                 |
 
-**Bite (Action)** ◆ 2d10 + 1 ◆ Signature
+**Bite (Signature)**
 
-Keywords: Attack, [[Charge]], Melee, Weapon
-Distance: Reach 1
-Target: One creature or object
+|                                             |                                |
+| :------------------------------------------ | :----------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Action                   |
+| Distance: Reach 1                           | Target: One creature or object |
+
+**2d10 + 1**
 
 - ✦ ≤11: 2 damage
 - ★ 12–16: 5 damage
 - ✸ 17+: 6 damage
 
-**Sprint (Maneuver)** ◆ 1 VP
+**Sprint (1 VP)**
 
-Keywords: —
-Distance: Self
-Target: Self
+|                |                |
+| :------------- | :------------- |
+| Keywords: —    | Type: Maneuver |
+| Distance: Self | Target: Self   |
 
 Effect: The warg moves up to their speed.
 

@@ -71,7 +71,7 @@ Your choice of college grants you one or two features, as shown on the 1st-Level
 
 | College         | Feature                    |
 | --------------- | -------------------------- |
-| Black Ash       | Black Ash [[Teleport]]         |
+| Black Ash       | Black Ash [[Teleport]]     |
 | Caustic Alchemy | Coat the Blade, Smoke Bomb |
 | Harlequin Mask  | I'm On Your Side           |
 
@@ -124,8 +124,8 @@ Your college grants you a triggered action, as shown on the Shadow Triggered Act
 
 #### Shadow Triggered Actions
 
-| College         | Triggered Action      |
-| --------------- | --------------------- |
+| College         | Triggered Action          |
+| --------------- | ------------------------- |
 | Black Ash       | [[In All This Confusion]] |
 | Caustic Alchemy | [[Defensive Roll]]        |
 | Harlequin Mask  | [[Misdirection]]          |

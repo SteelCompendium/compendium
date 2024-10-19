@@ -1,30 +1,37 @@
 #### GOBLIN WARRIOR
 
-| GOBLIN WARRIOR             |  **Level 1 Harrier** |
-| :------------------------- | -------------------: |
-| *Goblin, Humanoid*         |            **EV 10** |
-| **Stamina**: 20            | **Speed**: 6 (climb) |
-| **Size**: 1S / Stability 0 |   **[[Free Strike]]**: 2 |
+| GOBLIN WARRIOR       |        **Level 1 Harrier** |
+| :------------------- | -------------------------: |
+| *Goblin, Humanoid*   |                  **EV 10** |
+| **Stamina**: 20      |              **Weakness**: |
+| **Speed**: 6 (climb) | **Size**: 1S / Stability 0 |
+|                      |     **[[Free Strike]]**: 2 |
 
-| **Might** −2 | **Agility** +1 | **Reason** +0 | **Intuition** +0 | **Presence** −1 |
-| ------------ | -------------- | ------------- | ---------------- | --------------- |
-|              |                |               |                  |                 |
+| **Might** -2 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** -1 |
+| ------------ | -------------- | ------------ | --------------- | --------------- |
+|              |                |              |                 |                 |
 
-**Spear (Action)** ◆ 2d10 + 1 ◆ Signature
+**Spear (Signature)**
 
-Keywords: Attack, [[Charge]], Melee, Weapon
-Distance: Reach 1
-Target: One creature or object
+|                                             |                                |
+| :------------------------------------------ | :----------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Action                   |
+| Distance: Reach 1                           | Target: One creature or object |
+
+**2d10 + 1**
 
 - ✦ ≤11: 2 damage
 - ★ 12–16: 5 damage
 - ✸ 17+: 6 damage
 
-**Bury the Point (Action)** ◆ 2d10 + 1 ◆ 2 VP
+**Bury the Point (2 VP)**
 
-Keywords: Attack, Melee, Weapon
-Distance: Reach 1
-Target: One creature
+|                                 |                      |
+| :------------------------------ | :------------------- |
+| Keywords: Attack, Melee, Weapon | Type: Action         |
+| Distance: Reach 1               | Target: One creature |
+
+**2d10 + 1**
 
 - ✦ ≤11: 3 damage
 - ★ 12–16: 7 damage; [[Bleeding|bleeding]] (EoT)

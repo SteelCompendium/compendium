@@ -1,19 +1,24 @@
 #### TIME RAIDER MYRIAD
 
-| [[Time [[Raider]]\|TIME RAIDER]] MYRIAD      |   **Level 3 Brute Minion** |
-| :---------------------- | -------------------------: |
-| *Humanoid, [[Time Raider]]* |                  **EV 10** |
-| **Stamina**: 20         |    **Immunity**: Psychic 3 |
-| **Speed**: 5            | **Size**: 1M / Stability 0 |
-|                         |         **[[Free Strike]]**: 2 |
+| [[Raider]]\[\[Time [[Raider]]\|TIME RAIDER\]\] MYRIAD |   **Level 3 Brute Minion** |
+| :---------------------------------------------------- | -------------------------: |
+| *Humanoid, [[Time Raider]]*                           |                  **EV 10** |
+| **Stamina**: 20                                       |              **Weakness**: |
+| **Speed**: 5                                          | **Size**: 1M / Stability 0 |
+|                                                       |     **[[Free Strike]]**: 2 |
 
-| **Might**: +2                                     | **Agility**: +1                               | **Reason**: +2 | **Presence**: +1 | **Fifth Fist (Action)** ◆ 2d10 + 2 ◆ Signature |
-| ------------------------------------------------- | --------------------------------------------- | -------------- | ---------------- | ---------------------------------------------- |
-|                                                   |                                               |                |                  |                                                |
-|                                                   |                                               |                |                  |                                                |
-| :------------------------------------------------ | :--------------------------------             |                |                  |                                                |
-| **Keywords:** Attack, Melee, Psionic, Weapon      | **Type:**                                     |                |                  |                                                |
-| **Distance:** Reach 2                             | **Target:** One creature or object per minion |                |                  |                                                |
+| **Might** +2 | **Agility** +1 | **Reason** +2 | **Intuition** | **Presence** +1 |
+| ------------ | -------------- | ------------- | ------------- | --------------- |
+|              |                |               |               |                 |
+
+**Fifth Fist (Signature)**
+
+|                                          |                                           |
+| :--------------------------------------- | :---------------------------------------- |
+| Keywords: Attack, Melee, Psionic, Weapon | Type: Action                              |
+| Distance: Reach 2                        | Target: One creature or object per minion |
+
+**2d10 + 2**
 
 - ✦ ≤11: 2 damage; slide 1
 - ★ 12–16: 5 damage; slide 2

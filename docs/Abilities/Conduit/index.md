@@ -1,7 +1,7 @@
 # Conduit Abilities
 
-| Name                  | Kind                | Cost    | Ability Type | Distance        | Target               |
-| --------------------- | ------------------- | ------- | ------------ | --------------- | -------------------- |
+| Name                      | Kind                | Cost    | Ability Type | Distance        | Target               |
+| ------------------------- | ------------------- | ------- | ------------ | --------------- | -------------------- |
 | [[Holy Infusion]]         | triggered actions   |         | Triggered    | Ranged 5        | 1 ally               |
 | [[Divine Disruption]]     | triggered actions   |         | Triggered    | Ranged 5        | 1 enemy              |
 | [[Punishing Smite]]       | 3-piety abilities   | 3 Piety | Action       | Ranged 5        | 1 creature or object |

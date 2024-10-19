@@ -1,37 +1,51 @@
 #### WAR DOG PORTALITE
 
-| WAR DOG PORTALITE          |    **Level 1 Ambusher** |
-| :------------------------- | ----------------------: |
-| *Humanoid, War Dog*        |               **EV 11** |
-| **Stamina**: 20            | **Speed**: 5 ([[Teleport\|teleport]]) |
-| **Size**: 1M / Stability 0 |      **[[Free Strike]]**: 3 |
+| WAR DOG PORTALITE                     |       **Level 1 Ambusher** |
+| :------------------------------------ | -------------------------: |
+| *Humanoid, War Dog*                   |                  **EV 11** |
+| **Stamina**: 20                       |              **Weakness**: |
+| **Speed**: 5 ([[Teleport\|teleport]]) | **Size**: 1M / Stability 0 |
+|                                       |     **[[Free Strike]]**: 3 |
 
-| **Might**: +0 | **Agility**: +1 | **Reason**: +0 | **Intuition**: +0 | **Presence**: +0 |
-| ------------- | --------------- | -------------- | ----------------- | ---------------- |
-|               |                 |                |                   |                  |
+| **Might** 0 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
+| ----------- | -------------- | ------------ | --------------- | -------------- |
+|             |                |              |                 |                |
 
-**Corrupted Ash Daggers (Action)** ◆ 2d10 + 1 ◆ Signature
+**Corrupted Ash Daggers (Signature)**
 
-|                     |                  |
-| :------------------ | :--------------- |
-| **Keywords:** Magic | **Type:**        |
-| **Distance:** Self  | **Target:** Self |
+|                                         |                                |
+| :-------------------------------------- | :----------------------------- |
+| Keywords: Attack, Melee, Ranged, Weapon | Type: Action                   |
+| Distance: Reach 1 or Ranged 5           | Target: One creature or object |
+
+**2d10 + 1**
 
 - ✦ ≤11: 3 damage; slide 1
 - ★ 12–16: 5 damage; slide 2
 - ✸ 17+: 7 damage; slide 3
 
-**Effect**: The power roll gains an edge if any of the portalite’s allies are adjacent to the target.
+Effect: The power roll gains an edge if any of the portalite’s allies are adjacent to the target.
 
-**1 VP**: The portalite [[Teleport|teleports]] the target up to 3 squares before sliding them.
+****1 VP****
+The portalite [[Teleport|teleports]] the target up to 3 squares before sliding them.
 
-**Posthumous Promotion (Maneuver)**
+**Posthumous Promotion**
 
-**Effect**: The target’s loyalty collar detonates, killing them instantly.
+|                         |                                           |
+| :---------------------- | :---------------------------------------- |
+| Keywords: Magic, Ranged | Type: Maneuver                            |
+| Distance: Ranged 10     | Target: One war dog with a loyalty collar |
+
+Effect: The target’s loyalty collar detonates, killing them instantly.
 
 **Corrupted Ash [[Teleport]] (Maneuver) ◆ 1 VP**
 
-**Effect**: The portalite [[Teleport|teleports]] up to 5 squares and gains an edge on attacks this turn.
+|                 |              |
+| :-------------- | :----------- |
+| Keywords: Magic | Type:        |
+| Distance: Self  | Target: Self |
+
+Effect: The portalite [[Teleport|teleports]] up to 5 squares and gains an edge on attacks this turn.
 
 **Loyalty Collar**
 

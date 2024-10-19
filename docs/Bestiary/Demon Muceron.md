@@ -5,27 +5,31 @@
 | *Demon, Planar* |                  **EV 18** |
 | **Stamina**: 45 |       **Weakness**: Holy 3 |
 | **Speed**: 5    | **Size**: 1M / Stability 0 |
-|                 |         **[[Free Strike]]**: 2 |
+|                 |     **[[Free Strike]]**: 2 |
 
-| **Might** +1 | **Agility** +1 | **Reason** +0 | **Intuition** +0 | **Presence** +1 |
-| ------------ | -------------- | ------------- | ---------------- | --------------- |
-|              |                |               |                  |                 |
+| **Might** +1 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
+| ------------ | -------------- | ------------ | --------------- | --------------- |
+|              |                |              |                 |                 |
 
-**Barbed Tongues (Action)** ◆ 2d10 + 1 ◆ Signature
+**Barbed Tongues (Signature)**
 
-Keywords: Attack, Melee, Weapon
-Distance: Reach 2
-Target: One creature
+|                                 |                      |
+| :------------------------------ | :------------------- |
+| Keywords: Attack, Melee, Weapon | Type: Action         |
+| Distance: Reach 2               | Target: One creature |
+
+**2d10 + 1**
 
 - ✦ ≤11: 5 damage; [[Taunted|taunted]] (EoT)
 - ★ 12–16: 8 damage; [[Taunted|taunted]] (EoT)
 - ✸ 17+: 11 damage; [[Taunted|taunted]] (EoT)
 
-**Tongue Pull (Maneuver)** ◆ 2 VP
+**Tongue Pull (2 VP)**
 
-Keywords: Attack, Ranged, Weapon
-Distance: Ranged 5
-Target: Three creatures
+|                                  |                         |
+| :------------------------------- | :---------------------- |
+| Keywords: Attack, Ranged, Weapon | Type: Maneuver          |
+| Distance: Ranged 5               | Target: Three creatures |
 
 Effect: Each target is pulled 3 squares.
 

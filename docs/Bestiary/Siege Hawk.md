@@ -1,20 +1,24 @@
 #### SIEGE HAWK
 
-| SIEGE HAWK                |     **Level 1 Mount** |
-| :------------------------ | --------------------: |
-| *Animal*                  |             **EV 28** |
-| **Stamina**: 60           | **Speed**: 7 (flying) |
-| **Size**: 3 / Stability 0 |    **[[Free Strike]]**: 4 |
+| SIEGE HAWK            |         **Level 1 Mount** |
+| :-------------------- | ------------------------: |
+| *Animal*              |                 **EV 28** |
+| **Stamina**: 60       |             **Weakness**: |
+| **Speed**: 7 (flying) | **Size**: 3 / Stability 0 |
+|                       |    **[[Free Strike]]**: 4 |
 
-| **Might** +1 | **Agility** +1 | **Reason** −3 | **Intuition** +0 | **Presence** −2 |
-| ------------ | -------------- | ------------- | ---------------- | --------------- |
-|              |                |               |                  |                 |
+| **Might** +1 | **Agility** +1 | **Reason** -3 | **Intuition** 0 | **Presence** -2 |
+| ------------ | -------------- | ------------- | --------------- | --------------- |
+|              |                |               |                 |                 |
 
-**Talons (Action)** ◆ 2d10 + 1 ◆ Signature
+**Talons (Signature)**
 
-Keywords: Attack, Melee, Weapon
-Distance: Reach 1
-Target: Two creatures or objects
+|                                 |                                  |
+| :------------------------------ | :------------------------------- |
+| Keywords: Attack, Melee, Weapon | Type: Action                     |
+| Distance: Reach 1               | Target: Two creatures or objects |
+
+**2d10 + 1**
 
 - ✦ ≤11: 4 damage
 - ★ 12–16: 7 damage
@@ -22,20 +26,27 @@ Target: Two creatures or objects
 
 Effect: The target is [[Grabbed|grabbed]] by the siege hawk. The siege hawk can have two targets [[Grabbed|grabbed]] at a time.
 
-**Bombs Away! (Action)** ◆ AGL RR ◆ 7 VP
+**Bombs Away! (7 VP)**
 
-Keywords: Area, Magic, Ranged, Resistance
-Distance: 5 cube within 10
-Target: Each creature and object
+|                                           |                                  |
+| :---------------------------------------- | :------------------------------- |
+| Keywords: Area, Magic, Ranged, Resistance | Type: Action                     |
+| Distance: 5 cube within 10                | Target: Each creature and object |
 
-- ✸ ≤11: 7 fire damage; [[Restrained|restrained]] (EoT)
+**AGL RR**
+
+- ✦ ≤11: 7 fire damage; [[Restrained|restrained]] (EoT)
 - ★ 12–16: 6 fire damage; [[Slowed|slowed]] (EoT)
-- ✦ 17+: 3 fire damage
-  Special: The siege hawk must be flying to use this ability.
+- ✸ 17+: 3 fire damage
 
-**Dive (Maneuver)**
+**Special**
+The siege hawk must be flying to use this ability.
 
-The hawk moves up to their speed.
+**Dive**
+
+|           |                |
+| :-------- | :------------- |
+| Keywords: | Type: Maneuver |
 
 **Mounted Platform**
 

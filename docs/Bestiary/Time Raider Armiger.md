@@ -1,33 +1,40 @@
 #### TIME RAIDER ARMIGER
 
-| [[Time [[Raider]]\|TIME RAIDER]] ARMIGER     |       **Level 3 Defender** |
-| :---------------------- | -------------------------: |
-| *Humanoid, [[Time Raider]]* |                  **EV 21** |
-| **Stamina**: 60         |    **Immunity**: Psychic 5 |
-| **Speed**: 5            | **Size**: 1M / Stability 0 |
-|                         |         **[[Free Strike]]**: 5 |
+| [[Raider]]\[\[Time [[Raider]]\|TIME RAIDER\]\] ARMIGER |       **Level 3 Defender** |
+| :----------------------------------------------------- | -------------------------: |
+| *Humanoid, [[Time Raider]]*                            |                  **EV 21** |
+| **Stamina**: 60                                        |              **Weakness**: |
+| **Speed**: 5                                           | **Size**: 1M / Stability 0 |
+|                                                        |     **[[Free Strike]]**: 5 |
 
-| **Might**: +0                                  | **Agility**: +2                   | **Reason**: +2 | **Presence**: +0 | **Serrated Saber (Action)** ◆ 2d10 + 2 ◆ Signature |
-| ---------------------------------------------- | --------------------------------- | -------------- | ---------------- | -------------------------------------------------- |
-|                                                |                                   |                |                  |                                                    |
-|                                                |                                   |                |                  |                                                    |
-| :--------------------------------------------- | :-------------------------------- |                |                  |                                                    |
-| **Keywords:** Psionic, Ranged, Resistance      | **Type:**                         |                |                  |                                                    |
-| **Distance:** Ranged 20                        | **Target:** Triggering creature   |                |                  |                                                    |
+| **Might** 0 | **Agility** +2 | **Reason** +2 | **Intuition** | **Presence** 0 |
+| ----------- | -------------- | ------------- | ------------- | -------------- |
+|             |                |               |               |                |
+
+**Serrated Saber (Signature)**
+
+|                                          |                                |
+| :--------------------------------------- | :----------------------------- |
+| Keywords: Attack, Melee, Psionic, Weapon | Type: Action                   |
+| Distance: Reach 1                        | Target: One creature or object |
+
+**2d10 + 2**
 
 - ✦ ≤11: 5 damage
 - ★ 12–16: 8 damage; [[Weakened|weakened]] (EoT)
 - ✸ 17+: 11 damage; [[Weakened|weakened]] (REA ends)
 
-**Effect**: The target takes a bane on the next attack they make before the start of the armiger’s next turn.
+Effect: The target takes a bane on the next attack they make before the start of the armiger’s next turn.
 
-**Shared Sickness (Triggered Action)** ◆ REA RR
+**Shared Sickness (REA RR)**
 
-**Trigger**: A creature deals damage to any ally of the armiger to whom the armiger has line of effect.
+|                                       |                             |
+| :------------------------------------ | :-------------------------- |
+| Keywords: Psionic, Ranged, Resistance | Type: Triggered Action      |
+| Distance: Ranged 20                   | Target: Triggering creature |
 
-- ✸ ≤11: 11 poison damage
-- ★ 12–16: 8 poison damage
-- ✦ 17+: 5 poison damage
+****Trigger****
+A creature deals damage to any ally of the armiger to whom the armiger has line of effect.
 
 **Foresight**
 

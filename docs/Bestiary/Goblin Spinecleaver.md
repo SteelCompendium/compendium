@@ -1,20 +1,24 @@
 #### GOBLIN SPINECLEAVER
 
-| GOBLIN SPINECLEAVER        | **Level 1 Brute Minion** |
-| :------------------------- | -----------------------: |
-| *Goblin, Humanoid*         |                 **EV 6** |
-| **Stamina**: 10            |     **Speed**: 5 (climb) |
-| **Size**: 1S / Stability 0 |       **[[Free Strike]]**: 2 |
+| GOBLIN SPINECLEAVER  |   **Level 1 Brute Minion** |
+| :------------------- | -------------------------: |
+| *Goblin, Humanoid*   |                   **EV 6** |
+| **Stamina**: 10      |              **Weakness**: |
+| **Speed**: 5 (climb) | **Size**: 1S / Stability 0 |
+|                      |     **[[Free Strike]]**: 2 |
 
-| **Might** +1 | **Agility** +0 | **Reason** +0 | **Intuition** +0 | **Presence** −1 |
-| ------------ | -------------- | ------------- | ---------------- | --------------- |
-|              |                |               |                  |                 |
+| **Might** +1 | **Agility** 0 | **Reason** 0 | **Intuition** 0 | **Presence** -1 |
+| ------------ | ------------- | ------------ | --------------- | --------------- |
+|              |               |              |                 |                 |
 
-**Axe (Action)** ◆ 2d10 + 1 ◆ Signature
+**Axe (Signature)**
 
-Keywords: Attack, Melee, Weapon
-Distance: Reach 1
-Target: One creature or object per minion
+|                                 |                                           |
+| :------------------------------ | :---------------------------------------- |
+| Keywords: Attack, Melee, Weapon | Type: Action                              |
+| Distance: Reach 1               | Target: One creature or object per minion |
+
+**2d10 + 1**
 
 - ✦ ≤11: 2 damage; push 1
 - ★ 12–16: 4 damage; push 3

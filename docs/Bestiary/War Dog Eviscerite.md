@@ -1,31 +1,39 @@
 #### WAR DOG EVISCERITE
 
-| WAR DOG EVISCERITE         | **Level 1 Harrier** |
-| :------------------------- | ------------------: |
-| *Humanoid, War Dog*        |           **EV 10** |
-| **Stamina**: 20            |        **Speed**: 7 |
-| **Size**: 1M / Stability 0 |  **[[Free Strike]]**: 3 |
+| WAR DOG EVISCERITE  |        **Level 1 Harrier** |
+| :------------------ | -------------------------: |
+| *Humanoid, War Dog* |                  **EV 10** |
+| **Stamina**: 20     |              **Weakness**: |
+| **Speed**: 7        | **Size**: 1M / Stability 0 |
+|                     |     **[[Free Strike]]**: 3 |
 
-| **Might**: +1 | **Agility**: +1 | **Reason**: +0 | **Intuition**: +0 | **Presence**: +0 |
-| ------------- | --------------- | -------------- | ----------------- | ---------------- |
-|               |                 |                |                   |                  |
+| **Might** +1 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
+| ------------ | -------------- | ------------ | --------------- | -------------- |
+|              |                |              |                 |                |
 
-**Chainsaw Whip (Action)** ◆ 2d10 + 1 ◆ Signature
+**Chainsaw Whip (Signature)**
 
-|                             |                                               |
-| :-------------------------- | :-------------------------------------------- |
-| **Keywords:** Magic, Ranged | **Type:**                                     |
-| **Distance:** Ranged 10     | **Target:** One war dog with a loyalty collar |
+|                                 |                                |
+| :------------------------------ | :----------------------------- |
+| Keywords: Attack, Melee, Weapon | Type: Action                   |
+| Distance: Reach 3               | Target: One creature or object |
+
+**2d10 + 1**
 
 - ✦ ≤11: 3 damage
 - ★ 12–16: 5 damage; pull 1
 - ✸ 17+: 7 damage; pull 2
 
-**Effect**: The eviscerite can [[Grab|grab]] a target pulled adjacent to them by this ability.
+Effect: The eviscerite can [[Grab|grab]] a target pulled adjacent to them by this ability.
 
-**Posthumous Promotion (Maneuver)**
+**Posthumous Promotion**
 
-**Effect**: The target’s loyalty collar detonates, killing them instantly.
+|                         |                                           |
+| :---------------------- | :---------------------------------------- |
+| Keywords: Magic, Ranged | Type: Maneuver                            |
+| Distance: Ranged 10     | Target: One war dog with a loyalty collar |
+
+Effect: The target’s loyalty collar detonates, killing them instantly.
 
 **Loyalty Collar**
 

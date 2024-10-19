@@ -172,9 +172,9 @@ Your primordial aspect grants you a triggered action, as shown on the Fury Trigg
 
 | **Aspect** | **Triggered Action** |
 | ---------- | -------------------- |
-| Berserker  | [[Relentless Toss]]      |
-| Reaver     | [[Uncanny Dodge]]        |
-| Stormwight | [[Regeneration]]         |
+| Berserker  | [[Relentless Toss]]  |
+| Reaver     | [[Uncanny Dodge]]    |
+| Stormwight | [[Regeneration]]     |
 
 #### Regeneration
 
