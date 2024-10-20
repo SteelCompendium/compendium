@@ -1,11 +1,3 @@
----
-title_raw: Goblin Villain Power
-title: Goblin Villain Power
-name_raw: Goblin Villain Power
-name: Goblin Villain Power
-type: .
----
-
 # Goblin Villain Power
 
 At the start of any goblin's turn, you can spend VP to activate one of the following features.

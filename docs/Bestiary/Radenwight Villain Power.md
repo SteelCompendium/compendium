@@ -1,11 +1,3 @@
----
-title_raw: Radenwight Villain Power
-title: Radenwight Villain Power
-name_raw: Radenwight Villain Power
-name: Radenwight Villain Power
-type: .
----
-
 # Radenwight Villain Power
 
 At the start of any radenwight's turn, you can spend VP to activate one of the following features.

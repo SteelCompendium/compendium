@@ -1,11 +1,3 @@
----
-title_raw: War Dog Villain Power
-title: War Dog Villain Power
-name_raw: War Dog Villain Power
-name: War Dog Villain Power
-type: .
----
-
 # War Dog Villain Power
 
 At the start of any war dog's turn, you can spend VP to activate one of the following features:

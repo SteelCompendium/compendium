@@ -1,11 +1,3 @@
----
-title_raw: Human Villain Power
-title: Human Villain Power
-name_raw: Human Villain Power
-name: Human Villain Power
-type: .
----
-
 # Human Villain Power
 
 At the start of any [[Human|human]]'s turn, you can spend VP to activate one of the following features:

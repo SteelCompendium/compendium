@@ -1,11 +1,3 @@
----
-title_raw: Demon Villain Power
-title: Demon Villain Power
-name_raw: Demon Villain Power
-name: Demon Villain Power
-type: .
----
-
 # Demon Villain Power
 
 At the start of any demon's turn, you can spend VP to activate one of the following features.
