@@ -46,7 +46,7 @@ Those great humans, your ancestors, did not focus on differences. They did not w
 
 The people who stand against Ajax and tyrants like him will be just like you—normal people. Priests and scholars and merchants and farmers. Maybe even teachers.
 
-Stopping Ajax will require you to become something else. You must become heroes. Conduits of saints, warmasters of great armies. Censors and shadows. That may seem unlikely now, but the future has a way of surprising us.
+Stopping Ajax will require you to become something else. You must become heroes. [[Conduit|Conduits]] of saints, warmasters of great armies. Censors and [[Shadow|shadows]]. That may seem unlikely now, but the future has a way of surprising us.
 
 Some of your names, I will see written in future textbooks.
 

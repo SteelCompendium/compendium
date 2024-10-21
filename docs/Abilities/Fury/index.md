@@ -1,7 +1,7 @@
 # Fury Abilities
 
-| Name                                       | Kind                | Cost   | Ability Type  | Distance            | Target                             |
-| ------------------------------------------ | ------------------- | ------ | ------------- | ------------------- | ---------------------------------- |
+| Name                                           | Kind                | Cost   | Ability Type  | Distance            | Target                             |
+| ---------------------------------------------- | ------------------- | ------ | ------------- | ------------------- | ---------------------------------- |
 | [[Relentless Toss]]                            | triggered actions   |        | Triggered     | Self or reach       | Self or 1 creature                 |
 | [[Uncanny Dodge]]                              | triggered actions   |        | Triggered     | Reach 1             | Self                               |
 | [[Regeneration]]                               | triggered actions   |        | Triggered     | Self                | Self                               |

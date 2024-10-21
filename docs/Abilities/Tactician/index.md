@@ -1,7 +1,7 @@
 # Tactician Abilities
 
-| Name                           | Kind              | Cost    | Ability Type | Distance            | Target               |
-| ------------------------------ | ----------------- | ------- | ------------ | ------------------- | -------------------- |
+| Name                               | Kind              | Cost    | Ability Type | Distance            | Target               |
+| ---------------------------------- | ----------------- | ------- | ------------ | ------------------- | -------------------- |
 | [[Parry]]                          | triggered actions |         | Triggered    | Self or Reach 1     | Self or 1 ally       |
 | [[Overwatch]]                      | triggered actions |         | Triggered    | Ranged 10           | 1 enemy              |
 | [[Flank Them Now!]]                | triggered actions |         | Triggered    | Self or Ranged 10   | You or an ally       |

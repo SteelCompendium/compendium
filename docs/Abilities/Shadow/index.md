@@ -1,7 +1,7 @@
 # Shadow Abilities
 
-| Name                  | Kind                | Cost      | Ability Type | Distance            | Target                 |
-| --------------------- | ------------------- | --------- | ------------ | ------------------- | ---------------------- |
+| Name                      | Kind                | Cost      | Ability Type | Distance            | Target                 |
+| ------------------------- | ------------------- | --------- | ------------ | ------------------- | ---------------------- |
 | [[Wounding Strike]]       | 3-insight abilities | 3 Insight | Action       | Reach 1 or Ranged 3 | 1 creature             |
 | [[Two Throats At Once]]   | 3-insight abilities | 3 Insight | Action       | Reach 1 or Ranged 5 | 2 creatures or objects |
 | [[Blade Dance]]           | 3-insight abilities | 3 Insight | Action       | Self                | Self                   |

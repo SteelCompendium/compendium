@@ -118,4 +118,4 @@ When you force move a creature or object, you can increase the distance moved by
 
 ### Undaunted
 
-You can't be weakened. Additionally, when your Stamina equals the negative of your winded value, you turn to rubble instead of dying. You are unaware of your surroundings in this state. After 12 hours, you regain Stamina equal to your recovery value.
+You can't be [[Weakened|weakened]]. Additionally, when your Stamina equals the negative of your winded value, you turn to rubble instead of dying. You are unaware of your surroundings in this state. After 12 hours, you regain Stamina equal to your recovery value.

@@ -24,13 +24,13 @@ There aren't many of the great dragons left, alas, so we must … I mean, dwarve
 
 Dwarves take the long view. Well, so do elves, but elves seem more interested in preserving things. Dwarves want to make things! Improve the world! “The world is fine the way it is …” Shut up! No it's not! The world is full of pain, misery, injustice. We cannot make a perfect world, but we can strive to improve the one we've got!
 
-Anyway. [[Human|Humans]] make too much of this so-called rivalry between dwarves and elves. Yes, it was an elf army that slew the last steel dwarves in the War Against Night, but that was tens of thousands of years ago. And anyway, those were the shadow elves, long banished to the World Below. And none now live who remember those days.
+Anyway. [[Human|Humans]] make too much of this so-called rivalry between dwarves and elves. Yes, it was an elf army that slew the last steel dwarves in the War Against Night, but that was tens of thousands of years ago. And anyway, those were the [[Shadow|shadow]] elves, long banished to the World Below. And none now live who remember those days.
 
 The steel dwarves—the greatest of us—are dead now, and our cousins the fire dwarves left this world for Quintessence long ago. There they built Alloy, the City of Brass, the City at the Center of the Timescape. A marvel! Not so large as Capital, perhaps, but not so … fragrant either.
 
 It is left to us, the stone dwarves, the Last Children of Ord, to work stone, create great marvels with it. Our greatest days are not behind us! Who speaks thus?! Have we not been to the Hanging City of Kal Kalavar together? Will you ever forget that place? I will not should I live to be a thousand, and neither will you. And it was finished in my lifetime. Only three hundred years ago! It's brand new!
 
-Elven rivalry. Pagh! Did we not name the most precious metal in the earth “valiar” after their god Val? Val is a noble god, a worthy patron of the elves. He seeks justice and glory in his own way, we deem. Were one to choose the path of the conduit, you could pick worse gods than Val to serve.
+Elven rivalry. Pagh! Did we not name the most precious metal in the earth “valiar” after their god Val? Val is a noble god, a worthy patron of the elves. He seeks justice and glory in his own way, we deem. Were one to choose the path of the [[Conduit|conduit]], you could pick worse gods than Val to serve.
 
 It is the [[Human|humans]] who make so much of rivalries between the ancestries. It was the [[Human|humans]] who called us “dwarves.” We do not know the significance of this word in their tongue, but we accept it. Their speech is crude, true, but they are a young species after all. We must not judge them too harshly. “Elemental” would be a faithful translation of our word for ourselves into the Caelian tongue.
 
@@ -40,7 +40,7 @@ Look you again at the Hanging City. Yes, your eyes well with tears from the magn
 
 Some say the greatest ages of the world are behind us, but this is not so. Not so. While there is yet will in the world, there is greatness. You will see. The elves, the [[Orc|orcs]]. [[Human|Humans]] and dwarves. All the speaking peoples have wonder in them yet. Our greatest days are ahead. Did not Ord make the world?
 
-None of us ask to come into this world, and apart from the [[Hakaan]], none of us know how we will leave it. But remember, you are a dwarf. You have it in you to work marvels. To change the world, be you a holy conduit of Valak-koth the Peacebringer, one of the talented Mind Masters of the White Gem, a beastheart of the Darkdivers seeking through the World Below for deep knowledge, or a master tactician of the Imperial War College in Capital. You will make a better world.
+None of us ask to come into this world, and apart from the [[Hakaan]], none of us know how we will leave it. But remember, you are a dwarf. You have it in you to work marvels. To change the world, be you a holy [[Conduit|conduit]] of Valak-koth the Peacebringer, one of the talented Mind Masters of the White Gem, a beastheart of the Darkdivers seeking through the World Below for deep knowledge, or a master [[Tactician|tactician]] of the Imperial War College in Capital. You will make a better world.
 
 You are young yet, but already those who work evil deeds should fear you. You are a dwarf. You have a great destiny ahead.
 

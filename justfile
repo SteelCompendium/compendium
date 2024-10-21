@@ -4,27 +4,12 @@ update push="true":
 
 	dir="$(mktemp -d)"
 	echo >&2 "[INFO] Grabbing compendium markdown..."
-	git clone git@github.com:SteelCompendium/draw-steel-compendium.git "$dir"
+	git clone git@github.com:SteelCompendium/data-md.git "$dir"
 	(
 		compendium_dir="$(pwd)"
 		cd "$dir"
 		echo >&2 "[INFO] Copying compendium markdown to website docs..."
-		cp -R *.md "${compendium_dir}/docs"
-		cp -R Rules "${compendium_dir}/docs"
-		cp -R Adventures "${compendium_dir}/docs"
-		cp -R Abilities "${compendium_dir}/docs"
-		cp -R Ancestries "${compendium_dir}/docs"
-		cp -R Bestiary/markdown "${compendium_dir}/docs/Bestiary"
-		cp -R Kits "${compendium_dir}/docs"
-		cp -R Careers "${compendium_dir}/docs"
-		cp -R Cultures "${compendium_dir}/docs"
-		cp -R Skills "${compendium_dir}/docs"
-		cp -R Conditions "${compendium_dir}/docs"
-		cp -R Movement "${compendium_dir}/docs"
-		cp -R Negotiation "${compendium_dir}/docs"
-		cp -R Media "${compendium_dir}/docs"
-
-		rm "${compendium_dir}/docs/README.md" || true
+		cp -R * "${compendium_dir}/docs"
 
 		sha="$(git rev-parse --short HEAD)"
 		echo >&2 "[INFO] Committing and pushing updates..."
