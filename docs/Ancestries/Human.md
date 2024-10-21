@@ -42,7 +42,7 @@ Each of these great evils was defeated by a coalition. The armies and heroes of 
 
 Is there some rare trait that makes you uniquely qualified to lead disparate peoples, bring them together to achieve great things? I think… there must be.
 
-Those great humans, your ancestors, did not focus on differences. They did not weigh different people and grade them based on arbitrary traits deemed virtues and flaws. That is what Ajax does. No, those humans focused on the future. On making a better world… for all of us. A world many of them knew they would not live to see. That is a sacrifice… I can scarcely imagine.
+Those great humans, your ancestors, did not [[Focus|focus]] on differences. They did not weigh different people and grade them based on arbitrary traits deemed virtues and flaws. That is what Ajax does. No, those humans focused on the future. On making a better world… for all of us. A world many of them knew they would not live to see. That is a sacrifice… I can scarcely imagine.
 
 The people who stand against Ajax and tyrants like him will be just like you—normal people. Priests and scholars and merchants and farmers. Maybe even teachers.
 

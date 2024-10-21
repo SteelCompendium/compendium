@@ -18,7 +18,7 @@ target: 1 creature
 
 # Sucker Slice
 
-Keeping an enemy's focus on you lets your ally hit hard.
+Keeping an enemy's [[Focus|focus]] on you lets your ally hit hard.
 
 |                                     |                        |
 | :---------------------------------- | :--------------------- |

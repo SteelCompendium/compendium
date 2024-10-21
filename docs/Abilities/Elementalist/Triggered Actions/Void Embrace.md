@@ -30,4 +30,4 @@ You call on the void to swallow and spit out an ally.
 
 **Effect**: At any point during the move, you [[Teleport|teleport]] the target a number of squares equal to your Reason.
 
-**Spend 1 Essence**: You [[Teleport|teleport]] the target a number of squares equal to twice your Reason score instead.
+**Spend 1 [[Essence]]**: You [[Teleport|teleport]] the target a number of squares equal to twice your Reason score instead.

@@ -55,7 +55,7 @@ Effect: The ally becomes the target of the triggering attack instead.
 
 Effect: Each target can move up to their speed or make a [[Free Strike|free strike]].
 
-**Focus Fire**
+**[[Focus]] Fire**
 
 |                     |                        |
 | :------------------ | :--------------------- |

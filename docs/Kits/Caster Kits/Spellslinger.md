@@ -17,7 +17,7 @@ target: 2 creatures or objects
 
 # Spellslinger
 
-The Spellslinger kit is for those who want to focus magic on their foes from far away, becoming a magical blaster surrounded by rippling energy. While using this kit, you can faintly see auras of energy emanating from far-off creatures.
+The Spellslinger kit is for those who want to [[Focus|focus]] magic on their foes from far away, becoming a magical blaster surrounded by rippling energy. While using this kit, you can faintly see auras of energy emanating from far-off creatures.
 
 ## Equipment
 

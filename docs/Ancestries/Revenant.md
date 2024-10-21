@@ -74,7 +74,7 @@ The gray-skinned knight walked into the room. Metal heels rang out on the wooden
 
 “How did you … this is impossible, how did you find us?”
 
-She looked at the man groaning on the floor. “Your boss didn't tell you about the vengeance mark?”
+She looked at the man groaning on the floor. “Your boss didn't tell you about the vengeance [[Mark|mark]]?”
 
 “You marked us. Back in Capital. You marked one of us and just … just walked here.”
 
@@ -82,7 +82,7 @@ She looked at the man groaning on the floor. “Your boss didn't tell you about 
 
 “Come on.” The braver of the three remaining thieves drew twin daggers. “She can't get all of us at—”
 
-Lady Filliamo made a broad gesture with her right hand and argent marks flared across the foreheads of all three thieves. A clatter of weapons hitting the floor. Three pairs of hands slowly rose in the air.
+Lady Filliamo made a broad gesture with her right hand and argent [[Mark|marks]] flared across the foreheads of all three thieves. A clatter of weapons hitting the floor. Three pairs of hands slowly rose in the air.
 
 “Good boys. Here, put these on.” She tossed three pairs of manacles on the floor.
 

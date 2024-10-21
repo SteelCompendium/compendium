@@ -304,7 +304,7 @@ round.
 ## ENCOUNTER BUILDING
 
 We’re still working on these guidelines, and need to add information about how environment, party composition, and the
-like affect encounters. But for this playtest, the basics of encounter building are as follows.
+like affect encounters. But for this playtest, the [[Basics|basics]] of encounter building are as follows.
 
 ### STEP 1: CHOOSE ENCOUNTER DIFFICULTY
 
@@ -1280,7 +1280,7 @@ Distance: 10 burst
 Target: Each ally
 Effect: Each target can move up to their speed or make a [[Free Strike|free strike]].
 
-**Focus Fire (Villain Action 2)**
+**[[Focus]] Fire (Villain Action 2)**
 Keywords: Ranged
 Distance: Ranged 10
 Target: One enemy
@@ -1412,7 +1412,7 @@ With an appetite for warfare and gold, [[Human|human]] adventurers are well repr
 
 Most [[Human|humans]] have the following trait:
 
-- **Supernatural Insight:** A [[Human|human]] has Magic immunity 2 and Psionic immunity 2. As a maneuver, a [[Human|human]] can detect supernatural creatures within 5 squares of them.
+- **Supernatural [[Insight]]:** A [[Human|human]] has Magic immunity 2 and Psionic immunity 2. As a maneuver, a [[Human|human]] can detect supernatural creatures within 5 squares of them.
 
 ### HUMAN LANGUAGES
 
