@@ -37,10 +37,10 @@ Effect: Each target is psionically lifted into the air and can [[Fly|fly]] up to
 
 **Precog Reflexes**
 
-|                           |                        |
-| :------------------------ | :--------------------- |
-| Keywords: Psionic, Ranged | Type: Triggered Action |
-| Distance: Ranged 10       | Target: One creature   |
+|                           |                            |
+| :------------------------ | :------------------------- |
+| Keywords: Psionic, Ranged | Type: [[Triggered Action]] |
+| Distance: Ranged 10       | Target: One creature       |
 
 ****Trigger****
 The target attacks the tyrannis.

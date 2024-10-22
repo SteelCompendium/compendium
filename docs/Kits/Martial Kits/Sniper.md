@@ -28,7 +28,7 @@ You wear no armor and wield a bow.
 - Speed Bonus: +1
 - Ranged Weapon Damage Bonus: +0/+0/+4
 - Weapon Distance Bonus: +10
-- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ## Signature Ability
 

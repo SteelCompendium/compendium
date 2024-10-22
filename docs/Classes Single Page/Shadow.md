@@ -32,11 +32,11 @@ As a shadow, you have abilities that deal a lot of damage, let you move swiftly 
 
 ### Shadow Advancement
 
-| Level | Features                                                                                                             | Abilities                       |
-| ----- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| 1st   | [[Shadow College]], [[Insight]], College Feature, College Triggered Action, Hesitation is Weakness, Shadow Abilities | Signature, 3, 5                 |
-| 2nd   | College Feature, College Ability                                                                                     | Signature, 3, 5, 5 (College)    |
-| 3rd   | Assess and Aim, 7-[[Insight]] Ability                                                                                | Signature, 3, 5, 5 (College), 7 |
+| Level | Features                                                                                                                                                 | Abilities                       |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| 1st   | [[Shadow College]], [[Insight]], College Feature, [[College Triggered Action]], [[Hesitation Is Weakness\|Hesitation is Weakness]], [[Shadow Abilities]] | Signature, 3, 5                 |
+| 2nd   | College Feature, College Ability                                                                                                                         | Signature, 3, 5, 5 (College)    |
+| 3rd   | Assess and Aim, 7-[[Insight]] Ability                                                                                                                    | Signature, 3, 5, 5 (College), 7 |
 
 ## 1st-level Features
 
@@ -119,11 +119,11 @@ You always carry a supply of [[Smoke Bomb|smoke bombs]] to make it easy for you 
 
 ### College Triggered Action
 
-Your college grants you a triggered action, as shown on the [[Shadow Triggered Actions]] table.
+Your college grants you a [[Triggered Action|triggered action]], as shown on the [[Shadow Triggered Actions]] table.
 
 #### Shadow Triggered Actions
 
-| College         | Triggered Action          |
+| College         | [[Triggered Action]]      |
 | --------------- | ------------------------- |
 | Black Ash       | [[In All This Confusion]] |
 | Caustic Alchemy | [[Defensive Roll]]        |
@@ -175,7 +175,7 @@ You specialize in dealing damage, then getting out of harm's way before the inev
 
 #### Signature Ability
 
-Select one signature ability from the options below. Signature abilities can be used at will.
+Select one [[Signature Ability|signature ability]] from the options below. Signature abilities can be used at will.
 
 ##### Distracting Pain
 

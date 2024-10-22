@@ -10,8 +10,8 @@ kind: 1st-level features
 
 # Fury Triggered Actions
 
-| **Aspect** | **Triggered Action** |
-| ---------- | -------------------- |
-| Berserker  | [[Relentless Toss]]  |
-| Reaver     | [[Uncanny Dodge]]    |
-| Stormwight | [[Regeneration]]     |
+| **Aspect** | **[[Triggered Action]]** |
+| ---------- | ------------------------ |
+| Berserker  | [[Relentless Toss]]      |
+| Reaver     | [[Uncanny Dodge]]        |
+| Stormwight | [[Regeneration]]         |

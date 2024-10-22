@@ -53,7 +53,7 @@ Every creature has a signature action, which is the first action that appears in
 
 ### TRAITS
 
-Many creatures have traits, which are features that don’t require an action, maneuver, or triggered action to
+Many creatures have traits, which are features that don’t require an action, maneuver, or [[Triggered Action|triggered action]] to
 activate,such as the [[Goblin Monarch|goblin monarch]]’s Crafty trait.
 
 ### VILLAIN POWER ABILITIES
@@ -250,7 +250,7 @@ Like all creatures, an individual minion—or all the minions in a squad—can e
 Minion turns are meant to be short. On their turn, each minion can take only a move action and
 an action, a move action and a maneuver, or two move actions.
 
-Minions can make opportunity attacks, but they typically don’t have bespoke triggered actions, keeping them easy to run.
+Minions can make opportunity attacks, but they typically don’t have bespoke [[Triggered Action|triggered actions]], keeping them easy to run.
 
 #### SQUAD ACTION
 
@@ -848,7 +848,7 @@ Distance: 10 burst
 Target: Each enemy
 Effect: Each target slides 3, ignoring their stability.
 
-**I Thrive on Pain (Triggered Action)** ◆ 3 VP
+**I Thrive on Pain ([[Triggered Action]])** ◆ 3 VP
 Keywords: Magic
 Distance: Self
 Target: Self
@@ -1261,7 +1261,7 @@ Distance: Ranged 20
 Target: Special
 Effect: Two [[Goblin Runner|goblin runners]] appear in unoccupied spaces.
 
-**Meat Shield (Triggered Action)**
+**Meat Shield ([[Triggered Action]])**
 Keywords: Melee
 Distance: Reach 1
 Target: One ally
@@ -1725,7 +1725,7 @@ Target: One creature or object
 - ✦ ≤11: 4 damage; [[Taunted|taunted]] (EoT)
 - ★ 12–16: 7 damage; [[Taunted|taunted]] (EoT)
 - ✸ 17+: 10 damage; [[Taunted|taunted]] (EoT)
-  Effect: If an adjacent target [[Taunted|taunted]] by this ability harms a creature other than the knave, the knave can make a [[Free Strike|free strike]] against the [[Taunted|taunted]] creature as a free triggered action.
+  Effect: If an adjacent target [[Taunted|taunted]] by this ability harms a creature other than the knave, the knave can make a [[Free Strike|free strike]] against the [[Taunted|taunted]] creature as a free [[Triggered Action|triggered action]].
 
 **Overwhelm**
 A creature who starts their turn adjacent to the knave can’t shift.
@@ -1807,7 +1807,7 @@ Effect: The target is marked until the start of the blackguard’s next turn. Th
 **End Effect**
 At the end of their turn, the blackguard can take 5 damage to end one EoE effect affecting them. This damage can’t be reduced in any way.
 
-**[[Parry]]! (Triggered Action)**
+**[[Parry]]! ([[Triggered Action]])**
 Keywords: Melee, Weapon
 Distance: Reach 1
 Target: Self or one ally
@@ -1870,7 +1870,7 @@ Target: One enemy or object
 - ✸ 17+: Push 3; [[Prone|prone]]
 - **2 VP:** This ability targets each enemy adjacent to the bandit chief.
 
-**Bloodstones (Triggered Action)**
+**Bloodstones ([[Triggered Action]])**
 Keywords: Magic
 Distance: Self
 Target: Self
@@ -2045,7 +2045,7 @@ Target: One creature per minion
 - ✸ 17+: 6 damage
   Effect: If the mischiever is hidden when they use this ability, they can target two creatures.
 
-**Ready Rodent (Triggered Action)**
+**Ready Rodent ([[Triggered Action]])**
 Keywords: Melee, Weapon
 Distance: Reach 1
 Target: One creature
@@ -2077,7 +2077,7 @@ Target: One creature or object per minion
 - ★ 12–16: 4 poison damage; [[Taunted|taunted]] (EoT)
 - ✸ 17+: 5 poison damage; [[Taunted|taunted]] (EoT)
 
-**Ready Rodent (Triggered Action)**
+**Ready Rodent ([[Triggered Action]])**
 Keywords: Melee, Weapon
 Distance: Reach 1
 Target: One creature
@@ -2109,7 +2109,7 @@ Target: One creature or object per minion
 - ★ 12–16: 4 damage; slide 2; the swiftpaw can shift 2 squares
 - ✸ 17+: 5 damage; slide 3; the swiftpaw can shift 3 squares
 
-**Ready Rodent (Triggered Action)**
+**Ready Rodent ([[Triggered Action]])**
 Keywords: Melee, Weapon
 Distance: Reach 1
 Target: One creature
@@ -2142,7 +2142,7 @@ Target: One creature or object per minion
 - ✸ 17+: 6 damage
   Effect: An ally of the redeye within 2 squares of the target can shift up to 2 squares.
 
-**Ready Rodent (Triggered Action)**
+**Ready Rodent ([[Triggered Action]])**
 Keywords: Melee, Weapon
 Distance: Reach 1
 Target: One creature
@@ -2184,7 +2184,7 @@ Target: Each enemy
 - ★ 12–16: 8 damage
 - ✸ 17+: 10 damage; [[Bleeding|bleeding]] (EoT)
 
-**Ready Rodent (Triggered Action)**
+**Ready Rodent ([[Triggered Action]])**
 Keywords: Melee, Weapon
 Distance: Reach 1
 Target: One creature
@@ -2221,9 +2221,9 @@ Target: One creature or object
 Keywords: Area, Magic
 Distance: 5 burst
 Target: Each ally
-Effect: Each target who has used their Ready Rodent ability since their last turn regains the use of their triggered action.
+Effect: Each target who has used their Ready Rodent ability since their last turn regains the use of their [[Triggered Action|triggered action]].
 
-**Ready Rodent (Triggered Action)**
+**Ready Rodent ([[Triggered Action]])**
 Keywords: Melee, Weapon
 Distance: Reach 1
 Target: One creature
@@ -2262,7 +2262,7 @@ Distance: Reach 1
 Target: One enemy
 Effect: Slide 1; the ratcrobat can then shift into the square the target left.
 
-**Ready Rodent (Triggered Action)**
+**Ready Rodent ([[Triggered Action]])**
 Keywords: Melee, Weapon
 Distance: Reach 1
 Target: One creature
@@ -2296,7 +2296,7 @@ Target: Each enemy
 - ✦ ≤11: 3 sonic damage; slide 1; the maestro can shift 1 square
 - ★ 12–16: 5 sonic damage; slide 3; the maestro can shift 3 squares
 - ✸ 17+: 7 sonic damage; slide 5; the maestro can shift 5 squares
-  Effect: Each of the maestro's allies can use Ready Rodent as a free triggered action once before the end of the round.
+  Effect: Each of the maestro's allies can use Ready Rodent as a free [[Triggered Action|triggered action]] once before the end of the round.
 
 **Tempo Change (Maneuver)** ◆ PRS RR
 Keywords: Magic, Ranged, Resistance
@@ -2309,7 +2309,7 @@ Target: Two enemies
 
 5 VP: Each ally of the maestro within distance has their speed increased by 2 until the end of their next turn.
 
-**Ranged Ready Rodent (Triggered Action)**
+**Ranged Ready Rodent ([[Triggered Action]])**
 Keywords: Magic, Ranged
 Distance: Ranged 10
 Target: One creature
@@ -2335,7 +2335,7 @@ Effect: Until the end of their next turn, the target's stamina can't be reduced 
 Keywords: Area
 Distance: 10 burst
 Target: Each dead ally
-Effect: Each target stands, makes a [[Free Strike|free strike]], then collapses again. Allies of the targets can use Ready Rodent as a free triggered action once in conjunction with these [[Free Strike|free strikes]].
+Effect: Each target stands, makes a [[Free Strike|free strike]], then collapses again. Allies of the targets can use Ready Rodent as a free [[Triggered Action|triggered action]] once in conjunction with these [[Free Strike|free strikes]].
 
 ## TIME RAIDERS
 
@@ -2374,7 +2374,7 @@ Most [[Time Raider|time raiders]] speak Caelian and Voll.
 At the start of any [[Time Raider|time raider]]’s turn, you can spend VP to activate one of the following features:
 
 - **Gravity Well (3 VP):** A [[Time Raider|time raider]] acting this turn can activate gravity well on a square they move through while using a move action. The gravity well lasts until the end of the encounter or until a creature who can reach the well uses a maneuver to disable it. Each square within 4 squares of the gravity well is [[Difficult Terrain|difficult terrain]] for non-[[Time Raider|time raiders]], and any non-[[Time Raider|time raider]] who ends their turn in such a square is pulled 4 squares toward the well.
-- **Recall Module (5 VP):** Until the end of the round, whenever a [[Time Raider|time raider]] ends their turn with movement remaining, they can [[Teleport|teleport]] back to the space where they started their turn (or the closest unoccupied space of their choice), and make a [[Free Strike|free strike]] as a free triggered action.
+- **Recall Module (5 VP):** Until the end of the round, whenever a [[Time Raider|time raider]] ends their turn with movement remaining, they can [[Teleport|teleport]] back to the space where they started their turn (or the closest unoccupied space of their choice), and make a [[Free Strike|free strike]] as a free [[Triggered Action|triggered action]].
 - **Psi-Cage (7 VP):** All [[Time Raider|time raiders]] in the encounter create a psionic field over the encounter map, which lasts until the [[Time Raider|time raider]] with the highest Stamina maximum drops to Stamina 0 or chooses to end the field. While the field is up, each non-[[Time Raider|time raider]] on the map must make a Reason resistance roll against this psionic effect at the start of each round.
   ✸ ≤11: 8 psychic damage; [[Slowed|slowed]] (EoT)
   ★ 12–16: 5 psychic damage; [[Slowed|slowed]] (EoT)
@@ -2465,7 +2465,7 @@ Target: One creature or object
 - ✸ 17+: 11 damage; [[Weakened|weakened]] (REA ends)
   Effect: The target takes a bane on the next attack they make before the start of the armiger’s next turn.
 
-**Shared Sickness (Triggered Action)** ◆ REA RR
+**Shared Sickness ([[Triggered Action]])** ◆ REA RR
 Keywords: Psionic, Ranged, Resistance
 Distance: Ranged 20
 Target: Triggering creature
@@ -2507,7 +2507,7 @@ Target: Each enemy
 - ✸ 17+: 10 sonic damage; [[Slowed|slowed]] (EoT); [[Prone|prone]]
   Effect: A layer of ground or floor beneath the area that is 1 square deep is destroyed.
 
-**Buss Buffer (Triggered Action)**
+**Buss Buffer ([[Triggered Action]])**
 Keywords: Area, Psionic
 Distance: 5 burst
 Target: Each ally
@@ -2743,7 +2743,7 @@ Distance: Ranged 10
 Target: Three [[Time Raider|time raiders]]
 Effect: Each target is psionically lifted into the air and can [[Fly|fly]] up to their speed. If a target doesn’t land in an unoccupied space, they fall.
 
-**Precog Reflexes (Triggered Action)**
+**Precog Reflexes ([[Triggered Action]])**
 Keywords: Psionic, Ranged
 Distance: Ranged 10
 Target: One creature
@@ -3263,7 +3263,7 @@ Distance: 10 burst
 Target: Each war dog with a loyalty collar
 Effect: The target’s loyalty collar detonates, killing them instantly.
 
-**Final Orders (Triggered Action)**
+**Final Orders ([[Triggered Action]])**
 Keywords: Magic, Ranged
 Distance: Ranged 10
 Target: One ally

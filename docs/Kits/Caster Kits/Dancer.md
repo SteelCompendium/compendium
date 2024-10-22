@@ -49,5 +49,5 @@ Visible energy sparks off you to wash across a nearby foe, who you invite to dan
 
 Your ward surrounds you with a soft, enchanting melody whose volume you control, and grants you the following benefits:
 
-- Whenever an enemy ends their turn adjacent to you, you can shift 2 squares as a free triggered action.
+- Whenever an enemy ends their turn adjacent to you, you can shift 2 squares as a free [[Triggered Action|triggered action]].
 - Whenever a creature damages you with a melee ability, you can slide them a number of squares equal to your highest characteristic score.

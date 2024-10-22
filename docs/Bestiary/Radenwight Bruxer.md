@@ -41,10 +41,10 @@ Effect: While the target is [[Grabbed|grabbed]], they take 2 damage at the start
 
 **Ready Rodent**
 
-|                         |                        |
-| :---------------------- | :--------------------- |
-| Keywords: Melee, Weapon | Type: Triggered Action |
-| Distance: Reach 1       | Target: One creature   |
+|                         |                            |
+| :---------------------- | :------------------------- |
+| Keywords: Melee, Weapon | Type: [[Triggered Action]] |
+| Distance: Reach 1       | Target: One creature       |
 
 Trigger: An ally deals damage to the target.
 

@@ -26,10 +26,10 @@
 
 **Ready Rodent**
 
-|                         |                        |
-| :---------------------- | :--------------------- |
-| Keywords: Melee, Weapon | Type: Triggered Action |
-| Distance: Reach 1       | Target: One creature   |
+|                         |                            |
+| :---------------------- | :------------------------- |
+| Keywords: Melee, Weapon | Type: [[Triggered Action]] |
+| Distance: Reach 1       | Target: One creature       |
 
 Trigger: An ally deals damage to the target.
 

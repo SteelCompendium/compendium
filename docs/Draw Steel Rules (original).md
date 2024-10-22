@@ -341,7 +341,7 @@ For more information on how XP increases your hero’s power, see Heroic Advance
 
 #### HEROIC RESOURCES
 
-Your hero has a Heroic Resource (sometimes two Heroic Resources) determined by your class, and which you manage during play. For many classes, earning Resources can increase your hero’s power, and Resources are spent to activate your most powerful abilities. Other classes, like the talent, earn a negative resource that gives them a penalty during battle, and they gain the resource to activate their most powerful abilities. Each class gains and uses its Heroic Resource differently, and resources aren’t equivalent across classes. For example, 1 piety for the [[Conduit|conduit]] isn’t worth as much as 1 [[Focus|focus]] for the [[Tactician|tactician]].
+Your hero has a Heroic Resource (sometimes two Heroic Resources) determined by your class, and which you manage during play. For many classes, earning Resources can increase your hero’s power, and Resources are spent to activate your most powerful abilities. Other classes, like the talent, earn a negative resource that gives them a penalty during battle, and they gain the resource to activate their most powerful abilities. Each class gains and uses its Heroic Resource differently, and resources aren’t equivalent across classes. For example, 1 [[Piety|piety]] for the [[Conduit|conduit]] isn’t worth as much as 1 [[Focus|focus]] for the [[Tactician|tactician]].
 
 Some classes, such as the [[Tactician|tactician]] and the [[Fury|fury]], generate and use Heroic Resources only during combat encounters. Others, such as the [[Shadow|shadow]] and the talent, can use their Heroic Resources both in and out of combat.
 
@@ -523,11 +523,11 @@ Choose your hero’s career, which describes what you did for a living before yo
 
 Choose your hero’s class. This choice has the biggest impact on how your hero interacts with the rules of the game, especially the rules for combat. Your class provides your characteristic scores and Stamina, in addition to skills, several abilities, and other benefits. You can be a censor, [[Conduit|conduit]], [[Elementalist|elementalist]], [[Fury|fury]], null, [[Shadow|shadow]], [[Tactician|tactician]], talent, or troubadour. See *Classes* for more information.
 
-*(Playtest note: The currently available classes are the [[Conduit|conduit]], [[Elementalist|elementalist]], [[Fury|fury]], [[Shadow|shadow]], and [[Tactician|tactician]], each of which includes only 1st-level features.)*
+*(Playtest note: The currently available classes are the [[Conduit|conduit]], [[Elementalist|elementalist]], [[Fury|fury]], [[Shadow|shadow]], and [[Tactician|tactician]], each of which includes only [[1st-Level Features|1st-level features]].)*
 
 #### 6. KIT
 
-Choose your hero’s kit. Your kit provides you with [[Equipment|equipment]] and a fighting style that grants a signature ability and bonuses to one or more of your game statistics.
+Choose your hero’s kit. Your kit provides you with [[Equipment|equipment]] and a fighting style that grants a [[Signature Ability|signature ability]] and bonuses to one or more of your game statistics.
 
 #### 7. ADD FREE STRIKES
 
@@ -830,7 +830,7 @@ When you create a [[Devil|devil]] character, you have 3 fiend points, which you 
   Your bones are visible and hardened above your skin, granting you Weapon immunity 2.
 
 - **GLOWING EYES (1 FIEND POINT):**
-  Your eyes are a solid, vibrant color that flares to show your excitement or [[Rage|rage]]. Whenever you take damage from a creature, you can use a triggered action to curse that creature for daring to do you harm. The creature takes 1d10 psychic damage.
+  Your eyes are a solid, vibrant color that flares to show your excitement or [[Rage|rage]]. Whenever you take damage from a creature, you can use a [[Triggered Action|triggered action]] to curse that creature for daring to do you harm. The creature takes 1d10 psychic damage.
 
 - **HELLSIGHT (1 POINT):**
   Your eyes let you see through the dark, fog, and other types of concealment. You don’t take a bane on attacks against concealed, unhidden creatures.
@@ -977,7 +977,7 @@ The legacy of the Dragon Phalanx lives in you. Choose one of the following benef
   As a maneuver, you can [[Fly|fly]] in a straight line up to your speed. Until you reach level 6, you must end your turn on a solid surface or fall, then fall [[Prone|prone]].
 
 - **DRACONIAN GUARD:**
-  When you or a creature adjacent to you is attacked, you can use a triggered action to swing your wings around and guard against the blow, reducing any damage from the attack by an amount equal to your level + your Victories.
+  When you or a creature adjacent to you is attacked, you can use a [[Triggered Action|triggered action]] to swing your wings around and guard against the blow, reducing any damage from the attack by an amount equal to your level + your Victories.
 
 - **DRACONIAN PRIDE:**
   You can use the following ability:
@@ -1542,7 +1542,7 @@ Your silicone body is aerodynamic and low in density. Your speed is 7, and whene
 
 #### KEEPER OF ORDER
 
-When you or a creature adjacent to you makes a power roll, you can remove an edge or a bane on the roll as a free triggered action. You can only use this benefit once per round.
+When you or a creature adjacent to you makes a power roll, you can remove an edge or a bane on the roll as a free [[Triggered Action|triggered action]]. You can only use this benefit once per round.
 
 ### ORC
 
@@ -1908,7 +1908,7 @@ You can have an active number of sigils equal to your level. You can remove a si
 
 Your undead body grants you cold, corruption, lightning immunity, and poison immunity equal to your level. You also have fire weakness 5. You can’t suffocate, and you don’t need to eat or drink to stay alive.
 
-Additionally, when your Stamina equals the negative of your winded value, you become inert instead of dying. You can continue to observe your surroundings, but you can’t speak, take actions, maneuvers, or triggered actions, or move and you fall [[Prone|prone]]. If you take any fire damage while in this state, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
+Additionally, when your Stamina equals the negative of your winded value, you become inert instead of dying. You can continue to observe your surroundings, but you can’t speak, take actions, maneuvers, or [[Triggered Action|triggered actions]], or move and you fall [[Prone|prone]]. If you take any fire damage while in this state, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
 
 ##### UNDEAD INFLUENCE
 
@@ -1962,7 +1962,7 @@ Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head
 
 “They may pull you apart,” he said to her, and at this, his squadron of [[Soldier|soldiers]], all in black leather and golden pauldrons, started making barking sounds. Then they laughed at each other.
 
-“Or I may let my crucibite melt the skin from your bones.”
+“Or I may let my crucibite [[Melt|melt]] the skin from your bones.”
 
 At that, a war dog clad in leather from head to foot wearing a heavy mask with glass circles where the eyes should be and some kind of canister over his mouth stepped forward. The long thin brass tube in his hands connected to a large metal tank on his back.
 
@@ -2024,7 +2024,7 @@ As a [[Time Raider|time raider]] character, you have the following benefits.
 
 ##### FORESIGHT
 
-Your senses extend past mundane obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren’t hidden from you, negating the usual bane on attacks against them. Additionally, whenever you are attacked, you can use a triggered action to impose a bane on the power roll.
+Your senses extend past mundane obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren’t hidden from you, negating the usual bane on attacks against them. Additionally, whenever you are attacked, you can use a [[Triggered Action|triggered action]] to impose a bane on the power roll.
 
 ##### FOUR ARMS
 
@@ -2461,7 +2461,7 @@ You gain the following career benefits:
 
 Your class provides you with most of your abilities. For details on the ability format, see Abilities.
 
-(Playtest note: The currently available classes are the [[Conduit|conduit]], [[Elementalist|elementalist]], [[Fury|fury]], [[Shadow|shadow]], and [[Tactician|tactician]], each of which includes only 1st-level features.)
+(Playtest note: The currently available classes are the [[Conduit|conduit]], [[Elementalist|elementalist]], [[Fury|fury]], [[Shadow|shadow]], and [[Tactician|tactician]], each of which includes only [[1st-Level Features|1st-level features]].)
 
 ## CONDUIT
 
@@ -2482,11 +2482,11 @@ As a [[Conduit|conduit]], you [[Heal|heal]] and buff your allies, and debuff you
 
 #### CONDUIT ADVANCEMENT
 
-| Level | Features                                                                                                                             |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 1st   | Deity and Domains, Piety, Domain Feature, [[Healing Grace]], [[Pious Force]], Triggered Action, [[Conduit]] Abilities Signature, 3,5 |
-| 2nd   | Gift of the Gods, Domain Feature, Domain Ability Signature, 3, 5, 5 (Domain)                                                         |
-| 3rd   | Restore Life, 7-Piety, Ability Signature, 3, 5, 5 (Domain), 7                                                                        |
+| Level | Features                                                                                                                                                            |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st   | [[Deity And Domains\|Deity and Domains]], [[Piety]], Domain Feature, [[Healing Grace]], [[Pious Force]], [[Triggered Action]], [[Conduit Abilities]] Signature, 3,5 |
+| 2nd   | Gift of the Gods, Domain Feature, Domain Ability Signature, 3, 5, 5 (Domain)                                                                                        |
+| 3rd   | Restore Life, 7-[[Piety]], Ability Signature, 3, 5, 5 (Domain), 7                                                                                                   |
 
 ### 1ST-LEVEL FEATURES
 
@@ -2513,11 +2513,11 @@ After choosing your deity, pick two domains from their portfolio. Your choice of
 
 #### PIETY
 
-Your deity grants you a Heroic Resource called piety to fuel your abilities. You use piety to [[Heal|heal]] and empower your allies, and to unleash your deity’s power upon your foes.
+Your deity grants you a Heroic Resource called [[Piety|piety]] to fuel your abilities. You use [[Piety|piety]] to [[Heal|heal]] and empower your allies, and to unleash your deity’s power upon your foes.
 
-Outside of combat and other dangerous situations tracked in turns and rounds, you have piety equal to your Victories. If you lose some or all of this piety outside of combat, it takes you 1 minute to regain it.
+Outside of combat and other dangerous situations tracked in turns and rounds, you have [[Piety|piety]] equal to your Victories. If you lose some or all of this [[Piety|piety]] outside of combat, it takes you 1 minute to regain it.
 
-When a combat encounter begins, you keep any piety you had outside of combat. At the start of each of your turns during combat, you gain 2 piety. You can also use the [[Prayer]] ability to gain additional piety. When combat ends, you once again have piety equal to your Victories.
+When a combat encounter begins, you keep any [[Piety|piety]] you had outside of combat. At the start of each of your turns during combat, you gain 2 [[Piety|piety]]. You can also use the [[Prayer]] ability to gain additional [[Piety|piety]]. When combat ends, you once again have [[Piety|piety]] equal to your Victories.
 
 ##### PRAYER
 
@@ -2534,8 +2534,8 @@ When a combat encounter begins, you keep any piety you had outside of combat. At
 **Power Roll + Intuition**:
 
 - 11 or lower: 1d6 damage; [[Bleeding|bleeding]] (EoT)
-- 12–16: Gain 1 piety
-- 17+: Gain 2 piety and choose and use a domain effect
+- 12–16: Gain 1 [[Piety|piety]]
+- 17+: Gain 2 [[Piety|piety]] and choose and use a [[Domain Effects|domain effect]]
 
 **Effect**: The first time you use this ability during an encounter, it has a double edge. The second time you use it, it takes an edge. The third time you use it, it takes a bane. The fourth and each subsequent time you use this ability during an encounter, it has a double bane.
 
@@ -2702,7 +2702,7 @@ Your divine energy restores the righteous.
 
 **Effect**: The target can spend 1 Recovery.
 
-**Spend Piety**: For each piety spent, you can choose one of the following enhancements:
+**Spend [[Piety]]**: For each [[Piety|piety]] spent, you can choose one of the following enhancements:
 
 - You can target one additional ally within distance.
 - You can end one effect on a target that has a duration of EoT or is ended by a resistance roll.
@@ -2732,7 +2732,7 @@ You unleash a blast of raw divine magic upon your foe.
 
 #### TRIGGERED ACTION
 
-Choose one of the following triggered actions.
+Choose one of the following [[Triggered Action|triggered actions]].
 
 ##### DIVINE DISRUPTION
 
@@ -2746,7 +2746,7 @@ You sap the strength of an attacking enemy with divine energy.
 
 **Effect**: The attack takes a bane and the damage to one creature targeted by the attack is reduced by an amount equal to your Intuition.
 
-**Spend 1 Piety**: The attack has a double bane and the damage to one creature targeted by the attack is reduced by an amount equal to twice your Intuition score.
+**Spend 1 [[Piety]]**: The attack has a double bane and the damage to one creature targeted by the attack is reduced by an amount equal to twice your Intuition score.
 
 ##### HOLY INFUSION
 
@@ -2760,7 +2760,7 @@ You invigorate an attacking ally with divine energy.
 
 **Effect**: The attack gains an edge and deals holy damage equal to twice your Intuition score.
 
-**Spend 1 Piety**: The attack has a double edge and deals holy damage equal to twice your Intuition score.
+**Spend 1 [[Piety]]**: The attack has a double edge and deals holy damage equal to twice your Intuition score.
 
 #### CONDUIT ABILITIES
 
@@ -2768,7 +2768,7 @@ Your training and faith let you specialize in magic that buffs your allies, debu
 
 ##### SIGNATURE ABILITY
 
-Select one signature ability from the options below. Signature abilities can be used at will.
+Select one [[Signature Ability|signature ability]] from the options below. Signature abilities can be used at will.
 
 ###### HOLY LANCE
 
@@ -2834,11 +2834,11 @@ A bolt of holy energy saps the life from a foe.
 
 ##### HEROIC ABILITIES
 
-You make use of a number of [[Heroic Abilities|heroic abilities]], all of which channel piety to empower them.
+You make use of a number of [[Heroic Abilities|heroic abilities]], all of which channel [[Piety|piety]] to empower them.
 
 ##### 3-PIETY ABILITIES
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 3 piety to use.
+Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 3 [[Piety|piety]] to use.
 
 ###### ANGEL OF WRATH (3 PIETY)
 
@@ -2902,7 +2902,7 @@ A resounding clap of thunder disrupts your foes.
 
 ##### 5-PIETY ABILITIES
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 5 piety to use.
+Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 5 [[Piety|piety]] to use.
 
 ###### ARMOR OF THE FAITHFUL (5 PIETY)
 
@@ -2981,11 +2981,11 @@ As an [[Elementalist|elementalist]], you can unleash your wrath across a field o
 
 #### ELEMENTALIST ADVANCEMENT
 
-| Level | Features                                                                                                                                                                                                       |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st   | [[Elemental Specialization]], [[Essence]], [[Hurl Element]], [[Persistent Magic]], [[Practical Magic]], Specialization Feature, Specialization Triggered Action, [[Elementalist]] Abilities Signature, 1, 3, 5 |
-| 2nd   | Specialization Feature, New 5-[[Essence]] Ability Signature, 1, 3, 5, 5                                                                                                                                        |
-| 3rd   | Specialization Feature, 7-[[Essence]] Ability Signature, 1, 3, 5, 5, 7                                                                                                                                         |
+| Level | Features                                                                                                                                                                                                           |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1st   | [[Elemental Specialization]], [[Essence]], [[Hurl Element]], [[Persistent Magic]], [[Practical Magic]], Specialization Feature, [[Specialization Triggered Action]], [[Elementalist Abilities]] Signature, 1, 3, 5 |
+| 2nd   | Specialization Feature, New [[Essence]]\[\[5-[[Essence]] Abilities\|5-[[Essence]] Ability\]\] Signature, 1, 3, 5, 5                                                                                                |
+| 3rd   | Specialization Feature, 7-[[Essence]] Ability Signature, 1, 3, 5, 5, 7                                                                                                                                             |
 
 ### 1ST-LEVEL FEATURES
 
@@ -3003,7 +3003,7 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Void** is the element of the unknown. Void abilities warp space and reality, allowing you to [[Teleport|teleport]], create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance what your allies can do, and alter the abilities of your enemies for the worse.
 
-[[Heroic Abilities|Heroic abilities]] that include your specialization’s keyword have their initial [[Essence|essence]] cost reduced by 1 (to a minimum of 1). This reduced cost doesn’t apply to abilities you gain because of your specialization, such as Manipulate Earth or Void Sight.
+[[Heroic Abilities|Heroic abilities]] that include your specialization’s keyword have their initial [[Essence|essence]] cost reduced by 1 (to a minimum of 1). This reduced cost doesn’t apply to abilities you gain because of your specialization, such as [[Manipulate Earth]] or Void Sight.
 
 Choose one of the following elements to be your specialty: earth, fire, green, or void. (Other [[Elemental Specialization|elemental specializations]] will be featured in future products.) Your choice of specialization determines many of the features you’ll gain from this class.
 
@@ -3081,10 +3081,10 @@ Your [[Elementalist|elementalist]] specialization grants you a feature, as shown
 
 | Specialization | Feature                                    |
 | -------------- | ------------------------------------------ |
-| Earth          | Manipulate Earth                           |
-| Fire           | Melt                                       |
+| Earth          | [[Manipulate Earth]]                       |
+| Fire           | [[Melt]]                                   |
 | Green          | [[Speech Of The Wild\|Speech of the Wild]] |
-| Void           | Void Sense                                 |
+| Void           | [[Void Sense]]                             |
 
 ##### MANIPULATE EARTH
 
@@ -3120,7 +3120,7 @@ With the merest touch, you cause an object to turn into slag or ash.
 - **Distance**: Reach 1
 - **Target**: 1 mundane object
 
-**Effect**: You heat the target and cause it to combust and melt. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.
+**Effect**: You heat the target and cause it to combust and [[Melt|melt]]. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.
 
 **Spend No [[Essence]]**: You can use this ability without spending [[Essence|essence]]. If you do, you must spend 1 uninterrupted minute using the ability while touching the target before its effect occurs.
 
@@ -3145,15 +3145,15 @@ You share your special senses with others.
 - **Distance**: Ranged 5
 - **Target**: Special
 
-**Effect**: For each [[Essence|essence]] you spend, you can target 1 creature. That creature gains the benefit of your Void Sense feature until the end of your next turn, but doesn’t gain the use of Shared Void Sense.
+**Effect**: For each [[Essence|essence]] you spend, you can target 1 creature. That creature gains the benefit of your [[Void Sense]] feature until the end of your next turn, but doesn’t gain the use of Shared [[Void Sense]].
 
 #### SPECIALIZATION TRIGGERED ACTION
 
-Your specialization grants you a triggered action, as shown on the [[Elementalist Triggered Actions]] table.
+Your specialization grants you a [[Triggered Action|triggered action]], as shown on the [[Elementalist Triggered Actions]] table.
 
 ###### ELEMENTALIST TRIGGERED ACTIONS
 
-| Specialization | Triggered Action                 |
+| Specialization | [[Triggered Action]]             |
 | -------------- | -------------------------------- |
 | Earth          | [[Earthen Force]]                |
 | Fire           | [[Explosive Assistance]]         |
@@ -3220,7 +3220,7 @@ Your mastery of elemental magic grants you unique magical abilities that let you
 
 ##### SIGNATURE ABILITY
 
-Select one signature ability from the options below. Signature abilities can be used at will.
+Select one [[Signature Ability|signature ability]] from the options below. Signature abilities can be used at will.
 
 ###### DEBRIS
 
@@ -3451,11 +3451,11 @@ As a [[Fury|fury]], you have abilities that deal a lot of damage, move you aroun
 
 ### FURY ADVANCEMENT
 
-| Level | Features                                                                                                                          | Abilities                      |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| 1st   | [[Primordial Aspect]], [[Rage]], [[Growing Rage]], [[Mighty Leaps]], Aspect Features, Aspect Triggered Action, [[Fury]] Abilities | Signature, 3, 5                |
-| 2nd   | Aspect Feature, Aspect Ability                                                                                                    | Signature, 3, 5, 5 (Aspect)    |
-| 3rd   | Aspect Feature, 7-[[Rage]] Ability                                                                                                | Signature, 3, 5, 5 (Aspect), 7 |
+| Level | Features                                                                                                                              | Abilities                      |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| 1st   | [[Primordial Aspect]], [[Rage]], [[Growing Rage]], [[Mighty Leaps]], Aspect Features, [[Aspect Triggered Action]], [[Fury Abilities]] | Signature, 3, 5                |
+| 2nd   | Aspect Feature, Aspect Ability                                                                                                        | Signature, 3, 5, 5 (Aspect)    |
+| 3rd   | Aspect Feature, 7-[[Rage]] Ability                                                                                                    | Signature, 3, 5, 5 (Aspect), 7 |
 
 ### 1ST-LEVEL FEATURES
 
@@ -3493,17 +3493,17 @@ Your chosen [[Primordial Aspect|primordial aspect]] grants you features as shown
 
 ##### 1ST-LEVEL PRIMORDIAL ASPECT FEATURES
 
-| Aspect     | Feature                                 |
-| ---------- | --------------------------------------- |
-| Berserker  | Primordial Strength                     |
-| Reaver     | Primordial Cunning                      |
-| Stormwight | Primordial Shape, [[Relentless Hunter]] |
+| Aspect     | Feature                                     |
+| ---------- | ------------------------------------------- |
+| Berserker  | [[Primordial Strength]]                     |
+| Reaver     | [[Primordial Cunning]]                      |
+| Stormwight | [[Primordial Shape]], [[Relentless Hunter]] |
 
 ##### PRIMORDIAL CUNNING
 
 You are never surprised. Additionally, whenever you would push a target with [[Forced Movement|forced movement]], you can slide them instead.
 
-As your [[Rage|rage]] grows, your primordial cunning intensifies. These benefits are cumulative.
+As your [[Rage|rage]] grows, your [[Primordial Cunning|primordial cunning]] intensifies. These benefits are cumulative.
 
 ###### PRIMORDIAL CUNNING GROWING RAGE
 
@@ -3515,13 +3515,13 @@ As your [[Rage|rage]] grows, your primordial cunning intensifies. These benefits
 
 #### PRIMORDIAL SHAPE
 
-When you select a martial kit, you can instead select a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including effects tied to your [[Growing Rage]] feature.
+When you select a martial kit, you can instead select a [[Stormwight Kits|stormwight kit]] (see [[Stormwight Kits]]). Your [[Stormwight Kits|stormwight kit]] grants you a number of benefits, including effects tied to your [[Growing Rage]] feature.
 
 ##### PRIMORDIAL STRENGTH
 
 When you damage an object with a weapon attack, it takes an additional 5 damage. Additionally, whenever you push another creature, you can make it a vertical push.
 
-As your [[Rage|rage]] grows, your primordial strength intensifies. These benefits are cumulative.
+As your [[Rage|rage]] grows, your [[Primordial Strength|primordial strength]] intensifies. These benefits are cumulative.
 
 ###### PRIMORDIAL STRENGTH GROWING RAGE
 
@@ -3537,15 +3537,15 @@ You gain an edge on tests that use the Track skill.
 
 #### ASPECT TRIGGERED ACTION
 
-Your [[Primordial Aspect|primordial aspect]] grants you a triggered action, as shown on the [[Fury Triggered Actions]] table.
+Your [[Primordial Aspect|primordial aspect]] grants you a [[Triggered Action|triggered action]], as shown on the [[Fury Triggered Actions]] table.
 
 ##### FURY TRIGGERED ACTIONS
 
-| **Aspect** | **Triggered Action** |
-| ---------- | -------------------- |
-| Berserker  | [[Relentless Toss]]  |
-| Reaver     | [[Uncanny Dodge]]    |
-| Stormwight | [[Regeneration]]     |
+| **Aspect** | **[[Triggered Action]]** |
+| ---------- | ------------------------ |
+| Berserker  | [[Relentless Toss]]      |
+| Reaver     | [[Uncanny Dodge]]        |
+| Stormwight | [[Regeneration]]         |
 
 ##### REGENERATION
 
@@ -3557,7 +3557,7 @@ Your transformative abilities bring you back into the fight.
 - **Target:** Self
 - **Trigger:** You lose Stamina and are not dying.
 
-**Effect:** After damage is resolved, if your [[Rage|rage]] is high enough, you can enter your animal or hybrid form as a free triggered action. If you can’t gain the temporary Stamina from that form because you have already done so this encounter, you gain temporary Stamina equal to your Might.
+**Effect:** After damage is resolved, if your [[Rage|rage]] is high enough, you can enter your animal or hybrid form as a free [[Triggered Action|triggered action]]. If you can’t gain the temporary Stamina from that form because you have already done so this encounter, you gain temporary Stamina equal to your Might.
 
 **Spend 1 [[Rage]]:** If you are not dying, you can spend a Recovery.
 
@@ -3571,7 +3571,7 @@ The Primordial Chaos allows you to redirect kinetic energy for a monstrous smash
 - **Target:** Self or 1 creature
 - **Trigger:** The target is force moved.
 
-**Effect:** You can select a new target of the same size or smaller within distance to be force moved instead. Additionally, you can increase the forced move distance by a number of squares equal to your Might score. You can use your Primordial Strength benefit to make this [[Forced Movement|forced movement]] vertical.
+**Effect:** You can select a new target of the same size or smaller within distance to be force moved instead. Additionally, you can increase the forced move distance by a number of squares equal to your Might score. You can use your [[Primordial Strength]] benefit to make this [[Forced Movement|forced movement]] vertical.
 
 **Spend 1 [[Rage]]:** You can increase the forced move distance by a number of squares equal to twice your Might score instead.
 
@@ -3595,7 +3595,7 @@ You specialize in dealing massive damage on the battlefield, mastering a number 
 
 ##### SIGNATURE ABILITY
 
-Select one signature ability from the options below. Signature abilities can be used at will.
+Select one [[Signature Ability|signature ability]] from the options below. Signature abilities can be used at will.
 
 ###### BRUTAL SLAM
 
@@ -3807,21 +3807,21 @@ The destructive power of nature cannot be contained.
 
 ### STORMWIGHT KITS
 
-The [[Primordial Aspect|primordial aspect]] of the stormwight lets you channel your [[Rage|rage]] into the form of an animal and grants you knowledge of one of a number of special stormwight kits. You can master additional stormwight kits through play, swapping them out during a Respite as with any other kit. (See Kits.)
+The [[Primordial Aspect|primordial aspect]] of the stormwight lets you channel your [[Rage|rage]] into the form of an animal and grants you knowledge of one of a number of special [[Stormwight Kits|stormwight kits]]. You can master additional [[Stormwight Kits|stormwight kits]] through play, swapping them out during a Respite as with any other kit. (See Kits.)
 
 #### KIT FEATURES
 
-All stormwight kits have the following features in common.
+All [[Stormwight Kits|stormwight kits]] have the following features in common.
 
 ##### ASPECT BENEFITS
 
-You always have the noted benefits, whether in your true form, the [[Animal Form|animal form]] you can take at any time, or the hybrid form that some stormwight kits grant you as your [[Rage|rage]] increases.
+You always have the noted benefits, whether in your true form, the [[Animal Form|animal form]] you can take at any time, or the hybrid form that some [[Stormwight Kits|stormwight kits]] grant you as your [[Rage|rage]] increases.
 
 ##### ANIMAL FORM
 
-You have some of the noted benefits all the time, but gain other benefits only while in [[Animal Form|animal form]], as noted on the table that tracks the benefits you gain from your [[Growing Rage]] feature for each stormwight kit.
+You have some of the noted benefits all the time, but gain other benefits only while in [[Animal Form|animal form]], as noted on the table that tracks the benefits you gain from your [[Growing Rage]] feature for each [[Stormwight Kits|stormwight kit]].
 
-The [[Animal Form|animal form]] feature for each stormwight kit grants you the following ability:
+The [[Animal Form|animal form]] feature for each [[Stormwight Kits|stormwight kit]] grants you the following ability:
 
 ###### ANIMAL FORM
 
@@ -3832,7 +3832,7 @@ You take on the form of the animal who channels your [[Rage|rage]].
 - **Distance:** Self
 - **Target:** Self
 
-**Effect:** You can shapeshift into the animal defined by your stormwight kit or back into your true form. While in [[Animal Form|animal form]], you can’t use signature abilities or [[Heroic Abilities|heroic abilities]] unless they have the Animal keyword.
+**Effect:** You can shapeshift into the animal defined by your [[Stormwight Kits|stormwight kit]] or back into your true form. While in [[Animal Form|animal form]], you can’t use signature abilities or [[Heroic Abilities|heroic abilities]] unless they have the Animal keyword.
 
 Additionally, you can both speak normally and speak to animals who share your form. If negotiation with an animal comes into play, you treat your Renown as 2 higher than usual while in your [[Animal Form|animal form]].
 
@@ -3852,15 +3852,15 @@ These bonuses apply in your true form, your [[Animal Form|animal form]], and you
 
 ##### GROWING RAGE
 
-Each stormwight gains a specific set of benefits for their [[Fury|fury]] [[Growing Rage]] feature, as noted in the table for each stormwight kit. These benefits are cumulative.
+Each stormwight gains a specific set of benefits for their [[Fury|fury]] [[Growing Rage]] feature, as noted in the table for each [[Stormwight Kits|stormwight kit]]. These benefits are cumulative.
 
 #### BOREN
 
-With this stormwight kit, you channel your primordial [[Rage|rage]] into the form of a bear, becoming large, durable, and imposing. Boren are tied to the craggy, rocky north, and this aspect is associated with the blizzard’s bitter cold.
+With this [[Stormwight Kits|stormwight kit]], you channel your primordial [[Rage|rage]] into the form of a bear, becoming large, durable, and imposing. [[Boren]] are tied to the craggy, rocky north, and this aspect is associated with the blizzard’s bitter cold.
 
 ##### ASPECT BENEFITS
 
-Whenever you use [[Forced Movement|forced movement]] to push a creature, you can pull that creature instead. Whenever an attack pulls a creature adjacent to you, you can attempt to [[Grab|grab]] that creature as a free triggered action.
+Whenever you use [[Forced Movement|forced movement]] to push a creature, you can pull that creature instead. Whenever an attack pulls a creature adjacent to you, you can attempt to [[Grab|grab]] that creature as a free [[Triggered Action|triggered action]].
 
 ##### ANIMAL FORM: BEAR
 
@@ -3903,11 +3903,11 @@ Attacks with your sharp and deadly claws send your foes staggering back.
 
 #### CORVEN
 
-With this stormwight kit, you channel your primordial [[Rage|rage]] into the form of a crow. Corven are tied to the [[Mountain|mountain]] passes and the hot winds that flow through them. This aspect is associated with the katabatic wind.
+With this [[Stormwight Kits|stormwight kit]], you channel your primordial [[Rage|rage]] into the form of a crow. [[Corven]] are tied to the [[Mountain|mountain]] passes and the hot winds that flow through them. This aspect is associated with the katabatic wind.
 
 ##### ASPECT BENEFITS
 
-You gain an edge on tests made to [[Hide|hide]] and sneak. Whenever you are falling, you can use your [[Animal Form]] ability as a free triggered action.
+You gain an edge on tests made to [[Hide|hide]] and sneak. Whenever you are falling, you can use your [[Animal Form]] ability as a free [[Triggered Action|triggered action]].
 
 ##### ANIMAL FORM: CROW
 
@@ -3924,7 +3924,7 @@ Your primordial damage type is fire.
 - **Stamina Bonus:** +3
 - **Speed Bonus:** +3
 - **Melee Weapon Damage Bonus:** +2/+2/+2
-- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ##### SIGNATURE ABILITY
 
@@ -3955,7 +3955,7 @@ Foes who try to close around you do so at their peril.
 
 #### RADEN
 
-With this stormwight kit, you channel your primordial [[Rage|rage]] into the form of a rat. Raden are associated with the true nature of the rat, before cities became their habitat. Rats are avatars of the balance between green and rot, and this aspect is associated with the rat flood.
+With this [[Stormwight Kits|stormwight kit]], you channel your primordial [[Rage|rage]] into the form of a rat. [[Raden]] are associated with the true nature of the rat, before cities became their habitat. Rats are avatars of the balance between green and rot, and this aspect is associated with the rat flood.
 
 ##### ASPECT BENEFITS
 
@@ -3976,7 +3976,7 @@ Your primordial damage type is corruption.
 - **Stamina Bonus:** +3
 - **Speed Bonus:** +3
 - **Melee Weapon Damage Bonus:** +2/+2/+2
-- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ##### SIGNATURE ABILITY
 
@@ -4007,7 +4007,7 @@ Your enemies try in vain to fall back from your pouncing attack.
 
 #### VUKEN
 
-With this stormwight kit, you channel your primordial [[Rage|rage]] into the form of a wolf. Vuken are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
+With this [[Stormwight Kits|stormwight kit]], you channel your primordial [[Rage|rage]] into the form of a wolf. [[Vuken]] are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
 
 ##### ASPECT BENEFITS
 
@@ -4028,7 +4028,7 @@ Your primordial damage type is lightning.
 - **Stamina Bonus:** +9
 - **Speed Bonus:** +2
 - **Melee Weapon Damage Bonus:** +2/+2/+2
-- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ##### SIGNATURE ABILITY
 
@@ -4076,11 +4076,11 @@ As a [[Shadow|shadow]], you have abilities that deal a lot of damage, let you mo
 
 #### SHADOW ADVANCEMENT
 
-| Level | Features                                                                                                                 | Abilities                       |
-| ----- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------- |
-| 1st   | [[Shadow College]], [[Insight]], College Feature, College Triggered Action, Hesitation is Weakness, [[Shadow]] Abilities | Signature, 3, 5                 |
-| 2nd   | College Feature, College Ability                                                                                         | Signature, 3, 5, 5 (College)    |
-| 3rd   | Assess and Aim, 7-[[Insight]] Ability                                                                                    | Signature, 3, 5, 5 (College), 7 |
+| Level | Features                                                                                                                                                 | Abilities                       |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| 1st   | [[Shadow College]], [[Insight]], College Feature, [[College Triggered Action]], [[Hesitation Is Weakness\|Hesitation is Weakness]], [[Shadow Abilities]] | Signature, 3, 5                 |
+| 2nd   | College Feature, College Ability                                                                                                                         | Signature, 3, 5, 5 (College)    |
+| 3rd   | Assess and Aim, 7-[[Insight]] Ability                                                                                                                    | Signature, 3, 5, 5 (College), 7 |
 
 ### 1ST-LEVEL FEATURES
 
@@ -4173,11 +4173,11 @@ You always carry a supply of [[Smoke Bomb|smoke bombs]] to make it easy for you 
 
 #### COLLEGE TRIGGERED ACTION
 
-Your college grants you a triggered action, as shown on the [[Shadow Triggered Actions]] table.
+Your college grants you a [[Triggered Action|triggered action]], as shown on the [[Shadow Triggered Actions]] table.
 
 ##### SHADOW TRIGGERED ACTIONS
 
-| College         | Triggered Action          |
+| College         | [[Triggered Action]]      |
 | --------------- | ------------------------- |
 | Black Ash       | [[In All This Confusion]] |
 | Caustic Alchemy | [[Defensive Roll]]        |
@@ -4232,7 +4232,7 @@ You know how to seize the advantage in battle, working with your allies to find 
 Waiting for your enemies to act was never your style.
 
 - **Keywords:** —
-- **Type:** Free triggered action
+- **Type:** Free [[Triggered Action|triggered action]]
 - **Distance:** Self
 - **Target:** Self
 - **Trigger:** Another hero ends their turn.
@@ -4245,7 +4245,7 @@ You specialize in dealing damage, then getting out of harm’s way before the in
 
 ##### SIGNATURE ABILITY
 
-Select one signature ability from the options below. Signature abilities can be used at will.
+Select one [[Signature Ability|signature ability]] from the options below. Signature abilities can be used at will.
 
 ###### DISTRACTING PAIN
 
@@ -4468,11 +4468,11 @@ As a [[Tactician|tactician]], you have abilities that [[Heal|heal]] your allies 
 
 #### TACTICIAN ADVANCEMENT
 
-| Level | Features                                                                                                                                              | Abilities                                |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| 1st   | [[Tactical Doctrine]], [[Focus]], [[Mark]], [[Seize The Opening\|Seize the Opening]], Doctrine Features, Doctrine Triggered Action, [[Field Arsenal]] | [[Field Arsenal]], 3, 5                  |
-| 2nd   | Doctrine Features, Doctrine Ability                                                                                                                   | [[Field Arsenal]], 3, 5, 5 (Doctrine)    |
-| 3rd   | All According to Plan, 7-[[Focus]] Ability                                                                                                            | [[Field Arsenal]], 3, 5, 5 (Doctrine), 7 |
+| Level | Features                                                                                                                                                  | Abilities                                |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 1st   | [[Tactical Doctrine]], [[Focus]], [[Mark]], [[Seize The Opening\|Seize the Opening]], Doctrine Features, [[Doctrine Triggered Action]], [[Field Arsenal]] | [[Field Arsenal]], 3, 5                  |
+| 2nd   | Doctrine Features, Doctrine Ability                                                                                                                       | [[Field Arsenal]], 3, 5, 5 (Doctrine)    |
+| 3rd   | All According to Plan, 7-[[Focus]] Ability                                                                                                                | [[Field Arsenal]], 3, 5, 5 (Doctrine), 7 |
 
 ### 1ST-LEVEL FEATURES
 
@@ -4528,7 +4528,7 @@ As the battle unfolds, you tell your allies exactly when to strike!
 - **Distance:** Ranged 10
 - **Target:** 1 ally
 
-**Effect:** The target makes a signature attack as a free triggered action, and deals extra damage equal to your Reason score.
+**Effect:** The target makes a signature attack as a free [[Triggered Action|triggered action]], and deals extra damage equal to your Reason score.
 
 **Spend 5 [[Focus]]:** You target two allies instead of one.
 
@@ -4572,15 +4572,15 @@ You can only make this test once for each encounter and negotiation.
 
 #### DOCTRINE TRIGGERED ACTION
 
-Your doctrine grants you a triggered action, as shown on the [[Tactician Triggered Actions]] table.
+Your doctrine grants you a [[Triggered Action|triggered action]], as shown on the [[Tactician Triggered Actions]] table.
 
 ##### TACTICIAN TRIGGERED ACTIONS
 
-| Doctrine   | Triggered Action    |
-| ---------- | ------------------- |
-| Vanguard   | [[Parry]]           |
-| Mastermind | [[Overwatch]]       |
-| Insurgent  | [[Flank Them Now!]] |
+| Doctrine   | [[Triggered Action]] |
+| ---------- | -------------------- |
+| Vanguard   | [[Parry]]            |
+| Mastermind | [[Overwatch]]        |
+| Insurgent  | [[Flank Them Now!]]  |
 
 ##### FLANK THEM NOW!
 
@@ -4638,10 +4638,10 @@ For example, if you take the [[Shining Armor]] and [[Sniper]] kits, you gain the
 - **Speed Bonus:** +1
 - **Ranged Weapon Damage Bonus:** +0/+0/+4
 - **Distance Bonus:** +10
-- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 - **You also gain the use of the Protective Attack and Patient Shot signature abilities.**
 
-Kit signature abilities already have their bonuses applied. For example, you might take the [[Martial Artist]] kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [[Mountain]] kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [[Mountain]] kit’s damage bonus, then the Battle Grace signature ability from the [[Martial Artist]] kit would reduce its damage by −2/−2/−2, as it loses the bonus from the [[Martial Artist]] kit. It then gains the +0/+0/+4 of the [[Mountain]] kit, to deal damage of 3/7/14 for its tier 1, tier 2, and tier 3 results.
+Kit signature abilities already have their bonuses applied. For example, you might take the [[Martial Artist]] kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [[Mountain]] kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [[Mountain]] kit’s damage bonus, then the Battle Grace [[Signature Ability|signature ability]] from the [[Martial Artist]] kit would reduce its damage by −2/−2/−2, as it loses the bonus from the [[Martial Artist]] kit. It then gains the +0/+0/+4 of the [[Mountain]] kit, to deal damage of 3/7/14 for its tier 1, tier 2, and tier 3 results.
 
 #### TACTICIAN ABILITIES
 
@@ -4649,7 +4649,7 @@ You are a formidable combatant in your own right, but your greatest strength in 
 
 ##### KIT SIGNATURE ABILITY
 
-Your additional kit from your [[Field Arsenal]] feature grants you a second signature ability. Signature abilities can be used at will.
+Your additional kit from your [[Field Arsenal]] feature grants you a second [[Signature Ability|signature ability]]. Signature abilities can be used at will.
 
 ##### HEROIC ABILITIES
 
@@ -4726,9 +4726,9 @@ Your attack is your allies’ signal to strike!
 
 **Power Roll + Might:**
 
-- 11 or lower: 7 damage; an ally within 10 can make a signature attack against the target as a free triggered action
-- 12–16: 10 damage; an ally within 10 can make a signature attack with an edge against the target as a free triggered action
-- 17+: 16 damage; two allies within 10 can each make a signature attack with an edge against the target as a free triggered action
+- 11 or lower: 7 damage; an ally within 10 can make a signature attack against the target as a free [[Triggered Action|triggered action]]
+- 12–16: 10 damage; an ally within 10 can make a signature attack with an edge against the target as a free [[Triggered Action|triggered action]]
+- 17+: 16 damage; two allies within 10 can each make a signature attack with an edge against the target as a free [[Triggered Action|triggered action]]
 
 **Effect:** If an attack is left to be resolved and the target was reduced to 0 Stamina, the attacker can pick a different target.
 
@@ -4803,7 +4803,7 @@ You should absolutely feel free to describe your [[Equipment|equipment]] in a wa
 Each kit has an armor category that indicates the kind of protection you have while using the kit.
 
 - **None:** If a kit has no armor, you can wear whatever clothing you like! Robes, a fashionable tunic and pants, or just a loincloth—it’s totally up to you.
-- **Light Armor:** If a kit features light armor, you might wear padded cloth, leather armor, or even a chain shirt.
+- **Light Armor:** If a [[Kit Features|kit features]] light armor, you might wear padded cloth, leather armor, or even a chain shirt.
 - **Medium Armor:** If a kit has medium armor, you might wear layers of thick [[Hide|hides]], a breastplate, or armor made of metal scales.
 - **Heavy Armor:** If a kit has heavy armor, then you’re likely wearing metal from head to toe. Chain mail, ring mail, and suits of plate armor protect you better than any other mundane protection.
 - **Shield:** If a kit has a shield, then you wield a shield that can be any shape and made of any mundane material you like. The best shields have a sweet insignia on them, so start thinking about yours!
@@ -4953,11 +4953,11 @@ For example, the [[Conduit|conduit]]’s [[Thunder Of The Divine|Thunder of the 
 
 #### MOBILITY
 
-Some martial kits grant you the Mobility trait. With this trait, when an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+Some martial kits grant you the Mobility trait. With this trait, when an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ### KIT SIGNATURE ABILITY
 
-Each kit grants you a signature ability, which already includes the kit’s bonuses.
+Each kit grants you a [[Signature Ability|signature ability]], which already includes the kit’s bonuses.
 
 ### KIT WARDS
 
@@ -4971,7 +4971,7 @@ Each caster kit grants you a ward that is active as long as you are alive and no
 > - If your kit has a medium or heavy weapon that you aren’t wielding, you lose the kit’s melee damage bonus.
 > - If your kit has a light weapon that you aren’t wielding, you lose the kit’s melee damage, ranged damage, and distance bonus.
 > - If your kit has a reach weapon or whip that you aren’t wielding, you lose the kit’s melee damage and reach bonus.
-> - If your kit has an ensnaring weapon that you aren’t wielding, you lose the kit’s signature ability.
+> - If your kit has an ensnaring weapon that you aren’t wielding, you lose the kit’s [[Signature Ability|signature ability]].
 > - If your kit has an implement that you aren’t wielding, you lose the kit’s speed, stability, distance, area, damage bonus, and ward.
 
 ### MARTIAL KITS
@@ -4993,7 +4993,7 @@ You wear light armor and wield one or two light weapons.
 - Melee Weapon Damage Bonus: +1/+1/+1
 - Ranged Weapon Damage Bonus: +1/+1/+1
 - Weapon Distance Bonus: +5
-- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ##### SIGNATURE ABILITY
 
@@ -5061,7 +5061,7 @@ You wear no armor and wield only your unarmed strikes.
 - Stamina Bonus: +3
 - Speed Bonus: +3
 - Melee Weapon Damage Bonus: +2/+2/+2
-- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ##### SIGNATURE ABILITY
 
@@ -5205,7 +5205,7 @@ You wear medium armor and wield a shield and a light weapon.
 - Speed Bonus: +1
 - Melee Weapon Damage Bonus: +1/+1/+1
 - Weapon Distance Bonus: +5
-- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ##### SIGNATURE ABILITY
 
@@ -5241,7 +5241,7 @@ You wear medium armor and wield a medium weapon and a bow.
 - Melee Weapon Damage Bonus: +1/+1/+1
 - Ranged Weapon Damage Bonus: +1/+1/+1
 - Weapon Distance Bonus: +5
-- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ##### SIGNATURE ABILITY
 
@@ -5276,7 +5276,7 @@ You wear light armor and wield a bow.
 - Speed Bonus: +1
 - Ranged Weapon Damage Bonus: +2/+2/+2
 - Weapon Distance Bonus: +7
-- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ##### SIGNATURE ABILITY
 
@@ -5311,7 +5311,7 @@ You wear light armor, and wield a polearm and several ensnaring weapons.
 - Speed Bonus: +1
 - Melee Weapon Damage Bonus: +2/+2/+2
 - Reach Bonus: +1
-- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ##### SIGNATURE ABILITY
 
@@ -5378,7 +5378,7 @@ You wear no armor and wield a bow.
 - Speed Bonus: +1
 - Ranged Weapon Damage Bonus: +0/+0/+4
 - Weapon Distance Bonus: +10
-- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ##### SIGNATURE ABILITY
 
@@ -5415,7 +5415,7 @@ You wear light armor and wield a polearm.
 - Speed Bonus: +2
 - Melee Weapon Damage Bonus: +1/+1/+1
 - Reach Bonus: +1
-- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ##### SIGNATURE ABILITY
 
@@ -5449,7 +5449,7 @@ You wear light armor and wield a medium weapon.
 - Stamina Bonus: +3
 - Speed Bonus: +3
 - Melee Weapon Damage Bonus: +2/+2/+2
-- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ##### SIGNATURE ABILITY
 
@@ -5485,7 +5485,7 @@ You wear no armor and wield a whip.
 - Speed Bonus: +3
 - Melee Weapon Damage Bonus: +1/+1/+1
 - Reach Bonus: +1
-- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ##### SIGNATURE ABILITY
 
@@ -5603,7 +5603,7 @@ Visible energy sparks off you to wash across a nearby foe, who you invite to dan
 
 Your ward surrounds you with a soft, enchanting melody whose volume you control, and grants you the following benefits:
 
-- Whenever an enemy ends their turn adjacent to you, you can shift 2 squares as a free triggered action.
+- Whenever an enemy ends their turn adjacent to you, you can shift 2 squares as a free [[Triggered Action|triggered action]].
 - Whenever a creature damages you with a melee ability, you can slide them a number of squares equal to your highest characteristic score.
 
 #### FRIGID
@@ -5796,7 +5796,7 @@ Burning radiance falls upon your foe, outlining them with a holy glow.
 Your armor is reinforced by a bright ward of holy energy, and grants you the following benefits:
 
 - Allies within 2 squares of you have their stability increased by 1.
-- Whenever an enemy damages you with a melee ability, you or an ally within 2 can shift 2 as a free triggered action.
+- Whenever an enemy damages you with a melee ability, you or an ally within 2 can shift 2 as a free [[Triggered Action|triggered action]].
 
 #### SPELLSLINGER
 
@@ -6858,17 +6858,17 @@ The Weapon keyword is used in attacks that are made with blades, bows, and other
 
 #### IT’S NOT ALL ATTACKS!
 
-> The Attack keyword and phrases like “makes an attack” are reserved for abilities that have a creature specifically targeting other creatures or objects (not an area) and dealing harm to them by making a power roll. Other abilities that target areas of effect, or that require the target to make a resistance roll instead of having the creature using the ability make the roll, are not attacks. They instead use the Area and Resistance keywords, respectively. That means if a feature distinctly interacts with an attack (for instance, the [[Conduit|conduit]]’s [[Holy Infusion]] triggered action), that feature has no effect on abilities with the Area or Resistance keyword.
+> The Attack keyword and phrases like “makes an attack” are reserved for abilities that have a creature specifically targeting other creatures or objects (not an area) and dealing harm to them by making a power roll. Other abilities that target areas of effect, or that require the target to make a resistance roll instead of having the creature using the ability make the roll, are not attacks. They instead use the Area and Resistance keywords, respectively. That means if a feature distinctly interacts with an attack (for instance, the [[Conduit|conduit]]’s [[Holy Infusion]] [[Triggered Action|triggered action]]), that feature has no effect on abilities with the Area or Resistance keyword.
 
 ### TYPE
 
-Each ability has a “Type” entry that describes how long it takes to execute the ability. For instance, if you use an ability that has “Action” as its type entry, you must use your action to activate the ability. Most abilities require you to use an action, a maneuver, a triggered action, a free maneuver, or a free triggered action (see Combat for more information).
+Each ability has a “Type” entry that describes how long it takes to execute the ability. For instance, if you use an ability that has “Action” as its type entry, you must use your action to activate the ability. Most abilities require you to use an action, a maneuver, a [[Triggered Action|triggered action]], a free maneuver, or a free [[Triggered Action|triggered action]] (see Combat for more information).
 
 If an ability takes 1 minute or longer to use, you can’t use it in combat.
 
 #### TRIGGER
 
-If an ability requires a triggered action or a free triggered action to use, a "Trigger" entry is part of the ability. For example, the trigger for the [[Tactician|tactician]]’s [[Parry]] ability is: “A creature makes a Weapon attack against the target.”
+If an ability requires a [[Triggered Action|triggered action]] or a free [[Triggered Action|triggered action]] to use, a "Trigger" entry is part of the ability. For example, the trigger for the [[Tactician|tactician]]’s [[Parry]] ability is: “A creature makes a Weapon attack against the target.”
 
 ### DISTANCE
 
@@ -7047,7 +7047,7 @@ While you are [[Bleeding|bleeding]], you can’t regain Stamina.
 
 #### DAZED
 
-While you are [[Dazed|dazed]], you can do only one thing on your turn: use a maneuver, use an action, or take a move action. You also can’t use triggered actions, free triggered actions, or free maneuvers.
+While you are [[Dazed|dazed]], you can do only one thing on your turn: use a maneuver, use an action, or take a move action. You also can’t use [[Triggered Action|triggered actions]], free [[Triggered Action|triggered actions]], or free maneuvers.
 
 #### FRIGHTENED
 
@@ -7130,7 +7130,7 @@ Combat takes place over a series of rounds. During a round, each creature in the
 
 #### DETERMINE SURPRISE
 
-When battle begins, the Director determines which creatures, if any, are caught off guard. Any creature who isn’t ready for combat at the start of an encounter is surprised until the end of the first round of combat. A surprised creature can’t take triggered or free triggered actions, attacks and damaging area powers rolled against them gain an edge, and they have a bane on resistance rolls.
+When battle begins, the Director determines which creatures, if any, are caught off guard. Any creature who isn’t ready for combat at the start of an encounter is surprised until the end of the first round of combat. A surprised creature can’t take triggered or free [[Triggered Action|triggered actions]], attacks and damaging area powers rolled against them gain an edge, and they have a bane on resistance rolls.
 
 For example, if the heroes sneak up unnoticed on a camp of marauders and attack, each marauder is surprised. Likewise, if the heroes fail to notice that all the cloaked figures in a tavern are actually brain-devouring zombies, then the heroes are surprised. If one of the heroes notices the disguised undead before the zombies attack but has no opportunity to warn their allies, that hero isn’t surprised but the rest of the characters are.
 
@@ -7162,7 +7162,7 @@ If the players do end up arguing in circles about what to do next, the Director 
 
 > If planning everyone’s turn order isn’t fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an Agility test, then record the results. When it’s time for someone on the heroes’ side to act, the hero with the highest result goes first. On the next hero turn, the hero with the second-highest result takes their turn, and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied Agility tests to determine who among the tied creatures acts before the others.
 >
-> At the Director’s discretion, a hero can swap their turn in the initiative order with another willing hero at the start of a new round of combat. This allows certain abilities that interact with the core initiative system, such as the [[Shadow|shadow]]’s **Hesitation is Weakness** ability, to better work with this alternative system.
+> At the Director’s discretion, a hero can swap their turn in the initiative order with another willing hero at the start of a new round of combat. This allows certain abilities that interact with the core initiative system, such as the [[Shadow|shadow]]’s **[[Hesitation Is Weakness|Hesitation is Weakness]]** ability, to better work with this alternative system.
 
 ##### ENEMIES ACT IN GROUPS
 
@@ -7180,13 +7180,13 @@ The Movement section breaks down how your move action works, while the Maneuvers
 
 ##### TRIGGERED ACTIONS AND FREE TRIGGERED ACTIONS
 
-Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature’s turn, but only when the action’s trigger occurs. For instance, a [[Fury|fury]] hero can use the **[[Relentless Toss]]** triggered action to force move a target, but only after an enemy has first tried to force move the [[Fury|fury]] or one of their allies.
+Your hero might have one or more unique [[Triggered Action|triggered actions]], each of which has a specified trigger that allows the action to be used. You can use one [[Triggered Action|triggered action]] per round, either on your turn or another creature’s turn, but only when the action’s trigger occurs. For instance, a [[Fury|fury]] hero can use the **[[Relentless Toss]]** [[Triggered Action|triggered action]] to force move a target, but only after an enemy has first tried to force move the [[Fury|fury]] or one of their allies.
 
-A free triggered action follows the same rules as a triggered action, but it doesn’t count against your limit of one triggered action per round. For instance, a [[Shadow|shadow]] hero can use their **Hesitation is Weakness** ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free triggered action, the [[Shadow|shadow]] can still use their **[[In All This Confusion]]** triggered action if attacked by an enemy.
+A free [[Triggered Action|triggered action]] follows the same rules as a [[Triggered Action|triggered action]], but it doesn’t count against your limit of one [[Triggered Action|triggered action]] per round. For instance, a [[Shadow|shadow]] hero can use their **[[Hesitation Is Weakness|Hesitation is Weakness]]** ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free [[Triggered Action|triggered action]], the [[Shadow|shadow]] can still use their **[[In All This Confusion]]** [[Triggered Action|triggered action]] if attacked by an enemy.
 
-If multiple triggered actions occur in response to the same trigger, any heroes and other player-controlled creatures taking a triggered action or a free triggered action decide among themselves which of those triggered actions are resolved first. Then the Director decides the same for creatures they control.
+If multiple [[Triggered Action|triggered actions]] occur in response to the same trigger, any heroes and other player-controlled creatures taking a [[Triggered Action|triggered action]] or a free [[Triggered Action|triggered action]] decide among themselves which of those [[Triggered Action|triggered actions]] are resolved first. Then the Director decides the same for creatures they control.
 
-Any effect that prevents you from making triggered actions also prevents you from making free triggered actions.
+Any effect that prevents you from making [[Triggered Action|triggered actions]] also prevents you from making free [[Triggered Action|triggered actions]].
 
 ##### FREE MANEUVERS
 
@@ -7485,7 +7485,7 @@ Many rules and abilities allow heroes to make [[Free Strike|free strikes]] when 
 
 #### OPPORTUNITY ATTACKS
 
-Whenever a creature within the reach of your melee [[Free Strike|free strike]] moves out of it without [[Shifting|shifting]], you can take advantage of their movement to quickly make a melee [[Free Strike|free strike]] against them as a free triggered action. This is called an opportunity attack.
+Whenever a creature within the reach of your melee [[Free Strike|free strike]] moves out of it without [[Shifting|shifting]], you can take advantage of their movement to quickly make a melee [[Free Strike|free strike]] against them as a free [[Triggered Action|triggered action]]. This is called an opportunity attack.
 
 If you have a bane or double bane on the power roll against the creature, you can’t make the [[Free Strike|free strike]].
 
@@ -7527,7 +7527,7 @@ When you and at least one ally are adjacent to the same enemy and on completely 
 
 If you’re unsure whether your hero and an ally are flanking a foe, imagine a line extending from the center of your space to your ally’s space. If that line passes through opposite sides or corners of the enemy’s space, then you and your ally are flanking the enemy.
 
-You must have line of effect to the enemy and be able to take triggered actions in order to gain or grant the flanking benefit.
+You must have line of effect to the enemy and be able to take [[Triggered Action|triggered actions]] in order to gain or grant the flanking benefit.
 
 ### COVER
 
@@ -7559,7 +7559,7 @@ Whenever a target with damage immunity takes damage of the indicated type or fro
 
 Certain creatures also have forced move damage immunity. Whenever they take damage from [[Forced Movement|forced movement]], that damage is reduced by a number equal to their immunity.
 
-Damage immunity should be the last thing applied when calculating damage. For instance, if your hero has Weapon immunity 5 and takes 8 damage from a weapon attack, you would take 3 damage. If a [[Tactician|tactician]] first halved the damage you take with the [[Parry]] triggered action, you would take 4 damage from the attack before immunity is applied, with immunity then reducing the damage to 0.
+Damage immunity should be the last thing applied when calculating damage. For instance, if your hero has Weapon immunity 5 and takes 8 damage from a weapon attack, you would take 3 damage. If a [[Tactician|tactician]] first halved the damage you take with the [[Parry]] [[Triggered Action|triggered action]], you would take 4 damage from the attack before immunity is applied, with immunity then reducing the damage to 0.
 
 If multiple damage immunities apply to a source of damage, only the immunity with the highest value applies.
 
@@ -7589,7 +7589,7 @@ You can tell when other creatures are winded and vice versa.
 
 #### DYING AND DEATH
 
-When your Stamina is 0 or lower, you are dying. While dying, you can’t take the [[Catch Breath]] action in combat, and whenever you make a test using Might or Agility, make an attack, or use an action, maneuver, or a triggered action, you lose 1d6 Stamina after the action, maneuver, or triggered action is resolved. This Stamina loss can’t be prevented in any way. While you are dying, your allies can help you spend recoveries in combat, and you can spend Recoveries out of combat as usual.
+When your Stamina is 0 or lower, you are dying. While dying, you can’t take the [[Catch Breath]] action in combat, and whenever you make a test using Might or Agility, make an attack, or use an action, maneuver, or a [[Triggered Action|triggered action]], you lose 1d6 Stamina after the action, maneuver, or [[Triggered Action|triggered action]] is resolved. This Stamina loss can’t be prevented in any way. While you are dying, your allies can help you spend recoveries in combat, and you can spend Recoveries out of combat as usual.
 
 While your Stamina is lower than 0, if it reaches the negative of your winded value, you die. When you die, you can’t be brought back to life without the use of a special powerful item such as a Scroll of Resurrection.
 
@@ -7609,7 +7609,7 @@ Director-controlled creatures remain unconscious for 1 hour if no one does anyth
 
 ##### UNCONSCIOUS
 
-While you are unconscious, you can’t take actions, maneuvers, triggered actions, free triggered actions, or free maneuvers; your speed is 0; you are unaware of your surroundings; and you are [[Prone|prone]]. Attacks against you have a double edge. If you wake up from being unconscious, you can [[Stand Up|stand up]] from [[Prone|prone]] as a free maneuver.
+While you are unconscious, you can’t take actions, maneuvers, [[Triggered Action|triggered actions]], free [[Triggered Action|triggered actions]], or free maneuvers; your speed is 0; you are unaware of your surroundings; and you are [[Prone|prone]]. Attacks against you have a double edge. If you wake up from being unconscious, you can [[Stand Up|stand up]] from [[Prone|prone]] as a free maneuver.
 
 #### TEMPORARY STAMINA
 

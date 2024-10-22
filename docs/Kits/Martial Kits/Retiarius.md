@@ -29,7 +29,7 @@ You wear light armor, and wield a polearm and several ensnaring weapons.
 - Speed Bonus: +1
 - Melee Weapon Damage Bonus: +2/+2/+2
 - Reach Bonus: +1
-- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ## Signature Ability
 

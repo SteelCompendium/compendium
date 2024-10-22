@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # Heroic Abilities
 
-You make use of a number of heroic abilities, all of which channel piety to empower them.
+You make use of a number of heroic abilities, all of which channel [[Piety|piety]] to empower them.

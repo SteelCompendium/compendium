@@ -30,7 +30,7 @@ Your divine energy restores the righteous.
 
 **Effect**: The target can spend 1 Recovery.
 
-**Spend Piety**: For each piety spent, you can choose one of the following enhancements:
+**Spend [[Piety]]**: For each [[Piety|piety]] spent, you can choose one of the following enhancements:
 
 - You can target one additional ally within distance.
 - You can end one effect on a target that has a duration of EoT or is ended by a resistance roll.

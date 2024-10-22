@@ -33,11 +33,11 @@ As a conduit, you [[Heal|heal]] and buff your allies, and debuff your foes while
 
 ### Conduit Advancement
 
-| Level | Features                                                                                                                         |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 1st   | Deity and Domains, Piety, Domain Feature, [[Healing Grace]], [[Pious Force]], Triggered Action, Conduit Abilities Signature, 3,5 |
-| 2nd   | Gift of the Gods, Domain Feature, Domain Ability Signature, 3, 5, 5 (Domain)                                                     |
-| 3rd   | Restore Life, 7-Piety, Ability Signature, 3, 5, 5 (Domain), 7                                                                    |
+| Level | Features                                                                                                                                                            |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st   | [[Deity And Domains\|Deity and Domains]], [[Piety]], Domain Feature, [[Healing Grace]], [[Pious Force]], [[Triggered Action]], [[Conduit Abilities]] Signature, 3,5 |
+| 2nd   | Gift of the Gods, Domain Feature, Domain Ability Signature, 3, 5, 5 (Domain)                                                                                        |
+| 3rd   | Restore Life, 7-[[Piety]], Ability Signature, 3, 5, 5 (Domain), 7                                                                                                   |
 
 ## 1st-level Features
 
@@ -64,11 +64,11 @@ After choosing your deity, pick two domains from their portfolio. Your choice of
 
 ### Piety
 
-Your deity grants you a Heroic Resource called piety to fuel your abilities. You use piety to [[Heal|heal]] and empower your allies, and to unleash your deity's power upon your foes.
+Your deity grants you a Heroic Resource called [[Piety|piety]] to fuel your abilities. You use [[Piety|piety]] to [[Heal|heal]] and empower your allies, and to unleash your deity's power upon your foes.
 
-Outside of combat and other dangerous situations tracked in turns and rounds, you have piety equal to your Victories. If you lose some or all of this piety outside of combat, it takes you 1 minute to regain it.
+Outside of combat and other dangerous situations tracked in turns and rounds, you have [[Piety|piety]] equal to your Victories. If you lose some or all of this [[Piety|piety]] outside of combat, it takes you 1 minute to regain it.
 
-When a combat encounter begins, you keep any piety you had outside of combat. At the start of each of your turns during combat, you gain 2 piety. You can also use the [[Prayer]] ability to gain additional piety. When combat ends, you once again have piety equal to your Victories.
+When a combat encounter begins, you keep any [[Piety|piety]] you had outside of combat. At the start of each of your turns during combat, you gain 2 [[Piety|piety]]. You can also use the [[Prayer]] ability to gain additional [[Piety|piety]]. When combat ends, you once again have [[Piety|piety]] equal to your Victories.
 
 #### Prayer
 
@@ -82,8 +82,8 @@ When a combat encounter begins, you keep any piety you had outside of combat. At
 **Power Roll + Intuition**:
 
 - 11 or lower: 1d6 damage; [[Bleeding|bleeding]] (EoT)
-- 12–16: Gain 1 piety
-- 17+: Gain 2 piety and choose and use a domain effect
+- 12–16: Gain 1 [[Piety|piety]]
+- 17+: Gain 2 [[Piety|piety]] and choose and use a [[Domain Effects|domain effect]]
 
 **Effect**: The first time you use this ability during an encounter, it has a double edge. The second time you use it, it takes an edge. The third time you use it, it takes a bane. The fourth and each subsequent time you use this ability during an encounter, it has a double bane.
 
@@ -235,7 +235,7 @@ Your divine energy restores the righteous.
 
 **Effect**: The target can spend 1 Recovery.
 
-**Spend Piety**: For each piety spent, you can choose one of the following enhancements:
+**Spend [[Piety]]**: For each [[Piety|piety]] spent, you can choose one of the following enhancements:
 
 - You can target one additional ally within distance.
 - You can end one effect on a target that has a duration of EoT or is ended by a resistance roll.
@@ -260,7 +260,7 @@ You unleash a blast of raw divine magic upon your foe.
 
 ### Triggered Action
 
-Choose one of the following triggered actions.
+Choose one of the following [[Triggered Action|triggered actions]].
 
 #### Divine Disruption
 
@@ -270,7 +270,7 @@ You sap the strength of an attacking enemy with divine energy.
 
 **Effect**: The attack takes a bane and the damage to one creature targeted by the attack is reduced by an amount equal to your Intuition.
 
-**Spend 1 Piety**: The attack has a double bane and the damage to one creature targeted by the attack is reduced by an amount equal to twice your Intuition score.
+**Spend 1 [[Piety]]**: The attack has a double bane and the damage to one creature targeted by the attack is reduced by an amount equal to twice your Intuition score.
 
 #### Holy Infusion
 
@@ -280,7 +280,7 @@ You invigorate an attacking ally with divine energy.
 
 **Effect**: The attack gains an edge and deals holy damage equal to twice your Intuition score.
 
-**Spend 1 Piety**: The attack has a double edge and deals holy damage equal to twice your Intuition score.
+**Spend 1 [[Piety]]**: The attack has a double edge and deals holy damage equal to twice your Intuition score.
 
 ### Conduit Abilities
 
@@ -288,7 +288,7 @@ Your training and faith let you specialize in magic that buffs your allies, debu
 
 #### Signature Ability
 
-Select one signature ability from the options below. Signature abilities can be used at will.
+Select one [[Signature Ability|signature ability]] from the options below. Signature abilities can be used at will.
 
 ##### Holy Lance
 
@@ -334,11 +334,11 @@ A bolt of holy energy saps the life from a foe.
 
 #### Heroic Abilities
 
-You make use of a number of [[Heroic Abilities|heroic abilities]], all of which channel piety to empower them.
+You make use of a number of [[Heroic Abilities|heroic abilities]], all of which channel [[Piety|piety]] to empower them.
 
 #### 3-piety Abilities
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 3 piety to use.
+Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 3 [[Piety|piety]] to use.
 
 ##### Angel Of Wrath (3 Piety)
 
@@ -382,7 +382,7 @@ A resounding clap of thunder disrupts your foes.
 
 #### 5-piety Abilities
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 5 piety to use.
+Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 5 [[Piety|piety]] to use.
 
 ##### Armor Of The Faithful (5 Piety)
 

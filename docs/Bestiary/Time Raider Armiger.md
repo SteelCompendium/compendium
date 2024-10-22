@@ -30,7 +30,7 @@ Effect: The target takes a bane on the next attack they make before the start of
 
 |                                       |                             |
 | :------------------------------------ | :-------------------------- |
-| Keywords: Psionic, Ranged, Resistance | Type: Triggered Action      |
+| Keywords: Psionic, Ranged, Resistance | Type: [[Triggered Action]]  |
 | Distance: Ranged 20                   | Target: Triggering creature |
 
 ****Trigger****

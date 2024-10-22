@@ -10,7 +10,7 @@ kind: 1st-level features
 
 # Elementalist Triggered Actions
 
-| Specialization | Triggered Action                 |
+| Specialization | [[Triggered Action]]             |
 | -------------- | -------------------------------- |
 | Earth          | [[Earthen Force]]                |
 | Fire           | [[Explosive Assistance]]         |

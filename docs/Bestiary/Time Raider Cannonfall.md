@@ -28,10 +28,10 @@ Effect: A layer of ground or floor beneath the area that is 1 square deep is des
 
 **Buss Buffer**
 
-|                         |                        |
-| :---------------------- | :--------------------- |
-| Keywords: Area, Psionic | Type: Triggered Action |
-| Distance: 5 burst       | Target: Each ally      |
+|                         |                            |
+| :---------------------- | :------------------------- |
+| Keywords: Area, Psionic | Type: [[Triggered Action]] |
+| Distance: 5 burst       | Target: Each ally          |
 
 ****Trigger****
 A creature damages the cannonfall with a ranged ability.

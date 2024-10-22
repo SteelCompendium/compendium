@@ -10,8 +10,8 @@ kind: 1st-level features
 
 # 1st-level Primordial Aspect Features
 
-| Aspect     | Feature                                 |
-| ---------- | --------------------------------------- |
-| Berserker  | Primordial Strength                     |
-| Reaver     | Primordial Cunning                      |
-| Stormwight | Primordial Shape, [[Relentless Hunter]] |
+| Aspect     | Feature                                     |
+| ---------- | ------------------------------------------- |
+| Berserker  | [[Primordial Strength]]                     |
+| Reaver     | [[Primordial Cunning]]                      |
+| Stormwight | [[Primordial Shape]], [[Relentless Hunter]] |

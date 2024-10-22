@@ -47,4 +47,4 @@ Burning radiance falls upon your foe, outlining them with a holy glow.
 Your armor is reinforced by a bright ward of holy energy, and grants you the following benefits:
 
 - Allies within 2 squares of you have their stability increased by 1.
-- Whenever an enemy damages you with a melee ability, you or an ally within 2 can shift 2 as a free triggered action.
+- Whenever an enemy damages you with a melee ability, you or an ally within 2 can shift 2 as a free [[Triggered Action|triggered action]].

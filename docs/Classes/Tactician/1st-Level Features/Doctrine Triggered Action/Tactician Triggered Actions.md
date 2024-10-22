@@ -10,8 +10,8 @@ kind: 1st-level features
 
 # Tactician Triggered Actions
 
-| Doctrine   | Triggered Action    |
-| ---------- | ------------------- |
-| Vanguard   | [[Parry]]           |
-| Mastermind | [[Overwatch]]       |
-| Insurgent  | [[Flank Them Now!]] |
+| Doctrine   | [[Triggered Action]] |
+| ---------- | -------------------- |
+| Vanguard   | [[Parry]]            |
+| Mastermind | [[Overwatch]]        |
+| Insurgent  | [[Flank Them Now!]]  |

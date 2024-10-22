@@ -35,11 +35,11 @@ As an elementalist, you can unleash your wrath across a field of foes, put an en
 
 ### Elementalist Advancement
 
-| Level | Features                                                                                                                                                                                                   |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st   | [[Elemental Specialization]], [[Essence]], [[Hurl Element]], [[Persistent Magic]], [[Practical Magic]], Specialization Feature, Specialization Triggered Action, Elementalist Abilities Signature, 1, 3, 5 |
-| 2nd   | Specialization Feature, New 5-[[Essence]] Ability Signature, 1, 3, 5, 5                                                                                                                                    |
-| 3rd   | Specialization Feature, 7-[[Essence]] Ability Signature, 1, 3, 5, 5, 7                                                                                                                                     |
+| Level | Features                                                                                                                                                                                                           |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1st   | [[Elemental Specialization]], [[Essence]], [[Hurl Element]], [[Persistent Magic]], [[Practical Magic]], Specialization Feature, [[Specialization Triggered Action]], [[Elementalist Abilities]] Signature, 1, 3, 5 |
+| 2nd   | Specialization Feature, New [[Essence]]\[\[5-[[Essence]] Abilities\|5-[[Essence]] Ability\]\] Signature, 1, 3, 5, 5                                                                                                |
+| 3rd   | Specialization Feature, 7-[[Essence]] Ability Signature, 1, 3, 5, 5, 7                                                                                                                                             |
 
 ## 1st-level Features
 
@@ -57,7 +57,7 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - **Void** is the element of the unknown. Void abilities warp space and reality, allowing you to [[Teleport|teleport]], create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance what your allies can do, and alter the abilities of your enemies for the worse.
 
-[[Heroic Abilities|Heroic abilities]] that include your specialization's keyword have their initial [[Essence|essence]] cost reduced by 1 (to a minimum of 1). This reduced cost doesn't apply to abilities you gain because of your specialization, such as Manipulate Earth or Void Sight.
+[[Heroic Abilities|Heroic abilities]] that include your specialization's keyword have their initial [[Essence|essence]] cost reduced by 1 (to a minimum of 1). This reduced cost doesn't apply to abilities you gain because of your specialization, such as [[Manipulate Earth]] or Void Sight.
 
 Choose one of the following elements to be your specialty: earth, fire, green, or void. (Other [[Elemental Specialization|elemental specializations]] will be featured in future products.) Your choice of specialization determines many of the features you'll gain from this class.
 
@@ -130,10 +130,10 @@ Your elementalist specialization grants you a feature, as shown on the [[1st-Lev
 
 | Specialization | Feature                                    |
 | -------------- | ------------------------------------------ |
-| Earth          | Manipulate Earth                           |
-| Fire           | Melt                                       |
+| Earth          | [[Manipulate Earth]]                       |
+| Fire           | [[Melt]]                                   |
 | Green          | [[Speech Of The Wild\|Speech of the Wild]] |
-| Void           | Void Sense                                 |
+| Void           | [[Void Sense]]                             |
 
 #### Manipulate Earth
 
@@ -159,7 +159,7 @@ You gain the following ability:
 
 With the merest touch, you cause an object to turn into slag or ash.
 
-**Effect**: You heat the target and cause it to combust and melt. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.
+**Effect**: You heat the target and cause it to combust and [[Melt|melt]]. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.
 
 **Spend No [[Essence]]**: You can use this ability without spending [[Essence|essence]]. If you do, you must spend 1 uninterrupted minute using the ability while touching the target before its effect occurs.
 
@@ -179,15 +179,15 @@ You also gain the following ability:
 
 You share your special senses with others.
 
-**Effect**: For each [[Essence|essence]] you spend, you can target 1 creature. That creature gains the benefit of your Void Sense feature until the end of your next turn, but doesn't gain the use of Shared Void Sense.
+**Effect**: For each [[Essence|essence]] you spend, you can target 1 creature. That creature gains the benefit of your [[Void Sense]] feature until the end of your next turn, but doesn't gain the use of Shared [[Void Sense]].
 
 ### Specialization Triggered Action
 
-Your specialization grants you a triggered action, as shown on the [[Elementalist Triggered Actions]] table.
+Your specialization grants you a [[Triggered Action|triggered action]], as shown on the [[Elementalist Triggered Actions]] table.
 
 ##### Elementalist Triggered Actions
 
-| Specialization | Triggered Action                 |
+| Specialization | [[Triggered Action]]             |
 | -------------- | -------------------------------- |
 | Earth          | [[Earthen Force]]                |
 | Fire           | [[Explosive Assistance]]         |
@@ -238,7 +238,7 @@ Your mastery of elemental magic grants you unique magical abilities that let you
 
 #### Signature Ability
 
-Select one signature ability from the options below. Signature abilities can be used at will.
+Select one [[Signature Ability|signature ability]] from the options below. Signature abilities can be used at will.
 
 ##### Debris
 

@@ -29,7 +29,7 @@ You wear medium armor and wield a shield and a light weapon.
 - Speed Bonus: +1
 - Melee Weapon Damage Bonus: +1/+1/+1
 - Weapon Distance Bonus: +5
-- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ## Signature Ability
 

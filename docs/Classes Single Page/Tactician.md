@@ -32,11 +32,11 @@ As a tactician, you have abilities that [[Heal|heal]] your allies and grant them
 
 ### Tactician Advancement
 
-| Level | Features                                                                                                                                              | Abilities                                |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| 1st   | [[Tactical Doctrine]], [[Focus]], [[Mark]], [[Seize The Opening\|Seize the Opening]], Doctrine Features, Doctrine Triggered Action, [[Field Arsenal]] | [[Field Arsenal]], 3, 5                  |
-| 2nd   | Doctrine Features, Doctrine Ability                                                                                                                   | [[Field Arsenal]], 3, 5, 5 (Doctrine)    |
-| 3rd   | All According to Plan, 7-[[Focus]] Ability                                                                                                            | [[Field Arsenal]], 3, 5, 5 (Doctrine), 7 |
+| Level | Features                                                                                                                                                  | Abilities                                |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| 1st   | [[Tactical Doctrine]], [[Focus]], [[Mark]], [[Seize The Opening\|Seize the Opening]], Doctrine Features, [[Doctrine Triggered Action]], [[Field Arsenal]] | [[Field Arsenal]], 3, 5                  |
+| 2nd   | Doctrine Features, Doctrine Ability                                                                                                                       | [[Field Arsenal]], 3, 5, 5 (Doctrine)    |
+| 3rd   | All According to Plan, 7-[[Focus]] Ability                                                                                                                | [[Field Arsenal]], 3, 5, 5 (Doctrine), 7 |
 
 ## 1st-level Features
 
@@ -87,7 +87,7 @@ Your ability to command your allies in combat grants you the following ability.
 
 As the battle unfolds, you tell your allies exactly when to strike!
 
-**Effect:** The target makes a signature attack as a free triggered action, and deals extra damage equal to your Reason score.
+**Effect:** The target makes a signature attack as a free [[Triggered Action|triggered action]], and deals extra damage equal to your Reason score.
 
 **Spend 5 [[Focus]]:** You target two allies instead of one.
 
@@ -131,15 +131,15 @@ You can only make this test once for each encounter and negotiation.
 
 ### Doctrine Triggered Action
 
-Your doctrine grants you a triggered action, as shown on the [[Tactician Triggered Actions]] table.
+Your doctrine grants you a [[Triggered Action|triggered action]], as shown on the [[Tactician Triggered Actions]] table.
 
 #### Tactician Triggered Actions
 
-| Doctrine   | Triggered Action    |
-| ---------- | ------------------- |
-| Vanguard   | [[Parry]]           |
-| Mastermind | [[Overwatch]]       |
-| Insurgent  | [[Flank Them Now!]] |
+| Doctrine   | [[Triggered Action]] |
+| ---------- | -------------------- |
+| Vanguard   | [[Parry]]            |
+| Mastermind | [[Overwatch]]        |
+| Insurgent  | [[Flank Them Now!]]  |
 
 #### Flank Them Now!
 
@@ -185,10 +185,10 @@ For example, if you take the [[Shining Armor]] and [[Sniper]] kits, you gain the
 - **Speed Bonus:** +1
 - **Ranged Weapon Damage Bonus:** +0/+0/+4
 - **Distance Bonus:** +10
-- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 - **You also gain the use of the Protective Attack and Patient Shot signature abilities.**
 
-Kit signature abilities already have their bonuses applied. For example, you might take the [[Martial Artist]] kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [[Mountain]] kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [[Mountain]] kit's damage bonus, then the Battle Grace signature ability from the [[Martial Artist]] kit would reduce its damage by −2/−2/−2, as it loses the bonus from the [[Martial Artist]] kit. It then gains the +0/+0/+4 of the [[Mountain]] kit, to deal damage of 3/7/14 for its tier 1, tier 2, and tier 3 results.
+Kit signature abilities already have their bonuses applied. For example, you might take the [[Martial Artist]] kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [[Mountain]] kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [[Mountain]] kit's damage bonus, then the Battle Grace [[Signature Ability|signature ability]] from the [[Martial Artist]] kit would reduce its damage by −2/−2/−2, as it loses the bonus from the [[Martial Artist]] kit. It then gains the +0/+0/+4 of the [[Mountain]] kit, to deal damage of 3/7/14 for its tier 1, tier 2, and tier 3 results.
 
 ### Tactician Abilities
 
@@ -196,7 +196,7 @@ You are a formidable combatant in your own right, but your greatest strength in 
 
 #### Kit Signature Ability
 
-Your additional kit from your [[Field Arsenal]] feature grants you a second signature ability. Signature abilities can be used at will.
+Your additional kit from your [[Field Arsenal]] feature grants you a second [[Signature Ability|signature ability]]. Signature abilities can be used at will.
 
 #### Heroic Abilities
 
@@ -248,9 +248,9 @@ Your attack is your allies' signal to strike!
 
 **Power Roll + Might:**
 
-- 11 or lower: 7 damage; an ally within 10 can make a signature attack against the target as a free triggered action
-- 12–16: 10 damage; an ally within 10 can make a signature attack with an edge against the target as a free triggered action
-- 17+: 16 damage; two allies within 10 can each make a signature attack with an edge against the target as a free triggered action
+- 11 or lower: 7 damage; an ally within 10 can make a signature attack against the target as a free [[Triggered Action|triggered action]]
+- 12–16: 10 damage; an ally within 10 can make a signature attack with an edge against the target as a free [[Triggered Action|triggered action]]
+- 17+: 16 damage; two allies within 10 can each make a signature attack with an edge against the target as a free [[Triggered Action|triggered action]]
 
 **Effect:** If an attack is left to be resolved and the target was reduced to 0 Stamina, the attacker can pick a different target.
 

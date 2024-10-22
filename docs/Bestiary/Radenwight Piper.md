@@ -33,14 +33,14 @@ Effect: The piper or an ally within distance regains stamina equal to half the d
 | Keywords: Area, Magic | Type: Maneuver    |
 | Distance: 5 burst     | Target: Each ally |
 
-Effect: Each target who has used their Ready Rodent ability since their last turn regains the use of their triggered action.
+Effect: Each target who has used their Ready Rodent ability since their last turn regains the use of their [[Triggered Action|triggered action]].
 
 **Ready Rodent**
 
-|                         |                        |
-| :---------------------- | :--------------------- |
-| Keywords: Melee, Weapon | Type: Triggered Action |
-| Distance: Reach 1       | Target: One creature   |
+|                         |                            |
+| :---------------------- | :------------------------- |
+| Keywords: Melee, Weapon | Type: [[Triggered Action]] |
+| Distance: Reach 1       | Target: One creature       |
 
 Trigger: An ally deals damage to the target.
 

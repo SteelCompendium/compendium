@@ -54,7 +54,7 @@ Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head
 
 “They may pull you apart,” he said to her, and at this, his squadron of [[Soldier|soldiers]], all in black leather and golden pauldrons, started making barking sounds. Then they laughed at each other.
 
-“Or I may let my crucibite melt the skin from your bones.”
+“Or I may let my crucibite [[Melt|melt]] the skin from your bones.”
 
 At that, a war dog clad in leather from head to foot wearing a heavy mask with glass circles where the eyes should be and some kind of canister over his mouth stepped forward. The long thin brass tube in his hands connected to a large metal tank on his back.
 
@@ -116,7 +116,7 @@ As a time [[Raider|raider]] character, you have the following benefits.
 
 ### Foresight
 
-Your senses extend past mundane obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren't hidden from you, negating the usual bane on attacks against them. Additionally, whenever you are attacked, you can use a triggered action to impose a bane on the power roll.
+Your senses extend past mundane obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren't hidden from you, negating the usual bane on attacks against them. Additionally, whenever you are attacked, you can use a [[Triggered Action|triggered action]] to impose a bane on the power roll.
 
 ### Four Arms
 

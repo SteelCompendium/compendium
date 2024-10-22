@@ -26,7 +26,7 @@ target: Self
 **Power Roll + Intuition**:
 
 - 11 or lower: 1d6 damage; [[Bleeding|bleeding]] (EoT)
-- 12–16: Gain 1 piety
-- 17+: Gain 2 piety and choose and use a domain effect
+- 12–16: Gain 1 [[Piety|piety]]
+- 17+: Gain 2 [[Piety|piety]] and choose and use a [[Domain Effects|domain effect]]
 
 **Effect**: The first time you use this ability during an encounter, it has a double edge. The second time you use it, it takes an edge. The third time you use it, it takes a bane. The fourth and each subsequent time you use this ability during an encounter, it has a double bane.

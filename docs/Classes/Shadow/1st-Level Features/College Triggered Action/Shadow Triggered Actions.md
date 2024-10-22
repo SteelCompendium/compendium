@@ -10,7 +10,7 @@ kind: 1st-level features
 
 # Shadow Triggered Actions
 
-| College         | Triggered Action          |
+| College         | [[Triggered Action]]      |
 | --------------- | ------------------------- |
 | Black Ash       | [[In All This Confusion]] |
 | Caustic Alchemy | [[Defensive Roll]]        |

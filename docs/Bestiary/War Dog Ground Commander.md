@@ -34,10 +34,10 @@ Effect: The target’s loyalty collar detonates, killing them instantly.
 
 **Final Orders**
 
-|                         |                        |
-| :---------------------- | :--------------------- |
-| Keywords: Magic, Ranged | Type: Triggered Action |
-| Distance: Ranged 10     | Target: One ally       |
+|                         |                            |
+| :---------------------- | :------------------------- |
+| Keywords: Magic, Ranged | Type: [[Triggered Action]] |
+| Distance: Ranged 10     | Target: One ally           |
 
 ****Trigger****
 The target has a condition imposed on them, is force moved, or is killed.

@@ -98,4 +98,4 @@ Your silicone body is aerodynamic and low in density. Your speed is 7, and whene
 
 ## Keeper Of Order
 
-When you or a creature adjacent to you makes a power roll, you can remove an edge or a bane on the roll as a free triggered action. You can only use this benefit once per round.
+When you or a creature adjacent to you makes a power roll, you can remove an edge or a bane on the roll as a free [[Triggered Action|triggered action]]. You can only use this benefit once per round.

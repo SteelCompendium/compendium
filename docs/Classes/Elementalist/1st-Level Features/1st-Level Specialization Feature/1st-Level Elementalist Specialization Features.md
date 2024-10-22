@@ -12,7 +12,7 @@ kind: 1st-level features
 
 | Specialization | Feature                                    |
 | -------------- | ------------------------------------------ |
-| Earth          | Manipulate Earth                           |
-| Fire           | Melt                                       |
+| Earth          | [[Manipulate Earth]]                       |
+| Fire           | [[Melt]]                                   |
 | Green          | [[Speech Of The Wild\|Speech of the Wild]] |
-| Void           | Void Sense                                 |
+| Void           | [[Void Sense]]                             |

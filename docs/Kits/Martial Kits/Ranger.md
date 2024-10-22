@@ -30,7 +30,7 @@ You wear medium armor and wield a medium weapon and a bow.
 - Melee Weapon Damage Bonus: +1/+1/+1
 - Ranged Weapon Damage Bonus: +1/+1/+1
 - Weapon Distance Bonus: +5
-- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
+- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
 
 ## Signature Ability
 

@@ -37,10 +37,10 @@ Effect: Two [[Goblin Runner|goblin runners]] appear in unoccupied spaces.
 
 **Meat Shield**
 
-|                   |                        |
-| :---------------- | :--------------------- |
-| Keywords: Melee   | Type: Triggered Action |
-| Distance: Reach 1 | Target: One ally       |
+|                   |                            |
+| :---------------- | :------------------------- |
+| Keywords: Melee   | Type: [[Triggered Action]] |
+| Distance: Reach 1 | Target: One ally           |
 
 Trigger: A creature targets the monarch with an attack.
 
