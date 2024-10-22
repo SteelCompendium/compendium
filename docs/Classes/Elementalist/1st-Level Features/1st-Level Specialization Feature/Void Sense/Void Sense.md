@@ -14,4 +14,4 @@ You instantly recognize illusions for what they are, you can see invisible creat
 
 You also gain the following ability:
 
-[SHARED VOID SENSE (1+ ESSENCE)](<./Shared%20Void%20Sense%20(1%20ESSENCE).md>)
+[SHARED VOID SENSE (1+ ESSENCE)](./Shared%20Void%20Sense.md)

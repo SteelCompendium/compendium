@@ -12,10 +12,10 @@ kind: 1st-level features
 
 Choose one heroic ability from the following options, each of which costs 5 insight to use.
 
-[ASSASSINATE (5 INSIGHT)](<./Assassinate%20(5%20INSIGHT).md>)
+[ASSASSINATE (5 INSIGHT)](./Assassinate.md)
 
-[GET IN, GET OUT (5 INSIGHT)](<./Get%20In%20Get%20Out%20(5%20INSIGHT).md>)
+[GET IN, GET OUT (5 INSIGHT)](./Get%20In%20Get%20Out.md)
 
-[IMPAIRING SHOT (5 INSIGHT)](<./Impairing%20Shot%20(5%20INSIGHT).md>)
+[IMPAIRING SHOT (5 INSIGHT)](./Impairing%20Shot.md)
 
-[QUICKNESS (5 INSIGHT)](<./Quickness%20(5%20INSIGHT).md>)
+[QUICKNESS (5 INSIGHT)](./Quickness.md)

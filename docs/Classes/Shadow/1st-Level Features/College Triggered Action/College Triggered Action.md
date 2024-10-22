@@ -18,4 +18,4 @@ Your college grants you a triggered action, as shown on the Shadow Triggered Act
 
 [IN ALL THIS CONFUSION](./In%20All%20This%20Confusion.md)
 
-[MISDIRECTION (1 INSIGHT)](<./Misdirection%20(1%20INSIGHT).md>)
+[MISDIRECTION (1 INSIGHT)](./Misdirection.md)

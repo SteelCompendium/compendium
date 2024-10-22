@@ -12,10 +12,10 @@ kind: 1st-level features
 
 Choose one heroic ability from the following options, each of which costs 3 focus to use.
 
-[BATTLE CRY (3 FOCUS)](<./Battle%20Cry%20(3%20FOCUS).md>)
+[BATTLE CRY (3 FOCUS)](./Battle%20Cry.md)
 
-[DAZING BLOW (3 FOCUS)](<./Dazing%20Blow%20(3%20FOCUS).md>)
+[DAZING BLOW (3 FOCUS)](./Dazing%20Blow.md)
 
-[INSPIRING STRIKE (3 FOCUS)](<./Inspiring%20Strike%20(3%20FOCUS).md>)
+[INSPIRING STRIKE (3 FOCUS)](./Inspiring%20Strike.md)
 
-[PHALANX FORWARD! (3 FOCUS)](<./Phalanx%20Forward%20(3%20FOCUS).md>)
+[PHALANX FORWARD! (3 FOCUS)](./Phalanx%20Forward.md)

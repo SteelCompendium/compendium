@@ -12,4 +12,4 @@ kind: 1st-level features
 
 You know how to seize the advantage in battle, working with your allies to find the perfect moment to strike. You have the following ability.
 
-[HESITATION IS WEAKNESS (1 INSIGHT)](<./Hesitation%20Is%20Weakness%20(1%20INSIGHT).md>)
+[HESITATION IS WEAKNESS (1 INSIGHT)](./Hesitation%20Is%20Weakness.md)

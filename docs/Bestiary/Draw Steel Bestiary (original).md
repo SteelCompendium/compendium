@@ -205,7 +205,7 @@ If a single attack reduces a minion squad’s Stamina pool by an amount
 of damage equal to the Stamina of multiple minions, multiple minions are taken out by the damage. Start with minions
 who took the damage first. If all those minions are eliminated and there is still more damage to account for , the
 minions nearest to the ones who were taken out suffer the same fate. For instance, if one [[Goblin Sniper|goblin sniper]] takes 12 damage
-from a fury’s [[Brutal Slam]] ability, that [[Sniper|sniper]] dies and another nearby [[Sniper|sniper]] also gets taken out. Allow the player to
+from a fury’s Brutal Slam ability, that [[Sniper|sniper]] dies and another nearby [[Sniper|sniper]] also gets taken out. Allow the player to
 narrate how their hero takes out additional minions killed by a single attack. Maybe each minion is within striking
 distance of the hero, who makes multiple brutal weapon attacks with a single action. Maybe the body of the original
 target is hurled into an unfortunate ally. Maybe additional minions affected by a single attack pass out from fright!
@@ -216,7 +216,7 @@ Taking out multiple minions is a chance to play up the cinematic part of the gam
 Minion squads are particularly susceptible to damage dealing area abilities and attacks that target multiple creatures,
 because
 the minion squad’sStamina pool takes damage each time an individual minion takes damage. If three goblin minions are hit
-with a conduit’s [[Lightfall]] ability that deals 4 holy damage to each target in its area, the minion pool loses 12
+with a conduit’s Lightfall ability that deals 4 holy damage to each target in its area, the minion pool loses 12
 Stamina!
 
 #### PREPPING MINION STAMINA POOLS
@@ -1807,7 +1807,7 @@ Effect: The target is marked until the start of the blackguard’s next turn. Th
 **End Effect**
 At the end of their turn, the blackguard can take 5 damage to end one EoE effect affecting them. This damage can’t be reduced in any way.
 
-**[[Parry]]! (Triggered Action)**
+**Parry! (Triggered Action)**
 Keywords: Melee, Weapon
 Distance: Reach 1
 Target: Self or one ally

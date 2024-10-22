@@ -12,4 +12,4 @@ kind: 1st-level features
 
 You gain the following ability:
 
-[MELT (2 ESSENCE)](<./Melt%20(2%20ESSENCE).md>)
+[MELT (2 ESSENCE)](./Melt.md)

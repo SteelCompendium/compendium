@@ -62,7 +62,7 @@ These things do happen. No one watching *[[Raider|Raiders]] of the Lost Ark* thi
 
 ### CINEMATIC
 
-Closely tied to the heroic keyword, the cinematic keyword is about how we like powers and abilities with a strong visual component. You can imagine your character doing or saying these things. “[[In All This Confusion]]” is a good name for the shadow’s ability to slip out of melee and retreat to safety. The text of the ability says how it works, but the name creates a visual that explains how it’s working.
+Closely tied to the heroic keyword, the cinematic keyword is about how we like powers and abilities with a strong visual component. You can imagine your character doing or saying these things. “In All This Confusion” is a good name for the shadow’s ability to slip out of melee and retreat to safety. The text of the ability says how it works, but the name creates a visual that explains how it’s working.
 
 When Sir Vanazor the [[Dragon Knight|dragon knight]] fury leaps onto a goblin [[War Spider|war spider]], cleaving through the goblins riding the creature in a single turn, you can see it in your mind. It feels like a movie. It doesn’t feel simply as if you rolled well, but like an epic scene, complete with slow motion and a Carpenter Brut soundtrack.
 
@@ -869,7 +869,7 @@ A tall, broad draconian stepped into the light. He was old, his scales battle-sc
 
 The three [[Human|human]] bandits took a step back. One of the [[Dwarf|dwarves]] just sneered—then, sensing his [[Human|human]] compatriot’s reluctance, turned to look at them. “What’s this?” the lead [[Dwarf|dwarf]] growled.
 
-“Don’t be cowards [[Now!|now!]]” the other [[Dwarf|dwarf]] said, a hint of joy in his voice. “Look what a prize we have caught!”
+“Don’t be cowards now!” the other [[Dwarf|dwarf]] said, a hint of joy in his voice. “Look what a prize we have caught!”
 
 “We didn’t…” one bandit said, shaking. “We didn’t know…”
 
@@ -2995,7 +2995,7 @@ As an elementalist, you gain the following features.
 
 Through your studies, you know and can manipulate the seven primal elements of the timescape:
 
-- **Air** is the element of movement. Air abilities allow you to manipulate speed, [[Quickness|quickness]], flight, and breath.
+- **Air** is the element of movement. Air abilities allow you to manipulate speed, quickness, flight, and breath.
 - **Earth** is the element of permanence. Earth abilities create and shape physical terrain in a permanent way, and bolster the strength and hardiness of allies.
 - **Fire** is the element of destruction. Fire abilities harm enemies and objects.
 - **Green** is the element of creation and growth. Green abilities make and manipulate plants, fungi, and other forms of life to hamper foes and nourish your allies.
@@ -3153,12 +3153,12 @@ Your specialization grants you a triggered action, as shown on the Elementalist 
 
 ###### ELEMENTALIST TRIGGERED ACTIONS
 
-| Specialization | Triggered Action                 |
-| -------------- | -------------------------------- |
-| Earth          | [[Earthen Force]]                |
-| Fire           | [[Explosive Assistance]]         |
-| Green          | [[Mend The Soul\|Mend the Soul]] |
-| Void           | [[Void Embrace]]                 |
+| Specialization | Triggered Action     |
+| -------------- | -------------------- |
+| Earth          | Earthen Force        |
+| Fire           | Explosive Assistance |
+| Green          | Mend the Soul        |
+| Void           | Void Embrace         |
 
 ##### EARTHEN FORCE
 
@@ -3543,9 +3543,9 @@ Your primordial aspect grants you a triggered action, as shown on the Fury Trigg
 
 | **Aspect** | **Triggered Action** |
 | ---------- | -------------------- |
-| Berserker  | [[Relentless Toss]]  |
-| Reaver     | [[Uncanny Dodge]]    |
-| Stormwight | [[Regeneration]]     |
+| Berserker  | Relentless Toss      |
+| Reaver     | Uncanny Dodge        |
+| Stormwight | Regeneration         |
 
 ##### REGENERATION
 
@@ -4177,11 +4177,11 @@ Your college grants you a triggered action, as shown on the Shadow Triggered Act
 
 ##### SHADOW TRIGGERED ACTIONS
 
-| College         | Triggered Action          |
-| --------------- | ------------------------- |
-| Black Ash       | [[In All This Confusion]] |
-| Caustic Alchemy | [[Defensive Roll]]        |
-| Harlequin Mask  | [[Misdirection]]          |
+| College         | Triggered Action      |
+| --------------- | --------------------- |
+| Black Ash       | In All This Confusion |
+| Caustic Alchemy | Defensive Roll        |
+| Harlequin Mask  | Misdirection          |
 
 ##### DEFENSIVE ROLL
 
@@ -4576,11 +4576,11 @@ Your doctrine grants you a triggered action, as shown on the Tactician Triggered
 
 ##### TACTICIAN TRIGGERED ACTIONS
 
-| Doctrine   | Triggered Action    |
-| ---------- | ------------------- |
-| Vanguard   | [[Parry]]           |
-| Mastermind | [[Overwatch]]       |
-| Insurgent  | [[Flank Them Now!]] |
+| Doctrine   | Triggered Action |
+| ---------- | ---------------- |
+| Vanguard   | Parry            |
+| Mastermind | Overwatch        |
+| Insurgent  | Flank Them Now!  |
 
 ##### FLANK THEM NOW!
 
@@ -4949,7 +4949,7 @@ Your kit’s reach bonus is added to the reach of your melee weapon attacks.
 
 Some caster kits have an area bonus. For all areas except walls, the bonus is added to all dimensions of any area of effect created by your magic abilities. For walls, the bonus is added to the number of squares the wall can create.
 
-For example, the conduit’s [[Thunder Of The Divine|Thunder of the Divine]] ability has a 4-cube area of effect, so an area bonus of +1 increases the ability’s area of effect to a 5-cube.
+For example, the conduit’s Thunder of the Divine ability has a 4-cube area of effect, so an area bonus of +1 increases the ability’s area of effect to a 5-cube.
 
 #### MOBILITY
 
@@ -6808,7 +6808,7 @@ Your class, kit, ancestry, titles, and other heroic options give you access to a
 
 Each ability has an evocative name that sets up what it does in the game, followed by a line or two of flavor text that provides a sense of how the use of the ability might appear if described in an action scene in a story.
 
-The name and story text for abilities sometimes make reference to specific ways in which the ability is used—particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the fury’s *[[Impaling Strike]]* ability allows you to [[Grab|grab]] a target, setting up the idea of harpooning your monstrous foe with a sword, then wrenching them in close before pulling your weapon free. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
+The name and story text for abilities sometimes make reference to specific ways in which the ability is used—particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the fury’s *Impaling Strike* ability allows you to [[Grab|grab]] a target, setting up the idea of harpooning your monstrous foe with a sword, then wrenching them in close before pulling your weapon free. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
 
 ### RESOURCE COST
 
@@ -6858,7 +6858,7 @@ The Weapon keyword is used in attacks that are made with blades, bows, and other
 
 #### IT’S NOT ALL ATTACKS!
 
-> The Attack keyword and phrases like “makes an attack” are reserved for abilities that have a creature specifically targeting other creatures or objects (not an area) and dealing harm to them by making a power roll. Other abilities that target areas of effect, or that require the target to make a resistance roll instead of having the creature using the ability make the roll, are not attacks. They instead use the Area and Resistance keywords, respectively. That means if a feature distinctly interacts with an attack (for instance, the conduit’s [[Holy Infusion]] triggered action), that feature has no effect on abilities with the Area or Resistance keyword.
+> The Attack keyword and phrases like “makes an attack” are reserved for abilities that have a creature specifically targeting other creatures or objects (not an area) and dealing harm to them by making a power roll. Other abilities that target areas of effect, or that require the target to make a resistance roll instead of having the creature using the ability make the roll, are not attacks. They instead use the Area and Resistance keywords, respectively. That means if a feature distinctly interacts with an attack (for instance, the conduit’s Holy Infusion triggered action), that feature has no effect on abilities with the Area or Resistance keyword.
 
 ### TYPE
 
@@ -6868,7 +6868,7 @@ If an ability takes 1 minute or longer to use, you can’t use it in combat.
 
 #### TRIGGER
 
-If an ability requires a triggered action or a free triggered action to use, a "Trigger" entry is part of the ability. For example, the trigger for the tactician’s [[Parry]] ability is: “A creature makes a Weapon attack against the target.”
+If an ability requires a triggered action or a free triggered action to use, a "Trigger" entry is part of the ability. For example, the trigger for the tactician’s Parry ability is: “A creature makes a Weapon attack against the target.”
 
 ### DISTANCE
 
@@ -6939,7 +6939,7 @@ If an ability doesn’t provide a number of targets but instead says it applies 
 
 If an ability requires a power roll, it has a “Power Roll” entry that tells you which characteristic to add to the 2d10 roll you make when you activate the ability. Unlike power rolls made as tests, ability power rolls always do something useful when you make them. You’re just rolling to see the impact of the ability, including damage and any effects based on the tier result of the power roll.
 
-For instance, the fury’s [[Brutal Slam]] ability is a melee attack that targets a creature within reach, and which has the following effects:
+For instance, the fury’s Brutal Slam ability is a melee attack that targets a creature within reach, and which has the following effects:
 
 - **Tier 1 (11 or lower):** The attack deals 3 damage and pushes the target back 1 square.
 - **Tier 2 (12–16):** The attack deals 8 damage and pushes the target back 2 squares.
@@ -6949,7 +6949,7 @@ For instance, the fury’s [[Brutal Slam]] ability is a melee attack that target
 
 Both attacks and area abilities deal damage and often have an additional effect on their target. The amount of damage and the strength of the effect are determined by the power roll.
 
-To keep things quick and easy to read at the table, damage and effects are separated in a power roll entry with a semicolon, with effects abbreviated whenever possible. An effect determined by the power roll result always applies to the target unless otherwise specified. For instance, the [[Brutal Slam]] ability described above has the following power roll setup:
+To keep things quick and easy to read at the table, damage and effects are separated in a power roll entry with a semicolon, with effects abbreviated whenever possible. An effect determined by the power roll result always applies to the target unless otherwise specified. For instance, the Brutal Slam ability described above has the following power roll setup:
 
 **Power Roll + Might:**
 
@@ -6965,7 +6965,7 @@ When you make a power roll as part of an attack or action and the total of the r
 
 ##### DURING THE MOVE
 
-Certain ability effects allow you to move and affect other creatures or objects during that move, such as the shadow’s [[Blade Dance]] ability. For such abilities, the move begins in the space you first leave when you move, and ends in the last space you move into.
+Certain ability effects allow you to move and affect other creatures or objects during that move, such as the shadow’s Blade Dance ability. For such abilities, the move begins in the space you first leave when you move, and ends in the last space you move into.
 
 #### ROLL AGAINST MULTIPLE CREATURES
 
@@ -7180,9 +7180,9 @@ The Movement section breaks down how your move action works, while the Maneuvers
 
 ##### TRIGGERED ACTIONS AND FREE TRIGGERED ACTIONS
 
-Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature’s turn, but only when the action’s trigger occurs. For instance, a fury hero can use the **[[Relentless Toss]]** triggered action to force move a target, but only after an enemy has first tried to force move the fury or one of their allies.
+Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature’s turn, but only when the action’s trigger occurs. For instance, a fury hero can use the **Relentless Toss** triggered action to force move a target, but only after an enemy has first tried to force move the fury or one of their allies.
 
-A free triggered action follows the same rules as a triggered action, but it doesn’t count against your limit of one triggered action per round. For instance, a shadow hero can use their **Hesitation is Weakness** ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free triggered action, the shadow can still use their **[[In All This Confusion]]** triggered action if attacked by an enemy.
+A free triggered action follows the same rules as a triggered action, but it doesn’t count against your limit of one triggered action per round. For instance, a shadow hero can use their **Hesitation is Weakness** ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free triggered action, the shadow can still use their **In All This Confusion** triggered action if attacked by an enemy.
 
 If multiple triggered actions occur in response to the same trigger, any heroes and other player-controlled creatures taking a triggered action or a free triggered action decide among themselves which of those triggered actions are resolved first. Then the Director decides the same for creatures they control.
 
@@ -7310,7 +7310,7 @@ Some actions and maneuvers allow you to push, pull, or slide another creature a 
 - **Pull X:** You move the target up to X squares toward you in a straight line, without moving them vertically. Each square you move the creature must bring them closer to you.
 - **Slide X:** You move the target up to X squares in any direction, except for vertically.
 
-When you force move a target, you can always move that target fewer squares than the number indicated. For example, when the conduit gets a tier 3 “push 5” result with their [[Thunder Of The Divine|Thunder of the Divine]] ability, they can push targets any distance up to 5 squares, including choosing to not move certain targets at all.
+When you force move a target, you can always move that target fewer squares than the number indicated. For example, when the conduit gets a tier 3 “push 5” result with their Thunder of the Divine ability, they can push targets any distance up to 5 squares, including choosing to not move certain targets at all.
 
 [[Forced Movement|Forced movement]] ignores [[Difficult Terrain|difficult terrain]] and never provokes opportunity attacks. When you force move a target into damaging terrain or into terrain that produces an effect, they are affected as if they had moved into it willingly.
 
@@ -7481,7 +7481,7 @@ You use your action to employ medicine or inspiring words to make an adjacent cr
 
 Every creature can make a **[[Free Strike|free strike]]** as an action on their turn, though doing so typically isn’t the most effective choice. Most of the time, you’ll use [[Free Strike|free strikes]] when the rules call for it. Specific rules let you use [[Free Strike|free strikes]] as part of an action that allows you to also do something else impactful, such as how the [[Charge]] action lets you move and use a melee [[Free Strike|free strike]] in one action (see [[Charge]] above).
 
-Many rules and abilities allow heroes to make [[Free Strike|free strikes]] when it isn’t their turn, such as the tactician’s [[Overwatch]] ability. As well, all characters can make an opportunity attack [[Free Strike|free strike]].
+Many rules and abilities allow heroes to make [[Free Strike|free strikes]] when it isn’t their turn, such as the tactician’s Overwatch ability. As well, all characters can make an opportunity attack [[Free Strike|free strike]].
 
 #### OPPORTUNITY ATTACKS
 
@@ -7559,7 +7559,7 @@ Whenever a target with damage immunity takes damage of the indicated type or fro
 
 Certain creatures also have forced move damage immunity. Whenever they take damage from [[Forced Movement|forced movement]], that damage is reduced by a number equal to their immunity.
 
-Damage immunity should be the last thing applied when calculating damage. For instance, if your hero has Weapon immunity 5 and takes 8 damage from a weapon attack, you would take 3 damage. If a tactician first halved the damage you take with the [[Parry]] triggered action, you would take 4 damage from the attack before immunity is applied, with immunity then reducing the damage to 0.
+Damage immunity should be the last thing applied when calculating damage. For instance, if your hero has Weapon immunity 5 and takes 8 damage from a weapon attack, you would take 3 damage. If a tactician first halved the damage you take with the Parry triggered action, you would take 4 damage from the attack before immunity is applied, with immunity then reducing the damage to 0.
 
 If multiple damage immunities apply to a source of damage, only the immunity with the highest value applies.
 
@@ -7573,7 +7573,7 @@ If you have both damage immunity and weakness applied to a source of damage, app
 
 ### STAMINA
 
-Your hero’s survivability is represented by your **Stamina**. Think of Stamina as a combination of a creature’s physical vitality and their overall energy for dodging and resisting incoming blows, spells, and other violence. It’s not that every instance of damage deals a [[Bleeding|bleeding]] wound to you, but that each one chips away at your ability to fight effectively. An attack might make you sweat as you leap back to avoid an arrow, while another might just graze your elbow with a dagger nick, leaving a dull, [[Distracting Pain|distracting pain]]. Eventually, though, this draining of energy leaves you open for bigger blows that can truly harm your body—or possibly kill you.
+Your hero’s survivability is represented by your **Stamina**. Think of Stamina as a combination of a creature’s physical vitality and their overall energy for dodging and resisting incoming blows, spells, and other violence. It’s not that every instance of damage deals a [[Bleeding|bleeding]] wound to you, but that each one chips away at your ability to fight effectively. An attack might make you sweat as you leap back to avoid an arrow, while another might just graze your elbow with a dagger nick, leaving a dull, distracting pain. Eventually, though, this draining of energy leaves you open for bigger blows that can truly harm your body—or possibly kill you.
 
 After any damage you take is reduced by damage immunity or other effects, your Stamina is reduced by an amount equal to the remaining damage. Some effects can also reduce your Stamina maximum, limiting the amount of Stamina you can regain.
 

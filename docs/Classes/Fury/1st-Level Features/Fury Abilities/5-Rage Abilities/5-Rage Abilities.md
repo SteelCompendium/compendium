@@ -12,10 +12,10 @@ kind: 1st-level features
 
 Choose one heroic ability from the following options, each of which costs 5 rage to use.
 
-[BLOOD FOR BLOOD! (5 RAGE)](<./Blood%20For%20Blood%20(5%20RAGE).md>)
+[BLOOD FOR BLOOD! (5 RAGE)](./Blood%20For%20Blood.md)
 
-[BRUTE PRECISION (5 RAGE)](<./Brute%20Precision%20(5%20RAGE).md>)
+[BRUTE PRECISION (5 RAGE)](./Brute%20Precision.md)
 
-[DYING BLOW (5 RAGE)](<./Dying%20Blow%20(5%20RAGE).md>)
+[DYING BLOW (5 RAGE)](./Dying%20Blow.md)
 
-[PRIMORDIAL SHOCKWAVE (5 RAGE)](<./Primordial%20Shockwave%20(5%20RAGE).md>)
+[PRIMORDIAL SHOCKWAVE (5 RAGE)](./Primordial%20Shockwave.md)
