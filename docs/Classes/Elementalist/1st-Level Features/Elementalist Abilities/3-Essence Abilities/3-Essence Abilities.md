@@ -10,12 +10,12 @@ kind: 1st-level features
 
 # 3-essence Abilities
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 3 [[Essence|essence]] to use.
+Choose one heroic ability from the following options, each of which costs 3 essence to use.
 
-[[Essence|ESSENCE]]\[BURN! (3 [[Essence|ESSENCE]])\](./Burn%20(3%20ESSENCE).md)
+[BURN! (3 ESSENCE)](<./Burn%20(3%20ESSENCE).md>)
 
-[[Essence|ESSENCE]]\[INVIGORATING GROWTH (3 [[Essence|ESSENCE]])\](./Invigorating%20Growth%20(3%20ESSENCE).md)
+[INVIGORATING GROWTH (3 ESSENCE)](<./Invigorating%20Growth%20(3%20ESSENCE).md>)
 
-[[Essence|ESSENCE]]\[PUNCH THE EARTH (3 [[Essence|ESSENCE]])\](./Punch%20The%20Earth%20(3%20ESSENCE).md)
+[PUNCH THE EARTH (3 ESSENCE)](<./Punch%20The%20Earth%20(3%20ESSENCE).md>)
 
-[[Essence|ESSENCE]]\[STARE INTO THE ABYSS (3 [[Essence|ESSENCE]])\](./Stare%20Into%20The%20Abyss%20(3%20ESSENCE).md)
+[STARE INTO THE ABYSS (3 ESSENCE)](<./Stare%20Into%20The%20Abyss%20(3%20ESSENCE).md>)

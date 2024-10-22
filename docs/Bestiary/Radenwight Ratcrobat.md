@@ -37,10 +37,10 @@ Effect: Slide 1; the ratcrobat can then shift into the square the target left.
 
 **Ready Rodent**
 
-|                         |                            |
-| :---------------------- | :------------------------- |
-| Keywords: Melee, Weapon | Type: [[Triggered Action]] |
-| Distance: Reach 1       | Target: One creature       |
+|                         |                        |
+| :---------------------- | :--------------------- |
+| Keywords: Melee, Weapon | Type: Triggered Action |
+| Distance: Reach 1       | Target: One creature   |
 
 Trigger: An ally deals damage to the target.
 

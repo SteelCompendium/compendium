@@ -10,11 +10,11 @@ kind: 1st-level features
 
 # Aspect Triggered Action
 
-Your [[Primordial Aspect|primordial aspect]] grants you a [[Triggered Action|triggered action]], as shown on the [[Fury Triggered Actions]] table.
+Your primordial aspect grants you a triggered action, as shown on the Fury Triggered Actions table.
 
-[FURY TRIGGERED ACTIONS](./%5B%5BFury%5D%5D%20Triggered%20Actions.md)
+[FURY TRIGGERED ACTIONS](./Fury%20Triggered%20Actions.md)
 
-[REGENERATION](./%5B%5BRegeneration%5D%5D.md)
+[REGENERATION](./Regeneration.md)
 
 [RELENTLESS TOSS](./Relentless%20Toss.md)
 

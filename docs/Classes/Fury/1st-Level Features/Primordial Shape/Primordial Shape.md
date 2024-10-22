@@ -10,7 +10,7 @@ kind: 1st-level features
 
 # Primordial Shape
 
-When you select a martial kit, you can instead select a [[Stormwight Kits|stormwight kit]] (see [[Stormwight Kits]]). Your [[Stormwight Kits|stormwight kit]] grants you a number of benefits, including effects tied to your [[Growing Rage]] feature.
+When you select a martial kit, you can instead select a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including effects tied to your Growing Rage feature.
 
 [PRIMORDIAL STRENGTH](./Primordial%20Strength/Primordial%20Strength.md)
 

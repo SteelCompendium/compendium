@@ -10,9 +10,9 @@ kind: 1st-level features
 
 # 1st-level Domain Feature
 
-You gain a domain feature from one of your domains, as shown on the [[Conduit]]\[\[1st-Level [[Conduit]] Domain Features\]\] table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table.
+You gain a domain feature from one of your domains, as shown on the 1st-Level Conduit Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table.
 
-[[Conduit|CONDUIT]]\[1ST-LEVEL [[Conduit|CONDUIT]] DOMAIN FEATURES\](./1st-Level%20Conduit%20Domain%20Features.md)
+[1ST-LEVEL CONDUIT DOMAIN FEATURES](./1st-Level%20Conduit%20Domain%20Features.md)
 
 [ALERTNESS WARD](./Alertness%20Ward.md)
 

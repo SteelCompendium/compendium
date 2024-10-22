@@ -10,7 +10,7 @@ kind: 1st-level features
 
 # Domain Effects
 
-Whenever you get the tier 3 result of the [[Prayer]] ability, you can choose one of your domain's effects to immediately take effect.
+Whenever you get the tier 3 result of the Prayer ability, you can choose one of your domain's effects to immediately take effect.
 
 [CREATION DOMAIN EFFECT](./Creation%20Domain%20Effect.md)
 

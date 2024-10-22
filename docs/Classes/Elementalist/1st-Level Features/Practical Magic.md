@@ -29,6 +29,6 @@ Your mastery of elemental power lets you customize your magic.
 
 **Effect**: Choose one of the following effects:
 
-- You use the [[Knockback]] maneuver, but you make a Reason test instead of a Might test. For this use of the maneuver, you can target a creature at a distance equal to the distance of your [[Hurl Element]] ability.
-- You choose a creature within the distance of your [[Hurl Element]] ability and deal damage to that creature equal to your Reason score. The damage type can be acid, cold, corruption, fire, lightning, poison, or sonic.
-- You [[Teleport|teleport]] a number of squares equal to your Reason score.
+- You use the Knockback maneuver, but you make a Reason test instead of a Might test. For this use of the maneuver, you can target a creature at a distance equal to the distance of your Hurl Element ability.
+- You choose a creature within the distance of your Hurl Element ability and deal damage to that creature equal to your Reason score. The damage type can be acid, cold, corruption, fire, lightning, poison, or sonic.
+- You teleport a number of squares equal to your Reason score.

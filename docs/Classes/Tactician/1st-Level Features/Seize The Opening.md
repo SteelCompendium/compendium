@@ -27,6 +27,6 @@ As the battle unfolds, you tell your allies exactly when to strike!
 | **Keywords:** Ranged    | **Type:** Action   |
 | **Distance:** Ranged 10 | **Target:** 1 ally |
 
-**Effect:** The target makes a signature attack as a free [[Triggered Action|triggered action]], and deals extra damage equal to your Reason score.
+**Effect:** The target makes a signature attack as a free triggered action, and deals extra damage equal to your Reason score.
 
-**Spend 5 [[Focus]]:** You target two allies instead of one.
+**Spend 5 Focus:** You target two allies instead of one.

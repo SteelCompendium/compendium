@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # Heroic Abilities
 
-You fight with an array of heroic abilities, all of which cost [[Rage|rage]] to fuel them.
+You fight with an array of heroic abilities, all of which cost rage to fuel them.

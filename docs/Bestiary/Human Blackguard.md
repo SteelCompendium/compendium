@@ -37,10 +37,10 @@ Effect: The target is marked until the start of the blackguard’s next turn. Th
 
 **[[Parry]]!**
 
-|                         |                            |
-| :---------------------- | :------------------------- |
-| Keywords: Melee, Weapon | Type: [[Triggered Action]] |
-| Distance: Reach 1       | Target: Self or one ally   |
+|                         |                          |
+| :---------------------- | :----------------------- |
+| Keywords: Melee, Weapon | Type: Triggered Action   |
+| Distance: Reach 1       | Target: Self or one ally |
 
 Trigger: A creature targets the blackguard or an ally adjacent to the blackguard with an attack.
 

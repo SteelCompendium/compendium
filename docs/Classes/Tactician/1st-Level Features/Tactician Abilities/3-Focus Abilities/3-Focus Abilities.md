@@ -10,12 +10,12 @@ kind: 1st-level features
 
 # 3-focus Abilities
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 3 [[Focus|focus]] to use.
+Choose one heroic ability from the following options, each of which costs 3 focus to use.
 
-[[Focus|FOCUS]]\[BATTLE CRY (3 [[Focus|FOCUS]])\](./Battle%20Cry%20(3%20FOCUS).md)
+[BATTLE CRY (3 FOCUS)](<./Battle%20Cry%20(3%20FOCUS).md>)
 
-[[Focus|FOCUS]]\[DAZING BLOW (3 [[Focus|FOCUS]])\](./Dazing%20Blow%20(3%20FOCUS).md)
+[DAZING BLOW (3 FOCUS)](<./Dazing%20Blow%20(3%20FOCUS).md>)
 
-[[Focus|FOCUS]]\[INSPIRING STRIKE (3 [[Focus|FOCUS]])\](./Inspiring%20Strike%20(3%20FOCUS).md)
+[INSPIRING STRIKE (3 FOCUS)](<./Inspiring%20Strike%20(3%20FOCUS).md>)
 
-[[Focus|FOCUS]]\[PHALANX FORWARD! (3 [[Focus|FOCUS]])\](./Phalanx%20Forward%20(3%20FOCUS).md)
+[PHALANX FORWARD! (3 FOCUS)](<./Phalanx%20Forward%20(3%20FOCUS).md>)

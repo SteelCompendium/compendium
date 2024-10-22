@@ -1,11 +1,11 @@
 #### TIME RAIDER HELIX
 
-| [[Raider]]\[\[Time [[Raider]]\|TIME RAIDER\]\] HELIX |     **Level 3 Controller** |
-| :--------------------------------------------------- | -------------------------: |
-| *Humanoid, [[Time Raider]]*                          |                  **EV 17** |
-| **Stamina**: 40                                      |              **Weakness**: |
-| **Speed**: 5 ([[Fly\|fly]])                          | **Size**: 1M / Stability 0 |
-|                                                      |     **[[Free Strike]]**: 5 |
+| [[Time Raider\|TIME RAIDER]] HELIX |     **Level 3 Controller** |
+| :--------------------------------- | -------------------------: |
+| *Humanoid, [[Time Raider]]*        |                  **EV 17** |
+| **Stamina**: 40                    |              **Weakness**: |
+| **Speed**: 5 ([[Fly\|fly]])        | **Size**: 1M / Stability 0 |
+|                                    |     **[[Free Strike]]**: 5 |
 
 | **Might** 0 | **Agility** +2 | **Reason** +2 | **Intuition** +2 | **Presence** +2 |
 | ----------- | -------------- | ------------- | ---------------- | --------------- |

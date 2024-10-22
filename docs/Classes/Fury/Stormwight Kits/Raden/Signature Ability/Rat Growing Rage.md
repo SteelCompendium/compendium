@@ -17,7 +17,7 @@ kind: stormwight kits
 </colgroup>
 <thead>
 <tr class="header">
-<th><strong>[[Rage]]</strong></th>
+<th><strong>Rage</strong></th>
 <th><strong>Benefit</strong></th>
 </tr>
 </thead>
@@ -26,7 +26,7 @@ kind: stormwight kits
 <td>2</td>
 <td>• You have Weapon immunity 2.<br />
 • While in rat form, your attacks deal extra damage equal to your Agility score.<br />
-• While in rat form, if you attack a creature you are climbing, that creature is [[Bleeding|bleeding]] (EoT).</td>
+• While in rat form, if you attack a creature you are climbing, that creature is bleeding (EoT).</td>
 </tr>
 <tr class="even">
 <td>4</td>

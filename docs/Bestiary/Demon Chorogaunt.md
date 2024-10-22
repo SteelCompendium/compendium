@@ -37,10 +37,10 @@ Effect: Each target slides 3, ignoring their stability.
 
 **I Thrive on Pain (3 VP)**
 
-|                 |                            |
-| :-------------- | :------------------------- |
-| Keywords: Magic | Type: [[Triggered Action]] |
-| Distance: Self  | Target: Self               |
+|                 |                        |
+| :-------------- | :--------------------- |
+| Keywords: Magic | Type: Triggered Action |
+| Distance: Self  | Target: Self           |
 
 Trigger: The chorogaunt is targeted by an attack.
 

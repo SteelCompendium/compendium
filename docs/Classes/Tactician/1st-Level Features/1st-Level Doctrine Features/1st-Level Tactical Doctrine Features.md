@@ -10,8 +10,8 @@ kind: 1st-level features
 
 # 1st-level Tactical Doctrine Features
 
-| Doctrine   | Feature               |
-| ---------- | --------------------- |
-| Vanguard   | [[Imposing Attitude]] |
-| Mastermind | [[I Read Your Book]]! |
-| Insurgent  | [[Covert Operations]] |
+| Doctrine   | Feature           |
+| ---------- | ----------------- |
+| Vanguard   | Imposing Attitude |
+| Mastermind | I Read Your Book! |
+| Insurgent  | Covert Operations |

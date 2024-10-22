@@ -23,7 +23,7 @@ The **Ritual of Dracogenesis** that grants the power to create a generation of d
 
 The largest extant population of draconians is the remnants of the Dragon Phalanx in Vasloria. Created by Good King Omund's wizard Vitae, the Dragon Phalanx once numbered several thousand of the king's greatest knights, ensuring the rule of law across the land.
 
-Knighthood was a title carried by every member of that first generation of dragon knights. Within the Dragon Phalanx were [[Shadow|shadows]], censors, [[Tactician|tacticians]], and [[Elementalist|elementalists]]. Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over thirty years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could never have imagined any other way of life.
+Knighthood was a title carried by every member of that first generation of dragon knights. Within the Dragon Phalanx were shadows, censors, tacticians, and elementalists. Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over thirty years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could never have imagined any other way of life.
 
 Then Ajax came.
 
@@ -141,7 +141,7 @@ The legacy of the Dragon Phalanx lives in you. Choose one of the following benef
 
 - **DRACONIAN RUSH:** As a maneuver, you can [[Fly|fly]] in a straight line up to your speed. Until you reach level 6, you must end your turn on a solid surface or fall, then fall [[Prone|prone]].
 
-- **DRACONIAN GUARD:** When you or a creature adjacent to you is attacked, you can use a [[Triggered Action|triggered action]] to swing your wings around and guard against the blow, reducing any damage from the attack by an amount equal to your level + your Victories.
+- **DRACONIAN GUARD:** When you or a creature adjacent to you is attacked, you can use a triggered action to swing your wings around and guard against the blow, reducing any damage from the attack by an amount equal to your level + your Victories.
 
 - **DRACONIAN PRIDE:** You can use the following ability:
 

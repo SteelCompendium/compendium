@@ -30,4 +30,4 @@ You add a little magic to an ally's aggression at just the right time.
 
 **Effect**: The distance of the [[Forced Movement|forced movement]] is increased by a number of squares equal to your Reason score.
 
-**Spend 1 [[Essence]]**: The distance of the [[Forced Movement|forced movement]] is increased by a number of squares equal to twice your Reason score instead.
+**Spend 1 Essence**: The distance of the [[Forced Movement|forced movement]] is increased by a number of squares equal to twice your Reason score instead.

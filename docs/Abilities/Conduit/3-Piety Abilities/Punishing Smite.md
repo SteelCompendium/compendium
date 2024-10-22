@@ -19,7 +19,7 @@ target: 1 creature or object
 
 # Punishing Smite (3 Piety)
 
-Your divine [[Fury|fury]] is a hammer that crashes down upon the unrighteous.
+Your divine fury is a hammer that crashes down upon the unrighteous.
 
 |                                     |                                  |
 | :---------------------------------- | :------------------------------- |

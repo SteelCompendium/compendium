@@ -19,4 +19,4 @@ kind: basics
 - **Recoveries:** 12
 - **Skills:** Lead, plus choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, History, Mechanics, Monsters, Search, or the skills of the exploration skill group.
 
-[TACTICIAN ADVANCEMENT](./%5B%5BTactician%5D%5D%20Advancement.md)
+[TACTICIAN ADVANCEMENT](./Tactician%20Advancement.md)

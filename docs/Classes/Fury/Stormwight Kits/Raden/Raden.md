@@ -10,7 +10,7 @@ kind: stormwight kits
 
 # Raden
 
-With this [[Stormwight Kits|stormwight kit]], you channel your primordial [[Rage|rage]] into the form of a rat. Raden are associated with the true nature of the rat, before cities became their habitat. Rats are avatars of the balance between green and rot, and this aspect is associated with the rat flood.
+With this stormwight kit, you channel your primordial rage into the form of a rat. Raden are associated with the true nature of the rat, before cities became their habitat. Rats are avatars of the balance between green and rot, and this aspect is associated with the rat flood.
 
 [ASPECT BENEFITS](./Aspect%20Benefits.md)
 

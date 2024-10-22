@@ -12,6 +12,6 @@ kind: 1st-level features
 
 When you damage an object with a weapon attack, it takes an additional 5 damage. Additionally, whenever you push another creature, you can make it a vertical push.
 
-As your [[Rage|rage]] grows, your primordial strength intensifies. These benefits are cumulative.
+As your rage grows, your primordial strength intensifies. These benefits are cumulative.
 
 [PRIMORDIAL STRENGTH GROWING RAGE](./Primordial%20Strength%20Growing%20Rage.md)

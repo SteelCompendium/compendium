@@ -35,10 +35,10 @@ Effect: A target who is adjacent to the bandit chief after the attack is resolve
 
 **Bloodstones**
 
-|                 |                            |
-| :-------------- | :------------------------- |
-| Keywords: Magic | Type: [[Triggered Action]] |
-| Distance: Self  | Target: Self               |
+|                 |                        |
+| :-------------- | :--------------------- |
+| Keywords: Magic | Type: Triggered Action |
+| Distance: Self  | Target: Self           |
 
 Trigger: The bandit chief makes a power roll for an attack.
 

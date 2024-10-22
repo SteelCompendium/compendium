@@ -74,7 +74,7 @@ The gray-skinned knight walked into the room. Metal heels rang out on the wooden
 
 “How did you … this is impossible, how did you find us?”
 
-She looked at the man groaning on the floor. “Your boss didn't tell you about the vengeance [[Mark|mark]]?”
+She looked at the man groaning on the floor. “Your boss didn't tell you about the vengeance mark?”
 
 “You marked us. Back in Capital. You marked one of us and just … just walked here.”
 
@@ -82,7 +82,7 @@ She looked at the man groaning on the floor. “Your boss didn't tell you about 
 
 “Come on.” The braver of the three remaining thieves drew twin daggers. “She can't get all of us at—”
 
-Lady Filliamo made a broad gesture with her right hand and argent [[Mark|marks]] flared across the foreheads of all three thieves. A clatter of weapons hitting the floor. Three pairs of hands slowly rose in the air.
+Lady Filliamo made a broad gesture with her right hand and argent marks flared across the foreheads of all three thieves. A clatter of weapons hitting the floor. Three pairs of hands slowly rose in the air.
 
 “Good boys. Here, put these on.” She tossed three pairs of manacles on the floor.
 
@@ -131,7 +131,7 @@ You can have an active number of sigils equal to your level. You can remove a si
 
 Your undead body grants you cold, corruption, lightning immunity, and poison immunity equal to your level. You also have fire weakness 5. You can't suffocate, and you don't need to eat or drink to stay alive.
 
-Additionally, when your Stamina equals the negative of your winded value, you become inert instead of dying. You can continue to observe your surroundings, but you can't speak, take actions, maneuvers, or [[Triggered Action|triggered actions]], or move and you fall [[Prone|prone]]. If you take any fire damage while in this state, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
+Additionally, when your Stamina equals the negative of your winded value, you become inert instead of dying. You can continue to observe your surroundings, but you can't speak, take actions, maneuvers, or triggered actions, or move and you fall [[Prone|prone]]. If you take any fire damage while in this state, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
 
 ### Undead Influence
 

@@ -10,13 +10,13 @@ kind: 1st-level features
 
 # 1st-level Features
 
-As a [[Tactician|tactician]], you gain the following features.
+As a tactician, you gain the following features.
 
 [TACTICAL DOCTRINE](./Tactical%20Doctrine.md)
 
-[FOCUS](./%5B%5BFocus%5D%5D.md)
+[FOCUS](./Focus.md)
 
-[MARK](./%5B%5BMark%5D%5D.md)
+[MARK](./Mark.md)
 
 [SEIZE THE OPENING](./Seize%20The%20Opening.md)
 
@@ -26,4 +26,4 @@ As a [[Tactician|tactician]], you gain the following features.
 
 [FIELD ARSENAL](./Field%20Arsenal.md)
 
-[TACTICIAN ABILITIES](./%5B%5BTactician%5D%5D%20Abilities/%5B%5BTactician%5D%5D%20Abilities.md)
+[TACTICIAN ABILITIES](./Tactician%20Abilities/Tactician%20Abilities.md)

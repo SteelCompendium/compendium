@@ -42,7 +42,7 @@ The king tapped the scroll against his lap, seeming to have reached a decision.
 
 “Well done, consort. Young [[Human|humans]], your escort here seeks to shame me. For they know well they could have taken this prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they deliver me the power necessary to throw off the yoke of Ajax's rule. Long has Llyander resented the decision I made and sought to change it …” He looked at Llyander. “… by changing my mind.”
 
-Llyander nodded deferentially, silently congratulating the king on his [[Insight|insight]].
+Llyander nodded deferentially, silently congratulating the king on his insight.
 
 “Alas, your escort's efforts are for naught.” Then the king's face became softer. He held up the heavy scroll. “But this is not nothing,” he said. “We made a treaty with Ajax to deliver unto him any artifacts our search teams discover from the ruins of this city. He benefits from this bargain more than we. But this, methinks, will stay with us. It was written by my mother in the youth of the world, and there are some things which must be denied the Iron Saint, even should they violate the treaty.”
 

@@ -15,7 +15,7 @@ trigger: Another hero ends their turn.
 
 # Shadow
 
-Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or shadow-magics. Your training and knowledge places you among the elite assassins, spies, and commandos. But more powerful than any weapon or sorcery is your [[Insight|insight]] into your enemy's weakness.
+Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or shadow-magics. Your training and knowledge places you among the elite assassins, spies, and commandos. But more powerful than any weapon or sorcery is your insight into your enemy's weakness.
 
 As a shadow, you have abilities that deal a lot of damage, let you move swiftly across the battlefield and away from hazards, and allow you to fade from notice even in the middle of the most heated combat encounter. You also possess more skills than any other hero.
 
@@ -28,15 +28,15 @@ As a shadow, you have abilities that deal a lot of damage, let you move swiftly 
 - **Starting Stamina at 1st Level:** 18
 - **Stamina Gained at 2nd and Higher Levels:** 8
 - **Recoveries:** 10
-- **Skills:** [[Hide]] and Sneak, plus choose any five skills from [[Criminal]] Underworld or the skills of the exploration, interpersonal, or intrigue skill groups.
+- **Skills:** Hide and Sneak, plus choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups.
 
 ### Shadow Advancement
 
-| Level | Features                                                                                                                                                 | Abilities                       |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| 1st   | [[Shadow College]], [[Insight]], College Feature, [[College Triggered Action]], [[Hesitation Is Weakness\|Hesitation is Weakness]], [[Shadow Abilities]] | Signature, 3, 5                 |
-| 2nd   | College Feature, College Ability                                                                                                                         | Signature, 3, 5, 5 (College)    |
-| 3rd   | Assess and Aim, 7-[[Insight]] Ability                                                                                                                    | Signature, 3, 5, 5 (College), 7 |
+| Level | Features                                                                                                     | Abilities                       |
+| ----- | ------------------------------------------------------------------------------------------------------------ | ------------------------------- |
+| 1st   | Shadow College, Insight, College Feature, College Triggered Action, Hesitation is Weakness, Shadow Abilities | Signature, 3, 5                 |
+| 2nd   | College Feature, College Ability                                                                             | Signature, 3, 5, 5 (College)    |
+| 3rd   | Assess and Aim, 7-Insight Ability                                                                            | Signature, 3, 5, 5 (College), 7 |
 
 ## 1st-level Features
 
@@ -44,35 +44,35 @@ As a shadow, you gain the following features.
 
 ### Shadow College
 
-[[Shadow College|Shadow colleges]] are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+Shadow colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
-You are one of the few who has graduated from a [[Shadow College|shadow college]], chosen from the following options:
+You are one of the few who has graduated from a shadow college, chosen from the following options:
 
-- **College of Black Ash:** The College of Black Ash founded the art of being a shadow. Its graduates use Black Ash sorcery to [[Teleport|teleport]] around the battlefield in clouds of soot, and to manipulate and create darkness. Graduates of the college are unmatched in mobility. You gain the Magic skill.
+- **College of Black Ash:** The College of Black Ash founded the art of being a shadow. Its graduates use Black Ash sorcery to teleport around the battlefield in clouds of soot, and to manipulate and create darkness. Graduates of the college are unmatched in mobility. You gain the Magic skill.
 - **College of Caustic Alchemy:** The College of Caustic Alchemy teaches its students recipes for the acids, bombs, and poisons used in their grim work. Graduates of the college are exceptional assassins. You gain the Alchemy skill.
 - **College of the Harlequin Mask:** Graduates of the College of the Harlequin Mask learn illusion magic, which they use to infiltrate enemy strongholds and create orchestrated chaos in combat. You gain the Lie skill.
 
-Your choice of [[Shadow College|shadow college]] determines many of the features you'll gain from this class.
+Your choice of shadow college determines many of the features you'll gain from this class.
 
 ### Insight
 
-By observing your enemy, you learn how to use their weaknesses against them. You have a Heroic Resource called [[Insight|insight]].
+By observing your enemy, you learn how to use their weaknesses against them. You have a Heroic Resource called insight.
 
-Outside of combat and other dangerous situations tracked in turns and rounds, you have [[Insight|insight]] equal to your Victories. If you lose some or all of this [[Insight|insight]] outside of combat, it takes you 1 minute to regain it.
+Outside of combat and other dangerous situations tracked in turns and rounds, you have insight equal to your Victories. If you lose some or all of this insight outside of combat, it takes you 1 minute to regain it.
 
-When a combat encounter begins, you keep any [[Insight|insight]] you had outside of combat. At the start of each of your turns during combat, you gain 2 [[Insight|insight]]. You gain 1 [[Insight|insight]] whenever you get a tier 3 result with an attack. When combat ends, you once again have [[Insight|insight]] equal to your Victories.
+When a combat encounter begins, you keep any insight you had outside of combat. At the start of each of your turns during combat, you gain 2 insight. You gain 1 insight whenever you get a tier 3 result with an attack. When combat ends, you once again have insight equal to your Victories.
 
 ### 1st-level College Features
 
-Your choice of college grants you one or two features, as shown on the [[Shadow College]]\[\[1st-Level [[Shadow College]] Features\]\] table.
+Your choice of college grants you one or two features, as shown on the 1st-Level Shadow College Features table.
 
 #### 1st-level Shadow College Features
 
-| College         | Feature                                            |
-| --------------- | -------------------------------------------------- |
-| Black Ash       | [[Black Ash Teleport]]                             |
-| Caustic Alchemy | [[Coat The Blade\|Coat the Blade]], [[Smoke Bomb]] |
-| Harlequin Mask  | I'm On Your Side                                   |
+| College         | Feature                    |
+| --------------- | -------------------------- |
+| Black Ash       | Black Ash Teleport         |
+| Caustic Alchemy | Coat the Blade, Smoke Bomb |
+| Harlequin Mask  | I'm On Your Side           |
 
 #### Black Ash Teleport
 
@@ -87,9 +87,9 @@ In a swirl of black ash, you step from one place to another.
 | **Keywords:** Magic | **Type:** Action |
 | **Distance:** Self  | **Target:** Self |
 
-**Effect:** You [[Teleport|teleport]] up to 5 squares. If you end this movement in concealment or cover, you can use the [[Hide]] maneuver even if you are observed.
+**Effect:** You teleport up to 5 squares. If you end this movement in concealment or cover, you can use the Hide maneuver even if you are observed.
 
-**Spend [[Insight]]:** You [[Teleport|teleport]] 1 additional square for each [[Insight|insight]] spent.
+**Spend Insight:** You teleport 1 additional square for each insight spent.
 
 #### Coat The Blade
 
@@ -99,9 +99,9 @@ You gain the following ability.
 
 Just a little poison goes a long way.
 
-**Effect:** You coat one of your weapons with a harmful poison. The next creature you damage with an ability that uses that weapon takes extra poison damage equal to twice your Presence score or the target is [[Weakened|weakened]] (EoT). You choose the effect when you apply the poison. The poison loses its potency after you damage the creature or at the end of the encounter.
+**Effect:** You coat one of your weapons with a harmful poison. The next creature you damage with an ability that uses that weapon takes extra poison damage equal to twice your Presence score or the target is weakened (EoT). You choose the effect when you apply the poison. The poison loses its potency after you damage the creature or at the end of the encounter.
 
-**Spend [[Insight]]:** For each [[Insight|insight]] you spend, the damage dealt by the poison increases by a number equal to your Presence score. You can't spend more [[Insight]] than your shadow level on this ability.
+**Spend Insight:** For each insight you spend, the damage dealt by the poison increases by a number equal to your Presence score. You can't spend more Insight than your shadow level on this ability.
 
 #### I'm On Your Side
 
@@ -115,19 +115,19 @@ Taking on the illusory countenance of another creature gives you an advantage on
 
 #### Smoke Bomb
 
-You always carry a supply of [[Smoke Bomb|smoke bombs]] to make it easy for you to distract and get away from foes. You can use the [[Hide]] maneuver even if you are observed and don't start in cover or concealment. If you do, you can shift a number of squares equal to your Agility. If you end this movement in cover or concealment, you are hidden.
+You always carry a supply of smoke bombs to make it easy for you to distract and get away from foes. You can use the Hide maneuver even if you are observed and don't start in cover or concealment. If you do, you can shift a number of squares equal to your Agility. If you end this movement in cover or concealment, you are hidden.
 
 ### College Triggered Action
 
-Your college grants you a [[Triggered Action|triggered action]], as shown on the [[Shadow Triggered Actions]] table.
+Your college grants you a triggered action, as shown on the Shadow Triggered Actions table.
 
 #### Shadow Triggered Actions
 
-| College         | [[Triggered Action]]      |
-| --------------- | ------------------------- |
-| Black Ash       | [[In All This Confusion]] |
-| Caustic Alchemy | [[Defensive Roll]]        |
-| Harlequin Mask  | [[Misdirection]]          |
+| College         | Triggered Action      |
+| --------------- | --------------------- |
+| Black Ash       | In All This Confusion |
+| Caustic Alchemy | Defensive Roll        |
+| Harlequin Mask  | Misdirection          |
 
 #### Defensive Roll
 
@@ -135,19 +135,19 @@ When an enemy attacks, you roll with the impact to reduce the harm.
 
 - **Trigger:** Another creature damages you.
 
-**Effect:** You shift up to 2 squares, halve the triggering damage, and don't suffer any effect associated with the damage. If you end this movement with concealment or cover, you can use the [[Hide]] maneuver even if you are observed.
+**Effect:** You shift up to 2 squares, halve the triggering damage, and don't suffer any effect associated with the damage. If you end this movement with concealment or cover, you can use the Hide maneuver even if you are observed.
 
-**Spend 1 [[Insight]]:** If the triggering damage was from an attack, you also reduce the attack's damage by one tier.
+**Spend 1 Insight:** If the triggering damage was from an attack, you also reduce the attack's damage by one tier.
 
 #### In All This Confusion
 
-You [[Teleport|teleport]] away in a plume of black smoke to avoid danger.
+You teleport away in a plume of black smoke to avoid danger.
 
 - **Trigger:** You take damage.
 
-**Effect:** You [[Teleport|teleport]] up to 4 squares, halve the triggering damage, and don't suffer any effect associated with the damage.
+**Effect:** You teleport up to 4 squares, halve the triggering damage, and don't suffer any effect associated with the damage.
 
-**Spend [[Insight]]:** You [[Teleport|teleport]] 1 additional square for each [[Insight|insight]] spent.
+**Spend Insight:** You teleport 1 additional square for each insight spent.
 
 #### Misdirection (1 Insight)
 
@@ -175,7 +175,7 @@ You specialize in dealing damage, then getting out of harm's way before the inev
 
 #### Signature Ability
 
-Select one [[Signature Ability|signature ability]] from the options below. Signature abilities can be used at will.
+Select one signature ability from the options below. Signature abilities can be used at will.
 
 ##### Distracting Pain
 
@@ -185,7 +185,7 @@ Your precise strikes let your allies take advantage of a target's agony.
 
 - 11 or lower: 3 damage
 - 12–16: 8 damage; the next attack against the target gains an edge
-- 17+: 12 damage; the target falls [[Prone|prone]]
+- 17+: 12 damage; the target falls prone
 
 ##### I Work Better Alone
 
@@ -213,7 +213,7 @@ Being fast on your feet makes your ranged attacks especially deadly.
 
 ##### Sucker Slice
 
-Keeping an enemy's [[Focus|focus]] on you lets your ally hit hard.
+Keeping an enemy's focus on you lets your ally hit hard.
 
 **Power Roll + Agility:**
 
@@ -225,11 +225,11 @@ Keeping an enemy's [[Focus|focus]] on you lets your ally hit hard.
 
 #### Heroic Abilities
 
-A range of [[Heroic Abilities|heroic abilities]] define your combat prowess, all of which make use of your [[Insight|insight]].
+A range of heroic abilities define your combat prowess, all of which make use of your insight.
 
 #### 3-insight Abilities
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 3 [[Insight|insight]] to use.
+Choose one heroic ability from the following options, each of which costs 3 insight to use.
 
 ##### Blade Dance (3 Insight)
 
@@ -267,19 +267,19 @@ Striking two foes at once is second nature to you.
 
 ##### Wounding Strike (3 Insight)
 
-You leave your foe [[Bleeding|bleeding]] out after a devastating attack.
+You leave your foe bleeding out after a devastating attack.
 
 **Power Roll + Agility:**
 
 - 11 or lower: 6 damage
-- 12–16: 9 damage; [[Bleeding|bleeding]] until a creature uses a maneuver to staunch the wound
-- 17+: 14 damage; [[Bleeding|bleeding]] until a creature uses an action to staunch the wound
+- 12–16: 9 damage; bleeding until a creature uses a maneuver to staunch the wound
+- 17+: 14 damage; bleeding until a creature uses an action to staunch the wound
 
-**Effect:** While [[Bleeding|bleeding]], the target takes 4 damage at the start of each of your turns.
+**Effect:** While bleeding, the target takes 4 damage at the start of each of your turns.
 
 #### 5-insight Abilities
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 5 [[Insight|insight]] to use.
+Choose one heroic ability from the following options, each of which costs 5 insight to use.
 
 ##### Assassinate (5 Insight)
 

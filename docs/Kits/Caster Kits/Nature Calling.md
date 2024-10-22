@@ -45,7 +45,7 @@ You call forth a small bolt of lightning, then hurl it at your foe.
 
 ## Kit Ward: Vine Ward
 
-Your ward surrounds you with protective [[Animal Spirit|animal spirits]], and grants you the following benefits:
+Your ward surrounds you with protective animal spirits, and grants you the following benefits:
 
 - The area within 2 squares of you is [[Difficult Terrain|difficult terrain]] for your enemies.
 - Whenever an enemy within 12 squares of you damages you with a ranged ability, you can either shift towards them or pull them a number of squares equal to your highest characteristic score.

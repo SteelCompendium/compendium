@@ -14,8 +14,8 @@ Select one signature ability from the options below. Signature abilities can be 
 
 [HOLY LANCE](./Holy%20Lance.md)
 
-[LIGHTFALL](./%5B%5BLightfall%5D%5D.md)
+[LIGHTFALL](./Lightfall.md)
 
 [SACRIFICIAL OFFER](./Sacrificial%20Offer.md)
 
-[WITHER](./%5B%5BWither%5D%5D.md)
+[WITHER](./Wither.md)

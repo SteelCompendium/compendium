@@ -28,4 +28,4 @@ You [[Teleport|teleport]] away in a plume of black smoke to avoid danger.
 
 **Effect:** You [[Teleport|teleport]] up to 4 squares, halve the triggering damage, and don't suffer any effect associated with the damage.
 
-**Spend [[Insight]]:** You [[Teleport|teleport]] 1 additional square for each [[Insight|insight]] spent.
+**Spend Insight:** You [[Teleport|teleport]] 1 additional square for each insight spent.

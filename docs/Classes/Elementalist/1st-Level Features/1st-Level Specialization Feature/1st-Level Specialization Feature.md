@@ -10,13 +10,13 @@ kind: 1st-level features
 
 # 1st-level Specialization Feature
 
-Your [[Elementalist|elementalist]] specialization grants you a feature, as shown on the [[Elementalist]]\[\[1st-Level [[Elementalist]] Specialization Features\]\] table.
+Your elementalist specialization grants you a feature, as shown on the 1st-Level Elementalist Specialization Features table.
 
-[[Elementalist|ELEMENTALIST]]\[1ST-LEVEL [[Elementalist|ELEMENTALIST]] SPECIALIZATION FEATURES\](./1st-Level%20Elementalist%20Specialization%20Features.md)
+[1ST-LEVEL ELEMENTALIST SPECIALIZATION FEATURES](./1st-Level%20Elementalist%20Specialization%20Features.md)
 
 [MANIPULATE EARTH](./Manipulate%20Earth/Manipulate%20Earth.md)
 
-[MELT](./%5B%5BMelt%5D%5D/%5B%5BMelt%5D%5D.md)
+[MELT](./Melt/Melt.md)
 
 [SPEECH OF THE WILD](./Speech%20Of%20The%20Wild.md)
 

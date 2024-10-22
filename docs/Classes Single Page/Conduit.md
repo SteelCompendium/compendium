@@ -18,7 +18,7 @@ trigger: The target makes an attack. You can use this ability after seeing the r
 
 The power of the gods flows through you! As a vessel for divine magic, you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. While the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
 
-As a conduit, you [[Heal|heal]] and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, aweing your enemies and granting you increased empathy.
+As a conduit, you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, aweing your enemies and granting you increased empathy.
 
 ## Basics
 
@@ -33,11 +33,11 @@ As a conduit, you [[Heal|heal]] and buff your allies, and debuff your foes while
 
 ### Conduit Advancement
 
-| Level | Features                                                                                                                                                            |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st   | [[Deity And Domains\|Deity and Domains]], [[Piety]], Domain Feature, [[Healing Grace]], [[Pious Force]], [[Triggered Action]], [[Conduit Abilities]] Signature, 3,5 |
-| 2nd   | Gift of the Gods, Domain Feature, Domain Ability Signature, 3, 5, 5 (Domain)                                                                                        |
-| 3rd   | Restore Life, 7-[[Piety]], Ability Signature, 3, 5, 5 (Domain), 7                                                                                                   |
+| Level | Features                                                                                                                 |
+| ----- | ------------------------------------------------------------------------------------------------------------------------ |
+| 1st   | Deity and Domains, Piety, Domain Feature, Healing Grace, Pious Force, Triggered Action, Conduit Abilities Signature, 3,5 |
+| 2nd   | Gift of the Gods, Domain Feature, Domain Ability Signature, 3, 5, 5 (Domain)                                             |
+| 3rd   | Restore Life, 7-Piety, Ability Signature, 3, 5, 5 (Domain), 7                                                            |
 
 ## 1st-level Features
 
@@ -45,7 +45,7 @@ As a conduit, you gain the following features.
 
 ### Deity And Domains
 
-Choose a god or saint who you revere from the [[Conduit Deities]] table, or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity, and can choose four domains to be part of their portfolio.
+Choose a god or saint who you revere from the Conduit Deities table, or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity, and can choose four domains to be part of their portfolio.
 
 After choosing your deity, pick two domains from their portfolio. Your choice of domains determines many of the features you'll gain from this class.
 
@@ -64,11 +64,11 @@ After choosing your deity, pick two domains from their portfolio. Your choice of
 
 ### Piety
 
-Your deity grants you a Heroic Resource called [[Piety|piety]] to fuel your abilities. You use [[Piety|piety]] to [[Heal|heal]] and empower your allies, and to unleash your deity's power upon your foes.
+Your deity grants you a Heroic Resource called piety to fuel your abilities. You use piety to heal and empower your allies, and to unleash your deity's power upon your foes.
 
-Outside of combat and other dangerous situations tracked in turns and rounds, you have [[Piety|piety]] equal to your Victories. If you lose some or all of this [[Piety|piety]] outside of combat, it takes you 1 minute to regain it.
+Outside of combat and other dangerous situations tracked in turns and rounds, you have piety equal to your Victories. If you lose some or all of this piety outside of combat, it takes you 1 minute to regain it.
 
-When a combat encounter begins, you keep any [[Piety|piety]] you had outside of combat. At the start of each of your turns during combat, you gain 2 [[Piety|piety]]. You can also use the [[Prayer]] ability to gain additional [[Piety|piety]]. When combat ends, you once again have [[Piety|piety]] equal to your Victories.
+When a combat encounter begins, you keep any piety you had outside of combat. At the start of each of your turns during combat, you gain 2 piety. You can also use the Prayer ability to gain additional piety. When combat ends, you once again have piety equal to your Victories.
 
 #### Prayer
 
@@ -81,15 +81,15 @@ When a combat encounter begins, you keep any [[Piety|piety]] you had outside of 
 
 **Power Roll + Intuition**:
 
-- 11 or lower: 1d6 damage; [[Bleeding|bleeding]] (EoT)
-- 12–16: Gain 1 [[Piety|piety]]
-- 17+: Gain 2 [[Piety|piety]] and choose and use a [[Domain Effects|domain effect]]
+- 11 or lower: 1d6 damage; bleeding (EoT)
+- 12–16: Gain 1 piety
+- 17+: Gain 2 piety and choose and use a domain effect
 
 **Effect**: The first time you use this ability during an encounter, it has a double edge. The second time you use it, it takes an edge. The third time you use it, it takes a bane. The fourth and each subsequent time you use this ability during an encounter, it has a double bane.
 
 #### Domain Effects
 
-Whenever you get the tier 3 result of the [[Prayer]] ability, you can choose one of your domain's effects to immediately take effect.
+Whenever you get the tier 3 result of the Prayer ability, you can choose one of your domain's effects to immediately take effect.
 
 ##### Creation Domain Effect
 
@@ -109,7 +109,7 @@ Choose up to three allies within 10 squares of you. Each ally has a double edge 
 
 ##### Life Domain Effect
 
-You or an ally within 10 squares of you can spend 2 Recoveries, can end any effects on them that have a duration of EoT or are ended by a resistance roll, and can [[Stand Up|stand up]] if they are [[Prone|prone]]. Alternatively, you or an ally within 10 squares of you gains 20 temporary Stamina.
+You or an ally within 10 squares of you can spend 2 Recoveries, can end any effects on them that have a duration of EoT or are ended by a resistance roll, and can stand up if they are prone. Alternatively, you or an ally within 10 squares of you gains 20 temporary Stamina.
 
 ##### Love Domain Effect
 
@@ -141,24 +141,24 @@ Your attacks deal extra damage equal to twice your Intuition score until the end
 
 ### 1st-level Domain Feature
 
-You gain a domain feature from one of your domains, as shown on the [[1st-Level Conduit Domain Features]] table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table.
+You gain a domain feature from one of your domains, as shown on the 1st-Level Conduit Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table.
 
 #### 1st-level Conduit Domain Features
 
-| Domain     | Feature                                          | Skill         |
-| ---------- | ------------------------------------------------ | ------------- |
-| Creation   | [[Hands Of The Maker\|Hands of the Maker]]       | Crafting      |
-| Death      | [[Grave Speech]]                                 | Lore          |
-| Fate       | [[Fate Trance]]                                  | Lore          |
-| Knowledge  | [[Cypher Mind]]                                  | Lore          |
-| Life       | [[Revitalizing Ritual]]                          | Exploration   |
-| Love       | [[Compassionate Aura]]                           | Interpersonal |
-| Nature     | [[Animal Spirit]]                                | Exploration   |
-| Protection | [[Alertness Ward]]                               | Exploration   |
-| Storm      | [[Control Weather]]                              | Exploration   |
-| Sun        | [[Inner Light]]                                  | Lore          |
-| Trickery   | [[Divine Thievery]]                              | Intrigue      |
-| War        | [[Ritual Of Preparation\|Ritual of Preparation]] | Exploration   |
+| Domain     | Feature               | Skill         |
+| ---------- | --------------------- | ------------- |
+| Creation   | Hands of the Maker    | Crafting      |
+| Death      | Grave Speech          | Lore          |
+| Fate       | Fate Trance           | Lore          |
+| Knowledge  | Cypher Mind           | Lore          |
+| Life       | Revitalizing Ritual   | Exploration   |
+| Love       | Compassionate Aura    | Interpersonal |
+| Nature     | Animal Spirit         | Exploration   |
+| Protection | Alertness Ward        | Exploration   |
+| Storm      | Control Weather       | Exploration   |
+| Sun        | Inner Light           | Lore          |
+| Trickery   | Divine Thievery       | Intrigue      |
+| War        | Ritual of Preparation | Exploration   |
 
 #### Alertness Ward
 
@@ -166,7 +166,7 @@ You exude a magic aura of awareness, granting you and each ally within 2 squares
 
 #### Animal Spirit
 
-As an action, you conjure an [[Animal Spirit|animal spirit]] that takes the form of any animal you have seen. The incorporeal animal can't physically interact with the world, but they have a speed of 5 ([[Fly|fly]]) and can move through mundane objects. While you are within 20 squares of the spirit, you can sense everything an animal of their form could sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required).
+As an action, you conjure an animal spirit that takes the form of any animal you have seen. The incorporeal animal can't physically interact with the world, but they have a speed of 5 (fly) and can move through mundane objects. While you are within 20 squares of the spirit, you can sense everything an animal of their form could sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required).
 
 #### Compassionate Aura
 
@@ -177,7 +177,7 @@ You exude a magic aura that can soothe those willing to socially engage with you
 When you finish a respite, you can decide the weather conditions in the local area. Those weather conditions follow you through any mundane outdoors locations where you travel until the end of your next respite. Choose one of the following types of weather:
 
 - **Clear**: You and your allies each gain an edge on tests that use the Search or Navigate skills.
-- **Foggy**: You and your allies each gain an edge on tests that use the [[Hide]] skill.
+- **Foggy**: You and your allies each gain an edge on tests that use the Hide skill.
 - **Overcast**: You and your allies each gain an edge on tests that use the Endurance skill.
 - **Precipitation**: When the ground is muddy or snowy, you and your allies each gain an edge on tests that use the Track skill.
 
@@ -235,16 +235,16 @@ Your divine energy restores the righteous.
 
 **Effect**: The target can spend 1 Recovery.
 
-**Spend [[Piety]]**: For each [[Piety|piety]] spent, you can choose one of the following enhancements:
+**Spend Piety**: For each piety spent, you can choose one of the following enhancements:
 
 - You can target one additional ally within distance.
 - You can end one effect on a target that has a duration of EoT or is ended by a resistance roll.
-- A [[Prone|prone]] target can [[Stand Up|stand up]].
+- A prone target can stand up.
 - A target can spend 1 additional Recovery.
 
 ### Pious Force
 
-You gain the following ability, which can be used as a ranged [[Free Strike|free strike]].
+You gain the following ability, which can be used as a ranged free strike.
 
 #### Pious Force
 
@@ -260,7 +260,7 @@ You unleash a blast of raw divine magic upon your foe.
 
 ### Triggered Action
 
-Choose one of the following [[Triggered Action|triggered actions]].
+Choose one of the following triggered actions.
 
 #### Divine Disruption
 
@@ -270,7 +270,7 @@ You sap the strength of an attacking enemy with divine energy.
 
 **Effect**: The attack takes a bane and the damage to one creature targeted by the attack is reduced by an amount equal to your Intuition.
 
-**Spend 1 [[Piety]]**: The attack has a double bane and the damage to one creature targeted by the attack is reduced by an amount equal to twice your Intuition score.
+**Spend 1 Piety**: The attack has a double bane and the damage to one creature targeted by the attack is reduced by an amount equal to twice your Intuition score.
 
 #### Holy Infusion
 
@@ -280,7 +280,7 @@ You invigorate an attacking ally with divine energy.
 
 **Effect**: The attack gains an edge and deals holy damage equal to twice your Intuition score.
 
-**Spend 1 [[Piety]]**: The attack has a double edge and deals holy damage equal to twice your Intuition score.
+**Spend 1 Piety**: The attack has a double edge and deals holy damage equal to twice your Intuition score.
 
 ### Conduit Abilities
 
@@ -288,7 +288,7 @@ Your training and faith let you specialize in magic that buffs your allies, debu
 
 #### Signature Ability
 
-Select one [[Signature Ability|signature ability]] from the options below. Signature abilities can be used at will.
+Select one signature ability from the options below. Signature abilities can be used at will.
 
 ##### Holy Lance
 
@@ -310,7 +310,7 @@ Holy light scours your foes and sets your allies into perfect attack position.
 - 12–16: 3 holy damage
 - 17+: 4 holy damage
 
-**Effect**: You can [[Teleport|teleport]] each ally in the area and yourself (if you're in the area) to an unoccupied space within the area.
+**Effect**: You can teleport each ally in the area and yourself (if you're in the area) to an unoccupied space within the area.
 
 ##### Sacrificial Offer
 
@@ -334,11 +334,11 @@ A bolt of holy energy saps the life from a foe.
 
 #### Heroic Abilities
 
-You make use of a number of [[Heroic Abilities|heroic abilities]], all of which channel [[Piety|piety]] to empower them.
+You make use of a number of heroic abilities, all of which channel piety to empower them.
 
 #### 3-piety Abilities
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 3 [[Piety|piety]] to use.
+Choose one heroic ability from the following options, each of which costs 3 piety to use.
 
 ##### Angel Of Wrath (3 Piety)
 
@@ -348,13 +348,13 @@ You conjure an angelic spirit who lashes your foes with burning radiance.
 
 ##### Punishing Smite (3 Piety)
 
-Your divine [[Fury|fury]] is a hammer that crashes down upon the unrighteous.
+Your divine fury is a hammer that crashes down upon the unrighteous.
 
 **Power Roll + Intuition**:
 
 - 11 or lower: 6 holy damage
-- 12–16: 8 holy damage; [[Prone|prone]]
-- 17+: 13 holy damage; [[Prone|prone]] and can't stand (EoT)
+- 12–16: 8 holy damage; prone
+- 17+: 13 holy damage; prone and can't stand (EoT)
 
 ##### Righteous Rebuke (3 Piety)
 
@@ -378,11 +378,11 @@ A resounding clap of thunder disrupts your foes.
 - 12–16: 5 sonic damage; push 3
 - 17+: 8 sonic damage; push 5
 
-**Effect**: You can also push each willing ally in the area, and their stability doesn't count against this [[Forced Movement|forced movement]].
+**Effect**: You can also push each willing ally in the area, and their stability doesn't count against this forced movement.
 
 #### 5-piety Abilities
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 5 [[Piety|piety]] to use.
+Choose one heroic ability from the following options, each of which costs 5 piety to use.
 
 ##### Armor Of The Faithful (5 Piety)
 
@@ -413,8 +413,8 @@ A mote of holy light racks your foe with their greatest fear.
 **Power Roll + Intuition**:
 
 - 11 or lower: 7 holy damage
-- 12–16: 10 holy damage; [[Frightened|frightened]] (EoT)
-- 17+: 16 holy damage; [[Frightened|frightened]] (EoE)
+- 12–16: 10 holy damage; frightened (EoT)
+- 17+: 16 holy damage; frightened (EoE)
 
 ##### Wave Of Virtue (5 Piety)
 

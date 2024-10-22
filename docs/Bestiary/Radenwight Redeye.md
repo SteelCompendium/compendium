@@ -28,10 +28,10 @@ Effect: An ally of the redeye within 2 squares of the target can shift up to 2 s
 
 **Ready Rodent**
 
-|                         |                            |
-| :---------------------- | :------------------------- |
-| Keywords: Melee, Weapon | Type: [[Triggered Action]] |
-| Distance: Reach 1       | Target: One creature       |
+|                         |                        |
+| :---------------------- | :--------------------- |
+| Keywords: Melee, Weapon | Type: Triggered Action |
+| Distance: Reach 1       | Target: One creature   |
 
 Trigger: An ally deals damage to the target.
 

@@ -29,8 +29,8 @@ Your attack is your allies' signal to strike!
 
 **Power Roll + Might:**
 
-- 11 or lower: 7 damage; an ally within 10 can make a signature attack against the target as a free [[Triggered Action|triggered action]]
-- 12–16: 10 damage; an ally within 10 can make a signature attack with an edge against the target as a free [[Triggered Action|triggered action]]
-- 17+: 16 damage; two allies within 10 can each make a signature attack with an edge against the target as a free [[Triggered Action|triggered action]]
+- 11 or lower: 7 damage; an ally within 10 can make a signature attack against the target as a free triggered action
+- 12–16: 10 damage; an ally within 10 can make a signature attack with an edge against the target as a free triggered action
+- 17+: 16 damage; two allies within 10 can each make a signature attack with an edge against the target as a free triggered action
 
 **Effect:** If an attack is left to be resolved and the target was reduced to 0 Stamina, the attacker can pick a different target.

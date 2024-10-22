@@ -17,7 +17,7 @@ trigger: The target moves.
 
 Strategist. Defender. Leader. With sword in hand, you lead allies into the maw of battle, barking out commands that inspire your fellow heroes to move faster and strike more precisely. All the while, you stand between your compatriots and death, taunting the followers of evil to best you if they can.
 
-As a tactician, you have abilities that [[Heal|heal]] your allies and grant them extra damage, movement, and attacks. You can taunt your enemies into attacking you instead of targeting your allies, and can help soak up damage when those allies stand alone.
+As a tactician, you have abilities that heal your allies and grant them extra damage, movement, and attacks. You can taunt your enemies into attacking you instead of targeting your allies, and can help soak up damage when those allies stand alone.
 
 ## Basics
 
@@ -32,11 +32,11 @@ As a tactician, you have abilities that [[Heal|heal]] your allies and grant them
 
 ### Tactician Advancement
 
-| Level | Features                                                                                                                                                  | Abilities                                |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| 1st   | [[Tactical Doctrine]], [[Focus]], [[Mark]], [[Seize The Opening\|Seize the Opening]], Doctrine Features, [[Doctrine Triggered Action]], [[Field Arsenal]] | [[Field Arsenal]], 3, 5                  |
-| 2nd   | Doctrine Features, Doctrine Ability                                                                                                                       | [[Field Arsenal]], 3, 5, 5 (Doctrine)    |
-| 3rd   | All According to Plan, 7-[[Focus]] Ability                                                                                                                | [[Field Arsenal]], 3, 5, 5 (Doctrine), 7 |
+| Level | Features                                                                                                       | Abilities                            |
+| ----- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| 1st   | Tactical Doctrine, Focus, Mark, Seize the Opening, Doctrine Features, Doctrine Triggered Action, Field Arsenal | Field Arsenal, 3, 5                  |
+| 2nd   | Doctrine Features, Doctrine Ability                                                                            | Field Arsenal, 3, 5, 5 (Doctrine)    |
+| 3rd   | All According to Plan, 7-Focus Ability                                                                         | Field Arsenal, 3, 5, 5 (Doctrine), 7 |
 
 ## 1st-level Features
 
@@ -56,15 +56,15 @@ Your choice of doctrine determines many of the features you'll gain from this cl
 
 ### Focus
 
-The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called [[Focus|focus]].
+The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called focus.
 
-Outside of combat and other dangerous situations tracked in turns and rounds, you have [[Focus|focus]] equal to your Victories. If you lose some or all of this [[Focus|focus]] outside of combat, it takes you 1 minute to regain it.
+Outside of combat and other dangerous situations tracked in turns and rounds, you have focus equal to your Victories. If you lose some or all of this focus outside of combat, it takes you 1 minute to regain it.
 
-When a combat encounter begins, you keep any [[Focus|focus]] you had outside of combat. At the start of each of your turns during combat, you gain 2 [[Focus|focus]]. If an ally gets a tier 3 result on an attack against a target you have marked, you gain 1 [[Focus|focus]]. When combat ends, you once again have [[Focus|focus]] equal to your Victories.
+When a combat encounter begins, you keep any focus you had outside of combat. At the start of each of your turns during combat, you gain 2 focus. If an ally gets a tier 3 result on an attack against a target you have marked, you gain 1 focus. When combat ends, you once again have focus equal to your Victories.
 
 ### Mark
 
-You know how to [[Focus|focus]] the attention of your allies as you push them toward victory. You have the following ability.
+You know how to focus the attention of your allies as you push them toward victory. You have the following ability.
 
 #### Mark
 
@@ -77,7 +77,7 @@ You draw your allies' attention to a specific foe—with devastating effect.
 
 **Effect:** The target is marked by you until the start of your next turn. When attacking a marked target, you and each of your allies gains an edge on power rolls and deals extra damage equal to your Reason score.
 
-**Spend 1 [[Focus]]:** You [[Mark|mark]] 1 additional creature within distance.
+**Spend 1 Focus:** You mark 1 additional creature within distance.
 
 ### Seize The Opening
 
@@ -87,21 +87,21 @@ Your ability to command your allies in combat grants you the following ability.
 
 As the battle unfolds, you tell your allies exactly when to strike!
 
-**Effect:** The target makes a signature attack as a free [[Triggered Action|triggered action]], and deals extra damage equal to your Reason score.
+**Effect:** The target makes a signature attack as a free triggered action, and deals extra damage equal to your Reason score.
 
-**Spend 5 [[Focus]]:** You target two allies instead of one.
+**Spend 5 Focus:** You target two allies instead of one.
 
 ### 1st-level Doctrine Features
 
-Your chosen doctrine grants you two features, as shown on the [[Tactical Doctrine]]\[\[1st-Level [[Tactical Doctrine]] Features\]\] table.
+Your chosen doctrine grants you two features, as shown on the 1st-Level Tactical Doctrine Features table.
 
 #### 1st-level Tactical Doctrine Features
 
-| Doctrine   | Feature               |
-| ---------- | --------------------- |
-| Vanguard   | [[Imposing Attitude]] |
-| Mastermind | [[I Read Your Book]]! |
-| Insurgent  | [[Covert Operations]] |
+| Doctrine   | Feature           |
+| ---------- | ----------------- |
+| Vanguard   | Imposing Attitude |
+| Mastermind | I Read Your Book! |
+| Insurgent  | Covert Operations |
 
 #### Covert Operations
 
@@ -109,7 +109,7 @@ While in your presence or working according to your plans, each of your allies g
 
 #### Imposing Attitude
 
-You command any room you [[Walk|walk]] into. While you are present, each hero with you is treated as having a Renown 2 higher than usual for the purpose of negotiations and influencing tests. Additionally, each hero with you has a double edge on tests made to stop combat and start a negotiation with the other side.
+You command any room you walk into. While you are present, each hero with you is treated as having a Renown 2 higher than usual for the purpose of negotiations and influencing tests. Additionally, each hero with you has a double edge on tests made to stop combat and start a negotiation with the other side.
 
 #### I Read Your Book!
 
@@ -131,15 +131,15 @@ You can only make this test once for each encounter and negotiation.
 
 ### Doctrine Triggered Action
 
-Your doctrine grants you a [[Triggered Action|triggered action]], as shown on the [[Tactician Triggered Actions]] table.
+Your doctrine grants you a triggered action, as shown on the Tactician Triggered Actions table.
 
 #### Tactician Triggered Actions
 
-| Doctrine   | [[Triggered Action]] |
-| ---------- | -------------------- |
-| Vanguard   | [[Parry]]            |
-| Mastermind | [[Overwatch]]        |
-| Insurgent  | [[Flank Them Now!]]  |
+| Doctrine   | Triggered Action |
+| ---------- | ---------------- |
+| Vanguard   | Parry            |
+| Mastermind | Overwatch        |
+| Insurgent  | Flank Them Now!  |
 
 #### Flank Them Now!
 
@@ -149,7 +149,7 @@ You help keep your side in motion as attacks rain down on your foes.
 
 **Effect:** The target can shift up to 2 squares before the attack resolves. After the attack resolves, both the original attacker and the target can shift up to 2 squares.
 
-**Spend 1 [[Focus]]:** The attack deals an extra 1d6 damage.
+**Spend 1 Focus:** The attack deals an extra 1d6 damage.
 
 #### Parry
 
@@ -159,7 +159,7 @@ Your quick reflexes cost an enemy the precision they seek.
 
 **Effect:** The attack's damage against the target is halved.
 
-**Spend 1 [[Focus]]:** The result of the attack's power roll is treated as one tier lower before the damage is halved. If the attack is a critical hit, the attacker can still take an additional action.
+**Spend 1 Focus:** The result of the attack's power roll is treated as one tier lower before the damage is halved. If the attack is a critical hit, the attacker can still take an additional action.
 
 #### Overwatch
 
@@ -167,9 +167,9 @@ Under your direction, an ally waits for just the right moment to strike.
 
 - **Trigger:** The target moves.
 
-**Effect:** At any point during the target's movement, one ally can make a [[Free Strike|free strike]] against the target.
+**Effect:** At any point during the target's movement, one ally can make a free strike against the target.
 
-**Spend 1 [[Focus]]:** The target's speed becomes 0 (EoT).
+**Spend 1 Focus:** The target's speed becomes 0 (EoT).
 
 ### Field Arsenal
 
@@ -177,7 +177,7 @@ You have drilled with a broad array of weapons and have developed techniques to 
 
 If both kits grant you the same benefit, you take one or the other and can't change your choice until you finish a Respite. (This usually means taking the higher of two bonuses.) You also gain access to the signature abilities of both kits.
 
-For example, if you take the [[Shining Armor]] and [[Sniper]] kits, you gain the following benefits overall:
+For example, if you take the Shining Armor and Sniper kits, you gain the following benefits overall:
 
 - **Stamina Bonus:** +12
 - **Stability Bonus:** +1
@@ -185,10 +185,10 @@ For example, if you take the [[Shining Armor]] and [[Sniper]] kits, you gain the
 - **Speed Bonus:** +1
 - **Ranged Weapon Damage Bonus:** +0/+0/+4
 - **Distance Bonus:** +10
-- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
+- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 - **You also gain the use of the Protective Attack and Patient Shot signature abilities.**
 
-Kit signature abilities already have their bonuses applied. For example, you might take the [[Martial Artist]] kit, which gives a melee weapon damage bonus of +2/+2/+2, and the [[Mountain]] kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the [[Mountain]] kit's damage bonus, then the Battle Grace [[Signature Ability|signature ability]] from the [[Martial Artist]] kit would reduce its damage by −2/−2/−2, as it loses the bonus from the [[Martial Artist]] kit. It then gains the +0/+0/+4 of the [[Mountain]] kit, to deal damage of 3/7/14 for its tier 1, tier 2, and tier 3 results.
+Kit signature abilities already have their bonuses applied. For example, you might take the Martial Artist kit, which gives a melee weapon damage bonus of +2/+2/+2, and the Mountain kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the Mountain kit's damage bonus, then the Battle Grace signature ability from the Martial Artist kit would reduce its damage by −2/−2/−2, as it loses the bonus from the Martial Artist kit. It then gains the +0/+0/+4 of the Mountain kit, to deal damage of 3/7/14 for its tier 1, tier 2, and tier 3 results.
 
 ### Tactician Abilities
 
@@ -196,15 +196,15 @@ You are a formidable combatant in your own right, but your greatest strength in 
 
 #### Kit Signature Ability
 
-Your additional kit from your [[Field Arsenal]] feature grants you a second [[Signature Ability|signature ability]]. Signature abilities can be used at will.
+Your additional kit from your Field Arsenal feature grants you a second signature ability. Signature abilities can be used at will.
 
 #### Heroic Abilities
 
-Your [[Heroic Abilities|heroic abilities]] cover a range of combat tactics, all of which require [[Focus|focus]] to use them.
+Your heroic abilities cover a range of combat tactics, all of which require focus to use them.
 
 #### 3-focus Abilities
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 3 [[Focus|focus]] to use.
+Choose one heroic ability from the following options, each of which costs 3 focus to use.
 
 ##### Battle Cry (3 Focus)
 
@@ -218,9 +218,9 @@ Your precise strike leaves your foe struggling to respond.
 
 **Power Roll + Might:**
 
-- 11 or lower: 6 damage; [[Slowed|slowed]] (EoT)
-- 12–16: 8 damage; [[Dazed|dazed]] (EoT)
-- 17+: 13 damage; [[Dazed|dazed]] (EoE)
+- 11 or lower: 6 damage; slowed (EoT)
+- 12–16: 8 damage; dazed (EoT)
+- 17+: 13 damage; dazed (EoE)
 
 ##### Inspiring Strike (3 Focus)
 
@@ -240,7 +240,7 @@ On your command, you and your allies force back the enemy line.
 
 #### 5-focus Abilities
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 5 [[Focus|focus]] to use.
+Choose one heroic ability from the following options, each of which costs 5 focus to use.
 
 ##### Hammer And Anvil (5 Focus)
 
@@ -248,9 +248,9 @@ Your attack is your allies' signal to strike!
 
 **Power Roll + Might:**
 
-- 11 or lower: 7 damage; an ally within 10 can make a signature attack against the target as a free [[Triggered Action|triggered action]]
-- 12–16: 10 damage; an ally within 10 can make a signature attack with an edge against the target as a free [[Triggered Action|triggered action]]
-- 17+: 16 damage; two allies within 10 can each make a signature attack with an edge against the target as a free [[Triggered Action|triggered action]]
+- 11 or lower: 7 damage; an ally within 10 can make a signature attack against the target as a free triggered action
+- 12–16: 10 damage; an ally within 10 can make a signature attack with an edge against the target as a free triggered action
+- 17+: 16 damage; two allies within 10 can each make a signature attack with an edge against the target as a free triggered action
 
 **Effect:** If an attack is left to be resolved and the target was reduced to 0 Stamina, the attacker can pick a different target.
 
@@ -258,7 +258,7 @@ Your attack is your allies' signal to strike!
 
 Your allies wait for your command—then unleash death!
 
-**Effect:** Each target can make a [[Free Strike|free strike]].
+**Effect:** Each target can make a free strike.
 
 ##### Their Weakness Is Our Strength (5 Focus)
 
@@ -266,9 +266,9 @@ Leaving your foe struggling gives your allies a strategic opening.
 
 **Power Roll + Might:**
 
-- 11 or lower: 7 damage; [[Weakened|weakened]] (EoT)
-- 12–16: 10 damage; [[Weakened|weakened]] (EoT)
-- 17+: 16 damage; [[Weakened|weakened]] (EoE)
+- 11 or lower: 7 damage; weakened (EoT)
+- 12–16: 10 damage; weakened (EoT)
+- 17+: 16 damage; weakened (EoE)
 
 **Effect:** The target is marked (EoE). Each of your allies can spend a Recovery the first time they attack any target you've marked before the start of your next turn.
 

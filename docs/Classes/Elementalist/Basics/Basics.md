@@ -19,4 +19,4 @@ kind: basics
 - **Recoveries**: 8
 - **Skills**: You gain Magic and can choose any three skills from the crafting or lore skill groups.
 
-[ELEMENTALIST ADVANCEMENT](./%5B%5BElementalist%5D%5D%20Advancement.md)
+[ELEMENTALIST ADVANCEMENT](./Elementalist%20Advancement.md)

@@ -10,7 +10,7 @@ kind: stormwight kits
 
 # Boren
 
-With this [[Stormwight Kits|stormwight kit]], you channel your primordial [[Rage|rage]] into the form of a bear, becoming large, durable, and imposing. Boren are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
+With this stormwight kit, you channel your primordial rage into the form of a bear, becoming large, durable, and imposing. Boren are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
 
 [ASPECT BENEFITS](./Aspect%20Benefits.md)
 

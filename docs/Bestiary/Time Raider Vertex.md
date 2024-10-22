@@ -1,11 +1,11 @@
 #### TIME RAIDER VERTEX
 
-| [[Raider]]\[\[Time [[Raider]]\|TIME RAIDER\]\] VERTEX |       **Level 3 Support** |
-| :---------------------------------------------------- | ------------------------: |
-| *Humanoid, [[Time Raider]]*                           |                 **EV 19** |
-| **Stamina**: 50                                       |             **Weakness**: |
-| **Speed**: 5 ([[Fly\|fly]])                           | **Size**: 2 / Stability 3 |
-|                                                       |    **[[Free Strike]]**: 5 |
+| [[Time Raider\|TIME RAIDER]] VERTEX |       **Level 3 Support** |
+| :---------------------------------- | ------------------------: |
+| *Humanoid, [[Time Raider]]*         |                 **EV 19** |
+| **Stamina**: 50                     |             **Weakness**: |
+| **Speed**: 5 ([[Fly\|fly]])         | **Size**: 2 / Stability 3 |
+|                                     |    **[[Free Strike]]**: 5 |
 
 | **Might** +1 | **Agility** +1 | **Reason** +2 | **Intuition** +1 | **Presence** 0 |
 | ------------ | -------------- | ------------- | ---------------- | -------------- |

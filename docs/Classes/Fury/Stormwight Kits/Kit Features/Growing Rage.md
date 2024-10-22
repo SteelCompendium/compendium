@@ -10,4 +10,4 @@ kind: stormwight kits
 
 # Growing Rage
 
-Each stormwight gains a specific set of benefits for their [[Fury|fury]] Growing [[Rage]] feature, as noted in the table for each [[Stormwight Kits|stormwight kit]]. These benefits are cumulative.
+Each stormwight gains a specific set of benefits for their fury Growing Rage feature, as noted in the table for each stormwight kit. These benefits are cumulative.

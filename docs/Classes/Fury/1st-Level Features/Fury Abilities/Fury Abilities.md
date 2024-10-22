@@ -16,6 +16,6 @@ You specialize in dealing massive damage on the battlefield, mastering a number 
 
 [HEROIC ABILITIES](./Heroic%20Abilities.md)
 
-[[Rage|RAGE]]\[3-[[Rage|RAGE]] ABILITIES\](./3-[[Rage]]%20Abilities/3-[[Rage]]%20Abilities.md)
+[3-RAGE ABILITIES](./3-Rage%20Abilities/3-Rage%20Abilities.md)
 
-[[Rage|RAGE]]\[5-[[Rage|RAGE]] ABILITIES\](./5-[[Rage]]%20Abilities/5-[[Rage]]%20Abilities.md)
+[5-RAGE ABILITIES](./5-Rage%20Abilities/5-Rage%20Abilities.md)

@@ -10,9 +10,9 @@ kind: 1st-level features
 
 # 1st-level College Features
 
-Your choice of college grants you one or two features, as shown on the [[Shadow College]]\[\[1st-Level [[Shadow College]] Features\]\] table.
+Your choice of college grants you one or two features, as shown on the 1st-Level Shadow College Features table.
 
-[[Shadow College|SHADOW COLLEGE]]\[1ST-LEVEL [[Shadow College|SHADOW COLLEGE]] FEATURES\](./1st-Level%20Shadow%20College%20Features.md)
+[1ST-LEVEL SHADOW COLLEGE FEATURES](./1st-Level%20Shadow%20College%20Features.md)
 
 [BLACK ASH TELEPORT](./Black%20Ash%20Teleport.md)
 

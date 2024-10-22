@@ -8,7 +8,7 @@ type: complications
 
 # Shipwrecked
 
-You are the sole survivor of a shipwreck that left you stranded on a remote and inhospitable island for years. Your struggle to survive there granted you [[Insight|insight]] into the natural world but distanced you from who you once were.
+You are the sole survivor of a shipwreck that left you stranded on a remote and inhospitable island for years. Your struggle to survive there granted you insight into the natural world but distanced you from who you once were.
 
 **Benefit**: You gain two skills from the exploration skill group.
 

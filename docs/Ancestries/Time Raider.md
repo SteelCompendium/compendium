@@ -54,7 +54,7 @@ Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head
 
 “They may pull you apart,” he said to her, and at this, his squadron of [[Soldier|soldiers]], all in black leather and golden pauldrons, started making barking sounds. Then they laughed at each other.
 
-“Or I may let my crucibite [[Melt|melt]] the skin from your bones.”
+“Or I may let my crucibite melt the skin from your bones.”
 
 At that, a war dog clad in leather from head to foot wearing a heavy mask with glass circles where the eyes should be and some kind of canister over his mouth stepped forward. The long thin brass tube in his hands connected to a large metal tank on his back.
 
@@ -90,7 +90,7 @@ John knew what came next, but he wasn't an assassin. He had his own part to play
 
 “She goes free,” John commanded, his voice steel, “or you die here.” He could feel the muscles tightening in his comrades, the whole company like a steel spring wound tight.
 
-Lycaon cocked his head at Sir John and took a few foolish steps toward the [[Tactician|tactician]]. He was just out of reach. But close enough.
+Lycaon cocked his head at Sir John and took a few foolish steps toward the tactician. He was just out of reach. But close enough.
 
 “I see you are a man, like Ajax. Why do you lower yourself with these … creatures?” the war dog Taxiarch looked at the elf, [[Polder|polder]], and [[Dragon Knight|dragon knight]]. “Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you,” his voice lowered almost to a whisper, “to be on the winning side for a change.”
 
@@ -100,7 +100,7 @@ Ember's eyes flashed into a starfield. The time [[Raider|raider]]'s chains disso
 
 The time [[Raider|raider]]'s right upper hand shot out, as though she'd been waiting for the void mage to do exactly what she just did, and her meson blaster leapt out of the hands of the war dog who'd chained her. The pistol made of glass and bronze slammed into her hand and its tip flared with prismatic light.
 
-From the sun's [[Shadow|shadow]] cast by Taxiarch Lycaon, the [[Polder|polder]] Jackson Bootblack emerged, a rapier in each hand, and no one had seen him move from where he'd been a moment before.
+From the sun's shadow cast by Taxiarch Lycaon, the [[Polder|polder]] Jackson Bootblack emerged, a rapier in each hand, and no one had seen him move from where he'd been a moment before.
 
 At the same instant, a call—a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in John's heart—the Clarion Call of the last Storm Knight!
 
@@ -116,7 +116,7 @@ As a time [[Raider|raider]] character, you have the following benefits.
 
 ### Foresight
 
-Your senses extend past mundane obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren't hidden from you, negating the usual bane on attacks against them. Additionally, whenever you are attacked, you can use a [[Triggered Action|triggered action]] to impose a bane on the power roll.
+Your senses extend past mundane obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren't hidden from you, negating the usual bane on attacks against them. Additionally, whenever you are attacked, you can use a triggered action to impose a bane on the power roll.
 
 ### Four Arms
 

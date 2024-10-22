@@ -1,11 +1,11 @@
 #### TIME RAIDER ARMIGER
 
-| [[Raider]]\[\[Time [[Raider]]\|TIME RAIDER\]\] ARMIGER |       **Level 3 Defender** |
-| :----------------------------------------------------- | -------------------------: |
-| *Humanoid, [[Time Raider]]*                            |                  **EV 21** |
-| **Stamina**: 60                                        |              **Weakness**: |
-| **Speed**: 5                                           | **Size**: 1M / Stability 0 |
-|                                                        |     **[[Free Strike]]**: 5 |
+| [[Time Raider\|TIME RAIDER]] ARMIGER |       **Level 3 Defender** |
+| :----------------------------------- | -------------------------: |
+| *Humanoid, [[Time Raider]]*          |                  **EV 21** |
+| **Stamina**: 60                      |              **Weakness**: |
+| **Speed**: 5                         | **Size**: 1M / Stability 0 |
+|                                      |     **[[Free Strike]]**: 5 |
 
 | **Might** 0 | **Agility** +2 | **Reason** +2 | **Intuition** | **Presence** 0 |
 | ----------- | -------------- | ------------- | ------------- | -------------- |
@@ -30,7 +30,7 @@ Effect: The target takes a bane on the next attack they make before the start of
 
 |                                       |                             |
 | :------------------------------------ | :-------------------------- |
-| Keywords: Psionic, Ranged, Resistance | Type: [[Triggered Action]]  |
+| Keywords: Psionic, Ranged, Resistance | Type: Triggered Action      |
 | Distance: Ranged 20                   | Target: Triggering creature |
 
 ****Trigger****

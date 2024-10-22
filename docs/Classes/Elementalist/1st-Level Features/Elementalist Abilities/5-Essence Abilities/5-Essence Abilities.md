@@ -10,12 +10,12 @@ kind: 1st-level features
 
 # 5-essence Abilities
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 5 [[Essence|essence]] to use.
+Choose one heroic ability from the following options, each of which costs 5 essence to use.
 
-[[Essence|ESSENCE]]\[CONFLAGRATION (5 [[Essence|ESSENCE]])\](./[[Conflagration]]%20(5%20ESSENCE).md)
+[CONFLAGRATION (5 ESSENCE)](<./Conflagration%20(5%20ESSENCE).md>)
 
-[[Essence|ESSENCE]]\[INCORPOREALNESS (5 [[Essence|ESSENCE]])\](./[[Incorporealness]]%20(5%20ESSENCE).md)
+[INCORPOREALNESS (5 ESSENCE)](<./Incorporealness%20(5%20ESSENCE).md>)
 
-[[Essence|ESSENCE]]\[NOURISHING RAIN (5 [[Essence|ESSENCE]])\](./Nourishing%20Rain%20(5%20ESSENCE).md)
+[NOURISHING RAIN (5 ESSENCE)](<./Nourishing%20Rain%20(5%20ESSENCE).md>)
 
-[[Essence|ESSENCE]]\[OPEN THE EARTH (5 [[Essence|ESSENCE]])\](./Open%20The%20Earth%20(5%20ESSENCE).md)
+[OPEN THE EARTH (5 ESSENCE)](<./Open%20The%20Earth%20(5%20ESSENCE).md>)

@@ -138,7 +138,7 @@ When you create a devil character, you have 3 fiend points, which you use to sel
 
 - **EXPOSED SKELETON (2 FIEND POINTS):** Your bones are visible and hardened above your skin, granting you Weapon immunity 2.
 
-- **GLOWING EYES (1 FIEND POINT):** Your eyes are a solid, vibrant color that flares to show your excitement or [[Rage|rage]]. Whenever you take damage from a creature, you can use a [[Triggered Action|triggered action]] to curse that creature for daring to do you harm. The creature takes 1d10 psychic damage.
+- **GLOWING EYES (1 FIEND POINT):** Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a triggered action to curse that creature for daring to do you harm. The creature takes 1d10 psychic damage.
 
 - **HELLSIGHT (1 POINT):** Your eyes let you see through the dark, fog, and other types of concealment. You don't take a bane on attacks against concealed, unhidden creatures.
 

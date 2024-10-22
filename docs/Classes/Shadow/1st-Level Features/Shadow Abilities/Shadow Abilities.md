@@ -16,6 +16,6 @@ You specialize in dealing damage, then getting out of harm's way before the inev
 
 [HEROIC ABILITIES](./Heroic%20Abilities.md)
 
-[[Insight|INSIGHT]]\[3-[[Insight|INSIGHT]] ABILITIES\](./3-[[Insight]]%20Abilities/3-[[Insight]]%20Abilities.md)
+[3-INSIGHT ABILITIES](./3-Insight%20Abilities/3-Insight%20Abilities.md)
 
-[[Insight|INSIGHT]]\[5-[[Insight|INSIGHT]] ABILITIES\](./5-[[Insight]]%20Abilities/5-[[Insight]]%20Abilities.md)
+[5-INSIGHT ABILITIES](./5-Insight%20Abilities/5-Insight%20Abilities.md)

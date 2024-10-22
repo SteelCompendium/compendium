@@ -20,7 +20,7 @@ trigger: The target starts their turn or moves.
 
 Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the unknown. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.
 
-As an elementalist, you can unleash your wrath across a field of foes, put an enemy exactly where you want them, debilitate foes with harmful effects, ward yourself and allies against danger, manipulate terrain, warp space, and more. Your choice of [[Elemental Specialization|elemental specialization]] determines which of these things you do best.
+As an elementalist, you can unleash your wrath across a field of foes, put an enemy exactly where you want them, debilitate foes with harmful effects, ward yourself and allies against danger, manipulate terrain, warp space, and more. Your choice of elemental specialization determines which of these things you do best.
 
 ## Basics
 
@@ -35,11 +35,11 @@ As an elementalist, you can unleash your wrath across a field of foes, put an en
 
 ### Elementalist Advancement
 
-| Level | Features                                                                                                                                                                                                           |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1st   | [[Elemental Specialization]], [[Essence]], [[Hurl Element]], [[Persistent Magic]], [[Practical Magic]], Specialization Feature, [[Specialization Triggered Action]], [[Elementalist Abilities]] Signature, 1, 3, 5 |
-| 2nd   | Specialization Feature, New [[Essence]]\[\[5-[[Essence]] Abilities\|5-[[Essence]] Ability\]\] Signature, 1, 3, 5, 5                                                                                                |
-| 3rd   | Specialization Feature, 7-[[Essence]] Ability Signature, 1, 3, 5, 5, 7                                                                                                                                             |
+| Level | Features                                                                                                                                                                               |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1st   | Elemental Specialization, Essence, Hurl Element, Persistent Magic, Practical Magic, Specialization Feature, Specialization Triggered Action, Elementalist Abilities Signature, 1, 3, 5 |
+| 2nd   | Specialization Feature, New 5-Essence Ability Signature, 1, 3, 5, 5                                                                                                                    |
+| 3rd   | Specialization Feature, 7-Essence Ability Signature, 1, 3, 5, 5, 7                                                                                                                     |
 
 ## 1st-level Features
 
@@ -49,29 +49,29 @@ As an elementalist, you gain the following features.
 
 Through your studies, you know and can manipulate the seven primal elements of the timescape:
 
-- **Air** is the element of movement. Air abilities allow you to manipulate speed, [[Quickness|quickness]], flight, and breath.
+- **Air** is the element of movement. Air abilities allow you to manipulate speed, quickness, flight, and breath.
 - **Earth** is the element of permanence. Earth abilities create and shape physical terrain in a permanent way, and bolster the strength and hardiness of allies.
 - **Fire** is the element of destruction. Fire abilities harm enemies and objects.
 - **Green** is the element of creation and growth. Green abilities make and manipulate plants, fungi, and other forms of life to hamper foes and nourish your allies.
 - **Rot** is the element of death. Rot abilities decay and debuff enemies.
-- **Void** is the element of the unknown. Void abilities warp space and reality, allowing you to [[Teleport|teleport]], create illusions, and make things incorporeal.
+- **Void** is the element of the unknown. Void abilities warp space and reality, allowing you to teleport, create illusions, and make things incorporeal.
 - **Water** is the element of change. Water abilities enhance what your allies can do, and alter the abilities of your enemies for the worse.
 
-[[Heroic Abilities|Heroic abilities]] that include your specialization's keyword have their initial [[Essence|essence]] cost reduced by 1 (to a minimum of 1). This reduced cost doesn't apply to abilities you gain because of your specialization, such as [[Manipulate Earth]] or Void Sight.
+Heroic abilities that include your specialization's keyword have their initial essence cost reduced by 1 (to a minimum of 1). This reduced cost doesn't apply to abilities you gain because of your specialization, such as Manipulate Earth or Void Sight.
 
-Choose one of the following elements to be your specialty: earth, fire, green, or void. (Other [[Elemental Specialization|elemental specializations]] will be featured in future products.) Your choice of specialization determines many of the features you'll gain from this class.
+Choose one of the following elements to be your specialty: earth, fire, green, or void. (Other elemental specializations will be featured in future products.) Your choice of specialization determines many of the features you'll gain from this class.
 
 ### Essence
 
-You channel the substance of creation in the form of a Heroic Resource called [[Essence|essence]]. In times of great stress, you can [[Focus|focus]] your control on this substance, gathering and burning it to cast and maintain spells.
+You channel the substance of creation in the form of a Heroic Resource called essence. In times of great stress, you can focus your control on this substance, gathering and burning it to cast and maintain spells.
 
-Outside of combat and other dangerous situations tracked in turns and rounds, you have [[Essence|essence]] equal to your Victories. If you lose some or all of this [[Essence|essence]] outside of combat, it takes you 1 minute to regain it. You can also dedicate that [[Essence|essence]] to maintaining persistent abilities (see [[Persistent Magic]] below).
+Outside of combat and other dangerous situations tracked in turns and rounds, you have essence equal to your Victories. If you lose some or all of this essence outside of combat, it takes you 1 minute to regain it. You can also dedicate that essence to maintaining persistent abilities (see Persistent Magic below).
 
-When combat begins, you keep any [[Essence|essence]] you had outside of combat. At the start of each of your turns during combat, you gain 2 [[Essence|essence]]. When combat ends, you once more have [[Essence|essence]] equal to your Victories.
+When combat begins, you keep any essence you had outside of combat. At the start of each of your turns during combat, you gain 2 essence. When combat ends, you once more have essence equal to your Victories.
 
 ### Hurl Element
 
-You gain the following ability, which can be used as a ranged [[Free Strike|free strike]]:
+You gain the following ability, which can be used as a ranged free strike:
 
 #### Hurl Element
 
@@ -92,11 +92,11 @@ You hurl a ball of elemental energy at a nearby foe.
 
 ### Persistent Magic
 
-Some of your [[Heroic Abilities|heroic abilities]] have the Persistent keyword. Whenever you use a persistent ability, you decide whether you want to maintain it. If you maintain a persistent ability in combat, you reduce the amount of [[Essence|essence]] you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end when combat ends.
+Some of your heroic abilities have the Persistent keyword. Whenever you use a persistent ability, you decide whether you want to maintain it. If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end when combat ends.
 
-You can maintain a persistent ability outside of combat as long as you have Victories equal to or greater than its persistent value. If you maintain a persistent ability outside of combat, the maximum [[Essence|essence]] you can use on other abilities is reduced by the ability's persistent value. For instance, if you have 4 Victories and maintain the Stone Ward ability (a persistent ability with a cost of 1 [[Essence|essence]]), you can only use abilities costing 3 [[Essence|essence]] or less outside of combat.
+You can maintain a persistent ability outside of combat as long as you have Victories equal to or greater than its persistent value. If you maintain a persistent ability outside of combat, the maximum essence you can use on other abilities is reduced by the ability's persistent value. For instance, if you have 4 Victories and maintain the Stone Ward ability (a persistent ability with a cost of 1 essence), you can only use abilities costing 3 essence or less outside of combat.
 
-You can't maintain any abilities that would make you earn a negative amount of [[Essence|essence]] at the start of your turn or have a negative amount of [[Essence|essence]] outside of combat. You can stop maintaining an ability at any time (no action required).
+You can't maintain any abilities that would make you earn a negative amount of essence at the start of your turn or have a negative amount of essence outside of combat. You can stop maintaining an ability at any time (no action required).
 
 If you maintain the same ability on several targets and the effect includes a power roll, you make that roll once and apply the same effect to all targets. A creature can't be affected by multiple instances of a persistent ability.
 
@@ -118,22 +118,22 @@ Your mastery of elemental power lets you customize your magic.
 
 **Effect**: Choose one of the following effects:
 
-- You use the [[Knockback]] maneuver, but you make a Reason test instead of a Might test. For this use of the maneuver, you can target a creature at a distance equal to the distance of your [[Hurl Element]] ability.
-- You choose a creature within the distance of your [[Hurl Element]] ability and deal damage to that creature equal to your Reason score. The damage type can be acid, cold, corruption, fire, lightning, poison, or sonic.
-- You [[Teleport|teleport]] a number of squares equal to your Reason score.
+- You use the Knockback maneuver, but you make a Reason test instead of a Might test. For this use of the maneuver, you can target a creature at a distance equal to the distance of your Hurl Element ability.
+- You choose a creature within the distance of your Hurl Element ability and deal damage to that creature equal to your Reason score. The damage type can be acid, cold, corruption, fire, lightning, poison, or sonic.
+- You teleport a number of squares equal to your Reason score.
 
 ### 1st-level Specialization Feature
 
-Your elementalist specialization grants you a feature, as shown on the [[1st-Level Elementalist Specialization Features]] table.
+Your elementalist specialization grants you a feature, as shown on the 1st-Level Elementalist Specialization Features table.
 
 #### 1st-level Elementalist Specialization Features
 
-| Specialization | Feature                                    |
-| -------------- | ------------------------------------------ |
-| Earth          | [[Manipulate Earth]]                       |
-| Fire           | [[Melt]]                                   |
-| Green          | [[Speech Of The Wild\|Speech of the Wild]] |
-| Void           | [[Void Sense]]                             |
+| Specialization | Feature            |
+| -------------- | ------------------ |
+| Earth          | Manipulate Earth   |
+| Fire           | Melt               |
+| Green          | Speech of the Wild |
+| Void           | Void Sense         |
 
 #### Manipulate Earth
 
@@ -149,7 +149,7 @@ The earth rises, falls, or opens at your command.
 
 **Alternative Effect**: You touch a doorway or other opening in a mundane dirt, stone, or metal surface that is no larger than 1 square. The opening is sealed by the same material that makes up the surface.
 
-**Spend No [[Essence]]**: You can use this ability without spending [[Essence|essence]]. If you do, you must spend 1 uninterrupted minute using the ability while within reach of the target before its effect occurs.
+**Spend No Essence**: You can use this ability without spending essence. If you do, you must spend 1 uninterrupted minute using the ability while within reach of the target before its effect occurs.
 
 #### Melt
 
@@ -159,9 +159,9 @@ You gain the following ability:
 
 With the merest touch, you cause an object to turn into slag or ash.
 
-**Effect**: You heat the target and cause it to combust and [[Melt|melt]]. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.
+**Effect**: You heat the target and cause it to combust and melt. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.
 
-**Spend No [[Essence]]**: You can use this ability without spending [[Essence|essence]]. If you do, you must spend 1 uninterrupted minute using the ability while touching the target before its effect occurs.
+**Spend No Essence**: You can use this ability without spending essence. If you do, you must spend 1 uninterrupted minute using the ability while touching the target before its effect occurs.
 
 #### Speech Of The Wild
 
@@ -179,20 +179,20 @@ You also gain the following ability:
 
 You share your special senses with others.
 
-**Effect**: For each [[Essence|essence]] you spend, you can target 1 creature. That creature gains the benefit of your [[Void Sense]] feature until the end of your next turn, but doesn't gain the use of Shared [[Void Sense]].
+**Effect**: For each essence you spend, you can target 1 creature. That creature gains the benefit of your Void Sense feature until the end of your next turn, but doesn't gain the use of Shared Void Sense.
 
 ### Specialization Triggered Action
 
-Your specialization grants you a [[Triggered Action|triggered action]], as shown on the [[Elementalist Triggered Actions]] table.
+Your specialization grants you a triggered action, as shown on the Elementalist Triggered Actions table.
 
 ##### Elementalist Triggered Actions
 
-| Specialization | [[Triggered Action]]             |
-| -------------- | -------------------------------- |
-| Earth          | [[Earthen Force]]                |
-| Fire           | [[Explosive Assistance]]         |
-| Green          | [[Mend The Soul\|Mend the Soul]] |
-| Void           | [[Void Embrace]]                 |
+| Specialization | Triggered Action     |
+| -------------- | -------------------- |
+| Earth          | Earthen Force        |
+| Fire           | Explosive Assistance |
+| Green          | Mend the Soul        |
+| Void           | Void Embrace         |
 
 #### Earthen Force
 
@@ -202,7 +202,7 @@ You imbue an attack with the strength of stone.
 
 **Effect**: The attack deals extra damage equal to 3 times your Reason score.
 
-**Spend 1 [[Essence]]**: The attack deals extra damage equal to 4 times your Reason score instead and pushes the target a number of squares equal to your Reason score.
+**Spend 1 Essence**: The attack deals extra damage equal to 4 times your Reason score instead and pushes the target a number of squares equal to your Reason score.
 
 #### Explosive Assistance
 
@@ -210,9 +210,9 @@ You add a little magic to an ally's aggression at just the right time.
 
 - **Trigger**: The target force moves a creature or object.
 
-**Effect**: The distance of the [[Forced Movement|forced movement]] is increased by a number of squares equal to your Reason score.
+**Effect**: The distance of the forced movement is increased by a number of squares equal to your Reason score.
 
-**Spend 1 [[Essence]]**: The distance of the [[Forced Movement|forced movement]] is increased by a number of squares equal to twice your Reason score instead.
+**Spend 1 Essence**: The distance of the forced movement is increased by a number of squares equal to twice your Reason score instead.
 
 #### Mend The Soul
 
@@ -228,9 +228,9 @@ You call on the void to swallow and spit out an ally.
 
 - **Trigger**: The target starts their turn or moves.
 
-**Effect**: At any point during the move, you [[Teleport|teleport]] the target a number of squares equal to your Reason.
+**Effect**: At any point during the move, you teleport the target a number of squares equal to your Reason.
 
-**Spend 1 [[Essence]]**: You [[Teleport|teleport]] the target a number of squares equal to twice your Reason score instead.
+**Spend 1 Essence**: You teleport the target a number of squares equal to twice your Reason score instead.
 
 ### Elementalist Abilities
 
@@ -238,7 +238,7 @@ Your mastery of elemental magic grants you unique magical abilities that let you
 
 #### Signature Ability
 
-Select one [[Signature Ability|signature ability]] from the options below. Signature abilities can be used at will.
+Select one signature ability from the options below. Signature abilities can be used at will.
 
 ##### Debris
 
@@ -250,11 +250,11 @@ A sudden storm of detritus assaults your foes and leaves them struggling to move
 - 12–16: 3 damage
 - 17+: 4 damage
 
-**Effect**: The ground beneath the area becomes [[Difficult Terrain|difficult terrain]] for your enemies.
+**Effect**: The ground beneath the area becomes difficult terrain for your enemies.
 
 ##### Fire Lance
 
-A jet of fire erupts with elemental [[Fury|fury]] where it strikes.
+A jet of fire erupts with elemental fury where it strikes.
 
 **Power Roll + Reason**:
 
@@ -281,16 +281,16 @@ A beam of energy corrupts and hinders whatever it touches.
 **Power Roll + Reason**:
 
 - 11 or lower: 2 corruption damage
-- 12–16: 6 corruption damage; [[Slowed|slowed]] (EoT)
-- 17+: 9 corruption damage; [[Slowed|slowed]] (EoT)
+- 12–16: 6 corruption damage; slowed (EoT)
+- 17+: 9 corruption damage; slowed (EoT)
 
 #### Heroic Abilities
 
-You channel a range of [[Heroic Abilities|heroic abilities]], all of them fueled by your [[Essence|essence]]
+You channel a range of heroic abilities, all of them fueled by your essence
 
 #### 3-essence Abilities
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 3 [[Essence|essence]] to use.
+Choose one heroic ability from the following options, each of which costs 3 essence to use.
 
 ##### Burn! (3 Essence)
 
@@ -324,9 +324,9 @@ You slam the ground, which buckles out from you in every direction.
 
 - 11 or lower: 4 damage
 - 12–16: 5 damage
-- 17+: 8 damage; [[Prone|prone]]
+- 17+: 8 damage; prone
 
-**Effect**: You must be touching the ground or floor to use this ability. The surface beneath the area becomes [[Difficult Terrain|difficult terrain]] for your enemies.
+**Effect**: You must be touching the ground or floor to use this ability. The surface beneath the area becomes difficult terrain for your enemies.
 
 ##### Stare Into The Abyss (3 Essence)
 
@@ -338,11 +338,11 @@ You open a rift into the void to harry your enemies.
 - 12–16: 4 psychic damage
 - 17+: 6 psychic damage
 
-**Persistent 1**: At the start of your turn, you can use this ability again as a maneuver without spending [[Essence|essence]].
+**Persistent 1**: At the start of your turn, you can use this ability again as a maneuver without spending essence.
 
 #### 5-essence Abilities
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 5 [[Essence|essence]] to use.
+Choose one heroic ability from the following options, each of which costs 5 essence to use.
 
 ##### Conflagration (5 Essence)
 
@@ -354,7 +354,7 @@ A storm of fire descends upon your enemies.
 - 12–16: 7 fire damage
 - 17+: 10 fire damage
 
-**Persistent 2**: At the start of your turn, you can use this ability again as a maneuver without spending [[Essence|essence]].
+**Persistent 2**: At the start of your turn, you can use this ability again as a maneuver without spending essence.
 
 ##### Incorporealness (5 Essence)
 

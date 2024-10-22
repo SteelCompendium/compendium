@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # Kit Signature Ability
 
-Your additional kit from your [[Field Arsenal]] feature grants you a second [[Signature Ability|signature ability]]. Signature abilities can be used at will.
+Your additional kit from your Field Arsenal feature grants you a second signature ability. Signature abilities can be used at will.

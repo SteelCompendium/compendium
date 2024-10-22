@@ -27,6 +27,6 @@ In a swirl of black ash, you step from one place to another.
 | **Keywords:** Magic | **Type:** Maneuver |
 | **Distance:** Self  | **Target:** Self   |
 
-**Effect:** You [[Teleport|teleport]] up to 5 squares. If you end this movement in concealment or cover, you can use the [[Hide]] maneuver even if you are observed.
+**Effect:** You teleport up to 5 squares. If you end this movement in concealment or cover, you can use the Hide maneuver even if you are observed.
 
-**Spend [[Insight]]:** You [[Teleport|teleport]] 1 additional square for each [[Insight|insight]] spent.
+**Spend Insight:** You teleport 1 additional square for each insight spent.

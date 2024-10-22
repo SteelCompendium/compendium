@@ -10,4 +10,4 @@ kind: stormwight kits
 
 # Aspect Benefits
 
-You gain an edge on tests made to [[Hide|hide]] and sneak. Additionally, you ignore [[Difficult Terrain|difficult terrain]], and you gain an edge on tests made to climb other creatures. If you are hidden, you automatically achieve a tier 3 result on attempts to climb and remain hidden.
+You gain an edge on tests made to hide and sneak. Additionally, you ignore difficult terrain, and you gain an edge on tests made to climb other creatures. If you are hidden, you automatically achieve a tier 3 result on attempts to climb and remain hidden.

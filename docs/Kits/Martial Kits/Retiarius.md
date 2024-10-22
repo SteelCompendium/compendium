@@ -17,7 +17,7 @@ target: 1 creature
 
 # Retiarius
 
-The retiarius is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the [[Equipment|equipment]] and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
+The retiarius is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
 
 ## Equipment
 
@@ -29,7 +29,7 @@ You wear light armor, and wield a polearm and several ensnaring weapons.
 - Speed Bonus: +1
 - Melee Weapon Damage Bonus: +2/+2/+2
 - Reach Bonus: +1
-- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
+- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
 ## Signature Ability
 

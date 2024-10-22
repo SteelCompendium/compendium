@@ -12,7 +12,7 @@ kind: 1st-level features
 
 Select one signature ability from the options below. Signature abilities can be used at will.
 
-[DEBRIS](./%5B%5BDebris%5D%5D.md)
+[DEBRIS](./Debris.md)
 
 [FIRE LANCE](./Fire%20Lance.md)
 

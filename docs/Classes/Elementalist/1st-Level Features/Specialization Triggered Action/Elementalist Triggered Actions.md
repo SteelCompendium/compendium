@@ -10,9 +10,9 @@ kind: 1st-level features
 
 # Elementalist Triggered Actions
 
-| Specialization | [[Triggered Action]]             |
-| -------------- | -------------------------------- |
-| Earth          | [[Earthen Force]]                |
-| Fire           | [[Explosive Assistance]]         |
-| Green          | [[Mend The Soul\|Mend the Soul]] |
-| Void           | [[Void Embrace]]                 |
+| Specialization | Triggered Action     |
+| -------------- | -------------------- |
+| Earth          | Earthen Force        |
+| Fire           | Explosive Assistance |
+| Green          | Mend the Soul        |
+| Void           | Void Embrace         |

@@ -18,7 +18,7 @@ target: 1 creature or object
 
 # Hurl Element
 
-You gain the following ability, which can be used as a ranged [[Free Strike|free strike]]:
+You gain the following ability, which can be used as a ranged free strike:
 
 ## Hurl Element
 

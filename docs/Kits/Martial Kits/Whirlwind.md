@@ -28,7 +28,7 @@ You wear no armor and wield a whip.
 - Speed Bonus: +3
 - Melee Weapon Damage Bonus: +1/+1/+1
 - Reach Bonus: +1
-- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
+- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
 ## Signature Ability
 

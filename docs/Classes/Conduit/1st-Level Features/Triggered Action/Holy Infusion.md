@@ -29,4 +29,4 @@ You invigorate an attacking ally with divine energy.
 
 **Effect**: The attack gains an edge and deals holy damage equal to twice your Intuition score.
 
-**Spend 1 [[Piety]]**: The attack has a double edge and deals holy damage equal to twice your Intuition score.
+**Spend 1 Piety**: The attack has a double edge and deals holy damage equal to twice your Intuition score.

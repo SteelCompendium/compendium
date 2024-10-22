@@ -10,7 +10,7 @@ kind: stormwight kits
 
 # Kit Features
 
-All [[Stormwight Kits|stormwight kits]] have the following features in common.
+All stormwight kits have the following features in common.
 
 [ASPECT BENEFITS](./Aspect%20Benefits.md)
 
@@ -18,7 +18,7 @@ All [[Stormwight Kits|stormwight kits]] have the following features in common.
 
 [PRIMORDIAL STORM](./Primordial%20Storm.md)
 
-[EQUIPMENT](./%5B%5BEquipment%5D%5D.md)
+[EQUIPMENT](./Equipment.md)
 
 [KIT BONUSES](./Kit%20Bonuses.md)
 

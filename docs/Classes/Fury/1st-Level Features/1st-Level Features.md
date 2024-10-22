@@ -10,11 +10,11 @@ kind: 1st-level features
 
 # 1st-level Features
 
-As a [[Fury|fury]], you gain the following features.
+As a fury, you gain the following features.
 
 [PRIMORDIAL ASPECT](./Primordial%20Aspect.md)
 
-[RAGE](./%5B%5BRage%5D%5D.md)
+[RAGE](./Rage.md)
 
 [GROWING RAGE](./Growing%20Rage.md)
 
@@ -26,4 +26,4 @@ As a [[Fury|fury]], you gain the following features.
 
 [ASPECT TRIGGERED ACTION](./Aspect%20Triggered%20Action/Aspect%20Triggered%20Action.md)
 
-[FURY ABILITIES](./%5B%5BFury%5D%5D%20Abilities/%5B%5BFury%5D%5D%20Abilities.md)
+[FURY ABILITIES](./Fury%20Abilities/Fury%20Abilities.md)

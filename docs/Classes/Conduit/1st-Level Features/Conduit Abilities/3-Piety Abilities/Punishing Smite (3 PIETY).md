@@ -19,7 +19,7 @@ target: 1 creature or object
 
 # Punishing Smite (3 Piety)
 
-Your divine [[Fury|fury]] is a hammer that crashes down upon the unrighteous.
+Your divine fury is a hammer that crashes down upon the unrighteous.
 
 |                                     |                                  |
 | :---------------------------------- | :------------------------------- |
@@ -29,5 +29,5 @@ Your divine [[Fury|fury]] is a hammer that crashes down upon the unrighteous.
 **Power Roll + Intuition**:
 
 - 11 or lower: 6 holy damage
-- 12–16: 8 holy damage; [[Prone|prone]]
-- 17+: 13 holy damage; [[Prone|prone]] and can't stand (EoT)
+- 12–16: 8 holy damage; prone
+- 17+: 13 holy damage; prone and can't stand (EoT)

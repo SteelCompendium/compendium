@@ -13,4 +13,4 @@ kind: stormwight kits
 - **Stamina Bonus:** +9
 - **Speed Bonus:** +2
 - **Melee Weapon Damage Bonus:** +2/+2/+2
-- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
+- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.

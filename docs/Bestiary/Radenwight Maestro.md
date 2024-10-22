@@ -24,7 +24,7 @@
 - ★ 12–16: 5 sonic damage; slide 3; the maestro can shift 3 squares
 - ✸ 17+: 7 sonic damage; slide 5; the maestro can shift 5 squares
 
-Effect: Each of the maestro's allies can use Ready Rodent as a free [[Triggered Action|triggered action]] once before the end of the round.
+Effect: Each of the maestro's allies can use Ready Rodent as a free triggered action once before the end of the round.
 
 **Tempo Change (PRS RR)**
 
@@ -35,10 +35,10 @@ Effect: Each of the maestro's allies can use Ready Rodent as a free [[Triggered 
 
 **Ranged Ready Rodent**
 
-|                         |                            |
-| :---------------------- | :------------------------- |
-| Keywords: Magic, Ranged | Type: [[Triggered Action]] |
-| Distance: Ranged 10     | Target: One creature       |
+|                         |                        |
+| :---------------------- | :--------------------- |
+| Keywords: Magic, Ranged | Type: Triggered Action |
+| Distance: Ranged 10     | Target: One creature   |
 
 Trigger: An ally deals damage to the target.
 
@@ -69,7 +69,7 @@ Effect: Until the end of their next turn, the target's stamina can't be reduced 
 | Keywords: Area     | Type: Villain Action 3 |
 | Distance: 10 burst | Target: Each dead ally |
 
-Effect: Each target stands, makes a [[Free Strike|free strike]], then collapses again. Allies of the targets can use Ready Rodent as a free [[Triggered Action|triggered action]] once in conjunction with these [[Free Strike|free strikes]].
+Effect: Each target stands, makes a [[Free Strike|free strike]], then collapses again. Allies of the targets can use Ready Rodent as a free triggered action once in conjunction with these [[Free Strike|free strikes]].
 
 **End Effect**
 

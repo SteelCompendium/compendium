@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # Death Domain Effect
 
-Two enemies of your choice within 10 squares of you take corruption damage equal to 5 + your [[Conduit|conduit]] level.
+Two enemies of your choice within 10 squares of you take corruption damage equal to 5 + your conduit level.

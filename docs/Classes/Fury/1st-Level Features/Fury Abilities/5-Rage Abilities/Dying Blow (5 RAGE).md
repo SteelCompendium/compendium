@@ -19,7 +19,7 @@ target: 1 creature
 
 # Dying Blow (5 Rage)
 
-You [[Focus|focus]] your [[Rage|rage]] into a single devastating strike.
+You focus your rage into a single devastating strike.
 
 |                                     |                        |
 | :---------------------------------- | :--------------------- |
@@ -32,4 +32,4 @@ You [[Focus|focus]] your [[Rage|rage]] into a single devastating strike.
 - 12–16: 13 damage
 - 17+: 21 damage
 
-**Spend 1 or More Additional [[Rage]]:** If you are winded, you can add 1d6 damage for each [[Rage|rage]] spent. If you are dying, you can add 1d10 damage for each [[Rage|rage]] spent. In either case, you then lose 1d6 Stamina.
+**Spend 1 or More Additional Rage:** If you are winded, you can add 1d6 damage for each rage spent. If you are dying, you can add 1d10 damage for each rage spent. In either case, you then lose 1d6 Stamina.

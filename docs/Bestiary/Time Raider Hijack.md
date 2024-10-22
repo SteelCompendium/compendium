@@ -1,11 +1,11 @@
 #### TIME RAIDER HIJACK
 
-| [[Raider]]\[\[Time [[Raider]]\|TIME RAIDER\]\] HIJACK |       **Level 3 Ambusher** |
-| :---------------------------------------------------- | -------------------------: |
-| *Humanoid, [[Time Raider]]*                           |                  **EV 20** |
-| **Stamina**: 50                                       |              **Weakness**: |
-| **Speed**: 6                                          | **Size**: 1M / Stability 0 |
-|                                                       |     **[[Free Strike]]**: 5 |
+| [[Time Raider\|TIME RAIDER]] HIJACK |       **Level 3 Ambusher** |
+| :---------------------------------- | -------------------------: |
+| *Humanoid, [[Time Raider]]*         |                  **EV 20** |
+| **Stamina**: 50                     |              **Weakness**: |
+| **Speed**: 6                        | **Size**: 1M / Stability 0 |
+|                                     |     **[[Free Strike]]**: 5 |
 
 | **Might** 0 | **Agility** +2 | **Reason** +2 | **Intuition** +2 | **Presence** +1 |
 | ----------- | -------------- | ------------- | ---------------- | --------------- |

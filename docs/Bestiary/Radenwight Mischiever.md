@@ -28,10 +28,10 @@ Effect: If the mischiever is hidden when they use this ability, they can target 
 
 **Ready Rodent**
 
-|                         |                            |
-| :---------------------- | :------------------------- |
-| Keywords: Melee, Weapon | Type: [[Triggered Action]] |
-| Distance: Reach 1       | Target: One creature       |
+|                         |                        |
+| :---------------------- | :--------------------- |
+| Keywords: Melee, Weapon | Type: Triggered Action |
+| Distance: Reach 1       | Target: One creature   |
 
 Trigger: An ally deals damage to the target.
 

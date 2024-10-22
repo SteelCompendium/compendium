@@ -10,11 +10,11 @@ kind: 1st-level features
 
 # 1st-level Features
 
-As an [[Elementalist|elementalist]], you gain the following features.
+As an elementalist, you gain the following features.
 
 [ELEMENTAL SPECIALIZATION](./Elemental%20Specialization.md)
 
-[ESSENCE](./%5B%5BEssence%5D%5D.md)
+[ESSENCE](./Essence.md)
 
 [HURL ELEMENT](./Hurl%20Element.md)
 
@@ -26,4 +26,4 @@ As an [[Elementalist|elementalist]], you gain the following features.
 
 [SPECIALIZATION TRIGGERED ACTION](./Specialization%20Triggered%20Action/Specialization%20Triggered%20Action.md)
 
-[ELEMENTALIST ABILITIES](./%5B%5BElementalist%5D%5D%20Abilities/%5B%5BElementalist%5D%5D%20Abilities.md)
+[ELEMENTALIST ABILITIES](./Elementalist%20Abilities/Elementalist%20Abilities.md)

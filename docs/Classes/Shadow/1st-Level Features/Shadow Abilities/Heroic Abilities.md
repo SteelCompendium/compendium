@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # Heroic Abilities
 
-A range of heroic abilities define your combat prowess, all of which make use of your [[Insight|insight]].
+A range of heroic abilities define your combat prowess, all of which make use of your insight.

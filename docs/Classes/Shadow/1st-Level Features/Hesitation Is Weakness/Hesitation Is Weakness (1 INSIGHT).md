@@ -20,10 +20,10 @@ trigger: Another hero ends their turn.
 
 Waiting for your enemies to act was never your style.
 
-|                    |                                                       |
-| :----------------- | :---------------------------------------------------- |
-| **Keywords:** —    | **Type:** Free [[Triggered Action\|triggered action]] |
-| **Distance:** Self | **Target:** Self                                      |
+|                    |                                 |
+| :----------------- | :------------------------------ |
+| **Keywords:** —    | **Type:** Free triggered action |
+| **Distance:** Self | **Target:** Self                |
 
 - **Trigger:** Another hero ends their turn.
 

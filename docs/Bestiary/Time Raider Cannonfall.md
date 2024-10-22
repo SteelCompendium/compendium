@@ -1,11 +1,11 @@
 #### TIME RAIDER CANNONFALL
 
-| [[Raider]]\[\[Time [[Raider]]\|TIME RAIDER\]\] CANNONFALL |      **Level 3 Artillery** |
-| :-------------------------------------------------------- | -------------------------: |
-| *Humanoid, [[Time Raider]]*                               |                  **EV 18** |
-| **Stamina**: 40                                           |              **Weakness**: |
-| **Speed**: 5                                              | **Size**: 1L / Stability 3 |
-|                                                           |     **[[Free Strike]]**: 5 |
+| [[Time Raider\|TIME RAIDER]] CANNONFALL |      **Level 3 Artillery** |
+| :-------------------------------------- | -------------------------: |
+| *Humanoid, [[Time Raider]]*             |                  **EV 18** |
+| **Stamina**: 40                         |              **Weakness**: |
+| **Speed**: 5                            | **Size**: 1L / Stability 3 |
+|                                         |     **[[Free Strike]]**: 5 |
 
 | **Might** 0 | **Agility** +2 | **Reason** +2 | **Intuition** | **Presence** 0 |
 | ----------- | -------------- | ------------- | ------------- | -------------- |
@@ -28,10 +28,10 @@ Effect: A layer of ground or floor beneath the area that is 1 square deep is des
 
 **Buss Buffer**
 
-|                         |                            |
-| :---------------------- | :------------------------- |
-| Keywords: Area, Psionic | Type: [[Triggered Action]] |
-| Distance: 5 burst       | Target: Each ally          |
+|                         |                        |
+| :---------------------- | :--------------------- |
+| Keywords: Area, Psionic | Type: Triggered Action |
+| Distance: 5 burst       | Target: Each ally      |
 
 ****Trigger****
 A creature damages the cannonfall with a ranged ability.

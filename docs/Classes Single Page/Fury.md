@@ -18,9 +18,9 @@ trigger: You are targeted by a damaging area of effect.
 
 # Fury
 
-You do not temper the heat of battle within you, you unleash it! Like a raptor, a [[Panther|panther]], a wolf, your experience in the wild taught you the secret of channeling unfettered anger into martial prowess. Primordial chaos is your ally. Leave it to others to use finesse to clean up the pieces you leave behind.
+You do not temper the heat of battle within you, you unleash it! Like a raptor, a panther, a wolf, your experience in the wild taught you the secret of channeling unfettered anger into martial prowess. Primordial chaos is your ally. Leave it to others to use finesse to clean up the pieces you leave behind.
 
-As a fury, you have abilities that deal a lot of damage, move you around the battlefield, and grow in strength as your [[Rage|rage]] increases. Nature has no concept of fairness—and neither do you.
+As a fury, you have abilities that deal a lot of damage, move you around the battlefield, and grow in strength as your rage increases. Nature has no concept of fairness—and neither do you.
 
 ## Basics
 
@@ -35,11 +35,11 @@ As a fury, you have abilities that deal a lot of damage, move you around the bat
 
 ## Fury Advancement
 
-| Level | Features                                                                                                                              | Abilities                      |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| 1st   | [[Primordial Aspect]], [[Rage]], [[Growing Rage]], [[Mighty Leaps]], Aspect Features, [[Aspect Triggered Action]], [[Fury Abilities]] | Signature, 3, 5                |
-| 2nd   | Aspect Feature, Aspect Ability                                                                                                        | Signature, 3, 5, 5 (Aspect)    |
-| 3rd   | Aspect Feature, 7-[[Rage]] Ability                                                                                                    | Signature, 3, 5, 5 (Aspect), 7 |
+| Level | Features                                                                                                      | Abilities                      |
+| ----- | ------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| 1st   | Primordial Aspect, Rage, Growing Rage, Mighty Leaps, Aspect Features, Aspect Triggered Action, Fury Abilities | Signature, 3, 5                |
+| 2nd   | Aspect Feature, Aspect Ability                                                                                | Signature, 3, 5, 5 (Aspect)    |
+| 3rd   | Aspect Feature, 7-Rage Ability                                                                                | Signature, 3, 5, 5 (Aspect), 7 |
 
 ## 1st-level Features
 
@@ -47,47 +47,47 @@ As a fury, you gain the following features.
 
 ### Primordial Aspect
 
-You come from a tradition older than civilization, older than warfare, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and which left an aspect of the Primordial Chaos inside you. As you channel the [[Rage|rage]] that shapes you, you can choose a [[Primordial Aspect|primordial aspect]] from the following:
+You come from a tradition older than civilization, older than warfare, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape—the Primordial Chaos—and which left an aspect of the Primordial Chaos inside you. As you channel the rage that shapes you, you can choose a primordial aspect from the following:
 
-- **Berserker:** You channel your [[Rage|rage]] into expressions of physical might, acting as a living version of the forces that reshape the world. You gain the Lift skill.
-- **Reaver:** You channel your [[Rage|rage]] into instinct and cunning, challenging the false order of civilization. You gain the [[Hide]] skill.
-- **Stormwight:** You channel your [[Rage|rage]] into the form of animals and [[Primordial Storm|primordial storms]]. You gain the Track skill.
+- **Berserker:** You channel your rage into expressions of physical might, acting as a living version of the forces that reshape the world. You gain the Lift skill.
+- **Reaver:** You channel your rage into instinct and cunning, challenging the false order of civilization. You gain the Hide skill.
+- **Stormwight:** You channel your rage into the form of animals and primordial storms. You gain the Track skill.
 
-Your choice of [[Primordial Aspect|primordial aspect]] determines many of the features you'll gain from this class.
+Your choice of primordial aspect determines many of the features you'll gain from this class.
 
 ### Rage
 
-As the battle intensifies around you, your determination and anger grow, fueling a Heroic Resource called [[Rage|rage]].
+As the battle intensifies around you, your determination and anger grow, fueling a Heroic Resource called rage.
 
-Outside of combat and other dangerous situations tracked in turns and rounds, you have fury equal to your Victories. If you lose some or all of this [[Rage|rage]] outside of combat, it takes you 1 minute to regain it.
+Outside of combat and other dangerous situations tracked in turns and rounds, you have fury equal to your Victories. If you lose some or all of this rage outside of combat, it takes you 1 minute to regain it.
 
-When a combat encounter begins, you keep any [[Rage|rage]] you had outside of combat. At the start of each of your turns during combat, you gain 1d3 [[Rage|rage]]. When combat ends, you once again have [[Rage|rage]] equal to your Victories.
+When a combat encounter begins, you keep any rage you had outside of combat. At the start of each of your turns during combat, you gain 1d3 rage. When combat ends, you once again have rage equal to your Victories.
 
 ### Growing Rage
 
-You gain certain benefits in combat based on the amount of [[Rage|rage]] you have. See Aspect Features for details. The benefits from your [[Growing Rage|growing rage]] last until the end of your turn, even if a benefit would become unavailable to you because of the amount of [[Rage|rage]] you spend during your turn.
+You gain certain benefits in combat based on the amount of rage you have. See Aspect Features for details. The benefits from your growing rage last until the end of your turn, even if a benefit would become unavailable to you because of the amount of rage you spend during your turn.
 
 ### Mighty Leaps
 
-You always succeed on Might tests made to [[Jump|jump]]. You can still roll to see if you get a reward result.
+You always succeed on Might tests made to jump. You can still roll to see if you get a reward result.
 
 ### 1st-level Aspect Features
 
-Your chosen [[Primordial Aspect|primordial aspect]] grants you features as shown on the [[Primordial Aspect]]\[\[1st-Level [[Primordial Aspect]] Features\]\] table.
+Your chosen primordial aspect grants you features as shown on the 1st-Level Primordial Aspect Features table.
 
 #### 1st-level Primordial Aspect Features
 
-| Aspect     | Feature                                     |
-| ---------- | ------------------------------------------- |
-| Berserker  | [[Primordial Strength]]                     |
-| Reaver     | [[Primordial Cunning]]                      |
-| Stormwight | [[Primordial Shape]], [[Relentless Hunter]] |
+| Aspect     | Feature                             |
+| ---------- | ----------------------------------- |
+| Berserker  | Primordial Strength                 |
+| Reaver     | Primordial Cunning                  |
+| Stormwight | Primordial Shape, Relentless Hunter |
 
 #### Primordial Cunning
 
-You are never surprised. Additionally, whenever you would push a target with [[Forced Movement|forced movement]], you can slide them instead.
+You are never surprised. Additionally, whenever you would push a target with forced movement, you can slide them instead.
 
-As your [[Rage|rage]] grows, your [[Primordial Cunning|primordial cunning]] intensifies. These benefits are cumulative.
+As your rage grows, your primordial cunning intensifies. These benefits are cumulative.
 
 ##### Primordial Cunning Growing Rage
 
@@ -98,7 +98,7 @@ As your [[Rage|rage]] grows, your [[Primordial Cunning|primordial cunning]] inte
 </colgroup>
 <thead>
 <tr class="header">
-<th><strong>[[Rage]]</strong></th>
+<th><strong>Rage</strong></th>
 <th><strong>Benefit</strong></th>
 </tr>
 </thead>
@@ -121,13 +121,13 @@ As your [[Rage|rage]] grows, your [[Primordial Cunning|primordial cunning]] inte
 
 ### Primordial Shape
 
-When you select a martial kit, you can instead select a [[Stormwight Kits|stormwight kit]] (see [[Stormwight Kits]]). Your [[Stormwight Kits|stormwight kit]] grants you a number of benefits, including effects tied to your [[Growing Rage]] feature.
+When you select a martial kit, you can instead select a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including effects tied to your Growing Rage feature.
 
 #### Primordial Strength
 
 When you damage an object with a weapon attack, it takes an additional 5 damage. Additionally, whenever you push another creature, you can make it a vertical push.
 
-As your [[Rage|rage]] grows, your [[Primordial Strength|primordial strength]] intensifies. These benefits are cumulative.
+As your rage grows, your primordial strength intensifies. These benefits are cumulative.
 
 ##### Primordial Strength Growing Rage
 
@@ -138,7 +138,7 @@ As your [[Rage|rage]] grows, your [[Primordial Strength|primordial strength]] in
 </colgroup>
 <thead>
 <tr class="header">
-<th><strong>[[Rage]]</strong></th>
+<th><strong>Rage</strong></th>
 <th><strong>Benefit</strong></th>
 </tr>
 </thead>
@@ -165,15 +165,15 @@ You gain an edge on tests that use the Track skill.
 
 ### Aspect Triggered Action
 
-Your [[Primordial Aspect|primordial aspect]] grants you a [[Triggered Action|triggered action]], as shown on the [[Fury Triggered Actions]] table.
+Your primordial aspect grants you a triggered action, as shown on the Fury Triggered Actions table.
 
 #### Fury Triggered Actions
 
-| **Aspect** | **[[Triggered Action]]** |
-| ---------- | ------------------------ |
-| Berserker  | [[Relentless Toss]]      |
-| Reaver     | [[Uncanny Dodge]]        |
-| Stormwight | [[Regeneration]]         |
+| **Aspect** | **Triggered Action** |
+| ---------- | -------------------- |
+| Berserker  | Relentless Toss      |
+| Reaver     | Uncanny Dodge        |
+| Stormwight | Regeneration         |
 
 #### Regeneration
 
@@ -186,9 +186,9 @@ Your transformative abilities bring you back into the fight.
 
 - **Trigger:** You lose Stamina and are not dying.
 
-**Effect:** After damage is resolved, if your [[Rage|rage]] is high enough, you can enter your animal or hybrid form as a free [[Triggered Action|triggered action]]. If you can't gain the temporary Stamina from that form because you have already done so this encounter, you gain temporary Stamina equal to your Might.
+**Effect:** After damage is resolved, if your rage is high enough, you can enter your animal or hybrid form as a free triggered action. If you can't gain the temporary Stamina from that form because you have already done so this encounter, you gain temporary Stamina equal to your Might.
 
-**Spend 1 [[Rage]]:** If you are not dying, you can spend a Recovery.
+**Spend 1 Rage:** If you are not dying, you can spend a Recovery.
 
 #### Relentless Toss
 
@@ -196,9 +196,9 @@ The Primordial Chaos allows you to redirect kinetic energy for a monstrous smash
 
 - **Trigger:** The target is force moved.
 
-**Effect:** You can select a new target of the same size or smaller within distance to be force moved instead. Additionally, you can increase the forced move distance by a number of squares equal to your Might score. You can use your [[Primordial Strength]] benefit to make this [[Forced Movement|forced movement]] vertical.
+**Effect:** You can select a new target of the same size or smaller within distance to be force moved instead. Additionally, you can increase the forced move distance by a number of squares equal to your Might score. You can use your Primordial Strength benefit to make this forced movement vertical.
 
-**Spend 1 [[Rage]]:** You can increase the forced move distance by a number of squares equal to twice your Might score instead.
+**Spend 1 Rage:** You can increase the forced move distance by a number of squares equal to twice your Might score instead.
 
 #### Uncanny Dodge
 
@@ -208,7 +208,7 @@ When a damaging effect surrounds you, you stay two steps ahead.
 
 **Effect:** You shift up to 2 squares. If that moves you out of the area of effect, you ignore the attack. Otherwise, you take half damage.
 
-**Spend 1 [[Rage]]:** You move a willing adjacent ally affected by the attack with you, applying the same outcome to them.
+**Spend 1 Rage:** You move a willing adjacent ally affected by the attack with you, applying the same outcome to them.
 
 ### Fury Abilities
 
@@ -216,7 +216,7 @@ You specialize in dealing massive damage on the battlefield, mastering a number 
 
 #### Signature Ability
 
-Select one [[Signature Ability|signature ability]] from the options below. Signature abilities can be used at will.
+Select one signature ability from the options below. Signature abilities can be used at will.
 
 ##### Brutal Slam
 
@@ -236,7 +236,7 @@ Keeping in constant motion helps you slip out of reach after a brutal assault.
 
 - 11 or lower: 3 damage
 - 12–16: 8 damage
-- 17+: 12 damage; [[Slowed|slowed]] (EoT)
+- 17+: 12 damage; slowed (EoT)
 
 **Effect:** You can shift 1 square after the attack is resolved.
 
@@ -258,19 +258,19 @@ Fighting up close lets you keep your foe exactly where you want them.
 
 **Power Roll + Might:**
 
-- 11 or lower: 3 damage; [[Slowed|slowed]] (EoT)
-- 12–16: 8 damage; [[Grabbed|grabbed]]
-- 17+: 12 damage; [[Grabbed|grabbed]]
+- 11 or lower: 3 damage; slowed (EoT)
+- 12–16: 8 damage; grabbed
+- 17+: 12 damage; grabbed
 
-**Effect:** If the target is [[Grabbed|grabbed]], they take a bane on attempts to escape the [[Grab|grab]]. If you move while you have the target [[Grabbed|grabbed]], they take 1 damage for each square you move.
+**Effect:** If the target is grabbed, they take a bane on attempts to escape the grab. If you move while you have the target grabbed, they take 1 damage for each square you move.
 
 #### Heroic Abilities
 
-You fight with an array of [[Heroic Abilities|heroic abilities]], all of which cost [[Rage|rage]] to fuel them.
+You fight with an array of heroic abilities, all of which cost rage to fuel them.
 
 #### 3-rage Abilities
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 3 [[Rage|rage]] to use.
+Choose one heroic ability from the following options, each of which costs 3 rage to use.
 
 ##### Death Before Beauty (3 Rage)
 
@@ -282,13 +282,13 @@ Your enemies will get out of your way—whether they want to or not.
 - 12–16: 5 damage; slide 3
 - 17+: 8 damage; slide 5
 
-**Effect:** When you force move the target, you can move into squares they leave. The target takes the damage from any [[Free Strike|free strikes]] you provoke with this movement.
+**Effect:** When you force move the target, you can move into squares they leave. The target takes the damage from any free strikes you provoke with this movement.
 
 ##### Stab Me So I Can Pull Myself Closer To You (3 Rage)
 
 When you barrel through your foes, they feel your wrath.
 
-**Effect:** Move up to your speed in a straight line toward a creature or object. You don't treat enemy creatures as [[Difficult Terrain|difficult terrain]] for this move. If the target is a creature, you can end your movement in the target's square, moving them to an adjacent open square. Make a power roll against the target and every enemy you moved through.
+**Effect:** Move up to your speed in a straight line toward a creature or object. You don't treat enemy creatures as difficult terrain for this move. If the target is a creature, you can end your movement in the target's square, moving them to an adjacent open square. Make a power roll against the target and every enemy you moved through.
 
 **Power Roll + Might:**
 
@@ -296,7 +296,7 @@ When you barrel through your foes, they feel your wrath.
 - 12–16: 6 damage
 - 17+: 9 damage
 
-**Effect:** The target takes an extra 1d6 damage for every [[Free Strike|free strike]] you triggered from your move.
+**Effect:** The target takes an extra 1d6 damage for every free strike you triggered from your move.
 
 ##### Whirlwind Strike (3 Rage)
 
@@ -314,15 +314,15 @@ Unless they get some help, your foe is finished.
 
 **Power Roll + Might:**
 
-- 11 or lower: 6 damage; [[Slowed|slowed]] (EoT)
-- 12–16: 9 damage; [[Slowed|slowed]] (EoT)
-- 17+: 14 damage; [[Slowed|slowed]] (EoE)
+- 11 or lower: 6 damage; slowed (EoT)
+- 12–16: 9 damage; slowed (EoT)
+- 17+: 14 damage; slowed (EoE)
 
-**Effect:** While [[Slowed|slowed]] in this way, the target takes an extra 3 damage at the start of each of your turns.
+**Effect:** While slowed in this way, the target takes an extra 3 damage at the start of each of your turns.
 
 #### 5-rage Abilities
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 5 [[Rage|rage]] to use.
+Choose one heroic ability from the following options, each of which costs 5 rage to use.
 
 ##### Blood For Blood! (5 Rage)
 
@@ -330,9 +330,9 @@ A mighty strike leaves your foe reeling.
 
 **Power Roll + Might:**
 
-- 11 or lower: 7 damage; [[Weakened|weakened]] and [[Bleeding|bleeding]] (EoT)
-- 12–16: 11 damage; [[Weakened|weakened]] and [[Bleeding|bleeding]] (EoT)
-- 17+: 17 damage; [[Weakened|weakened]] and [[Bleeding|bleeding]] (EoE)
+- 11 or lower: 7 damage; weakened and bleeding (EoT)
+- 12–16: 11 damage; weakened and bleeding (EoT)
+- 17+: 17 damage; weakened and bleeding (EoE)
 
 **Effect:** You can choose to deal 1d6 damage to yourself to deal an extra 2d6 damage to the target.
 
@@ -344,7 +344,7 @@ You can always trust your anger to get the job done.
 
 ##### Dying Blow (5 Rage)
 
-You [[Focus|focus]] your [[Rage|rage]] into a single devastating strike.
+You focus your rage into a single devastating strike.
 
 **Power Roll + Might:**
 
@@ -352,7 +352,7 @@ You [[Focus|focus]] your [[Rage|rage]] into a single devastating strike.
 - 12–16: 13 damage
 - 17+: 21 damage
 
-**Spend 1 or More Additional [[Rage]]:** If you are winded, you can add 1d6 damage for each [[Rage|rage]] spent. If you are dying, you can add 1d10 damage for each [[Rage|rage]] spent. In either case, you then lose 1d6 Stamina.
+**Spend 1 or More Additional Rage:** If you are winded, you can add 1d6 damage for each rage spent. If you are dying, you can add 1d10 damage for each rage spent. In either case, you then lose 1d6 Stamina.
 
 ##### Primordial Shockwave (5 Rage)
 
@@ -368,55 +368,55 @@ The destructive power of nature cannot be contained.
 
 ## Stormwight Kits
 
-The [[Primordial Aspect|primordial aspect]] of the stormwight lets you channel your [[Rage|rage]] into the form of an animal and grants you knowledge of one of a number of special [[Stormwight Kits|stormwight kits]]. You can master additional [[Stormwight Kits|stormwight kits]] through play, swapping them out during a Respite as with any other kit. (See Kits.)
+The primordial aspect of the stormwight lets you channel your rage into the form of an animal and grants you knowledge of one of a number of special stormwight kits. You can master additional stormwight kits through play, swapping them out during a Respite as with any other kit. (See Kits.)
 
 ### Kit Features
 
-All [[Stormwight Kits|stormwight kits]] have the following features in common.
+All stormwight kits have the following features in common.
 
 #### Aspect Benefits
 
-You always have the noted benefits, whether in your true form, the [[Animal Form|animal form]] you can take at any time, or the hybrid form that some [[Stormwight Kits|stormwight kits]] grant you as your [[Rage|rage]] increases.
+You always have the noted benefits, whether in your true form, the animal form you can take at any time, or the hybrid form that some stormwight kits grant you as your rage increases.
 
 #### Animal Form
 
-You have some of the noted benefits all the time, but gain other benefits only while in [[Animal Form|animal form]], as noted on the table that tracks the benefits you gain from your [[Growing Rage]] feature for each [[Stormwight Kits|stormwight kit]].
+You have some of the noted benefits all the time, but gain other benefits only while in animal form, as noted on the table that tracks the benefits you gain from your Growing Rage feature for each stormwight kit.
 
-The [[Animal Form|animal form]] feature for each [[Stormwight Kits|stormwight kit]] grants you the following ability:
+The animal form feature for each stormwight kit grants you the following ability:
 
 ##### Animal Form
 
-You take on the form of the animal who channels your [[Rage|rage]].
+You take on the form of the animal who channels your rage.
 
-**Effect:** You can shapeshift into the animal defined by your [[Stormwight Kits|stormwight kit]] or back into your true form. While in [[Animal Form|animal form]], you can't use signature abilities or [[Heroic Abilities|heroic abilities]] unless they have the Animal keyword.
+**Effect:** You can shapeshift into the animal defined by your stormwight kit or back into your true form. While in animal form, you can't use signature abilities or heroic abilities unless they have the Animal keyword.
 
-Additionally, you can both speak normally and speak to animals who share your form. If negotiation with an animal comes into play, you treat your Renown as 2 higher than usual while in your [[Animal Form|animal form]].
+Additionally, you can both speak normally and speak to animals who share your form. If negotiation with an animal comes into play, you treat your Renown as 2 higher than usual while in your animal form.
 
-**Spend 1 [[Rage]]:** As a free maneuver on your turn, you can shapeshift a second time, either into another [[Animal Form|animal form]] or back into your true form.
+**Spend 1 Rage:** As a free maneuver on your turn, you can shapeshift a second time, either into another animal form or back into your true form.
 
 #### Primordial Storm
 
-Each stormwight is associated with a [[Primordial Storm|primordial storm]] that refers to a specific damage type used by certain stormwight abilities.
+Each stormwight is associated with a primordial storm that refers to a specific damage type used by certain stormwight abilities.
 
 #### Equipment
 
-You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your [[Rage|rage]] grows.
+You wear no armor and wield only your unarmed strikes—which become devastating natural weapons as your rage grows.
 
 #### Kit Bonuses
 
-These bonuses apply in your true form, your [[Animal Form|animal form]], and your hybrid form if you have one.
+These bonuses apply in your true form, your animal form, and your hybrid form if you have one.
 
 #### Growing Rage
 
-Each stormwight gains a specific set of benefits for their fury [[Growing Rage]] feature, as noted in the table for each [[Stormwight Kits|stormwight kit]]. These benefits are cumulative.
+Each stormwight gains a specific set of benefits for their fury Growing Rage feature, as noted in the table for each stormwight kit. These benefits are cumulative.
 
 ### Boren
 
-With this [[Stormwight Kits|stormwight kit]], you channel your primordial [[Rage|rage]] into the form of a bear, becoming large, durable, and imposing. [[Boren]] are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
+With this stormwight kit, you channel your primordial rage into the form of a bear, becoming large, durable, and imposing. Boren are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
 
 #### Aspect Benefits
 
-Whenever you use [[Forced Movement|forced movement]] to push a creature, you can pull that creature instead. Whenever an attack pulls a creature adjacent to you, you can attempt to [[Grab|grab]] that creature as a free [[Triggered Action|triggered action]].
+Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever an attack pulls a creature adjacent to you, you can attempt to grab that creature as a free triggered action.
 
 #### Animal Form: Bear
 
@@ -453,40 +453,40 @@ Attacks with your sharp and deadly claws send your foes staggering back.
 </colgroup>
 <thead>
 <tr class="header">
-<th><strong>[[Rage]]</strong></th>
+<th><strong>Rage</strong></th>
 <th><strong>Benefit</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>2</td>
-<td>• You gain an edge on Might tests, resistance rolls, and power rolls made to [[Grab|grab]].<br />
-• While in bear form, your attacks deal extra damage equal to your Might score, and any target you have [[Grabbed|grabbed]] at the start of your turn takes damage equal to your Might score.</td>
+<td>• You gain an edge on Might tests, resistance rolls, and power rolls made to grab.<br />
+• While in bear form, your attacks deal extra damage equal to your Might score, and any target you have grabbed at the start of your turn takes damage equal to your Might score.</td>
 </tr>
 <tr class="even">
 <td>4</td>
-<td>While in bear form, you can use all your abilities, your attacks deal extra damage equal to twice your Might score, and any target you have [[Grabbed|grabbed]] at the start of your turn takes damage equal to twice your Might score, instead of once your Might score.</td>
+<td>While in bear form, you can use all your abilities, your attacks deal extra damage equal to twice your Might score, and any target you have grabbed at the start of your turn takes damage equal to twice your Might score, instead of once your Might score.</td>
 </tr>
 <tr class="odd">
 <td>6</td>
-<td>You have a double edge on Might tests, resistance rolls, and power rolls made with the [[Grab]] ability.</td>
+<td>You have a double edge on Might tests, resistance rolls, and power rolls made with the Grab ability.</td>
 </tr>
 </tbody>
 </table>
 
 ### Corven
 
-With this [[Stormwight Kits|stormwight kit]], you channel your primordial [[Rage|rage]] into the form of a crow. [[Corven]] are tied to the [[Mountain|mountain]] passes and the hot winds that flow through them. This aspect is associated with the katabatic wind.
+With this stormwight kit, you channel your primordial rage into the form of a crow. Corven are tied to the mountain passes and the hot winds that flow through them. This aspect is associated with the katabatic wind.
 
 #### Aspect Benefits
 
-You gain an edge on tests made to [[Hide|hide]] and sneak. Whenever you are falling, you can use your [[Animal Form]] ability as a free [[Triggered Action|triggered action]].
+You gain an edge on tests made to hide and sneak. Whenever you are falling, you can use your Animal Form ability as a free triggered action.
 
 #### Animal Form: Crow
 
-When you are in your crow form, your movement gains the [[Fly]] keyword, and your size becomes 1T. You can use the [[Hide]] maneuver as a free maneuver, and you can use your allies as cover when you [[Hide|hide]].
+When you are in your crow form, your movement gains the Fly keyword, and your size becomes 1T. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide.
 
-Whenever your [[Rage|rage]] is 4 or higher, you can shapeshift to become a hybrid bipedal crow of your true form's size. You gain 10 temporary Stamina the first time you shapeshift into hybrid crow form during an encounter.
+Whenever your rage is 4 or higher, you can shapeshift to become a hybrid bipedal crow of your true form's size. You gain 10 temporary Stamina the first time you shapeshift into hybrid crow form during an encounter.
 
 #### Primordial Storm: Katabatic Wind
 
@@ -497,7 +497,7 @@ Your primordial damage type is fire.
 - **Stamina Bonus:** +3
 - **Speed Bonus:** +3
 - **Melee Weapon Damage Bonus:** +2/+2/+2
-- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
+- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
 #### Signature Ability
 
@@ -522,7 +522,7 @@ Foes who try to close around you do so at their peril.
 </colgroup>
 <thead>
 <tr class="header">
-<th><strong>[[Rage]]</strong></th>
+<th><strong>Rage</strong></th>
 <th><strong>Benefit</strong></th>
 </tr>
 </thead>
@@ -547,17 +547,17 @@ Foes who try to close around you do so at their peril.
 
 ### Raden
 
-With this [[Stormwight Kits|stormwight kit]], you channel your primordial [[Rage|rage]] into the form of a rat. [[Raden]] are associated with the true nature of the rat, before cities became their habitat. Rats are avatars of the balance between green and rot, and this aspect is associated with the rat flood.
+With this stormwight kit, you channel your primordial rage into the form of a rat. Raden are associated with the true nature of the rat, before cities became their habitat. Rats are avatars of the balance between green and rot, and this aspect is associated with the rat flood.
 
 #### Aspect Benefits
 
-You gain an edge on tests made to [[Hide|hide]] and sneak. Additionally, you ignore [[Difficult Terrain|difficult terrain]], and you gain an edge on tests made to climb other creatures. If you are hidden, you automatically achieve a tier 3 result on attempts to climb and remain hidden.
+You gain an edge on tests made to hide and sneak. Additionally, you ignore difficult terrain, and you gain an edge on tests made to climb other creatures. If you are hidden, you automatically achieve a tier 3 result on attempts to climb and remain hidden.
 
 #### Animal Form: Rat
 
-When you are in your rat form, your movement gains the Climb keyword, and your size becomes 1T. You can use the [[Hide]] maneuver as a free maneuver, and you can use your allies as cover when hiding. You can stay hidden while moving through squares occupied by a creature.
+When you are in your rat form, your movement gains the Climb keyword, and your size becomes 1T. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when hiding. You can stay hidden while moving through squares occupied by a creature.
 
-Whenever your [[Rage|rage]] is 4 or higher, you can shapeshift to become a hybrid bipedal rat of your true form's size. You gain 10 temporary Stamina the first time you shapeshift into hybrid rat form during an encounter.
+Whenever your rage is 4 or higher, you can shapeshift to become a hybrid bipedal rat of your true form's size. You gain 10 temporary Stamina the first time you shapeshift into hybrid rat form during an encounter.
 
 #### Primordial Storm: Rat Flood
 
@@ -568,7 +568,7 @@ Your primordial damage type is corruption.
 - **Stamina Bonus:** +3
 - **Speed Bonus:** +3
 - **Melee Weapon Damage Bonus:** +2/+2/+2
-- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
+- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
 #### Signature Ability
 
@@ -593,7 +593,7 @@ Your enemies try in vain to fall back from your pouncing attack.
 </colgroup>
 <thead>
 <tr class="header">
-<th><strong>[[Rage]]</strong></th>
+<th><strong>Rage</strong></th>
 <th><strong>Benefit</strong></th>
 </tr>
 </thead>
@@ -602,7 +602,7 @@ Your enemies try in vain to fall back from your pouncing attack.
 <td>2</td>
 <td>• You have Weapon immunity 2.<br />
 • While in rat form, your attacks deal extra damage equal to your Agility score.<br />
-• While in rat form, if you attack a creature you are climbing, that creature is [[Bleeding|bleeding]] (EoT).</td>
+• While in rat form, if you attack a creature you are climbing, that creature is bleeding (EoT).</td>
 </tr>
 <tr class="even">
 <td>4</td>
@@ -617,7 +617,7 @@ Your enemies try in vain to fall back from your pouncing attack.
 
 ### Vuken
 
-With this [[Stormwight Kits|stormwight kit]], you channel your primordial [[Rage|rage]] into the form of a wolf. [[Vuken]] are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
+With this stormwight kit, you channel your primordial rage into the form of a wolf. Vuken are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
 
 #### Aspect Benefits
 
@@ -625,9 +625,9 @@ You and an ally gain the benefits of flanking whenever you are both adjacent to 
 
 #### Animal Form: Wolf
 
-When you are in your wolf form, your speed increases by 2, you ignore [[Difficult Terrain|difficult terrain]], and your size becomes 1M.
+When you are in your wolf form, your speed increases by 2, you ignore difficult terrain, and your size becomes 1M.
 
-Whenever your [[Rage|rage]] is 4 or higher, you can shapeshift to become a hybrid bipedal wolf of your true form's size. You gain 10 temporary Stamina the first time you shapeshift into hybrid wolf form during an encounter.
+Whenever your rage is 4 or higher, you can shapeshift to become a hybrid bipedal wolf of your true form's size. You gain 10 temporary Stamina the first time you shapeshift into hybrid wolf form during an encounter.
 
 #### Primordial Storm: Lightning Storm
 
@@ -638,7 +638,7 @@ Your primordial damage type is lightning.
 - **Stamina Bonus:** +9
 - **Speed Bonus:** +2
 - **Melee Weapon Damage Bonus:** +2/+2/+2
-- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
+- **Mobility:** When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
 #### Signature Ability
 
@@ -650,7 +650,7 @@ A savage assault forces your foes back.
 
 - 11 or lower: 5 damage
 - 12–16: 9 damage; push 1
-- 17+: 12 damage; push 2; [[Prone|prone]] if the target is your size or smaller
+- 17+: 12 damage; push 2; prone if the target is your size or smaller
 
 **Effect:** You can shift up to 2 squares as long as you end the shift adjacent to the target.
 
@@ -663,7 +663,7 @@ A savage assault forces your foes back.
 </colgroup>
 <thead>
 <tr class="header">
-<th><strong>[[Rage]]</strong></th>
+<th><strong>Rage</strong></th>
 <th><strong>Benefit</strong></th>
 </tr>
 </thead>

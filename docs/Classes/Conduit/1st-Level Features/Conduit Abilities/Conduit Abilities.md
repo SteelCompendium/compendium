@@ -16,6 +16,6 @@ Your training and faith let you specialize in magic that buffs your allies, debu
 
 [HEROIC ABILITIES](./Heroic%20Abilities.md)
 
-[[Piety|PIETY]]\[3-[[Piety|PIETY]] ABILITIES\](./3-[[Piety]]%20Abilities/3-[[Piety]]%20Abilities.md)
+[3-PIETY ABILITIES](./3-Piety%20Abilities/3-Piety%20Abilities.md)
 
-[[Piety|PIETY]]\[5-[[Piety|PIETY]] ABILITIES\](./5-[[Piety]]%20Abilities/5-[[Piety]]%20Abilities.md)
+[5-PIETY ABILITIES](./5-Piety%20Abilities/5-Piety%20Abilities.md)

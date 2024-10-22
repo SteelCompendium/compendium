@@ -19,4 +19,4 @@ kind: basics
 - **Recoveries**: 10
 - **Skills**: Choose any two skills from the interpersonal or lore skill groups.
 
-[CONDUIT ADVANCEMENT](./%5B%5BConduit%5D%5D%20Advancement.md)
+[CONDUIT ADVANCEMENT](./Conduit%20Advancement.md)

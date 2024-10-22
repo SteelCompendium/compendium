@@ -10,4 +10,4 @@ kind: stormwight kits
 
 # Kit Bonuses
 
-These bonuses apply in your true form, your [[Animal Form|animal form]], and your hybrid form if you have one.
+These bonuses apply in your true form, your animal form, and your hybrid form if you have one.

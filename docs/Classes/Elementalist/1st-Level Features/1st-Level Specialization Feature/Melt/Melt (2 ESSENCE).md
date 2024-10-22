@@ -26,6 +26,6 @@ With the merest touch, you cause an object to turn into slag or ash.
 | **Keywords:** Fire, Magic, Melee | **Type:** Action             |
 | **Distance:** Reach 1            | **Target:** 1 mundane object |
 
-**Effect**: You heat the target and cause it to combust and [[Melt|melt]]. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.
+**Effect**: You heat the target and cause it to combust and melt. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.
 
-**Spend No [[Essence]]**: You can use this ability without spending [[Essence|essence]]. If you do, you must spend 1 uninterrupted minute using the ability while touching the target before its effect occurs.
+**Spend No Essence**: You can use this ability without spending essence. If you do, you must spend 1 uninterrupted minute using the ability while touching the target before its effect occurs.

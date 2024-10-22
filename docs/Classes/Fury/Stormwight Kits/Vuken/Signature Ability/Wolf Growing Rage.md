@@ -17,7 +17,7 @@ kind: stormwight kits
 </colgroup>
 <thead>
 <tr class="header">
-<th><strong>[[Rage]]</strong></th>
+<th><strong>Rage</strong></th>
 <th><strong>Benefit</strong></th>
 </tr>
 </thead>

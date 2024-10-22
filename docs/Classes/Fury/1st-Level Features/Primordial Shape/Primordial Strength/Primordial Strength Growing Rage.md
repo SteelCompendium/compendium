@@ -17,7 +17,7 @@ kind: 1st-level features
 </colgroup>
 <thead>
 <tr class="header">
-<th><strong>[[Rage]]</strong></th>
+<th><strong>Rage</strong></th>
 <th><strong>Benefit</strong></th>
 </tr>
 </thead>

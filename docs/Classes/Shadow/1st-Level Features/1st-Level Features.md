@@ -10,11 +10,11 @@ kind: 1st-level features
 
 # 1st-level Features
 
-As a [[Shadow|shadow]], you gain the following features.
+As a shadow, you gain the following features.
 
-[SHADOW COLLEGE](./%5B%5BShadow%5D%5D%20College.md)
+[SHADOW COLLEGE](./Shadow%20College.md)
 
-[INSIGHT](./%5B%5BInsight%5D%5D.md)
+[INSIGHT](./Insight.md)
 
 [1ST-LEVEL COLLEGE FEATURES](./1st-Level%20College%20Features/1st-Level%20College%20Features.md)
 
@@ -22,4 +22,4 @@ As a [[Shadow|shadow]], you gain the following features.
 
 [HESITATION IS WEAKNESS](./Hesitation%20Is%20Weakness/Hesitation%20Is%20Weakness.md)
 
-[SHADOW ABILITIES](./%5B%5BShadow%5D%5D%20Abilities/%5B%5BShadow%5D%5D%20Abilities.md)
+[SHADOW ABILITIES](./Shadow%20Abilities/Shadow%20Abilities.md)

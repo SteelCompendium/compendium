@@ -10,8 +10,8 @@ kind: 1st-level features
 
 # Primordial Cunning
 
-You are never surprised. Additionally, whenever you would push a target with [[Forced Movement|forced movement]], you can slide them instead.
+You are never surprised. Additionally, whenever you would push a target with forced movement, you can slide them instead.
 
-As your [[Rage|rage]] grows, your primordial cunning intensifies. These benefits are cumulative.
+As your rage grows, your primordial cunning intensifies. These benefits are cumulative.
 
 [PRIMORDIAL CUNNING GROWING RAGE](./Primordial%20Cunning%20Growing%20Rage.md)

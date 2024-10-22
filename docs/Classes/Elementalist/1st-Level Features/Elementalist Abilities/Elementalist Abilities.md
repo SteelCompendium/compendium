@@ -16,6 +16,6 @@ Your mastery of elemental magic grants you unique magical abilities that let you
 
 [HEROIC ABILITIES](./Heroic%20Abilities.md)
 
-[[Essence|ESSENCE]]\[3-[[Essence|ESSENCE]] ABILITIES\](./3-[[Essence]]%20Abilities/3-[[Essence]]%20Abilities.md)
+[3-ESSENCE ABILITIES](./3-Essence%20Abilities/3-Essence%20Abilities.md)
 
-[[Essence|ESSENCE]]\[5-[[Essence|ESSENCE]] ABILITIES\](./5-[[Essence]]%20Abilities/5-[[Essence]]%20Abilities.md)
+[5-ESSENCE ABILITIES](./5-Essence%20Abilities/5-Essence%20Abilities.md)

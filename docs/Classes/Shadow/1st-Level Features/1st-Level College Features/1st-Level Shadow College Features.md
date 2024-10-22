@@ -10,8 +10,8 @@ kind: 1st-level features
 
 # 1st-level Shadow College Features
 
-| College         | Feature                                            |
-| --------------- | -------------------------------------------------- |
-| Black Ash       | [[Black Ash Teleport]]                             |
-| Caustic Alchemy | [[Coat The Blade\|Coat the Blade]], [[Smoke Bomb]] |
-| Harlequin Mask  | I'm On Your Side                                   |
+| College         | Feature                    |
+| --------------- | -------------------------- |
+| Black Ash       | Black Ash Teleport         |
+| Caustic Alchemy | Coat the Blade, Smoke Bomb |
+| Harlequin Mask  | I'm On Your Side           |

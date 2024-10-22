@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # Heroic Abilities
 
-Your heroic abilities cover a range of combat tactics, all of which require [[Focus|focus]] to use them.
+Your heroic abilities cover a range of combat tactics, all of which require focus to use them.

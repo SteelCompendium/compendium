@@ -32,4 +32,4 @@ The earth rises, falls, or opens at your command.
 
 **Alternative Effect**: You touch a doorway or other opening in a mundane dirt, stone, or metal surface that is no larger than 1 square. The opening is sealed by the same material that makes up the surface.
 
-**Spend No [[Essence]]**: You can use this ability without spending [[Essence|essence]]. If you do, you must spend 1 uninterrupted minute using the ability while within reach of the target before its effect occurs.
+**Spend No Essence**: You can use this ability without spending essence. If you do, you must spend 1 uninterrupted minute using the ability while within reach of the target before its effect occurs.

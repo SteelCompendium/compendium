@@ -10,12 +10,12 @@ kind: 1st-level features
 
 # 3-insight Abilities
 
-Choose one [[Heroic Abilities|heroic ability]] from the following options, each of which costs 3 [[Insight|insight]] to use.
+Choose one heroic ability from the following options, each of which costs 3 insight to use.
 
-[[Insight|INSIGHT]]\[BLADE DANCE (3 [[Insight|INSIGHT]])\](./Blade%20Dance%20(3%20INSIGHT).md)
+[BLADE DANCE (3 INSIGHT)](<./Blade%20Dance%20(3%20INSIGHT).md>)
 
-[[Insight|INSIGHT]]\[QUICK PURSUIT (3 [[Insight|INSIGHT]])\](./Quick%20Pursuit%20(3%20INSIGHT).md)
+[QUICK PURSUIT (3 INSIGHT)](<./Quick%20Pursuit%20(3%20INSIGHT).md>)
 
-[[Insight|INSIGHT]]\[TWO THROATS AT ONCE (3 [[Insight|INSIGHT]])\](./Two%20Throats%20At%20Once%20(3%20INSIGHT).md)
+[TWO THROATS AT ONCE (3 INSIGHT)](<./Two%20Throats%20At%20Once%20(3%20INSIGHT).md>)
 
-[[Insight|INSIGHT]]\[WOUNDING STRIKE (3 [[Insight|INSIGHT]])\](./Wounding%20Strike%20(3%20INSIGHT).md)
+[WOUNDING STRIKE (3 INSIGHT)](<./Wounding%20Strike%20(3%20INSIGHT).md>)

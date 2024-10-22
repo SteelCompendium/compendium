@@ -30,6 +30,6 @@ A savage assault forces your foes back.
 
 - 11 or lower: 5 damage
 - 12–16: 9 damage; push 1
-- 17+: 12 damage; push 2; [[Prone|prone]] if the target is your size or smaller
+- 17+: 12 damage; push 2; prone if the target is your size or smaller
 
 **Effect:** You can shift up to 2 squares as long as you end the shift adjacent to the target.

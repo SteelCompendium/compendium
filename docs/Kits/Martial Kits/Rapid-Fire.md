@@ -17,7 +17,7 @@ target: 2 creatures or objects
 
 # Rapid-fire
 
-The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique [[Focus|focuses]] on peppering foes at medium range.
+The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique focuses on peppering foes at medium range.
 
 ## Equipment
 
@@ -29,11 +29,11 @@ You wear light armor and wield a bow.
 - Speed Bonus: +1
 - Ranged Weapon Damage Bonus: +2/+2/+2
 - Weapon Distance Bonus: +7
-- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free [[Triggered Action|triggered action]].
+- Mobility: When an enemy ends their turn adjacent to you, you can shift up to 2 squares as a free triggered action.
 
 ## Signature Ability
 
-**Two Shot** When you fire two arrows back to back, both hit their [[Mark|mark]].
+**Two Shot** When you fire two arrows back to back, both hit their mark.
 
 |                                      |                                    |
 | :----------------------------------- | :--------------------------------- |

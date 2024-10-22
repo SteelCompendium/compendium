@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # Mighty Leaps
 
-You always succeed on Might tests made to [[Jump|jump]]. You can still roll to see if you get a reward result.
+You always succeed on Might tests made to jump. You can still roll to see if you get a reward result.

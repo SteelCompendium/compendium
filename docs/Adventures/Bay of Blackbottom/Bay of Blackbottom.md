@@ -17,11 +17,11 @@ What You Need to Play
 
 This adventure comes with a full set of pregenerated heroes:
 
-- **[[Conduit]]:** A priest who [[Heal|heals]] allies and smites enemies with divine power.
-- **[[Elementalist]]:** A mage who harnesses the elements of creation to devastate foes.
-- **[[Fury]]:** A warrior who can hit hard and soak up damage thanks to their [[Growing Rage|growing rage]] in battle.
-- **[[Shadow]]:** A sneaky assassin who [[Teleport|teleports]] around the battlefield.
-- **[[Tactician]]:** A strategist and protector who inspires allies to be more effective.
+- **Conduit:** A priest who [[Heal|heals]] allies and smites enemies with divine power.
+- **Elementalist:** A mage who harnesses the elements of creation to devastate foes.
+- **Fury:** A warrior who can hit hard and soak up damage thanks to their growing rage in battle.
+- **Shadow:** A sneaky assassin who [[Teleport|teleports]] around the battlefield.
+- **Tactician:** A strategist and protector who inspires allies to be more effective.
 
 ## Adventure Formatting
 
@@ -185,7 +185,7 @@ Four civilians remain on the deck at the start of the fight, each a noncombatant
 
 #### TACTICS
 
-The brawler attempts to [[Grab|grab]] the nearest noncombatant as a shield, leaving nearby heroes to deal with the [[Raider|raiders]]. The scoundrel and their guards select the nearest hero and [[Focus|focus]] attacks on them, attempting to pick characters off one by one. The archers make ranged attacks from the back ranks, doing their best to stay out of melee.
+The brawler attempts to [[Grab|grab]] the nearest noncombatant as a shield, leaving nearby heroes to deal with the [[Raider|raiders]]. The scoundrel and their guards select the nearest hero and focus attacks on them, attempting to pick characters off one by one. The archers make ranged attacks from the back ranks, doing their best to stay out of melee.
 
 At the start of each round, if at least one gangplank is still up, a group of two [[Raider|raiders]] appears at the far end of a gangplank and prepares to board on their turn.
 

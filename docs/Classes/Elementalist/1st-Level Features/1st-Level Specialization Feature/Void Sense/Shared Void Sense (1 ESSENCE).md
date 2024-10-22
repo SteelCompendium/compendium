@@ -26,4 +26,4 @@ You share your special senses with others.
 | **Keywords:** Magic, Ranged, Void | **Type:** Maneuver  |
 | **Distance:** Ranged 5            | **Target:** Special |
 
-**Effect**: For each [[Essence|essence]] you spend, you can target 1 creature. That creature gains the benefit of your [[Void Sense]] feature until the end of your next turn, but doesn't gain the use of Shared [[Void Sense]].
+**Effect**: For each essence you spend, you can target 1 creature. That creature gains the benefit of your Void Sense feature until the end of your next turn, but doesn't gain the use of Shared Void Sense.
