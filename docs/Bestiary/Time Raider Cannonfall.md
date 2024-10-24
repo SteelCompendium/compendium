@@ -1,11 +1,11 @@
 #### TIME RAIDER CANNONFALL
 
-| [[Raider]]\[\[Time [[Raider]]\|TIME RAIDER\]\] CANNONFALL |      **Level 3 Artillery** |
-| :-------------------------------------------------------- | -------------------------: |
-| *Humanoid, [[Time Raider]]*                               |                  **EV 18** |
-| **Stamina**: 40                                           |              **Weakness**: |
-| **Speed**: 5                                              | **Size**: 1L / Stability 3 |
-|                                                           |     **[[Free Strike]]**: 5 |
+| [[Time Raider\|TIME RAIDER]] CANNONFALL |      **Level 3 Artillery** |
+| :-------------------------------------- | -------------------------: |
+| *Humanoid, [[Time Raider]]*             |                  **EV 18** |
+| **Stamina**: 40                         |              **Weakness**: |
+| **Speed**: 5                            | **Size**: 1L / Stability 3 |
+|                                         |     **[[Free Strike]]**: 5 |
 
 | **Might** 0 | **Agility** +2 | **Reason** +2 | **Intuition** | **Presence** 0 |
 | ----------- | -------------- | ------------- | ------------- | -------------- |

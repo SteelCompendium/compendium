@@ -1,11 +1,11 @@
 #### TIME RAIDER MYRIAD
 
-| [[Raider]]\[\[Time [[Raider]]\|TIME RAIDER\]\] MYRIAD |   **Level 3 Brute Minion** |
-| :---------------------------------------------------- | -------------------------: |
-| *Humanoid, [[Time Raider]]*                           |                  **EV 10** |
-| **Stamina**: 20                                       |              **Weakness**: |
-| **Speed**: 5                                          | **Size**: 1M / Stability 0 |
-|                                                       |     **[[Free Strike]]**: 2 |
+| [[Time Raider\|TIME RAIDER]] MYRIAD |   **Level 3 Brute Minion** |
+| :---------------------------------- | -------------------------: |
+| *Humanoid, [[Time Raider]]*         |                  **EV 10** |
+| **Stamina**: 20                     |              **Weakness**: |
+| **Speed**: 5                        | **Size**: 1M / Stability 0 |
+|                                     |     **[[Free Strike]]**: 2 |
 
 | **Might** +2 | **Agility** +1 | **Reason** +2 | **Intuition** | **Presence** +1 |
 | ------------ | -------------- | ------------- | ------------- | --------------- |

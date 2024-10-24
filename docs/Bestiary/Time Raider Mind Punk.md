@@ -1,11 +1,11 @@
 #### TIME RAIDER MIND PUNK
 
-| [[Raider]]\[\[Time [[Raider]]\|TIME RAIDER\]\] MIND PUNK |         **Level 3 Hexer** |
-| :------------------------------------------------------- | ------------------------: |
-| *Humanoid, [[Time Raider]]*                              |                 **EV 17** |
-| **Stamina**: 40                                          |             **Weakness**: |
-| **Speed**: 5                                             | **Size**: 2 / Stability 2 |
-|                                                          |    **[[Free Strike]]**: 5 |
+| [[Time Raider\|TIME RAIDER]] MIND PUNK |         **Level 3 Hexer** |
+| :------------------------------------- | ------------------------: |
+| *Humanoid, [[Time Raider]]*            |                 **EV 17** |
+| **Stamina**: 40                        |             **Weakness**: |
+| **Speed**: 5                           | **Size**: 2 / Stability 2 |
+|                                        |    **[[Free Strike]]**: 5 |
 
 | **Might** +2 | **Agility** 0 | **Reason** +2 | **Intuition** +2 | **Presence** +1 |
 | ------------ | ------------- | ------------- | ---------------- | --------------- |

@@ -27,7 +27,7 @@
 \*\***5 VP**
 \*\* The remasch takes an adjacent creature with them when they [[Teleport|teleport]]. The creature appears in an unoccupied space adjacent to the remasch’s destination.
 
-**Grasping [[Shadow]] (5 VP)**
+**Grasping Shadow (5 VP)**
 
 |                         |                |
 | :---------------------- | :------------- |

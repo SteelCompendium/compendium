@@ -4,7 +4,7 @@ update push="true":
 
 	dir="$(mktemp -d)"
 	echo >&2 "[INFO] Grabbing compendium markdown..."
-	git clone git@github.com:SteelCompendium/data-md.git "$dir"
+	git clone --depth 1 --branch backer git@github.com:SteelCompendium/data-md.git "$dir"
 	(
 		compendium_dir="$(pwd)"
 		cd "$dir"

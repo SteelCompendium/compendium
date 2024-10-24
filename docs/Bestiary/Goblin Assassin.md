@@ -26,7 +26,7 @@
 
 Effect: If the assassin has an edge or a double edge on the power roll for this ability, the ability deals an additional 2 damage.
 
-**[[Shadow]] Chains (3 VP)**
+**Shadow Chains (3 VP)**
 
 |                                     |                         |
 | :---------------------------------- | :---------------------- |

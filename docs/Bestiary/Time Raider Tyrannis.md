@@ -1,11 +1,11 @@
 #### TIME RAIDER TYRANNIS
 
-| [[Raider]]\[\[Time [[Raider]]\|TIME RAIDER\]\] TYRANNIS |          **Level 3 Boss** |
-| :------------------------------------------------------ | ------------------------: |
-| *Humanoid, [[Time Raider]]*                             |                 **EV 54** |
-| **Stamina**: 120                                        |             **Weakness**: |
-| **Speed**: 10 ([[Fly\|fly]], [[Teleport\|teleport]])    | **Size**: 2 / Stability 0 |
-|                                                         |    **[[Free Strike]]**: 5 |
+| [[Time Raider\|TIME RAIDER]] TYRANNIS                |          **Level 3 Boss** |
+| :--------------------------------------------------- | ------------------------: |
+| *Humanoid, [[Time Raider]]*                          |                 **EV 54** |
+| **Stamina**: 120                                     |             **Weakness**: |
+| **Speed**: 10 ([[Fly\|fly]], [[Teleport\|teleport]]) | **Size**: 2 / Stability 0 |
+|                                                      |    **[[Free Strike]]**: 5 |
 
 | **Might** 0 | **Agility** +3 | **Reason** +3 | **Intuition** +1 | **Presence** 0 |
 | ----------- | -------------- | ------------- | ---------------- | -------------- |
@@ -28,10 +28,10 @@ Effect: Each target’s speed is reduced by 2 (EoT).
 
 **Air Raid! (3 VP)**
 
-|                           |                                                               |
-| :------------------------ | :------------------------------------------------------------ |
-| Keywords: Psionic, Ranged | Type: Maneuver                                                |
-| Distance: Ranged 10       | Target: Three [[Raider]]\[\[Time [[Raider]]\|time raiders\]\] |
+|                           |                                             |
+| :------------------------ | :------------------------------------------ |
+| Keywords: Psionic, Ranged | Type: Maneuver                              |
+| Distance: Ranged 10       | Target: Three [[Time Raider\|time raiders]] |
 
 Effect: Each target is psionically lifted into the air and can [[Fly|fly]] up to their speed. If a target doesn’t land in an unoccupied space, they fall.
 

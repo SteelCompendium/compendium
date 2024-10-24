@@ -18,7 +18,7 @@ target: Self
 
 After [[Human|humans]], polders are the most numerous and diverse ancestry in Orden. They are not [[Human|humans]], but they live in and among [[Human|humans]], sharing their gods and culture. Almost every [[Human|human]] culture in Orden has a polder saint or a [[Human|human]] saint venerated by polder.
 
-Short creatures averaging three-and-a-half feet tall, polders have obscure origins. They are a young species who, like [[Human|humans]], have no single patron god. Their natural ability to blend in with [[Shadow|shadows]] makes them excellent spies and thieves. However, many polders consider this stereotype a base slander, pointing out that they're also famed as chefs—though polders can be found in virtually every profession, especially in cities.
+Short creatures averaging three-and-a-half feet tall, polders have obscure origins. They are a young species who, like [[Human|humans]], have no single patron god. Their natural ability to blend in with shadows makes them excellent spies and thieves. However, many polders consider this stereotype a base slander, pointing out that they're also famed as chefs—though polders can be found in virtually every profession, especially in cities.
 
 ## On Polders
 
@@ -156,11 +156,11 @@ You gain the following ability:
 
 #### Shadowmeld
 
-You become an actual [[Shadow|shadow]].
+You become an actual shadow.
 
 |                     |                    |
 | :------------------ | :----------------- |
 | **Keywords:** Magic | **Type:** Maneuver |
 | **Distance:** Self  | **Target:** Self   |
 
-**Effect**: You flatten yourself into a [[Shadow|shadow]] against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in [[Shadow|shadow]] form, you have full awareness of your surroundings, attacks against you and tests made to find you take a bane, and you can't move or take actions or maneuvers except to exit this form. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
+**Effect**: You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, attacks against you and tests made to find you take a bane, and you can't move or take actions or maneuvers except to exit this form. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.

@@ -205,7 +205,7 @@ If a single attack reduces a minion squad’s Stamina pool by an amount
 of damage equal to the Stamina of multiple minions, multiple minions are taken out by the damage. Start with minions
 who took the damage first. If all those minions are eliminated and there is still more damage to account for , the
 minions nearest to the ones who were taken out suffer the same fate. For instance, if one [[Goblin Sniper|goblin sniper]] takes 12 damage
-from a [[Fury|fury]]’s [[Brutal Slam]] ability, that [[Sniper|sniper]] dies and another nearby [[Sniper|sniper]] also gets taken out. Allow the player to
+from a fury’s Brutal Slam ability, that [[Sniper|sniper]] dies and another nearby [[Sniper|sniper]] also gets taken out. Allow the player to
 narrate how their hero takes out additional minions killed by a single attack. Maybe each minion is within striking
 distance of the hero, who makes multiple brutal weapon attacks with a single action. Maybe the body of the original
 target is hurled into an unfortunate ally. Maybe additional minions affected by a single attack pass out from fright!
@@ -216,7 +216,7 @@ Taking out multiple minions is a chance to play up the cinematic part of the gam
 Minion squads are particularly susceptible to damage dealing area abilities and attacks that target multiple creatures,
 because
 the minion squad’sStamina pool takes damage each time an individual minion takes damage. If three goblin minions are hit
-with a [[Conduit|conduit]]’s [[Lightfall]] ability that deals 4 holy damage to each target in its area, the minion pool loses 12
+with a conduit’s Lightfall ability that deals 4 holy damage to each target in its area, the minion pool loses 12
 Stamina!
 
 #### PREPPING MINION STAMINA POOLS
@@ -504,7 +504,7 @@ The weakest of demon kind, the following category 1 demons are included in this 
 
 The following category 2 demons are included in this book:
 
-- Rumored to be the initial source of the teachings of all [[Shadow|shadows]] through the College of Black Ash, **remasches** are demons whose physical form is blended with the nature of the wastes where they dwell. A remasch [[Teleport|teleports]] around the battlefield, inflicting chaos on their enemies directly or through the minions they control.
+- Rumored to be the initial source of the teachings of all shadows through the College of Black Ash, **remasches** are demons whose physical form is blended with the nature of the wastes where they dwell. A remasch [[Teleport|teleports]] around the battlefield, inflicting chaos on their enemies directly or through the minions they control.
 - Possessed of glowing eyes and tendril-ringed maws, **ruinants** breathe with a sickening wheeze and have bodies covered in inflamed scars. A ruinant can inflict fresh wounds and burns on their victims in a pattern mirroring those on the demon’s own body.
 - **Torlases** are piecemeal abominations whose physical forms don’t obey the normal laws of geometry. They control the battlefield by using living flesh and whipping allies and enemies alike into advantageous position.
 - **Bendraks** appear as an amalgamation of flesh and shards of a broken mirror, able to shape their bodies to distract and confuse their foes. A bendrak can divert an enemy’s attack to another enemy or [[Hide|hide]] themselves or allies behind dazzling reflections.
@@ -765,7 +765,7 @@ Target: One creature or object
 - ✸ 17+: 10 damage; the remasch [[Teleport|teleports]] 5 squares
   **5 VP:** The remasch takes an adjacent creature with them when they [[Teleport|teleport]]. The creature appears in an unoccupied space adjacent to the remasch’s destination.
 
-**Grasping [[Shadow]] (Maneuver)** ◆ 5 VP
+**Grasping Shadow (Maneuver)** ◆ 5 VP
 Keywords: Magic, Ranged
 Distance: Ranged 10
 Target: Self
@@ -1068,7 +1068,7 @@ Target: One creature or object
 - ✸ 17+: 7 damage
   Effect: If the assassin has an edge or a double edge on the power roll for this ability, the ability deals an additional 2 damage.
 
-**[[Shadow]] Chains (Action)** ◆ AGL RR ◆ 3 VP
+**Shadow Chains (Action)** ◆ AGL RR ◆ 3 VP
 Keywords: Magic, Ranged, Resistance
 Distance: Ranged 10
 Target: Three creatures
@@ -1807,7 +1807,7 @@ Effect: The target is marked until the start of the blackguard’s next turn. Th
 **End Effect**
 At the end of their turn, the blackguard can take 5 damage to end one EoE effect affecting them. This damage can’t be reduced in any way.
 
-**[[Parry]]! (Triggered Action)**
+**Parry! (Triggered Action)**
 Keywords: Melee, Weapon
 Distance: Reach 1
 Target: Self or one ally

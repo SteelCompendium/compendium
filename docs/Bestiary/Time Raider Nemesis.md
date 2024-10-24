@@ -1,11 +1,11 @@
 #### TIME RAIDER NEMESIS
 
-| [[Raider]]\[\[Time [[Raider]]\|TIME RAIDER\]\] NEMESIS |        **Level 3 Harrier** |
-| :----------------------------------------------------- | -------------------------: |
-| *Humanoid, [[Time Raider]]*                            |                  **EV 19** |
-| **Stamina**: 50                                        |              **Weakness**: |
-| **Speed**: 7                                           | **Size**: 1M / Stability 0 |
-|                                                        |     **[[Free Strike]]**: 5 |
+| [[Time Raider\|TIME RAIDER]] NEMESIS |        **Level 3 Harrier** |
+| :----------------------------------- | -------------------------: |
+| *Humanoid, [[Time Raider]]*          |                  **EV 19** |
+| **Stamina**: 50                      |              **Weakness**: |
+| **Speed**: 7                         | **Size**: 1M / Stability 0 |
+|                                      |     **[[Free Strike]]**: 5 |
 
 | **Might** +1 | **Agility** +2 | **Reason** +2 | **Intuition** +1 | **Presence** 0 |
 | ------------ | -------------- | ------------- | ---------------- | -------------- |
