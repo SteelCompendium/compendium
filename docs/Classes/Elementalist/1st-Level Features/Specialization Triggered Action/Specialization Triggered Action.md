@@ -14,10 +14,10 @@ Your specialization grants you a triggered action, as shown on the Elementalist 
 
 [ELEMENTALIST TRIGGERED ACTIONS](./Elementalist%20Triggered%20Actions.md)
 
-[EARTHEN FORCE](./Earthen%20Force.md)
+[THE BREATH OF DAWN REMEMBERED](./The%20Breath%20Of%20Dawn%20Remembered.md)
 
 [EXPLOSIVE ASSISTANCE](./Explosive%20Assistance.md)
 
-[MEND THE SOUL](./Mend%20The%20Soul.md)
+[SKIN LIKE CASTLE WALLS](./Skin%20Like%20Castle%20Walls.md)
 
-[VOID EMBRACE](./Void%20Embrace.md)
+[A SUBTLE RELOCATION](./A%20Subtle%20Relocation.md)

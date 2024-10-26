@@ -11,5 +11,3 @@ kind: stormwight kits
 # Signature Ability
 
 [BEAR CLAWS](./Bear%20Claws.md)
-
-[BEAR GROWING RAGE](./Bear%20Growing%20Rage.md)

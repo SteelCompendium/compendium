@@ -1,24 +1,24 @@
 #### DEMON TORLAS
 
-| DEMON TORLAS    |     **Level 1 Controller** |
-| :-------------- | -------------------------: |
-| *Demon, Planar* |                   **EV 9** |
-| **Stamina**: 15 |       **Weakness**: Holy 3 |
-| **Speed**: 5    | **Size**: 1S / Stability 0 |
-|                 |     **[[Free Strike]]**: 2 |
+| DEMON TORLAS |        \*\*Level  \*\* |
+| :----------- | ---------------------: |
+| \*\*         |            \*\*EV \*\* |
+| **Stamina**: |          **Weakness**: |
+| **Speed**:   | **Size**:  / Stability |
+|              |   **[[Free Strike]]**: |
 
-| **Might** 0 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
-| ----------- | -------------- | ------------ | --------------- | --------------- |
-|             |                |              |                 |                 |
+| **Might** 0 | **Agility** +1 | **Reason** 0 | **Intuition** | **Presence** +2 |
+| ----------- | -------------- | ------------ | ------------- | --------------- |
+|             |                |              |               |                 |
 
 **Cronenstorm (Signature)**
 
-|                               |                       |
-| :---------------------------- | :-------------------- |
-| Keywords: Area, Magic, Ranged | Type: Action          |
-| Distance: 3 cube within 10    | Target: Each creature |
+|                               |                                   |
+| :---------------------------- | :-------------------------------- |
+| Keywords: Area, Magic, Ranged | Type: Action                      |
+| Distance: 3 cube within 10    | Target: Each creature in the cube |
 
-**2d10 + 1**
+**2d10 + 2**
 
 - ✦ ≤11: Slide 1
 - ★ 12–16: Slide 2
@@ -33,7 +33,13 @@ Effect: The area turns into a morass of spongy flesh before the targets are forc
 | Keywords: Magic, Ranged | Type: Maneuver          |
 | Distance: Ranged 10     | Target: Three creatures |
 
-Effect: The torlas pulls the target up to 2 squares.
+Effect: The torlas pulls each target 3 squares.
+
+**LEVEL 1 CONTROLLER**
+
+**Demon, Planar EV 9**
+
+**Stamina:** 15 **Weakness:** Holy 3 **Speed:** 5 **Size:** 1S / Stability 0 **[[Free Strike]]:** 2
 
 **Lethe**
 
@@ -41,4 +47,4 @@ While winded, the torlas has an edge on attacks, and attacks have an edge agains
 
 **Soulsight**
 
-Each creature within 2 squares of the torlas can’t be hidden from them.
+Each creature within 2 of the torlas can’t be hidden from them.

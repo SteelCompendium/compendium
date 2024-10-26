@@ -10,18 +10,8 @@ kind: 1st-level features
 
 # Persistent Magic
 
-Some of your heroic abilities have the Persistent keyword. Whenever you use a persistent ability, you decide whether you want to maintain it. If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end when combat ends.
-
-You can maintain a persistent ability outside of combat as long as you have Victories equal to or greater than its persistent value. If you maintain a persistent ability outside of combat, the maximum essence you can use on other abilities is reduced by the ability's persistent value. For instance, if you have 4 Victories and maintain the Stone Ward ability (a persistent ability with a cost of 1 essence), you can only use abilities costing 3 essence or less outside of combat.
-
+Some of your heroic abilities have a persistent effect entry, like *Instantaneous Excavation*, which has an effect noted as “Persistent 1.” Whenever you use a persistent ability, you decide whether you want to maintain it and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end when combat ends.\
 You can't maintain any abilities that would make you earn a negative amount of essence at the start of your turn or have a negative amount of essence outside of combat. You can stop maintaining an ability at any time (no action required).
 
-If you maintain the same ability on several targets and the effect includes a power roll, you make that roll once and apply the same effect to all targets. A creature can't be affected by multiple instances of a persistent ability.
-
-Whenever you take damage while you have an active persistent ability, you must make the following power roll.
-
-**Power Roll + Reason**:
-
-- 11 or lower: You lose all active persistent abilities.
-- 12–16: If you have only one persistent ability active, it remains active. Otherwise, you lose one active persistent ability of your choice.
-- 17+: All your active persistent abilities remain active.
+If you maintain the same ability on several targets and the effect includes a power roll, you make that roll once and apply the same effect to all targets. A creature can't be affected by multiple instances of a persistent ability.\
+If you take damage equal to 5 × your Reason score in one turn, you stop maintaining any persistent abilities. For example, if you have a Reason score of 2 and are maintaining *Instantaneous Excavation* and take 10 or more damage in one turn, you stop maintaining the ability.

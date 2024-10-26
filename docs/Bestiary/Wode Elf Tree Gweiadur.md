@@ -1,0 +1,44 @@
+#### WODE ELF TREE GWEIADUR
+
+| WODE ELF TREE GWEIADUR    |  **Level 3 Artillery** |
+| :------------------------ | ---------------------: |
+| *Fey, Humanoid, Wode Elf* |            \*\*EV \*\* |
+| **Stamina**:              |          **Weakness**: |
+| **Speed**:                | **Size**:  / Stability |
+|                           |   **[[Free Strike]]**: |
+
+| **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** +1 | **Presence** 0 |
+| ----------- | -------------- | ------------ | ---------------- | -------------- |
+|             |                |              |                  |                |
+
+**Snare Bow (Signature)**
+
+|                                         |                              |
+| :-------------------------------------- | :--------------------------- |
+| Keywords: Attack, Melee, Ranged, Weapon | Type: Action                 |
+| Distance: Ranged 15                     | Target: 1 creature or object |
+
+**2d10 + 2**
+
+- ✦ ≤11: 5 damage; A1 [[Restrained|restrained]] (save ends)
+- ★ 12–16: 9 damage; A2 [[Restrained|restrained]] (save ends)
+
+Effect: The tree gweiadur can shift 3 after making the attack. 3 Malice: If this attack restrains the target, an enemy within 1 of the target is also [[Restrained|restrained]] (save ends).
+
+**You Activated My Trap! (3 Malice)**
+
+|                               |                                 |
+| :---------------------------- | :------------------------------ |
+| Keywords: Area, Magic, Ranged | Type: Maneuver                  |
+| Distance: 3 cube within 10    | Target: All enemies in the cube |
+
+**2d10 + 2**
+
+- ✦ ≤11: 2 damage; R1 marked (save ends)
+- ★ 12–16: 4 damage; R2 [[Slowed|slowed]] and marked (save ends)
+
+Effect: Allies have **+1** on attacks and abilities against marked creatures and objects.
+
+**Masking Glamor**
+
+The tree gweiadur immediately [[Hide|hides]] at the end of their turn while in cover or concealment, even if they are observed.

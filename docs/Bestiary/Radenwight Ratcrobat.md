@@ -7,7 +7,7 @@
 | **Speed**: 7 (climb)   | **Size**: 1S / Stability 0 |
 |                        |     **[[Free Strike]]**: 5 |
 
-| **Might** -1 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
+| **Might** -1 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
@@ -16,9 +16,9 @@
 |                                 |                                  |
 | :------------------------------ | :------------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Action                     |
-| Distance: Reach 1               | Target: Two creatures or objects |
+| Distance: Melee 1               | Target: Two creatures or objects |
 
-**2d10 + 1**
+**2d10 + 2**
 
 - ✦ ≤11: 2 damage
 - ★ 12–16: 5 damage
@@ -31,16 +31,16 @@ Effect: The ratcrobat can shift up to 2 squares after attacking the first target
 |                   |                   |
 | :---------------- | :---------------- |
 | Keywords: Melee   | Type: Maneuver    |
-| Distance: Reach 1 | Target: One enemy |
+| Distance: Melee 1 | Target: One enemy |
 
-Effect: Slide 1; the ratcrobat can then shift into the square the target left.
+Effect: Slide 3; the ratcrobat can then shift into any of the squares the target left.
 
 **Ready Rodent**
 
 |                         |                        |
 | :---------------------- | :--------------------- |
 | Keywords: Melee, Weapon | Type: Triggered Action |
-| Distance: Reach 1       | Target: One creature   |
+| Distance: Melee 1       | Target: One creature   |
 
 Trigger: An ally deals damage to the target.
 
@@ -48,4 +48,4 @@ Effect: The ratcrobat makes a [[Free Strike|free strike]] against the target.
 
 **Gymratstics**
 
-The ratcrobat gains an edge on attacks against larger creatures.
+The ratcrobat has an edge on attacks against larger creatures.

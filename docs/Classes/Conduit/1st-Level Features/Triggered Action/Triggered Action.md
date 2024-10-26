@@ -10,8 +10,8 @@ kind: 1st-level features
 
 # Triggered Action
 
-Choose one of the following triggered actions.
+Choose one of the following triggered actions:
 
-[DIVINE DISRUPTION](./Divine%20Disruption.md)
+[WORD OF GUIDANCE](./Word%20Of%20Guidance.md)
 
-[HOLY INFUSION](./Holy%20Infusion.md)
+[WORD OF JUDGEMENT](./Word%20Of%20Judgement.md)

@@ -12,6 +12,12 @@ kind: 1st-level features
 
 As the battle intensifies around you, your determination and anger grow, fueling a Heroic Resource called rage.
 
-Outside of combat and other dangerous situations tracked in turns and rounds, you have fury equal to your Victories. If you lose some or all of this rage outside of combat, it takes you 1 minute to regain it.
+## Rage In Combat
 
-When a combat encounter begins, you keep any rage you had outside of combat. At the start of each of your turns during combat, you gain 1d3 rage. When combat ends, you once again have rage equal to your Victories.
+When a combat encounter begins, you gain rage equal to your Victories. At the start of each turn of combat, you gain 1d3 rage. The first time in a round that you take damage, you gain 1 rage. Your rage disappears at the end of the encounter.
+
+## Rage Outside Of Combat
+
+Though you can't gain rage outside of combat, you can use your heroic abilities and effects that cost rage without spending it. Whenever you use an ability or effect that costs rage outside of combat, you can't use that same ability or effect again outside of combat until you gain at least 1 Victory or finish a Respite.
+
+If you use an ability that lets you spend unlimited rage on its effect, such as *To the Uttermost End*, out of combat, you can use it as if you had spent an amount of rage on it equal to your Victories.

@@ -21,3 +21,5 @@ With this stormwight kit, you channel your primordial rage into the form of a wo
 [KIT BONUSES](./Kit%20Bonuses.md)
 
 [SIGNATURE ABILITY](./Signature%20Ability/Signature%20Ability.md)
+
+[WOLF GROWING RAGE](./Wolf%20Growing%20Rage.md)

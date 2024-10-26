@@ -13,23 +13,23 @@ keyword_list:
   - Ranged
   - Weapon
 ability_type: Action
-distance: Reach 1 or Ranged 3
+distance: Melee 1 or Ranged 5
 target: 1 creature
 ---
 
 # I Work Better Alone
 
-Facing an enemy alone lets you exploit their overconfidence.
+It's better, just you and me. Isn't it?
 
 |                                             |                        |
 | :------------------------------------------ | :--------------------- |
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
-| **Distance:** Reach 1 or Ranged 3           | **Target:** 1 creature |
+| **Distance:** Melee 1 or Ranged 5           | **Target:** 1 creature |
 
 **Power Roll + Agility:**
 
-- 11 or lower: 3 damage
-- 12–16: 8 damage
-- 17+: 12 damage
+- 11 or lower: 2 damage
+- 12–16: 5 damage
+- 17+: 7 damage
 
-**Effect:** If the target has no allies adjacent to them, you gain an edge on the attack.
+**Effect:** If the target has no allies adjacent to them, you gain � on the attack.

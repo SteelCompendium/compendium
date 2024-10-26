@@ -12,9 +12,9 @@ Skills from the lore skill group are used to research and recall specific inform
 
 Rewards for tests made with lore skills typically include learning an extra piece of useful information.
 
-Failure consequences for tests made with lore skills typically include learning an incorrect piece of information that seems useful, but which actually makes things worse or wastes time. (It's fun to roleplay these sorts of moments, so lean in!) Alternatively, the Director can make medium and hard lore tests for each hero in secret and let the players know the narrative outcome without revealing the result of the dice.
+Failure consequences for tests made with lore skills typically include learning an incorrect piece of information that seems useful but actually makes things worse or wastes time. (It's fun to roleplay these sorts of moments, so lean in!) Alternatively, the Director can make medium and hard lore tests for each hero in secret and let the players know the narrative outcome without revealing the result of the dice.
 
-## Lore Skills Table
+## Lore Skills
 
 | Skill               | Use                                                                                        |
 | ------------------- | ------------------------------------------------------------------------------------------ |

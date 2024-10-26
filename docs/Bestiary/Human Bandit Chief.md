@@ -1,13 +1,13 @@
 #### HUMAN BANDIT CHIEF
 
-| [[Human\|HUMAN]] BANDIT CHIEF |           **Level 3 Boss** |
+| [[Human\|HUMAN]] BANDIT CHIEF |         **Level 3 Leader** |
 | :---------------------------- | -------------------------: |
 | *[[Human]], Humanoid*         |                  **EV 54** |
 | **Stamina**: 120              |              **Weakness**: |
 | **Speed**: 5                  | **Size**: 1M / Stability 2 |
 |                               |     **[[Free Strike]]**: 5 |
 
-| **Might** +2 | **Agility** +2 | **Reason** +2 | **Intuition** +2 | **Presence** +2 |
+| **Might** +2 | **Agility** +3 | **Reason** +2 | **Intuition** +3 | **Presence** +2 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
 |              |                |               |                  |                 |
 
@@ -16,22 +16,22 @@
 |                                        |                                |
 | :------------------------------------- | :----------------------------- |
 | Keywords: Attack, Magic, Melee, Weapon | Type: Action                   |
-| Distance: Reach 1                      | Target: Two enemies or objects |
+| Distance: Melee 3                      | Target: Two enemies or objects |
 
-**2d10 + 2**
+**2d10 + 3**
 
 - ✦ ≤11: 5 damage; pull 1
 - ★ 12–16: 9 damage; pull 2
 - ✸ 17+: 12 damage; pull 3
 
-Effect: A target who is adjacent to the bandit chief after the attack is resolved takes 9 corruption damage.
+Effect: A target who is adjacent to the bandit chief after the attack is resolved takes double edge corruption damage. 2 Malice: The bandit chief attacks an additional target.
 
-**Kneel, Peasant!**
+**Kneel, Peasant! (2d10 + 3)**
 
 |                                 |                             |
 | :------------------------------ | :-------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Maneuver              |
-| Distance: Reach 1               | Target: One enemy or object |
+| Distance: Melee 1               | Target: One enemy or object |
 
 **Bloodstones**
 
@@ -40,37 +40,41 @@ Effect: A target who is adjacent to the bandit chief after the attack is resolve
 | Keywords: Magic | Type: Triggered Action |
 | Distance: Self  | Target: Self           |
 
-Trigger: The bandit chief makes a power roll for an attack.
+Trigger: The bandit chief makes a power roll.
 
 Effect: The bandit chief takes 4 corruption damage and increases the result of the power roll by one tier.
 
 **Shoot!**
 
-|                    |                        |
-| :----------------- | :--------------------- |
-| Keywords: Area     | Type: Villain Action 1 |
-| Distance: 10 burst | Target: Each ally      |
+|                    |                                 |
+| :----------------- | :------------------------------ |
+| Keywords: Area     | Type: Villain Action 1          |
+| Distance: 10 burst | Target: All allies in the burst |
 
-Effect: Each target can make a ranged [[Free Strike|free strike]].
+Effect: Each target makes a ranged [[Free Strike|free strike]].
 
 **Form Up!**
 
-|                    |                        |
-| :----------------- | :--------------------- |
-| Keywords: Area     | Type: Villain Action 2 |
-| Distance: 10 burst | Target: Each ally      |
+|                    |                                 |
+| :----------------- | :------------------------------ |
+| Keywords: Area     | Type: Villain Action 2          |
+| Distance: 10 burst | Target: All allies in the burst |
 
-Effect: Each target shifts up to their speed. Until the end of the encounter, any enemy takes a bane on attacks against the bandit chief or any of the bandit chief’s allies if they are adjacent to that target.
+Effect: Each target shifts up to their speed. Until the end of the encounter, the bandit chief and all allies have triple edge while adjacent to a target.
 
 **Lead From the Front**
 
-|                          |                        |
-| :----------------------- | :--------------------- |
-| Keywords: Attack, Weapon | Type: Villain Action 3 |
-| Distance: Self           | Target: Self           |
+|                |                        |
+| :------------- | :--------------------- |
+| Keywords: —    | Type: Villain Action 3 |
+| Distance: Self | Target: Self           |
 
-Effect: The bandit chief shifts twice their speed. During or after this movement, they can attack up to four targets with Whip & Magic Longsword. Any ally of the bandit chief adjacent to a target can make a [[Free Strike|free strike]] against that target.
+Effect: Shift 10 squares. During or after this movement, the bandit chief can attack up to four targets with Whip & Magic Longsword. Each ally adjacent to a target can make a [[Free Strike|free strike]] against them.
 
 **End Effect**
 
-At the end of their turn, the bandit chief can take 5 damage to end one EoE effect affecting them. This damage can’t be reduced in any way.
+At the end of their turn, the bandit chief can take 5 damage to end one "save ends" effect affecting them. This damage can’t be reduced in any way.
+
+**Heightened Supernatural Insight**
+
+The bandit chief can target supernatural creatures and objects within 15 squares, even if they don’t have line of effect.

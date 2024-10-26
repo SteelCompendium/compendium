@@ -7,21 +7,25 @@
 | **Speed**: 5               | **Size**: 1M / Stability 0 |
 |                            |     **[[Free Strike]]**: 4 |
 
-| **Might** 0 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
-| ----------- | -------------- | ------------ | --------------- | -------------- |
-|             |                |              |                 |                |
+| **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** +1 | **Presence** 0 |
+| ----------- | -------------- | ------------ | ---------------- | -------------- |
+|             |                |              |                  |                |
 
-**Crossbow (Signature)**
+**Trick Crossbow (Signature)**
 
 |                                  |                                |
 | :------------------------------- | :----------------------------- |
 | Keywords: Attack, Ranged, Weapon | Type: Action                   |
-| Distance: Ranged 15              | Target: One creature or object |
+| Distance: Melee 1 or Ranged 15   | Target: One creature or object |
 
-**2d10 + 1**
+**2d10 + 2**
 
 - ✦ ≤11: 4 damage
 - ★ 12–16: 7 damage
 - ✸ 17+: 10 damage
 
-Effect: The trickshot doesn’t take a bane when using this ability in melee or against a target with cover or concealment.
+Effect: The trickshot ignores cover and concealment. 3 Malice: The trickshot attacks an additional target.
+
+**Supernatural Insight**
+
+The trickshot can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.

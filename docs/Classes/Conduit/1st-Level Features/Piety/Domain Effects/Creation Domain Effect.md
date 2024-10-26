@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # Creation Domain Effect
 
-You create a 5 wall of stone within 10 squares of you.
+You create a **5 + Intuition score** wall of stone within **10 squares** of you.

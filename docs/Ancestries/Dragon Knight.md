@@ -9,17 +9,17 @@ keyword_list:
   - Area
   - Magic
 ability_type: Action
-distance: 2 burst
+distance: 3 cube within 1
 target: All enemies
 ---
 
 # Dragon Knight
 
-“I thought the dragon knights would save us, but even they couldn't stop Ajax. Now the roads aren't safe. People are taken from their homes without cause or warning, never to return. I don't know what's going to happen now, except everyone's afraid all the time.”
+“I thought the dragon knights would save us, but even they couldn't stop Ajax. Now the roads aren't safe. People are taken from their homes without cause or warning, never to return. I don't know what's going to happen now, except everyone's afraid all the time.
 
 “I think things are going to get a lot worse before they get better.”
 
-The **Ritual of Dracogenesis** that grants the power to create a generation of dragon knights—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khorshir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
+The Ritual of Dracogenesis that grants the power to create a generation of dragon knights—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khorshir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
 
 The largest extant population of draconians is the remnants of the Dragon Phalanx in Vasloria. Created by Good King Omund's wizard Vitae, the Dragon Phalanx once numbered several thousand of the king's greatest knights, ensuring the rule of law across the land.
 
@@ -53,9 +53,7 @@ The two [[Dwarf|dwarves]] surveyed the tavern. The people were now all facing th
 
 As one, the people in the tavern turned to look with undisguised awe at the dragon knight. He noticed this, ducked his head to avoid their gaze. “Show's over,” he growled, then he turned to go back to his seat in the rear.
 
-“Thank you,” the woman behind the bar said. “Thank you for…”
-
-She stopped when she saw the draconian was ignoring her.
+“Thank you,” the woman behind the bar said. “Thank you for…” She stopped when she saw the draconian was ignoring her.
 
 A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. “Excuse me, sir knight,” the man said as the dragon knight walked past their table.
 
@@ -85,7 +83,7 @@ The man held out his hand. The dragon knight looked at it for a moment before re
 
 “These people need help. I said I'd find it. Heard a rumor someone matching your description was holed up here having a drinking contest with Mr. John Barleycorn.”
 
-The draconian sniffed, released John's hand, and looked at the three peasants. “Why do you people need me? You're in the company of Sir John, Commander of the Fifth …”
+The draconian sniffed, released John's hand, and looked at the three peasants. “Why do you people need me? You're in the company of Sir John, Commander of the Fifth…”
 
 “Just John,” Sir John said, holding a hand up. “The new baron stripped me of my title. My lands.”
 
@@ -119,7 +117,7 @@ The dragon knight stopped and spun around. Everyone in the inn was watching the 
 
 “The people need leadership,” John said as he looked at all the folk watching.
 
-Vaantikalisax's reptile eyes flashed in anger. “They had it. Thirty years, and what did it amount to?! I watched Ajax… I watched him…” The dragon knight's eyes flinched. His clawed hands tightened on his mace and shield. “I watched the oath… fail.”
+Vaantikalisax's reptile eyes flashed in anger. “They had it! Thirty years, and what did it amount to?! I watched Ajax… I watched him…” The dragon knight's eyes flinched. His clawed hands tightened on his mace and shield. “I watched the oath… fail.”
 
 “Vaant… Vaant, the Dragon Phalanx didn't fail. You were betrayed. It was Mandrake! One of your own, don't you get it? You're just as fallible as the rest of us. You were never ‘incorruptible.' It's just what we wanted to believe. You're just people—like the rest of us.”
 
@@ -127,39 +125,72 @@ The dragon knight looked at the people around him, at the three peasants despera
 
 “Exactly,” Vaantikalisax said. Then he turned and left the inn.
 
-## Dragon Knight Benefits
+## Dragon Knight Traits
 
-As a dragon knight character, you have the following benefits:
+Dragon knight heroes have access to the following traits.
 
-### Wyrmplate
+### Signature Trait: Wyrmplate
 
-Your hardened scales grant you immunity 5 to one of the following damage types: cold, corruption, fire, lightning, or poison. You can change your damage immunity type while out of combat (no action required).
+Your hardened scales grant you immunity equal to your level to one of the following damage types: acid, cold, corruption, fire, lightning, or poison. You can change your damage immunity type when you finish a respite.
 
-### Knighthood
+### Purchased Dragon Knight Traits
 
-The legacy of the Dragon Phalanx lives in you. Choose one of the following benefits.
+You have 3 ancestry points to spend on the following traits.
 
-- **DRACONIAN RUSH:** As a maneuver, you can [[Fly|fly]] in a straight line up to your speed. Until you reach level 6, you must end your turn on a solid surface or fall, then fall [[Prone|prone]].
+#### Draconian Guard (costs 1 Point)
 
-- **DRACONIAN GUARD:** When you or a creature adjacent to you is attacked, you can use a triggered action to swing your wings around and guard against the blow, reducing any damage from the attack by an amount equal to your level + your Victories.
+When you or a creature adjacent to you is attacked, you can use a triggered action to swing your wings around and guard against the blow, reducing any damage from the attack by an amount equal to your level.
 
-- **DRACONIAN PRIDE:** You can use the following ability:
+#### Remember Your Oath (costs 1 Point)
 
-**DRACONIAN PRIDE**
+As a maneuver, you can recite the following oath. If you do, you succeed on saving throws when you roll a 4 or higher until the start of your next turn:\
+*Even should the sun stop in the sky*\
+*Even should the night last a thousand years*\
+*I will stand forever*\
+*I shall not yield*\
+*Those who suffer and yearn for justice*\
+*I am your sword and shield*\
+*I will yield no ground*\
+*I will speak no lies*\
+*I will stand against all tyrants*\
+*Until the last villain dies*
 
-You let loose a mighty roar to repel your foes and shake their spirits.
+#### Draconian Pride (costs 2 Points)
 
-|                           |                         |
-| :------------------------ | :---------------------- |
-| **Keywords:** Area, Magic | **Type:** Action        |
-| **Distance:** 2 burst     | **Target:** All enemies |
+You can use the following ability:
+
+##### Draconian Pride
+
+You let loose a mighty roar to shake your foes' spirits.
+
+|                               |                         |
+| :---------------------------- | :---------------------- |
+| **Keywords:** Area, Magic     | **Type:** Action        |
+| **Distance:** 3 cube within 1 | **Target:** All enemies |
 
 **Power Roll + Might or Presence:**
 
-- 11 or lower: 2 damage; push 1
+- 11 or lower: 2 damage
+- 12–16: 3 damage
+- 17+: 4 damage; I \[strong\] [[Frightened|frightened]] (save ends)
 
-- 12–16: 4 damage; push 3
+#### Dragon Weapon (costs 2 Points)
 
-- 17+: 7 damage; push 5; [[Frightened|frightened]] (EoT)
+You can use the following ability:
 
-  **Effect:** You have a bane on the power roll for this ability when you use it in consecutive rounds of the same encounter.
+##### Dragon Breath
+
+You expel energy to damage your foes.
+
+**Power Roll + Might or Presence:**
+
+- 11 or lower: 2 damage
+- 12–16: 3 damage
+- 17+: 4 damage
+
+**Effect:** You choose the attack's damage type from acid, cold, corruption, fire, lightning, or poison.
+
+#### Wings (costs 2 Points)
+
+You possess wings powerful enough to take you airborne.\
+As a maneuver, you can switch between walking and flying when you are touching the ground, or vice versa when you are within 1 square of the ground. While flying, your stability drops to 0 and you have damage weakness 5. While using your wings to [[Fly|fly]], you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall [[Prone|prone]].

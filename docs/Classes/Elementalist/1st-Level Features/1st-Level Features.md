@@ -1,8 +1,8 @@
 ---
 title_raw: 1st-level Features
-title: 1St-Level Features
+title: 1st-Level Features
 name_raw: 1st-level Features
-name: 1St-Level Features
+name: 1st-Level Features
 type: classes
 subtype: elementalist
 kind: 1st-level features
@@ -12,7 +12,7 @@ kind: 1st-level features
 
 As an elementalist, you gain the following features.
 
-[ELEMENTAL SPECIALIZATION](./Elemental%20Specialization.md)
+[ELEMENTAL SPECIALIZATION](./Elemental%20Specialization/Elemental%20Specialization.md)
 
 [ESSENCE](./Essence.md)
 
@@ -25,5 +25,9 @@ As an elementalist, you gain the following features.
 [1ST-LEVEL SPECIALIZATION FEATURE](./1st-Level%20Specialization%20Feature/1st-Level%20Specialization%20Feature.md)
 
 [SPECIALIZATION TRIGGERED ACTION](./Specialization%20Triggered%20Action/Specialization%20Triggered%20Action.md)
+
+[ENCHANTMENT](./Enchantment.md)
+
+[ELEMENTALIST WARD](./Elementalist%20Ward/Elementalist%20Ward.md)
 
 [ELEMENTALIST ABILITIES](./Elementalist%20Abilities/Elementalist%20Abilities.md)

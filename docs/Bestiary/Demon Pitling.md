@@ -1,13 +1,13 @@
 #### DEMON PITLING
 
-| DEMON PITLING               | **Level 1 Artillery Minion** |
-| :-------------------------- | ---------------------------: |
-| *Demon, Planar*             |                     **EV 2** |
-| **Stamina**: 4              |         **Weakness**: Holy 3 |
-| **Speed**: 5 ([[Fly\|fly]]) |   **Size**: 1T / Stability 0 |
-|                             |       **[[Free Strike]]**: 2 |
+| DEMON PITLING |        \*\*Level  \*\* |
+| :------------ | ---------------------: |
+| \*\*          |            \*\*EV \*\* |
+| **Stamina**:  |          **Weakness**: |
+| **Speed**:    | **Size**:  / Stability |
+|               |   **[[Free Strike]]**: |
 
-| **Might** -2 | **Agility** +1 | **Reason** -2 | **Intuition** -2 | **Presence** -2 |
+| **Might** -2 | **Agility** +2 | **Reason** -2 | **Intuition** -2 | **Presence** -2 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
 |              |                |               |                  |                 |
 
@@ -18,11 +18,17 @@
 | Keywords: Attack, Ranged, Weapon | Type: Action                              |
 | Distance: Ranged 10              | Target: One creature or object per minion |
 
-**2d10 + 1**
+**2d10 + 2**
 
 - ✦ ≤11: 2 poison damage
 - ★ 12–16: 3 poison damage
 - ✸ 17+: 4 poison damage
+
+**LEVEL 1 ARTILLERY MINION**
+
+**Demon, Planar EV 2**
+
+**Stamina:** 4 **Weakness:** Holy 3 **Speed:** 5 ([[Fly|fly]]) **Size:** 1T / Stability 0 **[[Free Strike]]:** 2
 
 **Horrid Stench**
 
@@ -30,4 +36,4 @@ Any enemy who has three or more pitlings within 2 squares of them can’t regain
 
 **Soulsight**
 
-Each creature within 2 squares of the pitling can’t be hidden from them.
+Each creature within 2 of the pitling can’t be hidden from them.

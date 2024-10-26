@@ -1,8 +1,8 @@
 ---
 title_raw: 1st-level Aspect Features
-title: 1St-Level Aspect Features
+title: 1st-Level Aspect Features
 name_raw: 1st-level Aspect Features
-name: 1St-Level Aspect Features
+name: 1st-Level Aspect Features
 type: classes
 subtype: fury
 kind: 1st-level features
@@ -14,4 +14,12 @@ Your chosen primordial aspect grants you features as shown on the 1st-Level Prim
 
 [1ST-LEVEL PRIMORDIAL ASPECT FEATURES](./1st-Level%20Primordial%20Aspect%20Features.md)
 
+[BEAST SHAPE](./Beast%20Shape.md)
+
+[KIT](./Kit.md)
+
 [PRIMORDIAL CUNNING](./Primordial%20Cunning.md)
+
+[PRIMORDIAL STRENGTH](./Primordial%20Strength.md)
+
+[RELENTLESS HUNTER](./Relentless%20Hunter.md)

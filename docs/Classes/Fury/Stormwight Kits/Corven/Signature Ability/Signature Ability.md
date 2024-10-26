@@ -11,5 +11,3 @@ kind: stormwight kits
 # Signature Ability
 
 [WING BUFFET](./Wing%20Buffet.md)
-
-[CROW GROWING RAGE](./Crow%20Growing%20Rage.md)

@@ -14,9 +14,9 @@ Rewards for tests made with skills from this group typically include helping ano
 
 Failure consequences for tests made with intrigue skills include getting caught in the act or failing to notice a detail that places you in danger, such as triggering a trap or walking into an ambush.
 
-## Intrigue Skills Table
+## Intrigue Skills
 
-| Skill          | Use                                                                                                |
+| Skill          | Uses                                                                                               |
 | -------------- | -------------------------------------------------------------------------------------------------- |
 | Alertness      | Intuitively sense the details of your surroundings                                                 |
 | Conceal Object | Hide an object on your person or in your environment                                               |

@@ -8,35 +8,23 @@ type: ancestries
 
 # Hakaan
 
+Defending the Society's flank, the Pillar stood alone against the Bloodstone Legion. The Arrow was awestruck and afraid. She was a different person in a fight.
+
 “COME FORTH, SONS OF ORD!” the hakaan metamorph bellowed as Ajax's dwarven legion advanced. “AND MEET A BETTER WOMAN THAN THEE!!”
-
-In spite of their friendly, outgoing nature, the rare presence of a hakaan in [[Human|human]] society is considered a harbinger—an omen of dark times.
-
-Descended from a tribe of giants in upper Vanigar, the original Haka'an tribe made a bargain with Holkatja, the Vanigar trickster god. They traded some of their gigantic size and strength for the ability to see the future.
-
-But Holkatja betrayed them, and the only future they are allowed to see is the moment and nature of their own death. These visions are never of some mundane tragedy. No hakaan ever received a vision of dying from choking on a grape. The doomsight is always momentous—always dramatic.
-
-This doomsight can happen at any moment. It does not come for all or even most hakaan, but when it comes, it is considered an act of overwhelming hubris to ignore it. Trying to escape the doomsight means a painful, tragic death, and cursing your family to live with shame.
-
-For this reason, the only hakaan the average [[Human|human]] meets is one trying to fulfill their doom. The [[Human|human]] superstition—that the arrival of one or more hakaan in [[Human|human]] lands is a sign of great forces acting in the world, auspicious times—is literally true. In dark times, many hakaan experience the doomsight and leave their communities to venture out into the mundane world, in search of their destiny.
-
-[[Human|Humans]] in Vanigar have their own word for this concept of a personal fate, “wyrd.” Traditional hakaan sometimes refer to the doomsight as wyrdken.
-
-## On Hakaan
 
 “You … you know when you're going to die?”
 
 The Pillar, dressed in her civilian clothing—a simple pleated dress cinched at the waist that left her bare arms free to work—dipped her hand in the pail of water. It immediately sprang to life, the water sizzled and danced as her fingers cooled. She pulled her hand out, shook off the water, and went back to sculpting the granite.
 
-The hard, tough stone melded like clay under her fingers. Whatever she was doing, it generated enormous heat in her fingertips, hence the pails of water beside her. The Arrow couldn't tell if this was her talent manifest, or something her people could do, or neither. As he watched, he realized he recognized the bust. It was the girl they rescued during the Society's recent battle with the Academy.
+The hard, tough stone melded like clay under her fingers. Whatever she was doing, it generated enormous heat in her fingertips, hence the pails of water beside her. The Arrow couldn't tell if this was her talent manifest, or something her people could do, or neither. As he watched, he realized he recognized the bust. It was the girl they rescued during the Society's recent battle with the Academy. (See last ish. -MC.)
 
-“Not exactly,” the Pillar said as she concentrated on her art. “Not when. More sort of …” She looked away from her sculpture and looked out the window, thinking. “How. Why. I am told there is a sense of …” she looked at the young man, a teenager, only recently recruited to the Society. “Anticipation. Eagerness when the time is nigh. So,” she took in a deep breath, which was an impressive sight to see in a 9-foot-tall woman, and let it out, smiling at the young man. “Not anytime soon.” Her smile was like a sunrise.
+“Not exactly,” the Pillar said as she concentrated on her art. “Not when. More sort of …” She looked away from her sculpture and looked out the window, thinking. “How. Why. I am told there is a sense of …” She looked at the young man, a teenager, only recently recruited to the Society. “Anticipation. Eagerness when the time is nigh. So,” she took in a deep breath, which was an impressive sight to see in a 9-foot-tall woman, and let it out, smiling at the young man. “Not anytime soon.” Her smile was like a sunrise.
 
 Though he had lived with fear most of his young life, mortality was not something that plagued the Arrow's mind. He had a hard time grasping it. “That must be … awful.”
 
 “Oh no,” she went back to her work. “No it's … I do not know how to say it in Caelian. It is a blessing. I have seen people die for no reason. Be taken from their loved ones without warning, without … without purpose. There are unjust deaths. They destroy families. Communities.
 
-“But the doomsight only comes in time of great need. People forget Holkatja is also the goddess of luck, and those who beat luck—under … underdogs, as you say. She gave more than she stole, I sometimes think.
+“But the doomsight only comes in time of great need. People forget Holkatya is also the goddess of luck, and those who beat luck—under … underdogs, as you say. She gave more than she stole, I sometimes think.
 
 “I do not know how long I have. No one does, but I know my death will have meaning. I know it, do you understand? I know it like I know my own name. Often I feel …” Her great hands clenched and unclenched, as though she were trying to grasp something just out of reach. “I yearn for it. I want it to happen. What greater end can there be than fulfilling one's destiny?” She looked at the mostly-finished sculpture. “It gives everything I do a sense of purpose.” She went back to work.
 
@@ -46,13 +34,13 @@ The Arrow had seen it, and enthusiastically agreed.
 
 “You're not from the Barrow Hills,” he said.
 
-The Pillar shook her head. “No, I do not wot of your hills. I am from the hills north of the Blue Cloud [[Mountain|Mountains]] in far Vanigar.” She turned and looked down at the Arrow with some pride. “My people are descended from the original Haka'an tribe.” She went back to work. “Though I am sure the Barrow Men, as you call them, are a fine people. We're all related, you see.”
+The Pillar shook her head, “No, I do not wot of your hills. I am from the hills north of the Blue Cloud [[Mountain|Mountains]] in far Vanigar.” She turned and looked down at the Arrow with some pride. “My people are descended from the original Haka'an tribe.” She went back to work. “Though I am sure the Barrow Men, as you call them, are a fine people. We're all related, you see.”
 
 “Is that why you joined the Society?”
 
 “Oh yes,” the Pillar said. “I had only left home a fortnight previous when Memory came to Vanigar to recruit me. I had a sense my wyrd lay in some distant land, but I did not know the world was so big.”
 
-“Did she look like herself?” the Arrow asked, smiling, enjoying a moment of shared experience with the giant woman.
+“Did she look like herself?” the Arrow asked, smiling. Enjoying a moment of shared experience with the giant woman.
 
 The Pillar chuckled, and the Arrow's chest vibrated with the force of it. “No, she looked like an agéd wise woman of Vanigar. I think only in fabled Alloy could the Memory of a Sunset at Dawn [[Walk|walk]] the streets without ‘scaring the horses,' as they say.”
 
@@ -102,20 +90,40 @@ The Arrow stared, wide-eyed at the Pillar. Even before the young man spoke, the 
 
 “Wasn't over!” the Arrow said, his joy impossible to [[Hide|hide]].
 
-## Hakaan Benefits
+## Hakaan Traits
 
-As a hakaan character, your size is 1L, and you have the following benefits:
+Hakaan heroes have access to the following traits.
 
-### Doomsight
+### Signature Trait: Big!
 
-Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you lose the Undaunted benefit from this ancestry, you automatically get tier 3 results on tests and resistance rolls, and you don't die no matter how low your Stamina falls. You then die immediately at the end of the encounter.
+Your size is 1L.
 
-If you don't predetermine your death encounter, you can choose to become doomed while you are dying with the director's approval (no action required). Doing so should be reserved for encounters in which you are dying as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to you—not because you're playing a one-shot and have nothing to lose, Hacaarl.
+### Purchased Hakaan Traits
 
-### Hakaan Might
+You have 3 ancestry points to spend on the following traits:
+
+#### All Is A Feather (costs 1 Point)
+
+You are exceptionally strong and have an edge made on tests that use the Lift skill.
+
+#### Forceful (costs 1 Point)
 
 When you force move a creature or object, you can increase the distance moved by 1.
 
-### Undaunted
+#### Stand Tough (costs 1 Point)
 
-You can't be [[Weakened|weakened]]. Additionally, when your Stamina equals the negative of your winded value, you turn to rubble instead of dying. You are unaware of your surroundings in this state. After 12 hours, you regain Stamina equal to your recovery value.
+Your body is made to withstand the blows of your enemies. Your Might score counts as1 higher for resisting potencies.
+
+#### Great Fortitude (costs 2 Points)
+
+Your hearty constitution prevents you from losing strength. You can't be [[Weakened|weakened]].
+
+#### Doomsight (costs 2 Points)
+
+Working with your Director, you can predetermine an encounter in which you will die.
+
+When that encounter begins, you become doomed. While doomed, you lose the Undaunted benefit from this ancestry, you automatically get tier 3 results on tests and resistance rolls, and you don't die no matter how low your Stamina falls. You then die immediately at the end of the encounter.
+
+If you don't predetermine your death encounter, you can choose to become doomed while you are dying with the Director's approval (no action required). Doing so should be reserved for encounters in which you are dying as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to you—not because you're playing a one-shot and have nothing to lose, Hacaarl.
+
+Additionally, when your Stamina equals the negative of your winded value and you are not doomed, you turn to rubble instead of experiencing death. You are unaware of your surroundings in this state. After 12 hours, you regain Stamina equal to your Recovery value.

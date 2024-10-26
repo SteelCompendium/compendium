@@ -1,8 +1,8 @@
 ---
 title_raw: 1st-level Features
-title: 1St-Level Features
+title: 1st-Level Features
 name_raw: 1st-level Features
-name: 1St-Level Features
+name: 1st-Level Features
 type: classes
 subtype: shadow
 kind: 1st-level features
@@ -21,5 +21,7 @@ As a shadow, you gain the following features.
 [COLLEGE TRIGGERED ACTION](./College%20Triggered%20Action/College%20Triggered%20Action.md)
 
 [HESITATION IS WEAKNESS](./Hesitation%20Is%20Weakness.md)
+
+[KIT](./Kit.md)
 
 [SHADOW ABILITIES](./Shadow%20Abilities/Shadow%20Abilities.md)

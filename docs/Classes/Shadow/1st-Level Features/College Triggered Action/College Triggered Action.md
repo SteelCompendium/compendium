@@ -12,10 +12,4 @@ kind: 1st-level features
 
 Your college grants you a triggered action, as shown on the Shadow Triggered Actions table.
 
-[SHADOW TRIGGERED ACTIONS](./Shadow%20Triggered%20Actions.md)
-
-[DEFENSIVE ROLL](./Defensive%20Roll.md)
-
-[IN ALL THIS CONFUSION](./In%20All%20This%20Confusion.md)
-
-[MISDIRECTION (1 INSIGHT)](./Misdirection.md)
+[SHADOW TRIGGERED ACTIONS](./Shadow%20Triggered%20Actions/Shadow%20Triggered%20Actions.md)

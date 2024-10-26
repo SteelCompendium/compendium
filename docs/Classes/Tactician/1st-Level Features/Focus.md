@@ -12,6 +12,12 @@ kind: 1st-level features
 
 The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called focus.
 
-Outside of combat and other dangerous situations tracked in turns and rounds, you have focus equal to your Victories. If you lose some or all of this focus outside of combat, it takes you 1 minute to regain it.
+## Focus In Combat
 
-When a combat encounter begins, you keep any focus you had outside of combat. At the start of each of your turns during combat, you gain 2 focus. If an ally gets a tier 3 result on an attack against a target you have marked, you gain 1 focus. When combat ends, you once again have focus equal to your Victories.
+When a combat encounter begins, you gain focus equal to your Victories. At the start of your turn in combat, you gain 2 focus. The first time in a round an ally attacks a target you have marked, you gain 1 focus. When combat ends, your focus drops to 0.
+
+## Focus Outside Of Combat
+
+Though you can't gain focus outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect that costs focus outside of combat, you can't use that same ability or effect again outside of combat again until you gain at least 1 Victory or finish a Respite.
+
+If you use an ability that lets you spend unlimited discipline on its effect out of combat, you can use it as if you had spent an amount of focus on it equal to your Victories.

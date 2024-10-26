@@ -12,10 +12,8 @@ kind: 1st-level features
 
 Your training and faith let you specialize in magic that buffs your allies, debuffs your foes, and lets you hold your own in combat even while aiding your friends.
 
-[SIGNATURE ABILITY](./Signature%20Ability/Signature%20Ability.md)
+[SIGNATURE ABILITIES](./Signature%20Abilities/Signature%20Abilities.md)
 
-[HEROIC ABILITIES](./Heroic%20Abilities.md)
-
-[3-PIETY ABILITIES](./3-Piety%20Abilities/3-Piety%20Abilities.md)
+[HEROIC ABILITIES](./Heroic%20Abilities/Heroic%20Abilities.md)
 
 [5-PIETY ABILITIES](./5-Piety%20Abilities/5-Piety%20Abilities.md)

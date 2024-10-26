@@ -8,17 +8,14 @@ type: ancestries
 
 # Devil
 
-“Go to hell!”
-
+“Go to hell!”\
 “You know, I have a rather interesting story about that…”
 
-The native ancestry of the Seven Cities of Hell, devils are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each devil is born with some hellmark—horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings.
+The native ancestry of the Seven Cities of Hell, devils are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each devil is born with some hellmark—horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings. Hell is dominated by the Seven Cities of Hell, each ruled by a different archdevil who constantly plots and schemes against the others in the hope of ascending to the Throne of Hell.
 
-Hell is dominated by the Seven Cities of Hell, each ruled by a different archdevil who constantly plots and schemes against the others in the hope of ascending to the Throne of Hell.
+Those devils who join “the trade,” as their civil service is called, spend their days in bureaucratic service hoping or scheming for promotion. Devils looking for a quick path up the bureaucratic ladder sign up for the Exchange, whereby mortals in the mundane world who perform the right rituals can summon a devil, who bargains with the supplicant on behalf of their archdevil. Archdevils can grant temporary worldly power in exchange for a supplicant's soul, with the summoned devil acting as the broker.
 
-Those devils who join “the trade,” as their civil service is called, spend their days in bureaucratic service, hoping or scheming for promotion. Devils looking for a quick path up the bureaucratic ladder sign up for the Exchange, whereby mortals in the mundane world who perform the right rituals can summon a devil, who bargains with the supplicant on behalf of their archdevil. Archdevils can grant temporary worldly power in exchange for a supplicant's soul, with the summoned devil acting as the broker.
-
-On rare occasions, the summoning goes wrong and the supplicant dies before the deal can be struck, stranding the summoned devil on Orden permanently. Some stranded devils seek to return to Hell, but most prefer life in Orden, where the phrase “stabbed in the back by a colleague” is usually a metaphor.
+On rare occasions, though, the summoning goes wrong and the supplicant dies before the deal can be struck, stranding the summoned devil on Orden permanently. Some stranded devils seek to return to Hell, but most prefer life in Orden, where the phrase “stabbed in the back by a colleague” is usually a metaphor.
 
 The majority of devils in Orden are not from, nor have ever been to, the Seven Cities. They are descendants of devils who were stranded in the mundane world decades, centuries, even millennia ago.
 
@@ -28,17 +25,17 @@ Adelard scuttled across the floor of his basement, a heavy tome clutched in one 
 
 One of the red candles suddenly guttered out, making the small room noticeably darker. “Damn and blast!” he hissed. Then he relit it from another candle.
 
-Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the candles—they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said *a skull*—it didn't even specify a [[Human|human]] skull! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual know if the skull was real?
+Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the candles—they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said *a skull*—it didn't even specify *a [[Human|human]] skull*! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual know if the skull was real?
 
 He was wittering, putting off the inevitable. He pulled himself together. It was either going to work, or it wasn't, and wittering wasn't going to help. He opened the book and turned the page—then began to speak the ritual.
 
 Moments later, the candles flared, there was a burst of flame, and acrid brimstone filled his nostrils. When the smoke cleared… there was a devil standing in his basement—dark purple skin, horns, even a twitching tail.
 
-“Aha! Yes, finally.” It rubbed its hands together. “It's about time,” the creature said, pulling on the bottom of his waistcoat to straighten it. “Now then! How does it go? Oh, yes.” He cleared his throat. “On behalf of my lord, his grace Archduke Dispater, Lord of Dis, I am empowered to offer you…”
+“Aha! Yes, finally.” It rubbed its hands together. “It's about time,” the creature said, pulling on the bottom of his waistcoat to straighten it. “Now then! How does it go? Oh, yes.” He cleared his throat. “On behalf of my lord, his grace Archduke Dispater, Lord of Dis, I am empowered to offer you…” But his speech fell on deaf ears.
 
-But his speech fell on deaf ears.
+“It worked!” Adelard said, holding his clenched fists up. “Ahahaha! It worked! Finally, after years! I will have my revenge! Hahaha…!” *cough* *cough* Adelard was suddenly gripped by a coughing fit, but he kept crowing.
 
-“It worked!” Adelard said, holding his clenched fists up. “Ahahaha! It worked! Finally, after years! I will have my revenge! Hahaha…!” *cough* *cough* Adelard was suddenly gripped by a coughing fit, but he kept crowing. “Dismiss me from service, will they?! *cough* Old and useless… am I?! I'll show them!” He coughed again, fighting to breathe now. “I will hex them and torture them until they…”
+“Dismiss me from service, will they?! *cough* Old and useless… am I?! I'll show them!” He coughed again, fighting to breathe now. “I will hex them and torture them until they…”
 
 He stopped cavorting and capering, and his eyes went wide. “Until they… until…” He clutched his chest.
 
@@ -46,11 +43,11 @@ He stopped cavorting and capering, and his eyes went wide. “Until they… unti
 
 “HNNG!” Adelard grunted. Then he collapsed to the ground, curled into a fetal position, obviously in immense pain.
 
-“Nono. Nurse!” the devil called out. “Doctor!? Is anyone… you should lie down. Well, you are lying down. Do some… some deep-breathing exercises. Have a cup of tea! That always…”
+“No, no. Nurse!” the devil called out. “Doctor!? Is anyone… you should lie down. Well, you are lying down. Do some… some deep-breathing exercises. Have a cup of tea! That always…”
 
 Adelard gasped one last time and uncurled, muscles relaxed. Eyes open but unseeing.
 
-“…calms me down,” the devil said quietly.
+“… calms me down,” the devil said quietly.
 
 Suddenly, the candles were extinguished as one, plunging the room into pitch-blackness. The devil's hellsight meant this was only a minor inconvenience for him. “Um,” he said to the empty room. “Uh-oh.”
 
@@ -58,13 +55,11 @@ He poked the tip of his boot at the chalk symbol surrounding him on the floor. N
 
 He walked out of the circle. Nothing happened. No one, it seemed, cared.
 
-A few moments later, the door to a small home, little more than a wooden shack on the outskirts of a small village, opened. A well-dressed devil peeked out and then slowly emerged, stepping onto the dirt road that led through the center of the village. A keep stood atop a hill in the distance.
-
-“Ah,” the devil said.
+A few moments later, the door to a small home, little more than a wooden shack, on the outskirts of a small village opened. A well-dressed devil peeked out and then slowly emerged, stepping onto the dirt road that led through the center of the village. A keep stood atop a hill in the distance. “Ah,” the devil said.
 
 A wide woman dressed in wool, carrying a pile of clean clothes, saw him and stopped in her tracks, her mouth open.
 
-“Oh! Good day to you, madam, I wonder if you could tell me…”
+“Oh! Good day to you madam, I wonder if you could tell me…”
 
 “AAAHHHHH!!!” she screamed. For quite a long time. Then she dropped her laundry and ran.
 
@@ -80,6 +75,8 @@ The two of them stood there, frozen in the middle of the street for a few moment
 
 Then the devil turned and ran away as quickly as he could.
 
+______________________________________________________________________
+
 “And that's how I ended up here!” Riyalkin toasted his dinner companion. “Now, after years of obscurity, a legendary hero!”
 
 “Legendarily vain,” his dinner guest teased with a smile.
@@ -92,9 +89,7 @@ She laughed. “Riyalkin the Red Pen is every bit as advertised.”
 
 “Not all actors are vain.” She took offense beautifully. “Just the good ones.” She sipped her drink.
 
-“Well then, you must be very vain indeed,” the devil said.
-
-“Anyway, does that answer your question?”
+“Well then, you must be very vain indeed,” the devil said. “Anyway, does that answer your question?”
 
 “Mostly. Do they speak Caelian in hell?”
 
@@ -104,7 +99,7 @@ She laughed. “Riyalkin the Red Pen is every bit as advertised.”
 
 He waggled his eyebrows. “Style counts for something.”
 
-“But wait, that was….” She did some quick mental math. “Fifteen years ago?”
+“But wait, that was…” She did some quick mental math. “Fifteen years ago?”
 
 “Well, I was an accountant here in Capital for several years in between.”
 
@@ -124,28 +119,42 @@ She blushed in spite of herself and raised her own glass in a toast.
 
 “You silver-tongued devil.”
 
-## Devil Benefits
+## Devil Traits
 
-As a devil character, you have the following benefits:
+Devil heroes have access to the following traits.
 
-### Fiendish Features
+### Signature Trait: Silver Tongue
 
-When you create a devil character, you have 3 fiend points, which you use to select a number of the following features.
+You can twist how your words are perceived to get a better read on people. You gain an edge when attempting to discover an NPC's motivations and pitfalls during negotiations (see Negotiation).
 
-- **BARBED TAIL (1 FIEND POINT):** Your pointy tail allows you to punctuate all your actions. Once per round, you can deal 1 extra damage on a melee attack or [[Free Strike|free strike]].
+### Purchased Devil Traits
 
-- **BEAST LEGS (2 FIEND POINTS):** Your powerful legs improve your speed by 1.
+You have 3 ancestry points to spend on the following traits.
 
-- **EXPOSED SKELETON (2 FIEND POINTS):** Your bones are visible and hardened above your skin, granting you Weapon immunity 2.
+#### Barbed Tail (costs 1 Point)
 
-- **GLOWING EYES (1 FIEND POINT):** Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a triggered action to curse that creature for daring to do you harm. The creature takes 1d10 psychic damage.
+Your pointy tail allows you to punctuate all your actions. Once per round, you can deal 1 extra damage on a melee attack or [[Free Strike|free strike]].
 
-- **HELLSIGHT (1 POINT):** Your eyes let you see through the dark, fog, and other types of concealment. You don't take a bane on attacks against concealed, unhidden creatures.
+#### Beast Legs (costs 1 Point)
 
-- **HORNS (1 FIEND POINT):** Your cherished horns are a hardened representation of your force of will, granting you an edge on Presence resistance rolls.
+Your powerful legs improve your speed. Your speed becomes 6.
 
-- **PREHENSILE TAIL (2 FIEND POINTS):** Your prehensile tail allows you to challenge foes on all sides. You can't be flanked.
+#### Glowing Eyes (costs 1 Point)
 
-- **WINGS (2 FIEND POINTS):** You possess wings powerful enough to take you airborne. As a maneuver, you can switch between walking and flying when you are touching the ground, or vice versa when you are within 1 square of the ground. While flying, your stability drops to 0 and you have damage weakness 5. While using your wings to [[Fly|fly]], you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall [[Prone|prone]].
+Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a triggered action to curse that creature for daring to do you harm. The creature takes � psychic damage.
 
-- **SILVER TONGUE:** You can twist how your words are perceived to get a better read on people. You gain an edge when attempting to discover an NPC's motivations and pitfalls during negotiations (see *Negotiation*).
+#### Hellsight (costs 1 Point)
+
+Your eyes let you see through the dark, fog, and other types of concealment. You don't take a bane on attacks against concealed, unhidden creatures.
+
+#### Otherworldly Horns (costs 2 Points)
+
+Your cherished horns are larger than the average devil and a hardened representation of your force of will, allowing you to succeed on a roll of 5 or higher with saving throws.
+
+#### Prehensile Tail (costs 2 Points)
+
+Your prehensile tail allows you to challenge foes on all sides. You can't be flanked.
+
+#### Wings (costs 2 Points)
+
+You possess wings powerful enough to take you airborne. As a maneuver, you can switch between walking and flying when you are touching the ground, or vice versa when you are within 1 square of the ground. While flying, your stability drops to 0 and you have damage weakness 5. While using your wings to [[Fly|fly]], you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall [[Prone|prone]].

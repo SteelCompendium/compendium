@@ -7,24 +7,24 @@
 | **Speed**: 5         | **Size**: 1M / Stability 0 |
 |                      |     **[[Free Strike]]**: 3 |
 
-| **Might** +1 | **Agility** 0 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
-| ------------ | ------------- | ------------ | --------------- | -------------- |
-|              |               |              |                 |                |
+| **Might** +2 | **Agility** 0 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
+| ------------ | ------------- | ------------ | --------------- | --------------- |
+|              |               |              |                 |                 |
 
 **Command Saber (Signature)**
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Action                   |
-| Distance: Reach 1               | Target: One creature or object |
+| Distance: Melee 1               | Target: One creature or object |
 
-**2d10 + 1**
+**2d10 + 2**
 
 - ✦ ≤11: 3 damage
 - ★ 12–16: 5 damage
 - ✸ 17+: 7 damage
 
-Effect: One ally of the subcommander within 5 squares of them can make a [[Free Strike|free strike]] against the target.
+Effect: An ally within 5 squares of the subcommander can make a [[Free Strike|free strike]] against the target.
 
 **Posthumous Promotion**
 

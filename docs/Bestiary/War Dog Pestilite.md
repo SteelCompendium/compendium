@@ -7,16 +7,22 @@
 | **Speed**: 5        | **Size**: 1M / Stability 0 |
 |                     |     **[[Free Strike]]**: 2 |
 
-| **Might** 0 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
+| **Might** 0 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** +2 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |
 |             |                |              |                 |                 |
 
-**Plaguecaster (Action) ◆ INU RR ◆ Signature**
+**Plaguecaster (Signature)**
 
-|                                           |                       |
-| :---------------------------------------- | :-------------------- |
-| Keywords: Area, Magic, Ranged, Resistance | Type:                 |
-| Distance: 3 cube within 10                | Target: Each creature |
+|                                           |                                   |
+| :---------------------------------------- | :-------------------------------- |
+| Keywords: Area, Magic, Ranged, Resistance | Type: Action                      |
+| Distance: 3 cube within 10                | Target: Each creature in the cube |
+
+**2d10 + 2**
+
+- ✦ ≤11: 2 poison damage; I1 [[Frightened|frightened]] (save ends)
+- ★ 12–16: 5 poison damage; I2 [[Frightened|frightened]] (save ends)
+- ✸ 17+: 8 poison damage; I3 [[Frightened|frightened]] (save ends)
 
 Effect: The area is covered in a cloud of pestilence that lasts until the start of the pestilite’s next turn. Any creature who enters the area for the first time in a round or starts their turn there takes 2 poison damage.
 

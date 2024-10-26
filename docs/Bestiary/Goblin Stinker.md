@@ -7,7 +7,7 @@
 | **Speed**: 5 (climb) | **Size**: 1S / Stability 0 |
 |                      |     **[[Free Strike]]**: 2 |
 
-| **Might** -2 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
+| **Might** -2 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** +2 |
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
@@ -18,11 +18,11 @@
 | Keywords: Area, Magic, Ranged | Type: Action       |
 | Distance: 3 cube within 10    | Target: Each enemy |
 
-**2d10 + 1**
+**2d10 + 2**
 
 - ✦ ≤11: 1 poison damage; slide 1
 - ★ 12–16: 2 poison damage; slide 2
-- ✸ 17+: 3 poison damage; slide 3
+- ✸ 17+: 3 poison damage; slide 3 1 Malice: Increase the slide for one target by 2 squares.
 
 **Swamp Gas**
 

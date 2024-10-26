@@ -12,6 +12,16 @@ kind: 1st-level features
 
 By observing your enemy, you learn how to use their weaknesses against them. You have a Heroic Resource called insight.
 
-Outside of combat and other dangerous situations tracked in turns and rounds, you have insight equal to your Victories. If you lose some or all of this insight outside of combat, it takes you 1 minute to regain it.
+## Insight In Combat
 
-When a combat encounter begins, you keep any insight you had outside of combat. At the start of each of your turns during combat, you gain 2 insight. You gain 1 insight whenever you get a tier 3 result with an attack. When combat ends, you once again have insight equal to your Victories.
+When combat begins, gain insight equal to your Victories. At the start of each of your turns during combat, you gain 1d3 insight. Additionally, the first time each round that you deal damage with an ability that has a power roll and at least one �, you gain 1 insight.
+
+When combat ends, you lose all of your insight.
+
+Your heroic abilities that have a power roll cost 1 less insight for each edge you have on the ability power roll ( maximum of 2). If the ability has multiple targets, the cost is reduced by the highest amount of edges you have that applies to one target. Banes don't subtract from edges for the purpose of reducing the insight cost of heroic abilities.
+
+## Insight Outside Of Combat
+
+Though you can't gain insight outside of combat, you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect that costs insight outside of combat, you can't use that same ability or effect again outside of combat again until you gain at least 1 Victory or finish a Respite.
+
+If you use an ability that lets you spend unlimited insight on its effect, such as Black Ash Teleport, out of combat, you can use it as if you had spent an amount of insight on it equal to your Victories.

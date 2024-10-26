@@ -16,3 +16,7 @@ As a conduit, you heal and buff your allies, and debuff your foes while smiting 
 [BASICS](./Basics/Basics.md)
 
 [1ST-LEVEL FEATURES](./1st-Level%20Features/1st-Level%20Features.md)
+
+[2ND-LEVEL FEATURES](./2nd-Level%20Features/2nd-Level%20Features.md)
+
+[3RD-LEVEL FEATURES](./3rd-Level%20Features/3rd-Level%20Features.md)

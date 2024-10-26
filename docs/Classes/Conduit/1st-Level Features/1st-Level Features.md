@@ -1,8 +1,8 @@
 ---
 title_raw: 1st-level Features
-title: 1St-Level Features
+title: 1st-Level Features
 name_raw: 1st-level Features
-name: 1St-Level Features
+name: 1st-Level Features
 type: classes
 subtype: conduit
 kind: 1st-level features
@@ -20,8 +20,12 @@ As a conduit, you gain the following features.
 
 [HEALING GRACE](./Healing%20Grace.md)
 
-[PIOUS FORCE](./Pious%20Force.md)
+[RAY OF WRATH](./Ray%20Of%20Wrath.md)
 
 [TRIGGERED ACTION](./Triggered%20Action/Triggered%20Action.md)
+
+[PRAYER](./Prayer.md)
+
+[CONDUIT WARD](./Conduit%20Ward/Conduit%20Ward.md)
 
 [CONDUIT ABILITIES](./Conduit%20Abilities/Conduit%20Abilities.md)

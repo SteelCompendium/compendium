@@ -7,7 +7,7 @@
 | **Speed**: 5 ([[Teleport\|teleport]]) | **Size**: 1M / Stability 0 |
 |                                       |     **[[Free Strike]]**: 3 |
 
-| **Might** 0 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
+| **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ----------- | -------------- | ------------ | --------------- | -------------- |
 |             |                |              |                 |                |
 
@@ -16,18 +16,15 @@
 |                                         |                                |
 | :-------------------------------------- | :----------------------------- |
 | Keywords: Attack, Melee, Ranged, Weapon | Type: Action                   |
-| Distance: Reach 1 or Ranged 5           | Target: One creature or object |
+| Distance: Melee 1 or Ranged 5           | Target: One creature or object |
 
-**2d10 + 1**
+**2d10 + 2**
 
 - ✦ ≤11: 3 damage; slide 1
 - ★ 12–16: 5 damage; slide 2
 - ✸ 17+: 7 damage; slide 3
 
-Effect: The power roll gains an edge if any of the portalite’s allies are adjacent to the target.
-
-****1 VP****
-The portalite [[Teleport|teleports]] the target up to 3 squares before sliding them.
+Effect: The portalite has **edge** on the attack if an ally is adjacent to the target.
 
 **Posthumous Promotion**
 
@@ -38,14 +35,14 @@ The portalite [[Teleport|teleports]] the target up to 3 squares before sliding t
 
 Effect: The target’s loyalty collar detonates, killing them instantly.
 
-**Corrupted Ash [[Teleport]] (Maneuver) ◆ 1 VP**
+**Corrupted Ash [[Teleport]] (1 Malice)**
 
-|                 |              |
-| :-------------- | :----------- |
-| Keywords: Magic | Type:        |
-| Distance: Self  | Target: Self |
+|                 |                |
+| :-------------- | :------------- |
+| Keywords: Magic | Type: Maneuver |
+| Distance: Self  | Target: Self   |
 
-Effect: The portalite [[Teleport|teleports]] up to 5 squares and gains an edge on attacks this turn.
+Effect: The portalite [[Teleport|teleports]] up to 5 squares and has **edge** on attacks until the end of their turn.
 
 **Loyalty Collar**
 

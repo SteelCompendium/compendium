@@ -69,7 +69,7 @@ In this act, the heroes establish their reasons for taking on the job, get to kn
 
 ### RISE AND SHINE
 
-*Dawn is just about to break over the ocean. Gentle morning waves cradle and rock the Revelation, and all is quiet save for a few early-morning birds and the snoring of the off-duty crew. You are packed like sardines in the crew quarters of the ship, where sailors sleep in a disorganized mess of hammocks and bedrolls, and moving across the floor without stepping on a body part is all but impossible.* ^a82670
+*Dawn is just about to break over the ocean. Gentle morning waves cradle and rock the Revelation, and all is quiet save for a few early-morning birds and the snoring of the off-duty crew. You are packed like sardines in the crew quarters of the ship, where [[Sailor|sailors]] sleep in a disorganized mess of hammocks and bedrolls, and moving across the floor without stepping on a body part is all but impossible.* ^a82670
 
 Captain Oriel insisted that you lodge with the crew when you signed on as a bodyguard. Though you’re on contract, she’s treated you exactly as she does her full-time crew members: with respect, fairness, and the occasional razzing. ^ece443
 
@@ -290,7 +290,7 @@ Even as the heroes and Captain Oriel step onto the docks alongside the ship’s 
 
 Coriad and Tyria both caught sight of the Revelation’s misfortune while on patrol above the city, though they were unable to reach the ship during the pirate attack. After ensuring that everyone is safe, they demand an explanation.
 
-*Two [[Human|humans]] riding [[Giant Hawk|giant hawks]] fitted with saddles and bridles descend to the docks as you arrive. Concern is etched on their faces as they see the damaged ship. “Is everyone safe? We can help with the wounded. And what happened here?” These are Hawklords, the elite guards of Ajax the Invincible, and agents of the Overlord’s authority.*
+*Two [[Human|humans]] riding [[Giant Hawk|giant hawks]] fitted with saddles and bridles descend to the docks as you arrive. Concern is etched on their faces as they see the damaged ship. “Is everyone safe? We can help with the wounded. And what happened here?” These are Hawklords, the elite guards of Ajax the Invincible, and [[Agent|agents]] of the Overlord’s authority.*
 
 #### INITIAL QUESTIONING
 

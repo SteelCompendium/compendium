@@ -14,8 +14,4 @@ You specialize in dealing damage, then getting out of harm's way before the inev
 
 [SIGNATURE ABILITY](./Signature%20Ability/Signature%20Ability.md)
 
-[HEROIC ABILITIES](./Heroic%20Abilities.md)
-
-[3-INSIGHT ABILITIES](./3-Insight%20Abilities/3-Insight%20Abilities.md)
-
-[5-INSIGHT ABILITIES](./5-Insight%20Abilities/5-Insight%20Abilities.md)
+[HEROIC ABILITIES](./Heroic%20Abilities/Heroic%20Abilities.md)

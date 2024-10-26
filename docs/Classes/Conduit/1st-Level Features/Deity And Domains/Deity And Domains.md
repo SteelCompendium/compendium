@@ -14,6 +14,6 @@ Choose a god or saint who you revere from the Conduit Deities table, or ask your
 
 After choosing your deity, pick two domains from their portfolio. Your choice of domains determines many of the features you'll gain from this class.
 
-(Playtest note: More gods and saints are coming, along with their descriptions.)
+> *Playtest note: More gods and saints are coming, along with their descriptions.*
 
 [CONDUIT DEITIES](./Conduit%20Deities.md)

@@ -7,7 +7,7 @@
 | **Speed**: 5           | **Size**: 1M / Stability 0 |
 |                        |     **[[Free Strike]]**: 2 |
 
-| **Might** +1 | **Agility** 0 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
+| **Might** +2 | **Agility** 0 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ------------ | ------------- | ------------ | --------------- | -------------- |
 |              |               |              |                 |                |
 
@@ -16,10 +16,16 @@
 |                                 |                                           |
 | :------------------------------ | :---------------------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Action                              |
-| Distance: Reach 2               | Target: One creature or object per minion |
+| Distance: Melee 2               | Target: One creature or object per minion |
 
-**2d10 + 1**
+**2d10 + 2**
 
 - ✦ ≤11: 2 damage
 - ★ 12–16: 5 damage
 - ✸ 17+: 6 damage
+
+Effect: If the guard is flanked, they can make a [[Free Strike|free strike]] against an additional target adjacent to them.
+
+**Supernatural Insight**
+
+The guard can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.

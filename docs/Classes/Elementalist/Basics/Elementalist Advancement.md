@@ -10,8 +10,8 @@ kind: basics
 
 # Elementalist Advancement
 
-| Level | Features                                                                                                                                                                               |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1st   | Elemental Specialization, Essence, Hurl Element, Persistent Magic, Practical Magic, Specialization Feature, Specialization Triggered Action, Elementalist Abilities Signature, 1, 3, 5 |
-| 2nd   | Specialization Feature, New 5-Essence Ability Signature, 1, 3, 5, 5                                                                                                                    |
-| 3rd   | Specialization Feature, 7-Essence Ability Signature, 1, 3, 5, 5, 7                                                                                                                     |
+| Level | Features                                                                                                                                                       | Abilities                    |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| 1st   | Elemental Specialization, Essence, Hurl Element, Persistent Magic, Practical Magic, Specialization Feature, Specialization Triggered Action, Enchantment, Ward | Two signature, 1, 3, 5       |
+| 2nd   | Perk, Specialization Feature, New 5-Essence Ability                                                                                                            | Two signature, 1, 3, 5, 5    |
+| 3rd   | Specialization Feature, 7-Essence Ability                                                                                                                      | Two signature, 1, 3, 5, 5, 7 |

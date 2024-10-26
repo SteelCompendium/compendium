@@ -12,7 +12,7 @@ keyword_list:
   - Magic
   - Ranged
 ability_type: Action
-distance: Ranged 5
+distance: Ranged 10
 target: 1 creature or object
 ---
 
@@ -22,17 +22,17 @@ You gain the following ability, which can be used as a ranged free strike:
 
 ## Hurl Element
 
-You hurl a ball of elemental energy at a nearby foe.
+*You cast a ball of elemental energy at a nearby foe.*
 
 |                                     |                                  |
 | :---------------------------------- | :------------------------------- |
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action                 |
-| **Distance:** Ranged 5              | **Target:** 1 creature or object |
+| **Distance:** Ranged 10             | **Target:** 1 creature or object |
 
-**Power Roll + Reason**:
+**Power Roll + Reason:**
 
-- 11 or lower: 2 damage (type varies)
-- 12–16: 6 damage (type varies)
-- 17+: 9 damage (type varies)
+- 11 or lower: 2 damage
+- 12–16: 4 damage
+- 17+: 6 damage
 
-**Effect**: When you make this attack, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.
+**Effect:** When you make this attack, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.

@@ -16,6 +16,6 @@ Select one signature ability from the options below. Signature abilities can be 
 
 [HIT AND RUN](./Hit%20And%20Run.md)
 
-[HUMILIATING STRIKE](./Humiliating%20Strike.md)
+[IMPALED!](./Impaled.md)
 
-[IMPALING STRIKE](./Impaling%20Strike.md)
+[TO THE DEATH!](./To%20The%20Death.md)

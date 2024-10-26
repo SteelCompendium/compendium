@@ -7,21 +7,25 @@
 | **Speed**: 7                        | **Size**: 1M / Stability 0 |
 |                                     |     **[[Free Strike]]**: 2 |
 
-| **Might** 0 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
+| **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ----------- | -------------- | ------------ | --------------- | -------------- |
 |             |                |              |                 |                |
 
-**Handaxe (Signature)**
+**Handaxes (Signature)**
 
 |                                                     |                                           |
 | :-------------------------------------------------- | :---------------------------------------- |
 | Keywords: Attack, [[Charge]], Melee, Ranged, Weapon | Type: Action                              |
-| Distance: Reach 1 or Ranged 5                       | Target: One creature or object per minion |
+| Distance: Melee 1 or Ranged 5                       | Target: One creature or object per minion |
 
-**2d10 + 1**
+**2d10 + 2**
 
 - ✦ ≤11: 2 damage
 - ★ 12–16: 4 damage
 - ✸ 17+: 5 damage
 
-Effect: If this ability is used as part of the [[Charge]] action, the [[Raider|raider]] can make a ranged [[Free Strike|free strike]] with a distance of 5 before using the ability.
+Effect: If this ability is used while Charging, the [[Raider|raider]] can make a ranged [[Free Strike|free strike]] with a distance of 5 before using the ability.
+
+**Supernatural Insight**
+
+The [[Raider|raider]] can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.

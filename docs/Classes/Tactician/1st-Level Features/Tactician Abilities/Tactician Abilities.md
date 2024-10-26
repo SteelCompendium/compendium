@@ -14,8 +14,4 @@ You are a formidable combatant in your own right, but your greatest strength in 
 
 [KIT SIGNATURE ABILITY](./Kit%20Signature%20Ability.md)
 
-[HEROIC ABILITIES](./Heroic%20Abilities.md)
-
-[3-FOCUS ABILITIES](./3-Focus%20Abilities/3-Focus%20Abilities.md)
-
-[5-FOCUS ABILITIES](./5-Focus%20Abilities/5-Focus%20Abilities.md)
+[HEROIC ABILITIES](./Heroic%20Abilities/Heroic%20Abilities.md)

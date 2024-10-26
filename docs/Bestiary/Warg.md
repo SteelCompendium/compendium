@@ -7,7 +7,7 @@
 | **Speed**: 7     | **Size**: 1L / Stability 1 |
 |                  |     **[[Free Strike]]**: 2 |
 
-| **Might** +1 | **Agility** +1 | **Reason** -1 | **Intuition** 0 | **Presence** -1 |
+| **Might** +1 | **Agility** +2 | **Reason** -1 | **Intuition** 0 | **Presence** -1 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |
 |              |                |               |                 |                 |
 
@@ -16,15 +16,15 @@
 |                                             |                                |
 | :------------------------------------------ | :----------------------------- |
 | Keywords: Attack, [[Charge]], Melee, Weapon | Type: Action                   |
-| Distance: Reach 1                           | Target: One creature or object |
+| Distance: Melee 1                           | Target: One creature or object |
 
-**2d10 + 1**
+**2d10 + 2**
 
 - ✦ ≤11: 2 damage
 - ★ 12–16: 5 damage
 - ✸ 17+: 6 damage
 
-**Sprint (1 VP)**
+**Sprint (1 Malice)**
 
 |                |                |
 | :------------- | :------------- |

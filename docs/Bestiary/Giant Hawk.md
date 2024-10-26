@@ -7,24 +7,22 @@
 | **Speed**: 7 (flying) | **Size**: 2 / Stability 0 |
 |                       |    **[[Free Strike]]**: 3 |
 
-| **Might** +1 | **Agility** +1 | **Reason** -3 | **Intuition** 0 | **Presence** -2 |
-| ------------ | -------------- | ------------- | --------------- | --------------- |
-|              |                |               |                 |                 |
+| **Might** +2 | **Agility** +2 | **Reason** -3 | **Intuition** +1 | **Presence** -2 |
+| ------------ | -------------- | ------------- | ---------------- | --------------- |
+|              |                |               |                  |                 |
 
 **Talons (Signature)**
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Action                   |
-| Distance: Reach 1               | Target: One creature or object |
+| Distance: Melee 1               | Target: One creature or object |
 
-**2d10 + 1**
+**2d10 + 2**
 
-- ✦ ≤11: 3 damage
-- ★ 12–16: 5 damage
-- ✸ 17+: 7 damage
-
-Effect: The target is [[Grabbed|grabbed]] by the giant hawk.
+- ✦ ≤11: 3 damage; M2 [[Grabbed|grabbed]]
+- ★ 12–16: 5 damage; M3 [[Grabbed|grabbed]]
+- ✸ 17+: 7 damage; [[Grabbed|grabbed]]
 
 **Dive**
 

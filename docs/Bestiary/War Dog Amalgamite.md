@@ -1,11 +1,11 @@
 #### WAR DOG AMALGAMITE
 
-| WAR DOG AMALGAMITE  |          **Level 2 Brute** |
-| :------------------ | -------------------------: |
-| *Humanoid, War Dog* |                  **EV 15** |
-| **Stamina**: 35     |              **Weakness**: |
-| **Speed**: 5        | **Size**: 1M / Stability 0 |
-|                     |     **[[Free Strike]]**: 4 |
+| WAR DOG AMALGAMITE  |         **Level 2 Brute** |
+| :------------------ | ------------------------: |
+| *Humanoid, War Dog* |                 **EV 15** |
+| **Stamina**: 35     |             **Weakness**: |
+| **Speed**: 5        | **Size**: 2 / Stability 2 |
+|                     |    **[[Free Strike]]**: 4 |
 
 | **Might** +2 | **Agility** 0 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ------------ | ------------- | ------------ | --------------- | -------------- |
@@ -13,22 +13,19 @@
 
 **Several Arms (Signature)**
 
-|                                 |                                |
-| :------------------------------ | :----------------------------- |
-| Keywords: Attack, Melee, Weapon | Type: Action                   |
-| Distance: Reach 2               | Target: One creature or object |
+|                                 |                                  |
+| :------------------------------ | :------------------------------- |
+| Keywords: Attack, Melee, Weapon | Type: Action                     |
+| Distance: Melee 2               | Target: Two creatures or objects |
 
 **2d10 + 2**
 
-- ✦ ≤11: 4 damage
-- ★ 12–16: 7 damage; [[Grabbed|grabbed]]
-- ✸ 17+: 10 damage; [[Grabbed|grabbed]]
+- ✦ ≤11: 3 damage; A1 [[Grabbed|grabbed]]
+- ★ 12–16: 4 damage; A2 [[Grabbed|grabbed]]
+- ✸ 17+: 5 damage; A3 [[Grabbed|grabbed]]
 
-****Special****
+**Special**
 The amalgamite can [[Grab|grab]] up to four creatures.
-
-****5 VP****
-The amalgamite deals 4 damage to each creature they have [[Grabbed|grabbed]], and regains Stamina equal to the damage dealt.
 
 **Posthumous Promotion**
 

@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # Knowledge Domain Effect
 
-Choose up to three allies within 10 squares of you. Each ally has a double edge on the next power roll they make.
+Choose up to **three allies** within **10 squares** of you. Each ally has an **edge** on the next ability they use before the end of their next turn.

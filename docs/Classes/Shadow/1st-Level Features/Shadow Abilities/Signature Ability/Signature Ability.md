@@ -12,10 +12,10 @@ kind: 1st-level features
 
 Select one signature ability from the options below. Signature abilities can be used at will.
 
-[DISTRACTING PAIN](./Distracting%20Pain.md)
+[GASPING IN PAIN](./Gasping%20In%20Pain.md)
 
 [I WORK BETTER ALONE](./I%20Work%20Better%20Alone.md)
 
-[SHOT AND STEP](./Shot%20And%20Step.md)
+[TEAMWORK HAS ITS PLACE](./Teamwork%20Has%20Its%20Place.md)
 
-[SUCKER SLICE](./Sucker%20Slice.md)
+[YOU WERE WATCHING THE WRONG ONE](./You%20Were%20Watching%20The%20Wrong%20One.md)

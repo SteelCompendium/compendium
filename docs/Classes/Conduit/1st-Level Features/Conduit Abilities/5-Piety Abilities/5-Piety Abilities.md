@@ -12,10 +12,10 @@ kind: 1st-level features
 
 Choose one heroic ability from the following options, each of which costs 5 piety to use.
 
-[ARMOR OF THE FAITHFUL (5 PIETY)](./Armor%20Of%20The%20Faithful.md)
+[CORRUPTION'S CURSE (5 PIETY)](./Corruptions%20Curse.md)
 
-[DIVINE WEAKNESS (5 PIETY)](./Divine%20Weakness.md)
+[CURSE OF TERROR (5 PIETY)](./Curse%20Of%20Terror.md)
 
-[TERRIFYING SMITE (5 PIETY)](./Terrifying%20Smite.md)
+[FAITH IS OUR ARMOR (5 PIETY)](./Faith%20Is%20Our%20Armor.md)
 
-[WAVE OF VIRTUE (5 PIETY)](./Wave%20Of%20Virtue.md)
+[SERMON OF GRACE (5 PIETY)](./Sermon%20Of%20Grace.md)

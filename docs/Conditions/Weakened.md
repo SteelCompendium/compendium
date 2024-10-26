@@ -8,4 +8,4 @@ type: conditions
 
 # Weakened
 
-While you are weakened, all your ability power rolls and tests (but not resistance rolls) take a bane.
+While you are weakened, all your ability rolls and tests (but not resistance rolls) take a bane.

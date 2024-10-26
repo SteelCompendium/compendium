@@ -13,7 +13,7 @@ keyword_list:
   - Melee
   - Weapon
 ability_type: Action
-distance: Reach 1
+distance: Reach
 target: 1 creature or object
 ---
 
@@ -24,12 +24,10 @@ A savage assault forces your foes back.
 |                                             |                                  |
 | :------------------------------------------ | :------------------------------- |
 | **Keywords:** Animal, Attack, Melee, Weapon | **Type:** Action                 |
-| **Distance:** Reach 1                       | **Target:** 1 creature or object |
+| **Distance:** Reach                         | **Target:** 1 creature or object |
 
 **Power Roll + Might:**
 
-- 11 or lower: 5 damage
-- 12–16: 9 damage; push 1
-- 17+: 12 damage; push 2; prone if the target is your size or smaller
-
-**Effect:** You can shift up to 2 squares as long as you end the shift adjacent to the target.
+- 11 or lower: 4 damage; A \[weak\] prone
+- 12–16: 5 damage; A \[average\] prone
+- 17+: 7 damage; A \[strong\] prone

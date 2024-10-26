@@ -7,7 +7,7 @@
 | **Speed**: 7        | **Size**: 1M / Stability 0 |
 |                     |     **[[Free Strike]]**: 2 |
 
-| **Might** +1 | **Agility** 0 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
+| **Might** +2 | **Agility** 0 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ------------ | ------------- | ------------ | --------------- | -------------- |
 |              |               |              |                 |                |
 
@@ -16,15 +16,15 @@
 |                                                     |                                 |
 | :-------------------------------------------------- | :------------------------------ |
 | Keywords: Attack, [[Charge]], Melee, Ranged, Weapon | Type: Action                    |
-| Distance: Reach 1 or Ranged 5                       | Target: One creature per minion |
+| Distance: Melee 1 or Ranged 5                       | Target: One creature per minion |
 
-**2d10 + 1**
+**2d10 + 2**
 
 - ✦ ≤11: 2 damage
 - ★ 12–16: 3 damage
 - ✸ 17+: 4 damage
 
-Effect: If this ability is used as part of the [[Charge]] action, the conscript gains an edge on the power roll.
+Effect: If this ability is used as part of the [[Charge]] action, the conscript has **edge** on the attack.
 
 **Loyalty Collar**
 

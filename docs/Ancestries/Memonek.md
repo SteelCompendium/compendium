@@ -16,7 +16,9 @@ type: ancestries
 
 The native denizens of Axiom, the Plane of Uttermost Law, memonek dwell in a land with lakes and trees and birds and flowers. But on this alien world, the lakes are seas of mercury, the birds glitter with wings of glass stretched gossamer thin, and the flowers' petals are iridescent metal as flexible and fragile as any earthly rose.
 
-The minds of memonek are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Orden where law and chaos mix, a sickness comes over them—an uncontrollable sensation called … emotion.
+The minds of memonek are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Orden where law and chaos mix, a sickness comes over them—an uncontrollable sensation called emotion.
+
+Draw Steel © 2024 MCDM Productions, LLC
 
 ## On Memonek
 
@@ -78,7 +80,7 @@ Sir John and Count Revile, both tacticians, stood together on the bloody battlef
 
 “John, I fear this may get worse before it gets better.”
 
-“So, just like everything else?” He clapped the memonek on the shoulder. “Don't worry, we'll help you get through it. I'll let the others know. Once they understand, they'll help too. They'll probably just take the piss out of you. That'll help, you'll love that.”
+“So, just like everything else?” He clapped the memonek on the shoulder. “Don't worry, we'll get through it together. I'll let the others know. Once they understand, they'll help too. They'll probably just take the piss out of you. That'll help, you'll love that.”
 
 “You're a good friend, John.”
 
@@ -90,12 +92,42 @@ John laughed and put his arm around his friend as they headed back to the party.
 
 ## Memonek Benefits
 
-As a memonek character, you have the following benefits:
+**Memonek heroes have access to the following traits.**
 
-## Lightweight
+### Signature Trait: Aerodynamic
 
-Your silicone body is aerodynamic and low in density. Your speed is 7, and whenever you fall, you reduce the distance of the fall by 2 squares. Additionally, your stability decreases by 2 to a minimum of 0. When you are force moved, you are force moved an additional 2 squares.
+Your silicone body is aerodynamic and low in density. Whenever you fall, you reduce the distance of the fall by 2 squares.
 
-## Keeper Of Order
+### Signature Trait: Lightweight
 
-When you or a creature adjacent to you makes a power roll, you can remove an edge or a bane on the roll as a free triggered action. You can only use this benefit once per round.
+Your body is light for a creature of your height. Your size is considered 1S when being force moved by another creature.
+
+Draw Steel © 2024 MCDM Productions, LLC
+
+### Purchased Memonek Traits
+
+You have 4 ancestry points to spend on the following traits.
+
+#### I Am Law (costs 1 Point)
+
+Your lawful nature and quick reflexes give no quarter to enemies trying to get around you. Enemy creatures can't pass through your space unless you allow them to do so.
+
+#### Systematic Mind (costs 1 Point)
+
+You have an edge on tests to parse schematics, maps, and other systematic documentation that aren't inherently chaotic. In addition, you interact with any language you don't know as if you know a related language, whether or not you actually do.
+
+#### Unphased (costs 1 Point)
+
+Your ordered mind can't be caught off guard. You can't be surprised.
+
+#### Keeper Of Order (costs 2 Points)
+
+Your connection to Axiom, the plane of uttermost law, allows you to manage chaos around you. When you or a creature adjacent to you makes a power roll, you can remove an edge or a bane on the roll as a free triggered action. You can only use this benefit once per round.
+
+#### Lightning Nimbleness (costs 2 Points)
+
+You can push your body to move at incredible speeds. Your speed is 7.
+
+#### Nonstop (costs 2 Points)
+
+Your connection to Axiom allows you to regulate your movements, even when other creatures would be forced to pause. You can't be [[Slowed|slowed]].

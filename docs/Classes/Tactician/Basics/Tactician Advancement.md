@@ -10,8 +10,8 @@ kind: basics
 
 # Tactician Advancement
 
-| Level | Features                                                                                                       | Abilities                            |
-| ----- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| 1st   | Tactical Doctrine, Focus, Mark, Seize the Opening, Doctrine Features, Doctrine Triggered Action, Field Arsenal | Field Arsenal, 3, 5                  |
-| 2nd   | Doctrine Features, Doctrine Ability                                                                            | Field Arsenal, 3, 5, 5 (Doctrine)    |
-| 3rd   | All According to Plan, 7-Focus Ability                                                                         | Field Arsenal, 3, 5, 5 (Doctrine), 7 |
+| Level | Features                                                                                                            | Abilities | Doctrine Abilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------- | --------- | ------------------ |
+| 1st   | Tactical Doctrine, Focus, Doctrine Features, Triggered Action, Field Arsenal, Mark, Strike Now, Tactician Abilities | 3, 5      | —                  |
+| 2nd   | Battlefield Awareness, Doctrine Features, Perk, Doctrine Ability                                                    | 3, 5      | 5                  |
+| 3rd   | Out of Position, Focus Ability                                                                                      | 3, 5, 7   | 5                  |

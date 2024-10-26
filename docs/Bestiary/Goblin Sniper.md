@@ -7,7 +7,7 @@
 | **Speed**: 5 (climb)      |   **Size**: 1S / Stability 0 |
 |                           |       **[[Free Strike]]**: 2 |
 
-| **Might** -2 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** -1 |
+| **Might** -2 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** -1 |
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
@@ -18,13 +18,13 @@
 | Keywords: Attack, Ranged, Weapon | Type: Action                              |
 | Distance: Ranged 10              | Target: One creature or object per minion |
 
-**2d10 + 1**
+**2d10 + 2**
 
 - ✦ ≤11: 2 damage
 - ★ 12–16: 4 damage
 - ✸ 17+: 5 damage
 
-Effect: If the [[Sniper|sniper]] doesn’t use a maneuver or a move action this turn, the ability deals an extra 2 damage.
+Effect: If the [[Sniper|sniper]] doesn’t use a maneuver or a move action this turn, the ability has edge.
 
 **Crafty**
 

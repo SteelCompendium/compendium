@@ -13,21 +13,21 @@ keyword_list:
   - Melee
   - Weapon
 ability_type: Action
-distance: Reach 1
-target: 2 creatures or objects
+distance: Melee 1
+target: 1 creature or object
 ---
 
 # Bear Claws
 
 Attacks with your sharp and deadly claws send your foes staggering back.
 
-|                                             |                                    |
-| :------------------------------------------ | :--------------------------------- |
-| **Keywords:** Animal, Attack, Melee, Weapon | **Type:** Action                   |
-| **Distance:** Reach 1                       | **Target:** 2 creatures or objects |
+|                                             |                                  |
+| :------------------------------------------ | :------------------------------- |
+| **Keywords:** Animal, Attack, Melee, Weapon | **Type:** Action                 |
+| **Distance:** Melee 1                       | **Target:** 1 creature or object |
 
 **Power Roll + Might:**
 
-- 11 or lower: 2 damage; push 1
-- 12–16: 3 damage; push 2
-- 17+: 8 damage; push 3
+- 11 or lower: 2 damage; M \[weak\] grabbed
+- 12–16: 3 damage; M \[average\] grabbed
+- 17+: 8 damage; M \[strong\] grabbed

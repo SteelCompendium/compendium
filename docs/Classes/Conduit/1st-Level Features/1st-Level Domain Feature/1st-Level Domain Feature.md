@@ -1,8 +1,8 @@
 ---
 title_raw: 1st-level Domain Feature
-title: 1St-Level Domain Feature
+title: 1st-Level Domain Feature
 name_raw: 1st-level Domain Feature
-name: 1St-Level Domain Feature
+name: 1st-Level Domain Feature
 type: classes
 subtype: conduit
 kind: 1st-level features
@@ -14,26 +14,26 @@ You gain a domain feature from one of your domains, as shown on the 1st-Level Co
 
 [1ST-LEVEL CONDUIT DOMAIN FEATURES](./1st-Level%20Conduit%20Domain%20Features.md)
 
-[ALERTNESS WARD](./Alertness%20Ward.md)
+[BLESSING OF COMPASSION](./Blessing%20Of%20Compassion.md)
 
-[ANIMAL SPIRIT](./Animal%20Spirit.md)
+[BLESSING OF FORTUNATE WEATHER](./Blessing%20Of%20Fortunate%20Weather.md)
 
-[COMPASSIONATE AURA](./Compassionate%20Aura.md)
+[BLESSING OF COMPREHENSION](./Blessing%20Of%20Comprehension.md)
 
-[CONTROL WEATHER](./Control%20Weather.md)
+[FAITHFUL FRIEND](./Faithful%20Friend.md)
 
-[CYPHER MIND](./Cypher%20Mind.md)
+[GRAVE SPEECH](./Grave%20Speech/Grave%20Speech.md)
 
-[DIVINE THIEVERY](./Divine%20Thievery.md)
-
-[FATE TRANCE](./Fate%20Trance.md)
-
-[GRAVE SPEECH](./Grave%20Speech.md)
-
-[HANDS OF THE MAKER](./Hands%20Of%20The%20Maker.md)
+[HANDS OF THE MAKER](./Hands%20Of%20The%20Maker/Hands%20Of%20The%20Maker.md)
 
 [INNER LIGHT](./Inner%20Light.md)
 
+[INSPIRED DECEPTION](./Inspired%20Deception.md)
+
+[ORACULAR VISIONS](./Oracular%20Visions.md)
+
+[PROTECTIVE CIRCLE](./Protective%20Circle.md)
+
 [REVITALIZING RITUAL](./Revitalizing%20Ritual.md)
 
-[RITUAL OF PREPARATION](./Ritual%20Of%20Preparation.md)
+[SANCTIFIED WEAPON](./Sanctified%20Weapon.md)

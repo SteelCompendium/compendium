@@ -12,9 +12,13 @@ kind: 1st-level features
 
 Your doctrine grants you a triggered action, as shown on the Tactician Triggered Actions table.
 
-[TACTICIAN TRIGGERED ACTIONS](./Tactician%20Triggered%20Actions.md)
+| Doctrine   | Triggered Action |
+| ---------- | ---------------- |
+| Vanguard   | Parry            |
+| Mastermind | Overwatch        |
+| Insurgent  | Dirty Tricks     |
 
-[FLANK THEM NOW!](./Flank%20Them%20Now.md)
+[ADVANCED TACTICS](./Advanced%20Tactics.md)
 
 [PARRY](./Parry.md)
 

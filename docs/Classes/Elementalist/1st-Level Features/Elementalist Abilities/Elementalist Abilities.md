@@ -12,10 +12,6 @@ kind: 1st-level features
 
 Your mastery of elemental magic grants you unique magical abilities that let you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you.
 
-[SIGNATURE ABILITY](./Signature%20Ability/Signature%20Ability.md)
+[SIGNATURE ABILITIES](./Signature%20Abilities/Signature%20Abilities.md)
 
-[HEROIC ABILITIES](./Heroic%20Abilities.md)
-
-[3-ESSENCE ABILITIES](./3-Essence%20Abilities/3-Essence%20Abilities.md)
-
-[5-ESSENCE ABILITIES](./5-Essence%20Abilities/5-Essence%20Abilities.md)
+[HEROIC ABILITIES](./Heroic%20Abilities/Heroic%20Abilities.md)

@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # Nature Domain Effect
 
-Vines whip up from the floor or ground around a creature of your choice within 10 squares of you, then slide that creature a number of squares equal to 3 times your Intuition score.
+Vines whip up from the floor or ground around a number of creatures of your choice within **10 squares** of you equal to your Intuition score. You can slide each creature up to a number of squares equal to your Intuition score.

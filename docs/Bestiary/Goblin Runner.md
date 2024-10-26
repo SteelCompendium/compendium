@@ -7,7 +7,7 @@
 | **Speed**: 6 (climb) | **Size**: 1S / Stability 0 |
 |                      |     **[[Free Strike]]**: 2 |
 
-| **Might** -2 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** -1 |
+| **Might** -2 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** -1 |
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
@@ -16,9 +16,9 @@
 |                                             |                                           |
 | :------------------------------------------ | :---------------------------------------- |
 | Keywords: Attack, [[Charge]], Melee, Weapon | Type: Action                              |
-| Distance: Reach 1                           | Target: One creature or object per minion |
+| Distance: Melee 1                           | Target: One creature or object per minion |
 
-**2d10 + 1**
+**2d10 + 2**
 
 - ✦ ≤11: 2 damage
 - ★ 12–16: 3 damage

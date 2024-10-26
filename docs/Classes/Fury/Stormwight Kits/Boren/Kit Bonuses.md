@@ -12,4 +12,4 @@ kind: stormwight kits
 
 - **Stamina Bonus:** +9
 - **Stability Bonus:** +2
-- **Melee Weapon Damage Bonus:** +0/+0/+4
+- **Melee Weapon Damage Bonus:** +0/+0/+3

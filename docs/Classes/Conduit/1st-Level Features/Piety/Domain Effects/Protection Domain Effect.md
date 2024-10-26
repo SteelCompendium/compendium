@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # Protection Domain Effect
 
-An ally of your choice within 10 squares of you gains damage immunity equal to your Intuition score plus your level, which lasts until the end of your next turn.
+An ally of your choice within **10 squares** of you gains **resistance to all damage**, which lasts until the end of your next turn.

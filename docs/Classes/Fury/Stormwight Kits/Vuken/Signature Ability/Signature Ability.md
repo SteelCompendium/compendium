@@ -11,5 +11,3 @@ kind: stormwight kits
 # Signature Ability
 
 [PROBING ATTACK](./Probing%20Attack.md)
-
-[WOLF GROWING RAGE](./Wolf%20Growing%20Rage.md)

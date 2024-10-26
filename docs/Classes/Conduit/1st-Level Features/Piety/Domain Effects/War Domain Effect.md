@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # War Domain Effect
 
-Your attacks deal extra damage equal to twice your Intuition score until the end of your next turn.
+Your abilities gain **additional damage** until the end of your turn.

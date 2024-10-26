@@ -14,7 +14,7 @@ Rewards for tests made with crafting skills typically include having leftover ra
 
 Failure consequences for tests made with crafting skills typically include wasting rare materials used in the creation process, greatly overestimating or underestimating an item's value, and poorly jury-rigging a contraption so that it harms people (or at least the wrong people).
 
-## Crafting Skills Table
+## Crafting Skills
 
 | Skill         | Use                                                |
 | ------------- | -------------------------------------------------- |

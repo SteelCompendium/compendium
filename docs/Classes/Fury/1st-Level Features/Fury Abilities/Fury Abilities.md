@@ -14,8 +14,4 @@ You specialize in dealing massive damage on the battlefield, mastering a number 
 
 [SIGNATURE ABILITY](./Signature%20Ability/Signature%20Ability.md)
 
-[HEROIC ABILITIES](./Heroic%20Abilities.md)
-
-[3-RAGE ABILITIES](./3-Rage%20Abilities/3-Rage%20Abilities.md)
-
-[5-RAGE ABILITIES](./5-Rage%20Abilities/5-Rage%20Abilities.md)
+[HEROIC ABILITIES](./Heroic%20Abilities/Heroic%20Abilities.md)

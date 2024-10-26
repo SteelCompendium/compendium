@@ -14,7 +14,7 @@ All stormwight kits have the following features in common.
 
 [ASPECT BENEFITS](./Aspect%20Benefits.md)
 
-[ANIMAL FORM](./Animal%20Form.md)
+[ASPECT OF THE WILD](./Aspect%20Of%20The%20Wild/Aspect%20Of%20The%20Wild.md)
 
 [PRIMORDIAL STORM](./Primordial%20Storm.md)
 

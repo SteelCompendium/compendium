@@ -13,23 +13,22 @@ keyword_list:
   - Melee
   - Weapon
 ability_type: Action
-distance: Reach 1
-target: 2 creatures or objects
+distance: Reach
+target: 1 creature or object
 ---
 
 # Driving Pounce
 
 Your enemies try in vain to fall back from your pouncing attack.
 
-|                                             |                                    |
-| :------------------------------------------ | :--------------------------------- |
-| **Keywords:** Animal, Attack, Melee, Weapon | **Type:** Action                   |
-| **Distance:** Reach 1                       | **Target:** 2 creatures or objects |
+|                                             |                                  |
+| :------------------------------------------ | :------------------------------- |
+| **Keywords:** Animal, Attack, Melee, Weapon | **Type:** Action                 |
+| **Distance:** Reach                         | **Target:** 1 creature or object |
 
 **Power Roll + Agility:**
 
 - 11 or lower: 4 damage
 - 12–16: 5 damage; push 1
-- 17+: 6 damage; push 2
-
-**Effect:** Resolve each attack one at a time. After each attack, you can shift the same number of squares that you pushed the target. You select your second target from the square where you end your shift, which can be the first target again.
+- 17+: 7 damage; push 2\
+  **Effect:** You can shift the same number of squares that you pushed the target.

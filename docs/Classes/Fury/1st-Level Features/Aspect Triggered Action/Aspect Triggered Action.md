@@ -12,10 +12,14 @@ kind: 1st-level features
 
 Your primordial aspect grants you a triggered action, as shown on the Fury Triggered Actions table.
 
-[FURY TRIGGERED ACTIONS](./Fury%20Triggered%20Actions.md)
+| Aspect     | Triggered Action   |
+| ---------- | ------------------ |
+| Berserker  | Lines of Force     |
+| Reaver     | Unearthly Reflexes |
+| Stormwight | Furious Change     |
 
-[REGENERATION](./Regeneration.md)
+[FURIOUS CHANGE](./Furious%20Change.md)
 
-[RELENTLESS TOSS](./Relentless%20Toss.md)
+[LINES OF FORCE](./Lines%20Of%20Force.md)
 
-[UNCANNY DODGE](./Uncanny%20Dodge.md)
+[UNEARTHLY REFLEXES](./Unearthly%20Reflexes.md)
