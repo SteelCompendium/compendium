@@ -37,4 +37,4 @@ Lightning [[Jump|jumps]] from your weapon as you strike to harm a nearby foe.\
 - 12–16: 7 lightning damage
 - 17+: 9 lightning damage
 
-*Effect:* A creature or object within 2 squares of your target takes \[SURGE\] lightning damage.
+*Effect:* A creature or object within 2 squares of your target takes (SURGE) lightning damage.

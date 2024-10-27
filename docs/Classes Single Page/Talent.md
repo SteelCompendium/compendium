@@ -193,7 +193,7 @@ You gain access to the following triggered action:
 
 **Trigger:** The target takes damage or is force moved.
 
-**Effect:** The target gains [SHIELD](#shield) against the damage, or the force movement distance is reduced by an amount equal to your Reason score. If they were both damaged and force moved, you choose which is affected. If any forced movement was reduced to 0, the source of the forced movement is pushed a number of squares equal to your Reason, originating from the target. You gain 1 clarity.
+**Effect:** The target gains (SHIELD) against the damage, or the force movement distance is reduced by an amount equal to your Reason score. If they were both damaged and force moved, you choose which is affected. If any forced movement was reduced to 0, the source of the forced movement is pushed a number of squares equal to your Reason, originating from the target. You gain 1 clarity.
 
 ### Mind Focus
 
@@ -233,7 +233,7 @@ You make yourself an invisible ward of telekinetic energy. When an adjacent crea
 
 #### Steel Ward
 
-Your ward reacts to danger, protecting your body from future harm. When you take damage, the damage resolves and then you gain [SHIELD](#shield) until the end of your next turn.
+Your ward reacts to danger, protecting your body from future harm. When you take damage, the damage resolves and then you gain (SHIELD) until the end of your next turn.
 
 #### Vanishing Ward
 
@@ -309,7 +309,7 @@ Select two signature abilities. Signature abilities can be used at will.
 - 17+: 4 damage; M \[strong\] prone
 
 **Effect:** When targeting an object with a solid reflective surface, such as a mirror, a shield, or metal armor, you can choose an additional target within 3 of the reflective surface.\
-**Strained:** You have a \[SURGE\] on the attack. Enemies have a \[SURGE\] on attacks made against you until the start of your next turn.
+**Strained:** You have a (SURGE) on the attack. Enemies have a (SURGE) on attacks made against you until the start of your next turn.
 
 ##### Spirit Sword
 
@@ -321,7 +321,7 @@ Select two signature abilities. Signature abilities can be used at will.
 - 12-16: 5 damage
 - 17+: 7 damage
 
-**Effect:** The next attack against the target has a \[SURGE\].\
+**Effect:** The next attack against the target has a (SURGE).\
 **Strained:** The attack deals an extra 3 damage to the target and yourself. This damage ignores your immunities.
 
 #### Heroic Abilities
@@ -360,7 +360,7 @@ Choose one heroic ability from the following options:
 
 *You give a target a glimpse into the future so that they're ready for what comes next.*
 
-**Effect:** The target has [SHIELD](#shield) until the start of your next turn. Whenever the target takes damage while they have this effect, they can take a free strike against the source of the damage.
+**Effect:** The target has (SHIELD) until the start of your next turn. Whenever the target takes damage while they have this effect, they can take a free strike against the source of the damage.
 
 ###### Smolder (3 Clarity)
 
@@ -396,7 +396,7 @@ Choose one heroic ability from the following options:
 
 *The target's skin turns to hard, dark metal, both impenetrable and dense.*
 
-**Effect:** The target's stability increases by 5, and they have [SHIELD](#shield) and a \[SURGE\] on weapon attacks until the start of your next turn.\
+**Effect:** The target's stability increases by 5, and they have (SHIELD) and a (SURGE) on weapon attacks until the start of your next turn.\
 **Strained:** You cannot use maneuvers (save ends).
 
 ###### Perfect Clarity (5 Clarity)
@@ -440,11 +440,11 @@ Whenever you land from falling, or a falling creature lands within 2 of you, you
 
 #### Extra Shield
 
-Your [SHIELD](#shield) limit increases by 1, for a maximum of [SHIELD](#shield)[SHIELD](#shield).
+Your (SHIELD) limit increases by 1, for a maximum of (SHIELD)(SHIELD)(SHIELD)(SHIELD).
 
 #### Extra Surge
 
-Your \[SURGE\] limit increases by 1, for a maximum of \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\].
+Your (SURGE) limit increases by 1, for a maximum of (SURGE)(SURGE)(SURGE)(SURGE).
 
 ### 5-clarity Tradition Ability
 
@@ -567,7 +567,7 @@ Choose one heroic ability from the following options:
 
 *Three spheres of solid psionic energy float around you.*
 
-**Effect:** You create three size 1T orb objects that orbit your body. You have a [SHIELD](#shield) for each orb you have active. Whenever you take damage, you lose 1 orb.\
+**Effect:** You create three size 1T orb objects that orbit your body. You have a (SHIELD) for each orb you have active. Whenever you take damage, you lose 1 orb.\
 You can use a free maneuver to fire an orb at a creature or object within 5 as a ranged attack on each of your turns, losing the orb after the attack.
 
 **Power Roll + Reason:**
@@ -595,5 +595,5 @@ You can use a free maneuver to fire an orb at a creature or object within 5 as a
 - 12-16: 7 damage; P \[average\] dazed (save ends)
 - 17+: 11 damage; P \[strong\] dazed (save ends)
 
-**Effect:** After resolving the power roll, attacks and abilities used against the target have a \[SURGE\], and the target has a bane on presence tests until the end of the encounter.\
-**Strained:** The potency of this ability increases by 1. You take 2d6 damage and attacks and abilities used against you have a \[SURGE\] until the end of the encounter.
+**Effect:** After resolving the power roll, attacks and abilities used against the target have a (SURGE), and the target has a bane on presence tests until the end of the encounter.\
+**Strained:** The potency of this ability increases by 1. You take 2d6 damage and attacks and abilities used against you have a (SURGE) until the end of the encounter.

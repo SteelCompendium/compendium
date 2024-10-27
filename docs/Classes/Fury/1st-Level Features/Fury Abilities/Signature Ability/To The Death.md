@@ -30,4 +30,4 @@ Your reckless assault leaves you tactically vulnerable.
 - 11 or lower: 3 damage
 - 12–16: 6 damage
 - 17+: 9 damage\
-  **Effect:** You can choose to do \[SURGE\] to the target. If you do, the target gains \[SURGE\] on their next attack against you.
+  **Effect:** You can choose to do (SURGE) to the target. If you do, the target gains (SURGE) on their next attack against you.

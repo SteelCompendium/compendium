@@ -33,4 +33,4 @@ target: 1 creature or object
 - 17+: 4 damage; M \[strong\] prone
 
 **Effect:** When targeting an object with a solid reflective surface, such as a mirror, a shield, or metal armor, you can choose an additional target within 3 of the reflective surface.\
-**Strained:** You have a \[SURGE\] on the attack. Enemies have a \[SURGE\] on attacks made against you until the start of your next turn.
+**Strained:** You have a (SURGE) on the attack. Enemies have a (SURGE) on attacks made against you until the start of your next turn.

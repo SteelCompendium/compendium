@@ -28,6 +28,6 @@ Your friends will thank you.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 6 damage; R \[weak\] When the target takes damage from an ability, the ability gains \[SURGE\] (save ends)
-- 12–16: 9 damage; R \[average\] When the target takes damage from an ability, the ability gains \[SURGE\]\[SURGE\] (save ends)
-- 17+: 13 damage; R \[strong\] When the target takes damage from an ability, the ability gains \[SURGE\]\[SURGE\]\[SURGE\] (save ends)
+- 11 or lower: 6 damage; R \[weak\] When the target takes damage from an ability, the ability gains (SURGE) (save ends)
+- 12–16: 9 damage; R \[average\] When the target takes damage from an ability, the ability gains (SURGE)(SURGE) (save ends)
+- 17+: 13 damage; R \[strong\] When the target takes damage from an ability, the ability gains (SURGE)(SURGE)(SURGE) (save ends)

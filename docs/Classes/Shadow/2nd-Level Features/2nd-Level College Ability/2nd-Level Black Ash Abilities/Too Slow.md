@@ -29,4 +29,4 @@ Your foe made a big mistake.
 | **Distance:** Self                          | **Target:** Special             |
 
 **Trigger:** You use In All This Confusion.\
-**Effect:** You gain an additional [SHIELD](#shield) against the triggering attack. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.
+**Effect:** You gain an additional (SHIELD) against the triggering attack. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.

@@ -26,4 +26,4 @@ You ready?
 | **Keywords:** Attack, Melee, Weapon | **Type:** Maneuver         |
 | **Distance:** Melee 1               | **Target:** 1 willing ally |
 
-**Effect:** You vertically push 4 the target. The target can decline to use their Stability. At the end of the push, the target can make a free strike with \[SURGE\]. You force move the target carefully enough that they do not take damage from the move.
+**Effect:** You vertically push 4 the target. The target can decline to use their Stability. At the end of the push, the target can make a free strike with (SURGE). You force move the target carefully enough that they do not take damage from the move.

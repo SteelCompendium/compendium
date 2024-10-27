@@ -10,4 +10,4 @@ kind: 2nd-level features
 
 # Trained Assassin
 
-Whenever you make an attack with at least one \[SURGE\] and no banes against a target, the attack gains an extra \[SURGE\].
+Whenever you make an attack with at least one (SURGE) and no banes against a target, the attack gains an extra (SURGE).

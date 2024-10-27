@@ -26,4 +26,4 @@ target: Self or 1 ally
 | **Keywords:** Chronopathy, Melee, Psionic | **Type:** Action           |
 | **Distance:** Self or Melee 2             | **Target:** Self or 1 ally |
 
-**Effect:** The target has [SHIELD](#shield) until the start of your next turn. Whenever the target takes damage while they have this effect, they can take a free strike against the source of the damage.
+**Effect:** The target has (SHIELD) until the start of your next turn. Whenever the target takes damage while they have this effect, they can take a free strike against the source of the damage.

@@ -25,4 +25,4 @@ target: All enemies
 | **Keywords:** Area, Magic | **Type:** Maneuver      |
 | **Distance:** 3 Burst     | **Target:** All enemies |
 
-- **Effect:** Each target takes \[SURGE\] holy damage. Any hidden enemies are automatically revealed and cannot hide again until the beginning of your next turn.
+- **Effect:** Each target takes (SURGE) holy damage. Any hidden enemies are automatically revealed and cannot hide again until the beginning of your next turn.

@@ -32,4 +32,4 @@ It's better, just you and me. Isn't it?
 - 12–16: 5 damage
 - 17+: 7 damage
 
-**Effect:** If the target has no allies adjacent to them, you gain \[SURGE\] on the attack.
+**Effect:** If the target has no allies adjacent to them, you gain (SURGE) on the attack.

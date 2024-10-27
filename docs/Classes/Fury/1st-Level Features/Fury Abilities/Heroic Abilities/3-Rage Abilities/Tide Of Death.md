@@ -33,4 +33,4 @@ Teach them the folly of lining up for you.
 - 11 or lower: 2 damage
 - 12–16: 3 damage
 - 17+: 5 damage\
-  **Effect:** The target takes an extra \[SURGE\] for every free strike you triggered from your move.
+  **Effect:** The target takes an extra (SURGE) for every free strike you triggered from your move.

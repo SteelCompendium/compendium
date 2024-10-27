@@ -31,4 +31,4 @@ They can't watch both of you at once.
 - 12–16: 6 damage
 - 17+: 9 damage
 
-**Effect:** If you are flanking the target when you make this attack, choose one ally who is flanking with you. That ally has \[SURGE\] on melee attacks against the target until the end of the ally's next turn, even if they are no longer flanking the target.
+**Effect:** If you are flanking the target when you make this attack, choose one ally who is flanking with you. That ally has (SURGE) on melee attacks against the target until the end of the ally's next turn, even if they are no longer flanking the target.

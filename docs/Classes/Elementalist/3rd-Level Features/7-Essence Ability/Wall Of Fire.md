@@ -28,6 +28,6 @@ A blazing, beautifully organized inferno.
 | **Keywords:** Area, Fire, Magic, Persistent, Ranged | **Type:** Action    |
 | **Distance:** 10 wall within 10                     | **Target:** Special |
 
-**Effect:** You can place this wall in occupied squares. The wall lasts until the start of your next turn. Creatures can enter and pass through this wall. When an enemy enters the wall for the first time on a turn or starts their turn there, they take \[SURGE\]\[SURGE\] fire damage.
+**Effect:** You can place this wall in occupied squares. The wall lasts until the start of your next turn. Creatures can enter and pass through this wall. When an enemy enters the wall for the first time on a turn or starts their turn there, they take (SURGE)(SURGE) fire damage.
 
 **Persistent 1:** The effect lasts until the start of your next turn, and you can add a number of squares to the wall equal to your Reason score.

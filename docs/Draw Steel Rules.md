@@ -1502,7 +1502,7 @@ Your powerful legs improve your speed. Your speed becomes 6.
 ##### Glowing Eyes (Costs 1 point)
 
 Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a
-creature, you can use a triggered action to curse that creature for daring to do you harm. The creature takes \[SURGE\]
+creature, you can use a triggered action to curse that creature for daring to do you harm. The creature takes (SURGE)
 psychic damage.
 
 ##### Hellsight (Costs 1 point)
@@ -4350,7 +4350,7 @@ spent an amount of piety on it equal to your Victories.
 - **Target:** 1 enemy
 
 - **Effect:** You bank 1 or more judgment on the target. While a creature has at least 1 judgment on it, any targets
-  they attack gain \[SHIELD\].
+  they attack gain (SHIELD).
 
 Each judgment banked on the judged creature increases the effectiveness of your censor abilities, indicated on your
 order’s judgment type table below. A creature stays judged until the end of the encounter while they have any judgment
@@ -4367,7 +4367,7 @@ When you bank judgment on a creature, you also gain one of the following benefit
 
 - **Exorcist:** You [[Teleport|teleport]] a distance equal to twice your Presence score. This movement must take you closer to the
   judged target. You do not need line of effect for this movement.
-- **Oracle:** You deal \[SURGE\] holy damage to the target and each enemy within 2 squares of the target.
+- **Oracle:** You deal (SURGE) holy damage to the target and each enemy within 2 squares of the target.
 - **Paragon:** You pull the target up to a number of squares equal to twice your Presence score.
 
 ##### EXORCIST RELENTLESS JUDGMENT
@@ -4376,25 +4376,25 @@ When you bank judgment on a creature, you also gain one of the following benefit
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2        | The target has a bane on all power rolls. Judgment from additional censors does not add more than one bane.                                                                                     |
 | 4        | The target is P \[weak\] [[Weakened\|weakened]] (save ends) whenever 1 or more judgment is added or removed from them, including the action that reached this level of judgment.                |
-| 6        | The target takes \[SURGE\] holy damage whenever they take any action or fail a save.                                                                                                            |
+| 6        | The target takes (SURGE) holy damage whenever they take any action or fail a save.                                                                                                              |
 | 8        | **Level 4** The target is P \[average\] [[Weakened\|weakened]] (save ends) whenever 1 or more judgment is added or removed from them, including the action that reached this level of judgment. |
-| 10       | **Level 7** The target takes \[SURGE\]\[SURGE\] holy damage whenever they take any action or fail a save.                                                                                       |
+| 10       | **Level 7** The target takes (SURGE)(SURGE) holy damage whenever they take any action or fail a save.                                                                                           |
 | 12       | **Level 10**                                                                                                                                                                                    |
 |          | - The target is P \[strong\] [[Weakened\|weakened]] (save ends) whenever 1 or more judgment is added or removed from them, including the action that reached this level of judgment.            |
 |          | - The target has a double bane on all power rolls.                                                                                                                                              |
 
 ##### ORACLE RELENTLESS JUDGMENT
 
-| Judgment | Benefit                                                                                                                                                                                                        |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2        | The target has a bane on all power rolls. Judgment from additional censors does not add more than one bane.                                                                                                    |
-| 4        | The target is P \[weak\], their attack targets gain \[SHIELD\] (save ends) whenever 1 or more judgment is added or removed from them, including the action that reached this level of judgment.                |
-| 6        | The target takes \[SURGE\] holy damage whenever they take any action or fail a save.                                                                                                                           |
-| 8        | **Level 4** The target is P \[average\], their attack targets gain \[SHIELD\] (save ends) whenever 1 or more judgment is added or removed from them, including the action that reached this level of judgment. |
-| 10       | **Level 7** The target takes \[SURGE\]\[SURGE\] holy damage whenever they take any action or fail a save.                                                                                                      |
-| 12       | **Level 10**                                                                                                                                                                                                   |
-|          | - The target is P \[strong\], their attack targets gain \[SHIELD\]\[SHIELD\] (save ends) whenever 1 or more judgment is added or removed from them, including the action that reached this level of judgment.  |
-|          | - The target has a double bane on all power rolls.                                                                                                                                                             |
+| Judgment | Benefit                                                                                                                                                                                                      |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2        | The target has a bane on all power rolls. Judgment from additional censors does not add more than one bane.                                                                                                  |
+| 4        | The target is P \[weak\], their attack targets gain (SHIELD) (save ends) whenever 1 or more judgment is added or removed from them, including the action that reached this level of judgment.                |
+| 6        | The target takes (SURGE) holy damage whenever they take any action or fail a save.                                                                                                                           |
+| 8        | **Level 4** The target is P \[average\], their attack targets gain (SHIELD) (save ends) whenever 1 or more judgment is added or removed from them, including the action that reached this level of judgment. |
+| 10       | **Level 7** The target takes (SURGE)(SURGE) holy damage whenever they take any action or fail a save.                                                                                                        |
+| 12       | **Level 10**                                                                                                                                                                                                 |
+|          | - The target is P \[strong\], their attack targets gain (SHIELD)(SHIELD) (save ends) whenever 1 or more judgment is added or removed from them, including the action that reached this level of judgment.    |
+|          | - The target has a double bane on all power rolls.                                                                                                                                                           |
 
 ##### PARAGON RELENTLESS JUDGMENT
 
@@ -4403,9 +4403,9 @@ When you bank judgment on a creature, you also gain one of the following benefit
 | 2        | - The target has a bane on all power rolls. Judgment from additional censors does not add more than one bane.                                                                               |
 |          | - The target is [[Taunted\|taunted]] by you while they have judgment on them.                                                                                                               |
 | 4        | The target is P \[weak\] [[Slowed\|slowed]] (save ends) whenever 1 or more judgment is added or removed from them, including the action that reached this level of judgment.                |
-| 6        | The target takes \[SURGE\] holy damage whenever they take an action or fail a save.                                                                                                         |
+| 6        | The target takes (SURGE) holy damage whenever they take an action or fail a save.                                                                                                           |
 | 8        | **Level 4** The target is P \[average\] [[Slowed\|slowed]] (save ends) whenever 1 or more judgment is added or removed from them, including the action that reached this level of judgment. |
-| 10       | **Level 7** The target takes \[SURGE\]\[SURGE\] holy damage whenever they take any action or fail a save.                                                                                   |
+| 10       | **Level 7** The target takes (SURGE)(SURGE) holy damage whenever they take any action or fail a save.                                                                                       |
 | 12       | **Level 10**                                                                                                                                                                                |
 |          | - The target is P \[strong\] [[Slowed\|slowed]] (save ends) whenever 1 or more judgment is added or removed from them, including the action that reached this level of judgment.            |
 |          | - The target has a double bane on all power rolls.                                                                                                                                          |
@@ -4625,7 +4625,7 @@ Select one signature ability from the options below. Signature abilities can be 
 
 - 17+: 6 psychic damage
 
-- **Effect:** Until the end of the target’s next turn, they take \[SURGE\] psychic damage each time they willingly move closer
+- **Effect:** Until the end of the target’s next turn, they take (SURGE) psychic damage each time they willingly move closer
   to you.
 
 ##### HALT, MISCREANT!
@@ -4696,7 +4696,7 @@ Choose one heroic ability from the following options.
 
 - 17+: 9 holy damage
 
-- **Effect:** Until the beginning of your next turn, you and all adjacent allies have \[SHIELD\] against the target’s attacks.
+- **Effect:** Until the beginning of your next turn, you and all adjacent allies have (SHIELD) against the target’s attacks.
 
 ###### DRIVING ASSAULT (3 JUDGMENT)
 
@@ -4784,7 +4784,7 @@ Choose one heroic ability from the following options.
 
 - 17+: 12 holy damage; [[Grabbed|grabbed]]
 
-- **Effect:** If the target makes an attack while [[Grabbed|grabbed]] by you, they take \[SURGE\] holy damage. When the target makes an
+- **Effect:** If the target makes an attack while [[Grabbed|grabbed]] by you, they take (SURGE) holy damage. When the target makes an
   attack while [[Grabbed|grabbed]] by you, you can spend 3 judgment to change the target of the attack to another target within the
   attack’s distance as a free triggered action.
 
@@ -4808,7 +4808,7 @@ Choose one heroic ability from the following options.
 
 - 17+: 8 holy damage; each enemy within 2 of the target is P \[weak\] [[Frightened|frightened]] (save ends)
 
-- **Effect:** Each enemy [[Frightened|frightened]] by this ability is pushed 2 away from the target and takes \[SURGE\] psychic damage.
+- **Effect:** Each enemy [[Frightened|frightened]] by this ability is pushed 2 away from the target and takes (SURGE) psychic damage.
 
 ###### CENSORED (5 JUDGMENT)
 
@@ -4861,7 +4861,7 @@ As a 2nd-level censor, you gain the following features:
 
 ### EXTRA SHIELD
 
-Your \[SHIELD\] limit increases by 1, for a maximum of \[SHIELD\]\[SHIELD\]\[SHIELD\]\[SHIELD\].
+Your (SHIELD) limit increases by 1, for a maximum of (SHIELD)(SHIELD)(SHIELD)(SHIELD).
 
 ### PERK
 
@@ -4933,7 +4933,7 @@ Choose one of the following abilities.
 
 - 17+: 12 holy damage; P \[strong\] [[Frightened|frightened]] (save ends)
 
-- **Effect:** If the target is already [[Frightened|frightened]] of you or another creature when you use this ability, they take \[SURGE\]\[SURGE\]
+- **Effect:** If the target is already [[Frightened|frightened]] of you or another creature when you use this ability, they take (SURGE)(SURGE)
   psychic damage.
 
 ##### REVELATOR (5 JUDGMENT)
@@ -4948,7 +4948,7 @@ Choose one of the following abilities.
 
 - **Target:** All enemies
 
-- **Effect:** Each target takes \[SURGE\] holy damage. Any hidden enemies are automatically revealed and cannot [[Hide|hide]] again until
+- **Effect:** Each target takes (SURGE) holy damage. Any hidden enemies are automatically revealed and cannot [[Hide|hide]] again until
   the beginning of your next turn.
 
 #### 2ND-LEVEL ORACLE ABILITIES
@@ -5003,7 +5003,7 @@ Choose one of the following abilities.
 
 - **Target:** Self and all allies
 
-- **Effect:** Until the end of the encounter or you become dying, each target in the aura gains \[SURGE\] on attacks.
+- **Effect:** Until the end of the encounter or you become dying, each target in the aura gains (SURGE) on attacks.
 
 ##### SENTENCED (5 JUDGMENT)
 
@@ -5034,7 +5034,7 @@ As a 3rd-level censor, you gain the following features.
 ### LOOK ON MY WORK AND DESPAIR
 
 Whenever you reduce a judged creature to 0 Stamina and judge a new target as a free triggered action, that new target is
-P \[average\] [[Frightened|frightened]] (save ends) of you. If the target is already [[Frightened|frightened]] of you, they take \[SURGE\]\[SURGE\] psychic damage.
+P \[average\] [[Frightened|frightened]] (save ends) of you. If the target is already [[Frightened|frightened]] of you, they take (SURGE)(SURGE) psychic damage.
 
 ### 7-JUDGMENT ABILITIES
 
@@ -5052,8 +5052,8 @@ Choose one heroic ability from the following options.
 
 - **Target:** All enemies
 
-- **Effect:** Until the end of the encounter or you are dying, when you begin your turn, each target takes \[SURGE\] holy damage
-  and \[SURGE\] additional holy damage if they are adjacent to another enemy. If a target is judged by you, they take an
+- **Effect:** Until the end of the encounter or you are dying, when you begin your turn, each target takes (SURGE) holy damage
+  and (SURGE) additional holy damage if they are adjacent to another enemy. If a target is judged by you, they take an
   additional 2d6 holy damage if they are adjacent to another enemy.
 
 #### EDICT OF PERFECT ORDER (7 JUDGMENT)
@@ -5069,7 +5069,7 @@ Choose one heroic ability from the following options.
 - **Target:** All enemies
 
 - **Effect:** Until the end of the encounter or you are dying, when a target uses an ability with the Magic keyword,
-  they take \[SURGE\]\[SURGE\] holy damage. If a target is judged by you, they take an additional 2d6 holy damage.
+  they take (SURGE)(SURGE) holy damage. If a target is judged by you, they take an additional 2d6 holy damage.
 
 #### EDICT OF PURIFYING PACIFISM (7 JUDGMENT)
 
@@ -5084,7 +5084,7 @@ Choose one heroic ability from the following options.
 - **Target:** All enemies
 
 - **Effect:** Until the end of the encounter or you are dying, when a target uses an ability with the Weapon keyword,
-  they take \[SURGE\]\[SURGE\] holy damage. If a target is judged by you, they take an additional 2d6 holy damage.
+  they take (SURGE)(SURGE) holy damage. If a target is judged by you, they take an additional 2d6 holy damage.
 
 #### EDICT OF STILLNESS (7 JUDGMENT)
 
@@ -5098,8 +5098,8 @@ Choose one heroic ability from the following options.
 
 - **Target:** All enemies
 
-- **Effect:** Until the end of the encounter or you are dying, when a target is force moved they take \[SURGE\] holy damage. If
-  the target moves on their own, they take \[SURGE\]\[SURGE\] holy damage. If a target is judged by you, they take an additional 1d6
+- **Effect:** Until the end of the encounter or you are dying, when a target is force moved they take (SURGE) holy damage. If
+  the target moves on their own, they take (SURGE)(SURGE) holy damage. If a target is judged by you, they take an additional 1d6
   holy damage when they move on their own.
 
 # CONDUIT
@@ -6890,11 +6890,11 @@ Additionally, when you are forced to make a Might resistance roll, you can make 
 
 #### EXTRA SHIELD
 
-Your \[SHIELD\] limit increases by 1, for a maximum of \[SHIELD\]\[SHIELD\]\[SHIELD\]\[SHIELD\].
+Your (SHIELD) limit increases by 1, for a maximum of (SHIELD)(SHIELD)(SHIELD)(SHIELD).
 
 #### EXTRA SURGE
 
-Your \[SURGE\] limit increases by 1, for a maximum of \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\].
+Your (SURGE) limit increases by 1, for a maximum of (SURGE)(SURGE)(SURGE)(SURGE).
 
 #### THERE IS NO SPACE BETWEEN
 
@@ -6960,7 +6960,7 @@ Revitalizing plants and jagged stones grow, helping allies and hindering foes.\
 
 - You and allies in the area can take the [[Catch Breath]] action as a maneuver.
 - The area is [[Difficult Terrain|difficult terrain]] for your enemies.
-- When an enemy enters the area for the first time on a turn or starts their turn there, they take \[SURGE\] damage.
+- When an enemy enters the area for the first time on a turn or starts their turn there, they take (SURGE) damage.
 
 **Persistent 1:** The area remains until the start of your next turn. You can move the area up to 5 squares as a
 maneuver. This ability ends if you lose line of effect to its area.
@@ -7112,7 +7112,7 @@ An enormous fist rises from the ground to crush your foes.
 - 12-16: 9 damage; M \[average\] [[Restrained|restrained]] (save ends)
 - 17+: 12 damage; M \[strong\] [[Restrained|restrained]] (save ends)
 
-**Effect:** While the target is [[Restrained|restrained]], they take \[SURGE\]\[SURGE\] damage at the start of their turn.
+**Effect:** While the target is [[Restrained|restrained]], they take (SURGE)(SURGE) damage at the start of their turn.
 
 #### SWARM OF SPIRITS (7 ESSENCE)
 
@@ -7146,7 +7146,7 @@ A blazing, beautifully organized inferno.
 
 **Effect:** You can place this wall in occupied squares. The wall lasts until the start of your next turn. Creatures can
 enter and pass through this wall. When an enemy enters the wall for the first time on a turn or starts their turn there,
-they take \[SURGE\]\[SURGE\] fire damage.
+they take (SURGE)(SURGE) fire damage.
 
 **Persistent 1:** The effect lasts until the start of your next turn, and you can add a number of squares to the wall
 equal to your Reason score.
@@ -7257,30 +7257,30 @@ instead. As your rage grows, your primordial cunning intensifies.
 
 ##### PRIMORDIAL CUNNING GROWING RAGE
 
-| Rage          | Benefit                                                                                                                                                                                                                                                                                                                                                                     |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3             | - You gain an edge on Agility tests and resistance rolls. <br> - Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal \[SURGE\].                                                                                                                                                                                                |
-| 6             | Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal \[SURGE\]\[SURGE\].                                                                                                                                                                                                                                                        |
-| 9             | You have a double edge on Agility tests and resistance rolls.                                                                                                                                                                                                                                                                                                               |
-| 12 (Level 4)  | Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal weapon damage to the target equal to triple your Agility score.                                                                                                                                                                                                            |
-| 15 (Level 7)  | You achieve Tier 3 on all Agility tests and resistance rolls.                                                                                                                                                                                                                                                                                                               |
-| 18 (Level 10) | - Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\]. <br> - Once per turn, as a free maneuver, you can remove an effect or condition affecting you. You can choose to apply the removed effect or condition to an adjacent enemy, who is affected by it until the End of the Encounter. |
+| Rage          | Benefit                                                                                                                                                                                                                                                                                                                                                             |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3             | - You gain an edge on Agility tests and resistance rolls. <br> - Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal (SURGE).                                                                                                                                                                                          |
+| 6             | Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal (SURGE)(SURGE).                                                                                                                                                                                                                                                    |
+| 9             | You have a double edge on Agility tests and resistance rolls.                                                                                                                                                                                                                                                                                                       |
+| 12 (Level 4)  | Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal weapon damage to the target equal to triple your Agility score.                                                                                                                                                                                                    |
+| 15 (Level 7)  | You achieve Tier 3 on all Agility tests and resistance rolls.                                                                                                                                                                                                                                                                                                       |
+| 18 (Level 10) | - Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal (SURGE)(SURGE)(SURGE)(SURGE). <br> - Once per turn, as a free maneuver, you can remove an effect or condition affecting you. You can choose to apply the removed effect or condition to an adjacent enemy, who is affected by it until the End of the Encounter. |
 
 #### PRIMORDIAL STRENGTH
 
-When you damage an object with a weapon attack, it takes an \[SURGE\]. Additionally, whenever you push another creature into an
-object, they take \[SURGE\]. As your rage grows, your primordial strength intensifies.
+When you damage an object with a weapon attack, it takes an (SURGE). Additionally, whenever you push another creature into an
+object, they take (SURGE). As your rage grows, your primordial strength intensifies.
 
 ##### PRIMORDIAL STRENGTH GROWING RAGE
 
-| Rage          | Benefit                                                                                                                                                                                                                 |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3             | - You gain an edge on Might tests and resistance rolls. <br> - You deal \[SURGE\] if you are at least 2 squares from where you started your turn when you attack.                                                       |
-| 6             | You deal \[SURGE\]\[SURGE\] if you are at least two squares from where you started your turn when you attack.                                                                                                           |
-| 9             | You have a double edge on Might tests and resistance rolls.                                                                                                                                                             |
-| 12 (Level 4)  | You deal \[SURGE\]\[SURGE\]\[SURGE\] if you are at least two squares from where you started your turn when you attack.                                                                                                  |
-| 15 (Level 7)  | You achieve Tier 3 on all Might tests and resistance rolls.                                                                                                                                                             |
-| 18 (Level 10) | - You deal \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\] if you are at least two squares from where you started your turn when you attack. <br> - You become size 2 and the reach of your melee weapon abilities increases by 1. |
+| Rage          | Benefit                                                                                                                                                                                                         |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3             | - You gain an edge on Might tests and resistance rolls. <br> - You deal (SURGE) if you are at least 2 squares from where you started your turn when you attack.                                                 |
+| 6             | You deal (SURGE)(SURGE) if you are at least two squares from where you started your turn when you attack.                                                                                                       |
+| 9             | You have a double edge on Might tests and resistance rolls.                                                                                                                                                     |
+| 12 (Level 4)  | You deal (SURGE)(SURGE)(SURGE) if you are at least two squares from where you started your turn when you attack.                                                                                                |
+| 15 (Level 7)  | You achieve Tier 3 on all Might tests and resistance rolls.                                                                                                                                                     |
+| 18 (Level 10) | - You deal (SURGE)(SURGE)(SURGE)(SURGE) if you are at least two squares from where you started your turn when you attack. <br> - You become size 2 and the reach of your melee weapon abilities increases by 1. |
 
 #### RELENTLESS HUNTER
 
@@ -7416,7 +7416,7 @@ Your reckless assault leaves you tactically vulnerable.
 - 11 or lower: 3 damage
 - 12–16: 6 damage
 - 17+: 9 damage\
-  **Effect:** You can choose to do \[SURGE\] to the target. If you do, the target gains \[SURGE\] on their next attack against you.
+  **Effect:** You can choose to do (SURGE) to the target. If you do, the target gains (SURGE) on their next attack against you.
 
 #### HEROIC ABILITIES
 
@@ -7475,7 +7475,7 @@ roll against every enemy you moved through.
 - 11 or lower: 2 damage
 - 12–16: 3 damage
 - 17+: 5 damage\
-  **Effect:** The target takes an extra \[SURGE\] for every [[Free Strike|free strike]] you triggered from your move.
+  **Effect:** The target takes an extra (SURGE) for every [[Free Strike|free strike]] you triggered from your move.
 
 ###### YOUR ENTRAILS ARE YOUR EXTRAILS! (3 RAGE)
 
@@ -7490,7 +7490,7 @@ Hard for them to fight when they're busy holding in their giblets.\
 - 11 or lower: 3 damage; M \[weak\] [[Bleeding|bleeding]] (save ends)
 - 12–16: 5 damage; M \[average\] [[Bleeding|bleeding]] (save ends)
 - 17+: 8 damage; M \[average\] [[Bleeding|bleeding]] (save ends)\
-  **Effect:** The target takes \[SURGE\] whenever they fail a save for [[Bleeding|bleeding]].
+  **Effect:** The target takes (SURGE) whenever they fail a save for [[Bleeding|bleeding]].
 
 ##### 5-RAGE ABILITIES
 
@@ -7518,7 +7518,7 @@ Anger is an energy.\
 **Type:** Free maneuver\
 **Distance:** Self\
 **Target:** Self\
-**Effect:** The next attack you make this turn automatically achieves a tier 3 result and gains \[SURGE\].
+**Effect:** The next attack you make this turn automatically achieves a tier 3 result and gains (SURGE).
 
 ###### THUNDER ROAR (5 RAGE)
 
@@ -7557,7 +7557,7 @@ As a 2nd-level fury, you gain the following features.
 
 ### EXTRA SURGE
 
-Your \[SURGE\] limit increases by 1, for a maximum of \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\].
+Your (SURGE) limit increases by 1, for a maximum of (SURGE)(SURGE)(SURGE)(SURGE).
 
 ### 2ND-LEVEL ASPECT FEATURE
 
@@ -7577,7 +7577,7 @@ Your speed increases by your Agility score. You ignore [[Difficult Terrain|diffi
 
 #### TOOTH AND CLAW
 
-Any enemy within Reach takes \[SURGE\] at the start of their turns.
+Any enemy within Reach takes (SURGE) at the start of their turns.
 
 #### UNSTOPPABLE FORCE
 
@@ -7604,7 +7604,7 @@ You ready?\
 **Distance:** Melee 1\
 **Target:** 1 willing ally\
 **Effect:** You vertically push 4 the target. The target can decline to use their Stability. At the end of the push, the
-target can make a [[Free Strike|free strike]] with \[SURGE\]. You force move the target carefully enough that they do not take damage from the
+target can make a [[Free Strike|free strike]] with (SURGE). You force move the target carefully enough that they do not take damage from the
 move.
 
 ##### WRECKING BALL (5 RAGE)
@@ -7750,7 +7750,7 @@ Fight or flight? FIGHT!!\
 **Distance:** Self\
 **Target:** Self\
 **Effect:** Until the end of the encounter or you are dying, any creature you make a melee attack against is P \[average\]
-[[Taunted|taunted]] (EoT). You do \[SURGE\]\[SURGE\] extra damage and increase effect potency by 1 against any [[Taunted|taunted]] enemy.
+[[Taunted|taunted]] (EoT). You do (SURGE)(SURGE) extra damage and increase effect potency by 1 against any [[Taunted|taunted]] enemy.
 
 #### STEELBREAKER (7 RAGE)
 
@@ -7759,7 +7759,7 @@ See how useless their weapons are!\
 **Type:** Maneuver\
 **Distance:** Self\
 **Target:** Self\
-**Effect:** Until the end of the encounter you have \[SHIELD\]\[SHIELD\].
+**Effect:** Until the end of the encounter you have (SHIELD)(SHIELD).
 
 #### YOU ARE ALREADY DEAD (7 RAGE)
 
@@ -7769,7 +7769,7 @@ Slash. [[Walk]] away.\
 **Distance:** Melee 1\
 **Target:** 1 creature\
 **Effect:** If the target is not a boss or solo creature, they die at the end of their next turn. If the target is a
-boss or solo creature, the next attack against them gains \[SHIELD\].
+boss or solo creature, the next attack against them gains (SHIELD).
 
 ## STORMWIGHT KITS
 
@@ -7870,15 +7870,15 @@ Attacks with your sharp and deadly claws send your foes staggering back.\
 
 #### BEAR GROWING RAGE
 
-| Rage          | Benefit                                                                                                                                                                                                                                                                                                                 |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3             | - You gain an edge on Might tests, resistance rolls, and power rolls made to [[Grab\|grab]]. <br> - While in bear form, your attacks do \[SURGE\], and any target you have [[Grabbed\|grabbed]] at the start of your turn takes \[SURGE\].                                                                              |
-| 6             | While in bear form, your attacks do \[SURGE\]\[SURGE\], and any target you have [[Grabbed\|grabbed]] at the start of your turn takes \[SURGE\]\[SURGE\].                                                                                                                                                                |
-| 9             | You have a double edge on Might tests, resistance rolls, and power rolls made to [[Grab\|grab]].                                                                                                                                                                                                                        |
-| 12 (Level 4)  | While in bear form, your attacks do \[SURGE\]\[SURGE\]\[SURGE\], and any target you have [[Grabbed\|grabbed]] at the start of your turn takes \[SURGE\]\[SURGE\]\[SURGE\].                                                                                                                                              |
-|               |                                                                                                                                                                                                                                                                                                                         |
-| 15 (Level 7)  | You always achieve Tier 3 results on Might tests, resistance rolls, and power rolls made to [[Grab\|grab]].                                                                                                                                                                                                             |
-| 18 (Level 10) | - While in bear form, your attacks do \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\], and any target you have [[Grabbed\|grabbed]] at the start of your turn takes \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\]. <br> - Your size increases by 1 and you gain 20 Temporary Stamina the first time you grow to this size in the encounter. |
+| Rage          | Benefit                                                                                                                                                                                                                                                                                                 |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3             | - You gain an edge on Might tests, resistance rolls, and power rolls made to [[Grab\|grab]]. <br> - While in bear form, your attacks do (SURGE), and any target you have [[Grabbed\|grabbed]] at the start of your turn takes (SURGE).                                                                  |
+| 6             | While in bear form, your attacks do (SURGE)(SURGE), and any target you have [[Grabbed\|grabbed]] at the start of your turn takes (SURGE)(SURGE).                                                                                                                                                        |
+| 9             | You have a double edge on Might tests, resistance rolls, and power rolls made to [[Grab\|grab]].                                                                                                                                                                                                        |
+| 12 (Level 4)  | While in bear form, your attacks do (SURGE)(SURGE)(SURGE), and any target you have [[Grabbed\|grabbed]] at the start of your turn takes (SURGE)(SURGE)(SURGE).                                                                                                                                          |
+|               |                                                                                                                                                                                                                                                                                                         |
+| 15 (Level 7)  | You always achieve Tier 3 results on Might tests, resistance rolls, and power rolls made to [[Grab\|grab]].                                                                                                                                                                                             |
+| 18 (Level 10) | - While in bear form, your attacks do (SURGE)(SURGE)(SURGE)(SURGE), and any target you have [[Grabbed\|grabbed]] at the start of your turn takes (SURGE)(SURGE)(SURGE)(SURGE). <br> - Your size increases by 1 and you gain 20 Temporary Stamina the first time you grow to this size in the encounter. |
 
 ### CORVEN
 
@@ -7927,14 +7927,14 @@ Foes who try to close around you do so at their peril.
 
 #### CROW GROWING RAGE
 
-| Rage          | Benefit                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3             | - You can shift 1 square as a free maneuver once per turn. <br> - While in crow form, your attacks do \[SURGE\]. <br> - Once per turn while in crow form, when you move away from an enemy, that enemy takes damage equal to your Agility score.                                                                                                                                                         |
-| 6             | - While in crow or hybrid crow form, you can use all your abilities, and your attacks do \[SURGE\]\[SURGE\]. <br> - Once per turn while in crow or hybrid crow form, when you move away from an enemy, that enemy takes \[SURGE\]\[SURGE\].                                                                                                                                                              |
-| 9             | You can shift up to 2 squares as a free maneuver once per turn.                                                                                                                                                                                                                                                                                                                                          |
-| 12 (Level 4)  | - While in crow or hybrid crow form, you can use all your abilities, and your attacks do \[SURGE\]\[SURGE\]\[SURGE\]. <br> - Once per turn while in crow or hybrid crow form, when you move away from an enemy, that enemy takes \[SURGE\]\[SURGE\]\[SURGE\].                                                                                                                                            |
-| 15 (Level 7)  | You can shift up to 4 squares as a free maneuver once per turn.                                                                                                                                                                                                                                                                                                                                          |
-| 18 (Level 10) | - While in crow or hybrid crow form, you can use all your abilities, and your attacks do \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\]. <br> - Once per turn while in crow or hybrid crow form, when you move away from an enemy, that enemy takes \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\]. <br> - Your size increases by 1 and you gain 20 Temporary Stamina the first time you grow to this size in the encounter. |
+| Rage          | Benefit                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3             | - You can shift 1 square as a free maneuver once per turn. <br> - While in crow form, your attacks do (SURGE). <br> - Once per turn while in crow form, when you move away from an enemy, that enemy takes damage equal to your Agility score.                                                                                                                                           |
+| 6             | - While in crow or hybrid crow form, you can use all your abilities, and your attacks do (SURGE)(SURGE). <br> - Once per turn while in crow or hybrid crow form, when you move away from an enemy, that enemy takes (SURGE)(SURGE).                                                                                                                                                      |
+| 9             | You can shift up to 2 squares as a free maneuver once per turn.                                                                                                                                                                                                                                                                                                                          |
+| 12 (Level 4)  | - While in crow or hybrid crow form, you can use all your abilities, and your attacks do (SURGE)(SURGE)(SURGE). <br> - Once per turn while in crow or hybrid crow form, when you move away from an enemy, that enemy takes (SURGE)(SURGE)(SURGE).                                                                                                                                        |
+| 15 (Level 7)  | You can shift up to 4 squares as a free maneuver once per turn.                                                                                                                                                                                                                                                                                                                          |
+| 18 (Level 10) | - While in crow or hybrid crow form, you can use all your abilities, and your attacks do (SURGE)(SURGE)(SURGE)(SURGE). <br> - Once per turn while in crow or hybrid crow form, when you move away from an enemy, that enemy takes (SURGE)(SURGE)(SURGE)(SURGE). <br> - Your size increases by 1 and you gain 20 Temporary Stamina the first time you grow to this size in the encounter. |
 
 ### RADEN
 
@@ -7987,14 +7987,14 @@ Your enemies try in vain to fall back from your pouncing attack.
 
 #### RAT GROWING RAGE
 
-| Rage          | Benefit                                                                                                                                                                                                                                                                                                                                                                                 |
-| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3             | - You have Weapon immunity 2. <br> - While in rat form, your attacks do \[SURGE\]. <br> - While in rat form, if you attack a creature you are climbing, that creature is [[Bleeding\|bleeding]] (EoT).                                                                                                                                                                                  |
-| 6             | - While in rat or hybrid rat form, you can use all your abilities, and your attacks do \[SURGE\]\[SURGE\]. <br> - While in rat or hybrid form, if you attack a creature you are climbing, that creature is [[Bleeding\|bleeding]] (EoT).                                                                                                                                                |
-| 9             | You have \[SHIELD\]. Any damage you ignore because of this is dealt to each enemy adjacent to you as \[SURGE\].                                                                                                                                                                                                                                                                         |
-| 12 (Level 4)  | - While in rat or hybrid rat form, you can use all your abilities, and your attacks do \[SURGE\]\[SURGE\]\[SURGE\]. <br> - While in rat or hybrid form, if you attack a creature you are climbing, that creature is [[Bleeding\|bleeding]] (EoT).                                                                                                                                       |
-| 15 (Level 7)  | You have \[SHIELD\]\[SHIELD\]. Any damage you ignore because of this immunity is dealt to each enemy adjacent to you as \[SURGE\]\[SURGE\].                                                                                                                                                                                                                                             |
-| 18 (Level 10) | - While in rat or hybrid rat form, you can use all your abilities, and your attacks do \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\]. <br> - While in rat or hybrid rat form, if you attack a creature you are climbing, that creature is [[Bleeding\|bleeding]] (EoT). <br> - Your size increases by 1 and you gain 20 Temporary Stamina the first time you grow to this size in the encounter. |
+| Rage          | Benefit                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3             | - You have Weapon immunity 2. <br> - While in rat form, your attacks do (SURGE). <br> - While in rat form, if you attack a creature you are climbing, that creature is [[Bleeding\|bleeding]] (EoT).                                                                                                                                                                            |
+| 6             | - While in rat or hybrid rat form, you can use all your abilities, and your attacks do (SURGE)(SURGE). <br> - While in rat or hybrid form, if you attack a creature you are climbing, that creature is [[Bleeding\|bleeding]] (EoT).                                                                                                                                            |
+| 9             | You have (SHIELD). Any damage you ignore because of this is dealt to each enemy adjacent to you as (SURGE).                                                                                                                                                                                                                                                                     |
+| 12 (Level 4)  | - While in rat or hybrid rat form, you can use all your abilities, and your attacks do (SURGE)(SURGE)(SURGE). <br> - While in rat or hybrid form, if you attack a creature you are climbing, that creature is [[Bleeding\|bleeding]] (EoT).                                                                                                                                     |
+| 15 (Level 7)  | You have (SHIELD)(SHIELD). Any damage you ignore because of this immunity is dealt to each enemy adjacent to you as (SURGE)(SURGE).                                                                                                                                                                                                                                             |
+| 18 (Level 10) | - While in rat or hybrid rat form, you can use all your abilities, and your attacks do (SURGE)(SURGE)(SURGE)(SURGE). <br> - While in rat or hybrid rat form, if you attack a creature you are climbing, that creature is [[Bleeding\|bleeding]] (EoT). <br> - Your size increases by 1 and you gain 20 Temporary Stamina the first time you grow to this size in the encounter. |
 
 ### VUKEN
 
@@ -8042,14 +8042,14 @@ A savage assault forces your foes back.
 
 #### WOLF GROWING RAGE
 
-| Rage          | Benefit                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3             | - You gain an edge on Agility tests and resistance rolls. <br> - While in wolf form, your attacks do \[SURGE\]. <br> - When you attack a target while in wolf form, the next ally to damage that target before the start of your next turn has \[SURGE\] against the target.                                                                                                                                                                                                       |
-| 6             | - While in wolf or hybrid wolf form, you can use all your abilities, and your attacks do \[SURGE\]\[SURGE\]\[SURGE\]. <br> - When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has \[SURGE\]\[SURGE\] against the target.                                                                                                                                                                         |
-| 9             | You have a double edge on Agility tests and resistance rolls.                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 12 (Level 4)  | - While in wolf or hybrid wolf form, you can use all your abilities, and your attacks do \[SURGE\]\[SURGE\]\[SURGE\]. <br> - When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has \[SURGE\]\[SURGE\]\[SURGE\] against the target.                                                                                                                                                                |
-| 15 (Level 7)  | You achieve Tier 3 on all Agility tests and resistance rolls.                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 18 (Level 10) | - While in wolf or hybrid wolf form, you can use all your abilities, and your attacks deal extra damage equal to quadruple your Agility score. <br> - When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has \[SHIELD\]\[SHIELD\]\[SHIELD\]\[SHIELD\] against the target. <br> - Your size increases by 1 and you gain 20 Temporary Stamina the first time you grow to this size in the encounter. |
+| Rage          | Benefit                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 3             | - You gain an edge on Agility tests and resistance rolls. <br> - While in wolf form, your attacks do (SURGE). <br> - When you attack a target while in wolf form, the next ally to damage that target before the start of your next turn has (SURGE) against the target.                                                                                                                                                                                                   |
+| 6             | - While in wolf or hybrid wolf form, you can use all your abilities, and your attacks do (SURGE)(SURGE)(SURGE). <br> - When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has (SURGE)(SURGE) against the target.                                                                                                                                                                           |
+| 9             | You have a double edge on Agility tests and resistance rolls.                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 12 (Level 4)  | - While in wolf or hybrid wolf form, you can use all your abilities, and your attacks do (SURGE)(SURGE)(SURGE). <br> - When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has (SURGE)(SURGE)(SURGE) against the target.                                                                                                                                                                    |
+| 15 (Level 7)  | You achieve Tier 3 on all Agility tests and resistance rolls.                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 18 (Level 10) | - While in wolf or hybrid wolf form, you can use all your abilities, and your attacks deal extra damage equal to quadruple your Agility score. <br> - When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has (SHIELD)(SHIELD)(SHIELD)(SHIELD) against the target. <br> - Your size increases by 1 and you gain 20 Temporary Stamina the first time you grow to this size in the encounter. |
 
 # NULL
 
@@ -8161,7 +8161,7 @@ Your body has been trained to predict when attacks will happen before they happe
 **Distance:** Self\
 **Target:** Self\
 **Trigger:** You take damage.\
-**Effect:** You gain \[SHIELD\] for the attack and reduce any potency of effects associated with the damage by 1.
+**Effect:** You gain (SHIELD) for the attack and reduce any potency of effects associated with the damage by 1.
 
 ### MASTERY
 
@@ -8184,7 +8184,7 @@ the number of squares you shift.
 
 - **6**
 
-  - Whenever you use the Inertial Shield triggered action, you can do \[SURGE\] psychic damage to a creature of your choice within
+  - Whenever you use the Inertial Shield triggered action, you can do (SURGE) psychic damage to a creature of your choice within
     your Null Field and make them suffer a \[weak\] version of any effect you beat using that triggered action.
 
 - **9**
@@ -8194,7 +8194,7 @@ the number of squares you shift.
 
 - **12 (Level 4)**
 
-  - Whenever you use the Inertial Shield triggered action, you can do \[SURGE\]\[SURGE\] psychic damage to a creature of your choice
+  - Whenever you use the Inertial Shield triggered action, you can do (SURGE)(SURGE) psychic damage to a creature of your choice
     within your Null Field and make them suffer an \[average\] version of any effect you beat using that triggered action.
 
 - **15 (Level 7)**
@@ -8204,9 +8204,9 @@ the number of squares you shift.
 
 - **18 (Level 10)**
 
-  - Whenever you use the Inertial Shield triggered action, you can do \[SURGE\]\[SURGE\]\[SURGE\] psychic damage to a creature of your choice
+  - Whenever you use the Inertial Shield triggered action, you can do (SURGE)(SURGE)(SURGE) psychic damage to a creature of your choice
     within your Null Field and make them suffer a \[strong\] version of any effect you beat using that triggered action.
-  - If you move at least 5 squares on your turn, you can do \[SURGE\]\[SURGE\]\[SURGE\] damage against one target you attack after making this
+  - If you move at least 5 squares on your turn, you can do (SURGE)(SURGE)(SURGE) damage against one target you attack after making this
     movement.
 
 #### CRYOKINETIC MASTERY
@@ -8223,7 +8223,7 @@ Enemies treat squares within your Null Aura as [[Difficult Terrain|difficult ter
 
 - **6**
 
-  - Whenever you use the Inertial Shield triggered action, you can do \[SURGE\] cold damage to a creature of your choice within
+  - Whenever you use the Inertial Shield triggered action, you can do (SURGE) cold damage to a creature of your choice within
     your Null Field and make them suffer a \[weak\] version of any effect you beat using that triggered action.
 
 - **9**
@@ -8232,7 +8232,7 @@ Enemies treat squares within your Null Aura as [[Difficult Terrain|difficult ter
 
 - **12 (Level 4)**
 
-  - Whenever you use the Inertial Shield triggered action, you can do \[SURGE\]\[SURGE\] cold damage to a creature of your choice within
+  - Whenever you use the Inertial Shield triggered action, you can do (SURGE)(SURGE) cold damage to a creature of your choice within
     your Null Field and make them suffer an \[average\] version of any effect you beat using that triggered action.
 
 - **15 (Level 7)**
@@ -8241,7 +8241,7 @@ Enemies treat squares within your Null Aura as [[Difficult Terrain|difficult ter
 
 - **18 (Level 10)**
 
-  - Whenever you use the Inertial Shield triggered action, you can do \[SURGE\]\[SURGE\]\[SURGE\] cold damage to a creature of your choice
+  - Whenever you use the Inertial Shield triggered action, you can do (SURGE)(SURGE)(SURGE) cold damage to a creature of your choice
     within your Null Field and make them suffer a \[strong\] version of any effect you beat using that triggered action.
   - You ignore any cold immunity a target has and automatically get a Tier 3 on any attacks against a target with cold
     weakness.
@@ -8256,7 +8256,7 @@ You gain a bonus to Stability equal to your Intuition score.
 
   - When you use the Inertial Shield triggered action, you can push the triggering attacker a number of squares equal
     to your Intuition.
-  - You gain \[SHIELD\].
+  - You gain (SHIELD).
 
 - **6**
 
@@ -8266,7 +8266,7 @@ You gain a bonus to Stability equal to your Intuition score.
 
 - **9**
 
-  - You gain \[SHIELD\] and do \[SURGE\] to any targets you force move.
+  - You gain (SHIELD) and do (SURGE) to any targets you force move.
 
 - **12 (Level 4)**
 
@@ -8276,7 +8276,7 @@ You gain a bonus to Stability equal to your Intuition score.
 
 - **15 (Level 7)**
 
-  - You gain \[SHIELD\]\[SHIELD\] and do \[SURGE\]\[SURGE\] to any targets you force move.
+  - You gain (SHIELD)(SHIELD) and do (SURGE)(SURGE) to any targets you force move.
 
 - **18 (Level 10)**
 
@@ -8339,7 +8339,7 @@ Select two signature abilities from the options below. Signature abilities can b
 - 12-16: 4 damage
 - 17+: 5 damage
 
-**Effect:** You deal \[SURGE\] damage to an adjacent creature or object.
+**Effect:** You deal (SURGE) damage to an adjacent creature or object.
 
 ##### JOINT LOCK
 
@@ -8436,8 +8436,8 @@ Choose one heroic ability from the following options.
 **Distance:** 2 burst\
 **Target:** All enemies
 
-**Effect:** Each target takes \[SURGE\]\[SURGE\] psychic damage. Until the beginning of your next turn, your Null Field distance
-increases by 1, and each enemy that starts their turn in the aura takes your \[SURGE\] psychic damage.
+**Effect:** Each target takes (SURGE)(SURGE) psychic damage. Until the beginning of your next turn, your Null Field distance
+increases by 1, and each enemy that starts their turn in the aura takes your (SURGE) psychic damage.
 
 ###### RELENTLESS NEMESIS (3 DISCIPLINE)
 
@@ -8491,7 +8491,7 @@ Choose one heroic ability from the following options.
 - 12-16: 12 psychic damage; M \[average\] [[Weakened|weakened]] (save ends)
 - 17+: 16 psychic damage; M \[strong\] [[Weakened|weakened]] (save ends)
 
-**Effect:** While [[Weakened|weakened]], the target takes \[SURGE\] psychic damage whenever they use an ability with the Magic keyword.
+**Effect:** While [[Weakened|weakened]], the target takes (SURGE) psychic damage whenever they use an ability with the Magic keyword.
 
 ###### IMPART FORCE (5 DISCIPLINE)
 
@@ -8570,17 +8570,17 @@ As a 2nd-level null, you gain the following features based on your Tradition.
 
 #### EXTRA SHIELD
 
-- Your \[SHIELD\] limit increases by 1, for a maximum of \[SHIELD\]\[SHIELD\]\[SHIELD\]\[SHIELD\].
+- Your (SHIELD) limit increases by 1, for a maximum of (SHIELD)(SHIELD)(SHIELD)(SHIELD).
 
 #### EXTRA SURGE
 
-- Your \[SURGE\] limit increases by 1, for a maximum of \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\].
+- Your (SURGE) limit increases by 1, for a maximum of (SURGE)(SURGE)(SURGE)(SURGE).
 
 #### INERTIAL SINK
 
 - You add your Intuition to your size for the purpose of interacting with creatures and objects, such as resisting
   [[Forced Movement|forced movement]] or lifting objects.
-- You always have \[SHIELD\]\[SHIELD\] against [[Forced Movement|forced movement]] damage and falling damage.
+- You always have (SHIELD)(SHIELD) against [[Forced Movement|forced movement]] damage and falling damage.
 
 #### RAPID PROCESSING
 
@@ -8653,7 +8653,7 @@ Choose one of the following abilities.
 **Target:** Self
 
 **Effect:** Until the beginning of your next turn, your nullification aura distance increases by 1. Enemies treat the
-aura as [[Difficult Terrain|difficult terrain]], you and your allies benefit from concealment while in the aura, and enemies take \[SURGE\] cold
+aura as [[Difficult Terrain|difficult terrain]], you and your allies benefit from concealment while in the aura, and enemies take (SURGE) cold
 damage when they start their turn in the aura.
 
 #### 2ND-LEVEL METAKINETIC ABILITIES
@@ -8716,7 +8716,7 @@ Choose one heroic ability from the following options.
 **Target:** Self
 
 **Effect:** Until the end of the encounter, the area of your null field increases to 2 aura, adds a bane to all enemy
-attacks in the aura, and you and all allies gain \[SHIELD\] while in the aura.
+attacks in the aura, and you and all allies gain (SHIELD) while in the aura.
 
 #### MOLECULAR REARRANGEMENT FIELD (7 DISCIPLINE)
 
@@ -8729,7 +8729,7 @@ attacks in the aura, and you and all allies gain \[SHIELD\] while in the aura.
 
 **Effect:** Until the end of the encounter, the area of your null field increases to 2 aura. Enemies that enter your
 null field or begin their turn in it suffer I \[average\] [[Bleeding|bleeding]] (save ends). Allies that enter your null field or begin
-their turn in it gain Temporary Stamina equal to their \[SHIELD\]. This Temporary Stamina disappears at the end of the
+their turn in it gain Temporary Stamina equal to their (SHIELD). This Temporary Stamina disappears at the end of the
 encounter.
 
 #### STABILIZING FIELD (7 DISCIPLINE)
@@ -8755,7 +8755,7 @@ condition or effect that is affecting them as a free triggered action at the beg
 **Target:** Self
 
 **Effect:** Until the end of the encounter, the area of your null field increases to 2 aura. Any attacks against enemies
-in the aura do \[SURGE\]\[SURGE\] psychic damage.
+in the aura do (SURGE)(SURGE) psychic damage.
 
 # SHADOW
 
@@ -8825,7 +8825,7 @@ By observing your enemy, you learn how to use their weaknesses against them. You
 
 When combat begins, gain insight equal to your Victories. At the start of each of your turns during combat, you gain 1d3
 insight. Additionally, the first time each round that you deal damage with an ability that has a power roll and at least
-one \[SURGE\], you gain 1 insight.
+one (SURGE), you gain 1 insight.
 
 When combat ends, you lose all of your insight.
 
@@ -8868,7 +8868,7 @@ In a swirl of black ash, you step from one place to another.\
 
 **Effect:** You [[Teleport|teleport]] up to 5 squares. If you end this movement in concealment or cover, you can use the [[Hide]]
 maneuver even if you are observed. If you attack another creature while hidden from this ability or on the same turn
-after using this ability, the attack gains \[SURGE\].
+after using this ability, the attack gains (SURGE).
 
 **Spend Insight:** You [[Teleport|teleport]] 1 additional square for each insight spent.
 
@@ -8885,10 +8885,10 @@ Just a little poison goes a long way.\
 **Target:** Self
 
 **Effect:** You coat one of your weapons with a harmful poison. The next creature you damage with an ability that uses
-that weapon takes \[SURGE\] poison damage. The poison loses its potency after you damage the creature or at the end of the
+that weapon takes (SURGE) poison damage. The poison loses its potency after you damage the creature or at the end of the
 encounter.
 
-**Spend Insight:** For each insight you spend, add \[SURGE\] to the effect.
+**Spend Insight:** For each insight you spend, add (SURGE) to the effect.
 
 #### I'M ON YOUR SIDE
 
@@ -8905,7 +8905,7 @@ Taking on the illusory countenance of another creature gives you an advantage on
 **Effect:** Choose a creature whose size is no more than 1 greater than yours, and who is within 10 squares of you. Your
 body is covered in an illusion that makes you appear to be that creature. This illusion covers your entire body,
 including clothing and armor, and changes your voice to sound like the creature. While this illusion lasts, you gain an
-edge and \[SURGE\] on attacks against the creature’s allies. You also gain an edge on tests made to convince that creature’s
+edge and (SURGE) on attacks against the creature’s allies. You also gain an edge on tests made to convince that creature’s
 allies that you are the creature who you appear to be. These benefits don’t apply against the creature whose appearance
 you’ve taken on. The illusion ends when you harm another creature, when you and another creature physically interact,
 when you use this ability again, or when you end the illusion (no action required).
@@ -8948,11 +8948,11 @@ When an enemy attacks, you roll with the impact to reduce the harm.\
 **Target:** Self
 
 **Trigger:** Another creature damages you.\
-**Effect:** You gain \[SHIELD\] against the triggering damage and then can shift up to 2 squares after the damage and its
+**Effect:** You gain (SHIELD) against the triggering damage and then can shift up to 2 squares after the damage and its
 effects resolve. If you end this movement with concealment or cover, you can use the [[Hide]] maneuver even if you are
 observed.
 
-**Spend 1 Insight:** You gain \[SHIELD\]\[SHIELD\] against the triggering damage instead.
+**Spend 1 Insight:** You gain (SHIELD)(SHIELD) against the triggering damage instead.
 
 ##### IN ALL THIS CONFUSION
 
@@ -8963,7 +8963,7 @@ You vanish in a plume of black smoke to avoid danger.\
 **Target:** Self
 
 **Trigger:** You take damage.\
-**Effect:** You gain \[SHIELD\] against the triggering damage and then can [[Teleport|teleport]] up to 4 squares after the damage and its
+**Effect:** You gain (SHIELD) against the triggering damage and then can [[Teleport|teleport]] up to 4 squares after the damage and its
 effects resolve.
 
 **Spend Insight:** You [[Teleport|teleport]] 1 additional square for each insight spent.
@@ -9011,7 +9011,7 @@ Your precise strikes let your allies take advantage of a target’s agony.\
 - 12–16: 4 damage
 - 17+: 6 damage; I \[strong\] [[Prone|prone]]
 
-**Effect:** The next ability that damages the target before the start of your next turn gains \[SURGE\].
+**Effect:** The next ability that damages the target before the start of your next turn gains (SURGE).
 
 ##### I WORK BETTER ALONE
 
@@ -9027,7 +9027,7 @@ It's better, just you and me. Isn't it?\
 - 12–16: 5 damage
 - 17+: 7 damage
 
-**Effect:** If the target has no allies adjacent to them, you gain \[SURGE\] on the attack.
+**Effect:** If the target has no allies adjacent to them, you gain (SURGE) on the attack.
 
 ##### TEAMWORK HAS ITS PLACE
 
@@ -9043,7 +9043,7 @@ You fire a bolt at an enemy, distracting them long enough for an ally to stab th
 - 12–16: 5 damage
 - 17+: 8 damage
 
-**Effect:** If an ally is adjacent to the target, the target takes additional \[SURGE\] damage.
+**Effect:** If an ally is adjacent to the target, the target takes additional (SURGE) damage.
 
 ##### YOU WERE WATCHING THE WRONG ONE
 
@@ -9060,7 +9060,7 @@ They can't watch both of you at once.\
 - 17+: 9 damage
 
 **Effect:** If you are flanking the target when you make this attack, choose one ally who is flanking with you. That
-ally has \[SURGE\] on melee attacks against the target until the end of the ally’s next turn, even if they are no longer
+ally has (SURGE) on melee attacks against the target until the end of the ally’s next turn, even if they are no longer
 flanking the target.
 
 #### HEROIC ABILITIES
@@ -9177,9 +9177,9 @@ Your friends will thank you.\
 
 **Power Roll + Agility:**
 
-- 11 or lower: 6 damage; R \[weak\] When the target takes damage from an ability, the ability gains \[SURGE\] (save ends)
-- 12–16: 9 damage; R \[average\] When the target takes damage from an ability, the ability gains \[SURGE\]\[SURGE\] (save ends)
-- 17+: 13 damage; R \[strong\] When the target takes damage from an ability, the ability gains \[SURGE\]\[SURGE\]\[SURGE\] (save ends)
+- 11 or lower: 6 damage; R \[weak\] When the target takes damage from an ability, the ability gains (SURGE) (save ends)
+- 12–16: 9 damage; R \[average\] When the target takes damage from an ability, the ability gains (SURGE)(SURGE) (save ends)
+- 17+: 13 damage; R \[strong\] When the target takes damage from an ability, the ability gains (SURGE)(SURGE)(SURGE) (save ends)
 
 ###### SHADOWSTRIKE (5 INSIGHT)
 
@@ -9189,7 +9189,7 @@ They have no idea what the college taught you.\
 **Distance:** Self\
 **Target:** Self
 
-**Effect:** You make two signature attacks and each gains \[SURGE\].
+**Effect:** You make two signature attacks and each gains (SURGE).
 
 ## 2ND-LEVEL FEATURES
 
@@ -9209,7 +9209,7 @@ Your specialization grants you a feature as shown on the 2nd-Level Shadow Colleg
 
 #### BURNING ASH
 
-Whenever you [[Teleport|teleport]] away from or into a space adjacent to an enemy, that enemy takes \[SURGE\] fire damage.
+Whenever you [[Teleport|teleport]] away from or into a space adjacent to an enemy, that enemy takes (SURGE) fire damage.
 
 #### FRIEND!
 
@@ -9218,11 +9218,11 @@ effect, you can choose to be a target of the effect as well.
 
 #### TRAINED ASSASSIN
 
-Whenever you make an attack with at least one \[SURGE\] and no banes against a target, the attack gains an extra \[SURGE\].
+Whenever you make an attack with at least one (SURGE) and no banes against a target, the attack gains an extra (SURGE).
 
 ### EXTRA SURGE
 
-Your \[SURGE\] limit increases by 1, for a maximum of \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\].
+Your (SURGE) limit increases by 1, for a maximum of (SURGE)(SURGE)(SURGE)(SURGE).
 
 Draw Steel © 2024 MCDM Productions, LLC
 
@@ -9263,7 +9263,7 @@ Your foe made a big mistake.
 **Target:** Special
 
 **Trigger:** You use In All This Confusion.\
-**Effect:** You gain an additional \[SHIELD\] against the triggering attack. Before you [[Teleport|teleport]], you can make a [[Free Strike|free strike]]
+**Effect:** You gain an additional (SHIELD) against the triggering attack. Before you [[Teleport|teleport]], you can make a [[Free Strike|free strike]]
 against a creature who damaged you to trigger In All This Confusion. After you [[Teleport|teleport]], you can spend a Recovery.
 
 #### 2ND-LEVEL CAUSTIC ALCHEMY ABILITIES
@@ -9350,7 +9350,7 @@ As a 3rd-level shadow, you gain the following features.
 
 Given the chance to watch your foe, you can assess their vulnerabilities and pick the perfect moment to strike. As a
 maneuver, you observe and take aim at a creature within 20 squares of you. If you do, you gain an edge on the next
-attack you make against that foe and the attack deals an extra \[SURGE\] damage, provided you attack no other creature before
+attack you make against that foe and the attack deals an extra (SURGE) damage, provided you attack no other creature before
 attacking the one you observe, stay within 20 squares of them, and don’t lose line of effect to them. You can stack the
 effects of this feature on a single creature up to four times.
 
@@ -9565,7 +9565,7 @@ Your leadership thwarts an enemy or aids an ally.
 **Distance:** Ranged 10\
 **Target:** Any creature\
 **Trigger:** The target makes an attack against another creature.\
-**Effect:** Add or subtract \[SURGE\] to the attack.\
+**Effect:** Add or subtract (SURGE) to the attack.\
 **Spend 3 Focus:** Increase or decrease the potency of one effect from the attack.
 
 #### PARRY
@@ -9577,7 +9577,7 @@ Your quick reflexes cost an enemy the precision they seek.
 **Distance:** Self or Melee 1\
 **Target:** Self or 1 ally\
 **Trigger:** A creature makes a Weapon attack against the target.\
-**Effect:** The attack’s damage is reduced \[SHIELD\]\[SHIELD\].\
+**Effect:** The attack’s damage is reduced (SHIELD)(SHIELD).\
 **Spend 3 Focus:** Decrease the potency of all effects on the attack by 1.
 
 #### OVERWATCH
@@ -9630,7 +9630,7 @@ You draw your allies’ attention to a specific foe—with devastating effect.\
 **Distance:** Ranged 10\
 **Target:** 1 creature\
 **Effect:** The target is marked by you until the start of your next turn. When attacking a marked target, you and each
-of your allies gain a damage surge \[SURGE\].\
+of your allies gain a damage surge (SURGE).\
 **Spend 1 Focus or More Focus:** You focus on understanding the tactics of your foe, countering their strengths and
 exploiting their weaknesses to enhance your squad.
 
@@ -9646,9 +9646,9 @@ You can use this maneuver on an already marked creature to bank more focus.
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2             | You and your allies have an edge on attacks against the target. Multiple marks on the same target do not provide more than one edge.                         |
 | 4             | Attacks against the marked target also inflict R\[weak\] [[Weakened\|weakened]] (save ends).                                                                 |
-| 6             | Attacks against the target do \[SURGE\]\[SURGE\] instead of \[SURGE\].                                                                                       |
+| 6             | Attacks against the target do (SURGE)(SURGE) instead of (SURGE).                                                                                             |
 | 8 (Level 4)   | Attacks against the marked target also inflict R\[average\] [[Weakened\|weakened]] (save ends).                                                              |
-| 10 (Level 7)  | Attacks against the target do \[SURGE\]\[SURGE\]\[SURGE\] instead of \[SURGE\].                                                                              |
+| 10 (Level 7)  | Attacks against the target do (SURGE)(SURGE)(SURGE) instead of (SURGE).                                                                                      |
 | 12 (Level 10) | - Attacks against the marked target also inflict R\[strong\] [[Weakened\|weakened]] (save ends).<br> - Attacks against the marked target have a double edge. |
 
 #### MASTERMIND FOCUSED MARK
@@ -9668,9 +9668,9 @@ You can use this maneuver on an already marked creature to bank more focus.
 | ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2             | - You and your allies have an edge on attacks against the target. Multiple marks on the same target do not provide more than 1 edge. <br> - The target is [[Taunted\|taunted]] by you while it is marked.                                                                                                                                                                     |
 | 4             | If the marked target moves, shifts, or makes an attack that doesn’t include you, while within your melee range, you can make a [[Free Strike\|free strike]] against them. R \[weak\], the target’s speed is reduced to 0 for the rest of their turn.                                                                                                                          |
-| 6             | Allies have \[SHIELD\] against attacks from the marked target.                                                                                                                                                                                                                                                                                                                |
+| 6             | Allies have (SHIELD) against attacks from the marked target.                                                                                                                                                                                                                                                                                                                  |
 | 8 (Level 4)   | If the marked target moves, shifts, or makes an attack that doesn’t include you, while within your melee range, you can make a [[Free Strike\|free strike]] against them. R \[average\], the target’s speed is reduced to 0 for the rest of their turn.                                                                                                                       |
-| 10 (Level 7)  | Allies have \[SHIELD\]\[SHIELD\] against attacks from the marked target.                                                                                                                                                                                                                                                                                                      |
+| 10 (Level 7)  | Allies have (SHIELD)(SHIELD) against attacks from the marked target.                                                                                                                                                                                                                                                                                                          |
 | 12 (Level 10) | - If the marked target moves, shifts, or makes an attack that doesn’t include you, while within your melee range, you can make a [[Free Strike\|free strike]] against them. R \[strong\], the target’s speed is reduced to 0 for the rest of their turn. <br> - Attacks by the marked target that do not include you are automatically Tier 1 while you are adjacent to them. |
 
 ### STRIKE NOW
@@ -9721,9 +9721,9 @@ You shout a phrase that galvanizes your team.
 
 **Power Roll + Reason:**
 
-- 11 or lower: The target’s next attack has \[SURGE\]
-- 12–16: The target’s next attack has \[SURGE\]
-- 17+: The target’s next attack has \[SURGE\]\[SURGE\]
+- 11 or lower: The target’s next attack has (SURGE)
+- 12–16: The target’s next attack has (SURGE)
+- 17+: The target’s next attack has (SURGE)(SURGE)
 
 ###### CONCUSSIVE STRIKE (3 FOCUS)
 
@@ -9836,7 +9836,7 @@ As a 2nd-level tactician, you gain the following features.
 ### ADAPT A STRATEGY
 
 At the beginning of your first turn, choose an offensive strategy or a defensive strategy. Your choice increases either
-your \[SURGE\] limit to \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\] or your \[SHIELD\] limit to \[SHIELD\]\[SHIELD\]\[SHIELD\]\[SHIELD\].
+your (SURGE) limit to (SURGE)(SURGE)(SURGE)(SURGE) or your (SHIELD) limit to (SHIELD)(SHIELD)(SHIELD)(SHIELD).
 
 ### 2ND-LEVEL DOCTRINE FEATURES
 
@@ -9855,7 +9855,7 @@ must take their turn at the same time you choose.
 
 #### INFILTRATION TACTICS
 
-You and your allies do \[SURGE\] when attacking from concealment or while hidden.
+You and your allies do (SURGE) when attacking from concealment or while hidden.
 
 #### MELEE SUPERIORITY
 
@@ -9966,7 +9966,7 @@ Together we are invincible!
 **Type:** Maneuver\
 **Distance:** Self and 1 burst\
 **Target:** Self and all allies\
-**Effect:** Until the start of your next turn, targets have \[SHIELD\]\[SHIELD\] and a bonus to their Stability equal to your Might
+**Effect:** Until the start of your next turn, targets have (SHIELD)(SHIELD) and a bonus to their Stability equal to your Might
 score.
 
 ## 3RD-LEVEL FEATURES
@@ -9994,7 +9994,7 @@ Historians will write about this day.
 **Distance:** Self\
 **Target:** Self\
 **Effect:** Until the end of the encounter or you are dying, whenever you or an ally attacks a target marked by you,
-they do \[SURGE\]\[SURGE\].
+they do (SURGE)(SURGE).
 
 #### FRONTAL ASSAULT (7 FOCUS)
 
@@ -10263,7 +10263,7 @@ You gain access to the following triggered action:
 **Target:** Self or 1 ally\
 **Trigger:** The target takes damage or is force moved.
 
-**Effect:** The target gains \[SHIELD\] against the damage, or the force movement distance is reduced by an amount equal to
+**Effect:** The target gains (SHIELD) against the damage, or the force movement distance is reduced by an amount equal to
 your Reason score. If they were both damaged and force moved, you choose which is affected. If any [[Forced Movement|forced movement]] was
 reduced to 0, the source of the [[Forced Movement|forced movement]] is pushed a number of squares equal to your Reason, originating from the
 target. You gain 1 clarity.
@@ -10315,7 +10315,7 @@ to you, you can push them a number of squares equal to your Reason score as a fr
 #### STEEL WARD
 
 Your ward reacts to danger, protecting your body from future harm. When you take damage, the damage
-resolves and then you gain \[SHIELD\] until the end of your next turn.
+resolves and then you gain (SHIELD) until the end of your next turn.
 
 #### VANISHING WARD
 
@@ -10418,7 +10418,7 @@ their turn in the affected area takes 2 fire damage.\
 
 **Effect:** When targeting an object with a solid reflective surface, such as a mirror, a shield, or metal armor, you
 can choose an additional target within 3 of the reflective surface.\
-**Strained:** You have a \[SURGE\] on the attack. Enemies have a \[SURGE\] on attacks made against you until the start of your next
+**Strained:** You have a (SURGE) on the attack. Enemies have a (SURGE) on attacks made against you until the start of your next
 turn.
 
 ##### SPIRIT SWORD
@@ -10435,7 +10435,7 @@ turn.
 - 12-16: 5 damage
 - 17+: 7 damage
 
-**Effect:** The next attack against the target has a \[SURGE\].\
+**Effect:** The next attack against the target has a (SURGE).\
 **Strained:** The attack deals an extra 3 damage to the target and yourself. This damage ignores your immunities.
 
 #### HEROIC ABILITIES
@@ -10491,7 +10491,7 @@ stability.
 **Distance:** Self or Melee 2\
 **Target:** Self or 1 ally
 
-**Effect:** The target has \[SHIELD\] until the start of your next turn. Whenever the target takes damage while they have this
+**Effect:** The target has (SHIELD) until the start of your next turn. Whenever the target takes damage while they have this
 effect, they can take a [[Free Strike|free strike]] against the source of the damage.
 
 ###### SMOLDER (3 CLARITY)
@@ -10547,7 +10547,7 @@ distance you are force moved (save ends).
 **Distance:** Self or Ranged 10\
 **Target:** Self or 1 ally
 
-**Effect:** The target’s stability increases by 5, and they have \[SHIELD\] and a \[SURGE\] on weapon attacks until the start of your
+**Effect:** The target’s stability increases by 5, and they have (SHIELD) and a (SURGE) on weapon attacks until the start of your
 next turn.\
 **Strained:** You cannot use maneuvers (save ends).
 
@@ -10600,11 +10600,11 @@ falling damage by 2 + your Reason.
 
 #### EXTRA SHIELD
 
-Your \[SHIELD\] limit increases by 1, for a maximum of \[SHIELD\]\[SHIELD\]\[SHIELD\]\[SHIELD\].
+Your (SHIELD) limit increases by 1, for a maximum of (SHIELD)(SHIELD)(SHIELD)(SHIELD).
 
 #### EXTRA SURGE
 
-Your \[SURGE\] limit increases by 1, for a maximum of \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\].
+Your (SURGE) limit increases by 1, for a maximum of (SURGE)(SURGE)(SURGE)(SURGE).
 
 ### 5-CLARITY TRADITION ABILITY
 
@@ -10770,7 +10770,7 @@ tier-3 result.
 **Distance:** Self\
 **Target:** Self
 
-**Effect:** You create three size 1T orb objects that orbit your body. You have a \[SHIELD\] for each orb you have active.
+**Effect:** You create three size 1T orb objects that orbit your body. You have a (SHIELD) for each orb you have active.
 Whenever you take damage, you lose 1 orb.\
 You can use a free maneuver to fire an orb at a creature or object within 5 as a ranged attack on each of your turns,
 losing the orb after the attack.
@@ -10811,10 +10811,10 @@ forget a memory.
 - 12-16: 7 damage; P \[average\] [[Dazed|dazed]] (save ends)
 - 17+: 11 damage; P \[strong\] [[Dazed|dazed]] (save ends)
 
-**Effect:** After resolving the power roll, attacks and abilities used against the target have a \[SURGE\], and the target has a
+**Effect:** After resolving the power roll, attacks and abilities used against the target have a (SURGE), and the target has a
 bane on presence tests until the end of the encounter.\
 **Strained:** The potency of this ability increases by 1. You take 2d6 damage and attacks and abilities used against you
-have a \[SURGE\] until the end of the encounter.
+have a (SURGE) until the end of the encounter.
 
 # TROUBADOUR
 
@@ -10988,9 +10988,9 @@ You have the following ability.
 - **Effect:** Choose one of the following effects:
   - You herald a rousing tale of victory. An ally within distance has an edge on the next power roll they make before
     the start of your next turn.
-  - You weave a tale of caution. An ally within distance has \[SHIELD\] on the next instance of damage they take until the
+  - You weave a tale of caution. An ally within distance has (SHIELD) on the next instance of damage they take until the
     start of your next turn.
-  - You insult the enemy where they’re most vulnerable. The next attack made against an enemy within distance has \[SURGE\]
+  - You insult the enemy where they’re most vulnerable. The next attack made against an enemy within distance has (SURGE)
     until the start of your next turn.
   - **Spend 3 Drama:** You can have 2 targets for any of these effects instead of 1.
 
@@ -11056,7 +11056,7 @@ You have access to the following routines to use with Curtain Call.
 - **Type:** Routine
 - **Distance:** 5 Aura
 - **Target:** Self and all allies
-- **Effect:** Each target that starts their turn within the aura has \[SURGE\] the next time they deal damage until the end of
+- **Effect:** Each target that starts their turn within the aura has (SURGE) the next time they deal damage until the end of
   their turn.
 
 ### CLASS ACT TRIGGERED ACTION
@@ -11262,8 +11262,8 @@ Choose one heroic ability from the following options.
 - **Target:** Self and all allies
 - **Power Roll + Presence:**
   - 11 or lower: shift 1; target can take a [[Free Strike|free strike]]
-  - 12-16: shift 2; target can take a [[Free Strike|free strike]] with \[SURGE\]
-  - 17+: shift 3; target can take a [[Free Strike|free strike]] with \[SURGE\] and spend 1 Recovery
+  - 12-16: shift 2; target can take a [[Free Strike|free strike]] with (SURGE)
+  - 17+: shift 3; target can take a [[Free Strike|free strike]] with (SURGE) and spend 1 Recovery
 
 ###### FAKE YOUR DEATH (5 DRAMA)
 
@@ -11323,7 +11323,7 @@ When you roll to gain drama, you can make your appeal and gain the additional ef
 
 ### EXTRA SURGE
 
-Your \[SURGE\] limit increases by 1, for a maximum of \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\].
+Your (SURGE) limit increases by 1, for a maximum of (SURGE)(SURGE)(SURGE)(SURGE).
 
 ### INVOCATION
 
@@ -11378,7 +11378,7 @@ Choose one of the following abilities.
 - **Distance:** Self and Melee 1
 - **Target:** Self and 1 willing ally
 - **Effect:** The targets shift up to 5 squares, including vertically. The targets must end this movement adjacent to
-  each other and on solid ground. Each target can then take a [[Free Strike|free strike]] with \[SURGE\]\[SURGE\] against an enemy within reach.
+  each other and on solid ground. Each target can then take a [[Free Strike|free strike]] with (SURGE)(SURGE) against an enemy within reach.
 
 ##### EN GUARDE! (5 DRAMA)
 
@@ -11393,7 +11393,7 @@ Choose one of the following abilities.
   - 12-16: 11 damage; target can shift 2 and take a [[Free Strike|free strike]] against you
   - 17+: 16 damage; target can shift 1
 - **Effect:** If the target shifts or takes a [[Free Strike|free strike]] against you during this ability, you can shift 3 and take a
-  melee [[Free Strike|free strike]] against the target. If the target deals damage to you during this ability, you have \[SURGE\] on your free
+  melee [[Free Strike|free strike]] against the target. If the target deals damage to you during this ability, you have (SURGE) on your free
   strike.
 
 #### VIRTUOSO ABILITIES
@@ -11576,7 +11576,7 @@ Choose a new heroic ability from the following options.
 - **Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you
   would be out of distance. Secondary effects that grapple or force move the target don’t happen if you aren’t within
   the distance of the ability. On each of your turns, you can take a free maneuver to communicate a motivating or
-  dispiriting message to the target, either giving them \[SURGE\]\[SURGE\] or a bane on the next attack they use before the start of
+  dispiriting message to the target, either giving them (SURGE)(SURGE) or a bane on the next attack they use before the start of
   your next turn.
 
 # KITS
@@ -11819,7 +11819,7 @@ Your ammunition explodes with magical energy.\
 - 12–16: 6 damage
 - 17+: 8 damage
 
-*Effect:* A creature or object within 2 squares of your target takes \[SURGE\] damage.
+*Effect:* A creature or object within 2 squares of your target takes (SURGE) damage.
 
 ### BATTLEMIND
 
@@ -12023,7 +12023,7 @@ An enemy who tagged you will pay for that.\
 - 12–16: 5 damage
 - 17+: 11 damage
 
-*Effect:* If the target dealt damage to you since the end of your last turn, this attack gains \[SURGE\].
+*Effect:* If the target dealt damage to you since the end of your last turn, this attack gains (SURGE).
 
 ### PANTHER
 
@@ -12300,7 +12300,7 @@ Breathe … aim … wait… then strike!\
 - 12–16: 5 damage
 - 17+: 11 damage
 
-*Effect:* If you don’t take a move action this turn, you gain \[SURGE\] on this attack.
+*Effect:* If you don’t take a move action this turn, you gain (SURGE) on this attack.
 
 ### SPELLSWORD
 
@@ -12334,7 +12334,7 @@ Lightning [[Jump|jumps]] from your weapon as you strike to harm a nearby foe.\
 - 12–16: 7 lightning damage
 - 17+: 9 lightning damage
 
-*Effect:* A creature or object within 2 squares of your target takes \[SURGE\] lightning damage.
+*Effect:* A creature or object within 2 squares of your target takes (SURGE) lightning damage.
 
 ### STICK AND ROBE
 
@@ -12467,7 +12467,7 @@ The impact of your weapon brands your target for destruction.\
 - 12–16: 5 holy damage
 - 17+: 8 holy damage
 
-*Effect:* Attacks against the target deal \[SURGE\] (EoT).
+*Effect:* Attacks against the target deal (SURGE) (EoT).
 
 ### WHIRLWIND
 
@@ -14572,29 +14572,29 @@ Whenever you take damage, you reduce your Stamina by an amount equal to the dama
 
 ### SURGES AND SHIELDS
 
-In the heat of battle, a blessing from a conduit, good advice barked out by a tactician, or a ballad sung by the troubadour can empower allies to deal more damage with their abilities and avoid incoming harm from their wicked foes. Surges, represented by the *surge* icon, are special bonuses that increase a creature’s damage output. Shields, represented by the *shield* icon (\[SHIELD\]), are special bonuses that decrease damage being dealt to a creature.
+In the heat of battle, a blessing from a conduit, good advice barked out by a tactician, or a ballad sung by the troubadour can empower allies to deal more damage with their abilities and avoid incoming harm from their wicked foes. Surges, represented by the *surge* icon, are special bonuses that increase a creature’s damage output. Shields, represented by the *shield* icon ((SHIELD)), are special bonuses that decrease damage being dealt to a creature.
 
 #### USING SURGES
 
-Each \[SURGE\] has a value equal to your highest characteristic score.
+Each (SURGE) has a value equal to your highest characteristic score.
 
-Many effects that grant you one or more \[SURGE\] specify that the \[SURGE\] takes effect when you deal damage with an ability. If you have a \[SURGE\] that works this way, you deal additional damage equal to your highest characteristic score for each \[SURGE\] you have when you use this ability. Unless the effect states otherwise, the damage dealt by the \[SURGE\] is the same type and uses the same keywords as the ability. If the ability deals more than one damage type, you decide which of the ability’s damage types the \[SURGE\] uses.
+Many effects that grant you one or more (SURGE) specify that the (SURGE) takes effect when you deal damage with an ability. If you have a (SURGE) that works this way, you deal additional damage equal to your highest characteristic score for each (SURGE) you have when you use this ability. Unless the effect states otherwise, the damage dealt by the (SURGE) is the same type and uses the same keywords as the ability. If the ability deals more than one damage type, you decide which of the ability’s damage types the (SURGE) uses.
 
-Some abilities and effects use \[SURGE\] to represent all of the damage they deal (as opposed to using them for additional damage). In this case, you deal damage equal to your highest characteristic score for each \[SURGE\] you have. Unless specified otherwise, this damage is untyped.
+Some abilities and effects use (SURGE) to represent all of the damage they deal (as opposed to using them for additional damage). In this case, you deal damage equal to your highest characteristic score for each (SURGE) you have. Unless specified otherwise, this damage is untyped.
 
-If you are dealing damage with a \[SURGE\] granted to you by another creature’s ability, the \[SURGE\] value equals your highest characteristic score because you are the one dealing damage. It does not equal the other creature’s highest characteristic score.
+If you are dealing damage with a (SURGE) granted to you by another creature’s ability, the (SURGE) value equals your highest characteristic score because you are the one dealing damage. It does not equal the other creature’s highest characteristic score.
 
 #### USING SHIELDS
 
-Each \[SHIELD\] has a value equal to your highest characteristic score.
+Each (SHIELD) has a value equal to your highest characteristic score.
 
-Many abilities and effects grant you one or more \[SHIELD\] against a single, specific instance of damage, such as an attack, or in specific circumstances, such as while standing in a conduit’s protective aura. In other cases, you may gain a \[SHIELD\] for a specific duration, such as until the end of your next turn, and these are counted against every instance of damage you take until the duration runs out.
+Many abilities and effects grant you one or more (SHIELD) against a single, specific instance of damage, such as an attack, or in specific circumstances, such as while standing in a conduit’s protective aura. In other cases, you may gain a (SHIELD) for a specific duration, such as until the end of your next turn, and these are counted against every instance of damage you take until the duration runs out.
 
-When you take damage, you reduce the damage by an amount equal to your highest characteristic score for every \[SHIELD\] that applies to it.
+When you take damage, you reduce the damage by an amount equal to your highest characteristic score for every (SHIELD) that applies to it.
 
 #### UP TO THREE OF EACH
 
-Surges and shields can be stacked to boost their effectiveness. A single source of damage can have up to three surges (\[SURGE\]\[SURGE\]\[SURGE\]) and three shields (\[SHIELD\]\[SHIELD\]\[SHIELD\]) applied. A hero can only get so much power from their circumstances! This rule also prevents you from doing a lot of counting at the table. Once you get to three, you can stop.
+Surges and shields can be stacked to boost their effectiveness. A single source of damage can have up to three surges ((SURGE)(SURGE)(SURGE)) and three shields ((SHIELD)(SHIELD)(SHIELD)) applied. A hero can only get so much power from their circumstances! This rule also prevents you from doing a lot of counting at the table. Once you get to three, you can stop.
 
 ### DAMAGE TYPES
 
@@ -16360,7 +16360,7 @@ A small pot is filled with a viscous, ochre oil that smells of sulfur and burnt 
 - **Project Source:** Texts or lore in Caelian
 - **Project Roll Characteristic:** Reason or Intuition
 - **Project Goal:** 45
-- **Effect:** As a maneuver, you can coat a weapon in this oil and ignite it. The weapon burns persistently and without harming itself until it is extinguished as a maneuver. Whenever you use a weapon that is ignited this way with a damage-dealing weapon ability, you deal \[SURGE\] fire damage. Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 1 square and any creatures or objects in that square with a sticky, flammable oil. If the oil takes any fire damage, it burns persistently and deals 5 fire damage at the end of each of your turns to anything it has coated. A creature covered in the oil or who can reach it can use an action to extinguish the flames and end the effect.
+- **Effect:** As a maneuver, you can coat a weapon in this oil and ignite it. The weapon burns persistently and without harming itself until it is extinguished as a maneuver. Whenever you use a weapon that is ignited this way with a damage-dealing weapon ability, you deal (SURGE) fire damage. Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 1 square and any creatures or objects in that square with a sticky, flammable oil. If the oil takes any fire damage, it burns persistently and deals 5 fire damage at the end of each of your turns to anything it has coated. A creature covered in the oil or who can reach it can use an action to extinguish the flames and end the effect.
 
 #### GROWTH POTION
 
@@ -16371,7 +16371,7 @@ This thick, green liquid tastes of licorice and potatoes.
 - **Project Source:** Texts or lore in Caelian
 - **Project Roll Characteristic:** Reason or Intuition
 - **Project Goal:** 45
-- **Effect:** As a maneuver, you can drink this potion or pour it over an object of size 2 or smaller, causing the target’s size to increase by 1. If you are the target, your current Stamina and Stability are doubled, you gain an edge on Might tests, and your weapon attacks gain \[SURGE\]. You shrink back to your original size after 3 rounds, halving your current Stamina and Stability, and losing the potion’s other benefits. Objects maintain their new size permanently.
+- **Effect:** As a maneuver, you can drink this potion or pour it over an object of size 2 or smaller, causing the target’s size to increase by 1. If you are the target, your current Stamina and Stability are doubled, you gain an edge on Might tests, and your weapon attacks gain (SURGE). You shrink back to your original size after 3 rounds, halving your current Stamina and Stability, and losing the potion’s other benefits. Objects maintain their new size permanently.
 
 #### HEALING POTION
 
@@ -16467,7 +16467,7 @@ This delicate orange blossom has a sickly-sweet smell.
 - **Project Source:** Text or lore in Yllyric
 - **Project Roll Characteristic:** Reason or Intuition
 - **Project Goal:** 45 (yields 1d6 + 1 snapdragons)
-- **Effect:** As a maneuver, you sniff a magical snapdragon blossom, causing it to wither and making your movements more forceful and explosive. The next damage-dealing ability you use deals \[SURGE\], and adds 2 squares to the distance of any [[Forced Movement|forced movement]] the ability imposes. If the ability does not impose [[Forced Movement|forced movement]], you can push each creature targeted by the ability up to 2 squares.
+- **Effect:** As a maneuver, you sniff a magical snapdragon blossom, causing it to wither and making your movements more forceful and explosive. The next damage-dealing ability you use deals (SURGE), and adds 2 squares to the distance of any [[Forced Movement|forced movement]] the ability imposes. If the ability does not impose [[Forced Movement|forced movement]], you can push each creature targeted by the ability up to 2 squares.
 
 ## TRINKETS
 
@@ -16654,8 +16654,8 @@ A tight-fitting suit of tough flesh that latches painlessly onto the wearer with
 - **Project Roll Characteristic:** Agility or Intuition
 - **Project Goal:** 450
 - **1st Level:** You gain a +6 bonus to Stamina while you wear this armor, and you gain immunity to acid and poison damage equal to your highest characteristic score.
-- **5th Level:** You gain a +12 bonus to Stamina while you wear this armor. When an adjacent creature deals damage to you, they take \[SURGE\] magic damage that is acid or poison damage (your choice).
-- **9th Level:** You gain a +21 bonus to Stamina while you wear this armor. The damage adjacent creatures who deal damage to you takes rises to \[SURGE\]\[SURGE\]. As a maneuver, you can transmute a 2-cube area of liquid or gas within 1 square of you into liquid acid or poison gas until the start of your next turn. A creature who enters or starts their turn in the square takes \[SURGE\] magic damage that is acid or poison, based on the conversion you made.
+- **5th Level:** You gain a +12 bonus to Stamina while you wear this armor. When an adjacent creature deals damage to you, they take (SURGE) magic damage that is acid or poison damage (your choice).
+- **9th Level:** You gain a +21 bonus to Stamina while you wear this armor. The damage adjacent creatures who deal damage to you takes rises to (SURGE)(SURGE). As a maneuver, you can transmute a 2-cube area of liquid or gas within 1 square of you into liquid acid or poison gas until the start of your next turn. A creature who enters or starts their turn in the square takes (SURGE) magic damage that is acid or poison, based on the conversion you made.
 
 #### CHAIN OF THE SEA AND SKY
 
@@ -16748,8 +16748,8 @@ This heavy mechanized plate armor of gnomish make is designed to create its own 
 - **Project Roll Characteristic:** Might, Reason, or Intuition
 - **Project Goal:** 450
 - **1st Level:** While you wear this armor, you gain a +6 Stamina bonus. Additionally, as an action, you can expand the armor on your back to create a 4-wall of metal behind you. The wall is an object that retracts if you move, or if it takes 15 damage. It then requires an action to recalibrate before it can be deployed again.
-- **5th Level:** The armor’s Stamina bonus increases to +12. Additionally, the amount of damage the wall can take before retracting increases to 25. While the wall is expanded, spikes extrude from it, and any creature who attacks the wall while adjacent to it takes \[SURGE\] damage.
-- **9th Level:** The armor’s Stamina bonus increases to +21. Additionally, spikes cover the armor, and any creature who attacks you while adjacent to you takes \[SURGE\] damage.
+- **5th Level:** The armor’s Stamina bonus increases to +12. Additionally, the amount of damage the wall can take before retracting increases to 25. While the wall is expanded, spikes extrude from it, and any creature who attacks the wall while adjacent to it takes (SURGE) damage.
+- **9th Level:** The armor’s Stamina bonus increases to +21. Additionally, spikes cover the armor, and any creature who attacks you while adjacent to you takes (SURGE) damage.
 
 #### STAR-HUNTER
 
@@ -16775,7 +16775,7 @@ Those who strike against the bulwark are often locked into a duel to the death.
 - **Project Goal:** 450
 - **1st Level:** You gain +2 Stamina. Once per turn as a free triggered action, you can use the [[Grab]] maneuver against an adjacent enemy who attacks. There is no limit to the number of enemies you can [[Grab|grab]] with this action.
 - **5th Level:** You gain +5 Stamina. The shield’s free triggered action can now [[Grab|grab]] enemies that attack within 10 squares of you. Enemies [[Grabbed|grabbed]] by the bulwark suffer a bane when attempting to escape.
-- **9th Level:** You gain \[SHIELD\]. As a maneuver, you can make the shield pull in any number of targets it has [[Grabbed|grabbed]] up to 5 squares.
+- **9th Level:** You gain (SHIELD). As a maneuver, you can make the shield pull in any number of targets it has [[Grabbed|grabbed]] up to 5 squares.
 
 ### LEVELED IMPLEMENT TREASURES
 
@@ -16817,8 +16817,8 @@ A perfectly clear sphere is embossed with fine ivory and crystal that is frigid 
 - **Project Roll Characteristic:** Might, Reason, or Intuition
 - **Project Goal:** 450
 - **1st Level:** While you wield this implement, your damage-dealing magic abilities gain a +2 damage bonus. If you make a magic attack, the attack must deal cold damage instead of its usual damage.
-- **5th Level:** The implement’s damage bonus increases to +4. Whenever you use a magic ability, a [[Whirlwind|whirlwind]] of sleet and ice whips around you, dealing \[SURGE\] magic cold damage to each enemy within 1 square of you.
-- **9th Level:** The implement’s damage bonus increases to +6. Additionally, the [[Whirlwind|whirlwind]] you create when you use a magic ability deals \[SURGE\]\[SURGE\] magic cold damage to each enemy within 2 squares of you, and creates a 2-aura around you that lasts until the start of your next turn. Each enemy who enters the aura for the first time in a round or starts their turn there takes \[SURGE\]\[SURGE\] magic cold damage.
+- **5th Level:** The implement’s damage bonus increases to +4. Whenever you use a magic ability, a [[Whirlwind|whirlwind]] of sleet and ice whips around you, dealing (SURGE) magic cold damage to each enemy within 1 square of you.
+- **9th Level:** The implement’s damage bonus increases to +6. Additionally, the [[Whirlwind|whirlwind]] you create when you use a magic ability deals (SURGE)(SURGE) magic cold damage to each enemy within 2 squares of you, and creates a 2-aura around you that lasts until the start of your next turn. Each enemy who enters the aura for the first time in a round or starts their turn there takes (SURGE)(SURGE) magic cold damage.
 
 #### ETHER-FUELED CENSOR
 
@@ -16938,7 +16938,7 @@ The blade hums louder as its quarry weakens.
 - **Project Roll Characteristic:** Might, Reason, or Intuition
 - **Project Goal:** 450
 - **1st Level:** You gain a +1 bonus psychic damage to abilities that use the blade. This bonus is increased to +3 against winded targets. The first time you cause an enemy to become winded in an encounter, you gain 10 Temporary Stamina.
-- **5th Level:** You gain a +2 bonus psychic damage to abilities that use the blade. This bonus is increased to +6 against winded targets. When you cause an enemy to become winded with an attack made with the blade, the attack gains \[SURGE\]\[SURGE\].
+- **5th Level:** You gain a +2 bonus psychic damage to abilities that use the blade. This bonus is increased to +6 against winded targets. When you cause an enemy to become winded with an attack made with the blade, the attack gains (SURGE)(SURGE).
 - **9th Level:** You gain a +3 bonus psychic damage to abilities that use the blade. This bonus is increased to +9 against winded targets. You gain an edge on attacks against winded targets made with the blade.
 
 #### ICEMAKER MAUL
@@ -16951,8 +16951,8 @@ Whatever the head of this platinum hammer touches becomes encased in ice.
 - **Project Roll Characteristic:** Might, Reason, or Intuition
 - **Project Goal:** 450
 - **1st Level:** You gain a +2 bonus cold damage to weapon abilities that use the maul. You can use your maneuver to create a 3-burst ice field. This area becomes [[Difficult Terrain|difficult terrain]] for enemies and lasts until the end of the encounter or when you use this ability again.
-- **5th Level:** The maul’s damage bonus is increased to +4 cold damage, and the ice field size is increased to 4 burst. When you make a weapon attack against an enemy in the ice field with the maul, you gain \[SURGE\] on the attack.
-- **9th Level:** The maul’s damage bonus is increased to +6 cold damage, and the size of the ice field is increased to 5 burst. Any enemy in the ice field that is defeated by an attack from the maul can be shattered, dealing \[SURGE\]\[SURGE\]\[SURGE\] cold damage to any enemies within 3 of your target.
+- **5th Level:** The maul’s damage bonus is increased to +4 cold damage, and the ice field size is increased to 4 burst. When you make a weapon attack against an enemy in the ice field with the maul, you gain (SURGE) on the attack.
+- **9th Level:** The maul’s damage bonus is increased to +6 cold damage, and the size of the ice field is increased to 5 burst. Any enemy in the ice field that is defeated by an attack from the maul can be shattered, dealing (SURGE)(SURGE)(SURGE) cold damage to any enemies within 3 of your target.
 
 #### KNIFE OF NINE
 
@@ -16965,7 +16965,7 @@ This ivory dagger features nine faintly glowing indentations along the blade.
 - **Project Goal:** 450
 - **1st Level:** Whenever you use this knife with a weapon ability, the ability deals an extra 3 psychic damage. This extra damage increases by 1 each time you attack the same target during the same encounter, to a maximum of 3.
 - **5th Level:** Whenever you reduce a creature to 0 Stamina with the knife, one of its indentations glows brighter. When you use a signature ability using the knife, you can use a triggered action to expend any number of bright-glowing indentations, with the ability dealing extra psychic damage equal to the number of indentations. The expended indentations then return to a dim glow.
-- **9th Level:** If you make a weapon attack against a target after dropping down on them from at least 2 squares’ height, the attack deals an extra \[SURGE\]\[SURGE\] psionic psychic damage. You can distribute all extra psychic damage dealt by the attack between the target and any enemies adjacent to them.
+- **9th Level:** If you make a weapon attack against a target after dropping down on them from at least 2 squares’ height, the attack deals an extra (SURGE)(SURGE) psionic psychic damage. You can distribute all extra psychic damage dealt by the attack between the target and any enemies adjacent to them.
 
 #### LANCE OF THE SUNDERED STAR
 
@@ -16990,8 +16990,8 @@ Once belonging to a notorious and terrifying [[Gladiator|gladiator]], this flexi
 - **Project Roll Characteristic:** Might, Reason, or Intuition
 - **Project Goal:** 450
 - **1st Level:** Whenever you use this net with a weapon ability, the ability deals an extra 1 fire damage. Additionally, whenever you make an attack using this weapon and obtain a tier 3 result, the target is automatically [[Grabbed|grabbed]] after the attack’s effects resolve. A target [[Grabbed|grabbed]] in this way takes a bane when using the [[Escape Grab]] maneuver.
-- **5th Level:** The net’s extra fire damage increases to 3. A target [[Grabbed|grabbed]] by an attack using the net takes \[SURGE\]\[SURGE\] magic fire damage each time they attempt to escape using the [[Escape Grab]] maneuver.
-- **9th Level:** The net’s extra fire damage increases to 5, and the damage taken by a [[Grabbed|grabbed]] creature attempting to escape increases to \[SURGE\]\[SURGE\]\[SURGE\]. Additionally, you can use a maneuver to make a [[Free Strike|free strike]] with another weapon against a target [[Grabbed|grabbed]] by the net.
+- **5th Level:** The net’s extra fire damage increases to 3. A target [[Grabbed|grabbed]] by an attack using the net takes (SURGE)(SURGE) magic fire damage each time they attempt to escape using the [[Escape Grab]] maneuver.
+- **9th Level:** The net’s extra fire damage increases to 5, and the damage taken by a [[Grabbed|grabbed]] creature attempting to escape increases to (SURGE)(SURGE)(SURGE). Additionally, you can use a maneuver to make a [[Free Strike|free strike]] with another weapon against a target [[Grabbed|grabbed]] by the net.
 
 #### ONEROUS BOW
 
@@ -17072,7 +17072,7 @@ The blood we shed is the blood we share.
 - **Project Roll Characteristics:** Might, Reason, or Intuition
 - **Project Goal:** 450
 - **1st Level:** You gain a +6 bonus to Stamina while you wear this ring. During a respite, touch this ring to any number of other Bloodbound Bands worn by willing creatures to form a bond among all of you. Creatures related by blood cannot form bonds in this way. Bonded creatures may use the highest recovery value among them in place of their own and can spend each other’s Recoveries as if they were their own. When a creature bonded with you takes damage, you take 1 damage, which can’t be reduced in any way. Your bond ends if you remove the ring, form another bond, or die, but other rings continue to be bonded to each other.
-- **5th Level:** The ring’s bonus to Stamina increases to +12, and you gain \[SHIELD\] while you wear the ring.
+- **5th Level:** The ring’s bonus to Stamina increases to +12, and you gain (SHIELD) while you wear the ring.
 - **9th Level:** The ring’s bonus to Stamina increases to +21. If a creature bonded with you dies, you can die in their place. Your sacrifice twists fate to remove the creature from danger, and they regain Stamina equal to their winded value. Your ring then [[Teleport|teleports]] into their possession and ceases to be magical.
 
 #### BLOODY HANDWRAPS
@@ -17143,10 +17143,10 @@ Whether drawn from a stone, gifted by a lake spirit, forged by a god, or used to
 Those who touch the blade are filled with the vigor and power of the thousand heroes who have held it before.
 
 - **Suited for Victory:** This sword takes on the size, shape, and make that the wielder wills into it. It can be a light, medium, or heavy weapon, and you can change its weapon type and appearance as a free maneuver. Any ability that uses the Blade of a Thousand Heroes gains a +8 damage bonus, and that ability always deals holy damage. Any creature vulnerable to holy damage who takes damage from this weapon is also [[Weakened|weakened]] (EoT) and [[Frightened|frightened]] (EoT).
-- **Rally the Righteous:** This blade fills all around it with hope and courage. Each allied creature within 1 mile of the weapon gains \[SURGE\] with weapon abilities and magic abilities, and has \[SHIELD\]. In addition, each such creature’s Stamina maximum increases by 15 and they gain 15 Stamina when this ability first affects them.
+- **Rally the Righteous:** This blade fills all around it with hope and courage. Each allied creature within 1 mile of the weapon gains (SURGE) with weapon abilities and magic abilities, and has (SHIELD). In addition, each such creature’s Stamina maximum increases by 15 and they gain 15 Stamina when this ability first affects them.
 - **Turn the Tide:** Each enemy minion within 1 mile of the sword is [[Dazed|dazed]]. Additionally, any enemy solo or leader in that area takes a bane on attacks.
 - **Victory’s Assurance:** This blade always appears on the eve before what will later come to be known as a historic battle. It disappears after 24 hours or when the battle is won, whichever comes first. By taking this blade, the wielder unwittingly enters into a pact with the weapon. If they don’t secure victory against monumental odds or some great foe by the time the sword disappears, they are pulled into the sword, preventing any chance of resurrection, and forever dooming them to lend their strength to the heroes of other ages.
-- **Soul of the Martyr:** If the wielder dies while holding this blade, their soul is drawn into the starlight hilt, where it remains for the rest of time to prevent any chance of resurrection. The sword disappears, but the lingering feeling of hope that spreads from it remains. For the next hour, the effects of Rally the Righteous change to \[SURGE\]\[SURGE\] for all allies’ weapon and magic abilities and each ally gains \[SHIELD\]\[SHIELD\] and an increase in Stamina maximum and Stamina of 30.
+- **Soul of the Martyr:** If the wielder dies while holding this blade, their soul is drawn into the starlight hilt, where it remains for the rest of time to prevent any chance of resurrection. The sword disappears, but the lingering feeling of hope that spreads from it remains. For the next hour, the effects of Rally the Righteous change to (SURGE)(SURGE) for all allies’ weapon and magic abilities and each ally gains (SHIELD)(SHIELD) and an increase in Stamina maximum and Stamina of 30.
 
 ### ENCEPTER
 
@@ -17345,7 +17345,7 @@ Choose one of the following benefits:
 **Prerequisites:** You join an organization, such as the Far Mariners, that hunts [[Criminal|criminals]], or you are deputized to act for the local authorities.\
 Choose one of the following benefits:
 
-- **I Guess It’s the Hard Way:** When a combat begins and you are not surprised, the first time you take damage before your turn, you have \[SHIELD\] against that damage.
+- **I Guess It’s the Hard Way:** When a combat begins and you are not surprised, the first time you take damage before your turn, you have (SHIELD) against that damage.
 - **Heedless Pursuer:** Once on your turn, you can spend 1d6 Stamina as a free maneuver. If you do so, you ignore [[Difficult Terrain|difficult terrain]] and the length of your [[Jump|jumps]] increases by 1 square until the end of your turn.
 - **Silver Shield:** You have a badge granted to you by your organization. While you are wearing it, you gain the Divine Interdiction feature from the Censor class. When you use this feature in this way, you can’t spend zeal unless you have the Zeal class feature.
 - **Trained Tracker:** You gain an edge on tests made to track [[Criminal|criminals]].
@@ -17375,7 +17375,7 @@ Additionally, the faction is a good source of information. The Director chooses 
 **Prerequisites:** You defeat a leader or solo monster that is 1S or smaller, such as a [[Goblin Monarch|goblin monarch]].\
 Choose one of the following benefits:
 
-- **Death From Above:** You gain \[SURGE\] when making an attack against a creature whose size is smaller than yours.
+- **Death From Above:** You gain (SURGE) when making an attack against a creature whose size is smaller than yours.
 
 - **Everybody Move!:** When you use the [[Knockback]] maneuver, you can use it on one additional creature of your size or two additional smaller creatures.
 
@@ -17420,7 +17420,7 @@ Choose one of the following benefits:
 Choose one of the following benefits:
 
 - **Honor Among Thieves:** You are considered to have 2 higher Renown when negotiating with [[Criminal|criminals]].
-- **Minion Mower:** When you make a melee attack that targets a minion and at least one more minion is within distance of the attack, the attack gains \[SURGE\].
+- **Minion Mower:** When you make a melee attack that targets a minion and at least one more minion is within distance of the attack, the attack gains (SURGE).
 - **No, You’re Under Arrest!:** You gain an edge on resistance rolls made to escape a [[Grab|grab]]. Additionally, when you make a successful test to escape manacles or bonds, as part of the same maneuver you can transfer the manacles or bonds to another person adjacent to you without them immediately noticing.
 
 ### ZOMBIE SLAYER
@@ -17441,7 +17441,7 @@ Choose one of the following benefits:
   *Type:* Action\
   *Distance:* 3 burst\
   *Target:* All enemies\
-  *Effect:* Each undead creature in the area takes \[SURGE\] holy damage and is P \[strong\] [[Frightened|frightened]] (save ends).
+  *Effect:* Each undead creature in the area takes (SURGE) holy damage and is P \[strong\] [[Frightened|frightened]] (save ends).
 
 ## PERKS AS TITLES
 

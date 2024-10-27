@@ -31,4 +31,4 @@ Hard for them to fight when they're busy holding in their giblets.
 - 11 or lower: 3 damage; M \[weak\] bleeding (save ends)
 - 12–16: 5 damage; M \[average\] bleeding (save ends)
 - 17+: 8 damage; M \[average\] bleeding (save ends)\
-  **Effect:** The target takes \[SURGE\] whenever they fail a save for bleeding.
+  **Effect:** The target takes (SURGE) whenever they fail a save for bleeding.
