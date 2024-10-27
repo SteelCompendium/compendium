@@ -29,5 +29,5 @@ Cursed by you, your enemy takes more damage from your allies.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 3 corruption damage; \[weak\] when the target takes damage from an ability, the ability deals **+1** ( save ends)
-- **12–16:** 6 corruption damage; \[average\] when the target takes damage from an ability, the ability deals **+2** (save ends)
+- **12-16:** 6 corruption damage; \[average\] when the target takes damage from an ability, the ability deals **+2** (save ends)
 - **17+:** 9 corruption damage; \[strong\] when the target takes damage from an ability, the ability deals **+3** (save ends)

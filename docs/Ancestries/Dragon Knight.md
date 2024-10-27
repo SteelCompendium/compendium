@@ -170,9 +170,9 @@ You let loose a mighty roar to shake your foes' spirits.
 
 **Power Roll + Might or Presence:**
 
-- 11 or lower: 2 damage
-- 12–16: 3 damage
-- 17+: 4 damage; I \[strong\] [[Frightened|frightened]] (save ends)
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 4 damage; I \[strong\] [[Frightened|frightened]] (save ends)
 
 #### Dragon Weapon (costs 2 Points)
 
@@ -184,9 +184,9 @@ You expel energy to damage your foes.
 
 **Power Roll + Might or Presence:**
 
-- 11 or lower: 2 damage
-- 12–16: 3 damage
-- 17+: 4 damage
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 4 damage
 
 **Effect:** You choose the attack's damage type from acid, cold, corruption, fire, lightning, or poison.
 

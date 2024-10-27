@@ -32,7 +32,7 @@ You wear light armor and wield a medium weapon.
 
 ## Signature Ability
 
-**UNMOORING**
+### Unmooring
 
 Your weapon unleashes psionic energy that reduces your target's weight.
 
@@ -41,8 +41,8 @@ Your weapon unleashes psionic energy that reduces your target's weight.
 | **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action       |
 | **Distance:** Melee 1                        | **Target:** 1 creature |
 
-*Power Roll + Might, Reason, Intuition, or Presence:*
+**Power Roll + Might, Reason, Intuition, or Presence:**
 
-- 11 or lower: 5 damage; stability reduced by 1 (EoT)
-- 12–16: 7 damage; stability reduced by 2 (EoT)
-- 17+: 10 damage; stability reduced by 3 (EoT)
+- **11 or lower:** 5 damage; stability reduced by 1 (EoT)
+- **12-16:** 7 damage; stability reduced by 2 (EoT)
+- **17+:** 10 damage; stability reduced by 3 (EoT)

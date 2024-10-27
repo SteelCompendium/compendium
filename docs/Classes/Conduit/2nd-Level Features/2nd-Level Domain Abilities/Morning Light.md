@@ -28,7 +28,7 @@ Light shines at your command, burning your foes and blessing your allies.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 4 fire damage
-- **12–16:** 6 fire damage
+- **12-16:** 6 fire damage
 - **17+:** 10 fire damage
 
 **Effect:** Each ally in the area deals **+1 fire damage** with their next attack made before the end of their next turn.

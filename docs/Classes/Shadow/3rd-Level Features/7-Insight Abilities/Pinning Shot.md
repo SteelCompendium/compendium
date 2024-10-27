@@ -28,6 +28,6 @@ One missile—placed well and placed hard.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 8 damage; A \[weak\] restrained (save ends)
-- 12-16: 12 damage; A \[average\] restrained (save ends)
-- 17+: 16 damage; A \[strong\] restrained (save ends)
+- **11 or lower:** 8 damage; A \[weak\] restrained (save ends)
+- **12-16:** 12 damage; A \[average\] restrained (save ends)
+- **17+:** 16 damage; A \[strong\] restrained (save ends)

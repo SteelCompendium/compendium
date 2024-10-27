@@ -29,8 +29,8 @@ target: All enemies
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 psychic damage
-- 12–16: 4 psychic damage
-- 17+: 6 psychic damage
+- **11 or lower:** 2 psychic damage
+- **12-16:** 4 psychic damage
+- **17+:** 6 psychic damage
 
 **Persistent 1:** At the start of your turn, you can use your maneuver to use this ability again without spending essence.

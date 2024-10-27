@@ -29,8 +29,8 @@ target: 1 creature
 
 **Power Roll + Agility:**
 
-- 11 or lower: 3 psychic damage; I \[weak\] suffer effect and slowed (save ends) when returned
-- 12-16: 4 psychic damage; I \[average\] suffer effect and slowed (save ends) when returned
-- 17+: 6 psychic damage; I \[strong\] suffer effect and slowed (save ends) when returned
+- **11 or lower:** 3 psychic damage; I \[weak\] suffer effect and slowed (save ends) when returned
+- **12-16:** 4 psychic damage; I \[average\] suffer effect and slowed (save ends) when returned
+- **17+:** 6 psychic damage; I \[strong\] suffer effect and slowed (save ends) when returned
 
 **Effect:** The target is removed from the encounter until the end of their next turn, appearing where they were removed or in the closest available space of the Director's choice.

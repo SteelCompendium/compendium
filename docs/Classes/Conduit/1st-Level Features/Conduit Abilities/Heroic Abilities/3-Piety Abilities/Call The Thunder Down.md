@@ -29,7 +29,7 @@ You ask your saint for thunder and your prayer is answered.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 sonic damage; push 1
-- **12–16:** 3 sonic damage; push 2
+- **12-16:** 3 sonic damage; push 2
 - **17+:** 5 sonic damage; push 3
 
 **Effect:** You can also push each willing ally in the area, and their stability doesn't count against this forced movement.

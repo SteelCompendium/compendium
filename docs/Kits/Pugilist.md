@@ -31,7 +31,7 @@ You wear no armor and wield only your unarmed strikes.
 
 ## Signature Ability
 
-**LET'S DANCE**
+### Let's Dance
 
 Keeping your enemies stumbling around the battlefield is second nature to you.
 
@@ -40,10 +40,10 @@ Keeping your enemies stumbling around the battlefield is second nature to you.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Melee 1               | **Target:** 1 creature |
 
-*Power Roll + Might or Agility:*
+**Power Roll + Might or Agility:**
 
-- 11 or lower: 3 damage
-- 12–16: 4 damage; slide 1
-- 17+: 6 damage; slide 2
+- **11 or lower:** 3 damage
+- **12-16:** 4 damage; slide 1
+- **17+:** 6 damage; slide 2
 
-*Effect:* You can shift into any square your target leaves after you slide them.
+**Effect:** You can shift into any square your target leaves after you slide them.

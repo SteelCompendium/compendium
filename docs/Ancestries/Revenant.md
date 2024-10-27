@@ -149,8 +149,8 @@ A magical sigil you placed on a creature explodes with energy.
 
 **Power Roll + Reason, Intuition, or Presence:**
 
-- 11 or lower: 2 damage; slide 1
-- 12–16: 4 damage; slide 2
-- 17+: 6 damage; slide 3
+- **11 or lower:** 2 damage; slide 1
+- **12-16:** 4 damage; slide 2
+- **17+:** 6 damage; slide 3
 
 **Effect:** The sigil disappears from the creature.

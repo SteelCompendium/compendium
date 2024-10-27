@@ -29,6 +29,6 @@ Your attack gives an ally hope.
 
 **Power Roll + Might:**
 
-- 11 or lower: 3 damage; you or an ally within 10 can spend a Recovery
-- 12–16: 5 damage; you or an ally within 10 can spend a Recovery
-- 17+: 8 damage; you or an ally within 10 can spend a Recovery, and each of you gains an edge on the next attack they make this encounter
+- **11 or lower:** 3 damage; you or an ally within 10 can spend a Recovery
+- **12-16:** 5 damage; you or an ally within 10 can spend a Recovery
+- **17+:** 8 damage; you or an ally within 10 can spend a Recovery, and each of you gains an edge on the next attack they make this encounter

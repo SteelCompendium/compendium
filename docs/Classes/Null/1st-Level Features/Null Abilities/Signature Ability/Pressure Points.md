@@ -28,6 +28,6 @@ target: 1 creature or object
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; A \[weak\] weakened (save ends)
-- 12-16: 5 damage; A \[average\] weakened (save ends)
-- 17+: 7 damage; A \[strong\] weakened (save ends)
+- **11 or lower:** 4 damage; A \[weak\] weakened (save ends)
+- **12-16:** 5 damage; A \[average\] weakened (save ends)
+- **17+:** 7 damage; A \[strong\] weakened (save ends)

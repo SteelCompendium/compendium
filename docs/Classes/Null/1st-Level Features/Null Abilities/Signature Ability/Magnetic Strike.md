@@ -28,6 +28,6 @@ target: 1 creature or object
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 psychic damage; pull 1
-- 12-16: 7 psychic damage; pull 2
-- 17+: 9 psychic damage; pull 3
+- **11 or lower:** 4 psychic damage; pull 1
+- **12-16:** 7 psychic damage; pull 2
+- **17+:** 9 psychic damage; pull 3

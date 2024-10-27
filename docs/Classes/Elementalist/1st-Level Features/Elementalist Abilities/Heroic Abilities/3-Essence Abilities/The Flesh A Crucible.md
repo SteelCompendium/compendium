@@ -29,8 +29,8 @@ target: 1 creature or object
 
 **Power Roll + Reason:**
 
-- 11 or lower: 5 fire damage
-- 12–16: 8 fire damage
-- 17+: 11 fire damage
+- **11 or lower:** 5 fire damage
+- **12-16:** 8 fire damage
+- **17+:** 11 fire damage
 
 **Persistent 1:** If the target is within distance at the start of your turn, make a power roll for this ability again.

@@ -28,6 +28,6 @@ target: 1 creature or object
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 corruption damage; R \[weak\] slowed (save ends)
-- 12–16: 3 corruption damage; R \[average\] slowed (save ends)
-- 17+: 4 corruption damage; R \[strong\] slowed (save ends)
+- **11 or lower:** 2 corruption damage; R \[weak\] slowed (save ends)
+- **12-16:** 3 corruption damage; R \[average\] slowed (save ends)
+- **17+:** 4 corruption damage; R \[strong\] slowed (save ends)

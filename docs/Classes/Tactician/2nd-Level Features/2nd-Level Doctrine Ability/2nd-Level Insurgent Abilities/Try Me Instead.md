@@ -30,6 +30,6 @@ target: 1 creature
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage; R \[weak\] frightened of you (save ends)
-- 12–16: 3 damage; R \[average\] frightened of you (save ends)
-- 17+: 4 damage; R \[strong\] frightened of you (save ends)
+- **11 or lower:** 2 damage; R \[weak\] frightened of you (save ends)
+- **12-16:** 3 damage; R \[average\] frightened of you (save ends)
+- **17+:** 4 damage; R \[strong\] frightened of you (save ends)

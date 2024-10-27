@@ -20,7 +20,7 @@ You gain the following ability:
 
 ## Hands Of The Maker
 
-- **Craft objects with the power of your mind!**
+**Craft objects with the power of your mind!**
 
 |                     |                    |
 | :------------------ | :----------------- |

@@ -28,5 +28,5 @@ A bolt of holy energy saps the life from a foe.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 corruption damage; \[weak\] the target takes a bane on their next power roll
-- **12–16:** 4 corruption damage; \[average\] the target takes a bane on their next power roll
+- **12-16:** 4 corruption damage; \[average\] the target takes a bane on their next power roll
 - **17+:** 6 corruption damage; \[strong\] the target takes a bane on their next power roll

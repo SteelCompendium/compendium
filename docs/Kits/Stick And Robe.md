@@ -32,7 +32,7 @@ You wear light armor and wield a polearm.
 
 ## Signature Ability
 
-**WHERE I WANT YOU**
+### Where I Want You
 
 When your stick speaks, your enemy moves.
 
@@ -41,8 +41,8 @@ When your stick speaks, your enemy moves.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Melee 2               | **Target:** 1 creature |
 
-*Power Roll + Might or Agility:*
+**Power Roll + Might or Agility:**
 
-- 11 or lower: 4 damage
-- 12–16: 6 damage; slide 1
-- 17+: 8 damage; slide 3
+- **11 or lower:** 4 damage
+- **12-16:** 6 damage; slide 1
+- **17+:** 8 damage; slide 3

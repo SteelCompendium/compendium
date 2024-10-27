@@ -29,9 +29,9 @@ target: 1 creature or object
 
 **Power Roll + Reason:**
 
-- 11 or lower: 6 damage; M \[weak\] prone
-- 12-16: 10 damage; M \[average\] prone
-- 17+: 14 damage; M \[strong\] prone can't stand (save ends)
+- **11 or lower:** 6 damage; M \[weak\] prone
+- **12-16:** 10 damage; M \[average\] prone
+- **17+:** 14 damage; M \[strong\] prone can't stand (save ends)
 
 **Effect:** A target made prone by this ability is lifted 2 squares into the air before falling immediately to the ground.\
 **Strained:** You take half the damage the target takes, including any damage from falling.

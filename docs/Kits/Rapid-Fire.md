@@ -32,7 +32,7 @@ You wear light armor and wield a bow.
 
 ## Signature Ability
 
-**TWO SHOT**
+### Two Shot
 
 When you fire two arrows back to back, both hit their mark.
 
@@ -41,8 +41,8 @@ When you fire two arrows back to back, both hit their mark.
 | **Keywords:** Attack, Ranged, Weapon | **Type:** Action                   |
 | **Distance:** Ranged 12              | **Target:** 2 creatures or objects |
 
-*Power Roll + Might or Agility:*
+**Power Roll + Might or Agility:**
 
-- 11 or lower: 4 damage
-- 12–16: 5 damage
-- 17+: 6 damage
+- **11 or lower:** 4 damage
+- **12-16:** 5 damage
+- **17+:** 6 damage

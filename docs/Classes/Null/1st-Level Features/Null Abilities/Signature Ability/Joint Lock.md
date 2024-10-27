@@ -28,6 +28,6 @@ target: 1 creature or object
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; A \[weak\] grabbed
-- 12-16: 5 damage; A \[average\] grabbed
-- 17+: 7 damage; A \[strong\] grabbed
+- **11 or lower:** 4 damage; A \[weak\] grabbed
+- **12-16:** 5 damage; A \[average\] grabbed
+- **17+:** 7 damage; A \[strong\] grabbed

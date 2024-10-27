@@ -34,7 +34,7 @@ You wear light armor, and wield a shield and a light weapon.
 
 ## Signature Ability
 
-**SHOCK AND AWE**
+### Shock And Awe
 
 You execute a brutal strike that leaves your foe reeling.
 
@@ -43,10 +43,10 @@ You execute a brutal strike that leaves your foe reeling.
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
 | **Distance:** Melee 1 or Ranged 10          | **Target:** 1 creature |
 
-*Power Roll + Might or Agility:*
+**Power Roll + Might or Agility:**
 
-- 11 or lower: 3 damage
-- 12–16: 4 damage
-- 17+: 6 damage
+- **11 or lower:** 3 damage
+- **12-16:** 4 damage
+- **17+:** 6 damage
 
-*Effect:* The target has a bane on their next power roll.
+**Effect:** The target has a bane on their next power roll.

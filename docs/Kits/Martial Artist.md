@@ -31,7 +31,7 @@ You wear no armor and wield only your unarmed strikes.
 
 ## Signature Ability
 
-**BATTLE GRACE**
+### Battle Grace
 
 You feint to move your enemies into perfect position.
 
@@ -40,10 +40,10 @@ You feint to move your enemies into perfect position.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Melee 1               | **Target:** 1 creature |
 
-*Power Roll + Might or Agility:*
+**Power Roll + Might or Agility:**
 
-- 11 or lower: 4 damage
-- 12–16: 7 damage; you swap places with the target
-- 17+: 9 damage; you swap places with the target
+- **11 or lower:** 4 damage
+- **12-16:** 7 damage; you swap places with the target
+- **17+:** 9 damage; you swap places with the target
 
-*Effect:* If you roll a 12 or better and can't swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 1 extra damage.
+**Effect:** If you roll a 12 or better and can't swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 1 extra damage.

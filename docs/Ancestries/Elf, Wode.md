@@ -144,6 +144,6 @@ Thorny vines erupt into existence and attempt to bind your foe.
 
 **Power Roll + Might or Agility:**
 
-- 11 or lower: 1 damage; A \[weak\] [[Slowed|slowed]] (save ends)
-- 12–16: 2 damage; A \[average\] [[Slowed|slowed]] (save ends)
-- 17+: 3 damage; A \[strong\] [[Restrained|restrained]] (save ends)
+- **11 or lower:** 1 damage; A \[weak\] [[Slowed|slowed]] (save ends)
+- **12-16:** 2 damage; A \[average\] [[Slowed|slowed]] (save ends)
+- **17+:** 3 damage; A \[strong\] [[Restrained|restrained]] (save ends)

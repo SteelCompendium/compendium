@@ -28,8 +28,8 @@ Your precise strikes let your allies take advantage of a target's agony.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 2 damage
-- 12–16: 4 damage
-- 17+: 6 damage; I \[strong\] prone
+- **11 or lower:** 2 damage
+- **12-16:** 4 damage
+- **17+:** 6 damage; I \[strong\] prone
 
-**Effect:** The next ability that damages the target before the start of your next turn gains (SURGE).
+**Effect:** The next ability that damages the target before the start of your next turn gains `(SURGE)`.

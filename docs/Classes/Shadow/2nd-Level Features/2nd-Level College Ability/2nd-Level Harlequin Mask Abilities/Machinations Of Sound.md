@@ -28,8 +28,8 @@ Illusory sounds make your foes reposition themselves as they cower or investigat
 
 **Power Roll + Agility:**
 
-- 11 or lower: slide 4
-- 12-16: slide 5
-- 17+: slide 7
+- **11 or lower:** slide 4
+- **12-16:** slide 5
+- **17+:** slide 7
 
 **Effect:** This movement ignores Stability. Instead, the forced movement is reduced by a number equal to the target's Intuition score.

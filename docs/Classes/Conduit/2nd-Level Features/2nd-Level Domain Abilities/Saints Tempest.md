@@ -29,5 +29,5 @@ A raging storm appears, striking your foes with lightning and throwing them arou
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 lightning damage; vertical slide 1
-- **12–16:** 5 lightning damage; vertical slide 2
+- **12-16:** 5 lightning damage; vertical slide 2
 - **17+:** 7 lightning damage; vertical slide 3

@@ -18,11 +18,11 @@ target: Self and all allies
 
 # Blessing Of The Faithful (5 Judgment)
 
-- **The gods reward your faith.**
+**The gods reward your faith.**
 
 |                           |                                 |
 | :------------------------ | :------------------------------ |
 | **Keywords:** Area, Magic | **Type:** Maneuver              |
 | **Distance:** 3 Aura      | **Target:** Self and all allies |
 
-**Effect:** Until the end of the encounter or you become dying, each target in the aura gains (SURGE) on attacks.
+**Effect:** Until the end of the encounter or you become dying, each target in the aura gains `(SURGE)` on attacks.

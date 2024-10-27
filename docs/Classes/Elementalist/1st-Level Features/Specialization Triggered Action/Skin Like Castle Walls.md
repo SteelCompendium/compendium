@@ -26,7 +26,7 @@ trigger: The target makes a melee attack.
 | **Keywords:** Earth, Magic, Ranged | **Type:** Triggered        |
 | **Distance:** Self or Ranged 10    | **Target:** Self or 1 ally |
 
-- **Trigger:** The target makes a melee attack.
+**Trigger:** The target makes a melee attack.
 
 **Effect:** The attack gains 1 surge. You gain 1 essence.
 

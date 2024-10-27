@@ -25,8 +25,8 @@ Your quick reflexes cost an enemy the precision they seek.
 | **Keywords:** Melee, Weapon   | **Type:** Triggered        |
 | **Distance:** Self or Melee 1 | **Target:** Self or 1 ally |
 
-- **Trigger:** A creature makes a Weapon attack against the target.
+**Trigger:** A creature makes a Weapon attack against the target.
 
-**Effect:** The attack's damage is reduced (SHIELD)(SHIELD).
+**Effect:** The attack's damage is reduced `(SHIELD)(SHIELD)`.
 
 **Spend 3 Focus:** Decrease the potency of all effects on the attack by 1.

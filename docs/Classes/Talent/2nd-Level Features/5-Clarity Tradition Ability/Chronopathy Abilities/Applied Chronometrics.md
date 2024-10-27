@@ -28,9 +28,9 @@ target: Special
 
 **Power Roll + Presence:**
 
-- 11 or lower: Target 2 creatures, one of which can be you
-- 12-16: Target 3 creatures, one of which can be you
-- 17+: Target 4 creatures, one of which can be you
+- **11 or lower:** Target 2 creatures, one of which can be you
+- **12-16:** Target 3 creatures, one of which can be you
+- **17+:** Target 4 creatures, one of which can be you
 
 **Effect:** Each target's speed increases by 5 and they gain the use of an additional maneuver during their turn until the start of your next turn.\
 **Strained:** Your speed is halved until the end of the encounter.

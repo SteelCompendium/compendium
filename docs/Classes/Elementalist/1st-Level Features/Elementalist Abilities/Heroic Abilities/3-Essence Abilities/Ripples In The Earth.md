@@ -28,8 +28,8 @@ target: All enemies
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 damage
-- 12–16: 5 damage
-- 17+: 8 damage; M \[strong\] prone
+- **11 or lower:** 3 damage
+- **12-16:** 5 damage
+- **17+:** 8 damage; M \[strong\] prone
 
 **Effect:** You must be touching the ground or floor to use this ability. The surface beneath the area becomes difficult terrain for your enemies.

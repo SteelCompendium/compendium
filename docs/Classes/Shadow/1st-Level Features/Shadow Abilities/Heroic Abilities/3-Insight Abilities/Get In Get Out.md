@@ -28,8 +28,8 @@ Move unexpectedly, strike fast, and be gone!
 
 **Power Roll + Agility:**
 
-- 11 or lower: 5 damage
-- 12–16: 8 damage
-- 17+: 11 damage
+- **11 or lower:** 5 damage
+- **12-16:** 8 damage
+- **17+:** 11 damage
 
 **Effect:** You can shift up to your speed. You can shift before or after your attack, or split your movement before and after your attack.

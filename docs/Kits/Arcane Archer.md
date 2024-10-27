@@ -32,7 +32,7 @@ You wear no armor and wield a bow.
 
 ## Signature Ability
 
-**EXPLODING ARROW**
+### Exploding Arrow
 
 Your ammunition explodes with magical energy.
 
@@ -41,10 +41,10 @@ Your ammunition explodes with magical energy.
 | **Keywords:** Attack, Magic, Ranged, Weapon | **Type:** Action                 |
 | **Distance:** Ranged 15                     | **Target:** 1 creature or object |
 
-*Power Roll + Agility, Reason, Intuition, or Presence:*
+**Power Roll + Agility, Reason, Intuition, or Presence:**
 
-- 11 or lower: 4 damage
-- 12–16: 6 damage
-- 17+: 8 damage
+- **11 or lower:** 4 damage
+- **12-16:** 6 damage
+- **17+:** 8 damage
 
-*Effect:* A creature or object within 2 squares of your target takes (SURGE) damage.
+**Effect:** A creature or object within 2 squares of your target takes `(SURGE)` damage.

@@ -26,6 +26,6 @@ trigger: The target starts their turn.
 | **Keywords:** Green, Magic, Ranged | **Type:** Triggered        |
 | **Distance:** Ranged 10            | **Target:** Self or 1 ally |
 
-- **Trigger:** The target starts their turn.
+**Trigger:** The target starts their turn.
 
 **Effect:** The target can spend a Recovery. You gain 1 essence.

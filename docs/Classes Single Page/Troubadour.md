@@ -143,7 +143,7 @@ You have the following ability.
 
 *It doesn't need to make sense, just say it with emotionality.*
 
-**Effect:** Choose one of the following effects: - You herald a rousing tale of victory. An ally within distance has an edge on the next power roll they make before the start of your next turn. - You weave a tale of caution. An ally within distance has (SHIELD) on the next instance of damage they take until the start of your next turn. - You insult the enemy where they're most vulnerable. The next attack made against an enemy within distance has (SURGE) until the start of your next turn. - **Spend 3 Drama:** You can have 2 targets for any of these effects instead of 1.
+**Effect:** Choose one of the following effects: - You herald a rousing tale of victory. An ally within distance has an edge on the next power roll they make before the start of your next turn. - You weave a tale of caution. An ally within distance has `(SHIELD)` on the next instance of damage they take until the start of your next turn. - You insult the enemy where they're most vulnerable. The next attack made against an enemy within distance has `(SURGE)` until the start of your next turn. - **Spend 3 Drama:** You can have 2 targets for any of these effects instead of 1.
 
 #### Power Chord
 
@@ -153,10 +153,7 @@ You have the following ability.
 
 *Your instrument rings true and your music blows everyone away.*
 
-- **Power Roll + Presence:**
-    - 11 or lower: push 2
-    - 12-16: push 2; the target takes a bane on the next power roll they make before the start of your next turn
-    - 17+: push 3; the target takes a bane on the next power roll they make before the start of your next turn
+**Power Roll + Presence:** - **11 or lower:** push 2 - **12-16:** push 2; the target takes a bane on the next power roll they make before the start of your next turn - **17+:** push 3; the target takes a bane on the next power roll they make before the start of your next turn
 
 #### Star Power
 
@@ -178,13 +175,13 @@ You have access to the following routines to use with Curtain Call.
 
 **Effect:** At the end of each round, roll power against a target. This ability ignores cover. You can't target the same creature twice with this effect.
 
-**Power Roll + Presence:** - 11 or lower: Lightning damage equal to your level - 12-16: Lightning damage equal to 5 + your level - 17+: Lightning damage equal to 10 + your level; A \[strong\] prone
+**Power Roll + Presence:** - **11 or lower:** Lightning damage equal to your level - **12-16:** Lightning damage equal to 5 + your level - **17+:** Lightning damage equal to 10 + your level; A \[strong\] prone
 
 ##### ÿÿÿballad Of The Beastÿÿÿ
 
 *âTeeth are bare! Eyes black! No escaping the beast!â*
 
-**Effect:** Each target that starts their turn within the aura has (SURGE) the next time they deal damage until the end of their turn.
+**Effect:** Each target that starts their turn within the aura has `(SURGE)` the next time they deal damage until the end of their turn.
 
 ### Class Act Triggered Action
 
@@ -202,7 +199,7 @@ Your class act grants you one of the following triggered actions as shown on the
 
 *Gives the chorus a little punch.*
 
-- **Trigger:** The target uses a non-area ability that targets an enemy.
+**Trigger:** The target uses a non-area ability that targets an enemy.
 
 **Effect:** The target chooses an additional target within Distance. They use the same power roll for all additional targets. Any damage dealt to additional targets is now sonic damage. - **Spend 2 Drama:** The target chooses two additional targets instead of one.
 
@@ -210,7 +207,7 @@ Your class act grants you one of the following triggered actions as shown on the
 
 *âI'd have brought treats had I known I'd be fighting a dog.â*
 
-- **Trigger:** The target takes damage from a melee attack.
+**Trigger:** The target takes damage from a melee attack.
 
 **Effect:** The target takes a free strike against the attacker. - **Spend 2 Drama:** The target can use a signature attack in place of the free strike.
 
@@ -218,7 +215,7 @@ Your class act grants you one of the following triggered actions as shown on the
 
 *All's fair in love and whatever.*
 
-- **Trigger:** The target makes an attack with at least one edge or a bane.
+**Trigger:** The target makes an attack with at least one edge or a bane.
 
 **Effect:** One of the attack's edges becomes a bane or vice versa. - **Spend 3 Drama:** One of the target's attack's edges becomes a double bane, or one of the attack's banes becomes a double edge.
 
@@ -238,10 +235,7 @@ Select one signature ability from the options below. Signature abilities can be 
 
 *And they said practicing fencing was a waste!*
 
-- **Power Roll + Agility:**
-    - 11 or lower: 2 damage
-    - 12-16: 3 damage
-    - 17+: 5 damage
+**Power Roll + Agility:** - **11 or lower:** 2 damage - **12-16:** 3 damage - **17+:** 5 damage
 
 **Effect:** You shift 3 squares.
 
@@ -251,19 +245,13 @@ Select one signature ability from the options below. Signature abilities can be 
 
 *There you are, radiating your usual charisma.*
 
-- **Power Roll + Presence:**
-    - 11 or lower: 2 sonic damage; P \[weak\] bleeding (save ends)
-    - 12-16: 4 damage; P \[average\] bleeding (save ends)
-    - 17+: 5 damage; P \[strong\] bleeding (save ends)
+**Power Roll + Presence:** - **11 or lower:** 2 sonic damage; P \[weak\] bleeding (save ends) - **12-16:** 4 damage; P \[average\] bleeding (save ends) - **17+:** 5 damage; P \[strong\] bleeding (save ends)
 
 ##### Instigator
 
 *I didn't do it! What?*
 
-- **Power Roll + Agility or Presence:**
-    - 11 or lower: 2 damage
-    - 12-16: 5 damage
-    - 17+: 7 damage
+**Power Roll + Agility or Presence:** - **11 or lower:** 2 damage - **12-16:** 5 damage - **17+:** 7 damage
 
 **Effect:** The target is taunted (EoT) by you or a willing adjacent ally.
 
@@ -271,10 +259,7 @@ Select one signature ability from the options below. Signature abilities can be 
 
 *A lyrical (and physical) jab insulting an enemy and inspiring an ally.*
 
-- **Power Roll + Presence:**
-    - 11 or lower: 1 psychic damage
-    - 12-16: 2 psychic damage
-    - 17+: 3 psychic damage
+**Power Roll + Presence:** - **11 or lower:** 1 psychic damage - **12-16:** 2 psychic damage - **17+:** 3 psychic damage
 
 **Effect:** An ally within 10 removes 1 condition or effect with a duration of EoT or save ends afflicting them.
 
@@ -292,10 +277,7 @@ Choose one heroic ability from the following options.
 
 *Just one bad review will ruin their day.*
 
-- **Power Roll + Presence:**
-    - 11 or lower: 4 sonic damage; P \[weak\] weakened (save ends)
-    - 12-16: 6 sonic damage; P \[average\] weakened (save ends)
-    - 17+: 10 sonic damage; P \[strong\] weakened (save ends)
+**Power Roll + Presence:** - **11 or lower:** 4 sonic damage; P \[weak\] weakened (save ends) - **12-16:** 6 sonic damage; P \[average\] weakened (save ends) - **17+:** 10 sonic damage; P \[strong\] weakened (save ends)
 
 **Effect:** The effects of the next ability the target uses before the start of your next turn are suppressed. Any effects listed within a result tier other than damage don't occur. This doesn't apply to ability effects that always happen regardless of the power roll.
 
@@ -303,7 +285,7 @@ Choose one heroic ability from the following options.
 
 *You produce an entrancing note that twists the senses in a spectacular fashion.*
 
-**Power Roll + Presence:** - 11 or lower: slide 1; I \[weak\] dazed (save ends) - 12-16: slide 1; I \[average\] dazed (save ends) - 17+: slide 2; I \[strong\] dazed (save ends)
+**Power Roll + Presence:** - **11 or lower:** slide 1; I \[weak\] dazed (save ends) - **12-16:** slide 1; I \[average\] dazed (save ends) - **17+:** slide 2; I \[strong\] dazed (save ends)
 
 **Spend 2+ Drama:** The burst size is increased by 1 for every 2 drama you spend.
 
@@ -311,10 +293,7 @@ Choose one heroic ability from the following options.
 
 *You write something unforeseen into the scene and under the enemy's feet.*
 
-- **Power Roll + Presence:**
-    - 11 or lower: 2 damage; P \[weak\] slowed (save ends)
-    - 12-16: 3 damage; P \[average\] slowed (save ends)
-    - 17+: 4 damage; P \[strong\] restrained (save ends)
+**Power Roll + Presence:** - **11 or lower:** 2 damage; P \[weak\] slowed (save ends) - **12-16:** 3 damage; P \[average\] slowed (save ends) - **17+:** 4 damage; P \[strong\] restrained (save ends)
 
 **Effect:** The area becomes difficult terrain for your enemies.
 
@@ -324,7 +303,7 @@ Choose one heroic ability from the following options.
 
 **Effect:** You shift up to your speed. You make one power roll that targets each enemy who becomes adjacent to you during the move.
 
-**Power Roll + Agility or Presence:** - 11 or lower: taunted (EoT); A \[weak\] prone - 12â16: taunted (EoT); A \[average\] prone - 17+: taunted (EoT); A \[strong\] prone can't stand (EoT)
+**Power Roll + Agility or Presence:** - **11 or lower:** taunted (EoT); A \[weak\] prone - **12-16:** taunted (EoT); A \[average\] prone - **17+:** taunted (EoT); A \[strong\] prone can't stand (EoT)
 
 ##### 5-drama Abilities
 
@@ -334,10 +313,7 @@ Choose one heroic ability from the following options.
 
 *Give the audience a surprise.*
 
-- **Power Roll + Presence:**
-    - 11 or lower: shift 1; target can take a free strike
-    - 12-16: shift 2; target can take a free strike with (SURGE)
-    - 17+: shift 3; target can take a free strike with (SURGE) and spend 1 Recovery
+**Power Roll + Presence:** - **11 or lower:** shift 1; target can take a free strike - **12-16:** shift 2; target can take a free strike with `(SURGE)` - **17+:** shift 3; target can take a free strike with `(SURGE)` and spend 1 Recovery
 
 ###### Fake Your Death (5 Drama)
 
@@ -355,10 +331,7 @@ Choose one heroic ability from the following options.
 
 *They're so hurt by your performance, you sort of start to believe it yourself.*
 
-- **Power Roll + Agility or Presence:**
-    - 11 or lower: 7 damage; P \[weak\] weakened (save ends)
-    - 12-16: 11 damage; P \[average\] weakened (save ends)
-    - 17+: 16 damage; P \[strong\] weakened (save ends)
+**Power Roll + Agility or Presence:** - **11 or lower:** 7 damage; P \[weak\] weakened (save ends) - **12-16:** 11 damage; P \[average\] weakened (save ends) - **17+:** 16 damage; P \[strong\] weakened (save ends)
 
 **Effect:** You can choose to be inflicted with bleeding (save ends) to deal an additional 5 corruption damage to the target.
 
@@ -378,7 +351,7 @@ When you roll to gain drama, you can make your appeal and gain the additional ef
 
 ### Extra Surge
 
-Your (SURGE) limit increases by 1, for a maximum of (SURGE)(SURGE)(SURGE)(SURGE).
+Your `(SURGE)` limit increases by 1, for a maximum of `(SURGE)(SURGE)(SURGE)(SURGE)`.
 
 ### Invocation
 
@@ -416,18 +389,15 @@ Choose one of the following abilities.
 
 *Audiences love this bit.*
 
-**Effect:** The targets shift up to 5 squares, including vertically. The targets must end this movement adjacent to each other and on solid ground. Each target can then take a free strike with (SURGE)(SURGE) against an enemy within reach.
+**Effect:** The targets shift up to 5 squares, including vertically. The targets must end this movement adjacent to each other and on solid ground. Each target can then take a free strike with `(SURGE)(SURGE)` against an enemy within reach.
 
 ##### En Guarde! (5 Drama)
 
 *Wait it'sâ¦Guard! Turn! Parry! Dodge! Spin! Thrust! Hah!*
 
-- **Power Roll + Agility:**
-    - 11 or lower: 7 damage; target can shift 3 and take a free strike against you
-    - 12-16: 11 damage; target can shift 2 and take a free strike against you
-    - 17+: 16 damage; target can shift 1
+**Power Roll + Agility:** - **11 or lower:** 7 damage; target can shift 3 and take a free strike against you - **12-16:** 11 damage; target can shift 2 and take a free strike against you - **17+:** 16 damage; target can shift 1
 
-**Effect:** If the target shifts or takes a free strike against you during this ability, you can shift 3 and take a melee free strike against the target. If the target deals damage to you during this ability, you have (SURGE) on your free strike.
+**Effect:** If the target shifts or takes a free strike against you during this ability, you can shift 3 and take a melee free strike against the target. If the target deals damage to you during this ability, you have `(SURGE)` on your free strike.
 
 #### Virtuoso Abilities
 
@@ -445,7 +415,7 @@ Choose one of the following abilities.
 
 **Effect:** The affected area becomes haunted by a swirling horde of phantoms brutally dancing in a circle until the end of the encounter. An ally can enter a square of the area without spending movement. At the start of each of your turns, or once per round as a free triggered action whenever an enemy enters the area, you can target all enemies occupying a square of the area with the following power roll.
 
-**Power Roll + Presence:** - 11 or lower: 5 corruption damage; M \[weak\] pull 1 towards center of square - 12-16: 9 corruption damage; M \[average\] pull 1 towards center of square and can't establish line of effect outside of affected area (EoT) - 17+: 12 corruption damage; M \[strong\] pull 3 towards center of square and can't establish line of effect outside of affected area (EoT)
+**Power Roll + Presence:** - **11 or lower:** 5 corruption damage; M \[weak\] pull 1 towards center of square - **12-16:** 9 corruption damage; M \[average\] pull 1 towards center of square and can't establish line of effect outside of affected area (EoT) - **17+:** 12 corruption damage; M \[strong\] pull 3 towards center of square and can't establish line of effect outside of affected area (EoT)
 
 #### Skald Abilities
 
@@ -511,10 +481,7 @@ Choose a new heroic ability from the following options.
 
 *No this isn't right. That foe was over there!*
 
-- **Power Roll + Presence:**
-    - 11 or lower: slide 3; P \[weak\] forced movement ignores stability
-    - 12-16: slide 5; P \[average\] forced movement ignores stability
-    - 17+: slide 7; P \[strong\] forced movement ignores stability
+**Power Roll + Presence:** - **11 or lower:** slide 3; P \[weak\] forced movement ignores stability - **12-16:** slide 5; P \[average\] forced movement ignores stability - **17+:** slide 7; P \[strong\] forced movement ignores stability
 
 **Effect:** You can't slide targets into other creatures or objects using this ability. Instead of sliding a target, you can choose to swap their location with another target (provided each target can fit into the new space).
 
@@ -522,10 +489,7 @@ Choose a new heroic ability from the following options.
 
 *A spicy performance that lights a fire under your allies' feet.*
 
-- **Power Roll + Agility or Presence:**
-    - 11 or lower: 3 fire damage; A \[weak\] weakened (save ends)
-    - 12-16: 5 fire damage; A \[average\] weakened (save ends)
-    - 17+: 8 fire damage; A \[strong\] weakened (save ends)
+**Power Roll + Agility or Presence:** - **11 or lower:** 3 fire damage; A \[weak\] weakened (save ends) - **12-16:** 5 fire damage; A \[average\] weakened (save ends) - **17+:** 8 fire damage; A \[strong\] weakened (save ends)
 
 **Effect:** Each ally in range can shift 2.
 
@@ -533,10 +497,7 @@ Choose a new heroic ability from the following options.
 
 *Your performance travels and doesn't stop moving until your audience is completely rocked.*
 
-- **Power Roll + Agility or Presence:**
-    - 11 or lower: 9 damage
-    - 12-16: 14 damage; push 3
-    - 17+: 19 damage; push 5
+**Power Roll + Agility or Presence:** - **11 or lower:** 9 damage - **12-16:** 14 damage; push 3 - **17+:** 19 damage; push 5
 
 **Effect:** You can choose to make the damage sonic damage. You can use this ability on the same target for the next two consecutive rounds without spending drama.
 
@@ -544,4 +505,4 @@ Choose a new heroic ability from the following options.
 
 *Totus mundus agit histrionem.*
 
-**Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you would be out of distance. Secondary effects that grapple or force move the target don't happen if you aren't within the distance of the ability. On each of your turns, you can take a free maneuver to communicate a motivating or dispiriting message to the target, either giving them (SURGE)(SURGE) or a bane on the next attack they use before the start of your next turn.
+**Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you would be out of distance. Secondary effects that grapple or force move the target don't happen if you aren't within the distance of the ability. On each of your turns, you can take a free maneuver to communicate a motivating or dispiriting message to the target, either giving them `(SURGE)(SURGE)` or a bane on the next attack they use before the start of your next turn.

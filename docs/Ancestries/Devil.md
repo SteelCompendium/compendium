@@ -141,7 +141,7 @@ Your powerful legs improve your speed. Your speed becomes 6.
 
 #### Glowing Eyes (costs 1 Point)
 
-Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a triggered action to curse that creature for daring to do you harm. The creature takes (SURGE) psychic damage.
+Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a triggered action to curse that creature for daring to do you harm. The creature takes `(SURGE)` psychic damage.
 
 #### Hellsight (costs 1 Point)
 

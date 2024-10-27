@@ -28,7 +28,7 @@ The heroes' armor glows with golden light, granting divine protection.
 **Power Roll + Intuition:**
 
 - **11 or lower:** Gain 5 temporary Stamina
-- **12–16:** Gain 10 temporary Stamina
+- **12-16:** Gain 10 temporary Stamina
 - **17+:** Gain 15 temporary Stamina
 
 **Effect:** This temporary Stamina disappears at the end of the encounter.

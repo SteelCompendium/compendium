@@ -169,9 +169,9 @@ You slam an invisible force down upon the target.
 
 **Power Roll + Reason, Intuition, or Presence:**
 
-- 11 or lower: 2 damage
-- 12–16: 3 damage; push 1
-- 17+: 5 damage; push 2; **M** \[strong\] [[Prone|prone]]
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage; push 1
+- **17+:** 5 damage; push 2; **M** \[strong\] [[Prone|prone]]
 
 ##### Psionic Bolt
 
@@ -179,9 +179,9 @@ You shoot forth a beam of psychic purple force that grips your target.
 
 **Power Roll + Reason, Intuition, or Presence:**
 
-- 11 or lower: 2 psychic damage; slide 1
-- 12–16: 3 psychic damage; slide 2
-- 17+: 5 psychic damage; slide 3
+- **11 or lower:** 2 psychic damage; slide 1
+- **12-16:** 3 psychic damage; slide 2
+- **17+:** 5 psychic damage; slide 3
 
 ##### Minor Acceleration
 

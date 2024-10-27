@@ -29,6 +29,6 @@ You enchant a strike with your teleportation magic.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 6 damage; teleport target 1 square
-- 12-16: 10 damage; teleport target 3 squares
-- 17+: 14 damage; teleport target 5 squares
+- **11 or lower:** 6 damage; teleport target 1 square
+- **12-16:** 10 damage; teleport target 3 squares
+- **17+:** 14 damage; teleport target 5 squares

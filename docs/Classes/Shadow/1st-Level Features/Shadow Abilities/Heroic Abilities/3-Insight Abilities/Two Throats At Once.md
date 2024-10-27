@@ -29,6 +29,6 @@ A bargain.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage
-- 12–16: 6 damage
-- 17+: 10 damage
+- **11 or lower:** 4 damage
+- **12-16:** 6 damage
+- **17+:** 10 damage

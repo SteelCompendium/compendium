@@ -31,6 +31,6 @@ target: 1 ally or enemy
 
 **Power Roll + Presence:**
 
-- 11 or lower: 3 psychic damage; I \[weak\] frightened of you (save ends)
-- 12-16: 6 psychic damage; I \[average\] frightened of you (save ends)
-- 17+: 9 psychic damage; I \[strong\] frightened of you (save ends)
+- **11 or lower:** 3 psychic damage; I \[weak\] frightened of you (save ends)
+- **12-16:** 6 psychic damage; I \[average\] frightened of you (save ends)
+- **17+:** 9 psychic damage; I \[strong\] frightened of you (save ends)

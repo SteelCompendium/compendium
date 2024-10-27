@@ -29,6 +29,6 @@ You leave your foe bleeding out after a devastating attack.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; A \[weak\] bleeding (save ends)
-- 12–16: 6 damage; A \[average\] bleeding (save ends)
-- 17+: 10 damage; A \[strong\] bleeding (save ends)
+- **11 or lower:** 4 damage; A \[weak\] bleeding (save ends)
+- **12-16:** 6 damage; A \[average\] bleeding (save ends)
+- **17+:** 10 damage; A \[strong\] bleeding (save ends)

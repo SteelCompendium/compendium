@@ -28,6 +28,6 @@ target: 2 creatures or objects
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 fire damage
-- 12–16: 3 fire damage
-- 17+: 4 fire damage
+- **11 or lower:** 2 fire damage
+- **12-16:** 3 fire damage
+- **17+:** 4 fire damage

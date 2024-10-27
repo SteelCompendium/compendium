@@ -28,8 +28,8 @@ target: All enemies
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 damage; vertical push 2
-- 12-16: 6 damage; vertical push 4
-- 17+: 9 damage; vertical push 6
+- **11 or lower:** 3 damage; vertical push 2
+- **12-16:** 6 damage; vertical push 4
+- **17+:** 9 damage; vertical push 6
 
 **Strained:** The burst area increases by 1 and you are weakened (EoT).

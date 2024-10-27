@@ -26,8 +26,8 @@ Your enemy will think twice about attacking your friend.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage; R \[weak\] frightened of an adjacent ally (save ends)
-- 12–16: 3 damage; R \[average\] frightened of an adjacent ally (save ends)
-- 17+: 5 damage; R \[strong\] frightened of an adjacent ally (save ends)
+- **11 or lower:** 2 damage; R \[weak\] frightened of an adjacent ally (save ends)
+- **12-16:** 3 damage; R \[average\] frightened of an adjacent ally (save ends)
+- **17+:** 5 damage; R \[strong\] frightened of an adjacent ally (save ends)
 
 **Effect:** An ally adjacent to the target can spend a Recovery.

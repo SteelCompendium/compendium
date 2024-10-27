@@ -28,6 +28,6 @@ target: 1 creature or object
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage; push 2
-- 12–16: 4 damage; push 3
-- 17+: 6 damage; push 4
+- **11 or lower:** 2 damage; push 2
+- **12-16:** 4 damage; push 3
+- **17+:** 6 damage; push 4

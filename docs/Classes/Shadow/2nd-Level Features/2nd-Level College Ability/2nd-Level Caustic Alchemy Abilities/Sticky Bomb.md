@@ -28,6 +28,6 @@ Explosives are best when they're attached to an enemy.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 fire damage
-- 12-16: 7 fire damage
-- 17+: 11 fire damage
+- **11 or lower:** 4 fire damage
+- **12-16:** 7 fire damage
+- **17+:** 11 fire damage

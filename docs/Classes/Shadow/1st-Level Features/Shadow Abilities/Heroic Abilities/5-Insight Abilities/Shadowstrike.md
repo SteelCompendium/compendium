@@ -24,4 +24,4 @@ They have no idea what the college taught you.
 | **Keywords:** Magic | **Type:** Action |
 | **Distance:** Self  | **Target:** Self |
 
-**Effect:** You make two signature attacks and each gains (SURGE).
+**Effect:** You make two signature attacks and each gains `(SURGE)`.

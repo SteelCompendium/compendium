@@ -18,7 +18,7 @@ target: Self or 1 ally
 
 # With My Blessing (5 Judgment)
 
-- **A word in prayer, and the gods show the way.**
+**A word in prayer, and the gods show the way.**
 
 |                             |                            |
 | :-------------------------- | :------------------------- |

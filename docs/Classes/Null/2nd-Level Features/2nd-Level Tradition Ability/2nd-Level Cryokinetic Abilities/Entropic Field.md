@@ -28,6 +28,6 @@ target: All enemies
 
 **Power Roll + Agility:**
 
-- 11 or lower: 6 cold damage; A \[weak\] slowed (save ends)
-- 12-16: 9 cold damage; A \[average\] slowed (save ends)
-- 17+: 13 cold damage; A \[strong\] slowed (save ends)
+- **11 or lower:** 6 cold damage; A \[weak\] slowed (save ends)
+- **12-16:** 9 cold damage; A \[average\] slowed (save ends)
+- **17+:** 13 cold damage; A \[strong\] slowed (save ends)

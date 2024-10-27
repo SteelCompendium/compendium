@@ -28,8 +28,8 @@ target: All enemies
 
 **Power Roll + Reason:**
 
-- 11 or lower: 4 acid damage
-- 12–16: 6 acid damage
-- 17+: 10 acid damage
+- **11 or lower:** 4 acid damage
+- **12-16:** 6 acid damage
+- **17+:** 10 acid damage
 
 **Effect:** You and each ally within distance can end one effect that is ended by a saving throw or that ends at the end of their turn.

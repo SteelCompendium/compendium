@@ -29,8 +29,8 @@ target: 1 creature
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 special damage; R \[weak\] target has special weakness 5 (save ends)
-- 12-16: 6 special damage; R \[average\] target has special weakness 5 (save ends)
-- 17+: 9 special damage; R \[strong\] target has special weakness equal to 5 + your Reason (save ends)
+- **11 or lower:** 3 special damage; R \[weak\] target has special weakness 5 (save ends)
+- **12-16:** 6 special damage; R \[average\] target has special weakness 5 (save ends)
+- **17+:** 9 special damage; R \[strong\] target has special weakness equal to 5 + your Reason (save ends)
 
 **Effect:** The target takes damage before receiving any special weakness effects. The weakness and damage type of this ability must be chosen from one of the following damage types: acid, corruption, or fire.

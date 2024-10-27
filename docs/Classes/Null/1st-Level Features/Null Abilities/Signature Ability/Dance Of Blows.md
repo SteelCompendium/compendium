@@ -28,8 +28,8 @@ target: All enemies
 
 **Power Roll + Agility:**
 
-- 11 or lower: 3 damage
-- 12-16: 4 damage
-- 17+: 5 damage
+- **11 or lower:** 3 damage
+- **12-16:** 4 damage
+- **17+:** 5 damage
 
 **Effect:** You can slide one adjacent enemy your Intuition score in squares.

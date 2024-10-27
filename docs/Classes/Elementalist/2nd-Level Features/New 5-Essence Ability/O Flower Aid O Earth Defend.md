@@ -32,6 +32,6 @@ Revitalizing plants and jagged stones grow, helping allies and hindering foes.
 
 - You and allies in the area can take the Catch Breath action as a maneuver.
 - The area is difficult terrain for your enemies.
-- When an enemy enters the area for the first time on a turn or starts their turn there, they take (SURGE) damage.
+- When an enemy enters the area for the first time on a turn or starts their turn there, they take `(SURGE)` damage.
 
 **Persistent 1:** The area remains until the start of your next turn. You can move the area up to 5 squares as a maneuver. This ability ends if you lose line of effect to its area.

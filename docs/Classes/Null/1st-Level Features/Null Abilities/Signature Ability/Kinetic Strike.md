@@ -28,6 +28,6 @@ target: 1 creature or object
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; taunted (EoT)
-- 12-16: 5 damage; taunted (EoT); slide 1
-- 17+: 6 damage; taunted (EoT); slide 2
+- **11 or lower:** 4 damage; taunted (EoT)
+- **12-16:** 5 damage; taunted (EoT); slide 1
+- **17+:** 6 damage; taunted (EoT); slide 2

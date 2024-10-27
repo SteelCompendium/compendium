@@ -31,6 +31,6 @@ Burrow into their brains and take control!
 
 **Power Roll + Reason:**
 
-- 11 or lower: 5 poison damage
-- 12-16: 9 poison damage
-- 17+: 12 poison damage
+- **11 or lower:** 5 poison damage
+- **12-16:** 9 poison damage
+- **17+:** 12 poison damage

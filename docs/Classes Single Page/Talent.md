@@ -103,9 +103,9 @@ You can fire a bolt of psychic energy into an enemy's mind. You gain access to t
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 psychic damage
-- 12-16: 4 psychic damage
-- 17+: 6 psychic damage
+- **11 or lower:** 2 psychic damage
+- **12-16:** 4 psychic damage
+- **17+:** 6 psychic damage
 
 **Strained:** The attack deals an extra 2 psychic damage to the target and yourself. This damage ignores your immunities.
 
@@ -145,7 +145,7 @@ You gain access to the following triggered action:
 
 *You step back a split second to see if things play out a little differently.*
 
-- **Trigger:** The target makes an attack. You can use this ability after seeing the result of the roll. You gain 1 clarity.
+**Trigger:** The target makes an attack. You can use this ability after seeing the result of the roll. You gain 1 clarity.
 
 **Effect:** You force the target to reroll the power roll and use the new result, even if the original result was a critical hit.
 
@@ -157,7 +157,7 @@ You gain access to the following triggered action:
 
 *By creating a brief psychic link with their target, you give a foe a taste of their own medicine.*
 
-- **Trigger:** The target deals damage to an ally.
+**Trigger:** The target deals damage to an ally.
 
 **Effect:** The target takes half the damage they dealt in psychic damage. You gain 1 clarity.
 
@@ -195,9 +195,9 @@ You gain access to the following triggered action:
 
 *They aren't going anywhere, but you might!*
 
-- **Trigger:** The target takes damage or is force moved.
+**Trigger:** The target takes damage or is force moved.
 
-**Effect:** The target gains (SHIELD) against the damage, or the force movement distance is reduced by an amount equal to your Reason score. If they were both damaged and force moved, you choose which is affected. If any forced movement was reduced to 0, the source of the forced movement is pushed a number of squares equal to your Reason, originating from the target. You gain 1 clarity.
+**Effect:** The target gains `(SHIELD)` against the damage, or the force movement distance is reduced by an amount equal to your Reason score. If they were both damaged and force moved, you choose which is affected. If any forced movement was reduced to 0, the source of the forced movement is pushed a number of squares equal to your Reason, originating from the target. You gain 1 clarity.
 
 ### Mind Focus
 
@@ -237,7 +237,7 @@ You make yourself an invisible ward of telekinetic energy. When an adjacent crea
 
 #### Steel Ward
 
-Your ward reacts to danger, protecting your body from future harm. When you take damage, the damage resolves and then you gain (SHIELD) until the end of your next turn.
+Your ward reacts to danger, protecting your body from future harm. When you take damage, the damage resolves and then you gain `(SHIELD)` until the end of your next turn.
 
 #### Vanishing Ward
 
@@ -257,9 +257,9 @@ Select two signature abilities. Signature abilities can be used at will.
 
 **Power Roll + Presence:**
 
-- 11 or lower: 1 corruption damage; P \[weak\] slowed (save ends)
-- 12-16: 2 corruption damage; P \[average\] slowed (save ends)
-- 17+: 3 corruption damage; P \[strong\] slowed (save ends)
+- **11 or lower:** 1 corruption damage; P \[weak\] slowed (save ends)
+- **12-16:** 2 corruption damage; P \[average\] slowed (save ends)
+- **17+:** 3 corruption damage; P \[strong\] slowed (save ends)
 
 **Effect:** The target takes 1 extra corruption damage for each time they are targeted by this ability within a single encounter.\
 **Strained:** You gain 1 clarity on a tier-2 or higher result.
@@ -270,9 +270,9 @@ Select two signature abilities. Signature abilities can be used at will.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 fire damage
-- 12-16: 3 fire damage
-- 17+: 4 fire damage
+- **11 or lower:** 2 fire damage
+- **12-16:** 3 fire damage
+- **17+:** 4 fire damage
 
 **Effect:** The column of fire lingers until the start of your next turn. A creature or object that enters or starts their turn in the affected area takes 2 fire damage.\
 **Strained:** The cube area increases by 2, but the fire immediately disappears at the end of your turn.
@@ -283,9 +283,9 @@ Select two signature abilities. Signature abilities can be used at will.
 
 **Power Roll + Reason:**
 
-- 11 or lower: push 2
-- 12-16: push 4
-- 17+: push 6; prone
+- **11 or lower:** push 2
+- **12-16:** push 4
+- **17+:** push 6; prone
 
 **Effect:** You can choose to slide the target 2 before making the power roll.\
 **Strained:** You can't use this ability's additional effect, but the push can be vertical.
@@ -296,9 +296,9 @@ Select two signature abilities. Signature abilities can be used at will.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 psychic damage
-- 12-16: 3 psychic damage; push 1
-- 17+: 5 psychic damage; push 2
+- **11 or lower:** 2 psychic damage
+- **12-16:** 3 psychic damage; push 1
+- **17+:** 5 psychic damage; push 2
 
 **Strained:** The burst area increases by 2 and you become bleeding until the start of your next turn.
 
@@ -308,12 +308,12 @@ Select two signature abilities. Signature abilities can be used at will.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage; M \[weak\] prone
-- 12-16: 3 damage; M \[average\] prone
-- 17+: 4 damage; M \[strong\] prone
+- **11 or lower:** 2 damage; M \[weak\] prone
+- **12-16:** 3 damage; M \[average\] prone
+- **17+:** 4 damage; M \[strong\] prone
 
 **Effect:** When targeting an object with a solid reflective surface, such as a mirror, a shield, or metal armor, you can choose an additional target within 3 of the reflective surface.\
-**Strained:** You have a (SURGE) on the attack. Enemies have a (SURGE) on attacks made against you until the start of your next turn.
+**Strained:** You have a `(SURGE)` on the attack. Enemies have a `(SURGE)` on attacks made against you until the start of your next turn.
 
 ##### Spirit Sword
 
@@ -321,11 +321,11 @@ Select two signature abilities. Signature abilities can be used at will.
 
 **Power Roll + Presence:**
 
-- 11 or lower: 2 damage
-- 12-16: 5 damage
-- 17+: 7 damage
+- **11 or lower:** 2 damage
+- **12-16:** 5 damage
+- **17+:** 7 damage
 
-**Effect:** The next attack against the target has a (SURGE).\
+**Effect:** The next attack against the target has a `(SURGE)`.\
 **Strained:** The attack deals an extra 3 damage to the target and yourself. This damage ignores your immunities.
 
 #### Heroic Abilities
@@ -344,9 +344,9 @@ Choose one heroic ability from the following options:
 
 **Power Roll + Presence:**
 
-- 11 or lower: 3 psychic damage; I \[weak\] frightened of you (save ends)
-- 12-16: 6 psychic damage; I \[average\] frightened of you (save ends)
-- 17+: 9 psychic damage; I \[strong\] frightened of you (save ends)
+- **11 or lower:** 3 psychic damage; I \[weak\] frightened of you (save ends)
+- **12-16:** 6 psychic damage; I \[average\] frightened of you (save ends)
+- **17+:** 9 psychic damage; I \[strong\] frightened of you (save ends)
 
 ###### Nothing Exceeds My Grasp (3 Clarity)
 
@@ -354,9 +354,9 @@ Choose one heroic ability from the following options:
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 damage; M \[weak\] slowed (save ends)
-- 12-16: 5 damage; M \[average\] slowed (save ends)
-- 17+: 8 damage; M \[strong\] restrained (save ends)
+- **11 or lower:** 3 damage; M \[weak\] slowed (save ends)
+- **12-16:** 5 damage; M \[average\] slowed (save ends)
+- **17+:** 8 damage; M \[strong\] restrained (save ends)
 
 **Effect:** You can pull the target up to 2 squares. You can force move a target restrained by this ability, ignoring stability.
 
@@ -364,7 +364,7 @@ Choose one heroic ability from the following options:
 
 *You give a target a glimpse into the future so that they're ready for what comes next.*
 
-**Effect:** The target has (SHIELD) until the start of your next turn. Whenever the target takes damage while they have this effect, they can take a free strike against the source of the damage.
+**Effect:** The target has `(SHIELD)` until the start of your next turn. Whenever the target takes damage while they have this effect, they can take a free strike against the source of the damage.
 
 ###### Smolder (3 Clarity)
 
@@ -372,9 +372,9 @@ Choose one heroic ability from the following options:
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 special damage; R \[weak\] target has special weakness 5 (save ends)
-- 12-16: 6 special damage; R \[average\] target has special weakness 5 (save ends)
-- 17+: 9 special damage; R \[strong\] target has special weakness equal to 5 + your Reason (save ends)
+- **11 or lower:** 3 special damage; R \[weak\] target has special weakness 5 (save ends)
+- **12-16:** 6 special damage; R \[average\] target has special weakness 5 (save ends)
+- **17+:** 9 special damage; R \[strong\] target has special weakness equal to 5 + your Reason (save ends)
 
 **Effect:** The target takes damage before receiving any special weakness effects. The weakness and damage type of this ability must be chosen from one of the following damage types: acid, corruption, or fire.
 
@@ -400,7 +400,7 @@ Choose one heroic ability from the following options:
 
 *The target's skin turns to hard, dark metal, both impenetrable and dense.*
 
-**Effect:** The target's stability increases by 5, and they have (SHIELD) and a (SURGE) on weapon attacks until the start of your next turn.\
+**Effect:** The target's stability increases by 5, and they have `(SHIELD)` and a `(SURGE)` on weapon attacks until the start of your next turn.\
 **Strained:** You cannot use maneuvers (save ends).
 
 ###### Perfect Clarity (5 Clarity)
@@ -444,11 +444,11 @@ Whenever you land from falling, or a falling creature lands within 2 of you, you
 
 #### Extra Shield
 
-Your (SHIELD) limit increases by 1, for a maximum of (SHIELD)(SHIELD)(SHIELD)(SHIELD).
+Your `(SHIELD)` limit increases by 1, for a maximum of `(SHIELD)(SHIELD)(SHIELD)(SHIELD)`.
 
 #### Extra Surge
 
-Your (SURGE) limit increases by 1, for a maximum of (SURGE)(SURGE)(SURGE)(SURGE).
+Your `(SURGE)` limit increases by 1, for a maximum of `(SURGE)(SURGE)(SURGE)(SURGE)`.
 
 ### 5-clarity Tradition Ability
 
@@ -464,9 +464,9 @@ Choose one of the following abilities:
 
 **Power Roll + Presence:**
 
-- 11 or lower: Target 2 creatures, one of which can be you
-- 12-16: Target 3 creatures, one of which can be you
-- 17+: Target 4 creatures, one of which can be you
+- **11 or lower:** Target 2 creatures, one of which can be you
+- **12-16:** Target 3 creatures, one of which can be you
+- **17+:** Target 4 creatures, one of which can be you
 
 **Effect:** Each target's speed increases by 5 and they gain the use of an additional maneuver during their turn until the start of your next turn.\
 **Strained:** Your speed is halved until the end of the encounter.
@@ -477,9 +477,9 @@ Choose one of the following abilities:
 
 **Power Roll + Presence:**
 
-- 11 or lower: Speed is halved; P \[weak\] slowed (save ends)
-- 12-16: Slowed (save ends); P \[average\] speed is 0 (save ends)
-- 17+: Slowed (save ends); P \[strong\] speed is 0 (save ends)
+- **11 or lower:** Speed is halved; P \[weak\] slowed (save ends)
+- **12-16:** Slowed (save ends); P \[average\] speed is 0 (save ends)
+- **17+:** Slowed (save ends); P \[strong\] speed is 0 (save ends)
 
 **Effect:** Each target can't use triggered actions while they are slowed by this ability.\
 **Strained:** The potency of this ability increases by 1. You take 1d6 damage. At the start of each round while a target is affected by this ability, you take 1d6 damage. You can choose to immediately end the effects on all affected targets (no action required).
@@ -494,9 +494,9 @@ Choose one of the following abilities:
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 damage; vertical push 2
-- 12-16: 6 damage; vertical push 4
-- 17+: 9 damage; vertical push 6
+- **11 or lower:** 3 damage; vertical push 2
+- **12-16:** 6 damage; vertical push 4
+- **17+:** 9 damage; vertical push 6
 
 **Strained:** The burst area increases by 1 and you are weakened (EoT).
 
@@ -506,9 +506,9 @@ Choose one of the following abilities:
 
 **Power Roll + Reason:**
 
-- 11 or lower: 6 damage; M \[weak\] prone
-- 12-16: 10 damage; M \[average\] prone
-- 17+: 14 damage; M \[strong\] prone can't stand (save ends)
+- **11 or lower:** 6 damage; M \[weak\] prone
+- **12-16:** 10 damage; M \[average\] prone
+- **17+:** 14 damage; M \[strong\] prone can't stand (save ends)
 
 **Effect:** A target made prone by this ability is lifted 2 squares into the air before falling immediately to the ground.\
 **Strained:** You take half the damage the target takes, including any damage from falling.
@@ -523,9 +523,9 @@ Choose one of the following abilities:
 
 **Power Roll + Reason:**
 
-- 11 or lower: 6 psychic damage; I \[weak\] slowed (save ends)
-- 12-16: 10 psychic damage; I \[average\] weakened (save ends)
-- 17+: 14 psychic damage; I \[strong\] dazed (save ends)
+- **11 or lower:** 6 psychic damage; I \[weak\] slowed (save ends)
+- **12-16:** 10 psychic damage; I \[average\] weakened (save ends)
+- **17+:** 14 psychic damage; I \[strong\] dazed (save ends)
 
 **Strained:** You start crying. You can't take triggered actions or take free strikes until the end of the target's next turn.
 
@@ -535,9 +535,9 @@ Choose one of the following abilities:
 
 **Power Roll + Reason:**
 
-- 11 or lower: Target takes a free strike on an enemy of your choice
-- 12-16: Target shifts up to their speed and uses their signature ability against targets of your choice
-- 17+: Target moves up to their speed and uses their signature ability against targets of your choice
+- **11 or lower:** Target takes a free strike on an enemy of your choice
+- **12-16:** Target shifts up to their speed and uses their signature ability against targets of your choice
+- **17+:** Target moves up to their speed and uses their signature ability against targets of your choice
 
 **Effect:** You control the target's movement. You can't move the target in a way that puts them in harm's way, such as off a cliff. However, you can move them in a way that provokes opportunity attacks.\
 **Strained:** You take 1d6 damage and you are weakened (EoT).
@@ -560,9 +560,9 @@ Choose one heroic ability from the following options:
 
 **Power Roll + Presence:**
 
-- 11 or lower: 3 corruption damage; P \[weak\] weakened (save ends)
-- 12-16: 5 corruption damage; removed from encounter (EoT); P \[average\] weakened (save ends)
-- 17+: 8 corruption damage; removed from encounter (EoT); P \[strong\] weakened (save ends)
+- **11 or lower:** 3 corruption damage; P \[weak\] weakened (save ends)
+- **12-16:** 5 corruption damage; removed from encounter (EoT); P \[average\] weakened (save ends)
+- **17+:** 8 corruption damage; removed from encounter (EoT); P \[strong\] weakened (save ends)
 
 **Effect:** When a target removed from the encounter returns, they appear where they were removed or in the closest available space of the Director's choice.\
 **Strained:** You take 2d6 damage and you grow visibly older (the equivalent of 10 human years). You gain 2 clarity on a tier-3 result.
@@ -571,14 +571,14 @@ Choose one heroic ability from the following options:
 
 *Three spheres of solid psionic energy float around you.*
 
-**Effect:** You create three size 1T orb objects that orbit your body. You have a (SHIELD) for each orb you have active. Whenever you take damage, you lose 1 orb.\
+**Effect:** You create three size 1T orb objects that orbit your body. You have a `(SHIELD)` for each orb you have active. Whenever you take damage, you lose 1 orb.\
 You can use a free maneuver to fire an orb at a creature or object within 5 as a ranged attack on each of your turns, losing the orb after the attack.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage
-- 12-16: 3 damage
-- 17+: 5 damage
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 5 damage
 
 **Strained:** You create five orbs. You are weakened while you have orbs active.
 
@@ -595,9 +595,9 @@ You can use a free maneuver to fire an orb at a creature or object within 5 as a
 
 **Power Roll + Presence:**
 
-- 11 or lower: 4 damage; P \[weak\] dazed (save ends)
-- 12-16: 7 damage; P \[average\] dazed (save ends)
-- 17+: 11 damage; P \[strong\] dazed (save ends)
+- **11 or lower:** 4 damage; P \[weak\] dazed (save ends)
+- **12-16:** 7 damage; P \[average\] dazed (save ends)
+- **17+:** 11 damage; P \[strong\] dazed (save ends)
 
-**Effect:** After resolving the power roll, attacks and abilities used against the target have a (SURGE), and the target has a bane on presence tests until the end of the encounter.\
-**Strained:** The potency of this ability increases by 1. You take 2d6 damage and attacks and abilities used against you have a (SURGE) until the end of the encounter.
+**Effect:** After resolving the power roll, attacks and abilities used against the target have a `(SURGE)`, and the target has a bane on presence tests until the end of the encounter.\
+**Strained:** The potency of this ability increases by 1. You take 2d6 damage and attacks and abilities used against you have a `(SURGE)` until the end of the encounter.

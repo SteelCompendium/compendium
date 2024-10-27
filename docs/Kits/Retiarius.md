@@ -32,7 +32,7 @@ You wear light armor, and wield a polearm and several ensnaring weapons.
 
 ## Signature Ability
 
-**NET AND STAB**
+### Net And Stab
 
 The well-thrown net that follows your main attack leaves your foes right where you want them.
 
@@ -41,8 +41,8 @@ The well-thrown net that follows your main attack leaves your foes right where y
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Melee 2               | **Target:** 1 creature |
 
-*Power Roll + Might or Agility:*
+**Power Roll + Might or Agility:**
 
-- 11 or lower: 4 damage; A \[weak\] [[Slowed|slowed]] (EoT)
-- 12–16: 5 damage; A \[average\] [[Slowed|slowed]] (EoT)
-- 17+: 6 damage; A \[strong\] [[Restrained|restrained]] (EoT)
+- **11 or lower:** 4 damage; A \[weak\] [[Slowed|slowed]] (EoT)
+- **12-16:** 5 damage; A \[average\] [[Slowed|slowed]] (EoT)
+- **17+:** 6 damage; A \[strong\] [[Restrained|restrained]] (EoT)

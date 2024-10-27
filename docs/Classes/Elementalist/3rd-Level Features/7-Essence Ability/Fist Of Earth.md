@@ -29,8 +29,8 @@ An enormous fist rises from the ground to crush your foes.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 5 damage; M \[weak\] restrained (save ends)
-- 12-16: 9 damage; M \[average\] restrained (save ends)
-- 17+: 12 damage; M \[strong\] restrained (save ends)
+- **11 or lower:** 5 damage; M \[weak\] restrained (save ends)
+- **12-16:** 9 damage; M \[average\] restrained (save ends)
+- **17+:** 12 damage; M \[strong\] restrained (save ends)
 
-**Effect:** While the target is restrained, they take (SURGE)(SURGE) damage at the start of their turn.
+**Effect:** While the target is restrained, they take `(SURGE)(SURGE)` damage at the start of their turn.

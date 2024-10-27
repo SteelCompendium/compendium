@@ -17,11 +17,11 @@ target: All enemies
 
 # Edict Of Stillness (7 Judgment)
 
-- **Flee not from just punishment.**
+**Flee not from just punishment.**
 
 |                      |                         |
 | :------------------- | :---------------------- |
 | **Keywords:** –      | **Type:** Maneuver      |
 | **Distance:** 2 Aura | **Target:** All enemies |
 
-**Effect:** Until the end of the encounter or you are dying, when a target is force moved they take (SURGE) holy damage. If the target moves on their own, they take (SURGE)(SURGE) holy damage. If a target is judged by you, they take an additional 1d6 holy damage when they move on their own.
+**Effect:** Until the end of the encounter or you are dying, when a target is force moved they take `(SURGE)` holy damage. If the target moves on their own, they take `(SURGE)(SURGE)` holy damage. If a target is judged by you, they take an additional 1d6 holy damage when they move on their own.

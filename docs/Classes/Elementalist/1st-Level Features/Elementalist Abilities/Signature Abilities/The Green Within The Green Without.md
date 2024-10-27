@@ -28,8 +28,8 @@ target: 1 creature
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage
-- 12–16: 3 damage
-- 17+: 5 damage
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 5 damage
 
 **Effect:** You slide a creature within 10 squares of the target up to 2 squares. If the creature is a willing ally, the forced movement ignores stability.

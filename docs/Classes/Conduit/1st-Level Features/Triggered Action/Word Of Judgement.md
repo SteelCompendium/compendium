@@ -25,7 +25,7 @@ Your holy word saps an attacking enemy's strength.
 | **Keywords:** Magic, Ranged | **Type:** Triggered |
 | **Distance:** Ranged 10     | **Target:** 1 ally  |
 
-- **Trigger:** The target takes damage.
+**Trigger:** The target takes damage.
 
 **Effect:** The target gains **+2** against the damage. You gain **1 piety**.
 

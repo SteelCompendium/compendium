@@ -29,8 +29,8 @@ target: All enemies
 
 **Power Roll + Agility:**
 
-- 11 or lower: 6 damage
-- 12-16: 9 damage
-- 17+: 13 damage
+- **11 or lower:** 6 damage
+- **12-16:** 9 damage
+- **17+:** 13 damage
 
 **Effect:** You can take the Disengage move action as a free triggered action before or after you make this attack.

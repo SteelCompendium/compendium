@@ -99,13 +99,13 @@ Your encyclopedic knowledge of the history of battle lets you apply that knowled
 Additionally, if you have a reasonable amount of time before a combat encounter or negotiation, and you have at least one clue or rumor regarding the encounter, you can make a Reason test as a Respite activity. The following test results apply:
 
 - **Combat Encounter:**
-    - 11 or lower: The Director tells you the number of creatures in the encounter.
-    - 12-16: The Director tells you the number and level of the creatures in the encounter.
-    - 17+: As 12-16, and when the encounter begins, all enemies are surprised.
+    - **11 or lower:** The Director tells you the number of creatures in the encounter.
+    - **12-16:** The Director tells you the number and level of the creatures in the encounter.
+    - **17+:** As 12-16, and when the encounter begins, all enemies are surprised.
 - **Negotiation:**
-    - 11 or lower: The Director tells you three different motivations, one of which is one of the NPC's motivations, and the other two are not.
-    - 12-16: The Director tells you one of the NPC's motivations.
-    - 17+: As 12-16, and you and your allies gain an edge on tests made to influence NPCs during the negotiation.
+    - **11 or lower:** The Director tells you three different motivations, one of which is one of the NPC's motivations, and the other two are not.
+    - **12-16:** The Director tells you one of the NPC's motivations.
+    - **17+:** As 12-16, and you and your allies gain an edge on tests made to influence NPCs during the negotiation.
 
 You can only make this test once for each encounter and negotiation.
 
@@ -128,9 +128,9 @@ Your leadership thwarts an enemy or aids an ally.
 | **Keywords:** â                    | **Type:** Maneuver |
 | **Distance:** Self | **Target:** Self   |
 
-- **Trigger:** The target makes an attack against another creature.
+**Trigger:** The target makes an attack against another creature.
 
-**Effect:** Add or subtract (SURGE) to the attack.
+**Effect:** Add or subtract `(SURGE)` to the attack.
 
 **Spend 3 Focus:** Increase or decrease the potency of one effect from the attack.
 
@@ -138,9 +138,9 @@ Your leadership thwarts an enemy or aids an ally.
 
 Your quick reflexes cost an enemy the precision they seek.
 
-- **Trigger:** A creature makes a Weapon attack against the target.
+**Trigger:** A creature makes a Weapon attack against the target.
 
-**Effect:** The attack's damage is reduced (SHIELD)(SHIELD).
+**Effect:** The attack's damage is reduced `(SHIELD)(SHIELD)`.
 
 **Spend 3 Focus:** Decrease the potency of all effects on the attack by 1.
 
@@ -148,7 +148,7 @@ Your quick reflexes cost an enemy the precision they seek.
 
 Under your direction, an ally waits for just the right moment to strike.
 
-- **Trigger:** The target moves.
+**Trigger:** The target moves.
 
 **Effect:** At any point during the target's movement, one ally can make a free strike against the target.
 
@@ -181,7 +181,7 @@ You know how to focus the attention of your allies as you push them toward victo
 
 You draw your allies' attention to a specific foeâwith devastating effect.
 
-**Effect:** The target is marked by you until the start of your next turn. When attacking a marked target, you and each of your allies gain a damage surge (SURGE).
+**Effect:** The target is marked by you until the start of your next turn. When attacking a marked target, you and each of your allies gain a damage surge `(SURGE)`.
 
 **Spend 1 Focus or More Focus:** You focus on understanding the tactics of your foe, countering their strengths and exploiting their weaknesses to enhance your squad.
 
@@ -213,7 +213,7 @@ You can use this maneuver on an already marked creature to bank more focus.
 </tr>
 <tr class="odd">
 <td>6</td>
-<td>Attacks against the target do (SURGE)(SURGE) instead of (SURGE).</td>
+<td>Attacks against the target do <code>(SURGE)(SURGE)</code> instead of <code>(SURGE)</code>.</td>
 </tr>
 <tr class="even">
 <td>8 (Level 4)</td>
@@ -221,7 +221,7 @@ You can use this maneuver on an already marked creature to bank more focus.
 </tr>
 <tr class="odd">
 <td>10 (Level 7)</td>
-<td>Attacks against the target do (SURGE)(SURGE)(SURGE) instead of (SURGE).</td>
+<td>Attacks against the target do <code>(SURGE)(SURGE)(SURGE)</code> instead of <code>(SURGE)</code>.</td>
 </tr>
 <tr class="even">
 <td>12 (Level 10)</td>
@@ -298,7 +298,7 @@ You can use this maneuver on an already marked creature to bank more focus.
 </tr>
 <tr class="odd">
 <td>6</td>
-<td>Allies have (SHIELD) against attacks from the marked target.</td>
+<td>Allies have <code>(SHIELD)</code> against attacks from the marked target.</td>
 </tr>
 <tr class="even">
 <td>8 (Level 4)</td>
@@ -306,7 +306,7 @@ You can use this maneuver on an already marked creature to bank more focus.
 </tr>
 <tr class="odd">
 <td>10 (Level 7)</td>
-<td>Allies have (SHIELD)(SHIELD) against attacks from the marked target.</td>
+<td>Allies have <code>(SHIELD)(SHIELD)</code> against attacks from the marked target.</td>
 </tr>
 <tr class="even">
 <td>12 (Level 10)</td>
@@ -354,9 +354,9 @@ You shout a phrase that galvanizes your team.
 
 **Power Roll + Reason:**
 
-- 11 or lower: The target's next attack has (SURGE)
-- 12â16: The target's next attack has (SURGE)
-- 17+: The target's next attack has (SURGE)(SURGE)
+- **11 or lower:** The target's next attack has `(SURGE)`
+- **12-16:** The target's next attack has `(SURGE)`
+- **17+:** The target's next attack has `(SURGE)(SURGE)`
 
 ###### Concussive Strike (3 Focus)
 
@@ -364,9 +364,9 @@ Your precise strike leaves your foe struggling to respond.
 
 **Power Roll + Might:**
 
-- 11 or lower: 3 damage; M \[weak\] dazed (save ends)
-- 12â16: 5 damage; M \[average\] dazed (save ends)
-- 17+: 8 damage; M \[strong\] dazed (save ends)
+- **11 or lower:** 3 damage; M \[weak\] dazed (save ends)
+- **12-16:** 5 damage; M \[average\] dazed (save ends)
+- **17+:** 8 damage; M \[strong\] dazed (save ends)
 
 ###### Inspiring Strike (3 Focus)
 
@@ -374,9 +374,9 @@ Your attack gives an ally hope.
 
 **Power Roll + Might:**
 
-- 11 or lower: 3 damage; you or an ally within 10 can spend a Recovery
-- 12â16: 5 damage; you or an ally within 10 can spend a Recovery
-- 17+: 8 damage; you or an ally within 10 can spend a Recovery, and each of you gains an edge on the next attack they make this encounter
+- **11 or lower:** 3 damage; you or an ally within 10 can spend a Recovery
+- **12-16:** 5 damage; you or an ally within 10 can spend a Recovery
+- **17+:** 8 damage; you or an ally within 10 can spend a Recovery, and each of you gains an edge on the next attack they make this encounter
 
 ###### Squad! Forward! (3 Focus)
 
@@ -394,9 +394,9 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 
 **Power Roll + Might:**
 
-- 11 or lower: 5 damage; an ally within 10 can make a signature attack against the target as a free triggered action
-- 12â16: 9 damage; an ally within 10 can make a signature attack with an edge against the target as a free triggered action
-- 17+: 12 damage; two allies within 10 can each make a signature attack with an edge against the target as a free triggered action
+- **11 or lower:** 5 damage; an ally within 10 can make a signature attack against the target as a free triggered action
+- **12-16:** 9 damage; an ally within 10 can make a signature attack with an edge against the target as a free triggered action
+- **17+:** 12 damage; two allies within 10 can each make a signature attack with an edge against the target as a free triggered action
 
 **Effect:** If an attack is left to be resolved and the target was reduced to 0 Stamina, the attacker can pick a different target.
 
@@ -408,9 +408,9 @@ Your attack demoralizes your foe. Your allies begin to think you can win.
 
 **Power Roll + Might:**
 
-- 11 or lower: 4 damage; R \[weak\] weakened (save ends)
-- 12â16: 6 damage; R \[average\] weakened (save ends)
-- 17+: 10 damage; R \[strong\] weakened (save ends)
+- **11 or lower:** 4 damage; R \[weak\] weakened (save ends)
+- **12-16:** 6 damage; R \[average\] weakened (save ends)
+- **17+:** 10 damage; R \[strong\] weakened (save ends)
 
 **Effect:** Each of your allies can spend a Recovery the first time they attack any target you've marked before the start of your next turn.
 
@@ -432,7 +432,7 @@ As a 2nd-level tactician, you gain the following features.
 
 ### Adapt A Strategy
 
-At the beginning of your first turn, choose an offensive strategy or a defensive strategy. Your choice increases either your (SURGE) limit to (SURGE)(SURGE)(SURGE)(SURGE) or your (SHIELD) limit to (SHIELD)(SHIELD)(SHIELD)(SHIELD).
+At the beginning of your first turn, choose an offensive strategy or a defensive strategy. Your choice increases either your `(SURGE)` limit to `(SURGE)(SURGE)(SURGE)(SURGE)` or your `(SHIELD)` limit to `(SHIELD)(SHIELD)(SHIELD)(SHIELD)`.
 
 ### 2nd-level Doctrine Features
 
@@ -450,7 +450,7 @@ You choose what order enemies marked by you take their initiative order. Other c
 
 #### Infiltration Tactics
 
-You and your allies do (SURGE) when attacking from concealment or while hidden.
+You and your allies do `(SURGE)` when attacking from concealment or while hidden.
 
 #### Melee Superiority
 
@@ -482,9 +482,9 @@ Your unorthodox strategy causes enemies to lash out in fear, heedless of who the
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage; R \[weak\] frightened of you (save ends)
-- 12â16: 3 damage; R \[average\] frightened of you (save ends)
-- 17+: 4 damage; R \[strong\] frightened of you (save ends)
+- **11 or lower:** 2 damage; R \[weak\] frightened of you (save ends)
+- **12-16:** 3 damage; R \[average\] frightened of you (save ends)
+- **17+:** 4 damage; R \[strong\] frightened of you (save ends)
 
 #### 2nd-level Mastermind Abilities
 
@@ -496,9 +496,9 @@ Your enemy will think twice about attacking your friend.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage; R \[weak\] frightened of an adjacent ally (save ends)
-- 12â16: 3 damage; R \[average\] frightened of an adjacent ally (save ends)
-- 17+: 5 damage; R \[strong\] frightened of an adjacent ally (save ends)
+- **11 or lower:** 2 damage; R \[weak\] frightened of an adjacent ally (save ends)
+- **12-16:** 3 damage; R \[average\] frightened of an adjacent ally (save ends)
+- **17+:** 5 damage; R \[strong\] frightened of an adjacent ally (save ends)
 
 **Effect:** An ally adjacent to the target can spend a Recovery.
 
@@ -516,21 +516,21 @@ Choose one of the following abilities.
 
 You prioritize saving an ally over your own safety.
 
-- **Trigger:** The target attacks an ally.
+**Trigger:** The target attacks an ally.
 
 **Effect:** You move toward the target, ending your move in the nearest square that puts the target adjacent to you if you can. The ally can spend a Recovery and an additional Recovery for each enemy you move past while moving to the target. Then make the following power roll against the target.
 
 **Power Roll + Might:**
 
-- 11 or lower: R \[weak\] frightened of the triggering ally (save ends)
-- 12â16: R \[average\] frightened of the triggering ally (save ends)
-- 17+: R \[strong\] frightened of the triggering ally (save ends)
+- **11 or lower:** R \[weak\] frightened of the triggering ally (save ends)
+- **12-16:** R \[average\] frightened of the triggering ally (save ends)
+- **17+:** R \[strong\] frightened of the triggering ally (save ends)
 
 ##### Squad! On Me! (5 Focus)
 
 Together we are invincible!
 
-**Effect:** Until the start of your next turn, targets have (SHIELD)(SHIELD) and a bonus to their Stability equal to your Might score.
+**Effect:** Until the start of your next turn, targets have `(SHIELD)(SHIELD)` and a bonus to their Stability equal to your Might score.
 
 ## 3rd-level Features
 
@@ -550,7 +550,7 @@ Choose one heroic ability from the following options.
 
 Historians will write about this day.
 
-**Effect:** Until the end of the encounter or you are dying, whenever you or an ally attacks a target marked by you, they do (SURGE)(SURGE).
+**Effect:** Until the end of the encounter or you are dying, whenever you or an ally attacks a target marked by you, they do `(SURGE)(SURGE)`.
 
 #### Frontal Assault (7 Focus)
 

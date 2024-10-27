@@ -269,7 +269,7 @@ You unleash a blast of holy light upon your foe.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 damage
-- **12–16:** 4 damage
+- **12-16:** 4 damage
 - **17+:** 6 damage
 
 **Effect:** The damage this ability deals can be holy damage.
@@ -282,7 +282,7 @@ Choose one of the following triggered actions:
 
 You invigorate an attacking ally with divine energy.
 
-- **Trigger:** The target deals damage to another creature or object.
+**Trigger:** The target deals damage to another creature or object.
 
 **Effect:** The damage gains **+1**. You gain **1 piety**.
 
@@ -292,7 +292,7 @@ You invigorate an attacking ally with divine energy.
 
 Your holy word saps an attacking enemy's strength.
 
-- **Trigger:** The target takes damage.
+**Trigger:** The target takes damage.
 
 **Effect:** The target gains **+2** against the damage. You gain **1 piety**.
 
@@ -304,7 +304,7 @@ Your god answers a prayer that enhances your statistics. You can choose one of t
 
 #### Prayer Of Destruction
 
-Your god infuses wrath within your being. When you deal damage with a Magic ability, the damage dealt increases by **1** .
+Your god infuses wrath within your being. When you deal damage with a Magic ability, the damage dealt increases by **1**.
 
 #### Prayer Of Distance
 
@@ -312,7 +312,7 @@ Your god blesses you with the ability to stretch your divine magic further. The 
 
 #### Prayer Of Speed
 
-Your god blesses your flesh and infuses it with divine quickness. Your speed increases by **1**, and when you take the Disengage\*\* move action, you can shift **1 extra square**.
+Your god blesses your flesh and infuses it with divine quickness. Your speed increases by **1**, and when you take the **Disengage** move action, you can shift **1 extra square**.
 
 #### Prayer Of Soldier's Skill
 
@@ -320,7 +320,7 @@ Your god gives your mind the training of a soldier. You can wear medium armor an
 
 #### Prayer Of Steel
 
-Your god fills your body with the light of creation, making you harder to hurt and move. Your Stamina increases by **3** , and stability increases by **1**.
+Your god fills your body with the light of creation, making you harder to hurt and move. Your Stamina increases by **3**, and stability increases by **1**.
 
 ### Conduit Ward
 
@@ -367,7 +367,7 @@ You drain the energy from your target and revitalize yourself or an ally.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 corruption damage
-- **12–16:** 3 corruption damage
+- **12-16:** 3 corruption damage
 - **17+:** 5 corruption damage
 
 **Effect:** You or an ally within distance can spend a Recovery.
@@ -379,7 +379,7 @@ A tendril of divine energy shoots forth to draw in your foe.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 holy damage; pull 2
-- **12–16:** 4 holy damage; pull 3
+- **12-16:** 4 holy damage; pull 3
 - **17+:** 6 holy damage; pull 4
 
 ##### Lightfall
@@ -389,7 +389,7 @@ A rain of holy light scours your enemies and repositions your allies.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 1 holy damage
-- **12–16:** 2 holy damage
+- **12-16:** 2 holy damage
 - **17+:** 3 holy damage
 
 **Effect:** You can teleport each ally in the area and yourself if you're in the area to any unoccupied space within the area.
@@ -401,7 +401,7 @@ Divine magic tears at your foe and defends a nearby friend.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 corruption damage
-- **12–16:** 3 corruption damage
+- **12-16:** 3 corruption damage
 - **17+:** 4 corruption damage
 
 **Effect:** You or an ally within distance gains **+2** against the next attack until the start of your next turn.
@@ -413,7 +413,7 @@ A blast of judgment disorients your foe.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 holy damage; slide 1
-- **12–16:** 4 holy damage; slide 2
+- **12-16:** 4 holy damage; slide 2
 - **17+:** 6 holy damage; slide 3
 
 ##### Warrior's Prayer
@@ -423,7 +423,7 @@ You utter a quick prayer that projects aggressive divine energy around a friend 
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 holy damage
-- **12–16:** 5 holy damage
+- **12-16:** 5 holy damage
 - **17+:** 7 holy damage
 
 **Effect:** You or an ally within distance gains Temporary Stamina equal to your **Intuition score**. This Temporary Stamina disappears at the end of the encounter.
@@ -435,7 +435,7 @@ A bolt of holy energy saps the life from a foe.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 corruption damage; \[weak\] the target takes a bane on their next power roll
-- **12–16:** 4 corruption damage; \[average\] the target takes a bane on their next power roll
+- **12-16:** 4 corruption damage; \[average\] the target takes a bane on their next power roll
 - **17+:** 6 corruption damage; \[strong\] the target takes a bane on their next power roll
 
 #### Heroic Abilities
@@ -453,7 +453,7 @@ You ask your saint for thunder and your prayer is answered.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 sonic damage; push 1
-- **12–16:** 3 sonic damage; push 2
+- **12-16:** 3 sonic damage; push 2
 - **17+:** 5 sonic damage; push 3
 
 **Effect:** You can also push each willing ally in the area, and their stability doesn't count against this forced movement.
@@ -471,7 +471,7 @@ Your divine fury is a hammer that crashes down upon the unrighteous.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 3 holy damage; \[weak\] prone
-- **12–16:** 6 holy damage; \[average\] prone
+- **12-16:** 6 holy damage; \[average\] prone
 - **17+:** 9 holy damage; \[strong\] prone and can't stand (save ends)
 
 ###### Violence Will Not Aid Thee (3 Piety)
@@ -481,7 +481,7 @@ A brilliant column of holy light appears on the battlefield, striking out at nea
 **Power Roll + Intuition:**
 
 - **11 or lower:** 3 lightning damage
-- **12–16:** 6 lightning damage
+- **12-16:** 6 lightning damage
 - **17+:** 9 lightning damage
 
 **Effect:** If the target deals damage to another creature, the target of this ability takes another **1d10 lightning damage** (save ends).
@@ -497,7 +497,7 @@ Cursed by you, your enemy takes more damage from your allies.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 3 corruption damage; \[weak\] when the target takes damage from an ability, the ability deals **+1** ( save ends)
-- **12–16:** 6 corruption damage; \[average\] when the target takes damage from an ability, the ability deals **+2** (save ends)
+- **12-16:** 6 corruption damage; \[average\] when the target takes damage from an ability, the ability deals **+2** (save ends)
 - **17+:** 9 corruption damage; \[strong\] when the target takes damage from an ability, the ability deals **+3** (save ends)
 
 ###### Curse Of Terror (5 Piety)
@@ -507,7 +507,7 @@ Fear of divine judgment overwhelms your foe.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 6 holy damage; \[weak\] frightened (save ends)
-- **12–16:** 9 holy damage; \[average\] frightened (save ends)
+- **12-16:** 9 holy damage; \[average\] frightened (save ends)
 - **17+:** 13 holy damage; \[strong\] frightened (save ends)
 
 ###### Faith Is Our Armor (5 Piety)
@@ -517,7 +517,7 @@ The heroes' armor glows with golden light, granting divine protection.
 **Power Roll + Intuition:**
 
 - **11 or lower:** Gain 5 temporary Stamina
-- **12–16:** Gain 10 temporary Stamina
+- **12-16:** Gain 10 temporary Stamina
 - **17+:** Gain 15 temporary Stamina
 
 **Effect:** This temporary Stamina disappears at the end of the encounter.
@@ -594,7 +594,7 @@ You speak with the voice of your saint, commanding your enemies.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 4 holy damage; \[weak\] before taking damage, the target makes a free strike against a target you choose
-- **12–16:** 7 holy damage; \[average\] before taking damage, the target uses an action of your choice and you choose any targets
+- **12-16:** 7 holy damage; \[average\] before taking damage, the target uses an action of your choice and you choose any targets
 - **17+:** 11 holy damage; \[strong\] before taking damage, the target can shift their speed and uses an action of your choice, and you choose any targets
 
 #### Morning Light (5 Piety)
@@ -604,7 +604,7 @@ Light shines at your command, burning your foes and blessing your allies.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 4 fire damage
-- **12–16:** 6 fire damage
+- **12-16:** 6 fire damage
 - **17+:** 10 fire damage
 
 **Effect:** Each ally in the area deals **+1 fire damage** with their next attack made before the end of their next turn.
@@ -616,7 +616,7 @@ Mystical thorned vines appear and bind your foes.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 damage; \[weak\] restrained (save ends)
-- **12–16:** 3 damage; \[average\] restrained (save ends)
+- **12-16:** 3 damage; \[average\] restrained (save ends)
 - **17+:** 7 damage; \[strong\] restrained (save ends)
 
 #### Our Hearts, Your Strength (5 Piety)
@@ -644,7 +644,7 @@ A raging storm appears, striking your foes with lightning and throwing them arou
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 lightning damage; vertical slide 1
-- **12–16:** 5 lightning damage; vertical slide 2
+- **12-16:** 5 lightning damage; vertical slide 2
 - **17+:** 7 lightning damage; vertical slide 3
 
 #### Statue Of Power (5 Piety)
@@ -680,7 +680,7 @@ Your divine magic makes a creature appear as what your enemies fear most.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 6 psychic damage; \[weak\] frightened (save ends)
-- **12–16:** 9 psychic damage; \[average\] frightened (save ends)
+- **12-16:** 9 psychic damage; \[average\] frightened (save ends)
 - **17+:** 13 psychic damage; \[strong\] frightened (save ends)
 
 **Effect:** You choose a creature within 10 squares who the targets are frightened of.
@@ -698,7 +698,7 @@ A beam of energy connects a foe to a friend, draining life from one to heal the 
 **Power Roll + Intuition:**
 
 - **11 or lower:** 7 corruption damage
-- **12–16:** 10 corruption damage
+- **12-16:** 10 corruption damage
 - **17+:** 15 corruption damage
 
 **Effect:** One ally within distance can spend any number of Recoveries.
@@ -710,7 +710,7 @@ Your saint grants your enemies a vision of whatever they most fear.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 holy damage
-- **12–16:** 5 holy damage
+- **12-16:** 5 holy damage
 - **17+:** 7 holy damage
 
 **Effect:** Each ally in the area can spend a Recovery.

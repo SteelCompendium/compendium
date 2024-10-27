@@ -29,6 +29,6 @@ Wrap them up in fire and melting stone.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 5 fire damage; A \[weak\] restrained (save ends)
-- 12-16: 9 fire damage; A \[average\] restrained (save ends)
-- 17+: 12 fire damage; A \[strong\] restrained (save ends)
+- **11 or lower:** 5 fire damage; A \[weak\] restrained (save ends)
+- **12-16:** 9 fire damage; A \[average\] restrained (save ends)
+- **17+:** 12 fire damage; A \[strong\] restrained (save ends)

@@ -32,7 +32,7 @@ You wear light armor and wield a shield and a medium weapon.
 
 ## Signature Ability
 
-**LEAPING LIGHTNING**
+### Leaping Lightning
 
 Lightning [[Jump|jumps]] from your weapon as you strike to harm a nearby foe.
 
@@ -41,10 +41,10 @@ Lightning [[Jump|jumps]] from your weapon as you strike to harm a nearby foe.
 | **Keywords:** Attack, Magic, Melee, Weapon | **Type:** Action                 |
 | **Distance:** Melee 1                      | **Target:** 1 creature or object |
 
-*Power Roll + Might, Reason, Intuition, or Presence:*
+**Power Roll + Might, Reason, Intuition, or Presence:**
 
-- 11 or lower: 4 lightning damage
-- 12–16: 7 lightning damage
-- 17+: 9 lightning damage
+- **11 or lower:** 4 lightning damage
+- **12-16:** 7 lightning damage
+- **17+:** 9 lightning damage
 
-*Effect:* A creature or object within 2 squares of your target takes (SURGE) lightning damage.
+**Effect:** A creature or object within 2 squares of your target takes `(SURGE)` lightning damage.

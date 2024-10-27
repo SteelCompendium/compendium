@@ -25,7 +25,7 @@ You invigorate an attacking ally with divine energy.
 | **Keywords:** Magic, Ranged | **Type:** Triggered |
 | **Distance:** Ranged 10     | **Target:** 1 ally  |
 
-- **Trigger:** The target deals damage to another creature or object.
+**Trigger:** The target deals damage to another creature or object.
 
 **Effect:** The damage gains **+1**. You gain **1 piety**.
 

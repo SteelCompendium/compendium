@@ -27,8 +27,8 @@ You fire a bolt at an enemy, distracting them long enough for an ally to stab th
 
 **Power Roll + Agility:**
 
-- 11 or lower: 3 damage
-- 12–16: 5 damage
-- 17+: 8 damage
+- **11 or lower:** 3 damage
+- **12-16:** 5 damage
+- **17+:** 8 damage
 
-**Effect:** If an ally is adjacent to the target, the target takes additional (SURGE) damage.
+**Effect:** If an ally is adjacent to the target, the target takes additional `(SURGE)` damage.

@@ -29,8 +29,8 @@ target: 1 creature or object
 
 **Power Roll + Agility:**
 
-- 11 or lower: 7 damage
-- 12-16: 10 damage
-- 17+: 13 damage
+- **11 or lower:** 7 damage
+- **12-16:** 10 damage
+- **17+:** 13 damage
 
 **Effect:** You can shift half your speed, before or after you make the attack. You can use this ability instead of a free strike or a signature ability whenever an effect gives you one, though you still must pay its Discipline cost.

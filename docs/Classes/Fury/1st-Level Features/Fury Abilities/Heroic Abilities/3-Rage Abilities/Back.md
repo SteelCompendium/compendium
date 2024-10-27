@@ -28,6 +28,6 @@ Surrounded? The fools!
 
 **Power Roll + Might:**
 
-- 11 or lower: 5 damage
-- 12–16: 8 damage; push 1
-- 17+: 11 damage; push 3
+- **11 or lower:** 5 damage
+- **12-16:** 8 damage; push 1
+- **17+:** 11 damage; push 3

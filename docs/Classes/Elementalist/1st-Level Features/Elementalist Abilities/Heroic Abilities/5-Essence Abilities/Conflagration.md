@@ -29,8 +29,8 @@ target: All enemies
 
 **Power Roll + Reason:**
 
-- 11 or lower: 4 fire damage
-- 12–16: 6 fire damage
-- 17+: 10 fire damage
+- **11 or lower:** 4 fire damage
+- **12-16:** 6 fire damage
+- **17+:** 10 fire damage
 
 **Persistent 2:** At the start of your turn, you can use your maneuver to use this ability again without spending essence.

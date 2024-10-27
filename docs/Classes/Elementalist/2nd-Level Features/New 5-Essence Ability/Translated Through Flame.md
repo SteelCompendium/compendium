@@ -32,6 +32,6 @@ Your ally disappears, then reappears in a burst of fire!
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 fire damage
-- 12-16: 5 fire damage
-- 17+: 8 fire damage
+- **11 or lower:** 3 fire damage
+- **12-16:** 5 fire damage
+- **17+:** 8 fire damage

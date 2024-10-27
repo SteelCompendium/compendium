@@ -29,5 +29,5 @@ You speak with the voice of your saint, commanding your enemies.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 4 holy damage; \[weak\] before taking damage, the target makes a free strike against a target you choose
-- **12–16:** 7 holy damage; \[average\] before taking damage, the target uses an action of your choice and you choose any targets
+- **12-16:** 7 holy damage; \[average\] before taking damage, the target uses an action of your choice and you choose any targets
 - **17+:** 11 holy damage; \[strong\] before taking damage, the target can shift their speed and uses an action of your choice, and you choose any targets

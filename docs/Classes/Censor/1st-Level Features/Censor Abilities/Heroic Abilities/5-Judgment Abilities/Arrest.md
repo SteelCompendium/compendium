@@ -19,13 +19,13 @@ target: 1 judged creature
 
 # Arrest (5 Judgment)
 
-- **“I got you, you son of a bitch.”**
+**“I got you, you son of a bitch.”**
 
 |                                     |                               |
 | :---------------------------------- | :---------------------------- |
 | **Keywords:** Attack, Magic, Weapon | **Type:** Action              |
 | **Distance:** Melee 1               | **Target:** 1 judged creature |
 
-**Power Roll + Might:** - 11 or lower: 5 holy damage; grabbed - 12-16: 9 holy damage; grabbed - 17+: 12 holy damage; grabbed
+**Power Roll + Might:** - **11 or lower:** 5 holy damage; grabbed - **12-16:** 9 holy damage; grabbed - **17+:** 12 holy damage; grabbed
 
-**Effect:** If the target makes an attack while grabbed by you, they take (SURGE) holy damage. When the target makes an attack while grabbed by you, you can spend 3 judgment to change the target of the attack to another target within the attack's distance as a free triggered action.
+**Effect:** If the target makes an attack while grabbed by you, they take `(SURGE)` holy damage. When the target makes an attack while grabbed by you, you can spend 3 judgment to change the target of the attack to another target within the attack's distance as a free triggered action.

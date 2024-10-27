@@ -31,7 +31,7 @@ You wear no armor and wield a heavy weapon.
 
 ## Signature Ability
 
-**DEVASTATING RUSH**
+### Devastating Rush
 
 The faster you move, the harder you hit.
 
@@ -40,10 +40,10 @@ The faster you move, the harder you hit.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
 | **Distance:** Melee 1               | **Target:** 1 creature or object |
 
-*Power Roll + Might or Agility:*
+**Power Roll + Might or Agility:**
 
-- 11 or lower: 2 damage
-- 12–16: 5 damage
-- 17+: 10 damage
+- **11 or lower:** 2 damage
+- **12-16:** 5 damage
+- **17+:** 10 damage
 
-*Effect:* You can move up to 3 squares straight toward the target before this attack. You deal extra damage equal to the distance moved this way.
+**Effect:** You can move up to 3 squares straight toward the target before this attack. You deal extra damage equal to the distance moved this way.

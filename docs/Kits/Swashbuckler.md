@@ -31,7 +31,7 @@ You wear light armor and wield a medium weapon.
 
 ## Signature Ability
 
-**FANCY FOOTWORK**
+### Fancy Footwork
 
 All combat is a dance—and you'll be the one leading.
 
@@ -40,10 +40,10 @@ All combat is a dance—and you'll be the one leading.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Melee 1               | **Target:** 1 creature |
 
-*Power Roll + Might or Agility:*
+**Power Roll + Might or Agility:**
 
-- 11 or lower: 4 damage
-- 12–16: 6 damage; push 1
-- 17+: 8 damage; push 2
+- **11 or lower:** 4 damage
+- **12-16:** 6 damage; push 1
+- **17+:** 8 damage; push 2
 
-*Effect:* You can shift into any square your target leaves after you force move them with this ability.
+**Effect:** You can shift into any square your target leaves after you force move them with this ability.

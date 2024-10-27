@@ -27,6 +27,6 @@ You plunge your weapon into your enemy like a boar upon a spit.
 
 **Power Roll + Might:**
 
-- 11 or lower: 2 damage; M \[weak\] grabbed
-- 12–16: 3 damage; M \[average\] grabbed
-- 17+: 5 damage; M \[strong\] grabbed
+- **11 or lower:** 2 damage; M \[weak\] grabbed
+- **12-16:** 3 damage; M \[average\] grabbed
+- **17+:** 5 damage; M \[strong\] grabbed

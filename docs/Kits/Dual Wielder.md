@@ -31,7 +31,7 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 ## Signature Ability
 
-**DOUBLE STRIKE**
+### Double Strike
 
 Why strike once when you could do it twice?
 
@@ -40,10 +40,10 @@ Why strike once when you could do it twice?
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action                   |
 | **Distance:** Melee 1               | **Target:** 2 creatures or objects |
 
-*Power Roll + Might or Agility:*
+**Power Roll + Might or Agility:**
 
-- 11 or lower: 4 damage
-- 12–16: 5 damage
-- 17+: 6 damage
+- **11 or lower:** 4 damage
+- **12-16:** 5 damage
+- **17+:** 6 damage
 
-*Effect:* If you use this ability on your turn, you can target one creature or object with it then use your maneuver and move action for that turn before targeting a second creature or object. You still use the same power roll for both targets.
+**Effect:** If you use this ability on your turn, you can target one creature or object with it then use your maneuver and move action for that turn before targeting a second creature or object. You still use the same power roll for both targets.

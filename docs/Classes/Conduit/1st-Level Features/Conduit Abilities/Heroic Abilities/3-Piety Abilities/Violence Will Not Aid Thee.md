@@ -29,7 +29,7 @@ A brilliant column of holy light appears on the battlefield, striking out at nea
 **Power Roll + Intuition:**
 
 - **11 or lower:** 3 lightning damage
-- **12–16:** 6 lightning damage
+- **12-16:** 6 lightning damage
 - **17+:** 9 lightning damage
 
 **Effect:** If the target deals damage to another creature, the target of this ability takes another **1d10 lightning damage** (save ends).

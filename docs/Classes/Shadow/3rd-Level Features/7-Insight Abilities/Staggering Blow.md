@@ -29,6 +29,6 @@ There's no recovering from this.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 7 damage; M \[weak\] slowed (save ends)
-- 12-16: 11 damage; M \[average\] prone and can't stand (save ends)
-- 17+: 16 damage; M \[strong\] prone and can't stand (save ends)
+- **11 or lower:** 7 damage; M \[weak\] slowed (save ends)
+- **12-16:** 11 damage; M \[average\] prone and can't stand (save ends)
+- **17+:** 16 damage; M \[strong\] prone and can't stand (save ends)

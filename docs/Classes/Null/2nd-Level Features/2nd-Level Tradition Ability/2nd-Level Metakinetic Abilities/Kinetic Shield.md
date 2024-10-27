@@ -26,8 +26,8 @@ target: Self
 
 **Power Roll + Intuition:**
 
-- 11 or lower: gain 10 Temporary Stamina
-- 12-16: gain 15 Temporary Stamina
-- 17+: gain 20 Temporary Stamina
+- **11 or lower:** gain 10 Temporary Stamina
+- **12-16:** gain 15 Temporary Stamina
+- **17+:** gain 20 Temporary Stamina
 
 **Effect:** While you have Temporary Stamina, you are immune to the negative effects of bleeding. This Temporary Stamina disappears at the end of the encounter.

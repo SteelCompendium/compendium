@@ -31,7 +31,7 @@ You wear no armor and wield a whip.
 
 ## Signature Ability
 
-**EXTENSION OF MY ARM**
+### Extension Of My Arm
 
 When you draw your whip back after an attack, your enemy comes ever closer.
 
@@ -40,8 +40,8 @@ When you draw your whip back after an attack, your enemy comes ever closer.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Melee 3               | **Target:** 1 creature |
 
-*Power Roll + Might or Agility:*
+**Power Roll + Might or Agility:**
 
-- 11 or lower: 3 damage; pull 1
-- 12–16: 6 damage; pull 2
-- 17+: 8 damage; pull 3
+- **11 or lower:** 3 damage; pull 1
+- **12-16:** 6 damage; pull 2
+- **17+:** 8 damage; pull 3

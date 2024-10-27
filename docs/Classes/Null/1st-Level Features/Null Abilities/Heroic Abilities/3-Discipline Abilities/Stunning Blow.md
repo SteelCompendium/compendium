@@ -29,6 +29,6 @@ target: 1 creature or object
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; I \[weak\] slowed (save ends); I \[weak\] dazed (save ends)
-- 12-16: 5 damage; I \[average\] slowed (save ends); I \[average\] dazed (save ends)
-- 17+: 7 damage; I \[strong\] slowed (save ends); I \[strong\] dazed (save ends)
+- **11 or lower:** 4 damage; I \[weak\] slowed (save ends); I \[weak\] dazed (save ends)
+- **12-16:** 5 damage; I \[average\] slowed (save ends); I \[average\] dazed (save ends)
+- **17+:** 7 damage; I \[strong\] slowed (save ends); I \[strong\] dazed (save ends)

@@ -28,6 +28,6 @@ A savage assault forces your foes back.
 
 **Power Roll + Might:**
 
-- 11 or lower: 4 damage; A \[weak\] prone
-- 12–16: 5 damage; A \[average\] prone
-- 17+: 7 damage; A \[strong\] prone
+- **11 or lower:** 4 damage; A \[weak\] prone
+- **12-16:** 5 damage; A \[average\] prone
+- **17+:** 7 damage; A \[strong\] prone

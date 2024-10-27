@@ -29,8 +29,8 @@ target: 1 creature
 
 **Power Roll + Reason:**
 
-- 11 or lower: 6 psychic damage; I \[weak\] slowed (save ends)
-- 12-16: 10 psychic damage; I \[average\] weakened (save ends)
-- 17+: 14 psychic damage; I \[strong\] dazed (save ends)
+- **11 or lower:** 6 psychic damage; I \[weak\] slowed (save ends)
+- **12-16:** 10 psychic damage; I \[average\] weakened (save ends)
+- **17+:** 14 psychic damage; I \[strong\] dazed (save ends)
 
 **Strained:** You start crying. You can't take triggered actions or take free strikes until the end of the target's next turn.

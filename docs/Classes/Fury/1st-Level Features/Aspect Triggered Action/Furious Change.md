@@ -24,7 +24,7 @@ In your anger, you revert to a more bestial form.
 | **Keywords:** Melee | **Type:** Triggered |
 | **Distance:** Self  | **Target:** Self    |
 
-- **Trigger:** You lose Stamina and are not dying.
+**Trigger:** You lose Stamina and are not dying.
 
 **Effect:** After damage is resolved, if your rage is high enough, you can enter your animal or hybrid form as a free triggered action. You gain temporary Stamina equal to your Might.
 

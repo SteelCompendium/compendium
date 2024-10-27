@@ -18,11 +18,11 @@ target: All enemies
 
 # Back, Blasphemer!
 
-- **You channel the power of your god to repel unbelievers.**
+**You channel the power of your god to repel unbelievers.**
 
 |                                   |                         |
 | :-------------------------------- | :---------------------- |
 | **Keywords:** Area, Magic, Weapon | **Type:** Action        |
 | **Distance:** 2 Cube within 1     | **Target:** All enemies |
 
-**Power Roll + Presence:** - 11 or lower: 2 holy damage; push 1 - 12-16: 3 holy damage; push 2 - 17+: 4 holy damage; push 3
+**Power Roll + Presence:** - **11 or lower:** 2 holy damage; push 1 - **12-16:** 3 holy damage; push 2 - **17+:** 4 holy damage; push 3

@@ -29,6 +29,6 @@ Your precise strike leaves your foe struggling to respond.
 
 **Power Roll + Might:**
 
-- 11 or lower: 3 damage; M \[weak\] dazed (save ends)
-- 12–16: 5 damage; M \[average\] dazed (save ends)
-- 17+: 8 damage; M \[strong\] dazed (save ends)
+- **11 or lower:** 3 damage; M \[weak\] dazed (save ends)
+- **12-16:** 5 damage; M \[average\] dazed (save ends)
+- **17+:** 8 damage; M \[strong\] dazed (save ends)

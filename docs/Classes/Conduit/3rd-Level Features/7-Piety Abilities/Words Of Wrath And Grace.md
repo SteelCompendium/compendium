@@ -28,7 +28,7 @@ Your saint grants your enemies a vision of whatever they most fear.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 holy damage
-- **12–16:** 5 holy damage
+- **12-16:** 5 holy damage
 - **17+:** 7 holy damage
 
 **Effect:** Each ally in the area can spend a Recovery.

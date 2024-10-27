@@ -32,7 +32,7 @@ You wear heavy armor and wield a light weapon.
 
 ## Signature Ability
 
-**WEAKENING BRAND**
+### Weakening Brand
 
 The impact of your weapon brands your target for destruction.
 
@@ -41,10 +41,10 @@ The impact of your weapon brands your target for destruction.
 | **Keywords:** Attack, Magic, Melee, Weapon | **Type:** Action                 |
 | **Distance:** Melee 1                      | **Target:** 1 creature or object |
 
-*Power Roll + Might, Reason, Intuition, or Presence:*
+**Power Roll + Might, Reason, Intuition, or Presence:**
 
-- 11 or lower: 3 holy damage
-- 12–16: 5 holy damage
-- 17+: 8 holy damage
+- **11 or lower:** 3 holy damage
+- **12-16:** 5 holy damage
+- **17+:** 8 holy damage
 
-*Effect:* Attacks against the target deal (SURGE) (EoT).
+**Effect:** Attacks against the target deal `(SURGE)` (EoT).

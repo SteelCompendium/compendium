@@ -29,5 +29,5 @@ Mystical thorned vines appear and bind your foes.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 damage; \[weak\] restrained (save ends)
-- **12–16:** 3 damage; \[average\] restrained (save ends)
+- **12-16:** 3 damage; \[average\] restrained (save ends)
 - **17+:** 7 damage; \[strong\] restrained (save ends)

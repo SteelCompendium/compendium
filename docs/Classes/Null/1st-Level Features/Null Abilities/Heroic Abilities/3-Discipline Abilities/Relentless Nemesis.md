@@ -29,8 +29,8 @@ target: 1 creature or object
 
 **Power Roll + Agility:**
 
-- 11 or lower: 6 damage
-- 12-16: 8 damage
-- 17+: 12 damage
+- **11 or lower:** 6 damage
+- **12-16:** 8 damage
+- **17+:** 12 damage
 
 **Effect:** Until the beginning of your next turn, whenever the target moves, you can shift up to your speed as a free triggered action, as long as you end that shift adjacent to the target.

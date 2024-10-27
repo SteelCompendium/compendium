@@ -28,6 +28,6 @@ Your blade might be the last thing they see.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 1d6 + 7 damage
-- 12–16: 1d6 + 11 damage
-- 17+: 1d6 + 16 damage
+- **11 or lower:** 1d6 + 7 damage
+- **12-16:** 1d6 + 11 damage
+- **17+:** 1d6 + 16 damage

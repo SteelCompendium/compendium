@@ -29,8 +29,8 @@ Why are you looking at ME?!
 
 **Power Roll + Agility:**
 
-- 11 or lower: 9 damage
-- 12-16: 13 damage
-- 17+: 18 damage
+- **11 or lower:** 9 damage
+- **12-16:** 13 damage
+- **17+:** 18 damage
 
 **Effect:** The target is taunted by a willing ally of your choice within distance (EoT).

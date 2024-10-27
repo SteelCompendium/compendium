@@ -31,8 +31,8 @@ You gain the following ability, which can be used as a ranged free strike:
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage
-- 12–16: 4 damage
-- 17+: 6 damage
+- **11 or lower:** 2 damage
+- **12-16:** 4 damage
+- **17+:** 6 damage
 
 **Effect:** When you make this attack, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.

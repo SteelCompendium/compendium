@@ -32,7 +32,7 @@ You unleash a blast of holy light upon your foe.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 damage
-- **12–16:** 4 damage
+- **12-16:** 4 damage
 - **17+:** 6 damage
 
 **Effect:** The damage this ability deals can be holy damage.

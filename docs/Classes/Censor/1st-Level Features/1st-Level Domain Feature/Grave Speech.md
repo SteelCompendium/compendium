@@ -20,7 +20,7 @@ You gain the following ability:
 
 ## Grave Speech
 
-- **You commune with the lingering soul of the recently dead.**
+**You commune with the lingering soul of the recently dead.**
 
 |                       |                     |
 | :-------------------- | :------------------ |

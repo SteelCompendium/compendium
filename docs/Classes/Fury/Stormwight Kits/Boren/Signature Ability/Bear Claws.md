@@ -28,6 +28,6 @@ Attacks with your sharp and deadly claws send your foes staggering back.
 
 **Power Roll + Might:**
 
-- 11 or lower: 2 damage; M \[weak\] grabbed
-- 12–16: 3 damage; M \[average\] grabbed
-- 17+: 8 damage; M \[strong\] grabbed
+- **11 or lower:** 2 damage; M \[weak\] grabbed
+- **12-16:** 3 damage; M \[average\] grabbed
+- **17+:** 8 damage; M \[strong\] grabbed

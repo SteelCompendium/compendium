@@ -31,6 +31,6 @@ With a flick of the wrist, you phase creatures out of existence.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 1 creature
-- 12-16: 2 creatures
-- 17+: 3 creatures
+- **11 or lower:** 1 creature
+- **12-16:** 2 creatures
+- **17+:** 3 creatures

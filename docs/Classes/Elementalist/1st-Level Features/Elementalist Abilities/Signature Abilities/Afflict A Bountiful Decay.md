@@ -29,8 +29,8 @@ target: 1 creature
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 corruption damage
-- 12–16: 3 corruption damage
-- 17+: 4 corruption damage
+- **11 or lower:** 2 corruption damage
+- **12-16:** 3 corruption damage
+- **17+:** 4 corruption damage
 
 **Effect:** You or an ally within distance can end one effect that is ended by a saving throw or that ends at the end of their turn.

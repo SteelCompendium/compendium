@@ -28,8 +28,8 @@ Foes who try to close around you do so at their peril.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage
-- 12–16: 5 damage
-- 17+: 6 damage
+- **11 or lower:** 4 damage
+- **12-16:** 5 damage
+- **17+:** 6 damage
 
 **Effect:** You can shift 2 before or after the attack.

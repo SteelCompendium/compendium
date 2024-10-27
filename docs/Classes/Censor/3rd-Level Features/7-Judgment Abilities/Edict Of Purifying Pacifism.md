@@ -17,11 +17,11 @@ target: All enemies
 
 # Edict Of Purifying Pacifism (7 Judgment)
 
-- **Shed not the blood of innocents!**
+**Shed not the blood of innocents!**
 
 |                      |                         |
 | :------------------- | :---------------------- |
 | **Keywords:** –      | **Type:** Maneuver      |
 | **Distance:** 2 Aura | **Target:** All enemies |
 
-**Effect:** Until the end of the encounter or you are dying, when a target uses an ability with the Weapon keyword, they take (SURGE)(SURGE) holy damage. If a target is judged by you, they take an additional 2d6 holy damage.
+**Effect:** Until the end of the encounter or you are dying, when a target uses an ability with the Weapon keyword, they take `(SURGE)(SURGE)` holy damage. If a target is judged by you, they take an additional 2d6 holy damage.

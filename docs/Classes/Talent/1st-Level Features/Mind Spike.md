@@ -32,8 +32,8 @@ You can fire a bolt of psychic energy into an enemy's mind. You gain access to t
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 psychic damage
-- 12-16: 4 psychic damage
-- 17+: 6 psychic damage
+- **11 or lower:** 2 psychic damage
+- **12-16:** 4 psychic damage
+- **17+:** 6 psychic damage
 
 **Strained:** The attack deals an extra 2 psychic damage to the target and yourself. This damage ignores your immunities.

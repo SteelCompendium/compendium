@@ -26,7 +26,7 @@ trigger: The target starts their turn or moves.
 | **Keywords:** Magic, Ranged, Void | **Type:** Triggered        |
 | **Distance:** Self or Ranged 10   | **Target:** Self or 1 ally |
 
-- **Trigger:** The target starts their turn or moves.
+**Trigger:** The target starts their turn or moves.
 
 **Effect:** At any point during the move, you teleport the target a number of squares equal to your Reason. You gain 1 essence.
 

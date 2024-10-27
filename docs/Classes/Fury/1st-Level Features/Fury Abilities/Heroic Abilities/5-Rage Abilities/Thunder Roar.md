@@ -28,8 +28,8 @@ A howl erupts from you that hurls your enemies back.
 
 **Power Roll + Might:**
 
-- 11 or lower: 6 damage; push 2
-- 12–16: 9 damage; push 4
-- 17+: 13 damage; push 6
+- **11 or lower:** 6 damage; push 2
+- **12-16:** 9 damage; push 4
+- **17+:** 13 damage; push 6
 
 **Effect:** Targets are pushed one at a time, starting with the target closest to you.

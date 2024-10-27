@@ -28,8 +28,8 @@ Your attack leaves them reeling, allowing you to follow up.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; slide 2
-- 12–16: 6 damage; slide 3
-- 17+: 10 damage; slide 5
+- **11 or lower:** 4 damage; slide 2
+- **12-16:** 6 damage; slide 3
+- **17+:** 10 damage; slide 5
 
 **Effect:** You can shift into squares the target leaves behind when you force move them.

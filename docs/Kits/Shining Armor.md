@@ -30,7 +30,7 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 ## Signature Ability
 
-**PROTECTIVE ATTACK**
+### Protective Attack
 
 The strength of your assault makes it impossible for your foe to ignore you.
 
@@ -39,10 +39,10 @@ The strength of your assault makes it impossible for your foe to ignore you.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Melee 1               | **Target:** 1 creature |
 
-*Power Roll + Might or Agility:*
+**Power Roll + Might or Agility:**
 
-- 11 or lower: 4 damage
-- 12–16: 7 damage
-- 17+: 9 damage
+- **11 or lower:** 4 damage
+- **12-16:** 7 damage
+- **17+:** 9 damage
 
-*Effect:* The target is [[Taunted|taunted]] (EoT).
+**Effect:** The target is [[Taunted|taunted]] (EoT).

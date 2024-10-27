@@ -29,5 +29,5 @@ Fear of divine judgment overwhelms your foe.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 6 holy damage; \[weak\] frightened (save ends)
-- **12–16:** 9 holy damage; \[average\] frightened (save ends)
+- **12-16:** 9 holy damage; \[average\] frightened (save ends)
 - **17+:** 13 holy damage; \[strong\] frightened (save ends)

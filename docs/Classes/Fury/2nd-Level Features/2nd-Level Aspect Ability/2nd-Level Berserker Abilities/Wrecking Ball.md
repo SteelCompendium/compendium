@@ -30,6 +30,6 @@ It is easier to destroy than to create. Much easier, in fact!
 
 **Power Roll + Might:**
 
-- 11 or lower: push 1
-- 12–16: push 2
-- 17+: push 3
+- **11 or lower:** push 1
+- **12-16:** push 2
+- **17+:** push 3

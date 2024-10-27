@@ -29,6 +29,6 @@ Death! Deeaaath!!
 
 **Power Roll + Might:**
 
-- 11 or lower: 3 damage; P \[weak\] dazed and frightened (save ends)
-- 12–16: 5 damage; P \[average\] dazed and frightened (save ends)
-- 17+: 8 damage; P \[strong\] dazed and frightened (save ends)
+- **11 or lower:** 3 damage; P \[weak\] dazed and frightened (save ends)
+- **12-16:** 5 damage; P \[average\] dazed and frightened (save ends)
+- **17+:** 8 damage; P \[strong\] dazed and frightened (save ends)

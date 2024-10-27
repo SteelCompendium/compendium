@@ -28,8 +28,8 @@ It's better, just you and me. Isn't it?
 
 **Power Roll + Agility:**
 
-- 11 or lower: 2 damage
-- 12–16: 5 damage
-- 17+: 7 damage
+- **11 or lower:** 2 damage
+- **12-16:** 5 damage
+- **17+:** 7 damage
 
-**Effect:** If the target has no allies adjacent to them, you gain (SURGE) on the attack.
+**Effect:** If the target has no allies adjacent to them, you gain `(SURGE)` on the attack.

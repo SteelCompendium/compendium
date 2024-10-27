@@ -29,8 +29,8 @@ target: 1 creature
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 damage; M \[weak\] slowed (save ends)
-- 12-16: 5 damage; M \[average\] slowed (save ends)
-- 17+: 8 damage; M \[strong\] restrained (save ends)
+- **11 or lower:** 3 damage; M \[weak\] slowed (save ends)
+- **12-16:** 5 damage; M \[average\] slowed (save ends)
+- **17+:** 8 damage; M \[strong\] restrained (save ends)
 
 **Effect:** You can pull the target up to 2 squares. You can force move a target restrained by this ability, ignoring stability.

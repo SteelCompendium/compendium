@@ -27,8 +27,8 @@ target: All enemies
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 psychic damage
-- 12-16: 3 psychic damage; push 1
-- 17+: 5 psychic damage; push 2
+- **11 or lower:** 2 psychic damage
+- **12-16:** 3 psychic damage; push 1
+- **17+:** 5 psychic damage; push 2
 
 **Strained:** The burst area increases by 2 and you become bleeding until the start of your next turn.

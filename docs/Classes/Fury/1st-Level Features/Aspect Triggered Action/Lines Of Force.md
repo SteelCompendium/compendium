@@ -25,7 +25,7 @@ You redirect the energy of motion.
 | **Keywords:** Magic, Melee    | **Type:** Triggered            |
 | **Distance:** Self or Melee 1 | **Target:** Self or 1 creature |
 
-- **Trigger:** The target is force moved.
+**Trigger:** The target is force moved.
 
 **Effect:** You can select a new target of the same size or smaller within distance to be force moved instead and change the direction of that forced movement. Additionally, you can increase the forced move distance by a number of squares equal to your Might score.
 

@@ -28,8 +28,8 @@ target: 2 creatures or objects
 
 **Power Roll + Agility:**
 
-- 11 or lower: 3 damage
-- 12-16: 4 damage
-- 17+: 5 damage
+- **11 or lower:** 3 damage
+- **12-16:** 4 damage
+- **17+:** 5 damage
 
-**Effect:** You deal (SURGE) damage to an adjacent creature or object.
+**Effect:** You deal `(SURGE)` damage to an adjacent creature or object.

@@ -31,8 +31,8 @@ Your attack demoralizes your foe. Your allies begin to think you can win.
 
 **Power Roll + Might:**
 
-- 11 or lower: 4 damage; R \[weak\] weakened (save ends)
-- 12–16: 6 damage; R \[average\] weakened (save ends)
-- 17+: 10 damage; R \[strong\] weakened (save ends)
+- **11 or lower:** 4 damage; R \[weak\] weakened (save ends)
+- **12-16:** 6 damage; R \[average\] weakened (save ends)
+- **17+:** 10 damage; R \[strong\] weakened (save ends)
 
 **Effect:** Each of your allies can spend a Recovery the first time they attack any target you've marked before the start of your next turn.

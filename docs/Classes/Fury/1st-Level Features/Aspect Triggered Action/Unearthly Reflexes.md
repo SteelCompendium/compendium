@@ -24,7 +24,7 @@ Elusive as a hummingbird.
 | **Keywords:** Melee   | **Type:** Triggered |
 | **Distance:** Melee 1 | **Target:** Self    |
 
-- **Trigger:** You are targeted by a damaging area of effect.
+**Trigger:** You are targeted by a damaging area of effect.
 
 **Effect:** You shift up to 2 squares. If that moves you out of the area of effect, you ignore the attack. Otherwise, you take half damage.
 

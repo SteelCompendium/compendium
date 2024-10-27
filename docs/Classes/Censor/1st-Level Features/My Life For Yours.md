@@ -22,14 +22,14 @@ You can channel your will to mend your wounds or the wounds of your allies. You 
 
 ## My Life For Yours
 
-- **The first principle of the oath:** defend the righteous.
+**The first principle of the oath:** defend the righteous.
 
 |                             |                            |
 | :-------------------------- | :------------------------- |
 | **Keywords:** Magic, Ranged | **Type:** Triggered        |
 | **Distance:** Ranged 10     | **Target:** Self or 1 ally |
 
-- **Trigger:** The target starts their turn.
+**Trigger:** The target starts their turn.
 
 **Effect:** You spend a Recovery without regaining Stamina. Instead, the target regains Stamina equal to your Recovery value.
 

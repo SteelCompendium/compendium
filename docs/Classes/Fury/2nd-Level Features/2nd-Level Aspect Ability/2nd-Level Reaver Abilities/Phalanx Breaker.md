@@ -30,6 +30,6 @@ Organizing your forces like feckless creatures of Law. Pitiful.
 
 **Power Roll + Might:**
 
-- 11 or lower: 1 damage; A \[weak\] dazed (save ends)
-- 12–16: 2 damage; A \[average\] dazed (save ends)
-- 17+: 3 damage; A \[strong\] dazed (save ends)
+- **11 or lower:** 1 damage; A \[weak\] dazed (save ends)
+- **12-16:** 2 damage; A \[average\] dazed (save ends)
+- **17+:** 3 damage; A \[strong\] dazed (save ends)

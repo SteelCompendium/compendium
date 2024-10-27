@@ -29,8 +29,8 @@ target: 1 creature
 
 **Power Roll + Agility:**
 
-- 11 or lower: 8 damage; slide 1
-- 12-16: 12 damage; slide 3
-- 17+: 16 damage; slide 5
+- **11 or lower:** 8 damage; slide 1
+- **12-16:** 12 damage; slide 3
+- **17+:** 16 damage; slide 5
 
 Draw Steel © 2024 MCDM Productions, LLC

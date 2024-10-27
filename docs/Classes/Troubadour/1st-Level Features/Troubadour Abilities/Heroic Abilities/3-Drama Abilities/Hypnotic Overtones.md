@@ -25,6 +25,6 @@ target: All enemies
 | **Keywords:** Area, Magic | **Type:** Action        |
 | **Distance:** 2 Burst     | **Target:** All enemies |
 
-**Power Roll + Presence:** - 11 or lower: slide 1; I \[weak\] dazed (save ends) - 12-16: slide 1; I \[average\] dazed (save ends) - 17+: slide 2; I \[strong\] dazed (save ends)
+**Power Roll + Presence:** - **11 or lower:** slide 1; I \[weak\] dazed (save ends) - **12-16:** slide 1; I \[average\] dazed (save ends) - **17+:** slide 2; I \[strong\] dazed (save ends)
 
 **Spend 2+ Drama:** The burst size is increased by 1 for every 2 drama you spend.

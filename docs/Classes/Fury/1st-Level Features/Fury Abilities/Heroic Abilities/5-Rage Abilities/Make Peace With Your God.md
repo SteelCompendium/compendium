@@ -24,4 +24,4 @@ Anger is an energy.
 | **Keywords:** —    | **Type:** Free maneuver |
 | **Distance:** Self | **Target:** Self        |
 
-**Effect:** The next attack you make this turn automatically achieves a tier 3 result and gains (SURGE).
+**Effect:** The next attack you make this turn automatically achieves a tier 3 result and gains `(SURGE)`.

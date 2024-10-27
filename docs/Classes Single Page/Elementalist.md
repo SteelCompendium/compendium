@@ -112,9 +112,9 @@ You gain the following ability, which can be used as a ranged free strike:
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage
-- 12–16: 4 damage
-- 17+: 6 damage
+- **11 or lower:** 2 damage
+- **12-16:** 4 damage
+- **17+:** 6 damage
 
 **Effect:** When you make this attack, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.
 
@@ -212,7 +212,7 @@ Your specialization grants you a triggered action, as shown on the Elementalist 
 
 *The power you channel grants the ability to get back in the fight.*
 
-- **Trigger:** The target starts their turn.
+**Trigger:** The target starts their turn.
 
 **Effect:** The target can spend a Recovery. You gain 1 essence.
 
@@ -220,7 +220,7 @@ Your specialization grants you a triggered action, as shown on the Elementalist 
 
 *You add a little magic to an ally's aggression at just the right time.*
 
-- **Trigger:** The target force moves a creature or object.
+**Trigger:** The target force moves a creature or object.
 
 **Effect:** The distance of the forced movement is increased by a number of squares equal to your Reason score. You gain 1 essence.
 
@@ -230,7 +230,7 @@ Your specialization grants you a triggered action, as shown on the Elementalist 
 
 *You imbue an attack with the strength of stone.*
 
-- **Trigger:** The target makes a melee attack.
+**Trigger:** The target makes a melee attack.
 
 **Effect:** The attack gains 1 surge. You gain 1 essence.
 
@@ -240,7 +240,7 @@ Your specialization grants you a triggered action, as shown on the Elementalist 
 
 *You call on the void to swallow and spit out an ally.*
 
-- **Trigger:** The target starts their turn or moves.
+**Trigger:** The target starts their turn or moves.
 
 **Effect:** At any point during the move, you teleport the target a number of squares equal to your Reason. You gain 1 essence.
 
@@ -324,9 +324,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 corruption damage
-- 12–16: 3 corruption damage
-- 17+: 4 corruption damage
+- **11 or lower:** 2 corruption damage
+- **12-16:** 3 corruption damage
+- **17+:** 4 corruption damage
 
 **Effect:** You or an ally within distance can end one effect that is ended by a saving throw or that ends at the end of their turn.
 
@@ -336,9 +336,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 fire damage
-- 12–16: 3 fire damage
-- 17+: 4 fire damage
+- **11 or lower:** 2 fire damage
+- **12-16:** 3 fire damage
+- **17+:** 4 fire damage
 
 ##### Grasp Of Beyond
 
@@ -346,9 +346,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 corruption damage
-- 12–16: 5 corruption damage
-- 17+: 8 corruption damage
+- **11 or lower:** 3 corruption damage
+- **12-16:** 5 corruption damage
+- **17+:** 8 corruption damage
 
 **Effect:** You can teleport a number of squares equal to your Reason score.
 
@@ -358,9 +358,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage
-- 12–16: 3 damage
-- 17+: 5 damage
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 5 damage
 
 **Effect:** You slide a creature within 10 squares of the target up to 2 squares. If the creature is a willing ally, the forced movement ignores stability.
 
@@ -370,9 +370,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage; push 2
-- 12–16: 4 damage; push 3
-- 17+: 6 damage; push 4
+- **11 or lower:** 2 damage; push 2
+- **12-16:** 4 damage; push 3
+- **17+:** 6 damage; push 4
 
 ##### Ray Of Agonizing Self Reflection
 
@@ -380,9 +380,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 corruption damage; R \[weak\] slowed (save ends)
-- 12–16: 3 corruption damage; R \[average\] slowed (save ends)
-- 17+: 4 corruption damage; R \[strong\] slowed (save ends)
+- **11 or lower:** 2 corruption damage; R \[weak\] slowed (save ends)
+- **12-16:** 3 corruption damage; R \[average\] slowed (save ends)
+- **17+:** 4 corruption damage; R \[strong\] slowed (save ends)
 
 ##### Unquiet Ground
 
@@ -390,9 +390,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage
-- 12–16: 3 damage
-- 17+: 5 damage
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 5 damage
 
 **Effect:** The ground beneath the area becomes difficult terrain for your enemies.
 
@@ -402,9 +402,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 fire damage; push 2
-- 12–16: 3 fire damage; push 3
-- 17+: 5 fire damage; push 4
+- **11 or lower:** 2 fire damage; push 2
+- **12-16:** 3 fire damage; push 3
+- **17+:** 5 fire damage; push 4
 
 #### Heroic Abilities
 
@@ -420,9 +420,9 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 psychic damage
-- 12–16: 4 psychic damage
-- 17+: 6 psychic damage
+- **11 or lower:** 2 psychic damage
+- **12-16:** 4 psychic damage
+- **17+:** 6 psychic damage
 
 **Persistent 1:** At the start of your turn, you can use your maneuver to use this ability again without spending essence.
 
@@ -432,9 +432,9 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 **Power Roll + Reason:**
 
-- 11 or lower: 5 fire damage
-- 12–16: 8 fire damage
-- 17+: 11 fire damage
+- **11 or lower:** 5 fire damage
+- **12-16:** 8 fire damage
+- **17+:** 11 fire damage
 
 **Persistent 1:** If the target is within distance at the start of your turn, make a power roll for this ability again.
 
@@ -444,9 +444,9 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 **Power Roll + Reason:**
 
-- 11 or lower: 4 poison damage
-- 12–16: 7 poison damage
-- 17+: 11 poison damage
+- **11 or lower:** 4 poison damage
+- **12-16:** 7 poison damage
+- **17+:** 11 poison damage
 
 **Effect:** The mushrooms can be removed by the target or by an adjacent creature as an action. While the mushrooms are on the target, each of your allies adjacent to the target gains 1 surge on attacks.
 
@@ -456,9 +456,9 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 damage
-- 12–16: 5 damage
-- 17+: 8 damage; M \[strong\] prone
+- **11 or lower:** 3 damage
+- **12-16:** 5 damage
+- **17+:** 8 damage; M \[strong\] prone
 
 **Effect:** You must be touching the ground or floor to use this ability. The surface beneath the area becomes difficult terrain for your enemies.
 
@@ -472,9 +472,9 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 **Power Roll + Reason:**
 
-- 11 or lower: 4 fire damage
-- 12–16: 6 fire damage
-- 17+: 10 fire damage
+- **11 or lower:** 4 fire damage
+- **12-16:** 6 fire damage
+- **17+:** 10 fire damage
 
 **Persistent 2:** At the start of your turn, you can use your maneuver to use this ability again without spending essence.
 
@@ -486,9 +486,9 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 **Power Roll + Reason:**
 
-- 11 or lower: The target can shift up to 1 square from the edge of the hole to the nearest unoccupied space of their choice.
-- 12–16: The target falls into the hole.
-- 17+: The target falls into the hole and can't reduce the height of the fall.
+- **11 or lower:** The target can shift up to 1 square from the edge of the hole to the nearest unoccupied space of their choice.
+- **12-16:** The target falls into the hole.
+- **17+:** The target falls into the hole and can't reduce the height of the fall.
 
 **Persistent 1:** At the start of your turn, you open another hole.
 
@@ -506,9 +506,9 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 **Power Roll + Reason:**
 
-- 11 or lower: 4 acid damage
-- 12–16: 6 acid damage
-- 17+: 10 acid damage
+- **11 or lower:** 4 acid damage
+- **12-16:** 6 acid damage
+- **17+:** 10 acid damage
 
 **Effect:** You and each ally within distance can end one effect that is ended by a saving throw or that ends at the end of their turn.
 
@@ -559,11 +559,11 @@ Your Stamina increases by 6, and you gain an additional 3 Stamina whenever you g
 
 #### Extra Shield
 
-Your (SHIELD) limit increases by 1, for a maximum of (SHIELD)(SHIELD)(SHIELD)(SHIELD).
+Your `(SHIELD)` limit increases by 1, for a maximum of `(SHIELD)(SHIELD)(SHIELD)(SHIELD)`.
 
 #### Extra Surge
 
-Your (SURGE) limit increases by 1, for a maximum of (SURGE)(SURGE)(SURGE)(SURGE).
+Your `(SURGE)` limit increases by 1, for a maximum of `(SURGE)(SURGE)(SURGE)(SURGE)`.
 
 #### There Is No Space Between
 
@@ -614,7 +614,7 @@ Revitalizing plants and jagged stones grow, helping allies and hindering foes.
 
 - You and allies in the area can take the Catch Breath action as a maneuver.
 - The area is difficult terrain for your enemies.
-- When an enemy enters the area for the first time on a turn or starts their turn there, they take (SURGE) damage.
+- When an enemy enters the area for the first time on a turn or starts their turn there, they take `(SURGE)` damage.
 
 **Persistent 1:** The area remains until the start of your next turn. You can move the area up to 5 squares as a maneuver. This ability ends if you lose line of effect to its area.
 
@@ -626,9 +626,9 @@ Burrow into their brains and take control!
 
 **Power Roll + Reason:**
 
-- 11 or lower: 5 poison damage
-- 12-16: 9 poison damage
-- 17+: 12 poison damage
+- **11 or lower:** 5 poison damage
+- **12-16:** 9 poison damage
+- **17+:** 12 poison damage
 
 #### Translated Through Flame (5 Essence)
 
@@ -638,9 +638,9 @@ Your ally disappears, then reappears in a burst of fire!
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 fire damage
-- 12-16: 5 fire damage
-- 17+: 8 fire damage
+- **11 or lower:** 3 fire damage
+- **12-16:** 5 fire damage
+- **17+:** 8 fire damage
 
 #### Volcano's Embrace (5 Essence)
 
@@ -648,9 +648,9 @@ Wrap them up in fire and melting stone.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 5 fire damage; A \[weak\] restrained (save ends)
-- 12-16: 9 fire damage; A \[average\] restrained (save ends)
-- 17+: 12 fire damage; A \[strong\] restrained (save ends)
+- **11 or lower:** 5 fire damage; A \[weak\] restrained (save ends)
+- **12-16:** 9 fire damage; A \[average\] restrained (save ends)
+- **17+:** 12 fire damage; A \[strong\] restrained (save ends)
 
 ## 3rd-level Features
 
@@ -709,9 +709,9 @@ With a flick of the wrist, you phase creatures out of existence.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 1 creature
-- 12-16: 2 creatures
-- 17+: 3 creatures
+- **11 or lower:** 1 creature
+- **12-16:** 2 creatures
+- **17+:** 3 creatures
 
 #### Fist Of Earth (7 Essence)
 
@@ -719,11 +719,11 @@ An enormous fist rises from the ground to crush your foes.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 5 damage; M \[weak\] restrained (save ends)
-- 12-16: 9 damage; M \[average\] restrained (save ends)
-- 17+: 12 damage; M \[strong\] restrained (save ends)
+- **11 or lower:** 5 damage; M \[weak\] restrained (save ends)
+- **12-16:** 9 damage; M \[average\] restrained (save ends)
+- **17+:** 12 damage; M \[strong\] restrained (save ends)
 
-**Effect:** While the target is restrained, they take (SURGE)(SURGE) damage at the start of their turn.
+**Effect:** While the target is restrained, they take `(SURGE)(SURGE)` damage at the start of their turn.
 
 #### Swarm Of Spirits (7 Essence)
 
@@ -731,9 +731,9 @@ Guardian animal spirits surround you.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 damage
-- 12-16: 6 damage
-- 17+: 9 damage
+- **11 or lower:** 3 damage
+- **12-16:** 6 damage
+- **17+:** 9 damage
 
 **Effect:** Until the end of your next turn, each ally in your aura has an edge on resistance rolls and +1 on saving throws.
 
@@ -743,6 +743,6 @@ Guardian animal spirits surround you.
 
 A blazing, beautifully organized inferno.
 
-**Effect:** You can place this wall in occupied squares. The wall lasts until the start of your next turn. Creatures can enter and pass through this wall. When an enemy enters the wall for the first time on a turn or starts their turn there, they take (SURGE)(SURGE) fire damage.
+**Effect:** You can place this wall in occupied squares. The wall lasts until the start of your next turn. Creatures can enter and pass through this wall. When an enemy enters the wall for the first time on a turn or starts their turn there, they take `(SURGE)(SURGE)` fire damage.
 
 **Persistent 1:** The effect lasts until the start of your next turn, and you can add a number of squares to the wall equal to your Reason score.

@@ -29,5 +29,5 @@ Your divine fury is a hammer that crashes down upon the unrighteous.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 3 holy damage; \[weak\] prone
-- **12–16:** 6 holy damage; \[average\] prone
+- **12-16:** 6 holy damage; \[average\] prone
 - **17+:** 9 holy damage; \[strong\] prone and can't stand (save ends)

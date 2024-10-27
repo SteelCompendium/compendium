@@ -27,8 +27,8 @@ Yellow, disgusting gas explodes from a bomb you toss.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 2 poison damage
-- 12-16: 5 poison damage
-- 17+: 7 poison damage
+- **11 or lower:** 2 poison damage
+- **12-16:** 5 poison damage
+- **17+:** 7 poison damage
 
 **Effect:** The gas remains in the area until the end of the encounter. A creature who starts their turn in the area is M \[average\] weakened (save ends).

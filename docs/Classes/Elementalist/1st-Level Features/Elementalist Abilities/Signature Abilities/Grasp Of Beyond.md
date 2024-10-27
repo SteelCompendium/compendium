@@ -28,8 +28,8 @@ target: 1 creature
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 corruption damage
-- 12–16: 5 corruption damage
-- 17+: 8 corruption damage
+- **11 or lower:** 3 corruption damage
+- **12-16:** 5 corruption damage
+- **17+:** 8 corruption damage
 
 **Effect:** You can teleport a number of squares equal to your Reason score.

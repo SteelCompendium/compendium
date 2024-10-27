@@ -29,7 +29,7 @@ A beam of energy connects a foe to a friend, draining life from one to heal the 
 **Power Roll + Intuition:**
 
 - **11 or lower:** 7 corruption damage
-- **12–16:** 10 corruption damage
+- **12-16:** 10 corruption damage
 - **17+:** 15 corruption damage
 
 **Effect:** One ally within distance can spend any number of Recoveries.

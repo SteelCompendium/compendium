@@ -24,4 +24,4 @@ Together we are invincible!
 | **Keywords:** Area             | **Type:** Maneuver              |
 | **Distance:** Self and 1 burst | **Target:** Self and all allies |
 
-**Effect:** Until the start of your next turn, targets have (SHIELD)(SHIELD) and a bonus to their Stability equal to your Might score.
+**Effect:** Until the start of your next turn, targets have `(SHIELD)(SHIELD)` and a bonus to their Stability equal to your Might score.

@@ -28,8 +28,8 @@ target: All enemies
 
 **Power Roll + Reason:**
 
-- 11 or lower: 2 damage
-- 12–16: 3 damage
-- 17+: 5 damage
+- **11 or lower:** 2 damage
+- **12-16:** 3 damage
+- **17+:** 5 damage
 
 **Effect:** The ground beneath the area becomes difficult terrain for your enemies.

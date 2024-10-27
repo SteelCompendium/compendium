@@ -98,9 +98,9 @@ Your body has been trained to predict when attacks will happen before they happe
 
 > You intuit where an incoming attack will strike, reducing its effects.
 
-- **Trigger:** You take damage.
+**Trigger:** You take damage.
 
-**Effect:** You gain (SHIELD) for the attack and reduce any potency of effects associated with the damage by 1.
+**Effect:** You gain `(SHIELD)` for the attack and reduce any potency of effects associated with the damage by 1.
 
 ### Mastery
 
@@ -117,16 +117,16 @@ You gain a bonus to your Speed equal to your Agility. When you take the Disengag
     - When you use the Inertial Shield triggered action, you can use the Disengage move action as a free triggered action.
     - When you take the Disengage move action, you can slide an adjacent creature a number of squares equal to your Agility.
 - **6**
-    - Whenever you use the Inertial Shield triggered action, you can do (SURGE) psychic damage to a creature of your choice within your Null Field and make them suffer a \[weak\] version of any effect you beat using that triggered action.
+    - Whenever you use the Inertial Shield triggered action, you can do `(SURGE)` psychic damage to a creature of your choice within your Null Field and make them suffer a \[weak\] version of any effect you beat using that triggered action.
 - **9**
     - When you take the Disengage move action, you can slide one adjacent creature a number of squares equal to twice your Agility.
 - **12 (Level 4)**
-    - Whenever you use the Inertial Shield triggered action, you can do (SURGE)(SURGE) psychic damage to a creature of your choice within your Null Field and make them suffer an \[average\] version of any effect you beat using that triggered action.
+    - Whenever you use the Inertial Shield triggered action, you can do `(SURGE)(SURGE)` psychic damage to a creature of your choice within your Null Field and make them suffer an \[average\] version of any effect you beat using that triggered action.
 - **15 (Level 7)**
     - When you take the Disengage move action, you can slide two adjacent creatures a number of squares equal to triple your Agility score.
 - **18 (Level 10)**
-    - Whenever you use the Inertial Shield triggered action, you can do (SURGE)(SURGE)(SURGE) psychic damage to a creature of your choice within your Null Field and make them suffer a \[strong\] version of any effect you beat using that triggered action.
-    - If you move at least 5 squares on your turn, you can do (SURGE)(SURGE)(SURGE) damage against one target you attack after making this movement.
+    - Whenever you use the Inertial Shield triggered action, you can do `(SURGE)(SURGE)(SURGE)` psychic damage to a creature of your choice within your Null Field and make them suffer a \[strong\] version of any effect you beat using that triggered action.
+    - If you move at least 5 squares on your turn, you can do `(SURGE)(SURGE)(SURGE)` damage against one target you attack after making this movement.
 
 #### Cryokinetic Mastery
 
@@ -138,15 +138,15 @@ Enemies treat squares within your Null Aura as difficult terrain.
     - When you use the Inertial Shield triggered action, you can slide the triggering attacker a number of squares equal to your Intuition.
     - Enemies that enter or begin their turn in your Null Field suffer A \[weak\] slowed (save ends).
 - **6**
-    - Whenever you use the Inertial Shield triggered action, you can do (SURGE) cold damage to a creature of your choice within your Null Field and make them suffer a \[weak\] version of any effect you beat using that triggered action.
+    - Whenever you use the Inertial Shield triggered action, you can do `(SURGE)` cold damage to a creature of your choice within your Null Field and make them suffer a \[weak\] version of any effect you beat using that triggered action.
 - **9**
     - Enemies that enter or begin their turn in your Null Field suffer A \[average\] slowed (save ends).
 - **12 (Level 4)**
-    - Whenever you use the Inertial Shield triggered action, you can do (SURGE)(SURGE) cold damage to a creature of your choice within your Null Field and make them suffer an \[average\] version of any effect you beat using that triggered action.
+    - Whenever you use the Inertial Shield triggered action, you can do `(SURGE)(SURGE)` cold damage to a creature of your choice within your Null Field and make them suffer an \[average\] version of any effect you beat using that triggered action.
 - **15 (Level 7)**
     - Enemies that enter or begin their turn in your Null Field suffer A \[strong\] slowed (save ends).
 - **18 (Level 10)**
-    - Whenever you use the Inertial Shield triggered action, you can do (SURGE)(SURGE)(SURGE) cold damage to a creature of your choice within your Null Field and make them suffer a \[strong\] version of any effect you beat using that triggered action.
+    - Whenever you use the Inertial Shield triggered action, you can do `(SURGE)(SURGE)(SURGE)` cold damage to a creature of your choice within your Null Field and make them suffer a \[strong\] version of any effect you beat using that triggered action.
     - You ignore any cold immunity a target has and automatically get a Tier 3 on any attacks against a target with cold weakness.
 
 #### Metakinetic Mastery
@@ -157,15 +157,15 @@ You gain a bonus to Stability equal to your Intuition score.
 
 - **3**
     - When you use the Inertial Shield triggered action, you can push the triggering attacker a number of squares equal to your Intuition.
-    - You gain (SHIELD).
+    - You gain `(SHIELD)`.
 - **6**
     - Whenever you use the Inertial Shield triggered action, you can push a creature of your choice within your Null Field a number of squares equal to your Intuition and make them suffer a \[weak\] version of any effect you beat using that triggered action.
 - **9**
-    - You gain (SHIELD) and do (SURGE) to any targets you force move.
+    - You gain `(SHIELD)` and do `(SURGE)` to any targets you force move.
 - **12 (Level 4)**
     - Whenever you use the Inertial Shield triggered action, you can push a creature of your choice within your Null Field a number of squares equal to twice your Intuition and make them suffer an \[average\] version of any effect you beat using that triggered action.
 - **15 (Level 7)**
-    - You gain (SHIELD)(SHIELD) and do (SURGE)(SURGE) to any targets you force move.
+    - You gain `(SHIELD)(SHIELD)` and do `(SURGE)(SURGE)` to any targets you force move.
 - **18 (Level 10)**
     - Whenever you use the Inertial Shield triggered action, you can push a creature of your choice within your Null Field a number of squares equal to triple your Intuition and make them suffer a \[strong\] version of any effect you beat using that triggered action.
     - You add your Intuition to any forced movement effects you apply.
@@ -196,9 +196,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Agility:**
 
-- 11 or lower: 3 damage
-- 12-16: 4 damage
-- 17+: 5 damage
+- **11 or lower:** 3 damage
+- **12-16:** 4 damage
+- **17+:** 5 damage
 
 **Effect:** You can slide one adjacent enemy your Intuition score in squares.
 
@@ -208,11 +208,11 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Agility:**
 
-- 11 or lower: 3 damage
-- 12-16: 4 damage
-- 17+: 5 damage
+- **11 or lower:** 3 damage
+- **12-16:** 4 damage
+- **17+:** 5 damage
 
-**Effect:** You deal (SURGE) damage to an adjacent creature or object.
+**Effect:** You deal `(SURGE)` damage to an adjacent creature or object.
 
 ##### Joint Lock
 
@@ -220,9 +220,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; A \[weak\] grabbed
-- 12-16: 5 damage; A \[average\] grabbed
-- 17+: 7 damage; A \[strong\] grabbed
+- **11 or lower:** 4 damage; A \[weak\] grabbed
+- **12-16:** 5 damage; A \[average\] grabbed
+- **17+:** 7 damage; A \[strong\] grabbed
 
 ##### Kinetic Strike
 
@@ -230,9 +230,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; taunted (EoT)
-- 12-16: 5 damage; taunted (EoT); slide 1
-- 17+: 6 damage; taunted (EoT); slide 2
+- **11 or lower:** 4 damage; taunted (EoT)
+- **12-16:** 5 damage; taunted (EoT); slide 1
+- **17+:** 6 damage; taunted (EoT); slide 2
 
 ##### Magnetic Strike
 
@@ -240,9 +240,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 psychic damage; pull 1
-- 12-16: 7 psychic damage; pull 2
-- 17+: 9 psychic damage; pull 3
+- **11 or lower:** 4 psychic damage; pull 1
+- **12-16:** 7 psychic damage; pull 2
+- **17+:** 9 psychic damage; pull 3
 
 ##### Pressure Points
 
@@ -250,9 +250,9 @@ Select two signature abilities from the options below. Signature abilities can b
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; A \[weak\] weakened (save ends)
-- 12-16: 5 damage; A \[average\] weakened (save ends)
-- 17+: 7 damage; A \[strong\] weakened (save ends)
+- **11 or lower:** 4 damage; A \[weak\] weakened (save ends)
+- **12-16:** 5 damage; A \[average\] weakened (save ends)
+- **17+:** 7 damage; A \[strong\] weakened (save ends)
 
 #### Heroic Abilities
 
@@ -268,9 +268,9 @@ Choose one heroic ability from the following options.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 7 damage
-- 12-16: 10 damage
-- 17+: 13 damage
+- **11 or lower:** 7 damage
+- **12-16:** 10 damage
+- **17+:** 13 damage
 
 **Effect:** You can shift half your speed, before or after you make the attack. You can use this ability instead of a free strike or a signature ability whenever an effect gives you one, though you still must pay its Discipline cost.
 
@@ -278,7 +278,7 @@ Choose one heroic ability from the following options.
 
 > You release a burst of psionic energy that interferes with your enemy's synapses.
 
-**Effect:** Each target takes (SURGE)(SURGE) psychic damage. Until the beginning of your next turn, your Null Field distance increases by 1, and each enemy that starts their turn in the aura takes your (SURGE) psychic damage.
+**Effect:** Each target takes `(SURGE)(SURGE)` psychic damage. Until the beginning of your next turn, your Null Field distance increases by 1, and each enemy that starts their turn in the aura takes your `(SURGE)` psychic damage.
 
 ###### Relentless Nemesis (3 Discipline)
 
@@ -286,9 +286,9 @@ Choose one heroic ability from the following options.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 6 damage
-- 12-16: 8 damage
-- 17+: 12 damage
+- **11 or lower:** 6 damage
+- **12-16:** 8 damage
+- **17+:** 12 damage
 
 **Effect:** Until the beginning of your next turn, whenever the target moves, you can shift up to your speed as a free triggered action, as long as you end that shift adjacent to the target.
 
@@ -298,9 +298,9 @@ Choose one heroic ability from the following options.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 4 damage; I \[weak\] slowed (save ends); I \[weak\] dazed (save ends)
-- 12-16: 5 damage; I \[average\] slowed (save ends); I \[average\] dazed (save ends)
-- 17+: 7 damage; I \[strong\] slowed (save ends); I \[strong\] dazed (save ends)
+- **11 or lower:** 4 damage; I \[weak\] slowed (save ends); I \[weak\] dazed (save ends)
+- **12-16:** 5 damage; I \[average\] slowed (save ends); I \[average\] dazed (save ends)
+- **17+:** 7 damage; I \[strong\] slowed (save ends); I \[strong\] dazed (save ends)
 
 ##### 5-discipline Abilities
 
@@ -312,11 +312,11 @@ Choose one heroic ability from the following options.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 8 psychic damage; M \[weak\] weakened (save ends)
-- 12-16: 12 psychic damage; M \[average\] weakened (save ends)
-- 17+: 16 psychic damage; M \[strong\] weakened (save ends)
+- **11 or lower:** 8 psychic damage; M \[weak\] weakened (save ends)
+- **12-16:** 12 psychic damage; M \[average\] weakened (save ends)
+- **17+:** 16 psychic damage; M \[strong\] weakened (save ends)
 
-**Effect:** While weakened, the target takes (SURGE) psychic damage whenever they use an ability with the Magic keyword.
+**Effect:** While weakened, the target takes `(SURGE)` psychic damage whenever they use an ability with the Magic keyword.
 
 ###### Impart Force (5 Discipline)
 
@@ -324,9 +324,9 @@ Choose one heroic ability from the following options.
 
 **Power Roll + Intuition:**
 
-- 11 or lower: push 3
-- 12-16: push 5
-- 17+: push 7
+- **11 or lower:** push 3
+- **12-16:** push 5
+- **17+:** push 7
 
 **Effect:** You have an edge on this attack. The target takes 1 psychic damage for each square they move through.
 
@@ -336,9 +336,9 @@ Choose one heroic ability from the following options.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 3 psychic damage; I \[weak\] suffer effect and slowed (save ends) when returned
-- 12-16: 4 psychic damage; I \[average\] suffer effect and slowed (save ends) when returned
-- 17+: 6 psychic damage; I \[strong\] suffer effect and slowed (save ends) when returned
+- **11 or lower:** 3 psychic damage; I \[weak\] suffer effect and slowed (save ends) when returned
+- **12-16:** 4 psychic damage; I \[average\] suffer effect and slowed (save ends) when returned
+- **17+:** 6 psychic damage; I \[strong\] suffer effect and slowed (save ends) when returned
 
 **Effect:** The target is removed from the encounter until the end of their next turn, appearing where they were removed or in the closest available space of the Director's choice.
 
@@ -348,9 +348,9 @@ Choose one heroic ability from the following options.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 6 damage
-- 12-16: 9 damage
-- 17+: 13 damage
+- **11 or lower:** 6 damage
+- **12-16:** 9 damage
+- **17+:** 13 damage
 
 **Effect:** You can take the Disengage move action as a free triggered action before or after you make this attack.
 
@@ -379,16 +379,16 @@ As a 2nd-level null, you gain the following features based on your Tradition.
 
 #### Extra Shield
 
-- Your (SHIELD) limit increases by 1, for a maximum of (SHIELD)(SHIELD)(SHIELD)(SHIELD).
+- Your `(SHIELD)` limit increases by 1, for a maximum of `(SHIELD)(SHIELD)(SHIELD)(SHIELD)`.
 
 #### Extra Surge
 
-- Your (SURGE) limit increases by 1, for a maximum of (SURGE)(SURGE)(SURGE)(SURGE).
+- Your `(SURGE)` limit increases by 1, for a maximum of `(SURGE)(SURGE)(SURGE)(SURGE)`.
 
 #### Inertial Sink
 
 - You add your Intuition to your size for the purpose of interacting with creatures and objects, such as resisting forced movement or lifting objects.
-- You always have (SHIELD)(SHIELD) against forced movement damage and falling damage.
+- You always have `(SHIELD)(SHIELD)` against forced movement damage and falling damage.
 
 #### Rapid Processing
 
@@ -415,9 +415,9 @@ Choose one of the following abilities.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 8 damage; slide 1
-- 12-16: 12 damage; slide 3
-- 17+: 16 damage; slide 5
+- **11 or lower:** 8 damage; slide 1
+- **12-16:** 12 damage; slide 3
+- **17+:** 16 damage; slide 5
 
 Draw Steel © 2024 MCDM Productions, LLC
 
@@ -431,15 +431,15 @@ Choose one of the following abilities.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 6 cold damage; A \[weak\] slowed (save ends)
-- 12-16: 9 cold damage; A \[average\] slowed (save ends)
-- 17+: 13 cold damage; A \[strong\] slowed (save ends)
+- **11 or lower:** 6 cold damage; A \[weak\] slowed (save ends)
+- **12-16:** 9 cold damage; A \[average\] slowed (save ends)
+- **17+:** 13 cold damage; A \[strong\] slowed (save ends)
 
 ##### Heat Sink (5 Discipline)
 
 > You absorb the ambient heat, coating the ground in frost and precipitating snow from the air.
 
-**Effect:** Until the beginning of your next turn, your nullification aura distance increases by 1. Enemies treat the aura as difficult terrain, you and your allies benefit from concealment while in the aura, and enemies take (SURGE) cold damage when they start their turn in the aura.
+**Effect:** Until the beginning of your next turn, your nullification aura distance increases by 1. Enemies treat the aura as difficult terrain, you and your allies benefit from concealment while in the aura, and enemies take `(SURGE)` cold damage when they start their turn in the aura.
 
 #### 2nd-level Metakinetic Abilities
 
@@ -451,9 +451,9 @@ Choose one of the following abilities.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 8 psychic damage; pull 3
-- 12-16: 12 psychic damage; pull 5
-- 17+: 16 psychic damage; pull 7
+- **11 or lower:** 8 psychic damage; pull 3
+- **12-16:** 12 psychic damage; pull 5
+- **17+:** 16 psychic damage; pull 7
 
 ##### Kinetic Shield (5 Discipline)
 
@@ -461,9 +461,9 @@ Choose one of the following abilities.
 
 **Power Roll + Intuition:**
 
-- 11 or lower: gain 10 Temporary Stamina
-- 12-16: gain 15 Temporary Stamina
-- 17+: gain 20 Temporary Stamina
+- **11 or lower:** gain 10 Temporary Stamina
+- **12-16:** gain 15 Temporary Stamina
+- **17+:** gain 20 Temporary Stamina
 
 **Effect:** While you have Temporary Stamina, you are immune to the negative effects of bleeding. This Temporary Stamina disappears at the end of the encounter.
 
@@ -483,13 +483,13 @@ Choose one heroic ability from the following options.
 
 > Your null field absorbs kinetic energy.
 
-**Effect:** Until the end of the encounter, the area of your null field increases to 2 aura, adds a bane to all enemy attacks in the aura, and you and all allies gain (SHIELD) while in the aura.
+**Effect:** Until the end of the encounter, the area of your null field increases to 2 aura, adds a bane to all enemy attacks in the aura, and you and all allies gain `(SHIELD)` while in the aura.
 
 #### Molecular Rearrangement Field (7 Discipline)
 
 > Your enemies' wounds open, your allies' wounds close.
 
-**Effect:** Until the end of the encounter, the area of your null field increases to 2 aura. Enemies that enter your null field or begin their turn in it suffer I \[average\] bleeding (save ends). Allies that enter your null field or begin their turn in it gain Temporary Stamina equal to their (SHIELD). This Temporary Stamina disappears at the end of the encounter.
+**Effect:** Until the end of the encounter, the area of your null field increases to 2 aura. Enemies that enter your null field or begin their turn in it suffer I \[average\] bleeding (save ends). Allies that enter your null field or begin their turn in it gain Temporary Stamina equal to their `(SHIELD)`. This Temporary Stamina disappears at the end of the encounter.
 
 #### Stabilizing Field (7 Discipline)
 
@@ -501,4 +501,4 @@ Choose one heroic ability from the following options.
 
 > Attacks made by allies in your null-field disrupt your enemies' thoughts, causing psychic pain.
 
-**Effect:** Until the end of the encounter, the area of your null field increases to 2 aura. Any attacks against enemies in the aura do (SURGE)(SURGE) psychic damage.
+**Effect:** Until the end of the encounter, the area of your null field increases to 2 aura. Any attacks against enemies in the aura do `(SURGE)(SURGE)` psychic damage.

@@ -29,8 +29,8 @@ target: 1 creature
 
 **Power Roll + Agility:**
 
-- 11 or lower: 8 psychic damage; M \[weak\] weakened (save ends)
-- 12-16: 12 psychic damage; M \[average\] weakened (save ends)
-- 17+: 16 psychic damage; M \[strong\] weakened (save ends)
+- **11 or lower:** 8 psychic damage; M \[weak\] weakened (save ends)
+- **12-16:** 12 psychic damage; M \[average\] weakened (save ends)
+- **17+:** 16 psychic damage; M \[strong\] weakened (save ends)
 
-**Effect:** While weakened, the target takes (SURGE) psychic damage whenever they use an ability with the Magic keyword.
+**Effect:** While weakened, the target takes `(SURGE)` psychic damage whenever they use an ability with the Magic keyword.

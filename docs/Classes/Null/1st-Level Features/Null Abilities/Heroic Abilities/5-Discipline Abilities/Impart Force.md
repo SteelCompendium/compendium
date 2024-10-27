@@ -29,8 +29,8 @@ target: 1 creature or object
 
 **Power Roll + Intuition:**
 
-- 11 or lower: push 3
-- 12-16: push 5
-- 17+: push 7
+- **11 or lower:** push 3
+- **12-16:** push 5
+- **17+:** push 7
 
 **Effect:** You have an edge on this attack. The target takes 1 psychic damage for each square they move through.

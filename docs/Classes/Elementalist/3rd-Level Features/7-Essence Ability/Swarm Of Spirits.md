@@ -28,9 +28,9 @@ Guardian animal spirits surround you.
 
 **Power Roll + Reason:**
 
-- 11 or lower: 3 damage
-- 12-16: 6 damage
-- 17+: 9 damage
+- **11 or lower:** 3 damage
+- **12-16:** 6 damage
+- **17+:** 9 damage
 
 **Effect:** Until the end of your next turn, each ally in your aura has an edge on resistance rolls and +1 on saving throws.
 

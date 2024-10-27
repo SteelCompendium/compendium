@@ -28,5 +28,5 @@ A blast of judgment disorients your foe.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 holy damage; slide 1
-- **12–16:** 4 holy damage; slide 2
+- **12-16:** 4 holy damage; slide 2
 - **17+:** 6 holy damage; slide 3

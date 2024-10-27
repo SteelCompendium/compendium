@@ -30,7 +30,7 @@ You wear heavy armor and wield a heavy weapon.
 
 ## Signature Ability
 
-**PAIN FOR PAIN**
+### Pain For Pain
 
 An enemy who tagged you will pay for that.
 
@@ -39,10 +39,10 @@ An enemy who tagged you will pay for that.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Melee 1               | **Target:** 1 creature |
 
-*Power Roll + Might or Agility:*
+**Power Roll + Might or Agility:**
 
-- 11 or lower: 3 damage
-- 12–16: 5 damage
-- 17+: 11 damage
+- **11 or lower:** 3 damage
+- **12-16:** 5 damage
+- **17+:** 11 damage
 
-*Effect:* If the target dealt damage to you since the end of your last turn, this attack gains (SURGE).
+**Effect:** If the target dealt damage to you since the end of your last turn, this attack gains `(SURGE)`.
