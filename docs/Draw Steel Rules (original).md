@@ -1,4 +1,6 @@
-# WHAT IS THIS GAME?
+Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2024 MCDM Productions, LLC.
+
+## WHAT IS THIS GAME?
 
 This is a game about fighting monsters. About larger-than-life, extraordinary heroes plunging into battle against
 terrifying, monstrous enemies.
