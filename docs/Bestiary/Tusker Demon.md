@@ -29,7 +29,7 @@ Effect: This attack has edge while charging.
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: —    | Type: Triggered Action |
+| Keywords: -    | Type: Triggered Action |
 | Distance: Self | Target: Self           |
 
 Trigger: An enemy within 7 deals damage to the tusker.
@@ -38,7 +38,7 @@ Effect: The tusker demon [[Charge|charges]] the target using Gore.
 
 **Trample**
 
-The tusker demon can move through enemies and objects at normal speed. When the tusker enters a creature’s space for the first time on their turn, the creature takes 2d6 damage. The tusker demon can end their turn in a [[Prone|prone]] size 1 creature’s space, preventing the creature from getting up.
+The tusker demon can move through enemies and objects at normal speed. When the tusker enters a creature's space for the first time on their turn, the creature takes 2d6 damage. The tusker demon can end their turn in a [[Prone|prone]] size 1 creature's space, preventing the creature from getting up.
 
 **Lethe**
 

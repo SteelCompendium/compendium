@@ -32,4 +32,4 @@
 
 **Mounted Platform**
 
-Any creature riding the hawk can make a [[Free Strike|free strike]] during or after the hawk’s movement.
+Any creature riding the hawk can make a [[Free Strike|free strike]] during or after the hawk's movement.

@@ -23,7 +23,7 @@
 - ✦ ≤11: 2 damage
 - ★ 12–16: 4 damage
 
-Effect: All allies have **advantage** against the target’s next attack.
+Effect: All allies have **advantage** against the target's next attack.
 
 **Reptilian Escape**
 

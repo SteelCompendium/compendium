@@ -32,7 +32,10 @@ Effect: This attack deals **additional damage** to each creature and object that
 | Keywords: Attack, Melee, Weapon | Type: Maneuver               |
 | Distance: Melee 1               | Target: 1 creature or object |
 
-Effect: The goon can only have one target [[Grabbed|grabbed]] at a time. 1 Malice: The target has a bane on escaping the [[Grab|grab]] while the goon crushes the target in their hand.
+Effect: The goon can only have one target [[Grabbed|grabbed]] at a time.
+
+**1 Malice**
+The target has a bane on escaping the [[Grab|grab]] while the goon crushes the target in their hand.
 
 **People Bowling (3 Malice)**
 
@@ -46,13 +49,13 @@ Effect: The goon can only have one target [[Grabbed|grabbed]] at a time. 1 Malic
 - ✦ ≤11: 3 damage
 - ★ 12–16: 4 damage
 
-Effect: The goon hurls what’s in their hand down the line and rolls power. The hurled creature or object counts as a target and lands in the last square of the line (or nearest unoccupied square of the goon’s choice).
+Effect: The goon hurls what's in their hand down the line and rolls power. The hurled creature or object counts as a target and lands in the last square of the line (or nearest unoccupied square of the goon's choice).
 
 **Swat The [[Fly]]**
 
 |                   |                                       |
 | :---------------- | :------------------------------------ |
-| Keywords: —       | Type: Triggered Action                |
+| Keywords: -       | Type: Triggered Action                |
 | Distance: Melee 1 | Target: 1 adjacent creature or object |
 
 Trigger: The target moves or shifts away from the goon.

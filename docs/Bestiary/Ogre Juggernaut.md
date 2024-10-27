@@ -23,6 +23,9 @@
 - ✦ ≤11: 5 damage; A1 vertical slide 2
 - ★ 12–16: 8 damage; A2 vertical push 3
 
+**1 Malice**
+Each target is M2 [[Bleeding|bleeding]] (save ends).
+
 **Earth Breaking [[Jump]] (2d10 + 2)**
 
 |                               |                                    |
@@ -50,7 +53,7 @@ Effect: Ogres have **advantage** on attacks against creatures [[Frightened|frigh
 
 |                   |                              |
 | :---------------- | :--------------------------- |
-| Keywords: —       | Type: Triggered Action       |
+| Keywords: -       | Type: Triggered Action       |
 | Distance: Melee 1 | Target: 1 creature or object |
 
 Trigger: The juggernaut takes damage.

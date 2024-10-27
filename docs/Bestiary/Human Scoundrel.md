@@ -34,4 +34,4 @@ Effect: This ability has double edge if the scoundrel has an edge on the power r
 
 **Supernatural Insight**
 
-The scoundrel can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.
+The scoundrel can target supernatural creatures and objects within 5 squares, even if they don't have line of effect.

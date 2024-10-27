@@ -1,11 +1,11 @@
 #### BASILISK
 
-| BASILISK        |           \*\*Level  \*\* |
-| :-------------- | ------------------------: |
-| \*\*            |                 **EV 32** |
-| **Stamina**: 70 |             **Weakness**: |
-| **Speed**: 8    | **Size**: 2 / Stability 2 |
-|                 |    **[[Free Strike]]**: 5 |
+| BASILISK            |         **Level 1 BRUTE** |
+| :------------------ | ------------------------: |
+| *Basilisk, Monster* |                 **EV 32** |
+| **Stamina**: 70     |             **Weakness**: |
+| **Speed**: 8        | **Size**: 2 / Stability 2 |
+|                     |    **[[Free Strike]]**: 5 |
 
 | **Might** +2 | **Agility** 0 | **Reason** -3 | **Intuition** -1 | **Presence** -1 |
 | ------------ | ------------- | ------------- | ---------------- | --------------- |
@@ -24,12 +24,16 @@
 - ★ 12–16: 8 poison damage
 - ✸ 17+: 11 poison damage
 
+Effect: This attack has an edge against targets that the basilisk has previously dealt poison damage to.
+
 **Petrifying Eye Beams (MGT RR)**
 
 |                                      |                 |
 | :----------------------------------- | :-------------- |
 | Keywords: Magic, Ranged, Resistance  | Type: Maneuver  |
 | Distance: Ranged 5 × 2 line within 1 | Target: Special |
+
+Effect: The basilisk targets the first unobstructed creature in each column of the area. Each target magically begins to turn to stone. An already [[Slowed|slowed]] target has a bane on resisting the roll. A creature [[Restrained|restrained]] by this ability or a creature adjacent to them can use an action to cut the encroaching stone from their body, taking 8 damage which can't be reduced in any way and ending the effect.
 
 **Poison Fumes (5 Malice)**
 
@@ -48,14 +52,10 @@
 
 |                   |                                  |
 | :---------------- | :------------------------------- |
-| Keywords: —       | Type: Triggered Action           |
+| Keywords: -       | Type: Triggered Action           |
 | Distance: 1 burst | Target: All enemies in the burst |
 
 Trigger: The basilisk takes Weapon damage.
-
-**LEVEL 1 BRUTE**
-
-*Basilisk, Monster*
 
 **Calcifying Presence**
 

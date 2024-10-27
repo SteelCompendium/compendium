@@ -28,7 +28,7 @@
 
 |                |                |
 | :------------- | :------------- |
-| Keywords: —    | Type: Maneuver |
+| Keywords: -    | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
 Effect: The ghoul leaps 3 squares. If they land on a size 1 enemy, that enemy is knocked [[Prone|prone]] and the ghoul makes a [[Free Strike|free strike]] against them.
@@ -39,4 +39,4 @@ If the ghoul [[Charge|charges]], their speed increases by 2 until the end of the
 
 **Arise**
 
-The first time the ghoul is reduced to Stamina 0 by damage that isn’t fire damage or holy damage and their body isn’t destroyed, they regain half their Stamina and fall [[Prone|prone]].
+The first time the ghoul is reduced to Stamina 0 by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina and fall [[Prone|prone]].

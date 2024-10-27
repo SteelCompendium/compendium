@@ -35,7 +35,7 @@
 
 |                |              |
 | :------------- | :----------- |
-| Keywords: —    | Type: Action |
+| Keywords: -    | Type: Action |
 | Distance: Self | Target: Self |
 
 Effect: The spider shifts up to their speed and makes a Leg Blade attack against each creature who comes within 1 of the spider during the move. The spider makes one power roll against all targets.
@@ -59,4 +59,4 @@ An ally who leaps off the back of the spider can [[Jump|jump]] up to 6 squares w
 
 **Wide Back**
 
-Two of the spider’s size 1 allies can occupy the same space while riding the spider.
+Two of the spider's size 1 allies can occupy the same space while riding the spider.

@@ -33,7 +33,7 @@ Effect: One ally within 10 squares of the commander can make a [[Free Strike|fre
 | Keywords: Area, Magic | Type: Maneuver                             |
 | Distance: 10 burst    | Target: Each war dog with a loyalty collar |
 
-Effect: The ground commander selects any number of targets’ loyalty collars and detonates them, killing the targets instantly.
+Effect: The ground commander selects any number of targets' loyalty collars and detonates them, killing the targets instantly.
 
 **Final Orders**
 
@@ -75,7 +75,7 @@ Effect: Each target can shift 2 and use the [[Grab]] maneuver. For the rest of t
 
 **End Effect**
 
-At the end of their turn, the ground commander can take 5 damage to end one save-ends effect affecting them. This damage can’t be reduced in any way.
+At the end of their turn, the ground commander can take 5 damage to end one save-ends effect affecting them. This damage can't be reduced in any way.
 
 **Loyalty Collar**
 

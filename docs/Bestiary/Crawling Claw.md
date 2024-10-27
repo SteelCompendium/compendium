@@ -28,4 +28,4 @@ Effect: The crawling claw shifts a number of squares equal to the damage dealt.
 
 **Disorganized**
 
-The crawling claw can’t grant the flanking benefit to allies.
+The crawling claw can't grant the flanking benefit to allies.

@@ -6,9 +6,11 @@ At the start of any undead creature's turn, you can spend malice to activate one
 
 - **The Grasping, The Hungry (5 Malice)**: Ravenous and rotting undead arms burst forth from 9 connected squares of a vertical or horizontal surface. A creature who ends their turn adjacent to an affected vertical surface or within 1 square of an affected horizontal surface must make an Agility resistance roll:
 
-    - ✸ ≤11: 5 damage; [[Restrained|restrained]] (save ends)
-    - ★ 12–16: 5 damage; [[Restrained|restrained]] (EoT)
-    - ✦ 17+: 5 damage
+- ✸ ≤11: 5 damage; [[Restrained|restrained]] (save ends)
+
+- ★ 12-16: 5 damage; [[Restrained|restrained]] (EoT)
+
+- ✦ 17+: 5 damage
 
     Any creature who starts their turn [[Restrained|restrained]] by the arms takes 1d6 damage.
 

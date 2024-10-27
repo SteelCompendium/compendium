@@ -23,6 +23,9 @@
 - ✦ ≤11: 3 damage; pull 1; A2 [[Bleeding|bleeding]] (save ends)
 - ★ 12–16: 7 damage; pull 1; A3 [[Bleeding|bleeding]] (save ends)
 
+**1 Malice**
+One target that is adjacent to the deathrex is [[Grabbed|grabbed]] by the deathrex's mouth.
+
 **Death Roll (3 Malice)**
 
 |                                 |                                                   |
@@ -41,7 +44,7 @@ Effect: The target is released from the [[Grab|grab]] and slides 5.
 
 |                |                |
 | :------------- | :------------- |
-| Keywords: —    | Type: Maneuver |
+| Keywords: -    | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
 Effect: The deathrex moves up to their speed. The deathrex can make a [[Free Strike|free strike]] on each creature that makes an opportunity attack against them during this movement.
@@ -50,7 +53,7 @@ Effect: The deathrex moves up to their speed. The deathrex can make a [[Free Str
 
 |                   |                                       |
 | :---------------- | :------------------------------------ |
-| Keywords: —       | Type: Triggered Action                |
+| Keywords: -       | Type: Triggered Action                |
 | Distance: Melee 1 | Target: 1 adjacent creature or object |
 
 Trigger: The target moves or shifts away from the deathrex.
@@ -70,10 +73,10 @@ Effect: Each target moves up to their speed and makes a [[Free Strike|free strik
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: —    | Type: Villain Action 2 |
+| Keywords: -    | Type: Villain Action 2 |
 | Distance: Self | Target: Self           |
 
-Effect: The deathrex shifts up to their speed, leaving behind a skin shed duplicate in the space that they started in. The duplicate has 10 Stamina, has no villain actions, shares the rest of the deathrex’s characteristics, and takes their turn at the same time as the deathrex.
+Effect: The deathrex shifts up to their speed, leaving behind a skin shed duplicate in the space that they started in. The duplicate has 10 Stamina, has no villain actions, shares the rest of the deathrex's characteristics, and takes their turn at the same time as the deathrex.
 
 **Thresher Thrasher**
 

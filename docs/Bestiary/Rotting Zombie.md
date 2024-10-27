@@ -26,4 +26,4 @@
 
 **Arise Together**
 
-If the rotting [[Zombie|zombie]]’s captain has the Arise trait, the [[Zombie|zombie]] also gains the Arise trait.
+If the rotting [[Zombie|zombie]]'s captain has the Arise trait, the [[Zombie|zombie]] also gains the Arise trait.

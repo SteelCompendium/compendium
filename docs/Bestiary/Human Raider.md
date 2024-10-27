@@ -28,4 +28,4 @@ Effect: If this ability is used while Charging, the [[Raider|raider]] can make a
 
 **Supernatural Insight**
 
-The [[Raider|raider]] can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.
+The [[Raider|raider]] can target supernatural creatures and objects within 5 squares, even if they don't have line of effect.

@@ -28,4 +28,4 @@ Effect: If the guard is flanked, they can make a [[Free Strike|free strike]] aga
 
 **Supernatural Insight**
 
-The guard can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.
+The guard can target supernatural creatures and objects within 5 squares, even if they don't have line of effect.

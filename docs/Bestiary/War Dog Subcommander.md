@@ -33,7 +33,7 @@ Effect: An ally within 5 squares of the subcommander can make a [[Free Strike|fr
 | Keywords: Magic, Ranged | Type: Maneuver                            |
 | Distance: Ranged 10     | Target: One war dog with a loyalty collar |
 
-Effect: The target’s loyalty collar detonates, killing them instantly.
+Effect: The target's loyalty collar detonates, killing them instantly.
 
 **The Iron Saint Does Not Recognize Retreat**
 

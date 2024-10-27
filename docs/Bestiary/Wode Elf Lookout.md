@@ -26,7 +26,7 @@
 
 **There!**
 
-A wode elf within 5 of the lookout can make a ranged attack as if occupying the lookout’s space.
+A wode elf within 5 of the lookout can make a ranged attack as if occupying the lookout's space.
 
 **Masking Glamor**
 

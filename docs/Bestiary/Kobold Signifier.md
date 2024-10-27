@@ -23,7 +23,10 @@
 - ✦ ≤11: 2 damage
 - ★ 12–16: 4 damage
 
-Effect: An ally within 10 can shift their speed, as long as they end their movement adjacent to an ally. 2+ Malice: 1 additional ally can shift for every 2 malice spent.
+Effect: An ally within 10 can shift their speed, as long as they end their movement adjacent to an ally.
+
+**2+ Malice**
+1 additional ally can shift for every 2 malice spent.
 
 **Glory to the Legion (5 Malice)**
 

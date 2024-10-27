@@ -28,7 +28,7 @@
 
 |                |                |
 | :------------- | :------------- |
-| Keywords: —    | Type: Maneuver |
+| Keywords: -    | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
 Effect: The warg moves up to their speed.
@@ -39,4 +39,4 @@ If a warg used as a mount [[Charge|charges]], their rider gains an edge on melee
 
 **Shared Crafty**
 
-If the warg’s rider has the Crafty trait, the warg also has the Crafty trait.
+If the warg's rider has the Crafty trait, the warg also has the Crafty trait.

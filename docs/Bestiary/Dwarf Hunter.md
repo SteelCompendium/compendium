@@ -23,5 +23,4 @@
 - ✦ ≤11: 2 damage; pull 1
 - ★ 12–16: 4 damage; pull 2
 
-****Effect****
-A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pulled by this attack.
+Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pulled by this attack.

@@ -26,4 +26,4 @@
 
 **Crafty**
 
-The runner doesn’t provoke opportunity attacks by moving.
+The runner doesn't provoke opportunity attacks by moving.

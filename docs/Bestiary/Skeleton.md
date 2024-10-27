@@ -24,7 +24,7 @@
 - ★ 12–16: 5 damage
 - ✸ 17+: 6 damage
 
-Effect: Until the start of the skeleton’s next turn, the target takes 2 damage the first time they move on their turn.
+Effect: Until the start of the skeleton's next turn, the target takes 2 damage the first time they move on their turn.
 
 **Bone Spur (2 Malice)**
 
@@ -39,8 +39,8 @@ Effect: Until the start of the skeleton’s next turn, the target takes 2 damage
 - ★ 12–16: 2 damage; M2 [[Bleeding|bleeding]] (save ends)
 - ✸ 17+: 3 damage; M3 [[Bleeding|bleeding]] (save ends)
 
-Effect: Each target has a bane on their next attack until the start of the skeleton’s next turn.
+Effect: Each target has a bane on their next attack until the start of the skeleton's next turn.
 
 **Arise**
 
-The first time the skeleton is reduced to Stamina 0 by damage that isn’t fire damage or holy damage and their body isn’t destroyed, they regain half their Stamina and fall [[Prone|prone]].
+The first time the skeleton is reduced to Stamina 0 by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina and fall [[Prone|prone]].

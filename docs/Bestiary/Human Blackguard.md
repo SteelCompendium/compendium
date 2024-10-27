@@ -24,33 +24,36 @@
 - ★ 12–16: 7 damage; M3 [[Slowed|slowed]] (save ends)
 - ✸ 17+: 10 damage; M4 [[Slowed|slowed]] (save ends)
 
-Effect: An ally within 10 squares of the blackguard can make a [[Free Strike|free strike]]. 1 Malice: The ally can use their signature action instead.
+Effect: An ally within 10 squares of the blackguard can make a [[Free Strike|free strike]].
+
+**1 Malice**
+The ally can use their signature action instead.
 
 **You!**
 
 |                     |                   |
 | :------------------ | :---------------- |
-| Keywords: —         | Type: Maneuver    |
+| Keywords: -         | Type: Maneuver    |
 | Distance: Ranged 10 | Target: One enemy |
 
-Effect: The target is marked until the start of the blackguard’s next turn. The blackguard and each of their allies gain an edge and advantage on attacks against targets marked by the blackguard.
+Effect: The target is marked until the start of the blackguard's next turn. The blackguard and each of their allies gain an edge and advantage on attacks against targets marked by the blackguard.
 
 **Parry!**
 
 |                   |                          |
 | :---------------- | :----------------------- |
-| Keywords: —       | Type: Triggered Action   |
+| Keywords: -       | Type: Triggered Action   |
 | Distance: Melee 1 | Target: Self or one ally |
 
 Trigger: A creature targets the blackguard or an ally adjacent to the blackguard with an attack.
 
-Effect: The triggering attack’s damage is halved.
+Effect: The triggering attack's damage is halved.
 
 **[[Advance]]!**
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: —    | Type: Villain Action 1 |
+| Keywords: -    | Type: Villain Action 1 |
 | Distance: Self | Target: Self           |
 
 Effect: The blackguard shifts up to their speed. During or after this movement, they can use their Zweihander Swing ability twice.
@@ -75,8 +78,8 @@ Effect: The blackguard uses their Zweihander Swing ability against each enemy in
 
 **End Effect**
 
-At the end of their turn, the blackguard can take 5 damage to end one "save ends" effect affecting them. This damage can’t be reduced in any way.
+At the end of their turn, the blackguard can take 5 damage to end one "save ends" effect affecting them. This damage can't be reduced in any way.
 
 **Heightened Supernatural Insight**
 
-The blackguard can target supernatural creatures and objects within 15 squares, even if they don’t have line of effect.
+The blackguard can target supernatural creatures and objects within 15 squares, even if they don't have line of effect.

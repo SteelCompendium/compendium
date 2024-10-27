@@ -29,7 +29,7 @@ Effect: The minotaur shifts 3 after attacking.
 
 |                |              |
 | :------------- | :----------- |
-| Keywords: —    | Type: Action |
+| Keywords: -    | Type: Action |
 | Distance: Self | Target: Self |
 
 Effect: The minotaur has **resistance** and **advantage** until the end of their next turn. On their next turn, they have access to an additional maneuver.
@@ -46,13 +46,13 @@ Effect: The minotaur has **resistance** and **advantage** until the end of their
 - ✦ ≤11: 5 damage; I1 [[Dazed|dazed]] (save ends)
 - ★ 12–16: 9 damage; I2 [[Dazed|dazed]] (save ends)
 
-Effect: The potency of this ability increases by 1 if it’s used while charging.
+Effect: The potency of this ability increases by 1 if it's used while charging.
 
 **Retaliatory Gore**
 
 |                |                             |
 | :------------- | :-------------------------- |
-| Keywords: —    | Type: Triggered Action      |
+| Keywords: -    | Type: Triggered Action      |
 | Distance: Self | Target: Triggering creature |
 
 Trigger: The minotaur takes damage from a creature within 8.

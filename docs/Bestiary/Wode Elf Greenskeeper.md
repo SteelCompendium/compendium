@@ -23,7 +23,10 @@
 - ✦ ≤11: 3 damage
 - ★ 12–16: 5 damage
 
-Effect: [[Taunted]] (EoT). The greenskeeper can shift 3 after making the attack. 2 Malice: The distance increases to Melee 5.
+Effect: [[Taunted]] (EoT). The greenskeeper can shift 3 after making the attack.
+
+**2 Malice**
+The distance increases to Melee 5.
 
 **Overgrowth (3 Malice)**
 

@@ -23,10 +23,9 @@
 - ✦ ≤11: 5 damage; slide 1
 - ★ 12–16: 9 damage; slide 3
 
-****Effect****
-A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by this attack.
+Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by this attack.
 
-****3 Malice****
+**3 Malice**
 A target that is force moved adjacent to an ally with this ability is [[Restrained|restrained]] (EoT).
 
 **Magnetomancy**
@@ -36,10 +35,9 @@ A target that is force moved adjacent to an ally with this ability is [[Restrain
 | Keywords: Magic, Ranged | Type: Maneuver               |
 | Distance: Ranged 10     | Target: 1 creature or object |
 
-****Effect****
-Vertical slide 5. A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by this ability.
+Effect: Vertical slide 5. A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by this ability.
 
-****5 Malice****
+**5 Malice**
 This ability gains the Area keyword, its distance becomes 10 burst, and it now targets [[Restrained|restrained]] creatures.
 
 **Your Weapon is Useless**
@@ -51,8 +49,7 @@ This ability gains the Area keyword, its distance becomes 10 burst, and it now t
 
 Trigger: A creature makes a weapon attack against the target.
 
-****Effect****
-The target takes half damage from the attack. The attacker takes 5 damage.
+Effect: The target takes half damage from the attack. The attacker takes 5 damage.
 
 **Ajax Will Pay Well for These Specimens**
 
@@ -61,29 +58,26 @@ The target takes half damage from the attack. The attacker takes 5 damage.
 | Keywords: Area, Weapon     | Type: Villain Action 1          |
 | Distance: 5 cube within 10 | Target: All enemies in the cube |
 
-****Effect****
-The marauder lord uses Levitating Axes against each target. The marauder lord makes one power roll against all targets.
+Effect: The marauder lord uses Levitating Axes against each target. The marauder lord makes one power roll against all targets.
 
-**Don’t Let Them Escape!**
+**Don't Let Them Escape!**
 
 |                   |                                 |
 | :---------------- | :------------------------------ |
 | Keywords: Area    | Type: Villain Action 2          |
 | Distance: 5 burst | Target: All allies in the burst |
 
-****Effect****
-Each target shifts up to their speed. The marauder lord then uses Levitating Axes.
+Effect: Each target shifts up to their speed. The marauder lord then uses Levitating Axes.
 
 **Test Your Metal!**
 
 |                     |                        |
 | :------------------ | :--------------------- |
-| Keywords: —         | Type: Villain Action 3 |
+| Keywords: -         | Type: Villain Action 3 |
 | Distance: Ranged 10 | Target: special        |
 
-****Effect****
-The marauder lord creates three 2-square metal objects in unoccupied squares within distance. When the marauder lord uses Magnetomancy, they can additionally target one of these objects.
+Effect: The marauder lord creates three 2-square metal objects in unoccupied squares within distance. When the marauder lord uses Magnetomancy, they can additionally target one of these objects.
 
 **End Effect**
 
-At the end of their turn, the marauder lord can take 5 damage to end one save-ends effect affecting them. This damage can’t be reduced in any way.
+At the end of their turn, the marauder lord can take 5 damage to end one save-ends effect affecting them. This damage can't be reduced in any way.

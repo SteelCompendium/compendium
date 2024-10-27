@@ -23,13 +23,13 @@
 - ✦ ≤11: 5 lightning damage; R2 [[Dazed|dazed]] (save ends)
 - ★ 12–16: 8 lightning damage; R3 [[Dazed|dazed]] (save ends)
 
-Effect: High elves have edge on attacks and abilities against the target until the start of the ordinator’s next turn.
+Effect: High elves have edge on attacks and abilities against the target until the start of the ordinator's next turn.
 
 **Call Forth Elementals (2+ Malice)**
 
 |                     |                 |
 | :------------------ | :-------------- |
-| Keywords: —         | Type: Maneuver  |
+| Keywords: -         | Type: Maneuver  |
 | Distance: Ranged 10 | Target: Special |
 
 Effect: The ordinator summons 1 [[Elemental Mote|elemental mote]] for every 2 malice spent into unoccupied squares within distance.
@@ -38,7 +38,7 @@ Effect: The ordinator summons 1 [[Elemental Mote|elemental mote]] for every 2 ma
 
 |                     |                     |
 | :------------------ | :------------------ |
-| Keywords: —         | Type: Free Maneuver |
+| Keywords: -         | Type: Free Maneuver |
 | Distance: Ranged 10 | Target: Special     |
 
 Effect: The ordinator conjures 3 dead [[Cradle Crow|cradle crows]], 1 dead [[Cradle Horse|cradle horse]], or 1 dead [[Cradle Credenza|cradle credenza]] into unoccupied squares within distance.
@@ -47,7 +47,7 @@ Effect: The ordinator conjures 3 dead [[Cradle Crow|cradle crows]], 1 dead [[Cra
 
 |                     |                        |
 | :------------------ | :--------------------- |
-| Keywords: —         | Type: Triggered Action |
+| Keywords: -         | Type: Triggered Action |
 | Distance: Ranged 10 | Target: 1 enemy        |
 
 Trigger: The target makes an attack against the ordinator or an ally within distance.

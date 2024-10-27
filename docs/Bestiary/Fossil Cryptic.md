@@ -21,8 +21,8 @@
 **2d10 + 3**
 
 - ✦ ≤11: 5 damage; A2 [[Prone|prone]]
-- ★ 12–16: 9 damage; A3 [[Prone|prone]] and can’t stand (EoT)
-- ✸ 17+: 12 damage; A4 [[Prone|prone]] and can’t stand (save ends)
+- ★ 12–16: 9 damage; A3 [[Prone|prone]] and can't stand (EoT)
+- ✸ 17+: 12 damage; A4 [[Prone|prone]] and can't stand (save ends)
 
 Effect: Each enemy within 1 square of the target takes 2 damage.
 
@@ -57,16 +57,19 @@ Effect: The cryptic [[Burrow|burrows]] up to half their speed, then creates the 
 | Keywords: Ranged, Resistance | Type: Maneuver                               |
 | Distance: Ranged 5           | Target: One creature or object on the ground |
 
+**2 Malice**
+The distance of the slide is doubled.
+
 **Dissipate (1 Malice)**
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: —    | Type: Triggered Action |
+| Keywords: -    | Type: Triggered Action |
 | Distance: Self | Target: Self           |
 
 Trigger: The cryptic takes damage
 
-Effect: The cryptic halves the damage, doesn’t suffer any additional effect associated with it, and shifts up to 3 squares.
+Effect: The cryptic halves the damage, doesn't suffer any additional effect associated with it, and shifts up to 3 squares.
 
 **First Warning Quake (MGT RR)**
 
@@ -88,13 +91,14 @@ Effect: The area drops 2 squares. Each enemy in the area falls, while all allies
 
 **No Escape (2d10 + 3)**
 
-|                  |                        |
-| :--------------- | :--------------------- |
-| Keywords: Ranged | Type: Villain Action 3 |
+|                     |                                                |
+| :------------------ | :--------------------------------------------- |
+| Keywords: Ranged    | Type: Villain Action 3                         |
+| Distance: Ranged 10 | Target: Two creatures or objects on the ground |
 
-Effect: The cryptic makes an initial attack that calls down stone pillars from the ceiling. Distance: Ranged 10 Target: Two creatures or objects
+Effect: The cryptic makes an initial attack that calls down stone pillars from the ceiling.
 
-Effect: The cryptic makes a final attack that raises stone pillars from the floor. Distance: Ranged 10 Target: Two creatures or objects on the ground
+Effect: The cryptic makes a final attack that raises stone pillars from the floor.
 
 **Solo Monster**
 

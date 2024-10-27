@@ -23,5 +23,4 @@
 - ✦ ≤11: 2 damage; push 1
 - ★ 12–16: 4 damage; push 2
 
-****Effect****
-A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack.
+Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack.

@@ -23,8 +23,7 @@
 - ✦ ≤11: 5 damage; push 1; M1 [[Slowed|slowed]] (save ends)
 - ★ 12–16: 8 damage; push 3; M2 [[Slowed|slowed]] (save ends)
 
-****Effect****
-A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack.
+Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack.
 
 **Concussive Shockwave (5 Malice)**
 
@@ -38,8 +37,7 @@ A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this at
 - ✦ ≤11: 2 damage; push 2; A1 [[Slowed|slowed]] (save ends)
 - ★ 12–16: 4 damage; push 4; A2 [[Slowed|slowed]] (save ends)
 
-****Effect****
-A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this ability.
+Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this ability.
 
 **Escort the Prisoners**
 

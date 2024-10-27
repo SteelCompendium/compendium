@@ -37,7 +37,7 @@ Effect: The potency of this attack increases by 1 if the target is [[Grabbed|gra
 - ✦ ≤11: 3 damage; slide 1; M1 grappled
 - ★ 12–16: 5 damage; slide 2; M2 grappled
 
-Effect: The scaletooth needs their tail to use this ability. The scaletooth can’t grapple more than one creature or object with this ability.
+Effect: The scaletooth needs their tail to use this ability. The scaletooth can't grapple more than one creature or object with this ability.
 
 **Reptilian Escape**
 

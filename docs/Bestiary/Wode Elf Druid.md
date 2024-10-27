@@ -23,7 +23,10 @@
 - ✦ ≤11: 3 damage; pull 1; M1 [[Slowed|slowed]] (save ends)
 - ★ 12–16: 5 damage; pull 3; M2 [[Slowed|slowed]] (save ends)
 
-Effect: A creature [[Slowed|slowed]] by this ability can’t [[Search For Hidden Creatures|search for hidden creatures]] until the condition ends. 3 Malice: The area of the cube and the potency of the effect both increase by 1.
+Effect: A creature [[Slowed|slowed]] by this ability can't [[Search For Hidden Creatures|search for hidden creatures]] until the condition ends.
+
+**3 Malice**
+The area of the cube and the potency of the effect both increase by 1.
 
 **The Wode Protects Us (3 Malice)**
 

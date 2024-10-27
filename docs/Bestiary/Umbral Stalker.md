@@ -39,7 +39,7 @@ Effect: The shadow can shift up to 2 squares before or after this attack.
 - ★ 12–16: 2 cold damage
 - ✸ 17+: 3 cold damage
 
-Effect: Until the end of the umbral stalker’s next turn, the area is concealed and blocks line of effect for all enemies.
+Effect: Until the end of the umbral stalker's next turn, the area is concealed and blocks line of effect for all enemies.
 
 **Shadow [[Jump]] (1 Malice)**
 

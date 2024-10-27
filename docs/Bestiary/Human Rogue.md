@@ -28,4 +28,4 @@ Effect: This attack has a double edge and an edge if the spy was disguised or hi
 
 **Supernatural Insight**
 
-The rogue can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.
+The rogue can target supernatural creatures and objects within 5 squares, even if they don't have line of effect.

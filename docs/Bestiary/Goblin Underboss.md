@@ -33,8 +33,11 @@ Effect: One ally adjacent to the target can make a [[Free Strike|free strike]] a
 | Keywords: Area    | Type: Maneuver                  |
 | Distance: 5 burst | Target: All allies in the burst |
 
-Effect: Until the start of the underboss’s next turn, each target has edge on attacks, and attacks against them have edge. 3 Malice: Attacks don’t have edge against a target.
+Effect: Until the start of the underboss's next turn, each target has edge on attacks, and attacks against them have edge.
+
+**3 Malice**
+Attacks don't have edge against a target.
 
 **Crafty**
 
-The underboss doesn’t provoke opportunity attacks by moving.
+The underboss doesn't provoke opportunity attacks by moving.

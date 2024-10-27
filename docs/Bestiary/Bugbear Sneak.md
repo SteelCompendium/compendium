@@ -1,11 +1,11 @@
 #### BUGBEAR SNEAK
 
-| BUGBEAR SNEAK   |            \*\*Level  \*\* |
-| :-------------- | -------------------------: |
-| \*\*            |                  **EV 34** |
-| **Stamina**: 70 |              **Weakness**: |
-| **Speed**: 7    | **Size**: 1M / Stability 0 |
-|                 |     **[[Free Strike]]**: 5 |
+| BUGBEAR SNEAK               |       **Level 2 AMBUSHER** |
+| :-------------------------- | -------------------------: |
+| *Bugbear, Goblin, Humanoid* |                  **EV 34** |
+| **Stamina**: 70             |              **Weakness**: |
+| **Speed**: 7                | **Size**: 1M / Stability 0 |
+|                             |     **[[Free Strike]]**: 5 |
 
 | **Might** +2 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ------------ | -------------- | ------------ | --------------- | -------------- |
@@ -24,6 +24,8 @@
 - ★ 12–16: 9 damage; A3 [[Grabbed|grabbed]]
 - ✸ 17+: 12 damage; [[Grabbed|grabbed]]
 
+Effect: The target can't use triggered actions until the start of the next round. This attack has double edge if the sneak started their turn hidden from the target.
+
 **Dirt [[Devil]] (3 Malice)**
 
 |                   |                                  |
@@ -37,12 +39,16 @@
 - ★ 12–16: 3 damage; I2 sneak is concealed from the target (save ends)
 - ✸ 17+: 4 damage; I3 sneak is concealed from the target (save ends)
 
+Effect: The sneak shifts up to their speed and [[Hide|hides]] after using this ability.
+
 **Carving Dagger (2d10 + 2)**
 
 |                                  |                                |
 | :------------------------------- | :----------------------------- |
 | Keywords: Attack, Ranged, Weapon | Type: Action                   |
 | Distance: Ranged 8               | Target: 2 creatures or objects |
+
+Effect: Targets can't [[Hide|hide]] from the sneak or their allies while [[Bleeding|bleeding]] from this ability.
 
 **Throw**
 
@@ -51,19 +57,19 @@
 | Keywords: Attack, Melee | Type: Maneuver                                                 |
 | Distance: Melee 1       | Target: 1 creature or object [[Grabbed\|grabbed]] by the sneak |
 
+Effect: Vertical push 4. Ally targets don't take damage from being force moved.
+
 **Misdirection (1 Malice)**
 
 |                   |                        |
 | :---------------- | :--------------------- |
-| Keywords: —       | Type: Triggered Action |
+| Keywords: -       | Type: Triggered Action |
 | Distance: Special | Target: 1 enemy        |
 
 Trigger: A target attacks the sneak.
 
-**LEVEL 2 AMBUSHER**
-
-*Bugbear, Goblin, Humanoid*
+Effect: The sneak chooses an enemy within distance of the attack. The attack targets that enemy instead.
 
 **Catcher (Free Triggered Action)**
 
-Keywords: — Distance: Melee 1 Target: 1 size 1 creature or object Trigger: The target is force moved into a square adjacent to the sneak. - Effect: The target is [[Grabbed|grabbed]] by the sneak.
+Keywords: - Distance: Melee 1 Target: 1 size 1 creature or object Trigger: The target is force moved into a square adjacent to the sneak. Effect: The target is [[Grabbed|grabbed]] by the sneak.

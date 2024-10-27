@@ -8,6 +8,8 @@ At the start of any cryptic's turn, you can spend malice to activate one of the 
 
 - **Choking Dust (7 Malice)**: The air across the area of the encounter map becomes thick with dust until the end of the encounter. Each enemy in the dust must immediately make a Might resistance roll, then repeat that resistance roll at the start of each of their turns:
 
-    - ✸ ≤11: [[Slowed]] (EoT); the target's stability is reduced by 3 (EoT).
-    - ★ 12–16: The target's speed is reduced by 2 (EoT) and their stability is reduced by 1 (EoT).
-    - ✦ 17+: No effect
+- ✸ ≤11: [[Slowed]] (EoT); the target's stability is reduced by 3 (EoT).
+
+- ★ 12-16: The target's speed is reduced by 2 (EoT) and their stability is reduced by 1 (EoT).
+
+- ✦ 17+: No effect

@@ -23,7 +23,10 @@
 - ✦ ≤11: 3 damage; A2 marked (save ends)
 - ★ 12–16: 5 damage; A3 marked (save ends)
 
-Effect: Allies have **+1** on attacks and abilities against marked creatures and objects. 3 Malice: The sentry targets two additional creatures or objects.
+Effect: Allies have **+1** on attacks and abilities against marked creatures and objects.
+
+**3 Malice**
+The sentry targets two additional creatures or objects.
 
 **Death Blossom (2 Malice)**
 

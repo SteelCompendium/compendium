@@ -33,7 +33,7 @@ Effect: The portalite has **edge** on the attack if an ally is adjacent to the t
 | Keywords: Magic, Ranged | Type: Maneuver                            |
 | Distance: Ranged 10     | Target: One war dog with a loyalty collar |
 
-Effect: The target’s loyalty collar detonates, killing them instantly.
+Effect: The target's loyalty collar detonates, killing them instantly.
 
 **Corrupted Ash [[Teleport]] (1 Malice)**
 

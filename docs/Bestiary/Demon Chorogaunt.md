@@ -1,11 +1,11 @@
 #### DEMON CHOROGAUNT
 
-| DEMON CHOROGAUNT |        \*\*Level  \*\* |
-| :--------------- | ---------------------: |
-| \*\*             |            \*\*EV \*\* |
-| **Stamina**:     |          **Weakness**: |
-| **Speed**:       | **Size**:  / Stability |
-|                  |   **[[Free Strike]]**: |
+| DEMON CHOROGAUNT      |     **Level 3 LEADER** |
+| :-------------------- | ---------------------: |
+| *Demon, Planar EV 36* |            \*\*EV \*\* |
+| **Stamina**:          |          **Weakness**: |
+| **Speed**:            | **Size**:  / Stability |
+|                       |   **[[Free Strike]]**: |
 
 | **Might** +2 | **Agility** +2 | **Reason** +2 | **Intuition** +2 | **Presence** +2 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -73,15 +73,9 @@ Effect: The chorogaunt kills the target, and each other ally gains an edge on at
 
 Effect: The chorogaunt shifts up to their speed, makes an Agonizing Harmony attack, shifts up to their speed, and makes a second Agonizing Harmony attack.
 
-**LEVEL 3 LEADER**
-
-**Demon, Planar EV 36**
-
-**Stamina:** 90 **Weakness:** Holy 3 **Speed:** 5 **Size:** 1L / Stability 2 **[[Free Strike]]:** 4
-
 **End Effect**
 
-At the end of their turn, the chorogaunt can take 5 damage to end one save-ends effect affecting them. This damage can’t be reduced in any way.
+At the end of their turn, the chorogaunt can take 5 damage to end one save-ends effect affecting them. This damage can't be reduced in any way.
 
 **Lethe**
 
@@ -89,4 +83,4 @@ While winded, the chorogaunt has an edge on attacks, and attacks have an edge ag
 
 **Soulsight**
 
-Each creature within 2 of the chorogaunt can’t be hidden from them.
+Each creature within 2 of the chorogaunt can't be hidden from them.

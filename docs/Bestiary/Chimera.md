@@ -1,11 +1,11 @@
 #### CHIMERA
 
-| CHIMERA      |        \*\*Level  \*\* |
-| :----------- | ---------------------: |
-| \*\*         |            \*\*EV \*\* |
-| **Stamina**: |          **Weakness**: |
-| **Speed**:   | **Size**:  / Stability |
-|              |   **[[Free Strike]]**: |
+| CHIMERA         |       **Level 3 SOLO** |
+| :-------------- | ---------------------: |
+| *Monster EV 88* |            \*\*EV \*\* |
+| **Stamina**:    |          **Weakness**: |
+| **Speed**:      | **Size**:  / Stability |
+|                 |   **[[Free Strike]]**: |
 
 | **Might** +3 | **Agility** +2 | **Reason** -2 | **Intuition** +1 | **Presence** 0 |
 | ------------ | -------------- | ------------- | ---------------- | -------------- |
@@ -26,7 +26,7 @@
 
 Effect: This attack has an edge if the chimera has an edge on the attack.
 
-**Dragon’s Eruption (7 Malice)**
+**Dragon's Eruption (7 Malice)**
 
 |                            |                                 |
 | :------------------------- | :------------------------------ |
@@ -39,7 +39,7 @@ Effect: This attack has an edge if the chimera has an edge on the attack.
 - ★ 12–16: 10 fire damage
 - ✸ 17+: 6 fire damage
 
-**Lion’s Toss (2d10 + 3)**
+**Lion's Toss (2d10 + 3)**
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
@@ -59,7 +59,7 @@ Effect: This attack has an edge if the chimera has an edge on the attack.
 - ★ 12–16: 8 psychic damage; I2 [[Frightened|frightened]] (save ends)
 - ✸ 17+: 10 psychic damage; I3 [[Frightened|frightened]] (save ends)
 
-**Ram’s Defiance (2d10 + 3)**
+**Ram's Defiance (2d10 + 3)**
 
 |                                 |                        |
 | :------------------------------ | :--------------------- |
@@ -77,7 +77,7 @@ Effect: The chimera shifts 5. If they end this movement adjacent to the target, 
 | Keywords: Area, Melee, Weapon | Type: Villain Action 1           |
 | Distance: 1 burst             | Target: All enemies in the burst |
 
-Effect: The chimera uses Bite and Lion’s Toss against each target.
+Effect: The chimera uses Bite and Lion's Toss against each target.
 
 **Fire Solo**
 
@@ -86,22 +86,16 @@ Effect: The chimera uses Bite and Lion’s Toss against each target.
 | Keywords: Area, Melee, Weapon | Type: Villain Action 2 |
 | Distance: Self                | Target: Self           |
 
-Effect: The chimera uses Dragon’s Eruption and Roar without spending malice.
+Effect: The chimera uses Dragon's Eruption and Roar without spending malice.
 
 **Chorus of Destruction**
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: —    | Type: Villain Action 3 |
+| Keywords: -    | Type: Villain Action 3 |
 | Distance: Self | Target: Self           |
 
-Effect: The chimera uses Roar. The chimera then shifts their speed and can make a [[Free Strike|free strike]] against each enemy who comes within 1 of them during the move. When the chimera ends this movement, they use Dragon’s Eruption.
-
-**LEVEL 3 SOLO**
-
-**Monster EV 88**
-
-**Stamina:** 240 **Immunity:** Fire 6 **Speed:** 10 ([[Fly|fly]]) **Size:** 2 / Stability 1 **[[Free Strike]]:** 6
+Effect: The chimera uses Roar. The chimera then shifts their speed and can make a [[Free Strike|free strike]] against each enemy who comes within 1 of them during the move. When the chimera ends this movement, they use Dragon's Eruption.
 
 **Solo Monster**
 

@@ -1,11 +1,11 @@
 #### DEMON TORLAS
 
-| DEMON TORLAS |        \*\*Level  \*\* |
-| :----------- | ---------------------: |
-| \*\*         |            \*\*EV \*\* |
-| **Stamina**: |          **Weakness**: |
-| **Speed**:   | **Size**:  / Stability |
-|              |   **[[Free Strike]]**: |
+| DEMON TORLAS         | **Level 1 CONTROLLER** |
+| :------------------- | ---------------------: |
+| *Demon, Planar EV 9* |            \*\*EV \*\* |
+| **Stamina**:         |          **Weakness**: |
+| **Speed**:           | **Size**:  / Stability |
+|                      |   **[[Free Strike]]**: |
 
 | **Might** 0 | **Agility** +1 | **Reason** 0 | **Intuition** | **Presence** +2 |
 | ----------- | -------------- | ------------ | ------------- | --------------- |
@@ -24,7 +24,7 @@
 - ★ 12–16: Slide 2
 - ✸ 17+: Slide 3
 
-Effect: The area turns into a morass of spongy flesh before the targets are force moved. Until the start of the torlas’s next turn, the area is [[Difficult Terrain|difficult terrain]], and each creature who moves within the area takes 1 damage for each square moved.
+Effect: The area turns into a morass of spongy flesh before the targets are force moved. Until the start of the torlas's next turn, the area is [[Difficult Terrain|difficult terrain]], and each creature who moves within the area takes 1 damage for each square moved.
 
 **Grasping Tendons**
 
@@ -35,16 +35,10 @@ Effect: The area turns into a morass of spongy flesh before the targets are forc
 
 Effect: The torlas pulls each target 3 squares.
 
-**LEVEL 1 CONTROLLER**
-
-**Demon, Planar EV 9**
-
-**Stamina:** 15 **Weakness:** Holy 3 **Speed:** 5 **Size:** 1S / Stability 0 **[[Free Strike]]:** 2
-
 **Lethe**
 
 While winded, the torlas has an edge on attacks, and attacks have an edge against them.
 
 **Soulsight**
 
-Each creature within 2 of the torlas can’t be hidden from them.
+Each creature within 2 of the torlas can't be hidden from them.

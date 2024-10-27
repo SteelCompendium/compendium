@@ -22,7 +22,10 @@
 
 - ✦ ≤11: 4 corruption damage; I1 [[Weakened|weakened]] (save ends)
 - ★ 12–16: 7 corruption damage; I2 [[Weakened|weakened]] (save ends)
-- ✸ 17+: 10 corruption damage; I3 [[Weakened|weakened]] (save ends) 2 Malice: The death cultist regains Stamina equal to half the damage dealt by this ability.
+- ✸ 17+: 10 corruption damage; I3 [[Weakened|weakened]] (save ends)
+
+**2 Malice**
+The death cultist regains Stamina equal to half the damage dealt by this ability.
 
 **Rise, My Minions (1 Malice per minion)**
 
@@ -38,4 +41,4 @@ Effect: Each target revives with their full Stamina. They immediately die at the
 
 **Supernatural Insight**
 
-The death cultist can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.
+The death cultist can target supernatural creatures and objects within 5 squares, even if they don't have line of effect.

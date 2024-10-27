@@ -32,8 +32,8 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 3 acid damage; M1 target can’t establish line of effect beyond 3 squares (save ends)
-- ★ 12–16: 5 acid damage; M2 target can’t establish line of effect beyond 2 squares (save ends)
+- ✦ ≤11: 3 acid damage; M1 target can't establish line of effect beyond 3 squares (save ends)
+- ★ 12–16: 5 acid damage; M2 target can't establish line of effect beyond 2 squares (save ends)
 
 **Reptilian Escape**
 

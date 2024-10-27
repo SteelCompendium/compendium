@@ -33,10 +33,10 @@
 
 **INU RR**
 
-- ✦ ≤11: [[Prone]] and can’t stand (save ends)
-- ★ 12–16: [[Prone]] and can’t stand (EoT)
+- ✦ ≤11: [[Prone]] and can't stand (save ends)
+- ★ 12–16: [[Prone]] and can't stand (EoT)
 - ✸ 17+: No effect
 
 **Crafty**
 
-The cursespitter doesn’t provoke opportunity attacks by moving.
+The cursespitter doesn't provoke opportunity attacks by moving.

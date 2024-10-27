@@ -27,7 +27,7 @@
 
 |                |              |
 | :------------- | :----------- |
-| Keywords: —    | Type: Action |
+| Keywords: -    | Type: Action |
 | Distance: Self | Target: Self |
 
 Effect: The drangolin shifts their speed and makes a Fiery Claws attack against each creature who comes within 1 during the move. The drangolin makes one power roll against all targets.
@@ -48,4 +48,4 @@ Effect: This attack has an edge against targets directly above the drangolin.
 
 **Ash Shot**
 
-An enemy adjacent to the drangolin has resistance and can’t be hidden.
+An enemy adjacent to the drangolin has resistance and can't be hidden.

@@ -28,4 +28,4 @@ Effect: A creature within 5 squares of the death acolyte regains 1 Stamina.
 
 **Supernatural Insight**
 
-The death acolyte can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.
+The death acolyte can target supernatural creatures and objects within 5 squares, even if they don't have line of effect.

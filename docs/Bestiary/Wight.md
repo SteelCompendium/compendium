@@ -33,8 +33,8 @@ Effect: The target appears to rapidly age each time they take damage from this a
 | Keywords: Magic, Ranged | Type: Maneuver        |
 | Distance: Ranged 3      | Target: One dead ally |
 
-Effect: The target revives with half their Stamina. The wight can’t use this maneuver again until they attack a creature with their lifestealer longsword.
+Effect: The target revives with half their Stamina. The wight can't use this maneuver again until they attack a creature with their lifestealer longsword.
 
 **Arise**
 
-The first time the wight is reduced to Stamina 0 by damage that isn’t fire damage or holy damage and their body isn’t destroyed, they regain half their Stamina and fall [[Prone|prone]].
+The first time the wight is reduced to Stamina 0 by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina and fall [[Prone|prone]].

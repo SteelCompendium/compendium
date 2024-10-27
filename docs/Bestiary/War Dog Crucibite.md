@@ -24,7 +24,7 @@
 - ★ 12–16: 5 fire damage
 - ✸ 17+: 6 fire damage
 
-Effect: The area is covered in sticky fire until the start of the crucibite’s next turn. Whenever a creature enters the area for the first time in a round or starts their turn there, they take 2 fire damage.
+Effect: The area is covered in sticky fire until the start of the crucibite's next turn. Whenever a creature enters the area for the first time in a round or starts their turn there, they take 2 fire damage.
 
 **Posthumous Promotion**
 
@@ -33,7 +33,7 @@ Effect: The area is covered in sticky fire until the start of the crucibite’s 
 | Keywords: Magic, Ranged | Type: Maneuver                            |
 | Distance: Ranged 10     | Target: One war dog with a loyalty collar |
 
-Effect: The target’s loyalty collar detonates, killing them instantly.
+Effect: The target's loyalty collar detonates, killing them instantly.
 
 **Loyalty Collar**
 

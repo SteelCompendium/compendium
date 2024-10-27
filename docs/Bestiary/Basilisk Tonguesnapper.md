@@ -1,8 +1,8 @@
 #### BASILISK TONGUESNAPPER
 
-| [[Basilisk\|BASILISK]] TONGUESNAPPER |           \*\*Level  \*\* |
+| [[Basilisk\|BASILISK]] TONGUESNAPPER |         **Level 1 HEXER** |
 | :----------------------------------- | ------------------------: |
-| \*\*                                 |                 **EV 26** |
+| *[[Basilisk]], Monster*              |                 **EV 26** |
 | **Stamina**: 50                      |             **Weakness**: |
 | **Speed**: 8                         | **Size**: 2 / Stability 2 |
 |                                      |    **[[Free Strike]]**: 4 |
@@ -24,12 +24,16 @@
 - ★ 12–16: 8 acid damage; pull 2
 - ✸ 17+: 12 acid damage; pull 3
 
+Effect: This attack can pull targets [[Restrained|restrained]] by Petrifying Eye Beams.
+
 **Petrifying Eye Beams (MGT RR)**
 
 |                                      |                 |
 | :----------------------------------- | :-------------- |
 | Keywords: Magic, Ranged, Resistance  | Type: Maneuver  |
 | Distance: Ranged 5 × 2 line within 1 | Target: Special |
+
+Effect: The tonguesnapper targets the first unobstructed creature in each column of the area. Each target magically begins to turn to stone. An already [[Slowed|slowed]] target has a bane on resisting the roll. A creature [[Restrained|restrained]] by this ability or a creature adjacent to them can use an action to cut the encroaching stone from their body, taking 8 damage which can't be reduced in any way and ending the effect.
 
 **Wink (2 Malice)**
 
@@ -44,18 +48,16 @@
 - ★ 12–16: 8 corruption damage; R2 [[Dazed|dazed]] (save ends)
 - ✸ 17+: 12 corruption damage; R3 [[Dazed|dazed]] and [[Slowed|slowed]] (save ends)
 
+Effect: A creature [[Dazed|dazed]] by this ability can't benefit from edges or concealment until the condition ends.
+
 **Neurotoxin Splash**
 
 |                   |                                  |
 | :---------------- | :------------------------------- |
-| Keywords: —       | Type: Triggered Action           |
+| Keywords: -       | Type: Triggered Action           |
 | Distance: 2 burst | Target: All enemies in the burst |
 
 Trigger: The tonguesnapper takes Weapon damage.
-
-**LEVEL 1 HEXER**
-
-*[[Basilisk]], Monster*
 
 **Petrifying Fumes**
 

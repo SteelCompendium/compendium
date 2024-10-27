@@ -23,7 +23,10 @@
 - ✦ ≤11: 4 damage; push 1
 - ★ 12–16: 7 damage; push 3
 
-Effect: The tree chirurgeon can make a ranged [[Free Strike|free strike]] before attacking. 5 Malice: The tree chirurgeon uses this ability again.
+Effect: The tree chirurgeon can make a ranged [[Free Strike|free strike]] before attacking.
+
+**5 Malice**
+The tree chirurgeon uses this ability again.
 
 **The Wode Protects Us (3 Malice)**
 

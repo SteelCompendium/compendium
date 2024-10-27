@@ -23,8 +23,7 @@
 - ✦ ≤11: 3 damage; push 1; M1 [[Slowed|slowed]] (save ends)
 - ★ 12–16: 5 damage; push 3; M2 [[Slowed|slowed]] (save ends)
 
-****Effect****
-A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this ability.
+Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this ability.
 
 **Sleep Grenade (3 Malice)**
 
@@ -38,9 +37,8 @@ A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this ab
 - ✦ ≤11: 3 poison damage; I1 [[Dazed|dazed]] (save ends)
 - ★ 12–16: 5 poison damage; I2 [[Dazed|dazed]] (save ends)
 
-****Effect****
-A creature [[Dazed|dazed]] by this ability has -1 to all characteristics while resisting potent effects until the condition ends.
+Effect: A creature [[Dazed|dazed]] by this ability has -1 to all characteristics while resisting potent effects until the condition ends.
 
 **Indirect Fire**
 
-The grenadier ignores cover and concealment and doesn’t need to establish line of effect for their abilities.
+The grenadier ignores cover and concealment and doesn't need to establish line of effect for their abilities.

@@ -36,11 +36,11 @@ Effect: This attack has edge against [[Prone|prone]] targets.
 
 |                |                           |
 | :------------- | :------------------------ |
-| Keywords: —    | Type: Maneuver            |
-| Distance: Self | Target: The horse’s rider |
+| Keywords: -    | Type: Maneuver            |
+| Distance: Self | Target: The horse's rider |
 
 Effect: Vertical slide 3; The rider can use a ranged ability at any point during the movement and then fall without taking damage.
 
 **Shared Otherworldly Grace**
 
-If the cradle horse’s rider has the Otherworldly Grace trait, it also gains the Otherworldly Grace trait.
+If the cradle horse's rider has the Otherworldly Grace trait, it also gains the Otherworldly Grace trait.

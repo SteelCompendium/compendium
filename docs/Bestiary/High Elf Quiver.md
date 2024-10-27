@@ -21,7 +21,7 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 5 damage; target’s speed reduced by 1 (EoT)
+- ★ 12–16: 5 damage; target's speed reduced by 1 (EoT)
 
 **Otherworldly Grace**
 

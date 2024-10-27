@@ -41,7 +41,7 @@ Effect: This ability has edge if the assassin has an edge on the power roll.
 
 **Crafty**
 
-The assassin doesn’t provoke opportunity attacks by moving.
+The assassin doesn't provoke opportunity attacks by moving.
 
 **[[Hide]] While Observed**
 

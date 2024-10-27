@@ -1,11 +1,11 @@
 #### DEMON RUINANT
 
-| DEMON RUINANT |        \*\*Level  \*\* |
-| :------------ | ---------------------: |
-| \*\*          |            \*\*EV \*\* |
-| **Stamina**:  |          **Weakness**: |
-| **Speed**:    | **Size**:  / Stability |
-|               |   **[[Free Strike]]**: |
+| DEMON RUINANT         |    **Level 1 HARRIER** |
+| :-------------------- | ---------------------: |
+| *Demon, Planar EV 10* |            \*\*EV \*\* |
+| **Stamina**:          |          **Weakness**: |
+| **Speed**:            | **Size**:  / Stability |
+|                       |   **[[Free Strike]]**: |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** | **Presence** +1 |
 | ----------- | -------------- | ------------ | ------------- | --------------- |
@@ -37,16 +37,10 @@
 - ★ 12–16: 5 corruption damage
 - ✸ 17+: 6 corruption damage
 
-**LEVEL 1 HARRIER**
-
-**Demon, Planar EV 10**
-
-**Stamina:** 20 **Weakness:** Holy 3 **Speed:** 6 **Size:** 1M / Stability 0 **[[Free Strike]]:** 2
-
 **Lethe**
 
 While winded, the ruinant has an edge on attacks, and attacks have an edge against them.
 
 **Soulsight**
 
-Each creature within 2 of the ruinant can’t be hidden from them.
+Each creature within 2 of the ruinant can't be hidden from them.

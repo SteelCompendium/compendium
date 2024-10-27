@@ -30,7 +30,7 @@ Effect: An ally within 10 of the monarch can make a [[Free Strike|free strike]].
 
 |                     |                 |
 | :------------------ | :-------------- |
-| Keywords: —         | Type: Maneuver  |
+| Keywords: -         | Type: Maneuver  |
 | Distance: Ranged 20 | Target: Special |
 
 Effect: Two [[Goblin Runner|goblin runners]] appear in unoccupied spaces.
@@ -39,7 +39,7 @@ Effect: Two [[Goblin Runner|goblin runners]] appear in unoccupied spaces.
 
 |                   |                        |
 | :---------------- | :--------------------- |
-| Keywords: —       | Type: Triggered Action |
+| Keywords: -       | Type: Triggered Action |
 | Distance: Melee 1 | Target: One ally       |
 
 Trigger: A creature targets the monarch with an attack.
@@ -59,7 +59,7 @@ Effect: Each target can move up to their speed or make a [[Free Strike|free stri
 
 |                     |                        |
 | :------------------ | :--------------------- |
-| Keywords: —         | Type: Villain Action 2 |
+| Keywords: -         | Type: Villain Action 2 |
 | Distance: Ranged 10 | Target: One enemy      |
 
 Effect: Each ally within 10 squares of the enemy can move up to their speed toward the enemy.
@@ -75,8 +75,8 @@ Effect: Each target can make a [[Free Strike|free strike]] with edge.
 
 **End Effect**
 
-At the end of their turn, the monarch can take 5 damage to end one save-ends effect affecting them. This damage can’t be reduced in any way.
+At the end of their turn, the monarch can take 5 damage to end one save-ends effect affecting them. This damage can't be reduced in any way.
 
 **Crafty**
 
-The monarch doesn’t provoke opportunity attacks by moving.
+The monarch doesn't provoke opportunity attacks by moving.

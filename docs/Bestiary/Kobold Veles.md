@@ -23,7 +23,7 @@
 - ✦ ≤11: 1 damage
 - ★ 12–16: 2 damage
 
-Effect: All kobolds ignore opportunity attacks from the target until the start of the veles’ next turn.
+Effect: All kobolds ignore opportunity attacks from the target until the start of the veles' next turn.
 
 **Shield? Shield!**
 

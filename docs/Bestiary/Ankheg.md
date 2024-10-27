@@ -1,8 +1,8 @@
 #### ANKHEG
 
-| ANKHEG                            |           \*\*Level  \*\* |
+| ANKHEG                            |          **Level 1 SOLO** |
 | :-------------------------------- | ------------------------: |
-| \*\*                              |                 **EV 60** |
+| *Monster*                         |                 **EV 60** |
 | **Stamina**: 120                  |             **Weakness**: |
 | **Speed**: 5 ([[Burrow\|burrow]]) | **Size**: 2 / Stability 2 |
 |                                   |    **[[Free Strike]]**: 5 |
@@ -24,6 +24,8 @@
 - ★ 12–16: 8 damage; [[Grabbed|grabbed]]
 - ✸ 17+: 11 damage; [[Grabbed|grabbed]]
 
+Effect: A size 1 target [[Grabbed|grabbed]] this way takes 8 acid damage at the start of each of their turns.
+
 **Claws (2d10 + 3)**
 
 |                                 |                                  |
@@ -44,6 +46,8 @@
 - ★ 12–16: 6 damage
 - ✸ 17+: 7 damage; push 2
 
+Effect: The ankheg [[Burrow|burrows]] up to their speed, then creates the burst when they breach the surface.
+
 **Dust Cloud**
 
 |                   |                 |
@@ -51,14 +55,18 @@
 | Keywords: Area    | Type: Maneuver  |
 | Distance: 1 burst | Target: Special |
 
+Effect: The ground around the ankheg becomes [[Difficult Terrain|difficult terrain]]. While the ankheg remains in their current space, they have concealment until the start of their next turn.
+
 **Skitter**
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: —    | Type: Triggered Action |
+| Keywords: -    | Type: Triggered Action |
 | Distance: Self | Target: Self           |
 
 Trigger: A creature damages the ankheg
+
+Effect: The ankheg shifts up to 3 squares.
 
 **Acid Breath (2d10 + 3)**
 
@@ -67,12 +75,16 @@ Trigger: A creature damages the ankheg
 | Keywords: Area, Weapon         | Type: Villain Action 1            |
 | Distance: 10 x 1 line within 1 | Target: Each creature in the line |
 
+Effect: The ground within the area is covered in a puddle of acid that lasts until the end of the encounter. A creature who enters the area for the first time in a round or starts their turn there takes 2 acid damage.
+
 **Sinkhole**
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: —    | Type: Villain Action 2 |
+| Keywords: -    | Type: Villain Action 2 |
 | Distance: Self | Target: Self           |
+
+Effect: The ankheg shifts up to their speed by burrowing. If the ankheg ends this move underground and within 2 squares of a creature on the surface, the ankheg makes a Bite attack against the creature.
 
 **Acid and Claws (2d10 + 3)**
 
@@ -80,10 +92,6 @@ Trigger: A creature damages the ankheg
 | :--------------------- | :--------------------------------- |
 | Keywords: Area, Weapon | Type: Villain Action 3             |
 | Distance: 2 burst      | Target: Each creature in the burst |
-
-**LEVEL 1 SOLO**
-
-*Monster*
 
 **Solo Monster**
 
@@ -93,7 +101,7 @@ A [[Prone|prone]] creature gains an edge on melee attacks against the ankheg ins
 
 **Earthwalk**
 
-[[Difficult Terrain|Difficult terrain]] composed of earth or loose rock doesn’t cost the ankheg extra movement.
+[[Difficult Terrain|Difficult terrain]] composed of earth or loose rock doesn't cost the ankheg extra movement.
 
 **Tunneler**
 

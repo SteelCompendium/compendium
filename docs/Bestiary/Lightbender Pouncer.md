@@ -32,7 +32,7 @@ Effect: The pouncer makes a [[Free Strike|free strike]] against each target they
 | Keywords: Area, Magic | Type: Action                                 |
 | Distance: 2 burst     | Target: All enemies and objects in the burst |
 
-Effect: A dazzled creature has a bane on their attacks and can’t have line of effect to targets who aren’t adjacent to them.
+Effect: A dazzled creature has a bane on their attacks and can't have line of effect to targets who aren't adjacent to them.
 
 **Illusory Feint (5 Malice)**
 
@@ -57,7 +57,7 @@ Effect: Targets [[Dazed|dazed]] by this ability have a speed of 0 while [[Dazed|
 
 Trigger: The [[Lightbender|lightbender]] is damaged by an attack
 
-Effect: The [[Lightbender|lightbender]] halves the damage, doesn’t suffer any associated effect, and [[Teleport|teleports]] 5 squares. The pouncer makes a [[Free Strike|free strike]] if they [[Teleport|teleport]] into a space adjacent to an enemy.
+Effect: The [[Lightbender|lightbender]] halves the damage, doesn't suffer any associated effect, and [[Teleport|teleports]] 5 squares. The pouncer makes a [[Free Strike|free strike]] if they [[Teleport|teleport]] into a space adjacent to an enemy.
 
 **Avoidance**
 

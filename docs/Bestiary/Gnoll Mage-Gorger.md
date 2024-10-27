@@ -23,7 +23,7 @@
 - ✦ ≤11: 2 acid damage
 - ★ 12–16: 3 cold damage
 
-Effect: The target has a bane on their next resistance roll until the start of the mage-gorger’s next turn.
+Effect: The target has a bane on their next resistance roll until the start of the mage-gorger's next turn.
 
 **Death Frenzy**
 

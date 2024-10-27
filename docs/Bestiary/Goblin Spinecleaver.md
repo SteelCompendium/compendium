@@ -26,4 +26,4 @@
 
 **Crafty**
 
-The spinecleaver doesn’t provoke opportunity attacks by moving.
+The spinecleaver doesn't provoke opportunity attacks by moving.

@@ -24,8 +24,8 @@
 - ★ 12–16: 4 lightning damage
 - ✸ 17+: 5 lightning damage
 
-Effect: If the apprentice mage doesn’t use a maneuver or a move action this turn, the target is [[Slowed|slowed]] (EoT).
+Effect: If the apprentice mage doesn't use a maneuver or a move action this turn, the target is [[Slowed|slowed]] (EoT).
 
 **Studied Supernatural Insight**
 
-The apprentice can target supernatural creatures and objects within 10 squares, even if they don’t have line of effect.
+The apprentice can target supernatural creatures and objects within 10 squares, even if they don't have line of effect.

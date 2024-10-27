@@ -23,7 +23,7 @@
 - ✦ ≤11: 3 damage; M1 [[Slowed|slowed]] (save ends)
 - ★ 12–16: 5 damage; M2 [[Slowed|slowed]] (save ends)
 
-****2 Malice****
+**2 Malice**
 Pull 5. A target [[Restrained|restrained]] by a [[Dwarf|dwarf]], including by this ability, can be pulled this way.
 
 **Reel Them In (3 Malice)**
@@ -33,8 +33,7 @@ Pull 5. A target [[Restrained|restrained]] by a [[Dwarf|dwarf]], including by th
 | Keywords: Ranged, Weapon | Type: Maneuver      |
 | Distance: Ranged 10      | Target: 3 creatures |
 
-****Effect****
-Pull 5. A [[Slowed|slowed]] or [[Restrained|restrained]] target is pulled an additional 2. A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pulled this way.
+Effect: Pull 5. A [[Slowed|slowed]] or [[Restrained|restrained]] target is pulled an additional 2. A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pulled this way.
 
 **We Have a Quota!**
 

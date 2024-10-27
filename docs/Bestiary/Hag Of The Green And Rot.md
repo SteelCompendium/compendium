@@ -42,7 +42,10 @@ Effect: This ability has an edge against creatures with a soul. The hag regains 
 | Keywords: Magic | Type: Maneuver |
 | Distance: Self  | Target: Self   |
 
-Effect: The hag alters their body to become any Size-1 creature, such as a house cat. If the hag uses this ability while outside of an enemy’s line of effect, the hag is considered hidden. The hag can return to their original form as a free maneuver. 5 Malice: The hag becomes a Size-2 creature instead, such as a bear. While in this form, the distance of their melee abilities increases by 1 and has reach.
+Effect: The hag alters their body to become any Size-1 creature, such as a house cat. If the hag uses this ability while outside of an enemy's line of effect, the hag is considered hidden. The hag can return to their original form as a free maneuver.
+
+**5 Malice**
+The hag becomes a Size-2 creature instead, such as a bear. While in this form, the distance of their melee abilities increases by 1 and has reach.
 
 **Turned Upside Down (2 Malice)**
 

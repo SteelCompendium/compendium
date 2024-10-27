@@ -36,7 +36,7 @@ An adjacent creature can attempt an easy Agility test to remove the detonator as
 | Keywords: Magic, Ranged | Type: Maneuver                            |
 | Distance: Ranged 10     | Target: One war dog with a loyalty collar |
 
-Effect: The target’s loyalty collar detonates, killing them instantly.
+Effect: The target's loyalty collar detonates, killing them instantly.
 
 **Loyalty Collar**
 

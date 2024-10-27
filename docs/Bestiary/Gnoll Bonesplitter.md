@@ -23,16 +23,16 @@
 - ✦ ≤11: 4 damage; push 2
 - ★ 12–16: 7 damage; [[Grabbed|grabbed]]; M2 target has a bane on attempts to [[Escape Grab|escape grab]]
 
-Effect: The bonesplitter can’t use three-tail flail on another target while the current target is [[Grabbed|grabbed]].
+Effect: The bonesplitter can't use three-tail flail on another target while the current target is [[Grabbed|grabbed]].
 
 **Cackletongue (3 Malice)**
 
 |                            |                             |
 | :------------------------- | :-------------------------- |
-| Keywords: —                | Type: Maneuver              |
+| Keywords: -                | Type: Maneuver              |
 | Distance: Self and 2 burst | Target: Self and all allies |
 
-Effect: Each target makes a [[Free Strike|free strike]]. Targets who haven’t used a cackletongue maneuver on this turn use it immediately at no cost.
+Effect: Each target makes a [[Free Strike|free strike]]. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
 
 **Death Frenzy**
 

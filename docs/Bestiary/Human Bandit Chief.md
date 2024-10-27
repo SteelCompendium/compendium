@@ -24,7 +24,10 @@
 - ★ 12–16: 9 damage; pull 2
 - ✸ 17+: 12 damage; pull 3
 
-Effect: A target who is adjacent to the bandit chief after the attack is resolved takes double edge corruption damage. 2 Malice: The bandit chief attacks an additional target.
+Effect: A target who is adjacent to the bandit chief after the attack is resolved takes double edge corruption damage.
+
+**2 Malice**
+The bandit chief attacks an additional target.
 
 **Kneel, Peasant! (2d10 + 3)**
 
@@ -32,6 +35,9 @@ Effect: A target who is adjacent to the bandit chief after the attack is resolve
 | :------------------------------ | :-------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Maneuver              |
 | Distance: Melee 1               | Target: One enemy or object |
+
+**2 Malice**
+This ability targets each enemy adjacent to the bandit chief.
 
 **Bloodstones**
 
@@ -66,15 +72,15 @@ Effect: Each target shifts up to their speed. Until the end of the encounter, th
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: —    | Type: Villain Action 3 |
+| Keywords: -    | Type: Villain Action 3 |
 | Distance: Self | Target: Self           |
 
 Effect: Shift 10 squares. During or after this movement, the bandit chief can attack up to four targets with Whip & Magic Longsword. Each ally adjacent to a target can make a [[Free Strike|free strike]] against them.
 
 **End Effect**
 
-At the end of their turn, the bandit chief can take 5 damage to end one "save ends" effect affecting them. This damage can’t be reduced in any way.
+At the end of their turn, the bandit chief can take 5 damage to end one "save ends" effect affecting them. This damage can't be reduced in any way.
 
 **Heightened Supernatural Insight**
 
-The bandit chief can target supernatural creatures and objects within 15 squares, even if they don’t have line of effect.
+The bandit chief can target supernatural creatures and objects within 15 squares, even if they don't have line of effect.

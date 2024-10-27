@@ -29,10 +29,10 @@ Effect: This attack has edge against creatures the abyssal archer has previously
 
 |                            |                             |
 | :------------------------- | :-------------------------- |
-| Keywords: —                | Type: Maneuver              |
+| Keywords: -                | Type: Maneuver              |
 | Distance: Self and 2 burst | Target: Self and all allies |
 
-Effect: Each target has an edge on their next attack before the end of their next turn. Targets who haven’t used a cackletongue maneuver on this turn use it immediately at no cost.
+Effect: Each target has an edge on their next attack before the end of their next turn. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
 
 **Death Frenzy**
 
@@ -40,4 +40,4 @@ Whenever an ally within 5 is reduced to 0 Stamina, the abyssal archer moves up t
 
 **Bloodscent**
 
-The abyssal archer can target creatures not at full Stamina with abilities, even if they don’t have line of effect.
+The abyssal archer can target creatures not at full Stamina with abilities, even if they don't have line of effect.

@@ -23,16 +23,19 @@
 - ✦ ≤11: 2 damage; pull 1
 - ★ 12–16: 4 damage; pull 2
 
-Effect: If the target’s [[Forced Movement|forced movement]] triggers a trap, the target has a bane on all resistance rolls against that trap.
+Effect: If the target's [[Forced Movement|forced movement]] triggers a trap, the target has a bane on all resistance rolls against that trap.
 
 **Activate Trap**
 
 |                     |                                  |
 | :------------------ | :------------------------------- |
-| Keywords: —         | Type: Maneuver                   |
+| Keywords: -         | Type: Maneuver                   |
 | Distance: Ranged 10 | Target: 1 trap or terrain object |
 
-Effect: The trap or terrain object instantly triggers. 3 Malice: The artifex can place a new trap in the encounter and instantly trigger it.
+Effect: The trap or terrain object instantly triggers.
+
+**3 Malice**
+The artifex can place a new trap in the encounter and instantly trigger it.
 
 **Shield? Shield!**
 

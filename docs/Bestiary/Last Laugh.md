@@ -29,10 +29,10 @@ Effect: An ally targeted by this ability makes a [[Free Strike|free strike]] ins
 
 |                            |                             |
 | :------------------------- | :-------------------------- |
-| Keywords: —                | Type: Maneuver              |
+| Keywords: -                | Type: Maneuver              |
 | Distance: Self and 5 burst | Target: Self and all allies |
 
-Effect: Each target has edge until the start of the last laugh’s next turn. Targets who haven’t used a cackletongue maneuver on this turn use it immediately at no cost.
+Effect: Each target has edge until the start of the last laugh's next turn. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
 
 **Not the Best Time to Laugh (INU RR)**
 
@@ -47,7 +47,7 @@ Effect: While [[Frightened|frightened]] by this ability, targets laugh uncontrol
 
 |                     |                        |
 | :------------------ | :--------------------- |
-| Keywords: —         | Type: Villain Action 2 |
+| Keywords: -         | Type: Villain Action 2 |
 | Distance: Ranged 10 | Target: Special        |
 
 Effect: The last laugh summons 5 [[Gnoll Wildling|gnoll wildlings]] and 5 [[Abyssal Hyena|abyssal hyenas]] into unoccupied spaces.
@@ -67,4 +67,4 @@ Whenever an ally within 5 is reduced to 0 Stamina, the last laugh moves up to th
 
 **Running Joke**
 
-If the last laugh is reduced to 0 Stamina while there are still gnolls on the battle map, one gnoll on the map is transformed into the last laugh, keeping the gnoll’s Stamina.
+If the last laugh is reduced to 0 Stamina while there are still gnolls on the battle map, one gnoll on the map is transformed into the last laugh, keeping the gnoll's Stamina.

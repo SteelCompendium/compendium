@@ -29,10 +29,10 @@ Effect: Shift 2.
 
 |                            |                             |
 | :------------------------- | :-------------------------- |
-| Keywords: —                | Type: Maneuver              |
+| Keywords: -                | Type: Maneuver              |
 | Distance: Self and 2 burst | Target: Self and all allies |
 
-Effect: Each target shifts up to their speed. Targets who haven’t used a cackletongue maneuver on this turn use it immediately at no cost.
+Effect: Each target shifts up to their speed. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
 
 **Death Frenzy**
 

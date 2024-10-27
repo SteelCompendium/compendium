@@ -48,4 +48,4 @@ Effect: The piper makes a [[Free Strike|free strike]] against the target.
 
 **Musical Suggestion**
 
-At the end of the piper’s turn, they can choose an adjacent creature and slide them 2, ignoring stability.
+At the end of the piper's turn, they can choose an adjacent creature and slide them 2, ignoring stability.

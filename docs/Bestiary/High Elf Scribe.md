@@ -23,7 +23,7 @@
 - ✦ ≤11: 2 corruption damage
 - ★ 12–16: 4 corruption damage
 
-Effect: The next attack made against the target before the start of the scribe’s next turn has edge.
+Effect: The next attack made against the target before the start of the scribe's next turn has edge.
 
 **Otherworldly Grace**
 

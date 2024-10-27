@@ -33,6 +33,9 @@ Effect: Each ally within distance can use Ready Rodent as a free triggered actio
 | Keywords: Magic, Ranged, Resistance | Type: Maneuver      |
 | Distance: Ranged 10                 | Target: Two enemies |
 
+**3 Malice**
+Each ally within 3 of a target has their speed increased by 2 until the end of their next turn.
+
 **Ever Ready Rodent (2 Malice)**
 
 |                                |                             |
@@ -73,4 +76,4 @@ Effect: Each target stands, makes a [[Free Strike|free strike]], then collapses 
 
 **End Effect**
 
-At the end of their turn, the maestro can take 5 damage to end one save ends effect affecting them. This damage can’t be reduced in any way.
+At the end of their turn, the maestro can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.

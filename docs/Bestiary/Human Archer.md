@@ -26,4 +26,4 @@
 
 **Supernatural Insight**
 
-The archer can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.
+The archer can target supernatural creatures and objects within 5 squares, even if they don't have line of effect.
