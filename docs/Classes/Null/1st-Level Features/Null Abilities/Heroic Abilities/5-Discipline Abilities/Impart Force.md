@@ -21,10 +21,11 @@ target: 1 creature or object
 # Impart Force (5 Discipline)
 
 > A single touch from you and your enemy flies backward.
-> |  |  |
-> | :\------------------------------------------------ | :-------------------------------- |
-> | **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Maneuver |
-> | **Distance:** Melee 1 | **Target:** 1 creature or object |
+
+|                                              |                                  |
+| :------------------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Maneuver               |
+| **Distance:** Melee 1                        | **Target:** 1 creature or object |
 
 **Power Roll + Intuition:**
 

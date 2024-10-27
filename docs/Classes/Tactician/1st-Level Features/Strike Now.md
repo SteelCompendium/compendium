@@ -27,5 +27,6 @@ Your foe left an opening. You point this out to an ally!
 | **Keywords:** Ranged    | **Type:** Action   |
 | **Distance:** Ranged 10 | **Target:** 1 ally |
 
-**Effect:** The target makes a signature attack as a free triggered action.\
+**Effect:** The target makes a signature attack as a free triggered action.
+
 **Spend 5 Focus:** You target two allies instead of one.

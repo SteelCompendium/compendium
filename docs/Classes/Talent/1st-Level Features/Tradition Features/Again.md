@@ -29,6 +29,6 @@ You gain access to the following triggered action:
 | **Keywords:** Psionic, Ranged   | **Type:** Triggered            |
 | **Distance:** Self or Ranged 10 | **Target:** Self or 1 creature |
 
-**Trigger:** The target makes an attack. You can use this ability after seeing the result of the roll. You gain 1 clarity.
+- **Trigger:** The target makes an attack. You can use this ability after seeing the result of the roll. You gain 1 clarity.
 
 **Effect:** You force the target to reroll the power roll and use the new result, even if the original result was a critical hit.

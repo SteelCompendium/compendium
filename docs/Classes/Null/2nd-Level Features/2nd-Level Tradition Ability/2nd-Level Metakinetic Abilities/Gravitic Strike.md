@@ -21,10 +21,11 @@ target: 1 creature
 # Gravitic Strike (5 Discipline)
 
 > Your fist projects gravitic force that pulls a distant enemy closer.
-> |  |  |
-> | :\------------------------------------------------ | :-------------------------------- |
-> | **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action |
-> | **Distance:** Melee 3 | **Target:** 1 creature |
+
+|                                              |                        |
+| :------------------------------------------- | :--------------------- |
+| **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action       |
+| **Distance:** Melee 3                        | **Target:** 1 creature |
 
 **Power Roll + Agility:**
 

@@ -30,5 +30,6 @@ A howl erupts from you that hurls your enemies back.
 
 - 11 or lower: 6 damage; push 2
 - 12–16: 9 damage; push 4
-- 17+: 13 damage; push 6\
-  **Effect:** Targets are pushed one at a time, starting with the target closest to you.
+- 17+: 13 damage; push 6
+
+**Effect:** Targets are pushed one at a time, starting with the target closest to you.

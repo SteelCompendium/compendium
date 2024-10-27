@@ -4,6 +4,14 @@ title: Pugilist
 name_raw: Pugilist
 name: Pugilist
 type: kits
+keywords: Attack, Melee, Weapon
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
+ability_type: Action
+distance: Melee 1
+target: 1 creature
 ---
 
 # Pugilist
@@ -25,11 +33,12 @@ You wear no armor and wield only your unarmed strikes.
 
 **LET'S DANCE**
 
-Keeping your enemies stumbling around the battlefield is second nature to you.\
-*Keywords:* Attack, Melee, Weapon\
-*Type:* Action\
-*Distance:* Melee 1\
-*Target:* 1 creature
+Keeping your enemies stumbling around the battlefield is second nature to you.
+
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
+| **Distance:** Melee 1               | **Target:** 1 creature |
 
 *Power Roll + Might or Agility:*
 

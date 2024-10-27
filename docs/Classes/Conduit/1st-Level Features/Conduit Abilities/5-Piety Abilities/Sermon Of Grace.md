@@ -25,4 +25,4 @@ You inspire your allies with tales of your saint's great deeds.
 | **Keywords:** Area, Magic | **Type:** Action       |
 | **Distance:** 3 burst     | **Target:** All allies |
 
-- **Effect:** Each target can spend a Recovery, end one effect that is ended by a saving throw or that ends at the end of their turn, or use the Stand Up maneuver as a free triggered action.
+**Effect:** Each target can spend a Recovery, end one effect that is ended by a saving throw or that ends at the end of their turn, or use the Stand Up maneuver as a free triggered action.

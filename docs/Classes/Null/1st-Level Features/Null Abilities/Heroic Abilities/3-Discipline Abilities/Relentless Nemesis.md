@@ -21,10 +21,11 @@ target: 1 creature or object
 # Relentless Nemesis (3 Discipline)
 
 > You strike, and for the next few moments, your enemy can't escape you.
-> |  |  |
-> | :\------------------------------------------------ | :-------------------------------- |
-> | **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action |
-> | **Distance:** Melee 1 | **Target:** 1 creature or object |
+
+|                                              |                                  |
+| :------------------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action                 |
+| **Distance:** Melee 1                        | **Target:** 1 creature or object |
 
 **Power Roll + Agility:**
 

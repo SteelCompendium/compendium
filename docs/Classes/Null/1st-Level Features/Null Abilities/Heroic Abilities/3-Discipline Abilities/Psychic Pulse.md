@@ -19,9 +19,10 @@ target: All enemies
 # Psychic Pulse (3 Discipline)
 
 > You release a burst of psionic energy that interferes with your enemy's synapses.
-> |  |  |
-> | :\----------------------------------- | :-------------------------------- |
-> | **Keywords:** Area, Psionic | **Type:** Maneuver |
-> | **Distance:** 2 burst | **Target:** All enemies |
+
+|                             |                         |
+| :-------------------------- | :---------------------- |
+| **Keywords:** Area, Psionic | **Type:** Maneuver      |
+| **Distance:** 2 burst       | **Target:** All enemies |
 
 **Effect:** Each target takes (SURGE)(SURGE) psychic damage. Until the beginning of your next turn, your Null Field distance increases by 1, and each enemy that starts their turn in the aura takes your (SURGE) psychic damage.

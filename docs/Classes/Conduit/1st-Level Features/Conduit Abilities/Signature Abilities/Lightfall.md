@@ -27,9 +27,7 @@ A rain of holy light scours your enemies and repositions your allies.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 1 holy damage
-
 - **12–16:** 2 holy damage
-
 - **17+:** 3 holy damage
 
-- **Effect:** You can teleport each ally in the area and yourself if you're in the area to any unoccupied space within the area.
+**Effect:** You can teleport each ally in the area and yourself if you're in the area to any unoccupied space within the area.

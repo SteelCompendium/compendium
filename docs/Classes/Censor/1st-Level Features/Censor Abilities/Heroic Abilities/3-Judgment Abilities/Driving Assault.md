@@ -28,4 +28,4 @@ target: 1 creature or object
 
 **Power Roll + Might:** - 11 or lower: 6 damage; push 1 - 12-16: 6 damage; push 3 - 17+: 9 damage; push 5
 
-- **Effect:** You can shift your speed as long as you end that shift within distance of the target.
+**Effect:** You can shift your speed as long as you end that shift within distance of the target.

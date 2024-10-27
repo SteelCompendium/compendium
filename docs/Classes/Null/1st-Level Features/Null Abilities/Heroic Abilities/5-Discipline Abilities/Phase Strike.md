@@ -21,10 +21,11 @@ target: 1 creature
 # Phase Strike (5 Discipline)
 
 > For a moment, your foe is out of phase with this manifold.
-> |  |  |
-> | :\------------------------------------------------ | :-------------------------------- |
-> | **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action |
-> | **Distance:** Melee 1 | **Target:** 1 creature |
+
+|                                              |                        |
+| :------------------------------------------- | :--------------------- |
+| **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action       |
+| **Distance:** Melee 1                        | **Target:** 1 creature |
 
 **Power Roll + Agility:**
 

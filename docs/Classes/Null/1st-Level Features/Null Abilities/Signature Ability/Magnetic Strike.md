@@ -20,10 +20,11 @@ target: 1 creature or object
 # Magnetic Strike
 
 > The force of your blow extends past the limits of your body, and pulls your enemy closer.
-> |  |  |
-> | :\------------------------------------------------ | :-------------------------------- |
-> | **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action |
-> | **Distance:** Melee 2 | **Target:** 1 creature or object |
+
+|                                              |                                  |
+| :------------------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action                 |
+| **Distance:** Melee 2                        | **Target:** 1 creature or object |
 
 **Power Roll + Agility:**
 

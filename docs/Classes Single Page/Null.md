@@ -82,10 +82,11 @@ You have the ability to project a psionic field of order around your body. This 
 #### Null Field
 
 > Magic is a form of chaos. My body is beyond such things
-> |  |  |
-> | :\----------------------------------- | :-------------------------------- |
-> | **Keywords:** Psionic | **Type:** Maneuver |
-> | **Distance:** Self | **Target:** Self |
+
+|                       |                    |
+| :-------------------- | :----------------- |
+| **Keywords:** Psionic | **Type:** Maneuver |
+| **Distance:** Self    | **Target:** Self   |
 
 **Effect:** Until you are dying, attacks with the Magic or Psionic keyword take a bane if they target a target within the aura or are made by an enemy within the aura. Resistance rolls against abilities with the Magic or Psionic keyword have an edge if they target a target within the aura or are used by an enemy within the aura. These effects increase to a double bane or a double edge, respectively, if the creature using the ability is grabbed by you.
 
@@ -97,7 +98,8 @@ Your body has been trained to predict when attacks will happen before they happe
 
 > You intuit where an incoming attack will strike, reducing its effects.
 
-**Trigger:** You take damage.\
+- **Trigger:** You take damage.
+
 **Effect:** You gain (SHIELD) for the attack and reduce any potency of effects associated with the damage by 1.
 
 ### Mastery
@@ -112,19 +114,19 @@ You gain a bonus to your Speed equal to your Agility. When you take the Disengag
 **Discipline Benefit**
 
 - **3**
-  - When you use the Inertial Shield triggered action, you can use the Disengage move action as a free triggered action.
-  - When you take the Disengage move action, you can slide an adjacent creature a number of squares equal to your Agility.
+    - When you use the Inertial Shield triggered action, you can use the Disengage move action as a free triggered action.
+    - When you take the Disengage move action, you can slide an adjacent creature a number of squares equal to your Agility.
 - **6**
-  - Whenever you use the Inertial Shield triggered action, you can do (SURGE) psychic damage to a creature of your choice within your Null Field and make them suffer a \[weak\] version of any effect you beat using that triggered action.
+    - Whenever you use the Inertial Shield triggered action, you can do (SURGE) psychic damage to a creature of your choice within your Null Field and make them suffer a \[weak\] version of any effect you beat using that triggered action.
 - **9**
-  - When you take the Disengage move action, you can slide one adjacent creature a number of squares equal to twice your Agility.
+    - When you take the Disengage move action, you can slide one adjacent creature a number of squares equal to twice your Agility.
 - **12 (Level 4)**
-  - Whenever you use the Inertial Shield triggered action, you can do (SURGE)(SURGE) psychic damage to a creature of your choice within your Null Field and make them suffer an \[average\] version of any effect you beat using that triggered action.
+    - Whenever you use the Inertial Shield triggered action, you can do (SURGE)(SURGE) psychic damage to a creature of your choice within your Null Field and make them suffer an \[average\] version of any effect you beat using that triggered action.
 - **15 (Level 7)**
-  - When you take the Disengage move action, you can slide two adjacent creatures a number of squares equal to triple your Agility score.
+    - When you take the Disengage move action, you can slide two adjacent creatures a number of squares equal to triple your Agility score.
 - **18 (Level 10)**
-  - Whenever you use the Inertial Shield triggered action, you can do (SURGE)(SURGE)(SURGE) psychic damage to a creature of your choice within your Null Field and make them suffer a \[strong\] version of any effect you beat using that triggered action.
-  - If you move at least 5 squares on your turn, you can do (SURGE)(SURGE)(SURGE) damage against one target you attack after making this movement.
+    - Whenever you use the Inertial Shield triggered action, you can do (SURGE)(SURGE)(SURGE) psychic damage to a creature of your choice within your Null Field and make them suffer a \[strong\] version of any effect you beat using that triggered action.
+    - If you move at least 5 squares on your turn, you can do (SURGE)(SURGE)(SURGE) damage against one target you attack after making this movement.
 
 #### Cryokinetic Mastery
 
@@ -133,19 +135,19 @@ Enemies treat squares within your Null Aura as difficult terrain.
 **Discipline Benefit**
 
 - **3**
-  - When you use the Inertial Shield triggered action, you can slide the triggering attacker a number of squares equal to your Intuition.
-  - Enemies that enter or begin their turn in your Null Field suffer A \[weak\] slowed (save ends).
+    - When you use the Inertial Shield triggered action, you can slide the triggering attacker a number of squares equal to your Intuition.
+    - Enemies that enter or begin their turn in your Null Field suffer A \[weak\] slowed (save ends).
 - **6**
-  - Whenever you use the Inertial Shield triggered action, you can do (SURGE) cold damage to a creature of your choice within your Null Field and make them suffer a \[weak\] version of any effect you beat using that triggered action.
+    - Whenever you use the Inertial Shield triggered action, you can do (SURGE) cold damage to a creature of your choice within your Null Field and make them suffer a \[weak\] version of any effect you beat using that triggered action.
 - **9**
-  - Enemies that enter or begin their turn in your Null Field suffer A \[average\] slowed (save ends).
+    - Enemies that enter or begin their turn in your Null Field suffer A \[average\] slowed (save ends).
 - **12 (Level 4)**
-  - Whenever you use the Inertial Shield triggered action, you can do (SURGE)(SURGE) cold damage to a creature of your choice within your Null Field and make them suffer an \[average\] version of any effect you beat using that triggered action.
+    - Whenever you use the Inertial Shield triggered action, you can do (SURGE)(SURGE) cold damage to a creature of your choice within your Null Field and make them suffer an \[average\] version of any effect you beat using that triggered action.
 - **15 (Level 7)**
-  - Enemies that enter or begin their turn in your Null Field suffer A \[strong\] slowed (save ends).
+    - Enemies that enter or begin their turn in your Null Field suffer A \[strong\] slowed (save ends).
 - **18 (Level 10)**
-  - Whenever you use the Inertial Shield triggered action, you can do (SURGE)(SURGE)(SURGE) cold damage to a creature of your choice within your Null Field and make them suffer a \[strong\] version of any effect you beat using that triggered action.
-  - You ignore any cold immunity a target has and automatically get a Tier 3 on any attacks against a target with cold weakness.
+    - Whenever you use the Inertial Shield triggered action, you can do (SURGE)(SURGE)(SURGE) cold damage to a creature of your choice within your Null Field and make them suffer a \[strong\] version of any effect you beat using that triggered action.
+    - You ignore any cold immunity a target has and automatically get a Tier 3 on any attacks against a target with cold weakness.
 
 #### Metakinetic Mastery
 
@@ -154,19 +156,19 @@ You gain a bonus to Stability equal to your Intuition score.
 **Discipline Benefit**
 
 - **3**
-  - When you use the Inertial Shield triggered action, you can push the triggering attacker a number of squares equal to your Intuition.
-  - You gain (SHIELD).
+    - When you use the Inertial Shield triggered action, you can push the triggering attacker a number of squares equal to your Intuition.
+    - You gain (SHIELD).
 - **6**
-  - Whenever you use the Inertial Shield triggered action, you can push a creature of your choice within your Null Field a number of squares equal to your Intuition and make them suffer a \[weak\] version of any effect you beat using that triggered action.
+    - Whenever you use the Inertial Shield triggered action, you can push a creature of your choice within your Null Field a number of squares equal to your Intuition and make them suffer a \[weak\] version of any effect you beat using that triggered action.
 - **9**
-  - You gain (SHIELD) and do (SURGE) to any targets you force move.
+    - You gain (SHIELD) and do (SURGE) to any targets you force move.
 - **12 (Level 4)**
-  - Whenever you use the Inertial Shield triggered action, you can push a creature of your choice within your Null Field a number of squares equal to twice your Intuition and make them suffer an \[average\] version of any effect you beat using that triggered action.
+    - Whenever you use the Inertial Shield triggered action, you can push a creature of your choice within your Null Field a number of squares equal to twice your Intuition and make them suffer an \[average\] version of any effect you beat using that triggered action.
 - **15 (Level 7)**
-  - You gain (SHIELD)(SHIELD) and do (SURGE)(SURGE) to any targets you force move.
+    - You gain (SHIELD)(SHIELD) and do (SURGE)(SURGE) to any targets you force move.
 - **18 (Level 10)**
-  - Whenever you use the Inertial Shield triggered action, you can push a creature of your choice within your Null Field a number of squares equal to triple your Intuition and make them suffer a \[strong\] version of any effect you beat using that triggered action.
-  - You add your Intuition to any forced movement effects you apply.
+    - Whenever you use the Inertial Shield triggered action, you can push a creature of your choice within your Null Field a number of squares equal to triple your Intuition and make them suffer a \[strong\] version of any effect you beat using that triggered action.
+    - You add your Intuition to any forced movement effects you apply.
 
 ### Mind-body Focus
 

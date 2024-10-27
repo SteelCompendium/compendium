@@ -15,12 +15,12 @@ Your encyclopedic knowledge of the history of battle lets you apply that knowled
 Additionally, if you have a reasonable amount of time before a combat encounter or negotiation, and you have at least one clue or rumor regarding the encounter, you can make a Reason test as a Respite activity. The following test results apply:
 
 - **Combat Encounter:**
-  - 11 or lower: The Director tells you the number of creatures in the encounter.
-  - 12-16: The Director tells you the number and level of the creatures in the encounter.
-  - 17+: As 12-16, and when the encounter begins, all enemies are surprised.
+    - 11 or lower: The Director tells you the number of creatures in the encounter.
+    - 12-16: The Director tells you the number and level of the creatures in the encounter.
+    - 17+: As 12-16, and when the encounter begins, all enemies are surprised.
 - **Negotiation:**
-  - 11 or lower: The Director tells you three different motivations, one of which is one of the NPC's motivations, and the other two are not.
-  - 12-16: The Director tells you one of the NPC's motivations.
-  - 17+: As 12-16, and you and your allies gain an edge on tests made to influence NPCs during the negotiation.
+    - 11 or lower: The Director tells you three different motivations, one of which is one of the NPC's motivations, and the other two are not.
+    - 12-16: The Director tells you one of the NPC's motivations.
+    - 17+: As 12-16, and you and your allies gain an edge on tests made to influence NPCs during the negotiation.
 
 You can only make this test once for each encounter and negotiation.

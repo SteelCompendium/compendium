@@ -4,6 +4,14 @@ title: Dual Wielder
 name_raw: Dual Wielder
 name: Dual Wielder
 type: kits
+keywords: Attack, Melee, Weapon
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
+ability_type: Action
+distance: Melee 1
+target: 2 creatures or objects
 ---
 
 # Dual Wielder
@@ -25,11 +33,12 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 **DOUBLE STRIKE**
 
-Why strike once when you could do it twice?\
-*Keywords:* Attack, Melee, Weapon\
-*Type:* Action\
-*Distance:* Melee 1\
-*Target:* 2 creatures or objects
+Why strike once when you could do it twice?
+
+|                                     |                                    |
+| :---------------------------------- | :--------------------------------- |
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action                   |
+| **Distance:** Melee 1               | **Target:** 2 creatures or objects |
 
 *Power Roll + Might or Agility:*
 

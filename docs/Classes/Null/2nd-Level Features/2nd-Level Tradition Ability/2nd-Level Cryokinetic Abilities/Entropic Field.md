@@ -20,10 +20,11 @@ target: All enemies
 # Entropic Field (5 Discipline)
 
 > You drastically increase the local entropy.
-> |  |  |
-> | :\--------------------------------------- | :-------------------------------- |
-> | **Keywords:** Area, Psionic, Weapon | **Type:** Action |
-> | **Distance:** 3 cube within 1 | **Target:** All enemies |
+
+|                                     |                         |
+| :---------------------------------- | :---------------------- |
+| **Keywords:** Area, Psionic, Weapon | **Type:** Action        |
+| **Distance:** 3 cube within 1       | **Target:** All enemies |
 
 **Power Roll + Agility:**
 

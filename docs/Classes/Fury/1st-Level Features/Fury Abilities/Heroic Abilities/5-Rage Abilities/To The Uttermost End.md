@@ -30,5 +30,6 @@ You spend your life force to ensure their death.
 
 - 11 or lower: 7 damage
 - 12–16: 11 damage
-- 17+: 16 damage\
-  **Spend 1 or More Additional Rage:** If you are winded, you can add 1d6 damage for each rage spent. If you are dying, you can add 1d10 damage for each rage spent. In either case, you then lose 1d6 Stamina.
+- 17+: 16 damage
+
+**Spend 1 or More Additional Rage:** If you are winded, you can add 1d6 damage for each rage spent. If you are dying, you can add 1d10 damage for each rage spent. In either case, you then lose 1d6 Stamina.

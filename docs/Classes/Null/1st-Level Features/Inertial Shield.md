@@ -22,10 +22,12 @@ Your body has been trained to predict when attacks will happen before they happe
 ## Inertial Shield
 
 > You intuit where an incoming attack will strike, reducing its effects.
-> |  |  |
-> | :\----------------------------------- | :-------------------------------- |
-> | **Keywords:** Psionic | **Type:** Triggered |
-> | **Distance:** Self | **Target:** Self |
 
-**Trigger:** You take damage.\
+|                       |                     |
+| :-------------------- | :------------------ |
+| **Keywords:** Psionic | **Type:** Triggered |
+| **Distance:** Self    | **Target:** Self    |
+
+- **Trigger:** You take damage.
+
 **Effect:** You gain (SHIELD) for the attack and reduce any potency of effects associated with the damage by 1.

@@ -20,10 +20,11 @@ target: 1 creature or object
 # Joint Lock
 
 > You strengthen your body as you contort your enemy's body in a stance they cannot escape from.
-> |  |  |
-> | :\------------------------------------------------ | :-------------------------------- |
-> | **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action |
-> | **Distance:** Melee 1 | **Target:** 1 creature or object |
+
+|                                              |                                  |
+| :------------------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action                 |
+| **Distance:** Melee 1                        | **Target:** 1 creature or object |
 
 **Power Roll + Agility:**
 

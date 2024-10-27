@@ -28,4 +28,4 @@ target: 1 judged creature
 
 **Power Roll + Might:** - 11 or lower: 2 holy damage - 12-16: 3 holy damage - 17+: 5 holy damage
 
-- **Effect:** If a non-boss or non-solo creature is winded after damage is resolved, they die.
+**Effect:** If a non-boss or non-solo creature is winded after damage is resolved, they die.

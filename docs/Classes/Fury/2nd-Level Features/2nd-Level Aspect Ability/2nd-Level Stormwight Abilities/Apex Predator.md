@@ -31,5 +31,6 @@ I will hunt you down.
 
 - 11 or lower: 4 damage; I \[weak\] slowed (save ends)
 - 12–16: 6 damage; I \[average\] slowed (save ends)
-- 17+: 10 damage; I \[strong\] slowed (save ends)\
-  **Effect:** The target can't be hidden from you for 24 hours. For the rest of the encounter, whenever the target moves, you can move as a free triggered action.
+- 17+: 10 damage; I \[strong\] slowed (save ends)
+
+**Effect:** The target can't be hidden from you for 24 hours. For the rest of the encounter, whenever the target moves, you can move as a free triggered action.

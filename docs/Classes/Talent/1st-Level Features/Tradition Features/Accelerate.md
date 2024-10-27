@@ -27,5 +27,6 @@ You gain access to the following maneuver:
 | **Keywords:** Psionic           | **Type:** Maneuver             |
 | **Distance:** Self or Ranged 10 | **Target:** Self or 1 creature |
 
-**Effect:** The target can immediately shift a number of squares up to your Reason.\
+**Effect:** The target can immediately shift a number of squares up to your Reason.
+
 **Spend 3 Clarity:** The target can also take a maneuver.

@@ -16,7 +16,7 @@ Your doctrine grants you a triggered action, as shown on the Tactician Triggered
 | ---------- | ---------------- |
 | Vanguard   | Parry            |
 | Mastermind | Overwatch        |
-| Insurgent  | Dirty Tricks     |
+| Insurgent  | Advanced Tactics |
 
 [ADVANCED TACTICS](./Advanced%20Tactics.md)
 

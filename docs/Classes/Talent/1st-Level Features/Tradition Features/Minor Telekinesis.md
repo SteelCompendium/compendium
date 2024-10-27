@@ -27,6 +27,8 @@ You gain access to the following maneuver:
 | **Keywords:** Psionic           | **Type:** Maneuver                              |
 | **Distance:** Self or Ranged 10 | **Target:** Self or a size 1 creature or object |
 
-**Effect:** You slide the target a number of squares equal to your Reason score.\
-**Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity you spend.\
+**Effect:** You slide the target a number of squares equal to your Reason score.
+
+**Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity you spend.
+
 **Spend 3 Clarity:** You can slide the target vertically.

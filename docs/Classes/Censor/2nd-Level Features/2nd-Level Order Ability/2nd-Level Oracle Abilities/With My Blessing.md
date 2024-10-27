@@ -25,4 +25,4 @@ target: Self or 1 ally
 | **Keywords:** Magic, Ranged | **Type:** Action           |
 | **Distance:** Ranged 10     | **Target:** Self or 1 ally |
 
-- **Effect:** The target can make a signature or heroic attack with a double edge as a free triggered action. They must still pay any Heroic Resources required.
+**Effect:** The target can make a signature or heroic attack with a double edge as a free triggered action. They must still pay any Heroic Resources required.

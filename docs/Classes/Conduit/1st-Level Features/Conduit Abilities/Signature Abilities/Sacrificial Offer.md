@@ -28,9 +28,7 @@ Divine magic tears at your foe and defends a nearby friend.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 corruption damage
-
 - **12–16:** 3 corruption damage
-
 - **17+:** 4 corruption damage
 
-- **Effect:** You or an ally within distance gains **+2** against the next attack until the start of your next turn.
+**Effect:** You or an ally within distance gains **+2** against the next attack until the start of your next turn.

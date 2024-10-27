@@ -28,4 +28,4 @@ trigger: An enemy within 10 starts their turn.
 
 - **Trigger:** An enemy within 10 starts their turn.
 
-- **Effect:** You spend a Recovery without regaining Stamina. Instead, the target regains Stamina equal to your Recovery value. The target takes their turn immediately before the triggering enemy.
+**Effect:** You spend a Recovery without regaining Stamina. Instead, the target regains Stamina equal to your Recovery value. The target takes their turn immediately before the triggering enemy.

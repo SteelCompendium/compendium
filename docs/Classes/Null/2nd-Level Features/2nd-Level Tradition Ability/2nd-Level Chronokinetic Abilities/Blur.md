@@ -18,9 +18,10 @@ target: Self
 # Blur (5 Discipline)
 
 > You release some stored time, allowing you to act twice.
-> |  |  |
-> | :\----------------------------------- | :-------------------------------- |
-> | **Keywords:** Psionic | **Type:** Maneuver |
-> | **Distance:** Self | **Target:** Self |
+
+|                       |                    |
+| :-------------------- | :----------------- |
+| **Keywords:** Psionic | **Type:** Maneuver |
+| **Distance:** Self    | **Target:** Self   |
 
 **Effect:** You can use a signature or heroic ability with an attack action as a free triggered action. You have an edge on attack rolls with this action.

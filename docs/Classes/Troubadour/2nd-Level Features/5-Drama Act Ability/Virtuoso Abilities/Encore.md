@@ -25,4 +25,4 @@ target: Special
 | **Keywords:** Attack, Magic | **Type:** Action    |
 | **Distance:** Special       | **Target:** Special |
 
-- **Effect:** You recreate and enact a non-Villain Action attack you have observed this round, using your Presence score for any power rolls and sonic damage for any damage dealt.
+**Effect:** You recreate and enact a non-Villain Action attack you have observed this round, using your Presence score for any power rolls and sonic damage for any damage dealt.

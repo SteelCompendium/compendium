@@ -4,6 +4,15 @@ title: Battlemind
 name_raw: Battlemind
 name: Battlemind
 type: kits
+keywords: Attack, Melee, Psionic, Weapon
+keyword_list:
+  - Attack
+  - Melee
+  - Psionic
+  - Weapon
+ability_type: Action
+distance: Melee 1
+target: 1 creature
 ---
 
 # Battlemind
@@ -25,11 +34,12 @@ You wear light armor and wield a medium weapon.
 
 **UNMOORING**
 
-Your weapon unleashes psionic energy that reduces your target's weight.\
-*Keywords:* Attack, Melee, Psionic, Weapon\
-*Type:* Action\
-*Distance:* Melee 1\
-*Target:* 1 creature
+Your weapon unleashes psionic energy that reduces your target's weight.
+
+|                                              |                        |
+| :------------------------------------------- | :--------------------- |
+| **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action       |
+| **Distance:** Melee 1                        | **Target:** 1 creature |
 
 *Power Roll + Might, Reason, Intuition, or Presence:*
 

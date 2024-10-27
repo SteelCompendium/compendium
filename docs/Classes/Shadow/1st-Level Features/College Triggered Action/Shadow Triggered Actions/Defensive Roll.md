@@ -24,7 +24,8 @@ When an enemy attacks, you roll with the impact to reduce the harm.
 | **Keywords:** —    | **Type:** Triggered |
 | **Distance:** Self | **Target:** Self    |
 
-**Trigger:** Another creature damages you.\
+- **Trigger:** Another creature damages you.
+
 **Effect:** You gain (SHIELD) against the triggering damage and then can shift up to 2 squares after the damage and its effects resolve. If you end this movement with concealment or cover, you can use the Hide maneuver even if you are observed.
 
 **Spend 1 Insight:** You gain (SHIELD)(SHIELD) against the triggering damage instead.

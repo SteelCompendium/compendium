@@ -152,14 +152,16 @@ Your college grants you a triggered action, as shown on the Shadow Triggered Act
 
 You sow a moment of confusion in combat, to your enemy's peril.
 
-**Trigger:** An enemy attacks you.\
+- **Trigger:** An enemy attacks you.
+
 **Effect:** You choose an enemy within distance of the attack. The attack targets that enemy instead.
 
 ##### Defensive Roll
 
 When an enemy attacks, you roll with the impact to reduce the harm.
 
-**Trigger:** Another creature damages you.\
+- **Trigger:** Another creature damages you.
+
 **Effect:** You gain (SHIELD) against the triggering damage and then can shift up to 2 squares after the damage and its effects resolve. If you end this movement with concealment or cover, you can use the Hide maneuver even if you are observed.
 
 **Spend 1 Insight:** You gain (SHIELD)(SHIELD) against the triggering damage instead.
@@ -168,7 +170,8 @@ When an enemy attacks, you roll with the impact to reduce the harm.
 
 You vanish in a plume of black smoke to avoid danger.
 
-**Trigger:** You take damage.\
+- **Trigger:** You take damage.
+
 **Effect:** You gain (SHIELD) against the triggering damage and then can teleport up to 4 squares after the damage and its effects resolve.
 
 **Spend Insight:** You teleport 1 additional square for each insight spent.
@@ -181,7 +184,8 @@ You know how to seize the advantage in battle, working with your allies to find 
 
 Keep up the attack. Never give them a moment's grace.
 
-**Trigger:** Another hero who didn't use this ability to start their turn ends their turn.\
+- **Trigger:** Another hero who didn't use this ability to start their turn ends their turn.
+
 **Effect:** You take your turn after the triggering hero.
 
 ### Kit
@@ -398,7 +402,8 @@ You enchant a strike with your teleportation magic.
 
 Your foe made a big mistake.
 
-**Trigger:** You use In All This Confusion.\
+- **Trigger:** You use In All This Confusion.
+
 **Effect:** You gain an additional (SHIELD) against the triggering attack. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.
 
 #### 2nd-level Caustic Alchemy Abilities
@@ -449,7 +454,8 @@ Illusory sounds make your foes reposition themselves as they cower or investigat
 
 When your enemy strikes, you reveal you were in a different place all along.
 
-**Trigger:** You use Clever Trick.\
+- **Trigger:** You use Clever Trick.
+
 **Effect:** Clever Trick doesn't cost insight to use. The creature who attacked you actually just attacked an illusory image of you. You appear in an unoccupied space within 3 squares of that creature and can make a free strike against them and spend a Recovery.
 
 ## 3rd-level Features

@@ -28,8 +28,4 @@ You have the following ability.
 | **Keywords:** Magic, Ranged | **Type:** Maneuver  |
 | **Distance:** Ranged 10     | **Target:** Special |
 
-- **Effect:** Choose one of the following effects:
-  - You herald a rousing tale of victory. An ally within distance has an edge on the next power roll they make before the start of your next turn.
-  - You weave a tale of caution. An ally within distance has (SHIELD) on the next instance of damage they take until the start of your next turn.
-  - You insult the enemy where they're most vulnerable. The next attack made against an enemy within distance has (SURGE) until the start of your next turn.
-  - **Spend 3 Drama:** You can have 2 targets for any of these effects instead of 1.
+**Effect:** Choose one of the following effects: - You herald a rousing tale of victory. An ally within distance has an edge on the next power roll they make before the start of your next turn. - You weave a tale of caution. An ally within distance has (SHIELD) on the next instance of damage they take until the start of your next turn. - You insult the enemy where they're most vulnerable. The next attack made against an enemy within distance has (SURGE) until the start of your next turn. - **Spend 3 Drama:** You can have 2 targets for any of these effects instead of 1.

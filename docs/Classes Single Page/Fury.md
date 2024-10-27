@@ -216,24 +216,30 @@ In your anger, you revert to a more bestial form.
 | **Keywords:** Animal, Attack, Melee, Weapon | **Type:** Action                 |
 | **Distance:** Reach                         | **Target:** 1 creature or object |
 
-**Trigger:** You lose Stamina and are not dying.\
-**Effect:** After damage is resolved, if your rage is high enough, you can enter your animal or hybrid form as a free triggered action. You gain temporary Stamina equal to your Might.\
+- **Trigger:** You lose Stamina and are not dying.
+
+**Effect:** After damage is resolved, if your rage is high enough, you can enter your animal or hybrid form as a free triggered action. You gain temporary Stamina equal to your Might.
+
 **Spend 3 Rage:** If you are not dying, you can spend a Recovery.
 
 #### Lines Of Force
 
 You redirect the energy of motion.
 
-**Trigger:** The target is force moved.\
-**Effect:** You can select a new target of the same size or smaller within distance to be force moved instead and change the direction of that forced movement. Additionally, you can increase the forced move distance by a number of squares equal to your Might score.\
+- **Trigger:** The target is force moved.
+
+**Effect:** You can select a new target of the same size or smaller within distance to be force moved instead and change the direction of that forced movement. Additionally, you can increase the forced move distance by a number of squares equal to your Might score.
+
 **Spend 1 Rage:** You can increase the forced move distance by a number of squares equal to twice your Might score instead.
 
 #### Unearthly Reflexes
 
 Elusive as a hummingbird.
 
-**Trigger:** You are targeted by a damaging area of effect.\
-**Effect:** You shift up to 2 squares. If that moves you out of the area of effect, you ignore the attack. Otherwise, you take half damage.\
+- **Trigger:** You are targeted by a damaging area of effect.
+
+**Effect:** You shift up to 2 squares. If that moves you out of the area of effect, you ignore the attack. Otherwise, you take half damage.
+
 **Spend 3 Rage:** You move a willing adjacent ally affected by the attack with you, applying the same outcome to them.
 
 ### Mighty Leaps
@@ -270,8 +276,9 @@ Keeping in constant motion helps you slip out of reach after a brutal assault.
 
 - 11 or lower: 2 damage
 - 12–16: 3 damage
-- 17+: 5 damage; A \[strong\] slowed (save ends)\
-  **Effect:** You can shift 1 square after the attack is resolved.
+- 17+: 5 damage; A \[strong\] slowed (save ends)
+
+**Effect:** You can shift 1 square after the attack is resolved.
 
 ##### Impaled!
 
@@ -291,8 +298,9 @@ Your reckless assault leaves you tactically vulnerable.
 
 - 11 or lower: 3 damage
 - 12–16: 6 damage
-- 17+: 9 damage\
-  **Effect:** You can choose to do (SURGE) to the target. If you do, the target gains (SURGE) on their next attack against you.
+- 17+: 9 damage
+
+**Effect:** You can choose to do (SURGE) to the target. If you do, the target gains (SURGE) on their next attack against you.
 
 #### Heroic Abilities
 
@@ -334,8 +342,9 @@ Teach them the folly of lining up for you.
 
 - 11 or lower: 2 damage
 - 12–16: 3 damage
-- 17+: 5 damage\
-  **Effect:** The target takes an extra (SURGE) for every free strike you triggered from your move.
+- 17+: 5 damage
+
+**Effect:** The target takes an extra (SURGE) for every free strike you triggered from your move.
 
 ###### Your Entrails Are Your Extrails! (3 Rage)
 
@@ -345,8 +354,9 @@ Hard for them to fight when they're busy holding in their giblets.
 
 - 11 or lower: 3 damage; M \[weak\] bleeding (save ends)
 - 12–16: 5 damage; M \[average\] bleeding (save ends)
-- 17+: 8 damage; M \[average\] bleeding (save ends)\
-  **Effect:** The target takes (SURGE) whenever they fail a save for bleeding.
+- 17+: 8 damage; M \[average\] bleeding (save ends)
+
+**Effect:** The target takes (SURGE) whenever they fail a save for bleeding.
 
 ##### 5-rage Abilities
 
@@ -360,8 +370,9 @@ A mighty strike leaves your foe reeling.
 
 - 11 or lower: 4 damage; M \[weak\] bleeding and weakened (save ends)
 - 12–16: 6 damage; M \[average\] bleeding and weakened (save ends)
-- 17+: 10 damage; M \[strong\] bleeding and weakened (save ends)\
-  **Effect:** You can choose to deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
+- 17+: 10 damage; M \[strong\] bleeding and weakened (save ends)
+
+**Effect:** You can choose to deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
 
 ###### Make Peace With Your God! (5 Rage)
 
@@ -377,8 +388,9 @@ A howl erupts from you that hurls your enemies back.
 
 - 11 or lower: 6 damage; push 2
 - 12–16: 9 damage; push 4
-- 17+: 13 damage; push 6\
-  **Effect:** Targets are pushed one at a time, starting with the target closest to you.
+- 17+: 13 damage; push 6
+
+**Effect:** Targets are pushed one at a time, starting with the target closest to you.
 
 ###### To The Uttermost End (5 Rage)
 
@@ -388,8 +400,9 @@ You spend your life force to ensure their death.
 
 - 11 or lower: 7 damage
 - 12–16: 11 damage
-- 17+: 16 damage\
-  **Spend 1 or More Additional Rage:** If you are winded, you can add 1d6 damage for each rage spent. If you are dying, you can add 1d10 damage for each rage spent. In either case, you then lose 1d6 Stamina.
+- 17+: 16 damage
+
+**Spend 1 or More Additional Rage:** If you are winded, you can add 1d6 damage for each rage spent. If you are dying, you can add 1d10 damage for each rage spent. In either case, you then lose 1d6 Stamina.
 
 ## 2nd-level Features
 
@@ -491,8 +504,9 @@ I will hunt you down.
 
 - 11 or lower: 4 damage; I \[weak\] slowed (save ends)
 - 12–16: 6 damage; I \[average\] slowed (save ends)
-- 17+: 10 damage; I \[strong\] slowed (save ends)\
-  **Effect:** The target can't be hidden from you for 24 hours. For the rest of the encounter, whenever the target moves, you can move as a free triggered action.
+- 17+: 10 damage; I \[strong\] slowed (save ends)
+
+**Effect:** The target can't be hidden from you for 24 hours. For the rest of the encounter, whenever the target moves, you can move as a free triggered action.
 
 ##### Visceral Roar (5 Rage)
 
@@ -584,7 +598,8 @@ The animal form feature for each stormwight kit grants you the following ability
 
 You assume the form of the animal who channels your rage.
 
-**Effect:** You can shapeshift into the animal defined by your stormwight kit or back into your true form. While in animal form, you can't use signature abilities or heroic abilities unless they have the Animal keyword. Additionally, you can both speak normally and speak to animals who share your form. If negotiation with an animal comes into play, you treat your Renown as 2 higher than usual while in your animal form.\
+**Effect:** You can shapeshift into the animal defined by your stormwight kit or back into your true form. While in animal form, you can't use signature abilities or heroic abilities unless they have the Animal keyword. Additionally, you can both speak normally and speak to animals who share your form. If negotiation with an animal comes into play, you treat your Renown as 2 higher than usual while in your animal form.
+
 **Spend 1 Rage:** As a free maneuver on your turn, you can shapeshift a second time, either into another animal form or back into your true form.
 
 #### Primordial Storm
@@ -717,8 +732,9 @@ Foes who try to close around you do so at their peril.
 
 - 11 or lower: 4 damage
 - 12–16: 5 damage
-- 17+: 6 damage\
-  **Effect:** You can shift 2 before or after the attack.
+- 17+: 6 damage
+
+**Effect:** You can shift 2 before or after the attack.
 
 #### Crow Growing Rage
 
@@ -802,8 +818,9 @@ Your enemies try in vain to fall back from your pouncing attack.
 
 - 11 or lower: 4 damage
 - 12–16: 5 damage; push 1
-- 17+: 7 damage; push 2\
-  **Effect:** You can shift the same number of squares that you pushed the target.
+- 17+: 7 damage; push 2
+
+**Effect:** You can shift the same number of squares that you pushed the target.
 
 #### Rat Growing Rage
 

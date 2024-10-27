@@ -25,4 +25,4 @@ A holy light emits from your body, healing your allies.
 | **Keywords:** Area, Magic | **Type:** Action       |
 | **Distance:** 3 Aura      | **Target:** All allies |
 
-- **Effect:** Until the end of the encounter or you start dying, whenever a target starts their turn within the aura, they can spend a Recovery as no action.
+**Effect:** Until the end of the encounter or you start dying, whenever a target starts their turn within the aura, they can spend a Recovery as no action.

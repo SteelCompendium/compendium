@@ -4,6 +4,15 @@ title: Raider
 name_raw: Raider
 name: Raider
 type: kits
+keywords: Attack, Melee, Ranged, Weapon
+keyword_list:
+  - Attack
+  - Melee
+  - Ranged
+  - Weapon
+ability_type: Action
+distance: Melee 1 or Ranged 10
+target: 1 creature
 ---
 
 # Raider
@@ -27,11 +36,12 @@ You wear light armor, and wield a shield and a light weapon.
 
 **SHOCK AND AWE**
 
-You execute a brutal strike that leaves your foe reeling.\
-*Keywords:* Attack, Melee, Ranged, Weapon\
-*Type:* Action\
-*Distance:* Melee 1 or Ranged 10\
-*Target:* 1 creature
+You execute a brutal strike that leaves your foe reeling.
+
+|                                             |                        |
+| :------------------------------------------ | :--------------------- |
+| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
+| **Distance:** Melee 1 or Ranged 10          | **Target:** 1 creature |
 
 *Power Roll + Might or Agility:*
 

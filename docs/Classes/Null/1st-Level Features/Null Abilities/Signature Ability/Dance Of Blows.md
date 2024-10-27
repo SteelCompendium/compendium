@@ -20,10 +20,11 @@ target: All enemies
 # Dance Of Blows
 
 > You strike everywhere at once, tricking an enemy into moving out of position.
-> |  |  |
-> | :\---------------------------------------------- | :-------------------------------- |
-> | **Keywords:** Area, Melee, Psionic, Weapon | **Type:** Action |
-> | **Distance:** 1 burst | **Target:** All enemies |
+
+|                                            |                         |
+| :----------------------------------------- | :---------------------- |
+| **Keywords:** Area, Melee, Psionic, Weapon | **Type:** Action        |
+| **Distance:** 1 burst                      | **Target:** All enemies |
 
 **Power Roll + Agility:**
 

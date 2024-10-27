@@ -21,10 +21,11 @@ target: 1 creature
 # Arcane Disruptor (5 Discipline)
 
 > Your blow reorders their body, causing pain if they attempt to channel sorcery.
-> |  |  |
-> | :\------------------------------------------------ | :-------------------------------- |
-> | **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action |
-> | **Distance:** Melee 1 | **Target:** 1 creature |
+
+|                                              |                        |
+| :------------------------------------------- | :--------------------- |
+| **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action       |
+| **Distance:** Melee 1                        | **Target:** 1 creature |
 
 **Power Roll + Agility:**
 

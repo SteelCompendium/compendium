@@ -206,7 +206,7 @@ You commune with the lingering soul of the recently dead.
 | **Keywords:** Area, Magic | **Type:** Action        |
 | **Distance:** 4 Burst     | **Target:** All enemies |
 
-- **Effect:** You can speak to the corpse or head of a creature who has died within the last **24 hours** and who can speak a language you know. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. After **1 minute**, the effect ends. You can't use this ability on the same creature twice.
+**Effect:** You can speak to the corpse or head of a creature who has died within the last **24 hours** and who can speak a language you know. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. After **1 minute**, the effect ends. You can't use this ability on the same creature twice.
 
 #### Hands Of The Maker
 
@@ -216,7 +216,7 @@ You gain the following ability:
 
 Craft objects with the power of your mind!
 
-- **Effect:** You create a mundane object no larger than **size 1S**. You can maintain a number of objects created this way by you equal to your **Intuition score**. You can destroy an object created this way by you with a thought, no matter how far you are from it (no action required).
+**Effect:** You create a mundane object no larger than **size 1S**. You can maintain a number of objects created this way by you equal to your **Intuition score**. You can destroy an object created this way by you with a thought, no matter how far you are from it (no action required).
 
 #### Inner Light
 
@@ -250,14 +250,13 @@ You gain the following ability, which you can use once on your turn:
 
 Your divine energy restores the righteous.
 
-- **Effect:** The target can spend **1 Recovery**.
+**Effect:** The target can spend **1 Recovery**.
 
 - **Spend Piety:** For each piety spent, you can choose one of the following enhancements:
-
-  - You can target one additional ally within distance.
-  - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
-  - A prone target can stand up.
-  - A target can spend **1 additional Recovery**.
+    - You can target one additional ally within distance.
+    - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
+    - A prone target can stand up.
+    - A target can spend **1 additional Recovery**.
 
 ### Ray Of Wrath
 
@@ -270,12 +269,10 @@ You unleash a blast of holy light upon your foe.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 damage
-
 - **12–16:** 4 damage
-
 - **17+:** 6 damage
 
-- **Effect:** The damage this ability deals can be holy damage.
+**Effect:** The damage this ability deals can be holy damage.
 
 ### Triggered Action
 
@@ -286,16 +283,20 @@ Choose one of the following triggered actions:
 You invigorate an attacking ally with divine energy.
 
 - **Trigger:** The target deals damage to another creature or object.
-- **Effect:** The damage gains **+1**. You gain **1 piety**.
-- **Spend 1 Piety:** The damage gains **+2**, and you gain no piety instead.
+
+**Effect:** The damage gains **+1**. You gain **1 piety**.
+
+**Spend 1 Piety:** The damage gains **+2**, and you gain no piety instead.
 
 #### Word Of Judgement
 
 Your holy word saps an attacking enemy's strength.
 
 - **Trigger:** The target takes damage.
-- **Effect:** The target gains **+2** against the damage. You gain **1 piety**.
-- **Spend 1 Piety:** The target gains **+4** against the damage, and you gain no piety instead.
+
+**Effect:** The target gains **+2** against the damage. You gain **1 piety**.
+
+**Spend 1 Piety:** The target gains **+4** against the damage, and you gain no piety instead.
 
 ### Prayer
 
@@ -366,12 +367,10 @@ You drain the energy from your target and revitalize yourself or an ally.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 corruption damage
-
 - **12–16:** 3 corruption damage
-
 - **17+:** 5 corruption damage
 
-- **Effect:** You or an ally within distance can spend a Recovery.
+**Effect:** You or an ally within distance can spend a Recovery.
 
 ##### Holy Lash
 
@@ -390,12 +389,10 @@ A rain of holy light scours your enemies and repositions your allies.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 1 holy damage
-
 - **12–16:** 2 holy damage
-
 - **17+:** 3 holy damage
 
-- **Effect:** You can teleport each ally in the area and yourself if you're in the area to any unoccupied space within the area.
+**Effect:** You can teleport each ally in the area and yourself if you're in the area to any unoccupied space within the area.
 
 ##### Sacrificial Offer
 
@@ -404,12 +401,10 @@ Divine magic tears at your foe and defends a nearby friend.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 corruption damage
-
 - **12–16:** 3 corruption damage
-
 - **17+:** 4 corruption damage
 
-- **Effect:** You or an ally within distance gains **+2** against the next attack until the start of your next turn.
+**Effect:** You or an ally within distance gains **+2** against the next attack until the start of your next turn.
 
 ##### Staggering Curse
 
@@ -428,12 +423,10 @@ You utter a quick prayer that projects aggressive divine energy around a friend 
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 holy damage
-
 - **12–16:** 5 holy damage
-
 - **17+:** 7 holy damage
 
-- **Effect:** You or an ally within distance gains Temporary Stamina equal to your **Intuition score**. This Temporary Stamina disappears at the end of the encounter.
+**Effect:** You or an ally within distance gains Temporary Stamina equal to your **Intuition score**. This Temporary Stamina disappears at the end of the encounter.
 
 ##### Wither
 
@@ -460,18 +453,16 @@ You ask your saint for thunder and your prayer is answered.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 sonic damage; push 1
-
 - **12–16:** 3 sonic damage; push 2
-
 - **17+:** 5 sonic damage; push 3
 
-- **Effect:** You can also push each willing ally in the area, and their stability doesn't count against this forced movement.
+**Effect:** You can also push each willing ally in the area, and their stability doesn't count against this forced movement.
 
 ###### Font Of Wrath (3 Piety)
 
 A brilliant column of holy light appears on the battlefield, striking out at nearby enemies.
 
-- **Effect:** You summon a spirit of **size 2** who can't be harmed, and who appears in an unoccupied space within distance. The spirit lasts until the end of your next turn. You and your allies can move through the spirit's space, but enemies can't. The first time on a turn that an enemy moves within **2 squares** of the spirit or starts their turn there, they take **2d6** holy damage.
+**Effect:** You summon a spirit of **size 2** who can't be harmed, and who appears in an unoccupied space within distance. The spirit lasts until the end of your next turn. You and your allies can move through the spirit's space, but enemies can't. The first time on a turn that an enemy moves within **2 squares** of the spirit or starts their turn there, they take **2d6** holy damage.
 
 ###### Judgment's Hammer (3 Piety)
 
@@ -490,12 +481,10 @@ A brilliant column of holy light appears on the battlefield, striking out at nea
 **Power Roll + Intuition:**
 
 - **11 or lower:** 3 lightning damage
-
 - **12–16:** 6 lightning damage
-
 - **17+:** 9 lightning damage
 
-- **Effect:** If the target deals damage to another creature, the target of this ability takes another **1d10 lightning damage** (save ends).
+**Effect:** If the target deals damage to another creature, the target of this ability takes another **1d10 lightning damage** (save ends).
 
 #### 5-piety Abilities
 
@@ -528,18 +517,16 @@ The heroes' armor glows with golden light, granting divine protection.
 **Power Roll + Intuition:**
 
 - **11 or lower:** Gain 5 temporary Stamina
-
 - **12–16:** Gain 10 temporary Stamina
-
 - **17+:** Gain 15 temporary Stamina
 
-- **Effect:** This temporary Stamina disappears at the end of the encounter.
+**Effect:** This temporary Stamina disappears at the end of the encounter.
 
 ###### Sermon Of Grace (5 Piety)
 
 You inspire your allies with tales of your saint's great deeds.
 
-- **Effect:** Each target can spend a Recovery, end one effect that is ended by a saving throw or that ends at the end of their turn, or use the Stand Up maneuver as a free triggered action.
+**Effect:** Each target can spend a Recovery, end one effect that is ended by a saving throw or that ends at the end of their turn, or use the Stand Up maneuver as a free triggered action.
 
 ## 2nd-level Features
 
@@ -586,22 +573,19 @@ Choose one of your domains. You gain an ability from it as shown on the 2nd-Leve
 
 Your enemies suffer their fate; your allies, their destiny!
 
-- **Effect:** Choose one effect that lasts until the end of the encounter or you start dying:
-
-  - Whenever you or an ally in the aura makes a power roll, they can roll three dice and choose which two to use.
-  - Whenever an enemy in the aura makes a power roll, they must roll three dice and use the lowest two.
+**Effect:** Choose one effect that lasts until the end of the encounter or you start dying: - Whenever you or an ally in the aura makes a power roll, they can roll three dice and choose which two to use. - Whenever an enemy in the aura makes a power roll, they must roll three dice and use the lowest two.
 
 #### Blessing Of Insight (5 Piety)
 
 The gods grant insight revealing where best to strike your enemies.
 
-- **Effect:** Until the end of the encounter or you start dying, each target in the aura gains **+1** on their abilities.
+**Effect:** Until the end of the encounter or you start dying, each target in the aura gains **+1** on their abilities.
 
 #### Divine Comedy (5 Piety)
 
 You may swap places.
 
-- **Effect:** Each target can choose another creature within **5 squares** of them. They swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.
+**Effect:** Each target can choose another creature within **5 squares** of them. They swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.
 
 #### The Gods Command, You Obey (5 Piety)
 
@@ -620,12 +604,10 @@ Light shines at your command, burning your foes and blessing your allies.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 4 fire damage
-
 - **12–16:** 6 fire damage
-
 - **17+:** 10 fire damage
 
-- **Effect:** Each ally in the area deals **+1 fire damage** with their next attack made before the end of their next turn.
+**Effect:** Each ally in the area deals **+1 fire damage** with their next attack made before the end of their next turn.
 
 #### Nature Judges Thee (5 Piety)
 
@@ -641,19 +623,19 @@ Mystical thorned vines appear and bind your foes.
 
 An ally gains strength from their friends.
 
-- **Effect:** Until the end of the encounter or the target starts dying, whenever the target starts their turn, they gain a bonus to speed and damage equal to the number of allies within **10 squares** of them that lasts until the start of their next turn.
+**Effect:** Until the end of the encounter or the target starts dying, whenever the target starts their turn, they gain a bonus to speed and damage equal to the number of allies within **10 squares** of them that lasts until the start of their next turn.
 
 #### Reap (5 Piety)
 
 The gods reward those who smite their foes.
 
-- **Effect:** Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to **5 + your Intuition score**.
+**Effect:** Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to **5 + your Intuition score**.
 
 #### Sacred Bond (5 Piety)
 
 You forge a divine connection between two creatures.
 
-- **Effect:** Until the end of the encounter, whenever one target takes damage, the other can choose to take it instead as a free triggered action. The original target still suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other can also spend a Recovery as a free triggered action.
+**Effect:** Until the end of the encounter, whenever one target takes damage, the other can choose to take it instead as a free triggered action. The original target still suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other can also spend a Recovery as a free triggered action.
 
 #### Saint's Tempest (5 Piety)
 
@@ -669,13 +651,13 @@ A raging storm appears, striking your foes with lightning and throwing them arou
 
 A marble statue of your patron rises from the earth.
 
-- **Effect:** A **size 2** statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. You and each ally within **3 squares** of the statue gain **+1** on their abilities. The statue is destroyed if it takes **20 or more damage**. It is immune to poison and psychic damage.
+**Effect:** A **size 2** statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. You and each ally within **3 squares** of the statue gain **+1** on their abilities. The statue is destroyed if it takes **20 or more damage**. It is immune to poison and psychic damage.
 
 #### Wellspring Of Grace (5 Piety)
 
 A holy light emits from your body, healing your allies.
 
-- **Effect:** Until the end of the encounter or you start dying, whenever a target starts their turn within the aura, they can spend a Recovery as no action.
+**Effect:** Until the end of the encounter or you start dying, whenever a target starts their turn within the aura, they can spend a Recovery as no action.
 
 ## 3rd-level Features
 
@@ -698,18 +680,16 @@ Your divine magic makes a creature appear as what your enemies fear most.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 6 psychic damage; \[weak\] frightened (save ends)
-
 - **12–16:** 9 psychic damage; \[average\] frightened (save ends)
-
 - **17+:** 13 psychic damage; \[strong\] frightened (save ends)
 
-- **Effect:** You choose a creature within 10 squares who the targets are frightened of.
+**Effect:** You choose a creature within 10 squares who the targets are frightened of.
 
 #### Saint's Rainment (7 Piety)
 
 An ally becomes the wearer of an empowered golden cloak.
 
-- **Effect:** The ally gains **+2** against attacks and **+1** on abilities until the end of the encounter.
+**Effect:** The ally gains **+2** against attacks and **+1** on abilities until the end of the encounter.
 
 #### Soul Siphon (7 Piety)
 
@@ -718,12 +698,10 @@ A beam of energy connects a foe to a friend, draining life from one to heal the 
 **Power Roll + Intuition:**
 
 - **11 or lower:** 7 corruption damage
-
 - **12–16:** 10 corruption damage
-
 - **17+:** 15 corruption damage
 
-- **Effect:** One ally within distance can spend any number of Recoveries.
+**Effect:** One ally within distance can spend any number of Recoveries.
 
 #### Words Of Wrath And Grace (7 Piety)
 
@@ -732,9 +710,7 @@ Your saint grants your enemies a vision of whatever they most fear.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 holy damage
-
 - **12–16:** 5 holy damage
-
 - **17+:** 7 holy damage
 
-- **Effect:** Each ally in the area can spend a Recovery.
+**Effect:** Each ally in the area can spend a Recovery.

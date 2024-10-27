@@ -25,4 +25,4 @@ A brilliant column of holy light appears on the battlefield, striking out at nea
 | **Keywords:** Magic, Ranged | **Type:** Action    |
 | **Distance:** Ranged 10     | **Target:** Special |
 
-- **Effect:** You summon a spirit of **size 2** who can't be harmed, and who appears in an unoccupied space within distance. The spirit lasts until the end of your next turn. You and your allies can move through the spirit's space, but enemies can't. The first time on a turn that an enemy moves within **2 squares** of the spirit or starts their turn there, they take **2d6** holy damage.
+**Effect:** You summon a spirit of **size 2** who can't be harmed, and who appears in an unoccupied space within distance. The spirit lasts until the end of your next turn. You and your allies can move through the spirit's space, but enemies can't. The first time on a turn that an enemy moves within **2 squares** of the spirit or starts their turn there, they take **2d6** holy damage.

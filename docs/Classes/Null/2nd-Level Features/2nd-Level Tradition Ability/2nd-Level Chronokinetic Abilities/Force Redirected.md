@@ -21,10 +21,11 @@ target: 1 creature
 # Force Redirected (5 Discipline)
 
 > The force of your strike manifests in a surprising location.
-> |  |  |
-> | :\------------------------------------------------ | :-------------------------------- |
-> | **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action |
-> | **Distance:** Reach 3 | **Target:** 1 creature |
+
+|                                              |                        |
+| :------------------------------------------- | :--------------------- |
+| **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action       |
+| **Distance:** Reach 3                        | **Target:** 1 creature |
 
 **Power Roll + Agility:**
 

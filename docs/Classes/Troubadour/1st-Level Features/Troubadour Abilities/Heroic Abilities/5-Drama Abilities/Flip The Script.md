@@ -24,4 +24,4 @@ target: Self and all allies
 | **Keywords:** Magic   | **Type:** Action                |
 | **Distance:** 3 Burst | **Target:** Self and all allies |
 
-- **Effect:** Each willing target immediately teleports up to their speed. Teleported targets that were slowed are no longer slowed.
+**Effect:** Each willing target immediately teleports up to their speed. Teleported targets that were slowed are no longer slowed.

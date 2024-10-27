@@ -20,10 +20,11 @@ target: 2 creatures or objects
 # Faster Than The Eye
 
 > You strike so quickly your hands become a blur.
-> |  |  |
-> | :\------------------------------------------------ | :-------------------------------- |
-> | **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action |
-> | **Distance:** Melee 1 | **Target:** 2 creatures or objects |
+
+|                                              |                                    |
+| :------------------------------------------- | :--------------------------------- |
+| **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action                   |
+| **Distance:** Melee 1                        | **Target:** 2 creatures or objects |
 
 **Power Roll + Agility:**
 

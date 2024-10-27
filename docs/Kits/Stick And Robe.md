@@ -4,6 +4,14 @@ title: Stick And Robe
 name_raw: Stick And Robe
 name: Stick And Robe
 type: kits
+keywords: Attack, Melee, Weapon
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
+ability_type: Action
+distance: Melee 2
+target: 1 creature
 ---
 
 # Stick And Robe
@@ -26,11 +34,12 @@ You wear light armor and wield a polearm.
 
 **WHERE I WANT YOU**
 
-When your stick speaks, your enemy moves.\
-*Keywords:* Attack, Melee, Weapon\
-*Type:* Action\
-*Distance:* Melee 2\
-*Target:* 1 creature
+When your stick speaks, your enemy moves.
+
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
+| **Distance:** Melee 2               | **Target:** 1 creature |
 
 *Power Roll + Might or Agility:*
 

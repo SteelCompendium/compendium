@@ -27,7 +27,8 @@ target: All enemies
 | **Distance:** 3 Burst             | **Target:** All enemies |
 
 - **Power Roll + Agility or Presence:**
-  - 11 or lower: 3 fire damage; A \[weak\] weakened (save ends)
-  - 12-16: 5 fire damage; A \[average\] weakened (save ends)
-  - 17+: 8 fire damage; A \[strong\] weakened (save ends)
-- **Effect:** Each ally in range can shift 2.
+    - 11 or lower: 3 fire damage; A \[weak\] weakened (save ends)
+    - 12-16: 5 fire damage; A \[average\] weakened (save ends)
+    - 17+: 8 fire damage; A \[strong\] weakened (save ends)
+
+**Effect:** Each ally in range can shift 2.

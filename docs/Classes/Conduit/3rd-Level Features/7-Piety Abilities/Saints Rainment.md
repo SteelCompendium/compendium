@@ -26,4 +26,4 @@ An ally becomes the wearer of an empowered golden cloak.
 | **Keywords:** Area, Magic, Ranged | **Type:** Maneuver |
 | **Distance:** Ranged 10           | **Target:** 1 ally |
 
-- **Effect:** The ally gains **+2** against attacks and **+1** on abilities until the end of the encounter.
+**Effect:** The ally gains **+2** against attacks and **+1** on abilities until the end of the encounter.

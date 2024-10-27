@@ -21,10 +21,11 @@ target: 1 creature or object
 # Stunning Blow (3 Discipline)
 
 > You focus your psionic technique into a debilitating concussive punch.
-> |  |  |
-> | :\------------------------------------------------ | :-------------------------------- |
-> | **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action |
-> | **Distance:** Melee 1 | **Target:** 1 creature or object |
+
+|                                              |                                  |
+| :------------------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action                 |
+| **Distance:** Melee 1                        | **Target:** 1 creature or object |
 
 **Power Roll + Agility:**
 

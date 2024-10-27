@@ -29,9 +29,7 @@ Your divine magic makes a creature appear as what your enemies fear most.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 6 psychic damage; \[weak\] frightened (save ends)
-
 - **12–16:** 9 psychic damage; \[average\] frightened (save ends)
-
 - **17+:** 13 psychic damage; \[strong\] frightened (save ends)
 
-- **Effect:** You choose a creature within 10 squares who the targets are frightened of.
+**Effect:** You choose a creature within 10 squares who the targets are frightened of.

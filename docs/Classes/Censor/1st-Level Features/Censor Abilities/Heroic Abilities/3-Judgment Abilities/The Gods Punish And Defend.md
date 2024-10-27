@@ -28,4 +28,4 @@ target: 1 creature or object
 
 **Power Roll + Might:** - 11 or lower: 5 holy damage - 12-16: 8 holy damage - 17+: 11 holy damage
 
-- **Effect:** Spend a Recovery and you or an ally within 10 squares of you regain Stamina equal to your Recovery value.
+**Effect:** Spend a Recovery and you or an ally within 10 squares of you regain Stamina equal to your Recovery value.

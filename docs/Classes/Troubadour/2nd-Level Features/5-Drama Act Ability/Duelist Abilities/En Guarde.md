@@ -27,7 +27,8 @@ target: 1 creature
 | **Distance:** Melee 1               | **Target:** 1 creature |
 
 - **Power Roll + Agility:**
-  - 11 or lower: 7 damage; target can shift 3 and take a free strike against you
-  - 12-16: 11 damage; target can shift 2 and take a free strike against you
-  - 17+: 16 damage; target can shift 1
-- **Effect:** If the target shifts or takes a free strike against you during this ability, you can shift 3 and take a melee free strike against the target. If the target deals damage to you during this ability, you have (SURGE) on your free strike.
+    - 11 or lower: 7 damage; target can shift 3 and take a free strike against you
+    - 12-16: 11 damage; target can shift 2 and take a free strike against you
+    - 17+: 16 damage; target can shift 1
+
+**Effect:** If the target shifts or takes a free strike against you during this ability, you can shift 3 and take a melee free strike against the target. If the target deals damage to you during this ability, you have (SURGE) on your free strike.

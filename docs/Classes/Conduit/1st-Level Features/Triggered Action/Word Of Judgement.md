@@ -26,5 +26,7 @@ Your holy word saps an attacking enemy's strength.
 | **Distance:** Ranged 10     | **Target:** 1 ally  |
 
 - **Trigger:** The target takes damage.
-- **Effect:** The target gains **+2** against the damage. You gain **1 piety**.
-- **Spend 1 Piety:** The target gains **+4** against the damage, and you gain no piety instead.
+
+**Effect:** The target gains **+2** against the damage. You gain **1 piety**.
+
+**Spend 1 Piety:** The target gains **+4** against the damage, and you gain no piety instead.

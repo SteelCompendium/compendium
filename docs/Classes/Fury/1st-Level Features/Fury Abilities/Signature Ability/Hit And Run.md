@@ -29,5 +29,6 @@ Keeping in constant motion helps you slip out of reach after a brutal assault.
 
 - 11 or lower: 2 damage
 - 12–16: 3 damage
-- 17+: 5 damage; A \[strong\] slowed (save ends)\
-  **Effect:** You can shift 1 square after the attack is resolved.
+- 17+: 5 damage; A \[strong\] slowed (save ends)
+
+**Effect:** You can shift 1 square after the attack is resolved.

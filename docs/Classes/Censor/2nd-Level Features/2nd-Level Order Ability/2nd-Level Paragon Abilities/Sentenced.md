@@ -28,4 +28,4 @@ target: 1 creature
 
 **Power Roll + Presence:** - 11 or lower: 5 damage; P \[weak\] restrained (save ends) - 12-16: 9 damage; P \[average\] restrained (save ends) - 17+: 12 damage; P \[strong\] restrained (save ends)
 
-- **Effect:** Your forced movement abilities can still move the target while they are restrained this way.
+**Effect:** Your forced movement abilities can still move the target while they are restrained this way.

@@ -20,10 +20,11 @@ target: 1 creature or object
 # Pressure Points
 
 > You strike at key nerve clusters.
-> |  |  |
-> | :\------------------------------------------------ | :-------------------------------- |
-> | **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action |
-> | **Distance:** Melee 1 | **Target:** 1 creature or object |
+
+|                                              |                                  |
+| :------------------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action                 |
+| **Distance:** Melee 1                        | **Target:** 1 creature or object |
 
 **Power Roll + Agility:**
 

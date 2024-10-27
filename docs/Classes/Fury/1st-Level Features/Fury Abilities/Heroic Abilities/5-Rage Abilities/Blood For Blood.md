@@ -30,5 +30,6 @@ A mighty strike leaves your foe reeling.
 
 - 11 or lower: 4 damage; M \[weak\] bleeding and weakened (save ends)
 - 12–16: 6 damage; M \[average\] bleeding and weakened (save ends)
-- 17+: 10 damage; M \[strong\] bleeding and weakened (save ends)\
-  **Effect:** You can choose to deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.
+- 17+: 10 damage; M \[strong\] bleeding and weakened (save ends)
+
+**Effect:** You can choose to deal 1d6 damage to yourself to deal an extra 1d6 damage to the target.

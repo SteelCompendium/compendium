@@ -4,6 +4,14 @@ title: Whirlwind
 name_raw: Whirlwind
 name: Whirlwind
 type: kits
+keywords: Attack, Melee, Weapon
+keyword_list:
+  - Attack
+  - Melee
+  - Weapon
+ability_type: Action
+distance: Melee 3
+target: 1 creature
 ---
 
 # Whirlwind
@@ -25,11 +33,12 @@ You wear no armor and wield a whip.
 
 **EXTENSION OF MY ARM**
 
-When you draw your whip back after an attack, your enemy comes ever closer.\
-*Keywords:* Attack, Melee, Weapon\
-*Type:* Action\
-*Distance:* Melee 3\
-*Target:* 1 creature
+When you draw your whip back after an attack, your enemy comes ever closer.
+
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
+| **Distance:** Melee 3               | **Target:** 1 creature |
 
 *Power Roll + Might or Agility:*
 

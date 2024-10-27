@@ -28,11 +28,10 @@ Your divine energy restores the righteous.
 | **Keywords:** Magic, Ranged | **Type:** Maneuver         |
 | **Distance:** Ranged 10     | **Target:** Self or 1 ally |
 
-- **Effect:** The target can spend **1 Recovery**.
+**Effect:** The target can spend **1 Recovery**.
 
 - **Spend Piety:** For each piety spent, you can choose one of the following enhancements:
-
-  - You can target one additional ally within distance.
-  - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
-  - A prone target can stand up.
-  - A target can spend **1 additional Recovery**.
+    - You can target one additional ally within distance.
+    - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
+    - A prone target can stand up.
+    - A target can spend **1 additional Recovery**.

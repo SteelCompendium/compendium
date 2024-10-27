@@ -25,4 +25,4 @@ You may swap places.
 | **Keywords:** Area, Magic | **Type:** Maneuver     |
 | **Distance:** 5 burst     | **Target:** All allies |
 
-- **Effect:** Each target can choose another creature within **5 squares** of them. They swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.
+**Effect:** Each target can choose another creature within **5 squares** of them. They swap places with that creature. The creature they choose must be able to fit into the space they leave and vice versa.

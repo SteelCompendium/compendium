@@ -24,4 +24,4 @@ target: Self and all allies
 | **Keywords:** Area, Magic | **Type:** Routine               |
 | **Distance:** 5 Aura      | **Target:** Self and all allies |
 
-- **Effect:** While this routine is active, each target that starts their turn dying within the aura has an edge on their power rolls and ignores the effects of bleeding until the end of their turn.
+**Effect:** While this routine is active, each target that starts their turn dying within the aura has an edge on their power rolls and ignores the effects of bleeding until the end of their turn.

@@ -133,7 +133,8 @@ You gain access to the following maneuver:
 
 *To your ally, it seems as though the world has slowed down.*
 
-**Effect:** The target can immediately shift a number of squares up to your Reason.\
+**Effect:** The target can immediately shift a number of squares up to your Reason.
+
 **Spend 3 Clarity:** The target can also take a maneuver.
 
 #### Again
@@ -144,7 +145,7 @@ You gain access to the following triggered action:
 
 *You step back a split second to see if things play out a little differently.*
 
-**Trigger:** The target makes an attack. You can use this ability after seeing the result of the roll. You gain 1 clarity.
+- **Trigger:** The target makes an attack. You can use this ability after seeing the result of the roll. You gain 1 clarity.
 
 **Effect:** You force the target to reroll the power roll and use the new result, even if the original result was a critical hit.
 
@@ -156,7 +157,7 @@ You gain access to the following triggered action:
 
 *By creating a brief psychic link with their target, you give a foe a taste of their own medicine.*
 
-**Trigger:** The target deals damage to an ally.
+- **Trigger:** The target deals damage to an ally.
 
 **Effect:** The target takes half the damage they dealt in psychic damage. You gain 1 clarity.
 
@@ -168,8 +169,10 @@ You gain access to the following maneuver:
 
 *Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*
 
-**Effect:** You slide the target a number of squares equal to your Reason score.\
-**Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity you spend.\
+**Effect:** You slide the target a number of squares equal to your Reason score.
+
+**Spend 2+ Clarity:** The size of the creature or object you can target increases by 1 for every 2 clarity you spend.
+
 **Spend 3 Clarity:** You can slide the target vertically.
 
 #### Remote Assistance
@@ -180,7 +183,8 @@ You gain access to the following maneuver:
 
 *An ally gains the benefit of your intellect.*
 
-**Effect:** You use the Aid Attack maneuver on the target.\
+**Effect:** You use the Aid Attack maneuver on the target.
+
 **Spend 3 Clarity:** You target 1 additional creature or object.
 
 #### Repel
@@ -191,7 +195,7 @@ You gain access to the following triggered action:
 
 *They aren't going anywhere, but you might!*
 
-**Trigger:** The target takes damage or is force moved.
+- **Trigger:** The target takes damage or is force moved.
 
 **Effect:** The target gains (SHIELD) against the damage, or the force movement distance is reduced by an amount equal to your Reason score. If they were both damaged and force moved, you choose which is affected. If any forced movement was reduced to 0, the source of the forced movement is pushed a number of squares equal to your Reason, originating from the target. You gain 1 clarity.
 

@@ -28,9 +28,7 @@ You utter a quick prayer that projects aggressive divine energy around a friend 
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 holy damage
-
 - **12–16:** 5 holy damage
-
 - **17+:** 7 holy damage
 
-- **Effect:** You or an ally within distance gains Temporary Stamina equal to your **Intuition score**. This Temporary Stamina disappears at the end of the encounter.
+**Effect:** You or an ally within distance gains Temporary Stamina equal to your **Intuition score**. This Temporary Stamina disappears at the end of the encounter.

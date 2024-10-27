@@ -28,9 +28,7 @@ You drain the energy from your target and revitalize yourself or an ally.
 **Power Roll + Intuition:**
 
 - **11 or lower:** 2 corruption damage
-
 - **12–16:** 3 corruption damage
-
 - **17+:** 5 corruption damage
 
-- **Effect:** You or an ally within distance can spend a Recovery.
+**Effect:** You or an ally within distance can spend a Recovery.

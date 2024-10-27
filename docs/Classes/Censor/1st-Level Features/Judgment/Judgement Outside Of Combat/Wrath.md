@@ -24,7 +24,7 @@ target: 1 enemy
 | **Keywords:** Magic, Ranged | **Type:** Maneuver  |
 | **Distance:** Ranged 10     | **Target:** 1 enemy |
 
-- **Effect:** You bank 1 or more judgment on the target. While a creature has at least 1 judgment on it, any targets they attack gain (SHIELD).
+**Effect:** You bank 1 or more judgment on the target. While a creature has at least 1 judgment on it, any targets they attack gain (SHIELD).
 
 Each judgment banked on the judged creature increases the effectiveness of your censor abilities, indicated on your order's judgment type table below. A creature stays judged until the end of the encounter while they have any judgment on them.
 

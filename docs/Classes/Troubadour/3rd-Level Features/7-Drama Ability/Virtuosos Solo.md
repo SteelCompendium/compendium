@@ -29,7 +29,8 @@ target: 1 creature or object
 | **Distance:** Melee 1 or Ranged 10                 | **Target:** 1 creature or object |
 
 - **Power Roll + Agility or Presence:**
-  - 11 or lower: 9 damage
-  - 12-16: 14 damage; push 3
-  - 17+: 19 damage; push 5
-- **Effect:** You can choose to make the damage sonic damage. You can use this ability on the same target for the next two consecutive rounds without spending drama.
+    - 11 or lower: 9 damage
+    - 12-16: 14 damage; push 3
+    - 17+: 19 damage; push 5
+
+**Effect:** You can choose to make the damage sonic damage. You can use this ability on the same target for the next two consecutive rounds without spending drama.

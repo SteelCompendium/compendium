@@ -27,7 +27,8 @@ You prioritize saving an ally over your own safety.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Triggered |
 | **Distance:** Ranged 5              | **Target:** 1 enemy |
 
-**Trigger:** The target attacks an ally.\
+- **Trigger:** The target attacks an ally.
+
 **Effect:** You move toward the target, ending your move in the nearest square that puts the target adjacent to you if you can. The ally can spend a Recovery and an additional Recovery for each enemy you move past while moving to the target. Then make the following power roll against the target.
 
 **Power Roll + Might:**

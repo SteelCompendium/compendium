@@ -29,6 +29,6 @@ You gain access to the following triggered action:
 | **Keywords:** Psionic, Ranged | **Type:** Triggered    |
 | **Distance:** Ranged 10       | **Target:** 1 creature |
 
-**Trigger:** The target deals damage to an ally.
+- **Trigger:** The target deals damage to an ally.
 
 **Effect:** The target takes half the damage they dealt in psychic damage. You gain 1 clarity.

@@ -24,4 +24,4 @@ target: Self and all allies
 | **Keywords:** Area, Magic | **Type:** Routine               |
 | **Distance:** 5 Aura      | **Target:** Self and all allies |
 
-- **Effect:** Each target that starts their turn within the aura has (SURGE) the next time they deal damage until the end of their turn.
+**Effect:** Each target that starts their turn within the aura has (SURGE) the next time they deal damage until the end of their turn.

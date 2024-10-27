@@ -197,14 +197,14 @@ In addition to the Villain Power granted to these villains by their stat blocks,
 
 - **Ballista Shot (7 VP):** The pirate ship fires a ballista bolt at one or more heroes.
 
-  **Ballista Shot:**
+    **Ballista Shot:**
 
-  - Keywords: Area, Ranged, Resistance
-  - Distance: 3 cube within 50
-  - Target: Each creature in the cube
-  - ✸ ≤11: 5 damage; 3 fire damage
-  - ★ 12–16: 4 damage; 2 fire damage
-  - ✦ 17+: 3 damage; 1 fire damage
+    - Keywords: Area, Ranged, Resistance
+    - Distance: 3 cube within 50
+    - Target: Each creature in the cube
+    - ✸ ≤11: 5 damage; 3 fire damage
+    - ★ 12–16: 4 damage; 2 fire damage
+    - ✦ 17+: 3 damage; 1 fire damage
 
 #### VICTORIES
 

@@ -25,4 +25,4 @@ You forge a divine connection between two creatures.
 | **Keywords:** Magic, Ranged     | **Type:** Maneuver                   |
 | **Distance:** Self or Ranged 10 | **Target:** 2 allies, including self |
 
-- **Effect:** Until the end of the encounter, whenever one target takes damage, the other can choose to take it instead as a free triggered action. The original target still suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other can also spend a Recovery as a free triggered action.
+**Effect:** Until the end of the encounter, whenever one target takes damage, the other can choose to take it instead as a free triggered action. The original target still suffers any effects associated with the damage. Additionally, whenever one target spends a Recovery, the other can also spend a Recovery as a free triggered action.

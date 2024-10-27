@@ -21,10 +21,11 @@ target: 1 creature or object
 # Anticipating Strike (3 Discipline)
 
 > You foresee the best moment to strike and exploit it.
-> |  |  |
-> | :\------------------------------------------------ | :-------------------------------- |
-> | **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action |
-> | **Distance:** Melee 1 | **Target:** 1 creature or object |
+
+|                                              |                                  |
+| :------------------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Melee, Psionic, Weapon | **Type:** Action                 |
+| **Distance:** Melee 1                        | **Target:** 1 creature or object |
 
 **Power Roll + Agility:**
 

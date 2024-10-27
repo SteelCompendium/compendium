@@ -27,4 +27,4 @@ You gain the following ability:
 | **Keywords:** Magic | **Type:** Maneuver |
 | **Distance:** Self  | **Target:** Self   |
 
-- **Effect:** You create a mundane object no larger than size 1S. You can maintain a number of objects created this way by you equal to your Presence score. You can destroy an object created this way by you with a thought, no matter how far you are from it (no action required).
+**Effect:** You create a mundane object no larger than size 1S. You can maintain a number of objects created this way by you equal to your Presence score. You can destroy an object created this way by you with a thought, no matter how far you are from it (no action required).

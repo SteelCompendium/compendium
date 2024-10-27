@@ -25,4 +25,4 @@ The gods grant insight revealing where best to strike your enemies.
 | **Keywords:** Aura, Magic     | **Type:** Maneuver              |
 | **Distance:** Self and 3 Aura | **Target:** Self and all allies |
 
-- **Effect:** Until the end of the encounter or you start dying, each target in the aura gains **+1** on their abilities.
+**Effect:** Until the end of the encounter or you start dying, each target in the aura gains **+1** on their abilities.

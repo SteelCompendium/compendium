@@ -27,5 +27,6 @@ You gain access to the following maneuver:
 | **Keywords:** Psionic   | **Type:** Maneuver               |
 | **Distance:** Ranged 10 | **Target:** 1 creature or object |
 
-**Effect:** You use the Aid Attack maneuver on the target.\
+**Effect:** You use the Aid Attack maneuver on the target.
+
 **Spend 3 Clarity:** You target 1 additional creature or object.

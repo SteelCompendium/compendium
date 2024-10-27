@@ -25,7 +25,4 @@ Your enemies suffer their fate; your allies, their destiny!
 | **Keywords:** Area, Magic | **Type:** Action    |
 | **Distance:** 2 aura      | **Target:** Special |
 
-- **Effect:** Choose one effect that lasts until the end of the encounter or you start dying:
-
-  - Whenever you or an ally in the aura makes a power roll, they can roll three dice and choose which two to use.
-  - Whenever an enemy in the aura makes a power roll, they must roll three dice and use the lowest two.
+**Effect:** Choose one effect that lasts until the end of the encounter or you start dying: - Whenever you or an ally in the aura makes a power roll, they can roll three dice and choose which two to use. - Whenever an enemy in the aura makes a power roll, they must roll three dice and use the lowest two.

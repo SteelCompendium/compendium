@@ -30,5 +30,6 @@ Your enemies try in vain to fall back from your pouncing attack.
 
 - 11 or lower: 4 damage
 - 12–16: 5 damage; push 1
-- 17+: 7 damage; push 2\
-  **Effect:** You can shift the same number of squares that you pushed the target.
+- 17+: 7 damage; push 2
+
+**Effect:** You can shift the same number of squares that you pushed the target.

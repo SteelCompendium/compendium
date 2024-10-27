@@ -21,10 +21,11 @@ target: All enemies
 # A Squad Unto Myself (5 Discipline)
 
 > You move so quickly, it seems as though an army assaulted your foes.
-> |  |  |
-> | :\---------------------------------------------- | :-------------------------------- |
-> | **Keywords:** Area, Melee, Psionic, Weapon | **Type:** Action |
-> | **Distance:** 2 burst | **Target:** All enemies |
+
+|                                            |                         |
+| :----------------------------------------- | :---------------------- |
+| **Keywords:** Area, Melee, Psionic, Weapon | **Type:** Action        |
+| **Distance:** 2 burst                      | **Target:** All enemies |
 
 **Power Roll + Agility:**
 

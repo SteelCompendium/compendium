@@ -24,4 +24,4 @@ target: Self and all allies
 | **Keywords:** Area, Magic | **Type:** Routine               |
 | **Distance:** 5 Aura      | **Target:** Self and all allies |
 
-- **Effect:** While this routine is active, each target that starts their turn within the aura doesn't suffer a bane when targeting concealed enemies. They can also search for hidden creatures as a free maneuver once during their turn.
+**Effect:** While this routine is active, each target that starts their turn within the aura doesn't suffer a bane when targeting concealed enemies. They can also search for hidden creatures as a free maneuver once during their turn.

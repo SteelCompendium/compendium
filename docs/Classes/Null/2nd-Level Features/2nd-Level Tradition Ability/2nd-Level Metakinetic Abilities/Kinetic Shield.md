@@ -18,10 +18,11 @@ target: Self
 # Kinetic Shield (5 Discipline)
 
 > You manifest a force barrier that absorbs incoming kinetic energy.
-> |  |  |
-> | :\----------------------------------- | :-------------------------------- |
-> | **Keywords:** Psionic | **Type:** Maneuver |
-> | **Distance:** Self | **Target:** Self |
+
+|                       |                    |
+| :-------------------- | :----------------- |
+| **Keywords:** Psionic | **Type:** Maneuver |
+| **Distance:** Self    | **Target:** Self   |
 
 **Power Roll + Intuition:**
 

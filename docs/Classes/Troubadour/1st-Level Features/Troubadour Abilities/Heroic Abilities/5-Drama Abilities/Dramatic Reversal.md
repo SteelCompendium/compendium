@@ -25,6 +25,6 @@ target: Self and all allies
 | **Distance:** 3 Burst | **Target:** Self and all allies |
 
 - **Power Roll + Presence:**
-  - 11 or lower: shift 1; target can take a free strike
-  - 12-16: shift 2; target can take a free strike with (SURGE)
-  - 17+: shift 3; target can take a free strike with (SURGE) and spend 1 Recovery
+    - 11 or lower: shift 1; target can take a free strike
+    - 12-16: shift 2; target can take a free strike with (SURGE)
+    - 17+: shift 3; target can take a free strike with (SURGE) and spend 1 Recovery

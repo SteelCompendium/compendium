@@ -26,8 +26,10 @@ target: 2 creatures or objects
 | **Distance:** Melee 1               | **Target:** 2 creatures or objects |
 
 - **Power Roll + Agility:**
-  - 11 or lower: 2 damage
-  - 12-16: 3 damage
-  - 17+: 5 damage
-- **Effect:** You shift 3 squares.
-  - **Spend 2+ Drama:** You can target 1 additional creature or object in range for every 2 drama you spend.
+    - 11 or lower: 2 damage
+    - 12-16: 3 damage
+    - 17+: 5 damage
+
+**Effect:** You shift 3 squares.
+
+**Spend 2+ Drama:** You can target 1 additional creature or object in range for every 2 drama you spend.

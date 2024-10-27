@@ -25,4 +25,4 @@ target: 1 dead enemy
 | **Keywords:** Magic, Ranged | **Type:** Action         |
 | **Distance:** Ranged 10     | **Target:** 1 dead enemy |
 
-- **Effect:** The target comes back to life with half their Stamina as an ally under the Director's control. The heroes can discuss with the Director when the target should take their turn each round. The target turns to dust and blows away at the end of the encounter.
+**Effect:** The target comes back to life with half their Stamina as an ally under the Director's control. The heroes can discuss with the Director when the target should take their turn each round. The target turns to dust and blows away at the end of the encounter.

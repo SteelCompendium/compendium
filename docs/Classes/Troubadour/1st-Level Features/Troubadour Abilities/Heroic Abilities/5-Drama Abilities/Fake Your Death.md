@@ -24,4 +24,4 @@ target: Self
 | **Keywords:** Magic | **Type:** Maneuver |
 | **Distance:** Self  | **Target:** Self   |
 
-- **Effect:** You turn invisible and create a magical illusion of your corpse falling in your square. While invisible, your speed increases by 3 and you ignore difficult terrain. The illusion melts into the ground and your invisibility ends if the illusion is interacted with, you take damage, you perform an action or a maneuver, or at the end of your next turn.
+**Effect:** You turn invisible and create a magical illusion of your corpse falling in your square. While invisible, your speed increases by 3 and you ignore difficult terrain. The illusion melts into the ground and your invisibility ends if the illusion is interacted with, you take damage, you perform an action or a maneuver, or at the end of your next turn.

@@ -25,4 +25,4 @@ A marble statue of your patron rises from the earth.
 | **Keywords:** Magic, Ranged | **Type:** Maneuver  |
 | **Distance:** Ranged 10     | **Target:** Special |
 
-- **Effect:** A **size 2** statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. You and each ally within **3 squares** of the statue gain **+1** on their abilities. The statue is destroyed if it takes **20 or more damage**. It is immune to poison and psychic damage.
+**Effect:** A **size 2** statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. You and each ally within **3 squares** of the statue gain **+1** on their abilities. The statue is destroyed if it takes **20 or more damage**. It is immune to poison and psychic damage.

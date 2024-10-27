@@ -25,4 +25,4 @@ The gods reward those who smite their foes.
 | **Keywords:** Magic, Ranged | **Type:** Maneuver     |
 | **Distance:** Ranged 10     | **Target:** All allies |
 
-- **Effect:** Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to **5 + your Intuition score**.
+**Effect:** Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to **5 + your Intuition score**.

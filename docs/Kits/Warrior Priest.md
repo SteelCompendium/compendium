@@ -4,6 +4,15 @@ title: Warrior Priest
 name_raw: Warrior Priest
 name: Warrior Priest
 type: kits
+keywords: Attack, Magic, Melee, Weapon
+keyword_list:
+  - Attack
+  - Magic
+  - Melee
+  - Weapon
+ability_type: Action
+distance: Melee 1
+target: 1 creature or object
 ---
 
 # Warrior Priest
@@ -25,11 +34,12 @@ You wear heavy armor and wield a light weapon.
 
 **WEAKENING BRAND**
 
-The impact of your weapon brands your target for destruction.\
-*Keywords:* Attack, Magic, Melee, Weapon\
-*Type:* Action\
-*Distance:* Melee 1\
-*Target:* 1 creature or object
+The impact of your weapon brands your target for destruction.
+
+|                                            |                                  |
+| :----------------------------------------- | :------------------------------- |
+| **Keywords:** Attack, Magic, Melee, Weapon | **Type:** Action                 |
+| **Distance:** Melee 1                      | **Target:** 1 creature or object |
 
 *Power Roll + Might, Reason, Intuition, or Presence:*
 

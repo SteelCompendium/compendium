@@ -99,13 +99,13 @@ Your encyclopedic knowledge of the history of battle lets you apply that knowled
 Additionally, if you have a reasonable amount of time before a combat encounter or negotiation, and you have at least one clue or rumor regarding the encounter, you can make a Reason test as a Respite activity. The following test results apply:
 
 - **Combat Encounter:**
-  - 11 or lower: The Director tells you the number of creatures in the encounter.
-  - 12-16: The Director tells you the number and level of the creatures in the encounter.
-  - 17+: As 12-16, and when the encounter begins, all enemies are surprised.
+    - 11 or lower: The Director tells you the number of creatures in the encounter.
+    - 12-16: The Director tells you the number and level of the creatures in the encounter.
+    - 17+: As 12-16, and when the encounter begins, all enemies are surprised.
 - **Negotiation:**
-  - 11 or lower: The Director tells you three different motivations, one of which is one of the NPC's motivations, and the other two are not.
-  - 12-16: The Director tells you one of the NPC's motivations.
-  - 17+: As 12-16, and you and your allies gain an edge on tests made to influence NPCs during the negotiation.
+    - 11 or lower: The Director tells you three different motivations, one of which is one of the NPC's motivations, and the other two are not.
+    - 12-16: The Director tells you one of the NPC's motivations.
+    - 17+: As 12-16, and you and your allies gain an edge on tests made to influence NPCs during the negotiation.
 
 You can only make this test once for each encounter and negotiation.
 
@@ -117,7 +117,7 @@ Your doctrine grants you a triggered action, as shown on the Tactician Triggered
 | ---------- | ---------------- |
 | Vanguard   | Parry            |
 | Mastermind | Overwatch        |
-| Insurgent  | Dirty Tricks     |
+| Insurgent  | Advanced Tactics |
 
 #### Advanced Tactics
 
@@ -128,24 +128,30 @@ Your leadership thwarts an enemy or aids an ally.
 | **Keywords:** â                    | **Type:** Maneuver |
 | **Distance:** Self | **Target:** Self   |
 
-**Trigger:** The target makes an attack against another creature.\
-**Effect:** Add or subtract (SURGE) to the attack.\
+- **Trigger:** The target makes an attack against another creature.
+
+**Effect:** Add or subtract (SURGE) to the attack.
+
 **Spend 3 Focus:** Increase or decrease the potency of one effect from the attack.
 
 #### Parry
 
 Your quick reflexes cost an enemy the precision they seek.
 
-**Trigger:** A creature makes a Weapon attack against the target.\
-**Effect:** The attack's damage is reduced (SHIELD)(SHIELD).\
+- **Trigger:** A creature makes a Weapon attack against the target.
+
+**Effect:** The attack's damage is reduced (SHIELD)(SHIELD).
+
 **Spend 3 Focus:** Decrease the potency of all effects on the attack by 1.
 
 #### Overwatch
 
 Under your direction, an ally waits for just the right moment to strike.
 
-**Trigger:** The target moves.\
-**Effect:** At any point during the target's movement, one ally can make a free strike against the target.\
+- **Trigger:** The target moves.
+
+**Effect:** At any point during the target's movement, one ally can make a free strike against the target.
+
 **Spend 1 Focus:** The target is also R \[average\] slowed.
 
 ### Field Arsenal
@@ -175,7 +181,8 @@ You know how to focus the attention of your allies as you push them toward victo
 
 You draw your allies' attention to a specific foeâwith devastating effect.
 
-**Effect:** The target is marked by you until the start of your next turn. When attacking a marked target, you and each of your allies gain a damage surge (SURGE).\
+**Effect:** The target is marked by you until the start of your next turn. When attacking a marked target, you and each of your allies gain a damage surge (SURGE).
+
 **Spend 1 Focus or More Focus:** You focus on understanding the tactics of your foe, countering their strengths and exploiting their weaknesses to enhance your squad.
 
 Each focus is banked on the marked creature, increasing the effectiveness of your mark, as indicated on your doctrine's focused mark table below. A marked creature with focus on it stays marked until the end of the encounter. When the marked creature is reduced to 0 Stamina or otherwise removes the mark, you regain the focus.
@@ -317,7 +324,8 @@ Your ability to command your allies in combat grants you the following ability:
 
 Your foe left an opening. You point this out to an ally!
 
-**Effect:** The target makes a signature attack as a free triggered action.\
+**Effect:** The target makes a signature attack as a free triggered action.
+
 **Spend 5 Focus:** You target two allies instead of one.
 
 ### 1st-level Doctrine Features
@@ -508,7 +516,8 @@ Choose one of the following abilities.
 
 You prioritize saving an ally over your own safety.
 
-**Trigger:** The target attacks an ally.\
+- **Trigger:** The target attacks an ally.
+
 **Effect:** You move toward the target, ending your move in the nearest square that puts the target adjacent to you if you can. The ally can spend a Recovery and an additional Recovery for each enemy you move past while moving to the target. Then make the following power roll against the target.
 
 **Power Roll + Might:**
