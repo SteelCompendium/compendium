@@ -69,7 +69,7 @@ By observing your enemy, you learn how to use their weaknesses against them. You
 
 #### Insight In Combat
 
-When combat begins, gain insight equal to your Victories. At the start of each of your turns during combat, you gain 1d3 insight. Additionally, the first time each round that you deal damage with an ability that has a power roll and at least one �, you gain 1 insight.
+When combat begins, gain insight equal to your Victories. At the start of each of your turns during combat, you gain 1d3 insight. Additionally, the first time each round that you deal damage with an ability that has a power roll and at least one \[SURGE\], you gain 1 insight.
 
 When combat ends, you lose all of your insight.
 
@@ -106,7 +106,7 @@ In a swirl of black ash, you step from one place to another.
 | **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
 | **Distance:** Melee 1 or Ranged 5           | **Target:** 1 creature |
 
-**Effect:** You teleport up to 5 squares. If you end this movement in concealment or cover, you can use the Hide maneuver even if you are observed. If you attack another creature while hidden from this ability or on the same turn after using this ability, the attack gains �.
+**Effect:** You teleport up to 5 squares. If you end this movement in concealment or cover, you can use the Hide maneuver even if you are observed. If you attack another creature while hidden from this ability or on the same turn after using this ability, the attack gains \[SURGE\].
 
 **Spend Insight:** You teleport 1 additional square for each insight spent.
 
@@ -118,9 +118,9 @@ You gain the following ability.
 
 Just a little poison goes a long way.
 
-**Effect:** You coat one of your weapons with a harmful poison. The next creature you damage with an ability that uses that weapon takes � poison damage. The poison loses its potency after you damage the creature or at the end of the encounter.
+**Effect:** You coat one of your weapons with a harmful poison. The next creature you damage with an ability that uses that weapon takes \[SURGE\] poison damage. The poison loses its potency after you damage the creature or at the end of the encounter.
 
-**Spend Insight:** For each insight you spend, add � to the effect.
+**Spend Insight:** For each insight you spend, add \[SURGE\] to the effect.
 
 #### I'm On Your Side
 
@@ -130,7 +130,7 @@ You gain the following ability.
 
 Taking on the illusory countenance of another creature gives you an advantage on subterfuge.
 
-**Effect:** Choose a creature whose size is no more than 1 greater than yours, and who is within 10 squares of you. Your body is covered in an illusion that makes you appear to be that creature. This illusion covers your entire body, including clothing and armor, and changes your voice to sound like the creature. While this illusion lasts, you gain an edge and � on attacks against the creature's allies. You also gain an edge on tests made to convince that creature's allies that you are the creature who you appear to be. These benefits don't apply against the creature whose appearance you've taken on. The illusion ends when you harm another creature, when you and another creature physically interact, when you use this ability again, or when you end the illusion (no action required).
+**Effect:** Choose a creature whose size is no more than 1 greater than yours, and who is within 10 squares of you. Your body is covered in an illusion that makes you appear to be that creature. This illusion covers your entire body, including clothing and armor, and changes your voice to sound like the creature. While this illusion lasts, you gain an edge and \[SURGE\] on attacks against the creature's allies. You also gain an edge on tests made to convince that creature's allies that you are the creature who you appear to be. These benefits don't apply against the creature whose appearance you've taken on. The illusion ends when you harm another creature, when you and another creature physically interact, when you use this ability again, or when you end the illusion (no action required).
 
 #### Smoke Bomb
 
@@ -160,16 +160,16 @@ You sow a moment of confusion in combat, to your enemy's peril.
 When an enemy attacks, you roll with the impact to reduce the harm.
 
 **Trigger:** Another creature damages you.\
-**Effect:** You gain ��� against the triggering damage and then can shift up to 2 squares after the damage and its effects resolve. If you end this movement with concealment or cover, you can use the Hide maneuver even if you are observed.
+**Effect:** You gain [SHIELD](#shield) against the triggering damage and then can shift up to 2 squares after the damage and its effects resolve. If you end this movement with concealment or cover, you can use the Hide maneuver even if you are observed.
 
-**Spend 1 Insight:** You gain ������ against the triggering damage instead.
+**Spend 1 Insight:** You gain [SHIELD](#shield) against the triggering damage instead.
 
 ##### In All This Confusion
 
 You vanish in a plume of black smoke to avoid danger.
 
 **Trigger:** You take damage.\
-**Effect:** You gain ��� against the triggering damage and then can teleport up to 4 squares after the damage and its effects resolve.
+**Effect:** You gain [SHIELD](#shield) against the triggering damage and then can teleport up to 4 squares after the damage and its effects resolve.
 
 **Spend Insight:** You teleport 1 additional square for each insight spent.
 
@@ -206,7 +206,7 @@ Your precise strikes let your allies take advantage of a target's agony.
 - 12–16: 4 damage
 - 17+: 6 damage; I \[strong\] prone
 
-**Effect:** The next ability that damages the target before the start of your next turn gains �.
+**Effect:** The next ability that damages the target before the start of your next turn gains \[SURGE\].
 
 ##### I Work Better Alone
 
@@ -218,7 +218,7 @@ It's better, just you and me. Isn't it?
 - 12–16: 5 damage
 - 17+: 7 damage
 
-**Effect:** If the target has no allies adjacent to them, you gain � on the attack.
+**Effect:** If the target has no allies adjacent to them, you gain \[SURGE\] on the attack.
 
 ##### Teamwork Has Its Place
 
@@ -230,7 +230,7 @@ You fire a bolt at an enemy, distracting them long enough for an ally to stab th
 - 12–16: 5 damage
 - 17+: 8 damage
 
-**Effect:** If an ally is adjacent to the target, the target takes additional � damage.
+**Effect:** If an ally is adjacent to the target, the target takes additional \[SURGE\] damage.
 
 ##### You Were Watching The Wrong One
 
@@ -242,7 +242,7 @@ They can't watch both of you at once.
 - 12–16: 6 damage
 - 17+: 9 damage
 
-**Effect:** If you are flanking the target when you make this attack, choose one ally who is flanking with you. That ally has � on melee attacks against the target until the end of the ally's next turn, even if they are no longer flanking the target.
+**Effect:** If you are flanking the target when you make this attack, choose one ally who is flanking with you. That ally has \[SURGE\] on melee attacks against the target until the end of the ally's next turn, even if they are no longer flanking the target.
 
 #### Heroic Abilities
 
@@ -328,15 +328,15 @@ Your friends will thank you.
 
 **Power Roll + Agility:**
 
-- 11 or lower: 6 damage; R \[weak\] When the target takes damage from an ability, the ability gains � (save ends)
-- 12–16: 9 damage; R \[average\] When the target takes damage from an ability, the ability gains �� (save ends)
-- 17+: 13 damage; R \[strong\] When the target takes damage from an ability, the ability gains ��� (save ends)
+- 11 or lower: 6 damage; R \[weak\] When the target takes damage from an ability, the ability gains \[SURGE\] (save ends)
+- 12–16: 9 damage; R \[average\] When the target takes damage from an ability, the ability gains \[SURGE\]\[SURGE\] (save ends)
+- 17+: 13 damage; R \[strong\] When the target takes damage from an ability, the ability gains \[SURGE\]\[SURGE\]\[SURGE\] (save ends)
 
 ###### Shadowstrike (5 Insight)
 
 They have no idea what the college taught you.
 
-**Effect:** You make two signature attacks and each gains �.
+**Effect:** You make two signature attacks and each gains \[SURGE\].
 
 ## 2nd-level Features
 
@@ -356,7 +356,7 @@ Your specialization grants you a feature as shown on the 2nd-Level Shadow Colleg
 
 #### Burning Ash
 
-Whenever you teleport away from or into a space adjacent to an enemy, that enemy takes � fire damage.
+Whenever you teleport away from or into a space adjacent to an enemy, that enemy takes \[SURGE\] fire damage.
 
 #### Friend!
 
@@ -364,11 +364,11 @@ Whenever an enemy creature uses an ability or trait that targets multiple allies
 
 #### Trained Assassin
 
-Whenever you make an attack with at least one � and no banes against a target, the attack gains an extra �.
+Whenever you make an attack with at least one \[SURGE\] and no banes against a target, the attack gains an extra \[SURGE\].
 
 ### Extra Surge
 
-Your � limit increases by 1, for a maximum of ����.
+Your \[SURGE\] limit increases by 1, for a maximum of \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\].
 
 Draw Steel © 2024 MCDM Productions, LLC
 
@@ -399,7 +399,7 @@ You enchant a strike with your teleportation magic.
 Your foe made a big mistake.
 
 **Trigger:** You use In All This Confusion.\
-**Effect:** You gain an additional ��� against the triggering attack. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.
+**Effect:** You gain an additional [SHIELD](#shield) against the triggering attack. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.
 
 #### 2nd-level Caustic Alchemy Abilities
 
@@ -458,7 +458,7 @@ As a 3rd-level shadow, you gain the following features.
 
 ### Careful Observation
 
-Given the chance to watch your foe, you can assess their vulnerabilities and pick the perfect moment to strike. As a maneuver, you observe and take aim at a creature within 20 squares of you. If you do, you gain an edge on the next attack you make against that foe and the attack deals an extra � damage, provided you attack no other creature before attacking the one you observe, stay within 20 squares of them, and don't lose line of effect to them. You can stack the effects of this feature on a single creature up to four times.
+Given the chance to watch your foe, you can assess their vulnerabilities and pick the perfect moment to strike. As a maneuver, you observe and take aim at a creature within 20 squares of you. If you do, you gain an edge on the next attack you make against that foe and the attack deals an extra \[SURGE\] damage, provided you attack no other creature before attacking the one you observe, stay within 20 squares of them, and don't lose line of effect to them. You can stack the effects of this feature on a single creature up to four times.
 
 ### 7-insight Abilities
 

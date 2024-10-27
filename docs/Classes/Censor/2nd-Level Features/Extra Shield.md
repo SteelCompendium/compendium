@@ -10,4 +10,4 @@ kind: 2nd-level features
 
 # Extra Shield
 
-Your ��� limit increases by 1, for a maximum of ������������.
+Your [SHIELD](#shield) limit increases by 1, for a maximum of [SHIELD](#shield)[SHIELD](#shield).

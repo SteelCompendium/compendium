@@ -33,4 +33,4 @@ An enormous fist rises from the ground to crush your foes.
 - 12-16: 9 damage; M \[average\] restrained (save ends)
 - 17+: 12 damage; M \[strong\] restrained (save ends)
 
-**Effect:** While the target is restrained, they take �� damage at the start of their turn.
+**Effect:** While the target is restrained, they take \[SURGE\]\[SURGE\] damage at the start of their turn.

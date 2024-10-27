@@ -28,4 +28,4 @@ Your body has been trained to predict when attacks will happen before they happe
 > | **Distance:** Self | **Target:** Self |
 
 **Trigger:** You take damage.\
-**Effect:** You gain ��� for the attack and reduce any potency of effects associated with the damage by 1.
+**Effect:** You gain [SHIELD](#shield) for the attack and reduce any potency of effects associated with the damage by 1.

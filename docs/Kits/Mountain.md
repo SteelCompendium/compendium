@@ -36,4 +36,4 @@ An enemy who tagged you will pay for that.\
 - 12–16: 5 damage
 - 17+: 11 damage
 
-*Effect:* If the target dealt damage to you since the end of your last turn, this attack gains �.
+*Effect:* If the target dealt damage to you since the end of your last turn, this attack gains \[SURGE\].

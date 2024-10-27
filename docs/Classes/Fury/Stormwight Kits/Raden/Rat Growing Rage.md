@@ -25,30 +25,30 @@ kind: stormwight kits
 <tr class="odd">
 <td>3</td>
 <td>- You have Weapon immunity 2.<br />
-- While in rat form, your attacks do �.<br />
+- While in rat form, your attacks do [SURGE].<br />
 - While in rat form, if you attack a creature you are climbing, that creature is bleeding (EoT).</td>
 </tr>
 <tr class="even">
 <td>6</td>
-<td>- While in rat or hybrid rat form, you can use all your abilities, and your attacks do ��.<br />
+<td>- While in rat or hybrid rat form, you can use all your abilities, and your attacks do [SURGE][SURGE].<br />
 - While in rat or hybrid form, if you attack a creature you are climbing, that creature is bleeding (EoT).</td>
 </tr>
 <tr class="odd">
 <td>9</td>
-<td>You have ���. Any damage you ignore because of this is dealt to each enemy adjacent to you as �.</td>
+<td>You have <a href="#shield">SHIELD</a>. Any damage you ignore because of this is dealt to each enemy adjacent to you as [SURGE].</td>
 </tr>
 <tr class="even">
 <td>12 (Level 4)</td>
-<td>- While in rat or hybrid rat form, you can use all your abilities, and your attacks do ���.<br />
+<td>- While in rat or hybrid rat form, you can use all your abilities, and your attacks do [SURGE][SURGE][SURGE].<br />
 - While in rat or hybrid form, if you attack a creature you are climbing, that creature is bleeding (EoT).</td>
 </tr>
 <tr class="odd">
 <td>15 (Level 7)</td>
-<td>You have ��� ���. Any damage you ignore because of this immunity is dealt to each enemy adjacent to you as ��.</td>
+<td>You have <a href="#shield">SHIELD</a>. Any damage you ignore because of this immunity is dealt to each enemy adjacent to you as [SURGE][SURGE].</td>
 </tr>
 <tr class="even">
 <td>18 (Level 10)</td>
-<td>- While in rat or hybrid rat form, you can use all your abilities, and your attacks do ����.<br />
+<td>- While in rat or hybrid rat form, you can use all your abilities, and your attacks do [SURGE][SURGE][SURGE][SURGE].<br />
 - While in rat or hybrid rat form, if you attack a creature you are climbing, that creature is bleeding (EoT).<br />
 - Your size increases by 1 and you gain 20 Temporary Stamina the first time you grow to this size in the encounter.</td>
 </tr>

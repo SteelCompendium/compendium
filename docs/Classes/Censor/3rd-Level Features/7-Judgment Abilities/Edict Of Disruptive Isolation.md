@@ -24,4 +24,4 @@ target: All enemies
 | **Keywords:** –      | **Type:** Maneuver      |
 | **Distance:** 2 Aura | **Target:** All enemies |
 
-- **Effect:** Until the end of the encounter or you are dying, when you begin your turn, each target takes � holy damage and � additional holy damage if they are adjacent to another enemy. If a target is judged by you, they take an additional 2d6 holy damage if they are adjacent to another enemy.
+- **Effect:** Until the end of the encounter or you are dying, when you begin your turn, each target takes \[SURGE\] holy damage and \[SURGE\] additional holy damage if they are adjacent to another enemy. If a target is judged by you, they take an additional 2d6 holy damage if they are adjacent to another enemy.

@@ -10,7 +10,7 @@ kind: 1st-level features
 
 # Primordial Strength
 
-When you damage an object with a weapon attack, it takes an �. Additionally, whenever you push another creature into an object, they take �. As your rage grows, your primordial strength intensifies.
+When you damage an object with a weapon attack, it takes an \[SURGE\]. Additionally, whenever you push another creature into an object, they take \[SURGE\]. As your rage grows, your primordial strength intensifies.
 
 ## Primordial Strength Growing Rage
 
@@ -29,11 +29,11 @@ When you damage an object with a weapon attack, it takes an �. Additionally, w
 <tr class="odd">
 <td>3</td>
 <td>- You gain an edge on Might tests and resistance rolls.<br />
-- You deal � if you are at least 2 squares from where you started your turn when you attack.</td>
+- You deal [SURGE] if you are at least 2 squares from where you started your turn when you attack.</td>
 </tr>
 <tr class="even">
 <td>6</td>
-<td>You deal �� if you are at least two squares from where you started your turn when you attack.</td>
+<td>You deal [SURGE][SURGE] if you are at least two squares from where you started your turn when you attack.</td>
 </tr>
 <tr class="odd">
 <td>9</td>
@@ -41,7 +41,7 @@ When you damage an object with a weapon attack, it takes an �. Additionally, w
 </tr>
 <tr class="even">
 <td>12 (Level 4)</td>
-<td>You deal ��� if you are at least two squares from where you started your turn when you attack.</td>
+<td>You deal [SURGE][SURGE][SURGE] if you are at least two squares from where you started your turn when you attack.</td>
 </tr>
 <tr class="odd">
 <td>15 (Level 7)</td>
@@ -49,7 +49,7 @@ When you damage an object with a weapon attack, it takes an �. Additionally, w
 </tr>
 <tr class="even">
 <td>18 (Level 10)</td>
-<td>- You deal ���� if you are at least two squares from where you started your turn when you attack.<br />
+<td>- You deal [SURGE][SURGE][SURGE][SURGE] if you are at least two squares from where you started your turn when you attack.<br />
 - You become size 2 and the reach of your melee weapon abilities increases by 1.</td>
 </tr>
 </tbody>

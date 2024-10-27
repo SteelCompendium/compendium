@@ -23,4 +23,4 @@ target: Self
 > | **Keywords:** Psionic | **Type:** Maneuver |
 > | **Distance:** Self | **Target:** Self |
 
-**Effect:** Until the beginning of your next turn, your nullification aura distance increases by 1. Enemies treat the aura as difficult terrain, you and your allies benefit from concealment while in the aura, and enemies take � cold damage when they start their turn in the aura.
+**Effect:** Until the beginning of your next turn, your nullification aura distance increases by 1. Enemies treat the aura as difficult terrain, you and your allies benefit from concealment while in the aura, and enemies take \[SURGE\] cold damage when they start their turn in the aura.

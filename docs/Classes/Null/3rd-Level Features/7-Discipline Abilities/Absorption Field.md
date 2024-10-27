@@ -23,4 +23,4 @@ target: Self
 > | **Keywords:** Psionic | **Type:** Maneuver |
 > | **Distance:** Self | **Target:** Self |
 
-**Effect:** Until the end of the encounter, the area of your null field increases to 2 aura, adds a bane to all enemy attacks in the aura, and you and all allies gain ��� while in the aura.
+**Effect:** Until the end of the encounter, the area of your null field increases to 2 aura, adds a bane to all enemy attacks in the aura, and you and all allies gain [SHIELD](#shield) while in the aura.

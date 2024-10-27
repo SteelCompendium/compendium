@@ -37,4 +37,4 @@ Your ammunition explodes with magical energy.\
 - 12–16: 6 damage
 - 17+: 8 damage
 
-*Effect:* A creature or object within 2 squares of your target takes � damage.
+*Effect:* A creature or object within 2 squares of your target takes \[SURGE\] damage.

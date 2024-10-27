@@ -14,7 +14,7 @@ By observing your enemy, you learn how to use their weaknesses against them. You
 
 ## Insight In Combat
 
-When combat begins, gain insight equal to your Victories. At the start of each of your turns during combat, you gain 1d3 insight. Additionally, the first time each round that you deal damage with an ability that has a power roll and at least one �, you gain 1 insight.
+When combat begins, gain insight equal to your Victories. At the start of each of your turns during combat, you gain 1d3 insight. Additionally, the first time each round that you deal damage with an ability that has a power roll and at least one \[SURGE\], you gain 1 insight.
 
 When combat ends, you lose all of your insight.
 

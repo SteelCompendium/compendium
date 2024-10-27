@@ -29,11 +29,11 @@ You are never surprised. Additionally, whenever you would push a target with for
 <tr class="odd">
 <td>3</td>
 <td>- You gain an edge on Agility tests and resistance rolls.<br />
-- Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal �.</td>
+- Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal [SURGE].</td>
 </tr>
 <tr class="even">
 <td>6</td>
-<td>Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal ��.</td>
+<td>Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal [SURGE][SURGE].</td>
 </tr>
 <tr class="odd">
 <td>9</td>
@@ -49,7 +49,7 @@ You are never surprised. Additionally, whenever you would push a target with for
 </tr>
 <tr class="even">
 <td>18 (Level 10)</td>
-<td>- Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal ����.<br />
+<td>- Once per turn, when you slide a target or move adjacent to a target during a shift, you can deal [SURGE][SURGE][SURGE][SURGE].<br />
 - Once per turn, as a free maneuver, you can remove an effect or condition affecting you. You can choose to apply the removed effect or condition to an adjacent enemy, who is affected by it until the End of the Encounter.</td>
 </tr>
 </tbody>

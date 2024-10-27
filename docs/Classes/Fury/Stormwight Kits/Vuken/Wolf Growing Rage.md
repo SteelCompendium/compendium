@@ -25,13 +25,13 @@ kind: stormwight kits
 <tr class="odd">
 <td>3</td>
 <td>- You gain an edge on Agility tests and resistance rolls.<br />
-- While in wolf form, your attacks do �.<br />
-- When you attack a target while in wolf form, the next ally to damage that target before the start of your next turn has � against the target.</td>
+- While in wolf form, your attacks do [SURGE].<br />
+- When you attack a target while in wolf form, the next ally to damage that target before the start of your next turn has [SURGE] against the target.</td>
 </tr>
 <tr class="even">
 <td>6</td>
-<td>- While in wolf or hybrid wolf form, you can use all your abilities, and your attacks do ��.<br />
-- When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has �� against the target.</td>
+<td>- While in wolf or hybrid wolf form, you can use all your abilities, and your attacks do [SURGE][SURGE][SURGE].<br />
+- When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has [SURGE][SURGE] against the target.</td>
 </tr>
 <tr class="odd">
 <td>9</td>
@@ -39,8 +39,8 @@ kind: stormwight kits
 </tr>
 <tr class="even">
 <td>12 (Level 4)</td>
-<td>- While in wolf or hybrid wolf form, you can use all your abilities, and your attacks do ���.<br />
-- When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has ��� against the target.</td>
+<td>- While in wolf or hybrid wolf form, you can use all your abilities, and your attacks do [SURGE][SURGE][SURGE].<br />
+- When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has [SURGE][SURGE][SURGE] against the target.</td>
 </tr>
 <tr class="odd">
 <td>15 (Level 7)</td>
@@ -49,7 +49,7 @@ kind: stormwight kits
 <tr class="even">
 <td>18 (Level 10)</td>
 <td>- While in wolf or hybrid wolf form, you can use all your abilities, and your attacks deal extra damage equal to quadruple your Agility score.<br />
-- When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has ���� against the target.<br />
+- When you attack a target while in wolf or hybrid wolf form, the next ally to damage that target before the start of your next turn has <a href="#shield">SHIELD</a><a href="#shield">SHIELD</a> against the target.<br />
 - Your size increases by 1 and you gain 20 Temporary Stamina the first time you grow to this size in the encounter.</td>
 </tr>
 </tbody>

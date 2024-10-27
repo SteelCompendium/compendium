@@ -25,4 +25,4 @@ target: Self and all allies
 | **Keywords:** Area, Magic | **Type:** Maneuver              |
 | **Distance:** 3 Aura      | **Target:** Self and all allies |
 
-- **Effect:** Until the end of the encounter or you become dying, each target in the aura gains � on attacks.
+- **Effect:** Until the end of the encounter or you become dying, each target in the aura gains \[SURGE\] on attacks.

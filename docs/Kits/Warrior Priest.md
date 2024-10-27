@@ -37,4 +37,4 @@ The impact of your weapon brands your target for destruction.\
 - 12–16: 5 holy damage
 - 17+: 8 holy damage
 
-*Effect:* Attacks against the target deal � (EoT).
+*Effect:* Attacks against the target deal \[SURGE\] (EoT).

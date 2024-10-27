@@ -10,4 +10,4 @@ kind: 2nd-level features
 
 # Infiltration Tactics
 
-You and your allies do � when attacking from concealment or while hidden.
+You and your allies do \[SURGE\] when attacking from concealment or while hidden.

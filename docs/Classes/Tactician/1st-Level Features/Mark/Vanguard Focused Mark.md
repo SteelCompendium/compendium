@@ -33,7 +33,7 @@ kind: 1st-level features
 </tr>
 <tr class="odd">
 <td>6</td>
-<td>Allies have ��� against attacks from the marked target.</td>
+<td>Allies have <a href="#shield">SHIELD</a> against attacks from the marked target.</td>
 </tr>
 <tr class="even">
 <td>8 (Level 4)</td>
@@ -41,7 +41,7 @@ kind: 1st-level features
 </tr>
 <tr class="odd">
 <td>10 (Level 7)</td>
-<td>Allies have ������ against attacks from the marked target.</td>
+<td>Allies have <a href="#shield">SHIELD</a> against attacks from the marked target.</td>
 </tr>
 <tr class="even">
 <td>12 (Level 10)</td>

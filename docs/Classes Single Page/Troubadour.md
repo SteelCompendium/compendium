@@ -145,8 +145,8 @@ You have the following ability.
 
 - **Effect:** Choose one of the following effects:
   - You herald a rousing tale of victory. An ally within distance has an edge on the next power roll they make before the start of your next turn.
-  - You weave a tale of caution. An ally within distance has ï¿½ï¿½ï¿½ on the next instance of damage they take until the start of your next turn.
-  - You insult the enemy where they're most vulnerable. The next attack made against an enemy within distance has ï¿½ until the start of your next turn.
+  - You weave a tale of caution. An ally within distance has [SHIELD](#shield) on the next instance of damage they take until the start of your next turn.
+  - You insult the enemy where they're most vulnerable. The next attack made against an enemy within distance has \[SURGE\] until the start of your next turn.
   - **Spend 3 Drama:** You can have 2 targets for any of these effects instead of 1.
 
 #### Power Chord
@@ -189,7 +189,7 @@ You have access to the following routines to use with Curtain Call.
 
 *âTeeth are bare! Eyes black! No escaping the beast!â*
 
-- **Effect:** Each target that starts their turn within the aura has ï¿½ the next time they deal damage until the end of their turn.
+- **Effect:** Each target that starts their turn within the aura has \[SURGE\] the next time they deal damage until the end of their turn.
 
 ### Class Act Triggered Action
 
@@ -336,8 +336,8 @@ Choose one heroic ability from the following options.
 
 - **Power Roll + Presence:**
   - 11 or lower: shift 1; target can take a free strike
-  - 12-16: shift 2; target can take a free strike with ï¿½
-  - 17+: shift 3; target can take a free strike with ï¿½ and spend 1 Recovery
+  - 12-16: shift 2; target can take a free strike with \[SURGE\]
+  - 17+: shift 3; target can take a free strike with \[SURGE\] and spend 1 Recovery
 
 ###### Fake Your Death (5 Drama)
 
@@ -377,7 +377,7 @@ When you roll to gain drama, you can make your appeal and gain the additional ef
 
 ### Extra Surge
 
-Your ï¿½ limit increases by 1, for a maximum of ï¿½ï¿½ï¿½ï¿½.
+Your \[SURGE\] limit increases by 1, for a maximum of \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\].
 
 ### Invocation
 
@@ -415,7 +415,7 @@ Choose one of the following abilities.
 
 *Audiences love this bit.*
 
-- **Effect:** The targets shift up to 5 squares, including vertically. The targets must end this movement adjacent to each other and on solid ground. Each target can then take a free strike with ï¿½ï¿½ against an enemy within reach.
+- **Effect:** The targets shift up to 5 squares, including vertically. The targets must end this movement adjacent to each other and on solid ground. Each target can then take a free strike with \[SURGE\]\[SURGE\] against an enemy within reach.
 
 ##### En Guarde! (5 Drama)
 
@@ -425,7 +425,7 @@ Choose one of the following abilities.
   - 11 or lower: 7 damage; target can shift 3 and take a free strike against you
   - 12-16: 11 damage; target can shift 2 and take a free strike against you
   - 17+: 16 damage; target can shift 1
-- **Effect:** If the target shifts or takes a free strike against you during this ability, you can shift 3 and take a melee free strike against the target. If the target deals damage to you during this ability, you have ï¿½ on your free strike.
+- **Effect:** If the target shifts or takes a free strike against you during this ability, you can shift 3 and take a melee free strike against the target. If the target deals damage to you during this ability, you have \[SURGE\] on your free strike.
 
 #### Virtuoso Abilities
 
@@ -539,4 +539,4 @@ Choose a new heroic ability from the following options.
 
 *Totus mundus agit histrionem.*
 
-- **Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you would be out of distance. Secondary effects that grapple or force move the target don't happen if you aren't within the distance of the ability. On each of your turns, you can take a free maneuver to communicate a motivating or dispiriting message to the target, either giving them ï¿½ï¿½ or a bane on the next attack they use before the start of your next turn.
+- **Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you would be out of distance. Secondary effects that grapple or force move the target don't happen if you aren't within the distance of the ability. On each of your turns, you can take a free maneuver to communicate a motivating or dispiriting message to the target, either giving them \[SURGE\]\[SURGE\] or a bane on the next attack they use before the start of your next turn.

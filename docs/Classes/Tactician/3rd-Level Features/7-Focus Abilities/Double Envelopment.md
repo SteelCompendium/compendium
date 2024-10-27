@@ -24,4 +24,4 @@ Historians will write about this day.
 | **Keywords:** —    | **Type:** Maneuver |
 | **Distance:** Self | **Target:** Self   |
 
-**Effect:** Until the end of the encounter or you are dying, whenever you or an ally attacks a target marked by you, they do ��.
+**Effect:** Until the end of the encounter or you are dying, whenever you or an ally attacks a target marked by you, they do \[SURGE\]\[SURGE\].

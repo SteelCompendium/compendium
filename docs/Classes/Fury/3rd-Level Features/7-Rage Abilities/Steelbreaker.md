@@ -24,4 +24,4 @@ See how useless their weapons are!
 | **Keywords:** Magic | **Type:** Maneuver |
 | **Distance:** Self  | **Target:** Self   |
 
-**Effect:** Until the end of the encounter you have ������.
+**Effect:** Until the end of the encounter you have [SHIELD](#shield).

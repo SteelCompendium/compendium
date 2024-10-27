@@ -129,7 +129,7 @@ Your leadership thwarts an enemy or aids an ally.
 | **Distance:** Self | **Target:** Self   |
 
 **Trigger:** The target makes an attack against another creature.\
-**Effect:** Add or subtract ï¿½ to the attack.\
+**Effect:** Add or subtract \[SURGE\] to the attack.\
 **Spend 3 Focus:** Increase or decrease the potency of one effect from the attack.
 
 #### Parry
@@ -137,7 +137,7 @@ Your leadership thwarts an enemy or aids an ally.
 Your quick reflexes cost an enemy the precision they seek.
 
 **Trigger:** A creature makes a Weapon attack against the target.\
-**Effect:** The attack's damage is reduced ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.\
+**Effect:** The attack's damage is reduced [SHIELD](#shield).\
 **Spend 3 Focus:** Decrease the potency of all effects on the attack by 1.
 
 #### Overwatch
@@ -175,7 +175,7 @@ You know how to focus the attention of your allies as you push them toward victo
 
 You draw your allies' attention to a specific foeâwith devastating effect.
 
-**Effect:** The target is marked by you until the start of your next turn. When attacking a marked target, you and each of your allies gain a damage surge ï¿½.\
+**Effect:** The target is marked by you until the start of your next turn. When attacking a marked target, you and each of your allies gain a damage surge \[SURGE\].\
 **Spend 1 Focus or More Focus:** You focus on understanding the tactics of your foe, countering their strengths and exploiting their weaknesses to enhance your squad.
 
 Each focus is banked on the marked creature, increasing the effectiveness of your mark, as indicated on your doctrine's focused mark table below. A marked creature with focus on it stays marked until the end of the encounter. When the marked creature is reduced to 0 Stamina or otherwise removes the mark, you regain the focus.
@@ -206,7 +206,7 @@ You can use this maneuver on an already marked creature to bank more focus.
 </tr>
 <tr class="odd">
 <td>6</td>
-<td>Attacks against the target do ï¿½ï¿½ instead of ï¿½.</td>
+<td>Attacks against the target do [SURGE][SURGE] instead of [SURGE].</td>
 </tr>
 <tr class="even">
 <td>8 (Level 4)</td>
@@ -214,7 +214,7 @@ You can use this maneuver on an already marked creature to bank more focus.
 </tr>
 <tr class="odd">
 <td>10 (Level 7)</td>
-<td>Attacks against the target do ï¿½ï¿½ï¿½ instead of ï¿½.</td>
+<td>Attacks against the target do [SURGE][SURGE][SURGE] instead of [SURGE].</td>
 </tr>
 <tr class="even">
 <td>12 (Level 10)</td>
@@ -291,7 +291,7 @@ You can use this maneuver on an already marked creature to bank more focus.
 </tr>
 <tr class="odd">
 <td>6</td>
-<td>Allies have ï¿½ï¿½ï¿½ against attacks from the marked target.</td>
+<td>Allies have <a href="#shield">SHIELD</a> against attacks from the marked target.</td>
 </tr>
 <tr class="even">
 <td>8 (Level 4)</td>
@@ -299,7 +299,7 @@ You can use this maneuver on an already marked creature to bank more focus.
 </tr>
 <tr class="odd">
 <td>10 (Level 7)</td>
-<td>Allies have ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ against attacks from the marked target.</td>
+<td>Allies have <a href="#shield">SHIELD</a> against attacks from the marked target.</td>
 </tr>
 <tr class="even">
 <td>12 (Level 10)</td>
@@ -346,9 +346,9 @@ You shout a phrase that galvanizes your team.
 
 **Power Roll + Reason:**
 
-- 11 or lower: The target's next attack has ï¿½
-- 12â16: The target's next attack has ï¿½
-- 17+: The target's next attack has ï¿½ï¿½
+- 11 or lower: The target's next attack has \[SURGE\]
+- 12â16: The target's next attack has \[SURGE\]
+- 17+: The target's next attack has \[SURGE\]\[SURGE\]
 
 ###### Concussive Strike (3 Focus)
 
@@ -424,7 +424,7 @@ As a 2nd-level tactician, you gain the following features.
 
 ### Adapt A Strategy
 
-At the beginning of your first turn, choose an offensive strategy or a defensive strategy. Your choice increases either your ï¿½ limit to ï¿½ï¿½ï¿½ï¿½ or your ï¿½ï¿½ï¿½ limit to ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.
+At the beginning of your first turn, choose an offensive strategy or a defensive strategy. Your choice increases either your \[SURGE\] limit to \[SURGE\]\[SURGE\]\[SURGE\]\[SURGE\] or your [SHIELD](#shield) limit to [SHIELD](#shield)[SHIELD](#shield).
 
 ### 2nd-level Doctrine Features
 
@@ -442,7 +442,7 @@ You choose what order enemies marked by you take their initiative order. Other c
 
 #### Infiltration Tactics
 
-You and your allies do ï¿½ when attacking from concealment or while hidden.
+You and your allies do \[SURGE\] when attacking from concealment or while hidden.
 
 #### Melee Superiority
 
@@ -521,7 +521,7 @@ You prioritize saving an ally over your own safety.
 
 Together we are invincible!
 
-**Effect:** Until the start of your next turn, targets have ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ and a bonus to their Stability equal to your Might score.
+**Effect:** Until the start of your next turn, targets have [SHIELD](#shield) and a bonus to their Stability equal to your Might score.
 
 ## 3rd-level Features
 
@@ -541,7 +541,7 @@ Choose one heroic ability from the following options.
 
 Historians will write about this day.
 
-**Effect:** Until the end of the encounter or you are dying, whenever you or an ally attacks a target marked by you, they do ï¿½ï¿½.
+**Effect:** Until the end of the encounter or you are dying, whenever you or an ally attacks a target marked by you, they do \[SURGE\]\[SURGE\].
 
 #### Frontal Assault (7 Focus)
 

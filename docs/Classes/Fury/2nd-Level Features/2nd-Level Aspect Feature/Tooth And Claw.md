@@ -10,4 +10,4 @@ kind: 2nd-level features
 
 # Tooth And Claw
 
-Any enemy within Reach takes � at the start of their turns.
+Any enemy within Reach takes \[SURGE\] at the start of their turns.

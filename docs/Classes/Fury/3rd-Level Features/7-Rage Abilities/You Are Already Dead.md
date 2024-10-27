@@ -26,4 +26,4 @@ Slash. Walk away.
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
 | **Distance:** Melee 1               | **Target:** 1 creature |
 
-**Effect:** If the target is not a boss or solo creature, they die at the end of their next turn. If the target is a boss or solo creature, the next attack against them gains ���.
+**Effect:** If the target is not a boss or solo creature, they die at the end of their next turn. If the target is a boss or solo creature, the next attack against them gains [SHIELD](#shield).

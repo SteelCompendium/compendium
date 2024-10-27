@@ -23,4 +23,4 @@ target: Self
 > | **Keywords:** Psionic | **Type:** Maneuver |
 > | **Distance:** Self | **Target:** Self |
 
-**Effect:** Until the end of the encounter, the area of your null field increases to 2 aura. Any attacks against enemies in the aura do �� psychic damage.
+**Effect:** Until the end of the encounter, the area of your null field increases to 2 aura. Any attacks against enemies in the aura do \[SURGE\]\[SURGE\] psychic damage.
