@@ -1,6 +1,9 @@
 /* The tables used to display abilities should not have headers to avoid sorttable tables */
-th:empty, td:empty {
+th:empty {
     display: none;
     value: remove;
+}
+
+td:empty {
     visibility: hidden;
 }
