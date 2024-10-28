@@ -1,4 +1,4 @@
-#### DWARF DRIVER
+### DWARF DRIVER
 
 | [[Dwarf\|DWARF]] DRIVER | **Level 1 Harrier Minion** |
 | :---------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | -------------- |
 |              |                |              |                 |                |
 
-**Handaxes (Signature)**
+#### Handaxes (Signature)
 
 |                                                     |                                         |
 | :-------------------------------------------------- | :-------------------------------------- |
@@ -21,6 +21,7 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage; push 1
-- ★ 12–16: 4 damage; push 2
+- ★ 12-16: 4 damage; push 2
+- ✸ 17+: 5 damage; push 4
 
-Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack.
+**Effect:** A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack.

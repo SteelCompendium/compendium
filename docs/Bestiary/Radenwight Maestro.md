@@ -1,4 +1,4 @@
-#### RADENWIGHT MAESTRO
+### RADENWIGHT MAESTRO
 
 | RADENWIGHT MAESTRO     |         **Level 1 Leader** |
 | :--------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
-**Cacophony (Signature)**
+#### Cacophony (Signature)
 
 |                       |                                  |
 | :-------------------- | :------------------------------- |
@@ -21,22 +21,21 @@
 **2d10 + 3**
 
 - ✦ ≤11: 3 sonic damage; slide 1; the maestro can shift 1 square
-- ★ 12–16: 5 sonic damage; slide 3; the maestro can shift 3 squares
+- ★ 12-16: 5 sonic damage; slide 3; the maestro can shift 3 squares
 - ✸ 17+: 7 sonic damage; slide 5; the maestro can shift 5 squares
 
-Effect: Each ally within distance can use Ready Rodent as a free triggered action once before the end of the round.
+**Effect:** Each ally within distance can use Ready Rodent as a free triggered action once before the end of the round.
 
-**Tempo Change (PRS RR)**
+#### Tempo Change (PRS RR)
 
 |                                     |                     |
 | :---------------------------------- | :------------------ |
 | Keywords: Magic, Ranged, Resistance | Type: Maneuver      |
 | Distance: Ranged 10                 | Target: Two enemies |
 
-**3 Malice**
-Each ally within 3 of a target has their speed increased by 2 until the end of their next turn.
+**3 Malice:** Each ally within 3 of a target has their speed increased by 2 until the end of their next turn.
 
-**Ever Ready Rodent (2 Malice)**
+#### Ever Ready Rodent (2 Malice)
 
 |                                |                             |
 | :----------------------------- | :-------------------------- |
@@ -45,34 +44,34 @@ Each ally within 3 of a target has their speed increased by 2 until the end of t
 
 Trigger: The target deals damage to an ally or takes damage from an ally.
 
-Effect: The maestro makes a [[Free Strike|free strike]] against the target. The maestro can only use this ability once per turn.
+**Effect:** The maestro makes a [[Free Strike|free strike]] against the target. The maestro can only use this ability once per turn.
 
-**Overture**
+#### Overture
 
 |                    |                                 |
 | :----------------- | :------------------------------ |
 | Keywords: Area     | Type: Villain Action 1          |
 | Distance: 10 burst | Target: All allies in the burst |
 
-Effect: Each target shifts up to their speed or takes the [[Defend]] action.
+**Effect:** Each target shifts up to their speed or takes the [[Defend]] action.
 
-**Solo Act**
+#### Solo Act
 
 |                     |                        |
 | :------------------ | :--------------------- |
 | Keywords: Ranged    | Type: Villain Action 2 |
 | Distance: Ranged 15 | Target: One creature   |
 
-Effect: Until the end of their next turn, the target gains invisibility, a boon, and their speed is doubled.
+**Effect:** Until the end of their next turn, the target gains invisibility, a boon, and their speed is doubled.
 
-**Rondo of Rat**
+#### Rondo of Rat
 
 |                    |                                      |
 | :----------------- | :----------------------------------- |
 | Keywords: Area     | Type: Villain Action 3               |
 | Distance: 10 burst | Target: All dead allies in the burst |
 
-Effect: Each target stands, makes a [[Free Strike|free strike]], then collapses again. Allies of the targets can use Ready Rodent as a free triggered action once in conjunction with these [[Free Strike|free strikes]].
+**Effect:** Each target stands, makes a [[Free Strike|free strike]], then collapses again. Allies of the targets can use Ready Rodent as a free triggered action once in conjunction with these [[Free Strike|free strikes]].
 
 **End Effect**
 

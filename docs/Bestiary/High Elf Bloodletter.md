@@ -1,4 +1,4 @@
-#### HIGH ELF BLOODLETTER
+### HIGH ELF BLOODLETTER
 
 | HIGH ELF BLOODLETTER      |       **Level 1 Ambusher** |
 | :------------------------ | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | ---------------- | -------------- |
 |             |                |              |                  |                |
 
-**Razor's Edge (Signature)**
+#### Razor's Edge (Signature)
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
@@ -21,18 +21,19 @@
 **2d10 + 2**
 
 - ✦ ≤11: 4 damage; R1 [[Bleeding|bleeding]] (save ends)
-- ★ 12–16: 7 damage; R2 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 7 damage; R2 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 10 damage; R3 [[Bleeding|bleeding]] (save ends)
 
-Effect: A creature [[Bleeding|bleeding]] from this ability takes edge from attacks.
+**Effect:** A creature [[Bleeding|bleeding]] from this ability takes edge from attacks.
 
-**Blood Haze (2 Malice)**
+#### Blood Haze (2 Malice)
 
 |                       |                 |
 | :-------------------- | :-------------- |
 | Keywords: Area, Magic | Type: Maneuver  |
 | Distance: 3 burst     | Target: Special |
 
-Effect: The bloodletter creates a cloud of blood vapor in the area until the end of the next round. The cloud blocks line of effect for enemies, and an enemy has Magic weakness 3 occupying an affected square. The bloodletter then shifts up to their speed, hiding if they end their movement under concealment.
+**Effect:** The bloodletter creates a cloud of blood vapor in the area until the end of the next round. The cloud blocks line of effect for enemies, and an enemy has Magic weakness 3 occupying an affected square. The bloodletter then shifts up to their speed, hiding if they end their movement under concealment.
 
 **Otherworldly Grace**
 

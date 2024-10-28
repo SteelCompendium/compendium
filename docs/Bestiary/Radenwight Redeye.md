@@ -1,4 +1,4 @@
-#### RADENWIGHT REDEYE
+### RADENWIGHT REDEYE
 
 | RADENWIGHT REDEYE      | **Level 1 Artillery Minion** |
 | :--------------------- | ---------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | -------------- |
 |              |                |               |                 |                |
 
-**Eyes-On-Me Shot (Signature)**
+#### Eyes-On-Me Shot (Signature)
 
 |                                  |                                           |
 | :------------------------------- | :---------------------------------------- |
@@ -21,12 +21,12 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 5 damage
+- ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
-Effect: An ally of the redeye within 2 squares of the target can shift up to 2 squares.
+**Effect:** An ally of the redeye within 2 squares of the target can shift up to 2 squares.
 
-**Ready Rodent**
+#### Ready Rodent
 
 |                         |                        |
 | :---------------------- | :--------------------- |
@@ -35,4 +35,4 @@ Effect: An ally of the redeye within 2 squares of the target can shift up to 2 s
 
 Trigger: An ally deals damage to the target.
 
-Effect: The redeye makes a [[Free Strike|free strike]] against the target.
+**Effect:** The redeye makes a [[Free Strike|free strike]] against the target.

@@ -1,4 +1,4 @@
-#### WAR DOG PHOSPHORITE
+### WAR DOG PHOSPHORITE
 
 | WAR DOG PHOSPHORITE |          **Level 2 Hexer** |
 | :------------------ | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | -------------- |
 |             |                |              |                 |                |
 
-**Caustic Detonator (Signature)**
+#### Caustic Detonator (Signature)
 
 |                         |                                |
 | :---------------------- | :----------------------------- |
@@ -21,22 +21,21 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 acid damage; M1 [[Bleeding|bleeding]] (save ends)
-- ★ 12–16: 5 acid damage; M2 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 5 acid damage; M2 [[Bleeding|bleeding]] (save ends)
 - ✸ 17+: 7 acid damage; M3 [[Bleeding|bleeding]] (save ends)
 
-Effect: A detonator attaches to the target. At the end of each round, roll a die. On an odd result, the detonator explodes, triggering the power roll.
+**Effect:** A detonator attaches to the target. At the end of each round, roll a die. On an odd result, the detonator explodes, triggering the power roll.
 
-**Special**
-An adjacent creature can attempt an easy Agility test to remove the detonator as a maneuver. A failure does nothing, a success disarms and destroys the detonator, and a success with a reward allows the disarming creature to throw the detonator onto another target within 5 squares.
+**Special:** An adjacent creature can attempt an easy Agility test to remove the detonator as a maneuver. A failure does nothing, a success disarms and destroys the detonator, and a success with a reward allows the disarming creature to throw the detonator onto another target within 5 squares.
 
-**Posthumous Promotion**
+#### Posthumous Promotion
 
 |                         |                                           |
 | :---------------------- | :---------------------------------------- |
 | Keywords: Magic, Ranged | Type: Maneuver                            |
 | Distance: Ranged 10     | Target: One war dog with a loyalty collar |
 
-Effect: The target's loyalty collar detonates, killing them instantly.
+**Effect:** The target's loyalty collar detonates, killing them instantly.
 
 **Loyalty Collar**
 

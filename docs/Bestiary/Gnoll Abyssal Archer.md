@@ -1,4 +1,4 @@
-#### GNOLL ABYSSAL ARCHER
+### GNOLL ABYSSAL ARCHER
 
 | GNOLL ABYSSAL ARCHER |      **Level 2 Artillery** |
 | :------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------- | --------------- | --------------- |
 |             |                |               |                 |                 |
 
-**Dark Longbow (Signature)**
+#### Dark Longbow (Signature)
 
 |                                  |                              |
 | :------------------------------- | :--------------------------- |
@@ -21,18 +21,19 @@
 **2d10 + 2**
 
 - ✦ ≤11: 4 corruption damage; M1 [[Slowed|slowed]] (save ends)
-- ★ 12–16: 7 corruption damage; M2 [[Slowed|slowed]] (save ends)
+- ★ 12-16: 7 corruption damage; M2 [[Slowed|slowed]] (save ends)
+- ✸ 17+: 10 corruption damage; M3 [[Slowed|slowed]] (save ends)
 
-Effect: This attack has edge against creatures the abyssal archer has previously targeted.
+**Effect:** This attack has edge against creatures the abyssal archer has previously targeted.
 
-**Cackletongue (2 Malice)**
+#### Cackletongue (2 Malice)
 
 |                            |                             |
 | :------------------------- | :-------------------------- |
 | Keywords: -                | Type: Maneuver              |
 | Distance: Self and 2 burst | Target: Self and all allies |
 
-Effect: Each target has an edge on their next attack before the end of their next turn. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
+**Effect:** Each target has an edge on their next attack before the end of their next turn. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
 
 **Death Frenzy**
 

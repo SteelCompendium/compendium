@@ -1,4 +1,4 @@
-#### DEMON MUCERON
+### DEMON MUCERON
 
 | DEMON MUCERON         |      **Level 3 BRUTE** |
 | :-------------------- | ---------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | ------------- | --------------- |
 |              |                |              |               |                 |
 
-**Barbed Tongues (Signature)**
+#### Barbed Tongues (Signature)
 
 |                                 |                      |
 | :------------------------------ | :------------------- |
@@ -21,19 +21,19 @@
 **2d10 + 2**
 
 - ✦ ≤11: 5 damage; pull 2
-- ★ 12–16: 8 damage; pull 3
+- ★ 12-16: 8 damage; pull 3
 - ✸ 17+: 11 damage; pull 4
 
-Effect: [[Taunted]] (EoT).
+**Effect:** [[Taunted]] (EoT).
 
-**Tongue Pull (2 Malice)**
+#### Tongue Pull (2 Malice)
 
 |                                  |                         |
 | :------------------------------- | :---------------------- |
 | Keywords: Attack, Ranged, Weapon | Type: Maneuver          |
 | Distance: Ranged 5               | Target: Three creatures |
 
-Effect: The muceron pulls each target 5 squares.
+**Effect:** The muceron pulls each target 5 squares.
 
 **Lethe**
 

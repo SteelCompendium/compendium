@@ -1,4 +1,4 @@
-#### KOBOLD ARTIFEX
+### KOBOLD ARTIFEX
 
 | KOBOLD ARTIFEX     |     **Level 1 Controller** |
 | :----------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------- | --------------- | -------------- |
 |             |                |               |                 |                |
 
-**Chain Hook (Signature)**
+#### Chain Hook (Signature)
 
 |                                  |                              |
 | :------------------------------- | :--------------------------- |
@@ -21,21 +21,21 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage; pull 1
-- ★ 12–16: 4 damage; pull 2
+- ★ 12-16: 4 damage; pull 2
+- ✸ 17+: 5 damage; pull 3
 
-Effect: If the target's [[Forced Movement|forced movement]] triggers a trap, the target has a bane on all resistance rolls against that trap.
+**Effect:** If the target's [[Forced Movement|forced movement]] triggers a trap, the target has a bane on all resistance rolls against that trap.
 
-**Activate Trap**
+#### Activate Trap
 
 |                     |                                  |
 | :------------------ | :------------------------------- |
 | Keywords: -         | Type: Maneuver                   |
 | Distance: Ranged 10 | Target: 1 trap or terrain object |
 
-Effect: The trap or terrain object instantly triggers.
+**Effect:** The trap or terrain object instantly triggers.
 
-**3 Malice**
-The artifex can place a new trap in the encounter and instantly trigger it.
+**3 Malice:** The artifex can place a new trap in the encounter and instantly trigger it.
 
 **Shield? Shield!**
 

@@ -1,4 +1,4 @@
-#### LIZARDFOLK TONGUER
+### LIZARDFOLK TONGUER
 
 | LIZARDFOLK TONGUER     | **Level 1 Artillery Minion** |
 | :--------------------- | ---------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | ------------- | -------------- |
 |             |                |              |               |                |
 
-**Tonguelash (Signature)**
+#### Tonguelash (Signature)
 
 |                                 |                                         |
 | :------------------------------ | :-------------------------------------- |
@@ -21,9 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage; pull 1 or shift 1 towards target
-- ★ 12–16: 5 damage; pull 2 or shift 2 towards target
+- ★ 12-16: 5 damage; pull 2 or shift 2 towards target
+- ✸ 17+: 6 damage; pull 3 or shift 3 towards target
 
-Effect: If the target ends up in a space adjacent to the tonguer, they are also [[Grabbed|grabbed]].
+**Effect:** If the target ends up in a space adjacent to the tonguer, they are also [[Grabbed|grabbed]].
 
 **Reptilian Escape**
 

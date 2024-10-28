@@ -1,4 +1,4 @@
-#### HIGH ELF PALINODE
+### HIGH ELF PALINODE
 
 | HIGH ELF PALINODE         |       **Level 1 Defender** |
 | :------------------------ | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | ------------- | ------------ | ---------------- | --------------- |
 |             |               |              |                  |                 |
 
-**Instill Regret (Signature)**
+#### Instill Regret (Signature)
 
 |                                     |                    |
 | :---------------------------------- | :----------------- |
@@ -21,19 +21,19 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 psychic damage; I1 [[Weakened|weakened]] (save ends)
-- ★ 12–16: 5 psychic damage; I2 [[Weakened|weakened]] (save ends)
+- ★ 12-16: 5 psychic damage; I2 [[Weakened|weakened]] (save ends)
+- ✸ 17+: 7 psychic damage; I3 [[Weakened|weakened]] (save ends)
 
-**2 Malice**
-The potency of this ability increases by 1. If the target is still [[Weakened|weakened]] by this ability at the end of the encounter, they cannot take a respite activity during their next respite.
+**2 Malice:** The potency of this ability increases by 1. If the target is still [[Weakened|weakened]] by this ability at the end of the encounter, they cannot take a respite activity during their next respite.
 
-**Recall**
+#### Recall
 
 |                         |                  |
 | :---------------------- | :--------------- |
 | Keywords: Magic, Ranged | Type: Maneuver   |
 | Distance: Ranged 5      | Target: 2 allies |
 
-Effect: Each target is teleported to an unoccupied square adjacent to the palinode. Then, the palinode and each target gain 5 temporary Stamina.
+**Effect:** Each target is teleported to an unoccupied square adjacent to the palinode. Then, the palinode and each target gain 5 temporary Stamina.
 
 **Otherworldly Grace**
 

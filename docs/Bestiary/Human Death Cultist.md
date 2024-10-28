@@ -1,4 +1,4 @@
-#### HUMAN DEATH CULTIST
+### HUMAN DEATH CULTIST
 
 | [[Human\|HUMAN]] DEATH CULTIST |        **Level 2 Support** |
 | :----------------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | --------------- |
 |             |                |              |                 |                 |
 
-**Death Scythe (Signature)**
+#### Death Scythe (Signature)
 
 |                                                |                                |
 | :--------------------------------------------- | :----------------------------- |
@@ -21,23 +21,21 @@
 **2d10 + 2**
 
 - ✦ ≤11: 4 corruption damage; I1 [[Weakened|weakened]] (save ends)
-- ★ 12–16: 7 corruption damage; I2 [[Weakened|weakened]] (save ends)
+- ★ 12-16: 7 corruption damage; I2 [[Weakened|weakened]] (save ends)
 - ✸ 17+: 10 corruption damage; I3 [[Weakened|weakened]] (save ends)
 
-**2 Malice**
-The death cultist regains Stamina equal to half the damage dealt by this ability.
+**2 Malice:** The death cultist regains Stamina equal to half the damage dealt by this ability.
 
-**Rise, My Minions (1 Malice per minion)**
+#### Rise, My Minions (1 Malice per minion)
 
 |                   |                                  |
 | :---------------- | :------------------------------- |
 | Keywords: Area    | Type: Maneuver                   |
 | Distance: 5 burst | Target: One or more dead minions |
 
-**Special**
-Each target must have died during this encounter
+**Special:** Each target must have died during this encounter
 
-Effect: Each target revives with their full Stamina. They immediately die at the end of the encounter or if the death cultist is killed. A target can be revived multiple times by this ability.
+**Effect:** Each target revives with their full Stamina. They immediately die at the end of the encounter or if the death cultist is killed. A target can be revived multiple times by this ability.
 
 **Supernatural Insight**
 

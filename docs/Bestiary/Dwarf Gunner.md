@@ -1,4 +1,4 @@
-#### DWARF GUNNER
+### DWARF GUNNER
 
 | [[Dwarf\|DWARF]] GUNNER |      **Level 1 Artillery** |
 | :---------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | ---------------- | -------------- |
 |             |                |              |                  |                |
 
-**Portable Ballista (Signature)**
+#### Portable Ballista (Signature)
 
 |                                  |                              |
 | :------------------------------- | :--------------------------- |
@@ -21,21 +21,21 @@
 **2d10 + 2**
 
 - ✦ ≤11: 4 damage; push 1
-- ★ 12–16: 7 damage; push 3
+- ★ 12-16: 7 damage; push 3
+- ✸ 17+: 10 damage; push 5
 
-Effect: If the target is adjacent to a wall or object after the power roll is resolved, they are [[Restrained|restrained]] (EoT). A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack.
+**Effect:** If the target is adjacent to a wall or object after the power roll is resolved, they are [[Restrained|restrained]] (EoT). A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack.
 
-**5 Malice**
-If the target is pushed into another creature, both the target and the creature are [[Restrained|restrained]] (EoT).
+**5 Malice:** If the target is pushed into another creature, both the target and the creature are [[Restrained|restrained]] (EoT).
 
-**Ensnaring Chains (5 Malice)**
+#### Ensnaring Chains (5 Malice)
 
 |                          |                                                                                      |
 | :----------------------- | :----------------------------------------------------------------------------------- |
 | Keywords: Ranged, Weapon | Type: Maneuver                                                                       |
 | Distance: Ranged 10      | Target: 1 [[Restrained\|restrained]], [[Slowed\|slowed]], or [[Prone\|prone]] target |
 
-Effect: The gunner makes a [[Free Strike|free strike]] against the target. The target loses any [[Restrained|restrained]], [[Slowed|slowed]], or [[Prone|prone]] conditions and gains [[Restrained|restrained]] (save ends).
+**Effect:** The gunner makes a [[Free Strike|free strike]] against the target. The target loses any [[Restrained|restrained]], [[Slowed|slowed]], or [[Prone|prone]] conditions and gains [[Restrained|restrained]] (save ends).
 
 **Split Shot**
 

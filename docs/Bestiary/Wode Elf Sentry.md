@@ -1,4 +1,4 @@
-#### WODE ELF SENTRY
+### WODE ELF SENTRY
 
 | WODE ELF SENTRY           |    **Level 1 Support** |
 | :------------------------ | ---------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | --------------- |
 |             |                |              |                 |                 |
 
-**Tracer Longbow (Signature)**
+#### Tracer Longbow (Signature)
 
 |                                  |                              |
 | :------------------------------- | :--------------------------- |
@@ -21,21 +21,21 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage; A2 marked (save ends)
-- ★ 12–16: 5 damage; A3 marked (save ends)
+- ★ 12-16: 5 damage; A3 marked (save ends)
+- ✸ 17+: 7 damage; marked (save ends)
 
-Effect: Allies have **+1** on attacks and abilities against marked creatures and objects.
+**Effect:** Allies have **+1** on attacks and abilities against marked creatures and objects.
 
-**3 Malice**
-The sentry targets two additional creatures or objects.
+**3 Malice:** The sentry targets two additional creatures or objects.
 
-**Death Blossom (2 Malice)**
+#### Death Blossom (2 Malice)
 
 |                        |                            |
 | :--------------------- | :------------------------- |
 | Keywords: Area, Weapon | Type: Maneuver             |
 | Distance: 5 burst      | Target: All marked enemies |
 
-Effect: 3 damage.
+**Effect:** 3 damage.
 
 **Masking Glamor**
 

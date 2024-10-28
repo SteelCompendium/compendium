@@ -1,4 +1,4 @@
-#### CHIMERA
+### CHIMERA
 
 | CHIMERA         |       **Level 3 SOLO** |
 | :-------------- | ---------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | ---------------- | -------------- |
 |              |                |               |                  |                |
 
-**Bite (Signature)**
+#### Bite (Signature)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -21,12 +21,12 @@
 **2d10 + 3**
 
 - ✦ ≤11: 6 damage
-- ★ 12–16: 10 damage
+- ★ 12-16: 10 damage
 - ✸ 17+: 13 damage
 
-Effect: This attack has an edge if the chimera has an edge on the attack.
+**Effect:** This attack has an edge if the chimera has an edge on the attack.
 
-**Dragon's Eruption (7 Malice)**
+#### Dragon's Eruption (7 Malice)
 
 |                            |                                 |
 | :------------------------- | :------------------------------ |
@@ -36,17 +36,17 @@ Effect: This attack has an edge if the chimera has an edge on the attack.
 **AGL RR**
 
 - ✦ ≤11: 13 fire damage
-- ★ 12–16: 10 fire damage
+- ★ 12-16: 10 fire damage
 - ✸ 17+: 6 fire damage
 
-**Lion's Toss (2d10 + 3)**
+#### Lion's Toss (2d10 + 3)
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Maneuver               |
 | Distance: Melee 2               | Target: 1 creature or object |
 
-**Roar (5 Malice)**
+#### Roar (5 Malice)
 
 |                       |                                  |
 | :-------------------- | :------------------------------- |
@@ -56,10 +56,10 @@ Effect: This attack has an edge if the chimera has an edge on the attack.
 **2d10 + 3**
 
 - ✦ ≤11: 4 psychic damage
-- ★ 12–16: 8 psychic damage; I2 [[Frightened|frightened]] (save ends)
+- ★ 12-16: 8 psychic damage; I2 [[Frightened|frightened]] (save ends)
 - ✸ 17+: 10 psychic damage; I3 [[Frightened|frightened]] (save ends)
 
-**Ram's Defiance (2d10 + 3)**
+#### Ram's Defiance (2d10 + 3)
 
 |                                 |                        |
 | :------------------------------ | :--------------------- |
@@ -68,34 +68,34 @@ Effect: This attack has an edge if the chimera has an edge on the attack.
 
 Trigger: The target attacks the chimera and gets a tier-1 result.
 
-Effect: The chimera shifts 5. If they end this movement adjacent to the target, roll power.
+**Effect:** The chimera shifts 5. If they end this movement adjacent to the target, roll power.
 
-**Overture of Destruction**
+#### Overture of Destruction
 
 |                               |                                  |
 | :---------------------------- | :------------------------------- |
 | Keywords: Area, Melee, Weapon | Type: Villain Action 1           |
 | Distance: 1 burst             | Target: All enemies in the burst |
 
-Effect: The chimera uses Bite and Lion's Toss against each target.
+**Effect:** The chimera uses Bite and Lion's Toss against each target.
 
-**Fire Solo**
+#### Fire Solo
 
 |                               |                        |
 | :---------------------------- | :--------------------- |
 | Keywords: Area, Melee, Weapon | Type: Villain Action 2 |
 | Distance: Self                | Target: Self           |
 
-Effect: The chimera uses Dragon's Eruption and Roar without spending malice.
+**Effect:** The chimera uses Dragon's Eruption and Roar without spending malice.
 
-**Chorus of Destruction**
+#### Chorus of Destruction
 
 |                |                        |
 | :------------- | :--------------------- |
 | Keywords: -    | Type: Villain Action 3 |
 | Distance: Self | Target: Self           |
 
-Effect: The chimera uses Roar. The chimera then shifts their speed and can make a [[Free Strike|free strike]] against each enemy who comes within 1 of them during the move. When the chimera ends this movement, they use Dragon's Eruption.
+**Effect:** The chimera uses Roar. The chimera then shifts their speed and can make a [[Free Strike|free strike]] against each enemy who comes within 1 of them during the move. When the chimera ends this movement, they use Dragon's Eruption.
 
 **Solo Monster**
 

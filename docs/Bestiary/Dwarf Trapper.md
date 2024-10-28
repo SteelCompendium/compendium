@@ -1,4 +1,4 @@
-#### DWARF TRAPPER
+### DWARF TRAPPER
 
 | [[Dwarf\|DWARF]] TRAPPER |        **Level 1 Harrier** |
 | :----------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | ---------------- | -------------- |
 |             |                |              |                  |                |
 
-**Concussive Bolts (Signature)**
+#### Concussive Bolts (Signature)
 
 |                                                     |                              |
 | :-------------------------------------------------- | :--------------------------- |
@@ -21,11 +21,12 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage; push 2
-- ★ 12–16: 5 damage; push 4
+- ★ 12-16: 5 damage; push 4
+- ✸ 17+: 7 damage; push 6
 
-Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack.
+**Effect:** A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack.
 
-**Steam Powered Snare (3 Malice)**
+#### Steam Powered Snare (3 Malice)
 
 |                            |                                 |
 | :------------------------- | :------------------------------ |
@@ -35,6 +36,7 @@ Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by
 **MGT RR**
 
 - ✦ ≤11: 4 damage; [[Restrained|restrained]] (EoT)
-- ★ 12–16: 3 damage; [[Slowed|slowed]] (EoT)
+- ★ 12-16: 3 damage; [[Slowed|slowed]] (EoT)
+- ✸ 17+: No effect
 
-Effect: The snare remains until the end of the encounter. An enemy that moves into an affected square for the first time on their turn must roll resistance.
+**Effect:** The snare remains until the end of the encounter. An enemy that moves into an affected square for the first time on their turn must roll resistance.

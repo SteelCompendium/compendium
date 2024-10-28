@@ -1,4 +1,4 @@
-#### ROTTING ZOMBIE
+### ROTTING ZOMBIE
 
 | ROTTING [[Zombie\|ZOMBIE]] |   **Level 1 Brute Minion** |
 | :------------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
 |              |                |               |                  |                 |
 
-**Rotting Fist (Signature)**
+#### Rotting Fist (Signature)
 
 |                                 |                                           |
 | :------------------------------ | :---------------------------------------- |
@@ -21,7 +21,7 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 3 damage; M1 [[Slowed|slowed]] (save ends)
+- ★ 12-16: 3 damage; M1 [[Slowed|slowed]] (save ends)
 - ✸ 17+: 4 damage; M2 [[Prone|prone]] if size 1, [[Slowed|slowed]] (save ends) otherwise
 
 **Arise Together**

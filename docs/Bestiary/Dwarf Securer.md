@@ -1,4 +1,4 @@
-#### DWARF SECURER
+### DWARF SECURER
 
 | [[Dwarf\|DWARF]] SECURER |   **Level 1 Brute Minion** |
 | :----------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | ------------- | ------------ | --------------- | -------------- |
 |              |               |              |                 |                |
 
-**Maul (Signature)**
+#### Maul (Signature)
 
 |                                             |                                         |
 | :------------------------------------------ | :-------------------------------------- |
@@ -21,4 +21,5 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 5 damage; [[Grabbed|grabbed]]
+- ★ 12-16: 5 damage; [[Grabbed|grabbed]]
+- ✸ 17+: 6 damage; [[Grabbed|grabbed]] or [[Prone|prone]]

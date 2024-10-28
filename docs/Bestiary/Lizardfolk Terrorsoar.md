@@ -1,4 +1,4 @@
-#### LIZARDFOLK TERRORSOAR
+### LIZARDFOLK TERRORSOAR
 
 | LIZARDFOLK TERRORSOAR  |        **Level 1 Harrier** |
 | :--------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | ------------- | --------------- |
 |              |                |              |               |                 |
 
-**Glaive Rush (Signature)**
+#### Glaive Rush (Signature)
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
@@ -21,18 +21,19 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage
-- ★ 12–16: 5 damage
+- ★ 12-16: 5 damage
+- ✸ 17+: 7 damage; [[Prone|prone]]
 
-Effect: The terrorsoar can shift 4 after using this ability if they are flying.
+**Effect:** The terrorsoar can shift 4 after using this ability if they are flying.
 
-**Poison Blowdart (2d10 + 2)**
+#### Poison Blowdart (2d10 + 2)
 
 |                                  |                              |
 | :------------------------------- | :--------------------------- |
 | Keywords: Attack, Ranged, Weapon | Type: Action                 |
 | Distance: Ranged 5               | Target: 1 creature or object |
 
-Effect: A creature that ends their turn adjacent to a creature or object [[Weakened|weakened]] by this ability is [[Weakened|weakened]] (EoT).
+**Effect:** A creature that ends their turn adjacent to a creature or object [[Weakened|weakened]] by this ability is [[Weakened|weakened]] (EoT).
 
 **Glider**
 

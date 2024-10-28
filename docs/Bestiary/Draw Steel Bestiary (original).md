@@ -390,7 +390,7 @@ Target: Two creatures or objects
 - ✦ ≤11: 2 damage; A2 [[Grabbed|grabbed]]
 - ★ 12-16: 4 damage; A3 [[Grabbed|grabbed]]
 - ✸ 17+: 5 damage; A4 [[Grabbed|grabbed]]
-- 2 Malice: The [[Ankheg|ankheg]] can vertical slide one or both targets up to 5 squares.
+    2 Malice: The [[Ankheg|ankheg]] can vertical slide one or both targets up to 5 squares.
 
 **Earth Eruption (Action)** ◆ 2d10 + 2 ◆ 3 Malice
 Keywords: Area
@@ -581,7 +581,7 @@ Target: 1 creature or object
 - ★ 12-16: 8 acid damage; pull 2
 - ✸ 17+: 12 acid damage; pull 3
     Effect: This attack can pull targets [[Restrained|restrained]] by Petrifying Eye Beams.
-- 3 Malice: The tonguesnapper targets two additional creatures or objects.
+    3 Malice: The tonguesnapper targets two additional creatures or objects.
 
 **Petrifying Eye Beams (Maneuver)** ◆ MGT RR
 Keywords: Magic, Ranged, Resistance
@@ -680,7 +680,7 @@ Target: Each enemy in the burst
 - ✦ ≤11: 2 damage; A2 [[Bleeding|bleeding]] (save ends)
 - ★ 12-16: 4 damage; A3 [[Bleeding|bleeding]] (save ends)
 - ✸ 17+: 5 damage; A4 [[Bleeding|bleeding]] and [[Dazed|dazed]] (save ends)
-- 3 Malice: The [[Bredbeddle|bredbeddle]] shifts up to 2 squares and can target additional enemies who come within distance of this ability during the move.
+    3 Malice: The [[Bredbeddle|bredbeddle]] shifts up to 2 squares and can target additional enemies who come within distance of this ability during the move.
 
 **Lop (Action)** ◆ 2d10 + 3 ◆ 3 Malice
 Keywords: Attack, Magic, Melee, Weapon
@@ -924,7 +924,7 @@ Target: 2 creatures or objects
 - ✦ ≤11: 5 damage
 - ★ 12-16: 9 damage; one target is [[Grabbed|grabbed]]; one target gets push 2
 - ✸ 17+: 12 damage; one target is [[Grabbed|grabbed]]; one target gets vertical push 3
-- 5 Malice: The distance becomes 1 Burst, the Attack keyword is replaced with Area, and the roughneck targets all enemies instead.
+    5 Malice: The distance becomes 1 Burst, the Attack keyword is replaced with Area, and the roughneck targets all enemies instead.
 
 **Leaping Fury (Action)** ◆ 2d10 + 3
 Keywords: Attack, Ranged, Weapon
@@ -1570,7 +1570,7 @@ At the start of a [[Dwarf|dwarf]]'s turn, you can spend malice to activate one o
 
 - ★ 12-16: 6 damage; [[Slowed|slowed]] (EoT)
 
-- ✦ 17: No effect
+- ✦ 17+: No effect
     Effect: The snaring line remains until the end of the encounter. An enemy that moves into an affected square for the first time on their turn must roll resistance.
 
 ### STATBLOCKS
@@ -1598,7 +1598,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 2 damage; push 1
 - ★ 12-16: 4 damage; push 2
-- ✸ 17: 5 damage; push 4
+- ✸ 17+: 5 damage; push 4
     Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack.
 
 #### DWARF HUNTER
@@ -1624,7 +1624,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 2 damage; pull 1
 - ★ 12-16: 4 damage; pull 2
-- ✸ 17: 5 damage; pull 4
+- ✸ 17+: 5 damage; pull 4
     Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pulled by this attack.
 
 #### DWARF LURER
@@ -1650,7 +1650,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 4 damage
-- ✸ 17: 5 damage; an ally adjacent to the target can make a [[Free Strike|free strike]]
+- ✸ 17+: 5 damage; an ally adjacent to the target can make a [[Free Strike|free strike]]
     Effect: The target can't use triggered actions until the start of the next round.
 
 #### DWARF SECURER
@@ -1676,7 +1676,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 5 damage; [[Grabbed|grabbed]]
-- ✸ 17: 6 damage; [[Grabbed|grabbed]] or [[Prone|prone]]
+- ✸ 17+: 6 damage; [[Grabbed|grabbed]] or [[Prone|prone]]
 
 #### DWARF GRENADIER
 
@@ -1701,7 +1701,7 @@ Target: All enemies
 
 - ✦ ≤11: 3 damage; push 1; M1 [[Slowed|slowed]] (save ends)
 - ★ 12-16: 5 damage; push 3; M2 [[Slowed|slowed]] (save ends)
-- ✸ 17: 7 damage; push 5; M3 [[Slowed|slowed]] (save ends)
+- ✸ 17+: 7 damage; push 5; M3 [[Slowed|slowed]] (save ends)
     Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this ability.
 
 **Sleep Grenade (Action)** ◆ 2d10 + 2 ◆ 3 Malice
@@ -1711,7 +1711,7 @@ Target: All enemies
 
 - ✦ ≤11: 3 poison damage; I1 [[Dazed|dazed]] (save ends)
 - ★ 12-16: 5 poison damage; I2 [[Dazed|dazed]] (save ends)
-- ✸ 17: 7 poison damage; I3 [[Dazed|dazed]] (save ends)
+- ✸ 17+: 7 poison damage; I3 [[Dazed|dazed]] (save ends)
     Effect: A creature [[Dazed|dazed]] by this ability has -1 to all characteristics while resisting potent effects until the condition ends.
 
 **Indirect Fire**
@@ -1740,7 +1740,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 4 damage; push 1
 - ★ 12-16: 7 damage; push 3
-- ✸ 17: 10 damage; push 5
+- ✸ 17+: 10 damage; push 5
     Effect: If the target is adjacent to a wall or object after the power roll is resolved, they are [[Restrained|restrained]] (EoT). A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack.
     5 Malice: If the target is pushed into another creature, both the target and the creature are [[Restrained|restrained]] (EoT).
 
@@ -1776,7 +1776,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 3 damage; M1 [[Slowed|slowed]] (save ends)
 - ★ 12-16: 5 damage; M2 [[Slowed|slowed]] (save ends)
-- ✸ 17: 7 damage; M3 [[Restrained|restrained]] (save ends)
+- ✸ 17+: 7 damage; M3 [[Restrained|restrained]] (save ends)
     2 Malice: Pull 5. A target [[Restrained|restrained]] by a [[Dwarf|dwarf]], including by this ability, can be pulled this way.
 
 **Reel Them In (Maneuver)** ◆ 3 Malice
@@ -1812,7 +1812,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 5 damage; slide 1
 - ★ 12-16: 8 damage; slide 1
-- ✸ 17: 11 damage; slide 1
+- ✸ 17+: 11 damage; slide 1
     Effect: The shieldwall can shift 1 to remain adjacent to the target. A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by this attack.
     3 Malice: The shieldwall targets an additional creature or object.
 
@@ -1849,7 +1849,7 @@ Target: All creatures and objects
 
 - ✦ ≤11: 3 damage; slide 1; M1 [[Slowed|slowed]] (save ends)
 - ★ 12-16: 6 damage; slide 3; M2 [[Slowed|slowed]] (save ends)
-- ✸ 17: 9 damage; slide 5; M3 [[Restrained|restrained]] (save ends)
+- ✸ 17+: 9 damage; slide 5; M3 [[Restrained|restrained]] (save ends)
     Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by this attack.
 
 **Stone Wave (Maneuver)** ◆ 2d10 + 2 ◆ 3 Malice
@@ -1859,7 +1859,7 @@ Target: All enemies in the cube
 
 - ✦ ≤11: 2 damage; push 2; R1 [[Slowed|slowed]] (save ends)
 - ★ 12-16: 3 damage; push 3; R2 [[Slowed|slowed]] (save ends)
-- ✸ 17: 4 damage; push 3; R3 [[Slowed|slowed]] (save ends)
+- ✸ 17+: 4 damage; push 3; R3 [[Slowed|slowed]] (save ends)
     Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack. The affected area is [[Difficult Terrain|difficult terrain]] for enemies.
 
 **Stonewalker**
@@ -1888,7 +1888,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 3 damage; push 2
 - ★ 12-16: 5 damage; push 4
-- ✸ 17: 7 damage; push 6
+- ✸ 17+: 7 damage; push 6
     Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack.
 
 **Steam Powered Snare (Maneuver)** ◆ MGT RR ◆ 3 Malice
@@ -1898,7 +1898,7 @@ Target: All enemies in the cube
 
 - ✸ ≤11: 4 damage; [[Restrained|restrained]] (EoT)
 - ★ 12-16: 3 damage; [[Slowed|slowed]] (EoT)
-- ✦ 17: No effect
+- ✦ 17+: No effect
     Effect: The snare remains until the end of the encounter. An enemy that moves into an affected square for the first time on their turn must roll resistance.
 
 #### DWARF WARDEN
@@ -1924,7 +1924,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 5 damage; push 1; M1 [[Slowed|slowed]] (save ends)
 - ★ 12-16: 8 damage; push 3; M2 [[Slowed|slowed]] (save ends)
-- ✸ 17: 11 damage; push 5; M3 [[Restrained|restrained]] (save ends)
+- ✸ 17+: 11 damage; push 5; M3 [[Restrained|restrained]] (save ends)
     Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack.
 
 **Concussive Shockwave (Maneuver)** ◆ 2d10 + 2 ◆ 5 Malice
@@ -1934,7 +1934,7 @@ Target: All enemies in the cube
 
 - ✦ ≤11: 2 damage; push 2; A1 [[Slowed|slowed]] (save ends)
 - ★ 12-16: 4 damage; push 4; A2 [[Slowed|slowed]] (save ends)
-- ✸ 17: 5 damage; push 6; A3 [[Dazed|dazed]] (save ends)
+- ✸ 17+: 5 damage; push 6; A3 [[Dazed|dazed]] (save ends)
     Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this ability.
 
 **Escort the Prisoners**
@@ -1963,7 +1963,7 @@ Target: 3 creatures or objects
 
 - ✦ ≤11: 5 damage; slide 1
 - ★ 12-16: 9 damage; slide 3
-- ✸ 17: 12 damage; slide 5
+- ✸ 17+: 12 damage; slide 5
     Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by this attack.
     3 Malice: A target that is force moved adjacent to an ally with this ability is [[Restrained|restrained]] (EoT).
 
@@ -2025,7 +2025,7 @@ Target: 2 creatures or objects
 
 - ✦ ≤11: 4 damage; M1 [[Slowed|slowed]] (save ends)
 - ★ 12-16: 7 damage; M2 [[Slowed|slowed]] (save ends)
-- ✸ 17: 10 damage; M3 [[Restrained|restrained]] (save ends)
+- ✸ 17+: 10 damage; M3 [[Restrained|restrained]] (save ends)
     Effect: [[Restrained]] targets and targets [[Restrained|restrained]] by this ability are pulled 3. A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pulled by this attack.
 
 **Stunning Blast (Maneuver)** ◆ 2d10 + 2 ◆ 3 Malice
@@ -2035,7 +2035,7 @@ Target: All enemies in the burst
 
 - ✸ ≤11: 2 lightning damage; A1 [[Slowed|slowed]] (save ends)
 - ★ 12-16: 3 lightning damage; A2 [[Slowed|slowed]] (save ends)
-- ✦ 17: 5 lightning damage; A3 [[Slowed|slowed]] (save ends)
+- ✦ 17+: 5 lightning damage; A3 [[Slowed|slowed]] (save ends)
 
 **Cupola**
 Three of the battle walker's size 1 allies can occupy the same space while riding the battle walker. Riders have cover against attacks that target them.
@@ -2084,7 +2084,7 @@ At the start of a high elf's turn, you can spend malice to activate one of the f
 
 - ★ 12-16: 9 damage; R2 condition (save ends)
 
-- ✸ 17: 12 damage; R3 condition (save ends)
+- ✸ 17+: 12 damage; R3 condition (save ends)
     Effect: The high elf chooses damage type and condition afflicted from one of the following pairs: cold and [[Slowed|slowed]], poison and [[Weakened|weakened]], or corruption and [[Frightened|frightened]] of the high elf.
 
 - **In Defiance of Time (7 Malice):** Until the end of the round, all high elves have their speed increased by 4. When a high elf uses an ability against an enemy, each high elf adjacent to the enemy can make a [[Free Strike|free strike]] against them.
@@ -2114,7 +2114,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 4 damage; [[Taunted|taunted]] (EoT)
-- ✸ 17: 5 damage; [[Taunted|taunted]] (EoT)
+- ✸ 17+: 5 damage; [[Taunted|taunted]] (EoT)
     Effect: The [[Cradle Crow|cradle crow]] ignores opportunity attacks from the target until the end of its turn.
 
 #### ELEMENTAL MOTE
@@ -2140,7 +2140,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 4 damage; the target gains Magic weakness 1 (EoT)
-- ✸ 17: 5 damage; the target gains Magic weakness 3 (EoT)
+- ✸ 17+: 5 damage; the target gains Magic weakness 3 (EoT)
 
 **Cradle Heart**
 On their turn, the mote can choose to die to revive a dead [[Cradle Crow|cradle crow]], [[Cradle Horse|cradle horse]], or [[Cradle Credenza|cradle credenza]] within 1, returning with 8 Stamina.
@@ -2168,7 +2168,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 5 damage; target's speed reduced by 1 (EoT)
-- ✸ 17: 6 damage; target's speed reduced by 2 (EoT)
+- ✸ 17+: 6 damage; target's speed reduced by 2 (EoT)
 
 **Otherworldly Grace**
 At the start of their turn, the quiver can turn the duration of one save ends effect they suffer from into EoT.
@@ -2196,7 +2196,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 2 corruption damage
 - ★ 12-16: 4 corruption damage
-- ✸ 17: 5 corruption damage
+- ✸ 17+: 5 corruption damage
     Effect: The next attack made against the target before the start of the scribe's next turn has edge.
 
 **Otherworldly Grace**
@@ -2232,7 +2232,7 @@ Target: All enemies
 
 - ✦ ≤11: 2 fire damage; 2 cold damage; 2 lightning damage
 - ★ 12-16: 3 fire damage; 3 cold damage; 3 lightning damage; push 3
-- ✸ 17: 4 fire damage; 4 cold damage; 4 lightning damage; push 5
+- ✸ 17+: 4 fire damage; 4 cold damage; 4 lightning damage; push 5
 
 **[[Defend]] the Books**
 Each ally within 5 of a creature that attacks the [[Cradle Credenza|cradle credenza]] can make a [[Free Strike|free strike]] against them.
@@ -2260,7 +2260,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 4 damage; R1 [[Bleeding|bleeding]] (save ends)
 - ★ 12-16: 7 damage; R2 [[Bleeding|bleeding]] (save ends)
-- ✸ 17: 10 damage; R3 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 10 damage; R3 [[Bleeding|bleeding]] (save ends)
     Effect: A creature [[Bleeding|bleeding]] from this ability takes edge from attacks.
 
 **Blood Haze (Maneuver)** ◆ 2 Malice
@@ -2295,7 +2295,7 @@ Target: 1 creature
 
 - ✦ ≤11: 5 damage; R1 deathtouched (save ends)
 - ★ 12-16: 8 damage; R2 deathtouched (save ends)
-- ✸ 17: 11 damage; R3 deathtouched (save ends)
+- ✸ 17+: 11 damage; R3 deathtouched (save ends)
     Effect: A creature gains a new condition at the end of each turn while deathtouched, receiving [[Bleeding|bleeding]] at the end of their first turn, [[Slowed|slowed]] at the end of their second turn, and [[Restrained|restrained]] at the end of their third turn. When no longer deathtouched, all the conditions imposed by it end.
     5 Malice: The ability gains the Area keyword, the distance becomes 3 cube within 10, and it targets all creatures in the cube.
 
@@ -2331,7 +2331,7 @@ Target: All creatures in the cube
 
 - ✦ ≤11: 3 damage; M1 [[Slowed|slowed]] (EoT)
 - ★ 12-16: 4 damage; M2 [[Slowed|slowed]] (EoT)
-- ✸ 17: 5 cold damage; M3 [[Prone|prone]]
+- ✸ 17+: 5 cold damage; M3 [[Prone|prone]]
 
 **Aetherweb (Action)** ◆ 2d10 + 2
 Keywords: Magic, Ranged
@@ -2340,7 +2340,7 @@ Target: 2 enemies or objects
 
 - ✦ ≤11: 3 damage; R1 [[Slowed|slowed]] (save ends)
 - ★ 12-16: 5 damage; R2 [[Slowed|slowed]] (save ends)
-- ✸ 17: 6 damage; R3 [[Restrained|restrained]] (save ends)
+- ✸ 17+: 6 damage; R3 [[Restrained|restrained]] (save ends)
     Effect: Each enemy within 3 of a target suffers the same additional effects as the target unless they shift into an unoccupied square adjacent to them.
 
 **Otherworldly Grace**
@@ -2370,7 +2370,7 @@ Target: 1 creature
 
 - ✦ ≤11: 3 psychic damage; I1 [[Weakened|weakened]] (save ends)
 - ★ 12-16: 5 psychic damage; I2 [[Weakened|weakened]] (save ends)
-- ✸ 17: 7 psychic damage; I3 [[Weakened|weakened]] (save ends)
+- ✸ 17+: 7 psychic damage; I3 [[Weakened|weakened]] (save ends)
     2 Malice: The potency of this ability increases by 1. If the target is still [[Weakened|weakened]] by this ability at the end of the encounter, they cannot take a respite activity during their next respite.
 
 **Recall (Maneuver)**
@@ -2405,7 +2405,7 @@ Target: All enemies in the cube
 
 - ✦ ≤11: vertical push 2
 - ★ 12-16: vertical push 3
-- ✸ 17: vertical push 5
+- ✸ 17+: vertical push 5
     Effect: The area of the cube increases by 1 for each [[Elemental Mote|elemental mote]] adjacent to the wyrd.
 
 **Wyrd Warp (Maneuver)** ◆ 3 Malice
@@ -2440,7 +2440,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 3 damage; A1 [[Prone|prone]]
 - ★ 12-16: 5 damage; A2 [[Prone|prone]]
-- ✸ 17: 7 damage; the zephyr takes a [[Free Strike|free strike]] on a creature adjacent to the target; A3 [[Prone|prone]]
+- ✸ 17+: 7 damage; the zephyr takes a [[Free Strike|free strike]] on a creature adjacent to the target; A3 [[Prone|prone]]
     Effect: Shift 2.
 
 **Windwalk (Maneuver)**
@@ -2478,7 +2478,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 3 damage; M1 [[Prone|prone]]
 - ★ 12-16: 5 fire damage; M2 [[Prone|prone]]
-- ✸ 17: 7 lightning damage; M3 [[Prone|prone]]
+- ✸ 17+: 7 lightning damage; M3 [[Prone|prone]]
 
 **Stomp (Action)** ◆ 2d10 + 2
 Keywords: Attack, Melee, Weapon
@@ -2487,7 +2487,7 @@ Target: All enemies in the burst
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 4 damage
-- ✸ 17: 5 damage
+- ✸ 17+: 5 damage
     Effect: This attack has edge against [[Prone|prone]] targets.
 
 **Buck (Maneuver)** ◆ 2 Malice
@@ -2522,7 +2522,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 5 lightning damage; R2 [[Dazed|dazed]] (save ends)
 - ★ 12-16: 8 lightning damage; R3 [[Dazed|dazed]] (save ends)
-- ✸ 17: 12 lightning damage; R4 [[Dazed|dazed]] (save ends)
+- ✸ 17+: 12 lightning damage; R4 [[Dazed|dazed]] (save ends)
     Effect: High elves have edge on attacks and abilities against the target until the start of the ordinator's next turn.
 
 **Call Forth Elementals (Maneuver)** ◆ 2+ Malice
@@ -2557,7 +2557,7 @@ Target: All enemies in the cube
 
 - ✸ ≤11: 8 corruption damage; pull 5 towards center of cube
 - ★ 12-16: 5 corruption damage; pull 3 towards center of cube
-- ✦ 17: Pull 1 towards center of cube
+- ✦ 17+: Pull 1 towards center of cube
     Effect: The affected area becomes darkened, and its space warps violently in every direction.
 
 **But We Will Change Her Mind. (Villain Action 3)**
@@ -2707,7 +2707,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 2 damage; push 1
 - ★ 12-16: 4 damage; push 2
-- ✸ 17: 5 damage; push 3
+- ✸ 17+: 5 damage; push 3
 
 **Masking Glamor**
 The yeoman immediately [[Hide|hides]] at the end of their turn while in cover or concealment, even if they are observed.
@@ -2735,7 +2735,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 3 damage
 - ★ 12-16: 5 damage
-- ✸ 17: 7 damage
+- ✸ 17+: 7 damage
     Effect: [[Taunted]] (EoT). The greenskeeper can shift 3 after making the attack.
     2 Malice: The distance increases to Melee 5.
 
@@ -2771,7 +2771,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 3 damage; I1 [[Restrained|restrained]] (save ends)
 - ★ 12-16: 5 damage; I2 [[Restrained|restrained]] (save ends)
-- ✸ 17: 7 damage; I3 [[Restrained|restrained]] (save ends)
+- ✸ 17+: 7 damage; I3 [[Restrained|restrained]] (save ends)
     Effect: A creature [[Restrained|restrained]] by this ability can't [[Search For Hidden Creatures|search for hidden creatures]] until the condition ends.
 
 **The Natural Cycle (Maneuver)** ◆ PRS RR ◆ 3 Malice
@@ -2817,7 +2817,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 3 damage; A2 marked (save ends)
 - ★ 12-16: 5 damage; A3 marked (save ends)
-- ✸ 17: 7 damage; marked (save ends)
+- ✸ 17+: 7 damage; marked (save ends)
     Effect: Allies have **+1** on attacks and abilities against marked creatures and objects.
     3 Malice: The sentry targets two additional creatures or objects.
 
@@ -2853,7 +2853,7 @@ Target: All enemies in the cube
 
 - ✦ ≤11: 3 damage; pull 1; M1 [[Slowed|slowed]] (save ends)
 - ★ 12-16: 5 damage; pull 3; M2 [[Slowed|slowed]] (save ends)
-- ✸ 17: 7 damage; pull 5; M3 [[Slowed|slowed]] (save ends)
+- ✸ 17+: 7 damage; pull 5; M3 [[Slowed|slowed]] (save ends)
     Effect: A creature [[Slowed|slowed]] by this ability can't [[Search For Hidden Creatures|search for hidden creatures]] until the condition ends.
     3 Malice: The area of the cube and the potency of the effect both increase by 1.
 
@@ -2889,7 +2889,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 4 damage; push 1
 - ★ 12-16: 7 damage; push 3
-- ✸ 17: 10 damage; push 5
+- ✸ 17+: 10 damage; push 5
     Effect: The tree chirurgeon can make a ranged [[Free Strike|free strike]] before attacking.
     5 Malice: The tree chirurgeon uses this ability again.
 
@@ -2925,7 +2925,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 5 damage; M1 [[Bleeding|bleeding]] (save ends)
 - ★ 12-16: 9 damage; M2 [[Bleeding|bleeding]] (save ends)
-- ✸ 17: 12 damage; M3 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 12 damage; M3 [[Bleeding|bleeding]] (save ends)
     Effect: The tree guerilla can [[Teleport|teleport]] 3 after making the attack.
     5 Malice: The tree guerilla targets an additional creature or object. The tree guerilla has **+1** if both targets are adjacent to each other.
 
@@ -2963,7 +2963,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 5 damage; A1 [[Restrained|restrained]] (save ends)
 - ★ 12-16: 9 damage; A2 [[Restrained|restrained]] (save ends)
-- ✸ 17: 12 damage; A3 [[Restrained|restrained]] (save ends)
+- ✸ 17+: 12 damage; A3 [[Restrained|restrained]] (save ends)
     Effect: The tree gweiadur can shift 3 after making the attack.
     3 Malice: If this attack restrains the target, an enemy within 1 of the target is also [[Restrained|restrained]] (save ends).
 
@@ -2974,7 +2974,7 @@ Target: All enemies in the cube
 
 - ✦ ≤11: 2 damage; R1 marked (save ends)
 - ★ 12-16: 4 damage; R2 [[Slowed|slowed]] and marked (save ends)
-- ✸ 17: 6 damage; R3 [[Slowed|slowed]] and marked (save ends)
+- ✸ 17+: 6 damage; R3 [[Slowed|slowed]] and marked (save ends)
     Effect: Allies have **+1** on attacks and abilities against marked creatures and objects.
 
 **Masking Glamor**
@@ -3003,7 +3003,7 @@ Target: 3 creatures or objects
 
 - ✦ ≤11: 5 damage; M2 [[Restrained|restrained]] (save ends)
 - ★ 12-16: 9 damage; M3 [[Restrained|restrained]] (save ends)
-- ✸ 17: 12 damage; M4 [[Restrained|restrained]] (save ends)
+- ✸ 17+: 12 damage; M4 [[Restrained|restrained]] (save ends)
     Effect: The penteulu deals damage to each target one at a time and can [[Teleport|teleport]] 3 squares after damaging a target.
     3 Malice: Targets [[Restrained|restrained]] by this ability take an additional **+1**.
 
@@ -3067,7 +3067,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 5 damage
-- ✸ 17: 6 damage
+- ✸ 17+: 6 damage
     Effect: The [[Wodenelg|wodenelg]]'s rider can make a [[Free Strike|free strike]] at any point during the [[Charge|charge]].
 
 **Sure Footed**
@@ -3275,7 +3275,7 @@ At the start of a gnoll's turn, you can spend malice to activate one of the foll
 
 - ★ 12-16: 3 damage; [[Bleeding|bleeding]] (EoT)
 
-- ✦ 17: no effect
+- ✦ 17+: no effect
 
     While a creature is [[Bleeding|bleeding]] from the snare, gnolls have edge on attacks made against the creature.
 
@@ -3308,7 +3308,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 4 damage; [[Grabbed|grabbed]]
-- ✸ 17: 5 damage; [[Grabbed|grabbed]]
+- ✸ 17+: 5 damage; [[Grabbed|grabbed]]
 
 **Death Snap**
 When the [[Abyssal Hyena|abyssal hyena]] is reduced to 0 Stamina, they make a [[Free Strike|free strike]] before dying.
@@ -3336,7 +3336,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 4 damage; push 1
-- ✸ 17: 5 damage; push 3
+- ✸ 17+: 5 damage; push 3
 
 **Death Frenzy**
 Whenever an ally within 5 is reduced to 0 Stamina, the flingflail archer moves up to their speed and makes a [[Free Strike|free strike]].
@@ -3364,7 +3364,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 2 acid damage
 - ★ 12-16: 3 cold damage
-- ✸ 17: 4 lightning damage; target can't use magic abilities (EoT)
+- ✸ 17+: 4 lightning damage; target can't use magic abilities (EoT)
     Effect: The target has a bane on their next resistance roll until the start of the mage-gorger's next turn.
 
 **Death Frenzy**
@@ -3393,7 +3393,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 3 damage
-- ✸ 17: 4 damage; wildling takes a [[Free Strike|free strike]] on a creature adjacent to the target
+- ✸ 17+: 4 damage; wildling takes a [[Free Strike|free strike]] on a creature adjacent to the target
 
 **Death Frenzy**
 Whenever an ally within 7 is reduced to 0 Stamina, the wildling moves up to their speed and makes a [[Free Strike|free strike]].
@@ -3421,7 +3421,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 4 corruption damage; M1 [[Slowed|slowed]] (save ends)
 - ★ 12-16: 7 corruption damage; M2 [[Slowed|slowed]] (save ends)
-- ✸ 17: 10 corruption damage; M3 [[Slowed|slowed]] (save ends)
+- ✸ 17+: 10 corruption damage; M3 [[Slowed|slowed]] (save ends)
     Effect: This attack has edge against creatures the abyssal archer has previously targeted.
 
 **Cackletongue (Maneuver)** ◆ 2 Malice
@@ -3459,7 +3459,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 3 fire damage; I1 burning (save ends)
 - ★ 12-16: 5 fire damage; I2 burning (save ends)
-- ✸ 17: 7 fire damage; I3 burning (save ends)
+- ✸ 17+: 7 fire damage; I3 burning (save ends)
     Effect: A burning target takes 1d6 fire damage at the start of each of their turns until the condition ends.
 
 **Call [[Abyssal Hyena|Abyssal Hyenas]] (Maneuver)** ◆ 3 Malice
@@ -3500,7 +3500,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 4 damage; push 2
 - ★ 12-16: 7 damage; [[Grabbed|grabbed]]; M2 target has a bane on attempts to [[Escape Grab|escape grab]]
-- ✸ 17: 10 damage; [[Grabbed|grabbed]]; M3 target has a bane on attempts to [[Escape Grab|escape grab]]
+- ✸ 17+: 10 damage; [[Grabbed|grabbed]]; M3 target has a bane on attempts to [[Escape Grab|escape grab]]
     Effect: The bonesplitter can't use three-tail flail on another target while the current target is [[Grabbed|grabbed]].
 
 **Cackletongue (Maneuver)** ◆ 3 Malice
@@ -3535,7 +3535,7 @@ Target: 1 creature
 
 - ✦ ≤11: 3 psychic damage; I1 target makes a [[Free Strike|free strike]] against a creature of the cackler's choice
 - ★ 12-16: 5 psychic damage; I2 target makes a [[Free Strike|free strike]] against a creature of the cackler's choice
-- ✸ 17: 7 psychic damage; I3 target uses a signature ability against a creature of the cackler's choice
+- ✸ 17+: 7 psychic damage; I3 target uses a signature ability against a creature of the cackler's choice
     Effect: An ally targeted by this ability makes a [[Free Strike|free strike]] instead of taking damage.
 
 **Cackletongue (Maneuver)** ◆ INU RR ◆ 4 Malice
@@ -3545,7 +3545,7 @@ Target: All creatures
 
 - ✸ ≤11: [[Frightened]] of the cackler (save ends)
 - ★ 12-16: [[Frightened]] of the cackler (EoT)
-- ✦ 17: No effect
+- ✦ 17+: No effect
     Effect: Allies targeted by this ability don't make a resistance roll. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
 
 **Death Frenzy**
@@ -3574,7 +3574,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 3 damage; A1 [[Bleeding|bleeding]] (save ends)
 - ★ 12-16: 5 damage; A2 [[Bleeding|bleeding]] (save ends)
-- ✸ 17: 7 damage; [[Prone|prone]]; A3 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 7 damage; [[Prone|prone]]; A3 [[Bleeding|bleeding]] (save ends)
     Effect: Shift 2.
 
 **Cackletongue (Maneuver)** ◆ 3 Malice
@@ -3610,7 +3610,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 4 damage; push 1
 - ★ 12-16: 7 damage; push 2
-- ✸ 17: 10 damage; push 3; [[Prone|prone]]
+- ✸ 17+: 10 damage; push 3; [[Prone|prone]]
     Effect: This attack has edge while charging.
 
 **Vengeful Tusker (Triggered Action)**
@@ -3649,7 +3649,7 @@ Target: 2 creatures or objects
 
 - ✦ ≤11: 4 damage; A2 [[Bleeding|bleeding]] (save ends)
 - ★ 12-16: 7 damage; A3 [[Bleeding|bleeding]] (save ends)
-- ✸ 17: 10 damage; A4 [[Bleeding|bleeding]] and [[Dazed|dazed]] (save ends)
+- ✸ 17+: 10 damage; A4 [[Bleeding|bleeding]] and [[Dazed|dazed]] (save ends)
     Effect: An ally targeted by this ability makes a [[Free Strike|free strike]] instead of taking damage.
 
 **Cackletongue (Maneuver)** ◆ 4 Malice
@@ -3671,7 +3671,7 @@ Target: All enemies
 
 - ✦ ≤11: [[Frightened]] of the [[Last Laugh|last laugh]] (save ends)
 - ★ 12-16: [[Frightened]] of the [[Last Laugh|last laugh]] (EoT)
-- ✸ 17: No effect
+- ✸ 17+: No effect
     Effect: While [[Frightened|frightened]] by this ability, targets laugh uncontrollably and cannot use triggered actions.
 
 **Call Up From The Abyss (Villain Action 2)**
@@ -4387,7 +4387,7 @@ At the start of a hag's turn, you can spend malice to activate one of the follow
 
 - ★ 12-16: 7 fire damage; R3 [[Frightened|frightened]] of the hag (save ends)
 
-- ✸ 17: 10 fire damage; R4 [[Frightened|frightened]] of the hag (save ends)
+- ✸ 17+: 10 fire damage; R4 [[Frightened|frightened]] of the hag (save ends)
     Effect: After rolling power, the hag can choose to replace the damage type and effect of the attack with lightning and [[Dazed|dazed]] (save ends) or cold and [[Slowed|slowed]] (save ends).
 
 - **House Call (7 Malice):** The hag's hut springs to life. It enters the encounter map within 10 of the hag if it isn't already there and takes a turn. The hut is Size-4, has 60 Stamina and Magic immunity 5, a speed of 8, and a set of powerful animal legs. This feature can't be used if the hut is reduced to 0 Stamina. The house can only take the following action:
@@ -4401,7 +4401,7 @@ At the start of a hag's turn, you can spend malice to activate one of the follow
 
 - ★ 12-16: 10 damage; push 4; M3 [[Prone|prone]]
 
-- ✸ 17: 13 damage; push 5; M4 [[Prone|prone]]
+- ✸ 17+: 13 damage; push 5; M4 [[Prone|prone]]
 
 ### STATBLOCKS
 
@@ -5169,7 +5169,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 1 damage
 - ★ 12-16: 2 damage
-- ✸ 17: 3 damage
+- ✸ 17+: 3 damage
     Effect: 1 ally within 3 can shift 2.
 
 **Shield? Shield!**
@@ -5198,7 +5198,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 3 damage
-- ✸ 17: 4 damage
+- ✸ 17+: 4 damage
     Effect: The sagittarius has increased Stability while adjacent to an ally.
 
 **Shield? Shield!**
@@ -5227,7 +5227,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 1 damage
 - ★ 12-16: 2 damage; shift 1
-- ✸ 17: 3 damage; shift 2
+- ✸ 17+: 3 damage; shift 2
 
 **Shield? Shield!**
 The tiro has increased Stability by 1 and can act as cover for allies when adjacent to an ally who also has this trait.
@@ -5255,7 +5255,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 1 damage
 - ★ 12-16: 2 damage
-- ✸ 17: 3 damage
+- ✸ 17+: 3 damage
     Effect: All kobolds ignore opportunity attacks from the target until the start of the veles' next turn.
 
 **Shield? Shield!**
@@ -5284,7 +5284,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 2 lightning damage
 - ★ 12-16: 5 lightning damage
-- ✸ 17: 6 lightning damage
+- ✸ 17+: 6 lightning damage
     Effect: The adeptus has an edge on the attack if the target is adjacent to another enemy. All enemies adjacent to the target take 1 lightning damage.
 
 **Arcane Telum (Maneuver)** ◆ 2d10 + 1 ◆ 3 Malice
@@ -5294,7 +5294,7 @@ Target: 3 creatures or objects
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 5 damage
-- ✸ 17: 6 damage
+- ✸ 17+: 6 damage
     Effect: This attack ignores all banes and hindrances.
 
 **Shield? Shield!**
@@ -5323,7 +5323,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 2 damage; pull 1
 - ★ 12-16: 4 damage; pull 2
-- ✸ 17: 5 damage; pull 3
+- ✸ 17+: 5 damage; pull 3
     Effect: If the target's [[Forced Movement|forced movement]] triggers a trap, the target has a bane on all resistance rolls against that trap.
 
 **Activate Trap (Maneuver)**
@@ -5359,7 +5359,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 4 damage
-- ✸ 17: 5 damage
+- ✸ 17+: 5 damage
     Effect: [[Taunted]] (EoT).
     3 Malice: The legionary and their squad can shift 2 before this attack is made.
 
@@ -5370,7 +5370,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 1 damage; push 1; 1 [[Prone|prone]]
 - ★ 12-16: 2 damage; push 2; 2 [[Prone|prone]]
-- ✸ 17: 3 damage; push 3; 3 [[Prone|prone]]
+- ✸ 17+: 3 damage; push 3; 3 [[Prone|prone]]
 
 **Shield? Shield!**
 The legionary has increased Stability by 1 and can act as cover for allies when adjacent to an ally who also has this trait.
@@ -5398,7 +5398,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 4 damage
-- ✸ 17: 5 damage
+- ✸ 17+: 5 damage
     Effect: An ally within 10 can shift their speed, as long as they end their movement adjacent to an ally.
     2+ Malice: 1 additional ally can shift for every 2 malice spent.
 
@@ -5437,7 +5437,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 2 damage; 1 [[Restrained|restrained]] (save ends)
 - ★ 12-16: 5 damage; 2 [[Restrained|restrained]] (save ends)
-- ✸ 17: 6 damage; 3 [[Restrained|restrained]] (save ends)
+- ✸ 17+: 6 damage; 3 [[Restrained|restrained]] (save ends)
     3 Malice: Creatures and objects [[Restrained|restrained]] by this ability take 2 fire damage at the start of each of their turns.
 
 **Lost in the Crowd**
@@ -5472,7 +5472,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 4 fire damage
 - ★ 12-16: 7 fire damage
-- ✸ 17: 10 fire damage
+- ✸ 17+: 10 fire damage
 
 **Drangolin Plume (Action)** ◆ 5 Malice
 Keywords: -
@@ -5487,7 +5487,7 @@ Target: All creatures
 
 - ✦ ≤11: 4 damage; push 1; 1 [[Prone|prone]]
 - ★ 12-16: 7 damage; push 3; 2 [[Prone|prone]]
-- ✸ 17: 10 damage; push 5; 3 [[Prone|prone]]
+- ✸ 17+: 10 damage; push 5; 3 [[Prone|prone]]
     Effect: This attack has an edge against targets directly above the drangolin.
 
 **Ash Shot**
@@ -5517,7 +5517,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 3 acid damage; 1 [[Dazed|dazed]] (save ends)
 - ★ 12-16: 5 acid damage; 2 [[Dazed|dazed]] (save ends)
-- ✸ 17: 7 acid damage; 3 [[Restrained|restrained]] (save ends)
+- ✸ 17+: 7 acid damage; 3 [[Restrained|restrained]] (save ends)
     Effect: A size 2 or smaller creature [[Restrained|restrained]] by this attack is pulled into one of the cube's squares and moves with the cube. The creature takes 3 acid damage at the start of each of their turns while [[Restrained|restrained]]. When [[Restrained|restrained]] ends, the creature moves to the nearest unoccupied square adjacent to the cube.
     3 Malice: The cube attacks 1 additional target.
 
@@ -5554,7 +5554,7 @@ Target: 2 creatures or objects
 
 - ✦ ≤11: 2 damage; 2 [[Weakened|weakened]] (save ends)
 - ★ 12-16: 5 damage; 3 [[Weakened|weakened]] (save ends)
-- ✸ 17: 6 damage; 4 [[Weakened|weakened]] (save ends)
+- ✸ 17+: 6 damage; 4 [[Weakened|weakened]] (save ends)
     Effect: Any allies adjacent to a target of this attack can make a [[Free Strike|free strike]].
     3 Malice: Targets [[Weakened|weakened]] by this attack are now [[Restrained|restrained]] while they are [[Weakened|weakened]].
 
@@ -5621,7 +5621,7 @@ At the start of a [[Lightbender|lightbender]]'s turn, you can spend Malice to ac
 - **Everything The Light Touches (7 Malice)**: All [[Lightbender|lightbenders]] in the encounter shine radiantly and distort the senses of each enemy within 5 of one. Affected enemies must make a Reason resistance roll:
 - ✸ ≤11: The target can't establish line of effect with any [[Lightbender|lightbenders]] (save ends).
 - ★ 12-16: The target can't establish line of effect with any [[Lightbender|lightbenders]] (EoT).
-- ✦ 17: No effect.
+- ✦ 17+: No effect.
 
 ### STATBLOCKS
 
@@ -5648,7 +5648,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 8 damage
 - ★ 12-16: 12 damage
-- ✸ 17: 16 damage
+- ✸ 17+: 16 damage
     Effect: The [[Lightbender|lightbender]] has advantage on the attack if they would make it with an edge.
 
 **Piercing Tails (Action)** ◆ 2d10 + 2
@@ -5658,7 +5658,7 @@ Target: 2 creatures or objects
 
 - ✦ ≤11: 6 damage; 1 [[Bleeding|bleeding]] (save ends)
 - ★ 12-16: 10 damage; 2 [[Bleeding|bleeding]] (save ends)
-- ✸ 17: 13 damage; 3 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 13 damage; 3 [[Bleeding|bleeding]] (save ends)
     Effect: A creature who is [[Bleeding|bleeding]] from this ability has a bane on tests to search for the [[Lightbender|lightbender]] until the condition ends.
 
 **Hypnotic Mane (Maneuver)** ◆ INU RR ◆ 5 Malice
@@ -5668,7 +5668,7 @@ Target: All enemies in the burst
 
 - ✸ ≤11: [[Dazed]] (save ends)
 - ★ 12-16: [[Dazed]] (EoT)
-- ✦ 17: No effect
+- ✦ 17+: No effect
     Effect: Targets [[Dazed|dazed]] by this ability have a speed of 0 while [[Dazed|dazed]]. If a [[Dazed|dazed]] target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.
 
 **Stalker's Afterimage (Triggered Action)**
@@ -5704,7 +5704,7 @@ Target: 2 creatures or objects
 
 - ✦ ≤11: 5 damage; 1 [[Prone|prone]]
 - ★ 12-16: 9 damage; 2 [[Prone|prone]]
-- ✸ 17: 12 damage; 3 [[Prone|prone]]
+- ✸ 17+: 12 damage; 3 [[Prone|prone]]
     Effect: The pouncer makes a [[Free Strike|free strike]] against each target they have knocked [[Prone|prone]].
 
 **Sparkling Tail Whip (Action)** ◆ 2d10 + 2
@@ -5714,7 +5714,7 @@ Target: All enemies and objects in the burst
 
 - ✦ ≤11: 2 damage; 1 dazzled (save ends)
 - ★ 12-16: 4 damage; 2 dazzled (save ends)
-- ✸ 17: 6 damage; 3 dazzled (save ends)
+- ✸ 17+: 6 damage; 3 dazzled (save ends)
     Effect: A dazzled creature has a bane on their attacks and can't have line of effect to targets who aren't adjacent to them.
 
 **Illusory Feint (Maneuver)** ◆ REA RR ◆ 5 Malice
@@ -5724,7 +5724,7 @@ Target: All enemies in the cube
 
 - ✸ ≤11: [[Dazed]] (save ends)
 - ★ 12-16: [[Dazed]] (EoT)
-- ✦ 17: No effect
+- ✦ 17+: No effect
     Effect: Targets [[Dazed|dazed]] by this ability have a speed of 0 while [[Dazed|dazed]]. If a [[Dazed|dazed]] target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.
 
 **Striking Afterimage (Triggered Action)**
@@ -5804,7 +5804,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 4 damage; slide 2
-- ✸ 17: 5 damage; slide 4
+- ✸ 17+: 5 damage; slide 4
 
 **Reptilian Escape**
 While the grunt still has a tail, whenever the grunt is [[Grabbed|grabbed]], [[Slowed|slowed]], [[Weakened|weakened]], or knocked [[Prone|prone]], the grunt can lose their tail to immediately end the effect and shift 2.
@@ -5832,7 +5832,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 4 damage
-- ✸ 17: 5 damage
+- ✸ 17+: 5 damage
     Effect: All allies have **advantage** against the target's next attack.
 
 **Reptilian Escape**
@@ -5861,7 +5861,7 @@ Target: 1 creature or object per minion
 
 - ✦ ≤11: 2 damage; pull 1 or shift 1 towards target
 - ★ 12-16: 5 damage; pull 2 or shift 2 towards target
-- ✸ 17: 6 damage; pull 3 or shift 3 towards target
+- ✸ 17+: 6 damage; pull 3 or shift 3 towards target
     Effect: If the target ends up in a space adjacent to the tonguer, they are also [[Grabbed|grabbed]].
 
 **Reptilian Escape**
@@ -5890,7 +5890,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 3 damage
 - ★ 12-16: 5 damage; A1 [[Restrained|restrained]] (save ends)
-- ✸ 17: 7 damage; A2 [[Restrained|restrained]] (save ends)
+- ✸ 17+: 7 damage; A2 [[Restrained|restrained]] (save ends)
 
 **Bloodshot (Action)** ◆ 2d10 + 2 ◆ 2 Malice
 Keywords: Attack, Ranged
@@ -5899,7 +5899,7 @@ Target: 1 creature
 
 - ✦ ≤11: 3 acid damage; M1 target can't establish line of effect beyond 3 squares (save ends)
 - ★ 12-16: 5 acid damage; M2 target can't establish line of effect beyond 2 squares (save ends)
-- ✸ 17: 7 acid damage; M3 target can't establish line of effect beyond 1 square (save ends)
+- ✸ 17+: 7 acid damage; M3 target can't establish line of effect beyond 1 square (save ends)
 
 **Reptilian Escape**
 While the bloodeye still has a tail, whenever the bloodeye is [[Grabbed|grabbed]], [[Slowed|slowed]], [[Weakened|weakened]], or knocked [[Prone|prone]], the bloodeye can lose their tail to immediately end the effect and shift 2.
@@ -5928,7 +5928,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 5 damage; A1 [[Bleeding|bleeding]] (save ends)
 - ★ 12-16: 9 damage; A2 [[Bleeding|bleeding]] (save ends)
-- ✸ 17: 12 damage; A3 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 12 damage; A3 [[Bleeding|bleeding]] (save ends)
     Effect: The potency of this attack increases by 1 if the target is [[Grabbed|grabbed]] by the scaletooth.
 
 **Tail Whip (Action)** ◆ 2d10 + 2 ◆ 2 Malice
@@ -5938,7 +5938,7 @@ Target: 2 creatures or objects
 
 - ✦ ≤11: 3 damage; slide 1; M1 grappled
 - ★ 12-16: 5 damage; slide 2; M2 grappled
-- ✸ 17: 6 damage; slide 3; M3 grappled if within 2 of the scaletooth
+- ✸ 17+: 6 damage; slide 3; M3 grappled if within 2 of the scaletooth
     Effect: The scaletooth needs their tail to use this ability. The scaletooth can't grapple more than one creature or object with this ability.
 
 **Reptilian Escape**
@@ -5967,7 +5967,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 3 damage
 - ★ 12-16: 5 damage
-- ✸ 17: 7 damage; [[Prone|prone]]
+- ✸ 17+: 7 damage; [[Prone|prone]]
     Effect: The terrorsoar can shift 4 after using this ability if they are flying.
 
 **Poison Blowdart (Action)** ◆ 2d10 + 2
@@ -5977,7 +5977,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 2 damage; M1 [[Weakened|weakened]] (save ends)
 - ★ 12-16: 5 damage; M2 [[Weakened|weakened]] (save ends)
-- ✸ 17: 6 damage; M3 [[Weakened|weakened]] (save ends)
+- ✸ 17+: 6 damage; M3 [[Weakened|weakened]] (save ends)
     Effect: A creature that ends their turn adjacent to a creature or object [[Weakened|weakened]] by this ability is [[Weakened|weakened]] (EoT).
 
 **Glider**
@@ -6009,7 +6009,7 @@ Target: 3 creatures or objects
 
 - ✦ ≤11: 3 damage; pull 1; A2 [[Bleeding|bleeding]] (save ends)
 - ★ 12-16: 7 damage; pull 1; A3 [[Bleeding|bleeding]] (save ends)
-- ✸ 17: 10 damage; pull 2; A4 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 10 damage; pull 2; A4 [[Bleeding|bleeding]] (save ends)
     1 Malice: One target that is adjacent to the deathrex is [[Grabbed|grabbed]] by the deathrex's mouth.
 
 **Death Roll (Action)** ◆ 2d10 + 3 ◆ 3 Malice
@@ -6019,7 +6019,7 @@ Target: 1 [[Grabbed|grabbed]] creature or object
 
 - ✦ ≤11: 5 damage; M2 [[Dazed|dazed]] (save ends)
 - ★ 12-16: 10 damage; M3 [[Dazed|dazed]] (save ends)
-- ✸ 17: 15 damage; M4 [[Dazed|dazed]] (save ends)
+- ✸ 17+: 15 damage; M4 [[Dazed|dazed]] (save ends)
     Effect: The target is released from the [[Grab|grab]] and slides 5.
 
 **Trundle (Maneuver)**
@@ -6090,7 +6090,7 @@ At the start of a [[Minotaur|minotaur]]'s turn, you can spend malice to activate
 
 - ★ 12-16: The target can't establish line of effect beyond 3 squares (EoT).
 
-- ✦ 17: No effect.
+- ✦ 17+: No effect.
 
 ### STATBLOCKS
 
@@ -6117,7 +6117,7 @@ Target: 2 creatures or objects
 
 - ✦ ≤11: 5 damage; push 1
 - ★ 12-16: 9 damage; push 2
-- ✸ 17: 12 damage; push 3
+- ✸ 17+: 12 damage; push 3
     Effect: The [[Minotaur|minotaur]] shifts 3 after attacking.
 
 **Primal Bay (Action)** ◆ 3 Malice
@@ -6133,7 +6133,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 5 damage; I1 [[Dazed|dazed]] (save ends)
 - ★ 12-16: 9 damage; I2 [[Dazed|dazed]] (save ends)
-- ✸ 17: 12 damage; I3 [[Dazed|dazed]] (save ends)
+- ✸ 17+: 12 damage; I3 [[Dazed|dazed]] (save ends)
     Effect: The potency of this ability increases by 1 if it's used while charging.
 
 **Retaliatory Gore (Triggered Action)**
@@ -6169,7 +6169,7 @@ Target: 2 creatures or objects
 
 - ✦ ≤11: 6 damage; pull 1
 - ★ 12-16: 10 damage; pull 2
-- ✸ 17: 13 damage; pull 3
+- ✸ 17+: 13 damage; pull 3
     Effect: A target is [[Grabbed|grabbed]] if they are pulled adjacent to the sunderer.
 
 **Fearsome Bay (Action)** ◆ INU RR ◆ 5 Malice
@@ -6179,7 +6179,7 @@ Target: All enemies in the burst
 
 - ✸ ≤11: [[Frightened]] of the [[Minotaur|minotaur]] (save ends)
 - ★ 12-16: [[Frightened]] of the [[Minotaur|minotaur]] (EoT)
-- ✦ 17: No effect
+- ✦ 17+: No effect
     Effect: The [[Minotaur|minotaur]] has **resistance** and **advantage** until the end of their next turn.
 
 **Disemboweling Horns (Maneuver)** ◆ 2d10 + 2 ◆ 3 Malice
@@ -6189,7 +6189,7 @@ Target: 1 [[Grabbed|grabbed]] creature
 
 - ✦ ≤11: 6 damage; push 1; M1 [[Bleeding|bleeding]] (save ends)
 - ★ 12-16: 10 damage; push 3; M2 [[Bleeding|bleeding]] (save ends)
-- ✸ 17: 13 damage; push 5; M3 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 13 damage; push 5; M3 [[Bleeding|bleeding]] (save ends)
     Effect: The target takes 6 damage at the start of each of their turns while [[Bleeding|bleeding]] from this ability.
 
 **Retaliatory Gore (Triggered Action)**
@@ -6234,7 +6234,7 @@ At the start of an ogre's turn, you can spend malice to activate one of the foll
 
 - ★ 12-16: 4 damage; vertical push 2
 
-- ✦ 17: Push 1
+- ✦ 17+: Push 1
 
 - **Bully (5 Malice):** All ogres shift up to their speed and make a [[Free Strike|free strike]]. The ogres prefer to gang up on the same target rather than pick different targets, if they can.
 
@@ -6265,7 +6265,7 @@ Target: 2 creatures or objects
 
 - ✦ ≤11: 5 damage; push 2
 - ★ 12-16: 9 damage; push 4
-- ✸ 17: 12 damage; push 6; [[Prone|prone]]
+- ✸ 17+: 12 damage; push 6; [[Prone|prone]]
     Effect: This attack deals **additional damage** to each creature and object that takes damage from any [[Forced Movement|forced movement]] it causes.
 
 **Grabby Hand (Maneuver)** ◆ 2d10 + 2
@@ -6275,7 +6275,7 @@ Target: 1 creature or object
 
 - ✦ ≤11: 5 damage
 - ★ 12-16: 9 damage; [[Grabbed|grabbed]]
-- ✸ 17: 12 damage; [[Grabbed|grabbed]]
+- ✸ 17+: 12 damage; [[Grabbed|grabbed]]
     Effect: The goon can only have one target [[Grabbed|grabbed]] at a time.
     1 Malice: The target has a bane on escaping the [[Grab|grab]] while the goon crushes the target in their hand.
 
@@ -6287,7 +6287,7 @@ Effect: The goon hurls what's in their hand down the line and rolls power. The h
 
 - ✦ ≤11: 3 damage
 - ★ 12-16: 4 damage
-- ✸ 17: 6 damage; [[Prone|prone]]
+- ✸ 17+: 6 damage; [[Prone|prone]]
 
 **Swat The [[Fly]] (Triggered Action)**
 Keywords: -
@@ -6322,7 +6322,7 @@ Target: 2 creatures or objects
 
 - ✦ ≤11: 5 damage; A1 vertical slide 2
 - ★ 12-16: 8 damage; A2 vertical push 3
-- ✸ 17: 11 damage; A3 vertical slide 5
+- ✸ 17+: 11 damage; A3 vertical slide 5
     1 Malice: Each target is M2 [[Bleeding|bleeding]] (save ends).
 
 **Earth Breaking [[Jump]] (Action)** ◆ 2d10 + 2
@@ -6333,7 +6333,7 @@ Effect: The juggernaut leaps up to 6 squares before making the attack.
 
 - ✦ ≤11: 3 damage; M1 [[Prone|prone]]
 - ★ 12-16: 4 damage; push 2; M2 [[Prone|prone]]
-- ✸ 17: 5 damage; push 4; M3 [[Prone|prone]]
+- ✸ 17+: 5 damage; push 4; M3 [[Prone|prone]]
 
 **Horrible Bellow (Maneuver)** ◆ INU RR ◆ 2 Malice
 Keywords: Area, Resistance
@@ -6342,7 +6342,7 @@ Target: All enemies in the burst
 
 - ✸ ≤11: [[Frightened]] (save ends)
 - ★ 12-16: [[Frightened]] (EoT)
-- ✦ 17: No effect
+- ✦ 17+: No effect
     Effect: Ogres have **advantage** on attacks against creatures [[Frightened|frightened]] by this ability.
 
 **Hrraaaaaagh! (Triggered Action)**
@@ -7429,7 +7429,7 @@ Target: All creatures and objects
 - ★ 12-16: 5 fire damage
 - ✸ 17+: 6 fire damage
     Effect: The area is covered in sticky fire until the start of the crucibite's next turn. Whenever a creature enters the area for the first time in a round or starts their turn there, they take 2 fire damage.
-- 3 Malice: The area increases to a 10 × 1 line, and if any ally of the crucibite is in the area when it is created, the crucibite has **edge** on the ability.
+    3 Malice: The area increases to a 10 × 1 line, and if any ally of the crucibite is in the area when it is created, the crucibite has **edge** on the ability.
 
 **Posthumous Promotion (Maneuver)**
 Keywords: Magic, Ranged
@@ -7500,7 +7500,7 @@ Target: One creature or object
 - ★ 12-16: 5 damage; slide 2
 - ✸ 17+: 7 damage; slide 3
     Effect: The portalite has **edge** on the attack if an ally is adjacent to the target.
-- 1 Malice: The portalite [[Teleport|teleports]] the target 3 squares before sliding them.
+    1 Malice: The portalite [[Teleport|teleports]] the target 3 squares before sliding them.
 
 **Posthumous Promotion (Maneuver)**
 Keywords: Magic, Ranged
@@ -7542,7 +7542,7 @@ Target: Two creatures or objects
 - ★ 12-16: 4 damage; A2 [[Grabbed|grabbed]]
 - ✸ 17+: 5 damage; A3 [[Grabbed|grabbed]]
     Special: The amalgamite can [[Grab|grab]] up to four creatures.
-- 5 Malice: The amalgamite deals an additional 4 damage to each creature they have [[Grabbed|grabbed]] and regains Stamina equal to the damage dealt.
+    5 Malice: The amalgamite deals an additional 4 damage to each creature they have [[Grabbed|grabbed]] and regains Stamina equal to the damage dealt.
 
 **Posthumous Promotion (Maneuver)**
 Keywords: Magic, Ranged
@@ -7689,7 +7689,7 @@ Target: Two creatures or objects
 - ★ 12-16: 8 damage; pull 2
 - ✸ 17+: 11 damage; pull 3
     Effect: One ally within 10 squares of the commander can make a [[Free Strike|free strike]].
-- 1 Malice: A target who is adjacent to the ground commander after this ability is resolved is I3 [[Grabbed|grabbed]] (save ends). This [[Grab|grab]] can't be escaped using the [[Escape Grab]] maneuver. The ground commander can [[Grab|grab]] up to two creatures at a time.
+    1 Malice: A target who is adjacent to the ground commander after this ability is resolved is I3 [[Grabbed|grabbed]] (save ends). This [[Grab|grab]] can't be escaped using the [[Escape Grab]] maneuver. The ground commander can [[Grab|grab]] up to two creatures at a time.
 
 **Highest Posthumous Promotion (Maneuver)**
 Keywords: Area, Magic
@@ -7793,8 +7793,8 @@ Target: 1 creature or object
 
 - ✦ ≤11: 7 damage; 2 ferocity
 - ★ 12-16: 10 damage; 4 ferocity
-- ✸ 17: 13 damage; 5 ferocity
-- 2 Malice: The target has P0 lycanthropy. The potency of this attack increases by 1 each time the [[Werewolf|werewolf]] forces the same target to resist it.
+- ✸ 17+: 13 damage; 5 ferocity
+    2 Malice: The target has P0 lycanthropy. The potency of this attack increases by 1 each time the [[Werewolf|werewolf]] forces the same target to resist it.
     Effect: A creature afflicted with lycanthropy accumulates 2 ferocity at the end of each of their turns whenever they're in combat. Their ferocity does not disappear after completing a respite; they must complete the Find a Cure project to end this condition.
 
 **Claws (Action)** ◆ 2d10 + 3
@@ -7804,7 +7804,7 @@ Target: 4 creatures or objects
 
 - ✦ ≤11: 3 damage
 - ★ 12-16: 4 damage; 1 ferocity; M2 push 3
-- ✸ 17: 5 damage; 3 ferocity; M3 vertical slide 3
+- ✸ 17+: 5 damage; 3 ferocity; M3 vertical slide 3
 
 **Berserker Slash (Action)** ◆ 5 Malice
 Keywords: -
@@ -7835,7 +7835,7 @@ Target: All enemies in the burst
 
 - ✸ ≤11: Target moves up to their speed away from the [[Werewolf|werewolf]]; [[Frightened|frightened]] (save ends)
 - ★ 12-16: [[Frightened]] (EoT)
-- ✦ 17: no effect
+- ✦ 17+: no effect
     Effect: Enemies that have 1 or more ferocity gain 4 ferocity and howl along with the [[Werewolf|werewolf]].
 
 **Full Wolf (Villain Action 2)**
@@ -7851,5 +7851,5 @@ Target: All creatures in the burst
 
 - ✦ ≤11: 3 damage; 2 ferocity
 - ★ 12-16: 4 damage; 4 ferocity
-- ✸ 17: 5 damage; 8 ferocity; [[Prone|prone]]
+- ✸ 17+: 5 damage; 8 ferocity; [[Prone|prone]]
     Effect: The [[Werewolf|werewolf]] shifts up to twice their speed either before or after the attack.

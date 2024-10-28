@@ -1,4 +1,4 @@
-#### LIGHTBENDER POUNCER
+### LIGHTBENDER POUNCER
 
 | [[Lightbender\|LIGHTBENDER]] POUNCER |       **Level 3 Harrier** |
 | :----------------------------------- | ------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | --------------- |
 |              |                |               |                 |                 |
 
-**Pounce (Signature)**
+#### Pounce (Signature)
 
 |                                             |                                |
 | :------------------------------------------ | :----------------------------- |
@@ -21,20 +21,21 @@
 **2d10 + 2**
 
 - ✦ ≤11: 5 damage; 1 [[Prone|prone]]
-- ★ 12–16: 9 damage; 2 [[Prone|prone]]
+- ★ 12-16: 9 damage; 2 [[Prone|prone]]
+- ✸ 17+: 12 damage; 3 [[Prone|prone]]
 
-Effect: The pouncer makes a [[Free Strike|free strike]] against each target they have knocked [[Prone|prone]].
+**Effect:** The pouncer makes a [[Free Strike|free strike]] against each target they have knocked [[Prone|prone]].
 
-**Sparkling Tail Whip (2d10 + 2)**
+#### Sparkling Tail Whip (2d10 + 2)
 
 |                       |                                              |
 | :-------------------- | :------------------------------------------- |
 | Keywords: Area, Magic | Type: Action                                 |
 | Distance: 2 burst     | Target: All enemies and objects in the burst |
 
-Effect: A dazzled creature has a bane on their attacks and can't have line of effect to targets who aren't adjacent to them.
+**Effect:** A dazzled creature has a bane on their attacks and can't have line of effect to targets who aren't adjacent to them.
 
-**Illusory Feint (5 Malice)**
+#### Illusory Feint (5 Malice)
 
 |                                   |                                 |
 | :-------------------------------- | :------------------------------ |
@@ -44,11 +45,12 @@ Effect: A dazzled creature has a bane on their attacks and can't have line of ef
 **REA RR**
 
 - ✦ ≤11: [[Dazed]] (save ends)
-- ★ 12–16: [[Dazed]] (EoT)
+- ★ 12-16: [[Dazed]] (EoT)
+- ✸ 17+: No effect
 
-Effect: Targets [[Dazed|dazed]] by this ability have a speed of 0 while [[Dazed|dazed]]. If a [[Dazed|dazed]] target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.
+**Effect:** Targets [[Dazed|dazed]] by this ability have a speed of 0 while [[Dazed|dazed]]. If a [[Dazed|dazed]] target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.
 
-**Striking Afterimage**
+#### Striking Afterimage
 
 |                 |                        |
 | :-------------- | :--------------------- |
@@ -57,7 +59,7 @@ Effect: Targets [[Dazed|dazed]] by this ability have a speed of 0 while [[Dazed|
 
 Trigger: The [[Lightbender|lightbender]] is damaged by an attack
 
-Effect: The [[Lightbender|lightbender]] halves the damage, doesn't suffer any associated effect, and [[Teleport|teleports]] 5 squares. The pouncer makes a [[Free Strike|free strike]] if they [[Teleport|teleport]] into a space adjacent to an enemy.
+**Effect:** The [[Lightbender|lightbender]] halves the damage, doesn't suffer any associated effect, and [[Teleport|teleports]] 5 squares. The pouncer makes a [[Free Strike|free strike]] if they [[Teleport|teleport]] into a space adjacent to an enemy.
 
 **Avoidance**
 

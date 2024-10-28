@@ -1,4 +1,4 @@
-#### LAST LAUGH
+### LAST LAUGH
 
 | LAST LAUGH      |         **Level 2 Leader** |
 | :-------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
-**Shrapnel Whip (Signature)**
+#### Shrapnel Whip (Signature)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -21,45 +21,46 @@
 **2d10 + 3**
 
 - ✦ ≤11: 4 damage; A2 [[Bleeding|bleeding]] (save ends)
-- ★ 12–16: 7 damage; A3 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 7 damage; A3 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 10 damage; A4 [[Bleeding|bleeding]] and [[Dazed|dazed]] (save ends)
 
-Effect: An ally targeted by this ability makes a [[Free Strike|free strike]] instead of taking damage.
+**Effect:** An ally targeted by this ability makes a [[Free Strike|free strike]] instead of taking damage.
 
-**Cackletongue (4 Malice)**
+#### Cackletongue (4 Malice)
 
 |                            |                             |
 | :------------------------- | :-------------------------- |
 | Keywords: -                | Type: Maneuver              |
 | Distance: Self and 5 burst | Target: Self and all allies |
 
-Effect: Each target has edge until the start of the last laugh's next turn. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
+**Effect:** Each target has edge until the start of the last laugh's next turn. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
 
-**Not the Best Time to Laugh (INU RR)**
+#### Not the Best Time to Laugh (INU RR)
 
 |                                   |                        |
 | :-------------------------------- | :--------------------- |
 | Keywords: Area, Magic, Resistance | Type: Villain Action 1 |
 | Distance: 5 burst                 | Target: All enemies    |
 
-Effect: While [[Frightened|frightened]] by this ability, targets laugh uncontrollably and cannot use triggered actions.
+**Effect:** While [[Frightened|frightened]] by this ability, targets laugh uncontrollably and cannot use triggered actions.
 
-**Call Up From The Abyss**
+#### Call Up From The Abyss
 
 |                     |                        |
 | :------------------ | :--------------------- |
 | Keywords: -         | Type: Villain Action 2 |
 | Distance: Ranged 10 | Target: Special        |
 
-Effect: The last laugh summons 5 [[Gnoll Wildling|gnoll wildlings]] and 5 [[Abyssal Hyena|abyssal hyenas]] into unoccupied spaces.
+**Effect:** The last laugh summons 5 [[Gnoll Wildling|gnoll wildlings]] and 5 [[Abyssal Hyena|abyssal hyenas]] into unoccupied spaces.
 
-**Edacity**
+#### Edacity
 
 |                             |                             |
 | :-------------------------- | :-------------------------- |
 | Keywords: Area              | Type: Villain Action 3      |
 | Distance: Self and 10 burst | Target: Self and all allies |
 
-Effect: Each target moves up to their speed and makes a [[Free Strike|free strike]]. Creatures that take damage from this villain action are also knocked [[Prone|prone]].
+**Effect:** Each target moves up to their speed and makes a [[Free Strike|free strike]]. Creatures that take damage from this villain action are also knocked [[Prone|prone]].
 
 **Death Rampage**
 

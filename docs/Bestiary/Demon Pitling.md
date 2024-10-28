@@ -1,4 +1,4 @@
-#### DEMON PITLING
+### DEMON PITLING
 
 | DEMON PITLING        | **Level 1 ARTILLERY MINION** |
 | :------------------- | ---------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
 |              |                |               |                  |                 |
 
-**Spit (Signature)**
+#### Spit (Signature)
 
 |                                  |                                           |
 | :------------------------------- | :---------------------------------------- |
@@ -21,7 +21,7 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 poison damage
-- ★ 12–16: 3 poison damage
+- ★ 12-16: 3 poison damage
 - ✸ 17+: 4 poison damage
 
 **Horrid Stench**

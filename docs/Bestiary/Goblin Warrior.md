@@ -1,4 +1,4 @@
-#### GOBLIN WARRIOR
+### GOBLIN WARRIOR
 
 | GOBLIN WARRIOR       |        **Level 1 Harrier** |
 | :------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
-**Spear (Signature)**
+#### Spear (Signature)
 
 |                                             |                                |
 | :------------------------------------------ | :----------------------------- |
@@ -21,10 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 5 damage
+- ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
-**Bury the Point (2 Malice)**
+#### Bury the Point (2 Malice)
 
 |                                 |                      |
 | :------------------------------ | :------------------- |
@@ -34,7 +34,7 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage; M1 [[Bleeding|bleeding]] (save ends)
-- ★ 12–16: 7 damage; M2 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 7 damage; M2 [[Bleeding|bleeding]] (save ends)
 - ✸ 17+: 8 damage; M3 [[Bleeding|bleeding]] (save ends)
 
 **Crafty**

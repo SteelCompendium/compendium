@@ -1,4 +1,4 @@
-#### WAR DOG EVISCERITE
+### WAR DOG EVISCERITE
 
 | WAR DOG EVISCERITE  |        **Level 1 Harrier** |
 | :------------------ | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | -------------- |
 |              |                |              |                 |                |
 
-**Chainsaw Whip (Signature)**
+#### Chainsaw Whip (Signature)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -21,19 +21,19 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage
-- ★ 12–16: 5 damage; pull 1
+- ★ 12-16: 5 damage; pull 1
 - ✸ 17+: 7 damage; pull 2
 
-Effect: The eviscerite can [[Grab|grab]] a target pulled adjacent to them by this ability.
+**Effect:** The eviscerite can [[Grab|grab]] a target pulled adjacent to them by this ability.
 
-**Posthumous Promotion**
+#### Posthumous Promotion
 
 |                         |                                           |
 | :---------------------- | :---------------------------------------- |
 | Keywords: Magic, Ranged | Type: Maneuver                            |
 | Distance: Ranged 10     | Target: One war dog with a loyalty collar |
 
-Effect: The target's loyalty collar detonates, killing them instantly.
+**Effect:** The target's loyalty collar detonates, killing them instantly.
 
 **Loyalty Collar**
 

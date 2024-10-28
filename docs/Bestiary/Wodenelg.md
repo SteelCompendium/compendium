@@ -1,4 +1,4 @@
-#### WODENELG
+### WODENELG
 
 | WODENELG          |      **Level 1 Mount** |
 | :---------------- | ---------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | --------------- |
 |              |                |               |                 |                 |
 
-**Gore (Signature)**
+#### Gore (Signature)
 
 |                                             |                              |
 | :------------------------------------------ | :--------------------------- |
@@ -21,18 +21,19 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 5 damage
+- ★ 12-16: 5 damage
+- ✸ 17+: 6 damage
 
-Effect: The wodenelg's rider can make a [[Free Strike|free strike]] at any point during the [[Charge|charge]].
+**Effect:** The wodenelg's rider can make a [[Free Strike|free strike]] at any point during the [[Charge|charge]].
 
-**Where I End the Woods Begin (3 Malice)**
+#### Where I End the Woods Begin (3 Malice)
 
 |                |                |
 | :------------- | :------------- |
 | Keywords: -    | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
-Effect: The wodenelg and their rider become invisible until the start of their next turn.
+**Effect:** The wodenelg and their rider become invisible until the start of their next turn.
 
 **Sure Footed**
 

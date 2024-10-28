@@ -1,4 +1,4 @@
-#### CRADLE CREDENZA
+### CRADLE CREDENZA
 
 | CRADLE CREDENZA       |       **Level 2 Support** |
 | :-------------------- | ------------------------: |
@@ -11,16 +11,16 @@
 | ------------ | ------------- | ------------ | --------------- | --------------- |
 |              |               |              |                 |                 |
 
-**Book Wall (Signature)**
+#### Book Wall (Signature)
 
 |                |              |
 | :------------- | :----------- |
 | Keywords: Area | Type: Action |
 | Distance: Self | Target: Self |
 
-Effect: The cradle credenza's speed becomes 0, and they extend themselves into a 5-wall until the start of their next turn. Allies adjacent to the wall at the start of their turn regain 5 Stamina and can apply the Magic keyword to their weapon abilities until the end of their turn.
+**Effect:** The cradle credenza's speed becomes 0, and they extend themselves into a 5-wall until the start of their next turn. Allies adjacent to the wall at the start of their turn regain 5 Stamina and can apply the Magic keyword to their weapon abilities until the end of their turn.
 
-**Elemental Chaos (2d10 + 2)**
+#### Elemental Chaos (2d10 + 2)
 
 |                       |                     |
 | :-------------------- | :------------------ |

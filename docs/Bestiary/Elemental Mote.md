@@ -1,4 +1,4 @@
-#### ELEMENTAL MOTE
+### ELEMENTAL MOTE
 
 | ELEMENTAL MOTE              |   **Level 1 Hexer Minion** |
 | :-------------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | ------------- | ------------ | --------------- | --------------- |
 |             |               |              |                 |                 |
 
-**Dweomer Plume (Signature)**
+#### Dweomer Plume (Signature)
 
 |                                |                                         |
 | :----------------------------- | :-------------------------------------- |
@@ -21,7 +21,8 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 4 damage; the target gains Magic weakness 1 (EoT)
+- ★ 12-16: 4 damage; the target gains Magic weakness 1 (EoT)
+- ✸ 17+: 5 damage; the target gains Magic weakness 3 (EoT)
 
 **Cradle Heart**
 

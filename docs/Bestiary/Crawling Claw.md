@@ -1,4 +1,4 @@
-#### CRAWLING CLAW
+### CRAWLING CLAW
 
 | CRAWLING CLAW        | **Level 1 Harrier Minion** |
 | :------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------- | ---------------- | --------------- |
 |             |                |               |                  |                 |
 
-**Fingernails (Signature)**
+#### Fingernails (Signature)
 
 |                                 |                                           |
 | :------------------------------ | :---------------------------------------- |
@@ -21,10 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 1 damage
-- ★ 12–16: 2 damage
+- ★ 12-16: 2 damage
 - ✸ 17+: 3 damage
 
-Effect: The crawling claw shifts a number of squares equal to the damage dealt.
+**Effect:** The crawling claw shifts a number of squares equal to the damage dealt.
 
 **Disorganized**
 

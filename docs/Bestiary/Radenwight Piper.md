@@ -1,4 +1,4 @@
-#### RADENWIGHT PIPER
+### RADENWIGHT PIPER
 
 | RADENWIGHT PIPER       |        **Level 1 Support** |
 | :--------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | ------------- | ------------ | ---------------- | --------------- |
 |             |               |              |                  |                 |
 
-**Piercing Trill (Signature)**
+#### Piercing Trill (Signature)
 
 |                                        |                                |
 | :------------------------------------- | :----------------------------- |
@@ -21,21 +21,21 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 sonic damage; push 1
-- ★ 12–16: 5 sonic damage; push 3
+- ★ 12-16: 5 sonic damage; push 3
 - ✸ 17+: 7 sonic damage; push 4
 
-Effect: The piper or an ally within distance regains Stamina equal to half the damage dealt.
+**Effect:** The piper or an ally within distance regains Stamina equal to half the damage dealt.
 
-**Vivace Vivace! (3 Malice)**
+#### Vivace Vivace! (3 Malice)
 
 |                       |                                |
 | :-------------------- | :----------------------------- |
 | Keywords: Area, Magic | Type: Maneuver                 |
 | Distance: 5 burst     | Target: Each ally in the burst |
 
-Effect: Each target who has used their Ready Rodent ability since their last turn regains the use of their triggered action.
+**Effect:** Each target who has used their Ready Rodent ability since their last turn regains the use of their triggered action.
 
-**Ready Rodent**
+#### Ready Rodent
 
 |                         |                        |
 | :---------------------- | :--------------------- |
@@ -44,7 +44,7 @@ Effect: Each target who has used their Ready Rodent ability since their last tur
 
 Trigger: An ally deals damage to the target.
 
-Effect: The piper makes a [[Free Strike|free strike]] against the target.
+**Effect:** The piper makes a [[Free Strike|free strike]] against the target.
 
 **Musical Suggestion**
 

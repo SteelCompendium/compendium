@@ -1,4 +1,4 @@
-#### GHOUL
+### GHOUL
 
 | GHOUL               |        **Level 1 Harrier** |
 | :------------------ | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------- | --------------- | --------------- |
 |             |                |               |                 |                 |
 
-**Razor Claws (Signature)**
+#### Razor Claws (Signature)
 
 |                                             |                                |
 | :------------------------------------------ | :----------------------------- |
@@ -21,17 +21,17 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage; M1 [[Bleeding|bleeding]] (save ends)
-- ★ 12–16: 4 damage; M2 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 4 damage; M2 [[Bleeding|bleeding]] (save ends)
 - ✸ 17+: 5 damage; M3 [[Bleeding|bleeding]] (save ends)
 
-**Leap**
+#### Leap
 
 |                |                |
 | :------------- | :------------- |
 | Keywords: -    | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
-Effect: The ghoul leaps 3 squares. If they land on a size 1 enemy, that enemy is knocked [[Prone|prone]] and the ghoul makes a [[Free Strike|free strike]] against them.
+**Effect:** The ghoul leaps 3 squares. If they land on a size 1 enemy, that enemy is knocked [[Prone|prone]] and the ghoul makes a [[Free Strike|free strike]] against them.
 
 **Hunger**
 

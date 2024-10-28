@@ -1,4 +1,4 @@
-#### GOBLIN UNDERBOSS
+### GOBLIN UNDERBOSS
 
 | GOBLIN UNDERBOSS     |        **Level 1 Support** |
 | :------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
-**Sword (Signature)**
+#### Sword (Signature)
 
 |                         |                                |
 | :---------------------- | :----------------------------- |
@@ -21,22 +21,21 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 5 damage
+- ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
-Effect: One ally adjacent to the target can make a [[Free Strike|free strike]] against them.
+**Effect:** One ally adjacent to the target can make a [[Free Strike|free strike]] against them.
 
-**Get Reckless!**
+#### Get Reckless!
 
 |                   |                                 |
 | :---------------- | :------------------------------ |
 | Keywords: Area    | Type: Maneuver                  |
 | Distance: 5 burst | Target: All allies in the burst |
 
-Effect: Until the start of the underboss's next turn, each target has edge on attacks, and attacks against them have edge.
+**Effect:** Until the start of the underboss's next turn, each target has edge on attacks, and attacks against them have edge.
 
-**3 Malice**
-Attacks don't have edge against a target.
+**3 Malice:** Attacks don't have edge against a target.
 
 **Crafty**
 

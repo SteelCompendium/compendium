@@ -1,4 +1,4 @@
-#### HAG OF THE GREEN AND ROT
+### HAG OF THE GREEN AND ROT
 
 | HAG OF THE GREEN AND ROT     |           **Level 3 Solo** |
 | :--------------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | --------------- |
 |              |                |               |                 |                 |
 
-**Corrosive Claws (Signature)**
+#### Corrosive Claws (Signature)
 
 |                                 |                                  |
 | :------------------------------ | :------------------------------- |
@@ -21,33 +21,32 @@
 **2d10 + 3**
 
 - ✦ ≤11: 6 corruption damage; A2 [[Weakened|weakened]] (save ends)
-- ★ 12–16: 10 corruption damage; A3 [[Weakened|weakened]] (save ends)
+- ★ 12-16: 10 corruption damage; A3 [[Weakened|weakened]] (save ends)
 - ✸ 17+: 13 corruption damage; A4 [[Weakened|weakened]] (save ends)
 
-Effect: A creature [[Weakened|weakened]] by this ability takes 1d6 corruption damage at the start of each of their turns until the condition ends.
+**Effect:** A creature [[Weakened|weakened]] by this ability takes 1d6 corruption damage at the start of each of their turns until the condition ends.
 
-**Soul Steal (2d10 + 3)**
+#### Soul Steal (2d10 + 3)
 
 |                           |                                 |
 | :------------------------ | :------------------------------ |
 | Keywords: Area, Magic     | Type: Action                    |
 | Distance: 5 cube within 1 | Target: All enemies in the cube |
 
-Effect: This ability has an edge against creatures with a soul. The hag regains Stamina equal to half the total damage dealt.
+**Effect:** This ability has an edge against creatures with a soul. The hag regains Stamina equal to half the total damage dealt.
 
-**Shapeshifter**
+#### Shapeshifter
 
 |                 |                |
 | :-------------- | :------------- |
 | Keywords: Magic | Type: Maneuver |
 | Distance: Self  | Target: Self   |
 
-Effect: The hag alters their body to become any Size-1 creature, such as a house cat. If the hag uses this ability while outside of an enemy's line of effect, the hag is considered hidden. The hag can return to their original form as a free maneuver.
+**Effect:** The hag alters their body to become any Size-1 creature, such as a house cat. If the hag uses this ability while outside of an enemy's line of effect, the hag is considered hidden. The hag can return to their original form as a free maneuver.
 
-**5 Malice**
-The hag becomes a Size-2 creature instead, such as a bear. While in this form, the distance of their melee abilities increases by 1 and has reach.
+**5 Malice:** The hag becomes a Size-2 creature instead, such as a bear. While in this form, the distance of their melee abilities increases by 1 and has reach.
 
-**Turned Upside Down (2 Malice)**
+#### Turned Upside Down (2 Malice)
 
 |                       |                                  |
 | :-------------------- | :------------------------------- |
@@ -59,40 +58,39 @@ Trigger: A creature hits Shtriga Nona with a melee attack.
 **REA RR**
 
 - ✦ ≤11: Vertical slide 5; [[Restrained|restrained]] (EoT)
-- ★ 12–16: Slide 3; [[Slowed|slowed]] (EoT)
+- ★ 12-16: Slide 3; [[Slowed|slowed]] (EoT)
 - ✸ 17+: Slide 2
 
-Effect: A creature [[Restrained|restrained]] by this ability that is force moved vertically is suspended in midair until the condition ends.
+**Effect:** A creature [[Restrained|restrained]] by this ability that is force moved vertically is suspended in midair until the condition ends.
 
-**Snackies for Sweeties (2d10 + 3)**
+#### Snackies for Sweeties (2d10 + 3)
 
 |                       |                        |
 | :-------------------- | :--------------------- |
 | Keywords: Area, Magic | Type: Villain Action 1 |
 | Distance: 5 burst     | Target: All creatures  |
 
-Effect: The hag attaches an ornate explosive pastry to each target. Roll power at the end of the round, targeting each creature with a pastry attached to them and all creatures and objects within 2 of each pastry.
+**Effect:** The hag attaches an ornate explosive pastry to each target. Roll power at the end of the round, targeting each creature with a pastry attached to them and all creatures and objects within 2 of each pastry.
 
-**Special**
-An adjacent creature can attempt a hard Agility test to remove the pastry as a maneuver. On success, the pastry is destroyed without exploding. On failure, the hag rolls power for all pastries immediately.
+**Special:** An adjacent creature can attempt a hard Agility test to remove the pastry as a maneuver. On success, the pastry is destroyed without exploding. On failure, the hag rolls power for all pastries immediately.
 
-**Animal Alacrity**
+#### Animal Alacrity
 
 |                               |                                  |
 | :---------------------------- | :------------------------------- |
 | Keywords: Area, Melee, Weapon | Type: Villain Action 2           |
 | Distance: 1 burst             | Target: All enemies in the burst |
 
-Effect: The hag shifts up to their speed before using this action, makes a corrosive claws attack against each target, pushes each target 2 squares, and then shifts up to their speed again. The hag makes one power roll against all targets.
+**Effect:** The hag shifts up to their speed before using this action, makes a corrosive claws attack against each target, pushes each target 2 squares, and then shifts up to their speed again. The hag makes one power roll against all targets.
 
-**Open the Oven (2d10 + 3)**
+#### Open the Oven (2d10 + 3)
 
 |                               |                                   |
 | :---------------------------- | :-------------------------------- |
 | Keywords: Area, Melee, Weapon | Type: Villain Action 3            |
 | Distance: 5 cube within 1     | Target: All creatures in the cube |
 
-Effect: The hag turns the affected area into a roiling oven. The hag gains one edge on attacks and abilities against a creature each time they enter an affected square or start their turn there.
+**Effect:** The hag turns the affected area into a roiling oven. The hag gains one edge on attacks and abilities against a creature each time they enter an affected square or start their turn there.
 
 **Solo Monster**
 

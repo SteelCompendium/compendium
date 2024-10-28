@@ -1,4 +1,4 @@
-#### DEMON ENSNARER
+### DEMON ENSNARER
 
 | DEMON ENSNARER       | **Level 1 BRUTE MINION** |
 | :------------------- | -----------------------: |
@@ -11,7 +11,7 @@
 | ------------ | ------------- | ------------- | ---------------- | --------------- |
 |              |               |               |                  |                 |
 
-**Barbed Tongues (Signature)**
+#### Barbed Tongues (Signature)
 
 |                                 |                                           |
 | :------------------------------ | :---------------------------------------- |
@@ -21,10 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage; pull 1
-- ★ 12–16: 4 damage; pull 2
+- ★ 12-16: 4 damage; pull 2
 - ✸ 17+: 5 damage; pull 3
 
-Effect: If the target is pulled adjacent to the ensnarer, the ensnarer takes a [[Free Strike|free strike]] against them.
+**Effect:** If the target is pulled adjacent to the ensnarer, the ensnarer takes a [[Free Strike|free strike]] against them.
 
 **Soulsight**
 

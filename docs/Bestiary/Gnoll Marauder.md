@@ -1,4 +1,4 @@
-#### GNOLL MARAUDER
+### GNOLL MARAUDER
 
 | GNOLL MARAUDER  |        **Level 2 Harrier** |
 | :-------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
-**Fury Flail (Signature)**
+#### Fury Flail (Signature)
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
@@ -21,18 +21,19 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage; A1 [[Bleeding|bleeding]] (save ends)
-- ★ 12–16: 5 damage; A2 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 5 damage; A2 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 7 damage; [[Prone|prone]]; A3 [[Bleeding|bleeding]] (save ends)
 
-Effect: Shift 2.
+**Effect:** Shift 2.
 
-**Cackletongue (3 Malice)**
+#### Cackletongue (3 Malice)
 
 |                            |                             |
 | :------------------------- | :-------------------------- |
 | Keywords: -                | Type: Maneuver              |
 | Distance: Self and 2 burst | Target: Self and all allies |
 
-Effect: Each target shifts up to their speed. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
+**Effect:** Each target shifts up to their speed. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
 
 **Death Frenzy**
 

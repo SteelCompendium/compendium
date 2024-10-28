@@ -1,4 +1,4 @@
-#### WAR DOG COGNIVITE
+### WAR DOG COGNIVITE
 
 | WAR DOG COGNIVITE           |       **Level 1 Defender** |
 | :-------------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | --------------- |
 |             |                |              |                 |                 |
 
-**Synlirii Grafts (Signature)**
+#### Synlirii Grafts (Signature)
 
 |                         |                                 |
 | :---------------------- | :------------------------------ |
@@ -21,26 +21,26 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 psychic damage; vertical slide 1
-- ★ 12–16: 4 psychic damage; vertical slide 2
+- ★ 12-16: 4 psychic damage; vertical slide 2
 - ✸ 17+: 5 psychic damage; vertical slide 3
 
-**Posthumous Promotion**
+#### Posthumous Promotion
 
 |                         |                                           |
 | :---------------------- | :---------------------------------------- |
 | Keywords: Magic, Ranged | Type: Maneuver                            |
 | Distance: Ranged 10     | Target: One war dog with a loyalty collar |
 
-Effect: The target's loyalty collar detonates, killing them instantly.
+**Effect:** The target's loyalty collar detonates, killing them instantly.
 
-**The Voice (1 Malice)**
+#### The Voice (1 Malice)
 
 |                         |                                 |
 | :---------------------- | :------------------------------ |
 | Keywords: Area, Psionic | Type: Maneuver                  |
 | Distance: 5 burst       | Target: Each enemy in the burst |
 
-Effect: The cognivite chooses an ally within 10 squares, then chooses whether each target is [[Taunted|taunted]] by the ally or the ally has **cover** whenever they're attacked by a target until the start of the cognivite's next turn.
+**Effect:** The cognivite chooses an ally within 10 squares, then chooses whether each target is [[Taunted|taunted]] by the ally or the ally has **cover** whenever they're attacked by a target until the start of the cognivite's next turn.
 
 **Loyalty Collar**
 

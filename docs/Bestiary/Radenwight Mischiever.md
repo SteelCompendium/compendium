@@ -1,4 +1,4 @@
-#### RADENWIGHT MISCHIEVER
+### RADENWIGHT MISCHIEVER
 
 | RADENWIGHT MISCHIEVER  | **Level 1 Ambusher Minion** |
 | :--------------------- | --------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | -------------- |
 |              |                |              |                 |                |
 
-**Dagger Dance (Signature)**
+#### Dagger Dance (Signature)
 
 |                                 |                                 |
 | :------------------------------ | :------------------------------ |
@@ -21,12 +21,12 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 5 damage
+- ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
-Effect: If the mischief is hidden when they use this ability, they can target two creatures.
+**Effect:** If the mischief is hidden when they use this ability, they can target two creatures.
 
-**Ready Rodent**
+#### Ready Rodent
 
 |                         |                        |
 | :---------------------- | :--------------------- |
@@ -35,4 +35,4 @@ Effect: If the mischief is hidden when they use this ability, they can target tw
 
 Trigger: An ally deals damage to the target.
 
-Effect: The mischief makes a [[Free Strike|free strike]] against the target.
+**Effect:** The mischief makes a [[Free Strike|free strike]] against the target.

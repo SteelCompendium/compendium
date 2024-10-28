@@ -1,4 +1,4 @@
-#### SHADE
+### SHADE
 
 | SHADE                       | **Level 1 Ambusher Minion** |
 | :-------------------------- | --------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
-**Life Drain (Signature)**
+#### Life Drain (Signature)
 
 |                                 |                                           |
 | :------------------------------ | :---------------------------------------- |
@@ -21,7 +21,7 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 corruption damage
-- ★ 12–16: 3 corruption damage
+- ★ 12-16: 3 corruption damage
 - ✸ 17+: 4 corruption damage; the target moves up to their speed away from all shades
 
 **Corruptive Phasing**

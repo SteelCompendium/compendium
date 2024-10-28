@@ -1,4 +1,4 @@
-#### KOBOLD SIGNIFIER
+### KOBOLD SIGNIFIER
 
 | KOBOLD SIGNIFIER   |        **Level 1 Support** |
 | :----------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | --------------- |
 |             |                |              |                 |                 |
 
-**Signum (Signature)**
+#### Signum (Signature)
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
@@ -21,21 +21,21 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 4 damage
+- ★ 12-16: 4 damage
+- ✸ 17+: 5 damage
 
-Effect: An ally within 10 can shift their speed, as long as they end their movement adjacent to an ally.
+**Effect:** An ally within 10 can shift their speed, as long as they end their movement adjacent to an ally.
 
-**2+ Malice**
-1 additional ally can shift for every 2 malice spent.
+**2+ Malice:** 1 additional ally can shift for every 2 malice spent.
 
-**Glory to the Legion (5 Malice)**
+#### Glory to the Legion (5 Malice)
 
 |                   |                                 |
 | :---------------- | :------------------------------ |
 | Keywords: Area    | Type: Maneuver                  |
 | Distance: 5 burst | Target: All allies in the burst |
 
-Effect: Each target regains 5 Stamina.
+**Effect:** Each target regains 5 Stamina.
 
 **Upholding High Standards**
 

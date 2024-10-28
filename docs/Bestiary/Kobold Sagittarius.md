@@ -1,4 +1,4 @@
-#### KOBOLD SAGITTARIUS
+### KOBOLD SAGITTARIUS
 
 | KOBOLD SAGITTARIUS | **Level 1 Artillery Minion** |
 | :----------------- | ---------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | -------------- |
 |             |                |              |                 |                |
 
-**Composite Bow (Signature)**
+#### Composite Bow (Signature)
 
 |                                  |                                         |
 | :------------------------------- | :-------------------------------------- |
@@ -21,9 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 3 damage
+- ★ 12-16: 3 damage
+- ✸ 17+: 4 damage
 
-Effect: The sagittarius has increased Stability while adjacent to an ally.
+**Effect:** The sagittarius has increased Stability while adjacent to an ally.
 
 **Shield? Shield!**
 

@@ -1,4 +1,4 @@
-#### HUMAN DEATH ACOLYTE
+### HUMAN DEATH ACOLYTE
 
 | [[Human\|HUMAN]] DEATH ACOLYTE |   **Level 1 Hexer Minion** |
 | :----------------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | --------------- |
 |             |                |              |                 |                 |
 
-**Necrotic Bolt (Signature)**
+#### Necrotic Bolt (Signature)
 
 |                                 |                                           |
 | :------------------------------ | :---------------------------------------- |
@@ -21,10 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 corruption damage
-- ★ 12–16: 4 corruption damage
+- ★ 12-16: 4 corruption damage
 - ✸ 17+: 5 corruption damage
 
-Effect: A creature within 5 squares of the death acolyte regains 1 Stamina.
+**Effect:** A creature within 5 squares of the death acolyte regains 1 Stamina.
 
 **Supernatural Insight**
 

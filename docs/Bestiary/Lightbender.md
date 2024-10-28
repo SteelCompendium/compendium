@@ -1,4 +1,4 @@
-#### LIGHTBENDER
+### LIGHTBENDER
 
 | LIGHTBENDER            |      **Level 3 Ambusher** |
 | :--------------------- | ------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | --------------- |
 |              |                |               |                 |                 |
 
-**Sucker Swipe (Signature)**
+#### Sucker Swipe (Signature)
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
@@ -21,20 +21,21 @@
 **2d10 + 2**
 
 - ✦ ≤11: 8 damage
-- ★ 12–16: 12 damage
+- ★ 12-16: 12 damage
+- ✸ 17+: 16 damage
 
-Effect: The lightbender has advantage on the attack if they would make it with an edge.
+**Effect:** The lightbender has advantage on the attack if they would make it with an edge.
 
-**Piercing Tails (2d10 + 2)**
+#### Piercing Tails (2d10 + 2)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Action                   |
 | Distance: Melee 2               | Target: 2 creatures or objects |
 
-Effect: A creature who is [[Bleeding|bleeding]] from this ability has a bane on tests to search for the lightbender until the condition ends.
+**Effect:** A creature who is [[Bleeding|bleeding]] from this ability has a bane on tests to search for the lightbender until the condition ends.
 
-**Hypnotic Mane (5 Malice)**
+#### Hypnotic Mane (5 Malice)
 
 |                                   |                                  |
 | :-------------------------------- | :------------------------------- |
@@ -44,11 +45,12 @@ Effect: A creature who is [[Bleeding|bleeding]] from this ability has a bane on 
 **INU RR**
 
 - ✦ ≤11: [[Dazed]] (save ends)
-- ★ 12–16: [[Dazed]] (EoT)
+- ★ 12-16: [[Dazed]] (EoT)
+- ✸ 17+: No effect
 
-Effect: Targets [[Dazed|dazed]] by this ability have a speed of 0 while [[Dazed|dazed]]. If a [[Dazed|dazed]] target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.
+**Effect:** Targets [[Dazed|dazed]] by this ability have a speed of 0 while [[Dazed|dazed]]. If a [[Dazed|dazed]] target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.
 
-**Stalker's Afterimage**
+#### Stalker's Afterimage
 
 |                 |                        |
 | :-------------- | :--------------------- |
@@ -57,7 +59,7 @@ Effect: Targets [[Dazed|dazed]] by this ability have a speed of 0 while [[Dazed|
 
 Trigger: The lightbender is damaged by an attack
 
-Effect: The lightbender halves the damage, doesn't suffer any associated effect, and [[Teleport|teleports]] 5 squares. The lightbender immediately [[Hide|hides]] if they [[Teleport|teleport]] into cover or concealment.
+**Effect:** The lightbender halves the damage, doesn't suffer any associated effect, and [[Teleport|teleports]] 5 squares. The lightbender immediately [[Hide|hides]] if they [[Teleport|teleport]] into cover or concealment.
 
 **Avoidance**
 

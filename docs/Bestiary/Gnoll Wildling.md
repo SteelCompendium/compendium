@@ -1,4 +1,4 @@
-#### GNOLL WILDLING
+### GNOLL WILDLING
 
 | GNOLL WILDLING  | **Level 2 Harrier Minion** |
 | :-------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
-**Flail (Signature)**
+#### Flail (Signature)
 
 |                                 |                                         |
 | :------------------------------ | :-------------------------------------- |
@@ -21,7 +21,8 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 3 damage
+- ★ 12-16: 3 damage
+- ✸ 17+: 4 damage; wildling takes a [[Free Strike|free strike]] on a creature adjacent to the target
 
 **Death Frenzy**
 

@@ -1,4 +1,4 @@
-#### SKITTERLING
+### SKITTERLING
 
 | SKITTERLING                 |   **Level 1 Hexer Minion** |
 | :-------------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | --------------- |
 |              |                |               |                 |                 |
 
-**Claws (Signature)**
+#### Claws (Signature)
 
 |                                 |                                           |
 | :------------------------------ | :---------------------------------------- |
@@ -21,7 +21,7 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 poison damage
-- ★ 12–16: 3 poison damage
+- ★ 12-16: 3 poison damage
 - ✸ 17+: 4 poison damage
 
-Effect: The target has a bane on their next attack.
+**Effect:** The target has a bane on their next attack.

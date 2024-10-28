@@ -1,4 +1,4 @@
-#### GOBLIN CURSESPITTER
+### GOBLIN CURSESPITTER
 
 | GOBLIN CURSESPITTER  |          **Level 1 Hexer** |
 | :------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | ---------------- | -------------- |
 |              |                |              |                  |                |
 
-**Eye of Surlach (Signature)**
+#### Eye of Surlach (Signature)
 
 |                                     |                      |
 | :---------------------------------- | :------------------- |
@@ -21,10 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 corruption damage; I1 [[Weakened|weakened]] (save ends)
-- ★ 12–16: 5 corruption damage; I2 [[Weakened|weakened]] (save ends)
+- ★ 12-16: 5 corruption damage; I2 [[Weakened|weakened]] (save ends)
 - ✸ 17+: 6 corruption damage; I3 [[Weakened|weakened]] (save ends)
 
-**Dizzying Hex (1 Malice)**
+#### Dizzying Hex (1 Malice)
 
 |                                     |                      |
 | :---------------------------------- | :------------------- |
@@ -34,7 +34,7 @@
 **INU RR**
 
 - ✦ ≤11: [[Prone]] and can't stand (save ends)
-- ★ 12–16: [[Prone]] and can't stand (EoT)
+- ★ 12-16: [[Prone]] and can't stand (EoT)
 - ✸ 17+: No effect
 
 **Crafty**

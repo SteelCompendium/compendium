@@ -1,4 +1,4 @@
-#### WIGHT
+### WIGHT
 
 | WIGHT               |          **Level 1 Hexer** |
 | :------------------ | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
-**Lifestealer Longsword (Signature)**
+#### Lifestealer Longsword (Signature)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -21,19 +21,19 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 corruption damage
-- ★ 12–16: 4 corruption damage; M1 [[Slowed|slowed]] (save ends)
+- ★ 12-16: 4 corruption damage; M1 [[Slowed|slowed]] (save ends)
 - ✸ 17+: 5 corruption damage; M2 [[Slowed|slowed]] and [[Weakened|weakened]] (save ends)
 
-Effect: The target appears to rapidly age each time they take damage from this attack. The target regains their former appearance when the wight is destroyed.
+**Effect:** The target appears to rapidly age each time they take damage from this attack. The target regains their former appearance when the wight is destroyed.
 
-**Raise (3 Malice)**
+#### Raise (3 Malice)
 
 |                         |                       |
 | :---------------------- | :-------------------- |
 | Keywords: Magic, Ranged | Type: Maneuver        |
 | Distance: Ranged 3      | Target: One dead ally |
 
-Effect: The target revives with half their Stamina. The wight can't use this maneuver again until they attack a creature with their lifestealer longsword.
+**Effect:** The target revives with half their Stamina. The wight can't use this maneuver again until they attack a creature with their lifestealer longsword.
 
 **Arise**
 

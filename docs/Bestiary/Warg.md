@@ -1,4 +1,4 @@
-#### WARG
+### WARG
 
 | WARG             |          **Level 1 Mount** |
 | :--------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | --------------- |
 |              |                |               |                 |                 |
 
-**Bite (Signature)**
+#### Bite (Signature)
 
 |                                             |                                |
 | :------------------------------------------ | :----------------------------- |
@@ -21,17 +21,17 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 5 damage
+- ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
-**Sprint (1 Malice)**
+#### Sprint (1 Malice)
 
 |                |                |
 | :------------- | :------------- |
 | Keywords: -    | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
-Effect: The warg moves up to their speed.
+**Effect:** The warg moves up to their speed.
 
 **Mounted Charger**
 

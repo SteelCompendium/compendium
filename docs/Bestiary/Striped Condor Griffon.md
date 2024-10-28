@@ -1,4 +1,4 @@
-#### STRIPED CONDOR GRIFFON
+### STRIPED CONDOR GRIFFON
 
 | STRIPED CONDOR [[Griffon\|GRIFFON]] |         **Level 2 Brute** |
 | :---------------------------------- | ------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | --------------- |
 |              |                |               |                 |                 |
 
-**Violent Thrashing (Signature)**
+#### Violent Thrashing (Signature)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -21,19 +21,19 @@
 **2d10 + 2**
 
 - ✦ ≤11: 5 damage; push 1
-- ★ 12–16: 9 damage; one target is pushed 2; other target is vertically pushed 2
+- ★ 12-16: 9 damage; one target is pushed 2; other target is vertically pushed 2
 - ✸ 17+: 12 damage; one target is pushed 2 and [[Prone|prone]]; other target is vertically pushed 3
 
-**Bound Ahead (5 Malice)**
+#### Bound Ahead (5 Malice)
 
 |                                 |              |
 | :------------------------------ | :----------- |
 | Keywords: -                     | Type: Action |
 | Distance: Self (while grounded) | Target: Self |
 
-Effect: The [[Griffon|griffon]] shifts up to their speed in a straight line. Each enemy within their reach during this movement can choose to either take 5 damage or be knocked [[Prone|prone]].
+**Effect:** The [[Griffon|griffon]] shifts up to their speed in a straight line. Each enemy within their reach during this movement can choose to either take 5 damage or be knocked [[Prone|prone]].
 
-**Wing Buffet (3 Malice)**
+#### Wing Buffet (3 Malice)
 
 |                               |                                   |
 | :---------------------------- | :-------------------------------- |
@@ -43,10 +43,10 @@ Effect: The [[Griffon|griffon]] shifts up to their speed in a straight line. Eac
 **MGT RR**
 
 - ✦ ≤11: Vertical push 5
-- ★ 12–16: Push 4
+- ★ 12-16: Push 4
 - ✸ 17+: Push 3
 
-**Circle and Strike (2d10 + 2)**
+#### Circle and Strike (2d10 + 2)
 
 |                |                             |
 | :------------- | :-------------------------- |
@@ -55,7 +55,7 @@ Effect: The [[Griffon|griffon]] shifts up to their speed in a straight line. Eac
 
 Trigger: The [[Griffon|griffon]] flies above a creature on the ground within 10
 
-Effect: The [[Griffon|griffon]] falls down upon the target, taking no damage from falling. A creature who is [[Grabbed|grabbed]] by the [[Griffon|griffon]] is [[Prone|prone]] and can't stand until they are no longer [[Grabbed|grabbed]].
+**Effect:** The [[Griffon|griffon]] falls down upon the target, taking no damage from falling. A creature who is [[Grabbed|grabbed]] by the [[Griffon|griffon]] is [[Prone|prone]] and can't stand until they are no longer [[Grabbed|grabbed]].
 
 **Beast of Prey**
 

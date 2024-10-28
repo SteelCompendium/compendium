@@ -1,4 +1,4 @@
-#### KOBOLD ADEPTUS
+### KOBOLD ADEPTUS
 
 | KOBOLD ADEPTUS     |      **Level 1 Artillery** |
 | :----------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------- | --------------- | -------------- |
 |             |                |               |                 |                |
 
-**Shocking Bolt (Signature)**
+#### Shocking Bolt (Signature)
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
@@ -21,11 +21,12 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 lightning damage
-- ★ 12–16: 5 lightning damage
+- ★ 12-16: 5 lightning damage
+- ✸ 17+: 6 lightning damage
 
-Effect: The adeptus has an edge on the attack if the target is adjacent to another enemy. All enemies adjacent to the target take 1 lightning damage.
+**Effect:** The adeptus has an edge on the attack if the target is adjacent to another enemy. All enemies adjacent to the target take 1 lightning damage.
 
-**Arcane Telum (3 Malice)**
+#### Arcane Telum (3 Malice)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -35,9 +36,10 @@ Effect: The adeptus has an edge on the attack if the target is adjacent to anoth
 **2d10 + 1**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 5 damage
+- ★ 12-16: 5 damage
+- ✸ 17+: 6 damage
 
-Effect: This attack ignores all banes and hindrances.
+**Effect:** This attack ignores all banes and hindrances.
 
 **Shield? Shield!**
 

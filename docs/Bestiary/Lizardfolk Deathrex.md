@@ -1,4 +1,4 @@
-#### LIZARDFOLK DEATHREX
+### LIZARDFOLK DEATHREX
 
 | LIZARDFOLK DEATHREX        |        **Level 1 Leader** |
 | :------------------------- | ------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | ------------- | --------------- |
 |              |                |              |               |                 |
 
-**Ripper Spear (Signature)**
+#### Ripper Spear (Signature)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -21,12 +21,12 @@
 **2d10 + 3**
 
 - ✦ ≤11: 3 damage; pull 1; A2 [[Bleeding|bleeding]] (save ends)
-- ★ 12–16: 7 damage; pull 1; A3 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 7 damage; pull 1; A3 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 10 damage; pull 2; A4 [[Bleeding|bleeding]] (save ends)
 
-**1 Malice**
-One target that is adjacent to the deathrex is [[Grabbed|grabbed]] by the deathrex's mouth.
+**1 Malice:** One target that is adjacent to the deathrex is [[Grabbed|grabbed]] by the deathrex's mouth.
 
-**Death Roll (3 Malice)**
+#### Death Roll (3 Malice)
 
 |                                 |                                                   |
 | :------------------------------ | :------------------------------------------------ |
@@ -36,20 +36,21 @@ One target that is adjacent to the deathrex is [[Grabbed|grabbed]] by the deathr
 **2d10 + 3**
 
 - ✦ ≤11: 5 damage; M2 [[Dazed|dazed]] (save ends)
-- ★ 12–16: 10 damage; M3 [[Dazed|dazed]] (save ends)
+- ★ 12-16: 10 damage; M3 [[Dazed|dazed]] (save ends)
+- ✸ 17+: 15 damage; M4 [[Dazed|dazed]] (save ends)
 
-Effect: The target is released from the [[Grab|grab]] and slides 5.
+**Effect:** The target is released from the [[Grab|grab]] and slides 5.
 
-**Trundle**
+#### Trundle
 
 |                |                |
 | :------------- | :------------- |
 | Keywords: -    | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
-Effect: The deathrex moves up to their speed. The deathrex can make a [[Free Strike|free strike]] on each creature that makes an opportunity attack against them during this movement.
+**Effect:** The deathrex moves up to their speed. The deathrex can make a [[Free Strike|free strike]] on each creature that makes an opportunity attack against them during this movement.
 
-**Swat The [[Fly]]**
+#### Swat The Fly
 
 |                   |                                       |
 | :---------------- | :------------------------------------ |
@@ -58,34 +59,34 @@ Effect: The deathrex moves up to their speed. The deathrex can make a [[Free Str
 
 Trigger: The target moves or shifts away from the deathrex.
 
-Effect: Slide 5.
+**Effect:** Slide 5.
 
-**Snack Attack**
+#### Snack Attack
 
 |                             |                                          |
 | :-------------------------- | :--------------------------------------- |
 | Keywords: Area              | Type: Villain Action 1                   |
 | Distance: Self and 10 burst | Target: Self and all allies in the burst |
 
-Effect: Each target moves up to their speed and makes a [[Free Strike|free strike]]. A target receives temporary Stamina equal to the amount of damage they dealt during this action.
+**Effect:** Each target moves up to their speed and makes a [[Free Strike|free strike]]. A target receives temporary Stamina equal to the amount of damage they dealt during this action.
 
-**Shed Some Skin**
+#### Shed Some Skin
 
 |                |                        |
 | :------------- | :--------------------- |
 | Keywords: -    | Type: Villain Action 2 |
 | Distance: Self | Target: Self           |
 
-Effect: The deathrex shifts up to their speed, leaving behind a skin shed duplicate in the space that they started in. The duplicate has 10 Stamina, has no villain actions, shares the rest of the deathrex's characteristics, and takes their turn at the same time as the deathrex.
+**Effect:** The deathrex shifts up to their speed, leaving behind a skin shed duplicate in the space that they started in. The duplicate has 10 Stamina, has no villain actions, shares the rest of the deathrex's characteristics, and takes their turn at the same time as the deathrex.
 
-**Thresher Thrasher**
+#### Thresher Thrasher
 
 |                             |                                          |
 | :-------------------------- | :--------------------------------------- |
 | Keywords: Area              | Type: Villain Action 3                   |
 | Distance: Self and 10 burst | Target: Self and all allies in the burst |
 
-Effect: Each target moves up to their speed. Until the end of the encounter, when a creature enters or starts their turn adjacent to a target, the target can make a [[Free Strike|free strike]] against them.
+**Effect:** Each target moves up to their speed. Until the end of the encounter, when a creature enters or starts their turn adjacent to a target, the target can make a [[Free Strike|free strike]] against them.
 
 **Rex Reptilian Escape**
 

@@ -1,4 +1,4 @@
-#### TRAINED GELATINOUS CUBE
+### TRAINED GELATINOUS CUBE
 
 | TRAINED GELATINOUS CUBE |         **Level 1 Hexer** |
 | :---------------------- | ------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | --------------- |
 |              |                |               |                 |                 |
 
-**Engulf (Signature)**
+#### Engulf (Signature)
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
@@ -21,16 +21,23 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 acid damage; 1 [[Dazed|dazed]] (save ends)
-- ★ 12–16: 5 acid damage; 2 [[Dazed|dazed]] (save ends)
+- ★ 12-16: 5 acid damage; 2 [[Dazed|dazed]] (save ends)
+- ✸ 17+: 7 acid damage; 3 [[Restrained|restrained]] (save ends)
 
-Effect: A size 2 or smaller creature [[Restrained|restrained]] by this attack is pulled into one of the cube's squares and moves with the cube. The creature takes 3 acid damage at the start of each of their turns while [[Restrained|restrained]]. When [[Restrained|restrained]] ends, the creature moves to the nearest unoccupied square adjacent to the cube.
+**Effect:** A size 2 or smaller creature [[Restrained|restrained]] by this attack is pulled into one of the cube's squares and moves with the cube. The creature takes 3 acid damage at the start of each of their turns while [[Restrained|restrained]]. When [[Restrained|restrained]] ends, the creature moves to the nearest unoccupied square adjacent to the cube.
 
-**3 Malice**
-The cube attacks 1 additional target.
+**3 Malice:** The cube attacks 1 additional target.
 
-**You Didn't Pay Attention! (Free Triggered Action)**
+#### You Didn't Pay Attention!
 
-Keywords: - Trigger: A creature moves or is force moved into the cube. Distance: Self Target: Self Effect: The cube uses Engulf with a double edge.
+|                |                             |
+| :------------- | :-------------------------- |
+| Keywords: -    | Type: Free Triggered Action |
+| Distance: Self | Target: Self                |
+
+Trigger: A creature moves or is force moved into the cube.
+
+**Effect:** The cube uses Engulf with a double edge.
 
 **Translucent Cube**
 

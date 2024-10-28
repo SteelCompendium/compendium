@@ -1,4 +1,4 @@
-#### HUMAN TRICKSHOT
+### HUMAN TRICKSHOT
 
 | [[Human\|HUMAN]] TRICKSHOT |      **Level 1 Artillery** |
 | :------------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | ---------------- | -------------- |
 |             |                |              |                  |                |
 
-**Trick Crossbow (Signature)**
+#### Trick Crossbow (Signature)
 
 |                                  |                                |
 | :------------------------------- | :----------------------------- |
@@ -21,13 +21,12 @@
 **2d10 + 2**
 
 - ✦ ≤11: 4 damage
-- ★ 12–16: 7 damage
+- ★ 12-16: 7 damage
 - ✸ 17+: 10 damage
 
-Effect: The trickshot ignores cover and concealment.
+**Effect:** The trickshot ignores cover and concealment.
 
-**3 Malice**
-The trickshot attacks an additional target.
+**3 Malice:** The trickshot attacks an additional target.
 
 **Supernatural Insight**
 

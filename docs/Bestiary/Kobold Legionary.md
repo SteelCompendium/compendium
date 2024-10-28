@@ -1,4 +1,4 @@
-#### KOBOLD LEGIONARY
+### KOBOLD LEGIONARY
 
 | KOBOLD LEGIONARY   |       **Level 1 Defender** |
 | :----------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | -------------- |
 |              |                |              |                 |                |
 
-**Gladius (Signature)**
+#### Gladius (Signature)
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
@@ -21,14 +21,14 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 4 damage
+- ★ 12-16: 4 damage
+- ✸ 17+: 5 damage
 
-Effect: [[Taunted]] (EoT).
+**Effect:** [[Taunted]] (EoT).
 
-**3 Malice**
-The legionary and their squad can shift 2 before this attack is made.
+**3 Malice:** The legionary and their squad can shift 2 before this attack is made.
 
-**Shield Bash**
+#### Shield Bash
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |

@@ -1,4 +1,4 @@
-#### KOBOLD VELES
+### KOBOLD VELES
 
 | KOBOLD VELES       | **Level 1 Harrier Minion** |
 | :----------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | -------------- |
 |             |                |              |                 |                |
 
-**Pilum (Signature)**
+#### Pilum (Signature)
 
 |                                         |                                         |
 | :-------------------------------------- | :-------------------------------------- |
@@ -21,9 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 1 damage
-- ★ 12–16: 2 damage
+- ★ 12-16: 2 damage
+- ✸ 17+: 3 damage
 
-Effect: All kobolds ignore opportunity attacks from the target until the start of the veles' next turn.
+**Effect:** All kobolds ignore opportunity attacks from the target until the start of the veles' next turn.
 
 **Shield? Shield!**
 

@@ -1,4 +1,4 @@
-#### RADENWIGHT RATCROBAT
+### RADENWIGHT RATCROBAT
 
 | RADENWIGHT RATCROBAT   |        **Level 1 Harrier** |
 | :--------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
-**En Garde! (Signature)**
+#### En Garde! (Signature)
 
 |                                 |                                  |
 | :------------------------------ | :------------------------------- |
@@ -21,21 +21,21 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 5 damage
+- ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
-Effect: The ratcrobat can shift up to 2 squares after attacking the first target, then can shift 1 square after attacking the second target.
+**Effect:** The ratcrobat can shift up to 2 squares after attacking the first target, then can shift 1 square after attacking the second target.
 
-**Over Here, Thanks**
+#### Over Here, Thanks
 
 |                   |                   |
 | :---------------- | :---------------- |
 | Keywords: Melee   | Type: Maneuver    |
 | Distance: Melee 1 | Target: One enemy |
 
-Effect: Slide 3; the ratcrobat can then shift into any of the squares the target left.
+**Effect:** Slide 3; the ratcrobat can then shift into any of the squares the target left.
 
-**Ready Rodent**
+#### Ready Rodent
 
 |                         |                        |
 | :---------------------- | :--------------------- |
@@ -44,7 +44,7 @@ Effect: Slide 3; the ratcrobat can then shift into any of the squares the target
 
 Trigger: An ally deals damage to the target.
 
-Effect: The ratcrobat makes a [[Free Strike|free strike]] against the target.
+**Effect:** The ratcrobat makes a [[Free Strike|free strike]] against the target.
 
 **Gymratstics**
 

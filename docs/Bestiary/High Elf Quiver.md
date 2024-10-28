@@ -1,4 +1,4 @@
-#### HIGH ELF QUIVER
+### HIGH ELF QUIVER
 
 | HIGH ELF QUIVER           | **Level 1 Artillery Minion** |
 | :------------------------ | ---------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------- | --------------- | -------------- |
 |             |                |               |                 |                |
 
-**Heavy Arrow (Signature)**
+#### Heavy Arrow (Signature)
 
 |                                  |                                         |
 | :------------------------------- | :-------------------------------------- |
@@ -21,7 +21,8 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 5 damage; target's speed reduced by 1 (EoT)
+- ★ 12-16: 5 damage; target's speed reduced by 1 (EoT)
+- ✸ 17+: 6 damage; target's speed reduced by 2 (EoT)
 
 **Otherworldly Grace**
 

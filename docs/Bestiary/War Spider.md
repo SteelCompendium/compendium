@@ -1,4 +1,4 @@
-#### WAR SPIDER
+### WAR SPIDER
 
 | WAR SPIDER           |         **Level 1 Mount** |
 | :------------------- | ------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | --------------- |
 |              |                |               |                 |                 |
 
-**Bite (Signature)**
+#### Bite (Signature)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -21,26 +21,26 @@
 **2d10 + 2**
 
 - ✦ ≤11: 4 poison damage; M1 [[Weakened|weakened]] (save ends)
-- ★ 12–16: 7 poison damage; M2 [[Weakened|weakened]] (save ends)
+- ★ 12-16: 7 poison damage; M2 [[Weakened|weakened]] (save ends)
 - ✸ 17+: 10 poison damage; M3 [[Weakened|weakened]] (save ends)
 
-**Leg Blade (2d10 + 2)**
+#### Leg Blade (2d10 + 2)
 
 |                                 |                                  |
 | :------------------------------ | :------------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Action                     |
 | Distance: Melee 1               | Target: Two creatures or objects |
 
-**Trample (5 Malice)**
+#### Trample (5 Malice)
 
 |                |              |
 | :------------- | :----------- |
 | Keywords: -    | Type: Action |
 | Distance: Self | Target: Self |
 
-Effect: The spider shifts up to their speed and makes a Leg Blade attack against each creature who comes within 1 of the spider during the move. The spider makes one power roll against all targets.
+**Effect:** The spider shifts up to their speed and makes a Leg Blade attack against each creature who comes within 1 of the spider during the move. The spider makes one power roll against all targets.
 
-**Web (2 Malice)**
+#### Web (2 Malice)
 
 |                            |                                   |
 | :------------------------- | :-------------------------------- |
@@ -50,7 +50,7 @@ Effect: The spider shifts up to their speed and makes a Leg Blade attack against
 **AGL RR**
 
 - ✦ ≤11: [[Restrained]] (AGL ends)
-- ★ 12–16: [[Restrained]] (EoT)
+- ★ 12-16: [[Restrained]] (EoT)
 - ✸ 17+: No effect
 
 **Ride Launcher**

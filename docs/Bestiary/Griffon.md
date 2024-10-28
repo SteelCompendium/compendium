@@ -1,4 +1,4 @@
-#### GRIFFON
+### GRIFFON
 
 | GRIFFON                     |         **Level 2 Mount** |
 | :-------------------------- | ------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | --------------- |
 |              |                |               |                 |                 |
 
-**Claw Swipes (Signature)**
+#### Claw Swipes (Signature)
 
 |                                             |                                |
 | :------------------------------------------ | :----------------------------- |
@@ -21,21 +21,21 @@
 **2d10 + 2**
 
 - ✦ ≤11: 5 damage; shift 1
-- ★ 12–16: 8 damage; shift 2
+- ★ 12-16: 8 damage; shift 2
 - ✸ 17+: 11 damage; shift 3
 
-Effect: If this ability is used while charging, the griffon grapples one of the targets.
+**Effect:** If this ability is used while charging, the griffon grapples one of the targets.
 
-**Crack the Earth**
+#### Crack the Earth
 
 |                                                                             |                     |
 | :-------------------------------------------------------------------------- | :------------------ |
 | Keywords: Area, Ranged                                                      | Type: Maneuver      |
 | Distance: 3 cube within 8 (while flying and grappling a creature or object) | Target: All enemies |
 
-Effect: The griffon flies up to half their speed towards the ground and then sends the creature or object they've grappled hurtling towards the affected area.
+**Effect:** The griffon flies up to half their speed towards the ground and then sends the creature or object they've grappled hurtling towards the affected area.
 
-**Wing Buffet (3 Malice)**
+#### Wing Buffet (3 Malice)
 
 |                               |                                   |
 | :---------------------------- | :-------------------------------- |
@@ -45,10 +45,10 @@ Effect: The griffon flies up to half their speed towards the ground and then sen
 **MGT RR**
 
 - ✦ ≤11: Vertical push 4
-- ★ 12–16: Push 3
+- ★ 12-16: Push 3
 - ✸ 17+: Push 2
 
-**Juke (1 Malice)**
+#### Juke (1 Malice)
 
 |                |                        |
 | :------------- | :--------------------- |
@@ -57,7 +57,7 @@ Effect: The griffon flies up to half their speed towards the ground and then sen
 
 Trigger: The griffon takes damage
 
-Effect: The griffon halves the damage, doesn't suffer any effect associated with it, and shifts 2 squares.
+**Effect:** The griffon halves the damage, doesn't suffer any effect associated with it, and shifts 2 squares.
 
 **Beast of Prey**
 

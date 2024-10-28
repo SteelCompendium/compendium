@@ -1,4 +1,4 @@
-#### ABYSSAL HYENA
+### ABYSSAL HYENA
 
 | ABYSSAL HYENA   |   **Level 2 Brute Minion** |
 | :-------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | --------------- |
 |              |                |               |                 |                 |
 
-**Snapjaw (Signature)**
+#### Snapjaw (Signature)
 
 |                                 |                                         |
 | :------------------------------ | :-------------------------------------- |
@@ -21,7 +21,8 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 4 damage; [[Grabbed|grabbed]]
+- ★ 12-16: 4 damage; [[Grabbed|grabbed]]
+- ✸ 17+: 5 damage; [[Grabbed|grabbed]]
 
 **Death Snap**
 

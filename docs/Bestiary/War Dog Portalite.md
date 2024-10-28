@@ -1,4 +1,4 @@
-#### WAR DOG PORTALITE
+### WAR DOG PORTALITE
 
 | WAR DOG PORTALITE                     |       **Level 1 Ambusher** |
 | :------------------------------------ | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | -------------- |
 |             |                |              |                 |                |
 
-**Corrupted Ash Daggers (Signature)**
+#### Corrupted Ash Daggers (Signature)
 
 |                                         |                                |
 | :-------------------------------------- | :----------------------------- |
@@ -21,28 +21,30 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage; slide 1
-- ★ 12–16: 5 damage; slide 2
+- ★ 12-16: 5 damage; slide 2
 - ✸ 17+: 7 damage; slide 3
 
-Effect: The portalite has **edge** on the attack if an ally is adjacent to the target.
+**Effect:** The portalite has **edge** on the attack if an ally is adjacent to the target.
 
-**Posthumous Promotion**
+**1 Malice:** The portalite [[Teleport|teleports]] the target 3 squares before sliding them.
+
+#### Posthumous Promotion
 
 |                         |                                           |
 | :---------------------- | :---------------------------------------- |
 | Keywords: Magic, Ranged | Type: Maneuver                            |
 | Distance: Ranged 10     | Target: One war dog with a loyalty collar |
 
-Effect: The target's loyalty collar detonates, killing them instantly.
+**Effect:** The target's loyalty collar detonates, killing them instantly.
 
-**Corrupted Ash [[Teleport]] (1 Malice)**
+#### Corrupted Ash Teleport (1 Malice)
 
 |                 |                |
 | :-------------- | :------------- |
 | Keywords: Magic | Type: Maneuver |
 | Distance: Self  | Target: Self   |
 
-Effect: The portalite [[Teleport|teleports]] up to 5 squares and has **edge** on attacks until the end of their turn.
+**Effect:** The portalite [[Teleport|teleports]] up to 5 squares and has **edge** on attacks until the end of their turn.
 
 **Loyalty Collar**
 

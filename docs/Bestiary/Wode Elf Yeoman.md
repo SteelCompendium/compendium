@@ -1,4 +1,4 @@
-#### WODE ELF YEOMAN
+### WODE ELF YEOMAN
 
 | WODE ELF YEOMAN           | **Level 1 Artillery Minion** |
 | :------------------------ | ---------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
-**Heavy Longbow (Signature)**
+#### Heavy Longbow (Signature)
 
 |                                  |                                         |
 | :------------------------------- | :-------------------------------------- |
@@ -21,7 +21,8 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage; push 1
-- ★ 12–16: 4 damage; push 2
+- ★ 12-16: 4 damage; push 2
+- ✸ 17+: 5 damage; push 3
 
 **Masking Glamor**
 

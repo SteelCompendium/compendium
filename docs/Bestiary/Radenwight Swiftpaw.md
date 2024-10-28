@@ -1,4 +1,4 @@
-#### RADENWIGHT SWIFTPAW
+### RADENWIGHT SWIFTPAW
 
 | RADENWIGHT SWIFTPAW    | **Level 1 Harrier Minion** |
 | :--------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------- | --------------- | --------------- |
 |             |                |               |                 |                 |
 
-**Rapier Flunge (Signature)**
+#### Rapier Flunge (Signature)
 
 |                                 |                                           |
 | :------------------------------ | :---------------------------------------- |
@@ -21,10 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage; slide 1; the swiftpaw can shift 1 square
-- ★ 12–16: 4 damage; slide 2; the swiftpaw can shift 2 squares
+- ★ 12-16: 4 damage; slide 2; the swiftpaw can shift 2 squares
 - ✸ 17+: 5 damage; slide 3; the swiftpaw can shift 3 squares
 
-**Ready Rodent**
+#### Ready Rodent
 
 |                         |                        |
 | :---------------------- | :--------------------- |
@@ -33,4 +33,4 @@
 
 Trigger: An ally deals damage to the target.
 
-Effect: The swiftpaw makes a [[Free Strike|free strike]] against the target.
+**Effect:** The swiftpaw makes a [[Free Strike|free strike]] against the target.

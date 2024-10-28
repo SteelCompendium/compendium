@@ -1,4 +1,4 @@
-#### SPECTER
+### SPECTER
 
 | SPECTER                     |          **Level 1 Hexer** |
 | :-------------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
-**Decaying Touch (Signature)**
+#### Decaying Touch (Signature)
 
 |                        |                      |
 | :--------------------- | :------------------- |
@@ -21,20 +21,19 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 corruption damage; P1 [[Weakened|weakened]] (save ends)
-- ★ 12–16: 4 corruption damage; P2 [[Weakened|weakened]] (save ends)
+- ★ 12-16: 4 corruption damage; P2 [[Weakened|weakened]] (save ends)
 - ✸ 17+: 5 corruption damage; P3 [[Weakened|weakened]] (save ends)
 
-**2 Malice**
-The potency of this ability increases by 1. A living creature killed by this ability becomes a specter who appears in the target's space under the Director's control.
+**2 Malice:** The potency of this ability increases by 1. A living creature killed by this ability becomes a specter who appears in the target's space under the Director's control.
 
-**Hidden Movement**
+#### Hidden Movement
 
 |                |                |
 | :------------- | :------------- |
 | Keywords: -    | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
-Effect: The specter turns invisible, moves up to their speed, and becomes visible again.
+**Effect:** The specter turns invisible, moves up to their speed, and becomes visible again.
 
 **Corruptive Phasing**
 

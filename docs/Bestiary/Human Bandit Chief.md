@@ -1,4 +1,4 @@
-#### HUMAN BANDIT CHIEF
+### HUMAN BANDIT CHIEF
 
 | [[Human\|HUMAN]] BANDIT CHIEF |         **Level 3 Leader** |
 | :---------------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
 |              |                |               |                  |                 |
 
-**Whip & Magic Longsword (Signature)**
+#### Whip & Magic Longsword (Signature)
 
 |                                        |                                |
 | :------------------------------------- | :----------------------------- |
@@ -21,25 +21,23 @@
 **2d10 + 3**
 
 - ✦ ≤11: 5 damage; pull 1
-- ★ 12–16: 9 damage; pull 2
+- ★ 12-16: 9 damage; pull 2
 - ✸ 17+: 12 damage; pull 3
 
-Effect: A target who is adjacent to the bandit chief after the attack is resolved takes double edge corruption damage.
+**Effect:** A target who is adjacent to the bandit chief after the attack is resolved takes double edge corruption damage.
 
-**2 Malice**
-The bandit chief attacks an additional target.
+**2 Malice:** The bandit chief attacks an additional target.
 
-**Kneel, Peasant! (2d10 + 3)**
+#### Kneel, Peasant! (2d10 + 3)
 
 |                                 |                             |
 | :------------------------------ | :-------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Maneuver              |
 | Distance: Melee 1               | Target: One enemy or object |
 
-**2 Malice**
-This ability targets each enemy adjacent to the bandit chief.
+**2 Malice:** This ability targets each enemy adjacent to the bandit chief.
 
-**Bloodstones**
+#### Bloodstones
 
 |                 |                        |
 | :-------------- | :--------------------- |
@@ -48,34 +46,34 @@ This ability targets each enemy adjacent to the bandit chief.
 
 Trigger: The bandit chief makes a power roll.
 
-Effect: The bandit chief takes 4 corruption damage and increases the result of the power roll by one tier.
+**Effect:** The bandit chief takes 4 corruption damage and increases the result of the power roll by one tier.
 
-**Shoot!**
+#### Shoot!
 
 |                    |                                 |
 | :----------------- | :------------------------------ |
 | Keywords: Area     | Type: Villain Action 1          |
 | Distance: 10 burst | Target: All allies in the burst |
 
-Effect: Each target makes a ranged [[Free Strike|free strike]].
+**Effect:** Each target makes a ranged [[Free Strike|free strike]].
 
-**Form Up!**
+#### Form Up!
 
 |                    |                                 |
 | :----------------- | :------------------------------ |
 | Keywords: Area     | Type: Villain Action 2          |
 | Distance: 10 burst | Target: All allies in the burst |
 
-Effect: Each target shifts up to their speed. Until the end of the encounter, the bandit chief and all allies have triple edge while adjacent to a target.
+**Effect:** Each target shifts up to their speed. Until the end of the encounter, the bandit chief and all allies have triple edge while adjacent to a target.
 
-**Lead From the Front**
+#### Lead From the Front
 
 |                |                        |
 | :------------- | :--------------------- |
 | Keywords: -    | Type: Villain Action 3 |
 | Distance: Self | Target: Self           |
 
-Effect: Shift 10 squares. During or after this movement, the bandit chief can attack up to four targets with Whip & Magic Longsword. Each ally adjacent to a target can make a [[Free Strike|free strike]] against them.
+**Effect:** Shift 10 squares. During or after this movement, the bandit chief can attack up to four targets with Whip & Magic Longsword. Each ally adjacent to a target can make a [[Free Strike|free strike]] against them.
 
 **End Effect**
 

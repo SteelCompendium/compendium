@@ -1,4 +1,4 @@
-#### GOBLIN SNIPER
+### GOBLIN SNIPER
 
 | GOBLIN [[Sniper\|SNIPER]] | **Level 1 Artillery Minion** |
 | :------------------------ | ---------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
-**Bow (Signature)**
+#### Bow (Signature)
 
 |                                  |                                           |
 | :------------------------------- | :---------------------------------------- |
@@ -21,10 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 4 damage
+- ★ 12-16: 4 damage
 - ✸ 17+: 5 damage
 
-Effect: If the [[Sniper|sniper]] doesn't use a maneuver or a move action this turn, the ability has edge.
+**Effect:** If the [[Sniper|sniper]] doesn't use a maneuver or a move action this turn, the ability has edge.
 
 **Crafty**
 

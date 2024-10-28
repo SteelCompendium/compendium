@@ -1,4 +1,4 @@
-#### HUMAN GUARD
+### HUMAN GUARD
 
 | [[Human\|HUMAN]] GUARD |   **Level 1 Brute Minion** |
 | :--------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | ------------- | ------------ | --------------- | -------------- |
 |              |               |              |                 |                |
 
-**Halberd (Signature)**
+#### Halberd (Signature)
 
 |                                 |                                           |
 | :------------------------------ | :---------------------------------------- |
@@ -21,10 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 5 damage
+- ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
-Effect: If the guard is flanked, they can make a [[Free Strike|free strike]] against an additional target adjacent to them.
+**Effect:** If the guard is flanked, they can make a [[Free Strike|free strike]] against an additional target adjacent to them.
 
 **Supernatural Insight**
 

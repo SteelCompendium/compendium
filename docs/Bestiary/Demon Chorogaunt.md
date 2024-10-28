@@ -1,4 +1,4 @@
-#### DEMON CHOROGAUNT
+### DEMON CHOROGAUNT
 
 | DEMON CHOROGAUNT      |     **Level 3 LEADER** |
 | :-------------------- | ---------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
 |              |                |               |                  |                 |
 
-**Agonizing Harmony (Signature)**
+#### Agonizing Harmony (Signature)
 
 |                        |                                 |
 | :--------------------- | :------------------------------ |
@@ -21,21 +21,21 @@
 **2d10 + 3**
 
 - ✦ ≤11: 3 psychic damage; I2 [[Slowed|slowed]] (save ends)
-- ★ 12–16: 5 psychic damage; I3 [[Slowed|slowed]] (save ends)
+- ★ 12-16: 5 psychic damage; I3 [[Slowed|slowed]] (save ends)
 - ✸ 17+: 7 psychic damage; I4 [[Slowed|slowed]] (save ends)
 
-Effect: An ally within 10 squares of the chorogaunt can shift up to their speed.
+**Effect:** An ally within 10 squares of the chorogaunt can shift up to their speed.
 
-**Chaotic Entrancing Harmony**
+#### Chaotic Entrancing Harmony
 
 |                    |                                 |
 | :----------------- | :------------------------------ |
 | Keywords: Area     | Type: Maneuver                  |
 | Distance: 10 burst | Target: Each enemy in the burst |
 
-Effect: Each target slides 3, ignoring their stability.
+**Effect:** Each target slides 3, ignoring their stability.
 
-**I Thrive on Pain (3 Malice)**
+#### I Thrive on Pain (3 Malice)
 
 |                 |                        |
 | :-------------- | :--------------------- |
@@ -44,34 +44,34 @@ Effect: Each target slides 3, ignoring their stability.
 
 Trigger: The chorogaunt is targeted by an attack.
 
-Effect: Any damage from the attack is halved, and the chorogaunt gains an edge until the end of their next turn.
+**Effect:** Any damage from the attack is halved, and the chorogaunt gains an edge until the end of their next turn.
 
-**Frightening Tones**
+#### Frightening Tones
 
 |                     |                        |
 | :------------------ | :--------------------- |
 | Keywords: Ranged    | Type: Villain Action 1 |
 | Distance: Ranged 10 | Target: Three enemies  |
 
-Effect: Each target chooses to either take 5 psychic damage or be [[Frightened|frightened]] of the chorogaunt (EoT).
+**Effect:** Each target chooses to either take 5 psychic damage or be [[Frightened|frightened]] of the chorogaunt (EoT).
 
-**Bully the Weak**
+#### Bully the Weak
 
 |                         |                        |
 | :---------------------- | :--------------------- |
 | Keywords: Magic, Ranged | Type: Villain Action 2 |
 | Distance: Ranged 10     | Target: One ally       |
 
-Effect: The chorogaunt kills the target, and each other ally gains an edge on attacks until the end of the round. The Director gains malice equal to the number of heroes.
+**Effect:** The chorogaunt kills the target, and each other ally gains an edge on attacks until the end of the round. The Director gains malice equal to the number of heroes.
 
-**Running Cacophony**
+#### Running Cacophony
 
 |                 |                        |
 | :-------------- | :--------------------- |
 | Keywords: Magic | Type: Villain Action 3 |
 | Distance: Self  | Target: Self           |
 
-Effect: The chorogaunt shifts up to their speed, makes an Agonizing Harmony attack, shifts up to their speed, and makes a second Agonizing Harmony attack.
+**Effect:** The chorogaunt shifts up to their speed, makes an Agonizing Harmony attack, shifts up to their speed, and makes a second Agonizing Harmony attack.
 
 **End Effect**
 

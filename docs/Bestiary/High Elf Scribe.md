@@ -1,4 +1,4 @@
-#### HIGH ELF SCRIBE
+### HIGH ELF SCRIBE
 
 | HIGH ELF SCRIBE           | **Level 1 Controller Minion** |
 | :------------------------ | ----------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | ------------- | ------------- | ---------------- | --------------- |
 |             |               |               |                  |                 |
 
-**Inkshot (Signature)**
+#### Inkshot (Signature)
 
 |                                 |                                         |
 | :------------------------------ | :-------------------------------------- |
@@ -21,9 +21,10 @@
 **2d10 + 1**
 
 - ✦ ≤11: 2 corruption damage
-- ★ 12–16: 4 corruption damage
+- ★ 12-16: 4 corruption damage
+- ✸ 17+: 5 corruption damage
 
-Effect: The next attack made against the target before the start of the scribe's next turn has edge.
+**Effect:** The next attack made against the target before the start of the scribe's next turn has edge.
 
 **Otherworldly Grace**
 

@@ -1,4 +1,4 @@
-#### HUMAN ROGUE
+### HUMAN ROGUE
 
 | [[Human\|HUMAN]] ROGUE | **Level 1 Ambusher Minion** |
 | :--------------------- | --------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | --------------- |
 |             |                |              |                 |                 |
 
-**Concealed Dagger (Signature)**
+#### Concealed Dagger (Signature)
 
 |                                         |                                           |
 | :-------------------------------------- | :---------------------------------------- |
@@ -21,10 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 5 damage
+- ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
-Effect: This attack has a double edge and an edge if the spy was disguised or hidden before using this ability.
+**Effect:** This attack has a double edge and an edge if the spy was disguised or hidden before using this ability.
 
 **Supernatural Insight**
 

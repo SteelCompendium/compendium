@@ -1,4 +1,4 @@
-#### KOBOLD PRINCEPS
+### KOBOLD PRINCEPS
 
 | KOBOLD PRINCEPS    | **Level 1 Support Minion** |
 | :----------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | -------------- |
 |             |                |              |                 |                |
 
-**Hasta (Signature)**
+#### Hasta (Signature)
 
 |                                 |                                         |
 | :------------------------------ | :-------------------------------------- |
@@ -21,9 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 1 damage
-- ★ 12–16: 2 damage
+- ★ 12-16: 2 damage
+- ✸ 17+: 3 damage
 
-Effect: 1 ally within 3 can shift 2.
+**Effect:** 1 ally within 3 can shift 2.
 
 **Shield? Shield!**
 

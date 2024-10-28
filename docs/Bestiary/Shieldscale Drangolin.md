@@ -1,4 +1,4 @@
-#### SHIELDSCALE DRANGOLIN
+### SHIELDSCALE DRANGOLIN
 
 | SHIELDSCALE DRANGOLIN             |         **Level 1 Brute** |
 | :-------------------------------- | ------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | --------------- |
 |              |                |               |                 |                 |
 
-**Fiery Claws (Signature)**
+#### Fiery Claws (Signature)
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
@@ -21,18 +21,19 @@
 **2d10 + 2**
 
 - ✦ ≤11: 4 fire damage
-- ★ 12–16: 7 fire damage
+- ★ 12-16: 7 fire damage
+- ✸ 17+: 10 fire damage
 
-**Drangolin Plume (5 Malice)**
+#### Drangolin Plume (5 Malice)
 
 |                |              |
 | :------------- | :----------- |
 | Keywords: -    | Type: Action |
 | Distance: Self | Target: Self |
 
-Effect: The drangolin shifts their speed and makes a Fiery Claws attack against each creature who comes within 1 during the move. The drangolin makes one power roll against all targets.
+**Effect:** The drangolin shifts their speed and makes a Fiery Claws attack against each creature who comes within 1 during the move. The drangolin makes one power roll against all targets.
 
-**Erupt (3 Malice)**
+#### Erupt (3 Malice)
 
 |                                     |                       |
 | :---------------------------------- | :-------------------- |
@@ -42,9 +43,10 @@ Effect: The drangolin shifts their speed and makes a Fiery Claws attack against 
 **2d10 + 2**
 
 - ✦ ≤11: 4 damage; push 1; 1 [[Prone|prone]]
-- ★ 12–16: 7 damage; push 3; 2 [[Prone|prone]]
+- ★ 12-16: 7 damage; push 3; 2 [[Prone|prone]]
+- ✸ 17+: 10 damage; push 5; 3 [[Prone|prone]]
 
-Effect: This attack has an edge against targets directly above the drangolin.
+**Effect:** This attack has an edge against targets directly above the drangolin.
 
 **Ash Shot**
 

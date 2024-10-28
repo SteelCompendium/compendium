@@ -1,4 +1,4 @@
-#### DWARF HUNTER
+### DWARF HUNTER
 
 | [[Dwarf\|DWARF]] HUNTER | **Level 1 Support Minion** |
 | :---------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | -------------- |
 |              |                |              |                 |                |
 
-**Snaring Javelin (Signature)**
+#### Snaring Javelin (Signature)
 
 |                                  |                                         |
 | :------------------------------- | :-------------------------------------- |
@@ -21,6 +21,7 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage; pull 1
-- ★ 12–16: 4 damage; pull 2
+- ★ 12-16: 4 damage; pull 2
+- ✸ 17+: 5 damage; pull 4
 
-Effect: A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pulled by this attack.
+**Effect:** A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pulled by this attack.

@@ -1,4 +1,4 @@
-#### HUMAN SCOUNDREL
+### HUMAN SCOUNDREL
 
 | [[Human\|HUMAN]] SCOUNDREL |       **Level 1 Ambusher** |
 | :------------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | --------------- |
 |             |                |              |                 |                 |
 
-**Rapier & Dagger (Signature)**
+#### Rapier & Dagger (Signature)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -21,12 +21,12 @@
 **2d10 + 2**
 
 - ✦ ≤11: 4 damage
-- ★ 12–16: 7 damage
+- ★ 12-16: 7 damage
 - ✸ 17+: 10 damage
 
-Effect: This ability has double edge if the scoundrel has an edge on the power roll.
+**Effect:** This ability has double edge if the scoundrel has an edge on the power roll.
 
-**Dagger Storm (5 Malice)**
+#### Dagger Storm (5 Malice)
 
 |           |              |
 | :-------- | :----------- |

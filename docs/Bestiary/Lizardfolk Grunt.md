@@ -1,4 +1,4 @@
-#### LIZARDFOLK GRUNT
+### LIZARDFOLK GRUNT
 
 | LIZARDFOLK GRUNT       | **Level 1 Harrier Minion** |
 | :--------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | ------------- | -------------- |
 |              |                |              |               |                |
 
-**Snap and Toss (Signature)**
+#### Snap and Toss (Signature)
 
 |                                 |                                         |
 | :------------------------------ | :-------------------------------------- |
@@ -21,7 +21,8 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 4 damage; slide 2
+- ★ 12-16: 4 damage; slide 2
+- ✸ 17+: 5 damage; slide 4
 
 **Reptilian Escape**
 

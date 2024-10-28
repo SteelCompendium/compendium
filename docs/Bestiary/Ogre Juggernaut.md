@@ -1,4 +1,4 @@
-#### OGRE JUGGERNAUT
+### OGRE JUGGERNAUT
 
 | OGRE JUGGERNAUT |       **Level 2 Harrier** |
 | :-------------- | ------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | ------------- | --------------- |
 |              |                |               |               |                 |
 
-**Pitchfork Catapult (Signature)**
+#### Pitchfork Catapult (Signature)
 
 |                                             |                                |
 | :------------------------------------------ | :----------------------------- |
@@ -21,21 +21,21 @@
 **2d10 + 2**
 
 - ✦ ≤11: 5 damage; A1 vertical slide 2
-- ★ 12–16: 8 damage; A2 vertical push 3
+- ★ 12-16: 8 damage; A2 vertical push 3
+- ✸ 17+: 11 damage; A3 vertical slide 5
 
-**1 Malice**
-Each target is M2 [[Bleeding|bleeding]] (save ends).
+**1 Malice:** Each target is M2 [[Bleeding|bleeding]] (save ends).
 
-**Earth Breaking [[Jump]] (2d10 + 2)**
+#### Earth Breaking Jump (2d10 + 2)
 
 |                               |                                    |
 | :---------------------------- | :--------------------------------- |
 | Keywords: Area, Melee, Weapon | Type: Action                       |
 | Distance: 3 burst             | Target: All creatures in the burst |
 
-Effect: The juggernaut leaps up to 6 squares before making the attack.
+**Effect:** The juggernaut leaps up to 6 squares before making the attack.
 
-**Horrible Bellow (2 Malice)**
+#### Horrible Bellow (2 Malice)
 
 |                            |                                  |
 | :------------------------- | :------------------------------- |
@@ -45,11 +45,12 @@ Effect: The juggernaut leaps up to 6 squares before making the attack.
 **INU RR**
 
 - ✦ ≤11: [[Frightened]] (save ends)
-- ★ 12–16: [[Frightened]] (EoT)
+- ★ 12-16: [[Frightened]] (EoT)
+- ✸ 17+: No effect
 
-Effect: Ogres have **advantage** on attacks against creatures [[Frightened|frightened]] by this ability.
+**Effect:** Ogres have **advantage** on attacks against creatures [[Frightened|frightened]] by this ability.
 
-**Hrraaaaaagh!**
+#### Hrraaaaaagh!
 
 |                   |                              |
 | :---------------- | :--------------------------- |
@@ -58,7 +59,7 @@ Effect: Ogres have **advantage** on attacks against creatures [[Frightened|frigh
 
 Trigger: The juggernaut takes damage.
 
-Effect: The juggernaut moves up to their speed and makes a [[Free Strike|free strike]].
+**Effect:** The juggernaut moves up to their speed and makes a [[Free Strike|free strike]].
 
 **Destructive Path**
 

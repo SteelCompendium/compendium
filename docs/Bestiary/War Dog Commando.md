@@ -1,4 +1,4 @@
-#### WAR DOG COMMANDO
+### WAR DOG COMMANDO
 
 | WAR DOG COMMANDO    | **Level 1 Ambusher Minion** |
 | :------------------ | --------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | -------------- |
 |             |                |              |                 |                |
 
-**Daggers (Signature)**
+#### Daggers (Signature)
 
 |                                         |                                 |
 | :-------------------------------------- | :------------------------------ |
@@ -21,10 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 4 damage
+- ★ 12-16: 4 damage
 - ✸ 17+: 5 damage
 
-Effect: The commando can use the [[Hide]] maneuver, even if observed.
+**Effect:** The commando can use the [[Hide]] maneuver, even if observed.
 
 **Loyalty Collar**
 

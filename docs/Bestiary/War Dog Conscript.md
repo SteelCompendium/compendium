@@ -1,4 +1,4 @@
-#### WAR DOG CONSCRIPT
+### WAR DOG CONSCRIPT
 
 | WAR DOG CONSCRIPT   | **Level 1 Harrier Minion** |
 | :------------------ | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | ------------- | ------------ | --------------- | -------------- |
 |              |               |              |                 |                |
 
-**Blade (Signature)**
+#### Blade (Signature)
 
 |                                                     |                                 |
 | :-------------------------------------------------- | :------------------------------ |
@@ -21,10 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 3 damage
+- ★ 12-16: 3 damage
 - ✸ 17+: 4 damage
 
-Effect: If this ability is used as part of the [[Charge]] action, the conscript has **edge** on the attack.
+**Effect:** If this ability is used as part of the [[Charge]] action, the conscript has **edge** on the attack.
 
 **Loyalty Collar**
 

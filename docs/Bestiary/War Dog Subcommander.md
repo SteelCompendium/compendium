@@ -1,4 +1,4 @@
-#### WAR DOG SUBCOMMANDER
+### WAR DOG SUBCOMMANDER
 
 | WAR DOG SUBCOMMANDER |        **Level 2 Support** |
 | :------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | ------------- | ------------ | --------------- | --------------- |
 |              |               |              |                 |                 |
 
-**Command Saber (Signature)**
+#### Command Saber (Signature)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -21,19 +21,19 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage
-- ★ 12–16: 5 damage
+- ★ 12-16: 5 damage
 - ✸ 17+: 7 damage
 
-Effect: An ally within 5 squares of the subcommander can make a [[Free Strike|free strike]] against the target.
+**Effect:** An ally within 5 squares of the subcommander can make a [[Free Strike|free strike]] against the target.
 
-**Posthumous Promotion**
+#### Posthumous Promotion
 
 |                         |                                           |
 | :---------------------- | :---------------------------------------- |
 | Keywords: Magic, Ranged | Type: Maneuver                            |
 | Distance: Ranged 10     | Target: One war dog with a loyalty collar |
 
-Effect: The target's loyalty collar detonates, killing them instantly.
+**Effect:** The target's loyalty collar detonates, killing them instantly.
 
 **The Iron Saint Does Not Recognize Retreat**
 

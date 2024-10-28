@@ -1,4 +1,4 @@
-#### WAR DOG SHARPSHOOTER
+### WAR DOG SHARPSHOOTER
 
 | WAR DOG SHARPSHOOTER | **Level 1 Artillery Minion** |
 | :------------------- | ---------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | -------------- |
 |             |                |              |                 |                |
 
-**Bolt Launcher (Signature)**
+#### Bolt Launcher (Signature)
 
 |                                  |                                           |
 | :------------------------------- | :---------------------------------------- |
@@ -21,10 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 3 damage
+- ★ 12-16: 3 damage
 - ✸ 17+: 4 damage
 
-Effect: This ability ignores cover and concealment.
+**Effect:** This ability ignores cover and concealment.
 
 **Loyalty Collar**
 

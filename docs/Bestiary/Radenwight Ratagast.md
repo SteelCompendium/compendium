@@ -1,4 +1,4 @@
-#### RADENWIGHT RATAGAST
+### RADENWIGHT RATAGAST
 
 | RADENWIGHT RATAGAST    | **Level 1 Defender Minion** |
 | :--------------------- | --------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
-**Stinky Glissando (Signature)**
+#### Stinky Glissando (Signature)
 
 |                                |                                           |
 | :----------------------------- | :---------------------------------------- |
@@ -21,10 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 poison damage
-- ★ 12–16: 4 poison damage; [[Taunted|taunted]] (EoT)
+- ★ 12-16: 4 poison damage; [[Taunted|taunted]] (EoT)
 - ✸ 17+: 5 poison damage; [[Taunted|taunted]] (EoT)
 
-**Ready Rodent**
+#### Ready Rodent
 
 |                         |                        |
 | :---------------------- | :--------------------- |
@@ -33,4 +33,4 @@
 
 Trigger: An ally deals damage to the target.
 
-Effect: The ratagast makes a [[Free Strike|free strike]] against the target.
+**Effect:** The ratagast makes a [[Free Strike|free strike]] against the target.

@@ -1,4 +1,4 @@
-#### BASILISK
+### BASILISK
 
 | BASILISK            |         **Level 1 BRUTE** |
 | :------------------ | ------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | ------------- | ------------- | ---------------- | --------------- |
 |              |               |               |                  |                 |
 
-**Noxious Bite (Signature)**
+#### Noxious Bite (Signature)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -21,21 +21,21 @@
 **2d10 + 2**
 
 - ✦ ≤11: 5 poison damage
-- ★ 12–16: 8 poison damage
+- ★ 12-16: 8 poison damage
 - ✸ 17+: 11 poison damage
 
-Effect: This attack has an edge against targets that the basilisk has previously dealt poison damage to.
+**Effect:** This attack has an edge against targets that the basilisk has previously dealt poison damage to.
 
-**Petrifying Eye Beams (MGT RR)**
+#### Petrifying Eye Beams (MGT RR)
 
 |                                      |                 |
 | :----------------------------------- | :-------------- |
 | Keywords: Magic, Ranged, Resistance  | Type: Maneuver  |
 | Distance: Ranged 5 × 2 line within 1 | Target: Special |
 
-Effect: The basilisk targets the first unobstructed creature in each column of the area. Each target magically begins to turn to stone. An already [[Slowed|slowed]] target has a bane on resisting the roll. A creature [[Restrained|restrained]] by this ability or a creature adjacent to them can use an action to cut the encroaching stone from their body, taking 8 damage which can't be reduced in any way and ending the effect.
+**Effect:** The basilisk targets the first unobstructed creature in each column of the area. Each target magically begins to turn to stone. An already [[Slowed|slowed]] target has a bane on resisting the roll. A creature [[Restrained|restrained]] by this ability or a creature adjacent to them can use an action to cut the encroaching stone from their body, taking 8 damage which can't be reduced in any way and ending the effect.
 
-**Poison Fumes (5 Malice)**
+#### Poison Fumes (5 Malice)
 
 |                           |                                   |
 | :------------------------ | :-------------------------------- |
@@ -45,10 +45,10 @@ Effect: The basilisk targets the first unobstructed creature in each column of t
 **2d10 + 2**
 
 - ✦ ≤11: 4 poison damage; M1 [[Weakened|weakened]] (save ends)
-- ★ 12–16: 6 poison damage; M2 [[Weakened|weakened]] and [[Slowed|slowed]] (save ends)
+- ★ 12-16: 6 poison damage; M2 [[Weakened|weakened]] and [[Slowed|slowed]] (save ends)
 - ✸ 17+: 9 poison damage; M3 [[Weakened|weakened]] and [[Slowed|slowed]] (save ends)
 
-**Lash Out**
+#### Lash Out
 
 |                   |                                  |
 | :---------------- | :------------------------------- |

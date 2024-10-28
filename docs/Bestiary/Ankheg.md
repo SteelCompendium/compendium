@@ -1,4 +1,4 @@
-#### ANKHEG
+### ANKHEG
 
 | ANKHEG                            |          **Level 1 SOLO** |
 | :-------------------------------- | ------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
 |              |                |               |                  |                 |
 
-**Bite (Signature)**
+#### Bite (Signature)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -21,19 +21,21 @@
 **2d10 + 3**
 
 - ✦ ≤11: 5 damage
-- ★ 12–16: 8 damage; [[Grabbed|grabbed]]
+- ★ 12-16: 8 damage; [[Grabbed|grabbed]]
 - ✸ 17+: 11 damage; [[Grabbed|grabbed]]
 
-Effect: A size 1 target [[Grabbed|grabbed]] this way takes 8 acid damage at the start of each of their turns.
+**Effect:** A size 1 target [[Grabbed|grabbed]] this way takes 8 acid damage at the start of each of their turns.
 
-**Claws (2d10 + 3)**
+#### Claws (2d10 + 3)
 
 |                                 |                                  |
 | :------------------------------ | :------------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Action                     |
 | Distance: Melee 2               | Target: Two creatures or objects |
 
-**Earth Eruption (3 Malice)**
+**2 Malice:** The ankheg can vertical slide one or both targets up to 5 squares.
+
+#### Earth Eruption (3 Malice)
 
 |                   |                                 |
 | :---------------- | :------------------------------ |
@@ -43,21 +45,21 @@ Effect: A size 1 target [[Grabbed|grabbed]] this way takes 8 acid damage at the 
 **2d10 + 2**
 
 - ✦ ≤11: 4 damage
-- ★ 12–16: 6 damage
+- ★ 12-16: 6 damage
 - ✸ 17+: 7 damage; push 2
 
-Effect: The ankheg [[Burrow|burrows]] up to their speed, then creates the burst when they breach the surface.
+**Effect:** The ankheg [[Burrow|burrows]] up to their speed, then creates the burst when they breach the surface.
 
-**Dust Cloud**
+#### Dust Cloud
 
 |                   |                 |
 | :---------------- | :-------------- |
 | Keywords: Area    | Type: Maneuver  |
 | Distance: 1 burst | Target: Special |
 
-Effect: The ground around the ankheg becomes [[Difficult Terrain|difficult terrain]]. While the ankheg remains in their current space, they have concealment until the start of their next turn.
+**Effect:** The ground around the ankheg becomes [[Difficult Terrain|difficult terrain]]. While the ankheg remains in their current space, they have concealment until the start of their next turn.
 
-**Skitter**
+#### Skitter
 
 |                |                        |
 | :------------- | :--------------------- |
@@ -66,27 +68,27 @@ Effect: The ground around the ankheg becomes [[Difficult Terrain|difficult terra
 
 Trigger: A creature damages the ankheg
 
-Effect: The ankheg shifts up to 3 squares.
+**Effect:** The ankheg shifts up to 3 squares.
 
-**Acid Breath (2d10 + 3)**
+#### Acid Breath (2d10 + 3)
 
 |                                |                                   |
 | :----------------------------- | :-------------------------------- |
 | Keywords: Area, Weapon         | Type: Villain Action 1            |
 | Distance: 10 x 1 line within 1 | Target: Each creature in the line |
 
-Effect: The ground within the area is covered in a puddle of acid that lasts until the end of the encounter. A creature who enters the area for the first time in a round or starts their turn there takes 2 acid damage.
+**Effect:** The ground within the area is covered in a puddle of acid that lasts until the end of the encounter. A creature who enters the area for the first time in a round or starts their turn there takes 2 acid damage.
 
-**Sinkhole**
+#### Sinkhole
 
 |                |                        |
 | :------------- | :--------------------- |
 | Keywords: -    | Type: Villain Action 2 |
 | Distance: Self | Target: Self           |
 
-Effect: The ankheg shifts up to their speed by burrowing. If the ankheg ends this move underground and within 2 squares of a creature on the surface, the ankheg makes a Bite attack against the creature.
+**Effect:** The ankheg shifts up to their speed by burrowing. If the ankheg ends this move underground and within 2 squares of a creature on the surface, the ankheg makes a Bite attack against the creature.
 
-**Acid and Claws (2d10 + 3)**
+#### Acid and Claws (2d10 + 3)
 
 |                        |                                    |
 | :--------------------- | :--------------------------------- |

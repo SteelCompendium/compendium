@@ -1,4 +1,4 @@
-#### HUMAN KNAVE
+### HUMAN KNAVE
 
 | [[Human\|HUMAN]] KNAVE |       **Level 2 Defender** |
 | :--------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | ------------- | ------------- | --------------- | -------------- |
 |              |               |               |                 |                |
 
-**Morningstar & Javelin (Signature)**
+#### Morningstar & Javelin (Signature)
 
 |                                         |                                |
 | :-------------------------------------- | :----------------------------- |
@@ -21,10 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 4 damage; M1 the target has a bane on their next attack
-- ★ 12–16: 7 damage; M2 the target has a bane on their next attack
+- ★ 12-16: 7 damage; M2 the target has a bane on their next attack
 - ✸ 17+: 10 damage; M3 the target has a double bane on their next attack
 
-Effect: [[Taunted]] (EoT).
+**Effect:** [[Taunted]] (EoT).
 
 **I'm Your Enemy**
 

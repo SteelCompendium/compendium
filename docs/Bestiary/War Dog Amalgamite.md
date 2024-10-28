@@ -1,4 +1,4 @@
-#### WAR DOG AMALGAMITE
+### WAR DOG AMALGAMITE
 
 | WAR DOG AMALGAMITE  |         **Level 2 Brute** |
 | :------------------ | ------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | ------------- | ------------ | --------------- | -------------- |
 |              |               |              |                 |                |
 
-**Several Arms (Signature)**
+#### Several Arms (Signature)
 
 |                                 |                                  |
 | :------------------------------ | :------------------------------- |
@@ -21,20 +21,21 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage; A1 [[Grabbed|grabbed]]
-- ★ 12–16: 4 damage; A2 [[Grabbed|grabbed]]
+- ★ 12-16: 4 damage; A2 [[Grabbed|grabbed]]
 - ✸ 17+: 5 damage; A3 [[Grabbed|grabbed]]
 
-**Special**
-The amalgamite can [[Grab|grab]] up to four creatures.
+**Special:** The amalgamite can [[Grab|grab]] up to four creatures.
 
-**Posthumous Promotion**
+**5 Malice:** The amalgamite deals an additional 4 damage to each creature they have [[Grabbed|grabbed]] and regains Stamina equal to the damage dealt.
+
+#### Posthumous Promotion
 
 |                         |                                           |
 | :---------------------- | :---------------------------------------- |
 | Keywords: Magic, Ranged | Type: Maneuver                            |
 | Distance: Ranged 10     | Target: One war dog with a loyalty collar |
 
-Effect: The target's loyalty collar detonates, killing them instantly.
+**Effect:** The target's loyalty collar detonates, killing them instantly.
 
 **Loyalty Collar**
 

@@ -1,4 +1,4 @@
-#### DECREPIT SKELETON
+### DECREPIT SKELETON
 
 | DECREPIT [[Skeleton\|SKELETON]] | **Level 1 Artillery Minion** |
 | :------------------------------ | ---------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------- | --------------- | --------------- |
 |             |                |               |                 |                 |
 
-**Bone Bow (Signature)**
+#### Bone Bow (Signature)
 
 |                                  |                                           |
 | :------------------------------- | :---------------------------------------- |
@@ -21,10 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 3 damage
+- ★ 12-16: 3 damage
 - ✸ 17+: 4 damage
 
-Effect: The decrepit [[Skeleton|skeleton]] chooses one other target within distance to take 1 damage.
+**Effect:** The decrepit [[Skeleton|skeleton]] chooses one other target within distance to take 1 damage.
 
 **Bonetrops**
 

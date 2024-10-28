@@ -1,4 +1,4 @@
-#### DWARF SHIELDWALL
+### DWARF SHIELDWALL
 
 | [[Dwarf\|DWARF]] SHIELDWALL |       **Level 3 Defender** |
 | :-------------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | ------------- | ------------ | --------------- | --------------- |
 |              |               |              |                 |                 |
 
-**Wide Axe (Signature)**
+#### Wide Axe (Signature)
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
@@ -21,14 +21,14 @@
 **2d10 + 1**
 
 - ✦ ≤11: 5 damage; slide 1
-- ★ 12–16: 8 damage; slide 1
+- ★ 12-16: 8 damage; slide 1
+- ✸ 17+: 11 damage; slide 1
 
-Effect: The shieldwall can shift 1 to remain adjacent to the target. A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by this attack.
+**Effect:** The shieldwall can shift 1 to remain adjacent to the target. A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by this attack.
 
-**3 Malice**
-The shieldwall targets an additional creature or object.
+**3 Malice:** The shieldwall targets an additional creature or object.
 
-**Intercepting Shield (1 Malice)**
+#### Intercepting Shield (1 Malice)
 
 |                |                        |
 | :------------- | :--------------------- |
@@ -37,7 +37,7 @@ The shieldwall targets an additional creature or object.
 
 Trigger: A creature attacks an adjacent ally.
 
-Effect: The shieldwall becomes the attack's target and has +3 defense against it.
+**Effect:** The shieldwall becomes the attack's target and has +3 defense against it.
 
 **Call to the Wall**
 

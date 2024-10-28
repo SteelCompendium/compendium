@@ -1,4 +1,4 @@
-#### WODE ELF TREE CHIRURGEON
+### WODE ELF TREE CHIRURGEON
 
 | WODE ELF TREE CHIRURGEON  |    **Level 2 Harrier** |
 | :------------------------ | ---------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | -------------- |
 |              |                |              |                 |                |
 
-**Wild Axe (Signature)**
+#### Wild Axe (Signature)
 
 |                                                     |                              |
 | :-------------------------------------------------- | :--------------------------- |
@@ -21,21 +21,21 @@
 **2d10 + 2**
 
 - ✦ ≤11: 4 damage; push 1
-- ★ 12–16: 7 damage; push 3
+- ★ 12-16: 7 damage; push 3
+- ✸ 17+: 10 damage; push 5
 
-Effect: The tree chirurgeon can make a ranged [[Free Strike|free strike]] before attacking.
+**Effect:** The tree chirurgeon can make a ranged [[Free Strike|free strike]] before attacking.
 
-**5 Malice**
-The tree chirurgeon uses this ability again.
+**5 Malice:** The tree chirurgeon uses this ability again.
 
-**The Wode Protects Us (3 Malice)**
+#### The Wode Protects Us (3 Malice)
 
 |                             |                           |
 | :-------------------------- | :------------------------ |
 | Keywords: Magic             | Type: Maneuver            |
 | Distance: Self and Ranged 5 | Target: Self and 3 allies |
 
-Effect: Each target [[Teleport|teleports]] to a square within 10 that has cover or concealment from all enemies.
+**Effect:** Each target [[Teleport|teleports]] to a square within 10 that has cover or concealment from all enemies.
 
 **Masking Glamor**
 

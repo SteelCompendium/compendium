@@ -1,4 +1,4 @@
-#### DEMON TORLAS
+### DEMON TORLAS
 
 | DEMON TORLAS         | **Level 1 CONTROLLER** |
 | :------------------- | ---------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | ------------- | --------------- |
 |             |                |              |               |                 |
 
-**Cronenstorm (Signature)**
+#### Cronenstorm (Signature)
 
 |                               |                                   |
 | :---------------------------- | :-------------------------------- |
@@ -21,19 +21,19 @@
 **2d10 + 2**
 
 - ✦ ≤11: Slide 1
-- ★ 12–16: Slide 2
+- ★ 12-16: Slide 2
 - ✸ 17+: Slide 3
 
-Effect: The area turns into a morass of spongy flesh before the targets are force moved. Until the start of the torlas's next turn, the area is [[Difficult Terrain|difficult terrain]], and each creature who moves within the area takes 1 damage for each square moved.
+**Effect:** The area turns into a morass of spongy flesh before the targets are force moved. Until the start of the torlas's next turn, the area is [[Difficult Terrain|difficult terrain]], and each creature who moves within the area takes 1 damage for each square moved.
 
-**Grasping Tendons**
+#### Grasping Tendons
 
 |                         |                         |
 | :---------------------- | :---------------------- |
 | Keywords: Magic, Ranged | Type: Maneuver          |
 | Distance: Ranged 10     | Target: Three creatures |
 
-Effect: The torlas pulls each target 3 squares.
+**Effect:** The torlas pulls each target 3 squares.
 
 **Lethe**
 

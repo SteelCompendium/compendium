@@ -1,4 +1,4 @@
-#### GNOLL FLINGFLAIL
+### GNOLL FLINGFLAIL
 
 | GNOLL FLINGFLAIL | **Level 2 Artillery Minion** |
 | :--------------- | ---------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | ------------- | ------------- | --------------- | --------------- |
 |              |               |               |                 |                 |
 
-**Chain Shotput (Signature)**
+#### Chain Shotput (Signature)
 
 |                                  |                                         |
 | :------------------------------- | :-------------------------------------- |
@@ -21,7 +21,8 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 4 damage; push 1
+- ★ 12-16: 4 damage; push 1
+- ✸ 17+: 5 damage; push 3
 
 **Death Frenzy**
 

@@ -1,4 +1,4 @@
-#### DEMON BENDRAK
+### DEMON BENDRAK
 
 | DEMON BENDRAK         |      **Level 2 HEXER** |
 | :-------------------- | ---------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | ------------- | --------------- |
 |             |                |              |               |                 |
 
-**Warp Perceptions (Signature)**
+#### Warp Perceptions (Signature)
 
 |                         |                      |
 | :---------------------- | :------------------- |
@@ -21,19 +21,19 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 psychic damage; P1 [[Weakened|weakened]] (save ends)
-- ★ 12–16: 5 psychic damage; P2 [[Weakened|weakened]] (save ends)
+- ★ 12-16: 5 psychic damage; P2 [[Weakened|weakened]] (save ends)
 - ✸ 17+: 7 psychic damage; P3 [[Weakened|weakened]] (save ends)
 
-Effect: If the target makes an attack while [[Weakened|weakened]] this way, the bendrak can choose a second target for the attack within the distance of the attack, then evenly divides any damage from the attack between the two targets.
+**Effect:** If the target makes an attack while [[Weakened|weakened]] this way, the bendrak can choose a second target for the attack within the distance of the attack, then evenly divides any damage from the attack between the two targets.
 
-**Vanish (1 Malice)**
+#### Vanish (1 Malice)
 
 |                         |                          |
 | :---------------------- | :----------------------- |
 | Keywords: Magic, Ranged | Type: Maneuver           |
 | Distance: Ranged 10     | Target: Self or one ally |
 
-Effect: The target immediately becomes hidden, regardless of whether they have cover or concealment.
+**Effect:** The target immediately becomes hidden, regardless of whether they have cover or concealment.
 
 **Lethe**
 

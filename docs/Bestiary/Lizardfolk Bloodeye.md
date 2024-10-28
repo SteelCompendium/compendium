@@ -1,4 +1,4 @@
-#### LIZARDFOLK BLOODEYE
+### LIZARDFOLK BLOODEYE
 
 | LIZARDFOLK BLOODEYE    |          **Level 1 Hexer** |
 | :--------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | ---------------- | -------------- |
 |              |                |              |                  |                |
 
-**Bola Knock (Signature)**
+#### Bola Knock (Signature)
 
 |                                  |                              |
 | :------------------------------- | :--------------------------- |
@@ -21,9 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage
-- ★ 12–16: 5 damage; A1 [[Restrained|restrained]] (save ends)
+- ★ 12-16: 5 damage; A1 [[Restrained|restrained]] (save ends)
+- ✸ 17+: 7 damage; A2 [[Restrained|restrained]] (save ends)
 
-**Bloodshot (2 Malice)**
+#### Bloodshot (2 Malice)
 
 |                          |                    |
 | :----------------------- | :----------------- |
@@ -33,7 +34,8 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 acid damage; M1 target can't establish line of effect beyond 3 squares (save ends)
-- ★ 12–16: 5 acid damage; M2 target can't establish line of effect beyond 2 squares (save ends)
+- ★ 12-16: 5 acid damage; M2 target can't establish line of effect beyond 2 squares (save ends)
+- ✸ 17+: 7 acid damage; M3 target can't establish line of effect beyond 1 square (save ends)
 
 **Reptilian Escape**
 

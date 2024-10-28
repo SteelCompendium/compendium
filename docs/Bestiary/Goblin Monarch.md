@@ -1,4 +1,4 @@
-#### GOBLIN MONARCH
+### GOBLIN MONARCH
 
 | GOBLIN MONARCH       |         **Level 1 Leader** |
 | :------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | --------------- |
 |              |                |               |                 |                 |
 
-**Handaxe (Signature)**
+#### Handaxe (Signature)
 
 |                                         |                                  |
 | :-------------------------------------- | :------------------------------- |
@@ -21,21 +21,21 @@
 **2d10 + 3**
 
 - ✦ ≤11: 3 damage
-- ★ 12–16: 5 damage
+- ★ 12-16: 5 damage
 - ✸ 17+: 7 damage
 
-Effect: An ally within 10 of the monarch can make a [[Free Strike|free strike]].
+**Effect:** An ally within 10 of the monarch can make a [[Free Strike|free strike]].
 
-**Get in Here! (1 Malice)**
+#### Get in Here! (1 Malice)
 
 |                     |                 |
 | :------------------ | :-------------- |
 | Keywords: -         | Type: Maneuver  |
 | Distance: Ranged 20 | Target: Special |
 
-Effect: Two [[Goblin Runner|goblin runners]] appear in unoccupied spaces.
+**Effect:** Two [[Goblin Runner|goblin runners]] appear in unoccupied spaces.
 
-**Meat Shield**
+#### Meat Shield
 
 |                   |                        |
 | :---------------- | :--------------------- |
@@ -44,34 +44,34 @@ Effect: Two [[Goblin Runner|goblin runners]] appear in unoccupied spaces.
 
 Trigger: A creature targets the monarch with an attack.
 
-Effect: The ally becomes the target of the triggering attack instead.
+**Effect:** The ally becomes the target of the triggering attack instead.
 
-**What Are You Waiting For?**
+#### What Are You Waiting For?
 
 |                    |                        |
 | :----------------- | :--------------------- |
 | Keywords: Area     | Type: Villain Action 1 |
 | Distance: 10 burst | Target: Each ally      |
 
-Effect: Each target can move up to their speed or make a [[Free Strike|free strike]].
+**Effect:** Each target can move up to their speed or make a [[Free Strike|free strike]].
 
-**Focus Fire**
+#### Focus Fire
 
 |                     |                        |
 | :------------------ | :--------------------- |
 | Keywords: -         | Type: Villain Action 2 |
 | Distance: Ranged 10 | Target: One enemy      |
 
-Effect: Each ally within 10 squares of the enemy can move up to their speed toward the enemy.
+**Effect:** Each ally within 10 squares of the enemy can move up to their speed toward the enemy.
 
-**Kill!**
+#### Kill!
 
 |                    |                                 |
 | :----------------- | :------------------------------ |
 | Keywords: Area     | Type: Villain Action 3          |
 | Distance: 10 burst | Target: All allies in the burst |
 
-Effect: Each target can make a [[Free Strike|free strike]] with edge.
+**Effect:** Each target can make a [[Free Strike|free strike]] with edge.
 
 **End Effect**
 

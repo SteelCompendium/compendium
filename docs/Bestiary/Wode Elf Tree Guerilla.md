@@ -1,4 +1,4 @@
-#### WODE ELF TREE GUERILLA
+### WODE ELF TREE GUERILLA
 
 | WODE ELF TREE GUERILLA    |   **Level 3 Ambusher** |
 | :------------------------ | ---------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | --------------- |
 |             |                |              |                 |                 |
 
-**Splinter Dagger (Signature)**
+#### Splinter Dagger (Signature)
 
 |                                         |                              |
 | :-------------------------------------- | :--------------------------- |
@@ -21,14 +21,14 @@
 **2d10 + 2**
 
 - ✦ ≤11: 5 damage; M1 [[Bleeding|bleeding]] (save ends)
-- ★ 12–16: 9 damage; M2 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 9 damage; M2 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 12 damage; M3 [[Bleeding|bleeding]] (save ends)
 
-Effect: The tree guerilla can [[Teleport|teleport]] 3 after making the attack.
+**Effect:** The tree guerilla can [[Teleport|teleport]] 3 after making the attack.
 
-**5 Malice**
-The tree guerilla targets an additional creature or object. The tree guerilla has **+1** if both targets are adjacent to each other.
+**5 Malice:** The tree guerilla targets an additional creature or object. The tree guerilla has **+1** if both targets are adjacent to each other.
 
-**Do Not Hesitate in the Wode (3 Malice)**
+#### Do Not Hesitate in the Wode (3 Malice)
 
 |                          |                             |
 | :----------------------- | :-------------------------- |
@@ -37,7 +37,7 @@ The tree guerilla targets an additional creature or object. The tree guerilla ha
 
 Trigger: An ally ends their turn while the tree guerilla hasn't acted this round.
 
-Effect: The targets take their turn immediately. Each target has **+1** until the end of their turn.
+**Effect:** The targets take their turn immediately. Each target has **+1** until the end of their turn.
 
 **Hunter's Glamor**
 

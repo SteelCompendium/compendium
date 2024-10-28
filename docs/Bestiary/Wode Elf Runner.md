@@ -1,4 +1,4 @@
-#### WODE ELF RUNNER
+### WODE ELF RUNNER
 
 | WODE ELF RUNNER           | **Level 1 Harrier Minion** |
 | :------------------------ | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | --------------- |
 |             |                |              |                 |                 |
 
-**Spear (Signature)**
+#### Spear (Signature)
 
 |                                                     |                                         |
 | :-------------------------------------------------- | :-------------------------------------- |
@@ -21,10 +21,10 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 4 damage
+- ★ 12-16: 4 damage
 - ✸ 17+: 5 damage
 
-Effect: The runner can shift 2 before making the attack.
+**Effect:** The runner can shift 2 before making the attack.
 
 **Masking Glamor**
 

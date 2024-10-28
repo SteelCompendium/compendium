@@ -1,4 +1,4 @@
-#### TUSKER DEMON
+### TUSKER DEMON
 
 | TUSKER DEMON           |         **Level 2 Brute** |
 | :--------------------- | ------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | --------------- |
 |              |                |               |                 |                 |
 
-**Gore (Signature)**
+#### Gore (Signature)
 
 |                                             |                              |
 | :------------------------------------------ | :--------------------------- |
@@ -21,11 +21,12 @@
 **2d10 + 2**
 
 - ✦ ≤11: 4 damage; push 1
-- ★ 12–16: 7 damage; push 2
+- ★ 12-16: 7 damage; push 2
+- ✸ 17+: 10 damage; push 3; [[Prone|prone]]
 
-Effect: This attack has edge while charging.
+**Effect:** This attack has edge while charging.
 
-**Vengeful Tusker**
+#### Vengeful Tusker
 
 |                |                        |
 | :------------- | :--------------------- |
@@ -34,7 +35,7 @@ Effect: This attack has edge while charging.
 
 Trigger: An enemy within 7 deals damage to the tusker.
 
-Effect: The tusker demon [[Charge|charges]] the target using Gore.
+**Effect:** The tusker demon [[Charge|charges]] the target using Gore.
 
 **Trample**
 

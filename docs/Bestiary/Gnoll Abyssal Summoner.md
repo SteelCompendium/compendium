@@ -1,4 +1,4 @@
-#### GNOLL ABYSSAL SUMMONER
+### GNOLL ABYSSAL SUMMONER
 
 | GNOLL ABYSSAL SUMMONER |        **Level 2 Support** |
 | :--------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | ------------- | ------------ | ---------------- | --------------- |
 |              |               |              |                  |                 |
 
-**Flame Wad (Signature)**
+#### Flame Wad (Signature)
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
@@ -21,27 +21,28 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 fire damage; I1 burning (save ends)
-- ★ 12–16: 5 fire damage; I2 burning (save ends)
+- ★ 12-16: 5 fire damage; I2 burning (save ends)
+- ✸ 17+: 7 fire damage; I3 burning (save ends)
 
-Effect: A burning target takes 1d6 fire damage at the start of each of their turns until the condition ends.
+**Effect:** A burning target takes 1d6 fire damage at the start of each of their turns until the condition ends.
 
-**Call [[Abyssal Hyena|Abyssal Hyenas]] (3 Malice)**
+#### Call Abyssal Hyenas (3 Malice)
 
 |                    |                 |
 | :----------------- | :-------------- |
 | Keywords: -        | Type: Maneuver  |
 | Distance: Ranged 5 | Target: Special |
 
-Effect: 2 [[Abyssal Hyena|abyssal hyenas]] claw out of the ground into unoccupied squares.
+**Effect:** 2 [[Abyssal Hyena|abyssal hyenas]] claw out of the ground into unoccupied squares.
 
-**Cackletongue (4 Malice)**
+#### Cackletongue (4 Malice)
 
 |                   |                    |
 | :---------------- | :----------------- |
 | Keywords: -       | Type: Maneuver     |
 | Distance: 2 burst | Target: All allies |
 
-Effect: 1 [[Abyssal Hyena|abyssal hyena]] target turns into a [[Gnoll Marauder|gnoll marauder]], keeping their Stamina. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
+**Effect:** 1 [[Abyssal Hyena|abyssal hyena]] target turns into a [[Gnoll Marauder|gnoll marauder]], keeping their Stamina. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
 
 **Death Frenzy**
 

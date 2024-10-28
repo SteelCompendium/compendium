@@ -1,4 +1,4 @@
-#### GOBLIN ASSASSIN
+### GOBLIN ASSASSIN
 
 | GOBLIN ASSASSIN      |       **Level 1 Ambusher** |
 | :------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
-**Sword (Signature)**
+#### Sword (Signature)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -21,12 +21,12 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage
-- ★ 12–16: 5 damage
+- ★ 12-16: 5 damage
 - ✸ 17+: 7 damage
 
-Effect: This ability has edge if the assassin has an edge on the power roll.
+**Effect:** This ability has edge if the assassin has an edge on the power roll.
 
-**Shadow Chains (3 Malice)**
+#### Shadow Chains (3 Malice)
 
 |                         |                         |
 | :---------------------- | :---------------------- |
@@ -36,7 +36,7 @@ Effect: This ability has edge if the assassin has an edge on the power roll.
 **2d10 + 2**
 
 - ✦ ≤11: 3 corruption damage; A1 [[Restrained|restrained]] (save ends)
-- ★ 12–16: 5 corruption damage; A2 [[Restrained|restrained]] (save ends)
+- ★ 12-16: 5 corruption damage; A2 [[Restrained|restrained]] (save ends)
 - ✸ 17+: 7 corruption damage; A3 [[Restrained|restrained]] (save ends)
 
 **Crafty**
