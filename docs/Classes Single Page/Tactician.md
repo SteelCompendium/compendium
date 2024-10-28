@@ -133,7 +133,7 @@ Your leadership thwarts an enemy or aids an ally.
 
 **Trigger:** The target makes an attack against another creature.
 
-**Effect:** Add or subtract `(SURGE)` to the attack.
+**Effect:** Add or subtract `â¡` to the attack.
 
 **Spend 3 Focus:** Increase or decrease the potency of one effect from the attack.
 
@@ -143,7 +143,7 @@ Your quick reflexes cost an enemy the precision they seek.
 
 **Trigger:** A creature makes a Weapon attack against the target.
 
-**Effect:** The attack's damage is reduced `(SHIELD)(SHIELD)`.
+**Effect:** The attack's damage is reduced `ð¡ð¡`.
 
 **Spend 3 Focus:** Decrease the potency of all effects on the attack by 1.
 
@@ -184,7 +184,7 @@ You know how to focus the attention of your allies as you push them toward victo
 
 You draw your allies' attention to a specific foe-with devastating effect.
 
-**Effect:** The target is marked by you until the start of your next turn. When attacking a marked target, you and each of your allies gain a damage surge `(SURGE)`.
+**Effect:** The target is marked by you until the start of your next turn. When attacking a marked target, you and each of your allies gain a damage surge `â¡`.
 
 **Spend 1 Focus or More Focus:** You focus on understanding the tactics of your foe, countering their strengths and exploiting their weaknesses to enhance your squad.
 
@@ -216,7 +216,7 @@ You can use this maneuver on an already marked creature to bank more focus.
 </tr>
 <tr class="odd">
 <td>6</td>
-<td>Attacks against the target do <code>(SURGE)(SURGE)</code> instead of <code>(SURGE)</code>.</td>
+<td>Attacks against the target do <code>â¡â¡</code> instead of <code>â¡</code>.</td>
 </tr>
 <tr class="even">
 <td>8 (Level 4)</td>
@@ -224,7 +224,7 @@ You can use this maneuver on an already marked creature to bank more focus.
 </tr>
 <tr class="odd">
 <td>10 (Level 7)</td>
-<td>Attacks against the target do <code>(SURGE)(SURGE)(SURGE)</code> instead of <code>(SURGE)</code>.</td>
+<td>Attacks against the target do <code>â¡â¡â¡</code> instead of <code>â¡</code>.</td>
 </tr>
 <tr class="even">
 <td>12 (Level 10)</td>
@@ -301,7 +301,7 @@ You can use this maneuver on an already marked creature to bank more focus.
 </tr>
 <tr class="odd">
 <td>6</td>
-<td>Allies have <code>(SHIELD)</code> against attacks from the marked target.</td>
+<td>Allies have <code>ð¡</code> against attacks from the marked target.</td>
 </tr>
 <tr class="even">
 <td>8 (Level 4)</td>
@@ -309,7 +309,7 @@ You can use this maneuver on an already marked creature to bank more focus.
 </tr>
 <tr class="odd">
 <td>10 (Level 7)</td>
-<td>Allies have <code>(SHIELD)(SHIELD)</code> against attacks from the marked target.</td>
+<td>Allies have <code>ð¡ð¡</code> against attacks from the marked target.</td>
 </tr>
 <tr class="even">
 <td>12 (Level 10)</td>
@@ -357,9 +357,9 @@ You shout a phrase that galvanizes your team.
 
 **Power Roll + Reason:**
 
-- **11 or lower:** The target's next attack has `(SURGE)`
-- **12-16:** The target's next attack has `(SURGE)`
-- **17+:** The target's next attack has `(SURGE)(SURGE)`
+- **11 or lower:** The target's next attack has `â¡`
+- **12-16:** The target's next attack has `â¡`
+- **17+:** The target's next attack has `â¡â¡`
 
 ###### Concussive Strike (3 Focus)
 
@@ -435,7 +435,7 @@ As a 2nd-level tactician, you gain the following features.
 
 ### Adapt A Strategy
 
-At the beginning of your first turn, choose an offensive strategy or a defensive strategy. Your choice increases either your `(SURGE)` limit to `(SURGE)(SURGE)(SURGE)(SURGE)` or your `(SHIELD)` limit to `(SHIELD)(SHIELD)(SHIELD)(SHIELD)`.
+At the beginning of your first turn, choose an offensive strategy or a defensive strategy. Your choice increases either your `â¡` limit to `â¡â¡â¡â¡` or your `ð¡` limit to `ð¡ð¡ð¡ð¡`.
 
 ### 2nd-level Doctrine Features
 
@@ -453,7 +453,7 @@ You choose what order enemies marked by you take their initiative order. Other c
 
 #### Infiltration Tactics
 
-You and your allies do `(SURGE)` when attacking from concealment or while hidden.
+You and your allies do `â¡` when attacking from concealment or while hidden.
 
 #### Melee Superiority
 
@@ -533,7 +533,7 @@ You prioritize saving an ally over your own safety.
 
 Together we are invincible!
 
-**Effect:** Until the start of your next turn, targets have `(SHIELD)(SHIELD)` and a bonus to their Stability equal to your Might score.
+**Effect:** Until the start of your next turn, targets have `ð¡ð¡` and a bonus to their Stability equal to your Might score.
 
 ## 3rd-level Features
 
@@ -553,7 +553,7 @@ Choose one heroic ability from the following options.
 
 Historians will write about this day.
 
-**Effect:** Until the end of the encounter or you are dying, whenever you or an ally attacks a target marked by you, they do `(SURGE)(SURGE)`.
+**Effect:** Until the end of the encounter or you are dying, whenever you or an ally attacks a target marked by you, they do `â¡â¡`.
 
 #### Frontal Assault (7 Focus)
 

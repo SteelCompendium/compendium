@@ -25,6 +25,10 @@ target: 1 creature
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
 | **Distance:** Ranged 10             | **Target:** 1 creature |
 
-**Power Roll + Presence:** - **11 or lower:** 2 psychic damage - **12-16:** 4 psychic damage - **17+:** 6 psychic damage
+**Power Roll + Presence:**
 
-**Effect:** Until the end of the target's next turn, they take `(SURGE)` psychic damage each time they willingly move closer to you.
+- **11 or lower:** 2 psychic damage
+- **12-16:** 4 psychic damage
+- **17+:** 6 psychic damage
+
+**Effect:** Until the end of the target's next turn, they take `â¡` psychic damage each time they willingly move closer to you.

@@ -26,6 +26,10 @@ target: All enemies
 | **Keywords:** Area, Magic, Ranged | **Type:** Action        |
 | **Distance:** 3 Cube within 10    | **Target:** All enemies |
 
-**Power Roll + Presence:** - **11 or lower:** 2 damage; P \[weak\] slowed (save ends) - **12-16:** 3 damage; P \[average\] slowed (save ends) - **17+:** 4 damage; P \[strong\] restrained (save ends)
+**Power Roll + Presence:**
+
+- **11 or lower:** 2 damage; P \[weak\] slowed (save ends)
+- **12-16:** 3 damage; P \[average\] slowed (save ends)
+- **17+:** 4 damage; P \[strong\] restrained (save ends)
 
 **Effect:** The area becomes difficult terrain for your enemies.

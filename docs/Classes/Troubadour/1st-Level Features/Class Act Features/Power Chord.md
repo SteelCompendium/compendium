@@ -28,4 +28,8 @@ You have the following ability.
 | **Keywords:** Area, Magic | **Type:** Maneuver      |
 | **Distance:** 2 durst     | **Target:** All enemies |
 
-**Power Roll + Presence:** - **11 or lower:** push 2 - **12-16:** push 2; the target takes a bane on the next power roll they make before the start of your next turn - **17+:** push 3; the target takes a bane on the next power roll they make before the start of your next turn
+**Power Roll + Presence:**
+
+- **11 or lower:** push 2
+- **12-16:** push 2; the target takes a bane on the next power roll they make before the start of your next turn
+- **17+:** push 3; the target takes a bane on the next power roll they make before the start of your next turn

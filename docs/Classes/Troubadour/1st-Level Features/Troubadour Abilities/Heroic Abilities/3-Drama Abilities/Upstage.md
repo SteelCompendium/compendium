@@ -28,4 +28,8 @@ target: Self
 
 **Effect:** You shift up to your speed. You make one power roll that targets each enemy who becomes adjacent to you during the move.
 
-**Power Roll + Agility or Presence:** - **11 or lower:** taunted (EoT); A \[weak\] prone - **12-16:** taunted (EoT); A \[average\] prone - **17+:** taunted (EoT); A \[strong\] prone can't stand (EoT)
+**Power Roll + Agility or Presence:**
+
+- **11 or lower:** taunted (EoT); A \[weak\] prone
+- **12-16:** taunted (EoT); A \[average\] prone
+- **17+:** taunted (EoT); A \[strong\] prone can't stand (EoT)

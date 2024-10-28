@@ -26,6 +26,10 @@ target: 1 judged creature
 | **Keywords:** Attack, Magic, Weapon | **Type:** Action              |
 | **Distance:** Melee 1 or Ranged 5   | **Target:** 1 judged creature |
 
-**Power Roll + Might:** - **11 or lower:** 3 holy damage; each enemy within 2 of the target is P \[weak\] frightened (save ends) - **12-16:** 5 holy damage; each enemy within 2 of the target is P \[weak\] frightened (save ends) - **17+:** 8 holy damage; each enemy within 2 of the target is P \[weak\] frightened (save ends)
+**Power Roll + Might:**
 
-**Effect:** Each enemy frightened by this ability is pushed 2 away from the target and takes `(SURGE)` psychic damage.
+- **11 or lower:** 3 holy damage; each enemy within 2 of the target is P \[weak\] frightened (save ends)
+- **12-16:** 5 holy damage; each enemy within 2 of the target is P \[weak\] frightened (save ends)
+- **17+:** 8 holy damage; each enemy within 2 of the target is P \[weak\] frightened (save ends)
+
+**Effect:** Each enemy frightened by this ability is pushed 2 away from the target and takes `⚡` psychic damage.

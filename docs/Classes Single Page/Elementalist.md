@@ -570,11 +570,11 @@ Your Stamina increases by 6, and you gain an additional 3 Stamina whenever you g
 
 #### Extra Shield
 
-Your `(SHIELD)` limit increases by 1, for a maximum of `(SHIELD)(SHIELD)(SHIELD)(SHIELD)`.
+Your `🛡` limit increases by 1, for a maximum of `🛡🛡🛡🛡`.
 
 #### Extra Surge
 
-Your `(SURGE)` limit increases by 1, for a maximum of `(SURGE)(SURGE)(SURGE)(SURGE)`.
+Your `⚡` limit increases by 1, for a maximum of `⚡⚡⚡⚡`.
 
 #### There Is No Space Between
 
@@ -625,7 +625,7 @@ Revitalizing plants and jagged stones grow, helping allies and hindering foes.
 
 - You and allies in the area can take the Catch Breath action as a maneuver.
 - The area is difficult terrain for your enemies.
-- When an enemy enters the area for the first time on a turn or starts their turn there, they take `(SURGE)` damage.
+- When an enemy enters the area for the first time on a turn or starts their turn there, they take `⚡` damage.
 
 **Persistent 1:** The area remains until the start of your next turn. You can move the area up to 5 squares as a maneuver. This ability ends if you lose line of effect to its area.
 
@@ -734,7 +734,7 @@ An enormous fist rises from the ground to crush your foes.
 - **12-16:** 9 damage; M \[average\] restrained (save ends)
 - **17+:** 12 damage; M \[strong\] restrained (save ends)
 
-**Effect:** While the target is restrained, they take `(SURGE)(SURGE)` damage at the start of their turn.
+**Effect:** While the target is restrained, they take `⚡⚡` damage at the start of their turn.
 
 #### Swarm Of Spirits (7 Essence)
 
@@ -754,6 +754,6 @@ Guardian animal spirits surround you.
 
 A blazing, beautifully organized inferno.
 
-**Effect:** You can place this wall in occupied squares. The wall lasts until the start of your next turn. Creatures can enter and pass through this wall. When an enemy enters the wall for the first time on a turn or starts their turn there, they take `(SURGE)(SURGE)` fire damage.
+**Effect:** You can place this wall in occupied squares. The wall lasts until the start of your next turn. Creatures can enter and pass through this wall. When an enemy enters the wall for the first time on a turn or starts their turn there, they take `⚡⚡` fire damage.
 
 **Persistent 1:** The effect lasts until the start of your next turn, and you can add a number of squares to the wall equal to your Reason score.

@@ -27,7 +27,7 @@ You draw your allies' attention to a specific foe-with devastating effect.
 | **Keywords:** Ranged    | **Type:** Maneuver     |
 | **Distance:** Ranged 10 | **Target:** 1 creature |
 
-**Effect:** The target is marked by you until the start of your next turn. When attacking a marked target, you and each of your allies gain a damage surge `(SURGE)`.
+**Effect:** The target is marked by you until the start of your next turn. When attacking a marked target, you and each of your allies gain a damage surge `⚡`.
 
 **Spend 1 Focus or More Focus:** You focus on understanding the tactics of your foe, countering their strengths and exploiting their weaknesses to enhance your squad.
 

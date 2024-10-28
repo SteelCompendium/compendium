@@ -26,4 +26,4 @@ target: Self and 1 willing ally
 | **Keywords:** Attack, Melee, Weapon | **Type:** Action                    |
 | **Distance:** Self and Melee 1      | **Target:** Self and 1 willing ally |
 
-**Effect:** The targets shift up to 5 squares, including vertically. The targets must end this movement adjacent to each other and on solid ground. Each target can then take a free strike with `(SURGE)(SURGE)` against an enemy within reach.
+**Effect:** The targets shift up to 5 squares, including vertically. The targets must end this movement adjacent to each other and on solid ground. Each target can then take a free strike with `⚡⚡` against an enemy within reach.

@@ -27,6 +27,10 @@ target: 1 creature or object
 | **Keywords:** Attack, Magic, Melee, Ranged | **Type:** Action                 |
 | **Distance:** Melee 1 or Ranged 10         | **Target:** 1 creature or object |
 
-**Power Roll + Presence:** - **11 or lower:** 4 sonic damage; P \[weak\] weakened (save ends) - **12-16:** 6 sonic damage; P \[average\] weakened (save ends) - **17+:** 10 sonic damage; P \[strong\] weakened (save ends)
+**Power Roll + Presence:**
+
+- **11 or lower:** 4 sonic damage; P \[weak\] weakened (save ends)
+- **12-16:** 6 sonic damage; P \[average\] weakened (save ends)
+- **17+:** 10 sonic damage; P \[strong\] weakened (save ends)
 
 **Effect:** The effects of the next ability the target uses before the start of your next turn are suppressed. Any effects listed within a result tier other than damage don't occur. This doesn't apply to ability effects that always happen regardless of the power roll.

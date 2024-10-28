@@ -26,4 +26,8 @@ target: 1 creature
 | **Keywords:** Attack, Magic, Ranged | **Type:** Action       |
 | **Distance:** Ranged 10             | **Target:** 1 creature |
 
-**Power Roll + Might:** - **11 or lower:** 3 holy damage; I \[weak\] dazed (save ends) - **12-16:** 6 holy damage; I \[average\] dazed (save ends) - **17+:** 9 holy damage; I \[strong\] dazed (save ends)
+**Power Roll + Might:**
+
+- **11 or lower:** 3 holy damage; I \[weak\] dazed (save ends)
+- **12-16:** 6 holy damage; I \[average\] dazed (save ends)
+- **17+:** 9 holy damage; I \[strong\] dazed (save ends)

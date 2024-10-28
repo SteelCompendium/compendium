@@ -24,4 +24,4 @@ target: All enemies
 | **Keywords:** -      | **Type:** Maneuver      |
 | **Distance:** 2 Aura | **Target:** All enemies |
 
-**Effect:** Until the end of the encounter or you are dying, when a target uses an ability with the Magic keyword, they take `(SURGE)(SURGE)` holy damage. If a target is judged by you, they take an additional 2d6 holy damage.
+**Effect:** Until the end of the encounter or you are dying, when a target uses an ability with the Magic keyword, they take `⚡⚡` holy damage. If a target is judged by you, they take an additional 2d6 holy damage.

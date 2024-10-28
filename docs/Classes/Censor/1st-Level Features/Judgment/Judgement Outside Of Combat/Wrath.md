@@ -24,7 +24,7 @@ target: 1 enemy
 | **Keywords:** Magic, Ranged | **Type:** Maneuver  |
 | **Distance:** Ranged 10     | **Target:** 1 enemy |
 
-**Effect:** You bank 1 or more judgment on the target. While a creature has at least 1 judgment on it, any targets they attack gain `(SHIELD)`.
+**Effect:** You bank 1 or more judgment on the target. While a creature has at least 1 judgment on it, any targets they attack gain `🛡`.
 
 Each judgment banked on the judged creature increases the effectiveness of your censor abilities, indicated on your order's judgment type table below. A creature stays judged until the end of the encounter while they have any judgment on them.
 
@@ -35,5 +35,5 @@ When the judged creature is reduced to 0 Stamina or otherwise removes the judgme
 When you bank judgment on a creature, you also gain one of the following benefits based on your order:
 
 - **Exorcist:** You teleport a distance equal to twice your Presence score. This movement must take you closer to the judged target. You do not need line of effect for this movement.
-- **Oracle:** You deal `(SURGE)` holy damage to the target and each enemy within 2 squares of the target.
+- **Oracle:** You deal `⚡` holy damage to the target and each enemy within 2 squares of the target.
 - **Paragon:** You pull the target up to a number of squares equal to twice your Presence score.

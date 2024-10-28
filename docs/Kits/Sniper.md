@@ -46,4 +46,4 @@ Breathe… aim… wait… then strike!
 - **12-16:** 5 damage
 - **17+:** 11 damage
 
-**Effect:** If you don't take a move action this turn, you gain `(SURGE)` on this attack.
+**Effect:** If you don't take a move action this turn, you gain `⚡` on this attack.

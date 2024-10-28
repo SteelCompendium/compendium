@@ -26,6 +26,6 @@ You shout a phrase that galvanizes your team.
 
 **Power Roll + Reason:**
 
-- **11 or lower:** The target's next attack has `(SURGE)`
-- **12-16:** The target's next attack has `(SURGE)`
-- **17+:** The target's next attack has `(SURGE)(SURGE)`
+- **11 or lower:** The target's next attack has `⚡`
+- **12-16:** The target's next attack has `⚡`
+- **17+:** The target's next attack has `⚡⚡`

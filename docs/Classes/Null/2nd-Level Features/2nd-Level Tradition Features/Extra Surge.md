@@ -10,4 +10,4 @@ kind: 2nd-level features
 
 # Extra Surge
 
-- Your `(SURGE)` limit increases by 1, for a maximum of `(SURGE)(SURGE)(SURGE)(SURGE)`.
+- Your `⚡` limit increases by 1, for a maximum of `⚡⚡⚡⚡`.

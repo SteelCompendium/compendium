@@ -33,4 +33,4 @@ target: 1 creature
 - **12-16:** 12 psychic damage; M \[average\] weakened (save ends)
 - **17+:** 16 psychic damage; M \[strong\] weakened (save ends)
 
-**Effect:** While weakened, the target takes `(SURGE)` psychic damage whenever they use an ability with the Magic keyword.
+**Effect:** While weakened, the target takes `⚡` psychic damage whenever they use an ability with the Magic keyword.

@@ -32,7 +32,7 @@ kind: 1st-level features
 </tr>
 <tr class="odd">
 <td>6</td>
-<td>Attacks against the target do <code>(SURGE)(SURGE)</code> instead of <code>(SURGE)</code>.</td>
+<td>Attacks against the target do <code>⚡⚡</code> instead of <code>⚡</code>.</td>
 </tr>
 <tr class="even">
 <td>8 (Level 4)</td>
@@ -40,7 +40,7 @@ kind: 1st-level features
 </tr>
 <tr class="odd">
 <td>10 (Level 7)</td>
-<td>Attacks against the target do <code>(SURGE)(SURGE)(SURGE)</code> instead of <code>(SURGE)</code>.</td>
+<td>Attacks against the target do <code>⚡⚡⚡</code> instead of <code>⚡</code>.</td>
 </tr>
 <tr class="even">
 <td>12 (Level 10)</td>

@@ -32,4 +32,4 @@ target: 2 creatures or objects
 - **12-16:** 4 damage
 - **17+:** 5 damage
 
-**Effect:** You deal `(SURGE)` damage to an adjacent creature or object.
+**Effect:** You deal `⚡` damage to an adjacent creature or object.

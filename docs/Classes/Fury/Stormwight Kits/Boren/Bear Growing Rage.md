@@ -25,11 +25,11 @@ kind: stormwight kits
 <tr class="odd">
 <td>3</td>
 <td>- You gain an edge on Might tests, resistance rolls, and power rolls made to grab.<br />
-- While in bear form, your attacks do <code>(SURGE)</code>, and any target you have grabbed at the start of your turn takes <code>(SURGE)</code>.</td>
+- While in bear form, your attacks do <code>⚡</code>, and any target you have grabbed at the start of your turn takes <code>⚡</code>.</td>
 </tr>
 <tr class="even">
 <td>6</td>
-<td>While in bear form, your attacks do <code>(SURGE)(SURGE)</code>, and any target you have grabbed at the start of your turn takes <code>(SURGE)(SURGE)</code>.</td>
+<td>While in bear form, your attacks do <code>⚡⚡</code>, and any target you have grabbed at the start of your turn takes <code>⚡⚡</code>.</td>
 </tr>
 <tr class="odd">
 <td>9</td>
@@ -37,7 +37,7 @@ kind: stormwight kits
 </tr>
 <tr class="even">
 <td>12 (Level 4)</td>
-<td>While in bear form, your attacks do <code>(SURGE)(SURGE)(SURGE)</code>, and any target you have grabbed at the start of your turn takes <code>(SURGE)(SURGE)(SURGE)</code>.</td>
+<td>While in bear form, your attacks do <code>⚡⚡⚡</code>, and any target you have grabbed at the start of your turn takes <code>⚡⚡⚡</code>.</td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -49,7 +49,7 @@ kind: stormwight kits
 </tr>
 <tr class="odd">
 <td>18 (Level 10)</td>
-<td>- While in bear form, your attacks do <code>(SURGE)(SURGE)(SURGE)(SURGE)</code>, and any target you have grabbed at the start of your turn takes <code>(SURGE)(SURGE)(SURGE)(SURGE)</code>.<br />
+<td>- While in bear form, your attacks do <code>⚡⚡⚡⚡</code>, and any target you have grabbed at the start of your turn takes <code>⚡⚡⚡⚡</code>.<br />
 - Your size increases by 1 and you gain 20 Temporary Stamina the first time you grow to this size in the encounter.</td>
 </tr>
 </tbody>

@@ -26,6 +26,6 @@ target: Self or 1 ally
 | **Keywords:** Metamorphosis, Psionic, Ranged | **Type:** Maneuver         |
 | **Distance:** Self or Ranged 10              | **Target:** Self or 1 ally |
 
-**Effect:** The target's stability increases by 5, and they have `(SHIELD)` and a `(SURGE)` on weapon attacks until the start of your next turn.
+**Effect:** The target's stability increases by 5, and they have `🛡` and a `⚡` on weapon attacks until the start of your next turn.
 
 **Strained:** You cannot use maneuvers (save ends).

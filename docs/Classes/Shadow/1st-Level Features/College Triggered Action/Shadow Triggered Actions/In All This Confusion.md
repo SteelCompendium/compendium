@@ -26,6 +26,6 @@ You vanish in a plume of black smoke to avoid danger.
 
 **Trigger:** You take damage.
 
-**Effect:** You gain `(SHIELD)` against the triggering damage and then can teleport up to 4 squares after the damage and its effects resolve.
+**Effect:** You gain `🛡` against the triggering damage and then can teleport up to 4 squares after the damage and its effects resolve.
 
 **Spend Insight:** You teleport 1 additional square for each insight spent.
