@@ -424,8 +424,6 @@ Choose one of the following abilities.
 - **12-16:** 12 damage; slide 3
 - **17+:** 16 damage; slide 5
 
-Draw Steel © 2024 MCDM Productions, LLC
-
 #### 2nd-level Cryokinetic Abilities
 
 Choose one of the following abilities.

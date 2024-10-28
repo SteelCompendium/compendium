@@ -921,7 +921,7 @@ they receive at various levels of play.
 
 ### 1ST ECHELON (LEVELS 1-3)
 
-The 1st echelon of play encompasses levels 1 to 3. At this echelon, the player characters are local heroes. They save
+The 1st echelon of play encompasses levels 1 to 3. At this echelon, the player characters are [[Local Hero|local heroes]]. They save
 lost caravans, besieged villages, and overlooked neighborhoods of cities. The heroes battle bands of mortal
 humanoids-[[Dwarf|dwarves]], elves, goblins, [[Human|humans]], kobolds, [[Orc|orcs]]. They face the occasional larger monstrous threat, such as a
 [[Bredbeddle|bredbeddle]], ogre, or [[Chimera|chimera]]. These are the kinds of creatures that can threaten a small community, but rarely have
@@ -2522,8 +2522,6 @@ The minds of memonek are highly ordered. Their reason is their great pride. But 
 including a manifold like Orden where law and chaos mix, a sickness comes over them-an uncontrollable sensation called
 emotion.
 
-Draw Steel © 2024 MCDM Productions, LLC
-
 ### ON MEMONEK
 
 "You want to tell me what just happened?" Sir John asked.
@@ -2628,8 +2626,6 @@ squares.
 #### SIGNATURE TRAIT: LIGHTWEIGHT
 
 Your body is light for a creature of your height. Your size is considered 1S when being force moved by another creature.
-
-Draw Steel © 2024 MCDM Productions, LLC
 
 #### PURCHASED MEMONEK TRAITS
 
@@ -2856,8 +2852,6 @@ that."
 
 > "You're talking just... my voice is just as loud as yours!"
 
-Draw Steel © 2024 MCDM Productions, LLC
-
 > "I mean the way you walk around. Just the way you move, the way you stand up and sit down. You make so much goddamn
 > noise."
 
@@ -2977,8 +2971,6 @@ shot up out of his chair, a huge smile on his face.
 The knight stared at them for a moment, then turned back to his friend.
 
 > "Maybe you're right," the dragon knight said.
-
-Draw Steel © 2024 MCDM Productions, LLC
 
 ### POLDER TRAITS
 
@@ -8589,8 +8581,6 @@ on attack rolls with this action.
 - **12-16:** 12 damage; slide 3
 - **17+:** 16 damage; slide 5
 
-Draw Steel © 2024 MCDM Productions, LLC
-
 #### 2ND-LEVEL CRYOKINETIC ABILITIES
 
 Choose one of the following abilities.
@@ -9219,8 +9209,6 @@ Whenever you make an attack with at least one `⚡` and no banes against a targe
 ### EXTRA SURGE
 
 Your `⚡` limit increases by 1, for a maximum of `⚡⚡⚡⚡`.
-
-Draw Steel © 2024 MCDM Productions, LLC
 
 ### PERK
 
@@ -13371,9 +13359,6 @@ Common consequences for failing a test include the following:
 
 - Making an NPC so upset that they storm off, or betray, attack, or otherwise attempt to harm you.
 - Drawing the attention of a group of foes.
-
-Draw Steel © 2024 MCDM Productions, LLC
-
 - Triggering a trap or hazard that captures or significantly harms you or an ally
 - Breaking an important piece of equipment that is difficult to replace or repair
 - Thinking you know something that you don't

@@ -380,8 +380,6 @@ Whenever you make an attack with at least one `⚡` and no banes against a targe
 
 Your `⚡` limit increases by 1, for a maximum of `⚡⚡⚡⚡`.
 
-Draw Steel © 2024 MCDM Productions, LLC
-
 ### Perk
 
 You gain an exploration, interpersonal, or intrigue perk of your choice. See Perks for more information.

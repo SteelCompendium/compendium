@@ -24,7 +24,7 @@ Short, averaging three and a half feet tall, their origins are obscure. They are
 
 The three peasants-Jago, his wife Sarah, and his sister Beth-sat together watching the three heroes talk in the crowded common room of the inn. Well, Jackson Bootblack seemed to be doing most of the talking.
 
-> “This kind of shit doesn't work if it's just a bunch of ratcatchers like us,” the polder said. “You need the people to rise up. Been fifteen years since Omund died-fifteen years of fighting wolves and bandits and worse. The people welcome a tyrant after that. They like order, you know? They adapt.”
+> “This kind of shit doesn't work if it's just a bunch of [[Ratcatcher|ratcatchers]] like us,” the polder said. “You need the people to rise up. Been fifteen years since Omund died-fifteen years of fighting wolves and bandits and worse. The people welcome a tyrant after that. They like order, you know? They adapt.”
 
 > “If you stand on the grass long enough, it learns to lie flat,” *A Mist Coils Around Dying Embers* said. “But what do you say?”
 
@@ -53,8 +53,6 @@ Jackson looked at his friend, the high elf void mage. “Am I crazy?”
 The polder put his drink down. “Oh, thank you. Thank you very much. You know, it's funny. I never have any problem noticing you big assholes. One of you makes about as much noise as a cow, which… I don't even know how you manage that.”
 
 > “You're talking just… my voice is just as loud as yours!”
-
-Draw Steel © 2024 MCDM Productions, LLC
 
 > “I mean the way you [[Walk|walk]] around. Just the way you move, the way you [[Stand Up|stand up]] and sit down. You make so much goddamn noise.”
 
@@ -155,8 +153,6 @@ Sir Vaantikalisax loomed just inside the doorway, his scales and armor glowing i
 The knight stared at them for a moment, then turned back to his friend.
 
 > “Maybe you're right,” the [[Dragon Knight|dragon knight]] said.
-
-Draw Steel © 2024 MCDM Productions, LLC
 
 ## Polder Traits
 

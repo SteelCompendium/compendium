@@ -18,8 +18,6 @@ The native denizens of Axiom, the Plane of Uttermost Law, memonek dwell in a lan
 
 The minds of memonek are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Orden where law and chaos mix, a sickness comes over them-an uncontrollable sensation called emotion.
 
-Draw Steel © 2024 MCDM Productions, LLC
-
 ## On Memonek
 
 “You want to tell me what just happened?” Sir John asked.
@@ -101,8 +99,6 @@ Your silicone body is aerodynamic and low in density. Whenever you fall, you red
 ### Signature Trait: Lightweight
 
 Your body is light for a creature of your height. Your size is considered 1S when being force moved by another creature.
-
-Draw Steel © 2024 MCDM Productions, LLC
 
 ### Purchased Memonek Traits
 

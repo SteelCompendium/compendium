@@ -4755,19 +4755,19 @@ Target: One creature or object
 - ✦ ≤11: 4 damage; M1 [[Grabbed|grabbed]]
 - ★ 12-16: 7 damage; M2 [[Grabbed|grabbed]]
 - ✸ 17+: 10 damage; M3 [[Grabbed|grabbed]]
-    Effect: The target has a bane on attempts to escape the [[Grab|grab]]. The brawler has edge on this attack if the target is already [[Grabbed|grabbed]].
+    Effect: The target has a bane on attempts to escape the [[Grab|grab]]. The [[Brawler|brawler]] has edge on this attack if the target is already [[Grabbed|grabbed]].
 
 **Throw (Maneuver)** ◆ 1 Malice
 Keywords: -
 Distance: Melee 1
-Target: One creature [[Grabbed|grabbed]] by the brawler
+Target: One creature [[Grabbed|grabbed]] by the [[Brawler|brawler]]
 Effect: Push 5.
 
 **Shoot the Hostage**
-The brawler takes half damage from attacks if they have a creature or object [[Grabbed|grabbed]]. The [[Grabbed|grabbed]] creature or object takes the other half of the damage.
+The [[Brawler|brawler]] takes half damage from attacks if they have a creature or object [[Grabbed|grabbed]]. The [[Grabbed|grabbed]] creature or object takes the other half of the damage.
 
 **Supernatural Insight**
-The brawler can target supernatural creatures and objects within 5 squares, even if they don't have line of effect.
+The [[Brawler|brawler]] can target supernatural creatures and objects within 5 squares, even if they don't have line of effect.
 
 #### HUMAN DEATH CULTIST
 
@@ -6372,7 +6372,7 @@ The pursuit of arcane studies is unusual among radenwights, though the community
 
 ### THE GREAT MACLETTE
 
-The name Maclette is never uttered without "The Great" before it. The [[Radenwight Maestro|radenwight maestro]] leads his band in complex city-wide robberies that always seem to be one step ahead of any would-be ratcatchers. Some say Maclette leads his life of crime to provide for his meddle, while others claim he strives to be king of the [[Criminal|criminal]] world. In truth, The Great Maclette finds beauty in the thrill of the heist. Robbery is as euphonious as music to his ears, and the maestro treats every operation like a new composition. As long as his band remains at large, he'll always be looking to outdo himself with his next great masterpiece.
+The name Maclette is never uttered without "The Great" before it. The [[Radenwight Maestro|radenwight maestro]] leads his band in complex city-wide robberies that always seem to be one step ahead of any would-be [[Ratcatcher|ratcatchers]]. Some say Maclette leads his life of crime to provide for his meddle, while others claim he strives to be king of the [[Criminal|criminal]] world. In truth, The Great Maclette finds beauty in the thrill of the heist. Robbery is as euphonious as music to his ears, and the maestro treats every operation like a new composition. As long as his band remains at large, he'll always be looking to outdo himself with his next great masterpiece.
 
 ### RADENWIGHT LANGUAGES
 
