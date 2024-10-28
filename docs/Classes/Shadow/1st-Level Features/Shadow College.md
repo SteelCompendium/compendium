@@ -10,7 +10,7 @@ kind: 1st-level features
 
 # Shadow College
 
-Shadow colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+Shadow colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out-or are kicked out-as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
 You are one of the few who has graduated from a shadow college, chosen from the following options:
 

@@ -26,15 +26,20 @@ The talent is limited only by the strength of their mind. Powerful psionic heroe
 
 **Starting Characteristics:** You start with a Reason of 2 and a Presence of 2, and can choose one of the following arrays for your other characteristics scores:
 
-- 2, −1, −1
-- 1, 1, −1
+- 2, -1, -1
+- 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Reason score − 1\
-**Average Potency:** Reason score\
-**Strong Potency:** Reason score + 1\
-**Starting Stamina at 1st Level:** 18\
-**Stamina Gained at 2nd and greater levels:** 9\
+**Weak Potency:** Reason score - 1
+
+**Average Potency:** Reason score
+
+**Strong Potency:** Reason score + 1
+
+**Starting Stamina at 1st Level:** 18
+
+**Stamina Gained at 2nd and greater levels:** 9
+
 **Recoveries:** 8
 
 **Skills:** You have Psionics and Read Person. Choose any two skills from the interpersonal or lore skill groups.
@@ -261,7 +266,8 @@ Select two signature abilities. Signature abilities can be used at will.
 - **12-16:** 2 corruption damage; P \[average\] slowed (save ends)
 - **17+:** 3 corruption damage; P \[strong\] slowed (save ends)
 
-**Effect:** The target takes 1 extra corruption damage for each time they are targeted by this ability within a single encounter.\
+**Effect:** The target takes 1 extra corruption damage for each time they are targeted by this ability within a single encounter.
+
 **Strained:** You gain 1 clarity on a tier-2 or higher result.
 
 ##### Incinerate
@@ -274,7 +280,8 @@ Select two signature abilities. Signature abilities can be used at will.
 - **12-16:** 3 fire damage
 - **17+:** 4 fire damage
 
-**Effect:** The column of fire lingers until the start of your next turn. A creature or object that enters or starts their turn in the affected area takes 2 fire damage.\
+**Effect:** The column of fire lingers until the start of your next turn. A creature or object that enters or starts their turn in the affected area takes 2 fire damage.
+
 **Strained:** The cube area increases by 2, but the fire immediately disappears at the end of your turn.
 
 ##### Kinetic Grip
@@ -287,7 +294,8 @@ Select two signature abilities. Signature abilities can be used at will.
 - **12-16:** push 4
 - **17+:** push 6; prone
 
-**Effect:** You can choose to slide the target 2 before making the power roll.\
+**Effect:** You can choose to slide the target 2 before making the power roll.
+
 **Strained:** You can't use this ability's additional effect, but the push can be vertical.
 
 ##### Kinetic Pulse
@@ -312,7 +320,8 @@ Select two signature abilities. Signature abilities can be used at will.
 - **12-16:** 3 damage; M \[average\] prone
 - **17+:** 4 damage; M \[strong\] prone
 
-**Effect:** When targeting an object with a solid reflective surface, such as a mirror, a shield, or metal armor, you can choose an additional target within 3 of the reflective surface.\
+**Effect:** When targeting an object with a solid reflective surface, such as a mirror, a shield, or metal armor, you can choose an additional target within 3 of the reflective surface.
+
 **Strained:** You have a `(SURGE)` on the attack. Enemies have a `(SURGE)` on attacks made against you until the start of your next turn.
 
 ##### Spirit Sword
@@ -325,7 +334,8 @@ Select two signature abilities. Signature abilities can be used at will.
 - **12-16:** 5 damage
 - **17+:** 7 damage
 
-**Effect:** The next attack against the target has a `(SURGE)`.\
+**Effect:** The next attack against the target has a `(SURGE)`.
+
 **Strained:** The attack deals an extra 3 damage to the target and yourself. This damage ignores your immunities.
 
 #### Heroic Abilities
@@ -386,28 +396,32 @@ Choose one heroic ability from the following options:
 
 *The target is thrown back through time several seconds and gets to do it all again.*
 
-**Effect:** The target uses an ability they've previously used this round without spending any heroic resources.\
+**Effect:** The target uses an ability they've previously used this round without spending any heroic resources.
+
 **Strained:** You take 1d6 damage and you are slowed (save ends).
 
 ###### Inertia Soak (5 Clarity)
 
 *Your psionic energy surrounds the target and pushes everything else away from them.*
 
-**Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. When the target moves into a square while they have this effect, they can push one adjacent creature 2 squares.\
+**Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. When the target moves into a square while they have this effect, they can push one adjacent creature 2 squares.
+
 **Strained:** You are weakened and your stability decreases by 5, which can become a negative value that adds to the distance you are force moved (save ends).
 
 ###### Iron (5 Clarity)
 
 *The target's skin turns to hard, dark metal, both impenetrable and dense.*
 
-**Effect:** The target's stability increases by 5, and they have `(SHIELD)` and a `(SURGE)` on weapon attacks until the start of your next turn.\
+**Effect:** The target's stability increases by 5, and they have `(SHIELD)` and a `(SURGE)` on weapon attacks until the start of your next turn.
+
 **Strained:** You cannot use maneuvers (save ends).
 
 ###### Perfect Clarity (5 Clarity)
 
 *You clear the mind of nothing but the goal.*
 
-**Effect:** The target's speed increases by 3, and they have a double edge on their next power roll made before the start of your next turn. If the target gets a tier-3 result on the roll, you gain 1 clarity.\
+**Effect:** The target's speed increases by 3, and they have a double edge on their next power roll made before the start of your next turn. If the target gets a tier-3 result on the roll, you gain 1 clarity.
+
 **Strained:** You take 1d6 damage and you can't use triggered actions (save ends).
 
 ## 2nd-level Features
@@ -468,7 +482,8 @@ Choose one of the following abilities:
 - **12-16:** Target 3 creatures, one of which can be you
 - **17+:** Target 4 creatures, one of which can be you
 
-**Effect:** Each target's speed increases by 5 and they gain the use of an additional maneuver during their turn until the start of your next turn.\
+**Effect:** Each target's speed increases by 5 and they gain the use of an additional maneuver during their turn until the start of your next turn.
+
 **Strained:** Your speed is halved until the end of the encounter.
 
 ##### Slow (5 Clarity)
@@ -481,7 +496,8 @@ Choose one of the following abilities:
 - **12-16:** Slowed (save ends); P \[average\] speed is 0 (save ends)
 - **17+:** Slowed (save ends); P \[strong\] speed is 0 (save ends)
 
-**Effect:** Each target can't use triggered actions while they are slowed by this ability.\
+**Effect:** Each target can't use triggered actions while they are slowed by this ability.
+
 **Strained:** The potency of this ability increases by 1. You take 1d6 damage. At the start of each round while a target is affected by this ability, you take 1d6 damage. You can choose to immediately end the effects on all affected targets (no action required).
 
 #### Telekinesis Abilities
@@ -510,7 +526,8 @@ Choose one of the following abilities:
 - **12-16:** 10 damage; M \[average\] prone
 - **17+:** 14 damage; M \[strong\] prone can't stand (save ends)
 
-**Effect:** A target made prone by this ability is lifted 2 squares into the air before falling immediately to the ground.\
+**Effect:** A target made prone by this ability is lifted 2 squares into the air before falling immediately to the ground.
+
 **Strained:** You take half the damage the target takes, including any damage from falling.
 
 #### Telepathy Abilities
@@ -539,7 +556,8 @@ Choose one of the following abilities:
 - **12-16:** Target shifts up to their speed and uses their signature ability against targets of your choice
 - **17+:** Target moves up to their speed and uses their signature ability against targets of your choice
 
-**Effect:** You control the target's movement. You can't move the target in a way that puts them in harm's way, such as off a cliff. However, you can move them in a way that provokes opportunity attacks.\
+**Effect:** You control the target's movement. You can't move the target in a way that puts them in harm's way, such as off a cliff. However, you can move them in a way that provokes opportunity attacks.
+
 **Strained:** You take 1d6 damage and you are weakened (EoT).
 
 ## 3rd-level Features
@@ -564,14 +582,16 @@ Choose one heroic ability from the following options:
 - **12-16:** 5 corruption damage; removed from encounter (EoT); P \[average\] weakened (save ends)
 - **17+:** 8 corruption damage; removed from encounter (EoT); P \[strong\] weakened (save ends)
 
-**Effect:** When a target removed from the encounter returns, they appear where they were removed or in the closest available space of the Director's choice.\
+**Effect:** When a target removed from the encounter returns, they appear where they were removed or in the closest available space of the Director's choice.
+
 **Strained:** You take 2d6 damage and you grow visibly older (the equivalent of 10 human years). You gain 2 clarity on a tier-3 result.
 
 #### Force Orbs (7 Clarity)
 
 *Three spheres of solid psionic energy float around you.*
 
-**Effect:** You create three size 1T orb objects that orbit your body. You have a `(SHIELD)` for each orb you have active. Whenever you take damage, you lose 1 orb.\
+**Effect:** You create three size 1T orb objects that orbit your body. You have a `(SHIELD)` for each orb you have active. Whenever you take damage, you lose 1 orb.
+
 You can use a free maneuver to fire an orb at a creature or object within 5 as a ranged attack on each of your turns, losing the orb after the attack.
 
 **Power Roll + Reason:**
@@ -586,7 +606,8 @@ You can use a free maneuver to fire an orb at a creature or object within 5 as a
 
 *A field that reverses the momentum of incoming attacks.*
 
-**Effect:** The aura lasts until the start of your next turn. Whenever an enemy targets an ally within the aura with a ranged ability, the ability is negated on the ally and reflected back at the enemy, dealing half damage and negating any additional effects.\
+**Effect:** The aura lasts until the start of your next turn. Whenever an enemy targets an ally within the aura with a ranged ability, the ability is negated on the ally and reflected back at the enemy, dealing half damage and negating any additional effects.
+
 **Strained:** The aura increases by 1. Each ability your aura reflects causes you to take 2d6 damage and makes you forget a memory.
 
 #### Soul Burn (7 Clarity)
@@ -599,5 +620,6 @@ You can use a free maneuver to fire an orb at a creature or object within 5 as a
 - **12-16:** 7 damage; P \[average\] dazed (save ends)
 - **17+:** 11 damage; P \[strong\] dazed (save ends)
 
-**Effect:** After resolving the power roll, attacks and abilities used against the target have a `(SURGE)`, and the target has a bane on presence tests until the end of the encounter.\
+**Effect:** After resolving the power roll, attacks and abilities used against the target have a `(SURGE)`, and the target has a bane on presence tests until the end of the encounter.
+
 **Strained:** The potency of this ability increases by 1. You take 2d6 damage and attacks and abilities used against you have a `(SURGE)` until the end of the encounter.

@@ -8,10 +8,11 @@ type: ancestries
 
 # Devil
 
-“Go to hell!”\
+“Go to hell!”
+
 “You know, I have a rather interesting story about that…”
 
-The native ancestry of the Seven Cities of Hell, devils are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each devil is born with some hellmark—horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings. Hell is dominated by the Seven Cities of Hell, each ruled by a different archdevil who constantly plots and schemes against the others in the hope of ascending to the Throne of Hell.
+The native ancestry of the Seven Cities of Hell, devils are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each devil is born with some hellmark-horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings. Hell is dominated by the Seven Cities of Hell, each ruled by a different archdevil who constantly plots and schemes against the others in the hope of ascending to the Throne of Hell.
 
 Those devils who join “the trade,” as their civil service is called, spend their days in bureaucratic service hoping or scheming for promotion. Devils looking for a quick path up the bureaucratic ladder sign up for the Exchange, whereby mortals in the mundane world who perform the right rituals can summon a devil, who bargains with the supplicant on behalf of their archdevil. Archdevils can grant temporary worldly power in exchange for a supplicant's soul, with the summoned devil acting as the broker.
 
@@ -25,11 +26,11 @@ Adelard scuttled across the floor of his basement, a heavy tome clutched in one 
 
 One of the red candles suddenly guttered out, making the small room noticeably darker. “Damn and blast!” he hissed. Then he relit it from another candle.
 
-Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the candles—they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said *a skull*—it didn't even specify *a [[Human|human]] skull*! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual know if the skull was real?
+Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the candles-they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said *a skull*-it didn't even specify *a [[Human|human]] skull*! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual know if the skull was real?
 
-He was wittering, putting off the inevitable. He pulled himself together. It was either going to work, or it wasn't, and wittering wasn't going to help. He opened the book and turned the page—then began to speak the ritual.
+He was wittering, putting off the inevitable. He pulled himself together. It was either going to work, or it wasn't, and wittering wasn't going to help. He opened the book and turned the page-then began to speak the ritual.
 
-Moments later, the candles flared, there was a burst of flame, and acrid brimstone filled his nostrils. When the smoke cleared… there was a devil standing in his basement—dark purple skin, horns, even a twitching tail.
+Moments later, the candles flared, there was a burst of flame, and acrid brimstone filled his nostrils. When the smoke cleared… there was a devil standing in his basement-dark purple skin, horns, even a twitching tail.
 
 “Aha! Yes, finally.” It rubbed its hands together. “It's about time,” the creature said, pulling on the bottom of his waistcoat to straighten it. “Now then! How does it go? Oh, yes.” He cleared his throat. “On behalf of my lord, his grace Archduke Dispater, Lord of Dis, I am empowered to offer you…” But his speech fell on deaf ears.
 

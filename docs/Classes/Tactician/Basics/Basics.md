@@ -12,15 +12,18 @@ kind: basics
 
 **Starting Characteristics:** You start with a Might of 2 and a Reason of 2, and can choose one of the following arrays for your other characteristics scores:
 
-- 2, −1, −1
-- 1, 1, −1
+- 2, -1, -1
+- 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Reason score - 1\
-**Average Potency:** Reason score\
+**Weak Potency:** Reason score - 1
+
+**Average Potency:** Reason score
+
 **Strong Potency:** Reason score + 1
 
-**Starting Stamina at 1st Level:** 21\
+**Starting Stamina at 1st Level:** 21
+
 **Stamina Gained at 2nd and Higher Levels:** 12
 
 **Recoveries:** 10

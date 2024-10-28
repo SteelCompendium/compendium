@@ -24,7 +24,7 @@ The revenant null flexed his arms and assumed a fighting pose. He smiled.
 
 The dead [[Walk|walk]] among us. Some of them are happier about it than others.
 
-Unlike the necromantic rituals that produce [[Wight|wights]] and wraiths and [[Zombie|zombies]], revenants rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
+Unlike the necromantic rituals that produce [[Wight|wights]] and wraiths and [[Zombie|zombies]], revenants rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air-and, unlike their zombified cousins, they retain all their memories and personality from life.
 
 These revenants are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or Capital, where lost souls gather to make a home.
 
@@ -32,17 +32,17 @@ These revenants are rare. Many are hunted by ignorant villagers who see only the
 
 > “I'm telling you, we are being followed.”
 
-> “No one knows we're here. No one even knows this place exists! We got all day. We stash everything here, and take a sample to …” The head thief pulled a vial out of a crate stuffed with straw and looked at it.
+> “No one knows we're here. No one even knows this place exists! We got all day. We stash everything here, and take a sample to…” The head thief pulled a vial out of a crate stuffed with straw and looked at it.
 
-> “It's just …” The junior cutpurse spoke nervously. “There was this lady knight in Blackbottom sniffing around. She seemed serious. I got this weird … chill when I looked at her.”
+> “It's just…” The junior cutpurse spoke nervously. “There was this lady knight in Blackbottom sniffing around. She seemed serious. I got this weird… chill when I looked at her.”
 
-> “Hey,” the head thief said, his brow furrowed as he looked at the label on the vial. “Where'd you say you bought this stuff? You said a ship—a ship from where?”
+> “Hey,” the head thief said, his brow furrowed as he looked at the label on the vial. “Where'd you say you bought this stuff? You said a ship-a ship from where?”
 
-> “I dunno, uh … uh, Capital I think.”
+> “I dunno, uh… uh, Capital I think.”
 
 The head thief looked at the panicking cutpurse.
 
-> “This lady knight—she have a red and blue device on her shield?”
+> “This lady knight-she have a red and blue device on her shield?”
 
 > “Black gods,” one of the other thieves said. “It can't be Lady Filliamo, can it?”
 
@@ -50,11 +50,11 @@ There was a firm knock at the door to the safe house. A door which, from the out
 
 > “Oh, you've got to be kidding me.”
 
-> “Nonono! How could she … Capital was nine months ago!”
+> “Nonono! How could she… Capital was nine months ago!”
 
-> “She's a revenant, idiot! She doesn't even need air. She could have walked here! Just … into the water and across the bottom of the sea! Black gods, why didn't you say anything?”
+> “She's a revenant, idiot! She doesn't even need air. She could have walked here! Just… into the water and across the bottom of the sea! Black gods, why didn't you say anything?”
 
-> “I did! You asshole, I just did! I been trying to tell you for—”
+> “I did! You asshole, I just did! I been trying to tell you for-”
 
 > “Man, there is a difference between, ‘Hey I think we're being shadowed,' and, ‘There's a deathless copper coming after us!'”
 
@@ -62,7 +62,7 @@ One of the four thieves opened a vial and dipped his dirk into the red oil withi
 
 > “What is that gonna do? She's already dead!” Another knock at the hidden door. “Forget it. Let her knock. [[Grab]] as many as you can, and we'll go out the back.”
 
-The head thief ran for the door out the back of the safe house. He jerked it open—and the other thieves watched as a silver flash silently flared across his forehead. Through the open door, they could see the silhouette of the knight, her open hand held up in front of her.
+The head thief ran for the door out the back of the safe house. He jerked it open-and the other thieves watched as a silver flash silently flared across his forehead. Through the open door, they could see the silhouette of the knight, her open hand held up in front of her.
 
 She clenched her hand into a fist and the judgment she had placed on the head cutpurse detonated, hurling him backwards. He sprawled across the floor, conscious but stunned.
 
@@ -70,17 +70,17 @@ The gray-skinned knight walked into the room. Metal heels rang out on the wooden
 
 > “Boys,” Lady Filliamo said pleasantly. “Busy morning.”
 
-> “How did you … this is impossible, how did you find us?”
+> “How did you… this is impossible, how did you find us?”
 
 She looked at the man groaning on the floor.
 
 > “Your boss didn't tell you about the vengeance mark?”
 
-> “You marked us. Back in Capital. You marked one of us and just … just walked here.”
+> “You marked us. Back in Capital. You marked one of us and just… just walked here.”
 
-> “Don't be stupid. I marked you in Blackbottom. Capital was just normal detective work. I came here by ship.” She smiled—black lips on pale gray skin.
+> “Don't be stupid. I marked you in Blackbottom. Capital was just normal detective work. I came here by ship.” She smiled-black lips on pale gray skin.
 
-> “Come on.” The braver of the three remaining thieves drew twin daggers. “She can't get all of us at—”
+> “Come on.” The braver of the three remaining thieves drew twin daggers. “She can't get all of us at-”
 
 Lady Filliamo made a broad gesture with her right hand and argent marks flared across the foreheads of all three thieves. A clatter of weapons hitting the floor. Three pairs of hands slowly rose in the air.
 

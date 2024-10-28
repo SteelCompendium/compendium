@@ -20,7 +20,7 @@ You know how to focus the attention of your allies as you push them toward victo
 
 ## Mark
 
-You draw your allies' attention to a specific foe—with devastating effect.
+You draw your allies' attention to a specific foe-with devastating effect.
 
 |                         |                        |
 | :---------------------- | :--------------------- |

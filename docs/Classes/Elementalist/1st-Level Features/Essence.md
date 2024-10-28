@@ -18,6 +18,8 @@ When combat begins, gain essence equal to your Victories. At the start of each o
 
 ## Essence Outside Of Combat
 
-Though you can't gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect that costs essence outside of combat, you can't use that same ability or effect again outside of combat until you gain at least 1 Victory or finish a Respite.\
-If you use a persistent ability outside of combat (see Persistent Magic), you can maintain it for a number of rounds equal to your Victories outside of combat.\
+Though you can't gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect that costs essence outside of combat, you can't use that same ability or effect again outside of combat until you gain at least 1 Victory or finish a Respite.
+
+If you use a persistent ability outside of combat (see Persistent Magic), you can maintain it for a number of rounds equal to your Victories outside of combat.
+
 If you use an ability that lets you spend unlimited essence on its effect out of combat, you can use it as if you had spent an amount of essence on it equal to your Victories.

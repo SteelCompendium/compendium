@@ -19,7 +19,7 @@ target: 1 creature
 
 # Pinning Shot (7 Insight)
 
-One missile—placed well and placed hard.
+One missile-placed well and placed hard.
 
 |                                      |                        |
 | :----------------------------------- | :--------------------- |

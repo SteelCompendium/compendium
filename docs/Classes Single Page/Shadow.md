@@ -31,12 +31,18 @@ As a shadow, you have abilities that deal a lot of damage, let you move swiftly 
 - 2, 1, 0, 0
 - 1, 1, 1, 0
 
-**Weak Potency:** Agility score - 1\
-**Average Potency:** Agility score\
-**Strong Potency:** Agility score + 1\
-**Starting Stamina at 1st Level:** 18\
-**Stamina Gained at 2nd and Higher Levels:** 9\
-**Recoveries:** 8\
+**Weak Potency:** Agility score - 1
+
+**Average Potency:** Agility score
+
+**Strong Potency:** Agility score + 1
+
+**Starting Stamina at 1st Level:** 18
+
+**Stamina Gained at 2nd and Higher Levels:** 9
+
+**Recoveries:** 8
+
 **Skills:** Hide and Sneak, plus choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups.
 
 ### Shadow Advancement
@@ -53,7 +59,7 @@ As a shadow, you gain the following features.
 
 ### Shadow College
 
-Shadow colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+Shadow colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out-or are kicked out-as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
 You are one of the few who has graduated from a shadow college, chosen from the following options:
 
@@ -490,7 +496,7 @@ Why are you looking at ME?!
 
 #### Pinning Shot (7 Insight)
 
-One missile—placed well and placed hard.
+One missile-placed well and placed hard.
 
 **Power Roll + Agility:**
 

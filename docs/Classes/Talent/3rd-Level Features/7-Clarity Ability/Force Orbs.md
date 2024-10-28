@@ -27,7 +27,8 @@ target: Self
 | **Keywords:** Attack, Psionic, Ranged, Telekinesis | **Type:** Action |
 | **Distance:** Self                                 | **Target:** Self |
 
-**Effect:** You create three size 1T orb objects that orbit your body. You have a `(SHIELD)` for each orb you have active. Whenever you take damage, you lose 1 orb.\
+**Effect:** You create three size 1T orb objects that orbit your body. You have a `(SHIELD)` for each orb you have active. Whenever you take damage, you lose 1 orb.
+
 You can use a free maneuver to fire an orb at a creature or object within 5 as a ranged attack on each of your turns, losing the orb after the attack.
 
 **Power Roll + Reason:**

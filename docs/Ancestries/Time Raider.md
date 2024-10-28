@@ -15,10 +15,11 @@ target: Self or 1 ally
 
 # Time Raider
 
-> “I fear no living thing, but the time [[Raider|raiders]].”\
-> —Chief Executive Admiral Lithiri Aswandala, Commander of the HOV First Get Behind Them [[Memonek]]
+> “I fear no living thing, but the time [[Raider|raiders]].”
+>
+> -Chief Executive Admiral Lithiri Aswandala, Commander of the HOV First Get Behind Them [[Memonek]]
 
-The original servitor species of the synliiroi—evil psions with near god-like power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym “time [[Raider|raiders]]” was given to them by denizens of the lower worlds who, seeing the advanced technology they wield, concluded they must be from the future.
+The original servitor species of the synliiroi-evil psions with near god-like power-the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym “time [[Raider|raiders]]” was given to them by denizens of the lower worlds who, seeing the advanced technology they wield, concluded they must be from the future.
 
 Extraordinarily rare in Orden, the time [[Raider|raiders]] thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
 
@@ -60,9 +61,9 @@ The alien sighed.
 
 Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head smashed into the ruined column. She was [[Dazed|dazed]] but she shook it off and laughed.
 
-> “Look how easily this one is goaded!” she said. She spat out dark blue blood and turned to the peasants gathered. “You people! Why do you let yourselves be cowed by these … bits? Bits of people kludged together? Even the least of you is worth more than these.”
+> “Look how easily this one is goaded!” she said. She spat out dark blue blood and turned to the peasants gathered. “You people! Why do you let yourselves be cowed by these… bits? Bits of people kludged together? Even the least of you is worth more than these.”
 
-> “Perhaps from the air,” Flight Captain Lyria offered, and she stroked the feathers of her [[Giant Hawk|giant hawk]] mount to calm it. “I could scout the forest around the …”
+> “Perhaps from the air,” Flight Captain Lyria offered, and she stroked the feathers of her [[Giant Hawk|giant hawk]] mount to calm it. “I could scout the forest around the…”
 
 > “No!” Taxiarch Lycaon pointed a finger at the hawklord and strode toward her. “You are the elite of Ajax's winged harriers, I am his chosen brigade commander. We are not scavengers! This one,” he stabbed a gloved finger at the alien, “will come to heel, or I will give her to my war dogs.”
 
@@ -88,9 +89,9 @@ The war dogs scrambled. For a moment, it seemed they might flee at this sudden i
 
 John immediately read the situation. It was a clear enough picture.
 
-There was something about the war dogs. They loved Ajax's cruelty—reveled in it. John had crossed swords with other commanders in Ajax's army before. Ground Commander Vordokov was a professional—could be reasoned with, but he was an [[Orc|orc]].
+There was something about the war dogs. They loved Ajax's cruelty-reveled in it. John had crossed swords with other commanders in Ajax's army before. Ground Commander Vordokov was a professional-could be reasoned with, but he was an [[Orc|orc]].
 
-Not the war dogs—they were fanatics.
+Not the war dogs-they were fanatics.
 
 > “What's this?” the Taxiarch called out with a hungry grin. “Allies of the alien?” He was projecting confidence, trying to muster his wary [[Soldier|soldiers]].
 
@@ -112,7 +113,7 @@ He could feel the muscles tightening in his comrades, the whole company like a s
 
 Lycaon cocked his head at Sir John and took a few foolish steps toward the tactician. He was just out of reach. But close enough.
 
-> “I see you are a man, like Ajax. Why do you lower yourself with these … creatures?” the war dog Taxiarch looked at the elf, [[Polder|polder]], and [[Dragon Knight|dragon knight]]. “Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you,” his voice lowered almost to a whisper, “to be on the winning side for a change.”
+> “I see you are a man, like Ajax. Why do you lower yourself with these… creatures?” the war dog Taxiarch looked at the elf, [[Polder|polder]], and [[Dragon Knight|dragon knight]]. “Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you,” his voice lowered almost to a whisper, “to be on the winning side for a change.”
 
 Sir John took a deep breath, his body language changed and that was enough. Several things then happened at once, so quickly no one would later be able to say who acted first.
 
@@ -122,7 +123,7 @@ The time [[Raider|raider]]'s right upper hand shot out, as though she'd been wai
 
 From the sun's shadow cast by Taxiarch Lycaon, the [[Polder|polder]] Jackson Bootblack emerged, a rapier in each hand, and no one had seen him move from where he'd been a moment before.
 
-At the same instant, a call—a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in John's heart—the Clarion Call of the last Storm Knight!
+At the same instant, a call-a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in John's heart-the Clarion Call of the last Storm Knight!
 
 John hadn't hesitated; he'd already drawn his sword.
 
@@ -160,7 +161,7 @@ You gain one of the following abilities.
 
 ##### Concussive Slam
 
-You slam an invisible force down upon the target.
+You slam an [[Invisible Force|invisible force]] down upon the target.
 
 |                               |                            |
 | :---------------------------- | :------------------------- |

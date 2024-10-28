@@ -8,7 +8,7 @@ terrifying, monstrous enemies.
 That covers a lot! So let's get specific and talk about what this game is, and what it is not.
 
 This game will absolutely feature dungeons. Ancient underground complexes filled with ravenous undead or creeping oozes.
-But it isn't a dungeon crawler. It's not about “clearing rooms.” It's not a survival horror game where you must track
+But it isn't a dungeon crawler. It's not about "clearing rooms." It's not a survival horror game where you must track
 light and food and the weight of every object you carry.
 
 You can fight monsters in a dungeon, but the game is not about dungeons. Lots of games focus on that gameplay and do it
@@ -28,21 +28,21 @@ them really well.
 
 Our game is heroic fantasy. That's its genre. Extraordinary people fighting dragons and necromancers.
 
-But “heroic fantasy” is still a little too broad for our purposes, so we added two other keywords to explain how our
+But "heroic fantasy" is still a little too broad for our purposes, so we added two other keywords to explain how our
 game might be different from other games in this genre: *tactical* and *cinematic*.
 
-These terms are just guidelines. A vibe. But we find them useful when trying to choose between different features. “Both
-of these ideas are cool, but which is the most cinematic? The most heroic?”
+These terms are just guidelines. A vibe. But we find them useful when trying to choose between different features. "Both
+of these ideas are cool, but which is the most cinematic? The most heroic?"
 
 So let's talk about what we mean when we use these terms.
 
 ## TACTICAL
 
-Strategy is: “What are we trying to do?” Break a siege, free a prisoner, rescue a captive, steal a tome of ancient lore.
+Strategy is: "What are we trying to do?" Break a siege, free a prisoner, rescue a captive, steal a tome of ancient lore.
 Strategy is about long-term goals.
 
-Tactics is about: “How are we going to do that?” We're going to … surround them! Sneak around them! Pick them off one by
-one! Kill their leader first. Kill their priest first! “No resurrections!”
+Tactics is about: "How are we going to do that?" We're going to... surround them! Sneak around them! Pick them off one by
+one! Kill their leader first. Kill their priest first! "No resurrections!"
 
 In a tactical game, positioning matters. So our game is played on a grid. Effects and distances are measured in squares.
 This means everyone is looking at the same problem, and there is no ambiguity regarding where the heroes and villains
@@ -51,24 +51,24 @@ are in relation to each other.
 The hobgoblin troopers are setting themselves up in a line to stop our tactician and fury from getting into melee with
 the hobgoblin war mage. We can all see that happening, and can talk about what we're going to do to stop it.
 
-That means teamwork matters. That's why initiative works the way it does—to encourage the players to plan! “Okay, you
+That means teamwork matters. That's why initiative works the way it does-to encourage the players to plan! "Okay, you
 use *Concussive Slam* on that trooper, it'll push him back, and on my turn I can use *Phalanx Forward* to get us all
-into melee with the death captain.”
+into melee with the death captain."
 
 We think focusing on teamwork also makes the game more heroic! :D
 
 In a tactical game, you have many choices each round. You are never reduced to just swinging your sword. You have
 options. If we do a good job, you don't feel like you outlasted your opponents because you wore their hit points down
-before they could reduce yours to 0—you feel like you beat those hobgoblins! Through stealth and sorcery, coordination
+before they could reduce yours to 0-you feel like you beat those hobgoblins! Through stealth and sorcery, coordination
 and ferocity!
 
-As you play with the same group of characters, you learn what they can all do. You discover synergies, “combos.” Some of
+As you play with the same group of characters, you learn what they can all do. You discover synergies, "combos." Some of
 them intended by the designers, some not! You start to learn these unique characters, and rely on them to do their cool
 things. It's a great feeling when another player comes up with a cool plan that relies on your unique abilities.
 
-You learn which characters are the “squishies” who need to be protected or healed. You learn which characters can push
-themselves right to the edge and keep fighting. “Don't worry about healing Barlaca. She's our fury. She's happier with 3
-Stamina.”
+You learn which characters are the "squishies" who need to be protected or healed. You learn which characters can push
+themselves right to the edge and keep fighting. "Don't worry about healing Barlaca. She's our fury. She's happier with 3
+Stamina."
 
 Our game is not about tactics. It's not a war game. But it is tactical.
 
@@ -86,13 +86,13 @@ epic villains trying to remake the world in their image, and the dashing, unyiel
 in the face of impossible odds.
 
 So that's one component of the heroic keyword. But another component, equally important, is what kinds of things happen
-“on-screen,” so to speak. This is very closely related to the cinematic keyword.
+"on-screen," so to speak. This is very closely related to the cinematic keyword.
 
 For instance, you never see Indiana Jones having to find a local sporting goods store because he needs to stock up on
 ammo. You never see Katniss Everdeen have to stop and take a shower because she stinks.
 
 These things do happen. No one watching *[[Raider|Raiders]] of the Lost Ark* thinks that Indy's gun is magical and doesn't need
-bullets—but we just don't need to see Indy doing that stuff. We don't need to waste time on it.
+bullets-but we just don't need to see Indy doing that stuff. We don't need to waste time on it.
 
 Likewise in our game, we don't worry about stuff that heroes in fiction tend not to worry about. We don't worry how much
 everything you're carrying weighs. If you try to lift a bear, you might have trouble, sure. But nowhere on your
@@ -108,7 +108,7 @@ their adventures. Assume all the tedious stuff happens off-screen.
 ## CINEMATIC
 
 Closely tied to the heroic keyword, the cinematic keyword is about how we like powers and abilities with a strong visual
-component. You can imagine your character doing or saying these things. *“In All This Confusion”* is a good name for the
+component. You can imagine your character doing or saying these things. *"In All This Confusion"* is a good name for the
 shadow's ability to slip out of melee and retreat to safety. The text of the ability says how it works, but the name
 creates a visual that explains how it's working.
 
@@ -118,13 +118,13 @@ like an epic scene, complete with slow motion and a Carpenter Brut soundtrack.
 
 You should imagine your tactician character leading the battle, granting your allies free attacks, extra maneuvers.
 Coordinating the battle. That's what the name implies. And if we've done a good job, when you read the character's
-abilities, you think, *“Yes! This is what I was imagining! I can't wait to do this!”*
+abilities, you think, *"Yes! This is what I was imagining! I can't wait to do this!"*
 
 ## FANTASY
 
-Just … you know … it's got dragons and stuff. :D
+Just... you know... it's got dragons and stuff. :D
 
-It's worth mentioning—while everyone basically already knows what fantasy means in this context, we do imagine it a
+It's worth mentioning-while everyone basically already knows what fantasy means in this context, we do imagine it a
 little more broadly than your average classical medieval fantasy. We like that stuff! Vasloria is our medieval European
 fantasy analog with knights on horseback and wizards in towers. But we also like high fantasy urban intrigue, and so
 we're developing *Capital, the City of the Great Game, the Greatest City In This or Any Age*. Vasloria is mostly [[Human|humans]]
@@ -134,8 +134,8 @@ Looking back at movies like *Star Wars* and the work of artists like Chris Foss,
 fantastical. There's nothing scientific or even plausible about a lightsaber or a John Berkey spaceship. But damn, they
 look cool!
 
-So our setting includes the timescape—our multiverse, of which the world of Orden containing Capital and Vasloria is
-only one part. The timescape is more explicitly *“space fantasy.”*
+So our setting includes the timescape-our multiverse, of which the world of Orden containing Capital and Vasloria is
+only one part. The timescape is more explicitly *"space fantasy."*
 
 These core rules mostly cover the classic fantasy stuff. But we think Capital and the timescape will help us deliver a
 game where more people can see their fantasy in our worlds.
@@ -143,15 +143,15 @@ game where more people can see their fantasy in our worlds.
 For us, fantasy includes magic, like wizards casting spells, and psionics, the natural and focused ability some
 creatures have to manipulate and warp reality with their minds. You know, telekinesis and telepathy! Jean Grey style!
 
-## IF YOU'RE COMING FROM D20 FANTASY …
+## IF YOU'RE COMING FROM D20 FANTASY...
 
 We know many folks are coming to this game having only experienced d20 fantasy RPGs. Here are a few key distinctions
 between this game and typical d20 fantasy that you'll notice right away. These aren't the only distinctions, but they're
 the most obvious:
 
 - **Attacks automatically deal damage.** You can still have a bad turn! A tier one result is not awesome, but at least
-    you're making progress. The trick is: who's making progress faster? You or the monsters? Since there's no *“I miss,
-    next”* in this game, fights tend to be short. 5 rounds is a long fight. Because everyone's always doing damage!
+    you're making progress. The trick is: who's making progress faster? You or the monsters? Since there's no *"I miss,
+    next"* in this game, fights tend to be short. 5 rounds is a long fight. Because everyone's always doing damage!
 
 - **You don't need to rest all the time.** Most d20 fantasy games are games of attrition. Your spell slots and other
     features dwindle as the adventuring day goes on. In *Draw Steel*, you need to rest to regain your Stamina and
@@ -159,7 +159,7 @@ the most obvious:
     magic and other awesome abilities as they adventure, encouraging you to press on heroically.
 
 - **Character options are different.** We very strongly recommend you start by looking through the character creation
-    section before you decide what you want to play. You can't just assume the conduit is *“basically a cleric.”* In some
+    section before you decide what you want to play. You can't just assume the conduit is *"basically a cleric."* In some
     ways it is! But in other ways, it's very different. You may have some cool character archetype you love to play in d20
     Fantasy and you're dying to see how it works in *Draw Steel*, but you'll have a lot more fun if you start by browsing
     the Ancestries and Class sections and being inspired. Once you know how the game works, you'll have a better handle on
@@ -167,9 +167,9 @@ the most obvious:
 
 - **Smaller bonuses and penalties** *Draw Steel* is built around the roll of two ten-sided dice to produce three
     possible outcomes. On the surface, this might not seem that different from rolling a twenty-sided die and having two
-    outcomes, but we've run the math. A lot. A bonus of +1 or penalty of −2 is significant in *Draw Steel*, much more so
-    than in a typical d20 fantasy game. That means you should feel pretty good attempting most power rolls—the rolls you
-    make to determine success out of combat—if you have a decent characteristic bonus on those rolls. And if you have a
+    outcomes, but we've run the math. A lot. A bonus of +1 or penalty of -2 is significant in *Draw Steel*, much more so
+    than in a typical d20 fantasy game. That means you should feel pretty good attempting most power rolls-the rolls you
+    make to determine success out of combat-if you have a decent characteristic bonus on those rolls. And if you have a
     specific skill that applies to a power roll made as a test outside of combat, you'll do even better.
 
 - **Our game has a lot of skills.** Your character can make use of a long list of skills, but we don't expect you to
@@ -213,7 +213,7 @@ glass that goes from the door to the dais.
 in faded sigils.
 
 At some point, a player will have their hero attempt a task that has a risk of failing in a way that is narratively
-interesting. In such cases, the Director calls for some dice to be rolled! Don't worry—the rules outline when and how to
+interesting. In such cases, the Director calls for some dice to be rolled! Don't worry-the rules outline when and how to
 do this.
 
 **Grace (playing Val):** Before anyone steps on them, I want to examine the symbols and figure out what they mean.
@@ -283,9 +283,9 @@ revolution, impress a queen at a royal banquet, or cast a magic spell by singing
 
 ### CHARACTERISTIC SCORES
 
-Each characteristic has a score that runs from −5 to +5. The higher a score, the more impact the creature has with that
-characteristic. A baby bunny rabbit would have a Might score of −5, while an ancient dragon would have a Might score of
-5\. The average [[Human|human]] has a score of 0 in all their characteristics. Characteristic scores are added to power rolls—the
+Each characteristic has a score that runs from -5 to +5. The higher a score, the more impact the creature has with that
+characteristic. A baby bunny rabbit would have a Might score of -5, while an ancient dragon would have a Might score of
+5\. The average [[Human|human]] has a score of 0 in all their characteristics. Characteristic scores are added to power rolls-the
 dice rolls you make whenever your character attempts a task with an uncertain outcome (see *Power Rolls*).
 
 ### RESISTING POTENCIES
@@ -339,7 +339,7 @@ those as well.
 ### D3S
 
 On rare occasions, the rules ask a player to roll one or more three-sided dice (also called d3s). If you don't have a
-d3, you can roll a six-sided die instead, treating a roll of 1–2 as a 1, a roll of 3–4 as a 2, and a roll of 5–6 as a 3.
+d3, you can roll a six-sided die instead, treating a roll of 1-2 as a 1, a roll of 3-4 as a 2, and a roll of 5-6 as a 3.
 
 ### D100S
 
@@ -381,7 +381,7 @@ The characteristic you add depends on the kind of roll you're making, as outline
 
 #### POWER ROLL OUTCOMES
 
-The result of a power roll determines your outcome tier—three levels that determine how successful your power roll is.
+The result of a power roll determines your outcome tier-three levels that determine how successful your power roll is.
 
 - **Tier 1:** If your power roll result is 11 or lower, it is a tier 1 result. This is the worst result a power roll can
     have. If you're using an ability, a tier 1 result means you still do something, but the impact of what you do is
@@ -390,7 +390,7 @@ The result of a power roll determines your outcome tier—three levels that dete
 - **Tier 2:** If your power roll result is 12 to 16, it is a tier 2 result. This is the average result of many power
     rolls, especially for heroes who are 1st level. When using an ability, a tier 2 result means that what you do has a
     moderate impact. With this result, an attack ability deals a decent amount of damage and has an effect that briefly
-    helps allies or hinders enemies. For a test, a tier 2 result means you might succeed at what you set out to do—though
+    helps allies or hinders enemies. For a test, a tier 2 result means you might succeed at what you set out to do-though
     depending on the difficulty, success might have a cost.
 - **Tier 3:** If your power roll result is 17 or higher, it is a tier 3 result. This is the best result a power roll can
     have. When using an ability, a tier 3 result means you deliver the maximum impact possible. With this result, an
@@ -414,7 +414,7 @@ If you downgrade a critical hit, you still get the extra action benefit of the c
 #### NATURAL RESULT
 
 The result of your power roll before your characteristic or any other modifiers are applied is called the natural
-result. The rules often refer to this as “rolling a natural X,” where X is the result of the roll. For example, if you
+result. The rules often refer to this as "rolling a natural X," where X is the result of the roll. For example, if you
 get a 20 on the power roll before adding your characteristic, this is called rolling a natural 20.
 
 Whenever you roll a natural 19 or 20 on a power roll, you always achieve the tier 3 result, no matter what
@@ -473,7 +473,7 @@ harder, so a Director should absolutely do so!
 We capped edges and banes at a maximum of two each for several reasons, including thinking about the narrative of those
 penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a
 creature can only benefit or be hindered by short-term circumstances so much. For example, a character who is [[Prone|prone]] and
-[[Weakened|weakened]] by poison already finds it difficult to attack—so becoming [[Restrained|restrained]] by a net can't really make it harder.
+[[Weakened|weakened]] by poison already finds it difficult to attack-so becoming [[Restrained|restrained]] by a net can't really make it harder.
 
 We also liked capping edges and banes at two because it keeps play quick. It's nice to not need to count beyond two
 positive or negative circumstances in a battle with a lot of effects flying around.
@@ -492,7 +492,7 @@ rare except in the case of skills, which appear on your character sheet (see *Sk
 
 ## SURGE AND SHIELD SYMBOLS
 
-In the text of this book, you'll notice that we often use two symbols—🌟 and 🛡️. Surges, represented by the 🌟 icon, are
+In the text of this book, you'll notice that we often use two symbols-🌟 and 🛡️. Surges, represented by the 🌟 icon, are
 special bonuses that increase a creature's damage output. Shields, represented by the 🛡️ icon, are special bonuses that
 decrease damage being dealt to a creature. For more information, see *Damage in Combat*.
 
@@ -564,7 +564,7 @@ become [[Slowed|slowed]] (a condition that halves your speed), then your speed b
 
 ## CREATURES AND OBJECTS
 
-This game uses the terms “creature” and “object.” Creatures are living or unliving beings such as animals, elves,
+This game uses the terms "creature" and "object." Creatures are living or unliving beings such as animals, elves,
 [[Human|humans]], dragons, giants, [[Zombie|zombies]], and valok. Objects are inanimate matter such as walls, carriages, cups, swords, ropes,
 coins, paintings, columns, and buildings.
 
@@ -573,14 +573,14 @@ objects. For example, a talent can't use their *Telekinesis* power to slide an u
 temple's pit of hellfire. But if that boss dies, the talent can slide their body into the pit to prevent the boss from
 being raised as a powerful undead by the temple's magic.
 
-The game sometimes refers to “unattended objects,” which are objects that aren't held, worn, or controlled by a
+The game sometimes refers to "unattended objects," which are objects that aren't held, worn, or controlled by a
 creature. Whenever an ability affects objects, it affects only unattended objects unless the Director determines
 otherwise. Among other things, this prevents abilities from being used to damage a foe's armor, weapons, clothing, magic
 items, and so forth while those objects are worn or held.
 
 ## PCS AND NPCS
 
-Two types of characters inhabit the world of the game—the player characters (also called PCs or heroes) who are created
+Two types of characters inhabit the world of the game-the player characters (also called PCs or heroes) who are created
 and controlled by the players, and nonplayer characters (NPCs) created and controlled by the Director.
 
 NPCs can include any of the game's monsters, but when the rules refer to NPCs, they generally do so in the context of
@@ -648,7 +648,7 @@ Director's discretion, but consider the following guidelines to help you determi
     baroness or stopping a necromancer from performing a world-ending ritual), award them 1 Victory.
 - If the heroes use clever thinking to easily and surprisingly overcome or bypass a combat encounter, a negotiation, a
     montage test, a trap, a puzzle, or some other challenge that would award them 1 or more Victories in a more difficult
-    fashion, award them 1 Victory. Clever thinking is just as worthy of a Victory—if not more so!
+    fashion, award them 1 Victory. Clever thinking is just as worthy of a Victory-if not more so!
 
 At the Director's discretion, particularly hard negotiations, puzzles, mysteries, and other noncombat challenges can be
 worth 2 Victories.
@@ -673,7 +673,7 @@ Your hero's class description has more information about how to use your Heroic 
 Some players might think that quickly starting a fight with some bar patrons or carrying around a bag of rats is a good
 way to gather up those sweet, sweet Victories and Heroic Resources. Those strategies don't work! The rules of the game
 exist to help you tell a cool heroic fantasy story, not so you can try to be clever and exploit them by harming innocent
-rats to “win.” In order to generate Victories and Heroic Resources, you must face and overcome challenges worthy of a
+rats to "win." In order to generate Victories and Heroic Resources, you must face and overcome challenges worthy of a
 hero!
 
 ### RECOVERIES
@@ -715,11 +715,11 @@ a respite.
 
 ## ORDEN AND THE TIMESCAPE
 
-A new game demands new worlds! Welcome to the timescape—a collection of worlds spanning high fantasy, dark fantasy, and
+A new game demands new worlds! Welcome to the timescape-a collection of worlds spanning high fantasy, dark fantasy, and
 even space fantasy! We sincerely hope you take these rules and adapt them to your own world, or adapt your world to
 these rules, or something in between!
 
-Our tour begins on the world of Orden, the Prime Manifold—a realm of elves, [[Dwarf|dwarves]], [[Human|humans]], [[Orc|orcs]], dragons, and more.
+Our tour begins on the world of Orden, the Prime Manifold-a realm of elves, [[Dwarf|dwarves]], [[Human|humans]], [[Orc|orcs]], dragons, and more.
 But [[Human|human]] civilization and politics dominate here, especially in the great city of Capital, a hotbed of urban fantasy
 intrigue.
 
@@ -727,13 +727,13 @@ Orden contains seven major regions, the largest of which is Vasloria.
 
 ### VASLORIA
 
-A forested medieval and feudal land, Vasloria holds few cities—just towns and villages. Western Vasloria, including most
+A forested medieval and feudal land, Vasloria holds few cities-just towns and villages. Western Vasloria, including most
 of Aendrim and Corwell and parts of Graid, was until recently ruled by Good King Omund. His draconian knights, the
 Dragon Phalanx, protected the weak from the strong, dispensing justice throughout the land. But Omund died fifteen years
-ago—and so died the rule of law in Vasloria. Now, forests claim towns and roads once held safe under his rule. The woods
+ago-and so died the rule of law in Vasloria. Now, forests claim towns and roads once held safe under his rule. The woods
 are dangerous, their only law that of tooth and claw.
 
-When Omund was betrayed by Mandrake, a captain of the Dragon Phalanx, his castle fell to Ajax the Invincible—now called
+When Omund was betrayed by Mandrake, a captain of the Dragon Phalanx, his castle fell to Ajax the Invincible-now called
 the Overlord and the Iron Saint. Ajax's wizard Mortum unlocked the secret of the ancient flying cities of the sky elves
 to raise the Chrysopolis, Ajax's city-fortress in the sky.
 
@@ -748,9 +748,9 @@ plunder from their ruined home. The wode elves of the Orchid Court, lacking any 
 to bow to the Iron Saint.
 
 The [[Dwarf|dwarves]] of Kal Kalavar pay tribute in prisoners they abduct from among those foolish enough to travel the roads
-unescorted—prisoners who serve Ajax as forced labor or are fed into the Body Banks. Brooding under the [[Mountain|mountains]] in
+unescorted-prisoners who serve Ajax as forced labor or are fed into the Body Banks. Brooding under the [[Mountain|mountains]] in
 their fabled Hanging City of Kal Kalavar, the stone [[Dwarf|dwarves]] do not like this deal with the Overlord, but they lack the
-power—or perhaps the will—to rebel.
+power-or perhaps the will-to rebel.
 
 The Hawklords of the High Aerie now act as Ajax's royal guard. Mounted on their [[Giant Hawk|giant hawks]], these [[Human|human]] warriors
 project Ajax's power, enforce his tyrannical order, and extend his influence into every corner of the wilderness. Their
@@ -768,7 +768,7 @@ encroaching wilderness. Law dies. Chaos thrives.
 ### CAPITAL
 
 The Greatest City in This or Any Age! City of the Great Game! Located west across the Bale Sea from Vasloria on the
-eastern coast of Rioja, Capital is not only the largest city in Orden. It's the largest city there has ever been—larger
+eastern coast of Rioja, Capital is not only the largest city in Orden. It's the largest city there has ever been-larger
 than the fabled steel [[Dwarf|dwarf]] capital of Kalas Valiar, larger even than Alloy, the City at the Center of the Timescape.
 Capital is the exception to many rules.
 
@@ -782,7 +782,7 @@ The Great Houses, Capital's ancient noble families, reluctantly share power with
 vast wealth entitles them to rule. The members of the Great Houses are proud of their city, and believe anyone, from
 anywhere, should be able to come to Capital and earn a living, own property, expect justice. They just don't think
 anyone else should be able to rule. The guilds of the city, by contrast, are more egalitarian, more democratic, largely
-obsessed with accruing wealth—and caring little for the welfare of the city or its people.
+obsessed with accruing wealth-and caring little for the welfare of the city or its people.
 
 The Great Game is espionage, and House Alvaro are the best players in the world. Led by Duke Prospero, House Alvaro
 sponsors the Imperial University, the greatest center of learning in the world. Nobles from across Orden, including from
@@ -808,13 +808,13 @@ elaborate system of patronage.
 Arguably the most powerful Great House, House Valetta controls the city's tax collectors, known as the Arbitros Fiat.
 Valetta is led by the Duchess Lenore, who opened the Codex Mortis while in mourning for her assassinated husband Maximo,
 speaking a ritual from that ancient necromantic artifact that should have returned her love to life. Instead, she
-brought about the Lilac Night, which transformed everyone in her district into undead—including herself. The Duchess
+brought about the Lilac Night, which transformed everyone in her district into undead-including herself. The Duchess
 Lenore is now an immortal vampire queen, a dead lady ruling over a dead city.
 
 #### THE POWER OF THE GUILDS
 
 After the Lilac Night, with the city no longer able to rely on House Valetta to deliver the taxes it collected, Lady
-Shirome bought Great House status for the Fulcrum—the city's assayer's guild she controls—along with the Broadsheet
+Shirome bought Great House status for the Fulcrum-the city's assayer's guild she controls-along with the Broadsheet
 Guild and the Farrier's Guild. The Fulcrum controls the Trade Integrity Board, which sets lending rates and leads trade
 negotiations between Capital and other governments in Orden. It was that guild that convinced the late prince to switch
 the city to paper money. As a result, Capital is the first and only city in Orden to have a robust monetary policy.
@@ -860,7 +860,7 @@ to enact their will. The technology from the upper worlds does not function down
 psionic mind or the miracle mineral prismacore.
 
 Almost coterminous with Orden is its sister-plane, the World Below, the Dark Under All. This plane of exiles is ruled by
-A Lie Cloaked In Star's Silver—the Queen of Night, and the first of the Three Sisters Below. The World Below is a land
+A Lie Cloaked In Star's Silver-the Queen of Night, and the first of the Three Sisters Below. The World Below is a land
 of vast caves and sunless seas. There are no stars here, no sky, only endless caves and warrens. Some of those are vast
 enough to hold entire cities, including Or-Mazaar, the City of the Black Sun, from where the Queen of Night rules.
 
@@ -884,16 +884,16 @@ collected souls, lose their identities, and fall into that mindless state called
 
 At the center of the Abyssal Waste lies the Necropolitan Ruin, the Last City. A great city of the dead, the site is
 ruled by Khorsekef, once the Infinite Pharaoh of the desert wasteland of Khemhara, now the Ultralich. Khorsekef intends
-to return to Orden and sit once again on his throne in the grand Heliopolis at the center of Khemhara—and he has a
-plan …
+to return to Orden and sit once again on his throne in the grand Heliopolis at the center of Khemhara-and he has a
+plan...
 
 #### THE TIMESCAPE IN YOUR GAME
 
 We use the timescape and its medieval fantasy land Orden as the default setting presented in these books. Doing so makes
 it easier for us as designers to marry our design with real examples from a real (imaginary) fantasy world. We also
 think it's easier for you to take the names for places, languages, and gods, and replace them with your own. We might
-reference some hero or villain, saint or god, whose name makes you think, “Well, I don't have that in my setting.” If we
-do a good job, though, you might be inspired to say, “But that makes me think …” And being inspired is part of the fun!
+reference some hero or villain, saint or god, whose name makes you think, "Well, I don't have that in my setting." If we
+do a good job, though, you might be inspired to say, "But that makes me think..." And being inspired is part of the fun!
 
 If you're the Director, you can use as many or as few of the details of the timescape as you like. You might wish to
 create your own world within the timescape, or use a setting you've created that exists outside of the official MCDM
@@ -913,22 +913,22 @@ game.
 
 The core gameplay experience of Draw Steel takes place over 10 levels of play. At 1st level, player characters are
 already known as heroes and have the power to save their local village. By 10th level, people all over the world know
-the names of their saviors … maybe all the worlds!
+the names of their saviors... maybe all the worlds!
 
 Since this game encompasses power levels from hometown to demigods, the core experience has been divided into four
 different echelons, which indicate the types of threats the heroes take on, the stakes of their stories, and the rewards
 they receive at various levels of play.
 
-### 1ST ECHELON (LEVELS 1–3)
+### 1ST ECHELON (LEVELS 1-3)
 
 The 1st echelon of play encompasses levels 1 to 3. At this echelon, the player characters are local heroes. They save
 lost caravans, besieged villages, and overlooked neighborhoods of cities. The heroes battle bands of mortal
-humanoids—[[Dwarf|dwarves]], elves, goblins, [[Human|humans]], kobolds, [[Orc|orcs]]. They face the occasional larger monstrous threat, such as a
+humanoids-[[Dwarf|dwarves]], elves, goblins, [[Human|humans]], kobolds, [[Orc|orcs]]. They face the occasional larger monstrous threat, such as a
 [[Bredbeddle|bredbeddle]], ogre, or [[Chimera|chimera]]. These are the kinds of creatures that can threaten a small community, but rarely have
 plans for world domination or the destruction of the timescape. However, the adversaries might work for or be
 manipulated by a stronger threat as a foreshadowing of what awaits the hero at higher echelons.
 
-### 2ND ECHELON (LEVELS 4–6)
+### 2ND ECHELON (LEVELS 4-6)
 
 The 2nd echelon of play encompasses levels 4 to 6. At this echelon, heroes are now known throughout the wider region
 they serve. In Vasloria, this means that they're saving and celebrated by an entire country. In Capital, their
@@ -940,7 +940,7 @@ bosses they face possess cunning and ambition as great as their terrible power, 
 this level also face the humanoid threats of earlier levels, but these foes are their villainous counterparts of equal
 power instead of bands of ruffians or marauding armies.
 
-### 3RD ECHELON (LEVELS 7–9)
+### 3RD ECHELON (LEVELS 7-9)
 
 The 3rd echelon of play encompasses levels 7 to 9. At this echelon, heroes are saving and known throughout the setting
 where they serve. Most folks in Vasloria, Capital, or the timescape itself know of the heroes and are grateful for their
@@ -954,7 +954,7 @@ saving the entire timescape from threats like liches, powerful dragons, and Ajax
 
 # MAKING A HERO
 
-If you're not the Director, then you create and play one of the main characters in the game's story—a hero. Your hero is
+If you're not the Director, then you create and play one of the main characters in the game's story-a hero. Your hero is
 a person motivated to fight forces of evil to protect the innocent, but each hero has their own personal reason for
 doing so. You don't have to be a pure beacon of good. Heroes have flaws and are complex, just like people in the real
 world. But your hero should be someone who isn't afraid to battle monsters for altruistic reasons. If you're only
@@ -970,7 +970,7 @@ Getting together with your friends to make characters can be a lot of fun. Many 
 talking about the campaign's story, making heroes, and going over expectations for the game. It's a great way to kick
 off a long-term campaign.
 
-The Director should make an agenda for a campaign's first session—often called “session zero”—which can include any of
+The Director should make an agenda for a campaign's first session-often called "session zero"-which can include any of
 the following items:
 
 - The Director and players talk about the safety tools they want to employ at the game table (whether physical or
@@ -984,7 +984,7 @@ the following items:
     [[Time Raider|time raiders]], or those ancestries might be exceedingly rare, leading heroes with those ancestries to get a lot of
     questions from curious NPCs.
 - The players get a chance to tell the Director what they would like to see in the campaign. This can include anything
-    from “I'd love to play out some chase scenes!” to “I want to explore themes of loss and grief.” These wishes should be
+    from "I'd love to play out some chase scenes!" to "I want to explore themes of loss and grief." These wishes should be
     starting points for a conversation. If not all players are comfortable with certain themes or content requested by
     other players, then session zero is a great time to discuss that and come to a consensus about what everyone wants out
     of the game.
@@ -993,7 +993,7 @@ the following items:
     tactically dominant party both in and out of combat.
 - The Director runs an encounter to kick off the campaign. If all the players have the time, it's totally worth it to
     get some play in during the first session, even if it's just a quick brawl in a tavern with some cultists! Giving the
-    players a little action lets them see what the game is all about—and leaves them excited for the next session.
+    players a little action lets them see what the game is all about-and leaves them excited for the next session.
 
 ## STEP-BY-STEP HERO MAKING
 
@@ -1002,8 +1002,8 @@ approach making your first hero for Draw Steel. That said, the order of the step
 fast rule.
 
 Many players like to build a hero from the backstory up, making ancestry and culture ideal first choices. However, some
-players like to start more in the present, choosing an inciting incident and a class—the choices with the most potential
-impact on what your character can do in the game—and then going back and figuring out where their hero came from.
+players like to start more in the present, choosing an inciting incident and a class-the choices with the most potential
+impact on what your character can do in the game-and then going back and figuring out where their hero came from.
 There's no wrong way to do it!
 
 You'll want a character sheet to fill out while you make your hero.
@@ -1031,12 +1031,12 @@ will help you defeat your foes. It's only when that personal ambition becomes mo
 it becomes a problem. But if you share your character's ambitions with your Director, they can weave those desires in
 with the narrative. Character creation is a great time to do this.
 
-As the story evolves, your hero's ambitions could change. That's not a bad thing—dynamic characters are awesome. If they
+As the story evolves, your hero's ambitions could change. That's not a bad thing-dynamic characters are awesome. If they
 do, make sure you have a conversation with your Director about it, so they can plan accordingly.
 
 ### 2. ANCESTRY
 
-Choose your hero's humanoid ancestry from among the range of ancestries available in the game—[[Devil|devil]], [[Dragon Knight|dragon knight]],
+Choose your hero's humanoid ancestry from among the range of ancestries available in the game-[[Devil|devil]], [[Dragon Knight|dragon knight]],
 [[Dwarf|dwarf]], [[Hakaan|hakaan]], high elf, [[Human|human]], [[Memonek|memonek]], [[Orc|orc]], [[Polder|polder]], [[Revenant|revenant]], [[Time Raider|time raider]], or wode elf. Future supplements will
 introduce additional ancestries you can choose from. See Ancestries for more information.
 
@@ -1165,8 +1165,8 @@ different skill from the same skill group. See Skills for more information.
 
 ## CHANGING CHARACTER OPTIONS
 
-If you pick a skill, ability, class, or any other option that you end up not liking after using it in the game—even your
-character's ancestry—you can always freely change that option between game sessions. If you want to change an option
+If you pick a skill, ability, class, or any other option that you end up not liking after using it in the game-even your
+character's ancestry-you can always freely change that option between game sessions. If you want to change an option
 during a session, ask your Director. If they say it's fine to swap that option out for something else, go for it.
 
 ## HEROIC ADVANCEMENT
@@ -1183,15 +1183,15 @@ cumulative.
 
 | XP      | Level |
 | ------- | ----- |
-| 0–9     | 1     |
-| 10–24   | 2     |
-| 25–39   | 3     |
-| 40–54   | 4     |
-| 55–69   | 5     |
-| 70–84   | 6     |
-| 85–99   | 7     |
-| 100–114 | 8     |
-| 115–129 | 9     |
+| 0-9     | 1     |
+| 10-24   | 2     |
+| 25-39   | 3     |
+| 40-54   | 4     |
+| 55-69   | 5     |
+| 70-84   | 6     |
+| 85-99   | 7     |
+| 100-114 | 8     |
+| 115-129 | 9     |
 | 130+    | 10    |
 
 ### ALTERNATIVE ADVANCEMENT
@@ -1207,15 +1207,15 @@ customized pace for XP-based advancement.
 
 | Level | XP for Double Speed | XP for Half Speed |
 | ----- | ------------------- | ----------------- |
-| 1     | 0–4                 | 0–19              |
-| 2     | 5–12                | 20–49             |
-| 3     | 13–20               | 50–79             |
-| 4     | 21–28               | 80–109            |
-| 5     | 29–36               | 110–139           |
-| 6     | 37–43               | 140–169           |
-| 7     | 44–51               | 170–199           |
-| 8     | 52–58               | 200–229           |
-| 9     | 59–65               | 230–259           |
+| 1     | 0-4                 | 0-19              |
+| 2     | 5-12                | 20-49             |
+| 3     | 13-20               | 50-79             |
+| 4     | 21-28               | 80-109            |
+| 5     | 29-36               | 110-139           |
+| 6     | 37-43               | 140-169           |
+| 7     | 44-51               | 170-199           |
+| 8     | 52-58               | 200-229           |
+| 9     | 59-65               | 230-259           |
 | 10    | 66+                 | 260+              |
 
 #### MILESTONE
@@ -1238,7 +1238,7 @@ for the story.
 
 # ANCESTRIES
 
-Fantastic peoples inhabit the worlds of Draw Steel. Among them are [[Devil|devils]], [[Dwarf|dwarves]], elves, [[Time Raider|time raiders]]—even [[Human|humans]] with
+Fantastic peoples inhabit the worlds of Draw Steel. Among them are [[Devil|devils]], [[Dwarf|dwarves]], elves, [[Time Raider|time raiders]]-even [[Human|humans]] with
 their ability to sense the supernatural. Your hero is one of these folks! The fantastic ancestry you choose bestows
 benefits that come from your anatomy and physiology. This choice doesn't grant you cultural benefits, like crafting or
 lore skills. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a
@@ -1251,7 +1251,7 @@ an underground city of [[Dwarf|dwarves]], [[Human|humans]], and [[Orc|orcs]], yo
 ## ON THE ORIGIN OF SPECIES
 
 Orden is a fantasy world. It works on principles similar to those many people throughout history believed governed the
-real world. “I dunno, a god did it probably.” [[Human|Humans]], elves, [[Orc|orcs]], [[Dwarf|dwarves]], dragons, all have creator gods—the elder
+real world. "I dunno, a god did it probably." [[Human|Humans]], elves, [[Orc|orcs]], [[Dwarf|dwarves]], dragons, all have creator gods-the elder
 gods, four of whom made the world for some reason. Maybe they were bored.
 
 The fashion among those gods for creating new, intelligent, species petered out after the [[Orc|orcs]]. Once [[Human|humans]] came along
@@ -1295,8 +1295,8 @@ didn't create anything. They just gave these cute, clever, frog-things a little 
 there are angualotls walking around having conversations with each other, wondering when someone will invent a fabric
 that doesn't get moldy in the swamp.
 
-This also carries serious ethical repercussions! “You didn't create angulotls! You screwed up some perfectly good frogs!
-Look at them, you gave them anxiety!”
+This also carries serious ethical repercussions! "You didn't create angulotls! You screwed up some perfectly good frogs!
+Look at them, you gave them anxiety!"
 
 This is only how it works on Orden. You may have completely different explanations for why there are several different
 intelligent species walking around in your world. Or no explanation! Or competing and irreconcilable theories on the
@@ -1329,11 +1329,12 @@ ancestry points budget for the [[Devil|devil]].
 
 ## DEVIL
 
-"Go to hell!"\
+"Go to hell!"
+
 "You know, I have a rather interesting story about that..."
 
 The native ancestry of the Seven Cities of Hell, [[Devil|devils]] are humanoids with red or blue skin expressed in a wide variety
-of hues, from bright crimson to deep purple. Each [[Devil|devil]] is born with some hellmark—horns, a tail, cloven hooves, a
+of hues, from bright crimson to deep purple. Each [[Devil|devil]] is born with some hellmark-horns, a tail, cloven hooves, a
 forked tongue, fanged incisors, or even wings. Hell is dominated by the Seven Cities of Hell, each ruled by a different
 archdevil who constantly plots and schemes against the others in the hope of ascending to the Throne of Hell.
 
@@ -1360,15 +1361,15 @@ One of the red candles suddenly guttered out, making the small room noticeably d
 he relit it from another candle.
 
 Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the
-candles—they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said *a skull*—it
+candles-they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said *a skull*-it
 didn't even specify *a [[Human|human]] skull*! Did it matter if it was real? It was probably real. What kind of market was there
 for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual know if the skull was real?
 
 He was wittering, putting off the inevitable. He pulled himself together. It was either going to work, or it wasn't, and
-wittering wasn't going to help. He opened the book and turned the page—then began to speak the ritual.
+wittering wasn't going to help. He opened the book and turned the page-then began to speak the ritual.
 
 Moments later, the candles flared, there was a burst of flame, and acrid brimstone filled his nostrils. When the smoke
-cleared... there was a [[Devil|devil]] standing in his basement—dark purple skin, horns, even a twitching tail.
+cleared... there was a [[Devil|devil]] standing in his basement-dark purple skin, horns, even a twitching tail.
 
 "Aha! Yes, finally." It rubbed its hands together. "It's about time," the creature said, pulling on the bottom of his
 waistcoat to straighten it. "Now then! How does it go? Oh, yes." He cleared his throat. "On behalf of my lord, his grace
@@ -1535,8 +1536,8 @@ everyone's afraid all the time.
 
 "I think things are going to get a lot worse before they get better."
 
-The Ritual of Dracogenesis that grants the power to create a generation of dragon knights—also known as draconians or
-wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of
+The Ritual of Dracogenesis that grants the power to create a generation of dragon knights-also known as draconians or
+wyrmwights-is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of
 draconians in Khemhara, Higara, and Khorshir attest to this. Descendants of original generations created millennia ago
 by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few
 generations, these draconians begin to show new adaptations like feathers or frilled ridges.
@@ -1563,7 +1564,7 @@ A tall, broad draconian stepped into the light. He was old, his scales battle-sc
 pommel of a mace that hung from a loop on his belt, while the other carried his shield by a strap. His flat,
 expressionless look was more terrifying than any threatening glower.
 
-The three human bandits took a step back. One of the dwarves just sneered—then, sensing his human compatriot's
+The three human bandits took a step back. One of the dwarves just sneered-then, sensing his human compatriot's
 reluctance, turned to look at them. "What's this?" the lead dwarf growled.
 
 "Don't be cowards now!" the other dwarf said, a hint of joy in his voice. "Look what a prize we have caught!"
@@ -1606,7 +1607,7 @@ The man scurried around to stand in front of the draconian, blocking his way. He
 his breast. "I'm sorry sir, but there ain't no one else. And there's this new tax, you see, from the new baron. And a
 priest says he's of Saint Ajax."
 
-The knight bared his impressive teeth, ready to scare Jago and the other two away—when someone else spoke.
+The knight bared his impressive teeth, ready to scare Jago and the other two away-when someone else spoke.
 
 "You might want to hear 'em out, Vaant," said a voice from the table the three peasants had been sitting at.
 
@@ -1648,16 +1649,16 @@ silence.
 Vaantikalisax said nothing. The inn had mostly gone back to its business but the three peasants watched intently.
 Eventually, the dragon knight spoke again, his voice low.
 
-"I owe you a lot, John—but not everything."
+"I owe you a lot, John-but not everything."
 
 "I'm not asking everything."
 
 "No, that's not how it starts. But I have this feeling that's how it'll end."
 
-"What does your oath say? 'Even should the sun stop in the sky, even should the night—'"
+"What does your oath say? 'Even should the sun stop in the sky, even should the night-'"
 
 "John," the dragon knight said, his voice suddenly sad. Exasperated. "You don't want to quote my oath to me. You really
-don't. I liked serving with you. I have fond memories of that time—of you. Don't spoil it." He looked at his friend, the
+don't. I liked serving with you. I have fond memories of that time-of you. Don't spoil it." He looked at his friend, the
 three peasants, then shook his head and turned to leave the inn.
 
 "Vaant," Sir John said, following. "Sir Vaantikalisax, by your oath!"
@@ -1672,7 +1673,7 @@ oath... fail."
 
 "Vaant... Vaant, the Dragon Phalanx didn't fail. You were betrayed. It was Mandrake! One of your own, don't you get it?
 You're just as fallible as the rest of us. You were never 'incorruptible.' It's just what we wanted to believe. You're
-just people—like the rest of us."
+just people-like the rest of us."
 
 The dragon knight looked at the people around him, at the three peasants desperate for someone, anyone, to help them.
 Then he looked back to his friend.
@@ -1700,17 +1701,27 @@ guard against the blow, reducing any damage from the attack by an amount equal t
 ##### Remember Your Oath (Costs 1 point)
 
 As a maneuver, you can recite the following oath. If you do, you succeed on saving throws when you roll a 4 or higher
-until the start of your next turn:\
-*Even should the sun stop in the sky*\
-*Even should the night last a thousand years*\
-*I will stand forever*\
-*I shall not yield*\
-*Those who suffer and yearn for justice*\
-*I am your sword and shield*\
-*I will yield no ground*\
-*I will speak no lies*\
-*I will stand against all tyrants*\
-*Until the last villain dies*
+until the start of your next turn:
+
+> *Even should the sun stop in the sky*
+>
+> *Even should the night last a thousand years*
+>
+> *I will stand forever*
+>
+> *I shall not yield*
+>
+> *Those who suffer and yearn for justice*
+>
+> *I am your sword and shield*
+>
+> *I will yield no ground*
+>
+> *I will speak no lies*
+>
+> *I will stand against all tyrants*
+>
+> *Until the last villain dies*
 
 ##### Draconian Pride (Costs 2 points)
 
@@ -1754,61 +1765,64 @@ You expel energy to damage your foes.
 
 ##### WINGS (COSTS 2 POINTS)
 
-You possess wings powerful enough to take you airborne.\
+You possess wings powerful enough to take you airborne.
+
 As a maneuver, you can switch between walking and flying when you are touching the ground, or vice versa when you are
 within 1 square of the ground. While flying, your stability drops to 0 and you have damage weakness 5. While using your
 wings to fly, you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall prone.
 
 ## DWARF
 
-"Remember, we are dwarves. Our strength is the strength of the earth. The strength of the marble column that rises to
-the heavens. The strength of the granite foundation that reaches deep into the ground. But what is the value of strength
-if it is not used in service of justice?"\
-—Zarok the Lawgiver, Hero, Dwarves 232
+> "Remember, we are dwarves. Our strength is the strength of the earth. The strength of the marble column that rises to
+> the heavens. The strength of the granite foundation that reaches deep into the ground. But what is the value of strength
+> if it is not used in service of justice?"
+>
+> -Zarok the Lawgiver, Hero, Dwarves 232
 
-Possessed of a strength that belies their size, dwarves have flesh infused with stone—a silico-organic hybrid making
+Possessed of a strength that belies their size, dwarves have flesh infused with stone-a silico-organic hybrid making
 them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists
 thanks to the lore they inherited from their elder siblings, the long-extinct steel dwarves.
 
-Dwarves are the children of the elder god Ord, and a common phrase among dwarves is “Ord made the world”—their way of
-saying, “What will be, will be.” They take great pride in knowing that along with Aan, Eth, and Kul, their god created
+Dwarves are the children of the elder god Ord, and a common phrase among dwarves is "Ord made the world"-their way of
+saying, "What will be, will be." They take great pride in knowing that along with Aan, Eth, and Kul, their god created
 the mundane world, and many dwarves leave their homes to see the world and seek glory in Ord's name.
 
 ### ON DWARVES
 
-There's nothing a team of dwarves can't do! Five dwarves alone can easily kill a dragon. Ten dragons!\
+There's nothing a team of dwarves can't do! Five dwarves alone can easily kill a dragon. Ten dragons!
+
 Why, Vorka the Fell-Handed alone slew five dragons at the Siege of Var Loska before succumbing to her wounds. One dwarf!
-Think what a small, dedicated party of dwarves could do! There aren't many of the great dragons left, alas, so we must…
+Think what a small, dedicated party of dwarves could do! There aren't many of the great dragons left, alas, so we must...
 I mean, dwarves must content themselves with fighting lesser evils. Necromancers, tyrants. Folks who cheat at dice.
 
 Dwarves take the long view. Well, so do elves, but elves seem more interested in preserving things. Dwarves want to make
-things! Improve the world! “The world is fine the way it is…” Shut up! No it's not! The world is full of pain, misery,
+things! Improve the world! "The world is fine the way it is..." Shut up! No it's not! The world is full of pain, misery,
 injustice. We cannot make a perfect world, but we can strive to improve the one we've got!
 
 Anyway. Humans make too much of this so-called rivalry between dwarves and elves. Yes, it was an elf army that slew the
 last steel dwarves in the War Against Night, but that was tens of thousands of years ago. And anyway, those were the
 shadow elves, long banished to the World Below. And none now live who remember those days.
 
-The steel dwarves—the greatest of us—are dead now, and our cousins the fire dwarves left this world for Quintessence
+The steel dwarves-the greatest of us-are dead now, and our cousins the fire dwarves left this world for Quintessence
 long ago. There they built Alloy, the City of Brass, the City at the Center of the Timescape. A marvel! Not so large as
-Capital, perhaps, but not so… fragrant either.
+Capital, perhaps, but not so... fragrant either.
 
 It is left to us, the stone dwarves, the Last Children of Ord, to work stone, create great marvels with it. Our greatest
 days are not behind us! Who speaks thus!? Have we not been to the Hanging City of Kal Kalavar together? Will you ever
 forget that place? I will not should I live to be a thousand, and neither will you. And it was finished in my lifetime.
 Only three hundred years ago! It's brand new!
 
-Elven rivalry. Pagh! Did we not name the most precious metal in the earth “valiar” after their god Val? Val is a noble
+Elven rivalry. Pagh! Did we not name the most precious metal in the earth "valiar" after their god Val? Val is a noble
 god, a worthy patron of the elves. He seeks justice and glory in his own way, we deem. Were one to choose the path of
 the conduit, you could pick worse gods than Val to serve.
 
-It is the humans who make so much of rivalries between the ancestries. It was the humans who called us “dwarves.” We do
+It is the humans who make so much of rivalries between the ancestries. It was the humans who called us "dwarves." We do
 not know the significance of this word in their tongue, but we accept it. Their speech is crude, true, but they are a
-young species after all. We must not judge them too harshly. “Elemental” would be a faithful translation of our word for
+young species after all. We must not judge them too harshly. "Elemental" would be a faithful translation of our word for
 ourselves into the Caelian tongue.
 
-Ah, the record of dwarven achievement is long… too long to tell in so short a space. And it is not seemly to compare
-ourselves so. This entry spends many words on elves and…
+Ah, the record of dwarven achievement is long... too long to tell in so short a space. And it is not seemly to compare
+ourselves so. This entry spends many words on elves and...
 
 *This is what happens when you let a dwarven troubadour write the dwarf entry.*
 
@@ -1881,14 +1895,21 @@ additional 3 each time you gain a new level.
 
 ## ELF, WODE
 
-*See you the wood so dark and deep,\
-Where runs the fox and hare?\
-You know now why your mother weeps.\
-Your father's bones lie there.\
-See you the river clear and sweet\
-So beautiful and fair?\
-Follow it in and you may meet\
-The Queen of Dark and Air*
+> See you the wood so dark and deep,
+>
+> Where runs the fox and hare?
+>
+> You know now why your mother weeps.
+>
+> Your father's bones lie there.
+>
+> See you the river clear and sweet
+>
+> So beautiful and fair?
+>
+> Follow it in and you may meet
+>
+> The Queen of Dark and Air
 
 Children of the sylvan celestials and masters of the elf-haunted forests called wodes, wode elves see all forests as
 their domain by birthright. They know and enjoy their reputation among humans for snatching children who wander too far
@@ -1924,7 +1945,7 @@ The elves were tall, taller than an adult human, but seemed always to crouch as 
 were unsettling, widely spaced, and huge. But it was their ears, long and tall and twisting and set with great scoops to
 catch all sound, that marked them as elves of the wode.
 
-"Admittedly, though, most terrans regret the experience." The voice they had heard called out again—from above. The
+"Admittedly, though, most terrans regret the experience." The voice they had heard called out again-from above. The
 children looked up and now saw a wode elf with long, furry, twisting ears and nut-brown skin smiling down at them. They
 were wearing a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until
 finally landing with a flourish on the forest floor before them.
@@ -1948,12 +1969,12 @@ arrow from the young man's bow.
 "Nothing happens within the wode without our knowledge," the elf said. Dade spun on him and nocked another arrow. "And
 approval," Rhythylthin added, closing his hand and snapping the arrow in it.
 
-"You come bearing a gift for our queen—the Codex Dryadalis." Llyander nodded at the heavy scroll Meliora carried. "My
+"You come bearing a gift for our queen-the Codex Dryadalis." Llyander nodded at the heavy scroll Meliora carried. "My
 cousin Rhythylthin here was sent to capture you and escort you to the Orchid Court. But I am the queen's consort, and
 have my own thoughts on the matter." The elf smiled at the children. "But have no fear," they said. Their Vaslorian was
-perfect, their voice a song. "You are safe … now." The pause before "now" spoke volumes.
+perfect, their voice a song. "You are safe... now." The pause before "now" spoke volumes.
 
-"Are you a … a … boy or a girl?" Wenna asked.
+"Are you a... a... boy or a girl?" Wenna asked.
 
 Llyander smiled gaily. "I am a song! I contain melodies and harmonies alike," they said. Wenna smiled. Rhythylthin
 rolled his eyes. Llyander noticed this and winked at him. "Fashions change. My cousin here wears the new trends." They
@@ -1970,18 +1991,18 @@ turned and flowed into the wode. In only a few steps, they melded into the trees
 
 "Hmm? Do what?" Llyander asked, looking after the elves, wondering what Meliora meant.
 
-"Just … disappear like that!"
+"Just... disappear like that!"
 
 Llyander looked at the other children with a combination of wonder and annoyance. "Do terran children not play hiding
 games?"
 
-"Well …" Jeremy looked at Dade, who was no help. "We do, but …"
+"Well..." Jeremy looked at Dade, who was no help. "We do, but..."
 
 Llyander made a theatrical, dismissive gesture with one arm. "Well, it is the same thing, then. But for our people, it
 is a game we practice all our lives! We would be poor protectors of the wode if we could not conceal ourselves within
 it."
 
-"But that was …" Meliora was frustrated at the elf's seeming evasion. "That was magic!"
+"But that was..." Meliora was frustrated at the elf's seeming evasion. "That was magic!"
 
 "You say? Well," Llyander mused, "terrans are a part and apart, it is said. It is your blessing and your curse methinks.
 Perhaps someday you can explain it to me!" The elf's eyes twinkled at Meliora's frustration.
@@ -1991,7 +2012,7 @@ Llyander turned and marched off. "Come!" they called. The children ran to catch 
 "Where are we going?" Wenna asked.
 
 "I enjoy the favor of Lord Tear," Llyander said. "We are old friends. With me as your guide, he will treat you
-well—likely bestow favor upon you! You should be in anticipation of great treasure." They smiled.
+well-likely bestow favor upon you! You should be in anticipation of great treasure." They smiled.
 
 The elf stopped suddenly and spun toward them, serious but kindly. They pointed to each of the children in turn. "I will
 instruct you on the proper etiquette, but remember this: Lord Tear will test us. Some tests for you and some for me. The
@@ -2054,7 +2075,7 @@ Thorny vines erupt into existence and attempt to bind your foe.
 ## ELF, HIGH
 
 "Ajax has a kind of crude style, perhaps, but no taste. I have no objection to a villain, you understand. The world is a
-tale, but a tale is only as good as its villain. And Ajax is so … artless. We deserve a better villain."
+tale, but a tale is only as good as its villain. And Ajax is so... artless. We deserve a better villain."
 
 Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, the high elves
 remember a better age, before the coming of humans and war. A time when the celestials were still in the world, and all
@@ -2062,7 +2083,7 @@ that mattered was art and beauty.
 
 In the millennia since their creators retired to Arcadia, the high elves built a civilization for themselves, primarily
 living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did
-before—collecting lore and knowledge, worshiping art, and turning more inward and distrusting of outsiders with each
+before-collecting lore and knowledge, worshiping art, and turning more inward and distrusting of outsiders with each
 generation.
 
 ### ON HIGH ELVES
@@ -2077,7 +2098,7 @@ Dryadalis in his lap. He had not spoken since Llyander made their speech and han
 court, nobles and courtiers and learned sages, gathered to watch. Implacable warriors in golden plate with fine filigree
 etched into the metal stood guard around the perimeter. They bristled with weapons.
 
-"They seem like …" Meliora said, searching for the words.
+"They seem like..." Meliora said, searching for the words.
 
 "Like the lords of all the world," Wenna said with awe and wonder.
 
@@ -2102,7 +2123,7 @@ The king tapped the scroll against his lap, seeming to have reached a decision.
 "Well done, consort. Young humans, your escort here seeks to shame me. For they know well they could have taken this
 prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they
 deliver me the power necessary to throw off the yoke of Ajax's rule. Long has Llyander resented the decision I made and
-sought to change it …"—he looked at Llyander—"… by changing my mind."
+sought to change it..."-he looked at Llyander-"... by changing my mind."
 
 Llyander nodded deferentially, silently congratulating the king on his insight.
 
@@ -2148,7 +2169,7 @@ and attractive in another? That is what you see in them. If you value good humor
 they are breathtaking. If you find intelligence attractive, they are sages. It is not just an effect of appearance,
 though it is also that. It is one of demeanor."
 
-"But how do they do …"
+"But how do they do..."
 
 Llyander put a finger to their lips, silencing young Meliora. "It is not a thing they do. It is an effect in your mind."
 
@@ -2211,10 +2232,10 @@ She was a different person in a fight.
 "COME FORTH, SONS OF ORD!" the hakaan metamorph bellowed as Ajax's dwarven legion advanced. "AND MEET A BETTER WOMAN
 THAN THEE!!"
 
-"You … you know when you're going to die?"
+"You... you know when you're going to die?"
 
-The Pillar, dressed in her civilian clothing—a simple pleated dress cinched at the waist that left her bare arms free to
-work—dipped her hand in the pail of water. It immediately sprang to life, the water sizzled and danced as her fingers
+The Pillar, dressed in her civilian clothing-a simple pleated dress cinched at the waist that left her bare arms free to
+work-dipped her hand in the pail of water. It immediately sprang to life, the water sizzled and danced as her fingers
 cooled. She pulled her hand out, shook off the water, and went back to sculpting the granite.
 
 The hard, tough stone melded like clay under her fingers. Whatever she was doing, it generated enormous heat in her
@@ -2222,31 +2243,31 @@ fingertips, hence the pails of water beside her. The Arrow couldn't tell if this
 her people could do, or neither. As he watched, he realized he recognized the bust. It was the girl they rescued during
 the Society's recent battle with the Academy. (See last ish. -MC.)
 
-"Not exactly," the Pillar said as she concentrated on her art. "Not when. More sort of …" She looked away from her
-sculpture and looked out the window, thinking. "How. Why. I am told there is a sense of …" She looked at the young man,
+"Not exactly," the Pillar said as she concentrated on her art. "Not when. More sort of..." She looked away from her
+sculpture and looked out the window, thinking. "How. Why. I am told there is a sense of..." She looked at the young man,
 a teenager, only recently recruited to the Society. "Anticipation. Eagerness when the time is nigh. So," she took in a
 deep breath, which was an impressive sight to see in a 9-foot-tall woman, and let it out, smiling at the young man. "Not
 anytime soon." Her smile was like a sunrise.
 
 Though he had lived with fear most of his young life, mortality was not something that plagued the Arrow's mind. He had
-a hard time grasping it. "That must be … awful."
+a hard time grasping it. "That must be... awful."
 
-"Oh no," she went back to her work. "No it's … I do not know how to say it in Caelian. It is a blessing. I have seen
-people die for no reason. Be taken from their loved ones without warning, without … without purpose. There are unjust
+"Oh no," she went back to her work. "No it's... I do not know how to say it in Caelian. It is a blessing. I have seen
+people die for no reason. Be taken from their loved ones without warning, without... without purpose. There are unjust
 deaths. They destroy families. Communities.
 
 "But the doomsight only comes in time of great need. People forget Holkatya is also the goddess of luck, and those who
-beat luck—under … underdogs, as you say. She gave more than she stole, I sometimes think.
+beat luck-under... underdogs, as you say. She gave more than she stole, I sometimes think.
 
 "I do not know how long I have. No one does, but I know my death will have meaning. I know it, do you understand? I know
-it like I know my own name. Often I feel …" Her great hands clenched and unclenched, as though she were trying to grasp
+it like I know my own name. Often I feel..." Her great hands clenched and unclenched, as though she were trying to grasp
 something just out of reach. "I yearn for it. I want it to happen. What greater end can there be than fulfilling one's
 destiny?" She looked at the mostly-finished sculpture. "It gives everything I do a sense of purpose." She went back to
 work.
 
 "My people are a serene and peaceful lot. We do not seek glory like the folk of Vanigar. But, in battle sometimes,
 knowing I am getting closer to my wyrd, my destiny, I think I know how they feel. Something comes over me, some enormous
-sense of … of rightness." She smiled again at the young man. "It scares my friends sometimes, I know."
+sense of... of rightness." She smiled again at the young man. "It scares my friends sometimes, I know."
 
 The Arrow had seen it, and enthusiastically agreed.
 
@@ -2282,7 +2303,7 @@ The Pillar looked at the Arrow out of the corner of her eye. "You'll see," she s
 
 "It's bad luck?"
 
-"Mmmm … you would say maybe. I think … rude is closer, but the doomsight is rarely clear in any event. It is full of
+"Mmmm... you would say maybe. I think... rude is closer, but the doomsight is rarely clear in any event. It is full of
 symbolism and metaphor. My father is the shaa'er of our tribe. The skald as the Vanigair call it. He thought the
 symbolism was a kind of protection. So that I might know with certainty the meaning, but be unable to clearly convey it
 to others." She nodded. "I think he is right."
@@ -2290,7 +2311,7 @@ to others." She nodded. "I think he is right."
 "Is it like a dream or a nightmare?" The Arrow wasn't sure how much it was okay to ask.
 
 "No, it was not a dream, it was a thing that happened." She turned to face the Arrow and leaned her massive arms on her
-legs. "I know not how it is for other doomseekers, but this is how it was for me. I was collecting flecks of jasper, a …
+legs. "I know not how it is for other doomseekers, but this is how it was for me. I was collecting flecks of jasper, a...
 a mineral we add to our food. I was picking flakes of rock up off the ground when I saw a bee that could not fly and a
 horde of ants all around, one with wings. In that moment, that was all that I could see. It was like the rest of the
 world fell away, and the bee and the ants filled my sight. Though the bee was surrounded and the ants seemed to go on
@@ -2308,7 +2329,7 @@ had to leave home."
 "Wow."
 
 "Indeed. Its meaning is clear to me. I stand alone against the endless horde. In my heart, they are Ajax's war dogs. I
-think I know this, but …" She shrugged again.
+think I know this, but..." She shrugged again.
 
 "But how come you're alone? Where am I? Where's the Society?"
 
@@ -2324,10 +2345,10 @@ little finger is like a mighty wall for the bee. I sought only to protect it fro
 onto my finger, and after I stood up, it cleaned itself and flew away."
 
 "It could fly!" the Arrow said, suddenly full of youthful exuberance. "It could fly the entire time! It was just
-waiting … for someone else to come along."
+waiting... for someone else to come along."
 
 The Arrow stared, wide-eyed at the Pillar. Even before the young man spoke, the hakaan talent's eyes widened in
-realization. "My vision …" she said.
+realization. "My vision..." she said.
 
 "Wasn't over!" the Arrow said, his joy impossible to hide.
 
@@ -2370,7 +2391,7 @@ falls. You then die immediately at the end of the encounter.
 If you don't predetermine your death encounter, you can choose to become doomed while you are dying with the
 Director's approval (no action required). Doing so should be reserved for encounters in which you are dying as a
 result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences
-of your actions have finally caught up to you—not because you're playing a one-shot and have nothing to lose, Hacaarl.
+of your actions have finally caught up to you-not because you're playing a one-shot and have nothing to lose, Hacaarl.
 
 Additionally, when your Stamina equals the negative of your winded value and you are not doomed, you turn to rubble
 instead of experiencing death. You are unaware of your surroundings in this state. After 12 hours, you regain Stamina
@@ -2381,12 +2402,12 @@ equal to your Recovery value.
 "Humans," the dwarf said with a combination of exasperation and awe. "Their only virtue seems to be believing in
 impossible things."
 
-"Humans belong to the world in a way the other speaking peoples do not. You can sense the presence of magic—that … oily
+"Humans belong to the world in a way the other speaking peoples do not. You can sense the presence of magic-that... oily
 smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to
 stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the
 deathless, your nature rebels against it.
 
-"No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin … the dwarves and the
+"No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin... the dwarves and the
 orcs as you say. What is it that sets humans apart? I am a historian, not a physician. I cannot say. Perhaps some of you
 will one day find out and teach us all the reason."
 
@@ -2409,18 +2430,18 @@ What do I think of humans? Well, I will tell you.
 I was here, teaching this class during the fire of Enlightenment 373. The fire leveled this city. Can you imagine that?
 Can you imagine the heat, the death, destruction that such a thing causes?
 
-Six months after the Great Fire, your ancestors had rebuilt … everything. I have seen many miracles in my life.
+Six months after the Great Fire, your ancestors had rebuilt... everything. I have seen many miracles in my life.
 Witnessing that feat might be chief among them.
 
-Liches are almost always humans. Did you know that? I think I know why. Your lives are so short—almost as soon as you're
+Liches are almost always humans. Did you know that? I think I know why. Your lives are so short-almost as soon as you're
 born, you're thinking about dying, and you refuse to yield.
 
-That refusal to yield to death … to death … is what drives you, I think. Drives you to leave the world better than you
+That refusal to yield to death... to death... is what drives you, I think. Drives you to leave the world better than you
 found it. Causes ruined people to rebuild great cities.
 
 We studied human history in this room. Did you feel that those great ancestors of yours were perhaps made of finer stuff
 than you? Do not think thus. I knew them, and I know you, and your future is greater. I sometimes think each human
-generation greater than the last—more courageous, more generous. Quicker to forgive.
+generation greater than the last-more courageous, more generous. Quicker to forgive.
 
 Today, Ajax's name is on everyone's tongue, but I have seen many great evils arise in the world. I was teaching in this
 classroom when the Pharaoh Khorsekef, desperate, his power failing, opened the Great Tet and drank of the time stored
@@ -2429,17 +2450,17 @@ though not yet a professor, when Cthrion Uroniziir tried to reduce the timescape
 reality as we know it. She was defeated, and we see her cage every day.3
 
 Each of these great evils was defeated by a coalition. The armies and heroes of many speaking peoples. And all of
-them—all of them—were led … by humans. That's a fact. That's history. You can look it up.
+them-all of them-were led... by humans. That's a fact. That's history. You can look it up.
 
 Is there some rare trait that makes you uniquely qualified to lead disparate peoples, bring them together to achieve
-great things? I think … there must be.
+great things? I think... there must be.
 
 Those great humans, your ancestors, did not focus on differences. They did not weigh different people and grade them
 based on arbitrary traits deemed virtues and flaws. That is what Ajax does. No, those humans focused on the future. On
-making a better world … for all of us. A world many of them knew they would not live to see. That is a sacrifice … I can
+making a better world... for all of us. A world many of them knew they would not live to see. That is a sacrifice... I can
 scarcely imagine.
 
-The people who stand against Ajax and tyrants like him will be just like you—normal people. Priests and scholars and
+The people who stand against Ajax and tyrants like him will be just like you-normal people. Priests and scholars and
 merchants and farmers. Maybe even teachers. Stopping Ajax will require you to become something else. You must become
 heroes. Conduits of saints, warmasters of great armies. Censors and shadows. That may seem unlikely now, but the future
 has a way of surprising us.
@@ -2486,11 +2507,11 @@ Your human anatomy allows you to fight, run, and stay awake longer than others. 
 
 ## MEMONEK
 
-"This world of yours. Ships of wood and swords of steel. It's so … primitive. Like a fairy tale."
+"This world of yours. Ships of wood and swords of steel. It's so... primitive. Like a fairy tale."
 
 "Where do you come from, lady, that our world seems a fable? You have no ships and swords?"
 
-"We have them." Lady Urusistra cast a hand across the sky. "You see those stars? That is my home—the timescape. Our
+"We have them." Lady Urusistra cast a hand across the sky. "You see those stars? That is my home-the timescape. Our
 ships are great star freighters that ply the space lanes. And among those stars, light hits as hard as steel."
 
 The native denizens of Axiom, the Plane of Uttermost Law, memonek dwell in a land with lakes and trees and birds and
@@ -2498,102 +2519,102 @@ flowers. But on this alien world, the lakes are seas of mercury, the birds glitt
 gossamer thin, and the flowers' petals are iridescent metal as flexible and fragile as any earthly rose.
 
 The minds of memonek are highly ordered. Their reason is their great pride. But when descending to the lower planes,
-including a manifold like Orden where law and chaos mix, a sickness comes over them—an uncontrollable sensation called
+including a manifold like Orden where law and chaos mix, a sickness comes over them-an uncontrollable sensation called
 emotion.
 
 Draw Steel © 2024 MCDM Productions, LLC
 
 ### ON MEMONEK
 
-“You want to tell me what just happened?” Sir John asked.
+"You want to tell me what just happened?" Sir John asked.
 
 Count Revile avoided his gaze, then turned and stamped away across the bloody battlefield.
 
-“I'm fine!” Revile shouted, all evidence to the contrary.
+"I'm fine!" Revile shouted, all evidence to the contrary.
 
-“I know what I saw,” John said as he followed his friend. “You went into a bloodlust. And it's not the first time.
+"I know what I saw," John said as he followed his friend. "You went into a bloodlust. And it's not the first time.
 Whether you like it or not, whether I like it or not, I'm in charge of this mission. Either you tell me what's going on,
-or I have no choice. I have to conclude you're a danger to the team and cut you loose.”
+or I have no choice. I have to conclude you're a danger to the team and cut you loose."
 
 Revile stopped and turned to look at the rest of the party, recovering from their wounds. The memonek's white porcelain
 chest heaved as he tried to calm himself. His ceramic skin looked as strong as plate, but John knew it was brittle,
 fragile.
 
-Count Revile took a deep breath. “We call it velloparatha,” he said. “In your tongue it would be … world-sick … or
-world-sickness? It is a thing that happens … to my people … when they come to your world. It is an illness of … of
-feeling. Emotion.”
+Count Revile took a deep breath. "We call it velloparatha," he said. "In your tongue it would be... world-sick... or
+world-sickness? It is a thing that happens... to my people... when they come to your world. It is an illness of... of
+feeling. Emotion."
 
-“Are you going mad?” John asked in a whisper.
+"Are you going mad?" John asked in a whisper.
 
-The memonek smiled ruefully. “It feels that way sometimes. I spent an hour this morning staring at an insect that landed
-on my finger—a grasshopper, the polder called it. I thought I had never seen a thing so perfect and beautiful. That was
-awe. As powerful as I have ever felt. In the battle today, anger—just as powerful.
+The memonek smiled ruefully. "It feels that way sometimes. I spent an hour this morning staring at an insect that landed
+on my finger-a grasshopper, the polder called it. I thought I had never seen a thing so perfect and beautiful. That was
+awe. As powerful as I have ever felt. In the battle today, anger-just as powerful.
 
-“I thought I could resist it. When I arrived here and felt no different, I thought perhaps world-sickness was a legend.
-But it is a slow process, this illness, these insidious emotions.”
+"I thought I could resist it. When I arrived here and felt no different, I thought perhaps world-sickness was a legend.
+But it is a slow process, this illness, these insidious emotions."
 
-“No emotions where you're from?”
+"No emotions where you're from?"
 
-Count Revile shook his head. “Not like this. We are creatures of reason, we of Axiom. It is our art, our pride—our
-religion sometimes, methinks. We have emotions. Joy, sadness, wonder, grief. Love. But they are… a fashion. They do not
-happen to us. They are something we indulge in, out of propriety. Here… everything is order and chaos mixed—even in me.
-In me.” Revile placed his hand on his chest.
+Count Revile shook his head. "Not like this. We are creatures of reason, we of Axiom. It is our art, our pride-our
+religion sometimes, methinks. We have emotions. Joy, sadness, wonder, grief. Love. But they are... a fashion. They do not
+happen to us. They are something we indulge in, out of propriety. Here... everything is order and chaos mixed-even in me.
+In me." Revile placed his hand on his chest.
 
-“In the battle today,” he said. “That anger was not directed at Ajax's War Dogs. It was directed at myself.”
+"In the battle today," he said. "That anger was not directed at Ajax's War Dogs. It was directed at myself."
 
-“At yourself? Why? What did you—”
+"At yourself? Why? What did you-"
 
-“John,” the memonek said, and now it was his turn to whisper. “I was afraid. Afraid of … of being wounded, of failing
-you, failing my friends … of dying. And out of that fear came … enormous anger—at myself. Anger that I was so weak, so …
-useless. Anger so … strong, so powerful … I forgot who I was.”
+"John," the memonek said, and now it was his turn to whisper. "I was afraid. Afraid of... of being wounded, of failing
+you, failing my friends... of dying. And out of that fear came... enormous anger-at myself. Anger that I was so weak, so...
+useless. Anger so... strong, so powerful... I forgot who I was."
 
-John chuckled. “That's just …” He smiled broadly. “That's normal, man. That's just normal. We all feel that way.”
+John chuckled. "That's just..." He smiled broadly. "That's normal, man. That's just normal. We all feel that way."
 
-“What? No, you don't understand—”
+"What? No, you don't understand-"
 
-“Oh, I don't understand? Okay, let me guess—it felt like you were gonna piss yourself.”
+"Oh, I don't understand? Okay, let me guess-it felt like you were gonna piss yourself."
 
-“Yes!”
+"Yes!"
 
-“Yeah, happens to all of us.”
+"Yeah, happens to all of us."
 
-“Even you?!”
+"Even you?!"
 
-Sir John shrugged. “Are you kidding? Sure. But it doesn't help. You still got a job to do. In fact, I'd say that is the
-job. Anyone can learn the blade.” He placed his hand on the pommel of his sword. “Nothing special about that. It's
-learning to deal with the fear. That's the job—what separates the professionals from the amateurs.”
+Sir John shrugged. "Are you kidding? Sure. But it doesn't help. You still got a job to do. In fact, I'd say that is the
+job. Anyone can learn the blade." He placed his hand on the pommel of his sword. "Nothing special about that. It's
+learning to deal with the fear. That's the job-what separates the professionals from the amateurs."
 
 Count Revile said nothing, just thinking.
 
-“Feeling better?”
+"Feeling better?"
 
-Revile nodded. “I always recover afterward, but these outbursts come unbidden, like thunder from a clear sky.”
+Revile nodded. "I always recover afterward, but these outbursts come unbidden, like thunder from a clear sky."
 
-“Hmm. Yeah. Well, that explains what happened when you met Embers.”
+"Hmm. Yeah. Well, that explains what happened when you met Embers."
 
-Count Revile did not like being reminded of that. He looked to the sky and shook his head. “I made a fool of myself.”
+Count Revile did not like being reminded of that. He looked to the sky and shook his head. "I made a fool of myself."
 
-“Don't be so hard on yourself. If you're trying to seduce our void mage, you made a good start of it. She's three
+"Don't be so hard on yourself. If you're trying to seduce our void mage, you made a good start of it. She's three
 thousand years old, I've known her since I was fifteen. I don't think I've ever seen her blush. Anyway, now that I know
-what's going on, now that I know you're basically a giant teenager with overactive glands, I can relax a little.”
+what's going on, now that I know you're basically a giant teenager with overactive glands, I can relax a little."
 
 Sir John and Count Revile, both tacticians, stood together on the bloody battlefield, looking at each other.
 
-“John, I fear this may get worse before it gets better.”
+"John, I fear this may get worse before it gets better."
 
-“So, just like everything else?” He clapped the memonek on the shoulder. “Don't worry, we'll get through it together.
+"So, just like everything else?" He clapped the memonek on the shoulder. "Don't worry, we'll get through it together.
 I'll let the others know. Once they understand, they'll help too. They'll probably just take the piss out of you.
-That'll help, you'll love that.”
+That'll help, you'll love that."
 
-“You're a good friend, John.”
+"You're a good friend, John."
 
-“Heh. Is that you, or the world-sickness talking?”
+"Heh. Is that you, or the world-sickness talking?"
 
-“Me, I think. The world-sickness would have me say … you're a bastardly son of a bitch. But you're my bastardly son of a
-bitch.” Count Revile smiled.
+"Me, I think. The world-sickness would have me say... you're a bastardly son of a bitch. But you're my bastardly son of a
+bitch." Count Revile smiled.
 
-John laughed and put his arm around his friend as they headed back to the party. “Funny. The world-sickness sounds a lot
-like me.”
+John laughed and put his arm around his friend as they headed back to the party. "Funny. The world-sickness sounds a lot
+like me."
 
 ### MEMONEK BENEFITS
 
@@ -2646,10 +2667,10 @@ can't be slowed.
 
 ## ORC
 
-“Even should an arrow pierce their heart, each kanin warrior has within them one last act of revenge.”
+"Even should an arrow pierce their heart, each kanin warrior has within them one last act of revenge."
 
 An anger that cannot be hidden. A fury that drives them in battle. Orcs are famed throughout the world as consummate
-warriors—a reputation that the peace-loving orcs find distasteful.
+warriors-a reputation that the peace-loving orcs find distasteful.
 
 The fifth of the speaking peoples, orcs arrived on Orden after humans and elves. They made their homes in the
 borderlands between those two cultures, preferring the natural forests and avoiding the elf-haunted wodes. For
@@ -2659,7 +2680,7 @@ Each orc has within them a fire that causes their veins to glow once blood is dr
 the edge of death. The dichotomy between their desire to be left alone and their zeal in battle is summarized in a
 dwarven proverb:
 
-“Be thankful orcs do not hold grudges.”
+"Be thankful orcs do not hold grudges."
 
 ### ON ORCS
 
@@ -2700,7 +2721,7 @@ great leaders.
 Would they be lorewise and crafty?
 
 Oh, I would leave that to them. It is not meet that children should be too closely molded by their parents. But you ask,
-and my mind goes to Ket. They should lack the pride of Ket's children…
+and my mind goes to Ket. They should lack the pride of Ket's children...
 
 Look where that got him.
 
@@ -2722,11 +2743,11 @@ What shall you call them?
 
 Oh, I do not care for such things. They should be free of our designs, like the terrans. Let them name themselves.
 
-Oh! They already have! Kanin. It means “the people” in their tongue. I like that. Very democratic. Good for them.
+Oh! They already have! Kanin. It means "the people" in their tongue. I like that. Very democratic. Good for them.
 
 And will they know you?
 
-If they wish. Much as I agreed with…the Father of Men…I find worship unseemly.
+If they wish. Much as I agreed with...the Father of Men...I find worship unseemly.
 
 Agreed.
 
@@ -2736,11 +2757,11 @@ Let me introduce myself, at least.
 
 Ahem.
 
-“Hear me, kanin! This world we made is yours, as much as it is anyone's. You belong here.
+"Hear me, kanin! This world we made is yours, as much as it is anyone's. You belong here.
 
-“Know that you are my children, the children of Kul, he who put fire within the world. And there is fire in you. And
+"Know that you are my children, the children of Kul, he who put fire within the world. And there is fire in you. And
 though the world and fate and baser minds may conspire to destroy your light, you will survive. And more than survive,
-you will thrive. And in thriving, you will conquer!”
+you will thrive. And in thriving, you will conquer!"
 
 ### ORC TRAITS
 
@@ -2780,7 +2801,7 @@ Your bloodfire supplies you with a constant rush of adrenaline. You can't be slo
 
 ## POLDER
 
-“Wait, where'd he go? Where'd that little son of a bitch go? AAAAGGH!”
+"Wait, where'd he go? Where'd that little son of a bitch go? AAAAGGH!"
 
 After humans, polder are the most numerous and diverse ancestry in Orden. They are not humans, but they live in and
 amongst humans and share their gods and culture. Almost every human culture in Orden has a polder saint or a human saint
@@ -2793,169 +2814,169 @@ profession, especially in cities.
 
 ### ON POLDERS
 
-The three peasants—Jago, his wife Sarah, and his sister Beth—sat together watching the three heroes talk in the crowded
+The three peasants-Jago, his wife Sarah, and his sister Beth-sat together watching the three heroes talk in the crowded
 common room of the inn. Well, Jackson Bootblack seemed to be doing most of the talking.
 
-> “This kind of shit doesn't work if it's just a bunch of ratcatchers like us,” the polder said. “You need the people to
-> rise up. Been fifteen years since Omund died—fifteen years of fighting wolves and bandits and worse. The people welcome
-> a tyrant after that. They like order, you know? They adapt.”
+> "This kind of shit doesn't work if it's just a bunch of ratcatchers like us," the polder said. "You need the people to
+> rise up. Been fifteen years since Omund died-fifteen years of fighting wolves and bandits and worse. The people welcome
+> a tyrant after that. They like order, you know? They adapt."
 
-> “If you stand on the grass long enough, it learns to lie flat,” *A Mist Coils Around Dying Embers* said. “But what do
-> you say?”
+> "If you stand on the grass long enough, it learns to lie flat," *A Mist Coils Around Dying Embers* said. "But what do
+> you say?"
 
-> “Eh?” the polder asked her. But he glanced at Sir John staring at him.
+> "Eh?" the polder asked her. But he glanced at Sir John staring at him.
 
-> “You say the people have no stomach for rebellion,” Embers said. “But what about you?”
+> "You say the people have no stomach for rebellion," Embers said. "But what about you?"
 
-> “Oh,” the polder said, “I say it doesn't matter much what I say. Why's he looking at me like that?” the polder asked
-> the high elf and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. “Sorry, I just … I
-> never met a polder before,” he said.
+> "Oh," the polder said, "I say it doesn't matter much what I say. Why's he looking at me like that?" the polder asked
+> the high elf and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I
+> never met a polder before," he said.
 
-> “Are you kidding me?” Jackson said.
+> "Are you kidding me?" Jackson said.
 
-> “No! Sorry, I just …”
+> "No! Sorry, I just..."
 
-> “What are you, from the moon? Where you from that you never met a polder before? There's polder in every fucking
-> village and town from here to the sea.”
+> "What are you, from the moon? Where you from that you never met a polder before? There's polder in every fucking
+> village and town from here to the sea."
 
-> “Really? That's weird. I'm from Tor, I've been all over—just never met a polder before.”
+> "Really? That's weird. I'm from Tor, I've been all over-just never met a polder before."
 
-Jackson looked at his friend, the high elf void mage. “Am I crazy?”
+Jackson looked at his friend, the high elf void mage. "Am I crazy?"
 
-> “You're not crazy.” Embers smiled. She was enjoying watching two of her friends get to know each other. “John's just
-> never run into one, it seems.”
+> "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just
+> never run into one, it seems."
 
-> “Well, we're adorable,” the polder said, and drank some ale.
+> "Well, we're adorable," the polder said, and drank some ale.
 
-> “They must have been around I guess,” John said. “I probably just never noticed.”
+> "They must have been around I guess," John said. "I probably just never noticed."
 
-The polder put his drink down. “Oh, thank you. Thank you very much. You know, it's funny. I never have any problem
-noticing you big assholes. One of you makes about as much noise as a cow, which … I don't even know how you manage
-that.”
+The polder put his drink down. "Oh, thank you. Thank you very much. You know, it's funny. I never have any problem
+noticing you big assholes. One of you makes about as much noise as a cow, which... I don't even know how you manage
+that."
 
-> “You're talking just … my voice is just as loud as yours!”
+> "You're talking just... my voice is just as loud as yours!"
 
 Draw Steel © 2024 MCDM Productions, LLC
 
-> “I mean the way you walk around. Just the way you move, the way you stand up and sit down. You make so much goddamn
-> noise.”
+> "I mean the way you walk around. Just the way you move, the way you stand up and sit down. You make so much goddamn
+> noise."
 
 Jago, Sarah, and Beth all smiled at the exchange.
 
-> “Humans are loud, yes,” Embers agreed.
+> "Humans are loud, yes," Embers agreed.
 
-> “Do we have to … can we talk about something else, please?”
+> "Do we have to... can we talk about something else, please?"
 
-> “I just …” The polder wouldn't let it go. “You seriously never … you never been to an inn? Cavall's teeth, I can't
+> "I just..." The polder wouldn't let it go. "You seriously never... you never been to an inn? Cavall's teeth, I can't
 > count how many inns and taverns I've been to run by polders, got polders in the kitchen or waiting tables. One of the
-> only two things we're good at, I think.”
+> only two things we're good at, I think."
 
-> “Yeah?” John asked. “What's the other one?”
+> "Yeah?" John asked. "What's the other one?"
 
 The little man smiled.
 
-> “Getting into places we ain't supposed to be.”
+> "Getting into places we ain't supposed to be."
 
-> “Now we're talking,” Sir John said. “You were saying we need the people behind us. I agree.”
+> "Now we're talking," Sir John said. "You were saying we need the people behind us. I agree."
 
-> “Yeah, okay. To business: How to rally the people.” The polder took the question seriously. “It's not hard. First, we
+> "Yeah, okay. To business: How to rally the people." The polder took the question seriously. "It's not hard. First, we
 > need someone they'll rally around. I could make someone up, invent a local folk hero, but if we can find the real thing?
-> They just need to look the part, that's all. I'll take care of the rest.”
+> They just need to look the part, that's all. I'll take care of the rest."
 
-> “I'm working on that,” John said. “But it's … slower going than I thought. I'm betting on a long shot.”
+> "I'm working on that," John said. "But it's... slower going than I thought. I'm betting on a long shot."
 
-> “What's the holdup?”
+> "What's the holdup?"
 
 John thought about how to put what he knew into words.
 
-> “You know,” he shrugged. “Some people can only be heroes if they think they're better than everyone else. Some people
-> can only be heroes once they realize they're not. And some people …”
+> "You know," he shrugged. "Some people can only be heroes if they think they're better than everyone else. Some people
+> can only be heroes once they realize they're not. And some people..."
 
 He looked at his drink, at the expensive clear glass the innkeep had given him because he recognized Sir John. He turned
 the glass slowly on the table and now he was mostly talking to himself.
 
-> “Some people still have to figure that out.”
+> "Some people still have to figure that out."
 
-> “Which is best?” Jackson asked, and Embers could tell the little man was testing John.
+> "Which is best?" Jackson asked, and Embers could tell the little man was testing John.
 
 John took a deep breath and came back to reality.
 
-> “Well. If we could be picky, we wouldn't need a hero,” he said.
+> "Well. If we could be picky, we wouldn't need a hero," he said.
 
 The polder looked at the high elf and nodded, impressed. Test passed.
 
-> “Okay. Well, if you've already got a candidate, I could get things started. The other half is: we need a good
-> story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll!
-> Bridge toll, classic. An ogre … no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure
-> standing against them. See? Easy.”
+> "Okay. Well, if you've already got a candidate, I could get things started. The other half is: we need a good
+> story-short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll!
+> Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure
+> standing against them. See? Easy."
 
-> “Where are we going to find three ogres?” John asked.
+> "Where are we going to find three ogres?" John asked.
 
-> “What do you mean?” Now it was the polder's turn to be confused.
+> "What do you mean?" Now it was the polder's turn to be confused.
 
-> “What do you mean, ‘What do I mean?' ” John said. “I'm not … we don't need real ogres.” Jackson looked at the elf. “Is
-> he for real?”
+> "What do you mean, ‘What do I mean?' " John said. "I'm not... we don't need real ogres." Jackson looked at the elf. "Is
+> he for real?"
 
-> “Trust me,” the void mage said.
+> "Trust me," the void mage said.
 
-> “You mean you're going to make it up?! ” John exclaimed.
+> "You mean you're going to make it up?! " John exclaimed.
 
-> “I…” Jackson looked with incredulity at the high elf void mage, then back at the human. “Yes, I do mean that. Does he
-> know what I do?” he asked the elf.
+> "I..." Jackson looked with incredulity at the high elf void mage, then back at the human. "Yes, I do mean that. Does he
+> know what I do?" he asked the elf.
 
-> “He'll learn.” Embers smiled.
+> "He'll learn." Embers smiled.
 
 The polder turned back to Sir John.
 
-> “Hello. I lie for a living. And I'm really good at it. Sometimes also kill people, but only if lying or running away
-> doesn't work.”
+> "Hello. I lie for a living. And I'm really good at it. Sometimes also kill people, but only if lying or running away
+> doesn't work."
 
-> John turned to Embers. “I thought he was a thief.”
+> John turned to Embers. "I thought he was a thief."
 
-> “I was a thief,” the polder said.
+> "I was a thief," the polder said.
 
-> “You were a thief.”
+> "You were a thief."
 
-> “Yeah, I was with the Clock. Probably still am—they don't exactly let you just walk away. We sort of have an
-> agreement. I agree to do what they tell me and they agree not to tell me to do anything.”
+> "Yeah, I was with the Clock. Probably still am-they don't exactly let you just walk away. We sort of have an
+> agreement. I agree to do what they tell me and they agree not to tell me to do anything."
 
-> “Did they kick you out, or did you quit?”
+> "Did they kick you out, or did you quit?"
 
-> “Depends on who you ask. I don't like being told what to do. It's sort of a polder thing. Hereditary or ancestral or
-> whatever. Everybody wants a polder chef until they start trying to tell us what to cook.”
+> "Depends on who you ask. I don't like being told what to do. It's sort of a polder thing. Hereditary or ancestral or
+> whatever. Everybody wants a polder chef until they start trying to tell us what to cook."
 
-> “So what are you now?”
+> "So what are you now?"
 
-> “I'm annoying.”
+> "I'm annoying."
 
 The elf smiled.
 
-> “He's a troubadour—one of the best.”
+> "He's a troubadour-one of the best."
 
 Sir John looked at him, nodded.
 
-> “No lute, I notice. And you don't seem the type to sit by the hearth telling stories.”
+> "No lute, I notice. And you don't seem the type to sit by the hearth telling stories."
 
-> The polder grinned. “I ain't that kind of troubadour. I'm the other kind. I think the best story is the one people
-> tell each other.”
+> The polder grinned. "I ain't that kind of troubadour. I'm the other kind. I think the best story is the one people
+> tell each other."
 
-> “Propaganda,” Sir John said, a grin spreading across his face. The polder pointed a finger at him and smiled. John
+> "Propaganda," Sir John said, a grin spreading across his face. The polder pointed a finger at him and smiled. John
 > heard the door to the inn open behind him. This wasn't notable, but the gasp from the customers was.
 
-> “Hey,” the polder said, looking past John to the doorway. “Hey, I think our folk hero just showed up. Damn, he looks
-> the part all right. Or she, I can never tell with these guys.”
+> "Hey," the polder said, looking past John to the doorway. "Hey, I think our folk hero just showed up. Damn, he looks
+> the part all right. Or she, I can never tell with these guys."
 
 John turned to see.
 
 Sir Vaantikalisax loomed just inside the doorway, his scales and armor glowing in the light of the hearth fire. Sir John
 shot up out of his chair, a huge smile on his face.
 
-> “I, uh …” Vaantikalisax said. The tall, broad draconian looked from John to the three peasants. Jago, Sarah, and Beth
+> "I, uh..." Vaantikalisax said. The tall, broad draconian looked from John to the three peasants. Jago, Sarah, and Beth
 > were beaming with even more joy than John, if that were possible.
 
 The knight stared at them for a moment, then turned back to his friend.
 
-> “Maybe you're right,” the dragon knight said.
+> "Maybe you're right," the dragon knight said.
 
 Draw Steel © 2024 MCDM Productions, LLC
 
@@ -3011,17 +3032,17 @@ Your light feet allow you to ignore the effects of difficult terrain and move at
 
 ## REVENANT
 
-> “I will suck the life from your flesh and leave you a withered corpse!”
+> "I will suck the life from your flesh and leave you a withered corpse!"
 
 The revenant null flexed his arms and assumed a fighting pose. He smiled.
 
-> “Little late for that.”
+> "Little late for that."
 
 The dead walk among us. Some of them are happier about it than others.
 
 Unlike the necromantic rituals that produce wights and wraiths and zombies, revenants rise from the grave through a
 combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need
-of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
+of food or water or air-and, unlike their zombified cousins, they retain all their memories and personality from life.
 
 These revenants are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst.
 Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living
@@ -3030,46 +3051,46 @@ gather to make a home.
 
 ### ON REVENANTS
 
-> “I'm telling you, we are being followed.”
+> "I'm telling you, we are being followed."
 
-> “No one knows we're here. No one even knows this place exists! We got all day. We stash everything here, and take a
-> sample to …” The head thief pulled a vial out of a crate stuffed with straw and looked at it.
+> "No one knows we're here. No one even knows this place exists! We got all day. We stash everything here, and take a
+> sample to..." The head thief pulled a vial out of a crate stuffed with straw and looked at it.
 
-> “It's just …” The junior cutpurse spoke nervously. “There was this lady knight in Blackbottom sniffing around. She
-> seemed serious. I got this weird … chill when I looked at her.”
+> "It's just..." The junior cutpurse spoke nervously. "There was this lady knight in Blackbottom sniffing around. She
+> seemed serious. I got this weird... chill when I looked at her."
 
-> “Hey,” the head thief said, his brow furrowed as he looked at the label on the vial. “Where'd you say you bought this
-> stuff? You said a ship—a ship from where?”
+> "Hey," the head thief said, his brow furrowed as he looked at the label on the vial. "Where'd you say you bought this
+> stuff? You said a ship-a ship from where?"
 
-> “I dunno, uh … uh, Capital I think.”
+> "I dunno, uh... uh, Capital I think."
 
 The head thief looked at the panicking cutpurse.
 
-> “This lady knight—she have a red and blue device on her shield?”
+> "This lady knight-she have a red and blue device on her shield?"
 
-> “Black gods,” one of the other thieves said. “It can't be Lady Filliamo, can it?”
+> "Black gods," one of the other thieves said. "It can't be Lady Filliamo, can it?"
 
 There was a firm knock at the door to the safe house. A door which, from the outside, looked like an unremarkable
 section of wall.
 
-> “Oh, you've got to be kidding me.”
+> "Oh, you've got to be kidding me."
 
-> “Nonono! How could she … Capital was nine months ago!”
+> "Nonono! How could she... Capital was nine months ago!"
 
-> “She's a revenant, idiot! She doesn't even need air. She could have walked here! Just … into the water and across the
-> bottom of the sea! Black gods, why didn't you say anything?”
+> "She's a revenant, idiot! She doesn't even need air. She could have walked here! Just... into the water and across the
+> bottom of the sea! Black gods, why didn't you say anything?"
 
-> “I did! You asshole, I just did! I been trying to tell you for—”
+> "I did! You asshole, I just did! I been trying to tell you for-"
 
-> “Man, there is a difference between, ‘Hey I think we're being shadowed,' and, ‘There's a deathless copper coming after
-> us!' ”
+> "Man, there is a difference between, ‘Hey I think we're being shadowed,' and, ‘There's a deathless copper coming after
+> us!' "
 
 One of the four thieves opened a vial and dipped his dirk into the red oil within.
 
-> “What is that gonna do? She's already dead!” Another knock at the hidden door. “Forget it. Let her knock. Grab as many
-> as you can, and we'll go out the back.”
+> "What is that gonna do? She's already dead!" Another knock at the hidden door. "Forget it. Let her knock. Grab as many
+> as you can, and we'll go out the back."
 
-The head thief ran for the door out the back of the safe house. He jerked it open—and the other thieves watched as a
+The head thief ran for the door out the back of the safe house. He jerked it open-and the other thieves watched as a
 silver flash silently flared across his forehead. Through the open door, they could see the silhouette of the knight,
 her open hand held up in front of her.
 
@@ -3079,35 +3100,35 @@ He sprawled across the floor, conscious but stunned.
 The gray-skinned knight walked into the room. Metal heels rang out on the wooden floor. She seemed relaxed, but her eyes
 burned with inner fire.
 
-> “Boys,” Lady Filliamo said pleasantly. “Busy morning.”
+> "Boys," Lady Filliamo said pleasantly. "Busy morning."
 
-> “How did you … this is impossible, how did you find us?”
+> "How did you... this is impossible, how did you find us?"
 
 She looked at the man groaning on the floor.
 
-> “Your boss didn't tell you about the vengeance mark?”
+> "Your boss didn't tell you about the vengeance mark?"
 
-> “You marked us. Back in Capital. You marked one of us and just … just walked here.”
+> "You marked us. Back in Capital. You marked one of us and just... just walked here."
 
-> “Don't be stupid. I marked you in Blackbottom. Capital was just normal detective work. I came here by ship.” She
-> smiled—black lips on pale gray skin.
+> "Don't be stupid. I marked you in Blackbottom. Capital was just normal detective work. I came here by ship." She
+> smiled-black lips on pale gray skin.
 
-> “Come on.” The braver of the three remaining thieves drew twin daggers. “She can't get all of us at—”
+> "Come on." The braver of the three remaining thieves drew twin daggers. "She can't get all of us at-"
 
 Lady Filliamo made a broad gesture with her right hand and argent marks flared across the foreheads of all three
 thieves. A clatter of weapons hitting the floor. Three pairs of hands slowly rose in the air.
 
-> “Good boys. Here, put these on.” She tossed three pairs of manacles on the floor.
+> "Good boys. Here, put these on." She tossed three pairs of manacles on the floor.
 
-> “Hang on, you can't arrest us,” one of the thieves, unarmed and still holding his hands up, said. “This isn't Capital.
-> You don't have jurisdiction!”
+> "Hang on, you can't arrest us," one of the thieves, unarmed and still holding his hands up, said. "This isn't Capital.
+> You don't have jurisdiction!"
 
 Lady Filliamo shrugged.
 
-> “I'm a knight of the church. Jurisdiction's for the city watch.” She drew her silver sword a few inches from the
+> "I'm a knight of the church. Jurisdiction's for the city watch." She drew her silver sword a few inches from the
 > scabbard just to show them the blade.
 
-> “I deal in steel.”
+> "I deal in steel."
 
 ### REVENANT TRAITS
 
@@ -3183,12 +3204,13 @@ A magical sigil you placed on a creature explodes with energy.
 
 ## TIME RAIDER
 
-> “I fear no living thing, but the time raiders.”\
-> —Chief Executive Admiral Lithiri Aswandala, Commander of the HOV First Get Behind Them Memonek
+> "I fear no living thing, but the time raiders."
+>
+> -Chief Executive Admiral Lithiri Aswandala, Commander of the HOV First Get Behind Them Memonek
 
-The original servitor species of the synliiroi—evil psions with near god-like power—the kuran'zoi liberated themselves
+The original servitor species of the synliiroi-evil psions with near god-like power-the kuran'zoi liberated themselves
 during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the
-timescape. The exonym “time raiders” was given to them by denizens of the lower worlds who, seeing the advanced
+timescape. The exonym "time raiders" was given to them by denizens of the lower worlds who, seeing the advanced
 technology they wield, concluded they must be from the future.
 
 Extraordinarily rare in Orden, the time raiders thrive on the Sea of Stars, the Sea Between Worlds, where the winds of
@@ -3201,27 +3223,27 @@ time as ranged weapons. A single well-trained kuran'zoi is like a squad unto the
 
 ### ON TIME RAIDERS
 
-> “You will tell me the location of the ship you came here in.”
+> "You will tell me the location of the ship you came here in."
 
 Taxiarch Lycaon paced outside the ruined church. The four-armed woman with crystal eyes and flaming pink hair in a strip
 down the center of her shaved head sneered at him. She was chained to the ruin of a stone column outside the ruin of a
 stone church.
 
-> “Is it that your brain is so small you must talk in order to think?” The woman's smile was a sneer.
+> "Is it that your brain is so small you must talk in order to think?" The woman's smile was a sneer.
 
 Lycaon strode toward the alien, grabbed a length of chain around her waist, and yanked on it, pulling it taut so the
 chain around her neck tightened.
 
-> “You are going to die in any event,” he said. “If you wish to deny me the pleasure of hearing you howl and scream for
-> mercy, tell me what I want to know now and my dogs will kill you quickly.”
+> "You are going to die in any event," he said. "If you wish to deny me the pleasure of hearing you howl and scream for
+> mercy, tell me what I want to know now and my dogs will kill you quickly."
 
 Up close, she could see the fine stitching along Lycaon's cheeks and forehead, the very slight differences in skin tone
 that showed his skin was not his own.
 
-> “You seem to be made of bits,” the alien said as she peered at Lycaon, her crystalline eyes catching and reflecting
-> prismatic light. “And not the best bits. Leftovers? Is that what you are? A walking assemblage of cast-off scraps?
+> "You seem to be made of bits," the alien said as she peered at Lycaon, her crystalline eyes catching and reflecting
+> prismatic light. "And not the best bits. Leftovers? Is that what you are? A walking assemblage of cast-off scraps?
 > Hahah, I thought the proteans were hideous. Someone should let them know! There are creatures even more foul-seeming and
-> useless in the timescape.”
+> useless in the timescape."
 
 The Taxiarch smiled to himself, nodded with respect at the woman's epithets. He placed his foot on a low piece of
 rubble, once part of the wall of the stone church, and leaned his arm on his knee. He was not dressed as the other war
@@ -3231,61 +3253,61 @@ long and blonde.
 
 He struck a casual, jaunty pose.
 
-> “Where is your worldship?” he said in a more reasonable voice. “Or came you here in a single-seater starskimmer?”
+> "Where is your worldship?" he said in a more reasonable voice. "Or came you here in a single-seater starskimmer?"
 
 At this, the alien's crystal eyes went wide, betraying surprise.
 
-> “You see?” The Taxiarch said, impressed with himself. “I am not a primitive like these peasants, who hounded you
-> because you are alien,” he nodded at the folk of the small town watching from the stables some distance away. “I am
-> Ajax's elite. Better than his chosen. I was made for victory.”
+> "You see?" The Taxiarch said, impressed with himself. "I am not a primitive like these peasants, who hounded you
+> because you are alien," he nodded at the folk of the small town watching from the stables some distance away. "I am
+> Ajax's elite. Better than his chosen. I was made for victory."
 
 Indeed, Taxiarch Lycaon looked almost fully human. Handsome and fit like a statue from Phaedros, which his model had
 almost certainly been inspired by. Unless you looked closely, there was no sign he was a product of the body banks.
 
-> “If you agree to lead me to your vessel, I will let you go free.”
+> "If you agree to lead me to your vessel, I will let you go free."
 
 The alien sighed.
 
-> “‘Blaap blaap blaap,'” she said. “You should hear yourself. Like barking thrazz, you sound to me. Who holds your leash
-> I wonder? For surely a microbrain such as you could not command any more than these rabble,” she nodded her head at the
+> "‘Blaap blaap blaap,'" she said. "You should hear yourself. Like barking thrazz, you sound to me. Who holds your leash
+> I wonder? For surely a microbrain such as you could not command any more than these rabble," she nodded her head at the
 > other twenty or so war dogs.
 
 Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head smashed into the ruined column. She was
 dazed but she shook it off and laughed.
 
-> “Look how easily this one is goaded!” she said. She spat out dark blue blood and turned to the peasants gathered. “You
-> people! Why do you let yourselves be cowed by these … bits? Bits of people kludged together? Even the least of you is
-> worth more than these.”
+> "Look how easily this one is goaded!" she said. She spat out dark blue blood and turned to the peasants gathered. "You
+> people! Why do you let yourselves be cowed by these... bits? Bits of people kludged together? Even the least of you is
+> worth more than these."
 
-> “Perhaps from the air,” Flight Captain Lyria offered, and she stroked the feathers of her giant hawk mount to calm it.
-> “I could scout the forest around the …”
+> "Perhaps from the air," Flight Captain Lyria offered, and she stroked the feathers of her giant hawk mount to calm it.
+> "I could scout the forest around the..."
 
-> “No!” Taxiarch Lycaon pointed a finger at the hawklord and strode toward her. “You are the elite of Ajax's winged
-> harriers, I am his chosen brigade commander. We are not scavengers! This one,” he stabbed a gloved finger at the alien,
-> “will come to heel, or I will give her to my war dogs.”
+> "No!" Taxiarch Lycaon pointed a finger at the hawklord and strode toward her. "You are the elite of Ajax's winged
+> harriers, I am his chosen brigade commander. We are not scavengers! This one," he stabbed a gloved finger at the alien,
+> "will come to heel, or I will give her to my war dogs."
 
 He turned to face the chained alien, who yawned. Lycaon seethed.
 
-> “They may pull you apart,” he said to her, and at this, his squadron of soldiers, all in black leather and golden
+> "They may pull you apart," he said to her, and at this, his squadron of soldiers, all in black leather and golden
 > pauldrons, started making barking sounds. Then they laughed at each other.
 
-> “Or I may let my crucibite melt the skin from your bones.”
+> "Or I may let my crucibite melt the skin from your bones."
 
 At that, a war dog clad in leather from head to foot, wearing a heavy mask with glass circles where the eyes should be,
 and some kind of canister over his mouth stepped forward. The long, thin brass tube in his hands connected to a large
 metal tank on his back.
 
-> “Shall I let you choose?” the Taxiarch said and drew a dagger from his belt. “I will cut off one finger. If you cry
-> out, I kill you. If not, another finger. And if you cry out then…”
+> "Shall I let you choose?" the Taxiarch said and drew a dagger from his belt. "I will cut off one finger. If you cry
+> out, I kill you. If not, another finger. And if you cry out then..."
 
 Slowly everyone assembled could make out the sounds of a conversation, quiet with a metallic ring to it. The voices got
 louder until eventually, they could be heard.
 
-> “... should be ready for anything,” one voice said, deep, commanding, and images started to form around and between
+> "... should be ready for anything," one voice said, deep, commanding, and images started to form around and between
 > the war dogs, the hawklord, and the Taxiarch. Like faded images in a manuscript they seemed, gaining pigment and clarity
 > and, eventually, depth as their voices grew louder and clearer.
 
-> “Oh, thank you for the brilliant tactical advice,” another voice, high-pitched, piped up.
+> "Oh, thank you for the brilliant tactical advice," another voice, high-pitched, piped up.
 
 Suddenly, the images became three-dimensional, solid, and four heroes stood among them. A human in working battle plate.
 A polder with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. And a Dragon
@@ -3293,27 +3315,27 @@ Knight. The people of the town gasped when they saw him. Even at a distance, eve
 recognized the device of Good King Omund on the knight's shield.
 
 The war dogs scrambled. For a moment, it seemed they might flee at this sudden intrusion, but the Taxiarch Lycaon
-bellowed “Hold fast!” and they held their ground, uncertainty over the unknown threat of a band of heroes battling in
+bellowed "Hold fast!" and they held their ground, uncertainty over the unknown threat of a band of heroes battling in
 each of them with the certain fear of their commander.
 
 John immediately read the situation. It was a clear enough picture.
 
-There was something about the war dogs. They loved Ajax's cruelty—reveled in it. John had crossed swords with other
-commanders in Ajax's army before. Ground Commander Vordokov was a professional—could be reasoned with, but he was an
+There was something about the war dogs. They loved Ajax's cruelty-reveled in it. John had crossed swords with other
+commanders in Ajax's army before. Ground Commander Vordokov was a professional-could be reasoned with, but he was an
 orc.
 
-Not the war dogs—they were fanatics.
+Not the war dogs-they were fanatics.
 
-> “What's this?” the Taxiarch called out with a hungry grin. “Allies of the alien?” He was projecting confidence, trying
+> "What's this?" the Taxiarch called out with a hungry grin. "Allies of the alien?" He was projecting confidence, trying
 > to muster his wary soldiers.
 
 Sir John ignored the war dog, tilted his head toward the alien.
 
-> “Embers?”
+> "Embers?"
 
-> “A kuran'zoi,” the high elf said, and the alien held her head up with pride. “A time raider from the upper worlds.
+> "A kuran'zoi," the high elf said, and the alien held her head up with pride. "A time raider from the upper worlds.
 > What the truth is I cannot say, and no people are all one thing. But by reputation? They're intractable, ungovernable,
-> they loathe authority, hate tyranny and are totally, utterly without fear.”
+> they loathe authority, hate tyranny and are totally, utterly without fear."
 
 John watched the alien. They sneered their approval at Ember's summary. That was enough for Sir John; they could work
 out the details later. After everything they'd been through before, he trusted Embers implicitly.
@@ -3325,16 +3347,16 @@ play their part.
 John knew what came next, but he wasn't an assassin. He had his own part to play. He took a step forward, away from his
 teammates, and noted the Taxiarch didn't react. This spoke volumes. He locked eyes with his enemy.
 
-> “She goes free,” John commanded, his voice steel, “or you die here.”
+> "She goes free," John commanded, his voice steel, "or you die here."
 
 He could feel the muscles tightening in his comrades, the whole company like a steel spring wound tight.
 
 Lycaon cocked his head at Sir John and took a few foolish steps toward the tactician. He was just out of reach. But
 close enough.
 
-> “I see you are a man, like Ajax. Why do you lower yourself with these … creatures?” the war dog Taxiarch looked at the
-> elf, polder, and dragon knight. “Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax.
-> It'll be nice for you,” his voice lowered almost to a whisper, “to be on the winning side for a change.”
+> "I see you are a man, like Ajax. Why do you lower yourself with these... creatures?" the war dog Taxiarch looked at the
+> elf, polder, and dragon knight. "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax.
+> It'll be nice for you," his voice lowered almost to a whisper, "to be on the winning side for a change."
 
 Sir John took a deep breath, his body language changed and that was enough. Several things then happened at once, so
 quickly no one would later be able to say who acted first.
@@ -3350,14 +3372,14 @@ slammed into her hand and its tip flared with prismatic light.
 From the sun's shadow cast by Taxiarch Lycaon, the polder Jackson Bootblack emerged, a rapier in each hand, and no one
 had seen him move from where he'd been a moment before.
 
-At the same instant, a call—a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets,
-and hope sang in John's heart—the Clarion Call of the last Storm Knight!
+At the same instant, a call-a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets,
+and hope sang in John's heart-the Clarion Call of the last Storm Knight!
 
 John hadn't hesitated; he'd already drawn his sword.
 
-> “Alright, you patchwork son of a bitch.” He charged Lycaon who fumbled with the short-sword on his belt.
+> "Alright, you patchwork son of a bitch." He charged Lycaon who fumbled with the short-sword on his belt.
 
-> “Draw steel!”
+> "Draw steel!"
 
 ### TIME RAIDER TRAITS
 
@@ -3445,7 +3467,7 @@ What makes a hero? Is their desire to stand up for the innocent and protect othe
 that tyrants must fall? Does a higher power instill the idea that sometimes those least deserving of compassion are
 those who need it most?
 
-No. A hero's life experience teaches them right from wrong—and that experience starts with the culture that raised them.
+No. A hero's life experience teaches them right from wrong-and that experience starts with the culture that raised them.
 
 *Playtest note: Sample cultures are coming.*
 
@@ -3481,9 +3503,9 @@ speaks Zaliac and might know a good deal about smithing.
 ### WHY BUILD A CULTURE?
 
 Building a character is about more than adding up your stats, picking skills and abilities, and recording that
-information on a character sheet. You're building a hero—a main character in a story, be it a one-shot or a heroic
+information on a character sheet. You're building a hero-a main character in a story, be it a one-shot or a heroic
 campaign. Think about the personality and the past of who you are creating. That's why the game lets you build a culture
-rather than simply saying, “Pick three skills and a bonus language.” We want players to imagine their heroes as complex
+rather than simply saying, "Pick three skills and a bonus language." We want players to imagine their heroes as complex
 and intricate characters.
 
 ## CULTURE BENEFITS
@@ -3530,18 +3552,20 @@ knowledge to help their community survive.
 
 For example, when a rural culture has only one blacksmith, it's important to have an apprentice already learning at the
 anvil well before that smith starts to get old. If the only priest in town gets the sniffles, folks want an acolyte
-ready to wear the fancy robes should the worst occur.\
+ready to wear the fancy robes should the worst occur.
+
 **Skill Options:** One skill from the crafting or lore skill groups.
 
 #### SECLUDED
 
-A secluded culture is based in one relatively close-quarters structure—a building, a cavern, and so forth—and interacts
+A secluded culture is based in one relatively close-quarters structure-a building, a cavern, and so forth-and interacts
 with other cultures only rarely. Such places are often buildings or complexes such as monasteries, castles, or prisons.
 Folk in a secluded culture have little or no reason to leave their home or interact with other cultures on the outside,
 but might have an awareness of those cultures and of events happening outside their enclave.
 
 When people live together in close quarters, they typically learn to get along. They often spend much time in study or
-introspection, as there is not much else to do in seclusion.\
+introspection, as there is not much else to do in seclusion.
+
 **Skill Options:** One skill from the interpersonal or lore skill groups.
 
 #### URBAN
@@ -3549,7 +3573,8 @@ introspection, as there is not much else to do in seclusion.\
 An urban culture is always centered in a city. Such a culture might arise within the walls of Capital, a massive
 metropolis with a cosmopolitan population; within a network of caverns that hold an underground city; or in any other
 place where a large population lives relatively close together. The people of urban cultures often learn to effectively
-misdirect others in order to navigate the crowds and the political machinations that can come with city life.\
+misdirect others in order to navigate the crowds and the political machinations that can come with city life.
+
 **Skill Options:** One skill from the interpersonal or intrigue skill groups.
 
 #### WILDERNESS
@@ -3559,7 +3584,8 @@ tundra, ocean, or more exotic climes. Instead, the folk of such a culture thrive
 and shelter from the land itself. A wilderness culture might be a circle of druids protecting a great wode, a band of
 brigands hiding out in desert caves, or a camp of orc mercenaries who call the trackless mountains home. People in a
 wilderness culture learn how to use the land for all they need to live, typically crafting their own tools, clothing,
-and more.\
+and more.
+
 **Skill Options:** One skill from the crafting or exploration skill groups.
 
 ### ORGANIZATION
@@ -3575,7 +3601,7 @@ communal. You then gain skill options from your chosen system of organization.
 #### ANARCHIC
 
 In an anarchic culture, there are no rules and no one person leads the others. This might sound like complete
-chaos—people taking what they want when they want it—and some cultures that practice anarchy are. Other anarchic
+chaos-people taking what they want when they want it-and some cultures that practice anarchy are. Other anarchic
 cultures are peaceful places where people mostly work for themselves, their friends, or their family, but rely on the
 whole group when times get tough.
 
@@ -3588,7 +3614,8 @@ leader are all anarchic cultures.
 Most anarchic cultures operate outside of settled lands, sticking to the wilds, city sewers, or other secret places. For
 even when such cultures are harmless, their members know that outsiders might try to impose rules upon them if they live
 in the same place. As such, many folks in anarchic cultures learn how to navigate the wilds and fend for themselves
-while avoiding the danger that other folks can represent.\
+while avoiding the danger that other folks can represent.
+
 **Skill Options:** One skill from the exploration or intrigue skill groups.
 
 #### BUREAUCRATIC
@@ -3604,7 +3631,8 @@ bureaucratic cultures.
 Those who thrive in bureaucratic cultures don't just follow the rules. They know how to use those rules to their
 advantage, either bending, changing, or reinterpreting policy to advance their own interests. Schmoozing with those who
 make the laws is often key to this approach. Others in a bureaucratic culture might specialize in operating outside the
-strict regulations that govern the culture without getting caught.\
+strict regulations that govern the culture without getting caught.
+
 **Skill Options:** One skill from the intrigue or lore skill groups.
 
 #### COMMUNAL
@@ -3619,7 +3647,8 @@ each person can do as they wish, and a traveling theatrical troupe whose members
 administrative decision are all communal cultures.
 
 People in communal cultures learn that their voice and individuality have worth, as do the opinions and hard work of
-others.\
+others.
+
 **Skill Options:** One skill from the crafting or interpersonal skill groups.
 
 ### UPBRINGING
@@ -3637,22 +3666,25 @@ gain skill options from your chosen aspect.
 
 Heroes with an academic upbringing were raised by people who collect, study, and share books and other records. Some
 academics focus on one area of study, such as a college for wizards dedicated to the study of magic, or a church that
-teaches the word of one deity. People in an academic culture learn how to wield the power that is knowledge.\
+teaches the word of one deity. People in an academic culture learn how to wield the power that is knowledge.
+
 **Skill Options:** One skill from the lore skill group.
 
 #### CREATIVE
 
 Heroes with a creative upbringing were raised among folk who create art or other works valuable enough to trade. A
 creative culture might produce fine art such as dance, music, or sculpture, or more practical wares such as wagons,
-weapons, tools, or buildings. People in such cultures learn the value of quality crafting and attention to detail.\
+weapons, tools, or buildings. People in such cultures learn the value of quality crafting and attention to detail.
+
 **Skill Options:** The Music or Perform skill, or one skill from the crafting skill group.
 
 #### ILLEGAL
 
-Heroes with an illegal upbringing had caregivers who performed activities that other folk—whether within or outside
-their culture—considered unlawful. A band of pirates, a guild of assassins, or an organization of spies all commit
-unlawful acts for money. People with illegal upbringings typically don't mind breaking the rules when it suits them—and
-are good at making sure no one finds out they did.\
+Heroes with an illegal upbringing had caregivers who performed activities that other folk-whether within or outside
+their culture-considered unlawful. A band of pirates, a guild of assassins, or an organization of spies all commit
+unlawful acts for money. People with illegal upbringings typically don't mind breaking the rules when it suits them-and
+are good at making sure no one finds out they did.
+
 **Skill Options:** One skill from the intrigue skill group.
 
 #### LABOR
@@ -3660,14 +3692,16 @@ are good at making sure no one finds out they did.\
 People who labor for a living survive through cultivation, typically raising crops or livestock on a farm; by harvesting
 natural resources, whether by hunting, trapping, logging, or mining; or through manual labor tied to settlement and
 trade, such as construction, carting, loading cargo, and so forth. People with a labor upbringing know the value of hard
-work.\
+work.
+
 **Skill Options:** One of the Blacksmithing or Handle Animals skills, or one skill from the exploration skill group.
 
 #### MARTIAL
 
 Heroes who have a martial upbringing are raised by warriors. These might be the soldiers of an established army, a band
 of mercenaries, a guild of monster-slaying adventurers, or any other folk whose lives revolve around combat. Heroes with
-a martial upbringing are always ready for a fight—and they know how to finish that fight.\
+a martial upbringing are always ready for a fight-and they know how to finish that fight.
+
 **Skill Options:** One of the Alertness, Blacksmithing, Climb, Endurance, Fletching, Intimidate, Jump, Monsters, Ride,
 or Track skills.
 
@@ -3676,7 +3710,8 @@ or Track skills.
 Heroes with a noble upbringing were raised by leaders who rule over others and play the games of politics to maintain
 power. Many families are nobles by birthright, but some cultures have noble titles that are earned through deeds or
 popularity. Whatever the case, heroes with this background understand why the whispered words in the right ear can
-sometimes be more powerful than any army.\
+sometimes be more powerful than any army.
+
 **Skill Options:** One skill from the interpersonal skill group.
 
 #### BUT I REALLY WANT ALERTNESS
@@ -3697,7 +3732,7 @@ monsters.
 The careers in this section don't go into great detail about the actual jobs they represent. We assume that you know the
 basics of what an artisan, a criminal, or a gladiator does for a living. However, each career does include a list of
 questions that you should think about to help you define the specific details of your hero's career. For instance, if
-you pick the Artisan career, one of the questions is, “What did you create?” You don't need to answer these questions,
+you pick the Artisan career, one of the questions is, "What did you create?" You don't need to answer these questions,
 but doing so helps shape a more complete picture of your hero.
 
 ## CAREER BENEFITS
@@ -3782,9 +3817,9 @@ You gain the following career benefits:
 | d6  | Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Disavowed:** While on a dangerous espionage assignment, things went sideways. Although you escaped with your life, the mission was a public failure thanks to bad information your agency gave you. They denied you work for them, and you went on the run. Hero work will let you survive and clear your name.                                                                                                                                         |
-| 2   | **Faceless:** Your identity was always hidden. It was your way of protecting those around you because the work you did spying on powerful entities came with dangers. Then your world came crashing down when an enemy agent unmasked you, causing you to lose everything—privacy, livelihood, loved ones, all gone in the blink of an eye. Instead of going into hiding, you became a public hero to protect the innocent in the name of those you lost. |
+| 2   | **Faceless:** Your identity was always hidden. It was your way of protecting those around you because the work you did spying on powerful entities came with dangers. Then your world came crashing down when an enemy agent unmasked you, causing you to lose everything-privacy, livelihood, loved ones, all gone in the blink of an eye. Instead of going into hiding, you became a public hero to protect the innocent in the name of those you lost. |
 | 3   | **Free Agent:** There was a time in your life when you used to sell information to the highest bidder. Your acts were unsanctioned by any one organization, but you were well-connected enough to trade in secrets. Politics never mattered much to you until the information you sold wound up causing a ripple effect of harm that eventually destroyed the place you once called home. You became a hero to make up for your past.                     |
-| 4   | **Informed:** After years of cultivating a rich list of informants, one risked everything to expose heinous plans by powerful individuals. You promised to protect your informant, but your agency left them hanging—literally. You cut ties with your employer and swore to always make good on your word as a hero.                                                                                                                                     |
+| 4   | **Informed:** After years of cultivating a rich list of informants, one risked everything to expose heinous plans by powerful individuals. You promised to protect your informant, but your agency left them hanging-literally. You cut ties with your employer and swore to always make good on your word as a hero.                                                                                                                                     |
 | 5   | **Spy Who Loved Me:** While embedded in an undercover assignment, you fell for someone on the other side. Your lies were discovered, and though you insisted your feelings were real, the deceit cut too deep for your love interest to look past. That person exposed you, spurned you, or died because of their closeness to you. You left the espionage business to become a hero with nothing to hide.                                                |
 | 6   | **Turncoat:** You spent your life in service of your country or an organization that upheld your values. During your undercover operations, you discovered everything you were told was a lie. Whether you confronted your superiors or were exposed, your service medals were stripped of you before you left to become a true hero.                                                                                                                     |
 
@@ -3839,7 +3874,7 @@ You gain the following career benefits:
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                         |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | **Continue the Work:** A great hero was a fan of the things you created and gave you a generous commission to create your best work for them. While working on this commission, you and the hero became close friends. The day you finished the work was the same day they disappeared. To honor their legacy, you took up the mantle of a hero with the intent of finishing your friend's work. |
-| 2   | **Inspired:** As you traveled the road selling your wares, troll bandits attacked you. One of the bandits claimed an item belonging to someone precious to you—or perhaps claimed that person's life—but the rest were driven off or slain by a group of heroes. Seeing the quick work these heroes made of the bandits inspired you to follow in their footsteps.                               |
+| 2   | **Inspired:** As you traveled the road selling your wares, troll bandits attacked you. One of the bandits claimed an item belonging to someone precious to you-or perhaps claimed that person's life-but the rest were driven off or slain by a group of heroes. Seeing the quick work these heroes made of the bandits inspired you to follow in their footsteps.                               |
 | 3   | **Robbery:** A criminal gang stole your goods and harmed a number of people who worked for you. You became a hero to prevent such indignities from being visited upon others, to seek revenge for the assault, or to find the thieves and get your stuff back.                                                                                                                                   |
 
 ## BEGGAR
@@ -3867,7 +3902,7 @@ You gain the following career benefits:
 | 2   | **Night Terrors:** Something killed the other beggars. It came in the night. You barely saw it, but what you saw of it wasn't natural. You survived by hiding, or maybe it simply passed you over for reasons unknown to you. It still haunts your nightmares, and you kill monsters so no one else has to experience such horrors.                                                               |
 | 3   | **One Good Deed:** You ran afoul of the local watch by being in the wrong place when they were in a bad mood. A passing hero intervened on your behalf, shaming the guards into moving on, then gave you enough gold to get you back on your feet. Their kindness kindled a spark in you. You took the gold, bought some secondhand gear, and went to pay that hero's kindness forward.           |
 | 4   | **Precious:** No matter how far you'd fallen, there was one belonging you would never part with, no matter how much money it would bring you. When a pickpocket nicked it, you chased them until you were in a part of the city you no longer recognized. With a jolt, you realized you had no desire to return to your previous stomping grounds. You kept going, and you haven't looked back.   |
-| 5   | **Strange Charity:** A passerby dropped something in your cup. When you counted your day's collections, you found a magic coin among the coppers. You knew immediately that it was special. When the other beggars—your friends, you thought—were ready to murder you for it, you killed several of them in self-defense before you fled, leaving behind the only semblance of community you had. |
+| 5   | **Strange Charity:** A passerby dropped something in your cup. When you counted your day's collections, you found a magic coin among the coppers. You knew immediately that it was special. When the other beggars-your friends, you thought-were ready to murder you for it, you killed several of them in self-defense before you fled, leaving behind the only semblance of community you had. |
 | 6   | **Witness:** You saw something you weren't meant to see. They would kill you if they knew, and maybe they're searching for you even now. You remain on the move, terrified of remaining in one place too long lest it all catch up to you. Perhaps if you make a big enough name for yourself, you can become untouchable and can finally speak of what you saw without fear.                     |
 
 ## CRIMINAL
@@ -3893,7 +3928,7 @@ You gain the following career benefits:
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Atonement:** The last criminal job you pulled led to the death of someone or the destruction of something you love. In order to make up for the loss you caused, you left your criminal ways behind and became a hero.                                                                                                                                                                                                |
 | 2   | **Friendly Priest:** You went to prison for your crimes and eventually escaped. An elderly priest took you in and shielded you from the law, convinced that your soul wasn't corrupt. They never judged you for your past, speaking only of the future. Eventually, the priest died, imparting final words that inspired you to become a hero.                                                                          |
-| 3   | **Stand Against Tyranny:** When a tyrant rose to power in your homeland, they began cracking down on all criminals with deadly raids and public executions. The nature of the crime didn't matter—pickpockets and beggars were made to kneel before the axe alongside murderers. After losing enough friends, you stood up and joined the resistance—not just against this tyrant, but against authoritarians anywhere. |
+| 3   | **Stand Against Tyranny:** When a tyrant rose to power in your homeland, they began cracking down on all criminals with deadly raids and public executions. The nature of the crime didn't matter-pickpockets and beggars were made to kneel before the axe alongside murderers. After losing enough friends, you stood up and joined the resistance-not just against this tyrant, but against authoritarians anywhere. |
 
 ## DISCIPLE
 
@@ -3919,7 +3954,7 @@ You gain the following career benefits:
 | 2   | **Dogma:** Although you joined the religious institution under the guidance of a kind mentor, others within the house of worship became increasingly fanatical in their convictions. Your mentor sought to be a voice of reason in the rising tide of hatred and was tried as a heretic before being executed. Leaving the institution behind, you became a hero to uphold the beliefs you hold dear.                             |
 | 3   | **Freedom to Worship:** Your temple was destroyed in a religious conflict. Leaders of the institution sought retaliation, but you saw in these actions a ceaseless cycle of destruction that would lead to more conflict. Instead, you became a hero to protect religious freedoms, so all worshipers could practice their faith without fear.                                                                                    |
 | 4   | **Lost Faith:** You devoted your life to ministering to the sick and needy and other charitable work. Time and time again, travesty struck those you served without rhyme or reason. Your prayers went unanswered, and efforts went thankless. Eventually, you lost your faith in a higher power, and you left your church or temple to do good outside of any religious affiliation.                                             |
-| 5   | **Near Death Experience:** While serving at a religious institution, you almost died in an accident. When you woke, you lost all your memories of ever having worked for the church or temple. Though the clergy encouraged you to stay, you left to forge a new path. Your sense of altruism—whether instilled in you by your past work or a part of who you naturally are—guides you in your life.                              |
+| 5   | **Near Death Experience:** While serving at a religious institution, you almost died in an accident. When you woke, you lost all your memories of ever having worked for the church or temple. Though the clergy encouraged you to stay, you left to forge a new path. Your sense of altruism-whether instilled in you by your past work or a part of who you naturally are-guides you in your life.                              |
 | 6   | **Taxing Times:** The faith-based organization that you were once part of became corrupt. It used its status in the community to accumulate wealth through tithes, and its leaders sought political appointments. During a season of drought, the institution stockpiled resources and refused to give aid, resulting in the death of many. You became a hero to fight against such corruption and to honor your dearly departed. |
 
 ## EXPLORER
@@ -3975,7 +4010,7 @@ You gain the following career benefits:
 | 3   | **Cursed:** While tilling your field, you found something in the dirt. Perhaps it was a chipped and dented weapon, a piece of ancient jewelry, or something altogether unique. Excited by your find, you showed it to a loved one, but when they touched it, something happened. You now know it was a curse conveyed by the item, though you don't know why it affected them and not you. You left in search of answers. |
 | 4   | **Hard Times:** Your farm had always been prosperous until the last few years. Changes in the weather caused smaller yields until you could no longer pay your tithe to the local noble. Her soldiers took what items of value they found, including a precious family heirloom. You left the struggling farm behind to find a better life.                                                                               |
 | 5   | **Razed:** Your animals were killed, your crops and home set ablaze. The culprits could have been bandits, a band of raiders from a nearby kingdom, or hired thugs sent by a rival farm. Whoever they were, they left you with nothing. You couldn't face the thought of starting again from scratch. You took up a life of heroism to protect others from such villainy.                                                 |
-| 6   | **Stolen:** Your family bred horses, beautiful creatures that were rivaled on the track and in the jousting lists by few. When a nearby noble arrived with an offer to buy your prized stallion, your father refused. The noble struck him down where he stood and stole the horse. Without that stallion, the renowned bloodline would end. You intend to get it back—and get revenge.                                   |
+| 6   | **Stolen:** Your family bred horses, beautiful creatures that were rivaled on the track and in the jousting lists by few. When a nearby noble arrived with an offer to buy your prized stallion, your father refused. The noble struck him down where he stood and stole the horse. Without that stallion, the renowned bloodline would end. You intend to get it back-and get revenge.                                   |
 
 ## GLADIATOR
 
@@ -3998,9 +4033,9 @@ You gain the following career benefits:
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Betrayed:** A local crime lord offered you money to throw your last bout, promising that you'd live through the ordeal and get a cut of all the wagers placed on the match. You held up your end of the deal—which made the knife in your back after the loss so surprising. You woke in a shallow grave, barely alive, and ready to mete out justice.                                                                            |
-| 2   | **Heckler:** As you stood victorious on the arena sands, a voice cried out among the cheering. “This violence is just for show. You should be ashamed. There are people who need you—who need your skills!” Why did that voice ring so clear? And why did it sound so familiar? You never saw the face of the person who uttered the words, but they weighed heavy on you. The next day, you fled the arena to begin a hero's life. |
-| 3   | **New Challenges:** You earned every title you could. You beat every opponent willing to face you in the arena. Your final battle with your rival ended with you victorious—and yet you were unsatisfied. There are other, greater foes out there, and you mean to find them.                                                                                                                                                       |
+| 1   | **Betrayed:** A local crime lord offered you money to throw your last bout, promising that you'd live through the ordeal and get a cut of all the wagers placed on the match. You held up your end of the deal-which made the knife in your back after the loss so surprising. You woke in a shallow grave, barely alive, and ready to mete out justice.                                                                            |
+| 2   | **Heckler:** As you stood victorious on the arena sands, a voice cried out among the cheering. "This violence is just for show. You should be ashamed. There are people who need you-who need your skills!" Why did that voice ring so clear? And why did it sound so familiar? You never saw the face of the person who uttered the words, but they weighed heavy on you. The next day, you fled the arena to begin a hero's life. |
+| 3   | **New Challenges:** You earned every title you could. You beat every opponent willing to face you in the arena. Your final battle with your rival ended with you victorious-and yet you were unsatisfied. There are other, greater foes out there, and you mean to find them.                                                                                                                                                       |
 
 ## LABORER
 
@@ -4025,8 +4060,8 @@ You gain the following career benefits:
 | d3  | Incident                                                                                                                                                                                                                                                                                                                             |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | **Disaster:** A disaster, such as a cave-in, wildfire, or tidal wave, hit your crew while you were working. You saved as many folks as you could, but the ones you couldn't save weigh heavily on your mind. You took up the life of a hero to save as many people as possible, vowing that what happened to you won't happen again. |
-| 2   | **Embarrassment:** A noble you worked for admonished you publicly for work done poorly—more than once. Finally, you had enough. You vowed to take up a new path and show this noble that you are far more than what they make you out to be.                                                                                         |
-| 3   | **Live the Dream:** You worked with a good friend, and on the job, you'd always fantasize about what it'd be like to hit the road as adventuring heroes—someday. You didn't count on your friend falling ill and passing away. Now it's time to live out that dream for both of you.                                                 |
+| 2   | **Embarrassment:** A noble you worked for admonished you publicly for work done poorly-more than once. Finally, you had enough. You vowed to take up a new path and show this noble that you are far more than what they make you out to be.                                                                                         |
+| 3   | **Live the Dream:** You worked with a good friend, and on the job, you'd always fantasize about what it'd be like to hit the road as adventuring heroes-someday. You didn't count on your friend falling ill and passing away. Now it's time to live out that dream for both of you.                                                 |
 
 ## MAGE'S APPRENTICE
 
@@ -4051,7 +4086,7 @@ You gain the following career benefits:
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Oops:** While studying magic, you accidentally sent yourself from your original world to this one. Now you're stranded here, hoping to get back home by finding ancient texts or powerful magical treasures that might transport you there. A life of adventure it is!                                                                                                                                          |
 | 2   | **Ultimate Power:** The mage you worked for was a kindly old soul, but the basic magic they taught you always seemed like a small part of something bigger. It wasn't until you met an adventuring elementalist that you realized hitting the road as a hero was the only way to truly improve and hone your skills. You resigned your apprenticeship and found yourself walking the path of a hero the next day. |
-| 3   | **Missing Mage:** One day you woke up and the mage you worked for was just gone. They didn't take any of their belongings, and there was no sign of any foul play—just the scent of sulfur in their bedchamber. You set out on your heroic journey in the aftermath and have been looking for them ever since.                                                                                                    |
+| 3   | **Missing Mage:** One day you woke up and the mage you worked for was just gone. They didn't take any of their belongings, and there was no sign of any foul play-just the scent of sulfur in their bedchamber. You set out on your heroic journey in the aftermath and have been looking for them ever since.                                                                                                    |
 
 ## PERFORMER
 
@@ -4074,7 +4109,7 @@ You gain the following career benefits:
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                                                                     |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Cursed Audience:** During a performance, you watched in horror as the audience was suddenly overcome by a curse that caused them to disintegrate before your eyes. You're not sure what happened, but seeking that answer quickly led you to places where only heroes dare to go.                                                                                                          |
-| 2   | **Fame and Fortune:** You thought you were famous—then that hero came to your show. Suddenly, all eyes were on the dragon-slaying brute instead of the stage where they belonged. The audience even gave them a standing ovation when they entered the room. All you got was polite applause. Fine. If people want a hero, then a hero you shall be.                                         |
+| 2   | **Fame and Fortune:** You thought you were famous-then that hero came to your show. Suddenly, all eyes were on the dragon-slaying brute instead of the stage where they belonged. The audience even gave them a standing ovation when they entered the room. All you got was polite applause. Fine. If people want a hero, then a hero you shall be.                                         |
 | 3   | **Tragic Lesson:** When a producer who once shortchanged you shouted out on the street for you to stop a thief who had picked their pocket, your spite toward the producer inspired you to let the thief run right on by. But that decision led to tragedy when the thief later harmed someone you loved. From that moment on, you decided to make it your responsibility to protect others. |
 
 ## POLITICIAN
@@ -4128,9 +4163,9 @@ You gain the following career benefits:
 
 | d3  | Incident                                                                                                                                                                                                                                                                                                                                  |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Bookish Ideas:** You were always content to live a peaceful life in your library until you found that one book—the one that told the tale of heroes who had saved the timescape. They didn't spend their days behind a desk. They made a real difference. It was time for you to do the same.                                           |
+| 1   | **Bookish Ideas:** You were always content to live a peaceful life in your library until you found that one book-the one that told the tale of heroes who had saved the timescape. They didn't spend their days behind a desk. They made a real difference. It was time for you to do the same.                                           |
 | 2   | **Cure the Curse:** You used to think knowledge could fix everything. You were wrong. When someone you loved fell under a curse, the means to cure them couldn't be found in any of the books you owned. But that wasn't going to stop you. The answers are out there, and you'll find them even if you need to face down death to do so. |
-| 3   | **Lost Library:** An evil mage took all your books for themself, cackling at your impotence as they raided your shelves. Now you're off to search through ancient ruins and secret libraries to rebuild your collection of rare tomes—and to find the mage who stole from you.                                                            |
+| 3   | **Lost Library:** An evil mage took all your books for themself, cackling at your impotence as they raided your shelves. Now you're off to search through ancient ruins and secret libraries to rebuild your collection of rare tomes-and to find the mage who stole from you.                                                            |
 
 ## SAILOR
 
@@ -4237,8 +4272,8 @@ You gain the following career benefits:
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2   | **Corruption Within:** You joined the force to help the helpless and bring justice to those wronged. You weren't prepared for the rampant corruption reaching the top of your organization. You refused to cover for your fellow officers and were told in no simple terms to leave town or face the consequences. Now you travel as a hero, acting as the protector you always wanted to be.                |
 | 3   | **Frame Job:** Your partner was murdered. That's irrefutable. But you didn't do it, despite what the evidence implies. When it became clear you would take the fall, you fled, leaving everything behind. Not content to cower in the shadows, you decided to adventure under a new name while you work to clear your own.                                                                                   |
-| 4   | **Missing Mentor:** You learned everything you know about the job from someone you always looked up to in a corrupt organization. One night, they sent you a cryptic message that they'd discovered “something big,” but before you found out more, they disappeared. No longer sure who you could trust, you slipped away and sought a new life. Now you do what good you can and search to find the truth. |
-| 5   | **One that Got Away:** A particularly violent or depraved criminal evaded your grasp and then began targeting you—perhaps they stole something personal or hurt someone you love—before slipping through your grasp again. You left to pursue the criminal, but the trail has gone cold… for now. Might as well help folks in the meantime.                                                                  |
+| 4   | **Missing Mentor:** You learned everything you know about the job from someone you always looked up to in a corrupt organization. One night, they sent you a cryptic message that they'd discovered "something big," but before you found out more, they disappeared. No longer sure who you could trust, you slipped away and sought a new life. Now you do what good you can and search to find the truth. |
+| 5   | **One that Got Away:** A particularly violent or depraved criminal evaded your grasp and then began targeting you-perhaps they stole something personal or hurt someone you love-before slipping through your grasp again. You left to pursue the criminal, but the trail has gone cold... for now. Might as well help folks in the meantime.                                                                |
 | 6   | **Powerful Enemies:** You made it your responsibility to root out and bring down the region's foremost crime syndicate. They sent goons to burn down your home and teach you a lesson. They left you bleeding in the street, with nothing left except your life. You've taken on the life of a hero to gain the power and influence you need to destroy the syndicate once and for all.                      |
 
 # CLASSES
@@ -4590,7 +4625,7 @@ Select one signature ability from the options below. Signature abilities can be 
 - **12-16:** 3 holy damage; push 2
 - **17+:** 4 holy damage; push 3
 
-##### EVERY STEP… DEATH!
+##### EVERY STEP... DEATH!
 
 **You show your foe a glimpse of their fate after death.**
 
@@ -4959,7 +4994,7 @@ Choose one heroic ability from the following options.
 
 **Gather not together in secret to conspire.**
 
-- **Keywords:** –
+- **Keywords:** -
 - **Type:** Maneuver
 - **Distance:** 2 Aura
 - **Target:** All enemies
@@ -4972,7 +5007,7 @@ additional 2d6 holy damage if they are adjacent to another enemy.
 
 **Use not the fell arts!**
 
-- **Keywords:** –
+- **Keywords:** -
 - **Type:** Maneuver
 - **Distance:** 2 Aura
 - **Target:** All enemies
@@ -4984,7 +5019,7 @@ they take `(SURGE)(SURGE)` holy damage. If a target is judged by you, they take 
 
 **Shed not the blood of innocents!**
 
-- **Keywords:** –
+- **Keywords:** -
 - **Type:** Maneuver
 - **Distance:** 2 Aura
 - **Target:** All enemies
@@ -4996,7 +5031,7 @@ they take `(SURGE)(SURGE)` holy damage. If a target is judged by you, they take 
 
 **Flee not from just punishment.**
 
-- **Keywords:** –
+- **Keywords:** -
 - **Type:** Maneuver
 - **Distance:** 2 Aura
 - **Target:** All enemies
@@ -5020,17 +5055,21 @@ divinity within you shines, aweing your enemies and granting you increased empat
 **Starting Characteristics:** You start with an Intuition score of 2, and can choose one of the following arrays for
 your other characteristics scores:
 
-- 2, 2, −1, −1
-- 2, 1, 1, −1
+- 2, 2, -1, -1
+- 2, 1, 1, -1
 - 2, 1, 0, 0
 - 1, 1, 1, 0
 
-**Weak Potency:** Intuition score − 1\
-**Average Potency:** Intuition score\
+**Weak Potency:** Intuition score - 1
+
+**Average Potency:** Intuition score
+
 **Strong Potency:** Intuition score + 1
 
-**Starting Stamina at 1st Level:** 18\
-**Stamina Gained at 2nd and Higher Levels:** 9\
+**Starting Stamina at 1st Level:** 18
+
+**Stamina Gained at 2nd and Higher Levels:** 9
+
 **Recoveries:** 8
 
 **Skills:** Choose any two skills from the interpersonal or lore skill groups.
@@ -6002,22 +6041,27 @@ Your choice of elemental specialization determines which of these things you do 
 
 ## BASICS
 
-Starting Characteristics: You start with a Reason score of 2, and can choose one of the following arrays for your other
+**Starting Characteristics:** You start with a Reason score of 2, and can choose one of the following arrays for your other
 characteristics scores:
 
-- 2, 2, −1, −1
-- 2, 1, 1, −1
+- 2, 2, -1, -1
+- 2, 1, 1, -1
 - 2, 1, 0, 0
 - 1, 1, 1, 0
 
-Weak Potency: Reason score − 1\
-Average Potency: Reason score\
-Strong Potency: Reason score + 1
+**Weak Potency:** Reason score - 1
 
-Starting Stamina at 1st Level: 18\
-Stamina Gained at 2nd and Higher Levels: 12\
-Recoveries: 8\
-Skills: You gain Magic and can choose any three skills from the crafting or lore skill groups.
+**Average Potency:** Reason score
+
+**Strong Potency:** Reason score + 1
+
+**Starting Stamina at 1st Level:** 18
+
+**Stamina Gained at 2nd and Higher Levels:** 12
+
+**Recoveries:** 8
+
+**Skills:** You gain Magic and can choose any three skills from the crafting or lore skill groups.
 
 ### ELEMENTALIST ADVANCEMENT
 
@@ -6088,9 +6132,11 @@ essence. When combat ends, you lose all of your essence.
 
 Though you can't gain essence outside of combat, you can use your heroic abilities and effects that cost essence without
 spending it. Whenever you use an ability or effect that costs essence outside of combat, you can't use that same ability
-or effect again outside of combat until you gain at least 1 Victory or finish a Respite.\
+or effect again outside of combat until you gain at least 1 Victory or finish a Respite.
+
 If you use a persistent ability outside of combat (see Persistent Magic), you can maintain it for a number of rounds
-equal to your Victories outside of combat.\
+equal to your Victories outside of combat.
+
 If you use an ability that lets you spend unlimited essence on its effect out of combat, you can use it as if you had
 spent an amount of essence on it equal to your Victories.
 
@@ -6119,15 +6165,17 @@ fire, lightning, poison, or sonic.
 ### PERSISTENT MAGIC
 
 Some of your heroic abilities have a persistent effect entry, like *Instantaneous Excavation*, which has an effect noted
-as “Persistent 1.” Whenever you use a persistent ability, you decide whether you want to maintain it and start doing so
+as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain it and start doing so
 immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of
 essence you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the
-ability's persistent effect. All your active persistent abilities end when combat ends.\
+ability's persistent effect. All your active persistent abilities end when combat ends.
+
 You can't maintain any abilities that would make you earn a negative amount of essence at the start of your turn or have
 a negative amount of essence outside of combat. You can stop maintaining an ability at any time (no action required).
 
 If you maintain the same ability on several targets and the effect includes a power roll, you make that roll once and
-apply the same effect to all targets. A creature can't be affected by multiple instances of a persistent ability.\
+apply the same effect to all targets. A creature can't be affected by multiple instances of a persistent ability.
+
 If you take damage equal to 5 × your Reason score in one turn, you stop maintaining any persistent abilities. For
 example, if you have a Reason score of 2 and are maintaining *Instantaneous Excavation* and take 10 or more damage in
 one turn, you stop maintaining the ability.
@@ -6710,13 +6758,15 @@ table.
 
 When you make this change, your statistics, except for those noted on the table, remain the same. You choose the exact
 animal and your appearance in this form. For example, if you become a rodent, you decide if you are a mouse, rat, shrew,
-or other size-1T rodent that fits the description.\
+or other size-1T rodent that fits the description.
+
 While in these forms, you can speak, and you use your Reason score to make melee free strikes. Other than exceptions
 noted in this description and on the table, your statistics remain the same.
 
 Some forms have a prerequisite level you must achieve in this class before you can use them. Some of these forms allow
 you to gain Temporary Stamina. You gain this Temporary Stamina while you are in the form and lose it when you revert
-back to your true form.\
+back to your true form.
+
 When you make this change, you decide which pieces of your equipment meld into your new form or fall unharmed to the
 ground. When you change back, melded gear reappears on your person.
 
@@ -6777,12 +6827,12 @@ enemies emerge from when they are force moved into one.
 | Canine           | 2nd   | 5             | 7             | 1M   | +0        | +1/+1/+1           | You have an edge on tests that involve smell.                                                                                                                                                                                                |
 | Fish             | 2nd   | 0             | 5 (swim only) | 1T   | +0        | +0/+0/+0           | You can breathe in water, but can't breathe outside of it.                                                                                                                                                                                   |
 | Rodent           | 2nd   | 0             | 5 (climb)     | 1T   | +0        | +0/+0/+0           | You have an edge on tests that involve smell.                                                                                                                                                                                                |
-| Bird             | 3rd   | 0             | 5 (fly)       | 1T   | +0        | +0/+0/+0           | —                                                                                                                                                                                                                                            |
+| Bird             | 3rd   | 0             | 5 (fly)       | 1T   | +0        | +0/+0/+0           | -                                                                                                                                                                                                                                            |
 | Great Cat        | 3rd   | 5             | 6             | 2    | +0        | +1/+1/+1           | When you charge another creature of size or smaller and get a tier 2 or better result on the attack, you knock the target prone.                                                                                                             |
 | Mohler           | 4th   | 0             | 7 (burrow)    | 1S   | +1        | +0/+0/+0           | Your reach increases by 1 while burrowing.                                                                                                                                                                                                   |
 | Horse            | 4th   | 5             | 8             | 2    | +1        | +0/+0/+0           | You can use the Charge action as a maneuver. You cannot use two Charge actions on the same turn.                                                                                                                                             |
 | Giant Frog       | 4th   | 5             | 5 (leap)      | 2    | +0        | +0/+0/+0           | Your melee free strike has a reach of 3.                                                                                                                                                                                                     |
-| Bear             | 5th   | 10            | 5 (climb)     | 2    | +1        | +2/+2/+2           | —                                                                                                                                                                                                                                            |
+| Bear             | 5th   | 10            | 5 (climb)     | 2    | +1        | +2/+2/+2           | -                                                                                                                                                                                                                                            |
 | Giant Bird       | 5th   | 0             | 7 (fly)       | 2    | +0        | +1/+1/+1           | You can shift 3 after making a melee free strike.                                                                                                                                                                                            |
 | Giant Salamander | 6th   | 5             | 5             | 1L   | +3        | +0/+0/+0           | Your melee free strike deals acid damage and inflicts slowed (EoT) on a tier 2 or better result.                                                                                                                                             |
 | Giant Spider     | 6th   | 0             | 5 (climb)     | 2    | +0        | +0/+1/+2           | You have a double edge on melee free strikes against creatures you are hidden from.                                                                                                                                                          |
@@ -7017,7 +7067,7 @@ the wild taught you the secret of channeling unfettered anger into martial prowe
 it to others to use finesse to clean up the pieces you leave behind.
 
 As a fury, you have abilities that deal a lot of damage, move you around the battlefield, and grow in strength as your
-rage increases. Nature has no concept of fairness—and neither do you.
+rage increases. Nature has no concept of fairness-and neither do you.
 
 ## BASICS
 
@@ -7028,20 +7078,25 @@ arrays for your other characteristics scores:
 - 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Might score - 1\
-**Average Potency:** Might score\
+**Weak Potency:** Might score - 1
+
+**Average Potency:** Might score
+
 **Strong Potency:** Might score + 1
 
-**Starting Stamina at 1st Level:** 21\
-**Stamina Gained at 2nd and Higher Levels:** 12\
-**Recoveries:** 10\
+**Starting Stamina at 1st Level:** 21
+
+**Stamina Gained at 2nd and Higher Levels:** 12
+
+**Recoveries:** 10
+
 **Skills:** Nature, plus choose any two skills from the exploration or intrigue skill groups.
 
 ### Fury Advancement
 
 | Level | Features                                                                                                                | Abilities | Aspect Abilities |
 | ----- | ----------------------------------------------------------------------------------------------------------------------- | --------- | ---------------- |
-| 1st   | Primordial Aspect, Rage, Growing Rage, Aspect Features, Aspect Triggered Action, Mighty Leaps, Fury Abilities Signature | 3, 5      | —                |
+| 1st   | Primordial Aspect, Rage, Growing Rage, Aspect Features, Aspect Triggered Action, Mighty Leaps, Fury Abilities Signature | 3, 5      | -                |
 | 2nd   | Aspect Feature, Extra Surge, Aspect Ability Signature                                                                   | 3, 5      | 5                |
 | 3rd   | Aspect Feature, 7-Rage Ability Signature                                                                                | 3, 5, 7   | 5                |
 
@@ -7052,7 +7107,7 @@ As a fury, you gain the following features.
 ### PRIMORDIAL ASPECT
 
 You come from a tradition older than civilization, older than warfare, older than most of the world. You have undergone
-a rite of passage that revealed the building blocks of the Timescape—the Primordial Chaos—and which left an aspect of
+a rite of passage that revealed the building blocks of the Timescape-the Primordial Chaos-and which left an aspect of
 the Primordial Chaos inside you. As you channel the rage that shapes you, you can choose a primordial aspect from the
 following:
 
@@ -7314,7 +7369,7 @@ Surrounded? The fools!
 
 ###### OUT OF THE WAY! (3 RAGE)
 
-Your enemies will get out of your way—whether they want to or not.
+Your enemies will get out of your way-whether they want to or not.
 
 - **Keywords:** Attack, Melee, Weapon
 - **Type:** Action
@@ -7393,7 +7448,7 @@ A mighty strike leaves your foe reeling.
 
 Anger is an energy.
 
-- **Keywords:** —
+- **Keywords:** -
 - **Type:** Free maneuver
 - **Distance:** Self
 - **Target:** Self
@@ -7699,7 +7754,7 @@ The animal form feature for each stormwight kit grants you the following ability
 
 You assume the form of the animal who channels your rage.
 
-- **Keywords:** —
+- **Keywords:** -
 - **Type:** Maneuver
 - **Distance:** Self
 - **Target:** Self
@@ -7719,7 +7774,7 @@ abilities.
 
 #### EQUIPMENT
 
-You wear no armor, and wield only your unarmed strikes—which become devastating natural weapons as your rage grows.
+You wear no armor, and wield only your unarmed strikes-which become devastating natural weapons as your rage grows.
 
 #### KIT BONUSES
 
@@ -7978,12 +8033,16 @@ arrays for your other characteristics scores:
 - 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Intuition score - 1\
-**Average Potency:** Intuition score\
+**Weak Potency:** Intuition score - 1
+
+**Average Potency:** Intuition score
+
 **Strong Potency:** Intuition score + 1
 
-**Starting Stamina at 1st Level:** 21\
-**Stamina Gained at 2nd and greater levels:** 9\
+**Starting Stamina at 1st Level:** 21
+
+**Stamina Gained at 2nd and greater levels:** 9
+
 **Recoveries:** 8
 
 **Skills:** You gain Psionics. Choose 2 from any interpersonal or lore skill.
@@ -7992,7 +8051,7 @@ arrays for your other characteristics scores:
 
 | Level | Features                                                                                                                   | Abilities              | Tradition Ability |
 | ----- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ----------------- |
-| 1st   | Tradition, Discipline, Null Field, Inertial Shield, Discipline Mastery, Mind-Body Focus, Psionic Knockback, Null Abilities | Two signature, 3, 5    | —                 |
+| 1st   | Tradition, Discipline, Null Field, Inertial Shield, Discipline Mastery, Mind-Body Focus, Psionic Knockback, Null Abilities | Two signature, 3, 5    | -                 |
 | 2nd   | Perk, Tradition Features, Tradition Ability                                                                                | Two signature, 3, 5    | 5                 |
 | 3rd   | Psionic Disruption, Discipline Ability                                                                                     | Two signature, 3, 5, 7 | 5                 |
 
@@ -8072,7 +8131,8 @@ Your body has been trained to predict when attacks will happen before they happe
 
 ### MASTERY
 
-Your choice of tradition grants you a form of honing discipline.\
+Your choice of tradition grants you a form of honing discipline.
+
 As your discipline grows, your psionic mastery over your body intensifies. These benefits are cumulative.
 
 #### CHRONOKINETIC MASTERY
@@ -8684,12 +8744,18 @@ characteristics scores:
 - 2, 1, 0, 0
 - 1, 1, 1, 0
 
-**Weak Potency:** Agility score - 1\
-**Average Potency:** Agility score\
-**Strong Potency:** Agility score + 1\
-**Starting Stamina at 1st Level:** 18\
-**Stamina Gained at 2nd and Higher Levels:** 9\
-**Recoveries:** 8\
+**Weak Potency:** Agility score - 1
+
+**Average Potency:** Agility score
+
+**Strong Potency:** Agility score + 1
+
+**Starting Stamina at 1st Level:** 18
+
+**Stamina Gained at 2nd and Higher Levels:** 9
+
+**Recoveries:** 8
+
 **Skills:** Hide and Sneak, plus choose any five skills from Criminal Underworld or the skills of the exploration,
 interpersonal, or intrigue skill groups.
 
@@ -8708,8 +8774,8 @@ As a shadow, you gain the following features.
 ### SHADOW COLLEGE
 
 Shadow colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step
-in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or
-are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than
+in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out-or
+are kicked out-as the master shadows who teach stealth, magic, and assassination to their students are often less than
 gentle in their approach.
 
 You are one of the few who has graduated from a shadow college, chosen from the following options:
@@ -8788,7 +8854,7 @@ You gain the following ability.
 
 Just a little poison goes a long way.
 
-- **Keywords:** —
+- **Keywords:** -
 - **Type:** Maneuver
 - **Distance:** Self
 - **Target:** Self
@@ -8855,7 +8921,7 @@ You sow a moment of confusion in combat, to your enemy's peril.
 
 When an enemy attacks, you roll with the impact to reduce the harm.
 
-- **Keywords:** —
+- **Keywords:** -
 - **Type:** Triggered
 - **Distance:** Self
 - **Target:** Self
@@ -8893,7 +8959,7 @@ the following ability.
 
 Keep up the attack. Never give them a moment's grace.
 
-- **Keywords:** —
+- **Keywords:** -
 - **Type:** Free triggered action
 - **Distance:** Self
 - **Target:** Self
@@ -9294,7 +9360,7 @@ Choose one heroic ability from the following options.
 
 You enter a flow state that makes you nearly impossible to pin down.
 
-- **Keywords:** —
+- **Keywords:** -
 - **Type:** Maneuver
 - **Distance:** Self
 - **Target:** Self
@@ -9321,7 +9387,7 @@ Why are you looking at ME?!
 
 #### PINNING SHOT (7 INSIGHT)
 
-One missile—placed well and placed hard.
+One missile-placed well and placed hard.
 
 - **Keywords:** Attack, Ranged, Weapon
 - **Type:** Action
@@ -9364,15 +9430,18 @@ stand alone.
 **Starting Characteristics:** You start with a Might of 2 and a Reason of 2, and can choose one of the following arrays
 for your other characteristics scores:
 
-- 2, −1, −1
-- 1, 1, −1
+- 2, -1, -1
+- 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Reason score - 1\
-**Average Potency:** Reason score\
+**Weak Potency:** Reason score - 1
+
+**Average Potency:** Reason score
+
 **Strong Potency:** Reason score + 1
 
-**Starting Stamina at 1st Level:** 21\
+**Starting Stamina at 1st Level:** 21
+
 **Stamina Gained at 2nd and Higher Levels:** 12
 
 **Recoveries:** 10
@@ -9384,7 +9453,7 @@ Fletching, History, Mechanics, Monsters, Search, or the skills of the exploratio
 
 | Level | Features                                                                                                            | Abilities | Doctrine Abilities |
 | ----- | ------------------------------------------------------------------------------------------------------------------- | --------- | ------------------ |
-| 1st   | Tactical Doctrine, Focus, Doctrine Features, Triggered Action, Field Arsenal, Mark, Strike Now, Tactician Abilities | 3, 5      | —                  |
+| 1st   | Tactical Doctrine, Focus, Doctrine Features, Triggered Action, Field Arsenal, Mark, Strike Now, Tactician Abilities | 3, 5      | -                  |
 | 2nd   | Battlefield Awareness, Doctrine Features, Perk, Doctrine Ability                                                    | 3, 5      | 5                  |
 | 3rd   | Out of Position, Focus Ability                                                                                      | 3, 5, 7   | 5                  |
 
@@ -9394,7 +9463,7 @@ As a tactician, you gain the following features:
 
 ### TACTICAL DOCTRINE
 
-Warfare is as old as civilization—and perhaps even older. As battle became ever more developed and complex, military
+Warfare is as old as civilization-and perhaps even older. As battle became ever more developed and complex, military
 leaders invented doctrine, outlining how combatants should be structured, used, and deployed. Doctrine can be learned at
 war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield.
 
@@ -9565,7 +9634,7 @@ You know how to focus the attention of your allies as you push them toward victo
 
 #### MARK
 
-You draw your allies' attention to a specific foe—with devastating effect.
+You draw your allies' attention to a specific foe-with devastating effect.
 
 - **Keywords:** Ranged
 - **Type:** Maneuver
@@ -9621,7 +9690,7 @@ You can use this maneuver on an already marked creature to bank more focus.
 
 Your ability to command your allies in combat grants you the following ability:
 
-#### “STRIKE NOW!”
+#### "STRIKE NOW!"
 
 Your foe left an opening. You point this out to an ally!
 
@@ -9759,7 +9828,7 @@ start of your next turn.
 
 ###### NOW! (5 FOCUS)
 
-Your allies wait for your command—then unleash death!
+Your allies wait for your command-then unleash death!
 
 - **Keywords:** Ranged, Weapon
 - **Type:** Maneuver
@@ -9945,7 +10014,7 @@ Choose one heroic ability from the following options.
 
 Historians will write about this day.
 
-- **Keywords:** —
+- **Keywords:** -
 - **Type:** Maneuver
 - **Distance:** Self
 - **Target:** Self
@@ -9957,7 +10026,7 @@ they do `(SURGE)(SURGE)`.
 
 The purpose of a charge is to break their morale, and force a retreat.
 
-- **Keywords:** —
+- **Keywords:** -
 - **Type:** Maneuver
 - **Distance:** Self
 - **Target:** Self
@@ -9970,7 +10039,7 @@ marked targets.
 
 The tide begins to turn.
 
-- **Keywords:** —
+- **Keywords:** -
 - **Type:** Maneuver
 - **Distance:** Self
 - **Target:** Self
@@ -9982,7 +10051,7 @@ they are R \[average\] frightened of the attacker (save ends).
 
 "We can do this! Keep faith and hold fast!"
 
-- **Keywords:** —
+- **Keywords:** -
 - **Type:** Maneuver
 - **Distance:** Self
 - **Target:** Self
@@ -10006,15 +10075,20 @@ harming the talent, and those who use too many too quickly die from the exertion
 **Starting Characteristics:** You start with a Reason of 2 and a Presence of 2, and can choose one of the following
 arrays for your other characteristics scores:
 
-- 2, −1, −1
-- 1, 1, −1
+- 2, -1, -1
+- 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Reason score − 1\
-**Average Potency:** Reason score\
-**Strong Potency:** Reason score + 1\
-**Starting Stamina at 1st Level:** 18\
-**Stamina Gained at 2nd and greater levels:** 9\
+**Weak Potency:** Reason score - 1
+
+**Average Potency:** Reason score
+
+**Strong Potency:** Reason score + 1
+
+**Starting Stamina at 1st Level:** 18
+
+**Stamina Gained at 2nd and greater levels:** 9
+
 **Recoveries:** 8
 
 **Skills:** You have Psionics and Read Person. Choose any two skills from the interpersonal or lore skill groups.
@@ -10315,7 +10389,8 @@ Select two signature abilities. Signature abilities can be used at will.
 - **17+:** 3 corruption damage; P \[strong\] slowed (save ends)
 
 **Effect:** The target takes 1 extra corruption damage for each time they are targeted by this ability within a single
-encounter.\
+encounter.
+
 **Strained:** You gain 1 clarity on a tier-2 or higher result.
 
 ##### INCINERATE
@@ -10334,7 +10409,8 @@ encounter.\
 - **17+:** 4 fire damage
 
 **Effect:** The column of fire lingers until the start of your next turn. A creature or object that enters or starts
-their turn in the affected area takes 2 fire damage.\
+their turn in the affected area takes 2 fire damage.
+
 **Strained:** The cube area increases by 2, but the fire immediately disappears at the end of your turn.
 
 ##### KINETIC GRIP
@@ -10352,7 +10428,8 @@ their turn in the affected area takes 2 fire damage.\
 - **12-16:** push 4
 - **17+:** push 6; prone
 
-**Effect:** You can choose to slide the target 2 before making the power roll.\
+**Effect:** You can choose to slide the target 2 before making the power roll.
+
 **Strained:** You can't use this ability's additional effect, but the push can be vertical.
 
 ##### KINETIC PULSE
@@ -10388,7 +10465,8 @@ their turn in the affected area takes 2 fire damage.\
 - **17+:** 4 damage; M \[strong\] prone
 
 **Effect:** When targeting an object with a solid reflective surface, such as a mirror, a shield, or metal armor, you
-can choose an additional target within 3 of the reflective surface.\
+can choose an additional target within 3 of the reflective surface.
+
 **Strained:** You have a `(SURGE)` on the attack. Enemies have a `(SURGE)` on attacks made against you until the start of your next
 turn.
 
@@ -10407,7 +10485,8 @@ turn.
 - **12-16:** 5 damage
 - **17+:** 7 damage
 
-**Effect:** The next attack against the target has a `(SURGE)`.\
+**Effect:** The next attack against the target has a `(SURGE)`.
+
 **Strained:** The attack deals an extra 3 damage to the target and yourself. This damage ignores your immunities.
 
 #### HEROIC ABILITIES
@@ -10497,7 +10576,8 @@ Choose one heroic ability from the following options:
 - **Distance:** Self or Ranged 10
 - **Target:** Self or 1 ally
 
-**Effect:** The target uses an ability they've previously used this round without spending any heroic resources.\
+**Effect:** The target uses an ability they've previously used this round without spending any heroic resources.
+
 **Strained:** You take 1d6 damage and you are slowed (save ends).
 
 ###### INERTIA SOAK (5 CLARITY)
@@ -10510,7 +10590,8 @@ Choose one heroic ability from the following options:
 - **Target:** Self or 1 ally
 
 **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next
-turn. When the target moves into a square while they have this effect, they can push one adjacent creature 2 squares.\
+turn. When the target moves into a square while they have this effect, they can push one adjacent creature 2 squares.
+
 **Strained:** You are weakened and your stability decreases by 5, which can become a negative value that adds to the
 distance you are force moved (save ends).
 
@@ -10524,7 +10605,8 @@ distance you are force moved (save ends).
 - **Target:** Self or 1 ally
 
 **Effect:** The target's stability increases by 5, and they have `(SHIELD)` and a `(SURGE)` on weapon attacks until the start of your
-next turn.\
+next turn.
+
 **Strained:** You cannot use maneuvers (save ends).
 
 ###### PERFECT CLARITY (5 CLARITY)
@@ -10537,7 +10619,8 @@ next turn.\
 - **Target:** Self or 1 ally
 
 **Effect:** The target's speed increases by 3, and they have a double edge on their next power roll made before the
-start of your next turn. If the target gets a tier-3 result on the roll, you gain 1 clarity.\
+start of your next turn. If the target gets a tier-3 result on the roll, you gain 1 clarity.
+
 **Strained:** You take 1d6 damage and you can't use triggered actions (save ends).
 
 ## 2ND-LEVEL FEATURES
@@ -10607,7 +10690,8 @@ Choose one of the following abilities:
 - **17+:** Target 4 creatures, one of which can be you
 
 **Effect:** Each target's speed increases by 5 and they gain the use of an additional maneuver during their turn until
-the start of your next turn.\
+the start of your next turn.
+
 **Strained:** Your speed is halved until the end of the encounter.
 
 ##### SLOW (5 CLARITY)
@@ -10625,7 +10709,8 @@ the start of your next turn.\
 - **12-16:** Slowed (save ends); P \[average\] speed is 0 (save ends)
 - **17+:** Slowed (save ends); P \[strong\] speed is 0 (save ends)
 
-**Effect:** Each target can't use triggered actions while they are slowed by this ability.\
+**Effect:** Each target can't use triggered actions while they are slowed by this ability.
+
 **Strained:** The potency of this ability increases by 1. You take 1d6 damage. At the start of each round while a target
 is affected by this ability, you take 1d6 damage. You can choose to immediately end the effects on all affected
 targets (no action required).
@@ -10667,7 +10752,8 @@ Choose one of the following abilities:
 - **17+:** 14 damage; M \[strong\] prone can't stand (save ends)
 
 **Effect:** A target made prone by this ability is lifted 2 squares into the air before falling immediately to the
-ground.\
+ground.
+
 **Strained:** You take half the damage the target takes, including any damage from falling.
 
 #### TELEPATHY ABILITIES
@@ -10708,7 +10794,8 @@ turn.
 - **17+:** Target moves up to their speed and uses their signature ability against targets of your choice
 
 **Effect:** You control the target's movement. You can't move the target in a way that puts them in harm's way, such as
-off a cliff. However, you can move them in a way that provokes opportunity attacks.\
+off a cliff. However, you can move them in a way that provokes opportunity attacks.
+
 **Strained:** You take 1d6 damage and you are weakened (EoT).
 
 ## 3RD-LEVEL FEATURES
@@ -10741,7 +10828,8 @@ Choose one heroic ability from the following options:
 - **17+:** 8 corruption damage; removed from encounter (EoT); P \[strong\] weakened (save ends)
 
 **Effect:** When a target removed from the encounter returns, they appear where they were removed or in the closest
-available space of the Director's choice.\
+available space of the Director's choice.
+
 **Strained:** You take 2d6 damage and you grow visibly older (the equivalent of 10 human years). You gain 2 clarity on a
 tier-3 result.
 
@@ -10755,7 +10843,8 @@ tier-3 result.
 - **Target:** Self
 
 **Effect:** You create three size 1T orb objects that orbit your body. You have a `(SHIELD)` for each orb you have active.
-Whenever you take damage, you lose 1 orb.\
+Whenever you take damage, you lose 1 orb.
+
 You can use a free maneuver to fire an orb at a creature or object within 5 as a ranged attack on each of your turns,
 losing the orb after the attack.
 
@@ -10778,7 +10867,8 @@ losing the orb after the attack.
 
 **Effect:** The aura lasts until the start of your next turn. Whenever an enemy targets an ally within the aura with a
 ranged ability, the ability is negated on the ally and reflected back at the enemy, dealing half damage and negating any
-additional effects.\
+additional effects.
+
 **Strained:** The aura increases by 1. Each ability your aura reflects causes you to take 2d6 damage and makes you
 forget a memory.
 
@@ -10798,7 +10888,8 @@ forget a memory.
 - **17+:** 11 damage; P \[strong\] dazed (save ends)
 
 **Effect:** After resolving the power roll, attacks and abilities used against the target have a `(SURGE)`, and the target has a
-bane on presence tests until the end of the encounter.\
+bane on presence tests until the end of the encounter.
+
 **Strained:** The potency of this ability increases by 1. You take 2d6 damage and attacks and abilities used against you
 have a `(SURGE)` until the end of the encounter.
 
@@ -10820,12 +10911,16 @@ arrays for your other characteristics scores:
 - 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Presence score − 1\
-**Average Potency:** Presence score\
+**Weak Potency:** Presence score - 1
+
+**Average Potency:** Presence score
+
 **Strong Potency:** Presence score + 1
 
-**Starting Stamina at 1st Level:** 18\
-**Stamina Gained at 2nd and greater levels:** 9\
+**Starting Stamina at 1st Level:** 18
+
+**Stamina Gained at 2nd and greater levels:** 9
+
 **Recoveries:** 8
 
 **Skills:** You have Read Person and choose two skills from the interpersonal group and one skill from the intrigue or
@@ -10913,8 +11008,7 @@ select from.
 - **Distance:** 5 aura
 - **Target:** Self and all allies
 
-**Effect:** Each target that starts their turn within the aura has their speed increased by 2 until the end of their
-turn.
+**Effect:** Each target that starts their turn within the aura has their speed increased by 2 until the end of their turn.
 
 ### CLASS ACT FEATURES
 
@@ -10982,7 +11076,8 @@ the start of your next turn.
 start of your next turn.
 \- You insult the enemy where they're most vulnerable. The next attack made against an enemy within distance has `(SURGE)`
 until the start of your next turn.
-\- **Spend 3 Drama:** You can have 2 targets for any of these effects instead of 1.
+
+**Spend 3 Drama:** You can have 2 targets for any of these effects instead of 1.
 
 #### POWER CHORD
 
@@ -11011,14 +11106,15 @@ You have the following ability.
 
 *You're the one they came to see!*
 
-- **Keywords:** –
+- **Keywords:** -
 - **Type:** Maneuver
 - **Distance:** Self
 - **Target:** Self
 
 **Effect:** Your speed increases by 2 until the end of your turn. The next power roll you make this turn can't be
 lower than tier-2.
-\- **Spend 2 Drama:** Your speed, instead, increases by 4.
+
+**Spend 2 Drama:** Your speed, instead, increases by 4.
 
 #### VIRTUOSO ROUTINES
 
@@ -11026,7 +11122,7 @@ You have access to the following routines to use with Curtain Call.
 
 ##### "THUNDER MOTHER"
 
-*“All-for-thun-der Motherrr! Run-and-hide-for Coverrr!”*
+*"All-for-thun-der Motherrr! Run-and-hide-for Coverrr!"*
 
 - **Keywords:** Attack, Magic, Ranged
 - **Type:** Routine
@@ -11044,7 +11140,7 @@ same creature twice with this effect.
 
 ##### "BALLAD OF THE BEAST"
 
-*“Teeth are bare! Eyes black! No escaping the beast!”*
+*"Teeth are bare! Eyes black! No escaping the beast!"*
 
 - **Keywords:** Area, Magic
 - **Type:** Routine
@@ -11070,7 +11166,7 @@ Your class act grants you one of the following triggered actions as shown on the
 
 *Gives the chorus a little punch.*
 
-- **Keywords:** —
+- **Keywords:** -
 - **Type:** Triggered
 - **Distance:** Ranged 5
 - **Target:** 1 ally
@@ -11079,13 +11175,14 @@ Your class act grants you one of the following triggered actions as shown on the
 
 **Effect:** The target chooses an additional target within Distance. They use the same power roll for all additional
 targets. Any damage dealt to additional targets is now sonic damage.
-\- **Spend 2 Drama:** The target chooses two additional targets instead of one.
+
+**Spend 2 Drama:** The target chooses two additional targets instead of one.
 
 #### RIPOSTE
 
-*“I'd have brought treats had I known I'd be fighting a dog.”*
+*"I'd have brought treats had I known I'd be fighting a dog."*
 
-- **Keywords:** —
+- **Keywords:** -
 - **Type:** Triggered
 - **Distance:** Melee 1
 - **Target:** Self or 1 ally
@@ -11093,13 +11190,14 @@ targets. Any damage dealt to additional targets is now sonic damage.
 **Trigger:** The target takes damage from a melee attack.
 
 **Effect:** The target takes a free strike against the attacker.
-\- **Spend 2 Drama:** The target can use a signature attack in place of the free strike.
+
+**Spend 2 Drama:** The target can use a signature attack in place of the free strike.
 
 #### TURNABOUT IS FAIR PLAY
 
 *All's fair in love and whatever.*
 
-- **Keywords:** —
+- **Keywords:** -
 - **Type:** Triggered
 - **Distance:** Ranged 10
 - **Target:** 1 creature
@@ -11107,8 +11205,8 @@ targets. Any damage dealt to additional targets is now sonic damage.
 **Trigger:** The target makes an attack with at least one edge or a bane.
 
 **Effect:** One of the attack's edges becomes a bane or vice versa.
-\- **Spend 3 Drama:** One of the target's attack's edges becomes a double bane, or one of the attack's banes becomes
-a double edge.
+
+**Spend 3 Drama:** One of the target's attack's edges becomes a double bane, or one of the attack's banes becomes a double edge.
 
 ### KIT
 
@@ -11536,7 +11634,7 @@ You have access to two additional routines to use with Curtain Call.
 
 ##### "FIRE UP THE NIGHT"
 
-*“Maybe you and I; we can still bring the light!”*
+*"Maybe you and I; we can still bring the light!"*
 
 - **Keywords:** Area, Magic
 - **Type:** Routine
@@ -11548,7 +11646,7 @@ when targeting concealed enemies. They can also search for hidden creatures as a
 
 ##### "NEVERENDING HERO"
 
-*“And toniiight we can truly say; they will alllways find a way!”*
+*"And toniiight we can truly say; they will alllways find a way!"*
 
 - **Keywords:** Area, Magic
 - **Type:** Routine
@@ -11619,7 +11717,7 @@ two consecutive rounds without spending drama.
 
 *Totus mundus agit histrionem.*
 
-- **Keywords:** —
+- **Keywords:** -
 - **Type:** Maneuver
 - **Distance:** Line of effect
 - **Target:** 1 creature
@@ -11671,7 +11769,7 @@ Each kit has an armor category that indicates the kind of protection you have wh
 #### NONE
 
 If a kit has no armor, you can wear whatever clothing you like! Robes, a fashionable tunic and pants, or just a
-loincloth—it's totally up to you.
+loincloth-it's totally up to you.
 
 #### LIGHT ARMOR
 
@@ -11794,7 +11892,7 @@ damage.
 
 #### BONUSES ACROSS TIERS
 
-Kit damage bonuses are presented as “+X/+Y/+Z.” The X bonus is added to qualifying tier 1 power roll results, the Y
+Kit damage bonuses are presented as "+X/+Y/+Z." The X bonus is added to qualifying tier 1 power roll results, the Y
 bonus is added to qualifying tier 2 power roll results, and the Z bonus is added to qualifying tier 3 power roll
 results. For example, the Shining Armor Kit has a +2/+2/+2 melee damage bonus, increasing the damage of your abilities
 with the Melee and Weapon keywords across all tier results. The Sniper kit has a +0/+0/+3 ranged damage bonus, having no
@@ -12352,7 +12450,7 @@ You wear no armor and wield a bow.
 
 ##### PATIENT SHOT
 
-Breathe … aim … wait… then strike!
+Breathe... aim... wait... then strike!
 
 - **Keywords:** Attack, Ranged, Weapon
 - **Type:** Action
@@ -12456,7 +12554,7 @@ You wear light armor and wield a medium weapon.
 
 ##### FANCY FOOTWORK
 
-All combat is a dance—and you'll be the one leading.
+All combat is a dance-and you'll be the one leading.
 
 - **Keywords:** Attack, Melee, Weapon
 - **Type:** Action
@@ -12473,7 +12571,7 @@ All combat is a dance—and you'll be the one leading.
 
 ### SWORD AND BOARD
 
-The Sword and Board kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium
+The Sword and Board kit doesn't just give you a shield-it makes the shield part of your offensive arsenal. With a medium
 weapon in one hand and a block of steel or solid oak in the other, you can protect yourself and control the battlefield.
 
 #### EQUIPMENT
@@ -12507,7 +12605,7 @@ In your hands, a shield isn't just for protection.
 ### WARRIOR PRIEST
 
 The Warrior Priest kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the
-fray without fear, thanks to the power of the divine… and the heavy armor you're wearing.
+fray without fear, thanks to the power of the divine... and the heavy armor you're wearing.
 
 #### EQUIPMENT
 
@@ -12576,31 +12674,31 @@ When you draw your whip back after an attack, your enemy comes ever closer.
 
 | Kit              | Armor          | Weapon             | Stamina | Speed | Stability | Melee Damage | Ranged Damage | Ranged Distance | Melee Distance | Disengage |
 | ---------------- | -------------- | ------------------ | ------- | ----- | --------- | ------------ | ------------- | --------------- | -------------- | --------- |
-| Arcane Archer    | None           | Bow                | —       | +1    | —         | +2/+2/+2     | +10           | —               | +1             |           |
-| Battlemind       | Light          | Medium             | +3      | +2    | +1        | +2/+2/+2     | —             | —               | —              | —         |
-| Cloak and Dagger | Light          | Light              | +3      | +2    | —         | +1/+1/+1     | +1/+1/+1      | +5              | —              | +1        |
-| Dual Wielder     | Medium         | Medium, Light      | +6      | +2    | —         | +2/+2/+2     | —             | —               | —              | +1        |
-| Guisarmier       | Medium         | Polearm            | +6      | —     | +1        | +2/+2/+2     | —             | —               | +1             | —         |
-| Martial Artist   | None           | Unarmed strike     | +3      | +3    | —         | +2/+2/+2     | —             | —               | —              | +1        |
-| Mountain         | Heavy          | Heavy              | +9      | —     | +2        | +0/+0/+3     | —             | —               | —              | —         |
-| Panther          | None           | Heavy              | +6      | +1    | +1        | +0/+0/+3     | —             | —               | —              | —         |
-| Pugilist         | None           | Unarmed strike     | +6      | +2    | +1        | +1/+1/+1     | —             | —               | —              | —         |
-| Raider           | Light, shield  | Light              | +6      | +1    | —         | +1/+1/+1     | +1/+1/+1      | +5              | —              | +1        |
-| Ranger           | Medium         | Medium, bow        | +6      | +1    | —         | +1/+1/+1     | +1/+1/+1      | +5              | —              | +1        |
-| Rapid-Fire       | Light          | Bow                | +3      | +1    | —         | —            | +2/+2/+2      | +7              | —              | +1        |
-| Retiarius        | Light          | Polearm, ensnaring | +3      | +1    | —         | +2/+2/+2     | —             | —               | +1             | +1        |
-| Shining Armor    | Heavy, shield  | Medium             | +12     | —     | +1        | +2/+2/+2     | —             | —               | —              | —         |
-| Sniper           | None           | Bow                | —       | +1    | —         | +0/+0/+3     | +10           | —               | +1             |           |
-| Spellsword       | Light, shield  | Medium             | +6      | +1    | +1        | +2/+2/+2     | —             | —               | —              | —         |
-| Stick and Robe   | Light          | Polearm            | +3      | +2    | —         | +1/+1/+1     | —             | —               | +1             | +1        |
-| Sword and Board  | Medium, shield | Medium             | +9      | —     | +1        | +2/+2/+2     | —             | —               | —              | +1        |
-| Swashbuckler     | Light          | Medium             | +3      | +3    | —         | +2/+2/+2     | —             | —               | —              | +1        |
-| Warrior Priest   | Heavy          | Light              | +9      | +1    | +1        | +1/+1/+1     | —             | —               | —              | —         |
-| Whirlwind        | None           | Whip               | —       | +3    | —         | +1/+1/+1     | —             | —               | +1             | +1        |
+| Arcane Archer    | None           | Bow                | -       | +1    | -         | +2/+2/+2     | +10           | -               | +1             |           |
+| Battlemind       | Light          | Medium             | +3      | +2    | +1        | +2/+2/+2     | -             | -               | -              | -         |
+| Cloak and Dagger | Light          | Light              | +3      | +2    | -         | +1/+1/+1     | +1/+1/+1      | +5              | -              | +1        |
+| Dual Wielder     | Medium         | Medium, Light      | +6      | +2    | -         | +2/+2/+2     | -             | -               | -              | +1        |
+| Guisarmier       | Medium         | Polearm            | +6      | -     | +1        | +2/+2/+2     | -             | -               | +1             | -         |
+| Martial Artist   | None           | Unarmed strike     | +3      | +3    | -         | +2/+2/+2     | -             | -               | -              | +1        |
+| Mountain         | Heavy          | Heavy              | +9      | -     | +2        | +0/+0/+3     | -             | -               | -              | -         |
+| Panther          | None           | Heavy              | +6      | +1    | +1        | +0/+0/+3     | -             | -               | -              | -         |
+| Pugilist         | None           | Unarmed strike     | +6      | +2    | +1        | +1/+1/+1     | -             | -               | -              | -         |
+| Raider           | Light, shield  | Light              | +6      | +1    | -         | +1/+1/+1     | +1/+1/+1      | +5              | -              | +1        |
+| Ranger           | Medium         | Medium, bow        | +6      | +1    | -         | +1/+1/+1     | +1/+1/+1      | +5              | -              | +1        |
+| Rapid-Fire       | Light          | Bow                | +3      | +1    | -         | -            | +2/+2/+2      | +7              | -              | +1        |
+| Retiarius        | Light          | Polearm, ensnaring | +3      | +1    | -         | +2/+2/+2     | -             | -               | +1             | +1        |
+| Shining Armor    | Heavy, shield  | Medium             | +12     | -     | +1        | +2/+2/+2     | -             | -               | -              | -         |
+| Sniper           | None           | Bow                | -       | +1    | -         | +0/+0/+3     | +10           | -               | +1             |           |
+| Spellsword       | Light, shield  | Medium             | +6      | +1    | +1        | +2/+2/+2     | -             | -               | -              | -         |
+| Stick and Robe   | Light          | Polearm            | +3      | +2    | -         | +1/+1/+1     | -             | -               | +1             | +1        |
+| Sword and Board  | Medium, shield | Medium             | +9      | -     | +1        | +2/+2/+2     | -             | -               | -              | +1        |
+| Swashbuckler     | Light          | Medium             | +3      | +3    | -         | +2/+2/+2     | -             | -               | -              | +1        |
+| Warrior Priest   | Heavy          | Light              | +9      | +1    | +1        | +1/+1/+1     | -             | -               | -              | -         |
+| Whirlwind        | None           | Whip               | -       | +3    | -         | +1/+1/+1     | -             | -               | +1             | +1        |
 
 # COMPLICATIONS
 
-Beyond your abilities and features, your hero might have something else that makes them … unusual. Perhaps you have an earth elemental living in your body. Or you might wield a magic sword that devastates enemies but feeds on your own vitality.
+Beyond your abilities and features, your hero might have something else that makes them... unusual. Perhaps you have an earth elemental living in your body. Or you might wield a magic sword that devastates enemies but feeds on your own vitality.
 
 A complication is an optional feature you can take to enrich your hero's backstory, with any complication providing you both a positive benefit and a negative drawback. Because complications are optional, check with your Director before taking one.
 
@@ -12614,9 +12712,9 @@ Not all complication benefits and drawbacks are created equal, but each benefit 
 
 ## MODIFYING THE STORY
 
-You can modify the narrative of a complication to better fit with your vision of your character's backstory—or change it entirely. For instance, if you choose *Devil Deal* as a complication, you can have your hero instead make that deal with an archfey or an undead general!
+You can modify the narrative of a complication to better fit with your vision of your character's backstory-or change it entirely. For instance, if you choose *Devil Deal* as a complication, you can have your hero instead make that deal with an archfey or an undead general!
 
-Many of the details of each complication are purposefully left vague, so that you can connect it to the rest of your backstory. If your complication took place during “an attack” or “an accident,” you decide the specific details of who or what attacked you, or what type of accident befell you.
+Many of the details of each complication are purposefully left vague, so that you can connect it to the rest of your backstory. If your complication took place during "an attack" or "an accident," you decide the specific details of who or what attacked you, or what type of accident befell you.
 
 ## DETERMINE COMPLICATION
 
@@ -12634,7 +12732,7 @@ Cultists captured you while raiding your home, then began an unholy ritual to tu
 
 ### DEVIL DEAL
 
-Your ancestors made a deal with an archdevil that has tied you to that fiend's service. When you first learned of this deal, you were taken to the Seven Cities of Hell, where some of the timescape's best minds taught you the ways of battle or magic. The archdevil allows you to use these gifts as you will … until they require a favor from you.
+Your ancestors made a deal with an archdevil that has tied you to that fiend's service. When you first learned of this deal, you were taken to the Seven Cities of Hell, where some of the timescape's best minds taught you the ways of battle or magic. The archdevil allows you to use these gifts as you will... until they require a favor from you.
 
 **Benefit:** Whenever you are present for a battle in which all the creatures on one side are not surprised, your side goes first on a result of 4 or greater on the d10 roll (see Determine Who Goes First in Combat Round).
 
@@ -12642,7 +12740,7 @@ Your ancestors made a deal with an archdevil that has tied you to that fiend's s
 
 ### ELEMENTAL INSIDE
 
-When an evil mage threatened someone you loved, you blocked your foe's summoning of an elemental creature by absorbing their magic with your body. You are now infused with the power of that elemental—and they're not happy about it.
+When an evil mage threatened someone you loved, you blocked your foe's summoning of an elemental creature by absorbing their magic with your body. You are now infused with the power of that elemental-and they're not happy about it.
 
 **Benefit:** Your Stamina increases by 6 at 1st level, then increases by an additional 1 each time you gain a new level.
 
@@ -12666,7 +12764,7 @@ You once contracted a terrible illness for which no one could find a cure. You s
 
 ### PUNISHMENT CURSE
 
-Through ignorance, fear, spite, or selfishness, you refused to help someone in need. To teach you a lesson, a deity offered you what seemed to be a blessing—extra power to help you heal yourself in times of need, but harsh consequences should your need become excessive. You took the deal, and now benefit from the blessing but also suffer from a curse.
+Through ignorance, fear, spite, or selfishness, you refused to help someone in need. To teach you a lesson, a deity offered you what seemed to be a blessing-extra power to help you heal yourself in times of need, but harsh consequences should your need become excessive. You took the deal, and now benefit from the blessing but also suffer from a curse.
 
 **Benefit:** You have 1 additional Recovery.
 
@@ -12694,7 +12792,7 @@ Your childhood sweetheart was royalty, and the two of you stayed close throughou
 
 **Benefit:** You know how to talk to monarchs, aristocrats, and other wealthy leaders. When you engage with any such NPC during a negotiation, their patience increases by 1 (to a maximum of 5).
 
-**Drawback:** Your royal ward regularly calls upon you for advice and takes that advice to heart—for better or for worse.
+**Drawback:** Your royal ward regularly calls upon you for advice and takes that advice to heart-for better or for worse.
 
 ### WAR OF THE GUILDS
 
@@ -12874,7 +12972,7 @@ In a negotiation, when a creature's patience reaches 0, you can make one last ar
 
 When you make a test that uses the Brag, Flirt, or Intimidate skills, you can use Might in place of another characteristic used as part of the test.
 
-### SO, TELL ME …
+### SO, TELL ME...
 
 When you succeed on a Presence test to influence another creature, you can ask one creature you influenced a follow-up question after the test resolves, which they must answer honestly. At the Director's discretion, the creature doesn't have to answer the question completely or at all if the response would put them or a loved one in danger.
 
@@ -12963,7 +13061,8 @@ You gain the following ability.
 - **Distance:** Self
 - **Target:** Self
 
-You cast an entertaining spell that creates a minor but impressive magical effect.\
+You cast an entertaining spell that creates a minor but impressive magical effect.
+
 Choose one of the following effects:
 
 - You teleport an unattended size 1T or 1S object within 1 square of you to an unoccupied space within 1 square of you.
@@ -12980,17 +13079,17 @@ As a maneuver, you can magically learn the keywords a creature has in its stat b
 
 ### FAMILIAR
 
-A magic spirit, which has taken the form of a specific small animal or animate object, has chosen to be your familiar—or to adopt you as its familiar. The familiar can't perform activities that require hands, and it can't harm other creatures or objects. It can provide flanking benefits only to you. The familiar uses the familiar stat block.
+A magic spirit, which has taken the form of a specific small animal or animate object, has chosen to be your familiar-or to adopt you as its familiar. The familiar can't perform activities that require hands, and it can't harm other creatures or objects. It can provide flanking benefits only to you. The familiar uses the familiar stat block.
 
 If the familiar is destroyed, you can restore them as a respite activity or by spending a Recovery as an action to bring them back into existence into an unoccupied space adjacent to you.
 
 #### FAMILIAR STAT BLOCK
 
-- **Stamina:** 2 × your level
+- **Stamina:** 2 x your level
 - **Speed:** 5
 - **Size:** 1T
 - **Stability:** 0
-- **Might:** −3
+- **Might:** -3
 - **Agility:** +2
 - **Reason:** +0
 - **Intuition:** 0
@@ -13062,7 +13161,7 @@ The Caelian Empire dominated five of the seven regions of Orden three thousand y
 
 Some thirteen hundred years after the fall of the Caelian Empire, the languages of the different regions of the empire are enjoying a resurgence. Still, the Caelian tongue is spoken by most humans in most regions to one extent or another.
 
-Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including dwarves, elves, orcs, lizardfolk, and goblins. If you speak more than one language in Orden, your second language is almost certainly Caelian. As a result, that language of empire is now colloquially referred to as “the common tongue”—the language that most folk of Orden have in common.
+Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including dwarves, elves, orcs, lizardfolk, and goblins. If you speak more than one language in Orden, your second language is almost certainly Caelian. As a result, that language of empire is now colloquially referred to as "the common tongue" - the language that most folk of Orden have in common.
 
 ## EXTANT SPOKEN LANGUAGES
 
@@ -13070,7 +13169,7 @@ Folks have been speaking and writing in Orden for at least thirty thousand years
 
 The languages on the Vasloria Languages by Ancestry table are the most common languages in that region, actively spoken by significant populations of people. Most languages are associated with a specific ancestry and its culture, but being a member of an ancestry doesn't automatically make you part of the associated culture the language is tied to. For example, if your orc hero was raised in a culture of elves, you probably speak one of the elven languages, and might never have learned Kalliak.
 
-Most languages have colloquial or casual names. For instance, many people in Orden call Kalliak “Orcish” and Hyrallic “Elvish,” but any sage knows there are lots of orcish and elven languages, just as there are multiple human languages.
+Most languages have colloquial or casual names. For instance, many people in Orden call Kalliak "Orcish" and Hyrallic "Elvish," but any sage knows there are lots of orcish and elven languages, just as there are multiple human languages.
 
 ### VASLORIA LANGUAGES BY ANCESTRY
 
@@ -13133,7 +13232,7 @@ In the same way that intelligent creatures in Orden who live near or trade with 
 
 For an adventuring hero with an ambition to create great works or unlock deep lore, it can be useful to be able to read ancient writing. Much deep lore is attested only in ancient tomes and scrolls written in languages that no modern culture uses.
 
-Most of these ancient writings were written by people who expected other people to read it. The lore might have been kept secret by not sharing it with anyone outside the college or cult whose members originally wrote it, but the actual writing was not intended to be difficult to read or understand. It wasn't written in code—just in a language that people stopped speaking long ago.
+Most of these ancient writings were written by people who expected other people to read it. The lore might have been kept secret by not sharing it with anyone outside the college or cult whose members originally wrote it, but the actual writing was not intended to be difficult to read or understand. It wasn't written in code-just in a language that people stopped speaking long ago.
 
 Sages can reconstruct many of these languages by learning which modern languages descended from them, then comparing them to related languages from the same time period that might have survived. Translating such ancient languages has been extremely useful for the purposes of crafting and research.
 
@@ -13235,7 +13334,7 @@ An easy test has some risk of failure, but most heroes will likely overcome it. 
 
 #### MEDIUM TESTS
 
-A medium test has some risk of failure that most heroes will likely overcome—but with a cost. The power roll you make for a medium test determines the outcome:
+A medium test has some risk of failure that most heroes will likely overcome-but with a cost. The power roll you make for a medium test determines the outcome:
 
 - **11 or lower:** You fail the task.
 - **12-16:** You succeed on the task and incur a consequence.
@@ -13259,7 +13358,7 @@ Depending on a test's difficulty and the result of the power roll made to accomp
 
 #### FAILURE WITH A CONSEQUENCE
 
-If you fail a hard test and incur a consequence, you don't do what you set out to do—in addition to which, you suffer an impactful setback. The Director determines the exact nature of the consequence, which is typically related to the specific task. For instance:
+If you fail a hard test and incur a consequence, you don't do what you set out to do-in addition to which, you suffer an impactful setback. The Director determines the exact nature of the consequence, which is typically related to the specific task. For instance:
 
 - If a hero suffers a consequence while trying to climb a wall, they might make it halfway up the wall and then fall, taking damage and landing prone.
 - A hero trying to sneak by cultists might be spotted by those foes, who immediately attack.
@@ -13296,7 +13395,7 @@ You can spend a hero token after making a test to turn a failure result into a s
 
 #### SUCCESS WITH A CONSEQUENCE
 
-If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. You might succeed in climbing up a wall, but the surface of the wall crumbles and becomes unstable as you do, making the climb more difficult for the ally ascending after you. When trying to sneak by a cultist, you successfully do so, but you leave footprints or other evidence of trespassing behind that someone will eventually find. If you attempt to bribe a guard to let you sneak into a prison, the guard lets you in—but then demands that you hand over a gemstone you need for an important crafting project before they let you out.
+If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. You might succeed in climbing up a wall, but the surface of the wall crumbles and becomes unstable as you do, making the climb more difficult for the ally ascending after you. When trying to sneak by a cultist, you successfully do so, but you leave footprints or other evidence of trespassing behind that someone will eventually find. If you attempt to bribe a guard to let you sneak into a prison, the guard lets you in-but then demands that you hand over a gemstone you need for an important crafting project before they let you out.
 
 Just like failure with a consequence, the consequences accompanying success don't need to be immediately apparent. In lieu of other consequences, the Director has the option to gain 2 additional Malice at the start of the next combat encounter.
 
@@ -13430,7 +13529,7 @@ We made the decision to have a lot of specific skills based on our design goals.
 
 Since players don't need to be worried about their characters covering a wide spread of skills, they're free to choose the skills they think fit their heroes best and are the most fun to work with. In this way, you can get pretty specific with the hero you want to make. Maybe you're thinking about an elementalist who has a gymnastic background in jumping and tumbling, and who also studied religion and blacksmithing. You can make that in our game! Having a specific backstory is part of cinematic storytelling.
 
-Our rules for skills allow for them to be flexibly applied to any test that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, “I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my **Climb** skill to get a +2 bonus to my **Presence** test?” That's great! Getting creative like that is a lot of fun. It paints a visual picture, and it's tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, that sometimes encourages players to find a way to apply the same skill over and over again with as many tests as possible. This isn't fun for anyone, and doesn't make a very compelling story.
+Our rules for skills allow for them to be flexibly applied to any test that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my **Climb** skill to get a +2 bonus to my **Presence** test?" That's great! Getting creative like that is a lot of fun. It paints a visual picture, and it's tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, that sometimes encourages players to find a way to apply the same skill over and over again with as many tests as possible. This isn't fun for anyone, and doesn't make a very compelling story.
 
 ### SKILL GROUPS
 
@@ -13438,7 +13537,7 @@ Skills are broken down into five groups: **crafting**, **exploration**, **interp
 
 #### FOR THE DIRECTOR: MAKE YOUR OWN SKILLS
 
-Directors should feel free to make their own skills that they feel are relevant and useful to their campaigns and adventures. For instance, the game doesn't have a **Brewing** skill for brewing ale or a **Painting** skill for making art because those aren't tasks that typically come up or require a test in a game about fighting monsters and saving the world. However, a Director could decide that their campaign involves poisoned barrels of ale and large amounts of counterfeit art, and that adding these two new skills to the game would make it more fun for the players. The Director simply needs to pick a group for these new skills—in this case, **crafting** makes sense. They then let the players know that they can swap out any crafting skill they have for these new skills.
+Directors should feel free to make their own skills that they feel are relevant and useful to their campaigns and adventures. For instance, the game doesn't have a **Brewing** skill for brewing ale or a **Painting** skill for making art because those aren't tasks that typically come up or require a test in a game about fighting monsters and saving the world. However, a Director could decide that their campaign involves poisoned barrels of ale and large amounts of counterfeit art, and that adding these two new skills to the game would make it more fun for the players. The Director simply needs to pick a group for these new skills-in this case, **crafting** makes sense. They then let the players know that they can swap out any crafting skill they have for these new skills.
 
 #### CRAFTING SKILLS
 
@@ -13643,7 +13742,7 @@ The Director realizes they can bring in an optional rule here, allowing the play
 
 **James:** Thanks for not leaving me behind!
 
-**Director:** As you yank Korvo off the ground and pull him up onto the wall, a guard turns a bullseye lantern your way, calling out, “Who goes there?”
+**Director:** As you yank Korvo off the ground and pull him up onto the wall, a guard turns a bullseye lantern your way, calling out, "Who goes there?"
 
 ## ASSIST A TEST
 
@@ -13782,7 +13881,7 @@ The Director determines that crossing the desert is a montage test of hard diffi
 
 - **Loric**, a tactician, wants to make a **Reason** test using the **Climb** skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt but says that knowing what makes one dune easier to climb than another is difficult, setting the difficulty at medium. Loric gets a 9 on the test and fails with a major consequence, which the Director decides will cause him to take a bane on his next power roll due to the exertion. The montage test currently has 1 success and 1 failure.
 
-- **Karrel**, an elementalist, thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea and decides that making four pairs of the shoes while traveling the desert is a medium **Reason** test. Karrel gets to use their **Tailoring** skill and winds up with a result of 13—a success with a consequence. The Director gains an additional 2 Malice at the start of the next combat encounter as a consequence, but the group now has 2 successes and 1 failure on the montage test.
+- **Karrel**, an elementalist, thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea and decides that making four pairs of the shoes while traveling the desert is a medium **Reason** test. Karrel gets to use their **Tailoring** skill and winds up with a result of 13-a success with a consequence. The Director gains an additional 2 Malice at the start of the next combat encounter as a consequence, but the group now has 2 successes and 1 failure on the montage test.
 
 - **Adrian**, a conduit, offers to scout ahead for the group with an **Intuition** test, using the **Navigate** skill to find the best path forward and avoid hazards such as chasms and quicksand. The Director thinks this straightforward task of acting as lookout in a vast desert is an easy task. Adrian smashes it with a 21, and the Director decides to get creative with the reward. Adrian's lookout skills grant the next hero to act in the montage test an edge on their test. At the end of the first montage test round, the heroes have 3 successes and 1 failure.
 
@@ -13841,7 +13940,7 @@ Hiding and sneaking are important tools for heroes and their foes. You might wan
 
 ### HIDING
 
-When you wish to hide from a creature, you must have **cover** or **concealment** (see Combat) from your foe, and that foe can't observe you attempting to hide. A creature is observing you if they're aware of your specific location before you attempt to hide. This means they can pinpoint you with their senses and be able to point a finger (or paw or tentacle) at you as if to shout, “There they are!” If you duck behind a barrel to hide from a foe, your attempt to hide has a chance of succeeding only if your foe doesn't notice you doing so. If you are being chased by a hungry dragon, you can hide only if you first move into a place where the dragon can't observe you, such as turning a sharp corner into a tunnel full of giant stalagmites before the dragon does. You then make your hide attempt.
+When you wish to hide from a creature, you must have **cover** or **concealment** (see Combat) from your foe, and that foe can't observe you attempting to hide. A creature is observing you if they're aware of your specific location before you attempt to hide. This means they can pinpoint you with their senses and be able to point a finger (or paw or tentacle) at you as if to shout, "There they are!" If you duck behind a barrel to hide from a foe, your attempt to hide has a chance of succeeding only if your foe doesn't notice you doing so. If you are being chased by a hungry dragon, you can hide only if you first move into a place where the dragon can't observe you, such as turning a sharp corner into a tunnel full of giant stalagmites before the dragon does. You then make your hide attempt.
 
 When you use the **Hide** maneuver to hide during combat while you have cover or concealment from a creature who isn't observing you, you are automatically hidden from them unless the Director deems otherwise.
 
@@ -13891,7 +13990,7 @@ Your class, kit, ancestry, titles, and other heroic options give you access to a
 
 Each ability has an evocative name that sets up what it does in the game, followed by a line or two of flavor text that provides a sense of how the use of the ability might appear if described in an action scene in a story.
 
-The name and story text for abilities sometimes make reference to specific ways in which the ability is used—particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the fury's Impaling Strike ability allows you to grab a target, setting up the idea of harpooning your monstrous foe with a sword, then wrenching them in close before pulling your weapon free. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
+The name and story text for abilities sometimes make reference to specific ways in which the ability is used-particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the fury's Impaling Strike ability allows you to grab a target, setting up the idea of harpooning your monstrous foe with a sword, then wrenching them in close before pulling your weapon free. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
 
 ## RESOURCE COST
 
@@ -13899,7 +13998,7 @@ Some abilities have a Heroic Resource cost to use them. When you use one of thes
 
 ## ABILITY KEYWORDS
 
-Each ability has a “Keyword” entry with one or more keywords that explain how the ability functions.
+Each ability has a "Keyword" entry with one or more keywords that explain how the ability functions.
 
 ### AREA
 
@@ -13907,7 +14006,7 @@ Abilities with the Area keyword create an area of effect. Many area abilities al
 
 ### ATTACK
 
-Abilities with the Attack keyword (referred to simply as “attacks”) deal damage to or impose a harmful effect on other creatures.
+Abilities with the Attack keyword (referred to simply as "attacks") deal damage to or impose a harmful effect on other creatures.
 
 ### CHARGE
 
@@ -13931,7 +14030,8 @@ Abilities with the Ranged keyword can be used to affect creatures who are too fa
 
 ### RESISTANCE
 
-Abilities with the Resistance keyword require the target to make a resistance roll to lessen or avoid their effect.\
+Abilities with the Resistance keyword require the target to make a resistance roll to lessen or avoid their effect.
+
 (Playtest note: Only monsters and villains have Resistance-keyword abilities right now.)
 
 ### WEAPON
@@ -13940,29 +14040,30 @@ The Weapon keyword is used in attacks that are made with blades, bows, and other
 
 ## IT'S NOT ALL ATTACKS!
 
-The Attack keyword and phrases like “makes an attack” are reserved for abilities that have a creature specifically targeting other creatures or objects (not an area), and dealing harm to them by making a power roll. Other abilities that target areas of effect, or that require the target to make a resistance roll instead of having the creature using the ability making the roll, are not attacks. They instead use the Area and Resistance keywords, respectively. That means if a feature distinctly interacts with an attack (for instance, the conduit's Word of Guidance triggered action), that feature has no effect on abilities with the Area or Resistance keyword.
+The Attack keyword and phrases like "makes an attack" are reserved for abilities that have a creature specifically targeting other creatures or objects (not an area), and dealing harm to them by making a power roll. Other abilities that target areas of effect, or that require the target to make a resistance roll instead of having the creature using the ability making the roll, are not attacks. They instead use the Area and Resistance keywords, respectively. That means if a feature distinctly interacts with an attack (for instance, the conduit's Word of Guidance triggered action), that feature has no effect on abilities with the Area or Resistance keyword.
 
 ## TYPE
 
-Each ability has a “Type” entry that describes how long it takes to execute the ability. For instance, if you use an ability that has “Action” as its type entry, you must use your action to activate the ability. Most abilities require you to use an action, a maneuver, a triggered action, a free maneuver, or a free triggered action (see Combat for more information).
+Each ability has a "Type" entry that describes how long it takes to execute the ability. For instance, if you use an ability that has "Action" as its type entry, you must use your action to activate the ability. Most abilities require you to use an action, a maneuver, a triggered action, a free maneuver, or a free triggered action (see Combat for more information).
 
 If an ability takes 1 minute or longer to use, you can't use it in combat.
 
 ## TRIGGER
 
-If an ability requires a triggered action or a free triggered action to use, a “Trigger” entry is part of the ability. For example, the trigger for the tactician's Parry ability is: “A creature makes a Weapon attack against the target.”
+If an ability requires a triggered action or a free triggered action to use, a "Trigger" entry is part of the ability. For example, the trigger for the tactician's Parry ability is: "A creature makes a Weapon attack against the target."
 
 ## DISTANCE
 
-An ability's “Distance” entry indicates how close you need to be to a creature or object to affect that target with the ability.
+An ability's "Distance" entry indicates how close you need to be to a creature or object to affect that target with the ability.
 
 ### MELEE
 
-Melee abilities have a distance of “Melee X” and require you to touch a creature with your body, a weapon, or an implement. X is the distance in squares at which you can physically make contact with another creature or object targeted by the ability. For instance, a distance of “Melee 2” can be used to target creatures or objects within 2 squares of you.
+Melee abilities have a distance of "Melee X" and require you to touch a creature with your body, a weapon, or an implement. X is the distance in squares at which you can physically make contact with another creature or object targeted by the ability. For instance, a distance of "Melee 2" can be used to target creatures or objects within 2 squares of you.
 
 ### RANGED
 
-Abilities with a distance noted as “Ranged” can be used to target creatures who are more than a touch away. Ranged distances are presented as “Ranged X,” with X being the number of squares away a creature or object can be while still allowing you to target them with the ability. For instance, a distance of “Ranged 5” can be used to target creatures or objects within 5 squares of you.\
+Abilities with a distance noted as "Ranged" can be used to target creatures who are more than a touch away. Ranged distances are presented as "Ranged X," with X being the number of squares away a creature or object can be while still allowing you to target them with the ability. For instance, a distance of "Ranged 5" can be used to target creatures or objects within 5 squares of you.
+
 If you make a ranged attack while an enemy is adjacent to you, you have a bane on the attack's power roll.
 
 ### MELEE OR RANGED
@@ -13971,34 +14072,35 @@ Some abilities have a melee distance and a ranged distance. When you use such an
 
 ### AREA ABILITIES
 
-Area abilities cover an area, creating an effect within that area that lets you target multiple creatures or objects at once. When an ability allows you to create an area of effect, you are sometimes given a distance, noted as “within X,” that describes how many squares away from you the area can be. If an area ability doesn't originate from you, then at least 1 square of the area of effect must be within that distance and your line of effect. This square is referred to as the origin square of the area of effect. The area of effect can spread from the origin square however you choose, as long as the area of effect conforms to the shape and arrangement rules of that particular area.
+Area abilities cover an area, creating an effect within that area that lets you target multiple creatures or objects at once. When an ability allows you to create an area of effect, you are sometimes given a distance, noted as "within X," that describes how many squares away from you the area can be. If an area ability doesn't originate from you, then at least 1 square of the area of effect must be within that distance and your line of effect. This square is referred to as the origin square of the area of effect. The area of effect can spread from the origin square however you choose, as long as the area of effect conforms to the shape and arrangement rules of that particular area.
 
 Unless otherwise noted, area abilities don't pass through solid barriers such as walls or ceilings or spread around corners. As long as you have line of effect and distance to the origin square, you can place an area ability to include one or more squares where you don't have line of effect (see Line of Effect below).
 
 An area ability might use any of the following areas of effect:
 
-- **Aura:** When an ability creates an aura, it is expressed as “X aura.” Aura areas always originate from you and move with you for the duration of the ability that created them. A creature must be within X squares of you to be targeted by an aura ability.
-- **Burst:** When an ability creates a burst area, it is expressed as “X burst.” Burst areas always originate from you. A creature must be within X squares of you to be targeted with a burst ability.
-- **Cube:** When an ability affects a cubic area, it is expressed as “X cube.” X is the length of all the area's sides.
-- **Line:** When an ability affects a linear area, it is expressed as “A × B line.” This means that A equals the line's length in squares, while B equals the line's width and height in squares.
-- **Wall:** When an ability creates a wall, it is expressed as “X wall,” where X equals how many squares are used to make the wall. When you place a wall, you can build it one square at a time, but each square must share at least one side (not just a corner) with another square of the wall. You can stack squares on top of each other to make the wall higher. Unless otherwise stated, a wall can't be placed in occupied squares, and a wall blocks line of effect.
+- **Aura:** When an ability creates an aura, it is expressed as "X aura." Aura areas always originate from you and move with you for the duration of the ability that created them. A creature must be within X squares of you to be targeted by an aura ability.
+- **Burst:** When an ability creates a burst area, it is expressed as "X burst." Burst areas always originate from you. A creature must be within X squares of you to be targeted with a burst ability.
+- **Cube:** When an ability affects a cubic area, it is expressed as "X cube." X is the length of all the area's sides.
+- **Line:** When an ability affects a linear area, it is expressed as "A × B line." This means that A equals the line's length in squares, while B equals the line's width and height in squares.
+- **Wall:** When an ability creates a wall, it is expressed as "X wall," where X equals how many squares are used to make the wall. When you place a wall, you can build it one square at a time, but each square must share at least one side (not just a corner) with another square of the wall. You can stack squares on top of each other to make the wall higher. Unless otherwise stated, a wall can't be placed in occupied squares, and a wall blocks line of effect.
 - **Special:** Some abilities create a unique area of effect. The distance entry of such abilities specifies how the area is created.
 
 ### SELF
 
-If an ability has a distance of “Self,” that ability originates from or affects only you. The ability's description specifies how it works.
+If an ability has a distance of "Self," that ability originates from or affects only you. The ability's description specifies how it works.
 
 ## TARGET
 
-The “Target” entry of an ability notes the number of creatures or objects who can be targeted by that ability.
+The "Target" entry of an ability notes the number of creatures or objects who can be targeted by that ability.
 
 ### CREATURE
 
-If an ability targets one or more creatures, you can have it target any creature within the ability's distance. You aren't an eligible creature target for your own abilities unless those abilities also have “self” as a target.
+If an ability targets one or more creatures, you can have it target any creature within the ability's distance. You aren't an eligible creature target for your own abilities unless those abilities also have "self" as a target.
 
 ### OBJECT
 
-If an ability targets one or more objects, you can have it target any object within the ability's distance. Unless otherwise noted, objects have poison and psychic immunity.\
+If an ability targets one or more objects, you can have it target any object within the ability's distance. Unless otherwise noted, objects have poison and psychic immunity.
+
 When an ability can target creatures and objects, the ability can damage objects. However, unless otherwise noted or if the Director decides otherwise, objects are immune to an ability's other effects.
 
 ### ENEMY
@@ -14007,11 +14109,11 @@ If an ability targets one or more enemies, you can use the ability to target onl
 
 ### ALLY
 
-If an ability targets one or more allies, you can use the ability to target only willing creatures who are friendly to you. Typically, you and any other player's character who you target decide who counts as an ally, though the Director has the final say. You aren't an eligible ally target for your own abilities unless those abilities also have “self” as a target.
+If an ability targets one or more allies, you can use the ability to target only willing creatures who are friendly to you. Typically, you and any other player's character who you target decide who counts as an ally, though the Director has the final say. You aren't an eligible ally target for your own abilities unless those abilities also have "self" as a target.
 
 ### SELF
 
-If an ability targets “self,” then you are a valid target for the ability.
+If an ability targets "self," then you are a valid target for the ability.
 
 ### ALL
 
@@ -14019,7 +14121,7 @@ If an ability doesn't provide a number of targets but instead says it applies to
 
 ## ABILITY ROLL
 
-If an ability requires a power roll, it has a “Power Roll” entry that tells you which characteristic to add to the 2d10 roll you make when you activate the ability.
+If an ability requires a power roll, it has a "Power Roll" entry that tells you which characteristic to add to the 2d10 roll you make when you activate the ability.
 
 Unlike power rolls made as tests, ability rolls always do something useful when you make them. You're just rolling to see the impact of the ability, including damage and any effects based on the tier result of the power roll. For instance, the fury's Brutal Slam ability is a melee attack that targets a creature within 1 square and has the following effects:
 
@@ -14041,7 +14143,8 @@ To keep things quick and easy to read at the table, damage and effects are separ
 
 Unless otherwise indicated, any effects that are determined by a power roll result occur after the power roll's damage has been dealt to all targets.
 
-If an ability has multiple effects, they resolve in the order in which they are presented.\
+If an ability has multiple effects, they resolve in the order in which they are presented.
+
 If an ability effect has a potency, it is listed in the ability.
 
 #### "DURING THE MOVE"
@@ -14075,11 +14178,12 @@ Many abilities that require power rolls also have effect entries describing addi
 
 ## SPEND RESOURCE
 
-Some abilities have a “Spend X \[Heroic Resource\]” entry. These are similar to effect entries, except they cost Heroic Resources to use. You must spend X of your Heroic Resource to activate the effect. If the entry reads “Spend \[Heroic Resource\]” with no number, then you can spend as much of your Heroic Resource as you like to increase the effect's impact, as described in the entry's details.
+Some abilities have a "Spend X \[Heroic Resource\]" entry. These are similar to effect entries, except they cost Heroic Resources to use. You must spend X of your Heroic Resource to activate the effect. If the entry reads "Spend \[Heroic Resource\]" with no number, then you can spend as much of your Heroic Resource as you like to increase the effect's impact, as described in the entry's details.
 
 ## STACKING UNIQUE EFFECTS
 
-The unique effects of different abilities are combined if their durations and targets overlap. However, the effects of the same ability used multiple times don't add together. Instead, the most impactful result—such as the highest bonus—from each use of the ability applies. The most recent ability applies for determining duration.\
+The unique effects of different abilities are combined if their durations and targets overlap. However, the effects of the same ability used multiple times don't add together. Instead, the most impactful result-such as the highest bonus-from each use of the ability applies. The most recent ability applies for determining duration.
+
 Different effects that impose the same condition (see Conditions) don't stack to impose the condition twice. For example, if a hero is targeted by numerous creatures whose abilities can halve a target's recovery value, the hero's recovery value is only halved once.
 
 ## ENDING EFFECTS
@@ -14088,29 +14192,34 @@ When a creature suffers a lasting effect, whatever ability, hazard, or other mec
 
 ### EOT
 
-If an effect ends with “(EoT)” at the end of its description, a creature suffers the effect until the end of their next turn.
+If an effect ends with "(EoT)" at the end of its description, a creature suffers the effect until the end of their next turn.
 
 ### SAVE ENDS
 
-If an effect ends with “(save ends)” at the end of its description, then a creature suffering the effect can make a saving throw at the end of their turn to remove the effect.\
+If an effect ends with "(save ends)" at the end of its description, then a creature suffering the effect can make a saving throw at the end of their turn to remove the effect.
+
 A saving throw represents your luck in shaking off an effect. You likely already got a chance to resist the effect using your characteristic score to resist a potency or make a resistance roll, so now it's down to fate. To make a saving throw, roll a 1d10. On a result of 6 or higher, the effect ends. Otherwise, it continues.
 
 ## LINE OF EFFECT
 
-To target a creature or object with an ability, including attacking the creature or object, you must have line of effect to that creature or object. If a solid object, such as a wall or pillar, completely blocks the creature from you, then you don't have line of effect to them.\
+To target a creature or object with an ability, including attacking the creature or object, you must have line of effect to that creature or object. If a solid object, such as a wall or pillar, completely blocks the creature from you, then you don't have line of effect to them.
+
 If you're not sure if you have line of effect to a creature, imagine drawing a straight line from any corner of the space you occupy on the map to any corner of a space the creature occupies. If you can do this with at least one corner connecting to another with no obstruction in between, you have line of effect to the creature.
 
-At the Director's discretion, flimsy or fragile obstructions such as a glass window or linen curtains don't block line of effect, and might be automatically broken or torn by attacks made through them.\
+At the Director's discretion, flimsy or fragile obstructions such as a glass window or linen curtains don't block line of effect, and might be automatically broken or torn by attacks made through them.
+
 If you want to create an area of effect in a specific area, you must have line of effect to at least one of the squares in that area. See Area Abilities.
 
 ## STRAIGHT LINE
 
-Whenever your character moves or when you or another creature are force moved, that movement is typically in a straight line. Abilities that allow you to move or to forcibly move another creature often talk about moving straight toward or away from another creature or an object.\
+Whenever your character moves or when you or another creature are force moved, that movement is typically in a straight line. Abilities that allow you to move or to forcibly move another creature often talk about moving straight toward or away from another creature or an object.
+
 Although a line of travel must be straight, it doesn't have to travel a straight line of squares on the grid.
 
 ## CONDITIONS
 
-Some abilities and other effects apply specific negative effects called conditions to a creature. The following conditions show up regularly in the game and are included on your character sheet.\
+Some abilities and other effects apply specific negative effects called conditions to a creature. The following conditions show up regularly in the game and are included on your character sheet.
+
 (Playtest note: They are not included on your character sheet yet.)
 
 ### BLEEDING
@@ -14127,18 +14236,22 @@ If you are frightened, attacks you make against the source of your fear take a b
 
 ### GRABBED
 
-While you are grabbed, your speed is 0, you can't be force moved, you can't use the Knockback maneuver, and you take a bane on attacks that don't target the creature grabbing you. If the creature grabbing you moves, they bring you with them. If the creature's size is equal to or less than yours, their speed is halved while they have you grabbed.\
-The creature grabbing you can use a maneuver to move you into an unoccupied space adjacent to them.\
+While you are grabbed, your speed is 0, you can't be force moved, you can't use the Knockback maneuver, and you take a bane on attacks that don't target the creature grabbing you. If the creature grabbing you moves, they bring you with them. If the creature's size is equal to or less than yours, their speed is halved while they have you grabbed.
+
+The creature grabbing you can use a maneuver to move you into an unoccupied space adjacent to them.
+
 The creature grabbing you can end the grab at any time (no action required). You can also attempt to escape being grabbed using the Escape Grab maneuver (see Maneuvers in Combat). If you teleport or if the creature grabbing you is force moved to a space that isn't adjacent to you, you are no longer grabbed.
 
 ### PRONE
 
-While you are prone, you are flat on the ground, attacks you make take a bane, and melee attacks made against you gain an edge. You must crawl to move along the ground, which costs you 1 additional square of movement for every square you crawl. You can't climb, jump, swim, or fly while prone. If you are climbing, flying, or jumping while you are knocked prone, you fall.\
+While you are prone, you are flat on the ground, attacks you make take a bane, and melee attacks made against you gain an edge. You must crawl to move along the ground, which costs you 1 additional square of movement for every square you crawl. You can't climb, jump, swim, or fly while prone. If you are climbing, flying, or jumping while you are knocked prone, you fall.
+
 While prone, you can stand up as a maneuver (see Maneuvers in Combat), unless the ability or effect that imposed the condition says otherwise. You can use a maneuver to make an adjacent prone creature stand up.
 
 ### RESTRAINED
 
-While you are restrained, your speed is 0, you can't use the Stand Up maneuver, and you can't be force moved. Your attacks take a bane, attacks and damaging area powers against you gain an edge, and you have a bane on Might and Agility resistance rolls.\
+While you are restrained, your speed is 0, you can't use the Stand Up maneuver, and you can't be force moved. Your attacks take a bane, attacks and damaging area powers against you gain an edge, and you have a bane on Might and Agility resistance rolls.
+
 If you teleport while restrained, the condition ends.
 
 ### SLOWED
@@ -14250,7 +14363,7 @@ Once all creatures on both sides of a battle have acted, the round ends and a ne
 
 ### TAKING A TURN
 
-Each creature in combat—whether hero, adversary, or something in between—gets to take a move action, a maneuver, and an action on their turn. Each combatant can perform their maneuver and action in any order, and can break up the movement granted by their move action before, after, or between their maneuver and action however they like. You can also turn your action into a move action or a maneuver, so that your turn can alternatively consist of two move actions and a maneuver; or two maneuvers and a move action.
+Each creature in combat-whether hero, adversary, or something in between-gets to take a move action, a maneuver, and an action on their turn. Each combatant can perform their maneuver and action in any order, and can break up the movement granted by their move action before, after, or between their maneuver and action however they like. You can also turn your action into a move action or a maneuver, so that your turn can alternatively consist of two move actions and a maneuver; or two maneuvers and a move action.
 
 The **Movement** section breaks down how your move action works, while the **Maneuvers** and **Actions** sections break down the baseline maneuvers and actions your character can undertake. For any activities not specifically covered in those rules, such as cutting down a chandelier to drop on enemies, the Director decides whether such an activity is a maneuver or an action.
 
@@ -14284,7 +14397,7 @@ The Director can limit what kinds of no-action activities you can attempt when i
 
 During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is to use the *Advance* or *Disengage* move action on your turn, but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
 
-Your hero starts with a speed based on their ancestry—usually 5. This represents the maximum number of squares you can move when you take the move action or when another effect allows you to move. Your speed can be increased by your kit and other game options. All squares adjacent to your character cost 1 movement to move into. No, there is no Pythagorean theorem on the grid. It's a game, don't overthink it.
+Your hero starts with a speed based on their ancestry-usually 5. This represents the maximum number of squares you can move when you take the move action or when another effect allows you to move. Your speed can be increased by your kit and other game options. All squares adjacent to your character cost 1 movement to move into. No, there is no Pythagorean theorem on the grid. It's a game, don't overthink it.
 
 You can move freely through an allied creature's space. You can move through an enemy creature's space, but it counts as difficult terrain (see *Difficult Terrain*). You can't stop moving in any other creature's space, including making an attack or using an action or maneuver while in that space and then continuing your move.
 
@@ -14310,11 +14423,11 @@ Walking is the most common movement type, whether it refers to ambulating on leg
 
 #### BURROW
 
-A creature with “burrow” in their speed entry can move through dirt vertically or horizontally, and either has the means to breathe while doing so or doesn't require air to live. Such creatures can't move through more solid ground, such as stone, unless their stat block says otherwise.
+A creature with "burrow" in their speed entry can move through dirt vertically or horizontally, and either has the means to breathe while doing so or doesn't require air to live. Such creatures can't move through more solid ground, such as stone, unless their stat block says otherwise.
 
 #### CLIMB OR SWIM
 
-If a creature's speed entry includes the word “climb,” they can climb across vertical and horizontal surfaces at full speed. Likewise, if a creature has “swim” in their speed entry, they can swim in liquid at full speed.
+If a creature's speed entry includes the word "climb," they can climb across vertical and horizontal surfaces at full speed. Likewise, if a creature has "swim" in their speed entry, they can swim in liquid at full speed.
 
 Creatures without those types of movement can still climb or swim when a rule allows them to move, but each square of climbing or swimming costs 2 squares of movement. If a surface is difficult to climb (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to swim through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't climb or swim but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
 
@@ -14388,17 +14501,17 @@ Some actions and maneuvers allow you to push, pull, or slide another creature a 
 - **Pull X:** You move the target up to X squares toward you in a straight line, without moving them vertically. Each square you move the creature must bring them closer to you.
 - **Slide X:** You move the target up to X squares in any direction, except for vertically.
 
-When you force move a target, you can always move that target fewer squares than the number indicated. For example, when the conduit gets a tier 3 “push 3” result with their *Call the Thunder Down* ability, they can push targets any distance up to 3 squares, including choosing to not move certain targets at all.
+When you force move a target, you can always move that target fewer squares than the number indicated. For example, when the conduit gets a tier 3 "push 3" result with their *Call the Thunder Down* ability, they can push targets any distance up to 3 squares, including choosing to not move certain targets at all.
 
 Forced movement ignores difficult terrain and never provokes opportunity attacks. When you force move a target into damaging terrain or into terrain that produces an effect, they are affected as if they had moved into it willingly.
 
 #### VERTICAL
 
-If a forced movement effect has the word “vertical” in front of it, then the forced movement can move a target up or down in addition to horizontally. For example, if a forced movement effect says “vertical push 5,” then the creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the forced movement is a straight line.
+If a forced movement effect has the word "vertical" in front of it, then the forced movement can move a target up or down in addition to horizontally. For example, if a forced movement effect says "vertical push 5," then the creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the forced movement is a straight line.
 
 If a creature who can't fly is left in midair at the end of a vertical forced move, they fall.
 
-Though you can't push, pull, or slide a creature unless that forced movement specifies “vertical,” you can move them along a physical slope, such as a hill or staircase. For a creature to be force moved along a slope, each square of the slope can be no more than 1 square higher or lower than the previous square.
+Though you can't push, pull, or slide a creature unless that forced movement specifies "vertical," you can move them along a physical slope, such as a hill or staircase. For a creature to be force moved along a slope, each square of the slope can be no more than 1 square higher or lower than the previous square.
 
 #### BIG VS LITTLE
 
@@ -14531,7 +14644,7 @@ You attempt to shove an adjacent creature using the following ability:
 
 Many tests are maneuvers if made in combat. Searching a chest with a *Reason* test, picking a door's lock with an *Agility* test, or lifting a portcullis with a *Might* test would all be maneuvers. Assisting a test is also a maneuver in combat.
 
-Complex or time-consuming tests might require an action if made in combat—or could take so long that they can't be made during combat at all. Other tests that take no time at all, such as a *Reason* test to recall lore about mummies, are usually free maneuvers in combat. The Director has the final say regarding which tests can be made as maneuvers.
+Complex or time-consuming tests might require an action if made in combat-or could take so long that they can't be made during combat at all. Other tests that take no time at all, such as a *Reason* test to recall lore about mummies, are usually free maneuvers in combat. The Director has the final say regarding which tests can be made as maneuvers.
 
 ### SEARCH FOR HIDDEN CREATURES
 
@@ -14567,7 +14680,7 @@ You can use this action to make a free strike (see *Free Strikes*). Most of the 
 
 ### HEAL
 
-You use your action to employ medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The creature can spend a Recovery to regain Stamina, or can make a resistance roll against a “(resistance ends)” effect they are suffering.
+You use your action to employ medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The creature can spend a Recovery to regain Stamina, or can make a resistance roll against a "(resistance ends)" effect they are suffering.
 
 ## FREE STRIKES
 
@@ -14677,9 +14790,9 @@ However, when it comes to elemental and magical damage sources, some creatures m
 
 Damage immunity means that a creature can ignore some or all of the damage they would usually take from certain attacks or effects.
 
-Damage immunity might have a damage type associated with it, expressed as “\[damage type\] immunity.” Alternatively, damage immunity might apply to any powers that deal damage with the *Weapon*, *Magic*, or *Psionic* keyword. Damage immunity of either kind often has a value associated with it, so that one creature's stat block notes “fire immunity 5,” while another creature has “Magic immunity 5.”
+Damage immunity might have a damage type associated with it, expressed as "\[damage type\] immunity." Alternatively, damage immunity might apply to any powers that deal damage with the *Weapon*, *Magic*, or *Psionic* keyword. Damage immunity of either kind often has a value associated with it, so that one creature's stat block notes "fire immunity 5," while another creature has "Magic immunity 5."
 
-Whenever a target with damage immunity takes damage of the indicated type or from a power with the indicated keyword, they reduce the damage by the value of the immunity (to a minimum of 0 damage). If the value of the immunity is “all,” then the target takes no damage of the indicated type or from those powers.
+Whenever a target with damage immunity takes damage of the indicated type or from a power with the indicated keyword, they reduce the damage by the value of the immunity (to a minimum of 0 damage). If the value of the immunity is "all," then the target takes no damage of the indicated type or from those powers.
 
 Certain creatures also have forced move damage immunity. Whenever they take damage from forced movement, that damage is reduced by a number equal to their immunity.
 
@@ -14691,13 +14804,13 @@ If multiple damage immunities apply to a source of damage, only the immunity wit
 
 Damage weakness works like damage immunity, except that creatures take extra damage whenever they take damage of the indicated type, or from a source with the indicated keyword. For instance, if a creature has fire weakness 5 and is dealt 10 fire damage, they take 15 fire damage instead.
 
-A creature who has “damage weakness X” with no specific type or keyword indicated has weakness of the indicated amount when they take damage of any type.
+A creature who has "damage weakness X" with no specific type or keyword indicated has weakness of the indicated amount when they take damage of any type.
 
 If you have both damage immunity and weakness applied to a source of damage, apply both. First apply weakness, then immunities.
 
 ## STAMINA
 
-Your hero's survivability is represented by your Stamina. Think of Stamina as a combination of a creature's physical vitality and their overall energy for dodging and resisting incoming blows, spells, and other violence. It's not that every instance of damage deals a bleeding wound to you, but that each one chips away at your ability to fight effectively. An attack might make you sweat as you leap back to avoid an arrow, while another might just graze your elbow with a dagger nick, leaving a dull, distracting pain. Eventually, this draining of energy leaves you open for bigger blows that can truly harm your body—or possibly kill you.
+Your hero's survivability is represented by your Stamina. Think of Stamina as a combination of a creature's physical vitality and their overall energy for dodging and resisting incoming blows, spells, and other violence. It's not that every instance of damage deals a bleeding wound to you, but that each one chips away at your ability to fight effectively. An attack might make you sweat as you leap back to avoid an arrow, while another might just graze your elbow with a dagger nick, leaving a dull, distracting pain. Eventually, this draining of energy leaves you open for bigger blows that can truly harm your body-or possibly kill you.
 
 After any damage you take is reduced by damage immunity or other effects, your Stamina is reduced by an amount equal to the remaining damage. Some effects can also reduce your Stamina maximum, limiting the amount of Stamina you can regain.
 
@@ -14774,17 +14887,17 @@ At the end of combat, the Director determines if the heroes each gain a Victory 
 
 ### HOW COMBAT ENDS
 
-The Director determines when a combat encounter is over. While some battles—especially showdowns with important villains—can be about a fight to the bitter end, many other encounters can become a tedious slog if the heroes need to fight until every last enemy's Stamina is reduced to 0.
+The Director determines when a combat encounter is over. While some battles-especially showdowns with important villains-can be about a fight to the bitter end, many other encounters can become a tedious slog if the heroes need to fight until every last enemy's Stamina is reduced to 0.
 
-To avoid a battle dragging, the Director can set objectives when they build the encounter. Once the heroes achieve those objectives, or if it becomes clear that they can win the fight with minimal effort, the Director can end the encounter. They might do so by calling “Cut!” like a film director or using some other phrase or indicator.
+To avoid a battle dragging, the Director can set objectives when they build the encounter. Once the heroes achieve those objectives, or if it becomes clear that they can win the fight with minimal effort, the Director can end the encounter. They might do so by calling "Cut!" like a film director or using some other phrase or indicator.
 
 When the Director ends combat this way, the players typically choose how the battle ends by narrating a dramatic finish. In rarer cases when the heroes achieve a major objective that sets off a story-defining event, the Director narrates the end of the battle with a positive outcome for the players, called an *event ending*.
 
 #### FLEEING FOES
 
-If you've played an RPG like this one before, odds are you've had an encounter where you didn't chase down every last fleeing foe—and then one such foe grabbed another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, “No survivors. No mercy!” whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.
+If you've played an RPG like this one before, odds are you've had an encounter where you didn't chase down every last fleeing foe-and then one such foe grabbed another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, "No survivors. No mercy!" whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.
 
-Luckily, this is a heroic game. Although the Director can surprise the players with dramatic reveals and twisty-turny stories, “Gotcha!” moments that make players suspicious of every fleeing bandit shouldn't be part of those stories. If a bandit is fleeing an encounter, they're running away to rethink their life. If they're going for help, the players should get some sense of that—for example, the bandit screaming at the top of their lungs as they run toward their leader's tent. That way, the players can process what's happening and will understand that stopping that fleeing bandit is part of the challenge of the encounter.
+Luckily, this is a heroic game. Although the Director can surprise the players with dramatic reveals and twisty-turny stories, "Gotcha!" moments that make players suspicious of every fleeing bandit shouldn't be part of those stories. If a bandit is fleeing an encounter, they're running away to rethink their life. If they're going for help, the players should get some sense of that-for example, the bandit screaming at the top of their lungs as they run toward their leader's tent. That way, the players can process what's happening and will understand that stopping that fleeing bandit is part of the challenge of the encounter.
 
 ### OBJECTIVE ENDINGS
 
@@ -14794,7 +14907,7 @@ While planning a combat encounter, the Director can set one or more objectives t
 
 Sometimes the heroes simply defeat enough of their enemies that the rest don't stand a chance. For example, the Director might decide that an encounter ends when the heroes have no nonminion enemies remaining, when the heroes outnumber their foes, or when the number of remaining enemies is half of what it was at the start of the encounter.
 
-The Director can also use the following guideline to determine when it's time to call “Cut!” if one of the encounter's objectives is for the heroes to diminish their foes. At the end of a round of combat with no living solo or boss creatures (see the *Bestiary*), the Director should add up the levels of all the enemies who oppose the heroes. Minions count as 1/5 of their listed level for this purpose. Then the Director adds the levels of all the remaining heroes who aren't dying together. If the combined level of the heroes is twice or more than the combined level of their enemies, the Director should end combat.
+The Director can also use the following guideline to determine when it's time to call "Cut!" if one of the encounter's objectives is for the heroes to diminish their foes. At the end of a round of combat with no living solo or boss creatures (see the *Bestiary*), the Director should add up the levels of all the enemies who oppose the heroes. Minions count as 1/5 of their listed level for this purpose. Then the Director adds the levels of all the remaining heroes who aren't dying together. If the combined level of the heroes is twice or more than the combined level of their enemies, the Director should end combat.
 
 #### DEFEAT SPECIFIC FOE
 
@@ -14812,7 +14925,7 @@ Combat doesn't always have to be about destroying your enemies. Sometimes it's a
 
 #### SAVE ANOTHER
 
-No one earns the mantle of hero without saving a few lives. If the heroes rescue a powerful ally from the clutches of their foes during combat, the added strength of that ally might be enough to make the remainder of the encounter trivial. When you and your allies save a griffon from a crew of poachers, the hunters become the … well, you know the rest.
+No one earns the mantle of hero without saving a few lives. If the heroes rescue a powerful ally from the clutches of their foes during combat, the added strength of that ally might be enough to make the remainder of the encounter trivial. When you and your allies save a griffon from a crew of poachers, the hunters become the... well, you know the rest.
 
 #### HOLD THEM OFF
 
@@ -14824,15 +14937,15 @@ Sometimes combat is complicated by the fact that the heroes need to stop the vil
 
 #### MAKING OBJECTIVES KNOWN
 
-Encounters work best if the players have a good idea of what they are working toward. The Director doesn't need to state objectives outright to the players at the start of the battle, though they can if they like. Not all groups want to start combat with the Director saying, “Your objectives are to break the eldritch machine and destroy the vampire lord,” because doing so might take the players out of the game's narrative.
+Encounters work best if the players have a good idea of what they are working toward. The Director doesn't need to state objectives outright to the players at the start of the battle, though they can if they like. Not all groups want to start combat with the Director saying, "Your objectives are to break the eldritch machine and destroy the vampire lord," because doing so might take the players out of the game's narrative.
 
 In many combat encounters, the objectives are obvious. For instance, in a battle against a necromancer controlling a horde of undead minions, the players probably don't need to be told that defeating the necromancer ends the encounter when that's an easy assumption. In an encounter against cultists performing a world-ending ritual, the heroes can guess that stopping the ritual is one of their objectives. In fact, they probably went on this adventure to specifically achieve that objective. They're not there for karaoke at the end of existence!
 
-Not all objectives are so clear, however. In a battle against a goblin cursespitter, a kobold legionary, and three human knaves guarding the entrance to a bandit fortress, it can be difficult to know what the exact objective of the encounter is, beyond “Defeat them all!” The objective could be to simply diminish the enemy forces, but it could also be the case that the cursespitter leads the group, so that defeating the goblin causes the other forces to fall apart. In such a case, it helps if the Director provides at least a hint of that setup at the start of the battle. The cursespitter could clearly issue orders and even call the other bandits cowards, demanding that they not “run away like last time!”
+Not all objectives are so clear, however. In a battle against a goblin cursespitter, a kobold legionary, and three human knaves guarding the entrance to a bandit fortress, it can be difficult to know what the exact objective of the encounter is, beyond "Defeat them all!" The objective could be to simply diminish the enemy forces, but it could also be the case that the cursespitter leads the group, so that defeating the goblin causes the other forces to fall apart. In such a case, it helps if the Director provides at least a hint of that setup at the start of the battle. The cursespitter could clearly issue orders and even call the other bandits cowards, demanding that they not "run away like last time!"
 
 #### COMPLETE THE ACTION
 
-The opposite of “Stop the Action,” this objective ending sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a time raider boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few time raiders actually aboard.
+The opposite of "Stop the Action," this objective ending sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a time raider boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few time raiders actually aboard.
 
 #### OBJECTIVES AND ENCOUNTER DIFFICULTY
 
@@ -14856,7 +14969,7 @@ For players who like to always duke it out to the bitter end rather than ending 
 
 # NEGOTIATION
 
-Negotiation gives the heroes a chance to get what they want without combat … or at least without further combat! You might negotiate with a king to obtain military support against an incursion of demons in a neighboring country. You could enter into talks with a bandit leader to convince her to stop attacking merchant caravans on the road, and instead target nobles loyal to a tyrant. You might attempt to convince an archmage to allow you access to their secret library so you can research the location of a dragon-slaying axe. Negotiation covers all these scenarios and more.
+Negotiation gives the heroes a chance to get what they want without combat... or at least without further combat! You might negotiate with a king to obtain military support against an incursion of demons in a neighboring country. You could enter into talks with a bandit leader to convince her to stop attacking merchant caravans on the road, and instead target nobles loyal to a tyrant. You might attempt to convince an archmage to allow you access to their secret library so you can research the location of a dragon-slaying axe. Negotiation covers all these scenarios and more.
 
 Think of negotiation as something like learning a new system for combat, exploration, or investigation in an RPG. This set of rules provides a framework for roleplaying. The negotiation rules are meant to be read by players and Directors, so that both understand the rules of negotiation. If a player hasn't read these rules, the Director and other players who have can explain them to that player during their first negotiation.
 
@@ -14864,13 +14977,13 @@ Negotiation is a framework for important roleplaying encounters when the heroes 
 
 ## WHEN TO NEGOTIATE
 
-In order for a negotiation to occur, an NPC must have an interest in negotiating with the heroes—but must also have a reason to not simply jump on board with whatever the heroes propose. Negotiations happen only when an NPC has that internal tension between interest and reluctance. For example, if the characters ask a king to send his army into a neighboring kingdom to battle a demon incursion, the king needs to be conflicted. He wants to stop the incursion, but he doesn't want to risk the lives of his soldiers defending a foreign nation while leaving their own people unprotected. If the heroes want the help of the king's army, they need to negotiate.
+In order for a negotiation to occur, an NPC must have an interest in negotiating with the heroes-but must also have a reason to not simply jump on board with whatever the heroes propose. Negotiations happen only when an NPC has that internal tension between interest and reluctance. For example, if the characters ask a king to send his army into a neighboring kingdom to battle a demon incursion, the king needs to be conflicted. He wants to stop the incursion, but he doesn't want to risk the lives of his soldiers defending a foreign nation while leaving their own people unprotected. If the heroes want the help of the king's army, they need to negotiate.
 
 Heroes aren't expected to use the negotiation rules every time one character tries to convince an NPC to see things their way. For instance, if a hero wants information about a cult leader from a captured cultist, a single Presence test using the Lie skill or a Might test using Intimidate is likely all that's needed. A character who wants to flirt with the local alchemist to obtain a free Healing Potion likely just needs to make a Presence test using the Flirt skill.
 
 By contrast, negotiations typically involve all the heroes interacting with one or more important named NPCs who can provide information, items, or services that dramatically change the course of an adventure. Often, this involves the heroes seeking an item of great power, a retainer or companion, the services of an influential organization or nation, or a plot-twist-worthy piece of information. Convincing a lich to lend the party the legendary Codex Mortis, trying to convince a dragon to halt an attack on a wizard's tower, or talking the leaders of an enemy army into standing down means that a negotiation is in order.
 
-To negotiate successfully, the heroes must make persuasive arguments to convince NPCs to do what they want. “Do it or we kill you” is a threat that might well accompany a single Might test using the Intimidate skill, but it's not a negotiating tactic.
+To negotiate successfully, the heroes must make persuasive arguments to convince NPCs to do what they want. "Do it or we kill you" is a threat that might well accompany a single Might test using the Intimidate skill, but it's not a negotiating tactic.
 
 ### LIMITS OF NEGOTIATION
 
@@ -14878,17 +14991,17 @@ Some players might instinctively feel that the negotiation rules should give the
 
 Negotiations only work when the heroes ask for something from an NPC that the NPC is willing to seriously consider giving them.
 
-Negotiation is not a process that changes an NPC's character. Rather, the heroes are trying to make an NPC understand how behaving differently would be in character. You might well be able to get the hitherto loyal lieutenant of an evil boss to reconsider the error of their ways. That's a classic dramatic trope. But even then, you're not changing their character—you're convincing them that their current evil ways are out of character. “Is this who you are? Is this how you want to be remembered?!”
+Negotiation is not a process that changes an NPC's character. Rather, the heroes are trying to make an NPC understand how behaving differently would be in character. You might well be able to get the hitherto loyal lieutenant of an evil boss to reconsider the error of their ways. That's a classic dramatic trope. But even then, you're not changing their character-you're convincing them that their current evil ways are out of character. "Is this who you are? Is this how you want to be remembered?!"
 
-If some players want to use the negotiation system as a means to an end by having their characters say, “Just do what we tell you, or else!”, you can remind them that that's not how most people, including NPCs, work. Any heroes who open with that attitude are likely to lose the negotiation before it begins.
+If some players want to use the negotiation system as a means to an end by having their characters say, "Just do what we tell you, or else!", you can remind them that that's not how most people, including NPCs, work. Any heroes who open with that attitude are likely to lose the negotiation before it begins.
 
 ### THE THREAT OF VIOLENCE
 
 In the real world, negotiations rarely come with a threat of immediate violence. Ambassadors don't usually get into fistfights. But this is a heroic fantasy RPG, featuring heroes who are armed to the teeth and able to alter reality with their minds. The threat of violence is already implied. Everyone involved knows that the characters could draw steel at any moment.
 
-The Director typically assumes that the underlying potential for events to turn violent is already factored into every negotiation. However, if the heroes decide to bring that threat to the forefront, then they've exited the realm of negotiation and have entered into a different type of relationship—and it's probably time to determine initiative.
+The Director typically assumes that the underlying potential for events to turn violent is already factored into every negotiation. However, if the heroes decide to bring that threat to the forefront, then they've exited the realm of negotiation and have entered into a different type of relationship-and it's probably time to determine initiative.
 
-Negotiation is about persuading someone to help you willingly because you've convinced them that meeting your objectives is a good idea. Working with you is wise or logical, or might make them look good. A hero can absolutely threaten someone with violence and force them to do what they want, but this is an incredibly temporary state. A threatened NPC isn't willingly doing what they've been asked. They're doing it on threat of violence and will comply only while that threat is evident—after which, they'll likely go back to their previous behavior as soon as they think they can get away with it.
+Negotiation is about persuading someone to help you willingly because you've convinced them that meeting your objectives is a good idea. Working with you is wise or logical, or might make them look good. A hero can absolutely threaten someone with violence and force them to do what they want, but this is an incredibly temporary state. A threatened NPC isn't willingly doing what they've been asked. They're doing it on threat of violence and will comply only while that threat is evident-after which, they'll likely go back to their previous behavior as soon as they think they can get away with it.
 
 #### NEWGOTIATION
 
@@ -14896,7 +15009,7 @@ If you've never played a game with a dedicated negotiation system like this, you
 
 ## NEGOTIATION STATS
 
-During negotiation, the Director assigns NPCs four temporary statistics—interest, patience, motivations, and pitfalls. The heroes can strike a favorable deal if they maximize an NPC's interest by making arguments that invoke the NPC's motivations and avoid their pitfalls—but they have to do all that before the NPC's patience wears out.
+During negotiation, the Director assigns NPCs four temporary statistics-interest, patience, motivations, and pitfalls. The heroes can strike a favorable deal if they maximize an NPC's interest by making arguments that invoke the NPC's motivations and avoid their pitfalls-but they have to do all that before the NPC's patience wears out.
 
 ### INTEREST
 
@@ -14940,14 +15053,14 @@ An NPC can have any of the following twelve motivations or pitfalls:
 
 An NPC with the benevolence motivation believes in sharing what they have with others. However, an NPC involved in a negotiation must be limited in their benevolence, so that they don't just give the heroes what they need.
 
-Sometimes an NPC's benevolence might extend only to a specific group of people, so that a benevolent pirate captain might share their plunder freely with the rest of their crew—but they're still plundering! Other times, an NPC's charity might be limited by the fact that they don't have much to give. A benevolent NPC might be hesitant to give the heroes help because they believe their limited resources are more necessary or could do more good somewhere else.
+Sometimes an NPC's benevolence might extend only to a specific group of people, so that a benevolent pirate captain might share their plunder freely with the rest of their crew-but they're still plundering! Other times, an NPC's charity might be limited by the fact that they don't have much to give. A benevolent NPC might be hesitant to give the heroes help because they believe their limited resources are more necessary or could do more good somewhere else.
 
 An NPC with the **benevolence pitfall** has a cynical view of the world, believing that no creature has a right to anything just by being alive. The idea of helping others because it's the right thing to do is a preposterous, immature, or inexperienced idea to be laughed off or snuffed out.
 
 Arguments that appeal to a **benevolence motivation** contend that if the NPC strikes a deal with the heroes, the people the NPC cares about will benefit from the deal. Example arguments include the following:
 
-- “If you lend us the Sword of Agathor, we can make Capital safer for your guild by using it to lay your enemies low.”
-- “If you can teleport us into the dragon's cave, we'll give you half the wyrm's hoard once we cut off the creature's head. That could benefit generations of students at your academy!”
+- "If you lend us the Sword of Agathor, we can make Capital safer for your guild by using it to lay your enemies low."
+- "If you can teleport us into the dragon's cave, we'll give you half the wyrm's hoard once we cut off the creature's head. That could benefit generations of students at your academy!"
 
 #### DISCOVERY
 
@@ -14957,8 +15070,8 @@ An NPC with the **discovery pitfall** has no interest in finding new places, peo
 
 Arguments that appeal to a **discovery motivation** contend that striking a deal with the heroes will allow the NPC to gain new knowledge or acquire unique property. Example arguments include the following:
 
-- “Allow us to use your cipher to translate the only copy of the Codex Mortis, and then we'll let you read the book when we're done.”
-- “We know the journey to Decant Isle is dangerous, but we're going into uncharted territory. We thought that your crew of sailors might want to be among the few mortals to lay eyes on the place.”
+- "Allow us to use your cipher to translate the only copy of the Codex Mortis, and then we'll let you read the book when we're done."
+- "We know the journey to Decant Isle is dangerous, but we're going into uncharted territory. We thought that your crew of sailors might want to be among the few mortals to lay eyes on the place."
 
 #### FREEDOM
 
@@ -14968,8 +15081,8 @@ An NPC with the **freedom pitfall** believes that a world without authority is o
 
 Arguments that appeal to a **freedom motivation** contend that helping the heroes will maintain or grant freedom to the NPC or other people. Example arguments include the following:
 
-- “I know you want to see the queen's authority revoked forever. She has no heirs. Give us the key to her study so that we can prove her corruption and give you a chance to topple the monarchy henceforth.”
-- “If you promise to give us ten vials of Assassin's Kiss, we'll see to it that the baron's prison is emptied.”
+- "I know you want to see the queen's authority revoked forever. She has no heirs. Give us the key to her study so that we can prove her corruption and give you a chance to topple the monarchy henceforth."
+- "If you promise to give us ten vials of Assassin's Kiss, we'll see to it that the baron's prison is emptied."
 
 #### GREED
 
@@ -14981,8 +15094,8 @@ An NPC with the **greed pitfall** has no interest in accumulating wealth or othe
 
 Arguments that appeal to a **greed motivation** contend that helping the heroes will increase the NPC's wealth or assets. Example arguments include the following:
 
-- “You should help us battle the overmind. Xorranox's wealth is legendary, and we'll see to it that you get your fair share.”
-- “Give us a week to do research among your private collection of books, and we'll give you another ten unique tomes we found in an ancient star elf sanctuary.”
+- "You should help us battle the overmind. Xorranox's wealth is legendary, and we'll see to it that you get your fair share."
+- "Give us a week to do research among your private collection of books, and we'll give you another ten unique tomes we found in an ancient star elf sanctuary."
 
 #### HIGHER AUTHORITY
 
@@ -14992,8 +15105,8 @@ An NPC with the **higher authority pitfall** scoffs at the idea of serving anoth
 
 Arguments that appeal to a **higher authority motivation** contend that it's in the interest of the higher authority for the NPC to strike a deal with the heroes. A hero might even tell the NPC that if the higher authority were in the NPC's position, they would take the deal. Example arguments include the following:
 
-- “All great creations honor your god, Malus. If you teach me to forge the Hammer of Azdul, that will be a great honor to bestow upon your god.”
-- “You know what Jarith the Bold would do? He'd guide us through the vast wasteland of the desert to reach the tower. Will you be our Jarith?”
+- "All great creations honor your god, Malus. If you teach me to forge the Hammer of Azdul, that will be a great honor to bestow upon your god."
+- "You know what Jarith the Bold would do? He'd guide us through the vast wasteland of the desert to reach the tower. Will you be our Jarith?"
 
 #### JUSTICE
 
@@ -15003,8 +15116,8 @@ An NPC with the **justice pitfall** doesn't believe that the timescape is an inh
 
 Arguments that appeal to a **justice motivation** position the heroes on the good side of an NPC's sense of right and wrong. Example arguments include the following:
 
-- “You despise those who steal from nature. Allow us peacefully into your wode so we may bottle the Blessed Spring's water. We're going to use it to stop an army from felling every tree and tearing up the earth wherever they go.”
-- “You think nobles are lazy barons who get rich off the backs of peasants. We want to dethrone Lord Saxton. Lend us your crew of thieves, and we'll see to it that when Saxton falls, the people can choose their own leaders.”
+- "You despise those who steal from nature. Allow us peacefully into your wode so we may bottle the Blessed Spring's water. We're going to use it to stop an army from felling every tree and tearing up the earth wherever they go."
+- "You think nobles are lazy barons who get rich off the backs of peasants. We want to dethrone Lord Saxton. Lend us your crew of thieves, and we'll see to it that when Saxton falls, the people can choose their own leaders."
 
 #### LEGACY
 
@@ -15014,8 +15127,8 @@ An NPC with a **legacy pitfall** cares nothing about leaving a personal mark on 
 
 Arguments that appeal to a **legacy motivation** contend that striking a deal with the heroes increases the likelihood that people will talk about the NPC for centuries to come. Example arguments include the following:
 
-- “If you give us the vizier's itinerary, I'll compose a song about your bravery in defying him, then sing it in every tavern from here to Ix!”
-- “Yes, losing the battle is a possibility. If we do, the gnolls will still come for you eventually. But if we crush our foes, imagine the honors, the histories, the poems, the statues—all of it created for you because your siege engines turned the tide.”
+- "If you give us the vizier's itinerary, I'll compose a song about your bravery in defying him, then sing it in every tavern from here to Ix!"
+- "Yes, losing the battle is a possibility. If we do, the gnolls will still come for you eventually. But if we crush our foes, imagine the honors, the histories, the poems, the statues-all of it created for you because your siege engines turned the tide."
 
 #### PEACE
 
@@ -15025,19 +15138,19 @@ An NPC with the **peace pitfall** hates being bored. They want excitement, drama
 
 Arguments that appeal to a **peace motivation** contend that helping the heroes will earn the NPC some peace, at least for a little while. Example arguments include the following:
 
-- “You have a good thing going here. A little burgling of nobles, some alcohol smuggling, and some illegal gambling dens. No one's getting hurt, but Constable Cofax is closing in on you. We could redirect him toward some real danger to the community if you can help us set a trap for the Watchmaker.”
-- “I know you don't sell to outsiders, but we need that helm. I'm going to use it to turn back a group of hobgoblins marching this way. They're not going to be as friendly as us.”
+- "You have a good thing going here. A little burgling of nobles, some alcohol smuggling, and some illegal gambling dens. No one's getting hurt, but Constable Cofax is closing in on you. We could redirect him toward some real danger to the community if you can help us set a trap for the Watchmaker."
+- "I know you don't sell to outsiders, but we need that helm. I'm going to use it to turn back a group of hobgoblins marching this way. They're not going to be as friendly as us."
 
 #### POWER
 
-An NPC with the **power motivation** covets the authority of others. They want to increase their influence, no matter how great it already is, and maintain their domain. They might seek power through conquering others, the collection of artifacts, or through the infusion of supernatural rituals—though why choose one method when all three together achieve the best results? Some such NPCs are world-traversing tyrants, but the petty administrators of village organizations and shrines can covet power just as hungrily.
+An NPC with the **power motivation** covets the authority of others. They want to increase their influence, no matter how great it already is, and maintain their domain. They might seek power through conquering others, the collection of artifacts, or through the infusion of supernatural rituals-though why choose one method when all three together achieve the best results? Some such NPCs are world-traversing tyrants, but the petty administrators of village organizations and shrines can covet power just as hungrily.
 
 An NPC with the **power pitfall** has no interest in authority for themself. They might respect the authority of others, but they hate the thought of ruling over other people and roundly reject any suggestion of the idea.
 
 Arguments that appeal to a **power motivation** contend that working with the heroes will increase or protect the NPC's power. Example arguments include the following:
 
-- “Everyone knows you should be running the watch, Percy. The old lady's retiring, and our friend Baron Kuglar is naming the replacement. Now, you let us into the restricted armory, and we'll put in a good word.”
-- “We know he's your brother, Your Highness, but he's older—first in line for the throne. If you help us prove he's in a cult, you become the favorite son.”
+- "Everyone knows you should be running the watch, Percy. The old lady's retiring, and our friend Baron Kuglar is naming the replacement. Now, you let us into the restricted armory, and we'll put in a good word."
+- "We know he's your brother, Your Highness, but he's older-first in line for the throne. If you help us prove he's in a cult, you become the favorite son."
 
 #### PROTECTION
 
@@ -15047,8 +15160,8 @@ An NPC with the **protection pitfall** is happy to leave others to fend for them
 
 Arguments that appeal to a **protection motivation** contend that helping the heroes allows an NPC to better protect their charge. Example arguments include the following:
 
-- “Dead soldiers grow the necromancer's ranks. Total annihilation is the only way to defeat her. March with us now, while her army is small, and we'll defeat her. Or you could gamble that someone else tries, fails, and suddenly she's at the border, ready to overrun your kingdom with an army tenfold larger than what it is now.”
-- “I see your grandchild is hell-bent on joining the service. I happen to have a magic suit of armor that could help them ward off the blows of monsters and ruffians. I'd be happy to give it to you, in exchange for borrowing your griffons for a few days. After all, I won't need the armor if I can simply fly over the marsh's monsters.”
+- "Dead soldiers grow the necromancer's ranks. Total annihilation is the only way to defeat her. March with us now, while her army is small, and we'll defeat her. Or you could gamble that someone else tries, fails, and suddenly she's at the border, ready to overrun your kingdom with an army tenfold larger than what it is now."
+- "I see your grandchild is hell-bent on joining the service. I happen to have a magic suit of armor that could help them ward off the blows of monsters and ruffians. I'd be happy to give it to you, in exchange for borrowing your griffons for a few days. After all, I won't need the armor if I can simply fly over the marsh's monsters."
 
 #### REVELRY
 
@@ -15058,19 +15171,19 @@ An NPC with the **revelry pitfall** sees social encounters and hedonism as a was
 
 Arguments that appeal to the **revelry motivation** contend that striking a deal with the heroes will allow the NPC to get back to reveling sooner, longer, or harder. Example arguments include the following:
 
-- “How would you like to have the most exclusive songs for your exclusive birthday celebration next week? I'll write you a whole original set list, free of charge … provided you extend me and my band here an invitation.”
-- “I know you don't want to forge five Chronokinesis Crowns. How's this instead? You do that for me, and I'll give you the fourteen kegs of whiskey we found in a steel-dwarf ruin. This stuff is old, unique, and forget-your-first-name potent. You can crack a keg with your friends to celebrate a job well done.”
+- "How would you like to have the most exclusive songs for your exclusive birthday celebration next week? I'll write you a whole original set list, free of charge... provided you extend me and my band here an invitation."
+- "I know you don't want to forge five Chronokinesis Crowns. How's this instead? You do that for me, and I'll give you the fourteen kegs of whiskey we found in a steel-dwarf ruin. This stuff is old, unique, and forget-your-first-name potent. You can crack a keg with your friends to celebrate a job well done."
 
 #### VENGEANCE
 
 An NPC with the **vengeance motivation** wants to harm another who has hurt them. Their desire for revenge could be proportional to the harm that was inflicted upon them, or they might wish to pay back their pain with interest. In some cases, a desire for vengeance can be satisfied only by the death of another, but an NPC might wish to pay back their own suffering with embarrassment, career failure, or some other less permanent pain.
 
-An NPC with the **vengeance pitfall** believes that revenge solves nothing. They might have gained this belief firsthand, or they might simply not have the ambition to seek revenge—and they take a dim view of others who do.
+An NPC with the **vengeance pitfall** believes that revenge solves nothing. They might have gained this belief firsthand, or they might simply not have the ambition to seek revenge-and they take a dim view of others who do.
 
 Arguments that appeal to the **vengeance motivation** contend that the NPC can gain payback for their pain by helping the heroes. Example arguments include the following:
 
-- “The servants of Ajax killed your sister as she scoured the city for his cults. The Black Iron Pact works for the Overlord. Give us her diaries, and we might uncover the pact's hideaway and deal a great blow to your hated foes.”
-- “That prankster Huckable made your trousers tear at the last council meeting. Don't you want to pay him back? We can arrange a delicious prank at the next gathering, but we need you to guarantee the safety of the orc refugees.”
+- "The servants of Ajax killed your sister as she scoured the city for his cults. The Black Iron Pact works for the Overlord. Give us her diaries, and we might uncover the pact's hideaway and deal a great blow to your hated foes."
+- "That prankster Huckable made your trousers tear at the last council meeting. Don't you want to pay him back? We can arrange a delicious prank at the next gathering, but we need you to guarantee the safety of the orc refugees."
 
 ### NPCS CHANGE OVER TIME
 
@@ -15080,7 +15193,7 @@ Just like the heroes, NPCs in negotiations are complex individuals who can chang
 
 A negotiation begins when the heroes ask something of an NPC and the Director deems that the circumstances require a negotiation. Those circumstances always involve the heroes requiring assistance that could change the course of the adventure, and having the NPC conflicted about working with them. Unlike combat, which can be thrust upon the heroes by violent allies, the heroes must be the ones to willingly start a negotiation. They must want something from the NPC, otherwise they have no reason to negotiate!
 
-The Director can decide that an NPC who has something the players want could show up at their door and ask if the heroes want to negotiate, but it's always okay for the characters to say, “Not interested,” and refuse to negotiate.
+The Director can decide that an NPC who has something the players want could show up at their door and ask if the heroes want to negotiate, but it's always okay for the characters to say, "Not interested," and refuse to negotiate.
 
 ### STOP COMBAT, START NEGOTIATION
 
@@ -15103,7 +15216,7 @@ An NPC's starting negotiation stats depend on their attitude toward the heroes, 
 
 ## UNCOVERING MOTIVATIONS
 
-If a hero wishes to figure out an NPC's motivations, they can begin by simply asking, “What do you want out of this deal?” In response, the NPC can willingly hint at or reveal one of their motivations, usually by asking for something. For instance, a monarch NPC with the **greed** motivation and a penchant for collecting rare animals might suggest that the heroes retrieving a griffon egg would earn the monarch's gratitude.
+If a hero wishes to figure out an NPC's motivations, they can begin by simply asking, "What do you want out of this deal?" In response, the NPC can willingly hint at or reveal one of their motivations, usually by asking for something. For instance, a monarch NPC with the **greed** motivation and a penchant for collecting rare animals might suggest that the heroes retrieving a griffon egg would earn the monarch's gratitude.
 
 The Director can also decide that during the natural course of the negotiation, the NPC might offer up similar suggestions without the heroes asking, provided the NPC already has an interest of at least 3.
 
@@ -15125,11 +15238,11 @@ While the heroes can discover an NPC's motivations or pitfalls through tests mad
 
 As part of their initial request to an NPC in a negotiation, a hero makes an argument as to why the NPC should give the heroes what they want. The hero might offer to do something in exchange as part of their argument, such as clear bandits from a forest, hand over a piece of treasure, or slay a dragon for the NPC.
 
-Or instead of offering something, the hero could attempt to convince the NPC that it's in their own best interest to help—or even that it's a moral imperative. For example, a hero could appeal to a knight's sense of duty, the potential wealth a mercenary could make, or the final wish of a queen's dearly departed grandmother as part of an argument. NPCs who admire the heroes are more likely to respond to compliments and buttering up, while those who fear the heroes are more likely to respond to intimidation and awe.
+Or instead of offering something, the hero could attempt to convince the NPC that it's in their own best interest to help-or even that it's a moral imperative. For example, a hero could appeal to a knight's sense of duty, the potential wealth a mercenary could make, or the final wish of a queen's dearly departed grandmother as part of an argument. NPCs who admire the heroes are more likely to respond to compliments and buttering up, while those who fear the heroes are more likely to respond to intimidation and awe.
 
-Arguments need a justification as to why they're true. “Helping us defeat Lord Saxton is good for you in the long run,” is half of an argument, so the hero also needs to explain why this is the case. “Helping us defeat Lord Saxton is good for you in the long run, because we know he's coming for your kingdom after Bedegar falls!”
+Arguments need a justification as to why they're true. "Helping us defeat Lord Saxton is good for you in the long run," is half of an argument, so the hero also needs to explain why this is the case. "Helping us defeat Lord Saxton is good for you in the long run, because we know he's coming for your kingdom after Bedegar falls!"
 
-If a hero makes half an argument, the NPC might follow up with questions such as, “Why do you say that?” or “What makes you think that's true?” to get the full argument from the hero.
+If a hero makes half an argument, the NPC might follow up with questions such as, "Why do you say that?" or "What makes you think that's true?" to get the full argument from the hero.
 
 One hero makes an argument to an NPC, but the players can discuss the details of the argument out of character beforehand. It's up to the group to decide how much discussion to have before making an argument and to decide what argument the players think will best sway the NPC.
 
@@ -15137,7 +15250,7 @@ This is a good topic for discussion before a group actually gets into a negotiat
 
 ### APPEAL TO MOTIVATION
 
-If an argument doesn't include a pitfall and appeals to one of the NPC's motivations that hasn't already been appealed to, the hero making the argument can make an easy test to attempt to sway the NPC with the argument. Depending on the argument, this can be a **Reason**, **Intuition**, or **Presence** test using any applicable skill—most commonly a skill from the interpersonal skill group. The test has the following outcomes:
+If an argument doesn't include a pitfall and appeals to one of the NPC's motivations that hasn't already been appealed to, the hero making the argument can make an easy test to attempt to sway the NPC with the argument. Depending on the argument, this can be a **Reason**, **Intuition**, or **Presence** test using any applicable skill-most commonly a skill from the interpersonal skill group. The test has the following outcomes:
 
 **Power Roll + Reason, Intuition, or Presence:**
 
@@ -15212,11 +15325,11 @@ If a hero is **famous** to an NPC, they gain an edge on tests when making argume
 
 After a hero makes an argument, the NPC responds in one of three ways:
 
-- An NPC responds positively if the heroes increase the NPC's interest. “That's an excellent point.” “You've given me much to consider.” “Fair enough.” “Makes sense to me.”
+- An NPC responds positively if the heroes increase the NPC's interest. "That's an excellent point." "You've given me much to consider." "Fair enough." "Makes sense to me."
 
-- An NPC responds negatively if the heroes decrease their interest. “I don't buy that.” “Poppycock!” “I hear you, but I disagree.” “That's not going to sway me.”
+- An NPC responds negatively if the heroes decrease their interest. "I don't buy that." "Poppycock!" "I hear you, but I disagree." "That's not going to sway me."
 
-- An NPC responds with impatience if the heroes fail to increase or decrease their interest. “I've heard that before.” “Are you going to offer me anything real?” “This debate is tiresome.” “BORING!”
+- An NPC responds with impatience if the heroes fail to increase or decrease their interest. "I've heard that before." "Are you going to offer me anything real?" "This debate is tiresome." "BORING!"
 
 Unless the NPC is deceitful, it should be clear to the heroes if their argument helped convince the NPC, if they need to take a new approach, or if the argument actually did more harm than good. The initial response should come with an offer (or a refusal to make an offer) based on the NPC's current interest. If a hero's argument reduces an NPC's patience to 0, the NPC lets the heroes know that this is their final offer.
 
@@ -15226,7 +15339,7 @@ Under certain circumstances, an NPC might not want to show the heroes how well t
 
 ### INTEREST 5 ("YES, AND ...")
 
-If the NPC's interest is 5, they offer everything the heroes initially asked for—and then sweeten the deal. This result is the best possible outcome for the heroes. If they offered to perform any services or make payments as part of the deal, the NPC might waive those obligations, allowing the heroes to get what they want for free. Alternatively, the NPC might hold the heroes to any offers they made and instead offer an extra service or item on top of what was asked for.
+If the NPC's interest is 5, they offer everything the heroes initially asked for-and then sweeten the deal. This result is the best possible outcome for the heroes. If they offered to perform any services or make payments as part of the deal, the NPC might waive those obligations, allowing the heroes to get what they want for free. Alternatively, the NPC might hold the heroes to any offers they made and instead offer an extra service or item on top of what was asked for.
 
 For example, if the heroes asked the boss of a thieves guild for that organization's help in standing against Lord Saxton, the guildmaster might pledge to send a unit of elite assassins to aid in the battle against that tyrannical noble, and then offer the heroes a quiver filled with explosive arrows to give them an additional advantage in the fight.
 
@@ -15236,11 +15349,11 @@ The NPC should let the heroes know that this is the best offer they can make.
 
 If the NPC's interest is 4, they offer the heroes everything they asked for but won't sweeten the deal. The NPC also accepts anything the heroes have offered as part of the deal with this result.
 
-For example, if the heroes offered to help spring a guild thief from prison in exchange for the thieves guild's elite assassins standing against Lord Saxton, the guildmaster agrees to those terms without attempting to adjust anything. This likely ends the negotiation, but it's possible that the heroes could push for a little more, provided the NPC has the patience for another argument. A Director could prompt the heroes to push for more by having the NPC ask a leading question, such as, “Is there anything else?” or “What else do you want from me?”
+For example, if the heroes offered to help spring a guild thief from prison in exchange for the thieves guild's elite assassins standing against Lord Saxton, the guildmaster agrees to those terms without attempting to adjust anything. This likely ends the negotiation, but it's possible that the heroes could push for a little more, provided the NPC has the patience for another argument. A Director could prompt the heroes to push for more by having the NPC ask a leading question, such as, "Is there anything else?" or "What else do you want from me?"
 
 ### INTEREST 3 ("YES, BUT ...")
 
-If the NPC's interest is 3, they offer the heroes what they want in exchange for everything the heroes offered … then they ask for a little extra, such as a favor or a payment from the characters. If the heroes offered to free a thieves guild member from prison in exchange for the service of the organization's assassins, the guildmaster might ask them to free an additional prisoner, or to grant the prisoner they rescue a sum of cash or a magic weapon.
+If the NPC's interest is 3, they offer the heroes what they want in exchange for everything the heroes offered... then they ask for a little extra, such as a favor or a payment from the characters. If the heroes offered to free a thieves guild member from prison in exchange for the service of the organization's assassins, the guildmaster might ask them to free an additional prisoner, or to grant the prisoner they rescue a sum of cash or a magic weapon.
 
 ### INTEREST 2 ("NO, BUT ...")
 
@@ -15248,7 +15361,7 @@ If the NPC's interest is 2, the NPC can't give the heroes what they want. Howeve
 
 ### INTEREST 1 ("NO.")
 
-If the NPC's interest is 1, they outright reject the heroes' idea without a counteroffer. If the NPC still has patience, they might press the heroes for a better deal, saying something like, “Why should we risk our necks to help you fight Lord Saxton? What's really in it for the thieves guild, other than a short, brutal end when you inevitably fail?”
+If the NPC's interest is 1, they outright reject the heroes' idea without a counteroffer. If the NPC still has patience, they might press the heroes for a better deal, saying something like, "Why should we risk our necks to help you fight Lord Saxton? What's really in it for the thieves guild, other than a short, brutal end when you inevitably fail?"
 
 ### INTEREST 0 ("NO, AND ...")
 
@@ -15260,11 +15373,11 @@ It is impossible to continue a negotiation when an NPC's interest drops to 0.
 
 When you're preparing a negotiation, think of at least two specific asks that the NPC could make of the heroes. Then you're prepared if the heroes ask what they can do for the NPC and you want to give a response, or if the NPC's interest becomes 3. These asks could be specific items the heroes have or can obtain (such as a magic sword or psionic crystal), or they might be favors in the form of adventuring (such as slaying a dragon or rescuing a village from a siege).
 
-You should also have at least two specific ways the NPC can help the heroes beyond what they're asking for. These can be used if the NPC's interest becomes 2, to give the heroes something that can help them that isn't what they asked for. They can also be used if the NPC's interest rises to 5, to give the heroes something extra in addition to what they asked for. This help could take the form of treasures or the assistance of a companion or retainer. It might be hidden information that the heroes don't yet know, and which can help them with their overall goal. Or perhaps it's a less impactful version of what the heroes initially asked for. If the heroes ask an ancient dragon for help storming a castle, the dragon might offer the services of their younger, less powerful offspring instead of their own assistance … or in addition to it!
+You should also have at least two specific ways the NPC can help the heroes beyond what they're asking for. These can be used if the NPC's interest becomes 2, to give the heroes something that can help them that isn't what they asked for. They can also be used if the NPC's interest rises to 5, to give the heroes something extra in addition to what they asked for. This help could take the form of treasures or the assistance of a companion or retainer. It might be hidden information that the heroes don't yet know, and which can help them with their overall goal. Or perhaps it's a less impactful version of what the heroes initially asked for. If the heroes ask an ancient dragon for help storming a castle, the dragon might offer the services of their younger, less powerful offspring instead of their own assistance... or in addition to it!
 
 ## KEEP GOING OR STOP
 
-If an NPC still has patience after making an offer and their interest is between 1 and 4, the heroes can make another argument to attempt to improve the deal. Alternatively, they can accept the offer and end the negotiation. Let the players drive this decision. You can always have an NPC show they have patience remaining by asking, “Is there anything else?”
+If an NPC still has patience after making an offer and their interest is between 1 and 4, the heroes can make another argument to attempt to improve the deal. Alternatively, they can accept the offer and end the negotiation. Let the players drive this decision. You can always have an NPC show they have patience remaining by asking, "Is there anything else?"
 
 If the NPC's patience is 0 or their interest is 5, then the offer the NPC makes is their final offer to the characters. The heroes can accept the offer or not, but either way, the negotiation ends.
 
@@ -15276,7 +15389,7 @@ The heroes can walk away from a negotiation without accepting a deal at any time
 
 After killing the true lord of Bedegar, the tyrannical Lord Saxton took over the barony's capital and is presently gathering forces of his own to march on the rest of Bedegar's settlements. The heroes recently saved Edmund, the true heir to Bedegar's throne, and are now gathering forces to build an army that can stand against Saxton and defeat the tyrant.
 
-The heroes are engaging in a negotiation with **Zola Honeycut**, the human guildmaster of the Clock—a thieves' guild whose headquarters is located in Bedegar's capital. The guild openly opposed Saxton when he first seized power, but the tyrant was quick to crack down on all known members of the Clock, forcing them into hiding or hanging them as a warning to others. The heroes' hope is that they can convince Zola to support their armed resistance.
+The heroes are engaging in a negotiation with **Zola Honeycut**, the human guildmaster of the Clock-a thieves' guild whose headquarters is located in Bedegar's capital. The guild openly opposed Saxton when he first seized power, but the tyrant was quick to crack down on all known members of the Clock, forcing them into hiding or hanging them as a warning to others. The heroes' hope is that they can convince Zola to support their armed resistance.
 
 ### ZOLA'S NEGOTIATION STATS
 
@@ -15291,7 +15404,7 @@ Zola is neutral toward the heroes when the negotiation begins. She knows them on
 #### Motivations
 
 - **Benevolence:** Zola's name, Honeycut, comes from the fact that she always gives her fellow thieves a bigger cut than her own on jobs.
-- **Protection:** The members of the Clock are the only family Zola's ever known. The guild's motto is “The Clock is always ticking,” because they're always planning the next job and their ever-richer future. Zola doesn't want to be the guild's last master.
+- **Protection:** The members of the Clock are the only family Zola's ever known. The guild's motto is "The Clock is always ticking," because they're always planning the next job and their ever-richer future. Zola doesn't want to be the guild's last master.
 
 #### Pitfalls
 
@@ -15306,53 +15419,53 @@ Zola is glad that people are finally opposing Lord Saxton, but is angry that no 
 
 Here's how the negotiation with Zola might play out. In this scenario, Alyssa is playing Jorn the tactician, Grace is playing Val the conduit, James is playing Korvo the shadow, and Matt is playing Linn the talent. All the heroes have a Renown of 2 except for Jorn, who has a Renown of 3 and is therefore famous to Zola.
 
-**Director:** The windows are boarded up, allowing no light to enter the seemingly abandoned Goat's Eye tavern. The whole place smells of charred wood, evidence of the fire that burned most of the building's interior three years ago. As the door shuts behind you, light from a hooded lantern on the opposite side of the tavern suddenly fills the room. Amid the blackened walls and pillars, you see that six burly ruffians flank your group on both sides. The human holding the lantern smiles. “Welcome. I'm Zola. Willoughby told me you were coming. Have a seat.” She motions to a few crates arranged in a circle around a wide barrel.
+**Director:** The windows are boarded up, allowing no light to enter the seemingly abandoned Goat's Eye tavern. The whole place smells of charred wood, evidence of the fire that burned most of the building's interior three years ago. As the door shuts behind you, light from a hooded lantern on the opposite side of the tavern suddenly fills the room. Amid the blackened walls and pillars, you see that six burly ruffians flank your group on both sides. The human holding the lantern smiles. "Welcome. I'm Zola. Willoughby told me you were coming. Have a seat." She motions to a few crates arranged in a circle around a wide barrel.
 
-**James (playing Korvo):** I have a seat and say, “Korvo at your service, Ms. Honeycut. And these here are the finest companions a polder could ask for: Linn, Jorn, and Val.”
+**James (playing Korvo):** I have a seat and say, "Korvo at your service, Ms. Honeycut. And these here are the finest companions a polder could ask for: Linn, Jorn, and Val."
 
-**Director:** Zola nods to each of you in turn, then says, “You'll excuse me if I dispense with more pleasantries. These days, no place is safe for the Clock. We keep moving. So tell me, what are you here for?”
+**Director:** Zola nods to each of you in turn, then says, "You'll excuse me if I dispense with more pleasantries. These days, no place is safe for the Clock. We keep moving. So tell me, what are you here for?"
 
-**Alyssa (playing Jorn):** “We're building an army to take down Saxton once and for all.”
+**Alyssa (playing Jorn):** "We're building an army to take down Saxton once and for all."
 
-**Director:** Zola gives a mirthless chuckle as she shakes her head. “Oh is that all? I have to tell you, I don't think the four of you stand much of a chance. Unless you're hiding a legion or two of dwarves in your pockets. Yes, you have Jorn the Mighty with you, but you'll need more than one famous warrior to win the day.”
+**Director:** Zola gives a mirthless chuckle as she shakes her head. "Oh is that all? I have to tell you, I don't think the four of you stand much of a chance. Unless you're hiding a legion or two of dwarves in your pockets. Yes, you have Jorn the Mighty with you, but you'll need more than one famous warrior to win the day."
 
 **Alyssa:** Ah! So she has heard of me at least! Thanks, Renown.
 
-**Grace (playing Val):** “We don't. But we do have Lord Edmund—the true heir to the Bedegar throne.”
+**Grace (playing Val):** "We don't. But we do have Lord Edmund-the true heir to the Bedegar throne."
 
-**Director:** Zola nods, impressed. “I'm glad the boy is safe, but that's all he is—a boy, not an army.”
+**Director:** Zola nods, impressed. "I'm glad the boy is safe, but that's all he is-a boy, not an army."
 
-**Matt (playing Linn):** “He's a boy people will rally around. We have no army, but that's why we're here. We're planning on changing that. Can you spare any soldiers for our cause?”
+**Matt (playing Linn):** "He's a boy people will rally around. We have no army, but that's why we're here. We're planning on changing that. Can you spare any soldiers for our cause?"
 
 The negotiation officially starts. The heroes have stated what they want from Zola. The Director begins by prompting them to make an argument.
 
-**Director:** Zola leans back on her crate. “There it is. The Clock has sacrificed much against Saxton. Why should we risk more to help? No one was here to help us months ago when we stood up to tyranny.”
+**Director:** Zola leans back on her crate. "There it is. The Clock has sacrificed much against Saxton. Why should we risk more to help? No one was here to help us months ago when we stood up to tyranny."
 
-**Alyssa:** I nod along as Zola speaks, listening before I say, “We didn't hear of your struggle until after Saxton had already hanged many of your brave people. We're here now. How can we help?”
+**Alyssa:** I nod along as Zola speaks, listening before I say, "We didn't hear of your struggle until after Saxton had already hanged many of your brave people. We're here now. How can we help?"
 
 Before making an argument, Jorn is attempting to learn what Zola's motivations are by simply asking. The Director decides to reveal one of Zola's motivations: **protection**.
 
-**Director:** “If I were to make a deal with you, and that's a big ‘if,' I'd need assurances that you can end this. Proof would be even better. The protection of my people is my top priority. We can earn freedom from Saxton once we regain our strength.”
+**Director:** "If I were to make a deal with you, and that's a big ‘if,' I'd need assurances that you can end this. Proof would be even better. The protection of my people is my top priority. We can earn freedom from Saxton once we regain our strength."
 
-**James:** Aha! I got this, folks. I stand atop my crate and say, “Well, we can surely offer that, Ms. Honeycut. We have convinced Lord Edmund to grant amnesty to any who swear to serve him.” I'd like to roll a Presence test to convince her.
+**James:** Aha! I got this, folks. I stand atop my crate and say, "Well, we can surely offer that, Ms. Honeycut. We have convinced Lord Edmund to grant amnesty to any who swear to serve him." I'd like to roll a Presence test to convince her.
 
-**Director:** Hold it there, champ. Zola's eyes narrow as you speak, and she holds up a hand to cut you off. “I will not swear to serve any ruler, no matter how benevolent. I'll consider being a partner, but even that outlook is grim if you tell me again that I need to bend the knee.”
+**Director:** Hold it there, champ. Zola's eyes narrow as you speak, and she holds up a hand to cut you off. "I will not swear to serve any ruler, no matter how benevolent. I'll consider being a partner, but even that outlook is grim if you tell me again that I need to bend the knee."
 
-Korvo inadvertently made an argument using a **pitfall** by appealing to a **higher authority**. The Director notes that Zola's interest drops to 1 and her patience drops to 2. Zola gave a pretty firm “No” response here, which is what an NPC with an interest of 1 would say. However, the Director phrased Zola's response in such a way that the heroes know they can keep making arguments if they wish, since her patience hasn't run out.
+Korvo inadvertently made an argument using a **pitfall** by appealing to a **higher authority**. The Director notes that Zola's interest drops to 1 and her patience drops to 2. Zola gave a pretty firm "No" response here, which is what an NPC with an interest of 1 would say. However, the Director phrased Zola's response in such a way that the heroes know they can keep making arguments if they wish, since her patience hasn't run out.
 
 **James:** Sorry! I thought that'd work. Seems like higher authority is a pitfall for her.
 
-**Grace:** Let's try to avoid any others. Val says, “We're sorry, Zola. We don't want to do anything else to offend you.” I'd like to make an Intuition test and use my **Read Person** skill to gauge her reaction to see if I can discern any other pitfalls.
+**Grace:** Let's try to avoid any others. Val says, "We're sorry, Zola. We don't want to do anything else to offend you." I'd like to make an Intuition test and use my **Read Person** skill to gauge her reaction to see if I can discern any other pitfalls.
 
 **Director:** Cool. Hard difficulty.
 
 **Grace:** I got a 17! Success.
 
-**Director:** Zola sits back, chuckling. “There's two things I can't stand—anyone telling me to kiss a ring and merry fools who would rather go drinking than fight for their freedom. Luckily, you're not the latter.” You can tell that **revelry** also won't go over well with Zola.
+**Director:** Zola sits back, chuckling. "There's two things I can't stand-anyone telling me to kiss a ring and merry fools who would rather go drinking than fight for their freedom. Luckily, you're not the latter." You can tell that **revelry** also won't go over well with Zola.
 
 The heroes now know both of Zola's pitfalls: **higher authority** and **revelry**.
 
-**Matt:** Linn is going to say, “We're recruiting more than just the Clock. We have a good chance of recruiting the elves of the wode and the orcs of Forest Rend, and we're already training the people of Gravesford to put up a fight. If we strike before Saxton can fully build his forces, we all stand a better chance of survival. If you don't stand with us, Saxton will still come for you. He's already coming for you. The Clock stands less of a chance alone.”
+**Matt:** Linn is going to say, "We're recruiting more than just the Clock. We have a good chance of recruiting the elves of the wode and the orcs of Forest Rend, and we're already training the people of Gravesford to put up a fight. If we strike before Saxton can fully build his forces, we all stand a better chance of survival. If you don't stand with us, Saxton will still come for you. He's already coming for you. The Clock stands less of a chance alone."
 
 **Director:** I think that's a Reason test, since you're using logic to point out that you have a better chance together than on your own. It's easy too, since you're appealing to one of her motivations.
 
@@ -15362,9 +15475,9 @@ The heroes now know both of Zola's pitfalls: **higher authority** and **revelry*
 
 **Matt:** That's a 14!
 
-Because Linn appealed to a motivation, Zola's interest increases to 2, and her patience remains at 2. The Director gives a “No, but … ” response based on Zola's interest. At this point, the heroes haven't promised anything, so she offers them something for free. The Director makes it clear in Zola's response that the negotiation can still continue if that's what the players want.
+Because Linn appealed to a motivation, Zola's interest increases to 2, and her patience remains at 2. The Director gives a "No, but... " response based on Zola's interest. At this point, the heroes haven't promised anything, so she offers them something for free. The Director makes it clear in Zola's response that the negotiation can still continue if that's what the players want.
 
-**Director:** Zola nods along as you speak. “You're correct, but I'm not sure I can spare the people. I'll tell you what I can do. I have spies watching Saxton still. I can give you information about his troops' movements. Will that suffice?”
+**Director:** Zola nods along as you speak. "You're correct, but I'm not sure I can spare the people. I'll tell you what I can do. I have spies watching Saxton still. I can give you information about his troops' movements. Will that suffice?"
 
 **Alyssa:** I don't think so, right?
 
@@ -15388,11 +15501,11 @@ Because Linn appealed to a motivation, Zola's interest increases to 2, and her p
 
 **Director:** Yeah, that makes sense.
 
-**Alyssa:** Great. I'll say, “It would be worthwhile in other ways for your crew if you joined our side.”
+**Alyssa:** Great. I'll say, "It would be worthwhile in other ways for your crew if you joined our side."
 
-**Director:** Zola's interest is piqued. “What makes you say that?”
+**Director:** Zola's interest is piqued. "What makes you say that?"
 
-**Alyssa:** “Even before his coup, Saxton had a considerable amount of wealth. If he's deposed, those riches need to go somewhere. The Clock will get a cut—a honey of a cut, you might say. Edmund has also promised to share his family's fortune with any who stand with him against Saxton … after the young lord reclaims the throne, that is.”
+**Alyssa:** "Even before his coup, Saxton had a considerable amount of wealth. If he's deposed, those riches need to go somewhere. The Clock will get a cut-a honey of a cut, you might say. Edmund has also promised to share his family's fortune with any who stand with him against Saxton... after the young lord reclaims the throne, that is."
 
 **Director:** You're appealing to one of her motivations, so make an easy Presence test.
 
@@ -15402,9 +15515,9 @@ Because Linn appealed to a motivation, Zola's interest increases to 2, and her p
 
 **Alyssa:** I got a 12!
 
-Because Jorn appealed to a motivation, Zola's interest increases to 3, and her patience is reduced to 1. The Director gives a “Yes, but …” response while making it clear that the negotiation can still continue.
+Because Jorn appealed to a motivation, Zola's interest increases to 3, and her patience is reduced to 1. The Director gives a "Yes, but..." response while making it clear that the negotiation can still continue.
 
-**Director:** Zola contemplates this for a moment. She nods, “I'm starting to see the benefits. I think I can spare some folks to help you, but you have to help them first. See, my best warriors are locked up in Bedegar Keep. They're supposed to be hanged in two days. If you free them, I'll see to it they stand with you against Saxton. We were making a plan to free them ourselves, but could frankly use the help.”
+**Director:** Zola contemplates this for a moment. She nods, "I'm starting to see the benefits. I think I can spare some folks to help you, but you have to help them first. See, my best warriors are locked up in Bedegar Keep. They're supposed to be hanged in two days. If you free them, I'll see to it they stand with you against Saxton. We were making a plan to free them ourselves, but could frankly use the help."
 
 **Grace:** We could push the Clock to do it themselves, but I can't see Val turning her back on people in need.
 
@@ -15412,7 +15525,7 @@ Because Jorn appealed to a motivation, Zola's interest increases to 3, and her p
 
 **Matt:** It'll mean less time to recruit the other troops, so we'd better work quickly.
 
-**Alyssa:** Then we're in agreement. I offer a handshake to Zola. “You've got yourself a deal.”
+**Alyssa:** Then we're in agreement. I offer a handshake to Zola. "You've got yourself a deal."
 
 The negotiation ends! The heroes could have pushed for a better deal, but they're satisfied with the offer from Zola, so they accept her terms.
 
@@ -15452,9 +15565,9 @@ If you need a project source for a particular project, ask your Director if the 
 
 As a respite activity, you can make a project roll for one of your own projects. You can also make a project roll to contribute to another hero's project, with their permission.
 
-A project roll is a test with a special outcome. The characteristic used in the test is determined by the project. When you make a project roll, the result—no matter how low—becomes project points that are accrued by the project. Even if you have a penalty on a project roll, the minimum result for the roll is 1. If you get a natural 20 on the roll, this is called a breakthrough, and you can make another project roll for the same project as part of the same respite activity.
+A project roll is a test with a special outcome. The characteristic used in the test is determined by the project. When you make a project roll, the result-no matter how low-becomes project points that are accrued by the project. Even if you have a penalty on a project roll, the minimum result for the roll is 1. If you get a natural 20 on the roll, this is called a breakthrough, and you can make another project roll for the same project as part of the same respite activity.
 
-A project is complete when it accrues project points equal to or greater than its project goal—the number of points it takes to complete the project, noted in each project's description.
+A project is complete when it accrues project points equal to or greater than its project goal-the number of points it takes to complete the project, noted in each project's description.
 
 As you work on a project, the Director can add events that help form the narrative of your research, crafting, or other activities. These events might provide unexpected benefits or challenges as you work on your project, to help make the journey as dramatic as arriving at the destination. See *For the Director: Project Events* for more information.
 
@@ -15474,7 +15587,7 @@ If you know the language of a project source, you can make a project roll withou
 
 ### GUIDES
 
-Heroes sometimes find guides—special books, schematics, knowledgeable NPCs, magical recordings, and so forth—providing important and easy-to-understand information relating to a project. Each guide has a knowledge value and a connection to a specific project that greatly decreases the time required to complete the project. When a hero studies a guide as a respite activity, they gain the guide's knowledge value as project points toward its project. The guide can't be used with that specific instance of the project again, though it can be used for a different project of the same type.
+Heroes sometimes find guides-special books, schematics, knowledgeable NPCs, magical recordings, and so forth-providing important and easy-to-understand information relating to a project. Each guide has a knowledge value and a connection to a specific project that greatly decreases the time required to complete the project. When a hero studies a guide as a respite activity, they gain the guide's knowledge value as project points toward its project. The guide can't be used with that specific instance of the project again, though it can be used for a different project of the same type.
 
 Guides are awarded at the Director's discretion, usually as a tool that can be used to increase the speed of complex projects for campaigns with little downtime. For example, the *Craft Automaton* project has a project goal of 1,500, requiring a fair bit of downtime. But if a hero finds a manual that describes how to craft an automaton and grants them 500 or more project points toward the *Craft Automaton* project, the crafting time can be significantly reduced.
 
@@ -15503,13 +15616,13 @@ You can use the *Suggested Event Milestones* table to determine when an event sh
 | Project Goal  | Milestones                                                                       |
 | ------------- | -------------------------------------------------------------------------------- |
 | Fewer than 30 | None                                                                             |
-| 31–200        | One event halfway to the goal                                                    |
-| 201–999       | Two events at one-third and two-thirds of the way to the goal                    |
+| 31-200        | One event halfway to the goal                                                    |
+| 201-999       | Two events at one-third and two-thirds of the way to the goal                    |
 | 1,000 or more | Three events at one-quarter, one-half, and three-quarters of the way to the goal |
 
 #### WHENEVER YOU WANT
 
-Whenever you think the heroes could use a little drama during a respite, throw in an event. This approach allows you to plan an event in detail when a project begins, then deploy it at the most dramatic moment—or even throw it in during an encounter if you're feeling saucy!
+Whenever you think the heroes could use a little drama during a respite, throw in an event. This approach allows you to plan an event in detail when a project begins, then deploy it at the most dramatic moment-or even throw it in during an encounter if you're feeling saucy!
 
 #### DEPLOYING EVENTS
 
@@ -15562,7 +15675,7 @@ When you complete the project, you earn Renown with the people depending on the 
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Before the roll, the crews have uncovered an ancient road, made with remarkable techniques that grant it an incredibly sturdy base on which to build. The project gains an automatic breakthrough and the project goal is halved if it was not already halved.                                                                                                                           |
 | 2   | After the roll, the local population grows in excitement with each completed portion. The hero's name spreads as a builder of bridges both literal and social. If the roll is 11 or higher, the community comes together to complete the project alongside the hero's hired crew. The hero doubles the renown earned at the end of the project.                                          |
-| 3   | Before the roll, a third party—the local religious or civic authority—has heard of the project and sent laborers to accelerate it in exchange for a future favor. The hero gains an immediate 50 points if they accept the help.                                                                                                                                                         |
+| 3   | Before the roll, a third party-the local religious or civic authority-has heard of the project and sent laborers to accelerate it in exchange for a future favor. The hero gains an immediate 50 points if they accept the help.                                                                                                                                                         |
 | 4   | After the roll, the local-hired hands and the engineers find themselves frequently at odds, hindering the project. Completing it requires an additional 50 project points or the hero settling the problem another way.                                                                                                                                                                  |
 | 5   | Before the roll, the supply caravans are disrupted by bandits, requiring extra guards. The hero can handle the problem personally or add an additional 50 project points to its completion.                                                                                                                                                                                              |
 | 6   | After the roll, not everyone is happy about the march of civilization. The project is hindered by supernatural curses. Stones move, vines and overgrowth reclaim the way, or the earth churns back to its previous form. The hero must make amends or the renown earned by completing the project does not extend to the local supernatural community.                                   |
@@ -15581,7 +15694,8 @@ from the hero. If the deal is accepted, double the result of each project roll f
 - **Project Roll Characteristic:** Reason
 - **Project Goal:** 1,500
 
-When you complete this project, you have constructed an automaton, which you can communicate telepathically with over any distance. The automaton obeys your commands. You control the automaton during combat, and it acts on the same turn as you.\
+When you complete this project, you have constructed an automaton, which you can communicate telepathically with over any distance. The automaton obeys your commands. You control the automaton during combat, and it acts on the same turn as you.
+
 *(Playtest note: Automaton stat block coming soon.)*
 
 ### CRAFT TELEPORTATION PLATFORM
@@ -15609,7 +15723,7 @@ If an enhancement has a Roman numeral greater than I after it, such as the Phasi
 
 Enhancements are listed by item type and level. Each item type and level features a table showing the name, item prerequisites, and project source language of each enhancement. Imbued items take the Magic or Psionic keyword (your choice), plus any keywords appropriate to the type of item (Light Armor, Implement, Medium Weapon, and so forth).
 
-Imbuing magical treasure as a project typically means you undertake that project to make use of the treasure yourself. As such, all the features of imbuing make reference to “you” as the user of the item. However, imbued items can be created for other creatures, or created by other creatures and found as treasure.
+Imbuing magical treasure as a project typically means you undertake that project to make use of the treasure yourself. As such, all the features of imbuing make reference to "you" as the user of the item. However, imbued items can be created for other creatures, or created by other creatures and found as treasure.
 
 #### IMBUE ARMOR
 
@@ -15641,7 +15755,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 - **Damage Immunity I:** When you begin this project, select three damage types. You have immunity 5 to those damage types.
 
-- **Disguise:** You can use a maneuver to cause this armor to appear as any type of clothing that you have been in the presence of—a noble's dress, a guard's uniform, a cultist's robes, and so forth. The armor loses none of its protective qualities while transformed into other clothing.
+- **Disguise:** You can use a maneuver to cause this armor to appear as any type of clothing that you have been in the presence of-a noble's dress, a guard's uniform, a cultist's robes, and so forth. The armor loses none of its protective qualities while transformed into other clothing.
 
 - **Iridescent:** When you are the sole target of an ability, you can use a free triggered action to reveal that the ability was targeting an afterimage of you in the same space as you. The power roll for the ability is treated as an 11. You can't use this enhancement again until you earn a Victory.
 
@@ -15794,7 +15908,7 @@ Implements are jewelry, orbs, staffs, tomes, wands, weapons, and other objects u
 
 - **Forceful I:** Whenever you use a supernatural ability to push or pull a creature, you can move that creature an additional 2 squares.
 
-- **Rat Form:** As a maneuver, you can transform into a rat. Your equipment transforms with you. As a rat, you have a speed of 5 with the Climb keyword, your size is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your Might becomes −5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
+- **Rat Form:** As a maneuver, you can transform into a rat. Your equipment transforms with you. As a rat, you have a speed of 5 with the Climb keyword, your size is 1T, and you can see in the dark. You can speak and keep your skills while in rat form, but your Might becomes -5 and you lose all your regular abilities, features, and benefits. You can revert to your natural form as a maneuver, and do so automatically if you take any damage.
 
 - **Rejuvenating I:** Whenever you use an ability that costs 1 or more Heroic Resources, roll a d10. On a 9 or higher, you gain 1 Heroic Resource.
 
@@ -15916,7 +16030,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 - **Disrupting I:** Whenever you damage an undead using this weapon and leave that undead with 15 Stamina or less, they drop to 0 Stamina.
 
-- **Hungering I:** Whenever you damage a creature other than yourself using this weapon, you regain Stamina based on the tier result of the power roll—3 Stamina for tier 1, 5 for tier 2, and 8 for tier 3. You can't regain this Stamina if you're dying.
+- **Hungering I:** Whenever you damage a creature other than yourself using this weapon, you regain Stamina based on the tier result of the power roll-3 Stamina for tier 1, 5 for tier 2, and 8 for tier 3. You can't regain this Stamina if you're dying.
 
 - **Hurling:** Whenever you use an ability with a distance of reach using this weapon, you can throw the weapon by treating the ability's distance as Ranged 3 instead. When the ability is resolved, the weapon returns to your hand. Any ability used when you throw this weapon can't impose the grabbed or restrained conditions.
 
@@ -15973,7 +16087,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 - **Disrupting II:** Whenever you damage an undead using this weapon and leave that undead with 30 Stamina or less, they drop to 0 Stamina.
 
-- **Hungering II:** Whenever you damage a creature other than yourself using this weapon, you regain Stamina based on the tier result of the power roll—4 Stamina for tier 1, 10 Stamina for tier 2, and 15 Stamina for tier 3. You can't regain this Stamina if you're dying.
+- **Hungering II:** Whenever you damage a creature other than yourself using this weapon, you regain Stamina based on the tier result of the power roll-4 Stamina for tier 1, 10 Stamina for tier 2, and 15 Stamina for tier 3. You can't regain this Stamina if you're dying.
 
 - **Metamorphic:** You can change this weapon's shape and form as a maneuver, granting one of the following benefits of your choice:
 
@@ -16018,7 +16132,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 - **Draining:** Whenever you damage a creature using this weapon and obtain a tier 3 result on the power roll, that creature is also weakened (save ends). For each creature currently weakened by this weapon, attacks made with the weapon gain 1d6 damage.
 
-- **Hungering III:** Whenever you damage a creature other than yourself using this weapon, you regain Stamina based on the tier result of the power roll—5 Stamina for tier 1, 12 for tier 2, or 20 for tier 3. Additionally, while you are dying, you gain an edge on attacks.
+- **Hungering III:** Whenever you damage a creature other than yourself using this weapon, you regain Stamina based on the tier result of the power roll-5 Stamina for tier 1, 12 for tier 2, or 20 for tier 3. Additionally, while you are dying, you gain an edge on attacks.
 
 - **Imprisoning:** Whenever you damage a creature using this weapon and obtain a tier 3 result on the power roll, that creature is also restrained (save ends). While restrained in this way, the creature can't use supernatural abilities.
 
@@ -16048,56 +16162,56 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 | d100   | Prompt                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01–02  | After the roll, a thief who wants the project source or an item needed for the project approaches the hero and pretends to be someone who wants to help. The thief might want to sell the project source or item, or use it to accomplish the same project as the hero.                                                                                                                                                                                                                                                   |
-| 03–04  | Before the roll, a traveler in need of food, shelter, or some other necessity happens upon the heroes and asks for their help. If the heroes show kindness, the traveler reveals themselves to be an artisan or sage who can help with the project. With the characters' permission, the traveler can contribute one project roll to the project with a +3 modifier.                                                                                                                                                      |
-| 05–06  | Before the roll, an NPC who is already friendly with the heroes and has helped them before asks the heroes to let them join the project. The NPC explains that they need the project source or the object being crafted for a personal matter of great importance (saving someone's life, righting a great wrong, and so forth). The NPC can contribute one project roll during the current respite with a +3 modifier, but the party must commit to letting the NPC use the finished project before the party can do so. |
-| 07–08  | After the roll, the hero receives a mysterious note from a person who wants to exchange a magic item or other reward for the project source when the project is complete. The buyer could be someone with their own interest in a similar project, an enemy eager to exploit what the hero is working on, or a superfan who wants to emulate the hero.                                                                                                                                                                    |
-| 09–10  | Before the roll, a pest begins devouring important components of the project. This could be rats gnawing at alchemical components, moths eating rare silks, mites devouring a printed project source, and so forth. If the pests aren't dealt with quickly, some of the components will need to be replaced.                                                                                                                                                                                                              |
-| 11–12  | Before the roll, a powerful supernatural entity sends an agent or premonition to the hero, offering them knowledge that will let them complete the project immediately. In exchange, the hero must agree to do a favor for the entity, which might not be specified at the time of the bargain.                                                                                                                                                                                                                           |
-| 13–14  | Before the roll, a rumor arises that the project is being worked on in service to an evil entity. People start showing up to the heroes' place of respite, demanding that they repent their wicked ways. If the rumors aren't disproved, the locals form a mob to stop the heroes.                                                                                                                                                                                                                                        |
-| 15–16  | Before the roll, the hero's rival comes to visit and shows off a guide for the project. The rival is willing to hand the guide over ... provided the hero publicly humiliates themselves by proclaiming that the rival is their better.                                                                                                                                                                                                                                                                                   |
-| 17–18  | The project source is cursed. Before the roll, the hero must succeed on a hard Intuition test or become obsessed with the project. Until the project is complete, the hero can't use Victories to increase their heroic resources. The curse can be broken by slaying the creature who created it or by finding a priest to perform a holy ritual over the project source.                                                                                                                                                |
-| 19–20  | Before the roll, the hero finds that a significant amount of the project has been completed by a group of fairies. The fairies might have completed the job out of boredom, or they might want something from the hero in return.                                                                                                                                                                                                                                                                                         |
-| 21–22  | After the roll, the hero realizes that the project source contains only half the information they need, and they must find the rest of the information to complete the project.                                                                                                                                                                                                                                                                                                                                           |
-| 23–24  | After the roll, the hero discovers a new bit of knowledge or a technique that allows them to immediately start and finish a second project with a project goal of 50 or lower.                                                                                                                                                                                                                                                                                                                                            |
-| 25–26  | Before the roll, the hero finds that someone has attempted to sabotage their project, resulting in damage to notes, the project source, or crafting components. The damage is negligible, but the person responsible will strike again to worse effect if not discovered.                                                                                                                                                                                                                                                 |
-| 27–28  | Before the roll, the project source is found to hold additional information, letting the hero treat the project roll as an automatic breakthrough. The note could have been left by a helpful visitor, or by someone who wants the hero's work to be finished for their own gain.                                                                                                                                                                                                                                         |
-| 29–30  | After the roll, the project draws the attention of a devil, who tries to subtly change the project source from the Seven Cities of Hell. If the hero doesn't notice, the devil is summoned the next time the hero makes a project roll, with goals of the Director's determination.                                                                                                                                                                                                                                       |
-| 31–32  | Before the roll, the hero stumbles upon a tool, expert, or book that helps them with the project, letting them treat the project roll as an automatic breakthrough.                                                                                                                                                                                                                                                                                                                                                       |
-| 33–34  | After the roll, the project source suddenly becomes impossible to understand. A psionic NPC has used a mighty power to obscure or corrupt the project source to prevent a potential catastrophe they foresaw. If the heroes can help prevent the catastrophe in another way, the NPC will end the effect.                                                                                                                                                                                                                 |
-| 35–36  | After the roll, the hero discovers that the project source contains a piece of helpful knowledge unrelated to the current project.                                                                                                                                                                                                                                                                                                                                                                                        |
-| 37–38  | Before the roll, the hero learns that several sages working on similar projects have all mysteriously disappeared. Someone or something is abducting these experts for a nefarious purpose … and the hero could be next!                                                                                                                                                                                                                                                                                                  |
-| 39–40  | After the roll, a group of scholars approaches the hero and asks if they can review the project source, promising to help the hero complete the project in return. If the hero accepts, the scholars take the project source until the end of the hero's next respite. Three of the scholars then contribute project rolls during the following respite, each with a +3 modifier.                                                                                                                                         |
-| 41–42  | After the roll, a physical project source or crafting components come to life and begin attacking the hero. Magic within these items has become corrupted! If the hero can fix the corruption without destroying the items, the project is saved, but doing so requires a special ritual.                                                                                                                                                                                                                                 |
-| 43–44  | After the roll, an otherworldly specter appears and warns the hero not to complete the project, explaining that they died attempting the same project and are now attached to the project source. If the hero can convince the spirit that they will not die similarly, the creature shares their knowledge, contributing one project roll to the project with a +3 modifier.                                                                                                                                             |
-| 45–46  | Before the roll, the servants of a dragon appear and demand that the hero hand over the project source. If the hero refuses, the servants warn that the dragon will come to claim the project source for itself.                                                                                                                                                                                                                                                                                                          |
-| 47–48  | Before the roll, the hero notices a contract written on a physical project source or accompanying other materials that appears only under certain conditions (in the presence of magic, in the light of a full moon, and so forth). The contract promises that anyone who signs it in blood will receive the true and full answer to three questions in exchange for a week of service to the hag Corrine Withersnipe. The hag appears instantly if the contract is signed.                                               |
-| 49–50  | After the roll, an unexpected total eclipse of the sun occurs, lasting one hour. Once per respite, when any creature makes another project roll for the project, another eclipse occurs and lasts twice as long as the previous one. Some folk take this phenomenon as a sign of impending doom that will descend when the project is completed. Others believe that a powerful enemy is merely trying to scare the heroes into not finishing the project.                                                                |
-| 51–52  | Before the roll, the hero gets a visit from an NPC whom they helped in the past. The NPC has found a guide that relates to the project and gives it to the hero as a gift of thanks.                                                                                                                                                                                                                                                                                                                                      |
-| 53–54  | After the roll, a local officer of the law appears and tells the hero to stop working on their project. The nature of the hero's project has just become outlawed in the region, and the constable insists on locking up the project source and arresting anyone who gets in the way.                                                                                                                                                                                                                                     |
-| 55–56  | Before the roll, the hero determines that the research or crafting they are planning requires only part of their attention. They can either make two project rolls for their current project or make one for that project and one for another project.                                                                                                                                                                                                                                                                    |
-| 57–58  | After the roll, a component or tool the hero is using for the project suddenly reveals itself to be magic or psionic as it starts to hum with energy and glow red hot. If the item isn't quickly cooled, it explodes, and work on the project can't continue until a replacement is found.                                                                                                                                                                                                                                |
-| 59–60  | Before the roll, the hero realizes they're at a critical point in the project and can achieve more if they just shave off a few hours of rest. By choosing to lose some sleep, the character can make two project rolls for the project, but when they end the current respite, they do so with one fewer Recoveries than usual.                                                                                                                                                                                          |
-| 61–62  | Before the roll, a sage approaches the hero and offers to help with the project. The NPC isn't really a sage, however—they're an assassin hoping to catch the hero off guard.                                                                                                                                                                                                                                                                                                                                             |
-| 63–64  | Before the roll, a sage approaches the hero and offers to help with the project. However, the NPC is secretly a bard who wishes to compose a song about the hero's deeds. The NPC tries to ingratiate themselves to the hero while contributing nothing to the actual project.                                                                                                                                                                                                                                            |
-| 65–66  | After the roll, a physical project source or a component of the project creates an unstable portal to another world related to the nature of the project. A group of tiny devils, elementals, or other creatures start clawing their way out of the item, causing mischief.                                                                                                                                                                                                                                               |
-| 67–68  | After the roll, the hero realizes that the project source also holds information regarding the location of another project source or items needed for another project the hero or one of their allies wants to pursue.                                                                                                                                                                                                                                                                                                    |
-| 69–70  | Before the roll, a group of enemies working for the campaign's villain attacks the hero, intent on destroying as much of the project's research material and other resources as possible.                                                                                                                                                                                                                                                                                                                                 |
-| 71–72  | Before the roll, a storm moves into the area that threatens to persist until the project is completed. The closer to completion the hero gets, the more violent the storm becomes. The storm might be conscious or controlled by someone opposing the hero.                                                                                                                                                                                                                                                               |
-| 73–74  | After the roll, the hero falls asleep and completes the project in their dreams, but cannot access that progress while awake. The hero must find a way to physically enter their dreams to retrieve the completed project.                                                                                                                                                                                                                                                                                                |
-| 75–76  | Before the roll, a band of goblins barges in on the hero. If the hero has been fighting goblins recently, the goblins try to steal the research materials. Otherwise, they are mostly curious and willing to help if the hero explains the project.                                                                                                                                                                                                                                                                       |
-| 77–78  | After the roll, the hero watches as the project progress reverses, as if moving backward through time. A chronomantic anomaly causes the loss, and progress continues to diminish until the anomaly is resolved. Fixing it restores lost progress.                                                                                                                                                                                                                                                                        |
-| 79–80  | Before the roll, the hero hears a voice beckoning them into the wode to work on their project. While in the wode, progress triples, but the hero feels increasingly compelled to stay there forever.                                                                                                                                                                                                                                                                                                                      |
-| 81–82  | After the roll, the hero learns of an expert a day's travel away who can complete the project and also provide materials for another hero's project.                                                                                                                                                                                                                                                                                                                                                                      |
-| 83–84  | Before the roll, a fire rips through the research materials, threatening the entire project. If the hero extinguishes the fire, they discover hidden notes that double progress from that point forward.                                                                                                                                                                                                                                                                                                                  |
-| 85–86  | After the roll, a skald approaches the hero and offers to make the project more exciting by narrating the hero's progress, prompting another roll. If the second roll is lower, the result is subtracted; if equal or higher, it's added to the original roll.                                                                                                                                                                                                                                                            |
-| 87–88  | Before the roll, the hero's rival seeks help on their own project. If the hero agrees, they roll toward the rival's project, and the Director rolls toward the hero's project.                                                                                                                                                                                                                                                                                                                                            |
-| 89–90  | After the roll, the hero finishes early and can either relax or carouse with allies. Those who join the hero gain 10 temporary Stamina for the next encounter.                                                                                                                                                                                                                                                                                                                                                            |
-| 91–92  | Before the roll, a wagoneer needs help fixing their wagon. If the hero helps, they learn that the wagoneer is allied with the campaign's villain. The wagoneer will refuse to fight the hero in any future encounter.                                                                                                                                                                                                                                                                                                     |
-| 93–94  | After the roll, the project materials vanish into thin air. Investigation reveals footprints leading away and traces of gnoll hair.                                                                                                                                                                                                                                                                                                                                                                                       |
-| 95–96  | After the roll, the hero suddenly fails to comprehend the research materials. Leaving the project alone for two respites restores comprehension, allowing the next roll to be an automatic breakthrough.                                                                                                                                                                                                                                                                                                                  |
-| 97–98  | Before the roll, one of the hero's materials shrinks and gets pulled into a mousehole by radenwrights, who want the materials for their own project. They are open to negotiation if the hero approaches peacefully.                                                                                                                                                                                                                                                                                                      |
-| 99–100 | No time to roll. An elemental springs from the materials and challenges the hero to a duel. Surviving three rounds alone completes the project; fleeing, unconsciousness, or ally intervention results in the elemental destroying the materials.                                                                                                                                                                                                                                                                         |
+| 01-02  | After the roll, a thief who wants the project source or an item needed for the project approaches the hero and pretends to be someone who wants to help. The thief might want to sell the project source or item, or use it to accomplish the same project as the hero.                                                                                                                                                                                                                                                   |
+| 03-04  | Before the roll, a traveler in need of food, shelter, or some other necessity happens upon the heroes and asks for their help. If the heroes show kindness, the traveler reveals themselves to be an artisan or sage who can help with the project. With the characters' permission, the traveler can contribute one project roll to the project with a +3 modifier.                                                                                                                                                      |
+| 05-06  | Before the roll, an NPC who is already friendly with the heroes and has helped them before asks the heroes to let them join the project. The NPC explains that they need the project source or the object being crafted for a personal matter of great importance (saving someone's life, righting a great wrong, and so forth). The NPC can contribute one project roll during the current respite with a +3 modifier, but the party must commit to letting the NPC use the finished project before the party can do so. |
+| 07-08  | After the roll, the hero receives a mysterious note from a person who wants to exchange a magic item or other reward for the project source when the project is complete. The buyer could be someone with their own interest in a similar project, an enemy eager to exploit what the hero is working on, or a superfan who wants to emulate the hero.                                                                                                                                                                    |
+| 09-10  | Before the roll, a pest begins devouring important components of the project. This could be rats gnawing at alchemical components, moths eating rare silks, mites devouring a printed project source, and so forth. If the pests aren't dealt with quickly, some of the components will need to be replaced.                                                                                                                                                                                                              |
+| 11-12  | Before the roll, a powerful supernatural entity sends an agent or premonition to the hero, offering them knowledge that will let them complete the project immediately. In exchange, the hero must agree to do a favor for the entity, which might not be specified at the time of the bargain.                                                                                                                                                                                                                           |
+| 13-14  | Before the roll, a rumor arises that the project is being worked on in service to an evil entity. People start showing up to the heroes' place of respite, demanding that they repent their wicked ways. If the rumors aren't disproved, the locals form a mob to stop the heroes.                                                                                                                                                                                                                                        |
+| 15-16  | Before the roll, the hero's rival comes to visit and shows off a guide for the project. The rival is willing to hand the guide over ... provided the hero publicly humiliates themselves by proclaiming that the rival is their better.                                                                                                                                                                                                                                                                                   |
+| 17-18  | The project source is cursed. Before the roll, the hero must succeed on a hard Intuition test or become obsessed with the project. Until the project is complete, the hero can't use Victories to increase their heroic resources. The curse can be broken by slaying the creature who created it or by finding a priest to perform a holy ritual over the project source.                                                                                                                                                |
+| 19-20  | Before the roll, the hero finds that a significant amount of the project has been completed by a group of fairies. The fairies might have completed the job out of boredom, or they might want something from the hero in return.                                                                                                                                                                                                                                                                                         |
+| 21-22  | After the roll, the hero realizes that the project source contains only half the information they need, and they must find the rest of the information to complete the project.                                                                                                                                                                                                                                                                                                                                           |
+| 23-24  | After the roll, the hero discovers a new bit of knowledge or a technique that allows them to immediately start and finish a second project with a project goal of 50 or lower.                                                                                                                                                                                                                                                                                                                                            |
+| 25-26  | Before the roll, the hero finds that someone has attempted to sabotage their project, resulting in damage to notes, the project source, or crafting components. The damage is negligible, but the person responsible will strike again to worse effect if not discovered.                                                                                                                                                                                                                                                 |
+| 27-28  | Before the roll, the project source is found to hold additional information, letting the hero treat the project roll as an automatic breakthrough. The note could have been left by a helpful visitor, or by someone who wants the hero's work to be finished for their own gain.                                                                                                                                                                                                                                         |
+| 29-30  | After the roll, the project draws the attention of a devil, who tries to subtly change the project source from the Seven Cities of Hell. If the hero doesn't notice, the devil is summoned the next time the hero makes a project roll, with goals of the Director's determination.                                                                                                                                                                                                                                       |
+| 31-32  | Before the roll, the hero stumbles upon a tool, expert, or book that helps them with the project, letting them treat the project roll as an automatic breakthrough.                                                                                                                                                                                                                                                                                                                                                       |
+| 33-34  | After the roll, the project source suddenly becomes impossible to understand. A psionic NPC has used a mighty power to obscure or corrupt the project source to prevent a potential catastrophe they foresaw. If the heroes can help prevent the catastrophe in another way, the NPC will end the effect.                                                                                                                                                                                                                 |
+| 35-36  | After the roll, the hero discovers that the project source contains a piece of helpful knowledge unrelated to the current project.                                                                                                                                                                                                                                                                                                                                                                                        |
+| 37-38  | Before the roll, the hero learns that several sages working on similar projects have all mysteriously disappeared. Someone or something is abducting these experts for a nefarious purpose... and the hero could be next!                                                                                                                                                                                                                                                                                                 |
+| 39-40  | After the roll, a group of scholars approaches the hero and asks if they can review the project source, promising to help the hero complete the project in return. If the hero accepts, the scholars take the project source until the end of the hero's next respite. Three of the scholars then contribute project rolls during the following respite, each with a +3 modifier.                                                                                                                                         |
+| 41-42  | After the roll, a physical project source or crafting components come to life and begin attacking the hero. Magic within these items has become corrupted! If the hero can fix the corruption without destroying the items, the project is saved, but doing so requires a special ritual.                                                                                                                                                                                                                                 |
+| 43-44  | After the roll, an otherworldly specter appears and warns the hero not to complete the project, explaining that they died attempting the same project and are now attached to the project source. If the hero can convince the spirit that they will not die similarly, the creature shares their knowledge, contributing one project roll to the project with a +3 modifier.                                                                                                                                             |
+| 45-46  | Before the roll, the servants of a dragon appear and demand that the hero hand over the project source. If the hero refuses, the servants warn that the dragon will come to claim the project source for itself.                                                                                                                                                                                                                                                                                                          |
+| 47-48  | Before the roll, the hero notices a contract written on a physical project source or accompanying other materials that appears only under certain conditions (in the presence of magic, in the light of a full moon, and so forth). The contract promises that anyone who signs it in blood will receive the true and full answer to three questions in exchange for a week of service to the hag Corrine Withersnipe. The hag appears instantly if the contract is signed.                                               |
+| 49-50  | After the roll, an unexpected total eclipse of the sun occurs, lasting one hour. Once per respite, when any creature makes another project roll for the project, another eclipse occurs and lasts twice as long as the previous one. Some folk take this phenomenon as a sign of impending doom that will descend when the project is completed. Others believe that a powerful enemy is merely trying to scare the heroes into not finishing the project.                                                                |
+| 51-52  | Before the roll, the hero gets a visit from an NPC whom they helped in the past. The NPC has found a guide that relates to the project and gives it to the hero as a gift of thanks.                                                                                                                                                                                                                                                                                                                                      |
+| 53-54  | After the roll, a local officer of the law appears and tells the hero to stop working on their project. The nature of the hero's project has just become outlawed in the region, and the constable insists on locking up the project source and arresting anyone who gets in the way.                                                                                                                                                                                                                                     |
+| 55-56  | Before the roll, the hero determines that the research or crafting they are planning requires only part of their attention. They can either make two project rolls for their current project or make one for that project and one for another project.                                                                                                                                                                                                                                                                    |
+| 57-58  | After the roll, a component or tool the hero is using for the project suddenly reveals itself to be magic or psionic as it starts to hum with energy and glow red hot. If the item isn't quickly cooled, it explodes, and work on the project can't continue until a replacement is found.                                                                                                                                                                                                                                |
+| 59-60  | Before the roll, the hero realizes they're at a critical point in the project and can achieve more if they just shave off a few hours of rest. By choosing to lose some sleep, the character can make two project rolls for the project, but when they end the current respite, they do so with one fewer Recoveries than usual.                                                                                                                                                                                          |
+| 61-62  | Before the roll, a sage approaches the hero and offers to help with the project. The NPC isn't really a sage, however-they're an assassin hoping to catch the hero off guard.                                                                                                                                                                                                                                                                                                                                             |
+| 63-64  | Before the roll, a sage approaches the hero and offers to help with the project. However, the NPC is secretly a bard who wishes to compose a song about the hero's deeds. The NPC tries to ingratiate themselves to the hero while contributing nothing to the actual project.                                                                                                                                                                                                                                            |
+| 65-66  | After the roll, a physical project source or a component of the project creates an unstable portal to another world related to the nature of the project. A group of tiny devils, elementals, or other creatures start clawing their way out of the item, causing mischief.                                                                                                                                                                                                                                               |
+| 67-68  | After the roll, the hero realizes that the project source also holds information regarding the location of another project source or items needed for another project the hero or one of their allies wants to pursue.                                                                                                                                                                                                                                                                                                    |
+| 69-70  | Before the roll, a group of enemies working for the campaign's villain attacks the hero, intent on destroying as much of the project's research material and other resources as possible.                                                                                                                                                                                                                                                                                                                                 |
+| 71-72  | Before the roll, a storm moves into the area that threatens to persist until the project is completed. The closer to completion the hero gets, the more violent the storm becomes. The storm might be conscious or controlled by someone opposing the hero.                                                                                                                                                                                                                                                               |
+| 73-74  | After the roll, the hero falls asleep and completes the project in their dreams, but cannot access that progress while awake. The hero must find a way to physically enter their dreams to retrieve the completed project.                                                                                                                                                                                                                                                                                                |
+| 75-76  | Before the roll, a band of goblins barges in on the hero. If the hero has been fighting goblins recently, the goblins try to steal the research materials. Otherwise, they are mostly curious and willing to help if the hero explains the project.                                                                                                                                                                                                                                                                       |
+| 77-78  | After the roll, the hero watches as the project progress reverses, as if moving backward through time. A chronomantic anomaly causes the loss, and progress continues to diminish until the anomaly is resolved. Fixing it restores lost progress.                                                                                                                                                                                                                                                                        |
+| 79-80  | Before the roll, the hero hears a voice beckoning them into the wode to work on their project. While in the wode, progress triples, but the hero feels increasingly compelled to stay there forever.                                                                                                                                                                                                                                                                                                                      |
+| 81-82  | After the roll, the hero learns of an expert a day's travel away who can complete the project and also provide materials for another hero's project.                                                                                                                                                                                                                                                                                                                                                                      |
+| 83-84  | Before the roll, a fire rips through the research materials, threatening the entire project. If the hero extinguishes the fire, they discover hidden notes that double progress from that point forward.                                                                                                                                                                                                                                                                                                                  |
+| 85-86  | After the roll, a skald approaches the hero and offers to make the project more exciting by narrating the hero's progress, prompting another roll. If the second roll is lower, the result is subtracted; if equal or higher, it's added to the original roll.                                                                                                                                                                                                                                                            |
+| 87-88  | Before the roll, the hero's rival seeks help on their own project. If the hero agrees, they roll toward the rival's project, and the Director rolls toward the hero's project.                                                                                                                                                                                                                                                                                                                                            |
+| 89-90  | After the roll, the hero finishes early and can either relax or carouse with allies. Those who join the hero gain 10 temporary Stamina for the next encounter.                                                                                                                                                                                                                                                                                                                                                            |
+| 91-92  | Before the roll, a wagoneer needs help fixing their wagon. If the hero helps, they learn that the wagoneer is allied with the campaign's villain. The wagoneer will refuse to fight the hero in any future encounter.                                                                                                                                                                                                                                                                                                     |
+| 93-94  | After the roll, the project materials vanish into thin air. Investigation reveals footprints leading away and traces of gnoll hair.                                                                                                                                                                                                                                                                                                                                                                                       |
+| 95-96  | After the roll, the hero suddenly fails to comprehend the research materials. Leaving the project alone for two respites restores comprehension, allowing the next roll to be an automatic breakthrough.                                                                                                                                                                                                                                                                                                                  |
+| 97-98  | Before the roll, one of the hero's materials shrinks and gets pulled into a mousehole by radenwrights, who want the materials for their own project. They are open to negotiation if the hero approaches peacefully.                                                                                                                                                                                                                                                                                                      |
+| 99-100 | No time to roll. An elemental springs from the materials and challenges the hero to a duel. Surviving three rounds alone completes the project; fleeing, unconsciousness, or ally intervention results in the elemental destroying the materials.                                                                                                                                                                                                                                                                         |
 
 ## RESEARCH PROJECTS
 
@@ -16105,9 +16219,12 @@ Heroes can undertake the following research projects, which require the study of
 
 ### DISCOVER LORE
 
-**Item Prerequisite:** None\
-**Project Source:** Texts or knowledge related to the subject you wish to research\
-**Project Roll Characteristic:** Reason\
+**Item Prerequisite:** None
+
+**Project Source:** Texts or knowledge related to the subject you wish to research
+
+**Project Roll Characteristic:** Reason
+
 **Project Goal:** Varies (see the table)
 
 If you want to track the location of a lost treasure, decipher a ritual, or trace the lineage of a royal family to find the next heir to the throne, you can start a project to delve into whatever mysteries you seek to unravel. You might start a project to discover lore because the information can't be discovered through a regular test, or you could do so because you failed a test to recall information and now want to learn it through research.
@@ -16129,11 +16246,11 @@ Common knowledge is generally easy to discover with a day or so of research. It'
 
 #### OBSCURE KNOWLEDGE
 
-Obscure knowledge is known only to specialized sages and is typically of interest only to those scholars. As such, precious few tomes are written on obscure subjects. Finding the right expert to interview or the best book to read typically requires several days of research. Uncovering the details of a ritual used to open and close a portal to the Sea of Stars isn't easy information to come by, but there are people out there who know how to do it—and who wrote the instructions down.
+Obscure knowledge is known only to specialized sages and is typically of interest only to those scholars. As such, precious few tomes are written on obscure subjects. Finding the right expert to interview or the best book to read typically requires several days of research. Uncovering the details of a ritual used to open and close a portal to the Sea of Stars isn't easy information to come by, but there are people out there who know how to do it-and who wrote the instructions down.
 
 #### LOST KNOWLEDGE
 
-Lost knowledge is so esoteric that even among a field's most dedicated scholars, there might be only one or two individuals who have dug deep enough to know that lore. Lost knowledge could come from a time so long ago that only a single text in a dead language now holds the lore you seek. Such lore often takes more than a week to hunt down. The location of a legendary steel dwarf's workshop is most likely lore that is lost—except for one map hidden in a private collection.
+Lost knowledge is so esoteric that even among a field's most dedicated scholars, there might be only one or two individuals who have dug deep enough to know that lore. Lost knowledge could come from a time so long ago that only a single text in a dead language now holds the lore you seek. Such lore often takes more than a week to hunt down. The location of a legendary steel dwarf's workshop is most likely lore that is lost-except for one map hidden in a private collection.
 
 #### FORBIDDEN KNOWLEDGE
 
@@ -16141,9 +16258,12 @@ Forbidden knowledge is lore that a powerful individual or organization is attemp
 
 ### GO UNDERCOVER
 
-**Item Prerequisites:** Special\
-**Project Source:** None\
-**Project Roll Characteristic:** Intuition or Presence\
+**Item Prerequisites:** Special
+
+**Project Source:** None
+
+**Project Roll Characteristic:** Intuition or Presence
+
 **Project Goal:** 15
 
 Going undercover to spy on a group of people is a cheap and easy way to find what you're looking for. Choose an organization when you undertake this activity. Completing this project grants you access to maps, knowledge about an organization's operations, or some other piece of knowledge that would be considered common or obscure (see the Discover Lore project). At the Director's discretion, you must have a disguise, signet ring, tattoo, or some other indication that you belong to the organization in order to begin this project. Additionally, the Director can decide that the knowledge you seek may not be gained through this project but rather through adventuring.
@@ -16152,9 +16272,11 @@ Going undercover to spy on a group of people is a cheap and easy way to find wha
 
 ### HONE CAREER SKILLS
 
-**Item Prerequisite:** None\
+**Item Prerequisite:** None
+
 **Project Source:** None
-**Project Roll Characteristic:** Intuition\
+**Project Roll Characteristic:** Intuition
+
 **Project Goal:** 240 if your career granted you two skills, or 360 if your career granted you three skills
 
 You revisit your previous life and freshen up on the experience it provided you. When the project is complete, you have an edge on tests made with the skills provided by your career.
@@ -16176,9 +16298,12 @@ You revisit your previous life and freshen up on the experience it provided you.
 
 ### LEARN FROM A MASTER
 
-**Item Prerequisite:** None\
-**Project Source:** An NPC with a higher level and the same class as you or another class with an ability you wish to learn, or texts of their teachings in a language you know\
-**Project Roll Characteristic:** Your highest characteristic\
+**Item Prerequisite:** None
+
+**Project Source:** An NPC with a higher level and the same class as you or another class with an ability you wish to learn, or texts of their teachings in a language you know
+
+**Project Roll Characteristic:** Your highest characteristic
+
 **Project Goal:** Varies (see Master Teaching Project Goals table)
 
 When you start a project with a master, you choose the goal you wish to work on as well as the benefit you would gain from it. The Director tells you if it is within the master's ability to teach you what you're looking for. Alternatively, you may stumble upon the left-behind teachings of a master, and learning from them may fit into one of the following goals.
@@ -16220,18 +16345,24 @@ If your master's class is different than yours, they give you a taste of another
 
 ### LEARN NEW LANGUAGE
 
-**Item Prerequisite:** None\
-**Project Source:** Texts or instruction that teach the language you want to learn\
-**Project Roll Characteristic:** Reason or Intuition\
+**Item Prerequisite:** None
+
+**Project Source:** Texts or instruction that teach the language you want to learn
+
+**Project Roll Characteristic:** Reason or Intuition
+
 **Project Goal:** 120
 
 When you start this project, choose a language taught by the project source. When the project is complete, you understand the language.
 
 ### LEARN NEW RECIPE
 
-**Item Prerequisites:** Varies (see Recipe table)\
-**Project Source:** Recipe in a language you know or a cook tutor\
-**Project Roll Characteristic:** Intuition or Reason (+3 if it's a recipe from your Culture)\
+**Item Prerequisites:** Varies (see Recipe table)
+
+**Project Source:** Recipe in a language you know or a cook tutor
+
+**Project Roll Characteristic:** Intuition or Reason (+3 if it's a recipe from your Culture)
+
 **Project Goal:** 100
 
 You practice being able to reliably follow a recipe for a dish. The ingredients required depend on the recipe being followed, which may be easier or harder to acquire based on the degrees of separation you have from the recipe's origin. When you complete this project, you can make 5 servings of the specific recipe as a respite activity whenever you have access to the ingredients. You and each creature taking a respite with you can consume a serving and gain its benefits until they take another respite. A creature can only benefit from one recipe at a time and can't benefit from more than one serving of a recipe at a time.
@@ -16252,14 +16383,18 @@ You practice being able to reliably follow a recipe for a dish. The ingredients 
 
 ## OTHER PROJECTS
 
-Not all heroes want to craft or research during their time between adventures. Some wish to build organizations, reconnect with family, or just simply go fishing.\
+Not all heroes want to craft or research during their time between adventures. Some wish to build organizations, reconnect with family, or just simply go fishing.
+
 *(Playtest Note: Many of these activities don't have event prompts right now, but they will. More activities like this are coming.)*
 
 ### COMMUNITY SERVICE
 
-**Item Prerequisite:** None\
-**Project Source:** None\
-**Project Roll Characteristic:** Varies\
+**Item Prerequisite:** None
+
+**Project Source:** None
+
+**Project Roll Characteristic:** Varies
+
 **Project Goal:** 75
 
 When you begin this project, you must be in a settlement or other place where people gather, and you must be in that place each time you make a project roll for the project. You can undertake several Community Service projects, each one in a different community.
@@ -16283,9 +16418,12 @@ While undertaking this project, you provide help to people in need, doing odd jo
 
 ### FISHING
 
-**Item Prerequisites:** None\
-**Project Source:** None\
-**Project Roll Characteristic:** Agility, Reason, or Intuition\
+**Item Prerequisites:** None
+
+**Project Source:** None
+
+**Project Roll Characteristic:** Agility, Reason, or Intuition
+
 **Project Goal:** Varies
 
 You've gone fishing, provided you are near a body of water. The project roll for this project has the following changes:
@@ -16321,9 +16459,12 @@ When you finish rolling, you can spend the points you earned on a reward from th
 
 ### SPEND TIME WITH LOVED ONES
 
-**Item Prerequisites:** None\
-**Project Source:** None\
-**Project Roll Characteristic:** Presence\
+**Item Prerequisites:** None
+
+**Project Source:** None
+
+**Project Roll Characteristic:** Presence
+
 **Project Goal:** 60
 
 You revitalize your spirit by spending time with people you love who you haven't seen in a long while. You must be able to communicate with them in order to undertake this project and make project rolls for it. When you complete this project, your Stamina maximum increases by 10 until the end of your next respite. You can't start another Spend Time with Loved Ones project for 1 month.
@@ -16360,7 +16501,7 @@ Treasures come in all shapes and sizes. There are four types you can find:
 
 The rules of the game account for worlds where the average person, even the average noble, doesn't really have regular access to treasures. There might be an apothecary in a Capital, but they're selling herbal remedies, not supernatural potions. In Vasloria, a town blacksmith isn't selling magic maces and the tailor doesn't make psionic capes. There aren't enough treasures readily available for a good trade economy. There is word of some mysterious clubs where heroes and treasure-seekers can come and swap items, but those can be difficult to find since these markets worry constantly about thieves.
 
-Most treasures are found as part of their adventures. Many people have a dastardly scheme within their brain, but it's only once they have the will and power to enact that vision that they become a villain—and acquiring treasures of great power is often part of that plan. The heroes who vanquish those evil-doers often get to claim that treasure for themselves. Others might find some very generous and well-stocked individuals, like monarchs and powerful mages, giving treasures as thanks for heroic deeds.
+Most treasures are found as part of their adventures. Many people have a dastardly scheme within their brain, but it's only once they have the will and power to enact that vision that they become a villain-and acquiring treasures of great power is often part of that plan. The heroes who vanquish those evil-doers often get to claim that treasure for themselves. Others might find some very generous and well-stocked individuals, like monarchs and powerful mages, giving treasures as thanks for heroic deeds.
 
 Heroes can also craft their own treasures, forging the tools they need to get the job done. Items that can be crafted have their item prerequisites and project source, roll characteristic, and goal listed. See Downtime Projects for more information about crafting.
 
@@ -16541,7 +16682,7 @@ This thin glass sphere holds a tiny roiling cloud.
 
 #### PROFESSOR VERITASMO'S QUAFF ‘N HUFF SNUFF
 
-A tiny compact of colorless powder with only the slightest astringent taste and smell—shockingly, this seemingly spurious item actually works.
+A tiny compact of colorless powder with only the slightest astringent taste and smell-shockingly, this seemingly spurious item actually works.
 
 - **Keywords:** Psionic, Potion
 - **Item Prerequisites:** The roots of a just-budded nightshade
@@ -16575,7 +16716,7 @@ This section presents the 1st echelon trinkets in alphabetical order.
 
 #### COLOR CLOAK (BLUE)
 
-This silky-blue hooded cloak is emblazoned with a golden Anjal sigil meaning “ice.”
+This silky-blue hooded cloak is emblazoned with a golden Anjal sigil meaning "ice."
 
 - **Keywords:** Magic, Neck
 - **Item Prerequisites:** A pint of blue ichor, soul chalk
@@ -16587,7 +16728,7 @@ This silky-blue hooded cloak is emblazoned with a golden Anjal sigil meaning “
 
 #### COLOR CLOAK (RED)
 
-This woolen red hooded cloak is emblazoned with a golden Anjal sigil meaning “fire.”
+This woolen red hooded cloak is emblazoned with a golden Anjal sigil meaning "fire."
 
 - **Keywords:** Magic, Neck
 - **Item Prerequisites:** A pint of red ichor, soul chalk
@@ -16599,7 +16740,7 @@ This woolen red hooded cloak is emblazoned with a golden Anjal sigil meaning “
 
 #### COLOR CLOAK (YELLOW)
 
-This rubbery yellow hooded cloak is emblazoned with a golden Anjal sigil meaning “lightning.”
+This rubbery yellow hooded cloak is emblazoned with a golden Anjal sigil meaning "lightning."
 
 - **Keywords:** Magic, Neck
 - **Item Prerequisites:** A pint of yellow ichor, soul chalk
@@ -16623,7 +16764,7 @@ Though this humanoid femur is coated in lead, it feels impossibly heavy for its 
 
 #### DISPLACING REPLACEMENT BRACER
 
-A wooden bangle etched with an ambigram sigil of the Zaliac word for “transfer.”
+A wooden bangle etched with an ambigram sigil of the Zaliac word for "transfer."
 
 - **Keywords:** Arms, Psionic
 - **Item Prerequisites:** Petrified wood from a tree that has not been observed since falling
@@ -16695,7 +16836,7 @@ A steel helm set with two curved ebony horns, with a crackling plume of fire flo
 
 #### MASK OF THE MANY
 
-A plain white mask lined with soft black velvet—which smells faintly of blood.
+A plain white mask lined with soft black velvet-which smells faintly of blood.
 
 - **Keywords:** Head, Magic
 - **Item Prerequisites:** One used death shroud
@@ -16739,7 +16880,7 @@ Each leveled treasure has benefits that you gain at 1st, 5th, and 9th levels. Yo
 
 ### CARRY THREE SAFELY
 
-Your connection with leveled treasures doesn't just make them useful; it also makes them dangerous. Each leveled item is a quasi-sentient, purpose-driven entity. Magic swords wish to be used in combat. Psionic crowns yearn to defy physics and bend reality. As such, a creature can safely carry a maximum of three leveled treasures at a time. If you carry more leveled treasures, those items become jealous of one another and fight for your attention, attempting to subconsciously influence you into using them—and leaving your other items behind.
+Your connection with leveled treasures doesn't just make them useful; it also makes them dangerous. Each leveled item is a quasi-sentient, purpose-driven entity. Magic swords wish to be used in combat. Psionic crowns yearn to defy physics and bend reality. As such, a creature can safely carry a maximum of three leveled treasures at a time. If you carry more leveled treasures, those items become jealous of one another and fight for your attention, attempting to subconsciously influence you into using them-and leaving your other items behind.
 
 It's fine to own or possess more than three leveled treasures, as long as the extras are stored away or in the possession of other creatures. But if you carry more than three leveled treasures, you must make a Presence test during each respite:
 
@@ -17066,7 +17207,7 @@ Whatever the head of this platinum hammer touches becomes encased in ice.
 This ivory dagger features nine faintly glowing indentations along the blade.
 
 - **Keywords:** Light Weapon, Psionic
-- **Item Prerequisites:** Eighteen daggers—nine taken from personal enemies and nine gifted by friends
+- **Item Prerequisites:** Eighteen daggers-nine taken from personal enemies and nine gifted by friends
 - **Project Source:** Texts or lore in Variac
 - **Project Roll Characteristic:** Reason or Intuition
 - **Project Goal:** 450
@@ -17236,7 +17377,7 @@ This burnished copper torc thrums with judgment.
 
 ## ARTIFACTS
 
-Artifacts are powerful treasures that entire campaigns can be built around finding, using, hiding, protecting, or destroying. Make no mistake—these items unbalance the game. If the heroes or a villain have access to such an item, their power is far beyond what the encounter building guidelines expect. That's part of the fun!
+Artifacts are powerful treasures that entire campaigns can be built around finding, using, hiding, protecting, or destroying. Make no mistake-these items unbalance the game. If the heroes or a villain have access to such an item, their power is far beyond what the encounter building guidelines expect. That's part of the fun!
 
 Typically, one person never holds onto an artifact for too long. Most of these treasures have a sentience of their own and an eagerness to move on. Since many powerful people want to get their hands on these artifacts, armies, dragons, and even gods sometimes come to collect the item from whoever refuses to let go.
 
@@ -17246,7 +17387,7 @@ A fabled blade, this sword features a hilt made of glittering starlight, out of 
 
 - **Keywords:** Magic, Medium Weapon
 
-Whether drawn from a stone, gifted by a lake spirit, forged by a god, or used to kill one, there is a sword that exists outside of time and space. It is always where it needs to be precisely when it needs to be there—then is gone in a flash when the need for it has waned. The sword is depicted in art, song, and story across many living cultures—and even more frequently among those long buried, often after proving the deciding factor in a battle. It's been wielded by numerous heroes of legend, and even more who have slipped into the forgotten shadows of history. Though its size and make are often debated, the sword is consistently described as a hilt with no crossguard, made from pure starlight. When wielded, a brilliant metal blade springs forth from that hilt, suiting the holder's taste in blades.
+Whether drawn from a stone, gifted by a lake spirit, forged by a god, or used to kill one, there is a sword that exists outside of time and space. It is always where it needs to be precisely when it needs to be there-then is gone in a flash when the need for it has waned. The sword is depicted in art, song, and story across many living cultures-and even more frequently among those long buried, often after proving the deciding factor in a battle. It's been wielded by numerous heroes of legend, and even more who have slipped into the forgotten shadows of history. Though its size and make are often debated, the sword is consistently described as a hilt with no crossguard, made from pure starlight. When wielded, a brilliant metal blade springs forth from that hilt, suiting the holder's taste in blades.
 
 Those who touch the blade are filled with the vigor and power of the thousand heroes who have held it before.
 
@@ -17264,7 +17405,7 @@ A bejeweled scepter with a spiraling porcelain handle balances an orb of light a
 
 The scepter waits high in the sky, resting within an endlessly raging cyclone. It waits for the one who will unify all people under its light. It awaits its champion.
 
-The Encepter was said to have first manifested in a young world doomed to apocalypse—unless every last inhabitant of that world could stand together. The scepter is said to impose either dominion or obliteration over any threat its light is drawn around. Today, it is most commonly known as a bad omen, and should the Encepter reveal itself, folk know that the world teeters on the brink of destruction.
+The Encepter was said to have first manifested in a young world doomed to apocalypse-unless every last inhabitant of that world could stand together. The scepter is said to impose either dominion or obliteration over any threat its light is drawn around. Today, it is most commonly known as a bad omen, and should the Encepter reveal itself, folk know that the world teeters on the brink of destruction.
 
 Whether any of the stories are true, few can say, for the only living eyes that have witnessed the Encepter belong to dragons deep in slumber.
 
@@ -17290,19 +17431,19 @@ When Mortal Coil is left unattended or in the possession of a creature who is no
 
 - **One Foot in the Grave:** Each creature in the penumbra has damage weakness 2 and cannot ever regain Stamina.
 - **Get Busy Dyin':** Each creature in the penumbra ages at ten times the normal rate. Diseases and poisons in the penumbra progress at ten times their normal rate. A creature with no natural maximum lifespan permanently reduces their maximum Stamina by 10 each year. Each creature gains an additional respite activity to use during each respite.
-- **If You Meet God on the Road, Kill Them:** Every entity is granted the gift of mortality. Previously immortal or invulnerable entities—from planar creatures to even the gods themselves—can now be killed while in the penumbra, though not necessarily easily. Anything that dies in Mortal Coil's penumbra experiences Perfect Death. It is permanently, irrevocably dead. No magic, psionics, or technology may restore that life.
+- **If You Meet God on the Road, Kill Them:** Every entity is granted the gift of mortality. Previously immortal or invulnerable entities-from planar creatures to even the gods themselves-can now be killed while in the penumbra, though not necessarily easily. Anything that dies in Mortal Coil's penumbra experiences Perfect Death. It is permanently, irrevocably dead. No magic, psionics, or technology may restore that life.
 - **Perpetual Motion:** If there are no creatures within Mortal Coil's penumbra, the radius of the penumbra doubles.
 - **Beneath Contempt:** Deities and their servants always overlook Mortal Coil and its host. They are either unable to notice it or do not consider it a threat. If the artifact is somehow destroyed or unmade through godly power, it consumes a year of life from every humanoid on the world where it was destroyed and reforms in a hidden place.
 
 # TITLES
 
-Titles are special benefits earned by heroes through adventure and mighty deeds. As part of choosing a career, a player selects a title to represent their heroes' earliest accomplishments. Once heroes' adventuring careers begin, they must win further titles—sometimes individually, sometimes as a group—by accomplishing heroic tasks.
+Titles are special benefits earned by heroes through adventure and mighty deeds. As part of choosing a career, a player selects a title to represent their heroes' earliest accomplishments. Once heroes' adventuring careers begin, they must win further titles-sometimes individually, sometimes as a group-by accomplishing heroic tasks.
 
 Titles are the record of a hero's accomplishments, forming the basis of the stories told of them in taverns or whispered in the halls of the mighty. Each title comes with a new ability or other special benefit. By earning titles, heroes gain a unique set of capabilities that sets them apart from other adventurers.
 
 ## TITLE REQUIREMENTS
 
-Players don't choose their titles. Like treasure and renown, titles must be won. Each title has a unique requirement—you might need to defeat a specific monster, research dangerous forbidden lore, or, in the case of the Monarch title, win a kingdom!
+Players don't choose their titles. Like treasure and renown, titles must be won. Each title has a unique requirement-you might need to defeat a specific monster, research dangerous forbidden lore, or, in the case of the Monarch title, win a kingdom!
 
 Titles aren't given out on a schedule. Instead, the Director grants one whenever heroes perform a deed worthy of it. Just as a hero doesn't automatically find a magic weapon just because they meet the requirements for using it, they don't automatically earn a title unless it's granted by the Director.
 
@@ -17330,7 +17471,7 @@ Most titles, however, are earned by all the heroes at once for accomplishing a g
 
 Titles are rewards for heroic actions, and they often go hand in hand with treasure and other goodies. If the party defeats a fearsome monster and gains renown, or accomplishes a quest and wins a magical leveled item, they might earn a title at the same time.
 
-There's no hard and fast rule for the number of titles a party should accumulate by a certain level. If the party wins a title whenever they accomplish a truly notable deed—once every few adventures—then they might earn about one title per level. Sticking to this rate isn't a requirement. A party might easily earn twice or half as many titles—they'll just be a bit more or less powerful than they otherwise would be. A Director can even skip granting titles altogether if they wish.
+There's no hard and fast rule for the number of titles a party should accumulate by a certain level. If the party wins a title whenever they accomplish a truly notable deed-once every few adventures-then they might earn about one title per level. Sticking to this rate isn't a requirement. A party might easily earn twice or half as many titles-they'll just be a bit more or less powerful than they otherwise would be. A Director can even skip granting titles altogether if they wish.
 
 While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for! It's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, the Director can include the Demon Blooded or Dragon Blooded titles as potential rewards alongside that magic cloak or enchanted dagger. A Director can even use the titles system to inspire adventures. What challenges should a hero face to earn the Demigod title?
 
@@ -17344,8 +17485,10 @@ The 1st echelon titles are presented in alphabetical order.
 
 ### ANCIENT LOREMASTER
 
-“It's astonishing what you find in old books. Look at this, nearly complete schematics for a war automaton, gathering dust because nobody here reads Zaliac.”\
-**Prerequisites:** You find a trove of forgotten books.\
+"It's astonishing what you find in old books. Look at this, nearly complete schematics for a war automaton, gathering dust because nobody here reads Zaliac."
+
+**Prerequisites:** You find a trove of forgotten books.
+
 Choose one of the following benefits:
 
 - **Leverage:** You learn a priceless secret. The Director chooses the type of person who would value this secret, usually a member of a particular faction, such as a Higaran noble, or a type of person, such as a fence of stolen goods. When negotiating with this type of person, you can offer this secret. If they accept, you instantly raise their interest by 3. You can only share this secret once.
@@ -17354,8 +17497,10 @@ Choose one of the following benefits:
 
 ### BATTLEAXE DIPLOMAT
 
-“Karami Ironfist is the mightiest warrior alive—this I know, for only she has defeated me in battle. I stand with her.”\
-**Prerequisites:** You gain the friendship or alliance of a creature you once battled.\
+"Karami Ironfist is the mightiest warrior alive-this I know, for only she has defeated me in battle. I stand with her."
+
+**Prerequisites:** You gain the friendship or alliance of a creature you once battled.
+
 Choose one of the following benefits:
 
 - **Iron Hand in Velvet Glove:** The first time during a negotiation when you make a test that uses the Intimidate skill and don't make an argument that appeals to the NPC's pitfall, you don't lower the NPC's patience or interest no matter the outcome of the roll.
@@ -17364,8 +17509,10 @@ Choose one of the following benefits:
 
 ### BRAWLER
 
-“Relax, friend, we don't want any trouble. …Oops, I guess we're getting trouble!”\
-**Prerequisites:** You triumph in battle without killing any of your foes.\
+"Relax, friend, we don't want any trouble....Oops, I guess we're getting trouble!"
+
+**Prerequisites:** You triumph in battle without killing any of your foes.
+
 Choose one of the following benefits:
 
 - **Duck!:** When an enemy attacks you while a second creature is flanking you, you can use a triggered action to redirect the attack against the second creature. You can't use this benefit again until you gain a Victory.
@@ -17375,25 +17522,30 @@ Choose one of the following benefits:
 
 ### CITY RAT
 
-“Once you've spent a night on the streets of Capital, nothing surprises you anymore.”\
-**Prerequisites:** You have spent at least 5 respites in a metropolis.\
+"Once you've spent a night on the streets of Capital, nothing surprises you anymore."
+
+**Prerequisites:** You have spent at least 5 respites in a metropolis.
+
 Choose one of the following benefits:
 
-- **Discerning Shopper:** When looking for an item prerequisite for a crafting project, you can remember meeting someone who might have the item—or at least information about it.
+- **Discerning Shopper:** When looking for an item prerequisite for a crafting project, you can remember meeting someone who might have the item-or at least information about it.
 - **One with the Crowd:** You gain an edge on tests made to hide and sneak, provided you are using one or more creatures as cover.
 - **Street Smart:** While in a settlement, you never suffer penalties from being surprised.
 
 ### DOOMED
 
-“That day. Under the sun, when Sulur the Hakaan fell beneath the raiders' swords, I saw something. I think I was seeing this moment. …SULUR! I'M ON MY WAY!”\
+"That day. Under the sun, when Sulur the Hakaan fell beneath the raiders' swords, I saw something. I think I was seeing this moment....SULUR! I'M ON MY WAY!"
+
 **Prerequisites:** You are not a Hakaan but have witnessed the death of a Hakaan.
 
 You're not destined for a meaningful death, but you still might achieve one. When you're reduced to 0 Stamina but still conscious, you can choose to become doomed. If you do, you can't regain hit points, you automatically get tier 3 results on tests and resistance rolls, and you don't die until your Stamina equals the negative of your maximum Stamina value. At the end of the encounter, you die.
 
 ### DWARVEN LEGIONNAIRE
 
-“I am a mountain, my feet are its roots! My friends are my range and my foes get the boot!”\
-**Prerequisites:** You fight alongside at least three dwarves.\
+"I am a mountain, my feet are its roots! My friends are my range and my foes get the boot!"
+
+**Prerequisites:** You fight alongside at least three dwarves.
+
 Choose one of the following benefits:
 
 - **Close Formation:** Your stability increases by 2 while adjacent to at least two allies.
@@ -17405,8 +17557,10 @@ When the rune is activated, you wake up if you are nonmagically asleep, and for 
 
 ### ELEMENTAL DABBLER
 
-“Spirit of fire, I command you!”\
-**Prerequisites:** You defeat a monster with the Elemental keyword, such as a crux of fire.\
+"Spirit of fire, I command you!"
+
+**Prerequisites:** You defeat a monster with the Elemental keyword, such as a crux of fire.
+
 Choose a damage type to which the defeated monster had an immunity (such as fire). Then choose one of the following benefits:
 
 - **Elemental Blaster:** You gain the Elementalist 1st-level Hurl Element feature, dealing the chosen damage type.
@@ -17415,7 +17569,8 @@ Choose a damage type to which the defeated monster had an immunity (such as fire
 
 ### FACTION MEMBER
 
-“Salute when you're addressing a Commander of the Blue!”\
+"Salute when you're addressing a Commander of the Blue!"
+
 **Prerequisites:** You join an army, guild, or similar organization.
 
 You gain membership in a faction. You're regarded as a promising but untested agent, and you're allowed to operate independently. You can be assigned tasks to further your faction's goals, and you can expect rewards and promotion if you succeed.
@@ -17431,8 +17586,10 @@ You can gain this title multiple times, once for each faction. A faction can str
 
 ### LOCAL HERO
 
-“Don't you dare open your coin purse. The Heroes of Briarwood drink for free in this tavern!”\
-**Prerequisite:** You save a community from certain destruction.\
+"Don't you dare open your coin purse. The Heroes of Briarwood drink for free in this tavern!"
+
+**Prerequisite:** You save a community from certain destruction.
+
 Choose one of the following benefits:
 
 - **A New Dawn:** When you finish a respite while in a community you have saved, the party gains a hero token. This hero token disappears at the end of your next respite if it hasn't been used.
@@ -17441,8 +17598,10 @@ Choose one of the following benefits:
 
 ### MAGE HUNTER
 
-“Every time you use magic, you open a door, and something from outside our world reaches in. I'm here to shut that door.”\
-**Prerequisites:** You defeat three leaders or solo monsters who could each use at least one ability with the Magic keyword.\
+"Every time you use magic, you open a door, and something from outside our world reaches in. I'm here to shut that door."
+
+**Prerequisites:** You defeat three leaders or solo monsters who could each use at least one ability with the Magic keyword.
+
 Choose one of the following benefits:
 
 - **Arcane Dampening:** Attacks with the Magic keyword take a bane if they target you, and you gain an edge on resistance rolls against abilities with the Magic keyword.
@@ -17451,8 +17610,10 @@ Choose one of the following benefits:
 
 ### MARSHAL
 
-“Let me buy you a drink! I haven't seen you since, you know, you turned me in. No hard feelings. What have I been up to since prison? You'll laugh. They gave me a badge. No, seriously. Oh, that reminds me, you're under arrest.”\
-**Prerequisites:** You join an organization, such as the Far Mariners, that hunts criminals, or you are deputized to act for the local authorities.\
+"Let me buy you a drink! I haven't seen you since, you know, you turned me in. No hard feelings. What have I been up to since prison? You'll laugh. They gave me a badge. No, seriously. Oh, that reminds me, you're under arrest."
+
+**Prerequisites:** You join an organization, such as the Far Mariners, that hunts criminals, or you are deputized to act for the local authorities.
+
 Choose one of the following benefits:
 
 - **I Guess It's the Hard Way:** When a combat begins and you are not surprised, the first time you take damage before your turn, you have `(SHIELD)` against that damage.
@@ -17462,8 +17623,10 @@ Choose one of the following benefits:
 
 ### MONSTER BANE
 
-“You dare mock Blunwin Mousebane? You think my deed trivial? That's because you haven't seen the size of the mouse!”\
-**Prerequisites:** You defeat a leader or solo monster with a Reason score of –2 or lower, such as an ankheg.\
+"You dare mock Blunwin Mousebane? You think my deed trivial? That's because you haven't seen the size of the mouse!"
+
+**Prerequisites:** You defeat a leader or solo monster with a Reason score of -2 or lower, such as an ankheg.
+
 Choose one of the following benefits:
 
 - **Beast Bane:** When a creature with the Animal keyword uses an attack against you, it has a bane on the roll.
@@ -17472,7 +17635,8 @@ Choose one of the following benefits:
 
 ### OWED A FAVOR
 
-“The Guild's gratitude knows no bounds! We'll repay you in any way we can … as long as it doesn't cost too much money.”\
+"The Guild's gratitude knows no bounds! We'll repay you in any way we can... as long as it doesn't cost too much money."
+
 **Prerequisites:** You successfully perform a service for a powerful faction.
 
 The faction will perform one favor for the party, provided it doesn't interfere with the faction's goals.
@@ -17481,8 +17645,10 @@ Additionally, the faction is a good source of information. The Director chooses 
 
 ### RATCATCHER
 
-“I like fighting little guys because I don't have to spend money on a helmet.”\
-**Prerequisites:** You defeat a leader or solo monster that is 1S or smaller, such as a goblin monarch.\
+"I like fighting little guys because I don't have to spend money on a helmet."
+
+**Prerequisites:** You defeat a leader or solo monster that is 1S or smaller, such as a goblin monarch.
+
 Choose one of the following benefits:
 
 - **Death From Above:** You gain `(SURGE)` when making an attack against a creature whose size is smaller than yours.
@@ -17500,8 +17666,10 @@ Choose one of the following benefits:
 
 ### SHIP CAPTAIN
 
-“Up anchor, shipmates, ‘tis to glory we steer!”\
-**Prerequisites:** You acquire a ship, airship, or similar vessel.\
+"Up anchor, shipmates, ‘tis to glory we steer!"
+
+**Prerequisites:** You acquire a ship, airship, or similar vessel.
+
 Choose one of the following benefits:
 
 - **Deep Sea Diver:** Your movement gains the Swim keyword.
@@ -17511,8 +17679,10 @@ Choose one of the following benefits:
 
 ### TROUPE TACTICS
 
-“Break a leg! No wait, that's supposed to be a figure of speech!”\
-**Prerequisites:** The party has successfully performed as a troupe of actors, circus performers, or other entertainers.\
+"Break a leg! No wait, that's supposed to be a figure of speech!"
+
+**Prerequisites:** The party has successfully performed as a troupe of actors, circus performers, or other entertainers.
+
 Choose one of the following benefits:
 
 - **Flying Circus:** At any time during a willing adjacent ally's turn, you can use a triggered action to push them up to 2 squares if their size is the same as yours, or 4 squares if they are smaller. If this push causes the ...
@@ -17525,8 +17695,10 @@ Choose one of the following benefits:
 
 ### WANTED DEAD OR ALIVE
 
-“While you were dreaming about that big bounty on our heads, you forgot that Dead or Alive is a game we can play too. So before you try to put those manacles on my wrist, ask yourself this: a minute from now, do you want to be dead? Or do you want to be alive?”\
-**Prerequisites:** You are declared an outlaw by a governmental authority.\
+"While you were dreaming about that big bounty on our heads, you forgot that Dead or Alive is a game we can play too. So before you try to put those manacles on my wrist, ask yourself this: a minute from now, do you want to be dead? Or do you want to be alive?"
+
+**Prerequisites:** You are declared an outlaw by a governmental authority.
+
 Choose one of the following benefits:
 
 - **Honor Among Thieves:** You are considered to have 2 higher Renown when negotiating with criminals.
@@ -17535,8 +17707,10 @@ Choose one of the following benefits:
 
 ### ZOMBIE SLAYER
 
-“Why won't you die! You've already done it once, you should be good at it by now!”\
-**Prerequisites:** You defeat a leader or solo monster with the Undead keyword, such as a ghost.\
+"Why won't you die! You've already done it once, you should be good at it by now!"
+
+**Prerequisites:** You defeat a leader or solo monster with the Undead keyword, such as a ghost.
+
 Choose one of the following benefits:
 
 - **Blessed Weapons:** When you use an ability that deals damage that has no type, you can deal holy damage instead.

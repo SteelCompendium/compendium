@@ -2053,7 +2053,7 @@ The high elves are svelte and hold an unwavering poise worthy of a noble backgro
 
 ### CRADLES
 
-The high elves employ magical porcelain structures called cradles that can change their shape and fit into the upturned ruins of their homes. Some cradles utilize minor elementals to operate on their own and acclimate to changing environments. These structures are commonplace for magic research and archaeology, serving as hardy familiars and sturdy bookcases.
+The high elves employ magical porcelain structures called cradles that can change their shape and fit into the upturned ruins of their homes. Some cradles utilize minor elementals to operate on their own and acclimate to changing environments. These structures are commonplace for magic research and archaeology, serving as hardy [[Familiar|familiars]] and sturdy bookcases.
 
 ### UNSEEN HANDS WILL ILLUMINATE THEIR UNCHANGED MINDS
 
@@ -4910,7 +4910,7 @@ Target: All creatures and objects
 - ✸ ≤11: Slide 5; [[Slowed|slowed]] (save ends)
 - ★ 12-16: Slide 3; [[Slowed|slowed]] (EoT)
 - ✦ 17+: Slide 1
-    Effect: The gust of wind disperses gas or vapor and extinguishes any flames, including persistent effects.
+    Effect: The gust of wind disperses gas or vapor and extinguishes any flames, including [[Persistent|persistent]] effects.
 
 **Arcane Shield**
 The mage has triple edge against melee attacks and abilities. Whenever the mage takes damage from an enemy adjacent to them, the enemy takes 1 lightning damage and is pushed 2 squares.

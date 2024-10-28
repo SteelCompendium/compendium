@@ -19,7 +19,7 @@ target: All enemies
 
 “I think things are going to get a lot worse before they get better.”
 
-The Ritual of Dracogenesis that grants the power to create a generation of dragon knights—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khorshir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
+The Ritual of Dracogenesis that grants the power to create a generation of dragon knights-also known as draconians or wyrmwights-is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khorshir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
 
 The largest extant population of draconians is the remnants of the Dragon Phalanx in Vasloria. Created by Good King Omund's wizard Vitae, the Dragon Phalanx once numbered several thousand of the king's greatest knights, ensuring the rule of law across the land.
 
@@ -33,7 +33,7 @@ The cloaked figure at the back of the inn stood up. As they did so, their hood s
 
 A tall, broad draconian stepped into the light. He was old, his scales battle-scarred. He rested one clawed hand on the pommel of a mace that hung from a loop on his belt, while the other carried his shield by a strap. His flat, expressionless look was more terrifying than any threatening glower.
 
-The three [[Human|human]] bandits took a step back. One of the [[Dwarf|dwarves]] just sneered—then, sensing his [[Human|human]] compatriot's reluctance, turned to look at them. “What's this?” the lead [[Dwarf|dwarf]] growled.
+The three [[Human|human]] bandits took a step back. One of the [[Dwarf|dwarves]] just sneered-then, sensing his [[Human|human]] compatriot's reluctance, turned to look at them. “What's this?” the lead [[Dwarf|dwarf]] growled.
 
 “Don't be cowards now!” the other [[Dwarf|dwarf]] said, a hint of joy in his voice. “Look what a prize we have caught!”
 
@@ -67,7 +67,7 @@ The dragon knight sneered and bared a set of sharp teeth. “Look for someone el
 
 The man scurried around to stand in front of the draconian, blocking his way. He took off his worn cap and held it over his breast. “I'm sorry sir, but there ain't no one else. And there's this new tax, you see, from the new baron. And a priest says he's of Saint Ajax.”
 
-The knight bared his impressive teeth, ready to scare Jago and the other two away—when someone else spoke.
+The knight bared his impressive teeth, ready to scare Jago and the other two away-when someone else spoke.
 
 “You might want to hear 'em out, Vaant,” said a voice from the table the three peasants had been sitting at.
 
@@ -101,15 +101,15 @@ The draconian sniffed, released John's hand, and looked at the three peasants. �
 
 Vaantikalisax said nothing. The inn had mostly gone back to its business but the three peasants watched intently. Eventually, the dragon knight spoke again, his voice low.
 
-“I owe you a lot, John—but not everything.”
+“I owe you a lot, John-but not everything.”
 
 “I'm not asking everything.”
 
 “No, that's not how it starts. But I have this feeling that's how it'll end.”
 
-“What does your oath say? ‘Even should the sun stop in the sky, even should the night—'”
+“What does your oath say? ‘Even should the sun stop in the sky, even should the night-'”
 
-“John,” the dragon knight said, his voice suddenly sad. Exasperated. “You don't want to quote my oath to me. You really don't. I liked serving with you. I have fond memories of that time—of you. Don't spoil it.” He looked at his friend, the three peasants, then shook his head and turned to leave the inn.
+“John,” the dragon knight said, his voice suddenly sad. Exasperated. “You don't want to quote my oath to me. You really don't. I liked serving with you. I have fond memories of that time-of you. Don't spoil it.” He looked at his friend, the three peasants, then shook his head and turned to leave the inn.
 
 “Vaant,” Sir John said, following. “Sir Vaantikalisax, by your oath!”
 
@@ -119,7 +119,7 @@ The dragon knight stopped and spun around. Everyone in the inn was watching the 
 
 Vaantikalisax's reptile eyes flashed in anger. “They had it! Thirty years, and what did it amount to?! I watched Ajax… I watched him…” The dragon knight's eyes flinched. His clawed hands tightened on his mace and shield. “I watched the oath… fail.”
 
-“Vaant… Vaant, the Dragon Phalanx didn't fail. You were betrayed. It was Mandrake! One of your own, don't you get it? You're just as fallible as the rest of us. You were never ‘incorruptible.' It's just what we wanted to believe. You're just people—like the rest of us.”
+“Vaant… Vaant, the Dragon Phalanx didn't fail. You were betrayed. It was Mandrake! One of your own, don't you get it? You're just as fallible as the rest of us. You were never ‘incorruptible.' It's just what we wanted to believe. You're just people-like the rest of us.”
 
 The dragon knight looked at the people around him, at the three peasants desperate for someone, anyone, to help them. Then he looked back to his friend.
 
@@ -143,17 +143,27 @@ When you or a creature adjacent to you is attacked, you can use a triggered acti
 
 #### Remember Your Oath (costs 1 Point)
 
-As a maneuver, you can recite the following oath. If you do, you succeed on saving throws when you roll a 4 or higher until the start of your next turn:\
-*Even should the sun stop in the sky*\
-*Even should the night last a thousand years*\
-*I will stand forever*\
-*I shall not yield*\
-*Those who suffer and yearn for justice*\
-*I am your sword and shield*\
-*I will yield no ground*\
-*I will speak no lies*\
-*I will stand against all tyrants*\
-*Until the last villain dies*
+As a maneuver, you can recite the following oath. If you do, you succeed on saving throws when you roll a 4 or higher until the start of your next turn:
+
+> *Even should the sun stop in the sky*
+>
+> *Even should the night last a thousand years*
+>
+> *I will stand forever*
+>
+> *I shall not yield*
+>
+> *Those who suffer and yearn for justice*
+>
+> *I am your sword and shield*
+>
+> *I will yield no ground*
+>
+> *I will speak no lies*
+>
+> *I will stand against all tyrants*
+>
+> *Until the last villain dies*
 
 #### Draconian Pride (costs 2 Points)
 
@@ -192,5 +202,6 @@ You expel energy to damage your foes.
 
 #### Wings (costs 2 Points)
 
-You possess wings powerful enough to take you airborne.\
+You possess wings powerful enough to take you airborne.
+
 As a maneuver, you can switch between walking and flying when you are touching the ground, or vice versa when you are within 1 square of the ground. While flying, your stability drops to 0 and you have damage weakness 5. While using your wings to [[Fly|fly]], you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall [[Prone|prone]].

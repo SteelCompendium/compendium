@@ -25,21 +25,26 @@ As an elementalist, you can unleash your wrath across a field of foes, put an en
 
 ## Basics
 
-Starting Characteristics: You start with a Reason score of 2, and can choose one of the following arrays for your other characteristics scores:
+**Starting Characteristics:** You start with a Reason score of 2, and can choose one of the following arrays for your other characteristics scores:
 
-- 2, 2, −1, −1
-- 2, 1, 1, −1
+- 2, 2, -1, -1
+- 2, 1, 1, -1
 - 2, 1, 0, 0
 - 1, 1, 1, 0
 
-Weak Potency: Reason score − 1\
-Average Potency: Reason score\
-Strong Potency: Reason score + 1
+**Weak Potency:** Reason score - 1
 
-Starting Stamina at 1st Level: 18\
-Stamina Gained at 2nd and Higher Levels: 12\
-Recoveries: 8\
-Skills: You gain Magic and can choose any three skills from the crafting or lore skill groups.
+**Average Potency:** Reason score
+
+**Strong Potency:** Reason score + 1
+
+**Starting Stamina at 1st Level:** 18
+
+**Stamina Gained at 2nd and Higher Levels:** 12
+
+**Recoveries:** 8
+
+**Skills:** You gain Magic and can choose any three skills from the crafting or lore skill groups.
 
 ### Elementalist Advancement
 
@@ -93,8 +98,10 @@ When combat begins, gain essence equal to your Victories. At the start of each o
 
 #### Essence Outside Of Combat
 
-Though you can't gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect that costs essence outside of combat, you can't use that same ability or effect again outside of combat until you gain at least 1 Victory or finish a Respite.\
-If you use a persistent ability outside of combat (see Persistent Magic), you can maintain it for a number of rounds equal to your Victories outside of combat.\
+Though you can't gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect that costs essence outside of combat, you can't use that same ability or effect again outside of combat until you gain at least 1 Victory or finish a Respite.
+
+If you use a persistent ability outside of combat (see Persistent Magic), you can maintain it for a number of rounds equal to your Victories outside of combat.
+
 If you use an ability that lets you spend unlimited essence on its effect out of combat, you can use it as if you had spent an amount of essence on it equal to your Victories.
 
 ### Hurl Element
@@ -120,10 +127,12 @@ You gain the following ability, which can be used as a ranged free strike:
 
 ### Persistent Magic
 
-Some of your heroic abilities have a persistent effect entry, like *Instantaneous Excavation*, which has an effect noted as “Persistent 1.” Whenever you use a persistent ability, you decide whether you want to maintain it and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end when combat ends.\
+Some of your heroic abilities have a persistent effect entry, like *Instantaneous Excavation*, which has an effect noted as “Persistent 1.” Whenever you use a persistent ability, you decide whether you want to maintain it and start doing so immediately after you first use the ability. If you maintain a persistent ability in combat, you reduce the amount of essence you earn at the start of your turn by an amount equal to the ability's persistent value, which enables the ability's persistent effect. All your active persistent abilities end when combat ends.
+
 You can't maintain any abilities that would make you earn a negative amount of essence at the start of your turn or have a negative amount of essence outside of combat. You can stop maintaining an ability at any time (no action required).
 
-If you maintain the same ability on several targets and the effect includes a power roll, you make that roll once and apply the same effect to all targets. A creature can't be affected by multiple instances of a persistent ability.\
+If you maintain the same ability on several targets and the effect includes a power roll, you make that roll once and apply the same effect to all targets. A creature can't be affected by multiple instances of a persistent ability.
+
 If you take damage equal to 5 × your Reason score in one turn, you stop maintaining any persistent abilities. For example, if you have a Reason score of 2 and are maintaining *Instantaneous Excavation* and take 10 or more damage in one turn, you stop maintaining the ability.
 
 ### Practical Magic
@@ -537,10 +546,12 @@ Additionally, your specialization grants you a feature as shown on the 2nd-Level
 
 *You can use a maneuver to shapeshift into a form on the Green Animal Forms table.*
 
-When you make this change, your statistics, except for those noted on the table, remain the same. You choose the exact animal and your appearance in this form. For example, if you become a rodent, you decide if you are a mouse, rat, shrew, or other size-1T rodent that fits the description.\
+When you make this change, your statistics, except for those noted on the table, remain the same. You choose the exact animal and your appearance in this form. For example, if you become a rodent, you decide if you are a mouse, rat, shrew, or other size-1T rodent that fits the description.
+
 While in these forms, you can speak, and you use your Reason score to make melee free strikes. Other than exceptions noted in this description and on the table, your statistics remain the same.
 
-Some forms have a prerequisite level you must achieve in this class before you can use them. Some of these forms allow you to gain Temporary Stamina. You gain this Temporary Stamina while you are in the form and lose it when you revert back to your true form.\
+Some forms have a prerequisite level you must achieve in this class before you can use them. Some of these forms allow you to gain Temporary Stamina. You gain this Temporary Stamina while you are in the form and lose it when you revert back to your true form.
+
 When you make this change, you decide which pieces of your equipment meld into your new form or fall unharmed to the ground. When you change back, melded gear reappears on your person.
 
 You can revert back to your true form as a maneuver. You can't enter an animal form unless you are in your true form. If you are dying, you revert to your true form and can't turn back into an animal until you are no longer dying.
@@ -584,12 +595,12 @@ You gain the following ability:
 | Canine           | 2nd   | 5             | 7             | 1M   | +0        | +1/+1/+1           | You have an edge on tests that involve smell.                                                                                                                                                                                                |
 | Fish             | 2nd   | 0             | 5 (swim only) | 1T   | +0        | +0/+0/+0           | You can breathe in water, but can't breathe outside of it.                                                                                                                                                                                   |
 | Rodent           | 2nd   | 0             | 5 (climb)     | 1T   | +0        | +0/+0/+0           | You have an edge on tests that involve smell.                                                                                                                                                                                                |
-| Bird             | 3rd   | 0             | 5 (fly)       | 1T   | +0        | +0/+0/+0           | —                                                                                                                                                                                                                                            |
+| Bird             | 3rd   | 0             | 5 (fly)       | 1T   | +0        | +0/+0/+0           | -                                                                                                                                                                                                                                            |
 | Great Cat        | 3rd   | 5             | 6             | 2    | +0        | +1/+1/+1           | When you charge another creature of size or smaller and get a tier 2 or better result on the attack, you knock the target prone.                                                                                                             |
 | Mohler           | 4th   | 0             | 7 (burrow)    | 1S   | +1        | +0/+0/+0           | Your reach increases by 1 while burrowing.                                                                                                                                                                                                   |
 | Horse            | 4th   | 5             | 8             | 2    | +1        | +0/+0/+0           | You can use the Charge action as a maneuver. You cannot use two Charge actions on the same turn.                                                                                                                                             |
 | Giant Frog       | 4th   | 5             | 5 (leap)      | 2    | +0        | +0/+0/+0           | Your melee free strike has a reach of 3.                                                                                                                                                                                                     |
-| Bear             | 5th   | 10            | 5 (climb)     | 2    | +1        | +2/+2/+2           | —                                                                                                                                                                                                                                            |
+| Bear             | 5th   | 10            | 5 (climb)     | 2    | +1        | +2/+2/+2           | -                                                                                                                                                                                                                                            |
 | Giant Bird       | 5th   | 0             | 7 (fly)       | 2    | +0        | +1/+1/+1           | You can shift 3 after making a melee free strike.                                                                                                                                                                                            |
 | Giant Salamander | 6th   | 5             | 5             | 1L   | +3        | +0/+0/+0           | Your melee free strike deals acid damage and inflicts slowed (EoT) on a tier 2 or better result.                                                                                                                                             |
 | Giant Spider     | 6th   | 0             | 5 (climb)     | 2    | +0        | +0/+1/+2           | You have a double edge on melee free strikes against creatures you are hidden from.                                                                                                                                                          |

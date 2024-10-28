@@ -26,5 +26,6 @@ target: Self or 1 ally
 | **Keywords:** Psionic, Ranged, Telepathy | **Type:** Maneuver         |
 | **Distance:** Self or Ranged 10          | **Target:** Self or 1 ally |
 
-**Effect:** The target's speed increases by 3, and they have a double edge on their next power roll made before the start of your next turn. If the target gets a tier-3 result on the roll, you gain 1 clarity.\
+**Effect:** The target's speed increases by 3, and they have a double edge on their next power roll made before the start of your next turn. If the target gets a tier-3 result on the roll, you gain 1 clarity.
+
 **Strained:** You take 1d6 damage and you can't use triggered actions (save ends).

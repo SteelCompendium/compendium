@@ -10,7 +10,7 @@ kind: 1st-level features
 
 # Tactical Doctrine
 
-Warfare is as old as civilization—and perhaps even older. As battle became ever more developed and complex, military leaders invented doctrine, outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield.
+Warfare is as old as civilization-and perhaps even older. As battle became ever more developed and complex, military leaders invented doctrine, outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield.
 
 You have developed a mastery of tactics of historical significance, letting you choose one of the following doctrines:
 

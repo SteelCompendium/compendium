@@ -4,9 +4,9 @@ title: Troubadour
 name_raw: Troubadour
 name: Troubadour
 type: classes single page
-keywords: "â\x80\x94"
+keywords: '-'
 keyword_list:
-  - "â\x80\x94"
+  - '-'
 ability_type: Maneuver
 distance: Line of effect
 target: 1 creature
@@ -27,12 +27,16 @@ And beyond the mundane, there are insurmountable dangers that cause many a hero 
 - 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Presence score â 1\
-**Average Potency:** Presence score\
+**Weak Potency:** Presence score - 1
+
+**Average Potency:** Presence score
+
 **Strong Potency:** Presence score + 1
 
-**Starting Stamina at 1st Level:** 18\
-**Stamina Gained at 2nd and greater levels:** 9\
+**Starting Stamina at 1st Level:** 18
+
+**Stamina Gained at 2nd and greater levels:** 9
+
 **Recoveries:** 8
 
 **Skills:** You have Read Person and choose two skills from the interpersonal group and one skill from the intrigue or lore groups.
@@ -98,7 +102,7 @@ You have access to the following **Choreography** routine. Your Class Act determ
 
 |                              |                        |
 | :--------------------------- | :--------------------- |
-| **Keywords:** â                              | **Type:** Maneuver     |
+| **Keywords:** -              | **Type:** Maneuver     |
 | **Distance:** Line of effect | **Target:** 1 creature |
 
 **Effect:** Each target that starts their turn within the aura has their speed increased by 2 until the end of their turn.
@@ -143,7 +147,9 @@ You have the following ability.
 
 *It doesn't need to make sense, just say it with emotionality.*
 
-**Effect:** Choose one of the following effects: - You herald a rousing tale of victory. An ally within distance has an edge on the next power roll they make before the start of your next turn. - You weave a tale of caution. An ally within distance has `(SHIELD)` on the next instance of damage they take until the start of your next turn. - You insult the enemy where they're most vulnerable. The next attack made against an enemy within distance has `(SURGE)` until the start of your next turn. - **Spend 3 Drama:** You can have 2 targets for any of these effects instead of 1.
+**Effect:** Choose one of the following effects: - You herald a rousing tale of victory. An ally within distance has an edge on the next power roll they make before the start of your next turn. - You weave a tale of caution. An ally within distance has `(SHIELD)` on the next instance of damage they take until the start of your next turn. - You insult the enemy where they're most vulnerable. The next attack made against an enemy within distance has `(SURGE)` until the start of your next turn.
+
+**Spend 3 Drama:** You can have 2 targets for any of these effects instead of 1.
 
 #### Power Chord
 
@@ -163,7 +169,9 @@ You have the following ability.
 
 *You're the one they came to see!*
 
-**Effect:** Your speed increases by 2 until the end of your turn. The next power roll you make this turn can't be lower than tier-2. - **Spend 2 Drama:** Your speed, instead, increases by 4.
+**Effect:** Your speed increases by 2 until the end of your turn. The next power roll you make this turn can't be lower than tier-2.
+
+**Spend 2 Drama:** Your speed, instead, increases by 4.
 
 #### Virtuoso Routines
 
@@ -201,7 +209,9 @@ Your class act grants you one of the following triggered actions as shown on the
 
 **Trigger:** The target uses a non-area ability that targets an enemy.
 
-**Effect:** The target chooses an additional target within Distance. They use the same power roll for all additional targets. Any damage dealt to additional targets is now sonic damage. - **Spend 2 Drama:** The target chooses two additional targets instead of one.
+**Effect:** The target chooses an additional target within Distance. They use the same power roll for all additional targets. Any damage dealt to additional targets is now sonic damage.
+
+**Spend 2 Drama:** The target chooses two additional targets instead of one.
 
 #### Riposte
 
@@ -209,7 +219,9 @@ Your class act grants you one of the following triggered actions as shown on the
 
 **Trigger:** The target takes damage from a melee attack.
 
-**Effect:** The target takes a free strike against the attacker. - **Spend 2 Drama:** The target can use a signature attack in place of the free strike.
+**Effect:** The target takes a free strike against the attacker.
+
+**Spend 2 Drama:** The target can use a signature attack in place of the free strike.
 
 #### Turnabout Is Fair Play
 
@@ -217,7 +229,9 @@ Your class act grants you one of the following triggered actions as shown on the
 
 **Trigger:** The target makes an attack with at least one edge or a bane.
 
-**Effect:** One of the attack's edges becomes a bane or vice versa. - **Spend 3 Drama:** One of the target's attack's edges becomes a double bane, or one of the attack's banes becomes a double edge.
+**Effect:** One of the attack's edges becomes a bane or vice versa.
+
+**Spend 3 Drama:** One of the target's attack's edges becomes a double bane, or one of the attack's banes becomes a double edge.
 
 ### Kit
 

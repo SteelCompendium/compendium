@@ -33,7 +33,7 @@ You wear no armor and wield a bow.
 
 ### Patient Shot
 
-Breathe … aim … wait… then strike!
+Breathe… aim… wait… then strike!
 
 |                                      |                        |
 | :----------------------------------- | :--------------------- |

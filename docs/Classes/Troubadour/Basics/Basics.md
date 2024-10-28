@@ -16,12 +16,16 @@ kind: basics
 - 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Presence score − 1\
-**Average Potency:** Presence score\
+**Weak Potency:** Presence score - 1
+
+**Average Potency:** Presence score
+
 **Strong Potency:** Presence score + 1
 
-**Starting Stamina at 1st Level:** 18\
-**Stamina Gained at 2nd and greater levels:** 9\
+**Starting Stamina at 1st Level:** 18
+
+**Stamina Gained at 2nd and greater levels:** 9
+
 **Recoveries:** 8
 
 **Skills:** You have Read Person and choose two skills from the interpersonal group and one skill from the intrigue or lore groups.

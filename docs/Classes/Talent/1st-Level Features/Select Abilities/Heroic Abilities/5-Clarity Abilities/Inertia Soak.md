@@ -26,5 +26,6 @@ target: Self or 1 ally
 | **Keywords:** Psionic, Ranged, Telekinesis | **Type:** Maneuver         |
 | **Distance:** Self or Ranged 10            | **Target:** Self or 1 ally |
 
-**Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. When the target moves into a square while they have this effect, they can push one adjacent creature 2 squares.\
+**Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. When the target moves into a square while they have this effect, they can push one adjacent creature 2 squares.
+
 **Strained:** You are weakened and your stability decreases by 5, which can become a negative value that adds to the distance you are force moved (save ends).

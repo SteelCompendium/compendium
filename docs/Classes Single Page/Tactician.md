@@ -4,9 +4,9 @@ title: Tactician
 name_raw: Tactician
 name: Tactician
 type: classes single page
-keywords: "â\x80\x94"
+keywords: '-'
 keyword_list:
-  - "â\x80\x94"
+  - '-'
 ability_type: Maneuver
 distance: Self
 target: Self
@@ -23,15 +23,18 @@ As a tactician, you have abilities that heal your allies and grant them extra da
 
 **Starting Characteristics:** You start with a Might of 2 and a Reason of 2, and can choose one of the following arrays for your other characteristics scores:
 
-- 2, â1, â1
-- 1, 1, â1
+- 2, -1, -1
+- 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Reason score - 1\
-**Average Potency:** Reason score\
+**Weak Potency:** Reason score - 1
+
+**Average Potency:** Reason score
+
 **Strong Potency:** Reason score + 1
 
-**Starting Stamina at 1st Level:** 21\
+**Starting Stamina at 1st Level:** 21
+
 **Stamina Gained at 2nd and Higher Levels:** 12
 
 **Recoveries:** 10
@@ -42,7 +45,7 @@ As a tactician, you have abilities that heal your allies and grant them extra da
 
 | Level | Features                                                                                                            | Abilities | Doctrine Abilities |
 | ----- | ------------------------------------------------------------------------------------------------------------------- | --------- | ------------------ |
-| 1st   | Tactical Doctrine, Focus, Doctrine Features, Triggered Action, Field Arsenal, Mark, Strike Now, Tactician Abilities | 3, 5      | â                    |
+| 1st   | Tactical Doctrine, Focus, Doctrine Features, Triggered Action, Field Arsenal, Mark, Strike Now, Tactician Abilities | 3, 5      | -                  |
 | 2nd   | Battlefield Awareness, Doctrine Features, Perk, Doctrine Ability                                                    | 3, 5      | 5                  |
 | 3rd   | Out of Position, Focus Ability                                                                                      | 3, 5, 7   | 5                  |
 
@@ -52,7 +55,7 @@ As a tactician, you gain the following features:
 
 ### Tactical Doctrine
 
-Warfare is as old as civilizationâand perhaps even older. As battle became ever more developed and complex, military leaders invented doctrine, outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield.
+Warfare is as old as civilization-and perhaps even older. As battle became ever more developed and complex, military leaders invented doctrine, outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield.
 
 You have developed a mastery of tactics of historical significance, letting you choose one of the following doctrines:
 
@@ -125,7 +128,7 @@ Your leadership thwarts an enemy or aids an ally.
 
 |                    |                    |
 | :----------------- | :----------------- |
-| **Keywords:** â                    | **Type:** Maneuver |
+| **Keywords:** -    | **Type:** Maneuver |
 | **Distance:** Self | **Target:** Self   |
 
 **Trigger:** The target makes an attack against another creature.
@@ -179,7 +182,7 @@ You know how to focus the attention of your allies as you push them toward victo
 
 #### Mark
 
-You draw your allies' attention to a specific foeâwith devastating effect.
+You draw your allies' attention to a specific foe-with devastating effect.
 
 **Effect:** The target is marked by you until the start of your next turn. When attacking a marked target, you and each of your allies gain a damage surge `(SURGE)`.
 
@@ -416,7 +419,7 @@ Your attack demoralizes your foe. Your allies begin to think you can win.
 
 ###### Now! (5 Focus)
 
-Your allies wait for your commandâthen unleash death!
+Your allies wait for your command-then unleash death!
 
 **Effect:** Each target can make a free strike.
 

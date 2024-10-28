@@ -7,9 +7,9 @@ cost: 7 Focus
 type: classes
 subtype: tactician
 kind: 3rd-level features
-keywords: —
+keywords: '-'
 keyword_list:
-  - —
+  - '-'
 ability_type: Maneuver
 distance: Self
 target: Self
@@ -21,7 +21,7 @@ The tide begins to turn.
 
 |                    |                    |
 | :----------------- | :----------------- |
-| **Keywords:** —    | **Type:** Maneuver |
+| **Keywords:** -    | **Type:** Maneuver |
 | **Distance:** Self | **Target:** Self   |
 
 **Effect:** Until the end of the encounter, or you are dying, whenever you or an ally attacks a target marked by you, they are R \[average\] frightened of the attacker (save ends).

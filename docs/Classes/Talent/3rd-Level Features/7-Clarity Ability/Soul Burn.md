@@ -33,5 +33,6 @@ target: 1 creature
 - **12-16:** 7 damage; P \[average\] dazed (save ends)
 - **17+:** 11 damage; P \[strong\] dazed (save ends)
 
-**Effect:** After resolving the power roll, attacks and abilities used against the target have a `(SURGE)`, and the target has a bane on presence tests until the end of the encounter.\
+**Effect:** After resolving the power roll, attacks and abilities used against the target have a `(SURGE)`, and the target has a bane on presence tests until the end of the encounter.
+
 **Strained:** The potency of this ability increases by 1. You take 2d6 damage and attacks and abilities used against you have a `(SURGE)` until the end of the encounter.

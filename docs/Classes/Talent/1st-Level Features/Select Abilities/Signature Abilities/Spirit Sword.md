@@ -32,5 +32,6 @@ target: 1 creature or object
 - **12-16:** 5 damage
 - **17+:** 7 damage
 
-**Effect:** The next attack against the target has a `(SURGE)`.\
+**Effect:** The next attack against the target has a `(SURGE)`.
+
 **Strained:** The attack deals an extra 3 damage to the target and yourself. This damage ignores your immunities.

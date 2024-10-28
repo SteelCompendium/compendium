@@ -20,7 +20,7 @@ trigger: You are targeted by a damaging area of effect.
 
 You do not temper the heat of battle within you, you unleash it! Like a raptor, a panther, a wolf, your experience in the wild taught you the secret of channeling unfettered anger into martial prowess. Primordial chaos is your ally. Leave it to others to use finesse to clean up the pieces you leave behind.
 
-As a fury, you have abilities that deal a lot of damage, move you around the battlefield, and grow in strength as your rage increases. Nature has no concept of fairness—and neither do you.
+As a fury, you have abilities that deal a lot of damage, move you around the battlefield, and grow in strength as your rage increases. Nature has no concept of fairness-and neither do you.
 
 ## Basics
 
@@ -30,20 +30,25 @@ As a fury, you have abilities that deal a lot of damage, move you around the bat
 - 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Might score - 1\
-**Average Potency:** Might score\
+**Weak Potency:** Might score - 1
+
+**Average Potency:** Might score
+
 **Strong Potency:** Might score + 1
 
-**Starting Stamina at 1st Level:** 21\
-**Stamina Gained at 2nd and Higher Levels:** 12\
-**Recoveries:** 10\
+**Starting Stamina at 1st Level:** 21
+
+**Stamina Gained at 2nd and Higher Levels:** 12
+
+**Recoveries:** 10
+
 **Skills:** Nature, plus choose any two skills from the exploration or intrigue skill groups.
 
 ### Fury Advancement
 
 | Level | Features                                                                                                                | Abilities | Aspect Abilities |
 | ----- | ----------------------------------------------------------------------------------------------------------------------- | --------- | ---------------- |
-| 1st   | Primordial Aspect, Rage, Growing Rage, Aspect Features, Aspect Triggered Action, Mighty Leaps, Fury Abilities Signature | 3, 5      | —                |
+| 1st   | Primordial Aspect, Rage, Growing Rage, Aspect Features, Aspect Triggered Action, Mighty Leaps, Fury Abilities Signature | 3, 5      | -                |
 | 2nd   | Aspect Feature, Extra Surge, Aspect Ability Signature                                                                   | 3, 5      | 5                |
 | 3rd   | Aspect Feature, 7-Rage Ability Signature                                                                                | 3, 5, 7   | 5                |
 
@@ -53,7 +58,7 @@ As a fury, you gain the following features.
 
 ### Primordial Aspect
 
-You come from a tradition older than civilization, older than warfare, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the Timescape—the Primordial Chaos—and which left an aspect of the Primordial Chaos inside you. As you channel the rage that shapes you, you can choose a primordial aspect from the following:
+You come from a tradition older than civilization, older than warfare, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the Timescape-the Primordial Chaos-and which left an aspect of the Primordial Chaos inside you. As you channel the rage that shapes you, you can choose a primordial aspect from the following:
 
 - **Berserker:** You channel your rage into expressions of physical might, acting as a living version of the forces that reshape the world. You gain the Lift skill.
 - **Reaver:** You channel your rage into instinct and cunning, challenging the false order of civilization. You gain the Hide skill.
@@ -322,7 +327,7 @@ Surrounded? The fools!
 
 ###### Out Of The Way! (3 Rage)
 
-Your enemies will get out of your way—whether they want to or not.
+Your enemies will get out of your way-whether they want to or not.
 
 **Power Roll + Might:**
 
@@ -608,7 +613,7 @@ Each stormwight is associated with a primordial storm that refers to a specific 
 
 #### Equipment
 
-You wear no armor, and wield only your unarmed strikes—which become devastating natural weapons as your rage grows.
+You wear no armor, and wield only your unarmed strikes-which become devastating natural weapons as your rage grows.
 
 #### Kit Bonuses
 

@@ -7,9 +7,9 @@ cost: 7 Judgment
 type: classes
 subtype: censor
 kind: 3rd-level features
-keywords: –
+keywords: '-'
 keyword_list:
-  - –
+  - '-'
 ability_type: Maneuver
 distance: 2 Aura
 target: All enemies
@@ -21,7 +21,7 @@ target: All enemies
 
 |                      |                         |
 | :------------------- | :---------------------- |
-| **Keywords:** –      | **Type:** Maneuver      |
+| **Keywords:** -      | **Type:** Maneuver      |
 | **Distance:** 2 Aura | **Target:** All enemies |
 
 **Effect:** Until the end of the encounter or you are dying, when you begin your turn, each target takes `(SURGE)` holy damage and `(SURGE)` additional holy damage if they are adjacent to another enemy. If a target is judged by you, they take an additional 2d6 holy damage if they are adjacent to another enemy.

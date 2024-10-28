@@ -19,7 +19,7 @@ target: 1 creature
 
 # Out Of The Way! (3 Rage)
 
-Your enemies will get out of your way—whether they want to or not.
+Your enemies will get out of your way-whether they want to or not.
 
 |                                     |                        |
 | :---------------------------------- | :--------------------- |

@@ -33,5 +33,6 @@ target: All enemies
 - **12-16:** 3 fire damage
 - **17+:** 4 fire damage
 
-**Effect:** The column of fire lingers until the start of your next turn. A creature or object that enters or starts their turn in the affected area takes 2 fire damage.\
+**Effect:** The column of fire lingers until the start of your next turn. A creature or object that enters or starts their turn in the affected area takes 2 fire damage.
+
 **Strained:** The cube area increases by 2, but the fire immediately disappears at the end of your turn.

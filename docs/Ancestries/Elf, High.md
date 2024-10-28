@@ -8,11 +8,11 @@ type: ancestries
 
 # Elf, High
 
-“Ajax has a kind of crude style, perhaps, but no taste. I have no objection to a villain, you understand. The world is a tale, but a tale is only as good as its villain. And Ajax is so … artless. We deserve a better villain.”
+“Ajax has a kind of crude style, perhaps, but no taste. I have no objection to a villain, you understand. The world is a tale, but a tale is only as good as its villain. And Ajax is so… artless. We deserve a better villain.”
 
 Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, the high elves remember a better age, before the coming of [[Human|humans]] and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
 
-In the millennia since their creators retired to Arcadia, the high elves built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshiping art, and turning more inward and distrusting of outsiders with each generation.
+In the millennia since their creators retired to Arcadia, the high elves built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before-collecting lore and knowledge, worshiping art, and turning more inward and distrusting of outsiders with each generation.
 
 ## On High Elves
 
@@ -22,7 +22,7 @@ In the millennia since their creators retired to Arcadia, the high elves built a
 
 The five children stood alone in the center of a large circular courtyard open to the sky, their wode elf escort Llyander at their side. Lord Tear, King of the High Elves, sat on a marble throne, holding the scroll of the Codex Dryadalis in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned [[Sage|sages]], gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter. They bristled with weapons.
 
-“They seem like …” Meliora said, searching for the words.
+“They seem like…” Meliora said, searching for the words.
 
 “Like the lords of all the world,” Wenna said with awe and wonder.
 
@@ -40,7 +40,7 @@ At this, Lord Tear exchanged a look with Llyander, consort to Queen Imyrr. It wa
 
 The king tapped the scroll against his lap, seeming to have reached a decision.
 
-“Well done, consort. Young [[Human|humans]], your escort here seeks to shame me. For they know well they could have taken this prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they deliver me the power necessary to throw off the yoke of Ajax's rule. Long has Llyander resented the decision I made and sought to change it …”—he looked at Llyander—“… by changing my mind.”
+“Well done, consort. Young [[Human|humans]], your escort here seeks to shame me. For they know well they could have taken this prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they deliver me the power necessary to throw off the yoke of Ajax's rule. Long has Llyander resented the decision I made and sought to change it…”-he looked at Llyander-“… by changing my mind.”
 
 Llyander nodded deferentially, silently congratulating the king on his insight.
 
@@ -70,7 +70,7 @@ Llyander raised an eyebrow, then walked in front of the children so that as the 
 
 Wenna and Meliora nodded. Llyander nodded to the guards and guests. “This is their glamor. Whatever you find pleasant and attractive in another? That is what you see in them. If you value good humor, they are jesters. If you value beauty, they are breathtaking. If you find intelligence attractive, they are [[Sage|sages]]. It is not just an effect of appearance, though it is also that. It is one of demeanor.”
 
-“But how do they do …”
+“But how do they do…”
 
 Llyander put a finger to their lips, silencing young Meliora. “It is not a thing they do. It is an effect in your mind.”
 

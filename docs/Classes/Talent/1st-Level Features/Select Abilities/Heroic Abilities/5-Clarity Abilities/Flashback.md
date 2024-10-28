@@ -26,5 +26,6 @@ target: Self or 1 ally
 | **Keywords:** Chronopathy, Psionic, Ranged | **Type:** Maneuver         |
 | **Distance:** Self or Ranged 10            | **Target:** Self or 1 ally |
 
-**Effect:** The target uses an ability they've previously used this round without spending any heroic resources.\
+**Effect:** The target uses an ability they've previously used this round without spending any heroic resources.
+
 **Strained:** You take 1d6 damage and you are slowed (save ends).

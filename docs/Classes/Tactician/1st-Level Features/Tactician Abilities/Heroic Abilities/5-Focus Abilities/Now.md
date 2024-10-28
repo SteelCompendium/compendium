@@ -18,7 +18,7 @@ target: 3 allies
 
 # Now! (5 Focus)
 
-Your allies wait for your command—then unleash death!
+Your allies wait for your command-then unleash death!
 
 |                              |                      |
 | :--------------------------- | :------------------- |

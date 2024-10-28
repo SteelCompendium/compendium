@@ -26,5 +26,6 @@ target: Self
 | **Keywords:** Area, Psionic, Telepathy | **Type:** Action |
 | **Distance:** 3 Aura                   | **Target:** Self |
 
-**Effect:** The aura lasts until the start of your next turn. Whenever an enemy targets an ally within the aura with a ranged ability, the ability is negated on the ally and reflected back at the enemy, dealing half damage and negating any additional effects.\
+**Effect:** The aura lasts until the start of your next turn. Whenever an enemy targets an ally within the aura with a ranged ability, the ability is negated on the ally and reflected back at the enemy, dealing half damage and negating any additional effects.
+
 **Strained:** The aura increases by 1. Each ability your aura reflects causes you to take 2d6 damage and makes you forget a memory.

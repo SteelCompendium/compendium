@@ -32,5 +32,6 @@ target: 1 creature or object
 - **12-16:** 5 corruption damage; removed from encounter (EoT); P \[average\] weakened (save ends)
 - **17+:** 8 corruption damage; removed from encounter (EoT); P \[strong\] weakened (save ends)
 
-**Effect:** When a target removed from the encounter returns, they appear where they were removed or in the closest available space of the Director's choice.\
+**Effect:** When a target removed from the encounter returns, they appear where they were removed or in the closest available space of the Director's choice.
+
 **Strained:** You take 2d6 damage and you grow visibly older (the equivalent of 10 human years). You gain 2 clarity on a tier-3 result.

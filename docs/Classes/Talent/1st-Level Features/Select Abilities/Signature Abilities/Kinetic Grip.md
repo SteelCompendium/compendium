@@ -31,5 +31,6 @@ target: 1 size 1 creature or object
 - **12-16:** push 4
 - **17+:** push 6; prone
 
-**Effect:** You can choose to slide the target 2 before making the power roll.\
+**Effect:** You can choose to slide the target 2 before making the power roll.
+
 **Strained:** You can't use this ability's additional effect, but the push can be vertical.

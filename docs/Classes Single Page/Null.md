@@ -29,12 +29,16 @@ The null is an unarmed psionic warrior who dampens and absorbs the effects of ma
 - 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Intuition score - 1\
-**Average Potency:** Intuition score\
+**Weak Potency:** Intuition score - 1
+
+**Average Potency:** Intuition score
+
 **Strong Potency:** Intuition score + 1
 
-**Starting Stamina at 1st Level:** 21\
-**Stamina Gained at 2nd and greater levels:** 9\
+**Starting Stamina at 1st Level:** 21
+
+**Stamina Gained at 2nd and greater levels:** 9
+
 **Recoveries:** 8
 
 **Skills:** You gain Psionics. Choose 2 from any interpersonal or lore skill.
@@ -43,7 +47,7 @@ The null is an unarmed psionic warrior who dampens and absorbs the effects of ma
 
 | Level | Features                                                                                                                   | Abilities              | Tradition Ability |
 | ----- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ----------------- |
-| 1st   | Tradition, Discipline, Null Field, Inertial Shield, Discipline Mastery, Mind-Body Focus, Psionic Knockback, Null Abilities | Two signature, 3, 5    | —                 |
+| 1st   | Tradition, Discipline, Null Field, Inertial Shield, Discipline Mastery, Mind-Body Focus, Psionic Knockback, Null Abilities | Two signature, 3, 5    | -                 |
 | 2nd   | Perk, Tradition Features, Tradition Ability                                                                                | Two signature, 3, 5    | 5                 |
 | 3rd   | Psionic Disruption, Discipline Ability                                                                                     | Two signature, 3, 5, 7 | 5                 |
 
@@ -104,7 +108,8 @@ Your body has been trained to predict when attacks will happen before they happe
 
 ### Mastery
 
-Your choice of tradition grants you a form of honing discipline.\
+Your choice of tradition grants you a form of honing discipline.
+
 As your discipline grows, your psionic mastery over your body intensifies. These benefits are cumulative.
 
 #### Chronokinetic Mastery

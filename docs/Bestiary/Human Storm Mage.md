@@ -39,7 +39,7 @@
 - ★ 12-16: Slide 3; [[Slowed|slowed]] (EoT)
 - ✸ 17+: Slide 1
 
-**Effect:** The gust of wind disperses gas or vapor and extinguishes any flames, including persistent effects.
+**Effect:** The gust of wind disperses gas or vapor and extinguishes any flames, including [[Persistent|persistent]] effects.
 
 **Arcane Shield**
 
