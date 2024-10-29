@@ -7,9 +7,9 @@
 | **Speed**: 6    | **Size**: 2 / Stability 2 |
 |                 |    **[[Free Strike]]**: 5 |
 
-| **Might** +2 | **Agility** +1 | **Reason** -1 | **Intuition** | **Presence** -1 |
-| ------------ | -------------- | ------------- | ------------- | --------------- |
-|              |                |               |               |                 |
+| **Might** +2 | **Agility** +1 | **Reason** -1 | **Intuition** 0 | **Presence** -1 |
+| ------------ | -------------- | ------------- | --------------- | --------------- |
+|              |                |               |                 |                 |
 
 #### Pitchfork Catapult (Signature)
 

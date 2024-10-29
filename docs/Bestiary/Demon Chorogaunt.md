@@ -1,11 +1,11 @@
 ### DEMON CHOROGAUNT
 
-| DEMON CHOROGAUNT      |     **Level 3 LEADER** |
-| :-------------------- | ---------------------: |
-| *Demon, Planar EV 36* |            \*\*EV \*\* |
-| **Stamina**:          |          **Weakness**: |
-| **Speed**:            | **Size**:  / Stability |
-|                       |   **[[Free Strike]]**: |
+| DEMON CHOROGAUNT |         **Level 3 LEADER** |
+| :--------------- | -------------------------: |
+| *Demon, Planar*  |                  **EV 36** |
+| **Stamina**: 90  |       **Weakness**: Holy 3 |
+| **Speed**: 5     | **Size**: 1L / Stability 2 |
+|                  |     **[[Free Strike]]**: 4 |
 
 | **Might** +2 | **Agility** +2 | **Reason** +2 | **Intuition** +2 | **Presence** +2 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |

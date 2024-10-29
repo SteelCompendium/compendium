@@ -1,15 +1,15 @@
 ### DEMON TORLAS
 
-| DEMON TORLAS         | **Level 1 CONTROLLER** |
-| :------------------- | ---------------------: |
-| *Demon, Planar EV 9* |            \*\*EV \*\* |
-| **Stamina**:         |          **Weakness**: |
-| **Speed**:           | **Size**:  / Stability |
-|                      |   **[[Free Strike]]**: |
+| DEMON TORLAS    |     **Level 1 CONTROLLER** |
+| :-------------- | -------------------------: |
+| *Demon, Planar* |                   **EV 9** |
+| **Stamina**: 15 |       **Weakness**: Holy 3 |
+| **Speed**: 5    | **Size**: 1S / Stability 0 |
+|                 |     **[[Free Strike]]**: 2 |
 
-| **Might** 0 | **Agility** +1 | **Reason** 0 | **Intuition** | **Presence** +2 |
-| ----------- | -------------- | ------------ | ------------- | --------------- |
-|             |                |              |               |                 |
+| **Might** 0 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** +2 |
+| ----------- | -------------- | ------------ | --------------- | --------------- |
+|             |                |              |                 |                 |
 
 #### Cronenstorm (Signature)
 

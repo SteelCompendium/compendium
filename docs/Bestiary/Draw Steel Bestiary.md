@@ -1059,7 +1059,8 @@ At the start of a [[Chimera|chimera]]'s turn, you can spend malice to activate o
 #### CHIMERA
 
 **Level 3 SOLO**
-*Monster EV 88*
+*Monster*
+**EV 88**
 **Stamina:** 240
 **Immunity:** Fire 6
 **Speed:** 10 ([[Fly|fly]])
@@ -1196,7 +1197,8 @@ At the start of any demon's turn, you can spend malice to activate one of the fo
 #### DEMON ENSNARER
 
 **Level 1 BRUTE MINION**
-*Demon, Planar EV 6*
+*Demon, Planar*
+**EV 6**
 **Stamina:** 10
 **Weakness:** Holy 3
 **Speed:** 5
@@ -1225,7 +1227,8 @@ Each creature within 2 of the ensnarer can't be hidden from them.
 #### DEMON FRENZIED
 
 **Level 1 HARRIER MINION**
-*Demon, Planar EV 4*
+*Demon, Planar*
+**EV 4**
 **Stamina:** 8
 **Weakness:** Holy 3
 **Speed:** 6
@@ -1235,7 +1238,7 @@ Each creature within 2 of the ensnarer can't be hidden from them.
 - **Might** +0
 - **Agility** +2
 - **Reason** -1
-- **Intuition** -
+- **Intuition** -1
 - **Presence** -1
 
 **Rip and Tear (Action)** ◆ 2d10 + 2 ◆ Signature
@@ -1253,7 +1256,8 @@ Each creature within 2 of the frenzied can't be hidden from them.
 #### DEMON PITLING
 
 **Level 1 ARTILLERY MINION**
-*Demon, Planar EV 2*
+*Demon, Planar*
+**EV 2**
 **Stamina:** 4
 **Weakness:** Holy 3
 **Speed:** 5 ([[Fly|fly]])
@@ -1284,7 +1288,8 @@ Each creature within 2 of the pitling can't be hidden from them.
 #### DEMON RUINANT
 
 **Level 1 HARRIER**
-*Demon, Planar EV 10*
+*Demon, Planar*
+**EV 10**
 **Stamina:** 20
 **Weakness:** Holy 3
 **Speed:** 6
@@ -1294,7 +1299,7 @@ Each creature within 2 of the pitling can't be hidden from them.
 - **Might** +0
 - **Agility** +2
 - **Reason** +0
-- **Intuition** +
+- **Intuition** 0
 - **Presence** +1
 
 **Bloodletting Claws (Action)** ◆ 2d10 + 2 ◆ Signature
@@ -1324,7 +1329,8 @@ Each creature within 2 of the ruinant can't be hidden from them.
 #### DEMON TORLAS
 
 **Level 1 CONTROLLER**
-*Demon, Planar EV 9*
+*Demon, Planar*
+**EV 9**
 **Stamina:** 15
 **Weakness:** Holy 3
 **Speed:** 5
@@ -1334,7 +1340,7 @@ Each creature within 2 of the ruinant can't be hidden from them.
 - **Might** +0
 - **Agility** +1
 - **Reason** +0
-- **Intuition** +
+- **Intuition** 0
 - **Presence** +2
 
 **Cronenstorm (Action)** ◆ 2d10 + 2 ◆ Signature
@@ -1362,7 +1368,8 @@ Each creature within 2 of the torlas can't be hidden from them.
 #### DEMON BENDRAK
 
 **Level 2 HEXER**
-*Demon, Planar EV 11*
+*Demon, Planar*
+**EV 11**
 **Stamina:** 20
 **Weakness:** Holy 3
 **Speed:** 5
@@ -1372,7 +1379,7 @@ Each creature within 2 of the torlas can't be hidden from them.
 - **Might** +0
 - **Agility** +1
 - **Reason** +0
-- **Intuition** +
+- **Intuition** +0
 - **Presence** +2
 
 **Warp Perceptions (Action)** ◆ 2d10 + 2 ◆ Signature
@@ -1400,7 +1407,8 @@ Each creature within 2 of the bendrak can't be hidden from them.
 #### DEMON REMASCH
 
 **Level 2 AMBUSHER**
-*Demon, Planar EV 13*
+*Demon, Planar*
+**EV 13**
 **Stamina:** 25
 **Weakness:** Holy 3
 **Speed:** 5 ([[Teleport|teleport]])
@@ -1410,7 +1418,7 @@ Each creature within 2 of the bendrak can't be hidden from them.
 - **Might** +0
 - **Agility** +2
 - **Reason** +0
-- **Intuition** +
+- **Intuition** 0
 - **Presence** +2
 
 **Abyssal Strike (Action)** ◆ 2d10 + 2 ◆ Signature
@@ -1438,7 +1446,8 @@ Each creature within 2 of the remasch can't be hidden from them.
 #### DEMON MUCERON
 
 **Level 3 BRUTE**
-*Demon, Planar EV 18*
+*Demon, Planar*
+**EV 18**
 **Stamina:** 45
 **Weakness:** Holy 3
 **Speed:** 5
@@ -1448,7 +1457,7 @@ Each creature within 2 of the remasch can't be hidden from them.
 - **Might** +2
 - **Agility** +2
 - **Reason** +0
-- **Intuition** +
+- **Intuition** 0
 - **Presence** +1
 
 **Barbed Tongues (Action)** ◆ 2d10 + 2 ◆ Signature
@@ -1476,7 +1485,8 @@ Each creature within 2 of the muceron can't be hidden from them.
 #### DEMON CHOROGAUNT
 
 **Level 3 LEADER**
-*Demon, Planar EV 36*
+*Demon, Planar*
+**EV 36**
 **Stamina:** 90
 **Weakness:** Holy 3
 **Speed:** 5
@@ -5794,7 +5804,7 @@ At the start of a lizardfolk's turn, you can spend malice to activate one of the
 - **Might** +1
 - **Agility** +2
 - **Reason** 0
-- **Intuition** -
+- **Intuition** 0
 - **Presence** 0
 
 **Snap and Toss (Action)** ◆ 2d10 + 2 ◆ Signature
@@ -5822,7 +5832,7 @@ While the grunt still has a tail, whenever the grunt is [[Grabbed|grabbed]], [[S
 - **Might** +2
 - **Agility** +1
 - **Reason** 0
-- **Intuition** -
+- **Intuition** 0
 - **Presence** 0
 
 **Shield Smash (Action)** ◆ 2d10 + 2 ◆ Signature
@@ -5851,7 +5861,7 @@ While the shellguard still has a tail, whenever the shellguard is [[Grabbed|grab
 - **Might** 0
 - **Agility** +2
 - **Reason** 0
-- **Intuition** +
+- **Intuition** +1
 - **Presence** 0
 
 **Tonguelash (Action)** ◆ 2d10 + 2 ◆ Signature
@@ -5918,7 +5928,7 @@ While the bloodeye still has a tail, whenever the bloodeye is [[Grabbed|grabbed]
 - **Might** +2
 - **Agility** +1
 - **Reason** 0
-- **Intuition** -
+- **Intuition** 0
 - **Presence** 0
 
 **Razor Bite (Action)** ◆ 2d10 + 2 ◆ Signature
@@ -5957,7 +5967,7 @@ While the scaletooth still has a tail, whenever the scaletooth is [[Grabbed|grab
 - **Might** +1
 - **Agility** +2
 - **Reason** 0
-- **Intuition** -
+- **Intuition** 0
 - **Presence** +1
 
 **Glaive Rush (Action)** ◆ 2d10 + 2 ◆ Signature
@@ -5999,7 +6009,7 @@ While the terrorsoar still has a tail, whenever the terrorsoar is [[Grabbed|grab
 - **Might** +3
 - **Agility** +2
 - **Reason** 0
-- **Intuition** +
+- **Intuition** +1
 - **Presence** +2
 
 **Ripper Spear (Action)** ◆ 2d10 + 3 ◆ Signature
@@ -6107,7 +6117,7 @@ At the start of a [[Minotaur|minotaur]]'s turn, you can spend malice to activate
 - **Might** +2
 - **Agility** +2
 - **Reason** 0
-- **Intuition** +
+- **Intuition** +1
 - **Presence** -1
 
 **Flail and Blade (Action)** ◆ 2d10 + 2 ◆ Signature
@@ -6159,7 +6169,7 @@ The [[Minotaur|minotaur]] cannot get a result lower than tier 2 when making Test
 - **Might** +2
 - **Agility** +1
 - **Reason** 0
-- **Intuition** +
+- **Intuition** +2
 - **Presence** -1
 
 **Spiked Maul (Action)** ◆ 2d10 + 2 ◆ Signature
@@ -6255,7 +6265,7 @@ At the start of an ogre's turn, you can spend malice to activate one of the foll
 - **Might** +2
 - **Agility** 0
 - **Reason** -1
-- **Intuition** -
+- **Intuition** 0
 - **Presence** -1
 
 **Club Swing (Action)** ◆ 2d10 + 2 ◆ Signature
@@ -6312,7 +6322,7 @@ The goon has Weapon immunity 2 while they are winded.
 - **Might** +2
 - **Agility** +1
 - **Reason** -1
-- **Intuition** -
+- **Intuition** 0
 - **Presence** -1
 
 **Pitchfork Catapult (Action)** ◆ 2d10 + 2 ◆ Signature

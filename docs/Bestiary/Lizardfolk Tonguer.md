@@ -7,9 +7,9 @@
 | **Speed**: 5 (swim)    |   **Size**: 1S / Stability 0 |
 |                        |       **[[Free Strike]]**: 2 |
 
-| **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** | **Presence** 0 |
-| ----------- | -------------- | ------------ | ------------- | -------------- |
-|             |                |              |               |                |
+| **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** +1 | **Presence** 0 |
+| ----------- | -------------- | ------------ | ---------------- | -------------- |
+|             |                |              |                  |                |
 
 #### Tonguelash (Signature)
 

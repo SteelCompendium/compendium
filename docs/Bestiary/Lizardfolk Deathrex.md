@@ -7,9 +7,9 @@
 | **Speed**: 5 (climb, swim) | **Size**: 2 / Stability 2 |
 |                            |    **[[Free Strike]]**: 5 |
 
-| **Might** +3 | **Agility** +2 | **Reason** 0 | **Intuition** | **Presence** +2 |
-| ------------ | -------------- | ------------ | ------------- | --------------- |
-|              |                |              |               |                 |
+| **Might** +3 | **Agility** +2 | **Reason** 0 | **Intuition** +1 | **Presence** +2 |
+| ------------ | -------------- | ------------ | ---------------- | --------------- |
+|              |                |              |                  |                 |
 
 #### Ripper Spear (Signature)
 

@@ -1,11 +1,11 @@
 ### DEMON ENSNARER
 
-| DEMON ENSNARER       | **Level 1 BRUTE MINION** |
-| :------------------- | -----------------------: |
-| *Demon, Planar EV 6* |              \*\*EV \*\* |
-| **Stamina**:         |            **Weakness**: |
-| **Speed**:           |   **Size**:  / Stability |
-|                      |     **[[Free Strike]]**: |
+| DEMON ENSNARER  |   **Level 1 BRUTE MINION** |
+| :-------------- | -------------------------: |
+| *Demon, Planar* |                   **EV 6** |
+| **Stamina**: 10 |       **Weakness**: Holy 3 |
+| **Speed**: 5    | **Size**: 1M / Stability 0 |
+|                 |     **[[Free Strike]]**: 2 |
 
 | **Might** +2 | **Agility** 0 | **Reason** -1 | **Intuition** -1 | **Presence** -1 |
 | ------------ | ------------- | ------------- | ---------------- | --------------- |

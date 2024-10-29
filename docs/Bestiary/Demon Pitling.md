@@ -1,11 +1,11 @@
 ### DEMON PITLING
 
-| DEMON PITLING        | **Level 1 ARTILLERY MINION** |
-| :------------------- | ---------------------------: |
-| *Demon, Planar EV 2* |                  \*\*EV \*\* |
-| **Stamina**:         |                **Weakness**: |
-| **Speed**:           |       **Size**:  / Stability |
-|                      |         **[[Free Strike]]**: |
+| DEMON PITLING               | **Level 1 ARTILLERY MINION** |
+| :-------------------------- | ---------------------------: |
+| *Demon, Planar*             |                     **EV 2** |
+| **Stamina**: 4              |         **Weakness**: Holy 3 |
+| **Speed**: 5 ([[Fly\|fly]]) |   **Size**: 1T / Stability 0 |
+|                             |       **[[Free Strike]]**: 2 |
 
 | **Might** -2 | **Agility** +2 | **Reason** -2 | **Intuition** -2 | **Presence** -2 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |

@@ -7,9 +7,9 @@
 | **Speed**: 5 (swim)    |  **Size**: 1L / Stability 1 |
 |                        |      **[[Free Strike]]**: 2 |
 
-| **Might** +2 | **Agility** +1 | **Reason** 0 | **Intuition** | **Presence** 0 |
-| ------------ | -------------- | ------------ | ------------- | -------------- |
-|              |                |              |               |                |
+| **Might** +2 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
+| ------------ | -------------- | ------------ | --------------- | -------------- |
+|              |                |              |                 |                |
 
 #### Shield Smash (Signature)
 

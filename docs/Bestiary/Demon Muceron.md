@@ -1,15 +1,15 @@
 ### DEMON MUCERON
 
-| DEMON MUCERON         |      **Level 3 BRUTE** |
-| :-------------------- | ---------------------: |
-| *Demon, Planar EV 18* |            \*\*EV \*\* |
-| **Stamina**:          |          **Weakness**: |
-| **Speed**:            | **Size**:  / Stability |
-|                       |   **[[Free Strike]]**: |
+| DEMON MUCERON   |          **Level 3 BRUTE** |
+| :-------------- | -------------------------: |
+| *Demon, Planar* |                  **EV 18** |
+| **Stamina**: 45 |       **Weakness**: Holy 3 |
+| **Speed**: 5    | **Size**: 1M / Stability 0 |
+|                 |     **[[Free Strike]]**: 5 |
 
-| **Might** +2 | **Agility** +2 | **Reason** 0 | **Intuition** | **Presence** +1 |
-| ------------ | -------------- | ------------ | ------------- | --------------- |
-|              |                |              |               |                 |
+| **Might** +2 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
+| ------------ | -------------- | ------------ | --------------- | --------------- |
+|              |                |              |                 |                 |
 
 #### Barbed Tongues (Signature)
 

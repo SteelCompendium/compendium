@@ -1,15 +1,15 @@
 ### DEMON REMASCH
 
-| DEMON REMASCH         |   **Level 2 AMBUSHER** |
-| :-------------------- | ---------------------: |
-| *Demon, Planar EV 13* |            \*\*EV \*\* |
-| **Stamina**:          |          **Weakness**: |
-| **Speed**:            | **Size**:  / Stability |
-|                       |   **[[Free Strike]]**: |
+| DEMON REMASCH                         |       **Level 2 AMBUSHER** |
+| :------------------------------------ | -------------------------: |
+| *Demon, Planar*                       |                  **EV 13** |
+| **Stamina**: 25                       |       **Weakness**: Holy 3 |
+| **Speed**: 5 ([[Teleport\|teleport]]) | **Size**: 1S / Stability 0 |
+|                                       |     **[[Free Strike]]**: 4 |
 
-| **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** | **Presence** +2 |
-| ----------- | -------------- | ------------ | ------------- | --------------- |
-|             |                |              |               |                 |
+| **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +2 |
+| ----------- | -------------- | ------------ | --------------- | --------------- |
+|             |                |              |                 |                 |
 
 #### Abyssal Strike (Signature)
 

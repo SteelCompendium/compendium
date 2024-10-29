@@ -7,9 +7,9 @@
 | **Speed**: 7 (swim)    | **Size**: 1S / Stability 0 |
 |                        |     **[[Free Strike]]**: 5 |
 
-| **Might** +1 | **Agility** +2 | **Reason** 0 | **Intuition** | **Presence** +1 |
-| ------------ | -------------- | ------------ | ------------- | --------------- |
-|              |                |              |               |                 |
+| **Might** +1 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
+| ------------ | -------------- | ------------ | --------------- | --------------- |
+|              |                |              |                 |                 |
 
 #### Glaive Rush (Signature)
 

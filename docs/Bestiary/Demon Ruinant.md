@@ -1,15 +1,15 @@
 ### DEMON RUINANT
 
-| DEMON RUINANT         |    **Level 1 HARRIER** |
-| :-------------------- | ---------------------: |
-| *Demon, Planar EV 10* |            \*\*EV \*\* |
-| **Stamina**:          |          **Weakness**: |
-| **Speed**:            | **Size**:  / Stability |
-|                       |   **[[Free Strike]]**: |
+| DEMON RUINANT   |        **Level 1 HARRIER** |
+| :-------------- | -------------------------: |
+| *Demon, Planar* |                  **EV 10** |
+| **Stamina**: 20 |       **Weakness**: Holy 3 |
+| **Speed**: 6    | **Size**: 1M / Stability 0 |
+|                 |     **[[Free Strike]]**: 2 |
 
-| **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** | **Presence** +1 |
-| ----------- | -------------- | ------------ | ------------- | --------------- |
-|             |                |              |               |                 |
+| **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
+| ----------- | -------------- | ------------ | --------------- | --------------- |
+|             |                |              |                 |                 |
 
 #### Bloodletting Claws (Signature)
 

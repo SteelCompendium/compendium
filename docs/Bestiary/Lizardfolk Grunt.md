@@ -7,9 +7,9 @@
 | **Speed**: 6 (swim)    | **Size**: 1M / Stability 0 |
 |                        |     **[[Free Strike]]**: 2 |
 
-| **Might** +1 | **Agility** +2 | **Reason** 0 | **Intuition** | **Presence** 0 |
-| ------------ | -------------- | ------------ | ------------- | -------------- |
-|              |                |              |               |                |
+| **Might** +1 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
+| ------------ | -------------- | ------------ | --------------- | -------------- |
+|              |                |              |                 |                |
 
 #### Snap and Toss (Signature)
 

@@ -1,11 +1,11 @@
 ### CHIMERA
 
-| CHIMERA         |       **Level 3 SOLO** |
-| :-------------- | ---------------------: |
-| *Monster EV 88* |            \*\*EV \*\* |
-| **Stamina**:    |          **Weakness**: |
-| **Speed**:      | **Size**:  / Stability |
-|                 |   **[[Free Strike]]**: |
+| CHIMERA                      |          **Level 3 SOLO** |
+| :--------------------------- | ------------------------: |
+| *Monster*                    |                 **EV 88** |
+| **Stamina**: 240             |             **Weakness**: |
+| **Speed**: 10 ([[Fly\|fly]]) | **Size**: 2 / Stability 1 |
+|                              |    **[[Free Strike]]**: 6 |
 
 | **Might** +3 | **Agility** +2 | **Reason** -2 | **Intuition** +1 | **Presence** 0 |
 | ------------ | -------------- | ------------- | ---------------- | -------------- |
