@@ -1,11 +1,11 @@
 ### WODE ELF DRUID
 
-| WODE ELF DRUID            | **Level 2 Controller** |
-| :------------------------ | ---------------------: |
-| *Fey, Humanoid, Wode Elf* |            \*\*EV \*\* |
-| **Stamina**:              |          **Weakness**: |
-| **Speed**:                | **Size**:  / Stability |
-|                           |   **[[Free Strike]]**: |
+| WODE ELF DRUID            |     **Level 2 Controller** |
+| :------------------------ | -------------------------: |
+| *Fey, Humanoid, Wode Elf* |                  **EV 13** |
+| **Stamina**: 25           |              **Weakness**: |
+| **Speed**: 7              | **Size**: 1M / Stability 0 |
+|                           |     **[[Free Strike]]**: 3 |
 
 | **Might** 0 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** +2 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |

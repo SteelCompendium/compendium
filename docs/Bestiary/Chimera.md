@@ -99,6 +99,8 @@ Trigger: The target attacks the chimera and gets a tier-1 result.
 
 **Solo Monster**
 
+- **Solo Turns:** The chimera takes 2 turns each round. They can use two actions on each of their turns and can take each turn after an enemy turn they choose. While [[Dazed|dazed]], the chimera can take one action and one maneuver per turn.  **End Effect:** At the end of their turn, the chimera can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
+
 **Volant**
 
 When the chimera makes a creature winded or reduces them to 0 Stamina or less, the chimera can move their speed towards one enemy within line of effect.

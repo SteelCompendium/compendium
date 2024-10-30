@@ -1,11 +1,11 @@
 ### WODE ELF PENTEULU
 
-| WODE ELF PENTEULU         |     **Level 3 Leader** |
-| :------------------------ | ---------------------: |
-| *Fey, Humanoid, Wode Elf* |            \*\*EV \*\* |
-| **Stamina**:              |          **Weakness**: |
-| **Speed**:                | **Size**:  / Stability |
-|                           |   **[[Free Strike]]**: |
+| WODE ELF PENTEULU                     |         **Level 3 Leader** |
+| :------------------------------------ | -------------------------: |
+| *Fey, Humanoid, Wode Elf*             |                  **EV 60** |
+| **Stamina**: 120                      |              **Weakness**: |
+| **Speed**: 7 ([[Teleport\|teleport]]) | **Size**: 1M / Stability 2 |
+|                                       |     **[[Free Strike]]**: 5 |
 
 | **Might** +2 | **Agility** +3 | **Reason** +2 | **Intuition** +2 | **Presence** +2 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |

@@ -24,7 +24,7 @@ Each Director-controlled creature has an **encounter value** (abbreviated **EV**
 
 ### CREATURE FREE STRIKES
 
-When a Director-controlled creature makes a [[Free Strike|free strike]], they don't roll. Instead, their stat block features a **[[Free Strike]]** stat representing the amount of damage they deal with a melee [[Free Strike|free strike]] with a distance of **reach 1** or the creature's signature action, whichever is higher. This is also the amount of damage they deal with a ranged [[Free Strike|free strike]] with a distance equal to **5** or the range of the creature's signature action, whichever is higher. A creature's [[Free Strike|free strike]] has the **Attack** keyword and any of the following words found in their signature action: **Magic**, **Psionic**, or **Weapon**. Additionally, if the creature's signature action deals damage with a type, the [[Free Strike|free strike]] also uses that type. If the creature's signature action deals more than one type of damage, the Director decides which damage type the creature's [[Free Strike|free strike]] uses when the attack is made.
+When a Director-controlled creature makes a [[Free Strike|free strike]], they don't roll. Instead, their stat block features a **[[Free Strike]]:** stat representing the amount of damage they deal with a melee [[Free Strike|free strike]] with a distance of **reach 1** or the creature's signature action, whichever is higher. This is also the amount of damage they deal with a ranged [[Free Strike|free strike]] with a distance equal to **5** or the range of the creature's signature action, whichever is higher. A creature's [[Free Strike|free strike]] has the **Attack** keyword and any of the following words found in their signature action: **Magic**, **Psionic**, or **Weapon**. Additionally, if the creature's signature action deals damage with a type, the [[Free Strike|free strike]] also uses that type. If the creature's signature action deals more than one type of damage, the Director decides which damage type the creature's [[Free Strike|free strike]] uses when the attack is made.
 
 Creature [[Free Strike|free strikes]] are a static number for two reasons. First, it keeps gameplay fast. You don't have to stop play to roll dice, and there's no chance of a creature rolling a critical hit and bogging things down further when it isn't their turn. Second, by keeping these static values relatively low, heroes are encouraged to take more risks when it really counts, even if that might result in them taking damage from a [[Free Strike|free strike]].
 
@@ -2611,10 +2611,10 @@ At the start of a wode elf's turn, you can spend malice to activate one of the f
 **Level 1 Support Minion**
 *Fey, Humanoid, Wode Elf*
 **EV** 6
-**Stamina** 10
-**Speed** 7
-**Size** 1M / Stability 0
-**[[Free Strike]]** 2
+**Stamina:** 10
+**Speed:** 7
+**Size:** 1M / Stability 0
+**[[Free Strike]]:** 2
 
 - **Might** 0
 - **Agility** +2
@@ -2642,10 +2642,10 @@ The lookout immediately [[Hide|hides]] at the end of their turn while in cover o
 **Level 1 Harrier Minion**
 *Fey, Humanoid, Wode Elf*
 **EV** 6
-**Stamina** 10
-**Speed** 7
-**Size** 1M / Stability 0
-**[[Free Strike]]** 2
+**Stamina:** 10
+**Speed:** 7
+**Size:** 1M / Stability 0
+**[[Free Strike]]:** 2
 
 - **Might** 0
 - **Agility** +2
@@ -2671,10 +2671,10 @@ The runner immediately [[Hide|hides]] at the end of their turn while in cover or
 **Level 1 Ambusher Minion**
 *Fey, Humanoid, Wode Elf*
 **EV** 7
-**Stamina** 10
-**Speed** 10
-**Size** 1M / Stability 0
-**[[Free Strike]]** 2
+**Stamina:** 10
+**Speed:** 10
+**Size:** 1M / Stability 0
+**[[Free Strike]]:** 2
 
 - **Might** 0
 - **Agility** +2
@@ -2699,10 +2699,10 @@ The scout immediately [[Hide|hides]] at the end of their turn, even if they are 
 **Level 1 Artillery Minion**
 *Fey, Humanoid, Wode Elf*
 **EV** 6
-**Stamina** 8
-**Speed** 7
-**Size** 1M / Stability 0
-**[[Free Strike]]** 2
+**Stamina:** 8
+**Speed:** 7
+**Size:** 1M / Stability 0
+**[[Free Strike]]:** 2
 
 - **Might** +2
 - **Agility** +1
@@ -2727,10 +2727,10 @@ The yeoman immediately [[Hide|hides]] at the end of their turn while in cover or
 **Level 1 Defender**
 *Fey, Humanoid, Wode Elf*
 **EV** 15
-**Stamina** 40
-**Speed** 7
-**Size** 1M / Stability 0
-**[[Free Strike]]** 3
+**Stamina:** 40
+**Speed:** 7
+**Size:** 1M / Stability 0
+**[[Free Strike]]:** 3
 
 - **Might** 0
 - **Agility** +2
@@ -2763,10 +2763,10 @@ The greenskeeper immediately [[Hide|hides]] at the end of their turn while in co
 **Level 1 Hexer**
 *Fey, Humanoid, Wode Elf*
 **EV** 11
-**Stamina** 20
-**Speed** 7
-**Size** 1M / Stability 0
-**[[Free Strike]]** 3
+**Stamina:** 20
+**Speed:** 7
+**Size:** 1M / Stability 0
+**[[Free Strike]]:** 3
 
 - **Might** 0
 - **Agility** +1
@@ -2809,10 +2809,10 @@ The green seer immediately [[Hide|hides]] at the end of their turn while in cove
 **Level 1 Support**
 *Fey, Humanoid, Wode Elf*
 **EV** 13
-**Stamina** 30
-**Speed** 7
-**Size** 1M / Stability 0
-**[[Free Strike]]** 3
+**Stamina:** 30
+**Speed:** 7
+**Size:** 1M / Stability 0
+**[[Free Strike]]:** 3
 
 - **Might** 0
 - **Agility** +2
@@ -2845,10 +2845,10 @@ The sentry immediately [[Hide|hides]] at the end of their turn while in cover or
 **Level 2 Controller**
 *Fey, Humanoid, Wode Elf*
 **EV** 13
-**Stamina** 25
-**Speed** 7
-**Size** 1M / Stability 0
-**[[Free Strike]]** 3
+**Stamina:** 25
+**Speed:** 7
+**Size:** 1M / Stability 0
+**[[Free Strike]]:** 3
 
 - **Might** 0
 - **Agility** +1
@@ -2881,10 +2881,10 @@ The druid immediately [[Hide|hides]] at the end of their turn while in cover or 
 **Level 2 Harrier**
 *Fey, Humanoid, Wode Elf*
 **EV** 15
-**Stamina** 35
-**Speed** 7
-**Size** 1M / Stability 0
-**[[Free Strike]]** 4
+**Stamina:** 35
+**Speed:** 7
+**Size:** 1M / Stability 0
+**[[Free Strike]]:** 4
 
 - **Might** +1
 - **Agility** +2
@@ -2917,10 +2917,10 @@ The tree chirurgeon immediately [[Hide|hides]] at the end of their turn while in
 **Level 3 Ambusher**
 *Fey, Humanoid, Wode Elf*
 **EV** 19
-**Stamina** 45
-**Speed** 7 ([[Teleport|teleport]])
-**Size** 1M / Stability 0
-**[[Free Strike]]** 5
+**Stamina:** 45
+**Speed:** 7 ([[Teleport|teleport]])
+**Size:** 1M / Stability 0
+**[[Free Strike]]:** 5
 
 - **Might** 0
 - **Agility** +2
@@ -2955,10 +2955,10 @@ The tree guerilla immediately [[Hide|hides]] at the end of their turn, even if t
 **Level 3 Artillery**
 *Fey, Humanoid, Wode Elf*
 **EV** 17
-**Stamina** 35
-**Speed** 7
-**Size** 1M / Stability 0
-**[[Free Strike]]** 5
+**Stamina:** 35
+**Speed:** 7
+**Size:** 1M / Stability 0
+**[[Free Strike]]:** 5
 
 - **Might** 0
 - **Agility** +2
@@ -2995,10 +2995,10 @@ The tree gweiadur immediately [[Hide|hides]] at the end of their turn while in c
 **Level 3 Leader**
 *Fey, Humanoid, Wode Elf*
 **EV** 60
-**Stamina** 120
-**Speed** 7 ([[Teleport|teleport]])
-**Size** 1M / Stability 2
-**[[Free Strike]]** 5
+**Stamina:** 120
+**Speed:** 7 ([[Teleport|teleport]])
+**Size:** 1M / Stability 2
+**[[Free Strike]]:** 5
 
 - **Might** +2
 - **Agility** +3
@@ -3059,10 +3059,10 @@ Effect: Each target becomes invisible until the start of the next round. The pen
 **Level 1 Mount**
 *Plant, Wode Elf*
 **EV** 13
-**Stamina** 30
-**Speed** 10
-**Size** 2 / Stability 1
-**[[Free Strike]]** 2
+**Stamina:** 30
+**Speed:** 10
+**Size:** 2 / Stability 1
+**[[Free Strike]]:** 2
 
 - **Might** +2
 - **Agility** +1
@@ -3134,11 +3134,11 @@ At the start of any cryptic's turn, you can spend malice to activate one of the 
 **Level 2 Solo**
 *Elemental*
 **EV** 76
-**Stamina** 180
+**Stamina:** 180
 **Immunity**: weapon 5
-**Speed** 8 ([[Burrow|burrow]])
-**Size** 1L / Stability 3
-**[[Free Strike]]** 5
+**Speed:** 8 ([[Burrow|burrow]])
+**Size:** 1L / Stability 3
+**[[Free Strike]]:** 5
 
 - **Might** +3
 - **Agility** +2

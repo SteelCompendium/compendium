@@ -1,11 +1,11 @@
 ### WODE ELF GREENSKEEPER
 
-| WODE ELF GREENSKEEPER     |   **Level 1 Defender** |
-| :------------------------ | ---------------------: |
-| *Fey, Humanoid, Wode Elf* |            \*\*EV \*\* |
-| **Stamina**:              |          **Weakness**: |
-| **Speed**:                | **Size**:  / Stability |
-|                           |   **[[Free Strike]]**: |
+| WODE ELF GREENSKEEPER     |       **Level 1 Defender** |
+| :------------------------ | -------------------------: |
+| *Fey, Humanoid, Wode Elf* |                  **EV 15** |
+| **Stamina**: 40           |              **Weakness**: |
+| **Speed**: 7              | **Size**: 1M / Stability 0 |
+|                           |     **[[Free Strike]]**: 3 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |

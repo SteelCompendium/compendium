@@ -1,11 +1,11 @@
 ### WODENELG
 
-| WODENELG          |      **Level 1 Mount** |
-| :---------------- | ---------------------: |
-| *Plant, Wode Elf* |            \*\*EV \*\* |
-| **Stamina**:      |          **Weakness**: |
-| **Speed**:        | **Size**:  / Stability |
-|                   |   **[[Free Strike]]**: |
+| WODENELG          |         **Level 1 Mount** |
+| :---------------- | ------------------------: |
+| *Plant, Wode Elf* |                 **EV 13** |
+| **Stamina**: 30   |             **Weakness**: |
+| **Speed**: 10     | **Size**: 2 / Stability 1 |
+|                   |    **[[Free Strike]]**: 2 |
 
 | **Might** +2 | **Agility** +1 | **Reason** -1 | **Intuition** 0 | **Presence** -1 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |

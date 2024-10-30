@@ -1,11 +1,11 @@
 ### WODE ELF TREE GUERILLA
 
-| WODE ELF TREE GUERILLA    |   **Level 3 Ambusher** |
-| :------------------------ | ---------------------: |
-| *Fey, Humanoid, Wode Elf* |            \*\*EV \*\* |
-| **Stamina**:              |          **Weakness**: |
-| **Speed**:                | **Size**:  / Stability |
-|                           |   **[[Free Strike]]**: |
+| WODE ELF TREE GUERILLA                |       **Level 3 Ambusher** |
+| :------------------------------------ | -------------------------: |
+| *Fey, Humanoid, Wode Elf*             |                  **EV 19** |
+| **Stamina**: 45                       |              **Weakness**: |
+| **Speed**: 7 ([[Teleport\|teleport]]) | **Size**: 1M / Stability 0 |
+|                                       |     **[[Free Strike]]**: 5 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |

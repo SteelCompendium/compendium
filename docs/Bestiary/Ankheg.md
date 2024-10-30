@@ -97,6 +97,8 @@ Trigger: A creature damages the ankheg
 
 **Solo Monster**
 
+- **Solo Turns**: The ankheg takes two turns each round. They can use two actions on each of their turns, and can take each turn after any enemy's turn. While [[Dazed|dazed]], the ankheg can take one action and one maneuver per turn. - **End Effect**: At the end of their turn, the ankheg can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
+
 **Soft Underbelly**
 
 A [[Prone|prone]] creature gains an edge on melee attacks against the ankheg instead of taking a bane.

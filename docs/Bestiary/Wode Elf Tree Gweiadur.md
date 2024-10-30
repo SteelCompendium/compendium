@@ -1,11 +1,11 @@
 ### WODE ELF TREE GWEIADUR
 
-| WODE ELF TREE GWEIADUR    |  **Level 3 Artillery** |
-| :------------------------ | ---------------------: |
-| *Fey, Humanoid, Wode Elf* |            \*\*EV \*\* |
-| **Stamina**:              |          **Weakness**: |
-| **Speed**:                | **Size**:  / Stability |
-|                           |   **[[Free Strike]]**: |
+| WODE ELF TREE GWEIADUR    |      **Level 3 Artillery** |
+| :------------------------ | -------------------------: |
+| *Fey, Humanoid, Wode Elf* |                  **EV 17** |
+| **Stamina**: 35           |              **Weakness**: |
+| **Speed**: 7              | **Size**: 1M / Stability 0 |
+|                           |     **[[Free Strike]]**: 5 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** +1 | **Presence** 0 |
 | ----------- | -------------- | ------------ | ---------------- | -------------- |

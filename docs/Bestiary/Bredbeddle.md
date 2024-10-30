@@ -103,6 +103,8 @@ Trigger: A creature targets the bredbeddle with a ranged magic attack.
 
 **Solo Monster**
 
+- **Solo Turns**: The bredbeddle takes two turns each round. They can use two actions on each of their turns and can take each turn after any enemy's turn. While [[Dazed|dazed]], the bredbeddle can take one action and one maneuver per turn. - **End Effect**: At the end of their turn, the bredbeddle can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
+
 **Resilient Form**
 
 The bredbeddle can't be physically transformed in any way except by their Heady or Not trait.

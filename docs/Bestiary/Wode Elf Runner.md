@@ -2,10 +2,10 @@
 
 | WODE ELF RUNNER           | **Level 1 Harrier Minion** |
 | :------------------------ | -------------------------: |
-| *Fey, Humanoid, Wode Elf* |                \*\*EV \*\* |
-| **Stamina**:              |              **Weakness**: |
-| **Speed**:                |     **Size**:  / Stability |
-|                           |       **[[Free Strike]]**: |
+| *Fey, Humanoid, Wode Elf* |                   **EV 6** |
+| **Stamina**: 10           |              **Weakness**: |
+| **Speed**: 7              | **Size**: 1M / Stability 0 |
+|                           |     **[[Free Strike]]**: 2 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |

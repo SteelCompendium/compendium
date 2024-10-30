@@ -93,6 +93,8 @@ Trigger: The target declares a melee attack against the werewolf after charging 
 
 **Solo Monster**
 
+- **Solo Turns**: The werewolf takes 2 turns each round. They can use two actions on each of their turns and can take each turn after an enemy turn they choose. While [[Dazed|dazed]], the werewolf can take one action and one maneuver per turn. - **End Effect**: The werewolf takes 5 damage and ends one EoE effect affecting them at the end of their turn.
+
 **Shapeshifter**
 
 The werewolf enters combat in their hybrid humanoid form. Their shape can't change via any effects beyond their own ability.

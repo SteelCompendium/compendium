@@ -1,11 +1,11 @@
 ### FOSSIL CRYPTIC
 
-| FOSSIL CRYPTIC |       **Level 2 Solo** |
-| :------------- | ---------------------: |
-| *Elemental*    |            \*\*EV \*\* |
-| **Stamina**:   |          **Weakness**: |
-| **Speed**:     | **Size**:  / Stability |
-|                |   **[[Free Strike]]**: |
+| FOSSIL CRYPTIC                    |           **Level 2 Solo** |
+| :-------------------------------- | -------------------------: |
+| *Elemental*                       |                  **EV 76** |
+| **Stamina**: 180                  |              **Weakness**: |
+| **Speed**: 8 ([[Burrow\|burrow]]) | **Size**: 1L / Stability 3 |
+|                                   |     **[[Free Strike]]**: 5 |
 
 | **Might** +3 | **Agility** +2 | **Reason** +1 | **Intuition** +1 | **Presence** 0 |
 | ------------ | -------------- | ------------- | ---------------- | -------------- |
@@ -100,6 +100,8 @@ Trigger: The cryptic takes damage
 **Effect:** The cryptic makes a final attack that raises stone pillars from the floor.
 
 **Solo Monster**
+
+- **Solo Turns**: The cryptic takes two turns each round. They can use two actions on each of their turns and can take each turn after any enemy's turn. While [[Dazed|dazed]], the cryptic can take one action and one maneuver per turn. - **End Effect**: At the end of their turn, the cryptic can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
 
 **Churning Trunk**
 

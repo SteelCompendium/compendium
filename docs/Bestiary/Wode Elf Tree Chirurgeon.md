@@ -1,11 +1,11 @@
 ### WODE ELF TREE CHIRURGEON
 
-| WODE ELF TREE CHIRURGEON  |    **Level 2 Harrier** |
-| :------------------------ | ---------------------: |
-| *Fey, Humanoid, Wode Elf* |            \*\*EV \*\* |
-| **Stamina**:              |          **Weakness**: |
-| **Speed**:                | **Size**:  / Stability |
-|                           |   **[[Free Strike]]**: |
+| WODE ELF TREE CHIRURGEON  |        **Level 2 Harrier** |
+| :------------------------ | -------------------------: |
+| *Fey, Humanoid, Wode Elf* |                  **EV 15** |
+| **Stamina**: 35           |              **Weakness**: |
+| **Speed**: 7              | **Size**: 1M / Stability 0 |
+|                           |     **[[Free Strike]]**: 4 |
 
 | **Might** +1 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ------------ | -------------- | ------------ | --------------- | -------------- |

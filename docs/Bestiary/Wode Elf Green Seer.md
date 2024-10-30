@@ -1,11 +1,11 @@
 ### WODE ELF GREEN SEER
 
-| WODE ELF GREEN SEER       |      **Level 1 Hexer** |
-| :------------------------ | ---------------------: |
-| *Fey, Humanoid, Wode Elf* |            \*\*EV \*\* |
-| **Stamina**:              |          **Weakness**: |
-| **Speed**:                | **Size**:  / Stability |
-|                           |   **[[Free Strike]]**: |
+| WODE ELF GREEN SEER       |          **Level 1 Hexer** |
+| :------------------------ | -------------------------: |
+| *Fey, Humanoid, Wode Elf* |                  **EV 11** |
+| **Stamina**: 20           |              **Weakness**: |
+| **Speed**: 7              | **Size**: 1M / Stability 0 |
+|                           |     **[[Free Strike]]**: 3 |
 
 | **Might** 0 | **Agility** +1 | **Reason** 0 | **Intuition** +2 | **Presence** +1 |
 | ----------- | -------------- | ------------ | ---------------- | --------------- |
