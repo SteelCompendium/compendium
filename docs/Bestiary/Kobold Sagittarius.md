@@ -24,6 +24,8 @@
 - ★ 12-16: 3 damage
 - ✸ 17+: 4 damage
 
+**:**
+
 **Effect:** The sagittarius has increased Stability while adjacent to an ally.
 
 **Shield? Shield!**

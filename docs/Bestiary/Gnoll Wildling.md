@@ -24,6 +24,8 @@
 - ★ 12-16: 3 damage
 - ✸ 17+: 4 damage; wildling takes a [[Free Strike|free strike]] on a creature adjacent to the target
 
+**:**
+
 **Death Frenzy**
 
 Whenever an ally within 7 is reduced to 0 Stamina, the wildling moves up to their speed and makes a [[Free Strike|free strike]].

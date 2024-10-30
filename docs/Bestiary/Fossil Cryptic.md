@@ -24,14 +24,24 @@
 - ★ 12-16: 9 damage; A3 [[Prone|prone]] and can't stand (EoT)
 - ✸ 17+: 12 damage; A4 [[Prone|prone]] and can't stand (save ends)
 
+**:**
+
 **Effect:** Each enemy within 1 square of the target takes 2 damage.
 
-#### Stone Bone Storm (2d10 + 3)
+#### Stone Bone Storm
 
 |                               |                                |
 | :---------------------------- | :----------------------------- |
 | Keywords: Area, Resistance    | Type: Action                   |
 | Distance: 6 × 1 line within 1 | Target: Each enemy in the line |
+
+**2d10 + 3**
+
+- ✦ ≤11: 2 damage; M2 push 2
+- ★ 12-16: 3 damage; M3 [[Prone|prone]]
+- ✸ 17+: 4 damage; M4 [[Prone|prone]]
+
+**:**
 
 **Effect:** The cryptic reforms their body and appears in an unoccupied space within the line.
 
@@ -48,14 +58,24 @@
 - ★ 12-16: 3 damage; push 3; [[Prone|prone]]
 - ✸ 17+: 4 damage; push 4; [[Prone|prone]]
 
+**:**
+
 **Effect:** The cryptic [[Burrow|burrows]] up to half their speed, then creates the burst when they breach the surface.
 
-#### Stoneshift (AGL RR)
+#### Stoneshift
 
 |                              |                                              |
 | :--------------------------- | :------------------------------------------- |
 | Keywords: Ranged, Resistance | Type: Maneuver                               |
 | Distance: Ranged 5           | Target: One creature or object on the ground |
+
+**AGL RR**
+
+- ✦ ≤11: Slide 3
+- ★ 12-16: Slide 2
+- ✸ 17+: Slide 1
+
+**:**
 
 **2 Malice:** The distance of the slide is doubled.
 
@@ -70,30 +90,54 @@ Trigger: The cryptic takes damage
 
 **Effect:** The cryptic halves the damage, doesn't suffer any additional effect associated with it, and shifts up to 3 squares.
 
-#### First Warning Quake (MGT RR)
+#### First Warning Quake
 
 |                            |                                               |
 | :------------------------- | :-------------------------------------------- |
 | Keywords: Area, Resistance | Type: Villain Action 1                        |
 | Distance: 5 burst          | Target: Each enemy on the ground in the burst |
 
+**MGT RR**
+
+- ✦ ≤11: The target is [[Prone|prone]] and can't stand (EoT)
+- ★ 12-16: [[Prone]]
+- ✸ 17+: No effect
+
+**:**
+
 **Effect:** The area becomes [[Difficult Terrain|difficult terrain]].
 
-#### Final Warning Fissure (AGL RR)
+#### Final Warning Fissure
 
 |                            |                                               |
 | :------------------------- | :-------------------------------------------- |
 | Keywords: Area, Resistance | Type: Villain Action 2                        |
 | Distance: 5 burst          | Target: Each enemy on the ground in the burst |
 
+**AGL RR**
+
+- ✦ ≤11: 4 damage; [[Prone|prone]]
+- ★ 12-16: 2 damage
+- ✸ 17+: The target moves to the nearest unoccupied space outside the area.
+
+**:**
+
 **Effect:** The area drops 2 squares. Each enemy in the area falls, while all allies of the fossil cryptic drop safely. The affected area then becomes [[Difficult Terrain|difficult terrain]].
 
-#### No Escape (2d10 + 3)
+#### No Escape
 
 |                     |                                                |
 | :------------------ | :--------------------------------------------- |
 | Keywords: Ranged    | Type: Villain Action 3                         |
 | Distance: Ranged 10 | Target: Two creatures or objects on the ground |
+
+**2d10 + 3**
+
+- ✦ ≤11: 2 damage; vertical slide 2
+- ★ 12-16: 3 damage; vertical slide 4
+- ✸ 17+: 4 damage; the target is [[Restrained|restrained]] against the ceiling (save ends)
+
+**:**
 
 **Effect:** The cryptic makes an initial attack that calls down stone pillars from the ceiling.
 

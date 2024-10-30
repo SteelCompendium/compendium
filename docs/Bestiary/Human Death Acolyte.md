@@ -24,6 +24,8 @@
 - ★ 12-16: 4 corruption damage
 - ✸ 17+: 5 corruption damage
 
+**:**
+
 **Effect:** A creature within 5 squares of the death acolyte regains 1 Stamina.
 
 **Supernatural Insight**

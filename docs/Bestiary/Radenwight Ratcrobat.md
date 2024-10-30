@@ -24,6 +24,8 @@
 - ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
+**:**
+
 **Effect:** The ratcrobat can shift up to 2 squares after attacking the first target, then can shift 1 square after attacking the second target.
 
 #### Over Here, Thanks

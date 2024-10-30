@@ -24,6 +24,8 @@
 - ★ 12-16: 5 cold damage; P3 [[Slowed|slowed]] (save ends)
 - ✸ 17+: 6 cold damage; P2 [[Slowed|slowed]] (save ends)
 
+**:**
+
 **Effect:** The next attack made against a target has edge.
 
 #### Haunt
@@ -57,21 +59,37 @@ Trigger: A creature within distance targets the ghost with an attack.
 
 **Effect:** Each target floats 1 square into the air and is pulled 5 squares toward the nearest enemy within 3 squares of the target.
 
-#### Spirited Away (PRS RR)
+#### Spirited Away
 
 |                                   |                                 |
 | :-------------------------------- | :------------------------------ |
 | Keywords: Area, Magic, Resistance | Type: Villain Action 2          |
 | Distance: 5 burst                 | Target: Each enemy in the burst |
 
+**PRS RR**
+
+- ✦ ≤11: Levitated (EoE) (see effect)
+- ★ 12-16: Levitated (EoT)
+- ✸ 17+: No effect
+
+**:**
+
 **Effect:** A levitated target floats 1 square off the ground when they are first affected, then rises 1 square at the end of each of their turns. If a levitated target can't already [[Fly|fly]], they can [[Fly|fly]] but are [[Slowed|slowed]] and [[Weakened|weakened]] while flying in this way.
 
-#### Awful Wail (2d10 + 3)
+#### Awful Wail
 
 |                                   |                                 |
 | :-------------------------------- | :------------------------------ |
 | Keywords: Area, Magic, Resistance | Type: Villain Action 3          |
 | Distance: 5 burst                 | Target: Each enemy in the burst |
+
+**2d10 + 3**
+
+- ✦ ≤11: 2 sonic damage
+- ★ 12-16: 5 sonic damage
+- ✸ 17+: 5 sonic damage
+
+**:**
 
 **Effect:** P3: The target is reduced to 1 Stamina if they have 2 or more Stamina after taking damage.
 

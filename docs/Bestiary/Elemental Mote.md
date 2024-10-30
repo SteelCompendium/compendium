@@ -24,6 +24,8 @@
 - ★ 12-16: 4 damage; the target gains Magic weakness 1 (EoT)
 - ✸ 17+: 5 damage; the target gains Magic weakness 3 (EoT)
 
+**:**
+
 **Cradle Heart**
 
 On their turn, the mote can choose to die to revive a dead [[Cradle Crow|cradle crow]], [[Cradle Horse|cradle horse]], or [[Cradle Credenza|cradle credenza]] within 1, returning with 8 Stamina.

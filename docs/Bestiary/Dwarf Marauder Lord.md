@@ -24,6 +24,8 @@
 - ★ 12-16: 9 damage; slide 3
 - ✸ 17+: 12 damage; slide 5
 
+**:**
+
 **Effect:** A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by this attack.
 
 **3 Malice:** A target that is force moved adjacent to an ally with this ability is [[Restrained|restrained]] (EoT).

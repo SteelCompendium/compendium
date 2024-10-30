@@ -24,6 +24,8 @@
 - ★ 12-16: 8 damage; pull 2
 - ✸ 17+: 11 damage; pull 3
 
+**:**
+
 **Effect:** One ally within 10 squares of the commander can make a [[Free Strike|free strike]].
 
 **1 Malice:** A target who is adjacent to the ground commander after this ability is resolved is I3 [[Grabbed|grabbed]] (save ends). This [[Grab|grab]] can't be escaped using the [[Escape Grab]] maneuver. The ground commander can [[Grab|grab]] up to two creatures at a time.

@@ -24,6 +24,8 @@
 - ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
+**:**
+
 **Supernatural Insight**
 
 The archer can target supernatural creatures and objects within 5 squares, even if they don't have line of effect.

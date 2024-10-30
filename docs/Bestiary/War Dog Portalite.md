@@ -24,6 +24,8 @@
 - ★ 12-16: 5 damage; slide 2
 - ✸ 17+: 7 damage; slide 3
 
+**:**
+
 **Effect:** The portalite has **edge** on the attack if an ally is adjacent to the target.
 
 **1 Malice:** The portalite [[Teleport|teleports]] the target 3 squares before sliding them.

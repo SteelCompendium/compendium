@@ -24,6 +24,8 @@
 - ★ 12-16: 7 damage; M2 the target has a bane on their next attack
 - ✸ 17+: 10 damage; M3 the target has a double bane on their next attack
 
+**:**
+
 **Effect:** [[Taunted]] (EoT).
 
 **I'm Your Enemy**

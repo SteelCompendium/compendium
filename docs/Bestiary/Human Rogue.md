@@ -24,6 +24,8 @@
 - ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
+**:**
+
 **Effect:** This attack has a double edge and an edge if the spy was disguised or hidden before using this ability.
 
 **Supernatural Insight**

@@ -24,6 +24,8 @@
 - ★ 12-16: 4 damage; A3 [[Bleeding|bleeding]] (save ends)
 - ✸ 17+: 5 damage; A4 [[Bleeding|bleeding]] and [[Dazed|dazed]] (save ends)
 
+**:**
+
 **3 Malice:** The bredbeddle shifts up to 2 squares and can target additional enemies who come within distance of this ability during the move.
 
 #### Lop (3 Malice)
@@ -38,6 +40,8 @@
 - ✦ ≤11: 6 damage; [[Bleeding|bleeding]] (save ends) or M2 beheaded (see effect)
 - ★ 12-16: 10 damage; [[Bleeding|bleeding]] (save ends) or M3 beheaded (see effect)
 - ✸ 17+: 13 damage; [[Bleeding|bleeding]] (save ends) or M4 beheaded (see effect)
+
+**:**
 
 **Effect:** A beheaded target has their head fall into an unoccupied square adjacent to the bredbeddle, but they remain alive. While beheaded, the target is [[Dazed|dazed]] and can't have line of effect to any creature other than themselves. The beheaded target can survive without their head for 24 hours, and can reattach their head by entering its square and using a maneuver to do so. A target who remains beheaded for 24 hours dies.
 
@@ -63,6 +67,8 @@
 - ★ 12-16: 5 damage; [[Prone|prone]]; M3 [[Dazed|dazed]] (save ends)
 - ✸ 17+: 7 damage; [[Prone|prone]]; M4 [[Dazed|dazed]] (save ends)
 
+**:**
+
 **Effect:** The bredbeddle must have a head in their possession (attached to them or not), which they throw at the target. If the head was attached, the bredbeddle becomes headless.
 
 #### Rebuke of the Fiendish Burlow (2 Malice)
@@ -76,12 +82,20 @@ Trigger: A creature targets the bredbeddle with a ranged magic attack.
 
 **Effect:** The bredbeddle uses the same ability against the triggering creature, using that creature's bonus to any power rolls they make.
 
-#### Turn Green (PRS RR)
+#### Turn Green
 
 |                                   |                                 |
 | :-------------------------------- | :------------------------------ |
 | Keywords: Area, Magic, Resistance | Type: Villain Action 1          |
 | Distance: 3 burst                 | Target: Each enemy in the burst |
+
+**PRS RR**
+
+- ✦ ≤11: The target turns green and is [[Slowed|slowed]] (save ends)
+- ★ 12-16: The target turns green (save ends)
+- ✸ 17+: No effect
+
+**:**
 
 **Effect:** Green shadows [[Crawl|crawl]] out from under the bredbeddle's feet and attempt to turn each target green. The bredbeddle has a double edge on attacks made against targets turned green in this way.
 
@@ -94,12 +108,20 @@ Trigger: A creature targets the bredbeddle with a ranged magic attack.
 
 **Effect:** The bredbeddle points at the target and issues them a challenge. If the target refuses, they turn green (save ends). If the target accepts, the bredbeddle shifts to a space adjacent to the target, who must make a hard Might test with no additional modifiers.
 
-#### Headlam Rampage (2d10 + 3)
+#### Headlam Rampage
 
 |                                 |                        |
 | :------------------------------ | :--------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Villain Action 3 |
 | Distance: Melee 2               | Target: Four creatures |
+
+**2d10 + 3**
+
+- ✦ ≤11: 3 damage; [[Bleeding|bleeding]] (save ends) or M2 beheaded (see Lop)
+- ★ 12-16: 4 damage; [[Bleeding|bleeding]] (save ends) or M3 beheaded (see Lop)
+- ✸ 17+: 5 damage; [[Bleeding|bleeding]] (save ends) or M4 beheaded (see Lop)
+
+**:**
 
 **Solo Monster**
 

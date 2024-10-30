@@ -24,6 +24,8 @@
 - ★ 12-16: vertical push 3
 - ✸ 17+: vertical push 5
 
+**:**
+
 **Effect:** The area of the cube increases by 1 for each [[Elemental Mote|elemental mote]] adjacent to the wyrd.
 
 #### Wyrd Warp (3 Malice)

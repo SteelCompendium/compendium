@@ -24,6 +24,8 @@
 - ★ 12-16: 5 psychic damage; P2 [[Weakened|weakened]] (save ends)
 - ✸ 17+: 7 psychic damage; P3 [[Weakened|weakened]] (save ends)
 
+**:**
+
 **Effect:** If the target makes an attack while [[Weakened|weakened]] this way, the bendrak can choose a second target for the attack within the distance of the attack, then evenly divides any damage from the attack between the two targets.
 
 #### Vanish (1 Malice)

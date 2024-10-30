@@ -24,14 +24,24 @@
 - ★ 12-16: 12 damage
 - ✸ 17+: 16 damage
 
+**:**
+
 **Effect:** The lightbender has advantage on the attack if they would make it with an edge.
 
-#### Piercing Tails (2d10 + 2)
+#### Piercing Tails
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Action                   |
 | Distance: Melee 2               | Target: 2 creatures or objects |
+
+**2d10 + 2**
+
+- ✦ ≤11: 6 damage; 1 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 10 damage; 2 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 13 damage; 3 [[Bleeding|bleeding]] (save ends)
+
+**:**
 
 **Effect:** A creature who is [[Bleeding|bleeding]] from this ability has a bane on tests to search for the lightbender until the condition ends.
 
@@ -47,6 +57,8 @@
 - ✦ ≤11: [[Dazed]] (save ends)
 - ★ 12-16: [[Dazed]] (EoT)
 - ✸ 17+: No effect
+
+**:**
 
 **Effect:** Targets [[Dazed|dazed]] by this ability have a speed of 0 while [[Dazed|dazed]]. If a [[Dazed|dazed]] target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.
 

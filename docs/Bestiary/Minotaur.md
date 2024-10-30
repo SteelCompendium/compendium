@@ -24,6 +24,8 @@
 - ★ 12-16: 9 damage; push 2
 - ✸ 17+: 12 damage; push 3
 
+**:**
+
 **Effect:** The minotaur shifts 3 after attacking.
 
 #### Primal Bay (3 Malice)
@@ -47,6 +49,8 @@
 - ✦ ≤11: 5 damage; I1 [[Dazed|dazed]] (save ends)
 - ★ 12-16: 9 damage; I2 [[Dazed|dazed]] (save ends)
 - ✸ 17+: 12 damage; I3 [[Dazed|dazed]] (save ends)
+
+**:**
 
 **Effect:** The potency of this ability increases by 1 if it's used while charging.
 

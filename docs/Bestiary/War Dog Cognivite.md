@@ -24,6 +24,8 @@
 - ★ 12-16: 4 psychic damage; vertical slide 2
 - ✸ 17+: 5 psychic damage; vertical slide 3
 
+**:**
+
 #### Posthumous Promotion
 
 |                         |                                           |

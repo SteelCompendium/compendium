@@ -24,6 +24,8 @@
 - ★ 12-16: 5 damage; A2 [[Prone|prone]]
 - ✸ 17+: 7 damage; the zephyr takes a [[Free Strike|free strike]] on a creature adjacent to the target; A3 [[Prone|prone]]
 
+**:**
+
 **Effect:** Shift 2.
 
 #### Windwalk

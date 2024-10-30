@@ -24,12 +24,22 @@
 - ★ 12-16: 7 poison damage; M2 [[Weakened|weakened]] (save ends)
 - ✸ 17+: 10 poison damage; M3 [[Weakened|weakened]] (save ends)
 
-#### Leg Blade (2d10 + 2)
+**:**
+
+#### Leg Blade
 
 |                                 |                                  |
 | :------------------------------ | :------------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Action                     |
 | Distance: Melee 1               | Target: Two creatures or objects |
+
+**2d10 + 2**
+
+- ✦ ≤11: 4 damage
+- ★ 12-16: 7 damage
+- ✸ 17+: 10 damage
+
+**:**
 
 #### Trample (5 Malice)
 
@@ -52,6 +62,8 @@
 - ✦ ≤11: [[Restrained]] (AGL ends)
 - ★ 12-16: [[Restrained]] (EoT)
 - ✸ 17+: No effect
+
+**:**
 
 **Ride Launcher**
 

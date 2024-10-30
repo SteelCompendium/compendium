@@ -24,14 +24,24 @@
 - ★ 12-16: 8 damage; A2 vertical push 3
 - ✸ 17+: 11 damage; A3 vertical slide 5
 
+**:**
+
 **1 Malice:** Each target is M2 [[Bleeding|bleeding]] (save ends).
 
-#### Earth Breaking Jump (2d10 + 2)
+#### Earth Breaking Jump
 
 |                               |                                    |
 | :---------------------------- | :--------------------------------- |
 | Keywords: Area, Melee, Weapon | Type: Action                       |
 | Distance: 3 burst             | Target: All creatures in the burst |
+
+**2d10 + 2**
+
+- ✦ ≤11: 3 damage; M1 [[Prone|prone]]
+- ★ 12-16: 4 damage; push 2; M2 [[Prone|prone]]
+- ✸ 17+: 5 damage; push 4; M3 [[Prone|prone]]
+
+**:**
 
 **Effect:** The juggernaut leaps up to 6 squares before making the attack.
 
@@ -47,6 +57,8 @@
 - ✦ ≤11: [[Frightened]] (save ends)
 - ★ 12-16: [[Frightened]] (EoT)
 - ✸ 17+: No effect
+
+**:**
 
 **Effect:** Ogres have **advantage** on attacks against creatures [[Frightened|frightened]] by this ability.
 

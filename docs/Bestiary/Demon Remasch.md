@@ -24,6 +24,8 @@
 - ★ 12-16: 7 damage; the remasch [[Teleport|teleports]] 3 squares
 - ✸ 17+: 10 damage; the remasch [[Teleport|teleports]] 5 squares
 
+**:**
+
 **5 Malice:** The remasch takes an adjacent creature with them when they [[Teleport|teleport]]. The creature appears in an unoccupied space adjacent to the remasch's destination.
 
 #### Grasping Shadow (3 Malice)

@@ -24,6 +24,8 @@
 - ★ 12-16: 5 poison damage; I2 [[Frightened|frightened]] (save ends)
 - ✸ 17+: 8 poison damage; I3 [[Frightened|frightened]] (save ends)
 
+**:**
+
 **Effect:** The area is covered in a cloud of pestilence that lasts until the start of the pestilite's next turn. Any creature who enters the area for the first time in a round or starts their turn there takes 2 poison damage.
 
 #### Posthumous Promotion

@@ -24,6 +24,8 @@
 - ★ 12-16: 4 corruption damage; M1 [[Slowed|slowed]] (save ends)
 - ✸ 17+: 5 corruption damage; M2 [[Slowed|slowed]] and [[Weakened|weakened]] (save ends)
 
+**:**
+
 **Effect:** The target appears to rapidly age each time they take damage from this attack. The target regains their former appearance when the wight is destroyed.
 
 #### Raise (3 Malice)

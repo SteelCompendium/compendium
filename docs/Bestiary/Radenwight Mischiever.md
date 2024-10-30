@@ -24,6 +24,8 @@
 - ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
+**:**
+
 **Effect:** If the mischief is hidden when they use this ability, they can target two creatures.
 
 #### Ready Rodent

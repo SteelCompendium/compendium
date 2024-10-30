@@ -24,4 +24,6 @@
 - ★ 12-16: 4 damage
 - ✸ 17+: 5 damage; an ally adjacent to the target can make a [[Free Strike|free strike]]
 
+**:**
+
 **Effect:** The target can't use triggered actions until the start of the next round.

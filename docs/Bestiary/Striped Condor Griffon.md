@@ -24,6 +24,8 @@
 - ★ 12-16: 9 damage; one target is pushed 2; other target is vertically pushed 2
 - ✸ 17+: 12 damage; one target is pushed 2 and [[Prone|prone]]; other target is vertically pushed 3
 
+**:**
+
 #### Bound Ahead (5 Malice)
 
 |                                 |              |
@@ -46,7 +48,9 @@
 - ★ 12-16: Push 4
 - ✸ 17+: Push 3
 
-#### Circle and Strike (2d10 + 2)
+**:**
+
+#### Circle and Strike
 
 |                |                             |
 | :------------- | :-------------------------- |
@@ -54,6 +58,14 @@
 | Distance: Self | Target: Triggering creature |
 
 Trigger: The [[Griffon|griffon]] flies above a creature on the ground within 10
+
+**2d10 + 2**
+
+- ✦ ≤11: Push 3
+- ★ 12-16: A2 [[Grabbed|grabbed]]
+- ✸ 17+: 5 damage; A3 [[Grabbed|grabbed]]
+
+**:**
 
 **Effect:** The [[Griffon|griffon]] falls down upon the target, taking no damage from falling. A creature who is [[Grabbed|grabbed]] by the [[Griffon|griffon]] is [[Prone|prone]] and can't stand until they are no longer [[Grabbed|grabbed]].
 

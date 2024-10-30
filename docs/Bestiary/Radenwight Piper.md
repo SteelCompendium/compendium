@@ -24,6 +24,8 @@
 - ★ 12-16: 5 sonic damage; push 3
 - ✸ 17+: 7 sonic damage; push 4
 
+**:**
+
 **Effect:** The piper or an ally within distance regains Stamina equal to half the damage dealt.
 
 #### Vivace Vivace! (3 Malice)

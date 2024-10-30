@@ -24,14 +24,24 @@
 - ★ 12-16: 9 damage; one target is [[Grabbed|grabbed]]; one target gets push 2
 - ✸ 17+: 12 damage; one target is [[Grabbed|grabbed]]; one target gets vertical push 3
 
+**:**
+
 **5 Malice:** The distance becomes 1 Burst, the Attack keyword is replaced with Area, and the roughneck targets all enemies instead.
 
-#### Leaping Fury (2d10 + 3)
+#### Leaping Fury
 
 |                                  |                              |
 | :------------------------------- | :--------------------------- |
 | Keywords: Attack, Ranged, Weapon | Type: Action                 |
 | Distance: Melee 1                | Target: 1 creature or object |
+
+**2d10 + 3**
+
+- ✦ ≤11: 5 damage; M1 [[Prone|prone]]
+- ★ 12-16: 9 damage; M2 [[Prone|prone]]
+- ✸ 17+: 12 damage; M3 [[Prone|prone]]
+
+**:**
 
 **Effect:** The roughneck leaps 5 to an unoccupied space adjacent to the target before making the attack.
 

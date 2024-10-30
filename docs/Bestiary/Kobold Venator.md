@@ -24,6 +24,8 @@
 - ★ 12-16: 5 damage; 2 [[Restrained|restrained]] (save ends)
 - ✸ 17+: 6 damage; 3 [[Restrained|restrained]] (save ends)
 
+**:**
+
 **3 Malice:** Creatures and objects [[Restrained|restrained]] by this ability take 2 fire damage at the start of each of their turns.
 
 **Lost in the Crowd**

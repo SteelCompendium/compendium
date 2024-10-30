@@ -24,6 +24,8 @@
 - ★ 12-16: 9 damage; A3 [[Grabbed|grabbed]]
 - ✸ 17+: 12 damage; [[Grabbed|grabbed]]
 
+**:**
+
 **Effect:** The target can't use triggered actions until the start of the next round. This attack has double edge if the sneak started their turn hidden from the target.
 
 #### Dirt Devil (3 Malice)
@@ -39,14 +41,24 @@
 - ★ 12-16: 3 damage; I2 sneak is concealed from the target (save ends)
 - ✸ 17+: 4 damage; I3 sneak is concealed from the target (save ends)
 
+**:**
+
 **Effect:** The sneak shifts up to their speed and [[Hide|hides]] after using this ability.
 
-#### Carving Dagger (2d10 + 2)
+#### Carving Dagger
 
 |                                  |                                |
 | :------------------------------- | :----------------------------- |
 | Keywords: Attack, Ranged, Weapon | Type: Action                   |
 | Distance: Ranged 8               | Target: 2 creatures or objects |
+
+**2d10 + 2**
+
+- ✦ ≤11: 5 damage; M1 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 9 damage; M2 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 12 damage; M3 [[Bleeding|bleeding]] (save ends)
+
+**:**
 
 **Effect:** Targets can't [[Hide|hide]] from the sneak or their allies while [[Bleeding|bleeding]] from this ability.
 

@@ -24,6 +24,8 @@
 - ★ 12-16: 4 damage; push 2
 - ✸ 17+: 5 damage; push 3
 
+**:**
+
 **Masking Glamor**
 
 The yeoman immediately [[Hide|hides]] at the end of their turn while in cover or concealment, even if they are observed.

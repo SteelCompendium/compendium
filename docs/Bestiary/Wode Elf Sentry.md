@@ -24,6 +24,8 @@
 - ★ 12-16: 5 damage; A3 marked (save ends)
 - ✸ 17+: 7 damage; marked (save ends)
 
+**:**
+
 **Effect:** Allies have **+1** on attacks and abilities against marked creatures and objects.
 
 **3 Malice:** The sentry targets two additional creatures or objects.

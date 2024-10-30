@@ -24,6 +24,8 @@
 - ★ 12-16: 5 damage; target's speed reduced by 1 (EoT)
 - ✸ 17+: 6 damage; target's speed reduced by 2 (EoT)
 
+**:**
+
 **Otherworldly Grace**
 
 At the start of their turn, the quiver can turn the duration of one save ends effect they suffer from into EoT.

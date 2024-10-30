@@ -24,14 +24,24 @@
 - ★ 12-16: 8 damage; [[Grabbed|grabbed]]
 - ✸ 17+: 11 damage; [[Grabbed|grabbed]]
 
+**:**
+
 **Effect:** A size 1 target [[Grabbed|grabbed]] this way takes 8 acid damage at the start of each of their turns.
 
-#### Claws (2d10 + 3)
+#### Claws
 
 |                                 |                                  |
 | :------------------------------ | :------------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Action                     |
 | Distance: Melee 2               | Target: Two creatures or objects |
+
+**2d10 + 3**
+
+- ✦ ≤11: 2 damage; A2 [[Grabbed|grabbed]]
+- ★ 12-16: 4 damage; A3 [[Grabbed|grabbed]]
+- ✸ 17+: 5 damage; A4 [[Grabbed|grabbed]]
+
+**:**
 
 **2 Malice:** The ankheg can vertical slide one or both targets up to 5 squares.
 
@@ -47,6 +57,8 @@
 - ✦ ≤11: 4 damage
 - ★ 12-16: 6 damage
 - ✸ 17+: 7 damage; push 2
+
+**:**
 
 **Effect:** The ankheg [[Burrow|burrows]] up to their speed, then creates the burst when they breach the surface.
 
@@ -70,12 +82,20 @@ Trigger: A creature damages the ankheg
 
 **Effect:** The ankheg shifts up to 3 squares.
 
-#### Acid Breath (2d10 + 3)
+#### Acid Breath
 
 |                                |                                   |
 | :----------------------------- | :-------------------------------- |
 | Keywords: Area, Weapon         | Type: Villain Action 1            |
 | Distance: 10 x 1 line within 1 | Target: Each creature in the line |
+
+**2d10 + 3**
+
+- ✦ ≤11: 4 acid damage
+- ★ 12-16: 6 acid damage
+- ✸ 17+: 7 acid damage
+
+**:**
 
 **Effect:** The ground within the area is covered in a puddle of acid that lasts until the end of the encounter. A creature who enters the area for the first time in a round or starts their turn there takes 2 acid damage.
 
@@ -88,12 +108,20 @@ Trigger: A creature damages the ankheg
 
 **Effect:** The ankheg shifts up to their speed by burrowing. If the ankheg ends this move underground and within 2 squares of a creature on the surface, the ankheg makes a Bite attack against the creature.
 
-#### Acid and Claws (2d10 + 3)
+#### Acid and Claws
 
 |                        |                                    |
 | :--------------------- | :--------------------------------- |
 | Keywords: Area, Weapon | Type: Villain Action 3             |
 | Distance: 2 burst      | Target: Each creature in the burst |
+
+**2d10 + 3**
+
+- ✦ ≤11: 5 acid damage; M2 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 7 acid damage; M3 [[Bleeding|bleeding]] (save ends)
+- ✸ 17+: 10 acid damage; M4 [[Bleeding|bleeding]] (save ends)
+
+**:**
 
 **Solo Monster**
 

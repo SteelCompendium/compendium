@@ -24,6 +24,8 @@
 - ★ 12-16: 3 corruption damage
 - ✸ 17+: 4 corruption damage; the target moves up to their speed away from all shades
 
+**:**
+
 **Corruptive Phasing**
 
 The shade can move through other creatures and objects at normal speed. The first time in a round that the shade passes through a creature, that creature takes 2 corruption damage.

@@ -24,6 +24,8 @@
 - ★ 12-16: 2 damage; shift 1
 - ✸ 17+: 3 damage; shift 2
 
+**:**
+
 **Shield? Shield!**
 
 The tiro has increased Stability by 1 and can act as cover for allies when adjacent to an ally who also has this trait.

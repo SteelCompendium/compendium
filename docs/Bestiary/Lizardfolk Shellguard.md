@@ -24,6 +24,8 @@
 - ★ 12-16: 4 damage
 - ✸ 17+: 5 damage
 
+**:**
+
 **Effect:** All allies have **advantage** against the target's next attack.
 
 **Reptilian Escape**

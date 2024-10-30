@@ -24,6 +24,8 @@
 - ★ 12-16: 7 fire damage
 - ✸ 17+: 10 fire damage
 
+**:**
+
 #### Drangolin Plume (5 Malice)
 
 |                |              |
@@ -45,6 +47,8 @@
 - ✦ ≤11: 4 damage; push 1; 1 [[Prone|prone]]
 - ★ 12-16: 7 damage; push 3; 2 [[Prone|prone]]
 - ✸ 17+: 10 damage; push 5; 3 [[Prone|prone]]
+
+**:**
 
 **Effect:** This attack has an edge against targets directly above the drangolin.
 

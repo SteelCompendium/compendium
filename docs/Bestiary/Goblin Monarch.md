@@ -24,6 +24,8 @@
 - ★ 12-16: 5 damage
 - ✸ 17+: 7 damage
 
+**:**
+
 **Effect:** An ally within 10 of the monarch can make a [[Free Strike|free strike]].
 
 #### Get in Here! (1 Malice)

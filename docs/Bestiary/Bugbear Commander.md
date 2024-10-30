@@ -24,6 +24,8 @@
 - ★ 12-16: 8 damage
 - ✸ 17+: 11 damage; one target is [[Grabbed|grabbed]]
 
+**:**
+
 **Effect:** 1 ally within 5 of the commander has an edge on their next attack until the start of the commander's next turn.
 
 #### You Next!

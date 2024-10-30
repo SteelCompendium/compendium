@@ -24,6 +24,8 @@
 - ★ 12-16: 5 corruption damage; I2 [[Weakened|weakened]] (save ends)
 - ✸ 17+: 6 corruption damage; I3 [[Weakened|weakened]] (save ends)
 
+**:**
+
 #### Dizzying Hex (1 Malice)
 
 |                                     |                      |
@@ -36,6 +38,8 @@
 - ✦ ≤11: [[Prone]] and can't stand (save ends)
 - ★ 12-16: [[Prone]] and can't stand (EoT)
 - ✸ 17+: No effect
+
+**:**
 
 **Crafty**
 

@@ -24,6 +24,8 @@
 - ★ 12-16: 4 damage
 - ✸ 17+: 5 damage
 
+**:**
+
 **Effect:** If this ability is used while Charging, the [[Raider|raider]] can make a ranged [[Free Strike|free strike]] with a distance of 5 before using the ability.
 
 **Supernatural Insight**

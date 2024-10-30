@@ -24,6 +24,8 @@
 - ★ 12-16: 5 psychic damage; I3 [[Slowed|slowed]] (save ends)
 - ✸ 17+: 7 psychic damage; I4 [[Slowed|slowed]] (save ends)
 
+**:**
+
 **Effect:** An ally within 10 squares of the chorogaunt can shift up to their speed.
 
 #### Chaotic Entrancing Harmony

@@ -24,6 +24,8 @@
 - ★ 12-16: 5 damage; 3 [[Weakened|weakened]] (save ends)
 - ✸ 17+: 6 damage; 4 [[Weakened|weakened]] (save ends)
 
+**:**
+
 **Effect:** Any allies adjacent to a target of this attack can make a [[Free Strike|free strike]].
 
 **3 Malice:** Targets [[Weakened|weakened]] by this attack are now [[Restrained|restrained]] while they are [[Weakened|weakened]].

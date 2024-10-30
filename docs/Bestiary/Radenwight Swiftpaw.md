@@ -24,6 +24,8 @@
 - ★ 12-16: 4 damage; slide 2; the swiftpaw can shift 2 squares
 - ✸ 17+: 5 damage; slide 3; the swiftpaw can shift 3 squares
 
+**:**
+
 #### Ready Rodent
 
 |                         |                        |

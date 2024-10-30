@@ -24,6 +24,8 @@
 - ★ 12-16: 3 damage
 - ✸ 17+: 4 damage
 
+**:**
+
 **Effect:** This ability ignores cover and concealment.
 
 **Loyalty Collar**

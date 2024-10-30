@@ -24,6 +24,8 @@
 - ★ 12-16: 3 poison damage
 - ✸ 17+: 4 poison damage
 
+**:**
+
 **Horrid Stench**
 
 Any enemy who has three or more pitlings within 2 squares of them can't regain Stamina.

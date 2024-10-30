@@ -24,6 +24,8 @@
 - ★ 12-16: 2 damage
 - ✸ 17+: 3 damage
 
+**:**
+
 **Effect:** The crawling claw shifts a number of squares equal to the damage dealt.
 
 **Disorganized**

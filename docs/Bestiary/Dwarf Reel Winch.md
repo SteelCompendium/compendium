@@ -24,6 +24,8 @@
 - ★ 12-16: 5 damage; M2 [[Slowed|slowed]] (save ends)
 - ✸ 17+: 7 damage; M3 [[Restrained|restrained]] (save ends)
 
+**:**
+
 **2 Malice:** Pull 5. A target [[Restrained|restrained]] by a [[Dwarf|dwarf]], including by this ability, can be pulled this way.
 
 #### Reel Them In (3 Malice)

@@ -24,14 +24,24 @@
 - ★ 12-16: 9 damage; 2 [[Prone|prone]]
 - ✸ 17+: 12 damage; 3 [[Prone|prone]]
 
+**:**
+
 **Effect:** The pouncer makes a [[Free Strike|free strike]] against each target they have knocked [[Prone|prone]].
 
-#### Sparkling Tail Whip (2d10 + 2)
+#### Sparkling Tail Whip
 
 |                       |                                              |
 | :-------------------- | :------------------------------------------- |
 | Keywords: Area, Magic | Type: Action                                 |
 | Distance: 2 burst     | Target: All enemies and objects in the burst |
+
+**2d10 + 2**
+
+- ✦ ≤11: 2 damage; 1 dazzled (save ends)
+- ★ 12-16: 4 damage; 2 dazzled (save ends)
+- ✸ 17+: 6 damage; 3 dazzled (save ends)
+
+**:**
 
 **Effect:** A dazzled creature has a bane on their attacks and can't have line of effect to targets who aren't adjacent to them.
 
@@ -47,6 +57,8 @@
 - ✦ ≤11: [[Dazed]] (save ends)
 - ★ 12-16: [[Dazed]] (EoT)
 - ✸ 17+: No effect
+
+**:**
 
 **Effect:** Targets [[Dazed|dazed]] by this ability have a speed of 0 while [[Dazed|dazed]]. If a [[Dazed|dazed]] target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.
 

@@ -24,6 +24,8 @@
 - ★ 12-16: 7 corruption damage; I2 [[Weakened|weakened]] (save ends)
 - ✸ 17+: 10 corruption damage; I3 [[Weakened|weakened]] (save ends)
 
+**:**
+
 **2 Malice:** The death cultist regains Stamina equal to half the damage dealt by this ability.
 
 #### Rise, My Minions (1 Malice per minion)

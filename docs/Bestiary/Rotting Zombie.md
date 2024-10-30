@@ -24,6 +24,8 @@
 - ★ 12-16: 3 damage; M1 [[Slowed|slowed]] (save ends)
 - ✸ 17+: 4 damage; M2 [[Prone|prone]] if size 1, [[Slowed|slowed]] (save ends) otherwise
 
+**:**
+
 **Arise Together**
 
 If the rotting [[Zombie|zombie]]'s captain has the Arise trait, the [[Zombie|zombie]] also gains the Arise trait.

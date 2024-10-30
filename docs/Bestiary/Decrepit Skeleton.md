@@ -24,6 +24,8 @@
 - ★ 12-16: 3 damage
 - ✸ 17+: 4 damage
 
+**:**
+
 **Effect:** The decrepit [[Skeleton|skeleton]] chooses one other target within distance to take 1 damage.
 
 **Bonetrops**

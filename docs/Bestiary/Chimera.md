@@ -24,6 +24,8 @@
 - ★ 12-16: 10 damage
 - ✸ 17+: 13 damage
 
+**:**
+
 **Effect:** This attack has an edge if the chimera has an edge on the attack.
 
 #### Dragon's Eruption (7 Malice)
@@ -39,12 +41,22 @@
 - ★ 12-16: 10 fire damage
 - ✸ 17+: 6 fire damage
 
-#### Lion's Toss (2d10 + 3)
+**:**
+
+#### Lion's Toss
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Maneuver               |
 | Distance: Melee 2               | Target: 1 creature or object |
+
+**2d10 + 3**
+
+- ✦ ≤11: vertical push 1
+- ★ 12-16: vertical push 3
+- ✸ 17+: vertical push 5
+
+**:**
 
 #### Roar (5 Malice)
 
@@ -59,7 +71,9 @@
 - ★ 12-16: 8 psychic damage; I2 [[Frightened|frightened]] (save ends)
 - ✸ 17+: 10 psychic damage; I3 [[Frightened|frightened]] (save ends)
 
-#### Ram's Defiance (2d10 + 3)
+**:**
+
+#### Ram's Defiance
 
 |                                 |                        |
 | :------------------------------ | :--------------------- |
@@ -67,6 +81,14 @@
 | Distance: Ranged 5              | Target: 1 creature     |
 
 Trigger: The target attacks the chimera and gets a tier-1 result.
+
+**2d10 + 3**
+
+- ✦ ≤11: 3 damage; M2 [[Slowed|slowed]] (save ends)
+- ★ 12-16: 5 damage; [[Prone|prone]]; M3 [[Slowed|slowed]] (save ends)
+- ✸ 17+: 7 damage; [[Prone|prone]]; M4 [[Slowed|slowed]] (save ends)
+
+**:**
 
 **Effect:** The chimera shifts 5. If they end this movement adjacent to the target, roll power.
 
