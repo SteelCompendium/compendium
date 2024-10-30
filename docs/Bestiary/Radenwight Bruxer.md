@@ -24,8 +24,6 @@
 - ★ 12-16: 9 damage; M3 [[Grabbed|grabbed]]
 - ✸ 17+: 12 damage; [[Grabbed|grabbed]]
 
-**:**
-
 **Effect:** While the target is [[Grabbed|grabbed]], they take 2 damage at the start of each of the bruxer's turns.
 
 #### Flurry of Bites (3 Malice)
@@ -40,8 +38,6 @@
 - ✦ ≤11: 3 damage; A1 [[Bleeding|bleeding]] (save ends)
 - ★ 12-16: 5 damage; A2 [[Bleeding|bleeding]] (save ends)
 - ✸ 17+: 6 damage; A3 [[Bleeding|bleeding]] (save ends)
-
-**:**
 
 #### Ready Rodent
 

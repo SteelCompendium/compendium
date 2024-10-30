@@ -24,8 +24,6 @@
 - ★ 12-16: 5 acid damage; M2 [[Bleeding|bleeding]] (save ends)
 - ✸ 17+: 7 acid damage; M3 [[Bleeding|bleeding]] (save ends)
 
-**:**
-
 **Effect:** A detonator attaches to the target. At the end of each round, roll a die. On an odd result, the detonator explodes, triggering the power roll.
 
 **Special:** An adjacent creature can attempt an easy Agility test to remove the detonator as a maneuver. A failure does nothing, a success disarms and destroys the detonator, and a success with a reward allows the disarming creature to throw the detonator onto another target within 5 squares.

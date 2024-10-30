@@ -24,8 +24,6 @@
 - ★ 12-16: 2 damage
 - ✸ 17+: 3 damage
 
-**:**
-
 **Effect:** All kobolds ignore opportunity attacks from the target until the start of the veles' next turn.
 
 **Shield? Shield!**

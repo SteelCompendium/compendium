@@ -24,8 +24,6 @@
 - ★ 12-16: 7 damage; push 3
 - ✸ 17+: 10 damage; push 5
 
-**:**
-
 **Effect:** The tree chirurgeon can make a ranged [[Free Strike|free strike]] before attacking.
 
 **5 Malice:** The tree chirurgeon uses this ability again.

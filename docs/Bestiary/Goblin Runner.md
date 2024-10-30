@@ -24,8 +24,6 @@
 - ★ 12-16: 3 damage
 - ✸ 17+: 4 damage
 
-**:**
-
 **Crafty**
 
 The runner doesn't provoke opportunity attacks by moving.

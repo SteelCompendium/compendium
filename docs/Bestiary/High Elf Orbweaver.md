@@ -24,8 +24,6 @@
 - ★ 12-16: 4 damage; M2 [[Slowed|slowed]] (EoT)
 - ✸ 17+: 5 cold damage; M3 [[Prone|prone]]
 
-**:**
-
 #### Aetherweb
 
 |                         |                              |
@@ -38,8 +36,6 @@
 - ✦ ≤11: 3 damage; R1 [[Slowed|slowed]] (save ends)
 - ★ 12-16: 5 damage; R2 [[Slowed|slowed]] (save ends)
 - ✸ 17+: 6 damage; R3 [[Restrained|restrained]] (save ends)
-
-**:**
 
 **Effect:** Each enemy within 3 of a target suffers the same additional effects as the target unless they shift into an unoccupied square adjacent to them.
 

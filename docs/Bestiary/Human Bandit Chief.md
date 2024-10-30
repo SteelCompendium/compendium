@@ -24,8 +24,6 @@
 - ★ 12-16: 9 damage; pull 2
 - ✸ 17+: 12 damage; pull 3
 
-**:**
-
 **Effect:** A target who is adjacent to the bandit chief after the attack is resolved takes double edge corruption damage.
 
 **2 Malice:** The bandit chief attacks an additional target.
@@ -42,8 +40,6 @@
 - ✦ ≤11: Push 1; M2 [[Prone|prone]]
 - ★ 12-16: Push 2; M3 [[Prone|prone]]
 - ✸ 17+: Push 4; M4 [[Prone|prone]]
-
-**:**
 
 **2 Malice:** This ability targets each enemy adjacent to the bandit chief.
 

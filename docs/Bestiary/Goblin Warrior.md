@@ -24,8 +24,6 @@
 - ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
-**:**
-
 #### Bury the Point (2 Malice)
 
 |                                 |                      |
@@ -38,8 +36,6 @@
 - ✦ ≤11: 3 damage; M1 [[Bleeding|bleeding]] (save ends)
 - ★ 12-16: 7 damage; M2 [[Bleeding|bleeding]] (save ends)
 - ✸ 17+: 8 damage; M3 [[Bleeding|bleeding]] (save ends)
-
-**:**
 
 **Crafty**
 

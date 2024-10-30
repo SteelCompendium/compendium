@@ -24,8 +24,6 @@
 - ★ 12-16: 10 corruption damage; A3 [[Weakened|weakened]] (save ends)
 - ✸ 17+: 13 corruption damage; A4 [[Weakened|weakened]] (save ends)
 
-**:**
-
 **Effect:** A creature [[Weakened|weakened]] by this ability takes 1d6 corruption damage at the start of each of their turns until the condition ends.
 
 #### Soul Steal
@@ -40,8 +38,6 @@
 - ✦ ≤11: 4 corruption damage
 - ★ 12-16: 7 corruption damage; P2 target has a bane on power rolls (save ends)
 - ✸ 17+: 10 corruption damage; P3 target has a double bane on power rolls (save ends)
-
-**:**
 
 **Effect:** This ability has an edge against creatures with a soul. The hag regains Stamina equal to half the total damage dealt.
 
@@ -71,8 +67,6 @@ Trigger: A creature hits Shtriga Nona with a melee attack.
 - ★ 12-16: Slide 3; [[Slowed|slowed]] (EoT)
 - ✸ 17+: Slide 2
 
-**:**
-
 **Effect:** A creature [[Restrained|restrained]] by this ability that is force moved vertically is suspended in midair until the condition ends.
 
 #### Snackies for Sweeties
@@ -87,8 +81,6 @@ Trigger: A creature hits Shtriga Nona with a melee attack.
 - ✦ ≤11: 4 poison damage; A2 [[Bleeding|bleeding]] (save ends)
 - ★ 12-16: 6 poison damage; A3 [[Bleeding|bleeding]] (save ends)
 - ✸ 17+: 4 poison damage; A4 [[Bleeding|bleeding]] (save ends)
-
-**:**
 
 **Effect:** The hag attaches an ornate explosive pastry to each target. Roll power at the end of the round, targeting each creature with a pastry attached to them and all creatures and objects within 2 of each pastry.
 
@@ -115,8 +107,6 @@ Trigger: A creature hits Shtriga Nona with a melee attack.
 - ✦ ≤11: 6 fire damage; A2 [[Weakened|weakened]] (save ends)
 - ★ 12-16: 10 fire damage; A3 [[Weakened|weakened]] (save ends)
 - ✸ 17+: 13 fire damage; A4 [[Weakened|weakened]] (save ends)
-
-**:**
 
 **Effect:** The hag turns the affected area into a roiling oven. The hag gains one edge on attacks and abilities against a creature each time they enter an affected square or start their turn there.
 

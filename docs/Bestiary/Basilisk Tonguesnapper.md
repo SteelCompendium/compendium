@@ -24,8 +24,6 @@
 - ★ 12-16: 8 acid damage; pull 2
 - ✸ 17+: 12 acid damage; pull 3
 
-**:**
-
 **Effect:** This attack can pull targets [[Restrained|restrained]] by Petrifying Eye Beams.
 
 **3 Malice:** The tonguesnapper targets two additional creatures or objects.
@@ -43,8 +41,6 @@
 - ★ 12-16: [[Slowed]] (save ends)
 - ✸ 17+: [[Slowed]] (EoT)
 
-**:**
-
 **Effect:** The tonguesnapper targets the first unobstructed creature in each column of the area. Each target magically begins to turn to stone. An already [[Slowed|slowed]] target has a bane on resisting the roll. A creature [[Restrained|restrained]] by this ability or a creature adjacent to them can use an action to cut the encroaching stone from their body, taking 8 damage which can't be reduced in any way and ending the effect.
 
 #### Wink (2 Malice)
@@ -59,8 +55,6 @@
 - ✦ ≤11: 6 corruption damage; R1 [[Dazed|dazed]] (save ends)
 - ★ 12-16: 8 corruption damage; R2 [[Dazed|dazed]] (save ends)
 - ✸ 17+: 12 corruption damage; R3 [[Dazed|dazed]] and [[Slowed|slowed]] (save ends)
-
-**:**
 
 **Effect:** A creature [[Dazed|dazed]] by this ability can't benefit from edges or concealment until the condition ends.
 

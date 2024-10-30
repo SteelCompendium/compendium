@@ -24,8 +24,6 @@
 - ★ 12-16: 4 lightning damage
 - ✸ 17+: 5 lightning damage
 
-**:**
-
 **Effect:** If the apprentice mage doesn't use a maneuver or a move action this turn, the target is [[Slowed|slowed]] (EoT).
 
 **Studied Supernatural Insight**

@@ -24,8 +24,6 @@
 - ★ 12-16: 9 damage; A2 [[Restrained|restrained]] (save ends)
 - ✸ 17+: 12 damage; A3 [[Restrained|restrained]] (save ends)
 
-**:**
-
 **Effect:** The tree gweiadur can shift 3 after making the attack.
 
 **3 Malice:** If this attack restrains the target, an enemy within 1 of the target is also [[Restrained|restrained]] (save ends).
@@ -42,8 +40,6 @@
 - ✦ ≤11: 2 damage; R1 marked (save ends)
 - ★ 12-16: 4 damage; R2 [[Slowed|slowed]] and marked (save ends)
 - ✸ 17+: 6 damage; R3 [[Slowed|slowed]] and marked (save ends)
-
-**:**
 
 **Effect:** Allies have **+1** on attacks and abilities against marked creatures and objects.
 

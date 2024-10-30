@@ -24,8 +24,6 @@
 - ★ 12-16: 7 damage; push 3
 - ✸ 17+: 10 damage; push 5
 
-**:**
-
 **Effect:** If the target is adjacent to a wall or object after the power roll is resolved, they are [[Restrained|restrained]] (EoT). A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack.
 
 **5 Malice:** If the target is pushed into another creature, both the target and the creature are [[Restrained|restrained]] (EoT).

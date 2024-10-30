@@ -24,8 +24,6 @@
 - ★ 12-16: 4 damage; pull 2
 - ✸ 17+: 5 damage; pull 3
 
-**:**
-
 **Effect:** If the target's [[Forced Movement|forced movement]] triggers a trap, the target has a bane on all resistance rolls against that trap.
 
 #### Activate Trap

@@ -24,8 +24,6 @@
 - ★ 12-16: 7 damage; push 2
 - ✸ 17+: 10 damage; push 3; [[Prone|prone]]
 
-**:**
-
 **Effect:** This attack has edge while charging.
 
 #### Vengeful Tusker

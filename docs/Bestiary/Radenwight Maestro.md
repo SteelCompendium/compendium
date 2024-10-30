@@ -24,8 +24,6 @@
 - ★ 12-16: 5 sonic damage; slide 3; the maestro can shift 3 squares
 - ✸ 17+: 7 sonic damage; slide 5; the maestro can shift 5 squares
 
-**:**
-
 **Effect:** Each ally within distance can use Ready Rodent as a free triggered action once before the end of the round.
 
 #### Tempo Change
@@ -40,8 +38,6 @@
 - ✦ ≤11: [[Slowed]] (save ends)
 - ★ 12-16: [[Slowed]] (EoT)
 - ✸ 17+: No effect
-
-**:**
 
 **3 Malice:** Each ally within 3 of a target has their speed increased by 2 until the end of their next turn.
 

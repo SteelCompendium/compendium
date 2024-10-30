@@ -24,8 +24,6 @@
 - ★ 12-16: 4 damage
 - ✸ 17+: 5 damage
 
-**:**
-
 **Effect:** [[Taunted]] (EoT).
 
 **3 Malice:** The legionary and their squad can shift 2 before this attack is made.

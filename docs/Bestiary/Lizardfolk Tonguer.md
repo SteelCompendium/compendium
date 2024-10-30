@@ -24,8 +24,6 @@
 - ★ 12-16: 5 damage; pull 2 or shift 2 towards target
 - ✸ 17+: 6 damage; pull 3 or shift 3 towards target
 
-**:**
-
 **Effect:** If the target ends up in a space adjacent to the tonguer, they are also [[Grabbed|grabbed]].
 
 **Reptilian Escape**

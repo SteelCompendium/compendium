@@ -24,8 +24,6 @@
 - ★ 12-16: 10 damage; 4 ferocity
 - ✸ 17+: 13 damage; 5 ferocity
 
-**:**
-
 **2 Malice:** The target has P0 lycanthropy. The potency of this attack increases by 1 each time the werewolf forces the same target to resist it.
 
 **Effect:** A creature afflicted with lycanthropy accumulates 2 ferocity at the end of each of their turns whenever they're in combat. Their ferocity does not disappear after completing a respite; they must complete the Find a Cure project to end this condition.
@@ -42,8 +40,6 @@
 - ✦ ≤11: 3 damage
 - ★ 12-16: 4 damage; 1 ferocity; M2 push 3
 - ✸ 17+: 5 damage; 3 ferocity; M3 vertical slide 3
-
-**:**
 
 #### Berserker Slash (5 Malice)
 
@@ -87,8 +83,6 @@ Trigger: The target declares a melee attack against the werewolf after charging 
 - ★ 12-16: [[Frightened]] (EoT)
 - ✸ 17+: no effect
 
-**:**
-
 **Effect:** Enemies that have 1 or more ferocity gain 4 ferocity and howl along with the werewolf.
 
 #### Full Wolf
@@ -112,8 +106,6 @@ Trigger: The target declares a melee attack against the werewolf after charging 
 - ✦ ≤11: 3 damage; 2 ferocity
 - ★ 12-16: 4 damage; 4 ferocity
 - ✸ 17+: 5 damage; 8 ferocity; [[Prone|prone]]
-
-**:**
 
 **Effect:** The werewolf shifts up to twice their speed either before or after the attack.
 

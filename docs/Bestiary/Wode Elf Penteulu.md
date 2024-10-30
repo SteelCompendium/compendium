@@ -24,8 +24,6 @@
 - ★ 12-16: 9 damage; M3 [[Restrained|restrained]] (save ends)
 - ✸ 17+: 12 damage; M4 [[Restrained|restrained]] (save ends)
 
-**:**
-
 **Effect:** The penteulu deals damage to each target one at a time and can [[Teleport|teleport]] 3 squares after damaging a target.
 
 **3 Malice:** Targets [[Restrained|restrained]] by this ability take an additional **+1**.

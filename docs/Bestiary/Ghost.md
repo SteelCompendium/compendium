@@ -24,8 +24,6 @@
 - ★ 12-16: 5 cold damage; P3 [[Slowed|slowed]] (save ends)
 - ✸ 17+: 6 cold damage; P2 [[Slowed|slowed]] (save ends)
 
-**:**
-
 **Effect:** The next attack made against a target has edge.
 
 #### Haunt
@@ -72,8 +70,6 @@ Trigger: A creature within distance targets the ghost with an attack.
 - ★ 12-16: Levitated (EoT)
 - ✸ 17+: No effect
 
-**:**
-
 **Effect:** A levitated target floats 1 square off the ground when they are first affected, then rises 1 square at the end of each of their turns. If a levitated target can't already [[Fly|fly]], they can [[Fly|fly]] but are [[Slowed|slowed]] and [[Weakened|weakened]] while flying in this way.
 
 #### Awful Wail
@@ -88,8 +84,6 @@ Trigger: A creature within distance targets the ghost with an attack.
 - ✦ ≤11: 2 sonic damage
 - ★ 12-16: 5 sonic damage
 - ✸ 17+: 5 sonic damage
-
-**:**
 
 **Effect:** P3: The target is reduced to 1 Stamina if they have 2 or more Stamina after taking damage.
 

@@ -24,8 +24,6 @@
 - ★ 12-16: 8 lightning damage; R3 [[Dazed|dazed]] (save ends)
 - ✸ 17+: 12 lightning damage; R4 [[Dazed|dazed]] (save ends)
 
-**:**
-
 **Effect:** High elves have edge on attacks and abilities against the target until the start of the ordinator's next turn.
 
 #### Call Forth Elementals (2+ Malice)
@@ -78,8 +76,6 @@ Trigger: The target makes an attack against the ordinator or an ally within dist
 - ✦ ≤11: 8 corruption damage; pull 5 towards center of cube
 - ★ 12-16: 5 corruption damage; pull 3 towards center of cube
 - ✸ 17+: Pull 1 towards center of cube
-
-**:**
 
 **Effect:** The affected area becomes darkened, and its space warps violently in every direction.
 

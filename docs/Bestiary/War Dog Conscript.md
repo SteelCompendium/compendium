@@ -24,8 +24,6 @@
 - ★ 12-16: 3 damage
 - ✸ 17+: 4 damage
 
-**:**
-
 **Effect:** If this ability is used as part of the [[Charge]] action, the conscript has **edge** on the attack.
 
 **Loyalty Collar**

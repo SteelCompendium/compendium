@@ -24,6 +24,4 @@
 - ★ 12-16: 3 poison damage
 - ✸ 17+: 4 poison damage
 
-**:**
-
 **Effect:** The target has a bane on their next attack.

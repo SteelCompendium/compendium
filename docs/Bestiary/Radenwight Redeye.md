@@ -24,8 +24,6 @@
 - ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
-**:**
-
 **Effect:** An ally of the redeye within 2 squares of the target can shift up to 2 squares.
 
 #### Ready Rodent

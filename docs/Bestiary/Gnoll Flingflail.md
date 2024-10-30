@@ -24,8 +24,6 @@
 - ★ 12-16: 4 damage; push 1
 - ✸ 17+: 5 damage; push 3
 
-**:**
-
 **Death Frenzy**
 
 Whenever an ally within 5 is reduced to 0 Stamina, the flingflail archer moves up to their speed and makes a [[Free Strike|free strike]].

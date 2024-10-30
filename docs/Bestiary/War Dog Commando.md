@@ -24,8 +24,6 @@
 - ★ 12-16: 4 damage
 - ✸ 17+: 5 damage
 
-**:**
-
 **Effect:** The commando can use the [[Hide]] maneuver, even if observed.
 
 **Loyalty Collar**

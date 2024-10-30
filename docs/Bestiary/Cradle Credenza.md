@@ -33,8 +33,6 @@
 - ★ 12-16: 3 fire damage; 3 cold damage; 3 lightning damage; push 3
 - ✸ 17+: 4 fire damage; 4 cold damage; 4 lightning damage; push 5
 
-**:**
-
 **[[Defend]] the Books**
 
 Each ally within 5 of a creature that attacks the cradle credenza can make a [[Free Strike|free strike]] against them.

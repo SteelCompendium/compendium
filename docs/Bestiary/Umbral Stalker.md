@@ -24,8 +24,6 @@
 - ★ 12-16: 5 cold damage
 - ✸ 17+: 6 cold damage
 
-**:**
-
 **Effect:** The shadow can shift up to 2 squares before or after this attack.
 
 #### Freezing Dark (3 Malice)
@@ -40,8 +38,6 @@
 - ✦ ≤11: 1 cold damage
 - ★ 12-16: 2 cold damage
 - ✸ 17+: 3 cold damage
-
-**:**
 
 **Effect:** Until the end of the umbral stalker's next turn, the area is concealed and blocks line of effect for all enemies.
 

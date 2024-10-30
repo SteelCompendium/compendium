@@ -24,8 +24,6 @@
 - ★ 12-16: 5 damage; M1 [[Bleeding|bleeding]] (save ends)
 - ✸ 17+: 6 damage; M2 [[Bleeding|bleeding]] (save ends)
 
-**:**
-
 #### Salt Wounds (3 Malice)
 
 |                         |                                              |
@@ -38,8 +36,6 @@
 - ✦ ≤11: 2 corruption damage
 - ★ 12-16: 5 corruption damage
 - ✸ 17+: 6 corruption damage
-
-**:**
 
 **Lethe**
 

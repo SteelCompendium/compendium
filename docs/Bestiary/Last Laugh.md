@@ -24,8 +24,6 @@
 - ★ 12-16: 7 damage; A3 [[Bleeding|bleeding]] (save ends)
 - ✸ 17+: 10 damage; A4 [[Bleeding|bleeding]] and [[Dazed|dazed]] (save ends)
 
-**:**
-
 **Effect:** An ally targeted by this ability makes a [[Free Strike|free strike]] instead of taking damage.
 
 #### Cackletongue (4 Malice)
@@ -49,8 +47,6 @@
 - ✦ ≤11: [[Frightened]] of the last laugh (save ends)
 - ★ 12-16: [[Frightened]] of the last laugh (EoT)
 - ✸ 17+: No effect
-
-**:**
 
 **Effect:** While [[Frightened|frightened]] by this ability, targets laugh uncontrollably and cannot use triggered actions.
 

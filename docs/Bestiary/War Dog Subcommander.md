@@ -24,8 +24,6 @@
 - ★ 12-16: 5 damage
 - ✸ 17+: 7 damage
 
-**:**
-
 **Effect:** An ally within 5 squares of the subcommander can make a [[Free Strike|free strike]] against the target.
 
 #### Posthumous Promotion

@@ -24,8 +24,6 @@
 - ★ 12-16: 6 damage; slide 3; M2 [[Slowed|slowed]] (save ends)
 - ✸ 17+: 9 damage; slide 5; M3 [[Restrained|restrained]] (save ends)
 
-**:**
-
 **Effect:** A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by this attack.
 
 #### Stone Wave (3 Malice)
@@ -40,8 +38,6 @@
 - ✦ ≤11: 2 damage; push 2; R1 [[Slowed|slowed]] (save ends)
 - ★ 12-16: 3 damage; push 3; R2 [[Slowed|slowed]] (save ends)
 - ✸ 17+: 4 damage; push 3; R3 [[Slowed|slowed]] (save ends)
-
-**:**
 
 **Effect:** A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack. The affected area is [[Difficult Terrain|difficult terrain]] for enemies.
 

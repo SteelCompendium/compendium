@@ -24,8 +24,6 @@
 - ★ 12-16: 8 lightning damage
 - ✸ 17+: 11 lightning damage
 
-**:**
-
 **5 Malice:** The ability takes the Area keyword and becomes a 10 × 1 line that targets each creature in the area.
 
 #### Gust of Wind (3 Malice)
@@ -40,8 +38,6 @@
 - ✦ ≤11: Slide 5; [[Slowed|slowed]] (save ends)
 - ★ 12-16: Slide 3; [[Slowed|slowed]] (EoT)
 - ✸ 17+: Slide 1
-
-**:**
 
 **Effect:** The gust of wind disperses gas or vapor and extinguishes any flames, including [[Persistent|persistent]] effects.
 

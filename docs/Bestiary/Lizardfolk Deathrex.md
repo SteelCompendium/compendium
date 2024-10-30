@@ -24,8 +24,6 @@
 - ★ 12-16: 7 damage; pull 1; A3 [[Bleeding|bleeding]] (save ends)
 - ✸ 17+: 10 damage; pull 2; A4 [[Bleeding|bleeding]] (save ends)
 
-**:**
-
 **1 Malice:** One target that is adjacent to the deathrex is [[Grabbed|grabbed]] by the deathrex's mouth.
 
 #### Death Roll (3 Malice)
@@ -40,8 +38,6 @@
 - ✦ ≤11: 5 damage; M2 [[Dazed|dazed]] (save ends)
 - ★ 12-16: 10 damage; M3 [[Dazed|dazed]] (save ends)
 - ✸ 17+: 15 damage; M4 [[Dazed|dazed]] (save ends)
-
-**:**
 
 **Effect:** The target is released from the [[Grab|grab]] and slides 5.
 

@@ -24,8 +24,6 @@
 - ★ 12-16: 4 damage; A3 [[Bleeding|bleeding]] (save ends)
 - ✸ 17+: 5 damage; A4 [[Bleeding|bleeding]] and [[Dazed|dazed]] (save ends)
 
-**:**
-
 **3 Malice:** The bredbeddle shifts up to 2 squares and can target additional enemies who come within distance of this ability during the move.
 
 #### Lop (3 Malice)
@@ -40,8 +38,6 @@
 - ✦ ≤11: 6 damage; [[Bleeding|bleeding]] (save ends) or M2 beheaded (see effect)
 - ★ 12-16: 10 damage; [[Bleeding|bleeding]] (save ends) or M3 beheaded (see effect)
 - ✸ 17+: 13 damage; [[Bleeding|bleeding]] (save ends) or M4 beheaded (see effect)
-
-**:**
 
 **Effect:** A beheaded target has their head fall into an unoccupied square adjacent to the bredbeddle, but they remain alive. While beheaded, the target is [[Dazed|dazed]] and can't have line of effect to any creature other than themselves. The beheaded target can survive without their head for 24 hours, and can reattach their head by entering its square and using a maneuver to do so. A target who remains beheaded for 24 hours dies.
 
@@ -66,8 +62,6 @@
 - ✦ ≤11: 3 damage; M2 [[Dazed|dazed]] (save ends)
 - ★ 12-16: 5 damage; [[Prone|prone]]; M3 [[Dazed|dazed]] (save ends)
 - ✸ 17+: 7 damage; [[Prone|prone]]; M4 [[Dazed|dazed]] (save ends)
-
-**:**
 
 **Effect:** The bredbeddle must have a head in their possession (attached to them or not), which they throw at the target. If the head was attached, the bredbeddle becomes headless.
 
@@ -95,8 +89,6 @@ Trigger: A creature targets the bredbeddle with a ranged magic attack.
 - ★ 12-16: The target turns green (save ends)
 - ✸ 17+: No effect
 
-**:**
-
 **Effect:** Green shadows [[Crawl|crawl]] out from under the bredbeddle's feet and attempt to turn each target green. The bredbeddle has a double edge on attacks made against targets turned green in this way.
 
 #### Challenge
@@ -120,8 +112,6 @@ Trigger: A creature targets the bredbeddle with a ranged magic attack.
 - ✦ ≤11: 3 damage; [[Bleeding|bleeding]] (save ends) or M2 beheaded (see Lop)
 - ★ 12-16: 4 damage; [[Bleeding|bleeding]] (save ends) or M3 beheaded (see Lop)
 - ✸ 17+: 5 damage; [[Bleeding|bleeding]] (save ends) or M4 beheaded (see Lop)
-
-**:**
 
 **Solo Monster**
 

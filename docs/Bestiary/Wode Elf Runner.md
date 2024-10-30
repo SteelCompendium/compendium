@@ -24,8 +24,6 @@
 - ★ 12-16: 4 damage
 - ✸ 17+: 5 damage
 
-**:**
-
 **Effect:** The runner can shift 2 before making the attack.
 
 **Masking Glamor**

@@ -24,8 +24,6 @@
 - ★ 12-16: 7 damage
 - ✸ 17+: 10 damage
 
-**:**
-
 **Effect:** The trickshot ignores cover and concealment.
 
 **3 Malice:** The trickshot attacks an additional target.

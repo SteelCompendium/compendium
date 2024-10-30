@@ -24,8 +24,6 @@
 - ★ 12-16: 9 damage; A2 [[Bleeding|bleeding]] (save ends)
 - ✸ 17+: 12 damage; A3 [[Bleeding|bleeding]] (save ends)
 
-**:**
-
 **Effect:** The potency of this attack increases by 1 if the target is [[Grabbed|grabbed]] by the scaletooth.
 
 #### Tail Whip (2 Malice)
@@ -40,8 +38,6 @@
 - ✦ ≤11: 3 damage; slide 1; M1 grappled
 - ★ 12-16: 5 damage; slide 2; M2 grappled
 - ✸ 17+: 6 damage; slide 3; M3 grappled if within 2 of the scaletooth
-
-**:**
 
 **Effect:** The scaletooth needs their tail to use this ability. The scaletooth can't grapple more than one creature or object with this ability.
 

@@ -24,8 +24,6 @@
 - ★ 12-16: 8 damage; A2 vertical push 3
 - ✸ 17+: 11 damage; A3 vertical slide 5
 
-**:**
-
 **1 Malice:** Each target is M2 [[Bleeding|bleeding]] (save ends).
 
 #### Earth Breaking Jump
@@ -41,8 +39,6 @@
 - ★ 12-16: 4 damage; push 2; M2 [[Prone|prone]]
 - ✸ 17+: 5 damage; push 4; M3 [[Prone|prone]]
 
-**:**
-
 **Effect:** The juggernaut leaps up to 6 squares before making the attack.
 
 #### Horrible Bellow (2 Malice)
@@ -57,8 +53,6 @@
 - ✦ ≤11: [[Frightened]] (save ends)
 - ★ 12-16: [[Frightened]] (EoT)
 - ✸ 17+: No effect
-
-**:**
 
 **Effect:** Ogres have **advantage** on attacks against creatures [[Frightened|frightened]] by this ability.
 

@@ -24,8 +24,6 @@
 - ★ 12-16: 8 damage; [[Grabbed|grabbed]]
 - ✸ 17+: 11 damage; [[Grabbed|grabbed]]
 
-**:**
-
 **Effect:** A size 1 target [[Grabbed|grabbed]] this way takes 8 acid damage at the start of each of their turns.
 
 #### Claws
@@ -41,8 +39,6 @@
 - ★ 12-16: 4 damage; A3 [[Grabbed|grabbed]]
 - ✸ 17+: 5 damage; A4 [[Grabbed|grabbed]]
 
-**:**
-
 **2 Malice:** The ankheg can vertical slide one or both targets up to 5 squares.
 
 #### Earth Eruption (3 Malice)
@@ -57,8 +53,6 @@
 - ✦ ≤11: 4 damage
 - ★ 12-16: 6 damage
 - ✸ 17+: 7 damage; push 2
-
-**:**
 
 **Effect:** The ankheg [[Burrow|burrows]] up to their speed, then creates the burst when they breach the surface.
 
@@ -95,8 +89,6 @@ Trigger: A creature damages the ankheg
 - ★ 12-16: 6 acid damage
 - ✸ 17+: 7 acid damage
 
-**:**
-
 **Effect:** The ground within the area is covered in a puddle of acid that lasts until the end of the encounter. A creature who enters the area for the first time in a round or starts their turn there takes 2 acid damage.
 
 #### Sinkhole
@@ -120,8 +112,6 @@ Trigger: A creature damages the ankheg
 - ✦ ≤11: 5 acid damage; M2 [[Bleeding|bleeding]] (save ends)
 - ★ 12-16: 7 acid damage; M3 [[Bleeding|bleeding]] (save ends)
 - ✸ 17+: 10 acid damage; M4 [[Bleeding|bleeding]] (save ends)
-
-**:**
 
 **Solo Monster**
 

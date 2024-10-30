@@ -24,8 +24,6 @@
 - ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
-**:**
-
 **Effect:** If the guard is flanked, they can make a [[Free Strike|free strike]] against an additional target adjacent to them.
 
 **Supernatural Insight**

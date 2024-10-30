@@ -24,8 +24,6 @@
 - ★ 12-16: 3 damage
 - ✸ 17+: 4 damage
 
-**:**
-
 **Soulsight**
 
 Each creature within 2 of the frenzied can't be hidden from them.

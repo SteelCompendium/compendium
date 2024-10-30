@@ -24,8 +24,6 @@
 - ★ 12-16: 4 damage; pull 2
 - ✸ 17+: 5 damage; pull 3
 
-**:**
-
 **Effect:** If the target is pulled adjacent to the ensnarer, the ensnarer takes a [[Free Strike|free strike]] against them.
 
 **Soulsight**

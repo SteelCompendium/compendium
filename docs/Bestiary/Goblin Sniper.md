@@ -24,8 +24,6 @@
 - ★ 12-16: 4 damage
 - ✸ 17+: 5 damage
 
-**:**
-
 **Effect:** If the [[Sniper|sniper]] doesn't use a maneuver or a move action this turn, the ability has edge.
 
 **Crafty**

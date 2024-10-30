@@ -24,8 +24,6 @@
 - ★ 12-16: 9 damage; push 4
 - ✸ 17+: 12 damage; push 6; [[Prone|prone]]
 
-**:**
-
 **Effect:** This attack deals **additional damage** to each creature and object that takes damage from any [[Forced Movement|forced movement]] it causes.
 
 #### Grabby Hand
@@ -40,8 +38,6 @@
 - ✦ ≤11: 5 damage
 - ★ 12-16: 9 damage; [[Grabbed|grabbed]]
 - ✸ 17+: 12 damage; [[Grabbed|grabbed]]
-
-**:**
 
 **Effect:** The goon can only have one target [[Grabbed|grabbed]] at a time.
 
@@ -59,8 +55,6 @@
 - ✦ ≤11: 3 damage
 - ★ 12-16: 4 damage
 - ✸ 17+: 6 damage; [[Prone|prone]]
-
-**:**
 
 **Effect:** The goon hurls what's in their hand down the line and rolls power. The hurled creature or object counts as a target and lands in the last square of the line (or nearest unoccupied square of the goon's choice).
 

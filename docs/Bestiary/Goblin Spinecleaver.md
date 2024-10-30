@@ -24,8 +24,6 @@
 - ★ 12-16: 4 damage; push 3
 - ✸ 17+: 5 damage; push 4
 
-**:**
-
 **Crafty**
 
 The spinecleaver doesn't provoke opportunity attacks by moving.

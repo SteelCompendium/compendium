@@ -24,8 +24,6 @@
 - ★ 12-16: 4 damage; M2 [[Bleeding|bleeding]] (save ends)
 - ✸ 17+: 5 damage; M3 [[Bleeding|bleeding]] (save ends)
 
-**:**
-
 #### Leap
 
 |                |                |

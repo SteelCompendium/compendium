@@ -24,8 +24,6 @@
 - ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
-**:**
-
 **Hunter's Glamor**
 
 The scout immediately [[Hide|hides]] at the end of their turn, even if they are observed.

@@ -24,8 +24,6 @@
 - ★ 12-16: 8 damage; slide 1
 - ✸ 17+: 11 damage; slide 1
 
-**:**
-
 **Effect:** The shieldwall can shift 1 to remain adjacent to the target. A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by this attack.
 
 **3 Malice:** The shieldwall targets an additional creature or object.

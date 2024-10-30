@@ -24,8 +24,6 @@
 - ★ 12-16: 4 damage
 - ✸ 17+: 5 damage
 
-**:**
-
 **Tethered**
 
 A captain attached to a tetherite squad has their Stability increased by the number of tetherites within 2 squares of them.

@@ -24,8 +24,6 @@
 - ★ 12-16: 8 damage; pull 3
 - ✸ 17+: 11 damage; pull 4
 
-**:**
-
 **Effect:** [[Taunted]] (EoT).
 
 #### Tongue Pull (2 Malice)

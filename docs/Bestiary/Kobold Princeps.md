@@ -24,8 +24,6 @@
 - ★ 12-16: 2 damage
 - ✸ 17+: 3 damage
 
-**:**
-
 **Effect:** 1 ally within 3 can shift 2.
 
 **Shield? Shield!**

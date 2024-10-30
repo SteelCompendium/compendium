@@ -24,8 +24,6 @@
 - ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
-**:**
-
 #### Sprint (1 Malice)
 
 |                |                |
