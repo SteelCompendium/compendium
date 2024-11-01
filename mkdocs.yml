@@ -40,6 +40,9 @@ extra:
    version:
       provider: mike
    homepage: https://steelcompendium.io
+   analytics:
+      provider: google
+      property: G-PMF9SHHXNY
 
 plugins:
    - search
