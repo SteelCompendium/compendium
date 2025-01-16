@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # Bastion Ward
 
-Your god gives you a holy countenance that protects you at all times. You gain a **+1 bonus to saving throws**.
+You god grants you a holy countenance that protects you at all times. You gain a +1 bonus to saving throws.

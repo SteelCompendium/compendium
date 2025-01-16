@@ -14,10 +14,6 @@ target: 1 creature no more than 1 size larger than you
 
 # Knockback
 
-You attempt to shove an adjacent creature using the following ability:
-
-## Knockback
-
 |                                                                      |                                                            |
 | :------------------------------------------------------------------- | :--------------------------------------------------------- |
 | **Keywords:** Melee, Weapon **Type:** Maneuver **Distance:** Melee 1 | **Type:**                                                  |

@@ -9,10 +9,6 @@ subtype: supernatural perks
 
 # Arcane Trick
 
-You gain the following ability.
-
-## Arcane Trick
-
 *You cast an entertaining spell that creates a minor but impressive magical effect.*
 
 | Keywords: Magic | Type: Action |

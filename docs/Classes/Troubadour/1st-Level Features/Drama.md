@@ -10,23 +10,27 @@ kind: 1st-level features
 
 # Drama
 
-You are fueled by the dynamic ups, downs, and upside downs of battle. You have a Heroic Resource called drama.
+During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a Heroic Resource called drama.
 
 ## Drama In Combat
 
-When a combat encounter (or other stressful situation tracked in rounds as determined by the Director) begins, you gain drama equal to your Victories. At the start of each of your turns during combat, you gain 1d3 drama.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain drama equal to your Victories. At the start of each of your turns during combat, you gain 1d3 drama.
 
-You gain additional drama whenever any of the following events occur during battle:
+Additionally, you gain drama when certain events occur during battle:
 
-- A creature within your line of effect rolls a natural 19 or 20: 3 drama
-- The first time three or more heroes use an ability on the same turn: 2 drama
-- The first time a hero becomes winded: 2 drama
-- A hero, including you, dies: 10 drama
+- **2 Drama:** Three or more heroes use an ability on the same turn for the first time.
+- **2 Drama:** A hero becomes winded for the first time (only once per encounter and not once per hero).
+- **3 Drama:** A creature within your line of effect rolls a natural 19 or 20.
+- **10 Drama:** A hero, including you, dies.
 
-You still gain drama during combat while you are dead and your body is intact. During the encounter you died in, if you have 30 drama accrued, you can choose to come back to life with 1 Stamina and 0 drama as no action. You can't gain drama in future encounters while you remain dead.
+You still gain drama during combat if you are dead as long as your body is intact. During the encounter in which you died, if you have 30 drama, you can come back to life with
 
-Your drama disappears at the end of the encounter.
+1 Stamina and 0 drama (no action required). You can't gain drama in future encounters while you remain dead.
+
+You lose any remaining drama at the end of the encounter.
 
 ## Drama Outside Of Combat
 
-Though you can't gain drama outside of combat, you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect that costs drama outside of combat, you can't use that same ability or effect again outside of combat until you gain at least 1 Victory or finish a Respite.
+Though you can't gain drama outside of combat, you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you gain at least 1 Victory or finish a Respite.
+
+If you use an ability outside of combat that lets you spend unlimited drama on its effect, such as Artful Flourish, you can use it as if you had spent an amount of drama on it equal to your Victories.

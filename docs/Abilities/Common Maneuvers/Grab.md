@@ -13,10 +13,6 @@ distance: Melee 1 **Target:** 1 creature no more than 1 size larger than you
 
 # Grab
 
-You attempt to grab a creature using the following ability:
-
-## Grab
-
 |                                                                                  |             |
 | :------------------------------------------------------------------------------- | :---------- |
 | **Keywords:** Melee **Type:** Maneuver                                           | **Type:**   |

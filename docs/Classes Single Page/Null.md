@@ -38,13 +38,13 @@ The null is an unarmed psionic warrior who dampens and absorbs the effects of ma
 
 **Starting Stamina at 1st Level:** 21
 
-#### **stamina Gained At 2nd And Higher Levels:** 9
+### **stamina Gained At 2nd And Higher Levels:** 9
 
-#### **recoveries:** 8
+### **recoveries:** 8
 
 **Skills:** Psionics, plus choose any two skills from the interpersonal or lore groups. (*Quick Build:* Psionics, Read Person, Timescape)
 
-#### **null Advancement**
+### **null Advancement**
 
 | Level | Features                | Abilities      | Tradition |
 | ----- | ----------------------- | -------------- | --------- |
@@ -110,7 +110,7 @@ Through extensive physical and psionic training, you have learned to unlock the 
 
 Your choice of null tradition determines many of the features you'll gain from this class.
 
-## Discipline
+### Discipline
 
 As your mastery of your body and tradition grows, it imbues you with a Heroic Resource called discipline.
 
@@ -126,11 +126,11 @@ Though you can't gain discipline outside of combat, you can use your heroic abil
 
 If you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline on it equal to your Victories. (Such abilities aren't part of the core rules for the null but might appear in future products.)
 
-## Null Field
+### Null Field
 
 You project a psionic field of order around your body, dampening the effects of supernatural abilities harmful to you and your allies.
 
-#### Null Field
+### Null Field
 
 *You intuit where an incoming attack will strike, reducing its effects.*
 
@@ -149,11 +149,11 @@ Once as a free maneuver on your turn, you can spend 1 discipline and give your N
 
 This ability stays active even after encounters end. It ends if you are dying or if you willingly end it (no action required).
 
-## Inertial Shield
+### Inertial Shield
 
 Your instincts for danger let you predict attacks before they happen.
 
-#### Inertial Shield
+### Inertial Shield
 
 *You intuit where an incoming attack will strike, reducing its effects.*
 
@@ -161,17 +161,17 @@ Your instincts for danger let you predict attacks before they happen.
 
 **Spend 1 Discipline:** You decrease the potency of one effect associated with the damage for you by 1.
 
-## Discipline Mastery
+### Discipline Mastery
 
 The more discipline you channel through your chosen null tradition, the more potent your presence in combat becomes.
 
-### Chronokinetic Mastery
+#### Chronokinetic Mastery
 
 You can use the Disengage move action as a free maneuver when you use Inertial Shield.
 
 As your discipline grows, your psionic mastery of your body intensifies, granting benefits from the Chronokinetic Mastery table.
 
-#### **chronokinetic Mastery**
+### **chronokinetic Mastery**
 
 | Discipline | Benefit                                              |
 | ---------- | ---------------------------------------------------- |
@@ -197,7 +197,7 @@ You can use the Grab maneuver as a free triggered action whenever you use Inerti
 
 As your discipline grows, your psionic mastery of your body intensifies, granting benefits from the Cryokinetic Mastery table.
 
-#### **cryokinetic Mastery**
+### **cryokinetic Mastery**
 
 | Discipline | Benefit                                              |
 | ---------- | ---------------------------------------------------- |
@@ -218,13 +218,13 @@ As your discipline grows, your psionic mastery of your body intensifies, grantin
 |            | o You gain 10 Temporary Stamina when you use a       |
 |            | heroic ability.                                      |
 
-### Metakinetic Mastery
+#### Metakinetic Mastery
 
 You can use the Knockback maneuver as a free triggered action whenever you use Inertial Shield.
 
 As your discipline grows, your psionic mastery of your body intensifies, granting benefits from the Metakinetic Mastery table.
 
-#### **metakinetic Mastery**
+### **metakinetic Mastery**
 
 - **Discipline Benefit** 2 You add your Intuition score to the distance you
 
@@ -245,11 +245,11 @@ As your discipline grows, your psionic mastery of your body intensifies, grantin
 |            | o Gain 10 Temporary Stamina when you use a         |
 |            | heroic ability.                                    |
 
-## Null Speed
+### Null Speed
 
 Your psionic mastery of your body allows you to achieve great quickness. You gain a bonus to your speed and a bonus to the number of squares you shift when you take the Disengage move action equal to your Agility score.
 
-## Psionic Augmentation
+### Psionic Augmentation
 
 Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your focus by undergoing a psionic meditation as a respite activity. (*Quick Build:* Speed Augmentation)
 
@@ -257,7 +257,7 @@ Your training has turned your body into the perfect psionic weapon, shaping path
 
 You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
 
-### Force Augmentation
+#### Force Augmentation
 
 You gain a +1 rolled damage bonus with damage-dealing psionic abilities.
 
@@ -265,7 +265,7 @@ You gain a +1 rolled damage bonus with damage-dealing psionic abilities.
 
 You gain a +1 bonus to speed and to the distance you shift when you take the Disengage move action.
 
-## Psionic Martial Arts
+### Psionic Martial Arts
 
 When you use the Knockback or Grab maneuver, you use Intuition instead of Might for the power roll. If you use Knockback, you can choose to slide the target instead of pushing them.
 
@@ -277,7 +277,7 @@ You rely on a unique blend of martial techniques and psionic prowess to take dow
 
 Select two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Faster than the Eye, Inertial Step)
 
-#### Dance Of Blows
+### Dance Of Blows
 
 *You strike everywhere at once, tricking an enemy into moving out of position.*
 
@@ -286,11 +286,11 @@ Select two signature abilities from the following options. Signature abilities c
 - *11 or lower:* 4 **damage**
 - *12-16:* 5 **damage**
 
-#### O *17+:* 7 **damage**
+### O *17+:* 7 **damage**
 
 **Effect:** You can slide one adjacent enemy up to a number of squares equal to your Intuition score.
 
-#### Faster Than The Eye
+### Faster Than The Eye
 
 *You strike so quickly that your hands become a blur.*
 
@@ -302,7 +302,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 **Effect:** You can deal damage equal to your Agility score to an adjacent creature or object.
 
-#### Inertial Step
+### Inertial Step
 
 *You flit about the battlefield with an opportunistic strike.*
 
@@ -314,7 +314,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 **Effect:** You can shift up to half your speed before or after you make the strike.
 
-#### Joint Lock
+### Joint Lock
 
 *You contort your enemy's body into a stance they struggle to escape from.*
 
@@ -324,7 +324,7 @@ Select two signature abilities from the following options. Signature abilities c
 - *12-16:* 7 + A **damage;** A \< average\*\*, grabbed\*\*
 - *17+:* 9 + A **damage;** A \< strong\*\*, grabbed\*\*
 
-#### Kinetic Strike
+### Kinetic Strike
 
 *Your opponent staggers. They cannot ignore you.*
 
@@ -334,7 +334,7 @@ Select two signature abilities from the following options. Signature abilities c
 - *12-16:* **5 + A damage; taunted (EoT); slide 1**
 - *17+:* **6 + A damage; taunted (EoT); slide 2**
 
-#### Magnetic Strike
+### Magnetic Strike
 
 *The force of your blow extends past the limits of your body, pulling your enemy closer.*
 
@@ -344,7 +344,7 @@ Select two signature abilities from the following options. Signature abilities c
 - *12-16:* 8 + A **psychic damage; vertical pull 2**
 - *17+:* 11 + A **psychic damage; vertical pull 3**
 
-#### Phase Inversion Strike
+### Phase Inversion Strike
 
 *You step momentarily out of phase as you pull an enemy through you.*
 
@@ -356,7 +356,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 **Effect:** Before the push is resolved, teleport the target to a square adjacent to you opposite the one they started in. If the target cannot be teleported, then they ignore the push.
 
-#### Pressure Points
+### Pressure Points
 
 *You strike at key nerve clusters to leave your foe staggered.* **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
 
@@ -370,11 +370,11 @@ Select two signature abilities from the following options. Signature abilities c
 
 You have mastered a range of heroic abilities, all of them channeled through your discipline.
 
-#### 3-discipline Ability
+##### 3-discipline Ability
 
 Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* Chronal Spike)
 
-#### Chronal Spike (3 Discipline)
+### Chronal Spike (3 Discipline)
 
 *You foresee the best moment to strike, then exploit it.*
 
@@ -386,13 +386,13 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 
 **Effect:** You can shift up to half your speed before or after you make the strike. Additionally, whenever an effect lets you use a free strike or a signature ability, you can use this ability instead, paying its discipline cost as usual.
 
-#### Psychic Pulse (3 Discipline)
+### Psychic Pulse (3 Discipline)
 
 *A burst of psionic energy interferes with your enemy's synapses.*
 
 **Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the area of your Null Field ability increases by 1. When you end your turn, each enemy in that area takes psychic damage equal to your Intuition score.
 
-#### Relentless Nemesis (3 Discipline)
+### Relentless Nemesis (3 Discipline)
 
 *You strike, and for the next few moments, your enemy can't escape you.*
 
@@ -404,7 +404,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 
 **Effect:** Until the start of your next turn, when the target moves, you can use a free triggered action to shift up to your speed. You must end this shift adjacent to the target.
 
-#### Stunning Blow (3 Discipline)
+### Stunning Blow (3 Discipline)
 
 *You focus your psionic technique into a debilitating concussive punch.*
 
@@ -414,11 +414,11 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 - *12-16:* **5 + A damage;** I \< average, **dazed and slowed (save ends)**
 - *17+:* **7 + A damage;** I \< strong, **dazed and slowed (save ends)**
 
-#### 5-discipline Ability
+##### 5-discipline Ability
 
 Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* A Squad Unto Myself)
 
-#### Arcane Disruptor (5 Discipline)
+### Arcane Disruptor (5 Discipline)
 
 *Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.*
 
@@ -442,7 +442,7 @@ IMPART FORCE (5 DISCIPLINE)
 
 **Effect:** You gain an edge on this ability. For each square you push the target, they take 1 psychic damage.
 
-#### Phase Strike (5 Discipline)
+### Phase Strike (5 Discipline)
 
 *For a moment, your foe slips out of phase with this manifold.* **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
 
@@ -454,7 +454,7 @@ IMPART FORCE (5 DISCIPLINE)
 
 **Effect:** A target who goes out of phase is removed from the encounter until the end of their next turn, reappearing in their original space or the nearest available space.
 
-#### A Squad Unto Myself (5 Discipline)
+### A Squad Unto Myself (5 Discipline)
 
 *You move so quickly, it seems as though an army assaulted your foes.*
 
@@ -470,15 +470,15 @@ IMPART FORCE (5 DISCIPLINE)
 
 As a 2nd-level null, you gain the following features.
 
-## Perk
+### Perk
 
 You gain an exploration, interpersonal, or intrigue perk of your choice. See Perks for more information.
 
-## 2nd-level Tradition Feature
+### 2nd-level Tradition Feature
 
 Your chosen null tradition grants you a feature as shown on the 2nd-Level Tradition Features table.
 
-#### **2nd-level Tradition Features**
+### **2nd-level Tradition Features**
 
 | Tradition     | Feature               |
 | ------------- | --------------------- |
@@ -500,7 +500,7 @@ Additionally, you have forced movement damage immunity equal to your level and r
 
 As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any respite, you can take an additional respite activity.
 
-## 2nd-level Tradition Ability
+### 2nd-level Tradition Ability
 
 Your null tradition grants your choice of one of two abilities.
 
@@ -516,7 +516,7 @@ BLUR (5 DISCIPLINE)
 
 **Effect:** You can use a signature or heroic ability as a free maneuver. You gain an edge on power rolls with this ability.
 
-#### Force Redirected (5 Discipline)
+### Force Redirected (5 Discipline)
 
 *The force of your strike manifests in a surprising location.* **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 3 **Target:** One creature
 
@@ -540,11 +540,11 @@ ENTROPIC FIELD (5 DISCIPLINE)
 - *12-16:* **9 cold damage;** A \< average\*\*, slowed (save ends)\*\*
 - *17+:* **13 cold damage;** A \< strong\*\*, slowed (save ends)\*\*
 
-#### Heat Sink (5 Discipline)
+### Heat Sink (5 Discipline)
 
 *You absorb ambient heat, coating the ground in frost and precipitating snow from the air*
 
-### **keywords:** Psionic **type:** Maneuver
+## **keywords:** Psionic **type:** Maneuver
 
 **Effect:** Until the start of your next turn, the area of your Null Field ability increases by 1. While the area is enlarged this way, you and your allies benefit from concealment while in the area. When you end your turn, each enemy in the aura takes cold damage equal to your Intuition score.
 
@@ -598,13 +598,13 @@ MOLECULAR REARRANGEMENT FIELD (7 DISCIPLINE)
 
 **Effect:** Until the end of the encounter, the area of your Null Field ability increases by 1. While the area is enlarged this way, each enemy who has **I \< average** and enters the area for the first time in a round or starts their turn there is bleeding (save ends). The first time any ally enters the area or starts their turn there, they gain temporary Stamina equal to your Intuition score.
 
-#### Stabilizing Field (7 Discipline)
+### Stabilizing Field (7 Discipline)
 
 *You project order, making it harder for your enemies to interfere with you and your allies.*
 
 **Effect:** Until the end of the encounter, the area of your Null Field ability increases by 1. While the area is enlarged this way, you and any ally in the area ignore difficult terrain, reduce the potency of enemy effects targeting them by 1, and can use a free triggered action at the start of each of their turns to end one condition or effect that is affecting them.
 
-#### Synapse Field (7 Discipline)
+### Synapse Field (7 Discipline)
 
 *Attacks made by allies in your null field disrupt your enemies' thoughts, causing psychic pain.*
 
@@ -614,7 +614,7 @@ MOLECULAR REARRANGEMENT FIELD (7 DISCIPLINE)
 
 As a 4th-level null, you gain the following features.
 
-## Characteristic Increase
+### Characteristic Increase
 
 Your Agility and Intuition scores increase to 3.
 
@@ -622,7 +622,7 @@ Your Agility and Intuition scores increase to 3.
 
 Your Discipline Mastery feature gains additional benefits when you have 8 or more discipline.
 
-## Enhanced Null Field
+### Enhanced Null Field
 
 When using your Null Field, you disrupt ongoing magical effects. Any magical terrain effects during combat of your level or lower are removed when your aura partially or
 
@@ -648,7 +648,7 @@ As a 5th-level null, you gain the following features.
 
 As a 5th-level null, you gain the following features based on your tradition.
 
-#### **5th-level Tradition Features**
+### **5th-level Tradition Features**
 
 | Doctrine      | Feature            |
 | ------------- | ------------------ |
@@ -670,7 +670,7 @@ If you are not surprised, you can take your first turn in combat before any othe
 
 If the heroes have more than hero with this feature, only one can benefit from the ability per encounter. Any other nulls instead can take a Disengage move action as a free triggered action before the first turn.
 
-## 9-discipline Abilities
+### 9-discipline Abilities
 
 Choose one heroic ability from the following options.
 
@@ -720,15 +720,15 @@ As a 6th-level null, you gain the following features.
 
 When using the Inertial Shield triggered action you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.
 
-## Elemental Buffer
+### Elemental Buffer
 
 Whenever you reduce acid, cold, corruption, fire, lightning, poison, or sonic damage with damage immunity, you gain two surges which you must use to add damage on your next strike.
 
-## Perk
+### Perk
 
 You gain an exploration, interpersonal, or intrigue perk of your choice. See Perks for more information.
 
-## 6th-level Tradition Ability
+### 6th-level Tradition Ability
 
 Your specialization grants your choice of one of two abilities.
 
@@ -736,7 +736,7 @@ Your specialization grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-#### Interphase (9 Discipline)
+### Interphase (9 Discipline)
 
 *You slip into a faster timestream, appearing to act more quickly.*
 
@@ -746,7 +746,7 @@ Choose one of the following abilities.
 
 **Effect:** You can use three signature abilities. These actions have an edge.
 
-#### Phase Step (9 Discipline)
+### Phase Step (9 Discipline)
 
 *You weaken your connection to this manifold, allowing you to move through and damage enemies.*
 
@@ -762,7 +762,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-#### Ice Pillars (9 Discipline)
+### Ice Pillars (9 Discipline)
 
 *You cause pillars of ice to erupt from the ground and launch your foes into the air.*
 
@@ -772,7 +772,7 @@ Choose one of the following abilities.
 - *12-16:* **vertical slide** 8
 - *17+:* **vertical slide** 10
 
-#### Wall Of Ice (9 Discipline)
+### Wall Of Ice (9 Discipline)
 
 *You create a wall of ice.*
 
@@ -782,7 +782,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-#### Gravitic Charge (9 Discipline)
+### Gravitic Charge (9 Discipline)
 
 *You channel your discipline into momentum that defies gravity.*
 
@@ -794,7 +794,7 @@ Choose one of the following abilities.
 
 **Effect:** This movement ignores stability. If you slide into another creature, you resolve damage to both of you as if your force movement ends, but you keep moving through their space.
 
-#### Iron Body (9 Discipline)
+### Iron Body (9 Discipline)
 
 *You focus until your body becomes as hard as iron.* **Keywords:** Psionic **Type:** Maneuver **Distance:** Self **Target:** Self
 
@@ -804,15 +804,15 @@ Choose one of the following abilities.
 
 As a 7th-level null, you gain the following features.
 
-## Characteristic Increase
+### Characteristic Increase
 
 All of your characteristics increase by 1, to a maximum score of 4.
 
-## Discipline Mastery Improvement
+### Discipline Mastery Improvement
 
 Your Discipline Mastery feature gains additional benefits when you have 10 or more discipline.
 
-## Psi Boost
+### Psi Boost
 
 Whenever you use a psionic action or maneuver, you can spend additional clarity to apply a Psi Boost to it and enhance its effects. You can apply multiple Psi Boosts to an action, but only 1 instance of each Psi Boost. You have access to the following Psi Boosts:
 
@@ -848,7 +848,7 @@ Increase the potency of an effect by your Intuition score.
 
 When you gain discipline at the start of your turn, you gain 3 discipline instead of 2.
 
-## Skill Increase
+### Skill Increase
 
 You gain one skill of your choice.
 
@@ -856,11 +856,11 @@ You gain one skill of your choice.
 
 As an 8th-level null, you gain the following features.
 
-## 8th-level Tradition Feature
+### 8th-level Tradition Feature
 
 As a 8th-level null, you gain the following features based on your tradition.
 
-#### **5th-level Tradition Features**
+### **5th-level Tradition Features**
 
 | Doctrine      | Feature            |
 | ------------- | ------------------ |
@@ -872,7 +872,7 @@ As a 8th-level null, you gain the following features based on your tradition.
 
 You, and any creatures or objects of your choice in your null field, gain Stability equal to your Intuition score. Creatures that attempt to force move a creature or object you are providing Stability to immediately take psychic damage equal to your Intuition score.
 
-### Shared Momentum
+#### Shared Momentum
 
 When you take the Disengage move action, an ally of your choice in your null field can also take the Disengage move action as a free triggered action, using your Disengage distance.
 
@@ -880,15 +880,15 @@ When you take the Disengage move action, an ally of your choice in your null fie
 
 You, and any creatures of your choice within your null field, can spend 1d6 Stamina to remove any effect on themselves as a free maneuver.
 
-## Perk
+### Perk
 
 You gain any one perk of your choice. See Perks for more information.
 
-## 11-discipline Abilities
+### 11-discipline Abilities
 
 Choose one heroic ability from the following options.
 
-#### Arcane Purge (11 Discipline)
+### Arcane Purge (11 Discipline)
 
 *You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.*
 
@@ -900,7 +900,7 @@ Choose one heroic ability from the following options.
 
 **Effect:** While suppressed, a target takes psychic damage equal to twice your Intuition score at the start of their turns and whenever they use a supernatural or Malice ability.
 
-#### Phase Hurl (11 Discipline)
+### Phase Hurl (11 Discipline)
 
 *You throw your foe out of phase with this manfold, causing them to harm other enemies as they return.*
 
@@ -932,11 +932,11 @@ SYNAPTIC ANCHOR (11 DISCIPLINE)
 
 As a 9th-level null, you gain the following features.
 
-## I Am The Weapon
+### I Am The Weapon
 
 You gain 21 Stamina and are immune to bleeding. You no longer age or have need of food. You now add your Intuition to all of your statistics when resisting an effect.
 
-## 9th-level Tradition Ability
+### 9th-level Tradition Ability
 
 Your specialization grants your choice of one of two abilities.
 
@@ -1031,11 +1031,11 @@ As a 10th-level null, you gain the following features.
 
 Your Agility and Intuition scores increase to 5.
 
-## Discipline Mastery Improvement
+### Discipline Mastery Improvement
 
 Your Discipline Mastery feature gains additional benefits when you have 12 or more discipline.
 
-## Manifold Body
+### Manifold Body
 
 When you gain discipline at the start of your turn, you gain 4 discipline instead of 3.
 
@@ -1047,7 +1047,7 @@ Additionally, you and allies in your null field ignore all banes.
 
 You also receive one free discipline per action that can be used for psi boosts.
 
-## Order
+### Order
 
 You gain an epic resource called order. When you take a Respite, you gain order equal to the XP you gain. You can spend order as if it were discipline on abilities you have.
 
@@ -1055,10 +1055,10 @@ You can spend 1 order at the start of a combat encounter to increase your Null F
 
 Order remains until you spend it.
 
-## Perk
+### Perk
 
 You gain an exploration, interpersonal, or intrigue perk of your choice. See Perks for more information.
 
-## Skill Increase
+### Skill Increase
 
 You gain one skill of your choice.

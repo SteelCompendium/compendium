@@ -10,10 +10,10 @@ kind: 1st-level features
 
 # Clarity In Combat
 
-When a combat encounter (or other stressful situation tracked in rounds as determined by the Director) begins, you gain clarity equal to your Victories. At the start of each of your turns in combat, you gain 1d3 clarity.
+At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain clarity equal to your Victories. At the start of each of your turns during combat, you gain 1d3 clarity. You gain 1 clarity the first time each round that a creature is force moved.
 
-You can choose to spend clarity you do not have, going into negative numbers. Your negative clarity limit is equal to 1 + your Reason. At the end of your turn, you take 1d6 damage for each clarity you have below 0.
+You can spend clarity you do not have, pushing that Heroic Resource into negative numbers, to a maximum negative value equal to 1 + your Reason score. At the end of each of your turns, you take 1 damage for each negative point of clarity.
 
-While you have clarity below 0, you are strained. Some psionic abilities have additional effects if you are already strained or become strained when you use them. Strained effects can still impact you even after you are no longer strained.
+Whenever you have clarity below 0, you are strained. Some psionic abilities have additional effects if you are already strained or become strained when you use them. Strained effects can still impact you even after you are no longer strained.
 
-Your clarity disappears at the end of the encounter.
+You lose any remaining clarity or reset any negative clarity at the end of the encounter.

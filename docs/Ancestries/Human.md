@@ -70,18 +70,18 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Per
 
 Your connection to the natural world allows you resist supernatural effects. You ignore difficult terrain (but not other effects) created by magic and psionic abilities. Additionally, when you are force moved by a magic or psionic ability, you reduce the forced movement by 1.
 
-### Perseverance (costs 1 Point)
+#### Perseverance (costs 1 Point)
 
 Giving up is for other people. You have an edge on tests that use the Endurance skill and when you are slowed, your speed is reduced to 3 instead of 2.
 
-### Resist The Unnatural (costs 1 Point)
+#### Resist The Unnatural (costs 1 Point)
 
 Your connection to the natural world protects you from unnatural forces. When you take damage that isn't untyped, you can use your triggered action to half the damage.
 
-### Determination (costs 2 Points)
+#### Determination (costs 2 Points)
 
 Your anatomical tolerance for pain allows you to push through difficult situations. If you are frightened, slowed, or weakened, you can use a maneuver to immediately end the condition.
 
-### Staying Power (costs 2 Points)
+#### Staying Power (costs 2 Points)
 
 Your human anatomy allows you to fight, run, and stay awake longer than others. Increase your number of Recoveries by 2.

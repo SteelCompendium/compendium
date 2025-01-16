@@ -156,22 +156,22 @@ Your size is 1S.
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Corruption Immunity, Fearless)
 
-### Corruption Immunity (costs 1 Point)
+#### Corruption Immunity (costs 1 Point)
 
 Your innated shadow magic gives you corruption immunity equal to your level + 2.
 
-### Graceful Retreat (costs 1 Point)
+#### Graceful Retreat (costs 1 Point)
 
 When you take the Disengage move action, you can shift 1 additional square as part of the move action.
 
-### Polder Geist (costs 1 Point)
+#### Polder Geist (costs 1 Point)
 
 When you start your turn while no creatures have line of effect to you, or while you are hidden from or have concealment from all enemies with line of effect to you, your speed is increased by 3 until the end of your turn.
 
-### Fearless (costs 2 Points)
+#### Fearless (costs 2 Points)
 
 Courage is all you know. You can't be frightened.
 
-### Nimblestep (costs 2 Points)
+#### Nimblestep (costs 2 Points)
 
 Your light feet allow you to ignore the effects of difficult terrain and move at full speed while you are sneaking.

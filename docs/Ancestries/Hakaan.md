@@ -108,23 +108,23 @@ Your size is 1L.
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Forceful, Doomsight)
 
-### All Is A Feather (costs 1 Point)
+#### All Is A Feather (costs 1 Point)
 
 You are exceptionally strong and have an edge made on tests that use the Lift skill.
 
-### Forceful (costs 1 Point)
+#### Forceful (costs 1 Point)
 
 When you force move a creature or object, you can increase the distance moved by 1.
 
-### Stand Tough (costs 1 Point)
+#### Stand Tough (costs 1 Point)
 
 Your body is made to withstand the blows of your enemies. Your Might score counts as 1 higher for resisting potencies.
 
-### Great Fortitude (costs 2 Points)
+#### Great Fortitude (costs 2 Points)
 
 Your hearty constitution prevents you from losing strength. You can't be weakened.
 
-### Doomsight (costs 2 Points)
+#### Doomsight (costs 2 Points)
 
 Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically get tier 3 results on tests and ability power rolls, and you don't die no matter how low your Stamina falls. You then die immediately at the end of the encounter.
 

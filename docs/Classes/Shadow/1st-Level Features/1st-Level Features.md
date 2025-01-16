@@ -16,12 +16,10 @@ As a shadow, you gain the following features.
 
 [INSIGHT](./Insight.md)
 
+[1ST-LEVEL COLLEGE FEATURES](./1st-Level%20College%20Features.md)
+
 [1ST-LEVEL COLLEGE FEATURES](./1st-Level%20College%20Features/1st-Level%20College%20Features.md)
 
-[COLLEGE TRIGGERED ACTION](./College%20Triggered%20Action/College%20Triggered%20Action.md)
+[I'M NO THREAT](./Im%20No%20Threat.md)
 
-[HESITATION IS WEAKNESS](./Hesitation%20Is%20Weakness.md)
-
-[KIT](./Kit.md)
-
-[SHADOW ABILITIES](./Shadow%20Abilities/Shadow%20Abilities.md)
+[I'M NO THREAT](./Im%20No%20Threat.md)

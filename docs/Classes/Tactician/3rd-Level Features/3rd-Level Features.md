@@ -10,6 +10,10 @@ kind: 3rd-level features
 
 # 3rd-level Features
 
-As a 3rd-level talent, you gain the following features.
+As a 3rd-level tactician, you gain the following features.
 
-[SCAN](./Scan.md)
+[OUT OF POSITION](./Out%20Of%20Position.md)
+
+[7-FOCUS ABILITY](./7-Focus%20Ability.md)
+
+[ROUT (7 FOCUS)](./Rout.md)

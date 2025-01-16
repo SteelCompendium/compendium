@@ -1,7 +1,7 @@
 # Common Move Actions Abilities
 
-| Name      | Kind | Cost | Ability Type | Distance | Target |
-| --------- | ---- | ---- | ------------ | -------- | ------ |
-| Disengage |      |      |              |          |        |
-| Advance   |      |      |              |          |        |
-| Ride      |      |      |              |          |        |
+| Name                    | Kind | Cost | Ability Type | Distance | Target |
+| ----------------------- | ---- | ---- | ------------ | -------- | ------ |
+| Disengage               |      |      |              |          |        |
+| Advancefor The Director |      |      |              |          |        |
+| Ride                    |      |      |              |          |        |

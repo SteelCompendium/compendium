@@ -10,10 +10,6 @@ kind: 2nd-level features
 
 # 2nd-level Doctrine Ability
 
-Your specialization grants you a choice of one of two abilities.
+Your tactical doctrine grants your choice of one of two abilities.
 
-[2ND-LEVEL INSURGENT ABILITIES](./2nd-Level%20Insurgent%20Abilities/2nd-Level%20Insurgent%20Abilities.md)
-
-[2ND-LEVEL MASTERMIND ABILITIES](./2nd-Level%20Mastermind%20Abilities/2nd-Level%20Mastermind%20Abilities.md)
-
-[2ND-LEVEL VANGUARD ABILITIES](./2nd-Level%20Vanguard%20Abilities/2nd-Level%20Vanguard%20Abilities.md)
+[2ND-LEVEL INSURGENT ABILITY](./2nd-Level%20Insurgent%20Ability.md)

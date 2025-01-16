@@ -10,4 +10,4 @@ kind: 2nd-level features
 
 # Perk
 
-You gain an interpersonal, lore, or supernatural perk of your choice. See Perks for more information.
+You gain an exploration, interpersonal, or intrigue perk of your choice. See Perks for more information.

@@ -10,7 +10,7 @@ kind: 1st-level features
 
 # Clarity And Strain
 
-Your mind is your greatest asset, and the clarity of your thoughts is what empowers your psionic abilities. You have a heroic resource called clarity.
+The focus and precision of your thoughts grants you a Heroic Resource called clarity that empowers your psionic abilities.
 
 [CLARITY IN COMBAT](./Clarity%20In%20Combat.md)
 

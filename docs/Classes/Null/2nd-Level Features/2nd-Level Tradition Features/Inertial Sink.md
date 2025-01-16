@@ -10,5 +10,6 @@ kind: 2nd-level features
 
 # Inertial Sink
 
-- You add your Intuition to your size for the purpose of interacting with creatures and objects, such as resisting forced movement or lifting objects.
-- You always have `🛡🛡` against forced movement damage and falling damage.
+You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on your ability to be grabbed.
+
+Additionally, you have forced movement damage immunity equal to your level and reduce the distance of your falls by an additional 5 squares.

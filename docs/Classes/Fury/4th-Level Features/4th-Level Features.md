@@ -13,3 +13,15 @@ kind: 4th-level features
 As a 4th-level fury, you gain the following features.
 
 [CHARACTERISTIC INCREASE](./Characteristic%20Increase.md)
+
+[DAMAGING RAGE](./Damaging%20Rage.md)
+
+[GROWING RAGE IMPROVEMENT](./Growing%20Rage%20Improvement.md)
+
+[PERK](./Perk.md)
+
+[PRIMORDIAL ATTUNEMENT](./Primordial%20Attunement.md)
+
+[PRIMORDIAL STRIKE](./Primordial%20Strike.md)
+
+[SKILL INCREASE](./Skill%20Increase.md)

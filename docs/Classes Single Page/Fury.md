@@ -43,7 +43,7 @@ As a fury, you have abilities that deal a lot of damage, move you around the bat
 
 **Skills:** Nature, plus choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Nature, Alertness, Jump)
 
-#### **fury Advancement**
+### **fury Advancement**
 
 | Level | Features                     | Abilities   | Aspect    |
 | ----- | ---------------------------- | ----------- | --------- |
@@ -90,7 +90,7 @@ As a fury, you have abilities that deal a lot of damage, move you around the bat
 
 As a fury, you gain the following features.
 
-## Primordial Aspect
+### Primordial Aspect
 
 You are a product of customs older than civilization, older than warfare, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape--the Primordial Chaos--and which left an aspect of the Primordial Chaos inside you. As you channel the rage that shapes you, you choose a primordial aspect from the following options, each of which grants you a skill (*Quick Build:* Berserker):
 
@@ -100,7 +100,7 @@ You are a product of customs older than civilization, older than warfare, older 
 
 Your choice of primordial aspect determines many of the features you'll gain from this class.
 
-## Rage
+### Rage
 
 As the battle intensifies around you, your determination and anger grow, fueling a Heroic Resource called rage.
 
@@ -114,17 +114,17 @@ Though you can't gain rage outside of combat, you can use your heroic abilities 
 
 If you use an ability outside of combat that lets you spend unlimited rage on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of rage on it equal to your Victories.
 
-## Growing Rage
+### Growing Rage
 
 You gain certain benefits in combat based on the amount of rage you have. See the various Aspect Features sections for details. The benefits from your growing rage last until the end of your turn, even if a benefit would become unavailable to you because of the amount of rage you spend during your turn.
 
 Some of the benefits of your Growing Rage can be applied only if you are a specific level or higher, as noted on the Growing Rage tables.
 
-## 1st-level Aspect Features
+### 1st-level Aspect Features
 
 Your chosen primordial aspect grants you features as shown on the 1st-Level Aspect Features table.
 
-#### **1st-level Aspect Features**
+### **1st-level Aspect Features**
 
 | Aspect     | Feature                        |
 | ---------- | ------------------------------ |
@@ -132,11 +132,11 @@ Your chosen primordial aspect grants you features as shown on the 1st-Level Aspe
 | Reaver     | Kit, Primordial Cunning        |
 | Stormwight | Beast Shape, Relentless Hunter |
 
-### Beast Shape
+#### Beast Shape
 
 When you select a kit, you can instead select a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including effects tied to your Growing Rage feature.
 
-#### Kit
+### Kit
 
 You can use and gain the benefits of a kit. See the Kits chapter for more information. (*Quick Build:* Panther)
 
@@ -146,7 +146,7 @@ You are never surprised. Additionally, whenever you would push a target with for
 
 As your rage grows, your primordial cunning intensifies, granting benefits from the Primordial Cunning Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-#### **primordial Cunning Growing Rage**
+### **primordial Cunning Growing Rage**
 
 | Rage   | Benefit                                                  |
 | ------ | -------------------------------------------------------- |
@@ -167,7 +167,7 @@ As your rage grows, your primordial cunning intensifies, granting benefits from 
 | 10)    | o Gain 10 Temporary Stamina when you use a heroic        |
 |        | ability.                                                 |
 
-### Primordial Strength
+#### Primordial Strength
 
 Whenever you damage an object with a weapon strike, it takes additional damage equal to your Might score. Additionally, whenever you push another creature into an object, they take additional damage equal to your Might score.
 
@@ -192,17 +192,17 @@ As your rage grows, your primordial strength intensifies, granting benefits from
 | 10)    | o Gain 10 Temporary Stamina when you use a heroic      |
 |        | ability.                                               |
 
-#### **primordial Strength Growing Rage**
+### **primordial Strength Growing Rage**
 
 #### Relentless Hunter
 
 You gain an edge on tests that use the Track skill.
 
-## Aspect Triggered Action
+### Aspect Triggered Action
 
 Your primordial aspect grants you a triggered action as shown on the Aspect Triggered Actions table.
 
-#### **aspect Triggered Actions**
+### **aspect Triggered Actions**
 
 | Aspect     | Triggered Action   |
 | ---------- | ------------------ |
@@ -210,7 +210,7 @@ Your primordial aspect grants you a triggered action as shown on the Aspect Trig
 | Reaver     | Unearthly Reflexes |
 | Stormwight | Furious Change     |
 
-#### Furious Change
+### Furious Change
 
 *In your* anger, you revert to a more bestial form.
 
@@ -256,7 +256,7 @@ UNEARTHLY REFLEXES
 
 You always succeed on Might tests made to jump. You can still roll to see if you get a reward result.
 
-#### **where's My Maneuver?**
+### **where's My Maneuver?**
 
 Since most other classes get a bespoke maneuver, many folks have asked during playtesting, "Where is the fury's special maneuver?" The answer is that the fury doesn't need a maneuver all their own, because most the time, we've found that the fantasy of the fury has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
@@ -268,7 +268,7 @@ You specialize in dealing massive damage on the battlefield, mastering a number 
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* To the Death)
 
-#### Brutal Slam
+### Brutal Slam
 
 *The heavy impact of your weapon attacks drives your foes ever backward.*
 
@@ -278,7 +278,7 @@ Choose one signature ability from the following options. Signature abilities can
 - *12-16:* 6 + M **damage; push 2**
 - *17+:* 9 + M **damage; push 4**
 
-#### Hit And Run
+### Hit And Run
 
 *Keeping in constant motion helps you slip out of reach after a brutal assault.*
 
@@ -290,7 +290,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** You can shift 1 square.
 
-#### Impaled!
+### Impaled!
 
 *You plunge your weapon into your enemy like a boar upon a spit.*
 
@@ -300,7 +300,7 @@ Choose one signature ability from the following options. Signature abilities can
 - *12-16:* 5 + M **damage;** M \< average\*\*, grabbed\*\*
 - *17+:* 7 + M **damage;** M \< strong\*\*, grabbed\*\*
 
-#### To The Death!
+### To The Death!
 
 *Your reckless assault leaves you tactically vulnerable.*
 
@@ -316,11 +316,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 You fight with an array of heroic abilities, all of which cost rage to fuel them.
 
-#### 3-rage Ability
+##### 3-rage Ability
 
 Choose one heroic ability from the following options, each of which costs 3 rage to use. (*Quick Build:* Back)
 
-#### Back!(3 Rage)
+### Back!(3 Rage)
 
 *Surrounded? The fools!*
 
@@ -342,7 +342,7 @@ OUT OF THE WAY!(3 RAGE)
 
 **Effect:** When you slide the target, you can move into any square they leave. If you take damage from an opportunity attack by moving this way, the target takes the same amount and type of damage.
 
-#### Tide Of Death (3 Rage)
+### Tide Of Death (3 Rage)
 
 *Teach them the folly of lining up for you.* **Keywords:** Melee, Weapon **Type:** Action
 
@@ -368,7 +368,7 @@ YOUR ENTRAILS ARE YOUR EXTRAILS!(3 RAGE)
 
 **Effect:** While bleeding, the target takes damage equal to your Might score at the end of your turns.
 
-#### 5-rage Ability
+##### 5-rage Ability
 
 Choose one heroic ability from the following options, each of which costs 5 rage to use. (*Quick Build:* Blood for Blood)
 
@@ -422,7 +422,7 @@ As a 2nd-level fury, you gain the following features.
 
 Your primordial aspect grants you a feature as shown on the 2nd-Level Aspect Features table.
 
-#### **2nd-level Aspect Features**
+### **2nd-level Aspect Features**
 
 | Aspect     | Feature           |
 | ---------- | ----------------- |
@@ -438,7 +438,7 @@ You have a bonus to speed equal to your Agility score, and you ignore difficult 
 
 When you end your turn, each enemy who is adjacent to you takes damage equal to your Might score.
 
-### Unstoppable Force
+#### Unstoppable Force
 
 Whenever you use the Charge action, you can make a signature strike or a heroic ability melee strike instead of a free strike. Additionally, you can jump as part of a charge.
 
@@ -446,11 +446,11 @@ Whenever you use the Charge action, you can make a signature strike or a heroic 
 
 You gain a crafting, exploration, or intrigue perk of your choice. See Perks for more information.
 
-## 2nd-level Aspect Ability
+### 2nd-level Aspect Ability
 
 Your primordial aspect grants your choice of one of two abilities.
 
-### 2nd-level Berserker Ability
+#### 2nd-level Berserker Ability
 
 Choose one of the following abilities.
 
@@ -458,7 +458,7 @@ SPECIAL DELIVERY (5 RAGE) *You ready?*
 
 **Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's stability, and the target takes no damage from the move. At the end of this movement, the target can make a free strike that deals additional damage equal to your Might score.
 
-#### Wrecking Ball (5 Rage)
+### Wrecking Ball (5 Rage)
 
 *It is easier to destroy than to create. Much easier, in fact!* **Keywords:** Melee, Weapon **Type:** Maneuver **Distance:** Self **Target:** Self
 
@@ -488,7 +488,7 @@ PHALANX BREAKER (5 RAGE)
 - *12-16:* 4 **damage;** A \< average\*\*, dazed (save ends)\*\*
 - *17+:* 6 **damage;** A \< strong\*\*, dazed (save ends)\*\*
 
-#### Rrraaaghh!(5 Rage)
+### Rrraaaghh!(5 Rage)
 
 *Death! Deeaaath!!*
 
@@ -502,7 +502,7 @@ PHALANX BREAKER (5 RAGE)
 
 Choose one of the following abilities.
 
-#### Apex Predator (5 Rage)
+### Apex Predator (5 Rage)
 
 *I will hunt you down.*
 
@@ -530,11 +530,11 @@ VISCERAL ROAR (5 RAGE)
 
 As a 3rd-level fury, you gain the following features.
 
-## 3rd-level Aspect Feature
+### 3rd-level Aspect Feature
 
 Your primordial aspect grants you a feature as shown on the 3rd-Level Aspect Features table.
 
-#### **3rd-level Aspect Features**
+### **3rd-level Aspect Features**
 
 | Aspect     | Feature                 |
 | ---------- | ----------------------- |
@@ -548,15 +548,15 @@ You add your level to your effective size for the purpose of interacting with cr
 
 Additionally, you gain a bonus to stability equal to your Might score.
 
-#### Nature's Knight
+### Nature's Knight
 
 You can speak with animals and elementals. You automatically sense the presence of any animal or elemental within 10 squares of you, even if they are hidden. If you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your Renown in a negotiation with an animal of your type while in animal form (see Stormwight Kits).
 
-### See Through Your Tricks
+#### See Through Your Tricks
 
 You have a double edge on tests made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double edge on tests made to gamble!
 
-## 7-rage Ability
+### 7-rage Ability
 
 Choose one heroic ability from the following options, each of which costs 7 rage to use.
 
@@ -592,7 +592,7 @@ As a 4th-level fury, you gain the following features.
 
 Your Might and Agility scores increase to 3.
 
-## Damaging Rage
+### Damaging Rage
 
 You now gain 2 rage instead of 1 the first time in a round that an enemy damages you.
 
@@ -600,19 +600,19 @@ You now gain 2 rage instead of 1 the first time in a round that an enemy damages
 
 Your Growing Rage feature gains additional benefits when you have 8 or more rage.
 
-## Perk
+### Perk
 
 You gain any one perk of your choice. See Perks for more information.
 
-## Primordial Attunement
+### Primordial Attunement
 
 You begin to learn that your Rage is a manifestation of the elemental forces of the Primordial Chaos and can detect if a creature is weak or immune to elemental power. You can sense if any creature with 10 squares of you has damage immunity or damage weakness to acid, cold, corruption, fire, lightning, poison, or sonic damage. You know if the creature has an immunity or weakness and the specific damage type that applies. You can also sense any source of one of those damage types within 10 squares of you, such as a fire or a source of elemental power.
 
-## Primordial Strike
+### Primordial Strike
 
 You can manifest your Rage directly as an elemental force from the Primordial Chaos. As part of any strike, you can spend 1 rage to gain a surge which you must use to add damage on that strike. The surge's damage is in acid, cold, corruption, fire, lightning, poison, or sonic (your choice).
 
-## Skill Increase
+### Skill Increase
 
 You gain one skill of your choice.
 
@@ -620,11 +620,11 @@ You gain one skill of your choice.
 
 As a 5th-level fury, you gain the following features.
 
-## 5th-level Aspect Feature
+### 5th-level Aspect Feature
 
 Your connection to the Primordial Chaos grows, expressing itself in your body and nature. Your aspect grants you a feature as shown on the 5th-Level Primordial Aspect Features table.
 
-#### **5th-level Primordial Aspect Features**
+### **5th-level Primordial Aspect Features**
 
 | Aspect     | Feature    |
 | ---------- | ---------- |
@@ -632,7 +632,7 @@ Your connection to the Primordial Chaos grows, expressing itself in your body an
 | Reaver     | Unfettered |
 | Stormwight | Stormborn  |
 
-### Bounder
+#### Bounder
 
 Your jump distance and height double. When you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and if you land prone. You are not prone after landing on top of another creature.
 
@@ -640,15 +640,15 @@ Your jump distance and height double. When you fall, you reduce the effective he
 
 You, and all allies with 5 squares of you, ignore negative effects from inclement weather, such as banes or environmental damage. In addition, you can use the Blessing of Fortunate Weather ability as if you were a 1st level conduit.
 
-### Unfettered
+#### Unfettered
 
 At the beginning of your turn, you can remove any restrained condition affecting you. You have a double edge on any checks to escape imprisonment.
 
-## 9-rage Abilities
+### 9-rage Abilities
 
 Choose one heroic ability from the following options.
 
-#### Debilitating Strike (9 Rage)
+### Debilitating Strike (9 Rage)
 
 *You break the target's bones leaving them vulnerable.* **Keywords:** Melee, Strike, Weapon **Type:** Action
 
@@ -682,7 +682,7 @@ REBOUNDING STORM (9 RAGE)
 
 **Effect:** When a target ends their forced movement in a creature or object they take damage as normal, but they then are pushed the remaining distance away from the creature or object they impacted.
 
-#### To Stone!(9 Rage)
+### To Stone!(9 Rage)
 
 *You channel the Primordial Chaos into blows that petrify your foe, literally.*
 
@@ -698,7 +698,7 @@ REBOUNDING STORM (9 RAGE)
 
 As a 6th-level fury, you gain the following features.
 
-## Marauder Of The Primordial Chaos
+### Marauder Of The Primordial Chaos
 
 You can sense any elementals or sources of elemental power within 1 mile of you. You can speak with elementals. You are considered to have 1 higher Renown if negotiation with an elemental comes into play.
 
@@ -746,13 +746,13 @@ FORCE OF STORMS (9 RAGE) *You strike an enemy hard enough to be a projectile tha
 
 Choose one of the following abilities.
 
-#### Death Strike (9 Rage)
+### Death Strike (9 Rage)
 
 *Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.*
 
 **Effect:** You affect an additional adjacent creature with the same strike and power roll that killed the triggering creature.
 
-#### Seek And Destroy (9 Rage)
+### Seek And Destroy (9 Rage)
 
 *You break through the enemy lines to make an example.*
 
@@ -797,23 +797,23 @@ Your speed gains the Flying keyword while the aura is active. Any allies that be
 
 As a 7th-level fury, you gain the following features.
 
-## Characteristic Increase
+### Characteristic Increase
 
 All of your characteristics increase by 1, to a maximum score of 4.
 
-## Elemental Form
+### Elemental Form
 
 Your Rage exhibits more signs of the elemental forces from the Primordial Chaos. When you show strong emotion or grow your Rage, elemental motes attuned to your mood flit around you and your skin changes its appearance to reflect various elements. You gain damage immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Might score. If you are a stormwight, your damage immunity from your Primordial Storm increases to twice your Might score instead.
 
-## Greater Rage
+### Greater Rage
 
 At the start of each turn of combat, you now gain 1d3 + 1 rage.
 
-## Growing Rage Improvement
+### Growing Rage Improvement
 
 Your Growing Rage feature gains additional benefits when you have 10 or more rage.
 
-## Skill Increase
+### Skill Increase
 
 You gain one skill of your choice.
 
@@ -821,11 +821,11 @@ You gain one skill of your choice.
 
 As a 8th-level fury, you gain the following features.
 
-## 8th-level Aspect Feature
+### 8th-level Aspect Feature
 
 Your connection to the Primordial Chaos grows, expressing itself in your body and nature. Your aspect grants you a feature as shown on the 8th-Level Primordial Aspect Features table.
 
-#### **5th-level Primordial Aspect Features**
+### **5th-level Primordial Aspect Features**
 
 | Aspect     | Feature            |
 | ---------- | ------------------ |
@@ -837,11 +837,11 @@ Your connection to the Primordial Chaos grows, expressing itself in your body an
 
 You gain access to all Stormwight kits and can choose to swap your kit during a respite and still take another respite activity. You now automatically sense the presence of any animal or elemental within 1 mile of you, even if they are hidden. Whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
-### A Step Ahead
+#### A Step Ahead
 
 Your cunning grows to legend. Whenever you make a Agility test, you can roll three dice and choose which two to use. You add your Agility to the number of squares you can shift when you use the Disengage move action.
 
-### Strongest There Is
+#### Strongest There Is
 
 Your strength grows to legend. Whenever you make a Might test, you can roll three dice and choose which two to use. You add your Might score to the push distance when you use the Knockback maneuver.
 
@@ -849,7 +849,7 @@ Your strength grows to legend. Whenever you make a Might test, you can roll thre
 
 You gain any one perk of your choice. See Perks for more information.
 
-## 11-rage Abilities
+### 11-rage Abilities
 
 Choose one heroic ability from the following options.
 
@@ -883,7 +883,7 @@ OVERKILL (11 RAGE)
 
 **Effect:** If the target is a minion or a winded non-leader or non-solo creature they are reduced to 0 Stamina before damage is applied. If the target is killed by this strike, leftover damage can be applied to another creature within 5 squares of the original target.
 
-#### Primordial Fury (11 Rage)
+### Primordial Fury (11 Rage)
 
 *Your rage manifests into primordial power.*
 
@@ -893,13 +893,13 @@ OVERKILL (11 RAGE)
 
 As a 9th-level fury, you gain the following features.
 
-## Harbinger Of The Primordial Chaos
+### Harbinger Of The Primordial Chaos
 
 You can create a temporary source of elemental power as a Respite activity. This source of elemental power will last 24 hours after creation.
 
 If you use your Herald of Primordial Chaos ability to create a portal to the Primordial Chaos, the source of elemental power lasts as long as the portal is maintained in your network.
 
-## 9th-level Aspect Ability
+### 9th-level Aspect Ability
 
 Your specialization grants your choice of one of two abilities.
 
@@ -931,7 +931,7 @@ PRIMORDIAL VORTEX (11 RAGE)
 
 **Effect:** You do not take forced movement damage from targets that collide with you. Those targets take the damage you would have taken instead.
 
-### 9th-level Reaver Abilities
+#### 9th-level Reaver Abilities
 
 Choose one of the following abilities.
 
@@ -989,7 +989,7 @@ DELUGE (11 RAGE)
 
 As a 10th-level fury, you gain the following features.
 
-## Chaos Incarnate
+### Chaos Incarnate
 
 As your rage grows you begin to manifest elemental power, taking on aspects of various elemental forces.
 
@@ -999,11 +999,11 @@ If you enter combat with an elemental or any creature with abilities that deals 
 
 When you use Primordial Strike, you can spend up to 3 rage, gaining 1 surge per rage spent to use on the strike.
 
-## Characteristic Increase
+### Characteristic Increase
 
 Your Might and Agility scores increase to 5.
 
-## Growing Rage Improvement
+### Growing Rage Improvement
 
 Your Growing Rage feature gains additional benefits when you have 12 or more rage.
 
@@ -1011,7 +1011,7 @@ Your Growing Rage feature gains additional benefits when you have 12 or more rag
 
 You gain a crafting, exploration, or intrigue perk of your choice. See Perks for more information.
 
-## Primordial Power
+### Primordial Power
 
 You gain an epic resource called primordial power. When you take a Respite, you gain primordial power equal to the XP you gain. As a free triggered action, you can spend primordial power to become rage until the end of an encounter.
 
@@ -1021,11 +1021,11 @@ You can spend 3 primordial power to create a portal to the Primordial Chaos with
 
 Primordial power remains until you spend it.
 
-## Primordial Rage
+### Primordial Rage
 
 You now gain 3 rage instead of 2 the first time in a round that an enemy damages you.
 
-## Skill Increase
+### Skill Increase
 
 You gain one skill of your choice.
 
@@ -1035,7 +1035,7 @@ The primordial aspect of the stormwight lets you channel your rage into the form
 
 changing them out during a Respite as with any other kit. (See Kits.)
 
-## Kit Features
+### Kit Features
 
 All stormwight kits have the following features in common.
 
@@ -1059,7 +1059,7 @@ While in animal form or hybrid form, you can speak normally and can speak to ani
 
 Each stormwight is associated with a primordial storm, which channels a specific damage type used by some of your abilities.
 
-### Equipment
+#### Equipment
 
 You wear no armor and wield only your unarmed strikes--which become devastating natural weapons as your rage grows.
 
@@ -1067,11 +1067,11 @@ You wear no armor and wield only your unarmed strikes--which become devastating 
 
 These bonuses apply in your true form, your animal form, and your hybrid form if applicable.
 
-#### Growing Rage
+### Growing Rage
 
 Each stormwight kit grants a specific set of benefits for your fury Growing Rage feature. You have some of the noted benefits all the time, but gain other benefits only while in the animal form or hybrid form granted by your stormwight kit, as noted on the Growing Rage table for each stormwight kit.
 
-## Boren
+### Boren
 
 With this stormwight kit, you channel your primordial rage into the form of a bear, becoming large, durable, and imposing. Boren are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
 
@@ -1083,13 +1083,13 @@ Whenever you use forced movement to push a creature, you can pull that creature 
 
 When you are in your bear form, your size becomes 2, and you gain a +2 bonus to speed and a +1 bonus to distance with melee weapon abilities.
 
-### Hybrid Form: Bear
+#### Hybrid Form: Bear
 
 When you are in your hybrid form, your size becomes 2, and you gain a +2 bonus to speed and a +1 bonus to distance with melee weapon abilities.
 
 Once you reach 4th level, the first time you take hybrid form in an encounter you gain 10 Temporary Stamina.
 
-### Primordial Storm: Blizzard
+#### Primordial Storm: Blizzard
 
 Your primordial damage type is cold.
 
@@ -1099,9 +1099,9 @@ Your primordial damage type is cold.
 - **Stability Bonus:** +2
 - **Melee Weapon Damage Bonus:** +0/+0/+4
 
-### Signature Ability
+#### Signature Ability
 
-#### Bear Claws
+### Bear Claws
 
 *Attacks with your sharp and deadly claws grab the weak.* **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
 
@@ -1111,11 +1111,11 @@ Your primordial damage type is cold.
 - *12-16:* 5 + M **damage;** M \< average\*\*, grabbed\*\*
 - *17+:* 11 + M **damage;** M \< strong\*\*, grabbed\*\*
 
-#### Growing Rage
+### Growing Rage
 
 As your rage grows, you gain benefits as noted on the Boren Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-#### **boren Growing Rage**
+### **boren Growing Rage**
 
 | Rage   | Benefit                                                  |
 | ------ | -------------------------------------------------------- |
@@ -1137,15 +1137,15 @@ As your rage grows, you gain benefits as noted on the Boren Growing Rage table. 
 | 10)    | o Gain 10 Temporary Stamina when you use a heroic        |
 |        | ability.                                                 |
 
-## Corven
+### Corven
 
 With this stormwight kit, you channel your primordial rage into the form of a crow. Corven are tied to the mountain passes and the hot winds that flow through them. This aspect is associated with the katabatic wind.
 
-### Aspect Benefits
+#### Aspect Benefits
 
 You gain an edge on tests made to hide and sneak. Additionally, whenever you are falling, you can use a free triggered action to use your Aspect of the Wild ability.
 
-### Animal Form: Crow
+#### Animal Form: Crow
 
 When you are in your crow form, your size becomes 1T and your speed gains the Fly keyword. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide.
 
@@ -1166,9 +1166,9 @@ Your primordial damage type is fire.
 - **Melee Weapon Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
 
-### Signature Ability
+#### Signature Ability
 
-#### Wing Buffet
+### Wing Buffet
 
 *Foes who try to close around you do so at their peril.* **Keywords:** Area, Melee, Weapon **Type:** Action
 
@@ -1176,7 +1176,7 @@ Your primordial damage type is fire.
 - *11 or lower:* **4 damage**
 - *12-16:* 6 **damage**
 
-### O *17+:* 8 **damage**
+## O *17+:* 8 **damage**
 
 **Effect:** You can shift up to 2 squares before or after the making the power roll.
 
@@ -1184,7 +1184,7 @@ Your primordial damage type is fire.
 
 As your rage grows, you gain benefits as noted on the Corven Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-#### **corven Growing Rage**
+### **corven Growing Rage**
 
 | Rage      | Benefit                                                                                                |
 | --------- | ------------------------------------------------------------------------------------------------------ |
@@ -1202,7 +1202,7 @@ As your rage grows, you gain benefits as noted on the Corven Growing Rage table.
 | 10)       | o Gain 10 Temporary Stamina when you use a         |
 |           | heroic ability.                                    |
 
-## Raden
+### Raden
 
 With this stormwight kit, you channel your primordial rage into the form of a rat. Raden are associated with the true nature of the rat, before cities became their habitat. This aspect is associated with the rat flood.
 
@@ -1210,21 +1210,21 @@ With this stormwight kit, you channel your primordial rage into the form of a ra
 
 You gain an edge on tests made to hide and sneak. Additionally, you ignore difficult terrain.
 
-### Animal Form: Rat
+#### Animal Form: Rat
 
 When you are in your rat form, your size becomes 1T and your speed gains the Climb keyword. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when hiding. You can stay hidden while you move through any square occupied by a creature and gain an edge on tests made to climb other creatures.
 
-### Hybrid Form: Rat
+#### Hybrid Form: Rat
 
 When you are in your hybrid form, your size becomes your choice of 1S or 1M.
 
 Once you reach 4th level, your speed gains the Climb keyword in hybrid form.
 
-### Primordial Storm: Rat Flood
+#### Primordial Storm: Rat Flood
 
 Your primordial damage type is corruption.
 
-### Kit Bonuses
+#### Kit Bonuses
 
 - **Stamina Bonus:** +3
 - **Speed Bonus:** +3
@@ -1233,7 +1233,7 @@ Your primordial damage type is corruption.
 
 #### Signature Ability
 
-#### Driving Pounce
+### Driving Pounce
 
 *Your enemies try in vain to fall back from your pouncing attack.*
 
@@ -1245,11 +1245,11 @@ Your primordial damage type is corruption.
 
 **Effect:** You can shift up to the same number of squares that you pushed the target.
 
-#### Growing Rage
+### Growing Rage
 
 As your rage grows, you gain benefits as noted on the Raden Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-#### **raden Growing Rage**
+### **raden Growing Rage**
 
 **Rage Benefit** 2 When you take the Disengage move action, you
 
@@ -1269,7 +1269,7 @@ As your rage grows, you gain benefits as noted on the Raden Growing Rage table. 
 |            | o Gain 10 Temporary Stamina when you use a          |
 |            | heroic ability.                                     |
 
-## Vuken
+### Vuken
 
 With this stormwight kit, you channel your primordial rage into the form of a wolf. Vuken are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
 
@@ -1281,7 +1281,7 @@ Whenever you take the Knockback maneuver you can also take the Aid Attack maneuv
 
 When you are in your wolf form, your size becomes 1L if it isn't already, you gain a +2 bonus to speed, and you ignore difficult terrain.
 
-### Hybrid Form: Wolf
+#### Hybrid Form: Wolf
 
 When you are in your hybrid form, your size becomes 1L if it isn't already, you gain a +2 bonus to speed, and you ignore difficult terrain.
 
@@ -1300,7 +1300,7 @@ Your primordial damage type is lightning.
 
 #### Signature Ability
 
-#### Probing Attack
+### Probing Attack
 
 *A savage assault forces your foes back.*
 
@@ -1314,7 +1314,7 @@ Your primordial damage type is lightning.
 
 As your rage grows, you gain benefits as noted on the Vuken Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-#### **vuken Growing Rage**
+### **vuken Growing Rage**
 
 | Rage      | Benefit                                               |
 | --------- | ----------------------------------------------------- |

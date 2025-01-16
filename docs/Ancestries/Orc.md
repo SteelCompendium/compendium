@@ -94,19 +94,19 @@ When a creature deals damage to you that leaves you dying, you can make a free s
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Grounded, Glowing Recovery)
 
-### Bloodfire Rush (costs 1 Point)
+#### Bloodfire Rush (costs 1 Point)
 
 The magic coursing through your veins makes you run faster in the heat of battle. When you take damage, your speed increases by 2 until the end of the round. You can benefit from this feature only once per round.
 
-### Grounded (costs 1 Point)
+#### Grounded (costs 1 Point)
 
 The magic in your blood makes it difficult for others to move you. Your stability increases by 1.
 
-### Passionate Artisan (costs 1 Point)
+#### Passionate Artisan (costs 1 Point)
 
 When you are stirred by passion for creation, your bloodfire allows you to work longer and harder. Choose two skills from the crafting skill group. Whenever you make a project roll using these skills, you gain a +2 bonus to the roll.
 
-### Glowing Recovery (costs 2 Points)
+#### Glowing Recovery (costs 2 Points)
 
 Your bloodfire allows you to regain your strength quicker than others. When you can take the Catch Breath maneuver, you can spend as many Recoveries as you like instead of just one.
 

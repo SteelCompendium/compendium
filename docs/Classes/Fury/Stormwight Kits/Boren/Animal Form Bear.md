@@ -10,4 +10,4 @@ kind: stormwight kits
 
 # Animal Form: Bear
 
-When you are in your bear form, your speed increases by 2, your size becomes 2, and you have a +1 melee distance.
+When you are in your bear form, your size becomes 2, and you gain a +2 bonus to speed and a +1 bonus to distance with melee weapon abilities.

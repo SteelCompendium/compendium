@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # Repulsive Ward
 
-You make yourself an invisible ward of telekinetic energy. When an adjacent creature deals damage to you, you can push them a number of squares equal to your Reason score as a free triggered action.
+You surround yourself with an invisible ward of telekinetic energy. Whenever an adjacent creature deals damage to you, you can use a free triggered action to push them up to a number of squares equal to your Reason score.

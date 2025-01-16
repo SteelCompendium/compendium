@@ -10,4 +10,4 @@ kind: stormwight kits
 
 # Animal Form: Crow
 
-When you are in your crow form, your movement gains the Fly keyword, you become the size of a bird, 1T. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide. Whenever your rage is 4 or higher, you can shapeshift to become a hybrid bipedal crow of your true form's size.
+When you are in your crow form, your size becomes 1T and your speed gains the Fly keyword. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide.

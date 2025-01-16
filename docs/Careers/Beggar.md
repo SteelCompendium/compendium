@@ -21,7 +21,7 @@ You gain the following career benefits:
 - **Languages:** Two languages
 - **Perk:** One interpersonal perk (*Quick Build:* Persistent)
 
-### **beggar Inciting Incidents**
+## **beggar Inciting Incidents**
 
 | d6  | Incident                                                  |
 | --- | --------------------------------------------------------- |

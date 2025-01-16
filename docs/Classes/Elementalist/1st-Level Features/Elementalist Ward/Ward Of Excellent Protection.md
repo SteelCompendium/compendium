@@ -10,6 +10,4 @@ kind: 1st-level features
 
 # Ward Of Excellent Protection
 
-*The protective shield you weave around yourself is made of all the elements.*
-
-Your magic protects you from the elements. You have immunity to acid, cold, corruption, fire, and lightning equal to your level.
+The protective shield you weave around yourself is made of all the elements to channel their full protective power. You have immunity to acid, cold, corruption, fire, and lightning damage equal to your Reason score.

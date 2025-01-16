@@ -10,4 +10,4 @@ kind: stormwight kits
 
 # Primordial Storm
 
-Each stormwight is associated with a primordial storm that refers to a specific damage type used by certain stormwight abilities.
+Each stormwight is associated with a primordial storm, which channels a specific damage type used by some of your abilities.

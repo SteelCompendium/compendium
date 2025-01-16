@@ -10,4 +10,4 @@ kind: 2nd-level features
 
 # Goaded
 
-You choose what order enemies marked by you take their initiative order. Other creatures grouped with a marked target must take their turn at the same time you choose.
+You have learned to leverage the psychology of your marked foes and goad them into acting before they are tactically ready. When a creature marked by you uses a strike that targets you or an ally, you can use a free triggered action to retarget the attack to you or another one of your allies or yourself. The new target must be a valid option for the strike.

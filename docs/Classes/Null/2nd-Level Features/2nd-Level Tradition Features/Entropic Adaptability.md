@@ -10,5 +10,4 @@ kind: 2nd-level features
 
 # Entropic Adaptability
 
-- You ignore difficult terrain from cold and ice effects and gain the climb keyword for your movement.
-- You have cold immunity equal to twice your Intuition score.
+You ignore difficult terrain related to cold and ice, and you can automatically climb at full speed while moving. Additionally, you have cold immunity equal to twice your Intuition score.

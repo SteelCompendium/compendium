@@ -12,8 +12,16 @@ kind: 2nd-level features
 
 As a 2nd-level fury, you gain the following features.
 
-[2ND-LEVEL ASPECT FEATURE](./2nd-Level%20Aspect%20Feature/2nd-Level%20Aspect%20Feature.md)
+[2ND-LEVEL ASPECT FEATURE](./2nd-Level%20Aspect%20Feature.md)
 
-[UNSTOPPABLE FORCE](./Unstoppable%20Force.md)
+[2ND-LEVEL ASPECT FEATURES](./2nd-Level%20Aspect%20Features/2nd-Level%20Aspect%20Features.md)
 
 [PERK](./Perk.md)
+
+[2ND-LEVEL ASPECT ABILITY](./2nd-Level%20Aspect%20Ability/2nd-Level%20Aspect%20Ability.md)
+
+[WRECKING BALL (5 RAGE)](./Wrecking%20Ball/Wrecking%20Ball.md)
+
+[RRRAAAGHH!(5 RAGE)](<./RRRAAAGHH(5%20RAGE)/RRRAAAGHH(5%20RAGE).md>)
+
+[APEX PREDATOR (5 RAGE)](./Apex%20Predator.md)

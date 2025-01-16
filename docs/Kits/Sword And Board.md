@@ -16,18 +16,18 @@ distance: Melee 1 **Target:** 1 creature
 
 The Sword and Board kit doesn't just give you a shield--it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you can protect yourself and control the battlefield.
 
-## Equipment
+### Equipment
 
 You wear medium armor and wield a shield and a medium weapon.
 
-## Kit Bonuses
+### Kit Bonuses
 
 - **Stamina Bonus:** +9 per echelon
 - **Melee Damage Bonus:** +2/+2/+2
 - **Stability Bonus:** +1
 - **Disengage Bonus:** +1
 
-## Signature Ability
+### Signature Ability
 
 ## Shield Bash
 

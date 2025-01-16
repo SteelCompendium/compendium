@@ -64,19 +64,19 @@ You can carve a rune onto your skin and the magic within your body activates it.
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Grounded, Spark Off Your Skin)
 
-### Grounded (costs 1 Point)
+#### Grounded (costs 1 Point)
 
 Your heavy stone body and connection to the earth makes it difficult for others to move you. Your stability increases by 1.
 
-### Stand Tough (costs 1 Point)
+#### Stand Tough (costs 1 Point)
 
 Your body is made to withstand the blows of your enemies. Your Might counts as 1 higher for resisting potencies.
 
-### Stone Singer (costs 1 Point)
+#### Stone Singer (costs 1 Point)
 
 You have a magic connection to the earth. You can spend 1 uninterrupted hour singing and reshape any unworked, mundane stone within 3 squares of you. You can't destroy this stone, but you can move each square of it anywhere within 3 squares of you, piling it off to one side to dig a hole or building it all up to create a wall.
 
-### Great Fortitude (costs 2 Points)
+#### Great Fortitude (costs 2 Points)
 
 Your hearty constitution prevents you from losing strength. You can't be weakened.
 

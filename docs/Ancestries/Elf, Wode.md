@@ -115,7 +115,7 @@ You have 3 ancestry points to spend on the following traits.
 
 FOREST WALK (COSTS 1 POINT) You can shift into difficult terrain.
 
-### Revisit Memory (costs 1 Point)
+#### Revisit Memory (costs 1 Point)
 
 Accessing memories is as easy as living in the present for you. You have an edge on all tests made to recall lore.
 

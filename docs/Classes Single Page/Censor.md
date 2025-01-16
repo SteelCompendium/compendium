@@ -37,7 +37,7 @@ You're at your best against the strongest foes. Your judgments terrify heretics,
 
 **Skills:** Choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Intimidate, Religion)
 
-#### **censor Advancement**
+### **censor Advancement**
 
 | Level | Features                    | Abilities   | Order     |
 | ----- | --------------------------- | ----------- | --------- |
@@ -120,7 +120,7 @@ If you use an ability outside of combat that lets you spend unlimited wrath on i
 
 You pick out the enemies most worthy of your wrath and place a divine judgment upon them, censoring them with the power of your god. You have the following ability.
 
-#### Judgment
+### Judgment
 
 *You utter a pray that outlines your foe in holy energy.*
 
@@ -157,7 +157,7 @@ You can use and gain the benefits of a kit. See the Kits chapter for more inform
 
 You channel your will to mend your wounds or the wounds of your allies. You gain the following ability.
 
-#### My Life For Yours
+### My Life For Yours
 
 *The first principle of the oath: defend the righteous.* **Keywords:** Magic, Ranged **Type:** Triggered
 
@@ -169,7 +169,7 @@ You channel your will to mend your wounds or the wounds of your allies. You gain
 
 You gain a domain feature from one of your domains as shown on the 1st-Level Censor Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table.
 
-#### **1st-level Censor Domain Features**
+### **1st-level Censor Domain Features**
 
 | Domain     | Feature                       | Skill         |
 | ---------- | ----------------------------- | ------------- |
@@ -271,7 +271,7 @@ You use a blend of martial techniques and divine magic to attack your foes and d
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Your Allies Cannot Save You)
 
-#### Back, Blasphemer!
+### Back, Blasphemer!
 
 *You channel power through your weapon to repel foes.* **Keywords:** Area, Magic, Weapon **Type:** Action **Distance:** 2 cube within 1
 
@@ -281,7 +281,7 @@ Choose one signature ability from the following options. Signature abilities can
 - *12-16:* 4 **holy damage; push 2**
 - *17+:* 6 **holy damage; push 3**
 
-#### Every Step ... Death!
+### Every Step ... Death!
 
 *You show your foe a glimpse of their fate after death.*
 
@@ -293,7 +293,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** Each time the target willingly moves before the end of your next turn, they take 1 psychic damage for each square they move.
 
-#### Halt, Miscreant!
+### Halt, Miscreant!
 
 *"Your race is run!"*
 
@@ -303,7 +303,7 @@ Choose one signature ability from the following options. Signature abilities can
 - *12-16:* 5 + M **holy damage;** P \< average\*\*, slowed (save ends)\*\*
 - *17+:* 7 + M **holy damage;** P \< strong\*\*, slowed (save ends)\*\*
 
-#### Your Allies Cannot Save You!
+### Your Allies Cannot Save You!
 
 *"See how they abandon you!"*
 
@@ -319,11 +319,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 You call upon a number of heroic abilities, all of them bound to your wrath. (*Quick Build:* The Gods Punish and Defend)
 
-#### 3-wrath Ability
+##### 3-wrath Ability
 
 Choose one heroic ability from the following options, each of which costs 3 wrath to use.
 
-#### Behold, A Shield Of Faith! (3 Wrath)
+### Behold, A Shield Of Faith! (3 Wrath)
 
 *"Allow me to intercede."*
 
@@ -335,7 +335,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 **Effect:** Until the start of your next turn, enemies have a bane on ability power rolls made against you and each ally adjacent to you.
 
-#### Driving Assault (3 Wrath)
+### Driving Assault (3 Wrath)
 
 *As you force your enemy back with your weapon, you use your faith to stay close.*
 
@@ -347,7 +347,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 **Effect:** You can shift up to your speed and must end that shift within distance of the target.
 
-#### The Gods Punish And Defend (3 Wrath)
+### The Gods Punish And Defend (3 Wrath)
 
 *You channel holy energy to smite a foe and heal an ally.*
 
@@ -359,7 +359,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 **Effect:** You can spend a Recovery to allow yourself or one ally within 10 squares of you to regain Stamina equal to your Recovery value.
 
-#### Repent! (3 Wrath)
+### Repent! (3 Wrath)
 
 *You conjure memories of their sins.*
 
@@ -377,7 +377,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* Purifying Fire)
 
-#### Arrest (5 Wrath)
+### Arrest (5 Wrath)
 
 *"I got you, you son of a bitch."*
 
@@ -389,7 +389,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 **Effect:** If the target makes a strike against a creature while grabbed by you, you can then spend 3 wrath to deal holy damage to them equal to your Presence score and change the target of the strike to another target within the strike's distance.
 
-#### Behold The Face Of Evil! (5 Wrath)
+### Behold The Face Of Evil! (5 Wrath)
 
 *You show your enemies a vision of the true nature of one of their companions.*
 
@@ -401,7 +401,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 **Effect:** Each enemy frightened by this ability is pushed 2 squares away from the target and takes psychic damage equal to your Presence score.
 
-#### Censored (5 Wrath)
+### Censored (5 Wrath)
 
 *Judged and sentenced.*
 
@@ -413,7 +413,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 **Effect**: If a target who is not a leader or a solo creature is winded after the damage is resolved, they die.
 
-#### Purifying Fire (5 Wrath)
+### Purifying Fire (5 Wrath)
 
 *The gods judge, fire cleanses.*
 
@@ -437,7 +437,7 @@ You gain an interpersonal, lore, or supernatural perk of your choice. See Perks 
 
 Your censor order grants you a feature as shown on the 2nd-Level Order Features table.
 
-#### **2nd-level Order Features**
+### **2nd-level Order Features**
 
 | Order    | Features                             |
 | -------- | ------------------------------------ |
@@ -457,7 +457,7 @@ Your focus on your fragmentary visions to gain divine insight on creatures and t
 
 Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. When you are adjacent to a target, any ally gains the benefits of flanking against that target. Additionally, each of your allies gains an edge on tests made to aid other creatures with their tests.
 
-#### Saint's Vigilance
+### Saint's Vigilance
 
 You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you cannot take the Hide maneuver. You have an edge when searching for hidden creatures and, if you find a hidden creature, you can use Judgment on them as a free triggered action.
 
@@ -477,13 +477,13 @@ Your censor order grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-#### It Is Justice You Fear (5 Wrath)
+### It Is Justice You Fear (5 Wrath)
 
 | I am but a vessel. Your own deeds weigh upon you. |
 | ------------------------------------------------- |
 | Keywords: Magic, Ranged, Strike Type: Action      |
 
-#### **distance:** Ranged 10 **target:** One Creature
+### **distance:** Ranged 10 **target:** One Creature
 
 **Power Roll + Might:**
 
@@ -493,23 +493,23 @@ Choose one of the following abilities.
 
 **Effect:** If the target is already frightened of you or another creature when you use this ability and it would frighten them again, they take psychic damage equal to twice your Presence score instead.
 
-#### Revelator (5 Wrath)
+### Revelator (5 Wrath)
 
 *You channel holy energy to harm unbelievers and reveal those hidden from your judgment.*
 
 **Effect:** Each target takes twice your Presence in holy damage. Any hidden enemies are automatically revealed and can't become hidden again until the start of your next turn. You can use Judgment on one of the targets as a free triggered action.
 
-### 2nd-level Oracle Ability
+#### 2nd-level Oracle Ability
 
 Choose one of the following abilities.
 
-#### Prescient Grace (5 Wrath)
+### Prescient Grace (5 Wrath)
 
 *"Hah! I see your plan. It will not work!"*
 
 **Trigger:** An enemy within 10 squares starts their turn. **Effect:** You can spend a Recovery to allow the target to regain Stamina equal to your Recovery value. The target can then take their turn immediately before the triggering enemy.
 
-#### With My Blessing (5 Wrath)
+### With My Blessing (5 Wrath)
 
 *A word in prayer, and the gods show the way.*
 
@@ -519,13 +519,13 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-#### Blessing Of The Faithful (5 Wrath)
+### Blessing Of The Faithful (5 Wrath)
 
 *The gods reward your faith.*
 
 **Effect:** Until the end of the encounter or you are dying, each target in the aura gains a surge at the end of each of your turns.
 
-#### Sentenced (5 Wrath)
+### Sentenced (5 Wrath)
 
 *I am the law!*
 
@@ -549,23 +549,23 @@ Your judgment has grown in divine power, manifesting your deity's ire against bl
 
 Choose one heroic ability from the following options, each of which costs 7 wrath to use.
 
-#### Edict Of Disruptive Isolation (7 Wrath)
+### Edict Of Disruptive Isolation (7 Wrath)
 
 *Gather not together in secret to conspire.*
 
 **Effect:** Until the end of the encounter or you are dying, at the end of each of your turns, each target takes holy damage equal to your Presence score. Any target adjacent to one or more enemies takes an extra 2d6 holy damage if they are judged by you or adjacent to one of your enemies.
 
-#### Edict Of Perfect Order (7 Wrath)
+### Edict Of Perfect Order (7 Wrath)
 
 *Use not the fell arts!*
 
-#### Edict Of Purifying Pacifism (7 Wrath)
+### Edict Of Purifying Pacifism (7 Wrath)
 
 *Shed not the blood of innocents!*
 
 **Effect:** Until the end of the encounter or you are dying, whenever a target makes a strike, they take holy damage equal to twice your Presence score. A target judged by you takes an extra 2d6 holy damage.
 
-#### Edict Of Stillness (7 Wrath)
+### Edict Of Stillness (7 Wrath)
 
 *Flee not from just punishment.*
 
@@ -583,7 +583,7 @@ Your Might and Presence scores increase to 3.
 
 You gain a domain feature from one of your domains, as shown on the 4th-Level Censor Domain Features table.
 
-#### **4th-level Censor Domain Features**
+### **4th-level Censor Domain Features**
 
 | Domain    | Feature                     |
 | --------- | --------------------------- |
@@ -642,11 +642,11 @@ As a maneuver, you can make your body shine brightly, illuminating your space an
 
 When you finish a respite, you can share the details of the vague dreams of the future granted to you by the gods that you had while resting with any other creatures finishing the respite with you. These details help you and your allies stay alive, granting you 10 + your level Temporary Stamina that lasts until the end of their next respite if it doesn't disappear through damage first.
 
-### Seance
+#### Seance
 
 You can commune with a network of spirits. As a respite activity, you can speak the name of a creature who died who isn't undead. If the creature's spirit is free and willing to speak with you, they appear and you can have a conversation with them. During this time, the creature responds to you as they would have in life. If the creature isn't free or willing to appear, you can use your respite activity to do something else or call out to another name.
 
-#### Saint's Epiphany
+### Saint's Epiphany
 
 At the start of a respite, you can inspire yourself or another creature also taking the respite with you with divine knowledge whispered by the gods. If the target makes a project roll during this respite, they can add 1d10 plus your Presence to the result of the project roll.
 
@@ -678,7 +678,7 @@ As a 5th-level censor, you gain the following features.
 
 Your specialization grants you features as shown on the 5th-Level Tactical Doctrines Features table.
 
-#### **5th-level Order Features**
+### **5th-level Order Features**
 
 | Doctrine | Feature       |
 | -------- | ------------- |
@@ -702,13 +702,13 @@ Your divine spark grows in power, allowing you and your allies to focus and endu
 
 Choose one heroic ability from the following options.
 
-#### Gods Grant Thee Strength (9 Wrath)
+### Gods Grant Thee Strength (9 Wrath)
 
 *You channel divine force for movement that cannot be stopped.*
 
 **Effect:** The target ends any condition or effect affecting them with a duration of EoT or save ends. If the target is prone, they can stand up. Then the target gains two surges and can shift their speed, ignoring difficult terrain during the shift, and can make a signature strike as a free triggered action.
 
-#### Orison Of Victory (9 Wrath)
+### Orison Of Victory (9 Wrath)
 
 *You channel your god's will to overcome hardship and inflict pain.*
 
@@ -720,7 +720,7 @@ Choose one heroic ability from the following options.
 
 **Effect:** Each target ends any condition or effect affecting them with a duration of EoT or save ends. In addition, if the target is prone, they can stand up.
 
-#### Righteous Judgment (9 Wrath)
+### Righteous Judgment (9 Wrath)
 
 *You amplify the power of your judgment.* **Keywords:** Melee, Strike, Weapon **Type:** Action
 
@@ -732,7 +732,7 @@ Choose one heroic ability from the following options.
 
 **Effect:** For the rest of the encounter, whenever an ally deals damage to a target judged by you, they gain one surge.
 
-#### Shield Of The Righteous (9 Wrath)
+### Shield Of The Righteous (9 Wrath)
 
 *You strike a foe and create a fleet of divine shields that protect your allies.*
 
@@ -771,7 +771,7 @@ Your specialization grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-#### Begone!(9 Wrath)
+### Begone!(9 Wrath)
 
 *You terrify your enemies into retreating, creating chaos in their ranks.*
 
@@ -781,7 +781,7 @@ Choose one of the following abilities.
 - *12-16:* 6 **psychic damage; slide 5**
 - *17+:* 8 **psychic damage; slide 7**
 
-#### Pain Of Your Own Making (9 Wrath)
+### Pain Of Your Own Making (9 Wrath)
 
 *You reverse the effects from an evildoer.*
 
@@ -791,13 +791,13 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-#### Edict Of Peace (9 Wrath)
+### Edict Of Peace (9 Wrath)
 
 *You anticipate your foes minor moves and deny them.*
 
 **Effect:** Until the end of the encounter or you are dying, whenever a target takes a triggered action or free triggered action, that action is canceled, and the target instead takes holy damage equal to your Presence score.
 
-#### The Burden Of Evil (9 Wrath)
+### The Burden Of Evil (9 Wrath)
 
 *Using the power of prophecy you disrupt your enemy's plans.*
 
@@ -811,7 +811,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-#### Crusaders (9 Wrath)
+### Crusaders (9 Wrath)
 
 *You focus your allies on your judged foe.* **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
 
@@ -823,7 +823,7 @@ Choose one of the following abilities.
 
 **Effect:** Each ally can shift 2 squares and gains two surges before making the strike.
 
-#### Intercede (9 Wrath)
+### Intercede (9 Wrath)
 
 *You take your ally's place. "Earn this!"*
 
@@ -843,7 +843,7 @@ All of your characteristics increase by 1, to a maximum score of 4.
 
 You gain a domain feature from one of your domains, as shown on the 7th-Level Censor Domain Features table.
 
-#### **7th-level Censor Domain Features Domain Feature**
+### **7th-level Censor Domain Features Domain Feature**
 
 Creation Divine Quartermaster Death Word of Death Deferred Fate Word of Fate Denied Knowledge Gods' Library Life Font of Grace Love Covenant of the Heart Nature Nature's Bounty Protection Blessing of Iron Storm Ride the Lightning Sun Light of the Burning Sun Trickery Trinity of Trickery War Your Triumphs are Remembered
 
@@ -855,7 +855,7 @@ The gods send divine favor to intercede on behalf of you and your allies. While 
 
 You can maintain up to three bonds with your Invocation of the Heart feature. Additionally, you gain the following ability.
 
-#### Guided To Your Side
+### Guided To Your Side
 
 *You concentrate on a friend and teleport to them.*
 
@@ -869,7 +869,7 @@ When you finish a respite, you can choose a treasure with a project goal up to 5
 
 When you use My Life For Yours, you gain 1 free wrath to spend on the ability that turn. If you don't use this wrath on this ability, it disappears. Additionally, the target of My Life For Yours gains 10 Temporary Stamina.
 
-#### Gods' Library
+### Gods' Library
 
 You can gain access to information you need through prayer and no longer require research materials for crafting and research projects. You can add your level to project rolls you make for crafting and research projects. Additionally, you gain all the skills in the lore skill group you don't already have, and can gain a number of skills equal to the number you already had in the lore skill group before gaining this feature.
 
@@ -877,7 +877,7 @@ You can gain access to information you need through prayer and no longer require
 
 Sun is infused in your body. When you deal damage to another creature with an ability, that ability deals 5 fire damage or 15 fire damage to undead creatures. In addition, you have fire immunity equal to your level. This fire immunity stacks with any other fire immunity you have.
 
-#### Nature's Bounty
+### Nature's Bounty
 
 Whenever you finish a respite, you prepare a magic meal of local flora for any companions who rested with you. Choose two of the following benefits. Each creature who consumes the meal gains those benefits until they finish another respite.
 
@@ -895,13 +895,13 @@ Lightning and thunder are infused in your body. When you deal damage to another 
 
 You gain the following ability.
 
-#### Trinity Of Trickery (9 Wrath)
+### Trinity Of Trickery (9 Wrath)
 
 *Hey! I'm over here. No, here, numbskull.*
 
 **Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move the duplicates up to their speed. When one of the duplicates takes damage, the duplicate is destroyed. If the target is target with an ability, they can use a free triggered action to switch places with a duplicate in line of effect. The duplicate becomes the target instead.
 
-### Word Of Death Deferred
+#### Word Of Death Deferred
 
 You can stop death from taking your allies. When an ally within your My Life For Yours distance dies and you are not dying, you can use a free triggered action to instead have them fall unconscious until they regain Stamina.
 
@@ -911,7 +911,7 @@ Additionally, your abilities deal an additional 5 damage to winded creatures.
 
 When an ally within 10 squares of you takes damage that would make them start dying, you can transfer the harm to yourself or another willing creature within 10 squares of you as a free triggered action. The creature you choose takes the damage instead and suffers any effect associated with it, and that damage can't be reduced in any way.
 
-### Your Triumphs Are Remembered
+#### Your Triumphs Are Remembered
 
 The gods allow you and your companions to bask in the glory of past successes. When you end a respite, you and any other heroes ending the respite with you have 1 Victory instead of 0. This Victory can't be converted into XP.
 
@@ -931,7 +931,7 @@ As an 8th-level censor, you gain the following features.
 
 Your specialization grants you features as shown on the 8td-Level Tactical Doctrines Features table.
 
-#### **5th-level Order Features**
+### **5th-level Order Features**
 
 | Doctrine | Feature          |
 | -------- | ---------------- |
@@ -959,7 +959,7 @@ You gain any perk of your choice. See Perks for more information.
 
 Choose one heroic ability from the following options.
 
-#### Excommunication (11 Wrath)
+### Excommunication (11 Wrath)
 
 *You curse your foe to become a bane to their allies.*
 
@@ -975,7 +975,7 @@ Choose one heroic ability from the following options.
 
 **Effect:** While weakened, the target deals holy damage equal to twice your Presence score to other enemies within 2 squares of them at the end of your turn. In addition, while weakened, the target cannot be targeted with abilities from their allies.
 
-#### Hand Of The Gods (11 Wrath)
+### Hand Of The Gods (11 Wrath)
 
 *You use your foe as a tool against your enemies.*
 
@@ -987,7 +987,7 @@ Choose one heroic ability from the following options.
 
 **Effect:** For the rest of the encounter, while the target is judged, you can choose the target as the source for any of your abilities. The target counts as an ally for the purposes of flanking.
 
-#### A Pillar Of Holy Fire (11 Wrath)
+### A Pillar Of Holy Fire (11 Wrath)
 
 | Your enemy's guilt fuels a holy flame that burns your foes. |
 | ----------------------------------------------------------- |
@@ -1002,7 +1002,7 @@ Choose one heroic ability from the following options.
 
 **Effect:** While dazed, the target deals holy damage equal to twice your Presence score to other enemies within 2 squares of them at the end of your turn.
 
-#### Your Allies Turn On You! (11 Wrath)
+### Your Allies Turn On You! (11 Wrath)
 
 *You turn your enemy's ire to the target.*
 
@@ -1034,7 +1034,7 @@ Your specialization grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-#### Banish (11 Wrath)
+### Banish (11 Wrath)
 
 *You sever the target's tenuous connection to the world.*
 
@@ -1046,7 +1046,7 @@ Choose one of the following abilities.
 
 **Effect:** The target is banished to another manifold in the timescape and removed from the encounter. While removed the only action they can take is to make saving throws. While banished, whenever the target rolls to save against any effect they take 10 holy damage. If they are reduced to 0 Stamina while banished, they are lost to the timescape. This ability has an edge against demons, devils, undead, and creatures not native to Orden. If you know the true name of the target this ability has a double edge.
 
-#### Terror Manifest (11 Wrath)
+### Terror Manifest (11 Wrath)
 
 *I know what you fear.*
 
@@ -1062,13 +1062,13 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-#### Blessing And A Curse (11 Wrath)
+### Blessing And A Curse (11 Wrath)
 
 *The gods bless and damn in equal measures.*
 
 **Effect:** The target automatically gets a tier 1 or tier 3 result on their power roll, chosen by you. Select another target within range to get a tier 1 or tier 3 result on their next power roll. You must choose different tiers for each target.
 
-#### Fulfill Your Destiny (11 Wrath)
+### Fulfill Your Destiny (11 Wrath)
 
 *Your have looked at various futures and only this one works.* **Keywords:** Magic, Ranged **Type:** Triggered Action **Distance:** Ranged 10 **Target:** 1 ally **Trigger:** You or another hero ends their turn.
 
@@ -1078,7 +1078,7 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-#### Apostate (11 Wrath)
+### Apostate (11 Wrath)
 
 *You channel holy energy to seal an enemy's fate.*
 
@@ -1090,7 +1090,7 @@ Choose one of the following abilities.
 
 **Effect:** Until the end of the counter or you become dying, the target has damage weakness 10.
 
-#### Edict Of Unyielding Resolve (11 Wrath)
+### Edict Of Unyielding Resolve (11 Wrath)
 
 *You and your allies are clad in shimmering armor.*
 

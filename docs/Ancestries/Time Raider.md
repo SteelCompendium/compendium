@@ -124,19 +124,19 @@ Your multiple arms let you take on multiple tasks at the same time. Whenever you
 
 You have 2 ancestry points to spend on the following traits. (*Quick Build:* Beyond Sight, Psychic Scar: Psionic Bolt)
 
-### Beyondsight (costs 1 Point)
+#### Beyondsight (costs 1 Point)
 
 As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that 1 square thick or less. While your vision is adjusted this way, you can't see and don't have line of effect to any creatures or objects within 1 square of you. You can return your vision to normal as a maneuver.
 
-### Foresight (costs 1 Point)
+#### Foresight (costs 1 Point)
 
 Your senses extend past mundane obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren't hidden from you, negating the usual bane on strikes against them. Additionally, whenever you are targeted with a strike, you can use a triggered action to impose a bane on the power roll.
 
-### Psychic Scar (costs 1 Point)
+#### Psychic Scar (costs 1 Point)
 
 Your mind is a formidable layer of defense, granting you psychic immunity equal to your level.
 
-### Psionic Gift (costs 2 Points)
+#### Psionic Gift (costs 2 Points)
 
 You gain one of the following signature abilities.
 
@@ -171,6 +171,6 @@ You gain one of the following signature abilities.
 
 **Effect:** The target's speed increases by an amount equal to your Reason, Intuition, or Presence score (your choice) until the start of your next turn.
 
-### Unstoppable Mind (costs 2 Points)
+#### Unstoppable Mind (costs 2 Points)
 
 Your mind allows you to maintain your focus in any situation. You can't be dazed.

@@ -16,18 +16,18 @@ distance: Melee 1 **Target:** 1 creature
 
 If you want to be fast in a fight, then Martial Artist is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes to opponents, and allows you to be the ultimate skirmisher.
 
-## Equipment
+### Equipment
 
 You wear no armor and wield only your unarmed strikes.
 
-## Kit Bonuses
+### Kit Bonuses
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +3
 - **Melee Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
 
-## Signature Ability
+### Signature Ability
 
 ## Battle Grace
 

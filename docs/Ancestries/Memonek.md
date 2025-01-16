@@ -104,30 +104,30 @@ Your body is light for a creature of your height. Your size is considered 1S whe
 
 You have 4 ancestry points to spend on the following traits. (*Quick Build:* Lightning Nimbleness, Nonstop)
 
-### I Am Law (costs 1 Point)
+#### I Am Law (costs 1 Point)
 
 Your lawful nature and quick reflexes give no quarter to enemies trying to get around you. Enemy creatures can't pass through your space unless you allow them to do so.
 
-### Systematic Mind (costs 1 Point)
+#### Systematic Mind (costs 1 Point)
 
 You have an edge on tests to parse schematics, maps, and other systematic documentation that aren't inherently chaotic. In addition, you interact with any language you don't know as if you know a related language, whether or not you actually do.
 
-### Unphased (costs 1 Point)
+#### Unphased (costs 1 Point)
 
 Your ordered mind can't be caught off guard. You can't be surprised.
 
-### Useful Emotion (costs 1 Point)
+#### Useful Emotion (costs 1 Point)
 
 Velloparatha might hinder, but it also fuels your strikes. You know how to turn your pain into something your enemies feel. When combat starts, you gain one surge.
 
-### Keeper Of Order (costs 2 Points)
+#### Keeper Of Order (costs 2 Points)
 
 Your connection to Axiom, the plane of uttermost law, allows you manage chaos around you. When you or a creature adjacent to you makes a power roll, you can remove an edge or a bane on the roll as a free triggered action. You can only use this benefit once per round.
 
-### Lightning Nimbleness (costs 2 Points)
+#### Lightning Nimbleness (costs 2 Points)
 
 You can push your body to move at incredible speeds. Your speed is 7.
 
-### Nonstop (costs 2 Points)
+#### Nonstop (costs 2 Points)
 
 Your connection to Axiom allows you to regulate your movements, even when other creatures would be forced to pause. You can't be slowed.

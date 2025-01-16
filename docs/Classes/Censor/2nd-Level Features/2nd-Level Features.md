@@ -14,8 +14,24 @@ As a 2nd-level censor, you gain the following features.
 
 [PERK](./Perk.md)
 
+[2ND-LEVEL ORDER FEATURES](./2nd-Level%20Order%20Features.md)
+
 [2ND-LEVEL ORDER FEATURES](./2nd-Level%20Order%20Features/2nd-Level%20Order%20Features.md)
+
+[SAINT'S VIGILANCE](./Saints%20Vigilance/Saints%20Vigilance.md)
 
 [2ND-LEVEL ORDER ABILITY](./2nd-Level%20Order%20Ability/2nd-Level%20Order%20Ability.md)
 
-[2ND-LEVEL ORACLE ABILITY](./2nd-Level%20Oracle%20Ability/2nd-Level%20Oracle%20Ability.md)
+[IT IS JUSTICE YOU FEAR (5 WRATH)](./It%20Is%20Justice%20You%20Fear.md)
+
+[Distance: Ranged 10 Target: One creature](./Distance%20Ranged%2010%20Target%20One%20Creature.md)
+
+[REVELATOR (5 WRATH)](./Revelator/Revelator.md)
+
+[PRESCIENT GRACE (5 WRATH)](./Prescient%20Grace.md)
+
+[WITH MY BLESSING (5 WRATH)](./With%20My%20Blessing/With%20My%20Blessing.md)
+
+[BLESSING OF THE FAITHFUL (5 WRATH)](./Blessing%20Of%20The%20Faithful.md)
+
+[SENTENCED (5 WRATH)](./Sentenced.md)

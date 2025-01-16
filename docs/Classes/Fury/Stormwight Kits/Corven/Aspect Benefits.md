@@ -10,4 +10,4 @@ kind: stormwight kits
 
 # Aspect Benefits
 
-You gain an edge on tests made to hide and sneak. Whenever you are falling, you can use your Animal Form ability as a free triggered action.
+You gain an edge on tests made to hide and sneak. Additionally, whenever you are falling, you can use a free triggered action to use your Aspect of the Wild ability.

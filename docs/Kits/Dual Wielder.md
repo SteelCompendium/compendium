@@ -15,18 +15,18 @@ keyword_list:
 
 The Dual Wielder kit is for folks who want to excel at using two weapons at the same time. The fighting style maximizes the power of each instrument in your hands, making you a whirling deliverer of death.
 
-## Equipment
+### Equipment
 
 You wear medium armor and wield a light weapon and a medium weapon.
 
-## Kit Bonuses
+### Kit Bonuses
 
 - **Stamina Bonus:** +6 per echelon
 - **Speed Bonus:** +2
 - **Melee Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
 
-## Signature Ability
+### Signature Ability
 
 ## Double Strike
 

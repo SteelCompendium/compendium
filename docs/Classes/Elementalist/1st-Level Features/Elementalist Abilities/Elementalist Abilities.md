@@ -10,8 +10,6 @@ kind: 1st-level features
 
 # Elementalist Abilities
 
-Your mastery of elemental magic grants you unique magical abilities that let you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you.
+Your mastery of elemental magic grants you unique magical abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any elemental specialization, or can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
 
-[SIGNATURE ABILITIES](./Signature%20Abilities/Signature%20Abilities.md)
-
-[HEROIC ABILITIES](./Heroic%20Abilities/Heroic%20Abilities.md)
+[SIGNATURE ABILITIES](./Signature%20Abilities.md)

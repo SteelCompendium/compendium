@@ -10,5 +10,4 @@ kind: 2nd-level features
 
 # Rapid Processing
 
-- You can read an entire book as a maneuver.
-- You can take a bonus respite activity.
+As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any respite, you can take an additional respite activity.

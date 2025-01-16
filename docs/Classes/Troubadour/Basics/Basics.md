@@ -16,18 +16,18 @@ kind: basics
 - 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Presence score - 1
+**Weak Potency:** Presence - 2
 
-**Average Potency:** Presence score
+**Average Potency:** Presence - 1
 
-**Strong Potency:** Presence score + 1
+**Strong Potency:** Presence
 
 **Starting Stamina at 1st Level:** 18
 
-**Stamina Gained at 2nd and greater levels:** 9
+**Stamina Gained at 2nd and Higher Levels:** 9
 
 **Recoveries:** 8
 
-**Skills:** You have Read Person and choose two skills from the interpersonal group and one skill from the intrigue or lore groups.
+**Skills:** Read Person, plus choose two skills from the interpersonal group and one skill from the intrigue or lore groups. (*Quick Build:* Read Person, Brag, Rumors)
 
 [TROUBADOUR ADVANCEMENT](./Troubadour%20Advancement.md)

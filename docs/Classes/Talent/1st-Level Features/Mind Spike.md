@@ -6,34 +6,29 @@ name: Mind Spike
 type: classes
 subtype: talent
 kind: 1st-level features
-keywords: Attack, Psionic, Ranged, Telepathy
+keywords: Psionic, Ranged, Strike, Telepathy
 keyword_list:
-  - Attack
   - Psionic
   - Ranged
+  - Strike
   - Telepathy
 ability_type: Action
-distance: Ranged 10
-target: 1 creature
+distance: Ranged 10 **Target:** One creature
 ---
 
 # Mind Spike
 
-You can fire a bolt of psychic energy into an enemy's mind. You gain access to the Mind Spike ability, which can be used as a ranged free strike:
+*A telepathic bolt instantly zaps a creature's brain.*
 
-## Mind Spike
-
-*A telepathic bolt that instantly zaps a creature's brain.*
-
-|                                                  |                        |
-| :----------------------------------------------- | :--------------------- |
-| **Keywords:** Attack, Psionic, Ranged, Telepathy | **Type:** Action       |
-| **Distance:** Ranged 10                          | **Target:** 1 creature |
+|                                                  |                  |
+| :----------------------------------------------- | :--------------- |
+| **Keywords:** Psionic, Ranged, Strike, Telepathy | **Type:** Action |
+| **Distance:** Ranged 10 **Target:** One creature | **Target:**      |
 
 **Power Roll + Reason:**
 
-- **11 or lower:** 2 psychic damage
-- **12-16:** 4 psychic damage
-- **17+:** 6 psychic damage
+- *11 or lower:* **2 + R psychic damage**
+- *12-16:* **4 + R psychic damage**
+- *17+:* **6 + R psychic damage**
 
-**Strained:** The attack deals an extra 2 psychic damage to the target and yourself. This damage ignores your immunities.
+**Strained:** The strike deals an extra 2 psychic damage to the target and to you. The damage you take can't be reduced in any way.

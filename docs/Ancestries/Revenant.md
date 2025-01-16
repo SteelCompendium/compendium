@@ -103,23 +103,23 @@ Additionally, when your Stamina equals the negative of your winded value, you be
 
 You have 2 ancestry points to spend on the following traits, or 3 ancestry points to spend if your size is 1S. (*Quick Build:* Bloodless, plus Undead Influence if size 1S)
 
-### Previous Life: 1 Point (costs 1 Point)
+#### Previous Life: 1 Point (costs 1 Point)
 
 You gain a purchasable trait that costs 1 ancestry point from your previous ancestry. You can take this trait multiple times, selecting a new cost 1 trait from your previous ancestry each time you take this trait.
 
-### Undead Influence (costs 1 Point)
+#### Undead Influence (costs 1 Point)
 
 Your supernatural gifts allow you to influence other undead. You gain an edge on Reason, Intuition, and Presence tests made to interact with undead creatures.
 
-### Bloodless (costs 2 Points)
+#### Bloodless (costs 2 Points)
 
 For you, an open wound is indistinguishable from a scratch. You can't become bleeding.
 
-### Previous Life: 2 Points (costs 2 Points)
+#### Previous Life: 2 Points (costs 2 Points)
 
 You gain a purchasable trait that costs 2 ancestry points from your previous ancestry.
 
-### Vengeance Mark (costs 2 Points)
+#### Vengeance Mark (costs 2 Points)
 
 As a maneuver, you place a magic sigil on a creature within 10 squares of you. When you place a sigil, you can decide where it appears on the creature's body, and whether the sigil is visible to only you or to all creatures.
 

@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # Spirit Ward
 
-Invisible spirits surround you, flashing into existence briefly if you are harmed. When an adjacent creature deals damage to you, they take **1d6** magic corruption damage.
+Invisible spirits surround you if you are harmed. Whenever an adjacent creature deals damage to you, they take corruption damage equal to your Intuition score.

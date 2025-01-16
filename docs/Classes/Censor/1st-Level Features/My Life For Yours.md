@@ -11,10 +11,6 @@ distance: Ranged 10 **Target:** Self or one ally **Trigger:** The target starts 
 
 # My Life For Yours
 
-You channel your will to mend your wounds or the wounds of your allies. You gain the following ability.
-
-## My Life For Yours
-
 *The first principle of the oath: defend the righteous.* **Keywords:** Magic, Ranged **Type:** Triggered
 
 |                                                                                                                 |             |

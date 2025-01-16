@@ -16,18 +16,18 @@ keyword_list:
 
 The Warrior Priest kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine ... and the heavy armor you're wearing.
 
-## Equipment
+### Equipment
 
 You wear heavy armor and wield a light weapon.
 
-## Kit Bonuses
+### Kit Bonuses
 
 - **Stamina Bonus:** +9 per echelon
 - **Speed Bonus:** +1
 - **Stability Bonus:** +1
 - **Melee Damage Bonus:** +1/+1/+1
 
-## Signature Ability
+### Signature Ability
 
 ## Weakening Brand
 

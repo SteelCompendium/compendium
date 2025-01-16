@@ -16,10 +16,10 @@ With this stormwight kit, you channel your primordial rage into the form of a cr
 
 [ANIMAL FORM: CROW](./Animal%20Form%20Crow.md)
 
+[HYBRID FORM: CROW](./Hybrid%20Form%20Crow.md)
+
 [PRIMORDIAL STORM: KATABATIC WIND](./Primordial%20Storm%20Katabatic%20Wind.md)
 
 [KIT BONUSES](./Kit%20Bonuses.md)
 
-[SIGNATURE ABILITY](./Signature%20Ability/Signature%20Ability.md)
-
-[CROW GROWING RAGE](./Crow%20Growing%20Rage.md)
+[SIGNATURE ABILITY](./Signature%20Ability.md)

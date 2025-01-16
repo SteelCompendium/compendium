@@ -16,11 +16,11 @@ keyword_list:
 
 The Raider kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
 
-## Equipment
+### Equipment
 
 You wear light armor, and wield a shield and a light weapon.
 
-## Kit Bonuses
+### Kit Bonuses
 
 - **Stamina Bonus:** +6 per echelon
 - **Speed Bonus:** +1
@@ -29,9 +29,9 @@ You wear light armor, and wield a shield and a light weapon.
 - **Ranged Distance Bonus:** +5
 - **Disengage Bonus:** +1
 
-## Signature Ability
+### Signature Ability
 
-## Shock And Awe
+### Shock And Awe
 
 *You execute a brutal strike that leaves your foe reeling.*
 

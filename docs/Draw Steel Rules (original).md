@@ -709,7 +709,7 @@ If you're changing an option out for some reason other than fun, such as changin
 
 An optional rule the Director can include in your game is to allow heroes to change a number of their signature and heroic abilities granted by their class as a respite activity. This allows heroes to prepare for upcoming encounters and try new builds, but it does mean that Directors and players are constantly juggling and learning new abilities.
 
-## HEROIC ADVANCEMENT
+# HEROIC ADVANCEMENT
 
 Your character's heroic advancement is marked by level. Each time you gain a new level in your class, your Stamina increases, and you gain new features or abilities according to your class's advancement, as detailed in Classes.
 
@@ -730,13 +730,13 @@ In the standard setup for the game, heroes gain Experience each time they finish
 | 128-143 | 9     |
 | 144+    | 10    |
 
-### ALTERNATIVE ADVANCEMENT
+## ALTERNATIVE ADVANCEMENT
 
 Though many games might advance using the standard setup for heroic advancement, the Director can decide that their game uses different advancement. Check with your
 
 Director to see what method of advancement they plan to use.
 
-#### ADJUSTED XP ADVANCEMENT
+### ADJUSTED XP ADVANCEMENT
 
 Some Directors prefer that heroes level up faster or slower to suit the pace of their story. The Adjusted XP Advancement table is set up for campaigns where heroes advance at double or half the usual pace. Directors can also create their own customized pace for XP -based advancement.
 
@@ -755,13 +755,13 @@ Some Directors prefer that heroes level up faster or slower to suit the pace of 
 | 9     | 64-71               | 256-287           |
 | 10    | 72 +                | 288 +             |
 
-#### MILESTONE
+### MILESTONE
 
 Rather than tracking XP, some games see the heroes advance in level when they achieve a particular story milestone. For example, when a party defeat s the main villain of an adventure and foil s their dastardly plot, each hero gain s a level for achieving this objective, no matter how many or few obstacles they faced along the way.
 
 For many Directors using milestone advancement, the end of each adventure within a campaign serves as a milestone for leveling up. The Director can share these milestones with the players to encourage them to work toward particular goals, and to engage with the story and world the Director has prepared. For example, in a campaign where the heroes have to face nine evil mages, it make s sense that each time the heroes defeat a mage, they gain a level. The Director should keep milestone goals flexible, though. Defeating a mage could mean stopping them with violence, using negotiation to make them stand down, or anything else that thwarts their evil plans.
 
-#### DIRECTOR SAYS SO
+### DIRECTOR SAYS SO
 
 Some games don't track XP or goals at all. The heroes simply gain a level whenever the Director decides it's appropriate for the story.
 
@@ -972,31 +972,31 @@ Your innate magic allows you to twist how your words are perceived to get a bett
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beast Legs, Impressive Horns)
 
-#### BARBED TAIL (COSTS 1 POINT)
+##### BARBED TAIL (COSTS 1 POINT)
 
 Your pointy tail allows you to punctuate all your actions. Once per round, you can deal extra damage equal to your highest characteristic score on a melee strike.
 
-#### BEAST LEGS (COSTS 1 POINTS)
+##### BEAST LEGS (COSTS 1 POINTS)
 
 Your powerful legs improve your speed. Your speed becomes 6.
 
-#### GLOWING EYES (COSTS 1 POINT)
+##### GLOWING EYES (COSTS 1 POINT)
 
 Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a triggered action to curse that creature for daring to do you harm. The creature takes 1d10 + your level psychic damage.
 
-#### HELLSIGHT (COSTS 1 POINT)
+##### HELLSIGHT (COSTS 1 POINT)
 
 Your eyes let you see through the dark, fog, and other types of concealment. You don't take a bane on strikes against concealed, unhidden creatures.
 
-#### IMPRESSIVE HORNS (COSTS 2 POINT)
+##### IMPRESSIVE HORNS (COSTS 2 POINT)
 
 Your cherished horns are larger than the average devil and a hardened representation of your force of will, allowing you to succeed on a roll of 5 or higher with saving throws.
 
-#### PREHENSILE TAIL (COSTS 2 POINTS)
+##### PREHENSILE TAIL (COSTS 2 POINTS)
 
 Your prehensile tail allows you to challenge foes on all sides. You can't be flanked.
 
-#### WINGS (COSTS 2 POINTS)
+##### WINGS (COSTS 2 POINTS)
 
 You possess wings powerful enough to take you airborne. While using your wings to fly, you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall prone. While using your wings to fly at 1st, 2nd, and 3rd level, you have damage weakness 5.
 
@@ -1122,15 +1122,15 @@ Your hardened scales grant you immunity equal to your level to one of the follow
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Prismatic Scales, Dragon Breath)
 
-#### DRACONIAN GUARD (COSTS 1 POINT)
+##### DRACONIAN GUARD (COSTS 1 POINT)
 
 When you or a creature adjacent to you takes damage from a strike, you can use a triggered action to swing your wings around and guard against the blow, reducing the any damage from the strike by an amount equal to your level.
 
-#### PRISMATIC SCALES (COSTS 1 POINT)
+##### PRISMATIC SCALES (COSTS 1 POINT)
 
 Select one damage immunity granted by your Wyrmplate trait. You always have this immunity from your trait in addition to the one it normally grants.
 
-#### REMEMBER YOUR OATH (COSTS 1 POINTS)
+##### REMEMBER YOUR OATH (COSTS 1 POINTS)
 
 As a maneuver, you can recite the following oath. If you do, you succeed on saving throws when you roll a 4 or higher until the start of your next turn:
 
@@ -1154,7 +1154,7 @@ As a maneuver, you can recite the following oath. If you do, you succeed on savi
 
 *Until the last villain dies*
 
-#### DRACONIAN PRIDE (COSTS 2 POINTS)
+##### DRACONIAN PRIDE (COSTS 2 POINTS)
 
 You can use the following signature ability.
 
@@ -1170,7 +1170,7 @@ You can use the following signature ability.
 - *12-16:* 5 **damage; push 1**
 - *17+:* 7 **damage; push 2**
 
-#### DRAGON BREATH (COSTS 2 POINTS)
+##### DRAGON BREATH (COSTS 2 POINTS)
 
 **You can use the following signature ability.**
 
@@ -1190,7 +1190,7 @@ You can use the following signature ability.
 
 **Effect:** You choose the ability's damage type from acid, cold, corruption, fire, lightning, or poison.
 
-#### WINGS (COSTS 2 POINTS)
+##### WINGS (COSTS 2 POINTS)
 
 You possess wings powerful enough to take you airborne. While using your wings to fly, you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall prone. While using your wings to fly at 1st, 2nd, and 3rd level, you have damage weakness 5.
 
@@ -1252,19 +1252,19 @@ You can carve a rune onto your skin and the magic within your body activates it.
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Grounded, Spark Off Your Skin)
 
-#### GROUNDED (COSTS 1 POINT)
+##### GROUNDED (COSTS 1 POINT)
 
 Your heavy stone body and connection to the earth makes it difficult for others to move you. Your stability increases by 1.
 
-#### STAND TOUGH (COSTS 1 POINT)
+##### STAND TOUGH (COSTS 1 POINT)
 
 Your body is made to withstand the blows of your enemies. Your Might counts as 1 higher for resisting potencies.
 
-#### STONE SINGER (COSTS 1 POINT)
+##### STONE SINGER (COSTS 1 POINT)
 
 You have a magic connection to the earth. You can spend 1 uninterrupted hour singing and reshape any unworked, mundane stone within 3 squares of you. You can't destroy this stone, but you can move each square of it anywhere within 3 squares of you, piling it off to one side to dig a hole or building it all up to create a wall.
 
-#### GREAT FORTITUDE (COSTS 2 POINTS)
+##### GREAT FORTITUDE (COSTS 2 POINTS)
 
 Your hearty constitution prevents you from losing strength. You can't be weakened.
 
@@ -1374,7 +1374,7 @@ You have 3 ancestry points to spend on the following traits.
 
 FOREST WALK (COSTS 1 POINT) You can shift into difficult terrain.
 
-#### REVISIT MEMORY (COSTS 1 POINT)
+##### REVISIT MEMORY (COSTS 1 POINT)
 
 Accessing memories is as easy as living in the present for you. You have an edge on all tests made to recall lore.
 
@@ -1486,23 +1486,23 @@ A magic glamor makes others perceive you as interesting and engaging, granting y
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* High Senese, Otherworldly Grace)
 
-#### GRACEFUL RETREAT (COSTS 1 POINT)
+##### GRACEFUL RETREAT (COSTS 1 POINT)
 
 When you take the Disengage move action, you can shift 1 additional square as part of the move action.
 
-#### HIGH SENSES (COSTS 1 POINT)
+##### HIGH SENSES (COSTS 1 POINT)
 
 You have senses that are keen and perceptive. You have an edge on Intuition tests that use the Awareness skill.
 
-#### REVISIT MEMORY (COSTS 1 POINT)
+##### REVISIT MEMORY (COSTS 1 POINT)
 
 Accessing memories is as easy as living in the present for you. You have an edge on all tests made to recall lore.
 
-#### OTHERWORLDLY GRACE (COSTS 2 POINTS)
+##### OTHERWORLDLY GRACE (COSTS 2 POINTS)
 
 Your elf body and mind can't be contained for long. You succeed on saving throws when you get a 5 or higher.
 
-#### UNSTOPPABLE MIND (COSTS 2 POINTS)
+##### UNSTOPPABLE MIND (COSTS 2 POINTS)
 
 Your mind allows you to maintain your focus in any situation. You can't be dazed.
 
@@ -1608,23 +1608,23 @@ Your size is 1L.
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Forceful, Doomsight)
 
-#### ALL IS A FEATHER (COSTS 1 POINT)
+##### ALL IS A FEATHER (COSTS 1 POINT)
 
 You are exceptionally strong and have an edge made on tests that use the Lift skill.
 
-#### FORCEFUL (COSTS 1 POINT)
+##### FORCEFUL (COSTS 1 POINT)
 
 When you force move a creature or object, you can increase the distance moved by 1.
 
-#### STAND TOUGH (COSTS 1 POINT)
+##### STAND TOUGH (COSTS 1 POINT)
 
 Your body is made to withstand the blows of your enemies. Your Might score counts as 1 higher for resisting potencies.
 
-#### GREAT FORTITUDE (COSTS 2 POINTS)
+##### GREAT FORTITUDE (COSTS 2 POINTS)
 
 Your hearty constitution prevents you from losing strength. You can't be weakened.
 
-#### DOOMSIGHT (COSTS 2 POINTS)
+##### DOOMSIGHT (COSTS 2 POINTS)
 
 Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically get tier 3 results on tests and ability power rolls, and you don't die no matter how low your Stamina falls. You then die immediately at the end of the encounter.
 
@@ -1698,19 +1698,19 @@ You have 3 ancestry points to spend on the following traits. (*Quick Build:* Per
 
 Your connection to the natural world allows you resist supernatural effects. You ignore difficult terrain (but not other effects) created by magic and psionic abilities. Additionally, when you are force moved by a magic or psionic ability, you reduce the forced movement by 1.
 
-#### PERSEVERANCE (COSTS 1 POINT)
+##### PERSEVERANCE (COSTS 1 POINT)
 
 Giving up is for other people. You have an edge on tests that use the Endurance skill and when you are slowed, your speed is reduced to 3 instead of 2.
 
-#### RESIST THE UNNATURAL (COSTS 1 POINT)
+##### RESIST THE UNNATURAL (COSTS 1 POINT)
 
 Your connection to the natural world protects you from unnatural forces. When you take damage that isn't untyped, you can use your triggered action to half the damage.
 
-#### DETERMINATION (COSTS 2 POINTS)
+##### DETERMINATION (COSTS 2 POINTS)
 
 Your anatomical tolerance for pain allows you to push through difficult situations. If you are frightened, slowed, or weakened, you can use a maneuver to immediately end the condition.
 
-#### STAYING POWER (COSTS 2 POINTS)
+##### STAYING POWER (COSTS 2 POINTS)
 
 Your human anatomy allows you to fight, run, and stay awake longer than others. Increase your number of Recoveries by 2.
 
@@ -1812,31 +1812,31 @@ Your body is light for a creature of your height. Your size is considered 1S whe
 
 You have 4 ancestry points to spend on the following traits. (*Quick Build:* Lightning Nimbleness, Nonstop)
 
-#### I AM LAW (COSTS 1 POINT)
+##### I AM LAW (COSTS 1 POINT)
 
 Your lawful nature and quick reflexes give no quarter to enemies trying to get around you. Enemy creatures can't pass through your space unless you allow them to do so.
 
-#### SYSTEMATIC MIND (COSTS 1 POINT)
+##### SYSTEMATIC MIND (COSTS 1 POINT)
 
 You have an edge on tests to parse schematics, maps, and other systematic documentation that aren't inherently chaotic. In addition, you interact with any language you don't know as if you know a related language, whether or not you actually do.
 
-#### UNPHASED (COSTS 1 POINT)
+##### UNPHASED (COSTS 1 POINT)
 
 Your ordered mind can't be caught off guard. You can't be surprised.
 
-#### USEFUL EMOTION (COSTS 1 POINT)
+##### USEFUL EMOTION (COSTS 1 POINT)
 
 Velloparatha might hinder, but it also fuels your strikes. You know how to turn your pain into something your enemies feel. When combat starts, you gain one surge.
 
-#### KEEPER OF ORDER (COSTS 2 POINTS)
+##### KEEPER OF ORDER (COSTS 2 POINTS)
 
 Your connection to Axiom, the plane of uttermost law, allows you manage chaos around you. When you or a creature adjacent to you makes a power roll, you can remove an edge or a bane on the roll as a free triggered action. You can only use this benefit once per round.
 
-#### LIGHTNING NIMBLENESS (COSTS 2 POINTS)
+##### LIGHTNING NIMBLENESS (COSTS 2 POINTS)
 
 You can push your body to move at incredible speeds. Your speed is 7.
 
-#### NONSTOP (COSTS 2 POINTS)
+##### NONSTOP (COSTS 2 POINTS)
 
 Your connection to Axiom allows you to regulate your movements, even when other creatures would be forced to pause. You can't be slowed.
 
@@ -1928,19 +1928,19 @@ When a creature deals damage to you that leaves you dying, you can make a free s
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Grounded, Glowing Recovery)
 
-#### BLOODFIRE RUSH (COSTS 1 POINT)
+##### BLOODFIRE RUSH (COSTS 1 POINT)
 
 The magic coursing through your veins makes you run faster in the heat of battle. When you take damage, your speed increases by 2 until the end of the round. You can benefit from this feature only once per round.
 
-#### GROUNDED (COSTS 1 POINT)
+##### GROUNDED (COSTS 1 POINT)
 
 The magic in your blood makes it difficult for others to move you. Your stability increases by 1.
 
-#### PASSIONATE ARTISAN (COSTS 1 POINT)
+##### PASSIONATE ARTISAN (COSTS 1 POINT)
 
 When you are stirred by passion for creation, your bloodfire allows you to work longer and harder. Choose two skills from the crafting skill group. Whenever you make a project roll using these skills, you gain a +2 bonus to the roll.
 
-#### GLOWING RECOVERY (COSTS 2 POINTS)
+##### GLOWING RECOVERY (COSTS 2 POINTS)
 
 Your bloodfire allows you to regain your strength quicker than others. When you can take the Catch Breath maneuver, you can spend as many Recoveries as you like instead of just one.
 
@@ -2097,23 +2097,23 @@ Your size is 1S.
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Corruption Immunity, Fearless)
 
-#### CORRUPTION IMMUNITY (COSTS 1 POINT)
+##### CORRUPTION IMMUNITY (COSTS 1 POINT)
 
 Your innated shadow magic gives you corruption immunity equal to your level + 2.
 
-#### GRACEFUL RETREAT (COSTS 1 POINT)
+##### GRACEFUL RETREAT (COSTS 1 POINT)
 
 When you take the Disengage move action, you can shift 1 additional square as part of the move action.
 
-#### POLDER GEIST (COSTS 1 POINT)
+##### POLDER GEIST (COSTS 1 POINT)
 
 When you start your turn while no creatures have line of effect to you, or while you are hidden from or have concealment from all enemies with line of effect to you, your speed is increased by 3 until the end of your turn.
 
-#### FEARLESS (COSTS 2 POINTS)
+##### FEARLESS (COSTS 2 POINTS)
 
 Courage is all you know. You can't be frightened.
 
-#### NIMBLESTEP (COSTS 2 POINTS)
+##### NIMBLESTEP (COSTS 2 POINTS)
 
 Your light feet allow you to ignore the effects of difficult terrain and move at full speed while you are sneaking.
 
@@ -2209,23 +2209,23 @@ Additionally, when your Stamina equals the negative of your winded value, you be
 
 You have 2 ancestry points to spend on the following traits, or 3 ancestry points to spend if your size is 1S. (*Quick Build:* Bloodless, plus Undead Influence if size 1S)
 
-#### PREVIOUS LIFE: 1 POINT (COSTS 1 POINT)
+##### PREVIOUS LIFE: 1 POINT (COSTS 1 POINT)
 
 You gain a purchasable trait that costs 1 ancestry point from your previous ancestry. You can take this trait multiple times, selecting a new cost 1 trait from your previous ancestry each time you take this trait.
 
-#### UNDEAD INFLUENCE (COSTS 1 POINT)
+##### UNDEAD INFLUENCE (COSTS 1 POINT)
 
 Your supernatural gifts allow you to influence other undead. You gain an edge on Reason, Intuition, and Presence tests made to interact with undead creatures.
 
-#### BLOODLESS (COSTS 2 POINTS)
+##### BLOODLESS (COSTS 2 POINTS)
 
 For you, an open wound is indistinguishable from a scratch. You can't become bleeding.
 
-#### PREVIOUS LIFE: 2 POINTS (COSTS 2 POINTS)
+##### PREVIOUS LIFE: 2 POINTS (COSTS 2 POINTS)
 
 You gain a purchasable trait that costs 2 ancestry points from your previous ancestry.
 
-#### VENGEANCE MARK (COSTS 2 POINTS)
+##### VENGEANCE MARK (COSTS 2 POINTS)
 
 As a maneuver, you place a magic sigil on a creature within 10 squares of you. When you place a sigil, you can decide where it appears on the creature's body, and whether the sigil is visible to only you or to all creatures.
 
@@ -2363,19 +2363,19 @@ Your multiple arms let you take on multiple tasks at the same time. Whenever you
 
 You have 2 ancestry points to spend on the following traits. (*Quick Build:* Beyond Sight, Psychic Scar: Psionic Bolt)
 
-#### BEYONDSIGHT (COSTS 1 POINT)
+##### BEYONDSIGHT (COSTS 1 POINT)
 
 As a maneuver, you can adjust your vision to allow you to see through mundane obstructions that 1 square thick or less. While your vision is adjusted this way, you can't see and don't have line of effect to any creatures or objects within 1 square of you. You can return your vision to normal as a maneuver.
 
-#### FORESIGHT (COSTS 1 POINT)
+##### FORESIGHT (COSTS 1 POINT)
 
 Your senses extend past mundane obscuration and the veil of the future alike. You instinctively know the location of any concealed creatures who aren't hidden from you, negating the usual bane on strikes against them. Additionally, whenever you are targeted with a strike, you can use a triggered action to impose a bane on the power roll.
 
-#### PSYCHIC SCAR (COSTS 1 POINT)
+##### PSYCHIC SCAR (COSTS 1 POINT)
 
 Your mind is a formidable layer of defense, granting you psychic immunity equal to your level.
 
-#### PSIONIC GIFT (COSTS 2 POINTS)
+##### PSIONIC GIFT (COSTS 2 POINTS)
 
 You gain one of the following signature abilities.
 
@@ -2409,7 +2409,7 @@ You gain one of the following signature abilities.
 
 **Effect:** The target's speed increases by an amount equal to your Reason, Intuition, or Presence score (your choice) until the start of your next turn.
 
-#### UNSTOPPABLE MIND (COSTS 2 POINTS)
+##### UNSTOPPABLE MIND (COSTS 2 POINTS)
 
 Your mind allows you to maintain your focus in any situation. You can't be dazed.
 
@@ -2425,7 +2425,7 @@ A hero's culture describes the beliefs, customs, values, and way of life held by
 
 For our purposes, a hero's culture represents people, not a place. Yes, you might have grown up in the city of Capital, but your culture is more specific than that. One hero's culture might be House Alvaro, a noble house in Capital where they were raised. Another's culture could be a group or organization that moves around, such as a band of pirates or a secret order of sorcerers sworn to protect books of fell magic. It helps to get specific when thinking about your culture, and working with the four aspects of a culture can help you do that: **language**, **environment**, **organization**, and **upbringing**.
 
-## USING CULTURE
+### USING CULTURE
 
 Directors can use the rules in this section to build cultures that players can choose for their characters. Players can use these rules to build a unique culture or modify an existing culture for their character, working with the Director to find a right place for that culture within the world of the campaign's world.
 
@@ -2477,11 +2477,11 @@ on a cultural archetype, such as a noble house or pirate crew, use the Archetypi
 | College Conclave       | Urban       | Bureaucratic | Academic   |
 | Criminal Gang          | Urban       | Anarchic     | Illegal    |
 
-### WHY BUILD A CULTURE?
+#### WHY BUILD A CULTURE?
 
 Building a character is about more than adding up your stats, picking skills and abilities, and recording that information on a character sheet. You're building a hero--a main character in a story, be it a one-shot or a heroic campaign. Think about the personality and the past of who you are creating. That's why the game lets you build a culture rather than simply saying, "Pick three skills and a bonus language." We want players to imagine their heroes as complex and intricate characters.
 
-## CULTURE BENEFITS
+### CULTURE BENEFITS
 
 The culture you choose or create grants you the following benefits:
 
@@ -2491,23 +2491,23 @@ The culture you choose or create grants you the following benefits:
 
 - You gain an edge on tests to recall lore about your culture, and on tests to influence and interact with people of your culture.
 
-### LANGUAGE
+#### LANGUAGE
 
 Your culture's language aspect determines how the people of your culture communicate. You know Caelian in addition to a language of your choice from Languages.
 
-### ENVIRONMENT
+#### ENVIRONMENT
 
 Your culture's environment aspect describes where the people of that culture spend most of their time. Is your culture centered in a bustling city or a small village? Did you spend your early life in an isolated monastery? Or did you wander the wilderness, never staying in one place for long?
 
 When you build a culture, select its environment aspect from the following options: nomadic, rural, secluded, urban, or wilderness. You then gain skill options from your chosen environment. All of these environments can be found in any sort of terrain, whether aboveground, in subterranean caverns, deep in trackless forest, or even underwater.
 
-#### NOMADIC
+##### NOMADIC
 
 A nomadic culture travels from place to place to survive. They might follow animal migrations or the weather, travel to sell their wares or services, or simply enjoy a restless lifestyle full of new experiences and peoples. Those who grow up in nomadic cultures learn to navigate the wilderness and interact with others.
 
 **Skill Options:** One skill from the exploration or interpersonal skill groups. (*Quick Build:* Navigate)
 
-#### RURAL
+##### RURAL
 
 A rural culture is one located in a town, village, or smaller settled enclave. People dwelling in such places often cultivate the land, trade goods or services with travelers passing through, harvest fish from the sea, or mine metals and gems from the earth.
 
@@ -2515,7 +2515,7 @@ Living among a small population, most folks in a rural community learn a trade a
 
 **Skill Options:** One skill from the crafting or lore skill groups. (*Quick Build:* Nature)
 
-#### SECLUDED
+##### SECLUDED
 
 A secluded culture is based in one relatively close-quarters structure--a building, a cavern, and so forth--and interacts with other cultures only rarely. Such places are often buildings or complexes such as monasteries, castles, or prisons. Folk in a secluded culture have little or no reason to leave their home or interact with other cultures on the
 
@@ -2525,25 +2525,25 @@ When people live together in close quarters, they typically learn to get along. 
 
 **Skill Options:** One skill from the interpersonal or lore skill groups. (*Quick Build:* Read Person)
 
-#### URBAN
+##### URBAN
 
 An urban culture is always centered in a city. Such a culture might arise within the walls of Capital, a massive metropolis with a cosmopolitan population; within a network of caverns that hold an underground city; or in any other place where a large population lives relatively close together. The people of urban cultures often learn to effectively misdirect others in order to navigate the crowds and the political machinations that can come with city life.
 
 **Skill Options:** One skill from the interpersonal or intrigue skill groups. (*Quick Build:* Alertness)
 
-#### WILDERNESS
+##### WILDERNESS
 
 A wilderness culture doesn't attempt to tame the terrain in which its people live, whether desert, forest, swamp, tundra, ocean, or more exotic climes. Instead, the folk of such a culture thrive amid nature, taking their sustenance and shelter from the land itself. A wilderness culture might be a circle of druids protecting a great wode, a band of brigands hiding out in desert caves, or a camp of orc mercenaries who call the trackless mountains home. People in a wilderness culture learn how to use the land for all they need to live, typically crafting their own tools, clothing, and more.
 
 **Skill Options:** One skill from the crafting or exploration skill groups. (*Quick Build:* Endurance)
 
-### ORGANIZATION
+#### ORGANIZATION
 
 Your culture's organization aspect determines the functioning and leadership of your community. You might come from a place with an officially recognized government and a system of laws. Or your culture might have enjoyed a less formal organization, with the people in charge having naturally gravitated toward their positions without any official offices or oaths.
 
 When you build a culture, select its organization aspect from the following options: anarchic, bureaucratic, or communal. You then gain skill options from your chosen system of organization.
 
-#### ANARCHIC
+##### ANARCHIC
 
 In an anarchic culture, there are no rules and no one person leads the others. This might sound like complete chaos people taking what they want when they want it--and some cultures that practice anarchy are. Other anarchic cultures are peaceful places where people mostly work for themselves, their friends, or their family, but rely on the whole group when times get tough.
 
@@ -2553,7 +2553,7 @@ Most anarchic cultures operate outside of settled lands, sticking to the wilds, 
 
 **Skill Options:** One skill from the exploration or intrigue skill groups. (*Quick Build:* Hide)
 
-#### BUREAUCRATIC
+##### BUREAUCRATIC
 
 Bureaucratic cultures are steeped in official leadership and formally recorded laws. Members of such a culture are often ranked in power according to those laws, with a small group of people holding the power to rule according to birthright, popular vote, or some other official and measurable standard. Many bureaucratic communities have one person at the very top, though others might be ruled by a council. A trade guild with a guildmaster, treasurer, secretary, and a charter of rules and regulations for membership; a feudal lord who rules over a group of knights, who in turn rule over peasants who work the land; and a militaristic society with ranks and rules that its people must abide are all examples of bureaucratic cultures.
 
@@ -2561,7 +2561,7 @@ Those who thrive in bureaucratic cultures don't just follow the rules. They know
 
 **Skill Options:** One skill from the intrigue or lore skill groups. (*Quick Build:* Rumors)
 
-#### COMMUNAL
+##### COMMUNAL
 
 A communal culture is a place where all members of the collective are considered equal. The community works together to make important decisions that affect the majority of the culture. While they elect leaders to carry out these decisions and organize their efforts, each person has a relatively equal say in how the culture operates, and everyone contributes to help their people survive and thrive. Individuals often share the burdens of governing, physical labor, childcare, and other duties. A collective of farmers who work together to cultivate and protect their land without a noble, a city of pirates where each person can do as they wish, and a traveling theatrical troupe whose members vote on every artistic and administrative decision are all communal cultures.
 
@@ -2569,43 +2569,43 @@ People in communal cultures learn that their voice and individuality has worth, 
 
 **Skill Options:** One skill from the crafting or interpersonal skill groups. (*Quick Build:* Persuade)
 
-### UPBRINGING
+#### UPBRINGING
 
 Your culture's upbringing aspect is a more specific and personal part of your hero's story, describing how you were individually raised within your culture. Were you trained to become the newest archmage in a secret order of wizards, or to be a sword-wielding bodyguard who protected that arcane organization? Did you learn to delve deep into mines looking for ore in a mountain kingdom, or did you build machines meant to dig faster and deeper than any person could alone? Whatever your culture, your upbringing makes you special within that culture.
 
 Pick your upbringing aspect from the following list: academic, creative, illegal, labor, martial, or noble. You then gain skill options from your chosen aspect.
 
-#### ACADEMIC
+##### ACADEMIC
 
 Heroes with an academic upbringing were raised by people who collect, study, and share books and other records. Some academics focus on one area of study, such as a college for wizards dedicated to the study of magic, or a church that teaches the word of one deity. People in an academic culture learn how to wield the power that is knowledge.
 
 **Skill Options:** One skill from the lore skill group. (*Quick Build:* History)
 
-#### CREATIVE
+##### CREATIVE
 
 Heroes with a creative upbringing were raised among folk who create art or other works valuable enough to trade. A creative culture might produce fine art such as dance, music, or sculpture, or more practical wares such as wagons, weapons, tools, or buildings. People in such cultures learn the value of quality crafting and attention to detail.
 
 **Skill Options:** The Music or Perform skill, or one skill from the crafting skill group. (*Quick Build:* Perform)
 
-#### ILLEGAL
+##### ILLEGAL
 
 Heroes with an illegal upbringing had caregivers who performed activities that other folk--whether within or outside their culture--considered unlawful. A band of pirates, a guild of assassins, or an organization of spies all commit unlawful acts for money. People with illegal upbringings typically don't mind breaking the rules when it suits them--and are good at making sure no one finds out they did.
 
 **Skill Options:** One skill from the intrigue skill group. (*Quick Build:* Sneak)
 
-#### LABOR
+##### LABOR
 
 People who labor for a living survive through cultivation, typically raising crops or livestock on a farm; by harvesting natural resources, whether by hunting, trapping, logging, or mining; or through manual labor tied to settlement and trade, such as construction, carting, loading cargo, and so forth. People with a labor upbringing know the value of hard work.
 
 **Skill Options:** One of the Blacksmithing or Handle Animals skills, or one skill from the exploration skill group. (*Quick Build:* Lift)
 
-### MARTIAL
+##### MARTIAL
 
 Heroes who have a martial upbringing are raised by warriors. These might be the soldiers of an established army, a band of mercenaries, a guild of monster-slaying adventurers, or any other folk whose lives revolve around combat. Heroes with a martial upbringing are always ready for a fight--and they know how to finish that fight.
 
 **Skill Options:** One of the Alertness, Blacksmithing, Climb, Endurance, Fletching, Intimidate, Monsters, Ride, Strategy, or Track skills. (*Quick Build:* Intimidate)
 
-#### NOBLE
+##### NOBLE
 
 Heroes with a noble upbringing were raised by leaders who rule over others and play the games of politics to maintain power. Many families are nobles by birthright, but some cultures have noble titles that are earned through deeds or popularity. Whatever the case, heroes with this background understand why the whispered words in the right ear can sometimes be more powerful than any army.
 
@@ -2615,63 +2615,63 @@ Heroes with a noble upbringing were raised by leaders who rule over others and p
 
 If the culture you create doesn't grant a skill that you want, check with your Director about modifying what the culture's aspects offer. For instance, you can easily make the case that a culture with the illegal upbringing aspect should give a character access to the Alertness skill, given that being successful in battle means always being aware of your surroundings.
 
-# CAREERS
+## CAREERS
 
 Being a hero isn't a job. It's a calling. But before you answered that call, you had a different job or vocation that paid the bills. Thank the gods for that, because the experience you gained in that career is now helping you save lives and slay monsters.
 
-## CAREER QUESTIONS
+### CAREER QUESTIONS
 
 The careers in this section don't go into great detail about the actual jobs they represent. We assume that you know the basics of what an artisan, a criminal, or a gladiator does for a living. However, each career includes a list of questions you should think about to help you define the specific details of your hero's career. For instance, if you pick the Artisan career, one of the questions is "What did you create?" You don't need to answer these questions, but doing so can help shape a more complete picture of your hero.
 
 If you answer any of these questions, consider telling your Director the answers. It can help them work some dramatic moments into the game. Maybe not! Directors already have a lot to juggle, but they certainly won't work your backstory into the plot if you never tell them.
 
-## CAREER BENEFITS
+### CAREER BENEFITS
 
 Your career describes what your life was before you became a hero. When you select a career, you gain a number of benefits, the details of which are specified in the career's description.
 
-### SKILLS
+#### SKILLS
 
 Each career grants you two or three skills. If a career grants you a skill you already have, you can select a different skill.
 
-### LANGUAGES
+#### LANGUAGES
 
 Some careers allow you to learn extra languages, chosen from those available in Languages.
 
-### RENOWN
+#### RENOWN
 
 Some careers increase your starting Renown score. See Renown in Other Rewards for more information.
 
 If your career or another option doesn't increase your Renown score, then your starting score is 0.
 
-### WEALTH
+#### WEALTH
 
 Some careers increase your starting Wealth score. See Wealth in Other Rewards for more information.
 
 If your career or another option doesn't increase your Wealth score, then your starting score is 1.
 
-### PROJECT POINTS
+#### PROJECT POINTS
 
 Some careers provide project points you can put toward crafting and research projects (see Downtime Projects).
 
 These points can be divided among multiple projects, but they can't be used more than once. At the Director's discretion, your career might also let you start the game with the materials needed for one or more projects, so you can immediately put your project points toward them, possibly before the adventure begins!
 
-### PERK
+#### PERK
 
 Your career provides you with a perk. You can select a perk of the type provided by the career. See Perks for more information.
 
-## INCITING INCIDENT
+### INCITING INCIDENT
 
 Each career has a list of inciting incidents, each of which suggests a potential reason why you gave up your career, turned away from a possibly comfortable and reliable living, and took up the sword (or axe or wand) to become an adventuring hero. Each inciting incident represents a life-changing event that might have motivated you to change course, becoming a person who risks it all to save others.
 
 You can roll for or choose an inciting incident from the table that accompanies each career. You can also use the table as inspiration and work with your Director to come up with a unique inciting incident of your own.
 
-### WHAT WAS TAKEN FROM YOU?
+#### WHAT WAS TAKEN FROM YOU?
 
 During your inciting incident, something was taken from you. It might have been a material object, such as an heirloom sword or a locket that proves your royal heritage. Perhaps a person you loved was killed, kidnapped, or cursed. It might be something deeper and more abstract, such as a chance for happiness, belief in the future, belief in basic goodness, or a lifetime goal snatched away.
 
 It might be the case that you're obsessed with getting back what you lost. You might be in a position where you'll never recover what was taken from you, but you want to prevent that same loss from happening to others. Maybe you've become an itinerant hero because, after your loss, it's the only thing that gives your life meaning. Maybe all of the above. Whatever the case, the loss you've suffered is part of what drives you to be a hero. Record what was taken from you on your character sheet, and let your Director know.
 
-## AGENT
+### AGENT
 
 You worked as a spy for a government or organization. In defining your career, think about the following questions:
 
@@ -2734,7 +2734,7 @@ You gain the following career benefits:
 |     | superiors or were exposed, you were stripped of your        |
 |     | service medals before you left to become a true hero.       |
 
-## ARISTOCRAT
+### ARISTOCRAT
 
 Career? Who needs a career when you're born into money! Or marry into it! Or con your way into it! Whatever the case, you didn't need to work thanks to (someone's) generational wealth. In defining your career, think about the following questions:
 
@@ -2792,7 +2792,7 @@ You gain the following career benefits:
 |     | hunted). Rising from tragedy, you now seek to right the    |
 |     | wrongs of the world.                                       |
 
-## ARTISAN
+### ARTISAN
 
 You made and sold useful wares. In defining your career, think about the following questions:
 
@@ -2850,7 +2850,7 @@ You gain the following career benefits:
 |     | through adventuring, and in doing so discovered a new       |
 |     | joy and purpose that now defines you.                       |
 
-## BEGGAR
+### BEGGAR
 
 You lived by going to a tavern, crossroads, city street, or other busy area and begging passersby for money or food. In defining your career, think about the following questions:
 
@@ -2910,7 +2910,7 @@ You gain the following career benefits:
 |     | for yourself, you can become untouchable and can finally  |
 |     | speak of what you saw without fear.                       |
 
-## CRIMINAL
+### CRIMINAL
 
 You once worked as a bandit, insurgent, smuggler, outlaw, or even as an assassin. In defining your career, think about the following questions:
 
@@ -2969,7 +2969,7 @@ You gain the following career benefits:
 |     | and joined the resistance--not just against this tyrant,    |
 |     | but against authoritarians anywhere.                        |
 
-## DISCIPLE
+### DISCIPLE
 
 You worked in a church, temple, or other religious institution as part of the clergy. In defining your career, think about the following questions:
 
@@ -3029,7 +3029,7 @@ You gain the following career benefits:
 |     | became a hero to fight against such corruption and to       |
 |     | honor your dearly departed.                                 |
 
-## EXPLORER
+### EXPLORER
 
 You ventured into uncharted areas and made your living as a cartographer, researcher, resource seeker, or treasure hunter. In defining your career, think about the following questions:
 
@@ -3091,7 +3091,7 @@ You gain the following career benefits:
 |     | taken to protecting those who seek safe passage while     |
 |     | also hoping to avenge your crew.                          |
 
-## FARMER
+### FARMER
 
 You grew crops or cared for livestock. In defining your career, think about the following questions:
 
@@ -3153,7 +3153,7 @@ You gain the following career benefits:
 |     | stallion, the renowned bloodline would end. You intend       |
 |     | to get them back--and get revenge.                           |
 
-## GLADIATOR
+### GLADIATOR
 
 In the past, you entertained the masses with flashy displays of violence in the arena. In defining your career, think about the following questions:
 
@@ -3216,7 +3216,7 @@ You gain the following career benefits:
 |     | a liberator, dedicating to ending the oppression of others |
 |     | until your dying breath.                                   |
 
-## LABORER
+### LABORER
 
 You worked as a farmer, builder, clothes washer, forester, miner, or some other profession engaged in hard manual labor. In defining your career, think about the following questions:
 
@@ -3335,7 +3335,7 @@ You gain the following career benefits:
 |     | apprenticeship and found yourself walking the path of a    |
 |     | hero the next day.                                         |
 
-## PERFORMER
+### PERFORMER
 
 You can sing, act, or dance well enough that people actually pay to see you do it. Imagine that! In defining your career, think about the following questions:
 
@@ -3397,7 +3397,7 @@ You gain the following career benefits:
 |     | someone you loved. From that moment on, you made it        |
 |     | your responsibility to protect others.                     |
 
-## POLITICIAN
+### POLITICIAN
 
 You worked as a leader within a formal, bureaucratic organization or government. You might have been appointed, born, or elected into your position, but getting people to agree and making decisions for the people you serve (or who served you) was your job. In defining your career, think about the following questions:
 
@@ -3456,7 +3456,7 @@ You gain the following career benefits:
 |     | bureaucratic interference and sought to do good             |
 |     | through action, not paperwork.                              |
 
-## SAGE
+### SAGE
 
 From an early age, you dedicated yourself to learning, whether you shared the knowledge of the world with others or sought out secret lore only for yourself. In defining your career, think about the following questions:
 
@@ -3513,7 +3513,7 @@ You gain the following career benefits:
 |     | you have made it your purpose to restore and reverse         |
 |     | those vanishing texts before they forever disappear.         |
 
-## SAILOR
+### SAILOR
 
 You worked on a ship that might have been a merchant cog, a mercenary or military craft, or a pirate vessel. You might have been a deckhand, a mate, or even the captain. In defining your career, think about the following questions:
 
@@ -3568,7 +3568,7 @@ You gain the following career benefits:
 |     | your legs to jelly. Instead, you've taken on the role of a |
 |     | traveling hero to make ends meet.                          |
 
-## SOLDIER
+### SOLDIER
 
 In your formative years, you fought tirelessly in skirmishes and campaigns against enemy forces. In defining your career, think about the following questions:
 
@@ -3623,7 +3623,7 @@ You gain the following career benefits:
 |     | dedicated your life to finding any survivors and             |
 |     | protecting others from a similar fate.                       |
 
-## WARDEN
+### WARDEN
 
 You protected a wild region from those who sought to harm it, such as poachers and cultists bent on the destruction of the natural world. Knowing your land well, you could also serve as a guide or the leader of a rescue party for those wandering the wilds. In defining your career, think about the following questions:
 
@@ -3678,7 +3678,7 @@ You gain the following career benefits:
 |     | stealing the thing you were meant to guard. You left       |
 |     | your chosen territory to atone for your mistake.           |
 
-## WATCH OFFICER
+### WATCH OFFICER
 
 You served as an officer of the law for a local government. You might have been a single person in a much larger city watch or the only constable patrolling a small village. In defining your career, think about the following questions:
 
@@ -3738,13 +3738,13 @@ You gain the following career benefits:
 |     | the life of a hero to gain the power and influence you     |
 |     | need to destroy the syndicate once and for all.            |
 
-# LANGUAGES
+#### LANGUAGES
 
 When you create your hero, you'll be able to select the languages they know. The following section details the languages of Orden, the baseline world of the game, but the Director can use these languages in their own campaign world or can swap this list with their own list of languages.
 
 If your hero knows a language, they can speak, read, write, and understand it.
 
-## CAELIAN EMPIRE
+### CAELIAN EMPIRE
 
 The Caelian Empire dominated five of the seven regions of Orden three thousand years ago. During the height of this most recent human empire, all humans (including folks from Vanigar in the far north, but not folks from the islands of Ix) learned to speak the Caelian tongue. For many, especially the noble classes and the well-to-do, Caelian effectively replaced their native language.
 
@@ -3752,7 +3752,7 @@ Some thirteen hundred years after the fall of the Caelian Empire, the languages 
 
 Most people in Orden can speak and understand some Caelian, simply because the empire was so powerful and so widespread. Anyone trading with the empire or living near its borders or under its influence eventually learned to speak Caelian, including dwarves, elves, orcs, lizardfolk, and goblins. If you speak more than one language in Orden, your second language is almost certainly Caelian. As a result, that language of empire is now colloquially referred to as "the common tongue"--the language that most folk of Orden have in common.
 
-## EXTANT SPOKEN LANGUAGES
+### EXTANT SPOKEN LANGUAGES
 
 Folks have been speaking and writing in Orden for at least thirty thousand years, but most of those languages are now dead. Many have been forgotten. Others were spoken by peoples who never developed writing, preventing those languages from being preserved. And many languages that were preserved in writing left no related descendants, so that no one knows what sounds that writing represented.
 
@@ -3823,7 +3823,7 @@ Most languages have colloquial or casual names. For instance, many people in Ord
 | Vanigar  | Vaniric     |
 | Vasloria | Vaslorian   |
 
-### LANGUAGE USAGE
+#### LANGUAGE USAGE
 
 **Hyrallic** is the primary language of the high elves in Orden. Although young for an elf language, Hyrallic is older than almost all other modern cultural languages, save those of the dwarves. As a result, while anyone who lives near or trades with a human culture probably speaks at least a little Caelian, most nobles across all ancestries make sure their children or offspring speak Hyrallic. Caelian is new from many cultures' point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
 
@@ -3835,7 +3835,7 @@ Just as Zaliac is used in engineering, contract law isn't written purely in **An
 
 In the same way that intelligent creatures in Orden who live near or trade with other cultures use Caelian as a common language, the denizens of the World Below, the Dark Under All, often speak **Variac**, the language of the voiceless talkers.
 
-## DEAD LANGUAGES
+### DEAD LANGUAGES
 
 For an adventuring hero with an ambition to create great works or unlock deep lore, it can be useful to be able to read ancient writing. Much deep lore is attested only in ancient tomes and scrolls written in languages that no modern culture uses.
 
@@ -3892,49 +3892,49 @@ Your class, kit, ancestry, titles, and other heroic options give you access to a
 
 Abilities are presented in a format that breaks out specific entries for keywords, time, distance, target, and effect.
 
-## NAME AND STORY TEXT
+### NAME AND STORY TEXT
 
 Each ability has an evocative name that sets up what it does in the game, followed by a line or two of flavor text that provides a sense of how the use of the ability might appear if described in an action scene in a story.
 
 The name and story text for abilities sometimes makes reference to specific ways in which the ability is used particularly combat abilities whose names imply specific types of weapons or tactics. However, that narrative flavor has no effect on how an ability can be used. For example, the fury's Impaling Strike ability allows you to grab a target, setting up the idea of harpooning your monstrous foe with a sword, then wrenching them in close before pulling your weapon free. But you can use that ability with an axe, a mace, a hammer, or any other weapon.
 
-## RESOURCE COST
+### RESOURCE COST
 
 Some abilities have a Heroic Resource cost to use them. When you use one of these abilities, you spend your Heroic Resource, then activate the ability.
 
-## ABILITY KEYWORDS
+### ABILITY KEYWORDS
 
 Each ability has a "Keyword" entry with one or more keywords that explain how the ability functions.
 
-### AREA
+#### AREA
 
 Abilities with the Area keyword create an area of effect. Many area abilities also deal damage, but such abilities are not strikes. See Area Abilities for more information.
 
-### CHARGE
+#### CHARGE
 
 Abilities with the Charge keyword can be used with the Charge action in place of a melee free strike (see Charge in Actions in Combat).
 
-### MAGIC
+#### MAGIC
 
 Magic-keyword abilities are used by creatures who can cast spells, have innate magical features, or wield magic items. These abilities do magical things such as create rays of fire, open swirling portals, or summon creatures.
 
-### MELEE
+#### MELEE
 
 Abilities with the Melee keyword can be used only over very short distances, typically within a creature's reach, because they require you to touch someone or something with your body, a weapon, or an implement.
 
-### PSIONIC
+#### PSIONIC
 
 Psionic-keyword abilities are used by creatures who can manifest psionic powers, have innate psionic features, or wield psionic items. These abilities might create blasts of psychic energy, move objects with telekinesis, or slow down time with chronopathy.
 
-### RANGED
+#### RANGED
 
 Abilities with the Ranged keyword can be used to affect creatures who are too far away to touch.
 
-### STRIKE
+#### STRIKE
 
 Abilities with the Strike keyword (referred to simply as "strikes") deal damage to or impose a harmful effect on other creatures.
 
-### WEAPON
+#### WEAPON
 
 The Weapon keyword is used in abilities that are made with blades, bows, and other such items. Weapon abilities also include attacks creatures make with their own bodies, such as punches, kicks, bites, tail slaps, and more. Your kit determines the types of weapons you wield and use with weapon abilities (see Kits).
 
@@ -3942,35 +3942,35 @@ The Weapon keyword is used in abilities that are made with blades, bows, and oth
 
 The Strike keyword and phrases like "makes a strike" are reserved for abilities that have a creature specifically targeting other creatures or objects (not an area), and dealing harm to them by making a power roll. Other abilities that target areas of effect, are not strikes. They instead use the Area keyword. That means if a feature distinctly interacts with a strike, that feature has no effect on abilities with the Area keyword.
 
-## TYPE
+### TYPE
 
 Each ability has a "Type" entry that describes how long it takes to execute the ability. For instance, if you use an ability that has "Action" as its type entry, you must use your action to activate the ability. Most abilities require you to use an action, a maneuver, a triggered action, a free maneuver, or a free triggered action (see Combat for more information).
 
 If an ability takes 1 minute or longer to use, you can't use it in combat.
 
-### TRIGGER
+#### TRIGGER
 
 If an ability requires a triggered action or a free triggered action to use, a "Trigger" entry is part of the ability. For example, the trigger for the tactician's Parry ability is: "A creature deals damage to the target."
 
-## DISTANCE
+### DISTANCE
 
 An ability's "Distance" entry indicates how close you need to be to a creature or object to affect that target with the ability.
 
-### MELEE
+#### MELEE
 
 Melee abilities have a distance of "Melee X" require you to touch a creature with your body, a weapon, or an implement. X is the distance in squares at which you can physically make contact with another creature or object targeted by the ability. For instance, a distance of "Melee 2" can be used to target creatures or objects within 2 squares of you.
 
-### RANGED
+#### RANGED
 
 Abilities with a distance noted as "Ranged" can be used to target creatures who are more than a touch away. Ranged distances are presented as "Ranged X," with X being the number of squares away a creature or object can be while still allowing you to target them with the ability. For instance, a distance of "Ranged 5" can be used to target creatures or objects within 5 squares of you.
 
 If you make a ranged strike while an enemy is adjacent to you, you have a bane on the strike's power roll.
 
-### MELEE OR RANGED
+#### MELEE OR RANGED
 
 Some abilities have a melee distance and a ranged distance. When you use such an ability, you choose whether to use it as a melee or a ranged ability. The ability never has both the Melee and Ranged keywords at the same time. For example, if you have the Cloak and Dagger kit, which has a weapon damage bonus to melee and ranged abilities, only one bonus at a time applies to an ability with the Melee or Ranged keywords.
 
-### AREA ABILITIES
+#### AREA ABILITIES
 
 Area abilities cover an area, creating an effect within that area that lets you target multiple creatures or objects at once. When an ability allows you to create an area of effect, you are sometimes given a distance, noted as "within X," that describes how many squares away from you the area can be. If an area ability doesn't originate from you, then least 1 square of the area of effect must be within that distance and your line of effect. This square is referred to as the origin square of the area of effect. The area of effect can spread from the origin square however you choose, as long as the area of effect conforms to the shape and arrangement rules of that particular area.
 
@@ -3988,41 +3988,41 @@ An area ability might use any of the following areas of effect:
 - **Wall:** When an ability creates a wall, it is expressed as "X wall," where X equals how many squares are used to make the wall. When you place a wall, you can build it one square at a time, but each square must share at least one side (not just a corner) with another square of the wall. You can stack squares on top of each other to make the wall higher. Unless otherwise stated, a wall can't be placed in occupied squares, and a wall blocks line of effect.
 - **Special:** Some abilities create a unique area of effect. The distance entry of such abilities specifies how the area is created.
 
-### SELF
+#### SELF
 
 If an ability has a distance of "Self," that ability originates from or affects only you. The ability's description specifies how it works.
 
-## TARGET
+### TARGET
 
 The "Target" entry of an ability notes the number of creatures or objects who can be targeted by that ability.
 
-### CREATURE
+#### CREATURE
 
 If an ability targets one or more creatures, you can have it target any creature within the ability's distance. You aren't an eligible creature target for your own abilities unless those abilities also have "self" as a target (see below).
 
-### OBJECT
+#### OBJECT
 
 If an ability targets one or more objects, you can have it target any object within the ability's distance. Unless otherwise noted, objects have poison and psychic immunity.
 
 When an ability can target creatures and objects, the ability can damage objects. However, unless otherwise noted or if the Director decides otherwise, objects are immune to an ability's other effects.
 
-### ENEMY
+#### ENEMY
 
 If an ability targets one or more enemies, you can use the ability to target only creatures who are hostile to you. Typically, you decide who counts as an enemy, though the Director has the final say.
 
-### ALLY
+#### ALLY
 
 If an ability targets one or more allies, you can use the ability to target only willing creatures who are friendly to you. Typically, you and any other player's character who you target decide who counts as an ally, though the Director has the final say. You aren't an eligible ally target for your own abilities unless those abilities also have "self" as a target.
 
-### SELF
+#### SELF
 
 If an ability targets "self," then you are a valid target for the ability.
 
-### ALL
+#### ALL
 
 If an ability doesn't provide a number of targets but instead says it applies to all creatures, objects, enemies, or allies, then all eligible targets are affected.
 
-## ABILITY ROLL
+### ABILITY ROLL
 
 If an ability requires a power roll, it has a "Power Roll" entry that tells you which characteristic to add to the 2d10 roll you make when you activate the ability.
 
@@ -4033,7 +4033,7 @@ Unlike power rolls made as tests, ability rolls always do something useful when 
 - **Tier 2 (12**-**16):** The ability deals 6 + your Might score damage and pushes the target back 2 squares.
 - **Tier 3 (17 or more):** The ability deals 9 + your might score damage and pushes the target back 4 squares.
 
-### CHARACTERISTICS AND DAMAGE
+#### CHARACTERISTICS AND DAMAGE
 
 Certain abilities that deal damage list their damage as a number followed by a plus sign (+) and the letter M, A, R, I, or P. The indicated letter means you should also add your characteristic score to the damage dealt by the ability.
 
@@ -4053,7 +4053,7 @@ Some abilities, such as your free strikes, allow you to pick which characteristi
 
 The damage for these abilities increases at each echelon of play, since your characteristic scores improve each time you enter a new echelon.
 
-### ABILITIES WITH DAMAGE AND EFFECTS
+#### ABILITIES WITH DAMAGE AND EFFECTS
 
 Both strikes and area abilities deal damage and often have an additional effect on their target. The amount of damage and the strength of the effect are determined by the power roll.
 
@@ -4069,11 +4069,11 @@ Unless otherwise indicated, any effects that are determined by a power roll resu
 
 If an ability has multiple effects, they resolve in the order in which they are presented.
 
-#### POTENCY AND ABILITIES
+##### POTENCY AND ABILITIES
 
 If an ability effect has a potency, it is listed in the ability. See The Basics for more information.
 
-#### SURGES AND ABILITIES
+##### SURGES AND ABILITIES
 
 Surges can be spent to increase the damage dealt by an ability or increase an ability's potency. See The Basics for more information.
 
@@ -4085,59 +4085,59 @@ Certain ability effects allow you to move and affect other creatures or objects 
 
 Some treasures and other effects affected **rolled damage**, a term that refers to the variable damage that is determined by making an ability power roll. Some abilities or ability effects deal damage without requiring a power roll--that is not rolled damage.
 
-### CRITICAL HIT
+#### CRITICAL HIT
 
 When you make an ability power roll as part of an strike or action and the total of the roll is 19 or 20 before adding your characteristic (a natural 19 or natural 20), you score a critical hit. This allows you to immediately take an additional action after resolving the power roll, whether or not it's your turn and even if you are dazed (see Conditions).
 
-### ROLL AGAINST MULTIPLE CREATURES
+#### ROLL AGAINST MULTIPLE CREATURES
 
 When an ability targets multiple creatures, you make one power roll and apply the result to all the creatures you target. If you have edges or banes against some but not all of your targets, you might apply a different tier of result to individual targets.
 
 For example, if you target three creatures with a strike and your result is 11, each of the targets should be affected by the tier 1 result of the ability. However, if you gain an edge on strikes against one of the targets to add 2 to the power roll, your result against that target is 13 and that target is affected by the tier 2 result of the ability.
 
-## SURGES
+### SURGES
 
 A troubadour's battle song, a fury's building rage, and a shadow's patient insight can all make a hero more effective in a fight. These advantages are represented by **surges**. Many abilities give heroes surges during a battle. When you earn a surge, you can keep track of it on your character sheet.
 
 Surges can be used in combat to deal extra damage to your foes and increase the value of your potencies. When you deal damage with an ability power roll, you can spend up to three surges you have to increase the damage you deal by an amount equal to your highest characteristic score per surge spent to one creature or object targeted with the ability. When you target one or more creatures with an ability that has a potency, you can spend two surges to increase the potency by 1 for one of the creatures targeted with the effect. You can't increase the potency by more than 1 with surges, though you can spend multiple at once to increase the potency for multiple targets. After you spend a surge, it disappears. At the end of combat, you lose all your surges.
 
-## EFFECT
+### EFFECT
 
 Many abilities that require power rolls also have effect entries describing additional effects or rules for how the ability is used. If an ability doesn't require a power roll, it has an effect entry that describes how it works.
 
-## SPEND RESOURCE
+### SPEND RESOURCE
 
 Some abilities have a "Spend X \[Heroic Resource\]" entry. These are similar to effect entries, except they cost Heroic Resources to use. You must spend X of your Heroic Resource to activate the effect. If the entry reads "Spend \[Heroic Resource\]" with no number, then you can spend as much of your Heroic Resource as you like to increase the effect's impact, as described in the entry's details.
 
-## STACKING UNIQUE EFFECTS
+### STACKING UNIQUE EFFECTS
 
 The unique effects of different abilities are combined if their durations and targets overlap. However, the effects of the same ability used multiple times don't add together. Instead, the most impactful result--such as the highest bonus--from each use of the ability applies. The most recent ability applies for determining duration.
 
 Different effects that impose the same condition (see Conditions) don't stack to impose the condition twice. For example, if a hero is targeted by numerous creatures whose abilities can halve a target's recovery value, the hero's recovery value is only halved once.
 
-## ENDING EFFECTS
+### ENDING EFFECTS
 
 When a creature suffers a lasting effect, whatever ability, hazard, or other mechanic imposed the effect specifies how long the effect lasts. Unless otherwise noted, all effects and conditions (see Conditions) that are imposed on you during a combat encounter end when the encounter is over if you want them to.
 
-### EOT
+#### EOT
 
 If an effect ends with "(EoT)" at the end of its description, a creature suffers the effect until the end of their next turn, or the current turn if they got the effect on their current turn.
 
-### SAVE ENDS
+#### SAVE ENDS
 
 If an effect ends with "(save ends)" at the end of its description, then a creature suffering the effect can make a saving throw at the end of their turn to remove the effect.
 
 A saving throw represents your luck in shaking off an effect. You likely already got a chance to resist the effect using your characteristic score to resist a potency, so now it's down to fate. To make a saving throw, roll a 1d10. On a result of 6 or higher, the effect ends. Otherwise, it continues.
 
-### END OF ENCOUNTER OR DYING
+#### END OF ENCOUNTER OR DYING
 
 Some ability effects, such as the one associated with the conduit's Blessing of Fate and Destiny ability, last until the end of the encounter or until the creature who used the ability is dying. If these abilities are used outside of combat, they last 5 minutes.
 
-## ADJACENT
+### ADJACENT
 
 Many abilities and other options refer to creatures, objects, or spaces that are adjacent to a specified creature. Something is adjacent to a creature if it is within 1 square of that creature.
 
-## LINE OF EFFECT
+### LINE OF EFFECT
 
 To target a creature or object with an ability, including striking the creature or object, you must have line of effect to that creature or object. If a solid object, such as a wall or pillar, completely blocks the creature from you, then you don't have line of effect to them. If you're not sure if you have line of effect to a creature, imagine drawing a straight line from any corner of the space you occupy on the map to any corner of a space the creature occupies. If you can do this with at least one corner connecting to another with no obstruction in between, you have line of effect to the creature.
 
@@ -4145,35 +4145,35 @@ At the Director's discretion, flimsy or fragile obstructions such as a glass win
 
 If you want to create an area of effect in a specific area, you must have line of effect to at least one of the squares in that area. See Area Abilities.
 
-## STRAIGHT LINE
+### STRAIGHT LINE
 
 Whenever your character moves or when you or another creature are force moved, that movement is typically in a straight line. Abilities that allow you to move or to forcibly move another creature often talk about moving straight toward or away from another creature or an object. Although a line of travel must be straight, it doesn't have to travel a straight line of squares on the grid.
 
 ![](_page_58_Picture_19.jpeg)
 
-## GROUND
+### GROUND
 
 Some abilities affect or refer to a hero or their targets being "on the ground." In this case, the ground means any surface that a person could normally stand, sit, or lay upon. The ground can be a castle floor, the earthen road, a metal platform, or the deck of a ship.
 
-## CONDITIONS
+### CONDITIONS
 
 Some abilities and other effects apply specific negative effects called conditions to a creature. The following conditions show up regularly in the game and can be tracked on your character sheet.
 
-### BLEEDING
+#### BLEEDING
 
 While bleeding, whenever you make a test using Might or Agility, make a strike, or use an action, maneuver, or a triggered action, you lose 1d6 Stamina after the test, action, maneuver, or triggered action is resolved. This Stamina loss can't be prevented in any way.
 
-### DAZED
+#### DAZED
 
 While you are dazed, you can do only one thing on your turn: use a maneuver, use an action, or take a move action. You also can't use triggered actions, free triggered actions, or free maneuvers.
 
-### FRIGHTENED
+#### FRIGHTENED
 
 If you are frightened, ability power rolls you make against the source of your fear take a bane. If that source is a creature, their ability power rolls against you gain an edge. You can't willingly move closer to the source of your fear if you know the location of that source. If you gain the frightened condition from one source while already
 
 frightened by a different source, the new condition replaces the old one.
 
-### GRABBED
+#### GRABBED
 
 While you are grabbed, your speed is 0, you can't be force moved, you can't use the Knockback maneuver, and you take a bane on abilities that don't target the creature grabbing you. If the creature grabbing you moves, they bring you with them. If the creature's size is equal to or less than yours, their speed is halved while they have you grabbed.
 
@@ -4181,37 +4181,37 @@ The creature grabbing you can use a maneuver to move you into an unoccupied spac
 
 The creature grabbing you can end the grab at any time (no action required). You can also attempt to escape being grabbed using the Escape Grab maneuver (see Maneuvers in Combat). If you teleport or if the creature grabbing you is force moved to a space that isn't adjacent to you, you are no longer grabbed.
 
-### PRONE
+#### PRONE
 
 While you are prone, you are flat on the ground, strikes you make take a bane, and melee abilities made against you gain an edge. You must crawl to move along the ground, which costs you 1 additional square of movement for every square you crawl. You can't climb, jump, swim, or fly while prone. If you are climbing, flying, or jumping while you are knocked prone, you fall.
 
 While prone, you can stand up as a maneuver (see Maneuvers in Combat), unless the ability or effect that imposed the condition says otherwise. You can use a maneuver to make an adjacent prone creature stand up.
 
-### RESTRAINED
+#### RESTRAINED
 
 While you are restrained, your speed is 0, you can't use the Stand Up maneuver, and you can't be force moved. Your ability power rolls take a bane, abilities against you gain an edge, and you have a bane on Might and Agility tests.
 
 If you teleport while restrained, the condition ends.
 
-### SLOWED
+#### SLOWED
 
 While you are slowed, your speed is 2 unless it is already lower, and you can't shift.
 
-### TAUNTED
+#### TAUNTED
 
 If you are taunted, you have a double bane on ability power rolls that don't target the creature who taunted you while you have line of effect to that creature. If you gain the taunted condition from one creature while already taunted by a different creature, the new condition replaces the old one.
 
-### WEAKENED
+#### WEAKENED
 
 While you are weakened, all your power rolls take a bane.
 
-# CENSOR
+## CENSOR
 
 Demons and devils fear you. Criminals run from the sight of your shadow in the alley. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with Wraths and sent out into the world first to seek, then censor those whose actions--or even existence--are anathema to your church.
 
 You're at your best against the strongest foes. Your judgments terrify heretics, stop enemies in their tracks, even hurl them across the battlefield.
 
-## BASICS
+### BASICS
 
 **Starting Characteristics:** You start with a Might of 2 and a Presence of 2, and can choose one of the following arrays for your other characteristics scores:
 
@@ -4265,11 +4265,11 @@ You're at your best against the strongest foes. Your judgments terrify heretics,
 | ------------------------- | ----------- |
 | the Gods, Skill Increase  | 11          |
 
-## 1ST-LEVEL FEATURES
+### 1ST-LEVEL FEATURES
 
 As a censor, you gain the following features.
 
-### CENSOR ORDER
+#### CENSOR ORDER
 
 Censors are the will of their god made physically manifest, and you act as your god's agent in the world. As you shoulder that responsibility, you choose a censor order from the following options, each of which grants you a skill (*Quick Build:* Paragon):
 
@@ -4279,7 +4279,7 @@ Censors are the will of their god made physically manifest, and you act as your 
 
 Your choice of censor order determines many of the features you'll gain from this class.
 
-### DEITY AND DOMAINS
+#### DEITY AND DOMAINS
 
 Choose a god or saint who you revere from the Gods and Religion chapter, or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity, and can choose four domains to be part of their portfolio.
 
@@ -4287,11 +4287,11 @@ After choosing your deity, pick one domain from their portfolio. Your choice of 
 
 (*Quick Build:* Cavall as deity and War as domain)
 
-### WRATH
+#### WRATH
 
 The power you serve grants you a Heroic Resource called wrath, fueling your abilities as you censor those your church deems to be heretics.
 
-#### WRATH IN COMBAT
+##### WRATH IN COMBAT
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain wrath equal to your Victories. At the start of each of your turns during combat, you gain 2 wrath.
 
@@ -4299,7 +4299,7 @@ Additionally, the first time each round that a creature judged by you (see Judgm
 
 You lose any remaining wrath at the end of the encounter.
 
-#### WRATH OUTSIDE OF COMBAT
+##### WRATH OUTSIDE OF COMBAT
 
 Though you can't gain wrath outside of combat, you can use your heroic abilities and effects that cost wrath without spending it. Whenever you use an ability or effect outside of combat that costs wrath, you can't use that same ability or
 
@@ -4307,7 +4307,7 @@ effect outside of combat again until you gain at least 1 Victory or finish a Res
 
 If you use an ability outside of combat that lets you spend unlimited wrath on its effect, you can use it as if you had spent an amount of wrath on it equal to your Victories. (Such abilities aren't part of the core rules for the censor but might appear in future products.)
 
-### JUDGMENT
+#### JUDGMENT
 
 You pick out the enemies most worthy of your wrath and place a divine judgment upon them, censoring them with the power of your god. You have the following ability.
 
@@ -4329,7 +4329,7 @@ In addition, you can spend 1 judgment to take one of the following free triggere
 - When a judged target makes a power roll, you can add a bane to the roll.
 - When a judged target within distance uses an ability with a potency against another creature, you reduce the potency of the ability by 1 for that creature (to a minimum of 0).
 
-#### JUDGMENT ORDER BENEFIT
+##### JUDGMENT ORDER BENEFIT
 
 When you use your Judgment ability to judge another creature, you gain the following benefit based on your order.
 
@@ -4337,11 +4337,11 @@ When you use your Judgment ability to judge another creature, you gain the follo
 - **Oracle:** You deal holy damage equal to twice your Presence score to the target.
 - **Paragon:** You vertically pull the target up to a number of squares equal to twice your Presence score.
 
-### KIT
+#### KIT
 
 You can use and gain the benefits of a kit. See the Kits chapter for more information. (*Quick Build:* Warrior Priest)
 
-### MY LIFE FOR YOURS
+#### MY LIFE FOR YOURS
 
 You channel your will to mend your wounds or the wounds of your allies. You gain the following ability.
 
@@ -4355,7 +4355,7 @@ You channel your will to mend your wounds or the wounds of your allies. You gain
 
 **Spend 1 Wrath:** You can end one effect on the target that is ended by a saving throw or that ends at the end of their turn, or a prone target can stand up.
 
-### 1ST-LEVEL DOMAIN FEATURE
+#### 1ST-LEVEL DOMAIN FEATURE
 
 You gain a domain feature from one of your domains as shown on the 1st-Level Censor Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table.
 
@@ -4376,17 +4376,17 @@ You gain a domain feature from one of your domains as shown on the 1st-Level Cen
 | Trickery   | Inspired Deception            | Intrigue      |
 | War        | Sanctified Weapon             | Exploration   |
 
-#### BLESSING OF COMPASSION
+##### BLESSING OF COMPASSION
 
 You exude a magic aura that can soothe those willing to socially engage with you. You gain an edge on any test made to assist another creature with a test.
 
 Additionally, when you are present at the start of a negotiation, one NPC of your choice has their patience increased by 1 (to a maximum of 5), and the first test made to influence them gains an edge.
 
-#### BLESSING OF COMPREHENSION
+##### BLESSING OF COMPREHENSION
 
 You can interpret diagrams and charts even if you don't understand the language associated with them. For the purpose of making project rolls for research and crafting items (see Downtime Projects), you are considered fluent in all languages.
 
-#### BLESSING OF FORTUNATE WEATHER
+##### BLESSING OF FORTUNATE WEATHER
 
 When you finish a respite, you can decide the weather conditions within 100 squares of you. If you are in the same area as a creature using this or a similar feature, both features cancel each other where their areas overlap. Until you finish another respite, the weather conditions you establish follow you through any mundane outdoor locations.
 
@@ -4399,11 +4399,11 @@ Choose one of the following types of weather, each of which grants a benefit to 
 
 **Precipitation:** When the ground is muddy or snowy, you and each ally gain an edge on tests that use the Track skill.
 
-#### FAITHFUL FRIEND
+##### FAITHFUL FRIEND
 
 You gain the following ability.
 
-#### FAITHFUL FRIEND
+##### FAITHFUL FRIEND
 
 *An animal spirit is drawn to you, sharing their senses and serving you faithfully.*
 
@@ -4411,11 +4411,11 @@ You gain the following ability.
 
 **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal can't physically interact with the world, but they have a speed of 5 and can fly. While you are within 10 squares of the spirit, you can sense everything an animal of their type would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, it is dismissed and you take 1d10 psychic damage, which can't be reduced in any way.
 
-#### GRAVE SPEECH
+##### GRAVE SPEECH
 
 You gain the following ability.
 
-#### GRAVE SPEECH
+##### GRAVE SPEECH
 
 *You commune with the lingering soul of the recently dead.* **Keywords:** Magic **Type:** Maneuver
 
@@ -4423,7 +4423,7 @@ You gain the following ability.
 
 the head) of a creature who has died within the last 24 hours and who can speak a language you know. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of dying can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
 
-#### HANDS OF THE MAKER
+##### HANDS OF THE MAKER
 
 You gain the following ability.
 
@@ -4435,35 +4435,35 @@ HANDS OF THE MAKER
 
 **Effect:** You create a mundane object no larger than size 1S. You can maintain a number of objects created this way equal to your Presence score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
 
-#### INNER LIGHT
+##### INNER LIGHT
 
 Each time you finish a respite, you can choose yourself or an ally who is also ending a respite to gain the benefit of a divine ritual. As you perform the ritual, you place a ray of morning light into the chosen character's soul, granting them a +1 bonus on saving throws. This benefit lasts until you finish another respite.
 
-#### INSPIRED DECEPTION
+##### INSPIRED DECEPTION
 
 The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use Presence on the test instead of another characteristic.
 
-#### ORACULAR VISIONS
+##### ORACULAR VISIONS
 
 Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more Victories, you earn an equal number of fate points. When you or a creature within 10 squares of you makes a test, you can spend 1 fate point to tap into a vision of the outcome, granting that creature an edge on the test. You lose any remaining fate points when you finish a respite.
 
-#### PROTECTIVE CIRCLE
+##### PROTECTIVE CIRCLE
 
 You can spend 10 minutes working while uninterrupted to create a protective circle on THE GROUND LARGE ENOUGH TO HOLD A SIZE 1 CREATURE. The circle lasts for 24 hours or until you dismiss it (no action required). ONLY creatures you designate at the time of drawing the circle can enter and exit the area. While in the protective area, a creature can't be targeted by strikes.
 
-#### REVITALIZING RITUAL
+##### REVITALIZING RITUAL
 
 Each time you finish a respite, you can choose yourself or an ally who is also ending a respite to gain the benefit of a divine ritual. When you perform the ritual, the chosen character gains a bonus to their recovery value equal to your level, which lasts until you finish another respite.
 
-#### SANCTIFIED WEAPON
+##### SANCTIFIED WEAPON
 
 As a respite activity, you can bless a weapon. Any creature who wields the weapon gains a +1 rolled damage bonus with abilities that use the weapon. This benefit lasts until you finish another respite.
 
-### CENSOR ABILITIES
+#### CENSOR ABILITIES
 
 You use a blend of martial techniques and divine magic to attack your foes and defend your allies.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Your Allies Cannot Save You)
 
@@ -4519,11 +4519,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** Each enemy adjacent to the target is pushed away from the target up to a number of squares equal to your Presence score.
 
-#### HEROIC ABILITIES
+##### HEROIC ABILITIES
 
 You call upon a number of heroic abilities, all of them bound to your wrath. (*Quick Build:* The Gods Punish and Defend)
 
-#### 3-WRATH ABILITY
+###### 3-WRATH ABILITY
 
 Choose one heroic ability from the following options, each of which costs 3 wrath to use.
 
@@ -4583,7 +4583,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 - *12-16:* 8 + P **holy damage;** I \< average\*\*, dazed (save ends)\*\*
 - *17+:* 11 + P **holy damage;** I \< strong\*\*, dazed (save ends)\*\*
 
-#### 5-WRATH ABILITY
+##### 5-WRATH ABILITY
 
 Choose one heroic ability from the following options, each of which costs 5 wrath to use. (*Quick Build:* Purifying Fire)
 
@@ -4653,15 +4653,15 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 **Effect:** While the target has fire weakness from this ability, you can choose to have your abilities deal fire damage to the target instead of holy damage.
 
-## 2ND-LEVEL FEATURES
+### 2ND-LEVEL FEATURES
 
 As a 2nd-level censor, you gain the following features.
 
-### PERK
+#### PERK
 
 You gain an interpersonal, lore, or supernatural perk of your choice. See Perks for more information.
 
-### 2ND-LEVEL ORDER FEATURES
+#### 2ND-LEVEL ORDER FEATURES
 
 Your censor order grants you a feature as shown on the 2nd-Level Order Features table.
 
@@ -4673,15 +4673,15 @@ Your censor order grants you a feature as shown on the 2nd-Level Order Features 
 | Oracle   | It Was Foretold, Judge of Character  |
 | Paragon  | Lead by Example, Stalwart Example    |
 
-#### IT WAS FORETOLD
+##### IT WAS FORETOLD
 
 Your order has trained you to understand fragments of the constant visions given to you by your deity, giving you a momentary advantage in challenging situations. At the start of an encounter, you can take one action before any other creature and before your first turn. Additionally, whenever a montage test is called for, you can make one test before the montage begins.
 
-#### JUDGE OF CHARACTER
+##### JUDGE OF CHARACTER
 
 Your focus on your fragmentary visions to gain divine insight on creatures and the world beyond your normal senses. Whenever you would make an Intuition test, you can make a Presence test instead.
 
-#### LEAD BY EXAMPLE
+##### LEAD BY EXAMPLE
 
 Your devotion to your deity allows you to take command of the battlefield, letting your allies benefit from your wisdom. When you are adjacent to a target, any ally gains the benefits of flanking against that target. Additionally, each of your allies gains an edge on tests made to aid other creatures with their tests.
 
@@ -4689,19 +4689,19 @@ Your devotion to your deity allows you to take command of the battlefield, letti
 
 You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you cannot take the Hide maneuver. You have an edge when searching for hidden creatures and, if you find a hidden creature, you can use Judgment on them as a free triggered action.
 
-#### A SENSE FOR TRUTH
+##### A SENSE FOR TRUTH
 
 You are trained in secret techniques from your order that allow you to discern the truth at a supernatural level. This puts you in high demand for your church and any governments it is allied with. If a creature is of a lower level than you, you automatically know when they are lying, though you don't necessarily know the actual truth behind their lie. Additionally, you have an edge on tests to detect lies or hidden motives, such as when using the Read Person skill.
 
-#### STALWART EXAMPLE
+##### STALWART EXAMPLE
 
 You begin to exhibit a small spark of your deity's power, causing creatures to trust or fear you, depending on what you need. You gain an edge on tests that use skills from the interpersonal skill group.
 
-### 2ND-LEVEL ORDER ABILITY
+#### 2ND-LEVEL ORDER ABILITY
 
 Your censor order grants your choice of one of two abilities.
 
-#### 2ND-LEVEL EXORCIST ABILITY
+##### 2ND-LEVEL EXORCIST ABILITY
 
 Choose one of the following abilities.
 
@@ -4729,7 +4729,7 @@ Choose one of the following abilities.
 
 **Effect:** Each target takes twice your Presence in holy damage. Any hidden enemies are automatically revealed and can't become hidden again until the start of your next turn. You can use Judgment on one of the targets as a free triggered action.
 
-### 2ND-LEVEL ORACLE ABILITY
+##### 2ND-LEVEL ORACLE ABILITY
 
 Choose one of the following abilities.
 
@@ -4751,7 +4751,7 @@ Choose one of the following abilities.
 
 **Effect:** When you use this ability, the target can use a free triggered action to make a signature strike or a heroic ability that is a strike, and has a double edge on the power roll.
 
-#### 2ND-LEVEL PARAGON ABILITY
+##### 2ND-LEVEL PARAGON ABILITY
 
 Choose one of the following abilities.
 
@@ -4779,15 +4779,15 @@ Choose one of the following abilities.
 
 **Effect:** Any of your abilities that impose forced movement can move the target while they are restrained this way.
 
-## 3RD-LEVEL FEATURES
+### 3RD-LEVEL FEATURES
 
 As a 3rd-level censor, you gain the following features.
 
-### LOOK ON MY WORK AND DESPAIR
+#### LOOK ON MY WORK AND DESPAIR
 
 Your judgment has grown in divine power, manifesting your deity's ire against blasphemers, causing them to fear your actions, especially when their allies are smited. Whenever you judge a creature you can spend 1 wrath to channel your divine power to make them afraid. If the target has P \< average, they are frightened of you (save ends). Whenever a creature judged by you to is reduced to 0 Stamina and you judge a new target as a free triggered action, if that new target has P \< strong, they are frightened of you (save ends). If the target is already frightened of you, they take damage equal to twice your Presence score instead.
 
-### 7-WRATH ABILITY
+#### 7-WRATH ABILITY
 
 Choose one heroic ability from the following options, each of which costs 7 wrath to use.
 
@@ -4825,15 +4825,15 @@ Choose one heroic ability from the following options, each of which costs 7 wrat
 
 **Effect:** Until the end of the encounter or you are dying, whenever a target is force moved or moves willingly out of the aura, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
 
-## 4TH-LEVEL FEATURES
+### 4TH-LEVEL FEATURES
 
 As a 4th-level censor, you gain the following features.
 
-### CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 Your Might and Presence scores increase to 3.
 
-### 4TH-LEVEL DOMAIN FEATURE
+#### 4TH-LEVEL DOMAIN FEATURE
 
 You gain a domain feature from one of your domains, as shown on the 4th-Level Censor Domain Features table.
 
@@ -4856,15 +4856,15 @@ You gain a domain feature from one of your domains, as shown on the 4th-Level Ce
 | Trickery   | Blessing of Secrets        |
 | War        | Improved Sanctified Weapon |
 
-#### BLESSING OF LIFE
+##### BLESSING OF LIFE
 
 Your divine presence causes those you deem worthy to recover quickly from a fight. When an ally within distance of your My Life For Yours ability regains Stamina by you spending a recovery, they regain extra Stamina equal to your Presence score.
 
-#### BLESSING OF SECRETS
+##### BLESSING OF SECRETS
 
 You gain the following ability.
 
-#### BLESSING OF SECRETS
+##### BLESSING OF SECRETS
 
 *You project an illusory aura that makes you and allies harder to notice.*
 
@@ -4872,33 +4872,33 @@ You gain the following ability.
 
 **Effect:** Each creature in the aura has a double edge on tests made to hide and sneak. The aura lasts until you end it (no action required), or a creature affected by it harms or deals damage to an object or another creature.
 
-#### INVOCATION OF THE HEART
+##### INVOCATION OF THE HEART
 
 You can forge a bond of love and friendship with a willing creature you touch as an action. While this bond is active, you can telepathically speak with the creature over any distance, including interplanar. Additionally, while this bond is active, you can attempt to assist the creature with any test they make, regardless of their proximity to you. You can end this bond at any time (no action required). You can only have one of these bonds active at a time.
 
-#### IMPERVIOUS TOUCH
+##### IMPERVIOUS TOUCH
 
 As a maneuver, you can touch an object with a size equal to your Presence score or smaller and place a protective spell on it. The object gains immunity to weapon damage. You can remove the spell on an object as no action, no matter your distance from it. You can only have this spell active on a number of objects equal to your Presence score.
 
 In addition to the number of objects equal to your Presence score, you can place this spell on a building or vehicle (or similar structure with your Director's approval) that is of a size larger than your Presence score. You can only place it on one building at a time.
 
-#### IMPROVED HANDS OF THE MAKER
+##### IMPROVED HANDS OF THE MAKER
 
 When you use Hands of the Maker, you can create an object that is size 2 or smaller.
 
-#### IMPROVED SANCTIFIED WEAPON
+##### IMPROVED SANCTIFIED WEAPON
 
 The weapon improved by your Sanctified Weapon provides a bonus of +3 instead of +1.
 
-#### LIGHT OF REVELATION
+##### LIGHT OF REVELATION
 
 As a maneuver, you can make your body shine brightly, illuminating your space and any space within 5 squares of you. This light shines through any darkness. Hidden creatures in the area automatically revealed, and creatures in the light, including you, can't hide. You have an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions while the aura is active.
 
-#### ORACULAR WARNING
+##### ORACULAR WARNING
 
 When you finish a respite, you can share the details of the vague dreams of the future granted to you by the gods that you had while resting with any other creatures finishing the respite with you. These details help you and your allies stay alive, granting you 10 + your level Temporary Stamina that lasts until the end of their next respite if it doesn't disappear through damage first.
 
-### SEANCE
+##### SEANCE
 
 You can commune with a network of spirits. As a respite activity, you can speak the name of a creature who died who isn't undead. If the creature's spirit is free and willing to speak with you, they appear and you can have a conversation with them. During this time, the creature responds to you as they would have in life. If the creature isn't free or willing to appear, you can use your respite activity to do something else or call out to another name.
 
@@ -4906,31 +4906,31 @@ You can commune with a network of spirits. As a respite activity, you can speak 
 
 At the start of a respite, you can inspire yourself or another creature also taking the respite with you with divine knowledge whispered by the gods. If the target makes a project roll during this respite, they can add 1d10 plus your Presence to the result of the project roll.
 
-#### WODE ROAD
+##### WODE ROAD
 
 As an action you touch a living tree and make it part of a divine transportation network. Whenever you touch another living tree, you can use an action to teleport yourself and any willing creatures within 10 squares of you to a tree that is part of your network on the same world as the tree you touch. You can have a number of trees in your network equal to your Presence score. If a tree in your network dies, it is no longer part of the network. You can remove a tree from your network no matter your distance from it, including interplanar (no action required).
 
-#### WINDWALK
+##### WINDWALK
 
 While you have at least 5 Victories, your speed gains the Flying keyword. If you can already fly, then your speed increases by 2 while flying instead.
 
-### PERK
+#### PERK
 
 You gain any one perk of your choice. See Perks for more information.
 
-### SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-### WRATH BEYOND WRATH
+#### WRATH BEYOND WRATH
 
 The first time in a round that you deal damage to a judged creature, you gain 2 wrath instead of 1.
 
-## 5TH-LEVEL FEATURES
+### 5TH-LEVEL FEATURES
 
 As a 5th-level censor, you gain the following features.
 
-### 5TH-LEVEL ORDER FEATURE
+#### 5TH-LEVEL ORDER FEATURE
 
 Your specialization grants you features as shown on the 5th-Level Tactical Doctrines Features table.
 
@@ -4942,19 +4942,19 @@ Your specialization grants you features as shown on the 5th-Level Tactical Doctr
 | Oracle   | Prophecy      |
 | Paragon  | Stand Fast!   |
 
-#### EVIL REVEALED
+##### EVIL REVEALED
 
 Your order has taught you methods to see through the disguises of both mortals and monsters. You automatically see through disguises and illusions created by creatures of your level or lower. You have an edge on tests to see through more powerful disguises and illusions. When you see through a creature's disguise or illusion you can use Judgment on them as a free triggered action.
 
-#### PROPHECY
+##### PROPHECY
 
 You can now better sift through the constant fragmentary visions from your deity and act to make them manifest. When you gain one or more Victories, you can make a number of 2d10 rolls equal to the number of Victories you gained. Record and keep these results in the order they are rolled. When you or a creature within 10 squares of you makes a power roll, you can use a free triggered action to replace the result of just the dice roll with your first recorded result. You discard a result once it is used and the one after it becomes the first recorded result. All remaining rolls are discarded when you finish a respite.
 
-#### STAND FAST!
+##### STAND FAST!
 
 Your divine spark grows in power, allowing you and your allies to focus and endure. You and any allies within 5 squares of you can spend 1d6 Stamina at the beginning of their turn to immediately end any EoT effect or convert a save ends effect into an EoT effect.
 
-### 9-WRATH ABILITIES
+#### 9-WRATH ABILITIES
 
 Choose one heroic ability from the following options.
 
@@ -5010,11 +5010,11 @@ Choose one heroic ability from the following options.
 
 *17+:* **20 + M damage; you and allies within 1 square of you gain 20 Temporary Stamina**
 
-## 6TH-LEVEL FEATURES
+### 6TH-LEVEL FEATURES
 
 As a 6th-level censor, you gain the following features.
 
-### IMPLEMENT OF WRATH
+#### IMPLEMENT OF WRATH
 
 At the end of each respite you can select one hero's weapon, including your own, to be enchanted as an implement of your god's wrath until your next respite.
 
@@ -5026,15 +5026,15 @@ The enchanted weapon gains the following benefits:
 - Any minions targeted with strike using this weapon die instantly, with the minion's Stamina maximum removed from the minion pool, before damage is applied to the rest of the squad.
 - The wielder is immune to the frightened condition.
 
-### PERK
+#### PERK
 
 You gain an interpersonal, lore, or supernatural perk of your choice. See Perks for more information.
 
-### 6TH-LEVEL ORDER ABILITY
+#### 6TH-LEVEL ORDER ABILITY
 
 Your specialization grants your choice of one of two abilities.
 
-#### 6TH-LEVEL EXORCIST ABILITIES
+##### 6TH-LEVEL EXORCIST ABILITIES
 
 Choose one of the following abilities.
 
@@ -5060,7 +5060,7 @@ Choose one of the following abilities.
 
 **Effect**: The effect ends and is instead applied to the creature who applied it. That creature also takes damage equal to three times your Presence score.
 
-#### 6TH-LEVEL ORACLE ABILITIES
+##### 6TH-LEVEL ORACLE ABILITIES
 
 Choose one of the following abilities.
 
@@ -5084,7 +5084,7 @@ Choose one of the following abilities.
 - *12-16:* **slide 5; I \< \[average\] dazed (save ends)**
 - *17+:* **slide 7; I \< \[strong\] dazed (save ends)**
 
-#### 6TH-LEVEL PARAGON ABILITIES
+##### 6TH-LEVEL PARAGON ABILITIES
 
 Choose one of the following abilities.
 
@@ -5110,15 +5110,15 @@ Choose one of the following abilities.
 
 **Effect:** The target is unaffected by the strike, and you become the target instead. You halve the damage from the strike, and the target gains three surges.
 
-## 7TH-LEVEL FEATURES
+### 7TH-LEVEL FEATURES
 
 As a 7th-level censor, you gain the following features.
 
-### CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 All of your characteristics increase by 1, to a maximum score of 4.
 
-### 7TH-LEVEL DOMAIN FEATURE
+#### 7TH-LEVEL DOMAIN FEATURE
 
 You gain a domain feature from one of your domains, as shown on the 7th-Level Censor Domain Features table.
 
@@ -5137,11 +5137,11 @@ Sun Light of the Burning Sun
 Trickery Trinity of Trickery
 War Your Triumphs are Remembered
 
-#### BLESSING OF IRON
+##### BLESSING OF IRON
 
 The gods send divine favor to intercede on behalf of you and your allies. While you are not dying, enemies have a bane on strikes made against you and each ally within 3 squares of you.
 
-#### COVENANT OF THE HEART
+##### COVENANT OF THE HEART
 
 You can maintain up to three bonds with your Invocation of the Heart feature. Additionally, you gain the following ability.
 
@@ -5153,11 +5153,11 @@ You can maintain up to three bonds with your Invocation of the Heart feature. Ad
 
 **Effect:** Each target is teleported to an unoccupied space within 5 squares of a willing creature with whom you are bonded via your Invocation of the Heart feature. You don't need line of effect to the bonded creature.
 
-#### DIVINE QUARTERMASTER
+##### DIVINE QUARTERMASTER
 
 When you finish a respite, you can choose a treasure with a project goal up to 50 times your level. You gain a divine version of this treasure that lasts until the end of your next respite, or earlier if it is a consumable and you consume.
 
-#### FONT OF GRACE
+##### FONT OF GRACE
 
 When you use My Life For Yours, you gain 1 free wrath to spend on the ability that turn. If you don't use this wrath on this ability, it disappears. Additionally, the target of My Life For Yours gains 10 Temporary Stamina.
 
@@ -5165,7 +5165,7 @@ When you use My Life For Yours, you gain 1 free wrath to spend on the ability th
 
 You can gain access to information you need through prayer and no longer require research materials for crafting and research projects. You can add your level to project rolls you make for crafting and research projects. Additionally, you gain all the skills in the lore skill group you don't already have, and can gain a number of skills equal to the number you already had in the lore skill group before gaining this feature.
 
-#### LIGHT OF THE BURNING SUN
+##### LIGHT OF THE BURNING SUN
 
 Sun is infused in your body. When you deal damage to another creature with an ability, that ability deals 5 fire damage or 15 fire damage to undead creatures. In addition, you have fire immunity equal to your level. This fire immunity stacks with any other fire immunity you have.
 
@@ -5179,11 +5179,11 @@ Whenever you finish a respite, you prepare a magic meal of local flora for any c
 - Each creature gains a +1 bonus to saving throws.
 - Each creature has an edge on tests made to influence other creatures.
 
-#### RIDE THE LIGHTNING
+##### RIDE THE LIGHTNING
 
 Lightning and thunder are infused in your body. When you deal damage to another creature with an ability, that ability deals additional lightning damage equal to your Presence score. If you use an ability that force moves a creature, you can force move them an extra number of squares equal to your Presence score. While under the effects of the Windwalk ability you speed increases by your Might score, as you use lightning to enhance your locomotion.
 
-#### TRINITY OF TRICKERY
+##### TRINITY OF TRICKERY
 
 You gain the following ability.
 
@@ -5195,33 +5195,33 @@ You gain the following ability.
 
 **Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move the duplicates up to their speed. When one of the duplicates takes damage, the duplicate is destroyed. If the target is target with an ability, they can use a free triggered action to switch places with a duplicate in line of effect. The duplicate becomes the target instead.
 
-### WORD OF DEATH DEFERRED
+##### WORD OF DEATH DEFERRED
 
 You can stop death from taking your allies. When an ally within your My Life For Yours distance dies and you are not dying, you can use a free triggered action to instead have them fall unconscious until they regain Stamina.
 
 Additionally, your abilities deal an additional 5 damage to winded creatures.
 
-#### WORD OF FATE DENIED
+##### WORD OF FATE DENIED
 
 When an ally within 10 squares of you takes damage that would make them start dying, you can transfer the harm to yourself or another willing creature within 10 squares of you as a free triggered action. The creature you choose takes the damage instead and suffers any effect associated with it, and that damage can't be reduced in any way.
 
-### YOUR TRIUMPHS ARE REMEMBERED
+##### YOUR TRIUMPHS ARE REMEMBERED
 
 The gods allow you and your companions to bask in the glory of past successes. When you end a respite, you and any other heroes ending the respite with you have 1 Victory instead of 0. This Victory can't be converted into XP.
 
-### FOCUSED WRATH
+#### FOCUSED WRATH
 
 When you gain wrath at the start of your turn, you gain 3 wrath instead of 2.
 
-### SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## 8TH-LEVEL FEATURES
+### 8TH-LEVEL FEATURES
 
 As an 8th-level censor, you gain the following features.
 
-### 8TH-LEVEL ORDER FEATURE
+#### 8TH-LEVEL ORDER FEATURE
 
 Your specialization grants you features as shown on the 8td-Level Tactical Doctrines Features table.
 
@@ -5233,23 +5233,23 @@ Your specialization grants you features as shown on the 8td-Level Tactical Doctr
 | Oracle   | Timeless Insight |
 | Paragon  | Vow              |
 
-#### DEMONOLOGIST
+##### DEMONOLOGIST
 
 You have been taught the more esoteric secrets of your order. To defeat your enemy you must understand them. You have additional 2 Renown with demons, devils and other agents of chaos. If you successfully negotiate with one of these creatures, you gain a permanent edge on all future power rolls against that creature and can use Judgment on them as a free triggered action before an encounter begins.
 
-#### TIMELESS INSIGHT
+##### TIMELESS INSIGHT
 
 Your constant, fragmentary visions become clearer and can be honed to understand the past of creatures you interact with. You can make a medium Presence test to see visions from the past of any creature you are speaking with. Success gives you a clear view of any topic you wish to understand. Success with a consequence gives you two views, one false and one true. You lose 2d6 Stamina on a failure.
 
-#### VOW
+##### VOW
 
 Your words take on the power of your deity, with all the power and authority that entails. If you convince a creature to take an oath, they cannot break it for 7 days. If you take an oath you cannot break it for 7 days.
 
-### PERK
+#### PERK
 
 You gain any perk of your choice. See Perks for more information.
 
-### 11-WRATH ABILITIES
+#### 11-WRATH ABILITIES
 
 Choose one heroic ability from the following options.
 
@@ -5310,11 +5310,11 @@ Choose one heroic ability from the following options.
 
 **Effect:** While the target is slowed, their allies within 5 squares of them must make a free strike against the target once as a free maneuver at the beginning of their turns. In addition, while the target is slowed, any allies within 5 of the target must retarget any triggered free strikes to the target instead.
 
-## 9TH-LEVEL FEATURES
+### 9TH-LEVEL FEATURES
 
 As a 9th-level censor, you gain the following features.
 
-### IMPROVED IMPLEMENT OF WRATH
+#### IMPROVED IMPLEMENT OF WRATH
 
 The enchanted weapon from Implement of Wrath gains the following benefits:
 
@@ -5322,11 +5322,11 @@ The enchanted weapon from Implement of Wrath gains the following benefits:
 - Allies adjacent to the wielder make an addition saving throw against effects at the end of the wielder's turn.
 - The wielder has corruption immunity 10 .
 
-### 9TH-LEVEL ASPECT ABILITY
+#### 9TH-LEVEL ASPECT ABILITY
 
 Your specialization grants your choice of one of two abilities.
 
-#### 9TH-LEVEL EXORCIST ABILITIES
+##### 9TH-LEVEL EXORCIST ABILITIES
 
 Choose one of the following abilities.
 
@@ -5358,7 +5358,7 @@ Choose one of the following abilities.
 
 **Effect:** If the target becomes winded while they are frightened and the target is a non-leader or non-solo creature, the target is instead reduced to 0 Stamina. If a leader or solo creature is winded by another creature, they immediately take an additional 25 psychic damage.
 
-#### 9TH-LEVEL ORACLE ABILITIES
+##### 9TH-LEVEL ORACLE ABILITIES
 
 Choose one of the following abilities.
 
@@ -5376,7 +5376,7 @@ Choose one of the following abilities.
 
 **Effect:** The target takes their turn after the triggering hero. The target removes all negative effects. During their turn, the target has a double edge on all power rolls.
 
-#### 9TH-LEVEL PARAGON ABILITIES
+##### 9TH-LEVEL PARAGON ABILITIES
 
 Choose one of the following abilities.
 
@@ -5402,19 +5402,19 @@ Choose one of the following abilities.
 
 **Effect:** Until the end of the encounter or you become dying, each target in the aura gains 10 Temporary Stamina at the beginning of their turns.
 
-## 10TH-LEVEL FEATURES
+### 10TH-LEVEL FEATURES
 
 As a 10th-level censor, you gain the following features.
 
-### CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 Your Might and Presence scores increase to 5.
 
-### PERK
+#### PERK
 
 You gain a crafting, lore, or supernatural perk of your choice. See Perks for more information.
 
-### TEMPLAR
+#### TEMPLAR
 
 You are now the ultimate representation of your god's justice in the timescape. When you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity 3 questions, which the Director must answer honestly (though they may answer cryptically and not completely) if your deity knows the answer to the questions. Additionally, you can emerge from your respite in any location in the timescape where someone worships your deity.
 
@@ -5422,7 +5422,7 @@ Your god will also give you a priority target to enact justice on. You are your 
 
 Whenever you use the Judgment maneuver you can use a Conduit Domain Effect as a free triggered action, including an effect from a domain you access with Ardor.
 
-### VIRTUE
+#### VIRTUE
 
 You gain an epic resource called virtue. When you take a Respite, you gain virtue equal to the XP you gain. You can spend Virtue as if it were wrath on abilities you have.
 
@@ -5430,21 +5430,21 @@ You can spend 3 virtue to gain access to a single domain from your deity that yo
 
 Virtue remains until you spend it.
 
-### WRATH OF THE GODS
+#### WRATH OF THE GODS
 
 When you gain focus at the start of your turn, you gain 4 wrath instead of 3.
 
-### SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-# CONDUIT
+## CONDUIT
 
 The power of the gods flows through you! As a vessel for divine magic, you don't just keep your allies in the fight. You make those allies more effective, even as you rain divine energy down upon your foes. While the deity or saint you serve might have other faithful and clergy, you are special among worshippers, receiving your abilities from the highest source.
 
 As a conduit, you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, aweing your enemies and granting you increased empathy.
 
-## BASICS
+### BASICS
 
 **Starting Characteristics:** You start with an Intuition of 2, and can choose one of the following arrays for your other characteristics scores:
 
@@ -5507,11 +5507,11 @@ As a conduit, you heal and buff your allies, and debuff your foes while smiting 
 |       | Power, Most Pious,      |                |           |
 |       | Perk, Skill Increase    |                |           |
 
-## 1ST-LEVEL FEATURES
+### 1ST-LEVEL FEATURES
 
 As a conduit, you gain the following features.
 
-### DEITY AND DOMAINS
+#### DEITY AND DOMAINS
 
 Choose a god or saint who you revere from the Gods and Religion chapter, or ask your Director about the deities in your campaign world. With the Director's permission, you can also create your own deity, and can choose four domains to be part of their portfolio.
 
@@ -5519,11 +5519,11 @@ After choosing your deity, pick two domains from their portfolio. Your choice of
 
 (*Quick Build:* Adun for deity, Life and Protection for domains)
 
-### PIETY
+#### PIETY
 
 Your deity grants you a Heroic Resource called piety, letting you heal and empower your allies, and unleash holy power upon your foes.
 
-### PIETY IN COMBAT
+##### PIETY IN COMBAT
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain piety equal to your Victories. At the start of each of your turns during combat, you gain 1d3 piety.
 
@@ -5535,7 +5535,7 @@ Additionally, you can gain more piety by praying to the gods--but beware! Doing 
 
 You lose any remaining piety at the end of the encounter.
 
-### PIETY OUTSIDE OF COMBAT
+##### PIETY OUTSIDE OF COMBAT
 
 Though you can't gain piety outside of combat, you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you gain at least 1 Victory or finish a respite.
 
@@ -5543,85 +5543,85 @@ If you use an ability outside of combat that lets you spend unlimited piety on i
 
 use it as if you had spent an amount of piety on it equal to your Victories.
 
-#### DOMAIN PIETY AND EFFECTS
+##### DOMAIN PIETY AND EFFECTS
 
 Your choice of domains provides you with extra ways that you can earn piety during combat. These ways of gaining piety are triggered by events that happen during combat. There is a chance that you could have a single event trigger both of your piety effects. For example, if you are a 1st-level conduit and have the Sun domain, which grants piety whenever a nearby creature takes fire damage, and the War domain, which grants piety whenever a nearby creature takes 11 or more damage, and a nearby creature takes 12 fire damage, you would gain piety from both domains for that one effect.
 
 Additionally, whenever you activate a domain effect by praying for piety, choose one of your domains. That domain's effect takes effect immediately.
 
-#### CREATION DOMAIN PIETY AND EFFECT
+###### CREATION DOMAIN PIETY AND EFFECT
 
 **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares of you uses an ability with the Area keyword.
 
 **Prayer Effect:** You summon the forces of creation and create a wall of stone whose size is 5 + your Intuition score within 10 squares of you. The wall lasts until the end of the encounter.
 
-#### DEATH DOMAIN PIETY AND EFFECT
+###### DEATH DOMAIN PIETY AND EFFECT
 
 **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares of you who isn't a minion dies or a solo creature becomes winded.
 
 **Prayer Effect:** You inflict a deadly curse upon two enemies of your choice within 10 squares of you. Each target takes corruption damage equal to twice your Intuition score.
 
-#### FATE DOMAIN PIETY AND EFFECT
+###### FATE DOMAIN PIETY AND EFFECT
 
 **Piety:** You gain 2 piety the first time in an encounter that an ally within 10 squares of you gets a tier 3 result or an enemy within 10 squares of you gets a tier 1 result.
 
 **Prayer Effect:** You call on the forces of fate to create a reliable future. Choose a creature within your line of effect. That creature automatically gets a tier 1 or tier 3 result (your choice) on their next power roll made before the end of the encounter.
 
-#### KNOWLEDGE DOMAIN PIETY AND EFFECT
+###### KNOWLEDGE DOMAIN PIETY AND EFFECT
 
 **Piety:** You gain 2 piety the first time in an encounter that the Director uses an ability or feature that costs Malice.
 
 **Prayer Effect:** Choose up to three allies, including yourself, within 10 squares of you. Each target gains a surge.
 
-#### LIFE DOMAIN PIETY AND EFFECT
+###### LIFE DOMAIN PIETY AND EFFECT
 
 **Piety:** You gain 2 piety the first time in an encounter that a creature within 10 squares of you regains Stamina.
 
 **Prayer Effect:** Choose yourself or one ally within 10 squares of you. The targets can spend a Recovery, can end any effects on them that are ended by a saving throw or that end at the end of their turn, or can stand up if they are prone. Alternatively, you and one ally within 10 squares of you gain temporary Stamina equal to 5 x your Intuition score.
 
-#### LOVE DOMAIN PIETY AND EFFECT
+###### LOVE DOMAIN PIETY AND EFFECT
 
 **Piety:** You gain 2 piety the first time in an encounter that you or an ally within 10 squares of you uses the Aid Another maneuver or an ability that targets an ally.
 
 **Prayer Effect:** Each ally within 10 squares of you gains temporary Stamina equal to 2 x your Intuition score.
 
-#### NATURE DOMAIN PIETY AND EFFECT
+###### NATURE DOMAIN PIETY AND EFFECT
 
 **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares of you takes acid, cold, fire, lightning, poison, or sonic damage.
 
 **Prayer Effect:** Vines whip up from the floor or ground within 10 squares of you, wrapping around a number of creatures of your choice equal to your Intuition score. You can slide each creature up to a number of squares equal to your Intuition score. The vines then fade away.
 
-#### PROTECTION DOMAIN PIETY AND EFFECT
+###### PROTECTION DOMAIN PIETY AND EFFECT
 
 **Piety:** You gain 2 piety the first time in an encounter that you or an ally within 10 squares of you gains temporary Stamina or uses a triggered action to reduce incoming damage or give an enemy a bane on a power roll.
 
 **Prayer Effect:** One ally within 10 squares of you gains temporary Stamina equal to three times your Intuition score.
 
-#### STORM DOMAIN PIETY AND EFFECT
+###### STORM DOMAIN PIETY AND EFFECT
 
 **Piety:** You gain 2 piety the first time in an encounter that an enemy within 10 squares of you is force moved.
 
 **Prayer Effect:** Each enemy in a 3-cube area within 10 squares of you takes lightning damage equal to twice your Intuition score.
 
-#### SUN DOMAIN PIETY AND EFFECT
+###### SUN DOMAIN PIETY AND EFFECT
 
 **Piety:** You gain 2 piety the first time in an encounter that an enemy within 10 squares of you takes fire or holy damage.
 
 **Prayer Effect:** One enemy of your choice within 10 squares of you takes fire damage equal to three times your Intuition score.
 
-#### TRICKERY DOMAIN PIETY AND EFFECT
+###### TRICKERY DOMAIN PIETY AND EFFECT
 
 **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares of you takes the Aid Another or Hide maneuver.
 
 **Prayer Effect:** Choose a creature within 10 squares of you. You can slide that creature up to a number of squares equal to 5 + your conduit level.
 
-#### WAR DOMAIN PIETY AND EFFECT
+###### WAR DOMAIN PIETY AND EFFECT
 
 **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares of deals damage in an amount equal to or greater than 10 + your level.
 
 **Prayer Effect:** Three allies of your choice within 10 squares of you, including yourself, gain two surges.
 
-## 1ST-LEVEL DOMAIN FEATURE
+#### 1ST-LEVEL DOMAIN FEATURE
 
 Choose one of your domains. You gain a domain feature from that domain as shown on the 1st-Level Conduit Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* Revitalizing Ritual)
 
@@ -5642,17 +5642,17 @@ Choose one of your domains. You gain a domain feature from that domain as shown 
 | Trickery   | Inspired Deception            | Intrigue      |
 | War        | Sanctified Weapon             | Exploration   |
 
-#### BLESSING OF COMPASSION
+##### BLESSING OF COMPASSION
 
 You exude a magic aura that can soothe those willing to socially engage with you. You gain an edge on any test made to assist another creature with a test.
 
 Additionally, when you are present at the start of a negotiation, one NPC of your choice has their patience increased by 1 (to a maximum of 5), and the first test made to influence them gains an edge.
 
-#### BLESSING OF COMPREHENSION
+##### BLESSING OF COMPREHENSION
 
 You can interpret diagrams and charts even if you don't understand the language associated with them. For the purpose of making project rolls for research and crafting items (see Downtime Projects), you are considered fluent in all languages.
 
-#### BLESSING OF FORTUNATE WEATHER
+##### BLESSING OF FORTUNATE WEATHER
 
 When you finish a respite, you can decide the weather conditions within 100 squares of you. If you are in the same area as a creature using this or a similar feature, both features cancel each other where their areas overlap. Until you finish another respite, the weather conditions you establish follow you through any mundane outdoor locations.
 
@@ -5663,11 +5663,11 @@ Choose one of the following types of weather, each of which grants a benefit to 
 - **Overcast:** You and each ally gain an edge on tests that use the Endurance skill.
 - **Precipitation:** When the ground is muddy or snowy, you and each ally gain an edge on tests that use the Track skill.
 
-#### FAITHFUL FRIEND
+##### FAITHFUL FRIEND
 
 You gain the following ability.
 
-#### FAITHFUL FRIEND
+##### FAITHFUL FRIEND
 
 *An animal spirit is drawn to you, sharing their senses and serving you faithfully.*
 
@@ -5679,7 +5679,7 @@ You gain the following ability.
 
 physically interact with the world, but they have a speed of 5 and can fly. While you are within 10 squares of the spirit, you can sense everything an animal of their type would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, it is dismissed and you take 1d10 psychic damage, which can't be reduced in any way.
 
-#### GRAVE SPEECH
+##### GRAVE SPEECH
 
 You gain the following ability.
 
@@ -5695,7 +5695,7 @@ GRAVE SPEECH
 
 **Effect:** You can speak to the target corpse (including just the head) of a creature who has died within the last 24 hours and who can speak a language you know. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of dying can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
 
-#### HANDS OF THE MAKER
+##### HANDS OF THE MAKER
 
 You gain the following ability.
 
@@ -5709,31 +5709,31 @@ HANDS OF THE MAKER
 
 **Effect:** You create a mundane object no larger than size 1S. You can maintain a number of objects created this way equal to your Intuition score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
 
-#### INNER LIGHT
+##### INNER LIGHT
 
 Each time you finish a respite, you can choose yourself or an ally who is also ending a respite to gain the benefit of a divine ritual. As you perform the ritual, you place a ray of morning light into the chosen character's soul, granting them a +1 bonus on saving throws. This benefit lasts until you finish another respite.
 
-#### INSPIRED DECEPTION
+##### INSPIRED DECEPTION
 
 The gods favor your thievery with magic. Whenever you make a test that uses a skill you have from the intrigue skill group, you can use Intuition on the test instead of another characteristic.
 
-#### ORACULAR VISIONS
+##### ORACULAR VISIONS
 
 Your deity rewards you with hazy visions of things to come. Each time you earn 1 or more Victories, you earn an equal number of fate points. When you or a creature within 10 squares of you makes a test, you can spend 1 fate point to tap into a vision of the outcome, granting that creature an edge on the test. You lose any remaining fate points when you finish a respite.
 
-#### PROTECTIVE CIRCLE
+##### PROTECTIVE CIRCLE
 
 You can spend 10 minutes working while uninterrupted to create a protective circle on the ground large enough to hold a size 1 creature. The circle lasts for 24 hours or until you dismiss it (no action required). Only creatures you designate at the time of drawing the circle can enter and exit the area. While in the protective area, a creature can't be targeted by strikes.
 
-#### REVITALIZING RITUAL
+##### REVITALIZING RITUAL
 
 Each time you finish a respite, you can choose yourself or an ally who is also ending a respite to gain the benefit of a divine ritual. When you perform the ritual, the chosen character gains a bonus to their recovery value equal to your level, which lasts until you finish another respite.
 
-### SANCTIFIED WEAPON
+##### SANCTIFIED WEAPON
 
 As a respite activity, you can bless a weapon. Any creature who wields the weapon gains a +1 rolled damage bonus with abilities that use the weapon. This benefit lasts until you finish another respite.
 
-## HEALING GRACE
+#### HEALING GRACE
 
 You gain the following ability, which you can use once on your turn.
 
@@ -5754,7 +5754,7 @@ HEALING GRACE
 - A prone target can stand up.
 - A target can spend 1 additional Recovery.
 
-## RAY OF WRATH
+#### RAY OF WRATH
 
 You gain the following ability, which can be used as a ranged free strike.
 
@@ -5770,7 +5770,7 @@ You gain the following ability, which can be used as a ranged free strike.
 
 **Effect:** You can have this ability deal holy damage.
 
-## TRIGGERED ACTION
+#### TRIGGERED ACTION
 
 Choose one of the following triggered actions. (*Quick Build:*  Word of Guidance)
 
@@ -5796,19 +5796,19 @@ WORD OF JUDGMENT
 
 **Spend 1 Piety:** The power roll gains a double bane against the target.
 
-## PRAYER
+#### PRAYER
 
 Your god answers a prayer that enhances your statistics. Choose one of the following prayers. You can change your prayer along with your ward (see Conduit Ward) by praying to your god as a respite activity. (*Quick Build:*  Prayer of Distance)
 
-#### PRAYER OF DESTRUCTION
+##### PRAYER OF DESTRUCTION
 
 Your god infuses wrath within your being. You gain a +1 rolled damage bonus with magic abilities.
 
-#### PRAYER OF DISTANCE
+##### PRAYER OF DISTANCE
 
 Your god blesses you with the ability to stretch your divine magic further. You gain a +2 bonus to the distance of your ranged magic abilities.
 
-#### PRAYER OF SPEED
+##### PRAYER OF SPEED
 
 Your god blesses your flesh and infuses it with divine quickness. You gain a +1 bonus to speed and to the distance you shift when you take the Disengage move action.
 
@@ -5816,37 +5816,37 @@ Your god blesses your flesh and infuses it with divine quickness. You gain a +1 
 
 Your god gives your mind the training of a soldier. You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including free strikes. You can use light armor treasures and light weapon treasures. If you have a kit, you can't take this blessing.
 
-### PRAYER OF STEEL
+##### PRAYER OF STEEL
 
 Your god fills your body with the light of creation, making you harder to hurt and move. You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
 
-## CONDUIT WARD
+#### CONDUIT WARD
 
 Your god gives you a ward that protects you. Choose one of the following wards. You can change your ward along with
 
 your prayer (see Prayer) by praying to your god as a respite activity. (*Quick Build:* Bastion Ward)
 
-#### BASTION WARD
+##### BASTION WARD
 
 You god grants you a holy countenance that protects you at all times. You gain a +1 bonus to saving throws.
 
-#### QUICKNESS WARD
+##### QUICKNESS WARD
 
 The gods imbue a divine swiftness within you. Whenever an adjacent creature deals damage to you, you can shift up to a number of squares equal to your Intuition score after the damage is dealt.
 
-#### SANCTUARY WARD
+##### SANCTUARY WARD
 
 In response to a foe's aggression, the gods protect you. After another creature damages you, that creature can't target you with a strike until you harm them or one of their allies, or until the end of their next turn.
 
-### SPIRIT WARD
+##### SPIRIT WARD
 
 Invisible spirits surround you if you are harmed. Whenever an adjacent creature deals damage to you, they take corruption damage equal to your Intuition score.
 
-## CONDUIT ABILITIES
+#### CONDUIT ABILITIES
 
 Your training and faith let you specialize in magic that buffs your allies, debuffs your foes, and lets you hold your own in combat even while aiding your friends.
 
-#### SIGNATURE ABILITIES
+##### SIGNATURE ABILITIES
 
 Select two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Blessed Light, Staggering Curse)
 
@@ -5954,11 +5954,11 @@ o *12-16:* 5 + I **corruption damage;** P \< average\*\*, the target takes a ban
 
 o *17+:* 8 + I **corruption damage;** P \< strong\*\*, the target takes a bane on their next power roll\*\*
 
-#### HEROIC ABILITIES
+##### HEROIC ABILITIES
 
 You make use of a number of heroic abilities, all of which channel piety to empower them.
 
-#### 3-PIETY ABILITY
+###### 3-PIETY ABILITY
 
 Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* Violence Will Not Aid Thee)
 
@@ -6010,7 +6010,7 @@ VIOLENCE WILL NOT AID THEE (3 PIETY) *After some holy lightning, your enemy will
 - *17+:* **9 + I lightning damage**
     **Effect:** The first time on a turn that the target deals damage to another creature, the target of this ability takes another 1d10 lightning damage (save ends).
 
-#### 5-PIETY ABILITY
+###### 5-PIETY ABILITY
 
 Choose one heroic ability from the following options, each of which costs 5 piety to use. (*Quick Build:* Curse of Terror)
 
@@ -6058,23 +6058,23 @@ Choose one heroic ability from the following options, each of which costs 5 piet
 
 **Effect:** Each target can spend a Recovery. When you use this ability, each target can use a free triggered action to end one effect that is ended by a saving throw or that ends at the end of their turn, or to stand up if prone.
 
-## 2ND-LEVEL FEATURES
+### 2ND-LEVEL FEATURES
 
 As a 2nd-level conduit, you gain the following features.
 
-## THE LISTS OF HEAVEN
+#### THE LISTS OF HEAVEN
 
 Your patron is aware of your growing influence, making it easier to get their attention and power when you heal your allies. Whenever you allow another creature to spend a Recovery, you can also spend a Recovery.
 
-## PERK
+#### PERK
 
 You gain a crafting, lore, or supernatural perk of your choice. See Perks for more information.
 
-## 2ND-LEVEL DOMAIN FEATURE
+#### 2ND-LEVEL DOMAIN FEATURE
 
 You gain the 1st-level domain feature and chosen skill for the domain you selected at 1st level but whose domain feature you didn't take (see 1st-Level Domain Feature).
 
-## 2ND-LEVEL DOMAIN ABILITY
+#### 2ND-LEVEL DOMAIN ABILITY
 
 Choose one of your domains. You gain an ability from that domain as shown on the 2nd-Level Conduit Domain Abilities table.
 
@@ -6221,11 +6221,11 @@ WELLSPRING OF GRACE (5 PIETY)
 
 **Effect:** Until the end of the encounter or you are dying, whenever a target starts their turn in the aura, they can spend a Recovery.
 
-## 3RD-LEVEL FEATURES
+### 3RD-LEVEL FEATURES
 
 As a 3rd-level conduit, you gain the following features.
 
-### MINOR MIRACLE
+#### MINOR MIRACLE
 
 As a respite activity, you perform a religious ritual and beseech the gods to restore a dead creature to life. You must have at least half the creature's remains, and they must have died within the last 24 hours from an effect that isn't age related. The creature's soul must be willing to
 
@@ -6233,7 +6233,7 @@ return to life for the ritual to work. If they are not willing, you instinctivel
 
 A creature with a willing soul returns to life at the end of the respite with full Stamina and half their Recoveries. You regain only half your Recoveries at the end of the respite.
 
-## 7-PIETY ABILITY
+#### 7-PIETY ABILITY
 
 Choose one heroic ability from the following options, each of which costs 7 piety to use.
 
@@ -6289,7 +6289,7 @@ WORDS OF WRATH AND GRACE (7 PIETY)
 
 **Effect:** Each ally in the area can spend a Recovery.
 
-## 4TH-LEVEL FEATURES
+### 4TH-LEVEL FEATURES
 
 As a 4th-level conduit, you gain the following features.
 
@@ -6316,11 +6316,11 @@ You gain a domain feature from one of your domains, as
 | Trickery   | Blessing of Secrets         |
 | War        | Improved Sanctified Weapon  |
 
-#### BLESSING OF LIFE
+##### BLESSING OF LIFE
 
 Your divine presence causes those you deem worthy to recover quickly from a fight. When an ally within distance of your Healing Grace ability regain Stamina by spending a recovery, they regain extra Stamina equal to your Intuition score.
 
-#### BLESSING OF SECRETS
+##### BLESSING OF SECRETS
 
 You gain the following ability.
 
@@ -6334,13 +6334,13 @@ BLESSING OF SECRETS
 
 **Effect:** Each creature in the aura has a double edge on tests made to hide and sneak. The aura lasts until you end it (no action required), or a creature affected by it harms or deals damage to an object or another creature.
 
-### IMPERVIOUS TOUCH
+##### IMPERVIOUS TOUCH
 
 As a maneuver, you can touch an object with a size equal to your Intuition score or smaller and place a protective spell on it. The object gains immunity to weapon damage. You can remove the spell on an object as no action, no matter your distance from it. You can only have this spell active on a number of objects equal to your Intuition score.
 
 In addition to the number of objects equal to your Intuition score, you can place this spell on a building or vehicle (or similar structure with your Director's approval) that is of a size larger than your Intuition score. You can only place it on one building at a time.
 
-## BLESSED DOMAIN
+#### BLESSED DOMAIN
 
 more than your normally would.
 
@@ -6348,27 +6348,27 @@ more than your normally would.
 
 Your Intuition score becomes 3. Additionally, you can maximum score of 3.
 
-### 4TH-LEVEL DOMAIN FEATURE
+#### 4TH-LEVEL DOMAIN FEATURE
 
 shown on the 4th-Level Conduit Domain Features table.
 
-### IMPROVED HANDS OF THE MAKER
+##### IMPROVED HANDS OF THE MAKER
 
 When you use Hands of the Maker, you can create an object that is size 2 or smaller.
 
-#### IMPROVED SANCTIFIED WEAPON
+##### IMPROVED SANCTIFIED WEAPON
 
 The weapon improved by your Sanctified Weapon provides a bonus of +3 instead of +1.
 
-### INVOCATION OF THE HEART
+##### INVOCATION OF THE HEART
 
 You can forge a bond of love and friendship with a willing creature you touch as an action. While this bond is active, you can telepathically speak with the creature over any distance, including interplanar. Additionally, while this bond is active, you can attempt to assist the creature with any test they make, regardless of their proximity to you. You can end this bond at any time (no action required). You can only have one of these bonds active at a time.
 
-### LIGHT OF REVELATION
+##### LIGHT OF REVELATION
 
 As a maneuver, you can make your body shine brightly, illuminating your space and any space within 5 squares of you. This light shines through any darkness. Hidden creatures in the area automatically revealed, and creatures in the light, including you, can't hide. You have an edge on tests made to notice hidden objects and entrances and to detect supernatural illusions while the aura is active.
 
-#### ORACULAR WARNING
+##### ORACULAR WARNING
 
 When you finish a respite, you can share the details of the vague dreams of the future granted to you by the gods that you had while resting with any other creatures finishing the respite with you. These details help you and your allies stay alive, granting you 10 + your level Temporary Stamina that lasts until the end of your next respite if it doesn't disappear through damage first.
 
@@ -6376,37 +6376,37 @@ When you finish a respite, you can share the details of the vague dreams of the 
 
 At the start of a respite, you can inspire yourself or another creature also taking the respite with you with divine knowledge whispered by the gods. If the target makes a project roll during this respite, they can add 1d10 plus your Intuition to the result of the project roll.
 
-### SEANCE
+##### SEANCE
 
 You can commune with a network of spirits. As a respite activity, you can speak the name of a creature who died who isn't undead. If the creature's spirit is free and willing to speak with you, they appear and you can have a conversation with them. During this time, the creature responds to you as they would have in life. If the creature isn't free or willing to appear, you can use your respite activity to do something else or call out to another name.
 
-### WODE ROAD
+##### WODE ROAD
 
 As an action you touch a living tree and make it part of a divine transportation network. Whenever you touch another living tree, you can use an action to teleport yourself and any willing creatures within 10 squares of you to a tree that is part of your network on the same world as the tree you touch. You can have a number of trees in your network equal to your Intuition score. If a tree in your network dies, it is no longer part of the network. You can
 
 remove a tree from your network no matter your distance from it, including interplanar (no action required).
 
-#### WINDWALK
+##### WINDWALK
 
 While you have at least 5 Victories, your speed gains the Flying keyword. If you can already fly, then your speed increases by 2 while flying instead.
 
-### PERK
+#### PERK
 
 You gain any one perk of your choice. See Perks for more information.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## 5TH-LEVEL FEATURES
+### 5TH-LEVEL FEATURES
 
 As a 5th-level conduit, you gain the following features.
 
-## 5TH-LEVEL DOMAIN FEATURE
+#### 5TH-LEVEL DOMAIN FEATURE
 
 You gain the 4th-level domain feature of the domain you didn't select (see 4th-Level Domain Features).
 
-## 9-PIETY ABILITIES
+#### 9-PIETY ABILITIES
 
 Choose one heroic ability from the following options.
 
@@ -6452,11 +6452,11 @@ Choose one heroic ability from the following options.
 
 **Effect:** The first time the target becomes winded or dying before the end of the encounter, each enemy within 5 squares of them takes 15 holy damage.
 
-## 6TH-LEVEL FEATURES
+### 6TH-LEVEL FEATURES
 
 As a 6th-level conduit, you gain the following features.
 
-## BURGEONING SAINT
+#### BURGEONING SAINT
 
 You are infused with power your deity reserves for their most worthy instruments. You gain the following benefits:
 
@@ -6465,11 +6465,11 @@ You are infused with power your deity reserves for their most worthy instruments
 - You have corruption or holy immunity 10.
 - Your clothing and equipment changes in such a way that reflects your status as the deity's chosen champion, such as normal robes turning into gold vestments or a simple dagger becoming a wicked blade with intricate etching.
 
-## PERK
+#### PERK
 
 You gain a crafting, lore, or supernatural perk of your choice. See Perks for more information.
 
-### 6TH-LEVEL DOMAIN ABILITIES
+#### 6TH-LEVEL DOMAIN ABILITIES
 
 Choose one of your domains. You gain an ability from it as shown on the 6th-Level Conduit Domain Abilities table.
 
@@ -6631,15 +6631,15 @@ REVITALIZING GRACE (9 PIETY)
 
 **Effect:** If this damage kills the target, you and each ally within distance can spend a Recovery.
 
-## 7TH-LEVEL FEATURES
+### 7TH-LEVEL FEATURES
 
 As a 7th-level conduit, you gain the following features.
 
-### CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 All of your characteristics increase by 1, to a maximum score of 4.
 
-## 7TH-LEVEL DOMAIN FEATURE
+#### 7TH-LEVEL DOMAIN FEATURE
 
 You gain a domain feature from one of your domains, as shown on the 7th-Level Conduit Domain Features table.
 
@@ -6662,11 +6662,11 @@ You gain a domain feature from one of your domains, as shown on the 7th-Level Co
 | War      | Your Triumphs are    |
 |          | Remembered           |
 
-#### BLESSING OF IRON
+##### BLESSING OF IRON
 
 The gods send divine favor to intercede on behalf of you and your allies. While you are not dying, enemies have a bane on strikes made against you and each ally within 3 squares of you.
 
-#### COVENANT OF THE HEART
+##### COVENANT OF THE HEART
 
 You can maintain up to three bonds with your Invocation of the Heart feature. Additionally, you gain the following ability.
 
@@ -6678,11 +6678,11 @@ You can maintain up to three bonds with your Invocation of the Heart feature. Ad
 
 **Effect:** Each target is teleported to an unoccupied space within 5 squares of a willing creature with whom you are bonded via your Invocation of the Heart feature. You don't need line of effect to the bonded creature.
 
-#### DIVINE QUARTERMASTER
+##### DIVINE QUARTERMASTER
 
 When you finish a respite, you can choose a treasure with a project goal up to 50 times your level. You gain a divine version of this treasure that lasts until the end of your next respite, or earlier if it is a consumable and you consume.
 
-#### FONT OF GRACE
+##### FONT OF GRACE
 
 When you use Healing Grace, you gain 1 free piety to spend on the ability that turn. If you don't use this piety on this ability, it disappears. Additionally, you can use your Minor Miracle feature to return a creature to life even if you don't have their remains.
 
@@ -6690,7 +6690,7 @@ When you use Healing Grace, you gain 1 free piety to spend on the ability that t
 
 You can gain access to information you need through prayer and no longer require research materials for crafting and research projects. You can add your level to project rolls you make for crafting and research projects. Additionally, you gain all the skills in the lore skill group you don't already have, and can gain a number of skills equal to the number you already had in the lore skill group before gaining this feature.
 
-#### LIGHT OF THE BURNING SUN
+##### LIGHT OF THE BURNING SUN
 
 Sun is infused in your body. When you deal damage to another creature with an ability, that ability deals 5 fire damage or 15 fire damage to undead creatures. In addition, you have fire immunity equal to your level. This fire immunity stacks with any other fire immunity you have.
 
@@ -6704,11 +6704,11 @@ Whenever you finish a respite, you prepare a magic meal of local flora for any c
 - Each creature gains a +1 bonus to saving throws.
 - Each creature has an edge on tests made to influence other creatures.
 
-#### THUNDERSTRUCK
+##### THUNDERSTRUCK
 
 Lightning and thunder are infused in your body. When you deal damage to another creature with an ability, that ability deals additional 5 lightning damage. If you use an ability that force moves a creature, you can force move them an extra number of squares equal to your Intuition score.
 
-#### TRINITY OF TRICKERY
+##### TRINITY OF TRICKERY
 
 You gain the following ability.
 
@@ -6720,17 +6720,17 @@ TRINITY OF TRICKERY (9 PIETY)
 
 **Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move the duplicates up to their speed. When one of the duplicates takes damage, the duplicate is destroyed. If the target is targeted with an ability, they can use a free triggered action to switch place with a duplicate in line of effect. The ability targets the duplicate instead.
 
-#### WORD OF DEATH DEFERRED
+##### WORD OF DEATH DEFERRED
 
 You can stop death from taking your allies. When an ally within your Healing Grace distance dies and you are not dying, you can use a free triggered action to instead have them fall unconscious until they regain Stamina.
 
 Additionally, your abilities deal an additional 5 damage to winded creatures.
 
-#### WORD OF FATE DENIED
+##### WORD OF FATE DENIED
 
 When an ally within 10 squares of you takes damage that would make them start dying, you can transfer the harm to yourself or another willing creature within 10 squares of you as a free triggered action. The creature you choose takes the damage instead and suffers any effect associated with it, and that damage can't be reduced in any way.
 
-#### YOUR TRIUMPHS ARE REMEMBERED
+##### YOUR TRIUMPHS ARE REMEMBERED
 
 The gods allow you and your companions to bask in the glory of past successes. When you end a respite, you and any other heroes ending the respite with you have 1 Victory instead of 0. This Victory can't be converted into XP.
 
@@ -6738,23 +6738,23 @@ The gods allow you and your companions to bask in the glory of past successes. W
 
 When you roll for piety at the start of your turn, you gain 1d3 + 1 piety.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## 8TH-LEVEL FEATURES
+### 8TH-LEVEL FEATURES
 
 As an 8th-level conduit, you gain the following features.
 
-## 8TH-LEVEL DOMAIN FEATURE
+#### 8TH-LEVEL DOMAIN FEATURE
 
 You gain the 7th-level domain feature of the domain you didn't select (see 7th-Level Domain Features).
 
-### PERK
+#### PERK
 
 You gain any perk of your choice. See Perks for more information.
 
-## 11-PIETY ABILITIES
+#### 11-PIETY ABILITIES
 
 Choose one heroic ability from the following options.
 
@@ -6803,7 +6803,7 @@ DRAG THE UNWORTHY (11 PIETY)
 
 **Effect:** Each ally the creature comes adjacent to during the move can spend a Recovery.
 
-## 9TH-LEVEL FEATURES
+### 9TH-LEVEL FEATURES
 
 As a 9th-level conduit, you gain the following features.
 
@@ -6811,13 +6811,13 @@ As a 9th-level conduit, you gain the following features.
 
 When you finish a respite, you can choose a willing hero ally who took the respite with you. That hero gains the benefits of your Burgeoning Saint ability until you finish another respite. You can spend piety as a free maneuver on your turn to give the hero 1 of their heroic resource for every 2 piety spent.
 
-## ORDAINED
+#### ORDAINED
 
 Your god elevates the power flowing through you. Your characteristic scores are considered 1 higher for the purposes of resisting potencies.
 
 While you have at least 5 Victories, you speak with the voice of your deity and make Presence tests to influence others with a double edge.
 
-## 9TH-LEVEL DOMAIN ABILITIES
+#### 9TH-LEVEL DOMAIN ABILITIES
 
 Choose one of your domains. You gain an ability from it as shown on the 9h-Level Conduit Domain Abilities table.
 
@@ -6980,11 +6980,11 @@ RADIANCE OF GRACE (11 PIETY)
 
 **Effect:** While weakened this way, the targe has damage weakness 10.
 
-## 10TH-LEVEL FEATURES
+### 10TH-LEVEL FEATURES
 
 As a 10th-level conduit, you gain the following features.
 
-### AVATAR
+#### AVATAR
 
 You are now an avatar of your god! When you take a respite, you can open a portal to rest in the presence of your deity and bring along any allies. When you do, you can ask your deity 3 questions, which the Director must answer honestly (though they may answer cryptically and not completely) if your deity knows the answer to the questions. Additionally, you can emerge from your respite in any location in the timescape where someone worships your deity.
 
@@ -6992,11 +6992,11 @@ Additionally, you can be affected by up to three prayers at once. You can change
 
 You can also use a maneuver to activate one of your domain effects without needing to pray.
 
-### CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 Your Intuition score becomes 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum score of 5.
 
-### DIVINE POWER
+#### DIVINE POWER
 
 You gain an epic resource called divine power. When you take a respite, you gain divine power equal to the XP you gain. You can spend divine power as if it were piety on abilities you have.
 
@@ -7006,15 +7006,15 @@ can answer your prayers with temporary and unique gifts. If you use a conduit ab
 
 Divine power remains until you spend it.
 
-## MOST PIOUS
+#### MOST PIOUS
 
 When you roll for piety at the start of your turn and pray, you gain 1 additional piety.
 
-## PERK
+#### PERK
 
 You gain a crafting, lore, or supernatural perk of your choice. See Perks for more information.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
@@ -7024,7 +7024,7 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 As an elementalist, you can unleash your wrath across a field of foes, put an enemy exactly where you want them, debilitate foes with harmful effects, ward yourself and allies against danger, manipulate terrain, warp space, and more. Your choice of elemental specialization determines which of these things you do best.
 
-## BASICS
+### BASICS
 
 **Starting Characteristics:** You start with a Reason of 2, and can choose one of the following arrays for your other characteristics scores:
 
@@ -7082,11 +7082,11 @@ As an elementalist, you can unleash your wrath across a field of foes, put an en
 |      | Essential Being, One, Perk, Skill     | 3, 5, 5, 7, 9, 9, 11,                   |
 |      | Increase                              | 11                                      |
 
-## 1ST-LEVEL FEATURES
+### 1ST-LEVEL FEATURES
 
 As an elementalist, you gain the following features.
 
-## ELEMENTAL SPECIALIZATION
+#### ELEMENTAL SPECIALIZATION
 
 Through your studies, you know and can manipulate the seven primal elements of the timescape.
 
@@ -7102,33 +7102,33 @@ Through your studies, you know and can manipulate the seven primal elements of t
 - illusions, and make things incorporeal. **Water** is the element of change. Water abilities enhance what your allies can do, and alter the abilities of your enemies for the worse.
     Choose one of the following elements to be your specialty: earth, fire, green, or void. (*Quick Build:* fire) Your choice of specialization determines many of the features you'll gain from this class, including one of the benefits below. (Other elemental specializations will be featured in future products.)
 
-#### EARTH: ACOLYTE OF EARTH
+##### EARTH: ACOLYTE OF EARTH
 
 You gain this feature if earth is your specialization, letting you harness the flow of earth magic to become harder to move. Whenever you use an earth magic ability, your stability increases by 1 until the start of your next turn. This benefit is cumulative.
 
-#### FIRE: ACOLYTE OF FIRE
+##### FIRE: ACOLYTE OF FIRE
 
 You gain this feature if fire is your specialization, becoming an expert at wielding destructive flames. Your abilities that have the Fire and Magic keywords gain a +1 rolled damage bonus.
 
-#### GREEN: ACOLYTE OF THE GREEN
+##### GREEN: ACOLYTE OF THE GREEN
 
 You gain this feature if green is your specialization, harnessing the residual magic from your green spells to bolster yourself and your allies. Whenever you deal damage to one or more creatures with a green magic ability that costs essence to use (see below), you or one creature of your choice within 10 squares of you gains temporary Stamina equal to your Reason score.
 
-#### VOID: ACOLYTE OF THE MYSTERY
+##### VOID: ACOLYTE OF THE MYSTERY
 
 You gain this feature if void is your specialization, using your immersion in the mystery of void magic to hold onto that magic longer than other mages. The distance of all your ranged void magic abilities increases by 2.
 
-## ESSENCE
+#### ESSENCE
 
 You channel the substance of creation in the form of a Heroic Resource called essence, gathering and burning it to cast and maintain spells.
 
-#### ESSENCE IN COMBAT
+##### ESSENCE IN COMBAT
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain essence equal to your Victories. At the start of each of your turns during combat, you gain 2 essence. You also gain 1 essence the first time in a round that you or a creature within 10 of you takes damage that isn't untyped or holy.
 
 You lose any remaining essence at the end of the encounter.
 
-### ESSENCE OUTSIDE OF COMBAT
+##### ESSENCE OUTSIDE OF COMBAT
 
 Though you can't gain essence outside of combat, you can use your heroic abilities and effects that cost essence without spending it. Whenever you use an ability or effect outside of combat that costs essence, you can't use that same ability or effect outside of combat again until you gain at least 1 Victory or finish a respite.
 
@@ -7136,7 +7136,7 @@ If you use a persistent ability outside of combat (see Persistent Magic), you ca
 
 If you use an ability outside of combat that lets you spend unlimited essence on its effect, you can use it as if you had spent an amount of essence on it equal to your Victories. (Such abilities aren't part of the core rules for the elementalist but might appear in future products.)
 
-## HURL ELEMENT
+#### HURL ELEMENT
 
 You gain the following ability, which can be used as a ranged free strike.
 
@@ -7154,7 +7154,7 @@ You gain the following ability, which can be used as a ranged free strike.
 
 **Effect:** When you make this strike, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.
 
-## PERSISTENT MAGIC
+#### PERSISTENT MAGIC
 
 Some of your heroic abilities have a persistent effect entry. For example, the Instantaneous Excavation ability has an effect noted as "Persistent 1." Whenever you use a persistent ability, you decide whether you want to maintain
 
@@ -7166,7 +7166,7 @@ If you maintain the same ability on several targets and the effect includes a po
 
 If you take damage equal to or greater than 5 x your Reason score in one turn, you stop maintaining any persistent abilities. For instance, if you have a Reason score of 2 and are maintaining Instantaneous Excavation, taking 10 or more damage in one turn causes you to stop maintaining the ability.
 
-## PRACTICAL MAGIC
+#### PRACTICAL MAGIC
 
 You have the following ability:
 
@@ -7183,7 +7183,7 @@ You have the following ability:
 - You choose a creature within the distance of your Hurl Element ability and deal damage equal to your Reason score to them. The damage type can be acid, cold, corruption, fire, lightning, poison, or sonic.
 - You teleport up to a number of squares equal to your Reason score.
 
-## 1ST-LEVEL SPECIALIZATION FEATURE
+#### 1ST-LEVEL SPECIALIZATION FEATURE
 
 Your elemental specialization grants you a feature as shown on the 1st-Level Elemental Specialization Features table.
 
@@ -7196,7 +7196,7 @@ Your elemental specialization grants you a feature as shown on the 1st-Level Ele
 | Green          | It Is the Soul Which Hears |
 | Void           | A Beyonding of Vision      |
 
-#### A BEYONDING OF VISION
+##### A BEYONDING OF VISION
 
 You instantly recognize illusions for what they are, you can see invisible creatures, and supernatural effects can't conceal creatures and objects from you. You always know if an area or object you observe is magical or affected by magic, and you know the specifics of what that magic can do.
 
@@ -7212,13 +7212,13 @@ SHARED VOID SENSE
 
 **Effect:** For each Victory you have, you can target one creature. That creature gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of Shared Void Sense.
 
-#### IT IS THE SOUL WHICH HEARS
+##### IT IS THE SOUL WHICH HEARS
 
 You can speak with and understand Animals, Monstrosities, and Plant Creatures, even if they don't share a language with you. Your ability to communicate with such creatures doesn't make them inherently more intelligent, but you can use Reason in place of Presence while making tests to influence them.
 
 Additionally, whenever you touch a living plant that is not a Plant Creature, you can communicate with it telepathically. You can use words to communicate with the plant, but it communicates with you only by transmitting feelings and sensations that can't be overly specific.
 
-#### MOTIVATE EARTH
+##### MOTIVATE EARTH
 
 You gain the following ability.
 
@@ -7235,7 +7235,7 @@ Alternatively, you touch a structure made of mundane dirt, stone, or metal that 
 
 You can instead touch a doorway or other opening in a mundane dirt, stone, or metal surface that is no larger than 1 square. The opening is sealed by the same material that makes up the surface.
 
-#### RETURN TO FORMLESSNESS
+##### RETURN TO FORMLESSNESS
 
 You gain the following ability.
 
@@ -7247,7 +7247,7 @@ RETURN TO FORMLESSNESS
 
 **Effect:** You heat the target and cause it to combust and melt, destroying it. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.
 
-## SPECIALIZATION TRIGGERED ACTION
+#### SPECIALIZATION TRIGGERED ACTION
 
 Your elemental specialization grants you a triggered action as shown on the Specialization Triggered Actions table.
 
@@ -7300,39 +7300,39 @@ A SUBTLE RELOCATION
 
 **Spend 1 Essence:** You teleport the target up to a number of squares equal to twice your Reason score instead.
 
-### ENCHANTMENT
+#### ENCHANTMENT
 
 You weave an elemental enchantment into your body that enhances your statistics. You can change your enchantment along with your ward (see Elementalist Ward) by performing a complex ritual as a respite activity. (*Quick Build:* Enchantment of Destruction)
 
-### ENCHANTMENT OF BATTLE
+##### ENCHANTMENT OF BATTLE
 
 You tap into the elemental mysteries to gain the mind and training of a warrior. You can wear light armor and wield
 
-#### ENCHANTMENT OF CELERITY
+##### ENCHANTMENT OF CELERITY
 
 You infuse your body with the speed of elemental air. You gain a +1 bonus to speed and to the distance you shift when you take the Disengage move action.
 
-#### ENCHANTMENT OF DESTRUCTION
+##### ENCHANTMENT OF DESTRUCTION
 
 You harness the destructive power of flame inside your mind, allowing you to focus your magic on destroying your enemies. You gain a +1 rolled damage bonus with magic abilities.
 
-#### ENCHANTMENT OF DISTANCE
+##### ENCHANTMENT OF DISTANCE
 
 You reach into the mysteries of the void and mix that element with all of your abilities. You gain a +2 bonus to the distance of your ranged magic abilities.
 
-#### ENCHANTMENT OF PERMANENCE
+##### ENCHANTMENT OF PERMANENCE
 
 You place the magic of earth into your flesh and bones, making your body tougher and harder to move. You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
 
-## ELEMENTALIST WARD
+#### ELEMENTALIST WARD
 
 You create an invisible elemental ward that protects you. Choose one of the following wards. You can change your ward along with your enchantment (see Enchantment) by performing a complex ritual spell as a respite activity. (*Quick Build:* Ward of Surprising Reactivity)
 
-#### WARD OF DELIGHTFUL CONSEQUENCES
+##### WARD OF DELIGHTFUL CONSEQUENCES
 
 A protective field of void magic absorbs violence aimed at you, then lets you hurl it back at your enemies. The first time each round that you take damage, you gain a surge.
 
-#### WARD OF EXCELLENT PROTECTION
+##### WARD OF EXCELLENT PROTECTION
 
 The protective shield you weave around yourself is made of all the elements to channel their full protective power. You have immunity to acid, cold, corruption, fire, and lightning damage equal to your Reason score.
 
@@ -7340,17 +7340,17 @@ The protective shield you weave around yourself is made of all the elements to c
 
 You store green energy within your body that allows you to produce powerful vines when you're in danger. Whenever a creature within a number of squares equal to your Reason score deals damage to you, you can use a free triggered action to slide that creature up to a number of squares equal to your Reason score.
 
-#### WARD OF SURPRISING REACTIVITY
+##### WARD OF SURPRISING REACTIVITY
 
 You use the magic of fire to create an invisible ward of explosive fire energy. Whenever an adjacent creature deals damage to you, you can use a free triggered action to push
 
 that creature a number of squares equal to twice your Reason score.
 
-## ELEMENTALIST ABILITIES
+#### ELEMENTALIST ABILITIES
 
 Your mastery of elemental magic grants you unique magical abilities, letting you damage, move, and debuff your enemies, empower your allies, and alter the terrain around you. You can select abilities from any elemental specialization, or can focus on abilities tied to your chosen specialization to establish your mastery of elemental power.
 
-#### SIGNATURE ABILITIES
+##### SIGNATURE ABILITIES
 
 Select two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Bifurcated Conflagration, Viscous Fire)
 
@@ -7460,11 +7460,11 @@ Select two signature abilities from the following options. Signature abilities c
 - *12-16:* 5 + R **fire damage; push 3**
 - *17+:* 7 + R **fire damage; push 4**
 
-#### HEROIC ABILITIES
+##### HEROIC ABILITIES
 
 You channel a range of heroic abilities, all of them fueled by your essence.
 
-#### 3-ESSENCE ABILITY
+###### 3-ESSENCE ABILITY
 
 Choose one heroic ability from the following options, each of which costs 3 essence to use. (*Quick Build:* The Flesh, a Crucible)
 
@@ -7526,7 +7526,7 @@ THE FLESH, A CRUCIBLE (3 ESSENCE)
 
 **Effect:** You must be touching the ground to use this ability. Choose a square of ground in the area that is unoccupied or occupied by your or an ally. A pillar of earth that is 1 square wide and long and is up to as many squares tall as your Reason score rises out of the ground. The pillar can't collide with any creatures or objects nor can it force any creatures being raised by it to collide with other creatures or objects.
 
-#### 5-ESSENCE ABILITY
+###### 5-ESSENCE ABILITY
 
 Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* Conflagration)
 
@@ -7588,15 +7588,15 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 **Effect:** You and each ally within the area can end one effect that is ended by a saving throw or that ends at the end of that creature's turn.
 
-## 2ND-LEVEL FEATURES
+### 2ND-LEVEL FEATURES
 
 As a 2nd-level elementalist, you gain the following features.
 
-### PERK
+#### PERK
 
 You gain a crafting, lore, or supernatural perk of your choice. See Perks for more information.
 
-### 2ND-LEVEL SPECIALIZATION FEATURE
+#### 2ND-LEVEL SPECIALIZATION FEATURE
 
 Your elemental specialization grants you a feature as shown on the 2nd-Level Specialization Features table.
 
@@ -7609,7 +7609,7 @@ Your elemental specialization grants you a feature as shown on the 2nd-Level Spe
 | Green          | Disciple of the Green     |
 | Void           | There is No Space Between |
 
-#### DISCIPLE OF THE GREEN
+##### DISCIPLE OF THE GREEN
 
 You can use a maneuver to shapeshift into a type of creature on the Green Animal Forms table. While in animal form, you can speak, and you use your Reason score to make melee free strikes. Your statistics stay the same except as noted on the table.
 
@@ -7619,17 +7619,17 @@ You choose a specific animal and appearance while in animal form. For example, i
 
 You can revert back to your true form as a maneuver. You can't enter an animal form unless you are in your true form. If you are dying, you revert to your true form and can't turn back into an animal until you are no longer dying.
 
-#### DISCIPLE OF FIRE
+##### DISCIPLE OF FIRE
 
 Your connection to fire allows you to protect yourself from it, even as you rip away the protections of others. You have fire immunity equal to 5 plus your level in this class. Any fire damage you deal ignores a target's fire immunity.
 
 At the start of a combat encounter, you gain surges equal to your Victories. Whenever you deal damage with a surge, you can make that damage fire damage.
 
-#### DISCIPLE OF EARTH
+##### DISCIPLE OF EARTH
 
 Your body is strengthened by your mind's connection to the element of permanence. You have a +6 bonus to Stamina, plus you gain an additional +3 bonus to Stamina whenever you gain a level beyond 2nd in this class.
 
-#### THERE IS NO SPACE BETWEEN
+##### THERE IS NO SPACE BETWEEN
 
 You gain the following ability.
 
@@ -7710,7 +7710,7 @@ At the start of each of your turns while the portals are active, you can open a 
 | King terror lizard | 10th  | 20        | 5         | 4    | +3        | +2/+2/+2 | Your melee free strike is a 1 burst with the                                     |
 |                    |       |           |           |      |           |          | Area keyword and the Strike keyword.                                             |
 
-## NEW 5-ESSENCE ABILITY
+#### NEW 5-ESSENCE ABILITY
 
 Choose a new heroic ability from one of the following options, each of which costs 5 essence to use. Alternatively, you can choose one of the 5-Essence Abilities you didn't select at 1st level (see 1st-Level Features).
 
@@ -7774,11 +7774,11 @@ VOLCANO'S EMBRACE (5 ESSENCE)
 - *12-16:* **9 + R fire damage;** A \< average\*\*, restrained (save ends)\*\*
 - *17+:* **12 + R fire damage;** A \< strong\*\*, restrained (save ends)\*\*
 
-## 3RD-LEVEL FEATURES
+### 3RD-LEVEL FEATURES
 
 As a 3rd-level elementalist, you gain the following features.
 
-## 3RD-LEVEL SPECIALIZATION FEATURE
+#### 3RD-LEVEL SPECIALIZATION FEATURE
 
 Your elemental specialization grants you a feature as shown on the 3rd-Level Specialization Features table.
 
@@ -7791,15 +7791,15 @@ Your elemental specialization grants you a feature as shown on the 3rd-Level Spe
 | Green          | Remember Growth and Sun and Rain |
 | Void           | Distance is Only Memory          |
 
-#### A CONVERSATION WITH FIRE
+##### A CONVERSATION WITH FIRE
 
 When you spend 1 minute in front of a fire, you can speak the name of another creature. If that creature is willing to speak to you, their image appears in the fire, and they can see you before them in a shimmering ball of light. The two of you can speak to each other through these images as if you were together in person. You or the creature can end the conversation as a maneuver.
 
-#### DISTANCE IS ONLY MEMORY
+##### DISTANCE IS ONLY MEMORY
 
 When you finish a respite, you can open a two-way portal that leads to any place you have previously been. Your allies can pass through the portal, which remains open for 1 hour or until you dismiss it as an action.
 
-#### THE EARTH ACCEPTS ME
+##### THE EARTH ACCEPTS ME
 
 You gain the following ability.
 
@@ -7813,11 +7813,11 @@ THE EARTH ACCEPTS ME
 
 **Effect:** You step into a mundane dirt, metal, or stone object (including a wall) that is as large as you or larger. You can remain inside the object for as long as you like. While inside the object, you can observe events and speak to creatures outside of it, but you don't have line of effect to anything outside the object and vice versa. You can travel through the object freely until you exit it. If the object you meld with is destroyed, you take 10 damage and exit the object.
 
-#### REMEMBER GROWTH AND SUN AND RAIN
+##### REMEMBER GROWTH AND SUN AND RAIN
 
 You gain the following ability.
 
-#### REMEMBER GROWTH AND SUN AND RAIN
+##### REMEMBER GROWTH AND SUN AND RAIN
 
 *You stir any wood's memory and learn what it has seen.*
 
@@ -7825,7 +7825,7 @@ You gain the following ability.
 
 **Effect:** You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object's location as if you were there.
 
-## 7-ESSENCE ABILITY
+#### 7-ESSENCE ABILITY
 
 Choose one heroic ability from the following options, each of which costs 7 essence to use.
 
@@ -7887,19 +7887,19 @@ MAW OF EARTH (7 ESSENCE)
 
 **Persistent 1:** The effect lasts until the start of your next turn, and you can add a number of squares to the wall equal to your Reason score.
 
-## 4TH-LEVEL FEATURES
+### 4TH-LEVEL FEATURES
 
 As a 4th-level elementalist, you gain the following features.
 
-## CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 Your Reason score becomes 3. Additionally, you can increase one of your characteristic scores by 1, to a maximum score of 3.
 
-### FONT OF ESSENCE
+#### FONT OF ESSENCE
 
 When you gain essence from a creature within 10 squares of you taking damage that isn't holy or untyped, you gain 1 additional essence.
 
-## MANTLE OF ESSENCE
+#### MANTLE OF ESSENCE
 
 While you have 3 or more essence and you aren't dying, you exude an aura of magic. The area of effect of the aura is equal to your Reason score. The effects of the aura are based on your specialization as shown on the Mantle of Essence Specialization Effects table.
 
@@ -7930,15 +7930,15 @@ The area is concealment for you and your allies.
 
 You gain any one perk of your choice. See Perks for more information.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-# 5TH-LEVEL FEATURES
+### 5TH-LEVEL FEATURES
 
 As a 5th-level elementalist, you gain the following features.
 
-## 5TH-LEVEL SPECIALIZATION FEATURE
+#### 5TH-LEVEL SPECIALIZATION FEATURE
 
 Your specialization grants you a feature as shown on the 5th-Level Elementalist Specialization Features table.
 
@@ -7951,31 +7951,31 @@ Your specialization grants you a feature as shown on the 5th-Level Elementalist 
 | Green          | Hide of Tenfold Shields      |
 | Void           | Pierce the Veil of Substance |
 
-### HIDE OF TENFOLD SHIELDS
+##### HIDE OF TENFOLD SHIELDS
 
 Your animal forms become hardier. You gain temporary Stamina equal to your level in this class when you enter an animal form in combat. This temporary Stamina is added to any provided by the animal form.
 
 Additionally, whenever an adjacent ally uses a maneuver to pet you, you can decrease your temporary Stamina down to a minimum of 0. The ally gains temporary Stamina an equivalent amount you lost.
 
-### THE MOUNTAIN DOES NOT MOVE
+##### THE MOUNTAIN DOES NOT MOVE
 
 You stand firm and magnetize your allies to stay grounded. Your stability increases by your level in this class.
 
 Additionally, whenever an ally within range of your Hurl Element ability is force moved, you can use a free triggered action to decrease your stability down to a minimum of 0 to increase their stability an equivalent amount until the end of the round.
 
-#### PIERCE THE VEIL OF SUBSTANCE
+##### PIERCE THE VEIL OF SUBSTANCE
 
 Solidity is merely a suggestion to you. Mundane barriers that are less than 1 square thick or less do not block your sight or line of effect. You can only see or have line of effect past one such barrier at a time.
 
 Additionally, whenever you use a void ability, you or an ally within distance of the ability can teleport a number of squares equal to your Reason score.
 
-### SMOLDERING STEP
+##### SMOLDERING STEP
 
 You can use 1 square of movement to walk into a body of fire your size or larger and teleport to any other body of fire your size or larger within 10 of the first body of fire.
 
 Additionally, whenever you use a fire ability or are targeted by an ability that deals fire damage, each enemy adjacent to you takes fire damage equal to your Reason score.
 
-## 9-ESSENCE ABILITIES
+#### 9-ESSENCE ABILITIES
 
 Choose one heroic ability from the following options.
 
@@ -8039,15 +8039,15 @@ SUBVERTED PERCEPTION OF SPACE (9 ESSENCE)
 
 **Persistent 1:** The affected area persists until the start of your next turn.
 
-## 6TH-LEVEL FEATURES
+### 6TH-LEVEL FEATURES
 
 As a 6th-level elementalist, you gain the following features.
 
-## PERK
+#### PERK
 
 You gain a crafting, lore, or supernatural perk of your choice. See Perks for more information.
 
-## WYRDING
+#### WYRDING
 
 You can spend 10 minutes to create a freeform magical wyrd for a variety of situations. Choose one of the following magical effects:
 
@@ -8058,7 +8058,7 @@ You can spend 10 minutes to create a freeform magical wyrd for a variety of situ
 - You preserve a corpse or up to 5 pounds of food for a week or cause it to instantly rot.
 - You create a seal on a surface that can't be seen or felt by anyone but you. When a creature comes within 10 squares of the surface, you can see and hear through the seal for as long as the creature remains within 1 square of the seal. When you create the seal, you can decide to limit the number of creatures who activate it by choosing a creature keyword (such as Undead) or a specific name (such as Ajax the Invincible) or organization (such as the Black Iron Pact). The seal only alerts you when creatures with the keyword, name, or organizational affiliation you provide pass by it. If you create a second seal, the first one disappears. You can dispel a seal as no action.
 
-## NEW 9-ESSENCE ABILITY
+#### NEW 9-ESSENCE ABILITY
 
 Choose a new heroic ability from one of the following options. Alternatively, you can choose one of the 9Essence Abilities you didn't select at 5th level (see 5th-Level Features).
 
@@ -8117,37 +8117,37 @@ THE WODE REMEMBERS AND RETURNS (9 ESSENCE) *You create a terrarium, from canopy 
 
 **Persistent 2:** Allies within the affected area can spend a Recovery at the start of your turn. The effects persist until the start of your next turn.
 
-## 7TH-LEVEL FEATURES
+### 7TH-LEVEL FEATURES
 
 As a 7th-level elementalist, you gain the following features.
 
-## CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 All of your characteristics increase by 1, to a maximum score of 4.
 
-## MANTLE OF QUINTESSENCE
+#### MANTLE OF QUINTESSENCE
 
 You don't need essence to keep your Mantle of Essence active. Outside of combat, you can choose whether to activate or deactivate your specialization's effects on the aura.
 
 Additionally, your Mantle of Essence now gives off a dwoemer that fills the area and calms any tense air. Creatures in your aura have their starting patience increased by 1 during negotiations. You and allies have an edge on tests made to handle animals within your aura. If you have 5 or more Victories, the bonus to patience increases to 2 and tests to handle animals have a double edge.
 
-## SURGING ESSENCE
+#### SURGING ESSENCE
 
 When you gain essence at the start of your turn, you gain 3 essence instead of 2.
 
-### SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## 8TH-LEVEL FEATURES
+### 8TH-LEVEL FEATURES
 
 As an 8th-level elementalist, you gain the following features.
 
-## PERK
+#### PERK
 
 You gain any one perk of your choice. See Perks for more information.
 
-## 8TH-LEVEL SPECIALIZATION FEATURE
+#### 8TH-LEVEL SPECIALIZATION FEATURE
 
 Your specialization grants you a feature as shown on the 8th-Level Elementalist Specialization Features table.
 
@@ -8160,13 +8160,13 @@ Your specialization grants you a feature as shown on the 8th-Level Elementalist 
 | Green          | Chimeric Manifestation |
 | Void           | Black Hole Star        |
 
-#### BLACK HOLE STAR
+##### BLACK HOLE STAR
 
 You warp gravity around your heavenly body and can pull some of the sturdiest titans towards your core. At the end of each of your turns, you target 1 creature or object within distance of your Hurl Element ability and vertical pull the target up to 5 squares. Even if their stability would reduce this forced movement to 0, they are still pulled at least 2 squares. You can ignore the stability of willing allies with this forced movement.
 
 Your Mantle of Essence also improves. All enemies and objects have their stability reduced by your level while they are within the aura.
 
-#### CHIMERIC MANIFESTATION
+##### CHIMERIC MANIFESTATION
 
 Nature isn't static and unchanging, and neither are you. You can either enter or exit your animal form as a free maneuver the first time you use the Disciple of the Green feature on your turn.
 
@@ -8174,17 +8174,17 @@ Additionally, whenever you use your Disciple of the Green feature, you can selec
 
 You can only combine animal forms whose levels add up to 12 or lower. For example, you can combine a shark (Level 8) with a horse (Level 4), but you cannot combine a shark with a bear (Level 5).
 
-#### THE FLAME PRIMORDIAL
+##### THE FLAME PRIMORDIAL
 
 You produce a fire that entrances the fates, distracting them from aiding your foes. Whenever you deal fire damage to a creature or object, they take an extra 1d6 fire damage. If it is a mundane object, you can use a free triggered action to target it with your Return to Formlessness ability instead.
 
 Additionally, enemies who start their turn adjacent to you have fire weakness equal to your Reason score until the start of their next turn. This increases to twice your Reason score if the enemy is made of or wearing mostly metal.
 
-#### SUMMON SOURCE OF EARTH
+##### SUMMON SOURCE OF EARTH
 
 You gain the following ability:
 
-#### SUMMON SOURCE OF EARTH
+##### SUMMON SOURCE OF EARTH
 
 *The ground rumbles as they burst forth, ready to serve.*
 
@@ -8224,7 +8224,7 @@ When the source burrows, they create a size-2 tunnel.
 
 A creature that has the The Earth Accepts Me ability can use it as a free action to meld into the source.
 
-### 11-ESSENCE ABILITIES
+#### 11-ESSENCE ABILITIES
 
 Choose one heroic ability from the following options.
 
@@ -8278,17 +8278,17 @@ o *11 or lower*: 7 **fire damage; Director loses 2 Malice**
 
 **Effect:** You create a fissure in a 10 x 2 line in the ground that is 6 squares deep within 1 square of you. Each creature in the area small enough to fall into the fissure who is not prone can shift to the nearest unoccupied space of their choice not in the fissure. Any other creature small enough to fit into the fissure falls.
 
-## 9TH-LEVEL FEATURES
+### 9TH-LEVEL FEATURES
 
 As a 9th-level elementalist, you gain the following features.
 
-### GRAND WYRDING
+#### GRAND WYRDING
 
 You have mastered that magic of the elements and can use your Wyrding feature as an action.
 
 Additionally, when you have 5 or more Victories, choose one of the following damage types. You have immunity all to that type: acid, cold, corruption, fire, lightning, poison, or sonic.
 
-### 11-ESSENCE ABILITY
+#### 11-ESSENCE ABILITY
 
 Choose one heroic ability from the following options. Alternatively, you can choose one of the 11-Essence Abilities you didn't select at 8th level (see 8th-Level Features).
 
@@ -8340,41 +8340,41 @@ THE GREEN DEFENDS ITS SERVANTS (11 ESSENCE) *A luminous green shield that shows 
 
 **Effect:** This damage ignores immunity.
 
-## 10TH-LEVEL FEATURES
+### 10TH-LEVEL FEATURES
 
 As a 10th-level elementalist, you gain the following features.
 
-## CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 Your Reason score becomes 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum score of 5.
 
-## BREATH
+#### BREATH
 
 You gain an epic resource called breath. When you take a Respite, you gain breath equal to the XP you gain. You can spend breath to earn essence (no action required). When you do, 1 breath is worth 3 essence.
 
 Breath remains until you convert it to essence.
 
-### ESSENTIAL BEING
+#### ESSENTIAL BEING
 
 When you gain essence at the start of your turn, you gain 4 essence instead of 3.
 
-## ONE
+#### ONE
 
 You become the embodiment of your chosen specialization element. When you are using magic, elemental motes of your chosen element flit around you and your skin changes its appearance to reflect the element, taking on an earthen or stoney appearance for earth, appearing like flickering flame for fire, gaining a leaf pattern for green, and becoming a starry expanse for void). In addition, you gain the following benefits based on your specialization.
 
-### MASTER OF EARTH
+##### MASTER OF EARTH
 
 You have damage immunity 5.
 
 As a respite activity, you can shape the mundane earth around you in a 1-mile radius. You can cause sinkholes to open, mountains to form, create canyons, cause islands to rise or sink into the sea, and the like. You can't use this activity if another creature within 1 mile is already using it. Once you use this activity, you can't use it again for 10 days.
 
-#### MASTER OF FIRE
+##### MASTER OF FIRE
 
 The damage bonus of your elemental boon rises to +5 and applies to all of your magic abilities.
 
 Your Return to Formlessness feature can be used on supernatural objects except for artifacts. When you melt a treasure, you gain breath equal to its echelon.
 
-#### MASTER OF GREEN
+##### MASTER OF GREEN
 
 The number of Recoveries you have increases by 2. When you finish a respite, you can grant each ally who finished a respite with you 2 additional Recoveries. Your allies' extra Recoveries disappear when they finish their next respite.
 
@@ -8382,27 +8382,27 @@ As a respite activity, you can perform a ritual that causes a fruit tree to spri
 
 A creature can consume a Life Fruit as a maneuver or feed it to an adjacent, willing ally. When a creature eats a Life Fruit, all their Stamina is restored and can end any conditions or effects that are affecting them that they want, including using the Stand Up maneuver to end the prone condition. In addition, if the creature desires, their aging process pauses for 1d10 years. If the creature eats a second Life Fruit and chooses to pause their aging process, the effects don't stack. The pause with the most time remaining is the one that takes effect.
 
-#### MASTER OF VOID
+##### MASTER OF VOID
 
 Your movement gains the Teleport keyword.
 
 Your mind is connected to the mystery and helps you find the answers your seek. You no longer require any project sources for research projects. When you use a respite activity to perform a project roll on a research project, you automatically complete the project.
 
-### PERK
+#### PERK
 
 You gain a crafting, lore, or supernatural perk of your choice. See Perks for more information.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-# FURY
+## FURY
 
 You do not temper the heat of battle within you--you unleash it! Like a raptor, a panther, a wolf, your experience in the wild taught you the secret of channeling unfettered anger into martial prowess. Primordial chaos is your ally. Leave it to others to use finesse to clean up the pieces you leave behind.
 
 As a fury, you have abilities that deal a lot of damage, move you around the battlefield, and grow in strength as your rage increases. Nature has no concept of fairness--and neither do you.
 
-## BASICS
+### BASICS
 
 **Starting Characteristics:** You start with a Might of 2 and an Agility of 2, and can choose one of the following arrays for your other characteristics scores:
 
@@ -8467,11 +8467,11 @@ As a fury, you have abilities that deal a lot of damage, move you around the bat
 |      | Primordial Rage, Skill    |             |          |
 |      | Increase                  |             |          |
 
-## 1ST-LEVEL FEATURES
+### 1ST-LEVEL FEATURES
 
 As a fury, you gain the following features.
 
-## PRIMORDIAL ASPECT
+#### PRIMORDIAL ASPECT
 
 You are a product of customs older than civilization, older than warfare, older than most of the world. You have undergone a rite of passage that revealed the building blocks of the timescape--the Primordial Chaos--and which left an aspect of the Primordial Chaos inside you. As you channel the rage that shapes you, you choose a primordial aspect from the following options, each of which grants you a skill (*Quick Build:* Berserker):
 
@@ -8481,27 +8481,27 @@ You are a product of customs older than civilization, older than warfare, older 
 
 Your choice of primordial aspect determines many of the features you'll gain from this class.
 
-## RAGE
+#### RAGE
 
 As the battle intensifies around you, your determination and anger grow, fueling a Heroic Resource called rage.
 
-#### RAGE IN COMBAT
+##### RAGE IN COMBAT
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain rage equal to your Victories. At the start of each of your turns during combat, you gain 1d3 rage. Additionally, the first time each round that you take damage, you gain 1 rage. The first time in an encounter that you become winded or dying, you gain 1d3 rage. You lose any remaining rage at the end of the encounter.
 
-#### RAGE OUTSIDE OF COMBAT
+##### RAGE OUTSIDE OF COMBAT
 
 Though you can't gain rage outside of combat, you can use your heroic abilities and effects that cost rage without spending it. Whenever you use an ability or effect outside of combat that costs rage, you can't use that same ability or effect outside of combat again until you gain at least 1 Victory or finish a respite.
 
 If you use an ability outside of combat that lets you spend unlimited rage on its effect, such as To the Uttermost End, you can use it as if you had spent an amount of rage on it equal to your Victories.
 
-## GROWING RAGE
+#### GROWING RAGE
 
 You gain certain benefits in combat based on the amount of rage you have. See the various Aspect Features sections for details. The benefits from your growing rage last until the end of your turn, even if a benefit would become unavailable to you because of the amount of rage you spend during your turn.
 
 Some of the benefits of your Growing Rage can be applied only if you are a specific level or higher, as noted on the Growing Rage tables.
 
-## 1ST-LEVEL ASPECT FEATURES
+#### 1ST-LEVEL ASPECT FEATURES
 
 Your chosen primordial aspect grants you features as shown on the 1st-Level Aspect Features table.
 
@@ -8513,7 +8513,7 @@ Your chosen primordial aspect grants you features as shown on the 1st-Level Aspe
 | Reaver     | Kit, Primordial Cunning        |
 | Stormwight | Beast Shape, Relentless Hunter |
 
-### BEAST SHAPE
+##### BEAST SHAPE
 
 When you select a kit, you can instead select a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including effects tied to your Growing Rage feature.
 
@@ -8521,7 +8521,7 @@ When you select a kit, you can instead select a stormwight kit (see Stormwight K
 
 You can use and gain the benefits of a kit. See the Kits chapter for more information. (*Quick Build:* Panther)
 
-#### PRIMORDIAL CUNNING
+##### PRIMORDIAL CUNNING
 
 You are never surprised. Additionally, whenever you would push a target with forced movement, you can slide them instead.
 
@@ -8548,7 +8548,7 @@ As your rage grows, your primordial cunning intensifies, granting benefits from 
 | 10)    | o Gain 10 Temporary Stamina when you use a heroic        |
 |        | ability.                                                 |
 
-### PRIMORDIAL STRENGTH
+##### PRIMORDIAL STRENGTH
 
 Whenever you damage an object with a weapon strike, it takes additional damage equal to your Might score. Additionally, whenever you push another creature into an object, they take additional damage equal to your Might score.
 
@@ -8575,11 +8575,11 @@ As your rage grows, your primordial strength intensifies, granting benefits from
 
 #### **PRIMORDIAL STRENGTH GROWING RAGE**
 
-#### RELENTLESS HUNTER
+##### RELENTLESS HUNTER
 
 You gain an edge on tests that use the Track skill.
 
-## ASPECT TRIGGERED ACTION
+#### ASPECT TRIGGERED ACTION
 
 Your primordial aspect grants you a triggered action as shown on the Aspect Triggered Actions table.
 
@@ -8632,7 +8632,7 @@ UNEARTHLY REFLEXES
 
 **Spend 1 Rage**: You reduce the potency of any effect associated with the damage for you by 1.
 
-### MIGHTY LEAPS
+#### MIGHTY LEAPS
 
 You always succeed on Might tests made to jump. You can still roll to see if you get a reward result.
 
@@ -8640,11 +8640,11 @@ You always succeed on Might tests made to jump. You can still roll to see if you
 
 Since most other classes get a bespoke maneuver, many folks have asked during playtesting, "Where is the fury's special maneuver?" The answer is that the fury doesn't need a maneuver all their own, because most the time, we've found that the fantasy of the fury has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
-### FURY ABILITIES
+#### FURY ABILITIES
 
 You specialize in dealing massive damage on the battlefield, mastering a number of unique martial abilities that allow you to strike hard and keep moving in combat.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* To the Death)
 
@@ -8702,11 +8702,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** You gain two surges. The enemy can make an opportunity attack against you as a free triggered action.
 
-#### HEROIC ABILITIES
+##### HEROIC ABILITIES
 
 You fight with an array of heroic abilities, all of which cost rage to fuel them.
 
-#### 3-RAGE ABILITY
+###### 3-RAGE ABILITY
 
 Choose one heroic ability from the following options, each of which costs 3 rage to use. (*Quick Build:* Back)
 
@@ -8766,7 +8766,7 @@ YOUR ENTRAILS ARE YOUR EXTRAILS!(3 RAGE)
 
 **Effect:** While bleeding, the target takes damage equal to your Might score at the end of your turns.
 
-#### 5-RAGE ABILITY
+###### 5-RAGE ABILITY
 
 Choose one heroic ability from the following options, each of which costs 5 rage to use. (*Quick Build:* Blood for Blood)
 
@@ -8822,11 +8822,11 @@ TO THE UTTERMOST END (5 RAGE)
 
 **Spend 1+ Rage:** If you are winded, this ability deals 1d6 bonus damage for each rage spent. If you are dying, it deals 1d10 bonus damage for each rage spent. In either case, you then lose 1d6 Stamina after making this strike.
 
-## 2ND-LEVEL FEATURES
+### 2ND-LEVEL FEATURES
 
 As a 2nd-level fury, you gain the following features.
 
-### 2ND-LEVEL ASPECT FEATURE
+#### 2ND-LEVEL ASPECT FEATURE
 
 Your primordial aspect grants you a feature as shown on the 2nd-Level Aspect Features table.
 
@@ -8838,27 +8838,27 @@ Your primordial aspect grants you a feature as shown on the 2nd-Level Aspect Fea
 | Reaver     | Inescapable Wrath |
 | Stormwight | Tooth and Claw    |
 
-#### INESCAPABLE WRATH
+##### INESCAPABLE WRATH
 
 You have a bonus to speed equal to your Agility score, and you ignore difficult terrain.
 
-#### TOOTH AND CLAW
+##### TOOTH AND CLAW
 
 When you end your turn, each enemy who is adjacent to you takes damage equal to your Might score.
 
-### UNSTOPPABLE FORCE
+##### UNSTOPPABLE FORCE
 
 Whenever you use the Charge action, you can make a signature strike or a heroic ability melee strike instead of a free strike. Additionally, you can jump as part of a charge.
 
-### PERK
+#### PERK
 
 You gain a crafting, exploration, or intrigue perk of your choice. See Perks for more information.
 
-## 2ND-LEVEL ASPECT ABILITY
+#### 2ND-LEVEL ASPECT ABILITY
 
 Your primordial aspect grants your choice of one of two abilities.
 
-### 2ND-LEVEL BERSERKER ABILITY
+##### 2ND-LEVEL BERSERKER ABILITY
 
 Choose one of the following abilities.
 
@@ -8882,7 +8882,7 @@ Additionally, you make one power roll that targets each enemy you come adjacent 
 - *12-16:* **Push 2**
 - *17+:* **Push 3**
 
-#### 2ND-LEVEL REAVER ABILITY
+##### 2ND-LEVEL REAVER ABILITY
 
 Choose one of the following abilities.
 
@@ -8912,7 +8912,7 @@ PHALANX BREAKER (5 RAGE)
 - *12-16*: **5 + M damage;** P \< average\*\*, dazed and frightened (save ends)\*\*
 - *17+:* **8 + M damage;** P \< strong\*\*, dazed and frightened (save ends)\*\*
 
-#### 2ND-LEVEL STORMWIGHT ABILITY
+##### 2ND-LEVEL STORMWIGHT ABILITY
 
 Choose one of the following abilities.
 
@@ -8944,11 +8944,11 @@ VISCERAL ROAR (5 RAGE)
 
 **Effect:** This ability deals damage of your primordial storm type (see Stormwight Kits).
 
-## 3RD-LEVEL FEATURES
+### 3RD-LEVEL FEATURES
 
 As a 3rd-level fury, you gain the following features.
 
-## 3RD-LEVEL ASPECT FEATURE
+#### 3RD-LEVEL ASPECT FEATURE
 
 Your primordial aspect grants you a feature as shown on the 3rd-Level Aspect Features table.
 
@@ -8960,7 +8960,7 @@ Your primordial aspect grants you a feature as shown on the 3rd-Level Aspect Fea
 | Reaver     | See Through Your Tricks |
 | Stormwight | Nature's Knight         |
 
-#### IMMOVABLE OBJECT
+##### IMMOVABLE OBJECT
 
 You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on your ability to be grabbed.
 
@@ -8970,11 +8970,11 @@ Additionally, you gain a bonus to stability equal to your Might score.
 
 You can speak with animals and elementals. You automatically sense the presence of any animal or elemental within 10 squares of you, even if they are hidden. If you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your Renown in a negotiation with an animal of your type while in animal form (see Stormwight Kits).
 
-### SEE THROUGH YOUR TRICKS
+##### SEE THROUGH YOUR TRICKS
 
 You have a double edge on tests made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double edge on tests made to gamble!
 
-## 7-RAGE ABILITY
+#### 7-RAGE ABILITY
 
 Choose one heroic ability from the following options, each of which costs 7 rage to use.
 
@@ -9009,43 +9009,43 @@ YOU ARE ALREADY DEAD (7 RAGE)
 
 **Effect:** If the target is not a leader or solo creature, they die at the end of their next turn. If the target is a leader or solo creature, you gain three surges and can make a melee free strike against them.
 
-## 4TH-LEVEL FEATURES
+### 4TH-LEVEL FEATURES
 
 As a 4th-level fury, you gain the following features.
 
-### CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 Your Might and Agility scores increase to 3.
 
-## DAMAGING RAGE
+#### DAMAGING RAGE
 
 You now gain 2 rage instead of 1 the first time in a round that an enemy damages you.
 
-### GROWING RAGE IMPROVEMENT
+#### GROWING RAGE IMPROVEMENT
 
 Your Growing Rage feature gains additional benefits when you have 8 or more rage.
 
-## PERK
+#### PERK
 
 You gain any one perk of your choice. See Perks for more information.
 
-## PRIMORDIAL ATTUNEMENT
+#### PRIMORDIAL ATTUNEMENT
 
 You begin to learn that your Rage is a manifestation of the elemental forces of the Primordial Chaos and can detect if a creature is weak or immune to elemental power. You can sense if any creature with 10 squares of you has damage immunity or damage weakness to acid, cold, corruption, fire, lightning, poison, or sonic damage. You know if the creature has an immunity or weakness and the specific damage type that applies. You can also sense any source of one of those damage types within 10 squares of you, such as a fire or a source of elemental power.
 
-## PRIMORDIAL STRIKE
+#### PRIMORDIAL STRIKE
 
 You can manifest your Rage directly as an elemental force from the Primordial Chaos. As part of any strike, you can spend 1 rage to gain a surge which you must use to add damage on that strike. The surge's damage is in acid, cold, corruption, fire, lightning, poison, or sonic (your choice).
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## 5TH-LEVEL FEATURES
+### 5TH-LEVEL FEATURES
 
 As a 5th-level fury, you gain the following features.
 
-## 5TH-LEVEL ASPECT FEATURE
+#### 5TH-LEVEL ASPECT FEATURE
 
 Your connection to the Primordial Chaos grows, expressing itself in your body and nature. Your aspect grants you a feature as shown on the 5th-Level Primordial Aspect Features table.
 
@@ -9057,19 +9057,19 @@ Your connection to the Primordial Chaos grows, expressing itself in your body an
 | Reaver     | Unfettered |
 | Stormwight | Stormborn  |
 
-### BOUNDER
+##### BOUNDER
 
 Your jump distance and height double. When you fall, you reduce the effective height of your fall by a number of squares equal to your jump distance for the purpose of determining damage and if you land prone. You are not prone after landing on top of another creature.
 
-#### STORMBORN
+##### STORMBORN
 
 You, and all allies with 5 squares of you, ignore negative effects from inclement weather, such as banes or environmental damage. In addition, you can use the Blessing of Fortunate Weather ability as if you were a 1st level conduit.
 
-### UNFETTERED
+##### UNFETTERED
 
 At the beginning of your turn, you can remove any restrained condition affecting you. You have a double edge on any checks to escape imprisonment.
 
-## 9-RAGE ABILITIES
+#### 9-RAGE ABILITIES
 
 Choose one heroic ability from the following options.
 
@@ -9130,11 +9130,11 @@ REBOUNDING STORM (9 RAGE)
 
 **Effect:** While the target is slowed, any additional abilities with a slowed effect instead turn this slowed condition to restrained. A creature who fails their save while restrained this way becomes petrified. Petrification remains until a magical cure is applied or until you choose to reverse the effect (no action required).
 
-## 6TH-LEVEL FEATURES
+### 6TH-LEVEL FEATURES
 
 As a 6th-level fury, you gain the following features.
 
-## MARAUDER OF THE PRIMORDIAL CHAOS
+#### MARAUDER OF THE PRIMORDIAL CHAOS
 
 You can sense any elementals or sources of elemental power within 1 mile of you. You can speak with elementals. You are considered to have 1 higher Renown if negotiation with an elemental comes into play.
 
@@ -9146,11 +9146,11 @@ creatures within 10 squares of you through the portal onto a safe island the Pri
 
 You can choose to explore the Primordial Chaos from your safe island, but safety is not guaranteed.
 
-### PERK
+#### PERK
 
 You gain a crafting, exploration, or intrigue perk of your choice. See Perks for more information.
 
-### 6TH-LEVEL ASPECT ABILITY
+#### 6TH-LEVEL ASPECT ABILITY
 
 Your specialization grants your choice of one of two abilities.
 
@@ -9180,7 +9180,7 @@ FORCE OF STORMS (9 RAGE) *You strike an enemy hard enough to be a projectile tha
 
 **Effect:** When the target ends their forced movement all creatures within 2 of the target are pushed 3.
 
-#### 6TH-LEVEL REAVER ABILITIES
+##### 6TH-LEVEL REAVER ABILITIES
 
 Choose one of the following abilities.
 
@@ -9210,7 +9210,7 @@ Choose one of the following abilities.
 
 **Effect:** If a non-leader or non-solo creature is winded by this strike, they are reduced to 0 Stamina. If a target is reduced to 0 stamina by this ability, select an enemy within 5 squares of you to be **P \< \[average\]** frightened save ends.
 
-#### 6TH-LEVEL STORMWIGHT ABILITIES
+##### 6TH-LEVEL STORMWIGHT ABILITIES
 
 Choose one of the following abilities.
 
@@ -9242,35 +9242,35 @@ Your speed gains the Flying keyword while the aura is active. Any allies that be
 
 **Spend No Rage:** You can use this ability without spending rage outside of combat. If you do, you must spend 1 uninterrupted minute summoning a primordial storm and take 1d6 damage before its effects occur. The storm lasts for 1 hour or until a combat encounter begins.
 
-## 7TH-LEVEL FEATURES
+### 7TH-LEVEL FEATURES
 
 As a 7th-level fury, you gain the following features.
 
-## CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 All of your characteristics increase by 1, to a maximum score of 4.
 
-## ELEMENTAL FORM
+#### ELEMENTAL FORM
 
 Your Rage exhibits more signs of the elemental forces from the Primordial Chaos. When you show strong emotion or grow your Rage, elemental motes attuned to your mood flit around you and your skin changes its appearance to reflect various elements. You gain damage immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Might score. If you are a stormwight, your damage immunity from your Primordial Storm increases to twice your Might score instead.
 
-## GREATER RAGE
+#### GREATER RAGE
 
 At the start of each turn of combat, you now gain 1d3 + 1 rage.
 
-## GROWING RAGE IMPROVEMENT
+#### GROWING RAGE IMPROVEMENT
 
 Your Growing Rage feature gains additional benefits when you have 10 or more rage.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## 8TH-LEVEL FEATURES
+### 8TH-LEVEL FEATURES
 
 As a 8th-level fury, you gain the following features.
 
-## 8TH-LEVEL ASPECT FEATURE
+#### 8TH-LEVEL ASPECT FEATURE
 
 Your connection to the Primordial Chaos grows, expressing itself in your body and nature. Your aspect grants you a feature as shown on the 8th-Level Primordial Aspect Features table.
 
@@ -9282,23 +9282,23 @@ Your connection to the Primordial Chaos grows, expressing itself in your body an
 | Reaver     | A Step Ahead       |
 | Stormwight | Menagerie          |
 
-#### MENAGERIE
+##### MENAGERIE
 
 You gain access to all Stormwight kits and can choose to swap your kit during a respite and still take another respite activity. You now automatically sense the presence of any animal or elemental within 1 mile of you, even if they are hidden. Whenever you make a test to track another creature, you can roll three dice and choose which two to use.
 
-### A STEP AHEAD
+##### A STEP AHEAD
 
 Your cunning grows to legend. Whenever you make a Agility test, you can roll three dice and choose which two to use. You add your Agility to the number of squares you can shift when you use the Disengage move action.
 
-### STRONGEST THERE IS
+##### STRONGEST THERE IS
 
 Your strength grows to legend. Whenever you make a Might test, you can roll three dice and choose which two to use. You add your Might score to the push distance when you use the Knockback maneuver.
 
-### PERK
+#### PERK
 
 You gain any one perk of your choice. See Perks for more information.
 
-## 11-RAGE ABILITIES
+#### 11-RAGE ABILITIES
 
 Choose one heroic ability from the following options.
 
@@ -9346,21 +9346,21 @@ OVERKILL (11 RAGE)
 
 **Effect:** Select acid, cold, corruption, fire, lightning, poison, or sonic damage. Until the end of the encounter or you become dying, one target of any ability you use takes an additional 15 damage of the type you have selected. If you gain rage from being damaged, the source of the damage takes 5 damage of the type you have selected.
 
-## 9TH-LEVEL FEATURES
+### 9TH-LEVEL FEATURES
 
 As a 9th-level fury, you gain the following features.
 
-## HARBINGER OF THE PRIMORDIAL CHAOS
+#### HARBINGER OF THE PRIMORDIAL CHAOS
 
 You can create a temporary source of elemental power as a Respite activity. This source of elemental power will last 24 hours after creation.
 
 If you use your Herald of Primordial Chaos ability to create a portal to the Primordial Chaos, the source of elemental power lasts as long as the portal is maintained in your network.
 
-## 9TH-LEVEL ASPECT ABILITY
+#### 9TH-LEVEL ASPECT ABILITY
 
 Your specialization grants your choice of one of two abilities.
 
-#### 9TH-LEVEL BERSERKER ABILITIES
+##### 9TH-LEVEL BERSERKER ABILITIES
 
 Choose one of the following abilities.
 
@@ -9392,7 +9392,7 @@ PRIMORDIAL VORTEX (11 RAGE)
 
 **Effect:** You do not take forced movement damage from targets that collide with you. Those targets take the damage you would have taken instead.
 
-### 9TH-LEVEL REAVER ABILITIES
+##### 9TH-LEVEL REAVER ABILITIES
 
 Choose one of the following abilities.
 
@@ -9424,7 +9424,7 @@ SHOWER OF BLOOD (11 RAGE)
 
 **Effect:** Each enemy within 5 squares of you is surprised until the end of the round. While surprised in this way, abilities rolled against the creature gain an edge, and their characteristic scores are considered 1 lower for the purpose of resisting potencies.
 
-#### 9TH-LEVEL STORMWIGHT ABILITIES
+##### 9TH-LEVEL STORMWIGHT ABILITIES
 
 Choose one of the following abilities.
 
@@ -9454,11 +9454,11 @@ DELUGE (11 RAGE)
 
 **Effect:** Damage from this ability is of your primordial storm type. You ignore all damage immunity for this ability.
 
-## 10TH-LEVEL FEATURES
+### 10TH-LEVEL FEATURES
 
 As a 10th-level fury, you gain the following features.
 
-## CHAOS INCARNATE
+#### CHAOS INCARNATE
 
 As your rage grows you begin to manifest elemental power, taking on aspects of various elemental forces.
 
@@ -9468,19 +9468,19 @@ If you enter combat with an elemental or any creature with abilities that deals 
 
 When you use Primordial Strike, you can spend up to 3 rage, gaining 1 surge per rage spent to use on the strike.
 
-## CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 Your Might and Agility scores increase to 5.
 
-## GROWING RAGE IMPROVEMENT
+#### GROWING RAGE IMPROVEMENT
 
 Your Growing Rage feature gains additional benefits when you have 12 or more rage.
 
-### PERK
+#### PERK
 
 You gain a crafting, exploration, or intrigue perk of your choice. See Perks for more information.
 
-## PRIMORDIAL POWER
+#### PRIMORDIAL POWER
 
 You gain an epic resource called primordial power. When you take a Respite, you gain primordial power equal to the XP you gain. As a free triggered action, you can spend primordial power to become rage until the end of an encounter.
 
@@ -9490,29 +9490,29 @@ You can spend 3 primordial power to create a portal to the Primordial Chaos with
 
 Primordial power remains until you spend it.
 
-## PRIMORDIAL RAGE
+#### PRIMORDIAL RAGE
 
 You now gain 3 rage instead of 2 the first time in a round that an enemy damages you.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## STORMWIGHT KITS
+### STORMWIGHT KITS
 
 The primordial aspect of the stormwight lets you channel your rage into the form of an animal, and grants you knowledge of one of a number of special stormwight kits. You can master additional stormwight kits through play,
 
 changing them out during a Respite as with any other kit. (See Kits.)
 
-## KIT FEATURES
+#### KIT FEATURES
 
 All stormwight kits have the following features in common.
 
-#### ASPECT BENEFITS AND ANIMAL FORM
+##### ASPECT BENEFITS AND ANIMAL FORM
 
 Your aspect benefits are always available to you, but you gain additional benefits while in the animal form your stormwight kit lets you take at any time, or the hybrid form that some stormwight kits grant you as your rage increases (see Growing Rage below).
 
-#### ASPECT OF THE WILD
+##### ASPECT OF THE WILD
 
 Your stormwight kit's Animal Form feature grants you the following ability.
 
@@ -9526,15 +9526,15 @@ While in animal form or hybrid form, you can speak normally and can speak to ani
 
 **Spend 1 Rage:** As a free maneuver on your turn, you can shapeshift a second time, either into another animal form, into your hybrid form, or back into your true form.
 
-#### PRIMORDIAL STORM
+##### PRIMORDIAL STORM
 
 Each stormwight is associated with a primordial storm, which channels a specific damage type used by some of your abilities.
 
-### EQUIPMENT
+##### EQUIPMENT
 
 You wear no armor and wield only your unarmed strikes--which become devastating natural weapons as your rage grows.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 These bonuses apply in your true form, your animal form, and your hybrid form if applicable.
 
@@ -9542,35 +9542,35 @@ These bonuses apply in your true form, your animal form, and your hybrid form if
 
 Each stormwight kit grants a specific set of benefits for your fury Growing Rage feature. You have some of the noted benefits all the time, but gain other benefits only while in the animal form or hybrid form granted by your stormwight kit, as noted on the Growing Rage table for each stormwight kit.
 
-## BOREN
+#### BOREN
 
 With this stormwight kit, you channel your primordial rage into the form of a bear, becoming large, durable, and imposing. Boren are tied to the craggy, rocky north, and this aspect is associated with the blizzard's bitter cold.
 
-#### ASPECT BENEFITS
+##### ASPECT BENEFITS
 
 Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has **M \< average**, you can use a free triggered action to grab that creature.
 
-#### ANIMAL FORM: BEAR
+##### ANIMAL FORM: BEAR
 
 When you are in your bear form, your size becomes 2, and you gain a +2 bonus to speed and a +1 bonus to distance with melee weapon abilities.
 
-### HYBRID FORM: BEAR
+##### HYBRID FORM: BEAR
 
 When you are in your hybrid form, your size becomes 2, and you gain a +2 bonus to speed and a +1 bonus to distance with melee weapon abilities.
 
 Once you reach 4th level, the first time you take hybrid form in an encounter you gain 10 Temporary Stamina.
 
-### PRIMORDIAL STORM: BLIZZARD
+##### PRIMORDIAL STORM: BLIZZARD
 
 Your primordial damage type is cold.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +9
 - **Stability Bonus:** +2
 - **Melee Weapon Damage Bonus:** +0/+0/+4
 
-### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### BEAR CLAWS
 
@@ -9608,36 +9608,36 @@ As your rage grows, you gain benefits as noted on the Boren Growing Rage table. 
 | 10)    | o Gain 10 Temporary Stamina when you use a heroic        |
 |        | ability.                                                 |
 
-## CORVEN
+#### CORVEN
 
 With this stormwight kit, you channel your primordial rage into the form of a crow. Corven are tied to the mountain passes and the hot winds that flow through them. This aspect is associated with the katabatic wind.
 
-### ASPECT BENEFITS
+##### ASPECT BENEFITS
 
 You gain an edge on tests made to hide and sneak. Additionally, whenever you are falling, you can use a free triggered action to use your Aspect of the Wild ability.
 
-### ANIMAL FORM: CROW
+##### ANIMAL FORM: CROW
 
 When you are in your crow form, your size becomes 1T and your speed gains the Fly keyword. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when you hide.
 
-#### HYBRID FORM: CROW
+##### HYBRID FORM: CROW
 
 When you are in your hybrid form, your size becomes your choice of 1S or 1M.
 
 Once you reach 4th level, your speed gains the Fly keyword.
 
-#### PRIMORDIAL STORM: KATABATIC WIND
+##### PRIMORDIAL STORM: KATABATIC WIND
 
 Your primordial damage type is fire.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +3
 - **Speed Bonus:** +3
 - **Melee Weapon Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
 
-### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### WING BUFFET
 
@@ -9653,7 +9653,7 @@ Your primordial damage type is fire.
 
 **Effect:** You can shift up to 2 squares before or after the making the power roll.
 
-### GROWING RAGE
+#### GROWING RAGE
 
 As your rage grows, you gain benefits as noted on the Corven Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -9675,36 +9675,36 @@ As your rage grows, you gain benefits as noted on the Corven Growing Rage table.
 | 10)       | o Gain 10 Temporary Stamina when you use a         |
 |           | heroic ability.                                    |
 
-## RADEN
+#### RADEN
 
 With this stormwight kit, you channel your primordial rage into the form of a rat. Raden are associated with the true nature of the rat, before cities became their habitat. This aspect is associated with the rat flood.
 
-#### ASPECT BENEFITS
+##### ASPECT BENEFITS
 
 You gain an edge on tests made to hide and sneak. Additionally, you ignore difficult terrain.
 
-### ANIMAL FORM: RAT
+##### ANIMAL FORM: RAT
 
 When you are in your rat form, your size becomes 1T and your speed gains the Climb keyword. You can use the Hide maneuver as a free maneuver, and you can use your allies as cover when hiding. You can stay hidden while you move through any square occupied by a creature and gain an edge on tests made to climb other creatures.
 
-### HYBRID FORM: RAT
+##### HYBRID FORM: RAT
 
 When you are in your hybrid form, your size becomes your choice of 1S or 1M.
 
 Once you reach 4th level, your speed gains the Climb keyword in hybrid form.
 
-### PRIMORDIAL STORM: RAT FLOOD
+##### PRIMORDIAL STORM: RAT FLOOD
 
 Your primordial damage type is corruption.
 
-### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +3
 - **Speed Bonus:** +3
 - **Melee Weapon Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### DRIVING POUNCE
 
@@ -9744,36 +9744,36 @@ As your rage grows, you gain benefits as noted on the Raden Growing Rage table. 
 |            | o Gain 10 Temporary Stamina when you use a          |
 |            | heroic ability.                                     |
 
-## VUKEN
+#### VUKEN
 
 With this stormwight kit, you channel your primordial rage into the form of a wolf. Vuken are tied to forests and open steppes, and this aspect is associated with the thunderstorm.
 
-#### ASPECT BENEFITS
+##### ASPECT BENEFITS
 
 Whenever you take the Knockback maneuver you can also take the Aid Attack maneuver as a free triggered action.
 
-#### ANIMAL FORM: WOLF
+##### ANIMAL FORM: WOLF
 
 When you are in your wolf form, your size becomes 1L if it isn't already, you gain a +2 bonus to speed, and you ignore difficult terrain.
 
-### HYBRID FORM: WOLF
+##### HYBRID FORM: WOLF
 
 When you are in your hybrid form, your size becomes 1L if it isn't already, you gain a +2 bonus to speed, and you ignore difficult terrain.
 
 Once you reach 4th level, the first time you take hybrid form in an encounter you gain 10 Temporary Stamina.
 
-#### PRIMORDIAL STORM: LIGHTNING STORM
+##### PRIMORDIAL STORM: LIGHTNING STORM
 
 Your primordial damage type is lightning.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +9
 - **Speed Bonus:** +2
 - **Melee Weapon Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### PROBING ATTACK
 
@@ -9787,7 +9787,7 @@ Your primordial damage type is lightning.
 - *12-16:* 7 + M **damage;** A \< average\*\*, prone\*\*
 - *17+:* 9 + M **damage;** A \< strong\*\*, prone\*\*
 
-### GROWING RAGE
+#### GROWING RAGE
 
 As your rage grows, you gain benefits as noted on the Vuken Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -9810,7 +9810,7 @@ As your rage grows, you gain benefits as noted on the Vuken Growing Rage table. 
 | 10)       | o Gain 10 Temporary Stamina when you use a            |
 |           | heroic ability.                                       |
 
-# NULL
+## NULL
 
 The mind is not separate from the body. Perfection of one requires perfection of the other. You strive for perfect discipline, perfect order, mastery over mind and body. You require no weapons, no tools. Any tool can be turned against the hand that wields it. You suffice.
 
@@ -9818,7 +9818,7 @@ As you strive for perfect order, you become an enemy of that ultimate expression
 
 The null is an unarmed psionic warrior who dampens and absorbs the effects of magic and psionics. You need no weapon because you are the weapon. Play a null if you want to resist the supernatural forces of the universe with expert calm and confidence.
 
-## BASICS
+### BASICS
 
 **Starting Characteristics:** You start with an Agility of 2 and an Intuition of 2, and can choose one of the following arrays for your other characteristics scores:
 
@@ -9892,11 +9892,11 @@ The null is an unarmed psionic warrior who dampens and absorbs the effects of ma
 |      | Order, Perk, Skill      |                |          |
 |      | Increase                |                |          |
 
-## 1ST-LEVEL FEATURES
+### 1ST-LEVEL FEATURES
 
 As a null, you gain the following features.
 
-### NULL TRADITION
+#### NULL TRADITION
 
 Through extensive physical and psionic training, you have learned to unlock the full potential of your body. As you shape the growth of your power, you choose a null tradition from the following options, each of which grants you a skill (*Quick Build:* Chronokinetic):
 
@@ -9906,23 +9906,23 @@ Through extensive physical and psionic training, you have learned to unlock the 
 
 Your choice of null tradition determines many of the features you'll gain from this class.
 
-## DISCIPLINE
+#### DISCIPLINE
 
 As your mastery of your body and tradition grows, it imbues you with a Heroic Resource called discipline.
 
-#### DISCIPLINE IN COMBAT
+##### DISCIPLINE IN COMBAT
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain discipline equal to your Victories. At the start of each of your turns during combat, you gain 2 discipline. Additionally, you gain 1 discipline the first time in a round an enemy in your null field takes an action. You gain 1 discipline the first time in a round that an enemy
 
 uses Malice. You lose any remaining discipline at the end of the encounter.
 
-#### DISCIPLINE OUTSIDE OF COMBAT
+##### DISCIPLINE OUTSIDE OF COMBAT
 
 Though you can't gain discipline outside of combat, you can use your heroic abilities and effects that cost discipline without spending it. Whenever you use an ability or effect outside of combat that costs discipline, you can't use that same ability or effect outside of combat again until you gain at least 1 Victory or finish a Respite.
 
 If you use an ability outside of combat that lets you spend unlimited discipline on its effect, you can use it as if you had spent an amount of discipline on it equal to your Victories. (Such abilities aren't part of the core rules for the null but might appear in future products.)
 
-## NULL FIELD
+#### NULL FIELD
 
 You project a psionic field of order around your body, dampening the effects of supernatural abilities harmful to you and your allies.
 
@@ -9942,7 +9942,7 @@ Once as a free maneuver on your turn, you can spend 1 discipline and give your N
 
 This ability stays active even after encounters end. It ends if you are dying or if you willingly end it (no action required).
 
-## INERTIAL SHIELD
+#### INERTIAL SHIELD
 
 Your instincts for danger let you predict attacks before they happen.
 
@@ -9956,11 +9956,11 @@ Your instincts for danger let you predict attacks before they happen.
 
 **Spend 1 Discipline:** You decrease the potency of one effect associated with the damage for you by 1.
 
-## DISCIPLINE MASTERY
+#### DISCIPLINE MASTERY
 
 The more discipline you channel through your chosen null tradition, the more potent your presence in combat becomes.
 
-### CHRONOKINETIC MASTERY
+##### CHRONOKINETIC MASTERY
 
 You can use the Disengage move action as a free maneuver when you use Inertial Shield.
 
@@ -9986,7 +9986,7 @@ As your discipline grows, your psionic mastery of your body intensifies, grantin
 |            | o You gain 10 Temporary Stamina when you use a       |
 |            | heroic ability.                                      |
 
-#### CRYOKINETIC MASTERY
+##### CRYOKINETIC MASTERY
 
 You can use the Grab maneuver as a free triggered action whenever you use Inertial Shield.
 
@@ -10013,7 +10013,7 @@ As your discipline grows, your psionic mastery of your body intensifies, grantin
 |            | o You gain 10 Temporary Stamina when you use a       |
 |            | heroic ability.                                      |
 
-### METAKINETIC MASTERY
+##### METAKINETIC MASTERY
 
 You can use the Knockback maneuver as a free triggered action whenever you use Inertial Shield.
 
@@ -10040,35 +10040,35 @@ As your discipline grows, your psionic mastery of your body intensifies, grantin
 |            | o Gain 10 Temporary Stamina when you use a         |
 |            | heroic ability.                                    |
 
-## NULL SPEED
+#### NULL SPEED
 
 Your psionic mastery of your body allows you to achieve great quickness. You gain a bonus to your speed and a bonus to the number of squares you shift when you take the Disengage move action equal to your Agility score.
 
-## PSIONIC AUGMENTATION
+#### PSIONIC AUGMENTATION
 
 Your training has turned your body into the perfect psionic weapon, shaping pathways in your mind that enhance your physical form. Choose one of the following augmentations. You can change your focus by undergoing a psionic meditation as a respite activity. (*Quick Build:* Speed Augmentation)
 
-#### DENSITY AUGMENTATION
+##### DENSITY AUGMENTATION
 
 You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
 
-### FORCE AUGMENTATION
+##### FORCE AUGMENTATION
 
 You gain a +1 rolled damage bonus with damage-dealing psionic abilities.
 
-#### SPEED AUGMENTATION
+##### SPEED AUGMENTATION
 
 You gain a +1 bonus to speed and to the distance you shift when you take the Disengage move action.
 
-## PSIONIC MARTIAL ARTS
+#### PSIONIC MARTIAL ARTS
 
 When you use the Knockback or Grab maneuver, you use Intuition instead of Might for the power roll. If you use Knockback, you can choose to slide the target instead of pushing them.
 
-### NULL ABILITIES
+#### NULL ABILITIES
 
 You rely on a unique blend of martial techniques and psionic prowess to take down your foes and defend your allies.
 
-#### SIGNATURE ABILITIES
+##### SIGNATURE ABILITIES
 
 Select two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Faster than the Eye, Inertial Step)
 
@@ -10175,11 +10175,11 @@ Select two signature abilities from the following options. Signature abilities c
 - *12-16:* 7 + A **damage;** A \< average\*\*, weakened (save ends)\*\*
 - *17+:* 9 + A **damage;** A \< strong\*\*, weakened (save ends)\*\*
 
-#### HEROIC ABILITIES
+##### HEROIC ABILITIES
 
 You have mastered a range of heroic abilities, all of them channeled through your discipline.
 
-#### 3-DISCIPLINE ABILITY
+###### 3-DISCIPLINE ABILITY
 
 Choose one heroic ability from the following options, each of which costs 3 discipline to use. (*Quick Build:* Chronal Spike)
 
@@ -10231,7 +10231,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 - *12-16:* **5 + A damage;** I \< average, **dazed and slowed (save ends)**
 - *17+:* **7 + A damage;** I \< strong, **dazed and slowed (save ends)**
 
-#### 5-DISCIPLINE ABILITY
+###### 5-DISCIPLINE ABILITY
 
 Choose one heroic ability from the following options, each of which costs 5 discipline to use. (*Quick Build:* A Squad Unto Myself)
 
@@ -10291,15 +10291,15 @@ IMPART FORCE (5 DISCIPLINE)
 
 **Effect:** You can take the Disengage move action as a free maneuver before or after you make this ability.
 
-## 2ND-LEVEL FEATURES
+### 2ND-LEVEL FEATURES
 
 As a 2nd-level null, you gain the following features.
 
-## PERK
+#### PERK
 
 You gain an exploration, interpersonal, or intrigue perk of your choice. See Perks for more information.
 
-## 2ND-LEVEL TRADITION FEATURE
+#### 2ND-LEVEL TRADITION FEATURE
 
 Your chosen null tradition grants you a feature as shown on the 2nd-Level Tradition Features table.
 
@@ -10311,25 +10311,25 @@ Your chosen null tradition grants you a feature as shown on the 2nd-Level Tradit
 | Cryokinetic   | Entropic Adaptability |
 | Metakinetic   | Inertial Sink         |
 
-#### ENTROPIC ADAPTABILITY
+##### ENTROPIC ADAPTABILITY
 
 You ignore difficult terrain related to cold and ice, and you can automatically climb at full speed while moving. Additionally, you have cold immunity equal to twice your Intuition score.
 
-#### INERTIAL SINK
+##### INERTIAL SINK
 
 You add your Intuition score to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on your ability to be grabbed.
 
 Additionally, you have forced movement damage immunity equal to your level and reduce the distance of your falls by an additional 5 squares.
 
-#### RAPID PROCESSING
+##### RAPID PROCESSING
 
 As a maneuver, you can read an entire book or process a similar amount of information. Additionally, during any respite, you can take an additional respite activity.
 
-## 2ND-LEVEL TRADITION ABILITY
+#### 2ND-LEVEL TRADITION ABILITY
 
 Your null tradition grants your choice of one of two abilities.
 
-#### 2ND-LEVEL CHRONOKINETIC ABILITY
+##### 2ND-LEVEL CHRONOKINETIC ABILITY
 
 Choose one of the following abilities.
 
@@ -10352,7 +10352,7 @@ BLUR (5 DISCIPLINE)
 - *12-16:* **12 + A damage; slide 3**
 - *17+:* **16 + A damage; slide 5**
 
-#### 2ND-LEVEL CRYOKINETIC ABILITY
+##### 2ND-LEVEL CRYOKINETIC ABILITY
 
 Choose one of the following abilities.
 
@@ -10380,7 +10380,7 @@ ENTROPIC FIELD (5 DISCIPLINE)
 
 **Effect:** Until the start of your next turn, the area of your Null Field ability increases by 1. While the area is enlarged this way, you and your allies benefit from concealment while in the area. When you end your turn, each enemy in the aura takes cold damage equal to your Intuition score.
 
-#### 2ND-LEVEL METAKINETIC ABILITY
+##### 2ND-LEVEL METAKINETIC ABILITY
 
 Choose one of the following abilities.
 
@@ -10408,19 +10408,19 @@ KINETIC SHIELD (5 DISCIPLINE)
 
 **Effect:** While you have this temporary Stamina, you can't be made bleeding.
 
-## 3RD-LEVEL FEATURES
+### 3RD-LEVEL FEATURES
 
 As a 3rd-level null, you gain the following features.
 
-### PSIONIC LEAP
+#### PSIONIC LEAP
 
 You can long and high jump a distance equal to twice your Agility score without needing to make a test.
 
-### REORDER
+#### REORDER
 
 Each time you start your turn, you can use a free triggered action to end one effect on you or another creature in the area of your Null Field ability.
 
-### 7-DISCIPLINE ABILITY
+#### 7-DISCIPLINE ABILITY
 
 Choose one heroic ability from the following options, each of which costs 7 discipline to use.
 
@@ -10457,41 +10457,41 @@ MOLECULAR REARRANGEMENT FIELD (7 DISCIPLINE)
 
 **Effect:** Until the end of the encounter, the area of your Null Field ability increases by 1. While the area is enlarged this way, enemies who take damage in the area taken additional psychic damage equal to twice your Intuition score.
 
-## 4TH-LEVEL FEATURES
+### 4TH-LEVEL FEATURES
 
 As a 4th-level null, you gain the following features.
 
-## CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 Your Agility and Intuition scores increase to 3.
 
-### DISCIPLINE MASTERY IMPROVEMENT
+#### DISCIPLINE MASTERY IMPROVEMENT
 
 Your Discipline Mastery feature gains additional benefits when you have 8 or more discipline.
 
-## ENHANCED NULL FIELD
+#### ENHANCED NULL FIELD
 
 When using your Null Field, you disrupt ongoing magical effects. Any magical terrain effects during combat of your level or lower are removed when your aura partially or
 
 fully enters overlaps with their location. Permanent magical effects of your level or lower are disrupted while your aura overlaps, but return when the aura no longer overlaps.
 
-### PERK
+#### PERK
 
 You gain any one perk of your choice. See Perks for more information.
 
-### REGENERATIVE FIELD
+#### REGENERATIVE FIELD
 
 You gain 2 discipline the first time in a round an enemy in your null field uses an action, instead of 1 discipline.
 
-### SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## 5TH-LEVEL FEATURES
+### 5TH-LEVEL FEATURES
 
 As a 5th-level null, you gain the following features.
 
-### 5TH-LEVEL TRADITION FEATURE
+#### 5TH-LEVEL TRADITION FEATURE
 
 As a 5th-level null, you gain the following features based on your tradition.
 
@@ -10503,21 +10503,21 @@ As a 5th-level null, you gain the following features based on your tradition.
 | Cryokinetic   | Chilling Readiness |
 | Metakinetic   | Inertial Fulcrum   |
 
-#### CHILLING READINESS
+##### CHILLING READINESS
 
 You can steel yourself for imminent danger by tapping into your body's cold energy. You gain surges equal to your Victories at the start of combat.
 
-#### INERTIAL FULCRUM
+##### INERTIAL FULCRUM
 
 Whenever you reduce damage, such as with Inertial Shield, or forced movement, you can make an enemy in your Null field take your damage equal to your Intuition score.
 
-#### INSTANT ACTION
+##### INSTANT ACTION
 
 If you are not surprised, you can take your first turn in combat before any other creature goes. If you are surprised, you can spend 3 discipline to no longer be surprised and still go first. You have an edge on ability power rolls on your first turn of combat if you go first.
 
 If the heroes have more than hero with this feature, only one can benefit from the ability per encounter. Any other nulls instead can take a Disengage move action as a free triggered action before the first turn.
 
-## 9-DISCIPLINE ABILITIES
+#### 9-DISCIPLINE ABILITIES
 
 Choose one heroic ability from the following options.
 
@@ -10565,27 +10565,27 @@ SYNAPTIC RESET (9 DISCIPLINE)
 
 **Effect:** Each target can end any number of conditions or effects that are affecting them. Each target gains 5 Temporary Stamina for every condition or effect removed.
 
-## 6TH-LEVEL FEATURES
+### 6TH-LEVEL FEATURES
 
 As a 6th-level null, you gain the following features.
 
-### ELEMENTAL ABSORPTION
+#### ELEMENTAL ABSORPTION
 
 When using the Inertial Shield triggered action you gain immunity to acid, cold, corruption, fire, lightning, poison, and sonic damage equal to your Intuition score against the triggering damage.
 
-## ELEMENTAL BUFFER
+#### ELEMENTAL BUFFER
 
 Whenever you reduce acid, cold, corruption, fire, lightning, poison, or sonic damage with damage immunity, you gain two surges which you must use to add damage on your next strike.
 
-## PERK
+#### PERK
 
 You gain an exploration, interpersonal, or intrigue perk of your choice. See Perks for more information.
 
-## 6TH-LEVEL TRADITION ABILITY
+#### 6TH-LEVEL TRADITION ABILITY
 
 Your specialization grants your choice of one of two abilities.
 
-#### 6TH-LEVEL CHRONOKINETIC ABILITIES
+##### 6TH-LEVEL CHRONOKINETIC ABILITIES
 
 Choose one of the following abilities.
 
@@ -10613,7 +10613,7 @@ Choose one of the following abilities.
 - *12-16:* **8 damage; M \< \[average\] dazed**
 - *17+:* **12 damage; M \< \[strong\] dazed**
 
-#### 6TH-LEVEL CRYOKINETIC ABILITIES
+##### 6TH-LEVEL CRYOKINETIC ABILITIES
 
 Choose one of the following abilities.
 
@@ -10637,7 +10637,7 @@ Choose one of the following abilities.
 
 **Effect:** You can place this wall in occupied squares, with each creature in an affected place sliding to the nearest unoccupied square of your choice. The wall lasts until the end of the encounter or you are dying. The wall squares count as stone squares for purposes of damage. You can move freely through the wall squares. Any enemy that enters a square adjacent to the wall is **M \< \[average\] slowed (save ends)**. Any enemy that is force moved into the wall is **M \< \[average\] restrained (save ends)**.
 
-#### 6TH-LEVEL METAKINETIC ABILITIES
+##### 6TH-LEVEL METAKINETIC ABILITIES
 
 Choose one of the following abilities.
 
@@ -10663,63 +10663,63 @@ Choose one of the following abilities.
 
 **Effect:** You gain 20 Temporary Stamina. Your Stability increases by your Intuition score until the end of the encounter.
 
-## 7TH-LEVEL FEATURES
+### 7TH-LEVEL FEATURES
 
 As a 7th-level null, you gain the following features.
 
-## CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 All of your characteristics increase by 1, to a maximum score of 4.
 
-## DISCIPLINE MASTERY IMPROVEMENT
+#### DISCIPLINE MASTERY IMPROVEMENT
 
 Your Discipline Mastery feature gains additional benefits when you have 10 or more discipline.
 
-## PSI BOOST
+#### PSI BOOST
 
 Whenever you use a psionic action or maneuver, you can spend additional clarity to apply a Psi Boost to it and enhance its effects. You can apply multiple Psi Boosts to an action, but only 1 instance of each Psi Boost. You have access to the following Psi Boosts:
 
-#### SHARPENED POWER (1 DISCIPLINE)
+##### SHARPENED POWER (1 DISCIPLINE)
 
 If the action features a power roll, you have an edge on the roll.
 
-#### HEIGHTENED POWER (1 DISCIPLINE)
+##### HEIGHTENED POWER (1 DISCIPLINE)
 
 If the action deals damage, you deal additional damage equal to your Intuition score.
 
-#### EXTENDED POWER (1 DISCIPLINE)
+##### EXTENDED POWER (1 DISCIPLINE)
 
 If the action is ranged, you can extend the distance by a number of squares equal to your Intuition score. If the action is melee, you can extend the distance by 2.
 
-#### DYNAMIC POWER (1 DISCIPLINE)
+##### DYNAMIC POWER (1 DISCIPLINE)
 
 If the action force moves a target, you can increase the force movement effects by a number of squares equal to your Intuition score.
 
-#### EXPANDED POWER (3 DISCIPLINE)
+##### EXPANDED POWER (3 DISCIPLINE)
 
 If the action targets an area, you can increase the area by 1.
 
-#### SHARED POWER (5 DISCIPLINE)
+##### SHARED POWER (5 DISCIPLINE)
 
 If the action targets individual creatures or objects, you can target 1 additional target within distance.
 
-#### MAGNIFIED POWER (5 DISCIPLINE)
+##### MAGNIFIED POWER (5 DISCIPLINE)
 
 Increase the potency of an effect by your Intuition score.
 
-### IMPROVED BODY
+#### IMPROVED BODY
 
 When you gain discipline at the start of your turn, you gain 3 discipline instead of 2.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## 8TH-LEVEL FEATURES
+### 8TH-LEVEL FEATURES
 
 As an 8th-level null, you gain the following features.
 
-## 8TH-LEVEL TRADITION FEATURE
+#### 8TH-LEVEL TRADITION FEATURE
 
 As a 8th-level null, you gain the following features based on your tradition.
 
@@ -10731,23 +10731,23 @@ As a 8th-level null, you gain the following features based on your tradition.
 | Cryokinetic   | Synaptic Triage    |
 | Metakinetic   | Intertial Dampener |
 
-#### INERTIAL DAMPENER
+##### INERTIAL DAMPENER
 
 You, and any creatures or objects of your choice in your null field, gain Stability equal to your Intuition score. Creatures that attempt to force move a creature or object you are providing Stability to immediately take psychic damage equal to your Intuition score.
 
-### SHARED MOMENTUM
+##### SHARED MOMENTUM
 
 When you take the Disengage move action, an ally of your choice in your null field can also take the Disengage move action as a free triggered action, using your Disengage distance.
 
-#### SYNAPTIC TRIAGE
+##### SYNAPTIC TRIAGE
 
 You, and any creatures of your choice within your null field, can spend 1d6 Stamina to remove any effect on themselves as a free maneuver.
 
-## PERK
+#### PERK
 
 You gain any one perk of your choice. See Perks for more information.
 
-## 11-DISCIPLINE ABILITIES
+#### 11-DISCIPLINE ABILITIES
 
 Choose one heroic ability from the following options.
 
@@ -10797,19 +10797,19 @@ SYNAPTIC ANCHOR (11 DISCIPLINE)
 
 **Effect:** You halve the damage, and the creature who used the triggering ability suffers **I \< \[average\] dazed (save ends).** While the attacker is dazed, they take psychic damage equal to your Intuition score whenever they take an action.
 
-## 9TH-LEVEL FEATURES
+### 9TH-LEVEL FEATURES
 
 As a 9th-level null, you gain the following features.
 
-## I AM THE WEAPON
+#### I AM THE WEAPON
 
 You gain 21 Stamina and are immune to bleeding. You no longer age or have need of food. You now add your Intuition to all of your statistics when resisting an effect.
 
-## 9TH-LEVEL TRADITION ABILITY
+#### 9TH-LEVEL TRADITION ABILITY
 
 Your specialization grants your choice of one of two abilities.
 
-#### 9TH-LEVEL CHRONOKINETIC ABILITIES
+##### 9TH-LEVEL CHRONOKINETIC ABILITIES
 
 Choose one of the following abilities.
 
@@ -10872,7 +10872,7 @@ HEAT SINK (11 DISCIPLINE)
 
 **Effect:** When the target damages another creature while restrained this way, any potency associated with the damage is reduced by 2. While restrained, the target takes cold damage equal to your Intuition score at the start of each of your turns.
 
-#### 9TH-LEVEL METAKINETIC ABILITIES
+##### 9TH-LEVEL METAKINETIC ABILITIES
 
 Choose one of the following abilities.
 
@@ -10900,23 +10900,23 @@ o *11 or lower:* **7 + A psychic damage; I \< \[weak\] dazed**
 
 **Effect:** While dazed, the target takes psychic damage equal to twice your Intuition score at the start of each of your turns. If this ability winds a non-leader or non-solo creature, they are instead reduced to 0 Stamina. Any creature reduced to 0 Stamina by any aspect of this ability is forgotten by all creatures of your level or lower in the timescape not present at the encounter. Loved ones of the forgotten creature retain a faint sense of melancholy.
 
-## 10TH-LEVEL FEATURES
+### 10TH-LEVEL FEATURES
 
 As a 10th-level null, you gain the following features.
 
-### CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 Your Agility and Intuition scores increase to 5.
 
-## DISCIPLINE MASTERY IMPROVEMENT
+#### DISCIPLINE MASTERY IMPROVEMENT
 
 Your Discipline Mastery feature gains additional benefits when you have 12 or more discipline.
 
-## MANIFOLD BODY
+#### MANIFOLD BODY
 
 When you gain discipline at the start of your turn, you gain 4 discipline instead of 3.
 
-### MANIFOLD RESONANCE
+#### MANIFOLD RESONANCE
 
 Your body becomes perfected matter, beyond the whims and chaos of the timescape and the restrictions of the manifolds. When you take a respite, you can shift yourself and any creatures within your null field to any other location in the timescape known to you, known to any creature in your null field, or where any treasure in your null field has been before.
 
@@ -10924,7 +10924,7 @@ Additionally, you and allies in your null field ignore all banes.
 
 You also receive one free discipline per action that can be used for psi boosts.
 
-## ORDER
+#### ORDER
 
 You gain an epic resource called order. When you take a Respite, you gain order equal to the XP you gain. You can spend order as if it were discipline on abilities you have.
 
@@ -10932,21 +10932,21 @@ You can spend 1 order at the start of a combat encounter to increase your Null F
 
 Order remains until you spend it.
 
-## PERK
+#### PERK
 
 You gain an exploration, interpersonal, or intrigue perk of your choice. See Perks for more information.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-# SHADOW
+## SHADOW
 
 Subtlety is your art, the tip of the blade your brush. You studied at a secret college, specializing in alchemy, illusion, or shadow-magics. Your training and knowledge places you among the elite assassins, spies, and commandos. But more powerful than any weapon or sorcery is your insight into your enemies' weaknesses.
 
 As a shadow, you have abilities that deal a lot of damage, let you move swiftly across the battlefield and away from hazards, and allow you to fade from notice even in the middle of the most heated combat encounter. You also possess more skills than any other hero.
 
-## BASICS
+### BASICS
 
 **Starting Characteristics:** You start with an Agility of 2, and can choose one of the following arrays for your other characteristics scores:
 
@@ -11011,11 +11011,11 @@ As a shadow, you have abilities that deal a lot of damage, let you move swiftly 
 |      | Improvement, Tricks, Vile  |             |          |
 |      | Form                       |             |          |
 
-## 1ST-LEVEL FEATURES
+### 1ST-LEVEL FEATURES
 
 As a shadow, you gain the following features.
 
-## SHADOW COLLEGE
+#### SHADOW COLLEGE
 
 Shadow colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out or are kicked out--as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
@@ -11027,23 +11027,23 @@ You graduated from a shadow college chosen from the following options, each of w
 
 Your choice of shadow college determines many of the features you'll gain from this class.
 
-## INSIGHT
+#### INSIGHT
 
 By observing your enemy, you learn how to use their weaknesses against them, building up a Heroic Resource called insight.
 
-#### INSIGHT IN COMBAT
+##### INSIGHT IN COMBAT
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain insight equal to your Victories. At the start of each of your turns during combat, you gain 1d3 insight. The first time each round that you deal damage with at least one surge, you gain 1 insight. You lose any remaining insight at the end of the encounter.
 
 When you use a heroic ability that has a power roll, that ability costs 1 less insight if you have an edge or double edge on it. If the ability has multiple targets, the cost is reduced even if the ability has an edge or double edge against only one target.
 
-### INSIGHT OUTSIDE OF COMBAT
+##### INSIGHT OUTSIDE OF COMBAT
 
 Though you can't gain insight outside of combat, you can use your heroic abilities and effects that cost insight without spending it. Whenever you use an ability or effect outside of combat that costs insight, you can't use that same ability or effect outside of combat again until you gain at least 1 Victory or finish a Respite.
 
 If you use an ability outside of combat that lets you spend unlimited insight on its effect, such as Black Ash Teleport, you can use it as if you had spent an amount of insight on it equal to your Victories.
 
-## 1ST-LEVEL COLLEGE FEATURES
+#### 1ST-LEVEL COLLEGE FEATURES
 
 Your choice of shadow college grants you one or more features as shown on the 1st-Level College Features table.
 
@@ -11055,7 +11055,7 @@ Your choice of shadow college grants you one or more features as shown on the 1s
 | Caustic Alchemy | Coat the Blade, Smoke Bomb |
 | Harlequin Mask  | I'm No Threat              |
 
-#### BLACK ASH TELEPORT
+##### BLACK ASH TELEPORT
 
 You gain the following ability.
 
@@ -11071,11 +11071,11 @@ BLACK ASH TELEPORT
 
 **Spend 1+ Insight:** You teleport 1 additional square for each insight spent.
 
-#### COAT THE BLADE
+##### COAT THE BLADE
 
 You gain the following ability.
 
-#### COAT THE BLADE
+##### COAT THE BLADE
 
 *Just a little poison goes a long way.*
 
@@ -11103,11 +11103,11 @@ The illusion ends when you harm another creature, when you and any creature phys
 
 **Spend 1 Insight:** Choose a creature whose size is no more than 1 greater than yours, and who is within 10 squares of you. This ability's illusion makes you appear to be that creature. This illusion covers your entire body, including clothing and armor, and changes your voice to sound like the creature. You gain an edge on tests made to convince the creature's allies that you are the creature.
 
-#### SMOKE BOMB
+##### SMOKE BOMB
 
 You always carry a supply of smoke bombs to make it easy for you to distract and get away from foes. You can use the Hide maneuver even if you are observed and don't initially have cover or concealment. When you do so, you can shift a number of squares equal to your Agility score. If you end this movement with cover or concealment, you are hidden.
 
-## COLLEGE TRIGGERED ACTION
+#### COLLEGE TRIGGERED ACTION
 
 Your shadow college grants you a triggered action as shown on the College Triggered Actions table.
 
@@ -11153,7 +11153,7 @@ DEFENSIVE ROLL
 
 **Spend 1+ Insight:** You teleport 1 additional square for each insight spent.
 
-## HESITATION IS WEAKNESS
+#### HESITATION IS WEAKNESS
 
 You gain the following ability.
 
@@ -11167,15 +11167,15 @@ have used this ability to start their turn.
 
 **Effect:** You take your turn after the triggering hero.
 
-## KIT
+#### KIT
 
 You can use and gain the benefits of a kit. See the Kits chapter for more information. (*Quick Build:* Cloak and Dagger)
 
-## SHADOW ABILITIES
+#### SHADOW ABILITIES
 
 You specialize in dealing damage, then getting out of harm's way before the inevitable counterattack. You know a number of unique martial abilities that define your presence on the battlefield.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Teamwork Has Its Place)
 
@@ -11239,11 +11239,11 @@ YOU WERE WATCHING THE WRONG ONE
 
 **Effect:** As long as you have at least one ally within 5 squares of the target, you gain a surge. If you are flanking the target when you use this ability, choose one ally who is flanking with you. That ally also gain a surge.
 
-#### HEROIC ABILITIES
+##### HEROIC ABILITIES
 
 A range of heroic abilities define your combat prowess, all of which make use of your insight.
 
-#### 3-INSIGHT ABILITY
+###### 3-INSIGHT ABILITY
 
 Choose one heroic ability from the following options, each of which costs 3 insight to use. (*Quick Build:* Get In Get Out)
 
@@ -11297,7 +11297,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 - *12-16:* **6 damage**
 - *17+:* **10 damage**
 
-#### 5-INSIGHT ABILITY
+###### 5-INSIGHT ABILITY
 
 Choose one heroic ability from the following options, each of which costs 5 insight to use. (*Quick Build:* Coup de Grace)
 
@@ -11345,11 +11345,11 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 
 **Distance:** Self; see below **Target:** Self **Effect:** You make two signature strikes.
 
-## 2ND-LEVEL FEATURES
+### 2ND-LEVEL FEATURES
 
 As a 2nd-level shadow, you gain the following features.
 
-### 2ND-LEVEL COLLEGE FEATURE
+#### 2ND-LEVEL COLLEGE FEATURE
 
 Your shadow college grants you a feature as shown on the 2nd-Level College Features table.
 
@@ -11361,29 +11361,29 @@ Your shadow college grants you a feature as shown on the 2nd-Level College Featu
 | Caustic Alchemy | Trained Assassin |
 | Harlequin Mask  | Friend!          |
 
-#### BURNING ASH
+##### BURNING ASH
 
 The ash you leave behind burns your foes. The first time on a turn that you use a shadow ability to teleport away from or into a space adjacent to an enemy, that enemy takes fire damage equal to your Reason score.
 
-#### FRIEND!
+##### FRIEND!
 
 Your illusions make your enemies believe you are their friend in critical moments. Whenever an enemy uses an ability or trait that targets multiple allies and you are within distance of the effect, you can choose to be a target of the effect as well.
 
 Additionally when you use your I'm No Threat ability, you can take the Disengage move action as part of that ability.
 
-#### TRAINED ASSASSIN
+##### TRAINED ASSASSIN
 
 You know just where to cut your enemies. Whenever you make a strike with at least one surge and no banes, the strike gains an extra surge which you must use on that strike.
 
-### PERK
+#### PERK
 
 You gain an exploration, interpersonal, or intrigue perk of your choice. See Perks for more information.
 
-## 2ND-LEVEL COLLEGE ABILITY
+#### 2ND-LEVEL COLLEGE ABILITY
 
 Your shadow college grants your choice of one of two abilities.
 
-### 2ND-LEVEL BLACK ASH ABILITY
+##### 2ND-LEVEL BLACK ASH ABILITY
 
 Choose one of the following abilities.
 
@@ -11415,7 +11415,7 @@ TOO SLOW (5 INSIGHT)
 
 **Effect:** You avoid any effects associated with the damage that triggered your In All This Confusion ability. Before you teleport, you can make a free strike against a creature who damaged you to trigger In All This Confusion. After you teleport, you can spend a Recovery.
 
-#### 2ND-LEVEL CAUSTIC ALCHEMY ABILITY
+##### 2ND-LEVEL CAUSTIC ALCHEMY ABILITY
 
 Choose one of the following abilities.
 
@@ -11451,7 +11451,7 @@ Choose one of the following abilities.
 
 **Effect:** The gas remains in the area until the end of the encounter. Any creature who has **M \< average** and starts their turn in the area is weakened (save ends).
 
-#### 2ND-LEVEL HARLEQUIN MASK ABILITY
+##### 2ND-LEVEL HARLEQUIN MASK ABILITY
 
 Choose one of the following abilities.
 
@@ -11481,11 +11481,11 @@ SO GULLIBLE (5 INSIGHT)
 
 **Effect:** You use your Clever Trick ability with no insight cost, causing the creature who made the triggering strike to target an illusory image of you. You appear in an unoccupied space within 3 squares of that creature and can make a free strike against them. You can then spend a Recovery.
 
-## 3RD-LEVEL FEATURES
+### 3RD-LEVEL FEATURES
 
 As a 3rd-level shadow, you gain the following features.
 
-## CAREFUL OBSERVATION
+#### CAREFUL OBSERVATION
 
 Given the opportunity to watch your foe, you can assess their vulnerabilities and pick the perfect moment to strike. You gain the following ability.
 
@@ -11499,7 +11499,7 @@ CAREFUL OBSERVATION
 
 maintain line of effect to them, and strike no other creature first, you gain a surge and an edge on the next strike you make against the assessed creature.
 
-## 7-INSIGHT ABILITY
+#### 7-INSIGHT ABILITY
 
 Choose one heroic ability from the following options, each of which costs 7 insight to use.
 
@@ -11547,19 +11547,19 @@ STAGGERING BLOW (7 INSIGHT)
 - *12-16:* **11 + A damage;** M \< average\*\*, prone and can't stand (save ends)\*\*
 - *17+:* **16 + A damage;** M \< strong\*\*, prone and can't stand (save ends)\*\*
 
-## 4TH-LEVEL FEATURES
+### 4TH-LEVEL FEATURES
 
 As a 4th-level shadow, you gain the following features.
 
-## CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 Your Agility score becomes 3. Additionally, you can increase one of your characteristic scores by 1, to a maximum score of 3.
 
-## KEEP IT DOWN
+#### KEEP IT DOWN
 
 While conversing with a creature you share a language with, you can decide whether anyone else beyond the two of you can perceive what you're conveying, even while yelling.
 
-## NIGHT WATCH
+#### NIGHT WATCH
 
 While you are hiding, you cause the area to absorb noise and blur minor movements, imposing a bane on creatures searching for hidden creatures within 10 squares of you. You also have access to the following triggered action.
 
@@ -11576,23 +11576,23 @@ ability while you are hidden.
 
 **Effect:** The damage is halved. You remain hidden.
 
-### PERK
+#### PERK
 
 You gain any one perk of your choice. See Perks for more information.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## YOUR PAIN MY GAIN
+#### YOUR PAIN MY GAIN
 
 When you gain insight from using a surge, you gain 1 additional insight for a total of 2.
 
-## 5TH-LEVEL FEATURES
+### 5TH-LEVEL FEATURES
 
 As a 5th-level shadow, you gain the following features.
 
-## 5TH-LEVEL COLLEGE FEATURE
+#### 5TH-LEVEL COLLEGE FEATURE
 
 Your specialization grants you a feature as shown on the 5th-Level Shadow College Features table.
 
@@ -11604,25 +11604,25 @@ Your specialization grants you a feature as shown on the 5th-Level Shadow Colleg
 | Caustic Alchemy | Volatile Reagents |
 | Harlequin Mask  | Harlequin Gambit  |
 
-### HARLEQUIN GAMBIT
+##### HARLEQUIN GAMBIT
 
 Whenever you reduce an adjacent non-minion creature to 0 Stamina, you can immediately use a free maneuver to use I'm No Threat and then move up to your speed.
 
 If the creature is size 1, you can disguise yourself as the creature with I'm No Threat without spending insight. If you do, while I'm No Threat is active, the creature's body is also disguised to look like your body. The illusion ends on their body when another creature physically interacts with it. When the illusion would end for either you or the creature's body, it ends for both.
 
-#### TRAIL OF CINDERS
+##### TRAIL OF CINDERS
 
 Whenever you reduce a non-minion creature to 0 Stamina, you can immediately use a free maneuver to use your Black Ash Teleport.
 
 Additionally, you can now bring a willing creature who is adjacent to you along with you whenever you use a shadow ability to teleport. The creature appears in an unoccupied space adjacent to the one you teleported into. If no such space exists, they can't teleport with you.
 
-#### VOLATILE REAGENTS
+##### VOLATILE REAGENTS
 
 Whenever you take damage, each enemy adjacent to you takes fire, acid, or poison damage (your choice) equal to your Agility score.
 
 Additionally, your Defensive Roll now allows you to shift 5 and during this movement you can move vertically. If you don't end this movement on solid ground and are not flying, you fall.
 
-## 9-INSIGHT ABILITIES
+#### 9-INSIGHT ABILITIES
 
 Choose one heroic ability from the following options.
 
@@ -11676,15 +11676,15 @@ Choose one heroic ability from the following options.
 
 **Effect:** The target cannot communicate with anyone until the end of the encounter.
 
-## 6TH-LEVEL FEATURES
+### 6TH-LEVEL FEATURES
 
 As a 6th-level shadow, you gain the following features.
 
-## PERK
+#### PERK
 
 You gain any one perk of your choice. See Perks for more information.
 
-## UMBRAL FORM
+#### UMBRAL FORM
 
 As a maneuver, you can lose control of yourself, becoming a merciless shadow creature dripping with ash. This transformation lasts either until the end of the encounter, you die, or quietly focus for 1 hour outside of combat. You gain the following effects while in this form:
 
@@ -11702,13 +11702,13 @@ o You have corruption immunity equal to 5 + your level.
 - other creatures.
     that creature.
 
-## 6TH-LEVEL COLLEGE ABILITY
+#### 6TH-LEVEL COLLEGE ABILITY
 
 o You gain a surge at the start of your turn.
 
 Your specialization grants your choice of one of two abilities.
 
-#### 6TH-LEVEL BLACK ASH ABILITIES
+##### 6TH-LEVEL BLACK ASH ABILITIES
 
 Choose one of the following abilities.
 
@@ -11734,7 +11734,7 @@ Choose one of the following abilities.
 
 **Effect:** All targets teleport up to 5 squares. Your Burning Ash feature extends to all targets. If a target ends this movement in concealment or cover, they can use the Hide maneuver even if they are observed.
 
-#### 6TH-LEVEL CAUSTIC ALCHEMY ABILITIES
+##### 6TH-LEVEL CAUSTIC ALCHEMY ABILITIES
 
 Choose one of the following abilities.
 
@@ -11764,7 +11764,7 @@ A creature that drinks a concerning concoction gains the effects of your power r
 - *12-16:* **The creature's speed gains the Fly keyword until the end of the encounter**
 - *17+:* **The creature turns invisible until the end** of **their next turn.**
 
-#### 6TH-LEVEL HARLEQUIN MASK ABILITIES
+##### 6TH-LEVEL HARLEQUIN MASK ABILITIES
 
 Choose one of the following abilities.
 
@@ -11786,35 +11786,35 @@ Choose one of the following abilities.
 
 **Effect:** If you are hidden or disguised, this action does not reveal yourself.
 
-## 7TH-LEVEL FEATURES
+### 7TH-LEVEL FEATURES
 
 As a 7th-level shadow, you gain the following features.
 
-## CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 All of your characteristics increase by 1, to a maximum score of 4.
 
-## KEEN INSIGHT
+#### KEEN INSIGHT
 
 When you gain insight at the start of your turn, gain 1d3 + 1 insight.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## STUDIED OBSERVATION
+#### STUDIED OBSERVATION
 
 You can now observe up to two creatures simultaneously with your Careful Observation maneuver. Damaging a creature you're observing does not cause the effects on other creatures you're observing to end.
 
-## VENTRILOQUIST
+#### VENTRILOQUIST
 
 Whenever you communicate, you can throw your voice and have it appear to come from a creature or object within 10. Talking in this way does not reveal your position while hiding.
 
-## 8TH-LEVEL FEATURES
+### 8TH-LEVEL FEATURES
 
 As an 8th-level shadow, you gain the following features.
 
-## 8TH-LEVEL COLLEGE FEATURE
+#### 8TH-LEVEL COLLEGE FEATURE
 
 Your specialization grants you a feature as shown on the 8th-Level Shadow College Features table.
 
@@ -11826,19 +11826,19 @@ Your specialization grants you a feature as shown on the 8th-Level Shadow Colleg
 | Caustic Alchemy | Time Bomb   |
 | Harlequin Mask  | Parkour     |
 
-#### CINDER STEP
+##### CINDER STEP
 
 Your movement gains the Teleport keyword. When you teleport this way, it counts as using a shadow ability for the purpose of Burning Ash and Trail of Cinders.
 
-#### PARKOUR
+##### PARKOUR
 
 Your movement no longer provokes opportunity attacks. Additionally, your Harlequin Gambit feature now also applies to creatures reduced to 0 Stamina by your Clever Trick ability.
 
-#### TIME BOMB
+##### TIME BOMB
 
 You have Area immunity equal to your Agility score. You also gain access to the following free maneuver, which you can use once per round on your turn.
 
-#### TIME BOMB
+##### TIME BOMB
 
 *The longer it cooks, the bigger the boom.*
 
@@ -11849,11 +11849,11 @@ For each round in combat that Time Bomb is not used, the area of the cube is inc
 
 **Spend Insight:** You increase the cube's size by 1 and add a surge to this ability (and only this ability) for every 2 insight spent.
 
-## PERK
+#### PERK
 
 You gain any one perk of your choice. See Perks for more information.
 
-## 11-INSIGHT ABILITIES
+#### 11-INSIGHT ABILITIES
 
 Choose one heroic ability from the following options.
 
@@ -11903,21 +11903,21 @@ SPEED OF SHADOWS (11 INSIGHT)
 - *12-16:* 18 **damage; M \< \[average\] slowed (save ends)**
 - *17+:* 24 **damage; M \< \[strong\] slowed (save ends)**
 
-## 9TH-LEVEL FEATURES
+### 9TH-LEVEL FEATURES
 
 As a 9th-level shadow, you gain the following features.
 
-## GLOOM SQUAD
+#### GLOOM SQUAD
 
 At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied spaces adjacent to you. A clone shares your turn, statistics, and current conditions and effects, except it has 1 Stamina and lasts until the start of your next turn. A clone cannot have insight, use signature strikes, use Careful Observation or Umbral Form or triggered actions, or use any abilities that cost insight. On their turn, a clone has a move action, maneuver, and an action, which they can use to take a free strike. While making a free strike, a clone must choose targets that you or another clone aren't also striking.
 
 Outside of combat, you can have 1 clone active for every 2 Victories you have. If a clone is destroyed, you must wait 1 hour before creating another one.
 
-### 9TH-LEVEL COLLEGE ABILITY
+#### 9TH-LEVEL COLLEGE ABILITY
 
 Your specialization grants your choice of one of two abilities.
 
-#### 9TH-LEVEL BLACK ASH ABILITIES
+##### 9TH-LEVEL BLACK ASH ABILITIES
 
 Choose one of the following abilities.
 
@@ -11952,7 +11952,7 @@ CACOPHONY OF CINDERS (11 INSIGHT)
 
 **Effect:** On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.
 
-#### 9TH-LEVEL CAUSTIC ALCHEMY ABILITIES
+##### 9TH-LEVEL CAUSTIC ALCHEMY ABILITIES
 
 Choose one of the following abilities.
 
@@ -11984,7 +11984,7 @@ Choose one of the following abilities.
 
 **Effect:** The ground in a 3 cube area beneath the target becomes difficult terrain.
 
-#### 9TH-LEVEL HARLEQUIN MASK ABILITIES
+##### 9TH-LEVEL HARLEQUIN MASK ABILITIES
 
 Choose one of the following abilities.
 
@@ -12018,15 +12018,15 @@ As a 10th -level shadow, you gain the following features.
 
 Your Agility score becomes 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum score of 5.
 
-## DEATH POOL
+#### DEATH POOL
 
 When you gain insight from having at least one surge on an ability, you gain 1 additional insight for a total of 3.
 
-### PERK
+#### PERK
 
 You gain any one perk of your choice. See Perks for more information.
 
-### SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
@@ -12034,7 +12034,7 @@ You gain one skill of your choice.
 
 You can now observe up to three creatures simultaneously with your Careful Observation maneuver.
 
-### TRICKS
+#### TRICKS
 
 You have an epic resource called tricks. When you take a Respite, you gain tricks equal to the XP you gain. You can spend tricks as if they were insight on abilities you have.
 
@@ -12042,17 +12042,17 @@ Additionally, you can spend tricks to take additional maneuvers on your turn. Yo
 
 Tricks remain until you spend them.
 
-## VILE FORM
+#### VILE FORM
 
 IT WAS ME ALL ALONG (11 INSIGHT) Your Umbral Form ability is now called Ville Form. You've gained full control over your shadow creature form and can deactivate it at will (no action required). Additionally, you are always in concealment while in this form, keeping you wreathed in darkness, and enemies no longer have an edge on strikes against you because of the form.
 
-# TACTICIAN
+## TACTICIAN
 
 Strategist. Defender. Leader. With sword in hand, you lead allies into the maw of battle, barking out commands that inspire your fellow heroes to move faster and strike more precisely. All the while, you stand between your compatriots and death, taunting the followers of evil to best you if they can.
 
 As a tactician, you have abilities that heal your allies and grant them increased damage, movement, and attacks.
 
-## BASICS
+### BASICS
 
 **Starting Characteristics:** You start with a Might of 2 and a Reason of 2, and can choose one of the following arrays for your other characteristics scores:
 
@@ -12118,11 +12118,11 @@ As a tactician, you have abilities that heal your allies and grant them increase
 |      | Focus, Skill Increase, |                |          |
 |      | Warmaster              |                |          |
 
-## 1ST-LEVEL FEATURES
+### 1ST-LEVEL FEATURES
 
 As a tactician, you gain the following features.
 
-## TACTICAL DOCTRINE
+#### TACTICAL DOCTRINE
 
 Warfare is as old as civilization--and perhaps even older. As battle became ever more developed and complex, military leaders invented tactical doctrine, outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of tactics of historical significance, you choose a tactical doctrine from the following options, each of which grants you a skill (*Quick Build:* Vanguard):
 
@@ -12133,21 +12133,21 @@ Warfare is as old as civilization--and perhaps even older. As battle became ever
 
 Your choice of tactical doctrine determines many of the features you'll gain from this class.
 
-## FOCUS
+#### FOCUS
 
 The ring of steel panics others but brings order to your mind, granting you a Heroic Resource called focus.
 
-#### FOCUS IN COMBAT
+##### FOCUS IN COMBAT
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain focus equal to your Victories. At the start of each of your turns during combat, you gain 2 focus. Additionally, the first time each round that you or an ally damages a target you have marked, you gain 1 focus. The first time in a round that an ally within 10 squares of you uses a heroic ability, you gain 1 focus. You lose any remaining focus at the end of the encounter.
 
-#### FOCUS OUTSIDE OF COMBAT
+##### FOCUS OUTSIDE OF COMBAT
 
 Though you can't gain focus outside of combat, you can use your heroic abilities and effects that cost focus without spending it. Whenever you use an ability or effect outside of combat that costs focus, you can't use that same ability or effect outside of combat again until you gain at least 1 Victory or finish a Respite.
 
 If you use an ability outside of combat that lets you spend unlimited focus on its effect, such as Mark, you can use it as if you had spent an amount of focus on it equal to your Victories.
 
-## 1ST-LEVEL DOCTRINE FEATURE
+#### 1ST-LEVEL DOCTRINE FEATURE
 
 Your chosen tactical doctrine grants you a feature as shown on the 1st-Level Doctrine Features table.
 
@@ -12159,15 +12159,15 @@ Your chosen tactical doctrine grants you a feature as shown on the 1st-Level Doc
 | Mastermind | Studied Commander   |
 | Vanguard   | Commanding Presence |
 
-### COMMANDING PRESENCE
+##### COMMANDING PRESENCE
 
 You command any room you walk into. While you are present, each hero with you is treated as having a Renown 2 higher than usual for the purpose of negotiations. Additionally, each hero with you has a double edge on tests made to stop combat and start a negotiation with the other side.
 
-#### COVERT OPERATIONS
+##### COVERT OPERATIONS
 
 While in your presence or working according to your plans, each of your allies gains an edge on tests with any skill from the intrigue skill group. Additionally, you can use the Lead skill to assist on any test made with a skill from the intrigue group. At the Director's discretion, you and your allies can use skills from the intrigue skill group to attempt research or reconnaissance during a negotiation instead of outside of negotiation.
 
-#### STUDIED COMMANDER
+##### STUDIED COMMANDER
 
 Your encyclopedic knowledge of the history of battle lets you apply that knowledge to current challenges. While you are with them, any hero treats the Discover Lore project related to a war or battle as one category cheaper. This makes projects seeking common lore free, but such projects still require a respite activity to complete. (See Downtime Projects for more information.)
 
@@ -12185,7 +12185,7 @@ The following test results apply to a negotiation:
 
 You can make this test only once for any encounter or negotiation.
 
-## DOCTRINE TRIGGERED ACTION
+#### DOCTRINE TRIGGERED ACTION
 
 Your tactical doctrine grants you a triggered action as shown on the Doctrine Triggered Actions table.
 
@@ -12237,7 +12237,7 @@ Your tactical doctrine grants you a triggered action as shown on the Doctrine Tr
 
 **Spend 1 Focus:** The target can shift a number of squares equal to your Reason score.
 
-## FIELD ARSENAL
+#### FIELD ARSENAL
 
 You have drilled with a broad array of weapons and have developed techniques to optimize their use. Whenever you select or change your kit, you can select an additional kit and gain the benefits of both kits, including both their
 
@@ -12258,7 +12258,7 @@ For example, if you take the Shining Armor and Sniper kits, you gain the followi
 
 Kit signature abilities already have their bonuses applied. For example, you might take the Martial Artist kit, which gives a melee weapon damage bonus of +2/+2/+2, and the Mountain kit, which gives a melee weapon damage bonus of +0/+0/+4. If you choose to use the Mountain kit's damage bonus, then the Battle Grace signature ability from the Martial Artist kit loses the +2/+2/+2 bonus from that kit, reducing its usual 5/8/11 damage for its tier 1, tier 2, and tier 3 results to 3/6/9. It then gains the +0/+0/+4 of the Mountain kit, to deal 3/6/13 damage.
 
-### MARK
+#### MARK
 
 You know how to focus the attention of your allies as you push them toward victory. You have the following ability.
 
@@ -12282,7 +12282,7 @@ In addition, you can spend 1 focus to take one of the following free triggered a
 
 - The damage dealer can shift up to a number of squares equal to your Reason score.
 
-## STRIKE NOW
+#### STRIKE NOW
 
 Your skill at commanding your allies in combat grants you the following ability.
 
@@ -12298,19 +12298,19 @@ Your skill at commanding your allies in combat grants you the following ability.
 
 **Spend 5 Focus:** You target two allies instead of one.
 
-## TACTICIAN ABILITIES
+#### TACTICIAN ABILITIES
 
 You are a formidable combatant in your own right, but your greatest strength in battle is the ability to make your allies even more formidable. You know a range of abilities that shape the scope of your control of the battlefield.
 
-#### KIT SIGNATURE ABILITY
+##### KIT SIGNATURE ABILITY
 
 Your additional kit from your Field Arsenal feature grants you a second signature ability. Signature abilities can be used at will.
 
-#### HEROIC ABILITIES
+##### HEROIC ABILITIES
 
 Your heroic abilities cover a range of combat tactics, all of which require focus to use.
 
-#### 3-FOCUS ABILITY
+###### 3-FOCUS ABILITY
 
 Choose one heroic ability from the following options, each of which costs 3 focus to use. (*Quick Build:* Inspiring Strike)
 
@@ -12418,11 +12418,11 @@ THIS IS WHAT WE PLANNED FOR (5 FOCUS)
 
 **Effect:** Each target who hasn't acted yet this round can take their turn in any order immediately after yours.
 
-## 2ND-LEVEL FEATURES
+### 2ND-LEVEL FEATURES
 
 As a 2nd-level tactician, you gain the following features.
 
-### 2ND-LEVEL DOCTRINE FEATURE
+#### 2ND-LEVEL DOCTRINE FEATURE
 
 Your tactical doctrine grants you a feature as shown on the 2nd-Level Doctrine Features table.
 
@@ -12434,29 +12434,29 @@ Your tactical doctrine grants you a feature as shown on the 2nd-Level Doctrine F
 | Mastermind | Goaded               |
 | Vanguard   | Melee Superiority    |
 
-#### GOADED
+##### GOADED
 
 You have learned to leverage the psychology of your marked foes and goad them into acting before they are tactically ready. When a creature marked by you uses a strike that targets you or an ally, you can use a free triggered action to retarget the attack to you or another one of your allies or yourself. The new target must be a valid option for the strike.
 
-#### INFILTRATION TACTICS
+##### INFILTRATION TACTICS
 
 You have trained your squad to work together and benefit from staying silent and waiting for the opportune time to strike. When you or any of your allies within 10 squares of you becomes hidden, they gain a surge.
 
-#### MELEE SUPERIORITY
+##### MELEE SUPERIORITY
 
 After constant drills you have improved your ability to anticipate an enemy's attack and thwart their attempts to move freely across the battlefield. Whenever you make an opportunity attack, the target's speed is reduced to 0 until the end of the current turn.
 
 **Mark Benefit:** You can spend 2 focus to make a melee free strike against a marked creature who attempts to move or Disengage within distance of your melee free strike as a free triggered action. If you do, the target's speed is reduced to 0 until the end of the current turn.
 
-## PERK
+#### PERK
 
 You gain an exploration, interpersonal, or intrigue perk of your choice. See Perks for more information.
 
-## 2ND-LEVEL DOCTRINE ABILITY
+#### 2ND-LEVEL DOCTRINE ABILITY
 
 Your tactical doctrine grants your choice of one of two abilities.
 
-#### 2ND-LEVEL INSURGENT ABILITY
+##### 2ND-LEVEL INSURGENT ABILITY
 
 Choose one of the following abilities.
 
@@ -12484,7 +12484,7 @@ TRY ME INSTEAD (5 FOCUS)
 - *12-16:* **3 + R damage; R** \< average\*\*, frightened (save ends)\*\*
 - *17+:* **4 + R damage; R** \< strong\*\*, frightened (save ends)\*\*
 
-#### 2ND-LEVEL MASTERMIND ABILITY
+##### 2ND-LEVEL MASTERMIND ABILITY
 
 Choose one of the following abilities.
 
@@ -12512,7 +12512,7 @@ THEIR TACTICS ARE SO PRIMITIVE (5 FOCUS)
 
 **Mark Benefit:** For the rest of the encounter whenever you or an ally attacks a marked target with a strike, you can spend 2 focus to add one additional target to the strike within the attack's range.
 
-#### 2ND-LEVEL VANGUARD ABILITY
+##### 2ND-LEVEL VANGUARD ABILITY
 
 Choose one of the following abilities.
 
@@ -12544,15 +12544,15 @@ SQUAD! ON ME!(5 FOCUS)
 
 **Effect:** Until the start of your next turn, each target gains a bonus to their Stability equal to your Might score. Additionally, each target gains two surges.
 
-## 3RD-LEVEL FEATURES
+### 3RD-LEVEL FEATURES
 
 As a 3rd-level tactician, you gain the following features.
 
-## OUT OF POSITION
+#### OUT OF POSITION
 
 You are prepared for all eventualities. At the start of an encounter, you can use a free triggered action to use your Mark ability against an enemy you have line of effect to, even if you are surprised. You can then immediately slide the marked target up to 3 squares, ignoring their stability. The target can't be moved in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
 
-## 7-FOCUS ABILITY
+#### 7-FOCUS ABILITY
 
 Choose one heroic ability from the following options, each of which costs 7 focus to use.
 
@@ -12596,35 +12596,35 @@ STAY STRONG, AND FOCUS!(7 FOCUS)
 
 **Effect:** Until the end of the encounter or you are dying, whenever you or any ally deals damage to a target marked by you, the damage dealer can spend a Recovery.
 
-## 4TH-LEVEL FEATURES
+### 4TH-LEVEL FEATURES
 
 As a 4th-level tactician, you gain the following features.
 
-## CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 Your Might and Reason scores increase to 3.
 
-## FOCUS ON THEIR WEAKNESSES
+#### FOCUS ON THEIR WEAKNESSES
 
 The first time in a round a target marked by you takes damage from you or one of your allies, you gain 2 focus instead of 1.
 
-## IMPROVED FIELD ARSENAL
+#### IMPROVED FIELD ARSENAL
 
 Your expertise with weapons has grown. Whenever you use a free strike or a signature ability from one of your equipped kits you gain an edge and can ignore one bane.
 
-## PERK
+#### PERK
 
 You gain any one perk of your choice. See Perks for more information.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## 5TH-LEVEL FEATURES
+### 5TH-LEVEL FEATURES
 
 As a 5th-level tactician, you gain the following features.
 
-### 5TH-LEVEL DOCTRINE FEATURE
+#### 5TH-LEVEL DOCTRINE FEATURE
 
 Your specialization grants you features as shown on the 5nd-Level Tactical Doctrines Features table.
 
@@ -12636,35 +12636,35 @@ Your specialization grants you features as shown on the 5nd-Level Tactical Doctr
 | Mastermind | Anticipation, I Predicted That |
 | Vanguard   | No You Move, Shake it Off      |
 
-#### ANTICIPATION
+##### ANTICIPATION
 
 You have learned to be more reactive on the battlefield, thinking more steps ahead than your opponents. You can target 2 creatures with the Mark maneuver.
 
-#### DISTRACTED
+##### DISTRACTED
 
 You have mastered the ability to read where your targets are paying attention and how to distract them, allowing you and your allies to take advantage of their gaps in attention.
 
 Creatures marked by you do not count as observers when you or your allies choose to hide. You and your allies can use other allies as cover for the purpose of hiding.
 
-#### I PREDICTED THAT
+##### I PREDICTED THAT
 
 Your expertise in history and lore gives you insight into the present day, allowing you and your allies to outthink rivals.
 
 You and your allies within 10 squares of you have an edge on Reason tests.
 
-### LEAVE NO TRACE
+##### LEAVE NO TRACE
 
 You and allies within 10 of you can move their full speed when sneaking and enemies within 10 of you have a bane on checks to search for you or your hidden allies.
 
-### NO, YOU MOVE
+##### NO, YOU MOVE
 
 When you use the Charge action to move toward and make a melee free strike against a creature marked by you, you can use a melee signature or heroic ability with the Strike keyword instead of a melee free strike as part of the action.
 
-### SHAKE IT OFF
+##### SHAKE IT OFF
 
 You, or any allies adjacent to you, can spend 1d6 stamina during their turn to end any save ends effect at the end of their current turn or to ignore a consequence from a test.
 
-## 9-FOCUS ABILITIES
+#### 9-FOCUS ABILITIES
 
 Choose one heroic ability from the following options.
 
@@ -12710,23 +12710,23 @@ YOU'VE STILL GOT SOMETHING LEFT (9 FOCUS)
 
 **Effect:** The target makes a heroic strike as a free triggered action and deals extra damage equal to your Reason score. The target's heroic resource cost is reduced by your Reason score.
 
-## 6TH-LEVEL FEATURES
+### 6TH-LEVEL FEATURES
 
 As a 6th-level tactician, you gain the following features.
 
-## MASTER OF ARMS
+#### MASTER OF ARMS
 
 Your expertise with weapons and their use has grown to true mastery. Whenever you use a free strike or a signature ability from one of your equipped kits and gain an edge from your Improved Field Arsenal feature, you gain a double edge instead.
 
-## PERK
+#### PERK
 
 You gain an exploration, interpersonal, or intrigue perk of your choice. See Perks for more information.
 
-## 6TH-LEVEL DOCTRINE ABILITY
+#### 6TH-LEVEL DOCTRINE ABILITY
 
 Your specialization grants your choice of one of two abilities.
 
-#### 6TH-LEVEL INSURGENT ABILITIES
+##### 6TH-LEVEL INSURGENT ABILITIES
 
 Choose one of the following abilities.
 
@@ -12757,7 +12757,7 @@ while hidden.
 
 **Effect:** When a creature is moved into another creature by this ability, they perform a free strike against the creature they moved into.
 
-#### 6TH-LEVEL MASTERMIND ABILITIES
+##### 6TH-LEVEL MASTERMIND ABILITIES
 
 Choose one of the following abilities.
 
@@ -12783,7 +12783,7 @@ Choose one of the following abilities.
 
 **Effect:** Mark two enemies within 10 squares of you. Each target can shift their speed. You and your allies gain two surges.
 
-### 6TH-LEVEL VANGUARD ABILITIES
+##### 6TH-LEVEL VANGUARD ABILITIES
 
 Choose one of the following abilities.
 
@@ -12813,15 +12813,15 @@ Choose one of the following abilities.
 
 **Effect:** If a creature is hit with 2 or more strikes as part of this action they are **R \< \[strong\]** dazed (save ends). If an strike is left to be resolved and the target was reduced to 0 Stamina, the striker can pick a different target.
 
-## 7TH-LEVEL FEATURES
+### 7TH-LEVEL FEATURES
 
 As a 7th-level tactician, you gain the following features.
 
-## CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 All of your characteristics increase by 1, to a maximum score of 4.
 
-## 7TH-LEVEL DOCTRINE FEATURE
+#### 7TH-LEVEL DOCTRINE FEATURE
 
 Your specialization grants you features as shown on the 7th-Level Tactical Doctrines Features table.
 
@@ -12833,35 +12833,35 @@ Your specialization grants you features as shown on the 7th-Level Tactical Doctr
 | Mastermind | Grand Strategy     |
 | Vanguard   | Shock and Awe      |
 
-#### ASYMMETRIC WARFARE
+##### ASYMMETRIC WARFARE
 
 You have grown your skills in sneaky squad level tactics to sneaky battlefield strategy and logistics. You can get one automatic success with a test made with a skill from the intrigue skill group during a montage test or negotiation. You can use skills from the intrigue skill group to conceal large groups of people, including escaping civilians and groups of guerilla warriors.
 
-#### GRAND STRATEGY
+##### GRAND STRATEGY
 
 You have grown your skills in intricate squad level tactics to intricate battlefield strategy and logistics. You can get one automatic success with a test made with a skill from the lore skill group during a montage test or negotiation. You can perform a project roll on a research project in addition to another respite action when you take a respite.
 
-### SHOCK AND AWE
+##### SHOCK AND AWE
 
 You have grown your skills in motivating small squads to motivating armies and logistical support. You can get one automatic success with a test made with a skill from the interpersonal skill group during a montage test or negotiation. Also, you can convince a group of people to help you perform a crafting project during a respite. If these people are available, you can perform a project roll on a crafting project in addition to another respite action when you take a respite.
 
-### HEIGHTENED FOCUS
+#### HEIGHTENED FOCUS
 
 When you gain focus at the start of your turn, you gain 3 focus instead of 2.
 
-## SEIZE THE INITIATIVE
+#### SEIZE THE INITIATIVE
 
 If you are not surprised, you automatically win initiative. If the enemy has an ability to automatically win initiative, you roll for initiative normally.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## 8TH-LEVEL FEATURES
+### 8TH-LEVEL FEATURES
 
 As a 8th-level tactician, you gain the following features.
 
-## 8TH-LEVEL DOCTRINE FEATURE
+#### 8TH-LEVEL DOCTRINE FEATURE
 
 Your specialization grants you features as shown on the 8th-Level Tactical Doctrines Features table.
 
@@ -12873,29 +12873,29 @@ Your specialization grants you features as shown on the 8th-Level Tactical Doctr
 | Mastermind | Pincer Movement                    |
 | Vanguard   | See Your Enemies Driven Before You |
 
-#### BAIT AND AMBUSH
+##### BAIT AND AMBUSH
 
 You have trained your squad to be silent ambushers.
 
 **Mark Benefit:** When you or an ally target a marked creature with a strike, you can spend 2 focus to have them shift up to a number of squares up to your Reason score and take the Hide maneuver as a free maneuver once at any point during the shift. This shift can take place either before or after the strike is resolved.
 
-#### PINCER MOVEMENT
+##### PINCER MOVEMENT
 
 You have trained your squad to coordinate their movements to maximize combat impact.
 
 **Mark Benefit:** When you or an ally targets a marked creature with a strike, you can spend 2 focus to have them and one additional ally of your choice within 10 squares of you, including yourself, shift a number of squares equal to your Reason score before the strike is resolved.
 
-#### SEE YOUR ENEMIES DRIVEN BEFORE YOU
+##### SEE YOUR ENEMIES DRIVEN BEFORE YOU
 
 You have trained your squad to maximize impact and to break enemy lines when they attack.
 
 **Mark Benefit:** When you or an ally make a melee Strike against a marked creature, you can spend 2 focus to have the ally push the target up to a number of squares equal to your Reason score and then shift up to a number of squares equal to your Reason score as long as they end their movement adjacent to the target.
 
-### PERK
+#### PERK
 
 You gain any one perk of your choice. See Perks for more information.
 
-## 11-FOCUS ABILITIES
+#### 11-FOCUS ABILITIES
 
 Choose one heroic ability from the following options.
 
@@ -12931,21 +12931,21 @@ I'LL OPEN AND YOU'LL CLOSE (11 FOCUS)
 
 **Effect:** One ally within 10 can use a heroic ability against the target as a free triggered action without spending any heroic resources, as long as they have enough heroic resources to pay for the ability. If an ability is left to be resolved and the target was reduced to 0 Stamina, the ability user can pick a different target.
 
-## 9TH-LEVEL FEATURES
+### 9TH-LEVEL FEATURES
 
 As a 9th-level tactician, you gain the following features.
 
-## GRAND MASTER OF ARMS
+#### GRAND MASTER OF ARMS
 
 Your expertise with weapons and their use has grown to true mastery. Whenever you use a free strike or a signature ability from one of your equipped kits you automatically achieve a tier 3 result.
 
 You can still roll to see if you got a crit.
 
-## 9TH-LEVEL DOCTRINE ABILITY
+#### 9TH-LEVEL DOCTRINE ABILITY
 
 Your specialization grants your choice of one of two abilities.
 
-#### 9TH-LEVEL INSURGENT ABILITIES
+##### 9TH-LEVEL INSURGENT ABILITIES
 
 Choose one of the following abilities.
 
@@ -12969,7 +12969,7 @@ THEIR LACK OF FOCUS IS THEIR UNDOING (11 FOCUS) *You trick your enemies into att
 - *12-16:* **R \< \[average\] dazed (save ends)**
 - *17+:* **R \< \[strong\] dazed (save ends)**
 
-#### 9TH-LEVEL MASTERMIND ABILITIES
+##### 9TH-LEVEL MASTERMIND ABILITIES
 
 Choose one of the following abilities.
 
@@ -12989,7 +12989,7 @@ COUNTERSTRATEGY (11 FOCUS)
 
 **Effect:** You gain six surges. Until the end of the encounter, or you are dying, whenever the Director spends Malice, you or one ally within 10 squares of you can gain 2 of their heroic resource.
 
-#### 9TH-LEVEL VANGUARD ABILITIES
+##### 9TH-LEVEL VANGUARD ABILITIES
 
 Choose one of the following abilities.
 
@@ -13026,19 +13026,19 @@ THAT ONE IS MINE!(11 FOCUS)
 - *17+:* **17 + M damage**
     **Effect:** Until the end of the encounter, or you are dying, you can use a signature or heroic action instead of a free strike against any target marked by you.
 
-## 10TH-LEVEL FEATURES
+### 10TH-LEVEL FEATURES
 
 As a 10th-level tactician, you gain the following features.
 
-## CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 Your Might and Reason scores increase to 5.
 
-## PERK
+#### PERK
 
 You gain an exploration, interpersonal, or intrigue perk of your choice. See Perks for more information.
 
-### STRATAGEMS
+#### STRATAGEMS
 
 You gain an epic resource called stratagem. When you take a Respite, you gain stratagems equal to the XP you gain. You can spend stratagems as if it were focus on abilities you have.
 
@@ -13046,15 +13046,15 @@ Whenever you or an ally damages a marked target you can spend 1 stratagem to inc
 
 Stratagems remain until you spend it.
 
-## TRUE FOCUS
+#### TRUE FOCUS
 
 When you gain focus at the start of your turn, you gain 4 focus instead of 3.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## WARMASTER
+#### WARMASTER
 
 You have mastered the entirety of possible strategies and tactics. Whenever you or an ally makes an ability power roll against a target marked by you, they can roll three dice and choose which two to use. Allies spend 2 fewer Heroic Resources (minimum 1) to use heroic abilities that include at least one marked target as a target.
 
@@ -13064,7 +13064,7 @@ The talent is a master of psionics--a source of incredible power created through
 
 A talent is limited only by the strength of their mind. Powerful psionic heroes can have multiple active powers at once and change reality at will. But with this limitless potential comes a gamble. Every manifestation has a chance of harming the talent, and those who use too many too quickly die from the exertion.
 
-## BASICS
+### BASICS
 
 **Starting Characteristics:** You start with a Reason of 2 and a Presence of 2, and can choose one of the following arrays for your other characteristics scores:
 
@@ -13130,11 +13130,11 @@ A talent is limited only by the strength of their mind. Powerful psionic heroes 
 |      | Perk, Psion, Vision, Skill | 5, 7, 9, 11           |          |
 |      | Increase                   |                       |          |
 
-## 1ST-LEVEL FEATURES
+### 1ST-LEVEL FEATURES
 
 As a talent, you gain the following features.
 
-## TALENT TRADITION
+#### TALENT TRADITION
 
 Psionic abilities are grouped into specific categories according to their power and effects. Each category comprises one of many talent traditions, including the following:
 
@@ -13151,11 +13151,11 @@ Psionic abilities are grouped into specific categories according to their power 
 - **Telepathy:** Abilities that allow you to communicate with, read, and influence the minds of other creatures
     As a talent gains mastery over their mind, they are drawn to a tradition that can be manifested as easily as breathing. Choose one of the following talent traditions: chronopathy, telekinesis, or telepathy. (*Quick Build:* telekinesis) Your choice of tradition determines many of the features you'll gain from this class. (Other talent traditions will be featured in future products.)
 
-## CLARITY AND STRAIN
+#### CLARITY AND STRAIN
 
 The focus and precision of your thoughts grants you a Heroic Resource called clarity that empowers your psionic abilities.
 
-#### CLARITY IN COMBAT
+##### CLARITY IN COMBAT
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain clarity equal to your Victories. At the start of each of your turns during combat, you gain 1d3 clarity. You gain 1 clarity the first time each round that a creature is force moved.
 
@@ -13165,7 +13165,7 @@ Whenever you have clarity below 0, you are strained. Some psionic abilities have
 
 You lose any remaining clarity or reset any negative clarity at the end of the encounter.
 
-#### CLARITY OUTSIDE OF COMBAT
+##### CLARITY OUTSIDE OF COMBAT
 
 Though you can't gain clarity outside of combat, you can use your heroic abilities and effects that cost clarity without spending it. Whenever you use an ability or effect outside of combat that costs clarity, you can't use that same ability or effect outside of combat again until you gain at least 1 Victory or finish a Respite.
 
@@ -13173,7 +13173,7 @@ Additionally, if you use two or more abilities or effects that cost clarity with
 
 If you use an ability outside of combat that lets you spend unlimited clarity on its effect, such as Minor Telekinesis, you can use it as if you had spent an amount of clarity on it equal to your Victories.
 
-## MIND SPIKE
+#### MIND SPIKE
 
 You gain the following ability, which can be used as a ranged free strike.
 
@@ -13195,13 +13195,13 @@ You gain the following ability, which can be used as a ranged free strike.
 
 **Strained:** The strike deals an extra 2 psychic damage to the target and to you. The damage you take can't be reduced in any way.
 
-## TELEPATHIC SPEECH
+#### TELEPATHIC SPEECH
 
 You know the Mindspeech language (see Languages). Additionally, you can telepathically communicate with any creatures within the distance of your Mind Spike ability if they share a language with you and you know of each
 
 other. The receiver of your telepathic communications can choose to respond telepathically.
 
-## TRADITION FEATURES
+#### TRADITION FEATURES
 
 Your talent tradition grants you features as shown on the 1st-Level Tradition Features table.
 
@@ -13213,7 +13213,7 @@ Your talent tradition grants you features as shown on the 1st-Level Tradition Fe
 | Telekinesis | Minor Telekinesis, Repel         |
 | Telepathy   | Feedback Loop, Remote Assistance |
 
-#### ACCELERATE
+##### ACCELERATE
 
 You gain the following ability.
 
@@ -13227,11 +13227,11 @@ squares equal to your Reason score.
 
 **Spend 2 Clarity:** The target can also use a maneuver.
 
-#### AGAIN
+##### AGAIN
 
 You gain the following ability.
 
-#### AGAIN
+##### AGAIN
 
 *You step back a split second to see if things play out a little differently.*
 
@@ -13239,11 +13239,11 @@ You gain the following ability.
 
 **Effect:** You can use this ability after seeing the power roll for the triggering roll. You force the target to reroll the power roll and use the new result.
 
-#### FEEDBACK LOOP
+##### FEEDBACK LOOP
 
 You gain the following ability.
 
-#### FEEDBACK LOOP
+##### FEEDBACK LOOP
 
 *Creating a brief psychic link between a foe and their target gives that foe a taste of their own medicine.*
 
@@ -13251,11 +13251,11 @@ You gain the following ability.
 
 **Effect:** The target takes psychic damage equal to half the triggering damage.
 
-#### MINOR TELEKINESIS
+##### MINOR TELEKINESIS
 
 You gain the following ability.
 
-#### MINOR TELEKINESIS
+##### MINOR TELEKINESIS
 
 *Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*
 
@@ -13269,11 +13269,11 @@ You gain the following ability.
 
 **Spend 3 Clarity:** You can vertical slide the target.
 
-#### REMOTE ASSISTANCE
+##### REMOTE ASSISTANCE
 
 You gain the following ability.
 
-#### REMOTE ASSISTANCE
+##### REMOTE ASSISTANCE
 
 *An ally gains the benefit of your intellect.* **Keywords:** Psionic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** One creature or object
 
@@ -13281,11 +13281,11 @@ You gain the following ability.
 
 **Spend 1 Clarity:** You target one additional creature or object.
 
-#### REPEL
+##### REPEL
 
 You gain the following ability.
 
-#### REPEL
+##### REPEL
 
 *They aren't going anywhere, but you might!*
 
@@ -13293,57 +13293,57 @@ You gain the following ability.
 
 **Effect:** The triggering damage is halved or distance of the triggering forced movement is reduced by a number of squares equal to your Reason score. If the target was damaged and force moved, you choose the effect. If the triggering forced movement is reduced to 0 squares, the target pushes the source of the forced movement a number of squares equal to your Reason score.
 
-## PSIONIC AUGMENTATION
+#### PSIONIC AUGMENTATION
 
 Through psionic meditation, you create pathways in your mind that enhance your statistics. Choose one of the following augmentations. You can change your augmentation along with your ward (see Talent Ward) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Force Focus)
 
-#### BATTLE AUGMENTATION
+##### BATTLE AUGMENTATION
 
 You can wear light armor and wield light weapons effectively, even though you don't have a kit. While you wear light armor, you gain a +3 bonus to Stamina and that bonus increases by 3 at 4th, 7th, and 10th levels. While you wield a light weapon, you gain a +1 damage bonus with weapon abilities, including free strikes. You can use light armor treasures and light weapon treasures. If you have a kit, you can't take this augmentation.
 
 If you have a kit, you can't take this augmentation.
 
-#### DISTANCE AUGMENTATION
+##### DISTANCE AUGMENTATION
 
 You gain a +2 bonus to the distance of your ranged psionic abilities.
 
-#### DENSITY AUGMENTATION
+##### DENSITY AUGMENTATION
 
 You gain a +6 bonus to Stamina, and this bonus increases by 6 at 4th, 7th, and 10th levels. Additionally, you gain a +1 bonus to stability.
 
-#### FORCE AUGMENTATION
+##### FORCE AUGMENTATION
 
 Your damage-dealing psionic abilities gain a +1 rolled damage bonus.
 
-#### SPEED AUGMENTATION
+##### SPEED AUGMENTATION
 
 You gain a +1 bonus to speed and to the distance you shift when you take the Disengage move action.
 
-## TALENT WARD
+#### TALENT WARD
 
 Through psionic meditation, you create a ward that protects you. Choose one of the following wards. You can change your ward along with your psionic augmentation (see Psionic Augmentation) by undergoing a psionic meditation as a respite activity. (*Quick Build:* Repulsive Ward)
 
-#### ENTROPY WARD
+##### ENTROPY WARD
 
 You ward slows time for your enemies. Whenever a creature deals damage to you, their speed is reduced by an amount equal to your Reason score and they can't use triggered actions, all until the end of their next turn.
 
-#### REPULSIVE WARD
+##### REPULSIVE WARD
 
 You surround yourself with an invisible ward of telekinetic energy. Whenever an adjacent creature deals damage to you, you can use a free triggered action to push them up to a number of squares equal to your Reason score.
 
-### STEEL WARD
+##### STEEL WARD
 
 Your ward reacts to danger, protecting your body from future harm. Whenever you take damage, the damage resolves and you then gain damage immunity equal to your Reason score until the end of your next turn.
 
-#### VANISHING WARD
+##### VANISHING WARD
 
 Your ward allows you to slip away from danger. Whenever you take damage, you become invisible until the end of your next turn.
 
-## TALENT ABILITIES
+#### TALENT ABILITIES
 
 You manifest a variety of psionic powers to impact the environment, bolster your allies, and empower yourself. You can choose abilities across different talent traditions, or can focus on abilities tied to your chosen tradition to establish your dedication to its power.
 
-### SIGNATURE ABILITIES
+##### SIGNATURE ABILITIES
 
 Select two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:*  Incinerate, Kinetic Grip)
 
@@ -13491,11 +13491,11 @@ KINETIC PULSE
 
 **Strained:** The attack deals an extra 3 damage to the target and to you. The damage you take can't be reduced in any way.
 
-### HEROIC ABILITIES
+##### HEROIC ABILITIES
 
 You know a range of heroic abilities all fueled by your clarity.
 
-#### 3-CLARITY ABILITY
+###### 3-CLARITY ABILITY
 
 Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* Nothing Exceeds My Grasp)
 
@@ -13553,7 +13553,7 @@ NOTHING EXCEEDS MY GRASP (3 CLARITY) *Be careful not to choke on your aspiration
 - *12-16:* 6 + R **damage;** R \< average\*\*, the target has weakness 5 (save ends)\*\*
 - *17+:* 9 + R **damage;** R \< strong\*\*, the target has weakness equal to 5 + your Reason score (save ends)\*\*
 
-#### 5-CLARITY ABILITY
+###### 5-CLARITY ABILITY
 
 Choose one heroic ability from the following options, each of which costs 5 clarity to use. (*Quick Build:* Inertia Soak)
 
@@ -13601,15 +13601,15 @@ PERFECT CLARITY (5 CLARITY)
 
 **Strained:** You take 1d6 damage, and you can't use triggered actions (save ends).
 
-## 2ND-LEVEL FEATURES
+### 2ND-LEVEL FEATURES
 
 As a 2nd-level talent, you gain the following features.
 
-### PERK
+#### PERK
 
 You gain an interpersonal, lore, or supernatural perk of your choice. See Perks for more information.
 
-### 2ND-LEVEL TRADITION FEATURE
+#### 2ND-LEVEL TRADITION FEATURE
 
 Your talent tradition grants you a feature as shown on the 2nd-Level Tradition Features table.
 
@@ -13621,23 +13621,23 @@ Your talent tradition grants you a feature as shown on the 2nd-Level Tradition F
 | Telekinesis | Ease their Fall |
 | Telepathy   | Ease the Mind   |
 
-#### EASE THE HOURS
+##### EASE THE HOURS
 
 You can increase the number of rounds in a montage test by 1 if the test would end before the heroes hit the success limit.
 
-#### EASE THE MIND
+##### EASE THE MIND
 
 You gain an edge on tests to stop combat and start a negotiation. Any NPC who has a hostile or suspicious starting attitude in a negotiation has an additional 1 patience.
 
-#### EASE THEIR FALL
+##### EASE THEIR FALL
 
 Whenever you land after a fall, or if any falling creature lands within 2 squares of you, you can use a free triggered action to reduce the falling damage by an amount equal to 2 + your Reason score.
 
-## 2ND-LEVEL TRADITION ABILITY
+#### 2ND-LEVEL TRADITION ABILITY
 
 Your talent tradition grants your choice of one of two abilities.
 
-#### 2ND-LEVEL CHRONOPATHY ABILITY
+##### 2ND-LEVEL CHRONOPATHY ABILITY
 
 Choose one of the following abilities.
 
@@ -13681,7 +13681,7 @@ APPLIED CHRONOMETRICS (5 CLARITY)
 
 **Strained:** The potency of this ability increases by 1 and you take 1d6 damage. At the start of each round while any target is affected by this ability, you take 1d6 damage. You can immediately end the effects on all affected targets (no action required).
 
-#### 2ND-LEVEL TELEKINESIS ABILITY
+##### 2ND-LEVEL TELEKINESIS ABILITY
 
 Choose one of the following abilities.
 
@@ -13718,7 +13718,7 @@ Choose one of the following abilities.
 
 **Strained:** You take half the damage the target takes, including any damage from falling.
 
-#### 2ND-LEVEL TELEPATHY ABILITY
+##### 2ND-LEVEL TELEPATHY ABILITY
 
 Choose one of the following abilities.
 
@@ -13756,15 +13756,15 @@ Choose one of the following abilities.
 
 **Strained:** You take 1d6 damage and are weakened until the end of your turn.
 
-## 3RD-LEVEL FEATURES
+### 3RD-LEVEL FEATURES
 
 As a 3rd-level talent, you gain the following features.
 
-### SCAN
+#### SCAN
 
 You can extend your psionic senses out beyond their normal range. You can search for hidden creatures as a free maneuver once on each of your turns (see Hide and Sneak). Additionally, once you establish line of effect to a thinking creature within the distance of your Mind Spike ability, you always have line of effect to that creature until they leave move outside that distance.
 
-## 7-CLARITY ABILITY
+#### 7-CLARITY ABILITY
 
 Choose one heroic ability from the following options, each of which costs 7 clarity to use.
 
@@ -13834,45 +13834,45 @@ SOUL BURN (7 CLARITY)
 
 **Strained:** The potency of this ability increases by 1. You take 2d6 damage, and gain 3 surges.
 
-## 4TH-LEVEL FEATURES
+### 4TH-LEVEL FEATURES
 
 As a 4th-level talent, you gain the following features.
 
-## CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 Both your Reason and your Presence scores become 3.
 
-## MIND PROJECTION
+#### MIND PROJECTION
 
 You can project your mind outside of your body as a maneuver. While projecting your mind, you are considered concealed, and you can freely move through solid matter. If you end your turn inside solid matter, you are forced out into the space you originally entered.
 
 Your body remains unconscious and prone while you are in this state. You can immediately return to your body as a free maneuver on your turn. You are instantly shunted back into your body if you or your body take any damage.
 
-## MIND RECOVERY
+#### MIND RECOVERY
 
 Whenever you would spend a Recovery to regain Stamina while strained, you can choose to forgo the Stamina choose and gain 3 clarity instead.
 
 Additionally, when you gain insight from a creature being force moved, you gain 1 additional insight for a total of 2.
 
-## PERK
+#### PERK
 
 You gain any one perk of your choice. See Perks for more information.
 
-## SUSPENSOR FIELD
+#### SUSPENSOR FIELD
 
 Your speed gains the Flying keyword. While flying, your stability is reduced to 0 and can't be increased further. If your speed previously had the Flying keyword, you can now fly an additional number of squares equal to your Reason score.
 
 If you are strained while flying and you are force moved, you are force moved an additional 2 squares.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## 5TH-LEVEL FEATURES
+### 5TH-LEVEL FEATURES
 
 As a 5th-level talent, you gain the following features.
 
-## 5TH-LEVEL TRADITION FEATURE
+#### 5TH-LEVEL TRADITION FEATURE
 
 You've developed a strong psychic bond with your allies that has allowed you all to coordinate supernaturally.
 
@@ -13884,37 +13884,37 @@ You've developed a strong psychic bond with your allies that has allowed you all
 | Telekinesis | Kinetic Amplifier, Triangulate        |
 | Telepathy   | Compulsion, Remote Amplification      |
 
-#### COMPULSION
+##### COMPULSION
 
 Whenever you use a skill from the interpersonal skill group on a test while interacting with an NPC without failing, you can ask them a question with Telepathic
 
 Speech that they must answer truthfully to the best of their ability.
 
-#### DISTORTION TEMPORAL
+##### DISTORTION TEMPORAL
 
 While you are not dying, time behaves irregularly around you in a 3 Aura. The affected area is considered difficult terrain for enemies. When an ally enters the area for the first time on a turn or starts their turn their, their speed increases by 2 until the end of the turn.
 
-#### KINETIC AMPLIFIER
+##### KINETIC AMPLIFIER
 
 When you force move a creature, you can spend a surge to increase the forced movement distance a number of squares equal to your Reason score. You can spend up to two surges at a time this way.
 
-#### REMOTE AMPLIFICATION
+##### REMOTE AMPLIFICATION
 
 The distance of your psionic abilities increases by 5. The range of your Telepathic Speech feature extends to 1 mile.
 
-### SPEED OF THOUGHT
+##### SPEED OF THOUGHT
 
 Once per round while you are not dying, you can spend 2 clarity when you use a triggered action to turn it into a free triggered action.
 
-#### TRIANGULATE
+##### TRIANGULATE
 
 Whenever an ally uses a ranged ability while you are within its distance, you can spend 1 clarity as a free triggered action to allow them to use the ability as if they were in your space.
 
-## 9-CLARITY ABILITIES
+#### 9-CLARITY ABILITIES
 
 Choose one heroic ability from the following options.
 
-#### EXOTHERMIC SHIELD (9 CLARITY)
+##### EXOTHERMIC SHIELD (9 CLARITY)
 
 *You encase the target in psionic flame and allow them to flicker without fear of burning out.*
 
@@ -13954,7 +13954,7 @@ MIND SNARE (9 CLARITY)
 
 **Strained:** The target, instead, takes 5 psychic damage for each square they move out of, but you feel the pain and have a double bane on ability power rolls made against the target while they are slowed by this ability.
 
-#### SOULBOUND (9 CLARITY)
+##### SOULBOUND (9 CLARITY)
 
 *You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.*
 
@@ -13971,55 +13971,55 @@ MIND SNARE (9 CLARITY)
 
 **Strained:** You target yourself and 3 enemies instead. You do not take damage from the initial strike. You choose which targets get stitched together.
 
-## 6TH-LEVEL FEATURES
+### 6TH-LEVEL FEATURES
 
 As a 6th-level talent, you gain the following features.
 
-## PERK
+#### PERK
 
 You gain an interpersonal, lore, or supernatural perk of your choice. See Perks for more information.
 
-### PSI BOOST
+#### PSI BOOST
 
 Whenever you use a psionic ability, you can spend additional clarity to apply a Psi Boost to it and enhance its effects. You can apply multiple Psi Boosts to an ability, but only 1 instance of each Psi Boost. You have access to the following Psi Boosts:
 
-#### SHARPENED POWER (1 CLARITY)
+##### SHARPENED POWER (1 CLARITY)
 
 If the ability features a power roll, you have an edge on the roll.
 
-#### HEIGHTENED POWER (1 CLARITY)
+##### HEIGHTENED POWER (1 CLARITY)
 
 If the ability deals damage, you can deal extra damage equal to your Reason score.
 
-#### EXTENDED POWER (1 CLARITY)
+##### EXTENDED POWER (1 CLARITY)
 
 If the ability is ranged, you can extend the distance by 5. If the ability is melee, you can extend the distance by 2.
 
-#### DYNAMIC POWER (1 CLARITY)
+##### DYNAMIC POWER (1 CLARITY)
 
 If the ability force moves a target, you can increase the force movement effects by a number of squares equal to your Reason or Presence score.
 
-#### EXPANDED POWER (3 CLARITY)
+##### EXPANDED POWER (3 CLARITY)
 
 If the ability targets an area, you can increase the area by 1.
 
-#### SHARED POWER (5 CLARITY)
+##### SHARED POWER (5 CLARITY)
 
 If the ability targets individual creatures or objects, you can target twice as many targets within distance.
 
-#### MAGNIFIED POWER (5 CLARITY)
+##### MAGNIFIED POWER (5 CLARITY)
 
 Increase the potency of an effect by your Reason score.
 
-## 9-CLARITY TRADITION ABILITY
+#### 9-CLARITY TRADITION ABILITY
 
 Your tradition grants your choice of one of two abilities.
 
-#### CHRONOPATHY ABILITIES
+##### CHRONOPATHY ABILITIES
 
 Choose one of the following abilities.
 
-#### FATE (9 CLARITY)
+###### FATE (9 CLARITY)
 
 *Your foe gets a glimpse of how it will all end for them.*
 
@@ -14035,7 +14035,7 @@ Choose one of the following abilities.
 - *12-16:* 13 + P **psychic damage**
 - *17+:* 17 + P **psychic damage**
 
-#### STASIS FIELD (9 CLARITY)
+###### STASIS FIELD (9 CLARITY)
 
 *Keep everything as it was. Ignore everything that will be.* **Keywords:** Area, Chronopathy, Psionic, Ranged
 
@@ -14051,11 +14051,11 @@ Choose one of the following abilities.
 
 **Strained:** Creatures and objects that are force moved within the stasis field take 2 corruption damage for each affected square they enter. Creatures and objects restrained within the stasis field can be force moved. You're restrained until the effect ends.
 
-#### TELEKINESIS ABILITIES
+##### TELEKINESIS ABILITIES
 
 Choose one of the following abilities.
 
-#### GRAVITIC WELL (9 CLARITY)
+###### GRAVITIC WELL (9 CLARITY)
 
 *You bend the gravity into a fine point and pull your foes towards it.*
 
@@ -14071,7 +14071,7 @@ Choose one of the following abilities.
 
 **Effect:** The targets closest to the center are pulled first. **Strained:** The area increases by 2, but you target yourself and allies within distance as well.
 
-#### GREATER KINETIC GRIP (9 CLARITY)
+###### GREATER KINETIC GRIP (9 CLARITY)
 
 *You raise the tree or the behemoth, and without breaking a sweat, they soar faster than they should.* **Keywords:** Melee, Psionic, Telekinesis
 
@@ -14087,7 +14087,7 @@ Choose one of the following abilities.
 
 **Strained:** The forced movement ignores stability. You take 2d6 damage and you're weakened (save ends).
 
-#### TELEPATHY ABILITIES
+##### TELEPATHY ABILITIES
 
 Choose one of the following abilities.
 
@@ -14101,7 +14101,7 @@ SYNAPTIC CONDITIONING (9 CLARITY) *It's a subtle mindset shift. It's not that th
 
 **Strained:** While the target is under this effect, you no longer consider your enemies to be your enemies when using your abilities and features.
 
-#### SYNAPTIC VANISHMENT (9 CLARITY)
+###### SYNAPTIC VANISHMENT (9 CLARITY)
 
 *You manipulate your enemies' minds and make them wonder if you were ever really there in the first place.* **Keywords:** Psionic, Ranged, Telepathy **Type:** Maneuver **Distance:** Ranged 10 **Target:** Special
 
@@ -14115,39 +14115,39 @@ SYNAPTIC CONDITIONING (9 CLARITY) *It's a subtle mindset shift. It's not that th
 
 **Strained:** The effect ends early if you take damage from an enemy ability.
 
-## 7TH-LEVEL FEATURES
+### 7TH-LEVEL FEATURES
 
 As a 7th-level talent, you gain the following features.
 
-## ANCESTRAL MEMORY
+#### ANCESTRAL MEMORY
 
 At the end of a respite, you can choose a number of skills you have up to your Reason score and exchange them for the same number of skills from the interpersonal and lore skill groups.
 
-## CASCADING STRAIN
+#### CASCADING STRAIN
 
 Whenever you take damage from having negative clarity or a strained effect, you can choose one enemy within distance of your Mind Spike ability who takes the same amount of damage.
 
-## CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 All of your characteristics increase by 1, to a maximum score of 4.
 
-## LUCID MIND
+#### LUCID MIND
 
 When you gain clarity at the start of your turn, gain 1d3 + 1 clarity.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## 8TH-LEVEL FEATURES
+### 8TH-LEVEL FEATURES
 
 As an 8th-level conduit, you gain the following features.
 
-## PERK
+#### PERK
 
 You gain any one perk of your choice. See Perks for more information
 
-## 8TH-LEVEL TRADITION FEATURE
+#### 8TH-LEVEL TRADITION FEATURE
 
 You have a mastery over your tradition that reveals itself in little ways you don't normally think about.
 
@@ -14159,19 +14159,19 @@ You have a mastery over your tradition that reveals itself in little ways you do
 | Telekinesis | Levitation Field, Low Gravity     |
 | Telepathy   | Mindlink, Universal Connection    |
 
-#### DOUBLING THE HOURS
+##### DOUBLING THE HOURS
 
 You can take an additional respite activity during a respite while you have 5 or more victories.
 
-### LOW GRAVITY
+##### LOW GRAVITY
 
 Your mind can carry your body through tough times. You do not need to spend additional movement to move through difficult terrain or while prone.
 
-#### LEVITATION FIELD
+##### LEVITATION FIELD
 
 You have the following ability.
 
-#### LEVITATION FIELD
+##### LEVITATION FIELD
 
 *You manipulate the air around your allies so that they can move as freely through the sky as you can.*
 
@@ -14179,13 +14179,13 @@ You have the following ability.
 
 **Effect:** Each target adds the Flying keyword to their speed until the start of your next turn. You and each target can then shift up to their speed. While flying, the target's stability is reduced to 0 and can't be increased further. **Spend 5 Clarity:** The effects last for 1 hour instead.
 
-### MINDLINK
+##### MINDLINK
 
 During a respite, you can choose up to a number of creatures you have communicated with via telepathic speech equal to your Reason score and create a telepathic link among all of you. Whenever a linked creature spends
 
 one or more Recoveries, all linked creatures can spend a Recovery.
 
-#### STASIS SHIELD
+##### STASIS SHIELD
 
 You have the following triggered action.
 
@@ -14197,15 +14197,15 @@ You have the following triggered action.
 
 **Effect:** The target is teleported to an unoccupied square adjacent to you, taking no damage or additional effects if this movement would put them out of harm's way. **Strained:** You can't target yourself if you are strained. You take the damage and any additional effects in place of the target.
 
-#### UNIVERSAL CONNECTION
+##### UNIVERSAL CONNECTION
 
 The range of your Telepathic Speech feature extends to being on the same plane of existence.
 
-## 11-CLARITY ABILITIES
+#### 11-CLARITY ABILITIES
 
 Choose one heroic ability from the following options.
 
-#### DOUBT (11 CLARITY)
+##### DOUBT (11 CLARITY)
 
 *You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive*
 
@@ -14225,7 +14225,7 @@ Choose one heroic ability from the following options.
 
 **Strained:** You feel dispirited until you take a respite. On a tier-3 result, you and the target have damage weakness 5 (save ends).
 
-#### MINDWIPE (11 CLARITY)
+##### MINDWIPE (11 CLARITY)
 
 *You attempt to make them forget all of their training.*
 
@@ -14241,7 +14241,7 @@ Choose one heroic ability from the following options.
 
 **Strained:** You take 2d6 damage and you have amnesia for 1 hour.
 
-#### REJUVENATE (11 CLARITY)
+##### REJUVENATE (11 CLARITY)
 
 *You reshape the flow of time in the target's body to an earlier state.*
 
@@ -14255,7 +14255,7 @@ Choose one heroic ability from the following options.
 
 **Strained:** You and the target both grow visibly younger (the equivalent of 20 human years, to the minimum of an eighteen year old). You are frightened of the first nearest enemy that comes within line of effect (save ends).
 
-#### STEEL (11 CLARITY)
+##### STEEL (11 CLARITY)
 
 *The target's skin becomes chrome and tough. They become an unstoppable titanium titan.*
 
@@ -14263,11 +14263,11 @@ Choose one heroic ability from the following options.
 
 **Effect:** The target has damage immunity 5 and cannot be slowed or weakened until the start of your next turn. Whenever the target force moves a creature or object while they have this effect, the distance increases by 5. **Strained:** You cannot use maneuvers (save ends).
 
-## 9TH-LEVEL FEATURES
+### 9TH-LEVEL FEATURES
 
 As a 9th-level talent, you gain the following features.
 
-### FORTRESS OF PERFECT THOUGHT
+#### FORTRESS OF PERFECT THOUGHT
 
 Your mind is an impenetrable palace that shields you from all danger. You gain the following effects:
 
@@ -14277,15 +14277,15 @@ Your mind is an impenetrable palace that shields you from all danger. You gain t
 - Your Reason and Intuition count as 2 higher for the purpose of resisting an ability's potency.
 - You can't be taunted or frightened.
 
-## 11-CLARITY TRADITION ABILITY
+#### 11-CLARITY TRADITION ABILITY
 
 Your tradition grants your choice of one of two abilities.
 
-### CHRONOPATHY ABILITIES
+##### CHRONOPATHY ABILITIES
 
 Choose one of the following abilities.
 
-### ACCELERATION FIELD (11 CLARITY)
+###### ACCELERATION FIELD (11 CLARITY)
 
 *You forcibly add more moments into a critical point in time, knowing full well you may need to steal some of your own.* **Keywords:** Area, Chronopathy, Psionic **Type:** Maneuver **Distance:** 3 Burst **Target:** Special
 
@@ -14299,7 +14299,7 @@ within distance:
 - *12-16:* **6 corruption damage; P \< \[average\] slowed (save ends)**
 - *17+:* **10 corruption damage; P \< \[strong\] slowed (save ends)**
 
-#### BORROW FROM THE FUTURE (11 CLARITY)
+###### BORROW FROM THE FUTURE (11 CLARITY)
 
 *You lean on future heroism to assist you in the now.* **Keywords:** Area, Chronopathy, Psionic **Type:** Maneuver
 
@@ -14307,11 +14307,11 @@ within distance:
 
 **Effect:** You have 6 heroic resources to distribute amongst the targets in range. A target can't gain more than 3 of their heroic resource in this way. After using this ability, you can't gain any clarity until the end of the next round.
 
-#### TELEKINESIS ABILITIES
+##### TELEKINESIS ABILITIES
 
 Choose one of the following abilities.
 
-#### GRAVITIC NOVA (11 CLARITY)
+###### GRAVITIC NOVA (11 CLARITY)
 
 *Unbridled psionic energy erupts from your body and flashes outward.*
 
@@ -14327,7 +14327,7 @@ Choose one of the following abilities.
 
 **Strained:** You're weakened (save ends). You die on a critical hit.
 
-#### FULCRUM (11 CLARITY)
+###### FULCRUM (11 CLARITY)
 
 *You use fine precision to manipulate the creatures around you.*
 
@@ -14343,11 +14343,11 @@ Choose one of the following abilities.
 
 **Strained:** You can choose to reduce the area of the burst by 2 (to a minimum of 1 Burst) to increase the force movement by 2. You take half the damage all targets take from forced movement.
 
-#### TELEPATHY ABILITIES
+##### TELEPATHY ABILITIES
 
 Choose one of the following abilities.
 
-#### RESONANT MIND SPIKE (11 CLARITY)
+###### RESONANT MIND SPIKE (11 CLARITY)
 
 *A telepathic bolt empowered by every mind within your reach fired directly into your foe's head.* **Keywords:** Psionic, Ranged, Strike, Telepathy **Type:** Action
 
@@ -14359,7 +14359,7 @@ Choose one of the following abilities.
 
 **Effect:** This ability ignores cover and concealment. **Strained:** The ability power roll is a critical hit on a natural 17 or higher. You receive half the damage the target takes. This damage ignores your immunities.
 
-#### SYNAPTIC TERROR (11 CLARITY)
+###### SYNAPTIC TERROR (11 CLARITY)
 
 *You send a message to the world and allow their responses into your present company's minds.* **Keywords:** Area, Psionic, Telepathy
 
@@ -14377,33 +14377,33 @@ Choose one of the following abilities.
 
 ? *17+:* **R \< \[strong\] frightened of you (save ends) Strained:** You can't use this ability if you would go into negative clarity.
 
-## 10TH-LEVEL FEATURES
+### 10TH-LEVEL FEATURES
 
 As a 10th-level talent, you gain the following features.
 
-## CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 Both your Reason and your Presence become 5.
 
-## CLEAR MIND
+#### CLEAR MIND
 
 When you gain insight from a creature being force moved, you gain 1 additional insight for a total of 3.
 
-## OMNISENSORY
+#### OMNISENSORY
 
 The distance of your ranged abilities is now 1 mile or the distance of your Telepathic Speech feature (whichever is larger), as long as one of the targets is a thinking creature you have previously had line of effect to.
 
-## PERK
+#### PERK
 
 You gain an interpersonal, lore, or supernatural perk of your choice. See Perks for more information.
 
-### PSION
+#### PSION
 
 When you gain clarity at the start of your turn, you gain 4 clarity instead of 3.
 
 Additionally, you can choose to not take damage from having negative clarity. You can also choose to take on the strained effects from abilities even while not strained.
 
-## VISION
+#### VISION
 
 You gain an epic resource called vision. When you take a Respite, you gain ordinance equal to the XP you gain. You can spend vision as if it were clarity on abilities you have.
 
@@ -14411,7 +14411,7 @@ Additionally, you can spend vision to use an additional psionic ability on your 
 
 Vision remains until you spend it.
 
-### SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
@@ -14421,7 +14421,7 @@ The whole world's a stage and everyone on it, an actor. No one knows this better
 
 And beyond the mundane, there are insurmountable dangers that cause many a hero to cower. But the troubadour must chase that drama. The troubadour takes the world stage not to die, but to find out if they are truly alive.
 
-## BASICS
+### BASICS
 
 **Starting Characteristics:** You start with an Agility of 2 and a Presence of 2, and can choose one of the following arrays for your other characteristics scores:
 
@@ -14483,11 +14483,11 @@ And beyond the mundane, there are insurmountable dangers that cause many a hero 
 |      | All Time, Perk, Skill    |             |          |
 |      | Increase                 |             |          |
 
-## 1ST-LEVEL FEATURES
+### 1ST-LEVEL FEATURES
 
 As a troubadour, you gain the following features.
 
-## TROUBADOUR CLASS ACT
+#### TROUBADOUR CLASS ACT
 
 Panache, melody, and depiction. Some troubadours have it all, but everyone starts somewhere. Your class act is your art form, summing up the manner in which the world becomes your stage. As you go about unearthing the drama of everyday life and strife, you choose a troubadour class act from the following options, each of which grants you a skill (*Quick Build:* Virtuoso):
 
@@ -14497,11 +14497,11 @@ Panache, melody, and depiction. Some troubadours have it all, but everyone start
 
 Your choice of class act determines many of the features you'll gain from this class.
 
-## DRAMA
+#### DRAMA
 
 During battles, you are fueled by the dynamic ups, downs, and upside downs of the fray, from which you derive a Heroic Resource called drama.
 
-#### DRAMA IN COMBAT
+##### DRAMA IN COMBAT
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain drama equal to your Victories. At the start of each of your turns during combat, you gain 1d3 drama.
 
@@ -14518,17 +14518,17 @@ You still gain drama during combat if you are dead as long as your body is intac
 
 You lose any remaining drama at the end of the encounter.
 
-#### DRAMA OUTSIDE OF COMBAT
+##### DRAMA OUTSIDE OF COMBAT
 
 Though you can't gain drama outside of combat, you can use your heroic abilities and effects that cost drama without spending it. Whenever you use an ability or effect outside of combat that costs drama, you can't use that same ability or effect outside of combat again until you gain at least 1 Victory or finish a Respite.
 
 If you use an ability outside of combat that lets you spend unlimited drama on its effect, such as Artful Flourish, you can use it as if you had spent an amount of drama on it equal to your Victories.
 
-### SCENE PARTNER
+#### SCENE PARTNER
 
 Whenever you use a skill from the interpersonal group on a test while interacting with an NPC (a bystander, a rival, and so forth) and you don't fail the test, you can form a bond with that NPC. If you then enter into a negotiation with this NPC, their patience increases by 1, and any compelling arguments you personally make to the NPC that would increase their interest by 1 instead increase their interest by 2. You can have a number of such bonds active equal to your level, losing a bond of your choice whenever you make a new bond beyond your limit.
 
-## CURTAIN CALL
+#### CURTAIN CALL
 
 You enter every performance with a set of routines at the ready. Routines are auras and other wide-reaching effects that have the Routine keyword, and which center around you while you move through the fray. At the start of each round of combat, as long as you are not dazed, dead, or surprised, you can either set a new routine to be active or maintain your current routine (no action required). Your routine ends if you are unable to maintain it, or at the end of the encounter.
 
@@ -14550,7 +14550,7 @@ CHOREOGRAPHY
 
 **Effect:** While this routine is active, choose a number of targets equal to your Presence score at the end of your turn. Each chosen target can spend a Recovery.
 
-## 1ST-LEVEL CLASS ACT FEATURES
+#### 1ST-LEVEL CLASS ACT FEATURES
 
 Your troubadour class act grants you features as shown on the 1st-Level Class Act Features table.
 
@@ -14562,11 +14562,11 @@ Your troubadour class act grants you features as shown on the 1st-Level Class Ac
 | Skald     | Blocking, Dramatic Monologue   |
 | Virtuoso  | Power Chord, Virtuoso Routines |
 
-#### ACROBATICS
+##### ACROBATICS
 
 You gain the following routine ability, usable with your Curtain Call feature.
 
-#### ACROBATICS
+##### ACROBATICS
 
 *Folks love a good tumble.*
 
@@ -14574,11 +14574,11 @@ You gain the following routine ability, usable with your Curtain Call feature.
 
 **Effect:** While this routine is active, any target who starts their turn in the aura can automatically obtain a tier 3 result on one test made to jump, tumble, or climb as part of their movement before the end of their turn.
 
-#### BLOCKING
+##### BLOCKING
 
 You gain the following routine ability, usable with your Curtain Call feature.
 
-#### BLOCKING
+##### BLOCKING
 
 *No, no, no, you lose the audience that way. Try it like this ...*
 
@@ -14586,11 +14586,11 @@ You gain the following routine ability, usable with your Curtain Call feature.
 
 **Effect:** At the end of each of your turns while this routine is active, you can choose a number of creatures equal to your Presence score in the aura, causing those creatures to be teleported to unoccupied squares in the aura. A target can't be teleported in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
 
-#### DRAMATIC MONOLOGUE
+##### DRAMATIC MONOLOGUE
 
 You gain the following ability.
 
-#### DRAMATIC MONOLOGUE
+##### DRAMATIC MONOLOGUE
 
 *It doesn't need to make sense. Just say it with emotionality.*
 
@@ -14604,11 +14604,11 @@ You gain the following ability.
 
 **Spend 1 Drama:** You can choose two targets for any of these effects.
 
-### POWER CHORD
+##### POWER CHORD
 
 You gain the following ability.
 
-#### POWER CHORD
+##### POWER CHORD
 
 *Your instrument rings true and your music blows everyone away.*
 
@@ -14620,11 +14620,11 @@ You gain the following ability.
 - *12-16:* **Push 2**
 - *17+:* **Push 3**
 
-#### STAR POWER
+##### STAR POWER
 
 You gain the following ability.
 
-#### STAR POWER
+##### STAR POWER
 
 *You're the one they came to see!* **Keywords:** -- **Type:** Maneuver
 
@@ -14634,7 +14634,7 @@ You gain the following ability.
 
 **Spend 2 Drama:** You gain a +4 bonus to speed instead.
 
-#### VIRTUOSO ROUTINES
+##### VIRTUOSO ROUTINES
 
 You gain the following routine abilities, each of which is usable with your Curtain Call feature.
 
@@ -14660,7 +14660,7 @@ You gain the following routine abilities, each of which is usable with your Curt
 
 **Effect:** While this routine is active, each target who starts their turn in the aura gains a surge.
 
-### CLASS ACT TRIGGERED ACTION
+#### CLASS ACT TRIGGERED ACTION
 
 Your troubadour class act grants you a triggered action as shown on the Class Act Triggered Actions table.
 
@@ -14700,15 +14700,15 @@ Your troubadour class act grants you a triggered action as shown on the Class Ac
 
 **Spend 3 Drama:** One of the edges becomes a double bane, or one of the attack's banes becomes a double edge.
 
-## KIT
+#### KIT
 
 You can use and gain the benefits of a kit. See the Kits chapter for more information. (*Quick Build:* Swashbuckler)
 
-### TROUBADOUR ABILITIES
+#### TROUBADOUR ABILITIES
 
 Your performance centers around rearranging the battlefield and keeping things in motion. You know how to modify the little details in a scene so that the story flows as dramatically as possible.
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 Choose one signature ability from the following options. Signature abilities can be used at will. (*Quick Build:* Witty Banter)
 
@@ -14751,7 +14751,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Effect:** The target is taunted by you or a willing ally adjacent to you until the end of the target's next turn.
 
-#### WITTY BANTER
+###### WITTY BANTER
 
 *A lyrical (and physical) jab insults an enemy and inspires an ally.*
 
@@ -14767,11 +14767,11 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Spend 1 Drama:** The chosen ally can also spend a Recovery.
 
-#### HEROIC ABILITIES
+##### HEROIC ABILITIES
 
 You master a range of heroic abilities, all of which cost drama to empower them. (*Quick Build:* Harsh Critic)
 
-#### 3-DRAMA ABILITY
+###### 3-DRAMA ABILITY
 
 Choose one heroic ability from the following options, each of which costs 3 drama to use.
 
@@ -14836,7 +14836,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 - *12-16:* **Taunted (EoT);** A \< average\*\*, prone\*\*
 - *17+:* **Taunted (EoT);** A \< strong\*\*, prone and can't stand (EoT)\*\*
 
-### 5-DRAMA ABILITY
+##### 5-DRAMA ABILITY
 
 Choose one heroic ability from the following options, each of which costs 5 drama to use. (*Quick Build:* Dramatic Reversal)
 
@@ -14880,11 +14880,11 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 
 **Effect:** You can become bleeding (save ends) to deal an additional 5 corruption damage to the target.
 
-## 2ND-LEVEL FEATURES
+### 2ND-LEVEL FEATURES
 
 As a 2nd-level troubadour, you gain the following features.
 
-## APPEAL TO THE MUSES
+#### APPEAL TO THE MUSES
 
 You can give a rousing speech, invoke your inspirations, or lift your fellows' spirits to heighten the drama of your present circumstances. However, irony is eager to hand your fortune to the villain and achieve the same ends.
 
@@ -14894,7 +14894,7 @@ Whenever you roll to gain 1d3 drama at the start of your turn, you can make your
 - If the roll is a 2, you gain 1 Heroic Resource, which you can keep for yourself or give to an ally within the distance of your active routine. The Director also gains 1 Malice.
 - If the roll is a 3, you gain 2 Heroic Resources, which you can distribute among yourself and any allies within the distance of your active routine.
 
-## INVOCATION
+#### INVOCATION
 
 You have a specific manner that helps define your reputation among those who watch you fight. Choose one of the following features.
 
@@ -14902,27 +14902,27 @@ You have a specific manner that helps define your reputation among those who wat
 
 Whenever you take the first turn in a combat encounter, you can use your action to introduce yourself and your allies to your opponents. Each creature on your side can shift up to their speed and gains the benefit of the Defend action (see Actions) until the end of the round. However, any enemies who were surprised are no longer surprised.
 
-#### FORMAL INTRODUCTIONS
+##### FORMAL INTRODUCTIONS
 
 As a respite activity, you can scribe a notice of your arrival, such as a calling card or a formal letter, addressed to an enemy and have it delivered. You can deliver the notice to the target personally if you are in the same general area, send it by courier, or leave it in a covert location for the target to find. You can have only one notice active at a time.
 
 The Director determines when the target receives your notice. Once the target receives the notice, they become alarmed and take desperate measures to stop you. The Director gains 1 additional Malice per round during future encounters involving the target. The heroes start each such encounter with 2 additional hero tokens. These hero tokens disappear at the end of the encounter.
 
-#### MY REPUTATION PRECEDES ME
+##### MY REPUTATION PRECEDES ME
 
 You can invoke your reputation at the start of a social interaction with a group of creatures who haven't met you before, automatically creating a bond with a representative NPC as if using your Scene Partner feature (see above). While the bond is active, all present heroes are treated as having Renown 2 higher than usual for the purpose of negotiations and influencing tests with the group.
 
 The Director can choose to award the heroes with 1 Hero Token to stop you from forming this bond, making you infamous with the community instead. Until actions are taken to improve your reputations, all present heroes take a bane on tests using skills from the interpersonal skill group with the group of creatures. You can still use your Scene Partner feature to find allies within the community.
 
-## PERK
+#### PERK
 
 You gain an interpersonal, lore, or supernatural perk of your choice. See Perks for more information.
 
-## 2ND-LEVEL CLASS ACT ABILITY
+#### 2ND-LEVEL CLASS ACT ABILITY
 
 Your troubadour class act grants your choice of one of two abilities.
 
-### 2ND-LEVEL DUELIST ABILITY
+##### 2ND-LEVEL DUELIST ABILITY
 
 Choose one of the following abilities.
 
@@ -14946,7 +14946,7 @@ Choose one of the following abilities.
 
 **Effect:** If the target shifts or makes a free strike against you as a result of this ability, you can shift up to 3 squares and make a melee free strike against the target.
 
-#### 2ND-LEVEL SKALD ABILITY
+##### 2ND-LEVEL SKALD ABILITY
 
 Choose one of the following abilities.
 
@@ -14968,7 +14968,7 @@ TWIST AT THE END (5 DRAMA)
 
 **Effect:** As long as the target is not a leader or a solo creature, they come back to life with half their Stamina and become an ally under the Director's control. The players can discuss with the Director when the target takes their turn each round. The target turns to dust and blows away at the end of the encounter.
 
-#### 2ND-LEVEL VIRTUOSO ABILITY
+##### 2ND-LEVEL VIRTUOSO ABILITY
 
 Choose one of the following abilities.
 
@@ -14992,11 +14992,11 @@ ENCORE (5 DRAMA) *Again! Again!*
 - *12-16:* **9 corruption damage;** M \< average\*\*, pull 2 toward the center of the area\*\*
 - *17+:* **12 corruption damage;** M \< strong\*\*, pull 3 toward the center of the area\*\*
 
-## 3RD-LEVEL FEATURES
+### 3RD-LEVEL FEATURES
 
 As a 3rd-level troubadour, you gain the following features.
 
-## 3RD-LEVEL CLASS ACT FEATURE
+#### 3RD-LEVEL CLASS ACT FEATURE
 
 Your troubadour class act grants you a feature as shown on the 3rd-Level Class Act Features table.
 
@@ -15008,15 +15008,15 @@ Your troubadour class act grants you a feature as shown on the 3rd-Level Class A
 | Skald     | Recast a Supporting Part |
 | Virtuoso  | Second Album             |
 
-#### FOIL
+##### FOIL
 
 Choose one creature within line of effect at the start of an encounter. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the creature dies, you can choose a new foil at the start of the next round.
 
-#### RECAST A SUPPORTING PART
+##### RECAST A SUPPORTING PART
 
 If you aren't surprised at the beginning of an encounter, you can choose one enemy within line of effect who isn't a leader or a solo creature. The director swaps that creature out with a squad of minions whose encounter value doesn't exceed the chosen creature's encounter value. The Director can determine that this feature can't be used against certain special enemies.
 
-### SECOND ALBUM
+##### SECOND ALBUM
 
 You gain the following routine abilities, each of which is usable with your Curtain Call feature.
 
@@ -15036,7 +15036,7 @@ You gain the following routine abilities, each of which is usable with your Curt
 
 **Effect:** While this routine is active, each target who starts their turn dying while in the aura gains an edge on power rolls and ignores the effects of bleeding until the end of their turn.
 
-## 7-DRAMA ABILITY
+#### 7-DRAMA ABILITY
 
 Choose one heroic ability from the following options, each of which costs 7 drama to use.
 
@@ -15098,15 +15098,15 @@ WE MEET AT LAST. LET'S FINISH THIS (7 DRAMA)
 
 Additionally, on each of your turns, you can use a free maneuver to communicate a motivating or dispiriting message to the target, either giving them two surges or a bane on the next attack they use before the start of your next turn.
 
-## 4TH-LEVEL FEATURES
+### 4TH-LEVEL FEATURES
 
 As a 4th-level troubadour, you gain the following features.
 
-## CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 Both your Agility and your Presence become 3.
 
-## MELODRAMA
+#### MELODRAMA
 
 You have more ways of getting the most drama out of a situation. Add two of the following events to your list of events that grant you drama during battle:
 
@@ -15117,21 +15117,21 @@ You have more ways of getting the most drama out of a situation. Add two of the 
 - **2 Drama:** A hero uses their last Recovery.
 - Instead of another event, increase the drama gained from an event on your list by 1.
 
-## PERK
+#### PERK
 
 You gain any perk of your choice. See Perks for more information.
 
-## ZEITGEIST
+#### ZEITGEIST
 
 You always have your ear to the ground, your finger on the pulse. You hear killer phrases everywhere and work them into the script.
 
 When you start or finish a respite, choose one of the following effects.
 
-#### FORESHADOWING
+##### FORESHADOWING
 
 You can ask the Director for two clues about an upcoming encounter or negotiation. One of the clues can be false.
 
-### HEAR YE, HEAR YE!
+##### HEAR YE, HEAR YE!
 
 You can spread one piece of information onto the winds via bragging, intimidating, leading, or lying. Make a Presence test:
 
@@ -15139,27 +15139,27 @@ You can spread one piece of information onto the winds via bragging, intimidatin
 - *12-16:* Your message reaches the nearby town (or townsized civilization). You and allied heroes present for your test have an edge on all Presence tests in the affected area until one of you spends a Recovery.
 - *17+:* Your message reaches the nearby town and the next town over. You and allied heroes present for your test have an edge on all Presence tests in the affected areas until you start your next respite.
 
-#### LATEST GOSS
+##### LATEST GOSS
 
 You can ask the Director for three rumors about the area you're in or plan on entering before your next respite. One of the rumors can be false.
 
-### SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## 5TH-LEVEL FEATURES
+### 5TH-LEVEL FEATURES
 
 As a 5th-level troubadour, you gain the following features.
 
-## 5TH-LEVEL CLASS ACT FEATURES
+#### 5TH-LEVEL CLASS ACT FEATURES
 
 Your act is growing more uniquely your own, even among troubadours. Your class act grants your choice of one of two features.
 
-#### DUELIST FEATURES
+##### DUELIST FEATURES
 
 Choose one of the following features.
 
-#### VERBAL DUEL
+###### VERBAL DUEL
 
 You can use a free maneuver on your turn to exchange words with the target of your Foil feature while they are adjacent to you. Make an opposed Presence test with the target. Whomever gets the higher result can take a free strike, dealing psychic damage in place of the normal damage.
 
@@ -15173,31 +15173,31 @@ WE CAN'T BE UPSTAGED! You gain the following routine.
 
 **Effect:** Whenever a target that starts their turn within the aura shifts, they can shift an additional number of squares equal to your presence score until the end of their turn.
 
-#### VIRTUOSO FEATURES
+##### VIRTUOSO FEATURES
 
 Choose one of the following features.
 
-#### MEDLEY
+###### MEDLEY
 
 You can set two routines to be active at the same time.
 
-#### WITTY BANTER
+###### WITTY BANTER
 
 You can use a free maneuver on your turn to exchange words with a target (other than yourself) of your active routine. The target can spend a Recovery to gain temporary Stamina equal to 1/3rd of their maximum Stamina.
 
-#### SKALD FEATURES
+##### SKALD FEATURES
 
 Choose one of the following features.
 
-#### FIX IT IN POST
+###### FIX IT IN POST
 
 You can use a free maneuver on your turn to change one of the conditions of a creature within range of your Dramatic Monologue ability. Select one of the following conditions that the target has: bleeding, frightened, prone, slowed, or taunted. The target's condition changes to another condition on the list, maintaining the same duration and origin of condition that they had previously. If a target is no longer prone, they stand up.
 
-#### TAKE TWO!
+###### TAKE TWO!
 
 You gain the following routine.
 
-#### TAKE TWO!
+###### TAKE TWO!
 
 *One more, and this time make it interesting.*
 
@@ -15206,7 +15206,7 @@ You gain the following routine.
 
 **Effect:** The first time a target that starts their turn within the aura gets a tier-2 result on a power roll, they can choose to roll power again. They must use the new result.
 
-## 9-DRAMA ABILITIES
+#### 9-DRAMA ABILITIES
 
 Choose one heroic ability from the following options.
 
@@ -15254,15 +15254,15 @@ Choose one heroic ability from the following options.
 - *12-16:* **2 allies within distance take their turns immediately after yours in any order**
 - *17+:* **3 allies within distance take their turns immediately after yours in any order, one of which can be someone who already took a turn this round**
 
-## 6TH-LEVEL FEATURES
+### 6TH-LEVEL FEATURES
 
 As a 6th-level troubadour, you gain the following features.
 
-### PERK
+#### PERK
 
 You gain an interpersonal, lore, or supernatural perk of your choice. See Perks for more information.
 
-### SPOTLIGHT
+#### SPOTLIGHT
 
 You have access to the following routine to use with Curtain Call.
 
@@ -15276,11 +15276,11 @@ You have access to the following routine to use with Curtain Call.
 
 **Effect:** A target who starts their turn within the aura gains 1 Heroic Resource. This Heroic Resource disappears at the end of their turn if they do not spend it.
 
-## 6TH-LEVEL CLASS ACT ABILITY
+#### 6TH-LEVEL CLASS ACT ABILITY
 
 Your class act grants your choice of one of two abilities.
 
-#### 6TH-LEVEL DUELIST ABILITIES
+##### 6TH-LEVEL DUELIST ABILITIES
 
 Choose one of the following abilities.
 
@@ -15304,7 +15304,7 @@ Choose one of the following abilities.
 
 **Effect:** You and the target uses a single melee free strike that targets all enemies within 3 of you. You choose which enemies you target with your free strike and your target targets with their free strike. You then slide the target 5 squares, ignoring their stability.
 
-#### 6TH-LEVEL VIRTUOSO ABILITIES
+##### 6TH-LEVEL VIRTUOSO ABILITIES
 
 Choose one of the following abilities.
 
@@ -15328,7 +15328,7 @@ Choose one of the following abilities.
 
 **Effect:** Each target gains a surge now and at the start of each round until the end of the encounter.
 
-#### 6TH-LEVEL SKALD ABILITIES
+##### 6TH-LEVEL SKALD ABILITIES
 
 Choose one of the following abilities.
 
@@ -15356,15 +15356,15 @@ Choose one of the following abilities.
 
 **Effect:** Until the end of the encounter, each target gains the speed, distance, disengage, and stability bonuses of your currently equipped kit on top of their own bonuses.
 
-## 7TH-LEVEL FEATURES
+### 7TH-LEVEL FEATURES
 
 As a 7th-level troubadour, you gain the following features.
 
-### CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 All of your characteristics increase by 1, to a maximum score of 4.
 
-### AUTEUR
+#### AUTEUR
 
 When you gain drama at the start of your turn, you gain 1d3 + 1 drama. If you make an appeal to the muses, use the following results from now on:
 
@@ -15372,21 +15372,21 @@ When you gain drama at the start of your turn, you gain 1d3 + 1 drama. If you ma
 - If your drama roll is a 2, 3, 4, or 5, you gain 1 Heroic Resource which you can keep or give to an ally within distance of your active routine. The Director also gains 1 Malice.
 - If your drama roll is a 6, you gain 4 Heroic Resources, which you can distribute amongst yourself and any allies within distance of your active routine. A recipient can only receive up to maximum of 2 Heroic Resources this way.
 
-## EQUAL BILLING
+#### EQUAL BILLING
 
 You can now use your Scene Partner feature to form a bond with a willing fellow hero in addition to NPCs. If you bond with a second hero, you lose your bond with the previous hero.
 
 You and creatures who are bonded to you gain a +1 bonus to saving throws. If you or a bonded creature succeeds on a saving throw, you both get temporary Stamina equal to your level.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
-## 8TH-LEVEL FEATURES
+### 8TH-LEVEL FEATURES
 
 As an 8th-level troubadour, you gain the following features.
 
-## 8TH-LEVEL CLASS ACT FEATURES
+#### 8TH-LEVEL CLASS ACT FEATURES
 
 You've put your mark on the artform for all class acts to follow. You gain a new feature as shown on the 8th-Level Class Act Features table.
 
@@ -15398,7 +15398,7 @@ You've put your mark on the artform for all class acts to follow. You gain a new
 | Virtuoso  | Crowd Favorites |
 | Skald     | Deleted Scene   |
 
-#### CROWD FAVORITES
+##### CROWD FAVORITES
 
 You have access to two additional routines to use with Curtain Call.
 
@@ -15422,21 +15422,21 @@ You have access to two additional routines to use with Curtain Call.
 
 **Effect:** Each target who starts their turn within the aura ignores difficult terrain and has the forced movement effects of their abilities increased by 2 until the end of their turn. Additionally, targets can use a triggered action as a free triggered action once per round while within the aura.
 
-#### DELETED SCENE
+##### DELETED SCENE
 
 You narrate quick flashbacks and conveniences into the scene to make the story flow as smoothly as possible. You can spend 1 drama to use your Dramatic Monologue feature (targeting only 1 creature) as a free triggered action whenever a creature within distance makes a power roll.
 
-#### MASTERWORK
+##### MASTERWORK
 
 Select one of your signature abilities and name it after yourself. You always have this ability available even if you switch kits. You always have an edge using this ability and a free surge that you can use on this ability (but on no others).
 
 Additionally, if the last ability you use in an encounter is your named signature, you can immediately use the Hear Ye, Hear Ye! effect of your Words on the Winds feature to tell tales of your exploits after the encounter ends.
 
-### PERK
+#### PERK
 
 You gain any one perk of your choice. See Perks for more information.
 
-## 11-DRAMA ABILITIES
+#### 11-DRAMA ABILITIES
 
 Choose one heroic ability from the following options.
 
@@ -15481,21 +15481,21 @@ THE SHOW MUST GO ON (11 DRAMA) *You shine a bright light on the players on the s
 
 **Effect:** Each ally within distance can't roll below tier-2 on the next test they make before the start of your next turn.
 
-## 9TH-LEVEL FEATURES
+### 9TH-LEVEL FEATURES
 
 As a 9th-level troubadour, you gain the following features.
 
-## ROAR OF THE CROWD
+#### ROAR OF THE CROWD
 
 You are empowered by your audience, near and far. You can't be frightened, and you can stand up from prone as a free maneuver.
 
 Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke an invisible roar of an applauding audience. You and all allies within 3 gain temporary Stamina equal to 10 + your number of active bonds (see Scene Partner) + either your Victories or the number of players in your game (whichever is higher).
 
-### 9TH-LEVEL CLASS ACT ABILITY
+#### 9TH-LEVEL CLASS ACT ABILITY
 
 Your class act grants your choice of one of two abilities.
 
-#### 9TH-LEVEL DUELIST ABILITIES
+##### 9TH-LEVEL DUELIST ABILITIES
 
 Choose one of the following abilities.
 
@@ -15527,7 +15527,7 @@ EXPERT FENCER (11 DRAMA)
 - *12-16:* **You and the target end all EoT and save ends effects affecting either of you**
 - *17+:* **You choose any of the current EoT and save ends effects affecting either of you, apply them to the target, and end the rest.**
 
-#### 9TH-LEVEL VIRTUOSO ABILITIES
+##### 9TH-LEVEL VIRTUOSO ABILITIES
 
 Choose one of the following abilities.
 
@@ -15559,7 +15559,7 @@ Choose one of the following abilities.
 
 **Effect:** All forced movement from this ability ignores stability and size.
 
-#### 9TH-LEVEL SKALD ABILITIES
+##### 9TH-LEVEL SKALD ABILITIES
 
 Choose one of the following abilities.
 
@@ -15585,15 +15585,15 @@ RISING TENSION (11 DRAMA)
 
 **Effect:** The target gains 3 of their heroic resource, has a double edge on a power roll of their choice made during their next turn, is no longer slowed or weakened if they were before, and can immediately take their turn after yours if they have not taken their turn already.
 
-## 10TH-LEVEL FEATURES
+### 10TH-LEVEL FEATURES
 
 As a 10th-level troubadour, you gain the following features.
 
-## CHARACTERISTIC INCREASE
+#### CHARACTERISTIC INCREASE
 
 Both your Agility and your Presence become 5.
 
-## DIRECTOR NOTES
+#### DIRECTOR NOTES
 
 You gain an epic resource called director notes. When you take a Respite, you gain director notes equal to the XP you gain. You can spend director notes as if they were drama on abilities you have.
 
@@ -15601,19 +15601,19 @@ Additionally, you can spend 1 director note whenever you or a creature within 3 
 
 Director notes remain until you spend them.
 
-### DRAMATURGY
+#### DRAMATURGY
 
 You gain 1 extra drama whenever you make an appeal to the muses. Additionally, the distance of your routines increases to line of effect, covering the whole battle map.
 
-## GREATEST OF ALL TIME
+#### GREATEST OF ALL TIME
 
 Whenever you make a test without failing, all creatures within line of effect have their Impression decreased by 4 during negotiations (to a minimum of 1), and all allies within 3 have an edge on their next test. These effects last until you start your next respite or you fail a test.
 
-## PERK
+#### PERK
 
 You gain an interpersonal, lore, or supernatural perk of your choice. See Perks for more information.
 
-## SKILL INCREASE
+#### SKILL INCREASE
 
 You gain one skill of your choice.
 
@@ -15757,7 +15757,7 @@ A distance bonus doesn't increase the size of any ability's area of effect.
 
 Your kit's disengage bonus increases the number of squares you can shift when you take the Disengage move action. You can shift an additional number of squares equal to the bonus when you use Disengage.
 
-## KIT SIGNATURE ABILITY
+##### KIT SIGNATURE ABILITY
 
 Each kit grants you a signature ability, **which already includes the kit's bonuses**.
 
@@ -15781,18 +15781,18 @@ This section details each kit, whose bonuses and benefits are summarized in the 
 
 The Arcane Archer kit allows you to combine magic and ranged weapon attacks. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear no armor and wield a bow.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Speed Bonus:** +1
 - **Ranged Damage Bonus:** +2/+2/+2
 - **Weapon Distance Bonus:** +10
 - **Disengage Bonus:** +1
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### EXPLODING ARROW
 
@@ -15812,18 +15812,18 @@ You wear no armor and wield a bow.
 
 Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! You use the Battlemind kit harnesses the power of your mind to make yourself harder to move and your foes easier to push around.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear light armor and wield a medium weapon.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +2
 - **Stability Bonus:** +1
 - **Melee Damage Bonus:** +2/+2/+2
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### UNMOORING
 
@@ -15839,11 +15839,11 @@ You wear light armor and wield a medium weapon.
 
 Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the Cloak and Dagger kit makes you more mobile while providing a boost to your effectiveness at range and to your damage. This kit is good for a hero who wants to be able to move all over the battlefield while keeping their options open for using short-range attacks.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear light armor and wield one or two light weapons.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +2
@@ -15868,18 +15868,18 @@ You wear light armor and wield one or two light weapons.
 
 The Dual Wielder kit is for folks who want to excel at using two weapons at the same time. The fighting style maximizes the power of each instrument in your hands, making you a whirling deliverer of death.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear medium armor and wield a light weapon and a medium weapon.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +6 per echelon
 - **Speed Bonus:** +2
 - **Melee Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### DOUBLE STRIKE
 
@@ -15897,18 +15897,18 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 The Guisarmier kit is for those who want to use a polearm for extended reach and still gain the extra protection of armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear medium armor and wield a polearm.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +6 per echelon
 - **Stability Bonus:** +1
 - **Melee Damage Bonus:** +2/+2/+2
 - **Melee Distance Bonus:** +1
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### FORWARD THRUST, BACKWARD SMASH
 
@@ -15926,18 +15926,18 @@ You wear medium armor and wield a polearm.
 
 If you want to be fast in a fight, then Martial Artist is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes to opponents, and allows you to be the ultimate skirmisher.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear no armor and wield only your unarmed strikes.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +3
 - **Melee Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### BATTLE GRACE
 
@@ -15959,11 +15959,11 @@ You wear no armor and wield only your unarmed strikes.
 
 The Mountain kit does exactly what it says on the tin. You don heavy armor and a heavy weapon to stand strong against your foes, quickly demolishing them when it's your turn to attack.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear heavy armor and wield a heavy weapon.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +9 per echelon
 - **Stability Bonus:** +2
@@ -15989,18 +15989,18 @@ You wear heavy armor and wield a heavy weapon.
 
 If you want a good balance of protection, speed, and damage, the Panther kit is for you. This kit increases your Stamina not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear no armor and wield a heavy weapon.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +6 per echelon
 - **Speed Bonus:** +1
 - **Stability Bonus:** +1
 - **Melee Damage Bonus:** +0/+0/+4
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### DEVASTATING RUSH
 
@@ -16022,18 +16022,18 @@ You wear no armor and wield a heavy weapon.
 
 Meant for brawlers and boxers, the Pugilist kit gives you access to a melee fighting style that gives you a boost to Stamina and damage while allowing you to float like a butterfly. If you want to be a tough, strong hero who doles out punishment with your fists, then this kit is for you.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear no armor and wield only your unarmed strikes.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +6 per echelon
 - **Speed Bonus:** +2
 - **Stability Bonus:** +1
 - **Melee Damage Bonus:** +1/+1/+1
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### LET'S DANCE
 
@@ -16054,11 +16054,11 @@ You wear no armor and wield only your unarmed strikes.
 
 The Raider kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear light armor, and wield a shield and a light weapon.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +6 per echelon
 - **Speed Bonus:** +1
@@ -16067,9 +16067,9 @@ You wear light armor, and wield a shield and a light weapon.
 - **Ranged Distance Bonus:** +5
 - **Disengage Bonus:** +1
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
-#### SHOCK AND AWE
+##### SHOCK AND AWE
 
 *You execute a brutal strike that leaves your foe reeling.*
 
@@ -16087,11 +16087,11 @@ You wear light armor, and wield a shield and a light weapon.
 
 The Ranger kit outfits you with light armor and several weapons, letting you easily switch between using a melee weapon and a bow. This kit provides a good balance of bonuses to Stamina, speed, damage, and range to create a hero who is a jack-of-all-trades.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear medium armor and wield a medium weapon and a bow.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +6 per echelon
 - **Speed Bonus:** +1
@@ -16114,11 +16114,11 @@ You wear medium armor and wield a medium weapon and a bow.
 
 The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique focuses on peppering foes at medium range.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear light armor and wield a bow.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +1
@@ -16126,7 +16126,7 @@ You wear light armor and wield a bow.
 - **Ranged Distance Bonus:** +7
 - **Disengage Bonus:** +1
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### TWO SHOT
 
@@ -16142,11 +16142,11 @@ You wear light armor and wield a bow.
 
 The retiarius is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear light armor, and wield a polearm and several ensnaring weapons.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +1
@@ -16154,7 +16154,7 @@ You wear light armor, and wield a polearm and several ensnaring weapons.
 - **Melee Distance Bonus:** +1
 - **Disengage Bonus:** +1
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### NET AND STAB
 
@@ -16172,17 +16172,17 @@ You wear light armor, and wield a polearm and several ensnaring weapons.
 
 The Shining Armor kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear heavy armor and wield a shield and a medium weapon.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +12 per echelon
 - **Stability Bonus:** +1
 - **Melee Damage Bonus:** +2/+2/+2
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### PROTECTIVE ATTACK
 
@@ -16201,11 +16201,11 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 The Sniper kit gives you the tools and techniques to take down enemies from afar. This kit can help you become the archer who lurks behind trees or down tunnels, picking off enemies with a bow or crossbow as they approach.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear no armor and wield a bow.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Speed Bonus:** +1
 - **Ranged Damage Bonus:** +0/+0/+4
@@ -16228,18 +16228,18 @@ You wear no armor and wield a bow.
 
 The Spellsword kit combines melee attacks and a little bit of magic for warriors who don't want to have to choose between the incantation and the blade.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear light armor and wield a shield and a medium weapon.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +6 per echelon
 - **Speed Bonus:** +1
 - **Stability Bonus:** +1
 - **Melee Damage Bonus:** +2/+2/+2
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### LEAPING LIGHTNING
 
@@ -16255,11 +16255,11 @@ You wear light armor and wield a shield and a medium weapon.
 
 Armed with a simple reach weapon, often a quarterstaff, heroes using the Stick and Robe kit are highly mobile thanks to their light armor. This allows them to make maximum use of their weapon's length.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear light armor and wield a polearm.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +2
@@ -16267,7 +16267,7 @@ You wear light armor and wield a polearm.
 - **Melee Distance Bonus:** +1
 - **Disengage Bonus:** +1
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### WHERE I WANT YOU
 
@@ -16283,18 +16283,18 @@ You wear light armor and wield a polearm.
 
 If you want to be mobile and deal a lot of damage with melee attacks, then you should reach for the Swashbuckler kit. This is a great kit for heroes who want to be master duelists.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear light armor and wield a medium weapon.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +3
 - **Melee Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### FANCY FOOTWORK
 
@@ -16314,18 +16314,18 @@ You wear light armor and wield a medium weapon.
 
 The Sword and Board kit doesn't just give you a shield--it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you can protect yourself and control the battlefield.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear medium armor and wield a shield and a medium weapon.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +9 per echelon
 - **Melee Damage Bonus:** +2/+2/+2
 - **Stability Bonus:** +1
 - **Disengage Bonus:** +1
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### SHIELD BASH
 
@@ -16345,18 +16345,18 @@ You wear medium armor and wield a shield and a medium weapon.
 
 The Warrior Priest kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine ... and the heavy armor you're wearing.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear heavy armor and wield a light weapon.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Stamina Bonus:** +9 per echelon
 - **Speed Bonus:** +1
 - **Stability Bonus:** +1
 - **Melee Damage Bonus:** +1/+1/+1
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### WEAKENING BRAND
 
@@ -16376,18 +16376,18 @@ You wear heavy armor and wield a light weapon.
 
 The Whirlwind kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a mobile warrior who uses a chain or whip, then this is the kit for you.
 
-#### EQUIPMENT
+##### EQUIPMENT
 
 You wear no armor and wield a whip.
 
-#### KIT BONUSES
+##### KIT BONUSES
 
 - **Speed Bonus:** +3
 - **Melee Damage Bonus:** +1/+1/+1
 - **Melee Distance Bonus:** +1
 - **Disengage Bonus:** +1
 
-#### SIGNATURE ABILITY
+##### SIGNATURE ABILITY
 
 #### EXTENSION OF MY ARM
 
@@ -16667,7 +16667,7 @@ This section presents the supernatural perks in alphabetical order.
 
 You gain the following ability.
 
-#### ARCANE TRICK
+### ARCANE TRICK
 
 *You cast an entertaining spell that creates a minor but impressive magical effect.*
 
@@ -16723,7 +16723,7 @@ INVISIBLE FORCE
 
 You gain the following ability.
 
-#### PSYCHIC WHISPER
+### PSYCHIC WHISPER
 
 *You send a one-way telepathic message to a friend.* **Keywords:** Psionic **Type:** Maneuver **Distance:** Ranged 10 **Target:** 1 ally who understands at least one language
 
@@ -18022,7 +18022,7 @@ Reactive tests are typically made in the following circumstances, though the Dir
 
 Some Directors prefer to make the power rolls for reactive tests for the heroes rather than asking the players to do so. This allows the Director to make the rolls when appropriate for hidden objects, creatures, motivations, and information without tipping off the players that there is information to be gained. Having the Director roll requires the Director to have everyone's characteristics and skills written down (whether physically or digitally) for easy reference.
 
-## SKILLS
+#### SKILLS
 
 Skills represent the different specializations a hero has outside of attacking, defending, and using their ancestry features, class features, and equipment. Whenever you make a test, having a particular skill associated with the test increases your chance of success.
 
@@ -18450,7 +18450,7 @@ A montage test can have three different outcomes:
 - If the heroes hit the failure limit or time runs out, and if they've achieved at least two more successes than failures, they achieve a partial success.
 - If the heroes hit the failure limit or time runs out, and if they don't have at least two more successes than failures, they suffer total failure.
 
-### TOTAL SUCCESS
+#### TOTAL SUCCESS
 
 If the heroes earn a total success, they achieve what they set out to do without complication. For instance, if the heroes engaged in a montage test to see if they can cross a desert to reach a city before a tyrant's army arrived there and leveled the place, a total success sees them arrive at the city gates with plenty of time to warn people of the impending assault. The heroes earn 1 Victory when they achieve total success on an easy or moderate montage test, and 2 Victories on a hard montage test.
 
@@ -18656,7 +18656,7 @@ If a creature's speed entry includes the word "climb," they can climb across ver
 
 Creatures without those types of movement can still climb or swim when a rule allows them to move, but each square of climbing or swimming costs 2 squares of movement. If a surface is difficult to climb (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to swim through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't climb or swim but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
 
-#### CLIMBING OTHER CREATURES
+##### CLIMBING OTHER CREATURES
 
 You can attempt to climb a creature whose size is greater than yours. If the creature is willing, you can climb them without any trouble. If the creature is unwilling, you make the following test:
 
@@ -18748,7 +18748,7 @@ When you force move a target, you can always move that target fewer squares than
 
 Forced movement ignores difficult terrain and never provokes opportunity attacks. When you force move a target into damaging terrain or into terrain that produces an effect, they are affected as if they had moved into it willingly.
 
-### VERTICAL
+#### VERTICAL
 
 If a forced movement effect has the word "vertical" in front of it, then the forced movement can move a target up or down in addition to horizontally. For example, if a forced movement effect says "vertical push 5," then the creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the forced movement is a straight line.
 
@@ -18811,7 +18811,7 @@ Each creature has a stability that allows them to resist forced movement. When a
 
 A move action allows you to move around the battlefield. Sometimes you'll already be exactly where you want to be and not need to use a move action on your turn. That's okay! The decision to not move is just as tactical as the decision to move.
 
-### ADVANCE
+### ADVANCEFor the Director
 
 When you take the Advance move action, you can move a number of squares up to your speed. You can break up this movement granted with your maneuver and action however you wish.
 
@@ -18853,7 +18853,7 @@ While you are grabbed by another creature (see Grab below), you can attempt to e
 
 You attempt to grab a creature using the following ability:
 
-#### GRAB
+### GRAB
 
 **Keywords:** Melee **Type:** Maneuver
 
@@ -18875,7 +18875,7 @@ Using the Hide maneuver, you attempt to hide from other creatures who aren't obs
 
 You attempt to shove an adjacent creature using the following ability:
 
-#### KNOCKBACK
+### KNOCKBACK
 
 **Keywords:** Melee, Weapon **Type:** Maneuver **Distance:** Melee 1
 
@@ -18915,7 +18915,7 @@ You can also use your action to catch your breath, help another creature regain 
 
 You can convert your action into a maneuver or move action.
 
-### CHARGE
+#### CHARGE
 
 When you take the Charge action, you move up to your speed in a straight line without shifting, and can then make a melee free strike (see Free Strikes) against a creature when you end your move. You can't move through difficult terrain as part of your movement with this action. You can't climb, fly, or swim as part of this action unless you have that type of movement as a keyword in your speed.
 
@@ -18972,7 +18972,7 @@ A melee weapon free strike is a melee strike made with an unarmed strike or an i
 - *12-16:* **4 + M or A damage**
 - *17+:* **6 + M or A damage**
 
-### FLANKING
+## FLANKING
 
 When you and at least one ally are adjacent to the same enemy and on completely opposite sides of the enemy, you are flanking that enemy. While flanking an enemy, you gain an edge on melee strikes against them.
 
@@ -19400,7 +19400,7 @@ Arguments that appeal to the revelry motivation contend that striking a deal wit
 - "How would you like to have the most exclusive songs for your exclusive birthday celebration next week? I'll write you a whole original set list, free of charge ... provided you extend me and my band here an invitation."
 - "I know you don't want to forge five Chronokinesis Crowns. How's this instead? You do that for me, and I'll give you the fourteen kegs of whiskey we found in a steel-dwarf ruin. This stuff is old, unique, and forgetyour-first-name potent. You can crack a keg with your friends to celebrate a job well done."
 
-### VENGEANCE
+#### VENGEANCE
 
 An NPC with the vengeance motivation wants to harm another who has hurt them. Their desire for revenge could be proportional to the harm that was inflicted upon them, or they might wish to pay back their pain with interest. In some cases, a desire for vengeance can be satisfied only by the death of another, but an NPC might wish to pay back their own suffering with embarrassment, career failure, or some other less permanent pain.
 
@@ -20010,7 +20010,7 @@ Imbuing magical treasure as a project typically means you undertake that project
 
 Armor imbued with an enhancement grants you special benefits while it is worn. Additionally, when your armor receives its 1st-level enhancement, it also grants a +6 Stamina bonus. A 5th-level enhancement increases the Stamina bonus to +12, and a 9th-level enhancement increases it to +21.
 
-#### 1ST-LEVEL ARMOR ENHANCEMENT
+##### 1ST-LEVEL ARMOR ENHANCEMENT
 
 **Item Prerequisites:** Varies
 
@@ -20066,7 +20066,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Tempest I:** As a maneuver, you can infuse this armor with the essence of a storm. The first time an adjacent creature makes deals damage to you before the end of your next turn, they take lightning damage equal to your highest characteristic score and you can push them 1 square.
 
-#### 5TH-LEVEL ARMOR ENHANCEMENT
+##### 5TH-LEVEL ARMOR ENHANCEMENT
 
 **Item Prerequisites:** Armor with a 1st-level enhancement; varies
 **Project Source:** Texts or lore in a language determined by the enhancement
@@ -20136,7 +20136,7 @@ resources to activate the ability. Once you use the ability, the armor loses it,
 
 **Tempest II:** When you use the armor's Tempest I enhancement, the affected creature takes 8 lightning damage and you push them up to 3 squares.
 
-#### 9TH-LEVEL ARMOR ENHANCEMENT
+##### 9TH-LEVEL ARMOR ENHANCEMENT
 
 - **Item Prerequisites:** Armor with a 5th-level enhancement; varies
     **Project Source:** Texts or lore in a language determined by the enhancement
@@ -20218,7 +20218,7 @@ During your turn, you can teleport to the imprint's space as a free maneuver. Wh
 
 Implements are jewelry, orbs, staffs, tomes, wands, weapons, and other objects used by magic and psionic users to focus their power. You decide what object to imbue when you create an implement treasure, but it must be an object you can carry or wear. You must have a mundane version of the item you plan to imbue when you begin this project. An implement imbued with an enhancement grants you special benefits while it is wielded. Additionally, when an implement receives its 1stlevel enhancement, it grants a +1 rolled damage bonus for your damage-dealing magic and psionic abilities. A 5thlevel enhancement increases the bonus to +2, and a 9thlevel enhancement increases it to +3.
 
-#### 1ST-LEVEL IMPLEMENT ENHANCEMENT
+##### 1ST-LEVEL IMPLEMENT ENHANCEMENT
 
 **Item Prerequisites:** Varies
 
@@ -20265,7 +20265,7 @@ Implements are jewelry, orbs, staffs, tomes, wands, weapons, and other objects u
 
 **Warding I:** You gain a +6 Stamina bonus.
 
-#### 5TH-LEVEL IMPLEMENT ENHANCEMENT
+##### 5TH-LEVEL IMPLEMENT ENHANCEMENT
 
 - **Item Prerequisites:** An implement with a 1st-level enhancement; varies
 - **Project Source:** Texts or lore in a language determined by the enhancement
@@ -20310,7 +20310,7 @@ Implements are jewelry, orbs, staffs, tomes, wands, weapons, and other objects u
 
 **Warding II:** The Stamina bonus for the Warding I enhancement becomes +12. Additionally, your characteristic scores are considered 1 higher for the purpose of resisting potencies.
 
-#### 9TH-LEVEL IMPLEMENT ENHANCEMENT
+##### 9TH-LEVEL IMPLEMENT ENHANCEMENT
 
 - **Item Prerequisites:** An implement with a 5th-level enhancement; varies
 - **Project Source:** Texts or lore in a language determined by the enhancement
@@ -20362,7 +20362,7 @@ Implements are jewelry, orbs, staffs, tomes, wands, weapons, and other objects u
 
 A weapon imbued with an enhancement grants you special benefits while it is wielded. Additionally, when a weapon receives its 1st-level enhancement, it grants a +1 rolled damage bonus for your damage-dealing weapon abilities. A 5th-level enhancement increases the damage bonus to +2, and a 9th-level enhancement increases it to +3.
 
-#### 1ST-LEVEL WEAPON ENHANCEMENT
+##### 1ST-LEVEL WEAPON ENHANCEMENT
 
 **Item Prerequisites:** Varies **Project Source:** Texts or lore in a language determined by the enhancement
 
@@ -20416,7 +20416,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 **Wingbane:** Whenever you damage a flying creature using this weapon, that creature is also bleeding (save ends). While bleeding in this way, the creature takes 1 damage per square they fly. If the creature starts and ends their turn on the same solid surface, the bleeding condition ends.
 
-#### 5TH-LEVEL WEAPON ENHANCEMENT
+##### 5TH-LEVEL WEAPON ENHANCEMENT
 
 **Item Prerequisites:** A weapon with a 1st-level enhancement; varies
 
@@ -20486,7 +20486,7 @@ A weapon imbued with an enhancement grants you special benefits while it is wiel
 
 **Vengeance II:** Whenever you use this weapon with an ability against a creature who has dealt damage to you since the end of your last turn, you gain a +4 damage bonus on the ability. This replaces the benefit of Vengeance I.
 
-#### 9TH-LEVEL WEAPON ENHANCEMENT
+##### 9TH-LEVEL WEAPON ENHANCEMENT
 
 **Item Prerequisites:** A weapon with a 5th-level enhancement; varies
 
@@ -21274,7 +21274,7 @@ Treasures come in all shapes and sizes, and are broken down into four types:
 
 - **Artifacts** are treasures of legendary power that can change or shape an adventure--or even an entire campaign. Each of these game-breaking items is unique, highly coveted, and well guarded.
 
-## FOUND, EARNED, OR CRAFTED
+### FOUND, EARNED, OR CRAFTED
 
 The rules of the game account for worlds where the average person--sometimes even the average noble doesn't have regular access to treasures. There might be an apothecary in the capital city of a region, but they're selling herbal remedies, not supernatural potions. In Vasloria, a town blacksmith isn't selling magic maces, and the local tailor doesn't make psionic capes. There simply aren't enough treasures readily available to create a good trade economy. Word sometimes gets around of mysterious clubs where heroes and treasure seekers can meet up to swap items, but the constant threat of thieves makes such markets difficult to find.
 
@@ -21288,7 +21288,7 @@ Heroes can also craft their own treasures, forging the tools they need to get th
 
 Each treasure has an item prerequisite for crafting. The exact nature of many of these materials is left nebulous so that the Director can more easily work them into a campaign. What's a mindspider and how rare is their silk? That's for the Director to decide. This makes it easier for them to drop it into their planned adventures or craft an entire adventure around finding that one item.
 
-### WEARING TREASURES
+#### WEARING TREASURES
 
 Many treasures, such as cloaks, jewelry, hats, and boots, must be worn. Unless the Director deems otherwise, these items supernaturally resize themselves to fit the creature using them.
 
@@ -21298,7 +21298,7 @@ Though body keywords indicate where a treasure is meant to be worn, treasures ca
 
 If a wearable treasure comes as a set, such as a pair of bracers, boots, or earrings, all items in the set must be worn to gain the treasure's benefits.
 
-### WIELDING TREASURES
+#### WIELDING TREASURES
 
 Some treasures are wielded in the form of weapons or implements. A weapon might have the Light Weapon, Medium Weapon, or Heavy Weapon keywords, or might have a keyword denoting a specific category of weapon (Bow, Polearm, and so forth). An implement might have the Implement keyword or a keyword denoting the type of implement (Orb, Wand, and so forth). Armor is also considered a wielded treasure, with the Light Armor, Medium Armor, or Heavy Armor keywords, or the Shield keyword.
 
@@ -21306,23 +21306,23 @@ A hero can wield as many weapons, implements, suits of armor, or shields as they
 
 However, an ability can benefit only from one weapon or implement at a time.
 
-#### TREASURES AND KITS
+##### TREASURES AND KITS
 
 To gain the benefits of a weapon or armor treasure, the treasure must have keywords that match the equipment of your kit. For instance, a hero using the Warrior Priest kit can benefit from wearing a heavy armor treasure and wielding light weapon treasures, since those are part of that kit. But they gain no benefit from using treasures that are light armor, medium armor, shields, medium weapons, or heavy weapons.
 
 If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the conduit's Prayer of Soldier's Skill.
 
-### MAGIC AND PSIONIC TREASURES
+#### MAGIC AND PSIONIC TREASURES
 
 The Magic and Psionic keywords don't restrict you from using specific treasures, such as implements, with specific abilities. An implement with the Magic keyword can be used to enhance Psionic abilities and vice versa.
 
 While treasures can enhance specific abilities, for the purpose of the rules, they don't add the Magic or Psionic keyword to abilities that don't already have them, even if they are enhancing those abilities.
 
-### STAMINA AND DAMAGE BONUSES
+#### STAMINA AND DAMAGE BONUSES
 
 If two treasures give a creature a bonus to their Stamina or the rolled damage of their abilities, only the higher bonus applies unless otherwise noted. The Stamina and damage bonuses from consumables ignore this rule and can be stacked with other Stamina and damage bonuses granted by treasures.
 
-## CONSUMABLES
+### CONSUMABLES
 
 Consumables are treasures that can be used a limited number of times before they expire, losing whatever makes them supernatural. You can drink a potion once, and when you do so, that's it. It's consumed. Other consumables might have a specific number of charges that can be spent. Once those charges are gone, the treasure is useless.
 
@@ -21330,11 +21330,11 @@ Consumables are organized by echelon to make life easy for the Director handing 
 
 Your character can carry any number of consumables at a time.
 
-### 1ST-ECHELON CONSUMABLES
+#### 1ST-ECHELON CONSUMABLES
 
 This section presents 1st-echelon consumable treasures in alphabetical order.
 
-#### BLACK ASH DART
+##### BLACK ASH DART
 
 *A diamond-shaped dart holds a shimmering black vial at its core.*
 
@@ -21354,7 +21354,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 - *12-16:* **You can teleport the target up to 4 squares.**
 - *17+:* **You can teleport the target up to 6 squares.**
 
-#### BLOOD ESSENCE VIAL
+##### BLOOD ESSENCE VIAL
 
 *A brittle glass tube has a ruby set atop it, attached by a hinge.*
 
@@ -21364,7 +21364,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 **Effect:** When you damage an adjacent creature who has blood, you can capture the target's life essence in this vial (no action required). Record the damage you dealt. As a maneuver, you can drink the contents of the vial to regain Stamina equal to half the damage dealt. If you spend 1 Heroic Resource while you drink, you regain Stamina equal to the damage dealt. Once you drink from the vial, it crumbles to dust.
 
-#### CATAPULT DUST
+##### CATAPULT DUST
 
 *A small leather pouch is filled with this fine blue powder.*
 
@@ -21384,7 +21384,7 @@ This section presents 1st-echelon consumable treasures in alphabetical order.
 
 Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating the square where it lands and any creatures or objects in that square with a sticky, flammable oil. If the oil takes any fire damage, it burns persistently and deals 5 fire damage at the end of each of your turns to anything it has coated. A creature covered in the oil or who can reach it can use an action to extinguish the flames and end the effect.
 
-#### GROWTH POTION
+##### GROWTH POTION
 
 *This thick, green liquid tastes of licorice and potatoes.*
 
@@ -21392,7 +21392,7 @@ Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 
 
 **Effect:** As a maneuver, you can drink this potion or pour it over an object of size 2 or smaller, causing the target's size to increase by 1. If you are the target, your current Stamina and Stability are doubled, you gain an edge on Might tests, and your weapon abilities deal extra rolled damage equal to your highest characteristic score. You shrink back to your original size after 3 rounds, halving your current Stamina and Stability, and losing the potion's other benefits. Objects maintain their new size permanently.
 
-#### HEALING POTION
+##### HEALING POTION
 
 *Thick and red, this liquid tastes of sour beer.*
 
@@ -21408,7 +21408,7 @@ Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 
 
 **Effect:** As a maneuver, you place the imp's tongue on your own tongue, causing it to reconstitute and attach itself to your tongue. While attached, the Imp's Tongue allows you to speak any language and understand any language spoken to you. This benefit ends after 1 hour, when the tongue is absorbed into your body.
 
-#### LACHOMP TOOTH
+##### LACHOMP TOOTH
 
 *A thumb-sized serrated tooth seems to scratch your flesh in some way whenever it is handled.*
 
@@ -21422,7 +21422,7 @@ Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 
 - *12-16:* **You can affect up to three additional targets with this strike.**
 - *17+:* **You can affect up to seven additional targets with this strike.**
 
-#### MIRROR TOKEN
+##### MIRROR TOKEN
 
 *A gold-rimmed, mirror-faced coin trembles in the hand as if it were repelled by your touch.*
 
@@ -21434,7 +21434,7 @@ Alternatively, you can use a maneuver to throw the pot up to 5 squares, coating 
 
 **Effect:** While the Mirror Token is on your person and you are targeted by a ranged strike, you can use a triggered action to crush the token and ignore the strike. Half the damage you would have taken and any effects of the triggering strike are imposed on the creature making the strike.
 
-#### POCKET HOMUNCULUS
+##### POCKET HOMUNCULUS
 
 *A densely interlocking sphere of clockwork gears features facets that show the countenance of the item's wielder.*
 
@@ -21450,7 +21450,7 @@ They appear indistinguishable from you, but can't use any abilities.
 
 While you have line of effect to your homunculus, you can use a maneuver to issue them a telepathic command. The homunculus performs the command to the best of their ability. If not commanded, the homunculus mimics your movements and speech. When you move, the homunculus moves with you, matching your pace. The homunculus crumbles to dust after 1 hour or if reduced to Stamina 0.
 
-#### PORTABLE CLOUD
+##### PORTABLE CLOUD
 
 *This thin glass sphere holds a tiny roiling cloud.*
 
@@ -21481,7 +21481,7 @@ Enterprising mages within various thieves' guilds have developed variations of t
 
 if the target doesn't realize they've been affected by the snuff.
 
-#### SNAPDRAGON
+##### SNAPDRAGON
 
 *This delicate orange blossom has a sickly-sweet smell.*
 
@@ -21491,11 +21491,11 @@ if the target doesn't realize they've been affected by the snuff.
 
 **Effect:** As a maneuver, you sniff a magical snapdragon blossom, causing it to whither and making your movements more forceful and explosive. The next damage-dealing ability you use deals 5 extra damage and gains a +2 bonus to the distance of any forced movement it imposes. If the ability does not impose forced movement, you can push each creature targeted by the ability up to 2 squares.
 
-### 2ND-ECHELON CONSUMABLES
+#### 2ND-ECHELON CONSUMABLES
 
 This section presents 2nd-echelon consumable treasures in alphabetical order.
 
-#### BREATH OF DAWN
+##### BREATH OF DAWN
 
 *A glass flask contains a whirl of gentle sunlight.*
 
@@ -21507,7 +21507,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Effect:** As a maneuver, you inhale the Breath of Dawn and are overcome with tranquility. You immediately end the frightened, slowed, and taunted conditions on yourself, and you gain a +8 bonus to Stability until the end of the encounter.
 
-#### BULL SHOT
+##### BULL SHOT
 
 *Tiny chips of white bone float within this dark potion, which carries the scent of beef broth.*
 
@@ -21517,7 +21517,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Effect:** When you drink this potion as a maneuver, you sprout three-foot sharpened horns from your forehead. Whenever you take the Charge action, the target of your strike is gored upon your horns and grabbed. While grabbed this way, the creature is bleeding. You can also grab another creature with your limbs. The horns harmlessly fall off your head at the end of the encounter.
 
-#### CHOCOLATE OF IMMOVABILITY
+##### CHOCOLATE OF IMMOVABILITY
 
 *This decadent-looking treat feels strangely heavy in the hand.*
 
@@ -21529,7 +21529,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Effect:** When you consume this delicious piece of candy as a maneuver, you gain 15 temporary Stamina and a +10 bonus to stability. Additionally, if you don't use your movement during your turn, any strikes you make on that turn deal 5 bonus damage, and any strikes against you take a bane until the start of your next turn. This effect and the bonus to stability lasts until the end of the encounter, after which you are sleepy. If not reduced beforehand, the temporary Stamina lasts until the end of your next respite.
 
-#### CONCEALMENT POTION
+##### CONCEALMENT POTION
 
 *This dark, viscous liquid tastes like burnt leaves.*
 
@@ -21541,7 +21541,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Effect:** When you drink this potion as a maneuver, light shifts around your body, letting you blend into the environment around you for 10 minutes. While this effect is active, you have a double edge on tests made to hide and sneak, and you can use the Hide maneuver even while you are observed.
 
-#### PURIFIED JELLY
+##### PURIFIED JELLY
 
 *This clear, pasty substance has a bitter aroma.*
 
@@ -21552,7 +21552,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 **Effect:** Consuming this potion as a maneuver causes your skin to shimmer and a set of tiny gills to appear on your neck or shoulders. For 1 hour, you can breathe normally in any environment, and you ignore the effects of harmful gases, vapors, and inhaled poisons.
 
-#### SCROLL OF RESURRECTION
+##### SCROLL OF RESURRECTION
 
 *This scroll is marked by sigils of power, death, and life.*
 
@@ -21566,7 +21566,7 @@ This section presents 2nd-echelon consumable treasures in alphabetical order.
 
 A creature with a willing soul returns to life at the end of the respite with full Stamina and half their Recoveries. You regain only half your Recoveries at the end of the respite, and the scroll is consumed.
 
-#### SCROLL OF SHADOW FRIENDSHIP
+##### SCROLL OF SHADOW FRIENDSHIP
 
 *This yellowed parchment bears the rough figures of creatures, with the shadows of those figures seeming to shift.*
 
@@ -21578,7 +21578,7 @@ A creature with a willing soul returns to life at the end of the respite with fu
 
 **Effect:** As a maneuver, you target a creature of your size or smaller and recite the incantation from this scroll. A doppelganger of the creature made of shadow pulls itself out of the target's mouth. It has the same statistics and abilities as the target, but has half the target's current Stamina, can't regain Stamina, and only fights the target. The shadow creature lasts until defeated or until the end of the encounter, dissolving into a hazy mist.
 
-#### TELEMAGNET
+##### TELEMAGNET
 
 *A short iron wand shaped of interlocking segments leaks greasy black oil from its joints.*
 
@@ -21596,7 +21596,7 @@ A creature with a willing soul returns to life at the end of the respite with fu
 
 If you pull a size 1T object adjacent to you, you can catch it.
 
-#### VIAL OF ETHEREAL ATTACK
+##### VIAL OF ETHEREAL ATTACK
 
 *Clear liquid seems to constantly churn within an obsidian vial, even when at rest.*
 
@@ -21608,11 +21608,11 @@ If you pull a size 1T object adjacent to you, you can catch it.
 
 **Effect:** As a maneuver, you throw this vial up to 10 squares, destroying the vial and creating a 2-cube ethereal vortex centered on the spot where it lands. The vortex dissipates at the end of the encounter or when you dismiss it (no action required). Any creature who enters the vortex for the first time in a round or starts their turn there takes 10 psychic damage. At the start of each of your turns, you can move the vortex up to 5 squares (no action required).
 
-### 3RD-ECHELON CONSUMABLES
+#### 3RD-ECHELON CONSUMABLES
 
 This section presents 3rd-echelon consumable treasures in alphabetical order.
 
-#### ANAMORPHIC LARVA
+##### ANAMORPHIC LARVA
 
 *A cloudy glass vial holds a writhing monstrous grub.*
 
@@ -21626,7 +21626,7 @@ This section presents 3rd-echelon consumable treasures in alphabetical order.
 
 At the start of each of your turns, each creature adjacent to the wall takes psychic damage equal to three times their Intuition score, and you can add 1 square to the wall for each creature who takes this damage. If no creature takes damage at the start of your turn, the larva dies and the wall disappears.
 
-#### BOTTLED PARADOX
+##### BOTTLED PARADOX
 
 *Liquid constantly swirls within a cut glass bottle that is ice cold to the touch.*
 
@@ -21652,7 +21652,7 @@ A *card bearing the Eighth City Advocacy Services crest smells faintly of smoke 
 
 **Effect:** Whenever you would take damage, you can use a triggered action to tear the card and summon a devil. You avoid the damage and any accompanying effects, and the devil redirects the triggering effect to a target of their choice anywhere on the same manifold. You are treated to a clear vision of whoever suffers the damage. The devil then disappears.
 
-#### PERSONAL EFFIGY
+##### PERSONAL EFFIGY
 
 *This tiny humanoid effigy appears unnervingly lifelike, and is always warm to the touch.*
 
@@ -21664,7 +21664,7 @@ A *card bearing the Eighth City Advocacy Services crest smells faintly of smoke 
 
 **Effect:** The Personal Effigy is crafted to depict a specific humanoid creature it is tied to, and activates only for the first minute after the creature dies. While you are within 5 squares of the remains of the creature the effigy is tied to, you can use a maneuver to manually light and burn the effigy and bring the creature back to life. The creature returns to life with Stamina equal to their winded value and 10 temporary Stamina that lasts until the end of their next respite. If the creature has been dead for more than 1 minute, they remain dead and the effigy dissolves into dust.
 
-#### STYGIAN LIQUOR
+##### STYGIAN LIQUOR
 
 *This muddy brown whiskey tastes of peat and death.*
 
@@ -21678,7 +21678,7 @@ A *card bearing the Eighth City Advocacy Services crest smells faintly of smoke 
 
 **Effect:** When you drink this potion as a maneuver, you gain a tenacious will to cling to life for 24 hours. If you are dying during this time, you don't die until you reach the negative of your full Stamina value rather than your winded value. Additionally, while you are dying, you gain on edge on power rolls and you take half damage from the bleeding condition. Once the potion's magic is triggered, it ends when you are no longer dying.
 
-#### TIMESPLITTER
+##### TIMESPLITTER
 
 *This spiked crystal makes a beautiful ringing sound when first touched.*
 
@@ -21692,7 +21692,7 @@ A *card bearing the Eighth City Advocacy Services crest smells faintly of smoke 
 - *12-16:* **The target and each creature within 5 squares is slowed (save ends).**
 - *17+:* **The target and each creature within 8 squares is slowed (save ends).**
 
-#### WARD TOKEN
+##### WARD TOKEN
 
 *This smoothly polished quartz stone feels strangely warm to the touch.*
 
@@ -21700,7 +21700,7 @@ A *card bearing the Eighth City Advocacy Services crest smells faintly of smoke 
 
 **Effect:** As a maneuver, you toss this stone above you and it shatters, showering you in dust. Until the end of the encounter, any enemy ability that targets you has a double bane.
 
-#### WELLNESS TONIC
+##### WELLNESS TONIC
 
 *This thick purple liquid has a bitter scent that lingers.*
 
@@ -21708,11 +21708,11 @@ A *card bearing the Eighth City Advocacy Services crest smells faintly of smoke 
 
 **Effect:** When you drink this tonic as a maneuver, you feel a surge of physical and spiritual immunity. You can immediately end up to three conditions or effects affecting you. Additionally, until the start of your next turn, you can ignore any effect that would last until the end of your next turn or be ended by a saving throw.
 
-### 4TH-ECHELON CONSUMABLES
+#### 4TH-ECHELON CONSUMABLES
 
 This section presents 4th-echelon consumable treasures in alphabetical order.
 
-#### BREATH OF CREATION
+##### BREATH OF CREATION
 
 *A glass flask holds a roiling storm of astral plasma.*
 
@@ -21724,7 +21724,7 @@ ounce of condensed dreams **Project Source:** Texts or lore in the First Languag
 
 Each time you use another Breath of Creation, you can create a new demiplane or expand a demiplane you have already created or visited. The size of an expanded demiplane increases by 20, and you create a second portal to the demiplane with a corresponding portal inside.
 
-#### ELIXIR OF SAINT ELSPETH
+##### ELIXIR OF SAINT ELSPETH
 
 *This thick red liquid smells of cinnamon.*
 
@@ -21736,7 +21736,7 @@ tongue **Project Roll Characteristic:** Presence **Project Goal:** 360
 
 **Effect:** When you pour the elixir onto your forehead as a maneuver, it vanishes and you protect yourself against effects that might harm your body, mind, or soul. For a number of rounds equal to your current Victories, any enemy ability targeting you automatically obtains a tier 1 result against you. Additionally, the ability can only deal damage to you, letting you ignore its other effects.
 
-#### PAGE FROM THE INFINITE LIBRARY: SOLARIS
+##### PAGE FROM THE INFINITE LIBRARY: SOLARIS
 
 *This page is covered with writing and diagrams detailing the release of limitless energy--and the dangers of doing so.*
 
@@ -21749,7 +21749,7 @@ tongue **Project Roll Characteristic:** Presence **Project Goal:** 360
 
 **Effect:** As a maneuver, you spend 1 Heroic Resource to destroy this page and create a 4-cube area within 20 squares. The area is filled with the energy of a tiny sun that lasts until the end of the encounter. Any creature who enters the area for the first time in a round or starts their turn there takes 20 fire damage and is dazed until the end of their turn.
 
-#### RESTORATIVE OF THE BRIGHT COURT
+##### RESTORATIVE OF THE BRIGHT COURT
 
 *An ornately decorated golden vial smells of summer rain and subtle zesty fruits.*
 
@@ -21761,17 +21761,17 @@ tongue **Project Roll Characteristic:** Presence **Project Goal:** 360
 
 **Effect:** When opened as a maneuver, this vial bursts into a storm of multicolored lights. You and each ally within 5 squares of you regain 1d6 Recoveries. However, any mortal using this treasure draws the interest of a powerful fey noble.
 
-## TRINKETS
+### TRINKETS
 
 Trinkets are treasures that can be used at will without a reduction in their potency. They generally provide a small benefit, such as allowing you to see farther or become a bit better at picking locks.
 
 Like consumables, treasures are organized by echelon. You can carry any number of trinkets.
 
-### 1ST-ECHELON TRINKETS
+#### 1ST-ECHELON TRINKETS
 
 This section presents 1st-echelon trinket treasures in alphabetical order.
 
-#### COLOR CLOAK (BLUE)
+##### COLOR CLOAK (BLUE)
 
 *This silky-blue hooded cloak is emblazoned with a golden Anjali sigil meaning "ice."*
 
@@ -21783,7 +21783,7 @@ This section presents 1st-echelon trinket treasures in alphabetical order.
 
 Additionally, when you are targeted by any effect that deals cold damage, you can use a triggered action to shift a number of squares equal to your level. If you do so, the cold immunity granted by the cloak becomes cold weakness with the same value until the end of the next round. You can't use this triggered action again until this weakness ends.
 
-#### COLOR CLOAK (RED)
+##### COLOR CLOAK (RED)
 
 *This woolen red hooded cloak is emblazoned with a golden Anjali sigil meaning "fire."*
 
@@ -21795,7 +21795,7 @@ Additionally, when you are targeted by any effect that deals cold damage, you ca
 
 Additionally, when you are targeted by any effect that deals fire damage, you can use a triggered action to reduce the damage to 0. If you do so, the fire immunity granted by this cloak becomes fire weakness with the same value until the end of the next round. You can't use this triggered action again until this weakness ends.
 
-#### COLOR CLOAK (YELLOW)
+##### COLOR CLOAK (YELLOW)
 
 *This rubbery, yellow hooded cloak is emblazoned with a golden Anjali sigil meaning "lightning."*
 
@@ -21807,7 +21807,7 @@ Additionally, when you are targeted by any effect that deals fire damage, you ca
 
 Additionally, when you are targeted by any effect that deals lightning damage, you can use a triggered action to cause the next damage-dealing ability you use to deal extra lightning damage equal to your level. Once you deal this extra damage, your lightning immunity becomes lightning weakness with the same value until the end of the next round. You can't use this triggered action again until this weakness ends.
 
-#### DEADWEIGHT
+##### DEADWEIGHT
 
 *Though this humanoid femur is coated in lead, it feels impossibly heavy for its size.*
 
@@ -21819,7 +21819,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Effect:** While holding the Deadweight, you fall twice as fast, taking an extra 1 damage for each square you fall (to a maximum of 75 total damage from a single fall). If you fall at least 5 squares in this way, choose one of your melee abilities normally used as an action. You can use that ability as a free maneuver once during the fall before you hit the ground.
 
-#### DISPLACING REPLACEMENT BRACER
+##### DISPLACING REPLACEMENT BRACER
 
 *A wooden bangle is etched with an ambigram sigil of the Zaliac word for "transfer."*
 
@@ -21831,7 +21831,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Effect:** As a maneuver, you transfer an object of size 1S or 1T held in one hand with another object of the same size that is within 10 squares. The objects change locations instantaneously and without creating any auditory or visual disturbance. If another creature is wearing or holding the object you transfer to your hand and they have **I \< 4**, they fail to notice the transfer.
 
-#### DIVINE VINE
+##### DIVINE VINE
 
 *A coil of emerald-green vines is topped with the jaws of an enormous Venus flytrap.*
 
@@ -21843,7 +21843,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Effect:** As a maneuver, you call upon the Divine Vine in Yllyric, causing it to extend up to 5 squares from you and attach its jaws to a creature or object, allowing you to use the Grab maneuver at a distance. If the target is grabbed, you can choose to keep the divine vine extended, pull the target adjacent to you, or pull yourself adjacent to the target. The divine vine stays attached to the target until the vine takes damage from a strike, the target escapes your grab, or you call upon the vine to release the target (no action required).
 
-#### FLAMESHADE GLOVES
+##### FLAMESHADE GLOVES
 
 *These finely stitched gloves appear to flicker in and out of reality when first handled.*
 
@@ -21857,7 +21857,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 If the object is too thick or has no open space on the other side, your hand becomes stuck inside the object. Removing your hand takes a successful **hard Might test** made as an action.
 
-#### GECKO GLOVES
+##### GECKO GLOVES
 
 *These scaled gloves have palms and fingers covered in nearinvisible sticky hairs.*
 
@@ -21865,7 +21865,7 @@ If the object is too thick or has no open space on the other side, your hand bec
 
 **Effect:** While you wear these gloves, your grip is all but impossible to break. You can't be disarmed, you can't lose your grip while climbing, and creatures grabbed by you take a bane on the test for the Escape Grab maneuver.
 
-#### GYROTOQUE
+##### GYROTOQUE
 
 *This tight-fitting cap is topped with a freely spinning bauble.*
 
@@ -21875,7 +21875,7 @@ lightning **Project Source:** Texts or lore in Zaliac **Project Roll Characteris
 
 **Effect:** When you spin the bauble atop this cap (no action required), the cap gains an amount of momentum equal to the number of squares you previously moved this turn. As a move action, you can spin the bauble the opposite direction to instantly infuse yourself with the cap's momentum. The next time you force move a creature before the end of your turn, the forced movement distance gains a bonus equal to the cap's momentum. The cap's momentum drops to 0 when you use it this way, if you spin the bauble again to gain new momentum, or at the end of your turn.
 
-#### HELLCHARGER HELM
+##### HELLCHARGER HELM
 
 *A steel helm is set with two curved ebony horns, a crackling plume of fire floating between them.*
 
@@ -21885,7 +21885,7 @@ steel **Project Source:** Texts or lore in Anjali and Caelian **Project Roll Cha
 
 **Effect:** Whenever you take the Charge action while wearing this helmet, you gain a +5 bonus to speed until the end of your current turn. After charging, you can use the Knockback maneuver as a free maneuver, regardless of the target creature's size.
 
-#### MASK OF THE MANY
+##### MASK OF THE MANY
 
 *A plain white mask is lined with soft black velvet--which smells faintly of blood.*
 
@@ -21893,7 +21893,7 @@ steel **Project Source:** Texts or lore in Anjali and Caelian **Project Roll Cha
 
 **Effect:** While you wear this mask, you can use a maneuver to transform into any humanoid of equivalent size that you have previously seen. The humanoid's appearance reflects the last time you saw them, including whatever they were wearing. Your clothing and gear are transformed into the figure's clothing and gear, absorbed into your body, or retain their original forms, as you determine. If the figure possessed any treasures when you last saw them, they are duplicated as mundane copies while you are transformed.
 
-#### QUANTUM SATCHEL
+##### QUANTUM SATCHEL
 
 *A woven metal drawstring seals this plain-looking leather bag, which is affixed with an opal brooch.*
 
@@ -21901,7 +21901,7 @@ steel **Project Source:** Texts or lore in Anjali and Caelian **Project Roll Cha
 
 **Effect:** When the brooch is removed from this bag and placed in a container or room, it magically entangles that location to the bag. Any item that can be placed in the Quantum Satchel appears near to the brooch and can be recovered by reaching inside while picturing the desired object. The capacity of the satchel is dictated by the size of the container or room where the entangled brooch is. If an item is removed from the container or room containing the brooch, it can't be retrieved via the satchel.
 
-#### UNBINDER BOOTS
+##### UNBINDER BOOTS
 
 **Project Goal:** 150
 
@@ -21911,11 +21911,11 @@ steel **Project Source:** Texts or lore in Anjali and Caelian **Project Roll Cha
 
 **Effect:** These boots can temporarily unbind themselves from the chains of the earth, letting you move through the air as high as 3 squares above the ground from where you started. If you end your turn while you are still airborne, you fall.
 
-### 2ND-ECHELON TRINKETS
+#### 2ND-ECHELON TRINKETS
 
 This section presents 2nd-echelon trinket treasures in alphabetical order.
 
-#### BASTION BELT
+##### BASTION BELT
 
 *This thick leather belt features a bone clasp and feels unusually heavy when handled.*
 
@@ -21925,7 +21925,7 @@ This section presents 2nd-echelon trinket treasures in alphabetical order.
 
 **Effect:** While worn, this belt grants you a +3 bonus to Stamina and a +1 bonus to Stability. This Stamina bonus can be gained in addition to ones granted by other treasures.
 
-#### EVILEST EYE
+##### EVILEST EYE
 
 *A perfectly preserved eyeball hangs unnervingly from a gold chain.*
 
@@ -21935,7 +21935,7 @@ drowned at sea **Project Source:** Texts or lore in Caelian **Project Roll Chara
 
 **Effect:** As a maneuver, you target one enemy within 10 squares. You and each ally within 2 squares of the target each gain one surge.
 
-#### INSIGHTFUL CROWN
+##### INSIGHTFUL CROWN
 
 *Shaped of polished crystal, this shimmering circlet shifts through myriad colors in the presence of strong emotions.*
 
@@ -21947,7 +21947,7 @@ drowned at sea **Project Source:** Texts or lore in Caelian **Project Roll Chara
 
 **Effect:** While wearing the crown, you gain an edge on Intuition tests made to read the emotions and discern the honesty of other creatures. If you succeed on an Intuition test to read the emotions of another creature within 5 squares, you can ask the director one question about something the creature knows, which the Director must answer honestly. At the Director's discretion, you might not be able to tap into the creature's deepest secrets this way.
 
-#### KEY OF INQUIRY
+##### KEY OF INQUIRY
 
 *A foot-long platinum key is set with three opals.*
 
@@ -21970,7 +21970,7 @@ drowned at sea **Project Source:** Texts or lore in Caelian **Project Roll Chara
 
 **Effect:** While you wear the Mediator's Charm, the patience of any NPC you negotiate with increases by 1 (to a maximum of 5). Additionally, at the start of a negotiation, you can learn one of an NPC's motivations or pitfalls of the Director's choice.
 
-#### NECKLACE OF THE BAYOU
+##### NECKLACE OF THE BAYOU
 
 *A worn leather circlet bears a lizard-shaped pendant of rotting wood.*
 
@@ -21982,7 +21982,7 @@ drowned at sea **Project Source:** Texts or lore in Caelian **Project Roll Chara
 
 **Effect:** While you wear this necklace, you can breathe underwater, you can automatically swim at full speed while moving, and you ignore difficult terrain created by water or in marsh and similar terrain.
 
-#### SCANNERSTONE
+##### SCANNERSTONE
 
 *This flat, palm-sized triangular stone is decorated with a starfield of tiny gems.*
 
@@ -22013,11 +22013,11 @@ drowned at sea **Project Source:** Texts or lore in Caelian **Project Roll Chara
 
 The coin must be picked up before it can be used again. If any creature picks up the coin, its effects immediately end.
 
-### 3RD-ECHELON TRINKETS
+#### 3RD-ECHELON TRINKETS
 
 This section presents 3rd-echelon trinket treasures in alphabetical order.
 
-#### BRACERS OF STRIFE
+##### BRACERS OF STRIFE
 
 *Each of these metallic blue bracers ends in an oversized glove.*
 
@@ -22025,7 +22025,7 @@ This section presents 3rd-echelon trinket treasures in alphabetical order.
 
 **Effect:** While you wear them in combat, these bracers magically double the size of your hands and any melee weapons you wield, automatically compensating for the extra weight. You gain a +2 rolled damage bonus to any weapon ability, and a +1 bonus to the distance you push any target with any weapon ability. This damage bonus can be gained in addition to ones granted by other treasures.
 
-#### MASK OF OVERSIGHT
+##### MASK OF OVERSIGHT
 
 *This angular electrum mask is set with an excess of eye holes and a horrifying maw.*
 
@@ -22039,7 +22039,7 @@ This section presents 3rd-echelon trinket treasures in alphabetical order.
 
 While the eyes circle your head, you can use a maneuver to launch up to three of the eyes at one creature within 10 squares. Each eye you launch deals 5 damage before it is destroyed. You can't reduce the number of eyes to fewer than two in this way. If you reduce the number of eyes to two, those eyes return to your head and you can't use the mask again until you gain a Victory.
 
-#### MIRAGE BAND
+##### MIRAGE BAND
 
 *A sable blue circlet shimmers with finely woven threads of sparkling white.*
 
@@ -22061,7 +22061,7 @@ HALLUCINATION FIELD
 
 **Effect:** Each target is covered by an illusion causing them to appear exactly as any creature (humanoid, animal, undead, and so forth) an observer most expects to see. The illusion ends for all targets if any creature under its effect harms or physically interacts with any creature not affected by the illusion, if you use this ability again, or if you choose to end the effect (no action required). The illusion also ends for any affected ally who moves more than 5 squares away from you.
 
-#### NULLFIELD RESONATOR RING
+##### NULLFIELD RESONATOR RING
 
 *This simple band of copper vibrates slightly when handled.*
 
@@ -22087,7 +22087,7 @@ Additionally, you gain the following ability.
 
 **Effect:** While slowed in this way, the target takes a bane on magic and psionic abilities.
 
-### SHIFTING RING
+##### SHIFTING RING
 
 *This silvery metal ring seems to momentarily vanish when observed from certain angles.*
 
@@ -22099,7 +22099,7 @@ Additionally, you gain the following ability.
 
 **Effect:** Once per turn, you can use a maneuver to teleport up to 3 squares. Additionally, when targeted by any other effect that causes you to teleport, you can teleport up to 3 additional squares.
 
-### 4TH-ECHELON TRINKETS
+#### 4TH-ECHELON TRINKETS
 
 This section presents 4th-echelon trinket treasures in alphabetical order.
 
@@ -22121,7 +22121,7 @@ This section presents 4th-echelon trinket treasures in alphabetical order.
 
 A trapped spirit remains in the lantern for 10 minutes. They remember being trapped by you, and might become a hostile spirit thereafter.
 
-#### PSI BLADE
+##### PSI BLADE
 
 *This wide metal bracer is set with a glowing gemstone.*
 
@@ -22129,17 +22129,17 @@ A trapped spirit remains in the lantern for 10 minutes. They remember being trap
 
 **Effect:** While wearing this metallic band, you can use a maneuver to project a glowing blade of rippling psychic energy that extends parallel to your arm. While the blade is active, you can use a maneuver once per turn to make a melee weapon free strike that deals an extra 3 psychic damage.
 
-## LEVELED TREASURES
+### LEVELED TREASURES
 
 Like trinkets, leveled treasures can be used at will without a reduction in potency. However, leveled treasures tap
 
 into your will in a way that trinkets don't, becoming more powerful and increasing their capabilities as you level up.
 
-## LEVELED BENEFITS
+#### LEVELED BENEFITS
 
 Each leveled treasure has benefits that you gain at 1st, 5th, and 9th levels. You can't use a treasure's benefit until you achieve the appropriate benefits level. Leveled benefits are cumulative.
 
-### CARRY THREE SAFELY
+#### CARRY THREE SAFELY
 
 Your connection with leveled treasures doesn't just make them useful. It also makes them dangerous. Each leveled item is a quasi-sentient, purpose-driven entity. A magic sword wishes to be used in combat. A psionic censer yearns to defy physics and bend reality. As such, a creature can safely carry a maximum of three leveled treasures at a time. If you carry more leveled treasures, those items become jealous of one another and fight for your attention, attempting to subconsciously influence you into using them--and leaving your other items behind.
 
@@ -22153,11 +22153,11 @@ It's fine to own or possess more than three leveled treasures, as long as the ex
 
 Because you can carry up to three leveled items safely, many players assume they should get and carry three. The truth is that many heroes get a great benefit from carrying just one or two leveled items and have no real need to for a third. That's totally fine! You'll still be super powerful with just one. You can always craft more trinkets and consumables that might serve you better.
 
-### LEVELED ARMOR TREASURES
+#### LEVELED ARMOR TREASURES
 
 Magical and psionic armor and shields are the primary tools of heroes always ready to hurl themselves into combat. This section presents leveled armor treasures in alphabetical order.
 
-#### ADAPTIVE SECOND SKIN OF TOXINS
+##### ADAPTIVE SECOND SKIN OF TOXINS
 
 *This suit is shaped of tough leather and set with thousands of tiny barbs on the inside, all thankfully pain-free to the touch.*
 
@@ -22169,7 +22169,7 @@ Magical and psionic armor and shields are the primary tools of heroes always rea
 
 **9th Level:** The armor's bonus to Stamina increases to +21, and an adjacent creature who deals damage to you takes 6 acid or poison damage. Additionally, you can use a maneuver to transmute a 2-cube area of liquid or gas within 1 square of you into liquid acid or poison gas until the start of your next turn. Any creature who enters the area for the first time in a round or starts their turn there takes 6 acid or poison damage, as appropriate.
 
-#### CHAIN OF THE SEA AND SKY
+##### CHAIN OF THE SEA AND SKY
 
 *This set of heavy chain mail is created to allow free movement in extreme environments without sacrificing protection.*
 
@@ -22185,7 +22185,7 @@ Magical and psionic armor and shields are the primary tools of heroes always rea
 
 **9th Level:** The armor's bonus to Stamina increases to +21, and you have cold immunity 10. Additionally, whenever your feet are not touching a solid surface (including floating in water or being in midair), you gain an edge on ability power rolls, and any abilities that target you take a bane.
 
-#### GRAND SCARAB
+##### GRAND SCARAB
 
 *The bluish-purple carapace and wings of a gigantic scarab beetle have been formed into an ornate breastplate.*
 
@@ -22233,7 +22233,7 @@ Magical and psionic armor and shields are the primary tools of heroes always rea
 
 **9th Level:** The armor's bonus to Stamina increases to +21. Additionally, whenever you capture a moment of time in the armor, you can immediately release it for a burst of speed. If you do, you become dazed (save ends) and can take an extra turn immediately after the triggering creature.
 
-#### PAPER TRAPPINGS
+##### PAPER TRAPPINGS
 
 *This delicate robe is made from thousands of pages torn from books, intricately folded together without a single thread to bind them.*
 
@@ -22249,7 +22249,7 @@ Magical and psionic armor and shields are the primary tools of heroes always rea
 
 **9th Level:** The armor's bonus to Stamina increases to +21, and you are no longer dazed when you return to your true form. Additionally, while you have a target grabbed when you are paper thin, you can use a maneuver to constrict the target, dealing 10 damage to them. A creature damaged this way takes a bane when using the Escape Grab maneuver against you and when making a strike against you.
 
-#### SHROUDED MEMORY
+##### SHROUDED MEMORY
 
 *This midnight-dark leather coat is embossed with fractal patterns that appear different each time they are observed.*
 
@@ -22266,7 +22266,7 @@ Magical and psionic armor and shields are the primary tools of heroes always rea
 
 **9th Level:** The armor's bonus to Stamina increases to +21. Whenever you use the armor's triggered action to teleport, you can teleport up to a number of squares equal to the damage taken. Additionally, if a creature dealt you the triggering damage, you become invisible to that creature until the end of your next turn.
 
-#### SPINY TURTLE
+##### SPINY TURTLE
 
 *This heavy mechanized plate armor of gnomish make is designed to create its own cover on the battlefield.*
 
@@ -22280,7 +22280,7 @@ Magical and psionic armor and shields are the primary tools of heroes always rea
 
 **9th Level:** The armor's bonus to Stamina increases to +21. Additionally, spikes cover the armor, and any creature who deals damage to you while adjacent to you takes 6 damage.
 
-#### STAR-HUNTER
+##### STAR-HUNTER
 
 *Shimmering light flows like liquid along this suit of crystalline armor.*
 
@@ -22296,7 +22296,7 @@ Magical and psionic armor and shields are the primary tools of heroes always rea
 
 **9th Level:** The armor's bonus to Stamina increases to +25, and you instinctively know the location of any concealed creature within 10 squares. Your invisibility no longer ends when you use an ability, and you have psychic immunity 10.
 
-#### TELEKINETIC BULWARK
+##### TELEKINETIC BULWARK
 
 *An unseen force seems to draw this steel shield toward nearby creatures.*
 
@@ -22312,7 +22312,7 @@ Magical and psionic armor and shields are the primary tools of heroes always rea
 
 **9th Level:** The shield's bonus to Stamina increases to +9. Additionally, you can use a maneuver to pull any number of targets the shield has grabbed up to 5 squares.
 
-### LEVELED IMPLEMENT TREASURES
+#### LEVELED IMPLEMENT TREASURES
 
 Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects used by magic and psionic heroes to focus their power. This section presents leveled implement treasures in alphabetical order.
 
@@ -22328,7 +22328,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **9th Level:** The implement's damage bonus increases to +3. Whenever you deal damage to a creature using a supernatural ability, you and each ally within 5 squares of you gains temporary Stamina equal to your highest characteristic score. Additionally, the size of your field of protection increases to a 3 cube, and it can be placed anywhere within 10 squares of you. You and each ally in the area gain its benefits.
 
-#### BRITTLEBREAKER
+##### BRITTLEBREAKER
 
 *This crystal wand thrums with power, yet is so thin and brittle that it feels as if even a slight squeeze will shatter it.*
 
@@ -22342,7 +22342,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **9th Level:** The implement's extra psychic damage increases to 4. Additionally, whenever you use a damagedealing supernatural ability, you can take half as much damage as is dealt to the target to immediately use the same ability again. The damage you take can't be reduced in any way. You can repeat this process until you become winded.
 
-#### CHALDORB
+##### CHALDORB
 
 *A perfectly clear sphere is embossed with fine ivory and crystal that is frigid to the touch.*
 
@@ -22358,7 +22358,7 @@ Implements are pieces of jewelry, orbs, staffs, tomes, wands, and other objects 
 
 **9th Level:** The implement's damage bonus increases to +3. The whirlwind you create when you use a magic ability deals 6 cold damage to each enemy within 2 squares of you, and creates a 2 aura around you that lasts until the start of your next turn. Each enemy who enters the aura for the first time in a round or starts their turn there takes 6 cold damage.
 
-#### ETHER-FUELED VESSEL
+##### ETHER-FUELED VESSEL
 
 *This bronze bottle has been shaped into the form of a ghostly figure.*
 
@@ -22377,7 +22377,7 @@ creature with a supernatural ability, they become insubstantial to you until the
 
 **9th Level:** The implement's damage bonus increases to +3. Any creature who isn't a leader or a solo creature who becomes insubstantial to you also can't make opportunity attacks against your allies.
 
-#### FOESENSE LENSES
+##### FOESENSE LENSES
 
 *These spectacles feature pink-tinted glass lenses held in a silver frame.*
 
@@ -22391,7 +22391,7 @@ creature with a supernatural ability, they become insubstantial to you until the
 
 **9th Level:** The implement's damage bonus increases to +3. Additionally, any creature you have damaged with an ability using this implement in the last minute is dazed while you are using their senses.
 
-#### GEOMETRIC MANIPULATOR
+##### GEOMETRIC MANIPULATOR
 
 *This tiny gold sphere is made up of intricately interlocking rings and plates.*
 
@@ -22403,7 +22403,7 @@ creature with a supernatural ability, they become insubstantial to you until the
 
 **9th Level:** The implement's damage bonus increases to +3. Additionally, you can increase or decrease the size of all your supernatural area abilities by up to 2, and rearranging the squares of a cube or burst ability requires no action.
 
-#### WORDS BECOME WONDERS AT NEXT BREATH
+##### WORDS BECOME WONDERS AT NEXT BREATH
 
 *This ornate high elf tome seems to sigh each time it is opened.*
 
@@ -22417,7 +22417,7 @@ magistrate **Project Source:** Texts or lore in Hyrallic **Project Roll Characte
 
 **9th Level:** While the tome is open, you automatically obtain a tier 3 result on Intuition tests to recall lore, and when you use a heroic ability, its heroic resource cost is reduced by 1.
 
-### LEVELED WEAPON TREASURES
+#### LEVELED WEAPON TREASURES
 
 For combat-focused heroes, weapons channeling magic and psionic power can easily tip the balance of any battle. This section presents leveled weapon treasures in alphabetical order.
 
@@ -22435,7 +22435,7 @@ Presence **Project Goal:** 450
 
 **9th Level:** The weapon's damage bonus increases to +3. Additionally, you no longer need to use a maneuver to end one condition or effect when you damage a creature with the weapon. The weapon also refuses to vie for control of your psyche, and no longer counts against the limit of leveled treasures you can carry safely.
 
-#### BLADE OF QUINTESSENCE
+##### BLADE OF QUINTESSENCE
 
 *This crystal blade houses a stormy vortex of fire, ice, and lightning.*
 
@@ -22451,7 +22451,7 @@ lightning **Project Source:** Texts or lore in Zaliac **Project Roll Characteris
 
 **9th Level:** The weapon's damage bonus increases to +3. Additionally, while you wield or carry the weapon, you gain immunity 10 to cold, fire, lightning, and sonic damage.
 
-#### BLADE OF THE LUXURIOUS FOP
+##### BLADE OF THE LUXURIOUS FOP
 
 *Despite sporting an outrageously ornate hilt adorned with far too many jewels, this blade remains perfectly balanced.*
 
@@ -22467,7 +22467,7 @@ lightning **Project Source:** Texts or lore in Zaliac **Project Roll Characteris
 
 **9th Level:** The weapon's damage bonus increases to +3. Additionally, you have a double edge on any test you make using a skill you have from the interpersonal skill group.
 
-#### DISPLACER
+##### DISPLACER
 
 *This crystal battleaxe seems to pull at the hands that wield it, as if anxious to leap across the battlefield.*
 
@@ -22493,7 +22493,7 @@ lightning **Project Source:** Texts or lore in Zaliac **Project Roll Characteris
 
 **9th Level:** The weapon's extra psychic damage increases to 3, or to 6 if the target is winded. Additionally, you gain an edge on any ability using the weapon against any winded target.
 
-#### ICEMAKER MAUL
+##### ICEMAKER MAUL
 
 *The head of this platinum hammer is cold to the touch, and encases whatever it strikes in a thin layer of ice.*
 
@@ -22509,7 +22509,7 @@ the branch of an ancient evergreen **Project Source:** Texts in Zaliac **Project
 
 **9th Level:** The weapon's extra cold damage increases to 3, and the ice field becomes a 5 burst. Additionally, any enemy in the ice field who is reduced to 0 Stamina by an ability using the weapon can be shattered, killing them and dealing 15 cold damage to each enemy within 3 squares of them.
 
-#### KNIFE OF NINE
+##### KNIFE OF NINE
 
 **Project Goal:** 450
 
@@ -22529,7 +22529,7 @@ the branch of an ancient evergreen **Project Source:** Texts in Zaliac **Project
 
 **9th Level:** If you make a weapon strike using this weapon against a target after dropping down on them from at least 2 squares' height, the attack deals an extra 10 psychic damage. You can distribute all extra psychic damage dealt by the attack between the target and any enemies adjacent to them.
 
-#### LANCE OF THE SUNDERED STAR
+##### LANCE OF THE SUNDERED STAR
 
 *This needle-like lance is cast of shimmering metal, and induces a yearning for the skies in those who handle it.*
 
@@ -22545,7 +22545,7 @@ the branch of an ancient evergreen **Project Source:** Texts in Zaliac **Project
 
 **9th Level:** The weapon's extra holy damage increases to 3. Additionally, whenever the weapon is used with a weapon ability that allows you to push or slide a target, that forced movement can be vertical.
 
-#### MOLTEN CONSTRICTOR
+##### MOLTEN CONSTRICTOR
 
 *This flexible black-iron net burns with the heat of a volcano.*
 
@@ -22559,7 +22559,7 @@ the branch of an ancient evergreen **Project Source:** Texts in Zaliac **Project
 
 **9th Level:** The weapon's extra fire damage increases to 3, and the damage taken by a grabbed creature attempting to escape increases to 15. Additionally, you can use a maneuver to make a free strike with another weapon against a target grabbed using the net.
 
-#### ONEROUS BOW
+##### ONEROUS BOW
 
 *This mechanized bow is set with magical reservoirs that carry the faint tang of toxins.*
 
@@ -22575,7 +22575,7 @@ the branch of an ancient evergreen **Project Source:** Texts in Zaliac **Project
 
 **9th Level:** The weapon's extra poison damage increases to 3. Additionally, if you use an ability using the weapon that targets one creature and you don't have a bane or double bane on the ability, you can take a bane. Doing so lets you target another creature within 1 square of the original target. Alternatively, you can take a double bane to target two creatures within 1 square of the original target.
 
-#### STEELTONGUE
+##### STEELTONGUE
 
 *This sinuous whip reflects all light off its plated steel surfaces.*
 
@@ -22587,7 +22587,7 @@ the branch of an ancient evergreen **Project Source:** Texts in Zaliac **Project
 
 **9th Level:** The weapon's bonus to melee distance increases to +3. Additionally, if you use a signature ability using the weapon that targets one or more bleeding creatures, you can use the same ability again immediately as a maneuver.
 
-#### THIRD EYE SEEKER
+##### THIRD EYE SEEKER
 
 *The shifting patterns on this bow's crystalline grip resemble dozens of blinking eyes.*
 
@@ -22599,7 +22599,7 @@ the branch of an ancient evergreen **Project Source:** Texts in Zaliac **Project
 
 **9th Level:** The weapon's extra psychic damage increases to 3. Additionally, you have a double edge on weapon abilities that use the weapon against creatures who have used a psionic ability since the end of your last turn.
 
-#### THUNDERHEAD BIDENT
+##### THUNDERHEAD BIDENT
 
 *This bident is made from two pieces of moon metal twisted together, and hums like a tuning fork.*
 
@@ -22613,7 +22613,7 @@ the branch of an ancient evergreen **Project Source:** Texts in Zaliac **Project
 
 **9th Level:** The weapon's extra sonic damage increases to 3, and it deals an extra 1 sonic damage for each square it travels as part of a ranged strike. Additionally, whenever you make a weapon strike using this weapon, each creature adjacent to the target takes 6 sonic damage.
 
-#### WETWORK
+##### WETWORK
 
 *When first held, this naginata whispers the names of its past victims.*
 
@@ -22627,11 +22627,11 @@ the branch of an ancient evergreen **Project Source:** Texts in Zaliac **Project
 
 **9th Level:** The weapon's extra sonic damage increases to 3. Additionally, if you kill a creature using the weapon, you can use a maneuver to move up to your speed and make either a signature strike or a melee free strike.
 
-### OTHER LEVELED TREASURES
+#### OTHER LEVELED TREASURES
 
 In addition to armor, shields, implements, and weapons, heroes can make use of a wide range of magic and psionic treasures. This section presents other types of leveled treasures in alphabetical order.
 
-#### BLOODBOUND BAND
+##### BLOODBOUND BAND
 
 *This ring appears to be traced by dried blood, which returns each time it is rubbed away.*
 
@@ -22649,7 +22649,7 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **9th Level:** The ring's bonus to Stamina increases to +21. Additionally, if a creature bonded with you dies, you can choose to die in their place. Your sacrifice twists fate to remove the creature from danger, and they regain Stamina equal to their winded value. Your ring then teleports into their possession and ceases to be magical.
 
-#### BLOODY HAND WRAPS
+##### BLOODY HAND WRAPS
 
 *These rough hand wraps are stained with blood that never comes clean.*
 
@@ -22667,7 +22667,7 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **9th Level:** The damage bonus granted by the hand wraps increases to +3. Additionally, once per turn, you can take 15 damage that can't be reduced in any way to use a signature ability (no action required).
 
-#### LIGHTNING TREADS
+##### LIGHTNING TREADS
 
 *Sparks strike from these boots whenever they touch the ground, increasing in number as the wearer gathers speed.*
 
@@ -22695,7 +22695,7 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **9th Level:** When you have three or more creatures marked for revenge and you target one of them with an ability that targets only one creature, you target all the creatures marked for revenge regardless of their distance and line of effect from you.
 
-#### THIEF OF JOY
+##### THIEF OF JOY
 
 *This burnished copper torc thrums with a sense of judgment.*
 
@@ -22715,7 +22715,7 @@ You can have both envy and disdain, but not more than one instance of either. Wh
 
 **9th Level:** The torc's bonus to Stamina increases to five times your highest Characteristic score. Additionally, you can have multiple instances of envy and disdain, with no limit on either.
 
-## ARTIFACTS
+### ARTIFACTS
 
 Artifacts are powerful treasures, with entire campaigns to be built around finding, using, hiding, protecting, or destroying one. Make no mistake--these items unbalance the game. If the heroes or villains have access to such a treasure, their power is far beyond what the encounterbuilding guidelines expect. That's part of the fun!
 
@@ -22785,13 +22785,13 @@ When the Mortal Coil is left unattended or is in the possession of a creature wh
 
 **Beneath Contempt:** Deities and their servants always overlook the Mortal Coil and its host--either unable to notice it, or not considering it a threat. If the artifact is somehow destroyed or unmade through godly power, it consumes a year of life from every humanoid in the manifold where it was destroyed, then reforms in a hidden place.
 
-# TITLES
+## TITLES
 
 Titles are special benefits earned by heroes through adventure and mighty deeds. Heroes must win titles sometimes individually, sometimes as a group--by accomplishing heroic tasks. Titles are the record of a hero's accomplishments, forming the basis of the stories told of them in taverns or whispered in the halls of the mighty.
 
 Each title comes with a new ability or other special benefit. By earning titles, heroes gain a unique set of capabilities that sets them apart from other adventurers.
 
-## TITLE REQUIREMENTS
+### TITLE REQUIREMENTS
 
 Players don't choose their titles. Like treasure and renown, titles must be won.
 
@@ -22801,13 +22801,13 @@ Titles aren't given out on a schedule. Instead, the Director grants one whenever
 
 Although the Director gives out titles, players can work with the Director towards a specific goal. For instance, a player might say, "I'm interested in the Dragon Blooded title. Can my hero listen for rumors of any wicked dragons nearby that need smiting?" Having ambition is good! Pursue the titles you want that will make you a better hero!
 
-## TITLE ECHELONS
+### TITLE ECHELONS
 
 Each title is assigned to an echelon of play where it is most likely to be earned. For instance, knighthood is something that can be typically earned by the 2nd echelon, while becoming a king or queen can usually only be achieved in the 4th. But don't let the rules get in the way of a good story! If the Director decides that the players somehow earn knighthood at level 1, bask in the glory of this great accomplishment.
 
 If you're the Director, note that granting a title several tiers early may have unwanted effects on the game. Higher-echelon titles tend to have more significant benefits than lower-tier ones. If a hero becomes queen at level 1, her royal responsibilities may overshadow her other adventures. Don't grant a title more than one echelon early unless you know what you're getting into!
 
-## CUSTOMIZING TITLES
+### CUSTOMIZING TITLES
 
 In the following pages, you'll find lots of premade titles. But the Director can also create custom titles, both to reward specific player accomplishments and to flesh out organizations, locations, and foes within their own game world. When a hero finally achieves a long-term goal after many game sessions of struggle, the Director can memorialize the moment by granting a unique title.
 
@@ -22815,19 +22815,19 @@ Similarly, the Director can grant custom titles when the heroes befriend specifi
 
 While the Director can always create titles from scratch, the easiest way to create custom titles is to modify an existing title's requirements to fit the adventure at hand. For instance, maybe your world contains a secretive organization of freedom fighters, the Jesters, who never carry weapons, defeating foes with unarmed attacks and improvised weapons. You could modify the requirements of the Brawler title, changing its requirements to "Join the Jesters."
 
-## HOW MANY TITLES?
+### HOW MANY TITLES?
 
 Just because a hero meets a perquisite for a title doesn't mean that it is granted to them. The Director decides when a hero earns a title and its benefits. Odds are you'll be adventuring quite a bit and qualify for more than a few, but too many titles all at once can make for a very complicated hero. In general, a hero typically earns one title per echelon of play, though they can earn more or fewer at the Director's discretion.
 
 If there's a specific title you want to earn, let your Director know. It's good to have ambition, and they are likely to help you make it happen.
 
-## TITLE BENEFITS
+### TITLE BENEFITS
 
 Some titles have only one benefit. These are typically earned individually by heroes instead of together as a group. Only the hero doing the studying reaps the reward!
 
 Most titles, however, are earned by all the heroes at once for accomplishing a great task, benefiting them all. These titles typically offer a menu of three or four different options. When the party earns the title, each player decides which benefit they hero takes. For instance, if the party triumphs in a tavern fight and gains the Brawler title, one hero might become more adept at fighting with improvised weapons, another might learn a special dodge to use when flanked by multiple enemies, and two others might simply revel in increased notoriety. Any hero can take any of a title's benefits they qualify for, and multiple characters can take the same benefit.
 
-## GRANTING TITLES
+### GRANTING TITLES
 
 Titles are rewards for heroic actions, and they often go hand in hand with treasure and other goodies. If the party defeats a fearsome monster and gains renown, or accomplishes a quest and wins a magical leveled item, they might earn a title at the same time.
 
@@ -22839,11 +22839,11 @@ While running a game session, it can be hard to track the heroes' actions and re
 
 If the Director doesn't want to track player accomplishments, they can let the players do it instead. In this case, whenever a hero enters a new echelon of play, they gain one title of their choice for which they qualify.
 
-## 1ST ECHELON TITLES
+### 1ST ECHELON TITLES
 
 The 1st echelon titles are presented in alphabetical order.
 
-### ANCIENT LOREMASTER
+#### ANCIENT LOREMASTER
 
 *"It's astonishing what you find in old books. Look at this, nearly complete schematics for a war automaton, gathering dust because nobody here reads Zaliac."* **Prerequisites:** You find a trove of forgotten books.
 
@@ -22853,7 +22853,7 @@ Choose one of the following benefits:
 - **Rare Books:** You add rare, ancient books to your collection. When you make a project roll for a research project, you roll an additional 1d6 for each dead language you know.
 - **Susurrus Codex:** You find a sinister book that whispers advice in a voice no one else can hear. As long as you follow all the book's advice, you gain an edge on Reason tests and a bane on Presence tests. You can stop following the book's advice at any time, but the book won't speak to you for the rest of the day.
 
-### BATTLEAXE DIPLOMAT
+#### BATTLEAXE DIPLOMAT
 
 *"We seem to be equals in might and swordcraft. Perhaps we should bandy with words awhile instead."* **Prerequisites:** You gain the friendship or alliance of a creature you once battled.
 
@@ -22865,7 +22865,7 @@ Choose one of the following benefits:
 
 - **Warriors' Understanding:** You have an edge on Presence tests made to influence creatures who you fought against in combat encounters.
 
-### BRAWLER
+#### BRAWLER
 
 *"We won't kill you. But you might wish we did."* **Prerequisites:** You triumph in battle without killing any of your foes.
 
@@ -22876,7 +22876,7 @@ Choose one of the following benefits.
 - **Headbutter:** Your free strikes don't take a bane while you are grappled or restrained.
 - **If I Wanted You Dead, You'd Be Dead:** Now and in future fights, when you defeat foes without any killing, you gain an edge on tests during negotiations with them.
 
-### CITY RAT
+#### CITY RAT
 
 *"Stay out all night, visit the dives. Get in a fight, run from the cops. That's the real city."* **Prerequisites:** You have spent at least 5 respites in a metropolis.
 
@@ -22886,7 +22886,7 @@ Choose one of the following benefits:
 - **One with the Crowd:** You gain an edge on tests made to hide and sneak, provided you are using one or more creatures as cover.
 - **Street Smart:** While in a settlement, you never suffer penalties from being surprised.
 
-### DOOMED
+#### DOOMED
 
 *"I don't know what it meant, but when I watched her die, I saw a vision. I watched her die, and saw my own death. Am I going mad?"*
 
@@ -22894,7 +22894,7 @@ Choose one of the following benefits:
 
 You're not destined for a meaningful death, but you still might achieve one. When you're reduced to 0 Stamina but still conscious, you can choose to become doomed. If you do, you can't regain Stamina, you automatically get tier 3 results on tests and power rolls, and you don't die until your Stamina equals the negative of your maximum Stamina value. At the end of the encounter, you die.
 
-### DWARF LEGIONNAIRE
+#### DWARF LEGIONNAIRE
 
 *"I have learned much. It may be your courage that inspires others. Watch your opponent's shield as well*  *as their sword. And above all, stand fast, and do not yield."*
 
@@ -22906,7 +22906,7 @@ Choose one of the following benefits.
 - **Rune of Alarm:** You can spend 10 minutes to inscribe a magical eye-shaped rune on a surface. The rune sheds light for 2 squares. It is dispelled if it is activated or if you inscribe the rune elsewhere. The rune is activated when an enemy comes within 2 squares of the rune. When the rune is activated, you wake up if you are nonmagically asleep, and for 1 minute you can see through the rune as if you were in its square.
 - **Stonemeld:** While adjacent to a stone wall, you can use a maneuver to gain concealment. The concealment lasts until you leave the square or use an ability.
 
-### ELEMENTAL DABBLER
+#### ELEMENTAL DABBLER
 
 *"Spirit of fire, I command you!"* **Prerequisites:** You defeat a monster with the Elemental keyword, such as an crux of fire.
 
@@ -22916,7 +22916,7 @@ Choose a damage type to which the defeated monster had an immunity (such as fire
 - **Elemental Immunity:** You gain immunity to the chosen damage type equal to your highest characteristic score.
 - **Elemental Weapons:** When you use an ability that deals damage with no type, you can change that damage to damage of the chosen damage type.
 
-### FACTION MEMBER
+#### FACTION MEMBER
 
 *"In six months, I'll be running this place."* **Prerequisites:** You join an army, guild, or similar organization.
 
@@ -22937,7 +22937,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 You can gain this title multiple times, once for each faction. A faction can strip you of this title if you act against its interests.
 
-### LOCAL HERO
+#### LOCAL HERO
 
 *"Your coin won't spend here. The Heroes of Gravesford drink for free in this tavern!"*
 
@@ -22949,7 +22949,7 @@ Choose one of the following benefits:
 - **Easy Marks:** You have an edge on tests made with skills from the interpersonal and intrigue skill groups when influencing members of a community that you have saved.
 - **Local Fame:** Your Renown score increases by 1.
 
-### MAGE HUNTER
+#### MAGE HUNTER
 
 *"Their power is dangerous. Unnatural. Someone needs to do something."*
 
@@ -22961,7 +22961,7 @@ Choose one of the following benefits:
 - **Oh No You Don't!** When an adjacent creature uses an ability with the Magic keyword, you can make a free strike against them as a triggered action.
 - **Stink of Magic:** As a maneuver, you can open your senses to the residue of magic. Until the end of your next turn, you are aware whether each creature within 5 squares of you is an undead, construct, or creature from another plane of existence, and whether they have used an ability with the Magic keyword in the past hour. Additionally, you never suffer the penalties of being surprised by undead, constructs, or creatures from another plane of existence.
 
-### MARSHAL
+#### MARSHAL
 
 *"I said you had 24 hours to leave town. That*
 
@@ -22976,7 +22976,7 @@ Chooses one of the following benefits:
 - **Silver Shield:** You have a badge granted to you by your organization. While you are wearing it, you gain the Divine Interdiction feature from the My Life for Yours class. When you use this feature in this way, you can't spend wrath unless you have the Wrath class feature.
 - **Trained Tracker:** You gain an edge on tests made to track criminals.
 
-### MONSTER BANE
+#### MONSTER BANE
 
 *"You dare mock Blunwin Mousebane? You think my deed trivial? Ah but you didn't see the size of the mouse!"*
 
@@ -22988,7 +22988,7 @@ Choose one of the following benefits.
 - **Monster Whisperer:** You gain an edge on tests made to calm or tame non-sapient creatures.
 - **Monster Trophy:** You decorate your equipment with a trophy from a monster. While the trophy is visible, you gain an edge on tests made to intimidate sapient creatures.
 
-### OWED A FAVOR
+#### OWED A FAVOR
 
 *"The Guild's gratitude knows no bounds! We'll repay you in any way we can ... short of actually paying you."* **Prerequisites:** You successfully perform a service for a powerful faction.
 
@@ -22996,7 +22996,7 @@ The faction will perform one favor for the party, provided it doesn't interfere 
 
 Additionally, the faction is a good source of information. The Director chooses a skill from the crafting or lore skill groups appropriate to the faction, such as the Criminal Underworld skill for an outlaw gang, the Blacksmith skill for a blacksmith's guild, or the Society skill for a noble house. While in a settlement with the faction, you gain this skill if you don't already have it. If you already have the skill, they gain an edge on tests made with the skill.
 
-### PRESUMED DEAD
+#### PRESUMED DEAD
 
 *"But... you're dead. We went to your funeral."* **Prerequisites:** You die in a way that prevents your body from being recovered or examined (for instance, you fall off a cliff).
 
@@ -23004,7 +23004,7 @@ While it may appear that you died, in fact you did not. You regain 1 Stamina and
 
 At a dramatic moment determined by the Director, you rejoin your party with an explanation for your narrow escape, and how you found your new trinket along the way.
 
-### RATCATCHER
+#### RATCATCHER
 
 *"I like fighting these little guys. Means I don't have to waste money on a helmet."*
 
@@ -23024,7 +23024,7 @@ COSTS 1 HEROIC RESOURCE: COME OUT TO PLAY *Come out to play-yay!*
 
 **Effect:** Each target is **P \< \[average\]** taunted (EoT). You know the locations of creatures taunted in this way.
 
-### SAVED FOR A WORSE FATE
+#### SAVED FOR A WORSE FATE
 
 *"Drink this. You'll need all your strength for what lies ahead!"*
 
@@ -23043,7 +23043,7 @@ The Director chooses one of the following benefits, based on the fate your capto
 
 - **Saviors:** Your captors fear an even stronger foe. They want you to defeat this enemy for them. You can keep any treasure you find while doing so.
 
-### SHIP CAPTAIN
+#### SHIP CAPTAIN
 
 *"Up anchor, shipmates, 'tisn't gold but glory we seek!"* **Prerequisites:** You acquire a ship, airship, or similar vessel.
 
@@ -23054,7 +23054,7 @@ Choose one of the following benefits:
 - **Signal Flags:** While aboard a ship, you can communicate with and conduct negotiations with another ship up to 5 miles away, as long as you can both see each other. You have an edge on Presence tests made while negotiating in this way.
 - **Trained Crewmember:** You gain an edge on tests made to handle sea or air vessels.
 
-### TROUPE TACTICS
+#### TROUPE TACTICS
 
 *"We're actors! We're the opposite of people!"*
 
@@ -23067,7 +23067,7 @@ Choose one of the following benefits:
 - **Supporting Player:** You gain an edge on group tests using Presence and on tests made to assist another creature with a Presence test.
 - **Work the Crowd:** While one of your allies is playing music or performing, you gain an edge on tests made to hide, sneak, conceal objects, or pick pockets.
 
-### WANTED DEAD OR ALIVE
+#### WANTED DEAD OR ALIVE
 
 *"A hundred silver?! An insult! I turned my father in for fifty golden crowns. And he was innocent!"*  **Prerequisites:** You are declared an outlaw by a governmental authority.
 
@@ -23077,7 +23077,7 @@ Choose one of the following benefits:
 - **Minion Mower:** When you make a melee strike that targets a minion and at least one more minion is within distance of the attack, the attack gains a +3 bonus to damage.
 - **No, You're Under Arrest!** You gain an edge on power rolls made to escape a grab. Additionally, when you make a successful test to escape manacles or bonds, as part of the same maneuver you can transfer the manacles or bonds to another person adjacent to you without them immediately noticing.
 
-### ZOMBIE SLAYER
+#### ZOMBIE SLAYER
 
 *"Why won't you die! You've already done it once, you should be good at it by now!"*
 
@@ -23101,11 +23101,11 @@ Choose one of the following benefits:
 
 The Director can turn a perk into a 1st echelon title by simply giving it a prerequisite. For example, a hero might gain the Familiar perk as a title instead if they complete a quest for an archmage, who then teaches the ritual to conjure the familiar as a reward for the hero.
 
-## 2ND ECHELON TITLES
+### 2ND ECHELON TITLES
 
 The 2nd echelon titles are presented in alphabetical order.
 
-### ARENA FIGHTER
+#### ARENA FIGHTER
 
 arena or other contest.
 
@@ -23132,13 +23132,13 @@ Choose one of the following benefits.
 
 **Effect:** If this ability kills a non-minion opponent, each enemy within 3 squares is frightened of you (save ends).
 
-### ARMED AND DANGEROUS
+#### ARMED AND DANGEROUS
 
 *"I'm not picky, any tool will suffice. A sword seems a very appropriate tool for this job."* **Prerequisites:** You can't use kits and defeat five nonminion enemies using weapon abilities that don't have the Magic or Psionic keyword.
 
 You can use and gain the benefit of kits.
 
-### AWAKENED
+#### AWAKENED
 
 *""I was grappling with it and, when it died...I felt something happen. To me."*
 
@@ -23152,7 +23152,7 @@ Choose one of the following benefits:
 
 know. The creature can respond telepathically as part of the same maneuver.
 
-### BATTLEFIELD COMMANDER
+#### BATTLEFIELD COMMANDER
 
 *"Spells and shadows have their place, but it takes soldiers to hold the field."*
 
@@ -23172,7 +23172,7 @@ COSTS 9 HEROIC RESOURCES: CHARGE! *Follow me!*
 
 **Effect:** Each target can use the Charge action.
 
-### BLOOD MAGIC
+#### BLOOD MAGIC
 
 *"Flow, blood, thou fiend's libation, and catch my foes in conflagration!"*
 
@@ -23184,7 +23184,7 @@ Choose one of the following benefits:
 - **Bloody Murder:** When you deal damage to a creature with a strike, you can deal yourself damage equal to your level, which can't be prevented in any way, to deal twice that much corruption damage to the creature. You can only use this benefit once per ability. If the creature is reduced to 0 Stamina by this corruption damage, the creature explodes in a shower of blood and you regain the Stamina you lost. You can't use this benefit on creatures without blood, such as constructs, elementals, and undead.
 - **I Reject This Evil Power!** You gain corruption immunity equal to your level.
 
-### CORSAIR
+#### CORSAIR
 
 *"Haul down your flag or we'll burn you to the waterline!"*
 
@@ -23200,7 +23200,7 @@ your ship, creatures who have line of effect to it have a bane on strikes made a
 - **Fearsome Reputation:** You gain 1 Renown.
 - **Scoundrel Tactics:** While aboard a ship, if you have one of the following skills, you can use it to make a test to influence another ship up to 5 miles away that can see you, and you gain an edge when you do so. Disguise to hide your ship's identity or general type; Intimidate to influence a ship to flee or surrender; Hide or Sneak to avoid notice.
 
-### FACTION OFFICER
+#### FACTION OFFICER
 
 *"If there's something you want talk to* me. *I have a certain amount of ... influence in these parts."* **Prerequisite:** You have the Faction Member title, and you greatly advance the faction's goals.
 
@@ -23211,7 +23211,7 @@ You gain both of the following benefits:
 - **You're the Boss:** Lower-ranking members of your faction follow your routine orders. In non-routine matters, you gain an edge on tests made to influence their behavior.
 - **Requisition:** When you gain this title, you gain a 1st or 2nd echelon magic trinket of your choice from your faction (see Treasures). Whenever you gain a level, you can swap it out for another trinket.
 
-### FAE FRIEND
+#### FAE FRIEND
 
 *"Do you enjoy the vintage? Yes, you can understand my tongue now. One does not drink at my table and leave unchanged."*
 
@@ -23223,7 +23223,7 @@ You learn the Khelt language and can choose one of the following benefits:
 - **Gift of Foresight:** Your Intuition score is considered 1 higher for the purpose of resisting potencies.
 - **Gift of Knowledge:** You gain an edge on any test you make that uses a skill from the lore skill group.
 
-### GIANT SLAYER
+#### GIANT SLAYER
 
 *"Come back here, puny one, and let me crush you!"* **Prerequisites:** You defeat a leader or solo monster with the Giant keyword, such as a fire giant chief.
 
@@ -23249,7 +23249,7 @@ Choose one of the following benefits:
 
 **Effect:** If the target is size 2 or larger, the ability has an edge.
 
-### GODSWORN
+#### GODSWORN
 
 *"He seemed like he needed help! Now the dead speak to me. I think maybe that old man was more than he seemed."*
 
@@ -23261,7 +23261,7 @@ Choose one of the following benefits:
 - **Last-Ditch Prayer:** On your turn, you can use a free maneuver to recite a prayer for help. You gain 2d10 Heroic Resources granted by your class. These heroic resources disappear at the end of your turn if you haven't spent them. Once this ability is used, you can't use it again until you perform another service for the deity or gain a level.
 - **Touched by the God:** Choose a deity or saint from the Conduit Deity and Domains table. From their list of domains, choose a Conduit 1st-level domain feature.
 
-### HEIST HERO
+#### HEIST HERO
 
 *"Everybody know their assignments? Alright, let's go."* **Prerequisites:** You have the Troupe Tactics title, and you used planning and teamwork to execute a theft that went (reasonably) according to plan.
 
@@ -23283,7 +23283,7 @@ Choose one of the following benefits:
 
 **Effect:** You momentarily attract the creature's notice. Your ally can reroll their test. Once you have used Timely Distraction, you can't use it again on the same creature for at least 1 hour.
 
-### KNIGHT
+#### KNIGHT
 
 *"Kneel, heroes. Arise, knights of Tor, and may your swords be ever sharp in our service."* **Prerequisites:** A noble or monarch grants you knighthood
 
@@ -23309,7 +23309,7 @@ COSTS 5 HEROIC RESOURCES: KNIGHTLY CHALLENGE *Have at thee!*
 
 **Effect:** You can end the taunted condition on the target as a free maneuver on your turn.
 
-### LIBRARIAN
+#### LIBRARIAN
 
 *"You want to know the exact coordinates of the Gem of the Waves shipwreck? I came across that just the other day in an unpublished memoir of its second mate. Let me get that for you."*
 
@@ -23322,7 +23322,7 @@ Choose one of the following benefits:
 - **Picked Up a Few Things:** You learn a skill from the Lore skill group.
 - **Polyglot:** You learn two languages. Additionally, the Project Goal for the Learn New Language project is halved for you.
 
-### SPECIAL AGENT
+#### SPECIAL AGENT
 
 mission.
 
@@ -23334,7 +23334,7 @@ Choose one of the following benefits:
 - **Caustic Alchemy:** You gain your choice of Coat the Blade or Smoke Bomb from the Shadow 1st-level college features. When you use this feature, you can't spend Insight unless you have the Insight class feature.
 - **Spy Ring:** You gain a piece of magical jewelry, such as a ring. While wearing the ring, you take on the illusory appearance of an individual you can see within 10 squares of you as an action. This disguise lets you automatically succeed on tests made with the Disguise skill based solely on visual identification.
 
-#### BOFFIN PROPERTIES
+##### BOFFIN PROPERTIES
 
 You can use the following boffin properties as a maneuver with the Boffin benefit:
 
@@ -23343,7 +23343,7 @@ You can use the following boffin properties as a maneuver with the Boffin benefi
 - Choose a square within 10 spaces of you. You don't need line of effect to the space. You can hear as if you were standing in that square.
 - You throw the boffin up to 10 squares, where it explodes in a 5 cube. Each creature in the area takes fire damage equal to 2d10 + your level. The boffin is permanently destroyed (but may be replaced by your spymaster ... though they don't like doing it often).
 
-### SWORN HUNTER
+#### SWORN HUNTER
 
 *"I will follow you to the ends of the earth just so I can kick you off the edge."*
 
@@ -23355,7 +23355,7 @@ Choose one of the following benefits:
 - **Particular Set of Skills:** You learn a skill from the intrigue skill group.
 - **We're In This Together:** When you have a creature grabbed and take damage from an ability not used by that creature, the grabbed creature takes the same damage.
 
-### UNDEAD SLAYED
+#### UNDEAD SLAYED
 
 *"No I didn't get bitten, and yes I'm fine!"*
 
@@ -23367,7 +23367,7 @@ You return to life 1 minute after being killed, with Stamina equal to your winde
 - **Incorporeal Undead:** You can move through other creatures and objects at normal speed. The first time in a round that you pass through a creature, that creature takes corruption damage equal to half your level. You don't take damage from being force moved into objects.
 - **Other Corporeal Undead:** When you are reduced to Stamina 0 by damage that isn't fire damage or holy damage and your body isn't destroyed, you regain half your Stamina and fall prone. Once you have used this benefit once, you can't do so again until you earn 10 Victories.
 
-### UNSTOPPABLE
+#### UNSTOPPABLE
 
 *"I seen the goblin king run 'im through with a spear. Then I seen 'im pull 'imself back up, spear still in 'im, and headbutt the goblin king ... then he pulls out the spear and throws it on the goblin king's corpse."* **Prerequisites:** A hero defeats a foe while at or below 0 Stamina.
 
@@ -23377,11 +23377,11 @@ Choose one of the following benefits:
 - **Furious Attack:** Choose one signature ability from the Fury class. You gain that ability even if you don't meet its prerequisites. When you use abilities gained from this title, you can't gain or spend Rage unless you have the Rage class feature.
 - **Furious Charge:** When you use the Charge action, your melee free strike deals extra damage equal to the number of squares you moved as part of the charge.
 
-## 3RD ECHELON TITLES
+### 3RD ECHELON TITLES
 
 The 3rd echelon titles are presented in alphabetical order.
 
-### BACK FROM THE GRAVE
+#### BACK FROM THE GRAVE
 
 #### *"Hi! Remember me?"*
 
@@ -23389,7 +23389,7 @@ The 3rd echelon titles are presented in alphabetical order.
 
 You are restored to life. You gain the Tough but Withered signature trait from the Revenant ancestry.
 
-### DEMON SLAYER
+#### DEMON SLAYER
 
 *"F'lath v'korr en zaratha g'rrack."*
 
@@ -23404,7 +23404,7 @@ Choose one of the following benefits:
 
 **Special:** When you attempt a Presence test and roll a natural 5 or lower, for 1 minute you are cursed to speak only Proto-Ctholl, whether you know that language or not.
 
-### DIABOLIST
+#### DIABOLIST
 
 *"If you can't beat 'em, join 'em."*
 
@@ -23417,7 +23417,7 @@ Choose one of the following benefits.
 - **Sly Devil:** You gain the Silver Tongue signature trait from the devil ancestry.
 - **Untouched By Corruption:** When you deal untyped damage with an ability, you can deal holy damage instead.
 
-### DRAGON BLOODED
+#### DRAGON BLOODED
 
 *"I stabbed the wyrm Axarthan in the heart and its*
 
@@ -23428,7 +23428,7 @@ Choose one of the following benefits.
 - **Dragon Scaled:** Dragon scales grow on your body wherever the heart's blood of the dragon touched you. You gain the Wyrmplate signature trait from the dragon knight ancestry.
 - **Dragon Touched:** You gain 3 ancestry points to spend on dragon knight ancestry traits.
 
-### FLEET ADMIRAL
+#### FLEET ADMIRAL
 
 *"All hail the Pirate Queen!"*
 
@@ -23449,7 +23449,7 @@ Choose one of the following benefits.
 
 doubled. *Storm:* The crew of an unsheltered wind-powered vessel must make a Medium group Reason test. On a failure, the vessel needs repairs and moves at half speed until it gets them.
 
-### MAESTRO
+#### MAESTRO
 
 *"When I saw the blood-stained manuscript under Fellwander's arm, I knew his quest for the Opera was over--and with it, his chance for redemption."* **Prerequisites:** You visit the realms of the gods, devils, or other immortal beings and hear a shred of the Music of Creation.
 
@@ -23472,7 +23472,7 @@ COSTS 9 HEROIC RESOURCES: THE DEVIL'S CHORD *Helloooo Orden!*
 - **17+: 10 sonic damage; M (strong) weakened and bleeding (save ends)**
     **Effect:** The soul of any creature killed by this ability is dragged to Hell.
 
-### MASTER CRAFTER
+#### MASTER CRAFTER
 
 *"The sword Vanartha has been remade, mightier now than on the day it was forged."*
 
@@ -23485,7 +23485,7 @@ Choose one of the following benefits.
 - **Skilled Hands:** You gain a skill from the crafting skills group used during the creation of the item. If you already have it, you instead gain an edge to tests that use the skill. In addition, you gain a second skill of your choice from the crafting skill group.
 - **Strong Hands Make Light Work:** Whenever you make a project roll, you can use Might as the project roll characteristic.
 
-### NOBLE
+##### NOBLE
 
 *"Technically I'm called Lord Morninghill these days. I did a little favor for Duke Kenway at the Battle of Black Forest."*
 
@@ -23499,7 +23499,7 @@ Choose one of the following benefits.
 
 **Special:** You may occasionally be called upon to perform duties for your monarch or lord.
 
-### PLANAR VOYAGER
+#### PLANAR VOYAGER
 
 *"I've seen skywhales floating above the seas of Primordius.. I've seen star freighters dancing around the moons of Axiom. So I guess you're right, I'm not from around these parts."*
 
@@ -23514,7 +23514,7 @@ read your thoughts unless you allow them to, you have psychic immunity 10, and y
 - **Stellar Knowledge:** You gain the Mechanics skill. If you already have it, you instead gain an edge whenever you use the Mechanics skill. In addition, you gain the item prerequisites and project source for a trinket with the Psionics keyword.
 - **Time Raider Training:** You gain 2 ancestry points to spend on time raider ancestry traits.
 
-### SCARRED
+#### SCARRED
 
 *"Last time we fought, I gave you a little token to remember me by... now it appears you need another reminder of my power."*
 
@@ -23529,7 +23529,7 @@ After your next respite, you gain the following benefits, which last until the e
 
 **Special:** You can gain this title multiple times, no more than once per respite.
 
-### SIEGE BREAKER
+#### SIEGE BREAKER
 
 *"Best way to deal with a castle siege? Be on the outside."*
 
@@ -23541,7 +23541,7 @@ Choose one of the following benefits.
 - **Hold the Line:** While you are within 5 squares of an ally, you and all allies within 5 squares of you gain a +3 bonus to your Stability.
 - **Last Defender:** When one of your allies within 5 squares of you is reduced to 0 Stamina, you gain temporary Stamina equal to the ally's level (or 1 if they have no level). If you already have temporary Stamina granted by this title, you increase your Temporary Stamina equal to the amount you would have gained instead.
 
-### TEACHER
+#### TEACHER
 
 *"Someday I'll understand how peeling these carrots for dinner relates to my elementalist training."* Type: Individual
 
@@ -23551,11 +23551,11 @@ You can choose to travel with a student who shares your class. The student doesn
 
 has the same skills as you. They can perform any out-ofcombat tasks that a 1st-level member of your class can perform. When they use the make a test to assist you in a task, they can't get less than a tier 2 result on their test.
 
-## 4TH ECHELON TITLES
+### 4TH ECHELON TITLES
 
 The 4th echelon titles are presented in alphabetical order.
 
-### CHAMPION COMPETITOR
+#### CHAMPION COMPETITOR
 
 *"Marduk uses the Beldoit Gambit! Avanna counters with the Iron Defense and goes on the attack! Marduk's last tower is knocked down! And just like that, we have a new... world ... champion!"* **Prerequisite:** You beat the best in the world at a game or sport.
 
@@ -23567,7 +23567,7 @@ Choose one of the following additional benefits.
 - **Glory and Riches:** You gain +2 Renown and your wealth score increases by 1.
 - **I'll Just Take the Prize:** You gain a trinket or leveled item of the Director's choice.
 
-### DEMIGOD
+#### DEMIGOD
 
 *"The ritual is complete. I feel your power flow through me. I am become a god! Ah ha ha ha ha!"*
 
@@ -23585,7 +23585,7 @@ Additionally, choose one of the following additional benefits.
 - **Divine Weapons:** When you deal untyped or weapon damage with an ability, you can choose to deal corruption or holy damage instead.
 - **Missionaries:** You gain 2 Renown.
 
-### ENLIGHTENED
+#### ENLIGHTENED
 
 *"Don't you see? This world that seems so real to you is nothing but a game, and all the men and women merely pieces!"*
 
@@ -23599,7 +23599,7 @@ Choose one of the following additional benefits.
 - **Mind Over Matter:** When you spend a Recovery, you can end one condition on yourself.
 - **Rearrange the Game Pieces:** You can reach behind the curtain and alter reality. When combat begins, choose yourself or any creature within 5 squares of you. That creature must move up to their speed to space you choose without entering damaging terrain or terrain that could give them a condition. The creature doesn't move or teleport to that space; they are simply there. No one but you has any memory of their previous position.
 
-### FORSAKEN
+#### FORSAKEN
 
 *"The quest is done, the enemy is defeated, and the Blade of a Thousand Years has passed from our hands. What do we do with the rest of our lives?"* **Prerequisites:** The party loses, destroys, or otherwise parts with an artifact.
 
@@ -23611,7 +23611,7 @@ Choose one of the following additional benefits.
 - **Perfect Protection:** The Director chooses a damage type that is dealt by or thematically related to the artifact (for instance, holy for the Sword of a Thousand Years, psychic for the Encepter, or corruption for the Mortal Coil). You gain immunity all to that damage type.
 - **Poor Compensation:** Instead of disappearing or otherwise departing, the item turns into a trinket or leveled item of the Director's choice of the same approximate shape as the lost item (for instance, any magic sword for the Sword of a Thousand Years, any implement for the Encepter, or Thief of Joy or other torc for the Mortal Coil).
 
-### MONARCH
+#### MONARCH
 
 *"The tyrant is dead! Long live the new king!"* **Prerequisite:** You or a member of your party becomes the monarch of a nation.
 
@@ -23629,7 +23629,7 @@ Choose one of the following additional benefits.
 
 **Special:** You may be called upon to perform duties for your kingdom.
 
-### PEACEBRINGER
+#### PEACEBRINGER
 
 *"There goes Diana, Peacebringer. She's won many a victory with her sword, but her greatest deed was convincing to nations to stop fighting."* **Prerequisites:** You conduct a successful negotiation on which hinged the fate of a nation or a world.
 
@@ -23642,7 +23642,7 @@ Choose one of the following additional benefits.
 - **Hear Me Out:** While negotiating with you, a creature's Patience is increased by 3 (to a maximum of 5).
 - **Many Paths to Peace:** When you make a test with a skill from the interpersonal skill group, you can use any characteristic of your choice for the text.
 
-### REBORN
+#### REBORN
 
 *"I remember this world. I suppose my task is not yet complete."*
 
@@ -23668,7 +23668,7 @@ Your choice of your Reason or Intuition score increases by 1, to a maximum of 6.
 
 Choose a heroic ability belonging to any class. You gain this heroic ability. You can pay for it with the heroic resource of your class for the same cost. You can't use a heroic ability that requires a class feature you don't have.
 
-### TIRELESS
+#### TIRELESS
 
 *"To reach Giant's Foot by dawn, we'll have to run every step of the way. Let's get moving."*
 
@@ -23682,7 +23682,7 @@ Choose one of the following additional benefits.
 - **Reserves of Strength** : Your recovery value is half your Stamina.
 - **Undying** ; The bleeding condition doesn't affect you.
 
-### UNCHAINED
+#### UNCHAINED
 
 *"'Never get away withit* ? *' I already have."* **Prerequisite:** You have the Heist Hero title, and you have stolen a precious object or escaped from captivity while evading guards of at least level 8 .
 
@@ -23694,23 +23694,23 @@ Choose one of the following additional benefits.
 - **Laughs at Locks:** When making a test to open a lock or break a restraint, you don't need any tools and you automatically get a tier 3 result.
 - **Slippery:** You can't be grabbed against your will.
 
-# RENOWN
+#### RENOWN
 
 As you accomplish heroic deeds, your fame allows you to influence NPCs and attract followers. Your infamy among enemies also grows, and their hatred and fear of you can cause foes to lash out during negotiations (see Negotiation). Every hero has a Renown score that represents how they can use their reputation to influence others. The higher the score, the greater your impact with those who know of your legend.
 
 At the start of character creation, your Renown is 0. Some careers can increase your initial Renown score (see Careers).
 
-## INCREASING RENOWN
+### INCREASING RENOWN
 
 Your starting Renown score is 0 unless modified by your choice of career or other rule. Renown typically increases at the end of an adventure, often after the
 
 acknowledgement of a powerful NPC that you helped save them, their family, their home, or their organization. That NPC and anyone else who witnessed your heroics can tell the tale, and from there, your legend grows.
 
-## INFLUENCE NEGOTIATION
+### INFLUENCE NEGOTIATION
 
 Renown changes the way NPCs respond to heroes during negotiations. For more information, see Negotiation.
 
-## ATTRACT FOLLOWERS
+### ATTRACT FOLLOWERS
 
 You can also use your Renown score to attract and employ followers who perform different duties or favors for you. The Renown Followers table shows how many followers a hero can have at one time based on Renown. You can always let go of a follower in your employ to hire a new one.
 
@@ -23725,33 +23725,33 @@ You can recruit as many new followers as your Renown allows as a respite activit
 | 9      | 3                   |
 | 12     | 4                   |
 
-### STRONGHOLD
+#### STRONGHOLD
 
 Many followers stay at a stronghold, which is a home base you designate and can change. Your stronghold is typically a location shared by your fellow heroes. It could be a few rooms at an inn in a sleepy village, an old castle you claimed after clearing it of monsters, or a fleet of sailing ships.
 
-### FOLLOWER TYPES
+#### FOLLOWER TYPES
 
 When you attract a new follower, you decide on their name and ancestry, and choose what role they play in their service to you.
 
-#### ARTISAN
+### ARTISAN
 
 Artisans are crafting experts who can contribute to your research and crafting projects (see Research and Crafting). An artisan can contribute one project roll per day to a project you choose while they remain at your stronghold, provided they have access to the necessary materials.
 
 When you recruit an artisan, choose four skills from the crafting skill group that they know. An artisan has a Might or Agility score of 1 (your choice), a Reason score of 1, and a 0 in all other characteristics. They know Caelian and two other languages of your choice.
 
-#### RETAINERS
+##### RETAINERS
 
 Retainers are heroic NPCs who adventure alongside the player characters. They are controlled by players in combat and much simpler to run and less powerful than the player characters. A hero can only have one retainer in their service at a time unless the Director deems otherwise.
 
 Rules for retainers are found in the *Draw Steel: Monsters* core rulebook.
 
-#### SAGE
+### SAGE
 
 Sages are research experts who can contribute to your research and crafting projects. A sage can contribute one project roll per day to a project you choose while they remain at your stronghold, provided they have access to the necessary materials.
 
 When you recruit a sage, choose four skills from the lore skill group that they know. A sage has a Reason and Intuition score of 1, and a 0 in all other characteristics. They know Caelian and two other languages of your choice.
 
-# WEALTH
+#### WEALTH
 
 This game isn't about accumulating and counting every piece of copper you acquire. Instead of tracking a bank account, the amount of stuff your hero can purchase is based on their wealth score. As you accomplish more deeds, you acquire more treasure and rewards from grateful NPCs that allow you to be an even more effective hero.
 
@@ -23786,13 +23786,13 @@ not! You might still be able to acquire a specific good or service through negot
 |       | tower                  |                           |
 | 6     | Castle; shipyard       | Private island            |
 
-## GAINING WEALTH
+### GAINING WEALTH
 
 Each hero starts with a Wealth score of 1 that can be improved by their choice of career during character creation. The hero's Wealth score increases whenever they find and keep a massive amount of monetary treasure, such as a hoard of coins and gems from a dragon's lair or several unique and valuable paintings from a monarch as a reward for a job well done.
 
 In general, a hero's wealth score increases about once every other level of play. The Director can increase this rate if they wish.
 
-## LOSING WEALTH
+### LOSING WEALTH
 
 As an optional rule, the Director can allow a hero to make a purchase that is one level above their wealth level. If this occurs, the hero's Wealth score is reduced by 1 after making the purchase.
 
@@ -24058,7 +24058,7 @@ The elves called off their attacks and Khravila brokered peace between them and 
 
 Khravila teaches the virtue of persistence, endurance, and above all ... wits. Not only the wits necessary to foil the tests that barred her way, but to conceive her plan in the first place, and the dedication to pull it off. "Perhaps another orc could have ran," her brother said. "But only Khravila could have bluffed."
 
-### HEROES OF THE HAKAAN
+## HEROES OF THE HAKAAN
 
 Most Hakaan in Orden are animists. They know and respect the four elder gods who created the world and believe these gods watch the world and see what happens within it, but the Hakaan do not create churches or formal belief systems around this attitude.
 
@@ -24470,7 +24470,7 @@ Like Cyrvis, his priests worship in secret. Like Cyrvis, folk hate followers of 
 
 His censors take what they want, ignoring the law, heedless of consequence, and teach that all folk should live thus. To subjugate one's will to the law, or the community, or the family, is to be weak! Weakness is a disease and it must be eradicated!
 
-#### PENTALION THE PALADIN
+##### PENTALION THE PALADIN
 
 **Domains:** Death, War
 
@@ -24498,7 +24498,7 @@ It is dangerous to worship Cyrvis in public, but those who gain power through hi
 
 His churches are often underground, dungeons, cellars. His priests worship in secret, plotting against those with power, or those who are merely popular. To be liked and loved is reason enough for a follower of Cyrvis to hate you.
 
-#### ESELD OF THE EYE
+##### ESELD OF THE EYE
 
 **Domains:** Knowledge, Trickery
 
@@ -24970,7 +24970,7 @@ A good adventure has interesting locations that the heroes visit. These places d
 
 Make a list of the different locations that the heroes might visit during the adventure. You'll want to have a list of general locations and specific places.
 
-### GENERAL LOCATIONS
+#### GENERAL LOCATIONS
 
 A general location is a settlement or defined wilderness region that the heroes visit during the adventure.
 
@@ -25088,7 +25088,7 @@ Remember that if a player has a particularly clever and plausible idea, you can 
 
 Sometimes a player will propose what they think is a plausible or clever idea, but you'll think there's no way it could ever work. It's fine for you to tell the player, "That's not going to work." You're under no obligation to allow a player to attempt a test for something that's going to fail.
 
-#### TEST DIFFICULTY
+### TEST DIFFICULTY
 
 Before you ask for a test, set a difficulty of easy, moderate, or hard. Here's some criteria to keep in mind:
 
@@ -25106,7 +25106,7 @@ You can tell a player a test's difficulty. Saying, "Make a hard Reason test," ca
 
 On the other hand, you can do a little fudging of difficulties if you don't share them with the heroes. You might call for a test and then think it's not necessary as a player makes the roll. Your first option is to just say, "Hey sorry. I shouldn't have asked for a test. You just do the thing." Most players, especially your pals, will be fine with that. But if you want to play it cool, remember that every level of an easy test is a success, it's just a matter of whether there's a consequence or reward as part of it. If a hero rolls 11 or lower on a test and you think they should still succeed, then it was easy difficulty.
 
-#### TEST OUTCOMES
+### TEST OUTCOMES
 
 After a hero makes a test, it's up to you to narrate and decide the consequences of the outcome. Uses these basic guidelines:
 
@@ -25261,7 +25261,7 @@ We've created some sample NPC archetypes you can use for negotiation. Each of th
 
 Each archetype includes a list of motivations and pitfalls an NPC could have. You should pick at least two from the list for an NPC you create using the archetype. Feel free to change the wording on motivations and pitfalls and adjust numbers as you see fit.
 
-#### BANDIT CHIEF
+##### BANDIT CHIEF
 
 **Impression score:** 1
 
@@ -25305,7 +25305,7 @@ The knight archetype can be used for any other local authority, such as a villag
 - **Power:** My power comes to me through my lawful oath, not by some dirty deal made in secret.
 - **Vengeance:** I believe in law, not vengeance, and law is decided by higher courts. I'm just a functionary.
 
-#### GUILDMASTER
+##### GUILDMASTER
 
 **Impression score:** 3
 
@@ -25327,7 +25327,7 @@ The guildmaster archetype can be used for any other local information broker, su
 - **Peace:** Conflict isn't bad in itself. It drives innovation. The key is not to be on the losing side.
 - **Revelry:** I don't have time for this foolishness. Come talk to me again when you have something of value to show me.
 
-#### WARLORD
+##### WARLORD
 
 **Impression score:** 4
 
@@ -25349,7 +25349,7 @@ The warlord archetype can be used for any other locallevel threat, such as a vam
 - **Justice:** You dare call me unjust? I make the laws here. Justice is mine to give or take away!
 - **Protection:** I'm not some sniveling coward who begs for protection, and neither are my troops. Anyone who asks for safety doesn't deserve it.
 
-#### BURGOMASTER
+##### BURGOMASTER
 
 **Impression score:** 5
 
@@ -25371,7 +25371,7 @@ The burgomaster archetype can be used for any other local ruler, such as a baron
 - **Freedom:** Freedom, eh? What's next, freedom from taxes? No one is born free except the gods, and only fools believe otherwise.
 - **Revelry:** Put that bottle away. I'm a public figure, I can't be seen carousing and gallivanting and who knows what else.
 
-#### VIRTUOSO
+##### VIRTUOSO
 
 **Impression score:** 6
 
@@ -25393,7 +25393,7 @@ The virtuoso archetype can be used for any other local celebrity, such as a mast
 - **Protection:** I'm not afraid. The god of music will look after her own.
 - **Vengeance:** Perhaps there are some who hate me ... some who think I stand in their way, or some whose accomplishments I have eclipsed. But I hate no one and am jealous of no one.
 
-#### HIGH PRIEST
+##### HIGH PRIEST
 
 **Impression score:** 7
 
@@ -25415,7 +25415,7 @@ The high priest archetype can be used for any other national authority, such as 
 - **Power:** My current responsibilities are quite enough. I have no desire for more.
 - **Revelry:** For shame! Do you boast of doing evil--and expect me to join you in it?
 
-#### DUKE
+##### DUKE
 
 **Impression score:** 8
 
@@ -25437,7 +25437,7 @@ The duke archetype can be used for any other royal counselor, such as an archmag
 - **Justice:** Right and wrong? There is no right, except what strengthens the kingdom, and there is no wrong, except what hurts it.
 - **Protection:** I don't care about saving lives. We're all doomed to die. The question is, what will live on after us.
 
-#### DRAGON
+##### DRAGON
 
 **Impression score:** 9
 
@@ -25481,7 +25481,7 @@ The monarch archetype can be used for any other kingdom-level ruler, such as a t
 - **Higher Authority:** Do you dare give orders to me? Never forget, no matter who sent you, I rule here!
 - **Vengeance:** Revenge is an exciting sport. Sadly, it's one I've had to give up. It's policy, not revenge, that rules here.
 
-#### LICH
+##### LICH
 
 **Impression score:** 11
 
@@ -25503,7 +25503,7 @@ The lich archetype can be used for any other worldshaking threat, such as a woul
 - **Peace:** Yes, yes, peace will come ... eventually.
 - **Protection:** If you're so intent on saving lives, then bow down before me! No harm will come to my servants.
 
-#### DEITY
+##### DEITY
 
 **Impression score:** 12
 
@@ -25574,7 +25574,7 @@ Fire blazes from several buildings, and the occupants need to be rescued. Elsewh
 
 Fire has broken out in the town! The heroes must prevent it from spreading while saving as many townsfolk as possible. Their efforts might be more complicated if the cause of the fire--such as a marauding dragon or an invading army--is still around causing trouble.
 
-#### FIGHT FIRE
+##### FIGHT FIRE
 
 The following are examples of montage tests that you can use or modify to your heart's content.
 
@@ -25586,7 +25586,7 @@ You can break up the individual tests within a montage by introducing a combat e
 
 Reason, Presence. Suggested skills: Drive, Handle Animals, Ride
 
-#### OPTIONAL TWISTS
+###### OPTIONAL TWISTS
 
 At the end of the first round, an emergency crops up. One or more heroes, selected by the players, must deal with the situation before the second round begins. If the heroes successfully deal with the twist, they earn a success for the montage test. Otherwise they earn a failure.
 
@@ -25594,17 +25594,17 @@ At the end of the first round, an emergency crops up. One or more heroes, select
 - **Cause of the Fire:** The entire party meets the hostile cause of the fire--the invading army, dragon, arsonist, etc. They must fight a standard or hard encounter against this threat.
 - **Help!** Someone is about to run into a burning building to save a relative trapped under a burning beam. This twist requires two tests, each of which nets a success or a failure for the montage test. One hero can try to prevent the townsperson from entering the burning building while another rescues the relative. Suggested skills: Might, Presence. Suggested skills and abilities: Lift, Persuade
 
-#### OPTIONAL TWIST
+###### OPTIONAL TWIST
 
 At the end of the first round of the montage test, the party meets the hostile cause of the fire--the invading army, dragon, arsonist, etc. They must fight a standard or hard encounter against this threat.
 
-#### MONTAGE TEST OUTCOMES
+### MONTAGE TEST OUTCOMES
 
 - **Total Success:** The fire is extinguished. Buildings are damaged but no lives were lost. The party achieves 2 Victories if the montage test was hard, or 1 Victory if it was easy or moderate.
 - **Partial Success:** The fire is quenched, although many buildings burned and a few lives were lost. The party achieves 1 Victory if the montage test was moderate or hard.
 - **Total Failure:** When the fire finally burns out, the town lies in ruins. Townsfolk mourn their dead or grimly prepare to find a new home. The party achieves no Victories from the montage test.
 
-#### INFILTRATE THE PALACE
+##### INFILTRATE THE PALACE
 
 Whether the heroes are trying to reach a tyrant's throne room, pull off a daring art heist, or rescue royalty from captivity, they're somewhere they're not supposed to be and they'd prefer to keep their presence secret.
 
@@ -25612,7 +25612,7 @@ Whether the heroes are trying to reach a tyrant's throne room, pull off a daring
 
 The target site is well-defended, with patrols that change every few hours. The few obvious entrances are locked and guarded. And once you're inside, you don't know your way to your goal. There are probably guard patrols inside as well. You'll have to sneak or bluff your way past them.
 
-#### MONTAGE CHALLENGES
+###### MONTAGE CHALLENGES
 
 Half the work of a successful infiltration is done before setting foot in the target building. If the heroes choose, they can make individual tests as part of the montage test before they enter the site. One round of montage tests can
 
@@ -25639,17 +25639,17 @@ The first time the heroes fail a test while the alarm level is 2, they encounter
 - **Skulk in the Shadows:** Keep out of sight. Suggested characteristic: Agility. Suggested skills: Hide, Sneak. Heroes can attempt this task twice during the montage.
 - **Pose as Guards:** Using castoff clothes, disguise as guards or other inhabitants. This test gets an edge if the party prepared disguises in advance or defeated guards while in the site. Suggested characteristics: Intuition, Presence. Suggested skills: Disguise, Lie, Search
 
-#### OPTIONAL TWIST
+###### OPTIONAL TWIST
 
 At any time during the infiltration section of the montage challenge, between one hero's turn and another's, the heroes learn another group is breaking into the site at the same time, possibly after the same prize. When the heroes run into them during the infiltration, they can fight, negotiate, or let them go--in which case they may meet them again when they reach their prize.
 
-#### MONTAGE TEST OUTCOMES
+### MONTAGE TEST OUTCOMES
 
 - **Total Success:** The party reaches their goal, and they secure an escape route that lets them leave safely. The party achieves 2 Victories if the montage test was hard, or 1 Victory if it was easy or moderate.
 - **Partial Success:** The heroes reach their goal, but they'll need to fight a standard difficulty combat encounter to escape. The party achieves 1 Victory if the montage test was moderate or hard, in addition to any Victories earned from combat.
 - **Total Failure:** The site is locked down, and their goal is out of reach. The party needs to fight a Hard combat encounter to escape. The party achieves no Victories from the montage test, although they may earn Victories from combats undertaken during the montage test.
 
-#### PREPARE FOR BATTLE
+##### PREPARE FOR BATTLE
 
 Whether it's a village threatened by bandits or a great city preparing for a siege, enemies are on their way to attack the settlement. The heroes have a limited time to fortify the settlement's defenses and bolster its troops.
 
@@ -25657,7 +25657,7 @@ Whether it's a village threatened by bandits or a great city preparing for a sie
 
 The walls or palisades around the settlement (if any) are in poor shape. The roads or rivers leading to the settlement may be convenient for trade, but they won't slow down the invaders--barricades, traps, or ambushes could be set up. The settlement's food, weapon, and ammunition supply is too low to survive a long siege. Its experienced fighters are competent but few, and its militia is poorly equipped and virtually untrained.
 
-#### MONTAGE CHALLENGES
+###### MONTAGE CHALLENGES
 
 - **Evacuation:** Heroes lead noncombatants to safety. Suggested characteristics: Intuition, Presence. Suggested skills: Handle Animal, Lead, Persuade
 - **Fortification:** Heroes help build or repair walls. Suggested characteristics: Might, Reason. Suggested skills: Architecture, Endurance, Lift
@@ -25672,7 +25672,7 @@ o **Total Failure:** The heroes each lose 1 recovery from
 
 - the settlement. If the heroes wish, they can fight two hard combat encounters against waves of invaders to allow some of the settlement's inhabitants to retreat to safety. The party achieves no Victories from the montage test, although they may earn some Victories from combats undertaken during the settlement's defense.
 
-#### TRACK THE FUGITIVE
+##### TRACK THE FUGITIVE
 
 The heroes are on the trail of someone--an escaped criminal? A dangerous beast? A lost child? The difficulties of the chase depend on whether the quarry knows they're
 
@@ -25681,13 +25681,13 @@ You can see the fugitive's tracks--but could they be setting a false trail? Did 
 - **Ask Around:** Gather clues from locals or bystanders, if any are present--or, if the heroes have the proper magic, from animals or the dead. Suggested characteristics: Intuition, Presence. Suggested skills: Interrogate, Persuade, Rumors
 - **Follow the Trail:** Look for tracks or other signs of the fugitive's passage. Heroes can attempt this test twice during the montage. Suggested characteristic: Intuition. Suggested skills: Alertness, Search, Track
 
-#### OPTIONAL TWIST
+###### OPTIONAL TWIST
 
 At the end of the first round of the montage test, fastmoving enemy troops attack before the heroes are ready. The heroes must fight off an easy combat encounter.
 
 o **Trapmaking:** Heroes dig concealed pits, lay ambushes, or otherwise make it hard for the invaders to approach the settlement. Suggested characteristics: Might, Reason. Suggested skills: Conceal Object, Endurance, Mechanics
 
-#### MONTAGE TEST OUTCOMES
+### MONTAGE TEST OUTCOMES
 
 - **Total Success:** The settlement is fully fortified, and even if the heroes don't fight in the settlement's defense, it survives. If the heroes wish, they can leave the settlement and fight a standard combat encounter against the invader's leader and their lackeys. If the heroes succeed, they might kill or capture the leader. The party achieves 2 Victories if the montage test was hard, or 1 Victory if it was easy or moderate, in addition to any Victories they may earn in combat during the settlement's defense.
 - **Partial Success:** If the heroes hit the failure limit or time runs out, and if they've achieved at least two more successes than failures, they achieve a partial success. The settlement's fortifications are improved, but the settlement will still fall unless the heroes fight in its defense. To save the settlement, the heroes must triumph in a hard combat encounter against the invader's leader and lackeys. If the heroes lose the encounter, the settlement falls. The party achieves 1 Victory if the montage test was moderate or hard, in addition to any Victories they may earn in combat during the settlement's defense.
@@ -25697,23 +25697,23 @@ being pursued, and if they want to be found.
 
 #### SETTING THE SCENE
 
-#### MONTAGE CHALLENGES
+###### MONTAGE CHALLENGES
 
 - **Get a Good View:** Climb up high to get the big picture. Suggested characteristics: Agility, Might. Suggested skills: Climb, Gymnastics, Jump
 - **Predict their Next Move:** Without needing to find their quarry's trail, the heroes might have an idea where they're headed. The hero gains an edge if they know the quarry well. Suggested characteristics: Intuition, Reason. Suggested skills: Navigate, Read Person, or an appropriate skill from the Lore group (such as Nature to follow an animal or Criminal Underworld to follow a criminal)
 - **Push Ahead:** While the quarry is resting, the heroes are closing in. The hero loses a recovery. Suggested characteristic: Might. Suggested skills: Endurance, Navigate, Ride, Drive
 
-#### OPTIONAL TWIST
+###### OPTIONAL TWIST
 
 At the end of the first round of the montage test, the heroes stumble upon a trap set by the quarry, such as a pit trap full of poison spikes, or a problem they left behind, such as angry locals or a forest fire. The heroes must deal with the issue before they begin the test.
 
-#### MONTAGE TEST OUTCOMES
+### MONTAGE TEST OUTCOMES
 
 - **Total Success:** The heroes catch their quarry before the fugitive reaches their destination (or before a lost or kidnapped creature comes to harm). The party achieves 2 Victories if the montage test was hard, or 1 Victory if it was easy or moderate.
 - **Partial Success:** If the quarry was trying to evade capture, the quarry reaches their destination. They find allies and a fortified position to defend themselves, or they may have time to cause more harm. If the quarry was lost, the quarry is injured grievously when they are found. The party achieves 1 Victory if the montage test was moderate or hard.
 - **Total Failure:** The trail has gone cold. The heroes will need to wait for fresh clues to come along before they can resume the hunt. The party achieves no Victories from the montage test.
 
-#### WILDERNESS RACE
+##### WILDERNESS RACE
 
 The party needs to reach a besieged city before it falls or traverse a jungle before a curse is activated. In any case, the party needs to cross dangerous wildlands--fast.
 
@@ -25721,7 +25721,7 @@ The party needs to reach a besieged city before it falls or traverse a jungle be
 
 The wilds ahead hold unknown dangers. Someone will need to figure out the best route, and others can speed the journey by carrying baggage or keeping up spirits. It might be wise if someone kept an eye out for monsters and other hazards, as well.
 
-#### MONTAGE CHALLENGES
+###### MONTAGE CHALLENGES
 
 - **Avoid Hazards:** Determine ways to overcome the area's natural hazards, such as finding insect-repelling herbs in a swamp or making snowshoes to cross tundra. Suggested characteristics: Intuition, Reason. Suggested skills: Heal, Nature, appropriate skill from the Crafting skill group (such as Alchemy to make bug repellent)
 - **Carry Baggage:** By carrying supplies for the weaker party members, you increase the whole party's speed. Suggested characteristic: Might. Suggested skills: Endurance, Lift
@@ -25731,11 +25731,11 @@ The wilds ahead hold unknown dangers. Someone will need to figure out the best r
 - **Push On:** Pick up the pace and push past the fatigue. Suggested characteristics: Might. Suggested skills: Endurance, Lead; Animal Handling, Drive, or Ride if the party has mounts or vehicles.
 - **Scout Ahead:** Investigate the path ahead. Suggested characteristics: Agility, Intuition. Suggested skills: Alertness, Navigation, Sneak
 
-#### OPTIONAL TWIST
+###### OPTIONAL TWIST
 
 At the end of the first round of the montage test, a natural hazard (such as an avalanche) interrupts the journey. Each hero must make a test of your choice to avoid the hazard, losing a Recovery on a failure.
 
-#### MONTAGE TEST OUTCOMES
+### MONTAGE TEST OUTCOMES
 
 - **Total Success:** The heroes reach their goal in time. The party achieves 2 Victories if the montage test was hard, or 1 Victory if it was easy or moderate.
 - **Partial Success:** In order to reach their goal in time, the heroes must sprint over the last leg of the journey, each hero must spend two Recoveries to do so. The party achieves 1 Victory if the montage test was moderate or hard, in addition to any Victories earned from combat.

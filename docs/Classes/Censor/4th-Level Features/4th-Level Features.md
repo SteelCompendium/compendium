@@ -14,9 +14,11 @@ As a 4th-level censor, you gain the following features.
 
 [CHARACTERISTIC INCREASE](./Characteristic%20Increase.md)
 
-[4TH-LEVEL DOMAIN FEATURE](./4th-Level%20Domain%20Feature/4th-Level%20Domain%20Feature.md)
+[4TH-LEVEL DOMAIN FEATURE](./4th-Level%20Domain%20Feature.md)
 
-[SEANCE](./Seance/Seance.md)
+[4TH-LEVEL CENSOR DOMAIN FEATURES](./4th-Level%20Censor%20Domain%20Features/4th-Level%20Censor%20Domain%20Features.md)
+
+[SAINT'S EPIPHANY](./Saints%20Epiphany/Saints%20Epiphany.md)
 
 [PERK](./Perk.md)
 

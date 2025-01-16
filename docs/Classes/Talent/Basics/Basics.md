@@ -16,18 +16,16 @@ kind: basics
 - 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Reason score - 1
+**Weak Potency:** Reason - 2
 
-**Average Potency:** Reason score
+**Average Potency:** Reason - 1
 
-**Strong Potency:** Reason score + 1
+**Strong Potency:** Reason
 
 **Starting Stamina at 1st Level:** 18
 
-**Stamina Gained at 2nd and greater levels:** 9
+**Stamina Gained at 2nd and Higher Levels:** 9
 
-**Recoveries:** 8
-
-**Skills:** You have Psionics and Read Person. Choose any two skills from the interpersonal or lore skill groups.
+[Recoveries: 8](./Recoveries%208.md)
 
 [TALENT ADVANCEMENT](./Talent%20Advancement.md)

@@ -16,10 +16,10 @@ With this stormwight kit, you channel your primordial rage into the form of a be
 
 [ANIMAL FORM: BEAR](./Animal%20Form%20Bear.md)
 
+[HYBRID FORM: BEAR](./Hybrid%20Form%20Bear.md)
+
 [PRIMORDIAL STORM: BLIZZARD](./Primordial%20Storm%20Blizzard.md)
 
 [KIT BONUSES](./Kit%20Bonuses.md)
 
-[SIGNATURE ABILITY](./Signature%20Ability/Signature%20Ability.md)
-
-[BEAR GROWING RAGE](./Bear%20Growing%20Rage.md)
+[SIGNATURE ABILITY](./Signature%20Ability.md)

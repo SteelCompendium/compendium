@@ -16,18 +16,18 @@ keyword_list:
 
 The Arcane Archer kit allows you to combine magic and ranged weapon attacks. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
 
-## Equipment
+### Equipment
 
 You wear no armor and wield a bow.
 
-## Kit Bonuses
+### Kit Bonuses
 
 - **Speed Bonus:** +1
 - **Ranged Damage Bonus:** +2/+2/+2
 - **Weapon Distance Bonus:** +10
 - **Disengage Bonus:** +1
 
-## Signature Ability
+### Signature Ability
 
 ## Exploding Arrow
 

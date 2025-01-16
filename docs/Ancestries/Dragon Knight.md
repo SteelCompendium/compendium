@@ -133,15 +133,15 @@ Your hardened scales grant you immunity equal to your level to one of the follow
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Prismatic Scales, Dragon Breath)
 
-### Draconian Guard (costs 1 Point)
+#### Draconian Guard (costs 1 Point)
 
 When you or a creature adjacent to you takes damage from a strike, you can use a triggered action to swing your wings around and guard against the blow, reducing the any damage from the strike by an amount equal to your level.
 
-### Prismatic Scales (costs 1 Point)
+#### Prismatic Scales (costs 1 Point)
 
 Select one damage immunity granted by your Wyrmplate trait. You always have this immunity from your trait in addition to the one it normally grants.
 
-### Remember Your Oath (costs 1 Points)
+#### Remember Your Oath (costs 1 Points)
 
 As a maneuver, you can recite the following oath. If you do, you succeed on saving throws when you roll a 4 or higher until the start of your next turn:
 
@@ -165,7 +165,7 @@ As a maneuver, you can recite the following oath. If you do, you succeed on savi
 
 *Until the last villain dies*
 
-### Draconian Pride (costs 2 Points)
+#### Draconian Pride (costs 2 Points)
 
 You can use the following signature ability.
 
@@ -182,7 +182,7 @@ You can use the following signature ability.
 - *12-16:* 5 **damage; push 1**
 - *17+:* 7 **damage; push 2**
 
-### Dragon Breath (costs 2 Points)
+#### Dragon Breath (costs 2 Points)
 
 **You can use the following signature ability.**
 
@@ -198,6 +198,6 @@ You can use the following signature ability.
 
 **Effect:** You choose the ability's damage type from acid, cold, corruption, fire, lightning, or poison.
 
-### Wings (costs 2 Points)
+#### Wings (costs 2 Points)
 
 You possess wings powerful enough to take you airborne. While using your wings to fly, you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall prone. While using your wings to fly at 1st, 2nd, and 3rd level, you have damage weakness 5.

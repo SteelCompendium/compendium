@@ -6,27 +6,23 @@ name: Black Ash Teleport
 type: classes
 subtype: shadow
 kind: 1st-level features
-keywords: Magic
-keyword_list:
-  - Magic
-ability_type: Maneuver
-distance: Self
-target: Self
+distance: Self **Target:** Self
 ---
 
 # Black Ash Teleport
 
 You gain the following ability.
 
-## Black Ash Teleport
+BLACK ASH TELEPORT
 
-In a swirl of black ash, you step from one place to another.
+| In a swirl of black ash, you step from one place to another. |
+| ------------------------------------------------------------ |
+| Keywords: Magic Type: Maneuver                               |
+|                                                              |
+| :-----------------------------------                         |
+| **Keywords:**                                                |
+| **Distance:** Self **Target:** Self                          |
 
-|                     |                    |
-| :------------------ | :----------------- |
-| **Keywords:** Magic | **Type:** Maneuver |
-| **Distance:** Self  | **Target:** Self   |
+**Effect:** You teleport up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you hide using this maneuver, you gain a surge.
 
-**Effect:** You teleport up to 5 squares. If you end this movement in concealment or cover, you can use the Hide maneuver even if you are observed. If you attack another creature while hidden from this ability or on the same turn after using this ability, the attack gains `⚡`.
-
-**Spend Insight:** You teleport 1 additional square for each insight spent.
+**Spend 1+ Insight:** You teleport 1 additional square for each insight spent.

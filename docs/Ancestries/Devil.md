@@ -134,30 +134,30 @@ Your innate magic allows you to twist how your words are perceived to get a bett
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Beast Legs, Impressive Horns)
 
-### Barbed Tail (costs 1 Point)
+#### Barbed Tail (costs 1 Point)
 
 Your pointy tail allows you to punctuate all your actions. Once per round, you can deal extra damage equal to your highest characteristic score on a melee strike.
 
-### Beast Legs (costs 1 Points)
+#### Beast Legs (costs 1 Points)
 
 Your powerful legs improve your speed. Your speed becomes 6.
 
-### Glowing Eyes (costs 1 Point)
+#### Glowing Eyes (costs 1 Point)
 
 Your eyes are a solid, vibrant color that flares to show your excitement or rage. Whenever you take damage from a creature, you can use a triggered action to curse that creature for daring to do you harm. The creature takes 1d10 + your level psychic damage.
 
-### Hellsight (costs 1 Point)
+#### Hellsight (costs 1 Point)
 
 Your eyes let you see through the dark, fog, and other types of concealment. You don't take a bane on strikes against concealed, unhidden creatures.
 
-### Impressive Horns (costs 2 Point)
+#### Impressive Horns (costs 2 Point)
 
 Your cherished horns are larger than the average devil and a hardened representation of your force of will, allowing you to succeed on a roll of 5 or higher with saving throws.
 
-### Prehensile Tail (costs 2 Points)
+#### Prehensile Tail (costs 2 Points)
 
 Your prehensile tail allows you to challenge foes on all sides. You can't be flanked.
 
-### Wings (costs 2 Points)
+#### Wings (costs 2 Points)
 
 You possess wings powerful enough to take you airborne. While using your wings to fly, you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall prone. While using your wings to fly at 1st, 2nd, and 3rd level, you have damage weakness 5.

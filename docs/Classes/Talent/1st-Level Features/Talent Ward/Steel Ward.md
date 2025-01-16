@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # Steel Ward
 
-Your ward reacts to danger, protecting your body from future harm. When you take damage, the damage resolves and then you gain `🛡` until the end of your next turn.
+Your ward reacts to danger, protecting your body from future harm. Whenever you take damage, the damage resolves and you then gain damage immunity equal to your Reason score until the end of your next turn.

@@ -1,0 +1,29 @@
+---
+title_raw: '**1st-level Class Act Features**'
+title: '**1st-Level Class Act Features**'
+name_raw: '**1st-level Class Act Features**'
+name: '**1st-Level Class Act Features**'
+type: classes
+subtype: troubadour
+kind: 1st-level features
+---
+
+# **1st-level Class Act Features**
+
+| Class Act | Feature                        |
+| --------- | ------------------------------ |
+| Duelist   | Acrobatics, Star Power         |
+| Skald     | Blocking, Dramatic Monologue   |
+| Virtuoso  | Power Chord, Virtuoso Routines |
+
+[ACROBATICS](./Acrobatics.md)
+
+[ACROBATICS](./Acrobatics.md)
+
+[BLOCKING](./Blocking.md)
+
+[BLOCKING](./Blocking.md)
+
+[DRAMATIC MONOLOGUE](./Dramatic%20Monologue.md)
+
+[DRAMATIC MONOLOGUE](./Dramatic%20Monologue.md)

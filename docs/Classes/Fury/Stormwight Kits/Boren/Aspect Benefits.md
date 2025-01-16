@@ -10,4 +10,4 @@ kind: stormwight kits
 
 # Aspect Benefits
 
-Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever an attack pulls a creature adjacent to you, you can use a free triggered action to apply M \[average\] grabbed.
+Whenever you use forced movement to push a creature, you can pull that creature instead. Whenever you pull a creature adjacent to you and that creature has **M \< average**, you can use a free triggered action to grab that creature.

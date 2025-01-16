@@ -96,22 +96,22 @@ A magic glamor makes others perceive you as interesting and engaging, granting y
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* High Senese, Otherworldly Grace)
 
-### Graceful Retreat (costs 1 Point)
+#### Graceful Retreat (costs 1 Point)
 
 When you take the Disengage move action, you can shift 1 additional square as part of the move action.
 
-### High Senses (costs 1 Point)
+#### High Senses (costs 1 Point)
 
 You have senses that are keen and perceptive. You have an edge on Intuition tests that use the Awareness skill.
 
-### Revisit Memory (costs 1 Point)
+#### Revisit Memory (costs 1 Point)
 
 Accessing memories is as easy as living in the present for you. You have an edge on all tests made to recall lore.
 
-### Otherworldly Grace (costs 2 Points)
+#### Otherworldly Grace (costs 2 Points)
 
 Your elf body and mind can't be contained for long. You succeed on saving throws when you get a 5 or higher.
 
-### Unstoppable Mind (costs 2 Points)
+#### Unstoppable Mind (costs 2 Points)
 
 Your mind allows you to maintain your focus in any situation. You can't be dazed.

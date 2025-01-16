@@ -10,6 +10,14 @@ kind: 9th-level features
 
 # 9th-level Features
 
-As a 9th-level talent, you gain the following features.
+As a 9th-level tactician, you gain the following features.
 
-[FORTRESS OF PERFECT THOUGHT](./Fortress%20Of%20Perfect%20Thought.md)
+[GRAND MASTER OF ARMS](./Grand%20Master%20Of%20Arms.md)
+
+[9TH-LEVEL DOCTRINE ABILITY](./9th-Level%20Doctrine%20Ability/9th-Level%20Doctrine%20Ability.md)
+
+[SQUAD! HIT AND RUN!(11 FOCUS)](<./Squad%20Hit%20And%20RUN(11%20FOCUS)/Squad%20Hit%20And%20RUN(11%20FOCUS).md>)
+
+[NO ESCAPE (11 FOCUS)](./No%20Escape.md)
+
+[Effect: Mark the target.](./Effect%20Mark%20The%20Target.md)

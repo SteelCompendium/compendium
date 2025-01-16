@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # Sanctuary Ward
 
-After one aggression from a foe, the gods take notice and protect you. When another creature damages you with an attack, they can't use another attack against you until you harm them or one of their allies, or until the end of their next turn.
+In response to a foe's aggression, the gods protect you. After another creature damages you, that creature can't target you with a strike until you harm them or one of their allies, or until the end of their next turn.
