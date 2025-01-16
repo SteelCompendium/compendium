@@ -10,47 +10,27 @@ kind: 1st-level features
 
 # Primordial Strength
 
-When you damage an object with a weapon attack, it takes an `⚡`. Additionally, whenever you push another creature into an object, they take `⚡`. As your rage grows, your primordial strength intensifies.
+Whenever you damage an object with a weapon strike, it takes additional damage equal to your Might score. Additionally, whenever you push another creature into an object, they take additional damage equal to your Might score.
+
+As your rage grows, your primordial strength intensifies, granting benefits from the Primordial Strength Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+
+| Rage   | Benefit                                                |
+| ------ | ------------------------------------------------------ |
+| 2      | Add your Might to the distance you achieve on the      |
+|        | Knockback maneuver.                                    |
+| 4      | Gain one surge the first time on a turn that you push  |
+|        | a creature.                                            |
+| 6      | Gain an edge on Might tests and the Knockback          |
+|        | maneuver.                                              |
+| 8      | Gain two surges the first time on a turn that you push |
+| (Level | a creature.                                            |
+| 4)     |                                                        |
+| 10     | Gain a double edge on Might tests and the Knockback    |
+| (Level | maneuver.                                              |
+| 7)     |                                                        |
+| 12     | o Add your Might to the distance of any forced         |
+| (Level | movement power roll result.                            |
+| 10)    | o Gain 10 Temporary Stamina when you use a heroic      |
+|        | ability.                                               |
 
 ## Primordial Strength Growing Rage
-
-<table style="width:99%;">
-<colgroup>
-<col style="width: 7%" />
-<col style="width: 92%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Rage</th>
-<th>Benefit</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>3</td>
-<td>- You gain an edge on Might tests and resistance rolls.<br />
-- You deal <code>⚡</code> if you are at least 2 squares from where you started your turn when you attack.</td>
-</tr>
-<tr class="even">
-<td>6</td>
-<td>You deal <code>⚡⚡</code> if you are at least two squares from where you started your turn when you attack.</td>
-</tr>
-<tr class="odd">
-<td>9</td>
-<td>You have a double edge on Might tests and resistance rolls.</td>
-</tr>
-<tr class="even">
-<td>12 (Level 4)</td>
-<td>You deal <code>⚡⚡⚡</code> if you are at least two squares from where you started your turn when you attack.</td>
-</tr>
-<tr class="odd">
-<td>15 (Level 7)</td>
-<td>You achieve Tier 3 on all Might tests and resistance rolls.</td>
-</tr>
-<tr class="even">
-<td>18 (Level 10)</td>
-<td>- You deal <code>⚡⚡⚡⚡</code> if you are at least two squares from where you started your turn when you attack.<br />
-- You become size 2 and the reach of your melee weapon abilities increases by 1.</td>
-</tr>
-</tbody>
-</table>

@@ -22,8 +22,6 @@ As a troubadour, you gain the following features.
 
 [REVITALIZING LIMERICK](./Revitalizing%20Limerick.md)
 
-[1ST-LEVEL CLASS ACT FEATURES](./1st-Level%20Class%20Act%20Features.md)
-
 [1ST-LEVEL CLASS ACT FEATURES](./1st-Level%20Class%20Act%20Features/1st-Level%20Class%20Act%20Features.md)
 
 [Effect: Choose one of the following effects:](./Effect%20Choose%20One%20Of%20The%20Following%20Effects/Effect%20Choose%20One%20Of%20The%20Following%20Effects.md)
@@ -33,8 +31,6 @@ As a troubadour, you gain the following features.
 ["BALLAD OF THE BEAST"](./Ballad%20Of%20The%20Beast.md)
 
 [CLASS ACT TRIGGERED ACTION](./Class%20Act%20Triggered%20Action.md)
-
-[CLASS ACT TRIGGERED ACTIONS](./Class%20Act%20Triggered%20Actions.md)
 
 [HARMONIZE (3 DRAMA)](./Harmonize.md)
 

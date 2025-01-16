@@ -1,14 +1,14 @@
 ---
-title_raw: '**conduit Advancement**'
-title: '**conduit Advancement**'
-name_raw: '**conduit Advancement**'
-name: '**conduit Advancement**'
+title_raw: Conduit Advancement
+title: Conduit Advancement
+name_raw: Conduit Advancement
+name: Conduit Advancement
 type: classes
 subtype: conduit
 kind: basics
 ---
 
-# **conduit Advancement**
+# Conduit Advancement
 
 | Level | Features                | Abilities      | Domain    |
 | ----- | ----------------------- | -------------- | --------- |

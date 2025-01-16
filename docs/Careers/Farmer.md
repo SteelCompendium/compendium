@@ -22,7 +22,7 @@ You gain the following career benefits:
 - **Project Points:** 120
 - **Perk:** One exploration perk (*Quick Build:* Monster Whisperer)
 
-## **farmer Inciting Incidents**
+## Farmer Inciting Incidents
 
 | d6  | Incident                                                     |
 | --- | ------------------------------------------------------------ |

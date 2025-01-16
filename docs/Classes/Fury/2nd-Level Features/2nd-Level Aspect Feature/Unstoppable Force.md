@@ -10,4 +10,4 @@ kind: 2nd-level features
 
 # Unstoppable Force
 
-When you use the Charge action, you can choose to use a signature or heroic melee attack instead of a free strike. You can jump as part of a charge.
+Whenever you use the Charge action, you can make a signature strike or a heroic ability melee strike instead of a free strike. Additionally, you can jump as part of a charge.

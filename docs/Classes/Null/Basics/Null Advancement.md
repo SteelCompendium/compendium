@@ -1,14 +1,14 @@
 ---
-title_raw: '**null Advancement**'
-title: '**null Advancement**'
-name_raw: '**null Advancement**'
-name: '**null Advancement**'
+title_raw: Null Advancement
+title: Null Advancement
+name_raw: Null Advancement
+name: Null Advancement
 type: classes
 subtype: 'null'
 kind: basics
 ---
 
-# **null Advancement**
+# Null Advancement
 
 | Level | Features                | Abilities      | Tradition |
 | ----- | ----------------------- | -------------- | --------- |

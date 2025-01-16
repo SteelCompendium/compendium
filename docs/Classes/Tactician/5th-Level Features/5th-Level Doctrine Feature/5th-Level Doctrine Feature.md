@@ -12,7 +12,7 @@ kind: 5th-level features
 
 Your specialization grants you features as shown on the 5nd-Level Tactical Doctrines Features table.
 
-## **5th-level Doctrine Features**
+## 5th-level Doctrine Features
 
 | Doctrine   | Feature                        |
 | ---------- | ------------------------------ |
@@ -25,3 +25,9 @@ Your specialization grants you features as shown on the 5nd-Level Tactical Doctr
 [DISTRACTED](./Distracted.md)
 
 [I PREDICTED THAT](./I%20Predicted%20That.md)
+
+[LEAVE NO TRACE](./Leave%20No%20Trace.md)
+
+[NO, YOU MOVE](./No%20You%20Move.md)
+
+[SHAKE IT OFF](./Shake%20It%20Off.md)

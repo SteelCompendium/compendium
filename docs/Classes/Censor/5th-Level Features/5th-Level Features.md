@@ -12,9 +12,7 @@ kind: 5th-level features
 
 As a 5th-level censor, you gain the following features.
 
-[5TH-LEVEL ORDER FEATURE](./5th-Level%20Order%20Feature.md)
-
-[5TH-LEVEL ORDER FEATURES](./5th-Level%20Order%20Features/5th-Level%20Order%20Features.md)
+[5TH-LEVEL ORDER FEATURE](./5th-Level%20Order%20Feature/5th-Level%20Order%20Feature.md)
 
 [9-WRATH ABILITIES](./9-Wrath%20Abilities.md)
 

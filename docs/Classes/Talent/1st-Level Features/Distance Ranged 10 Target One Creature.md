@@ -1,14 +1,14 @@
 ---
-title_raw: '**distance:** Ranged 10 **target:** One Creature'
-title: '**distance:** Ranged 10 **target:** One Creature'
-name_raw: '**distance:** Ranged 10 **target:** One Creature'
-name: '**distance:** Ranged 10 **target:** One Creature'
+title_raw: 'Distance:\*\* Ranged 10 \*\*target: One Creature'
+title: 'Distance:\*\* Ranged 10 \*\*target: One Creature'
+name_raw: 'Distance:\*\* Ranged 10 \*\*target: One Creature'
+name: 'Distance:\*\* Ranged 10 \*\*target: One Creature'
 type: classes
 subtype: talent
 kind: 1st-level features
 ---
 
-# **distance:** Ranged 10 **target:** One Creature
+# Distance:\*\* Ranged 10 \*\*target: One Creature
 
 **Power Roll + Reason:**
 

@@ -6,27 +6,22 @@ name: Accelerate
 type: classes
 subtype: talent
 kind: 1st-level features
-keywords: Psionic
-keyword_list:
-  - Psionic
-ability_type: Maneuver
-distance: Self or Ranged 10
-target: Self or 1 creature
+distance: Ranged 10 **Target:** Self or one creature **Effect:** The target immediately shifts up to a number of
 ---
 
 # Accelerate
 
-You gain access to the following maneuver:
+You gain the following ability.
 
-## Accelerate
+ACCELERATE
 
-*To your ally, it seems as though the world has slowed down.*
+*To your ally, it seems as though the world has slowed down.* **Keywords:** Psionic **Type:** Maneuver
 
-|                                 |                                |
-| :------------------------------ | :----------------------------- |
-| **Keywords:** Psionic           | **Type:** Maneuver             |
-| **Distance:** Self or Ranged 10 | **Target:** Self or 1 creature |
+|                                                                                                                      |             |
+| :------------------------------------------------------------------------------------------------------------------- | :---------- |
+| **Keywords:**                                                                                                        | **Type:**   |
+| **Distance:** Ranged 10 **Target:** Self or one creature **Effect:** The target immediately shifts up to a number of | **Target:** |
 
-**Effect:** The target can immediately shift a number of squares up to your Reason.
+squares equal to your Reason score.
 
-**Spend 3 Clarity:** The target can also take a maneuver.
+**Spend 2 Clarity:** The target can also use a maneuver.

@@ -18,9 +18,7 @@ As a 2nd-level conduit, you gain the following features.
 
 [2ND-LEVEL DOMAIN FEATURE](./2nd-Level%20Domain%20Feature.md)
 
-[2ND-LEVEL DOMAIN ABILITY](./2nd-Level%20Domain%20Ability.md)
-
-[2ND-LEVEL CONDUIT DOMAIN ABILITIES](./2nd-Level%20Conduit%20Domain%20Abilities.md)
+[2ND-LEVEL DOMAIN ABILITY](./2nd-Level%20Domain%20Ability/2nd-Level%20Domain%20Ability.md)
 
 [BLESSING OF FATE AND DESTINY (5 PIETY)](./Blessing%20Of%20Fate%20And%20Destiny.md)
 

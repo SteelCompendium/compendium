@@ -16,13 +16,9 @@ As a tactician, you gain the following features.
 
 [FOCUS](./Focus.md)
 
-[1ST-LEVEL DOCTRINE FEATURE](./1st-Level%20Doctrine%20Feature.md)
-
-[1ST-LEVEL DOCTRINE FEATURES](./1st-Level%20Doctrine%20Features/1st-Level%20Doctrine%20Features.md)
+[1ST-LEVEL DOCTRINE FEATURE](./1st-Level%20Doctrine%20Feature/1st-Level%20Doctrine%20Feature.md)
 
 [DOCTRINE TRIGGERED ACTION](./Doctrine%20Triggered%20Action.md)
-
-[DOCTRINE TRIGGERED ACTIONS](./Doctrine%20Triggered%20Actions.md)
 
 [ADVANCED TACTICS](./Advanced%20Tactics.md)
 

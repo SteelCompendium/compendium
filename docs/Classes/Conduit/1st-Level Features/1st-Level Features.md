@@ -16,9 +16,7 @@ As a conduit, you gain the following features.
 
 [PIETY](./Piety/Piety.md)
 
-[1ST-LEVEL DOMAIN FEATURE](./1st-Level%20Domain%20Feature.md)
-
-[1ST-LEVEL CONDUIT DOMAIN FEATURES](./1st-Level%20Conduit%20Domain%20Features/1st-Level%20Conduit%20Domain%20Features.md)
+[1ST-LEVEL DOMAIN FEATURE](./1st-Level%20Domain%20Feature/1st-Level%20Domain%20Feature.md)
 
 [HEALING GRACE](./Healing%20Grace.md)
 

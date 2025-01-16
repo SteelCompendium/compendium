@@ -22,7 +22,7 @@ You gain the following career benefits:
 - **Languages:** Two languages
 - **Perk:** One exploration perk (*Quick Build:* Wood Wise)
 
-## **explorer Inciting Incidents**
+## Explorer Inciting Incidents
 
 | d6  | Incident                                                  |
 | --- | --------------------------------------------------------- |

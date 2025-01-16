@@ -12,9 +12,7 @@ kind: 8th-level features
 
 As a 8th-level fury, you gain the following features.
 
-[8TH-LEVEL ASPECT FEATURE](./8th-Level%20Aspect%20Feature.md)
-
-[5TH-LEVEL PRIMORDIAL ASPECT FEATURES](./5th-Level%20Primordial%20Aspect%20Features/5th-Level%20Primordial%20Aspect%20Features.md)
+[8TH-LEVEL ASPECT FEATURE](./8th-Level%20Aspect%20Feature/8th-Level%20Aspect%20Feature.md)
 
 [PERK](./Perk.md)
 

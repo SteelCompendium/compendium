@@ -26,12 +26,6 @@ As a null, you gain the following features.
 
 [DISCIPLINE MASTERY](./Discipline%20Mastery/Discipline%20Mastery.md)
 
-[CHRONOKINETIC MASTERY](./Chronokinetic%20Mastery/Chronokinetic%20Mastery.md)
-
-[CRYOKINETIC MASTERY](./Cryokinetic%20Mastery/Cryokinetic%20Mastery.md)
-
-[METAKINETIC MASTERY](./Metakinetic%20Mastery.md)
-
 [NULL SPEED](./Null%20Speed.md)
 
 [PSIONIC AUGMENTATION](./Psionic%20Augmentation/Psionic%20Augmentation.md)

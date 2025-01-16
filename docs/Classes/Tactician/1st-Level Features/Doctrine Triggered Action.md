@@ -11,3 +11,11 @@ kind: 1st-level features
 # Doctrine Triggered Action
 
 Your tactical doctrine grants you a triggered action as shown on the Doctrine Triggered Actions table.
+
+## Doctrine Triggered Actions
+
+| Doctrine   | Triggered Action |
+| ---------- | ---------------- |
+| Insurgent  | Advanced Tactics |
+| Mastermind | Overwatch        |
+| Vanguard   | Parry            |

@@ -22,7 +22,7 @@ You gain the following career benefits:
 - **Renown:** +2
 - **Perk:** One exploration perk (*Quick Build:* Friend Catapult)
 
-## **gladiator Inciting Incidents**
+## Gladiator Inciting Incidents
 
 | d6  | Incident                                                   |
 | --- | ---------------------------------------------------------- |

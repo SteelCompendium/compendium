@@ -13,3 +13,7 @@ kind: 1st-level features
 The more discipline you channel through your chosen null tradition, the more potent your presence in combat becomes.
 
 [CHRONOKINETIC MASTERY](./Chronokinetic%20Mastery.md)
+
+[CRYOKINETIC MASTERY](./Cryokinetic%20Mastery.md)
+
+[METAKINETIC MASTERY](./Metakinetic%20Mastery.md)

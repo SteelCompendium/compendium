@@ -12,9 +12,7 @@ kind: 8th-level features
 
 As an 8th-level censor, you gain the following features.
 
-[8TH-LEVEL ORDER FEATURE](./8th-Level%20Order%20Feature.md)
-
-[5TH-LEVEL ORDER FEATURES](./5th-Level%20Order%20Features/5th-Level%20Order%20Features.md)
+[8TH-LEVEL ORDER FEATURE](./8th-Level%20Order%20Feature/8th-Level%20Order%20Feature.md)
 
 [PERK](./Perk.md)
 

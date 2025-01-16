@@ -1,14 +1,14 @@
 ---
-title_raw: '**talent Advancement**'
-title: '**talent Advancement**'
-name_raw: '**talent Advancement**'
-name: '**talent Advancement**'
+title_raw: Talent Advancement
+title: Talent Advancement
+name_raw: Talent Advancement
+name: Talent Advancement
 type: classes
 subtype: talent
 kind: basics
 ---
 
-# **talent Advancement**
+# Talent Advancement
 
 | Level | Features                     | Abilities     | Tradition |
 | ----- | ---------------------------- | ------------- | --------- |

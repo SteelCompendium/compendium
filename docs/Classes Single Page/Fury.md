@@ -43,7 +43,7 @@ As a fury, you have abilities that deal a lot of damage, move you around the bat
 
 **Skills:** Nature, plus choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Nature, Alertness, Jump)
 
-### **fury Advancement**
+### Fury Advancement
 
 | Level | Features                     | Abilities   | Aspect    |
 | ----- | ---------------------------- | ----------- | --------- |
@@ -124,7 +124,7 @@ Some of the benefits of your Growing Rage can be applied only if you are a speci
 
 Your chosen primordial aspect grants you features as shown on the 1st-Level Aspect Features table.
 
-### **1st-level Aspect Features**
+#### 1st-level Aspect Features
 
 | Aspect     | Feature                        |
 | ---------- | ------------------------------ |
@@ -146,7 +146,7 @@ You are never surprised. Additionally, whenever you would push a target with for
 
 As your rage grows, your primordial cunning intensifies, granting benefits from the Primordial Cunning Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-### **primordial Cunning Growing Rage**
+##### Primordial Cunning Growing Rage
 
 | Rage   | Benefit                                                  |
 | ------ | -------------------------------------------------------- |
@@ -192,7 +192,7 @@ As your rage grows, your primordial strength intensifies, granting benefits from
 | 10)    | o Gain 10 Temporary Stamina when you use a heroic      |
 |        | ability.                                               |
 
-### **primordial Strength Growing Rage**
+##### Primordial Strength Growing Rage
 
 #### Relentless Hunter
 
@@ -202,7 +202,7 @@ You gain an edge on tests that use the Track skill.
 
 Your primordial aspect grants you a triggered action as shown on the Aspect Triggered Actions table.
 
-### **aspect Triggered Actions**
+#### Aspect Triggered Actions
 
 | Aspect     | Triggered Action   |
 | ---------- | ------------------ |
@@ -256,7 +256,7 @@ UNEARTHLY REFLEXES
 
 You always succeed on Might tests made to jump. You can still roll to see if you get a reward result.
 
-### **where's My Maneuver?**
+### Where's My Maneuver?
 
 Since most other classes get a bespoke maneuver, many folks have asked during playtesting, "Where is the fury's special maneuver?" The answer is that the fury doesn't need a maneuver all their own, because most the time, we've found that the fantasy of the fury has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
 
@@ -422,7 +422,7 @@ As a 2nd-level fury, you gain the following features.
 
 Your primordial aspect grants you a feature as shown on the 2nd-Level Aspect Features table.
 
-### **2nd-level Aspect Features**
+#### 2nd-level Aspect Features
 
 | Aspect     | Feature           |
 | ---------- | ----------------- |
@@ -534,7 +534,7 @@ As a 3rd-level fury, you gain the following features.
 
 Your primordial aspect grants you a feature as shown on the 3rd-Level Aspect Features table.
 
-### **3rd-level Aspect Features**
+#### 3rd-level Aspect Features
 
 | Aspect     | Feature                 |
 | ---------- | ----------------------- |
@@ -624,7 +624,7 @@ As a 5th-level fury, you gain the following features.
 
 Your connection to the Primordial Chaos grows, expressing itself in your body and nature. Your aspect grants you a feature as shown on the 5th-Level Primordial Aspect Features table.
 
-### **5th-level Primordial Aspect Features**
+#### 5th-level Primordial Aspect Features
 
 | Aspect     | Feature    |
 | ---------- | ---------- |
@@ -825,7 +825,7 @@ As a 8th-level fury, you gain the following features.
 
 Your connection to the Primordial Chaos grows, expressing itself in your body and nature. Your aspect grants you a feature as shown on the 8th-Level Primordial Aspect Features table.
 
-### **5th-level Primordial Aspect Features**
+#### 5th-level Primordial Aspect Features
 
 | Aspect     | Feature            |
 | ---------- | ------------------ |
@@ -1115,7 +1115,7 @@ Your primordial damage type is cold.
 
 As your rage grows, you gain benefits as noted on the Boren Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-### **boren Growing Rage**
+##### Boren Growing Rage
 
 | Rage   | Benefit                                                  |
 | ------ | -------------------------------------------------------- |
@@ -1184,7 +1184,7 @@ Your primordial damage type is fire.
 
 As your rage grows, you gain benefits as noted on the Corven Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-### **corven Growing Rage**
+##### Corven Growing Rage
 
 | Rage      | Benefit                                                                                                |
 | --------- | ------------------------------------------------------------------------------------------------------ |
@@ -1249,7 +1249,7 @@ Your primordial damage type is corruption.
 
 As your rage grows, you gain benefits as noted on the Raden Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-### **raden Growing Rage**
+##### Raden Growing Rage
 
 **Rage Benefit** 2 When you take the Disengage move action, you
 
@@ -1314,7 +1314,7 @@ Your primordial damage type is lightning.
 
 As your rage grows, you gain benefits as noted on the Vuken Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-### **vuken Growing Rage**
+##### Vuken Growing Rage
 
 | Rage      | Benefit                                               |
 | --------- | ----------------------------------------------------- |

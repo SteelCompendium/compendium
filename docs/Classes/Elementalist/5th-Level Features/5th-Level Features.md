@@ -12,9 +12,7 @@ kind: 5th-level features
 
 As a 5th-level elementalist, you gain the following features.
 
-[5TH-LEVEL SPECIALIZATION FEATURE](./5th-Level%20Specialization%20Feature.md)
-
-[5TH-LEVEL ELEMENTALIST SPECIALIZATION FEATURES](./5th-Level%20Elementalist%20Specialization%20Features/5th-Level%20Elementalist%20Specialization%20Features.md)
+[5TH-LEVEL SPECIALIZATION FEATURE](./5th-Level%20Specialization%20Feature/5th-Level%20Specialization%20Feature.md)
 
 [9-ESSENCE ABILITIES](./9-Essence%20Abilities.md)
 

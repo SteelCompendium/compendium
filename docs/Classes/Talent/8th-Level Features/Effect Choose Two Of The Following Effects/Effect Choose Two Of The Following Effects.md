@@ -1,14 +1,14 @@
 ---
-title_raw: '**effect:** Choose Two Of The Following Effects:'
-title: '**effect:** Choose Two Of The Following Effects:'
-name_raw: '**effect:** Choose Two Of The Following Effects:'
-name: '**effect:** Choose Two Of The Following Effects:'
+title_raw: 'Effect: Choose Two Of The Following Effects:'
+title: 'Effect: Choose Two Of The Following Effects:'
+name_raw: 'Effect: Choose Two Of The Following Effects:'
+name: 'Effect: Choose Two Of The Following Effects:'
 type: classes
 subtype: talent
 kind: 8th-level features
 ---
 
-# **effect:** Choose Two Of The Following Effects:
+# Effect: Choose Two Of The Following Effects:
 
 - The target regains 3 recoveries, which they can immediately spend.
 - The target ends all EoT and resistance ends effects, and gains 1 heroic resource.

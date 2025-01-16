@@ -20,8 +20,6 @@ changing them out during a Respite as with any other kit. (See Kits.)
 
 [BEAR CLAWS](./Bear%20Claws/Bear%20Claws.md)
 
-[BOREN GROWING RAGE](./Boren%20Growing%20Rage.md)
-
 [CORVEN](./Corven/Corven.md)
 
 [WING BUFFET](./Wing%20Buffet.md)

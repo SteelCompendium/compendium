@@ -18,8 +18,6 @@ As a 4th-level elementalist, you gain the following features.
 
 [MANTLE OF ESSENCE](./Mantle%20Of%20Essence.md)
 
-[MANTLE OF ESSENCE SPECIALIZATION EFFECTS](./Mantle%20Of%20Essence%20Specialization%20Effects.md)
-
 [FLOWERING BED](./Flowering%20Bed.md)
 
 [QUAKING EARTH](./Quaking%20Earth.md)

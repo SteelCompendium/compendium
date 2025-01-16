@@ -6,29 +6,19 @@ name: Again
 type: classes
 subtype: talent
 kind: 1st-level features
-keywords: Psionic, Ranged
+keywords: Psionic, Ranged **Type:** Triggered **Distance:** Ranged 10 **Target:** Self or one creature **Trigger:** The target makes an ability power roll.
 keyword_list:
   - Psionic
-  - Ranged
-ability_type: Triggered
-distance: Self or Ranged 10
-target: Self or 1 creature
-trigger: The target makes an attack. You can use this ability after seeing the result of the roll. You gain 1 clarity.
+  - Ranged **Type:** Triggered **Distance:** Ranged 10 **Target:** Self or one creature **Trigger:** The target makes an ability power roll.
 ---
 
 # Again
 
-You gain access to the following triggered action:
-
-## Again
-
 *You step back a split second to see if things play out a little differently.*
 
-|                                 |                                |
-| :------------------------------ | :----------------------------- |
-| **Keywords:** Psionic, Ranged   | **Type:** Triggered            |
-| **Distance:** Self or Ranged 10 | **Target:** Self or 1 creature |
+|                                                                                                                                                                 |             |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
+| **Keywords:** Psionic, Ranged **Type:** Triggered **Distance:** Ranged 10 **Target:** Self or one creature **Trigger:** The target makes an ability power roll. | **Type:**   |
+| **Distance:**                                                                                                                                                   | **Target:** |
 
-**Trigger:** The target makes an attack. You can use this ability after seeing the result of the roll. You gain 1 clarity.
-
-**Effect:** You force the target to reroll the power roll and use the new result, even if the original result was a critical hit.
+**Effect:** You can use this ability after seeing the power roll for the triggering roll. You force the target to reroll the power roll and use the new result.

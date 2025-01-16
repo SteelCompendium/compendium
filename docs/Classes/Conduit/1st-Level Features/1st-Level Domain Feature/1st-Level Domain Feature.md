@@ -10,21 +10,23 @@ kind: 1st-level features
 
 # 1st-level Domain Feature
 
-You gain a domain feature from one of your domains, as shown on the 1st-Level Conduit Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table.
+Choose one of your domains. You gain a domain feature from that domain as shown on the 1st-Level Conduit Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* Revitalizing Ritual)
 
 [1ST-LEVEL CONDUIT DOMAIN FEATURES](./1st-Level%20Conduit%20Domain%20Features.md)
 
 [BLESSING OF COMPASSION](./Blessing%20Of%20Compassion.md)
 
-[BLESSING OF FORTUNATE WEATHER](./Blessing%20Of%20Fortunate%20Weather.md)
-
 [BLESSING OF COMPREHENSION](./Blessing%20Of%20Comprehension.md)
+
+[BLESSING OF FORTUNATE WEATHER](./Blessing%20Of%20Fortunate%20Weather.md)
 
 [FAITHFUL FRIEND](./Faithful%20Friend.md)
 
-[GRAVE SPEECH](./Grave%20Speech/Grave%20Speech.md)
+[FAITHFUL FRIEND](./Faithful%20Friend.md)
 
-[HANDS OF THE MAKER](./Hands%20Of%20The%20Maker/Hands%20Of%20The%20Maker.md)
+[GRAVE SPEECH](./Grave%20Speech.md)
+
+[HANDS OF THE MAKER](./Hands%20Of%20The%20Maker.md)
 
 [INNER LIGHT](./Inner%20Light.md)
 

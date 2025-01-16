@@ -1,14 +1,14 @@
 ---
-title_raw: '**distance:** Ranged 10 **target:** One Ally Or Enemy'
-title: '**distance:** Ranged 10 **target:** One Ally Or Enemy'
-name_raw: '**distance:** Ranged 10 **target:** One Ally Or Enemy'
-name: '**distance:** Ranged 10 **target:** One Ally Or Enemy'
+title_raw: 'Distance:\*\* Ranged 10 \*\*target: One Ally Or Enemy'
+title: 'Distance:\*\* Ranged 10 \*\*target: One Ally Or Enemy'
+name_raw: 'Distance:\*\* Ranged 10 \*\*target: One Ally Or Enemy'
+name: 'Distance:\*\* Ranged 10 \*\*target: One Ally Or Enemy'
 type: classes
 subtype: talent
 kind: 1st-level features
 ---
 
-# **distance:** Ranged 10 **target:** One Ally Or Enemy
+# Distance:\*\* Ranged 10 \*\*target: One Ally Or Enemy
 
 **Effect:** Any ally targeted by this ability gains temporary Stamina equal to twice your Presence score, and can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
 

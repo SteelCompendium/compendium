@@ -12,9 +12,7 @@ kind: 8th-level features
 
 As a 8th-level tactician, you gain the following features.
 
-[8TH-LEVEL DOCTRINE FEATURE](./8th-Level%20Doctrine%20Feature.md)
-
-[8TH-LEVEL DOCTRINE FEATURES](./8th-Level%20Doctrine%20Features/8th-Level%20Doctrine%20Features.md)
+[8TH-LEVEL DOCTRINE FEATURE](./8th-Level%20Doctrine%20Feature/8th-Level%20Doctrine%20Feature.md)
 
 [PERK](./Perk.md)
 

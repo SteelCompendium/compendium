@@ -12,9 +12,7 @@ kind: 2nd-level features
 
 As a 2nd-level fury, you gain the following features.
 
-[2ND-LEVEL ASPECT FEATURE](./2nd-Level%20Aspect%20Feature.md)
-
-[2ND-LEVEL ASPECT FEATURES](./2nd-Level%20Aspect%20Features/2nd-Level%20Aspect%20Features.md)
+[2ND-LEVEL ASPECT FEATURE](./2nd-Level%20Aspect%20Feature/2nd-Level%20Aspect%20Feature.md)
 
 [PERK](./Perk.md)
 

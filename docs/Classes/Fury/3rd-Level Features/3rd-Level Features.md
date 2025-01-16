@@ -12,9 +12,7 @@ kind: 3rd-level features
 
 As a 3rd-level fury, you gain the following features.
 
-[3RD-LEVEL ASPECT FEATURE](./3rd-Level%20Aspect%20Feature.md)
-
-[3RD-LEVEL ASPECT FEATURES](./3rd-Level%20Aspect%20Features/3rd-Level%20Aspect%20Features.md)
+[3RD-LEVEL ASPECT FEATURE](./3rd-Level%20Aspect%20Feature/3rd-Level%20Aspect%20Feature.md)
 
 [NATURE'S KNIGHT](./Natures%20Knight/Natures%20Knight.md)
 

@@ -10,7 +10,7 @@ kind: 1st-level features
 
 # 1st-level Conduit Domain Features
 
-| Domain     | Feature                       | Skill         |
+| Domain     | Feature                       | Skill Group   |
 | ---------- | ----------------------------- | ------------- |
 | Creation   | Hands of the Maker            | Crafting      |
 | Death      | Grave Speech                  | Lore          |

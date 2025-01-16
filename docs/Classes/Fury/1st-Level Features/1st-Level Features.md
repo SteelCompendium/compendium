@@ -18,17 +18,9 @@ As a fury, you gain the following features.
 
 [GROWING RAGE](./Growing%20Rage.md)
 
-[1ST-LEVEL ASPECT FEATURES](./1st-Level%20Aspect%20Features.md)
-
 [1ST-LEVEL ASPECT FEATURES](./1st-Level%20Aspect%20Features/1st-Level%20Aspect%20Features.md)
 
-[PRIMORDIAL CUNNING GROWING RAGE](./Primordial%20Cunning%20Growing%20Rage/Primordial%20Cunning%20Growing%20Rage.md)
-
-[PRIMORDIAL STRENGTH GROWING RAGE](./Primordial%20Strength%20Growing%20Rage/Primordial%20Strength%20Growing%20Rage.md)
-
 [ASPECT TRIGGERED ACTION](./Aspect%20Triggered%20Action.md)
-
-[ASPECT TRIGGERED ACTIONS](./Aspect%20Triggered%20Actions.md)
 
 [FURIOUS CHANGE](./Furious%20Change.md)
 

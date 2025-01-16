@@ -1,14 +1,14 @@
 ---
-title_raw: '**elementalist Advancement**'
-title: '**elementalist Advancement**'
-name_raw: '**elementalist Advancement**'
-name: '**elementalist Advancement**'
+title_raw: Elementalist Advancement
+title: Elementalist Advancement
+name_raw: Elementalist Advancement
+name: Elementalist Advancement
 type: classes
 subtype: elementalist
 kind: basics
 ---
 
-# **elementalist Advancement**
+# Elementalist Advancement
 
 | Level | Features                          | Abilities         |
 | ----- | --------------------------------- | ----------------- |

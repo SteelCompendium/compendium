@@ -1,14 +1,14 @@
 ---
-title_raw: '**troubadour Advancement**'
-title: '**troubadour Advancement**'
-name_raw: '**troubadour Advancement**'
-name: '**troubadour Advancement**'
+title_raw: Troubadour Advancement
+title: Troubadour Advancement
+name_raw: Troubadour Advancement
+name: Troubadour Advancement
 type: classes
 subtype: troubadour
 kind: basics
 ---
 
-# **troubadour Advancement**
+# Troubadour Advancement
 
 | Level | Features                     | Abilities   | Class Act |
 | ----- | ---------------------------- | ----------- | --------- |

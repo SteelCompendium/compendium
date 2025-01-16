@@ -12,8 +12,6 @@ kind: 5th-level features
 
 As a 5th-level null, you gain the following features.
 
-[5TH-LEVEL TRADITION FEATURE](./5th-Level%20Tradition%20Feature.md)
-
-[5TH-LEVEL TRADITION FEATURES](./5th-Level%20Tradition%20Features/5th-Level%20Tradition%20Features.md)
+[5TH-LEVEL TRADITION FEATURE](./5th-Level%20Tradition%20Feature/5th-Level%20Tradition%20Feature.md)
 
 [9-DISCIPLINE ABILITIES](./9-Discipline%20Abilities.md)

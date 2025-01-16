@@ -28,9 +28,7 @@ As a censor, you gain the following features.
 
 [MY LIFE FOR YOURS](./My%20Life%20For%20Yours.md)
 
-[1ST-LEVEL DOMAIN FEATURE](./1st-Level%20Domain%20Feature.md)
-
-[1ST-LEVEL CENSOR DOMAIN FEATURES](./1st-Level%20Censor%20Domain%20Features/1st-Level%20Censor%20Domain%20Features.md)
+[1ST-LEVEL DOMAIN FEATURE](./1st-Level%20Domain%20Feature/1st-Level%20Domain%20Feature.md)
 
 [CENSOR ABILITIES](./Censor%20Abilities/Censor%20Abilities.md)
 

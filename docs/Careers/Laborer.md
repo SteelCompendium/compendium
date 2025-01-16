@@ -22,7 +22,7 @@ You gain the following career benefits:
 - **Project Points:** 120
 - **Perk:** One exploration perk (*Quick Build:* Brawny)
 
-## **laborer Inciting Incidents**
+## Laborer Inciting Incidents
 
 | d6  | Incident                                                    |
 | --- | ----------------------------------------------------------- |

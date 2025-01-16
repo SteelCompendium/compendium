@@ -14,7 +14,7 @@ Revenants are not on the table, since they live until destroyed or moving on aft
 
 Humans have the potential to live a little longer on Orden than they do in the real world thanks to the presence of magic.
 
-### **ancestry Measurements**
+## Ancestry Measurements
 
 | Ancestry      | Height in   | Weight in | Life Expectancy |
 | ------------- | ----------- | --------- | --------------- |

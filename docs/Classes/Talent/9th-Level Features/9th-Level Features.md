@@ -16,4 +16,4 @@ As a 9th-level talent, you gain the following features.
 
 [11-CLARITY TRADITION ABILITY](./11-Clarity%20Tradition%20Ability/11-Clarity%20Tradition%20Ability.md)
 
-[Distance: 2 Burst Target: All allies](./Distance%202%20Burst%20Target%20All%20Allies/Distance%202%20Burst%20Target%20All%20Allies.md)
+[Distance:\*\* 2 Burst \*\*Target: All allies](./Distance%202%20Burst%20Target%20All%20Allies/Distance%202%20Burst%20Target%20All%20Allies.md)

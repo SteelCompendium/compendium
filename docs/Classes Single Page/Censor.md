@@ -37,7 +37,7 @@ You're at your best against the strongest foes. Your judgments terrify heretics,
 
 **Skills:** Choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Intimidate, Religion)
 
-### **censor Advancement**
+### Censor Advancement
 
 | Level | Features                    | Abilities   | Order     |
 | ----- | --------------------------- | ----------- | --------- |
@@ -169,7 +169,7 @@ You channel your will to mend your wounds or the wounds of your allies. You gain
 
 You gain a domain feature from one of your domains as shown on the 1st-Level Censor Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table.
 
-### **1st-level Censor Domain Features**
+#### 1st-level Censor Domain Features
 
 | Domain     | Feature                       | Skill         |
 | ---------- | ----------------------------- | ------------- |
@@ -437,7 +437,7 @@ You gain an interpersonal, lore, or supernatural perk of your choice. See Perks 
 
 Your censor order grants you a feature as shown on the 2nd-Level Order Features table.
 
-### **2nd-level Order Features**
+#### 2nd-level Order Features
 
 | Order    | Features                             |
 | -------- | ------------------------------------ |
@@ -483,7 +483,7 @@ Choose one of the following abilities.
 | ------------------------------------------------- |
 | Keywords: Magic, Ranged, Strike Type: Action      |
 
-### **distance:** Ranged 10 **target:** One Creature
+### Distance:\*\* Ranged 10 \*\*target: One Creature
 
 **Power Roll + Might:**
 
@@ -583,7 +583,7 @@ Your Might and Presence scores increase to 3.
 
 You gain a domain feature from one of your domains, as shown on the 4th-Level Censor Domain Features table.
 
-### **4th-level Censor Domain Features**
+#### 4th-level Censor Domain Features
 
 | Domain    | Feature                     |
 | --------- | --------------------------- |
@@ -678,7 +678,7 @@ As a 5th-level censor, you gain the following features.
 
 Your specialization grants you features as shown on the 5th-Level Tactical Doctrines Features table.
 
-### **5th-level Order Features**
+#### 5th-level Order Features
 
 | Doctrine | Feature       |
 | -------- | ------------- |
@@ -843,7 +843,7 @@ All of your characteristics increase by 1, to a maximum score of 4.
 
 You gain a domain feature from one of your domains, as shown on the 7th-Level Censor Domain Features table.
 
-### **7th-level Censor Domain Features Domain Feature**
+### 7th-level Censor Domain Features Domain Feature
 
 Creation Divine Quartermaster Death Word of Death Deferred Fate Word of Fate Denied Knowledge Gods' Library Life Font of Grace Love Covenant of the Heart Nature Nature's Bounty Protection Blessing of Iron Storm Ride the Lightning Sun Light of the Burning Sun Trickery Trinity of Trickery War Your Triumphs are Remembered
 
@@ -931,7 +931,7 @@ As an 8th-level censor, you gain the following features.
 
 Your specialization grants you features as shown on the 8td-Level Tactical Doctrines Features table.
 
-### **5th-level Order Features**
+#### 5th-level Order Features
 
 | Doctrine | Feature          |
 | -------- | ---------------- |

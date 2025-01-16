@@ -10,4 +10,4 @@ kind: 3rd-level features
 
 # Distance Is Only Memory
 
-When you finish a respite, you can open a portal that leads to any place you have been previously. Only creatures that you deem allies can pass through the portal. The portal remains open for 1 hour or until you dismiss it as an action.
+When you finish a respite, you can open a two-way portal that leads to any place you have previously been. Your allies can pass through the portal, which remains open for 1 hour or until you dismiss it as an action.

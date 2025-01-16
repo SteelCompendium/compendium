@@ -18,4 +18,4 @@ kind: stormwight kits
 - *12-16:* 5 + M **damage;** M \< average\*\*, grabbed\*\*
 - *17+:* 11 + M **damage;** M \< strong\*\*, grabbed\*\*
 
-[GROWING RAGE](./Growing%20Rage.md)
+[GROWING RAGE](./Growing%20Rage/Growing%20Rage.md)

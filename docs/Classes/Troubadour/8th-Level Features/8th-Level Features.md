@@ -12,8 +12,6 @@ kind: 8th-level features
 
 As an 8th-level troubadour, you gain the following features.
 
-[8TH-LEVEL CLASS ACT FEATURES](./8th-Level%20Class%20Act%20Features.md)
-
 [8TH-LEVEL CLASS ACT FEATURES](./8th-Level%20Class%20Act%20Features/8th-Level%20Class%20Act%20Features.md)
 
 ["RADICAL FANTASIA"](./Radical%20Fantasia/Radical%20Fantasia.md)

@@ -1,14 +1,14 @@
 ---
-title_raw: '**fury Advancement**'
-title: '**fury Advancement**'
-name_raw: '**fury Advancement**'
-name: '**fury Advancement**'
+title_raw: Fury Advancement
+title: Fury Advancement
+name_raw: Fury Advancement
+name: Fury Advancement
 type: classes
 subtype: fury
 kind: basics
 ---
 
-# **fury Advancement**
+# Fury Advancement
 
 | Level | Features                     | Abilities   | Aspect    |
 | ----- | ---------------------------- | ----------- | --------- |

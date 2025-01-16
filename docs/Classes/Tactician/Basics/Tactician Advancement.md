@@ -1,14 +1,14 @@
 ---
-title_raw: '**tactician Advancement**'
-title: '**tactician Advancement**'
-name_raw: '**tactician Advancement**'
-name: '**tactician Advancement**'
+title_raw: Tactician Advancement
+title: Tactician Advancement
+name_raw: Tactician Advancement
+name: Tactician Advancement
 type: classes
 subtype: tactician
 kind: basics
 ---
 
-# **tactician Advancement**
+# Tactician Advancement
 
 | Level | Features               | Abilities  | Doctrine  |
 | ----- | ---------------------- | ---------- | --------- |

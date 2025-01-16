@@ -39,11 +39,11 @@ A talent is limited only by the strength of their mind. Powerful psionic heroes 
 
 **Stamina Gained at 2nd and Higher Levels:** 9
 
-### **recoveries:** 8
+### Recoveries: 8
 
 **Skills:** Psionics and Read Person, plus choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, Read Person, Empathize, Timescape)
 
-### **talent Advancement**
+### Talent Advancement
 
 | Level | Features                     | Abilities     | Tradition |
 | ----- | ---------------------------- | ------------- | --------- |
@@ -160,7 +160,7 @@ other. The receiver of your telepathic communications can choose to respond tele
 
 Your talent tradition grants you features as shown on the 1st-Level Tradition Features table.
 
-### **1st-level Tradition Features**
+#### 1st-level Tradition Features
 
 | Tradition   | Features                         |
 | ----------- | -------------------------------- |
@@ -322,7 +322,7 @@ HOARFROST
 
 *A row of the terrain freezes over ahead of you, turning hard and slick.*
 
-### **distance:** Ranged 10 **target:** One Creature
+### Distance:\*\* Ranged 10 \*\*target: One Creature
 
 **Power Roll + Reason:**
 
@@ -396,7 +396,7 @@ KINETIC PULSE
 - *12-16:* 6 + P **damage**
 - *17+:* 9 + P **damage**
 
-### **effect:** You Gain A Surge.
+### Effect: You Gain A Surge.
 
 **Strained:** The attack deals an extra 3 damage to the target and to you. The damage you take can't be reduced in any way.
 
@@ -412,9 +412,9 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 *You project psionic energy out to a creature and take on a new visage in their mind.*
 
-### **type:** Action
+### Type: Action
 
-### **distance:** Ranged 10 **target:** One Ally Or Enemy
+### Distance:\*\* Ranged 10 \*\*target: One Ally Or Enemy
 
 **Effect:** Any ally targeted by this ability gains temporary Stamina equal to twice your Presence score, and can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
 
@@ -426,7 +426,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 NOTHING EXCEEDS MY GRASP (3 CLARITY) *Be careful not to choke on your aspirations.* **Keywords:** Psionic, Ranged, Strike, Telekinesis
 
-### **type:** Action **distance:** Ranged 10 **target:** One Creature
+### Type:\*\* Action **distance:** Ranged 10 \*\*target: One Creature
 
 - **Power Roll + Reason:** o *11 or lower:* **3 + R damage;** M \< weak\*\*, slowed (save ends)\*\*
 - *12-16:* **5 + R damage;** M \< average\*\*, slowed (save ends)\*\*
@@ -444,7 +444,7 @@ NOTHING EXCEEDS MY GRASP (3 CLARITY) *Be careful not to choke on your aspiration
 
 *Smoke flows from your enemy like tears as their skin begins to blacken and flake.*
 
-## **type:** Action
+## Type: Action
 
 **Effect:** The target takes damage before this ability imposes any weakness effect. The damage type and the weakness for this ability must be chosen from one of the following: acid, corruption, or fire.
 
@@ -502,7 +502,7 @@ You gain an interpersonal, lore, or supernatural perk of your choice. See Perks 
 
 Your talent tradition grants you a feature as shown on the 2nd-Level Tradition Features table.
 
-### **2nd-level Tradition Features**
+#### 2nd-level Tradition Features
 
 | Tradition   | Feature         |
 | ----------- | --------------- |
@@ -582,7 +582,7 @@ Choose one of the following abilities.
 
 *You raise the target into the air, then smother them against the ground.*
 
-### **type:** Action
+### Type: Action
 
 **Power Roll + Reason:**
 
@@ -733,7 +733,7 @@ As a 5th-level talent, you gain the following features.
 
 You've developed a strong psychic bond with your allies that has allowed you all to coordinate supernaturally.
 
-### **5th-level Tradition Feature**
+### 5th-level Tradition Feature
 
 | Tradition   | Feature                               |
 | ----------- | ------------------------------------- |
@@ -884,7 +884,7 @@ Choose one of the following abilities.
 
 *Keep everything as it was. Ignore everything that will be.* **Keywords:** Area, Chronopathy, Psionic, Ranged
 
-### **type:** Action
+### Type: Action
 
 **Power Roll + Presence:**
 
@@ -914,7 +914,7 @@ Choose one of the following abilities.
 
 *You raise the tree or the behemoth, and without breaking a sweat, they soar faster than they should.* **Keywords:** Melee, Psionic, Telekinesis
 
-### **type:** Action
+### Type: Action
 
 - *11 or lower:* **push 5; M \< \[weak\] forced movement is vertical**
 - *12-16:* **push 8; M \< \[average\] forced movement is vertical**
@@ -988,7 +988,7 @@ You gain any one perk of your choice. See Perks for more information
 
 You have a mastery over your tradition that reveals itself in little ways you don't normally think about.
 
-### **8th-level Tradition Feature**
+### 8th-level Tradition Feature
 
 | Tradition   | Feature                           |
 | ----------- | --------------------------------- |
@@ -1076,7 +1076,7 @@ Choose one heroic ability from the following options.
 
 *You reshape the flow of time in the target's body to an earlier state.*
 
-### **effect:** Choose Two Of The Following Effects:
+### Effect: Choose Two Of The Following Effects:
 
 - The target regains 3 recoveries, which they can immediately spend.
 - The target ends all EoT and resistance ends effects, and gains 1 heroic resource.
@@ -1130,7 +1130,7 @@ within distance:
 
 *You lean on future heroism to assist you in the now.* **Keywords:** Area, Chronopathy, Psionic **Type:** Maneuver
 
-### **distance:** 2 Burst **target:** All Allies
+### Distance:\*\* 2 Burst \*\*target: All Allies
 
 **Effect:** You have 6 heroic resources to distribute amongst the targets in range. A target can't gain more than 3 of their heroic resource in this way. After using this ability, you can't gain any clarity until the end of the next round.
 

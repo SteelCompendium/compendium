@@ -10,22 +10,12 @@ kind: 2nd-level features
 
 # 2nd-level Tradition Feature
 
-Your talents extend naturally to your heroic feats outside the battlefield.
+Your talent tradition grants you a feature as shown on the 2nd-Level Tradition Features table.
 
-## 2nd-level Tradition Feature
-
-| Tradition   | Feature                      |
-| ----------- | ---------------------------- |
-| Chronopathy | Ease the Hours, Extra Shield |
-| Telekinesis | Ease their Fall, Extra Surge |
-| Telepathy   | Ease the Mind, Extra Shield  |
+[2ND-LEVEL TRADITION FEATURES](./2nd-Level%20Tradition%20Features.md)
 
 [EASE THE HOURS](./Ease%20The%20Hours.md)
 
 [EASE THE MIND](./Ease%20The%20Mind.md)
 
 [EASE THEIR FALL](./Ease%20Their%20Fall.md)
-
-[EXTRA SHIELD](./Extra%20Shield.md)
-
-[EXTRA SURGE](./Extra%20Surge.md)

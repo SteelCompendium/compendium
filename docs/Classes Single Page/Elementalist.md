@@ -40,11 +40,11 @@ As an elementalist, you can unleash your wrath across a field of foes, put an en
 
 **Stamina Gained at 2nd and Higher Levels:** 9
 
-### **recoveries:** 8
+### Recoveries: 8
 
 **Skills:** You gain the Magic skill and can choose any three skills from the crafting or lore skill groups. (*Quick Build:* Magic, Alchemy, Blacksmithing, History)
 
-### **elementalist Advancement**
+### Elementalist Advancement
 
 | Level | Features                          | Abilities         |
 | ----- | --------------------------------- | ----------------- |
@@ -186,7 +186,7 @@ You have the following ability:
 
 Your elemental specialization grants you a feature as shown on the 1st-Level Elemental Specialization Features table.
 
-### **1st-level Elemental Specialization Features**
+#### 1st-level Elemental Specialization Features
 
 | Specialization | Feature                    |
 | -------------- | -------------------------- |
@@ -248,7 +248,7 @@ RETURN TO FORMLESSNESS
 
 Your elemental specialization grants you a triggered action as shown on the Specialization Triggered Actions table.
 
-### **specialization Triggered Actions**
+#### Specialization Triggered Actions
 
 | Specialization | Triggered Action              |
 | -------------- | ----------------------------- |
@@ -553,7 +553,7 @@ You gain a crafting, lore, or supernatural perk of your choice. See Perks for mo
 
 Your elemental specialization grants you a feature as shown on the 2nd-Level Specialization Features table.
 
-### **2nd-level Specialization Features**
+#### 2nd-level Specialization Features
 
 | Specialization | Feature                   |
 | -------------- | ------------------------- |
@@ -597,7 +597,7 @@ THERE IS NO SPACE BETWEEN *Knowledge of the mystery reveals two spaces are the s
 
 At the start of each of your turns while the portals are active, you can open a new portal connected to the others. If three or more portals are present, you and your allies choose which portal you emerge from when you enter a portal, and a creature who force moves an enemy into a portal chooses that enemy's destination portal.
 
-### **green Animal Forms**
+##### Green Animal Forms
 
 | Animal Type        | Level | Temporary | Speed     | Size | Stability | Melee    | Special                                                                          |
 | ------------------ | ----- | --------- | --------- | ---- | --------- | -------- | -------------------------------------------------------------------------------- |
@@ -719,7 +719,7 @@ As a 3rd-level elementalist, you gain the following features.
 
 Your elemental specialization grants you a feature as shown on the 3rd-Level Specialization Features table.
 
-### **3rd-level Specialization Features**
+#### 3rd-level Specialization Features
 
 | Specialization | Feature                          |
 | -------------- | -------------------------------- |
@@ -824,7 +824,7 @@ When you gain essence from a creature within 10 squares of you taking damage tha
 
 While you have 3 or more essence and you aren't dying, you exude an aura of magic. The area of effect of the aura is equal to your Reason score. The effects of the aura are based on your specialization as shown on the Mantle of Essence Specialization Effects table.
 
-### **mantle Of Essence Specialization Effects**
+#### Mantle Of Essence Specialization Effects
 
 | Specialization | Effects         |
 | -------------- | --------------- |
@@ -863,7 +863,7 @@ As a 5th-level elementalist, you gain the following features.
 
 Your specialization grants you a feature as shown on the 5th-Level Elementalist Specialization Features table.
 
-### **5th-level Elementalist Specialization Features**
+#### 5th-level Elementalist Specialization Features
 
 | Specialization | Feature                      |
 | -------------- | ---------------------------- |
@@ -1049,7 +1049,7 @@ You gain any one perk of your choice. See Perks for more information.
 
 Your specialization grants you a feature as shown on the 8th-Level Elementalist Specialization Features table.
 
-### **8th-level Elementalist Specialization Features**
+#### 8th-level Elementalist Specialization Features
 
 | Specialization | Feature                |
 | -------------- | ---------------------- |
@@ -1110,7 +1110,7 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 | ? 12-16 9 damage; push 4                     |           |                             |                      |
 | ? 17 12 damage; push 5                       |           |                             |                      |
 
-### **earthwalk**
+### Earthwalk
 
 Difficult terrain composed of earth and stone doesn't cost the source extra movement.
 

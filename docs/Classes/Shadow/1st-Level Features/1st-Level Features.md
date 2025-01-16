@@ -16,8 +16,6 @@ As a shadow, you gain the following features.
 
 [INSIGHT](./Insight.md)
 
-[1ST-LEVEL COLLEGE FEATURES](./1st-Level%20College%20Features.md)
-
 [1ST-LEVEL COLLEGE FEATURES](./1st-Level%20College%20Features/1st-Level%20College%20Features.md)
 
 [I'M NO THREAT](./Im%20No%20Threat.md)

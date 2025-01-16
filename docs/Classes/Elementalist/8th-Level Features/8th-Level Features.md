@@ -14,9 +14,7 @@ As an 8th-level elementalist, you gain the following features.
 
 [PERK](./Perk.md)
 
-[8TH-LEVEL SPECIALIZATION FEATURE](./8th-Level%20Specialization%20Feature.md)
-
-[8TH-LEVEL ELEMENTALIST SPECIALIZATION FEATURES](./8th-Level%20Elementalist%20Specialization%20Features/8th-Level%20Elementalist%20Specialization%20Features.md)
+[8TH-LEVEL SPECIALIZATION FEATURE](./8th-Level%20Specialization%20Feature/8th-Level%20Specialization%20Feature.md)
 
 [Earthwalk](./Earthwalk.md)
 

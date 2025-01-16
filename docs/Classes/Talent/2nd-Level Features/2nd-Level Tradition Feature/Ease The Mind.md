@@ -10,4 +10,4 @@ kind: 2nd-level features
 
 # Ease The Mind
 
-You have an edge on tests to stop combat and start negotiations. NPCs with hostile or suspicious starting attitudes in negotiations have an additional 1 patience.
+You gain an edge on tests to stop combat and start a negotiation. Any NPC who has a hostile or suspicious starting attitude in a negotiation has an additional 1 patience.

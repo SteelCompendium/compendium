@@ -31,3 +31,5 @@ You gain a domain feature from one of your domains, as shown on the 4th-Level Ce
 [LIGHT OF REVELATION](./Light%20Of%20Revelation.md)
 
 [ORACULAR WARNING](./Oracular%20Warning.md)
+
+[SEANCE](./Seance.md)

@@ -1,8 +1,8 @@
 ---
-title_raw: '**effect:** Mark The Target.'
-title: '**effect:** Mark The Target.'
-name_raw: '**effect:** Mark The Target.'
-name: '**effect:** Mark The Target.'
+title_raw: 'Effect: Mark The Target.'
+title: 'Effect: Mark The Target.'
+name_raw: 'Effect: Mark The Target.'
+name: 'Effect: Mark The Target.'
 type: classes
 subtype: tactician
 kind: 9th-level features
@@ -14,7 +14,7 @@ keyword_list:
   - Weapon **Type:** Action **Distance:** Melee 1 or Ranged 5 **Target:** 1 creature
 ---
 
-# **effect:** Mark The Target.
+# Effect: Mark The Target.
 
 **Power Roll + Might:**
 

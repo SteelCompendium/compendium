@@ -10,6 +10,6 @@ kind: 2nd-level features
 
 # Disciple Of Fire
 
-*Your connection to fire allows you to protect yourself from it and rip away the protections of others.*
+Your connection to fire allows you to protect yourself from it, even as you rip away the protections of others. You have fire immunity equal to 5 plus your level in this class. Any fire damage you deal ignores a target's fire immunity.
 
-You gain fire immunity equal to 5 plus your level in this class. In addition, your fire damage dealt by you ignores other creature's fire immunities. Finally, when you deal damage with a fire ability, the damage is increased by an amount equal to your Reason score.
+At the start of a combat encounter, you gain surges equal to your Victories. Whenever you deal damage with a surge, you can make that damage fire damage.

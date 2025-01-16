@@ -12,8 +12,6 @@ kind: 5th-level features
 
 As a 5th-level tactician, you gain the following features.
 
-[5TH-LEVEL DOCTRINE FEATURE](./5th-Level%20Doctrine%20Feature.md)
-
-[5TH-LEVEL DOCTRINE FEATURES](./5th-Level%20Doctrine%20Features/5th-Level%20Doctrine%20Features.md)
+[5TH-LEVEL DOCTRINE FEATURE](./5th-Level%20Doctrine%20Feature/5th-Level%20Doctrine%20Feature.md)
 
 [9-FOCUS ABILITIES](./9-Focus%20Abilities.md)

@@ -39,7 +39,7 @@ As a shadow, you have abilities that deal a lot of damage, let you move swiftly 
 
 **Skills:** Hide and Sneak, plus choose any five skills from Criminal Underworld or the skills of the exploration, interpersonal, or intrigue skill groups. (*Quick Build:* Hide, Sneak, Criminal Underworld, Lie, Pick Lock, Pick Pocket, Sabotage)
 
-### **shadow Advancement**
+### Shadow Advancement
 
 | Level | Features                   | Abilities  | College   |
 | ----- | -------------------------- | ---------- | --------- |
@@ -117,7 +117,7 @@ If you use an ability outside of combat that lets you spend unlimited insight on
 
 Your choice of shadow college grants you one or more features as shown on the 1st-Level College Features table.
 
-### **1st-level College Features**
+#### 1st-level College Features
 
 | College         | Feature                    |
 | --------------- | -------------------------- |

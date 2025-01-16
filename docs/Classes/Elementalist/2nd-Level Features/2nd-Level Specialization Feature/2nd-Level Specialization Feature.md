@@ -10,9 +10,16 @@ kind: 2nd-level features
 
 # 2nd-level Specialization Feature
 
-Additionally, your specialization grants you a feature as shown on the 2nd-Level Elementalist Specialization Features table.
+Your elemental specialization grants you a feature as shown on the 2nd-Level Specialization Features table.
 
-[2ND-LEVEL ELEMENTALIST SPECIALIZATION FEATURES](./2nd-Level%20Elementalist%20Specialization%20Features.md)
+## 2nd-level Specialization Features
+
+| Specialization | Feature                   |
+| -------------- | ------------------------- |
+| Earth          | Disciple of Earth         |
+| Fire           | Disciple of Fire          |
+| Green          | Disciple of the Green     |
+| Void           | There is No Space Between |
 
 [DISCIPLE OF THE GREEN](./Disciple%20Of%20The%20Green.md)
 
@@ -20,10 +27,4 @@ Additionally, your specialization grants you a feature as shown on the 2nd-Level
 
 [DISCIPLE OF EARTH](./Disciple%20Of%20Earth.md)
 
-[EXTRA SHIELD](./Extra%20Shield.md)
-
-[EXTRA SURGE](./Extra%20Surge.md)
-
-[THERE IS NO SPACE BETWEEN](./There%20Is%20No%20Space%20Between.md)
-
-[GREEN ANIMAL FORMS](./Green%20Animal%20Forms.md)
+[THERE IS NO SPACE BETWEEN](./There%20Is%20No%20Space%20Between/There%20Is%20No%20Space%20Between.md)

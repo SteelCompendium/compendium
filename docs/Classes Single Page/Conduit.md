@@ -42,7 +42,7 @@ As a conduit, you heal and buff your allies, and debuff your foes while smiting 
 
 **Skills:** Choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Read Person, Religion)
 
-### **conduit Advancement**
+### Conduit Advancement
 
 | Level | Features                | Abilities      | Domain    |
 | ----- | ----------------------- | -------------- | --------- |
@@ -200,7 +200,7 @@ Additionally, whenever you activate a domain effect by praying for piety, choose
 
 Choose one of your domains. You gain a domain feature from that domain as shown on the 1st-Level Conduit Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table. (*Quick Build:* Revitalizing Ritual)
 
-### **1st-level Conduit Domain Features**
+#### 1st-level Conduit Domain Features
 
 | Domain     | Feature                       | Skill Group   |
 | ---------- | ----------------------------- | ------------- |
@@ -610,7 +610,7 @@ You gain the 1st-level domain feature and chosen skill for the domain you select
 
 Choose one of your domains. You gain an ability from that domain as shown on the 2nd-Level Conduit Domain Abilities table.
 
-### **2nd-level Conduit Domain Abilities**
+#### 2nd-level Conduit Domain Abilities
 
 | Domain     | Feature                      |
 | ---------- | ---------------------------- |
@@ -794,7 +794,7 @@ increase one of your characteristic scores by 1, to a
 
 You gain a domain feature from one of your domains, as
 
-### **4th-level Conduit Domain Features**
+#### 4th-level Conduit Domain Features
 
 | Domain     | Feature                     |
 | ---------- | --------------------------- |
@@ -960,7 +960,7 @@ You gain a crafting, lore, or supernatural perk of your choice. See Perks for mo
 
 Choose one of your domains. You gain an ability from it as shown on the 6th-Level Conduit Domain Abilities table.
 
-### **6th-level Conduit Domain Abilities**
+#### 6th-level Conduit Domain Abilities
 
 | Domain    | Ability               |
 | --------- | --------------------- |
@@ -1108,7 +1108,7 @@ All of your characteristics increase by 1, to a maximum score of 4.
 
 You gain a domain feature from one of your domains, as shown on the 7th-Level Conduit Domain Features table.
 
-### **7th-level Conduit Domain Features Domain Feature** Creation Divine Quartermaster Death Word Of Death Deferred Fate Word Of Fate Denied Knowledge Gods' Library Life Font Of Grace
+### 7th-level Conduit Domain Features Domain Feature Creation Divine Quartermaster Death Word Of Death Deferred Fate Word Of Fate Denied Knowledge Gods' Library Life Font Of Grace
 
 |            | Deferred              |
 | ---------- | --------------------- |

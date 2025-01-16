@@ -1,14 +1,14 @@
 ---
-title_raw: '**type:** Action **distance:** Ranged 10 **target:** One Creature'
-title: '**type:** Action **distance:** Ranged 10 **target:** One Creature'
-name_raw: '**type:** Action **distance:** Ranged 10 **target:** One Creature'
-name: '**type:** Action **distance:** Ranged 10 **target:** One Creature'
+title_raw: 'Type:\*\* Action **distance:** Ranged 10 \*\*target: One Creature'
+title: 'Type:\*\* Action **distance:** Ranged 10 \*\*target: One Creature'
+name_raw: 'Type:\*\* Action **distance:** Ranged 10 \*\*target: One Creature'
+name: 'Type:\*\* Action **distance:** Ranged 10 \*\*target: One Creature'
 type: classes
 subtype: talent
 kind: 1st-level features
 ---
 
-# **type:** Action **distance:** Ranged 10 **target:** One Creature
+# Type:\*\* Action **distance:** Ranged 10 \*\*target: One Creature
 
 - **Power Roll + Reason:** o *11 or lower:* **3 + R damage;** M \< weak\*\*, slowed (save ends)\*\*
 - *12-16:* **5 + R damage;** M \< average\*\*, slowed (save ends)\*\*

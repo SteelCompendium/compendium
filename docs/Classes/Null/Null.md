@@ -21,7 +21,7 @@ The null is an unarmed psionic warrior who dampens and absorbs the effects of ma
 
 [2ND-LEVEL FEATURES](./2nd-Level%20Features/2nd-Level%20Features.md)
 
-[Keywords: Psionic Type: Maneuver](./Keywords%20Psionic%20Type%20Maneuver/Keywords%20Psionic%20Type%20Maneuver.md)
+[Keywords:\*\* Psionic \*\*Type: Maneuver](./Keywords%20Psionic%20Type%20Maneuver/Keywords%20Psionic%20Type%20Maneuver.md)
 
 [3RD-LEVEL FEATURES](./3rd-Level%20Features/3rd-Level%20Features.md)
 

@@ -12,7 +12,7 @@ kind: 5th-level features
 
 Your specialization grants you features as shown on the 5th-Level Tactical Doctrines Features table.
 
-## **5th-level Order Features**
+## 5th-level Order Features
 
 | Doctrine | Feature       |
 | -------- | ------------- |

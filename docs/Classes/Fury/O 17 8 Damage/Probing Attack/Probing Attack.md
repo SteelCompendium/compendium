@@ -28,4 +28,4 @@ keyword_list:
 - *12-16:* 7 + M **damage;** A \< average\*\*, prone\*\*
 - *17+:* 9 + M **damage;** A \< strong\*\*, prone\*\*
 
-[GROWING RAGE](./Growing%20Rage.md)
+[GROWING RAGE](./Growing%20Rage/Growing%20Rage.md)

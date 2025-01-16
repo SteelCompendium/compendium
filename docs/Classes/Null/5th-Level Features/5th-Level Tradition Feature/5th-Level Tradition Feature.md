@@ -12,7 +12,7 @@ kind: 5th-level features
 
 As a 5th-level null, you gain the following features based on your tradition.
 
-## **5th-level Tradition Features**
+## 5th-level Tradition Features
 
 | Doctrine      | Feature            |
 | ------------- | ------------------ |

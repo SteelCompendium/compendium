@@ -12,7 +12,7 @@ kind: 2nd-level features
 
 Your tactical doctrine grants you a feature as shown on the 2nd-Level Doctrine Features table.
 
-## **2nd-level Doctrine Features**
+## 2nd-level Doctrine Features
 
 | Doctrine   | Feature              |
 | ---------- | -------------------- |

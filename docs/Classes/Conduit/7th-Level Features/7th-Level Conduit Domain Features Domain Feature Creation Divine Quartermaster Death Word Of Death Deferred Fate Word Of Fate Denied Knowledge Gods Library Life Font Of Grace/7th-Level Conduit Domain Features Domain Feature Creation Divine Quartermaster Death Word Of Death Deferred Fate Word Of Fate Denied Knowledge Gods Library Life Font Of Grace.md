@@ -1,14 +1,14 @@
 ---
-title_raw: "**7th-level Conduit Domain Features Domain Feature** Creation Divine Quartermaster Death Word Of Death Deferred Fate Word Of Fate Denied Knowledge Gods' Library Life Font Of Grace"
-title: "**7th-Level Conduit Domain Features Domain Feature** Creation Divine Quartermaster Death Word Of Death Deferred Fate Word Of Fate Denied Knowledge Gods' Library Life Font Of Grace"
-name_raw: "**7th-level Conduit Domain Features Domain Feature** Creation Divine Quartermaster Death Word Of Death Deferred Fate Word Of Fate Denied Knowledge Gods' Library Life Font Of Grace"
-name: "**7th-Level Conduit Domain Features Domain Feature** Creation Divine Quartermaster Death Word Of Death Deferred Fate Word Of Fate Denied Knowledge Gods' Library Life Font Of Grace"
+title_raw: 7th-level Conduit Domain Features Domain Feature Creation Divine Quartermaster Death Word Of Death Deferred Fate Word Of Fate Denied Knowledge Gods' Library Life Font Of Grace
+title: 7th-Level Conduit Domain Features Domain Feature Creation Divine Quartermaster Death Word Of Death Deferred Fate Word Of Fate Denied Knowledge Gods' Library Life Font Of Grace
+name_raw: 7th-level Conduit Domain Features Domain Feature Creation Divine Quartermaster Death Word Of Death Deferred Fate Word Of Fate Denied Knowledge Gods' Library Life Font Of Grace
+name: 7th-Level Conduit Domain Features Domain Feature Creation Divine Quartermaster Death Word Of Death Deferred Fate Word Of Fate Denied Knowledge Gods' Library Life Font Of Grace
 type: classes
 subtype: conduit
 kind: 7th-level features
 ---
 
-# **7th-level Conduit Domain Features Domain Feature** Creation Divine Quartermaster Death Word Of Death Deferred Fate Word Of Fate Denied Knowledge Gods' Library Life Font Of Grace
+# 7th-level Conduit Domain Features Domain Feature Creation Divine Quartermaster Death Word Of Death Deferred Fate Word Of Fate Denied Knowledge Gods' Library Life Font Of Grace
 
 |            | Deferred              |
 | ---------- | --------------------- |

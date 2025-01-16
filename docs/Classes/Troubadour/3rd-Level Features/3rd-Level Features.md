@@ -12,9 +12,7 @@ kind: 3rd-level features
 
 As a 3rd-level troubadour, you gain the following features.
 
-[3RD-LEVEL CLASS ACT FEATURE](./3rd-Level%20Class%20Act%20Feature.md)
-
-[3RD-LEVEL CLASS ACT FEATURES](./3rd-Level%20Class%20Act%20Features/3rd-Level%20Class%20Act%20Features.md)
+[3RD-LEVEL CLASS ACT FEATURE](./3rd-Level%20Class%20Act%20Feature/3rd-Level%20Class%20Act%20Feature.md)
 
 [FIRE UP THE NIGHT](./Fire%20Up%20The%20Night.md)
 

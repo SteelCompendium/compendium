@@ -1,14 +1,14 @@
 ---
-title_raw: '**censor Advancement**'
-title: '**censor Advancement**'
-name_raw: '**censor Advancement**'
-name: '**censor Advancement**'
+title_raw: Censor Advancement
+title: Censor Advancement
+name_raw: Censor Advancement
+name: Censor Advancement
 type: classes
 subtype: censor
 kind: basics
 ---
 
-# **censor Advancement**
+# Censor Advancement
 
 | Level | Features                    | Abilities   | Order     |
 | ----- | --------------------------- | ----------- | --------- |

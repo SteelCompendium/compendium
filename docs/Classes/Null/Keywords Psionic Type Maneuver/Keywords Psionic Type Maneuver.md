@@ -1,15 +1,15 @@
 ---
-title_raw: '**keywords:** Psionic **type:** Maneuver'
-title: '**keywords:** Psionic **type:** Maneuver'
-name_raw: '**keywords:** Psionic **type:** Maneuver'
-name: '**keywords:** Psionic **type:** Maneuver'
+title_raw: 'Keywords:\*\* Psionic \*\*type: Maneuver'
+title: 'Keywords:\*\* Psionic \*\*type: Maneuver'
+name_raw: 'Keywords:\*\* Psionic \*\*type: Maneuver'
+name: 'Keywords:\*\* Psionic \*\*type: Maneuver'
 type: classes
 subtype: 'null'
 kind: keywords psionic type maneuver
 distance: Self **Target:** Self
 ---
 
-# **keywords:** Psionic **type:** Maneuver
+# Keywords:\*\* Psionic \*\*type: Maneuver
 
 |                                     |             |
 | :---------------------------------- | :---------- |

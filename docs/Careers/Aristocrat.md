@@ -23,7 +23,7 @@ You gain the following career benefits:
 - **Wealth:** +1
 - **Perk:** One lore perk (*Quick Build:* I've Read About this Place)
 
-## **aristocrat Inciting Incidents**
+## Aristocrat Inciting Incidents
 
 | d6  | Incident                                                   |
 | --- | ---------------------------------------------------------- |

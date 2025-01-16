@@ -1,14 +1,14 @@
 ---
-title_raw: '**earthwalk**'
-title: '**earthwalk**'
-name_raw: '**earthwalk**'
-name: '**earthwalk**'
+title_raw: Earthwalk
+title: Earthwalk
+name_raw: Earthwalk
+name: Earthwalk
 type: classes
 subtype: elementalist
 kind: 8th-level features
 ---
 
-# **earthwalk**
+# Earthwalk
 
 Difficult terrain composed of earth and stone doesn't cost the source extra movement.
 

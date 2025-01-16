@@ -1,15 +1,15 @@
 ---
-title_raw: '**type:** Action'
-title: '**type:** Action'
-name_raw: '**type:** Action'
-name: '**type:** Action'
+title_raw: 'Type: Action'
+title: 'Type: Action'
+name_raw: 'Type: Action'
+name: 'Type: Action'
 type: classes
 subtype: talent
 kind: type action
 distance: Ranged 10 **Target:** One creature
 ---
 
-# **type:** Action
+# Type: Action
 
 |                                                  |             |
 | :----------------------------------------------- | :---------- |

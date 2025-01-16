@@ -38,13 +38,13 @@ The null is an unarmed psionic warrior who dampens and absorbs the effects of ma
 
 **Starting Stamina at 1st Level:** 21
 
-### **stamina Gained At 2nd And Higher Levels:** 9
+### Stamina Gained At 2nd And Higher Levels: 9
 
-### **recoveries:** 8
+### Recoveries: 8
 
 **Skills:** Psionics, plus choose any two skills from the interpersonal or lore groups. (*Quick Build:* Psionics, Read Person, Timescape)
 
-### **null Advancement**
+### Null Advancement
 
 | Level | Features                | Abilities      | Tradition |
 | ----- | ----------------------- | -------------- | --------- |
@@ -171,7 +171,7 @@ You can use the Disengage move action as a free maneuver when you use Inertial S
 
 As your discipline grows, your psionic mastery of your body intensifies, granting benefits from the Chronokinetic Mastery table.
 
-### **chronokinetic Mastery**
+##### Chronokinetic Mastery
 
 | Discipline | Benefit                                              |
 | ---------- | ---------------------------------------------------- |
@@ -197,7 +197,7 @@ You can use the Grab maneuver as a free triggered action whenever you use Inerti
 
 As your discipline grows, your psionic mastery of your body intensifies, granting benefits from the Cryokinetic Mastery table.
 
-### **cryokinetic Mastery**
+##### Cryokinetic Mastery
 
 | Discipline | Benefit                                              |
 | ---------- | ---------------------------------------------------- |
@@ -224,7 +224,7 @@ You can use the Knockback maneuver as a free triggered action whenever you use I
 
 As your discipline grows, your psionic mastery of your body intensifies, granting benefits from the Metakinetic Mastery table.
 
-### **metakinetic Mastery**
+##### Metakinetic Mastery
 
 - **Discipline Benefit** 2 You add your Intuition score to the distance you
 
@@ -478,7 +478,7 @@ You gain an exploration, interpersonal, or intrigue perk of your choice. See Per
 
 Your chosen null tradition grants you a feature as shown on the 2nd-Level Tradition Features table.
 
-### **2nd-level Tradition Features**
+#### 2nd-level Tradition Features
 
 | Tradition     | Feature               |
 | ------------- | --------------------- |
@@ -544,7 +544,7 @@ ENTROPIC FIELD (5 DISCIPLINE)
 
 *You absorb ambient heat, coating the ground in frost and precipitating snow from the air*
 
-## **keywords:** Psionic **type:** Maneuver
+## Keywords:\*\* Psionic \*\*type: Maneuver
 
 **Effect:** Until the start of your next turn, the area of your Null Field ability increases by 1. While the area is enlarged this way, you and your allies benefit from concealment while in the area. When you end your turn, each enemy in the aura takes cold damage equal to your Intuition score.
 
@@ -648,7 +648,7 @@ As a 5th-level null, you gain the following features.
 
 As a 5th-level null, you gain the following features based on your tradition.
 
-### **5th-level Tradition Features**
+#### 5th-level Tradition Features
 
 | Doctrine      | Feature            |
 | ------------- | ------------------ |
@@ -860,7 +860,7 @@ As an 8th-level null, you gain the following features.
 
 As a 8th-level null, you gain the following features based on your tradition.
 
-### **5th-level Tradition Features**
+#### 5th-level Tradition Features
 
 | Doctrine      | Feature            |
 | ------------- | ------------------ |

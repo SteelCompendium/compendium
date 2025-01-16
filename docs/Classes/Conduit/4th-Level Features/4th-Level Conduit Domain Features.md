@@ -1,14 +1,14 @@
 ---
-title_raw: '**4th-level Conduit Domain Features**'
-title: '**4th-Level Conduit Domain Features**'
-name_raw: '**4th-level Conduit Domain Features**'
-name: '**4th-Level Conduit Domain Features**'
+title_raw: 4th-level Conduit Domain Features
+title: 4th-Level Conduit Domain Features
+name_raw: 4th-level Conduit Domain Features
+name: 4th-Level Conduit Domain Features
 type: classes
 subtype: conduit
 kind: 4th-level features
 ---
 
-# **4th-level Conduit Domain Features**
+# 4th-level Conduit Domain Features
 
 | Domain     | Feature                     |
 | ---------- | --------------------------- |

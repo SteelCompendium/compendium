@@ -14,8 +14,6 @@ As a 2nd-level censor, you gain the following features.
 
 [PERK](./Perk.md)
 
-[2ND-LEVEL ORDER FEATURES](./2nd-Level%20Order%20Features.md)
-
 [2ND-LEVEL ORDER FEATURES](./2nd-Level%20Order%20Features/2nd-Level%20Order%20Features.md)
 
 [SAINT'S VIGILANCE](./Saints%20Vigilance/Saints%20Vigilance.md)
@@ -24,7 +22,7 @@ As a 2nd-level censor, you gain the following features.
 
 [IT IS JUSTICE YOU FEAR (5 WRATH)](./It%20Is%20Justice%20You%20Fear.md)
 
-[Distance: Ranged 10 Target: One creature](./Distance%20Ranged%2010%20Target%20One%20Creature.md)
+[Distance:\*\* Ranged 10 \*\*Target: One creature](./Distance%20Ranged%2010%20Target%20One%20Creature.md)
 
 [REVELATOR (5 WRATH)](./Revelator/Revelator.md)
 

@@ -16,9 +16,7 @@ As a 6th-level conduit, you gain the following features.
 
 [PERK](./Perk.md)
 
-[6TH-LEVEL DOMAIN ABILITIES](./6th-Level%20Domain%20Abilities.md)
-
-[6TH-LEVEL CONDUIT DOMAIN ABILITIES](./6th-Level%20Conduit%20Domain%20Abilities.md)
+[6TH-LEVEL DOMAIN ABILITIES](./6th-Level%20Domain%20Abilities/6th-Level%20Domain%20Abilities.md)
 
 [GOD'S MACHINE (9 PIETY)](./Gods%20Machine.md)
 

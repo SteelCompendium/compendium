@@ -10,4 +10,6 @@ kind: 3rd-level features
 
 # Immovable Object
 
-You add your level to your size when resisting effects against you, calculating how much you can lift, and for the purposes of forced movement. You add your Might score to your Stability.
+You add your level to your effective size for the purpose of interacting with creatures and objects, including determining whether you can lift an object, are affected by forced movement, and so forth. This has no effect on your ability to be grabbed.
+
+Additionally, you gain a bonus to stability equal to your Might score.

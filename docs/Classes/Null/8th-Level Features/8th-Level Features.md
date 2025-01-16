@@ -12,9 +12,7 @@ kind: 8th-level features
 
 As an 8th-level null, you gain the following features.
 
-[8TH-LEVEL TRADITION FEATURE](./8th-Level%20Tradition%20Feature.md)
-
-[5TH-LEVEL TRADITION FEATURES](./5th-Level%20Tradition%20Features/5th-Level%20Tradition%20Features.md)
+[8TH-LEVEL TRADITION FEATURE](./8th-Level%20Tradition%20Feature/8th-Level%20Tradition%20Feature.md)
 
 [PERK](./Perk.md)
 

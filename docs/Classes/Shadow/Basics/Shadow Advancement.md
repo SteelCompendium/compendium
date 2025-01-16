@@ -1,14 +1,14 @@
 ---
-title_raw: '**shadow Advancement**'
-title: '**shadow Advancement**'
-name_raw: '**shadow Advancement**'
-name: '**shadow Advancement**'
+title_raw: Shadow Advancement
+title: Shadow Advancement
+name_raw: Shadow Advancement
+name: Shadow Advancement
 type: classes
 subtype: shadow
 kind: basics
 ---
 
-# **shadow Advancement**
+# Shadow Advancement
 
 | Level | Features                   | Abilities  | College   |
 | ----- | -------------------------- | ---------- | --------- |

@@ -12,9 +12,7 @@ kind: 3rd-level features
 
 As a 3rd-level elementalist, you gain the following features.
 
-[3RD-LEVEL SPECIALIZATION FEATURE](./3rd-Level%20Specialization%20Feature.md)
-
-[3RD-LEVEL SPECIALIZATION FEATURES](./3rd-Level%20Specialization%20Features/3rd-Level%20Specialization%20Features.md)
+[3RD-LEVEL SPECIALIZATION FEATURE](./3rd-Level%20Specialization%20Feature/3rd-Level%20Specialization%20Feature.md)
 
 [7-ESSENCE ABILITY](./7-Essence%20Ability.md)
 

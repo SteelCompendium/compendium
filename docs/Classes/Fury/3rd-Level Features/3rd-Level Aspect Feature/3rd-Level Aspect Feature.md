@@ -10,12 +10,14 @@ kind: 3rd-level features
 
 # 3rd-level Aspect Feature
 
-Your connection to the Primordial Chaos grows, expressing itself in your body and nature. Your aspect grants you a feature as shown on the 3rd-Level Primordial Aspect Features table.
+Your primordial aspect grants you a feature as shown on the 3rd-Level Aspect Features table.
 
-[3RD-LEVEL PRIMORDIAL ASPECT FEATURES](./3rd-Level%20Primordial%20Aspect%20Features.md)
+## 3rd-level Aspect Features
+
+| Aspect     | Feature                 |
+| ---------- | ----------------------- |
+| Berserker  | Immovable Object        |
+| Reaver     | See Through Your Tricks |
+| Stormwight | Nature's Knight         |
 
 [IMMOVABLE OBJECT](./Immovable%20Object.md)
-
-[NATURE'S KNIGHT](./Natures%20Knight.md)
-
-[SEE THROUGH YOUR TRICKS](./See%20Through%20Your%20Tricks.md)

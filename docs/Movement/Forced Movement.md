@@ -40,7 +40,7 @@ If a creature is killed by damage from an ability or effect that force moves the
 
 You can force move another creature into yourself with a pull or a slide.
 
-## **tracking Object Forced-movement Damage**
+## Tracking Object Forced-movement Damage
 
 At the Director's discretion, mundane objects that are force moved into creatures or other objects take damage as if they were creatures. Sturdy objects can take damage as follows:
 

@@ -30,4 +30,4 @@ keyword_list:
 
 **Effect:** You can shift up to the same number of squares that you pushed the target.
 
-[GROWING RAGE](./Growing%20Rage.md)
+[GROWING RAGE](./Growing%20Rage/Growing%20Rage.md)

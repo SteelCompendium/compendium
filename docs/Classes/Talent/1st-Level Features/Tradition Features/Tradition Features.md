@@ -10,18 +10,28 @@ kind: 1st-level features
 
 # Tradition Features
 
-Your tradition grants you features as shown on the 1st-level Talent Tradition Features table.
+Your talent tradition grants you features as shown on the 1st-Level Tradition Features table.
 
-[1ST-LEVEL TALENT TRADITION FEATURES](./1st-Level%20Talent%20Tradition%20Features.md)
+[1ST-LEVEL TRADITION FEATURES](./1st-Level%20Tradition%20Features.md)
 
 [ACCELERATE](./Accelerate.md)
 
 [AGAIN](./Again.md)
 
+[AGAIN](./Again.md)
+
+[FEEDBACK LOOP](./Feedback%20Loop.md)
+
 [FEEDBACK LOOP](./Feedback%20Loop.md)
 
 [MINOR TELEKINESIS](./Minor%20Telekinesis.md)
 
+[MINOR TELEKINESIS](./Minor%20Telekinesis.md)
+
 [REMOTE ASSISTANCE](./Remote%20Assistance.md)
+
+[REMOTE ASSISTANCE](./Remote%20Assistance.md)
+
+[REPEL](./Repel.md)
 
 [REPEL](./Repel.md)

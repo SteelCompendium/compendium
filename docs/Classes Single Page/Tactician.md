@@ -37,13 +37,13 @@ As a tactician, you have abilities that heal your allies and grant them increase
 
 **Starting Stamina at 1st Level:** 21
 
-### **stamina Gained At 2nd And Higher Levels:** 12
+### Stamina Gained At 2nd And Higher Levels: 12
 
-### **recoveries:** 10
+### Recoveries: 10
 
 **Skills:** Lead, plus choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy)
 
-### **tactician Advancement**
+### Tactician Advancement
 
 | Level | Features               | Abilities  | Doctrine  |
 | ----- | ---------------------- | ---------- | --------- |
@@ -120,7 +120,7 @@ If you use an ability outside of combat that lets you spend unlimited focus on i
 
 Your chosen tactical doctrine grants you a feature as shown on the 1st-Level Doctrine Features table.
 
-### **1st-level Doctrine Features**
+#### 1st-level Doctrine Features
 
 | Doctrine   | Feature             |
 | ---------- | ------------------- |
@@ -158,7 +158,7 @@ You can make this test only once for any encounter or negotiation.
 
 Your tactical doctrine grants you a triggered action as shown on the Doctrine Triggered Actions table.
 
-### **doctrine Triggered Actions**
+#### Doctrine Triggered Actions
 
 | Doctrine   | Triggered Action |
 | ---------- | ---------------- |
@@ -366,7 +366,7 @@ As a 2nd-level tactician, you gain the following features.
 
 Your tactical doctrine grants you a feature as shown on the 2nd-Level Doctrine Features table.
 
-### **2nd-level Doctrine Features**
+#### 2nd-level Doctrine Features
 
 | Doctrine   | Feature              |
 | ---------- | -------------------- |
@@ -548,7 +548,7 @@ As a 5th-level tactician, you gain the following features.
 
 Your specialization grants you features as shown on the 5nd-Level Tactical Doctrines Features table.
 
-### **5th-level Doctrine Features**
+#### 5th-level Doctrine Features
 
 | Doctrine   | Feature                        |
 | ---------- | ------------------------------ |
@@ -735,7 +735,7 @@ All of your characteristics increase by 1, to a maximum score of 4.
 
 Your specialization grants you features as shown on the 7th-Level Tactical Doctrines Features table.
 
-### **7th-level Doctrine Features**
+#### 7th-level Doctrine Features
 
 | Doctrine   | Feature            |
 | ---------- | ------------------ |
@@ -775,7 +775,7 @@ As a 8th-level tactician, you gain the following features.
 
 Your specialization grants you features as shown on the 8th-Level Tactical Doctrines Features table.
 
-### **8th-level Doctrine Features**
+#### 8th-level Doctrine Features
 
 | Doctrine   | Feature                            |
 | ---------- | ---------------------------------- |
@@ -897,7 +897,7 @@ Choose one of the following abilities.
 
 *Nothing will stop you from reaching your foe.*
 
-### **effect:** Mark The Target.
+### Effect: Mark The Target.
 
 **Power Roll + Might:**
 

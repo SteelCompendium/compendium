@@ -1,14 +1,14 @@
 ---
-title_raw: '**4th-level Censor Domain Features**'
-title: '**4th-Level Censor Domain Features**'
-name_raw: '**4th-level Censor Domain Features**'
-name: '**4th-Level Censor Domain Features**'
+title_raw: 4th-level Censor Domain Features
+title: 4th-Level Censor Domain Features
+name_raw: 4th-level Censor Domain Features
+name: 4th-Level Censor Domain Features
 type: classes
 subtype: censor
 kind: 4th-level features
 ---
 
-# **4th-level Censor Domain Features**
+# 4th-level Censor Domain Features
 
 | Domain    | Feature                     |
 | --------- | --------------------------- |

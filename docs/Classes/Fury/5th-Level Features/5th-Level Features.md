@@ -12,9 +12,7 @@ kind: 5th-level features
 
 As a 5th-level fury, you gain the following features.
 
-[5TH-LEVEL ASPECT FEATURE](./5th-Level%20Aspect%20Feature.md)
-
-[5TH-LEVEL PRIMORDIAL ASPECT FEATURES](./5th-Level%20Primordial%20Aspect%20Features/5th-Level%20Primordial%20Aspect%20Features.md)
+[5TH-LEVEL ASPECT FEATURE](./5th-Level%20Aspect%20Feature/5th-Level%20Aspect%20Feature.md)
 
 [9-RAGE ABILITIES](./9-Rage%20Abilities.md)
 

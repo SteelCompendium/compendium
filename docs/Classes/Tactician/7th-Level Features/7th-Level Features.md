@@ -14,9 +14,7 @@ As a 7th-level tactician, you gain the following features.
 
 [CHARACTERISTIC INCREASE](./Characteristic%20Increase.md)
 
-[7TH-LEVEL DOCTRINE FEATURE](./7th-Level%20Doctrine%20Feature.md)
-
-[7TH-LEVEL DOCTRINE FEATURES](./7th-Level%20Doctrine%20Features/7th-Level%20Doctrine%20Features.md)
+[7TH-LEVEL DOCTRINE FEATURE](./7th-Level%20Doctrine%20Feature/7th-Level%20Doctrine%20Feature.md)
 
 [HEIGHTENED FOCUS](./Heightened%20Focus.md)
 

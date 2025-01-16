@@ -14,11 +14,7 @@ As a 2nd-level elementalist, you gain the following features.
 
 [PERK](./Perk.md)
 
-[2ND-LEVEL SPECIALIZATION FEATURE](./2nd-Level%20Specialization%20Feature.md)
-
-[2ND-LEVEL SPECIALIZATION FEATURES](./2nd-Level%20Specialization%20Features/2nd-Level%20Specialization%20Features.md)
-
-[GREEN ANIMAL FORMS](./Green%20Animal%20Forms.md)
+[2ND-LEVEL SPECIALIZATION FEATURE](./2nd-Level%20Specialization%20Feature/2nd-Level%20Specialization%20Feature.md)
 
 [NEW 5-ESSENCE ABILITY](./New%205-Essence%20Ability.md)
 

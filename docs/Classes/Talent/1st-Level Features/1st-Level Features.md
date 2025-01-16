@@ -22,9 +22,7 @@ As a talent, you gain the following features.
 
 [TELEPATHIC SPEECH](./Telepathic%20Speech.md)
 
-[TRADITION FEATURES](./Tradition%20Features.md)
-
-[1ST-LEVEL TRADITION FEATURES](./1st-Level%20Tradition%20Features/1st-Level%20Tradition%20Features.md)
+[TRADITION FEATURES](./Tradition%20Features/Tradition%20Features.md)
 
 [PSIONIC AUGMENTATION](./Psionic%20Augmentation/Psionic%20Augmentation.md)
 
@@ -32,7 +30,7 @@ As a talent, you gain the following features.
 
 [TALENT ABILITIES](./Talent%20Abilities/Talent%20Abilities.md)
 
-[Distance: Ranged 10 Target: One creature](./Distance%20Ranged%2010%20Target%20One%20Creature.md)
+[Distance:\*\* Ranged 10 \*\*Target: One creature](./Distance%20Ranged%2010%20Target%20One%20Creature.md)
 
 [KINETIC GRIP](./Kinetic%20Grip.md)
 
@@ -50,9 +48,9 @@ As a talent, you gain the following features.
 
 [Type: Action](./Type%20Action.md)
 
-[Distance: Ranged 10 Target: One ally or enemy](./Distance%20Ranged%2010%20Target%20One%20Ally%20Or%20Enemy.md)
+[Distance:\*\* Ranged 10 \*\*Target: One ally or enemy](./Distance%20Ranged%2010%20Target%20One%20Ally%20Or%20Enemy.md)
 
-[Type: Action Distance: Ranged 10 Target: One creature](./Type%20Action%20Distance%20Ranged%2010%20Target%20One%20Creature.md)
+[Type:\*\* Action Distance: Ranged 10 \*\*Target: One creature](./Type%20Action%20Distance%20Ranged%2010%20Target%20One%20Creature.md)
 
 [PRECOGNITION (3 CLARITY)](./Precognition.md)
 

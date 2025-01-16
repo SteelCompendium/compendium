@@ -41,7 +41,7 @@ And beyond the mundane, there are insurmountable dangers that cause many a hero 
 
 **Skills:** Read Person, plus choose two skills from the interpersonal group and one skill from the intrigue or lore groups. (*Quick Build:* Read Person, Brag, Rumors)
 
-### **troubadour Advancement**
+### Troubadour Advancement
 
 | Level | Features                     | Abilities   | Class Act |
 | ----- | ---------------------------- | ----------- | --------- |
@@ -153,7 +153,7 @@ CHOREOGRAPHY
 
 Your troubadour class act grants you features as shown on the 1st-Level Class Act Features table.
 
-### **1st-level Class Act Features**
+#### 1st-level Class Act Features
 
 | Class Act | Feature                        |
 | --------- | ------------------------------ |
@@ -189,7 +189,7 @@ You gain the following ability.
 
 *It doesn't need to make sense. Just say it with emotionality.*
 
-### **effect:** Choose One Of The Following Effects:
+### Effect: Choose One Of The Following Effects:
 
 - You orate a rousing tale of victory. One ally within distance gains an edge on the next power roll they make before the start of your next turn.
 - You weave a tale of high stakes heroics. One ally within distance gains a surge.
@@ -247,7 +247,7 @@ You gain the following routine abilities, each of which is usable with your Curt
 
 Your troubadour class act grants you a triggered action as shown on the Class Act Triggered Actions table.
 
-### **class Act Triggered Actions**
+#### Class Act Triggered Actions
 
 | Class Act | Triggered Action       |
 | --------- | ---------------------- |
@@ -539,7 +539,7 @@ As a 3rd-level troubadour, you gain the following features.
 
 Your troubadour class act grants you a feature as shown on the 3rd-Level Class Act Features table.
 
-### **3rd-level Class Act Features**
+#### 3rd-level Class Act Features
 
 | Class Act | Feature                  |
 | --------- | ------------------------ |
@@ -890,7 +890,7 @@ As an 8th-level troubadour, you gain the following features.
 
 You've put your mark on the artform for all class acts to follow. You gain a new feature as shown on the 8th-Level Class Act Features table.
 
-### **8th-level Class Act Features**
+#### 8th-level Class Act Features
 
 | Class Act | Feature         |
 | --------- | --------------- |

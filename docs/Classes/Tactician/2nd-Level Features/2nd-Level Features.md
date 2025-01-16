@@ -12,9 +12,7 @@ kind: 2nd-level features
 
 As a 2nd-level tactician, you gain the following features.
 
-[2ND-LEVEL DOCTRINE FEATURE](./2nd-Level%20Doctrine%20Feature.md)
-
-[2ND-LEVEL DOCTRINE FEATURES](./2nd-Level%20Doctrine%20Features/2nd-Level%20Doctrine%20Features.md)
+[2ND-LEVEL DOCTRINE FEATURE](./2nd-Level%20Doctrine%20Feature/2nd-Level%20Doctrine%20Feature.md)
 
 [PERK](./Perk.md)
 

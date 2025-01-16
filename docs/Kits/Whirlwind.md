@@ -43,7 +43,7 @@ You wear no armor and wield a whip.
 - *12-16:* 7 **+ M or A damage; vertical pull 2**
 - *17+:* 10 **+ M or A damage; vertical pull 3**
 
-## **martial Kits**
+### Martial Kits
 
 | Kit              | Armor          | Weapon             | Stamina     | Speed | Stability | Melee    | Ranged   | Ranged   | Melee    | Disengage |
 | ---------------- | -------------- | ------------------ | ----------- | ----- | --------- | -------- | -------- | -------- | -------- | --------- |
