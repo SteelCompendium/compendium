@@ -22,8 +22,6 @@ kind: 8th-level features
 
 [LEVITATION FIELD](./Levitation%20Field.md)
 
-[LEVITATION FIELD](./Levitation%20Field.md)
-
 [MINDLINK](./Mindlink.md)
 
 [STASIS SHIELD](./Stasis%20Shield.md)

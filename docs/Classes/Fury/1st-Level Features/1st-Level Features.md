@@ -22,8 +22,6 @@ As a fury, you gain the following features.
 
 [1ST-LEVEL ASPECT FEATURES](./1st-Level%20Aspect%20Features/1st-Level%20Aspect%20Features.md)
 
-[KIT](./Kit/Kit.md)
-
 [PRIMORDIAL CUNNING GROWING RAGE](./Primordial%20Cunning%20Growing%20Rage/Primordial%20Cunning%20Growing%20Rage.md)
 
 [PRIMORDIAL STRENGTH GROWING RAGE](./Primordial%20Strength%20Growing%20Rage/Primordial%20Strength%20Growing%20Rage.md)

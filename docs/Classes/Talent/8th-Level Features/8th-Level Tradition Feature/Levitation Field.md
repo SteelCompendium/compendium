@@ -14,6 +14,10 @@ keyword_list:
 
 # Levitation Field
 
+You have the following ability.
+
+## Levitation Field
+
 *You manipulate the air around your allies so that they can move as freely through the sky as you can.*
 
 |                                                                                              |             |

@@ -16,11 +16,11 @@ distance: Melee 1 **Target:** 1 creature
 
 The Mountain kit does exactly what it says on the tin. You don heavy armor and a heavy weapon to stand strong against your foes, quickly demolishing them when it's your turn to attack.
 
-### Equipment
+## Equipment
 
 You wear heavy armor and wield a heavy weapon.
 
-### Kit Bonuses
+## Kit Bonuses
 
 - **Stamina Bonus:** +9 per echelon
 - **Stability Bonus:** +2

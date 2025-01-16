@@ -136,7 +136,7 @@ Your chosen primordial aspect grants you features as shown on the 1st-Level Aspe
 
 When you select a kit, you can instead select a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including effects tied to your Growing Rage feature.
 
-### Kit
+#### Kit
 
 You can use and gain the benefits of a kit. See the Kits chapter for more information. (*Quick Build:* Panther)
 
@@ -1067,7 +1067,7 @@ You wear no armor and wield only your unarmed strikes--which become devastating 
 
 These bonuses apply in your true form, your animal form, and your hybrid form if applicable.
 
-### Growing Rage
+#### Growing Rage
 
 Each stormwight kit grants a specific set of benefits for your fury Growing Rage feature. You have some of the noted benefits all the time, but gain other benefits only while in the animal form or hybrid form granted by your stormwight kit, as noted on the Growing Rage table for each stormwight kit.
 
@@ -1111,7 +1111,7 @@ Your primordial damage type is cold.
 - *12-16:* 5 + M **damage;** M \< average\*\*, grabbed\*\*
 - *17+:* 11 + M **damage;** M \< strong\*\*, grabbed\*\*
 
-### Growing Rage
+#### Growing Rage
 
 As your rage grows, you gain benefits as noted on the Boren Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -1180,7 +1180,7 @@ Your primordial damage type is fire.
 
 **Effect:** You can shift up to 2 squares before or after the making the power roll.
 
-### Growing Rage
+#### Growing Rage
 
 As your rage grows, you gain benefits as noted on the Corven Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -1245,7 +1245,7 @@ Your primordial damage type is corruption.
 
 **Effect:** You can shift up to the same number of squares that you pushed the target.
 
-### Growing Rage
+#### Growing Rage
 
 As your rage grows, you gain benefits as noted on the Raden Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -1310,7 +1310,7 @@ Your primordial damage type is lightning.
 - *12-16:* 7 + M **damage;** A \< average\*\*, prone\*\*
 - *17+:* 9 + M **damage;** A \< strong\*\*, prone\*\*
 
-### Growing Rage
+#### Growing Rage
 
 As your rage grows, you gain benefits as noted on the Vuken Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 

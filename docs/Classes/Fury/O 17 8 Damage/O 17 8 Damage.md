@@ -18,16 +18,12 @@ kind: o 17 8 damage
 
 [RADEN](./Raden/Raden.md)
 
-[DRIVING POUNCE](./Driving%20Pounce.md)
-
-[GROWING RAGE](./Growing%20Rage.md)
+[DRIVING POUNCE](./Driving%20Pounce/Driving%20Pounce.md)
 
 [RADEN GROWING RAGE](./Raden%20Growing%20Rage.md)
 
 [VUKEN](./Vuken/Vuken.md)
 
-[PROBING ATTACK](./Probing%20Attack.md)
-
-[GROWING RAGE](./Growing%20Rage.md)
+[PROBING ATTACK](./Probing%20Attack/Probing%20Attack.md)
 
 [VUKEN GROWING RAGE](./Vuken%20Growing%20Rage.md)

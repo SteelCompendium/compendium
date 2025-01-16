@@ -10,4 +10,4 @@ kind: o 17 8 damage
 
 # Growing Rage
 
-As your rage grows, you gain benefits as noted on the Vuken Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
+As your rage grows, you gain benefits as noted on the Corven Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.

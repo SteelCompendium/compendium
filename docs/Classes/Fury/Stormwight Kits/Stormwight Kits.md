@@ -16,13 +16,9 @@ changing them out during a Respite as with any other kit. (See Kits.)
 
 [KIT FEATURES](./Kit%20Features/Kit%20Features.md)
 
-[GROWING RAGE](./Growing%20Rage.md)
-
 [BOREN](./Boren/Boren.md)
 
-[BEAR CLAWS](./Bear%20Claws.md)
-
-[GROWING RAGE](./Growing%20Rage.md)
+[BEAR CLAWS](./Bear%20Claws/Bear%20Claws.md)
 
 [BOREN GROWING RAGE](./Boren%20Growing%20Rage.md)
 

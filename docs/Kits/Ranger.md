@@ -10,11 +10,11 @@ type: kits
 
 The Ranger kit outfits you with light armor and several weapons, letting you easily switch between using a melee weapon and a bow. This kit provides a good balance of bonuses to Stamina, speed, damage, and range to create a hero who is a jack-of-all-trades.
 
-### Equipment
+## Equipment
 
 You wear medium armor and wield a medium weapon and a bow.
 
-### Kit Bonuses
+## Kit Bonuses
 
 - **Stamina Bonus:** +6 per echelon
 - **Speed Bonus:** +1

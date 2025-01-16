@@ -21,3 +21,5 @@ All stormwight kits have the following features in common.
 [EQUIPMENT](./Equipment.md)
 
 [KIT BONUSES](./Kit%20Bonuses.md)
+
+[GROWING RAGE](./Growing%20Rage.md)

@@ -3738,7 +3738,7 @@ You gain the following career benefits:
 |     | the life of a hero to gain the power and influence you     |
 |     | need to destroy the syndicate once and for all.            |
 
-#### LANGUAGES
+## LANGUAGES
 
 When you create your hero, you'll be able to select the languages they know. The following section details the languages of Orden, the baseline world of the game, but the Director can use these languages in their own campaign world or can swap this list with their own list of languages.
 
@@ -8517,7 +8517,7 @@ Your chosen primordial aspect grants you features as shown on the 1st-Level Aspe
 
 When you select a kit, you can instead select a stormwight kit (see Stormwight Kits). Your stormwight kit grants you a number of benefits, including effects tied to your Growing Rage feature.
 
-#### KIT
+##### KIT
 
 You can use and gain the benefits of a kit. See the Kits chapter for more information. (*Quick Build:* Panther)
 
@@ -9538,7 +9538,7 @@ You wear no armor and wield only your unarmed strikes--which become devastating 
 
 These bonuses apply in your true form, your animal form, and your hybrid form if applicable.
 
-#### GROWING RAGE
+##### GROWING RAGE
 
 Each stormwight kit grants a specific set of benefits for your fury Growing Rage feature. You have some of the noted benefits all the time, but gain other benefits only while in the animal form or hybrid form granted by your stormwight kit, as noted on the Growing Rage table for each stormwight kit.
 
@@ -9582,7 +9582,7 @@ Your primordial damage type is cold.
 - *12-16:* 5 + M **damage;** M \< average\*\*, grabbed\*\*
 - *17+:* 11 + M **damage;** M \< strong\*\*, grabbed\*\*
 
-#### GROWING RAGE
+##### GROWING RAGE
 
 As your rage grows, you gain benefits as noted on the Boren Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -9653,7 +9653,7 @@ Your primordial damage type is fire.
 
 **Effect:** You can shift up to 2 squares before or after the making the power roll.
 
-#### GROWING RAGE
+##### GROWING RAGE
 
 As your rage grows, you gain benefits as noted on the Corven Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -9720,7 +9720,7 @@ Your primordial damage type is corruption.
 
 **Effect:** You can shift up to the same number of squares that you pushed the target.
 
-#### GROWING RAGE
+##### GROWING RAGE
 
 As your rage grows, you gain benefits as noted on the Raden Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -9787,7 +9787,7 @@ Your primordial damage type is lightning.
 - *12-16:* 7 + M **damage;** A \< average\*\*, prone\*\*
 - *17+:* 9 + M **damage;** A \< strong\*\*, prone\*\*
 
-#### GROWING RAGE
+##### GROWING RAGE
 
 As your rage grows, you gain benefits as noted on the Vuken Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
@@ -14171,7 +14171,7 @@ Your mind can carry your body through tough times. You do not need to spend addi
 
 You have the following ability.
 
-##### LEVITATION FIELD
+###### LEVITATION FIELD
 
 *You manipulate the air around your allies so that they can move as freely through the sky as you can.*
 
@@ -15757,7 +15757,7 @@ A distance bonus doesn't increase the size of any ability's area of effect.
 
 Your kit's disengage bonus increases the number of squares you can shift when you take the Disengage move action. You can shift an additional number of squares equal to the bonus when you use Disengage.
 
-##### KIT SIGNATURE ABILITY
+## KIT SIGNATURE ABILITY
 
 Each kit grants you a signature ability, **which already includes the kit's bonuses**.
 
@@ -15781,18 +15781,18 @@ This section details each kit, whose bonuses and benefits are summarized in the 
 
 The Arcane Archer kit allows you to combine magic and ranged weapon attacks. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear no armor and wield a bow.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Speed Bonus:** +1
 - **Ranged Damage Bonus:** +2/+2/+2
 - **Weapon Distance Bonus:** +10
 - **Disengage Bonus:** +1
 
-##### SIGNATURE ABILITY
+#### SIGNATURE ABILITY
 
 #### EXPLODING ARROW
 
@@ -15812,18 +15812,18 @@ You wear no armor and wield a bow.
 
 Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! You use the Battlemind kit harnesses the power of your mind to make yourself harder to move and your foes easier to push around.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear light armor and wield a medium weapon.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +2
 - **Stability Bonus:** +1
 - **Melee Damage Bonus:** +2/+2/+2
 
-##### SIGNATURE ABILITY
+#### SIGNATURE ABILITY
 
 #### UNMOORING
 
@@ -15839,11 +15839,11 @@ You wear light armor and wield a medium weapon.
 
 Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the Cloak and Dagger kit makes you more mobile while providing a boost to your effectiveness at range and to your damage. This kit is good for a hero who wants to be able to move all over the battlefield while keeping their options open for using short-range attacks.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear light armor and wield one or two light weapons.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +2
@@ -15868,18 +15868,18 @@ You wear light armor and wield one or two light weapons.
 
 The Dual Wielder kit is for folks who want to excel at using two weapons at the same time. The fighting style maximizes the power of each instrument in your hands, making you a whirling deliverer of death.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear medium armor and wield a light weapon and a medium weapon.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +6 per echelon
 - **Speed Bonus:** +2
 - **Melee Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
 
-##### SIGNATURE ABILITY
+#### SIGNATURE ABILITY
 
 #### DOUBLE STRIKE
 
@@ -15897,18 +15897,18 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 The Guisarmier kit is for those who want to use a polearm for extended reach and still gain the extra protection of armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear medium armor and wield a polearm.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +6 per echelon
 - **Stability Bonus:** +1
 - **Melee Damage Bonus:** +2/+2/+2
 - **Melee Distance Bonus:** +1
 
-##### SIGNATURE ABILITY
+#### SIGNATURE ABILITY
 
 #### FORWARD THRUST, BACKWARD SMASH
 
@@ -15926,18 +15926,18 @@ You wear medium armor and wield a polearm.
 
 If you want to be fast in a fight, then Martial Artist is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes to opponents, and allows you to be the ultimate skirmisher.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear no armor and wield only your unarmed strikes.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +3
 - **Melee Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
 
-##### SIGNATURE ABILITY
+#### SIGNATURE ABILITY
 
 #### BATTLE GRACE
 
@@ -15959,11 +15959,11 @@ You wear no armor and wield only your unarmed strikes.
 
 The Mountain kit does exactly what it says on the tin. You don heavy armor and a heavy weapon to stand strong against your foes, quickly demolishing them when it's your turn to attack.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear heavy armor and wield a heavy weapon.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +9 per echelon
 - **Stability Bonus:** +2
@@ -15989,18 +15989,18 @@ You wear heavy armor and wield a heavy weapon.
 
 If you want a good balance of protection, speed, and damage, the Panther kit is for you. This kit increases your Stamina not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear no armor and wield a heavy weapon.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +6 per echelon
 - **Speed Bonus:** +1
 - **Stability Bonus:** +1
 - **Melee Damage Bonus:** +0/+0/+4
 
-##### SIGNATURE ABILITY
+#### SIGNATURE ABILITY
 
 #### DEVASTATING RUSH
 
@@ -16022,18 +16022,18 @@ You wear no armor and wield a heavy weapon.
 
 Meant for brawlers and boxers, the Pugilist kit gives you access to a melee fighting style that gives you a boost to Stamina and damage while allowing you to float like a butterfly. If you want to be a tough, strong hero who doles out punishment with your fists, then this kit is for you.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear no armor and wield only your unarmed strikes.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +6 per echelon
 - **Speed Bonus:** +2
 - **Stability Bonus:** +1
 - **Melee Damage Bonus:** +1/+1/+1
 
-##### SIGNATURE ABILITY
+#### SIGNATURE ABILITY
 
 #### LET'S DANCE
 
@@ -16054,11 +16054,11 @@ You wear no armor and wield only your unarmed strikes.
 
 The Raider kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear light armor, and wield a shield and a light weapon.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +6 per echelon
 - **Speed Bonus:** +1
@@ -16067,7 +16067,7 @@ You wear light armor, and wield a shield and a light weapon.
 - **Ranged Distance Bonus:** +5
 - **Disengage Bonus:** +1
 
-##### SIGNATURE ABILITY
+#### SIGNATURE ABILITY
 
 ##### SHOCK AND AWE
 
@@ -16087,11 +16087,11 @@ You wear light armor, and wield a shield and a light weapon.
 
 The Ranger kit outfits you with light armor and several weapons, letting you easily switch between using a melee weapon and a bow. This kit provides a good balance of bonuses to Stamina, speed, damage, and range to create a hero who is a jack-of-all-trades.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear medium armor and wield a medium weapon and a bow.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +6 per echelon
 - **Speed Bonus:** +1
@@ -16114,11 +16114,11 @@ You wear medium armor and wield a medium weapon and a bow.
 
 The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique focuses on peppering foes at medium range.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear light armor and wield a bow.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +1
@@ -16126,7 +16126,7 @@ You wear light armor and wield a bow.
 - **Ranged Distance Bonus:** +7
 - **Disengage Bonus:** +1
 
-##### SIGNATURE ABILITY
+#### SIGNATURE ABILITY
 
 #### TWO SHOT
 
@@ -16142,11 +16142,11 @@ You wear light armor and wield a bow.
 
 The retiarius is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear light armor, and wield a polearm and several ensnaring weapons.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +1
@@ -16154,7 +16154,7 @@ You wear light armor, and wield a polearm and several ensnaring weapons.
 - **Melee Distance Bonus:** +1
 - **Disengage Bonus:** +1
 
-##### SIGNATURE ABILITY
+#### SIGNATURE ABILITY
 
 #### NET AND STAB
 
@@ -16172,17 +16172,17 @@ You wear light armor, and wield a polearm and several ensnaring weapons.
 
 The Shining Armor kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear heavy armor and wield a shield and a medium weapon.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +12 per echelon
 - **Stability Bonus:** +1
 - **Melee Damage Bonus:** +2/+2/+2
 
-##### SIGNATURE ABILITY
+#### SIGNATURE ABILITY
 
 #### PROTECTIVE ATTACK
 
@@ -16201,11 +16201,11 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 The Sniper kit gives you the tools and techniques to take down enemies from afar. This kit can help you become the archer who lurks behind trees or down tunnels, picking off enemies with a bow or crossbow as they approach.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear no armor and wield a bow.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Speed Bonus:** +1
 - **Ranged Damage Bonus:** +0/+0/+4
@@ -16228,18 +16228,18 @@ You wear no armor and wield a bow.
 
 The Spellsword kit combines melee attacks and a little bit of magic for warriors who don't want to have to choose between the incantation and the blade.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear light armor and wield a shield and a medium weapon.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +6 per echelon
 - **Speed Bonus:** +1
 - **Stability Bonus:** +1
 - **Melee Damage Bonus:** +2/+2/+2
 
-##### SIGNATURE ABILITY
+#### SIGNATURE ABILITY
 
 #### LEAPING LIGHTNING
 
@@ -16255,11 +16255,11 @@ You wear light armor and wield a shield and a medium weapon.
 
 Armed with a simple reach weapon, often a quarterstaff, heroes using the Stick and Robe kit are highly mobile thanks to their light armor. This allows them to make maximum use of their weapon's length.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear light armor and wield a polearm.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +2
@@ -16267,7 +16267,7 @@ You wear light armor and wield a polearm.
 - **Melee Distance Bonus:** +1
 - **Disengage Bonus:** +1
 
-##### SIGNATURE ABILITY
+#### SIGNATURE ABILITY
 
 #### WHERE I WANT YOU
 
@@ -16283,18 +16283,18 @@ You wear light armor and wield a polearm.
 
 If you want to be mobile and deal a lot of damage with melee attacks, then you should reach for the Swashbuckler kit. This is a great kit for heroes who want to be master duelists.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear light armor and wield a medium weapon.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +3 per echelon
 - **Speed Bonus:** +3
 - **Melee Damage Bonus:** +2/+2/+2
 - **Disengage Bonus:** +1
 
-##### SIGNATURE ABILITY
+#### SIGNATURE ABILITY
 
 #### FANCY FOOTWORK
 
@@ -16314,18 +16314,18 @@ You wear light armor and wield a medium weapon.
 
 The Sword and Board kit doesn't just give you a shield--it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you can protect yourself and control the battlefield.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear medium armor and wield a shield and a medium weapon.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +9 per echelon
 - **Melee Damage Bonus:** +2/+2/+2
 - **Stability Bonus:** +1
 - **Disengage Bonus:** +1
 
-##### SIGNATURE ABILITY
+#### SIGNATURE ABILITY
 
 #### SHIELD BASH
 
@@ -16345,18 +16345,18 @@ You wear medium armor and wield a shield and a medium weapon.
 
 The Warrior Priest kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine ... and the heavy armor you're wearing.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear heavy armor and wield a light weapon.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Stamina Bonus:** +9 per echelon
 - **Speed Bonus:** +1
 - **Stability Bonus:** +1
 - **Melee Damage Bonus:** +1/+1/+1
 
-##### SIGNATURE ABILITY
+#### SIGNATURE ABILITY
 
 #### WEAKENING BRAND
 
@@ -16376,18 +16376,18 @@ You wear heavy armor and wield a light weapon.
 
 The Whirlwind kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a mobile warrior who uses a chain or whip, then this is the kit for you.
 
-##### EQUIPMENT
+#### EQUIPMENT
 
 You wear no armor and wield a whip.
 
-##### KIT BONUSES
+#### KIT BONUSES
 
 - **Speed Bonus:** +3
 - **Melee Damage Bonus:** +1/+1/+1
 - **Melee Distance Bonus:** +1
 - **Disengage Bonus:** +1
 
-##### SIGNATURE ABILITY
+#### SIGNATURE ABILITY
 
 #### EXTENSION OF MY ARM
 
@@ -18022,7 +18022,7 @@ Reactive tests are typically made in the following circumstances, though the Dir
 
 Some Directors prefer to make the power rolls for reactive tests for the heroes rather than asking the players to do so. This allows the Director to make the rolls when appropriate for hidden objects, creatures, motivations, and information without tipping off the players that there is information to be gained. Having the Director roll requires the Director to have everyone's characteristics and skills written down (whether physically or digitally) for easy reference.
 
-#### SKILLS
+## SKILLS
 
 Skills represent the different specializations a hero has outside of attacking, defending, and using their ancestry features, class features, and equipment. Whenever you make a test, having a particular skill associated with the test increases your chance of success.
 
@@ -18915,7 +18915,7 @@ You can also use your action to catch your breath, help another creature regain 
 
 You can convert your action into a maneuver or move action.
 
-#### CHARGE
+### CHARGE
 
 When you take the Charge action, you move up to your speed in a straight line without shifting, and can then make a melee free strike (see Free Strikes) against a creature when you end your move. You can't move through difficult terrain as part of your movement with this action. You can't climb, fly, or swim as part of this action unless you have that type of movement as a keyword in your speed.
 
@@ -23485,7 +23485,7 @@ Choose one of the following benefits.
 - **Skilled Hands:** You gain a skill from the crafting skills group used during the creation of the item. If you already have it, you instead gain an edge to tests that use the skill. In addition, you gain a second skill of your choice from the crafting skill group.
 - **Strong Hands Make Light Work:** Whenever you make a project roll, you can use Might as the project roll characteristic.
 
-##### NOBLE
+#### NOBLE
 
 *"Technically I'm called Lord Morninghill these days. I did a little favor for Duke Kenway at the Battle of Black Forest."*
 
@@ -23694,7 +23694,7 @@ Choose one of the following additional benefits.
 - **Laughs at Locks:** When making a test to open a lock or break a restraint, you don't need any tools and you automatically get a tier 3 result.
 - **Slippery:** You can't be grabbed against your will.
 
-#### RENOWN
+## RENOWN
 
 As you accomplish heroic deeds, your fame allows you to influence NPCs and attract followers. Your infamy among enemies also grows, and their hatred and fear of you can cause foes to lash out during negotiations (see Negotiation). Every hero has a Renown score that represents how they can use their reputation to influence others. The higher the score, the greater your impact with those who know of your legend.
 
@@ -23733,7 +23733,7 @@ Many followers stay at a stronghold, which is a home base you designate and can 
 
 When you attract a new follower, you decide on their name and ancestry, and choose what role they play in their service to you.
 
-### ARTISAN
+##### ARTISAN
 
 Artisans are crafting experts who can contribute to your research and crafting projects (see Research and Crafting). An artisan can contribute one project roll per day to a project you choose while they remain at your stronghold, provided they have access to the necessary materials.
 
@@ -23745,13 +23745,13 @@ Retainers are heroic NPCs who adventure alongside the player characters. They ar
 
 Rules for retainers are found in the *Draw Steel: Monsters* core rulebook.
 
-### SAGE
+##### SAGE
 
 Sages are research experts who can contribute to your research and crafting projects. A sage can contribute one project roll per day to a project you choose while they remain at your stronghold, provided they have access to the necessary materials.
 
 When you recruit a sage, choose four skills from the lore skill group that they know. A sage has a Reason and Intuition score of 1, and a 0 in all other characteristics. They know Caelian and two other languages of your choice.
 
-#### WEALTH
+## WEALTH
 
 This game isn't about accumulating and counting every piece of copper you acquire. Instead of tracking a bank account, the amount of stuff your hero can purchase is based on their wealth score. As you accomplish more deeds, you acquire more treasure and rewards from grateful NPCs that allow you to be an even more effective hero.
 
@@ -25088,7 +25088,7 @@ Remember that if a player has a particularly clever and plausible idea, you can 
 
 Sometimes a player will propose what they think is a plausible or clever idea, but you'll think there's no way it could ever work. It's fine for you to tell the player, "That's not going to work." You're under no obligation to allow a player to attempt a test for something that's going to fail.
 
-### TEST DIFFICULTY
+#### TEST DIFFICULTY
 
 Before you ask for a test, set a difficulty of easy, moderate, or hard. Here's some criteria to keep in mind:
 
@@ -25106,7 +25106,7 @@ You can tell a player a test's difficulty. Saying, "Make a hard Reason test," ca
 
 On the other hand, you can do a little fudging of difficulties if you don't share them with the heroes. You might call for a test and then think it's not necessary as a player makes the roll. Your first option is to just say, "Hey sorry. I shouldn't have asked for a test. You just do the thing." Most players, especially your pals, will be fine with that. But if you want to play it cool, remember that every level of an easy test is a success, it's just a matter of whether there's a consequence or reward as part of it. If a hero rolls 11 or lower on a test and you think they should still succeed, then it was easy difficulty.
 
-### TEST OUTCOMES
+#### TEST OUTCOMES
 
 After a hero makes a test, it's up to you to narrate and decide the consequences of the outcome. Uses these basic guidelines:
 
@@ -25283,7 +25283,7 @@ The bandit chief archetype can be used for any other local big shot, such as the
 - **Legacy:** Listen, I don't care what happens when I'm gone. I want my toughs shouting my name now, not in a hundred years.
 - **Peace:** In times of peace, if you pick up a silver coin that's not yours, the sheriff comes knocking on your door. In war, whole caravans disappear and nobody blinks. Give me war.
 
-#### KNIGHT
+##### KNIGHT
 
 **Impression score:** 2
 
@@ -25459,7 +25459,7 @@ The dragon archetype can be used for any other kingdomlevel threat, such as a fi
 - **Power:** How can you possibly offer me power?
 - **Revelry:** My pleasures are as far beyond your comprehension as yours are to a worm.
 
-#### MONARCH
+##### MONARCH
 
 **Impression score:** 10
 
@@ -25568,7 +25568,7 @@ When you run a montage test, start by setting the scene for the players and list
 - Suggested skills: Architecture, Intimidation, Lead o **Clearing a Firebreak:** Prevent the fire from spreading by clearing the ground of flammable materials, either by moving it or burning it away. Suggested characteristics: Might, Reason. Suggested skills and abilities: Endurance, Lift, abilities that deal fire damage. A creature loses a
 - MONTAGE CHALLENGES o **Bucket Chains:** Organize the would-be firefighters into disciplined bucket brigades or fight the fire some other way. Suggested characteristics: Presence, Reason.
 
-#### SETTING THE SCENE
+###### SETTING THE SCENE
 
 Fire blazes from several buildings, and the occupants need to be rescued. Elsewhere, some townsfolk flee while others throw water on the fire without any organization or plan. Without leadership and a way to stop the spread, the fire could easily consume everything. In a nearby stable, horses are panicking as their hay begins to smolder. Burning rubble blocks pathways everywhere.
 
@@ -25598,7 +25598,7 @@ At the end of the first round, an emergency crops up. One or more heroes, select
 
 At the end of the first round of the montage test, the party meets the hostile cause of the fire--the invading army, dragon, arsonist, etc. They must fight a standard or hard encounter against this threat.
 
-### MONTAGE TEST OUTCOMES
+###### MONTAGE TEST OUTCOMES
 
 - **Total Success:** The fire is extinguished. Buildings are damaged but no lives were lost. The party achieves 2 Victories if the montage test was hard, or 1 Victory if it was easy or moderate.
 - **Partial Success:** The fire is quenched, although many buildings burned and a few lives were lost. The party achieves 1 Victory if the montage test was moderate or hard.
@@ -25608,7 +25608,7 @@ At the end of the first round of the montage test, the party meets the hostile c
 
 Whether the heroes are trying to reach a tyrant's throne room, pull off a daring art heist, or rescue royalty from captivity, they're somewhere they're not supposed to be and they'd prefer to keep their presence secret.
 
-#### SETTING THE SCENE
+###### SETTING THE SCENE
 
 The target site is well-defended, with patrols that change every few hours. The few obvious entrances are locked and guarded. And once you're inside, you don't know your way to your goal. There are probably guard patrols inside as well. You'll have to sneak or bluff your way past them.
 
@@ -25643,7 +25643,7 @@ The first time the heroes fail a test while the alarm level is 2, they encounter
 
 At any time during the infiltration section of the montage challenge, between one hero's turn and another's, the heroes learn another group is breaking into the site at the same time, possibly after the same prize. When the heroes run into them during the infiltration, they can fight, negotiate, or let them go--in which case they may meet them again when they reach their prize.
 
-### MONTAGE TEST OUTCOMES
+###### MONTAGE TEST OUTCOMES
 
 - **Total Success:** The party reaches their goal, and they secure an escape route that lets them leave safely. The party achieves 2 Victories if the montage test was hard, or 1 Victory if it was easy or moderate.
 - **Partial Success:** The heroes reach their goal, but they'll need to fight a standard difficulty combat encounter to escape. The party achieves 1 Victory if the montage test was moderate or hard, in addition to any Victories earned from combat.
@@ -25653,7 +25653,7 @@ At any time during the infiltration section of the montage challenge, between on
 
 Whether it's a village threatened by bandits or a great city preparing for a siege, enemies are on their way to attack the settlement. The heroes have a limited time to fortify the settlement's defenses and bolster its troops.
 
-#### SETTING THE SCENE
+###### SETTING THE SCENE
 
 The walls or palisades around the settlement (if any) are in poor shape. The roads or rivers leading to the settlement may be convenient for trade, but they won't slow down the invaders--barricades, traps, or ambushes could be set up. The settlement's food, weapon, and ammunition supply is too low to survive a long siege. Its experienced fighters are competent but few, and its militia is poorly equipped and virtually untrained.
 
@@ -25687,7 +25687,7 @@ At the end of the first round of the montage test, fastmoving enemy troops attac
 
 o **Trapmaking:** Heroes dig concealed pits, lay ambushes, or otherwise make it hard for the invaders to approach the settlement. Suggested characteristics: Might, Reason. Suggested skills: Conceal Object, Endurance, Mechanics
 
-### MONTAGE TEST OUTCOMES
+###### MONTAGE TEST OUTCOMES
 
 - **Total Success:** The settlement is fully fortified, and even if the heroes don't fight in the settlement's defense, it survives. If the heroes wish, they can leave the settlement and fight a standard combat encounter against the invader's leader and their lackeys. If the heroes succeed, they might kill or capture the leader. The party achieves 2 Victories if the montage test was hard, or 1 Victory if it was easy or moderate, in addition to any Victories they may earn in combat during the settlement's defense.
 - **Partial Success:** If the heroes hit the failure limit or time runs out, and if they've achieved at least two more successes than failures, they achieve a partial success. The settlement's fortifications are improved, but the settlement will still fall unless the heroes fight in its defense. To save the settlement, the heroes must triumph in a hard combat encounter against the invader's leader and lackeys. If the heroes lose the encounter, the settlement falls. The party achieves 1 Victory if the montage test was moderate or hard, in addition to any Victories they may earn in combat during the settlement's defense.
@@ -25695,7 +25695,7 @@ o **Trapmaking:** Heroes dig concealed pits, lay ambushes, or otherwise make it 
 
 being pursued, and if they want to be found.
 
-#### SETTING THE SCENE
+###### SETTING THE SCENE
 
 ###### MONTAGE CHALLENGES
 
@@ -25707,7 +25707,7 @@ being pursued, and if they want to be found.
 
 At the end of the first round of the montage test, the heroes stumble upon a trap set by the quarry, such as a pit trap full of poison spikes, or a problem they left behind, such as angry locals or a forest fire. The heroes must deal with the issue before they begin the test.
 
-### MONTAGE TEST OUTCOMES
+###### MONTAGE TEST OUTCOMES
 
 - **Total Success:** The heroes catch their quarry before the fugitive reaches their destination (or before a lost or kidnapped creature comes to harm). The party achieves 2 Victories if the montage test was hard, or 1 Victory if it was easy or moderate.
 - **Partial Success:** If the quarry was trying to evade capture, the quarry reaches their destination. They find allies and a fortified position to defend themselves, or they may have time to cause more harm. If the quarry was lost, the quarry is injured grievously when they are found. The party achieves 1 Victory if the montage test was moderate or hard.
@@ -25717,7 +25717,7 @@ At the end of the first round of the montage test, the heroes stumble upon a tra
 
 The party needs to reach a besieged city before it falls or traverse a jungle before a curse is activated. In any case, the party needs to cross dangerous wildlands--fast.
 
-#### SETTING THE SCENE
+###### SETTING THE SCENE
 
 The wilds ahead hold unknown dangers. Someone will need to figure out the best route, and others can speed the journey by carrying baggage or keeping up spirits. It might be wise if someone kept an eye out for monsters and other hazards, as well.
 
@@ -25735,7 +25735,7 @@ The wilds ahead hold unknown dangers. Someone will need to figure out the best r
 
 At the end of the first round of the montage test, a natural hazard (such as an avalanche) interrupts the journey. Each hero must make a test of your choice to avoid the hazard, losing a Recovery on a failure.
 
-### MONTAGE TEST OUTCOMES
+###### MONTAGE TEST OUTCOMES
 
 - **Total Success:** The heroes reach their goal in time. The party achieves 2 Victories if the montage test was hard, or 1 Victory if it was easy or moderate.
 - **Partial Success:** In order to reach their goal in time, the heroes must sprint over the last leg of the journey, each hero must spend two Recoveries to do so. The party achieves 1 Victory if the montage test was moderate or hard, in addition to any Victories earned from combat.

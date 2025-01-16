@@ -17,3 +17,7 @@ kind: 1st-level features
 | Stormwight | Beast Shape, Relentless Hunter |
 
 [BEAST SHAPE](./Beast%20Shape.md)
+
+[KIT](./Kit.md)
+
+[PRIMORDIAL CUNNING](./Primordial%20Cunning.md)
