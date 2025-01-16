@@ -5,7 +5,7 @@
 | *Demon, Planar*  |                  **EV 36** |
 | **Stamina**: 90  |       **Weakness**: Holy 3 |
 | **Speed**: 5     | **Size**: 1L / Stability 2 |
-|                  |     **[[Free Strike]]**: 4 |
+|                  |         **Free Strike**: 4 |
 
 | **Might** +2 | **Agility** +2 | **Reason** +2 | **Intuition** +2 | **Presence** +2 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -20,9 +20,9 @@
 
 **2d10 + 3**
 
-- ✦ ≤11: 3 psychic damage; I2 [[Slowed|slowed]] (save ends)
-- ★ 12-16: 5 psychic damage; I3 [[Slowed|slowed]] (save ends)
-- ✸ 17+: 7 psychic damage; I4 [[Slowed|slowed]] (save ends)
+- ✦ ≤11: 3 psychic damage; I2 slowed (save ends)
+- ★ 12-16: 5 psychic damage; I3 slowed (save ends)
+- ✸ 17+: 7 psychic damage; I4 slowed (save ends)
 
 **Effect:** An ally within 10 squares of the chorogaunt can shift up to their speed.
 
@@ -53,7 +53,7 @@ Trigger: The chorogaunt is targeted by an attack.
 | Keywords: Ranged    | Type: Villain Action 1 |
 | Distance: Ranged 10 | Target: Three enemies  |
 
-**Effect:** Each target chooses to either take 5 psychic damage or be [[Frightened|frightened]] of the chorogaunt (EoT).
+**Effect:** Each target chooses to either take 5 psychic damage or be frightened of the chorogaunt (EoT).
 
 #### Bully the Weak
 

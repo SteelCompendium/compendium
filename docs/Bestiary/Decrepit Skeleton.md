@@ -5,7 +5,7 @@
 | *Corporeal, Undead*             |                     **EV 2** |
 | **Stamina**: 4                  |                **Weakness**: |
 | **Speed**: 5                    |  **Size**: 1M / Stability -2 |
-|                                 |       **[[Free Strike]]**: 2 |
+|                                 |           **Free Strike**: 2 |
 
 | **Might** 0 | **Agility** +2 | **Reason** -2 | **Intuition** 0 | **Presence** -2 |
 | ----------- | -------------- | ------------- | --------------- | --------------- |
@@ -28,4 +28,4 @@
 
 **Bonetrops**
 
-When the decrepit [[Skeleton|skeleton]] is reduced to Stamina 0, its space becomes [[Difficult Terrain|difficult terrain]]. The first time any enemy enters this space, they take 1 damage.
+When the decrepit [[Skeleton|skeleton]] is reduced to Stamina 0, its space becomes difficult terrain. The first time any enemy enters this space, they take 1 damage.

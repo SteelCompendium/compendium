@@ -5,7 +5,7 @@
 | *Humanoid, Radenwight* |                   **EV 6** |
 | **Stamina**: 10        |              **Weakness**: |
 | **Speed**: 7 (climb)   | **Size**: 1S / Stability 0 |
-|                        |     **[[Free Strike]]**: 2 |
+|                        |         **Free Strike**: 2 |
 
 | **Might** 0 | **Agility** +2 | **Reason** +1 | **Intuition** 0 | **Presence** -1 |
 | ----------- | -------------- | ------------- | --------------- | --------------- |
@@ -33,4 +33,4 @@
 
 Trigger: An ally deals damage to the target.
 
-**Effect:** The swiftpaw makes a [[Free Strike|free strike]] against the target.
+**Effect:** The swiftpaw makes a free strike against the target.

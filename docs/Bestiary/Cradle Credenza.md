@@ -5,7 +5,7 @@
 | *Construct, High Elf* |                 **EV 15** |
 | **Stamina**: 35       |             **Weakness**: |
 | **Speed**: 4          | **Size**: 2 / Stability 3 |
-|                       |    **[[Free Strike]]**: 4 |
+|                       |        **Free Strike**: 4 |
 
 | **Might** +2 | **Agility** 0 | **Reason** 0 | **Intuition** 0 | **Presence** +2 |
 | ------------ | ------------- | ------------ | --------------- | --------------- |
@@ -33,6 +33,6 @@
 - ★ 12-16: 3 fire damage; 3 cold damage; 3 lightning damage; push 3
 - ✸ 17+: 4 fire damage; 4 cold damage; 4 lightning damage; push 5
 
-**[[Defend]] the Books**
+**Defend the Books**
 
-Each ally within 5 of a creature that attacks the cradle credenza can make a [[Free Strike|free strike]] against them.
+Each ally within 5 of a creature that attacks the cradle credenza can make a free strike against them.

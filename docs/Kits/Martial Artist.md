@@ -4,14 +4,12 @@ title: Martial Artist
 name_raw: Martial Artist
 name: Martial Artist
 type: kits
-keywords: Attack, Melee, Weapon
+keywords: Melee, Strike, Weapon **Type:** Action
 keyword_list:
-  - Attack
   - Melee
-  - Weapon
-ability_type: Action
-distance: Melee 1
-target: 1 creature
+  - Strike
+  - Weapon **Type:** Action
+distance: Melee 1 **Target:** 1 creature
 ---
 
 # Martial Artist
@@ -24,26 +22,26 @@ You wear no armor and wield only your unarmed strikes.
 
 ## Kit Bonuses
 
-- Stamina Bonus: +3
-- Speed Bonus: +3
-- Melee Damage Bonus: +2/+2/+2
-- [[Disengage]] Bonus: +1
+- **Stamina Bonus:** +3 per echelon
+- **Speed Bonus:** +3
+- **Melee Damage Bonus:** +2/+2/+2
+- **Disengage Bonus:** +1
 
 ## Signature Ability
 
-### Battle Grace
+## Battle Grace
 
-You feint to move your enemies into perfect position.
+*You feint to move your enemies into perfect position.*
 
-|                                     |                        |
-| :---------------------------------- | :--------------------- |
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
-| **Distance:** Melee 1               | **Target:** 1 creature |
+|                                                      |             |
+| :--------------------------------------------------- | :---------- |
+| **Keywords:** Melee, Strike, Weapon **Type:** Action | **Type:**   |
+| **Distance:** Melee 1 **Target:** 1 creature         | **Target:** |
 
 **Power Roll + Might or Agility:**
 
-- **11 or lower:** 4 damage
-- **12-16:** 7 damage; you swap places with the target
-- **17+:** 9 damage; you swap places with the target
+- *11 or lower:* 5 **+ M or A damage**
+- *12-16:* 8 **+ M or A damage; you swap places with the target**
+- *17+:* 11 **+ M or A damage; you swap places with the target**
 
 **Effect:** If you roll a 12 or better and can't swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 1 extra damage.

@@ -10,4 +10,4 @@ kind: 2nd-level features
 
 # A Sense For Truth
 
-You automatically know when a creature is lying, but don't necessarily know the actual truth. You have a double edge on tests to detect hidden motives, such as when using the Read Person skill.
+You are trained in secret techniques from your order that allow you to discern the truth at a supernatural level. This puts you in high demand for your church and any governments it is allied with. If a creature is of a lower level than you, you automatically know when they are lying, though you don't necessarily know the actual truth behind their lie. Additionally, you have an edge on tests to detect lies or hidden motives, such as when using the Read Person skill.

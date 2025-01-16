@@ -13,4 +13,4 @@ Bureaucratic cultures are steeped in official leadership and formally recorded l
 
 Those who thrive in bureaucratic cultures don't just follow the rules. They know how to use those rules to their advantage, either bending, changing, or reinterpreting policy to advance their own interests. Schmoozing with those who make the laws is often key to this approach. Others in a bureaucratic culture might specialize in operating outside the strict regulations that govern the culture without getting caught.
 
-**Skill Options:** One skill from the intrigue or lore skill groups.
+**Skill Options:** One skill from the intrigue or lore skill groups. (*Quick Build:* Rumors)

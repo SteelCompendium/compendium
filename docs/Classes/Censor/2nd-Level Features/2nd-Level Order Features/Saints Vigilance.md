@@ -10,4 +10,4 @@ kind: 2nd-level features
 
 # Saint's Vigilance
 
-Enemies within 5 squares of you can't hide from you. Outside of combat, you automatically reveal hidden creatures of your level or lower within 5 squares of you.
+You have honed your ability to detect sin and can use it to find those who hide from justice. Any creature judged by you cannot take the Hide maneuver. You have an edge when searching for hidden creatures and, if you find a hidden creature, you can use Judgment on them as a free triggered action.

@@ -10,7 +10,7 @@ kind: 1st-level features
 
 # 1st-level Domain Feature
 
-You gain a domain feature from one of your domains, as shown on the 1st-Level Censor Domain Features table.
+You gain a domain feature from one of your domains as shown on the 1st-Level Censor Domain Features table. Additionally, you gain a skill from the chosen domain, selected from the skill group indicated on the table.
 
 [1ST-LEVEL CENSOR DOMAIN FEATURES](./1st-Level%20Censor%20Domain%20Features.md)
 
@@ -21,6 +21,10 @@ You gain a domain feature from one of your domains, as shown on the 1st-Level Ce
 [BLESSING OF FORTUNATE WEATHER](./Blessing%20Of%20Fortunate%20Weather.md)
 
 [FAITHFUL FRIEND](./Faithful%20Friend.md)
+
+[FAITHFUL FRIEND](./Faithful%20Friend.md)
+
+[GRAVE SPEECH](./Grave%20Speech.md)
 
 [GRAVE SPEECH](./Grave%20Speech.md)
 

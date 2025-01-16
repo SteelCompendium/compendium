@@ -1,11 +1,11 @@
 ### HUMAN STORM MAGE
 
-| [[Human\|HUMAN]] STORM MAGE |     **Level 3 Controller** |
-| :-------------------------- | -------------------------: |
-| *[[Human]], Humanoid*       |                  **EV 17** |
-| **Stamina**: 40             |              **Weakness**: |
-| **Speed**: 5                | **Size**: 1M / Stability 0 |
-|                             |     **[[Free Strike]]**: 5 |
+| HUMAN STORM MAGE  |     **Level 3 Controller** |
+| :---------------- | -------------------------: |
+| *Human, Humanoid* |                  **EV 17** |
+| **Stamina**: 40   |              **Weakness**: |
+| **Speed**: 5      | **Size**: 1M / Stability 0 |
+|                   |         **Free Strike**: 5 |
 
 | **Might** 0 | **Agility** 0 | **Reason** +2 | **Intuition** 0 | **Presence** +1 |
 | ----------- | ------------- | ------------- | --------------- | --------------- |
@@ -35,11 +35,11 @@
 
 **MGT RR**
 
-- ✦ ≤11: Slide 5; [[Slowed|slowed]] (save ends)
-- ★ 12-16: Slide 3; [[Slowed|slowed]] (EoT)
+- ✦ ≤11: Slide 5; slowed (save ends)
+- ★ 12-16: Slide 3; slowed (EoT)
 - ✸ 17+: Slide 1
 
-**Effect:** The gust of wind disperses gas or vapor and extinguishes any flames, including [[Persistent|persistent]] effects.
+**Effect:** The gust of wind disperses gas or vapor and extinguishes any flames, including persistent effects.
 
 **Arcane Shield**
 

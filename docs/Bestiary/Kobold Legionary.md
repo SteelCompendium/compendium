@@ -5,7 +5,7 @@
 | *Humanoid, Kobold* |                   **EV 9** |
 | **Stamina**: 20    |              **Weakness**: |
 | **Speed**: 5       | **Size**: 1S / Stability 0 |
-|                    |     **[[Free Strike]]**: 1 |
+|                    |         **Free Strike**: 1 |
 
 | **Might** +2 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ------------ | -------------- | ------------ | --------------- | -------------- |
@@ -24,7 +24,7 @@
 - ★ 12-16: 4 damage
 - ✸ 17+: 5 damage
 
-**Effect:** [[Taunted]] (EoT).
+**Effect:** Taunted (EoT).
 
 **3 Malice:** The legionary and their squad can shift 2 before this attack is made.
 

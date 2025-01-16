@@ -10,4 +10,4 @@ kind: 2nd-level features
 
 # Trained Assassin
 
-Whenever you make an attack with at least one `⚡` and no banes against a target, the attack gains an extra `⚡`.
+You know just where to cut your enemies. Whenever you make a strike with at least one surge and no banes, the strike gains an extra surge which you must use on that strike.

@@ -1,0 +1,17 @@
+---
+title_raw: Equipment
+title: Equipment
+name_raw: Equipment
+name: Equipment
+type: classes
+subtype: fury
+kind: kit features
+---
+
+# Equipment
+
+You wear no armor and wield only your unarmed strikes--which become devastating natural weapons as your rage grows.
+
+[KIT BONUSES](./Kit%20Bonuses.md)
+
+[GROWING RAGE](./Growing%20Rage.md)

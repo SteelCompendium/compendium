@@ -1,0 +1,21 @@
+---
+title_raw: Instigator
+title: Instigator
+name_raw: Instigator
+name: Instigator
+type: classes
+subtype: tactician
+kind: kit
+---
+
+# Instigator
+
+*I didn't do it! What?* **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
+
+**Power Roll + Presence:**
+
+- *11 or lower:* 3 + P **damage**
+- *12-16:* 6 + P **damage**
+- *17+:* 9 + P **damage**
+
+**Effect:** The target is taunted by you or a willing ally adjacent to you until the end of the target's next turn.

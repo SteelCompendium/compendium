@@ -4,14 +4,12 @@ title: Panther
 name_raw: Panther
 name: Panther
 type: kits
-keywords: Attack, Melee, Weapon
+keywords: Melee, Strike, Weapon **Type:** Action
 keyword_list:
-  - Attack
   - Melee
-  - Weapon
-ability_type: Action
-distance: Melee 1
-target: 1 creature or object
+  - Strike
+  - Weapon **Type:** Action
+distance: Melee 1 **Target:** 1 creature or object
 ---
 
 # Panther
@@ -24,26 +22,26 @@ You wear no armor and wield a heavy weapon.
 
 ## Kit Bonuses
 
-- Stamina Bonus: +6
-- Speed Bonus: +1
-- Stability Bonus: +1
-- Melee Damage Bonus: +0/+0/+3
+- **Stamina Bonus:** +6 per echelon
+- **Speed Bonus:** +1
+- **Stability Bonus:** +1
+- **Melee Damage Bonus:** +0/+0/+4
 
 ## Signature Ability
 
-### Devastating Rush
+## Devastating Rush
 
-The faster you move, the harder you hit.
+*The faster you move, the harder you hit.*
 
-|                                     |                                  |
-| :---------------------------------- | :------------------------------- |
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action                 |
-| **Distance:** Melee 1               | **Target:** 1 creature or object |
+|                                                        |             |
+| :----------------------------------------------------- | :---------- |
+| **Keywords:** Melee, Strike, Weapon **Type:** Action   | **Type:**   |
+| **Distance:** Melee 1 **Target:** 1 creature or object | **Target:** |
 
 **Power Roll + Might or Agility:**
 
-- **11 or lower:** 2 damage
-- **12-16:** 5 damage
-- **17+:** 10 damage
+- *11 or lower:* 3 **+ M or A damage**
+- *12-16:* 6 **+ M or A damage**
+- *17+:* 13 **+ M or A damage**
 
-**Effect:** You can move up to 3 squares straight toward the target before this attack. You deal extra damage equal to the distance moved this way.
+**Effect:** You can move up to 3 squares straight toward the target before this strike. You deal extra damage equal to the distance moved this way.

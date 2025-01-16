@@ -5,7 +5,7 @@
 | *Humanoid, Kobold* |                   **EV 9** |
 | **Stamina**: 15    |              **Weakness**: |
 | **Speed**: 5       | **Size**: 1S / Stability 0 |
-|                    |     **[[Free Strike]]**: 1 |
+|                    |         **Free Strike**: 1 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |
@@ -20,15 +20,15 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 2 damage; 1 [[Restrained|restrained]] (save ends)
-- ★ 12-16: 5 damage; 2 [[Restrained|restrained]] (save ends)
-- ✸ 17+: 6 damage; 3 [[Restrained|restrained]] (save ends)
+- ✦ ≤11: 2 damage; 1 restrained (save ends)
+- ★ 12-16: 5 damage; 2 restrained (save ends)
+- ✸ 17+: 6 damage; 3 restrained (save ends)
 
-**3 Malice:** Creatures and objects [[Restrained|restrained]] by this ability take 2 fire damage at the start of each of their turns.
+**3 Malice:** Creatures and objects restrained by this ability take 2 fire damage at the start of each of their turns.
 
 **Lost in the Crowd**
 
-If the venator is adjacent to an ally, they can use the [[Hide|hide]] maneuver, even if observed.
+If the venator is adjacent to an ally, they can use the hide maneuver, even if observed.
 
 **Not What I Seem**
 

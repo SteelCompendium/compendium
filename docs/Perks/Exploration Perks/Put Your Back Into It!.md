@@ -9,4 +9,4 @@ subtype: exploration perks
 
 # Put Your Back Into It!
 
-Once per montage test, you can turn an ally's tier 1 test result into a tier 2 result. Additionally, if you make a test to assist a test and get a tier 1 result, you don't add a bane to the assisted test.
+Once per montage test, you can turn an ally's tier 1 test result into a tier 2 result. Additionally, if you make a test to assist a test and a get a tier 1 result, you don't add a bane to the assisted test.

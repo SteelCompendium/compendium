@@ -10,4 +10,4 @@ kind: 2nd-level features
 
 # Judge Of Character
 
-You can use Presence instead of Intuition for Intuition tests.
+Your focus on your fragmentary visions to gain divine insight on creatures and the world beyond your normal senses. Whenever you would make an Intuition test, you can make a Presence test instead.

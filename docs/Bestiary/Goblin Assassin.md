@@ -5,7 +5,7 @@
 | *Goblin, Humanoid*   |                  **EV 11** |
 | **Stamina**: 20      |              **Weakness**: |
 | **Speed**: 6 (climb) | **Size**: 1S / Stability 0 |
-|                      |     **[[Free Strike]]**: 3 |
+|                      |         **Free Strike**: 3 |
 
 | **Might** -2 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** -2 |
 | ------------ | -------------- | ------------ | --------------- | --------------- |
@@ -35,14 +35,14 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 3 corruption damage; A1 [[Restrained|restrained]] (save ends)
-- ★ 12-16: 5 corruption damage; A2 [[Restrained|restrained]] (save ends)
-- ✸ 17+: 7 corruption damage; A3 [[Restrained|restrained]] (save ends)
+- ✦ ≤11: 3 corruption damage; A1 restrained (save ends)
+- ★ 12-16: 5 corruption damage; A2 restrained (save ends)
+- ✸ 17+: 7 corruption damage; A3 restrained (save ends)
 
 **Crafty**
 
 The assassin doesn't provoke opportunity attacks by moving.
 
-**[[Hide]] While Observed**
+**Hide While Observed**
 
-The assassin can take the [[Hide]] maneuver even while observed, though they still must have cover or concealment.
+The assassin can take the Hide maneuver even while observed, though they still must have cover or concealment.

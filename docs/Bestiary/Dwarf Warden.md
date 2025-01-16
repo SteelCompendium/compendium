@@ -1,11 +1,11 @@
 ### DWARF WARDEN
 
-| [[Dwarf\|DWARF]] [[Warden\|WARDEN]] |          **Level 2 Brute** |
-| :---------------------------------- | -------------------------: |
-| *[[Dwarf]], Humanoid*               |                  **EV 18** |
-| **Stamina**: 53                     |              **Weakness**: |
-| **Speed**: 5                        | **Size**: 1M / Stability 3 |
-|                                     |     **[[Free Strike]]**: 5 |
+| DWARF WARDEN      |          **Level 2 Brute** |
+| :---------------- | -------------------------: |
+| *Dwarf, Humanoid* |                  **EV 18** |
+| **Stamina**: 53   |              **Weakness**: |
+| **Speed**: 5      | **Size**: 1M / Stability 3 |
+|                   |         **Free Strike**: 5 |
 
 | **Might** +2 | **Agility** 0 | **Reason** 0 | **Intuition** +1 | **Presence** 0 |
 | ------------ | ------------- | ------------ | ---------------- | -------------- |
@@ -20,11 +20,11 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 5 damage; push 1; M1 [[Slowed|slowed]] (save ends)
-- ★ 12-16: 8 damage; push 3; M2 [[Slowed|slowed]] (save ends)
-- ✸ 17+: 11 damage; push 5; M3 [[Restrained|restrained]] (save ends)
+- ✦ ≤11: 5 damage; push 1; M1 slowed (save ends)
+- ★ 12-16: 8 damage; push 3; M2 slowed (save ends)
+- ✸ 17+: 11 damage; push 5; M3 restrained (save ends)
 
-**Effect:** A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack.
+**Effect:** A target restrained by a dwarf can be pushed by this attack.
 
 #### Concussive Shockwave (5 Malice)
 
@@ -35,12 +35,12 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 2 damage; push 2; A1 [[Slowed|slowed]] (save ends)
-- ★ 12-16: 4 damage; push 4; A2 [[Slowed|slowed]] (save ends)
-- ✸ 17+: 5 damage; push 6; A3 [[Dazed|dazed]] (save ends)
+- ✦ ≤11: 2 damage; push 2; A1 slowed (save ends)
+- ★ 12-16: 4 damage; push 4; A2 slowed (save ends)
+- ✸ 17+: 5 damage; push 6; A3 dazed (save ends)
 
-**Effect:** A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this ability.
+**Effect:** A target restrained by a dwarf can be pushed by this ability.
 
 **Escort the Prisoners**
 
-Whenever the [[Warden|warden]] moves, they can carry an adjacent [[Restrained|restrained]] enemy as if they were [[Grabbed|grabbed]].
+Whenever the warden moves, they can carry an adjacent restrained enemy as if they were grabbed.

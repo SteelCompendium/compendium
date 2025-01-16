@@ -9,4 +9,4 @@ subtype: supernatural perks
 
 # Creature Sense
 
-As a maneuver, you can magically learn the keywords a creature has in its stat block (e.g., “Demon,” “Humanoid,” or “Undead”). If the creature has the Lie skill, you learn only that they have the Lie skill.
+As a maneuver, you can magically learn the keywords a creature of lower level within 10 squares of you has in their stat block (e.g. "Demon," "Humanoid," or "Undead").

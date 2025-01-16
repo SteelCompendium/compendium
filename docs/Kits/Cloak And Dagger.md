@@ -4,15 +4,12 @@ title: Cloak And Dagger
 name_raw: Cloak And Dagger
 name: Cloak And Dagger
 type: kits
-keywords: Attack, Melee, Ranged, Weapon
+keywords: Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or ranged 10 **Target:** 1 creature
 keyword_list:
-  - Attack
   - Melee
   - Ranged
-  - Weapon
-ability_type: Action
-distance: Melee 1 or range 10
-target: 1 creature
+  - Strike
+  - Weapon **Type:** Action **Distance:** Melee 1 or ranged 10 **Target:** 1 creature
 ---
 
 # Cloak And Dagger
@@ -25,26 +22,24 @@ You wear light armor and wield one or two light weapons.
 
 ## Kit Bonuses
 
-- Stamina Bonus: +3
-- Speed Bonus: +2
-- Melee Damage Bonus: +1/+1/+1
-- Ranged Damage Bonus: +1/+1/+1
-- Ranged Distance Bonus: +5
-- [[Disengage]] Bonus: +1
+- **Stamina Bonus:** +3 per echelon
+- **Speed Bonus:** +2
+- **Melee Damage Bonus:** +1/+1/+1
+- **Ranged Damage Bonus:** +1/+1/+1
+- **Ranged Distance Bonus:** +5
+- **Disengage Bonus:** +1
 
-## Signature Ability
+## Fade
 
-### Fade
+*A stab, and a few quick, careful steps back.*
 
-A stab, and a few quick, careful steps back.
-
-|                                             |                        |
-| :------------------------------------------ | :--------------------- |
-| **Keywords:** Attack, Melee, Ranged, Weapon | **Type:** Action       |
-| **Distance:** Melee 1 or range 10           | **Target:** 1 creature |
+|                                                                                                                        |             |
+| :--------------------------------------------------------------------------------------------------------------------- | :---------- |
+| **Keywords:** Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or ranged 10 **Target:** 1 creature | **Type:**   |
+| **Distance:**                                                                                                          | **Target:** |
 
 **Power Roll + Might or Agility:**
 
-- **11 or lower:** 3 damage; you shift 1 square
-- **12-16:** 4 damage; you shift up to 2 squares
-- **17+:** 6 damage; you shift up to 3 squares
+- *11 or lower:* 3 **+ M or A damage; you shift 1 square**
+- *12-16:* 6 **+ M or A damage; you shift up to 2 squares**
+- *17+:* 8 **+ M or A damage; you shift up to 3 squares**

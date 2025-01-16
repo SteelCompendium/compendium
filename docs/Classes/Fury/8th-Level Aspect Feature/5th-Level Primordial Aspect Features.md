@@ -1,0 +1,17 @@
+---
+title_raw: '**5th-level Primordial Aspect Features**'
+title: '**5th-Level Primordial Aspect Features**'
+name_raw: '**5th-level Primordial Aspect Features**'
+name: '**5th-Level Primordial Aspect Features**'
+type: classes
+subtype: fury
+kind: 8th-level aspect feature
+---
+
+# **5th-level Primordial Aspect Features**
+
+| Aspect     | Feature            |
+| ---------- | ------------------ |
+| Berserker  | Strongest There Is |
+| Reaver     | A Step Ahead       |
+| Stormwight | Menagerie          |

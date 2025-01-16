@@ -10,4 +10,4 @@ kind: 3rd-level features
 
 # Look On My Work And Despair
 
-Whenever you reduce a judged creature to 0 Stamina and judge a new target as a free triggered action, that new target is P \[average\] frightened (save ends) of you. If the target is already frightened of you, they take `⚡⚡` psychic damage.
+Your judgment has grown in divine power, manifesting your deity's ire against blasphemers, causing them to fear your actions, especially when their allies are smited. Whenever you judge a creature you can spend 1 wrath to channel your divine power to make them afraid. If the target has P \< average, they are frightened of you (save ends). Whenever a creature judged by you to is reduced to 0 Stamina and you judge a new target as a free triggered action, if that new target has P \< strong, they are frightened of you (save ends). If the target is already frightened of you, they take damage equal to twice your Presence score instead.

@@ -12,10 +12,8 @@ kind: 2nd-level features
 
 As a 2nd-level fury, you gain the following features.
 
-[EXTRA SURGE](./Extra%20Surge.md)
-
 [2ND-LEVEL ASPECT FEATURE](./2nd-Level%20Aspect%20Feature/2nd-Level%20Aspect%20Feature.md)
 
-[PERK](./Perk.md)
+[UNSTOPPABLE FORCE](./Unstoppable%20Force.md)
 
-[2ND-LEVEL ASPECT ABILITY](./2nd-Level%20Aspect%20Ability/2nd-Level%20Aspect%20Ability.md)
+[PERK](./Perk.md)

@@ -5,7 +5,7 @@
 | *Humanoid, Kobold* |                  **EV 20** |
 | **Stamina**: 50    |              **Weakness**: |
 | **Speed**: 5       | **Size**: 1S / Stability 2 |
-|                    |     **[[Free Strike]]**: 4 |
+|                    |         **Free Strike**: 4 |
 
 | **Might** +2 | **Agility** +3 | **Reason** +2 | **Intuition** 0 | **Presence** +2 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |
@@ -20,19 +20,19 @@
 
 **2d10 + 3**
 
-- ✦ ≤11: 2 damage; 2 [[Weakened|weakened]] (save ends)
-- ★ 12-16: 5 damage; 3 [[Weakened|weakened]] (save ends)
-- ✸ 17+: 6 damage; 4 [[Weakened|weakened]] (save ends)
+- ✦ ≤11: 2 damage; 2 weakened (save ends)
+- ★ 12-16: 5 damage; 3 weakened (save ends)
+- ✸ 17+: 6 damage; 4 weakened (save ends)
 
-**Effect:** Any allies adjacent to a target of this attack can make a [[Free Strike|free strike]].
+**Effect:** Any allies adjacent to a target of this attack can make a free strike.
 
-**3 Malice:** Targets [[Weakened|weakened]] by this attack are now [[Restrained|restrained]] while they are [[Weakened|weakened]].
+**3 Malice:** Targets weakened by this attack are now restrained while they are weakened.
 
 #### Concentrate All Fire on That Hero!
 
 |                     |                   |
 | :------------------ | :---------------- |
-| Keywords: -         | Type: Maneuver    |
+| Keywords: --        | Type: Maneuver    |
 | Distance: Ranged 10 | Target: One enemy |
 
 **Effect:** The target is marked until the start of the centurion's next turn. The centurion and each of their allies gain an edge and advantage on attacks against targets marked by the centurion.
@@ -57,7 +57,7 @@ Trigger: A creature attacks the centurion or an ally.
 | Keywords: Area, Weapon         | Type: Villain Action 1 |
 | Distance: 1 × 10 line within 1 | Target: All enemies    |
 
-**Effect:** The centurion makes a pilum attack against each target with advantage. Targets take 2 fire damage at the start of each of their turns while [[Weakened|weakened]].
+**Effect:** The centurion makes a pilum attack against each target with advantage. Targets take 2 fire damage at the start of each of their turns while weakened.
 
 #### Boom Pilum!
 
@@ -75,7 +75,7 @@ Trigger: A creature attacks the centurion or an ally.
 | Keywords: Attack, Ranged, Weapon | Type: Villain Action 3           |
 | Distance: 10 burst               | Target: All enemies in the burst |
 
-**Effect:** Each target is [[Taunted|taunted]] (3, save ends). For the rest of the encounter, the centurion has Weapon immunity 5. All allies within 10 of the centurion can make a [[Free Strike|free strike]].
+**Effect:** Each target is taunted (3, save ends). For the rest of the encounter, the centurion has Weapon immunity 5. All allies within 10 of the centurion can make a free strike.
 
 **End Effect**
 

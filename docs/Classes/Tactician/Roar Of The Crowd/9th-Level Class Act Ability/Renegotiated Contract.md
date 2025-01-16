@@ -1,0 +1,32 @@
+---
+title_raw: Renegotiated Contract (11 Drama)
+title: Renegotiated Contract (11 Drama)
+name_raw: Renegotiated Contract
+name: Renegotiated Contract
+cost: 11 Drama
+type: classes
+subtype: tactician
+kind: roar of the crowd
+keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
+---
+
+# Renegotiated Contract (11 Drama)
+
+*No, no. You don't die until the sequel.*
+
+|                                                                                                   |             |
+| :------------------------------------------------------------------------------------------------ | :---------- |
+| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature | **Type:**   |
+| **Distance:**                                                                                     | **Target:** |
+
+**Effect:** You add your current Stamina to your target's current Stamina and divide the total evenly between the two of you. Then, roll power.
+
+**Power Roll + Presence:**
+
+- *11 or lower:* **You and the target end all EoT and save ends effects affecting either of you**
+- *12-16:* **You and the target end all EoT and save ends effects affecting either of you**
+- *17+:* **You choose any of the current EoT and save ends effects affecting either of you, apply them to the target, and end the rest.**

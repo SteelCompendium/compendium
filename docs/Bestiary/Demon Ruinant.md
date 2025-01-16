@@ -5,7 +5,7 @@
 | *Demon, Planar* |                  **EV 10** |
 | **Stamina**: 20 |       **Weakness**: Holy 3 |
 | **Speed**: 6    | **Size**: 1M / Stability 0 |
-|                 |     **[[Free Strike]]**: 2 |
+|                 |         **Free Strike**: 2 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |
@@ -21,8 +21,8 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12-16: 5 damage; M1 [[Bleeding|bleeding]] (save ends)
-- ✸ 17+: 6 damage; M2 [[Bleeding|bleeding]] (save ends)
+- ★ 12-16: 5 damage; M1 bleeding (save ends)
+- ✸ 17+: 6 damage; M2 bleeding (save ends)
 
 #### Salt Wounds (3 Malice)
 

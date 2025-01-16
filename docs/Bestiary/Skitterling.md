@@ -1,11 +1,11 @@
 ### SKITTERLING
 
-| SKITTERLING                 |   **Level 1 Hexer Minion** |
-| :-------------------------- | -------------------------: |
-| *Animal, Goblin*            |                   **EV 3** |
-| **Stamina**: 5              |              **Weakness**: |
-| **Speed**: 5 ([[Fly\|fly]]) | **Size**: 1T / Stability 0 |
-|                             |     **[[Free Strike]]**: 2 |
+| SKITTERLING        |   **Level 1 Hexer Minion** |
+| :----------------- | -------------------------: |
+| *Animal, Goblin*   |                   **EV 3** |
+| **Stamina**: 5     |              **Weakness**: |
+| **Speed**: 5 (fly) | **Size**: 1T / Stability 0 |
+|                    |         **Free Strike**: 2 |
 
 | **Might** -5 | **Agility** +2 | **Reason** -4 | **Intuition** 0 | **Presence** -2 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |

@@ -10,12 +10,16 @@ kind: 2nd-level features
 
 # 2nd-level Aspect Feature
 
-Your specialization grants you features as shown on the 1st-level Primordial Aspect Features table.
+Your primordial aspect grants you a feature as shown on the 2nd-Level Aspect Features table.
 
-[2ND-LEVEL PRIMORDIAL ASPECT FEATURES](./2nd-Level%20Primordial%20Aspect%20Features.md)
+## **2nd-level Aspect Features**
+
+| Aspect     | Feature           |
+| ---------- | ----------------- |
+| Berserker  | Unstoppable Force |
+| Reaver     | Inescapable Wrath |
+| Stormwight | Tooth and Claw    |
 
 [INESCAPABLE WRATH](./Inescapable%20Wrath.md)
 
 [TOOTH AND CLAW](./Tooth%20And%20Claw.md)
-
-[UNSTOPPABLE FORCE](./Unstoppable%20Force.md)

@@ -1,14 +1,14 @@
 ---
-title_raw: 1st-level Censor Domain Features
-title: 1st-Level Censor Domain Features
-name_raw: 1st-level Censor Domain Features
-name: 1st-Level Censor Domain Features
+title_raw: '**1st-level Censor Domain Features**'
+title: '**1st-Level Censor Domain Features**'
+name_raw: '**1st-level Censor Domain Features**'
+name: '**1st-Level Censor Domain Features**'
 type: classes
 subtype: censor
 kind: 1st-level features
 ---
 
-# 1st-level Censor Domain Features
+# **1st-level Censor Domain Features**
 
 | Domain     | Feature                       | Skill         |
 | ---------- | ----------------------------- | ------------- |

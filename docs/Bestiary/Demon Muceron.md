@@ -5,7 +5,7 @@
 | *Demon, Planar* |                  **EV 18** |
 | **Stamina**: 45 |       **Weakness**: Holy 3 |
 | **Speed**: 5    | **Size**: 1M / Stability 0 |
-|                 |     **[[Free Strike]]**: 5 |
+|                 |         **Free Strike**: 5 |
 
 | **Might** +2 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ------------ | -------------- | ------------ | --------------- | --------------- |
@@ -24,7 +24,7 @@
 - ★ 12-16: 8 damage; pull 3
 - ✸ 17+: 11 damage; pull 4
 
-**Effect:** [[Taunted]] (EoT).
+**Effect:** Taunted (EoT).
 
 #### Tongue Pull (2 Malice)
 

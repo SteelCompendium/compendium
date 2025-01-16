@@ -8,9 +8,7 @@ type: titles
 
 # Elemental Dabbler
 
-“Spirit of fire, I command you!”
-
-**Prerequisites:** You defeat a monster with the Elemental keyword, such as a crux of fire.
+*"Spirit of fire, I command you!"* **Prerequisites:** You defeat a monster with the Elemental keyword, such as an crux of fire.
 
 Choose a damage type to which the defeated monster had an immunity (such as fire). Then choose one of the following benefits:
 

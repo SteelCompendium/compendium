@@ -5,7 +5,7 @@
 | *Humanoid, Lizardfolk* |                    **EV 7** |
 | **Stamina**: 12        |               **Weakness**: |
 | **Speed**: 5 (swim)    |  **Size**: 1L / Stability 1 |
-|                        |      **[[Free Strike]]**: 2 |
+|                        |          **Free Strike**: 2 |
 
 | **Might** +2 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ------------ | -------------- | ------------ | --------------- | -------------- |
@@ -28,4 +28,4 @@
 
 **Reptilian Escape**
 
-While the shellguard still has a tail, whenever the shellguard is [[Grabbed|grabbed]], [[Slowed|slowed]], [[Weakened|weakened]], or knocked [[Prone|prone]], the shellguard can lose their tail to immediately end the effect and shift 2.
+While the shellguard still has a tail, whenever the shellguard is grabbed, slowed, weakened, or knocked prone, the shellguard can lose their tail to immediately end the effect and shift 2.

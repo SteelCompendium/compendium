@@ -5,7 +5,7 @@
 | *Goblin, Humanoid*   |                  **EV 24** |
 | **Stamina**: 50      |              **Weakness**: |
 | **Speed**: 6 (climb) | **Size**: 1S / Stability 1 |
-|                      |     **[[Free Strike]]**: 3 |
+|                      |         **Free Strike**: 3 |
 
 | **Might** +3 | **Agility** +2 | **Reason** -4 | **Intuition** 0 | **Presence** -3 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |
@@ -24,13 +24,13 @@
 - ★ 12-16: 5 damage
 - ✸ 17+: 7 damage
 
-**Effect:** An ally within 10 of the monarch can make a [[Free Strike|free strike]].
+**Effect:** An ally within 10 of the monarch can make a free strike.
 
 #### Get in Here! (1 Malice)
 
 |                     |                 |
 | :------------------ | :-------------- |
-| Keywords: -         | Type: Maneuver  |
+| Keywords: --        | Type: Maneuver  |
 | Distance: Ranged 20 | Target: Special |
 
 **Effect:** Two [[Goblin Runner|goblin runners]] appear in unoccupied spaces.
@@ -39,7 +39,7 @@
 
 |                   |                        |
 | :---------------- | :--------------------- |
-| Keywords: -       | Type: Triggered Action |
+| Keywords: --      | Type: Triggered Action |
 | Distance: Melee 1 | Target: One ally       |
 
 Trigger: A creature targets the monarch with an attack.
@@ -53,13 +53,13 @@ Trigger: A creature targets the monarch with an attack.
 | Keywords: Area     | Type: Villain Action 1 |
 | Distance: 10 burst | Target: Each ally      |
 
-**Effect:** Each target can move up to their speed or make a [[Free Strike|free strike]].
+**Effect:** Each target can move up to their speed or make a free strike.
 
 #### Focus Fire
 
 |                     |                        |
 | :------------------ | :--------------------- |
-| Keywords: -         | Type: Villain Action 2 |
+| Keywords: --        | Type: Villain Action 2 |
 | Distance: Ranged 10 | Target: One enemy      |
 
 **Effect:** Each ally within 10 squares of the enemy can move up to their speed toward the enemy.
@@ -71,7 +71,7 @@ Trigger: A creature targets the monarch with an attack.
 | Keywords: Area     | Type: Villain Action 3          |
 | Distance: 10 burst | Target: All allies in the burst |
 
-**Effect:** Each target can make a [[Free Strike|free strike]] with edge.
+**Effect:** Each target can make a free strike with edge.
 
 **End Effect**
 

@@ -10,4 +10,4 @@ kind: 2nd-level features
 
 # Perk
 
-You gain a **crafting**, **lore**, or **supernatural** perk of your choice. See **Perks** for more information.
+You gain a crafting, lore, or supernatural perk of your choice. See Perks for more information.

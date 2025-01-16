@@ -5,7 +5,7 @@
 | *Fey, Humanoid, Wode Elf* |                   **EV 6** |
 | **Stamina**: 10           |              **Weakness**: |
 | **Speed**: 7              | **Size**: 1M / Stability 0 |
-|                           |     **[[Free Strike]]**: 2 |
+|                           |         **Free Strike**: 2 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |
@@ -30,4 +30,4 @@ A wode elf within 5 of the lookout can make a ranged attack as if occupying the 
 
 **Masking Glamor**
 
-The lookout immediately [[Hide|hides]] at the end of their turn while in cover or concealment, even if they are observed.
+The lookout immediately hides at the end of their turn while in cover or concealment, even if they are observed.

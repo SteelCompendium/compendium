@@ -1,11 +1,11 @@
 ### DWARF SHIELDWALL
 
-| [[Dwarf\|DWARF]] SHIELDWALL |       **Level 3 Defender** |
-| :-------------------------- | -------------------------: |
-| *[[Dwarf]], Humanoid*       |                  **EV 16** |
-| **Stamina**: 70             |              **Weakness**: |
-| **Speed**: 5                | **Size**: 1M / Stability 4 |
-|                             |     **[[Free Strike]]**: 5 |
+| DWARF SHIELDWALL  |       **Level 3 Defender** |
+| :---------------- | -------------------------: |
+| *Dwarf, Humanoid* |                  **EV 16** |
+| **Stamina**: 70   |              **Weakness**: |
+| **Speed**: 5      | **Size**: 1M / Stability 4 |
+|                   |         **Free Strike**: 5 |
 
 | **Might** +2 | **Agility** 0 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ------------ | ------------- | ------------ | --------------- | --------------- |
@@ -24,7 +24,7 @@
 - ★ 12-16: 8 damage; slide 1
 - ✸ 17+: 11 damage; slide 1
 
-**Effect:** The shieldwall can shift 1 to remain adjacent to the target. A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by this attack.
+**Effect:** The shieldwall can shift 1 to remain adjacent to the target. A target restrained by a dwarf can be slid by this attack.
 
 **3 Malice:** The shieldwall targets an additional creature or object.
 
@@ -32,7 +32,7 @@
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: -    | Type: Triggered Action |
+| Keywords: --   | Type: Triggered Action |
 | Distance: Self | Target: Self           |
 
 Trigger: A creature attacks an adjacent ally.
@@ -41,4 +41,4 @@ Trigger: A creature attacks an adjacent ally.
 
 **Call to the Wall**
 
-The shieldwall inflicts [[Taunted|taunted]] (EoT) on a creature whenever they deal damage to the shieldwall or take damage from the shieldwall.
+The shieldwall inflicts taunted (EoT) on a creature whenever they deal damage to the shieldwall or take damage from the shieldwall.

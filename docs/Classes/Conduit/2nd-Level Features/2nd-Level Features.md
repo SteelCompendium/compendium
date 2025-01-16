@@ -10,14 +10,8 @@ kind: 2nd-level features
 
 # 2nd-level Features
 
-As a 2nd-level conduit, you gain the following features.
-
-[EXTRA SHIELD](./Extra%20Shield.md)
-
-[THE LISTS OF HEAVEN](./The%20Lists%20Of%20Heaven.md)
-
-[2ND-LEVEL DOMAIN FEATURES](./2nd-Level%20Domain%20Features.md)
+As a 2nd-level elementalist, you gain the following features.
 
 [PERK](./Perk.md)
 
-[2ND-LEVEL DOMAIN ABILITIES](./2nd-Level%20Domain%20Abilities/2nd-Level%20Domain%20Abilities.md)
+[2ND-LEVEL SPECIALIZATION FEATURE](./2nd-Level%20Specialization%20Feature/2nd-Level%20Specialization%20Feature.md)

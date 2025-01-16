@@ -10,4 +10,4 @@ kind: 2nd-level features
 
 # Inescapable Wrath
 
-Your speed increases by your Agility score. You ignore difficult terrain.
+You have a bonus to speed equal to your Agility score, and you ignore difficult terrain.

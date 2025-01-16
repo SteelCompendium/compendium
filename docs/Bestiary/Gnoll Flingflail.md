@@ -5,7 +5,7 @@
 | *Fiend, Gnoll*   |                     **EV 5** |
 | **Stamina**: 8   |                **Weakness**: |
 | **Speed**: 5     |   **Size**: 1M / Stability 1 |
-|                  |       **[[Free Strike]]**: 2 |
+|                  |           **Free Strike**: 2 |
 
 | **Might** +2 | **Agility** 0 | **Reason** +1 | **Intuition** 0 | **Presence** -2 |
 | ------------ | ------------- | ------------- | --------------- | --------------- |
@@ -26,4 +26,4 @@
 
 **Death Frenzy**
 
-Whenever an ally within 5 is reduced to 0 Stamina, the flingflail archer moves up to their speed and makes a [[Free Strike|free strike]].
+Whenever an ally within 5 is reduced to 0 Stamina, the flingflail archer moves up to their speed and makes a free strike.

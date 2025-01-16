@@ -5,7 +5,7 @@
 | *Goblin, Humanoid*   |                   **EV 6** |
 | **Stamina**: 10      |              **Weakness**: |
 | **Speed**: 5 (climb) | **Size**: 1S / Stability 0 |
-|                      |     **[[Free Strike]]**: 2 |
+|                      |         **Free Strike**: 2 |
 
 | **Might** +2 | **Agility** 0 | **Reason** 0 | **Intuition** 0 | **Presence** -1 |
 | ------------ | ------------- | ------------ | --------------- | --------------- |

@@ -6,25 +6,22 @@ name: Hands Of The Maker
 type: classes
 subtype: censor
 kind: 1st-level features
-keywords: Magic
+keywords: Magic **Type:** Maneuver **Distance:** Self **Target:** Self
 keyword_list:
-  - Magic
-ability_type: Maneuver
-distance: Self
-target: Self
+  - Magic **Type:** Maneuver **Distance:** Self **Target:** Self
 ---
 
 # Hands Of The Maker
 
-You gain the following ability:
+You gain the following ability.
 
-## Hands Of The Maker
+HANDS OF THE MAKER
 
-**Craft objects with the power of your mind!**
+*You can craft objects with the power of your mind!*
 
-|                     |                    |
-| :------------------ | :----------------- |
-| **Keywords:** Magic | **Type:** Maneuver |
-| **Distance:** Self  | **Target:** Self   |
+|                                                                            |             |
+| :------------------------------------------------------------------------- | :---------- |
+| **Keywords:** Magic **Type:** Maneuver **Distance:** Self **Target:** Self | **Type:**   |
+| **Distance:**                                                              | **Target:** |
 
-**Effect:** You create a mundane object no larger than size 1S. You can maintain a number of objects created this way by you equal to your Presence score. You can destroy an object created this way by you with a thought, no matter how far you are from it (no action required).
+**Effect:** You create a mundane object no larger than size 1S. You can maintain a number of objects created this way equal to your Presence score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).

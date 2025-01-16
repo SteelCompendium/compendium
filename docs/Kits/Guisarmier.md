@@ -4,14 +4,11 @@ title: Guisarmier
 name_raw: Guisarmier
 name: Guisarmier
 type: kits
-keywords: Attack, Melee, Weapon
+keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 2 **Target:** 2 creatures or objects
 keyword_list:
-  - Attack
   - Melee
-  - Weapon
-ability_type: Action
-distance: Melee 2
-target: 2 creatures or objects
+  - Strike
+  - Weapon **Type:** Action **Distance:** Melee 2 **Target:** 2 creatures or objects
 ---
 
 # Guisarmier
@@ -24,24 +21,24 @@ You wear medium armor and wield a polearm.
 
 ## Kit Bonuses
 
-- Stamina Bonus: +6
-- Stability Bonus: +1
-- Melee Damage Bonus: +2/+2/+2
-- Melee Distance Bonus: +1
+- **Stamina Bonus:** +6 per echelon
+- **Stability Bonus:** +1
+- **Melee Damage Bonus:** +2/+2/+2
+- **Melee Distance Bonus:** +1
 
 ## Signature Ability
 
-### Forward Thrust, Backward Smash
+## Forward Thrust, Backward Smash
 
-In your hands, the haft is as good as the head.
+*In your hands, the haft is as good as the head.*
 
-|                                     |                                    |
-| :---------------------------------- | :--------------------------------- |
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action                   |
-| **Distance:** Melee 2               | **Target:** 2 creatures or objects |
+|                                                                                                               |             |
+| :------------------------------------------------------------------------------------------------------------ | :---------- |
+| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 2 **Target:** 2 creatures or objects | **Type:**   |
+| **Distance:**                                                                                                 | **Target:** |
 
 **Power Roll + Might or Agility:**
 
-- **11 or lower:** 4 damage
-- **12-16:** 5 damage
-- **17+:** 7 damage
+- *11 or lower:* **4 damage**
+- *12-16:* 7 **damage**
+- *17+:* 9 **damage**

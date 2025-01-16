@@ -13,5 +13,3 @@ kind: 3rd-level features
 As a 3rd-level conduit, you gain the following features.
 
 [MINOR MIRACLE](./Minor%20Miracle.md)
-
-[7-PIETY ABILITIES](./7-Piety%20Abilities/7-Piety%20Abilities.md)

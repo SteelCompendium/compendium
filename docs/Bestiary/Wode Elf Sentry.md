@@ -5,7 +5,7 @@
 | *Fey, Humanoid, Wode Elf* |                  **EV 13** |
 | **Stamina**: 30           |              **Weakness**: |
 | **Speed**: 7              | **Size**: 1M / Stability 0 |
-|                           |     **[[Free Strike]]**: 3 |
+|                           |         **Free Strike**: 3 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |
@@ -39,4 +39,4 @@
 
 **Masking Glamor**
 
-The sentry immediately [[Hide|hides]] at the end of their turn while in cover or concealment, even if they are observed.
+The sentry immediately hides at the end of their turn while in cover or concealment, even if they are observed.

@@ -4,14 +4,6 @@ title: Ranger
 name_raw: Ranger
 name: Ranger
 type: kits
-keywords: Attack, Ranged, Weapon
-keyword_list:
-  - Attack
-  - Ranged
-  - Weapon
-ability_type: Action
-distance: Ranged 10
-target: 1 creature
 ---
 
 # Ranger
@@ -24,26 +16,19 @@ You wear medium armor and wield a medium weapon and a bow.
 
 ## Kit Bonuses
 
-- Stamina Bonus: +6
-- Speed Bonus: +1
-- Melee Damage Bonus: +1/+1/+1
-- Ranged Damage Bonus: +1/+1/+1
-- Ranged Distance Bonus: +5
-- [[Disengage]] Bonus: +1
+- **Stamina Bonus:** +6 per echelon
+- **Speed Bonus:** +1
+- **Melee Damage Bonus:** +1/+1/+1
+- **Ranged Damage Bonus:** +1/+1/+1
+- **Ranged Distance Bonus:** +5
+- **Disengage Bonus:** +1
 
-## Signature Ability
+## Hamstring Shot
 
-### Hamstring Shot
-
-A well-placed shot leaves your enemy struggling to move.
-
-|                                      |                        |
-| :----------------------------------- | :--------------------- |
-| **Keywords:** Attack, Ranged, Weapon | **Type:** Action       |
-| **Distance:** Ranged 10              | **Target:** 1 creature |
+*A well-placed shot leaves your enemy struggling to move.* **Keywords:** Ranged, Strike, Weapon **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature
 
 **Power Roll + Might or Agility:**
 
-- **11 or lower:** 3 damage; A \[weak\] [[Slowed|slowed]] (save ends)
-- **12-16:** 4 damage; A \[average\] [[Slowed|slowed]] (save ends)
-- **17+:** 5 damage; A \[strong\] [[Slowed|slowed]] (save ends)
+- *11 or lower:* 3 **+ M or A damage; A \< \[weak\] slowed (save ends)**
+- *12-16:* 5 **+ M or A damage; A \< \[average\] slowed (save ends)**
+- *17+:* 7 **+ M or A damage; A \< \[strong\] slowed (save ends)**

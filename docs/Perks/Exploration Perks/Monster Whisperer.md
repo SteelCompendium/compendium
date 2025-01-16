@@ -9,4 +9,4 @@ subtype: exploration perks
 
 # Monster Whisperer
 
-You can use the Handle Animals skill to interact with non-sapient monsters who are not animals.
+You can use the Handle Animals skill to interact with nonsapient monsters who are not animals.

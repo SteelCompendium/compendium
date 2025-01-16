@@ -4,14 +4,11 @@ title: Dual Wielder
 name_raw: Dual Wielder
 name: Dual Wielder
 type: kits
-keywords: Attack, Melee, Weapon
+keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 2 creatures or objects
 keyword_list:
-  - Attack
   - Melee
-  - Weapon
-ability_type: Action
-distance: Melee 1
-target: 2 creatures or objects
+  - Strike
+  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** 2 creatures or objects
 ---
 
 # Dual Wielder
@@ -24,26 +21,24 @@ You wear medium armor and wield a light weapon and a medium weapon.
 
 ## Kit Bonuses
 
-- Stamina Bonus: +2
-- Speed Bonus: +2
-- Melee Damage Bonus: +2/+2/+2
-- [[Disengage]] Bonus: +1
+- **Stamina Bonus:** +6 per echelon
+- **Speed Bonus:** +2
+- **Melee Damage Bonus:** +2/+2/+2
+- **Disengage Bonus:** +1
 
 ## Signature Ability
 
-### Double Strike
+## Double Strike
 
-Why strike once when you could do it twice?
+*Why strike once when you could do it twice?*
 
-|                                     |                                    |
-| :---------------------------------- | :--------------------------------- |
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action                   |
-| **Distance:** Melee 1               | **Target:** 2 creatures or objects |
+|                                                                                                               |             |
+| :------------------------------------------------------------------------------------------------------------ | :---------- |
+| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 2 creatures or objects | **Type:**   |
+| **Distance:**                                                                                                 | **Target:** |
 
 **Power Roll + Might or Agility:**
 
-- **11 or lower:** 4 damage
-- **12-16:** 5 damage
-- **17+:** 6 damage
+*11 or lower:* **4 damage** *12-16:* 6 **damage** *17+:* 8 **damage**
 
 **Effect:** If you use this ability on your turn, you can target one creature or object with it then use your maneuver and move action for that turn before targeting a second creature or object. You still use the same power roll for both targets.

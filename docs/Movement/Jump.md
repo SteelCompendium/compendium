@@ -14,4 +14,4 @@ If you want to jump even farther than your initial jump allows, make a medium Mi
 
 The height of your jump is 1 square. If you move at least 2 squares in a straight line immediately before your jump, you can jump 1 square higher.
 
-You can't jump farther or higher than the distance of the effect that allows you to move. You can't jump out of difficult or [[Damaging Terrain|damaging terrain]].
+You can't jump farther or higher than the distance of the effect that allows you to move. You can't jump out of difficult or damaging terrain.

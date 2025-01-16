@@ -5,7 +5,7 @@
 | *Incorporeal, Undead* |                   **EV 9** |
 | **Stamina**: 15       |              **Weakness**: |
 | **Speed**: 7 (climb)  | **Size**: 1M / Stability 1 |
-|                       |     **[[Free Strike]]**: 2 |
+|                       |         **Free Strike**: 2 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |
@@ -46,6 +46,8 @@
 |           |                     |
 | :-------- | :------------------ |
 | Keywords: | Type: Free Maneuver |
+
+**Effect:** The umbral stalker teleports to an unoccupied space in concealment within 10 squares.
 
 **Corruptive Phasing**
 

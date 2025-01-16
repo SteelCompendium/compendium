@@ -1,11 +1,11 @@
 ### HUMAN GUARD
 
-| [[Human\|HUMAN]] GUARD |   **Level 1 Brute Minion** |
-| :--------------------- | -------------------------: |
-| *[[Human]], Humanoid*  |                   **EV 6** |
-| **Stamina**: 12        |              **Weakness**: |
-| **Speed**: 5           | **Size**: 1M / Stability 0 |
-|                        |     **[[Free Strike]]**: 2 |
+| HUMAN GUARD       |   **Level 1 Brute Minion** |
+| :---------------- | -------------------------: |
+| *Human, Humanoid* |                   **EV 6** |
+| **Stamina**: 12   |              **Weakness**: |
+| **Speed**: 5      | **Size**: 1M / Stability 0 |
+|                   |         **Free Strike**: 2 |
 
 | **Might** +2 | **Agility** 0 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ------------ | ------------- | ------------ | --------------- | -------------- |
@@ -24,7 +24,7 @@
 - ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
-**Effect:** If the guard is flanked, they can make a [[Free Strike|free strike]] against an additional target adjacent to them.
+**Effect:** If the guard is flanked, they can make a free strike against an additional target adjacent to them.
 
 **Supernatural Insight**
 

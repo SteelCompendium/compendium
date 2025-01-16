@@ -4,14 +4,11 @@ title: Shining Armor
 name_raw: Shining Armor
 name: Shining Armor
 type: kits
-keywords: Attack, Melee, Weapon
+keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
 keyword_list:
-  - Attack
   - Melee
-  - Weapon
-ability_type: Action
-distance: Melee 1
-target: 1 creature
+  - Strike
+  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
 ---
 
 # Shining Armor
@@ -24,25 +21,24 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 ## Kit Bonuses
 
-- Stamina Bonus: +12
-- Stability Bonus: +1
-- Melee Damage Bonus: +2/+2/+2
+- **Stamina Bonus:** +12 per echelon
+- **Stability Bonus:** +1
+- **Melee Damage Bonus:** +2/+2/+2
 
 ## Signature Ability
 
-### Protective Attack
+## Protective Attack
 
-The strength of your assault makes it impossible for your foe to ignore you.
+*The strength of your assault makes it impossible for your foe to ignore you.*
 
-|                                     |                        |
-| :---------------------------------- | :--------------------- |
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
-| **Distance:** Melee 1               | **Target:** 1 creature |
+|                                                                                                   |             |
+| :------------------------------------------------------------------------------------------------ | :---------- |
+| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature | **Type:**   |
+| **Distance:**                                                                                     | **Target:** |
 
-**Power Roll + Might or Agility:**
+- **Power Roll + Might or Agility:**
+- *11 or lower:* 5 **+ M or A damage**
+- *12-16:* 8 **+ M or A damage**
+- *17+:* 11 **+ M or A damage**
 
-- **11 or lower:** 4 damage
-- **12-16:** 7 damage
-- **17+:** 9 damage
-
-**Effect:** The target is [[Taunted|taunted]] (EoT).
+**Effect:** The target is taunted (EoT).

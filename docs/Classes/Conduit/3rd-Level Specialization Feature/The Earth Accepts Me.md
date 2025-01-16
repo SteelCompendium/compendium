@@ -1,0 +1,29 @@
+---
+title_raw: The Earth Accepts Me
+title: The Earth Accepts Me
+name_raw: The Earth Accepts Me
+name: The Earth Accepts Me
+type: classes
+subtype: conduit
+kind: 3rd-level specialization feature
+keywords: Earth, Magic **Type:** Action
+keyword_list:
+  - Earth
+  - Magic **Type:** Action
+distance: Self **Target:** Self
+---
+
+# The Earth Accepts Me
+
+You gain the following ability.
+
+THE EARTH ACCEPTS ME
+
+*You can slip into the stone.*
+
+|                                             |             |
+| :------------------------------------------ | :---------- |
+| **Keywords:** Earth, Magic **Type:** Action | **Type:**   |
+| **Distance:** Self **Target:** Self         | **Target:** |
+
+**Effect:** You step into a mundane dirt, metal, or stone object (including a wall) that is as large as you or larger. You can remain inside the object for as long as you like. While inside the object, you can observe events and speak to creatures outside of it, but you don't have line of effect to anything outside the object and vice versa. You can travel through the object freely until you exit it. If the object you meld with is destroyed, you take 10 damage and exit the object.

@@ -16,18 +16,16 @@ kind: basics
 - 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Intuition score - 1
+**Weak Potency:** Intuition - 2
 
-**Average Potency:** Intuition score
+**Average Potency:** Intuition - 1
 
-**Strong Potency:** Intuition score + 1
+**Strong Potency:** Intuition
 
 **Starting Stamina at 1st Level:** 21
 
-**Stamina Gained at 2nd and greater levels:** 9
+[Stamina Gained at 2nd and Higher Levels: 9](./Stamina%20Gained%20At%202nd%20And%20Higher%20Levels%209.md)
 
-**Recoveries:** 8
-
-**Skills:** You gain Psionics. Choose 2 from any interpersonal or lore skill.
+[Recoveries: 8](./Recoveries%208.md)
 
 [NULL ADVANCEMENT](./Null%20Advancement.md)

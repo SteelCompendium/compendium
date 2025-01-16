@@ -1,11 +1,11 @@
 ### DEMON REMASCH
 
-| DEMON REMASCH                         |       **Level 2 AMBUSHER** |
-| :------------------------------------ | -------------------------: |
-| *Demon, Planar*                       |                  **EV 13** |
-| **Stamina**: 25                       |       **Weakness**: Holy 3 |
-| **Speed**: 5 ([[Teleport\|teleport]]) | **Size**: 1S / Stability 0 |
-|                                       |     **[[Free Strike]]**: 4 |
+| DEMON REMASCH           |       **Level 2 AMBUSHER** |
+| :---------------------- | -------------------------: |
+| *Demon, Planar*         |                  **EV 13** |
+| **Stamina**: 25         |       **Weakness**: Holy 3 |
+| **Speed**: 5 (teleport) | **Size**: 1S / Stability 0 |
+|                         |         **Free Strike**: 4 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +2 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |
@@ -20,11 +20,11 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 4 damage; the remasch [[Teleport|teleports]] 2 squares
-- ★ 12-16: 7 damage; the remasch [[Teleport|teleports]] 3 squares
-- ✸ 17+: 10 damage; the remasch [[Teleport|teleports]] 5 squares
+- ✦ ≤11: 4 damage; the remasch teleports 2 squares
+- ★ 12-16: 7 damage; the remasch teleports 3 squares
+- ✸ 17+: 10 damage; the remasch teleports 5 squares
 
-**5 Malice:** The remasch takes an adjacent creature with them when they [[Teleport|teleport]]. The creature appears in an unoccupied space adjacent to the remasch's destination.
+**5 Malice:** The remasch takes an adjacent creature with them when they teleport. The creature appears in an unoccupied space adjacent to the remasch's destination.
 
 #### Grasping Shadow (3 Malice)
 
@@ -33,7 +33,7 @@
 | Keywords: Magic | Type: Maneuver |
 | Distance: Self  | Target: Self   |
 
-**Effect:** The remasch [[Teleport|teleports]] 2 squares and uses Abyssal Strike.
+**Effect:** The remasch teleports 2 squares and uses Abyssal Strike.
 
 **Lethe**
 

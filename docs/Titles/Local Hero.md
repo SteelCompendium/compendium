@@ -8,7 +8,7 @@ type: titles
 
 # Local Hero
 
-“Don't you dare open your coin purse. The Heroes of Briarwood drink for free in this tavern!”
+*"Your coin won't spend here. The Heroes of Gravesford drink for free in this tavern!"*
 
 **Prerequisite:** You save a community from certain destruction.
 

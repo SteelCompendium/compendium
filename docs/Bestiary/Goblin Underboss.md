@@ -5,7 +5,7 @@
 | *Goblin, Humanoid*   |                  **EV 10** |
 | **Stamina**: 20      |              **Weakness**: |
 | **Speed**: 5 (climb) | **Size**: 1S / Stability 0 |
-|                      |     **[[Free Strike]]**: 2 |
+|                      |         **Free Strike**: 2 |
 
 | **Might** -1 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ------------ | -------------- | ------------ | --------------- | --------------- |
@@ -24,7 +24,7 @@
 - ★ 12-16: 5 damage
 - ✸ 17+: 6 damage
 
-**Effect:** One ally adjacent to the target can make a [[Free Strike|free strike]] against them.
+**Effect:** One ally adjacent to the target can make a free strike against them.
 
 #### Get Reckless!
 

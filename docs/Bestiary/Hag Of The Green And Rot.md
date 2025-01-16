@@ -5,7 +5,7 @@
 | *Fey, Hag*                   |                  **EV 88** |
 | **Stamina**: 240             |              **Weakness**: |
 | **Speed**: 5 (flying, hover) | **Size**: 1L / Stability 1 |
-|                              |     **[[Free Strike]]**: 6 |
+|                              |         **Free Strike**: 6 |
 
 | **Might** +2 | **Agility** +1 | **Reason** +1 | **Intuition** 0 | **Presence** +3 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |
@@ -20,11 +20,11 @@
 
 **2d10 + 3**
 
-- ✦ ≤11: 6 corruption damage; A2 [[Weakened|weakened]] (save ends)
-- ★ 12-16: 10 corruption damage; A3 [[Weakened|weakened]] (save ends)
-- ✸ 17+: 13 corruption damage; A4 [[Weakened|weakened]] (save ends)
+- ✦ ≤11: 6 corruption damage; A2 weakened (save ends)
+- ★ 12-16: 10 corruption damage; A3 weakened (save ends)
+- ✸ 17+: 13 corruption damage; A4 weakened (save ends)
 
-**Effect:** A creature [[Weakened|weakened]] by this ability takes 1d6 corruption damage at the start of each of their turns until the condition ends.
+**Effect:** A creature weakened by this ability takes 1d6 corruption damage at the start of each of their turns until the condition ends.
 
 #### Soul Steal
 
@@ -63,11 +63,11 @@ Trigger: A creature hits Shtriga Nona with a melee attack.
 
 **REA RR**
 
-- ✦ ≤11: Vertical slide 5; [[Restrained|restrained]] (EoT)
-- ★ 12-16: Slide 3; [[Slowed|slowed]] (EoT)
+- ✦ ≤11: Vertical slide 5; restrained (EoT)
+- ★ 12-16: Slide 3; slowed (EoT)
 - ✸ 17+: Slide 2
 
-**Effect:** A creature [[Restrained|restrained]] by this ability that is force moved vertically is suspended in midair until the condition ends.
+**Effect:** A creature restrained by this ability that is force moved vertically is suspended in midair until the condition ends.
 
 #### Snackies for Sweeties
 
@@ -78,9 +78,9 @@ Trigger: A creature hits Shtriga Nona with a melee attack.
 
 **2d10 + 3**
 
-- ✦ ≤11: 4 poison damage; A2 [[Bleeding|bleeding]] (save ends)
-- ★ 12-16: 6 poison damage; A3 [[Bleeding|bleeding]] (save ends)
-- ✸ 17+: 4 poison damage; A4 [[Bleeding|bleeding]] (save ends)
+- ✦ ≤11: 4 poison damage; A2 bleeding (save ends)
+- ★ 12-16: 6 poison damage; A3 bleeding (save ends)
+- ✸ 17+: 4 poison damage; A4 bleeding (save ends)
 
 **Effect:** The hag attaches an ornate explosive pastry to each target. Roll power at the end of the round, targeting each creature with a pastry attached to them and all creatures and objects within 2 of each pastry.
 
@@ -104,15 +104,15 @@ Trigger: A creature hits Shtriga Nona with a melee attack.
 
 **2d10 + 3**
 
-- ✦ ≤11: 6 fire damage; A2 [[Weakened|weakened]] (save ends)
-- ★ 12-16: 10 fire damage; A3 [[Weakened|weakened]] (save ends)
-- ✸ 17+: 13 fire damage; A4 [[Weakened|weakened]] (save ends)
+- ✦ ≤11: 6 fire damage; A2 weakened (save ends)
+- ★ 12-16: 10 fire damage; A3 weakened (save ends)
+- ✸ 17+: 13 fire damage; A4 weakened (save ends)
 
 **Effect:** The hag turns the affected area into a roiling oven. The hag gains one edge on attacks and abilities against a creature each time they enter an affected square or start their turn there.
 
 **Solo Monster**
 
-The hag takes 2 turns each round, using two actions on each turn, and can act after an enemy's turn of their choice. While [[Dazed|dazed]], the hag can take one action and one maneuver per turn.
+The hag takes 2 turns each round, using two actions on each turn, and can act after an enemy's turn of their choice. While dazed, the hag can take one action and one maneuver per turn.
 
 **End Effect**
 

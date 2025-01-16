@@ -5,7 +5,7 @@
 | *Humanoid, Lizardfolk* |                   **EV 6** |
 | **Stamina**: 10        |              **Weakness**: |
 | **Speed**: 6 (swim)    | **Size**: 1M / Stability 0 |
-|                        |     **[[Free Strike]]**: 2 |
+|                        |         **Free Strike**: 2 |
 
 | **Might** +1 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ------------ | -------------- | ------------ | --------------- | -------------- |
@@ -26,4 +26,4 @@
 
 **Reptilian Escape**
 
-While the grunt still has a tail, whenever the grunt is [[Grabbed|grabbed]], [[Slowed|slowed]], [[Weakened|weakened]], or knocked [[Prone|prone]], the grunt can lose their tail to immediately end the effect and shift 2.
+While the grunt still has a tail, whenever the grunt is grabbed, slowed, weakened, or knocked prone, the grunt can lose their tail to immediately end the effect and shift 2.

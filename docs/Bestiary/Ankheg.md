@@ -1,11 +1,11 @@
 ### ANKHEG
 
-| ANKHEG                            |          **Level 1 SOLO** |
-| :-------------------------------- | ------------------------: |
-| *Monster*                         |                 **EV 60** |
-| **Stamina**: 120                  |             **Weakness**: |
-| **Speed**: 5 ([[Burrow\|burrow]]) | **Size**: 2 / Stability 2 |
-|                                   |    **[[Free Strike]]**: 5 |
+| ANKHEG                |          **Level 1 SOLO** |
+| :-------------------- | ------------------------: |
+| *Monster*             |                 **EV 60** |
+| **Stamina**: 120      |             **Weakness**: |
+| **Speed**: 5 (burrow) | **Size**: 2 / Stability 2 |
+|                       |        **Free Strike**: 5 |
 
 | **Might** +3 | **Agility** +1 | **Reason** -3 | **Intuition** +1 | **Presence** -4 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -21,10 +21,10 @@
 **2d10 + 3**
 
 - ✦ ≤11: 5 damage
-- ★ 12-16: 8 damage; [[Grabbed|grabbed]]
-- ✸ 17+: 11 damage; [[Grabbed|grabbed]]
+- ★ 12-16: 8 damage; grabbed
+- ✸ 17+: 11 damage; grabbed
 
-**Effect:** A size 1 target [[Grabbed|grabbed]] this way takes 8 acid damage at the start of each of their turns.
+**Effect:** A size 1 target grabbed this way takes 8 acid damage at the start of each of their turns.
 
 #### Claws
 
@@ -35,9 +35,9 @@
 
 **2d10 + 3**
 
-- ✦ ≤11: 2 damage; A2 [[Grabbed|grabbed]]
-- ★ 12-16: 4 damage; A3 [[Grabbed|grabbed]]
-- ✸ 17+: 5 damage; A4 [[Grabbed|grabbed]]
+- ✦ ≤11: 2 damage; A2 grabbed
+- ★ 12-16: 4 damage; A3 grabbed
+- ✸ 17+: 5 damage; A4 grabbed
 
 **2 Malice:** The ankheg can vertical slide one or both targets up to 5 squares.
 
@@ -54,7 +54,7 @@
 - ★ 12-16: 6 damage
 - ✸ 17+: 7 damage; push 2
 
-**Effect:** The ankheg [[Burrow|burrows]] up to their speed, then creates the burst when they breach the surface.
+**Effect:** The ankheg burrows up to their speed, then creates the burst when they breach the surface.
 
 #### Dust Cloud
 
@@ -63,13 +63,13 @@
 | Keywords: Area    | Type: Maneuver  |
 | Distance: 1 burst | Target: Special |
 
-**Effect:** The ground around the ankheg becomes [[Difficult Terrain|difficult terrain]]. While the ankheg remains in their current space, they have concealment until the start of their next turn.
+**Effect:** The ground around the ankheg becomes difficult terrain. While the ankheg remains in their current space, they have concealment until the start of their next turn.
 
 #### Skitter
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: -    | Type: Triggered Action |
+| Keywords: --   | Type: Triggered Action |
 | Distance: Self | Target: Self           |
 
 Trigger: A creature damages the ankheg
@@ -95,7 +95,7 @@ Trigger: A creature damages the ankheg
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: -    | Type: Villain Action 2 |
+| Keywords: --   | Type: Villain Action 2 |
 | Distance: Self | Target: Self           |
 
 **Effect:** The ankheg shifts up to their speed by burrowing. If the ankheg ends this move underground and within 2 squares of a creature on the surface, the ankheg makes a Bite attack against the creature.
@@ -109,22 +109,22 @@ Trigger: A creature damages the ankheg
 
 **2d10 + 3**
 
-- ✦ ≤11: 5 acid damage; M2 [[Bleeding|bleeding]] (save ends)
-- ★ 12-16: 7 acid damage; M3 [[Bleeding|bleeding]] (save ends)
-- ✸ 17+: 10 acid damage; M4 [[Bleeding|bleeding]] (save ends)
+- ✦ ≤11: 5 acid damage; M2 bleeding (save ends)
+- ★ 12-16: 7 acid damage; M3 bleeding (save ends)
+- ✸ 17+: 10 acid damage; M4 bleeding (save ends)
 
 **Solo Monster**
 
-- **Solo Turns**: The ankheg takes two turns each round. They can use two actions on each of their turns, and can take each turn after any enemy's turn. While [[Dazed|dazed]], the ankheg can take one action and one maneuver per turn. - **End Effect**: At the end of their turn, the ankheg can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
+- **Solo Turns**: The ankheg takes two turns each round. They can use two actions on each of their turns, and can take each turn after any enemy's turn. While dazed, the ankheg can take one action and one maneuver per turn. - **End Effect**: At the end of their turn, the ankheg can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
 
 **Soft Underbelly**
 
-A [[Prone|prone]] creature gains an edge on melee attacks against the ankheg instead of taking a bane.
+A prone creature gains an edge on melee attacks against the ankheg instead of taking a bane.
 
 **Earthwalk**
 
-[[Difficult Terrain|Difficult terrain]] composed of earth or loose rock doesn't cost the ankheg extra movement.
+Difficult terrain composed of earth or loose rock doesn't cost the ankheg extra movement.
 
 **Tunneler**
 
-When the ankheg [[Burrow|burrows]], they create a size 2 tunnel. The tunnel remains stable for one day, then collapses.
+When the ankheg burrows, they create a size 2 tunnel. The tunnel remains stable for one day, then collapses.

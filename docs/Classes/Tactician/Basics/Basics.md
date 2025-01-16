@@ -10,24 +10,24 @@ kind: basics
 
 # Basics
 
-**Starting Characteristics:** You start with a Might of 2 and a Reason of 2, and can choose one of the following arrays for your other characteristics scores:
+**Starting Characteristics:** You start with an Agility of 2 and a Presence of 2, and can choose one of the following arrays for your other characteristics scores:
 
 - 2, -1, -1
 - 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Reason score - 1
+**Weak Potency:** Presence - 2
 
-**Average Potency:** Reason score
+**Average Potency:** Presence - 1
 
-**Strong Potency:** Reason score + 1
+**Strong Potency:** Presence
 
-**Starting Stamina at 1st Level:** 21
+**Starting Stamina at 1st Level:** 18
 
-**Stamina Gained at 2nd and Higher Levels:** 12
+**Stamina Gained at 2nd and Higher Levels:** 9
 
-**Recoveries:** 10
+**Recoveries:** 8
 
-**Skills:** Lead, plus choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, History, Mechanics, Monsters, Search, or the skills of the exploration skill group.
+**Skills:** Read Person, plus choose two skills from the interpersonal group and one skill from the intrigue or lore groups. (*Quick Build:* Read Person, Brag, Rumors)
 
-[TACTICIAN ADVANCEMENT](./Tactician%20Advancement.md)
+[TROUBADOUR ADVANCEMENT](./Troubadour%20Advancement.md)

@@ -6,15 +6,15 @@ At the start of any undead creature's turn, you can spend malice to activate one
 
 - **The Grasping, The Hungry (5 Malice)**: Ravenous and rotting undead arms burst forth from 9 connected squares of a vertical or horizontal surface. A creature who ends their turn adjacent to an affected vertical surface or within 1 square of an affected horizontal surface must make an Agility resistance roll:
 
-- ✸ ≤11: 5 damage; [[Restrained|restrained]] (save ends)
+- ✸ ≤11: 5 damage; restrained (save ends)
 
-- ★ 12-16: 5 damage; [[Restrained|restrained]] (EoT)
+- ★ 12-16: 5 damage; restrained (EoT)
 
 - ✦ 17+: 5 damage
 
-    Any creature who starts their turn [[Restrained|restrained]] by the arms takes 1d6 damage.
+    Any creature who starts their turn restrained by the arms takes 1d6 damage.
 
-- **Dread March (7 Malice)**: Each undead creature in the encounter moves up to their speed and can make a [[Free Strike|free strike]] against two targets. If an undead creature is reduced to Stamina 0 during this dread march, they don't die until their movement and attacks are resolved.
+- **Dread March (7 Malice)**: Each undead creature in the encounter moves up to their speed and can make a free strike against two targets. If an undead creature is reduced to Stamina 0 during this dread march, they don't die until their movement and attacks are resolved.
 
 ## Intensity Tally
 

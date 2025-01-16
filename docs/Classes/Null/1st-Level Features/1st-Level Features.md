@@ -12,18 +12,4 @@ kind: 1st-level features
 
 As a null, you gain the following features.
 
-[TRADITIONS](./Traditions.md)
-
-[DISCIPLINE](./Discipline.md)
-
-[NULL FIELD](./Null%20Field.md)
-
-[INERTIAL SHIELD](./Inertial%20Shield.md)
-
-[MASTERY](./Mastery/Mastery.md)
-
-[MIND-BODY FOCUS](./Mind-Body%20Focus.md)
-
-[PSIONIC KNOCKBACK](./Psionic%20Knockback.md)
-
-[NULL ABILITIES](./Null%20Abilities/Null%20Abilities.md)
+[NULL TRADITION](./Null%20Tradition.md)

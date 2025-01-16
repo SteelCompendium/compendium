@@ -12,6 +12,8 @@ kind: 3rd-level features
 
 As a 3rd-level null, you gain the following features.
 
+[PSIONIC LEAP](./Psionic%20Leap.md)
+
 [REORDER](./Reorder.md)
 
-[7-DISCIPLINE ABILITIES](./7-Discipline%20Abilities/7-Discipline%20Abilities.md)
+[7-DISCIPLINE ABILITY](./7-Discipline%20Ability/7-Discipline%20Ability.md)

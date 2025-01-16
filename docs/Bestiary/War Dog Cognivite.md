@@ -1,11 +1,11 @@
 ### WAR DOG COGNIVITE
 
-| WAR DOG COGNIVITE           |       **Level 1 Defender** |
-| :-------------------------- | -------------------------: |
-| *Humanoid, War Dog*         |                  **EV 11** |
-| **Stamina**: 25             |              **Weakness**: |
-| **Speed**: 5 ([[Fly\|fly]]) | **Size**: 1M / Stability 0 |
-|                             |     **[[Free Strike]]**: 2 |
+| WAR DOG COGNIVITE   |       **Level 1 Defender** |
+| :------------------ | -------------------------: |
+| *Humanoid, War Dog* |                  **EV 11** |
+| **Stamina**: 25     |              **Weakness**: |
+| **Speed**: 5 (fly)  | **Size**: 1M / Stability 0 |
+|                     |         **Free Strike**: 2 |
 
 | **Might** 0 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** +2 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |
@@ -40,7 +40,7 @@
 | Keywords: Area, Psionic | Type: Maneuver                  |
 | Distance: 5 burst       | Target: Each enemy in the burst |
 
-**Effect:** The cognivite chooses an ally within 10 squares, then chooses whether each target is [[Taunted|taunted]] by the ally or the ally has **cover** whenever they're attacked by a target until the start of the cognivite's next turn.
+**Effect:** The cognivite chooses an ally within 10 squares, then chooses whether each target is taunted by the ally or the ally has **cover** whenever they're attacked by a target until the start of the cognivite's next turn.
 
 **Loyalty Collar**
 

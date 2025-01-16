@@ -1,11 +1,11 @@
 ### DWARF GUNNER
 
-| [[Dwarf\|DWARF]] GUNNER |      **Level 1 Artillery** |
-| :---------------------- | -------------------------: |
-| *[[Dwarf]], Humanoid*   |                  **EV 12** |
-| **Stamina**: 26         |              **Weakness**: |
-| **Speed**: 5            | **Size**: 1M / Stability 1 |
-|                         |     **[[Free Strike]]**: 3 |
+| DWARF GUNNER      |      **Level 1 Artillery** |
+| :---------------- | -------------------------: |
+| *Dwarf, Humanoid* |                  **EV 12** |
+| **Stamina**: 26   |              **Weakness**: |
+| **Speed**: 5      | **Size**: 1M / Stability 1 |
+|                   |         **Free Strike**: 3 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** +1 | **Presence** 0 |
 | ----------- | -------------- | ------------ | ---------------- | -------------- |
@@ -24,18 +24,18 @@
 - ★ 12-16: 7 damage; push 3
 - ✸ 17+: 10 damage; push 5
 
-**Effect:** If the target is adjacent to a wall or object after the power roll is resolved, they are [[Restrained|restrained]] (EoT). A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be pushed by this attack.
+**Effect:** If the target is adjacent to a wall or object after the power roll is resolved, they are restrained (EoT). A target restrained by a dwarf can be pushed by this attack.
 
-**5 Malice:** If the target is pushed into another creature, both the target and the creature are [[Restrained|restrained]] (EoT).
+**5 Malice:** If the target is pushed into another creature, both the target and the creature are restrained (EoT).
 
 #### Ensnaring Chains (5 Malice)
 
-|                          |                                                                                      |
-| :----------------------- | :----------------------------------------------------------------------------------- |
-| Keywords: Ranged, Weapon | Type: Maneuver                                                                       |
-| Distance: Ranged 10      | Target: 1 [[Restrained\|restrained]], [[Slowed\|slowed]], or [[Prone\|prone]] target |
+|                          |                                               |
+| :----------------------- | :-------------------------------------------- |
+| Keywords: Ranged, Weapon | Type: Maneuver                                |
+| Distance: Ranged 10      | Target: 1 restrained, slowed, or prone target |
 
-**Effect:** The gunner makes a [[Free Strike|free strike]] against the target. The target loses any [[Restrained|restrained]], [[Slowed|slowed]], or [[Prone|prone]] conditions and gains [[Restrained|restrained]] (save ends).
+**Effect:** The gunner makes a free strike against the target. The target loses any restrained, slowed, or prone conditions and gains restrained (save ends).
 
 **Split Shot**
 

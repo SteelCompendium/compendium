@@ -10,9 +10,15 @@ kind: 2nd-level features
 
 # 2nd-level College Feature
 
-Your specialization grants you a feature as shown on the 2nd-Level Shadow College Features table.
+Your shadow college grants you a feature as shown on the 2nd-Level College Features table.
 
-[2ND-LEVEL SHADOW COLLEGE FEATURES](./2nd-Level%20Shadow%20College%20Features.md)
+## **2nd-level College Features**
+
+| Specialization  | Feature          |
+| --------------- | ---------------- |
+| Black Ash       | Burning Ash      |
+| Caustic Alchemy | Trained Assassin |
+| Harlequin Mask  | Friend!          |
 
 [BURNING ASH](./Burning%20Ash.md)
 

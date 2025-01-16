@@ -10,12 +10,8 @@ kind: 2nd-level features
 
 # 2nd-level Features
 
-As a 2nd-level tactician, you gain the following features.
-
-[ADAPT A STRATEGY](./Adapt%20A%20Strategy.md)
-
-[2ND-LEVEL DOCTRINE FEATURES](./2nd-Level%20Doctrine%20Features/2nd-Level%20Doctrine%20Features.md)
+As a 2nd-level talent, you gain the following features.
 
 [PERK](./Perk.md)
 
-[2ND-LEVEL DOCTRINE ABILITY](./2nd-Level%20Doctrine%20Ability/2nd-Level%20Doctrine%20Ability.md)
+[2ND-LEVEL TRADITION FEATURE](./2nd-Level%20Tradition%20Feature/2nd-Level%20Tradition%20Feature.md)

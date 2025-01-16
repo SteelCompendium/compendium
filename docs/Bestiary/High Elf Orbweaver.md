@@ -5,7 +5,7 @@
 | *Fey, High Elf, Humanoid* |                  **EV 16** |
 | **Stamina**: 35           |              **Weakness**: |
 | **Speed**: 5              | **Size**: 1M / Stability 0 |
-|                           |     **[[Free Strike]]**: 5 |
+|                           |         **Free Strike**: 5 |
 
 | **Might** 0 | **Agility** 0 | **Reason** +2 | **Intuition** +2 | **Presence** +2 |
 | ----------- | ------------- | ------------- | ---------------- | --------------- |
@@ -20,9 +20,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 3 damage; M1 [[Slowed|slowed]] (EoT)
-- ★ 12-16: 4 damage; M2 [[Slowed|slowed]] (EoT)
-- ✸ 17+: 5 cold damage; M3 [[Prone|prone]]
+- ✦ ≤11: 3 damage; M1 slowed (EoT)
+- ★ 12-16: 4 damage; M2 slowed (EoT)
+- ✸ 17+: 5 cold damage; M3 prone
 
 #### Aetherweb
 
@@ -33,9 +33,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 3 damage; R1 [[Slowed|slowed]] (save ends)
-- ★ 12-16: 5 damage; R2 [[Slowed|slowed]] (save ends)
-- ✸ 17+: 6 damage; R3 [[Restrained|restrained]] (save ends)
+- ✦ ≤11: 3 damage; R1 slowed (save ends)
+- ★ 12-16: 5 damage; R2 slowed (save ends)
+- ✸ 17+: 6 damage; R3 restrained (save ends)
 
 **Effect:** Each enemy within 3 of a target suffers the same additional effects as the target unless they shift into an unoccupied square adjacent to them.
 

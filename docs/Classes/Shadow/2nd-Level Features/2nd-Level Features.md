@@ -14,8 +14,4 @@ As a 2nd-level shadow, you gain the following features.
 
 [2ND-LEVEL COLLEGE FEATURE](./2nd-Level%20College%20Feature/2nd-Level%20College%20Feature.md)
 
-[EXTRA SURGE](./Extra%20Surge.md)
-
 [PERK](./Perk.md)
-
-[2ND-LEVEL COLLEGE ABILITY](./2nd-Level%20College%20Ability/2nd-Level%20College%20Ability.md)

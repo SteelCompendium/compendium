@@ -5,7 +5,7 @@
 | *Corporeal, Undead*        |                   **EV 4** |
 | **Stamina**: 8             |              **Weakness**: |
 | **Speed**: 6               | **Size**: 1M / Stability 0 |
-|                            |     **[[Free Strike]]**: 2 |
+|                            |         **Free Strike**: 2 |
 
 | **Might** +2 | **Agility** -2 | **Reason** -5 | **Intuition** -2 | **Presence** -3 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -21,8 +21,8 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12-16: 3 damage; M1 [[Slowed|slowed]] (save ends)
-- ✸ 17+: 4 damage; M2 [[Prone|prone]] if size 1, [[Slowed|slowed]] (save ends) otherwise
+- ★ 12-16: 3 damage; M1 slowed (save ends)
+- ✸ 17+: 4 damage; M2 prone if size 1, slowed (save ends) otherwise
 
 **Arise Together**
 

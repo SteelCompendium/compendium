@@ -5,7 +5,7 @@
 | *Giant*          |                 **EV 88** |
 | **Stamina**: 240 |             **Weakness**: |
 | **Speed**: 5     | **Size**: 2 / Stability 4 |
-|                  |    **[[Free Strike]]**: 6 |
+|                  |        **Free Strike**: 6 |
 
 | **Might** +3 | **Agility** 0 | **Reason** -3 | **Intuition** 0 | **Presence** +2 |
 | ------------ | ------------- | ------------- | --------------- | --------------- |
@@ -20,9 +20,9 @@
 
 **2d10 + 3**
 
-- ✦ ≤11: 2 damage; A2 [[Bleeding|bleeding]] (save ends)
-- ★ 12-16: 4 damage; A3 [[Bleeding|bleeding]] (save ends)
-- ✸ 17+: 5 damage; A4 [[Bleeding|bleeding]] and [[Dazed|dazed]] (save ends)
+- ✦ ≤11: 2 damage; A2 bleeding (save ends)
+- ★ 12-16: 4 damage; A3 bleeding (save ends)
+- ✸ 17+: 5 damage; A4 bleeding and dazed (save ends)
 
 **3 Malice:** The bredbeddle shifts up to 2 squares and can target additional enemies who come within distance of this ability during the move.
 
@@ -35,20 +35,20 @@
 
 **2d10 + 3**
 
-- ✦ ≤11: 6 damage; [[Bleeding|bleeding]] (save ends) or M2 beheaded (see effect)
-- ★ 12-16: 10 damage; [[Bleeding|bleeding]] (save ends) or M3 beheaded (see effect)
-- ✸ 17+: 13 damage; [[Bleeding|bleeding]] (save ends) or M4 beheaded (see effect)
+- ✦ ≤11: 6 damage; bleeding (save ends) or M2 beheaded (see effect)
+- ★ 12-16: 10 damage; bleeding (save ends) or M3 beheaded (see effect)
+- ✸ 17+: 13 damage; bleeding (save ends) or M4 beheaded (see effect)
 
-**Effect:** A beheaded target has their head fall into an unoccupied square adjacent to the bredbeddle, but they remain alive. While beheaded, the target is [[Dazed|dazed]] and can't have line of effect to any creature other than themselves. The beheaded target can survive without their head for 24 hours, and can reattach their head by entering its square and using a maneuver to do so. A target who remains beheaded for 24 hours dies.
+**Effect:** A beheaded target has their head fall into an unoccupied square adjacent to the bredbeddle, but they remain alive. While beheaded, the target is dazed and can't have line of effect to any creature other than themselves. The beheaded target can survive without their head for 24 hours, and can reattach their head by entering its square and using a maneuver to do so. A target who remains beheaded for 24 hours dies.
 
 #### Scramble
 
 |                |                |
 | :------------- | :------------- |
-| Keywords: -    | Type: Maneuver |
+| Keywords: --   | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
-**Effect:** The bredbeddle must be headless to use this ability. The bredbeddle shifts up to their speed, and can push each creature who comes within their reach during the shift 1 square. Each square the bredbeddle leaves during the shift becomes [[Difficult Terrain|difficult terrain]].
+**Effect:** The bredbeddle must be headless to use this ability. The bredbeddle shifts up to their speed, and can push each creature who comes within their reach during the shift 1 square. Each square the bredbeddle leaves during the shift becomes difficult terrain.
 
 #### Headway (5 Malice)
 
@@ -59,9 +59,9 @@
 
 **2d10 + 3**
 
-- ✦ ≤11: 3 damage; M2 [[Dazed|dazed]] (save ends)
-- ★ 12-16: 5 damage; [[Prone|prone]]; M3 [[Dazed|dazed]] (save ends)
-- ✸ 17+: 7 damage; [[Prone|prone]]; M4 [[Dazed|dazed]] (save ends)
+- ✦ ≤11: 3 damage; M2 dazed (save ends)
+- ★ 12-16: 5 damage; prone; M3 dazed (save ends)
+- ✸ 17+: 7 damage; prone; M4 dazed (save ends)
 
 **Effect:** The bredbeddle must have a head in their possession (attached to them or not), which they throw at the target. If the head was attached, the bredbeddle becomes headless.
 
@@ -85,17 +85,17 @@ Trigger: A creature targets the bredbeddle with a ranged magic attack.
 
 **PRS RR**
 
-- ✦ ≤11: The target turns green and is [[Slowed|slowed]] (save ends)
+- ✦ ≤11: The target turns green and is slowed (save ends)
 - ★ 12-16: The target turns green (save ends)
 - ✸ 17+: No effect
 
-**Effect:** Green shadows [[Crawl|crawl]] out from under the bredbeddle's feet and attempt to turn each target green. The bredbeddle has a double edge on attacks made against targets turned green in this way.
+**Effect:** Green shadows crawl out from under the bredbeddle's feet and attempt to turn each target green. The bredbeddle has a double edge on attacks made against targets turned green in this way.
 
 #### Challenge
 
 |                    |                                                                |
 | :----------------- | :------------------------------------------------------------- |
-| Keywords: -        | Type: Villain Action 2                                         |
+| Keywords: --       | Type: Villain Action 2                                         |
 | Distance: Ranged 5 | Target: One creature who damaged the bredbeddle this encounter |
 
 **Effect:** The bredbeddle points at the target and issues them a challenge. If the target refuses, they turn green (save ends). If the target accepts, the bredbeddle shifts to a space adjacent to the target, who must make a hard Might test with no additional modifiers.
@@ -109,13 +109,13 @@ Trigger: A creature targets the bredbeddle with a ranged magic attack.
 
 **2d10 + 3**
 
-- ✦ ≤11: 3 damage; [[Bleeding|bleeding]] (save ends) or M2 beheaded (see Lop)
-- ★ 12-16: 4 damage; [[Bleeding|bleeding]] (save ends) or M3 beheaded (see Lop)
-- ✸ 17+: 5 damage; [[Bleeding|bleeding]] (save ends) or M4 beheaded (see Lop)
+- ✦ ≤11: 3 damage; bleeding (save ends) or M2 beheaded (see Lop)
+- ★ 12-16: 4 damage; bleeding (save ends) or M3 beheaded (see Lop)
+- ✸ 17+: 5 damage; bleeding (save ends) or M4 beheaded (see Lop)
 
 **Solo Monster**
 
-- **Solo Turns**: The bredbeddle takes two turns each round. They can use two actions on each of their turns and can take each turn after any enemy's turn. While [[Dazed|dazed]], the bredbeddle can take one action and one maneuver per turn. - **End Effect**: At the end of their turn, the bredbeddle can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
+- **Solo Turns**: The bredbeddle takes two turns each round. They can use two actions on each of their turns and can take each turn after any enemy's turn. While dazed, the bredbeddle can take one action and one maneuver per turn. - **End Effect**: At the end of their turn, the bredbeddle can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
 
 **Resilient Form**
 

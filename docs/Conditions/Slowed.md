@@ -8,4 +8,4 @@ type: conditions
 
 # Slowed
 
-While you are slowed, your speed is 2 unless it is already lower.
+While you are slowed, your speed is 2 unless it is already lower, and you can't shift.

@@ -8,9 +8,7 @@ type: titles
 
 # Ship Captain
 
-“Up anchor, shipmates, 'tis to glory we steer!”
-
-**Prerequisites:** You acquire a ship, airship, or similar vessel.
+*"Up anchor, shipmates, 'tisn't gold but glory we seek!"* **Prerequisites:** You acquire a ship, airship, or similar vessel.
 
 Choose one of the following benefits:
 

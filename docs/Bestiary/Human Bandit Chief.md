@@ -1,11 +1,11 @@
 ### HUMAN BANDIT CHIEF
 
-| [[Human\|HUMAN]] BANDIT CHIEF |         **Level 3 Leader** |
-| :---------------------------- | -------------------------: |
-| *[[Human]], Humanoid*         |                  **EV 54** |
-| **Stamina**: 120              |              **Weakness**: |
-| **Speed**: 5                  | **Size**: 1M / Stability 2 |
-|                               |     **[[Free Strike]]**: 5 |
+| HUMAN BANDIT CHIEF |         **Level 3 Leader** |
+| :----------------- | -------------------------: |
+| *Human, Humanoid*  |                  **EV 54** |
+| **Stamina**: 120   |              **Weakness**: |
+| **Speed**: 5       | **Size**: 1M / Stability 2 |
+|                    |         **Free Strike**: 5 |
 
 | **Might** +2 | **Agility** +3 | **Reason** +2 | **Intuition** +3 | **Presence** +2 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -37,9 +37,9 @@
 
 **2d10 + 3**
 
-- ✦ ≤11: Push 1; M2 [[Prone|prone]]
-- ★ 12-16: Push 2; M3 [[Prone|prone]]
-- ✸ 17+: Push 4; M4 [[Prone|prone]]
+- ✦ ≤11: Push 1; M2 prone
+- ★ 12-16: Push 2; M3 prone
+- ✸ 17+: Push 4; M4 prone
 
 **2 Malice:** This ability targets each enemy adjacent to the bandit chief.
 
@@ -61,7 +61,7 @@ Trigger: The bandit chief makes a power roll.
 | Keywords: Area     | Type: Villain Action 1          |
 | Distance: 10 burst | Target: All allies in the burst |
 
-**Effect:** Each target makes a ranged [[Free Strike|free strike]].
+**Effect:** Each target makes a ranged free strike.
 
 #### Form Up!
 
@@ -76,10 +76,10 @@ Trigger: The bandit chief makes a power roll.
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: -    | Type: Villain Action 3 |
+| Keywords: --   | Type: Villain Action 3 |
 | Distance: Self | Target: Self           |
 
-**Effect:** Shift 10 squares. During or after this movement, the bandit chief can attack up to four targets with Whip & Magic Longsword. Each ally adjacent to a target can make a [[Free Strike|free strike]] against them.
+**Effect:** Shift 10 squares. During or after this movement, the bandit chief can attack up to four targets with Whip & Magic Longsword. Each ally adjacent to a target can make a free strike against them.
 
 **End Effect**
 

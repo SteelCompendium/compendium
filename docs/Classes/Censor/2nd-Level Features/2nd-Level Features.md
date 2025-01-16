@@ -10,12 +10,12 @@ kind: 2nd-level features
 
 # 2nd-level Features
 
-As a 2nd-level censor, you gain the following features:
-
-[EXTRA SHIELD](./Extra%20Shield.md)
+As a 2nd-level censor, you gain the following features.
 
 [PERK](./Perk.md)
 
 [2ND-LEVEL ORDER FEATURES](./2nd-Level%20Order%20Features/2nd-Level%20Order%20Features.md)
 
 [2ND-LEVEL ORDER ABILITY](./2nd-Level%20Order%20Ability/2nd-Level%20Order%20Ability.md)
+
+[2ND-LEVEL ORACLE ABILITY](./2nd-Level%20Oracle%20Ability/2nd-Level%20Oracle%20Ability.md)

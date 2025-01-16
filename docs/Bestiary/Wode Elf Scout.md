@@ -5,7 +5,7 @@
 | *Fey, Humanoid, Wode Elf* |                    **EV 7** |
 | **Stamina**: 10           |               **Weakness**: |
 | **Speed**: 10             |  **Size**: 1M / Stability 0 |
-|                           |      **[[Free Strike]]**: 2 |
+|                           |          **Free Strike**: 2 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |
@@ -26,4 +26,4 @@
 
 **Hunter's Glamor**
 
-The scout immediately [[Hide|hides]] at the end of their turn, even if they are observed.
+The scout immediately hides at the end of their turn, even if they are observed.

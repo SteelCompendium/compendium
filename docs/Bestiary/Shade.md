@@ -1,11 +1,11 @@
 ### SHADE
 
-| SHADE                       | **Level 1 Ambusher Minion** |
-| :-------------------------- | --------------------------: |
-| *Incorporeal, Undead*       |                    **EV 3** |
-| **Stamina**: 5              |               **Weakness**: |
-| **Speed**: 5 ([[Fly\|fly]]) |  **Size**: 1M / Stability 1 |
-|                             |      **[[Free Strike]]**: 2 |
+| SHADE                 | **Level 1 Ambusher Minion** |
+| :-------------------- | --------------------------: |
+| *Incorporeal, Undead* |                    **EV 3** |
+| **Stamina**: 5        |               **Weakness**: |
+| **Speed**: 5 (fly)    |  **Size**: 1M / Stability 1 |
+|                       |          **Free Strike**: 2 |
 
 | **Might** -5 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** +2 |
 | ------------ | -------------- | ------------ | --------------- | --------------- |

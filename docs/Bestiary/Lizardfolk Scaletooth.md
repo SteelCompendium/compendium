@@ -5,7 +5,7 @@
 | *Humanoid, Lizardfolk* |                  **EV 16** |
 | **Stamina**: 40        |              **Weakness**: |
 | **Speed**: 5 (swim)    | **Size**: 1M / Stability 0 |
-|                        |     **[[Free Strike]]**: 5 |
+|                        |         **Free Strike**: 5 |
 
 | **Might** +2 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ------------ | -------------- | ------------ | --------------- | -------------- |
@@ -20,11 +20,11 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 5 damage; A1 [[Bleeding|bleeding]] (save ends)
-- ★ 12-16: 9 damage; A2 [[Bleeding|bleeding]] (save ends)
-- ✸ 17+: 12 damage; A3 [[Bleeding|bleeding]] (save ends)
+- ✦ ≤11: 5 damage; A1 bleeding (save ends)
+- ★ 12-16: 9 damage; A2 bleeding (save ends)
+- ✸ 17+: 12 damage; A3 bleeding (save ends)
 
-**Effect:** The potency of this attack increases by 1 if the target is [[Grabbed|grabbed]] by the scaletooth.
+**Effect:** The potency of this attack increases by 1 if the target is grabbed by the scaletooth.
 
 #### Tail Whip (2 Malice)
 
@@ -43,4 +43,4 @@
 
 **Reptilian Escape**
 
-While the scaletooth still has a tail, whenever the scaletooth is [[Grabbed|grabbed]], [[Slowed|slowed]], [[Weakened|weakened]], or knocked [[Prone|prone]], the scaletooth can lose their tail to immediately end the effect and shift 2.
+While the scaletooth still has a tail, whenever the scaletooth is grabbed, slowed, weakened, or knocked prone, the scaletooth can lose their tail to immediately end the effect and shift 2.

@@ -5,7 +5,7 @@
 | *Humanoid, Lizardfolk* |                     **EV 6** |
 | **Stamina**: 8         |                **Weakness**: |
 | **Speed**: 5 (swim)    |   **Size**: 1S / Stability 0 |
-|                        |       **[[Free Strike]]**: 2 |
+|                        |           **Free Strike**: 2 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** +1 | **Presence** 0 |
 | ----------- | -------------- | ------------ | ---------------- | -------------- |
@@ -24,8 +24,8 @@
 - ★ 12-16: 5 damage; pull 2 or shift 2 towards target
 - ✸ 17+: 6 damage; pull 3 or shift 3 towards target
 
-**Effect:** If the target ends up in a space adjacent to the tonguer, they are also [[Grabbed|grabbed]].
+**Effect:** If the target ends up in a space adjacent to the tonguer, they are also grabbed.
 
 **Reptilian Escape**
 
-While the tonguer still has a tail, whenever the tonguer is [[Grabbed|grabbed]], [[Slowed|slowed]], [[Weakened|weakened]], or knocked [[Prone|prone]], the tonguer can lose their tail to immediately end the effect and shift 2.
+While the tonguer still has a tail, whenever the tonguer is grabbed, slowed, weakened, or knocked prone, the tonguer can lose their tail to immediately end the effect and shift 2.

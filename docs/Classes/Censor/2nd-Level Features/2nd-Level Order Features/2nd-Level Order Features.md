@@ -10,7 +10,9 @@ kind: 2nd-level features
 
 # 2nd-level Order Features
 
-Your order determines your features.
+Your censor order grants you a feature as shown on the 2nd-Level Order Features table.
+
+## **2nd-level Order Features**
 
 | Order    | Features                             |
 | -------- | ------------------------------------ |

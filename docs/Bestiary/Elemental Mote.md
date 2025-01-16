@@ -1,11 +1,11 @@
 ### ELEMENTAL MOTE
 
-| ELEMENTAL MOTE              |   **Level 1 Hexer Minion** |
-| :-------------------------- | -------------------------: |
-| *Elemental, High Elf*       |                   **EV 5** |
-| **Stamina**: 8              |              **Weakness**: |
-| **Speed**: 5 ([[Fly\|fly]]) | **Size**: 1T / Stability 0 |
-|                             |     **[[Free Strike]]**: 2 |
+| ELEMENTAL MOTE        |   **Level 1 Hexer Minion** |
+| :-------------------- | -------------------------: |
+| *Elemental, High Elf* |                   **EV 5** |
+| **Stamina**: 8        |              **Weakness**: |
+| **Speed**: 5 (fly)    | **Size**: 1T / Stability 0 |
+|                       |         **Free Strike**: 2 |
 
 | **Might** 0 | **Agility** 0 | **Reason** 0 | **Intuition** 0 | **Presence** +2 |
 | ----------- | ------------- | ------------ | --------------- | --------------- |

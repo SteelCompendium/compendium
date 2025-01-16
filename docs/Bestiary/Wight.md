@@ -5,7 +5,7 @@
 | *Corporeal, Undead* |                   **EV 7** |
 | **Stamina**: 12     |              **Weakness**: |
 | **Speed**: 5        | **Size**: 1M / Stability 0 |
-|                     |     **[[Free Strike]]**: 2 |
+|                     |         **Free Strike**: 2 |
 
 | **Might** +2 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ------------ | -------------- | ------------ | --------------- | --------------- |
@@ -21,8 +21,8 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 corruption damage
-- ★ 12-16: 4 corruption damage; M1 [[Slowed|slowed]] (save ends)
-- ✸ 17+: 5 corruption damage; M2 [[Slowed|slowed]] and [[Weakened|weakened]] (save ends)
+- ★ 12-16: 4 corruption damage; M1 slowed (save ends)
+- ✸ 17+: 5 corruption damage; M2 slowed and weakened (save ends)
 
 **Effect:** The target appears to rapidly age each time they take damage from this attack. The target regains their former appearance when the wight is destroyed.
 
@@ -37,4 +37,4 @@
 
 **Arise**
 
-The first time the wight is reduced to Stamina 0 by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina and fall [[Prone|prone]].
+The first time the wight is reduced to Stamina 0 by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina and fall prone.

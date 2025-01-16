@@ -5,7 +5,7 @@
 | *Animal, Goblin*     |                 **EV 28** |
 | **Stamina**: 60      |             **Weakness**: |
 | **Speed**: 7 (climb) | **Size**: 3 / Stability 2 |
-|                      |    **[[Free Strike]]**: 4 |
+|                      |        **Free Strike**: 4 |
 
 | **Might** +2 | **Agility** +1 | **Reason** -4 | **Intuition** 0 | **Presence** -3 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |
@@ -20,9 +20,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 4 poison damage; M1 [[Weakened|weakened]] (save ends)
-- ★ 12-16: 7 poison damage; M2 [[Weakened|weakened]] (save ends)
-- ✸ 17+: 10 poison damage; M3 [[Weakened|weakened]] (save ends)
+- ✦ ≤11: 4 poison damage; M1 weakened (save ends)
+- ★ 12-16: 7 poison damage; M2 weakened (save ends)
+- ✸ 17+: 10 poison damage; M3 weakened (save ends)
 
 #### Leg Blade
 
@@ -41,7 +41,7 @@
 
 |                |              |
 | :------------- | :----------- |
-| Keywords: -    | Type: Action |
+| Keywords: --   | Type: Action |
 | Distance: Self | Target: Self |
 
 **Effect:** The spider shifts up to their speed and makes a Leg Blade attack against each creature who comes within 1 of the spider during the move. The spider makes one power roll against all targets.
@@ -55,13 +55,13 @@
 
 **AGL RR**
 
-- ✦ ≤11: [[Restrained]] (AGL ends)
-- ★ 12-16: [[Restrained]] (EoT)
+- ✦ ≤11: Restrained (AGL ends)
+- ★ 12-16: Restrained (EoT)
 - ✸ 17+: No effect
 
 **Ride Launcher**
 
-An ally who leaps off the back of the spider can [[Jump|jump]] up to 6 squares without a test, and takes no damage if they fall during the [[Jump|jump]]. After the [[Jump|jump]], the first melee attack an ally makes on the same turn gains an edge.
+An ally who leaps off the back of the spider can jump up to 6 squares without a test, and takes no damage if they fall during the jump. After the jump, the first melee attack an ally makes on the same turn gains an edge.
 
 **Wide Back**
 

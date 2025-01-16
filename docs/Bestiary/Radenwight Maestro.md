@@ -5,7 +5,7 @@
 | *Humanoid, Radenwight* |                  **EV 38** |
 | **Stamina**: 80        |              **Weakness**: |
 | **Speed**: 5 (climb)   | **Size**: 1S / Stability 1 |
-|                        |     **[[Free Strike]]**: 5 |
+|                        |         **Free Strike**: 5 |
 
 | **Might** -2 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +3 |
 | ------------ | -------------- | ------------ | --------------- | --------------- |
@@ -35,8 +35,8 @@
 
 **PRS RR**
 
-- ✦ ≤11: [[Slowed]] (save ends)
-- ★ 12-16: [[Slowed]] (EoT)
+- ✦ ≤11: Slowed (save ends)
+- ★ 12-16: Slowed (EoT)
 - ✸ 17+: No effect
 
 **3 Malice:** Each ally within 3 of a target has their speed increased by 2 until the end of their next turn.
@@ -50,7 +50,7 @@
 
 Trigger: The target deals damage to an ally or takes damage from an ally.
 
-**Effect:** The maestro makes a [[Free Strike|free strike]] against the target. The maestro can only use this ability once per turn.
+**Effect:** The maestro makes a free strike against the target. The maestro can only use this ability once per turn.
 
 #### Overture
 
@@ -59,7 +59,7 @@ Trigger: The target deals damage to an ally or takes damage from an ally.
 | Keywords: Area     | Type: Villain Action 1          |
 | Distance: 10 burst | Target: All allies in the burst |
 
-**Effect:** Each target shifts up to their speed or takes the [[Defend]] action.
+**Effect:** Each target shifts up to their speed or takes the Defend action.
 
 #### Solo Act
 
@@ -77,7 +77,7 @@ Trigger: The target deals damage to an ally or takes damage from an ally.
 | Keywords: Area     | Type: Villain Action 3               |
 | Distance: 10 burst | Target: All dead allies in the burst |
 
-**Effect:** Each target stands, makes a [[Free Strike|free strike]], then collapses again. Allies of the targets can use Ready Rodent as a free triggered action once in conjunction with these [[Free Strike|free strikes]].
+**Effect:** Each target stands, makes a free strike, then collapses again. Allies of the targets can use Ready Rodent as a free triggered action once in conjunction with these free strikes.
 
 **End Effect**
 

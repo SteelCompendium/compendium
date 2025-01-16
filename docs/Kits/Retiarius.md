@@ -4,14 +4,11 @@ title: Retiarius
 name_raw: Retiarius
 name: Retiarius
 type: kits
-keywords: Attack, Melee, Weapon
+keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 2 **Target:** 1 creature
 keyword_list:
-  - Attack
   - Melee
-  - Weapon
-ability_type: Action
-distance: Melee 2
-target: 1 creature
+  - Strike
+  - Weapon **Type:** Action **Distance:** Melee 2 **Target:** 1 creature
 ---
 
 # Retiarius
@@ -24,25 +21,25 @@ You wear light armor, and wield a polearm and several ensnaring weapons.
 
 ## Kit Bonuses
 
-- Stamina Bonus: +3
-- Speed Bonus: +1
-- Melee Damage Bonus: +2/+2/+2
-- Melee Distance Bonus: +1
-- [[Disengage]] Bonus: +1
+- **Stamina Bonus:** +3 per echelon
+- **Speed Bonus:** +1
+- **Melee Damage Bonus:** +2/+2/+2
+- **Melee Distance Bonus:** +1
+- **Disengage Bonus:** +1
 
 ## Signature Ability
 
-### Net And Stab
+## Net And Stab
 
-The well-thrown net that follows your main attack leaves your foes right where you want them.
+*The well-thrown net that follows your main attack leaves your foes right where you want them.*
 
-|                                     |                        |
-| :---------------------------------- | :--------------------- |
-| **Keywords:** Attack, Melee, Weapon | **Type:** Action       |
-| **Distance:** Melee 2               | **Target:** 1 creature |
+|                                                                                                   |             |
+| :------------------------------------------------------------------------------------------------ | :---------- |
+| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 2 **Target:** 1 creature | **Type:**   |
+| **Distance:**                                                                                     | **Target:** |
 
 **Power Roll + Might or Agility:**
 
-- **11 or lower:** 4 damage; A \[weak\] [[Slowed|slowed]] (EoT)
-- **12-16:** 5 damage; A \[average\] [[Slowed|slowed]] (EoT)
-- **17+:** 6 damage; A \[strong\] [[Restrained|restrained]] (EoT)
+- *11 or lower:* **4 + M or A damage; A \< \[weak\] slowed (EoT)**
+- *12-16:* 6 **+ M or A damage; A \< \[average\] slowed (EoT)**
+- *17+:* 8 **+ M or A damage; A \< \[strong\] restrained (EoT)**

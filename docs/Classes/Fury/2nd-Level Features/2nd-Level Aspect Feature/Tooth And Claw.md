@@ -10,4 +10,4 @@ kind: 2nd-level features
 
 # Tooth And Claw
 
-Any enemy within Reach takes `⚡` at the start of their turns.
+When you end your turn, each enemy who is adjacent to you takes damage equal to your Might score.

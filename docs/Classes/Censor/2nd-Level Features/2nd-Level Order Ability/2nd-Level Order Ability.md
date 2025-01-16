@@ -10,10 +10,12 @@ kind: 2nd-level features
 
 # 2nd-level Order Ability
 
-Your specialization grants your choice of one of two abilities.
+Your censor order grants your choice of one of two abilities.
 
-[2ND-LEVEL EXORCIST ABILITIES](./2nd-Level%20Exorcist%20Abilities/2nd-Level%20Exorcist%20Abilities.md)
+[2ND-LEVEL EXORCIST ABILITY](./2nd-Level%20Exorcist%20Ability.md)
 
-[2ND-LEVEL ORACLE ABILITIES](./2nd-Level%20Oracle%20Abilities/2nd-Level%20Oracle%20Abilities.md)
+[IT IS JUSTICE YOU FEAR (5 WRATH)](./It%20Is%20Justice%20You%20Fear.md)
 
-[2ND-LEVEL PARAGON ABILITIES](./2nd-Level%20Paragon%20Abilities/2nd-Level%20Paragon%20Abilities.md)
+[Distance: Ranged 10 Target: One creature](./Distance%20Ranged%2010%20Target%20One%20Creature.md)
+
+[REVELATOR (5 WRATH)](./Revelator.md)

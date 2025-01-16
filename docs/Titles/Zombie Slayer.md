@@ -4,19 +4,17 @@ title: Zombie Slayer
 name_raw: Zombie Slayer
 name: Zombie Slayer
 type: titles
-keywords: Area, Magic
+keywords: Area, Magic **Type:** Maneuver **Distance:** 3 burst **Target:** All enemies
 keyword_list:
   - Area
-  - Magic
-ability_type: 3 burst
-target: All enemies
+  - Magic **Type:** Maneuver **Distance:** 3 burst **Target:** All enemies
 ---
 
 # Zombie Slayer
 
-“Why won't you die! You've already done it once, you should be good at it by now!”
+*"Why won't you die! You've already done it once, you should be good at it by now!"*
 
-**Prerequisites:** You defeat a leader or solo monster with the Undead keyword, such as a [[Ghost|ghost]].
+**Prerequisites:** You defeat a leader or solo monster with the Undead keyword, such as a ghost.
 
 Choose one of the following benefits:
 
@@ -24,13 +22,17 @@ Choose one of the following benefits:
 - **Divine Health:** You gain corruption immunity equal to your highest characteristic score. You can't be turned into an undead creature.
 - **Holy Terror:** You gain the Holy Terror ability, which can be paid for using the heroic resource of your class:
 
-**COSTS 3 HEROIC RESOURCES: HOLY TERROR**
+## Costs 3 Heroic Resources: Holy Terror
 
 *Return to your grave!*
 
-|                           |                         |
-| :------------------------ | :---------------------- |
-| **Keywords:** Area, Magic | **Type:** 3 burst       |
-| **Distance:**             | **Target:** All enemies |
+|                                                                                            |             |
+| :----------------------------------------------------------------------------------------- | :---------- |
+| **Keywords:** Area, Magic **Type:** Maneuver **Distance:** 3 burst **Target:** All enemies | **Type:**   |
+| **Distance:**                                                                              | **Target:** |
 
-**Effect:** Each undead creature in the area takes `⚡` holy damage and is P \[strong\] [[Frightened|frightened]] (save ends).
+**Effect:** Each undead creature in the area takes holy damage equal to your Reason, Intuition, or Presence score (your choice) and is **P \< \[strong\]** frightened (save ends).
+
+## **perks As Titles**
+
+The Director can turn a perk into a 1st echelon title by simply giving it a prerequisite. For example, a hero might gain the Familiar perk as a title instead if they complete a quest for an archmage, who then teaches the ritual to conjure the familiar as a reward for the hero.

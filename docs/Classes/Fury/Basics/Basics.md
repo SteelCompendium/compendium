@@ -16,11 +16,11 @@ kind: basics
 - 1, 1, -1
 - 1, 0, 0
 
-**Weak Potency:** Might score - 1
+**Weak Potency:** Might - 2
 
-**Average Potency:** Might score
+**Average Potency:** Might - 1
 
-**Strong Potency:** Might score + 1
+**Strong Potency:** Might
 
 **Starting Stamina at 1st Level:** 21
 
@@ -28,6 +28,6 @@ kind: basics
 
 **Recoveries:** 10
 
-**Skills:** Nature, plus choose any two skills from the exploration or intrigue skill groups.
+**Skills:** Nature, plus choose any two skills from the exploration or intrigue skill groups. (*Quick Build:* Nature, Alertness, Jump)
 
-[Fury Advancement](./Fury%20Advancement.md)
+[FURY ADVANCEMENT](./Fury%20Advancement.md)
