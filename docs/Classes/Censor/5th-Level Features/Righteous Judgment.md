@@ -7,22 +7,27 @@ cost: 9 Wrath
 type: classes
 subtype: censor
 kind: 5th-level features
-distance: Melee 1 **Target:** One creature **Power Roll + Might:**
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
+ability_type: Action
+distance: Melee 1
+target: One creature **Power Roll + Might:**
 ---
 
 # Righteous Judgment (9 Wrath)
 
-*You amplify the power of your judgment.* **Keywords:** Melee, Strike, Weapon **Type:** Action
+*You amplify the power of your judgment.*
 
-|                                                                        |             |
-| :--------------------------------------------------------------------- | :---------- |
-| **Keywords:**                                                          | **Type:**   |
-| **Distance:** Melee 1 **Target:** One creature **Power Roll + Might:** | **Target:** |
+|                                     |                                                  |
+| :---------------------------------- | :----------------------------------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action                                 |
+| **Distance:** Melee 1               | **Target:** One creature **Power Roll + Might:** |
 
 - *11 or lower:* **10 + M damage**
-
 - *12-16:* **14 + M damage**
-
 - *17+:* **20 + M damage**
 
 **Effect:** For the rest of the encounter, whenever an ally deals damage to a target judged by you, they gain one surge.

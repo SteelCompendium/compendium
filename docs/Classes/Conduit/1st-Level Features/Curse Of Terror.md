@@ -7,17 +7,23 @@ cost: 5 Piety
 type: classes
 subtype: conduit
 kind: 1st-level features
-distance: Ranged 10 **Target:** One creature
+keywords: Magic, Ranged, Strike
+keyword_list:
+  - Magic
+  - Ranged
+  - Strike
+ability_type: Action **Distance:** Ranged 10
+target: One creature
 ---
 
 # Curse Of Terror (5 Piety)
 
-*Fear of divine judgment overwhelms your foe.* **Keywords:** Magic, Ranged, Strike **Type:** Action
+*Fear of divine judgment overwhelms your foe.*
 
-|                                                  |             |
-| :----------------------------------------------- | :---------- |
-| **Keywords:**                                    | **Type:**   |
-| **Distance:** Ranged 10 **Target:** One creature | **Target:** |
+|                                     |                                          |
+| :---------------------------------- | :--------------------------------------- |
+| **Keywords:** Magic, Ranged, Strike | **Type:** Action **Distance:** Ranged 10 |
+| **Distance:**                       | **Target:** One creature                 |
 
 **Power Roll + Intuition:**
 

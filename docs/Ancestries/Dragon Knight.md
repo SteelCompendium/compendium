@@ -4,11 +4,8 @@ title: Dragon Knight
 name_raw: Dragon Knight
 name: Dragon Knight
 type: ancestries
-keywords: Area, Magic **Type:** Action
-keyword_list:
-  - Area
-  - Magic **Type:** Action
-distance: 3 cube within 1 **Target:** All enemies
+ability_type: Action **Distance:** 3 cube within 1
+target: All enemies
 ---
 
 # Dragon Knight
@@ -171,12 +168,12 @@ You can use the following signature ability.
 
 ### Draconian Pride
 
-*You let loose a mighty roar to shake your foes' spirits.*
+*You let loose a mighty roar to shake your foes' spirits.* **Keywords:** Area, Magic
 
-|                                                       |             |
-| :---------------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic **Type:** Action            | **Type:**   |
-| **Distance:** 3 cube within 1 **Target:** All enemies | **Target:** |
+|               |                                                |
+| :------------ | :--------------------------------------------- |
+| **Keywords:** | **Type:** Action **Distance:** 3 cube within 1 |
+| **Distance:** | **Target:** All enemies                        |
 
 - *11 or lower:* 2 **damage**
 - *12-16:* 5 **damage; push 1**
@@ -188,7 +185,7 @@ You can use the following signature ability.
 
 ### Dragon Breath
 
-*You expel energy to damage your foes.*
+*You expel energy to damage your foes.* **Keywords:** Area, Magic
 
 **Power Roll + Might or Presence:**
 

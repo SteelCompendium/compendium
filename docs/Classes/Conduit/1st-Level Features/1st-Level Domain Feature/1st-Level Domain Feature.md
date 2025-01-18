@@ -24,9 +24,9 @@ Choose one of your domains. You gain a domain feature from that domain as shown 
 
 [FAITHFUL FRIEND](./Faithful%20Friend.md)
 
-[GRAVE SPEECH](./Grave%20Speech.md)
+[GRAVE SPEECH](./Grave%20Speech/Grave%20Speech.md)
 
-[HANDS OF THE MAKER](./Hands%20Of%20The%20Maker.md)
+[HANDS OF THE MAKER](./Hands%20Of%20The%20Maker/Hands%20Of%20The%20Maker.md)
 
 [INNER LIGHT](./Inner%20Light.md)
 

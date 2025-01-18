@@ -6,22 +6,18 @@ name: Impaled!
 type: classes
 subtype: fury
 kind: 1st-level features
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1
-target: One creature of your size or smaller
+ability_type: Action
+distance: Melee 1 **Target:** One creature of your size or smaller
 ---
 
 # Impaled!
 
-*You plunge your weapon into your enemy like a boar upon a spit.*
+*You plunge your weapon into your enemy like a boar upon a spit.* **Keywords:** Melee, Strike, Weapon
 
-|                                                                            |                                                  |
-| :------------------------------------------------------------------------- | :----------------------------------------------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 | **Type:**                                        |
-| **Distance:**                                                              | **Target:** One creature of your size or smaller |
+|                                                                        |                  |
+| :--------------------------------------------------------------------- | :--------------- |
+| **Keywords:**                                                          | **Type:** Action |
+| **Distance:** Melee 1 **Target:** One creature of your size or smaller | **Target:**      |
 
 **Power Roll + Might:**
 

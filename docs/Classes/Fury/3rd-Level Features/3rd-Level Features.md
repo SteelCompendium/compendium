@@ -16,4 +16,4 @@ As a 3rd-level fury, you gain the following features.
 
 [NATURE'S KNIGHT](./Natures%20Knight/Natures%20Knight.md)
 
-[7-RAGE ABILITY](./7-Rage%20Ability.md)
+[7-RAGE ABILITY](./7-Rage%20Ability/7-Rage%20Ability.md)

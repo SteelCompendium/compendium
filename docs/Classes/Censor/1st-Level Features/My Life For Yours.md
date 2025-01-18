@@ -6,17 +6,25 @@ name: My Life For Yours
 type: classes
 subtype: censor
 kind: 1st-level features
-distance: Ranged 10 **Target:** Self or one ally **Trigger:** The target starts their turn or takes damage.
+keywords: Magic, Ranged
+keyword_list:
+  - Magic
+  - Ranged
+ability_type: Triggered **Distance:** Ranged 10
+target: Self or one ally
+trigger: The target starts their turn or takes damage.
 ---
 
 # My Life For Yours
 
-*The first principle of the oath: defend the righteous.* **Keywords:** Magic, Ranged **Type:** Triggered
+*The first principle of the oath: defend the righteous.*
 
-|                                                                                                                 |             |
-| :-------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:**                                                                                                   | **Type:**   |
-| **Distance:** Ranged 10 **Target:** Self or one ally **Trigger:** The target starts their turn or takes damage. | **Target:** |
+|                             |                                             |
+| :-------------------------- | :------------------------------------------ |
+| **Keywords:** Magic, Ranged | **Type:** Triggered **Distance:** Ranged 10 |
+| **Distance:**               | **Target:** Self or one ally                |
+
+**Trigger:** The target starts their turn or takes damage.
 
 **Effect:** You spend a Recovery and the target regains Stamina equal to your Recovery value.
 

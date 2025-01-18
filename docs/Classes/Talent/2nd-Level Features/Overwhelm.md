@@ -7,26 +7,20 @@ cost: 5 Clarity
 type: classes
 subtype: talent
 kind: 2nd-level features
-keywords: Psionic, Ranged, Strike, Telepathy
-keyword_list:
-  - Psionic
-  - Ranged
-  - Strike
-  - Telepathy
+distance: Ranged 10
+target: One creature \|
 ---
 
 # Overwhelm (5 Clarity)
 
-*You overload their senses, turning all their subconscious thoughts into conscious ones.*
+*You overload their senses, turning all their subconscious thoughts into conscious ones.* **Keywords:** Psionic, Ranged, Strike, Telepathy
 
-|                                                  |             |
-| :----------------------------------------------- | :---------- |
-| **Keywords:** Psionic, Ranged, Strike, Telepathy | **Type:**   |
-| **Distance:**                                    | **Target:** |
-
-|                     | Type: Action         |
-| ------------------- | -------------------- |
-| Distance: Ranged 10 | Target: One creature |
+| **Type:** Action                     |                                   |
+| ------------------------------------ | --------------------------------- |
+|                                      |                                   |
+| :----------------------------------- | :-------------------------------- |
+| **Keywords:**                        | **Type:**                         |
+| **Distance:** Ranged 10              | **Target:** One creature \|       |
 
 **Power Roll + Reason:**
 

@@ -7,19 +7,21 @@ cost: 11 Wrath
 type: classes
 subtype: censor
 kind: 9th-level features
-keywords: Magic, Ranged **Type:** Triggered Action **Distance:** Ranged 10 **Target:** 1 creature **Trigger:** The target makes a power roll.
-keyword_list:
-  - Magic
-  - Ranged **Type:** Triggered Action **Distance:** Ranged 10 **Target:** 1 creature **Trigger:** The target makes a power roll.
+ability_type: Triggered Action
+distance: Ranged 10
+target: 1 creature
+trigger: The target makes a power roll.
 ---
 
 # Blessing And A Curse (11 Wrath)
 
-*The gods bless and damn in equal measures.*
+*The gods bless and damn in equal measures.* **Keywords:** Magic, Ranged
 
-|                                                                                                                                                   |             |
-| :------------------------------------------------------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Magic, Ranged **Type:** Triggered Action **Distance:** Ranged 10 **Target:** 1 creature **Trigger:** The target makes a power roll. | **Type:**   |
-| **Distance:**                                                                                                                                     | **Target:** |
+|                         |                            |
+| :---------------------- | :------------------------- |
+| **Keywords:**           | **Type:** Triggered Action |
+| **Distance:** Ranged 10 | **Target:** 1 creature     |
+
+**Trigger:** The target makes a power roll.
 
 **Effect:** The target automatically gets a tier 1 or tier 3 result on their power roll, chosen by you. Select another target within range to get a tier 1 or tier 3 result on their next power roll. You must choose different tiers for each target.

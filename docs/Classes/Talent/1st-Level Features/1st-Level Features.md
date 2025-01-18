@@ -30,28 +30,24 @@ As a talent, you gain the following features.
 
 [TALENT ABILITIES](./Talent%20Abilities/Talent%20Abilities.md)
 
-[Distance:\*\* Ranged 10 \*\*Target: One creature](./Distance%20Ranged%2010%20Target%20One%20Creature.md)
-
-[KINETIC GRIP](./Kinetic%20Grip.md)
-
-[o 17+: Push 7; prone](./O%2017%20Push%207%20Prone.md)
+[KINETIC GRIP](./Kinetic%20Grip/Kinetic%20Grip.md)
 
 [MATERIALIZE](./Materialize.md)
 
 [OPTIC BLAST](./Optic%20Blast.md)
 
-[SPIRIT SWORD](./Spirit%20Sword.md)
+[SPIRIT SWORD](./Spirit%20Sword/Spirit%20Sword.md)
 
-[Effect: You gain a surge.](./Effect%20You%20Gain%20A%20Surge/Effect%20You%20Gain%20A%20Surge.md)
-
-[AWE (3 CLARITY)](./Awe.md)
-
-[Type: Action](./Type%20Action.md)
-
-[Distance:\*\* Ranged 10 \*\*Target: One ally or enemy](./Distance%20Ranged%2010%20Target%20One%20Ally%20Or%20Enemy.md)
-
-[Type:\*\* Action Distance: Ranged 10 \*\*Target: One creature](./Type%20Action%20Distance%20Ranged%2010%20Target%20One%20Creature.md)
+[AWE (3 CLARITY)](./Awe/Awe.md)
 
 [PRECOGNITION (3 CLARITY)](./Precognition.md)
 
-[SMOLDER (3 CLARITY)](./Smolder.md)
+[SMOLDER (3 CLARITY)](./Smolder/Smolder.md)
+
+[FLASHBACK (5 CLARITY)](./Flashback.md)
+
+[INERTIA SOAK (5 CLARITY)](./Inertia%20Soak.md)
+
+[IRON (5 CLARITY)](./Iron.md)
+
+[PERFECT CLARITY (5 CLARITY)](./Perfect%20Clarity.md)

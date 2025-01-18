@@ -7,21 +7,19 @@ cost: 7 Drama
 type: classes
 subtype: troubadour
 kind: 3rd-level features
-keywords: Area, Magic, Ranged **Type:** Maneuver **Distance:** 4 burst **Target:** Each enemy in the area
-keyword_list:
-  - Area
-  - Magic
-  - Ranged **Type:** Maneuver **Distance:** 4 burst **Target:** Each enemy in the area
+ability_type: Maneuver
+distance: 4 burst
+target: Each enemy in the area
 ---
 
 # Extensive Rewrites (7 Drama)
 
-*No, this isn't right. That foe was over there!*
+*No, this isn't right. That foe was over there!* **Keywords:** Area, Magic, Ranged
 
-|                                                                                                               |             |
-| :------------------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Area, Magic, Ranged **Type:** Maneuver **Distance:** 4 burst **Target:** Each enemy in the area | **Type:**   |
-| **Distance:**                                                                                                 | **Target:** |
+|                       |                                    |
+| :-------------------- | :--------------------------------- |
+| **Keywords:**         | **Type:** Maneuver                 |
+| **Distance:** 4 burst | **Target:** Each enemy in the area |
 
 **Power Roll + Presence:**
 

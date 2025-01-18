@@ -4,9 +4,12 @@ title: Medium
 name_raw: Medium
 name: Medium
 type: complications
-keywords: Magic **Type:** Action **Distance:** Self **Target:** Self
+keywords: Magic
 keyword_list:
-  - Magic **Type:** Action **Distance:** Self **Target:** Self
+  - Magic
+ability_type: Action
+distance: Self
+target: Self
 ---
 
 # Medium
@@ -17,10 +20,10 @@ You can see ghosts and spirits that others just don't sense. They're constantly 
 
 ## Contact Spirits
 
-|                                                                          |             |
-| :----------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic **Type:** Action **Distance:** Self **Target:** Self | **Type:**   |
-| **Distance:**                                                            | **Target:** |
+|                     |                  |
+| :------------------ | :--------------- |
+| **Keywords:** Magic | **Type:** Action |
+| **Distance:** Self  | **Target:** Self |
 
 **Power Roll + Intuition or Presence:**
 

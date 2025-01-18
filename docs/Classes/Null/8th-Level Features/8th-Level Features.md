@@ -21,3 +21,5 @@ As an 8th-level null, you gain the following features.
 [ARCANE PURGE (11 DISCIPLINE)](./Arcane%20Purge.md)
 
 [PHASE HURL (11 DISCIPLINE)](./Phase%20Hurl.md)
+
+[SYNAPTIC ANCHOR (11 DISCIPLINE)](./Synaptic%20Anchor.md)

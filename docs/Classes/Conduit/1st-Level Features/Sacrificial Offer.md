@@ -6,11 +6,24 @@ name: Sacrificial Offer
 type: classes
 subtype: conduit
 kind: 1st-level features
+keywords: Magic, Ranged, Strike
+keyword_list:
+  - Magic
+  - Ranged
+  - Strike
+ability_type: Action
+distance: Ranged 10
+target: One creature
 ---
 
 # Sacrificial Offer
 
-*Divine magic tears at your foe and defends a nearby friend.* **Keywords:** Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature
+*Divine magic tears at your foe and defends a nearby friend.*
+
+|                                     |                          |
+| :---------------------------------- | :----------------------- |
+| **Keywords:** Magic, Ranged, Strike | **Type:** Action         |
+| **Distance:** Ranged 10             | **Target:** One creature |
 
 **Power Roll + Intuition:**
 

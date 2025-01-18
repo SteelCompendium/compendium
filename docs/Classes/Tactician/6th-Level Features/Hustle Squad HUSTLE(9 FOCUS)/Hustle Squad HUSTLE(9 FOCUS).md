@@ -7,20 +7,18 @@ cost: 9 Focus
 type: classes
 subtype: tactician
 kind: 6th-level features
-keywords: Area **Type:** Maneuver
-keyword_list:
-  - Area **Type:** Maneuver
-distance: 2 Burst **Target:** Self and all allies
+ability_type: Maneuver **Distance:** 2 Burst
+target: Self and all allies
 ---
 
 # Hustle, Squad! Hustle!(9 Focus)
 
-*You and your allies coordinate to form a new battle line.*
+*You and your allies coordinate to form a new battle line.* **Keywords:** Area
 
-|                                                       |             |
-| :---------------------------------------------------- | :---------- |
-| **Keywords:** Area **Type:** Maneuver                 | **Type:**   |
-| **Distance:** 2 Burst **Target:** Self and all allies | **Target:** |
+|               |                                          |
+| :------------ | :--------------------------------------- |
+| **Keywords:** | **Type:** Maneuver **Distance:** 2 Burst |
+| **Distance:** | **Target:** Self and all allies          |
 
 **Effect:** Mark two enemies within 10 squares of you. Each target can shift their speed. You and your allies gain two surges.
 

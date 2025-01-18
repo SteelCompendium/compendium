@@ -6,11 +6,25 @@ name: Pressure Points
 type: classes
 subtype: 'null'
 kind: 1st-level features
+keywords: Melee, Psionic, Strike, Weapon
+keyword_list:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
+ability_type: Action
+distance: Melee 1
+target: One creature or object
 ---
 
 # Pressure Points
 
-*You strike at key nerve clusters to leave your foe staggered.* **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
+*You strike at key nerve clusters to leave your foe staggered.*
+
+|                                              |                                    |
+| :------------------------------------------- | :--------------------------------- |
+| **Keywords:** Melee, Psionic, Strike, Weapon | **Type:** Action                   |
+| **Distance:** Melee 1                        | **Target:** One creature or object |
 
 **Power Roll + Agility:**
 

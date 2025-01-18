@@ -7,21 +7,19 @@ cost: 9 Drama
 type: classes
 subtype: troubadour
 kind: 6th-level features
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature or object
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature or object
+ability_type: Action
+distance: Melee 1
+target: 1 creature or object
 ---
 
 # Blood On The Stage (9 Drama)
 
-*It's love and blood or drama and blood. Either way there's always blood.*
+*It's love and blood or drama and blood. Either way there's always blood.* **Keywords:** Melee, Strike, Weapon
 
-|                                                                                                             |             |
-| :---------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature or object | **Type:**   |
-| **Distance:**                                                                                               | **Target:** |
+|                       |                                  |
+| :-------------------- | :------------------------------- |
+| **Keywords:**         | **Type:** Action                 |
+| **Distance:** Melee 1 | **Target:** 1 creature or object |
 
 **Power Roll + Agility:**
 

@@ -12,4 +12,4 @@ kind: 2nd-level features
 
 Your primordial aspect grants your choice of one of two abilities.
 
-[2ND-LEVEL BERSERKER ABILITY](./2nd-Level%20Berserker%20Ability.md)
+[2ND-LEVEL BERSERKER ABILITY](./2nd-Level%20Berserker%20Ability/2nd-Level%20Berserker%20Ability.md)

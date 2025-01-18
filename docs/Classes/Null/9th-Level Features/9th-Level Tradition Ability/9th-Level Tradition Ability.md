@@ -12,6 +12,6 @@ kind: 9th-level features
 
 Your specialization grants your choice of one of two abilities.
 
-[9TH-LEVEL CHRONOKINETIC ABILITIES](./9th-Level%20Chronokinetic%20Abilities.md)
+[9TH-LEVEL CHRONOKINETIC ABILITIES](./9th-Level%20Chronokinetic%20Abilities/9th-Level%20Chronokinetic%20Abilities.md)
 
-[9TH-LEVEL METAKINETIC ABILITIES](./9th-Level%20Metakinetic%20Abilities.md)
+[9TH-LEVEL METAKINETIC ABILITIES](./9th-Level%20Metakinetic%20Abilities/9th-Level%20Metakinetic%20Abilities.md)

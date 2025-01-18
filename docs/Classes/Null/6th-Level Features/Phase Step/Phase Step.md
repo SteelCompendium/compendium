@@ -7,22 +7,19 @@ cost: 9 Discipline
 type: classes
 subtype: 'null'
 kind: 6th-level features
-keywords: Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Self **Target:** Self
-keyword_list:
-  - Melee
-  - Psionic
-  - Strike
-  - Weapon **Type:** Action **Distance:** Self **Target:** Self
+ability_type: Action
+distance: Self
+target: Self
 ---
 
 # Phase Step (9 Discipline)
 
-*You weaken your connection to this manifold, allowing you to move through and damage enemies.*
+*You weaken your connection to this manifold, allowing you to move through and damage enemies.* **Keywords:** Melee, Psionic, Strike, Weapon
 
-|                                                                                                   |             |
-| :------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Self **Target:** Self | **Type:**   |
-| **Distance:**                                                                                     | **Target:** |
+|                    |                  |
+| :----------------- | :--------------- |
+| **Keywords:**      | **Type:** Action |
+| **Distance:** Self | **Target:** Self |
 
 **Effect:** You shift up to your speed. You can move through enemies and objects without them counting as difficult terrain and through one square of terrain at a time. You make one power roll that targets each enemy who you went through during this move.
 

@@ -7,25 +7,17 @@ cost: 5 Wrath
 type: classes
 subtype: censor
 kind: 1st-level features
-keywords: Magic, Melee, Ranged, Strike, Weapon **Type:** Action
-keyword_list:
-  - Magic
-  - Melee
-  - Ranged
-  - Strike
-  - Weapon **Type:** Action
-distance: Melee 1 or ranged 5
-target: One creature
+ability_type: Action **Distance:** Melee 1 or ranged 5 **Target:** One creature
 ---
 
 # Behold The Face Of Evil! (5 Wrath)
 
-*You show your enemies a vision of the true nature of one of their companions.*
+*You show your enemies a vision of the true nature of one of their companions.* **Keywords:** Magic, Melee, Ranged, Strike, Weapon
 
-|                                                                     |                          |
-| :------------------------------------------------------------------ | :----------------------- |
-| **Keywords:** Magic, Melee, Ranged, Strike, Weapon **Type:** Action | **Type:**                |
-| **Distance:** Melee 1 or ranged 5                                   | **Target:** One creature |
+|               |                                                                             |
+| :------------ | :-------------------------------------------------------------------------- |
+| **Keywords:** | **Type:** Action **Distance:** Melee 1 or ranged 5 **Target:** One creature |
+| **Distance:** | **Target:**                                                                 |
 
 **Power Roll + Might:**
 

@@ -6,16 +6,21 @@ name: Advanced Tactics
 type: classes
 subtype: tactician
 kind: 1st-level features
+distance: Ranged 10
+target: Any creature
 trigger: The target deals damage to another creature.
 ---
 
 # Advanced Tactics
 
-*Your leadership aids an ally.*
+*Your leadership aids an ally.* **Keywords:** Ranged
 
-| Keywords: Ranged    | Type: Triggered      |
-| ------------------- | -------------------- |
-| Distance: Ranged 10 | Target: Any creature |
+| **Type:** Triggered                  |                                   |
+| ------------------------------------ | --------------------------------- |
+|                                      |                                   |
+| :----------------------------------- | :-------------------------------- |
+| **Keywords:**                        | **Type:**                         |
+| **Distance:** Ranged 10              | **Target:** Any creature          |
 
 **Trigger:** The target deals damage to another creature.
 

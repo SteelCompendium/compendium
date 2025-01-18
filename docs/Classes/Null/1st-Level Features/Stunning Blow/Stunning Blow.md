@@ -7,22 +7,19 @@ cost: 3 Discipline
 type: classes
 subtype: 'null'
 kind: 1st-level features
-keywords: Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
-keyword_list:
-  - Melee
-  - Psionic
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
+ability_type: Action
+distance: Melee 1
+target: One creature or object
 ---
 
 # Stunning Blow (3 Discipline)
 
-*You focus your psionic technique into a debilitating concussive punch.*
+*You focus your psionic technique into a debilitating concussive punch.* **Keywords:** Melee, Psionic, Strike, Weapon
 
-|                                                                                                                        |             |
-| :--------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object | **Type:**   |
-| **Distance:**                                                                                                          | **Target:** |
+|                       |                                    |
+| :-------------------- | :--------------------------------- |
+| **Keywords:**         | **Type:** Action                   |
+| **Distance:** Melee 1 | **Target:** One creature or object |
 
 **Power Roll + Agility:**
 

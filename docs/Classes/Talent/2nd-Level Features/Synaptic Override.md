@@ -7,21 +7,19 @@ cost: 5 Clarity
 type: classes
 subtype: talent
 kind: 2nd-level features
-keywords: Psionic, Ranged, Telepathy **Type:** Action **Distance:** Ranged 10 **Target:** One enemy
-keyword_list:
-  - Psionic
-  - Ranged
-  - Telepathy **Type:** Action **Distance:** Ranged 10 **Target:** One enemy
+ability_type: Action
+distance: Ranged 10
+target: One enemy
 ---
 
 # Synaptic Override (5 Clarity)
 
-*You gain control over an enemy's nervous system. How pleasant for them.*
+*You gain control over an enemy's nervous system. How pleasant for them.* **Keywords:** Psionic, Ranged, Telepathy
 
-|                                                                                                         |             |
-| :------------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Psionic, Ranged, Telepathy **Type:** Action **Distance:** Ranged 10 **Target:** One enemy | **Type:**   |
-| **Distance:**                                                                                           | **Target:** |
+|                         |                       |
+| :---------------------- | :-------------------- |
+| **Keywords:**           | **Type:** Action      |
+| **Distance:** Ranged 10 | **Target:** One enemy |
 
 **Power Roll + Reason:**
 

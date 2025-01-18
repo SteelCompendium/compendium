@@ -6,22 +6,19 @@ name: Witty Banter
 type: classes
 subtype: troubadour
 kind: 1st-level features
-keywords: Magic, Melee, Ranged, Strike **Type:** Action **Distance:** Melee 1 or ranged 5 **Target:** One creature
-keyword_list:
-  - Magic
-  - Melee
-  - Ranged
-  - Strike **Type:** Action **Distance:** Melee 1 or ranged 5 **Target:** One creature
+ability_type: Action
+distance: Melee 1 or ranged 5
+target: One creature
 ---
 
 # Witty Banter
 
-*A lyrical (and physical) jab insults an enemy and inspires an ally.*
+*A lyrical (and physical) jab insults an enemy and inspires an ally.* **Keywords:** Magic, Melee, Ranged, Strike
 
-|                                                                                                                        |             |
-| :--------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Melee, Ranged, Strike **Type:** Action **Distance:** Melee 1 or ranged 5 **Target:** One creature | **Type:**   |
-| **Distance:**                                                                                                          | **Target:** |
+|                                   |                          |
+| :-------------------------------- | :----------------------- |
+| **Keywords:**                     | **Type:** Action         |
+| **Distance:** Melee 1 or ranged 5 | **Target:** One creature |
 
 **Power Roll + Presence:**
 

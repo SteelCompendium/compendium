@@ -7,22 +7,19 @@ cost: 11 Clarity
 type: classes
 subtype: talent
 kind: 8th-level features
-keywords: Psionic, Melee, Strike, Telepathy **Type:** Action **Distance:** Melee 2
-|  |  |
-| :----------------------------------------------------------------------------------------------------------------- | :-------------------------------- |
-| **Keywords:** Psionic, Melee, Strike, Telepathy **Type:** Action **Distance:** Melee 2 **Target:** 1 creature | **Type:**  |
-| **Distance:**  | **Target:** 1 creature |
-
-keyword_list:
-- Psionic
-- Melee
-- Strike
-- Telepathy **Type:** Action **Distance:** Melee 2 **Target:** 1 creature
+ability_type: Action
+distance: Melee 2
+target: 1 creature
 ---
 
 # Mindwipe (11 Clarity)
 
-*You attempt to make them forget all of their training.*
+*You attempt to make them forget all of their training.* **Keywords:** Psionic, Melee, Strike, Telepathy
+
+|                       |                        |
+| :-------------------- | :--------------------- |
+| **Keywords:**         | **Type:** Action       |
+| **Distance:** Melee 2 | **Target:** 1 creature |
 
 **Power Roll + Reason:**
 

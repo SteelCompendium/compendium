@@ -12,4 +12,4 @@ kind: 9th-level features
 
 Your class act grants your choice of one of two abilities.
 
-[9TH-LEVEL DUELIST ABILITIES](./9th-Level%20Duelist%20Abilities.md)
+[9TH-LEVEL DUELIST ABILITIES](./9th-Level%20Duelist%20Abilities/9th-Level%20Duelist%20Abilities.md)

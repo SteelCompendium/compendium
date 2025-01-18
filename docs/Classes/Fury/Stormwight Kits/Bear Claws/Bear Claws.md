@@ -6,11 +6,24 @@ name: Bear Claws
 type: classes
 subtype: fury
 kind: stormwight kits
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
+ability_type: Action
+distance: Melee 1
+target: One creature or object
 ---
 
 # Bear Claws
 
-*Attacks with your sharp and deadly claws grab the weak.* **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
+*Attacks with your sharp and deadly claws grab the weak.*
+
+|                                     |                                    |
+| :---------------------------------- | :--------------------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action                   |
+| **Distance:** Melee 1               | **Target:** One creature or object |
 
 **Power Roll + Might:**
 

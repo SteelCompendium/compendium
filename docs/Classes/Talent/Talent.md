@@ -17,8 +17,6 @@ A talent is limited only by the strength of their mind. Powerful psionic heroes 
 
 [1ST-LEVEL FEATURES](./1st-Level%20Features/1st-Level%20Features.md)
 
-[Type: Action](./Type%20Action/Type%20Action.md)
-
 [2ND-LEVEL FEATURES](./2nd-Level%20Features/2nd-Level%20Features.md)
 
 [3RD-LEVEL FEATURES](./3rd-Level%20Features/3rd-Level%20Features.md)

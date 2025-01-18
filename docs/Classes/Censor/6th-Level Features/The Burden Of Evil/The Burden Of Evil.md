@@ -7,20 +7,19 @@ cost: 9 Wrath
 type: classes
 subtype: censor
 kind: 6th-level features
-keywords: Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** 3 enemies
-keyword_list:
-  - Magic
-  - Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** 3 enemies
+ability_type: Maneuver
+distance: Ranged 10
+target: 3 enemies
 ---
 
 # The Burden Of Evil (9 Wrath)
 
-*Using the power of prophecy you disrupt your enemy's plans.*
+*Using the power of prophecy you disrupt your enemy's plans.* **Keywords:** Magic, Ranged
 
-|                                                                                              |             |
-| :------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** 3 enemies | **Type:**   |
-| **Distance:**                                                                                | **Target:** |
+|                         |                       |
+| :---------------------- | :-------------------- |
+| **Keywords:**           | **Type:** Maneuver    |
+| **Distance:** Ranged 10 | **Target:** 3 enemies |
 
 **Power Roll + Presence:**
 

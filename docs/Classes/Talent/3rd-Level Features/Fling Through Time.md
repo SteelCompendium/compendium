@@ -7,17 +7,24 @@ cost: 7 Clarity
 type: classes
 subtype: talent
 kind: 3rd-level features
-ability_type: Action **Distance:** Ranged 10 **Target:** One creature or object
+keywords: Chronopathy, Psionic, Ranged, Strike **Type:** Action
+keyword_list:
+  - Chronopathy
+  - Psionic
+  - Ranged
+  - Strike **Type:** Action
+distance: Ranged 10
+target: One creature or object
 ---
 
 # Fling Through Time (7 Clarity)
 
-*You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.* **Keywords:** Chronopathy, Psionic, Ranged, Strike
+*You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.*
 
-|               |                                                                             |
-| :------------ | :-------------------------------------------------------------------------- |
-| **Keywords:** | **Type:** Action **Distance:** Ranged 10 **Target:** One creature or object |
-| **Distance:** | **Target:**                                                                 |
+|                                                                     |                                    |
+| :------------------------------------------------------------------ | :--------------------------------- |
+| **Keywords:** Chronopathy, Psionic, Ranged, Strike **Type:** Action | **Type:**                          |
+| **Distance:** Ranged 10                                             | **Target:** One creature or object |
 
 **Power Roll + Presence:**
 

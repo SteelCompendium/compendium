@@ -6,24 +6,17 @@ name: Mind Spike
 type: classes
 subtype: talent
 kind: 1st-level features
-keywords: Psionic, Ranged, Strike, Telepathy
-keyword_list:
-  - Psionic
-  - Ranged
-  - Strike
-  - Telepathy
-ability_type: Action
-distance: Ranged 10 **Target:** One creature
+target: One creature **Type:** Action
 ---
 
 # Mind Spike
 
-*A telepathic bolt instantly zaps a creature's brain.*
+*A telepathic bolt instantly zaps a creature's brain.* **Keywords:** Psionic, Ranged, Strike, Telepathy **Distance:** Ranged 10
 
-|                                                  |                  |
-| :----------------------------------------------- | :--------------- |
-| **Keywords:** Psionic, Ranged, Strike, Telepathy | **Type:** Action |
-| **Distance:** Ranged 10 **Target:** One creature | **Target:**      |
+|               |                                           |
+| :------------ | :---------------------------------------- |
+| **Keywords:** | **Type:**                                 |
+| **Distance:** | **Target:** One creature **Type:** Action |
 
 **Power Roll + Reason:**
 

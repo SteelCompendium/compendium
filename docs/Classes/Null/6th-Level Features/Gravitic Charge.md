@@ -7,23 +7,18 @@ cost: 9 Discipline
 type: classes
 subtype: 'null'
 kind: 6th-level features
-keywords: Melee, Psionic, Strike, Weapon **Type:** Maneuver
-keyword_list:
-  - Melee
-  - Psionic
-  - Strike
-  - Weapon **Type:** Maneuver
-distance: Self **Target:** Self
+ability_type: Maneuver **Distance:** Self
+target: Self
 ---
 
 # Gravitic Charge (9 Discipline)
 
-*You channel your discipline into momentum that defies gravity.*
+*You channel your discipline into momentum that defies gravity.* **Keywords:** Melee, Psionic, Strike, Weapon
 
-|                                                                 |             |
-| :-------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Maneuver | **Type:**   |
-| **Distance:** Self **Target:** Self                             | **Target:** |
+|               |                                       |
+| :------------ | :------------------------------------ |
+| **Keywords:** | **Type:** Maneuver **Distance:** Self |
+| **Distance:** | **Target:** Self                      |
 
 **Power Roll + Intuition:**
 

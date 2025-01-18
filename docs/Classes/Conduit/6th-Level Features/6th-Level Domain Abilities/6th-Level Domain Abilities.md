@@ -12,4 +12,4 @@ kind: 6th-level features
 
 Choose one of your domains. You gain an ability from it as shown on the 6th-Level Conduit Domain Abilities table.
 
-[6TH-LEVEL CONDUIT DOMAIN ABILITIES](./6th-Level%20Conduit%20Domain%20Abilities.md)
+[6TH-LEVEL CONDUIT DOMAIN ABILITIES](./6th-Level%20Conduit%20Domain%20Abilities/6th-Level%20Conduit%20Domain%20Abilities.md)

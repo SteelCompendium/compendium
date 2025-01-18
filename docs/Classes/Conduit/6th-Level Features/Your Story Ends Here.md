@@ -7,15 +7,20 @@ cost: 9 Piety
 type: classes
 subtype: conduit
 kind: 6th-level features
+distance: Ranged 10
+target: 1 creature \|
 ---
 
 # Your Story Ends Here (9 Piety)
 
-*You bend the fate of a foe, willing them to die.*
+*You bend the fate of a foe, willing them to die.* **Keywords:** Magic, Ranged, Strike
 
-| Keywords: Magic, Ranged, Strike | Type: Action       |
-| ------------------------------- | ------------------ |
-| Distance: Ranged 10             | Target: 1 creature |
+| **Type:** Action                     |                                   |
+| ------------------------------------ | --------------------------------- |
+|                                      |                                   |
+| :----------------------------------- | :-------------------------------- |
+| **Keywords:**                        | **Type:**                         |
+| **Distance:** Ranged 10              | **Target:** 1 creature \|         |
 
 **Power Roll + Intuition:**
 

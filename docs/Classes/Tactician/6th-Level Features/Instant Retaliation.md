@@ -7,23 +7,19 @@ cost: 9 Focus
 type: classes
 subtype: tactician
 kind: 6th-level features
-keywords: Melee, Weapon **Type:** Free Triggered Action **Distance:** Melee 1 **Target:** 1 ally
-keyword_list:
-  - Melee
-  - Weapon **Type:** Free Triggered Action **Distance:** Melee 1 **Target:** 1 ally
-trigger: A creature deals damage to the target. **Effect:** The damage is halved. Then you roll power against the creature who dealt the damage.
+ability_type: Free Triggered Action
+distance: Melee 1
+target: 1 ally **Trigger:** A creature deals damage to the target. **Effect:** The damage is halved. Then you roll power against the creature who dealt the damage.
 ---
 
 # Instant Retaliation (9 Focus)
 
-*You parry with almost supernatural speed.*
+*You parry with almost supernatural speed.* **Keywords:** Melee, Weapon
 
-|                                                                                                      |             |
-| :--------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Weapon **Type:** Free Triggered Action **Distance:** Melee 1 **Target:** 1 ally | **Type:**   |
-| **Distance:**                                                                                        | **Target:** |
-
-**Trigger:** A creature deals damage to the target. **Effect:** The damage is halved. Then you roll power against the creature who dealt the damage.
+|                       |                                                                                                                                                                         |
+| :-------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Keywords:**         | **Type:** Free Triggered Action                                                                                                                                         |
+| **Distance:** Melee 1 | **Target:** 1 ally **Trigger:** A creature deals damage to the target. **Effect:** The damage is halved. Then you roll power against the creature who dealt the damage. |
 
 **Power Roll + Might:**
 

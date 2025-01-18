@@ -22,7 +22,7 @@ You gain a domain feature from one of your domains, as
 
 [BLESSING OF LIFE](./Blessing%20Of%20Life.md)
 
-[BLESSING OF SECRETS](./Blessing%20Of%20Secrets.md)
+[BLESSING OF SECRETS](./Blessing%20Of%20Secrets/Blessing%20Of%20Secrets.md)
 
 [IMPERVIOUS TOUCH](./Impervious%20Touch.md)
 

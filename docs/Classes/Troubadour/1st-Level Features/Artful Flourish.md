@@ -6,21 +6,19 @@ name: Artful Flourish
 type: classes
 subtype: troubadour
 kind: 1st-level features
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** Two creatures or objects
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** Two creatures or objects
+ability_type: Action
+distance: Melee 1
+target: Two creatures or objects
 ---
 
 # Artful Flourish
 
-*And they said practicing fencing was a waste!*
+*And they said practicing fencing was a waste!* **Keywords:** Melee, Strike, Weapon
 
-|                                                                                                                 |             |
-| :-------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** Two creatures or objects | **Type:**   |
-| **Distance:**                                                                                                   | **Target:** |
+|                       |                                      |
+| :-------------------- | :----------------------------------- |
+| **Keywords:**         | **Type:** Action                     |
+| **Distance:** Melee 1 | **Target:** Two creatures or objects |
 
 - **Power Roll + Agility:**
 - *11 or lower:* **2 damage**

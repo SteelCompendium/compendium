@@ -7,21 +7,19 @@ cost: 11 Wrath
 type: classes
 subtype: censor
 kind: 8th-level features
-keywords: Ranged, Strike, Weapon **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature
-keyword_list:
-  - Ranged
-  - Strike
-  - Weapon **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature
+ability_type: Action
+distance: Ranged 10
+target: 1 creature
 ---
 
 # Hand Of The Gods (11 Wrath)
 
-*You use your foe as a tool against your enemies.*
+*You use your foe as a tool against your enemies.* **Keywords:** Ranged, Strike, Weapon
 
-|                                                                                                      |             |
-| :--------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Ranged, Strike, Weapon **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature | **Type:**   |
-| **Distance:**                                                                                        | **Target:** |
+|                         |                        |
+| :---------------------- | :--------------------- |
+| **Keywords:**           | **Type:** Action       |
+| **Distance:** Ranged 10 | **Target:** 1 creature |
 
 **Power Roll + Might:**
 

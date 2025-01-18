@@ -7,16 +7,21 @@ cost: 7 Piety
 type: classes
 subtype: conduit
 kind: 3rd-level features
-distance: Ranged 10 **Target:** One ally **Effect:** The target gains 20 Temporary Stamina and three
+keywords: Magic, Ranged
+keyword_list:
+  - Magic
+  - Ranged
+ability_type: Maneuver **Distance:** Ranged 10
+target: One ally **Effect:** The target gains 20 Temporary Stamina and three
 ---
 
 # Saint's Raiment (7 Piety)
 
-*An ally becomes the wearer of an empowered golden cloak.* **Keywords:** Magic, Ranged **Type:** Maneuver
+*An ally becomes the wearer of an empowered golden cloak.*
 
-|                                                                                                          |             |
-| :------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:**                                                                                            | **Type:**   |
-| **Distance:** Ranged 10 **Target:** One ally **Effect:** The target gains 20 Temporary Stamina and three | **Target:** |
+|                             |                                                                                  |
+| :-------------------------- | :------------------------------------------------------------------------------- |
+| **Keywords:** Magic, Ranged | **Type:** Maneuver **Distance:** Ranged 10                                       |
+| **Distance:**               | **Target:** One ally **Effect:** The target gains 20 Temporary Stamina and three |
 
 surges.

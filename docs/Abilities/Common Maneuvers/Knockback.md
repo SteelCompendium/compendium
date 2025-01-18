@@ -5,19 +5,20 @@ name_raw: Knockback
 name: Knockback
 type: abilities
 subtype: common maneuvers
-keywords: Melee, Weapon **Type:** Maneuver **Distance:** Melee 1
+keywords: Melee, Weapon
 keyword_list:
   - Melee
-  - Weapon **Type:** Maneuver **Distance:** Melee 1
-target: 1 creature no more than 1 size larger than you
+  - Weapon
+ability_type: Maneuver
+distance: Melee 1 **Target:** 1 creature no more than 1 size larger than you
 ---
 
 # Knockback
 
-|                                                                      |                                                            |
-| :------------------------------------------------------------------- | :--------------------------------------------------------- |
-| **Keywords:** Melee, Weapon **Type:** Maneuver **Distance:** Melee 1 | **Type:**                                                  |
-| **Distance:**                                                        | **Target:** 1 creature no more than 1 size larger than you |
+|                                                                                  |                    |
+| :------------------------------------------------------------------------------- | :----------------- |
+| **Keywords:** Melee, Weapon                                                      | **Type:** Maneuver |
+| **Distance:** Melee 1 **Target:** 1 creature no more than 1 size larger than you | **Target:**        |
 
 **Power Roll + Might:**
 

@@ -21,6 +21,6 @@ While you have 3 or more essence and you aren't dying, you exude an aura of magi
 | Green          | Flowering Bed   |
 | Void           | Veiling Bed     |
 
-BURNING GROUNDS
+### Burning Grounds
 
 When you end your turn, each enemy in the aura takes fire damage equal to your Reason score.

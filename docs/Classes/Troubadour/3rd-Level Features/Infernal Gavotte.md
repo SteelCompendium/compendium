@@ -7,11 +7,24 @@ cost: 7 Drama
 type: classes
 subtype: troubadour
 kind: 3rd-level features
+keywords: Area, Magic, Weapon
+keyword_list:
+  - Area
+  - Magic
+  - Weapon
+ability_type: Action
+distance: 3 burst
+target: Each enemy in the area
 ---
 
 # Infernal Gavotte (7 Drama)
 
-*A spicy performance lights a fire under your allies' feet.* **Keywords:** Area, Magic, Weapon **Type:** Action **Distance:** 3 burst **Target:** Each enemy in the area
+*A spicy performance lights a fire under your allies' feet.*
+
+|                                   |                                    |
+| :-------------------------------- | :--------------------------------- |
+| **Keywords:** Area, Magic, Weapon | **Type:** Action                   |
+| **Distance:** 3 burst             | **Target:** Each enemy in the area |
 
 **Power Roll + Presence:**
 

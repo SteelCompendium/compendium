@@ -7,21 +7,19 @@ cost: 5 Rage
 type: classes
 subtype: fury
 kind: 2nd-level features
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
+ability_type: Action
+distance: Melee 1
+target: One creature
 ---
 
 # Rrraaaghh!(5 Rage)
 
-*Death! Deeaaath!!*
+*Death! Deeaaath!!* **Keywords:** Melee, Strike, Weapon
 
-|                                                                                                     |             |
-| :-------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature | **Type:**   |
-| **Distance:**                                                                                       | **Target:** |
+|                       |                          |
+| :-------------------- | :----------------------- |
+| **Keywords:**         | **Type:** Action         |
+| **Distance:** Melee 1 | **Target:** One creature |
 
 **Power Roll + Might:**
 

@@ -6,27 +6,20 @@ name: Afflict A Bountiful Decay
 type: classes
 subtype: elementalist
 kind: 1st-level features
-keywords: Green, Rot, Magic, Ranged, Strike
-keyword_list:
-  - Green
-  - Rot
-  - Magic
-  - Ranged
-  - Strike
+distance: Ranged 10
+target: One creature \|
 ---
 
 # Afflict A Bountiful Decay
 
-*Your curse causes a foe's flesh to rot off as spores that aid your allies.*
+*Your curse causes a foe's flesh to rot off as spores that aid your allies.* **Keywords:** Green, Rot, Magic, Ranged, Strike
 
-|                                                 |             |
-| :---------------------------------------------- | :---------- |
-| **Keywords:** Green, Rot, Magic, Ranged, Strike | **Type:**   |
-| **Distance:**                                   | **Target:** |
-
-|                     | Type: Action         |
-| ------------------- | -------------------- |
-| Distance: Ranged 10 | Target: One creature |
+| **Type:** Action                     |                                   |
+| ------------------------------------ | --------------------------------- |
+|                                      |                                   |
+| :----------------------------------- | :-------------------------------- |
+| **Keywords:**                        | **Type:**                         |
+| **Distance:** Ranged 10              | **Target:** One creature \|       |
 
 **Power Roll + Reason:**
 

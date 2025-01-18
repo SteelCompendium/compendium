@@ -4,11 +4,9 @@ title: Swashbuckler
 name_raw: Swashbuckler
 name: Swashbuckler
 type: kits
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
+ability_type: Action
+distance: Melee 1
+target: 1 creature
 ---
 
 # Swashbuckler
@@ -30,12 +28,12 @@ You wear light armor and wield a medium weapon.
 
 ## Fancy Footwork
 
-*All combat is a dance--and you'll be the one leading.*
+*All combat is a dance--and you'll be the one leading.* **Keywords:** Melee, Strike, Weapon
 
-|                                                                                                   |             |
-| :------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature | **Type:**   |
-| **Distance:**                                                                                     | **Target:** |
+|                       |                        |
+| :-------------------- | :--------------------- |
+| **Keywords:**         | **Type:** Action       |
+| **Distance:** Melee 1 | **Target:** 1 creature |
 
 **Power Roll + Might or Agility:**
 

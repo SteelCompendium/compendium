@@ -6,17 +6,23 @@ name: Back, Blasphemer!
 type: classes
 subtype: censor
 kind: 1st-level features
-target: Each enemy in the area
+keywords: Area, Magic, Weapon
+keyword_list:
+  - Area
+  - Magic
+  - Weapon
+ability_type: Action
+distance: 2 cube within 1 **Target:** Each enemy in the area
 ---
 
 # Back, Blasphemer!
 
-*You channel power through your weapon to repel foes.* **Keywords:** Area, Magic, Weapon **Type:** Action **Distance:** 2 cube within 1
+*You channel power through your weapon to repel foes.*
 
-|               |                                    |
-| :------------ | :--------------------------------- |
-| **Keywords:** | **Type:**                          |
-| **Distance:** | **Target:** Each enemy in the area |
+|                                                                  |                  |
+| :--------------------------------------------------------------- | :--------------- |
+| **Keywords:** Area, Magic, Weapon                                | **Type:** Action |
+| **Distance:** 2 cube within 1 **Target:** Each enemy in the area | **Target:**      |
 
 **Power Roll + Presence:**
 

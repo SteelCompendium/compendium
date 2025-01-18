@@ -7,22 +7,19 @@ cost: 3 Discipline
 type: classes
 subtype: 'null'
 kind: 1st-level features
-keywords: Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
-keyword_list:
-  - Melee
-  - Psionic
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
+ability_type: Action
+distance: Melee 1
+target: One creature or object
 ---
 
 # Relentless Nemesis (3 Discipline)
 
-*You strike, and for the next few moments, your enemy can't escape you.*
+*You strike, and for the next few moments, your enemy can't escape you.* **Keywords:** Melee, Psionic, Strike, Weapon
 
-|                                                                                                                        |             |
-| :--------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object | **Type:**   |
-| **Distance:**                                                                                                          | **Target:** |
+|                       |                                    |
+| :-------------------- | :--------------------------------- |
+| **Keywords:**         | **Type:** Action                   |
+| **Distance:** Melee 1 | **Target:** One creature or object |
 
 **Power Roll + Agility:**
 

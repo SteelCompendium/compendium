@@ -10,6 +10,6 @@ kind: 1st-level features
 
 # Grave Speech
 
-You gain the following ability:
+You gain the following ability.
 
 [GRAVE SPEECH](./Grave%20Speech.md)

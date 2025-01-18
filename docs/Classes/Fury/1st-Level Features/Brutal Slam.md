@@ -6,21 +6,19 @@ name: Brutal Slam
 type: classes
 subtype: fury
 kind: 1st-level features
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
+ability_type: Action
+distance: Melee 1
+target: One creature or object
 ---
 
 # Brutal Slam
 
-*The heavy impact of your weapon attacks drives your foes ever backward.*
+*The heavy impact of your weapon attacks drives your foes ever backward.* **Keywords:** Melee, Strike, Weapon
 
-|                                                                                                               |             |
-| :------------------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object | **Type:**   |
-| **Distance:**                                                                                                 | **Target:** |
+|                       |                                    |
+| :-------------------- | :--------------------------------- |
+| **Keywords:**         | **Type:** Action                   |
+| **Distance:** Melee 1 | **Target:** One creature or object |
 
 **Power Roll + Might:**
 

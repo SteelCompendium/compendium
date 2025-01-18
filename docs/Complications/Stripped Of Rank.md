@@ -4,10 +4,8 @@ title: Stripped Of Rank
 name_raw: Stripped Of Rank
 name: Stripped Of Rank
 type: complications
-keywords: Ranged **Type:** Action
-keyword_list:
-  - Ranged **Type:** Action
-distance: Range 10 **Target:** One ally
+ability_type: Action **Distance:** Range 10
+target: One ally
 ---
 
 # Stripped Of Rank
@@ -18,12 +16,12 @@ You were trained as an officer, but you no longer serve. Did you flee a battle? 
 
 ## Issue Order
 
-*"Move or die, folks."*
+*"Move or die, folks."* **Keywords:** Ranged
 
-|                                             |             |
-| :------------------------------------------ | :---------- |
-| **Keywords:** Ranged **Type:** Action       | **Type:**   |
-| **Distance:** Range 10 **Target:** One ally | **Target:** |
+|               |                                         |
+| :------------ | :-------------------------------------- |
+| **Keywords:** | **Type:** Action **Distance:** Range 10 |
+| **Distance:** | **Target:** One ally                    |
 
 **Effect:** The target can use its triggered action to take an
 

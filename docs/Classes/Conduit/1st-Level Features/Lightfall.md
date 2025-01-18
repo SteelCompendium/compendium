@@ -6,20 +6,19 @@ name: Lightfall
 type: classes
 subtype: conduit
 kind: 1st-level features
-keywords: Area, Magic **Type:** Action **Distance:** 2 burst **Target:** Each enemy in the area
-keyword_list:
-  - Area
-  - Magic **Type:** Action **Distance:** 2 burst **Target:** Each enemy in the area
+ability_type: Action
+distance: 2 burst
+target: Each enemy in the area
 ---
 
 # Lightfall
 
-*A rain of holy light scours your enemies and repositions your allies.*
+*A rain of holy light scours your enemies and repositions your allies.* **Keywords:** Area, Magic
 
-|                                                                                                     |             |
-| :-------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic **Type:** Action **Distance:** 2 burst **Target:** Each enemy in the area | **Type:**   |
-| **Distance:**                                                                                       | **Target:** |
+|                       |                                    |
+| :-------------------- | :--------------------------------- |
+| **Keywords:**         | **Type:** Action                   |
+| **Distance:** 2 burst | **Target:** Each enemy in the area |
 
 **Power Roll + Intuition:**
 

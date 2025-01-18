@@ -6,22 +6,19 @@ name: Cutting Sarcasm
 type: classes
 subtype: troubadour
 kind: 1st-level features
-keywords: Magic, Ranged, Strike, Weapon **Type:** Action **Distance:** Ranged 10 **Target:** One creature or object
-keyword_list:
-  - Magic
-  - Ranged
-  - Strike
-  - Weapon **Type:** Action **Distance:** Ranged 10 **Target:** One creature or object
+ability_type: Action
+distance: Ranged 10
+target: One creature or object
 ---
 
 # Cutting Sarcasm
 
-*There you are, radiating your usual charisma.*
+*There you are, radiating your usual charisma.* **Keywords:** Magic, Ranged, Strike, Weapon
 
-|                                                                                                                         |             |
-| :---------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged, Strike, Weapon **Type:** Action **Distance:** Ranged 10 **Target:** One creature or object | **Type:**   |
-| **Distance:**                                                                                                           | **Target:** |
+|                         |                                    |
+| :---------------------- | :--------------------------------- |
+| **Keywords:**           | **Type:** Action                   |
+| **Distance:** Ranged 10 | **Target:** One creature or object |
 
 **Power Roll + Presence:**
 

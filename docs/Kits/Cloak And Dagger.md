@@ -4,12 +4,9 @@ title: Cloak And Dagger
 name_raw: Cloak And Dagger
 name: Cloak And Dagger
 type: kits
-keywords: Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or ranged 10 **Target:** 1 creature
-keyword_list:
-  - Melee
-  - Ranged
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 or ranged 10 **Target:** 1 creature
+ability_type: Action
+distance: Melee 1 or ranged 10
+target: 1 creature
 ---
 
 # Cloak And Dagger
@@ -31,12 +28,12 @@ You wear light armor and wield one or two light weapons.
 
 ## Fade
 
-*A stab, and a few quick, careful steps back.*
+*A stab, and a few quick, careful steps back.* **Keywords:** Melee, Ranged, Strike, Weapon
 
-|                                                                                                                        |             |
-| :--------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or ranged 10 **Target:** 1 creature | **Type:**   |
-| **Distance:**                                                                                                          | **Target:** |
+|                                    |                        |
+| :--------------------------------- | :--------------------- |
+| **Keywords:**                      | **Type:** Action       |
+| **Distance:** Melee 1 or ranged 10 | **Target:** 1 creature |
 
 **Power Roll + Might or Agility:**
 

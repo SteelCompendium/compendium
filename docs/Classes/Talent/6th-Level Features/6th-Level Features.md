@@ -17,7 +17,3 @@ As a 6th-level talent, you gain the following features.
 [PSI BOOST](./Psi%20Boost/Psi%20Boost.md)
 
 [9-CLARITY TRADITION ABILITY](./9-Clarity%20Tradition%20Ability/9-Clarity%20Tradition%20Ability.md)
-
-[Type: Action](./Type%20Action/Type%20Action.md)
-
-[Type: Action](./Type%20Action/Type%20Action.md)

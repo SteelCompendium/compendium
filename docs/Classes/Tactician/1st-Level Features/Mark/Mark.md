@@ -6,37 +6,33 @@ name: Mark
 type: classes
 subtype: tactician
 kind: 1st-level features
-keywords: Ranged
-keyword_list:
-  - Ranged
 ability_type: Maneuver
 distance: Ranged 10
-target: 1 creature
+target: One creature
+trigger: '- The ability deals additional damage equal to twice your Reason score. - The damage dealer can spend a Recovery.'
 ---
 
 # Mark
 
-You know how to focus the attention of your allies as you push them toward victory. You have the following ability:
+*You draw your allies' attention to a specific foe--with devastating effect.* **Keywords:** Ranged
 
-## Mark
+|                         |                          |
+| :---------------------- | :----------------------- |
+| **Keywords:**           | **Type:** Maneuver       |
+| **Distance:** Ranged 10 | **Target:** One creature |
 
-You draw your allies' attention to a specific foe-with devastating effect.
+**Effect:** The target is marked by you until the end of the encounter, you die, you use this ability again, or you willingly end this effect (no action required). If another tactician marks the target, then your mark on the target ends. You can have one target marked this way, but other tactician abilities can allow you to have multiple marked creatures.
 
-|                         |                        |
-| :---------------------- | :--------------------- |
-| **Keywords:** Ranged    | **Type:** Maneuver     |
-| **Distance:** Ranged 10 | **Target:** 1 creature |
+While the target is marked and within your line of effect, you and allies within your line of effect have an edge on power rolls made against the target.
 
-**Effect:** The target is marked by you until the start of your next turn. When attacking a marked target, you and each of your allies gain a damage surge `⚡`.
+When the marked creature is reduced to 0 Stamina, you can use a free triggered action to move the mark to a new target within 10 squares.
 
-**Spend 1 Focus or More Focus:** You focus on understanding the tactics of your foe, countering their strengths and exploiting their weaknesses to enhance your squad.
+In addition, you can spend 1 focus to take one of the following free triggered actions whenever you or an ally damages a target with an ability. You can't use more than one instance of a benefit per
 
-Each focus is banked on the marked creature, increasing the effectiveness of your mark, as indicated on your doctrine's focused mark table below. A marked creature with focus on it stays marked until the end of the encounter. When the marked creature is reduced to 0 Stamina or otherwise removes the mark, you regain the focus.
+**Trigger:** - The ability deals additional damage equal to twice your Reason score. - The damage dealer can spend a Recovery.
 
-You can use this maneuver on an already marked creature to bank more focus.
+- The damage dealer can shift up to a number of squares equal to your Reason score. #### STRIKE NOW
 
-[INSURGENT FOCUSED MARK](./Insurgent%20Focused%20Mark.md)
+Your skill at commanding your allies in combat grants you the following ability.
 
-[MASTERMIND FOCUSED MARK](./Mastermind%20Focused%20Mark.md)
-
-[VANGUARD FOCUSED MARK](./Vanguard%20Focused%20Mark.md)
+["STRIKE NOW!"](./Strike%20Now.md)

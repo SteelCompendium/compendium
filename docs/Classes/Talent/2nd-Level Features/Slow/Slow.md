@@ -7,23 +7,17 @@ cost: 5 Clarity
 type: classes
 subtype: talent
 kind: 2nd-level features
-keywords: Chronopathy, Psionic, Ranged
-keyword_list:
-  - Chronopathy
-  - Psionic
-  - Ranged
-ability_type: Maneuver
-distance: Ranged 10 **Target:** Three creatures or objects
+target: Three creatures or objects
 ---
 
 # Slow (5 Clarity)
 
-*Perhaps they wonder why everyone else is moving so quickly?*
+*Perhaps they wonder why everyone else is moving so quickly?* **Keywords:** Chronopathy, Psionic, Ranged **Type:** Maneuver **Distance:** Ranged 10
 
-|                                                                |                    |
-| :------------------------------------------------------------- | :----------------- |
-| **Keywords:** Chronopathy, Psionic, Ranged                     | **Type:** Maneuver |
-| **Distance:** Ranged 10 **Target:** Three creatures or objects | **Target:**        |
+|               |                                        |
+| :------------ | :------------------------------------- |
+| **Keywords:** | **Type:**                              |
+| **Distance:** | **Target:** Three creatures or objects |
 
 **Power Roll + Presence:**
 

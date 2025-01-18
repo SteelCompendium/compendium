@@ -14,6 +14,8 @@ As a 3rd-level tactician, you gain the following features.
 
 [OUT OF POSITION](./Out%20Of%20Position.md)
 
-[7-FOCUS ABILITY](./7-Focus%20Ability.md)
+[7-FOCUS ABILITY](./7-Focus%20Ability/7-Focus%20Ability.md)
 
 [ROUT (7 FOCUS)](./Rout.md)
+
+[STAY STRONG, AND FOCUS!(7 FOCUS)](<./Stay%20Strong%20And%20FOCUS(7%20FOCUS).md>)

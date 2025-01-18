@@ -6,15 +6,20 @@ name: Practical Magic
 type: classes
 subtype: elementalist
 kind: 1st-level features
+distance: Self; see below
+target: Self \|
 ---
 
 # Practical Magic
 
-*Your mastery of elemental power lets you customize your conjurations.*
+*Your mastery of elemental power lets you customize your conjurations.* **Keywords:** Magic, Ranged
 
-| Keywords: Magic, Ranged   | Type: Maneuver |
-| ------------------------- | -------------- |
-| Distance: Self; see below | Target: Self   |
+| **Type:** Maneuver                   |                                   |
+| ------------------------------------ | --------------------------------- |
+|                                      |                                   |
+| :----------------------------------- | :-------------------------------- |
+| **Keywords:**                        | **Type:**                         |
+| **Distance:** Self; see below        | **Target:** Self \|               |
 
 - **Effect:** Choose one of the following effects:
 - You use the Knockback maneuver, but its distance becomes the range of your Hurl Element ability, and you use Reason instead of Might for the power roll.

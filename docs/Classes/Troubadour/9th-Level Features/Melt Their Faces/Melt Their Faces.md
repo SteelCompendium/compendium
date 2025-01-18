@@ -7,22 +7,19 @@ cost: 11 Drama
 type: classes
 subtype: troubadour
 kind: 9th-level features
-keywords: Magic, Melee, Ranged, Strike **Type:** Action **Distance:** Melee 1 or Ranged 10 **Target:** 1 creature or object
-keyword_list:
-  - Magic
-  - Melee
-  - Ranged
-  - Strike **Type:** Action **Distance:** Melee 1 or Ranged 10 **Target:** 1 creature or object
+ability_type: Action
+distance: Melee 1 or Ranged 10
+target: 1 creature or object
 ---
 
 # Melt Their Faces (11 Drama)
 
-*The power of music rips through the reality around the target and blows them away.*
+*The power of music rips through the reality around the target and blows them away.* **Keywords:** Magic, Melee, Ranged, Strike
 
-|                                                                                                                                 |             |
-| :------------------------------------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Magic, Melee, Ranged, Strike **Type:** Action **Distance:** Melee 1 or Ranged 10 **Target:** 1 creature or object | **Type:**   |
-| **Distance:**                                                                                                                   | **Target:** |
+|                                    |                                  |
+| :--------------------------------- | :------------------------------- |
+| **Keywords:**                      | **Type:** Action                 |
+| **Distance:** Melee 1 or Ranged 10 | **Target:** 1 creature or object |
 
 **Power Roll + Presence:**
 

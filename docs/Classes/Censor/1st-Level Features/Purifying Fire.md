@@ -7,26 +7,11 @@ cost: 5 Wrath
 type: classes
 subtype: censor
 kind: 1st-level features
-keywords: Magic, Melee, Ranged, Strike, Weapon
-keyword_list:
-  - Magic
-  - Melee
-  - Ranged
-  - Strike
-  - Weapon
-ability_type: Action
-distance: Melee 1 or ranged 5
-target: One creature
 ---
 
 # Purifying Fire (5 Wrath)
 
-*The gods judge, fire cleanses.*
-
-|                                                    |                          |
-| :------------------------------------------------- | :----------------------- |
-| **Keywords:** Magic, Melee, Ranged, Strike, Weapon | **Type:** Action         |
-| **Distance:** Melee 1 or ranged 5                  | **Target:** One creature |
+*The gods judge, fire cleanses.* **Keywords:** Magic, Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or ranged 5 **Target:** One creature
 
 **Power Roll + Might:**
 

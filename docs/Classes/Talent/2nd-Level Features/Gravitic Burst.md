@@ -7,11 +7,24 @@ cost: 5 Clarity
 type: classes
 subtype: talent
 kind: 2nd-level features
+keywords: Area, Psionic, Telekinesis
+keyword_list:
+  - Area
+  - Psionic
+  - Telekinesis
+ability_type: Action
+distance: 1 burst
+target: Each enemy in the area
 ---
 
 # Gravitic Burst (5 Clarity)
 
-*Everyone get away from me!* **Keywords:** Area, Psionic, Telekinesis **Type:** Action **Distance:** 1 burst **Target:** Each enemy in the area
+*Everyone get away from me!*
+
+|                                          |                                    |
+| :--------------------------------------- | :--------------------------------- |
+| **Keywords:** Area, Psionic, Telekinesis | **Type:** Action                   |
+| **Distance:** 1 burst                    | **Target:** Each enemy in the area |
 
 **Power Roll + Reason:**
 

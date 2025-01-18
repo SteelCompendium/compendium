@@ -7,21 +7,20 @@ cost: 9 Rage
 type: classes
 subtype: fury
 kind: 6th-level features
-keywords: Melee, Strike, Weapon **Type:** Free Triggered Action
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Free Triggered Action
-distance: Melee 1 **Target:** Self **Trigger:** You reduce a creature to 0 Stamina with a strike.
+ability_type: Free Triggered Action **Distance:** Melee 1
+target: Self
+trigger: You reduce a creature to 0 Stamina with a strike.
 ---
 
 # Death Strike (9 Rage)
 
-*Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.*
+*Once you taste your foe's blood, you become more efficient and turn every killing blow into an opportunity.* **Keywords:** Melee, Strike, Weapon
 
-|                                                                                                       |             |
-| :---------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Free Triggered Action                                   | **Type:**   |
-| **Distance:** Melee 1 **Target:** Self **Trigger:** You reduce a creature to 0 Stamina with a strike. | **Target:** |
+|               |                                                       |
+| :------------ | :---------------------------------------------------- |
+| **Keywords:** | **Type:** Free Triggered Action **Distance:** Melee 1 |
+| **Distance:** | **Target:** Self                                      |
+
+**Trigger:** You reduce a creature to 0 Stamina with a strike.
 
 **Effect:** You affect an additional adjacent creature with the same strike and power roll that killed the triggering creature.

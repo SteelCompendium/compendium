@@ -4,10 +4,14 @@ title: Time Raider
 name_raw: Time Raider
 name: Time Raider
 type: ancestries
-keywords: Psionic, Melee **Type:** Maneuver **Distance:** Self or Melee 1 **Target:** Self or 1 ally
+keywords: Psionic, Ranged, Strike
 keyword_list:
   - Psionic
-  - Melee **Type:** Maneuver **Distance:** Self or Melee 1 **Target:** Self or 1 ally
+  - Ranged
+  - Strike
+ability_type: Maneuver
+distance: Self or Melee 1
+target: Self or 1 ally
 ---
 
 # Time Raider
@@ -142,7 +146,12 @@ You gain one of the following signature abilities.
 
 ### Concussive Slam
 
-*You slam an invisible force down upon the target.* **Keywords:** Psionic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature or object
+*You slam an invisible force down upon the target.*
+
+|                                       |                            |
+| :------------------------------------ | :------------------------- |
+| **Keywords:** Psionic, Ranged, Strike | **Type:** Maneuver         |
+| **Distance:** Self or Melee 1         | **Target:** Self or 1 ally |
 
 **Power Roll + Reason, Intuition, or Presence:**
 
@@ -152,12 +161,7 @@ You gain one of the following signature abilities.
 
 ### Psionic Bolt
 
-*You shoot forth a beam of psychic purple force that grips your target.*
-
-|                                                                                                          |             |
-| :------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Psionic, Melee **Type:** Maneuver **Distance:** Self or Melee 1 **Target:** Self or 1 ally | **Type:**   |
-| **Distance:**                                                                                            | **Target:** |
+*You shoot forth a beam of psychic purple force that grips your target.* **Keywords:** Psionic, Ranged, Strike
 
 **Power Roll + Reason, Intuition, or Presence:**
 
@@ -167,7 +171,7 @@ You gain one of the following signature abilities.
 
 ### Minor Acceleration
 
-*You fill yourself or an ally with a burst of energy.*
+*You fill yourself or an ally with a burst of energy.* **Keywords:** Psionic, Melee
 
 **Effect:** The target's speed increases by an amount equal to your Reason, Intuition, or Presence score (your choice) until the start of your next turn.
 

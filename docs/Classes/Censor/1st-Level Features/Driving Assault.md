@@ -7,21 +7,19 @@ cost: 3 Wrath
 type: classes
 subtype: censor
 kind: 1st-level features
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
+ability_type: Action
+distance: Melee 1
+target: One creature or object
 ---
 
 # Driving Assault (3 Wrath)
 
-*As you force your enemy back with your weapon, you use your faith to stay close.*
+*As you force your enemy back with your weapon, you use your faith to stay close.* **Keywords:** Melee, Strike, Weapon
 
-|                                                                                                               |             |
-| :------------------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object | **Type:**   |
-| **Distance:**                                                                                                 | **Target:** |
+|                       |                                    |
+| :-------------------- | :--------------------------------- |
+| **Keywords:**         | **Type:** Action                   |
+| **Distance:** Melee 1 | **Target:** One creature or object |
 
 **Power Roll + Might:**
 

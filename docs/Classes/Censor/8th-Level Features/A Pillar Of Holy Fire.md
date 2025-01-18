@@ -7,14 +7,23 @@ cost: 11 Wrath
 type: classes
 subtype: censor
 kind: 8th-level features
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
+ability_type: Action \| **Distance:** Melee 1
+target: 1 creature \|
 ---
 
 # A Pillar Of Holy Fire (11 Wrath)
 
 | Your enemy's guilt fuels a holy flame that burns your foes. |
 | ----------------------------------------------------------- |
-| Keywords: Melee, Strike, Weapon Type: Action                |
-| Distance: Melee 1 Target: 1 creature                        |
+|                                                             |
+| :---------------------------------------                    |
+| **Keywords:** Melee, Strike, Weapon                         |
+| **Distance:**                                               |
 
 **Power Roll + Might:**
 

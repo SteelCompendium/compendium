@@ -7,14 +7,19 @@ cost: 9 Drama
 type: classes
 subtype: troubadour
 kind: 6th-level features
+distance: 5 Burst
+target: All allies \|
 ---
 
 # You're All My Understudies (9 Drama)
 
-*It's important for everyone to know each other's lines, just in case....*
+*It's important for everyone to know each other's lines, just in case....* **Keywords:** Magic, Ranged
 
-| Keywords: Magic, Ranged | Type: Maneuver     |
-| ----------------------- | ------------------ |
-| Distance: 5 Burst       | Target: All allies |
+| **Type:** Maneuver                   |                                   |
+| ------------------------------------ | --------------------------------- |
+|                                      |                                   |
+| :----------------------------------- | :-------------------------------- |
+| **Keywords:**                        | **Type:**                         |
+| **Distance:** 5 Burst                | **Target:** All allies \|         |
 
 **Effect:** Until the end of the encounter, each target gains the speed, distance, disengage, and stability bonuses of your currently equipped kit on top of their own bonuses.

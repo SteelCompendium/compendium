@@ -6,11 +6,24 @@ name: Instigator
 type: classes
 subtype: troubadour
 kind: 1st-level features
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
+ability_type: Action
+distance: Melee 1
+target: One creature
 ---
 
 # Instigator
 
-*I didn't do it! What?* **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
+*I didn't do it! What?*
+
+|                                     |                          |
+| :---------------------------------- | :----------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action         |
+| **Distance:** Melee 1               | **Target:** One creature |
 
 **Power Roll + Presence:**
 

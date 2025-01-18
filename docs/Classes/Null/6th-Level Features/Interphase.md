@@ -7,14 +7,19 @@ cost: 9 Discipline
 type: classes
 subtype: 'null'
 kind: 6th-level features
+distance: Self
+target: Self \|
 ---
 
 # Interphase (9 Discipline)
 
-*You slip into a faster timestream, appearing to act more quickly.*
+*You slip into a faster timestream, appearing to act more quickly.* **Keywords:** Psionic
 
-| Keywords: Psionic | Type: Action |
-| ----------------- | ------------ |
-| Distance: Self    | Target: Self |
+| **Type:** Action                     |                                   |
+| ------------------------------------ | --------------------------------- |
+|                                      |                                   |
+| :----------------------------------- | :-------------------------------- |
+| **Keywords:**                        | **Type:**                         |
+| **Distance:** Self                   | **Target:** Self \|               |
 
 **Effect:** You can use three signature abilities. These actions have an edge.

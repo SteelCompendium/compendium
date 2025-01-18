@@ -7,21 +7,19 @@ cost: 9 Drama
 type: classes
 subtype: troubadour
 kind: 5th-level features
-keywords: Area, Melee, Weapon **Type:** Action **Distance:** 3 Burst **Target:** All enemies
-keyword_list:
-  - Area
-  - Melee
-  - Weapon **Type:** Action **Distance:** 3 Burst **Target:** All enemies
+ability_type: Action
+distance: 3 Burst
+target: All enemies
 ---
 
 # Action Hero (9 Drama)
 
-*You wield your weapon faster than anyone can perceive, leaving everyone around you within an inch of their lives.*
+*You wield your weapon faster than anyone can perceive, leaving everyone around you within an inch of their lives.* **Keywords:** Area, Melee, Weapon
 
-|                                                                                                  |             |
-| :----------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Melee, Weapon **Type:** Action **Distance:** 3 Burst **Target:** All enemies | **Type:**   |
-| **Distance:**                                                                                    | **Target:** |
+|                       |                         |
+| :-------------------- | :---------------------- |
+| **Keywords:**         | **Type:** Action        |
+| **Distance:** 3 Burst | **Target:** All enemies |
 
 **Power Roll + Agility:**
 

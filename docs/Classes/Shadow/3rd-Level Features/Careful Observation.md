@@ -6,8 +6,21 @@ name: Careful Observation
 type: classes
 subtype: shadow
 kind: 3rd-level features
+ability_type: Maneuver **Distance:** 20 squares
+target: One creature **Effect:** As long as you remain within distance of the target,
 ---
 
 # Careful Observation
 
-Given the chance to watch your foe, you can assess their vulnerabilities and pick the perfect moment to strike. As a maneuver, you observe and take aim at a creature within 20 squares of you. If you do, you gain an edge on the next attack you make against that foe and the attack deals an extra `⚡` damage, provided you attack no other creature before attacking the one you observe, stay within 20 squares of them, and don't lose line of effect to them. You can stack the effects of this feature on a single creature up to four times.
+Given the opportunity to watch your foe, you can assess their vulnerabilities and pick the perfect moment to strike. You gain the following ability.
+
+## Careful Observation
+
+*A moment of focus leaves a foe firmly in your sights.* **Keywords:** --
+
+|               |                                                                                           |
+| :------------ | :---------------------------------------------------------------------------------------- |
+| **Keywords:** | **Type:** Maneuver **Distance:** 20 squares                                               |
+| **Distance:** | **Target:** One creature **Effect:** As long as you remain within distance of the target, |
+
+maintain line of effect to them, and strike no other creature first, you gain a surge and an edge on the next strike you make against the assessed creature.

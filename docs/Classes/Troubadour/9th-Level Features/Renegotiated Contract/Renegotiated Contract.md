@@ -7,21 +7,19 @@ cost: 11 Drama
 type: classes
 subtype: troubadour
 kind: 9th-level features
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
+ability_type: Action
+distance: Melee 1
+target: 1 creature
 ---
 
 # Renegotiated Contract (11 Drama)
 
-*No, no. You don't die until the sequel.*
+*No, no. You don't die until the sequel.* **Keywords:** Melee, Strike, Weapon
 
-|                                                                                                   |             |
-| :------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature | **Type:**   |
-| **Distance:**                                                                                     | **Target:** |
+|                       |                        |
+| :-------------------- | :--------------------- |
+| **Keywords:**         | **Type:** Action       |
+| **Distance:** Melee 1 | **Target:** 1 creature |
 
 **Effect:** You add your current Stamina to your target's current Stamina and divide the total evenly between the two of you. Then, roll power.
 

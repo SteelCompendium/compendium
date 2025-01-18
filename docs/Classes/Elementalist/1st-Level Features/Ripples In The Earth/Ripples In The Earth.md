@@ -7,21 +7,19 @@ cost: 3 Essence
 type: classes
 subtype: elementalist
 kind: 1st-level features
-keywords: Area, Earth, Magic **Type:** Action **Distance:** 2 burst **Target:** Each enemy in the area
-keyword_list:
-  - Area
-  - Earth
-  - Magic **Type:** Action **Distance:** 2 burst **Target:** Each enemy in the area
+ability_type: Action
+distance: 2 burst
+target: Each enemy in the area
 ---
 
 # Ripples In The Earth (3 Essence)
 
-*Like a stone dropped into a pond, waves in the earth radiate from you.*
+*Like a stone dropped into a pond, waves in the earth radiate from you.* **Keywords:** Area, Earth, Magic
 
-|                                                                                                            |             |
-| :--------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Earth, Magic **Type:** Action **Distance:** 2 burst **Target:** Each enemy in the area | **Type:**   |
-| **Distance:**                                                                                              | **Target:** |
+|                       |                                    |
+| :-------------------- | :--------------------------------- |
+| **Keywords:**         | **Type:** Action                   |
+| **Distance:** 2 burst | **Target:** Each enemy in the area |
 
 **Power Roll + Reason:**
 

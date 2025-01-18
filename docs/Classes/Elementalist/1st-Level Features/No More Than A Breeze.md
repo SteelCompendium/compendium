@@ -7,21 +7,19 @@ cost: 5 Essence
 type: classes
 subtype: elementalist
 kind: 1st-level features
-keywords: Magic, Ranged, Void **Type:** Maneuver **Distance:** Ranged 10 **Target:** Self or one ally
-keyword_list:
-  - Magic
-  - Ranged
-  - Void **Type:** Maneuver **Distance:** Ranged 10 **Target:** Self or one ally
+ability_type: Maneuver
+distance: Ranged 10
+target: Self or one ally
 ---
 
 # No More Than A Breeze (5 Essence)
 
-*The material substance of a creature shreds away at your command.*
+*The material substance of a creature shreds away at your command.* **Keywords:** Magic, Ranged, Void
 
-|                                                                                                           |             |
-| :-------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged, Void **Type:** Maneuver **Distance:** Ranged 10 **Target:** Self or one ally | **Type:**   |
-| **Distance:**                                                                                             | **Target:** |
+|                         |                              |
+| :---------------------- | :--------------------------- |
+| **Keywords:**           | **Type:** Maneuver           |
+| **Distance:** Ranged 10 | **Target:** Self or one ally |
 
 **Effect:** Until the start of your next turn, the target can move through solid matter, ignores difficult terrain, and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are shunted out into the space where they entered it and this effect ends.
 

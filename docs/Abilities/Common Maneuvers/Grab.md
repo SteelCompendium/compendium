@@ -5,18 +5,19 @@ name_raw: Grab
 name: Grab
 type: abilities
 subtype: common maneuvers
-keywords: Melee **Type:** Maneuver
+keywords: Melee
 keyword_list:
-  - Melee **Type:** Maneuver
-distance: Melee 1 **Target:** 1 creature no more than 1 size larger than you
+  - Melee
+ability_type: Maneuver **Distance:** Melee 1
+target: 1 creature no more than 1 size larger than you
 ---
 
 # Grab
 
-|                                                                                  |             |
-| :------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee **Type:** Maneuver                                           | **Type:**   |
-| **Distance:** Melee 1 **Target:** 1 creature no more than 1 size larger than you | **Target:** |
+|                     |                                                            |
+| :------------------ | :--------------------------------------------------------- |
+| **Keywords:** Melee | **Type:** Maneuver **Distance:** Melee 1                   |
+| **Distance:**       | **Target:** 1 creature no more than 1 size larger than you |
 
 **Power Roll + Might:**
 

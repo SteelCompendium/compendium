@@ -4,6 +4,14 @@ title: Rapid-Fire
 name_raw: Rapid-fire
 name: Rapid-Fire
 type: kits
+keywords: Ranged, Strike, Weapon
+keyword_list:
+  - Ranged
+  - Strike
+  - Weapon
+ability_type: Action
+distance: Ranged 12
+target: 2 creatures or objects
 ---
 
 # Rapid-fire
@@ -26,7 +34,12 @@ You wear light armor and wield a bow.
 
 ## Two Shot
 
-*When you fire two arrows back to back, both hit their mark.* **Keywords:** Ranged, Strike, Weapon **Type:** Action **Distance:** Ranged 12 **Target:** 2 creatures or objects
+*When you fire two arrows back to back, both hit their mark.*
+
+|                                      |                                    |
+| :----------------------------------- | :--------------------------------- |
+| **Keywords:** Ranged, Strike, Weapon | **Type:** Action                   |
+| **Distance:** Ranged 12              | **Target:** 2 creatures or objects |
 
 **Power Roll + Might or Agility:**
 

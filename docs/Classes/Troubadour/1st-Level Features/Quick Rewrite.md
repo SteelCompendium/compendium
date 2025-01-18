@@ -7,22 +7,18 @@ cost: 3 Drama
 type: classes
 subtype: troubadour
 kind: 1st-level features
-keywords: Area, Magic, Ranged **Type:** Action **Distance:** 3 cube within 10
-keyword_list:
-  - Area
-  - Magic
-  - Ranged **Type:** Action **Distance:** 3 cube within 10
-target: Each enemy in the area
+ability_type: Action
+distance: 3 cube within 10 **Target:** Each enemy in the area
 ---
 
 # Quick Rewrite (3 Drama)
 
-*You write something unforeseen into the scene that hinders your enemy.*
+*You write something unforeseen into the scene that hinders your enemy.* **Keywords:** Area, Magic, Ranged
 
-|                                                                                   |                                    |
-| :-------------------------------------------------------------------------------- | :--------------------------------- |
-| **Keywords:** Area, Magic, Ranged **Type:** Action **Distance:** 3 cube within 10 | **Type:**                          |
-| **Distance:**                                                                     | **Target:** Each enemy in the area |
+|                                                                   |                  |
+| :---------------------------------------------------------------- | :--------------- |
+| **Keywords:**                                                     | **Type:** Action |
+| **Distance:** 3 cube within 10 **Target:** Each enemy in the area | **Target:**      |
 
 **Power Roll + Presence:**
 

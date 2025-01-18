@@ -20,7 +20,7 @@ Whenever you finish a respite, you prepare a magic meal of local flora for any c
 
 [THUNDERSTRUCK](./Thunderstruck.md)
 
-[TRINITY OF TRICKERY](./Trinity%20Of%20Trickery.md)
+[TRINITY OF TRICKERY](./Trinity%20Of%20Trickery/Trinity%20Of%20Trickery.md)
 
 [WORD OF DEATH DEFERRED](./Word%20Of%20Death%20Deferred.md)
 

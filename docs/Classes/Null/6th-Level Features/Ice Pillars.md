@@ -7,20 +7,19 @@ cost: 9 Discipline
 type: classes
 subtype: 'null'
 kind: 6th-level features
-keywords: Ranged, Psionic **Type:** Action **Distance:** Ranged 10 **Target:** 3 creature or object
-keyword_list:
-  - Ranged
-  - Psionic **Type:** Action **Distance:** Ranged 10 **Target:** 3 creature or object
+ability_type: Action
+distance: Ranged 10
+target: 3 creature or object
 ---
 
 # Ice Pillars (9 Discipline)
 
-*You cause pillars of ice to erupt from the ground and launch your foes into the air.*
+*You cause pillars of ice to erupt from the ground and launch your foes into the air.* **Keywords:** Ranged, Psionic
 
-|                                                                                                         |             |
-| :------------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Ranged, Psionic **Type:** Action **Distance:** Ranged 10 **Target:** 3 creature or object | **Type:**   |
-| **Distance:**                                                                                           | **Target:** |
+|                         |                                  |
+| :---------------------- | :------------------------------- |
+| **Keywords:**           | **Type:** Action                 |
+| **Distance:** Ranged 10 | **Target:** 3 creature or object |
 
 **Power Roll + Reason:**
 

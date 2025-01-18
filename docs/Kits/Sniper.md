@@ -4,6 +4,14 @@ title: Sniper
 name_raw: Sniper
 name: Sniper
 type: kits
+keywords: Ranged, Strike, Weapon
+keyword_list:
+  - Ranged
+  - Strike
+  - Weapon
+ability_type: Action
+distance: Ranged 15
+target: 1 creature
 ---
 
 # Sniper
@@ -23,7 +31,12 @@ You wear no armor and wield a bow.
 
 ## Patient Shot
 
-*Breathe ... aim ... wait... then strike!* **Keywords:** Ranged, Strike, Weapon **Type:** Action **Distance:** Ranged 15 **Target:** 1 creature
+*Breathe ... aim ... wait... then strike!*
+
+|                                      |                        |
+| :----------------------------------- | :--------------------- |
+| **Keywords:** Ranged, Strike, Weapon | **Type:** Action       |
+| **Distance:** Ranged 15              | **Target:** 1 creature |
 
 **Power Roll + Might or Agility:**
 

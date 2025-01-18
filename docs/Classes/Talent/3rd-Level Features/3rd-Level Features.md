@@ -19,3 +19,7 @@ As a 3rd-level talent, you gain the following features.
 [FLING THROUGH TIME (7 CLARITY)](./Fling%20Through%20Time.md)
 
 [FORCE ORBS (7 CLARITY)](./Force%20Orbs.md)
+
+[REFLECTOR FIELD (7 CLARITY)](./Reflector%20Field.md)
+
+[SOUL BURN (7 CLARITY)](./Soul%20Burn.md)

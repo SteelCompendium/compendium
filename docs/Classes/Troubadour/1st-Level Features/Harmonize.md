@@ -7,19 +7,22 @@ cost: 3 Drama
 type: classes
 subtype: troubadour
 kind: 1st-level features
-keywords: -- **Type:** Triggered **Distance:** Ranged 5 **Target:** One ally **Trigger:** The target uses a non-area ability that targets one enemy.
-keyword_list:
-  - -- **Type:** Triggered **Distance:** Ranged 5 **Target:** One ally **Trigger:** The target uses a non-area ability that targets one enemy.
+ability_type: Triggered
+distance: Ranged 5
+target: One ally
+trigger: The target uses a non-area ability that targets one enemy.
 ---
 
 # Harmonize (3 Drama)
 
-*Give the chorus a little punch.*
+*Give the chorus a little punch.* **Keywords:** --
 
-|                                                                                                                                                          |             |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** -- **Type:** Triggered **Distance:** Ranged 5 **Target:** One ally **Trigger:** The target uses a non-area ability that targets one enemy. | **Type:**   |
-| **Distance:**                                                                                                                                            | **Target:** |
+|                        |                      |
+| :--------------------- | :------------------- |
+| **Keywords:**          | **Type:** Triggered  |
+| **Distance:** Ranged 5 | **Target:** One ally |
+
+**Trigger:** The target uses a non-area ability that targets one enemy.
 
 **Effect:** The target chooses an additional target for the triggering ability within distance of that ability. They use the original power roll for all additional targets. Any damage dealt to an additional target is sonic damage.
 

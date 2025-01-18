@@ -14,7 +14,7 @@ Your elemental specialization grants you a feature as shown on the 1st-Level Ele
 
 [1ST-LEVEL ELEMENTAL SPECIALIZATION FEATURES](./1st-Level%20Elemental%20Specialization%20Features.md)
 
-[A BEYONDING OF VISION](./A%20Beyonding%20Of%20Vision.md)
+[A BEYONDING OF VISION](./A%20Beyonding%20Of%20Vision/A%20Beyonding%20Of%20Vision.md)
 
 [IT IS THE SOUL WHICH HEARS](./It%20Is%20The%20Soul%20Which%20Hears.md)
 

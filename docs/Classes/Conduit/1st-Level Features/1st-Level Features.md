@@ -26,7 +26,7 @@ As a conduit, you gain the following features.
 
 [TRIGGERED ACTION](./Triggered%20Action.md)
 
-[WORD OF GUIDANCE](./Word%20Of%20Guidance.md)
+[WORD OF GUIDANCE](./Word%20Of%20Guidance/Word%20Of%20Guidance.md)
 
 [PRAYER](./Prayer.md)
 
@@ -52,7 +52,9 @@ As a conduit, you gain the following features.
 
 [FONT OF WRATH (3 PIETY)](./Font%20Of%20Wrath.md)
 
-[JUDGMENT'S HAMMER (3 PIETY)](./Judgments%20Hammer/Judgments%20Hammer.md)
+[JUDGMENT'S HAMMER (3 PIETY)](./Judgments%20Hammer.md)
+
+[VIOLENCE WILL NOT AID THEE (3 PIETY)](./Violence%20Will%20Not%20Aid%20Thee/Violence%20Will%20Not%20Aid%20Thee.md)
 
 [CORRUPTION'S CURSE (5 PIETY)](./Corruptions%20Curse.md)
 

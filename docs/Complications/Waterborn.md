@@ -4,11 +4,9 @@ title: Waterborn
 name_raw: Waterborn
 name: Waterborn
 type: complications
-keywords: Attack, Magic, Ranged **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature or object
-keyword_list:
-  - Attack
-  - Magic
-  - Ranged **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature or object
+ability_type: Action
+distance: Ranged 10
+target: 1 creature or object
 ---
 
 # Waterborn
@@ -19,12 +17,12 @@ You nearly lost your life at sea, but then you heard the voice. Someone ... some
 
 ## Rogue Wave
 
-*You summon a wave of water to batter your foe.*
+*You summon a wave of water to batter your foe.* **Keywords:** Attack, Magic, Ranged
 
-|                                                                                                               |             |
-| :------------------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Attack, Magic, Ranged **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature or object | **Type:**   |
-| **Distance:**                                                                                                 | **Target:** |
+|                         |                                  |
+| :---------------------- | :------------------------------- |
+| **Keywords:**           | **Type:** Action                 |
+| **Distance:** Ranged 10 | **Target:** 1 creature or object |
 
 **Power Roll + your highest characteristic:**
 

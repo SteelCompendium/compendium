@@ -23,3 +23,5 @@ As a 9th-level troubadour, you gain the following features.
 [MELT THEIR FACES (11 DRAMA)](./Melt%20Their%20Faces/Melt%20Their%20Faces.md)
 
 [EPIC (11 DRAMA)](./Epic.md)
+
+[RISING TENSION (11 DRAMA)](./Rising%20Tension.md)

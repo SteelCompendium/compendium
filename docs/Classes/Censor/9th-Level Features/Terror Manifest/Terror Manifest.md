@@ -7,21 +7,19 @@ cost: 11 Wrath
 type: classes
 subtype: censor
 kind: 9th-level features
-keywords: Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature
-keyword_list:
-  - Magic
-  - Ranged
-  - Strike **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature
+ability_type: Action
+distance: Ranged 10
+target: 1 creature
 ---
 
 # Terror Manifest (11 Wrath)
 
-*I know what you fear.*
+*I know what you fear.* **Keywords:** Magic, Ranged, Strike
 
-|                                                                                                     |             |
-| :-------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature | **Type:**   |
-| **Distance:**                                                                                       | **Target:** |
+|                         |                        |
+| :---------------------- | :--------------------- |
+| **Keywords:**           | **Type:** Action       |
+| **Distance:** Ranged 10 | **Target:** 1 creature |
 
 **Power Roll + Presence:**
 

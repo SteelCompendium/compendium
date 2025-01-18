@@ -7,21 +7,18 @@ cost: 3 Drama
 type: classes
 subtype: troubadour
 kind: 1st-level features
-keywords: Area, Magic **Type:** Action
-keyword_list:
-  - Area
-  - Magic **Type:** Action
-distance: 2 burst **Target:** Each enemy in the area
+ability_type: Action
+target: Each enemy in the area **Keywords:** Area, Magic
 ---
 
 # Hypnotic Overtones (3 Drama)
 
-*You produce an entrancing note that twists the senses in a spectacular fashion.*
+*You produce an entrancing note that twists the senses in a spectacular fashion.* **Distance:** 2 burst
 
-|                                                          |             |
-| :------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic **Type:** Action               | **Type:**   |
-| **Distance:** 2 burst **Target:** Each enemy in the area | **Target:** |
+|               |                                                              |
+| :------------ | :----------------------------------------------------------- |
+| **Keywords:** | **Type:** Action                                             |
+| **Distance:** | **Target:** Each enemy in the area **Keywords:** Area, Magic |
 
 **Power Roll + Presence:**
 

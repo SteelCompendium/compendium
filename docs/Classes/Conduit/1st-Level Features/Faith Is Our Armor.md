@@ -7,20 +7,19 @@ cost: 5 Piety
 type: classes
 subtype: conduit
 kind: 1st-level features
-keywords: Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Self and up to three allies
-keyword_list:
-  - Magic
-  - Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Self and up to three allies
+ability_type: Maneuver
+distance: Ranged 10
+target: Self and up to three allies
 ---
 
 # Faith Is Our Armor (5 Piety)
 
-*The heroes' armor glows with golden light, granting divine protection.*
+*The heroes' armor glows with golden light, granting divine protection.* **Keywords:** Magic, Ranged
 
-|                                                                                                                |             |
-| :------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Self and up to three allies | **Type:**   |
-| **Distance:**                                                                                                  | **Target:** |
+|                         |                                         |
+| :---------------------- | :-------------------------------------- |
+| **Keywords:**           | **Type:** Maneuver                      |
+| **Distance:** Ranged 10 | **Target:** Self and up to three allies |
 
 **Power Roll + Intuition:**
 

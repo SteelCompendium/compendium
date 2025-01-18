@@ -6,22 +6,19 @@ name: Faster Than The Eye
 type: classes
 subtype: 'null'
 kind: 1st-level features
-keywords: Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** Two creatures or objects
-keyword_list:
-  - Melee
-  - Psionic
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** Two creatures or objects
+ability_type: Action
+distance: Melee 1
+target: Two creatures or objects
 ---
 
 # Faster Than The Eye
 
-*You strike so quickly that your hands become a blur.*
+*You strike so quickly that your hands become a blur.* **Keywords:** Melee, Psionic, Strike, Weapon
 
-|                                                                                                                          |             |
-| :----------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** Two creatures or objects | **Type:**   |
-| **Distance:**                                                                                                            | **Target:** |
+|                       |                                      |
+| :-------------------- | :----------------------------------- |
+| **Keywords:**         | **Type:** Action                     |
+| **Distance:** Melee 1 | **Target:** Two creatures or objects |
 
 **Power Roll + Agility:**
 

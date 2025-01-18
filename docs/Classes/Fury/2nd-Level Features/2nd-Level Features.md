@@ -23,3 +23,5 @@ As a 2nd-level fury, you gain the following features.
 [RRRAAAGHH!(5 RAGE)](<./RRRAAAGHH(5%20RAGE)/RRRAAAGHH(5%20RAGE).md>)
 
 [APEX PREDATOR (5 RAGE)](./Apex%20Predator.md)
+
+[VISCERAL ROAR (5 RAGE)](./Visceral%20Roar.md)

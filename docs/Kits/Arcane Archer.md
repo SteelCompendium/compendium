@@ -4,12 +4,9 @@ title: Arcane Archer
 name_raw: Arcane Archer
 name: Arcane Archer
 type: kits
-keywords: Magic, Ranged, Strike, Weapon **Type:** Action **Distance:** Ranged 15 **Target:** 1 creature or object
-keyword_list:
-  - Magic
-  - Ranged
-  - Strike
-  - Weapon **Type:** Action **Distance:** Ranged 15 **Target:** 1 creature or object
+ability_type: Action
+distance: Ranged 15
+target: 1 creature or object
 ---
 
 # Arcane Archer
@@ -31,12 +28,12 @@ You wear no armor and wield a bow.
 
 ## Exploding Arrow
 
-*Your ammunition explodes with magical energy.*
+*Your ammunition explodes with magical energy.* **Keywords:** Magic, Ranged, Strike, Weapon
 
-|                                                                                                                       |             |
-| :-------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged, Strike, Weapon **Type:** Action **Distance:** Ranged 15 **Target:** 1 creature or object | **Type:**   |
-| **Distance:**                                                                                                         | **Target:** |
+|                         |                                  |
+| :---------------------- | :------------------------------- |
+| **Keywords:**           | **Type:** Action                 |
+| **Distance:** Ranged 15 | **Target:** 1 creature or object |
 
 **Power Roll + Agility, Reason, Intuition, or Presence:**
 

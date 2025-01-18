@@ -7,20 +7,17 @@ cost: 5 Wrath
 type: classes
 subtype: censor
 kind: 2nd-level features
-keywords: Area, Magic **Type:** Maneuver
-keyword_list:
-  - Area
-  - Magic **Type:** Maneuver
-distance: 3 aura **Target:** Self and each ally in the area
+ability_type: Maneuver **Distance:** 3 aura
+target: Self and each ally in the area
 ---
 
 # Blessing Of The Faithful (5 Wrath)
 
-*The gods reward your faith.*
+*The gods reward your faith.* **Keywords:** Area, Magic
 
-|                                                                 |             |
-| :-------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic **Type:** Maneuver                    | **Type:**   |
-| **Distance:** 3 aura **Target:** Self and each ally in the area | **Target:** |
+|               |                                            |
+| :------------ | :----------------------------------------- |
+| **Keywords:** | **Type:** Maneuver **Distance:** 3 aura    |
+| **Distance:** | **Target:** Self and each ally in the area |
 
 **Effect:** Until the end of the encounter or you are dying, each target in the aura gains a surge at the end of each of your turns.

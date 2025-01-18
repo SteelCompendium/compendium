@@ -20,4 +20,4 @@ As a 2nd-level null, you gain the following features.
 
 [FORCE REDIRECTED (5 DISCIPLINE)](./Force%20Redirected/Force%20Redirected.md)
 
-[HEAT SINK (5 DISCIPLINE)](./Heat%20Sink.md)
+[HEAT SINK (5 DISCIPLINE)](./Heat%20Sink/Heat%20Sink.md)

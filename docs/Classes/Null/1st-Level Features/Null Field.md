@@ -6,19 +6,19 @@ name: Null Field
 type: classes
 subtype: 'null'
 kind: 1st-level features
-keywords: Psionic **Type:** Maneuver **Distance:** 1 aura **Target:** All enemies
-keyword_list:
-  - Psionic **Type:** Maneuver **Distance:** 1 aura **Target:** All enemies
+ability_type: Maneuver
+distance: 1 aura
+target: All enemies
 ---
 
 # Null Field
 
-*You intuit where an incoming attack will strike, reducing its effects.*
+*You intuit where an incoming attack will strike, reducing its effects.* **Keywords:** Psionic
 
-|                                                                                       |             |
-| :------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Psionic **Type:** Maneuver **Distance:** 1 aura **Target:** All enemies | **Type:**   |
-| **Distance:**                                                                         | **Target:** |
+|                      |                         |
+| :------------------- | :---------------------- |
+| **Keywords:**        | **Type:** Maneuver      |
+| **Distance:** 1 aura | **Target:** All enemies |
 
 **Effect:** Each target reduces their potencies by 1.
 

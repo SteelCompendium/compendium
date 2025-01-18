@@ -12,7 +12,7 @@ kind: 2nd-level features
 
 Your shadow college grants you a feature as shown on the 2nd-Level College Features table.
 
-## **2nd-level College Features**
+## 2nd-level College Features
 
 | Specialization  | Feature          |
 | --------------- | ---------------- |

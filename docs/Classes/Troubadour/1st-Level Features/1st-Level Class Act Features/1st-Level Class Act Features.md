@@ -31,3 +31,13 @@ Your troubadour class act grants you features as shown on the 1st-Level Class Ac
 [DRAMATIC MONOLOGUE](./Dramatic%20Monologue.md)
 
 [DRAMATIC MONOLOGUE](./Dramatic%20Monologue.md)
+
+[POWER CHORD](./Power%20Chord.md)
+
+[POWER CHORD](./Power%20Chord.md)
+
+[STAR POWER](./Star%20Power.md)
+
+[STAR POWER](./Star%20Power.md)
+
+[VIRTUOSO ROUTINES](./Virtuoso%20Routines.md)

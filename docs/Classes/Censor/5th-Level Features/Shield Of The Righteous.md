@@ -7,21 +7,19 @@ cost: 9 Wrath
 type: classes
 subtype: censor
 kind: 5th-level features
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
+ability_type: Action
+distance: Melee 1
+target: 1 creature
 ---
 
 # Shield Of The Righteous (9 Wrath)
 
-*You strike a foe and create a fleet of divine shields that protect your allies.*
+*You strike a foe and create a fleet of divine shields that protect your allies.* **Keywords:** Melee, Strike, Weapon
 
-|                                                                                                   |             |
-| :------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature | **Type:**   |
-| **Distance:**                                                                                     | **Target:** |
+|                       |                        |
+| :-------------------- | :--------------------- |
+| **Keywords:**         | **Type:** Action       |
+| **Distance:** Melee 1 | **Target:** 1 creature |
 
 **Power Roll + Might:**
 

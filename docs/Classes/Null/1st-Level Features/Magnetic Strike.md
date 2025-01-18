@@ -6,22 +6,19 @@ name: Magnetic Strike
 type: classes
 subtype: 'null'
 kind: 1st-level features
-keywords: Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 2 **Target:** One creature or object
-keyword_list:
-  - Melee
-  - Psionic
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 2 **Target:** One creature or object
+ability_type: Action
+distance: Melee 2
+target: One creature or object
 ---
 
 # Magnetic Strike
 
-*The force of your blow extends past the limits of your body, pulling your enemy closer.*
+*The force of your blow extends past the limits of your body, pulling your enemy closer.* **Keywords:** Melee, Psionic, Strike, Weapon
 
-|                                                                                                                        |             |
-| :--------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 2 **Target:** One creature or object | **Type:**   |
-| **Distance:**                                                                                                          | **Target:** |
+|                       |                                    |
+| :-------------------- | :--------------------------------- |
+| **Keywords:**         | **Type:** Action                   |
+| **Distance:** Melee 2 | **Target:** One creature or object |
 
 **Power Roll + Agility:**
 

@@ -14,8 +14,10 @@ As a 5th-level elementalist, you gain the following features.
 
 [5TH-LEVEL SPECIALIZATION FEATURE](./5th-Level%20Specialization%20Feature/5th-Level%20Specialization%20Feature.md)
 
-[9-ESSENCE ABILITIES](./9-Essence%20Abilities.md)
+[9-ESSENCE ABILITIES](./9-Essence%20Abilities/9-Essence%20Abilities.md)
 
 [STORM OF SANDS (9 ESSENCE)](./Storm%20Of%20Sands.md)
+
+[SUBVERTED PERCEPTION OF SPACE (9 ESSENCE)](./Subverted%20Perception%20Of%20Space.md)
 
 [WEB OF ALL THAT'S COME BEFORE (9 ESSENCE)](./Web%20Of%20All%20Thats%20Come%20Before.md)

@@ -4,6 +4,14 @@ title: Medusa Blood
 name_raw: Medusa Blood
 name: Medusa Blood
 type: complications
+keywords: Attack, magic, ranged
+keyword_list:
+  - Attack
+  - magic
+  - ranged
+ability_type: Action
+distance: Ranged 10
+target: 1 creature
 ---
 
 # Medusa Blood
@@ -14,7 +22,12 @@ Your mother and father never saw eye to eye--you know that because your father's
 
 ## Stone Eyes
 
-*These looks don't kill--they petrify.* **Keywords:** Attack, magic, ranged **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature
+*These looks don't kill--they petrify.*
+
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Attack, magic, ranged | **Type:** Action       |
+| **Distance:** Ranged 10             | **Target:** 1 creature |
 
 **Power Roll + Might or Presence:**
 

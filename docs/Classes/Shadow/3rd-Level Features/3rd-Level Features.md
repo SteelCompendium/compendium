@@ -14,4 +14,8 @@ As a 3rd-level shadow, you gain the following features.
 
 [CAREFUL OBSERVATION](./Careful%20Observation.md)
 
-[7-INSIGHT ABILITIES](./7-Insight%20Abilities/7-Insight%20Abilities.md)
+[7-INSIGHT ABILITY](./7-Insight%20Ability/7-Insight%20Ability.md)
+
+[PINNING SHOT (7 INSIGHT)](./Pinning%20Shot.md)
+
+[STAGGERING BLOW (7 INSIGHT)](./Staggering%20Blow.md)

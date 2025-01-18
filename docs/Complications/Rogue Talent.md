@@ -4,6 +4,14 @@ title: Rogue Talent
 name_raw: Rogue Talent
 name: Rogue Talent
 type: complications
+keywords: Psionic, Ranged, Strike
+keyword_list:
+  - Psionic
+  - Ranged
+  - Strike
+ability_type: Maneuver
+distance: Ranged 10
+target: 1 creature or object
 ---
 
 # Rogue Talent
@@ -16,7 +24,12 @@ the timescape. It left you with a psionic talent, but also made you vulnerable t
 
 ## Telekinetic Grasp
 
-*You reach out with your mind to move a creature or object.* **Keywords:** Psionic, Ranged, Strike **Type:** Maneuver **Distance:** Ranged 10 **Target:** 1 creature or object
+*You reach out with your mind to move a creature or object.*
+
+|                                       |                                  |
+| :------------------------------------ | :------------------------------- |
+| **Keywords:** Psionic, Ranged, Strike | **Type:** Maneuver               |
+| **Distance:** Ranged 10               | **Target:** 1 creature or object |
 
 **Power Roll + Might, Intuition, or Presence:**
 

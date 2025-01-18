@@ -7,21 +7,19 @@ cost: 5 Drama
 type: classes
 subtype: troubadour
 kind: 1st-level features
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
+ability_type: Action
+distance: Melee 1
+target: One creature
 ---
 
 # Method Acting (5 Drama)
 
-*They're so hurt by your performance, you sort of start to believe it yourself.*
+*They're so hurt by your performance, you sort of start to believe it yourself.* **Keywords:** Melee, Strike, Weapon
 
-|                                                                                                     |             |
-| :-------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature | **Type:**   |
-| **Distance:**                                                                                       | **Target:** |
+|                       |                          |
+| :-------------------- | :----------------------- |
+| **Keywords:**         | **Type:** Action         |
+| **Distance:** Melee 1 | **Target:** One creature |
 
 **Power Roll + Agility:**
 

@@ -6,22 +6,19 @@ name: Phase Inversion Strike
 type: classes
 subtype: 'null'
 kind: 1st-level features
-keywords: Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
-keyword_list:
-  - Melee
-  - Psionic
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
+ability_type: Action
+distance: Melee 1
+target: One creature or object
 ---
 
 # Phase Inversion Strike
 
-*You step momentarily out of phase as you pull an enemy through you.*
+*You step momentarily out of phase as you pull an enemy through you.* **Keywords:** Melee, Psionic, Strike, Weapon
 
-|                                                                                                                        |             |
-| :--------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object | **Type:**   |
-| **Distance:**                                                                                                          | **Target:** |
+|                       |                                    |
+| :-------------------- | :--------------------------------- |
+| **Keywords:**         | **Type:** Action                   |
+| **Distance:** Melee 1 | **Target:** One creature or object |
 
 **Power Roll + Agility:**
 

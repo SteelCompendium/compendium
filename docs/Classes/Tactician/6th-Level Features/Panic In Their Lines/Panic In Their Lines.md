@@ -7,22 +7,19 @@ cost: 9 Focus
 type: classes
 subtype: tactician
 kind: 6th-level features
-keywords: Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or ranged 5 **Target:** 2 creatures
-keyword_list:
-  - Melee
-  - Ranged
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 or ranged 5 **Target:** 2 creatures
+ability_type: Action
+distance: Melee 1 or ranged 5
+target: 2 creatures
 ---
 
 # Panic In Their Lines (9 Focus)
 
-*You confuse your foes, causing them to turn on each other.*
+*You confuse your foes, causing them to turn on each other.* **Keywords:** Melee, Ranged, Strike, Weapon
 
-|                                                                                                                        |             |
-| :--------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or ranged 5 **Target:** 2 creatures | **Type:**   |
-| **Distance:**                                                                                                          | **Target:** |
+|                                   |                         |
+| :-------------------------------- | :---------------------- |
+| **Keywords:**                     | **Type:** Action        |
+| **Distance:** Melee 1 or ranged 5 | **Target:** 2 creatures |
 
 **Power Roll + Might:**
 

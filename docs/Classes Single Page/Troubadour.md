@@ -4,13 +4,14 @@ title: Troubadour
 name_raw: Troubadour
 name: Troubadour
 type: classes single page
-keywords: Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** 1 ally
+keywords: Area, Magic
 keyword_list:
+  - Area
   - Magic
-  - Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** 1 ally
-ability_type: Action
-distance: Ranged 10 **Target:** 1 enemy or object
-target: One creature or object
+ability_type: Maneuver
+distance: Ranged 10
+target: 1 ally
+trigger: The target makes an ability power roll with at least one edge or bane.
 ---
 
 # Troubadour
@@ -132,20 +133,20 @@ You enter every performance with a set of routines at the ready. Routines are au
 
 You start off with the Choreography and Revitalizing Limerick routine ability. Your choice of troubadour class act then grants you additional routines.
 
-CHOREOGRAPHY
+#### Choreography
 
-*Taps, kicks, steps. Now it's all "choreography."*
+*Taps, kicks, steps. Now it's all "choreography."* **Keywords:** Area, Magic, Routine
 
-|                                                                                           |                                    |
-| :---------------------------------------------------------------------------------------- | :--------------------------------- |
-| **Keywords:** Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** 1 ally | **Type:** Action                   |
-| **Distance:** Ranged 10 **Target:** 1 enemy or object                                     | **Target:** One creature or object |
+|                           |                    |
+| :------------------------ | :----------------- |
+| **Keywords:** Area, Magic | **Type:** Maneuver |
+| **Distance:** Ranged 10   | **Target:** 1 ally |
 
 **Effect:** While this routine is active, each target who starts their turn in the aura gains a +2 bonus to speed until the end of their turn.
 
 ### Revitalizing Limerick
 
-*There once was a man from Capital....*
+*There once was a man from Capital....* **Keywords:** Area, Magic, Routine
 
 **Effect:** While this routine is active, choose a number of targets equal to your Presence score at the end of your turn. Each chosen target can spend a Recovery.
 
@@ -167,7 +168,7 @@ You gain the following routine ability, usable with your Curtain Call feature.
 
 #### Acrobatics
 
-*Folks love a good tumble.*
+*Folks love a good tumble.* **Keywords:** Area, Magic, Routine
 
 **Effect:** While this routine is active, any target who starts their turn in the aura can automatically obtain a tier 3 result on one test made to jump, tumble, or climb as part of their movement before the end of their turn.
 
@@ -177,7 +178,7 @@ You gain the following routine ability, usable with your Curtain Call feature.
 
 #### Blocking
 
-*No, no, no, you lose the audience that way. Try it like this ...*
+*No, no, no, you lose the audience that way. Try it like this ...* **Keywords:** Area, Magic, Routine
 
 **Effect:** At the end of each of your turns while this routine is active, you can choose a number of creatures equal to your Presence score in the aura, causing those creatures to be teleported to unoccupied squares in the aura. A target can't be teleported in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
 
@@ -187,9 +188,9 @@ You gain the following ability.
 
 #### Dramatic Monologue
 
-*It doesn't need to make sense. Just say it with emotionality.*
+*It doesn't need to make sense. Just say it with emotionality.* **Keywords:** Magic, Ranged
 
-### Effect: Choose One Of The Following Effects:
+**Effect:** Choose one of the following effects:
 
 - You orate a rousing tale of victory. One ally within distance gains an edge on the next power roll they make before the start of your next turn.
 - You weave a tale of high stakes heroics. One ally within distance gains a surge.
@@ -203,7 +204,7 @@ You gain the following ability.
 
 #### Power Chord
 
-*Your instrument rings true and your music blows everyone away.*
+*Your instrument rings true and your music blows everyone away.* **Keywords:** Area, Magic
 
 **Power Roll + Presence:**
 
@@ -217,7 +218,7 @@ You gain the following ability.
 
 #### Star Power
 
-*You're the one they came to see!* **Keywords:** -- **Type:** Maneuver
+*You're the one they came to see!*
 
 **Effect:** You gain a +2 bonus to speed until the end of your turn. Additionally, the next power roll you make this turn can't have a result lower than tier 2.
 
@@ -229,7 +230,7 @@ You gain the following routine abilities, each of which is usable with your Curt
 
 ### "thunder Mother"
 
-*All for thunder motherrr!* ?*Run and hide for coverrr!*? **Keywords:** Magic, Ranged, Strike, Routine
+*All for thunder motherrr!* ?*Run and hide for coverrr!*?
 
 **Power Roll + Presence:**
 
@@ -239,7 +240,7 @@ You gain the following routine abilities, each of which is usable with your Curt
 
 ### "ballad Of The Beast"
 
-*Teeth are bare!* ?*Eyes black!* ?*No escaping the beast!*?
+*Teeth are bare!* ?*Eyes black!* ?*No escaping the beast!*? **Keywords:** Area, Magic, Routine
 
 **Effect:** While this routine is active, each target who starts their turn in the aura gains a surge.
 
@@ -257,7 +258,9 @@ Your troubadour class act grants you a triggered action as shown on the Class Ac
 
 ### Harmonize (3 Drama)
 
-*Give the chorus a little punch.*
+*Give the chorus a little punch.* **Keywords:** --
+
+**Trigger:** The target uses a non-area ability that targets one enemy.
 
 **Effect:** The target chooses an additional target for the triggering ability within distance of that ability. They use the original power roll for all additional targets. Any damage dealt to an additional target is sonic damage.
 
@@ -265,13 +268,17 @@ Your troubadour class act grants you a triggered action as shown on the Class Ac
 
 ### Riposte
 
-*"I'd have brought treats had I known I'd be fighting a dog."* **Keywords:** -- **Type:** Triggered
+*"I'd have brought treats had I known I'd be fighting a dog."*
+
+**Trigger:** The target takes damage from a melee strike.
 
 **Effect:** The target makes a free strike against the triggering striker.
 
 ### Turnabout Is Fair Play
 
-*All's fair in love and whatever.*
+*All's fair in love and whatever.* **Keywords:** --
+
+**Trigger:** The target makes an ability power roll with at least one edge or bane.
 
 **Effect:** One of the edges becomes a bane or vice versa.
 
@@ -291,7 +298,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ### Artful Flourish
 
-*And they said practicing fencing was a waste!*
+*And they said practicing fencing was a waste!* **Keywords:** Melee, Strike, Weapon
 
 - **Power Roll + Agility:**
 - *11 or lower:* **2 damage**
@@ -304,7 +311,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ### Cutting Sarcasm
 
-*There you are, radiating your usual charisma.*
+*There you are, radiating your usual charisma.* **Keywords:** Magic, Ranged, Strike, Weapon
 
 **Power Roll + Presence:**
 
@@ -314,7 +321,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ### Instigator
 
-*I didn't do it! What?* **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
+*I didn't do it! What?*
 
 **Power Roll + Presence:**
 
@@ -326,7 +333,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ##### Witty Banter
 
-*A lyrical (and physical) jab insults an enemy and inspires an ally.*
+*A lyrical (and physical) jab insults an enemy and inspires an ally.* **Keywords:** Magic, Melee, Ranged, Strike
 
 **Power Roll + Presence:**
 
@@ -348,10 +355,11 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 ### Harsh Critic (3 Drama)
 
-*Just one bad review will ruin their day.*
+*Just one bad review will ruin their day.* **Keywords:** Magic, Melee, Ranged, Strike
 
-### O *11 Or Lower:* 7 + P **sonic Damage**
+**Power Roll + Presence:**
 
+- *11 or lower:* 7 + P **sonic damage**
 - *12-16:* 10 + P **sonic damage**
 - *17+:* 13 + P **sonic damage**
 
@@ -359,7 +367,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 ### Hypnotic Overtones (3 Drama)
 
-*You produce an entrancing note that twists the senses in a spectacular fashion.*
+*You produce an entrancing note that twists the senses in a spectacular fashion.* **Distance:** 2 burst
 
 **Power Roll + Presence:**
 
@@ -371,7 +379,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 ### Quick Rewrite (3 Drama)
 
-*You write something unforeseen into the scene that hinders your enemy.*
+*You write something unforeseen into the scene that hinders your enemy.* **Keywords:** Area, Magic, Ranged
 
 **Power Roll + Presence:**
 
@@ -383,7 +391,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 ### Upstage (3 Drama)
 
-*As you bob and weave through the crowd, you can't help but leave the audience wanting more.*
+*As you bob and weave through the crowd, you can't help but leave the audience wanting more.* **Keywords:** Melee, Strike, Weapon
 
 **Effect:** You shift up to your speed. You make one power roll that targets each enemy who becomes adjacent to you during the shift.
 
@@ -399,7 +407,7 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 
 ### Dramatic Reversal (5 Drama)
 
-*Give the audience a surprise.*
+*Give the audience a surprise.* **Keywords:** Area, Magic
 
 **Power Roll + Presence:**
 
@@ -407,19 +415,21 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 - *12-16:* **The target can shift up to 2 squares and make a free strike with an edge.**
 - *17+:* **The target can shift up to 3 squares and make a free strike with and edge, then can spend a Recovery.**
 
-### Fake Your Death (5 Drama) *o Happy Dagger, This Is Thy Sheath!*
+### Fake Your Death (5 Drama)
+
+*O happy dagger, this is thy sheath!* **Keywords:** Magic
 
 **Effect:** You turn invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 bonus to speed and you ignore difficult terrain. The illusion melts into the ground and your invisibility ends at the end of your next turn, or earlier if the illusion is interacted with, if you take damage, or if you use an action or a maneuver.
 
 ### Flip The Script (5 Drama)
 
-*You try a different take on events, justifying the new locations everyone ended up in.*
+*You try a different take on events, justifying the new locations everyone ended up in.* **Keywords:** Area, Magic
 
 **Effect:** Each target can immediately teleport up to 5 squares. Any teleported target who was slowed is no longer slowed.
 
 ### Method Acting (5 Drama)
 
-*They're so hurt by your performance, you sort of start to believe it yourself.*
+*They're so hurt by your performance, you sort of start to believe it yourself.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -475,13 +485,15 @@ Your troubadour class act grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-### Classic Chandelier Stunt (5 Drama) *audiences Love This Bit.*
+### Classic Chandelier Stunt (5 Drama)
+
+*Audiences love this bit.* **Keywords:** Melee, Strike, Weapon
 
 **Effect:** Each target shifts up to 5 squares, and can shift vertically. Both targets must end this movement adjacent to each other and on solid ground. Each target can then make a melee free strike that deals additional damage equal to twice their highest characteristic score.
 
 ### En Garde!(5 Drama)
 
-*Wait it's ... Guard! Turn! Perry! Dodge! Spin! Thrust! Hah!* **Keywords:** Melee, Strike, Weapon **Type:** Action
+*Wait it's ... Guard! Turn! Perry! Dodge! Spin! Thrust! Hah!*
 
 **Power Roll + Agility:**
 
@@ -495,19 +507,18 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-GUEST STAR (5 DRAMA)
+##### Guest Star (5 Drama)
 
-*We offered them a percentage of the gross. So they're working for free!*
+*We offered them a percentage of the gross. So they're working for free!* **Keywords:** Magic, Ranged
 
 **Effect:** Either a bystander within distance is uplifted by your magic, or a mysterious new hero appears in an unoccupied space to help out during the encounter. This guest star is controlled by you, has their own turn, shares your characteristics. Their stamina is maximum is half yours. They have no abilities other than your melee and ranged free strikes. When the target is reduced to 0 Stamina or at the end of the encounter, they retreat or revert to a bystander. An individual bystander can't be uplifted in this way more than once in an encounter.
 
-TWIST AT THE END (5 DRAMA)
+##### Twist At The End (5 Drama)
 
-*You didn't see that coming, did you?!*
+*You didn't see that coming, did you?!* **Keywords:** Magic, Ranged
 
-| Keywords: Magic, Ranged | Type: Action           |
-| ----------------------- | ---------------------- |
-| Distance: Ranged 10     | Target: One dead enemy |
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Effect:** As long as the target is not a leader or a solo creature, they come back to life with half their Stamina and become an ally under the Director's control. The players can discuss with the Director when the target takes their turn each round. The target turns to dust and blows away at the end of the encounter.
 
@@ -515,13 +526,15 @@ TWIST AT THE END (5 DRAMA)
 
 Choose one of the following abilities.
 
-ENCORE (5 DRAMA) *Again! Again!*
+##### Encore (5 Drama)
+
+*Again! Again!* **Keywords:** Magic, Strike
 
 **Effect:** You recreate and enact a strike you have observed this round. The strike can't be one that uses Malice. When you make the strike, you use your Presence score for any power rolls, and any damage you deal is sonic damage.
 
 ### Tough Crowd (5 Drama)
 
-*Your fans don't seem to like the opening act ...*
+*Your fans don't seem to like the opening act ...* **Keywords:** Area, Magic, Ranged
 
 **Effect:** The affected area becomes haunted by a swirling horde of phantoms until the end of the encounter. Any ally can enter any square of the area without spending movement. At the end of each of your turns, you can make a power roll against each enemy in the area.
 
@@ -567,7 +580,7 @@ You gain the following routine abilities, each of which is usable with your Curt
 
 ### Neverending Hero
 
-*And toniiight we can truly say* ?*They will alllways find a way!*?
+*And toniiight we can truly say* ?*They will alllways find a way!*? **Keywords:** Area, Magic, Routine
 
 **Effect:** While this routine is active, each target who starts their turn dying while in the aura gains an edge on power rolls and ignores the effects of bleeding until the end of their turn.
 
@@ -577,7 +590,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 ### Extensive Rewrites (7 Drama)
 
-*No, this isn't right. That foe was over there!*
+*No, this isn't right. That foe was over there!* **Keywords:** Area, Magic, Ranged
 
 **Power Roll + Presence:**
 
@@ -589,7 +602,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 ### Infernal Gavotte (7 Drama)
 
-*A spicy performance lights a fire under your allies' feet.* **Keywords:** Area, Magic, Weapon **Type:** Action **Distance:** 3 burst **Target:** Each enemy in the area
+*A spicy performance lights a fire under your allies' feet.*
 
 **Power Roll + Presence:**
 
@@ -601,7 +614,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 ### Virtuoso's Solo (7 Drama)
 
-*Your performance travels and doesn't stop moving until your audience is completely rocked.*
+*Your performance travels and doesn't stop moving until your audience is completely rocked.* **Keywords:** Magic, Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or ranged 10 **Target:** One creature or object
 
 **Power Roll + Presence:**
 
@@ -611,9 +624,9 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 **Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability on the same target for the next 2 rounds without spending drama.
 
-WE MEET AT LAST. LET'S FINISH THIS (7 DRAMA)
+### We Meet At Last. Let's Finish This (7 Drama)
 
-*Totus mundus agit histrionem.*
+*Totus mundus agit histrionem.* **Keywords:** Magic, Ranged
 
 **Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond distance, with the distance of this ability replacing those abilities' distances. Abilities that grapple or force move a target are ignored if the target isn't within the distance of the ability.
 
@@ -688,7 +701,7 @@ WE CAN'T BE UPSTAGED! You gain the following routine.
 
 ### We Can't Be Upstaged!
 
-*Swordplay so graceful it looks like you all practiced this.* **Keywords:** Area, Magic **Type:** Routine
+*Swordplay so graceful it looks like you all practiced this.*
 
 **Effect:** Whenever a target that starts their turn within the aura shifts, they can shift an additional number of squares equal to your presence score until the end of their turn.
 
@@ -730,7 +743,7 @@ Choose one heroic ability from the following options.
 
 ### Action Hero (9 Drama)
 
-*You wield your weapon faster than anyone can perceive, leaving everyone around you within an inch of their lives.*
+*You wield your weapon faster than anyone can perceive, leaving everyone around you within an inch of their lives.* **Keywords:** Area, Melee, Weapon
 
 **Power Roll + Agility:**
 
@@ -742,19 +755,19 @@ Choose one heroic ability from the following options.
 
 ### Continuity Error (9 Drama)
 
-*Your subject is accidentally written into two places at once.*
+*Your subject is accidentally written into two places at once.* **Keywords:** Magic, Ranged
 
 **Effect:** The target is split into two separate entities, each with half of the original target's Stamina. The second entity appears in an unoccupied space within distance. Each entity is weakened and takes 1d6 corruption damage at the start of each of their turns until one of them is reduced to 0 Stamina or all entities occupy the same space and automatically merge, ending all effects of this ability on them.
 
 ### Love Song (9 Drama)
 
-*You play a small ditty that plants yourself inside your target's heart.*
+*You play a small ditty that plants yourself inside your target's heart.* **Keywords:** Magic, Ranged
 
 **Effect:** The target gains 20 temporary Stamina. Until the end of the encounter, whenever the target takes damage while you're within distance, you can choose to take the damage instead of the target.
 
 ### Patter Song (9 Drama)
 
-*Dazzle them with your fancy patter and they forget where they were.*
+*Dazzle them with your fancy patter and they forget where they were.* **Keywords:** Magic, Ranged
 
 **Power Roll + Presence:**
 
@@ -776,11 +789,10 @@ You have access to the following routine to use with Curtain Call.
 
 ### Spotlight
 
-*The audience is watching, so you better give them a show.*
+*The audience is watching, so you better give them a show.* **Keywords:** Area, Magic
 
-| Keywords: Area, Magic | Type: Routine               |
-| --------------------- | --------------------------- |
-| Distance: 5 Aura      | Target: Self and all allies |
+| **Type:** Routine |     |
+| ----------------- | --- |
 
 **Effect:** A target who starts their turn within the aura gains 1 Heroic Resource. This Heroic Resource disappears at the end of their turn if they do not spend it.
 
@@ -794,7 +806,7 @@ Choose one of the following abilities.
 
 ### Blood On The Stage (9 Drama)
 
-*It's love and blood or drama and blood. Either way there's always blood.*
+*It's love and blood or drama and blood. Either way there's always blood.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -804,7 +816,7 @@ Choose one of the following abilities.
 
 ### Fight Choreography (9 Drama)
 
-*You and your partner make a flashy show of derring-do, then back to your corners.*
+*You and your partner make a flashy show of derring-do, then back to your corners.* **Keywords:** Melee, Strike, Weapon
 
 **Effect:** You and the target uses a single melee free strike that targets all enemies within 3 of you. You choose which enemies you target with your free strike and your target targets with their free strike. You then slide the target 5 squares, ignoring their stability.
 
@@ -814,7 +826,7 @@ Choose one of the following abilities.
 
 ### Feedback (9 Drama)
 
-*Your music pounds the crowd to the beat until their hearts can't stand it anymore.*
+*Your music pounds the crowd to the beat until their hearts can't stand it anymore.* **Keywords:** Area, Magic
 
 **Power Roll + Presence:**
 
@@ -824,7 +836,7 @@ Choose one of the following abilities.
 
 ### Legendary Drum Fill (9 Drama)
 
-*You start a drumroll that roars like thunder with every impact the heroes make.*
+*You start a drumroll that roars like thunder with every impact the heroes make.* **Keywords:** Area, Magic
 
 **Effect:** Each target gains a surge now and at the start of each round until the end of the encounter.
 
@@ -834,11 +846,10 @@ Choose one of the following abilities.
 
 ### A Change Of Heart (9 Drama)
 
-*The surprise reveal that changes everything they thought they knew.*
+*The surprise reveal that changes everything they thought they knew.* **Keywords:** Area, Magic
 
-| Keywords: Area, Magic | Type: Action        |
-| --------------------- | ------------------- |
-| Distance: 5 burst     | Target: All enemies |
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Power Roll + Presence:**
 
@@ -848,11 +859,10 @@ Choose one of the following abilities.
 
 ### You're All My Understudies (9 Drama)
 
-*It's important for everyone to know each other's lines, just in case....*
+*It's important for everyone to know each other's lines, just in case....* **Keywords:** Magic, Ranged
 
-| Keywords: Magic, Ranged | Type: Maneuver     |
-| ----------------------- | ------------------ |
-| Distance: 5 Burst       | Target: All allies |
+| **Type:** Maneuver |     |
+| ------------------ | --- |
 
 **Effect:** Until the end of the encounter, each target gains the speed, distance, disengage, and stability bonuses of your currently equipped kit on top of their own bonuses.
 
@@ -902,23 +912,21 @@ You've put your mark on the artform for all class acts to follow. You gain a new
 
 You have access to two additional routines to use with Curtain Call.
 
-"MOONLIGHT SONATA"
+##### "moonlight Sonata"
 
-*Music pours out of your heart, filling the area with the utmost delicacy and without damper.*
+*Music pours out of your heart, filling the area with the utmost delicacy and without damper.* **Keywords:** Area, Magic
 
-| Keywords: Area, Magic | Type: Routine           |
-| --------------------- | ----------------------- |
-| Distance: 5 Aura      | Target: All dead allies |
+| **Type:** Routine |     |
+| ----------------- | --- |
 
 **Effect:** Each target within the aura can choose to continue taking turns after death. A target can move and use a maneuver on each of their turns but can't spend Recoveries or use triggered actions. Each creature that was affected by this ability during the encounter turns to dust and blows away at the end of the encounter.
 
 ### "radical Fantasia"
 
-? *Viras my Viras will you hold their hands as they cryyyaaaiigh?* ?
+? *Viras my Viras will you hold their hands as they cryyyaaaiigh?* ? **Keywords:** Area, Magic
 
-| Keywords: Area, Magic | Type: Routine               |
-| --------------------- | --------------------------- |
-| Distance: 5 Aura      | Target: Self and all allies |
+| **Type:** Routine |     |
+| ----------------- | --- |
 
 **Effect:** Each target who starts their turn within the aura ignores difficult terrain and has the forced movement effects of their abilities increased by 2 until the end of their turn. Additionally, targets can use a triggered action as a free triggered action once per round while within the aura.
 
@@ -940,21 +948,21 @@ You gain any one perk of your choice. See Perks for more information.
 
 Choose one heroic ability from the following options.
 
-DRAMATIC REVEAL (11 DRAMA)
+#### Dramatic Reveal (11 Drama)
 
-*A little stage trickery and where once stood a foe, now stands a friend!*
+*A little stage trickery and where once stood a foe, now stands a friend!* **Keywords:** Magic
 
 **Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina with an ability, you can use a free triggered action to teleport an ally within distance of the ability into the creature's space in a plume of rose petals and take a melee free strike.
 
 ### Power Ballad (11 Drama)
 
-*A song for the broken hearted wraps itself around the target and blossoms into a ward of thorns.*
+*A song for the broken hearted wraps itself around the target and blossoms into a ward of thorns.* **Keywords:** Magic, Ranged
 
 **Effect:** Until the end of the encounter and while the target is winded, whenever the target takes damage, they can use a free triggered action to deal half the damage they received to the source of the damage.
 
-SAVED IN THE EDIT (11 DRAMA)
+### Saved In The Edit (11 Drama)
 
-*Your weapon takes on the avatar of a legendary tool that can rewrite reality to your whims.*
+*Your weapon takes on the avatar of a legendary tool that can rewrite reality to your whims.* **Keywords:** Magic
 
 **Effect:** Until the end of the encounter, whenever you deal damage to a creature or object, or enable a creature to spend a Recovery, you can use a free triggered action to give them one of the following effects until the start of your next turn. If this ability is triggered by multiple targets taking damage or multiple creatures spending recoveries at the same time, each target receives the same effect:
 
@@ -963,7 +971,9 @@ SAVED IN THE EDIT (11 DRAMA)
 - The target's stability increases and speed decreases by a number of squares equal to your Presence score.
 - The target's speed increases and stability decreases by a number of squares equal to your Presence score.
 
-THE SHOW MUST GO ON (11 DRAMA) *You shine a bright light on the players on the stage and compel them to finish the performance*
+### The Show Must Go On (11 Drama)
+
+*You shine a bright light on the players on the stage and compel them to finish the performance* **Keywords:** Area, Magic, Ranged
 
 **Power Roll + Presence:** o *11 or lower:* 6 **damage; P \< \[weak\] can't willingly**
 
@@ -991,9 +1001,9 @@ Your class act grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-EXPERT FENCER (11 DRAMA)
+##### Expert Fencer (11 Drama)
 
-*If you can land it, the crowd goes wild.*
+*If you can land it, the crowd goes wild.* **Keywords:** Charge, Melee, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -1005,7 +1015,7 @@ EXPERT FENCER (11 DRAMA)
 
 ### Renegotiated Contract (11 Drama)
 
-*No, no. You don't die until the sequel.*
+*No, no. You don't die until the sequel.* **Keywords:** Melee, Strike, Weapon
 
 **Effect:** You add your current Stamina to your target's current Stamina and divide the total evenly between the two of you. Then, roll power.
 
@@ -1021,7 +1031,7 @@ Choose one of the following abilities.
 
 ### Jam Session(11 Drama)
 
-*Your jam session breeds new genres that compel everyone to get up and move.*
+*Your jam session breeds new genres that compel everyone to get up and move.* **Keywords:** Area, Magic
 
 **Power Roll + Presence:**
 
@@ -1033,7 +1043,7 @@ Choose one of the following abilities.
 
 ### Melt Their Faces (11 Drama)
 
-*The power of music rips through the reality around the target and blows them away.*
+*The power of music rips through the reality around the target and blows them away.* **Keywords:** Magic, Melee, Ranged, Strike
 
 **Power Roll + Presence:**
 
@@ -1049,7 +1059,7 @@ Choose one of the following abilities.
 
 ### Epic (11 Drama)
 
-*Your story tells tale of the villain's waning power and how the heroes rose to the occasion to stop them.*
+*Your story tells tale of the villain's waning power and how the heroes rose to the occasion to stop them.* **Keywords:** Magic, Melee, Ranged
 
 **Power Roll + Presence:**
 
@@ -1059,9 +1069,9 @@ Choose one of the following abilities.
 
 **Effect:** While affected by this ability, one ally can take a free strike against the target after each ability they use.
 
-RISING TENSION (11 DRAMA)
+### Rising Tension (11 Drama)
 
-*You narrate the tension of the scene and put all hope into your subject to turn things around.*
+*You narrate the tension of the scene and put all hope into your subject to turn things around.* **Keywords:** Magic, Ranged
 
 **Effect:** The target gains 3 of their heroic resource, has a double edge on a power roll of their choice made during their next turn, is no longer slowed or weakened if they were before, and can immediately take their turn after yours if they have not taken their turn already.
 

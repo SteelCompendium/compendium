@@ -6,22 +6,19 @@ name: Bifurcated Conflagration
 type: classes
 subtype: elementalist
 kind: 1st-level features
-keywords: Fire, Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** Two creatures or objects
-keyword_list:
-  - Fire
-  - Magic
-  - Ranged
-  - Strike **Type:** Action **Distance:** Ranged 10 **Target:** Two creatures or objects
+ability_type: Action
+distance: Ranged 10
+target: Two creatures or objects
 ---
 
 # Bifurcated Conflagration
 
-*Two jets of flame lance out at your command.*
+*Two jets of flame lance out at your command.* **Keywords:** Fire, Magic, Ranged, Strike
 
-|                                                                                                                         |             |
-| :---------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Fire, Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** Two creatures or objects | **Type:**   |
-| **Distance:**                                                                                                           | **Target:** |
+|                         |                                      |
+| :---------------------- | :----------------------------------- |
+| **Keywords:**           | **Type:** Action                     |
+| **Distance:** Ranged 10 | **Target:** Two creatures or objects |
 
 **Power Roll + Reason:**
 

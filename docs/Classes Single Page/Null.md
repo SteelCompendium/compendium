@@ -4,14 +4,13 @@ title: 'Null'
 name_raw: 'Null'
 name: 'Null'
 type: classes single page
-keywords: Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
+keywords: Psionic
 keyword_list:
-  - Melee
   - Psionic
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
-distance: Self **Target:** Self **Trigger:** Another creature ends their turn.
-target: Each enemy in the area
+ability_type: Action
+distance: Melee 1
+target: 1 creature
+trigger: Another creature ends their turn.
 ---
 
 # Null
@@ -132,12 +131,12 @@ You project a psionic field of order around your body, dampening the effects of 
 
 ### Null Field
 
-*You intuit where an incoming attack will strike, reducing its effects.*
+*You intuit where an incoming attack will strike, reducing its effects.* **Keywords:** Psionic
 
-|                                                                                                            |                                    |
-| :--------------------------------------------------------------------------------------------------------- | :--------------------------------- |
-| **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature | **Type:**                          |
-| **Distance:** Self **Target:** Self **Trigger:** Another creature ends their turn.                         | **Target:** Each enemy in the area |
+|                       |                        |
+| :-------------------- | :--------------------- |
+| **Keywords:** Psionic | **Type:** Action       |
+| **Distance:** Melee 1 | **Target:** 1 creature |
 
 **Effect:** Each target reduces their potencies by 1.
 
@@ -155,7 +154,9 @@ Your instincts for danger let you predict attacks before they happen.
 
 ### Inertial Shield
 
-*You intuit where an incoming attack will strike, reducing its effects.*
+*You intuit where an incoming attack will strike, reducing its effects.* **Keywords:** Psionic
+
+**Trigger:** You take damage.
 
 **Effect:** You halve the damage.
 
@@ -279,7 +280,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### Dance Of Blows
 
-*You strike everywhere at once, tricking an enemy into moving out of position.*
+*You strike everywhere at once, tricking an enemy into moving out of position.* **Keywords:** Area, Melee, Psionic, Weapon
 
 **Power Roll + Agility:**
 
@@ -292,7 +293,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### Faster Than The Eye
 
-*You strike so quickly that your hands become a blur.*
+*You strike so quickly that your hands become a blur.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -304,7 +305,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### Inertial Step
 
-*You flit about the battlefield with an opportunistic strike.*
+*You flit about the battlefield with an opportunistic strike.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -316,7 +317,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### Joint Lock
 
-*You contort your enemy's body into a stance they struggle to escape from.*
+*You contort your enemy's body into a stance they struggle to escape from.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -326,7 +327,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### Kinetic Strike
 
-*Your opponent staggers. They cannot ignore you.*
+*Your opponent staggers. They cannot ignore you.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -336,7 +337,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### Magnetic Strike
 
-*The force of your blow extends past the limits of your body, pulling your enemy closer.*
+*The force of your blow extends past the limits of your body, pulling your enemy closer.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -346,7 +347,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### Phase Inversion Strike
 
-*You step momentarily out of phase as you pull an enemy through you.*
+*You step momentarily out of phase as you pull an enemy through you.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -358,7 +359,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### Pressure Points
 
-*You strike at key nerve clusters to leave your foe staggered.* **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
+*You strike at key nerve clusters to leave your foe staggered.*
 
 **Power Roll + Agility:**
 
@@ -376,7 +377,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 
 ### Chronal Spike (3 Discipline)
 
-*You foresee the best moment to strike, then exploit it.*
+*You foresee the best moment to strike, then exploit it.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -388,13 +389,13 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 
 ### Psychic Pulse (3 Discipline)
 
-*A burst of psionic energy interferes with your enemy's synapses.*
+*A burst of psionic energy interferes with your enemy's synapses.* **Keywords:** Area, Psionic
 
 **Effect:** Each target takes psychic damage equal to twice your Intuition score. Until the start of your next turn, the area of your Null Field ability increases by 1. When you end your turn, each enemy in that area takes psychic damage equal to your Intuition score.
 
 ### Relentless Nemesis (3 Discipline)
 
-*You strike, and for the next few moments, your enemy can't escape you.*
+*You strike, and for the next few moments, your enemy can't escape you.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -406,7 +407,7 @@ Choose one heroic ability from the following options, each of which costs 3 disc
 
 ### Stunning Blow (3 Discipline)
 
-*You focus your psionic technique into a debilitating concussive punch.*
+*You focus your psionic technique into a debilitating concussive punch.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -420,7 +421,7 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 
 ### Arcane Disruptor (5 Discipline)
 
-*Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.*
+*Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -430,9 +431,9 @@ Choose one heroic ability from the following options, each of which costs 5 disc
 
 **Effect:** While weakened this way, the target takes damage equal to your Intuition score when they use a supernatural or ability that costs Malice.
 
-IMPART FORCE (5 DISCIPLINE)
+### Impart Force (5 Discipline)
 
-*A single touch from you, and your enemy flies backward.*
+*A single touch from you, and your enemy flies backward.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Intuition:**
 
@@ -444,7 +445,7 @@ IMPART FORCE (5 DISCIPLINE)
 
 ### Phase Strike (5 Discipline)
 
-*For a moment, your foe slips out of phase with this manifold.* **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
+*For a moment, your foe slips out of phase with this manifold.*
 
 **Power Roll + Agility:**
 
@@ -456,7 +457,7 @@ IMPART FORCE (5 DISCIPLINE)
 
 ### A Squad Unto Myself (5 Discipline)
 
-*You move so quickly, it seems as though an army assaulted your foes.*
+*You move so quickly, it seems as though an army assaulted your foes.* **Keywords:** Area, Melee, Psionic, Weapon
 
 **Power Roll + Agility:**
 
@@ -508,7 +509,7 @@ Your null tradition grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-BLUR (5 DISCIPLINE)
+##### Blur (5 Discipline)
 
 *You release stored time, allowing you to act twice.*
 
@@ -518,7 +519,7 @@ BLUR (5 DISCIPLINE)
 
 ### Force Redirected (5 Discipline)
 
-*The force of your strike manifests in a surprising location.* **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 3 **Target:** One creature
+*The force of your strike manifests in a surprising location.*
 
 **Power Roll + Agility:**
 
@@ -530,9 +531,9 @@ BLUR (5 DISCIPLINE)
 
 Choose one of the following abilities.
 
-ENTROPIC FIELD (5 DISCIPLINE)
+##### Entropic Field (5 Discipline)
 
-*You drastically increase the local entropy.*
+*You drastically increase the local entropy.* **Keywords:** Area, Psionic, Weapon
 
 **Power Roll + Agility:**
 
@@ -542,9 +543,7 @@ ENTROPIC FIELD (5 DISCIPLINE)
 
 ### Heat Sink (5 Discipline)
 
-*You absorb ambient heat, coating the ground in frost and precipitating snow from the air*
-
-## Keywords:\*\* Psionic \*\*type: Maneuver
+*You absorb ambient heat, coating the ground in frost and precipitating snow from the air* **Keywords:** Psionic
 
 **Effect:** Until the start of your next turn, the area of your Null Field ability increases by 1. While the area is enlarged this way, you and your allies benefit from concealment while in the area. When you end your turn, each enemy in the aura takes cold damage equal to your Intuition score.
 
@@ -552,7 +551,9 @@ ENTROPIC FIELD (5 DISCIPLINE)
 
 Choose one of the following abilities.
 
-GRAVITIC STRIKE (5 DISCIPLINE) *Your fist projects gravitic force that pulls a distant enemy closer.*
+##### Gravitic Strike (5 Discipline)
+
+*Your fist projects gravitic force that pulls a distant enemy closer.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -560,9 +561,9 @@ GRAVITIC STRIKE (5 DISCIPLINE) *Your fist projects gravitic force that pulls a d
 - *12-16:* **12 + A psychic damage; vertical pull 5**
 - *17+:* **16 + A psychic damage; vertical pull 7**
 
-KINETIC SHIELD (5 DISCIPLINE)
+##### Kinetic Shield (5 Discipline)
 
-*You manifest a force barrier that absorbs incoming kinetic energy.*
+*You manifest a force barrier that absorbs incoming kinetic energy.* **Keywords:** Psionic
 
 **Power Roll + Intuition:**
 
@@ -588,13 +589,15 @@ Each time you start your turn, you can use a free triggered action to end one ef
 
 Choose one heroic ability from the following options, each of which costs 7 discipline to use.
 
-ABSORPTION FIELD (7 DISCIPLINE) *Your null field absorbs kinetic energy.*
+#### Absorption Field (7 Discipline)
+
+*Your null field absorbs kinetic energy.* **Keywords:** Psionic
 
 **Effect:** Until the end of the encounter, the area of your Null Field ability increases by 1. While the area is enlarged this way, each enemy in the area takes a bane on ability power rolls.
 
-MOLECULAR REARRANGEMENT FIELD (7 DISCIPLINE)
+#### Molecular Rearrangement Field (7 Discipline)
 
-*Your enemies' wounds open, your allies' wounds close.*
+*Your enemies' wounds open, your allies' wounds close.* **Keywords:** Psionic
 
 **Effect:** Until the end of the encounter, the area of your Null Field ability increases by 1. While the area is enlarged this way, each enemy who has **I \< average** and enters the area for the first time in a round or starts their turn there is bleeding (save ends). The first time any ally enters the area or starts their turn there, they gain temporary Stamina equal to your Intuition score.
 
@@ -606,7 +609,7 @@ MOLECULAR REARRANGEMENT FIELD (7 DISCIPLINE)
 
 ### Synapse Field (7 Discipline)
 
-*Attacks made by allies in your null field disrupt your enemies' thoughts, causing psychic pain.*
+*Attacks made by allies in your null field disrupt your enemies' thoughts, causing psychic pain.* **Keywords:** Psionic
 
 **Effect:** Until the end of the encounter, the area of your Null Field ability increases by 1. While the area is enlarged this way, enemies who take damage in the area taken additional psychic damage equal to twice your Intuition score.
 
@@ -674,9 +677,11 @@ If the heroes have more than hero with this feature, only one can benefit from t
 
 Choose one heroic ability from the following options.
 
-ANTICIPATING STRIKE (9 DISCIPLINE)
+#### Anticipating Strike (9 Discipline)
 
-*You suddenly strike an enemy*
+*You suddenly strike an enemy* **Keywords:** Melee, Psionic, Strike, Weapon
+
+**Trigger:** The target creature begins to move or takes an
 
 action.
 
@@ -688,9 +693,9 @@ action.
 
 **Effect:** This strike resolves before the target's move or action.
 
-IRON GRIP (9 DISCIPLINE)
+#### Iron Grip (9 Discipline)
 
-*You grab the target with near supernatural force*
+*You grab the target with near supernatural force* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -700,15 +705,15 @@ IRON GRIP (9 DISCIPLINE)
 
 **Effect:** You can grab a target of any size. The target takes a bane on attempts to escape and takes damage equal to twice your Agility score whenever they attempt to escape.
 
-PHASE LEAP (9 DISCIPLINE)
+#### Phase Leap (9 Discipline)
 
-*You leap beyond reality, leaving an afterimage of yourself.* **Keywords:** Psionic **Type:** Move **Distance:** Self **Target:** Self
+*You leap beyond reality, leaving an afterimage of yourself.*
 
 **Effect:** You jump your speed without provoking opportunity attacks. Until the end of your next turn, an afterimage of yourself is left in the space you left. Enemies adjacent to your afterimage have a bane on all ability power rolls. Your abilities have line of effect from your afterimage as well as yourself.
 
-SYNAPTIC RESET (9 DISCIPLINE)
+#### Synaptic Reset (9 Discipline)
 
-*You temporarily boost your aura to mitigate harmful effects.* **Keywords:** Psionic **Type:** Maneuver **Distance:** 3 Burst **Target:** Self and all allies
+*You temporarily boost your aura to mitigate harmful effects.*
 
 **Effect:** Each target can end any number of conditions or effects that are affecting them. Each target gains 5 Temporary Stamina for every condition or effect removed.
 
@@ -738,17 +743,16 @@ Choose one of the following abilities.
 
 ### Interphase (9 Discipline)
 
-*You slip into a faster timestream, appearing to act more quickly.*
+*You slip into a faster timestream, appearing to act more quickly.* **Keywords:** Psionic
 
-| Keywords: Psionic | Type: Action |
-| ----------------- | ------------ |
-| Distance: Self    | Target: Self |
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Effect:** You can use three signature abilities. These actions have an edge.
 
 ### Phase Step (9 Discipline)
 
-*You weaken your connection to this manifold, allowing you to move through and damage enemies.*
+*You weaken your connection to this manifold, allowing you to move through and damage enemies.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Effect:** You shift up to your speed. You can move through enemies and objects without them counting as difficult terrain and through one square of terrain at a time. You make one power roll that targets each enemy who you went through during this move.
 
@@ -764,7 +768,7 @@ Choose one of the following abilities.
 
 ### Ice Pillars (9 Discipline)
 
-*You cause pillars of ice to erupt from the ground and launch your foes into the air.*
+*You cause pillars of ice to erupt from the ground and launch your foes into the air.* **Keywords:** Ranged, Psionic
 
 **Power Roll + Reason:**
 
@@ -774,7 +778,7 @@ Choose one of the following abilities.
 
 ### Wall Of Ice (9 Discipline)
 
-*You create a wall of ice.*
+*You create a wall of ice.* **Keywords:** Area, Psionic, Ranged
 
 **Effect:** You can place this wall in occupied squares, with each creature in an affected place sliding to the nearest unoccupied square of your choice. The wall lasts until the end of the encounter or you are dying. The wall squares count as stone squares for purposes of damage. You can move freely through the wall squares. Any enemy that enters a square adjacent to the wall is **M \< \[average\] slowed (save ends)**. Any enemy that is force moved into the wall is **M \< \[average\] restrained (save ends)**.
 
@@ -784,7 +788,7 @@ Choose one of the following abilities.
 
 ### Gravitic Charge (9 Discipline)
 
-*You channel your discipline into momentum that defies gravity.*
+*You channel your discipline into momentum that defies gravity.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Intuition:**
 
@@ -796,7 +800,7 @@ Choose one of the following abilities.
 
 ### Iron Body (9 Discipline)
 
-*You focus until your body becomes as hard as iron.* **Keywords:** Psionic **Type:** Maneuver **Distance:** Self **Target:** Self
+*You focus until your body becomes as hard as iron.*
 
 **Effect:** You gain 20 Temporary Stamina. Your Stability increases by your Intuition score until the end of the encounter.
 
@@ -890,7 +894,7 @@ Choose one heroic ability from the following options.
 
 ### Arcane Purge (11 Discipline)
 
-*You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.*
+*You focus your null field into a pressure point strike that prevents your foe from channeling sorcery.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -902,7 +906,7 @@ Choose one heroic ability from the following options.
 
 ### Phase Hurl (11 Discipline)
 
-*You throw your foe out of phase with this manfold, causing them to harm other enemies as they return.*
+*You throw your foe out of phase with this manfold, causing them to harm other enemies as they return.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Agility:**
 
@@ -912,7 +916,7 @@ Choose one heroic ability from the following options.
 
 **Effect:** The target and any creatures or objects, they collide with take psychic damage equal to the total distance they moved. While the target is dazed they see glimpses of creatures from other parts of the Timescape. SCALAR STRIKE (11 DISCIPLINE)
 
-*You use your null field to warp reality and make yourself larger for a single, devastating strike.*
+*You use your null field to warp reality and make yourself larger for a single, devastating strike.* **Keywords:** Area, Psionic
 
 **Power Roll + Agility:**
 
@@ -922,9 +926,11 @@ Choose one heroic ability from the following options.
 
 **Effect:** You count as 2 sizes larger for the purposes of the push.
 
-SYNAPTIC ANCHOR (11 DISCIPLINE)
+### Synaptic Anchor (11 Discipline)
 
-*You disrupt an enemy's strike and create a feedback loop in their mind, preventing them from focusing on future attacks.* **Keywords:** Psionic **Type:** Free Triggered **Distance:** Self **Target:** Self or 1 creature **Trigger:** The target takes damage from another creature's ability while in your Null Field.
+*You disrupt an enemy's strike and create a feedback loop in their mind, preventing them from focusing on future attacks.*
+
+**Trigger:** The target takes damage from another creature's ability while in your Null Field.
 
 **Effect:** You halve the damage, and the creature who used the triggering ability suffers **I \< \[average\] dazed (save ends).** While the attacker is dazed, they take psychic damage equal to your Intuition score whenever they take an action.
 
@@ -944,9 +950,11 @@ Your specialization grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-ARRESTOR CYCLE (11 DISCIPLINE)
+##### Arrestor Cycle (11 Discipline)
 
-*You trap your foe in a looping cycle, where the relive the last few seconds over and over agian.*
+*You trap your foe in a looping cycle, where the relive the last few seconds over and over agian.* **Keywords:** Psionic
+
+**Trigger:** Another creature begins their turn.
 
 **Power Roll + Intuition:**
 
@@ -956,22 +964,22 @@ ARRESTOR CYCLE (11 DISCIPLINE)
 
 **Effect:** If the target resists the potency of this ability they take psychic damage equal to twice your Intuition score for every action they take until the end of their next turn.
 
-TIME LOOP (11 DISCIPLINE)
+##### Time Loop (11 Discipline)
 
-*You show shadows what true speed is.*
+*You show shadows what true speed is.* **Keywords:** Psionic
+
+**Trigger:** Another creature ends their turn.
 
 **Effect:** You take a bonus turn immediately after the triggering creature. This ability can only be used once per round.
 
-9TH-LEVEL CRYOKINETIC ABILITIES
+##### 9th-level Cryokinetic Abilities
 
 Choose one of the following abilities.
 
-ABSOLUTE ZERO (11 DISCIPLINE)
+##### Absolute Zero (11 Discipline)
 
-| You become the coldest thing in the timescape. |                |
-| ---------------------------------------------- | -------------- |
-| Keywords: Psionic                              | Type: Maneuver |
-| Distance: Self                                 | Target: Self   |
+| You become the coldest thing in the timescape. |     |
+| ---------------------------------------------- | --- |
 
 **Power Roll + Intuition:**
 
@@ -981,13 +989,12 @@ ABSOLUTE ZERO (11 DISCIPLINE)
 
 **Effect:** Until the end of the encounter or you become dying, you become an avatar of uttermost cold. You convert all damage you receive into cold damage, ignore the negative effects of dying, and add 2 potency to all of your effects.
 
-HEAT SINK (11 DISCIPLINE)
+##### Heat Sink (11 Discipline)
 
-*You drain all the heat from the target.*
+*You drain all the heat from the target.* **Keywords:** Melee, Psionic, Strike
 
-| Keywords: Melee, Psionic, Strike | Type: Maneuver     |
-| -------------------------------- | ------------------ |
-| Distance: Melee 1                | Target: 1 creature |
+| **Type:** Maneuver |     |
+| ------------------ | --- |
 
 **Power Roll + Intuition:**
 
@@ -1001,18 +1008,18 @@ HEAT SINK (11 DISCIPLINE)
 
 Choose one of the following abilities.
 
-INERTIAL ABSORPTION (11 DISCIPLINE)
+##### Inertial Absorption (11 Discipline)
 
-*You absorb an attack to empower your body.*
+*You absorb an attack to empower your body.* **Keywords:** Psionic
 
-| Keywords: Psionic                                      | Type: Free triggered |
-| ------------------------------------------------------ | -------------------- |
-| Distance: Self                                         | Target: Self         |
-| Trigger: Another creature damages you with an ability. |                      |
+| **Type:** Free triggered |     |
+| ------------------------ | --- |
 
 **Effect:** You halve the damage, negate any effects on your associated with it, and gain three surges.
 
-REALITAS (11 DISCIPLINE) *Your essential hyperreality disrupts your enemy's connection to existence.*
+##### Realitas (11 Discipline)
+
+*Your essential hyperreality disrupts your enemy's connection to existence.* **Keywords:** Melee, Psionic, Strike, Weapon
 
 **Power Roll + Agility:**
 

@@ -5,15 +5,20 @@ name_raw: Arcane Trick
 name: Arcane Trick
 type: perks
 subtype: supernatural perks
+distance: Self
+target: Self \|
 ---
 
 # Arcane Trick
 
-*You cast an entertaining spell that creates a minor but impressive magical effect.*
+*You cast an entertaining spell that creates a minor but impressive magical effect.* **Keywords:** Magic
 
-| Keywords: Magic | Type: Action |
-| --------------- | ------------ |
-| Distance: Self  | Target: Self |
+| **Type:** Action                     |                                   |
+| ------------------------------------ | --------------------------------- |
+|                                      |                                   |
+| :----------------------------------- | :-------------------------------- |
+| **Keywords:**                        | **Type:**                         |
+| **Distance:** Self                   | **Target:** Self \|               |
 
 **Effect:** Choose one of the following effects:
 

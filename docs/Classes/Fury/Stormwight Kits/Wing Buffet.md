@@ -6,17 +6,23 @@ name: Wing Buffet
 type: classes
 subtype: fury
 kind: stormwight kits
-distance: 1 burst **Target:** Each enemy in the area
+keywords: Area, Melee, Weapon
+keyword_list:
+  - Area
+  - Melee
+  - Weapon
+ability_type: Action **Distance:** 1 burst
+target: Each enemy in the area
 ---
 
 # Wing Buffet
 
-*Foes who try to close around you do so at their peril.* **Keywords:** Area, Melee, Weapon **Type:** Action
+*Foes who try to close around you do so at their peril.*
 
-|                                                          |             |
-| :------------------------------------------------------- | :---------- |
-| **Keywords:**                                            | **Type:**   |
-| **Distance:** 1 burst **Target:** Each enemy in the area | **Target:** |
+|                                   |                                        |
+| :-------------------------------- | :------------------------------------- |
+| **Keywords:** Area, Melee, Weapon | **Type:** Action **Distance:** 1 burst |
+| **Distance:**                     | **Target:** Each enemy in the area     |
 
 - **Power Roll + Agility:**
 - *11 or lower:* **4 damage**

@@ -6,22 +6,18 @@ name: Choreography
 type: classes
 subtype: troubadour
 kind: 1st-level features
-keywords: Area, Magic
-keyword_list:
-  - Area
-  - Magic
-ability_type: Routine
+ability_type: No action
 distance: 5 aura
-target: Self and all allies
+target: Self and each ally in the area
 ---
 
 # Choreography
 
-*Taps, kicks, steps. Now it's all “choreography.”*
+*Taps, kicks, steps. Now it's all "choreography."* **Keywords:** Area, Magic, Routine
 
-|                           |                                 |
-| :------------------------ | :------------------------------ |
-| **Keywords:** Area, Magic | **Type:** Routine               |
-| **Distance:** 5 aura      | **Target:** Self and all allies |
+|                      |                                            |
+| :------------------- | :----------------------------------------- |
+| **Keywords:**        | **Type:** No action                        |
+| **Distance:** 5 aura | **Target:** Self and each ally in the area |
 
-**Effect:** Each target that starts their turn within the aura has their speed increased by 2 until the end of their turn.
+**Effect:** While this routine is active, each target who starts their turn in the aura gains a +2 bonus to speed until the end of their turn.

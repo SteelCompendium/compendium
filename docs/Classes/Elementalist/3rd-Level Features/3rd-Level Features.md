@@ -18,6 +18,8 @@ As a 3rd-level elementalist, you gain the following features.
 
 [ERASE (7 ESSENCE)](./Erase.md)
 
+[MAW OF EARTH (7 ESSENCE)](./Maw%20Of%20Earth.md)
+
 [SWARM OF SPIRITS (7 ESSENCE)](./Swarm%20Of%20Spirits.md)
 
 [WALL OF FIRE (7 ESSENCE)](./Wall%20Of%20Fire.md)

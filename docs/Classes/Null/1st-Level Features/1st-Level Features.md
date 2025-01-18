@@ -62,6 +62,8 @@ As a null, you gain the following features.
 
 [ARCANE DISRUPTOR (5 DISCIPLINE)](./Arcane%20Disruptor.md)
 
+[IMPART FORCE (5 DISCIPLINE)](./Impart%20Force.md)
+
 [PHASE STRIKE (5 DISCIPLINE)](./Phase%20Strike.md)
 
 [A SQUAD UNTO MYSELF (5 DISCIPLINE)](./A%20Squad%20Unto%20Myself.md)

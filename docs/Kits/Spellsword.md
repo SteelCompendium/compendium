@@ -4,12 +4,9 @@ title: Spellsword
 name_raw: Spellsword
 name: Spellsword
 type: kits
-keywords: Magic, Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature or object
-keyword_list:
-  - Magic
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature or object
+ability_type: Action
+distance: Melee 1
+target: 1 creature or object
 ---
 
 # Spellsword
@@ -31,12 +28,12 @@ You wear light armor and wield a shield and a medium weapon.
 
 ## Leaping Lightning
 
-*Lightning jumps from your weapon as you strike to harm a nearby foe.*
+*Lightning jumps from your weapon as you strike to harm a nearby foe.* **Keywords:** Magic, Melee, Strike, Weapon
 
-|                                                                                                                    |             |
-| :----------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature or object | **Type:**   |
-| **Distance:**                                                                                                      | **Target:** |
+|                       |                                  |
+| :-------------------- | :------------------------------- |
+| **Keywords:**         | **Type:** Action                 |
+| **Distance:** Melee 1 | **Target:** 1 creature or object |
 
 **Power Roll + Might, Reason, Intuition, or Presence:** *11 or lower:* 5 **+ M, R, I or P lightning damage** *12-16:* 8 **+ M, R, I or P lightning damage** *17+:* 11 **+ M, R, I or P lightning damage**
 

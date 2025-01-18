@@ -18,6 +18,10 @@ As an 8th-level troubadour, you gain the following features.
 
 [PERK](./Perk.md)
 
-[11-DRAMA ABILITIES](./11-Drama%20Abilities.md)
+[11-DRAMA ABILITIES](./11-Drama%20Abilities/11-Drama%20Abilities.md)
 
 [POWER BALLAD (11 DRAMA)](./Power%20Ballad.md)
+
+[SAVED IN THE EDIT (11 DRAMA)](./Saved%20In%20The%20Edit.md)
+
+[THE SHOW MUST GO ON (11 DRAMA)](./The%20Show%20Must%20Go%20On.md)

@@ -6,21 +6,19 @@ name: Drain
 type: classes
 subtype: conduit
 kind: 1st-level features
-keywords: Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature or object
-keyword_list:
-  - Magic
-  - Ranged
-  - Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature or object
+ability_type: Action
+distance: Ranged 10
+target: One creature or object
 ---
 
 # Drain
 
-*You drain the energy from your target and revitalize yourself or an ally.*
+*You drain the energy from your target and revitalize yourself or an ally.* **Keywords:** Magic, Melee, Strike
 
-|                                                                                                                 |             |
-| :-------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature or object | **Type:**   |
-| **Distance:**                                                                                                   | **Target:** |
+|                         |                                    |
+| :---------------------- | :--------------------------------- |
+| **Keywords:**           | **Type:** Action                   |
+| **Distance:** Ranged 10 | **Target:** One creature or object |
 
 **Power Roll + Intuition:**
 
@@ -30,7 +28,7 @@ keyword_list:
 
 **Effect:** You or one ally within distance can spend a Recovery.
 
-HOLY LASH *A tendril of divine energy shoots forth to draw in your foe.*
+HOLY LASH *A tendril of divine energy shoots forth to draw in your foe.* **Keywords:** Magic, Ranged, Strike
 
 **Power Roll + Intuition:**
 

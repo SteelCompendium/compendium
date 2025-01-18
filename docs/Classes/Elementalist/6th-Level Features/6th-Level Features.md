@@ -16,8 +16,10 @@ As a 6th-level elementalist, you gain the following features.
 
 [WYRDING](./Wyrding.md)
 
-[NEW 9-ESSENCE ABILITY](./New%209-Essence%20Ability.md)
+[NEW 9-ESSENCE ABILITY](./New%209-Essence%20Ability/New%209-Essence%20Ability.md)
 
 [MAGMA TITAN (9 ESSENCE)](./Magma%20Titan.md)
 
 [METEOR (9 ESSENCE)](./Meteor.md)
+
+[THE WODE REMEMBERS AND RETURNS (9 ESSENCE)](./The%20Wode%20Remembers%20And%20Returns.md)

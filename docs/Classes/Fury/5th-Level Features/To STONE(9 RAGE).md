@@ -7,22 +7,19 @@ cost: 9 Rage
 type: classes
 subtype: fury
 kind: 5th-level features
-keywords: Magic, Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
-keyword_list:
-  - Magic
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
+ability_type: Action
+distance: Melee 1
+target: 1 creature
 ---
 
 # To Stone!(9 Rage)
 
-*You channel the Primordial Chaos into blows that petrify your foe, literally.*
+*You channel the Primordial Chaos into blows that petrify your foe, literally.* **Keywords:** Magic, Melee, Strike, Weapon
 
-|                                                                                                          |             |
-| :------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature | **Type:**   |
-| **Distance:**                                                                                            | **Target:** |
+|                       |                        |
+| :-------------------- | :--------------------- |
+| **Keywords:**         | **Type:** Action       |
+| **Distance:** Melee 1 | **Target:** 1 creature |
 
 **Power Roll + Might:**
 

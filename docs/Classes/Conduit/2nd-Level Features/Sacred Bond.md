@@ -7,20 +7,19 @@ cost: 5 Piety
 type: classes
 subtype: conduit
 kind: 2nd-level features
-keywords: Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Self and one ally
-keyword_list:
-  - Magic
-  - Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Self and one ally
+ability_type: Maneuver
+distance: Ranged 10
+target: Self and one ally
 ---
 
 # Sacred Bond (5 Piety)
 
-*You forge a divine connection between two creatures.*
+*You forge a divine connection between two creatures.* **Keywords:** Magic, Ranged
 
-|                                                                                                      |             |
-| :--------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Self and one ally | **Type:**   |
-| **Distance:**                                                                                        | **Target:** |
+|                         |                               |
+| :---------------------- | :---------------------------- |
+| **Keywords:**           | **Type:** Maneuver            |
+| **Distance:** Ranged 10 | **Target:** Self and one ally |
 
 **Effect:** Until the end of the encounter, whenever one target takes damage, the other target can use a free triggered action to take the damage instead. The original target suffers any effects associated with the damage.
 

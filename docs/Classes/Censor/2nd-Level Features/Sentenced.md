@@ -7,22 +7,19 @@ cost: 5 Wrath
 type: classes
 subtype: censor
 kind: 2nd-level features
-keywords: Magic, Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
-keyword_list:
-  - Magic
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
+ability_type: Action
+distance: Melee 1
+target: One creature
 ---
 
 # Sentenced (5 Wrath)
 
-*I am the law!*
+*I am the law!* **Keywords:** Magic, Melee, Strike, Weapon
 
-|                                                                                                            |             |
-| :--------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature | **Type:**   |
-| **Distance:**                                                                                              | **Target:** |
+|                       |                          |
+| :-------------------- | :----------------------- |
+| **Keywords:**         | **Type:** Action         |
+| **Distance:** Melee 1 | **Target:** One creature |
 
 **Power Roll + Presence:**
 

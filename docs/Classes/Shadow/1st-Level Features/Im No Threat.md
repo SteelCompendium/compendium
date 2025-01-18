@@ -10,4 +10,4 @@ kind: 1st-level features
 
 # I'm No Threat
 
-*Taking on the illusory countenance of another creature gives you an advantage on subterfuge.*
+You gain the following ability.

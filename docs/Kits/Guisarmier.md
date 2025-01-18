@@ -4,11 +4,9 @@ title: Guisarmier
 name_raw: Guisarmier
 name: Guisarmier
 type: kits
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 2 **Target:** 2 creatures or objects
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 2 **Target:** 2 creatures or objects
+ability_type: Action
+distance: Melee 2
+target: 2 creatures or objects
 ---
 
 # Guisarmier
@@ -30,12 +28,12 @@ You wear medium armor and wield a polearm.
 
 ## Forward Thrust, Backward Smash
 
-*In your hands, the haft is as good as the head.*
+*In your hands, the haft is as good as the head.* **Keywords:** Melee, Strike, Weapon
 
-|                                                                                                               |             |
-| :------------------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 2 **Target:** 2 creatures or objects | **Type:**   |
-| **Distance:**                                                                                                 | **Target:** |
+|                       |                                    |
+| :-------------------- | :--------------------------------- |
+| **Keywords:**         | **Type:** Action                   |
+| **Distance:** Melee 2 | **Target:** 2 creatures or objects |
 
 **Power Roll + Might or Agility:**
 

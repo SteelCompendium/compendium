@@ -7,19 +7,18 @@ cost: 5 Piety
 type: classes
 subtype: conduit
 kind: 2nd-level features
-keywords: Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Each ally
-keyword_list:
-  - Magic
-  - Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Each ally
+ability_type: Maneuver
+distance: Ranged 10
+target: Each ally
 ---
 
 # Reap (5 Piety)
 
-*The gods reward those who smite their foes.*
+*The gods reward those who smite their foes.* **Keywords:** Magic, Ranged
 
-|                                                                                              |             |
-| :------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Each ally | **Type:**   |
-| **Distance:**                                                                                | **Target:** |
+|                         |                       |
+| :---------------------- | :-------------------- |
+| **Keywords:**           | **Type:** Maneuver    |
+| **Distance:** Ranged 10 | **Target:** Each ally |
 
 **Effect:** Until the start of your next turn, each time a target kills an enemy, they regain Stamina equal to 5 + your Intuition score.

@@ -7,22 +7,19 @@ cost: 3 Essence
 type: classes
 subtype: elementalist
 kind: 1st-level features
-keywords: Green, Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature
-keyword_list:
-  - Green
-  - Magic
-  - Ranged
-  - Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature
+ability_type: Action
+distance: Ranged 10
+target: One creature
 ---
 
 # Invigorating Growth (3 Essence)
 
-*Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
+*Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.* **Keywords:** Green, Magic, Ranged, Strike
 
-|                                                                                                              |             |
-| :----------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Green, Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature | **Type:**   |
-| **Distance:**                                                                                                | **Target:** |
+|                         |                          |
+| :---------------------- | :----------------------- |
+| **Keywords:**           | **Type:** Action         |
+| **Distance:** Ranged 10 | **Target:** One creature |
 
 **Power Roll + Reason:**
 

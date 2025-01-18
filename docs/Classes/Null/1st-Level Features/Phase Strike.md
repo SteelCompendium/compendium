@@ -7,11 +7,25 @@ cost: 5 Discipline
 type: classes
 subtype: 'null'
 kind: 1st-level features
+keywords: Melee, Psionic, Strike, Weapon
+keyword_list:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
+ability_type: Action
+distance: Melee 1
+target: One creature
 ---
 
 # Phase Strike (5 Discipline)
 
-*For a moment, your foe slips out of phase with this manifold.* **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
+*For a moment, your foe slips out of phase with this manifold.*
+
+|                                              |                          |
+| :------------------------------------------- | :----------------------- |
+| **Keywords:** Melee, Psionic, Strike, Weapon | **Type:** Action         |
+| **Distance:** Melee 1                        | **Target:** One creature |
 
 **Power Roll + Agility:**
 

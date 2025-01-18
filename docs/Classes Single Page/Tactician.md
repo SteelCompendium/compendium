@@ -4,15 +4,15 @@ title: Tactician
 name_raw: Tactician
 name: Tactician
 type: classes single page
-keywords: Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or Ranged 5 **Target:** 1 creature
+keywords: Ranged, Strike, Weapon
 keyword_list:
-  - Melee
   - Ranged
   - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 or Ranged 5 **Target:** 1 creature
-distance: 2 Burst **Target:** Self and all allies
-target: One creature or object
-trigger: A creature deals damage to the target. **Effect:** The damage is halved. Then you roll power against the creature who dealt the damage.
+  - Weapon
+ability_type: Action
+distance: Melee 1 or Ranged 5
+target: 1 creature
+trigger: A non-leader or non-solo target creature becomes winded.
 ---
 
 # Tactician
@@ -168,11 +168,14 @@ Your tactical doctrine grants you a triggered action as shown on the Doctrine Tr
 
 ### Advanced Tactics
 
-*Your leadership aids an ally.*
+*Your leadership aids an ally.* **Keywords:** Ranged
 
-| Keywords: Ranged    | Type: Triggered      |
-| ------------------- | -------------------- |
-| Distance: Ranged 10 | Target: Any creature |
+| **Type:** Triggered                       |                                   |
+| ----------------------------------------- | --------------------------------- |
+|                                           |                                   |
+| :---------------------------------------- | :-------------------------------- |
+| **Keywords:** Ranged, Strike, Weapon      | **Type:** Action                  |
+| **Distance:** Melee 1 or Ranged 5         | **Target:** 1 creature            |
 
 **Trigger:** The target deals damage to another creature.
 
@@ -182,12 +185,10 @@ Your tactical doctrine grants you a triggered action as shown on the Doctrine Tr
 
 ### Overwatch
 
-*Under your direction, an ally waits for just the right moment to strike.*
+*Under your direction, an ally waits for just the right moment to strike.* **Keywords:** Ranged
 
-| Keywords: Ranged           | Type: Triggered   |
-| -------------------------- | ----------------- |
-| Distance: Ranged 10        | Target: One enemy |
-| Trigger: The target moves. |                   |
+| **Type:** Triggered |     |
+| ------------------- | --- |
 
 **Effect:** At any point during the target's movement, one ally can make a free strike against them.
 
@@ -195,12 +196,10 @@ Your tactical doctrine grants you a triggered action as shown on the Doctrine Tr
 
 ### Parry
 
-*Your quick reflexes cost an enemy the precision they seek.*
+*Your quick reflexes cost an enemy the precision they seek.* **Keywords:** Melee, Weapon
 
-| Keywords: Melee, Weapon                         | Type: Triggered          |
-| ----------------------------------------------- | ------------------------ |
-| Distance: Melee 1                               | Target: Self or one ally |
-| Trigger: A creature deals damage to the target. |                          |
+| **Type:** Triggered |     |
+| ------------------- | --- |
 
 **Effect:** The damage is halved. If any effect of the damage has a potency effect, you decrease the potency by 1.
 
@@ -233,12 +232,7 @@ You know how to focus the attention of your allies as you push them toward victo
 
 ### Mark
 
-*You draw your allies' attention to a specific foe--with devastating effect.*
-
-|                                                                                                                       |                                    |
-| :-------------------------------------------------------------------------------------------------------------------- | :--------------------------------- |
-| **Keywords:** Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or Ranged 5 **Target:** 1 creature | **Type:**                          |
-| **Distance:** 2 Burst **Target:** Self and all allies                                                                 | **Target:** One creature or object |
+*You draw your allies' attention to a specific foe--with devastating effect.* **Keywords:** Ranged
 
 **Effect:** The target is marked by you until the end of the encounter, you die, you use this ability again, or you willingly end this effect (no action required). If another tactician marks the target, then your mark on the target ends. You can have one target marked this way, but other tactician abilities can allow you to have multiple marked creatures.
 
@@ -246,19 +240,17 @@ While the target is marked and within your line of effect, you and allies within
 
 When the marked creature is reduced to 0 Stamina, you can use a free triggered action to move the mark to a new target within 10 squares.
 
-In addition, you can spend 1 focus to take one of the following free triggered actions whenever you or an ally damages a target with an ability. You can't use more than one instance of a benefit per trigger:
+In addition, you can spend 1 focus to take one of the following free triggered actions whenever you or an ally damages a target with an ability. You can't use more than one instance of a benefit per
 
-- The ability deals additional damage equal to twice your Reason score.
-
-- The damage dealer can spend a Recovery.
+**Trigger:** - The ability deals additional damage equal to twice your Reason score. - The damage dealer can spend a Recovery.
 
 - The damage dealer can shift up to a number of squares equal to your Reason score. #### STRIKE NOW
 
 Your skill at commanding your allies in combat grants you the following ability.
 
-"STRIKE NOW!"
+#### "strike Now!"
 
-*Your foe left an opening. You point this out to an ally!*
+*Your foe left an opening. You point this out to an ally!* **Keywords:** Ranged
 
 **Effect:** The target can make a signature attack as a free triggered action.
 
@@ -282,7 +274,7 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 
 ### Battle Cry (3 Focus)
 
-*You shout a phrase that galvanizes your team.*
+*You shout a phrase that galvanizes your team.* **Keywords:** Ranged
 
 **Power Roll + Reason:**
 
@@ -292,7 +284,7 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 
 ### Concussive Strike (3 Focus)
 
-*Your precise strike leaves your foe struggling to respond.*
+*Your precise strike leaves your foe struggling to respond.* **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -300,9 +292,9 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 - *12-16:* **5 + M damage;** M \< average\*\*, dazed (save ends)\*\*
 - *17+:* **8 + M damage;** M \< strong\*\*, dazed (save ends)\*\*
 
-INSPIRING STRIKE (3 FOCUS)
+### Inspiring Strike (3 Focus)
 
-*Your attack gives an ally hope.*
+*Your attack gives an ally hope.* **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -312,17 +304,17 @@ INSPIRING STRIKE (3 FOCUS)
 
 ### Squad! Forward!(3 Focus)
 
-*On your command, you and your allies force back the enemy line.*
+*On your command, you and your allies force back the enemy line.* **Keywords:** Ranged
 
 **Effect:** Each target can move their speed.
 
-5-FOCUS ABILITY
+#### 5-focus Ability
 
 Choose one heroic ability from the following options, each of which costs 5 focus to use. (*Quick Build:* Hammer and Anvil)
 
 ### Hammer And Anvil (5 Focus)
 
-*"Let's not argue about who's the hammer and who's the anvil!"*
+*"Let's not argue about who's the hammer and who's the anvil!"* **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -332,9 +324,9 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 
 **Effect:** If the target is reduced to 0 Stamina and a strike granted by this ability hasn't been made, the striker can pick a different target.
 
-THE MIND GAME (5 FOCUS)
+### The Mind Game (5 Focus)
 
-*Your attack demoralizes your foe. Your allies begin to think you can win.*
+*Your attack demoralizes your foe. Your allies begin to think you can win.* **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Effect:** You mark the target.
 
@@ -346,15 +338,15 @@ THE MIND GAME (5 FOCUS)
 
 **Effect:** The first time any ally deals damage any target you've marked before the start of your next turn, that ally can spend a Recovery.
 
-NOW!(5 FOCUS)
+### Now!(5 Focus)
 
-*Your allies wait for your command--then unleash death!* **Keywords:** Ranged, Weapon **Type:** Maneuver
+*Your allies wait for your command--then unleash death!*
 
 **Effect:** Each target can make a free strike.
 
-THIS IS WHAT WE PLANNED FOR (5 FOCUS)
+### This Is What We Planned For (5 Focus)
 
-*All those coordination drills you made them do finally pay off.*
+*All those coordination drills you made them do finally pay off.* **Keywords:** Ranged
 
 **Effect:** Each target who hasn't acted yet this round can take their turn in any order immediately after yours.
 
@@ -402,15 +394,15 @@ Choose one of the following abilities.
 
 ### Fog Of War (5 Focus)
 
-*Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.*
+*Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.* **Keywords:** Ranged
 
 **Effect:** Each target is marked by you. You immediately force each targeted creature to make a free strike against a creature of your choice within 5 squares of the targeted creature.
 
 **Mark Benefit:** For the rest of the encounter whenever you or an ally attacks a marked target, you can spend 2 focus to make the marked target free strike a creature of your choice within 5 squares of the marked target.
 
-TRY ME INSTEAD (5 FOCUS)
+### Try Me Instead (5 Focus)
 
-*"Try picking on someone MY size."*
+*"Try picking on someone MY size."* **Keywords:** Melee, Strike, Weapon
 
 **Effect:** You shift your speed directly toward an ally adjacent to the target, then swap locations with the ally as long as you can each fit into the other's space. The ally can spend a Recovery, and you make a power roll against the target.
 
@@ -426,7 +418,7 @@ Choose one of the following abilities.
 
 ### I've Got Your Back (5 Focus)
 
-*Your enemy will think twice about attacking your friend.*
+*Your enemy will think twice about attacking your friend.* **Keywords:** Ranged, Strike, Weapon
 
 **Power Roll + Reason:**
 
@@ -436,9 +428,9 @@ Choose one of the following abilities.
 
 **Effect:** One ally adjacent to the target can spend a Recovery.
 
-THEIR TACTICS ARE SO PRIMITIVE (5 FOCUS)
+### Their Tactics Are So Primitive (5 Focus)
 
-*All that time you spent studying ancient battles paid off!* **Keywords:** Ranged **Type:** Maneuver
+*All that time you spent studying ancient battles paid off!*
 
 **Effect:** Each target is marked by you. You gain two surges.
 
@@ -448,11 +440,9 @@ THEIR TACTICS ARE SO PRIMITIVE (5 FOCUS)
 
 Choose one of the following abilities.
 
-NO DYING ON MY WATCH (5 FOCUS)
+##### No Dying On My Watch (5 Focus)
 
-*You prioritize saving an ally over your own safety.*
-
-**Trigger:** The target deals damage to an ally.
+*You prioritize saving an ally over your own safety.* **Keywords:** Ranged, Strike, Weapon
 
 **Effect:** You move up to your speed toward the target, ending your move in the nearest square adjacent to them if you can. The triggering ally can spend a Recovery, and gains 5 Temporary Stamina for each enemy you move past while moving to the target. You then make a power roll against the target.
 
@@ -462,9 +452,9 @@ NO DYING ON MY WATCH (5 FOCUS)
 - *12-16:* R \< average\*\*, frightened of the triggering ally (save ends)\*\*
 - *17+:* R \< strong\*\*, frightened of the triggering ally (save ends)\*\*
 
-SQUAD! ON ME!(5 FOCUS)
+##### Squad! On Me!(5 Focus)
 
-*Together we are invincible!*
+*Together we are invincible!* **Keywords:** Area
 
 **Effect:** Until the start of your next turn, each target gains a bonus to their Stability equal to your Might score. Additionally, each target gains two surges.
 
@@ -480,39 +470,36 @@ You are prepared for all eventualities. At the start of an encounter, you can us
 
 Choose one heroic ability from the following options, each of which costs 7 focus to use.
 
-DOUBLE ENVELOPMENT (7 FOCUS)
+#### Double Envelopment (7 Focus)
 
-*Historians will write about this day.*
+*Historians will write about this day.* **Keywords:** --
 
-| Keywords: --   | Type: Maneuver |
-| -------------- | -------------- |
-| Distance: Self | Target: Self   |
+| **Type:** Maneuver |     |
+| ------------------ | --- |
 
 **Effect:** Until the end of the encounter or you are dying, whenever you or any ally deals damage to a target marked by you, they gain two surges, which they can use immediately.
 
-FRONTAL ASSAULT (7 FOCUS)
+#### Frontal Assault (7 Focus)
 
-*The purpose of a charge is to break their morale and force a retreat.*
+*The purpose of a charge is to break their morale and force a retreat.* **Keywords:** --
 
-| Keywords: --   | Type: Maneuver |
-| -------------- | -------------- |
-| Distance: Self | Target: Self   |
+| **Type:** Maneuver |     |
+| ------------------ | --- |
 
 **Effect:** Until the end of the encounter or you are dying, whenever you or any ally deals damage a target marked by you, the damage dealer can push the target up to 2 squares, then shift up to 2 squares. Additionally, any ally using the Charge action to attack a target marked by you can use a signature or heroic ability in place of a melee free strike.
 
 ### Rout (7 Focus)
 
-*The tide begins to turn.*
+*The tide begins to turn.* **Keywords:** -- **Distance:** Self\*\*
 
 **Effect:** Until the end of the encounter or you are dying, whenever you or any ally deals damage to a target marked by you, if that target has R **\<** average, they are frightened of the damage dealer (save ends).
 
-STAY STRONG, AND FOCUS!(7 FOCUS)
+### Stay Strong, And Focus!(7 Focus)
 
-*"We can do this! Keep faith and hold fast!"*
+*"We can do this! Keep faith and hold fast!"* **Keywords:** --
 
-| Keywords: --   | Type: Maneuver |
-| -------------- | -------------- |
-| Distance: Self | Target: Self   |
+| **Type:** Maneuver |     |
+| ------------------ | --- |
 
 **Effect:** Until the end of the encounter or you are dying, whenever you or any ally deals damage to a target marked by you, the damage dealer can spend a Recovery.
 
@@ -588,7 +575,9 @@ You, or any allies adjacent to you, can spend 1d6 stamina during their turn to e
 
 Choose one heroic ability from the following options.
 
-SQUAD! GEAR CHECK!(9 FOCUS) *You distract a foe while your allies secure their defensive gear.*
+#### Squad! Gear Check!(9 Focus)
+
+*You distract a foe while your allies secure their defensive gear.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -598,33 +587,30 @@ SQUAD! GEAR CHECK!(9 FOCUS) *You distract a foe while your allies secure their d
 
 **Effect:** You and all allies in within 1 square of the target gain 10 Temporary Stamina.
 
-SQUAD! REMEMBER YOUR TRAINING!(9 FOCUS)
+#### Squad! Remember Your Training!(9 Focus)
 
-*You have drilled your squad on how to best use their gear and make them demonstrate their hard work.*
+*You have drilled your squad on how to best use their gear and make them demonstrate their hard work.* **Keywords:** Ranged
 
-| Keywords: Ranged    | Type: Action              |
-| ------------------- | ------------------------- |
-| Distance: Ranged 10 | Target: Self and 2 Allies |
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Effect:** Each target gains one surge and uses a signature ability. All targets gain any benefits you have with kits, such as Improved Field Arsenal.
 
-YOU CAN SLEEP WHEN YOU'RE DEAD (9 FOCUS)
+#### You Can Sleep When You're Dead (9 Focus)
 
-*You inspire your allies to recover and gather their strength.*
+*You inspire your allies to recover and gather their strength.* **Keywords:** Ranged
 
-| Keywords: Ranged           | Type: Action                |
-| -------------------------- | --------------------------- |
-| Distance: Self and 3 burst | Target: Self and all allies |
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Effect:** The target gains two surges and can spend a Recovery, remove any conditions or effects that are affecting them, and stand up if they are prone.
 
-YOU'VE STILL GOT SOMETHING LEFT (9 FOCUS)
+#### You've Still Got Something Left (9 Focus)
 
-*You push an ally to use a heroic ability sooner than they normally would.*
+*You push an ally to use a heroic ability sooner than they normally would.* **Keywords:** Ranged
 
-| Keywords: Ranged    | Type: Action   |
-| ------------------- | -------------- |
-| Distance: Ranged 10 | Target: 1 ally |
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Effect:** The target makes a heroic strike as a free triggered action and deals extra damage equal to your Reason score. The target's heroic resource cost is reduced by your Reason score.
 
@@ -648,22 +634,15 @@ Your specialization grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-COORDINATED EXECUTION (9 FOCUS)
+##### Coordinated Execution (9 Focus)
 
-*You direct your ally to make a killing blow.*
-
-| Keywords: Ranged Type: Free Triggered Action                |
-| ----------------------------------------------------------- |
-| Distance: Ranged 10 Target: 1 ally                          |
-| Trigger: An ally deals damage to a creature with an ability |
-
-while hidden.
+*You direct your ally to make a killing blow.* **Keywords:** Ranged **Type:** Free Triggered Action **Distance:** Ranged 10 **Target:** 1 ally **Trigger:** An ally deals damage to a creature with an ability while hidden.
 
 **Effect**: If the target of the ally's ability is a non-leader or non-solo creature, they are reduced to 0 Stamina. If the target of the ally's ability is a minion, the entire squad is killed. If the target is a leader or a solo creature, the ally's ability power roll automatically achieves tier 3.
 
 ### Panic In Their Lines (9 Focus)
 
-*You confuse your foes, causing them to turn on each other.*
+*You confuse your foes, causing them to turn on each other.* **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -679,11 +658,10 @@ Choose one of the following abilities.
 
 ### Battleplan (9 Focus)
 
-*With new understanding of your foes, you create the perfect plan to win the encounter.*
+*With new understanding of your foes, you create the perfect plan to win the encounter.* **Keywords:** Ranged
 
-| Keywords: Ranged    | Type: Maneuver      |
-| ------------------- | ------------------- |
-| Distance: Ranged 10 | Target: 3 creatures |
+| **Type:** Maneuver |     |
+| ------------------ | --- |
 
 **Effect:** Each target is marked by you. Immediately and for the rest of the encounter, the Director tells you if any marked enemies have damage immunity or weakness and what the value of either is. You and all allies within 3 squares of you gain two surges.
 
@@ -691,7 +669,7 @@ Choose one of the following abilities.
 
 ### Hustle, Squad! Hustle!(9 Focus)
 
-*You and your allies coordinate to form a new battle line.*
+*You and your allies coordinate to form a new battle line.* **Keywords:** Area
 
 **Effect:** Mark two enemies within 10 squares of you. Each target can shift their speed. You and your allies gain two surges.
 
@@ -701,9 +679,7 @@ Choose one of the following abilities.
 
 ### Instant Retaliation (9 Focus)
 
-*You parry with almost supernatural speed.*
-
-**Trigger:** A creature deals damage to the target. **Effect:** The damage is halved. Then you roll power against the creature who dealt the damage.
+*You parry with almost supernatural speed.* **Keywords:** Melee, Weapon
 
 **Power Roll + Might:**
 
@@ -713,7 +689,7 @@ Choose one of the following abilities.
 
 ### To Me, Squad!(9 Focus)
 
-*You lead your allies in a charge.* **Keywords:** Charge, Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
+*You lead your allies in a charge.*
 
 **Power Roll + Might:**
 
@@ -809,23 +785,29 @@ You gain any one perk of your choice. See Perks for more information.
 
 Choose one heroic ability from the following options.
 
-GO NOW AND SPEED WELL (11 FOCUS) *You direct an attack to strike true.* **Keywords:** Ranged **Type:** Action **Distance:** Ranged 10 **Target:** Self or 1 ally
+#### Go Now And Speed Well (11 Focus)
+
+*You direct an attack to strike true.*
 
 **Effect:** The target gains two surges and can use a signature or heroic ability as a free triggered action. They have a double edge on the power roll, ignore damage immunity, and increase the potency of effects by 1.
 
-FINISH THEM!(11 FOCUS) *You direct your ally to turn a devastating blow into a killing blow.*
+#### Finish Them!(11 Focus)
+
+*You direct your ally to turn a devastating blow into a killing blow.* **Keywords:** Ranged
+
+**Trigger:** A non-leader or non-solo target creature becomes winded.
 
 **Effect:** The target is killed. The creature who winded the target can spend a Recovery.
 
-THE FLOODGATES OPEN (11 FOCUS)
+#### The Floodgates Open (11 Focus)
 
-*You direct your squad to strike in unision and with devastating effect.*
+*You direct your squad to strike in unision and with devastating effect.* **Keywords:** Ranged
 
 **Effect:** Each target gains a surge and uses a signature ability that has an edge with increased effect potency of 1, if applicable.
 
-I'LL OPEN AND YOU'LL CLOSE (11 FOCUS)
+#### I'll Open And You'll Close (11 Focus)
 
-*You create an opening for an ally.*
+*You create an opening for an ally.* **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -855,11 +837,13 @@ Choose one of the following abilities.
 
 ### Squad! Hit And Run!(11 Focus)
 
-*I had to pry this secret from the shadow colleges.*
+*I had to pry this secret from the shadow colleges.* **Keywords:** Ranged
 
 **Effect:** Each target gains two surges and uses a signature ability with an edge as a free triggered action. After resolving their ability power rolls, each target can shift 2 and become hidden, even without cover or concealment, and even if observed.
 
-THEIR LACK OF FOCUS IS THEIR UNDOING (11 FOCUS) *You trick your enemies into attacking each other and confused by the aftermath*
+### Their Lack Of Focus Is Their Undoing (11 Focus)
+
+*You trick your enemies into attacking each other and confused by the aftermath* **Keywords:** Area, Magic, Weapon
 
 **Effect:** Each target uses a signature ability under your control and automatically achieves a tier 3 result. After resolving their attacks make a power roll against each target.
 
@@ -873,19 +857,20 @@ THEIR LACK OF FOCUS IS THEIR UNDOING (11 FOCUS) *You trick your enemies into att
 
 Choose one of the following abilities.
 
-BLOT OUT THE SUN!(11 FOCUS) *What makes a good soldier? The ability to fire four shots a*
+##### Blot Out The Sun!(11 Focus)
 
-*minute in any weather.* **Keywords:** Ranged, Strike, Weapon **Type:** Action **Distance:** 3 burst **Target:** Self and all allies
+*What makes a good soldier? The ability to fire four shots a*
+
+*minute in any weather.*
 
 **Effect:** Each target can make a ranged free strike with an edge against all marked enemies within range. Targets ignore any banes they have on their attack roll.
 
-COUNTERSTRATEGY (11 FOCUS)
+##### Counterstrategy (11 Focus)
 
-*I've identified a way to negate their strengths.*
+*I've identified a way to negate their strengths.* **Keywords:** --
 
-| Keywords: --   | Type: Action |
-| -------------- | ------------ |
-| Distance: Self | Target: Self |
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Effect:** You gain six surges. Until the end of the encounter, or you are dying, whenever the Director spends Malice, you or one ally within 10 squares of you can gain 2 of their heroic resource.
 
@@ -895,7 +880,7 @@ Choose one of the following abilities.
 
 ### No Escape (11 Focus)
 
-*Nothing will stop you from reaching your foe.*
+*Nothing will stop you from reaching your foe.* **Keywords:** Charge, Melee, Strike, Weapon
 
 ### Effect: Mark The Target.
 
@@ -907,9 +892,9 @@ Choose one of the following abilities.
 
 **Effect:** If you use this ability as part of the Charge action, you can move through enemies without them counting as difficult terrain as part of that action. You slide 1 any creature you move through.
 
-THAT ONE IS MINE!(11 FOCUS)
+#### That One Is Mine!(11 Focus)
 
-*You focus on making an enemy irrelevant.*
+*You focus on making an enemy irrelevant.* **Keywords:** Melee, Ranged, Strike, Weapon
 
 **Effect:** The target is marked by you.
 

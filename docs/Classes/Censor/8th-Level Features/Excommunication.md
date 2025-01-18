@@ -7,15 +7,20 @@ cost: 11 Wrath
 type: classes
 subtype: censor
 kind: 8th-level features
+distance: Melee 1
+target: 1 creature \|
 ---
 
 # Excommunication (11 Wrath)
 
-*You curse your foe to become a bane to their allies.*
+*You curse your foe to become a bane to their allies.* **Keywords:** Melee, Strike, Weapon
 
-| Keywords: Melee, Strike, Weapon | Type: Action       |
-| ------------------------------- | ------------------ |
-| Distance: Melee 1               | Target: 1 creature |
+| **Type:** Action                     |                                   |
+| ------------------------------------ | --------------------------------- |
+|                                      |                                   |
+| :----------------------------------- | :-------------------------------- |
+| **Keywords:**                        | **Type:**                         |
+| **Distance:** Melee 1                | **Target:** 1 creature \|         |
 
 **Power Roll + Might:**
 

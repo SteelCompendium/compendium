@@ -6,22 +6,19 @@ name: Dance Of Blows
 type: classes
 subtype: 'null'
 kind: 1st-level features
-keywords: Area, Melee, Psionic, Weapon **Type:** Action **Distance:** 1 burst **Target:** Each enemy in the area
-keyword_list:
-  - Area
-  - Melee
-  - Psionic
-  - Weapon **Type:** Action **Distance:** 1 burst **Target:** Each enemy in the area
+ability_type: Action
+distance: 1 burst
+target: Each enemy in the area
 ---
 
 # Dance Of Blows
 
-*You strike everywhere at once, tricking an enemy into moving out of position.*
+*You strike everywhere at once, tricking an enemy into moving out of position.* **Keywords:** Area, Melee, Psionic, Weapon
 
-|                                                                                                                      |             |
-| :------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Melee, Psionic, Weapon **Type:** Action **Distance:** 1 burst **Target:** Each enemy in the area | **Type:**   |
-| **Distance:**                                                                                                        | **Target:** |
+|                       |                                    |
+| :-------------------- | :--------------------------------- |
+| **Keywords:**         | **Type:** Action                   |
+| **Distance:** 1 burst | **Target:** Each enemy in the area |
 
 **Power Roll + Agility:**
 

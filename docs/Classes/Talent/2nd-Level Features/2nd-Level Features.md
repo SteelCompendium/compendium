@@ -22,11 +22,7 @@ As a 2nd-level talent, you gain the following features.
 
 [GRAVITIC BURST (5 CLARITY)](./Gravitic%20Burst.md)
 
-[LEVITY AND GRAVITY (5 CLARITY)](./Levity%20And%20Gravity.md)
-
-[Type: Action](./Type%20Action.md)
-
-[o 11 or lower: 6 + R damage; M \< weak, prone](./O%2011%20Or%20Lower%206%20R%20Damage%20M%20Weak%20Prone/O%2011%20Or%20Lower%206%20R%20Damage%20M%20Weak%20Prone.md)
+[LEVITY AND GRAVITY (5 CLARITY)](./Levity%20And%20Gravity/Levity%20And%20Gravity.md)
 
 [OVERWHELM (5 CLARITY)](./Overwhelm.md)
 

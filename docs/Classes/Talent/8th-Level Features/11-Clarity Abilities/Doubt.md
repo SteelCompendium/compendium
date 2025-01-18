@@ -7,16 +7,17 @@ cost: 11 Clarity
 type: classes
 subtype: talent
 kind: 8th-level features
+target: 1 creature or object \|
 ---
 
 # Doubt (11 Clarity)
 
-*You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive*
+*You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive* **Keywords:** Animapathy, Ranged, Strike, Psionic | | --- | **Type:** Action | **Distance:** Ranged 10
 
-| Keywords: Animapathy, Ranged, Strike, Psionic    |
-| ------------------------------------------------ |
-| Type: Action                                     |
-| Distance: Ranged 10 Target: 1 creature or object |
+|               |                                     |
+| :------------ | :---------------------------------- |
+| **Keywords:** | **Type:**                           |
+| **Distance:** | **Target:** 1 creature or object \| |
 
 **Power Roll + Presence:**
 

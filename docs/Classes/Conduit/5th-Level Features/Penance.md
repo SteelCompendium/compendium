@@ -7,21 +7,19 @@ cost: 9 Piety
 type: classes
 subtype: conduit
 kind: 5th-level features
-keywords: Area, Magic, Ranged **Type:** Action **Distance:** 4 cube within 10 **Target:** All enemies
-keyword_list:
-  - Area
-  - Magic
-  - Ranged **Type:** Action **Distance:** 4 cube within 10 **Target:** All enemies
+ability_type: Action
+distance: 4 cube within 10
+target: All enemies
 ---
 
 # Penance (9 Piety)
 
-*If you won't kneel, the gods shall make you.*
+*If you won't kneel, the gods shall make you.* **Keywords:** Area, Magic, Ranged
 
-|                                                                                                           |             |
-| :-------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic, Ranged **Type:** Action **Distance:** 4 cube within 10 **Target:** All enemies | **Type:**   |
-| **Distance:**                                                                                             | **Target:** |
+|                                |                         |
+| :----------------------------- | :---------------------- |
+| **Keywords:**                  | **Type:** Action        |
+| **Distance:** 4 cube within 10 | **Target:** All enemies |
 
 **Power Roll + Intuition:**
 

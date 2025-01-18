@@ -6,22 +6,19 @@ name: Grasp Of Beyond
 type: classes
 subtype: elementalist
 kind: 1st-level features
-keywords: Magic, Melee, Strike, Void **Type:** Action **Distance:** Melee 1 **Target:** One creature
-keyword_list:
-  - Magic
-  - Melee
-  - Strike
-  - Void **Type:** Action **Distance:** Melee 1 **Target:** One creature
+ability_type: Action
+distance: Melee 1
+target: One creature
 ---
 
 # Grasp Of Beyond
 
-*You absorb the life energy of another creature and use it to teleport.*
+*You absorb the life energy of another creature and use it to teleport.* **Keywords:** Magic, Melee, Strike, Void
 
-|                                                                                                          |             |
-| :------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Melee, Strike, Void **Type:** Action **Distance:** Melee 1 **Target:** One creature | **Type:**   |
-| **Distance:**                                                                                            | **Target:** |
+|                       |                          |
+| :-------------------- | :----------------------- |
+| **Keywords:**         | **Type:** Action         |
+| **Distance:** Melee 1 | **Target:** One creature |
 
 **Power Roll + Reason:**
 

@@ -4,14 +4,14 @@ title: Censor
 name_raw: Censor
 name: Censor
 type: classes single page
-keywords: Aura, Magic **Type:** Maneuver **Distance:** 2 Aura **Target:** Self and all allies
+keywords: Magic, Ranged
 keyword_list:
-  - Aura
-  - Magic **Type:** Maneuver **Distance:** 2 Aura **Target:** Self and all allies
-ability_type: Action
-distance: 3 burst **Target:** All enemies
-target: One creature
-trigger: A creature makes a strike against the target.
+  - Magic
+  - Ranged
+ability_type: Maneuver
+distance: 2 Aura
+target: Self and all allies
+trigger: You or another hero ends their turn.
 ---
 
 # Censor
@@ -122,12 +122,12 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 
 ### Judgment
 
-*You utter a pray that outlines your foe in holy energy.*
+*You utter a pray that outlines your foe in holy energy.* **Keywords:** Magic, Ranged
 
-|                                                                                                   |                          |
-| :------------------------------------------------------------------------------------------------ | :----------------------- |
-| **Keywords:** Aura, Magic **Type:** Maneuver **Distance:** 2 Aura **Target:** Self and all allies | **Type:** Action         |
-| **Distance:** 3 burst **Target:** All enemies                                                     | **Target:** One creature |
+|                             |                                 |
+| :-------------------------- | :------------------------------ |
+| **Keywords:** Magic, Ranged | **Type:** Maneuver              |
+| **Distance:** 2 Aura        | **Target:** Self and all allies |
 
 **Effect:** The target is judged by you until the end of the encounter, you die, you use this ability again, or you willingly end this effect (no action required). If another censor judges the target, then your judgment on the target ends.
 
@@ -135,11 +135,9 @@ If a judged creature uses an action and you have line of effect to them, you can
 
 When the judged creature is reduced to 0 Stamina, you can use a free triggered action to use this ability against a new target within distance.
 
-In addition, you can spend 1 judgment to take one of the following free triggered actions. You can't use more than one instance of a benefit per trigger:
+In addition, you can spend 1 judgment to take one of the following free triggered actions. You can't use more than one instance of a benefit per
 
-- When an adjacent judged target shifts, you can make a melee free strike against them. The target doesn't shift and their speed becomes 0 until the end of this turn.
-- When a judged target makes a power roll, you can add a bane to the roll.
-- When a judged target within distance uses an ability with a potency against another creature, you reduce the potency of the ability by 1 for that creature (to a minimum of 0).
+**Trigger:** - When an adjacent judged target shifts, you can make a melee free strike against them. The target doesn't shift and their speed becomes 0 until the end of this turn. - When a judged target makes a power roll, you can add a bane to the roll. - When a judged target within distance uses an ability with a potency against another creature, you reduce the potency of the ability by 1 for that creature (to a minimum of 0).
 
 #### Judgment Order Benefit
 
@@ -159,7 +157,9 @@ You channel your will to mend your wounds or the wounds of your allies. You gain
 
 ### My Life For Yours
 
-*The first principle of the oath: defend the righteous.* **Keywords:** Magic, Ranged **Type:** Triggered
+*The first principle of the oath: defend the righteous.*
+
+**Trigger:** The target starts their turn or takes damage.
 
 **Effect:** You spend a Recovery and the target regains Stamina equal to your Recovery value.
 
@@ -215,7 +215,7 @@ You gain the following ability.
 
 #### Faithful Friend
 
-*An animal spirit is drawn to you, sharing their senses and serving you faithfully.*
+*An animal spirit is drawn to you, sharing their senses and serving you faithfully.* **Keywords:** Magic
 
 **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal can't physically interact with the world, but they have a speed of 5 and can fly. While you are within 10 squares of the spirit, you can sense everything an animal of their type would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, it is dismissed and you take 1d10 psychic damage, which can't be reduced in any way.
 
@@ -225,7 +225,7 @@ You gain the following ability.
 
 #### Grave Speech
 
-*You commune with the lingering soul of the recently dead.* **Keywords:** Magic **Type:** Maneuver
+*You commune with the lingering soul of the recently dead.*
 
 the head) of a creature who has died within the last 24 hours and who can speak a language you know. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of dying can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
 
@@ -233,9 +233,9 @@ the head) of a creature who has died within the last 24 hours and who can speak 
 
 You gain the following ability.
 
-HANDS OF THE MAKER
+##### Hands Of The Maker
 
-*You can craft objects with the power of your mind!*
+*You can craft objects with the power of your mind!* **Keywords:** Magic
 
 **Effect:** You create a mundane object no larger than size 1S. You can maintain a number of objects created this way equal to your Presence score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
 
@@ -273,7 +273,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ### Back, Blasphemer!
 
-*You channel power through your weapon to repel foes.* **Keywords:** Area, Magic, Weapon **Type:** Action **Distance:** 2 cube within 1
+*You channel power through your weapon to repel foes.*
 
 **Power Roll + Presence:**
 
@@ -283,7 +283,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ### Every Step ... Death!
 
-*You show your foe a glimpse of their fate after death.*
+*You show your foe a glimpse of their fate after death.* **Keywords:** Magic, Ranged, Strike
 
 **Power Roll + Presence:**
 
@@ -295,7 +295,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ### Halt, Miscreant!
 
-*"Your race is run!"*
+*"Your race is run!"* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -305,7 +305,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ### Your Allies Cannot Save You!
 
-*"See how they abandon you!"*
+*"See how they abandon you!"* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -325,7 +325,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 ### Behold, A Shield Of Faith! (3 Wrath)
 
-*"Allow me to intercede."*
+*"Allow me to intercede."* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -337,7 +337,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 ### Driving Assault (3 Wrath)
 
-*As you force your enemy back with your weapon, you use your faith to stay close.*
+*As you force your enemy back with your weapon, you use your faith to stay close.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -349,7 +349,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 ### The Gods Punish And Defend (3 Wrath)
 
-*You channel holy energy to smite a foe and heal an ally.*
+*You channel holy energy to smite a foe and heal an ally.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -361,11 +361,10 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 ### Repent! (3 Wrath)
 
-*You conjure memories of their sins.*
+*You conjure memories of their sins.* **Keywords:** Magic, Ranged, Strike
 
-| Keywords: Magic, Ranged, Strike | Type: Action         |
-| ------------------------------- | -------------------- |
-| Distance: Ranged 10             | Target: One creature |
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Power Roll + Presence:**
 
@@ -379,7 +378,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 ### Arrest (5 Wrath)
 
-*"I got you, you son of a bitch."*
+*"I got you, you son of a bitch."* **Keywords:** Magic, Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -391,7 +390,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 ### Behold The Face Of Evil! (5 Wrath)
 
-*You show your enemies a vision of the true nature of one of their companions.*
+*You show your enemies a vision of the true nature of one of their companions.* **Keywords:** Magic, Melee, Ranged, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -403,7 +402,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 ### Censored (5 Wrath)
 
-*Judged and sentenced.*
+*Judged and sentenced.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -415,7 +414,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 ### Purifying Fire (5 Wrath)
 
-*The gods judge, fire cleanses.*
+*The gods judge, fire cleanses.* **Keywords:** Magic, Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or ranged 5 **Target:** One creature
 
 **Power Roll + Might:**
 
@@ -479,11 +478,7 @@ Choose one of the following abilities.
 
 ### It Is Justice You Fear (5 Wrath)
 
-| I am but a vessel. Your own deeds weigh upon you. |
-| ------------------------------------------------- |
-| Keywords: Magic, Ranged, Strike Type: Action      |
-
-### Distance:\*\* Ranged 10 \*\*target: One Creature
+I am but a vessel. Your own deeds weigh upon you. **Keywords:** Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature
 
 **Power Roll + Might:**
 
@@ -495,7 +490,7 @@ Choose one of the following abilities.
 
 ### Revelator (5 Wrath)
 
-*You channel holy energy to harm unbelievers and reveal those hidden from your judgment.*
+*You channel holy energy to harm unbelievers and reveal those hidden from your judgment.* **Keywords:** Area, Magic
 
 **Effect:** Each target takes twice your Presence in holy damage. Any hidden enemies are automatically revealed and can't become hidden again until the start of your next turn. You can use Judgment on one of the targets as a free triggered action.
 
@@ -505,13 +500,11 @@ Choose one of the following abilities.
 
 ### Prescient Grace (5 Wrath)
 
-*"Hah! I see your plan. It will not work!"*
-
-**Trigger:** An enemy within 10 squares starts their turn. **Effect:** You can spend a Recovery to allow the target to regain Stamina equal to your Recovery value. The target can then take their turn immediately before the triggering enemy.
+*"Hah! I see your plan. It will not work!"* **Keywords:** Magic, Ranged
 
 ### With My Blessing (5 Wrath)
 
-*A word in prayer, and the gods show the way.*
+*A word in prayer, and the gods show the way.* **Keywords:** Magic, Ranged
 
 **Effect:** When you use this ability, the target can use a free triggered action to make a signature strike or a heroic ability that is a strike, and has a double edge on the power roll.
 
@@ -521,13 +514,13 @@ Choose one of the following abilities.
 
 ### Blessing Of The Faithful (5 Wrath)
 
-*The gods reward your faith.*
+*The gods reward your faith.* **Keywords:** Area, Magic
 
 **Effect:** Until the end of the encounter or you are dying, each target in the aura gains a surge at the end of each of your turns.
 
 ### Sentenced (5 Wrath)
 
-*I am the law!*
+*I am the law!* **Keywords:** Magic, Melee, Strike, Weapon
 
 **Power Roll + Presence:**
 
@@ -551,23 +544,23 @@ Choose one heroic ability from the following options, each of which costs 7 wrat
 
 ### Edict Of Disruptive Isolation (7 Wrath)
 
-*Gather not together in secret to conspire.*
+*Gather not together in secret to conspire.* **Keywords:** Area, Magic
 
 **Effect:** Until the end of the encounter or you are dying, at the end of each of your turns, each target takes holy damage equal to your Presence score. Any target adjacent to one or more enemies takes an extra 2d6 holy damage if they are judged by you or adjacent to one of your enemies.
 
 ### Edict Of Perfect Order (7 Wrath)
 
-*Use not the fell arts!*
+*Use not the fell arts!* **Keywords:** Area, Magic
 
 ### Edict Of Purifying Pacifism (7 Wrath)
 
-*Shed not the blood of innocents!*
+*Shed not the blood of innocents!* **Keywords:** Area, Magic
 
 **Effect:** Until the end of the encounter or you are dying, whenever a target makes a strike, they take holy damage equal to twice your Presence score. A target judged by you takes an extra 2d6 holy damage.
 
 ### Edict Of Stillness (7 Wrath)
 
-*Flee not from just punishment.*
+*Flee not from just punishment.* **Keywords:** Area, Magic
 
 **Effect:** Until the end of the encounter or you are dying, whenever a target is force moved or moves willingly out of the aura, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.
 
@@ -612,7 +605,7 @@ You gain the following ability.
 
 #### Blessing Of Secrets
 
-*You project an illusory aura that makes you and allies harder to notice.*
+*You project an illusory aura that makes you and allies harder to notice.* **Keywords:** Magic
 
 **Effect:** Each creature in the aura has a double edge on tests made to hide and sneak. The aura lasts until you end it (no action required), or a creature affected by it harms or deals damage to an object or another creature.
 
@@ -704,13 +697,13 @@ Choose one heroic ability from the following options.
 
 ### Gods Grant Thee Strength (9 Wrath)
 
-*You channel divine force for movement that cannot be stopped.*
+*You channel divine force for movement that cannot be stopped.* **Keywords:** Ranged
 
 **Effect:** The target ends any condition or effect affecting them with a duration of EoT or save ends. If the target is prone, they can stand up. Then the target gains two surges and can shift their speed, ignoring difficult terrain during the shift, and can make a signature strike as a free triggered action.
 
 ### Orison Of Victory (9 Wrath)
 
-*You channel your god's will to overcome hardship and inflict pain.*
+*You channel your god's will to overcome hardship and inflict pain.* **Distance:** 1 burst
 
 **Power Roll + Presence:**
 
@@ -722,19 +715,17 @@ Choose one heroic ability from the following options.
 
 ### Righteous Judgment (9 Wrath)
 
-*You amplify the power of your judgment.* **Keywords:** Melee, Strike, Weapon **Type:** Action
+*You amplify the power of your judgment.*
 
 - *11 or lower:* **10 + M damage**
-
 - *12-16:* **14 + M damage**
-
 - *17+:* **20 + M damage**
 
 **Effect:** For the rest of the encounter, whenever an ally deals damage to a target judged by you, they gain one surge.
 
 ### Shield Of The Righteous (9 Wrath)
 
-*You strike a foe and create a fleet of divine shields that protect your allies.*
+*You strike a foe and create a fleet of divine shields that protect your allies.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -773,7 +764,7 @@ Choose one of the following abilities.
 
 ### Begone!(9 Wrath)
 
-*You terrify your enemies into retreating, creating chaos in their ranks.*
+*You terrify your enemies into retreating, creating chaos in their ranks.* **Keywords:** Area, Magic
 
 **Power Roll + Presence:**
 
@@ -783,7 +774,9 @@ Choose one of the following abilities.
 
 ### Pain Of Your Own Making (9 Wrath)
 
-*You reverse the effects from an evildoer.*
+*You reverse the effects from an evildoer.* **Keywords:** Magic, Ranged
+
+**Trigger:** The target gains a condition or effect that has a duration of EoT or save ends.
 
 **Effect**: The effect ends and is instead applied to the creature who applied it. That creature also takes damage equal to three times your Presence score.
 
@@ -793,13 +786,13 @@ Choose one of the following abilities.
 
 ### Edict Of Peace (9 Wrath)
 
-*You anticipate your foes minor moves and deny them.*
+*You anticipate your foes minor moves and deny them.* **Keywords:** Aura, Magic
 
 **Effect:** Until the end of the encounter or you are dying, whenever a target takes a triggered action or free triggered action, that action is canceled, and the target instead takes holy damage equal to your Presence score.
 
 ### The Burden Of Evil (9 Wrath)
 
-*Using the power of prophecy you disrupt your enemy's plans.*
+*Using the power of prophecy you disrupt your enemy's plans.* **Keywords:** Magic, Ranged
 
 **Power Roll + Presence:**
 
@@ -813,7 +806,7 @@ Choose one of the following abilities.
 
 ### Crusaders (9 Wrath)
 
-*You focus your allies on your judged foe.* **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
+*You focus your allies on your judged foe.*
 
 **Power Roll + Might:**
 
@@ -825,9 +818,7 @@ Choose one of the following abilities.
 
 ### Intercede (9 Wrath)
 
-*You take your ally's place. "Earn this!"*
-
-**Trigger:** A creature makes a strike against the target.
+*You take your ally's place. "Earn this!"* **Keywords:** Ranged
 
 **Effect:** The target is unaffected by the strike, and you become the target instead. You halve the damage from the strike, and the target gains three surges.
 
@@ -857,7 +848,7 @@ You can maintain up to three bonds with your Invocation of the Heart feature. Ad
 
 ### Guided To Your Side
 
-*You concentrate on a friend and teleport to them.*
+*You concentrate on a friend and teleport to them.* **Keywords:** Magic, Ranged
 
 **Effect:** Each target is teleported to an unoccupied space within 5 squares of a willing creature with whom you are bonded via your Invocation of the Heart feature. You don't need line of effect to the bonded creature.
 
@@ -897,7 +888,7 @@ You gain the following ability.
 
 ### Trinity Of Trickery (9 Wrath)
 
-*Hey! I'm over here. No, here, numbskull.*
+*Hey! I'm over here. No, here, numbskull.* **Keywords:** Magic, Ranged
 
 **Effect:** You create two illusory duplicates of the target, which appear anywhere within distance. These duplicates last until the end of the encounter. On each of their turns, the target can move the duplicates up to their speed. When one of the duplicates takes damage, the duplicate is destroyed. If the target is target with an ability, they can use a free triggered action to switch places with a duplicate in line of effect. The duplicate becomes the target instead.
 
@@ -961,11 +952,10 @@ Choose one heroic ability from the following options.
 
 ### Excommunication (11 Wrath)
 
-*You curse your foe to become a bane to their allies.*
+*You curse your foe to become a bane to their allies.* **Keywords:** Melee, Strike, Weapon
 
-| Keywords: Melee, Strike, Weapon | Type: Action       |
-| ------------------------------- | ------------------ |
-| Distance: Melee 1               | Target: 1 creature |
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Power Roll + Might:**
 
@@ -977,7 +967,7 @@ Choose one heroic ability from the following options.
 
 ### Hand Of The Gods (11 Wrath)
 
-*You use your foe as a tool against your enemies.*
+*You use your foe as a tool against your enemies.* **Keywords:** Ranged, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -991,8 +981,6 @@ Choose one heroic ability from the following options.
 
 | Your enemy's guilt fuels a holy flame that burns your foes. |
 | ----------------------------------------------------------- |
-| Keywords: Melee, Strike, Weapon Type: Action                |
-| Distance: Melee 1 Target: 1 creature                        |
 
 **Power Roll + Might:**
 
@@ -1036,7 +1024,7 @@ Choose one of the following abilities.
 
 ### Banish (11 Wrath)
 
-*You sever the target's tenuous connection to the world.*
+*You sever the target's tenuous connection to the world.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -1048,7 +1036,7 @@ Choose one of the following abilities.
 
 ### Terror Manifest (11 Wrath)
 
-*I know what you fear.*
+*I know what you fear.* **Keywords:** Magic, Ranged, Strike
 
 **Power Roll + Presence:**
 
@@ -1064,13 +1052,17 @@ Choose one of the following abilities.
 
 ### Blessing And A Curse (11 Wrath)
 
-*The gods bless and damn in equal measures.*
+*The gods bless and damn in equal measures.* **Keywords:** Magic, Ranged
+
+**Trigger:** The target makes a power roll.
 
 **Effect:** The target automatically gets a tier 1 or tier 3 result on their power roll, chosen by you. Select another target within range to get a tier 1 or tier 3 result on their next power roll. You must choose different tiers for each target.
 
 ### Fulfill Your Destiny (11 Wrath)
 
-*Your have looked at various futures and only this one works.* **Keywords:** Magic, Ranged **Type:** Triggered Action **Distance:** Ranged 10 **Target:** 1 ally **Trigger:** You or another hero ends their turn.
+*Your have looked at various futures and only this one works.*
+
+**Trigger:** You or another hero ends their turn.
 
 **Effect:** The target takes their turn after the triggering hero. The target removes all negative effects. During their turn, the target has a double edge on all power rolls.
 
@@ -1080,7 +1072,7 @@ Choose one of the following abilities.
 
 ### Apostate (11 Wrath)
 
-*You channel holy energy to seal an enemy's fate.*
+*You channel holy energy to seal an enemy's fate.* **Keywords:** Melee, Strike, Weapon
 
 **Power Roll + Might:**
 
@@ -1092,7 +1084,7 @@ Choose one of the following abilities.
 
 ### Edict Of Unyielding Resolve (11 Wrath)
 
-*You and your allies are clad in shimmering armor.*
+*You and your allies are clad in shimmering armor.* **Keywords:** Aura, Magic
 
 **Effect:** Until the end of the encounter or you become dying, each target in the aura gains 10 Temporary Stamina at the beginning of their turns.
 

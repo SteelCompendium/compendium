@@ -4,11 +4,9 @@ title: Shining Armor
 name_raw: Shining Armor
 name: Shining Armor
 type: kits
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
+ability_type: Action
+distance: Melee 1
+target: 1 creature
 ---
 
 # Shining Armor
@@ -29,12 +27,12 @@ You wear heavy armor and wield a shield and a medium weapon.
 
 ## Protective Attack
 
-*The strength of your assault makes it impossible for your foe to ignore you.*
+*The strength of your assault makes it impossible for your foe to ignore you.* **Keywords:** Melee, Strike, Weapon
 
-|                                                                                                   |             |
-| :------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature | **Type:**   |
-| **Distance:**                                                                                     | **Target:** |
+|                       |                        |
+| :-------------------- | :--------------------- |
+| **Keywords:**         | **Type:** Action       |
+| **Distance:** Melee 1 | **Target:** 1 creature |
 
 - **Power Roll + Might or Agility:**
 - *11 or lower:* 5 **+ M or A damage**

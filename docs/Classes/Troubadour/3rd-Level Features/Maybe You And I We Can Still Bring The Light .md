@@ -6,18 +6,21 @@ name: '*maybe You And I* ?*we Can Still Bring The Light!* ?'
 type: classes
 subtype: troubadour
 kind: 3rd-level features
-keywords: Area, Magic, Routine **Type:** No action **Distance:** 5 aura **Target:** Self and each ally in the area
+keywords: Area, Magic, Routine
 keyword_list:
   - Area
   - Magic
-  - Routine **Type:** No action **Distance:** 5 aura **Target:** Self and each ally in the area
+  - Routine
+ability_type: No action
+distance: 5 aura
+target: Self and each ally in the area
 ---
 
 # *maybe You And I* ?*we Can Still Bring The Light!* ?
 
-|                                                                                                                        |             |
-| :--------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic, Routine **Type:** No action **Distance:** 5 aura **Target:** Self and each ally in the area | **Type:**   |
-| **Distance:**                                                                                                          | **Target:** |
+|                                    |                                            |
+| :--------------------------------- | :----------------------------------------- |
+| **Keywords:** Area, Magic, Routine | **Type:** No action                        |
+| **Distance:** 5 aura               | **Target:** Self and each ally in the area |
 
 **Effect:** While this routine is active, each target who starts their turn in the aura doesn't take a bane on attacks against a creature with concealment. They can also search for hidden creatures as a free maneuver once during their turn (see Hide and Sneak).

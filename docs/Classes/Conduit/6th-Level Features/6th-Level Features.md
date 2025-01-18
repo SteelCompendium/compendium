@@ -20,6 +20,16 @@ As a 6th-level conduit, you gain the following features.
 
 [GOD'S MACHINE (9 PIETY)](./Gods%20Machine.md)
 
+[INVOCATION OF MYSTERY (9 PIETY)](./Invocation%20Of%20Mystery.md)
+
+[INVOCATION OF UNDOING (9 PIETY)](./Invocation%20Of%20Undoing.md)
+
+[LAUDED BY GOD (9 PIETY)](./Lauded%20By%20God.md)
+
+[LIGHTNING LORD (9 PIETY)](./Lightning%20Lord.md)
+
+[REVITALIZING GRACE (9 PIETY)](./Revitalizing%20Grace.md)
+
 [SPIRIT STAMPEDE (9 PIETY)](./Spirit%20Stampede.md)
 
 [YOUR STORY ENDS HERE (9 PIETY)](./Your%20Story%20Ends%20Here.md)

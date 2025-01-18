@@ -6,19 +6,22 @@ name: Turnabout Is Fair Play
 type: classes
 subtype: troubadour
 kind: 1st-level features
-keywords: -- **Type:** Triggered **Distance:** Ranged 10 **Target:** One creature **Trigger:** The target makes an ability power roll with at least one edge or bane.
-keyword_list:
-  - -- **Type:** Triggered **Distance:** Ranged 10 **Target:** One creature **Trigger:** The target makes an ability power roll with at least one edge or bane.
+ability_type: Triggered
+distance: Ranged 10
+target: One creature
+trigger: The target makes an ability power roll with at least one edge or bane.
 ---
 
 # Turnabout Is Fair Play
 
-*All's fair in love and whatever.*
+*All's fair in love and whatever.* **Keywords:** --
 
-|                                                                                                                                                                           |             |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** -- **Type:** Triggered **Distance:** Ranged 10 **Target:** One creature **Trigger:** The target makes an ability power roll with at least one edge or bane. | **Type:**   |
-| **Distance:**                                                                                                                                                             | **Target:** |
+|                         |                          |
+| :---------------------- | :----------------------- |
+| **Keywords:**           | **Type:** Triggered      |
+| **Distance:** Ranged 10 | **Target:** One creature |
+
+**Trigger:** The target makes an ability power roll with at least one edge or bane.
 
 **Effect:** One of the edges becomes a bane or vice versa.
 

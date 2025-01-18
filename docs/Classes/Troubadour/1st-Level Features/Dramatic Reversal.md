@@ -7,20 +7,19 @@ cost: 5 Drama
 type: classes
 subtype: troubadour
 kind: 1st-level features
-keywords: Area, Magic **Type:** Action **Distance:** 3 burst **Target:** Self and each ally in the area
-keyword_list:
-  - Area
-  - Magic **Type:** Action **Distance:** 3 burst **Target:** Self and each ally in the area
+ability_type: Action
+distance: 3 burst
+target: Self and each ally in the area
 ---
 
 # Dramatic Reversal (5 Drama)
 
-*Give the audience a surprise.*
+*Give the audience a surprise.* **Keywords:** Area, Magic
 
-|                                                                                                             |             |
-| :---------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic **Type:** Action **Distance:** 3 burst **Target:** Self and each ally in the area | **Type:**   |
-| **Distance:**                                                                                               | **Target:** |
+|                       |                                            |
+| :-------------------- | :----------------------------------------- |
+| **Keywords:**         | **Type:** Action                           |
+| **Distance:** 3 burst | **Target:** Self and each ally in the area |
 
 **Power Roll + Presence:**
 

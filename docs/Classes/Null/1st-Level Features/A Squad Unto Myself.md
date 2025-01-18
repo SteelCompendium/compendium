@@ -7,22 +7,19 @@ cost: 5 Discipline
 type: classes
 subtype: 'null'
 kind: 1st-level features
-keywords: Area, Melee, Psionic, Weapon **Type:** Action **Distance:** 2 burst **Target:** Each enemy in the area
-keyword_list:
-  - Area
-  - Melee
-  - Psionic
-  - Weapon **Type:** Action **Distance:** 2 burst **Target:** Each enemy in the area
+ability_type: Action
+distance: 2 burst
+target: Each enemy in the area
 ---
 
 # A Squad Unto Myself (5 Discipline)
 
-*You move so quickly, it seems as though an army assaulted your foes.*
+*You move so quickly, it seems as though an army assaulted your foes.* **Keywords:** Area, Melee, Psionic, Weapon
 
-|                                                                                                                      |             |
-| :------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Melee, Psionic, Weapon **Type:** Action **Distance:** 2 burst **Target:** Each enemy in the area | **Type:**   |
-| **Distance:**                                                                                                        | **Target:** |
+|                       |                                    |
+| :-------------------- | :--------------------------------- |
+| **Keywords:**         | **Type:** Action                   |
+| **Distance:** 2 burst | **Target:** Each enemy in the area |
 
 **Power Roll + Agility:**
 

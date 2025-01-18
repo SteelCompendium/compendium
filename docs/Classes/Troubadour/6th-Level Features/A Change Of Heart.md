@@ -7,15 +7,20 @@ cost: 9 Drama
 type: classes
 subtype: troubadour
 kind: 6th-level features
+distance: 5 burst
+target: All enemies \|
 ---
 
 # A Change Of Heart (9 Drama)
 
-*The surprise reveal that changes everything they thought they knew.*
+*The surprise reveal that changes everything they thought they knew.* **Keywords:** Area, Magic
 
-| Keywords: Area, Magic | Type: Action        |
-| --------------------- | ------------------- |
-| Distance: 5 burst     | Target: All enemies |
+| **Type:** Action                     |                                   |
+| ------------------------------------ | --------------------------------- |
+|                                      |                                   |
+| :----------------------------------- | :-------------------------------- |
+| **Keywords:**                        | **Type:**                         |
+| **Distance:** 5 burst                | **Target:** All enemies \|        |
 
 **Power Roll + Presence:**
 

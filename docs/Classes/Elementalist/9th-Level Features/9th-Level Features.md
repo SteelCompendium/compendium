@@ -18,6 +18,8 @@ As a 9th-level elementalist, you gain the following features.
 
 [THE EARTH REJECTS YOU (11 ESSENCE)](./The%20Earth%20Rejects%20You.md)
 
+[THE GREEN DEFENDS ITS SERVANTS (11 ESSENCE)](./The%20Green%20Defends%20Its%20Servants.md)
+
 [PRISM (11 ESSENCE)](./Prism.md)
 
 [UNQUENCHABLE FIRE (11 ESSENCE)](./Unquenchable%20Fire.md)

@@ -4,15 +4,15 @@ title: Talent
 name_raw: Talent
 name: Talent
 type: classes single page
-keywords: Area, Psionic, Telekinesis**Type:** Action **Distance:** Special **Target:** All enemies and objects
+keywords: Area, Psionic, Telepathy **Type:** Action **Distance:** 3 burst
 keyword_list:
   - Area
   - Psionic
-  - Telekinesis**Type:** Action **Distance:** Special **Target:** All enemies and objects
-ability_type: Action
-distance: 3 burst **Target:** Special
-target: Each enemy in the area
-trigger: The target takes damage.
+  - Telepathy **Type:** Action **Distance:** 3 burst
+ability_type: Action **Distance:** Ranged 10
+distance: Power Roll + Reason:\*\*
+target: Special
+trigger: The target takes damage or is force moved.
 ---
 
 # Talent
@@ -135,12 +135,12 @@ You gain the following ability, which can be used as a ranged free strike.
 
 ### Mind Spike
 
-*A telepathic bolt instantly zaps a creature's brain.*
+*A telepathic bolt instantly zaps a creature's brain.* **Keywords:** Psionic, Ranged, Strike, Telepathy **Distance:** Ranged 10
 
-|                                                                                                                    |                                    |
-| :----------------------------------------------------------------------------------------------------------------- | :--------------------------------- |
-| **Keywords:** Area, Psionic, Telekinesis**Type:** Action **Distance:** Special **Target:** All enemies and objects | **Type:** Action                   |
-| **Distance:** 3 burst **Target:** Special                                                                          | **Target:** Each enemy in the area |
+|                                                                               |                                          |
+| :---------------------------------------------------------------------------- | :--------------------------------------- |
+| **Keywords:** Area, Psionic, Telepathy **Type:** Action **Distance:** 3 burst | **Type:** Action **Distance:** Ranged 10 |
+| **Distance:** Power Roll + Reason:\*\*                                        | **Target:** Special                      |
 
 **Power Roll + Reason:**
 
@@ -172,9 +172,9 @@ Your talent tradition grants you features as shown on the 1st-Level Tradition Fe
 
 You gain the following ability.
 
-ACCELERATE
+##### Accelerate
 
-*To your ally, it seems as though the world has slowed down.* **Keywords:** Psionic **Type:** Maneuver
+*To your ally, it seems as though the world has slowed down.*
 
 squares equal to your Reason score.
 
@@ -186,7 +186,9 @@ You gain the following ability.
 
 #### Again
 
-*You step back a split second to see if things play out a little differently.*
+*You step back a split second to see if things play out a little differently.* **Keywords:** Psionic, Ranged
+
+**Trigger:** The target makes an ability power roll.
 
 **Effect:** You can use this ability after seeing the power roll for the triggering roll. You force the target to reroll the power roll and use the new result.
 
@@ -196,7 +198,9 @@ You gain the following ability.
 
 #### Feedback Loop
 
-*Creating a brief psychic link between a foe and their target gives that foe a taste of their own medicine.*
+*Creating a brief psychic link between a foe and their target gives that foe a taste of their own medicine.* **Keywords:** Psionic, Ranged
+
+**Trigger:** The target deals damage to an ally.
 
 **Effect:** The target takes psychic damage equal to half the triggering damage.
 
@@ -206,7 +210,7 @@ You gain the following ability.
 
 #### Minor Telekinesis
 
-*Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*
+*Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.* **Keywords:** Psionic, Ranged
 
 **Effect:** You slide the target up to a number of squares equal to your Reason score.
 
@@ -220,7 +224,7 @@ You gain the following ability.
 
 #### Remote Assistance
 
-*An ally gains the benefit of your intellect.* **Keywords:** Psionic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** One creature or object
+*An ally gains the benefit of your intellect.*
 
 **Effect:** The next ability power roll an ally makes against the target before the start of your next turn gains an edge.
 
@@ -232,7 +236,9 @@ You gain the following ability.
 
 #### Repel
 
-*They aren't going anywhere, but you might!*
+*They aren't going anywhere, but you might!* **Keywords:** Psionic, Ranged
+
+**Trigger:** The target takes damage or is force moved.
 
 **Effect:** The triggering damage is halved or distance of the triggering forced movement is reduced by a number of squares equal to your Reason score. If the target was damaged and force moved, you choose the effect. If the triggering forced movement is reduced to 0 squares, the target pushes the source of the forced movement a number of squares equal to your Reason score.
 
@@ -290,9 +296,9 @@ You manifest a variety of psionic powers to impact the environment, bolster your
 
 Select two signature abilities from the following options. Signature abilities can be used at will. (*Quick Build:* Incinerate, Kinetic Grip)
 
-ENTROPIC BOLT
+##### Entropic Bolt
 
-*You advance an enemy's age for a moment.*
+*You advance an enemy's age for a moment.* **Keywords:** Chronopathy, Psionic, Ranged, Strike **Type:** Action **Distance:** Ranged 10
 
 **Power Roll + Presence:**
 
@@ -304,9 +310,9 @@ ENTROPIC BOLT
 
 **Strained:** You gain 1 clarity on a tier 2 or tier 3 result.
 
-INCINERATE
+##### Incinerate
 
-*The air erupts into a column of smokeless flame.*
+*The air erupts into a column of smokeless flame.* **Keywords:** Area, Fire, Ranged, Psionic, Pyrokinesis **Type:** Action **Distance:** 3 cube within 10 **Target:** Each enemy in the area
 
 **Power Roll + Reason:**
 
@@ -318,11 +324,9 @@ INCINERATE
 
 **Strained:** The size of the cube increases by 2, but the fire disappears at the end of your turn.
 
-HOARFROST
+##### Hoarfrost
 
-*A row of the terrain freezes over ahead of you, turning hard and slick.*
-
-### Distance:\*\* Ranged 10 \*\*target: One Creature
+*A row of the terrain freezes over ahead of you, turning hard and slick.* **Keywords:** Cryokinesis, Psionic, Ranged, Strike **Type:** Action **Distance:** Ranged 10
 
 **Power Roll + Reason:**
 
@@ -334,21 +338,17 @@ HOARFROST
 
 ### Kinetic Grip
 
-*You lift and hurl your foe away from you.*
+*You lift and hurl your foe away from you.* **Keywords:** Melee, Psionic, Telekinesis
 
-- **Power Roll + Reason:**
-- *11 or lower:* **Push 3**
-- *12-16:* **Push 5**
-
-### O *17+:* **push 7; Prone**
+**Power Roll + Reason:** - *11 or lower:* **Push 3** - *12-16:* **Push 5** - *17+:* **Push 7; prone**
 
 **Effect:** You can slide the target up to 2 squares before making the power roll.
 
 **Strained:** You can't use this ability's effect, but you can vertical push the target.
 
-KINETIC PULSE
+#### Kinetic Pulse
 
-*The force of your mind hurls enemies backward.*
+*The force of your mind hurls enemies backward.* **Keywords:** Area, Psionic, Telepathy
 
 **Power Roll + Reason:**
 
@@ -360,7 +360,7 @@ KINETIC PULSE
 
 ### Materialize
 
-*You picture an object in your mind and give it form in the world, directly above your opponent's head.*
+*You picture an object in your mind and give it form in the world, directly above your opponent's head.* **Keywords:** Psionic, Ranged, Resopathy, Strike **Type:** Action
 
 **Power Roll + Reason:**
 
@@ -374,7 +374,7 @@ KINETIC PULSE
 
 ### Optic Blast
 
-*Your eyes emit rays of powerful enervating force.*
+*Your eyes emit rays of powerful enervating force.* **Keywords:** Metamorphosis, Psionic, Ranged, Strike
 
 **Power Roll + Reason:**
 
@@ -388,7 +388,7 @@ KINETIC PULSE
 
 ### Spirit Sword
 
-*You form a blade of mind energy and stab your target, invigorating yourself.*
+*You form a blade of mind energy and stab your target, invigorating yourself.* **Keywords:** Animapathy, Melee, Psionic, Strike **Type:** Action
 
 **Power Roll + Presence:**
 
@@ -396,7 +396,7 @@ KINETIC PULSE
 - *12-16:* 6 + P **damage**
 - *17+:* 9 + P **damage**
 
-### Effect: You Gain A Surge.
+**Effect:** You gain a surge.
 
 **Strained:** The attack deals an extra 3 damage to the target and to you. The damage you take can't be reduced in any way.
 
@@ -410,11 +410,7 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 ### Awe (3 Clarity)
 
-*You project psionic energy out to a creature and take on a new visage in their mind.*
-
-### Type: Action
-
-### Distance:\*\* Ranged 10 \*\*target: One Ally Or Enemy
+*You project psionic energy out to a creature and take on a new visage in their mind.* **Keywords:** Psionic, Ranged, Strike, Telepathy **Type:** Action **Distance:** Ranged 10
 
 **Effect:** Any ally targeted by this ability gains temporary Stamina equal to twice your Presence score, and can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
 
@@ -424,9 +420,9 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 - *12-16*\*\*: 6 + P psychic damage; I\*\* \< average\*\*, frightened (save ends)\*\*
 - *17+:* **9 + P psychic damage; I** \< strong\*\*, frightened (save ends)\*\*
 
-NOTHING EXCEEDS MY GRASP (3 CLARITY) *Be careful not to choke on your aspirations.* **Keywords:** Psionic, Ranged, Strike, Telekinesis
+#### Nothing Exceeds My Grasp (3 Clarity)
 
-### Type:\*\* Action **distance:** Ranged 10 \*\*target: One Creature
+*Be careful not to choke on your aspirations.*
 
 - **Power Roll + Reason:** o *11 or lower:* **3 + R damage;** M \< weak\*\*, slowed (save ends)\*\*
 - *12-16:* **5 + R damage;** M \< average\*\*, slowed (save ends)\*\*
@@ -436,15 +432,13 @@ NOTHING EXCEEDS MY GRASP (3 CLARITY) *Be careful not to choke on your aspiration
 
 ### Precognition (3 Clarity)
 
-*You give a target a glimpse into the future so that they're ready for what comes next.*
+*You give a target a glimpse into the future so that they're ready for what comes next.* **Keywords:** Chronopathy, Melee, Psionic
 
 **Effect:** Ability power rolls against the target have a bane until the start of your next turn. Whenever the target takes damage while under this effect, they can use a triggered action to make a free strike against the source of the damage.
 
 ### Smolder (3 Clarity)
 
-*Smoke flows from your enemy like tears as their skin begins to blacken and flake.*
-
-## Type: Action
+*Smoke flows from your enemy like tears as their skin begins to blacken and flake.* **Keywords:** Psionic, Pyrokinesis, Ranged, Strike **Type:** Action **Distance:** Ranged 10
 
 **Effect:** The target takes damage before this ability imposes any weakness effect. The damage type and the weakness for this ability must be chosen from one of the following: acid, corruption, or fire.
 
@@ -460,7 +454,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 
 ### Flashback (5 Clarity)
 
-*The target is thrown several seconds back through time, and gets to do it all again.*
+*The target is thrown several seconds back through time, and gets to do it all again.* **Keywords:** Chronopathy, Psionic, Ranged **Type:** Maneuver
 
 **Effect:** The target immediately uses an ability they've previously used this round without spending any heroic resources.
 
@@ -468,7 +462,7 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 
 ### Inertia Soak (5 Clarity)
 
-*Your psionic energy surrounds the target and pushes everything else away from them.*
+*Your psionic energy surrounds the target and pushes everything else away from them.* **Keywords:** Psionic, Ranged, Telekinesis
 
 **Effect:** The target ignores difficult terrain and takes no damage from forced movement until the start of your next turn. Whenever the target moves into a square while under this effect, they can push one adjacent creature up to 2 squares. If pushing an ally, the target can ignore that ally's stability.
 
@@ -476,15 +470,15 @@ Choose one heroic ability from the following options, each of which costs 5 clar
 
 ### Iron (5 Clarity)
 
-*The target's skin turns to hard, dark metal, impenetrable and dense.*
+*The target's skin turns to hard, dark metal, impenetrable and dense.* **Keywords:** Metamorphosis, Psionic, Ranged **Type:** Maneuver
 
 **Effect:** The target's stability increases by 5 and they gain 10 temporary stamina and two surges.
 
 **Strained:** You can't use maneuvers (save ends).
 
-PERFECT CLARITY (5 CLARITY)
+### Perfect Clarity (5 Clarity)
 
-*You clear the mind of nothing but the goal.*
+*You clear the mind of nothing but the goal.* **Keywords:** Psionic, Ranged, Telepathy
 
 **Effect:** Until the start of your next turn, the target gains a +3 bonus to speed, and they have a double edge on the next power roll they make. If the target gets a tier 3 result on that roll, you gain 1 clarity.
 
@@ -530,13 +524,9 @@ Your talent tradition grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-APPLIED CHRONOMETRICS (5 CLARITY)
+##### Applied Chronometrics (5 Clarity)
 
-*Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.*
-
-| Type: Maneuver                      |
-| ----------------------------------- |
-| Distance: Ranged 10 Target: Special |
+*Time slows down around you. Your heartbeat is the only gauge of the extra moments you've gained.* **Keywords:** Chronopathy, Psionic, Ranged **Type:** Maneuver | | --- | **Distance:** Ranged 10
 
 **Power Roll + Presence:**
 
@@ -550,7 +540,7 @@ APPLIED CHRONOMETRICS (5 CLARITY)
 
 ### Slow (5 Clarity)
 
-*Perhaps they wonder why everyone else is moving so quickly?*
+*Perhaps they wonder why everyone else is moving so quickly?* **Keywords:** Chronopathy, Psionic, Ranged **Type:** Maneuver **Distance:** Ranged 10
 
 **Power Roll + Presence:**
 
@@ -568,7 +558,7 @@ Choose one of the following abilities.
 
 ### Gravitic Burst (5 Clarity)
 
-*Everyone get away from me!* **Keywords:** Area, Psionic, Telekinesis **Type:** Action **Distance:** 1 burst **Target:** Each enemy in the area
+*Everyone get away from me!*
 
 **Power Roll + Reason:**
 
@@ -580,14 +570,11 @@ Choose one of the following abilities.
 
 ### Levity And Gravity (5 Clarity)
 
-*You raise the target into the air, then smother them against the ground.*
-
-### Type: Action
+*You raise the target into the air, then smother them against the ground.* **Keywords:** Psionic, Ranged, Strike, Telekinesis **Type:** Action **Distance:** Ranged 10
 
 **Power Roll + Reason:**
 
-### O *11 Or Lower:* **6 + R Damage; M** \< Weak\*\*, Prone\*\*
-
+- *11 or lower:* **6 + R damage; M** \< weak\*\*, prone\*\*
 - *12-16:* **10 + R damage; M** \< average\*\*, prone\*\*
 - *17+:* **14 + R damage; M \< strong, prone and can't stand (save ends)**
 
@@ -601,11 +588,10 @@ Choose one of the following abilities.
 
 ### Overwhelm (5 Clarity)
 
-*You overload their senses, turning all their subconscious thoughts into conscious ones.*
+*You overload their senses, turning all their subconscious thoughts into conscious ones.* **Keywords:** Psionic, Ranged, Strike, Telepathy
 
-|                     | Type: Action         |
-| ------------------- | -------------------- |
-| Distance: Ranged 10 | Target: One creature |
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Power Roll + Reason:**
 
@@ -617,7 +603,7 @@ Choose one of the following abilities.
 
 ### Synaptic Override (5 Clarity)
 
-*You gain control over an enemy's nervous system. How pleasant for them.*
+*You gain control over an enemy's nervous system. How pleasant for them.* **Keywords:** Psionic, Ranged, Telepathy
 
 **Power Roll + Reason:**
 
@@ -643,7 +629,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 
 ### Fling Through Time (7 Clarity)
 
-*You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.* **Keywords:** Chronopathy, Psionic, Ranged, Strike
+*You hurl the target through the annals of time, forcing them to witness every moment of their existence all at once.*
 
 **Power Roll + Presence:**
 
@@ -657,7 +643,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 
 ### Force Orbs (7 Clarity)
 
-*Three spheres of solid psionic energy float around you.* **Keywords:** Psionic, Ranged, Strike, Telekinesis
+*Three spheres of solid psionic energy float around you.*
 
 **Effect:** You create three size 1T orbs that orbit your body. Each orb you provides you with cumulative damage immunity 1. Whenever you take damage, you lose 1 orb.
 
@@ -671,17 +657,17 @@ Once on each of your turns, you can use a free maneuver to fire an orb at a crea
 
 **Strained:** You create five orbs. You are weakened while you have any orbs active.
 
-REFLECTOR FIELD (7 CLARITY)
+### Reflector Field (7 Clarity)
 
-*A protective field reverses the momentum of incoming attacks.*
+*A protective field reverses the momentum of incoming attacks.* **Keywords:** Area, Psionic, Telepathy
 
 **Effect:** The aura lasts until the start of your next turn. Whenever an enemy targets an ally in the aura with a ranged ability, the ability is negated on the ally and reflected back at the enemy. The ability deals half the damage to the enemy that it would have dealt to the ally, and loses any additional effects.
 
 **Strained:** The size of the aura increases by 1. Each ability your aura reflects causes you to take 2d6 damage and makes you forget a memory, as determined in consultation with the Director.
 
-SOUL BURN (7 CLARITY)
+### Soul Burn (7 Clarity)
 
-*You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.*
+*You blast their soul out of their body, leaving it to helplessly float back to a weakened husk.* **Keywords:** Animapathy, Psionic, Ranged, Strike **Type:** Action **Distance:** Ranged 10
 
 **Power Roll + Presence:**
 
@@ -773,15 +759,15 @@ Choose one heroic ability from the following options.
 
 #### Exothermic Shield (9 Clarity)
 
-*You encase the target in psionic flame and allow them to flicker without fear of burning out.*
+*You encase the target in psionic flame and allow them to flicker without fear of burning out.* **Keywords:** Pyrokinesis, Psionic
 
 **Effect:** The target gains fire and cold immunity 10 and their strikes have deal additional fire damage equal to twice your Reason score until the start of your next turn. Additionally, whenever an enemy makes physical contact with the target or uses a melee ability against the target while they have this effect, the enemy takes 5 fire damage.
 
 **Strained:** The target gains two surges. You are weakened and slowed (save ends).
 
-HYPERSONIC (9 CLARITY)
+#### Hypersonic (9 Clarity)
 
-*You move fast enough to turn around and watch your foes feel the aftermath.*
+*You move fast enough to turn around and watch your foes feel the aftermath.* **Keywords:** Area, Charge, Psionic, Telekinesis
 
 **Effect:** You teleport to a square on the opposite side of the area before rolling power.
 
@@ -793,9 +779,9 @@ HYPERSONIC (9 CLARITY)
 
 **Strained:** You and each target are slowed (EoT) on a tier 2 result or higher.
 
-MIND SNARE (9 CLARITY)
+#### Mind Snare (9 Clarity)
 
-*You latch onto your prey's brain and don't let go, like a song they can't get out of their head.*
+*You latch onto your prey's brain and don't let go, like a song they can't get out of their head.* **Keywords:** Psionic, Ranged, Strike, Telepathic
 
 - **Power Roll + Reason:** o *11 or lower:* 10 + R **psychic damage; R \< \[weak\] slowed (save ends)**
 - *12-16:* 14 + R **psychic damage; R \< \[average\] slowed (save ends)**
@@ -807,7 +793,7 @@ MIND SNARE (9 CLARITY)
 
 #### Soulbound (9 Clarity)
 
-*You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.*
+*You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.* **Keywords:** Animapathy, Psionic, Ranged, Strike **Type:** Action
 
 - **Power Roll + Presence:**
 - *11 or lower:* 8 **damage; A \< \[weak\] directly stitched to other target (save ends)**
@@ -868,7 +854,7 @@ Choose one of the following abilities.
 
 ##### Fate (9 Clarity)
 
-*Your foe gets a glimpse of how it will all end for them.*
+*Your foe gets a glimpse of how it will all end for them.* **Keywords:** Chronopathy, Psionic, Melee
 
 **Effect:** The target gains damage weakness 5 until the end of your next turn. Whenever the target takes damage while they have this weakness, they are also knocked prone.
 
@@ -882,9 +868,7 @@ Choose one of the following abilities.
 
 ##### Stasis Field (9 Clarity)
 
-*Keep everything as it was. Ignore everything that will be.* **Keywords:** Area, Chronopathy, Psionic, Ranged
-
-### Type: Action
+*Keep everything as it was. Ignore everything that will be.*
 
 **Power Roll + Presence:**
 
@@ -900,7 +884,7 @@ Choose one of the following abilities.
 
 ##### Gravitic Well (9 Clarity)
 
-*You bend the gravity into a fine point and pull your foes towards it.*
+*You bend the gravity into a fine point and pull your foes towards it.* **Keywords:** Area, Psionic, Ranged, Telekinesis
 
 **Power Roll + Reason:**
 
@@ -912,9 +896,7 @@ Choose one of the following abilities.
 
 ##### Greater Kinetic Grip (9 Clarity)
 
-*You raise the tree or the behemoth, and without breaking a sweat, they soar faster than they should.* **Keywords:** Melee, Psionic, Telekinesis
-
-### Type: Action
+*You raise the tree or the behemoth, and without breaking a sweat, they soar faster than they should.*
 
 - *11 or lower:* **push 5; M \< \[weak\] forced movement is vertical**
 - *12-16:* **push 8; M \< \[average\] forced movement is vertical**
@@ -928,7 +910,9 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-SYNAPTIC CONDITIONING (9 CLARITY) *It's a subtle mindset shift. It's not that they're your enemy you just don't like them!* **Keywords:** Psionic, Melee, Telepathy **Type:** Action **Distance:** Melee 2 **Target:** 1 creature
+##### Synaptic Conditioning (9 Clarity)
+
+*It's a subtle mindset shift. It's not that they're your enemy you just don't like them!*
 
 **Power Roll + Reason:**
 
@@ -940,7 +924,7 @@ SYNAPTIC CONDITIONING (9 CLARITY) *It's a subtle mindset shift. It's not that th
 
 ##### Synaptic Vanishment (9 Clarity)
 
-*You manipulate your enemies' minds and make them wonder if you were ever really there in the first place.* **Keywords:** Psionic, Ranged, Telepathy **Type:** Maneuver **Distance:** Ranged 10 **Target:** Special
+*You manipulate your enemies' minds and make them wonder if you were ever really there in the first place.*
 
 **Effect:** You and all allies are invisible to each target until the start of your next turn. You can target a number of creatures with this ability equal to your power roll.
 
@@ -1010,7 +994,7 @@ You have the following ability.
 
 ##### Levitation Field
 
-*You manipulate the air around your allies so that they can move as freely through the sky as you can.*
+*You manipulate the air around your allies so that they can move as freely through the sky as you can.* **Keywords:** Area, Psionics
 
 **Effect:** Each target adds the Flying keyword to their speed until the start of your next turn. You and each target can then shift up to their speed. While flying, the target's stability is reduced to 0 and can't be increased further. **Spend 5 Clarity:** The effects last for 1 hour instead.
 
@@ -1024,9 +1008,9 @@ one or more Recoveries, all linked creatures can spend a Recovery.
 
 You have the following triggered action.
 
-### Stasis Shield (3 Clarity) *you Freeze Time Just Long Enough To Bring The Victim To Safety!*
+##### Stasis Shield (3 Clarity)
 
-**Trigger:** The target takes damage.
+*You freeze time just long enough to bring the victim to safety!* **Keywords:** Psionics, Ranged
 
 **Effect:** The target is teleported to an unoccupied square adjacent to you, taking no damage or additional effects if this movement would put them out of harm's way. **Strained:** You can't target yourself if you are strained. You take the damage and any additional effects in place of the target.
 
@@ -1040,12 +1024,7 @@ Choose one heroic ability from the following options.
 
 #### Doubt (11 Clarity)
 
-*You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive*
-
-| Keywords: Animapathy, Ranged, Strike, Psionic    |
-| ------------------------------------------------ |
-| Type: Action                                     |
-| Distance: Ranged 10 Target: 1 creature or object |
+*You tug at the strings of the foe's anima and unravel them, allowing someone else to take advantage of their drive* **Keywords:** Animapathy, Ranged, Strike, Psionic | | --- | **Type:** Action | **Distance:** Ranged 10
 
 **Power Roll + Presence:**
 
@@ -1060,7 +1039,7 @@ Choose one heroic ability from the following options.
 
 #### Mindwipe (11 Clarity)
 
-*You attempt to make them forget all of their training.*
+*You attempt to make them forget all of their training.* **Keywords:** Psionic, Melee, Strike, Telepathy
 
 **Power Roll + Reason:**
 
@@ -1074,7 +1053,7 @@ Choose one heroic ability from the following options.
 
 #### Rejuvenate (11 Clarity)
 
-*You reshape the flow of time in the target's body to an earlier state.*
+*You reshape the flow of time in the target's body to an earlier state.* **Keywords:** Chronopathy, Psionic
 
 ### Effect: Choose Two Of The Following Effects:
 
@@ -1086,7 +1065,7 @@ Choose one heroic ability from the following options.
 
 #### Steel (11 Clarity)
 
-*The target's skin becomes chrome and tough. They become an unstoppable titanium titan.*
+*The target's skin becomes chrome and tough. They become an unstoppable titanium titan.* **Keywords:** Metamorphosis, Psionic
 
 **Effect:** The target has damage immunity 5 and cannot be slowed or weakened until the start of your next turn. Whenever the target force moves a creature or object while they have this effect, the distance increases by 5. **Strained:** You cannot use maneuvers (save ends).
 
@@ -1114,13 +1093,11 @@ Choose one of the following abilities.
 
 ##### Acceleration Field (11 Clarity)
 
-*You forcibly add more moments into a critical point in time, knowing full well you may need to steal some of your own.* **Keywords:** Area, Chronopathy, Psionic **Type:** Maneuver **Distance:** 3 Burst **Target:** Special
+*You forcibly add more moments into a critical point in time, knowing full well you may need to steal some of your own.*
 
 **Effect:** Each ally within distance that hasn't taken their turn this round can take their turn after yours before any other enemies take their turn. Allies within distance that have already taken their turn this round can choose to take another turn but lose their turn during the next round. You and all allies within distance don't provoke opportunity attacks by moving. **Strained:** Roll power, targeting yourself and all enemies
 
-within distance:
-
-**Power Roll + Presence:**
+within
 
 - *11 or lower:* **4 corruption damage; P \< \[weak\] slowed (save ends)**
 - *12-16:* **6 corruption damage; P \< \[average\] slowed (save ends)**
@@ -1128,9 +1105,7 @@ within distance:
 
 ##### Borrow From The Future (11 Clarity)
 
-*You lean on future heroism to assist you in the now.* **Keywords:** Area, Chronopathy, Psionic **Type:** Maneuver
-
-### Distance:\*\* 2 Burst \*\*target: All Allies
+*You lean on future heroism to assist you in the now.*
 
 **Effect:** You have 6 heroic resources to distribute amongst the targets in range. A target can't gain more than 3 of their heroic resource in this way. After using this ability, you can't gain any clarity until the end of the next round.
 
@@ -1140,7 +1115,7 @@ Choose one of the following abilities.
 
 ##### Gravitic Nova (11 Clarity)
 
-*Unbridled psionic energy erupts from your body and flashes outward.*
+*Unbridled psionic energy erupts from your body and flashes outward.* **Keywords:** Area, Psionic, Telekinesis
 
 **Power Roll + Reason:**
 
@@ -1154,7 +1129,7 @@ Choose one of the following abilities.
 
 ##### Fulcrum (11 Clarity)
 
-*You use fine precision to manipulate the creatures around you.*
+*You use fine precision to manipulate the creatures around you.* **Keywords:** Area, Psionic, Telekinesis
 
 **Effect:** Each target is vertically pushed 4. Roll power to determine the distance the ability affects.
 
@@ -1172,7 +1147,7 @@ Choose one of the following abilities.
 
 ##### Resonant Mind Spike (11 Clarity)
 
-*A telepathic bolt empowered by every mind within your reach fired directly into your foe's head.* **Keywords:** Psionic, Ranged, Strike, Telepathy **Type:** Action
+*A telepathic bolt empowered by every mind within your reach fired directly into your foe's head.*
 
 - *11 or lower:* 15 + R **psychic damage**
 - *12-16:* 24 + R **psychic damage**
@@ -1182,11 +1157,9 @@ Choose one of the following abilities.
 
 ##### Synaptic Terror (11 Clarity)
 
-*You send a message to the world and allow their responses into your present company's minds.* **Keywords:** Area, Psionic, Telepathy
+*You send a message to the world and allow their responses into your present company's minds.*
 
-**Effect:** You and each ally within distance can't get a result lower than tier 2 on their power rolls until the start of your next turn. Make one power roll targeting all enemies within distance:
-
-**Power Roll + Reason:**
+**Effect:** You and each ally within distance can't get a result lower than tier 2 on their power rolls until the start of your next turn. Make one power roll targeting all enemies within
 
 - *11 or lower:* **R \< \[weak\] frightened of you (save**
 - **ends)**

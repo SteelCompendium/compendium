@@ -25,3 +25,5 @@ kind: 8th-level features
 [MINDLINK](./Mindlink.md)
 
 [STASIS SHIELD](./Stasis%20Shield.md)
+
+[UNIVERSAL CONNECTION](./Universal%20Connection.md)

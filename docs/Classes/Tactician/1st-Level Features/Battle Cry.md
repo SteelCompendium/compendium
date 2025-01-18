@@ -7,20 +7,18 @@ cost: 3 Focus
 type: classes
 subtype: tactician
 kind: 1st-level features
-keywords: Ranged **Type:** Maneuver
-keyword_list:
-  - Ranged **Type:** Maneuver
-distance: Ranged 10 **Target:** Three allies
+ability_type: Maneuver **Distance:** Ranged 10
+target: Three allies
 ---
 
 # Battle Cry (3 Focus)
 
-*You shout a phrase that galvanizes your team.*
+*You shout a phrase that galvanizes your team.* **Keywords:** Ranged
 
-|                                                  |             |
-| :----------------------------------------------- | :---------- |
-| **Keywords:** Ranged **Type:** Maneuver          | **Type:**   |
-| **Distance:** Ranged 10 **Target:** Three allies | **Target:** |
+|               |                                            |
+| :------------ | :----------------------------------------- |
+| **Keywords:** | **Type:** Maneuver **Distance:** Ranged 10 |
+| **Distance:** | **Target:** Three allies                   |
 
 **Power Roll + Reason:**
 

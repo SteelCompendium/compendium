@@ -7,22 +7,19 @@ cost: 9 Essence
 type: classes
 subtype: elementalist
 kind: 5th-level features
-keywords: Area, Green, Magic, Ranged **Type:** Action **Distance:** 4 Cube within 10 **Target:** All enemies
-keyword_list:
-  - Area
-  - Green
-  - Magic
-  - Ranged **Type:** Action **Distance:** 4 Cube within 10 **Target:** All enemies
+ability_type: Action
+distance: 4 Cube within 10
+target: All enemies
 ---
 
 # Web Of All That's Come Before (9 Essence)
 
-*Threads you've been weaving through your adventures fray into a vibrant, pearlescent web.*
+*Threads you've been weaving through your adventures fray into a vibrant, pearlescent web.* **Keywords:** Area, Green, Magic, Ranged
 
-|                                                                                                                  |             |
-| :--------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Green, Magic, Ranged **Type:** Action **Distance:** 4 Cube within 10 **Target:** All enemies | **Type:**   |
-| **Distance:**                                                                                                    | **Target:** |
+|                                |                         |
+| :----------------------------- | :---------------------- |
+| **Keywords:**                  | **Type:** Action        |
+| **Distance:** 4 Cube within 10 | **Target:** All enemies |
 
 **Power Roll + Reason:**
 

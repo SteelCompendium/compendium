@@ -7,20 +7,19 @@ cost: 9 Drama
 type: classes
 subtype: troubadour
 kind: 5th-level features
-keywords: Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Special
-keyword_list:
-  - Magic
-  - Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Special
+ability_type: Maneuver
+distance: Ranged 10
+target: Special
 ---
 
 # Patter Song (9 Drama)
 
-*Dazzle them with your fancy patter and they forget where they were.*
+*Dazzle them with your fancy patter and they forget where they were.* **Keywords:** Magic, Ranged
 
-|                                                                                            |             |
-| :----------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged **Type:** Maneuver **Distance:** Ranged 10 **Target:** Special | **Type:**   |
-| **Distance:**                                                                              | **Target:** |
+|                         |                     |
+| :---------------------- | :------------------ |
+| **Keywords:**           | **Type:** Maneuver  |
+| **Distance:** Ranged 10 | **Target:** Special |
 
 **Power Roll + Presence:**
 

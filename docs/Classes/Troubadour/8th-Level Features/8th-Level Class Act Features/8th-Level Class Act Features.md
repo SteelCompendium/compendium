@@ -14,4 +14,4 @@ You've put your mark on the artform for all class acts to follow. You gain a new
 
 [8TH-LEVEL CLASS ACT FEATURES](./8th-Level%20Class%20Act%20Features.md)
 
-[CROWD FAVORITES](./Crowd%20Favorites.md)
+[CROWD FAVORITES](./Crowd%20Favorites/Crowd%20Favorites.md)

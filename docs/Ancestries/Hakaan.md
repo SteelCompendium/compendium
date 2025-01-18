@@ -100,7 +100,7 @@ The Arrow stared, wide-eyed at the Pillar. Even before the young man spoke, the 
 
 Hakaan heroes have access to the following traits.
 
-SIGNATURE TRAIT: BIG!
+### Signature Trait: Big!
 
 Your size is 1L.
 

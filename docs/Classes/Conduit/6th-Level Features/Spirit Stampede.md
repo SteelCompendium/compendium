@@ -7,15 +7,20 @@ cost: 9 Piety
 type: classes
 subtype: conduit
 kind: 6th-level features
+distance: 10 x 2 line within 5
+target: All enemies \|
 ---
 
 # Spirit Stampede (9 Piety)
 
-*Animal spirits run through the battlefield, trampling your foes.*
+*Animal spirits run through the battlefield, trampling your foes.* **Keywords:** Magic, Area, Ranged
 
-| Keywords: Magic, Area, Ranged  | Type: Action        |
-| ------------------------------ | ------------------- |
-| Distance: 10 x 2 line within 5 | Target: All enemies |
+| **Type:** Action                     |                                   |
+| ------------------------------------ | --------------------------------- |
+|                                      |                                   |
+| :----------------------------------- | :-------------------------------- |
+| **Keywords:**                        | **Type:**                         |
+| **Distance:** 10 x 2 line within 5   | **Target:** All enemies \|        |
 
 **Power Roll + Intuition:**
 

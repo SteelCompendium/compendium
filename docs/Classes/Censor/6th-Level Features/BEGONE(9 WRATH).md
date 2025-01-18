@@ -7,21 +7,18 @@ cost: 9 Wrath
 type: classes
 subtype: censor
 kind: 6th-level features
-keywords: Area, Magic **Type:** Action
-keyword_list:
-  - Area
-  - Magic **Type:** Action
-distance: 3 burst **Target:** All enemies
+ability_type: Action **Distance:** 3 burst
+target: All enemies
 ---
 
 # Begone!(9 Wrath)
 
-*You terrify your enemies into retreating, creating chaos in their ranks.*
+*You terrify your enemies into retreating, creating chaos in their ranks.* **Keywords:** Area, Magic
 
-|                                               |             |
-| :-------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic **Type:** Action    | **Type:**   |
-| **Distance:** 3 burst **Target:** All enemies | **Target:** |
+|               |                                        |
+| :------------ | :------------------------------------- |
+| **Keywords:** | **Type:** Action **Distance:** 3 burst |
+| **Distance:** | **Target:** All enemies                |
 
 **Power Roll + Presence:**
 

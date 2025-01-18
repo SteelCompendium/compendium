@@ -6,11 +6,26 @@ name: A Meteoric Introduction
 type: classes
 subtype: elementalist
 kind: 1st-level features
+keywords: Attack, Earth, Magic, Melee, Strike
+keyword_list:
+  - Attack
+  - Earth
+  - Magic
+  - Melee
+  - Strike
+ability_type: Action
+distance: Melee 1
+target: One creature or object
 ---
 
 # A Meteoric Introduction
 
-*You give your enemy a gentle tap like an asteroid impact.* **Keywords:** Attack, Earth, Magic, Melee, Strike **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
+*You give your enemy a gentle tap like an asteroid impact.*
+
+|                                                   |                                    |
+| :------------------------------------------------ | :--------------------------------- |
+| **Keywords:** Attack, Earth, Magic, Melee, Strike | **Type:** Action                   |
+| **Distance:** Melee 1                             | **Target:** One creature or object |
 
 **Power Roll + Reason:**
 

@@ -6,18 +6,23 @@ name: '"thunder Mother"'
 type: classes
 subtype: troubadour
 kind: 1st-level features
-ability_type: No action
-distance: Ranged 10 **Target:** One creature **Effect:** At the end of each round while this routine is active, make a power roll that ignores cover. You can't target the same creature twice with this effect.
+keywords: Magic, Ranged, Strike, Routine **Type:** No action **Distance:** Ranged 10
+keyword_list:
+  - Magic
+  - Ranged
+  - Strike
+  - Routine **Type:** No action **Distance:** Ranged 10
+target: One creature **Effect:** At the end of each round while this routine is active, make a power roll that ignores cover. You can't target the same creature twice with this effect.
 ---
 
 # "thunder Mother"
 
-*All for thunder motherrr!* ?*Run and hide for coverrr!*? **Keywords:** Magic, Ranged, Strike, Routine
+*All for thunder motherrr!* ?*Run and hide for coverrr!*?
 
-|                                                                                                                                                                                                                      |                     |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------ |
-| **Keywords:**                                                                                                                                                                                                        | **Type:** No action |
-| **Distance:** Ranged 10 **Target:** One creature **Effect:** At the end of each round while this routine is active, make a power roll that ignores cover. You can't target the same creature twice with this effect. | **Target:**         |
+|                                                                                          |                                                                                                                                                                                              |
+| :--------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Keywords:** Magic, Ranged, Strike, Routine **Type:** No action **Distance:** Ranged 10 | **Type:**                                                                                                                                                                                    |
+| **Distance:**                                                                            | **Target:** One creature **Effect:** At the end of each round while this routine is active, make a power roll that ignores cover. You can't target the same creature twice with this effect. |
 
 **Power Roll + Presence:**
 

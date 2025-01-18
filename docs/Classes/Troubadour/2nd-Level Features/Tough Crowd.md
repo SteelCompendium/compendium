@@ -7,21 +7,19 @@ cost: 5 Drama
 type: classes
 subtype: troubadour
 kind: 2nd-level features
-keywords: Area, Magic, Ranged **Type:** Maneuver **Distance:** 3 cube within 10 **Target:** Special
-keyword_list:
-  - Area
-  - Magic
-  - Ranged **Type:** Maneuver **Distance:** 3 cube within 10 **Target:** Special
+ability_type: Maneuver
+distance: 3 cube within 10
+target: Special
 ---
 
 # Tough Crowd (5 Drama)
 
-*Your fans don't seem to like the opening act ...*
+*Your fans don't seem to like the opening act ...* **Keywords:** Area, Magic, Ranged
 
-|                                                                                                         |             |
-| :------------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Area, Magic, Ranged **Type:** Maneuver **Distance:** 3 cube within 10 **Target:** Special | **Type:**   |
-| **Distance:**                                                                                           | **Target:** |
+|                                |                     |
+| :----------------------------- | :------------------ |
+| **Keywords:**                  | **Type:** Maneuver  |
+| **Distance:** 3 cube within 10 | **Target:** Special |
 
 **Effect:** The affected area becomes haunted by a swirling horde of phantoms until the end of the encounter. Any ally can enter any square of the area without spending movement. At the end of each of your turns, you can make a power roll against each enemy in the area.
 

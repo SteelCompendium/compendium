@@ -7,23 +7,18 @@ cost: 5 Essence
 type: classes
 subtype: elementalist
 kind: 1st-level features
-keywords: Area, Green, Magic, Ranged **Type:** Action **Distance:** 3 cube within 10
-keyword_list:
-  - Area
-  - Green
-  - Magic
-  - Ranged **Type:** Action **Distance:** 3 cube within 10
-target: Each enemy in the area
+ability_type: Action
+distance: 3 cube within 10 **Target:** Each enemy in the area
 ---
 
 # Test Of Rain (5 Essence)
 
-*You call down a rain that burns your enemies and restores your allies.*
+*You call down a rain that burns your enemies and restores your allies.* **Keywords:** Area, Green, Magic, Ranged
 
-|                                                                                          |                                    |
-| :--------------------------------------------------------------------------------------- | :--------------------------------- |
-| **Keywords:** Area, Green, Magic, Ranged **Type:** Action **Distance:** 3 cube within 10 | **Type:**                          |
-| **Distance:**                                                                            | **Target:** Each enemy in the area |
+|                                                                   |                  |
+| :---------------------------------------------------------------- | :--------------- |
+| **Keywords:**                                                     | **Type:** Action |
+| **Distance:** 3 cube within 10 **Target:** Each enemy in the area | **Target:**      |
 
 **Power Roll + Reason:**
 

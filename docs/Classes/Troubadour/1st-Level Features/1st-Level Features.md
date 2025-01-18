@@ -18,13 +18,11 @@ As a troubadour, you gain the following features.
 
 [SCENE PARTNER](./Scene%20Partner.md)
 
-[CURTAIN CALL](./Curtain%20Call.md)
+[CURTAIN CALL](./Curtain%20Call/Curtain%20Call.md)
 
 [REVITALIZING LIMERICK](./Revitalizing%20Limerick.md)
 
 [1ST-LEVEL CLASS ACT FEATURES](./1st-Level%20Class%20Act%20Features/1st-Level%20Class%20Act%20Features.md)
-
-[Effect: Choose one of the following effects:](./Effect%20Choose%20One%20Of%20The%20Following%20Effects/Effect%20Choose%20One%20Of%20The%20Following%20Effects.md)
 
 ["THUNDER MOTHER"](./Thunder%20Mother.md)
 
@@ -50,8 +48,6 @@ As a troubadour, you gain the following features.
 
 [HARSH CRITIC (3 DRAMA)](./Harsh%20Critic.md)
 
-[o 11 or lower: 7 + P sonic damage](./O%2011%20Or%20Lower%207%20P%20Sonic%20Damage.md)
-
 [HYPNOTIC OVERTONES (3 DRAMA)](./Hypnotic%20Overtones.md)
 
 [QUICK REWRITE (3 DRAMA)](./Quick%20Rewrite.md)
@@ -60,7 +56,7 @@ As a troubadour, you gain the following features.
 
 [DRAMATIC REVERSAL (5 DRAMA)](./Dramatic%20Reversal.md)
 
-[FAKE YOUR DEATH (5 DRAMA) O happy dagger, this is thy sheath!](./Fake%20Your%20Death%20O%20Happy%20Dagger%20This%20Is%20Thy%20Sheath.md)
+[FAKE YOUR DEATH (5 DRAMA)](./Fake%20Your%20Death.md)
 
 [FLIP THE SCRIPT (5 DRAMA)](./Flip%20The%20Script.md)
 

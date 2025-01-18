@@ -6,21 +6,19 @@ name: Hurl Element
 type: classes
 subtype: elementalist
 kind: 1st-level features
-keywords: Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature or object
-keyword_list:
-  - Magic
-  - Ranged
-  - Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature or object
+ability_type: Action
+distance: Ranged 10
+target: One creature or object
 ---
 
 # Hurl Element
 
-*You cast a ball of elemental energy at an unsuspecting foe.*
+*You cast a ball of elemental energy at an unsuspecting foe.* **Keywords:** Magic, Ranged, Strike
 
-|                                                                                                                 |             |
-| :-------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature or object | **Type:**   |
-| **Distance:**                                                                                                   | **Target:** |
+|                         |                                    |
+| :---------------------- | :--------------------------------- |
+| **Keywords:**           | **Type:** Action                   |
+| **Distance:** Ranged 10 | **Target:** One creature or object |
 
 **Power Roll + Reason:**
 

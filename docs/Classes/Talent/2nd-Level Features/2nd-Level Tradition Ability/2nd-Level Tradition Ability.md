@@ -12,4 +12,4 @@ kind: 2nd-level features
 
 Your talent tradition grants your choice of one of two abilities.
 
-[2ND-LEVEL CHRONOPATHY ABILITY](./2nd-Level%20Chronopathy%20Ability.md)
+[2ND-LEVEL CHRONOPATHY ABILITY](./2nd-Level%20Chronopathy%20Ability/2nd-Level%20Chronopathy%20Ability.md)

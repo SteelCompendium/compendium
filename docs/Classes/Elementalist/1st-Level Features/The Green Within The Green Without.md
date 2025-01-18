@@ -6,22 +6,19 @@ name: The Green Within, The Green Without
 type: classes
 subtype: elementalist
 kind: 1st-level features
-keywords: Green, Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature
-keyword_list:
-  - Green
-  - Magic
-  - Ranged
-  - Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature
+ability_type: Action
+distance: Ranged 10
+target: One creature
 ---
 
 # The Green Within, The Green Without
 
-*Whipping vines erupt from a foe's body to grasp at another close by.*
+*Whipping vines erupt from a foe's body to grasp at another close by.* **Keywords:** Green, Magic, Ranged, Strike
 
-|                                                                                                              |             |
-| :----------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Green, Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** One creature | **Type:**   |
-| **Distance:**                                                                                                | **Target:** |
+|                         |                          |
+| :---------------------- | :----------------------- |
+| **Keywords:**           | **Type:** Action         |
+| **Distance:** Ranged 10 | **Target:** One creature |
 
 **Power Roll + Reason:**
 

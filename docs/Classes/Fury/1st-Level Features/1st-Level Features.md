@@ -22,7 +22,7 @@ As a fury, you gain the following features.
 
 [ASPECT TRIGGERED ACTION](./Aspect%20Triggered%20Action.md)
 
-[FURIOUS CHANGE](./Furious%20Change.md)
+[FURIOUS CHANGE](./Furious%20Change/Furious%20Change.md)
 
 [MIGHTY LEAPS](./Mighty%20Leaps.md)
 
@@ -40,4 +40,8 @@ As a fury, you gain the following features.
 
 [BACK!(3 RAGE)](<./BACK(3%20RAGE).md>)
 
-[TIDE OF DEATH (3 RAGE)](./Tide%20Of%20Death/Tide%20Of%20Death.md)
+[OUT OF THE WAY!(3 RAGE)](<./Out%20Of%20The%20WAY(3%20RAGE).md>)
+
+[TIDE OF DEATH (3 RAGE)](./Tide%20Of%20Death.md)
+
+[YOUR ENTRAILS ARE YOUR EXTRAILS!(3 RAGE)](<./Your%20Entrails%20Are%20Your%20EXTRAILS(3%20RAGE)/Your%20Entrails%20Are%20Your%20EXTRAILS(3%20RAGE).md>)

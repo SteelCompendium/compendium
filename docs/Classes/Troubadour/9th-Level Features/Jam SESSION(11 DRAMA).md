@@ -7,20 +7,19 @@ cost: 11 Drama
 type: classes
 subtype: troubadour
 kind: 9th-level features
-keywords: Area, Magic **Type:** Action **Distance:** 5 burst **Target:** All enemies
-keyword_list:
-  - Area
-  - Magic **Type:** Action **Distance:** 5 burst **Target:** All enemies
+ability_type: Action
+distance: 5 burst
+target: All enemies
 ---
 
 # Jam Session(11 Drama)
 
-*Your jam session breeds new genres that compel everyone to get up and move.*
+*Your jam session breeds new genres that compel everyone to get up and move.* **Keywords:** Area, Magic
 
-|                                                                                          |             |
-| :--------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic **Type:** Action **Distance:** 5 burst **Target:** All enemies | **Type:**   |
-| **Distance:**                                                                            | **Target:** |
+|                       |                         |
+| :-------------------- | :---------------------- |
+| **Keywords:**         | **Type:** Action        |
+| **Distance:** 5 burst | **Target:** All enemies |
 
 **Power Roll + Presence:**
 

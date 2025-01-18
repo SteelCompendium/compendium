@@ -7,21 +7,19 @@ cost: 9 Piety
 type: classes
 subtype: conduit
 kind: 5th-level features
-keywords: Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature
-keyword_list:
-  - Magic
-  - Ranged
-  - Strike **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature
+ability_type: Action
+distance: Ranged 10
+target: 1 creature
 ---
 
 # Beacon Of Grace (9 Piety)
 
-*You ignite a foe with holy radiance, rewarding allies who attack them.*
+*You ignite a foe with holy radiance, rewarding allies who attack them.* **Keywords:** Magic, Ranged, Strike
 
-|                                                                                                     |             |
-| :-------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Ranged, Strike **Type:** Action **Distance:** Ranged 10 **Target:** 1 creature | **Type:**   |
-| **Distance:**                                                                                       | **Target:** |
+|                         |                        |
+| :---------------------- | :--------------------- |
+| **Keywords:**           | **Type:** Action       |
+| **Distance:** Ranged 10 | **Target:** 1 creature |
 
 **Power Roll + Intuition:**
 

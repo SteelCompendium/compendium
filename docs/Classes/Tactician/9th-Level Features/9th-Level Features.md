@@ -16,8 +16,10 @@ As a 9th-level tactician, you gain the following features.
 
 [9TH-LEVEL DOCTRINE ABILITY](./9th-Level%20Doctrine%20Ability/9th-Level%20Doctrine%20Ability.md)
 
-[SQUAD! HIT AND RUN!(11 FOCUS)](<./Squad%20Hit%20And%20RUN(11%20FOCUS)/Squad%20Hit%20And%20RUN(11%20FOCUS).md>)
+[SQUAD! HIT AND RUN!(11 FOCUS)](<./Squad%20Hit%20And%20RUN(11%20FOCUS).md>)
+
+[THEIR LACK OF FOCUS IS THEIR UNDOING (11 FOCUS)](./Their%20Lack%20Of%20Focus%20Is%20Their%20Undoing/Their%20Lack%20Of%20Focus%20Is%20Their%20Undoing.md)
 
 [NO ESCAPE (11 FOCUS)](./No%20Escape.md)
 
-[Effect: Mark the target.](./Effect%20Mark%20The%20Target.md)
+[Effect: Mark the target.](./Effect%20Mark%20The%20Target/Effect%20Mark%20The%20Target.md)

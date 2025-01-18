@@ -6,16 +6,23 @@ name: Riposte
 type: classes
 subtype: troubadour
 kind: 1st-level features
-distance: Melee 1 **Target:** Self or one ally **Trigger:** The target takes damage from a melee strike.
+keywords: --
+keyword_list:
+  - --
+ability_type: Triggered **Distance:** Melee 1
+target: Self or one ally
+trigger: The target takes damage from a melee strike.
 ---
 
 # Riposte
 
-*"I'd have brought treats had I known I'd be fighting a dog."* **Keywords:** -- **Type:** Triggered
+*"I'd have brought treats had I known I'd be fighting a dog."*
 
-|                                                                                                              |             |
-| :----------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:**                                                                                                | **Type:**   |
-| **Distance:** Melee 1 **Target:** Self or one ally **Trigger:** The target takes damage from a melee strike. | **Target:** |
+|                  |                                           |
+| :--------------- | :---------------------------------------- |
+| **Keywords:** -- | **Type:** Triggered **Distance:** Melee 1 |
+| **Distance:**    | **Target:** Self or one ally              |
+
+**Trigger:** The target takes damage from a melee strike.
 
 **Effect:** The target makes a free strike against the triggering striker.

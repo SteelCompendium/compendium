@@ -7,19 +7,18 @@ cost: 7 Wrath
 type: classes
 subtype: censor
 kind: 3rd-level features
-keywords: Area, Magic **Type:** Maneuver **Distance:** 2 aura **Target:** Each enemy in the area
-keyword_list:
-  - Area
-  - Magic **Type:** Maneuver **Distance:** 2 aura **Target:** Each enemy in the area
+ability_type: Maneuver
+distance: 2 aura
+target: Each enemy in the area
 ---
 
 # Edict Of Stillness (7 Wrath)
 
-*Flee not from just punishment.*
+*Flee not from just punishment.* **Keywords:** Area, Magic
 
-|                                                                                                      |             |
-| :--------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic **Type:** Maneuver **Distance:** 2 aura **Target:** Each enemy in the area | **Type:**   |
-| **Distance:**                                                                                        | **Target:** |
+|                      |                                    |
+| :------------------- | :--------------------------------- |
+| **Keywords:**        | **Type:** Maneuver                 |
+| **Distance:** 2 aura | **Target:** Each enemy in the area |
 
 **Effect:** Until the end of the encounter or you are dying, whenever a target is force moved or moves willingly out of the aura, they take holy damage equal to twice your Presence score. A target judged by you who moves willingly takes an extra 2d6 holy damage.

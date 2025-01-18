@@ -7,21 +7,19 @@ cost: 11 Wrath
 type: classes
 subtype: censor
 kind: 9th-level features
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 judged creature
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 judged creature
+ability_type: Action
+distance: Melee 1
+target: 1 judged creature
 ---
 
 # Apostate (11 Wrath)
 
-*You channel holy energy to seal an enemy's fate.*
+*You channel holy energy to seal an enemy's fate.* **Keywords:** Melee, Strike, Weapon
 
-|                                                                                                          |             |
-| :------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 judged creature | **Type:**   |
-| **Distance:**                                                                                            | **Target:** |
+|                       |                               |
+| :-------------------- | :---------------------------- |
+| **Keywords:**         | **Type:** Action              |
+| **Distance:** Melee 1 | **Target:** 1 judged creature |
 
 **Power Roll + Might:**
 

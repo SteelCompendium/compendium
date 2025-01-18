@@ -16,4 +16,4 @@ As a 8th-level tactician, you gain the following features.
 
 [PERK](./Perk.md)
 
-[11-FOCUS ABILITIES](./11-Focus%20Abilities.md)
+[11-FOCUS ABILITIES](./11-Focus%20Abilities/11-Focus%20Abilities.md)

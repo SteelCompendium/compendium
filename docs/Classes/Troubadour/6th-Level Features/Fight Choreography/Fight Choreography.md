@@ -7,21 +7,19 @@ cost: 9 Drama
 type: classes
 subtype: troubadour
 kind: 6th-level features
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
+ability_type: Action
+distance: Melee 1
+target: 1 creature
 ---
 
 # Fight Choreography (9 Drama)
 
-*You and your partner make a flashy show of derring-do, then back to your corners.*
+*You and your partner make a flashy show of derring-do, then back to your corners.* **Keywords:** Melee, Strike, Weapon
 
-|                                                                                                   |             |
-| :------------------------------------------------------------------------------------------------ | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature | **Type:**   |
-| **Distance:**                                                                                     | **Target:** |
+|                       |                        |
+| :-------------------- | :--------------------- |
+| **Keywords:**         | **Type:** Action       |
+| **Distance:** Melee 1 | **Target:** 1 creature |
 
 **Effect:** You and the target uses a single melee free strike that targets all enemies within 3 of you. You choose which enemies you target with your free strike and your target targets with their free strike. You then slide the target 5 squares, ignoring their stability.
 

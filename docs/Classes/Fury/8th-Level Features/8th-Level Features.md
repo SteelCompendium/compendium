@@ -16,6 +16,6 @@ As a 8th-level fury, you gain the following features.
 
 [PERK](./Perk.md)
 
-[11-RAGE ABILITIES](./11-Rage%20Abilities.md)
+[11-RAGE ABILITIES](./11-Rage%20Abilities/11-Rage%20Abilities.md)
 
 [PRIMORDIAL FURY (11 RAGE)](./Primordial%20Fury.md)

@@ -7,23 +7,18 @@ cost: 9 Clarity
 type: classes
 subtype: talent
 kind: 5th-level features
-keywords: Animapathy, Psionic, Ranged, Strike
-keyword_list:
-  - Animapathy
-  - Psionic
-  - Ranged
-  - Strike
-ability_type: Action **Distance:** Ranged 10 **Target:** 2 enemies
+distance: Ranged 10
+target: 2 enemies
 ---
 
 # Soulbound (9 Clarity)
 
-*You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.*
+*You fire a piercing bolt of psychic energy that lances through two foes and leaves a faint intangible thread between them.* **Keywords:** Animapathy, Psionic, Ranged, Strike **Type:** Action
 
-|                                                   |                                                                |
-| :------------------------------------------------ | :------------------------------------------------------------- |
-| **Keywords:** Animapathy, Psionic, Ranged, Strike | **Type:** Action **Distance:** Ranged 10 **Target:** 2 enemies |
-| **Distance:**                                     | **Target:**                                                    |
+|                         |                       |
+| :---------------------- | :-------------------- |
+| **Keywords:**           | **Type:**             |
+| **Distance:** Ranged 10 | **Target:** 2 enemies |
 
 - **Power Roll + Presence:**
 - *11 or lower:* 8 **damage; A \< \[weak\] directly stitched to other target (save ends)**

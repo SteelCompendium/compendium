@@ -7,20 +7,18 @@ cost: 9 Wrath
 type: classes
 subtype: censor
 kind: 5th-level features
-keywords: Area **Type:** Maneuver
-keyword_list:
-  - Area **Type:** Maneuver
-distance: 1 burst **Target:** Self and all allies
+ability_type: Maneuver
+target: Self and all allies **Keywords:** Area
 ---
 
 # Orison Of Victory (9 Wrath)
 
-*You channel your god's will to overcome hardship and inflict pain.*
+*You channel your god's will to overcome hardship and inflict pain.* **Distance:** 1 burst
 
-|                                                       |             |
-| :---------------------------------------------------- | :---------- |
-| **Keywords:** Area **Type:** Maneuver                 | **Type:**   |
-| **Distance:** 1 burst **Target:** Self and all allies | **Target:** |
+|               |                                                    |
+| :------------ | :------------------------------------------------- |
+| **Keywords:** | **Type:** Maneuver                                 |
+| **Distance:** | **Target:** Self and all allies **Keywords:** Area |
 
 **Power Roll + Presence:**
 

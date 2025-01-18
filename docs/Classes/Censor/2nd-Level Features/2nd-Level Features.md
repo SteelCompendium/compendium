@@ -22,8 +22,6 @@ As a 2nd-level censor, you gain the following features.
 
 [IT IS JUSTICE YOU FEAR (5 WRATH)](./It%20Is%20Justice%20You%20Fear.md)
 
-[Distance:\*\* Ranged 10 \*\*Target: One creature](./Distance%20Ranged%2010%20Target%20One%20Creature.md)
-
 [REVELATOR (5 WRATH)](./Revelator/Revelator.md)
 
 [PRESCIENT GRACE (5 WRATH)](./Prescient%20Grace.md)

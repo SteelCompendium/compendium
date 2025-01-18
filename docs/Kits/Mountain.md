@@ -4,12 +4,8 @@ title: Mountain
 name_raw: Mountain
 name: Mountain
 type: kits
-keywords: Melee, Strike, Weapon **Type:** Action
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action
-distance: Melee 1 **Target:** 1 creature
+ability_type: Action **Distance:** Melee 1
+target: 1 creature
 ---
 
 # Mountain
@@ -28,12 +24,12 @@ You wear heavy armor and wield a heavy weapon.
 
 ## Pain For Pain
 
-*An enemy who tagged you will pay for that.*
+*An enemy who tagged you will pay for that.* **Keywords:** Melee, Strike, Weapon
 
-|                                                      |             |
-| :--------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action | **Type:**   |
-| **Distance:** Melee 1 **Target:** 1 creature         | **Target:** |
+|               |                                        |
+| :------------ | :------------------------------------- |
+| **Keywords:** | **Type:** Action **Distance:** Melee 1 |
+| **Distance:** | **Target:** 1 creature                 |
 
 **Power Roll + Might or Agility:**
 

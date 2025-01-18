@@ -1,0 +1,25 @@
+---
+title_raw: Word Of Judgment
+title: Word Of Judgment
+name_raw: Word Of Judgment
+name: Word Of Judgment
+type: classes
+subtype: conduit
+kind: 1st-level features
+ability_type: Triggered
+distance: Ranged 10
+target: One ally **Trigger:** The target takes damage from an ability that requires a power roll.
+---
+
+# Word Of Judgment
+
+*Your holy word saps an attacking enemy's strength.* **Keywords:** Magic, Ranged
+
+|                         |                                                                                                       |
+| :---------------------- | :---------------------------------------------------------------------------------------------------- |
+| **Keywords:**           | **Type:** Triggered                                                                                   |
+| **Distance:** Ranged 10 | **Target:** One ally **Trigger:** The target takes damage from an ability that requires a power roll. |
+
+**Effect:** The power roll gains a bane against the target.
+
+**Spend 1 Piety:** The power roll gains a double bane against the target.

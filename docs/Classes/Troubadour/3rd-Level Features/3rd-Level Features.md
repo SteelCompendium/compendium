@@ -27,3 +27,5 @@ As a 3rd-level troubadour, you gain the following features.
 [INFERNAL GAVOTTE (7 DRAMA)](./Infernal%20Gavotte.md)
 
 [VIRTUOSO'S SOLO (7 DRAMA)](./Virtuosos%20Solo.md)
+
+[WE MEET AT LAST. LET'S FINISH THIS (7 DRAMA)](./We%20Meet%20At%20Last%20Lets%20Finish%20This.md)

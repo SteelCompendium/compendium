@@ -7,15 +7,20 @@ cost: 3 Wrath
 type: classes
 subtype: censor
 kind: 1st-level features
+distance: Ranged 10
+target: One creature \|
 ---
 
 # Repent! (3 Wrath)
 
-*You conjure memories of their sins.*
+*You conjure memories of their sins.* **Keywords:** Magic, Ranged, Strike
 
-| Keywords: Magic, Ranged, Strike | Type: Action         |
-| ------------------------------- | -------------------- |
-| Distance: Ranged 10             | Target: One creature |
+| **Type:** Action                     |                                   |
+| ------------------------------------ | --------------------------------- |
+|                                      |                                   |
+| :----------------------------------- | :-------------------------------- |
+| **Keywords:**                        | **Type:**                         |
+| **Distance:** Ranged 10              | **Target:** One creature \|       |
 
 **Power Roll + Presence:**
 

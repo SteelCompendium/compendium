@@ -6,23 +6,18 @@ name: Unquiet Ground
 type: classes
 subtype: elementalist
 kind: 1st-level features
-keywords: Area, Earth, Magic, Ranged **Type:** Action **Distance:** 2 cube within 10
-keyword_list:
-  - Area
-  - Earth
-  - Magic
-  - Ranged **Type:** Action **Distance:** 2 cube within 10
-target: Each enemy in the area
+ability_type: Action
+distance: 2 cube within 10 **Target:** Each enemy in the area
 ---
 
 # Unquiet Ground
 
-*A sudden storm of detritus assaults your foes and leaves them struggling to move.*
+*A sudden storm of detritus assaults your foes and leaves them struggling to move.* **Keywords:** Area, Earth, Magic, Ranged
 
-|                                                                                          |                                    |
-| :--------------------------------------------------------------------------------------- | :--------------------------------- |
-| **Keywords:** Area, Earth, Magic, Ranged **Type:** Action **Distance:** 2 cube within 10 | **Type:**                          |
-| **Distance:**                                                                            | **Target:** Each enemy in the area |
+|                                                                   |                  |
+| :---------------------------------------------------------------- | :--------------- |
+| **Keywords:**                                                     | **Type:** Action |
+| **Distance:** 2 cube within 10 **Target:** Each enemy in the area | **Target:**      |
 
 **Power Roll + Reason:**
 

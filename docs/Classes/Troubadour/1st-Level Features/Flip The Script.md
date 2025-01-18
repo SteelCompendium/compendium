@@ -7,19 +7,18 @@ cost: 5 Drama
 type: classes
 subtype: troubadour
 kind: 1st-level features
-keywords: Area, Magic **Type:** Action **Distance:** 3 burst **Target:** Self and each ally in the area
-keyword_list:
-  - Area
-  - Magic **Type:** Action **Distance:** 3 burst **Target:** Self and each ally in the area
+ability_type: Action
+distance: 3 burst
+target: Self and each ally in the area
 ---
 
 # Flip The Script (5 Drama)
 
-*You try a different take on events, justifying the new locations everyone ended up in.*
+*You try a different take on events, justifying the new locations everyone ended up in.* **Keywords:** Area, Magic
 
-|                                                                                                             |             |
-| :---------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Magic **Type:** Action **Distance:** 3 burst **Target:** Self and each ally in the area | **Type:**   |
-| **Distance:**                                                                                               | **Target:** |
+|                       |                                            |
+| :-------------------- | :----------------------------------------- |
+| **Keywords:**         | **Type:** Action                           |
+| **Distance:** 3 burst | **Target:** Self and each ally in the area |
 
 **Effect:** Each target can immediately teleport up to 5 squares. Any teleported target who was slowed is no longer slowed.

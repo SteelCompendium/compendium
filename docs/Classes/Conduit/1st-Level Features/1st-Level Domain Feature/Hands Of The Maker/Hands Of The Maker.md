@@ -10,6 +10,6 @@ kind: 1st-level features
 
 # Hands Of The Maker
 
-You gain the following ability:
+You gain the following ability.
 
 [HANDS OF THE MAKER](./Hands%20Of%20The%20Maker.md)

@@ -7,17 +7,23 @@ cost: 3 Piety
 type: classes
 subtype: conduit
 kind: 1st-level features
-distance: 3 cube within 10 **Target:** Each enemy in the area
+keywords: Area, Magic, Ranged
+keyword_list:
+  - Area
+  - Magic
+  - Ranged
+ability_type: Action **Distance:** 3 cube within 10
+target: Each enemy in the area
 ---
 
 # Call The Thunder Down (3 Piety)
 
-*You ask your saint for thunder and your prayer is answered.* **Keywords:** Area, Magic, Ranged **Type:** Action
+*You ask your saint for thunder and your prayer is answered.*
 
-|                                                                   |             |
-| :---------------------------------------------------------------- | :---------- |
-| **Keywords:**                                                     | **Type:**   |
-| **Distance:** 3 cube within 10 **Target:** Each enemy in the area | **Target:** |
+|                                   |                                                 |
+| :-------------------------------- | :---------------------------------------------- |
+| **Keywords:** Area, Magic, Ranged | **Type:** Action **Distance:** 3 cube within 10 |
+| **Distance:**                     | **Target:** Each enemy in the area              |
 
 **Power Roll + Intuition:**
 

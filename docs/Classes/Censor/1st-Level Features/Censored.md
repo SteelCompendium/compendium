@@ -7,21 +7,19 @@ cost: 5 Wrath
 type: classes
 subtype: censor
 kind: 1st-level features
-keywords: Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
-keyword_list:
-  - Melee
-  - Strike
-  - Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature
+ability_type: Action
+distance: Melee 1
+target: One creature
 ---
 
 # Censored (5 Wrath)
 
-*Judged and sentenced.*
+*Judged and sentenced.* **Keywords:** Melee, Strike, Weapon
 
-|                                                                                                     |             |
-| :-------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** One creature | **Type:**   |
-| **Distance:**                                                                                       | **Target:** |
+|                       |                          |
+| :-------------------- | :----------------------- |
+| **Keywords:**         | **Type:** Action         |
+| **Distance:** Melee 1 | **Target:** One creature |
 
 **Power Roll + Might:**
 

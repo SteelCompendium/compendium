@@ -6,21 +6,19 @@ name: Staggering Curse
 type: classes
 subtype: conduit
 kind: 1st-level features
-keywords: Magic, Melee, Strike **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
-keyword_list:
-  - Magic
-  - Melee
-  - Strike **Type:** Action **Distance:** Melee 1 **Target:** One creature or object
+ability_type: Action
+distance: Melee 1
+target: One creature or object
 ---
 
 # Staggering Curse
 
-*A blast of judgment disorients your foe.*
+*A blast of judgment disorients your foe.* **Keywords:** Magic, Melee, Strike
 
-|                                                                                                              |             |
-| :----------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Magic, Melee, Strike **Type:** Action **Distance:** Melee 1 **Target:** One creature or object | **Type:**   |
-| **Distance:**                                                                                                | **Target:** |
+|                       |                                    |
+| :-------------------- | :--------------------------------- |
+| **Keywords:**         | **Type:** Action                   |
+| **Distance:** Melee 1 | **Target:** One creature or object |
 
 **Power Roll + Intuition:**
 

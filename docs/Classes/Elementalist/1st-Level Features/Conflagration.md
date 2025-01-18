@@ -7,23 +7,18 @@ cost: 5 Essence
 type: classes
 subtype: elementalist
 kind: 1st-level features
-keywords: Area, Fire, Magic, Ranged **Type:** Action **Distance:** 3 cube within 10
-keyword_list:
-  - Area
-  - Fire
-  - Magic
-  - Ranged **Type:** Action **Distance:** 3 cube within 10
-target: Each enemy in the area
+ability_type: Action
+distance: 3 cube within 10 **Target:** Each enemy in the area
 ---
 
 # Conflagration (5 Essence)
 
-*A storm of fire descends upon your enemies.*
+*A storm of fire descends upon your enemies.* **Keywords:** Area, Fire, Magic, Ranged
 
-|                                                                                         |                                    |
-| :-------------------------------------------------------------------------------------- | :--------------------------------- |
-| **Keywords:** Area, Fire, Magic, Ranged **Type:** Action **Distance:** 3 cube within 10 | **Type:**                          |
-| **Distance:**                                                                           | **Target:** Each enemy in the area |
+|                                                                   |                  |
+| :---------------------------------------------------------------- | :--------------- |
+| **Keywords:**                                                     | **Type:** Action |
+| **Distance:** 3 cube within 10 **Target:** Each enemy in the area | **Target:**      |
 
 **Power Roll + Reason:**
 

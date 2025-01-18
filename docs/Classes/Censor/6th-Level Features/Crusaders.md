@@ -7,11 +7,24 @@ cost: 9 Wrath
 type: classes
 subtype: censor
 kind: 6th-level features
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
+ability_type: Action
+distance: Melee 1
+target: 1 creature
 ---
 
 # Crusaders (9 Wrath)
 
-*You focus your allies on your judged foe.* **Keywords:** Melee, Strike, Weapon **Type:** Action **Distance:** Melee 1 **Target:** 1 creature
+*You focus your allies on your judged foe.*
+
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action       |
+| **Distance:** Melee 1               | **Target:** 1 creature |
 
 **Power Roll + Might:**
 
