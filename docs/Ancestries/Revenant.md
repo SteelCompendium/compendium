@@ -29,13 +29,13 @@ These revenants are rare. Many are [[Hunted|hunted]] by ignorant villagers who s
 
 "No one knows we're here. No one even knows this place exists! We got all day. We stash everything here, and take a sample to ..." The head thief pulled a vial out of a crate stuffed with straw and looked at it.
 
-"It's just ..." The junior cutpurse spoke nervously. "There was this lady knight in Blackbottom sniffing around. She seemed serious. I got this weird ... chill when I looked at her."
+"It's just ..." The junior cutpurse spoke nervously. "There was this lady [[Knight|knight]] in Blackbottom sniffing around. She seemed serious. I got this weird ... chill when I looked at her."
 
 "Hey," the head thief said, his brow furrowed as he looked at the label on the vial. "Where'd you say you bought this stuff? You said a ship--a ship from where?"
 
 "I dunno, uh ... uh, Capital I think."
 
-The head thief looked at the panicking cutpurse. "This lady knight--she have a red and blue device on her shield?"
+The head thief looked at the panicking cutpurse. "This lady [[Knight|knight]]--she have a red and blue device on her shield?"
 
 "Black gods," one of the other thieves said. "It can't be Lady Filliamo, can it?"
 
@@ -55,11 +55,11 @@ One of the four thieves opened a vial and dipped his dirk into the red oil withi
 
 "What is *that* gonna do? *She's already dead*!" Another knock at the hidden door. "Forget it. Let her knock. [[Grab]] as many as you can, and we'll go out the back."
 
-The head thief ran for the door out the back of the safe house. He jerked it open--and the other thieves watched as a silver flash silently flared across his forehead. Through the open door, they could see the silhouette of the knight, her open hand held up in front of her.
+The head thief ran for the door out the back of the safe house. He jerked it open--and the other thieves watched as a silver flash silently flared across his forehead. Through the open door, they could see the silhouette of the [[Knight|knight]], her open hand held up in front of her.
 
 She clenched her hand into a fist and the judgment she had placed on the head cutpurse detonated, hurling him backward. He sprawled across the floor, conscious but stunned.
 
-The gray-skinned knight walked into the room. Metal heels rang out on the wooden floor. She seemed relaxed, but her eyes burned with inner fire.
+The gray-skinned [[Knight|knight]] walked into the room. Metal heels rang out on the wooden floor. She seemed relaxed, but her eyes burned with inner fire.
 
 "Boys," Lady Filliamo said pleasantly. "Busy morning."
 
@@ -79,7 +79,7 @@ Lady Filliamo made a broad gesture with her right hand and argent marks flared a
 
 "Hang on, you can't arrest us," one of the thieves, unarmed and still holding his hands up, said. "This isn't Capital. You don't have jurisdiction!"
 
-Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city watch." She drew her silver sword a few inches from the scabbard just to show them the blade.
+Lady Filliamo shrugged. "I'm a [[Knight|knight]] of the church. Jurisdiction's for the city watch." She drew her silver sword a few inches from the scabbard just to show them the blade.
 
 "I deal in steel."
 

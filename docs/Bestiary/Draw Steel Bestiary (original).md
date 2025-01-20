@@ -623,13 +623,13 @@ Although [[Bredbeddle|bredbeddles]] have no traditional sensory organs of their 
 
 ### IMMORTAL WANDERERS
 
-[[Bredbeddle|Bredbeddles]] don't age, and if they are slain, their bodies reform a few days later. Long ago, [[Bredbeddle|bredbeddles]] were giants who stood high among the nobility of giant kind. But when they declared themselves rulers of all giant kind, their kin thwarted the coup and beheaded the [[Bredbeddle|bredbeddles]]. Now these fallen nobles search the world for their missing heads, each wielding the axe that decapitated them. Many claim their heads are kept for safekeeping in some fire giant's cellar to be returned after an indeterminate period of good behavior (which the [[Bredbeddle|bredbeddles]] have thus far not exhibited).
+[[Bredbeddle|Bredbeddles]] don't age, and if they are slain, their bodies reform a few days later. Long ago, [[Bredbeddle|bredbeddles]] were giants who stood high among the nobility of giant kind. But when they declared themselves rulers of all giant kind, their kin thwarted the coup and beheaded the [[Bredbeddle|bredbeddles]]. Now these fallen [[Noble|nobles]] search the world for their missing heads, each wielding the axe that decapitated them. Many claim their heads are kept for safekeeping in some fire giant's cellar to be returned after an indeterminate period of good behavior (which the [[Bredbeddle|bredbeddles]] have thus far not exhibited).
 
 ### GREEN WITH FRENZY
 
 The longer a [[Bredbeddle|bredbeddle]] goes without a head, the more twisted and desperate their power grows. Their desire to be whole stretches out of their body in the form of shadowy dark-green ribbons, wrapping around and clinging to every surface they spill onto.
 
-Travelers warn one another of roads rumored to be haunted by “wild green knights,” with many avoiding those routes for months. For no journey is worth losing your head over.
+Travelers warn one another of roads rumored to be haunted by “wild green [[Knight|knights]],” with many avoiding those routes for months. For no journey is worth losing your head over.
 
 ### BREDBEDDLE MALICE
 
@@ -2055,11 +2055,11 @@ Three of the battle walker's size 1 allies can occupy the same space while ridin
 
 ## ELVES, HIGH
 
-The children of the solar celestials. The high elves were created to tend to the sun elves as librarians and heralds. They sequester themselves away from the world, remembering a better age before the arrival of war.
+The children of the solar celestials. The high elves were created to tend to the sun elves as [[Librarian|librarians]] and heralds. They sequester themselves away from the world, remembering a better age before the arrival of war.
 
 ### GLAMOROUS
 
-The high elves are svelte and hold an unwavering poise worthy of a noble background. They also emit a glamor that allows them to take on any skin, hair, or eye color they desire. Each person sees this glamor slightly differently, emphasizing some details over others based on one's own values and fascinations.
+The high elves are svelte and hold an unwavering poise worthy of a [[Noble|noble]] background. They also emit a glamor that allows them to take on any skin, hair, or eye color they desire. Each person sees this glamor slightly differently, emphasizing some details over others based on one's own values and fascinations.
 
 ### CRADLES
 
@@ -2067,7 +2067,7 @@ The high elves employ magical porcelain structures called cradles that can chang
 
 ### UNSEEN HANDS WILL ILLUMINATE THEIR UNCHANGED MINDS
 
-Unseen Hands Will Illuminate Their Unchanged Minds are a sect of high elf radicals who believe they have stumbled upon sky elf texts detailing their downfall by the hands of the sun elves. The story surrounding their purported discoveries has twisted into a narrative decrying all modern society for benefiting from the lore accumulated in service to the sun elves. The sect [[Hide|hides]] among high elf society in plain sight, slowly manipulating nobles and reshaping the world as they see fit.
+Unseen Hands Will Illuminate Their Unchanged Minds are a sect of high elf radicals who believe they have stumbled upon sky elf texts detailing their downfall by the hands of the sun elves. The story surrounding their purported discoveries has twisted into a narrative decrying all modern society for benefiting from the lore accumulated in service to the sun elves. The sect [[Hide|hides]] among high elf society in plain sight, slowly manipulating [[Noble|nobles]] and reshaping the world as they see fit.
 
 ### SURROUND AND SUPPRESS
 
@@ -4765,19 +4765,19 @@ Target: One creature or object
 - ✦ ≤11: 4 damage; M1 [[Grabbed|grabbed]]
 - ★ 12-16: 7 damage; M2 [[Grabbed|grabbed]]
 - ✸ 17+: 10 damage; M3 [[Grabbed|grabbed]]
-    Effect: The target has a bane on attempts to escape the [[Grab|grab]]. The brawler has edge on this attack if the target is already [[Grabbed|grabbed]].
+    Effect: The target has a bane on attempts to escape the [[Grab|grab]]. The [[Brawler|brawler]] has edge on this attack if the target is already [[Grabbed|grabbed]].
 
 **Throw (Maneuver)** ◆ 1 Malice
 Keywords: --
 Distance: Melee 1
-Target: One creature [[Grabbed|grabbed]] by the brawler
+Target: One creature [[Grabbed|grabbed]] by the [[Brawler|brawler]]
 Effect: Push 5.
 
 **Shoot the Hostage**
-The brawler takes half damage from attacks if they have a creature or object [[Grabbed|grabbed]]. The [[Grabbed|grabbed]] creature or object takes the other half of the damage.
+The [[Brawler|brawler]] takes half damage from attacks if they have a creature or object [[Grabbed|grabbed]]. The [[Grabbed|grabbed]] creature or object takes the other half of the damage.
 
 **Supernatural Insight**
-The brawler can target supernatural creatures and objects within 5 squares, even if they don't have line of effect.
+The [[Brawler|brawler]] can target supernatural creatures and objects within 5 squares, even if they don't have line of effect.
 
 #### HUMAN DEATH CULTIST
 
@@ -6382,7 +6382,7 @@ The pursuit of arcane studies is unusual among radenwights, though the community
 
 ### THE GREAT MACLETTE
 
-The name Maclette is never uttered without "The Great" before it. The [[Radenwight Maestro|radenwight maestro]] leads his band in complex city-wide robberies that always seem to be one step ahead of any would-be ratcatchers. Some say Maclette leads his life of crime to provide for his meddle, while others claim he strives to be king of the [[Criminal|criminal]] world. In truth, The Great Maclette finds beauty in the thrill of the heist. Robbery is as euphonious as music to his ears, and the maestro treats every operation like a new composition. As long as his band remains at large, he'll always be looking to outdo himself with his next great masterpiece.
+The name Maclette is never uttered without "The Great" before it. The [[Radenwight Maestro|radenwight maestro]] leads his band in complex city-wide robberies that always seem to be one step ahead of any would-be [[Ratcatcher|ratcatchers]]. Some say Maclette leads his life of crime to provide for his meddle, while others claim he strives to be king of the [[Criminal|criminal]] world. In truth, The Great Maclette finds beauty in the thrill of the heist. Robbery is as euphonious as music to his ears, and the [[Maestro|maestro]] treats every operation like a new composition. As long as his band remains at large, he'll always be looking to outdo himself with his next great masterpiece.
 
 ### RADENWIGHT LANGUAGES
 
@@ -6697,9 +6697,9 @@ Keywords: Area, Magic
 Distance: 5 burst
 Target: All enemies in the burst
 
-- ✦ ≤11: 3 sonic damage; slide 1; the maestro can shift 1 square
-- ★ 12-16: 5 sonic damage; slide 3; the maestro can shift 3 squares
-- ✸ 17+: 7 sonic damage; slide 5; the maestro can shift 5 squares
+- ✦ ≤11: 3 sonic damage; slide 1; the [[Maestro|maestro]] can shift 1 square
+- ★ 12-16: 5 sonic damage; slide 3; the [[Maestro|maestro]] can shift 3 squares
+- ✸ 17+: 7 sonic damage; slide 5; the [[Maestro|maestro]] can shift 5 squares
     Effect: Each ally within distance can use Ready Rodent as a free triggered action once before the end of the round.
 
 **Tempo Change (Maneuver)** ◆ PRS RR
@@ -6717,10 +6717,10 @@ Keywords: Magic, Melee, Ranged
 Distance: Ranged 5
 Target: One creature
 Trigger: The target deals damage to an ally or takes damage from an ally.
-Effect: The maestro makes a [[Free Strike|free strike]] against the target. The maestro can only use this ability once per turn.
+Effect: The [[Maestro|maestro]] makes a [[Free Strike|free strike]] against the target. The [[Maestro|maestro]] can only use this ability once per turn.
 
 **End Effect**
-At the end of their turn, the maestro can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
+At the end of their turn, the [[Maestro|maestro]] can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
 
 **Overture (Villain Action 1)**
 Keywords: Area
@@ -6748,7 +6748,7 @@ Effect: Each target stands, makes a [[Free Strike|free strike]], then collapses 
 
 Some serve as mindless [[Soldier|soldiers]] and workers under the control of a necromancer. Others rise when they die a bitter death in a place infused with cursed magic. For a few, it was a choice to become something other than a mortal. No matter the reason for their creation, all undead were once living creatures who [[Walk|walk]] the land after death in defiance of the natural order.
 
-[[Rotting Zombie|Rotting zombies]], seductive vampires, wailing wraiths, and more undead stalk the widespread horror stories nobles and commoners alike tell each other around low-burning hearths. Even the most isolated hermits know that the dead can rise, eager to kill. These popular tales fuel many people's fears of the undead. Mere rumors of a nearby [[Ghoul|ghoul]] pack can send an entire community into a panic. When open graves appear in the churchyard or a translucent spirit is spotted on the street, local leaders are quick to hire adventurers to deal with the threat.
+[[Rotting Zombie|Rotting zombies]], seductive vampires, wailing wraiths, and more undead stalk the widespread horror stories [[Noble|nobles]] and commoners alike tell each other around low-burning hearths. Even the most isolated hermits know that the dead can rise, eager to kill. These popular tales fuel many people's fears of the undead. Mere rumors of a nearby [[Ghoul|ghoul]] pack can send an entire community into a panic. When open graves appear in the churchyard or a translucent spirit is spotted on the street, local leaders are quick to hire adventurers to deal with the threat.
 
 ### DARK PLACES
 
@@ -7150,7 +7150,7 @@ Target: Each enemy in the burst
 **Arise**
 The first time the [[Zombie|zombie]] is reduced to Stamina 0 by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina and fall [[Prone|prone]].
 
-**Endless Knight**
+**Endless [[Knight]]**
 The [[Zombie|zombie]] can take advantage of their Arise trait twice.
 
 #### GHOST
@@ -7750,7 +7750,7 @@ When you see the blood in their eyes, the [[Werewolf|werewolf]] is already upon 
 
 ### BROKERED OR CURSED
 
-The curse of the [[Werewolf|werewolf]] is actively sought out by terrible nobles and rulers looking to extend their power and instill fear into their people. They secure deals with [[Devil|devils]] who can tap into the Primordial Chaos and unleash their beast, usually in exchange for relinquishing their legacy after they come to pass.
+The curse of the [[Werewolf|werewolf]] is actively sought out by terrible [[Noble|nobles]] and rulers looking to extend their power and instill fear into their people. They secure deals with [[Devil|devils]] who can tap into the Primordial Chaos and unleash their beast, usually in exchange for relinquishing their legacy after they come to pass.
 
 Laypeople don't have the luxury of a legacy, nor do they have councils that can help temper a [[Werewolf|werewolf]]. They know full well the horror of losing yourself to the beast and take action to rout out the threat of a [[Werewolf|werewolf]] among their own. Fear leaves them submissive to the demands of cursed kings, yet oppressive to their own accursed kin.
 

@@ -177,7 +177,7 @@ _Two gangplanks are lowered between the ships, a ragtag group of [[Raider|raider
 
 Use the [[Pirate]] Attack Map for this encounter.
 
-Three groups of [[Human|human]] [[Pirate|pirates]] have crossed the gangplanks by the time the characters arrive on the scene: a scoundrel captain and two guards, a brawler captain and two [[Raider|raiders]], and three archers. The [[Pirate|pirates]] want the passengers’ valuables, not their lives, but they’re not above using [[Human|human]] shields or gravely wounding innocents if the heroes take them on.
+Three groups of [[Human|human]] [[Pirate|pirates]] have crossed the gangplanks by the time the characters arrive on the scene: a scoundrel captain and two guards, a [[Brawler|brawler]] captain and two [[Raider|raiders]], and three archers. The [[Pirate|pirates]] want the passengers’ valuables, not their lives, but they’re not above using [[Human|human]] shields or gravely wounding innocents if the heroes take them on.
 
 Both of the heavy wooden gangplanks can be lifted and shoved off the ship’s rail with a [[Medium|medium]] Might test, letting it tumble into the sea and preventing more [[Pirate|pirates]] from crossing over on it (see Villain Power below). Each gangplank also has Stamina 10 and fire weakness 5 if attacked or caught in a damaging area effect. If a gangplank is pushed away from the ship or destroyed, any creature standing on it falls into the sea, 3 squares below deck level.
 
@@ -185,7 +185,7 @@ Four civilians remain on the deck at the start of the fight, each a noncombatant
 
 #### TACTICS
 
-The brawler attempts to [[Grab|grab]] the nearest noncombatant as a shield, leaving nearby heroes to deal with the [[Raider|raiders]]. The scoundrel and their guards select the nearest hero and focus attacks on them, attempting to pick characters off one by one. The archers make ranged attacks from the back ranks, doing their best to stay out of melee.
+The [[Brawler|brawler]] attempts to [[Grab|grab]] the nearest noncombatant as a shield, leaving nearby heroes to deal with the [[Raider|raiders]]. The scoundrel and their guards select the nearest hero and focus attacks on them, attempting to pick characters off one by one. The archers make ranged attacks from the back ranks, doing their best to stay out of melee.
 
 At the start of each round, if at least one gangplank is still up, a group of two [[Raider|raiders]] appears at the far end of a gangplank and prepares to board on their turn.
 
@@ -286,7 +286,7 @@ The Revelation (or the flotilla of lifeboats that hold her crew and passengers) 
 Even as the heroes and Captain Oriel step onto the docks alongside the ship’s passengers and crew, two Hawklords serving Ajax the Invincible drop from the sky to confront them. They are:
 
 - **Coriad**, a [[Human|human]] trickshot atop a [[Giant Hawk|giant hawk]]
-- **Tyria**, a [[Human|human]] brawler atop a [[Giant Hawk|giant hawk]]
+- **Tyria**, a [[Human|human]] [[Brawler|brawler]] atop a [[Giant Hawk|giant hawk]]
 
 Coriad and Tyria both caught sight of the Revelation’s misfortune while on patrol above the city, though they were unable to reach the ship during the [[Pirate|pirate]] attack. After ensuring that everyone is safe, they demand an explanation.
 

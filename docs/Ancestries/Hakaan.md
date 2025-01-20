@@ -126,10 +126,10 @@ Your hearty constitution prevents you from losing strength. You can't be [[Weake
 
 #### Doomsight (costs 2 Points)
 
-Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically get tier 3 results on tests and ability power rolls, and you don't die no matter how low your Stamina falls. You then die immediately at the end of the encounter.
+Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become [[Doomed|doomed]]. While [[Doomed|doomed]], you automatically get tier 3 results on tests and ability power rolls, and you don't die no matter how low your Stamina falls. You then die immediately at the end of the encounter.
 
-If you don't predetermine your death encounter, you can choose to become doomed while you are dying with the director's approval (no action required). Doing so should be reserved for encounters in which you are dying as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to
+If you don't predetermine your death encounter, you can choose to become [[Doomed|doomed]] while you are dying with the director's approval (no action required). Doing so should be reserved for encounters in which you are dying as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to
 
 you--not because you're playing a one-shot and have nothing to lose, Hacaarl.
 
-Additionally, when your Stamina equals the negative of your winded value and you are not doomed, you turn to rubble instead of experiencing death. You are unaware of your surroundings in this state. After 12 hours, you regain Stamina equal to your Recovery value.
+Additionally, when your Stamina equals the negative of your winded value and you are not [[Doomed|doomed]], you turn to rubble instead of experiencing death. You are unaware of your surroundings in this state. After 12 hours, you regain Stamina equal to your Recovery value.

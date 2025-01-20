@@ -43,6 +43,6 @@
 
 The first time the zombie is reduced to Stamina 0 by damage that isn't fire damage or holy damage and their body isn't destroyed, they regain half their Stamina and fall [[Prone|prone]].
 
-**Endless Knight**
+**Endless [[Knight]]**
 
 The zombie can take advantage of their Arise trait twice.

@@ -44,7 +44,7 @@ Is there some rare trait that makes you uniquely qualified to lead disparate peo
 
 Those great humans, your ancestors, did not focus on differences. They did not weigh different people and grade them based on arbitrary traits deemed virtues and flaws. That is what Ajax does. No, those humans focused on the future. On making a better world ... for all of us. A world many of them knew they would not live to see. That is a sacrifice ... I can scarcely imagine.
 
-The people who stand against Ajax and tyrants like him will be just like you--normal people. Priests and scholars and merchants and [[Farmer|farmers]]. Maybe even teachers.
+The people who stand against Ajax and tyrants like him will be just like you--normal people. Priests and scholars and merchants and [[Farmer|farmers]]. Maybe even [[Teacher|teachers]].
 
 Stopping Ajax will require you to become something else. You must become heroes. Conduits of saints, warmasters of great armies. Censors and shadows. That may seem unlikely now, but the future has a way of surprising us.
 

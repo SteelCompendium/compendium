@@ -8,7 +8,7 @@ type: complications
 
 # Frostheart
 
-At the edge of the world, you were lost in a winter storm and presumed dead--but returned with frosty skin and pale eyes.
+At the edge of the world, you were lost in a winter storm and [[Presumed Dead|presumed dead]]--but returned with frosty skin and pale eyes.
 
 **Benefit:** You have cold immunity 5. When you would deal untyped damage with strike, you can instead deal cold damage.
 

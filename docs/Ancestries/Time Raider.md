@@ -72,7 +72,7 @@ Slowly everyone assembled could make out the sounds of a conversation, quiet wit
 
 "Oh, thank you for the brilliant tactical advice," another voice, high pitched, piped up.
 
-Suddenly, the images became three dimensional, solid, and four heroes stood among them. A [[Human|human]] in working battle plate. A [[Polder|polder]] with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. And a [[Dragon Knight]]. The people of the town gasped when they saw him. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
+Suddenly, the images became three dimensional, solid, and four heroes stood among them. A [[Human|human]] in working battle plate. A [[Polder|polder]] with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. And a [[Dragon Knight]]. The people of the town gasped when they saw him. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the [[Knight|knight]]'s shield.
 
 The war dogs scrambled. For a moment, it seemed they might flee at this sudden intrusion, but the Taxiarch bellowed "Hold fast!" and they held their ground, uncertainty over the unknown threat of a band of heroes battling in each of them with the certain fear of their commander.
 
@@ -110,7 +110,7 @@ The time [[Raider|raider]]'s right upper hand shot out, as though she'd been wai
 
 From the sun's shadow cast by Taxiarch Lycaon the [[Polder|polder]] Jackson Bootblack emerged, a rapier in each hand, and no one had seen him move from where he'd been a moment before.
 
-At the same instant, a call--a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in John's heart--the Clarion Call of the last Storm Knight!
+At the same instant, a call--a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in John's heart--the Clarion Call of the last Storm [[Knight]]!
 
 John hadn't hesitated, he'd already drawn his sword. "Alright, you patchwork son of a bitch." He charged Lycaon who fumbled with the short-sword on his belt.
 

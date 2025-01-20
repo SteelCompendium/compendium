@@ -80,7 +80,7 @@ You should imagine your tactician character leading the battle, granting your al
 
 Just ... you know ... it's got dragons and stuff. :D
 
-It's worth mentioning--while everyone basically already knows what fantasy means in this context, we do imagine it a little more broadly than your average classical medieval fantasy. We like that stuff! Vasloria is our medieval European fantasy analog with knights on horseback and wizards in towers. But we also like high fantasy urban intrigue, and so we're developing Capital, the City of the Great Game, the Greatest City In This or Any Age. Vasloria is mostly [[Human|humans]] and elves and [[Orc|orcs]] and [[Dwarf|dwarves]], but Capital has dozens, *hundreds* of different ancestries in it.
+It's worth mentioning--while everyone basically already knows what fantasy means in this context, we do imagine it a little more broadly than your average classical medieval fantasy. We like that stuff! Vasloria is our medieval European fantasy analog with [[Knight|knights]] on horseback and wizards in towers. But we also like high fantasy urban intrigue, and so we're developing Capital, the City of the Great Game, the Greatest City In This or Any Age. Vasloria is mostly [[Human|humans]] and elves and [[Orc|orcs]] and [[Dwarf|dwarves]], but Capital has dozens, *hundreds* of different ancestries in it.
 
 Looking back at movies like *Star Wars* and the work of artists like Chris Foss, that '70s stuff now seems explicitly fantastical. There's nothing scientific or even plausible
 
@@ -447,7 +447,7 @@ Orden contains seven major regions, the largest of which is Vasloria.
 
 ### VASLORIA
 
-A forested medieval and feudal land, Vasloria holds few cities--just towns and villages. Western Vasloria, including most of Aendrim and Corwell and parts of Graid, was until recently ruled by Good King Omund. His draconian knights, the Dragon Phalanx, protected the weak from the strong, dispensing justice throughout the land. But Omund died fifteen years ago--and so died the rule of law in Vasloria. Now, forests claim towns and roads once held safe under his rule. The woods are dangerous, their only law; tooth and claw.
+A forested medieval and feudal land, Vasloria holds few cities--just towns and villages. Western Vasloria, including most of Aendrim and Corwell and parts of Graid, was until recently ruled by Good King Omund. His draconian [[Knight|knights]], the Dragon Phalanx, protected the weak from the strong, dispensing justice throughout the land. But Omund died fifteen years ago--and so died the rule of law in Vasloria. Now, forests claim towns and roads once held safe under his rule. The woods are dangerous, their only law; tooth and claw.
 
 When Omund was betrayed by Mandrake, a captain of the Dragon Phalanx, his castle fell to Ajax the Invincible--now called the Overlord and the Iron Saint. Ajax's wizard Mortum unlocked the secret of the ancient flying cities of the sky elves to raise the Chrysopolis, Ajax's city-fortress in the sky.
 
@@ -461,7 +461,7 @@ The [[Dwarf|dwarves]] of Kal Kalavar pay tribute in prisoners they abduct from a
 
 The Hawklords of the High Aerie now act as Ajax's royal guard. Mounted on their [[Giant Hawk|giant hawks]], these [[Human|human]] warriors project Ajax's power, enforce his tyrannical order, and extend his influence into every corner of the wilderness. Their mastery of the air means that any revolt or rebellion is seen and crushed quickly.
 
-The Dragon Phalanx is broken now, its knights scattered. Ajax has placed a high bounty on their heads. Some folk still see Omund's knights as symbols of justice, heroes of a lost age before might made right. But in every town, every village, there are always desperate people willing to collect the bounty, summoning the Hawklords to pluck any [[Dragon Knight|dragon knight]] foolish enough to travel without a disguise away to the Chrysopolis.
+The Dragon Phalanx is broken now, its [[Knight|knights]] scattered. Ajax has placed a high bounty on their heads. Some folk still see Omund's [[Knight|knights]] as symbols of justice, heroes of a lost age before might made right. But in every town, every village, there are always desperate people willing to collect the bounty, summoning the Hawklords to pluck any [[Dragon Knight|dragon knight]] foolish enough to travel without a disguise away to the Chrysopolis.
 
 The peoples of Dalrath, Bedegar, and Tor, isolated and outnumbered, desperately fight a losing battle against the encroaching wilderness. Law dies. Chaos thrives.
 
@@ -473,17 +473,17 @@ It is a city of playwrights and opera, of spies and sorcery. Famed throughout th
 
 #### THE GREAT HOUSES
 
-The Great Houses, Capital's ancient noble families, reluctantly share power with the upstart guilds who think that their vast wealth entitles them to rule. The members of the Great Houses are proud of their city, and believe anyone, from anywhere, should be able to come to Capital and earn a living, own property, expect justice. They just don't think anyone else should be able to rule. The guilds of the city, by contrast, are more egalitarian, more democratic, largely obsessed with accruing wealth--and caring little for the welfare of the city or its people.
+The Great Houses, Capital's ancient [[Noble|noble]] families, reluctantly share power with the upstart guilds who think that their vast wealth entitles them to rule. The members of the Great Houses are proud of their city, and believe anyone, from anywhere, should be able to come to Capital and earn a living, own property, expect justice. They just don't think anyone else should be able to rule. The guilds of the city, by contrast, are more egalitarian, more democratic, largely obsessed with accruing wealth--and caring little for the welfare of the city or its people.
 
-The Great Game is espionage, and House Alvaro are the best players in the world. Led by Duke Prospero, House Alvaro sponsors the Imperial University, the greatest center of learning in the world. Nobles from across Orden, including from lands as far away as Vanigar, send their children to learn diplomacy and statecraft at the university. The greatest spies in the world are all graduates of the Actian School, one of the university's many colleges, which once doubled as the intelligence agency of Capital's late prince.
+The Great Game is espionage, and House Alvaro are the best players in the world. Led by Duke Prospero, House Alvaro sponsors the Imperial University, the greatest center of learning in the world. [[Noble|Nobles]] from across Orden, including from lands as far away as Vanigar, send their children to learn diplomacy and statecraft at the university. The greatest spies in the world are all graduates of the Actian School, one of the university's many colleges, which once doubled as the intelligence agency of Capital's late prince.
 
 House Vorona runs the city's navy, the largest military organization of any kind in Orden. Their engineers perfected the secret of blackpowder and guard it jealously. The Imperial Navy's canons protect trade across Orden, placing Capital at the center of international affairs.
 
 Vorona's Far Mariners, aka the marines, are the closest thing to a citywide law enforcement organization. Each Great House is expected to police its own district.
 
-Duke Marco Vorona sponsors the Imperial War College, also known as the Academy. A prestigious institution rivaling any college of the Imperial University, the Academy boasts graduates among all the noble families in Orden. This widespread allegiance creates a vast informal network in the city, referred to cynically as the Old Class Ring, that gives House Vorona access to intelligence that other factions can only dream of.
+Duke Marco Vorona sponsors the Imperial War College, also known as the Academy. A prestigious institution rivaling any college of the Imperial University, the Academy boasts graduates among all the [[Noble|noble]] families in Orden. This widespread allegiance creates a vast informal network in the city, referred to cynically as the Old Class Ring, that gives House Vorona access to intelligence that other factions can only dream of.
 
-House Navarr, the oldest of the Great Houses, enforces the law of the Church of Saint Ysabella the Pitiless, which they call justice. The house is led by His Grace Orsino, Duke Navarr, archbishop of that most powerful church in the city. Under his rule, House Navarr consolidates a vast network of different churches and knights across the region under one elaborate system of patronage.
+House Navarr, the oldest of the Great Houses, enforces the law of the Church of Saint Ysabella the Pitiless, which they call justice. The house is led by His Grace Orsino, Duke Navarr, archbishop of that most powerful church in the city. Under his rule, House Navarr consolidates a vast network of different churches and [[Knight|knights]] across the region under one elaborate system of patronage.
 
 Arguably the most powerful Great House, House Valetta controls the city's tax collectors, known as the Arbitros Fiat. Valetta is led by the Duchess Lenore, who opened the *Codex Mortis* while in mourning for her assassinated husband Maximo, speaking a ritual from that ancient necromantic artifact that should have returned her love to life. Instead, she brought about the Lilac Night, which transformed everyone in her district into undead including herself. The Duchess Lenore is now an immortal vampire queen, a dead lady ruling over a dead city.
 
@@ -497,7 +497,7 @@ The Farrier's Guild, popularly known as the Rasp, controls transport throughout 
 
 ### THE MYRIAD WORLDS OF THE TIMESCAPE
 
-Orden is only one world in the timescape! Each star in the night sky is another world, though this fact is not known to most people living on Orden. Higher worlds are more energetic, affording access to alien technologies. Great star freighters ply the space lanes, with knights wielding psionically powered hard-light blades dueling against star [[Pirate|pirates]] with hard-light blasters.
+Orden is only one world in the timescape! Each star in the night sky is another world, though this fact is not known to most people living on Orden. Higher worlds are more energetic, affording access to alien technologies. Great star freighters ply the space lanes, with [[Knight|knights]] wielding psionically powered hard-light blades dueling against star [[Pirate|pirates]] with hard-light blasters.
 
 The lower worlds lack the energy necessary for such extraordinary technology to function, and so rely on magic to break the rules.
 
@@ -535,7 +535,7 @@ Since this game encompasses power levels from hometown to [[Demigod|demigods]], 
 
 ### 1ST ECHELON (LEVELS 1 -3)
 
-The 1st echelon of play encompasses levels 1 to 3. At this echelon, the player characters are local heroes. They save lost caravans, besieged villages, and overlooked neighborhood s of cities. The heroes battle bands of mortal humanoids --[[Dwarf|dwarves]], elves, goblins, [[Human|humans]], kobolds, [[Orc|orcs]]. They face the occasional larger monstrous threat, such as a [[Bredbeddle|bredbeddle]], ogre, or [[Chimera|chimera]]. These are the kinds of creatures that can threaten a small community, but rarely have plans for world domination or the destruction of the timescape. However, the adversaries might work for or be manipulated by a stronger threat as a foreshadowing of what awaits the hero at higher echelons.
+The 1st echelon of play encompasses levels 1 to 3. At this echelon, the player characters are [[Local Hero|local heroes]]. They save lost caravans, besieged villages, and overlooked neighborhood s of cities. The heroes battle bands of mortal humanoids --[[Dwarf|dwarves]], elves, goblins, [[Human|humans]], kobolds, [[Orc|orcs]]. They face the occasional larger monstrous threat, such as a [[Bredbeddle|bredbeddle]], ogre, or [[Chimera|chimera]]. These are the kinds of creatures that can threaten a small community, but rarely have plans for world domination or the destruction of the timescape. However, the adversaries might work for or be manipulated by a stronger threat as a foreshadowing of what awaits the hero at higher echelons.
 
 ### 2ND ECHELON (LEVELS 4-6)
 
@@ -794,7 +794,7 @@ In every instance in recorded history, attempts by mortals to make obedient serv
 
 Normally, it doesn't work out that nicely. Even with the best of intentions, things go awry. The Dragon Phalanx
 
-were created by Good King Omund's wizard Vitae to be the perfect knights, dispensing justice throughout the lands. But the same sorceries that grant self-awareness also grant independence. Agency. And though they enjoyed thirty years of peace and justice, eventually the [[Dragon Knight|dragon knights]] were betrayed by one of their own, seduced by the power offered by Ajax.
+were created by Good King Omund's wizard Vitae to be the perfect [[Knight|knights]], dispensing justice throughout the lands. But the same sorceries that grant self-awareness also grant independence. Agency. And though they enjoyed thirty years of peace and justice, eventually the [[Dragon Knight|dragon knights]] were betrayed by one of their own, seduced by the power offered by Ajax.
 
 The law of unintended consequences applies to the just and the unjust alike.
 
@@ -1008,7 +1008,7 @@ You possess wings powerful enough to take you airborne. While using your wings t
 
 The Ritual of Dracogenesis that grants the power to create a generation of [[Dragon Knight|dragon knights]]--also known as draconians or wyrmwights--is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khorshir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
 
-The largest extant population of draconians is the remnants of the Dragon Phalanx in Vasloria. Created by Good King Omund's wizard Vitae, the Dragon Phalanx once numbered several thousand of the king's greatest knights, ensuring the rule of law across the land.
+The largest extant population of draconians is the remnants of the Dragon Phalanx in Vasloria. Created by Good King Omund's wizard Vitae, the Dragon Phalanx once numbered several thousand of the king's greatest [[Knight|knights]], ensuring the rule of law across the land.
 
 Knighthood was a title carried by every member of that first generation of [[Dragon Knight|dragon knights]]. Within the Dragon Phalanx were shadows, censors, tacticians, and elementalists. Members of virtually every heroic vocation could be found in one of the eight dragonflights that made up the phalanx. For over thirty years, these heroes were symbols of justice, protecting the weak from the strong, and standing between the common folk and those who sought power over others. Those who grew up in that place and time could never have imagined any other way of life.
 
@@ -1018,7 +1018,7 @@ Then Ajax came.
 
 The cloaked figure at the back of the inn stood up. As they did so, their hood slipped down, revealing their head and face. A susurration rippled through the crowd. One man standing near the bar dropped his jaw, followed by his flagon of mead.
 
-A tall, broad draconian stepped into the light. He was old, his scales battle-scarred. He rested one clawed hand on the pommel of a mace that hung from a loop on his belt, while the other carried his shield by a strap. His flat, expressionless look was more terrifying than any threatening glower.
+A tall, broad draconian stepped into the light. He was old, his scales battle-[[Scarred|scarred]]. He rested one clawed hand on the pommel of a mace that hung from a loop on his belt, while the other carried his shield by a strap. His flat, expressionless look was more terrifying than any threatening glower.
 
 The three [[Human|human]] bandits took a step back. One of the [[Dwarf|dwarves]] just sneered--then, sensing his [[Human|human]] compatriot's reluctance, turned to look at them. "What's this?" the lead [[Dwarf|dwarf]] growled.
 
@@ -1040,9 +1040,9 @@ As one, the people in the tavern turned to look with undisguised awe at the [[Dr
 
 "Thank you," the woman behind the bar said. "Thank you for ..." She stopped when she saw the draconian was ignoring her.
 
-A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. "Excuse me, sir knight," the man said as the [[Dragon Knight|dragon knight]] walked past their table.
+A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. "Excuse me, sir [[Knight|knight]]," the man said as the [[Dragon Knight|dragon knight]] walked past their table.
 
-The knight moved on, ignoring them. The man reached out and [[Grabbed|grabbed]] the massive draconian's arm. The knight wheeled on the peasant, looming over him.
+The [[Knight|knight]] moved on, ignoring them. The man reached out and [[Grabbed|grabbed]] the massive draconian's arm. The [[Knight|knight]] wheeled on the peasant, looming over him.
 
 The man bowed his head and touched his forelock. The two women with him curtseyed and tried to avoid making eye contact.
 
@@ -1052,7 +1052,7 @@ The [[Dragon Knight|dragon knight]] sneered and bared a set of sharp teeth. "*Lo
 
 The man scurried around to stand in front of the draconian, blocking his way. He took off his worn cap and held it over his breast. "I'm sorry sir, but there ain't no one else. And there's this new tax, you see, from the new baron. And a priest says he's of Saint Ajax."
 
-The knight bared his impressive teeth, ready to scare Jago and the other two away--when someone else spoke.
+The [[Knight|knight]] bared his impressive teeth, ready to scare Jago and the other two away--when someone else spoke.
 
 "You might want to hear 'em out, Vaant," said a voice from the table the three peasants had been sitting at.
 
@@ -1062,7 +1062,7 @@ The [[Dragon Knight|dragon knight]] turned sharply to look at the man who'd spok
 
 The man turned to look up.
 
-"Hi Vaant," he said, smiling. He rose from the table. He was middle-aged, fit. Black hair hung down to his shoulders. He was armed with many weapons, looked like a captain of the guard. "Folks," he said, "this is Vaantikalisax, Knight of King Omund in the Thunder Phalanx. He may be the last of the Storm Knights."
+"Hi Vaant," he said, smiling. He rose from the table. He was middle-aged, fit. Black hair hung down to his shoulders. He was armed with many weapons, looked like a captain of the guard. "Folks," he said, "this is Vaantikalisax, [[Knight]] of King Omund in the Thunder Phalanx. He may be the last of the Storm [[Knight|Knights]]."
 
 The man held out his hand. The [[Dragon Knight|dragon knight]] looked at it for a moment before reaching out slowly to grasp it. "What are you doing out here?" Vaantikalisax asked.
 
@@ -1225,7 +1225,7 @@ The steel [[Dwarf|dwarves]]--the greatest of us--are dead now, and our cousins t
 
 It is left to us, the stone [[Dwarf|dwarves]], the Last Children of Ord, to work stone, create great marvels with it. Our greatest days are not behind us! Who speaks thus!? Have we not been to the Hanging City of Kal Kalavar together? Will you ever forget that place? I will not should I live to be a thousand, and neither will you. And it was finished in my lifetime. Only three hundred years ago! It's brand new!
 
-Elf rivalry. Pagh! Did we not name the most precious metal in the earth "valiar" after their god Val? Val is a noble god, a worthy patron of the elves. He seeks justice and glory in his own way, we deem. Were one to choose the path of the conduit, you could pick worse gods than Val to serve.
+Elf rivalry. Pagh! Did we not name the most precious metal in the earth "valiar" after their god Val? Val is a [[Noble|noble]] god, a worthy patron of the elves. He seeks justice and glory in his own way, we deem. Were one to choose the path of the conduit, you could pick worse gods than Val to serve.
 
 It is the [[Human|humans]] who make so much of rivalries between the ancestries. It was the [[Human|humans]] who called us "[[Dwarf|dwarves]]." We do not know the significance of this word in their tongue, but we accept it. Their speech is crude, true, but they are a young species after all. We must not judge them too harshly. "Elemental" would be a faithful translation of our word for ourselves into the Caelian tongue.
 
@@ -1424,7 +1424,7 @@ In the millennia since their creators retired to Arcadia, the high elves built a
 
 "It's not that hard," Dade said darkly.
 
-The five children stood alone in the center of a large circular courtyard open to the sky, their wode elf escort Llyander at their side. Lord Tear, King of the High Elves, sat on a marble throne, holding the scroll of the *Codex Dryadalis* in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned [[Sage|sages]], gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter. They bristled with weapons.
+The five children stood alone in the center of a large circular courtyard open to the sky, their wode elf escort Llyander at their side. Lord Tear, King of the High Elves, sat on a marble throne, holding the scroll of the *Codex Dryadalis* in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, [[Noble|nobles]] and courtiers and learned [[Sage|sages]], gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter. They bristled with weapons.
 
 "They seem like ..." Meliora said, searching for the words.
 
@@ -1454,7 +1454,7 @@ Llyander turned to the children and smiled brilliantly, eyebrows waggling in a s
 
 The king stood up and a herald beside the throne announced, "Gather ye, and attend! The Lord of Fallen Irranys, Morning Dew On a Single Leaf Like a Tear from the Sun, speaks. And know his word is law!"
 
-Lord Tear glided down the steps until he was standing, as tall as Llyander, before the children. His face was noble and beautiful. Wisps of silver-like strands of smoke spread across his golden skin. He seemed at once eternal and youthful.
+Lord Tear glided down the steps until he was standing, as tall as Llyander, before the children. His face was [[Noble|noble]] and beautiful. Wisps of silver-like strands of smoke spread across his golden skin. He seemed at once eternal and youthful.
 
 "You have heard many things about my people, but this above all you should know. We do not value lore for lore's sake, but beauty first and above all other things. And the truth, to us, is a kind of beauty. Thus do we find knowledge beautiful.
 
@@ -1640,13 +1640,13 @@ Your hearty constitution prevents you from losing strength. You can't be [[Weake
 
 ##### DOOMSIGHT (COSTS 2 POINTS)
 
-Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically get tier 3 results on tests and ability power rolls, and you don't die no matter how low your Stamina falls. You then die immediately at the end of the encounter.
+Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become [[Doomed|doomed]]. While [[Doomed|doomed]], you automatically get tier 3 results on tests and ability power rolls, and you don't die no matter how low your Stamina falls. You then die immediately at the end of the encounter.
 
-If you don't predetermine your death encounter, you can choose to become doomed while you are dying with the director's approval (no action required). Doing so should be reserved for encounters in which you are dying as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to
+If you don't predetermine your death encounter, you can choose to become [[Doomed|doomed]] while you are dying with the director's approval (no action required). Doing so should be reserved for encounters in which you are dying as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to
 
 you--not because you're playing a one-shot and have nothing to lose, Hacaarl.
 
-Additionally, when your Stamina equals the negative of your winded value and you are not doomed, you turn to rubble instead of experiencing death. You are unaware of your surroundings in this state. After 12 hours, you regain Stamina equal to your Recovery value.
+Additionally, when your Stamina equals the negative of your winded value and you are not [[Doomed|doomed]], you turn to rubble instead of experiencing death. You are unaware of your surroundings in this state. After 12 hours, you regain Stamina equal to your Recovery value.
 
 ## HUMAN
 
@@ -1686,7 +1686,7 @@ Is there some rare trait that makes you uniquely qualified to lead disparate peo
 
 Those great [[Human|humans]], your ancestors, did not focus on differences. They did not weigh different people and grade them based on arbitrary traits deemed virtues and flaws. That is what Ajax does. No, those [[Human|humans]] focused on the future. On making a better world ... for all of us. A world many of them knew they would not live to see. That is a sacrifice ... I can scarcely imagine.
 
-The people who stand against Ajax and tyrants like him will be just like you--normal people. Priests and scholars and merchants and [[Farmer|farmers]]. Maybe even teachers.
+The people who stand against Ajax and tyrants like him will be just like you--normal people. Priests and scholars and merchants and [[Farmer|farmers]]. Maybe even [[Teacher|teachers]].
 
 Stopping Ajax will require you to become something else. You must become heroes. Conduits of saints, warmasters of great armies. Censors and shadows. That may seem unlikely now, but the future has a way of surprising us.
 
@@ -1974,7 +1974,7 @@ Short, averaging three and a half feet tall, their origins are obscure. They are
 
 The three peasants--Jago, his wife Sarah, and his sister Beth--sat together watching the three heroes talk in the crowded common room of the inn. Well, Jackson Bootblack seemed to be doing most of the talking.
 
-"This kind of shit doesn't work if it's just a bunch of ratcatchers like us," the [[Polder|polder]] said. "You need the people to rise up. Been fifteen years since Omund died--fifteen years of fighting wolves and bandits and worse. The people welcome a tyrant after that. They like order, you know? They adapt."
+"This kind of shit doesn't work if it's just a bunch of [[Ratcatcher|ratcatchers]] like us," the [[Polder|polder]] said. "You need the people to rise up. Been fifteen years since Omund died--fifteen years of fighting wolves and bandits and worse. The people welcome a tyrant after that. They like order, you know? They adapt."
 
 "If you stand on the grass long enough, it learns to lie flat," A Mist Coils Around Dying Embers said. "But what do *you* say?"
 
@@ -2088,7 +2088,7 @@ Sir Vaantikalisax loomed just inside the doorway, his scales and armor glowing i
 
 "I, uh ..." Vaantikalisax said. The tall, broad draconian looked from John to the three peasants. Jago, Sarah, and Beth were beaming with even more joy than John, if that were possible.
 
-The knight stared at them for a moment, then turned back to his friend.
+The [[Knight|knight]] stared at them for a moment, then turned back to his friend.
 
 "Maybe you're right," the [[Dragon Knight|dragon knight]] said.
 
@@ -2161,13 +2161,13 @@ These [[Revenant|revenants]] are rare. Many are [[Hunted|hunted]] by ignorant vi
 
 "No one knows we're here. No one even knows this place exists! We got all day. We stash everything here, and take a sample to ..." The head thief pulled a vial out of a crate stuffed with straw and looked at it.
 
-"It's just ..." The junior cutpurse spoke nervously. "There was this lady knight in Blackbottom sniffing around. She seemed serious. I got this weird ... chill when I looked at her."
+"It's just ..." The junior cutpurse spoke nervously. "There was this lady [[Knight|knight]] in Blackbottom sniffing around. She seemed serious. I got this weird ... chill when I looked at her."
 
 "Hey," the head thief said, his brow furrowed as he looked at the label on the vial. "Where'd you say you bought this stuff? You said a ship--a ship from where?"
 
 "I dunno, uh ... uh, Capital I think."
 
-The head thief looked at the panicking cutpurse. "This lady knight--she have a red and blue device on her shield?"
+The head thief looked at the panicking cutpurse. "This lady [[Knight|knight]]--she have a red and blue device on her shield?"
 
 "Black gods," one of the other thieves said. "It can't be Lady Filliamo, can it?"
 
@@ -2187,11 +2187,11 @@ One of the four thieves opened a vial and dipped his dirk into the red oil withi
 
 "What is *that* gonna do? *She's already dead*!" Another knock at the hidden door. "Forget it. Let her knock. [[Grab]] as many as you can, and we'll go out the back."
 
-The head thief ran for the door out the back of the safe house. He jerked it open--and the other thieves watched as a silver flash silently flared across his forehead. Through the open door, they could see the silhouette of the knight, her open hand held up in front of her.
+The head thief ran for the door out the back of the safe house. He jerked it open--and the other thieves watched as a silver flash silently flared across his forehead. Through the open door, they could see the silhouette of the [[Knight|knight]], her open hand held up in front of her.
 
 She clenched her hand into a fist and the judgment she had placed on the head cutpurse detonated, hurling him backward. He sprawled across the floor, conscious but stunned.
 
-The gray-skinned knight walked into the room. Metal heels rang out on the wooden floor. She seemed relaxed, but her eyes burned with inner fire.
+The gray-skinned [[Knight|knight]] walked into the room. Metal heels rang out on the wooden floor. She seemed relaxed, but her eyes burned with inner fire.
 
 "Boys," Lady Filliamo said pleasantly. "Busy morning."
 
@@ -2211,7 +2211,7 @@ Lady Filliamo made a broad gesture with her right hand and argent marks flared a
 
 "Hang on, you can't arrest us," one of the thieves, unarmed and still holding his hands up, said. "This isn't Capital. You don't have jurisdiction!"
 
-Lady Filliamo shrugged. "I'm a knight of the church. Jurisdiction's for the city watch." She drew her silver sword a few inches from the scabbard just to show them the blade.
+Lady Filliamo shrugged. "I'm a [[Knight|knight]] of the church. Jurisdiction's for the city watch." She drew her silver sword a few inches from the scabbard just to show them the blade.
 
 "I deal in steel."
 
@@ -2336,7 +2336,7 @@ Slowly everyone assembled could make out the sounds of a conversation, quiet wit
 
 "Oh, thank you for the brilliant tactical advice," another voice, high pitched, piped up.
 
-Suddenly, the images became three dimensional, solid, and four heroes stood among them. A [[Human|human]] in working battle plate. A [[Polder|polder]] with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. And a [[Dragon Knight]]. The people of the town gasped when they saw him. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the knight's shield.
+Suddenly, the images became three dimensional, solid, and four heroes stood among them. A [[Human|human]] in working battle plate. A [[Polder|polder]] with twin rapiers in his hands. A tall willowy high elf with night-black skin and golden hair. And a [[Dragon Knight]]. The people of the town gasped when they saw him. Even at a distance, even with the war dogs between them, they recognized the device of Good King Omund on the [[Knight|knight]]'s shield.
 
 The war dogs scrambled. For a moment, it seemed they might flee at this sudden intrusion, but the Taxiarch bellowed "Hold fast!" and they held their ground, uncertainty over the unknown threat of a band of heroes battling in each of them with the certain fear of their commander.
 
@@ -2374,7 +2374,7 @@ The [[Time Raider|time raider]]'s right upper hand shot out, as though she'd bee
 
 From the sun's shadow cast by Taxiarch Lycaon the [[Polder|polder]] Jackson Bootblack emerged, a rapier in each hand, and no one had seen him move from where he'd been a moment before.
 
-At the same instant, a call--a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in John's heart--the Clarion Call of the last Storm Knight!
+At the same instant, a call--a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in John's heart--the Clarion Call of the last Storm [[Knight]]!
 
 John hadn't hesitated, he'd already drawn his sword. "Alright, you patchwork son of a bitch." He charged Lycaon who fumbled with the short-sword on his belt.
 
@@ -2470,7 +2470,7 @@ No. A hero's life experience teaches them right from wrong--and that experience 
 
 A hero's culture describes the beliefs, customs, values, and way of life held by the community in which they were raised. This community provides life experiences that give a character some of their game statistics. Even if a hero doesn't share their culture's values, those values shaped their early development and way of life. In fact, some people become heroes primarily from the rejection of the ways of their culture.
 
-For our purposes, a hero's culture represents people, not a place. Yes, you might have grown up in the city of Capital, but your culture is more specific than that. One hero's culture might be House Alvaro, a noble house in Capital where they were raised. Another's culture could be a group or organization that moves around, such as a band of [[Pirate|pirates]] or a secret order of sorcerers sworn to protect books of fell magic. It helps to get specific when thinking about your culture, and working with the four aspects of a culture can help you do that: **language**, **environment**, **organization**, and **upbringing**.
+For our purposes, a hero's culture represents people, not a place. Yes, you might have grown up in the city of Capital, but your culture is more specific than that. One hero's culture might be House Alvaro, a [[Noble|noble]] house in Capital where they were raised. Another's culture could be a group or organization that moves around, such as a band of [[Pirate|pirates]] or a secret order of sorcerers sworn to protect books of fell magic. It helps to get specific when thinking about your culture, and working with the four aspects of a culture can help you do that: **language**, **environment**, **organization**, and **upbringing**.
 
 ### USING CULTURE
 
@@ -2480,7 +2480,7 @@ In many worlds, at least some cultures have a majority ancestry. The people of B
 
 You can build your culture one aspect at a time or use the following tables if you want to make something quick or see an example. If you want to quickly create an archetypical culture for a hero who grew up surrounded by mostly other members of their ancestry, you can create your culture quickly by using or modifying the aspect options on the Typical Ancestry Cultures table. [[Revenant|Revenants]] are missing from this table because they don't gain their ancestry until after they die. If you'd rather quickly create a culture based
 
-on a cultural archetype, such as a noble house or [[Pirate|pirate]] crew, use the Archetypical Cultures table.
+on a cultural archetype, such as a [[Noble|noble]] house or [[Pirate|pirate]] crew, use the Archetypical Cultures table.
 
 #### TYPICAL ANCESTRY CULTURES
 
@@ -2513,7 +2513,7 @@ on a cultural archetype, such as a noble house or [[Pirate|pirate]] crew, use th
 | Mercenary Band         | Nomadic     | Bureaucratic | Martial    |
 | Merchant Caravan       | Nomadic     | Bureaucratic | Creative   |
 | Monastic Order         | Secluded    | Bureaucratic | Academic   |
-| Noble House            | Urban       | Bureaucratic | Noble      |
+| [[Noble]] House        | Urban       | Bureaucratic | [[Noble]]  |
 | [[Outlaw]] Band        | Wilderness  | Anarchic     | Illegal    |
 | Pauper Neighborhood    | Urban       | Communal     | Labor      |
 | [[Pirate]] Crew        | Nomadic     | Anarchic     | Illegal    |
@@ -2602,7 +2602,7 @@ Most anarchic cultures operate outside of settled lands, sticking to the wilds, 
 
 ##### BUREAUCRATIC
 
-Bureaucratic cultures are steeped in official leadership and formally recorded laws. Members of such a culture are often ranked in power according to those laws, with a small group of people holding the power to rule according to birthright, popular vote, or some other official and measurable standard. Many bureaucratic communities have one person at the very top, though others might be ruled by a council. A trade guild with a guildmaster, treasurer, secretary, and a charter of rules and regulations for membership; a feudal lord who rules over a group of knights, who in turn rule over peasants who work the land; and a militaristic society with ranks and rules that its people must abide are all examples of bureaucratic cultures.
+Bureaucratic cultures are steeped in official leadership and formally recorded laws. Members of such a culture are often ranked in power according to those laws, with a small group of people holding the power to rule according to birthright, popular vote, or some other official and measurable standard. Many bureaucratic communities have one person at the very top, though others might be ruled by a council. A trade guild with a guildmaster, treasurer, secretary, and a charter of rules and regulations for membership; a feudal lord who rules over a group of [[Knight|knights]], who in turn rule over peasants who work the land; and a militaristic society with ranks and rules that its people must abide are all examples of bureaucratic cultures.
 
 Those who thrive in bureaucratic cultures don't just follow the rules. They know how to use those rules to their advantage, either bending, changing, or reinterpreting policy to [[Advance|advance]] their own interests. Schmoozing with those who make the laws is often key to this approach. Others in a bureaucratic culture might specialize in operating outside the strict regulations that govern the culture without getting caught.
 
@@ -2610,7 +2610,7 @@ Those who thrive in bureaucratic cultures don't just follow the rules. They know
 
 ##### COMMUNAL
 
-A communal culture is a place where all members of the collective are considered equal. The community works together to make important decisions that affect the majority of the culture. While they elect leaders to carry out these decisions and organize their efforts, each person has a relatively equal say in how the culture operates, and everyone contributes to help their people survive and thrive. Individuals often share the burdens of governing, physical labor, childcare, and other duties. A collective of [[Farmer|farmers]] who work together to cultivate and protect their land without a noble, a city of [[Pirate|pirates]] where each person can do as they wish, and a traveling theatrical troupe whose members vote on every artistic and administrative decision are all communal cultures.
+A communal culture is a place where all members of the collective are considered equal. The community works together to make important decisions that affect the majority of the culture. While they elect leaders to carry out these decisions and organize their efforts, each person has a relatively equal say in how the culture operates, and everyone contributes to help their people survive and thrive. Individuals often share the burdens of governing, physical labor, childcare, and other duties. A collective of [[Farmer|farmers]] who work together to cultivate and protect their land without a [[Noble|noble]], a city of [[Pirate|pirates]] where each person can do as they wish, and a traveling theatrical troupe whose members vote on every artistic and administrative decision are all communal cultures.
 
 People in communal cultures learn that their voice and individuality has worth, as do the opinions and hard work of others.
 
@@ -2620,7 +2620,7 @@ People in communal cultures learn that their voice and individuality has worth, 
 
 Your culture's upbringing aspect is a more specific and personal part of your hero's story, describing how you were individually raised within your culture. Were you trained to become the newest archmage in a secret order of wizards, or to be a sword-wielding bodyguard who protected that arcane organization? Did you learn to delve deep into mines looking for ore in a [[Mountain|mountain]] kingdom, or did you build machines meant to dig faster and deeper than any person could alone? Whatever your culture, your upbringing makes you special within that culture.
 
-Pick your upbringing aspect from the following list: academic, creative, illegal, labor, martial, or noble. You then gain skill options from your chosen aspect.
+Pick your upbringing aspect from the following list: academic, creative, illegal, labor, martial, or [[Noble|noble]]. You then gain skill options from your chosen aspect.
 
 ##### ACADEMIC
 
@@ -2654,7 +2654,7 @@ Heroes who have a martial upbringing are raised by warriors. These might be the 
 
 ##### NOBLE
 
-Heroes with a noble upbringing were raised by leaders who rule over others and play the games of politics to maintain power. Many families are nobles by birthright, but some cultures have noble titles that are earned through deeds or popularity. Whatever the case, heroes with this background understand why the whispered words in the right ear can sometimes be more powerful than any army.
+Heroes with a [[Noble|noble]] upbringing were raised by leaders who rule over others and play the games of politics to maintain power. Many families are [[Noble|nobles]] by birthright, but some cultures have [[Noble|noble]] titles that are earned through deeds or popularity. Whatever the case, heroes with this background understand why the whispered words in the right ear can sometimes be more powerful than any army.
 
 **Skill Options:** One skill from the interpersonal skill group. (*Quick Build:* Lead)
 
@@ -2763,14 +2763,14 @@ You gain the following career benefits:
 
 #### ARISTOCRAT INCITING INCIDENTS
 
-| d6  | Incident                                                                                                                                                                                                                                                                                                                                                                                |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Blood Money: When you entered adulthood, you heard unsavory whispers about your family's fortune before learning that their wealth came at the cost of others' suffering. Whether you shed light on the secret or not, you left to become a hero stripped of noble title.                                                                                                               |
-| 2   | Charmed Life: Through some treasure or innate ability, you were able to defraud other [[Aristocrat\|aristocrats]]. You did it for fun. When you were found out, you lost your status. Whether you served time or escaped from punishment, you decided to rehabilitate yourself and became a hero.                                                                                       |
-| 3   | Inheritance: The guardians who instilled in you the virtues of doing the right thing were murdered in a senseless petty robbery. Though their wealth was bequeathed to you, it did little to assuage the guilt you felt for being unable to stop the deadly crime. You decided to use your riches to fund your life as a hero, whether publicly or using an alter ego.                  |
-| 4   | Privileged Position: Life outside the manor never piqued your interest. You had everything you wanted. It came as a surprise when the peasants came to overthrow your family. You narrowly escaped, and for the first time witnessed the world. It caused you to become a hero for the people, fighting against inequities.                                                             |
-| 5   | Royal Pauper: Seeking a break from noble duties, you sought a lookalike to switch identities with. It went so well that you made a habit of switching whenever bored. Unfortunately, your counterpart became so good at imitating you that they convinced everyone you were an impostor. You lost contact with your family, but pursue a heroic path free of the pomp of your old life. |
-| 6   | Wicked Secret: One parent passed away when you were a baby and the other remarried years later. Then that parent died under suspicious circumstances. Their spouse ousted you, and you were banished (and possibly [[Hunted\|hunted]]). Rising from tragedy, you now seek to right the wrongs of the world.                                                                             |
+| d6  | Incident                                                                                                                                                                                                                                                                                                                                                                                           |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Blood Money: When you entered adulthood, you heard unsavory whispers about your family's fortune before learning that their wealth came at the cost of others' suffering. Whether you shed light on the secret or not, you left to become a hero stripped of [[Noble\|noble]] title.                                                                                                               |
+| 2   | Charmed Life: Through some treasure or innate ability, you were able to defraud other [[Aristocrat\|aristocrats]]. You did it for fun. When you were found out, you lost your status. Whether you served time or escaped from punishment, you decided to rehabilitate yourself and became a hero.                                                                                                  |
+| 3   | Inheritance: The guardians who instilled in you the virtues of doing the right thing were murdered in a senseless petty robbery. Though their wealth was bequeathed to you, it did little to assuage the guilt you felt for being unable to stop the deadly crime. You decided to use your riches to fund your life as a hero, whether publicly or using an alter ego.                             |
+| 4   | Privileged Position: Life outside the manor never piqued your interest. You had everything you wanted. It came as a surprise when the peasants came to overthrow your family. You narrowly escaped, and for the first time witnessed the world. It caused you to become a hero for the people, fighting against inequities.                                                                        |
+| 5   | Royal Pauper: Seeking a break from [[Noble\|noble]] duties, you sought a lookalike to switch identities with. It went so well that you made a habit of switching whenever bored. Unfortunately, your counterpart became so good at imitating you that they convinced everyone you were an impostor. You lost contact with your family, but pursue a heroic path free of the pomp of your old life. |
+| 6   | Wicked Secret: One parent passed away when you were a baby and the other remarried years later. Then that parent died under suspicious circumstances. Their spouse ousted you, and you were banished (and possibly [[Hunted\|hunted]]). Rising from tragedy, you now seek to right the wrongs of the world.                                                                                        |
 
 ### ARTISAN
 
@@ -2848,7 +2848,7 @@ You gain the following career benefits:
 | 1   | Antiquity Procurement: You stole, smuggled, and sold antiquities. In your haste to make a quick sale, you didn't fully vet a client and they subsequently robbed your warehouse. When the items you had stolen were taken from you, you realized the harm you had caused. Now you adventure to find those items you lost and return them where they belong.                                                                                   |
 | 2   | Atonement: The last [[Criminal\|criminal]] job you pulled led to the death of someone or the destruction of something you love. To make up for the loss you caused, you left your [[Criminal\|criminal]] ways behind and became a hero.                                                                                                                                                                                                       |
 | 3   | Friendly Priest: You went to prison for your crimes and eventually escaped. An elderly priest took you in and shielded you from the law, convinced that your soul wasn't corrupt. They never judged you for your past, speaking only of the future. Eventually, the priest died, imparting final words that inspired you to become a hero.                                                                                                    |
-| 4   | Shadowed Influence: You spent years blackmailing and manipulating nobles for influence and wealth until a scheme went wrong. You were publicly exposed, and after a narrow escape, you reevaluated your life. Under a new identity, you work as a hero and hope no one looks at your past too closely.                                                                                                                                        |
+| 4   | Shadowed Influence: You spent years blackmailing and manipulating [[Noble\|nobles]] for influence and wealth until a scheme went wrong. You were publicly exposed, and after a narrow escape, you reevaluated your life. Under a new identity, you work as a hero and hope no one looks at your past too closely.                                                                                                                             |
 | 5   | Simply Survival: Stealing was a matter of survival for you and not what defined you-at least in your mind. But when your thieving actions lead to innocent folk being harmed, you knew you could be better. You turned your back on your old life, though your old skills come in [[Handy\|handy]].                                                                                                                                           |
 | 6   | Stand Against Tyranny: When a tyrant rose to power in your homeland, they began cracking down on all [[Criminal\|criminals]] with deadly raids and public executions. The nature of the crime didn't matter-pickpockets and [[Beggar\|beggars]] were made to kneel before the axe alongside murderers. After losing enough friends, you stood up and joined the resistance-not just against this tyrant, but against authoritarians anywhere. |
 
@@ -2898,7 +2898,7 @@ You gain the following career benefits:
 
 | d6  | Incident                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Awakening: In an uncharted area, you awakened some dark horror. You have turned to the life of a hero to put an end to the horror you unleashed and keep other hidden dangers at bay.                                                                                                                                                                                                                                                                                                                |
+| 1   | Awakening: In an uncharted area, you [[Awakened\|awakened]] some dark horror. You have turned to the life of a hero to put an end to the horror you unleashed and keep other hidden dangers at bay.                                                                                                                                                                                                                                                                                                  |
 | 2   | Missing Piece: You made an important but dangerous discovery about a treasure or ancient ritual that could spell mass destruction. Then the unthinkable happened when an unscrupulous colleague, spy, or treasure [[Hunter\|hunter]] stole your research notes. You're looking for them now, and anyone else who might use such discoveries for ill.                                                                                                                                                 |
 | 3   | Nothing Belongs in a Museum: Traversing seas and [[Mountain\|mountains]] to collect valuable artifacts for cultural institutions was once your way of life. When people died trying to reclaim one of the objects you took, you realized the truth. Your work was part of a larger problem of misappropriation and the best place for these significant objects wasn't in a museum but with the people who created them. You set out to return what had been taken and to protect others from theft. |
 | 4   | Unschooled: You delved into dungeons and far-off places by studying them in books. You were an [[Explorer\|explorer]] who never felt the need to experience the dangers your peers did. However, your theory about a lost world cost you your reputation. It gave you the impetus to go on adventures and [[Stand Up\|stand up]] for those with different ideas.                                                                                                                                     |
@@ -2928,9 +2928,9 @@ You gain the following career benefits:
 | 1   | Blight: A horrible blight swept over your homeland, sickening the livestock and causing crops to rot. No one knows whether the blight is of natural origin or something more malevolent, but you set out in search of a way to cleanse the land of this affliction.                                                                                                                                                                  |
 | 2   | Bored: You've always wanted so much more than gathering eggs and milking cows. You kept a secret journal of your dreams, filled with all the things you wanted. When your parent found the journal, they burned it and told you to keep your head out of the clouds. In response, you gathered what you could in a pack and left everything else behind, seeking a life of adventure.                                                |
 | 3   | Cursed: While tilling your fields, you found something in the dirt. Perhaps it was a chipped and dented weapon, a piece of ancient jewelry, or something altogether unique. Excited by your find, you showed it to a loved one, but when they touched it, something happened. You now know it was a curse conveyed by the item, though you don't know why it affected them and not you. You left your old life in search of answers. |
-| 4   | Hard Times: Your farm had always been prosperous, until the last few years. Changes in the weather caused smaller yields until you could no longer pay your tithe to the local noble. Her [[Soldier\|soldiers]] took what items of value they found, including a precious family heirloom. You left the struggling farm behind to find a better life.                                                                                |
+| 4   | Hard Times: Your farm had always been prosperous, until the last few years. Changes in the weather caused smaller yields until you could no longer pay your tithe to the local [[Noble\|noble]]. Her [[Soldier\|soldiers]] took what items of value they found, including a precious family heirloom. You left the struggling farm behind to find a better life.                                                                     |
 | 5   | Razed: Your animals were killed, your crops and home set ablaze. The culprits might have been wandering bandits, [[Raider\|raiders]] from a nearby kingdom, or hired thugs sent by a [[Rival\|rival]] farm. Whoever they were, they left you with nothing. You couldn't face the thought of starting again from scratch, so you took up a life of heroism to protect others from such villainy.                                      |
-| 6   | Stolen: Your family bred horses--beautiful creatures that few could [[Rival\|rival]] on the track and in the jousting lists. When a local noble arrived with an offer to buy your prized stallion, your father refused. The noble struck him down where he stood and stole the horse. Without that stallion, the renowned bloodline would end. You intend to get them back--and get revenge.                                         |
+| 6   | Stolen: Your family bred horses--beautiful creatures that few could [[Rival\|rival]] on the track and in the jousting lists. When a local [[Noble\|noble]] arrived with an offer to buy your prized stallion, your father refused. The [[Noble\|noble]] struck him down where he stood and stole the horse. Without that stallion, the renowned bloodline would end. You intend to get them back--and get revenge.                   |
 
 ### GLADIATOR
 
@@ -2956,7 +2956,7 @@ You gain the following career benefits:
 | 2   | Heckler: As you stood victorious on the arena sands, a voice cried out among the cheering. "This violence is just for show. You should be ashamed. There are people who need you-who need your skills!" Why did that voice ring so clear? And why did it sound so [[Familiar\|familiar]]? You never saw the face of the person who uttered those words, but they weighed heavy on you. The next day, you fled the arena to begin a hero's life. |
 | 3   | Joined the Arena: As a child, you loved gladiatorial matches, captivated by the fierce displays of showmanship, never giving much thought to how the competitors ended up in the ring. Then your friend was wrongly accused of a crime and sentenced to compete. You went in their place. After viewing what life was like for those forced to fight, you survived your sentence and resolved to protect the unfairly condemned.                |
 | 4   | New Challenges: You earned every title you could. You beat every opponent willing to face you in the arena. Your final battle with your [[Rival\|rival]] ended with you victorious-and still you were unsatisfied. There are other, greater foes out there-and you mean to find them.                                                                                                                                                           |
-| 5   | Scion's Compassion: You were born a noble, but the duplicitous and power-hungry nature of your family had you seeking your own fortune in the arena. You saw that competitors brought there by circumstance and not choice suffered. You gave all you could of your family money to those less fortunate folk and then set out to make a real difference in this cruel world.                                                                   |
+| 5   | Scion's Compassion: You were born a [[Noble\|noble]], but the duplicitous and power-hungry nature of your family had you seeking your own fortune in the arena. You saw that competitors brought there by circumstance and not choice suffered. You gave all you could of your family money to those less fortunate folk and then set out to make a real difference in this cruel world.                                                        |
 | 6   | Warriors' Home: The orphanage you grew up in secretly supplied [[Gladiator\|gladiators]] to the arena. Forced to fight against many childhood friends as an adult, you vowed to dismantle the arena and free other victims. You became a liberator, dedicating to ending the oppression of others until your dying breath.                                                                                                                      |
 
 ### LABORER
@@ -2981,7 +2981,7 @@ You gain the following career benefits:
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Deep Sentinel: Spending your days cleaning and maintaining the sewers doesn't make you many friends. But you found friendship among the rats. You fought the monsters that [[Hunted\|hunted]] your friends, and which everyone else ignored. After making the sewers safe for the rats, you decided to take your talents to the surface and serve other humanoids who might appreciate your efforts in the same way. |
 | 2   | Disaster: A disaster, such as a cave-in, wildfire, or tidal wave, hit your crew while you were working. You saved as many as you could, but the ones you couldn't save weigh heavily on your mind. You took up the life of a hero to save as many people as possible, vowing that what happened to you won't happen again.                                                                                           |
-| 3   | Embarrassment: A noble you worked for admonished you publicly for work done poorly--and more than once. Finally, you'd had enough. You vowed to take up a new path and show this noble you're far more than what they make you out to be.                                                                                                                                                                            |
+| 3   | Embarrassment: A [[Noble\|noble]] you worked for admonished you publicly for work done poorly--and more than once. Finally, you'd had enough. You vowed to take up a new path and show this [[Noble\|noble]] you're far more than what they make you out to be.                                                                                                                                                      |
 | 4   | Live the Dream: You worked with a good friend, and on the job, you would always fantasize about what it would be like to hit the road as adventuring heroes... someday. You didn't count on your friend [[Falling\|falling]] ill and passing away. Now it's time to live out that dream for both of you.                                                                                                             |
 | 5   | Shining Light: You kept a lighthouse along the constantly stormy cliffs of your village with your mentor. On a clear and sunny day, your mentor vanished. Finding only a cryptic notebook filled with his musings on the supernatural, you left to find what really happened. The trail has gone cold for now, and you're helping others find their loved ones in the meantime.                                      |
 | 6   | Slow and Steady: You labored silently as an uncaring boss drove those around you into the ground, pushing you to work harder to lessen the burden on your companions. But when the boss pushed too far and killed a friend of yours, you led an uprising against them. That was the start of your adventuring life.                                                                                                  |
@@ -3209,7 +3209,7 @@ If your hero knows a language, they can speak, read, write, and understand it.
 
 ### CAELIAN EMPIRE
 
-The Caelian Empire dominated five of the seven regions of Orden three thousand years ago. During the height of this most recent [[Human|human]] empire, all [[Human|humans]] (including folks from Vanigar in the far north, but not folks from the islands of Ix) learned to speak the Caelian tongue. For many, especially the noble classes and the well-to-do, Caelian effectively replaced their native language.
+The Caelian Empire dominated five of the seven regions of Orden three thousand years ago. During the height of this most recent [[Human|human]] empire, all [[Human|humans]] (including folks from Vanigar in the far north, but not folks from the islands of Ix) learned to speak the Caelian tongue. For many, especially the [[Noble|noble]] classes and the well-to-do, Caelian effectively replaced their native language.
 
 Some thirteen hundred years after the fall of the Caelian Empire, the languages of the different regions of the empire are enjoying a resurgence. Still, the Caelian tongue is spoken by most [[Human|humans]] in most regions to one extent or another.
 
@@ -3269,7 +3269,7 @@ Most languages have colloquial or casual names. For instance, many people in Ord
 
 #### LANGUAGE USAGE
 
-**Hyrallic** is the primary language of the high elves in Orden. Although young for an elf language, Hyrallic is older than almost all other modern cultural languages, save those of the [[Dwarf|dwarves]]. As a result, while anyone who lives near or trades with a [[Human|human]] culture probably speaks at least a little Caelian, most nobles across all ancestries make sure their children or offspring speak Hyrallic. Caelian is new from many cultures' point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
+**Hyrallic** is the primary language of the high elves in Orden. Although young for an elf language, Hyrallic is older than almost all other modern cultural languages, save those of the [[Dwarf|dwarves]]. As a result, while anyone who lives near or trades with a [[Human|human]] culture probably speaks at least a little Caelian, most [[Noble|nobles]] across all ancestries make sure their children or offspring speak Hyrallic. Caelian is new from many cultures' point of view, while Hyrallic as a language for diplomacy is considered cultured and traditional.
 
 **Yllyric** is the cultural language of wode elves, and also the common language among those who [[Defend|defend]] and protect the natural forests of Orden.
 
@@ -8963,11 +8963,11 @@ Your primordial aspect grants you a feature as shown on the 2nd-Level Aspect Fea
 
 ##### 2ND-LEVEL ASPECT FEATURES
 
-| Aspect     | Feature           |
-| ---------- | ----------------- |
-| Berserker  | Unstoppable Force |
-| Reaver     | Inescapable Wrath |
-| Stormwight | Tooth and Claw    |
+| Aspect     | Feature               |
+| ---------- | --------------------- |
+| Berserker  | [[Unstoppable]] Force |
+| Reaver     | Inescapable Wrath     |
+| Stormwight | Tooth and Claw        |
 
 ##### INESCAPABLE WRATH
 
@@ -9123,7 +9123,7 @@ Your primordial aspect grants you a feature as shown on the 3rd-Level Aspect Fea
 | ---------- | ----------------------- |
 | Berserker  | Immovable Object        |
 | Reaver     | See Through Your Tricks |
-| Stormwight | Nature's Knight         |
+| Stormwight | Nature's [[Knight]]     |
 
 ##### IMMOVABLE OBJECT
 
@@ -15243,7 +15243,7 @@ Power Roll + Reason:
 
 ##### STEEL (11 CLARITY)
 
-*The target's skin becomes chrome and tough. They become an unstoppable titanium titan.*
+*The target's skin becomes chrome and tough. They become an [[Unstoppable|unstoppable]] titanium titan.*
 **Keywords:** Metamorphosis, Psionic
 
 **Type:** Maneuver
@@ -16908,7 +16908,7 @@ You gain one skill of your choice.
 
 # KITS
 
-The knight in [[Shining Armor|shining armor]]. The [[Warrior Priest|warrior priest]]. The [[Sniper|sniper]]. Censors, furies, shadows, tacticians, and troubadours can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize martial heroes for battle.
+The [[Knight|knight]] in [[Shining Armor|shining armor]]. The [[Warrior Priest|warrior priest]]. The [[Sniper|sniper]]. Censors, furies, shadows, tacticians, and troubadours can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize martial heroes for battle.
 
 ## CHANGING YOUR KIT
 
@@ -17345,7 +17345,7 @@ Power Roll + Might or Agility:
 
 ### PUGILIST
 
-Meant for brawlers and boxers, the [[Pugilist]] kit gives you access to a melee fighting style that gives you a boost to Stamina and damage while allowing you to float like a butterfly. If you want to be a tough, strong hero who doles out punishment with your fists, then this kit is for you.
+Meant for [[Brawler|brawlers]] and boxers, the [[Pugilist]] kit gives you access to a melee fighting style that gives you a boost to Stamina and damage while allowing you to float like a butterfly. If you want to be a tough, strong hero who doles out punishment with your fists, then this kit is for you.
 
 #### EQUIPMENT
 
@@ -17523,7 +17523,7 @@ Power Roll + Might or Agility:
 
 ### SHINING ARMOR
 
-The [[Shining Armor]] kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
+The [[Shining Armor]] kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical [[Knight|knight]].
 
 #### EQUIPMENT
 
@@ -17998,7 +17998,7 @@ This section presents the intrigue perks in alphabetical order.
 
 ### CRIMINAL CONTACTS
 
-You have access to a network of [[Criminal Contacts|criminal contacts]]. As a respite activity during a respite in a settlement, you can ask a question of your contacts. Make a Presence test. On a tier 2 result, you gain knowledge that would be common among [[Criminal|criminals]] (e.g. the secret entrances into a building, the location of a local, hidden [[Criminal|criminal]], the name of a local thieves' guild leader). On a tier 3 result, you can also gain knowledge that would be uncommon among [[Criminal|criminals]], if such information exists (e.g. the location of a local treasure stock, the location of a murder weapon used in a noble's assassination, the name of an NPC secretly bankrolling a local assassin's guild).
+You have access to a network of [[Criminal Contacts|criminal contacts]]. As a respite activity during a respite in a settlement, you can ask a question of your contacts. Make a Presence test. On a tier 2 result, you gain knowledge that would be common among [[Criminal|criminals]] (e.g. the secret entrances into a building, the location of a local, hidden [[Criminal|criminal]], the name of a local thieves' guild leader). On a tier 3 result, you can also gain knowledge that would be uncommon among [[Criminal|criminals]], if such information exists (e.g. the location of a local treasure stock, the location of a murder weapon used in a [[Noble|noble]]'s assassination, the name of an NPC secretly bankrolling a local assassin's guild).
 
 ### FORGETTABLE FACE
 
@@ -18491,7 +18491,7 @@ You have contracted a rare magical disease called [[Evanesceria|evanesceria]]. T
 
 ### EXILE
 
-Whether you're a convicted [[Criminal|criminal]], a noble stripped of their title, or just someone who made one too many enemies, you've been cast forth from your homeland, never to return--at least, until you're strong enough to set things right.
+Whether you're a convicted [[Criminal|criminal]], a [[Noble|noble]] stripped of their title, or just someone who made one too many enemies, you've been cast forth from your homeland, never to return--at least, until you're strong enough to set things right.
 
 **Benefit:** You learn an extant spoken language of your choice.
 
@@ -18555,7 +18555,7 @@ You are in love with someone, but tragic circumstances keep you apart--perhaps y
 
 ### FROSTHEART
 
-At the edge of the world, you were lost in a winter storm and presumed dead--but returned with frosty skin and pale eyes.
+At the edge of the world, you were lost in a winter storm and [[Presumed Dead|presumed dead]]--but returned with frosty skin and pale eyes.
 
 **Benefit:** You have cold immunity 5. When you would deal untyped damage with strike, you can instead deal cold damage.
 
@@ -18653,7 +18653,7 @@ You're hunting someone or something--perhaps a wanted [[Criminal|criminal]] or s
 
 ### INDEBTED
 
-A deal went south, or you got involved with the wrong people, and now you owe a debt or a ransom--the kind that would bankrupt a minor noble. In order to pay it off, you'll need to take some dangerous risks.
+A deal went south, or you got involved with the wrong people, and now you owe a debt or a ransom--the kind that would bankrupt a minor [[Noble|noble]]. In order to pay it off, you'll need to take some dangerous risks.
 
 **Benefit:** You're good with money--you've had to be. Whenever you would gain Wealth, you gain 1 more than what you'd normally earn.
 
@@ -19353,7 +19353,7 @@ Depending on a test's difficulty and the result of the power roll made to accomp
 
 If you fail a hard test and incur a consequence, you don't do what you set out to do--in addition to which, you suffer an impactful setback. The Director determines the exact nature of the consequence, which is typically related to the specific task. For instance, if a hero suffers a consequence while trying to climb a wall, they might make it halfway up the wall and then fall, taking damage and landing [[Prone|prone]]. A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to arrest the hero or lead them into a trap. If a hero suffers a consequence on a Reason test made to recall lore about the king's favorite meal, they might confuse it for a dish to which the [[Monarch|monarch]] is deathly allergic.
 
-Not all consequences need to be immediate or apparent. For example, a hero might fail with a consequence on a test made to cheat at a high-stakes game of cards with a noble. The failure means that the noble notices, but the Director decides that the noble doesn't say anything. This consequence isn't made apparent until later in the evening, when the noble has guards surround the hero and take the cheater down to the dungeon for stacking the deck.
+Not all consequences need to be immediate or apparent. For example, a hero might fail with a consequence on a test made to cheat at a high-stakes game of cards with a [[Noble|noble]]. The failure means that the [[Noble|noble]] notices, but the Director decides that the [[Noble|noble]] doesn't say anything. This consequence isn't made apparent until later in the evening, when the [[Noble|noble]] has guards surround the hero and take the cheater down to the dungeon for stacking the deck.
 
 Common consequences for failing a test include the following:
 
@@ -19396,7 +19396,7 @@ If you succeed on a test without consequence or reward, you simply achieve whate
 
 If you succeed on a test with a reward, you accomplish whatever you set out to do. But you also gain a little something extra, in the form of momentum or luck that makes the immediate future easier for you or your friends. The Director determines your reward, which is most often related to the task at hand. For instance, if you succeed with a reward while climbing a wall, you might find a ladder at the top that you can lower so any allies climbing after you can do so without needing to make a test. A hero trying to sneak by cultists who succeeds with a reward might then be able to dose the cultists' nearby water barrel with sleeping poison as they pass by unseen. Succeeding with a reward while bribing a prison guard could mean that the guard will unlock a door for you in addition to forgetting you were ever there.
 
-As with consequences, the reward that comes with a success doesn't need to be immediate or apparent. For example, a hero succeeds with a reward on an easy test made to cheat at a high-stakes game of cards with a noble. Not only does the hero win the game, but the Director decides that their reward comes from a servant watching the game who's impressed with the character's performance. After the game, the servant approaches the hero, offering a Flying Potion from the noble's private stash in congratulations and admiration.
+As with consequences, the reward that comes with a success doesn't need to be immediate or apparent. For example, a hero succeeds with a reward on an easy test made to cheat at a high-stakes game of cards with a [[Noble|noble]]. Not only does the hero win the game, but the Director decides that their reward comes from a servant watching the game who's impressed with the character's performance. After the game, the servant approaches the hero, offering a Flying Potion from the [[Noble|noble]]'s private stash in congratulations and admiration.
 
 Some common rewards accompanying success on a test include the following:
 
@@ -19494,7 +19494,7 @@ You can't apply more than one skill to a test.
 
 It's not the Director's job to know all the skills in this game or to know the specific skills your hero has. Instead, the Director asks you to make a test with a characteristic and you tell the Director if you think you have a skill that applies. If it's not obvious why the skill applies, tell your Director how your hero is approaching the task and justify why that approach uses the skill. The Director then decides if you get the +2 bonus or not. If the Director disagrees with you, that's the final word. Lose gracefully.
 
-If the Director does agree with you, then you get the +2 bonus from the skill! Approaching problems creatively, while remaining reasonable, can help you get the most out of your skills. For example, if you're making a Presence test to impress a noble at a party, the Brag skill is obvious choice, but what if you don't have that skill? Maybe you could instead try to impress the noble with a Presence test that uses the Magic skill (which you do have), as you give a brief, exciting lecture about the nature of the elements. If I was your Director, I'd allow it!
+If the Director does agree with you, then you get the +2 bonus from the skill! Approaching problems creatively, while remaining reasonable, can help you get the most out of your skills. For example, if you're making a Presence test to impress a [[Noble|noble]] at a party, the Brag skill is obvious choice, but what if you don't have that skill? Maybe you could instead try to impress the [[Noble|noble]] with a Presence test that uses the Magic skill (which you do have), as you give a brief, exciting lecture about the nature of the elements. If I was your Director, I'd allow it!
 
 Sometimes, you won't have a skill that applies to a test. That's okay! If your characteristic score is decent, you likely still have a good chance of success without a skill.
 
@@ -19640,7 +19640,7 @@ Failure consequences for tests made with lore skills typically include learning 
 | Psionics           | Knowing about psionic places, spells, rituals, items, and phenomena                                      |
 | Religion           | Knowing about religious mythology, practices, and rituals                                                |
 | Rumors             | Knowing gossip, legends, and uncertain truths                                                            |
-| Society            | Knowing noble etiquette and the leadership and power dynamics of noble families                          |
+| Society            | Knowing [[Noble\|noble]] etiquette and the leadership and power dynamics of [[Noble\|noble]] families    |
 | Strategy           | Knowing about battle tactics and logistics                                                               |
 | Timescape          | Knowing about the various planets of the timescape                                                       |
 
@@ -20611,7 +20611,7 @@ If the heroes rescue a powerful ally from the clutches of their foes during comb
 
 Surprising as it may seem, sometimes the fate of the mission doesn't rest on the heroes' shoulders at all! Sometimes it rests on the shoulders of someone standing next to the heroes. The heroes' job is to keep this important person safe as they travel to a specific destination.
 
-Sometimes the heroes are tasked with protecting a helpless or even an actively troublesome creature, such as a hapless noble or a wayward child. They might even have to protect a bulky or inconvenient inanimate object. Whatever the case, the enemies just keep coming until the heroes get their [[Charge|charge]] to their destination.
+Sometimes the heroes are tasked with protecting a helpless or even an actively troublesome creature, such as a hapless [[Noble|noble]] or a wayward child. They might even have to protect a bulky or inconvenient inanimate object. Whatever the case, the enemies just keep coming until the heroes get their [[Charge|charge]] to their destination.
 
 #### HOLD THEM OFF
 
@@ -20641,7 +20641,7 @@ Event endings can cover big scenarios such as the characters destroying a dam to
 
 # NEGOTIATION
 
-Negotiation gives the heroes a chance to get what they want without combat ... or at least without further combat! You might negotiate with a king to obtain military support against an incursion of demons in a neighboring country. You could enter into talks with a bandit leader to convince her to stop attacking merchant caravans on the road, and instead target nobles loyal to a tyrant. You might attempt to convince an archmage to allow you access to their secret library so you can research the location of a dragon-slaying axe. Negotiation covers all these scenarios and more.
+Negotiation gives the heroes a chance to get what they want without combat ... or at least without further combat! You might negotiate with a king to obtain military support against an incursion of demons in a neighboring country. You could enter into talks with a bandit leader to convince her to stop attacking merchant caravans on the road, and instead target [[Noble|nobles]] loyal to a tyrant. You might attempt to convince an archmage to allow you access to their secret library so you can research the location of a dragon-slaying axe. Negotiation covers all these scenarios and more.
 
 Think of negotiation as something like learning a new system for combat, exploration, or investigation in an RPG. This set of rules provides a framework for roleplaying. The negotiation rules are meant to be read by players and Directors, so that both understand the rules of negotiation. If a player hasn't read these rules, the Director and other players who have can explain them to that player during their first negotiation.
 
@@ -20756,7 +20756,7 @@ Arguments that appeal to a freedom motivation contend that helping the heroes wi
 
 An NPC with the greed motivation desires wealth and resources above almost anything else. Sometimes these NPCs are misers, much like wyrms who hoard coins and gems but never spend or donate them. Others flaunt their wealth, viewing it as a sign of their station in life.
 
-Greed-driven NPCs might share their wealth with a select group of people they love, such as a noble lord who indulges his children's every desire. Some NPCs might be greedy for resources other than money, such as a demon
+Greed-driven NPCs might share their wealth with a select group of people they love, such as a [[Noble|noble]] lord who indulges his children's every desire. Some NPCs might be greedy for resources other than money, such as a demon
 
 who wants to collect and devour souls, or a troll lord who hungers endlessly for the flesh of others.
 
@@ -20769,7 +20769,7 @@ Arguments that appeal to a greed motivation contend that helping the heroes will
 
 #### HIGHER AUTHORITY
 
-An NPC with the higher authority motivation remains staunchly loyal to a person or force they perceive as more important than themself. This higher authority could be an organization, a deity or being of great power, a formal leader such as a noble or [[Monarch|monarch]], a mystical presence or force the NPC might not fully understand, or a person the NPC sees as an informal authority figure (an older sibling, a personal hero, and so forth).
+An NPC with the higher authority motivation remains staunchly loyal to a person or force they perceive as more important than themself. This higher authority could be an organization, a deity or being of great power, a formal leader such as a [[Noble|noble]] or [[Monarch|monarch]], a mystical presence or force the NPC might not fully understand, or a person the NPC sees as an informal authority figure (an older sibling, a personal hero, and so forth).
 
 An NPC with the higher authority pitfall scoffs at the idea of serving another. The NPC might not believe that all people should be free, but they certainly believe that they personally shouldn't have to answer to anyone.
 
@@ -20787,7 +20787,7 @@ An NPC with the justice pitfall doesn't believe that the timescape is an inheren
 Arguments that appeal to a justice motivation position the heroes on the good side of an NPC's sense of right and wrong. Example arguments include the following:
 
 - "You despise those who steal from nature. Allow us peacefully into your wode so we may bottle the Blessed Spring's water. We're going to use it to stop an army from felling every tree and tearing up the earth wherever they go."
-- "You think nobles are lazy barons who get rich off the backs of peasants. We want to dethrone Lord Saxton. Lend us your crew of thieves, and we'll see to it that when Saxton falls, the people can choose their own leaders."
+- "You think [[Noble|nobles]] are lazy barons who get rich off the backs of peasants. We want to dethrone Lord Saxton. Lend us your crew of thieves, and we'll see to it that when Saxton falls, the people can choose their own leaders."
 
 #### LEGACY
 
@@ -20808,7 +20808,7 @@ An NPC with the peace pitfall hates being bored. They want excitement, drama, an
 
 Arguments that appeal to a peace motivation contend that helping the heroes will earn the NPC some peace, at least for a little while. Example arguments include the following:
 
-- "You have a good thing going here. A little burgling of nobles, some alcohol smuggling, and some illegal gambling dens. No one's getting hurt, but Constable Cofax is closing in on you. We could redirect him toward some real danger to the community, if you can help us set a trap for the Watchmaker."
+- "You have a good thing going here. A little burgling of [[Noble|nobles]], some alcohol smuggling, and some illegal gambling dens. No one's getting hurt, but Constable Cofax is closing in on you. We could redirect him toward some real danger to the community, if you can help us set a trap for the Watchmaker."
 - "I know you don't sell to outsiders, but we need that helm. I'm going to use it to turn back a group of hobgoblins marching this way. They're not going to be as friendly as us."
 
 #### POWER
@@ -20908,7 +20908,7 @@ While the heroes can discover an NPC's motivations or pitfalls through tests mad
 
 ## MAKING ARGUMENTS
 
-As part of their initial request to an NPC in a negotiation, a hero makes an argument as to why the NPC should give the heroes what they want. The hero might offer to do something in exchange as part of their argument, such as clear bandits from a forest, hand over a piece of treasure, or slay a dragon for the NPC. Or instead of offering something, the hero could attempt to convince the NPC that it's in their own best interest to help--or even that it's a moral imperative. For example, a hero could appeal to a knight's sense of duty, the potential wealth a mercenary could make, or the final wish of a queen's dearly departed grandmother as part of an argument. NPCs who admire the heroes are more likely to respond to compliments and buttering up, while those who fear the heroes are more likely to respond to intimidation and awe.
+As part of their initial request to an NPC in a negotiation, a hero makes an argument as to why the NPC should give the heroes what they want. The hero might offer to do something in exchange as part of their argument, such as clear bandits from a forest, hand over a piece of treasure, or slay a dragon for the NPC. Or instead of offering something, the hero could attempt to convince the NPC that it's in their own best interest to help--or even that it's a moral imperative. For example, a hero could appeal to a [[Knight|knight]]'s sense of duty, the potential wealth a mercenary could make, or the final wish of a queen's dearly departed grandmother as part of an argument. NPCs who admire the heroes are more likely to respond to compliments and buttering up, while those who fear the heroes are more likely to respond to intimidation and awe.
 
 Arguments need a justification as to why they're true. "Helping us defeat Lord Saxton is good for you in the long run," is half of an argument, so that the hero also needs to explain why this is the case. "Helping us defeat Lord Saxton is good for you in the long run, because we know he's coming for your kingdom after Bedegar falls!" If a hero makes half an argument, the NPC might follow up with questions such as, "Why do you say that?" or "What makes you think that's true?" to get the full argument from the hero.
 
@@ -20966,20 +20966,20 @@ The higher an NPC's Impression, the harder they are to influence with Renown. A 
 
 #### NPCS AND IMPRESSION
 
-| Impression | Example NPC                                          |
-| ---------- | ---------------------------------------------------- |
-| 1          | Brigand leader, commoner, shop owner                 |
-| 2          | Knight, local guildmaster, professor                 |
-| 3          | Cult leader, locally known mage, noble lord          |
-| 4          | Assassin, baron, locally famous entertainer          |
-| 5          | Watch captain in a large city, high priest, viscount |
-| 6          | Count, warlord                                       |
-| 7          | Marquis, world-renowned entertainer                  |
-| 8          | Duke, spymaster                                      |
-| 9          | Archmage, prince                                     |
-| 10         | Demon lord, [[Monarch\|monarch]]                     |
-| 11         | Archdevil, archfey, [[Demigod\|demigod]]             |
-| 12         | Deity, titan                                         |
+| Impression | Example NPC                                            |
+| ---------- | ------------------------------------------------------ |
+| 1          | Brigand leader, commoner, shop owner                   |
+| 2          | [[Knight]], local guildmaster, professor               |
+| 3          | Cult leader, locally known mage, [[Noble\|noble]] lord |
+| 4          | Assassin, baron, locally famous entertainer            |
+| 5          | Watch captain in a large city, high priest, viscount   |
+| 6          | Count, warlord                                         |
+| 7          | Marquis, world-renowned entertainer                    |
+| 8          | Duke, spymaster                                        |
+| 9          | Archmage, prince                                       |
+| 10         | Demon lord, [[Monarch\|monarch]]                       |
+| 11         | Archdevil, archfey, [[Demigod\|demigod]]               |
+| 12         | Deity, titan                                           |
 
 #### FAME OR INFAMY?
 
@@ -21009,7 +21009,7 @@ Under certain circumstances, an NPC might not want to show the heroes how well t
 
 If the NPC's interest is 5, they offer everything the heroes initially asked for--and then sweeten the deal. This result is the best possible outcome for the heroes. If they offered to perform any services or make payments as part of the deal, the NPC might waive those obligations, allowing the heroes to get what they want for free. Alternatively, the NPC might hold the heroes to any offers they made and instead offer an extra service or item on top of what was asked for.
 
-For example, if the heroes asked the boss of a thieves guild for that organization's help in standing against Lord Saxton, the guildmaster might pledge to send a unit of elite assassins to aid in the battle against that tyrannical noble, and then offer the heroes a quiver filled with explosive arrows to give them an additional advantage in the fight.
+For example, if the heroes asked the boss of a thieves guild for that organization's help in standing against Lord Saxton, the guildmaster might pledge to send a unit of elite assassins to aid in the battle against that tyrannical [[Noble|noble]], and then offer the heroes a quiver filled with explosive arrows to give them an additional advantage in the fight.
 
 The NPC should let the heroes know that this is the best offer they can make.
 
@@ -21420,7 +21420,7 @@ Armor imbued with an enhancement grants you special benefits while it is worn. A
 
 **Damage Immunity I:** When you begin this project, select three damage types. You have immunity 5 to those damage types.
 
-**Disguise:** You can use a maneuver to cause this armor to appear as any type of clothing that you have been in the presence of--a noble's dress, a guard's uniform, a cultist's robes, and so forth. The armor loses none of its protective qualities while transformed into other clothing.
+**Disguise:** You can use a maneuver to cause this armor to appear as any type of clothing that you have been in the presence of--a [[Noble|noble]]'s dress, a guard's uniform, a cultist's robes, and so forth. The armor loses none of its protective qualities while transformed into other clothing.
 
 **Iridescent:** When you are the sole target of an ability, you can use a free triggered action to reveal that the ability was targeting an afterimage of you in the same space as you. The power roll for the ability is treated as an 11. You can't use this enhancement again until you earn a Victory.
 
@@ -21925,7 +21925,7 @@ When you begin a Discover Lore project, other creatures can also work on the pro
 
 #### COMMON KNOWLEDGE
 
-Common knowledge is generally easy to discover with a day or so of research. It's not known by every passerby and takes time to uncover, but with plentiful local sources for the information, you don't need to spend a lot of time searching. It could be that you need to question several members of a rumor mill to figure out who a noble is notso-secretly courting, or you might need to spend a few hours in a temple to find the particular religious text that carries a seldom-used alternative name for a deity.
+Common knowledge is generally easy to discover with a day or so of research. It's not known by every passerby and takes time to uncover, but with plentiful local sources for the information, you don't need to spend a lot of time searching. It could be that you need to question several members of a rumor mill to figure out who a [[Noble|noble]] is notso-secretly courting, or you might need to spend a few hours in a temple to find the particular religious text that carries a seldom-used alternative name for a deity.
 
 #### OBSCURE KNOWLEDGE
 
@@ -22122,7 +22122,7 @@ When you finish rolling, you can spend the points you earned on a reward from th
 | 7                       | The hero manages to reach a new fishing milestone. They gain the following title. Master of Reels: When you deal damage to a creature or object that is 2 or more squares away from you that doesn't force move the creature, you can choose to pull the target a number of squares equal to your Agility, Reason, or Presence score (your choice). |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | 8                       | It's a relaxing, meditative exercise! While fishing, the hero has a breakthrough either on another project they're working on, or they can give the breakthrough to another hero's project.                                                                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | 9                       | While fishing, the hero is pulled by an ancient fish. The hero must succeed on a hard Might test in order to reel in a humongous fish worth 100 points, or fail and end the respite with 1 Recovery fewer than their maximum. On a success with [[Complications\|complication]] result, the hero gets the fish and loses the Recovery.              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| 10                      | While fishing, the hero catches their line on what appears to be an underwater cavern. Inside the cavern is a treasure of the Director's choice being guarded by a [[Revenant\|revenant]] knight fulfilling their duty until their captain returns.                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 10                      | While fishing, the hero catches their line on what appears to be an underwater cavern. Inside the cavern is a treasure of the Director's choice being guarded by a [[Revenant\|revenant]] [[Knight\|knight]] fulfilling their duty until their captain returns.                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 ### SPEND TIME WITH LOVED ONES
 
@@ -22167,7 +22167,7 @@ Treasures come in all shapes and sizes, and are broken down into four types:
 
 ### FOUND, EARNED, OR CRAFTED
 
-The rules of the game account for worlds where the average person--sometimes even the average noble doesn't have regular access to treasures. There might be an apothecary in the capital city of a region, but they're selling herbal remedies, not supernatural potions. In Vasloria, a town blacksmith isn't selling magic maces, and the local tailor doesn't make psionic capes. There simply aren't enough treasures readily available to create a good trade economy. Word sometimes gets around of mysterious clubs where heroes and treasure seekers can meet up to swap items, but the constant threat of thieves makes such markets difficult to find.
+The rules of the game account for worlds where the average person--sometimes even the average [[Noble|noble]] doesn't have regular access to treasures. There might be an apothecary in the capital city of a region, but they're selling herbal remedies, not supernatural potions. In Vasloria, a town blacksmith isn't selling magic maces, and the local tailor doesn't make psionic capes. There simply aren't enough treasures readily available to create a good trade economy. Word sometimes gets around of mysterious clubs where heroes and treasure seekers can meet up to swap items, but the constant threat of thieves makes such markets difficult to find.
 
 Most treasures are found as part of adventures. Many people concoct dastardly schemes, but only those with the will and power to enact that vision become villains--and acquiring treasures of great power is often part of a villain's plans. As such, the heroes who vanquish those
 
@@ -22658,19 +22658,13 @@ Each time you use another Breath of Creation, you can create a new demiplane or 
 ##### PAGE FROM THE INFINITE LIBRARY: SOLARIS
 
 *This page is covered with writing and diagrams detailing the release of limitless energy--and the dangers of doing so.*
-
-# 
-
 **Keywords:** Magic
 
 **Item Prerequisites:** One vial of sacred ink, blessed parchment
 
--
--
-- **Project Source:** First Language reference materials from the Infinite Library detailing incomplete instructions for building a sun
-    **Project Roll Characteristic:** Reason or Intuition
--
-- **Project Goal:** 360
+**Project Source:** First Language reference materials from the Infinite Library detailing incomplete instructions for building a sun
+**Project Roll Characteristic:** Reason or Intuition
+**Project Goal:** 360
 
 **Effect:** As a maneuver, you spend 1 Heroic Resource to destroy this page and create a 4-cube area within 20 squares. The area is filled with the energy of a tiny sun that lasts until the end of the encounter. Any creature who enters the area for the first time in a round or starts their turn there takes 20 fire damage and is [[Dazed|dazed]] until the end of their turn.
 
@@ -22687,7 +22681,7 @@ Each time you use another Breath of Creation, you can create a new demiplane or 
 
 **Project Goal:** 360
 
-**Effect:** When opened as a maneuver, this vial bursts into a storm of multicolored lights. You and each ally within 5 squares of you regain 1d6 Recoveries. However, any mortal using this treasure draws the interest of a powerful fey noble.
+**Effect:** When opened as a maneuver, this vial bursts into a storm of multicolored lights. You and each ally within 5 squares of you regain 1d6 Recoveries. However, any mortal using this treasure draws the interest of a powerful fey [[Noble|noble]].
 
 ### TRINKETS
 
@@ -23949,7 +23943,7 @@ Though its size and make are often debated, the sword is consistently described 
 
 This scepter waits high in the sky, resting within an endlessly raging cyclone. It waits for the one who will unify all people under its light. It awaits its champion.
 
-The Encepter is said to have first manifested in a young world doomed to apocalypse--unless every last inhabitant of that world could stand together. The scepter is said to impose either dominion or obliteration over any threat its light is drawn around. Today, it is most commonly known as a bad omen, and should the Encepter reveal itself, folk know that the world teeters on the brink of destruction. Whether any of the stories are true, few can say, for the only living eyes that have witnessed the Encepter belong to dragons deep in slumber.
+The Encepter is said to have first manifested in a young world [[Doomed|doomed]] to apocalypse--unless every last inhabitant of that world could stand together. The scepter is said to impose either dominion or obliteration over any threat its light is drawn around. Today, it is most commonly known as a bad omen, and should the Encepter reveal itself, folk know that the world teeters on the brink of destruction. Whether any of the stories are true, few can say, for the only living eyes that have witnessed the Encepter belong to dragons deep in slumber.
 
 **Shining Presence:** The one who wields the Encepter is always cast in a brilliant glow. Any power roll made by the wielder that uses Presence automatically achieves a tier 3 result, though the wielder can still roll in an attempt to score a critical hit.
 
@@ -23998,7 +23992,7 @@ Each title has a unique requirement--you might need to defeat a specific monster
 
 Titles aren't given out on a schedule. Instead, the Director grants one whenever heroes perform a deed worthy of it. Just as a hero doesn't automatically find a magic weapon just because they meet the requirements for using it, they don't automatically earn a title unless it's granted by the Director.
 
-Although the Director gives out titles, players can work with the Director towards a specific goal. For instance, a player might say, "I'm interested in the Dragon Blooded title. Can my hero listen for rumors of any wicked dragons nearby that need smiting?" Having ambition is good! Pursue the titles you want that will make you a better hero!
+Although the Director gives out titles, players can work with the Director towards a specific goal. For instance, a player might say, "I'm interested in the [[Dragon Blooded]] title. Can my hero listen for rumors of any wicked dragons nearby that need smiting?" Having ambition is good! Pursue the titles you want that will make you a better hero!
 
 ### TITLE ECHELONS
 
@@ -24012,7 +24006,7 @@ In the following pages, you'll find lots of premade titles. But the Director can
 
 Similarly, the Director can grant custom titles when the heroes befriend specific factions, defeat notorious villains, or learn new moves from skilled NPCs.
 
-While the Director can always create titles from scratch, the easiest way to create custom titles is to modify an existing title's requirements to fit the adventure at hand. For instance, maybe your world contains a secretive organization of freedom fighters, the Jesters, who never carry weapons, defeating foes with unarmed attacks and improvised weapons. You could modify the requirements of the Brawler title, changing its requirements to "Join the Jesters."
+While the Director can always create titles from scratch, the easiest way to create custom titles is to modify an existing title's requirements to fit the adventure at hand. For instance, maybe your world contains a secretive organization of freedom fighters, the Jesters, who never carry weapons, defeating foes with unarmed attacks and improvised weapons. You could modify the requirements of the [[Brawler]] title, changing its requirements to "Join the Jesters."
 
 ### HOW MANY TITLES?
 
@@ -24024,7 +24018,7 @@ If there's a specific title you want to earn, let your Director know. It's good 
 
 Some titles have only one benefit. These are typically earned individually by heroes instead of together as a group. Only the hero doing the studying reaps the reward!
 
-Most titles, however, are earned by all the heroes at once for accomplishing a great task, benefiting them all. These titles typically offer a menu of three or four different options. When the party earns the title, each player decides which benefit they hero takes. For instance, if the party triumphs in a tavern fight and gains the Brawler title, one hero might become more adept at fighting with improvised weapons, another might learn a special dodge to use when flanked by multiple enemies, and two others might simply revel in increased notoriety. Any hero can take any of a title's benefits they qualify for, and multiple characters can take the same benefit.
+Most titles, however, are earned by all the heroes at once for accomplishing a great task, benefiting them all. These titles typically offer a menu of three or four different options. When the party earns the title, each player decides which benefit they hero takes. For instance, if the party triumphs in a tavern fight and gains the [[Brawler]] title, one hero might become more adept at fighting with improvised weapons, another might learn a special dodge to use when flanked by multiple enemies, and two others might simply revel in increased notoriety. Any hero can take any of a title's benefits they qualify for, and multiple characters can take the same benefit.
 
 ### GRANTING TITLES
 
@@ -24032,7 +24026,7 @@ Titles are rewards for heroic actions, and they often go hand in hand with treas
 
 There's no hard and fast rule for the number of titles a party should accumulate by a certain level. If the party wins a title whenever they accomplish a truly notable deed--once every few adventures--then they might earn about one title per level. Sticking to this rate isn't a requirement. A party might easily earn twice or half as many titles--they'll just be a bit more or less powerful than they otherwise would be. A Director can even skip granting titles altogether if they wish.
 
-While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for! It's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, the Director can include the Demon Blooded or Dragon Blooded titles as potential rewards alongside that magic cloak or enchanted dagger. A Director can even use the titles system to inspire adventures. What challenges should a hero face to earn the [[Demigod]] title?
+While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for! It's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, the Director can include the Demon Blooded or [[Dragon Blooded]] titles as potential rewards alongside that magic cloak or enchanted dagger. A Director can even use the titles system to inspire adventures. What challenges should a hero face to earn the [[Demigod]] title?
 
 #### OPTIONAL RULE: PLAYERS CHOOSE TITLES
 
@@ -24048,7 +24042,7 @@ The 1st echelon titles are presented in alphabetical order.
 
 Choose one of the following benefits:
 
-- **Leverage:** You learn a priceless secret. The Director chooses the type of person who would value this secret, usually a member of a particular faction, such as a Higaran noble, or a type of person, such as a fence of stolen goods. When negotiating with this type of person, you can offer this secret. If they accept, you instantly raise their interest by 3. You can only share this secret once.
+- **Leverage:** You learn a priceless secret. The Director chooses the type of person who would value this secret, usually a member of a particular faction, such as a Higaran [[Noble|noble]], or a type of person, such as a fence of stolen goods. When negotiating with this type of person, you can offer this secret. If they accept, you instantly raise their interest by 3. You can only share this secret once.
 - **Rare Books:** You add rare, ancient books to your collection. When you make a project roll for a research project, you roll an additional 1d6 for each dead language you know.
 - **Susurrus Codex:** You find a sinister book that whispers advice in a voice no one else can hear. As long as you follow all the book's advice, you gain an edge on Reason tests and a bane on Presence tests. You can stop following the book's advice at any time, but the book won't speak to you for the rest of the day.
 
@@ -24089,7 +24083,7 @@ Choose one of the following benefits:
 
 **Prerequisites:** You are not a [[Hakaan]] but have witnessed the death of a [[Hakaan]].
 
-You're not destined for a meaningful death, but you still might achieve one. When you're reduced to 0 Stamina but still conscious, you can choose to become doomed. If you do, you can't regain Stamina, you automatically get tier 3 results on tests and power rolls, and you don't die until your Stamina equals the negative of your maximum Stamina value. At the end of the encounter, you die.
+You're not destined for a meaningful death, but you still might achieve one. When you're reduced to 0 Stamina but still conscious, you can choose to become [[Doomed|doomed]]. If you do, you can't regain Stamina, you automatically get tier 3 results on tests and power rolls, and you don't die until your Stamina equals the negative of your maximum Stamina value. At the end of the encounter, you die.
 
 #### DWARF LEGIONNAIRE
 
@@ -24193,7 +24187,7 @@ Choose one of the following benefits.
 
 The faction will perform one favor for the party, provided it doesn't interfere with the faction's goals.
 
-Additionally, the faction is a good source of information. The Director chooses a skill from the crafting or lore skill groups appropriate to the faction, such as the [[Criminal]] Underworld skill for an [[Outlaw|outlaw]] gang, the Blacksmith skill for a blacksmith's guild, or the Society skill for a noble house. While in a settlement with the faction, you gain this skill if you don't already have it. If you already have the skill, they gain an edge on tests made with the skill.
+Additionally, the faction is a good source of information. The Director chooses a skill from the crafting or lore skill groups appropriate to the faction, such as the [[Criminal]] Underworld skill for an [[Outlaw|outlaw]] gang, the Blacksmith skill for a blacksmith's guild, or the Society skill for a [[Noble|noble]] house. While in a settlement with the faction, you gain this skill if you don't already have it. If you already have the skill, they gain an edge on tests made with the skill.
 
 #### PRESUMED DEAD
 
@@ -24402,7 +24396,7 @@ Choose one of the following benefits:
 
 *"Haul down your flag or we'll burn you to the waterline!"*
 
-**Prerequisites:** You have the Ship Captain title and you sink or capture a ship of equal or greater size than your own.
+**Prerequisites:** You have the [[Ship Captain]] title and you sink or capture a ship of equal or greater size than your own.
 
 Chooses one of the following benefits:
 
@@ -24418,7 +24412,7 @@ your ship, creatures who have line of effect to it have a bane on strikes made a
 
 *"If there's something you want talk to me. I have a certain amount of ... influence in these parts."*
 
-**Prerequisite:** You have the Faction Member title, and you greatly [[Advance|advance]] the faction's goals.
+**Prerequisite:** You have the [[Faction Member]] title, and you greatly [[Advance|advance]] the faction's goals.
 
 You are given a position of great authority within your faction.
 
@@ -24484,7 +24478,7 @@ Choose one of the following benefits:
 
 #### HEIST HERO
 
-*"Everybody know their assignments? Alright, let's go."* **Prerequisites:** You have the Troupe Tactics title, and you used planning and [[Teamwork|teamwork]] to execute a theft that went (reasonably) according to plan.
+*"Everybody know their assignments? Alright, let's go."* **Prerequisites:** You have the [[Troupe Tactics]] title, and you used planning and [[Teamwork|teamwork]] to execute a theft that went (reasonably) according to plan.
 
 Choose one of the following benefits:
 
@@ -24508,11 +24502,11 @@ Choose one of the following benefits:
 
 #### KNIGHT
 
-*"Kneel, heroes. Arise, knights of Tor, and may your swords be ever sharp in our service."*
+*"Kneel, heroes. Arise, [[Knight|knights]] of Tor, and may your swords be ever sharp in our service."*
 
-**Prerequisites:** A noble or [[Monarch|monarch]] grants you knighthood or a similar rank.
+**Prerequisites:** A [[Noble|noble]] or [[Monarch|monarch]] grants you knighthood or a similar rank.
 
-As a knight you may occasionally be called upon to perform duties for the person who knighted you.
+As a [[Knight|knight]] you may occasionally be called upon to perform duties for the person who knighted you.
 
 Choose one of the following benefits:
 
@@ -24541,7 +24535,7 @@ COSTS 5 HEROIC RESOURCES: KNIGHTLY CHALLENGE *Have at thee!*
 
 *"You want to know the exact coordinates of the Gem of the Waves shipwreck? I came across that just the other day in an unpublished memoir of its second mate. Let me get that for you."*
 
-**Prerequisites:** You have the Ancient Loremaster title, and you have completed a Discover Lore project to learn lost knowledge or forbidden knowledge.
+**Prerequisites:** You have the [[Ancient Loremaster]] title, and you have completed a Discover Lore project to learn lost knowledge or forbidden knowledge.
 
 Choose one of the following benefits:
 
@@ -24575,7 +24569,7 @@ You can use the following boffin properties as a maneuver with the Boffin benefi
 
 *"I will follow you to the ends of the earth just so I can kick you off the edge."*
 
-**Prerequisites:** You have the Marshal title, and you take down an entire [[Criminal|criminal]] organization.
+**Prerequisites:** You have the [[Marshal]] title, and you take down an entire [[Criminal|criminal]] organization.
 
 Choose one of the following benefits:
 
@@ -24660,7 +24654,7 @@ Choose one of the following benefits.
 
 *"All hail the [[Pirate]] Queen!"*
 
-**Prerequisites:** Corsair title; you lead a fleet of at least three ships
+**Prerequisites:** [[Corsair]] title; you lead a fleet of at least three ships
 
 Choose one of the following benefits.
 
@@ -24726,12 +24720,12 @@ Choose one of the following benefits.
 
 *"Technically I'm called Lord Morninghill these days. I did a little favor for Duke Kenway at the Battle of Black Forest."*
 
-**Prerequisites:** A [[Monarch|monarch]] or important noble grants you a noble rank.
+**Prerequisites:** A [[Monarch|monarch]] or important [[Noble|noble]] grants you a [[Noble|noble]] rank.
 
 Choose one of the following benefits.
 
-- **I Know How to Talk to These People:** You gain an edge on Presence tests made to interact with royals, nobles, and their feudal followers, provided they are aware of your noble rank.
-- **Noble Splendor:** You gain 1 Renown and your wealth score increases by 1.
+- **I Know How to Talk to These People:** You gain an edge on Presence tests made to interact with royals, [[Noble|nobles]], and their feudal followers, provided they are aware of your [[Noble|noble]] rank.
+- **[[Noble]] Splendor:** You gain 1 Renown and your wealth score increases by 1.
 - **Retinue:** The number of followers you can recruit increases by two.
 
 **Special:** You may occasionally be called upon to perform duties for your [[Monarch|monarch]] or lord.
@@ -24762,7 +24756,7 @@ You gain a visible scar (in a location of your choice).
 After your next respite, you gain the following benefits, which last until the end of your next respite:
 
 - Your Stamina increases by 20.
-- The creature who scarred you takes a bane on ability power rolls against you.
+- The creature who [[Scarred|scarred]] you takes a bane on ability power rolls against you.
 
 **Special:** You can gain this title multiple times, no more than once per respite.
 
@@ -24770,7 +24764,7 @@ After your next respite, you gain the following benefits, which last until the e
 
 *"Best way to deal with a castle siege? Be on the outside."*
 
-**Prerequisites:** Battlefield Commander title and you lead the defense of a settlement or fortification.
+**Prerequisites:** [[Battlefield Commander]] title and you lead the defense of a settlement or fortification.
 
 Choose one of the following benefits.
 
@@ -24810,7 +24804,7 @@ Choose one of the following additional benefits.
 
 *"The ritual is complete. I feel your power flow through me. I am become a god! Ah ha ha ha ha!"*
 
-**Prerequisite:** You have the Godsworn title and hundreds of worshipful mortals complete a divine ritual in your name.
+**Prerequisite:** You have the [[Godsworn]] title and hundreds of worshipful mortals complete a divine ritual in your name.
 
 You gain all the following benefits.
 
@@ -24901,7 +24895,7 @@ Each hero chooses one of the following additional benefits.
 
 *"I've read about this tactic in books --it looks fairly straightforward."*
 
-**Prerequisites:** You have the Librarian title, and you complete a special Learn from a Master project with a project goal of 2,000.
+**Prerequisites:** You have the [[Librarian]] title, and you complete a special Learn from a Master project with a project goal of 2,000.
 
 Your choice of your Reason or Intuition score increases by 1, to a maximum of 6.
 
@@ -24927,7 +24921,7 @@ Choose one of the following additional benefits.
 
 *"'Never get away withit ? ' I already have."*
 
-**Prerequisite:** You have the Heist Hero title, and you have stolen a precious object or escaped from captivity while evading guards of at least level 8 .
+**Prerequisite:** You have the [[Heist Hero]] title, and you have stolen a precious object or escaped from captivity while evading guards of at least level 8 .
 
 Your choice of your Might or Agility score increases by 1, to a maximum of 6.
 
@@ -25131,7 +25125,7 @@ We wrote a lot of words here because we wanted to give characters from all ances
 
 **Domains:** Creation, Knowledge, Life, Nature, Protection
 
-Val, the Noble Lord, First Among Equals, is the patron of the elves. He created the Celestials, the True Elves, second of the five speaking peoples who then created the younger elves: the high, wode, and shadow elves. His name is the root of the Calien word "valiant," and the [[Dwarf|dwarves]] named the most precious ore in Orden, *valiar*, the truemetal, after him.
+Val, the [[Noble]] Lord, First Among Equals, is the patron of the elves. He created the Celestials, the True Elves, second of the five speaking peoples who then created the younger elves: the high, wode, and shadow elves. His name is the root of the Calien word "valiant," and the [[Dwarf|dwarves]] named the most precious ore in Orden, *valiar*, the truemetal, after him.
 
 Val holds that the greatest purpose a thinking being can commit themselves to is the creation of art and the appreciation of beauty. He keeps the magical, elf-haunted forests called wodes close to his heart because they represent his vision for Orden. What the world could have been. His growing disgust with the concept of war led him to leave Orden and take up residence in his private manifold, *Arcadia* where all elves hope to someday join their patron.
 
@@ -25153,7 +25147,7 @@ The Composer discovered, or invented, the power of music to manipulate reality. 
 
 **Domains:** Creation, Knowledge
 
-The Taste of Morning, also known as the Librarian. Credited with building the first library, most scholars consider this a real, historical event (never a certainty with the tales of the legendary heroes) and adventurers through all ages have sought this legendary building. If, indeed, it was a building.
+The Taste of Morning, also known as the [[Librarian]]. Credited with building the first library, most scholars consider this a real, historical event (never a certainty with the tales of the legendary heroes) and adventurers through all ages have sought this legendary building. If, indeed, it was a building.
 
 He canonized the idea that knowledge, truth, was a kind of beauty. The Library was a temple to thought, wisdom, scholarship. It contained plays, poems, histories, treatises on the nature of reality. The knowledge held within was incalculable. Legends say it held codices written by the elder dragons, though modern scholars suspect this is a literary conceit as there is no evidence the elder dragons bothered with writing.
 
@@ -25209,7 +25203,7 @@ The following heroes are venerated by many [[Dwarf|dwarves]] and others who foll
 
 **Domains:** Protection, War
 
-Zarok, the Law-Giver. Zarok the Teacher. Zarok who is Justice. The first, great hero of the [[Dwarf|dwarves]], Zarok was a noted general, diplomat, and poet. In his time each [[Dwarf|dwarf]] city-state had their own laws which were mostly just lists of offenses with punishments listed next to them. There was no consistency from one city to another and no underlying theory of law. The strong ruled, the rest obeyed.
+Zarok, the Law-Giver. Zarok the [[Teacher]]. Zarok who is Justice. The first, great hero of the [[Dwarf|dwarves]], Zarok was a noted general, diplomat, and poet. In his time each [[Dwarf|dwarf]] city-state had their own laws which were mostly just lists of offenses with punishments listed next to them. There was no consistency from one city to another and no underlying theory of law. The strong ruled, the rest obeyed.
 
 It was after Zarok retired from his career as a warmaster and became the ambassador to the elves that he undertook a study of how different cultures express the idea of justice. He surveyed the various traditions of elves, [[Human|humans]], and [[Orc|orcs]] and wrote *The Conversations*; a series of fictional dialogues in which two characters, deliberately chosen from [[Dwarf|dwarf]] theater so as to be [[Familiar|familiar]] to his audience, debate the question "What are the characteristics of a just society?"
 
@@ -25277,7 +25271,7 @@ Grole is the orcish hero of those facing impossible decisions. He is favored by 
 
 **Domains:** Knowledge, Trickery
 
-Khravila who Ran Forty Leagues, The Eternal Runner, Khravila The Unstoppable. On the eve of a war between elves and men that would certainly result in the death of many [[Orc|orcs]] caught between the two great powers, Kravila's dying father had been incapable of deciding what should be done. Equally incapable of choosing who should succeed him as chieftain; his son or daughter.
+Khravila who Ran Forty Leagues, The Eternal Runner, Khravila The [[Unstoppable]]. On the eve of a war between elves and men that would certainly result in the death of many [[Orc|orcs]] caught between the two great powers, Kravila's dying father had been incapable of deciding what should be done. Equally incapable of choosing who should succeed him as chieftain; his son or daughter.
 
 At the moment of his death, when the godcaller rang the bell of souls officially announcing his passing to the tribe, Khravila looked at her brother and saw hesitation. Khravila had never known doubt.
 
@@ -25285,7 +25279,7 @@ She snatched her tribe's oriflamme from her father's dead hands ... and ran. For
 
 Less than five hours after her father died, Khravila arrived at the Astragalus Court, forty leagues from home and while many elements of her legend are certainly mythical, the time and distance are well attested. Khravila held forth the oriflamme and announced that, should the elves continue their assault on the [[Human|humans]], there would be war between them and her tribe. "Chose quickly," she said. "My people are right behind me, and eager for battle." They could not have known she was bluffing.
 
-The elves called off their attacks and Khravila brokered peace between them and the [[Human|humans]]. When her brother arrived with their kin folk some hours later--itself an impressive feat--Khravila handed him the oriflamme, and collapsed, dead. It was Khravila the chieftain who ran. It was Khravila the Unstoppable who died, a legendary [[Orc|orc]] hero.
+The elves called off their attacks and Khravila brokered peace between them and the [[Human|humans]]. When her brother arrived with their kin folk some hours later--itself an impressive feat--Khravila handed him the oriflamme, and collapsed, dead. It was Khravila the chieftain who ran. It was Khravila the [[Unstoppable]] who died, a legendary [[Orc|orc]] hero.
 
 Khravila teaches the virtue of persistence, endurance, and above all ... wits. Not only the wits necessary to foil the tests that barred her way, but to conceive her plan in the first place, and the dedication to pull it off. "Perhaps another [[Orc|orc]] could have ran," her brother said. "But only Khravila could have bluffed."
 
@@ -25379,7 +25373,7 @@ Thellasko the Great Designer, the Game Master, Saint of Strategy did not invent 
 
 Thellasko served in Dispater's army rising to the rank of Major General. He retired with honors after the Battle of the River Rhye intending to take what he had learned on the field and write a book about the proper way to conduct a war.
 
-He felt the high command of hell's armies fought battles on outdated principles. Which side had the best fighting spirit, which sides' officers had the greater noble pedigree. Thellasko's treatise, never published, was titled *The Proper Application of Force*. As he wrote, he created a kind of ideal battlefield to use as his running example. The example became more and more critical to the text, more robust, such that eventually Thellasko put his manuscript down to develop the example into a proper game.
+He felt the high command of hell's armies fought battles on outdated principles. Which side had the best fighting spirit, which sides' officers had the greater [[Noble|noble]] pedigree. Thellasko's treatise, never published, was titled *The Proper Application of Force*. As he wrote, he created a kind of ideal battlefield to use as his running example. The example became more and more critical to the text, more robust, such that eventually Thellasko put his manuscript down to develop the example into a proper game.
 
 This first game was played on a grid of 64 squares arranged in an 8 x 8 grid. There were two armies each with sixteen pieces. Eight serfs, two [[Soldier|soldiers]], two prelates, two towers, a King and Queen. The game was superficially simple but held hidden depths. It taught the principles of sacrifice and territory control, of thinking like your enemy.
 
@@ -25387,7 +25381,7 @@ The game evolved into the game of Shere played throughout the timescape. But whi
 
 Expensive to produce, the Game of War was never very popular outside the Academy of Dis, but Thellasko used it to train a generation of lieutenants on the art of war. Thellasko's students and best players led the armies of Dis from victory to victory. Thellakso taught his students that an army must fight. All other things being equal, the army with the most experience wins.
 
-In Thellasko's time, the most senior noble was always the senior commander, regardless of experience or, indeed, sanity. After Thellasko and the Game of War, commanders were chosen from among the [[Soldier|soldiers]] with the most battlefield experience.
+In Thellasko's time, the most senior [[Noble|noble]] was always the senior commander, regardless of experience or, indeed, sanity. After Thellasko and the Game of War, commanders were chosen from among the [[Soldier|soldiers]] with the most battlefield experience.
 
 Thellasko was granted sainthood on his deathbed after a generation of successful battles won by his students, all of whom carried a symbol of graduation from Thellasko's school; three adjacent hexagons. They praised him on the battlefield during his life, and his church continues to [[Advance|advance]] his theories
 
@@ -25457,7 +25451,7 @@ Vaslorians in distant villages still use the ancient test of strength to determi
 
 A priest following Adun expresses their faith through labor. They build things. Many priests are also masons or carpenters. Joining the church for them did not mean abandoning their former trade, it intensified it.
 
-A knight following Adun spends their time aiding others through hard work, inspiring people to honest speech and hard labor, as opposed to Adun's brother Cavall who seeks to right wrongs.
+A [[Knight|knight]] following Adun spends their time aiding others through hard work, inspiring people to honest speech and hard labor, as opposed to Adun's brother Cavall who seeks to right wrongs.
 
 Adun and Cavall are brothers and the line between them is not a sharply defined one. Truth and justice are close companions.
 
@@ -25471,7 +25465,7 @@ church of St. Pallad, winning the baronial throne though a combination of treach
 
 Kaveran sought to consolidate his rule by extinguishing the church of St. Anthony, Shield of the North specifically, and worship of Adun generally. In this, he almost succeeded. Gaed's monastery was small, his province obscure, but as he refused to renounce his faith, his monastery attracted more and more [[Refugee|refugees]], making it harder and harder for Kaveran to deal with him without causing a revolt.
 
-Kaveran abducted Gaed, his knights dragging the abbot out of his monastery in the middle of the night, and tortured him for seven days, hoping to break his faith and force him to convert to St. Pallad. Gaed neither renounced his faith nor called out for aid.
+Kaveran abducted Gaed, his [[Knight|knights]] dragging the abbot out of his monastery in the middle of the night, and tortured him for seven days, hoping to break his faith and force him to convert to St. Pallad. Gaed neither renounced his faith nor called out for aid.
 
 Kaveran was no fool, and knew killing Gaed would make a martyr of him, and so attacked his flock. Hoping, by putting their homes to the fire, to pressure Gaed into recanting his faith. Kaveran barred several families in a tavern, set fire to it, and brought Gaed to witness the horror.
 
@@ -25513,7 +25507,7 @@ Cavall believes that mortals cannot live where injustice thrives. To followers o
 
 A watchhouse chaplain is almost certainly a priest of Cavall. A rector serving a small town may be welcome on the town council, but would consider passing judgment on a fellow citizen a breach of duty. The maxim of the church of St. Gwiddon the Vigilant translates to "To Watch, Report, But Not To Judge." The law, Cavall says, belongs to mortals.
 
-Censors of Cavall, on the other hand, have no such motto. The nobility often sponsor knights of Cavall to roam the countryside and dispense justice in remote wilderness areas where the noble's influence cannot reach.
+Censors of Cavall, on the other hand, have no such motto. The nobility often sponsor [[Knight|knights]] of Cavall to roam the countryside and dispense justice in remote wilderness areas where the [[Noble|noble]]'s influence cannot reach.
 
 Brother to Adun, patron of the country of Corwell, Cavall also believes that people, no matter how vile, can be bettered. "Let the law judge," said Saint Llewellyn, "let us forgive."
 
@@ -25521,19 +25515,19 @@ Brother to Adun, patron of the country of Corwell, Cavall also believes that peo
 
 **Domains:** Life, Protection
 
-Llewellyn the Valiant was a knight in service to Duke Melianus of Gant known as Melianus the Bright. His mother the Duchess died from a withering illness none could cure, and Melianus, her only son, assumed the throne.
+Llewellyn the Valiant was a [[Knight|knight]] in service to Duke Melianus of Gant known as Melianus the Bright. His mother the Duchess died from a withering illness none could cure, and Melianus, her only son, assumed the throne.
 
 Almost from the beginning of his rule there were rumors that a sorcerer in the marsh was behind his power, poisoning his mother to hasten Melianus' ascent, but as the marsh was nigh impassable this could not be proven and was taken for little more than a spiteful rumor.
 
 Duke Melianus' reign was cruel almost from the outset. He accused all those loyal to his mother of treachery, and found occasion to have them each imprisoned and executed without trial. Sir Llewellyn had served the Duchess loyally and strove to acquit himself of his duty under the new Duke but struggled to reconcile his sense of duty with the new Duke's capricious malice.
 
-The new Duke yearned to imprison his mother's favored knight, but all the guards, the reeves, the people of city and village looked up to Llewellyn. Melianus instead contrived to send Sir Llewellyn on a series of quests, each more deadly than the last.
+The new Duke yearned to imprison his mother's favored [[Knight|knight]], but all the guards, the reeves, the people of city and village looked up to Llewellyn. Melianus instead contrived to send Sir Llewellyn on a series of quests, each more deadly than the last.
 
 The Trials of Llewellyn, as they came to be known, passed into legend and their tale is still told in Corwell. Llewellyn and the Dragon With Seven Eyes, Llewellyn and the Witch of the Fen, Llewellyn and the Onyx Tower.
 
 When Llewellyn slew Ghruk the Trollhag, she cried out, "Follow Melianus!" as she died. These words echoed in Llewellyn's ears and his heart. He assumed she meant, obey him, be loyal to him. But as he rode his great destrier Silverheart back to Castle Gant, Llewellyn began to suspect what Ghruk meant.
 
-That night, Llewellyn waited in the stables and, at midnight, Melianus appeared. He mounted his great black warhorse Coalfire and rode. To where, Llewellyn could not guess. But the knight followed the duke as he rode east toward the marsh, Llewellyn remembered the rumors.
+That night, Llewellyn waited in the stables and, at midnight, Melianus appeared. He mounted his great black warhorse Coalfire and rode. To where, Llewellyn could not guess. But the [[Knight|knight]] followed the duke as he rode east toward the marsh, Llewellyn remembered the rumors.
 
 At the edge of the marsh, Coalfire's eyes began to glow with a baleful flame and his mane burst into crimson fire. Llewellyn's breath caught in his throat. "A nightmare!" he realized. The rumors were true! The sorcerer had given Melianus a [[Devil|devil]] steed.
 
@@ -25549,13 +25543,13 @@ Cyrvis had rewarded his loyal servant for his years of cruelty and the figure as
 
 Coalheart struck with flaming hooves at Silverheart but the destrier struck back, blow for bite and bite for blow. Then the hellsteed roared and a rotting green flame burned Silverheart's flesh and stole her breath until, choking, she fell to the ground, dead.
 
-Llewellyn's heart burst, he threw his body over the corpse of his loyal steed, and Melianus' lance pierced his armor, his back, and his heart. Knight and horse, dead. Melanius crowed as the lightning flashed again. But, in that moment, the miracle.
+Llewellyn's heart burst, he threw his body over the corpse of his loyal steed, and Melianus' lance pierced his armor, his back, and his heart. [[Knight]] and horse, dead. Melanius crowed as the lightning flashed again. But, in that moment, the miracle.
 
-Cavall stood between the Dark Saint and loyal knight. Cavall pulled the lance from Llewellyn's back. "Rise my son, and rise thy steed. Thou work shalt never be done."
+Cavall stood between the Dark Saint and loyal [[Knight|knight]]. Cavall pulled the lance from Llewellyn's back. "Rise my son, and rise thy steed. Thou work shalt never be done."
 
 Saint Llewellyn the Valiant and Silverheart his Eversteed rose, immortal, and the battle against evil renewed itself, the two armored saints clashing on barded steeds.
 
-Weeks later, neither having returned, the people of Gant laboriously forded the swamp and found the tower of the sorcerer. The ground around the tower turned black from the baleful energies unleashed. Though no bodies were found, the armor of both knights lay on the ground. Melianus' breastplate having be pierced.
+Weeks later, neither having returned, the people of Gant laboriously forded the swamp and found the tower of the sorcerer. The ground around the tower turned black from the baleful energies unleashed. Though no bodies were found, the armor of both [[Knight|knights]] lay on the ground. Melianus' breastplate having be pierced.
 
 Llewellyn and Silverheart had rid the people of their cursed, hateful Duke.
 
@@ -25567,15 +25561,15 @@ Saint Llewellyn is Cavall's greatest saint. He teaches that the greatest loyalty
 
 "Work your ritual, loremaster. And I will make your life worthy of a god's memory."
 
-The Red Sun Hobgoblins seemed unstoppable. The Baron began to think he might need to evacuate the entire barony, else allow his people to be slaughtered. His greatest knights perished against the Red Sun. They wielded some magic that granted them invulnerability.
+The Red Sun Hobgoblins seemed [[Unstoppable|unstoppable]]. The Baron began to think he might need to evacuate the entire barony, else allow his people to be slaughtered. His greatest [[Knight|knights]] perished against the Red Sun. They wielded some magic that granted them invulnerability.
 
 Then the loremaster came. Zur the Wizard, [[Dwarf|dwarf]] and master of the Tower of Enchantment arrived. Seeing the need he opened his tomes and researched what might the hobgoblins might wield. He presented himself to the baron's court with a solution. The Red Sun had found an ancient spring dedicated to a Gol demon-god. The Red Sun hobgoblins had bathed in the spring and awoken the blessing of the demon within and, having bathed in the river, they were now invulnerable.
 
-Zur believed he could remove the enchantment and rob the Ren Sun of its power. But the way to the spring was dangerous and he had no guard. The baron was at a loss, his greatest knights were almost all dead, thanks to the Red Sun.
+Zur believed he could remove the enchantment and rob the Ren Sun of its power. But the way to the spring was dangerous and he had no guard. The baron was at a loss, his greatest [[Knight|knights]] were almost all dead, thanks to the Red Sun.
 
-"I will attend," Lady Gwenllian volunteered. The baron objected, Lady Gwenllian was his personal knight and bodyguard, just as her mother had been to his father. "If we succeed," Gwenllian said, "you will have no need of bodyguards. If we fail, it will be the same."
+"I will attend," Lady Gwenllian volunteered. The baron objected, Lady Gwenllian was his personal [[Knight|knight]] and bodyguard, just as her mother had been to his father. "If we succeed," Gwenllian said, "you will have no need of bodyguards. If we fail, it will be the same."
 
-The baron could not say no to his closest and most loyal knight and so Lady Gwenllian, daughter of Morwetha, rode out with Zur the Enchanter. "It will take time to perform the ritual," Zur said. "Once I start, the demon will send creatures to stop me. They will be terrible."
+The baron could not say no to his closest and most loyal [[Knight|knight]] and so Lady Gwenllian, daughter of Morwetha, rode out with Zur the Enchanter. "It will take time to perform the ritual," Zur said. "Once I start, the demon will send creatures to stop me. They will be terrible."
 
 Gwenllian swore to [[Defend|defend]] the [[Dwarf|dwarf]] against all who might come for as long as it might take. In later years, Zur professed he felt the weight of her vow and knew the gods were watching. "How long to work your ritual?" she asked, and she could tell the answer was dire.
 
@@ -25623,7 +25617,7 @@ Salorna has few censors, but not none! Favoring light armor and ranged weapons, 
 
 Saint Draighen the [[Warden]], the [[Ranger]], Draighen of the Wood was known in her life for her mastery of the elf haunted wodes which she could cross without incident. Draighen it was who first treated with the Derwic whom even the wode elves had not seen in many ages of the world.
 
-The awakened trees were happy to hear news of the world and while it was impossible for her to satiate their endless curiosity ("How fare the steel [[Dwarf|dwarves]]?") she provided many services for them, chief among them; locating the Stone of Hyllc a large flagstone infused with magic which the Derwic used as a kind of altar for communing with their creator. Many traditions had the Derwic forsworn after the loss of their symbolic meeting-stone, and they were sore grateful to the [[Human|human]] who took their problems as her own.
+The [[Awakened|awakened]] trees were happy to hear news of the world and while it was impossible for her to satiate their endless curiosity ("How fare the steel [[Dwarf|dwarves]]?") she provided many services for them, chief among them; locating the Stone of Hyllc a large flagstone infused with magic which the Derwic used as a kind of altar for communing with their creator. Many traditions had the Derwic forsworn after the loss of their symbolic meeting-stone, and they were sore grateful to the [[Human|human]] who took their problems as her own.
 
 Years later a fire threatened to engulf the local wode and the elves within refused all aid. Their stoic refusal to prevent their own extinction infuriated Draighen, whom they already resented because of her special relationship with the walking trees.
 
@@ -25707,7 +25701,7 @@ His censors take what they want, ignoring the law, heedless of consequence, and 
 
 Pentalion the Paladin, the Usurper, served at the right hand of Uther the Callous, aiding him in his ascent to the throne. Uther mastered fell sorceries under the tutelage of a priest of Cyrvis. In public, Uther's illusions kept him haleseeming, but in reality his addiction to sorcery had withered him.
 
-Pentalion was his greatest knight, general, and chief of Uther's secret police. He ferreted out conspiracies and rebellious coalitions. His tactic; infiltrate the rebels with his own [[Agent|agents]], give them a taste of success but at the cost of relying on his power. Then, in their moment of triumph, Pentalion's [[Agent|agents]] revealed themselves and the insurgents found themselves surrounded by enemies without and within.
+Pentalion was his greatest [[Knight|knight]], general, and chief of Uther's secret police. He ferreted out conspiracies and rebellious coalitions. His tactic; infiltrate the rebels with his own [[Agent|agents]], give them a taste of success but at the cost of relying on his power. Then, in their moment of triumph, Pentalion's [[Agent|agents]] revealed themselves and the insurgents found themselves surrounded by enemies without and within.
 
 Eventually serving at the right hand of the conquerer was not enough. Pentalion loathed Uther for his physical weakness and growing dependence on sorcery. After Pentalion helped Uther depose a nearby duke, the Paladin helped the dead duke's daughter plot revenge.
 
@@ -25725,7 +25719,7 @@ Cyrvis is the enemy of fate. He is the god of those who believe they have been w
 
 A person bullied, a [[Criminal|criminal]] arrested, a servant dismissed, all who harbor secret hate whisper Cyrvis' name, and that whisper is a prayer. A man rejected by a woman who loves another finds himself walking in Cyrvis' shadow. He is the god of assassins, conspirators, and the bitterly frail.
 
-It is dangerous to worship Cyrvis in public, but those who gain power through his worship often parade this fact gladly and teach Cyrvis' hatred as virtue. Many is the knight who [[Ride|rides]] with Cyrvis's screaming skull talisman on their shield, teaching folk to take what they want, the law be damned. The law is a [[Coward|coward]]! The law is a system designed by [[Coward|cowards]] to keep us from seeking real power!
+It is dangerous to worship Cyrvis in public, but those who gain power through his worship often parade this fact gladly and teach Cyrvis' hatred as virtue. Many is the [[Knight|knight]] who [[Ride|rides]] with Cyrvis's screaming skull talisman on their shield, teaching folk to take what they want, the law be damned. The law is a [[Coward|coward]]! The law is a system designed by [[Coward|cowards]] to keep us from seeking real power!
 
 His churches are often underground, dungeons, cellars. His priests worship in secret, plotting against those with power, or those who are merely popular. To be liked and loved is reason enough for a follower of Cyrvis to hate you.
 
@@ -25735,7 +25729,7 @@ His churches are often underground, dungeons, cellars. His priests worship in se
 
 Eseld of the Eye, the Eye of Hate, sought mastery of the Tower of Summoning. But though she studied hard, there were always other mages more fortunate.
 
-Cursing those who succeeded where she failed, Eseld sought the *Tome of Boiling Hate* written by Cyrvis himself during his life. Acquiring the tome required years of research and treachery. Eseld left a trail of poisoned librarians and tortured loremasters behind her before finally unearthing the tome from its resting place at the bottom of the inverted Tower of Blood.
+Cursing those who succeeded where she failed, Eseld sought the *Tome of Boiling Hate* written by Cyrvis himself during his life. Acquiring the tome required years of research and treachery. Eseld left a trail of poisoned [[Librarian|librarians]] and tortured loremasters behind her before finally unearthing the tome from its resting place at the bottom of the inverted Tower of Blood.
 
 But though the tome was written in an ancient dialect Eseld knew, the words moved under her gaze and she could not extract meaning from them. Many oracles were consulted and tortured before she learned the prophesy.
 
@@ -26172,7 +26166,7 @@ resources and power to stand directly against the siege and stop it. This advent
 
 An adventure's goal isn't always clear to players at the start, but the heroes should always have a good idea of how to keep pursuing the story. Gameplay and fun can grind to a halt if the players don't have any idea what their characters can do to further their goals.
 
-Every adventure should have an inciting incident that either gives the heroes discovering the adventure's goal or puts the heroes on the path of discovering it. If the heroes start an adventure by finding the freshly murdered body of a noble in the streets of Capital, they're likely to look for clues that could lead them to catching a murderer--a solid, straight forward adventure goal. Or it could be that the murder leads them to uncovering a grand conspiracy where one of Capital's great noble houses is actually planning a coordinated, violent takeover of the city and they heroes must stop it--an adventure goal that takes the heroes several scenes to fully uncover, but each leads to the next without leaving them wondering, "What should we do next?" Both are good adventure goals, even if one gets discovered a little later in the adventure.
+Every adventure should have an inciting incident that either gives the heroes discovering the adventure's goal or puts the heroes on the path of discovering it. If the heroes start an adventure by finding the freshly murdered body of a [[Noble|noble]] in the streets of Capital, they're likely to look for clues that could lead them to catching a murderer--a solid, straight forward adventure goal. Or it could be that the murder leads them to uncovering a grand conspiracy where one of Capital's great [[Noble|noble]] houses is actually planning a coordinated, violent takeover of the city and they heroes must stop it--an adventure goal that takes the heroes several scenes to fully uncover, but each leads to the next without leaving them wondering, "What should we do next?" Both are good adventure goals, even if one gets discovered a little later in the adventure.
 
 #### COMPLICATIONS AND ADVENTURES
 
@@ -26279,7 +26273,7 @@ When preparing an exploration scene, you'll want to write down your answers to t
 - What information or objects do the heroes need to recover in this scene that will help them continue the game's story?
 - What bonus pieces of information and other rewards can they earn during this scene if they explore fully and successfully?
 
-The information or objects the heroes need from the scene to continue the story should have a way that they can be found without a test. Just by entering the scene of a murder, the heroes might learn that a king was slain with a knife because his body and the weapon are still plainly visible in the [[Monarch|monarch]]'s private chambers when they arrive. They might even notice the knife bares the crest of a noble house, which means they have a way to continue their investigation. Other details in the room could help speed along their investigation of who killed the king, but they find the bare minimum of what they need to continue for free.
+The information or objects the heroes need from the scene to continue the story should have a way that they can be found without a test. Just by entering the scene of a murder, the heroes might learn that a king was slain with a knife because his body and the weapon are still plainly visible in the [[Monarch|monarch]]'s private chambers when they arrive. They might even notice the knife bares the crest of a [[Noble|noble]] house, which means they have a way to continue their investigation. Other details in the room could help speed along their investigation of who killed the king, but they find the bare minimum of what they need to continue for free.
 
 It's okay for a test to be the *best* way to get necessary information, but if the heroes fail or don't make the test, they should still get the minimum needed for the story to continue. If they're searching a necromancer's tower for a book that will help them stop a ritual and miss all the clues pointing to the book, then they run into the necromancer's apprentices who know where the book is but aren't willing to give up the information without a difficult fight.
 
@@ -26417,7 +26411,7 @@ Some hazards deal effects in addition or instead of damage. If your hazard is pa
 
 ### CREATING AND RUNNING INTERACTION
 
-Interaction scenes are just like exploration scenes, except that the heroes are getting information and items they need by talking to one or more NPCs instead of exploring an environment. Just like exploration, make a list of necessary information the NPC needs to give to the heroes. The NPC should offer this information freely. They may have other information or objects they can be convinced to give to the heroes if they make a persuasive argument, do something kind for the NPC, or succeed on a test, they might get that from the NPC too! Though these scenes aren't negotiations, keep in mind that different NPCs react differently to various forms of persuasion. A [[Coward|coward]] might be easy to intimidate, while a battle-hardened [[Soldier|soldier]] may be impossible to awe with displays of ferocity. A bribe might work for a corrupt noble, but a goodly queen who already has wealth beyond measure likely has no interest in whatever materials the heroes possess.
+Interaction scenes are just like exploration scenes, except that the heroes are getting information and items they need by talking to one or more NPCs instead of exploring an environment. Just like exploration, make a list of necessary information the NPC needs to give to the heroes. The NPC should offer this information freely. They may have other information or objects they can be convinced to give to the heroes if they make a persuasive argument, do something kind for the NPC, or succeed on a test, they might get that from the NPC too! Though these scenes aren't negotiations, keep in mind that different NPCs react differently to various forms of persuasion. A [[Coward|coward]] might be easy to intimidate, while a battle-hardened [[Soldier|soldier]] may be impossible to awe with displays of ferocity. A bribe might work for a corrupt [[Noble|noble]], but a goodly queen who already has wealth beyond measure likely has no interest in whatever materials the heroes possess.
 
 Refer to the details you wrote down for your NPC while you roleplay them. Remember they may have distinct behaviors and attitudes you can throw in to help make the scene fun and memorable. You don't have to be a great actor to make a memorable interaction scene! Just describing how the NPC looks, sounds, and acts goes a long way without doing any funny voices. If you want to put on a character voice, go for it--but there is no obligation.
 
@@ -26484,7 +26478,7 @@ In playtesting, some groups loved seeing these statistics and some groups didn't
 
 #### SAMPLE NEGOTIATORS
 
-We've created some sample NPC archetypes you can use for negotiation. Each of the following NPCs is an archetype that you can adapt to specific situations. For example, the bandit chief archetype could be the leader of a brigand gang, a [[Pirate|pirate]] captain, or a rebel who redistributes wealth by stealing from corrupt nobles and giving the booty to those less fortunate.
+We've created some sample NPC archetypes you can use for negotiation. Each of the following NPCs is an archetype that you can adapt to specific situations. For example, the bandit chief archetype could be the leader of a brigand gang, a [[Pirate|pirate]] captain, or a rebel who redistributes wealth by stealing from corrupt [[Noble|nobles]] and giving the booty to those less fortunate.
 
 Each archetype includes a list of motivations and pitfalls an NPC could have. You should pick at least two from the list for an NPC you create using the archetype. Feel free to change the wording on motivations and pitfalls and adjust numbers as you see fit.
 
@@ -26514,9 +26508,9 @@ The bandit chief archetype can be used for any other local big shot, such as the
 
 **Impression score:** 2
 
-While not an idealist, the knight is a loyal servant of their liege and a stickler for duty. The knight knows their place in a regimented society and believes everyone else should keep to their own.
+While not an idealist, the [[Knight|knight]] is a loyal servant of their liege and a stickler for duty. The [[Knight|knight]] knows their place in a regimented society and believes everyone else should keep to their own.
 
-The knight archetype can be used for any other local authority, such as a village elder, town guard officer, or academic professor.
+The [[Knight|knight]] archetype can be used for any other local authority, such as a village elder, town guard officer, or academic professor.
 
 **Motivations:**
 
@@ -26544,7 +26538,7 @@ The guildmaster archetype can be used for any other local information broker, su
 
 - **Benevolence:** The people can't take care of themselves. Somebody's got to look after them, the poor lambs.
 - **Discovery:** It would be highly illegal for you to show me those schematics you got from a [[Rival|rival]] guild. Likewise, it would be highly illegal for me to slide you this bag of gold.
-- **Power:** Who do you think will be in [[Charge|charge]] in the next age? The nobles? Pah! They still count their wealth in cows. No, whoever controls the information will rule the world--and I intend for it to be us.
+- **Power:** Who do you think will be in [[Charge|charge]] in the next age? The [[Noble|nobles]]? Pah! They still count their wealth in cows. No, whoever controls the information will rule the world--and I intend for it to be us.
 - **Protection:** We have [[Rival|rivals]]--hungry opportunists who will stop at nothing. If I want to protect my guild, I've got to do unto them before they do unto us.
 
 **Pitfalls:**
@@ -26560,13 +26554,13 @@ The guildmaster archetype can be used for any other local information broker, su
 
 The warlord has raised their banner, and troops flock to their cause. Some say they never negotiate, but that's not true--they're happy to listen to terms of surrender.
 
-The warlord archetype can be used for any other locallevel threat, such as a vampire, hobgoblin bloodlord, or rebellious noble.
+The warlord archetype can be used for any other locallevel threat, such as a vampire, hobgoblin bloodlord, or rebellious [[Noble|noble]].
 
 **Motivations:**
 
 - **Freedom:** I'm not paying a coin to some weakling liege lord for the privilege of being told what to do. I've raised my banner. I defy anyone to pull it down.
 - **Legacy:** Did you see that young captain out there putting the fear of the gods into her troops? That's my kid, but she earned her title. Someday this will all be hers.
-- **Peace:** Look around you. Everywhere you look weakness, corruption, waste. Peace is a noble goal, but we won't have peace until the current regime is swept away.
+- **Peace:** Look around you. Everywhere you look weakness, corruption, waste. Peace is a [[Noble|noble]] goal, but we won't have peace until the current regime is swept away.
 - **Vengeance:** Have you suffered like I have at the hands of that accursed villain? If so, then I'll gladly call you friend.
 
 **Pitfalls:**
@@ -26604,7 +26598,7 @@ The burgomaster archetype can be used for any other local ruler, such as a baron
 
 The virtuoso is the preeminent musician in the land perhaps a celebrated opera singer or composer. If you need a cause popularized or an enemy's name tarnished, then you come to them.
 
-The virtuoso archetype can be used for any other local celebrity, such as a master crafter, inspired artist, famous [[Gladiator|gladiator]], or world champion.
+The virtuoso archetype can be used for any other local celebrity, such as a [[Master Crafter|master crafter]], inspired artist, famous [[Gladiator|gladiator]], or world champion.
 
 **Motivations:**
 
@@ -26662,7 +26656,7 @@ The duke archetype can be used for any other royal counselor, such as an archmag
 - **Benevolence:** Do you think I do what I do because I love my fellow people? Half of them are nitwits, and the other half are villains. But without them, I'd be the Duke of Nothing, so I must preserve them.
 - **Greed:** Put away your gold. I'm far too busy to spend it.
 - **Justice:** Right and wrong? There is no right, except what strengthens the kingdom, and there is no wrong, except what hurts it.
-- **Protection:** I don't care about saving lives. We're all doomed to die. The question is, what will live on after us.
+- **Protection:** I don't care about saving lives. We're all [[Doomed|doomed]] to die. The question is, what will live on after us.
 
 ##### DRAGON
 
@@ -27064,7 +27058,7 @@ If you've got the time, it's a good idea to play an opening scene during your fi
 This encounter should introduce or hint at the villain the heroes face during their first adventure. Here are a few ideas for encounters to get you started.
 
 - While traveling to the settlement where their first adventure takes place, the heroes and their caravan or ship are attacked by brigands.
-- The heroes enter a new town to find war dogs ready to publicly execute a noble who refused to bend the knee to Ajax.
+- The heroes enter a new town to find war dogs ready to publicly execute a [[Noble|noble]] who refused to bend the knee to Ajax.
 - The heroes are at a tavern enjoying a night off when a band of gnoll [[Raider|raiders]] invade and light the tavern on fire.
 - The heroes are camped in a swamp when undead emerge from the muck and surround them.
 - While watching a theatrical performance, an actor (perhaps by accident) performs a ritual that opens a portal to the Abyssal Wasteland and summons a horde of demons.

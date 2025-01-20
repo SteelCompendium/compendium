@@ -21,7 +21,7 @@ Short, averaging three and a half feet tall, their origins are obscure. They are
 
 The three peasants--Jago, his wife Sarah, and his sister Beth--sat together watching the three heroes talk in the crowded common room of the inn. Well, Jackson Bootblack seemed to be doing most of the talking.
 
-"This kind of shit doesn't work if it's just a bunch of ratcatchers like us," the polder said. "You need the people to rise up. Been fifteen years since Omund died--fifteen years of fighting wolves and bandits and worse. The people welcome a tyrant after that. They like order, you know? They adapt."
+"This kind of shit doesn't work if it's just a bunch of [[Ratcatcher|ratcatchers]] like us," the polder said. "You need the people to rise up. Been fifteen years since Omund died--fifteen years of fighting wolves and bandits and worse. The people welcome a tyrant after that. They like order, you know? They adapt."
 
 "If you stand on the grass long enough, it learns to lie flat," A Mist Coils Around Dying Embers said. "But what do *you* say?"
 
@@ -135,7 +135,7 @@ Sir Vaantikalisax loomed just inside the doorway, his scales and armor glowing i
 
 "I, uh ..." Vaantikalisax said. The tall, broad draconian looked from John to the three peasants. Jago, Sarah, and Beth were beaming with even more joy than John, if that were possible.
 
-The knight stared at them for a moment, then turned back to his friend.
+The [[Knight|knight]] stared at them for a moment, then turned back to his friend.
 
 "Maybe you're right," the [[Dragon Knight|dragon knight]] said.
 

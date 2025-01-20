@@ -20,7 +20,7 @@ In the millennia since their creators retired to Arcadia, the high elves built a
 
 "It's not that hard," Dade said darkly.
 
-The five children stood alone in the center of a large circular courtyard open to the sky, their wode elf escort Llyander at their side. Lord Tear, King of the High Elves, sat on a marble throne, holding the scroll of the *Codex Dryadalis* in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned [[Sage|sages]], gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter. They bristled with weapons.
+The five children stood alone in the center of a large circular courtyard open to the sky, their wode elf escort Llyander at their side. Lord Tear, King of the High Elves, sat on a marble throne, holding the scroll of the *Codex Dryadalis* in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, [[Noble|nobles]] and courtiers and learned [[Sage|sages]], gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter. They bristled with weapons.
 
 "They seem like ..." Meliora said, searching for the words.
 
@@ -50,7 +50,7 @@ Llyander turned to the children and smiled brilliantly, eyebrows waggling in a s
 
 The king stood up and a herald beside the throne announced, "Gather ye, and attend! The Lord of Fallen Irranys, Morning Dew On a Single Leaf Like a Tear from the Sun, speaks. And know his word is law!"
 
-Lord Tear glided down the steps until he was standing, as tall as Llyander, before the children. His face was noble and beautiful. Wisps of silver-like strands of smoke spread across his golden skin. He seemed at once eternal and youthful.
+Lord Tear glided down the steps until he was standing, as tall as Llyander, before the children. His face was [[Noble|noble]] and beautiful. Wisps of silver-like strands of smoke spread across his golden skin. He seemed at once eternal and youthful.
 
 "You have heard many things about my people, but this above all you should know. We do not value lore for lore's sake, but beauty first and above all other things. And the truth, to us, is a kind of beauty. Thus do we find knowledge beautiful.
 

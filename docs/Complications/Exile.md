@@ -8,7 +8,7 @@ type: complications
 
 # Exile
 
-Whether you're a convicted [[Criminal|criminal]], a noble stripped of their title, or just someone who made one too many enemies, you've been cast forth from your homeland, never to return--at least, until you're strong enough to set things right.
+Whether you're a convicted [[Criminal|criminal]], a [[Noble|noble]] stripped of their title, or just someone who made one too many enemies, you've been cast forth from your homeland, never to return--at least, until you're strong enough to set things right.
 
 **Benefit:** You learn an extant spoken language of your choice.
 
