@@ -4,12 +4,10 @@ title: Corrupted Mentor
 name_raw: Corrupted Mentor
 name: Corrupted Mentor
 type: complications
-keywords: Magic
+keywords: \| Magic
 keyword_list:
-  - Magic
-ability_type: Maneuver
-distance: Self
-target: Self
+  - \| Magic
+target: \| Self \|
 ---
 
 # Corrupted Mentor
@@ -18,12 +16,16 @@ Your mentor taught you everything, and you trusted them implicitly--until they w
 
 **Benefit:** Your mentor taught you the Corrupt Spirit maneuver, which, in retrospect, should have aroused your suspicion.
 
-CORRUPT SPIRIT
+## Corrupt Spirit
 
-|                     |                    |
-| :------------------ | :----------------- |
-| **Keywords:** Magic | **Type:** Maneuver |
-| **Distance:** Self  | **Target:** Self   |
+|                        |                        |
+| :--------------------- | :--------------------- |
+| **Keywords:** \| Magic | **Type:**              |
+| **Distance:**          | **Target:** \| Self \| |
+
+| **Type:**     | Maneuver |     |     |
+| ------------- | -------- | --- | --- |
+| **Distance:** | Self     |     |     |
 
 **Effect:** Until the end of your turn, when you use a heroic ability against a single target, you can weaken the target's life force, dealing extra corruption damage equal to your highest characteristic score.
 

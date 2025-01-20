@@ -24,7 +24,7 @@ You wear light armor, and wield a shield and a light weapon.
 - **Melee Damage Bonus:** +1/+1/+1
 - **Ranged Damage Bonus:** +1/+1/+1
 - **Ranged Distance Bonus:** +5
-- **Disengage Bonus:** +1
+- **[[Disengage]] Bonus:** +1
 
 ## Signature Ability
 
@@ -37,10 +37,6 @@ You wear light armor, and wield a shield and a light weapon.
 | **Keywords:**                      | **Type:** Action       |
 | **Distance:** Melee 1 or Ranged 10 | **Target:** 1 creature |
 
-**Power Roll + Might or Agility:**
-
-- *11 or lower:* 3 **+ M or A damage**
-- *12-16:* 6 **+ M or A damage**
-- *17+:* 8 **+ M or A damage**
+Power Roll + Might or Agility: *11 or lower:* **3 + M or A damage** *12-16:* **6 + M or A damage** *17+:* **8 + M or A damage**
 
 **Effect:** The target has a bane on their next power roll made before the end of their next turn.

@@ -1,11 +1,11 @@
 ### SHIELDSCALE DRANGOLIN
 
-| SHIELDSCALE DRANGOLIN |         **Level 1 Brute** |
-| :-------------------- | ------------------------: |
-| *Animal, Kobold*      |                 **EV 16** |
-| **Stamina**: 40       |             **Weakness**: |
-| **Speed**: 7 (burrow) | **Size**: 3 / Stability 0 |
-|                       |        **Free Strike**: 4 |
+| SHIELDSCALE DRANGOLIN             |         **Level 1 Brute** |
+| :-------------------------------- | ------------------------: |
+| *Animal, Kobold*                  |                 **EV 16** |
+| **Stamina**: 40                   |             **Weakness**: |
+| **Speed**: 7 ([[Burrow\|burrow]]) | **Size**: 3 / Stability 0 |
+|                                   |    **[[Free Strike]]**: 4 |
 
 | **Might** +2 | **Agility** +1 | **Reason** -3 | **Intuition** 0 | **Presence** -2 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |
@@ -42,9 +42,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 4 damage; push 1; 1 prone
-- ★ 12-16: 7 damage; push 3; 2 prone
-- ✸ 17+: 10 damage; push 5; 3 prone
+- ✦ ≤11: 4 damage; push 1; 1 [[Prone|prone]]
+- ★ 12-16: 7 damage; push 3; 2 [[Prone|prone]]
+- ✸ 17+: 10 damage; push 5; 3 [[Prone|prone]]
 
 **Effect:** This attack has an edge against targets directly above the drangolin.
 

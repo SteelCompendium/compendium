@@ -10,44 +10,16 @@ kind: basics
 
 # Tactician Advancement
 
-| Level | Features               | Abilities  | Doctrine  |
-| ----- | ---------------------- | ---------- | --------- |
-|       |                        |            | Abilities |
-| 1st   | Tactical Doctrine,     | 3, 5       | --        |
-|       | Focus, Doctrine        |            |           |
-|       | Feature, Doctrine      |            |           |
-|       | Triggered Action,      |            |           |
-|       | Field Arsenal, Mark,   |            |           |
-|       | Strike Now, Tactician  |            |           |
-|       | Abilities              |            |           |
-| 2nd   | Doctrine Feature,      | 3, 5       | 5         |
-|       | Perk, Doctrine Ability |            |           |
-| 3rd   | Out of Position, 7-    | 3, 5, 7    | 5         |
-|       | Focus Ability          |            |           |
-| 4th   | Characteristic         | 3, 5, 7    | 5         |
-|       | Increase, Focus on     |            |           |
-|       | Their Weakness,        |            |           |
-|       | Improved Field         |            |           |
-|       | Arsenal, Perk, Skill   |            |           |
-|       | Increase,              |            |           |
-| 5th   | Doctrine Feature, 9-   | 3, 5, 7, 9 | 5         |
-|       | Focus Ability          |            |           |
-| 6th   | Master of Arms,        | 3, 5, 7, 9 | 5, 9      |
-|       | Perk, Doctrine Ability |            |           |
-| 7th   | Characteristic         | 3, 5, 7, 9 | 5, 9      |
-|       | Increase, Doctrine     |            |           |
-|       | Feature, Seize the     |            |           |
-|       | Initiative, Skill      |            |           |
-
-|      | Increase               |                |          |
-| ---- | ---------------------- | -------------- | -------- |
-| 8th  | Doctrine Feature,      | 3, 5, 7, 9, 11 | 5, 9     |
-|      | Perk, 11-Focus Ability |                |          |
-| 9th  | Grand Master of        | 3, 5, 7, 9, 11 | 5, 9, 11 |
-|      | Arms, Doctrine         |                |          |
-|      | Ability                |                |          |
-| 10th | Characteristic         | 3, 5, 7, 9, 11 | 5, 9, 11 |
-|      | Increase, Perk,        |                |          |
-|      | Stratagems, True       |                |          |
-|      | Focus, Skill Increase, |                |          |
-|      | Warmaster              |                |          |
+| Level | Features                                                                                                          | Abilities      | DoctrineAbilities |
+| ----- | ----------------------------------------------------------------------------------------------------------------- | -------------- | ----------------- |
+| 1st   | Tactical Doctrine,Focus,DoctrineFeature,DoctrineTriggered Action,Field Arsenal,Mark,Strike Now,TacticianAbilities | 3, 5           | --                |
+| 2nd   | Doctrine Feature,Perk,Doctrine Ability                                                                            | 3, 5           | 5                 |
+| 3rd   | Out of Position, 7-Focus Ability                                                                                  | 3, 5, 7        | 5                 |
+| 4th   | CharacteristicIncrease, Focus onTheir Weakness,Improved FieldArsenal, Perk, SkillIncrease,                        | 3, 5, 7        | 5                 |
+| 5th   | Doctrine Feature, 9-Focus Ability                                                                                 | 3, 5, 7, 9     | 5                 |
+| 6th   | Master of Arms,Perk, Doctrine Ability                                                                             | 3, 5, 7, 9     | 5, 9              |
+| 7th   | CharacteristicIncrease, DoctrineFeature, Seize theInitiative, Skill                                               | 3, 5, 7, 9     | 5, 9              |
+|       | Increase                                                                                                          |                |                   |
+| 8th   | Doctrine Feature, Perk, 11-Focus Ability                                                                          | 3, 5, 7, 9, 11 | 5, 9              |
+| 9th   | Grand Master of Arms, Doctrine Ability                                                                            | 3, 5, 7, 9, 11 | 5, 9, 11          |
+| 10th  | Characteristic Increase, Perk, Stratagems, True Focus, Skill Increase, Warmaster                                  | 3, 5, 7, 9, 11 | 5, 9, 11          |

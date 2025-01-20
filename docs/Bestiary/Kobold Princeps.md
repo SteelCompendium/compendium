@@ -5,7 +5,7 @@
 | *Humanoid, Kobold* |                   **EV 3** |
 | **Stamina**: 5     |              **Weakness**: |
 | **Speed**: 5       | **Size**: 1S / Stability 0 |
-|                    |         **Free Strike**: 1 |
+|                    |     **[[Free Strike]]**: 1 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ----------- | -------------- | ------------ | --------------- | -------------- |

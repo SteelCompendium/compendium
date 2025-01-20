@@ -10,7 +10,8 @@ keywords: Magic, Ranged
 keyword_list:
   - Magic
   - Ranged
-ability_type: Triggered **Distance:** Ranged 10
+ability_type: Triggered
+distance: Ranged 10
 target: Self or one ally
 trigger: The target starts their turn or takes damage.
 ---
@@ -19,10 +20,10 @@ trigger: The target starts their turn or takes damage.
 
 *The first principle of the oath: defend the righteous.*
 
-|                             |                                             |
-| :-------------------------- | :------------------------------------------ |
-| **Keywords:** Magic, Ranged | **Type:** Triggered **Distance:** Ranged 10 |
-| **Distance:**               | **Target:** Self or one ally                |
+|                             |                              |
+| :-------------------------- | :--------------------------- |
+| **Keywords:** Magic, Ranged | **Type:** Triggered          |
+| **Distance:** Ranged 10     | **Target:** Self or one ally |
 
 **Trigger:** The target starts their turn or takes damage.
 

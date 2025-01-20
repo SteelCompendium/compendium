@@ -16,11 +16,11 @@ The native ancestry of the Seven Cities of Hell, devils are humanoids with red o
 
 Hell is dominated by the Seven Cities of Hell, each ruled by a different archdevil who constantly plots and schemes against the others in the hope of ascending to the Throne of Hell.
 
-Those devils who join "the trade," as their civil service is called, spend their days in bureaucratic service hoping or scheming for promotion. Devils looking for a quick path up the bureaucratic ladder sign up for the Exchange, whereby mortals in the mundane world who perform the right rituals can summon a devil, who bargains with the supplicant on behalf of their archdevil. Archdevils can grant temporary worldly power in exchange for a supplicant's soul, with the summoned devil acting as the broker.
+Those devils who join "the trade," as their civil service is called, spend their days in bureaucratic service hoping or scheming for promotion. Devils looking for a quick path up the bureaucratic ladder sign up for the Exchange, whereby mortals in the [[Mundane|mundane]] world who perform the right rituals can summon a devil, who bargains with the supplicant on behalf of their archdevil. Archdevils can grant temporary worldly power in exchange for a supplicant's soul, with the summoned devil acting as the broker.
 
 On rare occasions, though, the summoning goes wrong and the supplicant dies before the deal can be struck, stranding the summoned devil on Orden permanently. Some stranded devils seek to return to Hell, but most prefer life in Orden, where the phrase "stabbed in the back by a colleague" is usually a metaphor.
 
-The majority of devils in Orden are not from, nor have ever been to, the Seven Cities. They are descendants of devils who were stranded in the mundane world decades, centuries, even millennia ago.
+The majority of devils in Orden are not from, nor have ever been to, the Seven Cities. They are descendants of devils who were stranded in the [[Mundane|mundane]] world decades, centuries, even millennia ago.
 
 ## On Devils
 
@@ -28,7 +28,7 @@ Adelard scuttled across the floor of his basement, a heavy tome clutched in one 
 
 One of the red candles suddenly guttered out, making the small room noticeably darker. "Damn and blast!" he hissed. Then he relit it from another candle.
 
-Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the candles--they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said a skull--it didn't even specify a *human* skull! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual know if the skull was real?
+Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the candles--they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said a skull--it didn't even specify a *[[Human|human]]* skull! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual know if the skull was real?
 
 He was wittering, putting off the inevitable. He pulled himself together. It was either going to work, or it wasn't, and wittering wasn't going to help. He opened the book and turned the page--then began to speak the ritual.
 
@@ -36,7 +36,7 @@ Moments later, the candles flared, there was a burst of flame, and acrid brimsto
 
 "Aha! Yes, finally." It rubbed its hands together. "It's about time," the creature said, pulling on the bottom of his waistcoat to straighten it. "Now then! How does it go? Oh, yes." He cleared his throat. "On behalf of my lord, his grace Archduke Dispater, Lord of Dis, I am empowered to offer you ..." But his speech fell on deaf ears.
 
-"It worked!" Adelard said, holding his clenched fists up. "Ahahaha! It worked! Finally, after *years*! I will have my revenge! Hahaha ... !" *cough* *cough* Adelard was suddenly gripped by a coughing fit, but he kept crowing. "Dismiss me from service, will they?! *cough* Old and useless ... am I?! I'll show *them*!" He coughed again, fighting to breathe now. "I will hex them and *torture* them until they ..."
+"It worked!" Adelard said, holding his clenched fists up. "Ahahaha! It worked! Finally, after *years*! I will have my revenge! Hahaha ... !" *cough* *cough* Adelard was suddenly gripped by a coughing fit, but he kept crowing. "Dismiss me from service, will they?! *cough* Old and useless ... am I?! I'll show *them*!" He coughed again, fighting to breathe now. "I will *hex* them and *torture* them until they ..."
 
 He stopped cavorting and capering, and his eyes went wide. "Until they ... until ..." He clutched his chest.
 
@@ -68,7 +68,7 @@ A wide woman dressed in wool, carrying a pile of clean clothes, saw him and stop
 
 "Ah. Um. Hmm."
 
-A young man in a low, stone building saw this exchange, grabbed what looked like a long iron poker, and ran out to confront the new arrival.
+A young man in a low, stone building saw this exchange, [[Grabbed|grabbed]] what looked like a long iron poker, and ran out to confront the new arrival.
 
 "Have at you, devil!" he said, assuming something like a dueling pose.
 
@@ -76,9 +76,7 @@ A young man in a low, stone building saw this exchange, grabbed what looked like
 
 The two of them stood there, frozen in the middle of the street for a few moments.
 
-Then the devil turned and ran away as quickly as he could.
-
-o
+Then the devil turned and ran away as quickly as he could. o
 
 "And that's how I ended up here!" Riyalkin toasted his dinner companion. "Now, after years of obscurity, a legendary hero!"
 
@@ -160,4 +158,4 @@ Your prehensile tail allows you to challenge foes on all sides. You can't be fla
 
 #### Wings (costs 2 Points)
 
-You possess wings powerful enough to take you airborne. While using your wings to fly, you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall prone. While using your wings to fly at 1st, 2nd, and 3rd level, you have damage weakness 5.
+You possess wings powerful enough to take you airborne. While using your wings to [[Fly|fly]], you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall [[Prone|prone]]. While using your wings to [[Fly|fly]] at 1st, 2nd, and 3rd level, you have damage weakness 5.

@@ -26,7 +26,7 @@ a sickness comes over them--an uncontrollable sensation called emotion.
 
 "I'm fine!" Revile shouted, all evidence to the contrary.
 
-"I know what I saw," John said as he followed his friend. "You went into a bloodlust. And it's not the first time. Whether you like it or not, whether I like it or not, I'm in charge of this mission. Either you tell me what's going on, or I have no choice. I *have* to conclude you're a danger to the team and cut you loose."
+"I know what I saw," John said as he followed his friend. "You went into a bloodlust. And it's not the first time. Whether you like it or not, whether I like it or not, I'm in [[Charge|charge]] of this mission. Either you tell me what's going on, or I have no choice. I *have* to conclude you're a danger to the team and cut you loose."
 
 Revile stopped and turned to look at the rest of the party, recovering from their wounds. The memonek's white porcelain chest heaved as he tried to calm himself. His ceramic skin looked as strong as plate, but John knew it was brittle, fragile.
 
@@ -34,7 +34,7 @@ Count Revile took a deep breath. "We call it *velloparatha*," he said. "In your 
 
 "Are you going mad?" John asked in a whisper.
 
-The memonek smiled ruefully. "It feels that way sometimes. I spent an hour this morning staring at an insect that landed on my finger--a grasshopper, the polder called it. I thought I had never seen a thing so perfect and beautiful. That was awe. As powerful as I have ever felt. In the battle today, anger--just as powerful.
+The memonek smiled ruefully. "It feels that way sometimes. I spent an hour this morning staring at an insect that landed on my finger--a grasshopper, the [[Polder|polder]] called it. I thought I had never seen a thing so perfect and beautiful. That was awe. As powerful as I have ever felt. In the battle today, anger--just as powerful.
 
 "I thought I could resist it. When I arrived here and felt no different, I thought perhaps world-sickness was a legend. But it is a slow process, this illness, these insidious emotions."
 
@@ -60,7 +60,7 @@ John chuckled. "That's just ..." He smiled broadly. "That's normal, man. That's 
 
 "Even you?!"
 
-Sir John shrugged. "Are you kidding? Sure. But it doesn't help. You still got a job to do. In fact, I'd say that is the job. Anyone can learn the blade." He placed his hand on the pommel of his sword. "Nothing special about that. It's learning to deal with the fear. That's the job--what separates the professionals from the amateurs."
+Sir John shrugged. "Are you kidding? Sure. But it doesn't help. You still got a job to do. In fact, I'd say that *is* the job. Anyone can learn the blade." He placed his hand on the pommel of his sword. "Nothing special about that. It's learning to deal with the fear. That's the job--what separates the professionals from the amateurs."
 
 Count Revile said nothing, just thinking.
 
@@ -86,7 +86,7 @@ Sir John and Count Revile, both tacticians, stood together on the bloody battlef
 
 "Me, I think. The world-sickness would have me say ... you're a bastardly son of a bitch. But you're my bastardly son of a bitch." Count Revile smiled.
 
-John laughed and put his arm around his friend as they headed back to the party. "Funny. The world-sickness sounds a lot like me."
+John laughed and put his arm around his friend as they headed back to the party. "Funny. The world-sickness sounds a lot like *me*."
 
 ## Memonek Benefits
 
@@ -130,4 +130,4 @@ You can push your body to move at incredible speeds. Your speed is 7.
 
 #### Nonstop (costs 2 Points)
 
-Your connection to Axiom allows you to regulate your movements, even when other creatures would be forced to pause. You can't be slowed.
+Your connection to Axiom allows you to regulate your movements, even when other creatures would be forced to pause. You can't be [[Slowed|slowed]].

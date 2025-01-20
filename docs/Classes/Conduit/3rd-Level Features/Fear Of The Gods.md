@@ -20,10 +20,6 @@ distance: 5 cube within 10 **Target:** Each enemy in the area
 | **Keywords:**                                                     | **Type:** Action |
 | **Distance:** 5 cube within 10 **Target:** Each enemy in the area | **Target:**      |
 
-**Power Roll + Intuition:**
-
-- *11 or lower:* **6 psychic damage;** I \< weak, **frightened (save ends)**
-- *12-16:* **9 psychic damage;** I \< average\*\*, frightened (save ends)\*\*
-- *17+:* **13 psychic damage;** I \< strong\*\*, frightened (save ends)\*\*
+Power Roll + Intuition: - *11 or lower:* **6 psychic damage;** I \< weak\*\*, frightened (save ends)\*\* - *12-16:* **9 psychic damage;** I \< average\*\*, frightened (save ends)\*\* - *17+:* **13 psychic damage;** I \< strong\*\*, frightened (save ends)\*\*
 
 **Effect:** The targets are frightened of you or a creature you choose within 10 squares.

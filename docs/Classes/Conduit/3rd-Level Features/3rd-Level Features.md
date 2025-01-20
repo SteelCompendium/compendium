@@ -21,5 +21,3 @@ As a 3rd-level conduit, you gain the following features.
 [SAINT'S RAIMENT (7 PIETY)](./Saints%20Raiment.md)
 
 [SOUL SIPHON (7 PIETY)](./Soul%20Siphon.md)
-
-[WORDS OF WRATH AND GRACE (7 PIETY)](./Words%20Of%20Wrath%20And%20Grace.md)

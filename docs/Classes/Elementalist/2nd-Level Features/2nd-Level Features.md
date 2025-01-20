@@ -20,8 +20,4 @@ As a 2nd-level elementalist, you gain the following features.
 
 [O FLOWER AID, O EARTH DEFEND (5 ESSENCE)](./O%20Flower%20Aid%20O%20Earth%20Defend.md)
 
-[SUBVERT THE GREEN WITHIN (5 ESSENCE)](./Subvert%20The%20Green%20Within.md)
-
 [TRANSLATED THROUGH FLAME (5 ESSENCE)](./Translated%20Through%20Flame.md)
-
-[VOLCANO'S EMBRACE (5 ESSENCE)](./Volcanos%20Embrace.md)

@@ -1,11 +1,11 @@
 ### DWARF MARAUDER LORD
 
-| DWARF MARAUDER LORD |         **Level 3 Leader** |
-| :------------------ | -------------------------: |
-| *Dwarf, Humanoid*   |                  **EV 60** |
-| **Stamina**: 130    |              **Weakness**: |
-| **Speed**: 5        | **Size**: 1M / Stability 4 |
-|                     |         **Free Strike**: 5 |
+| [[Dwarf\|DWARF]] MARAUDER LORD |         **Level 3 Leader** |
+| :----------------------------- | -------------------------: |
+| *[[Dwarf]], Humanoid*          |                  **EV 60** |
+| **Stamina**: 130               |              **Weakness**: |
+| **Speed**: 5                   | **Size**: 1M / Stability 4 |
+|                                |     **[[Free Strike]]**: 5 |
 
 | **Might** +3 | **Agility** 0 | **Reason** +2 | **Intuition** +1 | **Presence** 0 |
 | ------------ | ------------- | ------------- | ---------------- | -------------- |
@@ -24,9 +24,9 @@
 - ★ 12-16: 9 damage; slide 3
 - ✸ 17+: 12 damage; slide 5
 
-**Effect:** A target restrained by a dwarf can be slid by this attack.
+**Effect:** A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by this attack.
 
-**3 Malice:** A target that is force moved adjacent to an ally with this ability is restrained (EoT).
+**3 Malice:** A target that is force moved adjacent to an ally with this ability is [[Restrained|restrained]] (EoT).
 
 #### Magnetomancy
 
@@ -35,9 +35,9 @@
 | Keywords: Magic, Ranged | Type: Maneuver               |
 | Distance: Ranged 10     | Target: 1 creature or object |
 
-**Effect:** Vertical slide 5. A target restrained by a dwarf can be slid by this ability.
+**Effect:** Vertical slide 5. A target [[Restrained|restrained]] by a [[Dwarf|dwarf]] can be slid by this ability.
 
-**5 Malice:** This ability gains the Area keyword, its distance becomes 10 burst, and it now targets restrained creatures.
+**5 Malice:** This ability gains the Area keyword, its distance becomes 10 burst, and it now targets [[Restrained|restrained]] creatures.
 
 #### Your Weapon is Useless
 

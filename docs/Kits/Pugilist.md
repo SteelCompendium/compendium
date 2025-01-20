@@ -4,8 +4,6 @@ title: Pugilist
 name_raw: Pugilist
 name: Pugilist
 type: kits
-ability_type: Action **Distance:** Melee 1
-target: 1 creature
 ---
 
 # Pugilist
@@ -24,19 +22,3 @@ You wear no armor and wield only your unarmed strikes.
 - **Melee Damage Bonus:** +1/+1/+1
 
 ## Signature Ability
-
-## Let's Dance
-
-*Keeping your enemies stumbling around the battlefield is second nature to you.* **Keywords:** Melee, Strike, Weapon
-
-|               |                                        |
-| :------------ | :------------------------------------- |
-| **Keywords:** | **Type:** Action **Distance:** Melee 1 |
-| **Distance:** | **Target:** 1 creature                 |
-
-- **Power Roll + Might or Agility:**
-- *11 or lower:* 3 **+ M or A damage**
-- *12-16:* 6 **+ M or A damage; slide 1**
-- *17+:* 8 **+ M or A damage; slide 2**
-
-**Effect:** You can shift into any square your target leaves after you slide them.

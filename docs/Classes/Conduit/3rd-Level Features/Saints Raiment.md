@@ -11,17 +11,18 @@ keywords: Magic, Ranged
 keyword_list:
   - Magic
   - Ranged
-ability_type: Maneuver **Distance:** Ranged 10
-target: One ally **Effect:** The target gains 20 Temporary Stamina and three
+ability_type: Maneuver
+distance: Ranged 10
+target: One ally
 ---
 
 # Saint's Raiment (7 Piety)
 
 *An ally becomes the wearer of an empowered golden cloak.*
 
-|                             |                                                                                  |
-| :-------------------------- | :------------------------------------------------------------------------------- |
-| **Keywords:** Magic, Ranged | **Type:** Maneuver **Distance:** Ranged 10                                       |
-| **Distance:**               | **Target:** One ally **Effect:** The target gains 20 Temporary Stamina and three |
+|                             |                      |
+| :-------------------------- | :------------------- |
+| **Keywords:** Magic, Ranged | **Type:** Maneuver   |
+| **Distance:** Ranged 10     | **Target:** One ally |
 
-surges.
+**Effect:** The target gains 20 Temporary Stamina and three surges.

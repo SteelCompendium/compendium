@@ -17,7 +17,3 @@ As a 5th-level fury, you gain the following features.
 [9-RAGE ABILITIES](./9-Rage%20Abilities.md)
 
 [DEBILITATING STRIKE (9 RAGE)](./Debilitating%20Strike.md)
-
-[REBOUNDING STORM (9 RAGE)](./Rebounding%20Storm.md)
-
-[TO STONE!(9 RAGE)](<./To%20STONE(9%20RAGE).md>)

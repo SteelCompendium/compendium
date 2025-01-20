@@ -8,11 +8,11 @@ type: ancestries
 
 # Human
 
-*"Humans," the dwarf said with a combination of exasperation and awe. "Their only virtue seems to be believing in impossible things."*
+*"Humans," the [[Dwarf|dwarf]] said with a combination of exasperation and awe. "Their only virtue seems to be believing in impossible things."*
 
-"Humans belong to the world in a way the other speaking peoples do not. You can sense the presence of magic--that ... oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
+"Humans belong to the world in a way the other speaking peoples do not. You can sense the presence of magic--that ... oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to [[Stand Up|stand up]]. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
 
-"No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin ... the dwarves and the orcs as you say. What is it that sets humans apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason."
+"No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin ... the [[Dwarf|dwarves]] and the [[Orc|orcs]] as you say. What is it that sets humans apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason."
 
 ## On Humans
 
@@ -44,7 +44,7 @@ Is there some rare trait that makes you uniquely qualified to lead disparate peo
 
 Those great humans, your ancestors, did not focus on differences. They did not weigh different people and grade them based on arbitrary traits deemed virtues and flaws. That is what Ajax does. No, those humans focused on the future. On making a better world ... for all of us. A world many of them knew they would not live to see. That is a sacrifice ... I can scarcely imagine.
 
-The people who stand against Ajax and tyrants like him will be just like you--normal people. Priests and scholars and merchants and farmers. Maybe even teachers.
+The people who stand against Ajax and tyrants like him will be just like you--normal people. Priests and scholars and merchants and [[Farmer|farmers]]. Maybe even teachers.
 
 Stopping Ajax will require you to become something else. You must become heroes. Conduits of saints, warmasters of great armies. Censors and shadows. That may seem unlikely now, but the future has a way of surprising us.
 
@@ -66,13 +66,13 @@ As a maneuver, you open your awareness to detect supernatural creatures and phen
 
 You have 3 ancestry points to spend on the following traits. (*Quick Build:* Perseverance, Staying Power)
 
-### Can't Take Hold (costs 1 Point)
+#### Can't Take Hold (costs 1 Point)
 
-Your connection to the natural world allows you resist supernatural effects. You ignore difficult terrain (but not other effects) created by magic and psionic abilities. Additionally, when you are force moved by a magic or psionic ability, you reduce the forced movement by 1.
+Your connection to the natural world allows you resist supernatural effects. You ignore [[Difficult Terrain|difficult terrain]] (but not other effects) created by magic and psionic abilities. Additionally, when you are force moved by a magic or psionic ability, you reduce the [[Forced Movement|forced movement]] by 1.
 
 #### Perseverance (costs 1 Point)
 
-Giving up is for other people. You have an edge on tests that use the Endurance skill and when you are slowed, your speed is reduced to 3 instead of 2.
+Giving up is for other people. You have an edge on tests that use the Endurance skill and when you are [[Slowed|slowed]], your speed is reduced to 3 instead of 2.
 
 #### Resist The Unnatural (costs 1 Point)
 
@@ -80,7 +80,7 @@ Your connection to the natural world protects you from unnatural forces. When yo
 
 #### Determination (costs 2 Points)
 
-Your anatomical tolerance for pain allows you to push through difficult situations. If you are frightened, slowed, or weakened, you can use a maneuver to immediately end the condition.
+Your anatomical tolerance for pain allows you to push through difficult situations. If you are [[Frightened|frightened]], [[Slowed|slowed]], or [[Weakened|weakened]], you can use a maneuver to immediately end the condition.
 
 #### Staying Power (costs 2 Points)
 

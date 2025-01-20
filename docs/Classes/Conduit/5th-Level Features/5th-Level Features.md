@@ -14,11 +14,7 @@ As a 5th-level conduit, you gain the following features.
 
 [5TH-LEVEL DOMAIN FEATURE](./5th-Level%20Domain%20Feature.md)
 
-[9-PIETY ABILITIES](./9-Piety%20Abilities.md)
-
-[BEACON OF GRACE (9 PIETY)](./Beacon%20Of%20Grace.md)
-
-[PENANCE (9 PIETY)](./Penance.md)
+[9-PIETY ABILITIES](./9-Piety%20Abilities/9-Piety%20Abilities.md)
 
 [SANCTUARY (9 PIETY)](./Sanctuary.md)
 

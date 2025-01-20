@@ -14,9 +14,7 @@ As a 2nd-level troubadour, you gain the following features.
 
 [APPEAL TO THE MUSES](./Appeal%20To%20The%20Muses.md)
 
-[INVOCATION](./Invocation.md)
-
-[ALLOW ME TO INTRODUCE TONIGHT'S PLAYERS](./Allow%20Me%20To%20Introduce%20Tonights%20Players/Allow%20Me%20To%20Introduce%20Tonights%20Players.md)
+[INVOCATION](./Invocation/Invocation.md)
 
 [PERK](./Perk.md)
 
@@ -25,5 +23,3 @@ As a 2nd-level troubadour, you gain the following features.
 [CLASSIC CHANDELIER STUNT (5 DRAMA)](./Classic%20Chandelier%20Stunt.md)
 
 [EN GARDE!(5 DRAMA)](<./En%20GARDE(5%20DRAMA)/En%20GARDE(5%20DRAMA).md>)
-
-[TOUGH CROWD (5 DRAMA)](./Tough%20Crowd.md)

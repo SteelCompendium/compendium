@@ -17,11 +17,11 @@ target: 1 creature with your sigil
 
 *"Little late for that."*
 
-The dead walk among us. Some of them are happier about it than others.
+The dead [[Walk|walk]] among us. Some of them are happier about it than others.
 
-Unlike the necromantic rituals that produce wights and wraiths and zombies, revenants rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air--and, unlike their zombified cousins, they retain all their memories and personality from life.
+Unlike the necromantic rituals that produce [[Wight|wights]] and wraiths and [[Zombie|zombies]], revenants rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air--and, unlike their zombified cousins, they retain all their memories and personality from life.
 
-These revenants are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or Capital, where lost souls gather to make a home.
+These revenants are rare. Many are [[Hunted|hunted]] by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or Capital, where lost souls gather to make a home.
 
 ## On Revenants
 
@@ -53,7 +53,7 @@ There was a firm knock at the door to the safe house. A door which, from the out
 
 One of the four thieves opened a vial and dipped his dirk into the red oil within.
 
-"What is *that* gonna do? *She's already dead*!" Another knock at the hidden door. "Forget it. Let her knock. Grab as many as you can, and we'll go out the back."
+"What is *that* gonna do? *She's already dead*!" Another knock at the hidden door. "Forget it. Let her knock. [[Grab]] as many as you can, and we'll go out the back."
 
 The head thief ran for the door out the back of the safe house. He jerked it open--and the other thieves watched as a silver flash silently flared across his forehead. Through the open door, they could see the silhouette of the knight, her open hand held up in front of her.
 
@@ -95,7 +95,7 @@ Choose the ancestry you were before you died. Your size equals that ancestry's s
 
 Your undead body grants you cold, corruption, lightning immunity, and poison immunity equal to your level. You also have fire weakness 5. You can't suffocate, and you don't need to eat or drink to stay alive.
 
-Additionally, when your Stamina equals the negative of your winded value, you become inert instead of dying. You can continue to observe your surroundings, but you can't speak, take actions, maneuvers, or triggered actions, or move and you fall prone. If you take any fire damage while in this state, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
+Additionally, when your Stamina equals the negative of your winded value, you become inert instead of dying. You can continue to observe your surroundings, but you can't speak, take actions, maneuvers, or triggered actions, or move and you fall [[Prone|prone]]. If you take any fire damage while in this state, your body is destroyed and you die. Otherwise, after 12 hours, you regain Stamina equal to your recovery value.
 
 ### Purchased Revenant Traits
 
@@ -111,7 +111,7 @@ Your supernatural gifts allow you to influence other undead. You gain an edge on
 
 #### Bloodless (costs 2 Points)
 
-For you, an open wound is indistinguishable from a scratch. You can't become bleeding.
+For you, an open wound is indistinguishable from a scratch. You can't become [[Bleeding|bleeding]].
 
 #### Previous Life: 2 Points (costs 2 Points)
 
@@ -138,8 +138,8 @@ Additionally, you gain the following signature ability.
 
 **Power Roll + Reason, Intuition, or Presence:**
 
-- *11 or lower:* 3 **+ R, I, or P damage; slide 1**
-- *12-16:* 5 **+ R, I, or P damage; slide 2**
-- *17+:* 8 **+ R, I, or P damage; slide 3**
+- *11 or lower:* **3 + R, I, or P damage; slide 1**
+- *12-16:* **5 + R, I, or P damage; slide 2**
+- *17+:* **8 + R, I, or P damage; slide 3**
 
 **Effect:** The sigil disappears from the creature.

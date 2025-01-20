@@ -6,8 +6,9 @@ name: Healing Grace
 type: classes
 subtype: conduit
 kind: 1st-level features
+ability_type: Maneuver
 distance: Ranged 10
-target: Self or one ally \|
+target: Self or one ally
 ---
 
 # Healing Grace
@@ -18,12 +19,10 @@ You gain the following ability, which you can use once on your turn.
 
 *Your divine energy restores the righteous.* **Keywords:** Magic, Ranged
 
-| **Type:** Maneuver                   |                                   |
-| ------------------------------------ | --------------------------------- |
-|                                      |                                   |
-| :----------------------------------- | :-------------------------------- |
-| **Keywords:**                        | **Type:**                         |
-| **Distance:** Ranged 10              | **Target:** Self or one ally \|   |
+|                         |                              |
+| :---------------------- | :--------------------------- |
+| **Keywords:**           | **Type:** Maneuver           |
+| **Distance:** Ranged 10 | **Target:** Self or one ally |
 
 **Effect:** The target can spend a Recovery.
 

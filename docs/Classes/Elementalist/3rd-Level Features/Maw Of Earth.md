@@ -21,10 +21,6 @@ target: One creature or object
 | **Keywords:**                  | **Type:** Action                   |
 | **Distance:** 3 cube within 10 | **Target:** One creature or object |
 
-**Power Roll + Reason:**
-
-- *11 or lower*\*\*: 5 damage\*\*
-- *12-16:* **9 damage**
-- *17+:* **12 damage**
+Power Roll + Reason: - *11 or lower*\*\*: 5 damage\*\* - *12-16:* **9 damage** - *17+:* **12 damage**
 
 **Effect:** The ground in or directly beneath the area drops, lowering 3 squares.

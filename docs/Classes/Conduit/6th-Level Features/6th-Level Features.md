@@ -18,18 +18,10 @@ As a 6th-level conduit, you gain the following features.
 
 [6TH-LEVEL DOMAIN ABILITIES](./6th-Level%20Domain%20Abilities/6th-Level%20Domain%20Abilities.md)
 
-[GOD'S MACHINE (9 PIETY)](./Gods%20Machine.md)
+[AURA OF SOULS (9 PIETY)](./Aura%20Of%20Souls.md)
 
-[INVOCATION OF MYSTERY (9 PIETY)](./Invocation%20Of%20Mystery.md)
+[BLADE OF THE HEAVENS (9 PIETY)](./Blade%20Of%20The%20Heavens.md)
 
-[INVOCATION OF UNDOING (9 PIETY)](./Invocation%20Of%20Undoing.md)
+[BLESSING OF THE MIDDAY SUN (9 PIETY)](./Blessing%20Of%20The%20Midday%20Sun.md)
 
-[LAUDED BY GOD (9 PIETY)](./Lauded%20By%20God.md)
-
-[LIGHTNING LORD (9 PIETY)](./Lightning%20Lord.md)
-
-[REVITALIZING GRACE (9 PIETY)](./Revitalizing%20Grace.md)
-
-[SPIRIT STAMPEDE (9 PIETY)](./Spirit%20Stampede.md)
-
-[YOUR STORY ENDS HERE (9 PIETY)](./Your%20Story%20Ends%20Here.md)
+[CUIRASS OF THE GODS (9 PIETY)](./Cuirass%20Of%20The%20Gods.md)

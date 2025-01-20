@@ -5,7 +5,7 @@
 | *Bugbear, Goblin, Humanoid* |                  **EV 32** |
 | **Stamina**: 70             |              **Weakness**: |
 | **Speed**: 5                | **Size**: 1M / Stability 0 |
-|                             |         **Free Strike**: 5 |
+|                             |     **[[Free Strike]]**: 5 |
 
 | **Might** +2 | **Agility** +1 | **Reason** +2 | **Intuition** 0 | **Presence** 0 |
 | ------------ | -------------- | ------------- | --------------- | -------------- |
@@ -22,7 +22,7 @@
 
 - ✦ ≤11: 5 damage
 - ★ 12-16: 8 damage
-- ✸ 17+: 11 damage; one target is grabbed
+- ✸ 17+: 11 damage; one target is [[Grabbed|grabbed]]
 
 **Effect:** 1 ally within 5 of the commander has an edge on their next attack until the start of the commander's next turn.
 
@@ -46,10 +46,10 @@
 
 #### Throw
 
-|                         |                                                       |
-| :---------------------- | :---------------------------------------------------- |
-| Keywords: Attack, Melee | Type: Maneuver                                        |
-| Distance: Melee 1       | Target: 1 creature or object grabbed by the commander |
+|                         |                                                                    |
+| :---------------------- | :----------------------------------------------------------------- |
+| Keywords: Attack, Melee | Type: Maneuver                                                     |
+| Distance: Melee 1       | Target: 1 creature or object [[Grabbed\|grabbed]] by the commander |
 
 **Effect:** Vertical push 4; ally targets don't take damage from being force moved.
 
@@ -62,7 +62,7 @@
 
 Trigger: The target is force moved into a square adjacent to the commander.
 
-**Effect:** The target is grabbed by the commander.
+**Effect:** The target is [[Grabbed|grabbed]] by the commander.
 
 **The Commander's Watching**
 

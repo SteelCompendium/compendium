@@ -22,8 +22,8 @@ target: One creature
 
 **Power Roll + Presence:**
 
-- *11 or lower:* 5 + P **psychic damage**
-- *12-16:* 7 + P **psychic damage**
-- *17+:* 10 + P **psychic damage**
+- *11 or lower:* **5 + P psychic damage**
+- *12-16:* **7 + P psychic damage**
+- *17+:* **10 + P psychic damage**
 
 **Effect:** Each time the target willingly moves before the end of your next turn, they take 1 psychic damage for each square they move.

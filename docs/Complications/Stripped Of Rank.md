@@ -23,9 +23,7 @@ You were trained as an officer, but you no longer serve. Did you flee a battle? 
 | **Keywords:** | **Type:** Action **Distance:** Range 10 |
 | **Distance:** | **Target:** One ally                    |
 
-**Effect:** The target can use its triggered action to take an
-
-action, a move action, or a maneuver.
+**Effect:** The target can use its triggered action to take an action, a move action, or a maneuver.
 
 **Special:** If you have the Strike Now tactician ability, the target can use a free triggered action instead of a triggered action to use this ability.
 

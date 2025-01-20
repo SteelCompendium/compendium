@@ -15,7 +15,7 @@ target: 1 creature
 
 *See you the river clear and sweet So beautiful and fair? Follow it in and you may meet The Queen of Dark and Air*
 
-Children of the sylvan celestials and masters of the elfhaunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among humans for snatching children who wander too far into the woods. Humans should fear the trees.
+Children of the sylvan celestials and masters of the elfhaunted forests called wodes, wode elves see all forests as their domain by birthright. They know and enjoy their reputation among [[Human|humans]] for snatching children who wander too far into the woods. [[Human|Humans]] should fear the trees.
 
 The wode elves' natural ability to mask their presence, called glamor, complements their guerilla style of fighting, letting them strike quickly from cover and then meld back into the underbrush. These traits also make the relatively few wode elves who dwell in cities naturally adept at urban warfare.
 
@@ -35,7 +35,7 @@ Then, only a few feet from them, a half-dozen figures melded out of the backgrou
 
 "Black gods!" Meliora gasped. Credan frowned, and Wenna hushed her for swearing. Dade was ushered back toward them by two more wode elves, his bow in hand. The children huddled together, Credan's hand on the symbol of Saint Gryffyn around his neck, and Jeremy's hand on the hilt of his sword.
 
-The elves were tall, taller than an adult human, but seemed always to crouch as soon as they stopped moving. Their eyes were unsettling, widely spaced and huge. But it was their ears, long and tall and twisting and set with great scoops to catch all sound, that marked them as elves of the wode.
+The elves were tall, taller than an adult [[Human|human]], but seemed always to crouch as soon as they stopped moving. Their eyes were unsettling, widely spaced and huge. But it was their ears, long and tall and twisting and set with great scoops to catch all sound, that marked them as elves of the wode.
 
 "Admittedly, though, most terrans regret the experience." The voice they had heard called out again--from above. The children looked up and now saw a wode elf with long, furry, twisting ears and nut-brown skin smiling down at them. They were wearing a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
 
@@ -67,7 +67,7 @@ Llyander turned to Rhythylthin and the rest of the wode elf band. "Their gift go
 
 In spite of his previous skepticism toward the queen's consort, Rhythylthin straightened and bowed. As one, the elves turned and flowed into the wode. In only a few steps, they melded into the trees and undergrowth.
 
-"How did they do that?" Meliora demanded, spinning to confront their benefactor.
+"How did they *do* that?" Meliora demanded, spinning to confront their benefactor.
 
 "Hmm? Do what?" Llyander asked, looking after the elves, wondering what Meliora meant.
 
@@ -91,7 +91,7 @@ Llyander turned and marched off. "Come!" they called. The children ran to catch 
 
 The elf stopped suddenly and spun toward them, serious but kindly. They pointed to each of the children in turn.
 
-"I will instruct you on the proper etiquette, but remember this: Lord Tear will test us. Some tests for you and some for me. The high elves and the wode elves are but distant cousins. You will hear much that is polite, much that is flattering, but it is all another kind of glamor. It hides deep tensions, recently exacerbated by the treaty with Ajax."
+"I will instruct you on the proper etiquette, but remember this: Lord Tear will test us. Some tests for you and some for me. The high elves and the wode elves are but distant cousins. You will hear much that is polite, much that is flattering, but it is all another kind of glamor. It [[Hide|hides]] deep tensions, recently exacerbated by the treaty with Ajax."
 
 The children nodded. The elf, satisfied, marched off and they followed.
 
@@ -105,13 +105,15 @@ Wode elf heroes have access to the following traits.
 
 ### Signature Trait: Wode Elf Glamor
 
-You can magically alter your appearance to better blend in with your surroundings. You gain an edge on Agility tests made to hide and sneak, and tests made to find you while you are hidden take a bane.
+You can magically alter your appearance to better blend in with your surroundings. You gain an edge on Agility tests made to [[Hide|hide]] and sneak, and tests made to find you while you are hidden take a bane.
 
 ### Purchased Wode Elf Traits
 
 You have 3 ancestry points to spend on the following traits.
 
-FOREST WALK (COSTS 1 POINT) You can shift into difficult terrain.
+#### Forest Walk (costs 1 Point)
+
+You can shift into [[Difficult Terrain|difficult terrain]].
 
 #### Revisit Memory (costs 1 Point)
 
@@ -121,9 +123,9 @@ SWIFT (COSTS 1 POINT) Your speed is 6.
 
 OTHERWORLDLY GRACE (COSTS 2 POINTS) Your elf body and mind can't be contained for long. You succeed on saving throws when you get a 5 or higher.
 
-THE WODE DEFENDS (COSTS 2 POINTS) You have the following signature ability.
+THE WODE [[Defend|DEFENDS]] (COSTS 2 POINTS) You have the following signature ability.
 
-### The Wode Defends
+##### The Wode Defends
 
 *Thorny vines erupt into existence and attempt to bind your foe.* **Keywords:** Magic, Ranged, Strike
 
@@ -134,6 +136,6 @@ THE WODE DEFENDS (COSTS 2 POINTS) You have the following signature ability.
 
 **Power Roll + Might or Agility:**
 
-- *11 or lower:* 2 **+ M or A damage; A \< \[weak\] slowed (save ends)**
-- *12-16:* 3 **+ M or A damage; A \< \[average\] slowed (save ends)**
-- *17+:* 5 **+ M or A damage; A \< \[strong\] restrained (save ends)**
+- *11 or lower:* **2 + M or A damage; A \< \[weak\] [[Slowed|slowed]] (save ends)**
+- *12-16:* **3 + M or A damage; A \< \[average\] [[Slowed|slowed]] (save ends)**
+- *17+:* **5 + M or A damage; A \< \[strong\] [[Restrained|restrained]] (save ends)**

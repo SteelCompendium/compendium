@@ -17,24 +17,24 @@ As a fury, you have abilities that deal a lot of damage, move you around the bat
 
 [1ST-LEVEL FEATURES](./1st-Level%20Features/1st-Level%20Features.md)
 
+[HIT AND RUN](./Hit%20And%20Run.md)
+
+[IMPALED!](./Impaled/Impaled.md)
+
+[BLOOD FOR BLOOD!(5 RAGE)](<./Blood%20For%20BLOOD(5%20RAGE)/Blood%20For%20BLOOD(5%20RAGE).md>)
+
 [2ND-LEVEL FEATURES](./2nd-Level%20Features/2nd-Level%20Features.md)
+
+[WRECKING BALL (5 RAGE)](./Wrecking%20Ball/Wrecking%20Ball.md)
+
+[PHALANX BREAKER (5 RAGE)](./Phalanx%20Breaker.md)
+
+[RRRAAAGHH!(5 RAGE)](<./RRRAAAGHH(5%20RAGE)/RRRAAAGHH(5%20RAGE).md>)
+
+[VISCERAL ROAR (5 RAGE)](./Visceral%20Roar.md)
 
 [3RD-LEVEL FEATURES](./3rd-Level%20Features/3rd-Level%20Features.md)
 
 [4TH-LEVEL FEATURES](./4th-Level%20Features/4th-Level%20Features.md)
 
 [5TH-LEVEL FEATURES](./5th-Level%20Features/5th-Level%20Features.md)
-
-[6TH-LEVEL FEATURES](./6th-Level%20Features/6th-Level%20Features.md)
-
-[7TH-LEVEL FEATURES](./7th-Level%20Features/7th-Level%20Features.md)
-
-[8TH-LEVEL FEATURES](./8th-Level%20Features/8th-Level%20Features.md)
-
-[9TH-LEVEL FEATURES](./9th-Level%20Features/9th-Level%20Features.md)
-
-[10TH-LEVEL FEATURES](./10th-Level%20Features/10th-Level%20Features.md)
-
-[STORMWIGHT KITS](./Stormwight%20Kits/Stormwight%20Kits.md)
-
-[o 17+: 8 damage](./O%2017%208%20Damage/O%2017%208%20Damage.md)

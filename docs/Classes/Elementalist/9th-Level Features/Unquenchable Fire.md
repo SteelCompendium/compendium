@@ -24,7 +24,7 @@ target: 1 enemy or object
 **Power Roll + Reason:**
 
 - *11 or lower:* **13 + R fire damage; I \< \[weak\] dazed (save ends)**
-- *12-16:* 18 + R **fire damage; I \< \[average\] dazed (save ends)**
-- *17+:* 25 + R **fire damage; I \< \[strong\] dazed (save ends)**
+- *12-16:* **18 + R fire damage; I \< \[average\] dazed (save ends)**
+- *17+:* **25 + R fire damage; I \< \[strong\] dazed (save ends)**
 
 **Effect:** This damage ignores immunity.

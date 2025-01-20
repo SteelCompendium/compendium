@@ -5,7 +5,7 @@
 | *Humanoid, Radenwight* |                    **EV 7** |
 | **Stamina**: 10        |               **Weakness**: |
 | **Speed**: 7 (climb)   |  **Size**: 1S / Stability 0 |
-|                        |          **Free Strike**: 2 |
+|                        |      **[[Free Strike]]**: 2 |
 
 | **Might** -1 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ------------ | -------------- | ------------ | --------------- | -------------- |
@@ -35,4 +35,4 @@
 
 Trigger: An ally deals damage to the target.
 
-**Effect:** The mischief makes a free strike against the target.
+**Effect:** The mischief makes a [[Free Strike|free strike]] against the target.

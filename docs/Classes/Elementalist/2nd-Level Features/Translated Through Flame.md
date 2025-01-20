@@ -23,8 +23,4 @@ target: Self or one ally
 
 **Effect:** The target is teleported to another space within distance. Make a power roll that targets each enemy adjacent to the target's new space.
 
-**Power Roll + Reason:**
-
-- *11 or lower:* **3 fire damage**
-- *12-16:* **5 fire damage**
-- *17+:* **8 fire damage**
+Power Roll + Reason: - *11 or lower:* **3 fire damage** - *12-16:* **5 fire damage** - *17+:* **8 fire damage**

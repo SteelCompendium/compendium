@@ -4,7 +4,12 @@ title: Dragon Knight
 name_raw: Dragon Knight
 name: Dragon Knight
 type: ancestries
-ability_type: Action **Distance:** 3 cube within 1
+keywords: Area, Magic
+keyword_list:
+  - Area
+  - Magic
+ability_type: Action
+distance: 3 cube within 1
 target: All enemies
 ---
 
@@ -28,21 +33,21 @@ The cloaked figure at the back of the inn stood up. As they did so, their hood s
 
 A tall, broad draconian stepped into the light. He was old, his scales battle-scarred. He rested one clawed hand on the pommel of a mace that hung from a loop on his belt, while the other carried his shield by a strap. His flat, expressionless look was more terrifying than any threatening glower.
 
-The three human bandits took a step back. One of the dwarves just sneered--then, sensing his human compatriot's reluctance, turned to look at them. "What's this?" the lead dwarf growled.
+The three [[Human|human]] bandits took a step back. One of the [[Dwarf|dwarves]] just sneered--then, sensing his [[Human|human]] compatriot's reluctance, turned to look at them. "What's this?" the lead [[Dwarf|dwarf]] growled.
 
-"Don't be cowards now!" the other dwarf said, a hint of joy in his voice. "Look what a *prize* we have caught!"
+"Don't be [[Coward|cowards]] now!" the other [[Dwarf|dwarf]] said, a hint of joy in his voice. "Look what a *prize* we have caught!"
 
 "We didn't ..." one bandit said, shaking. "We didn't know ..."
 
 Looking at the dragon knight, the other bandit added quickly, "We didn't know there was one of you here."
 
-The draconian didn't move. Didn't give any indication he heard the man. Just stared unblinking at the lead dwarf. "Think of the *bounty*," the dwarf hissed to the humans, but he kept his eye on the draconian. "We'll all be rich."
+The draconian didn't move. Didn't give any indication he heard the man. Just stared unblinking at the lead [[Dwarf|dwarf]]. "Think of the *bounty*," the [[Dwarf|dwarf]] hissed to the [[Human|humans]], but he kept his eye on the draconian. "We'll all be rich."
 
-"I don't ..." One of the bandits dropped her sword and held her hands up as she backed away from the group toward the exit. "I don't need it that bad," she said. Then she turned and ran out the door. Her human compatriots followed.
+"I don't ..." One of the bandits dropped her sword and held her hands up as she backed away from the group toward the exit. "I don't need it that bad," she said. Then she turned and ran out the door. Her [[Human|human]] compatriots followed.
 
-The two dwarves surveyed the tavern. The people were now all facing them. A few had stood up. They weren't afraid anymore.
+The two [[Dwarf|dwarves]] surveyed the tavern. The people were now all facing them. A few had stood up. They weren't afraid anymore.
 
-"We'll be back," the lead dwarf said, and the two of them backed out of the inn, sheathing their shortswords before they turned and left.
+"We'll be back," the lead [[Dwarf|dwarf]] said, and the two of them backed out of the inn, sheathing their shortswords before they turned and left.
 
 As one, the people in the tavern turned to look with undisguised awe at the dragon knight. He noticed this, ducked his head to avoid their gaze. "Show's over," he growled, then he turned to go back to his seat in the rear.
 
@@ -50,7 +55,7 @@ As one, the people in the tavern turned to look with undisguised awe at the drag
 
 A short, doughty, middle-aged man stood up, and two equally doughty women at the same table stood up with him. "Excuse me, sir knight," the man said as the dragon knight walked past their table.
 
-The knight moved on, ignoring them. The man reached out and grabbed the massive draconian's arm. The knight wheeled on the peasant, looming over him.
+The knight moved on, ignoring them. The man reached out and [[Grabbed|grabbed]] the massive draconian's arm. The knight wheeled on the peasant, looming over him.
 
 The man bowed his head and touched his forelock. The two women with him curtseyed and tried to avoid making eye contact.
 
@@ -162,39 +167,37 @@ As a maneuver, you can recite the following oath. If you do, you succeed on savi
 
 *Until the last villain dies*
 
-#### Draconian Pride (costs 2 Points)
+##### Draconian Pride (costs 2 Points)
 
 You can use the following signature ability.
 
 ### Draconian Pride
 
-*You let loose a mighty roar to shake your foes' spirits.* **Keywords:** Area, Magic
+*You let loose a mighty roar to shake your foes' spirits.*
 
-|               |                                                |
-| :------------ | :--------------------------------------------- |
-| **Keywords:** | **Type:** Action **Distance:** 3 cube within 1 |
-| **Distance:** | **Target:** All enemies                        |
+|                               |                         |
+| :---------------------------- | :---------------------- |
+| **Keywords:** Area, Magic     | **Type:** Action        |
+| **Distance:** 3 cube within 1 | **Target:** All enemies |
 
-- *11 or lower:* 2 **damage**
-- *12-16:* 5 **damage; push 1**
-- *17+:* 7 **damage; push 2**
+- *11 or lower:* **2 damage**
+- *12-16:* **5 damage; push 1**
+- *17+:* **7 damage; push 2**
 
-#### Dragon Breath (costs 2 Points)
+DRAGON BREATH (COSTS 2 POINTS) You can use the following signature ability.
 
-**You can use the following signature ability.**
-
-### Dragon Breath
+## Dragon Breath
 
 *You expel energy to damage your foes.* **Keywords:** Area, Magic
 
 **Power Roll + Might or Presence:**
 
-- *11 or lower:* 2 **damage**
-- *12-16:* 4 **damage**
-- *17+:* 6 **damage**
+- *11 or lower:* **2 damage**
+- *12-16:* **4 damage**
+- *17+:* **6 damage**
 
 **Effect:** You choose the ability's damage type from acid, cold, corruption, fire, lightning, or poison.
 
 #### Wings (costs 2 Points)
 
-You possess wings powerful enough to take you airborne. While using your wings to fly, you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall prone. While using your wings to fly at 1st, 2nd, and 3rd level, you have damage weakness 5.
+You possess wings powerful enough to take you airborne. While using your wings to [[Fly|fly]], you can stay aloft for a number of rounds equal to your Might (minimum of 1 round) before you fall [[Prone|prone]]. While using your wings to [[Fly|fly]] at 1st, 2nd, and 3rd level, you have damage weakness 5.

@@ -12,9 +12,9 @@ type: ancestries
 
 An anger that cannot be hidden. A fury that drives them in battle. Orcs are famed throughout the world as consummate warriors--a reputation that the peace-loving orcs find distasteful.
 
-The fifth of the speaking peoples, orcs arrived on Orden after humans and elves. They made their homes in the borderlands between those two cultures, preferring the natural forests and avoiding the elf-haunted wodes. For generations, this put them directly in the path of humans who cut down the trees and built roads and farms.
+The fifth of the speaking peoples, orcs arrived on Orden after [[Human|humans]] and elves. They made their homes in the borderlands between those two cultures, preferring the natural forests and avoiding the elf-haunted wodes. For generations, this put them directly in the path of [[Human|humans]] who cut down the trees and built roads and farms.
 
-Each orc has within them a fire that causes their veins to glow once blood is drawn. This anger propels them right to the edge of death. The dichotomy between their desire to be left alone and their zeal in battle is summarized in a dwarf proverb:
+Each orc has within them a fire that causes their veins to glow once blood is drawn. This anger propels them right to the edge of death. The dichotomy between their desire to be left alone and their zeal in battle is summarized in a [[Dwarf|dwarf]] proverb:
 
 "Be thankful orcs do not hold grudges."
 
@@ -24,15 +24,15 @@ What a world we have made.
 
 Indeed, what a marvel!
 
-It is a marvel now, with the dragons and celestials, elementals and terrans.
+It is a marvel *now*, with the dragons and celestials, elementals and terrans.
 
 It is unseemly. It was better before things started talking.
 
-And having *opinions*. About our creation. About us!
+And having *opinions*. About our creation. About *us*!
 
 Oh, I don't know. I thought I agreed, but then look you what our sibling Ord has made. A fine people, these elementals. They make marvels. Ord made them, and now they make miracles.
 
-We make marvels. The world is a miracle, and enough.
+*We* make marvels. The world is a miracle, and enough.
 
 Yes. But still. I think I might try my hand at children. It seems a worthy pursuit.
 
@@ -88,11 +88,11 @@ Orc heroes have access to the following traits.
 
 ### Signature Trait: Relentless
 
-When a creature deals damage to you that leaves you dying, you can make a free strike against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
+When a creature deals damage to you that leaves you dying, you can make a [[Free Strike|free strike]] against any creature. If the creature is reduced to 0 Stamina by your strike, you can spend a Recovery.
 
 ### Purchased Orc Traits
 
-You have 3 ancestry points to spend on the following traits. (*Quick Build:* Grounded, Glowing Recovery)
+You have 3 ancestry points to spend on the following traits. (*Quick Build:* [[Grounded]], Glowing Recovery)
 
 #### Bloodfire Rush (costs 1 Point)
 
@@ -108,6 +108,8 @@ When you are stirred by passion for creation, your bloodfire allows you to work 
 
 #### Glowing Recovery (costs 2 Points)
 
-Your bloodfire allows you to regain your strength quicker than others. When you can take the Catch Breath maneuver, you can spend as many Recoveries as you like instead of just one.
+Your bloodfire allows you to regain your strength quicker than others. When you can take the [[Catch Breath]] maneuver, you can spend as many Recoveries as you like instead of just one.
 
-### Nonstop (costs 2 Points) Your Bloodfire Supplies You With A Constant Rush Of Adrenaline. You Can't Be Slowed.
+#### Nonstop (costs 2 Points)
+
+Your bloodfire supplies you with a constant rush of adrenaline. You can't be [[Slowed|slowed]].

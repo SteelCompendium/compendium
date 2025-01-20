@@ -4,9 +4,6 @@ title: Battlemind
 name_raw: Battlemind
 name: Battlemind
 type: kits
-ability_type: Action
-distance: Melee 1
-target: 1 creature
 ---
 
 # Battlemind
@@ -15,7 +12,7 @@ Who says lightly armored heroes can't also be hard to move? You just need to emp
 
 ## Equipment
 
-You wear light armor and wield a medium weapon.
+You wear light armor and wield a [[Medium|medium]] weapon.
 
 ## Kit Bonuses
 
@@ -25,16 +22,3 @@ You wear light armor and wield a medium weapon.
 - **Melee Damage Bonus:** +2/+2/+2
 
 ## Signature Ability
-
-## Unmooring
-
-*Your weapon unleashes psionic energy that reduces your target's weight.* **Keywords:** Melee, Psionic, Strike, Weapon
-
-|                       |                        |
-| :-------------------- | :--------------------- |
-| **Keywords:**         | **Type:** Action       |
-| **Distance:** Melee 1 | **Target:** 1 creature |
-
-**Power Roll + Might, Reason, Intuition, or Presence:** *11 or lower:* **5 + M, R, I, or P damage; stability reduced by 2 (EoT)**
-
-*12-16:* 8 **+ M, R, I, or P damage; stability reduced by 3 (EoT)** *17+:* 11 **+ M, R, I, or P damage; stability reduced by 4 (EoT)**

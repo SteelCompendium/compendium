@@ -18,34 +18,16 @@ As a tactician, you gain the following features.
 
 [1ST-LEVEL DOCTRINE FEATURE](./1st-Level%20Doctrine%20Feature/1st-Level%20Doctrine%20Feature.md)
 
-[DOCTRINE TRIGGERED ACTION](./Doctrine%20Triggered%20Action.md)
-
-[ADVANCED TACTICS](./Advanced%20Tactics.md)
-
-[OVERWATCH](./Overwatch.md)
-
-[PARRY](./Parry.md)
+[DOCTRINE TRIGGERED ACTION](./Doctrine%20Triggered%20Action/Doctrine%20Triggered%20Action.md)
 
 [FIELD ARSENAL](./Field%20Arsenal.md)
 
 [MARK](./Mark.md)
 
-[MARK](./Mark/Mark.md)
+[MARK](./Mark.md)
+
+[STRIKE NOW](./Strike%20Now.md)
+
+["STRIKE NOW!"](./Strike%20Now.md)
 
 [TACTICIAN ABILITIES](./Tactician%20Abilities/Tactician%20Abilities.md)
-
-[BATTLE CRY (3 FOCUS)](./Battle%20Cry.md)
-
-[CONCUSSIVE STRIKE (3 FOCUS)](./Concussive%20Strike.md)
-
-[INSPIRING STRIKE (3 FOCUS)](./Inspiring%20Strike.md)
-
-[SQUAD! FORWARD!(3 FOCUS)](<./Squad%20FORWARD(3%20FOCUS)/Squad%20FORWARD(3%20FOCUS).md>)
-
-[HAMMER AND ANVIL (5 FOCUS)](./Hammer%20And%20Anvil.md)
-
-[THE MIND GAME (5 FOCUS)](./The%20Mind%20Game.md)
-
-[NOW!(5 FOCUS)](<./NOW(5%20FOCUS).md>)
-
-[THIS IS WHAT WE PLANNED FOR (5 FOCUS)](./This%20Is%20What%20We%20Planned%20For.md)

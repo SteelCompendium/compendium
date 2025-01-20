@@ -22,26 +22,14 @@ As a fury, you gain the following features.
 
 [ASPECT TRIGGERED ACTION](./Aspect%20Triggered%20Action.md)
 
-[FURIOUS CHANGE](./Furious%20Change/Furious%20Change.md)
+[FURIOUS CHANGE](./Furious%20Change.md)
 
-[MIGHTY LEAPS](./Mighty%20Leaps.md)
+[LINES OF FORCE](./Lines%20Of%20Force.md)
 
-[WHERE'S MY MANEUVER?](./Wheres%20My%20Maneuver.md)
+[UNEARTHLY REFLEXES](./Unearthly%20Reflexes.md)
+
+[MIGHTY LEAPS](./Mighty%20Leaps/Mighty%20Leaps.md)
 
 [FURY ABILITIES](./Fury%20Abilities/Fury%20Abilities.md)
 
 [BRUTAL SLAM](./Brutal%20Slam.md)
-
-[HIT AND RUN](./Hit%20And%20Run.md)
-
-[IMPALED!](./Impaled.md)
-
-[TO THE DEATH!](./To%20The%20Death/To%20The%20Death.md)
-
-[BACK!(3 RAGE)](<./BACK(3%20RAGE).md>)
-
-[OUT OF THE WAY!(3 RAGE)](<./Out%20Of%20The%20WAY(3%20RAGE).md>)
-
-[TIDE OF DEATH (3 RAGE)](./Tide%20Of%20Death.md)
-
-[YOUR ENTRAILS ARE YOUR EXTRAILS!(3 RAGE)](<./Your%20Entrails%20Are%20Your%20EXTRAILS(3%20RAGE)/Your%20Entrails%20Are%20Your%20EXTRAILS(3%20RAGE).md>)

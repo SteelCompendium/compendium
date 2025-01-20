@@ -10,4 +10,4 @@ kind: 3rd-level features
 
 # See Through Your Tricks
 
-You always gain the mechanical benefits of surprise at the beginning of combat. You have a double edge on any checks to search for hidden creatures, hidden motives, or lies. Also to gamble!
+You have a double edge on tests made to search for hidden creatures, discern hidden motives, or detect lies. You also have a double edge on tests made to gamble!

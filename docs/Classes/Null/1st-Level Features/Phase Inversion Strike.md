@@ -20,10 +20,6 @@ target: One creature or object
 | **Keywords:**         | **Type:** Action                   |
 | **Distance:** Melee 1 | **Target:** One creature or object |
 
-**Power Roll + Agility:**
-
-- *11 or lower:* **4 + A damage; push** 2
-- *12-16:* 6 + A **damage; push** 4
-- *17+:* 8 + A **damage; push** 6
+Power Roll + Agility: - *11 or lower:* **4 + A damage; push 2** - *12-16:* **6 + A damage; push 4** - *17+:* **8 + A damage; push 6**
 
 **Effect:** Before the push is resolved, teleport the target to a square adjacent to you opposite the one they started in. If the target cannot be teleported, then they ignore the push.

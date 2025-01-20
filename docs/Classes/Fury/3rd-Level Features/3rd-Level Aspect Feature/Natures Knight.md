@@ -10,4 +10,4 @@ kind: 3rd-level features
 
 # Nature's Knight
 
-You can speak with all animals and elementals regardless of what form you are in. You automatically sense the presence of any animal or elemental within 10 squares of you, even if they are hidden. You are considered to have 1 higher Renown if negotiation with an animal or elemental comes into play. This stacks with the Renown bonus for animals of your type that your animal form gives you.
+You can speak with animals and elementals. You automatically sense the presence of any animal or elemental within 10 squares of you, even if they are hidden. If you are in a negotiation with an animal or elemental, you treat your Renown as 1 higher than usual. This stacks with the increase to your Renown in a negotiation with an animal of your type while in animal form (see Stormwight Kits).

@@ -24,8 +24,10 @@ kind: basics
 
 **Starting Stamina at 1st Level:** 21
 
-[Stamina Gained at 2nd and Higher Levels: 9](./Stamina%20Gained%20At%202nd%20And%20Higher%20Levels%209.md)
+**Stamina Gained at 2nd and Higher Levels:** 9
 
-[Recoveries: 8](./Recoveries%208.md)
+**Recoveries:** 8
+
+**Skills:** Psionics, plus choose any two skills from the interpersonal or lore groups. (*Quick Build:* Psionics, Read Person, Timescape)
 
 [NULL ADVANCEMENT](./Null%20Advancement.md)

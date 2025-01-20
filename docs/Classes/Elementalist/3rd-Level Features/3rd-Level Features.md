@@ -14,9 +14,7 @@ As a 3rd-level elementalist, you gain the following features.
 
 [3RD-LEVEL SPECIALIZATION FEATURE](./3rd-Level%20Specialization%20Feature/3rd-Level%20Specialization%20Feature.md)
 
-[7-ESSENCE ABILITY](./7-Essence%20Ability.md)
-
-[ERASE (7 ESSENCE)](./Erase.md)
+[7-ESSENCE ABILITY](./7-Essence%20Ability/7-Essence%20Ability.md)
 
 [MAW OF EARTH (7 ESSENCE)](./Maw%20Of%20Earth.md)
 

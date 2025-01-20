@@ -5,6 +5,9 @@ name_raw: Censor
 name: Censor
 type: classes
 subtype: censor
+ability_type: Action
+distance: Melee 1
+target: One creature
 ---
 
 # Censor
@@ -13,24 +16,23 @@ Demons and devils fear you. Criminals run from the sight of your shadow in the a
 
 You're at your best against the strongest foes. Your judgments terrify heretics, stop enemies in their tracks, even hurl them across the battlefield.
 
+## Censored (5 Wrath)
+
+*Judged and sentenced.* **Keywords:** Melee, Strike, Weapon
+
+|                       |                          |
+| :-------------------- | :----------------------- |
+| **Keywords:**         | **Type:** Action         |
+| **Distance:** Melee 1 | **Target:** One creature |
+
+Power Roll + Might: - *11 or lower:* **2 + M holy damage** - *12-16:* **3 + M holy damage** - *17+:* **5 + M holy damage**
+
+**Effect**: If a target who is not a leader or a solo creature is winded after the damage is resolved, they die.
+
 [BASICS](./Basics/Basics.md)
 
 [1ST-LEVEL FEATURES](./1st-Level%20Features/1st-Level%20Features.md)
 
-[2ND-LEVEL FEATURES](./2nd-Level%20Features/2nd-Level%20Features.md)
+[BEHOLD, A SHIELD OF FAITH!(3 WRATH)](<./Behold%20A%20Shield%20Of%20FAITH(3%20WRATH)/Behold%20A%20Shield%20Of%20FAITH(3%20WRATH).md>)
 
-[3RD-LEVEL FEATURES](./3rd-Level%20Features/3rd-Level%20Features.md)
-
-[4TH-LEVEL FEATURES](./4th-Level%20Features/4th-Level%20Features.md)
-
-[5TH-LEVEL FEATURES](./5th-Level%20Features/5th-Level%20Features.md)
-
-[6TH-LEVEL FEATURES](./6th-Level%20Features/6th-Level%20Features.md)
-
-[7TH-LEVEL FEATURES](./7th-Level%20Features/7th-Level%20Features.md)
-
-[8TH-LEVEL FEATURES](./8th-Level%20Features/8th-Level%20Features.md)
-
-[9TH-LEVEL FEATURES](./9th-Level%20Features/9th-Level%20Features.md)
-
-[10TH-LEVEL FEATURES](./10th-Level%20Features/10th-Level%20Features.md)
+[BEHOLD THE FACE OF EVIL!(5 WRATH)](<./Behold%20The%20Face%20Of%20EVIL(5%20WRATH).md>)

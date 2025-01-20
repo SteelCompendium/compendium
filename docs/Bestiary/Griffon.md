@@ -1,11 +1,11 @@
 ### GRIFFON
 
-| GRIFFON            |         **Level 2 Mount** |
-| :----------------- | ------------------------: |
-| *Animal, Griffon*  |                 **EV 32** |
-| **Stamina**: 70    |             **Weakness**: |
-| **Speed**: 9 (fly) | **Size**: 2 / Stability 2 |
-|                    |        **Free Strike**: 5 |
+| GRIFFON                     |         **Level 2 Mount** |
+| :-------------------------- | ------------------------: |
+| *Animal, Griffon*           |                 **EV 32** |
+| **Stamina**: 70             |             **Weakness**: |
+| **Speed**: 9 ([[Fly\|fly]]) | **Size**: 2 / Stability 2 |
+|                             |    **[[Free Strike]]**: 5 |
 
 | **Might** +2 | **Agility** +2 | **Reason** -1 | **Intuition** 0 | **Presence** +2 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |
@@ -13,10 +13,10 @@
 
 #### Claw Swipes (Signature)
 
-|                                         |                                |
-| :-------------------------------------- | :----------------------------- |
-| Keywords: Attack, Charge, Melee, Weapon | Type: Action                   |
-| Distance: Melee 1                       | Target: 2 creatures or objects |
+|                                             |                                |
+| :------------------------------------------ | :----------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Action                   |
+| Distance: Melee 1                           | Target: 2 creatures or objects |
 
 **2d10 + 2**
 
@@ -61,8 +61,8 @@ Trigger: The griffon takes damage
 
 **Beast of Prey**
 
-Creatures have a double bane on escaping the griffon's grab.
+Creatures have a double bane on escaping the griffon's [[Grab|grab]].
 
 **Steady**
 
-Creatures have a bane on power rolls that could knock the griffon or their rider prone.
+Creatures have a bane on power rolls that could knock the griffon or their rider [[Prone|prone]].

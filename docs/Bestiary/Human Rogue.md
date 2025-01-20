@@ -1,11 +1,11 @@
 ### HUMAN ROGUE
 
-| HUMAN ROGUE       | **Level 1 Ambusher Minion** |
-| :---------------- | --------------------------: |
-| *Human, Humanoid* |                    **EV 7** |
-| **Stamina**: 10   |               **Weakness**: |
-| **Speed**: 7      |  **Size**: 1M / Stability 0 |
-|                   |          **Free Strike**: 2 |
+| [[Human\|HUMAN]] ROGUE | **Level 1 Ambusher Minion** |
+| :--------------------- | --------------------------: |
+| *[[Human]], Humanoid*  |                    **EV 7** |
+| **Stamina**: 10        |               **Weakness**: |
+| **Speed**: 7           |  **Size**: 1M / Stability 0 |
+|                        |      **[[Free Strike]]**: 2 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |

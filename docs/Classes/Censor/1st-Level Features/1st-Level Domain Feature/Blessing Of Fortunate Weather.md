@@ -18,5 +18,4 @@ Choose one of the following types of weather, each of which grants a benefit to 
 
 - **Foggy:** You and each ally gain an edge on tests that use the Hide skill.
 - **Overcast:** You and each ally gain an edge on tests that use the Endurance skill.
-
-**Precipitation:** When the ground is muddy or snowy, you and each ally gain an edge on tests that use the Track skill.
+- **Precipitation:** When the ground is muddy or snowy, you and each ally gain an edge on tests that use the Track skill.

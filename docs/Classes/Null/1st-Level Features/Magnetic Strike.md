@@ -20,8 +20,4 @@ target: One creature or object
 | **Keywords:**         | **Type:** Action                   |
 | **Distance:** Melee 2 | **Target:** One creature or object |
 
-**Power Roll + Agility:**
-
-- *11 or lower:* 5 + A **psychic damage; vertical pull 1**
-- *12-16:* 8 + A **psychic damage; vertical pull 2**
-- *17+:* 11 + A **psychic damage; vertical pull 3**
+Power Roll + Agility: - *11 or lower:* **5 + A psychic damage; vertical pull 1** - *12-16:* **8 + A psychic damage; vertical pull 2** - *17+:* **11 + A psychic damage; vertical pull 3**

@@ -8,7 +8,7 @@ type: complications
 
 # Meddling Butler
 
-You're not sure what you did to deserve it, but for some reason your family saddled you with an old and trusted but irritating--family servant. They're supremely competent, of course, but they sometimes seem to forget who's in charge.
+You're not sure what you did to deserve it, but for some reason your family saddled you with an old and trusted but irritating--family servant. They're supremely competent, of course, but they sometimes seem to forget who's in [[Charge|charge]].
 
 **Benefit:** You gain a retainer, in addition to followers you acquire through Renown or other means.
 

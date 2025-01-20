@@ -10,4 +10,4 @@ kind: 2nd-level features
 
 # Allow Me To Introduce Tonight's Players
 
-When you take the first turn in a combat encounter, you can use your action to introduce you and your allies to your opponents. All creatures on your side can shift up to their speed and have the benefit of the Defend action until the end of the round. Any enemies that were surprised are no longer surprised.
+Whenever you take the first turn in a combat encounter, you can use your action to introduce yourself and your allies to your opponents. Each creature on your side can shift up to their speed and gains the benefit of the Defend action (see Actions) until the end of the round. However, any enemies who were surprised are no longer surprised.

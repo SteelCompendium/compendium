@@ -18,6 +18,12 @@ As a 2nd-level null, you gain the following features.
 
 [2ND-LEVEL TRADITION ABILITY](./2nd-Level%20Tradition%20Ability/2nd-Level%20Tradition%20Ability.md)
 
+[BLUR (5 DISCIPLINE)](./Blur.md)
+
 [FORCE REDIRECTED (5 DISCIPLINE)](./Force%20Redirected/Force%20Redirected.md)
 
 [HEAT SINK (5 DISCIPLINE)](./Heat%20Sink/Heat%20Sink.md)
+
+[GRAVITIC STRIKE (5 DISCIPLINE)](./Gravitic%20Strike.md)
+
+[KINETIC SHIELD (5 DISCIPLINE)](./Kinetic%20Shield.md)

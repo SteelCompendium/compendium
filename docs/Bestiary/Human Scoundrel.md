@@ -1,11 +1,11 @@
 ### HUMAN SCOUNDREL
 
-| HUMAN SCOUNDREL   |       **Level 1 Ambusher** |
-| :---------------- | -------------------------: |
-| *Human, Humanoid* |                  **EV 14** |
-| **Stamina**: 30   |              **Weakness**: |
-| **Speed**: 5      | **Size**: 1M / Stability 0 |
-|                   |         **Free Strike**: 4 |
+| [[Human\|HUMAN]] SCOUNDREL |       **Level 1 Ambusher** |
+| :------------------------- | -------------------------: |
+| *[[Human]], Humanoid*      |                  **EV 14** |
+| **Stamina**: 30            |              **Weakness**: |
+| **Speed**: 5               | **Size**: 1M / Stability 0 |
+|                            |     **[[Free Strike]]**: 4 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |

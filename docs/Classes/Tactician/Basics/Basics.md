@@ -24,8 +24,10 @@ kind: basics
 
 **Starting Stamina at 1st Level:** 21
 
-[Stamina Gained at 2nd and Higher Levels: 12](./Stamina%20Gained%20At%202nd%20And%20Higher%20Levels%2012.md)
+**Stamina Gained at 2nd and Higher Levels:** 12
 
-[Recoveries: 10](./Recoveries%2010.md)
+**Recoveries:** 10
+
+**Skills:** Lead, plus choose any two skills from Alertness, Architecture, Blacksmithing, Brag, Culture, Empathize, Fletching, Mechanics, Monsters, Search, Strategy, or the skills of the exploration skill group. (*Quick Build:* Lead, Monsters, Strategy)
 
 [TACTICIAN ADVANCEMENT](./Tactician%20Advancement.md)

@@ -7,7 +7,8 @@ cost: 7 Essence
 type: classes
 subtype: elementalist
 kind: 3rd-level features
-ability_type: Action **Distance:** 3 aura
+ability_type: Action
+distance: 3 aura
 target: Each enemy in the area
 ---
 
@@ -15,14 +16,12 @@ target: Each enemy in the area
 
 *Guardian animal spirits surround you to harry your foes and bolster your allies.* **Keywords:** Area, Green, Magic
 
-|               |                                       |
-| :------------ | :------------------------------------ |
-| **Keywords:** | **Type:** Action **Distance:** 3 aura |
-| **Distance:** | **Target:** Each enemy in the area    |
+|                      |                                    |
+| :------------------- | :--------------------------------- |
+| **Keywords:**        | **Type:** Action                   |
+| **Distance:** 3 aura | **Target:** Each enemy in the area |
 
-**Power Roll + Reason:**
-
-- *11 or lower:* **3 damage**
+- **Power Roll + Reason:** o *11 or lower:* **3 damage**
 - *12-16:* **6 damage**
 - *17+:* **9 damage**
 

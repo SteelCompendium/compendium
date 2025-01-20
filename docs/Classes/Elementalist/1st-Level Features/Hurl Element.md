@@ -20,10 +20,6 @@ target: One creature or object
 | **Keywords:**           | **Type:** Action                   |
 | **Distance:** Ranged 10 | **Target:** One creature or object |
 
-**Power Roll + Reason:**
-
-- *11 or lower:* **2 + R damage**
-- *12-16:* **4 + R damage**
-- *17+:* **6 + R damage**
+Power Roll + Reason: - *11 or lower:* **2 + R damage** - *12-16:* **4 + R damage** - *17+:* **6 + R damage**
 
 **Effect:** When you make this strike, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.

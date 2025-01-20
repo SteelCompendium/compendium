@@ -22,7 +22,7 @@ You wear no armor and wield a bow.
 - **Speed Bonus:** +1
 - **Ranged Damage Bonus:** +2/+2/+2
 - **Weapon Distance Bonus:** +10
-- **Disengage Bonus:** +1
+- **[[Disengage]] Bonus:** +1
 
 ## Signature Ability
 
@@ -35,10 +35,6 @@ You wear no armor and wield a bow.
 | **Keywords:**           | **Type:** Action                 |
 | **Distance:** Ranged 15 | **Target:** 1 creature or object |
 
-**Power Roll + Agility, Reason, Intuition, or Presence:**
-
-- *11 or lower:* 5 **+ A, R, I, or P fire damage**
-- *12-16:* 7 **+ A, R, I, or P fire damage**
-- *17+:* 10 **+ A, R, I, or P fire damage**
+Power Roll + Agility, Reason, Intuition, or Presence: - *11 or lower:* **5 + A, R, I, or P fire damage** - *12-16:* **7 + A, R, I, or P fire damage** - *17+:* **10 + A, R, I, or P fire damage**
 
 **Effect:** A creature or object within 2 squares of your target takes fire damage equal to the characteristic score you added to this ability's power roll.

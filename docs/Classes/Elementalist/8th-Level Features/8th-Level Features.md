@@ -16,8 +16,6 @@ As an 8th-level elementalist, you gain the following features.
 
 [8TH-LEVEL SPECIALIZATION FEATURE](./8th-Level%20Specialization%20Feature/8th-Level%20Specialization%20Feature.md)
 
-[Earthwalk](./Earthwalk.md)
-
 [11-ESSENCE ABILITIES](./11-Essence%20Abilities.md)
 
 [HEART OF THE WODE (11 ESSENCE)](./Heart%20Of%20The%20Wode.md)

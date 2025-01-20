@@ -29,11 +29,7 @@ Your mother and father never saw eye to eye--you know that because your father's
 | **Keywords:** Attack, magic, ranged | **Type:** Action       |
 | **Distance:** Ranged 10             | **Target:** 1 creature |
 
-**Power Roll + Might or Presence:**
-
-- *11 or lower:* 2 damage; M \< \[weak\] **slowed (save ends)**
-- *12-16:* 4 damage; M \< \[average\] **slowed (save ends)**
-- *17+:* 6 damage; M \< \[strong\] **slowed (save ends)**
+Power Roll + Might or Presence: - *11 or lower:* 2 damage; M \< \[weak\] **[[Slowed|slowed]] (save ends)** - *12-16:* 4 damage; M \< \[average\] **[[Slowed|slowed]] (save ends)** - *17+:* 6 damage; M \< \[strong\] **[[Slowed|slowed]] (save ends)**
 
 **Effect:** This ability has no effect on a creature that can't see you or purposely avoids looking at your eyes. If a creature is reduced to 0 Stamina by this ability, they turn to inanimate stone.
 

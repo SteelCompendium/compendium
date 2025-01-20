@@ -1,11 +1,11 @@
 ### GOBLIN MONARCH
 
-| GOBLIN MONARCH       |         **Level 1 Leader** |
-| :------------------- | -------------------------: |
-| *Goblin, Humanoid*   |                  **EV 24** |
-| **Stamina**: 50      |              **Weakness**: |
-| **Speed**: 6 (climb) | **Size**: 1S / Stability 1 |
-|                      |         **Free Strike**: 3 |
+| GOBLIN [[Monarch\|MONARCH]] |         **Level 1 Leader** |
+| :-------------------------- | -------------------------: |
+| *Goblin, Humanoid*          |                  **EV 24** |
+| **Stamina**: 50             |              **Weakness**: |
+| **Speed**: 6 (climb)        | **Size**: 1S / Stability 1 |
+|                             |     **[[Free Strike]]**: 3 |
 
 | **Might** +3 | **Agility** +2 | **Reason** -4 | **Intuition** 0 | **Presence** -3 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |
@@ -24,7 +24,7 @@
 - ★ 12-16: 5 damage
 - ✸ 17+: 7 damage
 
-**Effect:** An ally within 10 of the monarch can make a free strike.
+**Effect:** An ally within 10 of the [[Monarch|monarch]] can make a [[Free Strike|free strike]].
 
 #### Get in Here! (1 Malice)
 
@@ -42,7 +42,7 @@
 | Keywords: --      | Type: Triggered Action |
 | Distance: Melee 1 | Target: One ally       |
 
-Trigger: A creature targets the monarch with an attack.
+Trigger: A creature targets the [[Monarch|monarch]] with an attack.
 
 **Effect:** The ally becomes the target of the triggering attack instead.
 
@@ -53,7 +53,7 @@ Trigger: A creature targets the monarch with an attack.
 | Keywords: Area     | Type: Villain Action 1 |
 | Distance: 10 burst | Target: Each ally      |
 
-**Effect:** Each target can move up to their speed or make a free strike.
+**Effect:** Each target can move up to their speed or make a [[Free Strike|free strike]].
 
 #### Focus Fire
 
@@ -71,12 +71,12 @@ Trigger: A creature targets the monarch with an attack.
 | Keywords: Area     | Type: Villain Action 3          |
 | Distance: 10 burst | Target: All allies in the burst |
 
-**Effect:** Each target can make a free strike with edge.
+**Effect:** Each target can make a [[Free Strike|free strike]] with edge.
 
 **End Effect**
 
-At the end of their turn, the monarch can take 5 damage to end one save-ends effect affecting them. This damage can't be reduced in any way.
+At the end of their turn, the [[Monarch|monarch]] can take 5 damage to end one save-ends effect affecting them. This damage can't be reduced in any way.
 
 **Crafty**
 
-The monarch doesn't provoke opportunity attacks by moving.
+The [[Monarch|monarch]] doesn't provoke opportunity attacks by moving.

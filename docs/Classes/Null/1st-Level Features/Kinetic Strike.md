@@ -20,8 +20,4 @@ target: One creature or object
 | **Keywords:**         | **Type:** Action                   |
 | **Distance:** Melee 1 | **Target:** One creature or object |
 
-**Power Roll + Agility:**
-
-- *11 or lower:* **4 + A damage; taunted (EoT)**
-- *12-16:* **5 + A damage; taunted (EoT); slide 1**
-- *17+:* **6 + A damage; taunted (EoT); slide 2**
+Power Roll + Agility: - *11 or lower:* **4 + A damage; taunted (EoT)** - *12-16:* **5 + A damage; taunted (EoT); slide 1** - *17+:* **6 + A damage; taunted (EoT); slide 2**

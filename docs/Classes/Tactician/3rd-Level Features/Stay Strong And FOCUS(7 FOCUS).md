@@ -7,19 +7,18 @@ cost: 7 Focus
 type: classes
 subtype: tactician
 kind: 3rd-level features
+ability_type: Maneuver
 distance: Self
-target: Self \|
+target: Self
 ---
 
 # Stay Strong, And Focus!(7 Focus)
 
 *"We can do this! Keep faith and hold fast!"* **Keywords:** --
 
-| **Type:** Maneuver                   |                                   |
-| ------------------------------------ | --------------------------------- |
-|                                      |                                   |
-| :----------------------------------- | :-------------------------------- |
-| **Keywords:**                        | **Type:**                         |
-| **Distance:** Self                   | **Target:** Self \|               |
+|                    |                    |
+| :----------------- | :----------------- |
+| **Keywords:**      | **Type:** Maneuver |
+| **Distance:** Self | **Target:** Self   |
 
 **Effect:** Until the end of the encounter or you are dying, whenever you or any ally deals damage to a target marked by you, the damage dealer can spend a Recovery.

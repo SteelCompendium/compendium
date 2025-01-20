@@ -13,10 +13,6 @@ target: Self
 
 # Hands Of The Maker
 
-You gain the following ability.
-
-## Hands Of The Maker
-
 *You can craft objects with the power of your mind!* **Keywords:** Magic
 
 |                    |                    |

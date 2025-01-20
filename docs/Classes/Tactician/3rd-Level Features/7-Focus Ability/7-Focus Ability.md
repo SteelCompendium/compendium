@@ -13,5 +13,3 @@ kind: 3rd-level features
 Choose one heroic ability from the following options, each of which costs 7 focus to use.
 
 [DOUBLE ENVELOPMENT (7 FOCUS)](./Double%20Envelopment.md)
-
-[FRONTAL ASSAULT (7 FOCUS)](./Frontal%20Assault.md)

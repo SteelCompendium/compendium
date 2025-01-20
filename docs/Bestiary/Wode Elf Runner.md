@@ -5,7 +5,7 @@
 | *Fey, Humanoid, Wode Elf* |                   **EV 6** |
 | **Stamina**: 10           |              **Weakness**: |
 | **Speed**: 7              | **Size**: 1M / Stability 0 |
-|                           |         **Free Strike**: 2 |
+|                           |     **[[Free Strike]]**: 2 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** +1 |
 | ----------- | -------------- | ------------ | --------------- | --------------- |
@@ -13,10 +13,10 @@
 
 #### Spear (Signature)
 
-|                                                 |                                         |
-| :---------------------------------------------- | :-------------------------------------- |
-| Keywords: Attack, Charge, Melee, Ranged, Weapon | Type: Action                            |
-| Distance: Melee 1 or Ranged 5                   | Target: 1 creature or object per minion |
+|                                                     |                                         |
+| :-------------------------------------------------- | :-------------------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Ranged, Weapon | Type: Action                            |
+| Distance: Melee 1 or Ranged 5                       | Target: 1 creature or object per minion |
 
 **2d10 + 2**
 
@@ -28,4 +28,4 @@
 
 **Masking Glamor**
 
-The runner immediately hides at the end of their turn while in cover or concealment, even if they are observed.
+The runner immediately [[Hide|hides]] at the end of their turn while in cover or concealment, even if they are observed.

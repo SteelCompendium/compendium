@@ -1,11 +1,11 @@
 ### HUMAN ARCHER
 
-| HUMAN ARCHER      | **Level 1 Artillery Minion** |
-| :---------------- | ---------------------------: |
-| *Human, Humanoid* |                     **EV 6** |
-| **Stamina**: 8    |                **Weakness**: |
-| **Speed**: 5      |   **Size**: 1M / Stability 0 |
-|                   |           **Free Strike**: 2 |
+| [[Human\|HUMAN]] ARCHER | **Level 1 Artillery Minion** |
+| :---------------------- | ---------------------------: |
+| *[[Human]], Humanoid*   |                     **EV 6** |
+| **Stamina**: 8          |                **Weakness**: |
+| **Speed**: 5            |   **Size**: 1M / Stability 0 |
+|                         |       **[[Free Strike]]**: 2 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ----------- | -------------- | ------------ | --------------- | -------------- |

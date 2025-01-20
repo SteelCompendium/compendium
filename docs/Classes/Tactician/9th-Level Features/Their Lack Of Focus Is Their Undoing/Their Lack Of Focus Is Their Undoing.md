@@ -23,12 +23,6 @@ target: 3 enemy creatures
 
 **Effect:** Each target uses a signature ability under your control and automatically achieves a tier 3 result. After resolving their attacks make a power roll against each target.
 
-**Power Roll + Might:**
+Power Roll + Might: - *11 or lower:* **R \< \[weak\] dazed (save ends)** - *12-16:* **R \< \[average\] dazed (save ends)** - *17+:* **R \< \[strong\] dazed (save ends)**
 
-- *11 or lower:* **R \< \[weak\] dazed (save ends)**
-- *12-16:* **R \< \[average\] dazed (save ends)**
-- *17+:* **R \< \[strong\] dazed (save ends)**
-
-[9TH-LEVEL MASTERMIND ABILITIES](./9th-Level%20Mastermind%20Abilities/9th-Level%20Mastermind%20Abilities.md)
-
-[9TH-LEVEL VANGUARD ABILITIES](./9th-Level%20Vanguard%20Abilities.md)
+[9TH-LEVEL MASTERMIND ABILITIES](./9th-Level%20Mastermind%20Abilities.md)

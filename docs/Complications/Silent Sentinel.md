@@ -12,4 +12,4 @@ You were trained by a group of spies who psionically infused silence into your e
 
 **Benefit:** You gain the Eavesdrop and Sneak skills and one skill from the lore skill group of your choice. Additionally, you can silently communicate with any creature, provided you share a language and can see each other.
 
-**Drawback:** You have sonic weakness 5. Additionally, when you take sonic damage, you are dazed until the end of your next turn.
+**Drawback:** You have sonic weakness 5. Additionally, when you take sonic damage, you are [[Dazed|dazed]] until the end of your next turn.

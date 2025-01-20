@@ -13,9 +13,9 @@ target: Self
 
 *"Wait, where'd he go? Where'd that little son of a bitch go? AAAAGGH!"*
 
-After humans, polder are the most numerous and diverse ancestry in Orden. They are not humans, but they live in and amongst humans and share their gods and culture. Almost every human culture in Orden has a polder saint or a human saint venerated by polder.
+After [[Human|humans]], polder are the most numerous and diverse ancestry in Orden. They are not [[Human|humans]], but they live in and amongst [[Human|humans]] and share their gods and culture. Almost every [[Human|human]] culture in Orden has a polder saint or a [[Human|human]] saint venerated by polder.
 
-Short, averaging three and a half feet tall, their origins are obscure. They are a young species who, like humans, have no single patron god. Their ability to shadowmeld means they enjoy a reputation as excellent spies and thieves. Many polder consider this a base slander and point out they're also famed as chefs, though polder can be found in every profession, especially in cities.
+Short, averaging three and a half feet tall, their origins are obscure. They are a young species who, like [[Human|humans]], have no single patron god. Their ability to shadowmeld means they enjoy a reputation as excellent spies and thieves. Many polder consider this a base slander and point out they're also famed as chefs, though polder can be found in every profession, especially in cities.
 
 ## On Polders
 
@@ -23,7 +23,7 @@ The three peasants--Jago, his wife Sarah, and his sister Beth--sat together watc
 
 "This kind of shit doesn't work if it's just a bunch of ratcatchers like us," the polder said. "You need the people to rise up. Been fifteen years since Omund died--fifteen years of fighting wolves and bandits and worse. The people welcome a tyrant after that. They like order, you know? They adapt."
 
-"If you stand on the grass long enough, it learns to lie flat," A Mist Coils Around Dying Embers said. "But what do you say?"
+"If you stand on the grass long enough, it learns to lie flat," A Mist Coils Around Dying Embers said. "But what do *you* say?"
 
 "Eh?" the polder asked her. But he glanced at Sir John staring at him.
 
@@ -43,17 +43,19 @@ Jackson looked at his friend, the high elf void mage. "Am I crazy?"
 
 "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just never run into one, it seems."
 
+"Well, we're adorable," the polder said, and drank some ale.
+
 "They must have been around I guess," John said. "I probably just never noticed."
 
 The polder put his drink down. "Oh, thank you. Thank you very much. You know, it's funny. I never have any problem noticing you big assholes. One of you makes about as much noise as a cow, which ... I don't even know how you manage that."
 
 "You're talking just ... my voice is just as loud as yours!"
 
-"I mean the way you walk around. Just the way you move, the way you stand up and sit down. You make so much goddamn noise."
+"I mean the way you [[Walk|walk]] around. Just the way you move, the way you [[Stand Up|stand up]] and sit down. You make so much goddamn noise."
 
 Jago, Sarah, and Beth all smiled at the exchange.
 
-"Humans are loud, yes," Embers agreed.
+"[[Human|Humans]] are loud, yes," Embers agreed.
 
 "Do we have to ... can we talk about something else, please?"
 
@@ -95,7 +97,7 @@ The polder looked at the high elf and nodded, impressed. Test passed.
 
 "You mean you're going to make it up?!" John exclaimed.
 
-"I..." Jackson looked with incredulity at the high elf void mage, then back at the human. "Yes, I do mean that. Does he know what I do?" he asked the elf.
+"I..." Jackson looked with incredulity at the high elf void mage, then back at the [[Human|human]]. "Yes, I do mean that. Does he know what I do?" he asked the elf.
 
 "He'll learn." Embers smiled.
 
@@ -107,7 +109,7 @@ John turned to Embers. "I thought he was a thief."
 
 "You *were* a thief."
 
-"Yeah, I was with the Clock. Probably still am--they don't exactly let you just walk away. We sort of have an agreement. I agree to do what they tell me and they agree not to tell me to do anything."
+"Yeah, I was with the Clock. Probably still am--they don't exactly let you just [[Walk|walk]] away. We sort of have an agreement. I agree to do what they tell me and they agree not to tell me to do anything."
 
 "Did they kick you out, or did you quit?"
 
@@ -135,7 +137,7 @@ Sir Vaantikalisax loomed just inside the doorway, his scales and armor glowing i
 
 The knight stared at them for a moment, then turned back to his friend.
 
-"Maybe you're right," the dragon knight said.
+"Maybe you're right," the [[Dragon Knight|dragon knight]] said.
 
 ## Polder Traits
 
@@ -145,7 +147,7 @@ Polder heroes have access to the following traits.
 
 You gain the following ability.
 
-### Shadowmeld
+#### Shadowmeld
 
 *You become an actual shadow.* **Keywords:** Magic
 
@@ -170,7 +172,7 @@ Your innated shadow magic gives you corruption immunity equal to your level + 2.
 
 #### Graceful Retreat (costs 1 Point)
 
-When you take the Disengage move action, you can shift 1 additional square as part of the move action.
+When you take the [[Disengage]] move action, you can shift 1 additional square as part of the move action.
 
 #### Polder Geist (costs 1 Point)
 
@@ -178,8 +180,8 @@ When you start your turn while no creatures have line of effect to you, or while
 
 #### Fearless (costs 2 Points)
 
-Courage is all you know. You can't be frightened.
+Courage is all you know. You can't be [[Frightened|frightened]].
 
 #### Nimblestep (costs 2 Points)
 
-Your light feet allow you to ignore the effects of difficult terrain and move at full speed while you are sneaking.
+Your light feet allow you to ignore the effects of [[Difficult Terrain|difficult terrain]] and move at full speed while you are sneaking.

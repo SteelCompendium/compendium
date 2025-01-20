@@ -20,10 +20,6 @@ target: 1 creature or object
 | **Keywords:**           | **Type:**                        |
 | **Distance:** Ranged 10 | **Target:** 1 creature or object |
 
-**Power Roll + Reason:**
-
-- *11 or lower*\*\*: teleport 4 squares\*\*
-- *12-16:* **teleport 6 squares**
-- *17+:* **teleport 8 squares**
+Power Roll + Reason: - *11 or lower*\*\*: teleport 4 squares\*\* - *12-16:* **teleport 6 squares** - *17+:* **teleport 8 squares**
 
 **Effect:** If the target falls and takes damage as if their Agility score were 0 immediately after being teleported, the damage they take from falling is fire damage, and each enemy within 3 of where the target lands takes the same damage. The ground within 3 of where the target lands becomes difficult terrain.

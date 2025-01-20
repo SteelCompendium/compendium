@@ -7,8 +7,7 @@ cost: 5 Focus
 type: classes
 subtype: tactician
 kind: 2nd-level features
-ability_type: Maneuver
-distance: Ranged 10
+ability_type: Maneuver **Distance:** Ranged 10
 target: 2 creatures
 ---
 
@@ -16,10 +15,10 @@ target: 2 creatures
 
 *Your unorthodox strategy causes enemies to lash out in fear, heedless of who they might be attacking.* **Keywords:** Ranged
 
-|                         |                         |
-| :---------------------- | :---------------------- |
-| **Keywords:**           | **Type:** Maneuver      |
-| **Distance:** Ranged 10 | **Target:** 2 creatures |
+|               |                                            |
+| :------------ | :----------------------------------------- |
+| **Keywords:** | **Type:** Maneuver **Distance:** Ranged 10 |
+| **Distance:** | **Target:** 2 creatures                    |
 
 **Effect:** Each target is marked by you. You immediately force each targeted creature to make a free strike against a creature of your choice within 5 squares of the targeted creature.
 

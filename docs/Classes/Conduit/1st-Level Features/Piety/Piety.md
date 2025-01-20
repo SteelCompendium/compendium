@@ -28,8 +28,6 @@ You lose any remaining piety at the end of the encounter.
 
 Though you can't gain piety outside of combat, you can use your heroic abilities and effects that cost piety without spending it. Whenever you use an ability or effect outside of combat that costs piety, you can't use that same ability or effect outside of combat again until you gain at least 1 Victory or finish a respite.
 
-If you use an ability outside of combat that lets you spend unlimited piety on its effect, such as Healing Grace, you can
-
-use it as if you had spent an amount of piety on it equal to your Victories.
+If you use an ability outside of combat that lets you spend unlimited piety on its effect, such as Healing Grace, you can use it as if you had spent an amount of piety on it equal to your Victories.
 
 [DOMAIN PIETY AND EFFECTS](./Domain%20Piety%20And%20Effects/Domain%20Piety%20And%20Effects.md)

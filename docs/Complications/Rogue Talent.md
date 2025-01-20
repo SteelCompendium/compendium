@@ -20,7 +20,7 @@ You are the only survivor of a cataclysmic psionic event an experiment gone wron
 
 the timescape. It left you with a psionic talent, but also made you vulnerable to telepathic attacks.
 
-**Benefit:** You gain the following ability, which you can use as a ranged free strike.
+**Benefit:** You gain the following ability, which you can use as a ranged [[Free Strike|free strike]].
 
 ## Telekinetic Grasp
 

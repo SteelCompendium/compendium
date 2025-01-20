@@ -5,7 +5,7 @@
 | *Minotaur, Monster* |                 **EV 36** |
 | **Stamina**: 70     |             **Weakness**: |
 | **Speed**: 8        | **Size**: 2 / Stability 2 |
-|                     |        **Free Strike**: 5 |
+|                     |    **[[Free Strike]]**: 5 |
 
 | **Might** +2 | **Agility** +2 | **Reason** 0 | **Intuition** +1 | **Presence** -1 |
 | ------------ | -------------- | ------------ | ---------------- | --------------- |
@@ -13,10 +13,10 @@
 
 #### Flail and Blade (Signature)
 
-|                                         |                                |
-| :-------------------------------------- | :----------------------------- |
-| Keywords: Attack, Charge, Melee, Weapon | Type: Action                   |
-| Distance: Melee 2                       | Target: 2 creatures or objects |
+|                                             |                                |
+| :------------------------------------------ | :----------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Action                   |
+| Distance: Melee 2                           | Target: 2 creatures or objects |
 
 **2d10 + 2**
 
@@ -37,16 +37,16 @@
 
 #### Goring Horns (5 Malice)
 
-|                                         |                              |
-| :-------------------------------------- | :--------------------------- |
-| Keywords: Attack, Charge, Melee, Weapon | Type: Maneuver               |
-| Distance: Melee 2                       | Target: 1 creature or object |
+|                                             |                              |
+| :------------------------------------------ | :--------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Maneuver               |
+| Distance: Melee 2                           | Target: 1 creature or object |
 
 **2d10 + 2**
 
-- ✦ ≤11: 5 damage; I1 dazed (save ends)
-- ★ 12-16: 9 damage; I2 dazed (save ends)
-- ✸ 17+: 12 damage; I3 dazed (save ends)
+- ✦ ≤11: 5 damage; I1 [[Dazed|dazed]] (save ends)
+- ★ 12-16: 9 damage; I2 [[Dazed|dazed]] (save ends)
+- ✸ 17+: 12 damage; I3 [[Dazed|dazed]] (save ends)
 
 **Effect:** The potency of this ability increases by 1 if it's used while charging.
 
@@ -59,7 +59,7 @@
 
 Trigger: The minotaur takes damage from a creature within 8.
 
-**Effect:** The minotaur charges the target using Flail and Blade or Goring Horns.
+**Effect:** The minotaur [[Charge|charges]] the target using Flail and Blade or Goring Horns.
 
 **Minotaur Sense**
 

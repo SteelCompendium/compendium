@@ -16,7 +16,7 @@ Ever since you were a kid, you've been obsessed with a certain topic. During you
 
 **Item Prerequisite:** None
 
-**Project Source:** A significant source of information on the topic, such as a major library or a world-renowned sage
+**Project Source:** A significant source of information on the topic, such as a major library or a world-renowned [[Sage|sage]]
 
 **Project Roll Characteristic:** Reason
 

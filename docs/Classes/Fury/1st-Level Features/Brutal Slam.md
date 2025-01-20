@@ -20,8 +20,4 @@ target: One creature or object
 | **Keywords:**         | **Type:** Action                   |
 | **Distance:** Melee 1 | **Target:** One creature or object |
 
-**Power Roll + Might:**
-
-- *11 or lower:* 3 + M **damage; push 1**
-- *12-16:* 6 + M **damage; push 2**
-- *17+:* 9 + M **damage; push 4**
+Power Roll + Might: - *11 or lower:* **3 + M damage; push 1** - *12-16:* **6 + M damage; push 2** - *17+:* **9 + M damage; push 4**

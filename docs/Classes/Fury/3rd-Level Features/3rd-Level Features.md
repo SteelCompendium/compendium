@@ -14,6 +14,8 @@ As a 3rd-level fury, you gain the following features.
 
 [3RD-LEVEL ASPECT FEATURE](./3rd-Level%20Aspect%20Feature/3rd-Level%20Aspect%20Feature.md)
 
-[NATURE'S KNIGHT](./Natures%20Knight/Natures%20Knight.md)
-
 [7-RAGE ABILITY](./7-Rage%20Ability/7-Rage%20Ability.md)
+
+[STEELBREAKER (7 RAGE)](./Steelbreaker.md)
+
+[YOU ARE ALREADY DEAD (7 RAGE)](./You%20Are%20Already%20Dead.md)

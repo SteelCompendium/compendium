@@ -5,7 +5,7 @@
 | *Fiend, Gnoll*         |                  **EV 12** |
 | **Stamina**: 25        |              **Weakness**: |
 | **Speed**: 5           | **Size**: 1M / Stability 1 |
-|                        |         **Free Strike**: 3 |
+|                        |     **[[Free Strike]]**: 3 |
 
 | **Might** +1 | **Agility** 0 | **Reason** 0 | **Intuition** +2 | **Presence** +2 |
 | ------------ | ------------- | ------------ | ---------------- | --------------- |
@@ -46,4 +46,4 @@
 
 **Death Frenzy**
 
-Whenever an ally within 5 is reduced to 0 Stamina, the abyssal summoner moves up to their speed and makes a free strike.
+Whenever an ally within 5 is reduced to 0 Stamina, the abyssal summoner moves up to their speed and makes a [[Free Strike|free strike]].

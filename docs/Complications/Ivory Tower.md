@@ -12,4 +12,4 @@ You studied in an academy or other educational institution. Your training was th
 
 **Benefit:** You learn three skills and one dead language.
 
-**Drawback:** The Director chooses one of the skills you learned from this complication. You lose that skill and can't ever learn it. When you make a test to which this skill would apply, instead of gaining a +2 bonus you suffer a bane.
+**Drawback:** The Director chooses one of the skills you learned from this [[Complications|complication]]. You lose that skill and can't ever learn it. When you make a test to which this skill would apply, instead of gaining a +2 bonus you suffer a bane.

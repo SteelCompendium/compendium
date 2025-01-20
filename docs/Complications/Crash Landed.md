@@ -8,7 +8,7 @@ type: complications
 
 # Crash Landed
 
-You used to flit around the stars in your own ship, but after an ugly run-in with a pirate (or a pirate hunter), you're marooned on this backwater world. You're prepared to carve out a life here--at least until you can hitch a ride.
+You used to flit around the stars in your own ship, but after an ugly run-in with a [[Pirate|pirate]] (or a [[Pirate|pirate]] [[Hunter|hunter]]), you're marooned on this backwater world. You're prepared to carve out a life here--at least until you can hitch a [[Ride|ride]].
 
 **Benefit:** You gain the Timescape skill. Additionally, you have a power pack that you can activate or deactivate as a maneuver. When you activate the power pack, choose an energy type from cold, fire, lightning, or sonic. The damage you deal with abilities becomes that damage type until you deactivate the power pack.
 

@@ -11,11 +11,3 @@ kind: 2nd-level features
 # 2nd-level Chronokinetic Ability
 
 Choose one of the following abilities.
-
-BLUR (5 DISCIPLINE)
-
-*You release stored time, allowing you to act twice.*
-
-|
-
-**Effect:** You can use a signature or heroic ability as a free maneuver. You gain an edge on power rolls with this ability.

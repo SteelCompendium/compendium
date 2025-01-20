@@ -45,9 +45,9 @@ The reference maps for this adventure contain the starting position of each Dire
 
 ## Adventure Background
 
-The heroes are hired onto the crew of the Revelation, a passenger ship en route to Blackbottom. The ship’s captain, Oriel, claims that the route has been overrun with pirates lately, and wants the characters working security to keep her passengers safe.
+The heroes are hired onto the crew of the Revelation, a passenger ship en route to Blackbottom. The ship’s captain, Oriel, claims that the route has been overrun with [[Pirate|pirates]] lately, and wants the characters working security to keep her passengers safe.
 
-The captain isn’t being altogether truthful. The cargo hold, which is off limits to all passengers and the heroes, contains hidden crates of black powder. This is not the first time Oriel and her crew have smuggled black powder into the city, and doing so is exceedingly dangerous. House Vorona, the de facto navy of the great city of Capital across the Bale Sea, enjoys a monopoly on the explosive powder, and any vessel smuggling it risks not only the usual pirates and brigands, but the wrath of the greatest naval fleet in Orden. One armed with cannons and rifles.
+The captain isn’t being altogether truthful. The cargo hold, which is off limits to all passengers and the heroes, contains hidden crates of black powder. This is not the first time Oriel and her crew have smuggled black powder into the city, and doing so is exceedingly dangerous. House Vorona, the de facto navy of the great city of Capital across the Bale Sea, enjoys a monopoly on the explosive powder, and any vessel smuggling it risks not only the usual [[Pirate|pirates]] and brigands, but the wrath of the greatest naval fleet in Orden. One armed with cannons and rifles.
 
 Captain Oriel is walking a fine line. She cares for the safety of her passengers but needs the profits that smuggling black powder brings. Though she keeps the secret of her smuggling from the heroes for now, she’s hired them in the hopes that having the characters along to deal with any possible trouble during the voyage will let her achieve both objectives. ^67cb64
 
@@ -59,7 +59,7 @@ Captain Oriel is walking a fine line. She cares for the safety of her passengers
 
 The heroes begin aboard the Revelation, a few days out from Blackbottom. As they cross the open sea, they can get to know the passengers, solve minor problems, and potentially uncover the smuggled goods.
 
-Just before the Revelation gets to Blackbottom harbor, pirates waylay the ship and the heroes must [[Defend|defend]] the passengers and cargo. During the fight, the Revelation sustains major damage. The heroes must work to stabilize the ship when it begins to sink, even as fires threaten to ignite the black powder with disastrous results.
+Just before the Revelation gets to Blackbottom harbor, [[Pirate|pirates]] waylay the ship and the heroes must [[Defend|defend]] the passengers and cargo. During the fight, the Revelation sustains major damage. The heroes must work to stabilize the ship when it begins to sink, even as fires threaten to ignite the black powder with disastrous results.
 
 When the Revelation (or what remains of it) arrives in Blackbottom, members of the Hawklords who patrol the city question Captain Oriel and the heroes. The heroes can attempt to smooth things over for the captain in negotiations if they wish.
 
@@ -69,7 +69,7 @@ In this act, the heroes establish their reasons for taking on the job, get to kn
 
 ### RISE AND SHINE
 
-*Dawn is just about to break over the ocean. Gentle morning waves cradle and rock the Revelation, and all is quiet save for a few early-morning birds and the snoring of the off-duty crew. You are packed like sardines in the crew quarters of the ship, where sailors sleep in a disorganized mess of hammocks and bedrolls, and moving across the floor without stepping on a body part is all but impossible.* ^a82670
+*Dawn is just about to break over the ocean. Gentle morning waves cradle and rock the Revelation, and all is quiet save for a few early-morning birds and the snoring of the off-duty crew. You are packed like sardines in the crew quarters of the ship, where [[Sailor|sailors]] sleep in a disorganized mess of hammocks and bedrolls, and moving across the floor without stepping on a body part is all but impossible.* ^a82670
 
 Captain Oriel insisted that you lodge with the crew when you signed on as a bodyguard. Though you’re on contract, she’s treated you exactly as she does her full-time crew members: with respect, fairness, and the occasional razzing. ^ece443
 
@@ -151,17 +151,17 @@ The heroes might wish to investigate the cargo hold if they become aware that it
 
 To sneak past the two crew members watching the entrance to the hold and get inside, the heroes must succeed on a hard group Agility test. Each character gains an edge on their individual test if they create a distraction. Have each character make an easy test using whatever characteristic and skill best matches how they want to get past the guards.
 
-Once inside the hold, the heroes can search it. Any hero who succeeds on a medium Reason test finds a hidden panel beneath a barrel of apples. Lifting the panel reveals a secret space beneath the hold that is packed with crates of black powder.
+Once inside the hold, the heroes can search it. Any hero who succeeds on a [[Medium|medium]] Reason test finds a hidden panel beneath a barrel of apples. Lifting the panel reveals a secret space beneath the hold that is packed with crates of black powder.
 
 ### MOVING ON
 
-If the heroes find out what’s in the hold, don’t give them time to react. Start Act 2 and the pirate attack immediately.
+If the heroes find out what’s in the hold, don’t give them time to react. Start Act 2 and the [[Pirate|pirate]] attack immediately.
 
 If the heroes don’t engage with the mystery of the hold, move on to Act 2 whenever you like.
 
 ## ACT 2: TROUBLE AT SEA
 
-The Revelation is about a mile away from Blackbottom when pirates attack. The heroes have either just discovered the black powder or are in the crew quarters on a break from their duties when they get the alert.
+The Revelation is about a mile away from Blackbottom when [[Pirate|pirates]] attack. The heroes have either just discovered the black powder or are in the crew quarters on a break from their duties when they get the alert.
 
 ### ATTACK!
 
@@ -171,15 +171,15 @@ _A commotion sounds out from the deck: three dull thuds followed by shouts. Then
 
 By the time the heroes reach the deck, the threat is clear:
 
-_Another ship sails dangerously close to the Revelation, its crew gleefully loading ballistae with flaming bolts. Three such bolts already stick into the hull above the waterline, wooden planks beginning to smolder. The other ship’s black sails billow violently in the rough wind. These are pirates, and they’re here to raise hell._
+_Another ship sails dangerously close to the Revelation, its crew gleefully loading ballistae with flaming bolts. Three such bolts already stick into the hull above the waterline, wooden planks beginning to smolder. The other ship’s black sails billow violently in the rough wind. These are [[Pirate|pirates]], and they’re here to raise hell._
 
 _Two gangplanks are lowered between the ships, a ragtag group of [[Raider|raiders]] sprinting across to terrorize [[Frightened|frightened]] passengers attempting to flee the deck._
 
-Use the Pirate Attack Map for this encounter.
+Use the [[Pirate]] Attack Map for this encounter.
 
-Three groups of [[Human|human]] pirates have crossed the gangplanks by the time the characters arrive on the scene: a scoundrel captain and two guards, a brawler captain and two [[Raider|raiders]], and three archers. The pirates want the passengers’ valuables, not their lives, but they’re not above using [[Human|human]] shields or gravely wounding innocents if the heroes take them on.
+Three groups of [[Human|human]] [[Pirate|pirates]] have crossed the gangplanks by the time the characters arrive on the scene: a scoundrel captain and two guards, a brawler captain and two [[Raider|raiders]], and three archers. The [[Pirate|pirates]] want the passengers’ valuables, not their lives, but they’re not above using [[Human|human]] shields or gravely wounding innocents if the heroes take them on.
 
-Both of the heavy wooden gangplanks can be lifted and shoved off the ship’s rail with a medium Might test, letting it tumble into the sea and preventing more pirates from crossing over on it (see Villain Power below). Each gangplank also has Stamina 10 and fire weakness 5 if attacked or caught in a damaging area effect. If a gangplank is pushed away from the ship or destroyed, any creature standing on it falls into the sea, 3 squares below deck level.
+Both of the heavy wooden gangplanks can be lifted and shoved off the ship’s rail with a [[Medium|medium]] Might test, letting it tumble into the sea and preventing more [[Pirate|pirates]] from crossing over on it (see Villain Power below). Each gangplank also has Stamina 10 and fire weakness 5 if attacked or caught in a damaging area effect. If a gangplank is pushed away from the ship or destroyed, any creature standing on it falls into the sea, 3 squares below deck level.
 
 Four civilians remain on the deck at the start of the fight, each a noncombatant with Stamina 10.
 
@@ -195,7 +195,7 @@ In addition to the Villain Power granted to these villains by their stat blocks,
 
 - **Rock the Boat! (5 VP):** Ballista bolts hit the water, causing a wave to hit the boat. All creatures on the Revelation slide 3 squares in a direction of the Director’s choosing.
 
-- **Ballista Shot (7 VP):** The pirate ship fires a ballista bolt at one or more heroes.
+- **Ballista Shot (7 VP):** The [[Pirate|pirate]] ship fires a ballista bolt at one or more heroes.
 
     **Ballista Shot:**
 
@@ -208,13 +208,13 @@ In addition to the Villain Power granted to these villains by their stat blocks,
 
 #### VICTORIES
 
-Each hero gains 1 Victory for subduing the pirates, plus 1 additional Victory if at least three of the civilians on deck at the start of the fight survive.
+Each hero gains 1 Victory for subduing the [[Pirate|pirates]], plus 1 additional Victory if at least three of the civilians on deck at the start of the fight survive.
 
 ### SAVING THE SHIP
 
-Once the heroes have dealt with all the pirates who were part of the boarding party, read or paraphrase the following:
+Once the heroes have dealt with all the [[Pirate|pirates]] who were part of the boarding party, read or paraphrase the following:
 
-_The pirates can see that their attempt to plunder the Revelation has failed. The pirate captain’s call to withdraw echoes across the waves, and within moments, a last round of ballista bolts sink into the Revelation—but below the waterline this time. As the pirate ship pulls away, crew members taking stock of the damage are driven to panic._
+_The [[Pirate|pirates]] can see that their attempt to plunder the Revelation has failed. The [[Pirate|pirate]] captain’s call to withdraw echoes across the waves, and within moments, a last round of ballista bolts sink into the Revelation—but below the waterline this time. As the [[Pirate|pirate]] ship pulls away, crew members taking stock of the damage are driven to panic._
 
 _“Trouble below, Cap’n!” comes a shout. “She’s taking on water—and the fire’s spread to the cargo hold!”_
 
@@ -224,7 +224,7 @@ Tell the players that to stop the ship from exploding, they must complete a mont
 
 Use the following narration to set the scene. The list after the narration summarizes the challenges of the montage test and offers a few ideas for activities during the test—though you’re free to come up with your own!
 
-_Captain Oriel’s eyes meet yours. “We’ll talk about it later,” she says, gesturing to the bodies on the deck and the fire lapping at the mizzen. “But there’s something in the hold that’ll blow us all sky high, understand?” The ship groans under the stress that the pirates’ attack has dealt to it—telling you that you’re sinking._
+_Captain Oriel’s eyes meet yours. “We’ll talk about it later,” she says, gesturing to the bodies on the deck and the fire lapping at the mizzen. “But there’s something in the hold that’ll blow us all sky high, understand?” The ship groans under the stress that the [[Pirate|pirates]]’ attack has dealt to it—telling you that you’re sinking._
 
 If the characters didn’t discover the black powder in the hold during their previous scenes, Oriel reveals the full scope of the danger it presents.
 
@@ -255,7 +255,7 @@ _Water flooding the cargo hold stops the fire even as you get the leaks repaired
 
 ##### TOTAL FAILURE
 
-If the heroes earn a total failure, Captain Oriel realizes they can’t stop the runaway fires. She orders everyone off the ship, with many passengers injured in the attack or the evacuation. Each hero emerges from the ordeal exhausted, and loses two recoveries.
+If the heroes earn a total failure, Captain Oriel realizes they can’t stop the [[Runaway|runaway]] fires. She orders everyone off the ship, with many passengers injured in the attack or the evacuation. Each hero emerges from the ordeal exhausted, and loses two recoveries.
 
 _The Revelation’s wake is dotted with lifeboats carrying crew members and passengers to safety. Captain Oriel stands on the nearest one, calling up to you. “No cargo’s as precious as life!” she barks. “[[Jump]], before you can’t!”_
 
@@ -288,9 +288,9 @@ Even as the heroes and Captain Oriel step onto the docks alongside the ship’s 
 - **Coriad**, a [[Human|human]] trickshot atop a [[Giant Hawk|giant hawk]]
 - **Tyria**, a [[Human|human]] brawler atop a [[Giant Hawk|giant hawk]]
 
-Coriad and Tyria both caught sight of the Revelation’s misfortune while on patrol above the city, though they were unable to reach the ship during the pirate attack. After ensuring that everyone is safe, they demand an explanation.
+Coriad and Tyria both caught sight of the Revelation’s misfortune while on patrol above the city, though they were unable to reach the ship during the [[Pirate|pirate]] attack. After ensuring that everyone is safe, they demand an explanation.
 
-*Two [[Human|humans]] riding [[Giant Hawk|giant hawks]] fitted with saddles and bridles descend to the docks as you arrive. Concern is etched on their faces as they see the damaged ship. “Is everyone safe? We can help with the wounded. And what happened here?” These are Hawklords, the elite guards of Ajax the Invincible, and agents of the Overlord’s authority.*
+*Two [[Human|humans]] riding [[Giant Hawk|giant hawks]] fitted with saddles and bridles descend to the docks as you arrive. Concern is etched on their faces as they see the damaged ship. “Is everyone safe? We can help with the wounded. And what happened here?” These are Hawklords, the elite guards of Ajax the Invincible, and [[Agent|agents]] of the Overlord’s authority.*
 
 #### INITIAL QUESTIONING
 

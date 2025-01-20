@@ -32,4 +32,4 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 
 **Special:** If you are a talent and you are strained, the ability deals an additional 5 psychic damage to you and all creatures in the area.
 
-**Drawback:** When you gain the bleeding, frightened, or weakened condition, you must use Psychic Blast as a free triggered action.
+**Drawback:** When you gain the [[Bleeding|bleeding]], [[Frightened|frightened]], or [[Weakened|weakened]] condition, you must use Psychic Blast as a free triggered action.

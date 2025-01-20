@@ -5,7 +5,7 @@
 | *Animal, Goblin* |                  **EV 10** |
 | **Stamina**: 20  |              **Weakness**: |
 | **Speed**: 7     | **Size**: 1L / Stability 1 |
-|                  |         **Free Strike**: 2 |
+|                  |     **[[Free Strike]]**: 2 |
 
 | **Might** +1 | **Agility** +2 | **Reason** -1 | **Intuition** 0 | **Presence** -1 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |
@@ -13,10 +13,10 @@
 
 #### Bite (Signature)
 
-|                                         |                                |
-| :-------------------------------------- | :----------------------------- |
-| Keywords: Attack, Charge, Melee, Weapon | Type: Action                   |
-| Distance: Melee 1                       | Target: One creature or object |
+|                                             |                                |
+| :------------------------------------------ | :----------------------------- |
+| Keywords: Attack, [[Charge]], Melee, Weapon | Type: Action                   |
+| Distance: Melee 1                           | Target: One creature or object |
 
 **2d10 + 2**
 
@@ -35,7 +35,7 @@
 
 **Mounted Charger**
 
-If a warg used as a mount charges, their rider gains an edge on melee attacks until the end of their turn.
+If a warg used as a mount [[Charge|charges]], their rider gains an edge on melee attacks until the end of their turn.
 
 **Shared Crafty**
 

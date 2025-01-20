@@ -12,4 +12,4 @@ kind: 2nd-level features
 
 Your null tradition grants your choice of one of two abilities.
 
-[2ND-LEVEL CHRONOKINETIC ABILITY](./2nd-Level%20Chronokinetic%20Ability/2nd-Level%20Chronokinetic%20Ability.md)
+[2ND-LEVEL CHRONOKINETIC ABILITY](./2nd-Level%20Chronokinetic%20Ability.md)

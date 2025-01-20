@@ -4,13 +4,13 @@ title: Troubadour
 name_raw: Troubadour
 name: Troubadour
 type: classes single page
-keywords: Area, Magic
+keywords: Magic, Ranged
 keyword_list:
-  - Area
   - Magic
-ability_type: Maneuver
+  - Ranged
+ability_type: Action
 distance: Ranged 10
-target: 1 ally
+target: One dead enemy
 trigger: The target makes an ability power roll with at least one edge or bane.
 ---
 
@@ -44,43 +44,18 @@ And beyond the mundane, there are insurmountable dangers that cause many a hero 
 
 ### Troubadour Advancement
 
-| Level | Features                     | Abilities   | Class Act |
-| ----- | ---------------------------- | ----------- | --------- |
-|       |                              |             | Abilities |
-| 1st   | Troubadour Class Act,        | Signature,  | --        |
-|       | Drama, Scene Partner,        | 3, 5        |           |
-|       | Curtain Call, Class Act      |             |           |
-|       | Features, Class Act          |             |           |
-|       | Triggered Action, Kit,       |             |           |
-|       | Troubadour Abilities         |             |           |
-| 2nd   | Appeal to the Muses,         | Signature,  | 5         |
-|       | Invocation, Perk, Class Act  | 3, 5        |           |
-|       | Ability                      |             |           |
-| 3rd   | Class Act Feature, 7-        | Signature,  | 5         |
-|       | Drama Ability                | 3, 5, 7     |           |
-| 4th   | Characteristic Increase,     | Signature,  | 5         |
-|       | Melodrama, Perk,             | 3, 5, 7     |           |
-|       | Zeitgeist, Skill Increase    |             |           |
-| 5th   | Class Act Feature, 9-        | Signature,  | 5         |
-|       | Drama Ability                | 3, 5, 7, 9  |           |
-| 6th   | Perk, Spotlight, Class Act   | Signature,  | 5, 9      |
-|       | Ability                      | 3, 5, 7, 9  |           |
-| 7th   | Characteristic Increase,     | Signature,  | 5, 9      |
-|       | Auteur, Equal Billing, Skill | 3, 5, 7, 9  |           |
-|       | Increase                     |             |           |
-| 8th   | Class Act Feature, Perk,     | Signature,  | 5, 9      |
-|       | 11-Drama Ability             | 3, 5, 7, 9, |           |
-
-|      |                          | 11          |          |
-| ---- | ------------------------ | ----------- | -------- |
-| 9th  | Roar of the Crowd, Class | Signature,  | 5, 9, 11 |
-|      | Act Ability              | 3, 5, 7, 9, |          |
-|      |                          | 11          |          |
-| 10th | Characteristic Increase, | Signature,  | 5, 9, 11 |
-|      | Director Notes,          | 3, 5, 7, 9, |          |
-|      | Dramaturgy, Greatest of  | 11          |          |
-|      | All Time, Perk, Skill    |             |          |
-|      | Increase                 |             |          |
+| Level | Features                                                                                                                       | Abilities               | Class ActAbilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | ------------------ |
+| 1st   | Troubadour Class Act,Drama, Scene Partner,Curtain Call, Class ActFeatures, Class ActTriggered Action, Kit,Troubadour Abilities | Signature,3, 5          | --                 |
+| 2nd   | Appeal to the Muses,Invocation, Perk, Class ActAbility                                                                         | Signature,3, 5          | 5                  |
+| 3rd   | Class Act Feature, 7-Drama Ability                                                                                             | Signature,3, 5, 7       | 5                  |
+| 4th   | Characteristic Increase,Melodrama, Perk,Zeitgeist, Skill Increase                                                              | Signature,3, 5, 7       | 5                  |
+| 5th   | Class Act Feature, 9-Drama Ability                                                                                             | Signature,3, 5, 7, 9    | 5                  |
+| 6th   | Perk, Spotlight, Class ActAbility                                                                                              | Signature,3, 5, 7, 9    | 5, 9               |
+| 7th   | Characteristic Increase,Auteur, Equal Billing, SkillIncrease                                                                   | Signature,3, 5, 7, 9    | 5, 9               |
+| 8th   | Class Act Feature, Perk,11-Drama Ability                                                                                       | Signature,3, 5, 7, 9,   | 5, 9               |
+| 9th   | Roar of the Crowd, ClassAct Ability                                                                                            | Signature,3, 5, 7, 9,11 | 5, 9, 11           |
+| 10th  | Characteristic Increase,Director Notes,Dramaturgy, Greatest ofAll Time, Perk, SkillIncrease                                    | Signature,3, 5, 7, 9,11 | 5, 9, 11           |
 
 ## 1st-level Features
 
@@ -133,14 +108,14 @@ You enter every performance with a set of routines at the ready. Routines are au
 
 You start off with the Choreography and Revitalizing Limerick routine ability. Your choice of troubadour class act then grants you additional routines.
 
-#### Choreography
+## Choreography
 
 *Taps, kicks, steps. Now it's all "choreography."* **Keywords:** Area, Magic, Routine
 
-|                           |                    |
-| :------------------------ | :----------------- |
-| **Keywords:** Area, Magic | **Type:** Maneuver |
-| **Distance:** Ranged 10   | **Target:** 1 ally |
+|                             |                            |
+| :-------------------------- | :------------------------- |
+| **Keywords:** Magic, Ranged | **Type:** Action           |
+| **Distance:** Ranged 10     | **Target:** One dead enemy |
 
 **Effect:** While this routine is active, each target who starts their turn in the aura gains a +2 bonus to speed until the end of their turn.
 
@@ -186,9 +161,13 @@ You gain the following routine ability, usable with your Curtain Call feature.
 
 You gain the following ability.
 
-#### Dramatic Monologue
+##### Dramatic Monologue
 
-*It doesn't need to make sense. Just say it with emotionality.* **Keywords:** Magic, Ranged
+*It doesn't need to make sense. Just say it with emotionality.* **Keywords:** | Magic, Ranged
+
+| **Type:**     | Maneuver  |     |     |
+| ------------- | --------- | --- | --- |
+| **Distance:** | Ranged 10 |     |     |
 
 **Effect:** Choose one of the following effects:
 
@@ -206,11 +185,7 @@ You gain the following ability.
 
 *Your instrument rings true and your music blows everyone away.* **Keywords:** Area, Magic
 
-**Power Roll + Presence:**
-
-- *11 or lower:* **Push 1**
-- *12-16:* **Push 2**
-- *17+:* **Push 3**
+Power Roll + Presence: - *11 or lower:* **Push 1** - *12-16:* **Push 2** - *17+:* **Push 3**
 
 #### Star Power
 
@@ -218,7 +193,7 @@ You gain the following ability.
 
 #### Star Power
 
-*You're the one they came to see!*
+*You're the one they came to see!* **Keywords:** --
 
 **Effect:** You gain a +2 bonus to speed until the end of your turn. Additionally, the next power roll you make this turn can't have a result lower than tier 2.
 
@@ -232,13 +207,11 @@ You gain the following routine abilities, each of which is usable with your Curt
 
 *All for thunder motherrr!* ?*Run and hide for coverrr!*?
 
-**Power Roll + Presence:**
+**Effect:** At the end of each round while this routine is active, make a power roll that ignores cover. You can't target the same creature twice with this effect.
 
-- *11 or lower:* **Lightning damage equal to your level**
-- *12-16:* **Lightning damage equal to 5 + your level**
-- *17+:* **Lightning damage equal to 10 + your level**
+Power Roll + Presence: - *11 or lower:* **Lightning damage equal to your level** - *12-16:* **Lightning damage equal to 5 + your level** - *17+:* **Lightning damage equal to 10 + your level**
 
-### "ballad Of The Beast"
+#### "ballad Of The Beast"
 
 *Teeth are bare!* ?*Eyes black!* ?*No escaping the beast!*? **Keywords:** Area, Magic, Routine
 
@@ -256,7 +229,7 @@ Your troubadour class act grants you a triggered action as shown on the Class Ac
 | Skald     | Turnabout Is Fair Play |
 | Virtuoso  | Harmonize              |
 
-### Harmonize (3 Drama)
+##### Harmonize (3 Drama)
 
 *Give the chorus a little punch.* **Keywords:** --
 
@@ -300,10 +273,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 *And they said practicing fencing was a waste!* **Keywords:** Melee, Strike, Weapon
 
-- **Power Roll + Agility:**
-- *11 or lower:* **2 damage**
-- *12-16:* 5 **damage**
-- *17+:* 7 **damage**
+Power Roll + Agility: - *11 or lower:* **2 damage** - *12-16:* **5 damage** - *17+:* **7 damage**
 
 **Effect:** You can shift up to 3 squares.
 
@@ -313,21 +283,17 @@ Choose one signature ability from the following options. Signature abilities can
 
 *There you are, radiating your usual charisma.* **Keywords:** Magic, Ranged, Strike, Weapon
 
-**Power Roll + Presence:**
-
-- *11 or lower:* **2 + P psychic damage;** P \< weak\*\*, bleeding (save ends)\*\*
-- *12-16:* 5 + P **psychic damage;** P \< average\*\*, bleeding (save ends)\*\*
-- *17+:* 7 + P **psychic damage;** P \< strong\*\*, bleeding (save ends)\*\*
+Power Roll + Presence: - *11 or lower:* **2 + P psychic damage;** P \< weak\*\*, bleeding (save ends)\*\* - *12-16:* **5 + P psychic damage;** P \< average\*\*, bleeding (save ends)\*\* - *17+:* **7 + P psychic damage;** P \< strong\*\*, bleeding (save ends)\*\*
 
 ### Instigator
 
-*I didn't do it! What?*
+*I didn't do it! What?* **Keywords:** | Melee, Strike, Weapon
 
-**Power Roll + Presence:**
+| **Type:**     | Action  |     |     |
+| ------------- | ------- | --- | --- |
+| **Distance:** | Melee 1 |     |     |
 
-- *11 or lower:* 3 + P **damage**
-- *12-16:* 6 + P **damage**
-- *17+:* 9 + P **damage**
+Power Roll + Presence: - *11 or lower:* **3 + P damage** - *12-16:* **6 + P damage** - *17+:* **9 + P damage**
 
 **Effect:** The target is taunted by you or a willing ally adjacent to you until the end of the target's next turn.
 
@@ -335,11 +301,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 *A lyrical (and physical) jab insults an enemy and inspires an ally.* **Keywords:** Magic, Melee, Ranged, Strike
 
-**Power Roll + Presence:**
-
-- *11 or lower:* 4 + P **psychic damage**
-- *12-16:* 5 + P **psychic damage**
-- *17+:* 7 + P **psychic damage**
+Power Roll + Presence: - *11 or lower:* **4 + P psychic damage** - *12-16:* **5 + P psychic damage** - *17+:* **7 + P psychic damage**
 
 **Effect:** One ally within 10 squares can end one effect on them that is ended by a saving throw or that ends at the end of their turn.
 
@@ -357,49 +319,37 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 *Just one bad review will ruin their day.* **Keywords:** Magic, Melee, Ranged, Strike
 
-**Power Roll + Presence:**
-
-- *11 or lower:* 7 + P **sonic damage**
-- *12-16:* 10 + P **sonic damage**
-- *17+:* 13 + P **sonic damage**
+Power Roll + Presence: - *11 or lower:* **7 + P sonic damage** - *12-16:* **10 + P sonic damage** - *17+:* **13 + P sonic damage**
 
 **Effect:** The first time the target uses an ability before the start of your next turn, any tier-related effects of that ability other than damage are suppressed, negating those effects for all targets. Ability effects that always happen regardless of the power roll work as usual.
 
-### Hypnotic Overtones (3 Drama)
+## Hypnotic Overtones (3 Drama)
 
-*You produce an entrancing note that twists the senses in a spectacular fashion.* **Distance:** 2 burst
+*You produce an entrancing note that twists the senses in a spectacular fashion.* **Keywords:** Area, Magic
 
-**Power Roll + Presence:**
-
-- *11 or lower:* **Slide 1;** I \< weak\*\*, dazed (save ends)\*\*
-- *12-16:* **Slide 1;** I \< average\*\*, dazed (save ends)\*\*
-- *17+:* **Slide 2;** I \< strong\*\*, dazed (save ends)\*\*
+Power Roll + Presence: - *11 or lower:* **Slide 1;** I \< weak\*\*, dazed (save ends)\*\* - *12-16:* **Slide 1;** I \< average\*\*, dazed (save ends)\*\* - *17+:* **Slide 2;** I \< strong\*\*, dazed (save ends)\*\*
 
 **Spend 2+ Drama:** The size of the burst is increased by 1 for every 2 drama you spend.
 
-### Quick Rewrite (3 Drama)
+## Quick Rewrite (3 Drama)
 
 *You write something unforeseen into the scene that hinders your enemy.* **Keywords:** Area, Magic, Ranged
 
-**Power Roll + Presence:**
-
-- *11 or lower:* 4 **damage;** P \< weak\*\*, slowed (save ends)\*\*
-- *12-16:* 5 **damage;** P \< average\*\*, slowed (save ends)\*\*
-- *17+:* 6 **damage;** P \< strong\*\*, restrained (save ends)\*\*
+Power Roll + Presence: - *11 or lower:* **4 damage;** P \< weak\*\*, slowed (save ends)\*\* - *12-16:* **5 damage;** P \< average\*\*, slowed (save ends)\*\* - *17+:* **6 damage;** P \< strong\*\*, restrained (save ends)\*\*
 
 **Effect:** The area becomes difficult terrain for enemies.
 
 ### Upstage (3 Drama)
 
-*As you bob and weave through the crowd, you can't help but leave the audience wanting more.* **Keywords:** Melee, Strike, Weapon
+*As you bob and weave through the crowd, you can't help but leave the audience wanting more.* **Keywords:** | Melee, Strike, Weapon
+
+| **Type:**     | Maneuver        |     |     |
+| ------------- | --------------- | --- | --- |
+| **Distance:** | Self; see below |     |     |
 
 **Effect:** You shift up to your speed. You make one power roll that targets each enemy who becomes adjacent to you during the shift.
 
-**Power Roll + Agility or Presence:**
-
-- *11 or lower:* **Taunted (EoT);** A \< weak\*\*, prone\*\*
-- *12-16:* **Taunted (EoT);** A \< average\*\*, prone\*\*
-- *17+:* **Taunted (EoT);** A \< strong\*\*, prone and can't stand (EoT)\*\*
+Power Roll + Agility or Presence: - *11 or lower:* **Taunted (EoT);** A \< weak\*\*, prone\*\* - *12-16:* **Taunted (EoT);** A \< average\*\*, prone\*\* - *17+:* **Taunted (EoT);** A \< strong\*\*, prone and can't stand (EoT)\*\*
 
 #### 5-drama Ability
 
@@ -409,11 +359,7 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 
 *Give the audience a surprise.* **Keywords:** Area, Magic
 
-**Power Roll + Presence:**
-
-- *11 or lower:* **The target can shift 1 square and make a free strike.**
-- *12-16:* **The target can shift up to 2 squares and make a free strike with an edge.**
-- *17+:* **The target can shift up to 3 squares and make a free strike with and edge, then can spend a Recovery.**
+Power Roll + Presence: - *11 or lower:* **The target can shift 1 square and make a free strike.** - *12-16:* **The target can shift up to 2 squares and make a free strike with an edge.** - *17+:* **The target can shift up to 3 squares and make a free strike with and edge, then can spend a Recovery.**
 
 ### Fake Your Death (5 Drama)
 
@@ -431,11 +377,7 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 
 *They're so hurt by your performance, you sort of start to believe it yourself.* **Keywords:** Melee, Strike, Weapon
 
-**Power Roll + Agility:**
-
-- *11 or lower:* 6 + A **damage;** P \< weak\*\*, weakened (save ends)\*\*
-- *12-16:* 10 + A **damage;** P \< average\*\*, weakened (save ends)\*\*
-- *17+:* 14 + A **damage;** P \< strong\*\*, weakened (save ends)\*\*
+Power Roll + Agility: - *11 or lower:* **6 + A damage;** P \< weak\*\*, weakened (save ends)\*\* - *12-16:* **10 + A damage;** P \< average\*\*, weakened (save ends)\*\* - *17+:* **14 + A damage;** P \< strong\*\*, weakened (save ends)\*\*
 
 **Effect:** You can become bleeding (save ends) to deal an additional 5 corruption damage to the target.
 
@@ -457,7 +399,7 @@ Whenever you roll to gain 1d3 drama at the start of your turn, you can make your
 
 You have a specific manner that helps define your reputation among those who watch you fight. Choose one of the following features.
 
-### Allow Me To Introduce Tonight's Players
+#### Allow Me To Introduce Tonight's Players
 
 Whenever you take the first turn in a combat encounter, you can use your action to introduce yourself and your allies to your opponents. Each creature on your side can shift up to their speed and gains the benefit of the Defend action (see Actions) until the end of the round. However, any enemies who were surprised are no longer surprised.
 
@@ -495,11 +437,7 @@ Choose one of the following abilities.
 
 *Wait it's ... Guard! Turn! Perry! Dodge! Spin! Thrust! Hah!*
 
-**Power Roll + Agility:**
-
-- *11 or lower:* 6 + A **damage; the target can shift up to 3 squares and make a free strike against you**
-- *12-16:* 9 + A **damage; the target can shift up to 2 squares and make a free strike against you**
-- *17+:* 13 + A **damage; the target can shift 1 square**
+Power Roll + Agility: - *11 or lower:* **6 + A damage; the target can shift up to 3 squares and make a free strike against you** - *12-16:* **9 + A damage; the target can shift up to 2 squares and make a free strike against you** - *17+:* **13 + A damage; the target can shift 1 square**
 
 **Effect:** If the target shifts or makes a free strike against you as a result of this ability, you can shift up to 3 squares and make a melee free strike against the target.
 
@@ -507,602 +445,22 @@ Choose one of the following abilities.
 
 Choose one of the following abilities.
 
-##### Guest Star (5 Drama)
+## Guest Star (5 Drama)
 
-*We offered them a percentage of the gross. So they're working for free!* **Keywords:** Magic, Ranged
+*We offered them a percentage of the gross. So they're working for free!* **Keywords:** | Magic, Ranged
+
+| **Type:**     | Action    |     |     |
+| ------------- | --------- | --- | --- |
+| **Distance:** | Ranged 10 |     |     |
 
 **Effect:** Either a bystander within distance is uplifted by your magic, or a mysterious new hero appears in an unoccupied space to help out during the encounter. This guest star is controlled by you, has their own turn, shares your characteristics. Their stamina is maximum is half yours. They have no abilities other than your melee and ranged free strikes. When the target is reduced to 0 Stamina or at the end of the encounter, they retreat or revert to a bystander. An individual bystander can't be uplifted in this way more than once in an encounter.
 
-##### Twist At The End (5 Drama)
+## Twist At The End (5 Drama)
 
-*You didn't see that coming, did you?!* **Keywords:** Magic, Ranged
-
-| **Type:** Action |     |
-| ---------------- | --- |
+*You didn't see that coming, did you?!*
 
 **Effect:** As long as the target is not a leader or a solo creature, they come back to life with half their Stamina and become an ally under the Director's control. The players can discuss with the Director when the target takes their turn each round. The target turns to dust and blows away at the end of the encounter.
 
 #### 2nd-level Virtuoso Ability
 
 Choose one of the following abilities.
-
-##### Encore (5 Drama)
-
-*Again! Again!* **Keywords:** Magic, Strike
-
-**Effect:** You recreate and enact a strike you have observed this round. The strike can't be one that uses Malice. When you make the strike, you use your Presence score for any power rolls, and any damage you deal is sonic damage.
-
-### Tough Crowd (5 Drama)
-
-*Your fans don't seem to like the opening act ...* **Keywords:** Area, Magic, Ranged
-
-**Effect:** The affected area becomes haunted by a swirling horde of phantoms until the end of the encounter. Any ally can enter any square of the area without spending movement. At the end of each of your turns, you can make a power roll against each enemy in the area.
-
-**Power Roll + Presence:**
-
-- *11 or lower:* **5 corruption damage;** M \< weak\*\*, pull 1 toward the center of the area\*\*
-- *12-16:* **9 corruption damage;** M \< average\*\*, pull 2 toward the center of the area\*\*
-- *17+:* **12 corruption damage;** M \< strong\*\*, pull 3 toward the center of the area\*\*
-
-## 3rd-level Features
-
-As a 3rd-level troubadour, you gain the following features.
-
-### 3rd-level Class Act Feature
-
-Your troubadour class act grants you a feature as shown on the 3rd-Level Class Act Features table.
-
-#### 3rd-level Class Act Features
-
-| Class Act | Feature                  |
-| --------- | ------------------------ |
-| Duelist   | Foil                     |
-| Skald     | Recast a Supporting Part |
-| Virtuoso  | Second Album             |
-
-#### Foil
-
-Choose one creature within line of effect at the start of an encounter. You have a double edge on power rolls made against or in competition with that creature. The chosen creature also has a double edge on power rolls made against or in competition with you. If the creature dies, you can choose a new foil at the start of the next round.
-
-#### Recast A Supporting Part
-
-If you aren't surprised at the beginning of an encounter, you can choose one enemy within line of effect who isn't a leader or a solo creature. The director swaps that creature out with a squad of minions whose encounter value doesn't exceed the chosen creature's encounter value. The Director can determine that this feature can't be used against certain special enemies.
-
-#### Second Album
-
-You gain the following routine abilities, each of which is usable with your Curtain Call feature.
-
-### Fire Up The Night
-
-### *maybe You And I* ?*we Can Still Bring The Light!* ?
-
-**Effect:** While this routine is active, each target who starts their turn in the aura doesn't take a bane on attacks against a creature with concealment. They can also search for hidden creatures as a free maneuver once during their turn (see Hide and Sneak).
-
-### Neverending Hero
-
-*And toniiight we can truly say* ?*They will alllways find a way!*? **Keywords:** Area, Magic, Routine
-
-**Effect:** While this routine is active, each target who starts their turn dying while in the aura gains an edge on power rolls and ignores the effects of bleeding until the end of their turn.
-
-### 7-drama Ability
-
-Choose one heroic ability from the following options, each of which costs 7 drama to use.
-
-### Extensive Rewrites (7 Drama)
-
-*No, this isn't right. That foe was over there!* **Keywords:** Area, Magic, Ranged
-
-**Power Roll + Presence:**
-
-- *11 or lower:* **Slide 3;** P \< weak\*\*, this slide ignores the target's stability.\*\*
-- *12-16:* **Slide 5;** P \< average\*\*, this slide ignores the target's stability.\*\*
-- *17+:* **Slide 7;** P \< strong\*\*, this slide ignores the target's stability.\*\*
-
-**Effect:** Instead of sliding a target, you can swap their location with another target as long as each can fit into the other's space. You can't slide targets into other creatures or objects using this ability.
-
-### Infernal Gavotte (7 Drama)
-
-*A spicy performance lights a fire under your allies' feet.*
-
-**Power Roll + Presence:**
-
-- *11 or lower:* 5 **fire damage;** A \< weak\*\*, weakened (save ends)\*\*
-- *12-16:* 7 **fire damage;** A \< average\*\*, weakened (save ends)\*\*
-- *17+:* 10 **fire damage;** A \< strong\*\*, weakened (save ends)\*\*
-
-**Effect:** Each ally in the area can shift up to 2 squares.
-
-### Virtuoso's Solo (7 Drama)
-
-*Your performance travels and doesn't stop moving until your audience is completely rocked.* **Keywords:** Magic, Melee, Ranged, Strike, Weapon **Type:** Action **Distance:** Melee 1 or ranged 10 **Target:** One creature or object
-
-**Power Roll + Presence:**
-
-- *11 or lower:* 5 + P **damage**
-- *12-16:* 8 + P **damage; push 3**
-- *17+:* 11 + P **damage; push 5**
-
-**Effect:** You can choose to have this ability deal sonic damage. Additionally, you can use this ability on the same target for the next 2 rounds without spending drama.
-
-### We Meet At Last. Let's Finish This (7 Drama)
-
-*Totus mundus agit histrionem.* **Keywords:** Magic, Ranged
-
-**Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond distance, with the distance of this ability replacing those abilities' distances. Abilities that grapple or force move a target are ignored if the target isn't within the distance of the ability.
-
-Additionally, on each of your turns, you can use a free maneuver to communicate a motivating or dispiriting message to the target, either giving them two surges or a bane on the next attack they use before the start of your next turn.
-
-## 4th-level Features
-
-As a 4th-level troubadour, you gain the following features.
-
-### Characteristic Increase
-
-Both your Agility and your Presence become 3.
-
-### Melodrama
-
-You have more ways of getting the most drama out of a situation. Add two of the following events to your list of events that grant you drama during battle:
-
-- **1 Drama:** A creature rolls a natural 2.
-- **2 Drama:** The first time the Director deals damage to a hero using Malice or a Villain Action.
-- **2 Drama:** The first time a hero unwillingly falls 5 or more squares.
-- **2 Drama:** The first time a hero deals damage with three surges
-- **2 Drama:** A hero uses their last Recovery.
-- Instead of another event, increase the drama gained from an event on your list by 1.
-
-### Perk
-
-You gain any perk of your choice. See Perks for more information.
-
-### Zeitgeist
-
-You always have your ear to the ground, your finger on the pulse. You hear killer phrases everywhere and work them into the script.
-
-When you start or finish a respite, choose one of the following effects.
-
-#### Foreshadowing
-
-You can ask the Director for two clues about an upcoming encounter or negotiation. One of the clues can be false.
-
-#### Hear Ye, Hear Ye!
-
-You can spread one piece of information onto the winds via bragging, intimidating, leading, or lying. Make a Presence test:
-
-- *11 or lower:* Your message reaches no one.
-- *12-16:* Your message reaches the nearby town (or townsized civilization). You and allied heroes present for your test have an edge on all Presence tests in the affected area until one of you spends a Recovery.
-- *17+:* Your message reaches the nearby town and the next town over. You and allied heroes present for your test have an edge on all Presence tests in the affected areas until you start your next respite.
-
-#### Latest Goss
-
-You can ask the Director for three rumors about the area you're in or plan on entering before your next respite. One of the rumors can be false.
-
-### Skill Increase
-
-You gain one skill of your choice.
-
-## 5th-level Features
-
-As a 5th-level troubadour, you gain the following features.
-
-### 5th-level Class Act Features
-
-Your act is growing more uniquely your own, even among troubadours. Your class act grants your choice of one of two features.
-
-#### Duelist Features
-
-Choose one of the following features.
-
-##### Verbal Duel
-
-You can use a free maneuver on your turn to exchange words with the target of your Foil feature while they are adjacent to you. Make an opposed Presence test with the target. Whomever gets the higher result can take a free strike, dealing psychic damage in place of the normal damage.
-
-WE CAN'T BE UPSTAGED! You gain the following routine.
-
-### We Can't Be Upstaged!
-
-*Swordplay so graceful it looks like you all practiced this.*
-
-**Effect:** Whenever a target that starts their turn within the aura shifts, they can shift an additional number of squares equal to your presence score until the end of their turn.
-
-#### Virtuoso Features
-
-Choose one of the following features.
-
-##### Medley
-
-You can set two routines to be active at the same time.
-
-##### Witty Banter
-
-You can use a free maneuver on your turn to exchange words with a target (other than yourself) of your active routine. The target can spend a Recovery to gain temporary Stamina equal to 1/3rd of their maximum Stamina.
-
-#### Skald Features
-
-Choose one of the following features.
-
-##### Fix It In Post
-
-You can use a free maneuver on your turn to change one of the conditions of a creature within range of your Dramatic Monologue ability. Select one of the following conditions that the target has: bleeding, frightened, prone, slowed, or taunted. The target's condition changes to another condition on the list, maintaining the same duration and origin of condition that they had previously. If a target is no longer prone, they stand up.
-
-##### Take Two!
-
-You gain the following routine.
-
-##### Take Two!
-
-*One more, and this time make it interesting.*
-
-|
-
-**Effect:** The first time a target that starts their turn within the aura gets a tier-2 result on a power roll, they can choose to roll power again. They must use the new result.
-
-### 9-drama Abilities
-
-Choose one heroic ability from the following options.
-
-### Action Hero (9 Drama)
-
-*You wield your weapon faster than anyone can perceive, leaving everyone around you within an inch of their lives.* **Keywords:** Area, Melee, Weapon
-
-**Power Roll + Agility:**
-
-- *11 or lower:* **10 damage**
-- *12-16:* **14 damage**
-- *17+:* **20 damage**
-
-**Effect:** This ability cannot reduce non-minion targets below 1 Stamina except on a critical hit.
-
-### Continuity Error (9 Drama)
-
-*Your subject is accidentally written into two places at once.* **Keywords:** Magic, Ranged
-
-**Effect:** The target is split into two separate entities, each with half of the original target's Stamina. The second entity appears in an unoccupied space within distance. Each entity is weakened and takes 1d6 corruption damage at the start of each of their turns until one of them is reduced to 0 Stamina or all entities occupy the same space and automatically merge, ending all effects of this ability on them.
-
-### Love Song (9 Drama)
-
-*You play a small ditty that plants yourself inside your target's heart.* **Keywords:** Magic, Ranged
-
-**Effect:** The target gains 20 temporary Stamina. Until the end of the encounter, whenever the target takes damage while you're within distance, you can choose to take the damage instead of the target.
-
-### Patter Song (9 Drama)
-
-*Dazzle them with your fancy patter and they forget where they were.* **Keywords:** Magic, Ranged
-
-**Power Roll + Presence:**
-
-- *11 or lower:* **An ally within distance takes their turn immediately after yours**
-- *12-16:* **2 allies within distance take their turns immediately after yours in any order**
-- *17+:* **3 allies within distance take their turns immediately after yours in any order, one of which can be someone who already took a turn this round**
-
-## 6th-level Features
-
-As a 6th-level troubadour, you gain the following features.
-
-### Perk
-
-You gain an interpersonal, lore, or supernatural perk of your choice. See Perks for more information.
-
-### Spotlight
-
-You have access to the following routine to use with Curtain Call.
-
-### Spotlight
-
-*The audience is watching, so you better give them a show.* **Keywords:** Area, Magic
-
-| **Type:** Routine |     |
-| ----------------- | --- |
-
-**Effect:** A target who starts their turn within the aura gains 1 Heroic Resource. This Heroic Resource disappears at the end of their turn if they do not spend it.
-
-### 6th-level Class Act Ability
-
-Your class act grants your choice of one of two abilities.
-
-#### 6th-level Duelist Abilities
-
-Choose one of the following abilities.
-
-### Blood On The Stage (9 Drama)
-
-*It's love and blood or drama and blood. Either way there's always blood.* **Keywords:** Melee, Strike, Weapon
-
-**Power Roll + Agility:**
-
-- *11 or lower:* 12 + A **damage; M \< \[weak\] bleeding (save ends)**
-- *12-16:* 18 + A **damage; M \< \[average\] bleeding (save ends)**
-- *17+:* 24 + A **damage; bleeding (EoT); M \< \[strong\] bleeding (save ends)**
-
-### Fight Choreography (9 Drama)
-
-*You and your partner make a flashy show of derring-do, then back to your corners.* **Keywords:** Melee, Strike, Weapon
-
-**Effect:** You and the target uses a single melee free strike that targets all enemies within 3 of you. You choose which enemies you target with your free strike and your target targets with their free strike. You then slide the target 5 squares, ignoring their stability.
-
-#### 6th-level Virtuoso Abilities
-
-Choose one of the following abilities.
-
-### Feedback (9 Drama)
-
-*Your music pounds the crowd to the beat until their hearts can't stand it anymore.* **Keywords:** Area, Magic
-
-**Power Roll + Presence:**
-
-- *11 or lower:* 7 **sonic damage; P \< \[weak\] prone**
-- *12-16:* 10 **sonic damage; P \< \[average\] prone**
-- *17+:* 13 **sonic damage; P \< \[strong\] prone**
-
-### Legendary Drum Fill (9 Drama)
-
-*You start a drumroll that roars like thunder with every impact the heroes make.* **Keywords:** Area, Magic
-
-**Effect:** Each target gains a surge now and at the start of each round until the end of the encounter.
-
-#### 6th-level Skald Abilities
-
-Choose one of the following abilities.
-
-### A Change Of Heart (9 Drama)
-
-*The surprise reveal that changes everything they thought they knew.* **Keywords:** Area, Magic
-
-| **Type:** Action |     |
-| ---------------- | --- |
-
-**Power Roll + Presence:**
-
-- *11 or lower:* **2 psychic damage; P \< \[weak\] frightened (save ends)**
-- *12-16:* **5 psychic damage; P \< \[average\] frightened (save ends)**
-- *17+:* **7 damage; P \< \[strong\] frightened (save ends)**
-
-### You're All My Understudies (9 Drama)
-
-*It's important for everyone to know each other's lines, just in case....* **Keywords:** Magic, Ranged
-
-| **Type:** Maneuver |     |
-| ------------------ | --- |
-
-**Effect:** Until the end of the encounter, each target gains the speed, distance, disengage, and stability bonuses of your currently equipped kit on top of their own bonuses.
-
-## 7th-level Features
-
-As a 7th-level troubadour, you gain the following features.
-
-### Characteristic Increase
-
-All of your characteristics increase by 1, to a maximum score of 4.
-
-### Auteur
-
-When you gain drama at the start of your turn, you gain 1d3 + 1 drama. If you make an appeal to the muses, use the following results from now on:
-
-- If your drama roll is a 1, you gain 1 additional drama, but the Director also gains 2 Malice.
-- If your drama roll is a 2, 3, 4, or 5, you gain 1 Heroic Resource which you can keep or give to an ally within distance of your active routine. The Director also gains 1 Malice.
-- If your drama roll is a 6, you gain 4 Heroic Resources, which you can distribute amongst yourself and any allies within distance of your active routine. A recipient can only receive up to maximum of 2 Heroic Resources this way.
-
-### Equal Billing
-
-You can now use your Scene Partner feature to form a bond with a willing fellow hero in addition to NPCs. If you bond with a second hero, you lose your bond with the previous hero.
-
-You and creatures who are bonded to you gain a +1 bonus to saving throws. If you or a bonded creature succeeds on a saving throw, you both get temporary Stamina equal to your level.
-
-### Skill Increase
-
-You gain one skill of your choice.
-
-## 8th-level Features
-
-As an 8th-level troubadour, you gain the following features.
-
-### 8th-level Class Act Features
-
-You've put your mark on the artform for all class acts to follow. You gain a new feature as shown on the 8th-Level Class Act Features table.
-
-#### 8th-level Class Act Features
-
-| Class Act | Feature         |
-| --------- | --------------- |
-| Duelist   | Masterwork      |
-| Virtuoso  | Crowd Favorites |
-| Skald     | Deleted Scene   |
-
-#### Crowd Favorites
-
-You have access to two additional routines to use with Curtain Call.
-
-##### "moonlight Sonata"
-
-*Music pours out of your heart, filling the area with the utmost delicacy and without damper.* **Keywords:** Area, Magic
-
-| **Type:** Routine |     |
-| ----------------- | --- |
-
-**Effect:** Each target within the aura can choose to continue taking turns after death. A target can move and use a maneuver on each of their turns but can't spend Recoveries or use triggered actions. Each creature that was affected by this ability during the encounter turns to dust and blows away at the end of the encounter.
-
-### "radical Fantasia"
-
-? *Viras my Viras will you hold their hands as they cryyyaaaiigh?* ? **Keywords:** Area, Magic
-
-| **Type:** Routine |     |
-| ----------------- | --- |
-
-**Effect:** Each target who starts their turn within the aura ignores difficult terrain and has the forced movement effects of their abilities increased by 2 until the end of their turn. Additionally, targets can use a triggered action as a free triggered action once per round while within the aura.
-
-#### Deleted Scene
-
-You narrate quick flashbacks and conveniences into the scene to make the story flow as smoothly as possible. You can spend 1 drama to use your Dramatic Monologue feature (targeting only 1 creature) as a free triggered action whenever a creature within distance makes a power roll.
-
-#### Masterwork
-
-Select one of your signature abilities and name it after yourself. You always have this ability available even if you switch kits. You always have an edge using this ability and a free surge that you can use on this ability (but on no others).
-
-Additionally, if the last ability you use in an encounter is your named signature, you can immediately use the Hear Ye, Hear Ye! effect of your Words on the Winds feature to tell tales of your exploits after the encounter ends.
-
-### Perk
-
-You gain any one perk of your choice. See Perks for more information.
-
-### 11-drama Abilities
-
-Choose one heroic ability from the following options.
-
-#### Dramatic Reveal (11 Drama)
-
-*A little stage trickery and where once stood a foe, now stands a friend!* **Keywords:** Magic
-
-**Effect:** Until the end of the encounter, whenever you reduce a creature to 0 Stamina with an ability, you can use a free triggered action to teleport an ally within distance of the ability into the creature's space in a plume of rose petals and take a melee free strike.
-
-### Power Ballad (11 Drama)
-
-*A song for the broken hearted wraps itself around the target and blossoms into a ward of thorns.* **Keywords:** Magic, Ranged
-
-**Effect:** Until the end of the encounter and while the target is winded, whenever the target takes damage, they can use a free triggered action to deal half the damage they received to the source of the damage.
-
-### Saved In The Edit (11 Drama)
-
-*Your weapon takes on the avatar of a legendary tool that can rewrite reality to your whims.* **Keywords:** Magic
-
-**Effect:** Until the end of the encounter, whenever you deal damage to a creature or object, or enable a creature to spend a Recovery, you can use a free triggered action to give them one of the following effects until the start of your next turn. If this ability is triggered by multiple targets taking damage or multiple creatures spending recoveries at the same time, each target receives the same effect:
-
-- The target gains a damage weakness equal to your Presence score. The damage types you can choose from are magic, weapon, or psionic.
-- The target gains a damage immunity equal to your Presence score. The damage types you can choose from are area, strike, or resistance.
-- The target's stability increases and speed decreases by a number of squares equal to your Presence score.
-- The target's speed increases and stability decreases by a number of squares equal to your Presence score.
-
-### The Show Must Go On (11 Drama)
-
-*You shine a bright light on the players on the stage and compel them to finish the performance* **Keywords:** Area, Magic, Ranged
-
-**Power Roll + Presence:** o *11 or lower:* 6 **damage; P \< \[weak\] can't willingly**
-
-- **leave the area (EoT)**
-- *12-16:* 8 **damage; P \< \[average\] can't willingly leave the area (save ends)**
-- *17+:* 12 **damage; can't willingly leave the area (EoT) or P \< \[strong\] save ends**
-
-**Effect:** Each ally within distance can't roll below tier-2 on the next test they make before the start of your next turn.
-
-## 9th-level Features
-
-As a 9th-level troubadour, you gain the following features.
-
-### Roar Of The Crowd
-
-You are empowered by your audience, near and far. You can't be frightened, and you can stand up from prone as a free maneuver.
-
-Additionally, whenever you spend a Recovery, you can forgo regaining Stamina to invoke an invisible roar of an applauding audience. You and all allies within 3 gain temporary Stamina equal to 10 + your number of active bonds (see Scene Partner) + either your Victories or the number of players in your game (whichever is higher).
-
-### 9th-level Class Act Ability
-
-Your class act grants your choice of one of two abilities.
-
-#### 9th-level Duelist Abilities
-
-Choose one of the following abilities.
-
-##### Expert Fencer (11 Drama)
-
-*If you can land it, the crowd goes wild.* **Keywords:** Charge, Melee, Strike, Weapon
-
-**Power Roll + Agility:**
-
-- *11 or lower:* **15 + A damage**
-- *12-16:* **21 + A damage**
-- *17+:* **28 + A damage; M \< \[strong\] bleeding (save ends)**
-
-**Effect:** The ability cannot get higher than a tier-2 result unless the target is hit from the furthest distance. You gain three surges, which you can use immediately, on a tier-3 result on a natural 17 or higher.
-
-### Renegotiated Contract (11 Drama)
-
-*No, no. You don't die until the sequel.* **Keywords:** Melee, Strike, Weapon
-
-**Effect:** You add your current Stamina to your target's current Stamina and divide the total evenly between the two of you. Then, roll power.
-
-**Power Roll + Presence:**
-
-- *11 or lower:* **You and the target end all EoT and save ends effects affecting either of you**
-- *12-16:* **You and the target end all EoT and save ends effects affecting either of you**
-- *17+:* **You choose any of the current EoT and save ends effects affecting either of you, apply them to the target, and end the rest.**
-
-#### 9th-level Virtuoso Abilities
-
-Choose one of the following abilities.
-
-### Jam Session(11 Drama)
-
-*Your jam session breeds new genres that compel everyone to get up and move.* **Keywords:** Area, Magic
-
-**Power Roll + Presence:**
-
-- *11 or lower:* 8 **sonic damage**
-- *12-16:* 11 **sonic damage**
-- *17+:* 15 **sonic damage**
-
-**Effect:** Each creature within distance has their speed increased by 5 until the end of their next turn. Each target must use their full movement during their turn while under this effect.
-
-### Melt Their Faces (11 Drama)
-
-*The power of music rips through the reality around the target and blows them away.* **Keywords:** Magic, Melee, Ranged, Strike
-
-**Power Roll + Presence:**
-
-- *11 or lower:* 12 + P **sonic damage; push 5**
-- *12-16:* 16 + P **sonic damage; push 10**
-- *17+:* 22 + P **sonic damage; push 15**
-
-**Effect:** All forced movement from this ability ignores stability and size.
-
-#### 9th-level Skald Abilities
-
-Choose one of the following abilities.
-
-### Epic (11 Drama)
-
-*Your story tells tale of the villain's waning power and how the heroes rose to the occasion to stop them.* **Keywords:** Magic, Melee, Ranged
-
-**Power Roll + Presence:**
-
-- *11 or lower:* **Target has a bane on their ability power rolls (save ends)**
-- *12-16:* **Target has a bane a double bane on their ability power rolls (save ends)**
-- *17+:* **Target has a double bane on all power rolls (save ends)**
-
-**Effect:** While affected by this ability, one ally can take a free strike against the target after each ability they use.
-
-### Rising Tension (11 Drama)
-
-*You narrate the tension of the scene and put all hope into your subject to turn things around.* **Keywords:** Magic, Ranged
-
-**Effect:** The target gains 3 of their heroic resource, has a double edge on a power roll of their choice made during their next turn, is no longer slowed or weakened if they were before, and can immediately take their turn after yours if they have not taken their turn already.
-
-## 10th-level Features
-
-As a 10th-level troubadour, you gain the following features.
-
-### Characteristic Increase
-
-Both your Agility and your Presence become 5.
-
-### Director Notes
-
-You gain an epic resource called director notes. When you take a Respite, you gain director notes equal to the XP you gain. You can spend director notes as if they were drama on abilities you have.
-
-Additionally, you can spend 1 director note whenever you or a creature within 3 you would fail a test or get a tier-1 result, increasing the result by 1 tier.
-
-Director notes remain until you spend them.
-
-### Dramaturgy
-
-You gain 1 extra drama whenever you make an appeal to the muses. Additionally, the distance of your routines increases to line of effect, covering the whole battle map.
-
-### Greatest Of All Time
-
-Whenever you make a test without failing, all creatures within line of effect have their Impression decreased by 4 during negotiations (to a minimum of 1), and all allies within 3 have an edge on their next test. These effects last until you start your next respite or you fail a test.
-
-### Perk
-
-You gain an interpersonal, lore, or supernatural perk of your choice. See Perks for more information.
-
-### Skill Increase
-
-You gain one skill of your choice.

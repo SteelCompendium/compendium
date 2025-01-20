@@ -10,7 +10,7 @@ kind: 2nd-level features
 
 # Invocation
 
-You have a manner in which you invoke your collective reputations. Select one of the following features.
+You have a specific manner that helps define your reputation among those who watch you fight. Choose one of the following features.
 
 [ALLOW ME TO INTRODUCE TONIGHT'S PLAYERS](./Allow%20Me%20To%20Introduce%20Tonights%20Players.md)
 

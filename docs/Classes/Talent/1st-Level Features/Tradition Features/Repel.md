@@ -14,6 +14,10 @@ trigger: The target takes damage or is force moved.
 
 # Repel
 
+You gain the following ability.
+
+## Repel
+
 *They aren't going anywhere, but you might!* **Keywords:** Psionic, Ranged
 
 |                         |                              |

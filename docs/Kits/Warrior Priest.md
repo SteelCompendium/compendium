@@ -35,6 +35,8 @@ You wear heavy armor and wield a light weapon.
 | **Keywords:**         | **Type:** Action                 |
 | **Distance:** Melee 1 | **Target:** 1 creature or object |
 
-**Power Roll + Might, Reason, Intuition, or Presence:** - *11 or lower:* 3 **+ M, R, I or P holy damage** - *12-16:* 5 **+ M, R, I or P holy damage** - *17+:* 8 **+ M, R, I or P holy damage**
+**Power Roll + Might, Reason, Intuition, or Presence:**
+
+*11 or lower:* **3 + M, R, I or P holy damage** *12-16:* **5 + M, R, I or P holy damage** *17+:* **8 + M, R, I or P holy damage**
 
 **Effect:** The target has damage weakness equal to the characteristic score you used on this ability's power roll (EoT).

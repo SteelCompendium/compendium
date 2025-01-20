@@ -10,40 +10,15 @@ kind: basics
 
 # Troubadour Advancement
 
-| Level | Features                     | Abilities   | Class Act |
-| ----- | ---------------------------- | ----------- | --------- |
-|       |                              |             | Abilities |
-| 1st   | Troubadour Class Act,        | Signature,  | --        |
-|       | Drama, Scene Partner,        | 3, 5        |           |
-|       | Curtain Call, Class Act      |             |           |
-|       | Features, Class Act          |             |           |
-|       | Triggered Action, Kit,       |             |           |
-|       | Troubadour Abilities         |             |           |
-| 2nd   | Appeal to the Muses,         | Signature,  | 5         |
-|       | Invocation, Perk, Class Act  | 3, 5        |           |
-|       | Ability                      |             |           |
-| 3rd   | Class Act Feature, 7-        | Signature,  | 5         |
-|       | Drama Ability                | 3, 5, 7     |           |
-| 4th   | Characteristic Increase,     | Signature,  | 5         |
-|       | Melodrama, Perk,             | 3, 5, 7     |           |
-|       | Zeitgeist, Skill Increase    |             |           |
-| 5th   | Class Act Feature, 9-        | Signature,  | 5         |
-|       | Drama Ability                | 3, 5, 7, 9  |           |
-| 6th   | Perk, Spotlight, Class Act   | Signature,  | 5, 9      |
-|       | Ability                      | 3, 5, 7, 9  |           |
-| 7th   | Characteristic Increase,     | Signature,  | 5, 9      |
-|       | Auteur, Equal Billing, Skill | 3, 5, 7, 9  |           |
-|       | Increase                     |             |           |
-| 8th   | Class Act Feature, Perk,     | Signature,  | 5, 9      |
-|       | 11-Drama Ability             | 3, 5, 7, 9, |           |
-
-|      |                          | 11          |          |
-| ---- | ------------------------ | ----------- | -------- |
-| 9th  | Roar of the Crowd, Class | Signature,  | 5, 9, 11 |
-|      | Act Ability              | 3, 5, 7, 9, |          |
-|      |                          | 11          |          |
-| 10th | Characteristic Increase, | Signature,  | 5, 9, 11 |
-|      | Director Notes,          | 3, 5, 7, 9, |          |
-|      | Dramaturgy, Greatest of  | 11          |          |
-|      | All Time, Perk, Skill    |             |          |
-|      | Increase                 |             |          |
+| Level | Features                                                                                                                       | Abilities               | Class ActAbilities |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | ------------------ |
+| 1st   | Troubadour Class Act,Drama, Scene Partner,Curtain Call, Class ActFeatures, Class ActTriggered Action, Kit,Troubadour Abilities | Signature,3, 5          | --                 |
+| 2nd   | Appeal to the Muses,Invocation, Perk, Class ActAbility                                                                         | Signature,3, 5          | 5                  |
+| 3rd   | Class Act Feature, 7-Drama Ability                                                                                             | Signature,3, 5, 7       | 5                  |
+| 4th   | Characteristic Increase,Melodrama, Perk,Zeitgeist, Skill Increase                                                              | Signature,3, 5, 7       | 5                  |
+| 5th   | Class Act Feature, 9-Drama Ability                                                                                             | Signature,3, 5, 7, 9    | 5                  |
+| 6th   | Perk, Spotlight, Class ActAbility                                                                                              | Signature,3, 5, 7, 9    | 5, 9               |
+| 7th   | Characteristic Increase,Auteur, Equal Billing, SkillIncrease                                                                   | Signature,3, 5, 7, 9    | 5, 9               |
+| 8th   | Class Act Feature, Perk,11-Drama Ability                                                                                       | Signature,3, 5, 7, 9,   | 5, 9               |
+| 9th   | Roar of the Crowd, ClassAct Ability                                                                                            | Signature,3, 5, 7, 9,11 | 5, 9, 11           |
+| 10th  | Characteristic Increase,Director Notes,Dramaturgy, Greatest ofAll Time, Perk, SkillIncrease                                    | Signature,3, 5, 7, 9,11 | 5, 9, 11           |

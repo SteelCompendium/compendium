@@ -16,13 +16,13 @@ Some actions and maneuvers allow you to push, pull, or slide another creature a 
 
 When you force move a target, you can always move that target fewer squares than the number indicated. For example, when the conduit gets a tier 3 "push 3" result with their Call the Tunder Down ability, they can push targets any distance up to 3 squares, including choosing to not move certain targets at all.
 
-Forced movement ignores difficult terrain and never provokes opportunity attacks. When you force move a target into damaging terrain or into terrain that produces an effect, they are affected as if they had moved into it willingly.
+Forced movement ignores [[Difficult Terrain|difficult terrain]] and never provokes opportunity attacks. When you force move a target into [[Damaging Terrain|damaging terrain]] or into terrain that produces an effect, they are affected as if they had moved into it willingly.
 
 ## Vertical
 
 If a forced movement effect has the word "vertical" in front of it, then the forced movement can move a target up or down in addition to horizontally. For example, if a forced movement effect says "vertical push 5," then the creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the forced movement is a straight line.
 
-If a creature who can't fly is left in midair at the end of a vertical forced move, they fall.
+If a creature who can't [[Fly|fly]] is left in midair at the end of a vertical forced move, they fall.
 
 Though you can't push, pull, or slide a creature unless that forced movement specifies "vertical," you can move them along a physical slope, such as a hill or staircase. For a creature to be force moved along a slope, each square of the slope can be no more than 1 square higher or lower than the previous square.
 
@@ -42,7 +42,7 @@ You can force move another creature into yourself with a pull or a slide.
 
 ## Tracking Object Forced-movement Damage
 
-At the Director's discretion, mundane objects that are force moved into creatures or other objects take damage as if they were creatures. Sturdy objects can take damage as follows:
+At the Director's discretion, [[Mundane|mundane]] objects that are force moved into creatures or other objects take damage as if they were creatures. Sturdy objects can take damage as follows:
 
 - For each square a wood object occupies, it can take 3 damage before it is destroyed.
 - For each square a stone object occupies, it can take 6 damage before it is destroyed.
@@ -56,11 +56,11 @@ When you force move a creature into a stationary object that is their size or la
 
 damage plus 1 damage for each square remaining in their forced movement.
 
-If you force move a creature downward into an object that doesn't break (including the ground), they also take falling damage.
+If you force move a creature downward into an object that doesn't break (including the ground), they also take [[Falling|falling]] damage.
 
 ## Hurling Through Objects
 
-When you move a creature into a mundane object, the object can break depending on how many squares of forced movement remain:
+When you move a creature into a [[Mundane|mundane]] object, the object can break depending on how many squares of forced movement remain:
 
 - It costs 1 remaining square of forced movement to destroy 1 square of glass. The creature moved takes 1 damage.
 - It costs 3 remaining squares of forced movement to destroy 1 square of wood. The creature moved takes 3 damage.
@@ -71,7 +71,7 @@ If any forced movement remains after the object is destroyed, you can continue t
 
 ## Forced Into A Fall
 
-If you can't fly and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when your move ends, you fall.
+If you can't [[Fly|fly]] and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when your move ends, you fall.
 
 ## Stability
 

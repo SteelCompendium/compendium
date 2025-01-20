@@ -10,40 +10,18 @@ kind: basics
 
 # Conduit Advancement
 
-| Level | Features                | Abilities      | Domain    |
-| ----- | ----------------------- | -------------- | --------- |
-|       |                         |                | Abilities |
-| 1st   | Deity and Domains,      | Two signature, | --        |
-|       | Piety, Domain Feature,  | 3, 5           |           |
-|       | Healing Grace, Ray of   |                |           |
-|       | Wrath, Triggered        |                |           |
-|       | Action, Prayer,         |                |           |
-|       | Conduit Ward,           |                |           |
-|       | Conduit Abilities       |                |           |
-| 2nd   | The Lists of Heaven,    | Two signature, | 5         |
-|       | Perk, Domain Feature,   | 3, 5           |           |
-|       | Domain Ability          |                |           |
-| 3rd   | Minor Miracle, 7-Piety  | Two signature, | 5         |
-|       | Ability                 | 3, 5, 7        |           |
-| 4th   | Blessed Domains,        | Two signature, | 5         |
-|       | Characteristic          | 3, 5, 7        |           |
-|       | Increase, Domain        |                |           |
-|       | Feature, Perk, Skill    |                |           |
-|       | Increase                |                |           |
-| 5th   | Domain Feature, 9-      | Two signature, | 5         |
-|       | Piety Ability           | 3, 5, 7, 9     |           |
-| 6th   | Burgeoning Saint,       | Two signature, | 5, 9      |
-|       | Perk, Domain Ability    | 3, 5, 7, 9     |           |
-| 7th   | Characteristic          | Two signature, | 5, 9      |
-|       | Increase, Domain        | 3, 5, 7, 9     |           |
-|       | Feature, Faithful's     |                |           |
-|       | Reward, Skill Increase  |                |           |
-| ---   | ---                     | ---            | ---       |
-| 8th   | Domain Feature, Perk,   | Two signature, | 5, 9      |
-|       | 11-Piety Ability        | 3, 5, 7, 9, 11 |           |
-| 9th   | Domain Ability, Faith's | Two signature, | 5, 9, 11  |
-|       | Sword, Ordained         | 3, 5, 7, 9, 11 |           |
-| 10th  | Avatar, Characteristic  | Two signature, | 5, 9, 11  |
-|       | Increase, Divine        | 3, 5, 7, 9, 11 |           |
-|       | Power, Most Pious,      |                |           |
-|       | Perk, Skill Increase    |                |           |
+| Level | Features                                                                                                                    | Abilities                | DomainAbilities |
+| ----- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------ | --------------- |
+| 1st   | Deity and Domains,Piety, Domain Feature,Healing Grace, Ray of Wrath, TriggeredAction, Prayer,Conduit Ward,Conduit Abilities | Two signature,3, 5       | -               |
+| 2nd   | The Lists of Heaven,Perk, Domain Feature,Domain Ability                                                                     | Two signature,3, 5       | 5               |
+| 3rd   | Minor Miracle, 7-PietyAbility                                                                                               | Two signature,3, 5, 7    | 5               |
+| 4th   | Blessed Domains,CharacteristicIncrease, DomainFeature, Perk, SkillIncrease                                                  | Two signature,3, 5, 7    | 5               |
+| 5th   | Domain Feature, 9-Piety Ability                                                                                             | Two signature,3, 5, 7, 9 | 5               |
+| 6th   | Burgeoning Saint,Perk, Domain Ability                                                                                       | Two signature,3, 5, 7, 9 | 5, 9            |
+| 7th   | CharacteristicIncrease, DomainFeature, Faithful's                                                                           | Two signature,3, 5, 7, 9 | 5, 9            |
+
+|      | Reward, Skill Increase                                                          |                               |          |
+| ---- | ------------------------------------------------------------------------------- | ----------------------------- | -------- |
+| 8th  | Domain Feature, Perk, 11-Piety Ability                                          | Two signature, 3, 5, 7, 9, 11 | 5, 9     |
+| 9th  | Domain Ability, Faith's Sword, Ordained                                         | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11 |
+| 10th | Avatar, Characteristic Increase, Divine Power, Most Pious, Perk, Skill Increase | Two signature, 3, 5, 7, 9, 11 | 5, 9, 11 |

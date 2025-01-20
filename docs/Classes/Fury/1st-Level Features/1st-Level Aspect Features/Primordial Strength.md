@@ -14,23 +14,13 @@ Whenever you damage an object with a weapon strike, it takes additional damage e
 
 As your rage grows, your primordial strength intensifies, granting benefits from the Primordial Strength Growing Rage table. Benefits are cumulative except where an improved benefit replaces a lesser benefit.
 
-| Rage   | Benefit                                                |
-| ------ | ------------------------------------------------------ |
-| 2      | Add your Might to the distance you achieve on the      |
-|        | Knockback maneuver.                                    |
-| 4      | Gain one surge the first time on a turn that you push  |
-|        | a creature.                                            |
-| 6      | Gain an edge on Might tests and the Knockback          |
-|        | maneuver.                                              |
-| 8      | Gain two surges the first time on a turn that you push |
-| (Level | a creature.                                            |
-| 4)     |                                                        |
-| 10     | Gain a double edge on Might tests and the Knockback    |
-| (Level | maneuver.                                              |
-| 7)     |                                                        |
-| 12     | o Add your Might to the distance of any forced         |
-| (Level | movement power roll result.                            |
-| 10)    | o Gain 10 Temporary Stamina when you use a heroic      |
-|        | ability.                                               |
-
 ## Primordial Strength Growing Rage
+
+| Rage         | Benefit                                                                                                                              |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2            | Add your Might to the distance you achieve on the Knockback maneuver.                                                                |
+| 4            | Gain one surge the first time on a turn that you push a creature.                                                                    |
+| 6            | Gain an edge on Might tests and the Knockback maneuver.                                                                              |
+| 8(Level 4)   | Gain two surges the first time on a turn that you push a creature.                                                                   |
+| 10(Level 7)  | Gain a double edge on Might tests and the Knockback maneuver.                                                                        |
+| 12(Level 10) | o Add your Might to the distance of any forced movement power roll result.o Gain 10 Temporary Stamina when you use a heroic ability. |

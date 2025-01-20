@@ -26,6 +26,8 @@ kind: basics
 
 **Stamina Gained at 2nd and Higher Levels:** 9
 
-[Recoveries: 8](./Recoveries%208.md)
+**Recoveries:** 8
+
+**Skills:** Psionics and Read Person, plus choose any two skills from the interpersonal or lore skill groups. (*Quick Build:* Psionics, Read Person, Empathize, Timescape)
 
 [TALENT ADVANCEMENT](./Talent%20Advancement.md)

@@ -10,44 +10,16 @@ kind: basics
 
 # Talent Advancement
 
-| Level | Features                     | Abilities     | Tradition |
-| ----- | ---------------------------- | ------------- | --------- |
-|       |                              |               | Abilities |
-| 1st   | Talent Tradition, Clarity    | Two           | --        |
-|       | and Strain, Mind Spike,      | signature, 3, |           |
-|       | Telepathic Speech,           | 5             |           |
-|       | Tradition Features, Psionic  |               |           |
-|       | Augmentation, Talent         |               |           |
-|       | Ward, Talent Abilities       |               |           |
-| 2nd   | Perk, Tradition Feature,     | Two           | 5         |
-|       | Tradition Ability            | signature, 3, |           |
-|       |                              | 5             |           |
-| 3rd   | Scan, 7-Clarity Ability      | Two           | 5         |
-|       |                              | signature, 3, |           |
-|       |                              | 5, 7          |           |
-| 4th   | Characteristic Increase,     | Two           | 5         |
-|       | Mind Projection, Mind        | signature, 3, |           |
-|       | Recovery, Perk, Psionic      | 5, 7          |           |
-|       | Recovery, Suspensor Field,   |               |           |
-|       | Skill Increase               |               |           |
-| 5th   | Tradition Feature, 9-Clarity | Two           | 5         |
-|       | Ability                      | signature, 3, |           |
-|       |                              | 5, 7, 9       |           |
-| 6th   | Perk, Psi Boost, Tradition   | Two           | 5, 9      |
-
-|      | Ability                    | signature, 3, 5, 7, 9 |          |
-| ---- | -------------------------- | --------------------- | -------- |
-| 7th  | Ancestral Memory,          | Two                   | 5, 9     |
-|      | Cascading Strain,          | signature, 3,         |          |
-|      | Characteristic Increase,   | 5, 7, 9               |          |
-|      | Lucid Mind, Skill Increase |                       |          |
-| 8th  | Perk, Tradition Feature,   | Two                   | 5, 9     |
-|      | 11-Clarity Ability         | signature, 3,         |          |
-|      |                            | 5, 7, 9, 11           |          |
-| 9th  | Fortress of Perfect        | Two                   | 5, 9, 11 |
-|      | Thought, Tradition Ability | signature, 3,         |          |
-|      |                            | 5, 7, 9, 11           |          |
-| 10th | Characteristic Increase,   | Two                   | 5, 9, 11 |
-|      | Clear Mind, Omnisensory,   | signature, 3,         |          |
-|      | Perk, Psion, Vision, Skill | 5, 7, 9, 11           |          |
-|      | Increase                   |                       |          |
+| Level | Features                                                                                                                                | Abilities                 | TraditionAbilities |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------ |
+| 1st   | Talent Tradition, Clarityand Strain, Mind Spike,Telepathic Speech,Tradition Features, PsionicAugmentation, TalentWard, Talent Abilities | Twosignature, 3,5         | -                  |
+| 2nd   | Perk, Tradition Feature,Tradition Ability                                                                                               | Twosignature, 3,5         | 5                  |
+| 3rd   | Scan, 7-Clarity Ability                                                                                                                 | Twosignature, 3,5, 7      | 5                  |
+| 4th   | Characteristic Increase,Mind Projection, MindRecovery, Perk, PsionicRecovery, Suspensor Field,Skill Increase                            | Twosignature, 3,5, 7      | 5                  |
+| 5th   | Tradition Feature, 9-ClarityAbility                                                                                                     | Twosignature, 3,5, 7, 9   | 5                  |
+| 6th   | Perk, Psi Boost, Tradition                                                                                                              | Two                       | 5, 9               |
+|       | Ability                                                                                                                                 | signature, 3, 5, 7, 9     |                    |
+| 7th   | Ancestral Memory, Cascading Strain, Characteristic Increase, Lucid Mind, Skill Increase                                                 | Two                       | 5, 9               |
+| 8th   | Perk, Tradition Feature, 11-Clarity Ability                                                                                             | signature, 3, 5, 7, 9, 11 | 5, 9               |
+| 9th   | Fortress of Perfect Thought, Tradition Ability                                                                                          | Two                       | 5, 9, 11           |
+| 10th  | Characteristic Increase, Clear Mind, Omnisensory, Perk, Psion, Vision, Skill Increase                                                   | signature, 3, 5, 7, 9, 11 | 5, 9, 11           |

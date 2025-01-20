@@ -11,7 +11,7 @@ target: One willing creature
 
 # Lost Your Head
 
-A bredbeddle stole your head! Normally, being beheaded by one of these giants is fatal, but due to your latent psionic ability you're able to survive despite your decapitation.
+A [[Bredbeddle|bredbeddle]] stole your head! Normally, being beheaded by one of these giants is fatal, but due to your latent psionic ability you're able to survive despite your decapitation.
 
 **Benefit:** You gain the following ability.
 

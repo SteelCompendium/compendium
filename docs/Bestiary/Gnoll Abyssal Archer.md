@@ -5,7 +5,7 @@
 | *Fiend, Gnoll*       |                  **EV 12** |
 | **Stamina**: 20      |              **Weakness**: |
 | **Speed**: 5         | **Size**: 1M / Stability 1 |
-|                      |         **Free Strike**: 4 |
+|                      |     **[[Free Strike]]**: 4 |
 
 | **Might** 0 | **Agility** +2 | **Reason** +1 | **Intuition** 0 | **Presence** -1 |
 | ----------- | -------------- | ------------- | --------------- | --------------- |
@@ -20,9 +20,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 4 corruption damage; M1 slowed (save ends)
-- ★ 12-16: 7 corruption damage; M2 slowed (save ends)
-- ✸ 17+: 10 corruption damage; M3 slowed (save ends)
+- ✦ ≤11: 4 corruption damage; M1 [[Slowed|slowed]] (save ends)
+- ★ 12-16: 7 corruption damage; M2 [[Slowed|slowed]] (save ends)
+- ✸ 17+: 10 corruption damage; M3 [[Slowed|slowed]] (save ends)
 
 **Effect:** This attack has edge against creatures the abyssal archer has previously targeted.
 
@@ -37,7 +37,7 @@
 
 **Death Frenzy**
 
-Whenever an ally within 5 is reduced to 0 Stamina, the abyssal archer moves up to their speed and makes a free strike.
+Whenever an ally within 5 is reduced to 0 Stamina, the abyssal archer moves up to their speed and makes a [[Free Strike|free strike]].
 
 **Bloodscent**
 

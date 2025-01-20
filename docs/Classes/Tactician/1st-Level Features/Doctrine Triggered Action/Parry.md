@@ -6,27 +6,23 @@ name: Parry
 type: classes
 subtype: tactician
 kind: 1st-level features
-keywords: Melee, Weapon
-keyword_list:
-  - Melee
-  - Weapon
 ability_type: Triggered
-distance: Self or Melee 1
-target: Self or 1 ally
-trigger: A creature makes a Weapon attack against the target.
+distance: Melee 1
+target: Self or one ally
+trigger: A creature deals damage to the target.
 ---
 
 # Parry
 
-Your quick reflexes cost an enemy the precision they seek.
+*Your quick reflexes cost an enemy the precision they seek.* **Keywords:** Melee, Weapon
 
-|                               |                            |
-| :---------------------------- | :------------------------- |
-| **Keywords:** Melee, Weapon   | **Type:** Triggered        |
-| **Distance:** Self or Melee 1 | **Target:** Self or 1 ally |
+|                       |                              |
+| :-------------------- | :--------------------------- |
+| **Keywords:**         | **Type:** Triggered          |
+| **Distance:** Melee 1 | **Target:** Self or one ally |
 
-**Trigger:** A creature makes a Weapon attack against the target.
+**Trigger:** A creature deals damage to the target.
 
-**Effect:** The attack's damage is reduced `🛡🛡`.
+**Effect:** The damage is halved. If any effect of the damage has a potency effect, you decrease the potency by 1.
 
-**Spend 3 Focus:** Decrease the potency of all effects on the attack by 1.
+**Spend 1 Focus:** The target can shift a number of squares equal to your Reason score.

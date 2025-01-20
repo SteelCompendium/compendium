@@ -17,20 +17,14 @@ And beyond the mundane, there are insurmountable dangers that cause many a hero 
 
 [1ST-LEVEL FEATURES](./1st-Level%20Features/1st-Level%20Features.md)
 
+[CHOREOGRAPHY](./Choreography/Choreography.md)
+
+[HYPNOTIC OVERTONES (3 DRAMA)](./Hypnotic%20Overtones.md)
+
+[QUICK REWRITE (3 DRAMA)](./Quick%20Rewrite/Quick%20Rewrite.md)
+
 [2ND-LEVEL FEATURES](./2nd-Level%20Features/2nd-Level%20Features.md)
 
-[3RD-LEVEL FEATURES](./3rd-Level%20Features/3rd-Level%20Features.md)
+[GUEST STAR (5 DRAMA)](./Guest%20Star.md)
 
-[4TH-LEVEL FEATURES](./4th-Level%20Features/4th-Level%20Features.md)
-
-[5TH-LEVEL FEATURES](./5th-Level%20Features/5th-Level%20Features.md)
-
-[6TH-LEVEL FEATURES](./6th-Level%20Features/6th-Level%20Features.md)
-
-[7TH-LEVEL FEATURES](./7th-Level%20Features/7th-Level%20Features.md)
-
-[8TH-LEVEL FEATURES](./8th-Level%20Features/8th-Level%20Features.md)
-
-[9TH-LEVEL FEATURES](./9th-Level%20Features/9th-Level%20Features.md)
-
-[10TH-LEVEL FEATURES](./10th-Level%20Features/10th-Level%20Features.md)
+[TWIST AT THE END (5 DRAMA)](./Twist%20At%20The%20End/Twist%20At%20The%20End.md)

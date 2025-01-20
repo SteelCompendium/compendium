@@ -16,9 +16,7 @@ You wear a loyalty collar from one Ajax's War Dogs. You've managed to rig the co
 
 *You make your modified collar explode.*
 
-**Distance** 1 burst **Target** All enemies
-
-**Keywords** Magic **Type** Maneuver
+**Keywords** Magic **Type** Maneuver **Distance** 1 burst **Target** All enemies
 
 **Effect** Your loyalty collar detonates, dealing fire damage equal to 5 plus your level to each target. Once you have used this ability, you can't use it again until you spend 1 minute out of combat resetting the collar.
 

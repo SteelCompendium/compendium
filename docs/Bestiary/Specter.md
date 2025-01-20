@@ -1,11 +1,11 @@
 ### SPECTER
 
-| SPECTER               |          **Level 1 Hexer** |
-| :-------------------- | -------------------------: |
-| *Incorporeal, Undead* |                   **EV 7** |
-| **Stamina**: 12       |              **Weakness**: |
-| **Speed**: 5 (fly)    | **Size**: 1M / Stability 1 |
-|                       |         **Free Strike**: 2 |
+| SPECTER                     |          **Level 1 Hexer** |
+| :-------------------------- | -------------------------: |
+| *Incorporeal, Undead*       |                   **EV 7** |
+| **Stamina**: 12             |              **Weakness**: |
+| **Speed**: 5 ([[Fly\|fly]]) | **Size**: 1M / Stability 1 |
+|                             |     **[[Free Strike]]**: 2 |
 
 | **Might** -5 | **Agility** +1 | **Reason** 0 | **Intuition** 0 | **Presence** +2 |
 | ------------ | -------------- | ------------ | --------------- | --------------- |
@@ -20,9 +20,9 @@
 
 **2d10 + 2**
 
-- ✦ ≤11: 2 corruption damage; P1 weakened (save ends)
-- ★ 12-16: 4 corruption damage; P2 weakened (save ends)
-- ✸ 17+: 5 corruption damage; P3 weakened (save ends)
+- ✦ ≤11: 2 corruption damage; P1 [[Weakened|weakened]] (save ends)
+- ★ 12-16: 4 corruption damage; P2 [[Weakened|weakened]] (save ends)
+- ✸ 17+: 5 corruption damage; P3 [[Weakened|weakened]] (save ends)
 
 **2 Malice:** The potency of this ability increases by 1. A living creature killed by this ability becomes a specter who appears in the target's space under the Director's control.
 

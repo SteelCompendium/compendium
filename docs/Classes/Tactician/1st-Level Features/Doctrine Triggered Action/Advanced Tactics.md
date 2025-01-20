@@ -6,26 +6,21 @@ name: Advanced Tactics
 type: classes
 subtype: tactician
 kind: 1st-level features
-keywords: Ranged
-keyword_list:
-  - Ranged
-ability_type: Triggered
-distance: Ranged 10
-target: Any creature
-trigger: The target makes an attack against another creature.
+target: \| Any creature \| **Trigger:** \| The target deals damage to another creature. \| \| \|
 ---
 
 # Advanced Tactics
 
-Your leadership thwarts an enemy or aids an ally.
+*Your leadership aids an ally.* **Keywords:** | Ranged
 
-|                         |                          |
-| :---------------------- | :----------------------- |
-| **Keywords:** Ranged    | **Type:** Triggered      |
-| **Distance:** Ranged 10 | **Target:** Any creature |
+| **Type:**                            | Triggered                                                                                            |     |     |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------- | --- | --- |
+| **Distance:**                        | Ranged 10                                                                                            |     |     |
+|                                      |                                                                                                      |     |     |
+| :----------------------------------- | :--------------------------------                                                                    |     |     |
+| **Keywords:**                        | **Type:**                                                                                            |     |     |
+| **Distance:**                        | **Target:** \| Any creature \| **Trigger:** \| The target deals damage to another creature. \| \| \| |     |     |
 
-**Trigger:** The target makes an attack against another creature.
+**Effect:** The target gains two surges, which they can use on the triggering damage.
 
-**Effect:** Add or subtract `⚡` to the attack.
-
-**Spend 3 Focus:** Increase or decrease the potency of one effect from the attack.
+**Spend 1 Focus:** If any effect of the damage has a potency effect, you increase the potency by 1.

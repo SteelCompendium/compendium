@@ -25,3 +25,19 @@ target: Self and all allies
 [DIVINE QUARTERMASTER](./Divine%20Quartermaster.md)
 
 [FONT OF GRACE](./Font%20Of%20Grace.md)
+
+[GODS' LIBRARY](./Gods%20Library.md)
+
+[LIGHT OF THE BURNING SUN](./Light%20Of%20The%20Burning%20Sun.md)
+
+[NATURE'S BOUNTY](./Natures%20Bounty.md)
+
+[THUNDERSTRUCK](./Thunderstruck.md)
+
+[TRINITY OF TRICKERY](./Trinity%20Of%20Trickery/Trinity%20Of%20Trickery.md)
+
+[WORD OF DEATH DEFERRED](./Word%20Of%20Death%20Deferred.md)
+
+[WORD OF FATE DENIED](./Word%20Of%20Fate%20Denied.md)
+
+[YOUR TRIUMPHS ARE REMEMBERED](./Your%20Triumphs%20Are%20Remembered.md)

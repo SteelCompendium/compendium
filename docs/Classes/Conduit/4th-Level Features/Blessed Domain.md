@@ -10,4 +10,4 @@ kind: 4th-level features
 
 # Blessed Domain
 
-more than your normally would.
+When you gain piety due to a domain feature, you gain 1 more than your normally would.

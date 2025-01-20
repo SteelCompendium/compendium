@@ -20,6 +20,6 @@ As a 9th-level tactician, you gain the following features.
 
 [THEIR LACK OF FOCUS IS THEIR UNDOING (11 FOCUS)](./Their%20Lack%20Of%20Focus%20Is%20Their%20Undoing/Their%20Lack%20Of%20Focus%20Is%20Their%20Undoing.md)
 
-[NO ESCAPE (11 FOCUS)](./No%20Escape.md)
+[BLOT OUT THE SUN!(11 FOCUS)](<./Blot%20Out%20The%20SUN(11%20FOCUS).md>)
 
-[Effect: Mark the target.](./Effect%20Mark%20The%20Target/Effect%20Mark%20The%20Target.md)
+[COUNTERSTRATEGY (11 FOCUS)](./Counterstrategy/Counterstrategy.md)

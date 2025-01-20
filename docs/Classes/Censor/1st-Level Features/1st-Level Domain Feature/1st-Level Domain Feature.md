@@ -30,6 +30,8 @@ You gain a domain feature from one of your domains as shown on the 1st-Level Cen
 
 [HANDS OF THE MAKER](./Hands%20Of%20The%20Maker.md)
 
+[HANDS OF THE MAKER](./Hands%20Of%20The%20Maker.md)
+
 [INNER LIGHT](./Inner%20Light.md)
 
 [INSPIRED DECEPTION](./Inspired%20Deception.md)

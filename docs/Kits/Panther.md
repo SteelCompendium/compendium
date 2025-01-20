@@ -4,7 +4,8 @@ title: Panther
 name_raw: Panther
 name: Panther
 type: kits
-ability_type: Action **Distance:** Melee 1
+ability_type: Action
+distance: Melee 1
 target: 1 creature or object
 ---
 
@@ -29,15 +30,11 @@ You wear no armor and wield a heavy weapon.
 
 *The faster you move, the harder you hit.* **Keywords:** Melee, Strike, Weapon
 
-|               |                                        |
-| :------------ | :------------------------------------- |
-| **Keywords:** | **Type:** Action **Distance:** Melee 1 |
-| **Distance:** | **Target:** 1 creature or object       |
+|                       |                                  |
+| :-------------------- | :------------------------------- |
+| **Keywords:**         | **Type:** Action                 |
+| **Distance:** Melee 1 | **Target:** 1 creature or object |
 
-**Power Roll + Might or Agility:**
-
-- *11 or lower:* 3 **+ M or A damage**
-- *12-16:* 6 **+ M or A damage**
-- *17+:* 13 **+ M or A damage**
+Power Roll + Might or Agility: - *11 or lower:* **3 + M or A damage** - *12-16:* **6 + M or A damage** - *17+:* **13 + M or A damage**
 
 **Effect:** You can move up to 3 squares straight toward the target before this strike. You deal extra damage equal to the distance moved this way.

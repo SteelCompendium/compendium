@@ -1,11 +1,11 @@
 ### HIGH ELF ORDINATOR
 
-| HIGH ELF ORDINATOR        |         **Level 3 Leader** |
-| :------------------------ | -------------------------: |
-| *Fey, High Elf, Humanoid* |                  **EV 60** |
-| **Stamina**: 120          |              **Weakness**: |
-| **Speed**: 5 (fly)        | **Size**: 1M / Stability 0 |
-|                           |         **Free Strike**: 5 |
+| HIGH ELF ORDINATOR          |         **Level 3 Leader** |
+| :-------------------------- | -------------------------: |
+| *Fey, High Elf, Humanoid*   |                  **EV 60** |
+| **Stamina**: 120            |              **Weakness**: |
+| **Speed**: 5 ([[Fly\|fly]]) | **Size**: 1M / Stability 0 |
+|                             |     **[[Free Strike]]**: 5 |
 
 | **Might** 0 | **Agility** +2 | **Reason** +3 | **Intuition** +2 | **Presence** +3 |
 | ----------- | -------------- | ------------- | ---------------- | --------------- |
@@ -20,9 +20,9 @@
 
 **2d10 + 3**
 
-- ✦ ≤11: 5 lightning damage; R2 dazed (save ends)
-- ★ 12-16: 8 lightning damage; R3 dazed (save ends)
-- ✸ 17+: 12 lightning damage; R4 dazed (save ends)
+- ✦ ≤11: 5 lightning damage; R2 [[Dazed|dazed]] (save ends)
+- ★ 12-16: 8 lightning damage; R3 [[Dazed|dazed]] (save ends)
+- ✸ 17+: 12 lightning damage; R4 [[Dazed|dazed]] (save ends)
 
 **Effect:** High elves have edge on attacks and abilities against the target until the start of the ordinator's next turn.
 
@@ -86,7 +86,7 @@ Trigger: The target makes an attack against the ordinator or an ally within dist
 | Keywords: Area, Magic | Type: Villain Action 3          |
 | Distance: 10 burst    | Target: All allies in the burst |
 
-**Effect:** Each target radiates wisps of magic and makes a free strike that has the Magic keyword.
+**Effect:** Each target radiates wisps of magic and makes a [[Free Strike|free strike]] that has the Magic keyword.
 
 **Otherworldly Grace**
 

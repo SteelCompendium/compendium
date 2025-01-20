@@ -1,11 +1,11 @@
 ### HUMAN BLACKGUARD
 
-| HUMAN BLACKGUARD  |         **Level 1 Leader** |
-| :---------------- | -------------------------: |
-| *Human, Humanoid* |                  **EV 38** |
-| **Stamina**: 80   |              **Weakness**: |
-| **Speed**: 5      | **Size**: 1M / Stability 2 |
-|                   |         **Free Strike**: 4 |
+| [[Human\|HUMAN]] BLACKGUARD |         **Level 1 Leader** |
+| :-------------------------- | -------------------------: |
+| *[[Human]], Humanoid*       |                  **EV 38** |
+| **Stamina**: 80             |              **Weakness**: |
+| **Speed**: 5                | **Size**: 1M / Stability 2 |
+|                             |     **[[Free Strike]]**: 4 |
 
 | **Might** +3 | **Agility** +2 | **Reason** +2 | **Intuition** 0 | **Presence** +2 |
 | ------------ | -------------- | ------------- | --------------- | --------------- |
@@ -20,11 +20,11 @@
 
 **2d10 + 3**
 
-- ✦ ≤11: 4 damage; M2 slowed (save ends)
-- ★ 12-16: 7 damage; M3 slowed (save ends)
-- ✸ 17+: 10 damage; M4 slowed (save ends)
+- ✦ ≤11: 4 damage; M2 [[Slowed|slowed]] (save ends)
+- ★ 12-16: 7 damage; M3 [[Slowed|slowed]] (save ends)
+- ✸ 17+: 10 damage; M4 [[Slowed|slowed]] (save ends)
 
-**Effect:** An ally within 10 squares of the blackguard can make a free strike.
+**Effect:** An ally within 10 squares of the blackguard can make a [[Free Strike|free strike]].
 
 **1 Malice:** The ally can use their signature action instead.
 
@@ -73,7 +73,7 @@ Trigger: A creature targets the blackguard or an ally adjacent to the blackguard
 | Keywords: Area, Magic, Ranged, Weapon | Type: Villain Action 3         |
 | Distance: 3 cube within 5             | Target: Each enemy in the cube |
 
-**Effect:** The blackguard uses their Zweihander Swing ability against each enemy in the area. Each ally within 5 squares of the area can make a free strike against any enemy in the area.
+**Effect:** The blackguard uses their Zweihander Swing ability against each enemy in the area. Each ally within 5 squares of the area can make a [[Free Strike|free strike]] against any enemy in the area.
 
 **End Effect**
 

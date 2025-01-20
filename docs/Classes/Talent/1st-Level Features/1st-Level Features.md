@@ -30,24 +30,16 @@ As a talent, you gain the following features.
 
 [TALENT ABILITIES](./Talent%20Abilities/Talent%20Abilities.md)
 
-[KINETIC GRIP](./Kinetic%20Grip/Kinetic%20Grip.md)
+[ENTROPIC BOLT](./Entropic%20Bolt.md)
+
+[INCINERATE](./Incinerate.md)
+
+[HOARFROST](./Hoarfrost.md)
+
+[KINETIC GRIP](./Kinetic%20Grip.md)
+
+[KINETIC PULSE](./Kinetic%20Pulse.md)
 
 [MATERIALIZE](./Materialize.md)
 
-[OPTIC BLAST](./Optic%20Blast.md)
-
-[SPIRIT SWORD](./Spirit%20Sword/Spirit%20Sword.md)
-
-[AWE (3 CLARITY)](./Awe/Awe.md)
-
-[PRECOGNITION (3 CLARITY)](./Precognition.md)
-
-[SMOLDER (3 CLARITY)](./Smolder/Smolder.md)
-
-[FLASHBACK (5 CLARITY)](./Flashback.md)
-
-[INERTIA SOAK (5 CLARITY)](./Inertia%20Soak.md)
-
-[IRON (5 CLARITY)](./Iron.md)
-
-[PERFECT CLARITY (5 CLARITY)](./Perfect%20Clarity.md)
+[OPTIC BLAST](./Optic%20Blast/Optic%20Blast.md)

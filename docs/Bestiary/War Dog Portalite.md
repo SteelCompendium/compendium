@@ -1,11 +1,11 @@
 ### WAR DOG PORTALITE
 
-| WAR DOG PORTALITE       |       **Level 1 Ambusher** |
-| :---------------------- | -------------------------: |
-| *Humanoid, War Dog*     |                  **EV 11** |
-| **Stamina**: 20         |              **Weakness**: |
-| **Speed**: 5 (teleport) | **Size**: 1M / Stability 0 |
-|                         |         **Free Strike**: 3 |
+| WAR DOG PORTALITE                     |       **Level 1 Ambusher** |
+| :------------------------------------ | -------------------------: |
+| *Humanoid, War Dog*                   |                  **EV 11** |
+| **Stamina**: 20                       |              **Weakness**: |
+| **Speed**: 5 ([[Teleport\|teleport]]) | **Size**: 1M / Stability 0 |
+|                                       |     **[[Free Strike]]**: 3 |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** 0 | **Presence** 0 |
 | ----------- | -------------- | ------------ | --------------- | -------------- |
@@ -26,7 +26,7 @@
 
 **Effect:** The portalite has **edge** on the attack if an ally is adjacent to the target.
 
-**1 Malice:** The portalite teleports the target 3 squares before sliding them.
+**1 Malice:** The portalite [[Teleport|teleports]] the target 3 squares before sliding them.
 
 #### Posthumous Promotion
 
@@ -44,7 +44,7 @@
 | Keywords: Magic | Type: Maneuver |
 | Distance: Self  | Target: Self   |
 
-**Effect:** The portalite teleports up to 5 squares and has **edge** on attacks until the end of their turn.
+**Effect:** The portalite [[Teleport|teleports]] up to 5 squares and has **edge** on attacks until the end of their turn.
 
 **Loyalty Collar**
 

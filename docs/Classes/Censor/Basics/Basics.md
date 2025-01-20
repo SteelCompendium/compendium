@@ -15,11 +15,16 @@ kind: basics
 - 2, -1, -1
 - 1, 1, -1
 - 1, 0, 0
-- **Weak Potency:** Presence 2
-- **Average Potency:** Presence 1
-- **Strong Potency:** Presence
-- **Starting Stamina at 1st Level:** 21
-- **Stamina Gained at 2nd and Higher Levels:** 12
+
+**Weak Potency:** Presence - 2
+
+**Average Potency:** Presence - 1
+
+**Strong Potency:** Presence
+
+**Starting Stamina at 1st Level:** 21
+
+**Stamina Gained at 2nd and Higher Levels:** 12
 
 **Recoveries:** 12
 

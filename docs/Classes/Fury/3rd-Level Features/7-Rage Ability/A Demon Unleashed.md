@@ -7,19 +7,18 @@ cost: 7 Rage
 type: classes
 subtype: fury
 kind: 3rd-level features
+ability_type: Maneuver
 distance: Self
-target: Self \|
+target: Self
 ---
 
 # A Demon Unleashed (7 Rage)
 
 *Foes tremble at the sight of you.* **Keywords:** Magic
 
-| **Type:** Maneuver                   |                                   |
-| ------------------------------------ | --------------------------------- |
-|                                      |                                   |
-| :----------------------------------- | :-------------------------------- |
-| **Keywords:**                        | **Type:**                         |
-| **Distance:** Self                   | **Target:** Self \|               |
+|                    |                    |
+| :----------------- | :----------------- |
+| **Keywords:**      | **Type:** Maneuver |
+| **Distance:** Self | **Target:** Self   |
 
 **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P **\<** strong is frightened until the end of their turn.

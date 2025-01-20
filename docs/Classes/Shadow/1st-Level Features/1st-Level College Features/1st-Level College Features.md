@@ -24,4 +24,8 @@ Your choice of shadow college grants you one or more features as shown on the 1s
 
 [COAT THE BLADE](./Coat%20The%20Blade.md)
 
-[COAT THE BLADE](./Coat%20The%20Blade.md)
+[I'M NO THREAT](./Im%20No%20Threat.md)
+
+[I'M NO THREAT](./Im%20No%20Threat.md)
+
+[SMOKE BOMB](./Smoke%20Bomb.md)

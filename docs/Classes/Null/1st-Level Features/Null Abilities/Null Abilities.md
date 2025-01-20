@@ -12,4 +12,4 @@ kind: 1st-level features
 
 You rely on a unique blend of martial techniques and psionic prowess to take down your foes and defend your allies.
 
-[SIGNATURE ABILITIES](./Signature%20Abilities.md)
+[SIGNATURE ABILITIES](./Signature%20Abilities/Signature%20Abilities.md)

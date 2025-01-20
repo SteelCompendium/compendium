@@ -8,8 +8,8 @@ type: complications
 
 # Stone Cursed
 
-As a child, you met a creature that turns people to stone, such as a medusa. You escaped half-petrified, but others, not so lucky, are statues now, waiting for a cure.
+As a child, you met a creature that turns people to stone, such as a medusa. You escaped half-petrified, but others, not so [[Lucky|lucky]], are statues now, waiting for a cure.
 
 **Benefit:** Your stability increases by 1. Additionally, while unmoving you appear to be an ordinary statue.
 
-**Drawback:** You have sonic weakness 5. Additionally, while you are winded you are dazed.
+**Drawback:** You have sonic weakness 5. Additionally, while you are winded you are [[Dazed|dazed]].

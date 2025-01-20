@@ -21,3 +21,7 @@ Your primordial aspect grants you a feature as shown on the 3rd-Level Aspect Fea
 | Stormwight | Nature's Knight         |
 
 [IMMOVABLE OBJECT](./Immovable%20Object.md)
+
+[NATURE'S KNIGHT](./Natures%20Knight.md)
+
+[SEE THROUGH YOUR TRICKS](./See%20Through%20Your%20Tricks.md)

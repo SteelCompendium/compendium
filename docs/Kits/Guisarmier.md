@@ -4,9 +4,6 @@ title: Guisarmier
 name_raw: Guisarmier
 name: Guisarmier
 type: kits
-ability_type: Action
-distance: Melee 2
-target: 2 creatures or objects
 ---
 
 # Guisarmier
@@ -15,7 +12,7 @@ The Guisarmier kit is for those who want to use a polearm for extended reach and
 
 ## Equipment
 
-You wear medium armor and wield a polearm.
+You wear [[Medium|medium]] armor and wield a polearm.
 
 ## Kit Bonuses
 
@@ -25,18 +22,3 @@ You wear medium armor and wield a polearm.
 - **Melee Distance Bonus:** +1
 
 ## Signature Ability
-
-## Forward Thrust, Backward Smash
-
-*In your hands, the haft is as good as the head.* **Keywords:** Melee, Strike, Weapon
-
-|                       |                                    |
-| :-------------------- | :--------------------------------- |
-| **Keywords:**         | **Type:** Action                   |
-| **Distance:** Melee 2 | **Target:** 2 creatures or objects |
-
-**Power Roll + Might or Agility:**
-
-- *11 or lower:* **4 damage**
-- *12-16:* 7 **damage**
-- *17+:* 9 **damage**
