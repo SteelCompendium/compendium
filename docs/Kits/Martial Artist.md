@@ -4,6 +4,11 @@ title: Martial Artist
 name_raw: Martial Artist
 name: Martial Artist
 type: kits
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: 1 creature
@@ -28,12 +33,12 @@ You wear no armor and wield only your unarmed strikes.
 
 ## Battle Grace
 
-*You feint to move your enemies into perfect position.* **Keywords:** Melee, Strike, Weapon
+*You feint to move your enemies into perfect position.*
 
-|                       |                        |
-| :-------------------- | :--------------------- |
-| **Keywords:**         | **Type:** Action       |
-| **Distance:** Melee 1 | **Target:** 1 creature |
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action       |
+| **Distance:** Melee 1               | **Target:** 1 creature |
 
 Power Roll + Might or Agility: - *11 or lower:* **5 + M or A damage** - *12-16:* **8 + M or A damage; you swap places with the target** - *17+:* **11 + M or A damage; you swap places with the target**
 

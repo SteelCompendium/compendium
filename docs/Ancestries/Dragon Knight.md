@@ -167,7 +167,7 @@ As a maneuver, you can recite the following oath. If you do, you succeed on savi
 
 *Until the last villain dies*
 
-##### Draconian Pride (costs 2 Points)
+#### Draconian Pride (costs 2 Points)
 
 You can use the following signature ability.
 
@@ -188,7 +188,7 @@ DRAGON BREATH (COSTS 2 POINTS) You can use the following signature ability.
 
 ## Dragon Breath
 
-*You expel energy to damage your foes.* **Keywords:** Area, Magic
+*You expel energy to damage your foes.*
 
 **Power Roll + Might or Presence:**
 

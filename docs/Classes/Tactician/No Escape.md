@@ -6,6 +6,12 @@ name: No Escape
 cost: 11 Focus
 type: classes
 subtype: tactician
+keywords: Charge, Melee, Strike, Weapon
+keyword_list:
+  - Charge
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: 1 creature
@@ -13,12 +19,12 @@ target: 1 creature
 
 # No Escape (11 Focus)
 
-*Nothing will stop you from reaching your foe.* **Keywords:** Charge, Melee, Strike, Weapon
+*Nothing will stop you from reaching your foe.*
 
-|                       |                        |
-| :-------------------- | :--------------------- |
-| **Keywords:**         | **Type:** Action       |
-| **Distance:** Melee 1 | **Target:** 1 creature |
+|                                             |                        |
+| :------------------------------------------ | :--------------------- |
+| **Keywords:** Charge, Melee, Strike, Weapon | **Type:** Action       |
+| **Distance:** Melee 1                       | **Target:** 1 creature |
 
 **Effect:** Mark the target.
 

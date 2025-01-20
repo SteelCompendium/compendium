@@ -7,18 +7,25 @@ cost: 5 Essence
 type: classes
 subtype: elementalist
 kind: the breath of dawn remembered
+keywords: Area, Fire, Magic, Ranged
+keyword_list:
+  - Area
+  - Fire
+  - Magic
+  - Ranged
 ability_type: Action
-distance: 3 cube within 10 **Target:** Each enemy in the area
+distance: 3 cube within 10
+target: Each enemy in the area
 ---
 
 # Conflagration (5 Essence)
 
-*A storm of fire descends upon your enemies.* **Keywords:** Area, Fire, Magic, Ranged
+*A storm of fire descends upon your enemies.*
 
-|                                                                   |                  |
-| :---------------------------------------------------------------- | :--------------- |
-| **Keywords:**                                                     | **Type:** Action |
-| **Distance:** 3 cube within 10 **Target:** Each enemy in the area | **Target:**      |
+|                                         |                                    |
+| :-------------------------------------- | :--------------------------------- |
+| **Keywords:** Area, Fire, Magic, Ranged | **Type:** Action                   |
+| **Distance:** 3 cube within 10          | **Target:** Each enemy in the area |
 
 Power Roll + Reason: - *11 or lower:* **4 fire damage** - *12-16:* **6 fire damage** - *17+:* **10 fire damage**
 

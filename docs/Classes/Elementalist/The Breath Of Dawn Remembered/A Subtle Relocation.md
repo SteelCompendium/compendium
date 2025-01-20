@@ -6,6 +6,11 @@ name: A Subtle Relocation
 type: classes
 subtype: elementalist
 kind: the breath of dawn remembered
+keywords: Magic, Ranged, Void
+keyword_list:
+  - Magic
+  - Ranged
+  - Void
 ability_type: Triggered
 distance: Ranged 10
 target: Self or one ally
@@ -14,12 +19,12 @@ trigger: The target starts their turn, moves, or is force moved.
 
 # A Subtle Relocation
 
-*You call on the void to swallow and spit out an ally.* **Keywords:** Magic, Ranged, Void
+*You call on the void to swallow and spit out an ally.*
 
-|                         |                              |
-| :---------------------- | :--------------------------- |
-| **Keywords:**           | **Type:** Triggered          |
-| **Distance:** Ranged 10 | **Target:** Self or one ally |
+|                                   |                              |
+| :-------------------------------- | :--------------------------- |
+| **Keywords:** Magic, Ranged, Void | **Type:** Triggered          |
+| **Distance:** Ranged 10           | **Target:** Self or one ally |
 
 **Trigger:** The target starts their turn, moves, or is force moved.
 

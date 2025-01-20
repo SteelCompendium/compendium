@@ -7,6 +7,9 @@ cost: 9 Focus
 type: classes
 subtype: tactician
 kind: 6th-level features
+keywords: Ranged
+keyword_list:
+  - Ranged
 ability_type: Free Triggered Action
 distance: Ranged 10
 target: 1 ally
@@ -15,11 +18,11 @@ trigger: An ally deals damage to a creature with an ability while hidden.
 
 # Coordinated Execution (9 Focus)
 
-*You direct your ally to make a killing blow.* **Keywords:** Ranged
+*You direct your ally to make a killing blow.*
 
 |                         |                                 |
 | :---------------------- | :------------------------------ |
-| **Keywords:**           | **Type:** Free Triggered Action |
+| **Keywords:** Ranged    | **Type:** Free Triggered Action |
 | **Distance:** Ranged 10 | **Target:** 1 ally              |
 
 **Trigger:** An ally deals damage to a creature with an ability while hidden.

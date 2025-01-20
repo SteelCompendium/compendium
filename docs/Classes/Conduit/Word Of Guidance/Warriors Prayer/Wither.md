@@ -11,7 +11,8 @@ keyword_list:
   - Magic
   - Ranged
   - Strike
-ability_type: Action **Distance:** Ranged 10
+ability_type: Action
+distance: Ranged 10
 target: One creature or object
 ---
 
@@ -19,10 +20,10 @@ target: One creature or object
 
 *A bolt of holy energy saps the life from a foe.*
 
-|                                     |                                          |
-| :---------------------------------- | :--------------------------------------- |
-| **Keywords:** Magic, Ranged, Strike | **Type:** Action **Distance:** Ranged 10 |
-| **Distance:**                       | **Target:** One creature or object       |
+|                                     |                                    |
+| :---------------------------------- | :--------------------------------- |
+| **Keywords:** Magic, Ranged, Strike | **Type:** Action                   |
+| **Distance:** Ranged 10             | **Target:** One creature or object |
 
 **Power Roll + Intuition:**
 

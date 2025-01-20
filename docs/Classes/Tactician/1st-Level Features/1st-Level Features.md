@@ -28,6 +28,4 @@ As a tactician, you gain the following features.
 
 [STRIKE NOW](./Strike%20Now.md)
 
-["STRIKE NOW!"](./Strike%20Now.md)
-
 [TACTICIAN ABILITIES](./Tactician%20Abilities/Tactician%20Abilities.md)

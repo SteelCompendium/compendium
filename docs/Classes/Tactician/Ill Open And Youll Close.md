@@ -6,6 +6,12 @@ name: I'll Open And You'll Close
 cost: 11 Focus
 type: classes
 subtype: tactician
+keywords: Melee, Ranged, Strike, Weapon
+keyword_list:
+  - Melee
+  - Ranged
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1 or ranged 5
 target: 1 creature
@@ -13,12 +19,12 @@ target: 1 creature
 
 # I'll Open And You'll Close (11 Focus)
 
-*You create an opening for an ally.* **Keywords:** Melee, Ranged, Strike, Weapon
+*You create an opening for an ally.*
 
-|                                   |                        |
-| :-------------------------------- | :--------------------- |
-| **Keywords:**                     | **Type:** Action       |
-| **Distance:** Melee 1 or ranged 5 | **Target:** 1 creature |
+|                                             |                        |
+| :------------------------------------------ | :--------------------- |
+| **Keywords:** Melee, Ranged, Strike, Weapon | **Type:** Action       |
+| **Distance:** Melee 1 or ranged 5           | **Target:** 1 creature |
 
 **Power Roll + Might:**
 

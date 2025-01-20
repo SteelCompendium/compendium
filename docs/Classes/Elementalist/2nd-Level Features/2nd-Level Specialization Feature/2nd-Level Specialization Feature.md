@@ -27,4 +27,6 @@ Your elemental specialization grants you a feature as shown on the 2nd-Level Spe
 
 [DISCIPLE OF EARTH](./Disciple%20Of%20Earth.md)
 
+[THERE IS NO SPACE BETWEEN](./There%20Is%20No%20Space%20Between.md)
+
 [THERE IS NO SPACE BETWEEN](./There%20Is%20No%20Space%20Between/There%20Is%20No%20Space%20Between.md)

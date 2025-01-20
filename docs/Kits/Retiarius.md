@@ -4,7 +4,13 @@ title: Retiarius
 name_raw: Retiarius
 name: Retiarius
 type: kits
-ability_type: Action **Distance:** Melee 2
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
+ability_type: Action
+distance: Melee 2
 target: 1 creature
 ---
 
@@ -28,11 +34,11 @@ You wear light armor, and wield a polearm and several ensnaring weapons.
 
 ## Net And Stab
 
-*The well-thrown net that follows your main attack leaves your foes right where you want them.* **Keywords:** Melee, Strike, Weapon
+*The well-thrown net that follows your main attack leaves your foes right where you want them.*
 
-|               |                                        |
-| :------------ | :------------------------------------- |
-| **Keywords:** | **Type:** Action **Distance:** Melee 2 |
-| **Distance:** | **Target:** 1 creature                 |
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action       |
+| **Distance:** Melee 2               | **Target:** 1 creature |
 
 Power Roll + Might or Agility: - *11 or lower:* **4 + M or A damage; A \< \[weak\] [[Slowed|slowed]] (EoT)** - *12-16:* **6 + M or A damage; A \< \[average\] [[Slowed|slowed]] (EoT)** - *17+:* **8 + M or A damage; A \< \[strong\] [[Restrained|restrained]] (EoT)**

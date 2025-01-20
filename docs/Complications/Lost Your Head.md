@@ -4,6 +4,10 @@ title: Lost Your Head
 name_raw: Lost Your Head
 name: Lost Your Head
 type: complications
+keywords: Psionic, Ranged
+keyword_list:
+  - Psionic
+  - Ranged
 ability_type: Maneuver
 distance: Ranged 10
 target: One willing creature
@@ -17,12 +21,12 @@ A [[Bredbeddle|bredbeddle]] stole your head! Normally, being beheaded by one of 
 
 ## Share Head
 
-*You don't have a head but can psionically borrow another.* **Keywords:** Psionic, Ranged
+*You don't have a head but can psionically borrow another.*
 
-|                         |                                  |
-| :---------------------- | :------------------------------- |
-| **Keywords:**           | **Type:** Maneuver               |
-| **Distance:** Ranged 10 | **Target:** One willing creature |
+|                               |                                  |
+| :---------------------------- | :------------------------------- |
+| **Keywords:** Psionic, Ranged | **Type:** Maneuver               |
+| **Distance:** Ranged 10       | **Target:** One willing creature |
 
 You can see, hear, and smell as if you were in the creature's space. Additionally, you can borrow their mouth to speak when you wish to do so. You speak in a different voice than theirs. This effect ends when you use Share Sense on a different target, when the creature moves more than 10 away from you, or when the creature is no longer willing to share their head with you.
 

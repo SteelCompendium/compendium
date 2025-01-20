@@ -6,6 +6,12 @@ name: Chronal Spike
 cost: 3 Discipline
 type: classes
 subtype: 'null'
+keywords: Melee, Psionic, Strike, Weapon
+keyword_list:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: One creature or object
@@ -13,12 +19,12 @@ target: One creature or object
 
 # Chronal Spike (3 Discipline)
 
-*You foresee the best moment to strike, then exploit it.* **Keywords:** Melee, Psionic, Strike, Weapon
+*You foresee the best moment to strike, then exploit it.*
 
-|                       |                                    |
-| :-------------------- | :--------------------------------- |
-| **Keywords:**         | **Type:** Action                   |
-| **Distance:** Melee 1 | **Target:** One creature or object |
+|                                              |                                    |
+| :------------------------------------------- | :--------------------------------- |
+| **Keywords:** Melee, Psionic, Strike, Weapon | **Type:** Action                   |
+| **Distance:** Melee 1                        | **Target:** One creature or object |
 
 Power Roll + Agility: - *11 or lower:* **7 + A damage** - *12-16:* **10 + A damage** - *17+:* **13 + A damage**
 

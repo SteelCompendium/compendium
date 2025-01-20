@@ -7,6 +7,12 @@ cost: 7 Essence
 type: classes
 subtype: elementalist
 kind: 3rd-level features
+keywords: Area, Earth, Magic, Ranged
+keyword_list:
+  - Area
+  - Earth
+  - Magic
+  - Ranged
 ability_type: Action
 distance: 3 cube within 10
 target: One creature or object
@@ -14,12 +20,12 @@ target: One creature or object
 
 # Maw Of Earth (7 Essence)
 
-*You open up the ground, unleashing a shower of stone and debris.* **Keywords:** Area, Earth, Magic, Ranged
+*You open up the ground, unleashing a shower of stone and debris.*
 
-|                                |                                    |
-| :----------------------------- | :--------------------------------- |
-| **Keywords:**                  | **Type:** Action                   |
-| **Distance:** 3 cube within 10 | **Target:** One creature or object |
+|                                          |                                    |
+| :--------------------------------------- | :--------------------------------- |
+| **Keywords:** Area, Earth, Magic, Ranged | **Type:** Action                   |
+| **Distance:** 3 cube within 10           | **Target:** One creature or object |
 
 Power Roll + Reason: - *11 or lower*\*\*: 5 damage\*\* - *12-16:* **9 damage** - *17+:* **12 damage**
 

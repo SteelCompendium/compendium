@@ -6,6 +6,10 @@ name: Word Of Judgment
 type: classes
 subtype: conduit
 kind: word of guidance
+keywords: Magic, Ranged
+keyword_list:
+  - Magic
+  - Ranged
 ability_type: Triggered
 distance: Ranged 10
 target: One ally
@@ -14,12 +18,12 @@ trigger: The target takes damage from an ability that requires a power roll.
 
 # Word Of Judgment
 
-*Your holy word saps an attacking enemy's strength.* **Keywords:** Magic, Ranged
+*Your holy word saps an attacking enemy's strength.*
 
-|                         |                      |
-| :---------------------- | :------------------- |
-| **Keywords:**           | **Type:** Triggered  |
-| **Distance:** Ranged 10 | **Target:** One ally |
+|                             |                      |
+| :-------------------------- | :------------------- |
+| **Keywords:** Magic, Ranged | **Type:** Triggered  |
+| **Distance:** Ranged 10     | **Target:** One ally |
 
 **Trigger:** The target takes damage from an ability that requires a power roll.
 

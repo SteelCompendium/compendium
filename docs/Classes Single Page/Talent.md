@@ -4,16 +4,15 @@ title: Talent
 name_raw: Talent
 name: Talent
 type: classes single page
-keywords: Area, Fire, Ranged, Psionic, Pyrokinesis **Type:** Action **Distance:** 3 cube within 10 **Target:** Each enemy in the area
+keywords: Psionic, Ranged, Strike, Telepathy
 keyword_list:
-  - Area
-  - Fire
-  - Ranged
   - Psionic
-  - Pyrokinesis **Type:** Action **Distance:** 3 cube within 10 **Target:** Each enemy in the area
+  - Ranged
+  - Strike
+  - Telepathy
 ability_type: Action
-distance: Melee 2
-target: One ally or enemy **Type:** Action
+distance: Ranged 10
+target: One ally or enemy
 trigger: The target takes damage or is force moved.
 ---
 
@@ -110,10 +109,10 @@ You gain the following ability, which can be used as a ranged free strike.
 
 *A telepathic bolt instantly zaps a creature's brain.*
 
-|                                                                                                                                           |                                                |
-| :---------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------- |
-| **Keywords:** Area, Fire, Ranged, Psionic, Pyrokinesis **Type:** Action **Distance:** 3 cube within 10 **Target:** Each enemy in the area | **Type:** Action                               |
-| **Distance:** Melee 2                                                                                                                     | **Target:** One ally or enemy **Type:** Action |
+|                                                  |                               |
+| :----------------------------------------------- | :---------------------------- |
+| **Keywords:** Psionic, Ranged, Strike, Telepathy | **Type:** Action              |
+| **Distance:** Ranged 10                          | **Target:** One ally or enemy |
 
 Power Roll + Reason: - *11 or lower:* **2 + R psychic damage** - *12-16:* **4 + R psychic damage** - *17+:* **6 + R psychic damage**
 
@@ -155,7 +154,7 @@ You gain the following ability.
 
 #### Again
 
-*You step back a split second to see if things play out a little differently.* **Keywords:** Psionic, Ranged
+*You step back a split second to see if things play out a little differently.*
 
 **Trigger:** The target makes an ability power roll.
 
@@ -167,11 +166,12 @@ You gain the following ability.
 
 #### Feedback Loop
 
-*Creating a brief psychic link between a foe and their target gives that foe a taste of their own medicine.* **Keywords:** | Psionic, Ranged
+*Creating a brief psychic link between a foe and their target gives that foe a taste of their own medicine.*
 
-| **Type:**     | Triggered |     |     |
-| ------------- | --------- | --- | --- |
-| **Distance:** | Ranged 10 |     |     |
+| **Type:** | Triggered |     |     |
+| --------- | --------- | --- | --- |
+
+**Trigger:** | The target deals damage to an ally. | | |
 
 **Effect:** The target takes psychic damage equal to half the triggering damage.
 
@@ -181,7 +181,7 @@ You gain the following ability.
 
 #### Minor Telekinesis
 
-*Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.* **Keywords:** Psionic, Ranged
+*Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*
 
 **Effect:** You slide the target up to a number of squares equal to your Reason score.
 
@@ -195,7 +195,7 @@ You gain the following ability.
 
 #### Remote Assistance
 
-*An ally gains the benefit of your intellect.* **Keywords:** Psionic, Ranged
+*An ally gains the benefit of your intellect.*
 
 **Effect:** The next ability power roll an ally makes against the target before the start of your next turn gains an edge.
 
@@ -205,9 +205,9 @@ You gain the following ability.
 
 You gain the following ability.
 
-##### Repel
+#### Repel
 
-*They aren't going anywhere, but you might!* **Keywords:** Psionic, Ranged
+*They aren't going anywhere, but you might!*
 
 **Trigger:** The target takes damage or is force moved.
 
@@ -269,7 +269,10 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### Entropic Bolt
 
-*You advance an enemy's age for a moment.* **Keywords:** Chronopathy, Psionic, Ranged, Strike **Type:** | Action | | --- | --- | **Distance:** | Ranged 10 | **Target:** | One creature or object |
+*You advance an enemy's age for a moment.*
+
+| **Type:** | Action |
+| --------- | ------ |
 
 Power Roll + Presence: - *11 or lower:* **2 + P corruption damage;** P \< weak\*\*, slowed (save ends)\*\* - *12-16:* **3 + P corruption damage;** P \< average\*\*, slowed (save ends)\*\* - *17+:* **5 + P corruption damage;** P \< strong\*\*, slowed (save ends)\*\*
 
@@ -289,7 +292,7 @@ Power Roll + Reason: - *11 or lower:* **2 fire damage** - *12-16:* **4 fire dama
 
 ### Hoarfrost
 
-*A row of the terrain freezes over ahead of you, turning hard and slick.* **Keywords:** Cryokinesis, Psionic, Ranged, Strike **Type:** Action
+*A row of the terrain freezes over ahead of you, turning hard and slick.*
 
 Power Roll + Reason: - *11 or lower:* **2 + R cold damage;** M \< weak\*\*, slowed (EoT)\*\* - *12-16:* **4 + R cold damage;** M \< average\*\*, slowed (EoT)\*\* - *17+:* **6 + R cold damage;** M \< strong\*\*, slowed (EoT)\*\*
 
@@ -297,7 +300,7 @@ Power Roll + Reason: - *11 or lower:* **2 + R cold damage;** M \< weak\*\*, slow
 
 ### Kinetic Grip
 
-*You lift and hurl your foe away from you.* **Keywords:** Melee, Psionic, Telekinesis
+*You lift and hurl your foe away from you.*
 
 Power Roll + Reason: - *11 or lower:* **Push 3** - *12-16:* **Push 5** - *17+:* **Push 7; prone**
 
@@ -307,7 +310,7 @@ Power Roll + Reason: - *11 or lower:* **Push 3** - *12-16:* **Push 5** - *17+:* 
 
 ### Kinetic Pulse
 
-*The force of your mind hurls enemies backward.* **Keywords:** Area, Psionic, Telepathy
+*The force of your mind hurls enemies backward.*
 
 Power Roll + Reason: - *11 or lower:* **2 psychic damage** - *12-16:* **5 psychic damage; push 1** - *17+:* **7 psychic damage; push 2**
 
@@ -315,7 +318,7 @@ Power Roll + Reason: - *11 or lower:* **2 psychic damage** - *12-16:* **5 psychi
 
 ### Materialize
 
-*You picture an object in your mind and give it form in the world, directly above your opponent's head.* **Keywords:** Psionic, Ranged, Resopathy, Strike **Type:** Action
+*You picture an object in your mind and give it form in the world, directly above your opponent's head.*
 
 Power Roll + Reason: - *11 or lower:* **3 + R damage** - *12-16:* **5 + R damage** - *17+:* **8 + R damage**
 
@@ -325,7 +328,7 @@ Power Roll + Reason: - *11 or lower:* **3 + R damage** - *12-16:* **5 + R damage
 
 ### Optic Blast
 
-*Your eyes emit rays of powerful enervating force.* **Keywords:** Metamorphosis, Psionic, Ranged, Strike **Type:** Action
+*Your eyes emit rays of powerful enervating force.*
 
 Power Roll + Reason: - *11 or lower:* **2 + R damage;** M \< weak\*\*, prone\*\* - *12-16:* **4 + R damage;** M \< average\*\*, prone\*\* - *17+:* **6 + R damage;** M \< strong\*\*, prone\*\*
 
@@ -335,7 +338,7 @@ Power Roll + Reason: - *11 or lower:* **2 + R damage;** M \< weak\*\*, prone\*\*
 
 #### Spirit Sword
 
-*You form a blade of mind energy and stab your target, invigorating yourself.* **Keywords:** Animapathy, Melee, Psionic, Strike **Type:** Action
+*You form a blade of mind energy and stab your target, invigorating yourself.*
 
 Power Roll + Presence: - *11 or lower:* **3 + P damage** - *12-16:* **6 + P damage** - *17+:* **9 + P damage**
 
@@ -351,9 +354,9 @@ You know a range of heroic abilities all fueled by your clarity.
 
 Choose one heroic ability from the following options, each of which costs 3 clarity to use. (*Quick Build:* Nothing Exceeds My Grasp)
 
-##### Awe (3 Clarity)
+### Awe (3 Clarity)
 
-*You project psionic energy out to a creature and take on a new visage in their mind.* **Keywords:** Psionic, Ranged, Strike, Telepathy **Distance:** Ranged 10
+*You project psionic energy out to a creature and take on a new visage in their mind.*
 
 **Effect:** Any ally targeted by this ability gains temporary Stamina equal to twice your Presence score, and can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
 

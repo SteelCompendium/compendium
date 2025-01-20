@@ -6,6 +6,9 @@ name: Overwatch
 type: classes
 subtype: tactician
 kind: 1st-level features
+keywords: Ranged
+keyword_list:
+  - Ranged
 ability_type: Triggered
 distance: Ranged 10
 target: One enemy
@@ -14,11 +17,11 @@ trigger: The target moves.
 
 # Overwatch
 
-*Under your direction, an ally waits for just the right moment to strike.* **Keywords:** Ranged
+*Under your direction, an ally waits for just the right moment to strike.*
 
 |                         |                       |
 | :---------------------- | :-------------------- |
-| **Keywords:**           | **Type:** Triggered   |
+| **Keywords:** Ranged    | **Type:** Triggered   |
 | **Distance:** Ranged 10 | **Target:** One enemy |
 
 **Trigger:** The target moves.

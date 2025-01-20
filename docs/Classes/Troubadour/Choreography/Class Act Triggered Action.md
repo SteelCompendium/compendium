@@ -6,6 +6,9 @@ name: Class Act Triggered Action
 type: classes
 subtype: troubadour
 kind: choreography
+keywords: --
+keyword_list:
+  - --
 ability_type: Triggered
 distance: Ranged 5
 target: One ally
@@ -26,11 +29,11 @@ Your troubadour class act grants you a triggered action as shown on the Class Ac
 
 ### Harmonize (3 Drama)
 
-*Give the chorus a little punch.* **Keywords:** --
+*Give the chorus a little punch.*
 
 |                        |                      |
 | :--------------------- | :------------------- |
-| **Keywords:**          | **Type:** Triggered  |
+| **Keywords:** --       | **Type:** Triggered  |
 | **Distance:** Ranged 5 | **Target:** One ally |
 
 **Trigger:** The target uses a non-area ability that targets one enemy.

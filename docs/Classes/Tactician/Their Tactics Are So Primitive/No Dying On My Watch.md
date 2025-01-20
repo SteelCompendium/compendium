@@ -7,6 +7,11 @@ cost: 5 Focus
 type: classes
 subtype: tactician
 kind: their tactics are so primitive
+keywords: Ranged, Strike, Weapon
+keyword_list:
+  - Ranged
+  - Strike
+  - Weapon
 ability_type: Triggered
 distance: Ranged 5
 target: One enemy
@@ -15,12 +20,12 @@ trigger: The target deals damage to an ally.
 
 # No Dying On My Watch (5 Focus)
 
-*You prioritize saving an ally over your own safety.* **Keywords:** Ranged, Strike, Weapon
+*You prioritize saving an ally over your own safety.*
 
-|                        |                       |
-| :--------------------- | :-------------------- |
-| **Keywords:**          | **Type:** Triggered   |
-| **Distance:** Ranged 5 | **Target:** One enemy |
+|                                      |                       |
+| :----------------------------------- | :-------------------- |
+| **Keywords:** Ranged, Strike, Weapon | **Type:** Triggered   |
+| **Distance:** Ranged 5               | **Target:** One enemy |
 
 **Trigger:** The target deals damage to an ally.
 

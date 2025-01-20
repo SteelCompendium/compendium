@@ -7,6 +7,11 @@ cost: 7 Rage
 type: classes
 subtype: fury
 kind: 3rd-level features
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: One creature
@@ -14,11 +19,11 @@ target: One creature
 
 # You Are Already Dead (7 Rage)
 
-*Slash. Walk away.* **Keywords:** Melee, Strike, Weapon
+*Slash. Walk away.*
 
-|                       |                          |
-| :-------------------- | :----------------------- |
-| **Keywords:**         | **Type:** Action         |
-| **Distance:** Melee 1 | **Target:** One creature |
+|                                     |                          |
+| :---------------------------------- | :----------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action         |
+| **Distance:** Melee 1               | **Target:** One creature |
 
 **Effect:** If the target is not a leader or solo creature, they die at the end of their next turn. If the target is a leader or solo creature, you gain three surges and can make a melee free strike against them.

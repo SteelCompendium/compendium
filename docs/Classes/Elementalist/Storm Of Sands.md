@@ -6,6 +6,12 @@ name: Storm Of Sands
 cost: 9 Essence
 type: classes
 subtype: elementalist
+keywords: Area, Earth, Magic, Ranged
+keyword_list:
+  - Area
+  - Earth
+  - Magic
+  - Ranged
 ability_type: Action
 distance: 4 Cube within 10
 target: All enemies
@@ -13,12 +19,12 @@ target: All enemies
 
 # Storm Of Sands (9 Essence)
 
-*Dirt and debris start to swirl into a dark, pulsing hurricane.* **Keywords:** Area, Earth, Magic, Ranged
+*Dirt and debris start to swirl into a dark, pulsing hurricane.*
 
-|                                |                         |
-| :----------------------------- | :---------------------- |
-| **Keywords:**                  | **Type:** Action        |
-| **Distance:** 4 Cube within 10 | **Target:** All enemies |
+|                                          |                         |
+| :--------------------------------------- | :---------------------- |
+| **Keywords:** Area, Earth, Magic, Ranged | **Type:** Action        |
+| **Distance:** 4 Cube within 10           | **Target:** All enemies |
 
 Power Roll + Reason: - *11 or lower*\*\*: 2 damage\*\* - *12-16:* **5 damage** - *17+:* **7 damage**
 

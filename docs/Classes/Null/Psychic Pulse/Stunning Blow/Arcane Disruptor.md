@@ -7,6 +7,12 @@ cost: 5 Discipline
 type: classes
 subtype: 'null'
 kind: psychic pulse
+keywords: Melee, Psionic, Strike, Weapon
+keyword_list:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: One creature
@@ -14,12 +20,12 @@ target: One creature
 
 # Arcane Disruptor (5 Discipline)
 
-*Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.* **Keywords:** Melee, Psionic, Strike, Weapon
+*Your blow reorders a foe's body, causing pain if they attempt to channel sorcery.*
 
-|                       |                          |
-| :-------------------- | :----------------------- |
-| **Keywords:**         | **Type:** Action         |
-| **Distance:** Melee 1 | **Target:** One creature |
+|                                              |                          |
+| :------------------------------------------- | :----------------------- |
+| **Keywords:** Melee, Psionic, Strike, Weapon | **Type:** Action         |
+| **Distance:** Melee 1                        | **Target:** One creature |
 
 Power Roll + Agility: - *11 or lower:* **8 + A psychic damage;** M \< weak\*\*, weakened (save ends)\*\* - *12-16:* **12 + A psychic damage;** M \< average\*\*, weakened (save ends)\*\* - *17+:* **16 + A psychic damage;** M \< strong\*\*, weakened (save ends)\*\*
 

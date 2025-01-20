@@ -1,14 +1,14 @@
 ---
-title_raw: '**8th-level Elementalist Specialization Features**'
-title: '**8th-Level Elementalist Specialization Features**'
-name_raw: '**8th-level Elementalist Specialization Features**'
-name: '**8th-Level Elementalist Specialization Features**'
+title_raw: 8th-level Elementalist Specialization Features
+title: 8th-Level Elementalist Specialization Features
+name_raw: 8th-level Elementalist Specialization Features
+name: 8th-Level Elementalist Specialization Features
 type: classes
 subtype: elementalist
 kind: 8th-level features
 ---
 
-# **8th-level Elementalist Specialization Features**
+# 8th-level Elementalist Specialization Features
 
 | Specialization | Feature                |
 | -------------- | ---------------------- |

@@ -6,6 +6,10 @@ name: Again
 type: classes
 subtype: talent
 kind: 1st-level features
+keywords: Psionic, Ranged
+keyword_list:
+  - Psionic
+  - Ranged
 ability_type: Triggered
 distance: Ranged 10
 target: Self or one creature
@@ -14,12 +18,12 @@ trigger: The target makes an ability power roll.
 
 # Again
 
-*You step back a split second to see if things play out a little differently.* **Keywords:** Psionic, Ranged
+*You step back a split second to see if things play out a little differently.*
 
-|                         |                                  |
-| :---------------------- | :------------------------------- |
-| **Keywords:**           | **Type:** Triggered              |
-| **Distance:** Ranged 10 | **Target:** Self or one creature |
+|                               |                                  |
+| :---------------------------- | :------------------------------- |
+| **Keywords:** Psionic, Ranged | **Type:** Triggered              |
+| **Distance:** Ranged 10       | **Target:** Self or one creature |
 
 **Trigger:** The target makes an ability power roll.
 

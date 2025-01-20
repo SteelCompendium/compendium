@@ -27,6 +27,8 @@ Your elemental specialization grants you a feature as shown on the 3rd-Level Spe
 
 [THE EARTH ACCEPTS ME](./The%20Earth%20Accepts%20Me.md)
 
+[THE EARTH ACCEPTS ME](./The%20Earth%20Accepts%20Me.md)
+
 [REMEMBER GROWTH AND SUN AND RAIN](./Remember%20Growth%20And%20Sun%20And%20Rain.md)
 
 [REMEMBER GROWTH AND SUN AND RAIN](./Remember%20Growth%20And%20Sun%20And%20Rain.md)

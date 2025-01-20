@@ -4,14 +4,15 @@ title: Fury
 name_raw: Fury
 name: Fury
 type: classes single page
-keywords: Animal, Area, Magic
+keywords: Melee, Strike, Weapon
 keyword_list:
-  - Animal
-  - Area
-  - Magic
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: 1 creature
+trigger: You take damage.
 ---
 
 # Fury
@@ -163,14 +164,16 @@ Your primordial aspect grants you a triggered action as shown on the Aspect Trig
 
 ### Furious Change
 
-*In your* anger, you revert to a more bestial form. **Keywords:**
+*In your* anger, you revert to a more bestial form.
 
-| **Type:**                              |                                   |
-| -------------------------------------- | --------------------------------- |
-|                                        |                                   |
-| :------------------------------------- | :-------------------------------- |
-| **Keywords:** Animal, Area, Magic      | **Type:** Action                  |
-| **Distance:** Melee 1                  | **Target:** 1 creature            |
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action       |
+| **Distance:** Melee 1               | **Target:** 1 creature |
+
+|\-----------|-----|
+
+**Trigger:** | | | You lose Stamina and are not dying. | |
 
 **Effect:** After the triggering effect is resolved, you can use a free triggered action to enter your animal form or hybrid form. You gain temporary Stamina equal to your Might score.
 
@@ -178,11 +181,12 @@ Your primordial aspect grants you a triggered action as shown on the Aspect Trig
 
 ### Lines Of Force
 
-*You redirect the energy of motion.* **Keywords:** | Magic, Melee
+*You redirect the energy of motion.*
 
-| **Type:**     | Triggered |     |     |
-| ------------- | --------- | --- | --- |
-| **Distance:** | Melee 1   |     |     |
+| **Type:** | Triggered |     |     |
+| --------- | --------- | --- | --- |
+
+**Trigger:** | The target would be force moved. | | |
 
 **Effect:** You can select a new target of the same size or smaller within distance to be force moved instead, and you can turn that forced movement into a push instead. You become the source of the forced movement and decide where the new target's destination. Additionally, the forced movement distance gains a bonus equal to your Might score.
 
@@ -190,7 +194,9 @@ Your primordial aspect grants you a triggered action as shown on the Aspect Trig
 
 ### Unearthly Reflexes
 
-*Elusive as a hummingbird.* **Keywords:** --
+*Elusive as a hummingbird.*
+
+**Trigger:** You take damage.
 
 **Effect: Effect:** You take half damage from the attack and can shift up to a number of squares equal to your Agility score.
 
@@ -214,13 +220,13 @@ Choose one signature ability from the following options. Signature abilities can
 
 ### Brutal Slam
 
-*The heavy impact of your weapon attacks drives your foes ever backward.* **Keywords:** Melee, Strike, Weapon
+*The heavy impact of your weapon attacks drives your foes ever backward.*
 
 Power Roll + Might: - *11 or lower:* **3 + M damage; push 1** - *12-16:* **6 + M damage; push 2** - *17+:* **9 + M damage; push 4**
 
 ## Hit And Run
 
-*Keeping in constant motion helps you slip out of reach after a brutal assault.* **Keywords:** Melee, Strike, Weapon
+*Keeping in constant motion helps you slip out of reach after a brutal assault.*
 
 Power Roll + Might: - *11 or lower:* **2 + M damage** - *12-16:* **5 + M damage** - *17+:* **7 + M damage;** A \< strong\*\*, slowed (save ends)\*\*
 
@@ -228,13 +234,13 @@ Power Roll + Might: - *11 or lower:* **2 + M damage** - *12-16:* **5 + M damage*
 
 ## Impaled!
 
-*You plunge your weapon into your enemy like a boar upon a spit.* **Keywords:** Melee, Strike, Weapon
+*You plunge your weapon into your enemy like a boar upon a spit.*
 
 Power Roll + Might: - *11 or lower:* **2 + M damage;** M \< weak\*\*, grabbed\*\* - *12-16:* **5 + M damage;** M \< average\*\*, grabbed\*\* - *17+:* **7 + M damage;** M \< strong\*\*, grabbed\*\*
 
 ### To The Death!
 
-*Your reckless assault leaves you tactically vulnerable.* **Keywords:** Melee, Strike, Weapon
+*Your reckless assault leaves you tactically vulnerable.*
 
 Power Roll + Might: - *11 or lower:* **3 + M damage** - *12-16:* **6 + M damage** - *17+:* **9 + M damage**
 
@@ -250,17 +256,16 @@ Choose one heroic ability from the following options, each of which costs 3 rage
 
 ### Back!(3 Rage)
 
-*Surrounded? The fools!* **Keywords:** Area, Melee, Weapon
+*Surrounded? The fools!*
 
 Power Roll + Might: - *11 or lower:* **5 damage** - *12-16:* **8 damage; push 1** - *17+:* **11 damage; push 3**
 
 ### Out Of The Way!(3 Rage)
 
-*Your enemies will get out of your way--whether they want to or not.* **Keywords:** | Melee, Strike, Weapon
+*Your enemies will get out of your way--whether they want to or not.*
 
-| **Type:**     | Action  |     |     |
-| ------------- | ------- | --- | --- |
-| **Distance:** | Melee 1 |     |     |
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 Power Roll + Might: - *11 or lower:* **3 + M damage; slide 2** - *12-16:* **5 + M damage; slide 3** - *17+:* **8 + M damage; slide 5**
 
@@ -268,11 +273,10 @@ Power Roll + Might: - *11 or lower:* **3 + M damage; slide 2** - *12-16:* **5 + 
 
 ### Tide Of Death (3 Rage)
 
-*Teach them the folly of lining up for you.* **Keywords:** | Melee, Weapon
+*Teach them the folly of lining up for you.*
 
-| **Type:**     | Action |     |     |
-| ------------- | ------ | --- | --- |
-| **Distance:** | Self   |     |     |
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 **Effect:** You move up to your speed in a straight line, and you don't treat enemy squares as difficult terrain for this move. You can end this move in a creature's space and then move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.
 
@@ -282,7 +286,7 @@ The last target you damage takes extra damage equal to your Might score for ever
 
 ### Your Entrails Are Your Extrails!(3 Rage)
 
-*Hard for them to fight when they're busy holding in their giblets.* **Keywords:** Melee, Strike, Weapon
+*Hard for them to fight when they're busy holding in their giblets.*
 
 Power Roll + Might: - *11 or lower:* **3 + M damage;** M \< weak\*\*, bleeding (save ends)\*\* - *12-16:* **5 + M damage;** M \< average\*\*, bleeding (save ends)\*\* - *17+:* **8 + M damage;** M \< strong\*\*, bleeding (save ends)\*\*
 
@@ -294,7 +298,7 @@ Choose one heroic ability from the following options, each of which costs 5 rage
 
 ## Blood For Blood!(5 Rage)
 
-*A mighty strike leaves your foe reeling.* **Keywords:** Melee, Strike, Weapon
+*A mighty strike leaves your foe reeling.*
 
 Power Roll + Might: - *11 or lower:* **4 + M damage;** M \< weak\*\*, bleeding and weakened (save ends)\*\* - *12-16:* **6 + M damage;** M \< average\*\*, bleeding and weakened (save ends)\*\* - *17+:* **10 + M damage;** M \< strong\*\*, bleeding and weakened (save ends)\*\*
 
@@ -302,16 +306,15 @@ Power Roll + Might: - *11 or lower:* **4 + M damage;** M \< weak\*\*, bleeding a
 
 ### Make Peace With Your God!(5 Rage)
 
-*Anger is an energy.* **Keywords:**
+*Anger is an energy.*
 
-| **Type:** |     |
-| --------- | --- |
+|\-----------|-----|
 
 **Effect:** The next ability roll you make this turn automatically achieves a tier 3 result. You gain one surge.
 
 ### Thunder Roar (5 Rage)
 
-*A howl erupts from you that hurls your enemies back*. **Keywords:** Area, Melee, Weapon
+*A howl erupts from you that hurls your enemies back*.
 
 Power Roll + Might: - *11 or lower:* **6 damage; push 2** - *12-16:* **9 damage; push 4** - *17+:* **13 damage; push 6**
 
@@ -319,11 +322,10 @@ Power Roll + Might: - *11 or lower:* **6 damage; push 2** - *12-16:* **9 damage;
 
 ### To The Uttermost End (5 Rage)
 
-*You spend your life force to ensure their death.* **Keywords:** | Melee, Strike, Weapon
+*You spend your life force to ensure their death.*
 
-| **Type:**     | Action  |     |     |
-| ------------- | ------- | --- | --- |
-| **Distance:** | Melee 1 |     |     |
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 Power Roll + Might: - *11 or lower:* **7 + M damage** - *12-16:* **11 + M damage** - *17+:* **16 + M damage**
 
@@ -371,13 +373,13 @@ Choose one of the following abilities.
 
 ##### Special Delivery (5 Rage)
 
-*You ready?* **Keywords:** Melee, Strike, Weapon
+*You ready?*
 
 **Effect:** You vertically push the target up to 4 squares. This forced movement ignores the target's stability, and the target takes no damage from the move. At the end of this movement, the target can make a free strike that deals additional damage equal to your Might score.
 
 ## Wrecking Ball (5 Rage)
 
-*It is easier to destroy than to create. Much easier, in fact!* **Keywords:** Melee, Weapon
+*It is easier to destroy than to create. Much easier, in fact!*
 
 **Effect:** You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are difficult terrain for you. You automatically destroy each square of structure you move through and leave behind a square of difficult terrain.
 
@@ -391,7 +393,7 @@ Choose one of the following abilities.
 
 ## Phalanx Breaker (5 Rage)
 
-*Organizing your forces like feckless creatures of Law. Pitiful.* **Keywords:** Melee, Strike, Weapon
+*Organizing your forces like feckless creatures of Law. Pitiful.*
 
 **Effect:** You shift up to your speed. You make one power roll that targets up to three enemies you come adjacent to during the shift.
 
@@ -399,11 +401,10 @@ Power Roll + Might: - *11 or lower:* **2 damage;** A \< weak\*\*, dazed (save en
 
 ## Rrraaaghh!(5 Rage)
 
-*Death! Deeaaath!!* **Keywords:** | Melee, Strike, Weapon
+*Death! Deeaaath!!*
 
-| **Type:**     | Action  |     |     |
-| ------------- | ------- | --- | --- |
-| **Distance:** | Melee 1 |     |     |
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 **Power Roll + Might:**
 
@@ -417,7 +418,7 @@ Choose one of the following abilities.
 
 ### Apex Predator (5 Rage)
 
-*I will hunt you down.* **Keywords:** Animal, Melee, Strike, Weapon
+*I will hunt you down.*
 
 Power Roll + Might: - *11 or lower:* **4 + M damage;** I \< weak\*\*, slowed (save ends)\*\* - *12-16:* **6 + M damage;** I \< average\*\*, slowed (save ends)\*\* - *17+:* **10 + M damage;** I \< strong\*\*, slowed (save ends)\*\*
 
@@ -467,25 +468,25 @@ Choose one heroic ability from the following options, each of which costs 7 rage
 
 #### A Demon Unleashed (7 Rage)
 
-*Foes tremble at the sight of you.* **Keywords:** Magic
+*Foes tremble at the sight of you.*
 
 **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P **\<** strong is frightened until the end of their turn.
 
 #### Face The Storm!(7 Rage)
 
-*Fight or flight? FIGHT!!* **Keywords:** Magic
+*Fight or flight? FIGHT!!*
 
 **Effect:** Until the end of the encounter or until you are dying, each creature you make a melee strike against who has P **\<** average is taunted until the end of their next turn. Additionally, against any enemy taunted by you, your abilities deal additional damage equal to twice your Might score and gain a +1 bonus to potency.
 
 ### Steelbreaker (7 Rage)
 
-*See how useless their weapons are*! **Keywords:** Magic
+*See how useless their weapons are*!
 
 **Effect:** You gain 20 Temporary Stamina.
 
 ### You Are Already Dead (7 Rage)
 
-*Slash. Walk away.* **Keywords:** Melee, Strike, Weapon
+*Slash. Walk away.*
 
 **Effect:** If the target is not a leader or solo creature, they die at the end of their next turn. If the target is a leader or solo creature, you gain three surges and can make a melee free strike against them.
 
@@ -555,7 +556,7 @@ Choose one heroic ability from the following options.
 
 ### Debilitating Strike (9 Rage)
 
-*You break the target's bones leaving them vulnerable.* **Keywords:** Melee, Strike, Weapon
+*You break the target's bones leaving them vulnerable.*
 
 Power Roll + Might: - *11 or lower:* **10 + M damage; M \< \[weak\] slowed (save ends)** - *12-16:* **14 + M damage; M \< \[average\] slowed (save ends)** - *17+:* **20 + M damage; M \< \[strong\] slowed (save ends)**
 

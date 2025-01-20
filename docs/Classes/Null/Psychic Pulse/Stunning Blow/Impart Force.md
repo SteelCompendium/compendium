@@ -7,18 +7,25 @@ cost: 5 Discipline
 type: classes
 subtype: 'null'
 kind: psychic pulse
+keywords: Melee, Psionic, Strike, Weapon
+keyword_list:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
+ability_type: Maneuver
 distance: Melee 1
 target: One creature or object
 ---
 
 # Impart Force (5 Discipline)
 
-*A single touch from you, and your enemy flies backward.* **Keywords:** Melee, Psionic, Strike, Weapon **Type:** Maneuver
+*A single touch from you, and your enemy flies backward.*
 
-|                       |                                    |
-| :-------------------- | :--------------------------------- |
-| **Keywords:**         | **Type:**                          |
-| **Distance:** Melee 1 | **Target:** One creature or object |
+|                                              |                                    |
+| :------------------------------------------- | :--------------------------------- |
+| **Keywords:** Melee, Psionic, Strike, Weapon | **Type:** Maneuver                 |
+| **Distance:** Melee 1                        | **Target:** One creature or object |
 
 Power Roll + Intuition: - *11 or lower:* **Push 3** - *12-16:* **Push 5** - *17+:* **Push 7**
 

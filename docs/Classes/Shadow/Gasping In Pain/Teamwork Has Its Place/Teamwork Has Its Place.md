@@ -6,18 +6,25 @@ name: Teamwork Has Its Place
 type: classes
 subtype: shadow
 kind: gasping in pain
+keywords: Melee, Ranged, Strike, Weapon
+keyword_list:
+  - Melee
+  - Ranged
+  - Strike
+  - Weapon
 ability_type: Action
-distance: Melee 1 or ranged 5 **Target:** One creature or object
+distance: Melee 1 or ranged 5
+target: One creature or object
 ---
 
 # Teamwork Has Its Place
 
-*You attack an enemy, distracting them long enough for an ally to stab them.* **Keywords:** Melee, Ranged, Strike, Weapon
+*You attack an enemy, distracting them long enough for an ally to stab them.*
 
-|                                                                      |                  |
-| :------------------------------------------------------------------- | :--------------- |
-| **Keywords:**                                                        | **Type:** Action |
-| **Distance:** Melee 1 or ranged 5 **Target:** One creature or object | **Target:**      |
+|                                             |                                    |
+| :------------------------------------------ | :--------------------------------- |
+| **Keywords:** Melee, Ranged, Strike, Weapon | **Type:** Action                   |
+| **Distance:** Melee 1 or ranged 5           | **Target:** One creature or object |
 
 Power Roll + Agility: - *11 or lower:* **3 + A damage** - *12-16:* **6 + A damage** - *17+:* **9 + A damage**
 

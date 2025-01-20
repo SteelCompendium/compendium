@@ -6,22 +6,22 @@ name: Coat The Blade
 type: classes
 subtype: shadow
 kind: 1st-level features
+keywords: --
+keyword_list:
+  - --
 ability_type: Maneuver
-target: Self **Keywords:** --
+distance: Self
+target: Self
 ---
 
 # Coat The Blade
 
-You gain the following ability.
+*Just a little poison goes a long way.*
 
-## Coat The Blade
-
-*Just a little poison goes a long way.* **Distance:** Self
-
-|               |                                   |
-| :------------ | :-------------------------------- |
-| **Keywords:** | **Type:** Maneuver                |
-| **Distance:** | **Target:** Self **Keywords:** -- |
+|                    |                    |
+| :----------------- | :----------------- |
+| **Keywords:** --   | **Type:** Maneuver |
+| **Distance:** Self | **Target:** Self   |
 
 **Effect:** You gain two surges. Whenever you use a surge before the end of the encounter, you can choose to have its damage be poison damage.
 

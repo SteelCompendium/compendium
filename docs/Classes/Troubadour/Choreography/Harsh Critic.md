@@ -7,18 +7,25 @@ cost: 3 Drama
 type: classes
 subtype: troubadour
 kind: choreography
+keywords: Magic, Melee, Ranged, Strike
+keyword_list:
+  - Magic
+  - Melee
+  - Ranged
+  - Strike
 ability_type: Action
-distance: Melee 1 or ranged 10 **Target:** One creature or object
+distance: Melee 1 or ranged 10
+target: One creature or object
 ---
 
 # Harsh Critic (3 Drama)
 
-*Just one bad review will ruin their day.* **Keywords:** Magic, Melee, Ranged, Strike
+*Just one bad review will ruin their day.*
 
-|                                                                       |                  |
-| :-------------------------------------------------------------------- | :--------------- |
-| **Keywords:**                                                         | **Type:** Action |
-| **Distance:** Melee 1 or ranged 10 **Target:** One creature or object | **Target:**      |
+|                                            |                                    |
+| :----------------------------------------- | :--------------------------------- |
+| **Keywords:** Magic, Melee, Ranged, Strike | **Type:** Action                   |
+| **Distance:** Melee 1 or ranged 10         | **Target:** One creature or object |
 
 Power Roll + Presence: - *11 or lower:* **7 + P sonic damage** - *12-16:* **10 + P sonic damage** - *17+:* **13 + P sonic damage**
 

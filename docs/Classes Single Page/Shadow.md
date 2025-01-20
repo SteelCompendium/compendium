@@ -10,7 +10,7 @@ keyword_list:
   - Ranged
   - Strike
   - Weapon
-ability_type: Action
+ability_type: Free Triggered Action
 distance: Self; see below
 target: Self
 trigger: You use your In All This Confusion ability.
@@ -133,14 +133,14 @@ Your choice of shadow college grants you one or more features as shown on the 1s
 
 You gain the following ability.
 
-##### Black Ash Teleport
+#### Black Ash Teleport
 
-*In a swirl of black ash, you step from one place to another.* **Keywords:** Magic
+*In a swirl of black ash, you step from one place to another.*
 
-|                                             |                  |
-| :------------------------------------------ | :--------------- |
-| **Keywords:** Melee, Ranged, Strike, Weapon | **Type:** Action |
-| **Distance:** Self; see below               | **Target:** Self |
+|                                             |                                 |
+| :------------------------------------------ | :------------------------------ |
+| **Keywords:** Melee, Ranged, Strike, Weapon | **Type:** Free Triggered Action |
+| **Distance:** Self; see below               | **Target:** Self                |
 
 **Effect:** You teleport up to 5 squares. If you have concealment or cover at your destination, you can use the Hide maneuver even if you are observed. If you hide using this maneuver, you gain a surge.
 
@@ -150,9 +150,9 @@ You gain the following ability.
 
 You gain the following ability.
 
-##### Coat The Blade
+#### Coat The Blade
 
-*Just a little poison goes a long way.* **Distance:** Self
+*Just a little poison goes a long way.*
 
 **Effect:** You gain two surges. Whenever you use a surge before the end of the encounter, you can choose to have its damage be poison damage.
 
@@ -164,7 +164,7 @@ You gain the following ability.
 
 #### I'm No Threat
 
-*Taking on the illusory countenance of another creature gives you an advantage on subterfuge.* **Keywords:** Magic
+*Taking on the illusory countenance of another creature gives you an advantage on subterfuge.*
 
 **Effect:** When you use this ability, you cover yourself in an illusion that causes you to appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic, unarmed, and capable version of yourself. While this illusion lasts, your strikes made against other creatures gain an edge. If you use this ability in combat, you gain a surge when you use it.
 
@@ -190,11 +190,12 @@ Your shadow college grants you a triggered action as shown on the College Trigge
 
 ##### Clever Trick (1 Insight)
 
-*You sow a moment of confusion in combat, to your enemy's peril.* **Keywords:** | Magic
+*You sow a moment of confusion in combat, to your enemy's peril.*
 
-| **Type:**     | Triggered |     |     |
-| ------------- | --------- | --- | --- |
-| **Distance:** | Self      |     |     |
+| **Type:** | Triggered |     |     |
+| --------- | --------- | --- | --- |
+
+**Trigger:** An enemy targets you with a strike | |
 
 **Trigger:** An enemy targets you with a strike.
 
@@ -202,10 +203,11 @@ Your shadow college grants you a triggered action as shown on the College Trigge
 
 ### Defensive Roll
 
-*When an enemy attacks, you roll with the impact to reduce the harm.* **Keywords:**
+*When an enemy attacks, you roll with the impact to reduce the harm.*
 
-| **Type:** |     |
-| --------- | --- |
+|\-----------|-----|
+
+**Trigger:** Another creature damages you
 
 **Trigger:** Another creature damages you.
 
@@ -215,11 +217,10 @@ Your shadow college grants you a triggered action as shown on the College Trigge
 
 #### In All This Confusion
 
-*You vanish in a plume of black smoke to avoid danger.* **Keywords:** | Magic
+*You vanish in a plume of black smoke to avoid danger.*
 
-| **Type:**     | Triggered |     |     |
-| ------------- | --------- | --- | --- |
-| **Distance:** | Self      |     |     |
+| **Type:** | Triggered |     |     |
+| --------- | --------- | --- | --- |
 
 **Trigger:** You take damage.
 
@@ -233,7 +234,7 @@ You gain the following ability.
 
 #### Hesitation Is Weakness (1 Insight)
 
-*Keep up the attack. Never give them a moment's grace.* **Keywords:** --
+*Keep up the attack. Never give them a moment's grace.*
 
 **Trigger:** Another hero ends their turn. That hero can't have used this ability to start their turn.
 
@@ -253,7 +254,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ## Gasping In Pain
 
-*Your precise strikes let your allies take advantage of a target's agony.* **Keywords:** Melee, Strike, Weapon
+*Your precise strikes let your allies take advantage of a target's agony.*
 
 Power Roll + Agility: - *11 or lower:* **3 + A damage** - *12-16:* **5 + A damage** - *17+:* **8 + A damage;** I \< strong\*\*, prone\*\*
 
@@ -261,7 +262,7 @@ Power Roll + Agility: - *11 or lower:* **3 + A damage** - *12-16:* **5 + A damag
 
 ### I Work Better Alone
 
-*It's better, just you and me. Isn't it?* **Keywords:** Melee, Ranged, Strike, Weapon
+*It's better, just you and me. Isn't it?*
 
 Power Roll + Agility: - *11 or lower:* **3 + A damage** - *12-16:* **6 + A damage** - *17+:* **9 + A damage**
 
@@ -269,7 +270,7 @@ Power Roll + Agility: - *11 or lower:* **3 + A damage** - *12-16:* **6 + A damag
 
 ### Teamwork Has Its Place
 
-*You attack an enemy, distracting them long enough for an ally to stab them.* **Keywords:** Melee, Ranged, Strike, Weapon
+*You attack an enemy, distracting them long enough for an ally to stab them.*
 
 Power Roll + Agility: - *11 or lower:* **3 + A damage** - *12-16:* **6 + A damage** - *17+:* **9 + A damage**
 
@@ -293,11 +294,10 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 ### Disorienting Strike (3 Insight)
 
-*Your attack leaves them reeling, allowing you to follow up.* **Keywords:** | Melee, Strike, Weapon
+*Your attack leaves them reeling, allowing you to follow up.*
 
-| **Type:**     | Action  |     |     |
-| ------------- | ------- | --- | --- |
-| **Distance:** | Melee 1 |     |     |
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 Power Roll + Agility: - *11 or lower:* **4 + A damage; slide 2** - *12-16:* **6 + A damage; slide 3** - *17+:* **10 + A damage; slide 5**
 
@@ -311,11 +311,10 @@ Power Roll + Agility: - *11 or lower:* **4 + A damage;** A \< weak\*\*, bleeding
 
 ### Get In Get Out (3 Insight)
 
-*Move unexpectedly, strike fast, and be gone!* **Keywords:** | Melee, Strike, Weapon
+*Move unexpectedly, strike fast, and be gone!*
 
-| **Type:**     | Action  |     |     |
-| ------------- | ------- | --- | --- |
-| **Distance:** | Melee 1 |     |     |
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 Power Roll + Agility: - *11 or lower:* **5 + A damage** - *12-16:* **8 + A damage** - *17+:* **11 + A damage**
 
@@ -323,7 +322,7 @@ Power Roll + Agility: - *11 or lower:* **5 + A damage** - *12-16:* **8 + A damag
 
 ### Two Throats At Once (3 Insight)
 
-*A bargain.* **Keywords:** Melee, Ranged, Strike, Weapon
+*A bargain.*
 
 Power Roll + Agility: - *11 or lower:* **4 damage** - *12-16:* **6 damage** - *17+:* **10 damage**
 
@@ -333,13 +332,13 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 
 ## Coup De Grace (5 Insight)
 
-*Your blade might be the last thing they see.* **Keywords:** Melee, Ranged, Strike, Weapon
+*Your blade might be the last thing they see.*
 
 Power Roll + Agility: - *11 or lower:* **1d6 + 7 + A damage** - *12-16:* **1d6 + 11 + A damage** - *17+:* **1d6 + 16 + A damage**
 
 ## One Hundred Throats (5 Insight)
 
-*As you move across the battlefield, every foe within reach feels your wrath.* **Keywords:** Melee, Strike, Weapon
+*As you move across the battlefield, every foe within reach feels your wrath.*
 
 **Effect:** You shift up to your speed. You make one power roll that targets up to three enemies, each of who became adjacent to you during the move.
 
@@ -347,17 +346,16 @@ Power Roll + Agility: - *11 or lower:* **3 damage** - *12-16:* **6 damage** - *1
 
 ## Set-up (5 Insight)
 
-*Your friends will thank you.* **Keywords:** Ranged, Strike, Weapon
+*Your friends will thank you.*
 
 Power Roll + Agility: - *11 or lower:* **6 + A damage;** R \< weak\*\*, the target has damage weakness 5 (save ends)\*\* - *12-16:* **9 + A damage;** R \< average\*\*, the target has damage weakness 5 (save ends)\*\* - *17+:* **13 + A damage;** R \< strong\*\*, the target has damage weakness 5 (save ends)\*\*
 
 ## Shadowstrike (5 Insight)
 
-*They have no idea what the college taught you.* **Keywords:** | Magic, Melee, Ranged
+*They have no idea what the college taught you.*
 
-| **Type:**     | Action          |     |     |
-| ------------- | --------------- | --- | --- |
-| **Distance:** | Self; see below |     |     |
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 **Effect:** You make two signature strikes.
 
@@ -405,13 +403,13 @@ Choose one of the following abilities.
 
 ##### In A Puff Of Ash (5 Insight)
 
-*You enchant a strike with your teleportation magic.* **Keywords:** Magic, Melee, Ranged, Strike, Weapon **Type:** Action
+*You enchant a strike with your teleportation magic.*
 
 Power Roll + Agility: - *11 or lower:* **6 + A damage; you can teleport the target 1 square** - *12-16:* **10 + A damage; you can teleport the target up to 3 squares** - *17+:* **14 + A damage; you can teleport the target up to 5 squares**
 
 ##### Too Slow (5 Insight)
 
-*Your foe made a big mistake.* **Keywords:** Melee, Ranged, Strike, Weapon **Type:** Free Triggered Action
+*Your foe made a big mistake.*
 
 **Trigger:** You use your In All This Confusion ability.
 

@@ -6,6 +6,10 @@ name: God's Machine
 cost: 9 Piety
 type: classes
 subtype: conduit
+keywords: Magic, Ranged
+keyword_list:
+  - Magic
+  - Ranged
 ability_type: Action
 distance: Ranged 10
 target: Special
@@ -13,12 +17,12 @@ target: Special
 
 # God's Machine (9 Piety)
 
-*You conjure a whirring tank made of blades and metal.* **Keywords:** Magic, Ranged
+*You conjure a whirring tank made of blades and metal.*
 
-|                         |                     |
-| :---------------------- | :------------------ |
-| **Keywords:**           | **Type:** Action    |
-| **Distance:** Ranged 10 | **Target:** Special |
+|                             |                     |
+| :-------------------------- | :------------------ |
+| **Keywords:** Magic, Ranged | **Type:** Action    |
+| **Distance:** Ranged 10     | **Target:** Special |
 
 **Effect:** You conjure a size 2 rolling machine that appears in an unoccupied space. When the machine first appears, make the following power roll once, targeting each enemy adjacent to it.
 

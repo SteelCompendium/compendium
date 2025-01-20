@@ -7,18 +7,25 @@ cost: 5 Focus
 type: classes
 subtype: tactician
 kind: 1st-level features
+keywords: Melee, Ranged, Strike, Weapon
+keyword_list:
+  - Melee
+  - Ranged
+  - Strike
+  - Weapon
 ability_type: Action
-distance: Melee 1 or ranged 5 **Target:** One creature or object **Effect:** You mark the target.
+distance: Melee 1 or ranged 5
+target: One creature or object **Effect:** You mark the target.
 ---
 
 # The Mind Game (5 Focus)
 
-*Your attack demoralizes your foe. Your allies begin to think you can win.* **Keywords:** Melee, Ranged, Strike, Weapon
+*Your attack demoralizes your foe. Your allies begin to think you can win.*
 
-|                                                                                                       |                  |
-| :---------------------------------------------------------------------------------------------------- | :--------------- |
-| **Keywords:**                                                                                         | **Type:** Action |
-| **Distance:** Melee 1 or ranged 5 **Target:** One creature or object **Effect:** You mark the target. | **Target:**      |
+|                                             |                                                                     |
+| :------------------------------------------ | :------------------------------------------------------------------ |
+| **Keywords:** Melee, Ranged, Strike, Weapon | **Type:** Action                                                    |
+| **Distance:** Melee 1 or ranged 5           | **Target:** One creature or object **Effect:** You mark the target. |
 
 Power Roll + Might: - *11 or lower:* **4 + M damage; R** \< weak\*\*, weakened (save ends)\*\* - *12-16:* **6 + M damage; R** \< average\*\*, weakened (save ends)\*\* - *17+:* **10 + M damage; R** \< strong\*\*, weakened (save ends)\*\*
 

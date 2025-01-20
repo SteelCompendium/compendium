@@ -4,6 +4,11 @@ title: Extension Of My Arm
 name_raw: Extension Of My Arm
 name: Extension Of My Arm
 type: kits
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee
 target: 1 creature
@@ -11,12 +16,12 @@ target: 1 creature
 
 # Extension Of My Arm
 
-*When you draw your whip back after an attack, your enemy comes ever closer.* **Keywords:** Melee, Strike, Weapon
+*When you draw your whip back after an attack, your enemy comes ever closer.*
 
-|                     |                        |
-| :------------------ | :--------------------- |
-| **Keywords:**       | **Type:** Action       |
-| **Distance:** Melee | **Target:** 1 creature |
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action       |
+| **Distance:** Melee                 | **Target:** 1 creature |
 
 Power Roll + Might or Agility: - *11 or lower:* **4 + M or A damage; vertical pull 1** - *12-16:* **7 + M or A damage; vertical pull 2** - *17+:* **10 + M or A damage; vertical pull 3**
 

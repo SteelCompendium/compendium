@@ -16,9 +16,3 @@ subtype: 4th echelon
 Your choice of your Might or Agility score increases by 1, to a maximum of 6.
 
 Choose one of the following additional benefits.
-
-## Theoretical Warrior
-
-- **Bounce Back Fast:** When you rest for at least 8 hours, you can gain the benefit of a Respite. Once you have done so, you can't do so again until you have taken a normal Respite.
-- **Reserves of Strength :** Your recovery value is half your Stamina.
-- **Undying ;** The [[Bleeding|bleeding]] condition doesn't affect you.

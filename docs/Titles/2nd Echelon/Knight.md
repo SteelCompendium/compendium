@@ -5,6 +5,12 @@ name_raw: Knight
 name: Knight
 type: titles
 subtype: 2nd echelon
+keywords: \| Melee, Strike, Weapon
+keyword_list:
+  - \| Melee
+  - Strike
+  - Weapon
+distance: \| Melee 1
 target: \| 1 creature \|
 ---
 
@@ -22,15 +28,15 @@ Choose one of the following benefits:
 - **Knightly Aegis:** Your Stamina maximum increases by 6.
 - **Knightly Challenge:** You gain the Knightly Challenge ability, which can be paid for using the heroic resource of your class:
 
-COSTS 5 HEROIC RESOURCES: KNIGHTLY CHALLENGE *Have at thee!* **Keywords:** | Melee, Strike, Weapon
+COSTS 5 HEROIC RESOURCES: KNIGHTLY CHALLENGE *Have at thee!*
 
-| **Type:**                            | Action                            |     |     |
-| ------------------------------------ | --------------------------------- | --- | --- |
-| **Distance:**                        | Melee 1                           |     |     |
-|                                      |                                   |     |     |
-| :----------------------------------- | :-------------------------------- |     |     |
-| **Keywords:**                        | **Type:**                         |     |     |
-| **Distance:**                        | **Target:** \| 1 creature \|      |     |     |
+|                                        |                              |
+| :------------------------------------- | :--------------------------- |
+| **Keywords:** \| Melee, Strike, Weapon | **Type:**                    |
+| **Distance:** \| Melee 1               | **Target:** \| 1 creature \| |
+
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 **Power Roll + Might or Agility:**
 

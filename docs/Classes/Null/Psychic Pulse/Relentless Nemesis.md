@@ -7,6 +7,12 @@ cost: 3 Discipline
 type: classes
 subtype: 'null'
 kind: psychic pulse
+keywords: Melee, Psionic, Strike, Weapon
+keyword_list:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: One creature or object
@@ -14,12 +20,12 @@ target: One creature or object
 
 # Relentless Nemesis (3 Discipline)
 
-*You strike, and for the next few moments, your enemy can't escape you.* **Keywords:** Melee, Psionic, Strike, Weapon
+*You strike, and for the next few moments, your enemy can't escape you.*
 
-|                       |                                    |
-| :-------------------- | :--------------------------------- |
-| **Keywords:**         | **Type:** Action                   |
-| **Distance:** Melee 1 | **Target:** One creature or object |
+|                                              |                                    |
+| :------------------------------------------- | :--------------------------------- |
+| **Keywords:** Melee, Psionic, Strike, Weapon | **Type:** Action                   |
+| **Distance:** Melee 1                        | **Target:** One creature or object |
 
 Power Roll + Agility: - *11 or lower:* **6 + A damage** - *12-16:* **8 + A damage** - *17+:* **12 + A damage**
 

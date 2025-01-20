@@ -7,18 +7,24 @@ cost: 5 Rage
 type: classes
 subtype: fury
 kind: blood for blood(5 rage)
+keywords: Area, Melee, Weapon
+keyword_list:
+  - Area
+  - Melee
+  - Weapon
 ability_type: Action
-distance: 5 x 1 line within 1 **Target:** Each enemy in the area
+distance: 5 x 1 line within 1
+target: Each enemy in the area
 ---
 
 # Thunder Roar (5 Rage)
 
-*A howl erupts from you that hurls your enemies back*. **Keywords:** Area, Melee, Weapon
+*A howl erupts from you that hurls your enemies back*.
 
-|                                                                      |                  |
-| :------------------------------------------------------------------- | :--------------- |
-| **Keywords:**                                                        | **Type:** Action |
-| **Distance:** 5 x 1 line within 1 **Target:** Each enemy in the area | **Target:**      |
+|                                   |                                    |
+| :-------------------------------- | :--------------------------------- |
+| **Keywords:** Area, Melee, Weapon | **Type:** Action                   |
+| **Distance:** 5 x 1 line within 1 | **Target:** Each enemy in the area |
 
 Power Roll + Might: - *11 or lower:* **6 damage; push 2** - *12-16:* **9 damage; push 4** - *17+:* **13 damage; push 6**
 

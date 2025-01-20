@@ -6,6 +6,10 @@ name: Practical Magic
 type: classes
 subtype: elementalist
 kind: 1st-level features
+keywords: Magic, Ranged
+keyword_list:
+  - Magic
+  - Ranged
 ability_type: Maneuver
 distance: Self; see below
 target: Self
@@ -13,15 +17,11 @@ target: Self
 
 # Practical Magic
 
-You have the following ability:
-
-## Practical Magic
-
-*Your mastery of elemental power lets you customize your conjurations.* **Keywords:** Magic, Ranged
+*Your mastery of elemental power lets you customize your conjurations.*
 
 |                               |                    |
 | :---------------------------- | :----------------- |
-| **Keywords:**                 | **Type:** Maneuver |
+| **Keywords:** Magic, Ranged   | **Type:** Maneuver |
 | **Distance:** Self; see below | **Target:** Self   |
 
 **Effect:** Choose one of the following effects:

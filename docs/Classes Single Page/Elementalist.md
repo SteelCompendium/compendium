@@ -4,13 +4,12 @@ title: Elementalist
 name_raw: Elementalist
 name: Elementalist
 type: classes single page
-keywords: Fire, Green, Magic, Ranged, Void **Type:** Maneuver **Distance:** Self or Ranged 10
+keywords: Fire, Magic, Ranged, Strike
 keyword_list:
   - Fire
-  - Green
   - Magic
   - Ranged
-  - Void **Type:** Maneuver **Distance:** Self or Ranged 10
+  - Strike
 ability_type: Action
 distance: Ranged 10
 target: 1 enemy or object
@@ -117,12 +116,12 @@ You gain the following ability, which can be used as a ranged free strike.
 
 ### Hurl Element
 
-*You cast a ball of elemental energy at an unsuspecting foe.* **Keywords:** Magic, Ranged, Strike
+*You cast a ball of elemental energy at an unsuspecting foe.*
 
-|                                                                                                   |                               |
-| :------------------------------------------------------------------------------------------------ | :---------------------------- |
-| **Keywords:** Fire, Green, Magic, Ranged, Void **Type:** Maneuver **Distance:** Self or Ranged 10 | **Type:** Action              |
-| **Distance:** Ranged 10                                                                           | **Target:** 1 enemy or object |
+|                                           |                               |
+| :---------------------------------------- | :---------------------------- |
+| **Keywords:** Fire, Magic, Ranged, Strike | **Type:** Action              |
+| **Distance:** Ranged 10                   | **Target:** 1 enemy or object |
 
 Power Roll + Reason: - *11 or lower:* **2 + R damage** - *12-16:* **4 + R damage** - *17+:* **6 + R damage**
 
@@ -146,9 +145,9 @@ If you take damage equal to or greater than 5 x your Reason score in one turn, y
 
 You have the following ability:
 
-#### Practical Magic
+### Practical Magic
 
-*Your mastery of elemental power lets you customize your conjurations.* **Keywords:** Magic, Ranged
+*Your mastery of elemental power lets you customize your conjurations.*
 
 **Effect:** Choose one of the following effects:
 
@@ -177,7 +176,7 @@ You also gain the following ability.
 
 ### Shared Void Sense
 
-*You grant allies a taste of your unearthly vision.* **Keywords:** Magic, Ranged, Void
+*You grant allies a taste of your unearthly vision.*
 
 **Effect:** For each Victory you have, you can target one creature. That creature gains the benefit of your A Beyonding of Vision feature until the end of your next turn, but doesn't gain the use of Shared Void Sense.
 
@@ -193,7 +192,7 @@ You gain the following ability.
 
 #### Motivate Earth
 
-*The earth rises, falls, or opens up at your command.* **Keywords:** Earth, Magic, Melee
+*The earth rises, falls, or opens up at your command.*
 
 **Effect:** You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
 
@@ -205,13 +204,12 @@ You can instead touch a doorway or other opening in a mundane dirt, stone, or me
 
 You gain the following ability.
 
-##### Return To Formlessness
+#### Return To Formlessness
 
-*With the merest touch, you cause an object to turn to slag or ash.* **Keywords:** | Fire, Magic, Melee
+*With the merest touch, you cause an object to turn to slag or ash.*
 
-| **Type:**     | Action  |     |     |
-| ------------- | ------- | --- | --- |
-| **Distance:** | Melee 1 |     |     |
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 **Effect:** You heat the target and cause it to combust and melt, destroying it. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.
 
@@ -230,7 +228,7 @@ Your elemental specialization grants you a triggered action as shown on the Spec
 
 ## The Breath Of Dawn Remembered
 
-*The power you channel grants the ability to get back in the fight.* **Keywords:** Green, Magic, Ranged
+*The power you channel grants the ability to get back in the fight.*
 
 **Trigger:** The target starts their turn or takes damage.
 
@@ -240,11 +238,12 @@ Your elemental specialization grants you a triggered action as shown on the Spec
 
 ### Explosive Assistance
 
-*You add a little magic to an ally's aggression at just the right time.* **Keywords:** | Fire, Magic, Ranged
+*You add a little magic to an ally's aggression at just the right time.*
 
-| **Type:**     | Triggered |     |     |
-| ------------- | --------- | --- | --- |
-| **Distance:** | Ranged 10 |     |     |
+| **Type:** | Triggered |     |     |
+| --------- | --------- | --- | --- |
+
+**Trigger:** | The target force moves a creature or object. | | |
 
 **Effect:** The forced movement distance gains a bonus equal to your Reason score.
 
@@ -252,7 +251,7 @@ Your elemental specialization grants you a triggered action as shown on the Spec
 
 ### Skin Like Castle Walls
 
-*You make yourself or an ally covered in protective stone.* **Keywords:** Earth, Magic, Ranged
+*You make yourself or an ally covered in protective stone.*
 
 **Trigger:** The target takes damage.
 
@@ -262,7 +261,7 @@ Your elemental specialization grants you a triggered action as shown on the Spec
 
 ### A Subtle Relocation
 
-*You call on the void to swallow and spit out an ally.* **Keywords:** Magic, Ranged, Void
+*You call on the void to swallow and spit out an ally.*
 
 **Trigger:** The target starts their turn, moves, or is force moved.
 
@@ -326,7 +325,7 @@ Select two signature abilities from the following options. Signature abilities c
 
 ### Afflict A Bountiful Decay
 
-*Your curse causes a foe's flesh to rot off as spores that aid your allies.* **Keywords:** Green, Rot, Magic, Ranged, Strike **Distance:** Ranged 10
+*Your curse causes a foe's flesh to rot off as spores that aid your allies.*
 
 Power Roll + Reason: - *11 or lower:* **2 + R corruption damage** - *12-16:* **4 + R corruption damage** - *17+:* **6 + R corruption damage**
 
@@ -334,13 +333,13 @@ Power Roll + Reason: - *11 or lower:* **2 + R corruption damage** - *12-16:* **4
 
 #### Bifurcated Conflagration
 
-*Two jets of flame lance out at your command.* **Keywords:** Fire, Magic, Ranged, Strike
+*Two jets of flame lance out at your command.*
 
 Power Roll + Reason: - *11 or lower:* **2 fire damage** - *12-16:* **4 fire damage** - *17+:* **6 fire damage**
 
 ##### Grasp Of Beyond
 
-*You absorb the life energy of another creature and use it to teleport.* **Keywords:** Magic, Melee, Strike, Void
+*You absorb the life energy of another creature and use it to teleport.*
 
 **Power Roll + Reason:**
 
@@ -352,7 +351,7 @@ Power Roll + Reason: - *11 or lower:* **2 fire damage** - *12-16:* **4 fire dama
 
 ### The Green Within, The Green Without
 
-*Whipping vines erupt from a foe's body to grasp at another close by.* **Keywords:** Green, Magic, Ranged, Strike
+*Whipping vines erupt from a foe's body to grasp at another close by.*
 
 Power Roll + Reason: - *11 or lower:* **2 + R damage** - *12-16:* **5 + R damage** - *17+:* **7 + R damage**
 
@@ -366,13 +365,13 @@ Power Roll + Reason: - *11 or lower:* **3 + R damage; push 2** - *12-16:* **5 + 
 
 ### Ray Of Agonizing Self Reflection
 
-*You inflict pain and doubt in equal measure.* **Keywords:** Magic, Ranged, Strike, Void
+*You inflict pain and doubt in equal measure.*
 
 Power Roll + Reason: - *11 or lower:* **2 + R corruption damage;** R \< weak\*\*, slowed (save ends)\*\* - *12-16:* **4 + R corruption damage;** R \< average\*\*, slowed (save ends)\*\* - *17+:* **6 + R corruption damage;** R \< strong\*\*, slowed (save ends)\*\*
 
 ### Unquiet Ground
 
-*A sudden storm of detritus assaults your foes and leaves them struggling to move.* **Keywords:** Area, Earth, Magic, Ranged
+*A sudden storm of detritus assaults your foes and leaves them struggling to move.*
 
 Power Roll + Reason: - *11 or lower:* **2 damage** - *12-16:* **5 damage** - *17+:* **7 damage**
 
@@ -394,7 +393,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 ### Behold The Mystery (3 Essence)
 
-*You open a rift into the void to harry your foes.* **Keywords:** Area, Magic, Ranged, Void
+*You open a rift into the void to harry your foes.*
 
 Power Roll + Reason: - *11 or lower:* **2 psychic damage** - *12-16:* **4 psychic damage** - *17+:* **6 psychic damage**
 
@@ -402,7 +401,7 @@ Power Roll + Reason: - *11 or lower:* **2 psychic damage** - *12-16:* **4 psychi
 
 ### The Flesh, A Crucible (3 Essence)
 
-*Fire engulfs a target of your choice and burns at your command.* **Keywords:** Fire, Magic, Ranged, Strike
+*Fire engulfs a target of your choice and burns at your command.*
 
 Power Roll + Reason: - *11 or lower:* **5 + R fire damage** - *12-16:* **8 + R fire damage** - *17+:* **11 + R fire damage**
 
@@ -410,7 +409,7 @@ Power Roll + Reason: - *11 or lower:* **5 + R fire damage** - *12-16:* **8 + R f
 
 ### Invigorating Growth (3 Essence)
 
-*Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.* **Keywords:** Green, Magic, Ranged, Strike
+*Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
 
 Power Roll + Reason: - *11 or lower:* **4 + R poison damage** - *12-16:* **7 + R poison damage** - *17+:* **11 + R poison damage**
 
@@ -418,7 +417,7 @@ Power Roll + Reason: - *11 or lower:* **4 + R poison damage** - *12-16:* **7 + R
 
 ### Ripples In The Earth (3 Essence)
 
-*Like a stone dropped into a pond, waves in the earth radiate from you.* **Keywords:** Area, Earth, Magic
+*Like a stone dropped into a pond, waves in the earth radiate from you.*
 
 Power Roll + Reason: - *11 or lower:* **3 damage** - *12-16:* **5 damage** - *17+:* **8 damage;** M \< strong\*\*, prone\*\*
 
@@ -430,7 +429,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 ##### Conflagration (5 Essence)
 
-*A storm of fire descends upon your enemies.* **Keywords:** Area, Fire, Magic, Ranged
+*A storm of fire descends upon your enemies.*
 
 Power Roll + Reason: - *11 or lower:* **4 fire damage** - *12-16:* **6 fire damage** - *17+:* **10 fire damage**
 
@@ -438,7 +437,7 @@ Power Roll + Reason: - *11 or lower:* **4 fire damage** - *12-16:* **6 fire dama
 
 ### Instantaneous Excavation (5 Essence)
 
-*The surface of the world around you opens up at your command.* **Keywords:** Earth, Magic, Ranged
+*The surface of the world around you opens up at your command.*
 
 **Effect:** You open up two holes with 1-square openings that are 4 squares deep, and which can be placed on any mundane surface within distance. You can place these holes next to each other to create fewer holes with wider openings. When the holes open, make a separate power roll for each creature on the ground above a hole and small enough to fall in. (You can't get a critical hit with this power because it uses a maneuver.)
 
@@ -448,7 +447,7 @@ Power Roll + Reason: - *11 or lower:* **The target can shift 1 square from the e
 
 ### No More Than A Breeze (5 Essence)
 
-*The material substance of a creature shreds away at your command.* **Keywords:** Magic, Ranged, Void
+*The material substance of a creature shreds away at your command.*
 
 **Effect:** Until the start of your next turn, the target can move through solid matter, ignores difficult terrain, and their movement can't provoke opportunity attacks. If the target ends their turn inside solid matter, they are shunted out into the space where they entered it and this effect ends.
 
@@ -456,7 +455,7 @@ Power Roll + Reason: - *11 or lower:* **The target can shift 1 square from the e
 
 ## Test Of Rain (5 Essence)
 
-*You call down a rain that burns your enemies and restores your allies.* **Keywords:** Area, Green, Magic, Ranged
+*You call down a rain that burns your enemies and restores your allies.*
 
 Power Roll + Reason: - *11 or lower:* **4 acid damage** - *12-16:* **6 acid damage** - *17+:* **10 acid damage**
 
@@ -507,9 +506,9 @@ Your body is strengthened by your mind's connection to the element of permanence
 
 You gain the following ability.
 
-##### There Is No Space Between
+#### There Is No Space Between
 
-*Knowledge of the mystery reveals two spaces are the same space.* **Keywords:** Magic, Ranged, Void
+*Knowledge of the mystery reveals two spaces are the same space.*
 
 **Effect:** You open two size 1 portals in unoccupied spaces in range, which last until you move beyond distance from any portal, end the effect as a maneuver, or are dying. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly teleported to an unoccupied space of their choice within 1 square of the other portal. If an enemy is force moved into a portal, their forced movement ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
 
@@ -548,7 +547,7 @@ Choose a new heroic ability from one of the following options, each of which cos
 
 ### O Flower Aid, O Earth Defend (5 Essence)
 
-*Revitalizing plants and jagged stones grow, helping allies and hindering foes.* **Keywords:** Area, Earth, Green, Magic, Ranged **Distance:** 3 cube within 10
+*Revitalizing plants and jagged stones grow, helping allies and hindering foes.*
 
 **Effect:** Until the start of your next turn, the area gains the following effects:
 
@@ -566,7 +565,7 @@ Power Roll + Reason: - *11 or lower:* **5 + R poison damage** - *12-16:* **9 + R
 
 ### Translated Through Flame (5 Essence)
 
-*Your ally disappears, then reappears in a burst of fire!* **Keywords:** Fire, Magic, Ranged, Void
+*Your ally disappears, then reappears in a burst of fire!*
 
 **Effect:** The target is teleported to another space within distance. Make a power roll that targets each enemy adjacent to the target's new space.
 
@@ -574,7 +573,7 @@ Power Roll + Reason: - *11 or lower:* **3 fire damage** - *12-16:* **5 fire dama
 
 ## Volcano's Embrace (5 Essence)
 
-*Wrap them up in fire and melting stone.* **Keywords:** Earth, Fire, Magic, Ranged, Strike
+*Wrap them up in fire and melting stone.*
 
 Power Roll + Reason: - *11 or lower:* **5 + R fire damage;** A \< weak\*\*, restrained (save ends)\*\* - *12-16:* **9 + R fire damage;** A \< average\*\*, restrained (save ends)\*\* - *17+:* **12 + R fire damage;** A \< strong\*\*, restrained (save ends)\*\*
 
@@ -607,9 +606,9 @@ When you finish a respite, you can open a two-way portal that leads to any place
 
 You gain the following ability.
 
-##### The Earth Accepts Me
+#### The Earth Accepts Me
 
-*You can slip into the stone.* **Keywords:** Earth, Magic
+*You can slip into the stone.*
 
 **Effect:** You step into a mundane dirt, metal, or stone object (including a wall) that is as large as you or larger. You can remain inside the object for as long as you like. While inside the object, you can observe events and speak to creatures outside of it, but you don't have line of effect to anything outside the object and vice versa. You can travel through the object freely until you exit it. If the object you meld with is destroyed, you take 10 damage and exit the object.
 
@@ -619,7 +618,7 @@ You gain the following ability.
 
 #### Remember Growth And Sun And Rain
 
-*You stir any wood's memory and learn what it has seen.* **Keywords:** Green, Magic, Melee
+*You stir any wood's memory and learn what it has seen.*
 
 **Effect:** You see and hear any events that have occurred within 10 squares of the object within the last 12 hours, perceiving those events from the object's location as if you were there.
 
@@ -639,7 +638,7 @@ Each target begins to fade from existence (save ends). While fading from existen
 
 ### Maw Of Earth (7 Essence)
 
-*You open up the ground, unleashing a shower of stone and debris.* **Keywords:** Area, Earth, Magic, Ranged
+*You open up the ground, unleashing a shower of stone and debris.*
 
 Power Roll + Reason: - *11 or lower*\*\*: 5 damage\*\* - *12-16:* **9 damage** - *17+:* **12 damage**
 
@@ -647,7 +646,7 @@ Power Roll + Reason: - *11 or lower*\*\*: 5 damage\*\* - *12-16:* **9 damage** -
 
 ### Swarm Of Spirits (7 Essence)
 
-*Guardian animal spirits surround you to harry your foes and bolster your allies.* **Keywords:** Area, Green, Magic
+*Guardian animal spirits surround you to harry your foes and bolster your allies.*
 
 - **Power Roll + Reason:** o *11 or lower:* **3 damage**
 - *12-16:* **6 damage**
@@ -659,7 +658,7 @@ Power Roll + Reason: - *11 or lower*\*\*: 5 damage\*\* - *12-16:* **9 damage** -
 
 ### Wall Of Fire (7 Essence)
 
-*A blazing, beautifully organized inferno erupts at your command.* **Keywords:** Area, Fire, Magic, Ranged
+*A blazing, beautifully organized inferno erupts at your command.*
 
 **Effect:** The wall lasts until the start of your next turn, and can be placed in occupied squares. Creatures can enter and pass through the wall. When an enemy enters or starts their turn in a square of the wall, they take fire damage equal to your Reason score.
 
@@ -769,7 +768,7 @@ Power Roll + Reason: - *11 or lower*\*\*: 8 + R fire damage\*\* - *12-16:* **13 
 
 ## Storm Of Sands (9 Essence)
 
-*Dirt and debris start to swirl into a dark, pulsing hurricane.* **Keywords:** Area, Earth, Magic, Ranged
+*Dirt and debris start to swirl into a dark, pulsing hurricane.*
 
 Power Roll + Reason: - *11 or lower*\*\*: 2 damage\*\* - *12-16:* **5 damage** - *17+:* **7 damage**
 
@@ -779,7 +778,7 @@ Power Roll + Reason: - *11 or lower*\*\*: 2 damage\*\* - *12-16:* **5 damage** -
 
 ## Subverted Perception Of Space (9 Essence)
 
-*You rip an enemy's world in twain.* **Keywords:** Magic, Ranged, Strike, Void
+*You rip an enemy's world in twain.*
 
 Power Roll + Reason: - *11 or lower*\*\*: 9 + R corruption damage\*\* - *12-16:* **10 + R corruption damage; the target can't have line of effect to targets 5 or more squares away until the start of your next turn** - *17+:* **15 + R corruption damage; the target can't have line of effect to targets 2 or more squares away until the start of your next turn**
 
@@ -787,7 +786,7 @@ Power Roll + Reason: - *11 or lower*\*\*: 9 + R corruption damage\*\* - *12-16:*
 
 ### Web Of All That's Come Before (9 Essence)
 
-*Threads you've been weaving through your adventures fray into a vibrant, pearlescent web.* **Keywords:** Area, Green, Magic, Ranged
+*Threads you've been weaving through your adventures fray into a vibrant, pearlescent web.*
 
 Power Roll + Reason: - *11 or lower:* **2 holy damage; A \< \[weak\] restrained (save ends)** - *12-16:* **3 holy damage; A \< \[average\] restrained (save ends)** - *17+:* **5 holy damage; A \< \[strong\] restrained (save ends)**
 
@@ -828,7 +827,7 @@ Choose a new heroic ability from one of the following options. Alternatively, yo
 
 ### Magma Titan (9 Essence)
 
-*Their body swells with lava, mud, and might, towering over their enemies.* **Keywords:** Earth, Fire, Green, Magic, Ranged
+*Their body swells with lava, mud, and might, towering over their enemies.*
 
 **Effect:** Until the start of your next turn, the target gains the following effects:
 
@@ -842,7 +841,7 @@ Choose a new heroic ability from one of the following options. Alternatively, yo
 
 ### Meteor (9 Essence)
 
-*You teleport the target into the air and let the ground do the rest.* **Keywords:** Area, Earth, Fire, Magic, Ranged, Void **Type:** Action
+*You teleport the target into the air and let the ground do the rest.*
 
 Power Roll + Reason: - *11 or lower*\*\*: teleport 4 squares\*\* - *12-16:* **teleport 6 squares** - *17+:* **teleport 8 squares**
 
@@ -850,7 +849,7 @@ Power Roll + Reason: - *11 or lower*\*\*: teleport 4 squares\*\* - *12-16:* **te
 
 ### The Wode Remembers And Returns (9 Essence)
 
-*You create a terrarium, from canopy above to underbrush below.* **Keywords:** Area, Earth, Green, Magic, Void
+*You create a terrarium, from canopy above to underbrush below.*
 
 **Effect:** The affected area becomes dark and verdant with trees and plant life appearing in unoccupied spaces within it until the start of your next turn. The affected area is considered difficult terrain for enemies. Allies that end their turn in the affected area have cover.
 
@@ -890,7 +889,7 @@ You gain any one perk of your choice. See Perks for more information.
 
 Your specialization grants you a feature as shown on the 8th-Level Elementalist Specialization Features table.
 
-#### **8th-level Elementalist Specialization Features**
+#### 8th-level Elementalist Specialization Features
 
 | Specialization | Feature                |
 | -------------- | ---------------------- |
@@ -925,7 +924,7 @@ You gain the following ability:
 
 #### Summon Source Of Earth
 
-*The ground rumbles as they burst forth, ready to serve.* **Keywords:** Earth, Magic, Persistent
+*The ground rumbles as they burst forth, ready to serve.*
 
 | **Type:** Action |     |
 | ---------------- | --- |
@@ -968,13 +967,13 @@ Choose one heroic ability from the following options.
 
 ### Heart Of The Wode (11 Essence)
 
-*You call forth one of the Great Tree's many splinters to provide for your every need.* **Keywords:** Green, Magic, Ranged
+*You call forth one of the Great Tree's many splinters to provide for your every need.*
 
 **Effect:** A size 5 tree appears in an unoccupied space within range. The tree has 100 Stamina and can't be force moved. When you or an ally start your turn with line of effect to the tree, that creature can end one condition or effect that has a duration of EoT or can be ended by a saving throw that is effect affecting them or stand up from prone. You and all allies can touch the tree to use Catch Breath as a free maneuver. An enemy who ends their turn within 3 squares of the tree are restrained until the end of their next turn and can use their action to end the effect early.
 
 ### Muse Of Fire (11 Essence)
 
-*The fire burns hot enough to sear the face of any god watching.* **Keywords:** Area, Fire, Magic
+*The fire burns hot enough to sear the face of any god watching.*
 
 | **Type:** Action |     |
 | ---------------- | --- |
@@ -990,7 +989,7 @@ o *11 or lower*: 7 **fire damage; Director loses 2 Malice**
 
 ### Return To Oblivion (11 Essence)
 
-*You create a tear in reality that could consume everything that slips inside of it.* **Keywords:** Area, Magic, Ranged, Void
+*You create a tear in reality that could consume everything that slips inside of it.*
 
 | **Type:** Action |     |
 | ---------------- | --- |
@@ -1027,7 +1026,7 @@ Choose one heroic ability from the following options. Alternatively, you can cho
 
 ### The Earth Rejects You (11 Essence)
 
-*Everyone and everything gets blown away in a hail of rocks and debris.* **Keywords:** Area, Earth, Magic, Ranged
+*Everyone and everything gets blown away in a hail of rocks and debris.*
 
 Power Roll + Reason: - *11 or lower:* **6 damage** - *12-16:* **9 damage** - *17+:* **13 damage**
 
@@ -1035,11 +1034,10 @@ Power Roll + Reason: - *11 or lower:* **6 damage** - *12-16:* **9 damage** - *17
 
 ### The Green Defends Its Servants (11 Essence)
 
-*A luminous green shield that shows its true beauty the more it cracks.* **Keywords:** | Green, Magic, Ranged
+*A luminous green shield that shows its true beauty the more it cracks.*
 
-| **Type:**     | Maneuver          |     |     |
-| ------------- | ----------------- | --- | --- |
-| **Distance:** | Self or Ranged 10 |     |     |
+| **Type:** | Maneuver |     |     |
+| --------- | -------- | --- | --- |
 
 **Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the ward is active, the target can take the Defend action as a maneuver on each of their turns. The target gains 30 temporary Stamina that lasts until depleted or the ward is no longer active. When this temporary Stamina disappears, the ward ends. When the ability ends, the ward explodes. Each enemy within 5 of the target takes 10 damage.
 
@@ -1047,17 +1045,16 @@ Power Roll + Reason: - *11 or lower:* **6 damage** - *12-16:* **9 damage** - *17
 
 ### Prism (11 Essence)
 
-*In one act, you split your essence, allowing you to cast multiple effects at once.* **Keywords:** | Magic, Void
+*In one act, you split your essence, allowing you to cast multiple effects at once.*
 
-| **Type:**     | Action |     |     |
-| ------------- | ------ | --- | --- |
-| **Distance:** | Self   |     |     |
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 **Effect:** You use up to three heroic abilities whose cost totals 11 essence or less (other than spending essence to use this ability, you don't have to spend more essence to use those abilities). You can shift 2 between each ability.
 
 ### Unquenchable Fire (11 Essence)
 
-*You let fly a fiery missile braided with every primal element at your disposal.* **Keywords:** Fire, Magic, Ranged, Strike
+*You let fly a fiery missile braided with every primal element at your disposal.*
 
 **Power Roll + Reason:**
 

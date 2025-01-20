@@ -4,6 +4,11 @@ title: Revenant
 name_raw: Revenant
 name: Revenant
 type: ancestries
+keywords: Magic, Ranged, Strike
+keyword_list:
+  - Magic
+  - Ranged
+  - Strike
 ability_type: Action
 distance: Ranged 10
 target: 1 creature with your sigil
@@ -129,12 +134,12 @@ Additionally, you gain the following signature ability.
 
 ### Detonate Sigil
 
-*A magical sigil you placed on a creature explodes with energy.* **Keywords:** Magic, Ranged, Strike
+*A magical sigil you placed on a creature explodes with energy.*
 
-|                         |                                        |
-| :---------------------- | :------------------------------------- |
-| **Keywords:**           | **Type:** Action                       |
-| **Distance:** Ranged 10 | **Target:** 1 creature with your sigil |
+|                                     |                                        |
+| :---------------------------------- | :------------------------------------- |
+| **Keywords:** Magic, Ranged, Strike | **Type:** Action                       |
+| **Distance:** Ranged 10             | **Target:** 1 creature with your sigil |
 
 **Power Roll + Reason, Intuition, or Presence:**
 

@@ -7,19 +7,25 @@ cost: 9 Piety
 type: classes
 subtype: conduit
 kind: 6th-level features
+keywords: \| Magic, Ranged, Strike
+keyword_list:
+  - \| Magic
+  - Ranged
+  - Strike
+distance: \| Ranged 5
 target: \| 1 creature \|
 ---
 
 # Blade Of The Heavens (9 Piety)
 
-*A greatsword streams down from the sky, threatening to pin your foe.* **Keywords:** | Magic, Ranged, Strike
+*A greatsword streams down from the sky, threatening to pin your foe.*
 
-| **Type:**                            | Action                            |     |     |
-| ------------------------------------ | --------------------------------- | --- | --- |
-| **Distance:**                        | Ranged 5                          |     |     |
-|                                      |                                   |     |     |
-| :----------------------------------- | :-------------------------------- |     |     |
-| **Keywords:**                        | **Type:**                         |     |     |
-| **Distance:**                        | **Target:** \| 1 creature \|      |     |     |
+|                                        |                              |
+| :------------------------------------- | :--------------------------- |
+| **Keywords:** \| Magic, Ranged, Strike | **Type:**                    |
+| **Distance:** \| Ranged 5              | **Target:** \| 1 creature \| |
+
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 Power Roll + Intuition: - *11 or lower:* **8 + I damage; A \< \[weak\] prone and restrained (save ends)** - *12-16:* **12 + I damage; A \< \[average\] prone and restrained (save ends)** - *17+:* **16 + I damage; A \< \[strong\] prone and restrained (save ends)**

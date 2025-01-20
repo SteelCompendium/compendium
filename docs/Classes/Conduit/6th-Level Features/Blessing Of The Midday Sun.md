@@ -7,6 +7,10 @@ cost: 9 Piety
 type: classes
 subtype: conduit
 kind: 6th-level features
+keywords: Area, Magic
+keyword_list:
+  - Area
+  - Magic
 ability_type: Maneuver
 distance: 4 Aura
 target: All creatures, including you
@@ -14,11 +18,11 @@ target: All creatures, including you
 
 # Blessing Of The Midday Sun (9 Piety)
 
-*Your body emits a heat that bakes your enemies and inspires your allies.* **Keywords:** Area, Magic
+*Your body emits a heat that bakes your enemies and inspires your allies.*
 
-|                      |                                          |
-| :------------------- | :--------------------------------------- |
-| **Keywords:**        | **Type:** Maneuver                       |
-| **Distance:** 4 Aura | **Target:** All creatures, including you |
+|                           |                                          |
+| :------------------------ | :--------------------------------------- |
+| **Keywords:** Area, Magic | **Type:** Maneuver                       |
+| **Distance:** 4 Aura      | **Target:** All creatures, including you |
 
 **Effect:** Until the end of the encounter or you start dying, enemies in the aura take a bane on all power rolls and you and allies in the aura gain a surge at the end of your turns.

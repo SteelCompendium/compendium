@@ -5,6 +5,11 @@ name_raw: Giant Slayer
 name: Giant Slayer
 type: titles
 subtype: 2nd echelon
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: 1 creature
@@ -24,12 +29,12 @@ Choose one of the following benefits:
 
 ## Costs 7 Heroic Resources: The Harder They Fall
 
-*Timber!* **Keywords:** Melee, Strike, Weapon
+*Timber!*
 
-|                       |                        |
-| :-------------------- | :--------------------- |
-| **Keywords:**         | **Type:** Action       |
-| **Distance:** Melee 1 | **Target:** 1 creature |
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action       |
+| **Distance:** Melee 1               | **Target:** 1 creature |
 
 **Power Roll + Might or Agility:**
 

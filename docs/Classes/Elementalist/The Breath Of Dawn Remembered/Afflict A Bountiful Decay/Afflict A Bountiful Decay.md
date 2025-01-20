@@ -6,17 +6,26 @@ name: Afflict A Bountiful Decay
 type: classes
 subtype: elementalist
 kind: the breath of dawn remembered
-target: One creature **Type:** Action
+keywords: Green, Rot, Magic, Ranged, Strike
+keyword_list:
+  - Green
+  - Rot
+  - Magic
+  - Ranged
+  - Strike
+ability_type: Action
+distance: Ranged 10
+target: One creature
 ---
 
 # Afflict A Bountiful Decay
 
-*Your curse causes a foe's flesh to rot off as spores that aid your allies.* **Keywords:** Green, Rot, Magic, Ranged, Strike **Distance:** Ranged 10
+*Your curse causes a foe's flesh to rot off as spores that aid your allies.*
 
-|               |                                           |
-| :------------ | :---------------------------------------- |
-| **Keywords:** | **Type:**                                 |
-| **Distance:** | **Target:** One creature **Type:** Action |
+|                                                 |                          |
+| :---------------------------------------------- | :----------------------- |
+| **Keywords:** Green, Rot, Magic, Ranged, Strike | **Type:** Action         |
+| **Distance:** Ranged 10                         | **Target:** One creature |
 
 Power Roll + Reason: - *11 or lower:* **2 + R corruption damage** - *12-16:* **4 + R corruption damage** - *17+:* **6 + R corruption damage**
 

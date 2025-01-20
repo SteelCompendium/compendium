@@ -6,20 +6,26 @@ name: Instigator
 type: classes
 subtype: troubadour
 kind: choreography
+keywords: \| Melee, Strike, Weapon
+keyword_list:
+  - \| Melee
+  - Strike
+  - Weapon
+distance: \| Melee 1
 target: \| One creature \|
 ---
 
 # Instigator
 
-*I didn't do it! What?* **Keywords:** | Melee, Strike, Weapon
+*I didn't do it! What?*
 
-| **Type:**                            | Action                            |     |     |
-| ------------------------------------ | --------------------------------- | --- | --- |
-| **Distance:**                        | Melee 1                           |     |     |
-|                                      |                                   |     |     |
-| :----------------------------------- | :-------------------------------- |     |     |
-| **Keywords:**                        | **Type:**                         |     |     |
-| **Distance:**                        | **Target:** \| One creature \|    |     |     |
+|                                        |                                |
+| :------------------------------------- | :----------------------------- |
+| **Keywords:** \| Melee, Strike, Weapon | **Type:**                      |
+| **Distance:** \| Melee 1               | **Target:** \| One creature \| |
+
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 Power Roll + Presence: - *11 or lower:* **3 + P damage** - *12-16:* **6 + P damage** - *17+:* **9 + P damage**
 

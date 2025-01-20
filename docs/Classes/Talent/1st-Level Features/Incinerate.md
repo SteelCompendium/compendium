@@ -6,23 +6,26 @@ name: Incinerate
 type: classes
 subtype: talent
 kind: 1st-level features
-keywords: Area, Fire, Ranged, Psionic, Pyrokinesis **Type:** Action **Distance:** 3 cube within 10 **Target:** Each enemy in the area
+keywords: Area, Fire, Ranged, Psionic, Pyrokinesis
 keyword_list:
   - Area
   - Fire
   - Ranged
   - Psionic
-  - Pyrokinesis **Type:** Action **Distance:** 3 cube within 10 **Target:** Each enemy in the area
+  - Pyrokinesis
+ability_type: Action
+distance: 3 cube within 10
+target: Each enemy in the area
 ---
 
 # Incinerate
 
 *The air erupts into a column of smokeless flame.*
 
-|                                                                                                                                           |             |
-| :---------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Keywords:** Area, Fire, Ranged, Psionic, Pyrokinesis **Type:** Action **Distance:** 3 cube within 10 **Target:** Each enemy in the area | **Type:**   |
-| **Distance:**                                                                                                                             | **Target:** |
+|                                                        |                                    |
+| :----------------------------------------------------- | :--------------------------------- |
+| **Keywords:** Area, Fire, Ranged, Psionic, Pyrokinesis | **Type:** Action                   |
+| **Distance:** 3 cube within 10                         | **Target:** Each enemy in the area |
 
 Power Roll + Reason: - *11 or lower:* **2 fire damage** - *12-16:* **4 fire damage** - *17+:* **6 fire damage**
 

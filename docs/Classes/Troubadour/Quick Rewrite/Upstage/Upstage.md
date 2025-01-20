@@ -7,20 +7,26 @@ cost: 3 Drama
 type: classes
 subtype: troubadour
 kind: quick rewrite
+keywords: \| Melee, Strike, Weapon
+keyword_list:
+  - \| Melee
+  - Strike
+  - Weapon
+distance: \| Self; see below
 target: \| Self \|
 ---
 
 # Upstage (3 Drama)
 
-*As you bob and weave through the crowd, you can't help but leave the audience wanting more.* **Keywords:** | Melee, Strike, Weapon
+*As you bob and weave through the crowd, you can't help but leave the audience wanting more.*
 
-| **Type:**                            | Maneuver                          |     |     |
-| ------------------------------------ | --------------------------------- | --- | --- |
-| **Distance:**                        | Self; see below                   |     |     |
-|                                      |                                   |     |     |
-| :----------------------------------- | :-------------------------------- |     |     |
-| **Keywords:**                        | **Type:**                         |     |     |
-| **Distance:**                        | **Target:** \| Self \|            |     |     |
+|                                        |                        |
+| :------------------------------------- | :--------------------- |
+| **Keywords:** \| Melee, Strike, Weapon | **Type:**              |
+| **Distance:** \| Self; see below       | **Target:** \| Self \| |
+
+| **Type:** | Maneuver |     |     |
+| --------- | -------- | --- | --- |
 
 **Effect:** You shift up to your speed. You make one power roll that targets each enemy who becomes adjacent to you during the shift.
 

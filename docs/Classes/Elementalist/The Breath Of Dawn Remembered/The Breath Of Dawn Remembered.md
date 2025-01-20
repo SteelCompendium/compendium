@@ -6,6 +6,11 @@ name: The Breath Of Dawn Remembered
 type: classes
 subtype: elementalist
 kind: the breath of dawn remembered
+keywords: Green, Magic, Ranged
+keyword_list:
+  - Green
+  - Magic
+  - Ranged
 ability_type: Triggered
 distance: Ranged 10
 target: Self or one ally
@@ -14,12 +19,12 @@ trigger: The target starts their turn or takes damage.
 
 # The Breath Of Dawn Remembered
 
-*The power you channel grants the ability to get back in the fight.* **Keywords:** Green, Magic, Ranged
+*The power you channel grants the ability to get back in the fight.*
 
-|                         |                              |
-| :---------------------- | :--------------------------- |
-| **Keywords:**           | **Type:** Triggered          |
-| **Distance:** Ranged 10 | **Target:** Self or one ally |
+|                                    |                              |
+| :--------------------------------- | :--------------------------- |
+| **Keywords:** Green, Magic, Ranged | **Type:** Triggered          |
+| **Distance:** Ranged 10            | **Target:** Self or one ally |
 
 **Trigger:** The target starts their turn or takes damage.
 

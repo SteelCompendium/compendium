@@ -5,6 +5,11 @@ name_raw: Censor
 name: Censor
 type: classes
 subtype: censor
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: One creature
@@ -18,12 +23,12 @@ You're at your best against the strongest foes. Your judgments terrify heretics,
 
 ## Censored (5 Wrath)
 
-*Judged and sentenced.* **Keywords:** Melee, Strike, Weapon
+*Judged and sentenced.*
 
-|                       |                          |
-| :-------------------- | :----------------------- |
-| **Keywords:**         | **Type:** Action         |
-| **Distance:** Melee 1 | **Target:** One creature |
+|                                     |                          |
+| :---------------------------------- | :----------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action         |
+| **Distance:** Melee 1               | **Target:** One creature |
 
 Power Roll + Might: - *11 or lower:* **2 + M holy damage** - *12-16:* **3 + M holy damage** - *17+:* **5 + M holy damage**
 

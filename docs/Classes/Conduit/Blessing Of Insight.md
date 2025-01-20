@@ -6,6 +6,10 @@ name: Blessing Of Insight
 cost: 5 Piety
 type: classes
 subtype: conduit
+keywords: Magic, Ranged
+keyword_list:
+  - Magic
+  - Ranged
 ability_type: Maneuver
 distance: Ranged 10
 target: Self and each ally in the area
@@ -13,11 +17,11 @@ target: Self and each ally in the area
 
 # Blessing Of Insight (5 Piety)
 
-*The gods grant insight revealing where best to strike your enemies.* **Keywords:** Magic, Ranged
+*The gods grant insight revealing where best to strike your enemies.*
 
-|                         |                                            |
-| :---------------------- | :----------------------------------------- |
-| **Keywords:**           | **Type:** Maneuver                         |
-| **Distance:** Ranged 10 | **Target:** Self and each ally in the area |
+|                             |                                            |
+| :-------------------------- | :----------------------------------------- |
+| **Keywords:** Magic, Ranged | **Type:** Maneuver                         |
+| **Distance:** Ranged 10     | **Target:** Self and each ally in the area |
 
 **Effect:** Until the end of the encounter or until you are dying, each target gains a surge at the end of each of your turns.

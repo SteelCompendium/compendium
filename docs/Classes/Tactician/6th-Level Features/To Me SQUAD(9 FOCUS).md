@@ -7,6 +7,12 @@ cost: 9 Focus
 type: classes
 subtype: tactician
 kind: 6th-level features
+keywords: Charge, Melee, Strike, Weapon
+keyword_list:
+  - Charge
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: 1 creature
@@ -14,12 +20,12 @@ target: 1 creature
 
 # To Me, Squad!(9 Focus)
 
-*You lead your allies in a charge.* **Keywords:** Charge, Melee, Strike, Weapon
+*You lead your allies in a charge.*
 
-|                       |                        |
-| :-------------------- | :--------------------- |
-| **Keywords:**         | **Type:** Action       |
-| **Distance:** Melee 1 | **Target:** 1 creature |
+|                                             |                        |
+| :------------------------------------------ | :--------------------- |
+| **Keywords:** Charge, Melee, Strike, Weapon | **Type:** Action       |
+| **Distance:** Melee 1                       | **Target:** 1 creature |
 
 Power Roll + Might: - *11 or lower:* **6 + M damage; an ally within 10 can take the Charge action and make a signature melee strike instead of a free strike against the target as a free triggered action** - *12-16:* **9 + M damage; an ally within 10 can use the Charge action and make a signature melee strike with an edge instead of a free strike against the target as a free triggered action** - *17+:* **13 + M damage; two allies within 10 can use the Charge action and make a signature melee strike with an edge instead of a free strike against the target as a free triggered action**
 

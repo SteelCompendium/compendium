@@ -7,6 +7,11 @@ cost: 3 Wrath
 type: classes
 subtype: censor
 kind: behold a shield of faith(3 wrath)
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: One creature or object
@@ -14,12 +19,12 @@ target: One creature or object
 
 # The Gods Punish And Defend (3 Wrath)
 
-*You channel holy energy to smite a foe and heal an ally.* **Keywords:** Melee, Strike, Weapon
+*You channel holy energy to smite a foe and heal an ally.*
 
-|                       |                                    |
-| :-------------------- | :--------------------------------- |
-| **Keywords:**         | **Type:** Action                   |
-| **Distance:** Melee 1 | **Target:** One creature or object |
+|                                     |                                    |
+| :---------------------------------- | :--------------------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action                   |
+| **Distance:** Melee 1               | **Target:** One creature or object |
 
 **Power Roll + Might:**
 

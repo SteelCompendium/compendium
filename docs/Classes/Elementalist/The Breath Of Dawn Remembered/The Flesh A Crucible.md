@@ -7,6 +7,12 @@ cost: 3 Essence
 type: classes
 subtype: elementalist
 kind: the breath of dawn remembered
+keywords: Fire, Magic, Ranged, Strike
+keyword_list:
+  - Fire
+  - Magic
+  - Ranged
+  - Strike
 ability_type: Action
 distance: Ranged 10
 target: One creature or object
@@ -14,12 +20,12 @@ target: One creature or object
 
 # The Flesh, A Crucible (3 Essence)
 
-*Fire engulfs a target of your choice and burns at your command.* **Keywords:** Fire, Magic, Ranged, Strike
+*Fire engulfs a target of your choice and burns at your command.*
 
-|                         |                                    |
-| :---------------------- | :--------------------------------- |
-| **Keywords:**           | **Type:** Action                   |
-| **Distance:** Ranged 10 | **Target:** One creature or object |
+|                                           |                                    |
+| :---------------------------------------- | :--------------------------------- |
+| **Keywords:** Fire, Magic, Ranged, Strike | **Type:** Action                   |
+| **Distance:** Ranged 10                   | **Target:** One creature or object |
 
 Power Roll + Reason: - *11 or lower:* **5 + R fire damage** - *12-16:* **8 + R fire damage** - *17+:* **11 + R fire damage**
 

@@ -6,19 +6,23 @@ name: Mark
 type: classes
 subtype: tactician
 kind: 1st-level features
-ability_type: Maneuver **Distance:** Ranged 10
+keywords: Ranged
+keyword_list:
+  - Ranged
+ability_type: Maneuver
+distance: Ranged 10
 target: One creature
 trigger: '- The ability deals additional damage equal to twice your Reason score. - The damage dealer can spend a Recovery.'
 ---
 
 # Mark
 
-*You draw your allies' attention to a specific foe--with devastating effect.* **Keywords:** Ranged
+*You draw your allies' attention to a specific foe--with devastating effect.*
 
-|               |                                            |
-| :------------ | :----------------------------------------- |
-| **Keywords:** | **Type:** Maneuver **Distance:** Ranged 10 |
-| **Distance:** | **Target:** One creature                   |
+|                         |                          |
+| :---------------------- | :----------------------- |
+| **Keywords:** Ranged    | **Type:** Maneuver       |
+| **Distance:** Ranged 10 | **Target:** One creature |
 
 **Effect:** The target is marked by you until the end of the encounter, you die, you use this ability again, or you willingly end this effect (no action required). If another tactician marks the target, then your mark on the target ends. You can have one target marked this way, but other tactician abilities can allow you to have multiple marked creatures.
 

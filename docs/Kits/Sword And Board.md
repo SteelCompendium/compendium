@@ -4,6 +4,11 @@ title: Sword And Board
 name_raw: Sword And Board
 name: Sword And Board
 type: kits
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: 1 creature
@@ -28,12 +33,12 @@ You wear [[Medium|medium]] armor and wield a shield and a [[Medium|medium]] weap
 
 ### Shield Bash
 
-*In your hands, a shield isn't just for protection.* **Keywords:** Melee, Strike, Weapon
+*In your hands, a shield isn't just for protection.*
 
-|                       |                        |
-| :-------------------- | :--------------------- |
-| **Keywords:**         | **Type:** Action       |
-| **Distance:** Melee 1 | **Target:** 1 creature |
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action       |
+| **Distance:** Melee 1               | **Target:** 1 creature |
 
 **Power Roll + Might or Agility:**
 

@@ -24,6 +24,8 @@ As an elementalist, you gain the following features.
 
 [PRACTICAL MAGIC](./Practical%20Magic.md)
 
+[PRACTICAL MAGIC](./Practical%20Magic.md)
+
 [1ST-LEVEL SPECIALIZATION FEATURE](./1st-Level%20Specialization%20Feature/1st-Level%20Specialization%20Feature.md)
 
 [SHARED VOID SENSE](./Shared%20Void%20Sense/Shared%20Void%20Sense.md)

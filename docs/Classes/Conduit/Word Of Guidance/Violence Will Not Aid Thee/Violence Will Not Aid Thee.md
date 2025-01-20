@@ -7,6 +7,11 @@ cost: 3 Piety
 type: classes
 subtype: conduit
 kind: word of guidance
+keywords: Magic, Ranged, Strike
+keyword_list:
+  - Magic
+  - Ranged
+  - Strike
 ability_type: Action
 distance: Ranged 10
 target: One creature
@@ -14,12 +19,12 @@ target: One creature
 
 # Violence Will Not Aid Thee (3 Piety)
 
-*After some holy lightning, your enemy will think twice about their next attack.* **Keywords:** Magic, Ranged, Strike
+*After some holy lightning, your enemy will think twice about their next attack.*
 
-|                         |                          |
-| :---------------------- | :----------------------- |
-| **Keywords:**           | **Type:** Action         |
-| **Distance:** Ranged 10 | **Target:** One creature |
+|                                     |                          |
+| :---------------------------------- | :----------------------- |
+| **Keywords:** Magic, Ranged, Strike | **Type:** Action         |
+| **Distance:** Ranged 10             | **Target:** One creature |
 
 **Power Roll + Intuition:**
 

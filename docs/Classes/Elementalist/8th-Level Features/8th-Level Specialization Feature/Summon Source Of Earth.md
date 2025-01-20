@@ -6,20 +6,26 @@ name: Summon Source Of Earth
 type: classes
 subtype: elementalist
 kind: 8th-level features
+keywords: Earth, Magic, Persistent
+keyword_list:
+  - Earth
+  - Magic
+  - Persistent
 distance: Ranged 10
 target: Special \|
 ---
 
 # Summon Source Of Earth
 
-*The ground rumbles as they burst forth, ready to serve.* **Keywords:** Earth, Magic, Persistent
+*The ground rumbles as they burst forth, ready to serve.*
 
-| **Type:** Action                     |                                   |
-| ------------------------------------ | --------------------------------- |
-|                                      |                                   |
-| :----------------------------------- | :-------------------------------- |
-| **Keywords:**                        | **Type:**                         |
-| **Distance:** Ranged 10              | **Target:** Special \|            |
+|                                        |                        |
+| :------------------------------------- | :--------------------- |
+| **Keywords:** Earth, Magic, Persistent | **Type:**              |
+| **Distance:** Ranged 10                | **Target:** Special \| |
+
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Effect:** A **source of earth** emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking an action or a maneuver but not both. The source is dismissed at the start of your next turn.
 

@@ -5,9 +5,13 @@ name_raw: Heist Hero
 name: Heist Hero
 type: titles
 subtype: 2nd echelon
+keywords: --
+keyword_list:
+  - --
 ability_type: Triggered
 distance: Ranged 10
-target: 1 creature **Trigger:** An ally makes a test to lie to, pickpocket, hide from, or sneak by a creature within distance and doesn't like the result
+target: 1 creature
+trigger: An ally makes a test to lie to, pickpocket, hide from, or sneak by a creature within distance and doesn't like the result
 ---
 
 # Heist Hero
@@ -22,11 +26,13 @@ Choose one of the following benefits:
 
 ## Timely Distraction
 
-*Coming through with hot soup! I better watch out for that banana peel!* **Keywords:** --
+*Coming through with hot soup! I better watch out for that banana peel!*
 
-|                         |                                                                                                                                                                         |
-| :---------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Keywords:**           | **Type:** Triggered                                                                                                                                                     |
-| **Distance:** Ranged 10 | **Target:** 1 creature **Trigger:** An ally makes a test to lie to, pickpocket, [[Hide\|hide]] from, or sneak by a creature within distance and doesn't like the result |
+|                         |                        |
+| :---------------------- | :--------------------- |
+| **Keywords:** --        | **Type:** Triggered    |
+| **Distance:** Ranged 10 | **Target:** 1 creature |
+
+**Trigger:** An ally makes a test to lie to, pickpocket, [[Hide|hide]] from, or sneak by a creature within distance and doesn't like the result
 
 **Effect:** You momentarily attract the creature's notice. Your ally can reroll their test. Once you have used Timely Distraction, you can't use it again on the same creature for at least 1 hour.

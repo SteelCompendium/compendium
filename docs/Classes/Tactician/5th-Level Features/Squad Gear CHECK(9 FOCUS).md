@@ -7,6 +7,11 @@ cost: 9 Focus
 type: classes
 subtype: tactician
 kind: 5th-level features
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: 1 creature
@@ -14,12 +19,12 @@ target: 1 creature
 
 # Squad! Gear Check!(9 Focus)
 
-*You distract a foe while your allies secure their defensive gear.* **Keywords:** Melee, Strike, Weapon
+*You distract a foe while your allies secure their defensive gear.*
 
-|                       |                        |
-| :-------------------- | :--------------------- |
-| **Keywords:**         | **Type:** Action       |
-| **Distance:** Melee 1 | **Target:** 1 creature |
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action       |
+| **Distance:** Melee 1               | **Target:** 1 creature |
 
 Power Roll + Might: - *11 or lower:* **9 + M damage** - *12-16:* **13 + M damage** - *17+:* **18 + M damage**
 

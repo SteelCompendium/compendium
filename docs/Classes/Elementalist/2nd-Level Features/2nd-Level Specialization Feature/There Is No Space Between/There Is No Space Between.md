@@ -6,6 +6,11 @@ name: There Is No Space Between
 type: classes
 subtype: elementalist
 kind: 2nd-level features
+keywords: Magic, Ranged, Void
+keyword_list:
+  - Magic
+  - Ranged
+  - Void
 ability_type: Maneuver
 distance: Ranged 10
 target: Special
@@ -13,16 +18,12 @@ target: Special
 
 # There Is No Space Between
 
-You gain the following ability.
+*Knowledge of the mystery reveals two spaces are the same space.*
 
-## There Is No Space Between
-
-*Knowledge of the mystery reveals two spaces are the same space.* **Keywords:** Magic, Ranged, Void
-
-|                         |                     |
-| :---------------------- | :------------------ |
-| **Keywords:**           | **Type:** Maneuver  |
-| **Distance:** Ranged 10 | **Target:** Special |
+|                                   |                     |
+| :-------------------------------- | :------------------ |
+| **Keywords:** Magic, Ranged, Void | **Type:** Maneuver  |
+| **Distance:** Ranged 10           | **Target:** Special |
 
 **Effect:** You open two size 1 portals in unoccupied spaces in range, which last until you move beyond distance from any portal, end the effect as a maneuver, or are dying. Each portal must be placed at a height of no more than 1 square above the ground. When you or any ally touch a portal, that creature can choose to be instantly teleported to an unoccupied space of their choice within 1 square of the other portal. If an enemy is force moved into a portal, their forced movement ends and they emerge from the other portal in an unoccupied space chosen by the creature who force moved them.
 

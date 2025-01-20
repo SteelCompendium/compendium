@@ -6,6 +6,11 @@ name: Motivate Earth
 type: classes
 subtype: elementalist
 kind: 1st-level features
+keywords: Earth, Magic, Melee
+keyword_list:
+  - Earth
+  - Magic
+  - Melee
 ability_type: Action
 distance: Melee 1
 target: Special
@@ -13,12 +18,12 @@ target: Special
 
 # Motivate Earth
 
-*The earth rises, falls, or opens up at your command.* **Keywords:** Earth, Magic, Melee
+*The earth rises, falls, or opens up at your command.*
 
-|                       |                     |
-| :-------------------- | :------------------ |
-| **Keywords:**         | **Type:** Action    |
-| **Distance:** Melee 1 | **Target:** Special |
+|                                   |                     |
+| :-------------------------------- | :------------------ |
+| **Keywords:** Earth, Magic, Melee | **Type:** Action    |
+| **Distance:** Melee 1             | **Target:** Special |
 
 **Effect:** You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
 

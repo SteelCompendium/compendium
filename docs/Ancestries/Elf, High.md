@@ -108,7 +108,7 @@ You have senses that are keen and perceptive. You have an edge on Intuition test
 
 Accessing memories is as easy as living in the present for you. You have an edge on all tests made to recall lore.
 
-##### Otherworldly Grace (costs 2 Points)
+#### Otherworldly Grace (costs 2 Points)
 
 Your elf body and mind can't be contained for long. You succeed on saving throws when you get a 5 or higher.
 

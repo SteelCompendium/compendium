@@ -20,6 +20,8 @@ As a conduit, you gain the following features.
 
 [HEALING GRACE](./Healing%20Grace.md)
 
+[HEALING GRACE](./Healing%20Grace.md)
+
 [RAY OF WRATH](./Ray%20Of%20Wrath.md)
 
 [RAY OF WRATH](./Ray%20Of%20Wrath.md)

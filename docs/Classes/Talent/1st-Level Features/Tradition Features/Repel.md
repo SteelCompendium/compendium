@@ -6,6 +6,10 @@ name: Repel
 type: classes
 subtype: talent
 kind: 1st-level features
+keywords: Psionic, Ranged
+keyword_list:
+  - Psionic
+  - Ranged
 ability_type: Triggered
 distance: Ranged 10
 target: Self or one ally
@@ -14,16 +18,12 @@ trigger: The target takes damage or is force moved.
 
 # Repel
 
-You gain the following ability.
+*They aren't going anywhere, but you might!*
 
-## Repel
-
-*They aren't going anywhere, but you might!* **Keywords:** Psionic, Ranged
-
-|                         |                              |
-| :---------------------- | :--------------------------- |
-| **Keywords:**           | **Type:** Triggered          |
-| **Distance:** Ranged 10 | **Target:** Self or one ally |
+|                               |                              |
+| :---------------------------- | :--------------------------- |
+| **Keywords:** Psionic, Ranged | **Type:** Triggered          |
+| **Distance:** Ranged 10       | **Target:** Self or one ally |
 
 **Trigger:** The target takes damage or is force moved.
 

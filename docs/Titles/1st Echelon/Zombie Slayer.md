@@ -5,6 +5,10 @@ name_raw: Zombie Slayer
 name: Zombie Slayer
 type: titles
 subtype: 1st echelon
+keywords: Area, Magic
+keyword_list:
+  - Area
+  - Magic
 ability_type: Maneuver
 distance: 3 burst
 target: All enemies
@@ -24,12 +28,12 @@ Choose one of the following benefits:
 
 ## Costs 3 Heroic Resources: Holy Terror
 
-*Return to your grave!* **Keywords:** Area, Magic
+*Return to your grave!*
 
-|                       |                         |
-| :-------------------- | :---------------------- |
-| **Keywords:**         | **Type:** Maneuver      |
-| **Distance:** 3 burst | **Target:** All enemies |
+|                           |                         |
+| :------------------------ | :---------------------- |
+| **Keywords:** Area, Magic | **Type:** Maneuver      |
+| **Distance:** 3 burst     | **Target:** All enemies |
 
 **Effect:** Each undead creature in the area takes holy damage equal to your Reason, Intuition, or Presence score (your choice) and is **P \< \[strong\]** [[Frightened|frightened]] (save ends).
 

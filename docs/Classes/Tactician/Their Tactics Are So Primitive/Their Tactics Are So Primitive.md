@@ -7,6 +7,9 @@ cost: 5 Focus
 type: classes
 subtype: tactician
 kind: their tactics are so primitive
+keywords: Ranged
+keyword_list:
+  - Ranged
 ability_type: Maneuver
 distance: Ranged 5
 target: Two creatures
@@ -14,11 +17,11 @@ target: Two creatures
 
 # Their Tactics Are So Primitive (5 Focus)
 
-*All that time you spent studying ancient battles paid off!* **Keywords:** Ranged
+*All that time you spent studying ancient battles paid off!*
 
 |                        |                           |
 | :--------------------- | :------------------------ |
-| **Keywords:**          | **Type:** Maneuver        |
+| **Keywords:** Ranged   | **Type:** Maneuver        |
 | **Distance:** Ranged 5 | **Target:** Two creatures |
 
 **Effect:** Each target is marked by you. You gain two surges.

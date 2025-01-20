@@ -1,8 +1,8 @@
 ---
-title_raw: '"strike Now!"'
-title: '"strike Now!"'
-name_raw: '"strike Now!"'
-name: '"strike Now!"'
+title_raw: Strike Now
+title: Strike Now
+name_raw: Strike Now
+name: Strike Now
 type: classes
 subtype: tactician
 kind: 1st-level features
@@ -14,7 +14,11 @@ distance: Ranged 10
 target: One ally
 ---
 
-# "strike Now!"
+# Strike Now
+
+Your skill at commanding your allies in combat grants you the following ability.
+
+## "strike Now!"
 
 *Your foe left an opening. You point this out to an ally!*
 

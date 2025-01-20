@@ -7,6 +7,11 @@ cost: 9 Piety
 type: classes
 subtype: conduit
 kind: revitalizing grace
+keywords: Magic, Ranged, Strike
+keyword_list:
+  - Magic
+  - Ranged
+  - Strike
 ability_type: Action
 distance: Ranged 10
 target: 1 creature
@@ -14,12 +19,12 @@ target: 1 creature
 
 # Your Story Ends Here (9 Piety)
 
-*You bend the fate of a foe, willing them to die.* **Keywords:** Magic, Ranged, Strike
+*You bend the fate of a foe, willing them to die.*
 
-|                         |                        |
-| :---------------------- | :--------------------- |
-| **Keywords:**           | **Type:** Action       |
-| **Distance:** Ranged 10 | **Target:** 1 creature |
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Magic, Ranged, Strike | **Type:** Action       |
+| **Distance:** Ranged 10             | **Target:** 1 creature |
 
 Power Roll + Intuition: - *11 or lower:* **9 + I corruption damage; R \< \[weak\] weakened (save ends)** - *12-16:* **14 + I corruption damage; R \< \[average\] weakened (save ends)** - *17+:* **19 + I corruption damage; R \< \[strong\] weakened (save ends)**
 

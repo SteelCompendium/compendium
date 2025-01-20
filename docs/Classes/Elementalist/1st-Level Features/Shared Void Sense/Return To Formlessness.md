@@ -6,23 +6,25 @@ name: Return To Formlessness
 type: classes
 subtype: elementalist
 kind: 1st-level features
+keywords: \| Fire, Magic, Melee
+keyword_list:
+  - \| Fire
+  - Magic
+  - Melee
+distance: \| Melee 1
 target: \| One mundane object \|
 ---
 
 # Return To Formlessness
 
-You gain the following ability.
+*With the merest touch, you cause an object to turn to slag or ash.*
 
-## Return To Formlessness
+|                                     |                                      |
+| :---------------------------------- | :----------------------------------- |
+| **Keywords:** \| Fire, Magic, Melee | **Type:**                            |
+| **Distance:** \| Melee 1            | **Target:** \| One mundane object \| |
 
-*With the merest touch, you cause an object to turn to slag or ash.* **Keywords:** | Fire, Magic, Melee
-
-| **Type:**                            | Action                               |     |     |
-| ------------------------------------ | ------------------------------------ | --- | --- |
-| **Distance:**                        | Melee 1                              |     |     |
-|                                      |                                      |     |     |
-| :----------------------------------- | :--------------------------------    |     |     |
-| **Keywords:**                        | **Type:**                            |     |     |
-| **Distance:**                        | **Target:** \| One mundane object \| |     |     |
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 **Effect:** You heat the target and cause it to combust and melt, destroying it. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.

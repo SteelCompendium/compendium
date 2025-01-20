@@ -6,6 +6,9 @@ name: Star Power
 type: classes
 subtype: troubadour
 kind: choreography
+keywords: --
+keyword_list:
+  - --
 ability_type: Maneuver
 distance: Self
 target: Self
@@ -13,11 +16,11 @@ target: Self
 
 # Star Power
 
-*You're the one they came to see!* **Keywords:** --
+*You're the one they came to see!*
 
 |                    |                    |
 | :----------------- | :----------------- |
-| **Keywords:**      | **Type:** Maneuver |
+| **Keywords:** --   | **Type:** Maneuver |
 | **Distance:** Self | **Target:** Self   |
 
 **Effect:** You gain a +2 bonus to speed until the end of your turn. Additionally, the next power roll you make this turn can't have a result lower than tier 2.

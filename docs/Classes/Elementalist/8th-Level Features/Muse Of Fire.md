@@ -7,20 +7,26 @@ cost: 11 Essence
 type: classes
 subtype: elementalist
 kind: 8th-level features
+keywords: Area, Fire, Magic
+keyword_list:
+  - Area
+  - Fire
+  - Magic
 distance: 5 cube within 10
 target: All enemies \|
 ---
 
 # Muse Of Fire (11 Essence)
 
-*The fire burns hot enough to sear the face of any god watching.* **Keywords:** Area, Fire, Magic
+*The fire burns hot enough to sear the face of any god watching.*
 
-| **Type:** Action                     |                                   |
-| ------------------------------------ | --------------------------------- |
-|                                      |                                   |
-| :----------------------------------- | :-------------------------------- |
-| **Keywords:**                        | **Type:**                         |
-| **Distance:** 5 cube within 10       | **Target:** All enemies \|        |
+|                                 |                            |
+| :------------------------------ | :------------------------- |
+| **Keywords:** Area, Fire, Magic | **Type:**                  |
+| **Distance:** 5 cube within 10  | **Target:** All enemies \| |
+
+| **Type:** Action |     |
+| ---------------- | --- |
 
 **Power Roll + Reason:**
 

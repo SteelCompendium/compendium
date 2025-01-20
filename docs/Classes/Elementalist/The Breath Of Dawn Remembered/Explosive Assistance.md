@@ -6,20 +6,29 @@ name: Explosive Assistance
 type: classes
 subtype: elementalist
 kind: the breath of dawn remembered
-target: \| Self or one ally \| **Trigger:** \| The target force moves a creature or object. \| \| \|
+keywords: \| Fire, Magic, Ranged
+keyword_list:
+  - \| Fire
+  - Magic
+  - Ranged
+distance: \| Ranged 10
+target: \| Self or one ally
+trigger: \| The target force moves a creature or object. \| \| \|
 ---
 
 # Explosive Assistance
 
-*You add a little magic to an ally's aggression at just the right time.* **Keywords:** | Fire, Magic, Ranged
+*You add a little magic to an ally's aggression at just the right time.*
 
-| **Type:**                            | Triggered                                                                                                |     |     |
-| ------------------------------------ | -------------------------------------------------------------------------------------------------------- | --- | --- |
-| **Distance:**                        | Ranged 10                                                                                                |     |     |
-|                                      |                                                                                                          |     |     |
-| :----------------------------------- | :--------------------------------                                                                        |     |     |
-| **Keywords:**                        | **Type:**                                                                                                |     |     |
-| **Distance:**                        | **Target:** \| Self or one ally \| **Trigger:** \| The target force moves a creature or object. \| \| \| |     |     |
+|                                      |                                 |
+| :----------------------------------- | :------------------------------ |
+| **Keywords:** \| Fire, Magic, Ranged | **Type:**                       |
+| **Distance:** \| Ranged 10           | **Target:** \| Self or one ally |
+
+| **Type:** | Triggered |     |     |
+| --------- | --------- | --- | --- |
+
+**Trigger:** | The target force moves a creature or object. | | |
 
 **Effect:** The forced movement distance gains a bonus equal to your Reason score.
 

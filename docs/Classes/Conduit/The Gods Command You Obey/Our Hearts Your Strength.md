@@ -7,6 +7,10 @@ cost: 5 Piety
 type: classes
 subtype: conduit
 kind: the gods command you obey
+keywords: Magic, Ranged
+keyword_list:
+  - Magic
+  - Ranged
 ability_type: Maneuver
 distance: Ranged 10
 target: Self and one ally
@@ -14,11 +18,11 @@ target: Self and one ally
 
 # Our Hearts, Your Strength (5 Piety)
 
-*An ally gains strength from their friends.* **Keywords:** Magic, Ranged
+*An ally gains strength from their friends.*
 
-|                         |                               |
-| :---------------------- | :---------------------------- |
-| **Keywords:**           | **Type:** Maneuver            |
-| **Distance:** Ranged 10 | **Target:** Self and one ally |
+|                             |                               |
+| :-------------------------- | :---------------------------- |
+| **Keywords:** Magic, Ranged | **Type:** Maneuver            |
+| **Distance:** Ranged 10     | **Target:** Self and one ally |
 
 **Effect:** Until the end of the encounter or the target is dying, whenever the target starts their turn, they gain a bonus to speed and damage equal to the number of allies within 10 squares of them. This bonus lasts until the start of their next turn.

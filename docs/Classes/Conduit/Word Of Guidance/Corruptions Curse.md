@@ -7,6 +7,11 @@ cost: 5 Piety
 type: classes
 subtype: conduit
 kind: word of guidance
+keywords: Magic, Ranged, Strike
+keyword_list:
+  - Magic
+  - Ranged
+  - Strike
 ability_type: Action
 distance: Ranged 10
 target: One creature or object
@@ -14,12 +19,12 @@ target: One creature or object
 
 # Corruption's Curse (5 Piety)
 
-*Cursed by you, your enemy takes more damage from your allies.* **Keywords:** Magic, Ranged, Strike
+*Cursed by you, your enemy takes more damage from your allies.*
 
-|                         |                                    |
-| :---------------------- | :--------------------------------- |
-| **Keywords:**           | **Type:** Action                   |
-| **Distance:** Ranged 10 | **Target:** One creature or object |
+|                                     |                                    |
+| :---------------------------------- | :--------------------------------- |
+| **Keywords:** Magic, Ranged, Strike | **Type:** Action                   |
+| **Distance:** Ranged 10             | **Target:** One creature or object |
 
 **Power Roll + Intuition:**
 

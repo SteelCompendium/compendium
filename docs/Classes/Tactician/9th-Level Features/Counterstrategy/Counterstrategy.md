@@ -7,6 +7,9 @@ cost: 11 Focus
 type: classes
 subtype: tactician
 kind: 9th-level features
+keywords: --
+keyword_list:
+  - --
 ability_type: Action
 distance: Self
 target: Self
@@ -14,11 +17,11 @@ target: Self
 
 # Counterstrategy (11 Focus)
 
-*I've identified a way to negate their strengths.* **Keywords:** --
+*I've identified a way to negate their strengths.*
 
 |                    |                  |
 | :----------------- | :--------------- |
-| **Keywords:**      | **Type:** Action |
+| **Keywords:** --   | **Type:** Action |
 | **Distance:** Self | **Target:** Self |
 
 **Effect:** You gain six surges. Until the end of the encounter, or you are dying, whenever the Director spends Malice, you or one ally within 10 squares of you can gain 2 of their heroic resource.

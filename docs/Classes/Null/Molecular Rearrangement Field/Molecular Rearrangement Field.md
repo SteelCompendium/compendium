@@ -7,6 +7,9 @@ cost: 7 Discipline
 type: classes
 subtype: 'null'
 kind: molecular rearrangement field
+keywords: Psionic
+keyword_list:
+  - Psionic
 ability_type: Maneuver
 distance: Self
 target: Self
@@ -14,12 +17,12 @@ target: Self
 
 # Molecular Rearrangement Field (7 Discipline)
 
-*Your enemies' wounds open, your allies' wounds close.* **Keywords:** Psionic
+*Your enemies' wounds open, your allies' wounds close.*
 
-|                    |                    |
-| :----------------- | :----------------- |
-| **Keywords:**      | **Type:** Maneuver |
-| **Distance:** Self | **Target:** Self   |
+|                       |                    |
+| :-------------------- | :----------------- |
+| **Keywords:** Psionic | **Type:** Maneuver |
+| **Distance:** Self    | **Target:** Self   |
 
 **Effect:** Until the end of the encounter, the area of your Null Field ability increases by 1. While the area is enlarged this way, each enemy who has **I \< average** and enters the area for the first time in a round or starts their turn there is bleeding (save ends). The first time any ally enters the area or starts their turn there, they gain temporary Stamina equal to your Intuition score.
 

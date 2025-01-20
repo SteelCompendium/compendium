@@ -12,7 +12,8 @@ keyword_list:
   - Magic
   - Ranged
   - Strike
-ability_type: Action **Distance:** Ranged 10
+ability_type: Action
+distance: Ranged 10
 target: One creature
 ---
 
@@ -20,10 +21,10 @@ target: One creature
 
 *Fear of divine judgment overwhelms your foe.*
 
-|                                     |                                          |
-| :---------------------------------- | :--------------------------------------- |
-| **Keywords:** Magic, Ranged, Strike | **Type:** Action **Distance:** Ranged 10 |
-| **Distance:**                       | **Target:** One creature                 |
+|                                     |                          |
+| :---------------------------------- | :----------------------- |
+| **Keywords:** Magic, Ranged, Strike | **Type:** Action         |
+| **Distance:** Ranged 10             | **Target:** One creature |
 
 **Power Roll + Intuition:**
 

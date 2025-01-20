@@ -7,18 +7,24 @@ cost: 11 Piety
 type: classes
 subtype: conduit
 kind: 8th-level features
-ability_type: Action **Distance:** Ranged 10
+keywords: Magic, Ranged, Strike
+keyword_list:
+  - Magic
+  - Ranged
+  - Strike
+ability_type: Action
+distance: Ranged 10
 target: 1 creature or object
 ---
 
 # Drag The Unworthy (11 Piety)
 
-*You conjure an angel that moves a foe and heals your allies.* **Keywords:** Magic, Ranged, Strike
+*You conjure an angel that moves a foe and heals your allies.*
 
-|               |                                          |
-| :------------ | :--------------------------------------- |
-| **Keywords:** | **Type:** Action **Distance:** Ranged 10 |
-| **Distance:** | **Target:** 1 creature or object         |
+|                                     |                                  |
+| :---------------------------------- | :------------------------------- |
+| **Keywords:** Magic, Ranged, Strike | **Type:** Action                 |
+| **Distance:** Ranged 10             | **Target:** 1 creature or object |
 
 **Power Roll + Intuition:**
 

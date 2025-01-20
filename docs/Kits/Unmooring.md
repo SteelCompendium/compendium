@@ -4,6 +4,12 @@ title: Unmooring
 name_raw: Unmooring
 name: Unmooring
 type: kits
+keywords: Melee, Psionic, Strike, Weapon
+keyword_list:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: 1 creature
@@ -11,12 +17,12 @@ target: 1 creature
 
 # Unmooring
 
-*Your weapon unleashes psionic energy that reduces your target's weight.* **Keywords:** Melee, Psionic, Strike, Weapon
+*Your weapon unleashes psionic energy that reduces your target's weight.*
 
-|                       |                        |
-| :-------------------- | :--------------------- |
-| **Keywords:**         | **Type:** Action       |
-| **Distance:** Melee 1 | **Target:** 1 creature |
+|                                              |                        |
+| :------------------------------------------- | :--------------------- |
+| **Keywords:** Melee, Psionic, Strike, Weapon | **Type:** Action       |
+| **Distance:** Melee 1                        | **Target:** 1 creature |
 
 **Power Roll + Might, Reason, Intuition, or Presence:**
 

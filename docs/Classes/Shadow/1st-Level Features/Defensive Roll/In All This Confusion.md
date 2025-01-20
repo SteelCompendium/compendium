@@ -6,21 +6,25 @@ name: In All This Confusion
 type: classes
 subtype: shadow
 kind: 1st-level features
+keywords: \| Magic
+keyword_list:
+  - \| Magic
+distance: \| Self
 target: \| Self
 trigger: You take damage.
 ---
 
 # In All This Confusion
 
-*You vanish in a plume of black smoke to avoid danger.* **Keywords:** | Magic
+*You vanish in a plume of black smoke to avoid danger.*
 
-| **Type:**                            | Triggered                         |     |     |
-| ------------------------------------ | --------------------------------- | --- | --- |
-| **Distance:**                        | Self                              |     |     |
-|                                      |                                   |     |     |
-| :----------------------------------- | :-------------------------------- |     |     |
-| **Keywords:**                        | **Type:**                         |     |     |
-| **Distance:**                        | **Target:** \| Self               |     |     |
+|                        |                     |
+| :--------------------- | :------------------ |
+| **Keywords:** \| Magic | **Type:**           |
+| **Distance:** \| Self  | **Target:** \| Self |
+
+| **Type:** | Triggered |     |     |
+| --------- | --------- | --- | --- |
 
 **Trigger:** You take damage.
 

@@ -6,6 +6,11 @@ name: I've Got Your Back
 cost: 5 Focus
 type: classes
 subtype: tactician
+keywords: Ranged, Strike, Weapon
+keyword_list:
+  - Ranged
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Ranged 5
 target: One creature
@@ -13,12 +18,12 @@ target: One creature
 
 # I've Got Your Back (5 Focus)
 
-*Your enemy will think twice about attacking your friend.* **Keywords:** Ranged, Strike, Weapon
+*Your enemy will think twice about attacking your friend.*
 
-|                        |                          |
-| :--------------------- | :----------------------- |
-| **Keywords:**          | **Type:** Action         |
-| **Distance:** Ranged 5 | **Target:** One creature |
+|                                      |                          |
+| :----------------------------------- | :----------------------- |
+| **Keywords:** Ranged, Strike, Weapon | **Type:** Action         |
+| **Distance:** Ranged 5               | **Target:** One creature |
 
 **Power Roll + Reason:**
 

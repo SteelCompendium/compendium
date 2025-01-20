@@ -6,12 +6,13 @@ name: '"thunder Mother"'
 type: classes
 subtype: troubadour
 kind: choreography
-keywords: Magic, Ranged, Strike, Routine **Type:** No action
+keywords: Magic, Ranged, Strike, Routine
 keyword_list:
   - Magic
   - Ranged
   - Strike
-  - Routine **Type:** No action
+  - Routine
+ability_type: No action
 distance: Ranged 10
 target: One creature
 ---
@@ -20,10 +21,10 @@ target: One creature
 
 *All for thunder motherrr!* ?*Run and hide for coverrr!*?
 
-|                                                                  |                          |
-| :--------------------------------------------------------------- | :----------------------- |
-| **Keywords:** Magic, Ranged, Strike, Routine **Type:** No action | **Type:**                |
-| **Distance:** Ranged 10                                          | **Target:** One creature |
+|                                              |                          |
+| :------------------------------------------- | :----------------------- |
+| **Keywords:** Magic, Ranged, Strike, Routine | **Type:** No action      |
+| **Distance:** Ranged 10                      | **Target:** One creature |
 
 **Effect:** At the end of each round while this routine is active, make a power roll that ignores cover. You can't target the same creature twice with this effect.
 

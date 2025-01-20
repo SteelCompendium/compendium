@@ -6,6 +6,11 @@ name: To The Death!
 type: classes
 subtype: fury
 kind: impaled
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: One creature or object
@@ -13,12 +18,12 @@ target: One creature or object
 
 # To The Death!
 
-*Your reckless assault leaves you tactically vulnerable.* **Keywords:** Melee, Strike, Weapon
+*Your reckless assault leaves you tactically vulnerable.*
 
-|                       |                                    |
-| :-------------------- | :--------------------------------- |
-| **Keywords:**         | **Type:** Action                   |
-| **Distance:** Melee 1 | **Target:** One creature or object |
+|                                     |                                    |
+| :---------------------------------- | :--------------------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action                   |
+| **Distance:** Melee 1               | **Target:** One creature or object |
 
 Power Roll + Might: - *11 or lower:* **3 + M damage** - *12-16:* **6 + M damage** - *17+:* **9 + M damage**
 

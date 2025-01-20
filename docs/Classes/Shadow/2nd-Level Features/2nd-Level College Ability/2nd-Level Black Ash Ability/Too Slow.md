@@ -7,6 +7,13 @@ cost: 5 Insight
 type: classes
 subtype: shadow
 kind: 2nd-level features
+keywords: Melee, Ranged, Strike, Weapon
+keyword_list:
+  - Melee
+  - Ranged
+  - Strike
+  - Weapon
+ability_type: Free Triggered Action
 distance: Self; see below
 target: Self
 trigger: You use your In All This Confusion ability.
@@ -14,12 +21,12 @@ trigger: You use your In All This Confusion ability.
 
 # Too Slow (5 Insight)
 
-*Your foe made a big mistake.* **Keywords:** Melee, Ranged, Strike, Weapon **Type:** Free Triggered Action
+*Your foe made a big mistake.*
 
-|                               |                  |
-| :---------------------------- | :--------------- |
-| **Keywords:**                 | **Type:**        |
-| **Distance:** Self; see below | **Target:** Self |
+|                                             |                                 |
+| :------------------------------------------ | :------------------------------ |
+| **Keywords:** Melee, Ranged, Strike, Weapon | **Type:** Free Triggered Action |
+| **Distance:** Self; see below               | **Target:** Self                |
 
 **Trigger:** You use your In All This Confusion ability.
 

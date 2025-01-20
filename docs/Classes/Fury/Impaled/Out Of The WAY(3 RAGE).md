@@ -7,20 +7,26 @@ cost: 3 Rage
 type: classes
 subtype: fury
 kind: impaled
+keywords: \| Melee, Strike, Weapon
+keyword_list:
+  - \| Melee
+  - Strike
+  - Weapon
+distance: \| Melee 1
 target: \| One creature \|
 ---
 
 # Out Of The Way!(3 Rage)
 
-*Your enemies will get out of your way--whether they want to or not.* **Keywords:** | Melee, Strike, Weapon
+*Your enemies will get out of your way--whether they want to or not.*
 
-| **Type:**                            | Action                            |     |     |
-| ------------------------------------ | --------------------------------- | --- | --- |
-| **Distance:**                        | Melee 1                           |     |     |
-|                                      |                                   |     |     |
-| :----------------------------------- | :-------------------------------- |     |     |
-| **Keywords:**                        | **Type:**                         |     |     |
-| **Distance:**                        | **Target:** \| One creature \|    |     |     |
+|                                        |                                |
+| :------------------------------------- | :----------------------------- |
+| **Keywords:** \| Melee, Strike, Weapon | **Type:**                      |
+| **Distance:** \| Melee 1               | **Target:** \| One creature \| |
+
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 Power Roll + Might: - *11 or lower:* **3 + M damage; slide 2** - *12-16:* **5 + M damage; slide 3** - *17+:* **8 + M damage; slide 5**
 

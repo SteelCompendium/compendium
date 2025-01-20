@@ -6,19 +6,25 @@ name: Furious Change
 type: classes
 subtype: fury
 kind: 1st-level features
-distance: '**Target:** \| **Trigger:** \| \| \| You lose Stamina and are not dying. \| \|'
+keywords: '| **Type:** |     |'
+keyword_list:
+  - '| **Type:** |     |'
+distance: '**Target:**'
+trigger: \| \| \| You lose Stamina and are not dying. \| \|
 ---
 
 # Furious Change
 
-*In your* anger, you revert to a more bestial form. **Keywords:**
+*In your* anger, you revert to a more bestial form.
 
-| **Type:**                                                                                    |                                   |
-| -------------------------------------------------------------------------------------------- | --------------------------------- |
-|                                                                                              |                                   |
-| :-----------------------------------                                                         | :-------------------------------- |
-| **Keywords:**                                                                                | **Type:**                         |
-| **Distance:** **Target:** \| **Trigger:** \| \| \| You lose Stamina and are not dying. \| \| | **Target:**                       |
+|                           |             |
+| :------------------------ | :---------- |
+| **Keywords:**             | **Type:**   |
+| **Distance:** **Target:** | **Target:** |
+
+|\-----------|-----|
+
+**Trigger:** | | | You lose Stamina and are not dying. | |
 
 **Effect:** After the triggering effect is resolved, you can use a free triggered action to enter your animal form or hybrid form. You gain temporary Stamina equal to your Might score.
 

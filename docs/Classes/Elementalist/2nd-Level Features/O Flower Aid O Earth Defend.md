@@ -7,24 +7,26 @@ cost: 5 Essence
 type: classes
 subtype: elementalist
 kind: 2nd-level features
-keywords: Green, Magic, Ranged, Strike, Void **Distance:** Ranged 10
+keywords: Green, Magic, Ranged, Strike, Void
 keyword_list:
   - Green
   - Magic
   - Ranged
   - Strike
-  - Void **Distance:** Ranged 10
-target: One creature **Type:** Action
+  - Void
+ability_type: Action
+distance: Ranged 10
+target: One creature
 ---
 
 # O Flower Aid, O Earth Defend (5 Essence)
 
-*Revitalizing plants and jagged stones grow, helping allies and hindering foes.* **Keywords:** Area, Earth, Green, Magic, Ranged **Distance:** 3 cube within 10
+*Revitalizing plants and jagged stones grow, helping allies and hindering foes.*
 
-|                                                                          |                                           |
-| :----------------------------------------------------------------------- | :---------------------------------------- |
-| **Keywords:** Green, Magic, Ranged, Strike, Void **Distance:** Ranged 10 | **Type:**                                 |
-| **Distance:**                                                            | **Target:** One creature **Type:** Action |
+|                                                  |                          |
+| :----------------------------------------------- | :----------------------- |
+| **Keywords:** Green, Magic, Ranged, Strike, Void | **Type:** Action         |
+| **Distance:** Ranged 10                          | **Target:** One creature |
 
 **Effect:** Until the start of your next turn, the area gains the following effects:
 

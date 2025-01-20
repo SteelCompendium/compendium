@@ -7,17 +7,21 @@ cost: 7 Focus
 type: classes
 subtype: tactician
 kind: 3rd-level features
-ability_type: Maneuver **Distance:** Self
+keywords: --
+keyword_list:
+  - --
+ability_type: Maneuver
+distance: Self
 target: Self
 ---
 
 # Rout (7 Focus)
 
-*The tide begins to turn.* **Keywords:** --
+*The tide begins to turn.*
 
-|               |                                       |
-| :------------ | :------------------------------------ |
-| **Keywords:** | **Type:** Maneuver **Distance:** Self |
-| **Distance:** | **Target:** Self                      |
+|                    |                    |
+| :----------------- | :----------------- |
+| **Keywords:** --   | **Type:** Maneuver |
+| **Distance:** Self | **Target:** Self   |
 
 **Effect:** Until the end of the encounter or you are dying, whenever you or any ally deals damage to a target marked by you, if that target has R **\<** average, they are frightened of the damage dealer (save ends).

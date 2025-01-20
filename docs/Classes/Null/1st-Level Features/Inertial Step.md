@@ -6,6 +6,12 @@ name: Inertial Step
 type: classes
 subtype: 'null'
 kind: 1st-level features
+keywords: Melee, Psionic, Strike, Weapon
+keyword_list:
+  - Melee
+  - Psionic
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: One creature or object
@@ -13,12 +19,12 @@ target: One creature or object
 
 # Inertial Step
 
-*You flit about the battlefield with an opportunistic strike.* **Keywords:** Melee, Psionic, Strike, Weapon
+*You flit about the battlefield with an opportunistic strike.*
 
-|                       |                                    |
-| :-------------------- | :--------------------------------- |
-| **Keywords:**         | **Type:** Action                   |
-| **Distance:** Melee 1 | **Target:** One creature or object |
+|                                              |                                    |
+| :------------------------------------------- | :--------------------------------- |
+| **Keywords:** Melee, Psionic, Strike, Weapon | **Type:** Action                   |
+| **Distance:** Melee 1                        | **Target:** One creature or object |
 
 Power Roll + Agility: - *11 or lower:* **5 + A damage** - *12-16:* **7 + A damage** - *17+:* **10 + A damage**
 

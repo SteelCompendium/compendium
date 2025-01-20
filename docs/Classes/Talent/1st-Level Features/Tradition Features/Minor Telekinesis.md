@@ -6,18 +6,23 @@ name: Minor Telekinesis
 type: classes
 subtype: talent
 kind: 1st-level features
+keywords: Psionic, Ranged
+keyword_list:
+  - Psionic
+  - Ranged
 ability_type: Maneuver
-distance: Ranged 10 **Target:** Self, or a size 1 creature or object
+distance: Ranged 10
+target: Self, or a size 1 creature or object
 ---
 
 # Minor Telekinesis
 
-*Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.* **Keywords:** Psionic, Ranged
+*Wisps of psychic energy ripple visibly from your brain as you force the target to move using only your mind.*
 
-|                                                                          |                    |
-| :----------------------------------------------------------------------- | :----------------- |
-| **Keywords:**                                                            | **Type:** Maneuver |
-| **Distance:** Ranged 10 **Target:** Self, or a size 1 creature or object | **Target:**        |
+|                               |                                                  |
+| :---------------------------- | :----------------------------------------------- |
+| **Keywords:** Psionic, Ranged | **Type:** Maneuver                               |
+| **Distance:** Ranged 10       | **Target:** Self, or a size 1 creature or object |
 
 **Effect:** You slide the target up to a number of squares equal to your Reason score.
 

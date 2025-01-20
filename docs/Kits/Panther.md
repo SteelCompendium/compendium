@@ -4,6 +4,11 @@ title: Panther
 name_raw: Panther
 name: Panther
 type: kits
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: 1 creature or object
@@ -28,12 +33,12 @@ You wear no armor and wield a heavy weapon.
 
 ## Devastating Rush
 
-*The faster you move, the harder you hit.* **Keywords:** Melee, Strike, Weapon
+*The faster you move, the harder you hit.*
 
-|                       |                                  |
-| :-------------------- | :------------------------------- |
-| **Keywords:**         | **Type:** Action                 |
-| **Distance:** Melee 1 | **Target:** 1 creature or object |
+|                                     |                                  |
+| :---------------------------------- | :------------------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action                 |
+| **Distance:** Melee 1               | **Target:** 1 creature or object |
 
 Power Roll + Might or Agility: - *11 or lower:* **3 + M or A damage** - *12-16:* **6 + M or A damage** - *17+:* **13 + M or A damage**
 

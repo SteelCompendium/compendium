@@ -4,6 +4,11 @@ title: Fancy Footwork
 name_raw: Fancy Footwork
 name: Fancy Footwork
 type: kits
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: 1 creature
@@ -11,12 +16,12 @@ target: 1 creature
 
 # Fancy Footwork
 
-*All combat is a dance--and you'll be the one leading.* **Keywords:** Melee, Strike, Weapon
+*All combat is a dance--and you'll be the one leading.*
 
-|                       |                        |
-| :-------------------- | :--------------------- |
-| **Keywords:**         | **Type:** Action       |
-| **Distance:** Melee 1 | **Target:** 1 creature |
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action       |
+| **Distance:** Melee 1               | **Target:** 1 creature |
 
 Power Roll + Might or Agility: - *11 or lower:* **5 + M or A damage** - *12-16:* **7 + M or A damage; push 1** - *17+:* **10 + M or A damage; push 2**
 

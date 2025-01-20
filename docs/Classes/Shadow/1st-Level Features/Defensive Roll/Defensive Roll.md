@@ -6,20 +6,25 @@ name: Defensive Roll
 type: classes
 subtype: shadow
 kind: 1st-level features
-distance: '**Target:** \| **Trigger:** Another creature damages you \|'
+keywords: '| **Type:** |     |'
+keyword_list:
+  - '| **Type:** |     |'
+distance: '**Target:**'
 trigger: Another creature damages you.
 ---
 
 # Defensive Roll
 
-*When an enemy attacks, you roll with the impact to reduce the harm.* **Keywords:**
+*When an enemy attacks, you roll with the impact to reduce the harm.*
 
-| **Type:**                                                                 |                                   |
-| ------------------------------------------------------------------------- | --------------------------------- |
-|                                                                           |                                   |
-| :-----------------------------------                                      | :-------------------------------- |
-| **Keywords:**                                                             | **Type:**                         |
-| **Distance:** **Target:** \| **Trigger:** Another creature damages you \| | **Target:**                       |
+|                           |             |
+| :------------------------ | :---------- |
+| **Keywords:**             | **Type:**   |
+| **Distance:** **Target:** | **Target:** |
+
+|\-----------|-----|
+
+**Trigger:** Another creature damages you
 
 **Trigger:** Another creature damages you.
 

@@ -7,6 +7,12 @@ cost: 5 Rage
 type: classes
 subtype: fury
 kind: rrraaaghh(5 rage)
+keywords: Animal, Melee, Strike, Weapon
+keyword_list:
+  - Animal
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: One creature
@@ -14,12 +20,12 @@ target: One creature
 
 # Apex Predator (5 Rage)
 
-*I will hunt you down.* **Keywords:** Animal, Melee, Strike, Weapon
+*I will hunt you down.*
 
-|                       |                          |
-| :-------------------- | :----------------------- |
-| **Keywords:**         | **Type:** Action         |
-| **Distance:** Melee 1 | **Target:** One creature |
+|                                             |                          |
+| :------------------------------------------ | :----------------------- |
+| **Keywords:** Animal, Melee, Strike, Weapon | **Type:** Action         |
+| **Distance:** Melee 1                       | **Target:** One creature |
 
 Power Roll + Might: - *11 or lower:* **4 + M damage;** I \< weak\*\*, slowed (save ends)\*\* - *12-16:* **6 + M damage;** I \< average\*\*, slowed (save ends)\*\* - *17+:* **10 + M damage;** I \< strong\*\*, slowed (save ends)\*\*
 

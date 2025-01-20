@@ -6,6 +6,11 @@ name: Skin Like Castle Walls
 type: classes
 subtype: elementalist
 kind: the breath of dawn remembered
+keywords: Earth, Magic, Ranged
+keyword_list:
+  - Earth
+  - Magic
+  - Ranged
 ability_type: Triggered
 distance: Ranged 10
 target: Self or one ally
@@ -14,12 +19,12 @@ trigger: The target takes damage.
 
 # Skin Like Castle Walls
 
-*You make yourself or an ally covered in protective stone.* **Keywords:** Earth, Magic, Ranged
+*You make yourself or an ally covered in protective stone.*
 
-|                         |                              |
-| :---------------------- | :--------------------------- |
-| **Keywords:**           | **Type:** Triggered          |
-| **Distance:** Ranged 10 | **Target:** Self or one ally |
+|                                    |                              |
+| :--------------------------------- | :--------------------------- |
+| **Keywords:** Earth, Magic, Ranged | **Type:** Triggered          |
+| **Distance:** Ranged 10            | **Target:** Self or one ally |
 
 **Trigger:** The target takes damage.
 

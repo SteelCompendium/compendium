@@ -12,7 +12,8 @@ keyword_list:
   - Area
   - Magic
   - Ranged
-ability_type: Action **Distance:** 3 cube within 10
+ability_type: Action
+distance: 3 cube within 10
 target: Each enemy in the area
 ---
 
@@ -20,10 +21,10 @@ target: Each enemy in the area
 
 *You ask your saint for thunder and your prayer is answered.*
 
-|                                   |                                                 |
-| :-------------------------------- | :---------------------------------------------- |
-| **Keywords:** Area, Magic, Ranged | **Type:** Action **Distance:** 3 cube within 10 |
-| **Distance:**                     | **Target:** Each enemy in the area              |
+|                                   |                                    |
+| :-------------------------------- | :--------------------------------- |
+| **Keywords:** Area, Magic, Ranged | **Type:** Action                   |
+| **Distance:** 3 cube within 10    | **Target:** Each enemy in the area |
 
 **Power Roll + Intuition:**
 

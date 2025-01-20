@@ -7,6 +7,11 @@ cost: 3 Essence
 type: classes
 subtype: elementalist
 kind: the breath of dawn remembered
+keywords: Area, Earth, Magic
+keyword_list:
+  - Area
+  - Earth
+  - Magic
 ability_type: Action
 distance: 2 burst
 target: Each enemy in the area
@@ -14,12 +19,12 @@ target: Each enemy in the area
 
 # Ripples In The Earth (3 Essence)
 
-*Like a stone dropped into a pond, waves in the earth radiate from you.* **Keywords:** Area, Earth, Magic
+*Like a stone dropped into a pond, waves in the earth radiate from you.*
 
-|                       |                                    |
-| :-------------------- | :--------------------------------- |
-| **Keywords:**         | **Type:** Action                   |
-| **Distance:** 2 burst | **Target:** Each enemy in the area |
+|                                  |                                    |
+| :------------------------------- | :--------------------------------- |
+| **Keywords:** Area, Earth, Magic | **Type:** Action                   |
+| **Distance:** 2 burst            | **Target:** Each enemy in the area |
 
 Power Roll + Reason: - *11 or lower:* **3 damage** - *12-16:* **5 damage** - *17+:* **8 damage;** M \< strong\*\*, prone\*\*
 

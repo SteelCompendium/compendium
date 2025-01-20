@@ -6,6 +6,9 @@ name: Turnabout Is Fair Play
 type: classes
 subtype: troubadour
 kind: choreography
+keywords: --
+keyword_list:
+  - --
 ability_type: Triggered
 distance: Ranged 10
 target: One creature
@@ -14,11 +17,11 @@ trigger: The target makes an ability power roll with at least one edge or bane.
 
 # Turnabout Is Fair Play
 
-*All's fair in love and whatever.* **Keywords:** --
+*All's fair in love and whatever.*
 
 |                         |                          |
 | :---------------------- | :----------------------- |
-| **Keywords:**           | **Type:** Triggered      |
+| **Keywords:** --        | **Type:** Triggered      |
 | **Distance:** Ranged 10 | **Target:** One creature |
 
 **Trigger:** The target makes an ability power roll with at least one edge or bane.

@@ -7,6 +7,12 @@ cost: 9 Essence
 type: classes
 subtype: elementalist
 kind: subverted perception of space
+keywords: Magic, Ranged, Strike, Void
+keyword_list:
+  - Magic
+  - Ranged
+  - Strike
+  - Void
 ability_type: Action
 distance: Ranged 10
 target: 1 creature or object
@@ -14,12 +20,12 @@ target: 1 creature or object
 
 # Subverted Perception Of Space (9 Essence)
 
-*You rip an enemy's world in twain.* **Keywords:** Magic, Ranged, Strike, Void
+*You rip an enemy's world in twain.*
 
-|                         |                                  |
-| :---------------------- | :------------------------------- |
-| **Keywords:**           | **Type:** Action                 |
-| **Distance:** Ranged 10 | **Target:** 1 creature or object |
+|                                           |                                  |
+| :---------------------------------------- | :------------------------------- |
+| **Keywords:** Magic, Ranged, Strike, Void | **Type:** Action                 |
+| **Distance:** Ranged 10                   | **Target:** 1 creature or object |
 
 Power Roll + Reason: - *11 or lower*\*\*: 9 + R corruption damage\*\* - *12-16:* **10 + R corruption damage; the target can't have line of effect to targets 5 or more squares away until the start of your next turn** - *17+:* **15 + R corruption damage; the target can't have line of effect to targets 2 or more squares away until the start of your next turn**
 

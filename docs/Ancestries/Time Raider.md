@@ -4,11 +4,10 @@ title: Time Raider
 name_raw: Time Raider
 name: Time Raider
 type: ancestries
-keywords: Psionic, Ranged, Strike
+keywords: Psionic, Melee
 keyword_list:
   - Psionic
-  - Ranged
-  - Strike
+  - Melee
 ability_type: Maneuver
 distance: Self or Melee 1
 target: Self or 1 ally
@@ -148,10 +147,10 @@ You gain one of the following signature abilities.
 
 *You slam an [[Invisible Force|invisible force]] down upon the target.*
 
-|                                       |                            |
-| :------------------------------------ | :------------------------- |
-| **Keywords:** Psionic, Ranged, Strike | **Type:** Maneuver         |
-| **Distance:** Self or Melee 1         | **Target:** Self or 1 ally |
+|                               |                            |
+| :---------------------------- | :------------------------- |
+| **Keywords:** Psionic, Melee  | **Type:** Maneuver         |
+| **Distance:** Self or Melee 1 | **Target:** Self or 1 ally |
 
 **Power Roll + Reason, Intuition, or Presence:**
 
@@ -161,7 +160,7 @@ You gain one of the following signature abilities.
 
 ## Psionic Bolt
 
-*You shoot forth a beam of psychic purple force that grips your target.* **Keywords:** Psionic, Ranged, Strike
+*You shoot forth a beam of psychic purple force that grips your target.*
 
 **Power Roll + Reason, Intuition, or Presence:**
 
@@ -171,7 +170,7 @@ You gain one of the following signature abilities.
 
 ### Minor Acceleration
 
-*You fill yourself or an ally with a burst of energy.* **Keywords:** Psionic, Melee
+*You fill yourself or an ally with a burst of energy.*
 
 **Effect:** The target's speed increases by an amount equal to your Reason, Intuition, or Presence score (your choice) until the start of your next turn.
 

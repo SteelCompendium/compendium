@@ -6,20 +6,27 @@ name: Inertial Shield
 type: classes
 subtype: 'null'
 kind: 1st-level features
-target: \| Self \| **Trigger:** \| You take damage. \| \| \|
+keywords: \| Psionic
+keyword_list:
+  - \| Psionic
+distance: \| Self
+target: \| Self
+trigger: \| You take damage. \| \| \|
 ---
 
 # Inertial Shield
 
-*You intuit where an incoming attack will strike, reducing its effects.* **Keywords:** | Psionic
+*You intuit where an incoming attack will strike, reducing its effects.*
 
-| **Type:**                            | Triggered                                                        |     |     |
-| ------------------------------------ | ---------------------------------------------------------------- | --- | --- |
-| **Distance:**                        | Self                                                             |     |     |
-|                                      |                                                                  |     |     |
-| :----------------------------------- | :--------------------------------                                |     |     |
-| **Keywords:**                        | **Type:**                                                        |     |     |
-| **Distance:**                        | **Target:** \| Self \| **Trigger:** \| You take damage. \| \| \| |     |     |
+|                          |                     |
+| :----------------------- | :------------------ |
+| **Keywords:** \| Psionic | **Type:**           |
+| **Distance:** \| Self    | **Target:** \| Self |
+
+| **Type:** | Triggered |     |     |
+| --------- | --------- | --- | --- |
+
+**Trigger:** | You take damage. | | |
 
 **Effect:** You halve the damage.
 

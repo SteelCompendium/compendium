@@ -5,7 +5,12 @@ name_raw: Maestro
 name: Maestro
 type: titles
 subtype: 3rd echelon
-ability_type: Action **Distance:** 5 burst
+keywords: Area, Magic
+keyword_list:
+  - Area
+  - Magic
+ability_type: Action
+distance: 5 burst
 target: All creatures except you
 ---
 
@@ -19,12 +24,12 @@ Choose one of the following benefits.
 - **Music of the Spheres:** As an action, you sing or play a note as delicate and as sharp as glass, and as easily shattered. Until the start of your next turn, whenever you or a creature within 10 of you makes a strike, they take 8 sonic damage.
 - **[[Devil]]'s Opera:** You gain the following ability, which can be paid for using a heroic resource of your class:
 
-COSTS 9 HEROIC RESOURCES: THE [[Devil|DEVIL]]'S CHORD *Helloooo Orden!* **Keywords:** Area, Magic
+COSTS 9 HEROIC RESOURCES: THE [[Devil|DEVIL]]'S CHORD *Helloooo Orden!*
 
-|               |                                        |
-| :------------ | :------------------------------------- |
-| **Keywords:** | **Type:** Action **Distance:** 5 burst |
-| **Distance:** | **Target:** All creatures except you   |
+|                           |                                      |
+| :------------------------ | :----------------------------------- |
+| **Keywords:** Area, Magic | **Type:** Action                     |
+| **Distance:** 5 burst     | **Target:** All creatures except you |
 
 Power Roll + Presence: - **11 or lower: 4 sonic damage to yourself unless you have the Performance skill** - **12-16: 6 sonic damage; M (average) [[Weakened|weakened]] (save ends)**
 

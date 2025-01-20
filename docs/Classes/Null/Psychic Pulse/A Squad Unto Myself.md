@@ -7,6 +7,12 @@ cost: 5 Discipline
 type: classes
 subtype: 'null'
 kind: psychic pulse
+keywords: Area, Melee, Psionic, Weapon
+keyword_list:
+  - Area
+  - Melee
+  - Psionic
+  - Weapon
 ability_type: Action
 distance: 2 burst
 target: Each enemy in the area
@@ -14,12 +20,12 @@ target: Each enemy in the area
 
 # A Squad Unto Myself (5 Discipline)
 
-*You move so quickly, it seems as though an army assaulted your foes.* **Keywords:** Area, Melee, Psionic, Weapon
+*You move so quickly, it seems as though an army assaulted your foes.*
 
-|                       |                                    |
-| :-------------------- | :--------------------------------- |
-| **Keywords:**         | **Type:** Action                   |
-| **Distance:** 2 burst | **Target:** Each enemy in the area |
+|                                            |                                    |
+| :----------------------------------------- | :--------------------------------- |
+| **Keywords:** Area, Melee, Psionic, Weapon | **Type:** Action                   |
+| **Distance:** 2 burst                      | **Target:** Each enemy in the area |
 
 Power Roll + Agility: - *11 or lower:* **6 damage** - *12-16:* **9 damage** - *17+:* **13 damage**
 

@@ -6,18 +6,25 @@ name: Spirit Sword
 type: classes
 subtype: talent
 kind: 1st-level features
+keywords: Animapathy, Melee, Psionic, Strike
+keyword_list:
+  - Animapathy
+  - Melee
+  - Psionic
+  - Strike
+ability_type: Action
 distance: Melee 2
 target: One creature or object
 ---
 
 # Spirit Sword
 
-*You form a blade of mind energy and stab your target, invigorating yourself.* **Keywords:** Animapathy, Melee, Psionic, Strike **Type:** Action
+*You form a blade of mind energy and stab your target, invigorating yourself.*
 
-|                       |                                    |
-| :-------------------- | :--------------------------------- |
-| **Keywords:**         | **Type:**                          |
-| **Distance:** Melee 2 | **Target:** One creature or object |
+|                                                  |                                    |
+| :----------------------------------------------- | :--------------------------------- |
+| **Keywords:** Animapathy, Melee, Psionic, Strike | **Type:** Action                   |
+| **Distance:** Melee 2                            | **Target:** One creature or object |
 
 Power Roll + Presence: - *11 or lower:* **3 + P damage** - *12-16:* **6 + P damage** - *17+:* **9 + P damage**
 

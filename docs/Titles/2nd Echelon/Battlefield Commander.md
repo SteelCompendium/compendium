@@ -5,6 +5,9 @@ name_raw: Battlefield Commander
 name: Battlefield Commander
 type: titles
 subtype: 2nd echelon
+keywords: --
+keyword_list:
+  - --
 ability_type: Action
 distance: Self and 3 burst
 target: Self and all allies
@@ -20,11 +23,11 @@ Choose one of the following benefits:
 - **Student of War:** Choose a 1st-level Tactical Doctrine feature from the Tactician class. You gain that feature even if you don't meet its prerequisites.
 - **[[Charge]]!** You gain the [[Charge]]! ability, which can be paid for using the heroic resource of your class:
 
-COSTS 9 HEROIC RESOURCES: [[Charge|CHARGE]]! *Follow me!* **Keywords:** --
+COSTS 9 HEROIC RESOURCES: [[Charge|CHARGE]]! *Follow me!*
 
 |                                |                                 |
 | :----------------------------- | :------------------------------ |
-| **Keywords:**                  | **Type:** Action                |
+| **Keywords:** --               | **Type:** Action                |
 | **Distance:** Self and 3 burst | **Target:** Self and all allies |
 
 **Effect:** Each target can use the [[Charge]] action.

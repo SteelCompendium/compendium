@@ -7,6 +7,11 @@ cost: 7 Essence
 type: classes
 subtype: elementalist
 kind: 3rd-level features
+keywords: Area, Green, Magic
+keyword_list:
+  - Area
+  - Green
+  - Magic
 ability_type: Action
 distance: 3 aura
 target: Each enemy in the area
@@ -14,12 +19,12 @@ target: Each enemy in the area
 
 # Swarm Of Spirits (7 Essence)
 
-*Guardian animal spirits surround you to harry your foes and bolster your allies.* **Keywords:** Area, Green, Magic
+*Guardian animal spirits surround you to harry your foes and bolster your allies.*
 
-|                      |                                    |
-| :------------------- | :--------------------------------- |
-| **Keywords:**        | **Type:** Action                   |
-| **Distance:** 3 aura | **Target:** Each enemy in the area |
+|                                  |                                    |
+| :------------------------------- | :--------------------------------- |
+| **Keywords:** Area, Green, Magic | **Type:** Action                   |
+| **Distance:** 3 aura             | **Target:** Each enemy in the area |
 
 - **Power Roll + Reason:** o *11 or lower:* **3 damage**
 - *12-16:* **6 damage**

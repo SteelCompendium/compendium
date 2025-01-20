@@ -6,20 +6,28 @@ name: Lines Of Force
 type: classes
 subtype: fury
 kind: 1st-level features
-target: \| Self or one creature \| **Trigger:** \| The target would be force moved. \| \| \|
+keywords: \| Magic, Melee
+keyword_list:
+  - \| Magic
+  - Melee
+distance: \| Melee 1
+target: \| Self or one creature
+trigger: \| The target would be force moved. \| \| \|
 ---
 
 # Lines Of Force
 
-*You redirect the energy of motion.* **Keywords:** | Magic, Melee
+*You redirect the energy of motion.*
 
-| **Type:**                            | Triggered                                                                                        |     |     |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------ | --- | --- |
-| **Distance:**                        | Melee 1                                                                                          |     |     |
-|                                      |                                                                                                  |     |     |
-| :----------------------------------- | :--------------------------------                                                                |     |     |
-| **Keywords:**                        | **Type:**                                                                                        |     |     |
-| **Distance:**                        | **Target:** \| Self or one creature \| **Trigger:** \| The target would be force moved. \| \| \| |     |     |
+|                               |                                     |
+| :---------------------------- | :---------------------------------- |
+| **Keywords:** \| Magic, Melee | **Type:**                           |
+| **Distance:** \| Melee 1      | **Target:** \| Self or one creature |
+
+| **Type:** | Triggered |     |     |
+| --------- | --------- | --- | --- |
+
+**Trigger:** | The target would be force moved. | | |
 
 **Effect:** You can select a new target of the same size or smaller within distance to be force moved instead, and you can turn that forced movement into a push instead. You become the source of the forced movement and decide where the new target's destination. Additionally, the forced movement distance gains a bonus equal to your Might score.
 

@@ -6,6 +6,11 @@ name: Artful Flourish
 type: classes
 subtype: troubadour
 kind: choreography
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: Two creatures or objects
@@ -13,12 +18,12 @@ target: Two creatures or objects
 
 # Artful Flourish
 
-*And they said practicing fencing was a waste!* **Keywords:** Melee, Strike, Weapon
+*And they said practicing fencing was a waste!*
 
-|                       |                                      |
-| :-------------------- | :----------------------------------- |
-| **Keywords:**         | **Type:** Action                     |
-| **Distance:** Melee 1 | **Target:** Two creatures or objects |
+|                                     |                                      |
+| :---------------------------------- | :----------------------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action                     |
+| **Distance:** Melee 1               | **Target:** Two creatures or objects |
 
 Power Roll + Agility: - *11 or lower:* **2 damage** - *12-16:* **5 damage** - *17+:* **7 damage**
 

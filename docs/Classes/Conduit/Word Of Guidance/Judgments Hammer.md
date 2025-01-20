@@ -7,6 +7,11 @@ cost: 3 Piety
 type: classes
 subtype: conduit
 kind: word of guidance
+keywords: Magic, Ranged, Strike
+keyword_list:
+  - Magic
+  - Ranged
+  - Strike
 ability_type: Action
 distance: Ranged 10
 target: One creature or object
@@ -14,12 +19,12 @@ target: One creature or object
 
 # Judgment's Hammer (3 Piety)
 
-*Your divine fury is a hammer that crashes down upon the unrighteous.* **Keywords:** Magic, Ranged, Strike
+*Your divine fury is a hammer that crashes down upon the unrighteous.*
 
-|                         |                                    |
-| :---------------------- | :--------------------------------- |
-| **Keywords:**           | **Type:** Action                   |
-| **Distance:** Ranged 10 | **Target:** One creature or object |
+|                                     |                                    |
+| :---------------------------------- | :--------------------------------- |
+| **Keywords:** Magic, Ranged, Strike | **Type:** Action                   |
+| **Distance:** Ranged 10             | **Target:** One creature or object |
 
 **Power Roll + Intuition:**
 

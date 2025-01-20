@@ -7,6 +7,10 @@ cost: 5 Piety
 type: classes
 subtype: conduit
 kind: the gods command you obey
+keywords: Area, Magic
+keyword_list:
+  - Area
+  - Magic
 ability_type: Action
 distance: 3 burst
 target: Each enemy in the area
@@ -14,12 +18,12 @@ target: Each enemy in the area
 
 # Morning Light (5 Piety)
 
-*Light shines at your command, burning your foes and blessing your allies.* **Keywords:** Area, Magic
+*Light shines at your command, burning your foes and blessing your allies.*
 
-|                       |                                    |
-| :-------------------- | :--------------------------------- |
-| **Keywords:**         | **Type:** Action                   |
-| **Distance:** 3 burst | **Target:** Each enemy in the area |
+|                           |                                    |
+| :------------------------ | :--------------------------------- |
+| **Keywords:** Area, Magic | **Type:** Action                   |
+| **Distance:** 3 burst     | **Target:** Each enemy in the area |
 
 Power Roll + Intuition: - *11 or lower:* **4 fire damage** - *12-16:* **6 fire damage** - *17+:* **10 fire damage**
 

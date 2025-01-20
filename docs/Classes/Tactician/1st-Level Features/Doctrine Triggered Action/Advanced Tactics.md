@@ -6,20 +6,27 @@ name: Advanced Tactics
 type: classes
 subtype: tactician
 kind: 1st-level features
-target: \| Any creature \| **Trigger:** \| The target deals damage to another creature. \| \| \|
+keywords: \| Ranged
+keyword_list:
+  - \| Ranged
+distance: \| Ranged 10
+target: \| Any creature
+trigger: \| The target deals damage to another creature. \| \| \|
 ---
 
 # Advanced Tactics
 
-*Your leadership aids an ally.* **Keywords:** | Ranged
+*Your leadership aids an ally.*
 
-| **Type:**                            | Triggered                                                                                            |     |     |
-| ------------------------------------ | ---------------------------------------------------------------------------------------------------- | --- | --- |
-| **Distance:**                        | Ranged 10                                                                                            |     |     |
-|                                      |                                                                                                      |     |     |
-| :----------------------------------- | :--------------------------------                                                                    |     |     |
-| **Keywords:**                        | **Type:**                                                                                            |     |     |
-| **Distance:**                        | **Target:** \| Any creature \| **Trigger:** \| The target deals damage to another creature. \| \| \| |     |     |
+|                            |                             |
+| :------------------------- | :-------------------------- |
+| **Keywords:** \| Ranged    | **Type:**                   |
+| **Distance:** \| Ranged 10 | **Target:** \| Any creature |
+
+| **Type:** | Triggered |     |     |
+| --------- | --------- | --- | --- |
+
+**Trigger:** | The target deals damage to another creature. | | |
 
 **Effect:** The target gains two surges, which they can use on the triggering damage.
 

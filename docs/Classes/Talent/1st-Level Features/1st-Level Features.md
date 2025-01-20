@@ -43,3 +43,5 @@ As a talent, you gain the following features.
 [MATERIALIZE](./Materialize.md)
 
 [OPTIC BLAST](./Optic%20Blast/Optic%20Blast.md)
+
+[AWE (3 CLARITY)](./Awe.md)

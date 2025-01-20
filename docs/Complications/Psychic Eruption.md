@@ -4,6 +4,10 @@ title: Psychic Eruption
 name_raw: Psychic Eruption
 name: Psychic Eruption
 type: complications
+keywords: Area, Psionic
+keyword_list:
+  - Area
+  - Psionic
 ability_type: Action
 distance: 3 burst
 target: All creatures
@@ -17,12 +21,12 @@ In times of stress, you get headaches. Psionic energy builds up in your mind unt
 
 ## Psychic Blast (cost: All Your Heroic Resources)
 
-*Psionic energy bursts from your body in an iridescent shimmer.* **Keywords:** Area, Psionic
+*Psionic energy bursts from your body in an iridescent shimmer.*
 
-|                       |                           |
-| :-------------------- | :------------------------ |
-| **Keywords:**         | **Type:** Action          |
-| **Distance:** 3 burst | **Target:** All creatures |
+|                             |                           |
+| :-------------------------- | :------------------------ |
+| **Keywords:** Area, Psionic | **Type:** Action          |
+| **Distance:** 3 burst       | **Target:** All creatures |
 
 **Power Roll + Highest Characteristic:**
 

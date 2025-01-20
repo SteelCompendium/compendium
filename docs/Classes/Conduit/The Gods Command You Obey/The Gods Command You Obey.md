@@ -7,20 +7,26 @@ cost: 5 Piety
 type: classes
 subtype: conduit
 kind: the gods command you obey
+keywords: \| Magic, Ranged, Strike
+keyword_list:
+  - \| Magic
+  - Ranged
+  - Strike
+distance: \| Ranged 10
 target: \| One creature \|
 ---
 
 # The Gods Command, You Obey (5 Piety)
 
-*You speak with the voice of your saint, commanding your enemies.* **Keywords:** | Magic, Ranged, Strike
+*You speak with the voice of your saint, commanding your enemies.*
 
-| **Type:**                            | Action                            |     |     |
-| ------------------------------------ | --------------------------------- | --- | --- |
-| **Distance:**                        | Ranged 10                         |     |     |
-|                                      |                                   |     |     |
-| :----------------------------------- | :-------------------------------- |     |     |
-| **Keywords:**                        | **Type:**                         |     |     |
-| **Distance:**                        | **Target:** \| One creature \|    |     |     |
+|                                        |                                |
+| :------------------------------------- | :----------------------------- |
+| **Keywords:** \| Magic, Ranged, Strike | **Type:**                      |
+| **Distance:** \| Ranged 10             | **Target:** \| One creature \| |
+
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 **Power Roll + Intuition:**
 

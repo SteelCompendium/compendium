@@ -6,20 +6,24 @@ name: Faithful Friend
 type: classes
 subtype: conduit
 kind: 1st-level features
+keywords: \| Magic
+keyword_list:
+  - \| Magic
+distance: \| Self
 target: \| Self \|
 ---
 
 # Faithful Friend
 
-*An animal spirit is drawn to you, sharing their senses and serving you faithfully.* **Keywords:** | Magic
+*An animal spirit is drawn to you, sharing their senses and serving you faithfully.*
 
-| **Type:**                            | Action                            |     |     |
-| ------------------------------------ | --------------------------------- | --- | --- |
-| **Distance:**                        | Self                              |     |     |
-|                                      |                                   |     |     |
-| :----------------------------------- | :-------------------------------- |     |     |
-| **Keywords:**                        | **Type:**                         |     |     |
-| **Distance:**                        | **Target:** \| Self \|            |     |     |
+|                        |                        |
+| :--------------------- | :--------------------- |
+| **Keywords:** \| Magic | **Type:**              |
+| **Distance:** \| Self  | **Target:** \| Self \| |
+
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal can't
 

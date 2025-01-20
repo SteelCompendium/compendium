@@ -7,18 +7,26 @@ cost: 9 Essence
 type: classes
 subtype: elementalist
 kind: 6th-level features
-ability_type: Maneuver **Distance:** Self or Ranged 10
+keywords: Earth, Fire, Green, Magic, Ranged
+keyword_list:
+  - Earth
+  - Fire
+  - Green
+  - Magic
+  - Ranged
+ability_type: Maneuver
+distance: Self or Ranged 10
 target: Self or 1 ally
 ---
 
 # Magma Titan (9 Essence)
 
-*Their body swells with lava, mud, and might, towering over their enemies.* **Keywords:** Earth, Fire, Green, Magic, Ranged
+*Their body swells with lava, mud, and might, towering over their enemies.*
 
-|               |                                                    |
-| :------------ | :------------------------------------------------- |
-| **Keywords:** | **Type:** Maneuver **Distance:** Self or Ranged 10 |
-| **Distance:** | **Target:** Self or 1 ally                         |
+|                                                 |                            |
+| :---------------------------------------------- | :------------------------- |
+| **Keywords:** Earth, Fire, Green, Magic, Ranged | **Type:** Maneuver         |
+| **Distance:** Self or Ranged 10                 | **Target:** Self or 1 ally |
 
 **Effect:** Until the start of your next turn, the target gains the following effects:
 

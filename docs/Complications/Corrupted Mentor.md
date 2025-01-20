@@ -7,6 +7,7 @@ type: complications
 keywords: \| Magic
 keyword_list:
   - \| Magic
+distance: \| Self
 target: \| Self \|
 ---
 
@@ -21,11 +22,10 @@ Your mentor taught you everything, and you trusted them implicitly--until they w
 |                        |                        |
 | :--------------------- | :--------------------- |
 | **Keywords:** \| Magic | **Type:**              |
-| **Distance:**          | **Target:** \| Self \| |
+| **Distance:** \| Self  | **Target:** \| Self \| |
 
-| **Type:**     | Maneuver |     |     |
-| ------------- | -------- | --- | --- |
-| **Distance:** | Self     |     |     |
+| **Type:** | Maneuver |     |     |
+| --------- | -------- | --- | --- |
 
 **Effect:** Until the end of your turn, when you use a heroic ability against a single target, you can weaken the target's life force, dealing extra corruption damage equal to your highest characteristic score.
 

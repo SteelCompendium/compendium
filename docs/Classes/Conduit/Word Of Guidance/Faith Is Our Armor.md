@@ -7,6 +7,10 @@ cost: 5 Piety
 type: classes
 subtype: conduit
 kind: word of guidance
+keywords: Magic, Ranged
+keyword_list:
+  - Magic
+  - Ranged
 ability_type: Maneuver
 distance: Ranged 10
 target: Self and up to three allies
@@ -14,12 +18,12 @@ target: Self and up to three allies
 
 # Faith Is Our Armor (5 Piety)
 
-*The heroes' armor glows with golden light, granting divine protection.* **Keywords:** Magic, Ranged
+*The heroes' armor glows with golden light, granting divine protection.*
 
-|                         |                                         |
-| :---------------------- | :-------------------------------------- |
-| **Keywords:**           | **Type:** Maneuver                      |
-| **Distance:** Ranged 10 | **Target:** Self and up to three allies |
+|                             |                                         |
+| :-------------------------- | :-------------------------------------- |
+| **Keywords:** Magic, Ranged | **Type:** Maneuver                      |
+| **Distance:** Ranged 10     | **Target:** Self and up to three allies |
 
 **Power Roll + Intuition:**
 

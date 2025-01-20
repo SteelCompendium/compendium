@@ -4,6 +4,11 @@ title: Elf, Wode
 name_raw: Elf, Wode
 name: Elf, Wode
 type: ancestries
+keywords: Magic, Ranged, Strike
+keyword_list:
+  - Magic
+  - Ranged
+  - Strike
 ability_type: Action
 distance: Ranged 10
 target: 1 creature
@@ -127,12 +132,12 @@ THE WODE [[Defend|DEFENDS]] (COSTS 2 POINTS) You have the following signature ab
 
 ##### The Wode Defends
 
-*Thorny vines erupt into existence and attempt to bind your foe.* **Keywords:** Magic, Ranged, Strike
+*Thorny vines erupt into existence and attempt to bind your foe.*
 
-|                         |                        |
-| :---------------------- | :--------------------- |
-| **Keywords:**           | **Type:** Action       |
-| **Distance:** Ranged 10 | **Target:** 1 creature |
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Magic, Ranged, Strike | **Type:** Action       |
+| **Distance:** Ranged 10             | **Target:** 1 creature |
 
 **Power Roll + Might or Agility:**
 

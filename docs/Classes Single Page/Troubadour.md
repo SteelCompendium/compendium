@@ -110,7 +110,7 @@ You start off with the Choreography and Revitalizing Limerick routine ability. Y
 
 ## Choreography
 
-*Taps, kicks, steps. Now it's all "choreography."* **Keywords:** Area, Magic, Routine
+*Taps, kicks, steps. Now it's all "choreography."*
 
 |                             |                            |
 | :-------------------------- | :------------------------- |
@@ -121,7 +121,7 @@ You start off with the Choreography and Revitalizing Limerick routine ability. Y
 
 ### Revitalizing Limerick
 
-*There once was a man from Capital....* **Keywords:** Area, Magic, Routine
+*There once was a man from Capital....*
 
 **Effect:** While this routine is active, choose a number of targets equal to your Presence score at the end of your turn. Each chosen target can spend a Recovery.
 
@@ -143,7 +143,7 @@ You gain the following routine ability, usable with your Curtain Call feature.
 
 #### Acrobatics
 
-*Folks love a good tumble.* **Keywords:** Area, Magic, Routine
+*Folks love a good tumble.*
 
 **Effect:** While this routine is active, any target who starts their turn in the aura can automatically obtain a tier 3 result on one test made to jump, tumble, or climb as part of their movement before the end of their turn.
 
@@ -153,7 +153,7 @@ You gain the following routine ability, usable with your Curtain Call feature.
 
 #### Blocking
 
-*No, no, no, you lose the audience that way. Try it like this ...* **Keywords:** Area, Magic, Routine
+*No, no, no, you lose the audience that way. Try it like this ...*
 
 **Effect:** At the end of each of your turns while this routine is active, you can choose a number of creatures equal to your Presence score in the aura, causing those creatures to be teleported to unoccupied squares in the aura. A target can't be teleported in a way that would harm them (such as over a cliff), leave them dying, or result in them suffering a condition or other negative effect.
 
@@ -161,13 +161,12 @@ You gain the following routine ability, usable with your Curtain Call feature.
 
 You gain the following ability.
 
-##### Dramatic Monologue
+#### Dramatic Monologue
 
-*It doesn't need to make sense. Just say it with emotionality.* **Keywords:** | Magic, Ranged
+*It doesn't need to make sense. Just say it with emotionality.*
 
-| **Type:**     | Maneuver  |     |     |
-| ------------- | --------- | --- | --- |
-| **Distance:** | Ranged 10 |     |     |
+| **Type:** | Maneuver |     |     |
+| --------- | -------- | --- | --- |
 
 **Effect:** Choose one of the following effects:
 
@@ -183,7 +182,7 @@ You gain the following ability.
 
 #### Power Chord
 
-*Your instrument rings true and your music blows everyone away.* **Keywords:** Area, Magic
+*Your instrument rings true and your music blows everyone away.*
 
 Power Roll + Presence: - *11 or lower:* **Push 1** - *12-16:* **Push 2** - *17+:* **Push 3**
 
@@ -193,7 +192,7 @@ You gain the following ability.
 
 #### Star Power
 
-*You're the one they came to see!* **Keywords:** --
+*You're the one they came to see!*
 
 **Effect:** You gain a +2 bonus to speed until the end of your turn. Additionally, the next power roll you make this turn can't have a result lower than tier 2.
 
@@ -213,7 +212,7 @@ Power Roll + Presence: - *11 or lower:* **Lightning damage equal to your level**
 
 #### "ballad Of The Beast"
 
-*Teeth are bare!* ?*Eyes black!* ?*No escaping the beast!*? **Keywords:** Area, Magic, Routine
+*Teeth are bare!* ?*Eyes black!* ?*No escaping the beast!*?
 
 **Effect:** While this routine is active, each target who starts their turn in the aura gains a surge.
 
@@ -231,7 +230,7 @@ Your troubadour class act grants you a triggered action as shown on the Class Ac
 
 ##### Harmonize (3 Drama)
 
-*Give the chorus a little punch.* **Keywords:** --
+*Give the chorus a little punch.*
 
 **Trigger:** The target uses a non-area ability that targets one enemy.
 
@@ -249,7 +248,7 @@ Your troubadour class act grants you a triggered action as shown on the Class Ac
 
 ### Turnabout Is Fair Play
 
-*All's fair in love and whatever.* **Keywords:** --
+*All's fair in love and whatever.*
 
 **Trigger:** The target makes an ability power roll with at least one edge or bane.
 
@@ -271,7 +270,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ### Artful Flourish
 
-*And they said practicing fencing was a waste!* **Keywords:** Melee, Strike, Weapon
+*And they said practicing fencing was a waste!*
 
 Power Roll + Agility: - *11 or lower:* **2 damage** - *12-16:* **5 damage** - *17+:* **7 damage**
 
@@ -281,17 +280,16 @@ Power Roll + Agility: - *11 or lower:* **2 damage** - *12-16:* **5 damage** - *1
 
 ### Cutting Sarcasm
 
-*There you are, radiating your usual charisma.* **Keywords:** Magic, Ranged, Strike, Weapon
+*There you are, radiating your usual charisma.*
 
 Power Roll + Presence: - *11 or lower:* **2 + P psychic damage;** P \< weak\*\*, bleeding (save ends)\*\* - *12-16:* **5 + P psychic damage;** P \< average\*\*, bleeding (save ends)\*\* - *17+:* **7 + P psychic damage;** P \< strong\*\*, bleeding (save ends)\*\*
 
 ### Instigator
 
-*I didn't do it! What?* **Keywords:** | Melee, Strike, Weapon
+*I didn't do it! What?*
 
-| **Type:**     | Action  |     |     |
-| ------------- | ------- | --- | --- |
-| **Distance:** | Melee 1 |     |     |
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 Power Roll + Presence: - *11 or lower:* **3 + P damage** - *12-16:* **6 + P damage** - *17+:* **9 + P damage**
 
@@ -299,7 +297,7 @@ Power Roll + Presence: - *11 or lower:* **3 + P damage** - *12-16:* **6 + P dama
 
 ##### Witty Banter
 
-*A lyrical (and physical) jab insults an enemy and inspires an ally.* **Keywords:** Magic, Melee, Ranged, Strike
+*A lyrical (and physical) jab insults an enemy and inspires an ally.*
 
 Power Roll + Presence: - *11 or lower:* **4 + P psychic damage** - *12-16:* **5 + P psychic damage** - *17+:* **7 + P psychic damage**
 
@@ -317,7 +315,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 ### Harsh Critic (3 Drama)
 
-*Just one bad review will ruin their day.* **Keywords:** Magic, Melee, Ranged, Strike
+*Just one bad review will ruin their day.*
 
 Power Roll + Presence: - *11 or lower:* **7 + P sonic damage** - *12-16:* **10 + P sonic damage** - *17+:* **13 + P sonic damage**
 
@@ -325,7 +323,7 @@ Power Roll + Presence: - *11 or lower:* **7 + P sonic damage** - *12-16:* **10 +
 
 ## Hypnotic Overtones (3 Drama)
 
-*You produce an entrancing note that twists the senses in a spectacular fashion.* **Keywords:** Area, Magic
+*You produce an entrancing note that twists the senses in a spectacular fashion.*
 
 Power Roll + Presence: - *11 or lower:* **Slide 1;** I \< weak\*\*, dazed (save ends)\*\* - *12-16:* **Slide 1;** I \< average\*\*, dazed (save ends)\*\* - *17+:* **Slide 2;** I \< strong\*\*, dazed (save ends)\*\*
 
@@ -333,7 +331,7 @@ Power Roll + Presence: - *11 or lower:* **Slide 1;** I \< weak\*\*, dazed (save 
 
 ## Quick Rewrite (3 Drama)
 
-*You write something unforeseen into the scene that hinders your enemy.* **Keywords:** Area, Magic, Ranged
+*You write something unforeseen into the scene that hinders your enemy.*
 
 Power Roll + Presence: - *11 or lower:* **4 damage;** P \< weak\*\*, slowed (save ends)\*\* - *12-16:* **5 damage;** P \< average\*\*, slowed (save ends)\*\* - *17+:* **6 damage;** P \< strong\*\*, restrained (save ends)\*\*
 
@@ -341,11 +339,10 @@ Power Roll + Presence: - *11 or lower:* **4 damage;** P \< weak\*\*, slowed (sav
 
 ### Upstage (3 Drama)
 
-*As you bob and weave through the crowd, you can't help but leave the audience wanting more.* **Keywords:** | Melee, Strike, Weapon
+*As you bob and weave through the crowd, you can't help but leave the audience wanting more.*
 
-| **Type:**     | Maneuver        |     |     |
-| ------------- | --------------- | --- | --- |
-| **Distance:** | Self; see below |     |     |
+| **Type:** | Maneuver |     |     |
+| --------- | -------- | --- | --- |
 
 **Effect:** You shift up to your speed. You make one power roll that targets each enemy who becomes adjacent to you during the shift.
 
@@ -357,25 +354,25 @@ Choose one heroic ability from the following options, each of which costs 5 dram
 
 ### Dramatic Reversal (5 Drama)
 
-*Give the audience a surprise.* **Keywords:** Area, Magic
+*Give the audience a surprise.*
 
 Power Roll + Presence: - *11 or lower:* **The target can shift 1 square and make a free strike.** - *12-16:* **The target can shift up to 2 squares and make a free strike with an edge.** - *17+:* **The target can shift up to 3 squares and make a free strike with and edge, then can spend a Recovery.**
 
 ### Fake Your Death (5 Drama)
 
-*O happy dagger, this is thy sheath!* **Keywords:** Magic
+*O happy dagger, this is thy sheath!*
 
 **Effect:** You turn invisible and create a magical illusion of your corpse falling in your space. While you are invisible, you gain a +3 bonus to speed and you ignore difficult terrain. The illusion melts into the ground and your invisibility ends at the end of your next turn, or earlier if the illusion is interacted with, if you take damage, or if you use an action or a maneuver.
 
 ### Flip The Script (5 Drama)
 
-*You try a different take on events, justifying the new locations everyone ended up in.* **Keywords:** Area, Magic
+*You try a different take on events, justifying the new locations everyone ended up in.*
 
 **Effect:** Each target can immediately teleport up to 5 squares. Any teleported target who was slowed is no longer slowed.
 
 ### Method Acting (5 Drama)
 
-*They're so hurt by your performance, you sort of start to believe it yourself.* **Keywords:** Melee, Strike, Weapon
+*They're so hurt by your performance, you sort of start to believe it yourself.*
 
 Power Roll + Agility: - *11 or lower:* **6 + A damage;** P \< weak\*\*, weakened (save ends)\*\* - *12-16:* **10 + A damage;** P \< average\*\*, weakened (save ends)\*\* - *17+:* **14 + A damage;** P \< strong\*\*, weakened (save ends)\*\*
 
@@ -429,7 +426,7 @@ Choose one of the following abilities.
 
 ### Classic Chandelier Stunt (5 Drama)
 
-*Audiences love this bit.* **Keywords:** Melee, Strike, Weapon
+*Audiences love this bit.*
 
 **Effect:** Each target shifts up to 5 squares, and can shift vertically. Both targets must end this movement adjacent to each other and on solid ground. Each target can then make a melee free strike that deals additional damage equal to twice their highest characteristic score.
 
@@ -447,11 +444,10 @@ Choose one of the following abilities.
 
 ## Guest Star (5 Drama)
 
-*We offered them a percentage of the gross. So they're working for free!* **Keywords:** | Magic, Ranged
+*We offered them a percentage of the gross. So they're working for free!*
 
-| **Type:**     | Action    |     |     |
-| ------------- | --------- | --- | --- |
-| **Distance:** | Ranged 10 |     |     |
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 **Effect:** Either a bystander within distance is uplifted by your magic, or a mysterious new hero appears in an unoccupied space to help out during the encounter. This guest star is controlled by you, has their own turn, shares your characteristics. Their stamina is maximum is half yours. They have no abilities other than your melee and ranged free strikes. When the target is reduced to 0 Stamina or at the end of the encounter, they retreat or revert to a bystander. An individual bystander can't be uplifted in this way more than once in an encounter.
 

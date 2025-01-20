@@ -6,6 +6,10 @@ name: Words Of Wrath And Grace
 cost: 7 Piety
 type: classes
 subtype: conduit
+keywords: Area, Magic
+keyword_list:
+  - Area
+  - Magic
 ability_type: Action
 distance: 5 burst
 target: Each enemy in the area
@@ -13,12 +17,12 @@ target: Each enemy in the area
 
 # Words Of Wrath And Grace (7 Piety)
 
-*Your saint grants your enemies a vision of whatever they most fear.* **Keywords:** Area, Magic
+*Your saint grants your enemies a vision of whatever they most fear.*
 
-|                       |                                    |
-| :-------------------- | :--------------------------------- |
-| **Keywords:**         | **Type:** Action                   |
-| **Distance:** 5 burst | **Target:** Each enemy in the area |
+|                           |                                    |
+| :------------------------ | :--------------------------------- |
+| **Keywords:** Area, Magic | **Type:** Action                   |
+| **Distance:** 5 burst     | **Target:** Each enemy in the area |
 
 Power Roll + Intuition: - *11 or lower:* **2 holy damage** - *12-16:* **5 holy damage** - *17+:* **7 holy damage**
 

@@ -22,6 +22,10 @@ Your choice of shadow college grants you one or more features as shown on the 1s
 
 [BLACK ASH TELEPORT](./Black%20Ash%20Teleport.md)
 
+[BLACK ASH TELEPORT](./Black%20Ash%20Teleport.md)
+
+[COAT THE BLADE](./Coat%20The%20Blade.md)
+
 [COAT THE BLADE](./Coat%20The%20Blade.md)
 
 [I'M NO THREAT](./Im%20No%20Threat.md)

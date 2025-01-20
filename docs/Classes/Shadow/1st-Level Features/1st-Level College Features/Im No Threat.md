@@ -6,6 +6,9 @@ name: I'm No Threat
 type: classes
 subtype: shadow
 kind: 1st-level features
+keywords: Magic
+keyword_list:
+  - Magic
 ability_type: Maneuver
 distance: Self
 target: Self
@@ -13,12 +16,12 @@ target: Self
 
 # I'm No Threat
 
-*Taking on the illusory countenance of another creature gives you an advantage on subterfuge.* **Keywords:** Magic
+*Taking on the illusory countenance of another creature gives you an advantage on subterfuge.*
 
-|                    |                    |
-| :----------------- | :----------------- |
-| **Keywords:**      | **Type:** Maneuver |
-| **Distance:** Self | **Target:** Self   |
+|                     |                    |
+| :------------------ | :----------------- |
+| **Keywords:** Magic | **Type:** Maneuver |
+| **Distance:** Self  | **Target:** Self   |
 
 **Effect:** When you use this ability, you cover yourself in an illusion that causes you to appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic, unarmed, and capable version of yourself. While this illusion lasts, your strikes made against other creatures gain an edge. If you use this ability in combat, you gain a surge when you use it.
 

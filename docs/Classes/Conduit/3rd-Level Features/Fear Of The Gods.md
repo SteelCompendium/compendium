@@ -7,18 +7,24 @@ cost: 7 Piety
 type: classes
 subtype: conduit
 kind: 3rd-level features
+keywords: Area, Magic, Ranged
+keyword_list:
+  - Area
+  - Magic
+  - Ranged
 ability_type: Action
-distance: 5 cube within 10 **Target:** Each enemy in the area
+distance: 5 cube within 10
+target: Each enemy in the area
 ---
 
 # Fear Of The Gods (7 Piety)
 
-*Your divine magic makes a creature appear as what your enemies fear most.* **Keywords:** Area, Magic, Ranged
+*Your divine magic makes a creature appear as what your enemies fear most.*
 
-|                                                                   |                  |
-| :---------------------------------------------------------------- | :--------------- |
-| **Keywords:**                                                     | **Type:** Action |
-| **Distance:** 5 cube within 10 **Target:** Each enemy in the area | **Target:**      |
+|                                   |                                    |
+| :-------------------------------- | :--------------------------------- |
+| **Keywords:** Area, Magic, Ranged | **Type:** Action                   |
+| **Distance:** 5 cube within 10    | **Target:** Each enemy in the area |
 
 Power Roll + Intuition: - *11 or lower:* **6 psychic damage;** I \< weak\*\*, frightened (save ends)\*\* - *12-16:* **9 psychic damage;** I \< average\*\*, frightened (save ends)\*\* - *17+:* **13 psychic damage;** I \< strong\*\*, frightened (save ends)\*\*
 

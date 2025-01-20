@@ -7,6 +7,11 @@ cost: 11 Focus
 type: classes
 subtype: tactician
 kind: 9th-level features
+keywords: Ranged, Strike, Weapon
+keyword_list:
+  - Ranged
+  - Strike
+  - Weapon
 ability_type: Action
 distance: 3 burst
 target: Self and all allies
@@ -14,11 +19,11 @@ target: Self and all allies
 
 # Blot Out The Sun!(11 Focus)
 
-*What makes a good soldier? The ability to fire four shots a minute in any weather.* **Keywords:** Ranged, Strike, Weapon
+*What makes a good soldier? The ability to fire four shots a minute in any weather.*
 
-|                       |                                 |
-| :-------------------- | :------------------------------ |
-| **Keywords:**         | **Type:** Action                |
-| **Distance:** 3 burst | **Target:** Self and all allies |
+|                                      |                                 |
+| :----------------------------------- | :------------------------------ |
+| **Keywords:** Ranged, Strike, Weapon | **Type:** Action                |
+| **Distance:** 3 burst                | **Target:** Self and all allies |
 
 **Effect:** Each target can make a ranged free strike with an edge against all marked enemies within range. Targets ignore any banes they have on their attack roll.

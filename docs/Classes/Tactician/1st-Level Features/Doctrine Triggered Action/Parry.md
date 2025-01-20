@@ -6,6 +6,10 @@ name: Parry
 type: classes
 subtype: tactician
 kind: 1st-level features
+keywords: Melee, Weapon
+keyword_list:
+  - Melee
+  - Weapon
 ability_type: Triggered
 distance: Melee 1
 target: Self or one ally
@@ -14,12 +18,12 @@ trigger: A creature deals damage to the target.
 
 # Parry
 
-*Your quick reflexes cost an enemy the precision they seek.* **Keywords:** Melee, Weapon
+*Your quick reflexes cost an enemy the precision they seek.*
 
-|                       |                              |
-| :-------------------- | :--------------------------- |
-| **Keywords:**         | **Type:** Triggered          |
-| **Distance:** Melee 1 | **Target:** Self or one ally |
+|                             |                              |
+| :-------------------------- | :--------------------------- |
+| **Keywords:** Melee, Weapon | **Type:** Triggered          |
+| **Distance:** Melee 1       | **Target:** Self or one ally |
 
 **Trigger:** A creature deals damage to the target.
 

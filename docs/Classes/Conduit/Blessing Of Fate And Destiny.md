@@ -6,18 +6,23 @@ name: Blessing Of Fate And Destiny
 cost: 5 Piety
 type: classes
 subtype: conduit
+keywords: Magic, Ranged
+keyword_list:
+  - Magic
+  - Ranged
 ability_type: Action
-distance: Ranged 10 **Target:** Three creatures, including self
+distance: Ranged 10
+target: Three creatures, including self
 ---
 
 # Blessing Of Fate And Destiny (5 Piety)
 
-*Your enemies suffer their fate; your allies embrace their destiny!* **Keywords:** Magic, Ranged
+*Your enemies suffer their fate; your allies embrace their destiny!*
 
-|                                                                     |                  |
-| :------------------------------------------------------------------ | :--------------- |
-| **Keywords:**                                                       | **Type:** Action |
-| **Distance:** Ranged 10 **Target:** Three creatures, including self | **Target:**      |
+|                             |                                             |
+| :-------------------------- | :------------------------------------------ |
+| **Keywords:** Magic, Ranged | **Type:** Action                            |
+| **Distance:** Ranged 10     | **Target:** Three creatures, including self |
 
 **Effect:** Choose one of the following effects, which lasts until the end of the encounter or until you are dying:
 

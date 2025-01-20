@@ -6,18 +6,25 @@ name: Materialize
 type: classes
 subtype: talent
 kind: 1st-level features
+keywords: Psionic, Ranged, Resopathy, Strike
+keyword_list:
+  - Psionic
+  - Ranged
+  - Resopathy
+  - Strike
+ability_type: Action
 distance: Ranged 10
 target: One creature or object
 ---
 
 # Materialize
 
-*You picture an object in your mind and give it form in the world, directly above your opponent's head.* **Keywords:** Psionic, Ranged, Resopathy, Strike **Type:** Action
+*You picture an object in your mind and give it form in the world, directly above your opponent's head.*
 
-|                         |                                    |
-| :---------------------- | :--------------------------------- |
-| **Keywords:**           | **Type:**                          |
-| **Distance:** Ranged 10 | **Target:** One creature or object |
+|                                                  |                                    |
+| :----------------------------------------------- | :--------------------------------- |
+| **Keywords:** Psionic, Ranged, Resopathy, Strike | **Type:** Action                   |
+| **Distance:** Ranged 10                          | **Target:** One creature or object |
 
 Power Roll + Reason: - *11 or lower:* **3 + R damage** - *12-16:* **5 + R damage** - *17+:* **8 + R damage**
 

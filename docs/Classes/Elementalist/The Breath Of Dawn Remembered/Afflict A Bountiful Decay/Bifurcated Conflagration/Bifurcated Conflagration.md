@@ -6,6 +6,12 @@ name: Bifurcated Conflagration
 type: classes
 subtype: elementalist
 kind: the breath of dawn remembered
+keywords: Fire, Magic, Ranged, Strike
+keyword_list:
+  - Fire
+  - Magic
+  - Ranged
+  - Strike
 ability_type: Action
 distance: Ranged 10
 target: Two creatures or objects
@@ -13,12 +19,12 @@ target: Two creatures or objects
 
 # Bifurcated Conflagration
 
-*Two jets of flame lance out at your command.* **Keywords:** Fire, Magic, Ranged, Strike
+*Two jets of flame lance out at your command.*
 
-|                         |                                      |
-| :---------------------- | :----------------------------------- |
-| **Keywords:**           | **Type:** Action                     |
-| **Distance:** Ranged 10 | **Target:** Two creatures or objects |
+|                                           |                                      |
+| :---------------------------------------- | :----------------------------------- |
+| **Keywords:** Fire, Magic, Ranged, Strike | **Type:** Action                     |
+| **Distance:** Ranged 10                   | **Target:** Two creatures or objects |
 
 Power Roll + Reason: - *11 or lower:* **2 fire damage** - *12-16:* **4 fire damage** - *17+:* **6 fire damage**
 

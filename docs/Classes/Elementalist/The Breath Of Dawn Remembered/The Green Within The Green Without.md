@@ -6,6 +6,12 @@ name: The Green Within, The Green Without
 type: classes
 subtype: elementalist
 kind: the breath of dawn remembered
+keywords: Green, Magic, Ranged, Strike
+keyword_list:
+  - Green
+  - Magic
+  - Ranged
+  - Strike
 ability_type: Action
 distance: Ranged 10
 target: One creature
@@ -13,12 +19,12 @@ target: One creature
 
 # The Green Within, The Green Without
 
-*Whipping vines erupt from a foe's body to grasp at another close by.* **Keywords:** Green, Magic, Ranged, Strike
+*Whipping vines erupt from a foe's body to grasp at another close by.*
 
-|                         |                          |
-| :---------------------- | :----------------------- |
-| **Keywords:**           | **Type:** Action         |
-| **Distance:** Ranged 10 | **Target:** One creature |
+|                                            |                          |
+| :----------------------------------------- | :----------------------- |
+| **Keywords:** Green, Magic, Ranged, Strike | **Type:** Action         |
+| **Distance:** Ranged 10                    | **Target:** One creature |
 
 Power Roll + Reason: - *11 or lower:* **2 + R damage** - *12-16:* **5 + R damage** - *17+:* **7 + R damage**
 

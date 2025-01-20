@@ -6,6 +6,11 @@ name: Phalanx Breaker
 cost: 5 Rage
 type: classes
 subtype: fury
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Self
 target: Self
@@ -13,12 +18,12 @@ target: Self
 
 # Phalanx Breaker (5 Rage)
 
-*Organizing your forces like feckless creatures of Law. Pitiful.* **Keywords:** Melee, Strike, Weapon
+*Organizing your forces like feckless creatures of Law. Pitiful.*
 
-|                    |                  |
-| :----------------- | :--------------- |
-| **Keywords:**      | **Type:** Action |
-| **Distance:** Self | **Target:** Self |
+|                                     |                  |
+| :---------------------------------- | :--------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action |
+| **Distance:** Self                  | **Target:** Self |
 
 **Effect:** You shift up to your speed. You make one power roll that targets up to three enemies you come adjacent to during the shift.
 

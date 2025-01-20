@@ -7,18 +7,24 @@ cost: 5 Focus
 type: classes
 subtype: tactician
 kind: 2nd-level features
-ability_type: Action **Distance:** Melee 1
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
+ability_type: Action
+distance: Melee 1
 target: One creature
 ---
 
 # Try Me Instead (5 Focus)
 
-*"Try picking on someone MY size."* **Keywords:** Melee, Strike, Weapon
+*"Try picking on someone MY size."*
 
-|               |                                        |
-| :------------ | :------------------------------------- |
-| **Keywords:** | **Type:** Action **Distance:** Melee 1 |
-| **Distance:** | **Target:** One creature               |
+|                                     |                          |
+| :---------------------------------- | :----------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action         |
+| **Distance:** Melee 1               | **Target:** One creature |
 
 **Effect:** You shift your speed directly toward an ally adjacent to the target, then swap locations with the ally as long as you can each fit into the other's space. The ally can spend a Recovery, and you make a power roll against the target.
 

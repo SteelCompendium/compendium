@@ -6,24 +6,25 @@ name: Dramatic Monologue
 type: classes
 subtype: troubadour
 kind: choreography
+keywords: \| Magic, Ranged
+keyword_list:
+  - \| Magic
+  - Ranged
+distance: \| Ranged 10
 target: \| Special \|
 ---
 
 # Dramatic Monologue
 
-You gain the following ability.
+*It doesn't need to make sense. Just say it with emotionality.*
 
-## Dramatic Monologue
+|                                |                           |
+| :----------------------------- | :------------------------ |
+| **Keywords:** \| Magic, Ranged | **Type:**                 |
+| **Distance:** \| Ranged 10     | **Target:** \| Special \| |
 
-*It doesn't need to make sense. Just say it with emotionality.* **Keywords:** | Magic, Ranged
-
-| **Type:**                            | Maneuver                          |     |     |
-| ------------------------------------ | --------------------------------- | --- | --- |
-| **Distance:**                        | Ranged 10                         |     |     |
-|                                      |                                   |     |     |
-| :----------------------------------- | :-------------------------------- |     |     |
-| **Keywords:**                        | **Type:**                         |     |     |
-| **Distance:**                        | **Target:** \| Special \|         |     |     |
+| **Type:** | Maneuver |     |     |
+| --------- | -------- | --- | --- |
 
 **Effect:** Choose one of the following effects:
 

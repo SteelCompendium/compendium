@@ -5,7 +5,12 @@ name_raw: Ratcatcher
 name: Ratcatcher
 type: titles
 subtype: 1st echelon
-ability_type: Maneuver **Distance:** 5 burst
+keywords: Area, Magic
+keyword_list:
+  - Area
+  - Magic
+ability_type: Maneuver
+distance: 5 burst
 target: All enemies hidden from you
 ---
 
@@ -21,11 +26,11 @@ Choose one of the following benefits:
 - **Everybody Move!** When you use the [[Knockback]] maneuver, you can use it on one additional creature of your size or two additional smaller creatures.
 - **Come Out to Play:** You gain the Come Out to Play ability, which can be paid for using the heroic resource of your class:
 
-COSTS 1 HEROIC RESOURCE: COME OUT TO PLAY *Come out to play-yay!* **Keywords:** Area, Magic
+COSTS 1 HEROIC RESOURCE: COME OUT TO PLAY *Come out to play-yay!*
 
-|               |                                          |
-| :------------ | :--------------------------------------- |
-| **Keywords:** | **Type:** Maneuver **Distance:** 5 burst |
-| **Distance:** | **Target:** All enemies hidden from you  |
+|                           |                                         |
+| :------------------------ | :-------------------------------------- |
+| **Keywords:** Area, Magic | **Type:** Maneuver                      |
+| **Distance:** 5 burst     | **Target:** All enemies hidden from you |
 
 **Effect:** Each target is **P \< \[average\]** [[Taunted|taunted]] (EoT). You know the locations of creatures [[Taunted|taunted]] in this way.

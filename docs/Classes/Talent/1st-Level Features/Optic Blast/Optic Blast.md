@@ -6,18 +6,25 @@ name: Optic Blast
 type: classes
 subtype: talent
 kind: 1st-level features
+keywords: Metamorphosis, Psionic, Ranged, Strike
+keyword_list:
+  - Metamorphosis
+  - Psionic
+  - Ranged
+  - Strike
+ability_type: Action
 distance: Ranged 10
 target: One creature or object
 ---
 
 # Optic Blast
 
-*Your eyes emit rays of powerful enervating force.* **Keywords:** Metamorphosis, Psionic, Ranged, Strike **Type:** Action
+*Your eyes emit rays of powerful enervating force.*
 
-|                         |                                    |
-| :---------------------- | :--------------------------------- |
-| **Keywords:**           | **Type:**                          |
-| **Distance:** Ranged 10 | **Target:** One creature or object |
+|                                                      |                                    |
+| :--------------------------------------------------- | :--------------------------------- |
+| **Keywords:** Metamorphosis, Psionic, Ranged, Strike | **Type:** Action                   |
+| **Distance:** Ranged 10                              | **Target:** One creature or object |
 
 Power Roll + Reason: - *11 or lower:* **2 + R damage;** M \< weak\*\*, prone\*\* - *12-16:* **4 + R damage;** M \< average\*\*, prone\*\* - *17+:* **6 + R damage;** M \< strong\*\*, prone\*\*
 

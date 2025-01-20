@@ -4,11 +4,11 @@ title: Censor
 name_raw: Censor
 name: Censor
 type: classes single page
-keywords: Magic, Ranged, Strike
+keywords: Melee, Strike, Weapon
 keyword_list:
-  - Magic
-  - Ranged
+  - Melee
   - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: One creature
@@ -106,11 +106,11 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 
 ### Judgment
 
-*You utter a pray that outlines your foe in holy energy.* **Keywords:** Magic, Ranged
+*You utter a pray that outlines your foe in holy energy.*
 
 |                                     |                          |
 | :---------------------------------- | :----------------------- |
-| **Keywords:** Magic, Ranged, Strike | **Type:** Action         |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action         |
 | **Distance:** Melee 1               | **Target:** One creature |
 
 **Effect:** The target is judged by you until the end of the encounter, you die, you use this ability again, or you willingly end this effect (no action required). If another censor judges the target, then your judgment on the target ends.
@@ -119,9 +119,11 @@ If a judged creature uses an action and you have line of effect to them, you can
 
 When the judged creature is reduced to 0 Stamina, you can use a free triggered action to use this ability against a new target within distance.
 
-In addition, you can spend 1 judgment to take one of the following free triggered actions. You can't use more than one instance of a benefit per
+In addition, you can spend 1 judgment to take one of the following free triggered actions. You can't use more than one instance of a benefit per trigger.
 
-**Trigger:** - When an adjacent judged target shifts, you can make a melee free strike against them. The target doesn't shift and their speed becomes 0 until the end of this turn. - When a judged target makes a power roll, you can add a bane to the roll. - When a judged target within distance uses an ability with a potency against another creature, you reduce the potency of the ability by 1 for that creature (to a minimum of 0).
+- When an adjacent judged target shifts, you can make a melee free strike against them. The target doesn't shift and their speed becomes 0 until the end of this turn.
+- When a judged target makes a power roll, you can add a bane to the roll.
+- When a judged target within distance uses an ability with a potency against another creature, you reduce the potency of the ability by 1 for that creature (to a minimum of 0).
 
 #### Judgment Order Benefit
 
@@ -198,7 +200,7 @@ You gain the following ability.
 
 #### Faithful Friend
 
-*An animal spirit is drawn to you, sharing their senses and serving you faithfully.* **Keywords:** Magic
+*An animal spirit is drawn to you, sharing their senses and serving you faithfully.*
 
 **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal can't physically interact with the world, but they have a speed of 5 and can fly. While you are within 10 squares of the spirit, you can sense everything an animal of their type would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, it is dismissed and you take 1d10 psychic damage, which can't be reduced in any way.
 
@@ -208,11 +210,10 @@ You gain the following ability.
 
 #### Grave Speech
 
-*You commune with the lingering soul of the recently dead.* **Keywords:** | Magic
+*You commune with the lingering soul of the recently dead.*
 
-| **Type:**     | Maneuver |     |     |
-| ------------- | -------- | --- | --- |
-| **Distance:** | Melee 1  |     |     |
+| **Type:** | Maneuver |     |     |
+| --------- | -------- | --- | --- |
 
 **Effect:** You can speak to the target corpse (including just the head) of a creature who has died within the last 24 hours and who can speak a language you know. The target regards you as they would have in life, and you might need to make tests to influence them and convince them to speak with you. The trauma of dying can make a creature's memory of that event hazy, but the target otherwise knows all they knew in life. After 1 minute, the effect ends. You can't use this ability on the same creature twice.
 
@@ -222,7 +223,7 @@ You gain the following ability.
 
 #### Hands Of The Maker
 
-*You can craft objects with the power of your mind!* **Keywords:** Magic
+*You can craft objects with the power of your mind!*
 
 **Effect:** You create a mundane object no larger than size 1S. You can maintain a number of objects created this way equal to your Presence score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
 
@@ -260,7 +261,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ### Back, Blasphemer!
 
-*You channel power through your weapon to repel foes.* **Keywords:** Area, Magic, Weapon
+*You channel power through your weapon to repel foes.*
 
 **Power Roll + Presence:**
 
@@ -270,7 +271,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 ### Every Step ... Death!
 
-*You show your foe a glimpse of their fate after death.* **Keywords:** Magic, Ranged, Strike
+*You show your foe a glimpse of their fate after death.*
 
 **Power Roll + Presence:**
 
@@ -282,13 +283,13 @@ Choose one signature ability from the following options. Signature abilities can
 
 ### Halt, Miscreant!
 
-*"Your race is run!"* **Keywords:** Melee, Strike, Weapon
+*"Your race is run!"*
 
 Power Roll + Might: - *11 or lower:* **2 + m holy damage;** P \< weak\*\*, slowed (save ends)\*\* - *12-16:* **5 + M holy damage;** P \< average\*\*, slowed (save ends)\*\* - *17+:* **7 + M holy damage;** P \< strong\*\*, slowed (save ends)\*\*
 
 ### Your Allies Cannot Save You!
 
-*"See how they abandon you!"* **Keywords:** Melee, Strike, Weapon
+*"See how they abandon you!"*
 
 **Power Roll + Might:**
 
@@ -308,7 +309,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 ## Behold, A Shield Of Faith!(3 Wrath)
 
-*"Allow me to intercede."* **Keywords:** Melee, Strike, Weapon
+*"Allow me to intercede."*
 
 **Power Roll + Might:**
 
@@ -320,7 +321,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 ### Driving Assault (3 Wrath)
 
-*As you force your enemy back with your weapon, you use your faith to stay close.* **Keywords:** Melee, Strike, Weapon
+*As you force your enemy back with your weapon, you use your faith to stay close.*
 
 **Power Roll + Might:**
 
@@ -332,7 +333,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 ### The Gods Punish And Defend (3 Wrath)
 
-*You channel holy energy to smite a foe and heal an ally.* **Keywords:** Melee, Strike, Weapon
+*You channel holy energy to smite a foe and heal an ally.*
 
 **Power Roll + Might:**
 
@@ -358,7 +359,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 ### Arrest (5 Wrath)
 
-*"I got you, you son of a bitch."* **Keywords:** Magic, Melee, Strike, Weapon
+*"I got you, you son of a bitch."*
 
 **Power Roll + Might:**
 
@@ -370,7 +371,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 ## Behold The Face Of Evil!(5 Wrath)
 
-*You show your enemies a vision of the true nature of one of their companions.* **Keywords:** Magic, Melee, Ranged, Strike, Weapon
+*You show your enemies a vision of the true nature of one of their companions.*
 
 Power Roll + Might: - *11 or lower:* **3 + M holy damage; if the target has** P \< weak\*\*, each enemy within 2 squares of them is frightened of you (save ends)\*\* - *12-16:* **5 + M holy damage; if the target has** P \< aver**a**ge\*\*, each enemy within 2 squares of them is frightened of you (save ends)\*\* - *17+:* **8 + M holy damage; if the target has** P \< strong\*\*, each enemy within 2 squares of them is frightened of you (save ends)\*\*
 
@@ -378,7 +379,7 @@ Power Roll + Might: - *11 or lower:* **3 + M holy damage; if the target has** P 
 
 ## Censored (5 Wrath)
 
-*Judged and sentenced.* **Keywords:** Melee, Strike, Weapon
+*Judged and sentenced.*
 
 Power Roll + Might: - *11 or lower:* **2 + M holy damage** - *12-16:* **3 + M holy damage** - *17+:* **5 + M holy damage**
 

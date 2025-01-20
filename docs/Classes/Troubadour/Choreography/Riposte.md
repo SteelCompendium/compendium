@@ -9,7 +9,8 @@ kind: choreography
 keywords: --
 keyword_list:
   - --
-ability_type: Triggered **Distance:** Melee 1
+ability_type: Triggered
+distance: Melee 1
 target: Self or one ally
 trigger: The target takes damage from a melee strike.
 ---
@@ -18,10 +19,10 @@ trigger: The target takes damage from a melee strike.
 
 *"I'd have brought treats had I known I'd be fighting a dog."*
 
-|                  |                                           |
-| :--------------- | :---------------------------------------- |
-| **Keywords:** -- | **Type:** Triggered **Distance:** Melee 1 |
-| **Distance:**    | **Target:** Self or one ally              |
+|                       |                              |
+| :-------------------- | :--------------------------- |
+| **Keywords:** --      | **Type:** Triggered          |
+| **Distance:** Melee 1 | **Target:** Self or one ally |
 
 **Trigger:** The target takes damage from a melee strike.
 

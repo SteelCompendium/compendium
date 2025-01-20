@@ -7,6 +7,9 @@ cost: 3 Drama
 type: classes
 subtype: troubadour
 kind: choreography
+keywords: --
+keyword_list:
+  - --
 ability_type: Triggered
 distance: Ranged 5
 target: One ally
@@ -15,11 +18,11 @@ trigger: The target uses a non-area ability that targets one enemy.
 
 # Harmonize (3 Drama)
 
-*Give the chorus a little punch.* **Keywords:** --
+*Give the chorus a little punch.*
 
 |                        |                      |
 | :--------------------- | :------------------- |
-| **Keywords:**          | **Type:** Triggered  |
+| **Keywords:** --       | **Type:** Triggered  |
 | **Distance:** Ranged 5 | **Target:** One ally |
 
 **Trigger:** The target uses a non-area ability that targets one enemy.

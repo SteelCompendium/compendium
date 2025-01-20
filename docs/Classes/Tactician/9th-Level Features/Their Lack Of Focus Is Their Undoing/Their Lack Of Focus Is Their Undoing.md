@@ -7,6 +7,11 @@ cost: 11 Focus
 type: classes
 subtype: tactician
 kind: 9th-level features
+keywords: Area, Magic, Weapon
+keyword_list:
+  - Area
+  - Magic
+  - Weapon
 ability_type: Action
 distance: Ranged 10
 target: 3 enemy creatures
@@ -14,12 +19,12 @@ target: 3 enemy creatures
 
 # Their Lack Of Focus Is Their Undoing (11 Focus)
 
-*You trick your enemies into attacking each other and confused by the aftermath* **Keywords:** Area, Magic, Weapon
+*You trick your enemies into attacking each other and confused by the aftermath*
 
-|                         |                               |
-| :---------------------- | :---------------------------- |
-| **Keywords:**           | **Type:** Action              |
-| **Distance:** Ranged 10 | **Target:** 3 enemy creatures |
+|                                   |                               |
+| :-------------------------------- | :---------------------------- |
+| **Keywords:** Area, Magic, Weapon | **Type:** Action              |
+| **Distance:** Ranged 10           | **Target:** 3 enemy creatures |
 
 **Effect:** Each target uses a signature ability under your control and automatically achieves a tier 3 result. After resolving their attacks make a power roll against each target.
 

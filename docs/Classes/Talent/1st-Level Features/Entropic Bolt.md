@@ -6,11 +6,27 @@ name: Entropic Bolt
 type: classes
 subtype: talent
 kind: 1st-level features
+keywords: Chronopathy, Psionic, Ranged, Strike
+keyword_list:
+  - Chronopathy
+  - Psionic
+  - Ranged
+  - Strike
+distance: \| Ranged 10
+target: \| One creature or object \|
 ---
 
 # Entropic Bolt
 
-*You advance an enemy's age for a moment.* **Keywords:** Chronopathy, Psionic, Ranged, Strike **Type:** | Action | | --- | --- | **Distance:** | Ranged 10 | **Target:** | One creature or object |
+*You advance an enemy's age for a moment.*
+
+|                                                    |                                          |
+| :------------------------------------------------- | :--------------------------------------- |
+| **Keywords:** Chronopathy, Psionic, Ranged, Strike | **Type:**                                |
+| **Distance:** \| Ranged 10                         | **Target:** \| One creature or object \| |
+
+| **Type:** | Action |
+| --------- | ------ |
 
 Power Roll + Presence: - *11 or lower:* **2 + P corruption damage;** P \< weak\*\*, slowed (save ends)\*\* - *12-16:* **3 + P corruption damage;** P \< average\*\*, slowed (save ends)\*\* - *17+:* **5 + P corruption damage;** P \< strong\*\*, slowed (save ends)\*\*
 

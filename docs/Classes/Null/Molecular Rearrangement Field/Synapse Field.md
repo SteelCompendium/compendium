@@ -7,6 +7,9 @@ cost: 7 Discipline
 type: classes
 subtype: 'null'
 kind: molecular rearrangement field
+keywords: Psionic
+keyword_list:
+  - Psionic
 ability_type: Maneuver
 distance: Self
 target: Self
@@ -14,11 +17,11 @@ target: Self
 
 # Synapse Field (7 Discipline)
 
-*Attacks made by allies in your null field disrupt your enemies' thoughts, causing psychic pain.* **Keywords:** Psionic
+*Attacks made by allies in your null field disrupt your enemies' thoughts, causing psychic pain.*
 
-|                    |                    |
-| :----------------- | :----------------- |
-| **Keywords:**      | **Type:** Maneuver |
-| **Distance:** Self | **Target:** Self   |
+|                       |                    |
+| :-------------------- | :----------------- |
+| **Keywords:** Psionic | **Type:** Maneuver |
+| **Distance:** Self    | **Target:** Self   |
 
 **Effect:** Until the end of the encounter, the area of your Null Field ability increases by 1. While the area is enlarged this way, enemies who take damage in the area taken additional psychic damage equal to twice your Intuition score.

@@ -6,6 +6,9 @@ name: Finish Them!
 cost: 11 Focus
 type: classes
 subtype: tactician
+keywords: Ranged
+keyword_list:
+  - Ranged
 ability_type: Free Triggered Action
 distance: Ranged 10
 target: 1 creature
@@ -14,11 +17,11 @@ trigger: A non-leader or non-solo target creature becomes winded.
 
 # Finish Them!(11 Focus)
 
-*You direct your ally to turn a devastating blow into a killing blow.* **Keywords:** Ranged
+*You direct your ally to turn a devastating blow into a killing blow.*
 
 |                         |                                 |
 | :---------------------- | :------------------------------ |
-| **Keywords:**           | **Type:** Free Triggered Action |
+| **Keywords:** Ranged    | **Type:** Free Triggered Action |
 | **Distance:** Ranged 10 | **Target:** 1 creature          |
 
 **Trigger:** A non-leader or non-solo target creature becomes winded.

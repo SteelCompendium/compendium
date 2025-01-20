@@ -35,3 +35,5 @@ Your talent tradition grants you features as shown on the 1st-Level Tradition Fe
 [REMOTE ASSISTANCE](./Remote%20Assistance.md)
 
 [REPEL](./Repel.md)
+
+[REPEL](./Repel.md)

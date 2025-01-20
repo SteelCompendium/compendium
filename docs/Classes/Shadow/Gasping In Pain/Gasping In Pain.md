@@ -6,6 +6,11 @@ name: Gasping In Pain
 type: classes
 subtype: shadow
 kind: gasping in pain
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: One creature
@@ -13,12 +18,12 @@ target: One creature
 
 # Gasping In Pain
 
-*Your precise strikes let your allies take advantage of a target's agony.* **Keywords:** Melee, Strike, Weapon
+*Your precise strikes let your allies take advantage of a target's agony.*
 
-|                       |                          |
-| :-------------------- | :----------------------- |
-| **Keywords:**         | **Type:** Action         |
-| **Distance:** Melee 1 | **Target:** One creature |
+|                                     |                          |
+| :---------------------------------- | :----------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action         |
+| **Distance:** Melee 1               | **Target:** One creature |
 
 Power Roll + Agility: - *11 or lower:* **3 + A damage** - *12-16:* **5 + A damage** - *17+:* **8 + A damage;** I \< strong\*\*, prone\*\*
 

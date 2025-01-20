@@ -7,6 +7,11 @@ cost: 3 Rage
 type: classes
 subtype: fury
 kind: impaled
+keywords: Melee, Strike, Weapon
+keyword_list:
+  - Melee
+  - Strike
+  - Weapon
 ability_type: Action
 distance: Melee 1
 target: One creature or object
@@ -14,12 +19,12 @@ target: One creature or object
 
 # Your Entrails Are Your Extrails!(3 Rage)
 
-*Hard for them to fight when they're busy holding in their giblets.* **Keywords:** Melee, Strike, Weapon
+*Hard for them to fight when they're busy holding in their giblets.*
 
-|                       |                                    |
-| :-------------------- | :--------------------------------- |
-| **Keywords:**         | **Type:** Action                   |
-| **Distance:** Melee 1 | **Target:** One creature or object |
+|                                     |                                    |
+| :---------------------------------- | :--------------------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action                   |
+| **Distance:** Melee 1               | **Target:** One creature or object |
 
 Power Roll + Might: - *11 or lower:* **3 + M damage;** M \< weak\*\*, bleeding (save ends)\*\* - *12-16:* **5 + M damage;** M \< average\*\*, bleeding (save ends)\*\* - *17+:* **8 + M damage;** M \< strong\*\*, bleeding (save ends)\*\*
 

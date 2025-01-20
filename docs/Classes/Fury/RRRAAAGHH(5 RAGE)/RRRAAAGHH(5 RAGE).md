@@ -7,20 +7,26 @@ cost: 5 Rage
 type: classes
 subtype: fury
 kind: rrraaaghh(5 rage)
+keywords: \| Melee, Strike, Weapon
+keyword_list:
+  - \| Melee
+  - Strike
+  - Weapon
+distance: \| Melee 1
 target: \| One creature \|
 ---
 
 # Rrraaaghh!(5 Rage)
 
-*Death! Deeaaath!!* **Keywords:** | Melee, Strike, Weapon
+*Death! Deeaaath!!*
 
-| **Type:**                            | Action                            |     |     |
-| ------------------------------------ | --------------------------------- | --- | --- |
-| **Distance:**                        | Melee 1                           |     |     |
-|                                      |                                   |     |     |
-| :----------------------------------- | :-------------------------------- |     |     |
-| **Keywords:**                        | **Type:**                         |     |     |
-| **Distance:**                        | **Target:** \| One creature \|    |     |     |
+|                                        |                                |
+| :------------------------------------- | :----------------------------- |
+| **Keywords:** \| Melee, Strike, Weapon | **Type:**                      |
+| **Distance:** \| Melee 1               | **Target:** \| One creature \| |
+
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 **Power Roll + Might:**
 

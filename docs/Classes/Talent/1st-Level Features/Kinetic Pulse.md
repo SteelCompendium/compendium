@@ -6,6 +6,11 @@ name: Kinetic Pulse
 type: classes
 subtype: talent
 kind: 1st-level features
+keywords: Area, Psionic, Telepathy
+keyword_list:
+  - Area
+  - Psionic
+  - Telepathy
 ability_type: Action
 distance: 1 burst
 target: Each enemy in the area
@@ -13,12 +18,12 @@ target: Each enemy in the area
 
 # Kinetic Pulse
 
-*The force of your mind hurls enemies backward.* **Keywords:** Area, Psionic, Telepathy
+*The force of your mind hurls enemies backward.*
 
-|                       |                                    |
-| :-------------------- | :--------------------------------- |
-| **Keywords:**         | **Type:** Action                   |
-| **Distance:** 1 burst | **Target:** Each enemy in the area |
+|                                        |                                    |
+| :------------------------------------- | :--------------------------------- |
+| **Keywords:** Area, Psionic, Telepathy | **Type:** Action                   |
+| **Distance:** 1 burst                  | **Target:** Each enemy in the area |
 
 Power Roll + Reason: - *11 or lower:* **2 psychic damage** - *12-16:* **5 psychic damage; push 1** - *17+:* **7 psychic damage; push 2**
 

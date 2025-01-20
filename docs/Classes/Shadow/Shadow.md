@@ -5,6 +5,12 @@ name_raw: Shadow
 name: Shadow
 type: classes
 subtype: shadow
+keywords: \| Magic, Melee, Ranged
+keyword_list:
+  - \| Magic
+  - Melee
+  - Ranged
+distance: \| Self; see below
 target: \| Self \|
 ---
 
@@ -16,15 +22,15 @@ As a shadow, you have abilities that deal a lot of damage, let you move swiftly 
 
 ## Shadowstrike (5 Insight)
 
-*They have no idea what the college taught you.* **Keywords:** | Magic, Melee, Ranged
+*They have no idea what the college taught you.*
 
-| **Type:**                            | Action                            |     |     |
-| ------------------------------------ | --------------------------------- | --- | --- |
-| **Distance:**                        | Self; see below                   |     |     |
-|                                      |                                   |     |     |
-| :----------------------------------- | :-------------------------------- |     |     |
-| **Keywords:**                        | **Type:**                         |     |     |
-| **Distance:**                        | **Target:** \| Self \|            |     |     |
+|                                       |                        |
+| :------------------------------------ | :--------------------- |
+| **Keywords:** \| Magic, Melee, Ranged | **Type:**              |
+| **Distance:** \| Self; see below      | **Target:** \| Self \| |
+
+| **Type:** | Action |     |     |
+| --------- | ------ | --- | --- |
 
 **Effect:** You make two signature strikes.
 

@@ -6,6 +6,11 @@ name: Every Step ... Death!
 type: classes
 subtype: censor
 kind: 1st-level features
+keywords: Magic, Ranged, Strike
+keyword_list:
+  - Magic
+  - Ranged
+  - Strike
 ability_type: Action
 distance: Ranged 10
 target: One creature
@@ -13,12 +18,12 @@ target: One creature
 
 # Every Step ... Death!
 
-*You show your foe a glimpse of their fate after death.* **Keywords:** Magic, Ranged, Strike
+*You show your foe a glimpse of their fate after death.*
 
-|                         |                          |
-| :---------------------- | :----------------------- |
-| **Keywords:**           | **Type:** Action         |
-| **Distance:** Ranged 10 | **Target:** One creature |
+|                                     |                          |
+| :---------------------------------- | :----------------------- |
+| **Keywords:** Magic, Ranged, Strike | **Type:** Action         |
+| **Distance:** Ranged 10             | **Target:** One creature |
 
 **Power Roll + Presence:**
 

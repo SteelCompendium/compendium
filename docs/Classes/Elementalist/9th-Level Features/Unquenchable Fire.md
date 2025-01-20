@@ -7,6 +7,12 @@ cost: 11 Essence
 type: classes
 subtype: elementalist
 kind: 9th-level features
+keywords: Fire, Magic, Ranged, Strike
+keyword_list:
+  - Fire
+  - Magic
+  - Ranged
+  - Strike
 ability_type: Action
 distance: Ranged 10
 target: 1 enemy or object
@@ -14,12 +20,12 @@ target: 1 enemy or object
 
 # Unquenchable Fire (11 Essence)
 
-*You let fly a fiery missile braided with every primal element at your disposal.* **Keywords:** Fire, Magic, Ranged, Strike
+*You let fly a fiery missile braided with every primal element at your disposal.*
 
-|                         |                               |
-| :---------------------- | :---------------------------- |
-| **Keywords:**           | **Type:** Action              |
-| **Distance:** Ranged 10 | **Target:** 1 enemy or object |
+|                                           |                               |
+| :---------------------------------------- | :---------------------------- |
+| **Keywords:** Fire, Magic, Ranged, Strike | **Type:** Action              |
+| **Distance:** Ranged 10                   | **Target:** 1 enemy or object |
 
 **Power Roll + Reason:**
 

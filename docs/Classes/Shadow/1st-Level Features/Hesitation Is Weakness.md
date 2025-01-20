@@ -6,6 +6,9 @@ name: Hesitation Is Weakness
 type: classes
 subtype: shadow
 kind: 1st-level features
+keywords: --
+keyword_list:
+  - --
 ability_type: Free triggered action
 distance: Self
 target: Self
@@ -18,11 +21,11 @@ You gain the following ability.
 
 ## Hesitation Is Weakness (1 Insight)
 
-*Keep up the attack. Never give them a moment's grace.* **Keywords:** --
+*Keep up the attack. Never give them a moment's grace.*
 
 |                    |                                 |
 | :----------------- | :------------------------------ |
-| **Keywords:**      | **Type:** Free triggered action |
+| **Keywords:** --   | **Type:** Free triggered action |
 | **Distance:** Self | **Target:** Self                |
 
 **Trigger:** Another hero ends their turn. That hero can't have used this ability to start their turn.

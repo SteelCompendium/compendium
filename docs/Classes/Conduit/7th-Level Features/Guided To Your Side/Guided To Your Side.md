@@ -6,6 +6,10 @@ name: Guided To Your Side
 type: classes
 subtype: conduit
 kind: 7th-level features
+keywords: Magic, Ranged
+keyword_list:
+  - Magic
+  - Ranged
 ability_type: Action
 distance: Self and Ranged 10
 target: Self and all allies
@@ -13,11 +17,11 @@ target: Self and all allies
 
 # Guided To Your Side
 
-*You concentrate on a friend and teleport to them.* **Keywords:** Magic, Ranged
+*You concentrate on a friend and teleport to them.*
 
 |                                  |                                 |
 | :------------------------------- | :------------------------------ |
-| **Keywords:**                    | **Type:** Action                |
+| **Keywords:** Magic, Ranged      | **Type:** Action                |
 | **Distance:** Self and Ranged 10 | **Target:** Self and all allies |
 
 **Effect:** Each target is teleported to an unoccupied space within 5 squares of a willing creature with whom you are bonded via your Invocation of the Heart feature. You don't need line of effect to the bonded creature.
