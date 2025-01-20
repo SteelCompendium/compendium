@@ -16,4 +16,4 @@ As a 5th-level tactician, you gain the following features.
 
 [9-FOCUS ABILITIES](./9-Focus%20Abilities.md)
 
-[SQUAD! GEAR CHECK!(9 FOCUS)](<./Squad%20Gear%20CHECK(9%20FOCUS).md>)
+[SQUAD! GEAR CHECK! (9 FOCUS)](./Squad%20Gear%20Check.md)

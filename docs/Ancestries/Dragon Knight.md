@@ -180,6 +180,8 @@ You can use the following signature ability.
 | **Keywords:** Area, Magic     | **Type:** Action        |
 | **Distance:** 3 cube within 1 | **Target:** All enemies |
 
+**Power Roll + Might or Presence:**
+
 - *11 or lower:* **2 damage**
 - *12-16:* **5 damage; push 1**
 - *17+:* **7 damage; push 2**

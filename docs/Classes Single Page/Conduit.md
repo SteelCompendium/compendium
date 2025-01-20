@@ -1078,7 +1078,7 @@ You gain any perk of your choice. See Perks for more information.
 
 Choose one heroic ability from the following options.
 
-#### Arise!(11 Piety)
+#### Arise! (11 Piety)
 
 *Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.*
 

@@ -14,4 +14,4 @@ Choose one heroic ability from the following options, each of which costs 7 rage
 
 [A DEMON UNLEASHED (7 RAGE)](./A%20Demon%20Unleashed.md)
 
-[FACE THE STORM!(7 RAGE)](<./Face%20The%20STORM(7%20RAGE).md>)
+[FACE THE STORM! (7 RAGE)](./Face%20The%20Storm.md)

@@ -22,4 +22,4 @@ As a 2nd-level troubadour, you gain the following features.
 
 [CLASSIC CHANDELIER STUNT (5 DRAMA)](./Classic%20Chandelier%20Stunt.md)
 
-[EN GARDE!(5 DRAMA)](<./En%20GARDE(5%20DRAMA)/En%20GARDE(5%20DRAMA).md>)
+[EN GARDE! (5 DRAMA)](./En%20Garde/En%20Garde.md)

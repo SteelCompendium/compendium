@@ -27,7 +27,7 @@ You're at your best against the strongest foes. Your judgments terrify heretics,
 
 [6TH-LEVEL FEATURES](./6th-Level%20Features/6th-Level%20Features.md)
 
-[BEGONE!(9 WRATH)](<./BEGONE(9%20WRATH).md>)
+[BEGONE! (9 WRATH)](./Begone.md)
 
 [PAIN OF YOUR OWN MAKING (9 WRATH)](./Pain%20Of%20Your%20Own%20Making/Pain%20Of%20Your%20Own%20Making.md)
 

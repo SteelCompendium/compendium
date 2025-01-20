@@ -260,7 +260,7 @@ Power Roll + Might: - *11 or lower:* **3 + M damage;** M \< weak\*\*, dazed (sav
 
 Power Roll + Might: - *11 or lower:* **3 + M damage; you or one ally within 10 squares can spend a Recovery** - *12-16:* **5 + M damage; you or one ally within 10 squares can spend a Recovery** - *17+:* **8 + M damage; you or one ally within 10 squares can spend a Recovery, and each of you gains an edge on the next ability power roll they make in the encounter**
 
-##### Squad! Forward!(3 Focus)
+##### Squad! Forward! (3 Focus)
 
 *On your command, you and your allies force back the enemy line.*
 
@@ -282,11 +282,13 @@ Power Roll + Might: - *11 or lower:* **5 + M damage; one ally within 10 squares 
 
 *Your attack demoralizes your foe. Your allies begin to think you can win.*
 
+**Effect:** You mark the target.
+
 Power Roll + Might: - *11 or lower:* **4 + M damage; R** \< weak\*\*, weakened (save ends)\*\* - *12-16:* **6 + M damage; R** \< average\*\*, weakened (save ends)\*\* - *17+:* **10 + M damage; R** \< strong\*\*, weakened (save ends)\*\*
 
 **Effect:** The first time any ally deals damage any target you've marked before the start of your next turn, that ally can spend a Recovery.
 
-##### Now!(5 Focus)
+##### Now! (5 Focus)
 
 *Your allies wait for your command--then unleash death!*
 
@@ -394,7 +396,7 @@ Choose one of the following abilities.
 
 Power Roll + Might: - *11 or lower:* **R** \< weak\*\*, frightened of the triggering ally (save ends)\*\* - *12-16:* **R** \< average\*\*, frightened of the triggering ally (save ends)\*\* - *17+:* **R** \< strong\*\*, frightened of the triggering ally (save ends)\*\*
 
-### Squad! On Me!(5 Focus)
+### Squad! On Me! (5 Focus)
 
 *Together we are invincible!*
 
@@ -430,7 +432,7 @@ Choose one heroic ability from the following options, each of which costs 7 focu
 
 **Effect:** Until the end of the encounter or you are dying, whenever you or any ally deals damage to a target marked by you, if that target has R **\<** average, they are frightened of the damage dealer (save ends).
 
-### Stay Strong, And Focus!(7 Focus)
+### Stay Strong, And Focus! (7 Focus)
 
 *"We can do this! Keep faith and hold fast!"*
 
@@ -508,7 +510,7 @@ You, or any allies adjacent to you, can spend 1d6 stamina during their turn to e
 
 Choose one heroic ability from the following options.
 
-### Squad! Gear Check!(9 Focus)
+### Squad! Gear Check! (9 Focus)
 
 *You distract a foe while your allies secure their defensive gear.*
 
@@ -516,7 +518,7 @@ Power Roll + Might: - *11 or lower:* **9 + M damage** - *12-16:* **13 + M damage
 
 **Effect:** You and all allies in within 1 square of the target gain 10 Temporary Stamina.
 
-## Squad! Remember Your Training!(9 Focus)
+## Squad! Remember Your Training! (9 Focus)
 
 *You have drilled your squad on how to best use their gear and make them demonstrate their hard work.*
 
@@ -582,7 +584,7 @@ Choose one of the following abilities.
 
 **Mark Benefit:** For the rest of the encounter whenever you or an ally attacks a marked target, you can spend 2 focus to make the ability ignore damage immunity and deal additional damage equal to triple your Reason score.
 
-### Hustle, Squad! Hustle!(9 Focus)
+### Hustle, Squad! Hustle! (9 Focus)
 
 *You and your allies coordinate to form a new battle line.*
 
@@ -602,7 +604,7 @@ Choose one of the following abilities.
 
 Power Roll + Might: - *11 or lower:* **A \< \[weak\] dazed (save ends)** - *12-16:* **A \< \[average\] dazed (save ends)** - *17+:* **A\[strong\] dazed (save ends)**
 
-### To Me, Squad!(9 Focus)
+### To Me, Squad! (9 Focus)
 
 *You lead your allies in a charge.*
 
@@ -702,7 +704,7 @@ Choose one heroic ability from the following options.
 
 **Effect:** The target gains two surges and can use a signature or heroic ability as a free triggered action. They have a double edge on the power roll, ignore damage immunity, and increase the potency of effects by 1.
 
-## Finish Them!(11 Focus)
+## Finish Them! (11 Focus)
 
 *You direct your ally to turn a devastating blow into a killing blow.*
 
@@ -746,7 +748,7 @@ Your specialization grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-### Squad! Hit And Run!(11 Focus)
+### Squad! Hit And Run! (11 Focus)
 
 *I had to pry this secret from the shadow colleges.*
 
@@ -764,7 +766,7 @@ Power Roll + Might: - *11 or lower:* **R \< \[weak\] dazed (save ends)** - *12-1
 
 Choose one of the following abilities.
 
-### Blot Out The Sun!(11 Focus)
+### Blot Out The Sun! (11 Focus)
 
 *What makes a good soldier? The ability to fire four shots a minute in any weather.*
 

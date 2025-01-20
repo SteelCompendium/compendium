@@ -20,6 +20,6 @@ You use a blend of martial techniques and divine magic to attack your foes and d
 
 [5-WRATH ABILITY](./5-Wrath%20Ability/5-Wrath%20Ability.md)
 
-[BEHOLD THE FACE OF EVIL!(5 WRATH)](<./Behold%20The%20Face%20Of%20EVIL(5%20WRATH).md>)
+[BEHOLD THE FACE OF EVIL! (5 WRATH)](./Behold%20The%20Face%20Of%20Evil.md)
 
 [CENSORED (5 WRATH)](./Censored/Censored.md)

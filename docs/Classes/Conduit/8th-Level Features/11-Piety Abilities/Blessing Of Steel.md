@@ -11,7 +11,7 @@ keywords: Area, Magic
 keyword_list:
   - Area
   - Magic
-ability_type: Maneuver \| --- \| ---
+ability_type: Maneuver
 distance: Self and 5 aura
 target: Self and all allies
 ---
@@ -20,9 +20,9 @@ target: Self and all allies
 
 *A protective aura defends your allies from harm.*
 
-|                               |                                  |
-| :---------------------------- | :------------------------------- |
-| **Keywords:** Area, Magic     | **Type:** Maneuver \| --- \| --- |
-| **Distance:** Self and 5 aura | **Target:** Self and all allies  |
+|                               |                                 |
+| :---------------------------- | :------------------------------ |
+| **Keywords:** Area, Magic     | **Type:** Maneuver              |
+| **Distance:** Self and 5 aura | **Target:** Self and all allies |
 
 **Effect:** Until the end of the encounter or you are dying, ability power rolls against each target take a bane and each target has damage immunity 5.

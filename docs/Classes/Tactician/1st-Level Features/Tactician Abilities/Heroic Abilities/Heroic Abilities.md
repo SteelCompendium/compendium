@@ -20,7 +20,7 @@ Your heroic abilities cover a range of combat tactics, all of which require focu
 
 [INSPIRING STRIKE (3 FOCUS)](./Inspiring%20Strike.md)
 
-[SQUAD! FORWARD!(3 FOCUS)](<./Squad%20FORWARD(3%20FOCUS).md>)
+[SQUAD! FORWARD! (3 FOCUS)](./Squad%20Forward.md)
 
 [5-FOCUS ABILITY](./5-Focus%20Ability.md)
 
@@ -28,6 +28,6 @@ Your heroic abilities cover a range of combat tactics, all of which require focu
 
 [THE MIND GAME (5 FOCUS)](./The%20Mind%20Game.md)
 
-[NOW!(5 FOCUS)](<./NOW(5%20FOCUS).md>)
+[NOW! (5 FOCUS)](./Now.md)
 
 [THIS IS WHAT WE PLANNED FOR (5 FOCUS)](./This%20Is%20What%20We%20Planned%20For.md)

@@ -21,7 +21,7 @@ As a fury, you have abilities that deal a lot of damage, move you around the bat
 
 [IMPALED!](./Impaled/Impaled.md)
 
-[BLOOD FOR BLOOD!(5 RAGE)](<./Blood%20For%20BLOOD(5%20RAGE)/Blood%20For%20BLOOD(5%20RAGE).md>)
+[BLOOD FOR BLOOD! (5 RAGE)](./Blood%20For%20Blood/Blood%20For%20Blood.md)
 
 [2ND-LEVEL FEATURES](./2nd-Level%20Features/2nd-Level%20Features.md)
 
@@ -29,7 +29,7 @@ As a fury, you have abilities that deal a lot of damage, move you around the bat
 
 [PHALANX BREAKER (5 RAGE)](./Phalanx%20Breaker.md)
 
-[RRRAAAGHH!(5 RAGE)](<./RRRAAAGHH(5%20RAGE)/RRRAAAGHH(5%20RAGE).md>)
+[RRRAAAGHH! (5 RAGE)](./Rrraaaghh/Rrraaaghh.md)
 
 [VISCERAL ROAR (5 RAGE)](./Visceral%20Roar.md)
 

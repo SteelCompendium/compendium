@@ -139,14 +139,14 @@ As your discipline grows, your psionic mastery of your body intensifies, grantin
 
 ##### Chronokinetic Mastery
 
-| Discipline   | Benefit                                                                                                                                       |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2            | When you take the Knockback maneuver you canDisengage as a free triggered action, either beforeor after the maneuver.                         |
-| 4            | You gain one surge the first time on a turn that youmove at least 1 square as part of an ability.                                             |
-| 6            | You gain an edge on the power rolls for Grab andKnockback maneuvers.                                                                          |
-| 8(Level 4)   | You gain two surges the first time on a turn thatyou move at least 1 square as part of an ability.                                            |
-| 10(Level 7)  | You gain a double edge on the power roll for theGrab and Knockback maneuvers.                                                                 |
-| 12(Level 10) | o You add your Intuition score to the distance ofany forced movement you create.o You gain 10 Temporary Stamina when you use aheroic ability. |
+| Discipline    | Benefit                                                                                                                                       |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2             | When you take the Knockback maneuver you canDisengage as a free triggered action, either beforeor after the maneuver.                         |
+| 4             | You gain one surge the first time on a turn that youmove at least 1 square as part of an ability.                                             |
+| 6             | You gain an edge on the power rolls for Grab andKnockback maneuvers.                                                                          |
+| 8 (Level 4)   | You gain two surges the first time on a turn thatyou move at least 1 square as part of an ability.                                            |
+| 10 (Level 7)  | You gain a double edge on the power roll for theGrab and Knockback maneuvers.                                                                 |
+| 12 (Level 10) | o You add your Intuition score to the distance ofany forced movement you create.o You gain 10 Temporary Stamina when you use aheroic ability. |
 
 #### Cryokinetic Mastery
 
@@ -156,14 +156,14 @@ As your discipline grows, your psionic mastery of your body intensifies, grantin
 
 ##### Cryokinetic Mastery
 
-| Discipline   | Benefit                                                                                                                                          |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2            | You can target one additional creature when using the Knockback maneuver.                                                                        |
-| 4            | You gain one surge the first time on a turn that you grab a target or an enemy moves at least 1 square in your Null Field.                       |
-| 6            | You gain an edge on the power rolls for the Grab and Knockback maneuvers.                                                                        |
-| 8(Level 4)   | You gain two surges the first time on a turn that you grab a target or an enemy moves at least 1 square in your Null Field.                      |
-| 10(Level 7)  | You gain a double edge on the power rolls for the Grab and Knockback maneuvers.                                                                  |
-| 12(Level 10) | o You add your Intuition score to the distance of any forced movement you inflict.o You gain 10 Temporary Stamina when you use a heroic ability. |
+| Discipline    | Benefit                                                                                                                                          |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2             | You can target one additional creature when using the Knockback maneuver.                                                                        |
+| 4             | You gain one surge the first time on a turn that you grab a target or an enemy moves at least 1 square in your Null Field.                       |
+| 6             | You gain an edge on the power rolls for the Grab and Knockback maneuvers.                                                                        |
+| 8 (Level 4)   | You gain two surges the first time on a turn that you grab a target or an enemy moves at least 1 square in your Null Field.                      |
+| 10 (Level 7)  | You gain a double edge on the power rolls for the Grab and Knockback maneuvers.                                                                  |
+| 12 (Level 10) | o You add your Intuition score to the distance of any forced movement you inflict.o You gain 10 Temporary Stamina when you use a heroic ability. |
 
 #### Metakinetic Mastery
 
@@ -177,13 +177,13 @@ As your discipline grows, your psionic mastery of your body intensifies, grantin
 | ---------- | ------------------------------------------------ |
 | 2          | You add your Intuition score to the distance you |
 
-|              | push a creature with the Knockback maneuver.                                                                                                 |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 4            | You gain one surge the first time in a round that you take damage or are force moved, even if you resist the effect.                         |
-| 6            | You gain an edge on the power rolls for the Grab and Knockback maneuvers.                                                                    |
-| 8(Level 4)   | You gain two surges the first time in a round that you take damage or are force moved, even if you resist the effect.                        |
-| 10(Level 7)  | You gain a double edge on the power rolls for the Grab and Knockback maneuvers.                                                              |
-| 12(Level 10) | o You add your Intuition score to the distance of any forced movement you inflict.o Gain 10 Temporary Stamina when you use a heroic ability. |
+|               | push a creature with the Knockback maneuver.                                                                                                 |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 4             | You gain one surge the first time in a round that you take damage or are force moved, even if you resist the effect.                         |
+| 6             | You gain an edge on the power rolls for the Grab and Knockback maneuvers.                                                                    |
+| 8 (Level 4)   | You gain two surges the first time in a round that you take damage or are force moved, even if you resist the effect.                        |
+| 10 (Level 7)  | You gain a double edge on the power rolls for the Grab and Knockback maneuvers.                                                              |
+| 12 (Level 10) | o You add your Intuition score to the distance of any forced movement you inflict.o Gain 10 Temporary Stamina when you use a heroic ability. |
 
 ### Null Speed
 

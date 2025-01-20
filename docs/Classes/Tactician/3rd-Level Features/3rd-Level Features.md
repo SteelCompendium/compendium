@@ -20,4 +20,4 @@ As a 3rd-level tactician, you gain the following features.
 
 [ROUT (7 FOCUS)](./Rout.md)
 
-[STAY STRONG, AND FOCUS!(7 FOCUS)](<./Stay%20Strong%20And%20FOCUS(7%20FOCUS).md>)
+[STAY STRONG, AND FOCUS! (7 FOCUS)](./Stay%20Strong%20And%20Focus.md)

@@ -29,10 +29,10 @@ Power Roll + Might: - *11 or lower:* **2 + M damage;** M \< weak\*\*, grabbed\*\
 
 [TO THE DEATH!](./To%20The%20Death/To%20The%20Death.md)
 
-[BACK!(3 RAGE)](<./BACK(3%20RAGE).md>)
+[BACK! (3 RAGE)](./Back.md)
 
-[OUT OF THE WAY!(3 RAGE)](<./Out%20Of%20The%20WAY(3%20RAGE).md>)
+[OUT OF THE WAY! (3 RAGE)](./Out%20Of%20The%20Way.md)
 
 [TIDE OF DEATH (3 RAGE)](./Tide%20Of%20Death.md)
 
-[YOUR ENTRAILS ARE YOUR EXTRAILS!(3 RAGE)](<./Your%20Entrails%20Are%20Your%20EXTRAILS(3%20RAGE)/Your%20Entrails%20Are%20Your%20EXTRAILS(3%20RAGE).md>)
+[YOUR ENTRAILS ARE YOUR EXTRAILS! (3 RAGE)](./Your%20Entrails%20Are%20Your%20Extrails/Your%20Entrails%20Are%20Your%20Extrails.md)

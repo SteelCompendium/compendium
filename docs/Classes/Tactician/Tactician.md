@@ -29,7 +29,7 @@ As a tactician, you have abilities that heal your allies and grant them increase
 
 [5TH-LEVEL FEATURES](./5th-Level%20Features/5th-Level%20Features.md)
 
-[SQUAD! REMEMBER YOUR TRAINING!(9 FOCUS)](<./Squad%20Remember%20Your%20TRAINING(9%20FOCUS).md>)
+[SQUAD! REMEMBER YOUR TRAINING! (9 FOCUS)](./Squad%20Remember%20Your%20Training.md)
 
 [YOU CAN SLEEP WHEN YOU'RE DEAD (9 FOCUS)](./You%20Can%20Sleep%20When%20Youre%20Dead.md)
 
@@ -41,7 +41,7 @@ As a tactician, you have abilities that heal your allies and grant them increase
 
 [8TH-LEVEL FEATURES](./8th-Level%20Features/8th-Level%20Features.md)
 
-[FINISH THEM!(11 FOCUS)](<./Finish%20THEM(11%20FOCUS).md>)
+[FINISH THEM! (11 FOCUS)](./Finish%20Them.md)
 
 [THE FLOODGATES OPEN (11 FOCUS)](./The%20Floodgates%20Open.md)
 

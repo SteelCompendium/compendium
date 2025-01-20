@@ -12,7 +12,7 @@ kind: 8th-level features
 
 Choose one heroic ability from the following options.
 
-[ARISE!(11 PIETY)](<./ARISE(11%20PIETY).md>)
+[ARISE! (11 PIETY)](./Arise.md)
 
 [BLESSING OF THE BLADE (11 PIETY)](./Blessing%20Of%20The%20Blade.md)
 

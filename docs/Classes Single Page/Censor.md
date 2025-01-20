@@ -366,7 +366,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 **Effect:** If the target makes a strike against a creature while grabbed by you, you can then spend 3 wrath to deal holy damage to them equal to your Presence score and change the target of the strike to another target within the strike's distance.
 
-#### Behold The Face Of Evil!(5 Wrath)
+#### Behold The Face Of Evil! (5 Wrath)
 
 *You show your enemies a vision of the true nature of one of their companions.*
 
@@ -720,7 +720,7 @@ Your specialization grants your choice of one of two abilities.
 
 Choose one of the following abilities.
 
-## Begone!(9 Wrath)
+## Begone! (9 Wrath)
 
 *You terrify your enemies into retreating, creating chaos in their ranks.*
 
@@ -945,7 +945,7 @@ Power Roll + Might: - *11 or lower:* **10 + M damage** - *12-16:* **15 + M damag
 
 **Effect:** While dazed, the target deals holy damage equal to twice your Presence score to other enemies within 2 squares of them at the end of your turn.
 
-### Your Allies Turn On You!(11 Wrath)
+### Your Allies Turn On You! (11 Wrath)
 
 *You turn your enemy's ire to the target.*
 

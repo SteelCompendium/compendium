@@ -32,4 +32,4 @@ target: Two creatures
 
 [NO DYING ON MY WATCH (5 FOCUS)](./No%20Dying%20On%20My%20Watch.md)
 
-[SQUAD! ON ME!(5 FOCUS)](<./Squad%20On%20ME(5%20FOCUS).md>)
+[SQUAD! ON ME! (5 FOCUS)](./Squad%20On%20Me.md)

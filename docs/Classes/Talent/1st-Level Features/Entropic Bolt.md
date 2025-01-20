@@ -12,7 +12,7 @@ keyword_list:
   - Psionic
   - Ranged
   - Strike
-ability_type: Action \| --- \| ---
+ability_type: Action
 distance: Ranged 10
 target: One creature or object
 ---
@@ -23,7 +23,7 @@ target: One creature or object
 
 |                                                    |                                    |
 | :------------------------------------------------- | :--------------------------------- |
-| **Keywords:** Chronopathy, Psionic, Ranged, Strike | **Type:** Action \| --- \| ---     |
+| **Keywords:** Chronopathy, Psionic, Ranged, Strike | **Type:** Action                   |
 | **Distance:** Ranged 10                            | **Target:** One creature or object |
 
 Power Roll + Presence: - *11 or lower:* **2 + P corruption damage;** P \< weak\*\*, slowed (save ends)\*\* - *12-16:* **3 + P corruption damage;** P \< average\*\*, slowed (save ends)\*\* - *17+:* **5 + P corruption damage;** P \< strong\*\*, slowed (save ends)\*\*

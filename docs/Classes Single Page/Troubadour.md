@@ -421,7 +421,7 @@ Choose one of the following abilities.
 
 **Effect:** Each target shifts up to 5 squares, and can shift vertically. Both targets must end this movement adjacent to each other and on solid ground. Each target can then make a melee free strike that deals additional damage equal to twice their highest characteristic score.
 
-### En Garde!(5 Drama)
+### En Garde! (5 Drama)
 
 *Wait it's ... Guard! Turn! Perry! Dodge! Spin! Thrust! Hah!*
 

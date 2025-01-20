@@ -120,14 +120,14 @@ As your rage grows, your primordial cunning intensifies, granting benefits from 
 
 ##### Primordial Cunning Growing Rage
 
-| Rage         | Benefit                                                                                                                                |
-| ------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
-| 2            | Add your Agility to the distance you achieve on the Knockback maneuver.                                                                |
-| 4            | Gain one surge the first time on a turn that you slide a creature.                                                                     |
-| 6            | Gain an edge on Agility tests and the Knockback maneuver.                                                                              |
-| 8(Level 4)   | Gain two surges the first time on a turn that you slide a creature.                                                                    |
-| 10(Level 7)  | Gain a double edge on Agility tests and the Knockback maneuver.                                                                        |
-| 12(Level 10) | o Add your Agility to the distance of any forced movement power roll result.o Gain 10 Temporary Stamina when you use a heroic ability. |
+| Rage          | Benefit                                                                                                                                |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| 2             | Add your Agility to the distance you achieve on the Knockback maneuver.                                                                |
+| 4             | Gain one surge the first time on a turn that you slide a creature.                                                                     |
+| 6             | Gain an edge on Agility tests and the Knockback maneuver.                                                                              |
+| 8 (Level 4)   | Gain two surges the first time on a turn that you slide a creature.                                                                    |
+| 10 (Level 7)  | Gain a double edge on Agility tests and the Knockback maneuver.                                                                        |
+| 12 (Level 10) | o Add your Agility to the distance of any forced movement power roll result.o Gain 10 Temporary Stamina when you use a heroic ability. |
 
 #### Primordial Strength
 
@@ -137,14 +137,14 @@ As your rage grows, your primordial strength intensifies, granting benefits from
 
 ##### Primordial Strength Growing Rage
 
-| Rage         | Benefit                                                                                                                              |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
-| 2            | Add your Might to the distance you achieve on the Knockback maneuver.                                                                |
-| 4            | Gain one surge the first time on a turn that you push a creature.                                                                    |
-| 6            | Gain an edge on Might tests and the Knockback maneuver.                                                                              |
-| 8(Level 4)   | Gain two surges the first time on a turn that you push a creature.                                                                   |
-| 10(Level 7)  | Gain a double edge on Might tests and the Knockback maneuver.                                                                        |
-| 12(Level 10) | o Add your Might to the distance of any forced movement power roll result.o Gain 10 Temporary Stamina when you use a heroic ability. |
+| Rage          | Benefit                                                                                                                              |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 2             | Add your Might to the distance you achieve on the Knockback maneuver.                                                                |
+| 4             | Gain one surge the first time on a turn that you push a creature.                                                                    |
+| 6             | Gain an edge on Might tests and the Knockback maneuver.                                                                              |
+| 8 (Level 4)   | Gain two surges the first time on a turn that you push a creature.                                                                   |
+| 10 (Level 7)  | Gain a double edge on Might tests and the Knockback maneuver.                                                                        |
+| 12 (Level 10) | o Add your Might to the distance of any forced movement power roll result.o Gain 10 Temporary Stamina when you use a heroic ability. |
 
 #### Relentless Hunter
 
@@ -249,13 +249,13 @@ You fight with an array of heroic abilities, all of which cost rage to fuel them
 
 Choose one heroic ability from the following options, each of which costs 3 rage to use. (*Quick Build:* Back)
 
-### Back!(3 Rage)
+### Back! (3 Rage)
 
 *Surrounded? The fools!*
 
 Power Roll + Might: - *11 or lower:* **5 damage** - *12-16:* **8 damage; push 1** - *17+:* **11 damage; push 3**
 
-### Out Of The Way!(3 Rage)
+### Out Of The Way! (3 Rage)
 
 *Your enemies will get out of your way--whether they want to or not.*
 
@@ -273,7 +273,7 @@ Power Roll + Might: - *11 or lower:* **2 damage** - *12-16:* **3 damage** - *17+
 
 The last target you damage takes extra damage equal to your Might score for every free strike you triggered during your move.
 
-### Your Entrails Are Your Extrails!(3 Rage)
+### Your Entrails Are Your Extrails! (3 Rage)
 
 *Hard for them to fight when they're busy holding in their giblets.*
 
@@ -285,7 +285,7 @@ Power Roll + Might: - *11 or lower:* **3 + M damage;** M \< weak\*\*, bleeding (
 
 Choose one heroic ability from the following options, each of which costs 5 rage to use. (*Quick Build:* Blood for Blood)
 
-## Blood For Blood!(5 Rage)
+## Blood For Blood! (5 Rage)
 
 *A mighty strike leaves your foe reeling.*
 
@@ -293,7 +293,7 @@ Power Roll + Might: - *11 or lower:* **4 + M damage;** M \< weak\*\*, bleeding a
 
 **Effect:** You can deal 1d6 damage to yourself to deal 1d6 bonus damage to the target.
 
-### Make Peace With Your God!(5 Rage)
+### Make Peace With Your God! (5 Rage)
 
 *Anger is an energy.*
 
@@ -383,7 +383,7 @@ Choose one of the following abilities.
 
 Power Roll + Might: - *11 or lower:* **2 damage;** A \< weak\*\*, dazed (save ends)\*\* - *12-16:* **4 damage;** A \< average\*\*, dazed (save ends)\*\* - *17+:* **6 damage;** A \< strong\*\*, dazed (save ends)\*\*
 
-## Rrraaaghh!(5 Rage)
+## Rrraaaghh! (5 Rage)
 
 *Death! Deeaaath!!*
 
@@ -453,7 +453,7 @@ Choose one heroic ability from the following options, each of which costs 7 rage
 
 **Effect:** Until the end of the encounter or until you are dying, each enemy who starts their turn adjacent to you and has P **\<** strong is frightened until the end of their turn.
 
-#### Face The Storm!(7 Rage)
+#### Face The Storm! (7 Rage)
 
 *Fight or flight? FIGHT!!*
 
