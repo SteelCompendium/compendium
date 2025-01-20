@@ -228,9 +228,6 @@ You gain the following ability.
 | **Keywords:** Magic, Ranged | **Type:** Maneuver |
 | **Distance:** Ranged 10     | **Target:** 1 ally |
 
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
-
 **Effect:** You conjure a spirit that takes the form of any animal you have seen. The incorporeal animal can't
 
 physically interact with the world, but they have a speed of 5 and can fly. While you are within 10 squares of the spirit, you can sense everything an animal of their type would sense, in addition to sensing your own surroundings. You can dismiss the spirit at any time (no action required). If the spirit takes any damage, it is dismissed and you take 1d10 psychic damage, which can't be reduced in any way.
@@ -252,9 +249,6 @@ You gain the following ability.
 #### Hands Of The Maker
 
 *You can craft objects with the power of your mind!*
-
-| **Type:** | Maneuver |     |     |
-| --------- | -------- | --- | --- |
 
 **Effect:** You create a mundane object no larger than size 1S. You can maintain a number of objects created this way equal to your Intuition score. You can destroy an object created this way with a thought, no matter how far you are from it (no action required).
 
@@ -401,9 +395,6 @@ Power Roll + Intuition: - *11 or lower:* **3 + I holy damage** - *12-16:* **5 + 
 
 *You drain the energy from your target and revitalize yourself or an ally.*
 
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
-
 Power Roll + Intuition: - *11 or lower:* **2 + I corruption damage** - *12-16:* **5 + I corruption damage** - *17+:* **7 + I corruption damage**
 
 **Effect:** You or one ally within distance can spend a Recovery.
@@ -423,9 +414,6 @@ Power Roll + Intuition: - *11 or lower:* **2 holy damage** - *12-16:* **3 holy d
 ### Sacrificial Offer
 
 *Divine magic tears at your foe and defends a nearby friend.*
-
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
 
 Power Roll + Intuition: - *11 or lower:* **2 + I corruption damage** - *12-16:* **4 + IV corruption damage** - *17+:* **6 + I corruption damage**
 
@@ -603,9 +591,6 @@ Choose one of your domains. You gain an ability from that domain as shown on the
 
 *You speak with the voice of your saint, commanding your enemies.*
 
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
-
 **Power Roll + Intuition:**
 
 - *11 or lower:* **4 + I holy damage;** P **\<** weak\*\*, before taking damage, the target makes a free strike against a target you choose\*\*
@@ -655,9 +640,6 @@ Power Roll + Intuition: - *11 or lower:* **2 lightning damage; vertical slide 1*
 ### Statue Of Power (5 Piety)
 
 *A marble statue of your patron rises from the earth.*
-
-| **Keywords:** | Magic, Ranged |
-| ------------- | ------------- |
 
 **Effect:** A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you and your allies each gains a surge at the start of their turns. The statue is destroyed if it takes 20 or more damage. It is immune to poison and psychic damage.
 
@@ -894,17 +876,11 @@ Choose one of your domains. You gain an ability from it as shown on the 6th-Leve
 
 *A whirlwind of souls of the dead flies around you at your command.*
 
-| **Type:** Maneuver |     |     |     |
-| ------------------ | --- | --- | --- |
-
 **Effect:** Until the end of the encounter or you start dying, whenever you end your turn, you can slide each creature in the aura a number of squares equal to your Intuition score. This forced movement ignores the Stability of allies.
 
 ### Blade Of The Heavens (9 Piety)
 
 *A greatsword streams down from the sky, threatening to pin your foe.*
-
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
 
 Power Roll + Intuition: - *11 or lower:* **8 + I damage; A \< \[weak\] prone and restrained (save ends)** - *12-16:* **12 + I damage; A \< \[average\] prone and restrained (save ends)** - *17+:* **16 + I damage; A \< \[strong\] prone and restrained (save ends)**
 
@@ -967,9 +943,6 @@ Power Roll + Intuition: - *11 or lower:* **6 lightning damage; push 1** - *12-16
 ### Spirit Stampede (9 Piety)
 
 *Animal spirits run through the battlefield, trampling your foes.*
-
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
 
 Power Roll + Intuition: - *11 or lower:* **5 damage; M \< \[weak\] prone and can't stand (save ends)** - *12-16:* **8 damage; M \< \[average\] prone and can't stand (save ends)** - *17+:* **11 damage; M \< \[strong\] prone and can't stand (save ends)**
 
@@ -1109,9 +1082,6 @@ Choose one heroic ability from the following options.
 
 *Your deity rewards you or an ally on the verge of defeat with a miracle burst of strength and resolve.*
 
-| **Type:** Action |     |
-| ---------------- | --- |
-
 **Effect:** The target can spend any number of Recoveries, end any effect that is ended by a saving throw or that ends at the end of their turn, and use the Stand Up maneuver as a free triggered action. Additionally, the target gains three surges at the start of each of their turns until the end of the encounter or they start dying.
 
 #### Blessing Of The Blade (11 Piety)
@@ -1123,9 +1093,6 @@ Choose one heroic ability from the following options.
 #### Blessing Of Steel (11 Piety)
 
 *A protective aura defends your allies from harm.*
-
-| **Type:** Maneuver |     |
-| ------------------ | --- |
 
 **Effect:** Until the end of the encounter or you are dying, ability power rolls against each target take a bane and each target has damage immunity 5.
 

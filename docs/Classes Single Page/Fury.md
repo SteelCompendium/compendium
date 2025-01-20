@@ -171,9 +171,7 @@ Your primordial aspect grants you a triggered action as shown on the Aspect Trig
 | **Keywords:** Melee, Strike, Weapon | **Type:** Action       |
 | **Distance:** Melee 1               | **Target:** 1 creature |
 
-|\-----------|-----|
-
-**Trigger:** | | | You lose Stamina and are not dying. | |
+**Trigger:** You lose Stamina and are not dying.
 
 **Effect:** After the triggering effect is resolved, you can use a free triggered action to enter your animal form or hybrid form. You gain temporary Stamina equal to your Might score.
 
@@ -183,10 +181,7 @@ Your primordial aspect grants you a triggered action as shown on the Aspect Trig
 
 *You redirect the energy of motion.*
 
-| **Type:** | Triggered |     |     |
-| --------- | --------- | --- | --- |
-
-**Trigger:** | The target would be force moved. | | |
+**Trigger:** The target would be force moved.
 
 **Effect:** You can select a new target of the same size or smaller within distance to be force moved instead, and you can turn that forced movement into a push instead. You become the source of the forced movement and decide where the new target's destination. Additionally, the forced movement distance gains a bonus equal to your Might score.
 
@@ -264,9 +259,6 @@ Power Roll + Might: - *11 or lower:* **5 damage** - *12-16:* **8 damage; push 1*
 
 *Your enemies will get out of your way--whether they want to or not.*
 
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
-
 Power Roll + Might: - *11 or lower:* **3 + M damage; slide 2** - *12-16:* **5 + M damage; slide 3** - *17+:* **8 + M damage; slide 5**
 
 **Effect:** When you slide the target, you can move into any square they leave. If you take damage from an opportunity attack by moving this way, the target takes the same amount and type of damage.
@@ -274,9 +266,6 @@ Power Roll + Might: - *11 or lower:* **3 + M damage; slide 2** - *12-16:* **5 + 
 ### Tide Of Death (3 Rage)
 
 *Teach them the folly of lining up for you.*
-
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
 
 **Effect:** You move up to your speed in a straight line, and you don't treat enemy squares as difficult terrain for this move. You can end this move in a creature's space and then move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.
 
@@ -308,8 +297,6 @@ Power Roll + Might: - *11 or lower:* **4 + M damage;** M \< weak\*\*, bleeding a
 
 *Anger is an energy.*
 
-|\-----------|-----|
-
 **Effect:** The next ability roll you make this turn automatically achieves a tier 3 result. You gain one surge.
 
 ### Thunder Roar (5 Rage)
@@ -323,9 +310,6 @@ Power Roll + Might: - *11 or lower:* **6 damage; push 2** - *12-16:* **9 damage;
 ### To The Uttermost End (5 Rage)
 
 *You spend your life force to ensure their death.*
-
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
 
 Power Roll + Might: - *11 or lower:* **7 + M damage** - *12-16:* **11 + M damage** - *17+:* **16 + M damage**
 
@@ -402,9 +386,6 @@ Power Roll + Might: - *11 or lower:* **2 damage;** A \< weak\*\*, dazed (save en
 ## Rrraaaghh!(5 Rage)
 
 *Death! Deeaaath!!*
-
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
 
 **Power Roll + Might:**
 

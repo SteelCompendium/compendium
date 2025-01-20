@@ -12,21 +12,19 @@ keyword_list:
   - Area
   - Fire
   - Magic
+ability_type: Action \| --- \| ---
 distance: 5 cube within 10
-target: All enemies \|
+target: All enemies
 ---
 
 # Muse Of Fire (11 Essence)
 
 *The fire burns hot enough to sear the face of any god watching.*
 
-|                                 |                            |
-| :------------------------------ | :------------------------- |
-| **Keywords:** Area, Fire, Magic | **Type:**                  |
-| **Distance:** 5 cube within 10  | **Target:** All enemies \| |
-
-| **Type:** Action |     |
-| ---------------- | --- |
+|                                 |                                |
+| :------------------------------ | :----------------------------- |
+| **Keywords:** Area, Fire, Magic | **Type:** Action \| --- \| --- |
+| **Distance:** 5 cube within 10  | **Target:** All enemies        |
 
 **Power Roll + Reason:**
 

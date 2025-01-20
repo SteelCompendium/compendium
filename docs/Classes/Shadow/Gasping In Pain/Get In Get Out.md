@@ -7,26 +7,24 @@ cost: 3 Insight
 type: classes
 subtype: shadow
 kind: gasping in pain
-keywords: \| Melee, Strike, Weapon
+keywords: Melee, Strike, Weapon
 keyword_list:
-  - \| Melee
+  - Melee
   - Strike
   - Weapon
-distance: \| Melee 1
-target: \| One creature \|
+ability_type: Action
+distance: Melee 1
+target: One creature
 ---
 
 # Get In Get Out (3 Insight)
 
 *Move unexpectedly, strike fast, and be gone!*
 
-|                                        |                                |
-| :------------------------------------- | :----------------------------- |
-| **Keywords:** \| Melee, Strike, Weapon | **Type:**                      |
-| **Distance:** \| Melee 1               | **Target:** \| One creature \| |
-
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
+|                                     |                          |
+| :---------------------------------- | :----------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action         |
+| **Distance:** Melee 1               | **Target:** One creature |
 
 Power Roll + Agility: - *11 or lower:* **5 + A damage** - *12-16:* **8 + A damage** - *17+:* **11 + A damage**
 

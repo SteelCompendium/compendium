@@ -208,9 +208,6 @@ You gain the following ability.
 
 *With the merest touch, you cause an object to turn to slag or ash.*
 
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
-
 **Effect:** You heat the target and cause it to combust and melt, destroying it. If the object is larger than 1 square, then only the square of the object that you touch is destroyed.
 
 ### Specialization Triggered Action
@@ -240,10 +237,7 @@ Your elemental specialization grants you a triggered action as shown on the Spec
 
 *You add a little magic to an ally's aggression at just the right time.*
 
-| **Type:** | Triggered |     |     |
-| --------- | --------- | --- | --- |
-
-**Trigger:** | The target force moves a creature or object. | | |
+**Trigger:** The target force moves a creature or object.
 
 **Effect:** The forced movement distance gains a bonus equal to your Reason score.
 
@@ -516,30 +510,28 @@ At the start of each of your turns while the portals are active, you can open a 
 
 ##### Green Animal Forms
 
-Animal
-
-| **Type:** Level    | Temporary Stamina | Speed | Size          | Stability Bonus | Melee Damage Bonus | Special  |                                                                                                                                                                                                                                                   |
-| ------------------ | ----------------- | ----- | ------------- | --------------- | ------------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Canine             | 2nd               | 5     | 7             | 1M              | +0                 | +1/+1/+1 | "You gain an edge on tests that involve smell."                                                                                                                                                                                                   |
-| Fish               | 2nd               | 0     | 5 (swim only) | 1T              | +0                 | +0/+0/+0 | "You can breathe in water but can't breathe outside of it."                                                                                                                                                                                       |
-| Rodent             | 2nd               | 0     | 5 (climb)     | 1T              | +0                 | +0/+0/+0 | "You gain an edge on tests that involve smell."                                                                                                                                                                                                   |
-| Bird               | 3rd               | 0     | 5 (fly)       | 1T              | +0                 | +0/+0/+0 | "-"                                                                                                                                                                                                                                               |
-| Great cat          | 3rd               | 5     | 6 (climb)     | 2               | +0                 | +1/+1/+1 | "As a maneuver, jump up to 3 squares in any direction. If you land on an enemy of your size or smaller, that enemy is knocked prone and you can make a melee free strike against them as part of the maneuver."                                   |
-| Giant frog         | 4th               | 5     | 5 (swim)      | 2               | +0                 | +0/+0/+0 | "Your melee free strike has a distance of melee 3. When you take the Advance move action, you can high or long jump up to half your speed in addition to your normal speed."                                                                      |
-| Horse              | 4th               | 5     | 8             | 2               | +1                 | +0/+0/+0 | "You can use the Charge action as a maneuver. You can't use two Charge actions on the same turn."                                                                                                                                                 |
-| Mohler             | 4th               | 0     | 7 (burrow)    | 1S              | +1                 | +0/+0/+0 | "You gain a melee distance bonus of +1."                                                                                                                                                                                                          |
-| Bear               | 5th               | 10    | 5 (climb)     | 2               | +1                 | +2/+2/+2 | "You gain a melee distance bonus of +1."                                                                                                                                                                                                          |
-| Giant bird         | 5th               | 0     | 7 (fly)       | 2               | +0                 | +1/+1/+1 | "After making a melee free strike, you can shift up to 3 squares."                                                                                                                                                                                |
-| Giant salamander   | 6th               | 5     | 5             | 1L              | +3                 | +2/+2/+2 | "Your melee free strike deals fire damage. You have fire immunity 3."                                                                                                                                                                             |
-| Giant spider       | 6th               | 0     | 5 (climb)     | 2               | +0                 | +0/+1/+2 | "You have a double edge on melee free strikes against creatures you are hidden from."                                                                                                                                                             |
-| Giant snake        | 7th               | 5     | 5             | 3               | +0                 | +0/+1/+2 | "Whenever you obtain a tier 2 or tier 3 result on a melee free strike, you can automatically grab the target. While grabbed this way, the target takes 2 damage at the start of each of their turns."                                             |
-| Kangaroo           | 7th               | 0     | 7             | 1L              | +1                 | +0/+0/+4 | "If you get a critical hit with a melee free strike, the target is dazed (save ends). When you take the Advance move action, you can high or long jump up to half your speed in addition to your normal speed."                                   |
-| Spiny armadillo    | 7th               | 10    | 5             | 1M              | +2                 | +0/+0/+0 | "Whenever you take damage from an adjacent creature's melee ability, that creature takes 3 damage."                                                                                                                                               |
-| Ostrich            | 8th               | 0     | 10            | 2               | +0                 | +1/+1/+1 | "Your movement does not provoke opportunity strikes."                                                                                                                                                                                             |
-| Shark              | 8th               | 0     | 8 (swim only) | 2               | +0                 | +2/+2/+2 | "You can breathe in water but can't breathe outside of it. Additionally, you have an edge on strikes against targets who are bleeding or winded."                                                                                                 |
-| Giant octopus      | 9th               | 5     | 5 (swim)      | 3               | +2                 | +0/+0/+0 | "You can breathe in water. Additionally, you can target two creatures or objects with your melee free strike, and a target of your melee free strike is grabbed by you on a tier 2 or tier 3 result. You can have up to eight creatures grabbed." |
-| Rhinoceros         | 9th               | 10    | 8             | 2               | +5                 | +2/+2/+2 | "Whenever you make a melee free strike as part of the Charge action, it gains an edge."                                                                                                                                                           |
-| King terror lizard | 10th              | 20    | 5             | 4               | +3                 | +2/+2/+2 | "Your melee free strike is a 1 burst with the Area keyword and the Strike keyword."                                                                                                                                                               |
+| Animal             | Level | Temporary Stamina | Speed         | Size | Stability Bonus | Melee Damage Bonus | Special                                                                                                                                                                                                                                           |
+| ------------------ | ----- | ----------------- | ------------- | ---- | --------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Canine             | 2nd   | 5                 | 7             | 1M   | +0              | +1/+1/+1           | "You gain an edge on tests that involve smell."                                                                                                                                                                                                   |
+| Fish               | 2nd   | 0                 | 5 (swim only) | 1T   | +0              | +0/+0/+0           | "You can breathe in water but can't breathe outside of it."                                                                                                                                                                                       |
+| Rodent             | 2nd   | 0                 | 5 (climb)     | 1T   | +0              | +0/+0/+0           | "You gain an edge on tests that involve smell."                                                                                                                                                                                                   |
+| Bird               | 3rd   | 0                 | 5 (fly)       | 1T   | +0              | +0/+0/+0           | "-"                                                                                                                                                                                                                                               |
+| Great cat          | 3rd   | 5                 | 6 (climb)     | 2    | +0              | +1/+1/+1           | "As a maneuver, jump up to 3 squares in any direction. If you land on an enemy of your size or smaller, that enemy is knocked prone and you can make a melee free strike against them as part of the maneuver."                                   |
+| Giant frog         | 4th   | 5                 | 5 (swim)      | 2    | +0              | +0/+0/+0           | "Your melee free strike has a distance of melee 3. When you take the Advance move action, you can high or long jump up to half your speed in addition to your normal speed."                                                                      |
+| Horse              | 4th   | 5                 | 8             | 2    | +1              | +0/+0/+0           | "You can use the Charge action as a maneuver. You can't use two Charge actions on the same turn."                                                                                                                                                 |
+| Mohler             | 4th   | 0                 | 7 (burrow)    | 1S   | +1              | +0/+0/+0           | "You gain a melee distance bonus of +1."                                                                                                                                                                                                          |
+| Bear               | 5th   | 10                | 5 (climb)     | 2    | +1              | +2/+2/+2           | "You gain a melee distance bonus of +1."                                                                                                                                                                                                          |
+| Giant bird         | 5th   | 0                 | 7 (fly)       | 2    | +0              | +1/+1/+1           | "After making a melee free strike, you can shift up to 3 squares."                                                                                                                                                                                |
+| Giant salamander   | 6th   | 5                 | 5             | 1L   | +3              | +2/+2/+2           | "Your melee free strike deals fire damage. You have fire immunity 3."                                                                                                                                                                             |
+| Giant spider       | 6th   | 0                 | 5 (climb)     | 2    | +0              | +0/+1/+2           | "You have a double edge on melee free strikes against creatures you are hidden from."                                                                                                                                                             |
+| Giant snake        | 7th   | 5                 | 5             | 3    | +0              | +0/+1/+2           | "Whenever you obtain a tier 2 or tier 3 result on a melee free strike, you can automatically grab the target. While grabbed this way, the target takes 2 damage at the start of each of their turns."                                             |
+| Kangaroo           | 7th   | 0                 | 7             | 1L   | +1              | +0/+0/+4           | "If you get a critical hit with a melee free strike, the target is dazed (save ends). When you take the Advance move action, you can high or long jump up to half your speed in addition to your normal speed."                                   |
+| Spiny armadillo    | 7th   | 10                | 5             | 1M   | +2              | +0/+0/+0           | "Whenever you take damage from an adjacent creature's melee ability, that creature takes 3 damage."                                                                                                                                               |
+| Ostrich            | 8th   | 0                 | 10            | 2    | +0              | +1/+1/+1           | "Your movement does not provoke opportunity strikes."                                                                                                                                                                                             |
+| Shark              | 8th   | 0                 | 8 (swim only) | 2    | +0              | +2/+2/+2           | "You can breathe in water but can't breathe outside of it. Additionally, you have an edge on strikes against targets who are bleeding or winded."                                                                                                 |
+| Giant octopus      | 9th   | 5                 | 5 (swim)      | 3    | +2              | +0/+0/+0           | "You can breathe in water. Additionally, you can target two creatures or objects with your melee free strike, and a target of your melee free strike is grabbed by you on a tier 2 or tier 3 result. You can have up to eight creatures grabbed." |
+| Rhinoceros         | 9th   | 10                | 8             | 2    | +5              | +2/+2/+2           | "Whenever you make a melee free strike as part of the Charge action, it gains an edge."                                                                                                                                                           |
+| King terror lizard | 10th  | 20                | 5             | 4    | +3              | +2/+2/+2           | "Your melee free strike is a 1 burst with the Area keyword and the Strike keyword."                                                                                                                                                               |
 
 ### New 5-essence Ability
 
@@ -926,9 +918,6 @@ You gain the following ability:
 
 *The ground rumbles as they burst forth, ready to serve.*
 
-| **Type:** Action |     |
-| ---------------- | --- |
-
 **Effect:** A **source of earth** emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking an action or a maneuver but not both. The source is dismissed at the start of your next turn.
 
 The source starts an encounter at full Stamina, but maintains their current Stamina throughout the encounter, even if they are dismissed and you use this ability again. They can't regain Stamina during the encounter. When the source's Stamina is reduced to 0, you cannot use this ability again until you earn at least 1 Victory.
@@ -975,9 +964,6 @@ Choose one heroic ability from the following options.
 
 *The fire burns hot enough to sear the face of any god watching.*
 
-| **Type:** Action |     |
-| ---------------- | --- |
-
 **Power Roll + Reason:**
 
 o *11 or lower*: 7 **fire damage; Director loses 2 Malice**
@@ -991,16 +977,11 @@ o *11 or lower*: 7 **fire damage; Director loses 2 Malice**
 
 *You create a tear in reality that could consume everything that slips inside of it.*
 
-| **Type:** Action |     |
-| ---------------- | --- |
-
 **Effect:** You create a size 1L vortex that lasts until the end of the encounter. At the start of each round, all enemies within 5 of the affected area while it is unoccupied are vertical pulled 3 towards it. An enemy who enters the vortex or starts their turn there is knocked prone. A nonleader, non-solo enemy who is winded in the vortex at the end of the round is instantly destroyed.
 
 ### The World Torn Asunder (11 Essence)
 
 *You stomp your foot and quake the whole world over.*
-
-|
 
 **Power Roll + Reason:**
 
@@ -1036,9 +1017,6 @@ Power Roll + Reason: - *11 or lower:* **6 damage** - *12-16:* **9 damage** - *17
 
 *A luminous green shield that shows its true beauty the more it cracks.*
 
-| **Type:** | Maneuver |     |     |
-| --------- | -------- | --- | --- |
-
 **Effect:** You conjure an elemental shield that protects the target until the end of your next turn. While the ward is active, the target can take the Defend action as a maneuver on each of their turns. The target gains 30 temporary Stamina that lasts until depleted or the ward is no longer active. When this temporary Stamina disappears, the ward ends. When the ability ends, the ward explodes. Each enemy within 5 of the target takes 10 damage.
 
 **Persistent 2:** The effects persist until the start of your next turn.
@@ -1046,9 +1024,6 @@ Power Roll + Reason: - *11 or lower:* **6 damage** - *12-16:* **9 damage** - *17
 ### Prism (11 Essence)
 
 *In one act, you split your essence, allowing you to cast multiple effects at once.*
-
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
 
 **Effect:** You use up to three heroic abilities whose cost totals 11 essence or less (other than spending essence to use this ability, you don't have to spend more essence to use those abilities). You can shift 2 between each ability.
 

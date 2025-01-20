@@ -7,13 +7,24 @@ cost: 11 Essence
 type: classes
 subtype: elementalist
 kind: 8th-level features
+keywords: Area, Earth, Magic
+keyword_list:
+  - Area
+  - Earth
+  - Magic
+ability_type: Action
+distance: 5 burst
+target: All enemies
 ---
 
 # The World Torn Asunder (11 Essence)
 
 *You stomp your foot and quake the whole world over.*
 
-|
+|                                  |                         |
+| :------------------------------- | :---------------------- |
+| **Keywords:** Area, Earth, Magic | **Type:** Action        |
+| **Distance:** 5 burst            | **Target:** All enemies |
 
 **Power Roll + Reason:**
 

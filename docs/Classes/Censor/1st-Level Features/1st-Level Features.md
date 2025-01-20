@@ -31,11 +31,3 @@ As a censor, you gain the following features.
 [1ST-LEVEL DOMAIN FEATURE](./1st-Level%20Domain%20Feature/1st-Level%20Domain%20Feature.md)
 
 [CENSOR ABILITIES](./Censor%20Abilities/Censor%20Abilities.md)
-
-[BACK, BLASPHEMER!](./Back%20Blasphemer.md)
-
-[EVERY STEP ... DEATH!](./Every%20Step%20Death.md)
-
-[HALT, MISCREANT!](./Halt%20Miscreant.md)
-
-[YOUR ALLIES CANNOT SAVE YOU!](./Your%20Allies%20Cannot%20Save%20You/Your%20Allies%20Cannot%20Save%20You.md)

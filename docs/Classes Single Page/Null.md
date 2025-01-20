@@ -10,7 +10,7 @@ keyword_list:
 ability_type: Maneuver
 distance: Self
 target: Self
-trigger: \| You take damage. \| \| \|
+trigger: You take damage.
 ---
 
 # Null
@@ -103,9 +103,6 @@ You project a psionic field of order around your body, dampening the effects of 
 | **Keywords:** Psionic | **Type:** Maneuver |
 | **Distance:** Self    | **Target:** Self   |
 
-| **Type:** | Maneuver |     |     |
-| --------- | -------- | --- | --- |
-
 **Effect:** Each target reduces their potencies by 1.
 
 Once as a free maneuver on your turn, you can spend 1 discipline and give your Null Field has one of the following additional effects until the start of your next turn:
@@ -124,10 +121,7 @@ Your instincts for danger let you predict attacks before they happen.
 
 *You intuit where an incoming attack will strike, reducing its effects.*
 
-| **Type:** | Triggered |     |     |
-| --------- | --------- | --- | --- |
-
-**Trigger:** | You take damage. | | |
+**Trigger:** You take damage.
 
 **Effect:** You halve the damage.
 
@@ -434,9 +428,6 @@ Power Roll + Agility: - *11 or lower:* **8 + A psychic damage; vertical pull 3**
 ### Kinetic Shield (5 Discipline)
 
 *You manifest a force barrier that absorbs incoming kinetic energy.*
-
-| **Type:** | Maneuver |     |     |
-| --------- | -------- | --- | --- |
 
 Power Roll + Intuition: - *11 or lower:* **You gain 10 temporary Stamina** - *12-16:* **You gain 15 temporary Stamina** - *17+:* **You gain 20 temporary Stamina**
 

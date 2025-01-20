@@ -7,20 +7,22 @@ cost: 5 Piety
 type: classes
 subtype: conduit
 kind: the gods command you obey
-ability_type: \| Maneuver
-distance: \| Ranged 10
-target: \| Special \|
+keywords: Magic, Ranged \| --- \| ---
+keyword_list:
+  - Magic
+  - Ranged \| --- \| ---
+ability_type: Maneuver
+distance: Ranged 10
+target: Special
 ---
 
 # Statue Of Power (5 Piety)
 
 *A marble statue of your patron rises from the earth.*
 
-| **Keywords:**                        | Magic, Ranged                     |
-| ------------------------------------ | --------------------------------- |
-|                                      |                                   |
-| :----------------------------------- | :-------------------------------- |
-| **Keywords:**                        | **Type:** \| Maneuver             |
-| **Distance:** \| Ranged 10           | **Target:** \| Special \|         |
+|                                           |                     |
+| :---------------------------------------- | :------------------ |
+| **Keywords:** Magic, Ranged \| --- \| --- | **Type:** Maneuver  |
+| **Distance:** Ranged 10                   | **Target:** Special |
 
 **Effect:** A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you and your allies each gains a surge at the start of their turns. The statue is destroyed if it takes 20 or more damage. It is immune to poison and psychic damage.

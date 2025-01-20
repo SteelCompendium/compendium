@@ -7,24 +7,22 @@ cost: 9 Focus
 type: classes
 subtype: tactician
 kind: 6th-level features
-keywords: '| **Type:** |          |'
+keywords: Ranged
 keyword_list:
-  - '| **Type:** |          |'
+  - Ranged
+ability_type: Maneuver
 distance: Ranged 10
-target: 3 creatures \|
+target: 3 creatures
 ---
 
 # Battleplan (9 Focus)
 
 *With new understanding of your foes, you create the perfect plan to win the encounter.*
 
-|                         |                            |
-| :---------------------- | :------------------------- |
-| **Keywords:**           | **Type:**                  |
-| **Distance:** Ranged 10 | **Target:** 3 creatures \| |
-
-|\-----------|----------|
-| Ranged    | Maneuver |
+|                         |                         |
+| :---------------------- | :---------------------- |
+| **Keywords:** Ranged    | **Type:** Maneuver      |
+| **Distance:** Ranged 10 | **Target:** 3 creatures |
 
 **Effect:** Each target is marked by you. Immediately and for the rest of the encounter, the Director tells you if any marked enemies have damage immunity or weakness and what the value of either is. You and all allies within 3 squares of you gain two surges.
 

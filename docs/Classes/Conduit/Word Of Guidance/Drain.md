@@ -25,9 +25,6 @@ target: One creature or object
 | **Keywords:** Magic, Ranged, Strike | **Type:** Action                   |
 | **Distance:** Ranged 10             | **Target:** One creature or object |
 
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
-
 Power Roll + Intuition: - *11 or lower:* **2 + I corruption damage** - *12-16:* **5 + I corruption damage** - *17+:* **7 + I corruption damage**
 
 **Effect:** You or one ally within distance can spend a Recovery.

@@ -192,10 +192,7 @@ Your shadow college grants you a triggered action as shown on the College Trigge
 
 *You sow a moment of confusion in combat, to your enemy's peril.*
 
-| **Type:** | Triggered |     |     |
-| --------- | --------- | --- | --- |
-
-**Trigger:** An enemy targets you with a strike | |
+**Trigger:** An enemy targets you with a strike
 
 **Trigger:** An enemy targets you with a strike.
 
@@ -204,10 +201,6 @@ Your shadow college grants you a triggered action as shown on the College Trigge
 ### Defensive Roll
 
 *When an enemy attacks, you roll with the impact to reduce the harm.*
-
-|\-----------|-----|
-
-**Trigger:** Another creature damages you
 
 **Trigger:** Another creature damages you.
 
@@ -218,9 +211,6 @@ Your shadow college grants you a triggered action as shown on the College Trigge
 #### In All This Confusion
 
 *You vanish in a plume of black smoke to avoid danger.*
-
-| **Type:** | Triggered |     |     |
-| --------- | --------- | --- | --- |
 
 **Trigger:** You take damage.
 
@@ -296,9 +286,6 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 *Your attack leaves them reeling, allowing you to follow up.*
 
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
-
 Power Roll + Agility: - *11 or lower:* **4 + A damage; slide 2** - *12-16:* **6 + A damage; slide 3** - *17+:* **10 + A damage; slide 5**
 
 **Effect:** You can shift into any square the target leaves when you slide them.
@@ -312,9 +299,6 @@ Power Roll + Agility: - *11 or lower:* **4 + A damage;** A \< weak\*\*, bleeding
 ### Get In Get Out (3 Insight)
 
 *Move unexpectedly, strike fast, and be gone!*
-
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
 
 Power Roll + Agility: - *11 or lower:* **5 + A damage** - *12-16:* **8 + A damage** - *17+:* **11 + A damage**
 
@@ -353,9 +337,6 @@ Power Roll + Agility: - *11 or lower:* **6 + A damage;** R \< weak\*\*, the targ
 ## Shadowstrike (5 Insight)
 
 *They have no idea what the college taught you.*
-
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
 
 **Effect:** You make two signature strikes.
 

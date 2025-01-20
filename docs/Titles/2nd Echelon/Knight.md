@@ -5,13 +5,14 @@ name_raw: Knight
 name: Knight
 type: titles
 subtype: 2nd echelon
-keywords: \| Melee, Strike, Weapon
+keywords: Melee, Strike, Weapon
 keyword_list:
-  - \| Melee
+  - Melee
   - Strike
   - Weapon
-distance: \| Melee 1
-target: \| 1 creature \|
+ability_type: Action
+distance: Melee 1
+target: 1 creature
 ---
 
 # Knight
@@ -30,13 +31,10 @@ Choose one of the following benefits:
 
 COSTS 5 HEROIC RESOURCES: KNIGHTLY CHALLENGE *Have at thee!*
 
-|                                        |                              |
-| :------------------------------------- | :--------------------------- |
-| **Keywords:** \| Melee, Strike, Weapon | **Type:**                    |
-| **Distance:** \| Melee 1               | **Target:** \| 1 creature \| |
-
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
+|                                     |                        |
+| :---------------------------------- | :--------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action       |
+| **Distance:** Melee 1               | **Target:** 1 creature |
 
 **Power Roll + Might or Agility:**
 

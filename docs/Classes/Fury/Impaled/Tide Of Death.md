@@ -7,25 +7,23 @@ cost: 3 Rage
 type: classes
 subtype: fury
 kind: impaled
-keywords: \| Melee, Weapon
+keywords: Melee, Weapon
 keyword_list:
-  - \| Melee
+  - Melee
   - Weapon
-distance: \| Self
-target: \| Self \|
+ability_type: Action
+distance: Self
+target: Self
 ---
 
 # Tide Of Death (3 Rage)
 
 *Teach them the folly of lining up for you.*
 
-|                                |                        |
-| :----------------------------- | :--------------------- |
-| **Keywords:** \| Melee, Weapon | **Type:**              |
-| **Distance:** \| Self          | **Target:** \| Self \| |
-
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
+|                             |                  |
+| :-------------------------- | :--------------- |
+| **Keywords:** Melee, Weapon | **Type:** Action |
+| **Distance:** Self          | **Target:** Self |
 
 **Effect:** You move up to your speed in a straight line, and you don't treat enemy squares as difficult terrain for this move. You can end this move in a creature's space and then move them to an adjacent unoccupied space. You make one power roll that targets each enemy whose space you move through.
 

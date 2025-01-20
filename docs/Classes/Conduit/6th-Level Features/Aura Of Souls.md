@@ -11,20 +11,18 @@ keywords: Area, Magic
 keyword_list:
   - Area
   - Magic
+ability_type: Maneuver
 distance: 4 Aura
-target: All creatures \|
+target: All creatures
 ---
 
 # Aura Of Souls (9 Piety)
 
 *A whirlwind of souls of the dead flies around you at your command.*
 
-|                           |                              |
-| :------------------------ | :--------------------------- |
-| **Keywords:** Area, Magic | **Type:**                    |
-| **Distance:** 4 Aura      | **Target:** All creatures \| |
-
-| **Type:** Maneuver |     |     |     |
-| ------------------ | --- | --- | --- |
+|                           |                           |
+| :------------------------ | :------------------------ |
+| **Keywords:** Area, Magic | **Type:** Maneuver        |
+| **Distance:** 4 Aura      | **Target:** All creatures |
 
 **Effect:** Until the end of the encounter or you start dying, whenever you end your turn, you can slide each creature in the aura a number of squares equal to your Intuition score. This forced movement ignores the Stability of allies.

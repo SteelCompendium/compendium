@@ -6,11 +6,12 @@ name: College Triggered Action
 type: classes
 subtype: shadow
 kind: 1st-level features
-keywords: \| Magic
+keywords: Magic
 keyword_list:
-  - \| Magic
-distance: \| Self
-target: \| Self
+  - Magic
+ability_type: Triggered
+distance: Self
+target: Self
 trigger: An enemy targets you with a strike.
 ---
 
@@ -30,15 +31,12 @@ Your shadow college grants you a triggered action as shown on the College Trigge
 
 *You sow a moment of confusion in combat, to your enemy's peril.*
 
-|                        |                     |
-| :--------------------- | :------------------ |
-| **Keywords:** \| Magic | **Type:**           |
-| **Distance:** \| Self  | **Target:** \| Self |
+|                     |                     |
+| :------------------ | :------------------ |
+| **Keywords:** Magic | **Type:** Triggered |
+| **Distance:** Self  | **Target:** Self    |
 
-| **Type:** | Triggered |     |     |
-| --------- | --------- | --- | --- |
-
-**Trigger:** An enemy targets you with a strike | |
+**Trigger:** An enemy targets you with a strike
 
 **Trigger:** An enemy targets you with a strike.
 

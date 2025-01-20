@@ -7,11 +7,12 @@ cost: 1 Insight
 type: classes
 subtype: shadow
 kind: 1st-level features
-keywords: \| Magic
+keywords: Magic
 keyword_list:
-  - \| Magic
-distance: \| Self
-target: \| Self
+  - Magic
+ability_type: Triggered
+distance: Self
+target: Self
 trigger: An enemy targets you with a strike.
 ---
 
@@ -19,15 +20,12 @@ trigger: An enemy targets you with a strike.
 
 *You sow a moment of confusion in combat, to your enemy's peril.*
 
-|                        |                     |
-| :--------------------- | :------------------ |
-| **Keywords:** \| Magic | **Type:**           |
-| **Distance:** \| Self  | **Target:** \| Self |
+|                     |                     |
+| :------------------ | :------------------ |
+| **Keywords:** Magic | **Type:** Triggered |
+| **Distance:** Self  | **Target:** Self    |
 
-| **Type:** | Triggered |     |     |
-| --------- | --------- | --- | --- |
-
-**Trigger:** An enemy targets you with a strike | |
+**Trigger:** An enemy targets you with a strike
 
 **Trigger:** An enemy targets you with a strike.
 

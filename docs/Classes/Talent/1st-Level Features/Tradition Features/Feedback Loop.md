@@ -6,27 +6,25 @@ name: Feedback Loop
 type: classes
 subtype: talent
 kind: 1st-level features
-keywords: \| Psionic, Ranged
+keywords: Psionic, Ranged
 keyword_list:
-  - \| Psionic
+  - Psionic
   - Ranged
-distance: \| Ranged 10
-target: \| One creature
-trigger: \| The target deals damage to an ally. \| \| \|
+ability_type: Triggered
+distance: Ranged 10
+target: One creature
+trigger: The target deals damage to an ally.
 ---
 
 # Feedback Loop
 
 *Creating a brief psychic link between a foe and their target gives that foe a taste of their own medicine.*
 
-|                                  |                             |
-| :------------------------------- | :-------------------------- |
-| **Keywords:** \| Psionic, Ranged | **Type:**                   |
-| **Distance:** \| Ranged 10       | **Target:** \| One creature |
+|                               |                          |
+| :---------------------------- | :----------------------- |
+| **Keywords:** Psionic, Ranged | **Type:** Triggered      |
+| **Distance:** Ranged 10       | **Target:** One creature |
 
-| **Type:** | Triggered |     |     |
-| --------- | --------- | --- | --- |
-
-**Trigger:** | The target deals damage to an ally. | | |
+**Trigger:** The target deals damage to an ally.
 
 **Effect:** The target takes psychic damage equal to half the triggering damage.

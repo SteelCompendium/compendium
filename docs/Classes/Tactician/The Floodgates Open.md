@@ -6,23 +6,21 @@ name: The Floodgates Open
 cost: 11 Focus
 type: classes
 subtype: tactician
-keywords: '| **Type:** |        |'
+keywords: Ranged
 keyword_list:
-  - '| **Type:** |        |'
+  - Ranged
+ability_type: Action
 distance: Ranged 10
-target: 3 allies \|
+target: 3 allies
 ---
 
 # The Floodgates Open (11 Focus)
 
 *You direct your squad to strike in unision and with devastating effect.*
 
-|                         |                         |
-| :---------------------- | :---------------------- |
-| **Keywords:**           | **Type:**               |
-| **Distance:** Ranged 10 | **Target:** 3 allies \| |
-
-|\-----------|--------|
-| Ranged    | Action |
+|                         |                      |
+| :---------------------- | :------------------- |
+| **Keywords:** Ranged    | **Type:** Action     |
+| **Distance:** Ranged 10 | **Target:** 3 allies |
 
 **Effect:** Each target gains a surge and uses a signature ability that has an edge with increased effect potency of 1, if applicable.

@@ -6,26 +6,24 @@ name: Sacrificial Offer
 type: classes
 subtype: conduit
 kind: word of guidance
-keywords: \| Magic, Ranged, Strike
+keywords: Magic, Ranged, Strike
 keyword_list:
-  - \| Magic
+  - Magic
   - Ranged
   - Strike
-distance: \| Ranged 10
-target: \| One creature \|
+ability_type: Action
+distance: Ranged 10
+target: One creature
 ---
 
 # Sacrificial Offer
 
 *Divine magic tears at your foe and defends a nearby friend.*
 
-|                                        |                                |
-| :------------------------------------- | :----------------------------- |
-| **Keywords:** \| Magic, Ranged, Strike | **Type:**                      |
-| **Distance:** \| Ranged 10             | **Target:** \| One creature \| |
-
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
+|                                     |                          |
+| :---------------------------------- | :----------------------- |
+| **Keywords:** Magic, Ranged, Strike | **Type:** Action         |
+| **Distance:** Ranged 10             | **Target:** One creature |
 
 Power Roll + Intuition: - *11 or lower:* **2 + I corruption damage** - *12-16:* **4 + IV corruption damage** - *17+:* **6 + I corruption damage**
 

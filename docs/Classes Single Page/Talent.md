@@ -168,10 +168,7 @@ You gain the following ability.
 
 *Creating a brief psychic link between a foe and their target gives that foe a taste of their own medicine.*
 
-| **Type:** | Triggered |     |     |
-| --------- | --------- | --- | --- |
-
-**Trigger:** | The target deals damage to an ally. | | |
+**Trigger:** The target deals damage to an ally.
 
 **Effect:** The target takes psychic damage equal to half the triggering damage.
 
@@ -270,9 +267,6 @@ Select two signature abilities from the following options. Signature abilities c
 ### Entropic Bolt
 
 *You advance an enemy's age for a moment.*
-
-| **Type:** | Action |
-| --------- | ------ |
 
 Power Roll + Presence: - *11 or lower:* **2 + P corruption damage;** P \< weak\*\*, slowed (save ends)\*\* - *12-16:* **3 + P corruption damage;** P \< average\*\*, slowed (save ends)\*\* - *17+:* **5 + P corruption damage;** P \< strong\*\*, slowed (save ends)\*\*
 

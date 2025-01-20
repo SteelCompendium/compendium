@@ -7,21 +7,21 @@ cost: 5 Rage
 type: classes
 subtype: fury
 kind: blood for blood(5 rage)
-keywords: '| **Type:** |     |'
+keywords: --
 keyword_list:
-  - '| **Type:** |     |'
-distance: '**Target:** \| \| Self \| Self \|'
+  - --
+ability_type: Free maneuver
+distance: Self
+target: Self
 ---
 
 # Make Peace With Your God!(5 Rage)
 
 *Anger is an energy.*
 
-|                                                 |             |
-| :---------------------------------------------- | :---------- |
-| **Keywords:**                                   | **Type:**   |
-| **Distance:** **Target:** \| \| Self \| Self \| | **Target:** |
-
-|\-----------|-----|
+|                    |                         |
+| :----------------- | :---------------------- |
+| **Keywords:** --   | **Type:** Free maneuver |
+| **Distance:** Self | **Target:** Self        |
 
 **Effect:** The next ability roll you make this turn automatically achieves a tier 3 result. You gain one surge.

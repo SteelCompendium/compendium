@@ -7,26 +7,24 @@ cost: 3 Insight
 type: classes
 subtype: shadow
 kind: gasping in pain
-keywords: \| Melee, Strike, Weapon
+keywords: Melee, Strike, Weapon
 keyword_list:
-  - \| Melee
+  - Melee
   - Strike
   - Weapon
-distance: \| Melee 1
-target: \| One creature \|
+ability_type: Action
+distance: Melee 1
+target: One creature
 ---
 
 # Disorienting Strike (3 Insight)
 
 *Your attack leaves them reeling, allowing you to follow up.*
 
-|                                        |                                |
-| :------------------------------------- | :----------------------------- |
-| **Keywords:** \| Melee, Strike, Weapon | **Type:**                      |
-| **Distance:** \| Melee 1               | **Target:** \| One creature \| |
-
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
+|                                     |                          |
+| :---------------------------------- | :----------------------- |
+| **Keywords:** Melee, Strike, Weapon | **Type:** Action         |
+| **Distance:** Melee 1               | **Target:** One creature |
 
 Power Roll + Agility: - *11 or lower:* **4 + A damage; slide 2** - *12-16:* **6 + A damage; slide 3** - *17+:* **10 + A damage; slide 5**
 

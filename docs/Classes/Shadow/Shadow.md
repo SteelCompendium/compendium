@@ -5,13 +5,14 @@ name_raw: Shadow
 name: Shadow
 type: classes
 subtype: shadow
-keywords: \| Magic, Melee, Ranged
+keywords: Magic, Melee, Ranged
 keyword_list:
-  - \| Magic
+  - Magic
   - Melee
   - Ranged
-distance: \| Self; see below
-target: \| Self \|
+ability_type: Action
+distance: Self; see below
+target: Self
 ---
 
 # Shadow
@@ -24,13 +25,10 @@ As a shadow, you have abilities that deal a lot of damage, let you move swiftly 
 
 *They have no idea what the college taught you.*
 
-|                                       |                        |
-| :------------------------------------ | :--------------------- |
-| **Keywords:** \| Magic, Melee, Ranged | **Type:**              |
-| **Distance:** \| Self; see below      | **Target:** \| Self \| |
-
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
+|                                    |                  |
+| :--------------------------------- | :--------------- |
+| **Keywords:** Magic, Melee, Ranged | **Type:** Action |
+| **Distance:** Self; see below      | **Target:** Self |
 
 **Effect:** You make two signature strikes.
 

@@ -165,9 +165,6 @@ You gain the following ability.
 
 *It doesn't need to make sense. Just say it with emotionality.*
 
-| **Type:** | Maneuver |     |     |
-| --------- | -------- | --- | --- |
-
 **Effect:** Choose one of the following effects:
 
 - You orate a rousing tale of victory. One ally within distance gains an edge on the next power roll they make before the start of your next turn.
@@ -288,9 +285,6 @@ Power Roll + Presence: - *11 or lower:* **2 + P psychic damage;** P \< weak\*\*,
 
 *I didn't do it! What?*
 
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
-
 Power Roll + Presence: - *11 or lower:* **3 + P damage** - *12-16:* **6 + P damage** - *17+:* **9 + P damage**
 
 **Effect:** The target is taunted by you or a willing ally adjacent to you until the end of the target's next turn.
@@ -340,9 +334,6 @@ Power Roll + Presence: - *11 or lower:* **4 damage;** P \< weak\*\*, slowed (sav
 ### Upstage (3 Drama)
 
 *As you bob and weave through the crowd, you can't help but leave the audience wanting more.*
-
-| **Type:** | Maneuver |     |     |
-| --------- | -------- | --- | --- |
 
 **Effect:** You shift up to your speed. You make one power roll that targets each enemy who becomes adjacent to you during the shift.
 
@@ -445,9 +436,6 @@ Choose one of the following abilities.
 ## Guest Star (5 Drama)
 
 *We offered them a percentage of the gross. So they're working for free!*
-
-| **Type:** | Action |     |     |
-| --------- | ------ | --- | --- |
 
 **Effect:** Either a bystander within distance is uplifted by your magic, or a mysterious new hero appears in an unoccupied space to help out during the encounter. This guest star is controlled by you, has their own turn, shares your characteristics. Their stamina is maximum is half yours. They have no abilities other than your melee and ranged free strikes. When the target is reduced to 0 Stamina or at the end of the encounter, they retreat or revert to a bystander. An individual bystander can't be uplifted in this way more than once in an encounter.
 

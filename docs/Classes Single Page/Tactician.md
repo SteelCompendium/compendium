@@ -147,10 +147,7 @@ Your tactical doctrine grants you a triggered action as shown on the Doctrine Tr
 | **Keywords:** Charge, Melee, Strike, Weapon | **Type:** Action       |
 | **Distance:** Melee 1                       | **Target:** 1 creature |
 
-| **Type:** | Triggered |     |     |
-| --------- | --------- | --- | --- |
-
-**Trigger:** | The target deals damage to another creature. | | |
+**Trigger:** The target deals damage to another creature.
 
 **Effect:** The target gains two surges, which they can use on the triggering damage.
 
@@ -267,9 +264,6 @@ Power Roll + Might: - *11 or lower:* **3 + M damage; you or one ally within 10 s
 
 *On your command, you and your allies force back the enemy line.*
 
-|\-----------|----------|
-| Ranged    | Maneuver |
-
 **Effect:** Each target can move their speed.
 
 ##### 5-focus Ability
@@ -295,9 +289,6 @@ Power Roll + Might: - *11 or lower:* **4 + M damage; R** \< weak\*\*, weakened (
 ##### Now!(5 Focus)
 
 *Your allies wait for your command--then unleash death!*
-
-| **Type:** | Maneuver |     |     |
-| --------- | -------- | --- | --- |
 
 **Effect:** Each target can make a free strike.
 
@@ -541,9 +532,6 @@ Power Roll + Might: - *11 or lower:* **9 + M damage** - *12-16:* **13 + M damage
 
 *You push an ally to use a heroic ability sooner than they normally would.*
 
-|\-----------|--------|
-| Ranged    | Action |
-
 **Effect:** The target makes a heroic strike as a free triggered action and deals extra damage equal to your Reason score. The target's heroic resource cost is reduced by your Reason score.
 
 ## 6th-level Features
@@ -589,9 +577,6 @@ Choose one of the following abilities.
 #### Battleplan (9 Focus)
 
 *With new understanding of your foes, you create the perfect plan to win the encounter.*
-
-|\-----------|----------|
-| Ranged    | Maneuver |
 
 **Effect:** Each target is marked by you. Immediately and for the rest of the encounter, the Director tells you if any marked enemies have damage immunity or weakness and what the value of either is. You and all allies within 3 squares of you gain two surges.
 
@@ -728,9 +713,6 @@ Choose one heroic ability from the following options.
 ## The Floodgates Open (11 Focus)
 
 *You direct your squad to strike in unision and with devastating effect.*
-
-|\-----------|--------|
-| Ranged    | Action |
 
 **Effect:** Each target gains a surge and uses a signature ability that has an edge with increased effect potency of 1, if applicable.
 
