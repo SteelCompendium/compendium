@@ -15,5 +15,5 @@ An NPC with the higher authority pitfall scoffs at the idea of serving another. 
 
 Arguments that appeal to a higher authority motivation contend that it's in the interest of the higher authority for the NPC to strike a deal with the heroes. A hero might even tell the NPC that if the higher authority were in the NPC's position, they would take the deal. Example arguments include the following:
 
-- “All great creations honor your god, Malus. If you teach me to forge the Hammer of Azdul, that will be a great honor to bestow upon your god.”
-- “You know what Jarith the Bold would do? He'd guide us through the vast wasteland of the desert to reach the tower. Will you be our Jarith?”
+- "All great creations honor your god, Malus. If you teach me to forge the Hammer of Azdul, that will be a great honor to bestow upon your god."
+- "You know what Jarith the Bold would do? He'd guide us through the vast wasteland of the desert to reach the tower. Will you be our Jarith?"

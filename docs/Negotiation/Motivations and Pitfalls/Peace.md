@@ -15,5 +15,5 @@ An NPC with the peace pitfall hates being bored. They want excitement, drama, an
 
 Arguments that appeal to a peace motivation contend that helping the heroes will earn the NPC some peace, at least for a little while. Example arguments include the following:
 
-- “You have a good thing going here. A little burgling of nobles, some alcohol smuggling, and some illegal gambling dens. No one's getting hurt, but Constable Cofax is closing in on you. We could redirect him toward some real danger to the community, if you can help us set a trap for the Watchmaker.”
-- “I know you don't sell to outsiders, but we need that helm. I'm going to use it to turn back a group of hobgoblins marching this way. They're not going to be as friendly as us.”
+- "You have a good thing going here. A little burgling of nobles, some alcohol smuggling, and some illegal gambling dens. No one's getting hurt, but Constable Cofax is closing in on you. We could redirect him toward some real danger to the community, if you can help us set a trap for the Watchmaker."
+- "I know you don't sell to outsiders, but we need that helm. I'm going to use it to turn back a group of hobgoblins marching this way. They're not going to be as friendly as us."

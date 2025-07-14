@@ -9,4 +9,4 @@ subtype: common maneuvers
 
 # Aid Attack
 
-Choose an enemy adjacent to you. The next attack an ally makes against that creature before the start of your next turn has an edge.
+Choose an enemy adjacent to you. The next ability power roll an ally who makes against that creature before the start of your next turn has an edge.

@@ -15,5 +15,5 @@ An NPC with the freedom pitfall believes that a world without authority is one i
 
 Arguments that appeal to a freedom motivation contend that helping the heroes will maintain or grant freedom to the NPC or other people. Example arguments include the following:
 
-- “I know you want to see the queen's authority revoked forever. She has no heirs. Give us the key to her study so that we can prove her corruption and give you a chance to topple the monarchy henceforth.”
-- “If you promise to give us ten vials of Assassin's Kiss, we'll see to it that the baron's prison is emptied.”
+- "I know you want to see the queen's authority revoked forever. She has no heirs. Give us the key to her study so that we can prove her corruption and give you a chance to topple the monarchy henceforth."
+- "If you promise to give us ten vials of Assassin's Kiss, we'll see to it that the baron's prison is emptied."
