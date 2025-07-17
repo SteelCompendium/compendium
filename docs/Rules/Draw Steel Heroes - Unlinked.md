@@ -26,7 +26,7 @@ But "heroic fantasy" is still a little too broad for our purposes, so we added t
 
 These terms are just guidelines. A vibe. But we find them useful when trying to choose between different features. "Both of these ideas are cool, but which is the most cinematic? The most heroic?"
 
-**Scalar Assault (11 Discipline)**
+**Scalar Assault bold** <a class="headerlink" href="scalar-assault-bold" title="Permanent link">&para;</a>
 
 So let's talk about what we mean when we use these terms.
 
