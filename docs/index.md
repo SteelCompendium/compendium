@@ -1,6 +1,6 @@
 # Xentis' Draw Steel Compendium
 
-_The Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not 
+_The Draw Steel Compendium is an independent product published under the [DRAW STEEL Creator License](https://www.mcdmproductions.com/draw-steel-creator-license) and is not 
 affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC._ 
 
 - This Compendium is unofficial
