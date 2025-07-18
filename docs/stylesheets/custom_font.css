@@ -79,7 +79,7 @@ body {
 /*    Horizontal Rule   */
 /* ==================== */
 
-hr.ds-hr {
+hr {
     /* reset */
     border: none;
     margin: 6px 0;
@@ -94,7 +94,7 @@ hr.ds-hr {
     background-size: calc(50% - 7px) 2px, calc(50% - 7px) 2px;
 }
 
-hr.ds-hr::after {
+hr::after {
     content: "";
     position: absolute;
     /* center the 14×14 diamond */
