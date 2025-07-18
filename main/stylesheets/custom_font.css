@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "BerlingskeSlab-DBd";
+    src: url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.eot");
+    src: url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.svg#BerlingskeSlab-DBd")format("svg");
+}
+
+body {
+    font-family: "BerlingskeSlab-DBd";
+}
