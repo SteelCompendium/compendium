@@ -1,22 +1,8 @@
 [
   {
-    "version": "patron4",
-    "title": "patron4",
-    "aliases": [
-      "latest"
-    ]
-  },
-  {
-    "version": "patron",
-    "title": "patron",
-    "aliases": [
-      "patreon"
-    ]
-  },
-  {
     "version": "main",
     "title": "main",
-    "aliases": []
+    "aliases": ["latest"]
   },
   {
     "version": "backer",
