@@ -1,3 +1,7 @@
+---
+title: Draw Steel Heroes
+---
+
 # Introduction
 
 ## What is this Game?
