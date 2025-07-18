@@ -50,6 +50,10 @@ body {
 
 .md-typeset h3 {
     border-bottom: 1px solid var(--md-default-fg-color--lightest);
+    font-size: 3em;
+}
+.md-typeset h4 {
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
     font-size: 2.5em;
 }
 .md-typeset h5 {
