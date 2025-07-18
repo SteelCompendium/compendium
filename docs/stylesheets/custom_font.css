@@ -35,6 +35,7 @@ body {
 h1 {
     font-family: "Beaufort W01 Heavy";
     font-size: 6em;
+    text-transform: uppercase;
 }
 
 h2, h3, h4, h5, h6 {
