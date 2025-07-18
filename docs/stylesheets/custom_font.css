@@ -53,14 +53,16 @@ body {
     font-size: 3em;
 }
 .md-typeset h4 {
-    border-bottom: 1px solid var(--md-default-fg-color--lightest);
     font-size: 2.5em;
+    font-weight: bold;
 }
 .md-typeset h5 {
     font-size: 1.5em;
     text-transform: none;
     color: inherit;
+    font-weight: normal;
 }
 .md-typeset h6 {
-    font-size: 1em;
+    font-size: 1.2em;
+    font-weight: bold;
 }
