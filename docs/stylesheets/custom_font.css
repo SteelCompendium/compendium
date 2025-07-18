@@ -69,6 +69,7 @@ body {
 /* Callouts */
 .md-typeset blockquote {
     border: 1px solid var(--md-default-fg-color--lighter);
+    border-left: 1px solid var(--md-default-fg-color--lighter);
     border-radius: 0.5em;
 }
 .md-typeset blockquote::first-line {
@@ -79,7 +80,7 @@ body {
 /*    Horizontal Rule   */
 /* ==================== */
 
-hr {
+.md-typeset hr {
     /* reset */
     border: none;
     margin: 6px 0;
@@ -94,7 +95,7 @@ hr {
     background-size: calc(50% - 7px) 2px, calc(50% - 7px) 2px;
 }
 
-hr::after {
+.md-typeset hr::after {
     content: "";
     position: absolute;
     /* center the 14×14 diamond */
