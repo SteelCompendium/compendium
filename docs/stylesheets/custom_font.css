@@ -67,10 +67,45 @@ body {
 }
 
 /* Callouts */
-blockquote {
+.md-typeset blockquote {
     border: 1px solid var(--md-default-fg-color--lighter);
-    border-radius: 0.5px;
+    border-radius: 0.5em;
 }
-blockquote::first-line {
+.md-typeset blockquote::first-line {
     font-weight: bold;
+}
+
+/* ==================== */
+/*    Horizontal Rule   */
+/* ==================== */
+
+hr.ds-hr {
+    /* reset */
+    border: none;
+    margin: 6px 0;
+    padding: 0;
+    height: 2px;
+    position: relative;
+
+    /* draw the two faded‐out lines */
+    background:
+        /* left half */  linear-gradient(to left,  var(--md-default-fg-color--lighter) 0%, transparent 100%) no-repeat left center,
+        /* right half */ linear-gradient(to right, var(--md-default-fg-color--lighter) 0%, transparent 100%) no-repeat right center;
+    background-size: calc(50% - 7px) 2px, calc(50% - 7px) 2px;
+}
+
+hr.ds-hr::after {
+    content: "";
+    position: absolute;
+    /* center the 14×14 diamond */
+    top: 50%; left: 50%;
+    width: 14px; height: 14px;
+    margin: -7px 0 0 -7px;
+
+    /* diamond shape */
+    background-color: var(--md-default-fg-color--lighter);
+    transform: rotate(45deg);
+    box-shadow: inset 0 0 0 3px white;
+    border-bottom: 2px solid var(--md-default-fg-color--lighter);
+    border-right: 2px solid var(--md-default-fg-color--lighter);
 }
