@@ -11,3 +11,31 @@
 body {
     font-family: "BerlingskeSlab-DBd";
 }
+
+@font-face {
+    font-family: "Test Newzald Black";
+    src: url("https://db.onlinewebfonts.com/t/3a6f63f49afd1d7fdc69bf6801ad8bed.eot");
+    src: url("https://db.onlinewebfonts.com/t/3a6f63f49afd1d7fdc69bf6801ad8bed.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/3a6f63f49afd1d7fdc69bf6801ad8bed.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/3a6f63f49afd1d7fdc69bf6801ad8bed.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/3a6f63f49afd1d7fdc69bf6801ad8bed.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/3a6f63f49afd1d7fdc69bf6801ad8bed.svg#Test Newzald Black")format("svg");
+}
+
+@font-face {
+    font-family: "Beaufort W01 Heavy";
+    src: url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.eot");
+    src: url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.svg#Beaufort W01 Heavy")format("svg");
+}
+
+h1 {
+    font-family: "Beaufort W01 Heavy";
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: "Test Newzald Black";
+}
