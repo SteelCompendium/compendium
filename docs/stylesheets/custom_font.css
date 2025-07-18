@@ -74,6 +74,7 @@ body {
 }
 .md-typeset blockquote::first-line {
     font-weight: bold;
+    text-align: center;
 }
 
 /* ==================== */
