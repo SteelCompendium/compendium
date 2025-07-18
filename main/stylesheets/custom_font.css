@@ -50,4 +50,13 @@ body {
 
 .md-typeset h3 {
     border-bottom: 1px solid var(--md-default-fg-color--lightest);
+    font-size: 2.5em;
+}
+.md-typeset h5 {
+    font-size: 1.5em;
+    text-transform: none;
+    color: inherit;
+}
+.md-typeset h6 {
+    font-size: 1em;
 }
