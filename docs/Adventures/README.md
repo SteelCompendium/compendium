@@ -1,0 +1,5 @@
+# Steel Compendium Adventures
+
+_The Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC._
+
+This repo contains markdown-formatted data from the Draw Steel adventures.
