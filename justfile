@@ -22,10 +22,10 @@ update push="true":
 
         sha="$(git rev-parse --short HEAD)"
         echo >&2 "[INFO] Committing and pushing updates..."
-        cd "$compendium_dir"
-        git add docs/*
-        git commit -am "Updates from compendium ($sha)"
         if [ "{{push}}" == "true" ]; then
+            cd "$compendium_dir"
+            git add docs/*
+            git commit -am "Updates from compendium ($sha)"
             git push
         fi
     )
