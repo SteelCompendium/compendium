@@ -1,8 +1,8 @@
 # Rules Index
 
-_The Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC._
+> The Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC.
 
-> This is still a work in progress.  Sorry for the inconvenience.
+_This is still a work in progress.  Sorry for the inconvenience._
 
 Steel Compendium Rules is a structured collection of data from the Draw Steel Heroes book.
 
