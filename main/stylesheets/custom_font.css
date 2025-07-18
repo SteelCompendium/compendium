@@ -69,7 +69,7 @@ body {
 /* Callouts */
 .md-typeset blockquote {
     border: 1px solid var(--md-default-fg-color--lighter);
-    border-left: 1px solid var(--md-default-fg-color--lighter);
+    border-left: 1px solid var(--md-default-fg-color--lighter) !important;
     border-radius: 0.5em;
 }
 .md-typeset blockquote::first-line {
@@ -90,8 +90,8 @@ body {
 
     /* draw the two faded‐out lines */
     background:
-        /* left half */  linear-gradient(to left,  var(--md-default-fg-color--lighter) 0%, transparent 100%) no-repeat left center,
-        /* right half */ linear-gradient(to right, var(--md-default-fg-color--lighter) 0%, transparent 100%) no-repeat right center;
+        /* left half */  linear-gradient(to left,  var(--md-default-fg-color--lighter) 50%, transparent 100%) no-repeat left center,
+        /* right half */ linear-gradient(to right, var(--md-default-fg-color--lighter) 50%, transparent 100%) no-repeat right center;
     background-size: calc(50% - 7px) 2px, calc(50% - 7px) 2px;
 }
 
@@ -106,7 +106,7 @@ body {
     /* diamond shape */
     background-color: var(--md-default-fg-color--lighter);
     transform: rotate(45deg);
-    box-shadow: inset 0 0 0 3px white;
+    box-shadow: inset 0 0 0 3px var(--md-default-bg-color);
     border-bottom: 2px solid var(--md-default-fg-color--lighter);
     border-right: 2px solid var(--md-default-fg-color--lighter);
 }
