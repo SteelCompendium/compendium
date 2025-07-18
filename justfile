@@ -20,6 +20,9 @@ update push="true":
         rm -rf "${compendium_dir}/docs/LICENSE" || true
         rm -rf "${compendium_dir}/docs/README.md" || true
 
+        # Move static content overrides over
+        cp -R "${compendium_dir}/static_content/docs" "${compendium_dir}"
+
         sha="$(git rev-parse --short HEAD)"
         echo >&2 "[INFO] Committing and pushing updates..."
         if [ "{{push}}" == "true" ]; then
