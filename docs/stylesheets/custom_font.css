@@ -37,6 +37,7 @@ body {
     font-family: "Beaufort W01 Heavy";
     font-size: 5em;
     text-transform: uppercase;
+    margin: 0 0 .25em;
 }
 .md-typeset h2 {
     font-family: "Beaufort W01 Heavy";
