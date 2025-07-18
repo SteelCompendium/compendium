@@ -3,8 +3,6 @@ name: ci
 on:
   push:
     branches:
-      - backer
-      - patron
       - main
 
 permissions:
