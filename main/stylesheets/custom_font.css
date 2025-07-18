@@ -38,6 +38,16 @@ h1 {
     text-transform: uppercase;
 }
 
-h2, h3, h4, h5, h6 {
+h2 {
+    font-family: "Beaufort W01 Heavy";
+    font-size: 3em;
+    text-transform: uppercase;
+}
+
+h3, h4, h5, h6 {
     font-family: "Test Newzald";
+}
+
+h3 {
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
 }
