@@ -73,7 +73,7 @@ body {
     border-left: 1px solid var(--md-default-fg-color--lighter) !important;
     border-radius: 0.5em;
 }
-.md-typeset blockquote::first-line {
+.md-typeset blockquote:first-of-type {
     font-weight: bold;
     text-align: center;
 }
