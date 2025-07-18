@@ -32,7 +32,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "scottTomaszewski@gmail.com"
-          if [ "$VERSION_NAME" = "patron" ]; then
+          if [ "$VERSION_NAME" = "main" ]; then
             mike deploy --push --update-aliases $VERSION_NAME latest
           else
             mike deploy --push $VERSION_NAME
