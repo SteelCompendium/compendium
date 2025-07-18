@@ -32,22 +32,22 @@ body {
         url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.svg#Beaufort W01 Heavy")format("svg");
 }
 
-h1 {
+.md-typeset h1 {
     font-family: "Beaufort W01 Heavy";
     font-size: 5em;
     text-transform: uppercase;
 }
 
-h2 {
+.md-typeset h2 {
     font-family: "Beaufort W01 Heavy";
     font-size: 3em;
     text-transform: uppercase;
 }
 
-h3, h4, h5, h6 {
+.md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6 {
     font-family: "Test Newzald";
 }
 
-h3 {
+.md-typeset h3 {
     border-bottom: 1px solid var(--md-default-fg-color--lightest);
 }
