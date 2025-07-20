@@ -6,7 +6,7 @@ name: This Is An H8 Header
 type: ability
 ---
 
-This is an H8 Header (8 Energy)
+###### This is an H8 Header (8 Energy)
 
 *You warp reality to grow a header for just a moment and make a single devastating attack.*
 
