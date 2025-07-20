@@ -2,7 +2,7 @@
 type: index
 ---
 
-# Introduction: 1st-Level Features
+# Introduction: 1st-Level Features Index
 
 | file_name            | cost     | level | type    |
 | -------------------- | -------- | ----- | ------- |

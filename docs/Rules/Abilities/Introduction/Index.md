@@ -2,7 +2,7 @@
 type: index
 ---
 
-# Introduction
+# Introduction Index
 
 | file_name            | cost     | level | type    |
 | -------------------- | -------- | ----- | ------- |
