@@ -24,8 +24,8 @@ update push="true":
         cp -R "${compendium_dir}/static_content/docs" "${compendium_dir}"
 
         sha="$(git rev-parse --short HEAD)"
-        echo >&2 "[INFO] Committing and pushing updates..."
         if [ "{{push}}" == "true" ]; then
+            echo >&2 "[INFO] Committing and pushing updates..."
             cd "$compendium_dir"
             git add docs/*
             git commit -am "Updates from compendium ($sha)"
