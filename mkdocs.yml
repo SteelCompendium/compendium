@@ -11,6 +11,7 @@ theme:
       accent: blue
    logo: Media/favicon.ico
    favicon: Media/favicon.ico
+   custom_dir: overrides
 
 # Extensions
 markdown_extensions:
