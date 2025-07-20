@@ -3,7 +3,7 @@ class: introduction
 cost: 8 Energy
 level: 1
 name: This Is An H8 Header
-type: feature
+type: ability
 ---
 
 This is an H8 Header (8 Energy)
