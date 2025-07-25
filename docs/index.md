@@ -7,6 +7,8 @@ affiliated with MCDM Productions, LLC. DRAW STEEL © 2025 MCDM Productions, LLC.
 - There are mistakes and errors
 - There is no warranty written or implied
 
+Please use this [form to report bugs](https://docs.google.com/forms/d/e/1FAIpQLSc6m-pZ0NLt2EArE-Tcxr-XbAPMyhu40ANHJKtyRvvwBd2LSw/viewform?usp=sharing&ouid=105036387964900154878) if you find them!
+
 ---
 
 This site includes Draw Steel rules and documents currently sourced from the PDF releases.
