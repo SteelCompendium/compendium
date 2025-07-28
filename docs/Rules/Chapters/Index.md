@@ -5,7 +5,7 @@ type: index
 
 # Chapters Index
 
-| file_name                          |
-| ---------------------------------- |
-| [Combat](../Combat.md)             |
-| [Introduction](../Introduction.md) |
+| file_name                       |
+| ------------------------------- |
+| [Combat](../Combat)             |
+| [Introduction](../Introduction) |
