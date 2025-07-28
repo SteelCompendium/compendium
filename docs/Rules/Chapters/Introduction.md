@@ -1,3 +1,17 @@
+---
+chapter_num: 1
+file_dpath: Chapters
+item_id: introduction
+item_index: '01'
+item_name: Introduction
+scc:
+  - mcdm.heroes.v1:chapter:introduction
+scdc:
+  - 1.1.1:1:01
+source: mcdm.heroes.v1
+type: chapter
+---
+
 # Introduction
 
 ## What is this Game?
@@ -33,7 +47,7 @@ content
 >
 > This is some important thing to note to the reader.
 
-This is an H7 Header
+###### This is an H7 Header
 
 content
 
@@ -47,13 +61,13 @@ You have a bonus to speed equal to your Agility score, and you ignore difficult 
 
 You gain the following ability:
 
-This is an H8 Header (8 Energy)
+###### This is an H8 Header (8 Energy)
 
 *You warp reality to grow a header for just a moment and make a single devastating attack.*
 
-| Area, Psionic    |                   Main action |
-| :--------------- | ----------------------------: |
-| **📏 Ranged 10** | **🎯 One creature or object** |
+| **Area, Psionic** |               **Main action** |
+| :---------------- | ----------------------------: |
+| **📏 Ranged 10**  | **🎯 One creature or object** |
 
 **Power Roll + Agility:**
 
