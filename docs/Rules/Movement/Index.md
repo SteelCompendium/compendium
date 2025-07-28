@@ -1,5 +1,5 @@
 ---
-title: _Index
+title: 📑 Index
 type: index
 ---
 
