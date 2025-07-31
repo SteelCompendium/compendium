@@ -1,12 +1,12 @@
 ---
 file_dpath: Classes
 item_id: conduit
-item_index: '02'
+item_index: '03'
 item_name: Conduit
 scc:
   - mcdm.heroes.v1:class:conduit
 scdc:
-  - 1.1.1:2:02
+  - 1.1.1:2:03
 source: mcdm.heroes.v1
 type: class
 ---
