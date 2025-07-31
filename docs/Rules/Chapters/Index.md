@@ -7,5 +7,4 @@ type: index
 
 | file_name                       |
 | ------------------------------- |
-| [Combat](../Combat)             |
 | [Introduction](../Introduction) |
