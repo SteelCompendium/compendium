@@ -5,7 +5,8 @@ type: index
 
 # Chapters Index
 
-| file_name                       |
-| ------------------------------- |
-| [Introduction](../Introduction) |
-| [The Basics](../The%20Basics)   |
+| file_name                             |
+| ------------------------------------- |
+| [Introduction](../Introduction)       |
+| [Making A Hero](../Making%20A%20Hero) |
+| [The Basics](../The%20Basics)         |

@@ -478,23 +478,3 @@ If you're a player, ask your Director about the setting where the game takes pla
 > **What's Next? Find Out on Patreon**
 >
 > While this book and *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)* are both chock-full of character options and adventure ideas that could keep you playing *Draw Steel* for years, some folks want even more classes, ancestries, monsters, treasures, and encounters. You can find out what we're developing next, get a preview of that content, and read blog posts about the development of the game by joining the MCDM Patreon at *[mcdm.gg/Patreon](https://mcdm.gg/Patreon)*.
-
-______________________________________________________________________
-
-###### This is an H8 Header
-
-You gain the following ability:
-
-###### This is an H8 Header (8 Energy)
-
-*You warp reality to grow a header for just a moment and make a single devastating attack.*
-
-| **Area, Psionic** |               **Main action** |
-| :---------------- | ----------------------------: |
-| **📏 Ranged 10**  | **🎯 One creature or object** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 12 psychic damage; push 3
-- **12-16:** 17 psychic damage; push 5
-- **17+:** 23 psychic damage; push 7
