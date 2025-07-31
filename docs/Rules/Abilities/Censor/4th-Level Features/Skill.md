@@ -3,17 +3,17 @@ class: censor
 feature_type: trait
 file_dpath: Censor/4th-Level Features
 item_id: skill
-item_index: '07'
+item_index: 08
 item_name: Skill
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.censor.4th-level-feature:skill
 scdc:
-  - 1.1.1:5.2.1.6:07
+  - 1.1.1:5.2.1.10:08
 source: mcdm.heroes.v1
 type: feature/trait/censor/4th-level-feature
 ---
 
 #### Skill
 
-You gain one skill of your choice. See [Skills](#page-268-0) in Chapter 9: Tests.
+You gain one skill of your choice.

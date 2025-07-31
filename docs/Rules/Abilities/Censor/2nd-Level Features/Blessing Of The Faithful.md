@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:blessing-of-the-faithful-5-wrath
 scdc:
-  - 1.1.1:5.1.1.2:04
+  - 1.1.1:5.1.1.5:04
 source: mcdm.heroes.v1
 type: feature/ability/censor/2nd-level-feature
 ---

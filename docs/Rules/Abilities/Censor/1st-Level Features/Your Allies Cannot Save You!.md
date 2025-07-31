@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/1st-Level Features
 item_id: your-allies-cannot-save-you
-item_index: '15'
+item_index: '16'
 item_name: Your Allies Cannot Save You!
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:your-allies-cannot-save-you
 scdc:
-  - 1.1.1:5.2.1.1:15
+  - 1.1.1:5.2.1.1:16
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

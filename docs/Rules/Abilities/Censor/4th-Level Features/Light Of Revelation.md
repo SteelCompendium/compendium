@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/4th-Level Features
 item_id: light-of-revelation
-item_index: '14'
+item_index: '16'
 item_name: Light of Revelation
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.censor.4th-level-feature:light-of-revelation
 scdc:
-  - 1.1.1:5.2.1.6:14
+  - 1.1.1:5.2.1.10:16
 source: mcdm.heroes.v1
 type: feature/trait/censor/4th-level-feature
 ---

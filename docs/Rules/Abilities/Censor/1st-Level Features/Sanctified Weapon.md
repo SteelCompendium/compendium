@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/1st-Level Features
 item_id: sanctified-weapon
-item_index: '20'
+item_index: '21'
 item_name: Sanctified Weapon
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:sanctified-weapon
 scdc:
-  - 1.1.1:5.2.1.1:20
+  - 1.1.1:5.2.1.1:21
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

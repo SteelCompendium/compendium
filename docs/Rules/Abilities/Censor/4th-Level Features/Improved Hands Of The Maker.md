@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/4th-Level Features
 item_id: improved-hands-of-the-maker
-item_index: '15'
+item_index: '17'
 item_name: Improved Hands of the Maker
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.censor.4th-level-feature:improved-hands-of-the-maker
 scdc:
-  - 1.1.1:5.2.1.6:15
+  - 1.1.1:5.2.1.10:17
 source: mcdm.heroes.v1
 type: feature/trait/censor/4th-level-feature
 ---

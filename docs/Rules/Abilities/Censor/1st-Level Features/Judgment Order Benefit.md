@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/1st-Level Features
 item_id: judgment-order-benefit
-item_index: '18'
+item_index: '19'
 item_name: Judgment Order Benefit
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:judgment-order-benefit
 scdc:
-  - 1.1.1:5.2.1.1:18
+  - 1.1.1:5.2.1.1:19
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/2nd-Level Features
 item_id: a-sense-for-truth
-item_index: '03'
+item_index: '04'
 item_name: A Sense for Truth
 level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:a-sense-for-truth
 scdc:
-  - 1.1.1:5.2.1.3:03
+  - 1.1.1:5.2.1.6:04
 source: mcdm.heroes.v1
 type: feature/trait/censor/2nd-level-feature
 ---

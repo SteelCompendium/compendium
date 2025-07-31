@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/4th-Level Features
 item_id: impervious-touch
-item_index: '10'
+item_index: '11'
 item_name: Impervious Touch
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.censor.4th-level-feature:impervious-touch
 scdc:
-  - 1.1.1:5.2.1.6:10
+  - 1.1.1:5.2.1.10:11
 source: mcdm.heroes.v1
 type: feature/trait/censor/4th-level-feature
 ---

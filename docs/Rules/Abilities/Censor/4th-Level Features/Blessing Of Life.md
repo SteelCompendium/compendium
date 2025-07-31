@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/4th-Level Features
 item_id: blessing-of-life
-item_index: '13'
+item_index: '15'
 item_name: Blessing of Life
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.censor.4th-level-feature:blessing-of-life
 scdc:
-  - 1.1.1:5.2.1.6:13
+  - 1.1.1:5.2.1.10:15
 source: mcdm.heroes.v1
 type: feature/trait/censor/4th-level-feature
 ---

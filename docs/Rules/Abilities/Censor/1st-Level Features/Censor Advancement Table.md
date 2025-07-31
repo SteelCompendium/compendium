@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/1st-Level Features
 item_id: censor-advancement-table
-item_index: '14'
+item_index: '15'
 item_name: Censor Advancement Table
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:censor-advancement-table
 scdc:
-  - 1.1.1:5.2.1.1:14
+  - 1.1.1:5.2.1.1:15
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

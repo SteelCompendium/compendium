@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/1st-Level Features
 item_id: every-step-death
-item_index: 08
+item_index: 09
 item_name: Every Step … Death!
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:every-step-death
 scdc:
-  - 1.1.1:5.2.1.1:08
+  - 1.1.1:5.2.1.1:09
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

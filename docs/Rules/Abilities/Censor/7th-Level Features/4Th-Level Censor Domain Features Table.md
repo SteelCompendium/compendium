@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/7th-Level Features
 item_id: 7th-level-censor-domain-features-table
-item_index: '03'
+item_index: '13'
 item_name: 7th-Level Censor Domain Features Table
 level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.censor.7th-level-feature:7th-level-censor-domain-features-table
 scdc:
-  - 1.1.1:5.2.1.5:03
+  - 1.1.1:5.2.1.9:13
 source: mcdm.heroes.v1
 type: feature/trait/censor/7th-level-feature
 ---

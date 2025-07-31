@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:it-was-foretold
 scdc:
-  - 1.1.1:5.2.1.3:02
+  - 1.1.1:5.2.1.6:02
 source: mcdm.heroes.v1
 type: feature/trait/censor/2nd-level-feature
 ---
