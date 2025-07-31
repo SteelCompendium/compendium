@@ -10,3 +10,4 @@ type: index
 | [Censor](../Censor)             |
 | [Conduit](../Conduit)           |
 | [Elementalist](../Elementalist) |
+| [Fury](../Fury)                 |
