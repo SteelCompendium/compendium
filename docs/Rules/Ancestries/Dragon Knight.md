@@ -6,7 +6,7 @@ item_name: Dragon Knight
 scc:
   - mcdm.heroes.v1:ancestry:dragon-knight
 scdc:
-  - 1.1.1:3:02
+  - 1.1.1:4:02
 source: mcdm.heroes.v1
 type: ancestry
 ---

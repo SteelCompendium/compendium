@@ -7,7 +7,7 @@ item_name: Ancestries
 scc:
   - mcdm.heroes.v1:chapter:ancestries
 scdc:
-  - 1.1.1:2:06
+  - 1.1.1:3:06
 source: mcdm.heroes.v1
 type: chapter
 ---

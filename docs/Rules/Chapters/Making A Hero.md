@@ -7,7 +7,7 @@ item_name: Making A Hero
 scc:
   - mcdm.heroes.v1:chapter:making-a-hero
 scdc:
-  - 1.1.1:2:05
+  - 1.1.1:3:05
 source: mcdm.heroes.v1
 type: chapter
 ---
@@ -105,9 +105,9 @@ See Free Strikes in Chapter 10: Combat for more information on using free strike
 
 ###### Melee Weapon Free Strike
 
-| **Charge, Melee, Stike, Weapon** |               **Main Action** |
-| -------------------------------- | ----------------------------: |
-| **📏 Melee 1**                   | **🎯 One creature or object** |
+| **Charge, Melee, Strike, Weapon** |               **Main Action** |
+| --------------------------------- | ----------------------------: |
+| **📏 Melee 1**                    | **🎯 One creature or object** |
 
 **Power Roll + Might or Agility:**
 
@@ -117,9 +117,9 @@ See Free Strikes in Chapter 10: Combat for more information on using free strike
 
 ###### Ranged Weapon Free Strike
 
-| **Ranged, Stike, Weapon** |               **Main Action** |
-| ------------------------- | ----------------------------: |
-| **📏 Ranged 5**           | **🎯 One creature or object** |
+| **Ranged, Strike, Weapon** |               **Main Action** |
+| -------------------------- | ----------------------------: |
+| **📏 Ranged 5**            | **🎯 One creature or object** |
 
 **Power Roll + Might or Agility:**
 

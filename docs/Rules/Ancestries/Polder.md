@@ -6,7 +6,7 @@ item_name: Polder
 scc:
   - mcdm.heroes.v1:ancestry:polder
 scdc:
-  - 1.1.1:3:03
+  - 1.1.1:4:03
 source: mcdm.heroes.v1
 type: ancestry
 ---

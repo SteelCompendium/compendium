@@ -7,7 +7,7 @@ item_name: Background
 scc:
   - mcdm.heroes.v1:chapter:background
 scdc:
-  - 1.1.1:2:01
+  - 1.1.1:3:01
 source: mcdm.heroes.v1
 type: chapter
 ---

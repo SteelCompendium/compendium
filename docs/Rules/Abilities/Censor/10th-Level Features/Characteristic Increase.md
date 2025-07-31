@@ -1,0 +1,19 @@
+---
+class: censor
+feature_type: trait
+file_dpath: Censor/10th-Level Features
+item_id: characteristic-increase
+item_index: '02'
+item_name: Characteristic Increase
+level: 10
+scc:
+  - mcdm.heroes.v1:feature.trait.censor.10th-level-feature:characteristic-increase
+scdc:
+  - 1.1.1:5.2.1.2:02
+source: mcdm.heroes.v1
+type: feature/trait/censor/10th-level-feature
+---
+
+#### Characteristic Increase
+
+Your Might and Presence scores each increase to 3.

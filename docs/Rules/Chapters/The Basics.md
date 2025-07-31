@@ -7,7 +7,7 @@ item_name: The Basics
 scc:
   - mcdm.heroes.v1:chapter:the-basics
 scdc:
-  - 1.1.1:2:02
+  - 1.1.1:3:02
 source: mcdm.heroes.v1
 type: chapter
 ---
