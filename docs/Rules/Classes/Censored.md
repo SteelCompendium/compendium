@@ -1,12 +1,12 @@
 ---
 file_dpath: Classes
 item_id: censored-5-wrath
-item_index: '04'
+item_index: '06'
 item_name: Censored (5 Wrath)
 scc:
   - mcdm.heroes.v1:class:censored-5-wrath
 scdc:
-  - 1.1.1:2:04
+  - 1.1.1:2:06
 source: mcdm.heroes.v1
 type: class
 ---

@@ -1,12 +1,12 @@
 ---
 file_dpath: Classes
 item_id: censor-abilities
-item_index: '05'
+item_index: '07'
 item_name: Censor Abilities
 scc:
   - mcdm.heroes.v1:class:censor-abilities
 scdc:
-  - 1.1.1:2:05
+  - 1.1.1:2:07
 source: mcdm.heroes.v1
 type: class
 ---

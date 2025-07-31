@@ -1,12 +1,12 @@
 ---
 file_dpath: Classes
 item_id: shadowmeld
-item_index: '03'
+item_index: '05'
 item_name: Shadowmeld
 scc:
   - mcdm.heroes.v1:class:shadowmeld
 scdc:
-  - 1.1.1:2:03
+  - 1.1.1:2:05
 source: mcdm.heroes.v1
 type: class
 ---
