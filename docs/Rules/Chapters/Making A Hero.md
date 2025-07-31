@@ -216,23 +216,3 @@ Some games don't track XP or goals at all. The heroes simply gain a level whenev
 | 8th   | 56–63               | 224–255           |
 | 9th   | 64–71               | 256–287           |
 | 10th  | 72+                 | 288+              |
-
-______________________________________________________________________
-
-###### This is an H8 Header
-
-You gain the following ability:
-
-###### This is an H8 Header (8 Energy)
-
-*You warp reality to grow a header for just a moment and make a single devastating attack.*
-
-| **Area, Psionic** |               **Main action** |
-| :---------------- | ----------------------------: |
-| **📏 Ranged 10**  | **🎯 One creature or object** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 12 psychic damage; push 3
-- **12-16:** 17 psychic damage; push 5
-- **17+:** 23 psychic damage; push 7
