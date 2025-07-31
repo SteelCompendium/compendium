@@ -8,6 +8,7 @@ type: index
 | file_name                             |
 | ------------------------------------- |
 | [Ancestries](../Ancestries)           |
+| [Background](../Background)           |
 | [Introduction](../Introduction)       |
 | [Making A Hero](../Making%20A%20Hero) |
 | [The Basics](../The%20Basics)         |

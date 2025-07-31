@@ -6,7 +6,7 @@ item_name: High Elf
 scc:
   - mcdm.heroes.v1:ancestry:high-elf
 scdc:
-  - 1.1.1:2:10
+  - 1.1.1:3:10
 source: mcdm.heroes.v1
 type: ancestry
 ---
