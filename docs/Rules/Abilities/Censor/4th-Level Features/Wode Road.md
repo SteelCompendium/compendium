@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.censor.4th-level-feature:wode-road
 scdc:
-  - 1.1.1:5.1.2.10:03
+  - 1.1.1:5.1.3.10:03
 source: mcdm.heroes.v1
 type: feature/trait/censor/4th-level-feature
 ---

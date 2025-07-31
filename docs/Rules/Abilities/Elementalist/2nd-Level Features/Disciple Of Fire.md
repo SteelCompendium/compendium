@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:disciple-of-fire
 scdc:
-  - 1.1.1:5.1.4.6:03
+  - 1.1.1:5.1.5.6:03
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/2nd-level-feature
 ---

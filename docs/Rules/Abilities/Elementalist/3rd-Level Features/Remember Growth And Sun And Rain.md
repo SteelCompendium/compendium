@@ -9,7 +9,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.3rd-level-feature:remember-growth-and-sun-and-rain
 scdc:
-  - 1.1.1:5.1.4.7:03
+  - 1.1.1:5.1.5.7:03
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/3rd-level-feature
 ---

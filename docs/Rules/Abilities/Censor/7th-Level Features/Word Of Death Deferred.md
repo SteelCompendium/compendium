@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.censor.7th-level-feature:word-of-death-deferred
 scdc:
-  - 1.1.1:5.1.2.9:07
+  - 1.1.1:5.1.3.9:07
 source: mcdm.heroes.v1
 type: feature/trait/censor/7th-level-feature
 ---

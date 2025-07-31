@@ -9,7 +9,7 @@ level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:characteristic-increase
 scdc:
-  - 1.1.1:5.1.4.4:07
+  - 1.1.1:5.1.5.4:07
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/10th-level-feature
 ---

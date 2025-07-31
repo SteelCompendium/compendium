@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:faithful-friend
 scdc:
-  - 1.1.1:5.1.2.1:01
+  - 1.1.1:5.1.3.1:01
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

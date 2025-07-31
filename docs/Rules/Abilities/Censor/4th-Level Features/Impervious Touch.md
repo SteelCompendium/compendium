@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.censor.4th-level-feature:impervious-touch
 scdc:
-  - 1.1.1:5.1.2.10:11
+  - 1.1.1:5.1.3.10:11
 source: mcdm.heroes.v1
 type: feature/trait/censor/4th-level-feature
 ---

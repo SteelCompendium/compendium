@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:4th-level-conduit-domain-features-table
 scdc:
-  - 1.1.1:5.1.3.10:12
+  - 1.1.1:5.1.4.10:12
 source: mcdm.heroes.v1
 type: feature/trait/conduit/4th-level-feature
 ---

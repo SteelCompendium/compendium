@@ -11,3 +11,4 @@ type: index
 | [Conduit](../Conduit)           |
 | [Elementalist](../Elementalist) |
 | [Fury](../Fury)                 |
+| [Null](../Null)                 |

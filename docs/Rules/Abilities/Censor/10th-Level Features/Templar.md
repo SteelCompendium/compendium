@@ -9,7 +9,7 @@ level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.censor.10th-level-feature:templar
 scdc:
-  - 1.1.1:5.1.2.4:06
+  - 1.1.1:5.1.3.4:06
 source: mcdm.heroes.v1
 type: feature/trait/censor/10th-level-feature
 ---

@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:wrath-outside-of-combat
 scdc:
-  - 1.1.1:5.1.2.1:12
+  - 1.1.1:5.1.3.1:12
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

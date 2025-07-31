@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:sanctified-weapon
 scdc:
-  - 1.1.1:5.1.2.1:21
+  - 1.1.1:5.1.3.1:21
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

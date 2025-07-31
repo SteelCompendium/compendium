@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:perk
 scdc:
-  - 1.1.1:5.1.4.2:01
+  - 1.1.1:5.1.5.2:01
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/8th-level-feature
 ---

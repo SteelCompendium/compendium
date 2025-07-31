@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.censor.7th-level-feature:skill
 scdc:
-  - 1.1.1:5.1.2.9:08
+  - 1.1.1:5.1.3.9:08
 source: mcdm.heroes.v1
 type: feature/trait/censor/7th-level-feature
 ---

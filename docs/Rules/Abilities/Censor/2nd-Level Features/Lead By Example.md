@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:lead-by-example
 scdc:
-  - 1.1.1:5.1.2.6:08
+  - 1.1.1:5.1.3.6:08
 source: mcdm.heroes.v1
 type: feature/trait/censor/2nd-level-feature
 ---

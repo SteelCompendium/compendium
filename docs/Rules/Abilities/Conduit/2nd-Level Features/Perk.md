@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.2nd-level-feature:perk
 scdc:
-  - 1.1.1:5.1.3.6:02
+  - 1.1.1:5.1.4.6:02
 source: mcdm.heroes.v1
 type: feature/trait/conduit/2nd-level-feature
 ---
