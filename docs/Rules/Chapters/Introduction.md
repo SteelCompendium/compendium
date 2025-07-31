@@ -1,13 +1,13 @@
 ---
-chapter_num: 1
+chapter_num: 2
 file_dpath: Chapters
 item_id: introduction
-item_index: '01'
+item_index: '02'
 item_name: Introduction
 scc:
   - mcdm.heroes.v1:chapter:introduction
 scdc:
-  - 1.1.1:1:01
+  - 1.1.1:1:02
 source: mcdm.heroes.v1
 type: chapter
 ---
@@ -595,23 +595,3 @@ x
 **Wode Elf:** A fey ancestry in tune with magical forests.
 
 **Wrath:** The censor's Heroic Resource.
-
-______________________________________________________________________
-
-###### This is an H8 Header
-
-You gain the following ability:
-
-###### This is an H8 Header (8 Energy)
-
-*You warp reality to grow a header for just a moment and make a single devastating attack.*
-
-| **Area, Psionic** |               **Main action** |
-| :---------------- | ----------------------------: |
-| **📏 Ranged 10**  | **🎯 One creature or object** |
-
-**Power Roll + Agility:**
-
-- **≤11:** 12 psychic damage; push 3
-- **12-16:** 17 psychic damage; push 5
-- **17+:** 23 psychic damage; push 7

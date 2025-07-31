@@ -8,3 +8,4 @@ type: index
 | file_name                       |
 | ------------------------------- |
 | [Introduction](../Introduction) |
+| [The Basics](../The%20Basics)   |
