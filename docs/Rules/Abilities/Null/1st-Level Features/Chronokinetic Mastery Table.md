@@ -3,13 +3,13 @@ class: 'null'
 feature_type: trait
 file_dpath: Null/1st-Level Features
 item_id: chronokinetic-mastery-table
-item_index: '15'
+item_index: '20'
 item_name: Chronokinetic Mastery Table
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:chronokinetic-mastery-table
 scdc:
-  - 1.1.1:5.1.2.1:15
+  - 1.1.1:5.1.2.1:20
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

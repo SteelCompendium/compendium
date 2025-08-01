@@ -12,7 +12,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.ability.censor.7th-level-feature:trinity-of-trickery-9-wrath
 scdc:
-  - 1.1.1:5.2.2.8:01
+  - 1.1.1:5.2.3.8:01
 source: mcdm.heroes.v1
 type: feature/ability/censor/7th-level-feature
 ---

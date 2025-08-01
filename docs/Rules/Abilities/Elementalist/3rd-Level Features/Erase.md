@@ -12,7 +12,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:erase-7-essence
 scdc:
-  - 1.1.1:5.2.4.6:01
+  - 1.1.1:5.2.5.6:01
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/3rd-level-feature
 ---

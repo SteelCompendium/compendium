@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.9th-level-feature:unquenchable-fire-11-essence
 scdc:
-  - 1.1.1:5.2.4.7:04
+  - 1.1.1:5.2.5.7:04
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/9th-level-feature
 ---

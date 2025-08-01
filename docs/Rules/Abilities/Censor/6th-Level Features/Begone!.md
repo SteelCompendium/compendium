@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.censor.6th-level-feature:begone-9-wrath
 scdc:
-  - 1.1.1:5.2.2.3:06
+  - 1.1.1:5.2.3.3:06
 source: mcdm.heroes.v1
 type: feature/ability/censor/6th-level-feature
 ---

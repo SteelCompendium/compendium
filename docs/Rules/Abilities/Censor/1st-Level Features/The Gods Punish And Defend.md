@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:the-gods-punish-and-defend-3-wrath
 scdc:
-  - 1.1.1:5.2.2.1:08
+  - 1.1.1:5.2.3.1:08
 source: mcdm.heroes.v1
 type: feature/ability/censor/1st-level-feature
 ---

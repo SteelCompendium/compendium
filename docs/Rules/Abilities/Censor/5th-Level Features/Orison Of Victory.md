@@ -12,7 +12,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.censor.5th-level-feature:orison-of-victory-9-wrath
 scdc:
-  - 1.1.1:5.2.2.4:01
+  - 1.1.1:5.2.3.4:01
 source: mcdm.heroes.v1
 type: feature/ability/censor/5th-level-feature
 ---

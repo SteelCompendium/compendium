@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:gods-machine-9-piety
 scdc:
-  - 1.1.1:5.2.3.3:12
+  - 1.1.1:5.2.4.3:12
 source: mcdm.heroes.v1
 type: feature/ability/conduit/6th-level-feature
 ---

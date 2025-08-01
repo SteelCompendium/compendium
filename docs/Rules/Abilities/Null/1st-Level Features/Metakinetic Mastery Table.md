@@ -3,13 +3,13 @@ class: 'null'
 feature_type: trait
 file_dpath: Null/1st-Level Features
 item_id: metakinetic-mastery-table
-item_index: '06'
+item_index: '10'
 item_name: Metakinetic Mastery Table
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:metakinetic-mastery-table
 scdc:
-  - 1.1.1:5.1.2.1:06
+  - 1.1.1:5.1.2.1:10
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

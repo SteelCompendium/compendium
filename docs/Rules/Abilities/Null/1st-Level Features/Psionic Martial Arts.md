@@ -3,13 +3,13 @@ class: 'null'
 feature_type: trait
 file_dpath: Null/1st-Level Features
 item_id: psionic-martial-arts
-item_index: 08
+item_index: '12'
 item_name: Psionic Martial Arts
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:psionic-martial-arts
 scdc:
-  - 1.1.1:5.1.2.1:08
+  - 1.1.1:5.1.2.1:12
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

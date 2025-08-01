@@ -3,13 +3,13 @@ class: 'null'
 feature_type: trait
 file_dpath: Null/1st-Level Features
 item_id: null-advancement-table
-item_index: '16'
+item_index: '21'
 item_name: Null Advancement Table
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:null-advancement-table
 scdc:
-  - 1.1.1:5.1.2.1:16
+  - 1.1.1:5.1.2.1:21
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

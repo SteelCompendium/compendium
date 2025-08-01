@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:word-of-weakening-11-piety
 scdc:
-  - 1.1.1:5.2.3.7:05
+  - 1.1.1:5.2.4.7:05
 source: mcdm.heroes.v1
 type: feature/ability/conduit/9th-level-feature
 ---

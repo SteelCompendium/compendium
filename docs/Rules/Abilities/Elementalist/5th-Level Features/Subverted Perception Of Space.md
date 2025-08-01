@@ -12,7 +12,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:subverted-perception-of-space-9-essence
 scdc:
-  - 1.1.1:5.2.4.4:04
+  - 1.1.1:5.2.5.4:04
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/5th-level-feature
 ---

@@ -3,13 +3,13 @@ class: 'null'
 feature_type: trait
 file_dpath: Null/1st-Level Features
 item_id: discipline-outside-of-combat
-item_index: '04'
+item_index: '06'
 item_name: Discipline Outside of Combat
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:discipline-outside-of-combat
 scdc:
-  - 1.1.1:5.1.2.1:04
+  - 1.1.1:5.1.2.1:06
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

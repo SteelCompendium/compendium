@@ -3,13 +3,13 @@ class: 'null'
 feature_type: trait
 file_dpath: Null/1st-Level Features
 item_id: cryokinetic-mastery-table
-item_index: '05'
+item_index: '07'
 item_name: Cryokinetic Mastery Table
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:cryokinetic-mastery-table
 scdc:
-  - 1.1.1:5.1.2.1:05
+  - 1.1.1:5.1.2.1:07
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

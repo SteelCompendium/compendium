@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:our-hearts-your-strength-5-piety
 scdc:
-  - 1.1.1:5.2.3.5:01
+  - 1.1.1:5.2.4.5:01
 source: mcdm.heroes.v1
 type: feature/ability/conduit/2nd-level-feature
 ---

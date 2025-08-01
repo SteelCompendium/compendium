@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:with-my-blessing-5-wrath
 scdc:
-  - 1.1.1:5.2.2.5:03
+  - 1.1.1:5.2.3.5:03
 source: mcdm.heroes.v1
 type: feature/ability/censor/2nd-level-feature
 ---

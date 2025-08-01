@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:curse-of-terror-5-piety
 scdc:
-  - 1.1.1:5.2.3.1:03
+  - 1.1.1:5.2.4.1:03
 source: mcdm.heroes.v1
 type: feature/ability/conduit/1st-level-feature
 ---

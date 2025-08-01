@@ -3,13 +3,13 @@ class: 'null'
 feature_type: trait
 file_dpath: Null/1st-Level Features
 item_id: null-speed
-item_index: '11'
+item_index: '15'
 item_name: Null Speed
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:null-speed
 scdc:
-  - 1.1.1:5.1.2.1:11
+  - 1.1.1:5.1.2.1:15
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---
