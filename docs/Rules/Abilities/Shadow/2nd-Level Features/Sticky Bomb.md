@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:sticky-bomb-5-insight
 scdc:
-  - 1.1.1:5.1.2.4:02
+  - 1.1.1:5.1.1.5:02
 source: mcdm.heroes.v1
 type: feature/ability/shadow/2nd-level-feature
 ---

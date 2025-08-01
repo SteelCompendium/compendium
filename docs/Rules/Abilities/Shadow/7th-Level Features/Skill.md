@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.7th-level-feature:skill
 scdc:
-  - 1.1.1:5.2.2.7:01
+  - 1.1.1:5.2.1.9:01
 source: mcdm.heroes.v1
 type: feature/trait/shadow/7th-level-feature
 ---

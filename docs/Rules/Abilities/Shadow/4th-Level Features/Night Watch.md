@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.4th-level-feature:night-watch
 scdc:
-  - 1.1.1:5.2.2.8:06
+  - 1.1.1:5.2.1.10:06
 source: mcdm.heroes.v1
 type: feature/trait/shadow/4th-level-feature
 ---

@@ -1,12 +1,12 @@
 ---
 file_dpath: Classes
 item_id: 'null'
-item_index: '03'
+item_index: '04'
 item_name: 'Null'
 scc:
   - mcdm.heroes.v1:class:null
 scdc:
-  - 1.1.1:2:03
+  - 1.1.1:2:04
 source: mcdm.heroes.v1
 type: class
 ---

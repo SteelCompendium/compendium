@@ -9,7 +9,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.6th-level-feature:umbral-form
 scdc:
-  - 1.1.1:5.2.2.3:02
+  - 1.1.1:5.2.1.3:02
 source: mcdm.heroes.v1
 type: feature/trait/shadow/6th-level-feature
 ---

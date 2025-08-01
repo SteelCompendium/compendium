@@ -13,3 +13,4 @@ type: index
 | [Fury](../Fury)                 |
 | [Null](../Null)                 |
 | [Shadow](../Shadow)             |
+| [Tactician](../Tactician)       |

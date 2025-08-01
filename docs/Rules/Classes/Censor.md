@@ -1,12 +1,12 @@
 ---
 file_dpath: Classes
 item_id: censor
-item_index: '04'
+item_index: '05'
 item_name: Censor
 scc:
   - mcdm.heroes.v1:class:censor
 scdc:
-  - 1.1.1:2:04
+  - 1.1.1:2:05
 source: mcdm.heroes.v1
 type: class
 ---

@@ -9,11 +9,11 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.7th-level-feature:careful-observation-improvement
 scdc:
-  - 1.1.1:5.2.2.7:03
+  - 1.1.1:5.2.1.9:03
 source: mcdm.heroes.v1
 type: feature/trait/shadow/7th-level-feature
 ---
 
 #### Careful Observation Improvement
 
-You can target two creatures simultaneously with your Careful Observation ability, observing both simultaneously. Making a strike against one target doesn't end your observation of the other target.
+You can target three creatures simultaneously with your Careful Observation ability.

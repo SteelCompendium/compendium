@@ -9,11 +9,11 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.4th-level-feature:characteristic-increase
 scdc:
-  - 1.1.1:5.2.2.8:05
+  - 1.1.1:5.2.1.10:05
 source: mcdm.heroes.v1
 type: feature/trait/shadow/4th-level-feature
 ---
 
 #### Characteristic Increase
 
-Each of your characteristic scores increases by 1, to a maximum of 4.
+Your Agility score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.

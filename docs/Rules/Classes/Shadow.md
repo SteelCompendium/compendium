@@ -1,12 +1,12 @@
 ---
 file_dpath: Classes
 item_id: shadow
-item_index: '06'
+item_index: '07'
 item_name: Shadow
 scc:
   - mcdm.heroes.v1:class:shadow
 scdc:
-  - 1.1.1:2:06
+  - 1.1.1:2:07
 source: mcdm.heroes.v1
 type: class
 ---
@@ -937,3 +937,231 @@ Whenever you willingly move, you can teleport. When you teleport this way, it co
 ##### Parkour
 
 Your movement no longer provokes opportunity attacks. Additionally, you can use your Harlequin Gambit feature as a free triggered action when a creature is reduced to 0 Stamina by your Clever Trick ability.
+
+##### Time Bomb
+
+You have damage immunity against area abilities and effects equal to your Agility score. You also have the following ability, which you can use once per round on your turn.
+
+###### Time Bomb
+
+*The longer it cooks, the bigger the boom.*
+
+| **Area, Ranged**        |             **Free maneuver** |
+| ----------------------- | ----------------------------: |
+| **📏 2 cube within 10** | **🎯 Each enemy in the area** |
+
+**Effect:** Each target takes acid, fire, or poison damage (your choice) equal to your Agility score. For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 surge that must be used with this ability. After using the ability or at the end of the encounter, its area and surges are reset.
+
+**Spend 2+ Insight**: For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
+
+#### 11-Insight Ability
+
+Choose one heroic ability from the following options, each of which costs 11 insight to use.
+
+###### Assassinate (11 Insight)
+
+*A practiced attack will instantly kill an already weakened foe.*
+
+| **Melee, Strike, Weapon** |               **Main action** |
+| ------------------------- | ----------------------------: |
+| **📏 Melee 1**            | **🎯 One creature or object** |
+
+**Power Roll + Agility:**
+
+- **≤11:** 12 + A damage
+- **12-16:** 18 + A damage
+- **17+:** 24 + A damage
+
+**Effect:** A target who is not a minion, leader, or solo creature and who is winded after taking this damage is reduced to 0 Stamina.
+
+###### Shadowgrasp (11 Insight)
+
+*The shadows around you give way, allowing the shadow creature within you to grasp at your foes.*
+
+| **Area, Magic** |               **Main action** |
+| --------------- | ----------------------------: |
+| **📏 2 burst**  | **🎯 Each enemy in the area** |
+
+**Power Roll + Agility:**
+
+- **≤11:** 11 corruption damage; A < WEAK, restrained (save ends)
+- **12-16:** 16 corruption damage; A < AVERAGE, restrained (save ends)
+- **17+:** 21 corruption damage; A < STRONG, restrained (save ends)
+
+###### Speed of Shadows (11 Insight)
+
+*You make multiple strikes against a foe before they even notice they're dead.*
+
+| **Magic**   | **Main action** |
+| ----------- | --------------: |
+| **📏 Self** |     **🎯 Self** |
+
+**Effect:** You can use a strike signature ability four times, use a strike signature ability that gains an edge three times, or use a strike signature ability that has a double edge twice. You can shift up to 2 squares between each use.
+
+###### They Always Line Up (11 Insight)
+
+*You fire a projectile so fast that it passes through a line of foes, hamstringing them.*
+
+| **Area, Ranged, Weapon**   |               **Main action** |
+| -------------------------- | ----------------------------: |
+| **📏 5 × 1 line within 5** | **🎯 Each enemy in the area** |
+
+**Power Roll + Agility:**
+
+- **≤11:** 12 damage; M < WEAK, slowed (save ends)
+- **12-16:** 18 damage; M < AVERAGE, slowed (save ends)
+- **17+:** 24 damage; M < STRONG, slowed (save ends)
+
+### 9th-Level Features
+
+As a 9th-level shadow, you gain the following features.
+
+#### Gloom Squad
+
+At the start of each of your turns, you can forgo gaining insight to create 1d6 clones of yourself in unoccupied adjacent spaces. A clone acts on your turn and uses your statistics, except they have 1 Stamina. They are affected by any conditions and effects on you, and last until the start of your next turn. A clone doesn't have insight and can't use the Careful Observation ability, the Umbral Form feature, or any triggered actions. On their turn, a clone has a move action, a maneuver, and a main action that they can use only to make a free strike. While making a free strike, a clone must choose targets that you or another clone aren't also striking.
+
+Outside of combat, you can have one clone active for every 2 Victories you have. If a clone is destroyed, you must wait 1 hour before creating another one.
+
+#### 9th-Level College Ability
+
+Your shadow college grants your choice of one of two heroic abilities.
+
+##### 9th-Level Black Ash Abilities
+
+Choose one of the following abilities.
+
+###### Cacophony of Cinders (11 Insight)
+
+*You tumble through the battle, stabbing foes and teleporting allies.*
+
+| **Magic, Melee, Weapon** | **Main Action** |
+| ------------------------ | --------------: |
+| **📏 Self; see below**   |     **🎯 Self** |
+
+**Effect:** You shift up to twice your speed, making one power roll that targets each creature you come adjacent to during the shift.
+
+**Power Roll + Agility:**
+
+- **≤11:** An enemy takes 6 damage; an ally can teleport up to 3 squares.
+- **12-16:** An enemy takes 10 damage; an ally can teleport up to 5 squares.
+- **17+:** An enemy takes 14 damage; an ally can teleport up to 7 squares.
+
+###### Demon Door (11 Insight)
+
+*You create a temporary portal to allow a massive demonic hand to reach through.*
+
+| **Magic, Melee, Strike, Weapon** |     **Main action** |
+| -------------------------------- | ------------------: |
+| **📏 Melee 3**                   | **🎯 One creature** |
+
+**Power Roll + Agility:**
+
+- **≤11:** 13 + A corruption damage; push 3
+- **12-16:** 18 + A corruption damage; push 5
+- **17+:** 25 + A corruption damage; push 7
+
+**Effect:** On a critical hit, the target is grabbed by the demon and pulled through the portal before it closes, never to be seen again.
+
+##### 9th-Level Caustic Alchemy Abilities
+
+Choose one of the following abilities.
+
+###### Chain Reaction (11 Insight)
+
+*One explosion, an offense. Three explosions, an assault. Nine explosions, a celebration.*
+
+| **Ranged**       |               **Main action** |
+| ---------------- | ----------------------------: |
+| **📏 Ranged 10** | **🎯 One creature or object** |
+
+**Effect:** Each enemy within 3 squares of the target who is not currently targeted by this ability also becomes targeted by this ability. This effect continues until there are no more available targets. The ability deals acid, fire, or poison damage (your choice).
+
+**Power Roll + Agility:**
+
+- **≤11:** 7 damage
+- **12-16:** 10 damage
+- **17+:** 15 damage
+
+###### To the Stars (11 Insight)
+
+*You attach your most potent explosive to your foe. Under less pressing*
+
+| **Melee, Ranged, Strike**   |               **Main action** |
+| --------------------------- | ----------------------------: |
+| **📏 Melee 1 or ranged 10** | **🎯 One creature or object** |
+
+**Power Roll + Agility:**
+
+- **≤11:** 4 + A fire damage; vertical push 8
+- **12-16:** 7 + A fire damage; vertical push 10
+- **17+:** 11 + A fire damage; vertical push 15
+
+**Effect:** The ground beneath a 3-cube area around the target's starting position is difficult terrain.
+
+##### 9th-Level Harlequin Mask Abilities
+
+Choose one of the following abilities.
+
+###### I Am You (11 Insight)
+
+*Your mask reflects your foe's face. Surely they won't need it much longer.*
+
+| **Magic, Ranged** |        **Maneuver** |
+| ----------------- | ------------------: |
+| **📏 Ranged 10**  | **🎯 One creature** |
+
+**Effect:** Until the end of the encounter, you gain the target's damage immunities and speed (if they are better than yours), and can use any types of movement they can use. You can also use the target's signature ability, using their bonus for the power roll.
+
+###### It Was Me All Along (11 Insight)
+
+*After everything you've been through together, you twist the blade and make the pain extra personal.*
+
+| **Melee, Strike, Weapon** |               **Main action** |
+| ------------------------- | ----------------------------: |
+| **📏 Melee 1**            | **🎯 One creature or object** |
+
+**Power Roll + Agility:**
+
+- **≤11:** 15 + A damage
+- **12-16:** 21 + A damage
+- **17+:** 28 + A damage
+
+**Effect:** If you are disguised as a creature the target knew using your I'm No Threat ability, this ability deals extra damage equal to three times your Agility score.
+
+### 10th-Level Features
+
+As a 10th-level shadow, you gain the following features.
+
+#### Characteristic Increase
+
+Your Agility score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.
+
+#### Death Pool
+
+The first time each combat round that you deal damage incorporating 1 or more surges, you gain 3 insight instead of 2.
+
+#### Perk
+
+You gain one perk of your choice.
+
+#### Skill
+
+You gain one skill of your choice.
+
+#### Careful Observation Improvement
+
+You can target three creatures simultaneously with your Careful Observation ability.
+
+#### Improved Umbral Form
+
+You gain full control over the shadow creature you become with your Umbral Form feature, and you can end the transformation at will (no action required). Additionally, you are always wreathed in darkness that grants you concealment while in this form, and creatures no longer gain an edge on strikes against you.
+
+While you are in your umbral form, you can spend 1 uninterrupted minute concentrating on a location where you've been before. At the end of that minute, you and each willing creature of your choice within 10 squares of you can teleport to unoccupied spaces of your choice within that location. Each creature who teleports this way is invisible for 1 hour or until they use an ability.
+
+#### Subterfuge
+
+You have an epic resource called subterfuge. Each time you finish a respite, you gain subterfuge equal to the XP you gain. You can spend subterfuge on your abilities as if it were insight.
+
+Additionally, you can spend subterfuge to take additional maneuvers on your turn. You can use one maneuver for each subterfuge you spend.
+
+Subterfuge remains until you spend it.

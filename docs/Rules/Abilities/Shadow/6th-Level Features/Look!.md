@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:look-9-insight
 scdc:
-  - 1.1.1:5.1.2.2:01
+  - 1.1.1:5.1.1.3:01
 source: mcdm.heroes.v1
 type: feature/ability/shadow/6th-level-feature
 ---

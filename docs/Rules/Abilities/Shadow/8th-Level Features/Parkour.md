@@ -3,13 +3,13 @@ class: shadow
 feature_type: trait
 file_dpath: Shadow/8th-Level Features
 item_id: parkour
-item_index: '05'
+item_index: '06'
 item_name: Parkour
 level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.8th-level-feature:parkour
 scdc:
-  - 1.1.1:5.2.2.2:05
+  - 1.1.1:5.2.1.2:06
 source: mcdm.heroes.v1
 type: feature/trait/shadow/8th-level-feature
 ---

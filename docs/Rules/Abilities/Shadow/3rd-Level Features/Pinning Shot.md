@@ -12,7 +12,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:pinning-shot-7-insight
 scdc:
-  - 1.1.1:5.1.2.5:02
+  - 1.1.1:5.1.1.6:02
 source: mcdm.heroes.v1
 type: feature/ability/shadow/3rd-level-feature
 ---

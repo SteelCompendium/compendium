@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.2nd-level-feature:friend
 scdc:
-  - 1.1.1:5.2.2.5:01
+  - 1.1.1:5.2.1.6:01
 source: mcdm.heroes.v1
 type: feature/trait/shadow/2nd-level-feature
 ---

@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.2nd-level-feature:trained-assassin
 scdc:
-  - 1.1.1:5.2.2.5:04
+  - 1.1.1:5.2.1.6:04
 source: mcdm.heroes.v1
 type: feature/trait/shadow/2nd-level-feature
 ---

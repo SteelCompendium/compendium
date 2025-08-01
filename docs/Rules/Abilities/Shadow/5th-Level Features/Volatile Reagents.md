@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:volatile-reagents
 scdc:
-  - 1.1.1:5.2.2.4:05
+  - 1.1.1:5.2.1.5:05
 source: mcdm.heroes.v1
 type: feature/trait/shadow/5th-level-feature
 ---

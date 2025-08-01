@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:i-work-better-alone
 scdc:
-  - 1.1.1:5.2.2.1:08
+  - 1.1.1:5.2.1.1:08
 source: mcdm.heroes.v1
 type: feature/trait/shadow/1st-level-feature
 ---

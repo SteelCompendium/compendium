@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:harlequin-gambit
 scdc:
-  - 1.1.1:5.2.2.4:04
+  - 1.1.1:5.2.1.5:04
 source: mcdm.heroes.v1
 type: feature/trait/shadow/5th-level-feature
 ---
