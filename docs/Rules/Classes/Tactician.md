@@ -1,12 +1,12 @@
 ---
 file_dpath: Classes
 item_id: tactician
-item_index: '02'
+item_index: '03'
 item_name: Tactician
 scc:
   - mcdm.heroes.v1:class:tactician
 scdc:
-  - 1.1.1:2:02
+  - 1.1.1:2:03
 source: mcdm.heroes.v1
 type: class
 ---

@@ -1,12 +1,12 @@
 ---
 file_dpath: Classes
 item_id: elementalist
-item_index: '03'
+item_index: '04'
 item_name: Elementalist
 scc:
   - mcdm.heroes.v1:class:elementalist
 scdc:
-  - 1.1.1:2:03
+  - 1.1.1:2:04
 source: mcdm.heroes.v1
 type: class
 ---

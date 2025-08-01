@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:bait-and-ambush
 scdc:
-  - 1.1.1:5.2.2.2:03
+  - 1.1.1:5.1.3.2:03
 source: mcdm.heroes.v1
 type: feature/trait/tactician/8th-level-feature
 ---

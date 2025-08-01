@@ -1,12 +1,12 @@
 ---
 file_dpath: Classes
 item_id: shadow
-item_index: '07'
+item_index: 08
 item_name: Shadow
 scc:
   - mcdm.heroes.v1:class:shadow
 scdc:
-  - 1.1.1:2:07
+  - 1.1.1:2:08
 source: mcdm.heroes.v1
 type: class
 ---
