@@ -12,7 +12,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.ability.null.4th-level-feature:phase-leap-9-discipline
 scdc:
-  - 1.1.1:5.2.5.8:04
+  - 1.1.1:5.2.6.8:04
 source: mcdm.heroes.v1
 type: feature/ability/null/4th-level-feature
 ---

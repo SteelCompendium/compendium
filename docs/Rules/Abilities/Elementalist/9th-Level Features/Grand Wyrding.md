@@ -9,7 +9,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.9th-level-feature:grand-wyrding
 scdc:
-  - 1.1.1:5.1.8.8:01
+  - 1.1.1:5.1.9.8:01
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/9th-level-feature
 ---

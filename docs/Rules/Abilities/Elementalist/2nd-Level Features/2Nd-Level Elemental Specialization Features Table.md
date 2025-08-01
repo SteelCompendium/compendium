@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:2nd-level-elemental-specialization-features-table
 scdc:
-  - 1.1.1:5.1.8.6:02
+  - 1.1.1:5.1.9.6:02
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/2nd-level-feature
 ---

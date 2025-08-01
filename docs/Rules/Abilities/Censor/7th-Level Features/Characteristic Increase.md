@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.censor.7th-level-feature:characteristic-increase
 scdc:
-  - 1.1.1:5.1.6.9:09
+  - 1.1.1:5.1.7.9:09
 source: mcdm.heroes.v1
 type: feature/trait/censor/7th-level-feature
 ---

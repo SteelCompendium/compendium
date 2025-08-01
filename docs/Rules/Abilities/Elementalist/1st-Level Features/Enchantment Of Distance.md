@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:enchantment-of-distance
 scdc:
-  - 1.1.1:5.1.8.1:22
+  - 1.1.1:5.1.9.1:22
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

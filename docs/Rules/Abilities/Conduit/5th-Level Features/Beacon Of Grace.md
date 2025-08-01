@@ -12,7 +12,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.5th-level-feature:beacon-of-grace-9-piety
 scdc:
-  - 1.1.1:5.2.7.4:01
+  - 1.1.1:5.2.8.4:01
 source: mcdm.heroes.v1
 type: feature/ability/conduit/5th-level-feature
 ---

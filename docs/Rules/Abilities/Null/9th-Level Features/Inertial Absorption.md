@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.null.9th-level-feature:inertial-absorption-11-discipline
 scdc:
-  - 1.1.1:5.2.5.6:02
+  - 1.1.1:5.2.6.6:02
 source: mcdm.heroes.v1
 type: feature/ability/null/9th-level-feature
 ---

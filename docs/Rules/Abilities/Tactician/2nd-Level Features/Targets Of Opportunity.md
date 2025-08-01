@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:targets-of-opportunity-5-focus
 scdc:
-  - 1.1.1:5.2.3.5:06
+  - 1.1.1:5.2.4.5:06
 source: mcdm.heroes.v1
 type: feature/ability/tactician/2nd-level-feature
 ---

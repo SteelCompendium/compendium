@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle
 scdc:
-  - 1.1.1:5.1.7.1:18
+  - 1.1.1:5.1.8.1:18
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:counterstrategy-11-focus
 scdc:
-  - 1.1.1:5.2.3.7:01
+  - 1.1.1:5.2.4.7:01
 source: mcdm.heroes.v1
 type: feature/ability/tactician/9th-level-feature
 ---

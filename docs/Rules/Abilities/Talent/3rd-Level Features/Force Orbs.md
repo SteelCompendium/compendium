@@ -27,7 +27,7 @@ type: feature/ability/talent/3rd-level-feature
 
 **Effect:** You create three size 1T orbs that orbit your body. Each orb gives you a cumulative damage immunity 1. Each time you take damage, you lose 1 orb. Once on each of your turns, you can use a free maneuver to fire an orb at a creature or object within 5 squares as a ranged strike, losing the orb after the strike.
 
-**Power Roll + Reason**:
+**Power Roll + Reason:**
 
 - **≤11:** 2 damage
 - **12-16:** 3 damage

@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:ive-got-your-back-5-focus
 scdc:
-  - 1.1.1:5.2.3.5:02
+  - 1.1.1:5.2.4.5:02
 source: mcdm.heroes.v1
 type: feature/ability/tactician/2nd-level-feature
 ---
@@ -29,6 +29,6 @@ type: feature/ability/tactician/2nd-level-feature
 
 - **≤11:** 5 + R damage; taunted (EoT)
 - **12-16:** 9 + R damage; taunted (EoT)
-- **17+:** 12 + Rdamage; taunted (EoT)
+- **17+:** 12 + R damage; taunted (EoT)
 
 **Effect:** One ally adjacent to the target can spend a Recovery.

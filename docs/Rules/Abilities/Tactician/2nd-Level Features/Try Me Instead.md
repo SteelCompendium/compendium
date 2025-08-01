@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:try-me-instead-5-focus
 scdc:
-  - 1.1.1:5.2.3.5:01
+  - 1.1.1:5.2.4.5:01
 source: mcdm.heroes.v1
 type: feature/ability/tactician/2nd-level-feature
 ---
@@ -31,4 +31,4 @@ type: feature/ability/tactician/2nd-level-feature
 
 - **≤11:** 2 + R damage; R < WEAK, frightened (save ends)
 - **12-16:** 3 + R damage; R < AVERAGE, frightened (save ends)
-- **17+:** 4 + Rdamage; R < STRONG, frightened (save ends)
+- **17+:** 4 + R damage; R < STRONG, frightened (save ends)

@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.fury.6th-level-feature:death-strike-9-ferocity
 scdc:
-  - 1.1.1:5.2.4.3:02
+  - 1.1.1:5.2.5.3:02
 source: mcdm.heroes.v1
 type: feature/ability/fury/6th-level-feature
 ---

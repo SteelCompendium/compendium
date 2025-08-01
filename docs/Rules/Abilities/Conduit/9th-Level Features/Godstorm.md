@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:godstorm-11-piety
 scdc:
-  - 1.1.1:5.2.7.7:07
+  - 1.1.1:5.2.8.7:07
 source: mcdm.heroes.v1
 type: feature/ability/conduit/9th-level-feature
 ---
@@ -21,9 +21,9 @@ type: feature/ability/conduit/9th-level-feature
 
 *You summon a divine storm that remains under your control.*
 
-| \*\*\*\*Area, Magic, Ranged\*\*\*\* |               **Main action** |
-| ----------------------------------- | ----------------------------: |
-| **📏 5 cube within 5**              | **🎯 Each enemy in the area** |
+| **Area, Magic, Ranged** |               **Main action** |
+| ----------------------- | ----------------------------: |
+| **📏 5 cube within 5**  | **🎯 Each enemy in the area** |
 
 **Power Roll + Intuition:**
 

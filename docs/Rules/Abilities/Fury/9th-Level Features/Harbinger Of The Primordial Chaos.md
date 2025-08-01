@@ -9,7 +9,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.trait.fury.9th-level-feature:harbinger-of-the-primordial-chaos
 scdc:
-  - 1.1.1:5.1.4.8:01
+  - 1.1.1:5.1.5.8:01
 source: mcdm.heroes.v1
 type: feature/trait/fury/9th-level-feature
 ---

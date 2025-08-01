@@ -12,7 +12,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.fury.3rd-level-feature:steelbreaker-7-ferocity
 scdc:
-  - 1.1.1:5.2.4.5:02
+  - 1.1.1:5.2.5.5:02
 source: mcdm.heroes.v1
 type: feature/ability/fury/3rd-level-feature
 ---

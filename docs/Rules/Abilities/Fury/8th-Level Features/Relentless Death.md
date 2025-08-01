@@ -12,7 +12,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.fury.8th-level-feature:relentless-death-11-ferocity
 scdc:
-  - 1.1.1:5.2.4.2:01
+  - 1.1.1:5.2.5.2:01
 source: mcdm.heroes.v1
 type: feature/ability/fury/8th-level-feature
 ---

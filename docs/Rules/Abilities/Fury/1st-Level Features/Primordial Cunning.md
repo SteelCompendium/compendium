@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.fury.1st-level-feature:primordial-cunning
 scdc:
-  - 1.1.1:5.1.4.1:06
+  - 1.1.1:5.1.5.1:06
 source: mcdm.heroes.v1
 type: feature/trait/fury/1st-level-feature
 ---

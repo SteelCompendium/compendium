@@ -12,7 +12,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.ability.null.7th-level-feature:shared-power-5-discipline
 scdc:
-  - 1.1.1:5.2.5.7:07
+  - 1.1.1:5.2.6.7:07
 source: mcdm.heroes.v1
 type: feature/ability/null/7th-level-feature
 ---

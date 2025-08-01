@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:prescient-grace-5-wrath
 scdc:
-  - 1.1.1:5.2.6.5:06
+  - 1.1.1:5.2.7.5:06
 source: mcdm.heroes.v1
 type: feature/ability/censor/2nd-level-feature
 ---

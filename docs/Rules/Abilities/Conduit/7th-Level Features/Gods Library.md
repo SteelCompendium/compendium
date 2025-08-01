@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:gods-library
 scdc:
-  - 1.1.1:5.1.7.9:06
+  - 1.1.1:5.1.8.9:06
 source: mcdm.heroes.v1
 type: feature/trait/conduit/7th-level-feature
 ---

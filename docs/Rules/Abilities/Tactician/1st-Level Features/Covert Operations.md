@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:covert-operations
 scdc:
-  - 1.1.1:5.1.3.1:03
+  - 1.1.1:5.1.4.1:03
 source: mcdm.heroes.v1
 type: feature/trait/tactician/1st-level-feature
 ---

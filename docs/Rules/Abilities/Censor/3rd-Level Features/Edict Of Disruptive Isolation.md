@@ -12,7 +12,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.censor.3rd-level-feature:edict-of-disruptive-isolation-7-wrath
 scdc:
-  - 1.1.1:5.2.6.6:01
+  - 1.1.1:5.2.7.6:01
 source: mcdm.heroes.v1
 type: feature/ability/censor/3rd-level-feature
 ---

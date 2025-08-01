@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:flowering-bed
 scdc:
-  - 1.1.1:5.1.8.10:06
+  - 1.1.1:5.1.9.10:06
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/4th-level-feature
 ---

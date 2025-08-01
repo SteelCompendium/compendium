@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:the-green-within-the-green-without
 scdc:
-  - 1.1.1:5.1.8.1:29
+  - 1.1.1:5.1.9.1:29
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---
@@ -26,6 +26,6 @@ type: feature/trait/elementalist/1st-level-feature
 
 - **≤11:** 2 + R damage
 - **12-16:** 5 + R damage
-- **17+:** 7 + Rdamage
+- **17+:** 7 + R damage
 
 **Effect:** You slide one creature within 10 squares of the target up to 2 squares.

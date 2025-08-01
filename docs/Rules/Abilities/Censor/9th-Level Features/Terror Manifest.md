@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.censor.9th-level-feature:terror-manifest-11-wrath
 scdc:
-  - 1.1.1:5.2.6.7:01
+  - 1.1.1:5.2.7.7:01
 source: mcdm.heroes.v1
 type: feature/ability/censor/9th-level-feature
 ---

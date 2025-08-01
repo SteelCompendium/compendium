@@ -12,7 +12,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.censor.8th-level-feature:pillar-of-holy-fire-11-wrath
 scdc:
-  - 1.1.1:5.2.6.2:03
+  - 1.1.1:5.2.7.2:03
 source: mcdm.heroes.v1
 type: feature/ability/censor/8th-level-feature
 ---

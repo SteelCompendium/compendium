@@ -12,7 +12,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.null.3rd-level-feature:stabilizing-field-7-discipline
 scdc:
-  - 1.1.1:5.2.5.5:04
+  - 1.1.1:5.2.6.5:04
 source: mcdm.heroes.v1
 type: feature/ability/null/3rd-level-feature
 ---

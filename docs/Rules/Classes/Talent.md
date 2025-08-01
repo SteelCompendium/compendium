@@ -733,7 +733,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 
 **Effect:** You create three size 1T orbs that orbit your body. Each orb gives you a cumulative damage immunity 1. Each time you take damage, you lose 1 orb. Once on each of your turns, you can use a free maneuver to fire an orb at a creature or object within 5 squares as a ranged strike, losing the orb after the strike.
 
-**Power Roll + Reason**:
+**Power Roll + Reason:**
 
 - **≤11:** 2 damage
 - **12-16:** 3 damage
@@ -763,8 +763,8 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 
 **Power Roll + Presence:**
 
-- **≤11:** 6 + Pdamage; P < WEAK, dazed (save ends)
-- **12-16:** 10 + Pdamage; P < AVERAGE, dazed (save ends)
+- **≤11:** 6 + P damage; P < WEAK, dazed (save ends)
+- **12-16:** 10 + P damage; P < AVERAGE, dazed (save ends)
 - **17+:** 14 + P damage; P < STRONG, dazed (save ends)
 
 **Effect:** The target takes a bane on Presence tests until the end of the encounter.

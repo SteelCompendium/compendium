@@ -1,12 +1,12 @@
 ---
 file_dpath: Classes
 item_id: conduit
-item_index: '07'
+item_index: 08
 item_name: Conduit
 scc:
   - mcdm.heroes.v1:class:conduit
 scdc:
-  - 1.1.1:2:07
+  - 1.1.1:2:08
 source: mcdm.heroes.v1
 type: class
 ---
@@ -1505,9 +1505,9 @@ Additionally, you can use a maneuver to move the dragon up to their speed, or to
 
 *You summon a divine storm that remains under your control.*
 
-| \*\*\*\*Area, Magic, Ranged\*\*\*\* |               **Main action** |
-| ----------------------------------- | ----------------------------: |
-| **📏 5 cube within 5**              | **🎯 Each enemy in the area** |
+| **Area, Magic, Ranged** |               **Main action** |
+| ----------------------- | ----------------------------: |
+| **📏 5 cube within 5**  | **🎯 Each enemy in the area** |
 
 **Power Roll + Intuition:**
 

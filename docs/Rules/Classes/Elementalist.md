@@ -129,7 +129,7 @@ You have the following ability, which can be used as a ranged free strike.
 
 - **≤11:** 2 + R damage
 - **12-16:** 4 + R damage
-- **17+:** 6 + Rdamage
+- **17+:** 6 + R damage
 
 **Effect:** When you make this strike, choose the damage type from one of the following options: acid, cold, corruption, fire, lightning, poison, or sonic.
 
@@ -401,7 +401,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 - **≤11:** 2 + R damage
 - **12-16:** 5 + R damage
-- **17+:** 7 + Rdamage
+- **17+:** 7 + R damage
 
 **Effect:** You slide one creature within 10 squares of the target up to 2 squares.
 

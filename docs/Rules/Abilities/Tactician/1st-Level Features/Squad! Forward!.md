@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:squad-forward-3-focus
 scdc:
-  - 1.1.1:5.2.3.1:02
+  - 1.1.1:5.2.4.1:02
 source: mcdm.heroes.v1
 type: feature/ability/tactician/1st-level-feature
 ---

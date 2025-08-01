@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.fury.5th-level-feature:unfettered
 scdc:
-  - 1.1.1:5.1.4.5:05
+  - 1.1.1:5.1.5.5:05
 source: mcdm.heroes.v1
 type: feature/trait/fury/5th-level-feature
 ---

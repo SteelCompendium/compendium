@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.7th-level-feature:surging-essence
 scdc:
-  - 1.1.1:5.1.8.9:04
+  - 1.1.1:5.1.9.9:04
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/7th-level-feature
 ---

@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.fury.4th-level-feature:damaging-ferocity
 scdc:
-  - 1.1.1:5.1.4.10:01
+  - 1.1.1:5.1.5.10:01
 source: mcdm.heroes.v1
 type: feature/trait/fury/4th-level-feature
 ---

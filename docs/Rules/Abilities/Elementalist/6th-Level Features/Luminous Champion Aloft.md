@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.6th-level-feature:luminous-champion-aloft-9-essence
 scdc:
-  - 1.1.1:5.2.8.3:03
+  - 1.1.1:5.2.9.3:03
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/6th-level-feature
 ---

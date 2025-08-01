@@ -12,7 +12,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.fury.8th-level-feature:elemental-ferocity-11-ferocity
 scdc:
-  - 1.1.1:5.2.4.2:04
+  - 1.1.1:5.2.5.2:04
 source: mcdm.heroes.v1
 type: feature/ability/fury/8th-level-feature
 ---

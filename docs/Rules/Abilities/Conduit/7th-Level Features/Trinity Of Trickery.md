@@ -12,7 +12,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.7th-level-feature:trinity-of-trickery-9-piety
 scdc:
-  - 1.1.1:5.2.7.8:01
+  - 1.1.1:5.2.8.8:01
 source: mcdm.heroes.v1
 type: feature/ability/conduit/7th-level-feature
 ---

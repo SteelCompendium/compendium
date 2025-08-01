@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:psionic-martial-arts
 scdc:
-  - 1.1.1:5.1.5.1:12
+  - 1.1.1:5.1.6.1:12
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

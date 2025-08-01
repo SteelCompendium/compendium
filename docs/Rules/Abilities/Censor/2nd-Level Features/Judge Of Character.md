@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:judge-of-character
 scdc:
-  - 1.1.1:5.1.6.6:01
+  - 1.1.1:5.1.7.6:01
 source: mcdm.heroes.v1
 type: feature/trait/censor/2nd-level-feature
 ---

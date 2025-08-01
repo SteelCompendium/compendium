@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.fury.1st-level-feature:unearthly-reflexes
 scdc:
-  - 1.1.1:5.1.4.1:12
+  - 1.1.1:5.1.5.1:12
 source: mcdm.heroes.v1
 type: feature/trait/fury/1st-level-feature
 ---

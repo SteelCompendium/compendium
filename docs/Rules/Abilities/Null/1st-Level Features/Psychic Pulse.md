@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:psychic-pulse-3-discipline
 scdc:
-  - 1.1.1:5.2.5.1:07
+  - 1.1.1:5.2.6.1:07
 source: mcdm.heroes.v1
 type: feature/ability/null/1st-level-feature
 ---

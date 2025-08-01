@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:source-of-earth-statblock
 scdc:
-  - 1.1.1:5.1.8.2:05
+  - 1.1.1:5.1.9.2:05
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/8th-level-feature
 ---

@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:impart-force-5-discipline
 scdc:
-  - 1.1.1:5.2.5.1:05
+  - 1.1.1:5.2.6.1:05
 source: mcdm.heroes.v1
 type: feature/ability/null/1st-level-feature
 ---

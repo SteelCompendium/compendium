@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:leave-no-trace
 scdc:
-  - 1.1.1:5.1.3.5:06
+  - 1.1.1:5.1.4.5:06
 source: mcdm.heroes.v1
 type: feature/trait/tactician/5th-level-feature
 ---

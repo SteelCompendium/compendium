@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:smoldering-step
 scdc:
-  - 1.1.1:5.1.8.5:02
+  - 1.1.1:5.1.9.5:02
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/5th-level-feature
 ---

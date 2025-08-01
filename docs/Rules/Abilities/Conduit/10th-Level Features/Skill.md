@@ -9,7 +9,7 @@ level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.10th-level-feature:skill
 scdc:
-  - 1.1.1:5.1.7.4:03
+  - 1.1.1:5.1.8.4:03
 source: mcdm.heroes.v1
 type: feature/trait/conduit/10th-level-feature
 ---

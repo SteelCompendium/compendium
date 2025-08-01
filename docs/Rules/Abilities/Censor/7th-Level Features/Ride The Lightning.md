@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.censor.7th-level-feature:ride-the-lightning
 scdc:
-  - 1.1.1:5.1.6.9:16
+  - 1.1.1:5.1.7.9:16
 source: mcdm.heroes.v1
 type: feature/trait/censor/7th-level-feature
 ---

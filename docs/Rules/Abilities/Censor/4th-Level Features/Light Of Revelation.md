@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.censor.4th-level-feature:light-of-revelation
 scdc:
-  - 1.1.1:5.1.6.10:16
+  - 1.1.1:5.1.7.10:16
 source: mcdm.heroes.v1
 type: feature/trait/censor/4th-level-feature
 ---

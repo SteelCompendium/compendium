@@ -15,3 +15,4 @@ type: index
 | [Shadow](../Shadow)             |
 | [Tactician](../Tactician)       |
 | [Talent](../Talent)             |
+| [Troubadour](../Troubadour)     |
