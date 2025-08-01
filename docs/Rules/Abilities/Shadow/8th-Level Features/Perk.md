@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.8th-level-feature:perk
 scdc:
-  - 1.1.1:6.1.2.2:04
+  - 1.1.1:7.1.2.2:04
 source: mcdm.heroes.v1
 type: feature/trait/shadow/8th-level-feature
 ---

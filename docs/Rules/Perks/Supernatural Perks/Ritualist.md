@@ -6,7 +6,7 @@ item_name: Ritualist
 scc:
   - mcdm.heroes.v1:perk.supernatural:ritualist
 scdc:
-  - 1.1.1:7.4:04
+  - 1.1.1:8.4:04
 source: mcdm.heroes.v1
 type: perk/supernatural
 ---

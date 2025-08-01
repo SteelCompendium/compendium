@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:thorn-cage-11-piety
 scdc:
-  - 1.1.1:6.2.8.7:11
+  - 1.1.1:7.2.8.7:11
 source: mcdm.heroes.v1
 type: feature/ability/conduit/9th-level-feature
 ---

@@ -9,7 +9,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:never-ending-hero
 scdc:
-  - 1.1.1:6.1.3.7:04
+  - 1.1.1:7.1.3.7:04
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/3rd-level-feature
 ---

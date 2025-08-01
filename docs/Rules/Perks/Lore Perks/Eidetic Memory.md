@@ -6,7 +6,7 @@ item_name: Eidetic Memory
 scc:
   - mcdm.heroes.v1:perk.lore:eidetic-memory
 scdc:
-  - 1.1.1:7.2:01
+  - 1.1.1:8.2:01
 source: mcdm.heroes.v1
 type: perk/lore
 ---

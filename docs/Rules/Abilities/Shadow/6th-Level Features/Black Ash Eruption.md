@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:black-ash-eruption-9-insight
 scdc:
-  - 1.1.1:6.2.2.3:02
+  - 1.1.1:7.2.2.3:02
 source: mcdm.heroes.v1
 type: feature/ability/shadow/6th-level-feature
 ---

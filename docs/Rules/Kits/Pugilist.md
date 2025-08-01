@@ -6,7 +6,7 @@ item_name: Pugilist
 scc:
   - mcdm.heroes.v1:kit:pugilist
 scdc:
-  - 1.1.1:5:22
+  - 1.1.1:6:22
 source: mcdm.heroes.v1
 type: kit
 ---

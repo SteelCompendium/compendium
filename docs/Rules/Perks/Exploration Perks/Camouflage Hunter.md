@@ -6,7 +6,7 @@ item_name: Camouflage Hunter
 scc:
   - mcdm.heroes.v1:perk.exploration:camouflage-hunter
 scdc:
-  - 1.1.1:7.3:06
+  - 1.1.1:8.3:06
 source: mcdm.heroes.v1
 type: perk/exploration
 ---

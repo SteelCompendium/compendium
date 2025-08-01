@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:essence-outside-of-combat
 scdc:
-  - 1.1.1:6.1.9.1:31
+  - 1.1.1:7.1.9.1:31
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

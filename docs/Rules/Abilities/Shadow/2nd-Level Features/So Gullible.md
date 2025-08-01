@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:so-gullible-5-insight
 scdc:
-  - 1.1.1:6.2.2.5:03
+  - 1.1.1:7.2.2.5:03
 source: mcdm.heroes.v1
 type: feature/ability/shadow/2nd-level-feature
 ---

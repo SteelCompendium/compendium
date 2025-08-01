@@ -6,7 +6,7 @@ item_name: Martial Artist
 scc:
   - mcdm.heroes.v1:kit:martial-artist
 scdc:
-  - 1.1.1:5:21
+  - 1.1.1:6:21
 source: mcdm.heroes.v1
 type: kit
 ---

@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:repent-3-wrath
 scdc:
-  - 1.1.1:6.2.7.1:01
+  - 1.1.1:7.2.7.1:01
 source: mcdm.heroes.v1
 type: feature/ability/censor/1st-level-feature
 ---

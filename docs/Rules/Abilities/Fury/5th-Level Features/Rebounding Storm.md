@@ -12,7 +12,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.fury.5th-level-feature:rebounding-storm-9-ferocity
 scdc:
-  - 1.1.1:6.2.5.4:04
+  - 1.1.1:7.2.5.4:04
 source: mcdm.heroes.v1
 type: feature/ability/fury/5th-level-feature
 ---

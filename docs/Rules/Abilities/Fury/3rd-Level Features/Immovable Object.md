@@ -9,7 +9,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:immovable-object
 scdc:
-  - 1.1.1:6.1.5.7:01
+  - 1.1.1:7.1.5.7:01
 source: mcdm.heroes.v1
 type: feature/trait/fury/3rd-level-feature
 ---

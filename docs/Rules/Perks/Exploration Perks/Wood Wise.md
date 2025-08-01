@@ -6,7 +6,7 @@ item_name: Wood Wise
 scc:
   - mcdm.heroes.v1:perk.exploration:wood-wise
 scdc:
-  - 1.1.1:7.3:01
+  - 1.1.1:8.3:01
 source: mcdm.heroes.v1
 type: perk/exploration
 ---

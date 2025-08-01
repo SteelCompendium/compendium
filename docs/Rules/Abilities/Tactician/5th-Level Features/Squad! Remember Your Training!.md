@@ -12,7 +12,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.5th-level-feature:squad-remember-your-training-9-focus
 scdc:
-  - 1.1.1:6.2.4.4:03
+  - 1.1.1:7.2.4.4:03
 source: mcdm.heroes.v1
 type: feature/ability/tactician/5th-level-feature
 ---

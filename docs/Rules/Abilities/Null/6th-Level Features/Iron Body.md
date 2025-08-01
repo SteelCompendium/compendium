@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.null.6th-level-feature:iron-body-9-discipline
 scdc:
-  - 1.1.1:6.2.6.3:03
+  - 1.1.1:7.2.6.3:03
 source: mcdm.heroes.v1
 type: feature/ability/null/6th-level-feature
 ---

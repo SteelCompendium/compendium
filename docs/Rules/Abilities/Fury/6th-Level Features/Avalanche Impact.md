@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.fury.6th-level-feature:avalanche-impact-9-ferocity
 scdc:
-  - 1.1.1:6.2.5.3:05
+  - 1.1.1:7.2.5.3:05
 source: mcdm.heroes.v1
 type: feature/ability/fury/6th-level-feature
 ---

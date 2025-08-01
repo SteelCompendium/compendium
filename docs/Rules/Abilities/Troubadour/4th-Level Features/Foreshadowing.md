@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.4th-level-feature:foreshadowing
 scdc:
-  - 1.1.1:6.1.3.10:01
+  - 1.1.1:7.1.3.10:01
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/4th-level-feature
 ---

@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:sermon-of-grace-5-piety
 scdc:
-  - 1.1.1:6.2.8.1:05
+  - 1.1.1:7.2.8.1:05
 source: mcdm.heroes.v1
 type: feature/ability/conduit/1st-level-feature
 ---

@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:try-me-instead-5-focus
 scdc:
-  - 1.1.1:6.2.4.5:01
+  - 1.1.1:7.2.4.5:01
 source: mcdm.heroes.v1
 type: feature/ability/tactician/2nd-level-feature
 ---

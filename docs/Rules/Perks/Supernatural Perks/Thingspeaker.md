@@ -6,7 +6,7 @@ item_name: Thingspeaker
 scc:
   - mcdm.heroes.v1:perk.supernatural:thingspeaker
 scdc:
-  - 1.1.1:7.4:01
+  - 1.1.1:8.4:01
 source: mcdm.heroes.v1
 type: perk/supernatural
 ---

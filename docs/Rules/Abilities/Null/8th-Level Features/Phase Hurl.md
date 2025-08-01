@@ -12,7 +12,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.null.8th-level-feature:phase-hurl-11-discipline
 scdc:
-  - 1.1.1:6.2.6.2:03
+  - 1.1.1:7.2.6.2:03
 source: mcdm.heroes.v1
 type: feature/ability/null/8th-level-feature
 ---

@@ -9,7 +9,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.9th-level-feature:roar-of-the-crowd
 scdc:
-  - 1.1.1:6.1.3.8:01
+  - 1.1.1:7.1.3.8:01
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/9th-level-feature
 ---

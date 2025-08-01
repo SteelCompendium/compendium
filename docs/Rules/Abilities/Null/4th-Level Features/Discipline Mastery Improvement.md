@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.null.4th-level-feature:discipline-mastery-improvement
 scdc:
-  - 1.1.1:6.1.6.9:06
+  - 1.1.1:7.1.6.9:06
 source: mcdm.heroes.v1
 type: feature/trait/null/4th-level-feature
 ---

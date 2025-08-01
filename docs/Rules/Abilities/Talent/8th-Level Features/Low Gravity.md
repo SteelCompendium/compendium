@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.talent.8th-level-feature:low-gravity
 scdc:
-  - 1.1.1:6.1.1.2:07
+  - 1.1.1:7.1.1.2:07
 source: mcdm.heroes.v1
 type: feature/trait/talent/8th-level-feature
 ---

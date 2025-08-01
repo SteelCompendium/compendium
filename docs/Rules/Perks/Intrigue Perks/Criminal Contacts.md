@@ -6,7 +6,7 @@ item_name: Criminal Contacts
 scc:
   - mcdm.heroes.v1:perk.intrigue:criminal-contacts
 scdc:
-  - 1.1.1:7.5:05
+  - 1.1.1:8.5:05
 source: mcdm.heroes.v1
 type: perk/intrigue
 ---

@@ -6,7 +6,7 @@ item_name: Friend Catapult
 scc:
   - mcdm.heroes.v1:perk.exploration:friend-catapult
 scdc:
-  - 1.1.1:7.3:09
+  - 1.1.1:8.3:09
 source: mcdm.heroes.v1
 type: perk/exploration
 ---

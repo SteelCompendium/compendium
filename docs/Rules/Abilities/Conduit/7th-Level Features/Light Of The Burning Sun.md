@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:light-of-the-burning-sun
 scdc:
-  - 1.1.1:6.1.8.9:01
+  - 1.1.1:7.1.8.9:01
 source: mcdm.heroes.v1
 type: feature/trait/conduit/7th-level-feature
 ---

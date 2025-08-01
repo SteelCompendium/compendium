@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:halt-miscreant
 scdc:
-  - 1.1.1:6.1.7.1:04
+  - 1.1.1:7.1.7.1:04
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

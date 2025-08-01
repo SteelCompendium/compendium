@@ -6,7 +6,7 @@ item_name: Handy
 scc:
   - mcdm.heroes.v1:perk.crafting:handy
 scdc:
-  - 1.1.1:7.6:01
+  - 1.1.1:8.6:01
 source: mcdm.heroes.v1
 type: perk/crafting
 ---

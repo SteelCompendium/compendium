@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.7th-level-feature:keen-insight
 scdc:
-  - 1.1.1:6.1.2.9:04
+  - 1.1.1:7.1.2.9:04
 source: mcdm.heroes.v1
 type: feature/trait/shadow/7th-level-feature
 ---

@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.talent.5th-level-feature:triangulate
 scdc:
-  - 1.1.1:6.1.1.5:07
+  - 1.1.1:7.1.1.5:07
 source: mcdm.heroes.v1
 type: feature/trait/talent/5th-level-feature
 ---

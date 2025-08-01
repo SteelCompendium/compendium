@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.talent.8th-level-feature:universal-connection
 scdc:
-  - 1.1.1:6.1.1.2:08
+  - 1.1.1:7.1.1.2:08
 source: mcdm.heroes.v1
 type: feature/trait/talent/8th-level-feature
 ---

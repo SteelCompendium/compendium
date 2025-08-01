@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:skill
 scdc:
-  - 1.1.1:6.1.8.10:08
+  - 1.1.1:7.1.8.10:08
 source: mcdm.heroes.v1
 type: feature/trait/conduit/4th-level-feature
 ---

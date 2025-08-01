@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.7th-level-feature:characteristic-increase
 scdc:
-  - 1.1.1:6.1.9.9:03
+  - 1.1.1:7.1.9.9:03
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/7th-level-feature
 ---

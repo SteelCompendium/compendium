@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:the-mountain-does-not-move
 scdc:
-  - 1.1.1:6.1.9.5:01
+  - 1.1.1:7.1.9.5:01
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/5th-level-feature
 ---

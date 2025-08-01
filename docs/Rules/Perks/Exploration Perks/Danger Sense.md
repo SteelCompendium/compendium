@@ -6,7 +6,7 @@ item_name: Danger Sense
 scc:
   - mcdm.heroes.v1:perk.exploration:danger-sense
 scdc:
-  - 1.1.1:7.3:07
+  - 1.1.1:8.3:07
 source: mcdm.heroes.v1
 type: perk/exploration
 ---

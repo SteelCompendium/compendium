@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:strike-now
 scdc:
-  - 1.1.1:6.1.4.1:13
+  - 1.1.1:7.1.4.1:13
 source: mcdm.heroes.v1
 type: feature/trait/tactician/1st-level-feature
 ---

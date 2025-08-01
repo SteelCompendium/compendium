@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.fury.7th-level-feature:greater-ferocity
 scdc:
-  - 1.1.1:6.1.5.9:04
+  - 1.1.1:7.1.5.9:04
 source: mcdm.heroes.v1
 type: feature/trait/fury/7th-level-feature
 ---

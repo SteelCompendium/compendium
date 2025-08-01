@@ -12,7 +12,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:return-to-oblivion-11-essence
 scdc:
-  - 1.1.1:6.2.9.2:04
+  - 1.1.1:7.2.9.2:04
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/8th-level-feature
 ---

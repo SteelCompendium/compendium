@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:magnetic-strike
 scdc:
-  - 1.1.1:6.1.6.1:09
+  - 1.1.1:7.1.6.1:09
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

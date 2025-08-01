@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.4th-level-feature:keep-it-down
 scdc:
-  - 1.1.1:6.1.2.10:03
+  - 1.1.1:7.1.2.10:03
 source: mcdm.heroes.v1
 type: feature/trait/shadow/4th-level-feature
 ---

@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.9th-level-feature:i-am-you-11-insight
 scdc:
-  - 1.1.1:6.2.2.7:01
+  - 1.1.1:7.2.2.7:01
 source: mcdm.heroes.v1
 type: feature/ability/shadow/9th-level-feature
 ---

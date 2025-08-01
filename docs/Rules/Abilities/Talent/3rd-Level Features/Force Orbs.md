@@ -12,7 +12,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.talent.3rd-level-feature:force-orbs-7-clarity
 scdc:
-  - 1.1.1:6.2.1.6:01
+  - 1.1.1:7.2.1.6:01
 source: mcdm.heroes.v1
 type: feature/ability/talent/3rd-level-feature
 ---

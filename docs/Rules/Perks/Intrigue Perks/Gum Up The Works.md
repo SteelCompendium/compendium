@@ -6,7 +6,7 @@ item_name: Gum Up The Works
 scc:
   - mcdm.heroes.v1:perk.intrigue:gum-up-the-works
 scdc:
-  - 1.1.1:7.5:04
+  - 1.1.1:8.5:04
 source: mcdm.heroes.v1
 type: perk/intrigue
 ---

@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.4th-level-feature:improved-field-arsenal
 scdc:
-  - 1.1.1:6.1.4.10:02
+  - 1.1.1:7.1.4.10:02
 source: mcdm.heroes.v1
 type: feature/trait/tactician/4th-level-feature
 ---

@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.talent.9th-level-feature:acceleration-field-11-clarity
 scdc:
-  - 1.1.1:6.2.1.7:02
+  - 1.1.1:7.2.1.7:02
 source: mcdm.heroes.v1
 type: feature/ability/talent/9th-level-feature
 ---

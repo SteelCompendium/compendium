@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.talent.6th-level-feature:synaptic-dissipation-9-clarity
 scdc:
-  - 1.1.1:6.2.1.3:02
+  - 1.1.1:7.2.1.3:02
 source: mcdm.heroes.v1
 type: feature/ability/talent/6th-level-feature
 ---

@@ -6,7 +6,7 @@ item_name: Dwarf
 scc:
   - mcdm.heroes.v1:ancestry:dwarf
 scdc:
-  - 1.1.1:4:09
+  - 1.1.1:5:09
 source: mcdm.heroes.v1
 type: ancestry
 ---

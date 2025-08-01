@@ -12,7 +12,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.ability.null.7th-level-feature:expanded-power-3-discipline
 scdc:
-  - 1.1.1:6.2.6.7:01
+  - 1.1.1:7.2.6.7:01
 source: mcdm.heroes.v1
 type: feature/ability/null/7th-level-feature
 ---

@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:commanding-presence
 scdc:
-  - 1.1.1:6.1.4.1:16
+  - 1.1.1:7.1.4.1:16
 source: mcdm.heroes.v1
 type: feature/trait/tactician/1st-level-feature
 ---

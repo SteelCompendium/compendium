@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:slow-5-clarity
 scdc:
-  - 1.1.1:6.2.1.5:06
+  - 1.1.1:7.2.1.5:06
 source: mcdm.heroes.v1
 type: feature/ability/talent/2nd-level-feature
 ---

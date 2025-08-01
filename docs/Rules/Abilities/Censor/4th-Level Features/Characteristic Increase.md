@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.censor.4th-level-feature:characteristic-increase
 scdc:
-  - 1.1.1:6.1.7.10:09
+  - 1.1.1:7.1.7.10:09
 source: mcdm.heroes.v1
 type: feature/trait/censor/4th-level-feature
 ---

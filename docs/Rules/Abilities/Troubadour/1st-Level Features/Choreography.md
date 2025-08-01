@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:choreography
 scdc:
-  - 1.1.1:6.1.3.1:07
+  - 1.1.1:7.1.3.1:07
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/1st-level-feature
 ---

@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:veiling-bed
 scdc:
-  - 1.1.1:6.1.9.10:09
+  - 1.1.1:7.1.9.10:09
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/4th-level-feature
 ---

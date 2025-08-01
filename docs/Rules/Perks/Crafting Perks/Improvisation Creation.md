@@ -6,7 +6,7 @@ item_name: Improvisation Creation
 scc:
   - mcdm.heroes.v1:perk.crafting:improvisation-creation
 scdc:
-  - 1.1.1:7.6:05
+  - 1.1.1:8.6:05
 source: mcdm.heroes.v1
 type: perk/crafting
 ---

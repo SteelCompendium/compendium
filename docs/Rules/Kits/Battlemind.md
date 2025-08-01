@@ -6,7 +6,7 @@ item_name: Battlemind
 scc:
   - mcdm.heroes.v1:kit:battlemind
 scdc:
-  - 1.1.1:5:06
+  - 1.1.1:6:06
 source: mcdm.heroes.v1
 type: kit
 ---

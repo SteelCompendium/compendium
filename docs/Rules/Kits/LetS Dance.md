@@ -6,7 +6,7 @@ item_name: Let'S Dance
 scc:
   - mcdm.heroes.v1:kit:let-s-dance
 scdc:
-  - 1.1.1:5:19
+  - 1.1.1:6:19
 source: mcdm.heroes.v1
 type: kit
 ---

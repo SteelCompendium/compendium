@@ -6,7 +6,7 @@ item_name: Rapid-Fire
 scc:
   - mcdm.heroes.v1:kit:rapid-fire
 scdc:
-  - 1.1.1:5:09
+  - 1.1.1:6:09
 source: mcdm.heroes.v1
 type: kit
 ---

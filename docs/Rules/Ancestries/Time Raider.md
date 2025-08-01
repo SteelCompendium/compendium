@@ -6,7 +6,7 @@ item_name: Time Raider
 scc:
   - mcdm.heroes.v1:ancestry:time-raider
 scdc:
-  - 1.1.1:4:07
+  - 1.1.1:5:07
 source: mcdm.heroes.v1
 type: ancestry
 ---

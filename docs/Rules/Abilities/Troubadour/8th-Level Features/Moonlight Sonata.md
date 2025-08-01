@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:moonlight-sonata
 scdc:
-  - 1.1.1:6.1.3.2:04
+  - 1.1.1:7.1.3.2:04
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/8th-level-feature
 ---
