@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:trail-of-cinders
 scdc:
-  - 1.1.1:10.1.2.5:03
+  - 1.1.1:13.1.2.5:03
 source: mcdm.heroes.v1
 type: feature/trait/shadow/5th-level-feature
 ---

@@ -6,7 +6,7 @@ item_name: Cloak And Dagger
 scc:
   - mcdm.heroes.v1:kit:cloak-and-dagger
 scdc:
-  - 1.1.1:7:11
+  - 1.1.1:9:11
 source: mcdm.heroes.v1
 type: kit
 ---

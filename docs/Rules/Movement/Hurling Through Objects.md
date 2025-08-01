@@ -6,7 +6,7 @@ item_name: Hurling Through Objects
 scc:
   - mcdm.heroes.v1:movement:hurling-through-objects
 scdc:
-  - 1.1.1:8:20
+  - 1.1.1:10:20
 source: mcdm.heroes.v1
 type: movement
 ---

@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.fury.8th-level-feature:a-step-ahead
 scdc:
-  - 1.1.1:10.1.5.2:06
+  - 1.1.1:13.1.5.2:06
 source: mcdm.heroes.v1
 type: feature/trait/fury/8th-level-feature
 ---

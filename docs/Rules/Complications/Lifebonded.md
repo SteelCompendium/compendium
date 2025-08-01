@@ -6,7 +6,7 @@ item_name: Lifebonded
 scc:
   - mcdm.heroes.v1:complication:lifebonded
 scdc:
-  - 1.1.1:5:81
+  - 1.1.1:6:81
 source: mcdm.heroes.v1
 type: complication
 ---

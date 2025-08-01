@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:aura-of-souls-9-piety
 scdc:
-  - 1.1.1:10.2.8.3:07
+  - 1.1.1:13.2.8.3:07
 source: mcdm.heroes.v1
 type: feature/ability/conduit/6th-level-feature
 ---

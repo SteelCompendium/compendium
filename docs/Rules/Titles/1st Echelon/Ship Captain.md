@@ -6,7 +6,7 @@ item_name: Ship Captain
 scc:
   - mcdm.heroes.v1:title.1st-echelon:ship-captain
 scdc:
-  - 1.1.1:11.3:19
+  - 1.1.1:14.3:19
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

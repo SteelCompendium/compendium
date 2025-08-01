@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:perk
 scdc:
-  - 1.1.1:10.1.9.6:01
+  - 1.1.1:13.1.9.6:01
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/2nd-level-feature
 ---

@@ -6,7 +6,7 @@ item_name: Mirage Band
 scc:
   - mcdm.heroes.v1:treasure.trinkets.3rd-echelon:mirage-band
 scdc:
-  - 1.1.1:9.4.3:04
+  - 1.1.1:12.4.3:04
 source: mcdm.heroes.v1
 type: treasure/trinkets/3rd-echelon
 ---

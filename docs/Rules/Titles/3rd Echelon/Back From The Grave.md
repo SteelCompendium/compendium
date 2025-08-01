@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: back-from-the-grave
-item_index: '07'
+item_index: '03'
 item_name: Back From The Grave
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:back-from-the-grave
 scdc:
-  - 1.1.1:11.1:07
+  - 1.1.1:14.1:03
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

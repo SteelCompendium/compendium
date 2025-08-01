@@ -6,7 +6,7 @@ item_name: Sword And Board
 scc:
   - mcdm.heroes.v1:kit:sword-and-board
 scdc:
-  - 1.1.1:7:16
+  - 1.1.1:9:16
 source: mcdm.heroes.v1
 type: kit
 ---

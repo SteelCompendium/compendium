@@ -6,7 +6,7 @@ item_name: Curse Of Stone
 scc:
   - mcdm.heroes.v1:complication:curse-of-stone
 scdc:
-  - 1.1.1:5:30
+  - 1.1.1:6:30
 source: mcdm.heroes.v1
 type: complication
 ---

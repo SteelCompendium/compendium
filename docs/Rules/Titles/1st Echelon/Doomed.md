@@ -6,7 +6,7 @@ item_name: Doomed
 scc:
   - mcdm.heroes.v1:title.1st-echelon:doomed
 scdc:
-  - 1.1.1:11.3:17
+  - 1.1.1:14.3:17
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

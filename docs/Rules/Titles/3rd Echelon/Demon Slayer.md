@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: demon-slayer
-item_index: '17'
+item_index: 09
 item_name: Demon Slayer
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:demon-slayer
 scdc:
-  - 1.1.1:11.1:17
+  - 1.1.1:14.1:09
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

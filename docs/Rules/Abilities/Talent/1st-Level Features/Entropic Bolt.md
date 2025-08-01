@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:entropic-bolt
 scdc:
-  - 1.1.1:10.1.1.1:18
+  - 1.1.1:13.1.1.1:18
 source: mcdm.heroes.v1
 type: feature/trait/talent/1st-level-feature
 ---

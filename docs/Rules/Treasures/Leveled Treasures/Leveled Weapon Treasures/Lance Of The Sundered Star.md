@@ -6,7 +6,7 @@ item_name: Lance Of The Sundered Star
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:lance-of-the-sundered-star
 scdc:
-  - 1.1.1:9.3.1:04
+  - 1.1.1:12.3.1:04
 source: mcdm.heroes.v1
 type: treasure/leveled/weapon
 ---

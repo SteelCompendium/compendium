@@ -6,7 +6,7 @@ item_name: Corrupted Mentor
 scc:
   - mcdm.heroes.v1:complication:corrupted-mentor
 scdc:
-  - 1.1.1:5:95
+  - 1.1.1:6:95
 source: mcdm.heroes.v1
 type: complication
 ---

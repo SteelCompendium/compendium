@@ -6,7 +6,7 @@ item_name: Preacher
 scc:
   - mcdm.heroes.v1:complication:preacher
 scdc:
-  - 1.1.1:5:89
+  - 1.1.1:6:89
 source: mcdm.heroes.v1
 type: complication
 ---

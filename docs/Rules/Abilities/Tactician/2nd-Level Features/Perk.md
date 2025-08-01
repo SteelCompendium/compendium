@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.2nd-level-feature:perk
 scdc:
-  - 1.1.1:10.1.4.6:03
+  - 1.1.1:13.1.4.6:03
 source: mcdm.heroes.v1
 type: feature/trait/tactician/2nd-level-feature
 ---

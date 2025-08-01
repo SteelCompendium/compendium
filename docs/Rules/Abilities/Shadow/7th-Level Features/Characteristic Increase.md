@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.7th-level-feature:characteristic-increase
 scdc:
-  - 1.1.1:10.1.2.9:02
+  - 1.1.1:13.1.2.9:02
 source: mcdm.heroes.v1
 type: feature/trait/shadow/7th-level-feature
 ---

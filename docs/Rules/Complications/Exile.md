@@ -6,7 +6,7 @@ item_name: Exile
 scc:
   - mcdm.heroes.v1:complication:exile
 scdc:
-  - 1.1.1:5:20
+  - 1.1.1:6:20
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -6,7 +6,7 @@ item_name: Secret Identity
 scc:
   - mcdm.heroes.v1:complication:secret-identity
 scdc:
-  - 1.1.1:5:65
+  - 1.1.1:6:65
 source: mcdm.heroes.v1
 type: complication
 ---

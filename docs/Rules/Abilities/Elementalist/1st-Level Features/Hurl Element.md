@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:hurl-element
 scdc:
-  - 1.1.1:10.1.9.1:30
+  - 1.1.1:13.1.9.1:30
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

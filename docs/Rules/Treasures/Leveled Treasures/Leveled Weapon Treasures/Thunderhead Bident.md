@@ -6,7 +6,7 @@ item_name: Thunderhead Bident
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:thunderhead-bident
 scdc:
-  - 1.1.1:9.3.1:09
+  - 1.1.1:12.3.1:09
 source: mcdm.heroes.v1
 type: treasure/leveled/weapon
 ---

@@ -6,7 +6,7 @@ item_name: Master Chef
 scc:
   - mcdm.heroes.v1:complication:master-chef
 scdc:
-  - 1.1.1:5:44
+  - 1.1.1:6:44
 source: mcdm.heroes.v1
 type: complication
 ---

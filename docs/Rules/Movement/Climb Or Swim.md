@@ -6,7 +6,7 @@ item_name: Climb Or Swim
 scc:
   - mcdm.heroes.v1:movement:climb-or-swim
 scdc:
-  - 1.1.1:8:02
+  - 1.1.1:10:02
 source: mcdm.heroes.v1
 type: movement
 ---

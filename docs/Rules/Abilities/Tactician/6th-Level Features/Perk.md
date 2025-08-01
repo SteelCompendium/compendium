@@ -9,7 +9,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.6th-level-feature:perk
 scdc:
-  - 1.1.1:10.1.4.3:01
+  - 1.1.1:13.1.4.3:01
 source: mcdm.heroes.v1
 type: feature/trait/tactician/6th-level-feature
 ---

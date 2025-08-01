@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:shock-and-awe
 scdc:
-  - 1.1.1:10.1.4.9:08
+  - 1.1.1:13.1.4.9:08
 source: mcdm.heroes.v1
 type: feature/trait/tactician/7th-level-feature
 ---

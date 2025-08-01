@@ -6,7 +6,7 @@ item_name: Mirror Token
 scc:
   - mcdm.heroes.v1:treasure.consumable.1st-echelon:mirror-token
 scdc:
-  - 1.1.1:9.2.1:03
+  - 1.1.1:12.2.1:03
 source: mcdm.heroes.v1
 type: treasure/consumable/1st-echelon
 ---

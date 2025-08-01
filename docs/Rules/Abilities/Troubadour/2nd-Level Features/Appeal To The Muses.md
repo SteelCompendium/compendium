@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.2nd-level-feature:appeal-to-the-muses
 scdc:
-  - 1.1.1:10.1.3.6:03
+  - 1.1.1:13.1.3.6:03
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/2nd-level-feature
 ---

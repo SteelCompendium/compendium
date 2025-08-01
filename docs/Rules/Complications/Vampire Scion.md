@@ -6,7 +6,7 @@ item_name: Vampire Scion
 scc:
   - mcdm.heroes.v1:complication:vampire-scion
 scdc:
-  - 1.1.1:5:24
+  - 1.1.1:6:24
 source: mcdm.heroes.v1
 type: complication
 ---

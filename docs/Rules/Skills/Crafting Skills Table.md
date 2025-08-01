@@ -6,7 +6,7 @@ item_name: Crafting Skills Table
 scc:
   - mcdm.heroes.v1:skill:crafting-skills-table
 scdc:
-  - 1.1.1:4:04
+  - 1.1.1:5:04
 source: mcdm.heroes.v1
 type: skill
 ---

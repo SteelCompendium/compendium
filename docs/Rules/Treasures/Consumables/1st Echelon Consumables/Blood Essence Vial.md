@@ -6,7 +6,7 @@ item_name: Blood Essence Vial
 scc:
   - mcdm.heroes.v1:treasure.consumable.1st-echelon:blood-essence-vial
 scdc:
-  - 1.1.1:9.2.1:12
+  - 1.1.1:12.2.1:12
 source: mcdm.heroes.v1
 type: treasure/consumable/1st-echelon
 ---

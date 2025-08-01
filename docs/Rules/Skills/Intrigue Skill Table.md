@@ -6,7 +6,7 @@ item_name: Intrigue Skill Table
 scc:
   - mcdm.heroes.v1:skill:intrigue-skill-table
 scdc:
-  - 1.1.1:4:03
+  - 1.1.1:5:03
 source: mcdm.heroes.v1
 type: skill
 ---

@@ -6,7 +6,7 @@ item_name: Lie Detector
 scc:
   - mcdm.heroes.v1:perk.interpersonal:lie-detector
 scdc:
-  - 1.1.1:12.1:08
+  - 1.1.1:16.1:08
 source: mcdm.heroes.v1
 type: perk/interpersonal
 ---

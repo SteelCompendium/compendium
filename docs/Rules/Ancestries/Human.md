@@ -6,7 +6,7 @@ item_name: Human
 scc:
   - mcdm.heroes.v1:ancestry:human
 scdc:
-  - 1.1.1:6:05
+  - 1.1.1:8:05
 source: mcdm.heroes.v1
 type: ancestry
 ---

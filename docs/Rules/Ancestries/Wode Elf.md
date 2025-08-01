@@ -6,7 +6,7 @@ item_name: Wode Elf
 scc:
   - mcdm.heroes.v1:ancestry:wode-elf
 scdc:
-  - 1.1.1:6:04
+  - 1.1.1:8:04
 source: mcdm.heroes.v1
 type: ancestry
 ---

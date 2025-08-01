@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.4th-level-feature:focus-on-their-weaknesses
 scdc:
-  - 1.1.1:10.1.4.10:01
+  - 1.1.1:13.1.4.10:01
 source: mcdm.heroes.v1
 type: feature/trait/tactician/4th-level-feature
 ---

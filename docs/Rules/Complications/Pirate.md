@@ -6,7 +6,7 @@ item_name: Pirate
 scc:
   - mcdm.heroes.v1:complication:pirate
 scdc:
-  - 1.1.1:5:53
+  - 1.1.1:6:53
 source: mcdm.heroes.v1
 type: complication
 ---

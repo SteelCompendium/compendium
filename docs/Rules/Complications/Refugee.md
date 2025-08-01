@@ -6,7 +6,7 @@ item_name: Refugee
 scc:
   - mcdm.heroes.v1:complication:refugee
 scdc:
-  - 1.1.1:5:92
+  - 1.1.1:6:92
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:encore-5-drama
 scdc:
-  - 1.1.1:10.2.3.5:04
+  - 1.1.1:13.2.3.5:04
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/2nd-level-feature
 ---

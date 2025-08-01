@@ -6,7 +6,7 @@ item_name: Loner
 scc:
   - mcdm.heroes.v1:complication:loner
 scdc:
-  - 1.1.1:5:58
+  - 1.1.1:6:58
 source: mcdm.heroes.v1
 type: complication
 ---

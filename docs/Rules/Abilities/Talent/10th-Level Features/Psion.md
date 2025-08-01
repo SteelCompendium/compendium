@@ -9,7 +9,7 @@ level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.talent.10th-level-feature:psion
 scdc:
-  - 1.1.1:10.1.1.4:05
+  - 1.1.1:13.1.1.4:05
 source: mcdm.heroes.v1
 type: feature/trait/talent/10th-level-feature
 ---

@@ -9,7 +9,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.6th-level-feature:wyrding
 scdc:
-  - 1.1.1:10.1.9.3:01
+  - 1.1.1:13.1.9.3:01
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/6th-level-feature
 ---

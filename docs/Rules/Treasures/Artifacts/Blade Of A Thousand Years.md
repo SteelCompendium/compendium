@@ -6,7 +6,7 @@ item_name: Blade Of A Thousand Years
 scc:
   - mcdm.heroes.v1:treasure.artifact:blade-of-a-thousand-years
 scdc:
-  - 1.1.1:9.1:02
+  - 1.1.1:12.1:02
 source: mcdm.heroes.v1
 type: treasure/artifact
 ---

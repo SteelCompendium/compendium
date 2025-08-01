@@ -6,7 +6,7 @@ item_name: Godsworn
 scc:
   - mcdm.heroes.v1:title.2nd-echelon:godsworn
 scdc:
-  - 1.1.1:11.2:15
+  - 1.1.1:14.2:15
 source: mcdm.heroes.v1
 type: title/2nd-echelon
 ---

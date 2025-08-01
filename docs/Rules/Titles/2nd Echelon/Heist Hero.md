@@ -6,7 +6,7 @@ item_name: Heist Hero
 scc:
   - mcdm.heroes.v1:title.2nd-echelon:heist-hero
 scdc:
-  - 1.1.1:11.2:03
+  - 1.1.1:14.2:03
 source: mcdm.heroes.v1
 type: title/2nd-echelon
 ---

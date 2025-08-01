@@ -6,7 +6,7 @@ item_name: Burrowing Forced Movement
 scc:
   - mcdm.heroes.v1:movement:burrowing-forced-movement
 scdc:
-  - 1.1.1:8:13
+  - 1.1.1:10:13
 source: mcdm.heroes.v1
 type: movement
 ---

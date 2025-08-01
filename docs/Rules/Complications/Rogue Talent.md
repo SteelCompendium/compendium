@@ -6,7 +6,7 @@ item_name: Rogue Talent
 scc:
   - mcdm.heroes.v1:complication:rogue-talent
 scdc:
-  - 1.1.1:5:51
+  - 1.1.1:6:51
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -6,7 +6,7 @@ item_name: Battlefield Commander
 scc:
   - mcdm.heroes.v1:title.2nd-echelon:battlefield-commander
 scdc:
-  - 1.1.1:11.2:11
+  - 1.1.1:14.2:11
 source: mcdm.heroes.v1
 type: title/2nd-echelon
 ---

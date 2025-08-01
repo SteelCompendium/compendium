@@ -6,7 +6,7 @@ item_name: Warrior Priest
 scc:
   - mcdm.heroes.v1:kit:warrior-priest
 scdc:
-  - 1.1.1:7:07
+  - 1.1.1:9:07
 source: mcdm.heroes.v1
 type: kit
 ---

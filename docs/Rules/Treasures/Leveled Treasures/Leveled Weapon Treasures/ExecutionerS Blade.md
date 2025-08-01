@@ -6,7 +6,7 @@ item_name: Executioner'S Blade
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:executioner-s-blade
 scdc:
-  - 1.1.1:9.3.1:08
+  - 1.1.1:12.3.1:08
 source: mcdm.heroes.v1
 type: treasure/leveled/weapon
 ---

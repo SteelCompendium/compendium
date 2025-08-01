@@ -6,7 +6,7 @@ item_name: Brittlebreaker
 scc:
   - mcdm.heroes.v1:treasure.leveled.implement:brittlebreaker
 scdc:
-  - 1.1.1:9.3.3:03
+  - 1.1.1:12.3.3:03
 source: mcdm.heroes.v1
 type: treasure/leveled/implement
 ---

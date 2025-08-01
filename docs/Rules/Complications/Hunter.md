@@ -6,7 +6,7 @@ item_name: Hunter
 scc:
   - mcdm.heroes.v1:complication:hunter
 scdc:
-  - 1.1.1:5:80
+  - 1.1.1:6:80
 source: mcdm.heroes.v1
 type: complication
 ---

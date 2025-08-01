@@ -6,7 +6,7 @@ item_name: Bottled Paradox
 scc:
   - mcdm.heroes.v1:treasure.consumable.3rd-echelon:bottled-paradox
 scdc:
-  - 1.1.1:9.2.2:03
+  - 1.1.1:12.2.2:03
 source: mcdm.heroes.v1
 type: treasure/consumable/3rd-echelon
 ---

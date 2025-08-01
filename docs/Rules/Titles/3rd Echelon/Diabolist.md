@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: diabolist
-item_index: '10'
+item_index: '04'
 item_name: Diabolist
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:diabolist
 scdc:
-  - 1.1.1:11.1:10
+  - 1.1.1:14.1:04
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

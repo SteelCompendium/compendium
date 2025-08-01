@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:rising-tension-11-drama
 scdc:
-  - 1.1.1:10.2.3.7:06
+  - 1.1.1:13.2.3.7:06
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/9th-level-feature
 ---

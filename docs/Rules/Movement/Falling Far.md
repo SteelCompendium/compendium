@@ -6,7 +6,7 @@ item_name: Falling Far
 scc:
   - mcdm.heroes.v1:movement:falling-far
 scdc:
-  - 1.1.1:8:07
+  - 1.1.1:10:07
 source: mcdm.heroes.v1
 type: movement
 ---

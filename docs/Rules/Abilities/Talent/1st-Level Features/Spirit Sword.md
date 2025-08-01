@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:spirit-sword
 scdc:
-  - 1.1.1:10.1.1.1:09
+  - 1.1.1:13.1.1.1:09
 source: mcdm.heroes.v1
 type: feature/trait/talent/1st-level-feature
 ---

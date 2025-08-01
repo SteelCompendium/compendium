@@ -6,7 +6,7 @@ item_name: Crash Landed
 scc:
   - mcdm.heroes.v1:complication:crash-landed
 scdc:
-  - 1.1.1:5:48
+  - 1.1.1:6:48
 source: mcdm.heroes.v1
 type: complication
 ---

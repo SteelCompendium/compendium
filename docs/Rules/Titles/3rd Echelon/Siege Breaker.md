@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: siege-breaker
-item_index: '20'
+item_index: '11'
 item_name: Siege Breaker
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:siege-breaker
 scdc:
-  - 1.1.1:11.1:20
+  - 1.1.1:14.1:11
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

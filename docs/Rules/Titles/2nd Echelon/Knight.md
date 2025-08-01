@@ -6,7 +6,7 @@ item_name: Knight
 scc:
   - mcdm.heroes.v1:title.2nd-echelon:knight
 scdc:
-  - 1.1.1:11.2:02
+  - 1.1.1:14.2:02
 source: mcdm.heroes.v1
 type: title/2nd-echelon
 ---

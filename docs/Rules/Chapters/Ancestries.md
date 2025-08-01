@@ -1,13 +1,13 @@
 ---
-chapter_num: 14
+chapter_num: 15
 file_dpath: Chapters
 item_id: ancestries
-item_index: '14'
+item_index: '15'
 item_name: Ancestries
 scc:
   - mcdm.heroes.v1:chapter:ancestries
 scdc:
-  - 1.1.1:3:14
+  - 1.1.1:3:15
 source: mcdm.heroes.v1
 type: chapter
 ---

@@ -6,7 +6,7 @@ item_name: Targeting Burrowing Creatures
 scc:
   - mcdm.heroes.v1:movement:targeting-burrowing-creatures
 scdc:
-  - 1.1.1:8:14
+  - 1.1.1:10:14
 source: mcdm.heroes.v1
 type: movement
 ---

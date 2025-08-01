@@ -6,7 +6,7 @@ item_name: Abjurer'S Bastion
 scc:
   - mcdm.heroes.v1:treasure.leveled.implement:abjurer-s-bastion
 scdc:
-  - 1.1.1:9.3.3:02
+  - 1.1.1:12.3.3:02
 source: mcdm.heroes.v1
 type: treasure/leveled/implement
 ---

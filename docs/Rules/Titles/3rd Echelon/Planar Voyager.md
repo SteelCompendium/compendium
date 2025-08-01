@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: planar-voyager
-item_index: '15'
+item_index: '07'
 item_name: Planar Voyager
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:planar-voyager
 scdc:
-  - 1.1.1:11.1:15
+  - 1.1.1:14.1:07
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

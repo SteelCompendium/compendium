@@ -6,7 +6,7 @@ item_name: Stripped Of Rank
 scc:
   - mcdm.heroes.v1:complication:stripped-of-rank
 scdc:
-  - 1.1.1:5:69
+  - 1.1.1:6:69
 source: mcdm.heroes.v1
 type: complication
 ---

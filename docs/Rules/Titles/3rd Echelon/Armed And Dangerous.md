@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: armed-and-dangerous
-item_index: '04'
+item_index: '02'
 item_name: Armed And Dangerous
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:armed-and-dangerous
 scdc:
-  - 1.1.1:11.1:04
+  - 1.1.1:14.1:02
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

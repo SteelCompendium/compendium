@@ -6,7 +6,7 @@ item_name: Mediator'S Charm
 scc:
   - mcdm.heroes.v1:treasure.trinkets.2nd-echelon:mediator-s-charm
 scdc:
-  - 1.1.1:9.4.2:06
+  - 1.1.1:12.4.2:06
 source: mcdm.heroes.v1
 type: treasure/trinkets/2nd-echelon
 ---

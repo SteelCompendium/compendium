@@ -2639,7 +2639,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 - *Furious Attack:* Choose one signature ability from the fury class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend ferocity, you can't do so unless you have the Ferocity class feature.
 - *Furious Charge:* When you use the Charge action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the charge.
 
-## 3rd-Echelon Titles
+### 3rd-Echelon Titles
 
 Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 

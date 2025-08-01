@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.censor.8th-level-feature:their-past-revealed
 scdc:
-  - 1.1.1:10.1.7.2:05
+  - 1.1.1:13.1.7.2:05
 source: mcdm.heroes.v1
 type: feature/trait/censor/8th-level-feature
 ---

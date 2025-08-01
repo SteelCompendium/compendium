@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:violence-will-not-aid-thee-3-piety
 scdc:
-  - 1.1.1:10.2.8.1:06
+  - 1.1.1:13.2.8.1:06
 source: mcdm.heroes.v1
 type: feature/ability/conduit/1st-level-feature
 ---

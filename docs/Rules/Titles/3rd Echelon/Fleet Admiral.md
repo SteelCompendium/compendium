@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: fleet-admiral
-item_index: '23'
+item_index: '13'
 item_name: Fleet Admiral
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:fleet-admiral
 scdc:
-  - 1.1.1:11.1:23
+  - 1.1.1:14.1:13
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

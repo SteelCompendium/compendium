@@ -6,7 +6,7 @@ item_name: Hover
 scc:
   - mcdm.heroes.v1:movement:hover
 scdc:
-  - 1.1.1:8:10
+  - 1.1.1:10:10
 source: mcdm.heroes.v1
 type: movement
 ---

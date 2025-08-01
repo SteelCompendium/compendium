@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:5th-level-elemental-specialization-features-table
 scdc:
-  - 1.1.1:10.1.9.5:06
+  - 1.1.1:13.1.9.5:06
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/5th-level-feature
 ---

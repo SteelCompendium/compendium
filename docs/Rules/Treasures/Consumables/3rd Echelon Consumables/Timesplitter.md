@@ -6,7 +6,7 @@ item_name: Timesplitter
 scc:
   - mcdm.heroes.v1:treasure.consumable.3rd-echelon:timesplitter
 scdc:
-  - 1.1.1:9.2.2:07
+  - 1.1.1:12.2.2:07
 source: mcdm.heroes.v1
 type: treasure/consumable/3rd-echelon
 ---

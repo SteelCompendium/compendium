@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:your-entrails-are-your-extrails-3-ferocity
 scdc:
-  - 1.1.1:10.2.5.1:02
+  - 1.1.1:13.2.5.1:02
 source: mcdm.heroes.v1
 type: feature/ability/fury/1st-level-feature
 ---

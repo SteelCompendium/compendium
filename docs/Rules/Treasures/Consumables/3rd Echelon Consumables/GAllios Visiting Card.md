@@ -6,7 +6,7 @@ item_name: G'Allios Visiting Card
 scc:
   - mcdm.heroes.v1:treasure.consumable.3rd-echelon:gallios-visiting-card
 scdc:
-  - 1.1.1:9.2.2:02
+  - 1.1.1:12.2.2:02
 source: mcdm.heroes.v1
 type: treasure/consumable/3rd-echelon
 ---

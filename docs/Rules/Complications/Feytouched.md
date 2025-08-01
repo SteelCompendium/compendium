@@ -6,7 +6,7 @@ item_name: Feytouched
 scc:
   - mcdm.heroes.v1:complication:feytouched
 scdc:
-  - 1.1.1:5:54
+  - 1.1.1:6:54
 source: mcdm.heroes.v1
 type: complication
 ---

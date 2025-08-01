@@ -6,7 +6,7 @@ item_name: Thrill Seeker
 scc:
   - mcdm.heroes.v1:complication:thrill-seeker
 scdc:
-  - 1.1.1:5:04
+  - 1.1.1:6:04
 source: mcdm.heroes.v1
 type: complication
 ---

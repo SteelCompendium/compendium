@@ -9,7 +9,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.trait.talent.3rd-level-feature:scan
 scdc:
-  - 1.1.1:10.1.1.7:01
+  - 1.1.1:13.1.1.7:01
 source: mcdm.heroes.v1
 type: feature/trait/talent/3rd-level-feature
 ---

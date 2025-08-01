@@ -6,7 +6,7 @@ item_name: Ranger
 scc:
   - mcdm.heroes.v1:kit:ranger
 scdc:
-  - 1.1.1:7:02
+  - 1.1.1:9:02
 source: mcdm.heroes.v1
 type: kit
 ---

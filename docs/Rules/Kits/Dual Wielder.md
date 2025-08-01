@@ -6,7 +6,7 @@ item_name: Dual Wielder
 scc:
   - mcdm.heroes.v1:kit:dual-wielder
 scdc:
-  - 1.1.1:7:10
+  - 1.1.1:9:10
 source: mcdm.heroes.v1
 type: kit
 ---

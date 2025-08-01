@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:windwalk
 scdc:
-  - 1.1.1:10.1.8.10:17
+  - 1.1.1:13.1.8.10:17
 source: mcdm.heroes.v1
 type: feature/trait/conduit/4th-level-feature
 ---

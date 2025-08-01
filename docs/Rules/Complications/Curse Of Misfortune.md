@@ -6,7 +6,7 @@ item_name: Curse Of Misfortune
 scc:
   - mcdm.heroes.v1:complication:curse-of-misfortune
 scdc:
-  - 1.1.1:5:64
+  - 1.1.1:6:64
 source: mcdm.heroes.v1
 type: complication
 ---

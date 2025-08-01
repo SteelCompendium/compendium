@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:phase-inversion-strike
 scdc:
-  - 1.1.1:10.1.6.1:08
+  - 1.1.1:13.1.6.1:08
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

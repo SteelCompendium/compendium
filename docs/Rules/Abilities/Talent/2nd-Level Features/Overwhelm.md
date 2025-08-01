@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:overwhelm-5-clarity
 scdc:
-  - 1.1.1:10.2.1.5:01
+  - 1.1.1:13.2.1.5:01
 source: mcdm.heroes.v1
 type: feature/ability/talent/2nd-level-feature
 ---

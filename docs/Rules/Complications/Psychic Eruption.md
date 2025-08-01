@@ -6,7 +6,7 @@ item_name: Psychic Eruption
 scc:
   - mcdm.heroes.v1:complication:psychic-eruption
 scdc:
-  - 1.1.1:5:97
+  - 1.1.1:6:97
 source: mcdm.heroes.v1
 type: complication
 ---

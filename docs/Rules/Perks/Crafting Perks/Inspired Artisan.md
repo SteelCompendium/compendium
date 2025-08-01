@@ -6,7 +6,7 @@ item_name: Inspired Artisan
 scc:
   - mcdm.heroes.v1:perk.crafting:inspired-artisan
 scdc:
-  - 1.1.1:12.6:06
+  - 1.1.1:16.6:06
 source: mcdm.heroes.v1
 type: perk/crafting
 ---

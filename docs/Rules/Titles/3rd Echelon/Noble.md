@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: noble
-item_index: '11'
+item_index: '05'
 item_name: Noble
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:noble
 scdc:
-  - 1.1.1:11.1:11
+  - 1.1.1:14.1:05
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

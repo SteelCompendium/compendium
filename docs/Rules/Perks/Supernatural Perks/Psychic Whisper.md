@@ -6,7 +6,7 @@ item_name: Psychic Whisper
 scc:
   - mcdm.heroes.v1:perk.supernatural:psychic-whisper
 scdc:
-  - 1.1.1:12.4:06
+  - 1.1.1:16.4:06
 source: mcdm.heroes.v1
 type: perk/supernatural
 ---

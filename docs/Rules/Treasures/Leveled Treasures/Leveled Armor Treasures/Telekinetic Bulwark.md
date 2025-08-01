@@ -6,7 +6,7 @@ item_name: Telekinetic Bulwark
 scc:
   - mcdm.heroes.v1:treasure.leveled.armor:telekinetic-bulwark
 scdc:
-  - 1.1.1:9.3.4:04
+  - 1.1.1:12.3.4:04
 source: mcdm.heroes.v1
 type: treasure/leveled/armor
 ---

@@ -6,7 +6,7 @@ item_name: Specialist
 scc:
   - mcdm.heroes.v1:perk.lore:specialist
 scdc:
-  - 1.1.1:12.2:03
+  - 1.1.1:16.2:03
 source: mcdm.heroes.v1
 type: perk/lore
 ---

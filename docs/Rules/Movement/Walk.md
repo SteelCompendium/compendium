@@ -6,7 +6,7 @@ item_name: Walk
 scc:
   - mcdm.heroes.v1:movement:walk
 scdc:
-  - 1.1.1:8:18
+  - 1.1.1:10:18
 source: mcdm.heroes.v1
 type: movement
 ---

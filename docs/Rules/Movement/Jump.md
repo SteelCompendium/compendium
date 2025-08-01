@@ -6,7 +6,7 @@ item_name: Jump
 scc:
   - mcdm.heroes.v1:movement:jump
 scdc:
-  - 1.1.1:8:17
+  - 1.1.1:10:17
 source: mcdm.heroes.v1
 type: movement
 ---

@@ -6,7 +6,7 @@ item_name: Disgraced
 scc:
   - mcdm.heroes.v1:complication:disgraced
 scdc:
-  - 1.1.1:5:22
+  - 1.1.1:6:22
 source: mcdm.heroes.v1
 type: complication
 ---

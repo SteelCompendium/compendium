@@ -24351,7 +24351,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 - *Furious Attack:* Choose one signature ability from the fury class. You gain that ability regardless of whether your class and subclass allow you to take it. If this ability allows you to gain or spend ferocity, you can't do so unless you have the Ferocity class feature.
 - *Furious Charge:* When you use the Charge action, your strike made as part of that action gains a damage bonus equal to the number of squares you moved as part of the charge.
 
-## 3rd-Echelon Titles
+### 3rd-Echelon Titles
 
 Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
@@ -24759,3 +24759,2386 @@ As an optional rule, the Director can allow a hero to make a purchase that is on
 | 4     | Library; tavern; manor home; sailing boat                                                                                             |
 | 5     | Church; keep; wizard tower                                                                                                            |
 | 6     | Castle; shipyard                                                                                                                      |
+
+# Gods and Religion
+
+Orden is a fantasy world in which the gods are objectively real. In spite of this the people of Orden, regardless of ancestry, do not believe the gods control everything that happens in the world. They believe the gods created a natural world with its own cycles that are sometimes predictable, but which cannot be understood. It rained last Lyleth, and the Lyleth before that, so it'll probably rain this Lyleth—but maybe not! And if not, that may be because the gods are displeased. But it might just as easily be because the gods are bored, or fickle or—even more likely, it has nothing to do with the gods, and there's no way to know which.
+
+When a river floods or crops fail, some people may curse the gods, but those people do not all believe a god caused these events. They may curse simply because the gods didn't prevent catastrophe. They do not think, "Why did the gods do that?" They think, "Why did the gods make a world that behaves like this?"
+
+The gods are powerful, but forbidden from acting directly upon or within the world. To enact their will, they use intermediaries—beings of demigod-like status, once mortals, who now serve their patron god in eternity. Many humans call these beings saints, while the other speaking peoples use the term heroes, or legendary heroes, not to be confused with the heroes you make using the character creation rules in this book.
+
+Each god has many saints, some obscure. They sometimes manifest in the world. These encounters are always brief, leading sages and theologians to conclude there must be some limit to how much time or energy these saints and legendary heroes can spend on the prime manifold. Who created or enforces these limits?
+
+No one knows.
+
+As a result of this complex tapestry of belief and personalities, a farmer in Aendrim might call upon Adûn for strength while tilling the earth. But if a cool breeze suddenly came along, easing the bite of the sun on their back, they would almost certainly not thank Adûn or any of his saints. They would probably thank Saint Elspeth the Blithe, sometimes called the Summer Breeze. If they had a neighbor or relative with a shrine to Saint Elspeth in their home, they might give that person a small gift or offering and ask them to place it on their shrine. More likely, they would silently promise to do this, and then forget or get distracted.
+
+If questioned about this—"Why did you call upon one god, but thank the saint of a completely different god?"—they would first be surprised by the question. It would not have occurred to them to examine this behavior. If pressed they would say, "Oh, I'm sure they worked it out between them." They would not imagine, "Adûn told Viras, who told her saint, Elspeth, to send a cooling breeze," but they would assume
+
+something like that happened and not worry overmuch about the details. They called out, they received aid—that's what's important.
+
+If no aid is forthcoming folks assume this is because the gods and saints are all very busy and cannot be arsed to answer every prayer. People are never surprised when the gods and saints are silent. They are usually silent.
+
+### Churches and Temples
+
+Most religions in Orden organize themselves into hierarchies and build temples or cathedrals, but some religions are little more than traditions handed down from shaman to shaman, or wise-woman to wise-daughter. Some religions are secret!
+
+Because the gods are forbidden from acting directly upon the world, churches and temples in Orden are consecrated to saints, or heroes. There are no temples to Ord or churches of Cavall. Instead, there is the Church of Zarok the Law-Giver and the Church of Saint Llewellyn the Valiant. Everyone knows which god these heroes and saints serve, it's common knowledge. A human in Vasloria might call out to Cavall for aid in times of need but they know that, should Cavall choose to help, it will be by sending one of his saints.
+
+The most popular saints and heroes can have several churches meaning distinct organizations—devoted to them, each with their own rituals. In Corwell, there is the Church of Saint Llewellyn the Valiant, but there is also the smaller Church of Saint Llewellyn the Charitable with only a few temples.
+
+Usually, these churches recognize each other as expressing different, equally valid teachings of the same saint, but occasionally churches compete to see which among them is the "true" church. The saints don't discourage this, so they must, in some sense, approve.
+
+There are churches dedicated to nature or knowledge or the sun, with no clear moral or ethical component to them. There are evil churches, churches devoted to dark saints and tyrant gods. But the saints and heroes listed here each have churches that, however esoteric their teachings (usually referred to as the "speech" or "words" of the saint or hero) expect their clergy to go forth into the world and perform good deeds—tend to the sick, ease pain, perform birth, death, and union rituals. These churches all have acolytes and abbots, censors and conduits. It is not so much that Grole the One-Handed was, in life, principally concerned with the spiritual wellbeing of his *people*, but rather that this is what people expect of *churches*. So, as a religion grows, it soon conforms to the expectations of the people such that even the church of Khorvath Who Slew A Thousand has conduits who heal the sick and tend to the souls of their people.
+
+> **How To Use This Chapter**
+>
+> *Draw Steel* isn't about religion any more than it is about language or treasure, but understanding how religion works in a day-to-day sense can help make the game world feel more real. The people in Orden aren't any more religious than the people of Earth were in the premodern era. It is a factor in their lives, but not the only factor—and for some people, not a very important one.
+>
+> Obviously, conduit and censor players can use this chapter to choose a saint, each saint's entry also lists which domains they represent. But each god also has a list of domains, so an enterprising player could just invent a new saint, hero, or herald choosing two domains from a god's list.
+>
+> But any player might wonder, "Does my character follow the teachings of any saint or god?" Think about the people you know in the real world who wear religious or quasi-religious talismans every day. A symbol on a necklace, a sticker on their car, a tattoo. Normal people often carry religious talismans, your character in *Draw Steel* might not be particularly religious, but they might still carry a religious talisman just because it's a family tradition or to remind themselves of the religious instruction they received in church as a child.
+>
+> We wrote a lot of words in this chapter because we wanted to give characters from all ancestries a few choices when it comes to saints and heroes. But your character can ignore all of this if you think religion isn't a big part of their life.
+
+### Interspecies Worship
+
+Elves, dwarves, and orcs revere their own creator gods. Val, Ord, and Kul respectively. Humans, uniquely, worship many gods. The difference between the Innumerable Younger Gods of the humans and the Elder Gods who created the other speaking peoples is not well understood.
+
+Dwarves mostly venerate dwarf heroes, humans mostly worship human saints, and so on … But this is just a side effect of the fact that members of the same ancestry share the same culture and language and self-assemble along those lines. Any sufficiently large city, regardless of which species founded it, has churches and temples to gods of many species because cities attract people of many different species.
+
+Each culture's pantheon reflects the mores and folkways of the people who live there. In far northern Vanigar, villains in folktales often gain their power by tricking others through clever wordplay. Riddles. Though they are villains, they are clever, and this earns them some respect even from their enemies. So the Vanigar pantheon includes Holkatya, a trickster god.
+
+Whereas Vasloria has no folk tradition of trickster figures, and so has no trickster god. Instead, villains in Vaslorian folktales tend to be people who seek quick ways to power in order to avoid honest work. So Vasloria has the dark god Cyrvis who teaches that magic can subvert fate and make you master of not only your destiny, but also the world. This also reveals the common Vaslorian's attitude toward magic.
+
+The gods of each pantheon tell you what the people of that region value, and what they fear, disapprove of, or distrust. The Vaslorian pantheon is wholly different from the pantheon of Vanigar which is different from the pantheon of Rioja. The gods and saints can hear their worshippers anywhere in the timescape and even small cities can have temples to distant gods of other peoples and regions. All it takes is one dedicated conduit to establish a church of their saint or hero in some distant land.
+
+For instance, the High City of Dalrath, a small barony in northern Aendrim, has a temple to Sektahre the Boatman, a saint of Khemhara, a distant desert region. The people of Dalrath do not find this strange. The priestess of Sektahre does all the same things any native curate would do: perform rituals, heal the sick, and otherwise tend to the spiritual and physical wellbeing of the locals without asking much in return. Some people may be suspicious of a stranger peddling their religion far from home, but yet more people consider the presence of such a priestess a sign that their city must be very important indeed.
+
+Because of all these gods and saints, religion in Orden is a very à la carte affair. There are human heroes in the elf pantheon. There are dwarf saints in many human pantheons. Elder or younger, the gods do not care much about their followers' biology. If you devote your life to the teachings of a god and do good works in their name, you can expect to be rewarded regardless of your ancestry. And, though the Age of Saints is long past, most folk believe it is still possible for a mortal to ascend to sainthood or herodom, even in this late age.
+
+Lastly, though rulers across the land instinctively believe the gods are paying more attention to them because they are queens or dukes or the heads of a powerful wizard order or guild … there is no evidence of this. As far as theologists can tell, the gods seem to view every soul as equally worthy. Many of the tales of saints and heroes feature characters of enormous divine power battling over the soul of a normal person with no station or power or inheritance.
+
+As much as it annoys the great and the good, the gods view all mortals as equals.
+
+### Evil Gods and Saints
+
+The gods and saints presented in this chapter are popular and well-known. Their priests, shamans, or god-callers serve the public weal and tend to the souls of the people.
+
+But the world is not for heroes alone. There are villains, as well as those who are simply misguided or desperate. Every pantheon has saints, even gods, who teach the virtues of selfishness, cruelty, the pursuit of power for its own sake, and the right of the strong to do as they please.
+
+These religions do not usually build public temples and worship in the open, but most communities know, or very strongly suspect, who among them serve evil gods and saints.
+
+Among the people of Vasloria, there are the gods Nikros the Tyrant and Cyrvis the Lich, evil gods, each with their own saints. When tyrants rule, these religions tend to come out from the basements and sewer-temples and start worshipping openly.
+
+### Afterlife in Orden
+
+Folk in Orden believe that most, maybe all, living things have a soul, which is the source of personality, creativity, and memory. The loss of one's soul, either through bargaining with a devil, or being consumed by a demon or otherwise trapped by a warlock, results in slowly losing your personality, your distinctiveness—even memory.
+
+However, there is no popular idea that everyone's soul is immortal and persists forever after death. Most people believe their soul dissipates after death and becomes one with creation. When asked where the soul goes after death, the elf sage responded by blowing out a candle and asking, "Where did the fire go?"
+
+In some cultures, exceptions are made for those mortals who lived an especially virtuous life.
+
+Much the same way the humans of Vanigar believe the bravest among them live on after death drinking and telling tales at the vigbordh—the wartable—most elves believe that should they live a life of sufficient meaning, should they do great deeds and embody Val's ethos, they earn the right to join Val in Arcadia after death. There they will live in a timeless faerie world, "the world that should have been."
+
+Most dwarves believe that those members of each generation who best distinguish themselves earn the right to live forever in Ord's memory. This, they believe, is where their heroes go after death. Uniquely among the speaking peoples, the dwarves believe their god is watching them, watching the world. Ord cannot act, but he judges and remembers.
+
+Some people in Orden, like the hakaan and the orcs believe their ancestors watch over them, although there is no agreement whether their ancestor's souls are watching over them, or just their memory. Or something in between. Sages differ. This belief among the orcs and hakaan is more of an attitude, an assumption, than a religion.
+
+### Conduits and Censors
+
+"Conduit" and "censor" are not a titles within any church—they are jobs or ranks. An abbot, rector, even a bishop may be, or may have been, a conduit or a censor. Conduits and censors are those members of the church expected to go out into the world and actively, sometimes very actively, represent their saint's ethos. It is for this purpose conduits and censors are given access to powerful prayers.
+
+Any sufficiently large organization has conduits and censors just like they have shadows and wizards. The thieves' guild needs healers, just as the church needs spies! A conduit who works for the thieves' guild still serves their saint which implicitly means the church approves of the guild's activities and the two organizations are at least pointing in the same direction if not actively allied.
+
+Churches have bureaucracy just like any organization and while some prelates, abbots, bishops, or hierarchs are conduits, many are not. They are normal people who serve the church in administrative, political, or bureaucratic roles. While they know the same minor orisons every acolyte and abbot know, they do not go out into the world righting wrongs, and so do not gain access to the powers of the conduit or censor.
+
+The prayers acolytes perform in churches are little more than magical rituals. They say the right words, make the right gestures, touch the appropriate fetish or talisman, and wounds close, curses are lifted, blessings bestowed. There's no direct connection in these examples between the acolyte and their god or saint. Though, even a lowly acolyte can expect to find their prayers fall on deaf ears if they fail to uphold the tenets of their faith.
+
+Should the acolyte continue in their studies and deeds and earn the rank of conduit or censor, they gain access to greater prayers granted them by their saint. As they advance in their faith they call upon their saint more directly, and they begin to form a personal relationship with their saint. It is a feeling that develops whereby the conduit learns the … mood, for lack of a better term, of their saint or hero.
+
+As they gain experience, a conduit or censor may even enter into dialogue with their saint. When they call upon their saint for power in battle, their saint personally answers them. They might literally be on first-name terms. At even higher levels, conduits begin to get a sense of the greater power behind the saint or legendary hero: their god, who begins answering prayers directly. They become, in effect, little mini-saints. The pathway from high-level conduit or censor to saint is now obscure, but was once well-known. In earlier ages of the world, it was expected that certain holy heroes who had served their god and saint well would—should appropriately dramatic circumstances reveal themselves—be elevated to sainthood.
+
+The Deities and Domains table and the Saints and Domains table summarize each of the gods and saints mentioned in this chapter and their available domains.
+
+###### Deities and Domains Table
+
+| Deity                   | Domains                                       |
+| ----------------------- | --------------------------------------------- |
+| Adûn                    | Creation, Life, Love, Protection              |
+| Cavall                  | Life, Love, Protection, War                   |
+| Cyrvis                  | Death, Fate, Knowledge, Trickery              |
+| Kul                     | Knowledge, Life, Sun, Trickery, War           |
+| Nebular the Star Mother | Creation, Life, Love, Sun                     |
+| Nikros                  | Death, Fate, Storm, War                       |
+| Ord                     | Creation, Knowledge, Protection, Sun, War     |
+| OV the Wave Pilot       | Fate, Knowledge, Storm, Sun                   |
+| Salorna                 | Life, Nature, Storm, Sun                      |
+| Val                     | Creation, Knowledge, Life, Nature, Protection |
+
+###### Saints and Domains Table
+
+| Saint                              | Domains                       |
+| ---------------------------------- | ----------------------------- |
+| Atossa the Shepherd                | Fate, Protection, Trickery    |
+| Cho'kassa the Time Rider           | Storm, Sun                    |
+| Draighen the Warden                | Nature, Sun                   |
+| Eriarwen the Wroth                 | Nature, Storm                 |
+| Eseld the Eye                      | Knowledge, Trickery           |
+| Gaed the Confessor                 | Love, Protection              |
+| Grole the One-Handed               | Life, War                     |
+| Gryffyn the Stout                  | Creation, Life                |
+| Gwenllian the Fell-Handed          | Protection, War               |
+| Illwyv li Orchiax                  | Nature, Protection            |
+| Khorvath Who Slew a Thousand       | Sun, War                      |
+| Khravila Who Ran Forty Leagues     | Knowledge, Trickery           |
+| Kyruyalka the False Principle      | Death, Trickery               |
+| Lady Magnetar                      | Life, Sun                     |
+| Llewellyn the Valiant              | Life, Protection              |
+| Mahsiti the Weaver                 | Creation, Knowledge, Trickery |
+| Pentalion the Paladin              | Death, War                    |
+| Prexaspes the Stargazer            | Nature, Protection, Sun       |
+| Ripples of Honey on a Golden Shore | Life, Protection              |
+| A Sea of Suns                      | Creation, Life                |
+| Stakros the Engineer               | Creation, Knowledge           |
+| The Taste of Morning               | Creation, Knowledge           |
+| Thellasko the Great Designer       | Knowledge, War                |
+| Thyll Hylacae                      | Life, Nature                  |
+| Uryal the Subtle                   | Knowledge, Trickery           |
+| Valak-koth the Seeker              | Knowledge, Sun                |
+| Yllin Dyrvis                       | Knowledge, Nature             |
+| Zarok the Law-Giver                | Protection, War               |
+
+### Val
+
+**Domains:** Creation, Knowledge, Life, Nature, Protection
+
+Val, the Noble Lord, First Among Equals, is the patron of the elves. He created the celestials—the true elves, second of the five speaking peoples—who then created the younger elves: the high, wode, and shadow elves. His name is the root of the Caelian word "valiant," and the dwarves named the most precious ore in Orden—Valiar, the truemetal—after him.
+
+Val holds that the greatest purpose a thinking being can commit themselves to is the creation of art and the appreciation of beauty. He keeps the magical, elf-haunted forests called wodes close to his heart because they represent his vision for Orden. What the world could have been. His growing disgust with the concept of war led him to leave Orden and take up residence in his private manifold, *Arcadia* where all elves hope to someday join their patron.
+
+#### Heroes of the Elves
+
+The legendary heroes of the elves are once-mortal heroes who now dwell in Arcadia and make up Val's court there. They answer prayers and dispense blessings and boons, even manifest in the world during times of great need. (Though, like all the speaking people's saints and heroes, what these legendary figures consider "great need" is very personal and has little to do with politics or great kingdoms.)
+
+The high elf heroes detailed in this book are A Sea of Suns, the Taste of Morning, and Ripples of Honey on a Shore of Gold. The wode elf heroes are Yllin Dyrvis, Thyll Hylacae, and Illwyv li Orchiax.
+
+##### A Sea of Suns
+
+**Domains:** Creation, Life
+
+A Sea of Suns, also known as the Composer.
+
+Credited with inventing harmony, it is said that after she discovered the power of blending many voices into one, the elves sang for an entire century uninterrupted1. The harmonics so complicated they created new beings like faeries, dryads, and the elgenwights.
+
+The Composer discovered, or invented, the power of music to manipulate reality. Her troubadours, it was said, could return the dead to life. "In the music, you can live forever." Legend has it she was at the battle of Kalas Valiar when the first Army of Night besieged its walls. When their corruption engines weakened the impenetrable walls, she stood alone on the parapets and sang. For forty days did her voice bolster the walls, stemming the flood of evil. Her song ended only when her life was taken by A Heart Trapped in Amber, the sorcerer-assassin of the star elves.
+
+_1. If this story wasn't invented by the dwarves or humans, it must at least have passed through one of their cultures. The celestials did not reckon time the way younger species do and would not have said "for an entire century."_
+
+##### The Taste of Morning
+
+**Domains:** Creation, Knowledge
+
+The Taste of Morning, also known as the Librarian.
+
+Credited with building the first library, most scholars consider this a real, historical event (never a certainty with the tales of the legendary heroes) and adventurers through all ages have sought this legendary building. If, indeed, it was a building.
+
+He canonized the idea that knowledge, truth, was a kind of beauty. The Library of Morning was a temple to thought, wisdom, scholarship. It contained plays, poems, histories, treatises on the nature of reality. The knowledge held within was incalculable. Legends say it held codices written by the elder dragons, though modern scholars suspect this is a literary conceit, as there is no evidence the elder dragons bothered with writing.
+
+##### Ripples of Honey on a Shore of Gold
+
+**Domains:** Life, Protection
+
+Ripples of Honey on a Shore of Gold, also known as Warkiller, the Diplomat, was both scholar, sage, and soldier. She served as emissary between the humans and the dragons when the former sought war against the latter. For many years she brokered peace, but she could not stem the tides of war forever.
+
+In the end, her efforts failed, and the elder dragons live no more in this world. Like Val, the Diplomat hated war so much, after her failure she sought to pen a new codex. A work so powerful it would bind the world. The Codex Pax Universalis would banish the concept of war from Orden. Alas, in the end she realized there was only one way to finish her great work, and she was not willing to take that final step.
+
+##### Yllin Dyrvis
+
+**Domains:** Knowledge, Nature
+
+Yllin Dyrvis, also known as the Beast Heart, the Wodespeaker, the Warden, witnessed the Composer's first song, and took it upon themselves to communicate with and care for the speaking creatures A Sea of Suns created. The dryads, elgenwights, the giant birds and intelligent fish who populated the ancient wode that once covered all Orden, all came under the Beast Heart's care. Dyrvis learned their speech and taught them who they were.
+
+To this day, many ages of the world later, the wode elves consider themselves the stewards of the speaking creatures, and those creatures rely upon the wode elves for protection.
+
+##### Thyll Hylacae
+
+**Domains:** Life, Nature
+
+Thyll Hylacae, the Forestal, Apothachron, also known as the Sacrifice. Thyll spoke to the plants, learned their truths—discovered many magics hidden within. The power to heal, harm, change. It was Hylacae who first sensed, then learned, the language of trees. She studied, cared for them, and protected them when the folk of farm and field came to cut them down.
+
+Though she was mighty in warlore, she could not be everywhere. In the end, she sacrificed herself for the trees, the ritual she performed uplifted a small population of trees, creating the derwic—the thinking speaking tree-peoples few of whom remain in Orden.
+
+##### Illwyv li Orchiax
+
+**Domains:** Nature, Protection
+
+Illwyv li Orchiax, the Moonknight, Marshall of the Gloaming, Manslayer. When humans first arrived in Orden—it is said—they were welcomed by the other speaking peoples. But they were unlike the other creations in the world. While the dwarves cut rock for the ore within, humans cut down trees simply because they were in the way. Other ancestries had their own territories and homelands, but humans sought constant expansion into even the most inhospitable territories.
+
+Illwyv it was who first realized the folly of treating with these creatures. A great hunter of the Quercus Court, she gathered her band of elite Helriath Harriers and made war on the humans who would kill the wode.
+
+### Ord
+
+**Domains:** Creation, Knowledge, Protection, Sun, War
+
+Ord, the Maker, the Engineer, is the patron of the dwarves. Ord, along with his siblings Aan, Eth, and Kul, created Orden. These four saw the world as a dynamic expression of their philosophies.
+
+Ord values integrity, honor, faithfulness to an ideal. Courage in battle and fair play. Treating your opponent honorably, Ord teaches, is an expression of your own worthiness. Ord is associated with permanence, which some elder dwarves take to mean a kind of slavish devotion to tradition. But Ord teaches permanence is the quality of reliability, of steadfastness. Young dwarves who chafe at the stale and stifling traditions of their elders remind the greybeards that Ord is the Maker. He expects his children to create marvels, to bring forth new discoveries, new insights. To remake the world anew each generation.
+
+#### Heroes of the Dwarves
+
+The following heroes are venerated by many dwarves and others who follow Ord.
+
+##### Zarok the Law-Giver
+
+**Domains:** Protection, War
+
+Zarok the Law-Giver. Zarok the Teacher. Zarok who is Justice.
+
+The first, great hero of the dwarves, Zarok was a noted general, diplomat, and poet. In his time each dwarf city-state had its own laws which were mostly just lists of offenses with punishments listed next to them. There was no consistency from one city to another and no underlying theory of law. The strong ruled, the rest obeyed.
+
+It was after Zarok retired from his career as a warmaster and became the ambassador to the elves that he undertook a study of how different cultures express the idea of justice. He surveyed the various traditions of elves, humans, and orcs and wrote *The Conversations*—a series of fictional dialogues in which two characters, deliberately chosen from dwarf theater so as to be familiar to his audience, debate the question: "What are the characteristics of a just society?"
+
+*The Conversations* marks the beginning of legal theory in Orden. It sought not only to state what a just society was, but to prove it ethically through a series of logical statements. Most of the work concerns itself with the proper, ethical uses of political power. The adversarial system of legal representation is his.
+
+Zarok teaches that all people should be equal under the law. His is the principle of fair play—sportsmanship. Respect for your adversary. The responsibility of the strong to protect the weak.
+
+Zarok's *The Conversations* are still quoted today. There is a long legal tradition, when a prestigious lawyer in Capital wishes to write an amicus brief without revealing their identity, they sign it "Z."
+
+##### Valak-koth the Seeker
+
+**Domains:** Knowledge, Sun
+
+Valak-koth the Seeker, the Delver, the Unquenchable Fire, Koth Who Brought Light to Darkness, said she heard voices in the rock as a child. These days this would result in a visit to the apothecary or a change in diet, but in those days the world was young and a child who heard voices might turn out to be a prophet of Ord. Her parents listened and soon none doubted.
+
+She would run, heedless of danger, into the dark caves below and wherever she pointed, marvels were found: metals, gems, fantastic ores. Caves as big as nations. It was Valak-koth it was who first discovered aerithyst, the Sungem, a crystal mineral which glows upon contact with living things.
+
+Valak-koth teaches bravery in the face of the unknown, the virtue of curiosity, to seek endlessly and quest for knowledge, not to fear the darkness. To bring light into dark places. Valak-koth it was who first discovered the World Below, the Dark Under All, though it was not recognized as a separate manifold until after her death. After her death, the original Sungem she found refused to dim. It was enshrined in her temple-tomb, now lost along with the ancient stone dwarf city of Kas Koriar.
+
+##### Stakros the Engineer
+
+**Domains:** Creation, Knowledge
+
+Stakros the Engineer, the Machine Mind, the Operator, founder of the Order of Fabrication.
+
+Stakros it was—*not* a steel dwarf—who forged the first strife-engine, a great war-walker manned by thirty dwarves. At the battle of Kalas Mithral, the war-walker grappled with the legion of yllindyr the star elves summoned to defeat the walls of the steel dwarf capital.
+
+After the war, Stakros turned his talents to peaceful pursuits. He forged the first magma diver, designed to withstand enormous temperatures and pressures, all the while protecting the operator within. Inside his marvel Stakros personally dove into the great volcano Oxor-myr, returning with marvelous ores never before seen in Orden. His design soon evolved into a variety of armored frames to suit a variety of purposes.
+
+Stakros teaches the value of knowledge for knowledge's sake, and the power of the mind to overcome any obstacle. He also teaches that knowledge is power, and in unready hands can only be dangerous.
+
+### Kul
+
+**Domains:** Knowledge, Life, Sun, Trickery, War
+
+Kul, Father of Flames, Lord of the Forge, the Cleansing Fire who put fire and magma within the world at its creation.
+
+He saw his sibling gods creating their own children and placing them within the world, and so followed suit, creating the orcs, the last of the original five speaking peoples.
+
+Kul's fire is the fire that destroys, but it is also the fire that creates, the fire of the forge, the fire that makes meat safe to eat, the fire that cauterizes wounds. Kul teaches that action is the defining characteristic of being. Kul's heroes are not philosophers or poets, but warriors and hunters.
+
+Uniquely among the Elder Creator Gods, Kul does not desire worship finds it distasteful. Orcs still call out to Kul in desperate times as "Kul Who Once Spoke." But in those moments, they do not call out for aid—only that Kul witness them, and that they might prove worthy of his attention.
+
+#### Heroes of the Orcs
+
+The following heroes are venerated by many orcs and others who follow Kul.
+
+##### Khorvath Who Slew a Thousand
+
+**Domains:** Sun, War
+
+When Khorvath, warleader for the Lightning orc clan set out with her warband of bloodrunners, they numbered less than fifty. When they finally arrived at the Heliopolis, seat of the pharaoh of Khemhara, they had grown to over two thousand orcs from over thirty orc clans, all eager for battle. Legends later swelled that number to ten thousand.
+
+Upon their arrival, the bloodrunners found their prospective employer embattled and surrounded by enemies, the pharaoh's brother having raised rebellion against him. Principally due to Khorvath's help, the pharaoh's brother was killed and his army defeated. But the pharaoh died in the battle, and Khorvath found herself and her warband without a patron in an alien land surrounded by enemies fighting a war of succession.
+
+"What do we do, warleader?" Her death captain asked.
+
+Khorvath oriented herself and pointed northwest. "Home is that way. We march!"
+
+Death Captain Voyrik's eyes went wide. "It's three thousand miles," he pointed out—and the journey to Khemhara had not been uneventful!
+
+"Best get started," Khorvath said, and set off.
+
+How long it took the bloodrunners of the Lightning to cross the desert is not well-attested. It took four or six months depending on which accounts you read, but even six months would make their march a legendary journey.
+
+Opposed at every turn by the local noble houses and then eventually the desert clans who sought the bounty placed on Khorvath's head, the ten thousand grew in battle prowess as they demolished any enemy foolish enough to get in their way. Given the many tens of thousands of warriors the bloodrunners dispatched over the course of four (or six) months, it may well be that Khorvath's sobriquet was literal.
+
+Success was a double edged sword. The more victories they earned in battle, the easier they were to follow. "Our enemies walk the red road," Voyrik once said, looking at the vast swath of blood they left in their wake.
+
+"We have nothing to fear," Khorvath said. "These people fight for pride, or a bounty. We're fighting for our lives. All it takes is one good punch in the nose and they retreat." And indeed this proved true for many weeks.
+
+Eventually three of the desert tribes allied themselves and this was a coalition that could take a few bloody noses without giving up. They cornered the bloodrunners in a ravine that led to a mountain pass. It was possible to navigate the narrow pass, but only two or three orcs at a time. It would take hours to retreat that way. And the three tribes blocked their way out.
+
+Khorvath saw the way. She unwound her mother's hand wraps from her forearms and wrapped them around her own fists. The brown stains on the knuckles made Khorvath proud.
+
+"I will take the best warrior from each of the 30 tribes," Khorvath pronounced, and word spread almost instantly. Within minutes, the thirty best warriors among the ten thousand stood with Khorvath. "We thirty will hold the pass."
+
+Death Captain Voyrik, eyes wide, whispered Khorvath's name.
+
+Khorvath removed her torque of leadership and handed it to Voyrik. "When you arrive home, give this to my son." She looked at the torque in Voyrik's hands. "Tell him my last thoughts were of him. And that it is my wish that this torque inspire him to great deeds."
+
+The tale of Khorvath's Thirty is still popular among the orcs, though everyone listening understands the "three days of war" is pure fiction, as none of the thirty survived. It is nonetheless broadly taken as true.
+
+Khorvath's Thirty bought the bloodrunners the time they needed to escape through the pass, and onward unimpeded.
+
+By the time they reached the eastern side of the Myr, Khorvath's name was already a legend, and many bloodrunners wore her clan fetish as their talisman. Scaling the slopes of the Myr was not easy but as the orcs descended down the western face, through the clouds, and saw the endless sea of green that was the Great Wode, they cried out together "Cekana! Cekana!" *The trees! The trees!*
+
+The ten thousand were not home, but they were home free. For this was territory held by their allies. The church of Khorvath Who Slew a Thousand spread quickly and now all orcs invoke her name whenever faced with a seemingly impossible task.
+
+Khorvath, like most orc heroes, teaches the virtue of endurance. That great problems are often just many tiny problems in disguise and that by fighting each day as it comes, great battles can be won.
+
+Khorvath Who Slew a Thousand would probably prefer to be remembered as she was in life—Khorvath Who Brought Ten Thousand Home, but even as one of the chief orc heroes, she has little influence over the way the people choose to remember her.
+
+Voyrik gave his warleader's torque to her son, who grew to lead the Lightning first as warleader, then chieftain. He was a good ruler for the Lightning.
+
+##### Grole the One-Handed
+
+**Domains:** Life, War
+
+Grole the One-Handed, Grole who Slew the Saint of Skulls, lost his left hand at the Battle of Dur Mothe where he stood alone against the horde of deathless and their master, the living saint Morath of Many Tendrils. Grole thought to buy time for his army to escape the flood of death, but when they saw their warleader grappling alone with the Saint of Rot, they reversed their retreat. When Morath lashed out with his greataxe Viscerator and severed Grole's left hand from his arm, Grole's army surged forward, breaking the tide of deathless.
+
+His army watched as Kul's light descended on their wounded leader, and they knew Grole had been chosen by Kul in that moment. At the last, Grole and Morath fought as equals. Orc hero and dark human saint grappled atop the ancient hill. With his one good hand Grole plunged the Green Fire, his grandmother's saber, into Morath's heart, ending the Saint of Many Tendrils.
+
+Grole teaches the extraordinary deeds common people can accomplish if they cast fear from their minds. It was Grole who said, "Even should an orc be pierced by many arrows, they should still be able to perform one last act of revenge."
+
+Grole is the orcish hero of those facing impossible decisions. He is favored by most orcish leaders. Grole teaches that, even alone, even against impossible odds, extraordinary victories are possible. Censors of Grole often dip their left hand in ink before battle to symbolize Grole's missing hand.
+
+##### Khravila Who Ran Forty Leagues
+
+**Domains:** Knowledge, Trickery
+
+Khravila Who Ran Forty Leagues, The Eternal Runner, Khravila The Unstoppable.
+
+On the eve of a war between elves and humans that would certainly result in the death of many orcs caught between the two great powers, Khravila's dying father had been incapable of deciding what should be done. Equally incapable of choosing who should succeed him as chieftain—his son or daughter.
+
+At the moment of his death, when the god-caller rang the bell of souls officially announcing her father's passing to the tribe, Khravila looked at her brother and saw hesitation. Khravila had never known doubt.
+
+She snatched her tribe's oriflamme from her father's dead hands … and ran. For many leagues she ran and the tales of the creatures—manticores, griffins, chimeras—who barred her passage passed into legend. Orc children still delight at the tricks and wordplay Khravila employed to thwart the beasts, avoid fighting, and continue her epic run.
+
+Less than five hours after her father died, Khravila arrived at the Astragalus Court, forty leagues from home and while many elements of her legend are certainly mythical, the time and distance are well attested. Khravila held forth the oriflamme and announced that, should the elves continue their assault on the humans, there would be war between them and her tribe. "Chose quickly," she said. "My people are right behind me, and eager for battle." They could not have known she was bluffing.
+
+The elves called off their attacks and Khravila brokered peace between them and the humans. When her brother arrived with their kin folk some hours later—itself an impressive feat—Khravila handed him the oriflamme, and collapsed, dead. It was Khravila the chieftain who ran. It was Khravila the Unstoppable who died, a legendary orc hero.
+
+Khravila teaches the virtue of persistence, endurance, and—above all wits. Not only the wits necessary to foil the tests that barred her way, but to conceive her legendary plan in the first place, and the dedication to pull it off. "Perhaps another orc could have run," her brother said. "But only Khravila could have bluffed."
+
+#### Heroes of the Hakaan
+
+Most hakaan in Orden are animists. They know and respect the four Elder Gods who created the world and believe these gods watch the world and see what happens within it. But the Hakaan do not create churches or formal belief systems around this attitude.
+
+Instead they believe the world is filled with innumerable nature spirits. Each river, tree, stone, has their own spirit, which the hakaan revere. They have no organized religion in the way the other ancestries in this chapter do, though a hakaan brought up in a city, or among another people, would naturally venerate in whatever gods and saints are worshiped by the folk who raised them.
+
+The hakaan know they are descended from stone giants, but they do not think of themselves as stone giants. They know their ancestors were tricked by Holkatya, one of the gods of Vanigar, into trading some of their great strength for the doomsight. But while they respect Holkatya, they do not worship her. Nor do they resent her. She's merely a detail of their history.
+
+Hakaan conduits and censors venerate hakaan heroes who, after doing great deeds in life, were chosen by the gods to take their place among the stars, becoming constellations. They see the stars at night as a complex map of legendary hakaan heroes, and their own ancestors who watch from above.
+
+##### Mahsiti the Weaver
+
+**Domains:** Creation, Knowledge, Trickery
+
+Mahsiti the Weaver was a fresco painter and mathematician of the hakaan who discovered, or invented, a way of drawing very precise geometric shapes following patterns that repeat at any scale. Believing it could be a new way to devise spells, she took to weaving tapestries using lines of thread to better understand the numerical relationships within the patterns.
+
+It took time to master weaving, but she took to it quickly and produced a series of essays, each a tapestry, proving correct her suspicions. The Tapestries of Mahsiti are a series of thirteen legendary artifacts of varying sizes, one as small as a napkin, one over two hundred feet long. Each has a powerful spell written into it, available for use by anyone who can read the patterns.
+
+One of Mahsiti's weavings, titled *The Shepherd and the Sheep*, was used by her whole clan when war came to them. The hakaan had no doubt they could defend their home but were equally certain there would be enormous loss of life. Mahsiti suggested they use the tapestry, but the people of her clan did not understand. Use it how? It was simply a picture of a tree in a field with many sheep gathered around it.
+
+But this image, as Mahsiti showed, was formed out of thousands of repeating geometric patterns. The tapestry had been a gift from Mahsiti to her chieftain who hung it in their great receiving hall. Mahsiti cast the spell within the tapestry—and walked *into* the tapestry. The people were amazed and followed.
+
+When the enemy army arrived, they found the clan's villages empty, and did not notice the tapestry with hundreds of hakaan depicted within. Once the enemy left, Mahsiti finished the spell, and her people emerged, safe.
+
+Mahsiti teaches that art and science, creativity and knowledge, are the same thing. Those who follow her teachings believe that the act of creating, of bringing a new idea or work of art into being, is the act of participating in the same process the gods used to create the world.
+
+##### Prexaspes the Stargazer
+
+**Domains:** Nature, Protection, Sun
+
+Prexaspes Stargazer, the Astronomer, the Sun-sage mapped the skies and was one of the first people in all Orden to correctly calculate the repeating pattern of Orden's three moons. Because of his growing mastery of the cycles of nature, he predicted a coming famine and prepared his clan. When the famine came but the people had storehouses of food ready, he became a hero of his tribe.
+
+After receiving the doomsight, Prexaspes turned his attention to the sun itself. He studied ancient tomes written by scholars of many people, believing eclipses were predictable events. His research yielded a pattern, but his insight led him further. What if, he wondered, an eclipse was more than a celestial event? What if it was an opening, a portal? Prexaspes studied the stars and prepared a ritual.
+
+Years later, Prexaspes' tribe was besieged by hobgoblins and all hope was lost. He begged his chieftain to continue fighting—not abandon their homes. The Astronomer promised an eclipse, and though none doubted his calculations, no one could guess how this could help the beleaguered and besieged people.
+
+But the hakaan trusted their sage, and kept up the fight. When the eclipse came, Prexaspes performed his experimental ritual opening a portal to the sun. A line of golden fire erupted from the portal, evaporating many hobgoblins, but this was just a side-effect of the ritual.
+
+With his people watching, shielding their eyes from the brilliant light, Prexaspes entered the portal, and emerged on the surface of the sun. In that moment, the people knew this was his doom. He was only gone a few moments, but when he emerged from the portal his flesh was solid sunstuff, and he waded into the remaining battalions of hobgoblins, destroying them with rays of heat and purifying flame.
+
+Though he died in the act, Prexaspes saved his people becoming a hero of all hakaan, taking his place among the stars as a new constellation.
+
+Prexaspes teaches that nature is a moral good and is worth defending, and that the sun is the source of power for all life on Orden.
+
+##### Atossa the Shepherd
+
+**Domains:** Fate, Protection, Trickery
+
+The great dam built by their ancestors that created Lake Tospah was going to fail, Atossa's doomsight said. The people would not listen, they said she read the signs wrong.
+
+When the rains came and would not stop, and the water in Lake Tospah rose putting more pressure on the dam, Atossa opened the gates to the sheep pen and let the tribe's herd of sheep out.
+
+The people ran after them, effectively evacuating the village. But the rains stopped, and the damn did not burst. The people returned to their homes, put the sheep back in the pen, and blamed the shepherd for worrying too much and leading them on wild goose chases.
+
+The next year, the rains came again. And this time the lake was already near capacity. When the shepherd tried to warn the people, they reminded her that it had rained the year before and there was no danger—and so would not listen.
+
+When the first cracks appeared at the base of the dam, Atossa knew her wyrd was before her. She took a piece of the broken dam back to the village to show the elders. They frowned and wondered what Atossa was up to now, but agreed amongst themselves to go up the valley and inspect the dam in person.
+
+Atossa tried to warn them they were walking to their doom, and became even more agitated when the rest of the village followed. When the elders reached the cracked dam, they sounded no alarm. Instead, they argued and debated, "Chewing their beards"—*rish javid*—the hakaan say about elders who argue instead of acting.
+
+Desperate, Atossa climbed to the top of the dam, and dove into the water, swimming down to the bottom of the lake where she could see the stone cracking. Her people were on the other side.
+
+When the crack widened and water began to pour through at incredible pressure, the people panicked and ran. But Atossa was not worried. This was her doom. She knew what to do.
+
+She let the flowing water carry her toward the widening crack until her body slammed against the stone, blocking the water. The hakaan are famed for being able to hold their breath, but though her people ran as quickly as they could, there was no way Atossa could block the water long enough.
+
+When the dam eventually burst and washed away the village, the people were not there. Atossa had bought them the time to run to safety. They walked among the ruins and found her crushed body among the rubble. They knew they would see her again.
+
+That night, there was a new constellation in the sky.
+
+Atossa teaches that it is not for the shepherd to judge the flock—only to protect and care for them. Even though they might be foolish, or cowardly. "Let the gods judge," Atossa said. "We have sheep to worry after."
+
+### Devil Gods
+
+Devil heroes in Orden usually serve the gods and saints of the culture in which they were raised. Few devils in Orden are from the Seven Cities, most are descended from devils who were stranded on Orden hundreds or thousands of years ago. Devils who are from the Seven Cities have their own unique pantheon.
+
+The Seven Cities have saints just like humans in Orden do but in place of gods, these saints serve the seven Archdukes of Hell, also known as Archdevils or the Lords of Hell. Unlike the gods of Orden, the Lords of Hell are corporeal. Giant figures, 30 feet tall, who each sit upon the throne of their city, projecting their consciousness out into the world, dealing with politics, sorcery, and treachery, manifesting avatars when necessary. They are, effectively, the Gods of Hell.
+
+Like the other gods of the timescape, the Lords of Hell are too busy to attend to every petition and request and so employ saints just like other gods. Religion in Hell is superficially similar to religion among the peoples of Orden. There are churches and rites and rituals, but devils tend to view attending church and performing the expected rituals at the appropriate times as akin to paying taxes. Annoying but necessary.
+
+#### Saints of Hell
+
+Like Orden, there are dozens of saints in Hell, some obscure. These three are some of the most popular and the most likely saints for a conduit or censor to follow.
+
+#### Thellasko the Great Designer
+
+**Domains:** Knowledge, War
+
+Thellasko the Great Designer, the Game Master, Saint of Strategy did not invent war—humans in Orden hold that honor. Thellasko invented war simulation. Creating what were effectively games to train cadets and lieutenants at the wartable to ensure victory on the field.
+
+Thellasko served in Dispater's army, rising to the rank of major general. He retired with honors after the Battle of the River Rhye, intending to take what he had learned on the field and write a book about the proper way to conduct a war.
+
+He felt the high command of Hell's armies fought battles on outdated principles. Which side had the best fighting spirit, which side's officers had the greater noble pedigree. Thellasko's treatise, never published, was titled *The Proper Application of Force*. As he wrote, he created a kind of ideal battlefield to use as his running example. The example became more and more critical to the text, more robust, such that eventually Thellasko put his manuscript down to develop the example into a proper game.
+
+This first game was played on a board of sixty-four squares arranged in an eight-by-eight grid. There were two armies each with sixteen pieces. Eight serfs, two soldiers, two prelates, two towers, a king and queen. The game was superficially simple but held hidden depths. It taught the principles of sacrifice and territory control, of thinking like your enemy.
+
+The game evolved into the game of *Shere*, played throughout the timescape. But while the game was immediately popular far outside its intended audience, Thellasko grew dissatisfied with it, and began work on his masterpiece simply called *The Game of War*. It was complex, using hexagonal tiles to build modular terrain boards, and featuring dozens of different unit types with extensive tables that factored
+
+supplies, morale, visibility. Unlike Shere, which was an abstraction, The Game of War was a true simulation.
+
+Expensive to produce, *The Game of War* was never very popular outside the Academy of Dis, but Thellasko used it to train a generation of lieutenants on the art of war. His students and best players led the armies of Dis from victory to victory. Thellasko taught his students that an army must fight. All other things being equal, the army with the most experience wins.
+
+In Thellasko's time, the most senior noble was always the senior commander, regardless of experience or, indeed, sanity. After Thellasko and *The Game of War*, commanders were chosen from among the soldiers with the most battlefield experience.
+
+Thellasko was granted sainthood on his deathbed after a generation of successful battles won by his students, all of whom carried a symbol of graduation from Thellasko's school—three adjacent hexagons. The students praised him on the battlefield during his life, and his church continues to advance his theories
+
+Thellasko teaches the virtue of accepting the battle as it is, not as you wish it might be. To take action based on available data, not what tradition says. That wars are not won based solely on the size of one's army, but based on which side is best able to bring its force to bear against the opponent.
+
+##### Uryal the Subtle
+
+**Domains:** Knowledge, Trickery
+
+Uryal the Subtle, Deception, the Hidden Hand, Saint of Lies rose to the rank of senior adjudicator in the Bank of Vorilom in Styx. His manager had been permanent undersecretary of finance for over three hundred years, which Uryal felt was taking the title a *tad* literally.
+
+A dozen senior adjudicators had tried to usurp the permanent undersecretary for generations. Their corpses made excellent lamps and even better examples. But Uryal believed he was different. He knew the game the finance managers played, and thought it was stale. Lying, double-dealing, and backstabbing have their place, but there are even subtler tools in the deceiver's toolbox.
+
+During a critical trading session, it was Uryal's job to ferret out the text of the upcoming bloodfruit futures report from the Ministry of Goods and Services. Already an accomplished spy before he moved into finance, this Uryal did easily.
+
+Uryal faithfully relayed the contents of the report. Every detail, unredacted, no embellishments. In other words, he told the truth. The permanent undersecretary never considered this, and interpreted the report assuming Uryal had edited it to favor his own placed wagers.
+
+The permanent undersecretary ordered the bank to corner the market on bloodfruit futures, believing the price would skyrocket. Uryal, meanwhile, shorted bloodfruit. When the report was finally published, saying exactly what Uryal said it would, the Bank of Vorilom was left owing billions in futures trades, causing the entire bank to default.
+
+The permanent undersecretary was, of course, fired. Literally. Uryal awaited his promotion and counted the enormous sums he made betting on cheap bloodfruit. He was not disappointed.
+
+Uyral's use of truth in a war of lies attracted Moloch's attention, but lining his own pockets in the bargain and becoming one of the single richest people in Hell earned Moloch's favor. He raised Uryal to sainthood and a privileged position in the court of Styx, the City of Lies.
+
+Uryal teaches that deception is only one tool in the art of lies. That the point is *manipulation*, and that any tool, including the truth, should
+
+be used to achieve one's ends. Uryal teaches the virtue of flexibility of character and morality. The virtue of unpredictability—always behaving in a manner that is open to interpretation so as to prevent your opponent from learning your tells.
+
+Uryal is the Saint of Hell's diplomatic corps. His *unofficial* motto, falsely attributed to him but oft-repeated: "*Do unto the other guy as he would do unto you. But do it to him first.*"
+
+##### Kuryalka the False Principle
+
+**Domains:** Death, Trickery
+
+Kuryalka the False Principle, Soulstealer, Audacity, Saint of Ambition is credited with inventing the trading scheme known as the Kuryalka Ploy. Daughter and eldest child of Orliath IX—Marquis of Naraka, the City of Blood—tradition held Kuryalka would ascend to the house throne upon her mother's death and rule, but from childhood Kuryalka was obsessed with what was informally known as "the Trade"—the buying and selling of mortal souls from Orden and elsewhere in the timescape.
+
+It occurred to Kuryalka that as long as people saw their soul-power increasing on paper they wouldn't inquire too closely about her stewardship of their investment. They signed their accumulated souls over to young Kuryalka, who promised them great returns. It seemed too good to be true! But she published a report every quarter showing marvelous gains, and while no one could understand her math or references to "integrals," they were well pleased with their growing wealth. Whenever someone complained about the lack of disbursements, Kuryalka would quickly pay them out of her growing hoard of souls.
+
+Of course, there was no investment taking place. She simply kept the souls and grew in power, using new investors' souls to pay out old investors. She was not the first to use this technique, but she became the most famous and successful—and the scheme was named after her—because of one innovation. Kuryalka had developed an equation that showed exactly when the ploy would collapse.
+
+Days before that moment, supreme in the fullness of her soulpower, Kuryalka did not withdraw her souls and escape into the timescape with her near-infinite wealth. She went to the Archdevil Sutekh, Lord of Naraka, and offered him her vast soul wealth in exchange for immortality and a place in the Court of the Seven Cities.
+
+Sutekh's terrifying hollow laughter could be heard throughout Hell. No mortal, he said, had ever embodied such naked ambition. He accepted her offer, making her the first Saint of Hell. Sutekh took Kuryalka's souls and founded the Exchange, making the trade in souls an official government department in Hell, and building an entire bureaucracy around it.
+
+Kuryalka teaches the virtue of ambition—that if you are willing to risk everything, you can gain everything. "The world is yours, if only you tell a lie big enough." That the greatest ambitions are those that are so audacious, no one else has even imagined them yet. In this manner does one avoid competition.
+
+Kuryalka features in many folktales in Hell, including "Of the Childe Whomst Kepte the Sheeps," in which she appears to a young shepherd boy warning him against getting caught telling his first lies. Kuryalka instructs him in the proper use of manipulation: "*Never tell the same lie twice*!"
+
+### Human Gods of Vasloria
+
+Like all the Innumerable Younger Gods, the gods of Vasloria embody the attitudes of the people who live in that region. This includes the humans, polder, and draconians of Vasloria.
+
+Vasloria is a polytheistic, preindustrial, pre-Enlightenment, feudal culture. Its people have many superstitions and prejudices, some of which are reflected in the teachings of their gods. Adûn, for instance, teaches that hard physical labor is a moral good and people who work hard every day are honest. Most people in Vasloria, especially Aendrim where Adûn's faith is most popular, believe this to one extent or another.
+
+Some of them take it more seriously than others though. People in the most distant villages tend to believe it more literally, while people in the cities are perfectly aware than one may work and work and be a villain. And this is true of most of the beliefs presented in this chapter. Some people take it very seriously; some not so much.
+
+Like all peoples of Orden, the people of Vasloria are well aware there are other gods. They do not particularly think their gods are *better*, just, "These are the local ones who matter to us." A priest of Cavall who journeyed far from Corwell and found themselves in the distant desert land Khemhara could still act as a conduit of Saint Llewellyn the Valiant, but they would look around the Heliopolis and see the animal-headed gods of the Khemharans and the astonishing feats of masonry and astronomy the Khemharans achieved and think: "Well. Obviously the gods of Vasloria aren't that big a deal here, but these gods certainly are!" The peoples of each region of Orden prefer their own gods because they understand them best, not because they think they are "more powerful."
+
+#### Adûn
+
+**Domains:** Creation, Life, Love, Protection
+
+Adûn believes that truth and hard work are virtues. He embodies the Vaslorian belief that hard work is honesty. Someone who works hard—real physical labor—is an honest person. Anyone who does no obvious work for a living is someone not to be trusted. Adûn is more worshiped in the field than in the city. Farmers distrust city folk because many of them make a living writing, or counting money, and never break a sweat.
+
+Vaslorians in remote villages still use the ancient test of strength to determine truth. Two individuals in a legal dispute may find the reeve asking them to fell a tree or build a wall. Whoever finishes first is in the right, because they worked harder and are therefore more honest. Many walls and fields owe their existence to this ancient legal tradition.
+
+A priest following Adûn expresses their faith through labor. They build things. Many priests are also masons or carpenters. Joining the church for them did not mean abandoning their former trade. It intensified it.
+
+A knight following Adûn spends their time aiding others through hard work, inspiring people to honest speech and hard labor, as opposed to Adûn's brother Cavall who seeks to right wrongs.
+
+Adûn and Cavall are brothers and the line between them is not a sharply defined one. Truth and justice are close companions.
+
+##### Gaed the Confessor
+
+**Domains:** Love, Protection
+
+Gaed the Confessor, son of Malgen, son of Germoc, was the abbot of a small monastery dedicated to Saint Anthony—Shield of the North—in eastern Aendrim during the rule of the tyrant Baron Kaveran. Kaveran was a secret censor of the church of Saint Pallad, winning the baronial throne though a combination of treachery and good strategic battle principles. Once on the throne, he threw off the black cloth covering the device on his shield, revealing himself to be a servant of Pallad, Saint of Nikros.
+
+Kaveran sought to consolidate his rule by extinguishing the church of Saint Anthony, Shield of the North specifically, and worship of Adûn generally. In this, he almost succeeded. Gaed's monastery was small, his province obscure. But as he refused to renounce his faith, his monastery attracted more and more refugees, making it harder and harder for Kaveran to deal with him without causing a revolt.
+
+Kaveran abducted Gaed, his knights dragging the abbot out of his monastery in the middle of the night, and tortured him for seven days, hoping to break his faith and force him to convert to Saint Pallad. Gaed neither renounced his faith nor called out for aid.
+
+Kaveran was no fool, and knew killing Gaed would make a martyr of him, and so attacked the abbot's flock. Hoping—by putting their homes to the fire—to pressure Gaed into recanting his faith. Kaveran barred several families in a tavern, set fire to it, and brought Gaed to witness the horror.
+
+But Kaveran had not thought to shackle Gaed, and the abbot countered by lifting the bar on the burning building and walking into the tavern in full view of hundreds of his followers. He spoke Saint Anthony's words as he did so, but it was Adûn who clothed him in a shimmering blue light.
+
+It was Gaed, son of Malgen, son of Germoc, who entered the tavern—it was Saint Gaed the Confessor who emerged, unscathed, leading the people inside to safety. In that moment the people and many of Kaveran's own followers turned on the cruel Baron, dragging him off his horse and spitting his body with kitchen knives and pitchforks.
+
+Gaed teaches the virtue of being true to one's principles even especially—when doing so is the most difficult thing in the world. The title "confessor" is granted to those who persisted in their faith in public, even when doing so was dangerous or deadly.
+
+##### Gryffyn the Stout
+
+**Domains:** Creation, Life
+
+Gryffyn the Stout was an infant dwarf when his parents' cart was waylaid by bandits who killed his mother and father, stole all their wares, and set fire to the cart. They were unaware of the child nestled within.
+
+A nearby farmer saw the flames and rode out to investigate. When she arrived, she could hear the bawling of the dwarf babe. Though wreathed in flame, the infant's skin was too hardy to feel the heat. In the horse's pack were a pair of tongs the farmer used to extract the child without harming herself, and she took the baby dwarf home to her husband.
+
+Naming the child Gryffyn, the farmers raised him as one of their own. The boy grew up wanting to be a farmer like his adoptive mother and father, but they encouraged him to take up masonry, believing stonework to be a natural part of his ancestry.
+
+Gryffyn had no particular aptitude for stonework, but desirous to please his parents he worked hard until eventually he was apprenticed to a mason and, after many years effort (more years than most, it was noted) he produced his master work and became a master mason.
+
+One day, years later after his parents had passed, hundreds of people from other nearby towns and villages arrived at the quarry where Gryffyn worked. Cinis the necromancer had discovered an ancient tome of lore and summoned a horde of ghouls. She used her new army to conquer the surrounding barony, causing a flood of refugees. Gryffyn's quarry could not shelter a tenth this number of refugees, so he proposed the people cross the White Ravine to the north and seek asylum among the elves of the Orchid Court.
+
+The people were appalled, the White Ravine was impossible to cross for any but the most experienced ranger. "There is no choice" Gryffyn said. "Cinis's army will be here in a matter of days, and there is nowhere else to run."
+
+The people cried and prepared for death. Gryffyn saw this, and his heart felt like it would burst. "There are stones enough in the quarry," he said enigmatically. "Yoke the oxen and bring the stones to the ravine and do not stop, even in darkness, even in rain, until the ghouls come or the quarry is empty."
+
+When the army of Cinis the Pale arrived, the people fled to the ravine, the path being easy as their carts and oxen had worn a clear road. Thinking they would throw themselves into the ravine rather than be eaten by the ghouls, they were astonished to discover … the miracle. A great stone bridge crossing the ravine. It had not existed three days prior, and all agreed it could not have taken less than a year to build.
+
+Fleeing across the bridge, the refugees found the body of Gryffyn, author of this marvel, his fingers bleeding, hammer in his hand, his heart having finally failed. He knew his labors would cost his life. But Gryffyn's Arch still stands, almost a thousand years later.
+
+Saint Gryffyn the Stout teaches that despair is the enemy of action. That unyielding endurance is the cure for impossible odds. That more than sword and spell, hard work is the savior of the people.
+
+#### Cavall
+
+**Domains:** Life, Love, Protection, War
+
+Cavall believes that mortals cannot live where injustice thrives. To followers of Cavall, the unjust society is the Wasted Land, where people live false lives. The concepts of civil law and just punishment are his.
+
+A watchhouse chaplain is almost certainly a priest of Cavall. A rector serving a small town may be welcome on the town council, but would consider passing judgment on a fellow citizen a breach of duty. The maxim of the church of Saint Gwiddon the Vigilant translates as: "To watch, report, but not to judge." The law, Cavall says, belongs to mortals.
+
+Censors of Cavall, on the other hand, have no such motto. The nobility often sponsor knights of Cavall to roam the countryside and dispense justice in remote wilderness areas where the noble's influence cannot reach.
+
+Brother to Adûn and patron of the country of Corwell, Cavall also believes that people, no matter how vile, can be bettered. "Let the law judge," said Saint Llewellyn, "Let us forgive."
+
+##### Llewellyn the Valiant
+
+**Domains:** Life, Protection
+
+Llewellyn the Valiant was a knight in service to Duke Melianus of Gant known as Melianus the Bright. His mother the duchess died from a withering illness none could cure, and Melianus, her only son, assumed the throne.
+
+Almost from the beginning of his rule, there were rumors that a sorcerer in the marsh was behind Melanius's power, poisoning his mother to hasten his ascent, but as the marsh was nigh impassable this could not be proven and was taken for little more than a spiteful rumor.
+
+Duke Melianus's reign was cruel almost from the outset. He accused all those loyal to his mother of treachery, and found occasion to have them each imprisoned and executed without trial. Sir Llewellyn had served the duchess loyally and strove to acquit himself of his duty under the new duke. But he struggled to reconcile his sense of duty with the new duke's capricious malice.
+
+The new duke yearned to imprison his mother's favored knight, but all the guards, the reeves, the people of city and village, looked up to Llewellyn. Melianus instead contrived to send Sir Llewellyn on a series of quests, each more deadly than the last.
+
+The Trials of Llewellyn, as they came to be known, passed into legend and their tale is still told in Corwell. Llewellyn and the Dragon With Seven Eyes, Llewellyn and the Witch of the Fen, Llewellyn and the Onyx Tower.
+
+When Llewellyn slew Ghruk the Trollhag, she cried out, "Follow Melianus!" as she died. These words echoed in Llewellyn's ears and his heart. He assumed she meant, "Obey him—be loyal to him." But as he rode his great destrier Silverheart back to Castle Gant, Llewellyn began to suspect what Ghruk meant.
+
+That night, Llewellyn waited in the stables and, at midnight, Melianus appeared. He mounted his great black warhorse Coalfire and rode. To where, Llewellyn could not guess. But the knight followed the duke as he rode east toward the marsh, he remembered the rumors.
+
+At the edge of the marsh, Coalfire's eyes began to glow with a baleful flame and his mane burst into crimson fire. Llewellyn's breath caught in his throat. "A nightmare!" he realized. The rumors were true! The sorcerer had given Melianus a devil steed.
+
+On flaming nightmare hooves was Melianus able to cross the impassable swamp. Llewellyn balked, no one could cross the cursed bog. But Silverheart champed at her bit, pulled on the reins. She would not yield. Placing his trust in his steed, Llewellyn let the reins lie slack, and Silverheart took the lead.
+
+Llewellyn and Silverheart plunged into the bog and though it was night and the mud sucked at her hooves, Silverheart pushed on. In the hour before dawn, they arrived at an island with an ancient tower. "The tower of the sorcerer," Llewellyn thought. Thunder rolled, and rain began to fall.
+
+Looking to the upper window of the tower, Llewellyn saw someone performing a dark ritual. A flash of lightning illuminated the figure. It was Melianus! Melianus was the sorcerer! Llewellyn called out, and the duke descended the tower and mounted his hellsteed. On his shield now—the screaming-skull symbol of Cyrvis, the Lich, god of malice.
+
+Cyrvis had rewarded his loyal servant for years of cruelty, and the figure astride the nightmare was Saint Melianus the Bright. The Dark Saint charged Llewellyn, his lance gleaming with balefire. Llewellyn and Silverheart returned the charge and the two clashed together, Melianus's blow strong enough to unseat a giant. But Llewellyn was not thrown. His strength was the strength of ten, for his heart was pure.
+
+Coalfire struck with flaming hooves at Silverheart but the destrier struck back, blow for bite and bite for blow. Then the hellsteed, roared and a rotting green flame burned Silverheart's flesh and stole her breath until, choking, she fell to the ground, dead.
+
+Llewellyn's heart burst. He threw his body over the corpse of his loyal steed, and Melianus's lance pierced his armor, his back, and his heart. Knight and horse, dead. Melianus crowed as the lightning flashed again. But, in that moment, the miracle.
+
+Cavall stood between the Dark Saint and loyal knight. Cavall pulled the lance from Llewellyn's back. "Rise my son, and rise thy steed. Thy work shalt never be done."
+
+Saint Llewellyn the Valiant and Silverheart his Eversteed rose, immortal, and the battle against evil renewed itself, the two armored saints clashing on barded steeds.
+
+Weeks later, neither having returned, the people of Gant laboriously forded the swamp and found the tower of the sorcerer. The ground
+
+around the tower turned black from the baleful energies unleashed. Though no bodies were found, the armor of both knights lay on the ground—Melianus's breastplate having been pierced.
+
+Llewellyn and Silverheart had rid the people of their cursed, hateful duke.
+
+Saint Llewellyn is Cavall's greatest saint. He teaches that the greatest loyalty is to the well-being of the people, and that it is the responsibility of the strong to protect the weak. That the only proper use of power is in pursuit of justice.
+
+##### Gwenllian the Fell-Handed
+
+**Domains:** Protection, War
+
+"*Work your ritual, loremaster. And I will make your life worthy of a god's memory.*"
+
+The Red Sun hobgoblins seemed unstoppable. The baron began to think he might need to evacuate the entire barony, else allow his people to be slaughtered. His greatest knights perished against the Red Sun, who wielded some magic that granted them invulnerability.
+
+Then the loremaster came. Zür the wizard, dwarf and master of the Tower of Enchantment arrived. Seeing the need, he opened his tomes and researched what might the hobgoblins might wield. He presented himself to the baron's court with a solution. The Red Sun had found an ancient spring dedicated to a Gol demon-god. The Red Sun hobgoblins had bathed in the spring and awoken the blessing of the demon within and, having bathed in the river, they were now invulnerable.
+
+Zür believed he could remove the enchantment and rob the Ren Sun of their power. But the way to the spring was dangerous and he had no guard. The baron was at a loss, his greatest knights were almost all dead, thanks to the Red Sun.
+
+"I will attend," Lady Gwenllian volunteered. The baron objected. Lady Gwenllian was his personal knight and bodyguard, just as her mother had been to his father. "If we succeed," Gwenllian said, "you will have no need of bodyguards. If we fail, it will be the same."
+
+The baron could not say no to his closest and most loyal knight, and so Lady Gwenllian, daughter of Morwetha, rode out with Zür the Enchanter. "It will take time to perform the ritual," Zür said. "Once I start, the demon will send creatures to stop me. They will be terrible."
+
+Gwenllian swore to defend the dwarf against all who might come for as long as it might take. In later years, Zür professed he felt the weight of her vow and knew the gods were watching. "How long to work your ritual?" she asked, and she could tell the answer would be dire.
+
+"Ten days," Zür said. "Ten days must I work this weaving without pause or rest or food or water." Dour Gwenllian merely nodded. "So be it."
+
+Arriving at the spring which ran red, Zür prepared his weaving. "You understand," he said coating his hands in a rare powder, "that once we begin, we cannot stop, no matter how horrible the fiends the demon sends at us."
+
+Well-versed in the faith of Ord and the dwarves, Gwenllian responded. "Work your ritual, loremaster. And I will make your life worthy of a god's memory."
+
+For ten days and nine nights, Zür spoke his weaving and lighting sprang from his fingertips as he grappled with the demon of the spring. And horrors came as he did so.
+
+Creatures unseen in Orden, assemblages of organs, teeth, and claws. Animals with too many legs or too few heads. The dead came, trees that walked whose branches dripped blood came. The tale of all
+
+detailed in the Lay of Lady Gwenllian. And while the endurance of the dwarves is well documented, Lady Gwenllian did not falter, did not rest.
+
+On the seventh day did a group from the Barony come to tell the dwarf the Red Sun had been defeated. Zür hesitated, but Lady Gwenllian did not. Exhausted, spent, she could not be fooled. She saw through the demon's guise and the men who were not men erupted in tentacles and spines.
+
+Lady Gwenllian dispatched them all.
+
+Twelve days after they rode out, Zür returned with Lady Gwenllian's body on her horse. The spring had been consecrated by the green. The Red Sun had lost their invulnerable skin and were beaten. Lady Gwenllian protected Zür as she swore, but she died upon dispatching the last demon spawn.
+
+"I bring you her body," Zür said to the baron. "And one thing more will I do for you. I shall build you a church here. A cathedral worthy of the life of Saint Gwenllian."
+
+Gwenllian is the saint of those who stand watch, of all those who must carry a burden ceaselessly. Gwenllian teaches that vigilance is its own reward.
+
+#### Salorna
+
+**Domains:** Life, Nature, Storm, Sun
+
+Salorna believes that nature is a moral good. That to behave in a manner not in accord with the natural balance (she would never use the word "order") is to commit offense against the gods.
+
+Salorna teaches that humans are a product of nature, so then a tilled farm is as much a natural phenomenon as a forest. Indeed, tilling the land is a form of caring for it. But she also teaches balance in all things. A land of farms and no trees would be just as unnatural to her as a land of all trees and no people.
+
+Felling a tree for lumber is natural. People need lumber to make homes for shelter. This is proper and good. Felling a tree because it's in the way of a road is mere convenience and therefore a moral wrong. Salorna curses a straight road.
+
+Killing for food is likewise natural. People need to eat and the pig knows this as well as the person. Killing for sport is a moral wrong, however. It is unnatural, Salorna says.
+
+A wheel that harnesses the power of the river is a beautiful thing. Humans and river physically connected. A dam that blocks the river is a desecration.
+
+Some of Salorna's priests are conduits; some are mages of the green. Both seek to preserve the balance and respect for nature. Because much of Vasloria is covered in elven forest, Salorna's druids are also often diplomats to the elves.
+
+Salorna has few censors, but not none! Favoring light armor and ranged weapons, her censors are often mistaken for rangers. They seek to punish those who hunt for sport, or those who would defile the natural order.
+
+##### Draighen the Warden
+
+**Domains:** Nature, Sun
+
+Saint Draighen the Warden, the Ranger, Draighen of the Wood was known in her life for her mastery of the elf haunted wodes which she could cross without incident. Draighen it was who first treated with the derwic, whom even the wode elves had not seen in many ages of the world.
+
+The awakened trees were happy to hear news of the world and while it was impossible for her to satiate their endless curiosity ("How fare the steel dwarves?"), Draighen provided many services for them. Chief among those—locating the Stone of Hyllc a large flagstone infused with magic, which the derwic used as a kind of altar for communing with their creator. Many traditions had the derwic forsworn after the loss of their symbolic meeting-stone, and they were sore grateful to the human who took their problems as her own.
+
+Years later, a fire threatened to engulf the local wode, and the elves within refused all aid. Their stoic refusal to prevent their own extinction infuriated Draighen, whom they already resented because of her special relationship with the walking trees.
+
+Draighen proposed a trick the humans—"the men of farm and field" used when fire threaten to burn their crops after a drought. "Starve the fire," she proposed. The elves, initially curious, rejected her idea as soon as they understood it. "Cut down the trees?!" they exclaimed, and exiled the human.
+
+Refusing to give up on the elves, even after they chose to die with their forest, Draighen went to the derwic, who immediately praised her plan and were eager to help. The elves of the wode were astonished when Draighen returned with a dozen derwic who immediately began uprooting a line of trees ten miles long and a thousand feet wide. What would have taken the elves or humans many days even working together, the derwic did in an hour. The fire reached the edge of the break the walking trees had made … and died out.
+
+When the elves remarked upon this, taking the derwic to task for their actions, Hurolathornindrascyl, derwic's chief, looked at Draighen in confusion and then pointed to the sea of uprooted trees. "They would have moved on their own if they could! We just helped them along."
+
+The elves were properly chastised and realized their shame. Though the derwic disappeared back into the wode, the elves celebrated Draighen, naming her Elf-Friend and Wode Warden. In the ceremony, Draighen was surrounded by a golden light and her brown eyes turned green. The elves knew she was Saint Draighen now.
+
+Draighen teaches solutions can always be found if people are willing to talk. That even the darkest forest is not a thing to be threatened by if you carry wisdom and an open heart with you. That the proper reaction to unknown territory is curiosity.
+
+##### Eriarwen the Wroth
+
+**Domains:** Nature, Storm
+
+Eriarwen the Wroth apprenticed to her mother as a witch just as her mother had apprenticed under her mother. Her family were witches in service to Halcyon the Moonmaiden, saint of Viras, the Lady of Spring. They had tended to the souls and health of the people of five villages for two centuries. Eriarwen was not yet of age, and so not yet a full mistress of the craft when the blight came.
+
+At first it was a newborn foal born with seven eyes and a writhing grasping tentacle where it tongue should have been. It took three farmers to kill the infant beast and though they dismissed it as an accident of birth, the three were harrowed.
+
+Soon, it was a cat, then a herd of cows. Then every kind of beast and bird in the wood emerged with hideous mutations, defects, and deformities. The creatures had not just been driven mad, they were filled with hate for the people of the farms and villages. Though they could not know it, it was the Red Blight of Caswyn the Plaguemaster.
+
+In a matter of a week, the people were forced to all gather together in one town for protection, and they feared they were doomed. All attempts to stop the blight had already failed.
+
+Her mother and grandmother, the other witches of their coven, spent their time trying to protect the people and heal the afflicted animals, but this was not possible. There could be no cure, for these creatures were not sick. Caswyn had changed their nature making new things out of the wildlife.
+
+When her grandmother's horse changed underneath her, turning into a merging of horse and crab, Eriarwen saw her mother summon a killing spell, but her grandmother forbade it and turned to try and calm and reason with the steed who had carried her for twenty-seven years.
+
+Then Eriarwen saw the beast rip her grandmother apart with a single bite.
+
+Her mother raced to her mother's corpse. And Eriarwen called out.
+
+Eriarwen did not scream or cry, nor call out for aid or even mercy. She did not call to Viras, nor any of her saints. She called out to Salorna the Summer Storm and demanded the Woodland Mistress act.
+
+Eriarwen felt a growing heat and joy in her heart, and, feeling like she could fly, she suddenly saw the world through a million eyes all at once, and where she had stood, a humanoid figure composed entirely of bees filled the space. Eriarwen the Swarm exploded in a cloud of bees and each bee was Eriarwen. She sped across the countryside from one village to the next, stinging every animal affected by the Red Blight, and the villagers watched as the woodland creatures, their own pets and livestock, returned to normal. Good as new! None knew then that it was Eriarwen who saved them, but all knew it must be a member of her family. Who else?
+
+But Eriarwen was just getting started. Returning to her grandmother's corpse, the swarm coalesced and Eriarwen emerged, a young woman again. But her hair was flame and lightning crackled where she walked.
+
+"CASWYN!" she thundered. "I SUMMON THEE! COME! YOU CANNOT RESIST! I COMPEL THEE!"
+
+Caswyn, furious at the death of his blight, furious at the girl who dared oppose him, could not resist. He revealed himself and in that moment, it was Caswyn the Pestilent, saint of Cyrvis who appeared.
+
+Saint Caswyn and Saint Eriarwen battled and grappled with each other, each growing to great size infused with the power of their gods. But their figures were unrecognizable. Caswyn was a rotting giant, a mutated dragon, a griffon oozing blood.
+
+Eriarwen was a wolf made of fire, a crow made of lightning, a bear made of stone.
+
+Caswyn the Chimera hurled Eriarwen the Lion to the ground and it was Caswyn the Cobra who struck. But it was Eriarwen the Elk who spit Caswyn upon her antlers, banishing the saint from the mundane world.
+
+Eriarwen returned to herself, and though she was now an immortal saint, she sensed that Salorna had given her yet more power. She saw her mother weeping over her grandmother's body. The old woman's horse, restored by Eriarwen's sting, nuzzled at her mistress's curled gray hair.
+
+Eriarwen smiled, and knew the task before her. She conjured lightning from her fingertip, and her grandmother was renewed. Mothers and daughters reunited.
+
+Eriarwen teaches that nature holds the power to destroy—that Mother Nature is also the fury of a hurricane. She preaches revenge against those who would pervert the natural world. And that those who seek to preserve the balance between humans and nature must be willing to take violent action if necessary.
+
+#### Evil Gods
+
+Most heroes are hero-heroes, but some heroes are anti-heroes, and some are anti-villains! This section presents one archetypal saint from each of Vasloria's evil gods; the brothers Nikros and Cyrvis for those players who wish to play such heroes.
+
+##### Nikros the Tyrant
+
+**Domains:** Death, Fate, Storm, War
+
+Nikros is strength. He is dominance. His is the right of the strong to rule over the weak. He is the Tyrant.
+
+Nikros believes that strength is the only virtue, and those who are born strong were born to rule. Because of this, followers of Nikros are often mistaken for followers of Adûn—a mask they are happy to wear. Both teach that strength is good. But for Adûn strength is a tool for helping others. For Nikros, strength is power to enact your will heedless of the consequences. Might is right.
+
+Many is the baron or duke who attained power through sheer strength and ruthlessness, seeing their people as mere resources to be spent. Many of these rulers only come to Nikros after achieving power, their ears poisoned by a priest of the Tyrant.
+
+Though he and Cyrvis are brothers, Nikros hates Cyrvis because Cyrvis is feeble and weak. Both teach that strength is the only virtue. But Cyrvis teaches that the weak can exploit treachery and sorcery to become strong. Nikros spits upon these feeble wastes and preaches to the strong to take what is theirs by right.
+
+Like Cyrvis, his priests worship in secret. Like Cyrvis, folk hate followers of Nikros, while sometimes secretly admiring them. Bullies always have their sycophants.
+
+Nikros's censors take what they want, ignore the law heedless of consequence, and teach that all folk should live thus. To subjugate one's will to the law, or the community, or the family, is to be weak! Weakness is a disease and it must be eradicated!
+
+##### Pentalion the Paladin
+
+**Domains:** Death, War
+
+Pentalion the Paladin, the Usurper, served at the right hand of Uther the Callous, aiding him in his ascent to the throne. Uther mastered fell sorceries under the tutelage of a priest of Cyrvis. In public, Uther's illusions kept him hale seeming, but in reality his addiction to sorcery had withered him.
+
+Pentalion was Uther's greatest knight, general, and chief of his secret police. He ferreted out conspiracies and rebellious coalitions. His tactic: infiltrate the rebels with his own agents—give them a taste of success but at the cost of relying on his power. Then, in their moment of triumph, Pentalion's agents revealed themselves and the insurgents found themselves surrounded by enemies without and within.
+
+Eventually serving at the right hand of the conqueror was not enough. Pentalion loathed Uther for his physical weakness and growing dependence on sorcery. After Pentalion helped Uther depose a nearby duke, the paladin helped the dead duke's daughter plot revenge.
+
+He used all his usual tactics. His agents aided the duke's daughter and helped her build her insurgency, but in a critical moment when she confronted Uther with only Lord Pentalion as witness, the evil paladin killed first Uther, then the duke's daughter assuming leadership of both the kingdom and the rebellion.
+
+Savior to all, Pentalion was made a saint of Nikros for this act. He ruled well into old age, always finding new enemies within and without to be cruel to. And the more cruel he was to his invented enemies, the more the people loved him.
+
+Saint Pentalion teaches that one should bide their time and build their power before striking. That treachery in service to growing your own power is no vice.
+
+##### Cyrvis
+
+**Domains:** Death, Fate, Knowledge, Trickery
+
+Cyrvis is the enemy of fate. He is the god of those who believe they have been wronged by life, and seek revenge. Cyrvis is a god of magic, because through magic one can gain power to exert their will over others. He is brother to Nikros but because he is frail and Nikros values only strength, Nikros hates Cyrvis, and Cyrvis is happy to return the sentiment.
+
+A person bullied, a criminal arrested, a servant dismissed—all who harbor secret hate whisper Cyrvis' name, and that whisper is a prayer. A suitor rejected by a consort who loves another finds themself walking in Cyrvis' shadow. He is the god of assassins, conspirators, and the bitterly frail.
+
+It is dangerous to worship Cyrvis in public, but those who gain power through his worship often parade this fact gladly and teach Cyrvis' hatred as virtue. Many is the knight who rides with Cyrvis's scream ing-skull talisman on their shield, teaching folk to take what they want, the law be damned. The law is a coward! The law is a system designed by cowards to keep us from seeking real power!
+
+His churches are often underground—in dungeons, cellars. His priests worship in secret, plotting against those with power, or those who are merely popular. To be liked and loved is reason enough for a follower of Cyrvis to hate you.
+
+##### Eseld of the Eye
+
+**Domains:** Knowledge, Trickery
+
+Eseld of the Eye, the Eye of Hate, sought mastery of the Tower of Summoning. But though she studied hard, there were always other mages more fortunate.
+
+Cursing those who succeeded where she failed, Eseld sought the *Tome of Boiling Hate*, written by Cyrvis himself during his life. Acquiring the tome required years of research and treachery. Eseld left a trail of poisoned librarians and tortured loremasters behind her before finally unearthing the tome from its resting place at the bottom of the inverted Tower of Blood.
+
+But though the tome was written in an ancient dialect Eseld knew, the words moved under her gaze and she could not extract meaning from them. Many oracles were consulted and tortured before she learned the prophesy.
+
+"Only one with singular vision will see the secrets in the Lich's writing."
+
+With a flash of certain insight, Eseld understood the riddle. She took a dagger and carved out her own eye. With only one good eye remaining, blood from her eyesocket pouring onto the page, she could read the lore within.
+
+In that moment was Eseld made a saint of Cyrvis.
+
+Filled with sorcerous power, Eseld no long sought mastery of the Tower of Enchantment, returning instead to the hidden Tower of Blood, restoring it to its former glory—there to start her own cult. Eventually Eseld was overthrown by the Darkling Shades, her own cadre of elite sorceresses who pass on her lore to this day.
+
+Eseld teaches that spite is a virtue. Only fools follow rules, and sorcery is a route to ultimate power.
+
+### Space Gods of the Timescape
+
+The nature and origin of the gods of the timescape is not well understood. Unlike the gods of Orden, the Space Gods are corporeal beings, usually of immense—even planetary-size. Some are humanoid, others, like Nebular the Star Mother and XXAXX, decidedly not so.
+
+They have godlike power—greater it seems than the Innumerable Younger Gods. But there is no evidence that they can create whole realities like the Elder Gods. They are not, as far as sages can make out, the authors of the worlds or people of the timescape. They may represent the last survivors of previous realities, High Science experiments run amok, or ascended beings from ancient civilizations who outlasted the fall of their people.
+
+Rather than moral principles, the Space Gods represent abstract concepts and often alien points of view. They are more inscrutable than the gods of Orden, more capricious in their dealings with mortals. In some ways more accessible. In others, more dangerous.
+
+Only a handful of those who dwell on Orden have ever heard of these figures, or know that the stars are anything other than pinholes in the curtain of night.
+
+#### Lords of Law and Chaos
+
+The Space Gods do not concern themselves overmuch with what humans call "ethics." They embody older principles—order, chaos, balance. Each faction thinks their fundamental principles are morality. The universe needs stability, predictability, say the Lords of Law. The only constant is change, say the Lords of Chaos. The truth lies between, say the Lords of Balance.
+
+#### Heralds of the Space Gods
+
+Whether it is a tradition or some real limitation, each Space God has, instead of saints, a single herald—a mortal chosen to be the voice of the Space God and communicate with their worshippers where the god themself cannot due to their alien mind.
+
+These heralds function much the same way as saints. They grant conduits and censors power in battle, but without the moral expectations of Orden's gods. The Space Gods themselves are more capricious, but their heralds often arrive in person to aid their followers and take an active interest in the mortal affairs of the timescape.
+
+#### Religion in the Timescape
+
+The people of the timescape know and believe in their gods just like the people of Orden do. There are churches throughout the worlds to Quasax the Ultra Nova, temples to Mynoth the Way. Even XXAXX the Anti-God has his worshippers: the Cult of Undoing.
+
+But most citizens of the timescape do not carry the gods with them in their daily lives the way the people of Orden do. The gods of the timescape are powerful and reward their worshippers, but they are remote and unknowable. Most denizens of the upper worlds view a church as just another kind of shop. A place to go to renew your soul and speak the rites that your parents spoke. For many denizens of the upper worlds, religion is more of a cultural phenomenon than a way of life.
+
+The closest analog to worship in Orden to be found in the upper worlds would be in Alloy, the City at the Center of the Timescape. The great port city where civilizations across the timescape come to trade is also a city of temples. Temples to every god and saint and hero and herald in the timescape—some dead, some forgotten—can be found somewhere in the ancient city's limits. Folk from Orden arriving in Alloy (an incredibly rare event, as it takes enormous energies to lift one's ship up out of the slow-time of the lower words) remark at how familiar Alloy seems to them. It is a city where the upper and lower worlds mingle and steel sabers sometimes cross with swords made of hard light.
+
+#### Nebular the Star Mother
+
+**Domains:** Creation, Life, Love, Sun
+
+The Queen of Suns. A living nebula. Desperate ships in need sometimes find themselves enveloped within Nebular, their systems repairing, their injuries healing.
+
+She is a stellar nursery leaving a trail of infant stars in her wake. Hers is the Engine of Law transforming darkness into light, chaos into order. She is the most popular god among the memonek and the senior god among the Lords of Law insofar as their hierarchy can be discerned by mortal minds.
+
+She is the goddess of creation and for some of her followers, life itself, as her children's energies feed all life on all worlds. Her priests teach that life is the opposite of entropy, and the natural byproduct of her solar incubator.
+
+##### The Calling of Lady Magnetar
+
+**Domains:** Life, Sun
+
+Captain Kalisdrossa was the leader of Sword Squadron an elite cadre of legendary UNISOL fighter pilots. Her crew believed unwaveringly that with Kalisdrossa as their leader, though one or two may perish in battle, the squadron would always come home.
+
+In the legendary Battle of Cassiar IV against Grotenhulk the Evolver, flagship of the protean fleet, the protean mutate-commander Oruth-phor intended to break Sword Squadron's winning streak, and from the body of PCS Grotenhulk, a giant swam of living drone-sprites, each specially evolved to seek and destroy UNISOL Arrestor-class ships, spawned.
+
+Sword Squadron's meson repeaters were too imprecise to target the tiny drone-sprites. Not only were the pilots unable to carry out their orders, they were being picked off one by one. Many privately believed this was the final flight of Sword Squadron.
+
+When one of her pilots dropped his countermeasures and temporarily distracted the swarm, Captain Kalisdrossa had a flash of insight. Seeing an opportunity to destroy the swarm, save her crew, and give them a fighting chance to complete their mission, she ordered Sword Squadron to ignore the drone and proceed with their attack on the protean flagship.
+
+Her wingman sent back, "The drones will kill us before we're halfway there!"
+
+"No they won't," she responded—and then sent her last message. "Squad, you have your orders. First lieutenant Vachsimnatta is in command. Kalisdrossa out."
+
+As her squad peeled away to begin their final run at the protean capital ship, Kalisdrossa dropped all her countermeasures and flipped on her turbothrusters, believing the overheating engines would ignite the metal sensor-chaff she had jettisoned.
+
+Her instincts were precise and correct. The resulting chemonuclear reaction generated so much light and heat—the entire swarm of drone sprites turned to pursue Sword-1.
+
+There was only one place to lead them. The surface of Cassiar Prime was a boiling sea of plasma condensate powerful enough to rip planets apart. "It should make short work of these drones," Captain Kalisdrossa thought.
+
+Sword-1 plunged into the fermionic sea, the hull boiling away moments before impact. A million drone-sprites followed into oblivion. Commander Oruth-phor howled his fury into empty space and ordered his ship to envelop the UNISOL capital ship, literally swallow it whole. Grotenhulk the Evolver understood the command and knew it was suicide, but the ship was compelled to obey.
+
+Watching the great maw of the living changeship open to swallow an entire flagship struck terror into every memonek in the fleet.
+
+Then, crackling across every signal unit, a voice. "COME FORTH LADY MAGNETAR, CHOSEN OF THE MOTHER OF STARS." And out of the blue plasma sea that was the surface of the star Cassiar Prime arose a figure, humanoid, made of solid boiling plasma.
+
+It was Kalisdrossa, still wearing the helmet that marked her captain of Sword Squadron, holding in her hand the blue-topaz Fusion Rod—a
+
+powerful artifact that would serve as her weapon, and the symbol of her office as Herald of Nebular.
+
+Lady Magnetar flew across the void of space at lightning speed, evaporating protean fighters as she went. Until finally she faced Grotenhulk the Evolver, his maw poised to envelop the UNISOL capital ship.
+
+She punched a hole right through the hullskin of the changeship and battled her way, deck by deck, toward the heart of the beast. Though a thousand protean soldiers stood in her way, none could touch her or slow her relentless progress.
+
+The memonek officers and soldiers of UNISOL watched the bleeding changeship convulse, then explode as brilliant shafts of blue light tore the ship apart. Ending the Battle of Cassiar IV.
+
+Lady Magnetar is the Herald of Nebulon the Star Mother aiding those who fight in the cause of light and life and order. She is invoked whenever a great sacrifice must be made. "Lady Magnetar, let my sacrifice not be in vain."
+
+#### OV the Wave Pilot
+
+**Domains:** Fate, Knowledge, Storm, Sun
+
+OV the Wave Pilot, the Navigator, an enigmatic humanoid figure described as masculine, appears to live inside the pilot-wave. In those rare instances where a mortal is directly exposed to the energies that propel ships across the sea of stars, they occasionally report seeing a figure that matches the description of OV.
+
+Lost ships sometimes find their navigation systems lighting up, a clear path home suddenly visible where no such path was possible before. OV aids those who are lost regardless of their affiliation with law or chaos, and is one of the Lords of Balance. His herald works to stop conflicts by guiding ships around and past routes that might cause them to intercept hostile entities.
+
+OV is the god of navigators and those who seek safe passage through treacherous scenarios. Because he cares little for the politics of the timescape, he is respected by the time raiders, though none would call him or any other being their "god."
+
+When a time raider swears, "OV guide me," the meaning is not, "Show me the right thing to do." But: "Show me a way out of this mess."
+
+##### The Calling of Cho'kassa the Time Rider
+
+**Domains:** Storm, Sun
+
+"*Take the helm and damn them all!!*"
+
+Cho'kassa and her family-clan were prisoners of UNISOL being taken to Ordos, the capital of Axiom for trial on charges of piracy and insurgency. UNISOL, she deemed, made arrests first and invented whichever laws were convenient afterward.
+
+Halfway through their journey, the UNISOL corvette was attacked by a protean heavy patrol vessel. The smaller protean ship latched itself onto the hull of the UNISOL corvette, lamprey-like, and its digestive acids quickly burned a hole in the plasteel, allowing the protean boarding party to invade.
+
+Though the rest of her captured clan believed the proteans had, for some reason, come to free them, Cho'kassa was not so optimistic. Eventually, the boarding party made it to the prison deck and opened the cells. They were evidently as surprised to find the imprisoned kuran'zoi as the time raiders were to be rescued by proteans!
+
+"You were prisoners, now you are our thralls. Obey and earn your freedom."
+
+The rest of her clan were unsure of their options, but Cho'kassa grabbed the protean captain's hardlight pistol out of his hand and shot him in the chest. Her clan were now sure.
+
+With that pistol shot, the fight for the UNISOL corvette became a running battle between three factions. The time raiders stole weapons from the bodies their enemies left behind, and the small band fought their way to the bridge, none knowing what they would do once they got there.
+
+On gaining the bridge, messages blared from every signal receiver. Each side demanding the time raiders join them and defeat their enemies. Many promises and threats were made. The kuran'zoi looked to Cho'kassa.
+
+"Take the helm and damn them all!" she called out. "There must be a way home!" And in that instant, the navigation screens sprung to life. "Look!" her brother said. A route had already been plotted. One that made no literal sense. Was the ship's logic system malfunctioning?
+
+Was there a way out? Could the impossible course on the star chart be trusted? It was a moot point, as the ship was still caught in the grip of the protean's ship's sucker-mouth.
+
+"There is a way" her brother said, but pulling away from the protean ship would require disabling all the safety circuits preventing the star-engine from going into overload. It might damn them all, but for at least a moment, the ship would have enough power to rip itself away from its parasitic attacker.
+
+Cho'kassa ordered her clan to hold the bridge and seal the door behind her, and she fled alone to the engine room. She picked up a protean rifle as she ran, and though she could hear the battle between the memonek and proteans raging, her path was mercifully clear of enemies.
+
+Finally facing the great star-engine of the UNISOL ship, Cho'kassa punched in the override codes, and used her recovered rifle to blast the shielding off the star core. Bathed in brilliant yellow light that was killing her second by second, Cho'kassa leapt off the gangplank across the safety gap, and into the star core itself.
+
+Others thought this a strange way to end one's life. But Cho'kassa had seen the sign of the Wave Pilot when the navigation screens on the bridge came to life, and instinct compelled her. Some insight said that only if she joined with the ship could she save her clan. When her consciousness continued even after the engine disintegrated her body, she knew her faith proved correct.
+
+Now part of the ship itself, Cho'kassa could see the relationship between time and space. The Wave Pilot appeared before her, an enigmatic figure made of gold-green light, and conveyed without words the secret. The dark star, Procellon Beta, warped space and time around it, and that was why the plotted chart that appeared on the bridge could not be understood.
+
+The energies of the wounded star-engine ripped through the ship killing the memonek and proteans onboard, but did not breach the door to the bridge. Cho'kassa piloted her new body with her family nestled safely inside through the course the wave pilot had set.
+
+The harrowing, twisting path brought the ship close to the horizon of the dark star, through an inverted waveform, and they emerged weeks before they set out. Cho'kassa followed the course until it brought them to the UNISOL ship well before the events that led to the capture of her people.
+
+With her clan manning the blaster turrets, Cho'kassa destroyed the memonek ship. Erasing the timeline in which they had originally been captured.
+
+"What just happened?" one kuran'zoi asked. "How can we be here, now?"
+
+The ship returned to manual control. Cho'kassa was no longer the ship. Her brother looked through the viewscreen at the starry sea outside, and said, "Only the stars know."
+
+Cho'kassa the Time Rider is the herald of OV the Wave Pilot invoked by those who are lost and yearn for home. She sometimes appears riding her single-seat metal star bike, the Wavebreaker which she employs as a tug, pulling ships that ventured too close to a dark star out of danger.
+
+# For the Director
+
+In film and TV, the director collaborates with writers, actors, designers, and the many other people working together on a collective story, then makes that story shine. That's also what the Director in *Draw Steel* does! If you plan on being the Director of a *Draw Steel* session or campaign, this chapter of the book focuses on your role in the game.
+
+Before we dive into helpful advice for Directors, we want to make you aware of the *Running the Game* [series of videos on Matthew](https://www.youtube.com/watch?v=e-YZvLUXcR8&list=PLlUk42GiU2guNzWBzxn7hs8MaV7ELLCP_) [Colville's YouTube channel](https://www.youtube.com/watch?v=e-YZvLUXcR8&list=PLlUk42GiU2guNzWBzxn7hs8MaV7ELLCP_). Hey, we know that guy! He's the Design Director of this game! Most of these videos reference the world's oldest roleplaying game, but their advice is universal to folks running tabletop RPGs everywhere.
+
+### What's a Campaign?
+
+A campaign is the entire story of a group of heroes told while playing the game. It starts with a campaign pitch from the Director to the other players. During the pitch, the Director tells the players about the setting where the game takes place and what kinds of stories the heroes will undertake.
+
+If the players like the pitch, they create heroes and then the game begins! The Director prepares and runs adventures which are played out over a series of game sessions. During these sessions, the heroes play out scenes that include combat encounters, negotiations, montage tests, investigations, downtime projects, and more.
+
+The best way to think of a campaign is to compare it to a film saga, a series of novels, or an epic television show. Each adventure that makes up a campaign is one film, book, or season of television in that series. Each game session is then an act of the adventure's film, a chapter of its book, or an episode in its TV season. Adventures might be tied together by an overarching villain who the heroes face in a thrilling final encounter. Or they might have connected goals, such as the heroes hunting and destroying evil artifacts, that tie them together in a campaign. These ties between adventures aren't necessary, but many players are drawn in by a cohesive campaign story.
+
+Some campaigns are short, spanning only a single adventure or even just one session of play. Most last a good while longer than that, and contain multiple adventures. The longest campaigns feature many adventures and take the heroes from 1st to 10th level.
+
+> **You're Not Being Tested**
+>
+> You don't need to memorize every single rule and exception before you start running *Draw Steel*. This is a big book, and you're allowed to use it while you play! Whenever a question comes up at the table, you can tell the other players, "Let me reference the old texts," and find the right answer.
+>
+> You absolutely don't need to know every ability or feature that the heroes have access to. Let the players be the experts on their characters. And if a player is ever unsure of how an ability works, have them read it out loud so you can talk it through, or you can look up the answer together.
+
+### The Director's Role
+
+The Director has a number of key jobs in this game, which we'll go over in this chapter:
+
+- Before a campaign starts, the Director pitches the idea of their campaign to the players.
+- Before each game, the Director prepares the adventure by building scenes that include encounters, negotiations, and downtime activities.
+- During the game, the Director presents the scenes they've prepared to the players.
+- During the game, the Director is responsible for how the NPCs and the environment react to the actions of the heroes. This includes changing and skipping prepared scenes and running new scenes on the fly.
+- During the game, the Director acts as a referee, adjudicating the rules. If something isn't covered by the rules, the Director decides how to determine what happens next in the game.
+- After the game, the Director makes or reviews notes covering what happened during the game, then starts planning for the next game session.
+
+#### First Time Running a Game
+
+If this is your first time ever running a *Draw Steel* game, good for you! Directing a game is a super rewarding experience that allows you to lead your friends in group storytelling. It's also a lot of work, but that work is fun for folks who enjoy creative activities. You're running a game for your friends. They want to have fun, but they also want to see you succeed. Remember that this is a collaborative experience—it's not all on you.
+
+This chapter covers the basics of running a *Draw Steel* game. While you're learning to run the game, or if you're playing with new players, don't be afraid to start small and easy. A low-level adventure pitting the heroes against bandits will not only be exciting and fun, it'll give you the experience you need to eventually play a world-crossing, branching-scenario, multilevel campaign in the future.
+
+Of course, if the other players in your gaming group all like to jump right into the deep end and learn as they go, then have at it! Either way, at the end of each session, take a few minutes for everyone to talk about the highlights of your game, and the things you and they would like to see more of in the next session. It won't take long, and it'll quickly help you to improve your campaigns.
+
+### Campaign Pitch
+
+Before you start running or even preparing adventures, you need to find a group of people who want to play this game with you. You probably already have a group of friends in mind, so prepare a quick campaign pitch for them.
+
+A campaign pitch is a document or a quick spiel you give to your players to make sure they're interested in the campaign you want to play. This helps them understand the sort of game you're planning on running and what's in store for them as players. If something in your pitch doesn't appeal to a player or if they have questions, you can address those concerns much more easily before you all start playing.
+
+The pitch is all about communication. Nothing halts everyone's enjoyment of a campaign faster than a player not having a good time, so let them know what kind of game you want to run and what you're expecting of them. A campaign pitch allows a player to discuss any reservations they have, or even to gracefully bow out of the campaign before it starts.
+
+If you can, present your pitch to the players before the first session, so they can be fully on board and thinking about the hero they want to create before it's time to put pencil to character sheet. Otherwise, present your pitch during your first session
+
+#### Opening Overview
+
+A campaign pitch starts with a few paragraphs of information that provides an overview of your campaign's theme, settings, and conflicts. Your initial overview should answer these questions:
+
+- Where does the campaign take place?
+- What major events important to the campaign's plot have occurred before the campaign starts?
+- What kinds of adventures might the heroes have over the course of this campaign?
+
+This overview doesn't give away any of the campaign's secrets—for example, that the key to defeating the boss villain is destroying the artifact known as the Mortal Coil. It doesn't spoil surprises such as the Baron of Dalrath secretly being a lich. Rather, the overview gives the players an idea of how their story starts and what kinds of adventures they'll go on. The best pitches leave players wanting to know more and ready to dive into the action.
+
+Here's an example of an opening overview that Matthew Colville created for his gaming group.
+
+##### Overview: Wards of the Last Emperor
+
+*Long before the time of Good King Omund, the lands of Vasloria and all of Orden belonged to the Caelian Empire. The last emperor, Marcus Octavius, held near-omnipotent power, which he used to protect his citizens and extend the borders of the empire. But his greatest general, Actius Vispania, betrayed him and schemed to usurp the throne.*
+
+*Knowing he had discovered this betrayal too late to stop it, Octavius took his knowledge and his weapons and spread them across Orden, sealing them behind powerful wards. All this was done in secret. Even his closest allies did not know the location of the wards, the number of which is now lost to the mists of time. Were there seven? Nine? Legends differ.*
+
+*The rebellion against Ajax begins here. Surely the wards of the emperor contain the power to stop the Overlord. The heroes must travel across the world and brave many dangers to find and unlock the last emperor's wards. Whoever does will wield the lost empire's power.*
+
+As you can see, this opening overview introduces the setting—Vasloria (see [Orden and the Timescape](#page-24-1) in [Chapter 1: The Basics](#page-17-3)). It also gives just enough history and background information for the players to understand their heroes' goal—to recover the knowledge and weapons of the last emperor, sealed behind powerful wards, in order to stop the tyrant Ajax.
+
+> **Personal Problems at the Table**
+>
+> Sometimes a player might talk over others. Sometimes a player makes a snarky comment that hurts someone else's feelings. Sometimes a player might cheat on their dice rolls. When personal problems pop up at the table, it's best to talk about those issues at the player level rather than try to solve them by punishing a player's hero.
+>
+> If the problem is serious enough, you can stop play and talk to anyone who needs it. If the problem is just an annoyance, you might wait until your game session ends. It's best to have these conversations with just the players involved to get their perspectives, rather than in front of everyone and increasing the chance of someone getting embarrassed and defensive. Most of the time, a person doesn't even realize they were creating a problem for the other players. Once the issue has been talked out, they get a chance to change their behavior and solve the problem.
+
+#### Gameplay Breakdown
+
+After your opening overview, you should break down roughly how much time you think the players will spend engaged in various types of challenges and scenes.
+
+##### Gameplay Categories
+
+You can break down your game into the following categories:
+
+- **Combat:** How often are the heroes using violence to overcome challenges?
+- **Exploration:** How often are the heroes exploring new environments that are difficult to traverse? How often do you expect the heroes to make tests using skills from the exploration skill group?
+- **Interpersonal:** How often are the heroes using negotiation and conversing with NPCs to overcome challenges? How often do you expect the heroes to make tests using skills from the interpersonal skill group?
+- **Intrigue:** How often are the heroes solving mysteries, finding double agents, and skulking about the shadows to achieve their goals? How embroiled will they get in the politics of competing people and factions? How often do you expect the heroes to make tests using skills from the intrigue skill group?
+
+These are the primary types of scenes found in many campaigns, but you could also add your own. For instance, if you want to run a campaign full of diabolical brain teasers and traps, you could add a "Puzzles" category to your campaign pitch document.
+
+##### Category Frequency
+
+Give each category a rating to show the players how often you expect them to experience scenes in the campaign that involve that type of gameplay.
+
+- **High:** If a category has a high rating, you expect the heroes to experience multiple scenes involving this type of gameplay during each session.
+- **Medium:** If a category has a medium rating, you expect the heroes to experience at least one scene involving this type of gameplay every session or so.
+- **Low:** If a category has a low rating, you expect the heroes to experience a scene involving this type of gameplay less than once per session.
+
+Category frequencies aren't hard and fast rules. They're simply meant to give the players an idea of what kinds of scenes you'd most like to run for them. There might be a session or two where you skip a category type you marked as high or medium because the heroes do something unexpected, or because you and the other players are all having fun playing out the story in a different way.
+
+##### Breakdown: Wards of the Last Emperor
+
+The Wards of the Last Emperor campaign pitch has the following gameplay breakdown:
+
+- **Combat:** Medium. The heroes might tussle with the forces of Ajax, guardians of the lost wards, and other factions who desire the last emperor's treasures.
+- **Exploration:** High. The heroes must traverse Vasloria's most remote locations to find the wards.
+- **Interpersonal:** Low. Heroes will likely interact with other NPCs as they track down leads on wards, but won't have frequent conversations or negotiations with them.
+- **Intrigue:** Medium. Heroes will regularly contend with all the other entities who want the prizes hidden behind the wards, engaging in counterintelligence and sabotage.
+
+#### Player Buy-In
+
+After the gameplay breakdown, tell the players what's expected of them so that the group gets the most enjoyment out of the game. Let them know details such as how often you expect the characters to be traveling from one place to another, the types of rewards or accolades they might be earning, and what kinds of adventures they're about to go on.
+
+You want to be upfront about what kind of buy-in you need from the players. So it's a good idea to let them know, "Hey, in order to get the most out of this game, you'll need to enjoy diving into ancient ruins." Or tell them, "This game has some horror themes. If you're not interested in playing heroes who have fears they need to face, we should do something else."
+
+##### Buy-In: Wards of the Last Emperor
+
+Visiting lots of different locations and cultures has to sound cool. You won't start in a town and eventually become the heroes of the barony, but will instead become legendary heroes across multiple realms. You'll constantly be leaving the people you've met behind, but you'll eventually have a base you return to after completing each quest. You'll have allies and enemies all across the world!
+
+The buy-in tells the players that their heroes are going to travel to far-flung locations, and that it might take them a while to find a home. If a player is looking for a different experience, such as a game that takes place entirely in the city of Capital, they now know that your game isn't for them!
+
+#### Player Option Restrictions
+
+Some campaigns include restrictions on the character options players can choose. For example, a Director might be interested in running a game where the heroes are all memonek and time raiders who have come to Vasloria searching for a secret incursion of voiceless talkers. In this case, the Director might restrict all ancestries (see [Chapter 3](#page-35-0)) except those two. A campaign about citizens forming a rebellion to take on a tyrannical leader might restrict career options (see [Chapter 4](#page-67-0)) so that no one can take Aristocrat or Politician.
+
+Put any restrictions your campaign has into your pitch!
+
+#### Presenting Multiple Pitches
+
+If you have multiple ideas for campaigns that you want to run, put together a pitch for each of them and ask the players to decide which sounds the most interesting. It's a good idea to have the players rank each pitch and tell you which ones they love, which ones aren't their favorites but they'd still enjoy playing, and which ones they definitely have no interest in. That way, if most people love two of your pitches but one of those favorites makes one player say, "No way!", you know which one to pick.
+
+#### Discussing the Pitch
+
+Once you give a pitch to the players, ask them to give you their honest opinions. If someone doesn't like an aspect of your pitch, don't get defensive. Hear them out. You might be able to accommodate them. You might be willing to tweak your gameplay breakdown or buy-in to play a game with your friends. You might be willing to lift one of your restrictions for a single player to add some spice to your campaign. For instance, an aristocrat who joins a group of farmers in a rebellion is an interesting plot point!
+
+It's also okay if, after hearing out potential players, you're not interested in running the kind of game they want to play. This happens, and it's why we recommend that you pitch your campaign. There's no harm in having different interests, but there is in forcing people to play a game together that won't be fun for everyone. If you can't see eye-to-eye with a player, it's okay to agree that they or you should find a different group.
+
+#### Pitching a Published Campaign
+
+Writing your own campaign setting and adventures takes time! Maybe you want to save yourself some of that work and instead run a campaign in an official MCDM setting such as Vasloria, using our published adventures that take place in that setting. We also allow third-party publishers to make their own *Draw Steel* settings and adventures, so you might want to use one of those instead.
+
+If you want to run a campaign built on published material, give that material a read, think about anything you'd like to change, and then pitch it as you would any campaign you create yourself. When you're running published material, you're still the Director. You can change anything you don't like or that you think isn't a good fit for your group.
+
+If your players participate in other games of *Draw Steel*, it's a good idea to ask them if they're familiar with published adventures when you pitch them. Sometimes it's okay for a player to experience an adventure twice, but most adventures involve some sort of mystery or plot twist. It's best to run something new for your players, so it's good to know what else they've played before you pitch.
+
+### House Rules
+
+You can always change the rules of the game to fit your campaign and taste! Maybe it better suits the pace of the campaign to have a respite last 8 hours, or perhaps a respite should take a week. You might prefer if critical hits are super rare and happen only on a natural 20. You could allow heroes to spend hero tokens to reduce the amount of Malice you have (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*). You might decide that all heroes have a free +1 bonus to any characteristic of their choice at 1st level.
+
+The rules you create or modify to suit your group are called house rules. You can have as many house rules as you like, but you should discuss these rule changes with the players before implementing them. If you decide that critical hits only occur on a natural 20, the worst time for a player to find that out is right after they roll a natural 19 in combat.
+
+Talk to the players about the house rules you want to use in your campaign, and discuss any ideas they bring to you for house rules during your first session.
+
+### Building the Campaign
+
+After your players agree to your pitch, it's time to start building the setting where your game takes place.
+
+#### Reading a Published Setting
+
+If your campaign takes place in a published campaign setting, read the material that pertains to the campaign you've pitched. You shouldn't feel as though you need to read the entirety of the setting if it isn't pertinent to your campaign. For instance, if you're building a campaign that takes place entirely in the Barony of Dalrath, you probably don't need to read about the city of Blackbottom many miles beyond Dalrath's borders.
+
+As you read, make notes on anything interesting in the setting that you might want to incorporate in your campaign, as well as anything you want to change.
+
+Your top priority should be the campaign's starting location. In which district of Capital do the players start their first adventure? Which world of the timescape will be the first the heroes visit? What settlement in Vasloria holds their first adventure? Answer that question and get familiar with that place first. You'll have plenty of time to read further as you plan out your games.
+
+#### Building Your Own Setting
+
+If you plan on building your own campaign setting, the work of worldbuilding can be overwhelming. But don't worry! You don't have to build the whole thing before the campaign starts. Your world is more likely to feel layered, interesting, and authentic if you start small and build out the locations, people, and organizations within it as you go.
+
+##### Start Small
+
+If you're planning on making your own campaign setting, start small. Instead of detailing every settlement on every continent on every planet in a universe, build a starting town or an initial district in a city, then work up the surrounding area in which the first adventure takes place. Use the following steps as a guide:
+
+**Locations:** Make a list of any important locations in the campaign starting point, such as an inn or house where the heroes are staying, merchants they might want to visit, and the headquarters of organizations that might be important to them.
+
+- **NPCS:** Write the name, ancestry, age, gender, and a brief note on personality for each NPC the characters might interact with in the locations you've created.
+- **Adventure Sites:** Repeat the above two steps for any adventure sites the heroes might visit during their first adventure. Detail the sites, as well as any important NPCs and villains the heroes might interact with.
+- **Organizations:** You can also detail the laws and function of organizations the heroes might interact with during their first adventure. What governments, churches, and guilds could they come across? How might these organizations interact with the characters? You don't need to write up every bylaw in a pirate code, but it would be good to know how the pirates react to adventurers asking to sail the seas on their ship.
+- **Map:** Make a map of the starting area. It doesn't need to be good! Just a few clearly labeled dots and squiggles showing the setup of city neighborhoods or the locations of forests, deserts, mountains, bodies of water, and other landforms should be plenty.
+
+Each time you need a new location or adventure site for an upcoming adventure, detail it in a similar way and add it to your map!
+
+##### Keep Things Vague
+
+There might be other details of your campaign you'll want to establish before your first adventure. For example, you might want to know the nearest settlement to the heroes' starting town or the name of the monarch who rules over the country where that town is found. Go ahead and sketch out the names of any places you know will be an important part of your campaign, along with a single sentence or so of detail. You'll be able to add more detail to these items as needed while preparing the campaign.
+
+The main reason you shouldn't overprepare for the future is that you can't know how the players' choices and the characters' actions might change the world. Those actions should matter and have consequences. That's what makes the game fun and authentic. When what happens during a session surprises you, it should be a moment of delight—not a moment of grumbling because you just lost a lot of preparation work.
+
+Overpreparing means you'll end up doing work that you'll later throw out. So do the minimum you need to do to be comfortable running the game and no more.
+
+#### Campaign Styles
+
+You can run many different types of campaigns in *Draw Steel*, with some of the most common types discussed below. Any of the following concepts can be modified as you see fit to work for your campaign.
+
+##### Long Arc
+
+The long arc is a campaign model in which one villain or organization is behind almost every threat the heroes face. If every adventure sees the heroes battle the forces of Ajax or the vampire Count Rhodar von Glaur before eventually facing this main villain in their final adventure, then you've got yourself a long-arc campaign. Long arcs allow the heroes to learn of and even meet the villain several times before the final showdown, allowing for the creation of personal drama with the main antagonist and their underlings.
+
+If you're planning on running a long-arc campaign, you might want to make sure the villain's threat is quieter at certain times. Doing so gives the heroes a chance to take a respite now and then and work on their downtime projects.
+
+##### Adventure of the Week
+
+An adventure-of-the-week campaign lets the heroes face an entirely new threat each time a new adventure kicks off. During their first adventure, they might face cultists bringing an undead horde to life. In the next, they battle a band of pirates hell-bent on taking control of a peaceful island. Then it's a race to catch a group of time raiders before they disappear across the timescape with their kidnapped victims.
+
+Adventure-of-the-week campaigns can give the heroes plenty of downtime between adventures, since the quests aren't connected. However, they often lack the personal drama that comes from a campaign with recurring threats and villains.
+
+##### Looming Threat
+
+A looming-threat campaign is a combination of the long-arc and adventure-of-the-week-types of campaigns. Although many adventures in the campaign contain individual threats, a few have events orchestrated by a recurring villain who the heroes face at the end of the campaign. The villain's forces might make brief appearances to harass the heroes in adventures that otherwise have nothing to do with them.
+
+A looming-threat campaign allows the heroes to create personal drama with the main campaign's villain, while experiencing the variety of an adventure-of-the-week campaign.
+
+##### Multiple Fronts
+
+In a multiple-fronts campaign, several villains threaten people or locations the characters are bound to protect, with the heroes forced to prioritize the threats they face. While the heroes deal with one of their foes, the other adversaries advance their plans, growing in power and resources.
+
+Multiple-front campaigns make the world feel authentic and alive, but they require more preparation, since you're juggling multiple villains and storylines at the same time.
+
+#### Echelon Outline
+
+As part of your worldbuilding, you can create an outline of the events that might occur in each echelon of your campaign. The farther these events get from the start of the campaign, the vaguer you can leave the details. The actions of the heroes should matter and influence the course of events, so don't plan too much. Otherwise, you might end up throwing out earlier preparation to make player and character decisions matter.
+
+Your outline should include the plans of the villains in your campaign. Review [Echelons of Play](#page-22-0) in [Chapter 1: The Basics](#page-17-3) to get an idea of the threat level and stories the heroes should be experiencing at each stage of the campaign. An echelon outline might look like this:
+
+- **1st Echelon:** The heroes protect the village of Gravesford in the Barony of Bedegar from the forces of Lord Saxton, an usurper and tyrant loyal to Ajax. Eventually, they must bring the fight to Lord Saxton's keep in Bedegar City.
+- **2nd Echelon:** After toppling Saxton's keep, the heroes find a letter from Ajax detailing plans to amass powerful treasures from throughout Vasloria. The heroes can race to these locations to claim the treasures before Ajax's forces do.
+- **3rd Echelon:** With some or all of the treasures secure, it's only a matter of time before Ajax's army seeks out the heroes. The characters can build a coalition of allies to face Ajax, but those allies first require help getting out from under the rule of the Iron Saint.
+- **4th Echelon:** Ajax brings the fight to the heroes. If the Iron Saint loses, he retreats to his sanctum, where the heroes can follow if they dare.
+
+#### Complications and Campaigns
+
+If the heroes in your game took complications during character creation (see Complications), you should think about how the story of their complications might factor into the campaign. Complications aren't just a chance to add a benefit and a drawback to a hero. They're narrative hooks you can use to further draw the players into the campaign story.
+
+Discuss the details of a hero's complication with that hero's player. Complications are intentionally vague, and any of their narrative details can be modified to make the hero's personal story fit into the campaign. With the details worked out, ask the player how the hero feels about the complication? Does the hero think the benefit is worth having the drawback? Are they actively trying to find a way to rid themself of the drawback but keep the benefit? Or maybe they want to be rid of the entire complication, benefit be damned!
+
+##### Echelon Complication Outline
+
+Once you understand a hero's desires for their complication, you can create an echelon outline for the complication to give the hero's backstory some narrative teeth throughout the campaign. Consider the following example.
+
+Matt, playing Linn the talent, has the Elemental Inside complication. After discussing the details with the Director, Matt decides that years ago, Linn threw herself in front of a spell cast by Sorin the Brown, an evil earth elementalist. Sorin wanted to abduct Linn's talent mentor, a dwarf who was a perfect subject for her next deadly experiment. In taking decisive action, Linn saved her mentor but absorbed an angry force of earth named Bruulv. Sorin escaped and desires the return of her pet elemental. Meanwhile Linn is tougher thanks to the elemental within, but whenever she is dying, Bruulv takes control of her body and goes on a violent rampage.
+
+Matt tells the Director that Linn enjoys the extra protection afforded to her by Bruulv, since it makes her a tougher hero, and she would like to find a way to keep her benefit while losing the drawback. The Director comes up with an echelon outline for Linn that will enrich the talent's story and have ties to the main campaign (which happens to be the example campaign in the echelon outline above).
+
+- **1st Echelon:** After the heroes start riling up Lord Saxton's forces, Sorin offers her services to the tyrant for a chance to face Linn. During the heroes' assault on the keep, Sorin attacks.
+- **2nd Echelon:** Assuming Sorin's defeat, Bruulv becomes even angrier, and can now try to wrestle control away from Linn whenever she is winded in addition to when she is dying. Linn finds a Crown of Elements, a special magic treasure that allows her to force Bruulv back to a "takes control only while dying" state as long as she wears it. The crown has other elemental powers too—and is one of the items desired by Ajax.
+- **3rd Echelon:** As Linn and the other heroes build a coalition, an elderly high elf named Leaves of the Autumn Wind offers to enhance the crown, allowing the talent to speak directly to Bruulv. The catch is that Leaves needs a magic fire opal from the lair of a fire giant to enhance the crown.
+- **4th Echelon:** With the crown enhanced, Linn can speak directly to Bruulv. By learning the elemental's history and desires through negotiation, she can see that Bruulv mostly wants to return to the City of Brass so they might once again see the raw elemental powers come together. If Linn can visit this city that is literally worlds away, she earns Bruulv's trust and the elemental stops taking over her form.
+
+At each echelon, you should revisit your complication echelon outlines, since the actions of the players could change your plans. In the example
+
+outline above, if Sorin gets away after the battle with Saxton during the 1st echelon, the elementalist is likely to return and try to free Bruulv once again!
+
+### Creating Adventures
+
+A lot of Directors prefer to make their own adventures rather than use published ones. Creating your own adventures lets you tailor the story to perfectly fit the motivations of the heroes in your game, thus maximizing the fun for the players.
+
+Every good adventure includes villains, a task to accomplish, NPCs, and interesting locations and adventure sites.
+
+> **Player Ambition Writes Adventures**
+>
+> Players have ambition driven by their characters' complications, personal stories, and desires for titles, supernatural treasures, and other rewards. Indulge these desires! If a hero wants to go on a quest to gain a Blade of Quintessence, let them know where they can find one (after they put in the proper research or questing time, of course). You can then plan an adventure, even just a short one, around the weapon's retrieval!
+
+#### Villain
+
+Every good adventure has a villain behind the trouble the heroes are trying to solve. This is a game about fighting monsters, after all, so give the heroes something to fight!
+
+##### Villain Sins
+
+You probably know the old idiom, "Actions speak louder than words." This applies to heroes and villains alike. The thing that primarily makes a villain a force of evil the heroes—and players—will stop at nothing to defeat? The villain's actions.
+
+The best way to let the players know that your villain must be defeated is to have the villain do some unquestionably evil stuff! Before the heroes even meet the villain, they should find the corpses left behind, witness the burning villages, or be harrowed by the accounts of those lucky enough to survive the villain's wrath. The outcomes of the villain's actions let the players fully understand the depth of the evil they face. Villains don't hesitate to take or ruin the lives of others to get what they want, and most have no qualms against collateral damage.
+
+The two most important things that make your adventure's villain worth the heroes' time is what they've done—and what they're planning to do. What they've done shows that they're not just evil but capable. What they plan to do is worse than what they've done, and by golly, someone needs to stop it.
+
+Give your villain a history of evil that the heroes can uncover. It might be a short history. Maybe the villain just performed the first in a series of murders a few hours before the heroes come to town. Or it could cover years spent as a warlord, tyrant, or entity of destruction leaving behind entire worlds reduced to rubble. Let the sins of the villain be what hooks the heroes into the adventure—and remember that there's no motivation stronger than the players deciding they must stop the villain before being asked to. A self-inspired goal works better than having an NPC beg or pay the heroes to get the job done. Still, what starts out as a job often becomes a personal mission, so don't be afraid to start there if doing so feels like the best idea.
+
+Once a villain discovers that the heroes are meddling in their plans, they don't sit idly by and wait for the fight to come to them. No! Great villains are proactive, sending lackeys to battle the heroes, frame them for crimes, capture their loved ones, or burn their hometowns.
+
+##### Villain Goals
+
+Many villains don't see themselves as evil. In fact, most heroes and villains have similar motivations—ambition, revenge, and even protecting others and saving the world. The difference is that villains believe their personal goals are more important than anything else, and they are willing to sacrifice the well-being and lives of others to get what they want.
+
+Any of the following options make a great quick villain goal, or can serve as inspiration for goals of your own:
+
+- The villain has a deadly personal vendetta against another person or group of people who wronged them.
+- The villain believes that rulership is theirs by birthright, or because they see themself as the most qualified.
+- The villain wants to live forever to protect their people, possessions, land, or legacy.
+- The villain knows of a great threat, and they require ultimate power to defeat it.
+
+Instead of achieving their goals through diplomacy and heroics, villains take what they require to achieve their goals, and destroy anyone and anything in their way.
+
+Of course, some villains want to cause violence and mayhem just for the sake of it! These villains can be fun to throw into an adventure from time to time, but many are the type of folks who are typically being manipulated by villains with even greater motivation. As such, they shouldn't be the focus of every adventure in every campaign.
+
+> **Stealing is Encouraged**
+>
+> When you're coming up with ideas for campaigns, adventures, and scenes, you should feel free to steal plots, action set pieces, characters, and anything else you want from your favorite movies, television shows, novels, comic books, and podcasts. You can then modify a few cosmetic details to make things your own. Borrowing a character who's a human man in your favorite novel to make an NPC? Make the NPC a dwarf woman with a new name and no one is the wiser. Got an idea for an encounter based on a battle scene from your favorite science fiction flick? Make those invading aliens gnolls instead! Let your favorite stories inspire you, especially when you're looking for new ideas.
+
+#### Adventure Goal
+
+Every adventure should give the heroes a clear goal to accomplish. While most every goal can be boiled down to "stop the villain from doing a bad thing," it helps if the heroes have a specific idea of how to stop or minimize the consequences of the villain's plans. Ideally, they'll be able to accomplish this goal in more than one way.
+
+The heroes' ultimate adventure goal should be one that stops or prevents the total achievement of the villain's goal. If the heroes live under the oppressive rule of a tyrant who usurped a lordship and imprisons any who question his authority, they could fight to help the rightful heir regain the lordship. They might engage in political intrigue to get close to the tyrant before deposing him. They could lead others in a wide rebellion that creates a new form of government. "Depose the tyrant and install better leadership" is the heroes' ultimate adventure goal, though they have many ways to accomplish that goal.
+
+An adventure's goal doesn't always result in a total failure for the villain. Sometimes the heroes need to simply prevent as much destruction as they can while surviving to fight another day. For example, if Ajax the Invincible attacks the port city of Blackbottom to force its leaders to bend the knee, a group of 1st-level heroes lacks the resources and power to stand directly against the siege and stop it. As such, the adventure's goal might be to escape the city leading as many innocent folk as possible to safety—and staying alive to face the villain later. The heroes are still heroes for saving people, even if they can't stop the villain's plans.
+
+##### Discovering the Goal
+
+An adventure's goal isn't always clear to the players at the start, but the heroes should always have a good idea of how to keep pursuing the story. Gameplay and fun can grind to a halt if the players don't have any idea what their characters should do to further their goals.
+
+Every adventure should have an inciting incident that either sees the heroes discovering the adventure's goal, or that puts them on the path to discovering it. If the characters start an adventure by finding the freshly murdered body of a noble in the streets of Capital, they're likely to look for clues that could lead them to catching a murderer—a solid, straightforward adventure goal. Or it could be that the murder leads them to uncovering a grand conspiracy in which one of Capital's Great Houses is planning a coordinated and violent takeover of the city. The heroes must stop those plots—an adventure goal that might take them several scenes to fully uncover. But each of those scenes should lead directly to the next without leaving the players wondering, "What should we do?"
+
+> **Complications and Adventures**
+>
+> If the heroes in your campaign have taken complications (see [Complications and Campaigns](#page-391-0) above), it's a good idea to have at least one complication make trouble for a hero during an adventure, or play some other part in the adventure's story. Rotate the hero whose complication is highlighted each time, so that every player gets a chance to be at the center of the story.
+
+#### Creating NPCs
+
+The heroes and the fell monsters they slay shouldn't be the only folks in an adventure. A few friendly (or at least nonhostile) NPCs can supply the characters with information, equipment, and—most importantly—a good reason for putting their lives on the line. If all the people the characters come across are villainous, apathetic, or selfish, the players won't feel very motivated to get their heroics on.
+
+The NPCs the heroes meet during their adventures should be complex people. They have personal motivations for helping the heroes, personality and behavioral quirks, and character flaws. An adventure typically features at least three or four NPCs you'll want to flesh out, depending on how many scenes you plan to play out and how many NPCs each scene requires.
+
+When you create an NPC, quickly jot down the following information about them.
+
+##### Personal Details
+
+What's this NPC's name? What do they do for a living?
+
+##### Features
+
+What's notable about the NPC's appearance? Do they have distinguishing features such as a streak of gray or color in their hair, a bushy beard, a tattoo of a snake skull, or a scar over one eye? Do they have a specific scent (good or bad)?
+
+##### Voice
+
+When the NPC speaks, how does their voice sound? You don't have to put on a character voice every time you speak as the NPC, but telling the players, "This elf talks like a pirate," or "This dwarf has a high-pitched voice that keeps cracking," helps them remember and differentiate that NPC from others.
+
+##### Behavior
+
+What noticeable behavior does the NPC have? Maybe they maintain constant, unbreaking eye contact, or maybe they rarely look up from their feet. They could pick their nose, repeat a catch phrase, talk to themself, bite their nails, whisper whenever they say something profound (or profane!), or constantly clear their throat. Giving an NPC just one distinct behavior helps cement them in the players' minds and makes them more authentic.
+
+##### Flaw
+
+What character flaw does this NPC have? They might be selfish when it comes to wealth, ignore their personal hygiene, lie to cover up their insecurities, or act cowardly in the face of threats. A single flaw does the trick. Too many flaws, and your NPC will go from authentic to authentically unlikable fast.
+
+##### Helping the Heroes
+
+Why would this NPC want to help the heroes during this adventure? They don't have to be fully on board with helping the characters at first. It might take some convincing, in the form of a test, a negotiation, or a task the heroes need to accomplish to win the NPC's help. But there should be at least a kernel of motivation in the NPC already—or they have no reason to help. It could be that they don't want the villain to succeed, they see a profitable opportunity in working with the heroes, or they feel they owe the heroes a favor thanks to a previous adventure.
+
+##### Denying Aid
+
+What would prevent this NPC from helping the heroes? It's possible that the answer is "nothing," but most people have something or someone they're not willing to risk even if the fate of the world hangs in the balance. What could the villain threaten that makes the NPC think twice about helping out the heroes? It might be a loved one, a meaningful location, or a valuable treasure.
+
+#### Interesting Locations
+
+A good adventure has interesting locations for the heroes to visit. Such locations don't need to be fantastic to be interesting (though it doesn't hurt to throw in one or two fantastic locations in any adventure). A small farming village can be an interesting location if it's home to engaging events and intrigue. Even small-time drama such as who has been poisoning farmer Yelena's crops or who Jon the shepherd seeks to marry can make a location engaging.
+
+Make a list of the different locations the heroes might visit during the adventure, including both general locations and specific adventure sites.
+
+##### General Locations
+
+A general location is a settlement or a defined wilderness region that the heroes visit during the adventure.
+
+If the adventure takes place in a giant, sprawling metropolis like Capital, then different city districts and large landmarks such as catacombs and parks count as general locations. If the adventure takes place in and around a regional area larger than a city but no bigger than a planet, then full settlements and biomes such as deserts and forests count as general locations. If the adventure takes place across the timescape (or in a similar milieu of many worlds), then a general location could be an entire world and any specific settlements or biomes the heroes visit in that world.
+
+You don't have to define everything about these general locations, because you'll develop more in-depth information about the specific sites the heroes might visit in any location later. You can use the following questions about each general location as a starting point for what you'll want to cover (and you might already have done some of this when creating a starting area during your campaign preparation):
+
+- **Mood:** What is the mood of this location? Is it safe and peaceful? Dire and gloomy? Tense and dangerous? Do the hairs on the back of your neck stand up when you're here, or is it the kind of place where you can relax?
+- **Senses:** What are the first things you notice about this location with your senses? What do you see, hear, or smell? What does the air taste like? How does it feel on your skin? Which of the things you observe stand out or are unique?
+- **Creatures:** What nonhostile creatures can be encountered here? This might include passersby, street merchants, animals, or unknown somethings moving in the shadows.
+
+Having these details will help you set the scene as the heroes travel through these general locations to get from one specific site to another.
+
+##### Specific Sites
+
+A specific site is a location where an adventure scene takes place. It could be a building, a complex of buildings, a city street or square, a forest clearing, an oasis, a bridge, or the like. Combat encounters and noncombat scenes in an adventure happen in specific sites.
+
+When you create a specific site, ask the following questions in addition to the questions you would ask about any general location:
+
+- Why would the heroes come here during the adventure?
+- What types of scenes might play out at this site?
+- Which NPCs who the heroes might interact with are found here?
+- What information, items, or confrontations might the heroes discover here that will help them advance the story of the adventure?
+
+#### Plan Scenes
+
+Once you have your villain, your adventure goal, your NPCs, and your general locations and specific sites, it's time to start stitching those elements together to create scenes. Your adventure will have combat encounters, montage tests, negotiations, respites, and scenes of exploration and social interaction. [Creating Scenes](#page-395-0) below has more information about detailing the scenes in your adventures, but planning out those scenes is the first step.
+
+When you're thinking about scenes, write down which sites and NPCs are tied to those scenes, then try to arrange the scenes in an order that makes sense for the story. It might be that after your inciting incident, certain scenes can be tackled in any order. For example, if the adventure goal is to recover three pieces of an ancient staff before the villain does, the heroes might be able to explore the three sites where the pieces are hidden in any order they choose. Their choice might even have consequences. It might be that the first site they choose has none of the villain's lackeys investigating it yet, the second site features a showdown with those lackeys, and the third site has already been cleaned out by the villain by the time the characters get there! Other scenes might have to happen more linearly. An investigation typically includes a trail of clues that takes the heroes from one scene to the next, but the players can surprise you.
+
+Don't get married to the order in which you plan your scenes. If the heroes have terrible luck with dice in a couple of combat encounters, they might stop to take a respite and regain their Stamina and Recoveries before you anticipated they would. If the heroes are unraveling a mystery, they might make unexpected deductions or good guesses that allow them to skip a scene altogether! This is part of the fun of the game. The dice and the players will surprise you.
+
+Embrace this unpredictability by keeping an open mind as you plan out your scenes and allowing yourself to be flexible. Odds are that a combat encounter the characters skipped over during one session can be tweaked and moved to another session, so don't sweat it. The game is most rewarding for you and the other players if you let the heroes' choices and actions mean something and affect the game.
+
+Once you have all your scenes planned, it's time to put together the adventure outline.
+
+#### Adventure Outline
+
+Your adventure outline is a document you can use to run your game sessions. It contains information about the villain, the adventure goal, NPCs, locations and sites, and scenes. You can format this outline however you like, whether as fully written sentences, bullet points, a plotting web, or anything else that makes sense to you.
+
+A standard adventure outline contains a bit of overview information regarding the adventure's villain, goal, and NPCs. It then contains a list of locations and sites, with specific sites breaking out the details of each scene that occurs there. The outline then wraps up with a conclusion section discussing the impact the heroes' actions have on the overall campaign and the game world.
+
+#### Creating Scenes
+
+When you're preparing scenes for an adventure, keep in mind that **you cannot and should not try to control how the heroes interact with the challenges set forth in a scene**. As a Director, much of the fun of the game comes from seeing the players creatively solve the challenges you set forth with their own ingenuity and their heroes' abilities and features. You want to plan obstacles for the characters even while knowing that they'll think of solutions you haven't. So let them try those solutions and see where the story goes!
+
+It's best to set up scenes along the lines of: "Here's the situation when the heroes arrive." The game world is an authentic setting. Whether or not the heroes show up, bandits still pillage and plunder, politicians still plot and backstab, and vast sandstorms still sweep across the desert. Each scene should thus start with the question: "What's happening when the heroes arrive?"
+
+After setting up your scene, make a list of the narrative elements the heroes can discover or achieve in that scene that can advance the story of the adventure. When running the game, you'll allow the players to approach how they discover or achieve those elements in their own way. However, you might have ideas as to how they could accomplish those goals, such as which tests they might make to find clues leading to a murderer, or a possible negotiation to secure safe passage across the sea. Note these possible solutions and any rules you need to prepare to make use of them as you set up your scenes.
+
+Not everything the heroes do is worthy of a scene, and you don't need to play out adventures in real time. If the characters want to walk from a farm to a castle, don't turn the walk into a scene unless doing so is fun for you and the players, or if something significant happens along the way (for instance, a bandit attack or the discovery of a dead body). You don't need to narrate every shopping trip or boat journey if they're just going to be a bore. It's a game! Run the scenes that are fun for you and that move the campaign story along, and your games will be better for it.
+
+#### Director Sheets
+
+Director sheets are a resource you can use to prepare and track the progress of characters during combat encounters, negotiations, and montage tests. These sheets allow you to track the objectives and numbers relevant to the challenge, such as the Stamina of enemies, NPC interest and patience, and the number of successes and failures in a montage test. Each sheet has an optional second page you can use to track narrative details, potential rewards, and supporting NPCs in the scene. You can download these sheets at *https://mcdm.gg/DS-Resources*.
+
+#### Creating and Running Combat
+
+There's a lot to be said about building and preparing great combat encounters for *Draw Steel*. So much so that we had to put that advice in another book—the one with all the monsters and other stuff you need to build combat encounters. Go check it out in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*.
+
+One tip that we *will* note here (and it's also in the other book because it bears repeating) is that combat encounters should hold narrative weight. *Draw Steel* isn't a game of attrition, where a few small, trivial combat encounters are meant to weaken the heroes, winnowing down their resources to make the final, important, epic clash with the villain more of a struggle. A quick combat encounter with two bumbling guards at a gate is likely over in a matter of less than a round and shouldn't award the heroes a Victory. These can be fun scenes to roleplay, but they aren't going to make full use of the characters' features and should occur infrequently. Most of the time when combat takes place, the stakes for the heroes and the story should be high!
+
+#### Creating and Running Exploration
+
+Exploration scenes are narrative-driven moments where the heroes investigate their surroundings to advance the story or uncover rewards. Any such setup, from searching a murder scene for clues, to scouring ancient ruins for a portal to Axiom, the Plane of Uttermost Law, is an exploration scene.
+
+When running exploration, your job is to set the scene, listen to the players describe their heroes' actions, and then respond with how those actions affect the environment.
+
+##### Necessary and Unnecessary Information
+
+When preparing an exploration scene, you'll want to come up with answers to the following questions:
+
+- What information or objects do the heroes need to recover in this scene that will help them advance the story?
+- What bonus pieces of information and other rewards can they earn during this scene if they explore fully and successfully?
+
+Information or objects the heroes need to obtain from an exploration scene to advance the story should have some way of being found without a test. Simply by entering a monarch's private chambers, the heroes learn that the king is dead and has been slain by a knife, because his body and the murder weapon are plainly visible. They should also automatically notice that the knife bears the crest of a noble house, providing an obvious path to continue the adventure. Other details in the room might help speed along their investigation of who killed the king, but they can find the bare minimum of what they need to continue for free.
+
+It's okay for a test to be the *best* way to get necessary information or objects. But if the heroes fail or don't make the test, make sure there's another way—likely a more difficult way—for the story to continue. When searching a necromancer's tower for a book that will help stop a ritual, characters might miss all the clues pointing to the book. But they can later run into the necromancer's apprentices, who know where the book is—and who aren't willing to give up that information without a difficult fight.
+
+Other information and rewards the heroes can earn in an exploration scene can be hidden behind tests that can be failed or missed. If heroes don't think to check under the dead king's desk, they don't find the chalice that rolled under there. If they do find the chalice but fail a Reason test to examine it, they don't learn that the chalice carries the residue of a rare poison, potentially leading them to a nearby alchemist who sells it. They can still solve the mystery without this information,
+
+but it'll take them a little longer. However, the longer it takes them, the more time the assassin has to prepare for their arrival, so missing those details has consequences!
+
+Once you have your list of information and objects the heroes can find, make a list of where those things can be found, and how. Some reveals might require a test. Some might simply require a player to say that their hero performs a certain action, such as searching a bookshelf or desk. But as you note what's required to find information or objects, don't try to cover every option. Even if you do so, the players with their multiple brains will think of other options that you never would have, and you'll have to adjudicate their choices on the spot. Knowing where and how information and objects are hidden or guarded from the heroes is more important than knowing how they're going to obtain those things. If you can think of at least one option and are open to other possibilities, the heroes have a fair shot.
+
+##### Setting the Scene
+
+When an exploration scene starts, tell the heroes what they notice around them. Opening with what sighted heroes can see is a good idea, but all characters have other senses. Mention what they can smell, hear, and feel in the environment if it's applicable to what they're investigating. These little details can help the players better imagine the scene, and can lead them to important narrative beats within it. Before you run the scene, write these details down so you can give them to the players right at the start, rather than trying to think them up off the cuff.
+
+You don't need to list every single detail of an environment. That can lead to players spending a lot of time having their characters interact with details you included just for flavor, and can have you saying things like, "Yes, I know I described the tapestries for 5 minutes, but there's really not much more to them. Now, the pile of bones at the center of the floor, on the other hand …" Many players will also zone out if you provide too much environmental detail, even if you're giving an Oscar-worthy narration. Instead, stick to the pieces of the environment that are worthy of the characters' notice.
+
+As an example, if the heroes are exploring an abandoned bandit hideout in a cave for information about where the criminals relocated, you might describe a refuse pile in a corner of the cave, a mud-covered floor, and the smoking remains of a doused fire. Why point these things out? Because the refuse pile holds a torn-up map to the bandits' new hideout that the heroes can assemble, the muddy floor means the bandits left tracks that can be followed, and the smoking fire means that at least a few of the bandits left not long ago and might still be en route to the hideout. You've given the characters and players three important elements to interact with, each of which gives them information they can use to advance the story or get an idea of events to come. You don't need to describe the stalactites hanging from the ceiling, or the sound of the wind blowing through the entrance to the cave, or the wood pile next to the campfire, or the slugs crawling on that wood. Though one or two such details can be atmospheric, too many will distract folks and pull them out of the game. Instead, fill in those secondary details as the players ask questions while their characters explore.
+
+##### Heroes Investigate
+
+After you've set up your exploration scene, let each player ask questions about the environment and describe how their hero is interacting with it. If a player asks a question their hero wouldn't know the answer to, you can encourage them to explore more. For instance, if a player whose character is standing at the cave mouth asks, "What can I see in the refuse pile?", you might answer, "From where you're standing, it looks like mostly scraps of cloth and old bones, but there might be
+
+more if you dig through it." This encourages players to be more active in the process of searching.
+
+Allow the heroes' investigation to drive the action. In an exploration scene, you take on the role of the environment, reacting to the characters' and players' choices. Don't tell the players what their heroes do. Instead, describe the consequences of their actions. If characters take the time to carefully search the bandit hideout for traps, they should have a chance of finding any traps you've set up there. But if a hero runs into the cave and triggers a hidden trap because they didn't move into hostile territory carefully, that's on them! It's an important lesson the player can learn for next time.
+
+> **The Players Will Surprise You**
+>
+> Even the best-prepared adventures rarely survive first contact with the heroes. Your session notes expect the players to have their characters enter the bandit hideout from a secret back entrance, but one player has the bright idea of entering through a crack in the cave roof. It's perfectly fine to go off script and adapt to the players' plans if doing so is fun for everyone.
+>
+> This isn't to say that it's okay for the heroes to ignore the bandit hideout entirely and go looking for cultists somewhere else. But as long as the players are participating in the spirit of the adventure, rolling with the unexpected is some of the most fun you'll have running the game.
+
+##### When to Call for a Test
+
+The heroes can usually obtain basic information just by interacting with their environment. If a player asks, "Does it look like the muddy floor of the cave would cling to someone's boots?", getting confirmation doesn't require a test. However, following the tracks that lead out of the cave toward the bandits' new hideout does require a test, because that's a harder task whose failure gives the bandits extra time to prepare an ambush for when the heroes arrive! If a character wants to meticulously dig through the refuse pile and examine each piece of trash, no test is required to find the torn-up pieces of the map unless they're under serious time pressure to do so. However, a character piecing the map back together needs to succeed on a Reason test to do so, because failing that task means the heroes obtain only incomplete information as they continue their search.
+
+[Chapter 9: Tests](#page-263-0) explains tests in detail and provides examples of different difficulties of tests. A lot of other fantasy games reflexively ask for a roll of the dice anytime a hero attempts a task. However, *Draw Steel* is built around the idea that the Director calls for tests only when failure would make the story more interesting for the heroes and not grind the game to a halt. You might end up asking for fewer tests than you're used to—and that's the way the game is meant to be played!
+
+Additionally, if a player has a particularly clever and plausible idea for attempting to overcome a challenge, you can have them automatically succeed on a task even if failure would make the story more interesting. It's important to reward clever thinking with success once in a while, so that the players are encouraged to think outside the box and create memorable moments!
+
+By contrast, sometimes a player will propose what they think is a plausible or clever idea, but you'll think there's no way it could ever succeed. It's fine for you to tell the player, "That's not going to work." You're under no obligation to allow a player to attempt a test that should automatically fail.
+
+##### Test Difficulty
+
+Tests in *Draw Steel* have three levels of outcome, and all players know those outcomes and the dice rolls that generate them. Making a test always means something because every test comes with risks and stakes! Before you call for a test, you need to set a difficulty for the test of easy, moderate, or hard.
+
+A hero always succeeds on an **easy test**. It's just a question of whether they might incur a consequence or earn a reward alongside success. For this reason, you should use easy tests sparingly in your adventures.
+
+A hero who has a modifier of +1 or more on a test will likely succeed on a **moderate test**. Success with a consequence is common for heroes if their bonus to the test is lower than +4, so they're succeeding at a cost. Odds are that most of the tests you'll call for in your games will be moderate tests. They give most heroes a decent chance of success without it being a sure thing, and the story gets interesting whenever consequences are involved.
+
+**Hard tests** do exactly what it says on the tin. Success on a hard test requires a roll of 17 or higher, which means a hero has better than a 50 percent chance of success only if they have a +6 or higher bonus on the test. At 1st level, that means a character using their highest characteristic, using a skill, and having an edge on the test. Failure on a hard test often means consequences beyond failing, making hard tests really risky! You likely find that hard tests aren't as common as moderate tests in your game, but they're used more than easy tests.
+
+##### Setting Difficulty During Play
+
+When you call for a test, you can tell the player making the test the difficulty. Saying "Make a hard Reason test" can create a dramatic moment at the table as everyone holds their collective breath to see whether the outcome is success, failure, or failure with an additional consequence.
+
+On the other hand, not sharing the difficulty of every test with the players lets you do a little fudging of those difficulties if you want to. You might call for a test and then realize that a test really wasn't necessary even as the player makes the roll. It's easy to simply say, "Hey, sorry. I shouldn't have asked for a test. You just do the thing." But if you want to play it cool, remember that every level of an easy test is a success. It's simply a matter of whether a consequence or reward comes with it. If a hero gets an 11 or lower on a test and you think they should still succeed, then the test was easy difficulty.
+
+##### Test Outcomes
+
+After a hero makes a test, it's up to you to narrate and decide the outcome, keeping some basic guidelines in mind.
+
+If a test is a **failure with a consequence**, the hero doesn't just fail—they make things worse. This might mean drawing the attention of nearby foes, setting off a hazard or trap, taking damage or causing an ally to take damage, taking a bane on a future test, losing a mundane item, making a friendly NPC angry, or even earning you a little future Malice. The consequence is up to you!
+
+If a test is a **failure**, the hero doesn't do what they set out to do. But even though they don't incur a formal consequence, negative effects can still accompany a failed test depending on circumstances. If a hero attempts to move silently past a group of guards, a failure on the test might draw the guards' attention, but the character should have a chance to react before the alarm is raised. But if the character had incurred a failure with a consequence, they would be spotted immediately as the shouting guards rush to the attack.
+
+If a test is a **success with a consequence**, the hero succeeds but suffers a significant negative effect. They might sneak past the guards successfully but lose their belt pouch in the process, forcing them to decide whether to return for it or move on.
+
+If a test is a **success**, the hero does what they set out to do! You can even let a player narrate the outcome of a successful test by asking them, "How did you pull this off ?"
+
+If the test is a **success with a reward**, the hero does what they set out to do—and then some. A reward might grant another character who needs to make the same test an automatic success, grant a boon on a future test for the hero, reveal a hidden treasure the hero wasn't looking for, inspire a nearby NPC to come forth and offer aid, or earn the group a hero token. A reward on a test is yours to choose.
+
+Sample consequences and rewards for tests are detailed in [Chapter 9: Tests](#page-263-0).
+
+#### Creating and Running Hazards
+
+Hazards include traps, natural dangers such as quicksand and avalanches, and supernatural dangers such as magic-irradiated ruins or floating clouds of unstable psionic energy. Hazards can appear in combat and exploration scenes as dangers the heroes need to contend with as they solve other problems. An elaborate hazard can be a scene all on its own as well, whether tackled in a montage test or run round by round as if it were a combat scenario.
+
+A good hazard presents a real threat to the heroes and stands in the way of something they want. Crossing a pool of lava isn't much of an issue if the heroes can simply walk around it. But if the pool is too big to walk around, or if the treasure the party seeks is at the bottom of it, it becomes something they can't easily ignore.
+
+The hazards you'll create and use in your adventures come in one of three types:
+
+- **Activated Perpetual:** An activated perpetual hazard might be triggered by a tripwire, a loud noise, a pressure plate, or some other mechanism that responds to the heroes' actions. The hazard then remains active until it's dealt with, such as a pendulum scythe trap that's activated by a tripwire and then swings indefinitely across a bridge.
+- **Activated One-Time:** An activated one-time hazard is triggered and then creates one instance of danger. Sometimes that danger ends almost as soon as it begins, such as a trap that fires a single poison dart. Other times, that one instance of danger can create other lasting problems the heroes must deal with, such as a cave-in that deals damage, then leaves the party trapped in an abandoned mine.
+- **Obstruction:** Obstructions are hazards the heroes must find their way over or around, such as pools of acid, chasms, and rivers of lava. Since obstruction hazards are typically static, a hero takes damage or suffers other effects from an obstruction only as the result of a failed test made to traverse the hazard.
+
+> **Terrain as Hazards**
+>
+> Some of the best hazards are the terrain options found in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*. These dynamic options work great in combat encounters, but you can also use many of them as hazards the heroes must cross (such as acid pools and lava) or contend with (such as the arcane object known as the black obelisk) as they travel from one destination to another. You can use these hazards as is, or rework them to match your story. For example, you might convert an acid pool to a pool of toxic sludge by having it deal poison damage instead of acid damage.
+
+##### Activated Hazard Triggers
+
+All activated hazards have some kind of trigger, and the heroes should be allowed to make tests—typically Reason or Intuition tests—to notice and then disable that trigger. The deadlier the hazard, the harder the test.
+
+If a hero doesn't think to search for a trigger before stumbling into a hazard, you can still call for a test to let them notice the trigger when the hazard is about to activate, provided it makes sense to do so. If a hero is about to cross over a tripwire that triggers a trap, you might call for an Intuition test to notice the wire at the point when it can be clearly seen. On a failed test, the character walks into the tripwire and activates the trap.
+
+Once a trigger is noticed, the heroes might get a chance to disarm it if that's possible. There's probably nothing to be done short of renovating an old mine to stop it from collapsing when anyone damages its walls, but the characters can try to disable a magic rune in a corridor that teleports any creature moving over it into the middle of an ocean. Just remember that trying and failing to disarm a trigger might trigger the hazard!
+
+##### Hazard Damage
+
+The damage dealt by a hazard depends on two factors. First, how deadly would you like the hazard to be? Do you want it to leave the heroes just a little banged up, or should it cost them a Recovery or two? Second, is the hazard a perpetual hazard or a one-time hazard? If it's an obstruction, answer this question by asking whether you expect a creature to be able to take damage from the obstruction more than once? If the answer is yes, treat it as a perpetual hazard in terms of damage. If not, it's a one-time hazard.
+
+A hero might get a chance to mitigate damage from a hazard, such as by making an Agility test to outrun or dodge an avalanche, or making a Reason test to resist the psychic damage of a psionic cloud. You can decide what sort of test needs to be made based on the circumstances.
+
+The One-Time Hazard Deadliness and Perpetual Hazard Deadliness tables show the damage dealt by hazards. Hazards are organized by level, indicating their relative threat compared to the level of the heroes. Each entry features three damage expressions for a tier 1, tier 2, and tier 3 outcome on the test made to mitigate the hazard's damage. The worse the test outcome, the higher the damage.
+
+###### One-Time Hazard Deadliness Table
+
+| Level | Not Deadly | Little Bit Deadly | Very Deadly |
+| ----- | ---------- | ----------------- | ----------- |
+| 1     | 7/5/3      | 9/7/5             | 11/9/7      |
+| 2     | 10/7/4     | 12/9/6            | 15/12/9     |
+| 3     | 11/8/5     | 14/11/8           | 17/14/11    |
+| 4     | 12/9/5     | 16/13/9           | 19/16/12    |
+| 5     | 13/10/6    | 17/14/10          | 21/18/14    |
+| 6     | 14/11/6    | 19/16/11          | 23/20/15    |
+| 7     | 15/12/7    | 21/18/13          | 25/22/17    |
+| 8     | 16/13/7    | 23/20/14          | 27/24/18    |
+| 9     | 17/13/8    | 25/21/16          | 29/25/20    |
+| 10    | 18/14/9    | 27/22/18          | 31/27/22    |
+
+###### Perpetual Hazard Deadliness Table
+
+| Level | Not Deadly | Little Bit Deadly | Very Deadly |
+| ----- | ---------- | ----------------- | ----------- |
+| 1     | 5/4/2      | 7/6/4             | 9/8/6       |
+| 2     | 6/4/3      | 8/6/5             | 10/8/7      |
+| 3     | 7/5/3      | 9/7/5             | 11/9/7      |
+| 4     | 8/6/4      | 11/9/7            | 14/12/10    |
+| 5     | 9/7/4      | 12/10/7           | 15/13/10    |
+| 6     | 10/8/5     | 13/11/8           | 16/14/11    |
+| 7     | 11/9/5     | 15/13/9           | 19/17/13    |
+| 8     | 12/9/6     | 16/13/10          | 20/17/14    |
+| 9     | 13/10/6    | 17/14/10          | 21/18/14    |
+| 10    | 14/11/7    | 19/16/12          | 24/21/17    |
+
+##### Hazard Effects
+
+Some hazards deal effects in addition to or instead of damage. A hazard that is part of a combat encounter can impose just about any effect, including conditions, and can have a real impact on the story. However, if the heroes are facing a hazard outside of combat, you want any effects it imposes to be something more impactful and lasting. The following effects each reflect the interesting and lasting consequences a noncombat hazard should have:
+
+- A character loses a Recovery.
+- A curse leaves a character with a demonic-sounding voice that imposes a bane on Presence tests.
+- A character receives a gaping wound that causes them to take 1d10 damage whenever they roll a natural 2 before they next finish a respite.
+- A character is teleported into the middle of a nearby body of water.
+
+But although lasting and interesting consequences are fun, make sure they don't derail your story to the point where the whole game becomes about solving the problems created by a hazard—unless your group thinks that's fun!
+
+#### Creating and Running Interaction
+
+Interaction scenes are similar to exploration scenes, except that the heroes obtain the information and objects they need by talking to one or more NPCs instead of exploring an area. Just like with an exploration encounter, you make a list of necessary information that the NPCs can offer to the heroes freely. NPCs might then have other information or objects they can be convinced to give to the heroes if they make a persuasive argument, do something kind for the NPC, or succeed on a test.
+
+Interaction scenes aren't full negotiations, which are reserved for adventure-changing conversations. Still, keep in mind that different NPCs react differently to various forms of persuasion. A coward might be easy to intimidate, while a battle-hardened soldier might be impossible to awe with displays of ferocity. A bribe might work for a corrupt noble, but a goodly queen who already has wealth beyond measure likely has no interest in whatever riches the heroes possess.
+
+Refer to the details you wrote down for your NPCs while you roleplay them. Keep in mind any distinct behaviors or attitudes you can throw in to help make the scene fun. You don't have to be a great actor to create a memorable interaction scene! Simply describing how an NPC looks, sounds, and acts goes a long way even without doing funny voices. If you want to put on a character voice, go for it—but there's no obligation to.
+
+### Creating and Running Negotiations
+
+When you're preparing for a negotiation (see [Chapter 11: Negotiation](#page-297-0)), you'll want to pick an NPC and give them their negotiation stats—a starting interest and patience, motivations and pitfalls, and an Impression score. The Starting Attitudes table in the Negotiation chapter should give you an idea of where to start with some of these stats, but you should feel free to adjust the numbers as you see fit.
+
+When assigning negotiation stats, keep the following guidelines in mind:
+
+- The higher an NPC's starting interest, the more likely the heroes are to end the negotiation with everything they want—and then some—from the NPC.
+- The higher an NPC's starting patience, the longer the negotiation and the more chances the heroes have to make arguments. If you want a long, rich negotiation, give your NPC a higher patience score.
+- The more motivations an NPC has, the more likely the heroes are to make easier tests while engaging the NPC.
+- The more pitfalls an NPC has, the more likely the heroes are to stumble into a topic that turns negotiation sour. However, too many pitfalls can feel like a "Gotcha!" setup to players, especially if they don't have time to do a little research or reconnaissance on the NPC before going into the negotiation.
+
+#### Plan the Outcomes
+
+It helps to know the various outcomes an NPC might offer during a negotiation ahead of time. An adventure or campaign continuing should never hinge entirely on the outcome of a negotiation. You don't want the story to come grinding to a halt if the heroes fail to secure information, treasure, or help from an NPC. A failed negotiation might mean the adventure gets a lot harder, but should always provide options for continuing when the characters' negotiation skills fail them.
+
+A negotiation has six possible outcomes, but two of those are predetermined. If a negotiation ends with the NPC at interest 4, then the heroes get what they want. If the heroes end the negotiation at interest 1, the NPC can't offer them anything. Even with four options left wide open, however, setting up outcomes actually requires less prep work than you might think.
+
+> **Multiple NPCs**
+>
+> The negotiation rules are built around the idea of the heroes facing off against a single dominant NPC—a powerful leader, a ranking diplomat, a warlord, a key villain, and so forth. But this isn't to say that you can't run a negotiation with the heroes interacting with a group of NPCs, each with their own slightly different take on wheeling and dealing.
+>
+> If you set up a negotiation using more than one NPC, you don't give each NPC their own negotiation stats, motivations, and pitfalls. Rather, you assign stats to the group as a whole, then have different NPCs step to the fore in the negotiation when a particular motivation or pitfall is in play. For example, if you assign the greed pitfall to a group of knights, the well-dressed captain of that group might appear as though they're open to being bribed by the heroes. But when the dour sergeant-atarms who resents the captain's flamboyant lifestyle angrily rejects the characters' offer, the captain must go along with it to keep the peace among their followers.
+
+If a negotiation ends with the NPC's interest at 2 or 5, you need to know what the NPC might offer the heroes instead of or in addition to their main ask. It's also a good idea to have a list of two favors, items, pieces of information, or other help the NPC can offer the heroes, so that you aren't scrambling to think of something if these results come up.
+
+Likewise, if the NPC's interest hits 3, they'll ask the heroes for a favor in exchange for what's being asked of them. The heroes might also directly ask the NPC what they can offer to cinch the negotiation. In this case, it helps to have in mind two favors, items, pieces of information, or other help the NPC could ask for from the heroes.
+
+Finally, if the heroes really offend the NPC and end the negotiation with their interest at 0, have some idea of what the NPC might do to try to punish the heroes. If you don't have this ready, though, don't sweat it. Revenge is a dish best served cold—and maybe a few sessions from now—so you've got time to plan.
+
+#### Hero Negotiation Stats
+
+Many heroes have class features, titles, or other character options that make them better in negotiation. When you're preparing a negotiation, it helps if you know each hero's Renown score and any features they have that might impact a negotiation, such as the troubadour's Scene Partner feature. Ask your players to tell you if any of their character options influence negotiation at the start of a campaign, and ask again whenever they gain a new level.
+
+#### Heroes Must Initiate
+
+A negotiation should always be initiated by the heroes, and the character (as with people in general) can't be forced to negotiate for something they don't want. As you prepare your negotiation, remember that the players might decide to gain what the characters need from the NPC in some other way—calling in a favor from someone else who has the means to help them, stealing what they need from the NPC, simply pushing forward without the NPC's help, and so on.
+
+#### Framework for Roleplaying
+
+New Directors and players might feel a bit overwhelmed by negotiation, wondering if they need the rules at all for roleplaying a quid pro quo discussion. If you'd rather play without the negotiation rules, go for it! The *Draw Steel* designers aren't going to come to your house and take your books if you do so. However, the negotiation rules exist to provide you with robust mechanics that create an exciting back and forth between two parties, with high stakes and drama.
+
+An NPC's interest helps you determine their attitude toward the party's proposals, while their patience indicates how much time they're willing to give the heroes. In the same way that Stamina tells you when a monster is done with a fight, patience tells you when an NPC is done talking and is ready to deal. The negotiation rules mean you never have to just roleplay a conversation until you and the players become bored with the scene, then someone makes a single test to see what happens. The negotiation rules let you roleplay with structure, risks, and rewards!
+
+The most important thing to remember when it comes to negotiation is that the rules are meant to work with you—not against you. They're flexible on purpose. If a hero makes an excellent argument that you think should work without a test, then it does. If a hero makes an unfortunate argument that should fail no matter what, then they're out of luck. You're empowered to run negotiation in whatever way will be the most fun for you and your players.
+
+If players are having trouble roleplaying during a negotiation, try running your next negotiation without announcing that the characters are now in a negotiation. Simply ask them for tests when appropriate and have the NPC respond based on the test outcomes and their motivations and pitfalls. This approach might help your players shake off focusing on the rules to simply roleplay as you track interest and patience on the side.
+
+#### Research and Reconnaissance
+
+If the players want to negotiate with an NPC and the heroes have some time before the conversation starts, they might think to do a bit of research and reconnaissance into the NPC, hoping to discover their motivations and pitfalls. Characters have multiple ways to tackle this. They might do research into the NPC as a downtime project, they could employ a montage test to gather rumors and grease a few palms, or they might attempt to do favors for people close to the NPC and earn information in exchange.
+
+It's always a good idea to let the heroes do a little recon before jumping into a negotiation. Doing so makes for a richer story and can help the players better engage with the negotiation system, since they'll feel more prepared for it.
+
+#### Roleplaying Negotiators
+
+When it comes time for you to roleplay an NPC during a negotiation, remember that the NPC, like all sapient creatures, is complex. Every NPC has their own way of approaching negotiation. Some might be full of bluster. Others might say everything with a smile even while rejecting the heroes. One NPC might be verbose, while yet another says as little as possible to keep the heroes guessing as to their real desires. As a starting point to figuring out how a specific NPC might negotiate, you can refer to the notes on the NPC that you created while preparing the adventure, reviewing their voice, behavior, and flaw, in addition to any motivations for helping or denying characters in need.
+
+One important decision you should make ahead of time is how upfront the NPC will be regarding what they want from the heroes. A straightforward NPC can make for a faster negotiation if the heroes are willing to give the NPC whatever they need. An unreadable NPC can be a puzzle for the heroes to figure out, and can be more difficult to roleplay. If it's your first time using the negotiation rules, you should start out with a more straightforward NPC before playing a coy customer.
+
+During negotiation, let the players talk freely about their strategy if that fits their playstyle and sense of fun. You can intervene if an argument crops up, but otherwise, let the players plot, scheme, and guess while you play it cool.
+
+Once a negotiation starts, the players and characters can obtain information about the NPC involved only by making tests, using their characters' features, or through engaging in conversation with the NPC. Whenever the NPC makes an offer to the heroes after a test, make it clear what the terms of the offer are. While some NPCs might speak cryptically, it's best for the players to understand what they're getting their heroes into. It can be fun to trick the heroes, but many players don't feel the fun when they get tricked instead.
+
+> **Sharing Interest and Patience**
+>
+> It's up to you as the Director to decide whether to share an NPC's interest or patience during a negotiation. Sometimes sharing this information can make an encounter more dramatic, with the players watching their progress rise and fall in real time. Other groups might find negotiation more fun and immersive if those exact numbers are hidden from the players, just as some groups like knowing the Stamina of every creature in a battle and others prefer to keep that information secret. Talk to your players about what they'd prefer.
+
+#### Sample Negotiators
+
+This section contains a number of sample NPCs you can use for negotiation, sorted by their Impression scores. Each of these NPCs is an archetype that you can easily adapt to specific situations. For example, the bandit chief could be the leader of a brigand gang, a pirate captain, or a rebel who redistributes wealth by stealing from corrupt nobles and giving the booty to those less fortunate.
+
+Each archetype includes a list of motivations and pitfalls an NPC could have. You should pick at least two from each list for any NPC you create using the archetype. Feel free to change the wording on motivations and pitfalls and adjust numbers as you see fit.
+
+##### Bandit Chief
+
+**Impression Score:** 1
+
+*The bandit chief is a bully and a braggart, typically negotiating using intimidation and bluster before softening.*
+
+The bandit chief archetype can be used for any other local big shot, such as the privileged child of a local lord, an arrogant tavern darts champion, or any bully.
+
+###### Motivations
+
+The bandit chief has the following possible motivations:
+
+- **Freedom:** No one tells me what to do—not if they want to keep their head on their shoulders. And no one tells my toughs what to do except *me*!
+- **Greed:** Gold! I love the feel of shining, clinking coins running between my fingers. I never found anything to spend it on that I like as much as just *having* gold.
+- **Power:** I want a stronger hideout, more toughs, and a bigger share of the loot. Get me that, and I'll do your dirty work for you.
+- **Revelry:** If you don't get drunk after a raid, then why have a raid?
+
+###### Pitfalls
+
+The bandit chief has the following possible pitfalls:
+
+- **Higher Authority:** By order of the baron? You can keep your fancy titles and lands. I give the orders around here!
+- **Justice:** Only the weak whine for justice. The strong make their own rules.
+- **Legacy:** Listen, I don't care what happens when I'm gone. I want my followers shouting my name now, not in a hundred years.
+- **Peace:** In times of peace, if you pick up a silver coin that's not yours, the sheriff comes knocking on your door. In war, whole caravans disappear and nobody blinks. Give me war.
+
+##### Knight
+
+**Impression Score:** 2
+
+*Although not always an idealist, the knight is a loyal servant of their liege and a stickler for duty. A knight knows their place in a regimented society, and believes that everyone else should keep to their own place.*
+
+The knight archetype can be used for any other local authority, such as a village elder, town guard officer, or academic professor.
+
+###### Motivations
+
+The knight has the following possible motivations:
+
+- **Higher Authority:** That's above my pay grade. If my superiors sign off on it, then so do I.
+- **Justice:** Thank you for bringing this to my attention. I agree, this must be put right. The only question is how.
+- **Peace:** People like us, we fight so that the common folk don't have to. If I must, I'll draw my sword again to keep the peace.
+- **Revelry:** Every agreement should be sealed with a toast. Huzzah!
+
+###### Pitfalls
+
+The knight has the following possible pitfalls:
+
+- **Benevolence:** These people don't need charity, they need order. Let them go to the town hall and they'll get a full belly in exchange for an honest day's work.
+- **Freedom:** None of us are free, from the lowliest servant on up. Even a monarch has a duty to their people.
+- **Power:** My power comes to me through my lawful oath, not by some dirty deal made in secret.
+- **Vengeance:** I believe in law, not vengeance, and law is decided by higher courts. I'm just a functionary.
+
+#### Guildmaster
+
+**Impression Score:** 3
+
+*The guildmaster knows the value of a coin, but understands that knowledge—inside information and trade secrets alike—is the most valuable currency. They bargain accordingly.*
+
+The guildmaster archetype can be used for any other local information broker, such as a cult leader, hag, or spy.
+
+###### Motivations
+
+The guildmaster has the following possible motivations:
+
+- **Benevolence:** The people can't take care of themselves. Somebody's got to look after them, the poor lambs.
+- **Discovery:** It would be highly unethical for you to show me those schematics you obtained from a rival guild. Likewise, it would be highly unethical for me to slide you this bag of gold.
+- **Power:** Who do you think will be in charge in the next age? The nobles? Pah! They still count their wealth in cows. Whoever controls information will rule the world—and I intend for that to be us.
+- **Protection:** We have rivals—hungry opportunists who will stop at nothing. If I want to protect my guild, I've got to do unto them before they do unto us.
+
+###### Pitfalls
+
+The guildmaster has the following possible pitfalls:
+
+- **Higher Authority:** My loyalty is to the guild—not the burgomaster, not the king, not Ajax himself. But don't tell them I said that.
+- **Justice:** We're reshaping the world here. Of course, some people who can't adapt are going to find themselves on the bottom. But why should anyone blame us for that?
+- **Peace:** Conflict isn't bad in and of itself. It drives innovation. The key is to not be on the losing side.
+- **Revelry:** I don't have time for this foolishness. Come talk to me again when you have something of value to show me.
+
+*The warlord has raised their banner and troops flock to their cause. Some say a warlord never negotiates, but that's not true. They're happy to listen to terms of surrender.*
+
+The warlord archetype can be used for any other local-level threat, such as a vampire, hobgoblin bloodlord, or rebellious noble.
+
+###### Motivations
+
+The warlord has the following possible motivations:
+
+- **Freedom:** I'm not paying a single coin to some weakling liege lord for the privilege of being told what to do. I've raised my banner. I defy anyone to pull it down.
+- **Legacy:** Did you see that young captain out there putting the fear of the gods into her troops? That's my kid, but she earned her title. Someday, this will all be hers.
+- **Peace:** Look around you. Everywhere you look—weakness, corruption, waste. Peace is a noble goal, but we won't have peace until the current regime is swept away.
+- **Vengeance:** Have you suffered as I have at the hands of that accursed villain? If so, then I'll gladly call you friend.
+
+###### Pitfalls
+
+The warlord has the following possible pitfalls:
+
+- **Benevolence:** Go back to your street corner and beg for alms if that's what you're after. You'll get nothing from me.
+- **Discovery:** What does that have to do with me? I'm a soldier, not a scholar.
+- **Justice:** You dare call me unjust? I make the laws here. Justice is mine to give or take away!
+- **Protection:** I'm not some sniveling coward who begs for protection, and neither are my troops. Anyone who asks for safety doesn't deserve it.
+
+##### Burgomaster
+
+**Impression Score:** 5
+
+*The burgomaster's power comes from their constituents, and for the most part, they aim to serve their people. Most burgomasters are experienced negotiators, never giving up any more than they mean to.*
+
+The burgomaster archetype can be used for any other local ruler, such as a baron, governor, or a watch captain in a metropolis.
+
+###### Motivations
+
+The burgomaster has the following possible motivations:
+
+- **Greed:** Keep talking. I'm sure we can come to an agreement that benefits all parties. A rising tide and all that.
+- **Higher Authority:** No one can accuse me of being disloyal. What my duty demands, I do—but let's determine the most sensible way to go about it.
+- **Justice:** The rule of law must be preserved. If you have evidence of crimes, those responsible must be punished.
+- **Protection:** The weak, the helpless—they depend upon me. And, to a lesser extent, civic-minded heroes like yourselves. Together, we'll make sure the people come to no harm.
+
+###### Pitfalls
+
+The burgomaster has the following possible pitfalls:
+
+- **Discovery:** Trust me. No good is going to come from poking that particular beehive.
+- **Freedom:** Freedom, eh? What's next, freedom from taxes? No one is born free except the gods, and only fools believe otherwise.
+- **Revelry:** Put that bottle away. I'm a public figure! I can't be seen carousing and gallivanting and who knows what else.
+- **Vengeance:** In politics, you have to have a short memory. Your enemy today might be your ally tomorrow. There's no need to make things personal.
+
+##### Virtuoso
+
+**Impression Score:** 6
+
+*The virtuoso is the preeminent musician in the land—perhaps a celebrated opera singer or composer. If you need a cause popularized or an enemy's name tarnished, you come to them.*
+
+The virtuoso archetype can be used for any other local celebrity, such as a master crafter, inspired artist, famous gladiator, or world champion.
+
+###### **Motivations**
+
+The virtuoso has the following possible motivations:
+
+- **Freedom:** I follow my muse, my only master. Who would dare put handcuffs on art?
+- **Legacy:** Castles will crumble. Empires will fall. But if only I can produce a work worthy of my talents, my name will live forever.
+- **Peace:** In war, bronze statues are melted down for armor. Money is wasted on ballistae instead of ballads. War is a crime against the god of art.
+- **Revelry:** Yes, tonight let us celebrate! Inspiration looks down kindly on those who drink life to the dregs.
+
+###### Pitfalls
+
+The virtuoso has the following possible pitfalls:
+
+- **Greed:** You offer me money? Money comes to geniuses—it is our due. I can get it from a thousand admirers.
+- **Power:** I have no ambitions beyond this opera house. For me to leave this place, even for a palace or a throne … it would be an exile for me.
+- **Protection:** I'm not afraid. The god of music will look after her own.
+- **Vengeance:** Perhaps there are some who hate me—those who think I stand in their way, or whose accomplishments I have eclipsed. But I hate no one and am jealous of no one.
+
+##### High Priest
+
+**Impression Score:** 7
+
+*The high priest might be a high-ranking member of their faith, but as they are quick to tell you, that doesn't make them free to act as they wish. The commands of their deity must be paramount.*
+
+The high priest archetype can be used for any other national authority, such as a count, judge, or general.
+
+###### Motivations
+
+The high priest has the following possible motivations:
+
+- **Benevolence:** We are agreed on this matter. If this threat puts people in danger, we must come to their rescue.
+- **Discovery:** Why, yes … I would be interested in looking at that document further. Surely no harm can come from being aware of the snares and dangers in the world.
+- **Higher Authority:** Indeed, my appointed duty is to serve all folk whether it be my deity, my liege, or the poorest person crying out in need.
+- **Justice:** Rest assured, the good will receive their just reward and the evil will be punished. I will see to it.
+
+###### Pitfalls
+
+The high priest has the following possible pitfalls:
+
+- **Greed:** Don't offer that to me. Donate it to the faith if you have no need of it.
+- **Legacy:** Me? I am no one. Any good deeds I might have accomplished are to my deity's credit, not my own.
+- **Power:** My current responsibilities are quite enough. I have no desire for more.
+- **Revelry:** For shame! Do you boast of doing evil and expect me to join you in it?
+
+##### Duke
+
+**Impression Score:** 8
+
+*As the duke gestures you to join them at their card table, spies whisper in their ear. The duke never plays a game or enters a negotiation unless they think they can gain the high card.*
+
+The duke archetype can be used for any other royal counselor, such as an archmage, spymaster, vizier, or even a beloved jester.
+
+###### Motivations
+
+The duke has the following possible motivations:
+
+- **Discovery:** My agents have brought me many whispers, but this is news to me. Who else knows of this?
+- **Higher Authority:** I must do as my liege commands. So tell me how you seek to serve them as well.
+- **Peace:** We must have stability. I will sacrifice anything—and anyone—for this.
+- **Vengeance:** There is one—I will not speak their name—who thinks I have forgotten what they did to me. Someday they will discover that I have a long memory.
+
+###### Pitfalls
+
+The duke has the following possible pitfalls:
+
+- **Benevolence:** Do you think I act because I love my fellow people? Half of them are worthless, and the other half are villains. But without them, I'd be the Duke of Nothing, so I must preserve them.
+- **Greed:** Put away your gold. I'm far too busy to spend it.
+- **Justice:** Right and wrong? There is no right except what strengthens the kingdom, and there is no wrong except what hurts it.
+- **Protection:** I don't care about saving lives. We're all doomed to die. The question is, what will live on after us?
+
+##### Dragon
+
+**Impression Score:** 9
+
+*The dragon's tremendous might is overshadowed only by their boundless ambition and pride.*
+
+The dragon archetype can be used for any other kingdom-level threat, such as a fire giant chief, a contender for a throne, or the dread synliroi Lord Syuul.
+
+###### Motivations
+
+The dragon has the following possible motivations:
+
+- **Freedom:** Yes, my ambitions have been bound to the earth for far too long. It's time I took flight.
+- **Greed:** Bring me tribute now, and when I rule, I will not forget you.
+- **Protection:** My people have been mistreated for centuries. It ends now!
+- **Vengeance:** This land, these people, their treasures, all rightfully mine. Stolen from me!
+
+###### Pitfalls
+
+The dragon has the following possible pitfalls:
+
+- **Legacy:** No heir will outlive me, no legend will remember my past glory … for I shall never die!
+- **Peace:** You want to make peace? When there are still things in the world that are not yet mine?
+- **Power:** How can *you* possibly offer *me* power?
+- **Revelry:** My pleasures are as far beyond your comprehension as yours are to a worm.
+
+##### Monarch
+
+**Impression Score:** 10
+
+*Whether they're good or evil, a monarch is accustomed to authority and wants to keep it. They respond better to pleas than to demands.*
+
+The monarch archetype can be used for any other kingdom-level ruler, such as a tyrant, a theocracy's archpriest, or a republic's consul.
+
+###### Motivations
+
+The monarch has the following possible motivations:
+
+- **Benevolence:** It's not for nothing I'm called "the Good."
+- **Greed:** Your offer intrigues me. In truth, our coffers are not as full as I should like.
+- **Justice:** Ah, do the villains ignore my laws? They must be punished!
+- **Legacy:** If I should die, promise me this: You will serve my heir as loyally as you have served me.
+
+###### Pitfalls
+
+The monarch has the following possible pitfalls:
+
+- **Discovery:** Keep your secrets to yourself. I'm a monarch, not a spymaster.
+- **Freedom:** Freedom? Some of my disloyal subjects speak that word a little too often for my liking. I hope you're not one of them.
+- **Higher Authority:** You dare give orders to me? Never forget, no matter who sent you, I rule here!
+- **Vengeance:** Revenge is an exciting sport. Sadly, it's one I've had to give up. It's policy, not revenge, that rules here.
+
+##### Lich
+
+**Impression Score:** 11
+
+*The lich spent centuries alone, studying and building their power … but now the time for studying is over.*
+
+The lich is willing to negotiate with strong heroes who might make loyal lieutenants—or powerful undead servants if the talks don't go well.
+
+The lich archetype can be used for any other world-shaking threat, such as a would-be emperor or the vampire lord Count Rhodar von Glauer.
+
+###### Motivations
+
+The lich has the following possible motivations:
+
+- **Discovery:** Give me that book at once! Your very touch corrupts it.
+- **Power:** Yes … yes … power! Ahahahaha! Bring me this power and you will be rewarded.
+- **Revelry:** Join my court for the coming feast! We shall know such entertainments as were never seen in this world before.
+- **Vengeance:** The world despised me … banished me … forgot me. The world shall regret it.
+
+###### Pitfalls
+
+The lich has the following possible pitfalls:
+
+- **Benevolence:** Do you ask the farmer to pity the wheat before it's harvested?
+- **Legacy:** I don't care what the common people think of me. The less they think of me, the better—as long as they obey my commands.
+- **Peace:** Yes, yes, peace will come … but not now.
+- **Protection:** If you're so intent on saving lives, then save your own by bowing down before me! No harm will come to my servants.
+
+##### Deity
+
+**Impression Score:** 12
+
+*The deity will listen to your prayers—and might perhaps answer them as well, if the mood strikes them.*
+
+The deity archetype can be used for any other world-transcending power, such as the legendary time dragon Cthrion Uroniziir, or the dread pharaoh Khorsekef the Infinite.
+
+###### Motivations
+
+The deity has the following possible motivations:
+
+- **Benevolence:** Worry not, for I have sent champions to save the world. Perhaps these champions … are closer than you think.
+- **Legacy:** When that blessed day arrives, all shall come before me to pray, and I shall offer my blessings to the world!
+- **Power:** Although I am all-powerful on the spiritual realm, my hands are bound in such worldly matters. But if you act for me, I can offer a little assistance.
+- **Protection:** Have faith, little one … none will be forgotten or left behind.
+
+###### Pitfalls
+
+The deity has the following possible pitfalls:
+
+- **Discovery:** Mortal, what can you tell me that I do not know?
+- **Freedom:** True freedom lies in service to me. Surrender your freedom and I shall raise you up high.
+- **Greed:** Fool! Do you seek to offer me what is already mine?
+- **Higher Authority:** Who do you speak of ? Who is beyond me, who is above me? Who will live to see me die, and who drew breath before I gave it? Let them come forth and say their name!
+
+### Create and Run Montage Tests
+
+You can use montage tests to play out chases, escapes, investigations, wilderness travel, attempts to track other creatures, and any other exciting moments in a story that can be told by transitioning or cutting back and forth among the heroes.
+
+#### Preparing Montage Tests
+
+When you prepare a montage test, you'll want to write down some key information.
+
+First, make a list of potential challenges the heroes can face during the montage test. This list should be at least as long as the number of successes the heroes must achieve to earn a total success. You might also prepare a list of consequences and rewards that could come up for individual tests made during the montage test, but since you can't predict what approaches the players will take to their characters' tests, don't worry about covering every scenario. You can always fall back on earning Malice and giving out hero tokens as a default consequence and reward (see [Test Outcomes](#page-264-0) in [Chapter 9: Tests](#page-263-0)).
+
+You'll then need to create the three outcomes of the montage: total success, partial success, and total failure. With a total success, the heroes should accomplish whatever they set out to do. With a partial success, they should accomplish their goal at a cost, create a new problem for themselves after doing what they set out to do, or not quite accomplish their full goal. With a total failure, the characters fail to do whatever they set out to do, but this result should not grind the story to a halt. Maybe they lose track of the fleeing lackeys they were pursuing, but they know they can now raid a mage's tower to find that information. Even if failure costs the characters dearly, they should still have options for continuing the adventure.
+
+#### Running Montage Tests
+
+When you run a montage test, start by setting the scene for the players and listing the various challenges the heroes must overcome. Allow the players to strategize about the order in which they'll tackle these challenges and make tests.
+
+When you adjudicate individual tests as part of a montage test, do so as you would any other test (see [Adjudicating Tests](#page-263-0) in [Chapter 9](#page-263-0)). Individual tests should have rewards and consequences when appropriate. In addition to the usual options for rewards or consequences, you can choose to have those outcomes grant an edge or impose a bane on a test made later as part of the montage test. Do whatever makes sense for the heroes' actions in the narrative.
+
+After each test, narrate the hero's failure or success in such a way that the other players can understand if and how the challenge has been overcome. Your description might even spark some new ideas for what the characters can do next.
+
+If a hero decides to tackle a problem using an ability, trait, or other feature instead of a test and it makes sense for them to do so, allow it. In a lot of cases, you can treat that approach as an automatic success that allows the group to overcome one of the challenges of the montage test, but you could decide that the success incurs a consequence. Alternatively, maybe the use of an ability or trait is beneficial enough to provide an edge on a future test, or maybe it's so effective that it counts for multiple successes or solves the entire montage test in one fell swoop! Always reward the clever actions of the players.
+
+At the end of a montage test, narrate the outcome for the players as you describe the overall success or failure and any consequences. Then let them know the montage test is done!
+
+#### Montage Twist!
+
+You can break up the individual tests within a montage test by introducing a quick combat encounter, negotiation, or trap into the scene, or by adding more challenges to overcome. Keep track of the heroes' successes and failures, and decide how many tests they must attempt before introducing your twist. A single twist in a montage test can often be introduced at the end of the first montage test round.
+
+When a twist is introduced, make sure the players understand that the montage test has been paused but isn't over. Then when the twist has been established and dealt with, continue the montage test.
+
+#### Example Montage Tests
+
+You can use any of the following montage tests in your game, or as inspiration that you can modify to your heart's content.
+
+##### Fight Fire
+
+Fire has broken out in the town! The heroes must prevent the conflagration from spreading while saving as many townsfolk as possible. Their efforts might be made more difficult if the cause of the fire—such as a marauding dragon or an invading army—is still around causing trouble.
+
+###### Setting the Scene
+
+Fire blazes in several buildings whose occupants need to be rescued. Elsewhere, some townsfolk flee while others throw water on the fire with no organization or plan. Without leadership and a way to stop its spread, the fire could easily consume everything. In a nearby stable, horses are panicking as their hay smolders. Burning rubble blocks pathways everywhere.
+
+###### Montage Challenges
+
+The following challenges can be part of the montage test:
+
+- **Bucket Brigades:** Characters can organize the would-be firefighters into disciplined bucket brigades, or can fight the fire directly in some other way. *Suggested* C*haracteristics:* Presence, Reason. *Suggested Skills:* Architecture, Intimidate, Lead.
+- **Clearing a Firebreak:** Preventing the fire from spreading might involve clearing the ground of flammable materials, either by moving it or burning it away under controlled conditions. *Suggested Characteristics:* Might, Reason. *Suggested Skills and Abilities:* Endurance, Lift; abilities that deal fire damage. *Special:* A creature loses a Recovery if they incur a consequence on the test for this challenge.
+- **Evacuating Buildings:** Characters must save people trapped in burning buildings. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Climb, Endurance, Persuade. *Special:* A creature who doesn't have fire immunity loses a Recovery if they incur a consequence on the test for this challenge. The heroes can attempt this challenge twice during the montage test.
+- **Find More Firefighters:** By finding groups that aren't fighting the fire, such as fleeing civilians, characters can convince them to help. *Suggested Characteristic:* Presence. *Suggested Skills:* Intimidate, Lead, Persuade.
+- **Free the Horses:** Characters can loose the stabled horses threatened by the fire and lead them to safety. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Handle Animals, Lift, Ride.
+- **Move Burning Rubble:** Shifting burning debris blocking doorways can allow people to escape the blaze. *Suggested Characteristic:* Might. *Suggested Skills:* Endurance, Lift. *Special:* A creature who doesn't have fire immunity loses a Recovery if they incur a consequence on the test for this challenge.
+- **Use the Freed Horses (if the Free the Horses challenge was successful):** Characters can put the horses to work clearing rubble or bringing people to safety. *Suggested Characteristics:* Reason, Presence. *Suggested Skills:* Drive, Handle Animals, Ride.
+
+###### Optional Twists
+
+At the end of the first montage test round, an emergency crops up. One or more heroes, selected by the players, must deal with the situation before the end of the round. If the heroes successfully deal with the twist, they earn a success for the montage test. Otherwise, they earn a failure.
+
+- **Building Collapse:** While a hero is in or near a blazing building, it starts to collapse. The hero must escape before the building crumbles. *Suggested Characteristics:* Agility, Intuition. *Suggested Skills:* Climb, Gymnastics, Jump.
+- **Cause of the Fire:** At the end of the first round of the montage test, the hostile cause of the fire appears—a squad of an invading army, a dragon, a team of arsonists, and so forth. The characters must engage in a standard or hard encounter with this threat.
+- **Help!** Townsfolk are about to run into a burning building to save a trapped relative. This twist requires two tests, each of which nets a success or a failure for the montage test. One hero can try to prevent the townspeople from entering the burning building while another rescues the relative. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Lift, Persuade.
+
+###### Montage Test Outcomes
+
+One of the following outcomes ends the montage test:
+
+- **Total Success:** The fire is extinguished. Buildings are damaged but no lives were lost. Each character earns 2 Victories if the montage test was hard, or 1 Victory if it was easy or moderate, in addition to any Victories earned from combat during the montage test.
+- **Partial Success:** The fire is quenched, although many buildings burned and a few lives were lost. Each character earns 1 Victory if the montage test was moderate or hard, in addition to any Victories earned from combat during the montage test.
+- **Total Failure:** When the fire finally burns out, the town lies in ruins. Townsfolk mourn their dead or grimly prepare to find a new home. Characters earn no Victories from the montage test, but might earn Victories from combat undertaken during the montage test.
+
+##### Infiltrate the Palace
+
+Whether the heroes are trying to reach a tyrant's throne room, pull off a daring art heist, or rescue royalty from captivity, they're somewhere they're not supposed to be—and they'd prefer to keep their presence a secret.
+
+###### Setting the Scene
+
+The palace is well defended, with exterior patrols always on the alert. The few obvious entrances are locked and guarded, and once the party is inside, no one knows the way to the goal. Guards patrol the interior of the site as well, forcing the characters to sneak or bluff their way past them.
+
+###### Montage Challenges
+
+Half the work of any successful infiltration is done before setting foot in the target site. The players can choose to have the heroes make individual tests as part of the montage test before they attempt to enter the palace. One round of tests can be made this way, and those tests don't affect the alarm level within the palace (see below).
+
+The following challenges can be part of this initial preparation:
+
+- **Bribe Guards:** The heroes can pay off the guards outside the palace to look the other way. If successful, one or more heroes' Wealth is lowered by 1. *Suggested Characteristic:* Presence. *Suggested Skills:* Criminal Underworld, Flirt, Persuade.
+- **Find Blueprints:** Researching secret entrances and little-known passageways can be undertaken in forgotten libraries or well-guarded town halls. *Suggested Characteristics:* Agility, Reason. *Suggested Skills:* Architecture, History, Sneak.
+- **Identify Unguarded Entrances:** Scouting around or consulting contacts can reveal a forgotten back door or accessible window. *Suggested Characteristics:* Agility, Intuition. *Suggested Skills:* Alertness, Architecture, Criminal Underworld.
+- **Learn Guard Schedules:** By keeping their ears and eyes open, characters can learn when guards go off duty. *Suggested Characteristics:* Intuition, Reason. *Suggested Skills:* Alertness, Eavesdrop, Track.
+- **Use False Identities:** By procuring forged documents or badges, characters can prepare to walk into the palace in plain sight. *Suggested Characteristics:* Presence, Reason. *Suggested Skills:* Disguise, Forgery, Lie.
+
+When the heroes start their infiltration, the alarm level of the palace starts at 0. While they infiltrate the site, whenever any hero fails a test as part of the montage test, the alarm level increases by 1, to a maximum of 2. Each time the heroes succeed on such a test, the alarm level decreases, to a minimum of 0. While the alarm level is 1, tests made inside the palace by the characters as part of the montage test take a bane. While the alarm level is 2, such tests have a double bane.
+
+The first time any hero fails a test made as part of the montage test while the alarm level is 2, they encounter guards and must engage in a hard combat encounter. The second time any hero fails such a test while the alarm level is 2, the montage test is a total failure.
+
+The following challenges can be part of the heroes' infiltration:
+
+- **Aerial Route:** Characters can follow a path that leads along catwalks or high ledges. *Suggested Characteristics:* Agility, Might. *Suggested Skills:* Climb, Gymnastics, Jump.
+- **Avoid Traffic:** By finding the dustiest, least-traveled areas and sticking to them, characters can avoid notice. *Suggested Characteristics:* Intuition, Reason. *Suggested Skills:* Navigate, Search, Track.
+- **Lie Low:** Once while the alarm level is greater than 0, the heroes can find a place to hide for a bit, reducing the alarm level by 1. This activity doesn't require a test or generate a success or failure.
+- **Make a Diversion:** After causing a ruckus, the characters quickly go the other way. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Alchemy, Perform, Sabotage.
+- **Pose as Guards:** Using stolen or specially prepared uniforms can let the characters move freely through the palace. The test for this challenge gains an edge if the characters prepared disguises in advance (including succeeding on the Use False Identities challenge) or defeated guards during their infiltration. *Suggested Characteristics:* Intuition, Presence. *Suggested Skills:* Disguise, Lie, Search.
+- **Skulk in the Shadows:** Keeping out of sight is the simplest way for characters to move through the palace. *Suggested Characteristic:* Agility. *Suggested Skills:* Hide, Sneak. *Special:* The heroes can attempt this challenge twice during the montage test.
+
+###### Optional Twist
+
+At any time during the infiltration section of the montage test, immediately after one hero's turn, the characters run into another group breaking into the palace at the same time, and possibly after the same prize. The characters can choose to fight or negotiate with the other party, or simply let them pass—in which case they might meet them again when they reach their final goal.
+
+###### Montage Test Outcomes
+
+One of the following outcomes ends the montage test:
+
+- **Total Success:** The heroes reach their goal and secure an escape route that lets them leave the palace safely. Each character earns 2 Victories if the montage test was hard, or 1 Victory if it was easy or moderate, in addition to any Victories earned from combat during the montage test.
+- **Partial Success:** The heroes reach their goal, but they need to fight a standard combat encounter to escape the palace. Each character earns 1 Victory if the montage test was moderate or hard, in addition to any Victories earned from combat during the montage test.
+- **Total Failure:** The palace is locked down and the heroes' goal is out of reach. The characters need to fight a hard combat encounter to escape. Characters earn no Victories from the montage test, but might earn Victories from combat undertaken during the montage test.
+
+##### Prepare For Battle
+
+Whether it's a village threatened by bandits or a great city preparing for a siege, enemies are on their way and ready to attack. The heroes have a limited time to fortify the settlement's defenses and bolster its troops.
+
+###### Setting the Scene
+
+The walls or palisades around the settlement (if any) are in poor shape. Roads or rivers through the area give the invaders free access to the settlement unless barricades, traps, or ambushes can be set up. Supplies of food, weapons, and ammunition are too low to survive a long siege. The area is home to few experienced fighters compared to the numbers of the invaders, and the local militia is poorly equipped and untrained.
+
+###### Montage Challenges
+
+The following challenges can be part of the montage test:
+
+- **Arms and Armor:** Crafting or repairing weapons and armor of all kinds can help rebuild the defenders' stores. *Suggested Characteristics:* Might, Reason. *Suggested Skills:* Alchemy, Blacksmithing, Fletching.
+- **Evacuation:** Heroes can help get noncombatants to safety before the invaders arrive. *Suggested Characteristics:* Intuition, Presence. *Suggested Skills:* Handle Animals, Lead, Persuade.
+- **Fortification:** Characters can help build or repair walls and other defensive structures. *Suggested Characteristics:* Might, Reason. *Suggested Skills:* Architecture, Endurance, Lift.
+- **Inspiration:** Improving morale with rousing speeches or performances can help prepare the locals for the fight to come. *Suggested Characteristics:* Intuition, Presence. *Suggested Skills:* Brag, Lead, Perform.
+- **Propaganda:** Characters can attempt to sow confusion or rebellion in the ranks of the approaching army. *Suggested Characteristics:* Agility, Presence. *Suggested Skills:* Disguise, Forgery, Lie.
+- **Stockpiling:** Characters can hunt, forage, or supernaturally conjure food or water to augment the settlement's supplies. *Suggested Characteristics:* Agility, Reason. *Suggested Skills:* Nature, Sneak, Track.
+- **Training:** Heroes can help to train the settlement's defenders. *Suggested Characteristics:* Might, Presence. *Suggested Skills:* Endurance, Intimidate, Lead.
+- **Trapmaking:** Digging concealed pits, placing hindrances, and setting up ambushes will make it harder for the invaders to approach the settlement. *Suggested Characteristics:* Might, Reason. *Suggested Skills:* Conceal Object, Endurance, Mechanics.
+
+###### Optional Twist
+
+At the end of the first round of the montage test, a fast-moving enemy vanguard attacks before the settlement's defenders are ready. The heroes must engage in an easy combat encounter.
+
+###### Montage Test Outcomes
+
+One of the following outcomes ends the montage test:
+
+- **Total Success:** The settlement is fully fortified, and even if the heroes don't fight in its defense, the settlement and its people survive. If the heroes wish, they can leave the settlement and fight a standard combat encounter against the leader of the invaders and their lackeys, possibly killing or capturing the leader. Each character earns 2 Victories if the montage test was hard, or 1 Victory if it was easy or moderate, in addition to any Victories earned from combat during the montage test.
+- **Partial Success:** The settlement's fortifications are improved, but the settlement will still fall unless the heroes fight in its defense. To save the settlement, the heroes must triumph in a hard combat encounter against the leader of the invaders and their lackeys. If the heroes lose the encounter, the settlement falls. Each character earns 1 Victory if the montage test was moderate or hard, in addition to any Victories earned from combat during the montage test.
+- **Total Failure:** The heroes each lose a Recovery from their failed efforts to defend the settlement, which is taken over by the invaders. If the players wish, the characters can fight two hard combat encounters against waves of invaders to allow some of the settlement's inhabitants to retreat to safety. Characters earn no Victories from the montage test, but might earn Victories from combat undertaken during the montage test.
+
+##### Track the Fugitive
+
+The heroes are on the trail of someone. An escaped criminal? A dangerous beast? A lost or kidnapped child? The difficulties of the chase depend on whether the quarry knows they're being pursued and whether they want to be found.
+
+###### Setting the Scene
+
+The fugitive's route is easy to follow, but could they be setting a false trail? Did anyone see them pass by, and is there any sense of where they might be headed? The goal is for the characters to do whatever they can to find and stay on the fugitive's trail.
+
+###### Montage Challenges
+
+The following challenges can be part of the montage test:
+
+- **Ask Around:** Characters can gather clues from locals or bystanders—or if they have access to the proper magic, from animals or the dead. *Suggested Characteristics:* Intuition, Presence. *Suggested Skills:* Interrogate, Persuade, Rumors.
+- **Follow the Trail:** Looking for tracks or other signs of the fugitive's passage can lead the characters on. *Suggested Characteristic:* Intuition. *Suggested Skills:* Alertness, Search, Track. *Special:* The heroes can attempt this challenge twice during the montage test.
+- **Obtain a Good View:** Characters can climb up high to get the big picture of where the fugitive might have gone. *Suggested Characteristics:* Agility, Might. *Suggested Skills:* Climb, Gymnastics, Jump.
+- **Predict the Next Move:** The heroes might have an idea where the quarry is headed. A character gains an edge on the test for this challenge if they know the quarry well. *Suggested Characteristics:* Intuition, Reason. *Suggested Skills:* Navigate, Read Person, an appropriate skill from the lore skill group (Nature to follow an animal, Criminal Underworld to follow a criminal, and so forth).
+- **Push Ahead:** While the quarry is resting, the heroes have a chance to close in. Suggested Characteristic: Might. Suggested Skills: Drive, Endurance, Navigate, Ride. Special: The hero making the test for this challenge loses a Recovery.
+
+###### Optional Twist
+
+At the end of the first round of the montage test, the heroes stumble upon a trap set by the quarry or a problem they left behind. This might include such things as a pit trap set with poison spikes, a mob of angry locals who've been told the characters are criminals, or an intentionally set fire. The heroes must deal with the trap or problem before they continue the montage test.
+
+###### Montage Test Outcomes
+
+One of the following outcomes ends the montage test:
+
+- **Total Success:** The heroes catch their quarry before the fugitive reaches their destination, or before a lost or kidnapped creature comes to harm. Each character earns 2 Victories if the montage test was hard, or 1 Victory if it was easy or moderate, in addition to any Victories earned from combat during the montage test.
+- **Partial Success:** If the quarry was trying to evade capture, they reach their destination. They find allies and a fortified position from which to defend themselves, or they might have time to cause more harm. If the quarry was lost or kidnapped, they are grievously injured when found. Each character earns 1 Victory if the montage test was moderate or hard, in addition to any Victories earned from combat during the montage test.
+- **Total Failure:** The trail has gone cold, and the heroes will need to seek fresh clues or a different approach before they can resume the hunt. Characters earn no Victories from the montage test, but might earn Victories from combat undertaken during the montage test.
+
+##### Wilderness Race
+
+The heroes must cross trackless wilderness, perhaps to reach a besieged city before it falls or seek the site where a curse is about to be activated. Getting there fast is a priority—but so is getting there alive.
+
+###### Setting the Scene
+
+The wilds hold unknown dangers. Characters need to figure out the best route while maintaining a good pace, watching out for hazards, and avoiding predatory monsters.
+
+###### Montage Challenges
+
+The following challenges can be part of the montage test:
+
+- **Avoid Hazards:** Characters can determine ways to overcome the natural hazards of the wilderness, such as finding insect-repelling herbs in a swamp or making snowshoes to cross tundra. *Suggested Characteristics:* Intuition, Reason. *Suggested Skills:* Heal, Nature, appropriate skill from the crafting skill group (such as Alchemy to make bug repellent).
+- **Carry Baggage:** By carrying supplies for weaker party members, characters can increase the whole party's speed. *Suggested Characteristic:* Might. *Suggested Skills:* Endurance, Lift.
+- **Find the Path:** Avoiding getting lost is a major challenge for the characters. *Suggested Characteristics:* Intuition, Reason. *Suggested Skills:* Alertness, Nature, Navigate.
+- **Keep Up Spirits:** Characters can keep up the party's morale during a forced march with cheer and song. *Suggested Characteristic:* Presence. *Suggested Skills:* Lead, Music, Perform.
+- **Keep Watch:** Characters must be on constant guard against danger. *Suggested Characteristic:* Intuition. *Suggested Skills:* Alertness, Eavesdrop, Track.
+- **Push On:** Characters must be ready to pick up the pace and push past their fatigue. *Suggested Characteristics:* Might. *Suggested Skills:* Endurance, Lead; Drive, Handle Animals, or Ride if the party has mounts or vehicles.
+- **Scout Ahead:** Investigating the path ahead lets the characters avoid dead-ends and arduous terrain. *Suggested Characteristics:* Agility, Intuition. *Suggested Skills:* Alertness, Navigate, Sneak.
+
+###### Optional Twist
+
+At the end of the first round of the montage test, the characters' journey is interrupted by one of the following threats:
+
+Predatory Monster: The characters stumble into or are stalked by a monstrous predator, and must engage in a standard combat encounter to overcome the threat or drive it off. If any character has obtained a success on the Scout Ahead challenge, you can let the characters make a group test to sneak past or set an ambush for the monster.
+
+**Unexpected Hazard:** A natural hazard such as an avalanche, rockslide, or wildfire interrupts the journey. Each hero must make a test of your choice to avoid the hazard, losing a Recovery on a failure.
+
+###### Montage Test Outcomes
+
+One of the following outcomes ends the montage test:
+
+- **Total Success:** The heroes reach their goal in time. Each character earns 2 Victories if the montage test was hard, or 1 Victory if it was easy or moderate, in addition to any Victories earned from combat during the montage test.
+- **Partial Success:** To reach their goal in time, the heroes must sprint over the last leg of the journey, with each character spending 2 Recoveries to do so. (If even one character doesn't have 2 Recoveries remaining, the characters instead earn a total failure for the montage test.) Each character earns 1 Victory if the montage test was moderate or hard, in addition to any Victories earned from combat during the montage test.
+- **Total Failure:** The heroes don't arrive in time to avert catastrophe. Characters earn no Victories from the montage test, but might earn Victories from combat undertaken during the montage test.
+
+### Running Respites
+
+When the heroes decide to take a respite (see [Respite](#page-21-4) in [Chapter 1:](#page-17-3) [The Basics](#page-17-3)), your role as Director changes a bit. Most of the heroes' activities during respites revolve around downtime projects, which are typically self-directed. However, you still have levers you can pull to make the story interesting.
+
+#### Safe Place
+
+Heroes can't take a respite unless they're in a safe place. This typically means a place with a bed and four walls and a roof around them, where they're unlikely to get stabbed in their sleep. Characters aren't going to find 24 hours of peace to take a respite in a villain's lair, even if they barricade a door. However, this can become more of a gray area if the heroes attempt to take a respite while traveling in the wild.
+
+"Why can't we camp in this seemingly peaceful wode for a day?" is the kind of thing you might decide is fine if you want the characters to be able to regain Stamina and Recoveries. Alternatively, you might want them to work harder for those resources, marking the wode as a dangerous place in the story. If the players want the heroes to take a respite in a place you deem unsafe, let them know it's impossible to get any meaningful rest or make progress on projects in that place while remaining constantly on guard for danger.
+
+#### Too Many Respites?
+
+It's up to the players how many respites the heroes take in a row. Characters eager to take a long series of respites to undertake downtime projects ([Chapter 12](#page-307-2)) is fine, but they should always feel pressure to get back to the fight. Remember that villains don't stop plotting and conquering while the heroes rest. Their plans continue! If the characters are taking their sweet time with respites so they can create as many Healing Potions as possible, have them get wind of the latest evil actions that nearby villains are taking. Heroes wanting to defend the people and values they love had better stop respiting and start adventuring.
+
+If you prefer a campaign that has few respites, you might want to deploy artisans, sages, and readily available project sources to allow the heroes a chance to craft useful items and do research, since their available time to do so will be limited.
+
+#### Project Events
+
+Downtime project events are a Director's time to shine during downtime. Remember that these events (detailed in [Chapter 12](#page-307-2)) are optional, and you can use them as frequently as you like. In general, more than one or two events per respite can be disruptive to the overall campaign. It's also fine to have no events if you just want to keep the campaign's main story rolling along.
+
+When you're running downtime events, be sure to rotate which heroes are in the spotlight of the action. Don't focus on the same hero over and over again. You can also do a little preparation for events before you play them out, reading the event prompt and fleshing it out into a scene. Prompts are intentionally vaguely written so you can modify them as you see fit or easily create your own.
+
+#### Respites Between Sessions
+
+If your play time is limited, you can have the players do everything they need to do during a respite between your game sessions, provided they end a game session by taking a respite. Doing so lets you run any events over email or through a chat app. Then when folks return for the next session, they'll be ready to go with project rolls completed, XP tallied, and Stamina and Recoveries restored.
+
+#### How Many Respites?
+
+There's no right number of respites that works for every group. If you want the characters to be able to craft and research, you'll want to give them more downtime to do so. If you prefer to hand out all the treasure and secrets through adventuring, then they'll need fewer respites. A good pace for many games sees the heroes taking between ten and twenty respites during each level of play, with many of those respites strung together.
+
+##### Victories and Respites
+
+Ultimately, the players, not the Director, decide when the heroes take a respite. So even though you adjudicate whether the conditions are safe enough for a respite, this part of the pacing is effectively out of your hands. Typically, most heroes want to rest after every 4 to 6 Victories they earn, depending on how many Victories were earned in combat encounters.
+
+#### Optional Rule: Average Roll
+
+When the heroes take a long series of respites, it might not be fun for the players to do a ton of die rolling covering many projects. Instead of rolling, you can calculate the progress for each respite as if a hero had rolled a natural 11 on their progress roll, then adding appropriate bonuses. Although rolling lots of dice and hoping for breakthroughs can be a lot of fun, taking the average of the 2d10 roll allows players to get through a lot of downtime with minimal math.
+
+#### Optional Rule: Easier Crafting
+
+Every crafting project requires that a hero obtain the project's item prerequisite and a project source in a specific language before the project can be started. These requirements exist so you can control the pace at which heroes can craft an arsenal of treasures to defeat their foes.
+
+That said, you can make it easier to craft treasures and other items by changing the rules to require either the item prerequisite or the project source but not both, or by removing the language restrictions on project sources. This works well in campaigns that don't have a lot of respites. Just keep in mind that removing these barriers can lead to the heroes crafting more items and unbalancing the game in their favor.
+
+### Granting Rewards
+
+You should have as much fun giving out treasure, Renown, wealth, and titles to the characters as the players have earning those rewards (see [Chapter 13: Rewards](#page-327-1)). But what's the right amount of treasure to give out without turning the heroes into total badasses who can simply cut down every dragon they meet? How often do the rules of the game expect a hero to earn Renown? What about titles? This section has answers for you!
+
+#### Granting Treasures
+
+Whenever you're planning on awarding treasures to the heroes, focus on items that are useful. Finding a magic bow isn't likely to excite a group that doesn't have a hero who loves ranged weapon combat. The players might even tell you (or you can ask) which treasures their heroes most desire.
+
+Once you have treasures in mind, you can use the following progression as a baseline for the heroes to earn those treasures:
+
+- A party should earn two leveled treasures per hero by 10th level. Some heroes need only one leveled treasure to be happy, though, so if you feel as if giving out another leveled treasure wouldn't actually help a character, you can swap that item out for a trinket of the character's current echelon.
+- A party should earn one trinket per hero per echelon. Any trinket earned should be of a character's current echelon or lower.
+- A party should also earn one to three consumables of their current echelon or lower each level.
+
+You don't have to award the full complement of treasure to heroes especially those using their downtime to craft things! You can spread out the pace at which characters earn treasures by having them find the project sources and item prerequisites for crafting an item instead of finding an item outright.
+
+When you're planning an adventure, put the treasures and crafting materials the heroes can earn into your adventure outline (see [Creating Adventures](#page-392-0) earlier in this chapter). Enemies who have access to treasures that can help them against the heroes don't keep those treasures hidden away. They use them in battle, after which victorious characters can claim them!
+
+##### Treasures Above 1st Level
+
+For a campaign in which the heroes start at 2nd level or higher, you can give those heroes the following starting treasures:
+
+- At 1st echelon, each hero starts with a 1st-echelon trinket.
+- At 2nd echelon, each hero starts with a leveled treasure and a 1st-echelon trinket.
+- At 3rd echelon, each hero starts with two leveled treasures, a 1st-echelon trinket, and a 2nd-echelon trinket.
+- At 4th echelon, each hero starts with two leveled treasures, a 1st-echelon trinket, a 2nd-echelon trinket, and a 3rd-echelon trinket.
+
+The players can choose their hero's treasures, and can replace any leveled treasure or trinket for a consumable treasure of the hero's echelon or lower.
+
+#### Making New Treasures
+
+You can easily create new types of leveled treasures for heroes to find using the enhancements from the Imbue Treasure project in [Chapter 12: Downtime Projects](#page-307-2).
+
+You can also take any of the treasures in this book and easily reskin them. Do you wish Gecko Gloves were actually boots? Just change the description and the Hands keywords and you're good to go. Do you want the Icemaker Maul to be a dagger that creates pools of acid instead of an ice field? Change the Heavy Weapon keyword and swap the damage types, and you're ready to rock! Simply changing keywords, damage, and descriptions for treasures isn't going to break the game.
+
+#### Awarding Titles
+
+You don't need to grant heroes every title they qualify for. In fact, you probably shouldn't, lest they become too powerful too fast. As a general guideline, a hero should gain a new title about every other level, which you can accomplish using either of the following options:
+
+- You can grant a hero a title during a significant moment in a campaign, such as after defeating a villain. The heroes are each awarded a title they earned that is chosen by you.
+- You can allow a hero to choose a title they've earned from the titles available at their echelon each time they achieve an even-numbered level.
+
+You should check in with your players occasionally to see if they have any specific titles they want to earn, then give them a chance to earn those titles. Doing so gets the players more involved in the campaign and gets the characters more driven to adventure.
+
+#### Awarding Renown
+
+The heroes earn Renown whenever they do something of significance, such as saving a town or … well, saving the world! As a general guideline, heroes should earn 1 Renown per level.
+
+If you want the characters to be less famous than in a standard heroic tale, you can adjust this to give out Renown every other level. Alternatively, you can award Renown after each adventure if you want the heroes to become power players in the world more quickly.
+
+##### How Many Retainers?
+
+You can set limits on the number of retainers the heroes can have in their service. For a large group of heroes, having too many retainers can make combat complex, long, and unwieldy. Likewise, retainers are a great way to help a smaller group of heroes stand up to larger challenges. In general, it's a good idea to use retainers to help the heroes get the size of their party up to four but no larger than seven.
+
+#### Granting Wealth
+
+The heroes increase their wealth whenever they score a big payday or recover a huge hoard of treasure. Characters should earn 1 wealth every second level.
+
+#### Awarding Hero Tokens
+
+You can award hero tokens to the players for taking risks with their heroes beyond what the game typically expects of them. For instance, battling a group of monsters is part of the game and doesn't earn a hero token. However, the following activities might:
+
+- A hero stands alone against a group of enemies to allow their comrades to escape.
+- A hero willingly jumps into quicksand, into lava, off a cliff, or into similar peril to save another character.
+- The group is presented with an easy way out of a difficult situation that involves lying, cheating, stealing, or the like, but they take the more arduous and honorable path.
+- A hero gives away an important resource, such as a Healing Potion, to help another creature in need.
+
+#### Awarding Victories
+
+Use the following guidelines for awarding Victories to the heroes, increasing these values as desired for notably difficult challenges.
+
+##### Combat Encounters
+
+A successful combat encounter in which the party's objectives are achieved earns each hero 1 Victory. Particularly difficult encounters are worth 2 Victories when completed successfully. *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)* has more information about Victories and combat difficulty.
+
+##### Montage Tests
+
+Each hero earns 1 Victory when they achieve total success on an easy or moderate montage test, and 2 Victories for total success on a hard montage test. They earn 1 Victory if they achieve a partial success on a moderate or hard montage test.
+
+##### Negotiation
+
+Each hero earns 1 Victory if the party ends a Negotiation with an NPC's interest at 3 or higher, with that interest 2 or more higher than it started, and with agreement on a deal.
+
+##### Hazards and Traps
+
+If the heroes overcome a complicated hazard or trap that required multiple tests to detect and survive, each earns 1 Victory.
+
+##### Puzzles
+
+If the heroes solve a complicated puzzle that feels to you as if it would take most people at least 10 minutes to complete, each earns 1 Victory.
+
+##### Story Goals
+
+If the heroes achieve a major story goal that accomplishes a quest, such as saving a prince trapped by an evil baron or stopping a necromancer from performing a world-ending ritual, each earns 1 Victory.
+
+##### Clever Thinking
+
+If the heroes use clever thinking to easily and surprisingly overcome or bypass a combat encounter, a negotiation, a montage test, a trap, a puzzle, or some other challenge that would have awarded them 1 or more Victories in a more difficult fashion, award each character the Victories they would have earned had they faced and overcome the problem head on.
+
+### Campaign: First Session
+
+Ah, that new-campaign smell! The first session of any new long-term campaign is all about getting the players excited, comfortable, and ready to play. The first session of a campaign is sometimes referred to as "session 0" because of its focus on setup and character building—but when character building is done, you want to make sure your first session kicks off with maximum excitement!
+
+#### First, Business
+
+At the start of your first session, you'll want to get some business out of the way before you dive into the fun of making characters.
+
+##### Schedule
+
+Talk to your players about the game's schedule. Determine with the group how often you'll play, what you plan to do when one or more players can't make it, and how you plan to communicate about the game when not playing.
+
+##### Handling Disputes
+
+Talk over and decide how you're going to settle rules disputes. We recommend that you make a ruling in the moment and then look up the rule after the session to keep the flow of play going.
+
+##### Safety Tools
+
+Talk about the safety tools you plan to use at the table. For more information about safety tools and a safety tool checklist you can use for your games, check out the MCDM Tabletop Safety Toolkit at *[mcdm.gg/SafetyToolkit](http://mcdm.gg/SafetyToolkit)*.
+
+##### Campaign Pitch
+
+Go over your campaign pitch again (see the start of this chapter), and answer any questions the players have about it.
+
+##### Player Suggestions
+
+Ask the players what they'd like to see in the campaign and make notes around their responses. This can include anything from, "I'd love to play out some chase scenes!" to "I want to explore themes of loss and grief." These suggestions should be starting points for a conversation. If not all players are comfortable with certain themes or content requested by other players, this is a great time to discuss that (looping back to your safety tools discussion as appropriate), and to come to a consensus about what everyone wants out of the game.
+
+##### House Rules
+
+Go over any house rules you have with the players, and ask them if they have any house rules they'd like to add. House rules should always be discussed with the players, but ultimately, you get to decide which house rules are used in the campaign.
+
+#### Make Heroes
+
+During the first session of a new campaign, the players will likely spend most of their time building heroes. While they do so, it's a good idea for you to be available to answer any questions they have about the campaign and the setting. They might ask about everything from the name of the town where their first adventure starts, important organizations in the game, or if a specific language or skill will be useful in the campaign.
+
+As your players make their heroes, you can take notes. It's a good idea to record each hero's name, ancestry, background, class, and complication (if any). Also record any important backstory details a player shares with you, such as their character's hometown, the names of rivals, loved ones, or enemies, and any organizations with which they have history.
+
+#### Start With a Bang
+
+When all else is done, it's a great idea to play an opening scene during your first session—ideally a scene that includes a combat encounter. This first encounter should give the players a taste of the delicious campaign you're cooking up for them and leave them eager for the next session.
+
+Your opening encounter should introduce or hint at the villain the heroes face during their first adventure. You can use any of the following encounter ideas to get you started:
+
+- While traveling to the settlement where their first adventure takes place, the heroes and their caravan or ship are attacked by brigands.
+- The heroes enter a new town to find war dogs (see *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*) ready to publicly execute a noble who refused to bend the knee to the brutal tyrant Ajax.
+- The heroes are at a tavern enjoying a night off when a band of gnoll raiders attacks and lights the place on fire.
+- The heroes are camped in a swamp when undead emerge from the muck and surround them.
+- While watching a theatrical performance, an actor (perhaps by accident) performs a ritual that opens a portal to the Abyssal Wasteland and summons a horde of demons.
+
+The encounter you craft should be connected to the first adventure you plan to run. Keep this first encounter simple, and let each player get used to running their hero. You can always have a couple of villainous reinforcements arrive if the encounter is too easy!
+
+If you've got still more time, you can keep playing a little longer, either by expanding the combat encounter or adding some exploration or travel. Otherwise, wrap the combat up, thank the players for a great first session, and start planning your next session.
+
+> "Life's like a movie
+>
+> Write your own ending
+>
+> Keep believing
+>
+> Keep pretending
+>
+> We did just what we set out to do
+>
+> Thanks to the lovers, the dreamers, and you."
+>
+> **Kermit T. Frog**
+
+# Draw Steel Creator License
+
+**Note:** This license applies to ~~this~~ the original book, *Draw Steel Heroes.*
+
+## Just a few basic rules:
+
+- If you adhere to these terms, you are allowed to publish works based upon and/or declare compatibility with *DRAW STEEL* without express permission from MCDM Productions, LLC ("MCDM," "we," "us," or "our").
+- You agree not to copy or reproduce any art from our books unless you have our explicit permission in writing.
+- You may use our visual designs as inspiration to create your own original illustrations.
+- You can reuse and freely reference the *DRAW STEEL* text, mechanics, and game rules, including proper names, locations, and characters.
+- Your product cannot use the MCDM logo or the *DRAW STEEL* logo unless you have our explicit permission in writing.
+- You are allowed and encouraged (but not required) to use the *DRAW STEEL* compatibility logo. (*<https://mcdm.gg/ds-license>*)
+- The following text must be included both (a) in the legal text visible on the outside of your product, and (b) on the website or storefront where you promote the product: "[Product Name] is an independent product published under the *DRAW STEEL* Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2024 MCDM Productions, LLC."
+- You're not allowed to give the impression that your product is an official *DRAW STEEL* product or that MCDM endorses or sponsors you or your product in any way.
+- MCDM takes no responsibility for any legal claims against your product. You agree not to bring any claim against MCDM based on or arising from your use of *DRAW STEEL* content.
+- You agree that your product will not violate or infringe the intellectual property rights of any third party. For example, don't make a product with Wolverine or Darth Vader in a *DRAW STEEL* setting.
+
+## And a few general terms:
+
+- Any legal disputes, controversies, or claims related to this license shall be governed by and construed in accordance with the laws of the State of California and be heard before a court in the United States of America.
+- You agree to defend, indemnify, and hold MCDM and its owners, officers, directors, employees, assigns, agents, affiliates, and representatives harmless from and against any liability, claims, actions, demands, and damages (including attorneys' fees and costs) arising from or relating to your product or your exercise of any rights granted in this license.
+- MCDM may modify or revise this license at any time in its sole discretion by posting the amended license on its website located at https://mcdm.gg/DS-license and announcing the change on at least one of MCDM's social media channels. The modification or revision will become effective after such postings. MCDM will indicate on the license the date it was last amended. You are responsible for checking the license regularly for changes, and you waive any right to receive specific notice of changes.
+- Our license amendments will not be retroactive. If we amend the license, it will only apply to MCDM content that we release after we announce an amendment. Any of our content that was released before an amendment will still be covered by the old license. You can thus create a product based on our content today knowing that we're not going to switch up the license terms on you down the road. If you have a product that you're selling or that's in development at the time MCDM issues a license amendment, you can continue distributing that product plus any updates, modified versions, and derivative works under the terms of the license that was in place prior to the amendment even if you do not agree to the license as amended. In other words, we're not going to make you choose between killing off your work or accepting terms you don't like.
+- If you fail to comply with this license, your rights under this License terminate automatically and without notice. On termination of this license, you agree to immediately stop sharing or distributing any product created under this license.

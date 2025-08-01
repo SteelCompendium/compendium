@@ -6,7 +6,7 @@ item_name: Lore Skills Table
 scc:
   - mcdm.heroes.v1:skill:lore-skills-table
 scdc:
-  - 1.1.1:4:05
+  - 1.1.1:5:05
 source: mcdm.heroes.v1
 type: skill
 ---

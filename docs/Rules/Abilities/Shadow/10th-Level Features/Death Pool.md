@@ -9,7 +9,7 @@ level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.10th-level-feature:death-pool
 scdc:
-  - 1.1.1:10.1.2.4:07
+  - 1.1.1:13.1.2.4:07
 source: mcdm.heroes.v1
 type: feature/trait/shadow/10th-level-feature
 ---

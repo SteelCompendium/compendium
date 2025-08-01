@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:pierce-the-veil-of-substance
 scdc:
-  - 1.1.1:10.1.9.5:04
+  - 1.1.1:13.1.9.5:04
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/5th-level-feature
 ---

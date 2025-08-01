@@ -12,7 +12,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:dancer-7-insight
 scdc:
-  - 1.1.1:10.2.2.6:04
+  - 1.1.1:13.2.2.6:04
 source: mcdm.heroes.v1
 type: feature/ability/shadow/3rd-level-feature
 ---

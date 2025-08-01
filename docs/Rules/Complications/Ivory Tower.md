@@ -6,7 +6,7 @@ item_name: Ivory Tower
 scc:
   - mcdm.heroes.v1:complication:ivory-tower
 scdc:
-  - 1.1.1:5:49
+  - 1.1.1:6:49
 source: mcdm.heroes.v1
 type: complication
 ---

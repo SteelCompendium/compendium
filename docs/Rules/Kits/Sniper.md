@@ -6,7 +6,7 @@ item_name: Sniper
 scc:
   - mcdm.heroes.v1:kit:sniper
 scdc:
-  - 1.1.1:7:17
+  - 1.1.1:9:17
 source: mcdm.heroes.v1
 type: kit
 ---

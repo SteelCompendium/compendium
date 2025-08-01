@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.fury.4th-level-feature:perk
 scdc:
-  - 1.1.1:10.1.5.10:02
+  - 1.1.1:13.1.5.10:02
 source: mcdm.heroes.v1
 type: feature/trait/fury/4th-level-feature
 ---

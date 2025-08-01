@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.censor.7th-level-feature:word-of-fate-denied
 scdc:
-  - 1.1.1:10.1.7.9:10
+  - 1.1.1:13.1.7.9:10
 source: mcdm.heroes.v1
 type: feature/trait/censor/7th-level-feature
 ---

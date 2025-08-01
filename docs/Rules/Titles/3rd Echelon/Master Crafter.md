@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: master-crafter
-item_index: '18'
+item_index: '10'
 item_name: Master Crafter
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:master-crafter
 scdc:
-  - 1.1.1:11.1:18
+  - 1.1.1:14.1:10
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

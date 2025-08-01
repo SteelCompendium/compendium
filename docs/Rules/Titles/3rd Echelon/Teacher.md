@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: teacher
-item_index: '03'
+item_index: '01'
 item_name: Teacher
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:teacher
 scdc:
-  - 1.1.1:11.1:03
+  - 1.1.1:14.1:01
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

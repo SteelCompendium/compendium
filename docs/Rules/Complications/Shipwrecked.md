@@ -6,7 +6,7 @@ item_name: Shipwrecked
 scc:
   - mcdm.heroes.v1:complication:shipwrecked
 scdc:
-  - 1.1.1:5:61
+  - 1.1.1:6:61
 source: mcdm.heroes.v1
 type: complication
 ---

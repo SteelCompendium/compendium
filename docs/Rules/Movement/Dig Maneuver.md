@@ -6,7 +6,7 @@ item_name: Dig Maneuver
 scc:
   - mcdm.heroes.v1:movement:dig-maneuver
 scdc:
-  - 1.1.1:8:01
+  - 1.1.1:10:01
 source: mcdm.heroes.v1
 type: movement
 ---

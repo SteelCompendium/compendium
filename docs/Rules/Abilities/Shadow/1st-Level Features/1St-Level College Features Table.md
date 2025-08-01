@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:1st-level-college-features-table
 scdc:
-  - 1.1.1:10.1.2.1:02
+  - 1.1.1:13.1.2.1:02
 source: mcdm.heroes.v1
 type: feature/trait/shadow/1st-level-feature
 ---

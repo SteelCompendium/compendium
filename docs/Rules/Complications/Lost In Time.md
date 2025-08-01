@@ -6,7 +6,7 @@ item_name: Lost In Time
 scc:
   - mcdm.heroes.v1:complication:lost-in-time
 scdc:
-  - 1.1.1:5:35
+  - 1.1.1:6:35
 source: mcdm.heroes.v1
 type: complication
 ---

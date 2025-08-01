@@ -6,7 +6,7 @@ item_name: Gnoll-Mauled
 scc:
   - mcdm.heroes.v1:complication:gnoll-mauled
 scdc:
-  - 1.1.1:5:63
+  - 1.1.1:6:63
 source: mcdm.heroes.v1
 type: complication
 ---

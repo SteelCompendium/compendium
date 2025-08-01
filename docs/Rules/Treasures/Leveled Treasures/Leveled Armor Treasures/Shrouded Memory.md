@@ -6,7 +6,7 @@ item_name: Shrouded Memory
 scc:
   - mcdm.heroes.v1:treasure.leveled.armor:shrouded-memory
 scdc:
-  - 1.1.1:9.3.4:10
+  - 1.1.1:12.3.4:10
 source: mcdm.heroes.v1
 type: treasure/leveled/armor
 ---

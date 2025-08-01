@@ -6,7 +6,7 @@ item_name: Quantum Satchel
 scc:
   - mcdm.heroes.v1:treasure.trinkets.1st-echelon:quantum-satchel
 scdc:
-  - 1.1.1:9.4.4:03
+  - 1.1.1:12.4.4:03
 source: mcdm.heroes.v1
 type: treasure/trinkets/1st-echelon
 ---

@@ -6,7 +6,7 @@ item_name: Traveling Artisan
 scc:
   - mcdm.heroes.v1:perk.crafting:traveling-artisan
 scdc:
-  - 1.1.1:12.6:04
+  - 1.1.1:16.6:04
 source: mcdm.heroes.v1
 type: perk/crafting
 ---

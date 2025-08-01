@@ -6,7 +6,7 @@ item_name: Spiny Turtle
 scc:
   - mcdm.heroes.v1:treasure.leveled.armor:spiny-turtle
 scdc:
-  - 1.1.1:9.3.4:07
+  - 1.1.1:12.3.4:07
 source: mcdm.heroes.v1
 type: treasure/leveled/armor
 ---

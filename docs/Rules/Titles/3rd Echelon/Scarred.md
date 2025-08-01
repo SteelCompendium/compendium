@@ -1,12 +1,12 @@
 ---
 file_dpath: Titles/3rd Echelon
 item_id: scarred
-item_index: '16'
+item_index: 08
 item_name: Scarred
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:scarred
 scdc:
-  - 1.1.1:11.1:16
+  - 1.1.1:14.1:08
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

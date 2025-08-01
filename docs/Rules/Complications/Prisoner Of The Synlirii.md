@@ -6,7 +6,7 @@ item_name: Prisoner Of The Synlirii
 scc:
   - mcdm.heroes.v1:complication:prisoner-of-the-synlirii
 scdc:
-  - 1.1.1:5:29
+  - 1.1.1:6:29
 source: mcdm.heroes.v1
 type: complication
 ---

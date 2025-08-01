@@ -6,7 +6,7 @@ item_name: Necklace Of The Bayou
 scc:
   - mcdm.heroes.v1:treasure.trinkets.2nd-echelon:necklace-of-the-bayou
 scdc:
-  - 1.1.1:9.4.2:08
+  - 1.1.1:12.4.2:08
 source: mcdm.heroes.v1
 type: treasure/trinkets/2nd-echelon
 ---

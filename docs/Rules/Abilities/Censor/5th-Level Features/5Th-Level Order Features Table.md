@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.censor.5th-level-feature:5th-level-order-features-table
 scdc:
-  - 1.1.1:10.1.7.5:02
+  - 1.1.1:13.1.7.5:02
 source: mcdm.heroes.v1
 type: feature/trait/censor/5th-level-feature
 ---

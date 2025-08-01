@@ -6,7 +6,7 @@ item_name: Strange Inheritance
 scc:
   - mcdm.heroes.v1:complication:strange-inheritance
 scdc:
-  - 1.1.1:5:37
+  - 1.1.1:6:37
 source: mcdm.heroes.v1
 type: complication
 ---

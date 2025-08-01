@@ -6,7 +6,7 @@ item_name: Falling Onto Another Creature
 scc:
   - mcdm.heroes.v1:movement:falling-onto-another-creature
 scdc:
-  - 1.1.1:8:04
+  - 1.1.1:10:04
 source: mcdm.heroes.v1
 type: movement
 ---

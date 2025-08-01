@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.censor.5th-level-feature:stand-fast
 scdc:
-  - 1.1.1:10.1.7.5:01
+  - 1.1.1:13.1.7.5:01
 source: mcdm.heroes.v1
 type: feature/trait/censor/5th-level-feature
 ---

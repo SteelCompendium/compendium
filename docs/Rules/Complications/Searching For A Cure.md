@@ -6,7 +6,7 @@ item_name: Searching For A Cure
 scc:
   - mcdm.heroes.v1:complication:searching-for-a-cure
 scdc:
-  - 1.1.1:5:21
+  - 1.1.1:6:21
 source: mcdm.heroes.v1
 type: complication
 ---

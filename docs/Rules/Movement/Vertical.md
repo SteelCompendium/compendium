@@ -6,7 +6,7 @@ item_name: Vertical
 scc:
   - mcdm.heroes.v1:movement:vertical
 scdc:
-  - 1.1.1:8:11
+  - 1.1.1:10:11
 source: mcdm.heroes.v1
 type: movement
 ---

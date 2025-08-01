@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:scene-partner
 scdc:
-  - 1.1.1:10.1.3.1:17
+  - 1.1.1:13.1.3.1:17
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/1st-level-feature
 ---

@@ -6,7 +6,7 @@ item_name: Imp'S Tongue
 scc:
   - mcdm.heroes.v1:treasure.consumable.1st-echelon:imp-s-tongue
 scdc:
-  - 1.1.1:9.2.1:14
+  - 1.1.1:12.2.1:14
 source: mcdm.heroes.v1
 type: treasure/consumable/1st-echelon
 ---

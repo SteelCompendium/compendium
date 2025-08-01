@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:their-lack-of-focus-is-their-undoing-11-focus
 scdc:
-  - 1.1.1:10.2.4.7:04
+  - 1.1.1:13.2.4.7:04
 source: mcdm.heroes.v1
 type: feature/ability/tactician/9th-level-feature
 ---

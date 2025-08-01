@@ -6,7 +6,7 @@ item_name: Hunted
 scc:
   - mcdm.heroes.v1:complication:hunted
 scdc:
-  - 1.1.1:5:28
+  - 1.1.1:6:28
 source: mcdm.heroes.v1
 type: complication
 ---

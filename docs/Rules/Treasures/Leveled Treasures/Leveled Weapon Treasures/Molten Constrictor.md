@@ -6,7 +6,7 @@ item_name: Molten Constrictor
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:molten-constrictor
 scdc:
-  - 1.1.1:9.3.1:11
+  - 1.1.1:12.3.1:11
 source: mcdm.heroes.v1
 type: treasure/leveled/weapon
 ---

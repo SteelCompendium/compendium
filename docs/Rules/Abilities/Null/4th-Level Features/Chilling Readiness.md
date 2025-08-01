@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.null.4th-level-feature:chilling-readiness
 scdc:
-  - 1.1.1:10.1.6.9:01
+  - 1.1.1:13.1.6.9:01
 source: mcdm.heroes.v1
 type: feature/trait/null/4th-level-feature
 ---

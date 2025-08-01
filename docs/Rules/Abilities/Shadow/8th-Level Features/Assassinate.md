@@ -12,7 +12,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.8th-level-feature:assassinate-11-insight
 scdc:
-  - 1.1.1:10.2.2.2:03
+  - 1.1.1:13.2.2.2:03
 source: mcdm.heroes.v1
 type: feature/ability/shadow/8th-level-feature
 ---

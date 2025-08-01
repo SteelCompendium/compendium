@@ -6,7 +6,7 @@ item_name: Kuran'Zoi Prismscale
 scc:
   - mcdm.heroes.v1:treasure.leveled.armor:kuran-zoi-prismscale
 scdc:
-  - 1.1.1:9.3.4:06
+  - 1.1.1:12.3.4:06
 source: mcdm.heroes.v1
 type: treasure/leveled/armor
 ---

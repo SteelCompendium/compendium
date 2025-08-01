@@ -6,7 +6,7 @@ item_name: Fallen Immortal
 scc:
   - mcdm.heroes.v1:complication:fallen-immortal
 scdc:
-  - 1.1.1:5:56
+  - 1.1.1:6:56
 source: mcdm.heroes.v1
 type: complication
 ---

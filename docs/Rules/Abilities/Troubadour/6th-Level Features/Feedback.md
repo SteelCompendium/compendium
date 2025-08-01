@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:feedback-9-drama
 scdc:
-  - 1.1.1:10.2.3.3:01
+  - 1.1.1:13.2.3.3:01
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/6th-level-feature
 ---

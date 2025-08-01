@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:no-dying-on-my-watch-5-focus
 scdc:
-  - 1.1.1:10.2.4.5:03
+  - 1.1.1:13.2.4.5:03
 source: mcdm.heroes.v1
 type: feature/ability/tactician/2nd-level-feature
 ---

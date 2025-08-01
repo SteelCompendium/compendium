@@ -6,7 +6,7 @@ item_name: Troupe Leading Player
 scc:
   - mcdm.heroes.v1:title.1st-echelon:troupe-leading-player
 scdc:
-  - 1.1.1:11.3:02
+  - 1.1.1:14.3:02
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

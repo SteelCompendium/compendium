@@ -6,7 +6,7 @@ item_name: Forbidden Romance
 scc:
   - mcdm.heroes.v1:complication:forbidden-romance
 scdc:
-  - 1.1.1:5:85
+  - 1.1.1:6:85
 source: mcdm.heroes.v1
 type: complication
 ---

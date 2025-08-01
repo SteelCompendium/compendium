@@ -9,7 +9,7 @@ level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.10th-level-feature:characteristic-increase
 scdc:
-  - 1.1.1:10.1.4.4:04
+  - 1.1.1:13.1.4.4:04
 source: mcdm.heroes.v1
 type: feature/trait/tactician/10th-level-feature
 ---

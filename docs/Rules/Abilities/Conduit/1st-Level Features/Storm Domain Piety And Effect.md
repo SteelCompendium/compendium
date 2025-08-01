@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:storm-domain-piety-and-effect
 scdc:
-  - 1.1.1:10.1.8.1:07
+  - 1.1.1:13.1.8.1:07
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

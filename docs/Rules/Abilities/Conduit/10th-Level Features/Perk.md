@@ -9,7 +9,7 @@ level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.10th-level-feature:perk
 scdc:
-  - 1.1.1:10.1.8.4:02
+  - 1.1.1:13.1.8.4:02
 source: mcdm.heroes.v1
 type: feature/trait/conduit/10th-level-feature
 ---

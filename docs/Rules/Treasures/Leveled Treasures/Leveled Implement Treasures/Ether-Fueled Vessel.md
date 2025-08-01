@@ -6,7 +6,7 @@ item_name: Ether-Fueled Vessel
 scc:
   - mcdm.heroes.v1:treasure.leveled.implement:ether-fueled-vessel
 scdc:
-  - 1.1.1:9.3.3:06
+  - 1.1.1:12.3.3:06
 source: mcdm.heroes.v1
 type: treasure/leveled/implement
 ---

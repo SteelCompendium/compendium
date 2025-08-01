@@ -6,7 +6,7 @@ item_name: Antihero
 scc:
   - mcdm.heroes.v1:complication:antihero
 scdc:
-  - 1.1.1:5:08
+  - 1.1.1:6:08
 source: mcdm.heroes.v1
 type: complication
 ---

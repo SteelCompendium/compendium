@@ -6,7 +6,7 @@ item_name: Grounded
 scc:
   - mcdm.heroes.v1:complication:grounded
 scdc:
-  - 1.1.1:5:88
+  - 1.1.1:6:88
 source: mcdm.heroes.v1
 type: complication
 ---

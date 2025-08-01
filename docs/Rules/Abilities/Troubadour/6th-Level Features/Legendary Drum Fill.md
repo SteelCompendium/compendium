@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:legendary-drum-fill-9-drama
 scdc:
-  - 1.1.1:10.2.3.3:03
+  - 1.1.1:13.2.3.3:03
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/6th-level-feature
 ---

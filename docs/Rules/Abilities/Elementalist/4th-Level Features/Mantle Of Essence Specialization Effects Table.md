@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.4th-level-feature:mantle-of-essence-specialization-effects-table
 scdc:
-  - 1.1.1:10.1.9.10:08
+  - 1.1.1:13.1.9.10:08
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/4th-level-feature
 ---

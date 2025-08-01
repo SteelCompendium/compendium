@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.fury.2nd-level-feature:inescapable-wrath
 scdc:
-  - 1.1.1:10.1.5.6:04
+  - 1.1.1:13.1.5.6:04
 source: mcdm.heroes.v1
 type: feature/trait/fury/2nd-level-feature
 ---

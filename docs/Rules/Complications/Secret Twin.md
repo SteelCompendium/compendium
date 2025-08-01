@@ -6,7 +6,7 @@ item_name: Secret Twin
 scc:
   - mcdm.heroes.v1:complication:secret-twin
 scdc:
-  - 1.1.1:5:52
+  - 1.1.1:6:52
 source: mcdm.heroes.v1
 type: complication
 ---
