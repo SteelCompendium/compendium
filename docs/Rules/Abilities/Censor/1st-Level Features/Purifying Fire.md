@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:purifying-fire-5-wrath
 scdc:
-  - 1.1.1:5.2.7.1:06
+  - 1.1.1:6.2.7.1:06
 source: mcdm.heroes.v1
 type: feature/ability/censor/1st-level-feature
 ---

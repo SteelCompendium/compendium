@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:8th-level-doctrine-features-table
 scdc:
-  - 1.1.1:5.1.4.2:07
+  - 1.1.1:6.1.4.2:07
 source: mcdm.heroes.v1
 type: feature/trait/tactician/8th-level-feature
 ---

@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.null.6th-level-feature:interphase-9-discipline
 scdc:
-  - 1.1.1:5.2.6.3:05
+  - 1.1.1:6.2.6.3:05
 source: mcdm.heroes.v1
 type: feature/ability/null/6th-level-feature
 ---

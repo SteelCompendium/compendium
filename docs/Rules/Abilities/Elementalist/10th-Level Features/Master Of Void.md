@@ -9,7 +9,7 @@ level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:master-of-void
 scdc:
-  - 1.1.1:5.1.9.4:01
+  - 1.1.1:6.1.9.4:01
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/10th-level-feature
 ---

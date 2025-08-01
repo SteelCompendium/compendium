@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:hesitation-is-weakness-1-insight
 scdc:
-  - 1.1.1:5.2.2.1:09
+  - 1.1.1:6.2.2.1:09
 source: mcdm.heroes.v1
 type: feature/ability/shadow/1st-level-feature
 ---

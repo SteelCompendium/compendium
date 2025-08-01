@@ -12,7 +12,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:doubt-11-clarity
 scdc:
-  - 1.1.1:5.2.1.2:04
+  - 1.1.1:6.2.1.2:04
 source: mcdm.heroes.v1
 type: feature/ability/talent/8th-level-feature
 ---

@@ -9,7 +9,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.trait.fury.6th-level-feature:primordial-portal
 scdc:
-  - 1.1.1:5.1.5.3:01
+  - 1.1.1:6.1.5.3:01
 source: mcdm.heroes.v1
 type: feature/trait/fury/6th-level-feature
 ---

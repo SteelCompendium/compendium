@@ -12,7 +12,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.5th-level-feature:youve-still-got-something-left-9-focus
 scdc:
-  - 1.1.1:5.2.4.4:02
+  - 1.1.1:6.2.4.4:02
 source: mcdm.heroes.v1
 type: feature/ability/tactician/5th-level-feature
 ---

@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.2nd-level-feature:allow-me-to-introduce-tonights-players
 scdc:
-  - 1.1.1:5.1.3.6:02
+  - 1.1.1:6.1.3.6:02
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/2nd-level-feature
 ---

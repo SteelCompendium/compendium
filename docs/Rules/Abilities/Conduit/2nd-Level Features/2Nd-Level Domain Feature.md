@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.2nd-level-feature:2nd-level-domain-feature
 scdc:
-  - 1.1.1:5.1.8.6:03
+  - 1.1.1:6.1.8.6:03
 source: mcdm.heroes.v1
 type: feature/trait/conduit/2nd-level-feature
 ---

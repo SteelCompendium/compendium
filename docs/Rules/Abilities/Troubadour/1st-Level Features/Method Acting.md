@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:method-acting-5-drama
 scdc:
-  - 1.1.1:5.2.3.1:07
+  - 1.1.1:6.2.3.1:07
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/1st-level-feature
 ---

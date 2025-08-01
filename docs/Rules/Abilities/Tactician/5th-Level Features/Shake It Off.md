@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:shake-it-off
 scdc:
-  - 1.1.1:5.1.4.5:07
+  - 1.1.1:6.1.4.5:07
 source: mcdm.heroes.v1
 type: feature/trait/tactician/5th-level-feature
 ---

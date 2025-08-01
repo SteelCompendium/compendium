@@ -12,7 +12,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.8th-level-feature:floodgates-open-11-focus
 scdc:
-  - 1.1.1:5.2.4.2:03
+  - 1.1.1:6.2.4.2:03
 source: mcdm.heroes.v1
 type: feature/ability/tactician/8th-level-feature
 ---

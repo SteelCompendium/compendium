@@ -9,7 +9,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.6th-level-feature:spotlight
 scdc:
-  - 1.1.1:5.1.3.3:01
+  - 1.1.1:6.1.3.3:01
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/6th-level-feature
 ---

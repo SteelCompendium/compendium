@@ -9,7 +9,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.trait.null.6th-level-feature:elemental-absorption
 scdc:
-  - 1.1.1:5.1.6.3:03
+  - 1.1.1:6.1.6.3:03
 source: mcdm.heroes.v1
 type: feature/trait/null/6th-level-feature
 ---

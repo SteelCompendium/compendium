@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.4th-level-feature:characteristic-increase
 scdc:
-  - 1.1.1:5.1.4.10:05
+  - 1.1.1:6.1.4.10:05
 source: mcdm.heroes.v1
 type: feature/trait/tactician/4th-level-feature
 ---

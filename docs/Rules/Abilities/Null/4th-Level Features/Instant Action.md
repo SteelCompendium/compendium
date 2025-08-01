@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.null.4th-level-feature:instant-action
 scdc:
-  - 1.1.1:5.1.6.9:07
+  - 1.1.1:6.1.6.9:07
 source: mcdm.heroes.v1
 type: feature/trait/null/4th-level-feature
 ---

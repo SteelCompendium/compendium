@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.4th-level-feature:surge-of-insight
 scdc:
-  - 1.1.1:5.1.2.10:01
+  - 1.1.1:6.1.2.10:01
 source: mcdm.heroes.v1
 type: feature/trait/shadow/4th-level-feature
 ---

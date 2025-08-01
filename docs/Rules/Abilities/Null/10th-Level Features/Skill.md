@@ -9,7 +9,7 @@ level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.null.10th-level-feature:skill
 scdc:
-  - 1.1.1:5.1.6.4:04
+  - 1.1.1:6.1.6.4:04
 source: mcdm.heroes.v1
 type: feature/trait/null/10th-level-feature
 ---

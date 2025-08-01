@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:lightfall
 scdc:
-  - 1.1.1:5.1.8.1:08
+  - 1.1.1:6.1.8.1:08
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.fury.7th-level-feature:skill
 scdc:
-  - 1.1.1:5.1.5.9:02
+  - 1.1.1:6.1.5.9:02
 source: mcdm.heroes.v1
 type: feature/trait/fury/7th-level-feature
 ---

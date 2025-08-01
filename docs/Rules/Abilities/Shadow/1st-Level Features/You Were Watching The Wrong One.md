@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:you-were-watching-the-wrong-one
 scdc:
-  - 1.1.1:5.1.2.1:09
+  - 1.1.1:6.1.2.1:09
 source: mcdm.heroes.v1
 type: feature/trait/shadow/1st-level-feature
 ---

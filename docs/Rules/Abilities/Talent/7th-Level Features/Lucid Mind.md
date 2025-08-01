@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.talent.7th-level-feature:lucid-mind
 scdc:
-  - 1.1.1:5.1.1.9:02
+  - 1.1.1:6.1.1.9:02
 source: mcdm.heroes.v1
 type: feature/trait/talent/7th-level-feature
 ---

@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.null.2nd-level-feature:entropic-adaptability
 scdc:
-  - 1.1.1:5.1.6.5:04
+  - 1.1.1:6.1.6.5:04
 source: mcdm.heroes.v1
 type: feature/trait/null/2nd-level-feature
 ---

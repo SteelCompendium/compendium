@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:cinderstorm-9-insight
 scdc:
-  - 1.1.1:5.2.2.3:03
+  - 1.1.1:6.2.2.3:03
 source: mcdm.heroes.v1
 type: feature/ability/shadow/6th-level-feature
 ---

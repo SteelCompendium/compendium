@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:thunderstruck
 scdc:
-  - 1.1.1:5.1.8.9:04
+  - 1.1.1:6.1.8.9:04
 source: mcdm.heroes.v1
 type: feature/trait/conduit/7th-level-feature
 ---

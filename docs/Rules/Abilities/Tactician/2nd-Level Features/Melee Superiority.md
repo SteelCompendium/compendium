@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.2nd-level-feature:melee-superiority
 scdc:
-  - 1.1.1:5.1.4.6:05
+  - 1.1.1:6.1.4.6:05
 source: mcdm.heroes.v1
 type: feature/trait/tactician/2nd-level-feature
 ---

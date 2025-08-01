@@ -12,7 +12,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:swarm-of-spirits-7-essence
 scdc:
-  - 1.1.1:5.2.9.6:02
+  - 1.1.1:6.2.9.6:02
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/3rd-level-feature
 ---

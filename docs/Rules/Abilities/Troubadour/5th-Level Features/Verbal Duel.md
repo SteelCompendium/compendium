@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.5th-level-feature:verbal-duel
 scdc:
-  - 1.1.1:5.1.3.5:06
+  - 1.1.1:6.1.3.5:06
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/5th-level-feature
 ---

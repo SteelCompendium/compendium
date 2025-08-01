@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.9th-level-feature:expert-fencer-11-drama
 scdc:
-  - 1.1.1:5.2.3.7:02
+  - 1.1.1:6.2.3.7:02
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/9th-level-feature
 ---

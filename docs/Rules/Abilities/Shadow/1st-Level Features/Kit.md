@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:kit
 scdc:
-  - 1.1.1:5.1.2.1:05
+  - 1.1.1:6.1.2.1:05
 source: mcdm.heroes.v1
 type: feature/trait/shadow/1st-level-feature
 ---

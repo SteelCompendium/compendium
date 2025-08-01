@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:corruptions-curse-5-piety
 scdc:
-  - 1.1.1:5.2.8.1:02
+  - 1.1.1:6.2.8.1:02
 source: mcdm.heroes.v1
 type: feature/ability/conduit/1st-level-feature
 ---

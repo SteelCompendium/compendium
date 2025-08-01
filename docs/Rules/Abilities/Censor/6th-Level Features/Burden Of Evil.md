@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.censor.6th-level-feature:burden-of-evil-9-wrath
 scdc:
-  - 1.1.1:5.2.7.3:03
+  - 1.1.1:6.2.7.3:03
 source: mcdm.heroes.v1
 type: feature/ability/censor/6th-level-feature
 ---

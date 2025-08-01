@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.talent.8th-level-feature:doubling-the-hours
 scdc:
-  - 1.1.1:5.1.1.2:03
+  - 1.1.1:6.1.1.2:03
 source: mcdm.heroes.v1
 type: feature/trait/talent/8th-level-feature
 ---

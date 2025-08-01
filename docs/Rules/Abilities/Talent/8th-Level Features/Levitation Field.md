@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.talent.8th-level-feature:levitation-field
 scdc:
-  - 1.1.1:5.1.1.2:06
+  - 1.1.1:6.1.1.2:06
 source: mcdm.heroes.v1
 type: feature/trait/talent/8th-level-feature
 ---

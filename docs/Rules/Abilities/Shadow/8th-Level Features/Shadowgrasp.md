@@ -12,7 +12,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.8th-level-feature:shadowgrasp-11-insight
 scdc:
-  - 1.1.1:5.2.2.2:04
+  - 1.1.1:6.2.2.2:04
 source: mcdm.heroes.v1
 type: feature/ability/shadow/8th-level-feature
 ---

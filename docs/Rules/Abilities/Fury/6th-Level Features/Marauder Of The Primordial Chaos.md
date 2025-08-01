@@ -9,7 +9,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.trait.fury.6th-level-feature:marauder-of-the-primordial-chaos
 scdc:
-  - 1.1.1:5.1.5.3:03
+  - 1.1.1:6.1.5.3:03
 source: mcdm.heroes.v1
 type: feature/trait/fury/6th-level-feature
 ---

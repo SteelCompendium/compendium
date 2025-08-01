@@ -16317,3 +16317,1251 @@ You gain one interpersonal, lore, or supernatural perk of your choice.
 #### Skill
 
 You gain one skill of your choice.
+
+# Kits
+
+The knight in shining armor. The warrior priest. The sniper. Censors, furies, shadows, tacticians, and troubadours can tap into these and many more archetypal concepts using kits. A kit is a combination of weapons, armor, and fighting techniques that lets you personalize your martial hero for battle.
+
+### Changing Your Kit
+
+Your choice of kit is always flexible, and your hero is never locked into a specific kit. If you want to change your kit, you can do so as a respite activity (see [Respite](#page-21-4) in [Chapter 1: The Basics](#page-17-3)).
+
+### Kit Equipment
+
+Each kit's equipment entry details the armor and weapons the kit provides. It's important to know what equipment a kit uses, because that informs your hero's appearance and story. Equipment is part of what affects the math behind your kit's benefits, alongside the fighting techniques each kit provides. Equipment also determines the type of magic and psionic treasures your character can wield.
+
+The description of equipment in your kit is limited to broad categories, leaving you free to decide the specifics that best align with your vision of your character. For instance, the Guisarmier kit provides medium armor and a polearm. One player using this kit could wear heavy layers of hide and wield a longspear, while another might wear a shining breastplate and carry a halberd into battle.
+
+You can wear armor and wield weapons that aren't part of your kit, but if you do, you don't get your kit's bonuses.
+
+> **Customizing Equipment Appearances**
+>
+> You should absolutely feel free to describe your equipment in a way that makes sense for the story of your game and hero. For instance, if your hero uses a weapon in the whip category as part of their kit, they could use a leather whip, a spiked chain, or a dagger tied to a knotted rope. A hero who wears heavy armor might wear a suit of chain mail, plate armor, or heavy wooden planks tied together. Your choices for equipment aren't limited just to the examples in this book.
+
+#### Kit Armor Categories
+
+The armor provided by each kit fits into one of five categories, indicating the kind of protection you have while using the kit.
+
+##### None
+
+If a kit provides no armor, you can wear whatever clothing you like! Robes, a fashionable tunic and pants—or your character might just loincloth it. It's totally up to you.
+
+##### Light Armor
+
+If a kit features light armor, you might wear padded cloth, leather armor, or a chain shirt.
+
+##### Medium Armor
+
+If a kit has medium armor, you might wear layers of thick hides, a breastplate, or armor made of metal scales.
+
+##### Heavy Armor
+
+If a kit has heavy armor, then you're likely wearing metal from head to toe. Chain mail, ring mail, and suits of plate armor protect you better than any other mundane defense.
+
+##### Shield
+
+If a kit has a shield, then you wield a shield that can be any shape and made of any mundane material you like. The best shields have a sweet insignia on them, so start thinking about yours!
+
+#### Kit Weapon Categories
+
+The weapons provided by a kit fall into eight categories that indicate the types of weapons you wield while using the kit.
+
+##### Bow
+
+Bows cover any weapon used to fire an arrow or bolt projectile, including crossbows, longbows, and shortbows. This weapon group also includes weapons that hurl bullets, stones, darts, or small spears, including slings and atlatls. You don't need to track mundane ammunition for these weapons unless the Director says otherwise.
+
+##### Ensnaring Weapon
+
+Ensnaring weapons include bolas, nets, and other weapons made to capture an enemy and hold them in place.
+
+##### Light Weapon
+
+Light weapons are one-handed melee weapons that can be used to make several strikes in rapid succession. Many such weapons can be thrown or used as an off-hand defensive weapon. Daggers, shortswords, rapiers, handaxes, and throwing hammers are typical light weapons.
+
+If your kit uses a light weapon, you can wield two light weapons at a time.
+
+##### Medium Weapon
+
+Medium weapons are one-handed melee weapons that can be carried into battle while leaving one hand free, allowing you to use that hand to hold a shield or implement. Battleaxes, clubs, longswords, and warhammers are medium weapons.
+
+##### Heavy Weapon
+
+Heavy weapons are two-handed melee weapons with weighty bladed or bludgeoning heads, made to seriously harm or kill enemies in a single mighty blow. Greatswords, greataxes, mauls, and morningstars are all examples of heavy weapons.
+
+##### Polearm
+
+Polearms are two-handed melee weapons with long hafts that increase the wielder's reach. They include glaives, halberds, longspears, and quarterstaffs.
+
+##### Unarmed Strikes
+
+Any kit that uses unarmed strikes allows you to use your body as a weapon. Punches, kicks, eye gouges, and the like are your forte.
+
+##### Whip
+
+Whip weapons include the standard whip, spiked chains, flails, and any similarly long and flexible melee weapon.
+
+#### Kits and Treasures
+
+When you find a supernatural treasure such as a magic sword, you can use the item as long as it's in one of your kit's equipment categories. A Blade of Quintessence is a medium weapon, so you can use it with the Ranger or Shining Armor kits. However, you can't use it with the Cloak and Dagger or Stick and Robe kits because those kits don't include medium weapons, meaning you haven't done the necessary preparations to use the weapon effectively. You can still swing a Blade of Quintessence around as an improvised weapon, but you don't get any of its bonuses or benefits.
+
+If you find a piece of equipment you really want to use that isn't part of your kit, you can always change your kit as a respite activity.
+
+### Kit Bonuses and Traits
+
+A kit can grant a bonus to your Stamina, speed, and stability, as well as the damage and distance of your weapon abilities, including your free strikes. ([Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2) has information on abilities, ability keywords, and more.)
+
+#### Stamina Bonus
+
+Your kit's Stamina bonus is added to your Stamina maximum and scales with your echelon.
+
+#### Speed Bonus
+
+Your kit's speed bonus is added to your speed.
+
+#### Stability Bonus
+
+Your kit's stability bonus is added to your stability.
+
+#### Damage Bonuses
+
+Kits can grant you a bonus to damage with both melee and ranged weapon abilities. If a kit has a melee damage bonus, that bonus is added to the rolled damage of any damage-dealing ability with both the Melee and Weapon keywords. A kit's ranged damage bonus is added to the rolled damage of damage-dealing abilities with both the Ranged and Weapon keywords.
+
+##### Bonuses Across Tiers
+
+Kit damage bonuses increase based on the tier outcome of the power roll for a weapon ability, and are presented as "+X/+Y/+Z." The X bonus is added to a tier 1 outcome, the Y bonus is added to a tier 2 outcome, and the Z bonus is added to a tier 3 outcome.
+
+For example, the Shining Armor kit has a +2/+2/+2 melee damage bonus, increasing the damage of melee weapon abilities across all tier outcomes. The Sniper kit has a +0/+0/+4 ranged damage bonus, having no effect on a tier 1 or tier 2 outcome on an ability roll, but increasing the damage of tier 3 outcomes by +4 for your ranged weapon abilities.
+
+#### Distance Bonus
+
+A kit's melee distance bonus increases the distance of abilities with the Melee and Weapon keywords. A kit's ranged distance bonus increases the distance of abilities with the Ranged and Weapon keywords.
+
+A distance bonus doesn't increase the size of any ability's area of effect.
+
+#### Disengage Bonus
+
+A kit that has a disengage bonus increases the number of squares you can shift when you take the Disengage move action (see [Chapter 10: Combat](#page-288-0)).
+
+### Kit Signature Ability
+
+Each kit grants a signature ability, **whose distance and damage already includes the kit's bonuses**. For instance, the Guisarmier kit's Forward Thrust, Backward Smash ability has a distance of melee 2 and deals 4, 7, or 9 damage depending on the tier outcome, with that distance and damage including the bonuses from the kit.
+
+For details on the ability format, see [Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2).
+
+### Kits A to Z
+
+This section details each kit, whose bonuses and benefits are summarized in the Kits table.
+
+> **Improvised Weapons**
+>
+> Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed strikes, then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee free strike, the sword counts as an improvised weapon.
+>
+> Improvised weapons can be used with weapon abilities you gain from your class. For instance, many melee-focused heroes choose a kit that maximizes their melee capabilities, then make ranged free strikes with improvised weapons. However, you can't use improvised weapons with weapon abilities gained from your kit, and you add no special bonuses from your kit to a weapon ability used with an improvised weapon.
+
+#### Arcane Archer
+
+The Arcane Archer kit allows you to combine magic and ranged weapon strikes. Your lack of armor keeps you mobile, and your magic makes your arrows explode to devastate your foes.
+
+##### Equipment
+
+You wear no armor and wield a bow.
+
+##### Kit Bonuses
+
+**Speed Bonus:** +1
+
+**Ranged Damage Bonus:** +2/+2/+2
+
+**Ranged Distance Bonus:** +10
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Exploding Arrow</span>**
+
+*Your ammunition explodes with magical energy.*
+
+| **Magic, Ranged, Strike, Weapon** |               **Main action** |
+| --------------------------------- | ----------------------------: |
+| **📏 Ranged 15**                  | **🎯 One creature or object** |
+
+**Power Roll + Agility, Reason, Intuition, or Presence:**
+
+- **≤11:** 5 + A, R, I, or P fire damage
+- **12-16:** 7 + A, R, I, or P fire damage
+- **17+:** 10 + A, R, I, or P fire damage
+
+**Effect:** One creature or object of your choice within 2 squares of the target takes fire damage equal to the characteristic score used for this ability's power roll.
+
+#### Battlemind
+
+Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! The Battlemind kit harnesses the power of your mind to make you harder to move—and to make your foes easier to push around.
+
+##### Equipment
+
+You wear light armor and wield a medium weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +3 per echelon
+
+**Speed Bonus:** +2
+
+**Stability Bonus:** +1
+
+**Melee Damage Bonus:** +2/+2/+2
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Unmooring</span>**
+
+*Your weapon unleashes psionic energy that reduces your target's weight.*
+
+| **Melee, Psionic, Strike, Weapon** |     **Main action** |
+| ---------------------------------- | ------------------: |
+| **📏 Melee 1**                     | **🎯 One creature** |
+
+**Power Roll + Might, Reason, Intuition, or Presence:**
+
+- **≤11:** 5 + M, R, I, or P damage
+- **12-16:** 8 + M, R, I, or P damage
+- **17+:** 11 + M, R, I, or P damage
+
+**Effect:** Until the end of the target's next turn, any forced movement that affects the target has its distance increased by 2.
+
+#### Cloak and Dagger
+
+Providing throwable light weapons and light armor easily concealed by a cloak to confuse your enemies, the Cloak and Dagger kit makes you more mobile while increasing the effectiveness of your short-range strikes.
+
+##### Equipment
+
+You wear light armor and wield one or two light weapons.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +3 per echelon
+
+**Speed Bonus:** +2
+
+**Melee Damage Bonus:** +1/+1/+1
+
+**Ranged Damage Bonus:** +1/+1/+1
+
+**Ranged Distance Bonus:** +5
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Fade</span>**
+
+*A stab, and a few quick, careful steps back.*
+
+| **Melee, Ranged, Strike, Weapon** |     **Main action** |
+| --------------------------------- | ------------------: |
+| **📏 Melee 1 or ranged 10**       | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 3 + M or A damage; you can shift 1 square
+- **12-16:** 6 + M or A damage; you can shift up to 2 squares
+- **17+:** 8 + M or A damage; you can shift up to 3 squares
+
+#### Dual Wielder
+
+The Dual Wielder kit is for folks who want to excel at using two weapons at the same time. Your fighting style maximizes the power of each weapon you have in hand, making you a whirling dealer of death.
+
+##### Equipment
+
+You wear medium armor and wield a light weapon and a medium weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +6 per echelon
+
+**Speed Bonus:** +2
+
+**Melee Damage Bonus:** +2/+2/+2
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Double Strike</span>**
+
+*Why strike once when you could do it twice?*
+
+| **Melee, Strike, Weapon** |                 **Main action** |
+| ------------------------- | ------------------------------: |
+| **📏 Melee 1**            | **🎯 Two creatures or objects** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 4 damage
+- **12-16:** 6 damage
+- **17+:** 8 damage
+
+**Effect:** If you use this ability on your turn, you can use it against one target, then use your maneuver and your move action for that turn before using the ability against a second target. You still use the same power roll for both targets.
+
+#### Guisarmier
+
+The Guisarmier kit is for those who want to use a polearm for extended reach while remaining protected by sturdy armor. This is the kit that allows you to become the ultimate halberd, longspear, or glaive fighter.
+
+##### Equipment
+
+You wear medium armor and wield a polearm.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +6 per echelon
+
+**Stability Bonus:** +1
+
+**Melee Damage Bonus:** +2/+2/+2
+
+**Melee Distance Bonus:** +1
+
+##### Signature Ability
+
+######### Forward Thrust, Backward Smash
+
+*In your hands, the haft is as good as the head.*
+
+| **Melee, Strike, Weapon** |                 **Main action** |
+| ------------------------- | ------------------------------: |
+| **📏 Melee 2**            | **🎯 Two creatures or objects** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 4 damage
+- **12-16:** 7 damage
+- **17+:** 9 damage
+
+#### Martial Artist
+
+If you want to be fast in a fight, then Martial Artist is the kit for you. Unencumbered by weapons or armor, this fighting style rewards quick, focused unarmed strikes against opponents, and allows you to be the ultimate skirmisher.
+
+##### Equipment
+
+You wear no armor and wield only your unarmed strikes.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +3 per echelon
+
+**Speed Bonus:** +3
+
+**Melee Damage Bonus:** +2/+2/+2
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Battle Grace</span>**
+
+*You feint to move your enemies into perfect position.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+| ------------------------- | ------------------: |
+| **📏 Melee 1**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 5 + M or A damage
+- **12-16:** 8 + M or A damage; you can swap places with the target
+- **17+:** 11 + M or A damage; you can swap places with the target
+
+**Effect:** If you obtain a tier 2 or tier 3 outcome and can't swap places with the target because one or both of you is too big to fit into the swapped space, you both remain in your original spaces and the target takes 1 extra damage.
+
+#### Mountain
+
+The Mountain kit does exactly what it says on the tin. You don heavy armor and raise a heavy weapon to stand strong against your foes, quickly demolishing them when it's your turn to strike.
+
+##### Equipment
+
+You wear heavy armor and wield a heavy weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +9 per echelon
+
+**Stability Bonus:** +2
+
+**Melee Damage Bonus:** +0/+0/+4
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Pain for Pain</span>**
+
+*An enemy who tagged you will pay for that.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+| ------------------------- | ------------------: |
+| **📏 Melee 1**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 3 + M or A damage
+- **12-16:** 5 + M or A damage
+- **17+:** 13 + M or A damage
+
+**Effect:** If the target dealt damage to you since the end of your last turn, this strike deals additional damage equal to your Might or Agility score (your choice).
+
+#### Panther
+
+If you want a good balance of protection, speed, and damage, the Panther kit is for you. This kit increases your Stamina not by wearing armor, but through the focused battle preparation of body and mind, letting you be fast and mobile while swinging a heavy weapon at your foes.
+
+##### Equipment
+
+You wear no armor and wield a heavy weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +6 per echelon
+
+**Speed Bonus:** +1
+
+**Stability Bonus:** +1
+
+**Melee Damage Bonus:** +0/+0/+4
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Devastating Rush</span>**
+
+*The faster you move, the harder you hit.*
+
+| **Melee, Strike, Weapon** |               **Main action** |
+| ------------------------- | ----------------------------: |
+| **📏 Melee 1**            | **🎯 One creature or object** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 3 + M or A damage
+- **12-16:** 6 + M or A damage
+- **17+:** 13 + M or A damage
+
+**Effect:** You can move up to 3 squares straight toward the target before this strike, which deals extra damage equal to the number of squares you move this way.
+
+#### Pugilist
+
+Meant for brawlers and boxers, the Pugilist kit gives you access to a melee fighting style that grants a boost to Stamina and damage while allowing you to float like a butterfly. If you want to be a tough, strong hero who doles out punishment with your fists, then this kit is for you.
+
+##### Equipment
+
+You wear no armor and wield only your unarmed strikes.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +6 per echelon
+
+**Speed Bonus:** +2
+
+**Stability Bonus:** +1
+
+**Melee Damage Bonus:** +1/+1/+1
+
+##### Signature Ability
+
+#### Let's Dance
+
+*Keeping your enemies stumbling around the battlefield is second nature to you.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+| ------------------------- | ------------------: |
+| **📏 Melee 1**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 3 + M or A damage
+- **12-16:** 6 + M or A damage; slide 1
+- **17+:** 8 + M or A damage; slide 2
+
+**Effect:** You can shift into any square the target leaves after you slide them.
+
+#### Raider
+
+The Raider kit keeps you protected while granting you full mobility, providing a boost to speed and distance that lets you run around the battlefield like a Viking warrior.
+
+##### Equipment
+
+You wear light armor and wield a shield and a light weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +6 per echelon
+
+**Speed Bonus:** +1
+
+**Melee Damage Bonus:** +1/+1/+1
+
+**Ranged Damage Bonus:** +1/+1/+1
+
+**Ranged Distance Bonus:** +5
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Shock and Awe</span>**
+
+*You execute a brutal strike that leaves your foe reeling.*
+
+| **Melee, Ranged, Strike, Weapon** |     **Main action** |
+| --------------------------------- | ------------------: |
+| **📏 Melee 1 or ranged 10**       | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 3 + M or A damage
+- **12-16:** 6 + M or A damage
+- **17+:** 8 + M or A damage
+
+**Effect:** The target takes a bane on their next power roll made before the end of their next turn.
+
+#### Ranger
+
+The Ranger kit outfits you with light armor and weapons for every challenge, letting you easily switch between melee and ranged combat. This kit provides a good balance of bonuses to defense and offense to create a hero who is a jack-of-all-trades.
+
+##### Equipment
+
+You wear medium armor and wield a bow and a medium weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +6 per echelon
+
+**Speed Bonus:** +1
+
+**Melee Damage Bonus:** +1/+1/+1
+
+**Ranged Damage Bonus:** +1/+1/+1
+
+**Ranged Distance Bonus:** +5
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Hamstring Shot</span>**
+
+*A well-placed shot leaves your enemy struggling to move.*
+
+| **Ranged, Strike, Weapon** |     **Main action** |
+| -------------------------- | ------------------: |
+| **📏 Ranged 10**           | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 3 + M or A damage; A < WEAK, slowed (save ends)
+- **12-16:** 5 + M or A damage; A < AVERAGE, slowed (save ends)
+- **17+:** 7 + M or A damage; A < STRONG, slowed (save ends)
+
+#### Rapid-Fire
+
+The Rapid-Fire kit is for archers who want to deal maximum damage by shooting as many arrows as possible into nearby enemies. With this kit, your fighting technique focuses on peppering foes before they can get close enough to counterattack.
+
+##### Equipment
+
+You wear light armor and wield a bow.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +3 per echelon
+
+**Speed Bonus:** +1
+
+**Ranged Damage Bonus:** +2/+2/+2
+
+**Ranged Distance Bonus:** +7
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Two Shot</span>**
+
+*When you fire two arrows back-to-back, both hit their mark.*
+
+| **Ranged, Strike, Weapon** |                 **Main action** |
+| -------------------------- | ------------------------------: |
+| **📏 Ranged 12**           | **🎯 Two creatures or objects** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 4 damage
+- **12-16:** 6 damage
+- **17+:** 8 damage
+
+#### Retiarius
+
+The retiarius is often depicted as a lightly armored warrior with a net in one hand and a trident in the other, and this kit gives you the equipment and fighting technique to make that happen. Tie up your foe with a net and then poke them to death!
+
+##### Equipment
+
+You wear light armor and wield several ensnaring weapons and a polearm.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +3 per echelon
+
+**Speed Bonus:** +1
+
+**Melee Damage Bonus:** +2/+2/+2
+
+**Melee Distance Bonus:** +1
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Net and Stab</span>**
+
+*The well-thrown net that follows your main attack leaves your foes right where you want them.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+| ------------------------- | ------------------: |
+| **📏 Melee 2**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 4 + M or A damage; A < WEAK, slowed (EoT)
+- **12-16:** 6 + M or A damage; A < AVERAGE, slowed (EoT)
+- **17+:** 8 + M or A damage; A < STRONG, restrained (EoT)
+
+#### Shining Armor
+
+The Shining Armor kit provides the most protection a kit can afford, providing you with the sword, shield, and armor necessary to play the prototypical knight.
+
+##### Equipment
+
+You wear heavy armor and wield a shield and a medium weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +12 per echelon
+
+**Stability Bonus:** +1
+
+**Melee Damage Bonus:** +2/+2/+2
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Protective Attack</span>**
+
+*The strength of your assault makes it impossible for your foe to ignore you.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+| ------------------------- | ------------------: |
+| **📏 Melee 1**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 5 + M or A damage
+- **12-16:** 8 + M or A damage
+- **17+:** 11 + M or A damage
+
+**Effect:** The target is taunted until the end of their next turn.
+
+#### Sniper
+
+The Sniper kit gives you the tools and techniques to take down enemies from afar. This kit can help you become the archer who lurks behind trees or down tunnels, picking off enemies with a bow or crossbow as they approach.
+
+##### Equipment
+
+You wear no armor and wield a bow.
+
+##### Kit Bonuses
+
+**Speed Bonus:** +1
+
+**Ranged Damage Bonus:** +0/+0/+4
+
+**Ranged Distance Bonus:** +10
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Patient Shot</span>**
+
+*Breathe … aim … wait … then strike!*
+
+| **Ranged, Strike, Weapon** |     **Main action** |
+| -------------------------- | ------------------: |
+| **📏 Ranged 15**           | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 3 + M or A damage
+- **12-16:** 6 + M or A damage
+- **17+:** 13 + M or A damage
+
+**Effect:** If you don't take a move action this turn, this strike deals extra damage equal to your Might or Agility score (your choice).
+
+#### Spellsword
+
+The Spellsword kit combines melee strikes and a little bit of magic, letting you create a warrior who doesn't have to choose between the incantation and the blade.
+
+##### Equipment
+
+You wear light armor and wield a shield and a medium weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +6 per echelon
+
+**Speed Bonus:** +1
+
+**Stability Bonus:** +1
+
+**Melee Damage Bonus:** +2/+2/+2
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Leaping Lightning</span>**
+
+*Lightning jumps from your weapon as you strike to harm a nearby foe.*
+
+| **Magic, Melee, Strike, Weapon** |               **Main action** |
+| -------------------------------- | ----------------------------: |
+| **📏 Melee 1**                   | **🎯 One creature or object** |
+
+**Power Roll + Might, Reason, Intuition, or Presence:**
+
+- **≤11:** 5 + M, R, I, or P lightning damage
+- **12-16:** 8 + M, R, I, or P lightning damage
+- **17+:** 11 + M, R, I, or P lightning damage
+
+**Effect:** A creature or object of your choice within 2 squares of the target takes lightning damage equal to the characteristic score used for this ability's power roll.
+
+#### Stick and Robe
+
+Armed with a simple reach weapon, often a quarterstaff, a character using the Stick and Robe kit is highly mobile thanks to their light armor. This allows your hero to make maximum use of their weapon's length.
+
+##### Equipment
+
+You wear light armor and wield a polearm.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +3 per echelon
+
+**Speed Bonus:** +2
+
+**Melee Damage Bonus:** +1/+1/+1
+
+**Melee Distance Bonus:** +1
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Where I Want You</span>**
+
+*When your stick speaks, your enemy moves.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+| ------------------------- | ------------------: |
+| **📏 Melee 2**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 4 + M or A damage
+- **12-16:** 7 + M or A damage; slide 1
+- **17+:** 10 + M or A damage; slide 3
+
+#### Swashbuckler
+
+If you want to be mobile and deal a lot of damage with melee strikes, then you should reach for the Swashbuckler kit. This is a great kit for heroes who want to be master duelists.
+
+##### Equipment
+
+You wear light armor and wield a medium weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +3 per echelon
+
+**Speed Bonus:** +3
+
+**Melee Damage Bonus:** +2/+2/+2
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Fancy Footwork</span>**
+
+*All combat is a dance—and you'll be the one leading.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+| ------------------------- | ------------------: |
+| **📏 Melee 1**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 5 + M or A damage
+- **12-16:** 7 + M or A damage; push 1
+- **17+:** 10 + M or A damage; push 2
+
+**Effect:** You can shift into any square the target leaves after you push them.
+
+#### Sword and Board
+
+The Sword and Board kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
+
+##### Equipment
+
+You wear medium armor and wield a shield and a medium weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +9 per echelon
+
+**Stability Bonus:** +1
+
+**Melee Damage Bonus:** +2/+2/+2
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Shield Bash</span>**
+
+*In your hands, a shield isn't just for protection.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+| ------------------------- | ------------------: |
+| **📏 Melee 1**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 4 + M or A damage; push 1
+- **12-16:** 7 + M or A damage; push 2
+- **17+:** 9 + M or A damage; push 3; M < STRONG, prone
+
+#### Warrior Priest
+
+The Warrior Priest kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine … and the heavy armor you wear.
+
+##### Equipment
+
+You wear heavy armor and wield a light weapon.
+
+##### Kit Bonuses
+
+**Stamina Bonus:** +9 per echelon
+
+**Speed Bonus:** +1
+
+**Stability Bonus:** +1
+
+**Melee Damage Bonus:** +1/+1/+1
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Weakening Brand</span>**
+
+*The impact of your weapon brands your target for destruction.*
+
+| **Magic, Melee, Strike, Weapon** |               **Main action** |
+| -------------------------------- | ----------------------------: |
+| **📏 Melee 1**                   | **🎯 One creature or object** |
+
+**Power Roll + Might, Reason, Intuition, or Presence:**
+
+- **≤11:** 3 + M, R, I, or P holy damage
+- **12-16:** 5 + M, R, I, or P holy damage
+- **17+:** 8 + M, R, I, or P holy damage
+
+**Effect:** Until the end of the target's next turn, they have damage weakness equal to the characteristic score used for this ability's power roll.
+
+#### Whirlwind
+
+The Whirlwind kit makes effective use of whips, granting you mobility, damage, and reach. If you want to be a fast-moving warrior who lashes foes with a chain or whip, then this is the kit for you.
+
+##### Equipment
+
+You wear no armor and wield a whip.
+
+##### Kit Bonuses
+
+**Speed Bonus:** +3
+
+**Melee Damage Bonus:** +1/+1/+1
+
+**Melee Distance Bonus:** +1
+
+**Disengage Bonus:** +1
+
+##### Signature Ability
+
+**<span class="steel-compendium-ability">Extension of My Arm</span>**
+
+*When you draw your whip back after an attack, your enemy is drawn ever closer.*
+
+| **Melee, Strike, Weapon** |     **Main action** |
+| ------------------------- | ------------------: |
+| **📏 Melee 3**            | **🎯 One creature** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 4 + M or A damage; vertical pull 1
+- **12-16:** 7 + M or A damage; vertical pull 2
+- **17+:** 10 + M or A damage; vertical pull 3
+
+### Optional Rule: Losing Equipment
+
+The rules of the game expect that heroes always have access to their equipment. That's because for most of the time in the game, heroes aren't worried about surviving for days on end in a dungeon and tracking every piece of gear they carry. However, there might be times where your group wants to tell a story of heroes who are captured and stripped of their equipment, or who find themselves at a masquerade where weapons need to be checked at the door. For those kinds of scenarios, you can use the following rules:
+
+- If your kit has armor and you aren't wearing it or wielding it (in the case of a shield), you lose your kit's Stamina bonus and stability bonus. If you lose your shield but keep the rest of your armor, your Stamina decreases by 3 per echelon. As long as you are carrying your shield, you don't lose its Stamina bonus, even if you aren't actively wielding it.
+- If your kit has a medium or heavy weapon you aren't wielding, you lose the kit's melee damage bonus.
+- If your kit has a light weapon you aren't wielding, you lose the kit's melee damage bonus, ranged damage bonus, and distance bonus for a weapon you throw. If your kit also has a bow, you don't lose those benefits for the bow.
+- If your kit has a polearm or whip you aren't wielding, you lose the kit's melee damage bonus and melee distance bonus.
+- If your kit has an ensnaring weapon you aren't wielding, you lose the kit's signature ability.
+- If your kit has a bow weapon you aren't wielding, you lose the kit's ranged damage bonus and distance bonus.
+
+###### Kits Table
+
+| Kit              | Armor          | Weapon             | Stamina per Echelon | Speed | Stability | Melee Damage | Ranged Damage | Melee Distance | Ranged Distance | Disengage |
+| ---------------- | -------------- | ------------------ | ------------------- | ----- | --------- | ------------ | ------------- | -------------- | --------------- | --------- |
+| Arcane Archer    | None           | Bow                | —                   | +1    | —         | —            | +2/+2/+2      | —              | +10             | +1        |
+| Battlemind       | Light          | Medium             | +3                  | +2    | +1        | +2/+2/+2     | —             | —              | —               | —         |
+| Cloak and Dagger | Light          | Light              | +3                  | +2    | —         | +1/+1/+1     | +1/+1/+1      | —              | +5              | +1        |
+| Dual Wielder     | Medium         | Light, medium      | +6                  | +2    | —         | +2/+2/+2     | —             | —              | —               | +1        |
+| Guisarmier       | Medium         | Polearm            | +6                  | —     | +1        | +2/+2/+2     | —             | +1             | —               | —         |
+| Martial Artist   | None           | Unarmed strikes    | +3                  | +3    | —         | +2/+2/+2     | —             | —              | —               | +1        |
+| Mountain         | Heavy          | Heavy              | +9                  | —     | +2        | +0/+0/+4     | —             | —              | —               | —         |
+| Panther          | None           | Heavy              | +6                  | +1    | +1        | +0/+0/+4     | —             | —              | —               | —         |
+| Pugilist         | None           | Unarmed strikes    | +6                  | +2    | +1        | +1/+1/+1     | —             | —              | —               | —         |
+| Raider           | Light, shield  | Light              | +6                  | +1    | —         | +1/+1/+1     | +1/+1/+1      | —              | +5              | +1        |
+| Ranger           | Medium         | Bow, medium        | +6                  | +1    | —         | +1/+1/+1     | +1/+1/+1      | —              | +5              | +1        |
+| Rapid-Fire       | Light          | Bow                | +3                  | +1    | —         | —            | +2/+2/+2      | —              | +7              | +1        |
+| Retiarius        | Light          | Ensnaring, polearm | +3                  | +1    | —         | +2/+2/+2     | —             | +1             | —               | +1        |
+| Shining Armor    | Heavy, shield  | Medium             | +12                 | —     | +1        | +2/+2/+2     | —             | —              | —               | —         |
+| Sniper           | None           | Bow                | —                   | +1    | —         | —            | +0/+0/+4      | —              | +10             | +1        |
+| Spellsword       | Light, shield  | Medium             | +6                  | +1    | +1        | +2/+2/+2     | —             | —              | —               | —         |
+| Stick and Robe   | Light          | Polearm            | +3                  | +2    | —         | +1/+1/+1     | —             | +1             | —               | +1        |
+| Swashbuckler     | Light          | Medium             | +3                  | +3    | —         | +2/+2/+2     | —             | —              | —               | +1        |
+| Sword and Board  | Medium, shield | Medium             | +9                  | —     | +1        | +2/+2/+2     | —             | —              | —               | +1        |
+| Warrior Priest   | Heavy          | Light              | +9                  | +1    | +1        | +1/+1/+1     | —             | —              | —               | —         |
+| Whirlwind        | None           | Whip               | —                   | +3    | —         | +1/+1/+1     | —             | +1             | —               | +1        |
+|                  |                |                    |                     |       |           |              |               |                |                 |           |
+
+# Perks
+
+Heroes don't just fight monsters. They engage in exploration, investigation, negotiation, and more. Perks are features you can use to customize your hero and give them heroic moments outside of combat. Along with skills and many class features, perks make your character more than just a monster fighter. But although these features are designed to be used outside of combat, many are versatile enough that they can also be used in battle.
+
+You are granted one perk from your career and can choose other perks from your class as your level increases.
+
+### Perk Types
+
+Six types of perks are available to your character. Five of those types reflect the setup of the five skill groups (see [Skills](#page-268-0) in Chapter 9: Tests), and feature many perks related to the skills from those groups. The sixth type of perk allows characters of all types access to supernatural power.
+
+**Crafting perks** improve your talent for crafting materials, and let you become an expert in the things you create.
+
+**Exploration perks** let you better traverse and explore different environments.
+
+**Interpersonal perks** improve your interactions with other creatures.
+
+**Intrigue perks** make you more effective at investigating mysteries and finding the truth, even as you keep your own secrets hidden.
+
+**Lore perks** improve your mastery of memory, language, and knowledge across a range of topics.
+
+**Supernatural perks** let you use magic and psionics to influence the world around you.
+
+Whenever a feature allows you to gain a perk, that feature tells you which type of perk to choose.
+
+### Crafting Perks
+
+This section presents crafting perks in alphabetical order.
+
+#### Area of Expertise
+
+Choose one skill you already have from the crafting skill group. Whenever you obtain a tier 1 outcome on an easy or medium test using this skill, you treat it as a tier 2 outcome instead. Additionally, if you spend 1 minute inspecting an object related to the chosen skill, you can estimate its value and learn of any flaws in its construction.
+
+#### Expert Artisan
+
+Whenever you make a test as part of a crafting or research project that uses a skill you already have from the crafting skill group, you can make the power roll twice and use either roll.
+
+#### Handy
+
+Whenever you make a test to craft something and don't have a skill that applies to the test, you gain a +1 bonus to the power roll.
+
+#### Improvisation Creation
+
+Without needing to make a test—and even without tools—you can quickly jury-rig or repair a mundane item or piece of equipment related to a skill you have from the crafting skill group. That item lasts for 1 hour or works for one use or activation (whichever comes first, as the Director determines), then breaks beyond repair. For example, if you have the Carpentry skill, you could repair a rickety wooden bridge long enough for a group of creatures to cross it, or build a simple shovel made of wood that can be used for 1 hour.
+
+#### Inspired Artisan
+
+When you make a project roll using a skill from the crafting skill group, you can spend a hero token to make another project roll for the same project as part of the same respite activity. You can't use this perk more than once per respite.
+
+#### Traveling Artisan
+
+On any day when you don't take a respite, you can spend 1 uninterrupted hour working on a crafting project using a skill you have from the crafting skill group. If you do so, you gain 1d10 project points toward that project.
+
+> **Perks and Tests**
+>
+> The existence of specific perks doesn't mean that a hero can't attempt the task related to a perk without having that perk. Aside from supernatural perks, a Director can always allow a hero to attempt a mundane task mentioned in a perk by making a test. Perks are special because they allow a hero to attempt a specific task without a test, and often give a better result than a successful test—or even a test with a reward would give.
+>
+> For example, can a hero catch a falling ally if they don't have the I've Got You perk? A Director can absolutely allow it, but might decide that the hero needs to succeed on a Might test to accomplish the task, using a main action or maneuver to prepare for it. Being able to catch an ally automatically as a free triggered action is what the perk gets you!
+
+### Exploration Perks
+
+This section presents exploration perks in alphabetical order.
+
+#### Brawny
+
+Whenever you fail a Might test, you can lose Stamina equal to 1d6 + your level to improve the outcome of the test by one tier. You can use this perk only once per test.
+
+#### Camouflage Hunter
+
+Whenever you are in wilderness, once you are hidden from a creature, you don't need cover or concealment to stay hidden from them.
+
+#### Danger Sense
+
+Whenever you are in a natural environment (but not in a settlement in that environment), you gain an edge on tests made using the Alertness skill, and you can't be surprised. Additionally, you have a connection to nature that warns you if any natural disaster is imminent within the next 72 hours, though you don't know exactly what it will entail (an earthquake, a wildfire, and so forth).
+
+#### Friend Catapult
+
+As a maneuver, you grab a willing adjacent ally or object of your size or smaller, then vertical push that target up to a number of squares equal to twice your Might score. If a creature you push falls as a result of this movement, the effective distance of the fall is reduced by a number of squares equal to twice your Might score. When you use this perk, you can't use it again until you earn 1 or more Victories.
+
+#### I've Got You!
+
+Whenever a willing ally falls and would land on you or adjacent to you, you can safely catch them as a free triggered action. Neither of you takes damage from the ally's fall.
+
+#### Monster Whisperer
+
+You can use the Handle Animals skill to interact with nonsapient creatures who are not animals.
+
+#### Put Your Back Into It!
+
+During montage tests, whenever you make a test to assist a test and obtain a tier 1 outcome, the assisted test doesn't take a bane. Additionally, once per montage test, you can turn an ally's tier 1 test outcome into a tier 2 outcome.
+
+#### Team Leader
+
+At the start of a group test or montage test, you can spend a hero token. If you do, all participants make tests as if they also had any skill you have from the exploration group.
+
+#### Teamwork
+
+When you take your first turn during any montage test, you can both make a test and assist another hero's test.
+
+#### Wood Wise
+
+When you make a test using a skill from the exploration skill group and at least one of the d10s rolled is a 1, you can reroll one d10. You can use this perk only once per test.
+
+### Interpersonal Perks
+
+This section presents interpersonal perks in alphabetical order.
+
+#### Charming Liar
+
+If you fail a test using the Lie skill, you don't suffer any consequences associated with the failure. Additionally, during a negotiation, you can be caught in one lie without negative consequences. When you use either benefit of this perk, you can't use this perk again until you earn 1 or more Victories.
+
+#### Dazzler
+
+Whenever a creature watches you sing, dance, or perform a role (as an actor, not just in disguise) for 1 uninterrupted minute or more, you gain an edge on any test made to influence that creature for 1 hour after the performance ends.
+
+#### Engrossing Monologue
+
+Whenever you are not in combat, you can shout to get the attention of hearing creatures within 10 squares of you. Each such creature who is not hostile toward you listens to what you have to say for 1 uninterrupted minute or more, or until they sense danger or any form of imminent harm. While creatures are listening to you, each of your allies gains an edge on tests made to avoid being noticed by those creatures.
+
+#### Harmonizer
+
+You can make a Presence test using the Music skill to influence creatures who don't have emotions or can't understand you. Additionally, once during a negotiation when an ally makes an argument, you can play music to give that ally an edge on their test.
+
+#### Lie Detector
+
+In response to another creature communicating information to you, you can spend a hero token to determine whether that information contained any knowing lies. If so, you know what the lies are, but not what the truth is.
+
+#### Open Book
+
+Whenever you speak one-on-one with a creature, you can ask them one question about themself that might typically offend them or raise suspicion. If they choose not to answer honestly, they simply deflect or redirect the question, with no further complications. If they choose to answer honestly, the creature can immediately ask you a question about yourself in turn, which you must answer honestly.
+
+#### Pardon My Friend
+
+When an ally within 5 squares fails a Presence test, you can step in and make a Presence test that takes a bane, with your roll replacing the ally's roll. This perk can be used only once per test, even if more than one character has it.
+
+#### Power Player
+
+Whenever you make a test that uses the Brag, Flirt, or Intimidate skills, you can use Might instead of any other characteristic the test calls for.
+
+#### So Tell Me …
+
+Whenever you succeed on a Presence test to influence one or more creatures, you can ask one creature you influenced a follow-up question after the test resolves, which they must answer honestly. At the Director's discretion, the creature doesn't have to answer the question completely—or at all—if the response would put them or a loved one in danger.
+
+#### Spot the Tell
+
+Whenever you make a test to read a person and obtain a tier 3 outcome, you notice several tells that give away their true feelings. Any test you make to read that person in the future gains an edge.
+
+### Intrigue Perks
+
+This section presents intrigue perks in alphabetical order.
+
+#### Criminal Contacts
+
+You have access to a network of criminal contacts. As a respite activity while you take a respite in a settlement, you can ask a question of your contacts by making a Presence test. On a tier 2 outcome, you learn one piece of information that would be common among criminals—the secret entrances into a building, the location of a local criminal in hiding, the name of a local thieves' guild leader, and so forth. On a tier 3 outcome, you can instead gain knowledge that would be uncommon among criminals as long as such information exists—the location of a local treasure cache, the location of a murder weapon used in a noble's assassination, the name of an NPC secretly bankrolling a local assassin's guild, and so forth.
+
+#### Forgettable Face
+
+If you spend 10 minutes or less interacting with a creature who hasn't met you before, you can cause them to forget your face when you part. If asked to describe you, the creature gives only a vague, blank, and unhelpful description. Additionally, if you spend 1 hour or more assembling a disguise, you automatically obtain a tier 2 outcome on any test that could make use of the Disguise skill. If you have the Disguise skill, you automatically obtain a tier 3 outcome on the test.
+
+#### Gum Up the Works
+
+Whenever a mundane trap activates within 3 squares, you can use a triggered action to move up to 3 squares toward it. If this movement brings you adjacent to any of the trap's mechanisms, you can jam the trap, preventing it from activating. As long as you stay adjacent to the mechanism, the trap can't go off unless an attempt to disarm it fails.
+
+#### Lucky Dog
+
+Whenever you fail a test using any skill from the intrigue skill group, you can lose Stamina equal to 1d6 + your level to improve the outcome of the test by one tier. You can use this perk only once per test.
+
+#### Master of Disguise
+
+You can don or remove a disguise as part of any test you make using the Hide skill, or while using the Hide maneuver.
+
+#### Slipped Lead
+
+You gain an edge on tests made to escape bonds. Given 1 uninterrupted minute, you can escape any mundane bonds without making a test. Additionally, it's not immediately obvious when you've escaped bonds until you do something that makes it clear you have done so (cast them off, use an ability that harms one or more creatures, and so forth).
+
+### Lore Perks
+
+This section presents lore perks in alphabetical order.
+
+#### But I Know Who Does
+
+Whenever you fail a test to recall lore using a skill from the lore skill group, you instinctively recall the nearest location where the information you seek might be found. This could be the tower of a local sage, a library in a nearby city, somewhere deep in a dungeon, or any other location of the Director's determination. The Director can decide that certain lore can't be revealed this way.
+
+#### Eidetic Memory
+
+Your mind is an encyclopedia, though not always an easy one to organize. When you finish a respite, choose one skill from the lore skill group that you don't have. You have that skill until you finish your next respite. Additionally, if you spend 1 uninterrupted minute or more reading any page of text, you can memorize its contents, allowing you to memorize entire books with sufficient time.
+
+#### Expert Sage
+
+Whenever you make a test as part of a crafting or research project using a skill from the lore skill group, you can make the power roll twice and use either roll.
+
+#### I've Read About This Place
+
+Each time you enter a settlement you've never been to before, you can ask the Director one of the following questions:
+
+- Who is the most influential public figure in this settlement?
+- Who in this settlement would be the friendliest to us right now?
+- What does this settlement need most from outsiders?
+
+If the Director doesn't have an answer to the question you ask, or doesn't want to answer, you can instead ask a different question.
+
+#### Linguist
+
+You automatically learn two new languages, as long as you have regularly heard those languages spoken or seen them written before. Additionally, if you spend 7 days or more in a place where you regularly hear or read a language you don't know, you can pick up enough of that language to hold a conversation or understand basic written information. Having picked up a language this way, you can subsequently learn it using the Learn New Language research project at half the usual project goal cost (see [Chapter 12: Downtime Projects](#page-307-2)).
+
+#### Polymath
+
+Whenever you make a test to recall lore and don't have a skill that applies to the test, you gain a +1 bonus to the power roll.
+
+#### Specialist
+
+You are a leading expert on a particular subject. Choose one skill you have from the lore skill group. You always have a double edge on tests made to recall lore using this skill. Additionally, your specialist knowledge grants you notoriety in fields related to the chosen skill. You treat your Renown as 1 higher when negotiating with an NPC who knows your reputation, or 2 higher if they have the same skill you chose for this perk.
+
+#### Traveling Sage
+
+On any day when you don't take a respite, you can spend 1 uninterrupted hour working on a research project using a skill you have from the lore skill group. If you do so, you gain 1d10 project points toward that project.
+
+### Supernatural Perks
+
+This section presents supernatural perks in alphabetical order.
+
+#### Arcane Trick
+
+You have the following ability.
+
+**<span class="steel-compendium-ability">Arcane Trick</span>**
+
+*You cast an entertaining spell that creates a minor but impressive magical effect.*
+
+| **Magic**              | **Main Action** |
+| ---------------------- | --------------: |
+| **📏 Self; see below** |     **🎯 Self** |
+
+**Effect:** Choose one of the following effects:
+
+- You teleport a size 1S or smaller object adjacent to you into an unoccupied space adjacent to you.
+- Until the start of your next turn, a part of your body shoots a shower of harmless noisy sparks that light up each square adjacent to you.
+- You ignite or snuff out (your choice) every mundane light source of 1L or smaller adjacent to you.
+- You transform up to 1 pound of edible food you touch to make it taste delicious or disgusting.
+- Until the start of your next turn, you make your body exude a particular odor you've smelled before. This smell can be sensed by each creature within 5 squares of you, but can't impose any condition or other drawback on those creatures.
+- You place a small magical inscription on the surface of a mundane object you touch, or you can remove an inscription that was made by you or by another creature using Arcane Trick.
+- You touch a size 1T object to cover it with an illusion that makes it look like a different object. Any creature who handles the object becomes aware of the illusion. The illusion ends when you stop touching the object.
+
+#### Creature Sense
+
+As a maneuver, choose a creature within 10 squares. If that creature is your level or lower, you learn the keywords in their stat block (Demon, Humanoid, Undead, and so forth).
+
+#### Familiar
+
+A supernatural spirit who has taken the form of a specific small animal or animated object has chosen to be your familiar—or to adopt you as their familiar.
+
+The spirit uses the familiar stat block.
+
+The familiar can hold small objects in their mouth or claws, but can't perform activities that would typically require hands (opening a door, unrolling a scroll, and so forth). They can't harm other creatures or objects. They can flank in combat, but only with you.
+
+If your familiar is destroyed, you can restore them as a respite activity, or by spending a Recovery as a main action to bring them back into existence in an unoccupied space adjacent to you.
+
+###### Familiar Statblock
+
+| **Familiar**               | Level - -           |
+| :------------------------- | :------------------ |
+| **Ancestry:** Familiar     | **EV:** -           |
+| **Stamina:** 2x your level | **Immunity:** -     |
+| **Speed:** 5               | **Weakness:** -     |
+| **Movement:** -            | **With Captain:** - |
+| **Might:** -3              | **Free Strike:** 5  |
+| **Agility:** +2            | **Melee:** -        |
+| **Reason:** 0              | **Ranged:** -       |
+| **Intuition:** 0           | **Size:** 1T        |
+| **Presence:** +1           | **Stability:** 0    |
+
+**Telepathic**
+
+While you and your familiar are within 10 squares of each other, you can communicate telepathically and share each other’s senses. While sharing senses, each of you also benefits from your own senses at the same time.
+
+#### Invisible Force
+
+You have the following ability.
+
+**<span class="steel-compendium-ability">Invisible Force</span>**
+
+*You manipulate a tiny object with your mind.*
+
+| **Psionic, Ranged** |              **Maneuver** |
+| ------------------- | ------------------------: |
+| **📏 Ranged 10**    | **🎯 One size 1T object** |
+
+**Effect:** You can grab or manipulate the target object with your mind, moving the object up to a number of squares equal to your Reason, Intuition, or Presence score (your choice). You can use this ability to turn doorknobs, pull levers, and so forth. You can manipulate any small movable piece of a larger object as long as the piece is unattended and size 1T. You can't use this ability to break a smaller piece off a larger object.
+
+#### Psychic Whisper
+
+You have the following ability.
+
+**<span class="steel-compendium-ability">Psychic Whisper</span>**
+
+*You send a one-way telepathic message to a friend.*
+
+| **Psionic, Ranged** |    **Maneuver** |
+| ------------------- | --------------: |
+| **📏 Ranged 10**    | **🎯 One ally** |
+
+**Effect:** As long as the target understands one or more languages, you send a telepathic message to them that takes 10 seconds or less to speak. The target knows who the message is from and can decide to ignore it and subsequent messages.
+
+#### Ritualist
+
+You can spend 1 uninterrupted minute to perform a magic ritual of blessing, targeting yourself or one willing creature you touch. The target has a double edge on the next test they make within the next minute. A target can't use this benefit on an activity that takes longer than 1 minute.
+
+#### Thingspeaker
+
+When you hold an object in your hand for 1 uninterrupted minute, you can sense whether it bears emotional resonance. Objects with emotional resonance could include treasured gifts, murder weapons, or personal keepsakes. If the Director determines that the object bears emotional resonance, you learn the most dominant emotion associated with the object, then receive a vision that answers one of the following questions:
+
+- What was the name of the person whose emotion is imprinted on this object?
+- Why does this emotion linger on the object?
+- How long has it been since the object was held by the person whose emotion lingers on it?
+
+After asking one question, you can choose to delve deeper by asking one additional question from the list, but you are then overcome with emotions that do not belong to you. You take a bane on Intuition and Presence tests until you finish a respite, and you can't use this perk again while you suffer this bane.

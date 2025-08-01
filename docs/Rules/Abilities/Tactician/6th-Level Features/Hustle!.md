@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.6th-level-feature:hustle-9-focus
 scdc:
-  - 1.1.1:5.2.4.3:01
+  - 1.1.1:6.2.4.3:01
 source: mcdm.heroes.v1
 type: feature/ability/tactician/6th-level-feature
 ---
