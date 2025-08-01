@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.null.7th-level-feature:improved-body
 scdc:
-  - 1.1.1:9.1.6.8:04
+  - 1.1.1:10.1.6.8:04
 source: mcdm.heroes.v1
 type: feature/trait/null/7th-level-feature
 ---

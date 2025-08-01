@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.5th-level-feature:medley
 scdc:
-  - 1.1.1:9.1.3.5:04
+  - 1.1.1:10.1.3.5:04
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/5th-level-feature
 ---

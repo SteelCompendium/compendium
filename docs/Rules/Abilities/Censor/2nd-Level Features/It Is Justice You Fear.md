@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.censor.2nd-level-feature:it-is-justice-you-fear-5-wrath
 scdc:
-  - 1.1.1:9.2.7.5:05
+  - 1.1.1:10.2.7.5:05
 source: mcdm.heroes.v1
 type: feature/ability/censor/2nd-level-feature
 ---

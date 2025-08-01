@@ -9,7 +9,7 @@ level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.fury.10th-level-feature:primordial-power
 scdc:
-  - 1.1.1:9.1.5.4:01
+  - 1.1.1:10.1.5.4:01
 source: mcdm.heroes.v1
 type: feature/trait/fury/10th-level-feature
 ---

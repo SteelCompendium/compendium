@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:now-5-focus
 scdc:
-  - 1.1.1:9.2.4.1:05
+  - 1.1.1:10.2.4.1:05
 source: mcdm.heroes.v1
 type: feature/ability/tactician/1st-level-feature
 ---

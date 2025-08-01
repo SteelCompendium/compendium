@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:behold-the-mystery-3-essence
 scdc:
-  - 1.1.1:9.2.9.1:03
+  - 1.1.1:10.2.9.1:03
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/1st-level-feature
 ---

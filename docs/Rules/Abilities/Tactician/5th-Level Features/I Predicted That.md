@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:i-predicted-that
 scdc:
-  - 1.1.1:9.1.4.5:02
+  - 1.1.1:10.1.4.5:02
 source: mcdm.heroes.v1
 type: feature/trait/tactician/5th-level-feature
 ---

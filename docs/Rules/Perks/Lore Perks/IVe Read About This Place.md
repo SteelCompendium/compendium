@@ -6,7 +6,7 @@ item_name: I'Ve Read About This Place
 scc:
   - mcdm.heroes.v1:perk.lore:ive-read-about-this-place
 scdc:
-  - 1.1.1:10.2:08
+  - 1.1.1:12.2:08
 source: mcdm.heroes.v1
 type: perk/lore
 ---

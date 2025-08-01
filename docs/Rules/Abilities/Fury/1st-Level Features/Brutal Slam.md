@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.fury.1st-level-feature:brutal-slam
 scdc:
-  - 1.1.1:9.1.5.1:02
+  - 1.1.1:10.1.5.1:02
 source: mcdm.heroes.v1
 type: feature/trait/fury/1st-level-feature
 ---

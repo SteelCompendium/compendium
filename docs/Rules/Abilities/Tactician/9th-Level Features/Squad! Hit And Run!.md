@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.9th-level-feature:squad-hit-and-run-11-focus
 scdc:
-  - 1.1.1:9.2.4.7:03
+  - 1.1.1:10.2.4.7:03
 source: mcdm.heroes.v1
 type: feature/ability/tactician/9th-level-feature
 ---

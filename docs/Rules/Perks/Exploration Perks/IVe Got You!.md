@@ -6,7 +6,7 @@ item_name: I'Ve Got You!
 scc:
   - mcdm.heroes.v1:perk.exploration:ive-got-you
 scdc:
-  - 1.1.1:10.3:08
+  - 1.1.1:12.3:08
 source: mcdm.heroes.v1
 type: perk/exploration
 ---

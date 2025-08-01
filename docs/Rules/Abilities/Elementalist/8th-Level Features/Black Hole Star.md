@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:black-hole-star
 scdc:
-  - 1.1.1:9.1.9.2:02
+  - 1.1.1:10.1.9.2:02
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/8th-level-feature
 ---

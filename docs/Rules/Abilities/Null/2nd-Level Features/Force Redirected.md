@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.null.2nd-level-feature:force-redirected-5-discipline
 scdc:
-  - 1.1.1:9.2.6.4:06
+  - 1.1.1:10.2.6.4:06
 source: mcdm.heroes.v1
 type: feature/ability/null/2nd-level-feature
 ---

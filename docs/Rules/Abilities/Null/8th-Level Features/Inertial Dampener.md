@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.null.8th-level-feature:inertial-dampener
 scdc:
-  - 1.1.1:9.1.6.2:04
+  - 1.1.1:10.1.6.2:04
 source: mcdm.heroes.v1
 type: feature/trait/null/8th-level-feature
 ---

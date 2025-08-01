@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.7th-level-feature:skill
 scdc:
-  - 1.1.1:9.1.9.9:02
+  - 1.1.1:10.1.9.9:02
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/7th-level-feature
 ---

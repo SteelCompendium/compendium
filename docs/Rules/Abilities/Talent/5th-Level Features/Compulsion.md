@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.talent.5th-level-feature:compulsion
 scdc:
-  - 1.1.1:9.1.1.5:08
+  - 1.1.1:10.1.1.5:08
 source: mcdm.heroes.v1
 type: feature/trait/talent/5th-level-feature
 ---

@@ -12,7 +12,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:maw-of-earth-7-essence
 scdc:
-  - 1.1.1:9.2.9.6:04
+  - 1.1.1:10.2.9.6:04
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/3rd-level-feature
 ---

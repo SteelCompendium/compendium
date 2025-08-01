@@ -12,7 +12,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:world-torn-asunder-11-essence
 scdc:
-  - 1.1.1:9.2.9.2:03
+  - 1.1.1:10.2.9.2:03
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/8th-level-feature
 ---

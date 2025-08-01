@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:levity-and-gravity-5-clarity
 scdc:
-  - 1.1.1:9.2.1.5:02
+  - 1.1.1:10.2.1.5:02
 source: mcdm.heroes.v1
 type: feature/ability/talent/2nd-level-feature
 ---

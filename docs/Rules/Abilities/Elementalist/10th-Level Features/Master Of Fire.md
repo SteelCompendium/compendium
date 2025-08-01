@@ -9,7 +9,7 @@ level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:master-of-fire
 scdc:
-  - 1.1.1:9.1.9.4:08
+  - 1.1.1:10.1.9.4:08
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/10th-level-feature
 ---

@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:characteristic-increase
 scdc:
-  - 1.1.1:9.1.8.9:11
+  - 1.1.1:10.1.8.9:11
 source: mcdm.heroes.v1
 type: feature/trait/conduit/7th-level-feature
 ---

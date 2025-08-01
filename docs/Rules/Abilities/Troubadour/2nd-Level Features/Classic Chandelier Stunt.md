@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.2nd-level-feature:classic-chandelier-stunt-5-drama
 scdc:
-  - 1.1.1:9.2.3.5:05
+  - 1.1.1:10.2.3.5:05
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/2nd-level-feature
 ---

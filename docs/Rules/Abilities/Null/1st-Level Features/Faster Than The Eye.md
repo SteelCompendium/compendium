@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:faster-than-the-eye
 scdc:
-  - 1.1.1:9.1.6.1:01
+  - 1.1.1:10.1.6.1:01
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

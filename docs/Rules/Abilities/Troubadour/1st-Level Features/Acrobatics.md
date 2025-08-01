@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:acrobatics
 scdc:
-  - 1.1.1:9.1.3.1:16
+  - 1.1.1:10.1.3.1:16
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/1st-level-feature
 ---

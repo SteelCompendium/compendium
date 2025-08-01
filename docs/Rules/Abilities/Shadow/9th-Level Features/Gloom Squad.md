@@ -9,7 +9,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.9th-level-feature:gloom-squad
 scdc:
-  - 1.1.1:9.1.2.8:01
+  - 1.1.1:10.1.2.8:01
 source: mcdm.heroes.v1
 type: feature/trait/shadow/9th-level-feature
 ---

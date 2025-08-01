@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.7th-level-feature:a-muses-muse
 scdc:
-  - 1.1.1:9.1.3.9:04
+  - 1.1.1:10.1.3.9:04
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/7th-level-feature
 ---

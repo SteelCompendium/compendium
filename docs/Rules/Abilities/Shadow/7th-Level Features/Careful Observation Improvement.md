@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.7th-level-feature:careful-observation-improvement
 scdc:
-  - 1.1.1:9.1.2.9:03
+  - 1.1.1:10.1.2.9:03
 source: mcdm.heroes.v1
 type: feature/trait/shadow/7th-level-feature
 ---

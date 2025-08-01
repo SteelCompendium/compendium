@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.censor.7th-level-feature:focused-wrath
 scdc:
-  - 1.1.1:9.1.7.9:12
+  - 1.1.1:10.1.7.9:12
 source: mcdm.heroes.v1
 type: feature/trait/censor/7th-level-feature
 ---

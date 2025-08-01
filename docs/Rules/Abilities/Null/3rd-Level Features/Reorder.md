@@ -9,7 +9,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.trait.null.3rd-level-feature:reorder
 scdc:
-  - 1.1.1:9.1.6.6:02
+  - 1.1.1:10.1.6.6:02
 source: mcdm.heroes.v1
 type: feature/trait/null/3rd-level-feature
 ---

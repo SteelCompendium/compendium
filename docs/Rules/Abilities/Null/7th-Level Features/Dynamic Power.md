@@ -12,7 +12,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.ability.null.7th-level-feature:dynamic-power-1-discipline
 scdc:
-  - 1.1.1:9.2.6.7:06
+  - 1.1.1:10.2.6.7:06
 source: mcdm.heroes.v1
 type: feature/ability/null/7th-level-feature
 ---

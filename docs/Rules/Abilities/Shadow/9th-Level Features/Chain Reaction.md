@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.9th-level-feature:chain-reaction-11-insight
 scdc:
-  - 1.1.1:9.2.2.7:02
+  - 1.1.1:10.2.2.7:02
 source: mcdm.heroes.v1
 type: feature/ability/shadow/9th-level-feature
 ---

@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:quick-rewrite-3-drama
 scdc:
-  - 1.1.1:9.2.3.1:01
+  - 1.1.1:10.2.3.1:01
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/1st-level-feature
 ---

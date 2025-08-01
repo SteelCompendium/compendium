@@ -6,7 +6,7 @@ item_name: Dazzler
 scc:
   - mcdm.heroes.v1:perk.interpersonal:dazzler
 scdc:
-  - 1.1.1:10.1:04
+  - 1.1.1:12.1:04
 source: mcdm.heroes.v1
 type: perk/interpersonal
 ---

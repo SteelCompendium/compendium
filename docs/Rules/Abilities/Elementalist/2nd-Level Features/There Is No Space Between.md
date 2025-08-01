@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:there-is-no-space-between
 scdc:
-  - 1.1.1:9.1.9.6:04
+  - 1.1.1:10.1.9.6:04
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/2nd-level-feature
 ---

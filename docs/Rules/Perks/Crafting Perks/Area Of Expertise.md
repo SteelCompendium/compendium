@@ -6,7 +6,7 @@ item_name: Area Of Expertise
 scc:
   - mcdm.heroes.v1:perk.crafting:area-of-expertise
 scdc:
-  - 1.1.1:10.6:03
+  - 1.1.1:12.6:03
 source: mcdm.heroes.v1
 type: perk/crafting
 ---

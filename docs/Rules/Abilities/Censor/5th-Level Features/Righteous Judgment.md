@@ -12,7 +12,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.censor.5th-level-feature:righteous-judgment-9-wrath
 scdc:
-  - 1.1.1:9.2.7.4:02
+  - 1.1.1:10.2.7.4:02
 source: mcdm.heroes.v1
 type: feature/ability/censor/5th-level-feature
 ---

@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.talent.2nd-level-feature:2nd-level-tradition-features-table
 scdc:
-  - 1.1.1:9.1.1.6:01
+  - 1.1.1:10.1.1.6:01
 source: mcdm.heroes.v1
 type: feature/trait/talent/2nd-level-feature
 ---

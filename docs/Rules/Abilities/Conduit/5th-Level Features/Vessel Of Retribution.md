@@ -12,7 +12,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.5th-level-feature:vessel-of-retribution-9-piety
 scdc:
-  - 1.1.1:9.2.8.4:03
+  - 1.1.1:10.2.8.4:03
 source: mcdm.heroes.v1
 type: feature/ability/conduit/5th-level-feature
 ---

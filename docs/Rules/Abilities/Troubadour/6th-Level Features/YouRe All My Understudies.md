@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:youre-all-my-understudies-9-drama
 scdc:
-  - 1.1.1:9.2.3.3:06
+  - 1.1.1:10.2.3.3:06
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/6th-level-feature
 ---

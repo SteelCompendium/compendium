@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.censor.9th-level-feature:fulfill-your-destiny-11-wrath
 scdc:
-  - 1.1.1:9.2.7.7:02
+  - 1.1.1:10.2.7.7:02
 source: mcdm.heroes.v1
 type: feature/ability/censor/9th-level-feature
 ---

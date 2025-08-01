@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.censor.4th-level-feature:4th-level-censor-domain-features-table
 scdc:
-  - 1.1.1:9.1.7.10:13
+  - 1.1.1:10.1.7.10:13
 source: mcdm.heroes.v1
 type: feature/trait/censor/4th-level-feature
 ---

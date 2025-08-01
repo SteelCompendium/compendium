@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:ive-got-your-back-5-focus
 scdc:
-  - 1.1.1:9.2.4.5:02
+  - 1.1.1:10.2.4.5:02
 source: mcdm.heroes.v1
 type: feature/ability/tactician/2nd-level-feature
 ---

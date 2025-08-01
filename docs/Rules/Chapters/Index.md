@@ -18,5 +18,6 @@ type: index
 | [Making A Hero](../Making%20A%20Hero)       |
 | [Negotiation](../Negotiation)               |
 | [Perks](../Perks)                           |
+| [Rewards](../Rewards)                       |
 | [Tests](../Tests)                           |
 | [The Basics](../The%20Basics)               |

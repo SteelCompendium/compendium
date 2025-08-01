@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:7th-level-doctrine-features-table
 scdc:
-  - 1.1.1:9.1.4.9:02
+  - 1.1.1:10.1.4.9:02
 source: mcdm.heroes.v1
 type: feature/trait/tactician/7th-level-feature
 ---

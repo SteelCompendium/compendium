@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:choke-3-clarity
 scdc:
-  - 1.1.1:9.2.1.1:08
+  - 1.1.1:10.2.1.1:08
 source: mcdm.heroes.v1
 type: feature/ability/talent/1st-level-feature
 ---

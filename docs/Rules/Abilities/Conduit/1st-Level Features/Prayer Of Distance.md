@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:prayer-of-distance
 scdc:
-  - 1.1.1:9.1.8.1:15
+  - 1.1.1:10.1.8.1:15
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

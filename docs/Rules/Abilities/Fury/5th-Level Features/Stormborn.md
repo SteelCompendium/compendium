@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.fury.5th-level-feature:stormborn
 scdc:
-  - 1.1.1:9.1.5.5:03
+  - 1.1.1:10.1.5.5:03
 source: mcdm.heroes.v1
 type: feature/trait/fury/5th-level-feature
 ---

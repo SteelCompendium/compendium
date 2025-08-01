@@ -9,7 +9,7 @@ level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:breath
 scdc:
-  - 1.1.1:9.1.9.4:09
+  - 1.1.1:10.1.9.4:09
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/10th-level-feature
 ---

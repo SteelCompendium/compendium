@@ -12,7 +12,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:stasis-shield-3-clarity
 scdc:
-  - 1.1.1:9.2.1.2:01
+  - 1.1.1:10.2.1.2:01
 source: mcdm.heroes.v1
 type: feature/ability/talent/8th-level-feature
 ---

@@ -6,7 +6,7 @@ item_name: Linguist
 scc:
   - mcdm.heroes.v1:perk.lore:linguist
 scdc:
-  - 1.1.1:10.2:07
+  - 1.1.1:12.2:07
 source: mcdm.heroes.v1
 type: perk/lore
 ---

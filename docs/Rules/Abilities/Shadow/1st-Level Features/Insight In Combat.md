@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:insight-in-combat
 scdc:
-  - 1.1.1:9.1.2.1:14
+  - 1.1.1:10.1.2.1:14
 source: mcdm.heroes.v1
 type: feature/trait/shadow/1st-level-feature
 ---

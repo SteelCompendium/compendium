@@ -9,7 +9,7 @@ level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.talent.10th-level-feature:vision
 scdc:
-  - 1.1.1:9.1.1.4:06
+  - 1.1.1:10.1.1.4:06
 source: mcdm.heroes.v1
 type: feature/trait/talent/10th-level-feature
 ---

@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:wrath-in-combat
 scdc:
-  - 1.1.1:9.1.7.1:02
+  - 1.1.1:10.1.7.1:02
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

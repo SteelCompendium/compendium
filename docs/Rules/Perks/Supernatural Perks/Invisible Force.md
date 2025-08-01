@@ -6,7 +6,7 @@ item_name: Invisible Force
 scc:
   - mcdm.heroes.v1:perk.supernatural:invisible-force
 scdc:
-  - 1.1.1:10.4:05
+  - 1.1.1:12.4:05
 source: mcdm.heroes.v1
 type: perk/supernatural
 ---

@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:8th-level-class-act-features-table
 scdc:
-  - 1.1.1:9.1.3.2:05
+  - 1.1.1:10.1.3.2:05
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/8th-level-feature
 ---

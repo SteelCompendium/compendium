@@ -12,7 +12,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.5th-level-feature:into-the-shadows-9-insight
 scdc:
-  - 1.1.1:9.2.2.4:02
+  - 1.1.1:10.2.2.4:02
 source: mcdm.heroes.v1
 type: feature/ability/shadow/5th-level-feature
 ---

@@ -12,7 +12,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.fury.5th-level-feature:my-turn-9-ferocity
 scdc:
-  - 1.1.1:9.2.5.4:03
+  - 1.1.1:10.2.5.4:03
 source: mcdm.heroes.v1
 type: feature/ability/fury/5th-level-feature
 ---

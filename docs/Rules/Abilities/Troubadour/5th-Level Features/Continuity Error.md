@@ -12,7 +12,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:continuity-error-9-drama
 scdc:
-  - 1.1.1:9.2.3.4:04
+  - 1.1.1:10.2.3.4:04
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/5th-level-feature
 ---

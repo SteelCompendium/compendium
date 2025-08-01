@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.2nd-level-feature:my-reputation-precedes-me
 scdc:
-  - 1.1.1:9.1.3.6:04
+  - 1.1.1:10.1.3.6:04
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/2nd-level-feature
 ---

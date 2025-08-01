@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:divine-comedy-5-piety
 scdc:
-  - 1.1.1:9.2.8.5:05
+  - 1.1.1:10.2.8.5:05
 source: mcdm.heroes.v1
 type: feature/ability/conduit/2nd-level-feature
 ---

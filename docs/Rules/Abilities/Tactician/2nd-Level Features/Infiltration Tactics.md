@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.2nd-level-feature:infiltration-tactics
 scdc:
-  - 1.1.1:9.1.4.6:04
+  - 1.1.1:10.1.4.6:04
 source: mcdm.heroes.v1
 type: feature/trait/tactician/2nd-level-feature
 ---

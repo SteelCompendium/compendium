@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.talent.4th-level-feature:suspensor-field
 scdc:
-  - 1.1.1:9.1.1.10:04
+  - 1.1.1:10.1.1.10:04
 source: mcdm.heroes.v1
 type: feature/trait/talent/4th-level-feature
 ---

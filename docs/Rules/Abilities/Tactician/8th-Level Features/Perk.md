@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:perk
 scdc:
-  - 1.1.1:9.1.4.2:04
+  - 1.1.1:10.1.4.2:04
 source: mcdm.heroes.v1
 type: feature/trait/tactician/8th-level-feature
 ---

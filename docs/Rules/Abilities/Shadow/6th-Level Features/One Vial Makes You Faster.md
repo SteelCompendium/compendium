@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:one-vial-makes-you-faster-9-insight
 scdc:
-  - 1.1.1:9.2.2.3:05
+  - 1.1.1:10.2.2.3:05
 source: mcdm.heroes.v1
 type: feature/ability/shadow/6th-level-feature
 ---

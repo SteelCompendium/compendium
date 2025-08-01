@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:vanishing-ward
 scdc:
-  - 1.1.1:9.1.1.1:07
+  - 1.1.1:10.1.1.1:07
 source: mcdm.heroes.v1
 type: feature/trait/talent/1st-level-feature
 ---
