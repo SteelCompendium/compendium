@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.censor.5th-level-feature:evil-revealed
 scdc:
-  - 1.1.1:5.1.3.5:05
+  - 1.1.1:5.2.5.5:05
 source: mcdm.heroes.v1
 type: feature/trait/censor/5th-level-feature
 ---

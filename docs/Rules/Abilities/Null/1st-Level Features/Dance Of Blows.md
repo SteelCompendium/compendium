@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:dance-of-blows
 scdc:
-  - 1.1.1:5.1.2.1:14
+  - 1.1.1:5.2.4.1:14
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

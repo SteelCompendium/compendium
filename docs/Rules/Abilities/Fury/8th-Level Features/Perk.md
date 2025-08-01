@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.fury.8th-level-feature:perk
 scdc:
-  - 1.1.1:5.1.1.2:02
+  - 1.1.1:5.2.3.2:02
 source: mcdm.heroes.v1
 type: feature/trait/fury/8th-level-feature
 ---

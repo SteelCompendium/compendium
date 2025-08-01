@@ -12,7 +12,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.5th-level-feature:sanctuary-9-piety
 scdc:
-  - 1.1.1:5.2.4.4:04
+  - 1.1.1:5.1.6.4:04
 source: mcdm.heroes.v1
 type: feature/ability/conduit/5th-level-feature
 ---

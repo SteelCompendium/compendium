@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:disciple-of-earth
 scdc:
-  - 1.1.1:5.1.5.6:05
+  - 1.1.1:5.2.7.6:05
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/2nd-level-feature
 ---

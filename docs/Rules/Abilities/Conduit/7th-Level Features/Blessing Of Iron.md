@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:blessing-of-iron
 scdc:
-  - 1.1.1:5.1.4.9:08
+  - 1.1.1:5.2.6.9:08
 source: mcdm.heroes.v1
 type: feature/trait/conduit/7th-level-feature
 ---

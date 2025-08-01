@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:oracular-visions
 scdc:
-  - 1.1.1:5.1.4.1:40
+  - 1.1.1:5.2.6.1:40
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

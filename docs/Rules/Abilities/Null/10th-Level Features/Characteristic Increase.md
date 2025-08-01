@@ -9,7 +9,7 @@ level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.null.10th-level-feature:characteristic-increase
 scdc:
-  - 1.1.1:5.1.2.4:05
+  - 1.1.1:5.2.4.4:05
 source: mcdm.heroes.v1
 type: feature/trait/null/10th-level-feature
 ---

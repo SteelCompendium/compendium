@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.null.4th-level-feature:5th-level-tradition-feature
 scdc:
-  - 1.1.1:5.1.2.9:11
+  - 1.1.1:5.2.4.9:11
 source: mcdm.heroes.v1
 type: feature/trait/null/4th-level-feature
 ---

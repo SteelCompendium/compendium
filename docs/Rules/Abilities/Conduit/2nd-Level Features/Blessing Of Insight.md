@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:blessing-of-insight-5-piety
 scdc:
-  - 1.1.1:5.2.4.5:07
+  - 1.1.1:5.1.6.5:07
 source: mcdm.heroes.v1
 type: feature/ability/conduit/2nd-level-feature
 ---

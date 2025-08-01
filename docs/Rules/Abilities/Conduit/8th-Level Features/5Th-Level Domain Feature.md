@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.8th-level-feature:8th-level-domain-feature
 scdc:
-  - 1.1.1:5.1.4.2:01
+  - 1.1.1:5.2.6.2:01
 source: mcdm.heroes.v1
 type: feature/trait/conduit/8th-level-feature
 ---

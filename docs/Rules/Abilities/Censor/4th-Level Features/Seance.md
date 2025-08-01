@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.censor.4th-level-feature:seance
 scdc:
-  - 1.1.1:5.1.3.10:02
+  - 1.1.1:5.2.5.10:02
 source: mcdm.heroes.v1
 type: feature/trait/censor/4th-level-feature
 ---

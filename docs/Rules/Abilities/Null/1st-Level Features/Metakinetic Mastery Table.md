@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:metakinetic-mastery-table
 scdc:
-  - 1.1.1:5.1.2.1:10
+  - 1.1.1:5.2.4.1:10
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

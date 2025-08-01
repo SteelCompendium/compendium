@@ -9,7 +9,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.trait.null.3rd-level-feature:psionic-leap
 scdc:
-  - 1.1.1:5.1.2.6:01
+  - 1.1.1:5.2.4.6:01
 source: mcdm.heroes.v1
 type: feature/trait/null/3rd-level-feature
 ---

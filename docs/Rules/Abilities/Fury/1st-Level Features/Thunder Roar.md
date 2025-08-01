@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:thunder-roar-5-ferocity
 scdc:
-  - 1.1.1:5.2.1.1:04
+  - 1.1.1:5.1.3.1:04
 source: mcdm.heroes.v1
 type: feature/ability/fury/1st-level-feature
 ---

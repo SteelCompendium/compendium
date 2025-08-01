@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.null.2nd-level-feature:heat-sink-5-discipline
 scdc:
-  - 1.1.1:5.2.2.4:04
+  - 1.1.1:5.1.4.4:04
 source: mcdm.heroes.v1
 type: feature/ability/null/2nd-level-feature
 ---

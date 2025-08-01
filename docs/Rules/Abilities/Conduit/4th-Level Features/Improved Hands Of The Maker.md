@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:improved-hands-of-the-maker
 scdc:
-  - 1.1.1:5.1.4.10:16
+  - 1.1.1:5.2.6.10:16
 source: mcdm.heroes.v1
 type: feature/trait/conduit/4th-level-feature
 ---

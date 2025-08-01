@@ -12,7 +12,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.5th-level-feature:web-of-all-thats-come-before-9-essence
 scdc:
-  - 1.1.1:5.2.5.4:03
+  - 1.1.1:5.1.7.4:03
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/5th-level-feature
 ---

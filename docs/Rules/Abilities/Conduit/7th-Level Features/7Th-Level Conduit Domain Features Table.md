@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:7th-level-conduit-domain-features-table
 scdc:
-  - 1.1.1:5.1.4.9:02
+  - 1.1.1:5.2.6.9:02
 source: mcdm.heroes.v1
 type: feature/trait/conduit/7th-level-feature
 ---

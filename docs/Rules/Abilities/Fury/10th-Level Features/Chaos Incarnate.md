@@ -9,7 +9,7 @@ level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.fury.10th-level-feature:chaos-incarnate
 scdc:
-  - 1.1.1:5.1.1.4:06
+  - 1.1.1:5.2.3.4:06
 source: mcdm.heroes.v1
 type: feature/trait/fury/10th-level-feature
 ---

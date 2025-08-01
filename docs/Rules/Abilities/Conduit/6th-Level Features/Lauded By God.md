@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.6th-level-feature:lauded-by-god-9-piety
 scdc:
-  - 1.1.1:5.2.4.3:01
+  - 1.1.1:5.1.6.3:01
 source: mcdm.heroes.v1
 type: feature/ability/conduit/6th-level-feature
 ---

@@ -12,3 +12,4 @@ type: index
 | [Elementalist](../Elementalist) |
 | [Fury](../Fury)                 |
 | [Null](../Null)                 |
+| [Shadow](../Shadow)             |

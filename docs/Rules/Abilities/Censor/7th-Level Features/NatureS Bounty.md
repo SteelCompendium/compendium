@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.censor.7th-level-feature:natures-bounty
 scdc:
-  - 1.1.1:5.1.3.9:15
+  - 1.1.1:5.2.5.9:15
 source: mcdm.heroes.v1
 type: feature/trait/censor/7th-level-feature
 ---

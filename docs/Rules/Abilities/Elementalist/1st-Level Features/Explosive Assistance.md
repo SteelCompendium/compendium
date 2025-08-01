@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:explosive-assistance
 scdc:
-  - 1.1.1:5.1.5.1:07
+  - 1.1.1:5.2.7.1:07
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

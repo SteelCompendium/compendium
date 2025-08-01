@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:behold-a-shield-of-faith-3-wrath
 scdc:
-  - 1.1.1:5.2.3.1:02
+  - 1.1.1:5.1.5.1:02
 source: mcdm.heroes.v1
 type: feature/ability/censor/1st-level-feature
 ---

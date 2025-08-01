@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:judgments-hammer-3-piety
 scdc:
-  - 1.1.1:5.2.4.1:07
+  - 1.1.1:5.1.6.1:07
 source: mcdm.heroes.v1
 type: feature/ability/conduit/1st-level-feature
 ---

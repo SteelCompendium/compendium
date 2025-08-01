@@ -9,7 +9,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.trait.null.6th-level-feature:perk
 scdc:
-  - 1.1.1:5.1.2.3:02
+  - 1.1.1:5.2.4.3:02
 source: mcdm.heroes.v1
 type: feature/trait/null/6th-level-feature
 ---

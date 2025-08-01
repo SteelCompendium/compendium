@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:inner-light
 scdc:
-  - 1.1.1:5.1.3.1:05
+  - 1.1.1:5.2.5.1:05
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

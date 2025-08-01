@@ -12,7 +12,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.null.3rd-level-feature:molecular-rearrangement-field-7-discipline
 scdc:
-  - 1.1.1:5.2.2.5:03
+  - 1.1.1:5.1.4.5:03
 source: mcdm.heroes.v1
 type: feature/ability/null/3rd-level-feature
 ---

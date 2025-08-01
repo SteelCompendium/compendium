@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:divine-dragon-11-piety
 scdc:
-  - 1.1.1:5.2.4.7:12
+  - 1.1.1:5.1.6.7:12
 source: mcdm.heroes.v1
 type: feature/ability/conduit/9th-level-feature
 ---

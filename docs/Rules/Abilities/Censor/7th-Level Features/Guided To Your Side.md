@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.censor.7th-level-feature:guided-to-your-side
 scdc:
-  - 1.1.1:5.1.3.9:14
+  - 1.1.1:5.2.5.9:14
 source: mcdm.heroes.v1
 type: feature/trait/censor/7th-level-feature
 ---

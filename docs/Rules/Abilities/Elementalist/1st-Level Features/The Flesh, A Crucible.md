@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:the-flesh-a-crucible-3-essence
 scdc:
-  - 1.1.1:5.2.5.1:02
+  - 1.1.1:5.1.7.1:02
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/1st-level-feature
 ---

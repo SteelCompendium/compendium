@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:the-green-within-the-green-without
 scdc:
-  - 1.1.1:5.1.5.1:29
+  - 1.1.1:5.2.7.1:29
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

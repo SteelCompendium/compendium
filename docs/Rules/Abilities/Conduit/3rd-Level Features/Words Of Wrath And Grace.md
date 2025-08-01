@@ -12,7 +12,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.3rd-level-feature:words-of-wrath-and-grace-7-piety
 scdc:
-  - 1.1.1:5.2.4.6:02
+  - 1.1.1:5.1.6.6:02
 source: mcdm.heroes.v1
 type: feature/ability/conduit/3rd-level-feature
 ---

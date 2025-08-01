@@ -12,7 +12,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.fury.8th-level-feature:overkill-11-ferocity
 scdc:
-  - 1.1.1:5.2.1.2:02
+  - 1.1.1:5.1.3.2:02
 source: mcdm.heroes.v1
 type: feature/ability/fury/8th-level-feature
 ---

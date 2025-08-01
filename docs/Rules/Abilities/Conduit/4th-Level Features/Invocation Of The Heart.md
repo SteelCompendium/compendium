@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart
 scdc:
-  - 1.1.1:5.1.4.10:05
+  - 1.1.1:5.2.6.10:05
 source: mcdm.heroes.v1
 type: feature/trait/conduit/4th-level-feature
 ---
