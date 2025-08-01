@@ -1,13 +1,13 @@
 ---
-chapter_num: 10
+chapter_num: 11
 file_dpath: Chapters
 item_id: making-a-hero
-item_index: '10'
+item_index: '11'
 item_name: Making A Hero
 scc:
   - mcdm.heroes.v1:chapter:making-a-hero
 scdc:
-  - 1.1.1:3:10
+  - 1.1.1:3:11
 source: mcdm.heroes.v1
 type: chapter
 ---

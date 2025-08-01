@@ -1,13 +1,13 @@
 ---
-chapter_num: 11
+chapter_num: 12
 file_dpath: Chapters
 item_id: tests
-item_index: '11'
+item_index: '12'
 item_name: Tests
 scc:
   - mcdm.heroes.v1:chapter:tests
 scdc:
-  - 1.1.1:3:11
+  - 1.1.1:3:12
 source: mcdm.heroes.v1
 type: chapter
 ---
