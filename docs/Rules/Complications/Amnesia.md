@@ -6,7 +6,7 @@ item_name: Amnesia
 scc:
   - mcdm.heroes.v1:complication:amnesia
 scdc:
-  - 1.1.1:4:11
+  - 1.1.1:5:11
 source: mcdm.heroes.v1
 type: complication
 ---

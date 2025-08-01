@@ -6,7 +6,7 @@ item_name: Stolen Face
 scc:
   - mcdm.heroes.v1:complication:stolen-face
 scdc:
-  - 1.1.1:4:05
+  - 1.1.1:5:05
 source: mcdm.heroes.v1
 type: complication
 ---

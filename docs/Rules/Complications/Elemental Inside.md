@@ -6,7 +6,7 @@ item_name: Elemental Inside
 scc:
   - mcdm.heroes.v1:complication:elemental-inside
 scdc:
-  - 1.1.1:4:78
+  - 1.1.1:5:78
 source: mcdm.heroes.v1
 type: complication
 ---

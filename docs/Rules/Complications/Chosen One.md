@@ -6,7 +6,7 @@ item_name: Chosen One
 scc:
   - mcdm.heroes.v1:complication:chosen-one
 scdc:
-  - 1.1.1:4:43
+  - 1.1.1:5:43
 source: mcdm.heroes.v1
 type: complication
 ---

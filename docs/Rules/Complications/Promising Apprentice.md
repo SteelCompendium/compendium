@@ -6,7 +6,7 @@ item_name: Promising Apprentice
 scc:
   - mcdm.heroes.v1:complication:promising-apprentice
 scdc:
-  - 1.1.1:4:15
+  - 1.1.1:5:15
 source: mcdm.heroes.v1
 type: complication
 ---

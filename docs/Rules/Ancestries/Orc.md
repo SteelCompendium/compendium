@@ -6,7 +6,7 @@ item_name: Orc
 scc:
   - mcdm.heroes.v1:ancestry:orc
 scdc:
-  - 1.1.1:5:01
+  - 1.1.1:6:01
 source: mcdm.heroes.v1
 type: ancestry
 ---

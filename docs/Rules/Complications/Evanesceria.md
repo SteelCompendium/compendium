@@ -6,7 +6,7 @@ item_name: Evanesceria
 scc:
   - mcdm.heroes.v1:complication:evanesceria
 scdc:
-  - 1.1.1:4:18
+  - 1.1.1:5:18
 source: mcdm.heroes.v1
 type: complication
 ---

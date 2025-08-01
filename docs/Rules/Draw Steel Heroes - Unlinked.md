@@ -18677,3 +18677,2020 @@ You spent many years imprisoned for a crime you didn't commit. During your long 
 **Benefit:** You have two skills of your choice, neither of which can be from the interpersonal skill group.
 
 **Drawback:** Your health suffered in prison. Whenever you are winded, you are stricken with a hacking cough that makes it impossible for you to hide or sneak.
+
+# Tests
+
+When you want your hero to rifle through a desk and locate a specific document, scale a castle wall, negotiate a treaty with a monarch, or undertake any other activity with a chance of failure, you'll need to make a test to determine how successful you are at the task. A test is any power roll that has failure or consequences as an option.
+
+### When to Make a Test
+
+The Director should ask a player to make a test only when the player's hero attempts a task where the consequences of failure are interesting or dramatic, and where failure won't grind the story to a halt. For example, if a hero wants to leap over a waist-high wall while casually walking through a peaceful city neighborhood, the worst case for failure is probably that the hero falls on their butt, takes no damage, and can stand up to either try again or walk around the wall. As such, no test is required. But if the hero were being chased by enemies, failing to leap over the wall means the pursuers can catch them, so the Director might decide to call for a test to determine what happens.
+
+The advancement of a story shouldn't be halted by failing a test. For instance, the heroes might need to know the color of a dwarf king's crown to solve a puzzle, with that puzzle opening the only entrance to a tomb they must enter to stop a world-ending ritual. It could be that a successful Reason test allows the heroes to recall that lore, but the test shouldn't be their only option to get the information. If the test fails, perhaps the heroes need to go to a flying library to do research, or they might be able to delve into a ruin to find the ancient monarch's portrait. A failed test should always result in a story becoming more interesting, not in the action coming to an end.
+
+#### It Just Works!
+
+When a hero attempts to solve a task that typically requires a test with clever, outside-the-box thinking, the Director can instead decide that no test is required and the attempt automatically works! For example, if a hero who wants to climb a wall first covers their hands and feet in giant strands of sticky spider webs, the Director might decide that they can climb up the wall without needing to make a test.
+
+That said, such clever ideas often work for free the first time, but the Director could decide they require tests if they are used again.
+
+### How to Make a Test
+
+Each test has the following steps:
+
+The Director decides that a hero's activities call for a test and asks the hero's player to make a power roll using an appropriate characteristic (see [Characteristics and Tests](#page-263-2) below). The Director then selects a difficulty for the power roll, either secretly or publicly (see [Test Difficulty](#page-263-3) below).
+
+The player makes the power roll. If the character has a skill that applies to the test (see [Skills](#page-268-0) later in this chapter), they can ask the Director if the skill applies and justify the use of the skill. If the Director agrees the skill applies, the hero gains a +2 bonus to the roll.
+
+The player reports the total of the roll, and the Director interprets its success or failure.
+
+#### Characteristics and Tests
+
+When you describe a task you want your hero to undertake and the Director determines that a test is necessary, they then determine which characteristic the test uses based on the nature of the task. For instance, if you're scaling a wall, the Director could ask for a Might test to determine how far and how quickly you're able to climb. If you're attempting to plead your innocence in court for a murder you didn't commit, the Director might ask for a Presence test if you're attempting to win over the jury with your personality, or a Reason test if you're laying out a logical argument to support your innocence.
+
+Though the Director can decide to call for tests in any circumstances, a number of tasks that heroes routinely undertake are commonly set up as tests.
+
+##### Might Tests
+
+You make a Might test whenever a risky task calls for the use of physical strength. Might tests are most often used for breaking down doors and other structures, hurling heavy objects, pulling your body up a sheer wall, swimming against a mighty current, and other feats of physical power.
+
+##### Agility Tests
+
+You make an Agility test whenever a risky task calls for the use of your physical coordination and nimbleness. Agility tests are most often used for tumbling, sneaking quietly, picking locks, and engaging in sleight of hand.
+
+##### Reason Tests
+
+You make a Reason test whenever you attempt a risky task that requires the use of your mental acumen and education, formal or otherwise. Reason tests are most often used to recall lore, deduce information based on clues, complete a puzzle, forge counterfeit items or documents, break a code, convince others of a logical argument, or make an estimation.
+
+##### Intuition Tests
+
+You make an Intuition test whenever you attempt a risky task that requires the use of your powers of observation and instinct. Intuition tests are most often used to notice hidden creatures or details, discern another person's motivations or honesty, calm and reassure others, and train animals.
+
+##### Presence Tests
+
+You make a Presence test whenever you attempt a risky task that requires the use of your force of personality. Presence tests are most often used to gain trust, project confidence, and influence and lead other creatures.hough it's easier than easy, then
+
+> **Influencing Player Characters With Tests**
+>
+> The things player characters do can't be influenced by any creature making a test, whether a monster, an NPC, or another player character. Many players feel that their agency is taken away if they're compelled to jump into a pile of gold filled with hidden scorpions because an NPC convinced them to do so with a Presence test. For most players, it's not fun to be in control of a hero and lose some of that control.
+>
+> Instead, Directors should do their level best to have an NPC suggest that a character dive headlong into the gold like a billionaire duck, then let the player decide what their character does. Similarly, a Director might decide that one player character can't make an Intuition test to discern another PC's motivations or honesty.
+>
+> That said, if everyone in your gaming group decides to lift one or more of these restrictions after talking about it, go for it! There's no wrong way to play as long as everyone is having fun. The MCDM Safety Toolkit (available for download at *[https://mcdm.gg/SafetyToolkit](http://mcdm.gg/SafetyToolkit)*) discusses how to talk about potentially problematic topics such as limiting character agency at your table.
+
+#### Test Difficulty
+
+The Director decides how difficult a task that requires a test is: easy, medium, or hard. If a task seems as though it's easier than easy, then no test is necessary. The hero simply accomplishes the task. If the task seems harder than hard, then the Director is free to decide that it's impossible to complete with a test.
+
+On a test-by-test basis, the Director can share the difficulty of a task before the player makes the test, which makes interpreting the outcome faster at the table. The Director can also keep a test's difficulty secret until after the player rolls the test, for dramatic effect.
+
+The Test Difficulty Outcomes table shows all the possible outcomes of the different difficulties of tests. The Director will keep this information handy so as to be able to compare the different difficulties and their outcomes during play.
+
+###### Test Difficulty Outcomes Table
+
+| Power Roll       | Easy Test Outcomes         | Medium Test Outcomes       | Hard Test Outcomes         |
+| ---------------- | -------------------------- | -------------------------- | -------------------------- |
+| ≤11              | Success with a consequence | Failure                    | Failure with a consequence |
+| 12–16            | Success                    | Success with a consequence | Failure                    |
+| 17+              | Success with a reward      | Success                    | Success                    |
+| Natural 19 or 20 | Success with a reward      | Success with a reward      | Success with a reward      |
+
+Whenever the rules talk about obtaining a success on a test, that includes a straight success, a success with a consequence, or a success with a reward. Whenever the rules talk about a failure on a test, that includes a straight failure or a failure with a consequence.
+
+Whenever you make a test whose outcome you don't like, you can spend a hero token to reroll the test. You must use the new roll.
+
+##### Easy Tests
+
+An easy test has some risk of consequence, but most heroes will likely overcome it. The power roll you make for an easy test determines the outcome (see [Test Outcomes](#page-264-0) below):
+
+- **≤11:** You succeed on the task and incur a consequence.
+- **12-16:** You succeed on the task.
+- **17+:** You succeed on the task with a reward.
+
+##### Medium Tests
+
+A medium test has some risk of failure that most heroes will likely overcome—but with a cost. The power roll you make for a medium test determines the outcome:
+
+- **≤11:** You fail the task.
+- **12-16:** You succeed on the task and incur a consequence.
+- **17+:** You succeed on the task.
+
+##### Hard Tests
+
+A hard test has a greater risk of failure, and most heroes are likely to suffer some hardship while trying to overcome the intended task. The power roll you make for a hard test determines the outcome:
+
+- **≤11:** You fail the task and incur a consequence.
+- **12-16:** You fail the task.
+- **17+:** You succeed on the task.
+
+##### Natural 19 or 20: Success With a Reward
+
+Whenever you get a natural 19 or 20 on the power roll for a test—a total of 19 or 20 before adding your characteristic score or other modifiers you score a critical success. This critical success automatically lets you succeed on the task with a reward, even if the test has a medium or hard difficulty.
+
+#### Test Outcomes
+
+Depending on a test's difficulty and the power roll made to accomplish the task represented by the test, you can obtain one of the following outcomes.
+
+##### Failure With a Consequence
+
+If you fail a hard test and incur a consequence, you don't do what you set out to do—in addition to which, you suffer an impactful setback. The Director determines the exact nature of the consequence, which is typically related to the specific task.
+
+For instance, if a hero suffers a consequence while trying to climb a wall, they might make it halfway up the wall and then fall, taking damage and landing prone. A hero trying to sneak by cultists might be spotted by those foes, who immediately attack. If a consequence strikes when a hero attempts to bribe a prison guard, the guard might decide to arrest the hero or lead them into a trap. If a hero suffers a consequence on a Reason test made to recall lore about the king's favorite meal, they might confuse it for a dish to which the monarch is deathly allergic.
+
+Not all consequences need to be immediate or apparent. For example, a hero might fail with a consequence on a test made to cheat at a high-stakes game of cards with a noble. The failure means the cheating is noticed, but the Director decides that the noble doesn't say anything. This consequence isn't made apparent until later in the evening, when the noble has guards surround the hero, intent on taking the cheater down to the dungeon for stacking the deck.
+
+Common consequences for failing a test include the following:
+
+- Making an NPC so upset that they storm off, or betray, attack, or otherwise attempt to harm you
+- Drawing the attention of a group of foes
+- Triggering a trap or hazard that captures or significantly harms you or an ally
+- Breaking an important piece of equipment that is difficult to replace or repair
+- Thinking you know something that you don't
+- Getting stuck in a situation that must be resolved with a negotiation or a montage test you didn't need to make before
+
+In lieu of other consequences, the Director also has the option to gain 2 additional Malice—a resource that creatures run by the Director use in combat—at the start of the next combat encounter.
+
+##### Failure
+
+If you fail a test without incurring a consequence, you simply don't do what you set out to do. A hero attempting to climb a wall finds no purchase. A hero trying to recall lore can't remember the desired facts. If a hero attempts to bribe a guard, they don't take the bait.
+
+On a failed test, the Director can decide that there might still be a small penalty for failure, depending on the circumstances of the test. This penalty shouldn't be as harsh as rolling a failure with a consequence, though. For instance, a hero who gets this outcome on an Agility test made to sneak by a group of cultists might draw the attention of one cultist with their failure. Now that cultist is coming to investigate, but they haven't raised the alarm … yet.
+
+When a hero rolls a failure without a consequence, the Director can offer to let them succeed with a consequence instead. For instance, when a hero rolls a 10 on a medium Might test to break down a locked door, that's a failure and the door stays closed. But the Director could suggest to the player that instead of not breaking down the door, they can break down the door and lose 1d6 Stamina from being injured in the effort.
+
+##### Success With a Consequence
+
+If you succeed on a test and incur a consequence, you do what you set out to do, but with an added cost. A hero might succeed in climbing up a wall, but the surface of the wall crumbles and becomes unstable as they do, making the climb more difficult for the ally ascending after them. When trying to sneak by a cultist, a hero successfully does so, but leaves footprints or other evidence of trespassing behind. If a hero bribes a guard to be allowed to sneak into a prison, the guard lets them in—but then demands a gemstone the hero needs for an important crafting project before they let the hero out.
+
+Just like failure with a consequence, the consequences accompanying success don't need to be immediately apparent. In lieu of other consequences, the Director has the option to gain 2 additional Malice at the start of the next combat encounter.
+
+When a hero rolls a success with a consequence, the Director might give them a chance to fail instead. For instance, when a hero rolls a 10 on an easy Agility test to pick the lock on a chest, that's a success with a consequence. The Director could suggest that the character has opened the lock but broken their lockpicks in the process (knowing the picks can't be replaced until the hero returns to town), but can also give them the option of failing to pick the lock but keeping their lockpicks intact.
+
+##### Success
+
+If you succeed on a test without consequence or reward, you simply achieve whatever you set out to do. A hero climbs that wall, sneaks by those cultists, or bribes that guard just as they planned. Smooth.
+
+##### Success With a Reward
+
+If you succeed on a test with a reward, you accomplish whatever you set out to do. But you also gain a little something extra, in the form of momentum or luck that makes the immediate future easier for you or your friends.
+
+The Director determines the reward for a success, which is most often related to the task at hand. For instance, if a hero succeeds with a reward while climbing a wall, they might find a ladder at the top they can lower so that any allies climbing up after them can do so without needing to make a test. A hero trying to sneak by cultists who succeeds with a reward might be able to dose the cultists' nearby water barrel with sleeping poison as they pass by unseen. Succeeding with a reward while bribing a prison guard could mean that the guard unlocks a door for the hero in addition to forgetting they were ever there.
+
+As with consequences, the reward that comes with a success doesn't need to be immediate or apparent. For example, a hero succeeds with a reward on an easy test made to cheat at a high-stakes game of cards with a noble. Not only does the hero win the game, but the Director decides that their reward comes from a servant watching the game who's impressed with the character's performance. After the game, the servant approaches the hero, offering magic from the noble's private stash in congratulations and admiration.
+
+Common rewards accompanying success on a test include the following:
+
+- Automatically accomplishing a related follow-up task that would typically require a test
+- Allowing an ally engaged in the same task to accomplish the task without needing to make the test as well
+- Obtaining a consumable treasure or useful piece of mundane equipment
+- Learning a piece of helpful information
+- Impressing or ingratiating yourself with someone who grants you a small favor
+- Noticing a hidden danger well before it strikes, giving you time to avoid or prepare for it
+
+In lieu of other rewards, the Director can also decide that a hero who succeeds on a test with a reward earns the players a hero token (see [Hero Tokens](#page-19-4) in [Chapter 1: The Basics](#page-17-3)).
+
+> **Optional Rule: Pitching Consequences and Rewards**
+>
+> Coming up with consequences and rewards for tests can be a big part of the fun for many Directors, but even the best Directors occasionally run low on ideas. That's why the game gives the default option of consequences and rewards in the form of Malice and hero tokens. However, a Director who prefers narrative consequences and rewards can ask the players to pitch different consequences and rewards when they make a test. The Director can reject, add to, or modify the players' ideas as they choose, and will remind the players that they need to pitch real consequences, and not minor rewards disguised as consequences.
+
+#### How Long Does It Take?
+
+The amount of time required for a task involving a test is determined by the Director. A task such as recalling lore with a Reason test might take no time at all. Ducking behind a barrel to hide with an Agility test might require a maneuver or a main action, while tracking a band of voiceless talkers through the World Below could take hours or even days.
+
+##### Tests During Combat
+
+Many (but not all) tests that a hero might make during combat are made as maneuvers. See [Maneuvers](#page-287-0) in [Chapter 10: Combat](#page-288-0) for more information.
+
+#### Can I Try Again?
+
+In many cases when you fail a test, you can't attempt the test again unless the circumstances of the test change. For instance, if you attempt an Agility test to pick a lock and fail, you can't attempt to pick the lock again unless you get better lockpicks, oil the lock, have someone demonstrate how to pick a similar lock, and so on.
+
+The Director decides when the circumstances have changed enough to allow a new attempt at a test.
+
+### Heroes Make Tests
+
+If a hero attempts to sneak by an enemy guard unnoticed, should the hero make an Agility test to sneak, or should the guard make an Intuition test to catch the hero in the act? If a cultist lies to a hero about the location of a secret temple, does the cultist roll a Presence test to conceal the truth, or does the hero roll an Intuition test to discern the cultist's honesty?
+
+Except in certain scenarios (explored at [NPCs Roll for Deceptive Tasks](#page-267-2) and [Opposed Power Rolls](#page-267-0) below), heroes make tests and NPCs do not. Heroes are the stars of the story, and the consequences and rewards of tests have longer-lasting implications for them. There are exceptions to this rule, of course. If a hero travels with an NPC retainer or companion, that NPC will almost certainly make tests from time to time. But for the most part, NPCs and other creatures never need to make tests when what they do opposes what the heroes do.
+
+To quickly assess the difficulty of a task opposed by one or more creatures and the test made to attempt it, the Director can use the following guidelines (though these are not hard and fast rules):
+
+- **Easy Test:** A test is easy if only one creature opposes the hero, and that opposed creature would have a lower bonus to their test roll for the task than the hero does. If a hero with an Agility score of 2 attempts to sneak by a guard with an Intuition score of 0, the test is easy.
+- **Moderate Test:** A test is moderate if multiple creatures oppose the hero and those creatures would have lower bonuses to their test rolls than the hero, or if only one creature opposes the hero and has the same test bonus as the hero.
+- **Hard Test:** A test is hard if an opposed creature would have a higher bonus to their test roll than the hero, or if multiple creatures with the same test bonus as the hero oppose the hero.
+
+The failure consequences of opposed tasks are some of the easiest to create on the fly. Fail to hide from someone, and they notice you. Fail to lie to someone, and they catch your duplicity. Fail to arm wrestle someone for a free ale, and you're picking up the tab. The consequence is that the opposition bests the hero.
+
+#### NPCs Roll for Deceptive Tasks
+
+At times, the Director might choose for an NPC to make a test when engaged in a deceptive task, rather than having characters attempt to note the deception. By having the NPC roll in these scenarios, the Director doesn't tip their hand to the players that subterfuge is afoot.
+
+For example, when an assassin attempts to ambush the heroes while they sit around a campfire, if any player says their hero is on the lookout for danger, that hero would make an Intuition test to notice the danger. But if no one is keeping watch, the assassin makes an Agility test to sneak up on the heroes unnoticed. If the assassin fails the test, the heroes notice immediately as their assailant loudly steps on a twig. If the assassin succeeds, the heroes don't notice until the assailant is right on top of them.
+
+An NPC might also make a Presence test if they lie to the heroes, as long as the heroes have no reason to believe the character would be deceptive. The Director knows if the heroes are wary in that way because the players will ask if they can make a test to discern the NPC's honesty.
+
+As an optional rule, the Director is also free to ask the heroes to make a reactive test to a deceptive NPC instead (see [Reactive Tests](#page-267-1) below) whenever they choose.
+
+#### Opposed Power Rolls
+
+When two creatures are engaged in a particularly dramatic struggle that requires them both to make tests, the Director can have all the creatures involved make a test. The creature with the highest power roll wins. You can't earn a reward as part of these opposed power rolls, and they don't follow the typical difficulty structure or have three different tiers of possible outcomes.
+
+For example, if your hero attempts to sneak by a demon lord, you make an Agility test to move stealthily while the demon makes an Intuition test to notice you. If your hero gets the higher power roll, you sneak by without the demon noticing. If the demon gets the higher roll, they catch you in the act of sneaking. If multiple sneaking heroes attempt to get by multiple demons, then each creature makes a test and all the totals are compared to determine which demons notice which heroes.
+
+In the event of a tie in an opposed test, the state of the scene doesn't change. In the previous example, a tie means that if a demon on guard duty didn't know a sneaking hero was there, the demon remains oblivious. If the demon did know the hero was out there somewhere while trying to avoid being noticed, a tie means the demon still knows the hero is there but hasn't determined their location.
+
+Since opposed power rolls don't use tiers, when you make an opposed power roll, a double edge provides a +4 bonus to the roll, a double bane provides a -4 penalty to the roll, an automatic tier increase counts as a +4 bonus to the roll, and an automatic tier decrease counts as a -4 penalty to the roll.
+
+### Reactive Tests
+
+At certain times when a hero isn't engaged in overcoming a task, the Director might ask the player of the hero to make a test without context, explaining the test only after the power roll is made. This often happens when a hero has a chance of knowing or noticing something of significance that the player doesn't know to look for or ask about.
+
+Reactive tests are typically made in the following circumstances, though the Director can call for them in any appropriate scenario:
+
+**Hidden Environmental Features:** The Director asks for an Intuition test to notice a secret door, a hidden trap, or some other disguised environmental feature.
+
+- **Hidden Foes:** The Director calls for an Intuition test to notice a hidden foe (or they could use the rules in [NPCs Roll for Deceptive Tasks](#page-267-2) above).
+- **Hidden Motives:** The Director can ask for an Intuition test during a conversation to gauge how well a hero can read an NPC, judging whether they're lying, withholding information, or concealing an emotional response. (The Director could also use the rules in [NPCs Roll for Deceptive Tasks.](#page-267-2))
+- **Recall Lore:** The Director might ask a hero to make a Reason test when dealing with a new object, a piece of information, or an event to determine what history or details the hero might already know about it.
+- **Creature and DTO Tests:** Some creatures and dynamic terrain objects in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)* have features and abilities that require heroes to make reactive tests. These tests can't be modified by skills.
+
+> **Optional Rule: Secret Reactive Tests**
+>
+> Some Directors prefer to make the power rolls for reactive tests for the heroes rather than asking the players to do so. This allows the Director to make the rolls when appropriate for hidden objects, creatures, motivations, and information without tipping off the players that there is information to be gained. Having the Director roll requires the Director to have everyone's characteristics and skills recorded (whether physically or digitally) for easy reference.
+
+### Skills
+
+Skills represent the different specializations a hero has outside of attacking, defending, and using their ancestry features, class features, and equipment. Whenever you make a test, having a particular skill associated with the test increases your chance of success.
+
+#### Applying Skills
+
+If you have a skill that applies to a test you make, you gain a +2 bonus to the test. For instance, if your hero has the Hide skill, you have a +2 bonus to any test you make that involves hiding yourself. This might include an Agility test to hide behind a barrel, or a Presence test to disappear into a crowd.
+
+The +2 bonus gained for a skill isn't an edge. A player can make a test that has both the +2 bonus for a skill and the +2 bonus for an edge.
+
+You can't apply more than one skill to a test.
+
+##### Justify the Skill
+
+It's not the Director's job to know every task potentially covered by the skills in the game, or to know the specific skills your hero has. Instead, the Director asks you to make a test using a characteristic and you tell the Director if you think you have a skill that applies. If it's not obvious why the skill applies, tell the Director how your hero is approaching the task and justify why that approach uses the skill. The Director then decides if you get the +2 bonus the skill represents. If the Director disagrees with you, that's the final word.
+
+Approaching problems creatively while remaining reasonable can help you get the most out of your skills. For example, if you're making a Presence test to impress a noble at a party, using the Brag skill is an obvious choice. But what if you don't have that skill? Maybe you could instead try to impress the noble with a brief but exciting lecture about the nature of the elements, making a Presence test using the Magic skill that you do have!
+
+Sometimes you won't have a skill that applies to a test. That's okay! If your characteristic score is decent, you likely have a good chance of success without a skill.
+
+##### Mixing Characteristics and Skills
+
+Although certain skills are often paired with one characteristic more than others, a skill can apply to a test made using any characteristic that makes sense. The Director has the final say on which characteristic is used to complete a task, and can call for a different characteristic based on the circumstances.
+
+For example, intimidating someone with a purely verbal threat is a Presence test. But if a player describes their character tearing a log in half with their bare hands to intimidate a foe, the Director is likely to call for a Might test instead. The Intimidate skill can apply to both tests. In the same way, scaling the side of a building is covered by a Might test, but if a hero does a series of leaps from one balcony to another to reach a roof, the Director could call for an Agility test instead. The Climb skill applies to both of these tests.
+
+#### Many Specific Skills
+
+*Draw Steel* includes a big list of skills, and each is fairly specific. For example, instead of one Athletics skill that covers climbing, jumping, swimming, and lifting heavy objects, your character might use separate Climb, Jump, Lift, and Swim skills. Instead of a Thievery skill that covers picking locks, picking pockets, and disabling traps, the game has three skills: Pick Lock, Pick Pocket, and Sabotage.
+
+Having a wide range of specific skills means you'll frequently make tests that don't use one of your character's skills, simply applying a characteristic. By not having a few broader skills, it means that having a character who covers the spread of every skill is actually impossible. Luckily, the math of the game doesn't require you to have a skill to have a decent chance of success on a test. That means heroes can attempt tasks without the help of a skill just because someone needs to do it, and that's pretty darn heroic!
+
+Since you don't need to worry about your character covering a wide spread of skills, you're free to choose the skills you think fit your hero best and are the most fun to work with. Maybe you're thinking about an elementalist who has a gymnastic background in jumping and tumbling, and who also studied religion and blacksmithing. Having that kind of specific backstory is a big part of cinematic storytelling.
+
+The rules for skills allow for them to be flexibly applied to any test that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my Climb skill for a +2 bonus to my Presence test?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many tests as possible. This isn't fun for anyone, and doesn't make a very compelling story.
+
+> **Edges on Tests With Specific Skills**
+>
+> Certain features and abilities grant a creature an edge on tests made with a specific skill. A creature making a test where the specific skill would apply gains an edge on the test even if they don't have the skill. For example, the conduit's Blessing of Fortunate Weather can create foggy weather that grants creatures who make tests using the Hide skill an edge on those tests. Any creature who attempts to hide in the fog gains an edge on the test as long as the Hide skill would apply to that test, regardless of whether they have that skill or not.
+
+> **Are All Skills Equal?**
+>
+> When choosing skills for your character, deciding which skills will be most useful depends a lot on the campaign. For instance, the Swim skill might be used constantly during a campaign that takes place on the ocean and has heroes exploring underwater ruins, but it won't come up as much in a campaign that takes place entirely in a vast desert. The Psionics skill might come up a lot in a campaign where voiceless talkers are the main foes, and Magic might be more useful in a game where the heroes take on a circle of evil wizards. If you're worried about whether a skill you'd like to take will be useful, discuss your skill list with the Director after you create a hero. And if a skill doesn't work out, you can always trade it for another skill as you wish (see Changing Character Options in Chapter 2: Making a Hero).
+
+#### Skill Groups
+
+Skills are broken down into five skill groups: crafting, exploration, interpersonal, intrigue, and lore.
+
+##### Crafting Skills
+
+Skills from the crafting skill group are used in the creation and appraisal of goods and for jury-rigging contraptions. They are especially useful during rests and downtime.
+
+Rewards for tests made with crafting skills typically include having leftover rare material used in the creation process, knowing a buyer willing to pay extra for goods or items you're appraising, or making a jury-rigged device so amazing that it lasts for more uses than it should.
+
+Consequences for tests made with crafting skills typically include wasting rare materials used in the creation process, greatly overestimating or underestimating an item's value, and poorly jury-rigging a contraption so that it harms people (or at least the wrong people).
+
+###### Crafting Skills Table
+
+| Skill         | Use                                                |
+| ------------- | -------------------------------------------------- |
+| Alchemy       | Make bombs and potions                             |
+| Architecture  | Create buildings and vehicles                      |
+| Blacksmithing | Forge metal armor and weapons                      |
+| Carpentry     | Create items out of wood                           |
+| Cooking       | Create delicious dishes                            |
+| Fletching     | Make ranged weapons and ammunition                 |
+| Forgery       | Create false badges, documents, and other items    |
+| Jewelry       | Create bracelets, crowns, rings, and other jewelry |
+| Mechanics     | Build machines and clockwork items                 |
+| Tailoring     | Craft clothing of cloth or leather                 |
+
+##### Exploration Skills
+
+Skills from the exploration skill group are used to physically explore the environment around the characters, and to overcome physical obstacles.
+
+Rewards for tests made with exploration skills typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, reaching a destination faster than anticipated, and learning about or avoiding an upcoming hazard.
+
+Consequences for tests made with exploration skills include harming yourself, your gear, or your allies; becoming lost; or stumbling headlong into a hazard or a place you were trying to avoid.
+
+###### Exploration Skills Table
+
+| Skill      | Use                                                             |
+| ---------- | --------------------------------------------------------------- |
+| Climb      | Move up vertical surfaces                                       |
+| Drive      | Control vehicles                                                |
+| Endurance  | Remain engaged in strenuous activity over a long period of time |
+| Gymnastics | Move across unsteady or narrow surfaces; tumble                 |
+| Heal       | Use mundane first aid                                           |
+| Jump       | Leap vertical and horizontal distances                          |
+| Lift       | Pick up, carry, and throw heavy objects                         |
+| Navigate   | Read a map and travel without becoming lost                     |
+| Ride       | Ride and control a nonsapient mount, such as a horse            |
+| Swim       | Move through deep liquid                                        |
+
+##### Interpersonal Skills
+
+Skills from the interpersonal skill group are used to socially interact with other creatures, and are particularly useful during negotiations (see [Chapter 11)](#page-297-1). Aside from the Handle Animals skill, you can generally only use interpersonal skills when you attempt to influence creatures who have emotions and who can understand you.
+
+Rewards for tests made with interpersonal skills typically include gaining an extra favor, item, or piece of information from the people or creatures you interact with.
+
+Consequences for tests made with interpersonal skills include making the creature you're interacting with angry, sad, embarrassed, offended, or otherwise upset or uncomfortable. This might cause them to ignore you, storm off, spread rumors about you, attack you, betray you, blackmail you, or otherwise attempt to harm you.
+
+###### Interpersonal Skills Table
+
+| Skill          | Use                                                                     |
+| -------------- | ----------------------------------------------------------------------- |
+| Brag           | Impress others with stories of your deeds                               |
+| Empathize      | Relate to someone on a personal level                                   |
+| Flirt          | Attract romantic attention from someone                                 |
+| Gamble         | Make bets with others                                                   |
+| Handle Animals | Interact with nonsapient animal wildlife                                |
+| Interrogate    | Obtain information from a creature withholding it                       |
+| Intimidate     | Awe or scare a creature                                                 |
+| Lead           | Inspire people to action                                                |
+| Lie            | Convince someone that a falsehood is true                               |
+| Music          | Perform music vocally or with an instrument                             |
+| Perform        | Engage in dance, oratory, acting, or some other physical performance    |
+| Persuade       | Convince someone to agree with you through use of your charms and grace |
+| Read Person    | Read the emotions and body language of other creatures                  |
+
+##### Intrigue Skills
+
+Skills from the intrigue skill group are used in tasks centered around investigation, thievery, and spycraft.
+
+Rewards for tests made with skills from this group typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, discovering helpful information in addition to what you set out to learn, and performing an extra bit of clandestine activity in addition to what you set out to do.
+
+Consequences for tests made with intrigue skills include getting caught in the act or failing to notice a detail that places you in danger, such as triggering a trap or walking into an ambush.
+
+###### Intrigue Skill Table
+
+| Skill          | Use                                                                                                |
+| -------------- | -------------------------------------------------------------------------------------------------- |
+| Alertness      | Intuitively sense the details of your surroundings                                                 |
+| Conceal Object | Hide an object on your person or in your environment                                               |
+| Disguise       | Change your appearance to look like a different person                                             |
+| Eavesdrop      | Actively listen to something that is hard to hear, such as a whispered conversation through a door |
+| Escape Artist  | Escape from bonds such as rope or manacles                                                         |
+| Hide           | Conceal yourself from others’ observation                                                          |
+| Pick Lock      | Open a lock without using the key                                                                  |
+| Pick Pocket    | Steal an item that another person wears or carries without them noticing                           |
+| Sabotage       | Disable a mechanical device such as a trap                                                         |
+| Search         | Actively search an environment for important details and items                                     |
+| Sneak          | Move silently                                                                                      |
+| Track          | Follow a trail that another creature has left behind                                               |
+
+##### Lore Skills
+
+Skills from the lore skill group are used to research and recall specific information. They are especially useful during rests and downtime.
+
+Rewards for tests made with lore skills typically include learning an extra piece of useful information.
+
+Consequences for tests made with lore skills typically include learning an incorrect piece of information that seems useful, but which actually works against your interests or wastes time. (It's fun to roleplay these kinds of moments, so lean in!) Alternatively, the Director can make medium and hard tests with lore group skills for each hero in secret, then let the players know the narrative outcome without revealing the outcome of the power roll (see the [Optional Rule: Secret Reactive Tests](#page-267-3) sidebar earlier in this chapter).
+
+###### Lore Skills Table
+
+| Skill               | Use                                                                                        |
+| ------------------- | ------------------------------------------------------------------------------------------ |
+| Criminal Underworld | Knowing about criminal organizations, their crimes, their relationships, and their leaders |
+| Culture             | Knowing about a culture's customs, folktales, and taboos                                   |
+| History             | Knowing about significant past events                                                      |
+| Magic               | Knowing about magical places, spells, rituals, items, and phenomena                        |
+| Monsters            | Knowing monster ecology, strengths, and weaknesses                                         |
+| Nature              | Knowing about natural flora, fauna, and weather                                            |
+| Psionics            | Knowing about psionic places, spells, rituals, items, and phenomena                        |
+| Religion            | Knowing about religious mythology, practices, and rituals                                  |
+| Rumors              | Knowing gossip, legends, and uncertain truths                                              |
+| Society             | Knowing noble etiquette and the leadership and power dynamics of noble families            |
+| Strategy            | Knowing about battle tactics and logistics                                                 |
+| Timescape           | Knowing about the many worlds of the timescape                                             |
+
+> **For the Director: Make Your Own Skills**
+>
+> Directors should feel free to make their own skills that they feel are relevant and useful to their campaigns and adventures. For instance, the game doesn't have a Brewing skill for brewing ale or a Painting skill for making art because those aren't tasks that typically come up in a game about fighting monsters and saving the world. However, a Director could decide that their campaign involves poisoned barrels of ale and large amounts of counterfeit art, and that adding these two new skills to the game would make it more fun for the players. The Director simply needs to pick a group for these new skills—in this case, crafting makes sense. They then let the players know that they can swap out any crafting skill they have for these new skills.
+
+### Example Tests
+
+In this scenario, a trio of adventurers want to scale the 40-foot-high walls surrounding a castle known as the Star Chamber, hoping to covertly obtain information about their enemy, Lady Morgant.
+
+**Director (Matt):** *The towering walls that surround the Star Chamber stand before you, the single iron gate closed and locked, with a platoon of armed guards outside.*
+
+**James (playing Korvo, a shadow):** *Let's move to the side of the wall opposite the gate and make our ascent there.*
+
+**Grace (playing Val, a conduit):** *Agreed.*
+
+**Director:** *Okay. It'll be a Might test to get up to the top of the wall.*
+
+The Director knows that the walls around the Star Chamber, the headquarters of the evil knights Lady Morgant leads, are smooth and hard to climb, designed to repel invaders. The test's difficulty is hard, but the Director keeps that information a secret for now.
+
+**Alyssa (playing Jorn, a tactician):** *Let me go first. I've got good Might and can throw the others down a rope once I'm up there. And I've got the Climb skill.*
+
+**Director:** *For sure. Okay, roll it up.*
+
+Alyssa rolls 2d10 and gets a 13. She then adds her Might score of 2 and her +2 bonus for having an applicable skill to the roll, for a total of 17.
+
+**Alyssa:** *A 17! That's tier 3, baby!*
+
+The Director checks the Test Difficulty Outcomes table to confirm that a tier 3 outcome is a success on a hard test.
+
+**Director:** *Okay, you're on top of the wall. You notice a few guards patrolling atop the opposite side of the wall in the distance, but they're looking out at the city right now.*
+
+**Alyssa:** *Great! I toss down a rope. Val, you're next.*
+
+**Grace:** *So it's a Might test. Would you let me use Endurance? It's a lot of physical exertion to climb.*
+
+**Director:** *It's not a climb that would take you hours, so I don't think Endurance applies here. But hey, the rope does make this an easier test.*
+
+**Grace:** *Fair. Okay, dice. Let's do this.*
+
+Given the rope, the Director decides that this second climb attempt is an easy test. Grace rolls 2d10 and gets an 11. With her Might score of 2, that's a 13.
+
+**Grace:** *13! That's a tier 2 outcome for Val.*
+
+The Director checks the Test Difficulty Outcomes table once more, confirming that a tier 2 outcome is a success on an easy test.
+
+**Director:** *Good news! You make it to the top of the wall alongside Jorn.*
+
+**James:** *Ah, crap. I have a Might of −1 and no skills to use. Unless I can Intimidate the rope into lifting me up?*
+
+**Director:** *Wishful thinking.*
+
+**Alyssa:** *What if Korvo grabs onto the rope and I lift him up while he just hangs on for the ride?*
+
+**Director:** *Sure. That'll be a Might test if Korvo's down for it.*
+
+**James:** *Nothing risked, nothing saved. Let's do it. Just be careful. Any loud noises could attract those guards.*
+
+**Alyssa:** *Please. I'm a pro. Since I'm lifting this polder off the ground, does the Lift skill apply?*
+
+**Director:** *Yes, it does. Roll it up. That's a medium difficulty test.*
+
+Lifting the diminutive polder, Alyssa rolls 2d10—but gets a 2! With her Might score and Lift skill bonus of +2, the total is 6.
+
+**Alyssa:** *A 6! Oof. That's tier 1.*
+
+**Director:** *Which is a failure, but with no consequence. You realize you just can't lift Korvo off the ground without making a lot of noise.*
+
+The Director then decides to make the failure potentially more interesting, by allowing the players to decide if they want a failure without consequence or a success with a consequence.
+
+**Director:** *I'll give you a choice, though. You can leave Korvo on the ground, or pull him up and suffer the consequence of making some noise while doing so.*
+
+**Grace:** *Ah, pull the polder up.*
+
+**Alyssa:** *Yeah. We have to face these guards sometime.*
+
+**James:** *Thanks for not leaving me behind!*
+
+**Director:** *As Jorn yanks Korvo off the ground and pulls him up to the top of the wall, a guard turns a bullseye lantern your way, calling out, "Who goes there?"*
+
+### Assist a Test
+
+You can attempt to assist another creature with a test they make, provided you have a skill that applies to the test, the other creature isn't using that same skill on the test, and you can describe how your character helps to the Director's satisfaction. In other words, your attempt to help has to make sense, and you have to bring some useful expertise to the table. Helping another creature sneak by shouting encouragement at them isn't going to make them stealthier.
+
+When you attempt to assist another creature, make a test using the skill you choose, and using a characteristic chosen by the Director based on the activity you use to help. The outcome of that test determines the bonus applied to the test you're assisting:
+
+- **≤11:** You get in the way or make things worse. The creature takes a bane on their test.
+- **12-16:** Your help grants the other creature an edge on their test.
+- **17+:** Your help gives the other creature a double edge on their test.
+
+For example, when an ally tries to pick a jailer's pocket, you might attempt to assist by using the Flirt skill to distract the jailer. The Director accepts this, and asks you to make a Presence test using Flirt. The outcome of that test determines the bonus you provide to the other hero's Agility test to pick the jailer's pocket—or whether you fumble the distraction and potentially draw attention to the attempt.
+
+### Hide and Sneak
+
+Hiding and sneaking are important tools for heroes and their foes. You might want to avoid another creature's notice to eavesdrop on conver sations, steal items, set up an ambush, or avoid a combat encounter.
+
+#### Hiding
+
+To hide from a creature, you must have cover or concealment from that creature (see [Chapter 10: Combat](#page-288-0)), who can't observe you attempting to hide. A creature is observing you if they're aware of your specific location before you attempt to hide. This means they can pinpoint you with their senses and point a finger (or paw or tentacle) at you as if to shout, "There they are!" If you duck behind a barrel to hide from a foe, your attempt to hide has a chance of succeeding only if your foe doesn't notice you doing so. If you're being chased by a hungry dragon, you can hide only if you first move to a location where the dragon can't observe you—for instance, by turning a sharp corner into a tunnel full of giant stalagmites before the dragon does. You then make your hide attempt.
+
+When you use the Hide maneuver to hide during combat while you have cover or concealment from a creature who isn't observing you, you are automatically hidden from them unless the Director deems otherwise. If you hide outside of combat, the Director might ask you to make a test using the Hide skill to determine how well hidden you are.
+
+While you are hidden from another creature, the creature can't target you with abilities that don't have the Area keyword. This benefit ends as soon as you are no longer hidden from that creature.
+
+Additionally, while you are hidden from another creature, you gain an edge on ability rolls made against that creature. This benefit lasts until the end of the turn in which you are no longer hidden. This means you can be hidden from another creature at the start of your turn, move out of cover or concealment toward them and use an ability against them, and still gain an edge on ability rolls made against the creature as long as you use the ability before the end of that turn.
+
+Draw Steel
+
+You are no longer hidden from a creature if you don't have cover or concealment from them. If you use an ability, interact with an enemy, move without sneaking, or otherwise make noise or reveal yourself while hidden, you are no longer hidden once the activity that reveals you resolves. For instance, if you are hidden and then make a strike, you resolve the strike first, then are no longer hidden.
+
+##### Searching for Hidden Creatures
+
+You can search for creatures who are hidden from you as long as those creatures are within 10 squares and you have line of effect to them. To do so, you use a maneuver to make an Intuition test using the Search skill, and any hidden creatures within 10 squares of you each make an opposed Agility test using the Hide skill (see [Opposed Power Rolls](#page-267-0) earlier in this chapter). At the Director's discretion, different characteristics and skills can be used in this opposed test. For example, your foe might make a Presence test using the Handle Animals skill to hide among a flock of sheep without disturbing them, or you could make a Reason test using the Eavesdrop skill to pick out the breathing of a creature hidden in the dark.
+
+If the total of your test is higher than that of a hidden creature, they are no longer hidden from you. Otherwise, they remain hidden from you. As part of the maneuver used to search for hidden creatures, you can point out any creatures you notice to allies within 10 squares of you, making those creatures no longer hidden from those allies.
+
+If a creature is hidden from your allies but not from you, you can use a maneuver without making a test to point that creature out to your allies.
+
+> **What Does It Mean to Be Observed?**
+>
+> Most of the time, if a creature has line of effect to you, they're able to observe you—especially if you're an active threat to them, such as in a combat encounter. However, the game leaves what it means to be observed open to interpretation, because there are circumstances where a creature might have line of effect to you but isn't observing you, giving you a chance to hide. For example, a guard in a crowded marketplace likely isn't able to observe every creature within their line of effect, so slipping away to hide in that situation is probably easier than hiding from them in an otherwise empty street. The Director has the final say on who is observing you, and who you are able to observe.
+
+#### Sneaking
+
+While you are hidden from another creature and not in combat, you can attempt to sneak—avoiding the senses of other creatures as you move around them in the open—to remain hidden. While sneaking, your speed is halved. To sneak, you make an Agility test using the Sneak skill with a difficulty set by the Director. If you succeed, you remain hidden during your movement. This test can use another characteristic at the Director's discretion, such as using Presence to blend in with a crowd on a packed city street.
+
+### Group Tests
+
+Whenever two or more heroes attempt to overcome a single, simple task together that calls for them to make the same test, the Director can call for a group test. For example, if several heroes are all attempting to climb the outside of a tower at the same time, giving each other assistance and advice, they could be asked to make a Might group test. If a group of heroes attempt to sneak by a sleeping ogre, they might make an Agility group test.
+
+#### Group Test Difficulty
+
+The Director determines the difficulty of a group test the same way they do for individual tests. Group tests can be easy, medium, or hard.
+
+#### Making a Group Test
+
+Each hero participating in the group test makes the test individually as usual, but the Director waits until all the tests have been made to interpret the outcome. A hero who is participating in the group test can't assist another hero participating in the test.
+
+#### Group Test Outcome
+
+When interpreting the outcome of a group test, the Director first determines if the task succeeded or not before figuring out rewards and consequences. If half or more of the heroes making the group test succeed, then the group test succeeds. Otherwise, the group test fails.
+
+If the heroes succeeded and half or more of them obtained a reward from the test, the Director gives the group a collective reward and ignores any consequences incurred in the test. This collective reward should be equivalent to earning two individual rewards. In fact, it could be two consumable items, juicy pieces of information, or hero tokens. However, it could also be something more tailored to the task. For instance, if the heroes earn a collective reward while sneaking through the camp of an enemy army, the Director might allow them to sabotage a bunch of war engines or steal a few horses on their way out.
+
+If the heroes failed the group test and more than half of them incurred a consequence as a result, the Director gives the group a collective consequence and ignores any earned rewards. This collective consequence should affect everyone. An easy option is for the stress of failing the test to cause each hero to take a bane on their next power roll, or for the Director to gain 2 Malice per hero at the start of the next combat encounter. But the consequence could also be tailored to the task. For instance, if the heroes fail in their attempt to sneak through the camp of an enemy army, they're spotted and the camp immediately goes on alert as waves of enemies attack them.
+
+If fewer than half the heroes incur a consequence or earn a reward on their individual tests, then the group test simply succeeds or fails.
+
+### Montage Tests
+
+When a group of heroes works together over time to accomplish a common goal that requires more than a single characteristic, the Director can call for a montage test. Such tests typically take place over a prolonged period and focus on collective or shared activities. Navigating a vast desert, convincing farmers to rise up against a tyrannical leader, and performing a ritual to open a magically sealed gate can all be accomplished with montage tests.
+
+In a montage test, the players take turns making tests as their characters tackle a task together in a montage test round. Each hero has a chance to make a test (or to assist another hero's test; see [Assist a Test](#page-272-0) above) intended to influence the outcome of the task.
+
+A hero can also spend their turn using an item, ability, or other option they have available that they believe can help in the montage test. For example, if a group of heroes want to cross an ocean on a sailing ship before a storm begins, one hero might make use of a magic fan that creates wind to keep the sails full day and night. The Director decides that this clever action gives the heroes 2 automatic successes in the montage test, with no individual tests necessary (see [Total Successes and Failures](#page-276-0) below).
+
+Once a hero makes a test, assists with a test, or uses an ability or other option, they can't do anything else as part of the montage test until each other hero involved in the montage test does so as well. A hero can also choose to do nothing, most often if they have no one to assist and fear that their actions might make the situation worse (see [Montage Test Outcomes](#page-276-1) below). Once every hero has had a chance to act, the montage test round ends and a new one begins.
+
+#### Time and Stakes
+
+As the name suggests, montage tests create a kind of cinematic montage in the action of the game. A montage test can take place over the course of several hours or days, with each individual test or other activity set up as a brief vignette within the montage that stars one of the heroes. Combat encounters, negotiations, and other challenges and scenes can break up a montage test (see [Sample Montage Test](#page-276-2) below).
+
+The Director should deploy montage tests only when the players are engaged in overcoming a goal that has stakes for the story and some sort of pressure, such as a looming deadline or impending harm. A montage test is great for a race to get to another location before an enemy army does, a chase to escape or catch up to a foe, weathering a hazard, preparing a village for war, or similar activities. Low- or no-stakes activities such as travel through a forest with no time pressure, or training during a respite to use a new kit, can be narrated in montage style, but they don't require a montage test.
+
+#### Director Sets the Scene
+
+At the start of a montage test, the Director should describe the scenario underlying the task at hand, and the various challenges the heroes might face as they attempt to collectively accomplish it. For example, if the heroes are chasing down a pickpocket through a crowded market, the Director might talk about the throngs of innocent people blocking the way forward, obscuring the characters' vision, and making noise that complicates attempts to hear the thief's nimble footsteps. There are also traveling carts to dodge, the speed and dexterity of the pursued character to contend with, and a pack of stray dogs who chase after anyone who sprints through the market. Describing these obstacles gives the heroes ideas about what they're trying to overcome as they attempt to achieve their goals.
+
+#### Individual Tests in Montage Tests
+
+The difficulty of each individual test in a montage test is set by the Director and can vary from test to test. For instance, if the heroes are preparing the defenses of a village threatened by a band of approaching raiders, the Director might decide that a character who wants to dig a trench around the village needs to make an easy Might test. Another hero wants to train the untested farmers of the village in the ways of war, and the Director decides this is a hard Reason test.
+
+The same rules and guidelines that apply to all individual tests apply in montage tests. If a hero has a clever, out-of-the-box idea that the Director thinks should automatically succeed without rolling dice, it does. If the circumstances of the test should grant an edge or a bane, they do. Individual test outcomes shouldn't halt the story.
+
+The Director should couch each success or failure as it relates to the overall goal of the montage test. If the heroes are trying to reach an ancient temple, failing a Might test to ford a river in their path doesn't mean they don't cross the river and are stuck on the other side. But it could mean that failing to cross the river in a timely manner gives a rival group of villains the chance to beat the party to the temple.
+
+The rewards and consequences of individual tests made during a montage test are handled on an individual basis. The Director can use the default of gaining additional Malice in the next combat encounter for consequences and having the party gain hero tokens for rewards to keep the montage moving.
+
+#### Can't Use the Same Skill Twice
+
+An individual character can't use the same skill more than once in a montage test. Though multiple heroes can use the same skill, a test or an assist with a specific skill represents each characters' entire contribution to the montage test with that skill. At the Director's discretion, this restriction can be lifted for prolonged montage tests, or for montage tests that are limited in scope and have only a small number of skills that apply to them.
+
+#### New Challenges for Each Test
+
+In general, when a hero makes a test as part of a montage test, they should choose new obstacles to overcome that haven't already been overcome as part of the test. If the heroes are chasing a thief through the marketplace and one of them has already distracted the pack of stray dogs with a deft hand and a piece of meat, additional tests made to distract the animals don't count toward the outcome of the montage test.
+
+When it fits the scenario, the Director can adjust this restriction. If part of a montage test involves searching for people trapped in a burning building, the Director is likely to allow multiple tests to fight or avoid the fire, since this will happen throughout the montage test, not just once.
+
+##### Introducing More Challenges
+
+During a montage test, a Director can introduce new challenges for the heroes to face. While attempting to run out of a burning building from the top floor, the characters might discover that by the time they reach the second floor, beams are starting to fall and glass windows are exploding as the structure starts to collapse. These new challenges can be incorporated into the tests the heroes subsequently make.
+
+#### Total Successes and Failures
+
+The Director or another player will track the total number of successes and failures the heroes earn during a montage test. Every montage test has a success limit and a failure limit. When the number of successful tests equals the success limit, the montage test ends and the heroes achieve total success (see[Montage Test Outcomes](#page-276-1) below). The montage test can also end when the number of failed tests equals the failure limit, and the heroes suffer total failure.
+
+#### Limited Rounds
+
+A montage test should last only 2 montage test rounds. If the heroes don't end the montage test by achieving the success limit or failure limit, the montage test ends when the second montage test round is over. This time limit helps to keep a montage test from becoming a slog, and prevents heroes from simply using their turns to assist the one hero with the best chance of success. This can inspire each hero to be a more active participant in the montage test. That said, the Director can increase the number of rounds a montage test lasts if they wish to create a particularly grueling challenge.
+
+#### Montage Test Difficulty
+
+The Director determines the success limit and failure limit of a montage test. They can share this information or keep it secret, depending on what feels the most fun and dramatic for the situation and the players.
+
+In general, the higher the success limit, the harder and more complicated it is for the heroes to overcome the montage test, since a hero can't make the same test twice. The Montage Test Difficulty table gives a recommended success limit and failure limit for easy, moderate, and hard montage tests for groups with five heroes.
+
+###### Montage Test Difficulty Table
+
+| Difficulty | Success Limit | Failure Limit |
+| ---------- | ------------- | ------------- |
+| Easy       | 5             | 5             |
+| Moderate   | 6             | 4             |
+| Hard       | 7             | 3             |
+
+For larger or smaller groups, the Director can make the following adjustments to keep montage tests achievable but challenging:
+
+- For four or fewer heroes, decrease the success limit and failure limits by 1 (to a minimum of 2) for every hero fewer than five. For example, if a group has only three heroes, an easy montage test has a success limit and failure limit of 3.
+- For six or more heroes, increase the success and failure limits by 1 for every hero more than five.
+
+#### Montage Test Outcomes
+
+A montage test can have three different outcomes:
+
+- If the heroes hit the success limit before hitting the failure limit or before the time runs out for the test, they achieve total success.
+- If the heroes hit the failure limit or time runs out, and if they've achieved at least two more successes than failures, they achieve a partial success.
+- If the heroes hit the failure limit or time runs out, and if they don't have at least two more successes than failures, they suffer total failure.
+
+##### Total Success
+
+If the heroes earn a total success, they achieve what they set out to do without complication. For instance, if the heroes engaged in a montage test to cross a desert and reach a city before a tyrant's army arrives there and levels the place, a total success sees them arrive at the city gates with plenty of time to warn people of the impending assault.
+
+The heroes earn 1 Victory when they achieve total success on an easy or moderate montage test, and 2 Victories on a hard montage test.
+
+##### Partial Success
+
+If the heroes earn a partial success, they succeed at what they set out to do, but there is a complication or a cost involved. For instance, when crossing the desert to reach and warn the city of the tyrant's army, a mixed success sees the characters arrive at the city gates with the enemy forces just behind them. Alternatively, the Director might allow the heroes to arrive well before the army, but they don't cover their movements well enough. The tyrant realizes the city has been warned and decides to call in a favor to have a powerful dragon join the siege.
+
+The heroes earn 1 Victory when they achieve partial success on a hard or moderate montage test.
+
+##### Total Failure
+
+If the heroes suffer total failure, they don't achieve what they set out to do. Just as with standard tests, failure on a group test shouldn't bring a story to a halt. Total failure should make things more interesting and challenging! With a total failure in a montage test to cross the desert and warn the city, the characters arrive at the city to find it already under siege by the tyrant.
+
+#### Sample Montage Test
+
+Four heroes must cross the vast and inhospitable Infinite Desert to warn the city of Ahset that the tyrannical Empress Vardo is coming to conquer them. If the characters arrive in time, they can organize the defenses of the city, giving its people a greater chance of defeating the tyrant.
+
+The Director determines that crossing the desert is a montage test of hard difficulty. With four heroes involved, the success limit is 6 and the failure limit is 2 as the montage test begins.
+
+##### Montage Test Round 1
+
+When the test begins, the Director sets the scene. They tell the players that the desert has extreme temperatures, sudden sandstorms, high dunes to cross, deep sand, chasms, and quicksand lakes. The Director decides that the challenges of dunes, deep sand, and quicksand can be tackled multiple times in the test, since the Infinite Desert is filled with these hazards.
+
+Urdoncara, a fury, starts things off by asking to make an Intuition test using the Nature skill to predict the best times of day to travel and rest. She wants the party to avoid the worst of the desert's extreme temperatures and any sandstorms or other weather phenomena, so that the journey is quickened. The Director decides this is an easy test. Urdoncara makes the test and gets a total of 12, earning 1 success for the montage test.
+
+Jorn, a tactician, wants to make a Reason test using the Climb skill to lead the party over dunes and other hazards with minimal effort. The Director allows the attempt, but says that knowing what makes one dune easier to climb than another is tricky, setting the difficulty at hard. Jorn gets a 9 on the test and fails with a consequence, which the Director decides will cause him to take a bane on his next power roll due to the exertion. The montage test has 1 success and 1 failure.
+
+Karrel, an elementalist, thinks the group might cross the desert faster if they have specially modified sandshoes that distribute their weight and prevent their feet from sinking into the sand. The Director loves the idea, and decides that making four pairs of the shoes while traveling the desert is a medium Reason test. Karrel gets to use their Tailoring skill and winds up with a total of 13—a success with a consequence. The Director decides to gain an additional 2 Malice at the start of the next combat encounter as a consequence, but the group now has 2 successes and 1 failure on the montage test.
+
+Val, a conduit, offers to scout ahead for the group with an Intuition test, using the Navigate skill to find the best path forward and avoid hazards such as chasms and quicksand. The Director thinks that acting as lookout in a vast desert is an easy task. Val smashes it with a 21—a success with a reward—and the Director decides to get creative. Val's lookout skills grant the next hero to act in the montage test an edge on their test. At the end of the first montage test round, the heroes have 3 successes and 1 failure.
+
+##### Interlude
+
+Before the next montage test round, the Director pauses the montage test to run a battle with a kingfissure worm, who attacks the heroes as they cross over an ancient ruin partially buried in the sand. After the heroes defeat the kingfissure worm, the test continues.
+
+##### Montage Test Round 2
+
+Urdoncara wants to make a Might test using the Lift skill to carry most of the group's equipment as they cross the desert, allowing her allies to move more quickly while she keeps up with her superior fortitude. The Director thinks this arduous task has a hard difficulty. Urdoncara gets a 17 on the test thanks to the edge from Val's earlier success. The montage test has 4 successes and 1 failure.
+
+Jorn, eager to prove himself after his last failure, asks to make a Might test using the Lead skill, representing tying a rope around his waist to drag his weaker friends over the tallest dunes. The Director likes the idea but doesn't think the Lead skill applies to the task. They tell Jorn that Lift is more appropriate, since the tactician is using his physical skill to aid his friends and not really doing anything interpersonal. Jorn agrees, and the Director sets the test at medium difficulty. Making the test with a bane because of his previous failure, the tactician rolls a 15, which is a success with a consequence. The montage test has 5 successes and 1 failure, but the consequence gives the Director another 2 Malice at the start of the next combat encounter.
+
+Since the group needs only one more success to achieve total success, Karrel says she'd like to assist Val in whatever task she decides to take on. Val wants to recall lore about the Khem-hor—the inhabitants of the Infinite Desert—to remember their time-honored travel techniques using the History skill. Karrel has the Culture skill, which she can use to assist by providing information about the lives and society of the Khem-hor. She makes a Reason test to assist and gets a 16, granting Val an edge on her upcoming test.
+
+Val attempts to recall lore about the Khem-hor, wanting to know if she can remember any of their travel from her studies of the history of the region. The Director has her make a hard Reason test with an edge, thanks to Karrel's input on the current state of Khem-hor culture. Val gets a 17, and the Director decides that the conduit recalls a shortcut through a canyon tunnel that leads directly to Ahset, avoiding a vast lake of quicksand. The heroes get their sixth success in the montage test, achieving total success, and earn 2 Victories.
+
+##### Other Options
+
+The heroes could have attempted other tests during their travels, such as an Agility test using the Sneak skill to lead the group through dangerous shortcuts in the desert without being seen or waylaid by predators, a Reason test using the Nature skill to find enough food and water to keep the group hydrated and fed, or a Presence test using the Music skill to inspire allies to travel faster with song.
+
+# Combat
+
+When the heroes face a problem that can be solved only with action, or when they come up against creatures who want to harm them, it's time to throw down!
+
+### Set the Map
+
+When combat begins, the Director should position miniatures or tokens on a gridded map to represent the environment, the heroes, their foes, and any other creatures in the battle.
+
+> **How Big is a Square?**
+>
+> It's helpful to know how big a square is for abilities and features that heroes and NPCs can use outside of combat. By default, a square is 5 feet on all sides. But the Director can change this measurement to 2 yards, 2 meters, 1 meter, or any other measurement you prefer, as long as that scale stays consistent throughout your game.
+
+#### Size and Space
+
+A creature's size indicates how many squares they occupy during combat, which defines the creature's space. If a creature's size is 1, they occupy a space of 1 square. If a creature is larger than 1 square, their size equals the number of squares they take up in length, width, and height. For example, a horse has a size of 2, which means that during combat, they occupy a space that is 2 squares long, 2 squares wide, and 2 squares high. You could also think of that space as a cube that is 2 squares on all sides.
+
+The minimum amount of space a creature can take up during combat is 1 square, but size 1 creatures can run the range from tiny pixies to small polders, medium humans, and large hakaan. As such, for creatures of size 1, that size is further broken down as 1T, 1S, 1M, or 1L—abbreviations for tiny, small, medium, and large. Size 1T is one size smaller than size 1S, two sizes smaller than 1M, three sizes smaller than 1L, and four sizes smaller than size 2. If a mechanic mentions size 1 creatures, that mechanic applies to all creatures of size 1.
+
+Objects also have a size rating, which usually indicates how many squares they occupy. Some objects are identified as having an irregular size, with that size instead representing the object's mass and weight relative to a creature of the same size. If a mechanic mentions objects of a certain size, that mechanic includes all objects of that size, including irregular objects.
+
+The Creature Sizes table shows example sizes for creatures up to size 5, but larger sizes are possible. There is no limit to what a creature's size might be.
+
+###### Creature Sizes Table
+
+| Size | Example Creature |
+| ---- | ---------------- |
+| 1T   | Pixie            |
+| 1S   | Polder           |
+| 1M   | Human            |
+| 1L   | Hakaan           |
+| 2    | Ogre             |
+| 3    | Shambling mound  |
+| 4    | Hill giant       |
+| 5    | Omen dragon      |
+
+#### Sides
+
+Every combat encounter is a conflict between two sides. The heroes and any of their allies are one side, controlled by the players. Any creatures who oppose the heroes are the other side, controlled by the Director. All creatures who oppose the heroes are on the same side, even if those creatures also oppose each other. For example, if the heroes are battling a group of bandits when a kingfissure worm suddenly bursts into the fray to devour player characters and brigands alike, the worm is still on the side of the bandits for the purpose of the game's combat rules.
+
+> **NPC Allies**
+>
+> If an NPC ally fights alongside the heroes, the Director should give the players the ally's stat block and let them control the NPC during combat. The Director has enough to worry about. As well, any missteps, mistakes, or triumphs the ally makes will be thanks to the decisions of the players and not the Director, which can make the outcome of the battle more satisfying for the players.
+
+### Combat Round
+
+Combat takes place over a series of combat rounds. During a combat round, each creature in the battle takes a turn. Once every creature has taken a turn, a new round begins.
+
+#### When Does Combat Start?
+
+Combat starts as soon as one creature intends to harm another, or when some environmental effect is in a position to deal damage to or impose other negative effects on one or more creatures. This means that even before the action happens, a hero can't use a heroic ability without spending their Heroic Resource on it, because combat has already begun!
+
+#### Determine Surprise
+
+When battle starts, the Director determines which creatures, if any, are caught off guard. Any creature who isn't ready for combat at the start of an encounter is surprised until the end of the first combat round. A surprised creature can't take triggered actions or free triggered actions, and ability rolls made against them gain an edge.
+
+For example, if the heroes sneak up unnoticed on a camp of marauders and attack, each marauder is surprised. Likewise, if the heroes fail to notice that all the cloaked figures in a tavern are actually brain-devouring zombies, then the heroes are surprised. If one of the heroes notices the disguised undead before the zombies attack but has no opportunity to warn their allies, that hero isn't surprised but the rest of the characters are.
+
+#### Determine Who Goes First
+
+Sometimes figuring out who gets to take the first turn in combat is automatic. If all the creatures on one side are surprised, then a creature on the other side gets to act first. But if both sides have creatures who aren't surprised, the Director or a player they choose rolls a d10. On a 6 or higher, the players determine who goes first—the heroes' side or the other side. Otherwise, the Director decides which side goes first.
+
+#### Creatures Take Turns
+
+Whichever side goes first chooses a creature (or sometimes a group of creatures on the Director's side) to act at the start of combat. Whenever the rules talk about a creature acting in combat, that creature gets to take their turn. When that turn is over, the other side chooses a creature to act. Play continues back and forth this way as each creature takes their turn.
+
+Unless an ability or special rule allows them to do so, any creature who has taken a turn during a combat round can't act again until a new round begins. To help track which creatures have already acted in the current round, each creature can have a coin, token, or card they flip over on the table, or some kind of flag they set on their virtual tabletop token, once they've taken a turn. That way, all the players know who has already acted and who hasn't.
+
+In many encounters, a point comes when one side has creatures who haven't acted yet but all the creatures on the other side have. The creatures who have yet to act get to take their turns in any order they choose, without turns in between from the other side. For example, consider four heroes taking on six enemies. When all four heroes have taken their turns and four of the enemies have taken theirs, the two enemies who are left take their turns one after the other to end the round.
+
+##### Determining Who Acts Next
+
+When it comes to the heroes' side, the choice of who should act next is intended to give players the opportunity to comment, strategize, and plan. Some tables, in some encounters, might find that the choice of who should act next isn't obvious, leading to debate. That's fine. Deliberating about what the group should do next is classic roleplaying.
+
+In general, though, most groups find that it's usually only one or two players in a given round who think it best if they act next. And as soon as those players explain why they want to act next and what they plan on doing, the issue is quickly resolved.
+
+##### Argument Timer
+
+If the players do end up arguing in circles about what to do next, the Director can place a timer on the discussion. Usually, giving the players a warning and 30 seconds to decide who goes next does the trick. If they can't choose by the end of that time, the Director chooses a hero to act.
+
+> **Alternative Turn Order**
+>
+> If planning everyone's turn order isn't fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an Agility test, then record the totals. When it's time for someone on the heroes' side to act, the hero with the highest total goes first. On the next hero turn, the hero with the second-highest total takes their turn, and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied Agility tests to determine who among the tied creatures acts before the others.
+>
+> At the Director's discretion, a hero can swap their turn in the order with another willing hero at the start of a new combat round. This allows certain abilities that interact with the core turn order system, such as the shadow's Hesitation Is Weakness ability, to better work with this alternative system.
+
+##### Enemies Act In Groups
+
+Director-controlled creatures act in groups, with information for building groups found in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*. When a group of enemies acts, the Director chooses a single creature or minion squad to take a turn. Once that turn is over, the Director chooses another creature in that group to take a turn, continuing until all members of the group have taken their turn.
+
+#### End of Round
+
+Once all creatures on both sides of a battle have acted, the combat round ends and a new combat round begins. The side whose members acted first during the initial combat round goes first in all subsequent rounds.
+
+### Taking a Turn
+
+Each creature in combat—whether hero, adversary, or something in between—gets to take a **main action**, a **maneuver**, and a **move action** on their turn (explained later in this chapter). Each combatant can perform their maneuver and main action in any order, and can break up the movement granted by their move action before, after, or between their maneuver and main action however they like. You can also turn your main action into a move action or a maneuver, so that your turn can alternatively consist of two move actions and a maneuver, or two maneuvers and a move action.
+
+The [Movement](#page-281-3) section below breaks down how your move action works, while the [Maneuvers](#page-287-0) and [Main Actions](#page-288-0) sections break down the baseline maneuvers and main actions your character can undertake. For any activities not specifically covered in those rules, such as cutting down a chandelier to drop on enemies, the Director decides whether such an activity is a maneuver or a main action.
+
+#### Triggered Actions and Free Triggered Actions
+
+Your hero might have one or more unique triggered actions, each of which has a specified trigger that allows the action to be used. You can use one triggered action per round, either on your turn or another creature's turn, but only when the action's trigger occurs. For instance, a fury hero can use the Lines of Force triggered action to force move a target, but only after an enemy has first tried to force move the fury or another nearby creature.
+
+A free triggered action follows the same rules as a triggered action, but it doesn't count against your limit of one triggered action per round. For instance, a shadow hero can use their Hesitation Is Weakness ability to take their turn in response to the trigger of another hero ending their turn. But because that ability is a free triggered action, the shadow can still use their In All This Confusion triggered action later in the round.
+
+If multiple triggered actions occur in response to the same trigger, any heroes and other player-controlled creatures taking a triggered action or a free triggered action decide among themselves which of those triggered actions are resolved first. Then the Director decides the same for creatures they control.
+
+Any effect that prevents you from using triggered actions also prevents you from using free triggered actions.
+
+#### Free Maneuvers
+
+Boring stuff like opening an unlocked door, picking up an arrow from the ground, giving an object to an adjacent ally, or drawing a weapon doesn't require a maneuver or a main action. Rather, you can undertake such straightforward activities as free maneuvers on your turn. A free maneuver follows the same rules as a regular maneuver, but you can typically take as many free maneuvers as you like.
+
+At the Director's discretion, circumstances could make something that is typically boring more impactful and exciting. For instance, if you need to pick a magic arrow up off the ground during a violent earthquake, what would otherwise be a free maneuver could require a maneuver or a main action to accomplish.
+
+Likewise, the nature of an activity might make it too complicated for a free maneuver. For example, picking up the body of an unconscious talent ally to carry them to safety can probably be done as a free maneuver. But if your Might is lacking and you need to pick up a tactician ally decked out in the Shining Armor kit, the Director might determine that you need to use a regular maneuver to hoist their armored form over your shoulders.
+
+Any effect that prevents you from using maneuvers also prevents you from using free maneuvers.
+
+#### No-Action Activities
+
+Free maneuvers cover most of the simple activities you might want to undertake on your turn. When it isn't your turn, you can typically undertake even simpler activities requiring no action with the Director's approval. For instance, shouting out a warning to an ally or dropping an item so another creature can pick it up require no action.
+
+The Director can limit what kinds of no-action activities you can attempt when it isn't your turn. For instance, shouting out a warning about an unseen foe to an ally on the ally's or the foe's turn requires no action. But the Director might stop you from giving that ally complex tactical advice when it isn't your turn, saying that doing so instead requires a free maneuver on your turn.
+
+### Movement
+
+During combat, creatures can employ multiple mechanics that allow them to move around the battlefield. The most common of those mechanics is the Advance or Disengage move action (detailed under [Move Actions](#page-286-3) below), but abilities granted by your class, equipment, ancestry, title, or other options might allow you other ways to move.
+
+Your hero starts with a speed granted by their ancestry—usually 5. This represents the maximum number of squares you can move when you take the move action or when another effect allows you to move. Your speed can be increased by your kit and other game options.
+
+All squares adjacent to your character cost 1 movement to move into. No, there's no Pythagorean theorem on the grid. It's a game, don't overthink it.
+
+Your hero can move freely through an ally's space. You can move through an enemy's space, but that space is difficult terrain (see below). You can't stop moving in any other creature's space, including to make a strike or use a main action or maneuver while in that space and then continuing your move, unless that creature's size is two or more sizes greater or smaller than your own.
+
+At the Director's discretion, you can be forced into the same space as another creature whose size is within 1 of yours, such as by falling down a narrow shaft with such a creature already at the bottom. When you are squeezed into the same space as another creature whose size is within 1 of yours, your ability rolls and tests take a bane.
+
+#### Can't Exceed Speed
+
+A single move or other effect can never allow a creature to move more squares than their speed, unless the effect states otherwise. For example, a creature with speed 5 might have that speed reduced to 2 by the slowed condition (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)). If an ally then targets them with an effect that allows them to move up to 3 squares, the creature can move only 2 squares because that's their current speed.
+
+#### Can't Cut Corners
+
+A creature can't move diagonally when doing so would involve passing through the corner of a wall or some other object that completely fills the corner between the creature's space and the space they are moving to. This rule applies only to moving past objects, not moving past other creatures.
+
+**<span class="steel-compendium-ability">Cut Corners</span>**
+
+The tactician moves 3 squares to exit the building without cutting corners. The war dog eviscerite can't move around the side of the building in just 2 squares of movement, since they'd have to cut a corner to do so.
+
+#### Shifting
+
+Shifting is a careful form of movement that allows a creature to move safely past dangerous foes. Certain abilities, features, and other rules allow you to shift a specific number of squares, sometimes up to your speed. Whenever you shift, creatures can't make opportunity attacks against you triggered by that movement (see [Opportunity Attacks](#page-289-4) later in this chapter).
+
+You can't shift into or while within difficult terrain or damaging terrain (see below). If a rule allows you to shift, you can choose to instead move up to the number of squares you would have shifted (for example, to get out of difficult terrain). However, you can't combine moving and shifting within that movement.
+
+#### Movement Types
+
+Creatures in the game can use eight types of movement: walk, burrow, climb, swim, jump, crawl, fly, and teleport.
+
+##### Walk
+
+Walking is the most common movement type, whether it refers to ambulating on legs, rolling, slithering, or some other default method of movement. Unless specified otherwise, all creatures can move over solid horizontal ground without any problem.
+
+##### Burrow
+
+A creature who has "burrow" in their speed entry, or who gains the temporary ability to burrow, can move through dirt horizontally, and either has the means to breathe while doing so or doesn't require air to live. Such creatures can't move through more solid ground, such as stone, unless their stat block or the effect that lets them burrow says otherwise. Similarly, a burrowing creature doesn't leave a tunnel unless the rules say so.
+
+###### Dig Maneuver
+
+It takes extra effort to dig vertically through the ground as opposed to tunneling horizontally, requiring a creature to use a special maneuver. To use the Dig maneuver, a creature must have "burrow" in their speed entry, they must have a speed that is equal to or greater than their size, and they must be touching terrain that can be burrowed through.
+
+When a creature uses the Dig maneuver, they can move vertically up to a number of squares equal to their size. If a burrowing creature has a creature who is not unconscious grabbed, they can't willingly move deeper into the ground. It's too difficult to dig with a flailing enemy in your claws.
+
+###### Targeting Burrowing Creatures
+
+If you are on the ground, you have line of effect to a burrowing creature if that creature occupies 1 or more squares of terrain that can be burrowed through and that touch the ground, and if you have line of effect to any of those squares. The burrowing creature gains the benefit of cover from you.
+
+If you are completely beneath the ground while burrowing, you don't have line of effect to any creature on the surface unless a rule states otherwise.
+
+If you are completely beneath the ground while burrowing and are adjacent to another creature who is burrowing, you have line of effect to that creature, though you both have cover from each other.
+
+You can't gain the benefit of high ground (see below) against creatures who are completely beneath the ground while burrowing.
+
+###### Non-Burrowing Creatures
+
+If you are on the ground and adjacent to a creature who is beneath the ground while burrowing, you can use a maneuver to pull that creature up 1 square out of the ground, provided the creature is willing.
+
+If a creature who can't burrow wants to dig into the ground, they can use the following ability provided their speed is 2 or more.
+
+**<span class="steel-compendium-ability">Claw Dirt</span>**
+
+| **-**       | **Maneuver** |
+| ----------- | -----------: |
+| **📏 Self** |  **🎯 Self** |
+
+**Power Roll + Might:**
+
+- **≤11:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are slowed and weakened (EoT).
+- **12-16:** You can use your main action this turn to move 1 square into, out of, or through ground you are touching that can be burrowed through, and you are slowed (EoT).
+- **17+:** You can move 1 square into, out of, or through ground you are touching that can be burrowed through.
+
+###### Burrowing Forced Movement
+
+While a creature who is completely beneath the ground while burrowing is force moved by movement that isn't vertical, they aren't moved, and they take 1 damage for each square they would have been force moved. If the forced movement is vertical, the creature is moved through the dirt as is if were air.
+
+##### Climb or Swim
+
+A creature who has "climb" in their speed entry, or who gains the temporary ability to automatically climb, can climb across vertical and horizontal surfaces at full speed. Likewise, a creature who has "swim" in their speed entry, or who gains the temporary ability to automatically swim, can swim in liquid at full speed.
+
+Creatures without those types of movement can still climb or swim when a rule allows them to move, but each square of climbing or swimming costs 2 squares of movement. If a surface is difficult to climb (for instance, a sheer cliff or ice-covered wall) or a liquid is hard to swim through (a raging river or whirlpool), the Director can call for a Might test. On a failure, a creature can't climb or swim but wastes no movement in the attempt. The Director can also impose other consequences to failure, such as being caught in the spinning current of a whirlpool.
+
+###### Climbing Other Creatures
+
+You can attempt to climb a creature whose size is greater than yours. If the creature is willing, you can climb them without any trouble. If the creature is unwilling, you make the following test:
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** You fail to climb the creature, and they can make a free strike against you.
+- **12-16:** You fail to climb the creature.
+- **17+:** You climb the creature.
+
+While you climb or ride a creature, you gain an edge on melee abilities used against them. The creature can use a maneuver to attempt to knock you off, forcing you to make the following test:
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** You fall off the creature into an unoccupied adjacent space of your choice, taking falling damage and landing prone as usual (see [Falling](#page-283-3) below).
+- **12-16:** You slide down the creature into an unoccupied adjacent space of your choice and don't land prone.
+- **17+:** You continue to hold on to the creature.
+
+If you are knocked prone while climbing or riding a creature, you fall and land prone in an adjacent space of your choice, taking damage as usual from the fall.
+
+##### Jump
+
+Whenever an effect allows you to move (including using the Advance move action), you can automatically long jump a number of squares up to your Might or Agility score (your choice; minimum 1 square) as part of that movement. The height of your jump is automatically 1 square as part of that movement.
+
+If you want to jump even longer or higher than your baseline jump allows, make a Might or Agility test:
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** You don't jump any farther than your baseline jump allows.
+- **12-16:** You jump 1 square longer and higher than your baseline jump allows.
+- **17+:** You jump 2 squares longer and higher than your baseline jump allows.
+
+You can't jump farther or higher than the distance of the effect that allows you to move. You can't jump out of difficult terrain or damaging terrain (see below).
+
+##### Crawl
+
+If you are prone (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)), you can remain prone and crawl on the ground. Doing so costs you 1 additional square of movement for every square you crawl. If you intentionally want to crawl, you can fall prone as a free maneuver. While voluntarily prone, you can choose to stand as a free maneuver.
+
+##### Fly
+
+A creature who has "fly" in their speed entry, or who gains the temporary ability to fly, can move through the air vertically or horizontally at full speed and remain in midair. If a flying creature is knocked prone or has their speed reduced to 0, they fall (see [Falling](#page-283-3) below).
+
+##### Hover
+
+A creature who has "hover" in their speed entry (most commonly alongside "fly" or "teleport"), or who gains the temporary ability to hover, can remain motionless in midair. They don't fall even if they are knocked prone or their speed is reduced to 0.
+
+##### Teleport
+
+When a creature teleports, they move from one space to another space instantaneously. The following rules apply to teleporting:
+
+- Teleporting doesn't provoke opportunity attacks or other effects that are triggered by a creature moving.
+- When a creature teleports, they bypass any obstacles between the space they leave and their destination space.
+- A creature teleporting themself must have line of effect to their destination space. A creature teleporting another creature must have line of effect from the space the teleported creature leaves and to their destination space.
+- A teleporting creature's destination space can't be occupied by another creature or object.
+- The effect that lets a creature teleport indicates how far they can teleport. That distance can be greater than the creature's speed.
+- If a creature can teleport as part of their usual movement, they can use the Advance move action to teleport a number of squares up to their usual speed, unmodified by conditions or effects.
+- If a creature teleports while prone, they can be standing when they reach their destination space provided they are able to stand. If a prone creature is teleported by another creature, it is up to that creature whether the teleported creature remains prone or stands if they are able.
+- If you teleport while affected by the grabbed or restrained conditions, those conditions end for you.
+- When a creature teleports, they must leave the space where they start and enter a new space. A creature can't teleport to and from the same space.
+
+#### Falling
+
+When a creature falls 2 or more squares and lands on the ground, they take 2 damage for each square they fall (to a maximum of 50 damage) and land prone. A creature who falls can reduce the effective height of the fall by a number of squares equal to their Agility score (to a minimum of 0). Falling into liquid that is 1 square or more deep reduces the effective height of a fall by 4 squares (to a minimum of 0).
+
+Falling is not forced movement, but being force moved downward is considered falling (see [Falling](#page-283-3) below). Movement from falling doesn't provoke opportunity attacks (see [Opportunity Attacks](#page-289-4) below).
+
+##### Falling Onto Another Creature
+
+A creature who falls and lands on another creature causes that creature to take the same damage from the fall. The falling creature then lands prone in the nearest unoccupied space of their choice. If the falling creature's size is greater than the Might score of the creature they land on, that creature is knocked prone.
+
+##### Falling Far
+
+When a creature first falls from a great height, they fall 100 squares in the first round. At the end of each subsequent round that they remain falling, they fall another 100 squares.
+
+#### Difficult Terrain
+
+Areas of thick underbrush, rubble, spiderwebs, or other obstacles to movement create difficult terrain. It costs 1 additional square of movement to enter a square of difficult terrain.
+
+#### Damaging Terrain
+
+Areas of acid, fire, sharp rocks, lava, or any other terrain that causes damage to creatures within it is damaging terrain. The damage dealt by damaging terrain is noted in the terrain's description or in the description of the effect that creates the terrain.
+
+#### High Ground
+
+Whenever a creature uses an ability to target a creature or object while standing on the ground and occupying a space that is fully above the target's space, they gain an edge on the power roll against that target. To be fully above a target, the bottom of a creature's space must be higher than or bordering on the top of the target's space.
+
+A creature can gain this benefit while climbing only if they have "climb" in their speed entry or can automatically climb at full speed while moving.
+
+#### Forced Movement
+
+Some actions and maneuvers allow a creature to push, pull, or slide a target creature or object a specific distance across the battlefield. Collectively, these types of movement are called forced movement.
+
+- **Push X:** The creature moves the target up to X squares away from them in a straight line, without moving them vertically. Each square the creature moves the target must put the target farther away from them.
+- **Pull X:** The creature moves the target up to X squares toward them in a straight line, without moving them vertically. Each square the creature moves the target must bring the target closer to them.
+- **Slide X:** The creature moves the target up to X squares in any direction, except for vertically. Unlike a push or a pull, a slide doesn't need to be a straight line.
+
+When you force move a target, you can always move that target fewer squares than the number indicated. For example, when the conduit obtains a tier 3 "push 3" outcome with their Call the Thunder Down ability, they can push targets any distance up to 3 squares, including choosing to not move certain targets at all.
+
+Forced movement ignores difficult terrain and never provokes opportunity attacks. When you force move a target into damaging terrain or into terrain that produces an effect, they are affected as if they had moved into it willingly.
+
+> **Multitarget Abilities and Forced Movement**
+>
+> Some creatures can force move multiple creatures or objects with a single ability. Unless the ability specifies otherwise, the creature using the ability determines the order in which the targets are force moved. The creature should select each target individually and complete their forced movement before force moving the next target affected.
+
+##### Vertical
+
+If a forced movement effect has the word "vertical" in front of it, then the forced movement can move a target up or down in addition to horizontally. For example, if a forced movement effect says "vertical push 5," then a creature targeted by the effect can be pushed up to 5 squares in any direction, as long as the forced movement is a straight line.
+
+If a creature who can't fly is left in midair at the end of a vertical forced move, they fall. Forced movement made against a creature who is flying is always a vertical forced move, whether or not the effect specifies it.
+
+Though you can't freely push, pull, or slide a target up and down unless that forced movement specifies "vertical," you can move them along a physical slope such as a hill or staircase. For a target to be force moved along a slope, each square of the slope can be no more than 1 square higher or lower than the previous square.
+
+##### Big Versus Little
+
+When a larger creature force moves a smaller target with a melee weapon ability, the distance of the forced movement is increased by 1. If a smaller creature force moves a larger target with a melee weapon ability, the distance doesn't change.
+
+##### Slamming into Creatures
+
+When you force move a creature into another creature, the movement ends and both creatures take 1 damage for each square remaining in the first creature's forced movement. You can also force move an object into a creature. The object's movement ends, and the creature takes 1 damage for each square remaining in the object's forced movement.
+
+It's possible to move a creature or object of a larger size into several creatures of a smaller size at the same time. When this happens, the larger creature in the collision takes damage only once, not once for each smaller creature they slam into.
+
+If a creature is killed by damage from an ability or effect that also force moves them, a second creature they are slammed into still takes damage unless the Director deems otherwise.
+
+You can force move another creature into yourself with a pull or a slide.
+
+##### Slamming Into Objects
+
+When a creature force moves a target into a stationary object that is the target's size or larger and the object doesn't break (see below), the movement ends and the target takes 2 damage plus 1 damage for each square remaining in their forced movement.
+
+If you force move a creature downward into an object that doesn't break (including the ground), they also take falling damage as if they had fallen the distance force moved and their Agility score was 0 (see [Falling](#page-283-3) above).
+
+> **Tracking Object Forced-Movement Damage**
+>
+> At the Director's discretion, mundane objects that are force moved into creatures or other objects take damage as if they were creatures. Sturdy objects can take damage as follows before they are destroyed:
+>
+> - **Wood object:** 3 damage for each square it occupies
+> - **Stone object:** 6 damage for each square it occupies
+> - **Metal object:** 9 damage for each square it occupies
+>
+> More fragile objects are destroyed after taking any damage.
+
+##### Hurling Through Objects
+
+When you move a creature into a mundane object, the object can break depending on how many squares of forced movement remain. The cost of being slammed into an object is tied to the damage a target takes for being hurled through it:
+
+- It costs 1 remaining square of forced movement to destroy 1 square of glass. The creature moved takes 3 damage.
+- It costs 3 remaining squares of forced movement to destroy 1 square of wood. The creature moved takes 5 damage.
+- It costs 6 remaining squares of forced movement to destroy 1 square of stone. The creature moved takes 8 damage.
+- It costs 9 remaining squares of forced movement to destroy 1 square of metal. The creature moved takes 11 damage.
+
+If any forced movement remains after the object is destroyed, you can continue to move the creature who destroyed the object.
+
+##### Forced Into a Fall
+
+If you can't fly and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when the foced movement ends, you fall.
+
+##### Stability
+
+Each creature has a stability that allows them to resist forced movement. When a creature is force moved, they can reduce that movement up to a number of squares equal to their stability. Heroes start with stability 0 and can increase their stability through ancestry, class, and kit options.
+
+A creature's stability can't be less than 0, even when reduced by a penalty.
+
+##### "When a Creature Moves …"
+
+Certain abilities and effects trigger when a creature moves into a particular area. Forced movement triggers these options unless otherwise noted, including an effect stating that a creature must willingly move to trigger it.
+
+##### Death Effects and Forced Movement
+
+Some creatures have traits or abilities that trigger when they die or are reduced to 0 Stamina. If such a creature is reduced to 0 Stamina by damage from an ability or effect that also force moves them, the forced movement takes place before the triggered effect.
+
+### Move Actions
+
+A move action allows a creature to move around the battlefield. Sometimes you'll already be exactly where you want to be so that you don't need to use a move action on your turn. That's okay! The decision to not move is just as tactical as the decision to move.
+
+#### Advance
+
+When a creature takes the Advance move action, they move a number of squares up to their speed. They can break up this movement with their maneuver and main action however they wish.
+
+#### Disengage
+
+When a creature takes the Disengage move action, they can shift 1 square. Certain class features, kits, and other rules allow a creature to shift more than 1 square when they disengage. A creature who does so can break up their shift with their maneuver and main action however they wish.
+
+#### Ride
+
+A creature can take the Ride move action only while mounted on another creature (see [Mounted Combat](#page-293-0) below). When a creature takes the Ride move action, they cause their mount to move up to the mount's speed, taking the rider with them. Alternatively, a creature can use the Ride move action to have their mount use the Disengage move action as a free triggered action. A creature can use the Ride move action only once per round. A mounted creature can only have this move action applied to them once per round. This movement can be broken up with the rider's maneuver and main action however they wish.
+
+### Maneuvers
+
+A maneuver typically involves less focus and exertion than a main action (see below). It can be an opportunity to move other creatures, drink a potion, or undertake similar activities.
+
+Sometimes you might not have anything you can do with your maneuver. That's totally fine! Often, the best thing to do on your turn is take a main action and move on.
+
+#### Aid Attack
+
+A creature who uses the Aid Attack maneuver chooses an enemy adjacent to them. The next ability roll an ally makes against that enemy before the start of the aiding creature's next turn gains an edge.
+
+#### Catch Breath
+
+A creature who uses the Catch Breath maneuver spends a Recovery and regains Stamina equal to their recovery value. (See below for [Stamina.](#page-291-0) See [Recoveries](#page-21-3) in [Chapter 1: The Basics](#page-17-3).)
+
+A creature who is dying (see [Dying and Death](#page-292-1) in [Stamina](#page-291-0) below) can't use the Catch Breath maneuver, but other creatures can help them spend Recoveries in other ways.
+
+#### Escape Grab
+
+A creature who is grabbed by another creature, an object, or an effect (see [Grab](#page-287-5) below) can attempt to escape by using the following ability.
+
+**<span class="steel-compendium-ability">Escape Grab</span>**
+
+| **-**       | **Maneuver** |
+| ----------- | -----------: |
+| **📏 Self** |  **🎯 Self** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** No effect.
+- **12-16:** You can escape the grab, but if you do, a creature who has you grabbed can make a melee free strike against you before you are no longer grabbed.
+- **17+:** You are no longer grabbed.
+
+**Effect:** You take a bane on this maneuver if your size is smaller than the size of the creature, object, or effect that has you grabbed.
+
+See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the grabbed condition.
+
+#### Grab
+
+A creature seeking to keep a foe close and locked down can attempt to grab a creature using the following ability.
+
+**<span class="steel-compendium-ability">Grab</span>**
+
+| **Melee, Weapon** |        **Maneuver** |
+| ----------------- | ------------------: |
+| **📏 Melee 1**    | **🎯 One creature** |
+
+**Power Roll + Might:**
+
+- **≤11:** No effect.
+- **12-16:** You can grab the target, but if you do, the target can make a melee free strike against you before they are grabbed.
+- **17+:** The target is grabbed by you.
+
+**Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
+
+Unless otherwise indicated, a creature can grab only one creature at a time.
+
+See [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2) for information on the grabbed condition.
+
+#### Hide
+
+Using the Hide maneuver, a creature attempts to hide from other creatures who aren't observing them while they have cover or concealment. See Hide and Sneak in Chapter 9: Tests for full details.
+
+#### Knockback
+
+A creature wanting to push an adjacent creature away from them can attempt to shove that creature using the following ability.
+
+**<span class="steel-compendium-ability">Knockback</span>**
+
+| **Melee, Weapon** |        **Maneuver** |
+| ----------------- | ------------------: |
+| **📏 Melee 1**    | **🎯 One creature** |
+
+**Power Roll + Might:**
+
+- **≤11:** Push 1
+- **12-16:** Push 2
+- **17+:** Push 3
+
+**Effect:** You can usually target only creatures of your size or smaller. If your Might score is 2 or higher, you can target any creature with a size equal to or less than your Might score.
+
+#### Make or Assist a Test
+
+Many tests are maneuvers if made in combat. Searching a chest with a Reason test, picking a door's lock with an Agility test, or lifting a portcullis with a Might test would all be maneuvers. Assisting a test is also a maneuver in combat (see Assist a Test in Chapter 9: Tests).
+
+Complex or time-consuming tests might require a main action if made in combat—or could take so long that they can't be made during combat at all. Other tests that take no time at all, such as a Reason test to recall lore about mummies, are usually free maneuvers in combat. The Director has the final say regarding which tests can be made as maneuvers.
+
+#### Search for Hidden Creatures
+
+The Search for Hidden Creatures maneuver allows a creature to attempt to locate creatures hidden from them (see Hide and Sneak in Chapter 9: Tests).
+
+#### Stand Up
+
+A creature can use the Stand Up maneuver to stand up if they are prone, ending that condition. Alternatively, they can use this maneuver to make a willing adjacent prone creature stand up.
+
+#### Use Consumable
+
+Unless otherwise noted in its description, a creature can activate a consumable treasure such as a potion with the Use Consumable maneuver. A creature can use this maneuver to administer a consumable treasure that benefits the user either to themself or to a willing adjacent creature. See [Consumables](#page-328-0) in [Chapter 13: Rewards](#page-327-1).
+
+### Main Actions
+
+When you take a main action, you most often do so to use a unique ability granted by your class, kit, or a treasure (see [Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2)). These abilities represent the most unique, flavorful, and impactful things you can do with your main action.
+
+You can also use your main action to catch your breath, help another creature regain Stamina, charge into battle, defend yourself, or make a free strike.
+
+You can convert your main action into a maneuver or a move action, allowing you to take two maneuvers or move actions on your turn.
+
+#### Charge
+
+When a creature takes the Charge main action, they move up to their speed in a straight line, then make a melee free strike (see [Free Strikes](#page-289-1) below) against a target when they end their move. If the creature has an ability with the Charge keyword, they can use that ability against the target instead of a free strike.
+
+A creature can't move through difficult terrain or shift when they charge. They can fly or burrow as part of the Charge main action if they have that movement available to them, but they can't climb or swim while charging unless they can automatically use that movement at full speed.
+
+#### Defend
+
+When a creature takes the Defend main action, ability rolls made against them have a double bane until the start of their next turn. Additionally, you have a double edge on tests when called for to resist environmental effects or a creature's traits or abilities. A creature gains no benefit from this action while another creature is taunted by them (see [Conditions](#page-91-2) in [Chapter 5: Classes](#page-83-2)).
+
+#### Free Strike
+
+A creature can use this main action to make a free strike (see [Free](#page-289-1) [Strikes](#page-289-1) below). Most of the time, you'll want to use the more impactful main actions granted by your class, kit, or other feature, just as the Director will use the main actions in a creature's stat block, but free strikes are available for when all else fails. For instance, a fury who has no other options for ranged strikes might use the Ranged Weapon Free Strike ability with an improvised weapon when battling a flying foe.
+
+#### Heal
+
+A creature who uses the Heal main action employs medicine or inspiring words to make an adjacent creature feel better and stay in the fight. The target creature can spend a Recovery to regain Stamina, or can make a saving throw against one effect they are suffering that is ended by a saving throw.
+
+### Free Strikes
+
+Every creature can use a free strike ability as a main action on their turn, though doing so typically isn't the most effective choice. Most of the time, you'll use free strikes when the rules call for it. Specific rules let you use free strikes as part of an action that allows you to also do something else impactful, such as how the Charge main action lets you move and use a melee free strike in one main action (see Charge above).
+
+Many rules and abilities allow heroes to make free strikes when it isn't their turn, such as the tactician's Overwatch ability. As well, all characters can make an opportunity attack free strike.
+
+#### Granted Abilities
+
+Some abilities, such as the tactician's Strike Now or I'll Open and You'll Close abilities, allow another creature to use a signature ability or heroic ability when it isn't their turn. Unless otherwise stated, a creature can always use a free strike instead of a granted signature ability or heroic ability.
+
+#### Opportunity Attacks
+
+Whenever a creature has an enemy adjacent to them and the enemy willingly moves to a space that isn't adjacent to the creature without shifting, the creature can take advantage of that movement to quickly make a melee free strike against the enemy as a free triggered action. This is called an opportunity attack.
+
+If a creature has a bane or double bane on the power roll against the enemy, they can't make an opportunity attack.
+
+#### Standard Free Strikes
+
+Every hero has two standard free strike abilities available to them. Your class might give you additional free strike options, and your kit can improve the standard options (see [Chapter 6: Kits](#page-231-0)).
+
+A melee weapon free strike is a melee strike made with an unarmed strike or an improvised weapon. A ranged weapon free strike is a ranged strike made with an improvised weapon. At the Director's discretion, the damage type of an improvised weapon can change based on the object used. For example, if you use a burning torch as an improvised weapon, it could deal fire damage when used for a free strike.
+
+**<span class="steel-compendium-ability">Melee Weapon Free Strike</span>**
+
+| **Charge, Melee, Stike, Weapon** |               **Main Action** |
+| -------------------------------- | ----------------------------: |
+| **📏 Melee 1**                   | **🎯 One creature or object** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 2 + M or A damage
+- **12-16:** 5 + M or A damage
+- **17+:** 7 + M or A damage
+
+**<span class="steel-compendium-ability">Ranged Weapon Free Strike</span>**
+
+| **Ranged, Stike, Weapon** |               **Main Action** |
+| ------------------------- | ----------------------------: |
+| **📏 Ranged 5**           | **🎯 One creature or object** |
+
+**Power Roll + Might or Agility:**
+
+- **≤11:** 2 + M or A damage
+- **12-16:** 4 + M or A damage
+- **17+:** 6 + M or A damage
+
+### Flanking
+
+When you and one or more allies are adjacent to the same enemy and on opposite sides of the enemy, you are flanking that enemy. While flanking an enemy, you gain an edge on melee strikes against them.
+
+If you're unsure whether your hero and an ally are flanking a foe, imagine a line extending from the center of your space to the center of your ally's space. If that line passes through opposite sides or corners of the enemy's space, then you and your ally are flanking the enemy.
+
+You must have line of effect to the enemy and be able to take triggered actions to gain or grant the flanking benefit.
+
+### Cover
+
+When you have line of effect to a creature or object but that target has at least half their form blocked by a solid object such as a tree, wall, or overturned table, the target has cover. You take a bane on damage-dealing abilities used against creatures or objects that have cover from you.
+
+### Concealment
+
+Darkness, fog, invisibility magic, and any other effect that fully obscures a creature or object but doesn't protect their physical form grants that creature or object concealment. Even if you have line of effect to such a target, a creature or object has concealment from you if you can't see or otherwise observe them. You can target a creature or object with concealment using a strike, provided they aren't hidden (see [Hide](#page-272-1) [and Sneak](#page-272-1) in [Chapter 9: Tests](#page-263-0)). However, strikes against such targets take a bane.
+
+#### Invisible Creatures
+
+Invisible creatures always have concealment from other creatures. If an invisible creature isn't hidden, they can still be targeted by abilities. The test made to find a hidden creature who is invisible takes a bane.
+
+### Damage
+
+Strikes, area attacks, environmental effects, and other hazards can all deal damage to the heroes and their foes. Whenever a creature takes damage, they reduce their Stamina (see below) by an amount equal to the damage taken.
+
+#### Damage Types
+
+Typical damage, such as that caused by weapons, falling, traps, and monstrous claws, has no type associated with it. That's because for most creatures, there's no difference in the amount of harm caused by being run through with a pike, dropped from a height onto a stone floor, slashed by a pendulum scythe, or skewered on a minotaur's horns.
+
+However, when it comes to elemental and supernatural damage sources, some creatures might have an immunity or weakness to that damage. As such, abilities and effects note when they deal any of the following damage types: acid, cold, corruption, fire, holy, lightning, poison, psychic, or sonic.
+
+##### Damage Immunity
+
+Damage immunity means that a creature can ignore some or all of the damage they would usually take from certain attacks or effects.
+
+Damage immunity might have a damage type associated with it, expressed as "[damage type] immunity." Damage immunity often has a value associated with it, so that one creature's stat block notes "damage immunity 5" (representing immunity to all damage), while another creature has "lightning immunity 5." Whenever a target with damage immunity takes damage of the indicated type, they can reduce the damage by the value of the immunity (to a minimum of 0 damage). If the value of the immunity is "all," then the target ignores all damage of the indicated type.
+
+Damage immunity should be the last thing applied when calculating damage. For instance, if your hero has fire immunity 5 and takes 8 fire damage, they take 3 damage. But if an ally first halved the damage with a triggered action, your hero would take 4 damage before immunity is applied, with immunity then reducing the damage to 0.
+
+If multiple damage immunities apply to a source of damage, only the immunity with the highest value applies. For instance, a creature with damage immunity 5 and fire immunity 10 who takes 12 fire damage reduces the damage by 10 points.
+
+##### Damage Weakness
+
+Damage weakness works like damage immunity, except that creatures take extra damage whenever they take damage of the indicated type. For instance, if a creature has fire weakness 5 and is dealt 10 fire damage, they take 15 fire damage instead.
+
+A creature who has "damage weakness X" with no specific type or keyword indicated has weakness of the indicated amount when they take damage of any type.
+
+If a creature has both damage immunity and damage weakness for a source of damage, apply the weakness first, then the immunity.
+
+If multiple damage weaknesses apply to a source of damage, only the weakness with the highest value applies.
+
+### Stamina
+
+Your hero's survivability is represented by your Stamina. Think of Stamina as a combination of a creature's physical vitality and their overall energy for dodging and resisting incoming blows, spells, and other violence. It's not that every instance of damage deals a bleeding wound to you, but that each one chips away at your ability to fight effectively. One attack might make you sweat as you leap back to avoid an arrow, while another might graze your elbow with a dagger nick, leaving a dull, distracting pain. Eventually, this draining of energy leaves you open for bigger blows that can truly harm your body—or possibly kill you.
+
+After any damage you take is reduced by damage immunity or other effects, your Stamina is reduced by an amount equal to the remaining damage. Some effects can also reduce your Stamina maximum, limiting the amount of Stamina you can regain.
+
+#### Recoveries and Recovery Value
+
+Each hero has a number of Recoveries determined by their class. A hero also has a recovery value that equals one-third of their Stamina maximum, rounded down. When you use the Catch Breath maneuver in combat (see [Maneuvers](#page-287-0) above), you spend a Recovery and regain Stamina equal to your recovery value. Outside of combat, you can spend as many Recoveries as you have remaining. Some abilities, items, and other effects allow you to spend a Recovery to regain Stamina equal to your recovery value plus a little extra (as described by the effect), or to regain Stamina without spending a Recovery.
+
+#### Winded
+
+Your winded value equals half your Stamina maximum. When your Stamina is equal to or less than your winded value, you are winded. Although being winded has no effects on its own, certain ancestry, class, item, title, and monster abilities affect winded creatures.
+
+You can tell when other creatures are winded and vice versa.
+
+#### Dying and Death
+
+When your Stamina is 0 or lower, you are dying. While dying, you can't use the Catch Breath maneuver in combat. Additionally, you are bleeding, and this instance of the condition can't be negated or removed in any way until you are no longer dying. While you are dying, you can still act, your allies can help you spend Recoveries in combat, and you can spend Recoveries out of combat as usual.
+
+While your Stamina is lower than 0, if it reaches the negative of your winded value, you die. When you die, you can't be brought back to life without the use of a special powerful item, such as a Scroll of Resurrection.
+
+#### Director-Controlled Creatures
+
+In most circumstances, Director-controlled creatures die or are destroyed when their Stamina drops to 0.
+
+##### No Recoveries
+
+Director-controlled creatures don't have Recoveries or a recovery value. Any such creatures who regain Stamina during a battle do so by way of a special item or an ability in their stat block. However, there are times when a hero might wish to use an ability that allows another creature to spend a Recovery or to regain Stamina equal to their recovery value on an injured NPC. In such cases, a Director-controlled creature regains Stamina equal to one-third of their Stamina maximum.
+
+#### Knocking Creatures Out
+
+If you damage a creature with an ability that would kill them, you can choose to instead knock them unconscious. If a creature takes damage while unconscious in this way, they die.
+
+Director-controlled creatures remain unconscious for 1 hour if no one does anything to wake them. They then gain 1 Stamina and are no longer unconscious.
+
+Heroes remain unconscious for 1 hour if no one does anything to wake them. After 1 hour, they can spend a Recovery and are no longer unconscious. If the hero has no Recoveries left, they can't wake up until they finish a respite.
+
+##### Unconscious
+
+While you are unconscious, you can't take main actions, maneuvers, triggered actions, free triggered actions, or free maneuvers; your speed is 0; you are unaware of your surroundings; and you are prone. Ability rolls against you have a double edge. If you wake up from being unconscious, you can stand up from prone as a free maneuver.
+
+#### Temporary Stamina
+
+Some abilities, treasures, and other effects grant a creature temporary Stamina. Temporary Stamina shouldn't be included in a creature's Stamina total when figuring out a creature's recovery value or winded value. If you have temporary Stamina while winded, dying, or dead, the temporary Stamina doesn't change those states.
+
+Whenever you take damage while you have temporary Stamina, the temporary Stamina decreases first, and any leftover damage is applied to your Stamina as usual. For instance, if you have 10 temporary Stamina and take 16 damage, you lose the temporary Stamina and then lose another 6 Stamina.
+
+There is no maximum to how much temporary Stamina you can have. Regaining Stamina can't restore temporary Stamina. If you have temporary Stamina and then gain more temporary Stamina, you get whichever amount of temporary Stamina is greater, rather than adding the two pools together. For instance, if an ability grants you 10 temporary Stamina when you already have 5, you have 10 temporary Stamina, not 15.
+
+Unless otherwise indicated, temporary Stamina disappears at the end of an encounter.
+
+#### Object Stamina
+
+Mundane objects in the game have Stamina based on the material they're made of. When an object's Stamina is reduced to 0, the object is destroyed. Objects have poison immunity all and psychic immunity all, though the Director can remove one or both of these immunities in the case of living objects, such as plants. A size 1 object or 1 square of a larger object made of common materials has Stamina as follows:
+
+- Glass: 1 Stamina
+- Wood: 3 Stamina
+- Stone: 6 Stamina
+- Metal: 9 Stamina
+
+The Director can decide that a well-made or poorly made object has more or less Stamina. Destroying a supernatural object often (but not always) requires a specific quest, such as throwing a magic ring back into the volcano where it was forged.
+
+### Underwater Combat
+
+If a creature is fully submerged in water, they have fire immunity 5 and lightning weakness 5. If they can't automatically swim at full speed while moving, their power rolls take a bane.
+
+### Suffocating
+
+During combat or under similarly stressful circumstances, you can hold your breath for a number of combat rounds equal to your Might score (minimum 1 round). At the end of each combat round after that, you take 1d6 damage while holding your breath.
+
+Out of combat, you can hold your breath for a number of minutes equal to your Might score. Being unable to breathe after that time counts as a stressful condition, causing you to run out of air as above.
+
+### Mounted Combat
+
+A willing creature with the Mount role (see Creature Roles in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*) can serve as your mount as long as their size is greater than yours. You can climb onto your mount freely (see [Climbing Other Creatures](#page-283-8) above). You determine which space you occupy. While mounted, you can take the Ride move action, but a mount can only be ridden this way once per round. Both mount and rider each take a turn during combat.
+
+If a creature riding a mount is force moved, they are knocked off the mount and must make a test to determine how they land (see [Climbing Other Creatures)](#page-283-8). If a mount is force moved, they carry any riders with them. Riders and mounts teleport separately.
+
+If your mount dies, they fall prone, and you fall off them and land prone in the nearest unoccupied space of your choice.
+
+### End of Combat
+
+At the end of combat, the Director determines if the heroes earn any Victories. Any effect or condition on you that you suffered during combat (except for being winded, unconscious, or dying) ends if you want it to.
+
+#### How Combat Ends
+
+The Director determines when a combat encounter is over. While some battles—especially showdowns with important villains—can be about a fight to the bitter end, many other encounters can become a tedious slog if the heroes need to fight until every last enemy's Stamina is reduced to 0.
+
+To avoid a battle dragging, the Director can set objectives when they build the encounter. Once the heroes achieve those objectives, or if it becomes clear that they can win the fight with minimal effort, the Director can end the encounter. They might do so by calling "Cut!" like a film director, or they can use some other phrase or indicator.
+
+When the Director ends combat this way, the players typically choose how the battle ends by narrating a dramatic finish. Or in rarer cases when the heroes achieve a major objective that sets off a story-defining event, the Director narrates the end of the battle with a positive outcome for the players, called an event ending (see below).
+
+#### Objective Endings
+
+While planning a combat encounter, the Director can set one or more objectives the heroes can achieve to end the encounter without dropping every last foe. Some broad categories of objectives are described in this section, but the Director should feel free to create their own. As well, Directors can always end combat anytime it becomes clear that the heroes are going to win an encounter with minimal effort, even if they haven't achieved all the objectives.
+
+Each of the objective endings in this section is explored in detail including looking at monster roles, map advice, success conditions, and more—in the Introduction section of *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*.
+
+##### Diminish Numbers
+
+The simplest combat encounter objective is almost always "defeat them before they defeat us." Though the heroes don't have to kill every last enemy in this type of encounter, winning the day requires that they push their opponents to the point where they are broken, flee, or surrender.
+
+##### Defeat a Specific Foe
+
+An encounter built around defeating a specific foe includes one or more of the heroes' enemies commanding the rest, such as a hobgoblin bloodlord leading a group of mercenaries, or one or more particularly powerful foes among a group of weaker ones, such as a pair of tusker demons in a gnoll war band. Because these more-powerful enemies are the stars of the encounter, if only weak foes are left once the stars are gone, the battle loses its challenge and it's time to wrap it up. It makes sense for those weaker foes to flee or surrender once their strongest allies have gone down.
+
+##### Get the Thing!
+
+Classic heroic fantasy is full of important objects that the heroes must protect from the forces of evil: magic rings, royal birth certificates, dragon eggs, and the like. Heroes often find themselves at violent odds with their enemies as they race to collect a valuable or important item from a guarded temple or castle, or when they need to steal the item from a group of enemies already in possession of it.
+
+Objectives in this category work well when paired with other objectives, such as defeating a specific foe. For instance, the heroes must steal a ledger containing a record of criminal activity from an overmind and her lackeys. However, even if they obtain the ledger, the battle won't be over until they also defeat the overmind, who won't let the book go without a fight!
+
+##### Destroy the Thing!
+
+Combat doesn't always have to be about destroying your enemies. Sometimes it's about destroying their stuff! Burning a pirate captain's vessel, closing a portal to the Abyssal Wasteland before it lets in an army of demons, or shutting down a massive kobold trap made of spinning blades could so hamper the heroes' foes that the battle is no longer worth fighting once the damage is done.
+
+##### Save Another
+
+No one earns the mantle of hero without saving a few lives. Sometimes the point of an encounter isn't to kill, but to save as many folks as you can. If the heroes rescue powerful allies from the clutches of their foes during combat, the added strength of those allies might be enough to make the remainder of the encounter trivial. When you and your companions save a griffon from a crew of poachers, the hunters become the … well, you know the rest.
+
+##### Escort
+
+Surprising as it may seem, sometimes the fate of the mission doesn't rest on the heroes' shoulders at all! Sometimes it rests on the shoulders of someone standing next to the heroes. The heroes' job is to keep this important person safe as they travel to a specific destination.
+
+Not every escort encounter is on behalf of a wise or mighty ally. Sometimes the heroes are tasked with protecting a helpless or even an actively troublesome creature, such as a hapless noble or a wayward child. They might even have to protect a bulky or inconvenient inanimate object. Whatever the case, the enemies just keep coming until the heroes get their charge to their destination.
+
+##### Hold Them Off
+
+Sometimes the heroes just need to buy time. They might need to battle a conquering tyrant's army to allow innocent villagers time to escape. They might need to hold off wave after wave of zombies while a group of priests completes a ritual to lay the undead to rest for good. To achieve this objective, the heroes need to stay alive and protect a particular position for a number of rounds determined by you.
+
+##### Assault the Defenses
+
+The enemy holds a strategically important position and the heroes want it. The encounter ends when the heroes secure the objective defensive location for themselves, even if there are more enemies outside it. Sometimes an encounter with this objective is part of a combined objective, as when heroes must first assault the defenses, then hold that defensive position against counterattack.
+
+##### Stop the Action
+
+Sometimes combat is complicated by the fact that the heroes need to stop the villainous actions of their foes. It's not enough to simply defeat the warriors in a cult. The heroes must also stop the zealots' archdevil-summoning ritual! Or it might be that the heroes need to interrupt a wedding and make sure an evil mage doesn't marry the heir to the throne. Despite combat, the mage forces the ceremony to continue! Objectives in this category have a timer associated with them. If the heroes don't achieve the objective in a certain number of rounds, the conditions of the battle could well change. For instance, if the cultists summon the archdevil, defeating the devil suddenly becomes the heroes' new objective!
+
+##### Complete the Action
+
+This encounter objective sees the characters charged with initiating an event, performing a ritual, and so forth. For instance, if the heroes are attempting to launch an airship while repelling a time raider boarding party, the encounter could be over the moment the heroes manage to activate the vessel and take off with just a few time raiders actually aboard.
+
+#### Dramatic Finish
+
+If the heroes are able to end a fight with a dramatic finish, the Director assigns each hero one or more of their remaining enemies, then asks that hero's player to describe how the hero neutralizes that threat. The hero might deliver a killing blow, knock their foe out, or let the enemy flee with their tail between their legs (literally or figuratively). If the fight has more heroes than Director-controlled enemies, the Director can assign more than one hero to an enemy, then ask the players how their characters work together to bring that enemy down. After everyone gives a description, the battle ends.
+
+#### Event Ending
+
+If the Director calls the end of combat when a specific objective in an encounter is achieved, the event ending creates a big narrative finish. The Director can pick a narrative trigger for an event ending before an encounter begins, or can come up with one on the fly if that makes more sense.
+
+Event endings can cover big scenarios such as the characters destroying a dam to unleash a river upon their enemies, or completing a ritual that causes all the demons they've been battling to be sent back to the Abyssal Wasteland, accompanied by visual details. For example, if the heroes are battling a necromancer who controls a horde of zombies, the undead might all crumble to dust when the necromancer is defeated. If the heroes destroy an eldritch machine sapping the land of its natural energy, the shockwave from the device's destruction could vaporize the cultists attempting to protect it.
+
+> **Fleeing Foes**
+>
+> If you've played a fantasy RPG before, odds are you've had an encounter where you didn't chase down every last fleeing foe—and then one such foe grabbed another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, "No survivors. No mercy!" whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.
+>
+> Luckily, this is a heroic game. Although the Director can surprise the players with dramatic reveals and twisty-turny stories, "Gotcha!" moments that make players suspicious of every fleeing bandit shouldn't be part of those stories. If a bandit is fleeing an encounter, they're running away to rethink their life. If they're going for help, the players should get some sense of that—for example, the bandit screaming at the top of their lungs for help as they run toward their leader's tent. That way, the players can process what's happening, and will understand that stopping that fleeing bandit is part of the challenge of the encounter.
+
+# Negotiation
+
+Negotiation gives the heroes a chance to get what they want without combat … or at least without further combat! You might negotiate with a king to obtain military support against an incursion of demons in a neighboring country. You could enter into talks with a bandit leader to convince her to stop attacking merchant caravans on the road, and instead target nobles loyal to a tyrant. You might attempt to convince an archmage to allow you access to their secret library so you can research the location of a dragon-slaying axe. Negotiation covers all these scenarios and more.
+
+Think of negotiation as something like learning a new system for combat, exploration, or investigation in an RPG. This set of rules provides a framework for roleplaying. The negotiation rules are meant to be read by players and Directors, so that both understand the rules of negotiation. If you've never played a game with a dedicated negotiation system like this, you might need to run it once or twice before you master it, similar to learning any new subsystem in an RPG. If a player hasn't read these rules, the Director and other players who have can explain them to that player during their first negotiation.
+
+Negotiation is a framework for important roleplaying encounters in which the heroes want to convince an NPC to take a particular course of action, such as lending the heroes an artifact or pardoning a prisoner. This framework tracks the NPC's interest in the hero's arguments and their patience, so that the Director know what the NPC is willing to offer and when it's time to end the scene. This framework shouldn't replace roleplaying (though it certainly can if your group doesn't enjoy that part of RPGs). It's here to help players and Directors understand the structure of a give and take conversation and give some rules that can make a high-stakes conversation even more dramatic!
+
+### When to Negotiate
+
+In order for a negotiation to occur, an NPC must have an interest in negotiating with the heroes—but must also have a reason to not simply jump on board with whatever the heroes propose. Negotiations happen only when an NPC has that internal tension between interest and reluctance. For example, if the characters ask a king to send his army into a neighboring kingdom to battle a demon incursion, the king needs to be conflicted. He wants to stop the incursion, but he doesn't want to risk the lives of his soldiers defending a foreign nation while leaving their own people unprotected. If the heroes want the help of the king's army, they need to negotiate.
+
+Heroes aren't expected to use the negotiation rules every time one character tries to convince an NPC to see things their way. For instance, if a hero wants information about a cult leader from a captured cultist, a single Presence test using the Lie skill or a Might test using Intimidate is likely all that's needed. A character who wants to flirt with the local alchemist to obtain a free Healing Potion likely just needs to make a Presence test using the Flirt skill.
+
+By contrast, negotiations typically involve all the heroes interacting with one or more important named NPCs who can provide information, items, or services that dramatically change the course of an adventure. Often, this involves the heroes seeking an item of great power, a retainer or companion, the services of an influential organization or nation, or a plot-twist-worthy piece of information. Convincing a lich to lend the party the legendary *Codex Mortis*, trying to convince a dragon to halt an attack on a wizard's tower, or talking the leaders of an enemy army into standing down means that a negotiation is in order.
+
+To negotiate successfully, the heroes must make persuasive arguments to convince NPCs to do what they want. "Do it or we kill you" is a threat that might well accompany a single Might test using the Intimidate skill, but it's not a negotiating tactic.
+
+#### Limits of Negotiation
+
+Some players might instinctively feel that the negotiation rules should give them something akin to mind-control superpowers. They're not used to imagining NPCs complexly, and might attempt to negotiate in situations where negotiation is either completely unreasonable or literally impossible. No matter how persuasive or well-spoken a hero is, there's no argument to be made that might convince the vile Lord Syuul to give up his pursuit of evil and become a gardener. A negotiation typically can't convince a queen to hand over her crown to the heroes and name them the new rulers of the land, or inspire a dragon to fork over every piece of treasure in their hoard. Negotiations only work when the heroes ask for something from an NPC that the NPC is willing to seriously consider giving them.
+
+**Negotiation is not a process that changes an NPC's character.** Rather, the heroes are trying to make an NPC understand how behaving differently would be in character. You might well be able to get the hitherto loyal lieutenant of an evil boss to reconsider the error of their ways. That's a classic dramatic trope. But even then, you're not changing their character—you're convincing them that their current evil ways are out of character. "Is this who you are? Is this how you want to be remembered?!"
+
+If some players want to use the negotiation system as a means to an end by having their characters say, "Just do what we tell you, or else!", you can remind them that that's not how most people, including NPCs, work. Any heroes who open with that attitude are likely to lose the negotiation before it begins.
+
+#### The Threat of Violence
+
+In the real world, negotiations rarely come with a threat of immediate violence. Ambassadors don't usually get into fistfights. But this is a heroic fantasy RPG, featuring heroes who are armed to the teeth and able to alter reality with their minds. The threat of violence is already implied. Everyone involved knows that the characters could draw steel at any moment.
+
+The Director typically assumes that the underlying potential for events to turn violent is already factored into every negotiation. However, if the heroes decide to bring that threat to the forefront, then they've exited the realm of negotiation and have entered into a different type of relationship—and it's probably time to draw steel.
+
+Negotiation is about persuading someone to help you willingly because you've convinced them that meeting your objectives is a good idea. Working with you is wise or logical, or might make them look good. A hero can absolutely threaten someone with violence and force them to do what they want, but this is an incredibly temporary state. A threatened NPC isn't willingly doing what they've been asked. They're doing it on threat of violence, and will comply only while that threat is evident—after which, they'll likely go back to their previous behavior as soon as they think they can get away with it.
+
+### Negotiation Stats
+
+During negotiation, the Director assigns NPCs four temporary statistics and features—interest, patience, motivations, and pitfalls. The heroes can strike a favorable deal if they maximize an NPC's interest by making arguments that invoke the NPC's motivations and avoid their pitfalls—but they have to do all that before the NPC's patience wears out.
+
+#### Interest
+
+An NPC's interest represents how eager they are to make a deal with the heroes. Interest is graded on a scale of 0 (no interest) to 5 (the most possible interest). When a negotiation begins, an NPC's interest is between 1 and 4. If the NPC's interest goes to 5, they make a final offer and the negotiation ends (see [Keep Going or Stop](#page-303-0), below). If the NPC's interest drops to 0, they end a negotiation without offering the heroes any deal.
+
+Interest increases and decreases during the negotiation based on the arguments the heroes make.
+
+#### Patience
+
+An NPC's patience represents how much time and effort they're willing to devote to a negotiation. Patience is graded on a scale of 0 to 5, with each NPC starting a negotiation with their patience higher than 0. If an NPC's patience reaches 0, the NPC makes a final offer and negotiation ends (see [Keep Going or Stop](#page-303-0)).
+
+Patience can decrease each time the heroes make an argument during a negotiation.
+
+##### Language and Patience
+
+If one or more heroes negotiating with an NPC can communicate in the NPC's native language (not including Caelian), then the NPC's patience increases by 1 at the start of the negotiation (to a maximum of 5). If three or more heroes negotiating with an NPC can communicate in the NPC's native language, the NPC's patience increases by 2 (to a maximum of 5). [Chapter 4: Background](#page-67-0) has information on some of the languages in the game.
+
+#### Motivations
+
+Each NPC has at least two motivations the heroes can appeal to with their arguments. Arguments that appeal to an NPC's motivation require an easier power roll to increase the NPC's interest. Arguments that don't appeal to a motivation require a more difficult power roll. See [Making Arguments](#page-301-0) below for more information.
+
+Each motivation can be successfully appealed to only once during a negotiation. To successfully appeal to a motivation, the heroes must use the motivation in an argument without mentioning one of the NPC's pitfalls or being caught in a lie.
+
+#### Pitfalls
+
+Pitfalls are motivations that spark ire, discomfort, shame, fear, or some other negative response in an NPC. Using a pitfall in an argument causes an NPC's interest and patience to wane. Each NPC has at least one pitfall, and many have atleast two.
+
+Pitfalls and motivations are two sides of the same concept. They're presented below as a single list, because what might be a motivation for one NPC is a pitfall for another. Whenever the heroes make an argument, they risk stumbling into one of an NPC's pitfalls unless they do their research beforehand or read the NPC well.
+
+#### List of Motivations and Pitfalls
+
+An NPC can have any of the following twelve motivations or pitfalls.
+
+##### Benevolence
+
+An NPC with the benevolence motivation believes in sharing what they have with others. However, an NPC involved in a negotiation must be limited in their benevolence, so that they don't just give the heroes what they need.
+
+Sometimes an NPC's benevolence might extend only to a specific group of people, so that a benevolent pirate captain might share their plunder freely with the rest of their crew—but they're still plundering! Other times, an NPC's charity might be limited by the fact that they don't have much to give. A benevolent NPC might be hesitant to give the heroes help because they believe their limited resources are more necessary or could do more good somewhere else.
+
+An NPC with the benevolence pitfall has a cynical view of the world, believing that no creature has a right to anything just by being alive. The idea of helping others because it's the right thing to do is a preposterous, immature, or inexperienced idea to be laughed off or snuffed out.
+
+Arguments that appeal to a benevolence motivation contend that if the NPC strikes a deal with the heroes, the people the NPC cares about will benefit from the deal. Example arguments include the following:
+
+- "If you lend us the Sword of Agathor, we can make Capital safer for your guild by using it to lay your enemies low."
+- "If you can teleport us into the dragon's cave, we'll give you half the wyrm's hoard once we cut off the creature's head. That could benefit generations of students at your academy!"
+
+##### Discovery
+
+An NPC with the discovery motivation wants to learn new lore, explore forgotten places, break ground with new experiments, or uncover artifacts lost to time. Their curiosity and quest for knowledge might be driven by a specific goal, such as seeking the cure for a rare disease or a portal to a specific far-off world. Or they could be a naturally inquisitive person who simply wants to understand all they can about the timescape.
+
+An NPC with the discovery pitfall has no interest in finding new places, peoples, or ideas. It might be that the unknown scares them or makes them so uncomfortable that they'd rather remain ignorant. Alternatively, a previous pursuit of discovery might have turned out poorly for them.
+
+Arguments that appeal to a discovery motivation contend that striking a deal with the heroes will allow the NPC to gain new knowledge or acquire unique property. Example arguments include the following:
+
+"Allow us to use your cipher to translate the only copy of the *Codex Mortis*, and then we'll let you read the book when we're done."
+
+"We know the journey to Decant Isle is dangerous, but we're going into uncharted territory. We thought that your crew of sailors might want to be among the few mortals to lay eyes on the place."
+
+##### Freedom
+
+An NPC with the freedom motivation wants no authority above them and desires no authority over others. They might already have personal freedom and wish to maintain that status quo, or they might wish to liberate themself or others from someone else's authority.
+
+An NPC with the freedom pitfall believes that a world without authority is one in turmoil and chaos. They might even believe that they are the right person to rule, and that their ideals should be the ones that become the law of the land.
+
+Arguments that appeal to a freedom motivation contend that by helping the heroes, an NPC will maintain or grant freedom to themself or other people. Example arguments include the following:
+
+- "I know you want to have the queen's authority revoked forever. She has no heirs. Give us the key to her study so that we can prove her corruption and give you a chance to topple the monarchy henceforth."
+- "If you promise to give us ten vials of Assassin's Kiss, we'll see to it that the baron's prison is emptied."
+
+##### Greed
+
+An NPC with the greed motivation desires wealth and resources above almost anything else. Sometimes these NPCs are misers, much like wyrms who hoard coins and gems but never spend or donate them. Others flaunt their wealth, viewing it as a sign of their station in life.
+
+Greed-driven NPCs might share their wealth with a select group of people they love, such as a noble lord who indulges his children's every desire. Some NPCs might be greedy for resources other than money, such as a demon who wants to collect and devour souls, or a troll lord who hungers endlessly for the flesh of others.
+
+An NPC with the greed pitfall has no interest in accumulating wealth or other resources, and becomes offended if anyone tries to buy their partnership. They hold their ideals above material desires.
+
+Arguments that appeal to a greed motivation contend that helping the heroes will increase the NPC's wealth or assets. Example arguments include the following:
+
+- "You should help us battle the overmind. Xorranox's wealth is legendary, and we'll see to it that you get your fair share."
+- "Give us a week to do research among your private collection of books, and we'll give you another ten unique tomes we found in an ancient star elf sanctuary."
+
+##### Higher Authority
+
+An NPC with the higher authority motivation remains staunchly loyal to a person or force they perceive as more important than themself. This higher authority could be an organization, a deity or being of great power, a formal leader such as a noble or monarch, a mystical presence or force the NPC might not fully understand, or a person the NPC sees as an informal authority figure (an older sibling, a personal hero, and so forth).
+
+An NPC with the higher authority pitfall scoffs at the idea of serving another. The NPC might not believe that all people should be free, but they certainly believe that they personally shouldn't have to answer to anyone.
+
+Arguments that appeal to a higher authority motivation contend that it's in the interest of the higher authority for the NPC to strike a deal with the heroes. A hero might even tell the NPC that if the higher authority were in the NPC's position, they would take the deal. Example arguments include the following:
+
+- "All great creations honor your god, Malus. If you teach me to forge the Hammer of Azdul, that will be a great honor to bestow upon your god."
+- "You know what Jarith the Bold would do? He'd guide us through the vast wasteland of the desert to reach the tower. Will you be our Jarith?"
+
+##### Justice
+
+An NPC with the justice motivation wants to see the righteous rewarded and the wicked punished, however subjective their sense of who or what is good and evil. A priest who venerates a god of nature might believe that all who protect plants and animals are righteous, and that those who harvest natural resources as miners and lumberjacks do must die. Having a justice motivation doesn't necessarily make an NPC kind or charitable.
+
+An NPC with the justice pitfall doesn't believe that the timescape is an inherently just place, and has no interest in making it one. The world is eternal conflict, there is no such thing as justice, and anyone who thinks otherwise is a naive fool.
+
+Arguments that appeal to a justice motivation position the heroes on the good side of an NPC's sense of right and wrong. Example arguments include the following:
+
+- "You despise those who steal from nature. Allow us peacefully into your wode so we may bottle the Blessed Spring's water. We're going to use it to stop an army from felling every tree and tearing up the earth wherever they go."
+- "You think nobles are lazy barons who get rich off the backs of peasants. We want to dethrone Lord Saxton. Lend us your crew of thieves, and we'll make sure that when Saxton falls, the people can choose their own leaders."
+
+##### Legacy
+
+An NPC with the legacy motivation desires fame while alive and acclaim that lasts long after their death. They hope others will know and remember their deeds, great or terrible. Some of these NPCs might even seek immortality through deification or undeath, so that the eventual shedding of their mortal coil doesn't prevent them from continuing to make history.
+
+An NPC with a legacy pitfall cares nothing about leaving a personal mark on the world. To them, such vain thinking is nothing but a waste of time.
+
+Arguments that appeal to a legacy motivation contend that striking a deal with the heroes increases the likelihood that people will talk about the NPC for centuries to come. Example arguments include the following:
+
+- "If you give us the vizier's itinerary, I'll compose a song about your bravery in defying him, then sing it in every tavern from here to Ix!"
+- "Yes, losing the battle is a possibility. If we do, the gnolls will still come for you eventually. But if we crush our foes, imagine the honors, the histories, the poems, the statues—all of it created for you because your siege engines turned the tide."
+
+##### Peace
+
+An NPC with the peace motivation wants calm in their life. Under typical circumstances, they want to be left alone to run their business, farm, kingdom, criminal empire, or whatever small slice of the timescape is theirs. Some such NPCs don't have peace and
+
+need help obtaining it, while others want their peaceful status quo to be maintained.
+
+An NPC with the peace pitfall hates being bored. They want excitement, drama, and danger in their life. For them, there's nothing worse than the status quo.
+
+Arguments that appeal to a peace motivation contend that helping the heroes will earn the NPC some peace, at least for a little while. Example arguments include the following:
+
+- "You have a good thing going here. A little burgling of nobles, some alcohol smuggling, and some illegal gambling dens. No one's getting hurt, but Constable Cofax is closing in on you. We could redirect him toward some real danger to the community, if you can help us set a trap for the Watchmaker."
+- "I know you don't sell to outsiders, but we need that helm. I'm going to use it to turn back a group of hobgoblins marching this way. They're not going to be as friendly as us."
+
+##### Power
+
+An NPC with the power motivation covets the authority of others. They want to increase their influence, no matter how great it already is, and maintain their domain. They might seek power through conquering others, the collection of artifacts, or through the infusion of supernatural rituals—though why choose one method when all three together achieve the best results? Some such NPCs are world-traversing tyrants, but the petty administrators of village organizations and shrines can covet power just as hungrily.
+
+An NPC with the power pitfall has no interest in authority for themself. They might respect the authority of others, but they hate the thought of ruling over other people and roundly reject any suggestion of the idea.
+
+Arguments that appeal to a power motivation contend that working with the heroes will increase or protect the NPC's power. Example arguments include the following:
+
+- "Everyone knows you should be running the watch, Percy. The old lady's retiring, and our friend Baron Kuglar is naming the replacement. Now, you let us into the restricted armory, and we'll put in a good word."
+- "We know he's your brother, Your Highness, but he's older—first in line for the throne. If you help us prove he's in a cult, you become the favorite son."
+
+##### Protection
+
+An NPC with the protection motivation has land, people, information, items, or an organization they want protected above all else. Keeping
+
+their charge safe is a duty they hold dear, and aiding in that protection earns their favor. Most people have friends or family they wish to protect, but an NPC with the protection motivation believes in doing so at any cost.
+
+An NPC with the protection pitfall is happy to leave others to fend for themselves. They don't believe it's their responsibility to protect anyone other than themself, and might be outright disgusted at the thought of risking their life or their property to protect others.
+
+Arguments that appeal to a protection motivation contend that helping the heroes allows an NPC to better protect their charge. Example arguments include the following:
+
+- "Dead soldiers grow the necromancer's ranks. Total annihilation is the only way to defeat her. March with us now, while her army is small, and we'll defeat her. Or you could gamble that someone else tries, fails, and suddenly she's at the border, ready to overrun your kingdom with an army tenfold larger than what it is now."
+- "I understand your grandchild is hell-bent on joining the service. I happen to have a magic suit of armor that could help them ward off the blows of monsters and ruffians. I'd be happy to give it to you, in exchange for borrowing your griffons for a few days. After all, I won't need the armor if I can simply fly over the marsh's monsters."
+
+##### Revelry
+
+An NPC with the revelry motivation just wants to have fun. They enjoy socializing at parties, thrill-seeking, or indulging in other hedonistic activities. Getting pleasure out of life while spending time with people they like is paramount to such NPCs.
+
+An NPC with the revelry pitfall sees social encounters and hedonism as a waste of time. They take pleasure only in work or in building their own skills and character. Others who suggest immature debauchery are not worth their time.
+
+Arguments that appeal to the revelry motivation contend that striking a deal with the heroes will allow the NPC to get back to reveling sooner, longer, or harder. Example arguments include the following:
+
+- "How would you like to have the most exclusive songs for your exclusive birthday celebration next week? I'll write you a whole original set list, free of charge … provided you extend me and my band here an invitation."
+- "I know you don't want to forge five Chronokinesis Crowns. How's this instead? You do that for me, and I'll give you the fourteen kegs of whiskey we found in a steel-dwarf ruin. This stuff is old, unique, and forget-your-first-name potent. You can crack a keg with your friends to celebrate a job well done."
+
+##### Vengeance
+
+An NPC with the vengeance motivation wants to harm another who has hurt them. Their desire for revenge could be proportional to the harm that was inflicted upon them, or they might wish to pay back their pain with interest. In some cases, a desire for vengeance can be satisfied only by the death of another, but an NPC might wish to pay back their own suffering with embarrassment, career failure, or some other less permanent pain.
+
+An NPC with the vengeance pitfall believes that revenge solves nothing. They might have gained this belief firsthand, or they might simply not have the ambition to seek revenge—and they take a dim view of others who do.
+
+Arguments that appeal to the vengeance motivation contend that the NPC can gain payback for their pain by helping the heroes. Example arguments include the following:
+
+- "The servants of Ajax killed your sister as she scoured the city for his cults. The Black Iron Pact works for the Overlord. Give us her diaries, and we might uncover the pact's hideaway and deal a great blow to your hated foes."
+- "That prankster Huckable made your trousers tear at the last council meeting. Don't you want to pay him back? We can arrange a delicious prank at the next gathering, but we need you to guarantee the safety of the orc refugees."
+
+> **NPCs Change Over Time**
+>
+> Just like the heroes, NPCs in negotiations are complex individuals who can change over time. It's possible that the heroes might have to negotiate with the same NPC for several different favors during the course of a campaign, over which time the NPC's motivations and pitfalls might change. If the heroes turn a bandit captain with the greed and power motivations into a temporary ally, that criminal might learn from them, changing their ways to rob only those who exploit the poor and giving those earnings to people in need. The next time the heroes negotiate with the bandit captain, they have the benevolence and protection motivations.
+
+### Opening a Negotiation
+
+A negotiation begins when the heroes ask something of an NPC and the Director deems that the circumstances require a negotiation. Those circumstances always involve the heroes requiring assistance that could change the course of the adventure, and having the NPC conflicted about working with them. Unlike combat, which can be thrust upon the heroes by violent allies or unexpected circumstances, the heroes must be the ones to willingly start a negotiation. Characters must want something from an NPC. Otherwise they have no reason to negotiate!
+
+The Director can decide that an NPC who has something the players want could show up at their door and ask if the heroes want to negotiate. But it's always okay for the characters to say, "Not interested," and refuse to do so.
+
+#### Stop Combat, Start Negotiation
+
+If a hero wants to halt hostilities to negotiate with the other side, they can use a maneuver to make a hard Presence test (or another applicable test, as the Director determines) in an attempt to stop combat and start a negotiation. The test has a chance of success only if the Director believes the other side is willing and capable of negotiating. A foe who has the upper hand, who hates the heroes beyond measure, or who lacks sapience is unlikely to negotiate.
+
+#### Starting Stats
+
+An NPC's starting negotiation stats depend on their attitude toward the heroes, as shown on the Negotiation Starting Attitudes table, and can be adjusted by the Director as they see fit. A naturally irascible NPC might have lower patience, while a hostile NPC with a greater-than-expected stake in the negotiation topic might have a higher-than-typical interest.
+
+### Uncovering Motivations
+
+If a hero wishes to figure out an NPC's motivations, they can begin by simply asking, "What do you want out of this deal?" In response, the
+
+###### Negotiation Starting Attitudes Table
+
+| Attitude   | Description                                                                                              | Interest | Patience |
+| ---------- | -------------------------------------------------------------------------------------------------------- | -------- | -------- |
+| Hostile    | Openly opposed to the heroes. Barely willing to listen.                                                  | 1        | 2        |
+| Suspicious | Doubts the heroes' motives but is willing to listen.                                                     | 2        | 2        |
+| Neutral    | Doesn't feel one way or the other. Would probably rather be somewhere else, but doesn't want to be rude. | 2        | 3        |
+| Open       | Willing to listen, willing to help, as long as the heroes aren't asking too much.                        | 3        | 3        |
+| Friendly   | The heroes seem like the NPC's people. The NPC is willing to give them the benefit of the doubt.         | 3        | 4        |
+| Trusting   | The NPC has reason to take the heroes at their word and will help if the characters don't screw this up. | 3        | 5        |
+
+NPC can willingly hint at or reveal one of their motivations, usually by asking for something. For instance, a monarch NPC with the greed motivation and a penchant for collecting rare animals might suggest that the heroes retrieving a griffon egg would earn the monarch's gratitude. The Director can also decide that during the natural course of the negotiation, the NPC might offer up similar suggestions without the heroes asking, provided the NPC already has an interest of 3 or higher.
+
+If an NPC isn't as forthcoming, or if the heroes want to learn one of the NPC's pitfalls, a hero can make a Reason, Intuition, or Presence test while interacting with the NPC during the negotiation, based on the tactics used to draw out the NPC. The test has the following outcomes:
+
+**Power Roll + Reason, Intuition, or Presence:**
+
+- **≤11:** The hero learns no information regarding the NPC's motivations or pitfalls, and the NPC realizes the hero is trying to read them and becomes annoyed. As a consequence, the NPC's patience is reduced by 1.
+- **12-16:** The hero learns no information regarding the NPC's motivations or pitfalls.
+- **17+:** The hero learns one of the NPC's motivations or pitfalls (their choice).
+
+After this test is made, the heroes can't make another test to determine the same NPC's motivations or pitfalls until they make an argument to the NPC or the negotiation ends.
+
+#### Outside of Negotiation
+
+While the heroes can discover an NPC's motivations or pitfalls through tests made during negotiation, they can employ other methods of investigating motivations or pitfalls before negotiation. Research or a little reconnaissance (for instance, reading the NPC's diary or talking to their closest friends) can reveal quite a bit about a person!
+
+### Making Arguments
+
+As part of their initial request to an NPC in a negotiation, a hero makes an argument as to why the NPC should give the heroes what they want. The hero might offer to do something in exchange as part of their argument, such as clearing bandits from a forest, handing over a piece of treasure, or slaying a dragon for the NPC. Or instead of offering something, the hero could attempt to convince the NPC that it's in their own best interest to help—or even that it's a moral imperative. For example, a hero could appeal to a knight's sense of duty, the potential wealth a mercenary could make, or the final wish of a queen's dearly departed grandmother as part of an argument. NPCs who admire the heroes are more likely to respond to compliments and buttering up, while those who fear the heroes are more likely to respond to intimidation and awe.
+
+Arguments need a justification as to why they're true. "Helping us defeat Lord Saxton is good for you in the long run," is half an argument, but the hero also needs to explain why this is the case. "Helping us defeat Lord Saxton is good for you in the long run, because we know he's coming for your kingdom after Bedegar falls!" If a hero makes half an argument, the NPC might follow up with questions such as, "Why do you say that?" or "What makes you think that's true?" to get the full argument from them.
+
+One hero makes an argument to an NPC, but the players can discuss the details of the argument out of character beforehand. It's up to the group to decide how much discussion to have before making an argument, and to decide what argument the players think will best sway the NPC.
+
+This is a good topic for discussion before a group actually gets into a negotiation, so everyone knows the other players' thoughts. Some groups have the most fun without any around-the-table discussion, while others prefer being able to strategize as often as possible.
+
+#### Appeal to Motivation
+
+If an argument doesn't include a pitfall and appeals to one of the NPC's motivations that hasn't already been appealed to, the hero making the argument can make an medium test to attempt to sway the NPC with the argument. Depending on the argument, this can be a Reason, Intuition, or Presence test using any applicable skill—most commonly a skill from the interpersonal skill group. The test has the following outcomes:
+
+**Power Roll + Reason, Intuition, or Presence:**
+
+- **≤11:** The NPC's patience decreases by 1.
+- **12-16:** The NPC's interest increases by 1, and their patience decreases by 1.
+- **17+:** The NPC's interest increases by 1, and their patience doesn't change.
+
+At the Director's discretion, a particularly well-roleplayed or well-reasoned argument automatically counts as a tier 3 outcome without a test. Good roleplaying should be rewarded!
+
+If the heroes attempt to appeal to a motivation that's already been appealed to, the NPC's interest remains the same and their patience decreases by 1.
+
+> **Appealing to Multiple Motivations**
+>
+> If a hero makes an argument that appears to appeal to more than one of an NPC's motivations, the Director can ask for clarification. After listing the motivations it seemed as though the player was trying to appeal to, they can ask the player to pick one from the list. If the player had another motivation in mind, it's up to the Director whether the argument appealed to that specific motivation or not.
+
+#### No Motivation or Pitfall
+
+If an argument doesn't include one of the NPC's motivations or pitfalls, the hero who makes the argument must make a more difficult test to appeal to the NPC. The test has the following outcomes:
+
+**Power Roll + Reason, Intuition, or Presence:**
+
+- **≤11:** The NPC's patience decreases by 1, and their interest decreases by 1.
+- **12-16:** The NPC's patience decreases by 1.
+- **17+:** The NPC's interest increases by 1, and their patience decreases by 1.
+
+**Effect:** On a natural 19 or 20, the NPC's patience remains the same.
+
+If the heroes try to use the same argument without a pitfall or motivation twice, the test automatically obtains a tier 1 outcome.
+
+#### Caught in a Lie
+
+If a hero lies to an NPC with an argument that fails to increase the NPC's interest, the Director can decide that the NPC catches the lie and is offended by it. The NPC's interest decreases by 1, in addition to any decrease imposed by the failure.
+
+> **Everyone Can Participate**
+>
+> Since Reason and Intuition with creatively applied skills can be used to make arguments, all heroes can actively participate in the process of negotiation. The hero with the highest Presence who has the Persuade skill doesn't automatically have to be the one who makes all the tests.
+
+#### Pitfall Used
+
+If an argument uses one of the NPC's pitfalls, it automatically fails and the NPC's interest and patience each decrease by 1. The NPC might also warn the heroes not to treat them in such a way again.
+
+#### Renown and Negotiation
+
+Renown determines whether a hero's fame (or infamy) has any sway over an NPC. A hero's reputation can make a negotiation easier, provided that hero knows how to capitalize on it.
+
+During a negotiation, an NPC has an **Impression score** that determines the amount of Renown needed to influence them with fame alone (see [Renown](#page-364-6) in [Chapter 13: Rewards](#page-327-1)). This score matters only if the NPC knows of the heroes. A dragon who slumbered away the last hundred years and was just woken up to negotiate can't be influenced by a hero's Renown. (By the way, it's a terrible idea to wake a dragon, even if they do know you're famous.) If the NPC does know of the hero and has an Impression score that is equal to or lower than the hero's Renown, the NPC can be influenced by that hero's reputation.
+
+The higher an NPC's Impression score, the harder they are to influence with Renown. A small-time brigand has a lower Impression score than a monarch who meets with powerful and famous people all the time. The NPCs and Impression table provides examples of different archetypical NPC Impression scores. If a creature has a level, then their Impression score equals their level unless the Director deems otherwise.
+
+##### Fame or Infamy?
+
+If a hero has enough Renown for their score to influence an NPC during negotiation, the Director decides if the hero is famous or infamous to the NPC. If the NPC appreciates a character's deeds and views them as a hero who makes the world a better place, that hero is famous to them. If the NPC believes the hero's accomplishments make the world worse and views them as an enemy, the hero is infamous to the NPC.
+
+###### NPCs and Impresion Table
+
+| Impression | Example NPC                                                 |
+| ---------- | ----------------------------------------------------------- |
+| 1          | Brigand leader, commoner, shop owner                        |
+| 2          | Knight, local guildmaster, professor                        |
+| 3          | Cult leader, locally known mage, noble lord                 |
+| 4          | Assassin, baron, locally famous entertainer                 |
+| 5          | Captain of the watch in a large city, high priest, viscount |
+| 6          | Count, warlord                                              |
+| 7          | Marquis, world-renowned entertainer                         |
+| 8          | Duke, spymaster                                             |
+| 9          | Archmage, prince                                            |
+| 10         | Demon lord, monarch                                         |
+| 11         | Archdevil, archfey, demigod                                 |
+| 12         | Deity, titan                                                |
+
+##### Influencing Tests
+
+If a hero is famous to an NPC, they gain an edge on tests when making arguments to which the Flirt, Lead, or Persuade skill could be applied. If they are infamous to the NPC, they gain an edge on tests when making arguments to which the Brag, Interrogate, or Intimidate skill could be applied. A hero gains this edge even if they don't have the appropriate skill.
+
+### NPC Response and Offer
+
+After a hero makes an argument, an NPC responds in one of three ways:
+
+- An NPC responds positively if the heroes increase the NPC's interest. "That's an excellent point." "You've given me much to consider." "Fair enough." "Makes sense to me."
+- An NPC responds negatively if the heroes decrease their interest. "I don't buy that." "Poppycock!" "I hear you, but I disagree." "That's not going to sway me."
+- An NPC responds with impatience if the heroes fail to increase or decrease their interest. "I've heard that before." "Are you going to offer me anything real?" "This debate is tiresome." "BORING!"
+
+Unless the NPC is deceitful, it should be clear to the heroes if their argument helped convince the NPC, if they need to take a new approach, or if the argument actually did more harm than good.
+
+The initial response should come with an offer (or a refusal to make an offer) based on the NPC's current interest. If a hero's argument reduces an NPC's patience to 0, the NPC lets the heroes know that this is their final offer.
+
+#### Interest 5 ("Yes, and …")
+
+If the NPC's interest is 5, they offer everything the heroes initially asked for—and then sweeten the deal. This represents the best possible outcome for the heroes. If they offered to perform any services or make payments as part of the deal, the NPC might waive those obligations, allowing the heroes to get what they want for free. Alternatively, the NPC might hold the heroes to any offers they made and instead offer an extra service or item on top of what was asked for.
+
+For example, if the heroes asked the boss of a thieves' guild for that organization's help in standing against Lord Saxton, the guildmaster might pledge to send a unit of elite assassins to aid in the battle against that tyrannical noble, and then offer the heroes a quiver filled with explosive arrows to give them an additional advantage in the fight.
+
+The NPC should let the heroes know that this is the best offer they can make.
+
+#### Interest 4 ("Yes.")
+
+If the NPC's interest is 4, they offer the heroes everything they asked for but won't sweeten the deal. The NPC also accepts anything the heroes have offered as part of the deal with this outcome.
+
+For example, if the heroes offered to help spring a guild thief from prison in exchange for the elite assassins of the thieves' guild standing against Lord Saxton, the guildmaster agrees to those terms without attempting to adjust anything. This likely ends the negotiation, but it's possible that the heroes could push for a little more, provided the NPC has the patience for another argument. A Director could prompt the heroes to push for more by having the NPC ask a leading question, such as, "Is there anything else?" or "What else do you want from me?"
+
+#### Interest 3 ("Yes, but …")
+
+If the NPC's interest is 3, they offer the heroes what they want in exchange for everything the heroes offered … then they ask for a little extra, such as a favor or a payment from the characters. If the heroes offered to free a thieves' guild member from prison in exchange for the service of the organization's assassins, the guildmaster might ask them to free an additional prisoner, or to grant the prisoner they rescue a sum of cash or a magic weapon.
+
+#### Interest 2 ("No, but …")
+
+If the NPC's interest is 2, the NPC can't give the heroes what they want. However, they are willing to offer other less impactful goods or services in exchange for whatever the heroes have promised. The guildmaster might not be willing to spare any troops to fight Lord Saxton, but could instead offer the latest spy reports on Saxton's movements in exchange for the jailbreak.
+
+#### Interest 1 ("No.")
+
+If the NPC's interest is 1, they outright reject the heroes' idea without a counteroffer. If the NPC still has patience, they might press the heroes for a better deal, saying something like, "Why should we risk our necks to help you fight Lord Saxton? What's really in it for the thieves' guild, other than a short, brutal end when you inevitably fail?"
+
+#### Interest 0 ("No, and …")
+
+If an NPC's interest is 0, they offer nothing, refuse to negotiate further, and seek to harm the heroes. The NPC might attack immediately, or they could take a different approach, perhaps spreading malicious rumors about the characters, sending assassins after them, or otherwise making their lives difficult. If the heroes don't want to be at odds with the NPC, they'll need to offer a valuable gift or undertake a quest just to make amends.
+
+It is impossible to continue a negotiation when an NPC's interest drops to 0.
+
+### Keep Going or Stop
+
+If an NPC still has patience after making an offer and their interest is between 1 and 4, the heroes can make another argument to attempt to improve the deal. Alternatively, they can accept the offer and end the negotiation. Let the players drive this decision. You can always have an NPC show they have patience remaining by asking, "Is there anything else?"
+
+If the NPC's patience is 0 or their interest is 5, then the offer the NPC makes is their final offer to the characters. The heroes can accept the offer or not, but either way, the negotiation ends.
+
+If the NPC's interest is 0, the NPC ends the negotiation without accepting a deal. The heroes can walk away from a negotiation without accepting a deal at any time.
+
+### Sample Negotiation
+
+After killing the true lord of Bedegar, the tyrannical Lord Saxton took over the barony's capital, and is presently gathering forces to march on the rest of Bedegar's settlements. The heroes recently saved Edmund, the true heir to Bedegar's throne, and are now attempting to build an army that can stand against Saxton and defeat the tyrant.
+
+The heroes are engaging in a negotiation with Zola Honeycut, the human guildmaster of the Clock—a thieves' guild whose headquarters is located in Bedegar's capital. The guild openly opposed Saxton when he first seized power, but the tyrant was quick to crack down on all known members of the Clock, forcing them into hiding or hanging them as a warning to others. The heroes' hope is that they can convince Zola to support their armed resistance.
+
+#### Zola's Negotiation Stats
+
+Zola is neutral toward the heroes when the negotiation begins. She knows them only by reputation, though she understands that they too believe Saxton is a tyrant who must be stopped. However, standing up to that tyrant has cost her people dearly, and she's not sure she's ready to rejoin the fight. One wrong move could spell the end of the Clock!
+
+> **Zola Honeycut Negotiation Stats**
+>
+> - **Interest: 2**
+> - **Patience: 3**
+> - **Impression: 3**
+>
+> ###### Motivations
+>
+> **Benevolence:** Zola's name, Honeycut, comes from the fact that she always gives her fellow thieves a bigger cut than her own on jobs.
+>
+> **Protection:** The members of the Clock are the only family Zola's ever known. The guild's motto is "The Clock is always ticking," because they're always planning the next job and their ever-richer future. Zola doesn't want to be the guild's last master.
+>
+> ###### Pitfall
+>
+> **Higher Authority:** Zola has no interest in serving anyone other than herself, and she scoffs at the suggestion of taking orders.
+>
+> **Revelry:** Zola is all business and has no time for frivolity, especially while living under Saxton's threat.
+
+#### Roleplaying Zola
+
+Zola is glad that people are finally opposing Lord Saxton, but is angry that no one rose up with the Clock months ago when the tyrant first staged his coup. She's passionate about protecting her people, quick to call out dangerous plans in arguments she doesn't like, and fast to praise statements she agrees with. She's not afraid to speak her mind to the heroes, knowing that they share her desire to see Saxton gone. She's just not sure she can risk more of her found family in the current fight.
+
+#### Negotiation in Action
+
+Here's how the negotiation with Zola might play out.
+
+**Director (Djordi):** *The windows are boarded up, allowing no light to enter the seemingly abandoned Goat's Eye tavern. The whole place smells of charred wood, evidence of the fire that burned most of the building's interior three years ago. As the door shuts behind you, light from a hooded lantern on the opposite side of the tavern suddenly fills the room. Amid the blackened walls and pillars, you note where six burly ruffians flank your group on both sides. The human holding the lantern smiles. "Welcome. I'm Zola. Willoughby told me you were coming. Have a seat." She motions to a few crates arranged in a circle around a wide barrel.*
+
+**James (playing Korvo, a shadow):** *I have a seat and say, "Korvo at your service, Ms. Honeycut. And these here are the finest companions a polder could ask for: Linn, Jorn, and Val."*
+
+**Director:** *Zola nods to each of you in turn, then says, "You'll excuse me if I dispense with more pleasantries. These days, no place is safe for the Clock. We keep moving. So tell me, what are you here for?"*
+
+**Alyssa (playing Jorn, a tactician):** *"We're building an army to take down Saxton once and for all."*
+
+In this scenario, all the heroes have a Renown of 2 except for Jorn, who has a Renown of 3 and is therefore famous to Zola.
+
+**Director:** *Zola gives a mirthless chuckle as she shakes her head. "Oh is that all? I have to tell you, I don't think the four of you stand much of a chance. Unless you're hiding a legion or two of dwarves in your pockets. Yes, you have Jorn the Mighty with you, but you'll need more than one famous warrior to win the day."*
+
+**Alyssa:** *Ah! So she has heard of me at least! Thanks, Renown.*
+
+**Grace (playing Val, a conduit):** *"We don't. But we do have Lord Edmund—the true heir to the Bedegar throne."*
+
+**Director:** *Zola nods, impressed. "I'm glad the boy is safe, but that's all he is—a boy, not an army."*
+
+**Matt (playing Linn, a talent):** *"He's a boy people will rally around. We have no army, but that's why we're here. We're planning on changing that. Can you spare any soldiers for our cause?"*
+
+The negotiation officially starts. The heroes have stated what they want from Zola. The Director begins by prompting them to make an argument.
+
+**Director:** *Zola leans back on her crate. "There it is. The Clock has sacrificed much against Saxton. Why should we risk more to help? No one was here to help us months ago when we stood up to tyranny."*
+
+**Alyssa:** *I nod along as Zola speaks, listening before I say, "We didn't hear of your struggle until after Saxton had already hanged many of your brave people. We're here now. How can we help?"*
+
+Before making an argument, Alyssa is attempting to learn what Zola's motivations are by simply asking. The Director decides to reveal one of Zola's motivations: protection.
+
+**Director:** *"If I were to make a deal with you, and that's a big 'if,' I'd need assurances that you can end this. Proof would be even better. The protection of my people is my top priority. We can earn freedom from Saxton once we regain our strength."*
+
+**James:** *Aha! I got this, folks. I stand atop my crate and say, "Well, we can surely offer that, Ms. Honeycut. We have convinced Lord Edmund to*
+
+*grant amnesty to any who swear to serve him." I'd like to roll a Presence test to convince her.*
+
+**Director:** *Hold it there, champ. Zola's eyes narrow as you speak, and she holds up a hand to cut you off. "I will not swear to serve any ruler, no matter how benevolent. I'll consider being a partner, but even that outlook is grim if you tell me again that I need to bend the knee."*
+
+Korvo inadvertently made an argument using a pitfall by appealing to a higher authority. The Director notes that Zola's interest drops to 1 and her patience drops to 2. Zola gave a pretty firm "No" response here, which is what an NPC with an interest of 1 would say. However, the Director phrased Zola's response in such a way that the heroes know they can keep making arguments if they wish, since her patience hasn't run out.
+
+**James:** *Sorry! I thought that'd work. Seems like higher authority is a pitfall for her*.
+
+**Grace:** *Let's try to avoid any others. Val says, "We're sorry, Zola. We don't want to do anything else to offend you." I'd like to make an Intuition test and use my Read Person skill to gauge her reaction and try to discern any other pitfalls.*
+
+**Director:** *Cool. Hard difficulty.*
+
+**Grace:** *I got a 17! Success.*
+
+**Director:** *Zola sits back, chuckling. "There's two things I can't stand anyone telling me to kiss a ring and merry fools who would rather go drinking than fight for their freedom. Luckily, you're not the latter." You can tell that revelry also won't go over well with Zola.*
+
+The heroes now know both of Zola's pitfalls: higher authority and revelry.
+
+**Matt:** *Linn is going to say, "We're recruiting more than just the Clock. We have a good chance of recruiting the elves of the wode and the orcs of Forest Rend, and we're already training the people of Gravesford to put up a fight. If we strike before Saxton can fully build his forces, we all stand a better chance of survival. If you don't stand with us, Saxton will still come for you. He's already coming for you. The Clock stands less of a chance alone."*
+
+**Director:** *I think that's a Reason test, since you're using logic to point out that you have a better chance together than on your own. It's easy too, since you're appealing to one of her motivations.*
+
+**Matt:** *Great! Can I use Lead here, since I'm demonstrating our ability to bring people together?*
+
+**Director:** *I'll allow it.*
+
+**Matt:** *That's a 14!*
+
+Because Linn appealed to a motivation, Zola's interest increases to 2, and her patience remains at 2. The Director gives a "No, but …" response based on Zola's interest. At this point, the heroes haven't promised anything, so she offers them something for free.
+
+**Director:** *Zola nods along as you speak. "You're correct, but I'm not sure I can spare the people. I'll tell you what I can do. I have spies watching Saxton still. I can give you information about his troops' movements. Will that suffice?"*
+
+The Director makes it clear in Zola's response that the negotiation can still continue if that's what the players want.
+
+**Alyssa:** *I don't think so, right?*
+
+**James:** *No. We need an army.*
+
+**Matt:** *Yeah, let's push it.*
+
+**Grace:** *Agreed.*
+
+**Alyssa:** *I wonder if we can try to figure out another one of her motivations.*
+
+**James:** *Is there anything I know about Zola's reputation? I have the Criminal Underworld skill.*
+
+**Director:** *Make a Reason test.*
+
+**James:** *That's an 18! Success!*
+
+**Director:** *Korvo would know that Zola got the name Honeycut because she's generous with the guild's earnings. She gives all her fellow thieves a nice cut of every job.*
+
+Korvo's success has revealed Zola's benevolence motivation.
+
+**James:** *Brilliant! I think I probably would've shared that with the group before this.*
+
+**Director:** *Yeah, that makes sense.*
+
+**Alyssa:** *Great. Jorn will say, "It would be worthwhile in other ways for your crew if you joined our side."*
+
+**Director:** *Zola's interest is piqued. "What makes you say that?"*
+
+**Alyssa:** *"Even before his coup, Saxton had a considerable amount of wealth. If he's deposed, those riches need to go somewhere. The Clock will get a cut—a honey of a cut, you might say. Edmund has also promised to share his family's fortune with any who stand with him against Saxton—no oath of fealty necessary. After the young lord reclaims the throne, that is."*
+
+**Director:** *You're appealing to one of her motivations, so make a Presence test.*
+
+**Alyssa:** *Can I use my Persuade skill too?*
+
+**Director:** *Absolutely. And you gain an edge because you're famous to her.*
+
+**Alyssa:** *I needed that edge. I got a 12!*
+
+Because Jorn appealed to a motivation, Zola's interest increases to 3, and her patience is reduced to 1. The Director gives a "Yes, but …" response while making it clear that the negotiation can still continue.
+
+**Director:** *Zola contemplates this for a moment. She nods, "I'm starting to see the benefits. I think I can spare some folks to help you, but you have to help them first. See, my best warriors are locked up in Bedegar Keep. They're supposed to be hanged in two days. If you free them, I'll see to it they stand with you against Saxton. We were making a plan to free them ourselves but could frankly use the help."*
+
+**Grace:** *We could push the Clock to do it themselves, but I can't see Val turning her back on people in need.*
+
+**James:** *Hear, hear. I'm done pushing my luck on this one.*
+
+**Matt:** *It'll mean less time to recruit the other troops, so we'd better work quickly.*
+
+**Alyssa:** *Then we're in agreement. I offer a handshake to Zola. "You've got yourself a deal."*
+
+The heroes could have pushed for a better deal, but they're satisfied with the offer from Zola, so they accept her terms. The negotiation ends.

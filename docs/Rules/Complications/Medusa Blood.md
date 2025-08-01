@@ -6,7 +6,7 @@ item_name: Medusa Blood
 scc:
   - mcdm.heroes.v1:complication:medusa-blood
 scdc:
-  - 1.1.1:4:83
+  - 1.1.1:5:83
 source: mcdm.heroes.v1
 type: complication
 ---

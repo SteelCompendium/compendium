@@ -6,7 +6,7 @@ item_name: Host Body
 scc:
   - mcdm.heroes.v1:complication:host-body
 scdc:
-  - 1.1.1:4:82
+  - 1.1.1:5:82
 source: mcdm.heroes.v1
 type: complication
 ---

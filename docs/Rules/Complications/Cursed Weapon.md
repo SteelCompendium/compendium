@@ -6,7 +6,7 @@ item_name: Cursed Weapon
 scc:
   - mcdm.heroes.v1:complication:cursed-weapon
 scdc:
-  - 1.1.1:4:07
+  - 1.1.1:5:07
 source: mcdm.heroes.v1
 type: complication
 ---

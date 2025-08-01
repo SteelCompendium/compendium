@@ -6,7 +6,7 @@ item_name: Guilty Conscience
 scc:
   - mcdm.heroes.v1:complication:guilty-conscience
 scdc:
-  - 1.1.1:4:12
+  - 1.1.1:5:12
 source: mcdm.heroes.v1
 type: complication
 ---

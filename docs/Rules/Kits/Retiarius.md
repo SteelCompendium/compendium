@@ -6,7 +6,7 @@ item_name: Retiarius
 scc:
   - mcdm.heroes.v1:kit:retiarius
 scdc:
-  - 1.1.1:6:04
+  - 1.1.1:7:04
 source: mcdm.heroes.v1
 type: kit
 ---

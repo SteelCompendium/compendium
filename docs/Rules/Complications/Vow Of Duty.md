@@ -6,7 +6,7 @@ item_name: Vow Of Duty
 scc:
   - mcdm.heroes.v1:complication:vow-of-duty
 scdc:
-  - 1.1.1:4:36
+  - 1.1.1:5:36
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -6,7 +6,7 @@ item_name: Shadow Born
 scc:
   - mcdm.heroes.v1:complication:shadow-born
 scdc:
-  - 1.1.1:4:90
+  - 1.1.1:5:90
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -6,7 +6,7 @@ item_name: Famous Relative
 scc:
   - mcdm.heroes.v1:complication:famous-relative
 scdc:
-  - 1.1.1:4:17
+  - 1.1.1:5:17
 source: mcdm.heroes.v1
 type: complication
 ---

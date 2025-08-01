@@ -6,7 +6,7 @@ item_name: Shining Armor
 scc:
   - mcdm.heroes.v1:kit:shining-armor
 scdc:
-  - 1.1.1:6:01
+  - 1.1.1:7:01
 source: mcdm.heroes.v1
 type: kit
 ---

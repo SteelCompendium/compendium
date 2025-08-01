@@ -6,7 +6,7 @@ item_name: Fiery Ideal
 scc:
   - mcdm.heroes.v1:complication:fiery-ideal
 scdc:
-  - 1.1.1:4:42
+  - 1.1.1:5:42
 source: mcdm.heroes.v1
 type: complication
 ---

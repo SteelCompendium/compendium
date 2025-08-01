@@ -6,7 +6,7 @@ item_name: Vow Of Honesty
 scc:
   - mcdm.heroes.v1:complication:vow-of-honesty
 scdc:
-  - 1.1.1:4:67
+  - 1.1.1:5:67
 source: mcdm.heroes.v1
 type: complication
 ---

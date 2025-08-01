@@ -6,7 +6,7 @@ item_name: Waking Dreams
 scc:
   - mcdm.heroes.v1:complication:waking-dreams
 scdc:
-  - 1.1.1:4:19
+  - 1.1.1:5:19
 source: mcdm.heroes.v1
 type: complication
 ---

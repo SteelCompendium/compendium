@@ -6,7 +6,7 @@ item_name: Curse Of Immortality
 scc:
   - mcdm.heroes.v1:complication:curse-of-immortality
 scdc:
-  - 1.1.1:4:40
+  - 1.1.1:5:40
 source: mcdm.heroes.v1
 type: complication
 ---

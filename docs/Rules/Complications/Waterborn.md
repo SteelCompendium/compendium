@@ -6,7 +6,7 @@ item_name: Waterborn
 scc:
   - mcdm.heroes.v1:complication:waterborn
 scdc:
-  - 1.1.1:4:13
+  - 1.1.1:5:13
 source: mcdm.heroes.v1
 type: complication
 ---

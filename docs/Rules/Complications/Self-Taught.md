@@ -6,7 +6,7 @@ item_name: Self-Taught
 scc:
   - mcdm.heroes.v1:complication:self-taught
 scdc:
-  - 1.1.1:4:98
+  - 1.1.1:5:98
 source: mcdm.heroes.v1
 type: complication
 ---

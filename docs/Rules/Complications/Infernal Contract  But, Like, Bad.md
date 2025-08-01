@@ -6,7 +6,7 @@ item_name: Infernal Contract … But, Like, Bad
 scc:
   - mcdm.heroes.v1:complication:infernal-contract-but-like-bad
 scdc:
-  - 1.1.1:4:74
+  - 1.1.1:5:74
 source: mcdm.heroes.v1
 type: complication
 ---

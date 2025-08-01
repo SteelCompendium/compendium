@@ -6,7 +6,7 @@ item_name: Voice In Your Head
 scc:
   - mcdm.heroes.v1:complication:voice-in-your-head
 scdc:
-  - 1.1.1:4:55
+  - 1.1.1:5:55
 source: mcdm.heroes.v1
 type: complication
 ---

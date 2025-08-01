@@ -6,7 +6,7 @@ item_name: Wodewalker
 scc:
   - mcdm.heroes.v1:complication:wodewalker
 scdc:
-  - 1.1.1:4:45
+  - 1.1.1:5:45
 source: mcdm.heroes.v1
 type: complication
 ---

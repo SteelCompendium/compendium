@@ -6,7 +6,7 @@ item_name: Meddling Butler
 scc:
   - mcdm.heroes.v1:complication:meddling-butler
 scdc:
-  - 1.1.1:4:86
+  - 1.1.1:5:86
 source: mcdm.heroes.v1
 type: complication
 ---

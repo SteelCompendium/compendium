@@ -6,7 +6,7 @@ item_name: Cult Victim
 scc:
   - mcdm.heroes.v1:complication:cult-victim
 scdc:
-  - 1.1.1:4:33
+  - 1.1.1:5:33
 source: mcdm.heroes.v1
 type: complication
 ---

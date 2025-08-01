@@ -6,7 +6,7 @@ item_name: Curse Of Punishment
 scc:
   - mcdm.heroes.v1:complication:curse-of-punishment
 scdc:
-  - 1.1.1:4:72
+  - 1.1.1:5:72
 source: mcdm.heroes.v1
 type: complication
 ---

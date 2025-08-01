@@ -6,7 +6,7 @@ item_name: Mountain
 scc:
   - mcdm.heroes.v1:kit:mountain
 scdc:
-  - 1.1.1:6:03
+  - 1.1.1:7:03
 source: mcdm.heroes.v1
 type: kit
 ---

@@ -6,7 +6,7 @@ item_name: Following In The Footsteps
 scc:
   - mcdm.heroes.v1:complication:following-in-the-footsteps
 scdc:
-  - 1.1.1:4:75
+  - 1.1.1:5:75
 source: mcdm.heroes.v1
 type: complication
 ---

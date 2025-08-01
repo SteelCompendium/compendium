@@ -6,7 +6,7 @@ item_name: Indebted
 scc:
   - mcdm.heroes.v1:complication:indebted
 scdc:
-  - 1.1.1:4:94
+  - 1.1.1:5:94
 source: mcdm.heroes.v1
 type: complication
 ---

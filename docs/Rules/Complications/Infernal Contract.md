@@ -6,7 +6,7 @@ item_name: Infernal Contract
 scc:
   - mcdm.heroes.v1:complication:infernal-contract
 scdc:
-  - 1.1.1:4:76
+  - 1.1.1:5:76
 source: mcdm.heroes.v1
 type: complication
 ---

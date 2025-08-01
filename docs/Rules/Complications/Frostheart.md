@@ -6,7 +6,7 @@ item_name: Frostheart
 scc:
   - mcdm.heroes.v1:complication:frostheart
 scdc:
-  - 1.1.1:4:38
+  - 1.1.1:5:38
 source: mcdm.heroes.v1
 type: complication
 ---

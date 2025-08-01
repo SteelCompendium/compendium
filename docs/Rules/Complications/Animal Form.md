@@ -6,7 +6,7 @@ item_name: Animal Form
 scc:
   - mcdm.heroes.v1:complication:animal-form
 scdc:
-  - 1.1.1:4:91
+  - 1.1.1:5:91
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -6,7 +6,7 @@ item_name: Guisarmier
 scc:
   - mcdm.heroes.v1:kit:guisarmier
 scdc:
-  - 1.1.1:6:14
+  - 1.1.1:7:14
 source: mcdm.heroes.v1
 type: kit
 ---

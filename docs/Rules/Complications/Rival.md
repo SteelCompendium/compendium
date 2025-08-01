@@ -6,7 +6,7 @@ item_name: Rival
 scc:
   - mcdm.heroes.v1:complication:rival
 scdc:
-  - 1.1.1:4:73
+  - 1.1.1:5:73
 source: mcdm.heroes.v1
 type: complication
 ---

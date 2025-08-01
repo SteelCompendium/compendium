@@ -6,7 +6,7 @@ item_name: Chaos Touched
 scc:
   - mcdm.heroes.v1:complication:chaos-touched
 scdc:
-  - 1.1.1:4:41
+  - 1.1.1:5:41
 source: mcdm.heroes.v1
 type: complication
 ---

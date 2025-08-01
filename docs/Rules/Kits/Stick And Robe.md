@@ -6,7 +6,7 @@ item_name: Stick And Robe
 scc:
   - mcdm.heroes.v1:kit:stick-and-robe
 scdc:
-  - 1.1.1:6:18
+  - 1.1.1:7:18
 source: mcdm.heroes.v1
 type: kit
 ---

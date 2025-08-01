@@ -6,7 +6,7 @@ item_name: War Dog Collar
 scc:
   - mcdm.heroes.v1:complication:war-dog-collar
 scdc:
-  - 1.1.1:4:70
+  - 1.1.1:5:70
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -6,7 +6,7 @@ item_name: Shared Spirit
 scc:
   - mcdm.heroes.v1:complication:shared-spirit
 scdc:
-  - 1.1.1:4:10
+  - 1.1.1:5:10
 source: mcdm.heroes.v1
 type: complication
 ---

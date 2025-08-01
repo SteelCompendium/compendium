@@ -6,7 +6,7 @@ item_name: Silent Sentinel
 scc:
   - mcdm.heroes.v1:complication:silent-sentinel
 scdc:
-  - 1.1.1:4:66
+  - 1.1.1:5:66
 source: mcdm.heroes.v1
 type: complication
 ---

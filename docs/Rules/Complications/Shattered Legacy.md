@@ -6,7 +6,7 @@ item_name: Shattered Legacy
 scc:
   - mcdm.heroes.v1:complication:shattered-legacy
 scdc:
-  - 1.1.1:4:02
+  - 1.1.1:5:02
 source: mcdm.heroes.v1
 type: complication
 ---

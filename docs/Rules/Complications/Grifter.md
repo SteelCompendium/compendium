@@ -6,7 +6,7 @@ item_name: Grifter
 scc:
   - mcdm.heroes.v1:complication:grifter
 scdc:
-  - 1.1.1:4:84
+  - 1.1.1:5:84
 source: mcdm.heroes.v1
 type: complication
 ---

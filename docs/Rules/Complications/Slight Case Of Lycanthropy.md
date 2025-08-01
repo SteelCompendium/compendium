@@ -6,7 +6,7 @@ item_name: Slight Case Of Lycanthropy
 scc:
   - mcdm.heroes.v1:complication:slight-case-of-lycanthropy
 scdc:
-  - 1.1.1:4:46
+  - 1.1.1:5:46
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -6,7 +6,7 @@ item_name: Sewer Folk
 scc:
   - mcdm.heroes.v1:complication:sewer-folk
 scdc:
-  - 1.1.1:4:06
+  - 1.1.1:5:06
 source: mcdm.heroes.v1
 type: complication
 ---

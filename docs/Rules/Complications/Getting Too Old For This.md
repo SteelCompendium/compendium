@@ -6,7 +6,7 @@ item_name: Getting Too Old For This
 scc:
   - mcdm.heroes.v1:complication:getting-too-old-for-this
 scdc:
-  - 1.1.1:4:59
+  - 1.1.1:5:59
 source: mcdm.heroes.v1
 type: complication
 ---

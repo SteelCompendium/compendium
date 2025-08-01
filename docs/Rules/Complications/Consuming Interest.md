@@ -6,7 +6,7 @@ item_name: Consuming Interest
 scc:
   - mcdm.heroes.v1:complication:consuming-interest
 scdc:
-  - 1.1.1:4:79
+  - 1.1.1:5:79
 source: mcdm.heroes.v1
 type: complication
 ---

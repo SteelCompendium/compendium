@@ -6,7 +6,7 @@ item_name: Primordial Sickness
 scc:
   - mcdm.heroes.v1:complication:primordial-sickness
 scdc:
-  - 1.1.1:4:34
+  - 1.1.1:5:34
 source: mcdm.heroes.v1
 type: complication
 ---

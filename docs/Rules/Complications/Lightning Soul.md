@@ -6,7 +6,7 @@ item_name: Lightning Soul
 scc:
   - mcdm.heroes.v1:complication:lightning-soul
 scdc:
-  - 1.1.1:4:16
+  - 1.1.1:5:16
 source: mcdm.heroes.v1
 type: complication
 ---

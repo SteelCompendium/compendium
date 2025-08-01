@@ -6,7 +6,7 @@ item_name: Sibling'S Shield
 scc:
   - mcdm.heroes.v1:complication:sibling-s-shield
 scdc:
-  - 1.1.1:4:14
+  - 1.1.1:5:14
 source: mcdm.heroes.v1
 type: complication
 ---

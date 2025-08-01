@@ -6,7 +6,7 @@ item_name: Bereaved
 scc:
   - mcdm.heroes.v1:complication:bereaved
 scdc:
-  - 1.1.1:4:68
+  - 1.1.1:5:68
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -6,7 +6,7 @@ item_name: Medium
 scc:
   - mcdm.heroes.v1:complication:medium
 scdc:
-  - 1.1.1:4:77
+  - 1.1.1:5:77
 source: mcdm.heroes.v1
 type: complication
 ---

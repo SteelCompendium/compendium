@@ -6,7 +6,7 @@ item_name: War Of Assassins
 scc:
   - mcdm.heroes.v1:complication:war-of-assassins
 scdc:
-  - 1.1.1:4:60
+  - 1.1.1:5:60
 source: mcdm.heroes.v1
 type: complication
 ---

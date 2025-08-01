@@ -6,7 +6,7 @@ item_name: Mundane
 scc:
   - mcdm.heroes.v1:complication:mundane
 scdc:
-  - 1.1.1:4:96
+  - 1.1.1:5:96
 source: mcdm.heroes.v1
 type: complication
 ---

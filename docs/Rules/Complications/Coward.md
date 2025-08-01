@@ -6,7 +6,7 @@ item_name: Coward
 scc:
   - mcdm.heroes.v1:complication:coward
 scdc:
-  - 1.1.1:4:47
+  - 1.1.1:5:47
 source: mcdm.heroes.v1
 type: complication
 ---

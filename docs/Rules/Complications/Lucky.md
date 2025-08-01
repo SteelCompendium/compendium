@@ -6,7 +6,7 @@ item_name: Lucky
 scc:
   - mcdm.heroes.v1:complication:lucky
 scdc:
-  - 1.1.1:4:87
+  - 1.1.1:5:87
 source: mcdm.heroes.v1
 type: complication
 ---

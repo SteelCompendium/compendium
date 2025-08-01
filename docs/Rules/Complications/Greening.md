@@ -6,7 +6,7 @@ item_name: Greening
 scc:
   - mcdm.heroes.v1:complication:greening
 scdc:
-  - 1.1.1:4:71
+  - 1.1.1:5:71
 source: mcdm.heroes.v1
 type: complication
 ---

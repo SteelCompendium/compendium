@@ -6,7 +6,7 @@ item_name: Lost Your Head
 scc:
   - mcdm.heroes.v1:complication:lost-your-head
 scdc:
-  - 1.1.1:4:57
+  - 1.1.1:5:57
 source: mcdm.heroes.v1
 type: complication
 ---

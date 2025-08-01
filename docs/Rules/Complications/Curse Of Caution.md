@@ -6,7 +6,7 @@ item_name: Curse Of Caution
 scc:
   - mcdm.heroes.v1:complication:curse-of-caution
 scdc:
-  - 1.1.1:4:26
+  - 1.1.1:5:26
 source: mcdm.heroes.v1
 type: complication
 ---

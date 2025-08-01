@@ -6,7 +6,7 @@ item_name: Ward
 scc:
   - mcdm.heroes.v1:complication:ward
 scdc:
-  - 1.1.1:4:32
+  - 1.1.1:5:32
 source: mcdm.heroes.v1
 type: complication
 ---

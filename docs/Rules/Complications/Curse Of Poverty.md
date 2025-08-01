@@ -6,7 +6,7 @@ item_name: Curse Of Poverty
 scc:
   - mcdm.heroes.v1:complication:curse-of-poverty
 scdc:
-  - 1.1.1:4:62
+  - 1.1.1:5:62
 source: mcdm.heroes.v1
 type: complication
 ---

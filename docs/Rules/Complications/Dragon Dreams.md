@@ -6,7 +6,7 @@ item_name: Dragon Dreams
 scc:
   - mcdm.heroes.v1:complication:dragon-dreams
 scdc:
-  - 1.1.1:4:03
+  - 1.1.1:5:03
 source: mcdm.heroes.v1
 type: complication
 ---

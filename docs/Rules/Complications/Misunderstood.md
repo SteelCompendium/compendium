@@ -6,7 +6,7 @@ item_name: Misunderstood
 scc:
   - mcdm.heroes.v1:complication:misunderstood
 scdc:
-  - 1.1.1:4:50
+  - 1.1.1:5:50
 source: mcdm.heroes.v1
 type: complication
 ---
