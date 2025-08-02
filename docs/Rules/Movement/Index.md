@@ -5,6 +5,8 @@ type: index
 
 # Movement Index
 
+[KNOWN ISSUE] These index links are potentially broken! Use the Nav in the top-left instead
+
 | file_name                                                                         |
 | --------------------------------------------------------------------------------- |
 | ["When A Creature Moves "](../%22When%20A%20Creature%20Moves%20%22)               |

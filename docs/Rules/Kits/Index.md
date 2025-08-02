@@ -5,6 +5,8 @@ type: index
 
 # Kits Index
 
+[KNOWN ISSUE] These index links are potentially broken! Use the Nav in the top-left instead
+
 | file_name                                   |
 | ------------------------------------------- |
 | [Arcane Archer](../Arcane%20Archer)         |

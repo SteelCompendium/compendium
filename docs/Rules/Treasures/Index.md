@@ -5,6 +5,8 @@ type: index
 
 # Treasures Index
 
+[KNOWN ISSUE] These index links are potentially broken! Use the Nav in the top-left instead
+
 | file_name                                                                                         |
 | ------------------------------------------------------------------------------------------------- |
 | [Blade Of A Thousand Years](../Blade%20Of%20A%20Thousand%20Years)                                 |

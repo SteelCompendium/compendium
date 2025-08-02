@@ -5,6 +5,8 @@ type: index
 
 # Titles Index
 
+[KNOWN ISSUE] These index links are potentially broken! Use the Nav in the top-left instead
+
 | file_name                                                   |
 | ----------------------------------------------------------- |
 | [Ancient Loremaster](../Ancient%20Loremaster)               |

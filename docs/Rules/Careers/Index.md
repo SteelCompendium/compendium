@@ -5,6 +5,8 @@ type: index
 
 # Careers Index
 
+[KNOWN ISSUE] These index links are potentially broken! Use the Nav in the top-left instead
+
 | file_name                                 |
 | ----------------------------------------- |
 | [Agent](../Agent)                         |

@@ -5,6 +5,8 @@ type: index
 
 # Skills Index
 
+[KNOWN ISSUE] These index links are potentially broken! Use the Nav in the top-left instead
+
 | file_name                                                       |
 | --------------------------------------------------------------- |
 | [Crafting Skills Table](../Crafting%20Skills%20Table)           |
