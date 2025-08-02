@@ -32519,2079 +32519,1178 @@
 
       </a>
       
-        <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+        
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#fury" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fury
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Fury">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#basics" class="md-nav__link">
-    <span class="md-ellipsis">
-      Basics
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#primordial-aspect" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Aspect
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ferocity
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Ferocity">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#fury-advancement-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fury Advancement Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ferocity-in-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ferocity in Combat
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ferocity-outside-of-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ferocity Outside of Combat
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Growing Ferocity">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#berserker-growing-ferocity-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Berserker Growing Ferocity Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#reaver-growing-ferocity-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Reaver Growing Ferocity Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-aspect-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Aspect Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Aspect Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-aspect-features-tables" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Aspect Features Tables
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#beast-shape" class="md-nav__link">
-    <span class="md-ellipsis">
-      Beast Shape
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-cunning" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Cunning
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-strength" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Strength
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#relentless-hunter" class="md-nav__link">
-    <span class="md-ellipsis">
-      Relentless Hunter
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#aspect-triggered-action" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect Triggered Action
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Aspect Triggered Action">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#aspect-triggered-actions-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect Triggered Actions Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#furious-change" class="md-nav__link">
-    <span class="md-ellipsis">
-      Furious Change
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#lines-of-force" class="md-nav__link">
-    <span class="md-ellipsis">
-      Lines of Force
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#unearthly-reflexes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unearthly Reflexes
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#mighty-leaps" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mighty Leaps
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#fury-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fury Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Fury Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#brutal-slam" class="md-nav__link">
-    <span class="md-ellipsis">
-      Brutal Slam
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hit-and-run" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hit and Run
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#impaled" class="md-nav__link">
-    <span class="md-ellipsis">
-      Impaled!
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#to-the-death" class="md-nav__link">
-    <span class="md-ellipsis">
-      To the Death!
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heroic-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heroic Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Heroic Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3-ferocity-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      3-Ferocity Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#back-3-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Back! (3 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#out-of-the-way-3-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Out of the Way! (3 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#tide-of-death-3-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tide of Death (3 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#your-entrails-are-your-extrails-3-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Your Entrails Are Your Extrails! (3 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5-ferocity-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      5-Ferocity Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#blood-for-blood-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blood for Blood! (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#make-peace-with-your-god-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Make Peace With Your God! (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#thunder-roar-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Thunder Roar (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#to-the-uttermost-end-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      To the Uttermost End (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-aspect-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Aspect Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Aspect Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-aspect-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Aspect Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#inescapable-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Inescapable Wrath
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#tooth-and-claw" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tooth and Claw
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#unstoppable-force" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unstoppable Force
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-aspect-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Aspect Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Aspect Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-berserker-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Berserker Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Berserker Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#special-delivery-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Special Delivery (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#wrecking-ball-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wrecking Ball (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-reaver-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Reaver Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Reaver Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#death-death-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Death … Death! (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#phalanx-breaker-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Phalanx-Breaker (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-stormwight-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Stormwight Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Stormwight Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#apex-predator" class="md-nav__link">
-    <span class="md-ellipsis">
-      Apex Predator
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#visceral-roar-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Visceral Roar (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="3rd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-aspect-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Aspect Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="3rd-Level Aspect Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-aspect-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Aspect Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#immovable-object" class="md-nav__link">
-    <span class="md-ellipsis">
-      Immovable Object
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#natures-knight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Nature's Knight
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#see-through-their-tricks" class="md-nav__link">
-    <span class="md-ellipsis">
-      See Through Their Tricks
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7-ferocity-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      7-Ferocity Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7-Ferocity Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#demon-unleashed-7-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Demon Unleashed (7 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#face-the-storm-7-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Face the Storm! (7 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#steelbreaker-7-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Steelbreaker (7 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#you-are-already-dead-7-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      You Are Already Dead (7 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#4th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      4th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="4th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#damaging-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Damaging Ferocity
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity-improvement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity Improvement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-attunement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Attunement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-strike" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Strike
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-aspect-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Aspect Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Aspect Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-aspect-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Aspect Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#bounder" class="md-nav__link">
-    <span class="md-ellipsis">
-      Bounder
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stormborn" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stormborn
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#unfettered" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unfettered
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9-ferocity-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9-Ferocity Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9-Ferocity Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#debilitating-strike-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Debilitating Strike (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#my-turn-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      My Turn! (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#rebounding-storm-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Rebounding Storm (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#to-stone-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      To Stone! (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#marauder-of-the-primordial-chaos" class="md-nav__link">
-    <span class="md-ellipsis">
-      Marauder of the Primordial Chaos
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-portal" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Portal
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-aspect-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Aspect Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Aspect Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-berserker-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Berserker Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Berserker Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#avalanche-impact-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Avalanche Impact (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#force-of-storms-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Force of Storms (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-reaver-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Reaver Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Reaver Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#death-strike-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Death Strike (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#seek-and-destroy-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Seek and Destroy (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-stormwight-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Stormwight Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Stormwight Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#pounce-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Pounce (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#riders-on-the-storm-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Riders on the Storm (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#elemental-form" class="md-nav__link">
-    <span class="md-ellipsis">
-      Elemental Form
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#greater-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Greater Ferocity
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity-improvement_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity Improvement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-aspect-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Aspect Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Aspect Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-aspect-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Aspect Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#menagerie" class="md-nav__link">
-    <span class="md-ellipsis">
-      Menagerie
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#a-step-ahead" class="md-nav__link">
-    <span class="md-ellipsis">
-      A Step Ahead
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#strongest-there-is" class="md-nav__link">
-    <span class="md-ellipsis">
-      Strongest There Is
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#11-ferocity-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      11-Ferocity Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="11-Ferocity Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#elemental-ferocity-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Elemental Ferocity (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#overkill-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Overkill (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-rage-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Rage (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#relentless-death-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Relentless Death (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#harbinger-of-the-primordial-chaos" class="md-nav__link">
-    <span class="md-ellipsis">
-      Harbinger of the Primordial Chaos
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-aspect-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Aspect Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Aspect Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-berserker-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Berserker Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Berserker Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#death-comes-for-you-all-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Death Comes for You All! (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-vortex-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Vortex (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-reaver-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Reaver Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Reaver Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#primordial-bane-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Bane (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shower-of-blood-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shower of Blood (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-stormwight-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Stormwight Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Stormwight Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#death-rattle-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Death Rattle (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#deluge-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Deluge (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#10th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      10th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="10th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#chaos-incarnate" class="md-nav__link">
-    <span class="md-ellipsis">
-      Chaos Incarnate
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity-improvement_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity Improvement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Ferocity
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-power" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Power
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stormwight-kits" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stormwight Kits
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Stormwight Kits">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#kit-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Kit Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#aspect-benefits-and-animal-form" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect Benefits and Animal Form
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#aspect-of-the-wild" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect of the Wild
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Aspect of the Wild">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#aspect-of-the-wild_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect of the Wild
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-storm" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Storm
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#equipment" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#boren" class="md-nav__link">
-    <span class="md-ellipsis">
-      Boren
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Boren">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#aspect-benefits" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect Benefits
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#animal-form-bear" class="md-nav__link">
-    <span class="md-ellipsis">
-      Animal Form: Bear
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hybrid-form-bear" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hybrid Form: Bear
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-storm-blizzard" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Storm: Blizzard
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#bear-claws" class="md-nav__link">
-    <span class="md-ellipsis">
-      Bear Claws
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Growing Ferocity">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#boren-growing-ferocity-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Boren Growing Ferocity Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#corven" class="md-nav__link">
-    <span class="md-ellipsis">
-      Corven
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Corven">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#aspect-benefits_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect Benefits
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#animal-form-crow" class="md-nav__link">
-    <span class="md-ellipsis">
-      Animal Form: Crow
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hybrid-form-crow" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hybrid Form: Crow
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-storm-anabatic-wind" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Storm: Anabatic Wind
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#wing-buffet" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wing Buffet
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Growing Ferocity">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#corven-growing-ferocity-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Corven Growing Ferocity Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#raden" class="md-nav__link">
-    <span class="md-ellipsis">
-      Raden
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Raden">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#aspect-benefits_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect Benefits
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#animal-form-rat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Animal Form: Rat
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hybrid-form-rat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hybrid Form: Rat
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-storm-rat-flood" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Storm: Rat Flood
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#driving-pounce" class="md-nav__link">
-    <span class="md-ellipsis">
-      Driving Pounce
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Growing Ferocity">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#raden-growing-ferocity-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Raden Growing Ferocity Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#vuken" class="md-nav__link">
-    <span class="md-ellipsis">
-      Vuken
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Vuken">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#aspect-benefits_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect Benefits
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#animal-form-wolf" class="md-nav__link">
-    <span class="md-ellipsis">
-      Animal Form: Wolf
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hybrid-form-wolf" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hybrid Form: Wolf
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-storm-lightning-storm" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Storm: Lightning Storm
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_5" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#unbalancing-attack" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unbalancing Attack
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity_5" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Growing Ferocity">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#vulken-growing-ferocity-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Vulken Growing Ferocity Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fury">Fury</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#basics">Basics</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-features">1st-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-aspect">Primordial Aspect</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ferocity">Ferocity</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fury-advancement-table">Fury Advancement Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ferocity-in-combat">Ferocity in Combat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ferocity-outside-of-combat">Ferocity Outside of Combat</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity">Growing Ferocity</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#berserker-growing-ferocity-table">Berserker Growing Ferocity Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#reaver-growing-ferocity-table">Reaver Growing Ferocity Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-aspect-features">1st-Level Aspect Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-aspect-features-tables">1st-Level Aspect Features Tables</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#beast-shape">Beast Shape</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit">Kit</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-cunning">Primordial Cunning</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-strength">Primordial Strength</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#relentless-hunter">Relentless Hunter</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-triggered-action">Aspect Triggered Action</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-triggered-actions-table">Aspect Triggered Actions Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#furious-change">Furious Change</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lines-of-force">Lines of Force</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unearthly-reflexes">Unearthly Reflexes</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mighty-leaps">Mighty Leaps</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fury-abilities">Fury Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#brutal-slam">Brutal Slam</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hit-and-run">Hit and Run</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#impaled">Impaled!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#to-the-death">To the Death!</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heroic-abilities">Heroic Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3-ferocity-ability">3-Ferocity Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#back-3-ferocity">Back! (3 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#out-of-the-way-3-ferocity">Out of the Way! (3 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tide-of-death-3-ferocity">Tide of Death (3 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#your-entrails-are-your-extrails-3-ferocity">Your Entrails Are Your Extrails! (3 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5-ferocity-ability">5-Ferocity Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blood-for-blood-5-ferocity">Blood for Blood! (5 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#make-peace-with-your-god-5-ferocity">Make Peace With Your God! (5 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#thunder-roar-5-ferocity">Thunder Roar (5 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#to-the-uttermost-end-5-ferocity">To the Uttermost End (5 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-features">2nd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-aspect-feature">2nd-Level Aspect Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-aspect-features-table">2nd-Level Aspect Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#inescapable-wrath">Inescapable Wrath</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tooth-and-claw">Tooth and Claw</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unstoppable-force">Unstoppable Force</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-aspect-ability">2nd-Level Aspect Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-berserker-ability">2nd-Level Berserker Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#special-delivery-5-ferocity">Special Delivery (5 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wrecking-ball-5-ferocity">Wrecking Ball (5 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-reaver-ability">2nd-Level Reaver Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#death-death-5-ferocity">Death … Death! (5 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#phalanx-breaker-5-ferocity">Phalanx-Breaker (5 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-stormwight-ability">2nd-Level Stormwight Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#apex-predator">Apex Predator</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#visceral-roar-5-ferocity">Visceral Roar (5 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-features">3rd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-aspect-feature">3rd-Level Aspect Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-aspect-features-table">3rd-Level Aspect Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#immovable-object">Immovable Object</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#natures-knight">Nature's Knight</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#see-through-their-tricks">See Through Their Tricks</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7-ferocity-ability">7-Ferocity Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#demon-unleashed-7-ferocity">Demon Unleashed (7 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#face-the-storm-7-ferocity">Face the Storm! (7 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#steelbreaker-7-ferocity">Steelbreaker (7 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#you-are-already-dead-7-ferocity">You Are Already Dead (7 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#4th-level-features">4th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#damaging-ferocity">Damaging Ferocity</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity-improvement">Growing Ferocity Improvement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_1">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-attunement">Primordial Attunement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-strike">Primordial Strike</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill">Skill</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-features">5th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-aspect-feature">5th-Level Aspect Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-aspect-features-table">5th-Level Aspect Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#bounder">Bounder</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stormborn">Stormborn</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unfettered">Unfettered</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9-ferocity-ability">9-Ferocity Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#debilitating-strike-9-ferocity">Debilitating Strike (9 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#my-turn-9-ferocity">My Turn! (9 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#rebounding-storm-9-ferocity">Rebounding Storm (9 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#to-stone-9-ferocity">To Stone! (9 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-features">6th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#marauder-of-the-primordial-chaos">Marauder of the Primordial Chaos</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-portal">Primordial Portal</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_2">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-aspect-ability">6th-Level Aspect Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-berserker-abilities">6th-Level Berserker Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#avalanche-impact-9-ferocity">Avalanche Impact (9 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#force-of-storms-9-ferocity">Force of Storms (9 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-reaver-abilities">6th-Level Reaver Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#death-strike-9-ferocity">Death Strike (9 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#seek-and-destroy-9-ferocity">Seek and Destroy (9 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-stormwight-abilities">6th-Level Stormwight Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pounce-9-ferocity">Pounce (9 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#riders-on-the-storm-9-ferocity">Riders on the Storm (9 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-features">7th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_1">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#elemental-form">Elemental Form</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#greater-ferocity">Greater Ferocity</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity-improvement_1">Growing Ferocity Improvement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_1">Skill</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-features">8th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_3">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-aspect-feature">8th-Level Aspect Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-aspect-features-table">8th-Level Aspect Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#menagerie">Menagerie</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#a-step-ahead">A Step Ahead</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#strongest-there-is">Strongest There Is</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#11-ferocity-ability">11-Ferocity Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#elemental-ferocity-11-ferocity">Elemental Ferocity (11 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#overkill-11-ferocity">Overkill (11 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-rage-11-ferocity">Primordial Rage (11 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#relentless-death-11-ferocity">Relentless Death (11 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-features">9th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#harbinger-of-the-primordial-chaos">Harbinger of the Primordial Chaos</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-aspect-ability">9th-Level Aspect Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-berserker-abilities">9th-Level Berserker Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#death-comes-for-you-all-11-ferocity">Death Comes for You All! (11 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-vortex-11-ferocity">Primordial Vortex (11 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-reaver-abilities">9th-Level Reaver Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-bane-11-ferocity">Primordial Bane (11 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shower-of-blood-11-ferocity">Shower of Blood (11 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-stormwight-abilities">9th-Level Stormwight Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#death-rattle-11-ferocity">Death Rattle (11 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#deluge-11-ferocity">Deluge (11 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#10th-level-features">10th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#chaos-incarnate">Chaos Incarnate</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_2">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity-improvement_2">Growing Ferocity Improvement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_4">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-ferocity">Primordial Ferocity</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-power">Primordial Power</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_2">Skill</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stormwight-kits">Stormwight Kits</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-features">Kit Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-benefits-and-animal-form">Aspect Benefits and Animal Form</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-of-the-wild">Aspect of the Wild</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-of-the-wild_1">Aspect of the Wild</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-storm">Primordial Storm</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_1">Signature Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity_1">Growing Ferocity</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#boren">Boren</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-benefits">Aspect Benefits</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#animal-form-bear">Animal Form: Bear</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hybrid-form-bear">Hybrid Form: Bear</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-storm-blizzard">Primordial Storm: Blizzard</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_1">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_2">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#bear-claws">Bear Claws</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity_2">Growing Ferocity</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#boren-growing-ferocity-table">Boren Growing Ferocity Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#corven">Corven</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-benefits_1">Aspect Benefits</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#animal-form-crow">Animal Form: Crow</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hybrid-form-crow">Hybrid Form: Crow</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-storm-anabatic-wind">Primordial Storm: Anabatic Wind</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_2">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_3">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wing-buffet">Wing Buffet</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity_3">Growing Ferocity</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#corven-growing-ferocity-table">Corven Growing Ferocity Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#raden">Raden</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-benefits_2">Aspect Benefits</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#animal-form-rat">Animal Form: Rat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hybrid-form-rat">Hybrid Form: Rat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-storm-rat-flood">Primordial Storm: Rat Flood</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_3">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_4">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#driving-pounce">Driving Pounce</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity_4">Growing Ferocity</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#raden-growing-ferocity-table">Raden Growing Ferocity Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#vuken">Vuken</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-benefits_3">Aspect Benefits</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#animal-form-wolf">Animal Form: Wolf</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hybrid-form-wolf">Hybrid Form: Wolf</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-storm-lightning-storm">Primordial Storm: Lightning Storm</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_4">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_5">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unbalancing-attack">Unbalancing Attack</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity_5">Growing Ferocity</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#vulken-growing-ferocity-table">Vulken Growing Ferocity Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
       
@@ -45666,2079 +44765,1178 @@
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
-                    <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+                    
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#fury" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fury
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Fury">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#basics" class="md-nav__link">
-    <span class="md-ellipsis">
-      Basics
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#primordial-aspect" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Aspect
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ferocity
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Ferocity">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#fury-advancement-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fury Advancement Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ferocity-in-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ferocity in Combat
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ferocity-outside-of-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ferocity Outside of Combat
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Growing Ferocity">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#berserker-growing-ferocity-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Berserker Growing Ferocity Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#reaver-growing-ferocity-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Reaver Growing Ferocity Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-aspect-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Aspect Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Aspect Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-aspect-features-tables" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Aspect Features Tables
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#beast-shape" class="md-nav__link">
-    <span class="md-ellipsis">
-      Beast Shape
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-cunning" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Cunning
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-strength" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Strength
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#relentless-hunter" class="md-nav__link">
-    <span class="md-ellipsis">
-      Relentless Hunter
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#aspect-triggered-action" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect Triggered Action
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Aspect Triggered Action">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#aspect-triggered-actions-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect Triggered Actions Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#furious-change" class="md-nav__link">
-    <span class="md-ellipsis">
-      Furious Change
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#lines-of-force" class="md-nav__link">
-    <span class="md-ellipsis">
-      Lines of Force
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#unearthly-reflexes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unearthly Reflexes
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#mighty-leaps" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mighty Leaps
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#fury-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fury Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Fury Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#brutal-slam" class="md-nav__link">
-    <span class="md-ellipsis">
-      Brutal Slam
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hit-and-run" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hit and Run
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#impaled" class="md-nav__link">
-    <span class="md-ellipsis">
-      Impaled!
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#to-the-death" class="md-nav__link">
-    <span class="md-ellipsis">
-      To the Death!
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heroic-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heroic Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Heroic Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3-ferocity-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      3-Ferocity Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#back-3-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Back! (3 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#out-of-the-way-3-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Out of the Way! (3 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#tide-of-death-3-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tide of Death (3 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#your-entrails-are-your-extrails-3-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Your Entrails Are Your Extrails! (3 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5-ferocity-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      5-Ferocity Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#blood-for-blood-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blood for Blood! (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#make-peace-with-your-god-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Make Peace With Your God! (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#thunder-roar-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Thunder Roar (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#to-the-uttermost-end-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      To the Uttermost End (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-aspect-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Aspect Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Aspect Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-aspect-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Aspect Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#inescapable-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Inescapable Wrath
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#tooth-and-claw" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tooth and Claw
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#unstoppable-force" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unstoppable Force
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-aspect-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Aspect Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Aspect Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-berserker-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Berserker Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Berserker Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#special-delivery-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Special Delivery (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#wrecking-ball-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wrecking Ball (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-reaver-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Reaver Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Reaver Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#death-death-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Death … Death! (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#phalanx-breaker-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Phalanx-Breaker (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-stormwight-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Stormwight Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Stormwight Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#apex-predator" class="md-nav__link">
-    <span class="md-ellipsis">
-      Apex Predator
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#visceral-roar-5-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Visceral Roar (5 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="3rd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-aspect-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Aspect Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="3rd-Level Aspect Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-aspect-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Aspect Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#immovable-object" class="md-nav__link">
-    <span class="md-ellipsis">
-      Immovable Object
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#natures-knight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Nature's Knight
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#see-through-their-tricks" class="md-nav__link">
-    <span class="md-ellipsis">
-      See Through Their Tricks
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7-ferocity-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      7-Ferocity Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7-Ferocity Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#demon-unleashed-7-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Demon Unleashed (7 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#face-the-storm-7-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Face the Storm! (7 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#steelbreaker-7-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Steelbreaker (7 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#you-are-already-dead-7-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      You Are Already Dead (7 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#4th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      4th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="4th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#damaging-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Damaging Ferocity
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity-improvement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity Improvement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-attunement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Attunement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-strike" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Strike
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-aspect-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Aspect Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Aspect Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-aspect-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Aspect Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#bounder" class="md-nav__link">
-    <span class="md-ellipsis">
-      Bounder
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stormborn" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stormborn
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#unfettered" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unfettered
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9-ferocity-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9-Ferocity Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9-Ferocity Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#debilitating-strike-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Debilitating Strike (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#my-turn-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      My Turn! (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#rebounding-storm-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Rebounding Storm (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#to-stone-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      To Stone! (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#marauder-of-the-primordial-chaos" class="md-nav__link">
-    <span class="md-ellipsis">
-      Marauder of the Primordial Chaos
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-portal" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Portal
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-aspect-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Aspect Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Aspect Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-berserker-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Berserker Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Berserker Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#avalanche-impact-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Avalanche Impact (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#force-of-storms-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Force of Storms (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-reaver-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Reaver Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Reaver Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#death-strike-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Death Strike (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#seek-and-destroy-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Seek and Destroy (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-stormwight-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Stormwight Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Stormwight Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#pounce-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Pounce (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#riders-on-the-storm-9-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Riders on the Storm (9 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#elemental-form" class="md-nav__link">
-    <span class="md-ellipsis">
-      Elemental Form
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#greater-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Greater Ferocity
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity-improvement_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity Improvement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-aspect-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Aspect Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Aspect Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-aspect-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Aspect Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#menagerie" class="md-nav__link">
-    <span class="md-ellipsis">
-      Menagerie
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#a-step-ahead" class="md-nav__link">
-    <span class="md-ellipsis">
-      A Step Ahead
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#strongest-there-is" class="md-nav__link">
-    <span class="md-ellipsis">
-      Strongest There Is
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#11-ferocity-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      11-Ferocity Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="11-Ferocity Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#elemental-ferocity-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Elemental Ferocity (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#overkill-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Overkill (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-rage-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Rage (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#relentless-death-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Relentless Death (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#harbinger-of-the-primordial-chaos" class="md-nav__link">
-    <span class="md-ellipsis">
-      Harbinger of the Primordial Chaos
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-aspect-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Aspect Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Aspect Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-berserker-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Berserker Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Berserker Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#death-comes-for-you-all-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Death Comes for You All! (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-vortex-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Vortex (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-reaver-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Reaver Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Reaver Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#primordial-bane-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Bane (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shower-of-blood-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shower of Blood (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-stormwight-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Stormwight Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Stormwight Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#death-rattle-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Death Rattle (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#deluge-11-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Deluge (11 Ferocity)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#10th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      10th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="10th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#chaos-incarnate" class="md-nav__link">
-    <span class="md-ellipsis">
-      Chaos Incarnate
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity-improvement_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity Improvement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-ferocity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Ferocity
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-power" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Power
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stormwight-kits" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stormwight Kits
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Stormwight Kits">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#kit-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Kit Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#aspect-benefits-and-animal-form" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect Benefits and Animal Form
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#aspect-of-the-wild" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect of the Wild
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Aspect of the Wild">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#aspect-of-the-wild_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect of the Wild
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-storm" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Storm
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#equipment" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#boren" class="md-nav__link">
-    <span class="md-ellipsis">
-      Boren
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Boren">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#aspect-benefits" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect Benefits
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#animal-form-bear" class="md-nav__link">
-    <span class="md-ellipsis">
-      Animal Form: Bear
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hybrid-form-bear" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hybrid Form: Bear
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-storm-blizzard" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Storm: Blizzard
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#bear-claws" class="md-nav__link">
-    <span class="md-ellipsis">
-      Bear Claws
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Growing Ferocity">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#boren-growing-ferocity-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Boren Growing Ferocity Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#corven" class="md-nav__link">
-    <span class="md-ellipsis">
-      Corven
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Corven">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#aspect-benefits_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect Benefits
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#animal-form-crow" class="md-nav__link">
-    <span class="md-ellipsis">
-      Animal Form: Crow
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hybrid-form-crow" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hybrid Form: Crow
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-storm-anabatic-wind" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Storm: Anabatic Wind
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#wing-buffet" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wing Buffet
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Growing Ferocity">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#corven-growing-ferocity-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Corven Growing Ferocity Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#raden" class="md-nav__link">
-    <span class="md-ellipsis">
-      Raden
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Raden">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#aspect-benefits_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect Benefits
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#animal-form-rat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Animal Form: Rat
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hybrid-form-rat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hybrid Form: Rat
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-storm-rat-flood" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Storm: Rat Flood
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#driving-pounce" class="md-nav__link">
-    <span class="md-ellipsis">
-      Driving Pounce
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Growing Ferocity">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#raden-growing-ferocity-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Raden Growing Ferocity Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#vuken" class="md-nav__link">
-    <span class="md-ellipsis">
-      Vuken
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Vuken">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#aspect-benefits_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aspect Benefits
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#animal-form-wolf" class="md-nav__link">
-    <span class="md-ellipsis">
-      Animal Form: Wolf
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hybrid-form-wolf" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hybrid Form: Wolf
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#primordial-storm-lightning-storm" class="md-nav__link">
-    <span class="md-ellipsis">
-      Primordial Storm: Lightning Storm
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_5" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#unbalancing-attack" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unbalancing Attack
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#growing-ferocity_5" class="md-nav__link">
-    <span class="md-ellipsis">
-      Growing Ferocity
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Growing Ferocity">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#vulken-growing-ferocity-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Vulken Growing Ferocity Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fury">Fury</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#basics">Basics</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-features">1st-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-aspect">Primordial Aspect</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ferocity">Ferocity</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fury-advancement-table">Fury Advancement Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ferocity-in-combat">Ferocity in Combat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ferocity-outside-of-combat">Ferocity Outside of Combat</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity">Growing Ferocity</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#berserker-growing-ferocity-table">Berserker Growing Ferocity Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#reaver-growing-ferocity-table">Reaver Growing Ferocity Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-aspect-features">1st-Level Aspect Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-aspect-features-tables">1st-Level Aspect Features Tables</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#beast-shape">Beast Shape</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit">Kit</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-cunning">Primordial Cunning</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-strength">Primordial Strength</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#relentless-hunter">Relentless Hunter</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-triggered-action">Aspect Triggered Action</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-triggered-actions-table">Aspect Triggered Actions Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#furious-change">Furious Change</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lines-of-force">Lines of Force</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unearthly-reflexes">Unearthly Reflexes</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mighty-leaps">Mighty Leaps</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fury-abilities">Fury Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#brutal-slam">Brutal Slam</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hit-and-run">Hit and Run</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#impaled">Impaled!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#to-the-death">To the Death!</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heroic-abilities">Heroic Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3-ferocity-ability">3-Ferocity Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#back-3-ferocity">Back! (3 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#out-of-the-way-3-ferocity">Out of the Way! (3 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tide-of-death-3-ferocity">Tide of Death (3 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#your-entrails-are-your-extrails-3-ferocity">Your Entrails Are Your Extrails! (3 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5-ferocity-ability">5-Ferocity Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blood-for-blood-5-ferocity">Blood for Blood! (5 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#make-peace-with-your-god-5-ferocity">Make Peace With Your God! (5 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#thunder-roar-5-ferocity">Thunder Roar (5 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#to-the-uttermost-end-5-ferocity">To the Uttermost End (5 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-features">2nd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-aspect-feature">2nd-Level Aspect Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-aspect-features-table">2nd-Level Aspect Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#inescapable-wrath">Inescapable Wrath</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tooth-and-claw">Tooth and Claw</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unstoppable-force">Unstoppable Force</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-aspect-ability">2nd-Level Aspect Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-berserker-ability">2nd-Level Berserker Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#special-delivery-5-ferocity">Special Delivery (5 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wrecking-ball-5-ferocity">Wrecking Ball (5 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-reaver-ability">2nd-Level Reaver Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#death-death-5-ferocity">Death … Death! (5 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#phalanx-breaker-5-ferocity">Phalanx-Breaker (5 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-stormwight-ability">2nd-Level Stormwight Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#apex-predator">Apex Predator</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#visceral-roar-5-ferocity">Visceral Roar (5 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-features">3rd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-aspect-feature">3rd-Level Aspect Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-aspect-features-table">3rd-Level Aspect Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#immovable-object">Immovable Object</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#natures-knight">Nature's Knight</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#see-through-their-tricks">See Through Their Tricks</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7-ferocity-ability">7-Ferocity Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#demon-unleashed-7-ferocity">Demon Unleashed (7 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#face-the-storm-7-ferocity">Face the Storm! (7 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#steelbreaker-7-ferocity">Steelbreaker (7 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#you-are-already-dead-7-ferocity">You Are Already Dead (7 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#4th-level-features">4th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#damaging-ferocity">Damaging Ferocity</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity-improvement">Growing Ferocity Improvement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_1">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-attunement">Primordial Attunement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-strike">Primordial Strike</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill">Skill</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-features">5th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-aspect-feature">5th-Level Aspect Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-aspect-features-table">5th-Level Aspect Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#bounder">Bounder</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stormborn">Stormborn</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unfettered">Unfettered</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9-ferocity-ability">9-Ferocity Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#debilitating-strike-9-ferocity">Debilitating Strike (9 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#my-turn-9-ferocity">My Turn! (9 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#rebounding-storm-9-ferocity">Rebounding Storm (9 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#to-stone-9-ferocity">To Stone! (9 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-features">6th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#marauder-of-the-primordial-chaos">Marauder of the Primordial Chaos</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-portal">Primordial Portal</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_2">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-aspect-ability">6th-Level Aspect Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-berserker-abilities">6th-Level Berserker Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#avalanche-impact-9-ferocity">Avalanche Impact (9 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#force-of-storms-9-ferocity">Force of Storms (9 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-reaver-abilities">6th-Level Reaver Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#death-strike-9-ferocity">Death Strike (9 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#seek-and-destroy-9-ferocity">Seek and Destroy (9 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-stormwight-abilities">6th-Level Stormwight Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pounce-9-ferocity">Pounce (9 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#riders-on-the-storm-9-ferocity">Riders on the Storm (9 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-features">7th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_1">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#elemental-form">Elemental Form</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#greater-ferocity">Greater Ferocity</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity-improvement_1">Growing Ferocity Improvement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_1">Skill</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-features">8th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_3">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-aspect-feature">8th-Level Aspect Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-aspect-features-table">8th-Level Aspect Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#menagerie">Menagerie</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#a-step-ahead">A Step Ahead</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#strongest-there-is">Strongest There Is</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#11-ferocity-ability">11-Ferocity Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#elemental-ferocity-11-ferocity">Elemental Ferocity (11 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#overkill-11-ferocity">Overkill (11 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-rage-11-ferocity">Primordial Rage (11 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#relentless-death-11-ferocity">Relentless Death (11 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-features">9th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#harbinger-of-the-primordial-chaos">Harbinger of the Primordial Chaos</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-aspect-ability">9th-Level Aspect Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-berserker-abilities">9th-Level Berserker Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#death-comes-for-you-all-11-ferocity">Death Comes for You All! (11 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-vortex-11-ferocity">Primordial Vortex (11 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-reaver-abilities">9th-Level Reaver Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-bane-11-ferocity">Primordial Bane (11 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shower-of-blood-11-ferocity">Shower of Blood (11 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-stormwight-abilities">9th-Level Stormwight Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#death-rattle-11-ferocity">Death Rattle (11 Ferocity)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#deluge-11-ferocity">Deluge (11 Ferocity)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#10th-level-features">10th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#chaos-incarnate">Chaos Incarnate</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_2">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity-improvement_2">Growing Ferocity Improvement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_4">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-ferocity">Primordial Ferocity</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-power">Primordial Power</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_2">Skill</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stormwight-kits">Stormwight Kits</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-features">Kit Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-benefits-and-animal-form">Aspect Benefits and Animal Form</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-of-the-wild">Aspect of the Wild</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-of-the-wild_1">Aspect of the Wild</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-storm">Primordial Storm</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_1">Signature Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity_1">Growing Ferocity</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#boren">Boren</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-benefits">Aspect Benefits</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#animal-form-bear">Animal Form: Bear</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hybrid-form-bear">Hybrid Form: Bear</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-storm-blizzard">Primordial Storm: Blizzard</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_1">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_2">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#bear-claws">Bear Claws</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity_2">Growing Ferocity</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#boren-growing-ferocity-table">Boren Growing Ferocity Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#corven">Corven</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-benefits_1">Aspect Benefits</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#animal-form-crow">Animal Form: Crow</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hybrid-form-crow">Hybrid Form: Crow</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-storm-anabatic-wind">Primordial Storm: Anabatic Wind</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_2">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_3">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wing-buffet">Wing Buffet</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity_3">Growing Ferocity</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#corven-growing-ferocity-table">Corven Growing Ferocity Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#raden">Raden</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-benefits_2">Aspect Benefits</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#animal-form-rat">Animal Form: Rat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hybrid-form-rat">Hybrid Form: Rat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-storm-rat-flood">Primordial Storm: Rat Flood</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_3">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_4">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#driving-pounce">Driving Pounce</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity_4">Growing Ferocity</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#raden-growing-ferocity-table">Raden Growing Ferocity Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#vuken">Vuken</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aspect-benefits_3">Aspect Benefits</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#animal-form-wolf">Animal Form: Wolf</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hybrid-form-wolf">Hybrid Form: Wolf</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#primordial-storm-lightning-storm">Primordial Storm: Lightning Storm</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_4">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_5">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unbalancing-attack">Unbalancing Attack</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#growing-ferocity_5">Growing Ferocity</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#vulken-growing-ferocity-table">Vulken Growing Ferocity Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
                   </div>

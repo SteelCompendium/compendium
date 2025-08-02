@@ -32360,863 +32360,491 @@
 
       </a>
       
-        <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+        
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#when-to-make-a-test" class="md-nav__link">
-    <span class="md-ellipsis">
-      When to Make a Test
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="When to Make a Test">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#it-just-works" class="md-nav__link">
-    <span class="md-ellipsis">
-      It Just Works!
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#how-to-make-a-test" class="md-nav__link">
-    <span class="md-ellipsis">
-      How to Make a Test
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="How to Make a Test">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristics-and-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristics and Tests
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Characteristics and Tests">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#might-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Might Tests
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#agility-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Agility Tests
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#reason-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Reason Tests
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#intuition-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Intuition Tests
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#presence-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Presence Tests
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#test-difficulty" class="md-nav__link">
-    <span class="md-ellipsis">
-      Test Difficulty
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Test Difficulty">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#test-difficulty-outcomes-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Test Difficulty Outcomes Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#easy-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Easy Tests
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#medium-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Medium Tests
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hard-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hard Tests
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#natural-19-or-20-success-with-a-reward" class="md-nav__link">
-    <span class="md-ellipsis">
-      Natural 19 or 20: Success With a Reward
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#test-outcomes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Test Outcomes
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Test Outcomes">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#failure-with-a-consequence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Failure With a Consequence
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#failure" class="md-nav__link">
-    <span class="md-ellipsis">
-      Failure
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#success-with-a-consequence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Success With a Consequence
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#success" class="md-nav__link">
-    <span class="md-ellipsis">
-      Success
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#success-with-a-reward" class="md-nav__link">
-    <span class="md-ellipsis">
-      Success With a Reward
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#how-long-does-it-take" class="md-nav__link">
-    <span class="md-ellipsis">
-      How Long Does It Take?
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="How Long Does It Take?">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#tests-during-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tests During Combat
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#can-i-try-again" class="md-nav__link">
-    <span class="md-ellipsis">
-      Can I Try Again?
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#heroes-make-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heroes Make Tests
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Heroes Make Tests">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#npcs-roll-for-deceptive-tasks" class="md-nav__link">
-    <span class="md-ellipsis">
-      NPCs Roll for Deceptive Tasks
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#opposed-power-rolls" class="md-nav__link">
-    <span class="md-ellipsis">
-      Opposed Power Rolls
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#reactive-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Reactive Tests
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skills
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Skills">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#applying-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Applying Skills
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Applying Skills">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#justify-the-skill" class="md-nav__link">
-    <span class="md-ellipsis">
-      Justify the Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#mixing-characteristics-and-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mixing Characteristics and Skills
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#many-specific-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Many Specific Skills
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill-groups" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill Groups
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Skill Groups">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#crafting-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Crafting Skills
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Crafting Skills">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#crafting-skills-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Crafting Skills Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#exploration-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Exploration Skills
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Exploration Skills">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#exploration-skills-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Exploration Skills Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#interpersonal-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Interpersonal Skills
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Interpersonal Skills">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#interpersonal-skills-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Interpersonal Skills Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#intrigue-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Intrigue Skills
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Intrigue Skills">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#intrigue-skill-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Intrigue Skill Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#lore-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Lore Skills
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Lore Skills">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#lore-skills-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Lore Skills Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#example-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Example Tests
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#assist-a-test" class="md-nav__link">
-    <span class="md-ellipsis">
-      Assist a Test
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#hide-and-sneak" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hide and Sneak
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Hide and Sneak">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#hiding" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hiding
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Hiding">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#searching-for-hidden-creatures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Searching for Hidden Creatures
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#sneaking" class="md-nav__link">
-    <span class="md-ellipsis">
-      Sneaking
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#group-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Group Tests
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Group Tests">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#group-test-difficulty" class="md-nav__link">
-    <span class="md-ellipsis">
-      Group Test Difficulty
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#making-a-group-test" class="md-nav__link">
-    <span class="md-ellipsis">
-      Making a Group Test
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#group-test-outcome" class="md-nav__link">
-    <span class="md-ellipsis">
-      Group Test Outcome
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#montage-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Montage Tests
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Montage Tests">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#time-and-stakes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Time and Stakes
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#director-sets-the-scene" class="md-nav__link">
-    <span class="md-ellipsis">
-      Director Sets the Scene
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#individual-tests-in-montage-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Individual Tests in Montage Tests
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#cant-use-the-same-skill-twice" class="md-nav__link">
-    <span class="md-ellipsis">
-      Can't Use the Same Skill Twice
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#new-challenges-for-each-test" class="md-nav__link">
-    <span class="md-ellipsis">
-      New Challenges for Each Test
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="New Challenges for Each Test">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#introducing-more-challenges" class="md-nav__link">
-    <span class="md-ellipsis">
-      Introducing More Challenges
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#total-successes-and-failures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Total Successes and Failures
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#limited-rounds" class="md-nav__link">
-    <span class="md-ellipsis">
-      Limited Rounds
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#montage-test-difficulty" class="md-nav__link">
-    <span class="md-ellipsis">
-      Montage Test Difficulty
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Montage Test Difficulty">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#montage-test-difficulty-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Montage Test Difficulty Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#montage-test-outcomes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Montage Test Outcomes
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Montage Test Outcomes">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#total-success" class="md-nav__link">
-    <span class="md-ellipsis">
-      Total Success
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#partial-success" class="md-nav__link">
-    <span class="md-ellipsis">
-      Partial Success
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#total-failure" class="md-nav__link">
-    <span class="md-ellipsis">
-      Total Failure
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#sample-montage-test" class="md-nav__link">
-    <span class="md-ellipsis">
-      Sample Montage Test
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Sample Montage Test">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#montage-test-round-1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Montage Test Round 1
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#interlude" class="md-nav__link">
-    <span class="md-ellipsis">
-      Interlude
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#montage-test-round-2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Montage Test Round 2
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#other-options" class="md-nav__link">
-    <span class="md-ellipsis">
-      Other Options
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tests">Tests</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#when-to-make-a-test">When to Make a Test</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#it-just-works">It Just Works!</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#how-to-make-a-test">How to Make a Test</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristics-and-tests">Characteristics and Tests</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#might-tests">Might Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#agility-tests">Agility Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#reason-tests">Reason Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#intuition-tests">Intuition Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#presence-tests">Presence Tests</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#test-difficulty">Test Difficulty</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#test-difficulty-outcomes-table">Test Difficulty Outcomes Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#easy-tests">Easy Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#medium-tests">Medium Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hard-tests">Hard Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#natural-19-or-20-success-with-a-reward">Natural 19 or 20: Success With a Reward</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#test-outcomes">Test Outcomes</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#failure-with-a-consequence">Failure With a Consequence</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#failure">Failure</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#success-with-a-consequence">Success With a Consequence</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#success">Success</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#success-with-a-reward">Success With a Reward</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#how-long-does-it-take">How Long Does It Take?</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tests-during-combat">Tests During Combat</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#can-i-try-again">Can I Try Again?</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heroes-make-tests">Heroes Make Tests</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#npcs-roll-for-deceptive-tasks">NPCs Roll for Deceptive Tasks</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#opposed-power-rolls">Opposed Power Rolls</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#reactive-tests">Reactive Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skills">Skills</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#applying-skills">Applying Skills</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#justify-the-skill">Justify the Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mixing-characteristics-and-skills">Mixing Characteristics and Skills</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#many-specific-skills">Many Specific Skills</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill-groups">Skill Groups</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#crafting-skills">Crafting Skills</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#crafting-skills-table">Crafting Skills Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#exploration-skills">Exploration Skills</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#exploration-skills-table">Exploration Skills Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#interpersonal-skills">Interpersonal Skills</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#interpersonal-skills-table">Interpersonal Skills Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#intrigue-skills">Intrigue Skills</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#intrigue-skill-table">Intrigue Skill Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lore-skills">Lore Skills</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lore-skills-table">Lore Skills Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#example-tests">Example Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#assist-a-test">Assist a Test</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hide-and-sneak">Hide and Sneak</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hiding">Hiding</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#searching-for-hidden-creatures">Searching for Hidden Creatures</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sneaking">Sneaking</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#group-tests">Group Tests</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#group-test-difficulty">Group Test Difficulty</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#making-a-group-test">Making a Group Test</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#group-test-outcome">Group Test Outcome</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-tests">Montage Tests</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#time-and-stakes">Time and Stakes</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#director-sets-the-scene">Director Sets the Scene</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#individual-tests-in-montage-tests">Individual Tests in Montage Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cant-use-the-same-skill-twice">Can't Use the Same Skill Twice</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#new-challenges-for-each-test">New Challenges for Each Test</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#introducing-more-challenges">Introducing More Challenges</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#total-successes-and-failures">Total Successes and Failures</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#limited-rounds">Limited Rounds</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-difficulty">Montage Test Difficulty</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-difficulty-table">Montage Test Difficulty Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-outcomes">Montage Test Outcomes</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#total-success">Total Success</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#partial-success">Partial Success</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#total-failure">Total Failure</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sample-montage-test">Sample Montage Test</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-round-1">Montage Test Round 1</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#interlude">Interlude</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-round-2">Montage Test Round 2</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#other-options">Other Options</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
       
@@ -44452,863 +44080,491 @@
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
-                    <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+                    
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#when-to-make-a-test" class="md-nav__link">
-    <span class="md-ellipsis">
-      When to Make a Test
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="When to Make a Test">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#it-just-works" class="md-nav__link">
-    <span class="md-ellipsis">
-      It Just Works!
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#how-to-make-a-test" class="md-nav__link">
-    <span class="md-ellipsis">
-      How to Make a Test
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="How to Make a Test">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristics-and-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristics and Tests
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Characteristics and Tests">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#might-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Might Tests
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#agility-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Agility Tests
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#reason-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Reason Tests
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#intuition-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Intuition Tests
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#presence-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Presence Tests
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#test-difficulty" class="md-nav__link">
-    <span class="md-ellipsis">
-      Test Difficulty
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Test Difficulty">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#test-difficulty-outcomes-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Test Difficulty Outcomes Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#easy-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Easy Tests
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#medium-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Medium Tests
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hard-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hard Tests
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#natural-19-or-20-success-with-a-reward" class="md-nav__link">
-    <span class="md-ellipsis">
-      Natural 19 or 20: Success With a Reward
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#test-outcomes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Test Outcomes
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Test Outcomes">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#failure-with-a-consequence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Failure With a Consequence
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#failure" class="md-nav__link">
-    <span class="md-ellipsis">
-      Failure
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#success-with-a-consequence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Success With a Consequence
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#success" class="md-nav__link">
-    <span class="md-ellipsis">
-      Success
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#success-with-a-reward" class="md-nav__link">
-    <span class="md-ellipsis">
-      Success With a Reward
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#how-long-does-it-take" class="md-nav__link">
-    <span class="md-ellipsis">
-      How Long Does It Take?
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="How Long Does It Take?">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#tests-during-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tests During Combat
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#can-i-try-again" class="md-nav__link">
-    <span class="md-ellipsis">
-      Can I Try Again?
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#heroes-make-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heroes Make Tests
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Heroes Make Tests">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#npcs-roll-for-deceptive-tasks" class="md-nav__link">
-    <span class="md-ellipsis">
-      NPCs Roll for Deceptive Tasks
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#opposed-power-rolls" class="md-nav__link">
-    <span class="md-ellipsis">
-      Opposed Power Rolls
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#reactive-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Reactive Tests
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skills
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Skills">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#applying-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Applying Skills
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Applying Skills">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#justify-the-skill" class="md-nav__link">
-    <span class="md-ellipsis">
-      Justify the Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#mixing-characteristics-and-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mixing Characteristics and Skills
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#many-specific-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Many Specific Skills
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill-groups" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill Groups
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Skill Groups">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#crafting-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Crafting Skills
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Crafting Skills">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#crafting-skills-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Crafting Skills Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#exploration-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Exploration Skills
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Exploration Skills">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#exploration-skills-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Exploration Skills Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#interpersonal-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Interpersonal Skills
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Interpersonal Skills">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#interpersonal-skills-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Interpersonal Skills Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#intrigue-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Intrigue Skills
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Intrigue Skills">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#intrigue-skill-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Intrigue Skill Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#lore-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Lore Skills
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Lore Skills">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#lore-skills-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Lore Skills Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#example-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Example Tests
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#assist-a-test" class="md-nav__link">
-    <span class="md-ellipsis">
-      Assist a Test
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#hide-and-sneak" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hide and Sneak
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Hide and Sneak">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#hiding" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hiding
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Hiding">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#searching-for-hidden-creatures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Searching for Hidden Creatures
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#sneaking" class="md-nav__link">
-    <span class="md-ellipsis">
-      Sneaking
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#group-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Group Tests
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Group Tests">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#group-test-difficulty" class="md-nav__link">
-    <span class="md-ellipsis">
-      Group Test Difficulty
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#making-a-group-test" class="md-nav__link">
-    <span class="md-ellipsis">
-      Making a Group Test
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#group-test-outcome" class="md-nav__link">
-    <span class="md-ellipsis">
-      Group Test Outcome
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#montage-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Montage Tests
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Montage Tests">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#time-and-stakes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Time and Stakes
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#director-sets-the-scene" class="md-nav__link">
-    <span class="md-ellipsis">
-      Director Sets the Scene
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#individual-tests-in-montage-tests" class="md-nav__link">
-    <span class="md-ellipsis">
-      Individual Tests in Montage Tests
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#cant-use-the-same-skill-twice" class="md-nav__link">
-    <span class="md-ellipsis">
-      Can't Use the Same Skill Twice
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#new-challenges-for-each-test" class="md-nav__link">
-    <span class="md-ellipsis">
-      New Challenges for Each Test
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="New Challenges for Each Test">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#introducing-more-challenges" class="md-nav__link">
-    <span class="md-ellipsis">
-      Introducing More Challenges
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#total-successes-and-failures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Total Successes and Failures
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#limited-rounds" class="md-nav__link">
-    <span class="md-ellipsis">
-      Limited Rounds
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#montage-test-difficulty" class="md-nav__link">
-    <span class="md-ellipsis">
-      Montage Test Difficulty
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Montage Test Difficulty">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#montage-test-difficulty-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Montage Test Difficulty Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#montage-test-outcomes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Montage Test Outcomes
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Montage Test Outcomes">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#total-success" class="md-nav__link">
-    <span class="md-ellipsis">
-      Total Success
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#partial-success" class="md-nav__link">
-    <span class="md-ellipsis">
-      Partial Success
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#total-failure" class="md-nav__link">
-    <span class="md-ellipsis">
-      Total Failure
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#sample-montage-test" class="md-nav__link">
-    <span class="md-ellipsis">
-      Sample Montage Test
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Sample Montage Test">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#montage-test-round-1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Montage Test Round 1
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#interlude" class="md-nav__link">
-    <span class="md-ellipsis">
-      Interlude
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#montage-test-round-2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Montage Test Round 2
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#other-options" class="md-nav__link">
-    <span class="md-ellipsis">
-      Other Options
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tests">Tests</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#when-to-make-a-test">When to Make a Test</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#it-just-works">It Just Works!</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#how-to-make-a-test">How to Make a Test</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristics-and-tests">Characteristics and Tests</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#might-tests">Might Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#agility-tests">Agility Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#reason-tests">Reason Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#intuition-tests">Intuition Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#presence-tests">Presence Tests</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#test-difficulty">Test Difficulty</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#test-difficulty-outcomes-table">Test Difficulty Outcomes Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#easy-tests">Easy Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#medium-tests">Medium Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hard-tests">Hard Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#natural-19-or-20-success-with-a-reward">Natural 19 or 20: Success With a Reward</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#test-outcomes">Test Outcomes</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#failure-with-a-consequence">Failure With a Consequence</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#failure">Failure</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#success-with-a-consequence">Success With a Consequence</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#success">Success</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#success-with-a-reward">Success With a Reward</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#how-long-does-it-take">How Long Does It Take?</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tests-during-combat">Tests During Combat</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#can-i-try-again">Can I Try Again?</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heroes-make-tests">Heroes Make Tests</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#npcs-roll-for-deceptive-tasks">NPCs Roll for Deceptive Tasks</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#opposed-power-rolls">Opposed Power Rolls</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#reactive-tests">Reactive Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skills">Skills</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#applying-skills">Applying Skills</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#justify-the-skill">Justify the Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mixing-characteristics-and-skills">Mixing Characteristics and Skills</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#many-specific-skills">Many Specific Skills</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill-groups">Skill Groups</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#crafting-skills">Crafting Skills</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#crafting-skills-table">Crafting Skills Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#exploration-skills">Exploration Skills</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#exploration-skills-table">Exploration Skills Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#interpersonal-skills">Interpersonal Skills</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#interpersonal-skills-table">Interpersonal Skills Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#intrigue-skills">Intrigue Skills</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#intrigue-skill-table">Intrigue Skill Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lore-skills">Lore Skills</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lore-skills-table">Lore Skills Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#example-tests">Example Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#assist-a-test">Assist a Test</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hide-and-sneak">Hide and Sneak</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hiding">Hiding</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#searching-for-hidden-creatures">Searching for Hidden Creatures</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sneaking">Sneaking</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#group-tests">Group Tests</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#group-test-difficulty">Group Test Difficulty</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#making-a-group-test">Making a Group Test</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#group-test-outcome">Group Test Outcome</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-tests">Montage Tests</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#time-and-stakes">Time and Stakes</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#director-sets-the-scene">Director Sets the Scene</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#individual-tests-in-montage-tests">Individual Tests in Montage Tests</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cant-use-the-same-skill-twice">Can't Use the Same Skill Twice</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#new-challenges-for-each-test">New Challenges for Each Test</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#introducing-more-challenges">Introducing More Challenges</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#total-successes-and-failures">Total Successes and Failures</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#limited-rounds">Limited Rounds</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-difficulty">Montage Test Difficulty</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-difficulty-table">Montage Test Difficulty Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-outcomes">Montage Test Outcomes</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#total-success">Total Success</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#partial-success">Partial Success</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#total-failure">Total Failure</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sample-montage-test">Sample Montage Test</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-round-1">Montage Test Round 1</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#interlude">Interlude</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#montage-test-round-2">Montage Test Round 2</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#other-options">Other Options</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
                   </div>

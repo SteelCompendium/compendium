@@ -32130,941 +32130,535 @@
 
       </a>
       
-        <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+        
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#tracking-projects" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tracking Projects
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#project-prerequisites" class="md-nav__link">
-    <span class="md-ellipsis">
-      Project Prerequisites
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Project Prerequisites">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#item-prerequisite" class="md-nav__link">
-    <span class="md-ellipsis">
-      Item Prerequisite
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#project-source" class="md-nav__link">
-    <span class="md-ellipsis">
-      Project Source
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Project Source">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#search-for-common-project-sources" class="md-nav__link">
-    <span class="md-ellipsis">
-      Search for Common Project Sources
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#project-roll" class="md-nav__link">
-    <span class="md-ellipsis">
-      Project Roll
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Project Roll">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#project-roll-edges-and-banes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Project Roll Edges and Banes
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skills-and-project-rolls" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skills and Project Rolls
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#language-and-project-rolls" class="md-nav__link">
-    <span class="md-ellipsis">
-      Language and Project Rolls
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#guides" class="md-nav__link">
-    <span class="md-ellipsis">
-      Guides
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#for-the-director-project-events" class="md-nav__link">
-    <span class="md-ellipsis">
-      For the Director: Project Events
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="For the Director: Project Events">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#when-to-use-project-events" class="md-nav__link">
-    <span class="md-ellipsis">
-      When To Use Project Events
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#roll-for-event" class="md-nav__link">
-    <span class="md-ellipsis">
-      Roll for Event
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#event-milestones" class="md-nav__link">
-    <span class="md-ellipsis">
-      Event Milestones
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Event Milestones">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#suggested-event-milestones" class="md-nav__link">
-    <span class="md-ellipsis">
-      Suggested Event Milestones
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#whenever-you-want" class="md-nav__link">
-    <span class="md-ellipsis">
-      Whenever You Want
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#deploying-events" class="md-nav__link">
-    <span class="md-ellipsis">
-      Deploying Events
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#automatic-breakthrough" class="md-nav__link">
-    <span class="md-ellipsis">
-      Automatic Breakthrough
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#crafting-projects" class="md-nav__link">
-    <span class="md-ellipsis">
-      Crafting Projects
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Crafting Projects">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#build-airship" class="md-nav__link">
-    <span class="md-ellipsis">
-      Build Airship
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Build Airship">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#build-or-repair-road-renown-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Build or Repair Road Renown Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#build-or-repair-road" class="md-nav__link">
-    <span class="md-ellipsis">
-      Build or Repair Road
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Build or Repair Road">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#build-or-repair-roads-events-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Build or Repair Roads Events Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#craft-teleportation-platform" class="md-nav__link">
-    <span class="md-ellipsis">
-      Craft Teleportation Platform
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#craft-treasure" class="md-nav__link">
-    <span class="md-ellipsis">
-      Craft Treasure
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#find-a-cure" class="md-nav__link">
-    <span class="md-ellipsis">
-      Find a Cure
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#imbue-treasure" class="md-nav__link">
-    <span class="md-ellipsis">
-      Imbue Treasure
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Imbue Treasure">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#imbue-armor" class="md-nav__link">
-    <span class="md-ellipsis">
-      Imbue Armor
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Imbue Armor">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-armor-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Armor Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-armor-enhancements-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Armor Enhancements Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-armor-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Armor Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-armor-enhancements-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Armor Enhancements Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-armor-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Armor Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#dragons-fire" class="md-nav__link">
-    <span class="md-ellipsis">
-      Dragon's Fire
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-armor-enhancements-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Armor Enhancements Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#imbue-implement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Imbue Implement
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Imbue Implement">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-implement-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Implement Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-implement-enhancements-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Implement Enhancements Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-implement-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Implement Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-implement-enhancements-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Implement Enhancements Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-implement-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Implement Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-implement-enhancements-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Implement Enhancements Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#imbue-weapon" class="md-nav__link">
-    <span class="md-ellipsis">
-      Imbue Weapon
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Imbue Weapon">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#unarmed-strike-treasures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unarmed Strike Treasures
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-weapon-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Weapon Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-weapon-enhancements-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Weapon Enhancements Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-weapon-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Weapon Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stop-right-there" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stop Right There
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-weapon-enhancements" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Weapon Enhancements
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-weapon-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Weapon Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#nova" class="md-nav__link">
-    <span class="md-ellipsis">
-      Nova
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-weapon-enhancements" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Weapon Enhancements
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#research-projects" class="md-nav__link">
-    <span class="md-ellipsis">
-      Research Projects
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Research Projects">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#discover-lore" class="md-nav__link">
-    <span class="md-ellipsis">
-      Discover Lore
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Discover Lore">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#discover-lore-project-goals-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Discover Lore Project Goals Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#common-knowledge" class="md-nav__link">
-    <span class="md-ellipsis">
-      Common Knowledge
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#obscure-knowledge" class="md-nav__link">
-    <span class="md-ellipsis">
-      Obscure Knowledge
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#lost-knowledge" class="md-nav__link">
-    <span class="md-ellipsis">
-      Lost Knowledge
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#forbidden-knowledge" class="md-nav__link">
-    <span class="md-ellipsis">
-      Forbidden Knowledge
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Forbidden Knowledge">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#crafting-and-research-events-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Crafting and Research Events Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#go-undercover" class="md-nav__link">
-    <span class="md-ellipsis">
-      Go Undercover
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Go Undercover">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#complications" class="md-nav__link">
-    <span class="md-ellipsis">
-      Complications
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Complications">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#hone-career-skills-events-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hone Career Skills Events Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hone-career-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hone Career Skills
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#learn-from-a-master" class="md-nav__link">
-    <span class="md-ellipsis">
-      Learn From a Master
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Learn From a Master">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#learn-from-a-master-events-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Learn From a Master Events Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#learn-from-master-project-goals-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Learn from Master Project Goals Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#acquire-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Acquire Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hone-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hone Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#improve-control" class="md-nav__link">
-    <span class="md-ellipsis">
-      Improve Control
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#learn-new-language" class="md-nav__link">
-    <span class="md-ellipsis">
-      Learn New Language
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#learn-new-skill" class="md-nav__link">
-    <span class="md-ellipsis">
-      Learn New Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perfect-new-recipe" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perfect New Recipe
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Perfect New Recipe">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#recipe-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Recipe Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#other-projects" class="md-nav__link">
-    <span class="md-ellipsis">
-      Other Projects
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Other Projects">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#community-service" class="md-nav__link">
-    <span class="md-ellipsis">
-      Community Service
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Community Service">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#community-service-events-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Community Service Events Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#fishing" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fishing
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Fishing">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#tackle-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tackle Table
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Tackle Table">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#fishing-events-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fishing Events Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#spend-time-with-loved-ones" class="md-nav__link">
-    <span class="md-ellipsis">
-      Spend Time With Loved Ones
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Spend Time With Loved Ones">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#spend-time-with-loved-ones-events-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Spend Time With Loved Ones Events Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#downtime-projects">Downtime Projects</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tracking-projects">Tracking Projects</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#project-prerequisites">Project Prerequisites</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#item-prerequisite">Item Prerequisite</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#project-source">Project Source</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#search-for-common-project-sources">Search for Common Project Sources</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#project-roll">Project Roll</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#project-roll-edges-and-banes">Project Roll Edges and Banes</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skills-and-project-rolls">Skills and Project Rolls</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#language-and-project-rolls">Language and Project Rolls</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#guides">Guides</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#for-the-director-project-events">For the Director: Project Events</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#when-to-use-project-events">When To Use Project Events</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#roll-for-event">Roll for Event</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#event-milestones">Event Milestones</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#suggested-event-milestones">Suggested Event Milestones</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#whenever-you-want">Whenever You Want</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#deploying-events">Deploying Events</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#automatic-breakthrough">Automatic Breakthrough</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#crafting-projects">Crafting Projects</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#build-airship">Build Airship</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#build-or-repair-road-renown-table">Build or Repair Road Renown Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#build-or-repair-road">Build or Repair Road</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#build-or-repair-roads-events-table">Build or Repair Roads Events Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#craft-teleportation-platform">Craft Teleportation Platform</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#craft-treasure">Craft Treasure</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#find-a-cure">Find a Cure</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#imbue-treasure">Imbue Treasure</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#imbue-armor">Imbue Armor</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-armor-enhancement">1st-Level Armor Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-armor-enhancements-table">1st-Level Armor Enhancements Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-armor-enhancement">5th-Level Armor Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-armor-enhancements-table">5th-Level Armor Enhancements Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-armor-enhancement">9th-Level Armor Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#dragons-fire">Dragon's Fire</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-armor-enhancements-table">9th-Level Armor Enhancements Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#imbue-implement">Imbue Implement</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-implement-enhancement">1st-Level Implement Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-implement-enhancements-table">1st-Level Implement Enhancements Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-implement-enhancement">5th-Level Implement Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-implement-enhancements-table">5th-Level Implement Enhancements Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-implement-enhancement">9th-Level Implement Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-implement-enhancements-table">9th-Level Implement Enhancements Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#imbue-weapon">Imbue Weapon</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unarmed-strike-treasures">Unarmed Strike Treasures</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-weapon-enhancement">1st-Level Weapon Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-weapon-enhancements-table">1st-Level Weapon Enhancements Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-weapon-enhancement">5th-Level Weapon Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stop-right-there">Stop Right There</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-weapon-enhancements">5th-Level Weapon Enhancements</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-weapon-enhancement">9th-Level Weapon Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#nova">Nova</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-weapon-enhancements">9th-Level Weapon Enhancements</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#research-projects">Research Projects</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#discover-lore">Discover Lore</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#discover-lore-project-goals-table">Discover Lore Project Goals Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#common-knowledge">Common Knowledge</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#obscure-knowledge">Obscure Knowledge</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lost-knowledge">Lost Knowledge</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#forbidden-knowledge">Forbidden Knowledge</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#crafting-and-research-events-table">Crafting and Research Events Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#go-undercover">Go Undercover</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#complications">Complications</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hone-career-skills-events-table">Hone Career Skills Events Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hone-career-skills">Hone Career Skills</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#learn-from-a-master">Learn From a Master</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#learn-from-a-master-events-table">Learn From a Master Events Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#learn-from-master-project-goals-table">Learn from Master Project Goals Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#acquire-ability">Acquire Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hone-ability">Hone Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#improve-control">Improve Control</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#learn-new-language">Learn New Language</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#learn-new-skill">Learn New Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perfect-new-recipe">Perfect New Recipe</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#recipe-table">Recipe Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#other-projects">Other Projects</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#community-service">Community Service</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#community-service-events-table">Community Service Events Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fishing">Fishing</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tackle-table">Tackle Table</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fishing-events-table">Fishing Events Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#spend-time-with-loved-ones">Spend Time With Loved Ones</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#spend-time-with-loved-ones-events-table">Spend Time With Loved Ones Events Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
       
@@ -44530,941 +44124,535 @@
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
-                    <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+                    
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#tracking-projects" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tracking Projects
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#project-prerequisites" class="md-nav__link">
-    <span class="md-ellipsis">
-      Project Prerequisites
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Project Prerequisites">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#item-prerequisite" class="md-nav__link">
-    <span class="md-ellipsis">
-      Item Prerequisite
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#project-source" class="md-nav__link">
-    <span class="md-ellipsis">
-      Project Source
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Project Source">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#search-for-common-project-sources" class="md-nav__link">
-    <span class="md-ellipsis">
-      Search for Common Project Sources
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#project-roll" class="md-nav__link">
-    <span class="md-ellipsis">
-      Project Roll
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Project Roll">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#project-roll-edges-and-banes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Project Roll Edges and Banes
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skills-and-project-rolls" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skills and Project Rolls
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#language-and-project-rolls" class="md-nav__link">
-    <span class="md-ellipsis">
-      Language and Project Rolls
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#guides" class="md-nav__link">
-    <span class="md-ellipsis">
-      Guides
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#for-the-director-project-events" class="md-nav__link">
-    <span class="md-ellipsis">
-      For the Director: Project Events
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="For the Director: Project Events">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#when-to-use-project-events" class="md-nav__link">
-    <span class="md-ellipsis">
-      When To Use Project Events
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#roll-for-event" class="md-nav__link">
-    <span class="md-ellipsis">
-      Roll for Event
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#event-milestones" class="md-nav__link">
-    <span class="md-ellipsis">
-      Event Milestones
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Event Milestones">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#suggested-event-milestones" class="md-nav__link">
-    <span class="md-ellipsis">
-      Suggested Event Milestones
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#whenever-you-want" class="md-nav__link">
-    <span class="md-ellipsis">
-      Whenever You Want
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#deploying-events" class="md-nav__link">
-    <span class="md-ellipsis">
-      Deploying Events
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#automatic-breakthrough" class="md-nav__link">
-    <span class="md-ellipsis">
-      Automatic Breakthrough
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#crafting-projects" class="md-nav__link">
-    <span class="md-ellipsis">
-      Crafting Projects
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Crafting Projects">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#build-airship" class="md-nav__link">
-    <span class="md-ellipsis">
-      Build Airship
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Build Airship">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#build-or-repair-road-renown-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Build or Repair Road Renown Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#build-or-repair-road" class="md-nav__link">
-    <span class="md-ellipsis">
-      Build or Repair Road
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Build or Repair Road">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#build-or-repair-roads-events-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Build or Repair Roads Events Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#craft-teleportation-platform" class="md-nav__link">
-    <span class="md-ellipsis">
-      Craft Teleportation Platform
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#craft-treasure" class="md-nav__link">
-    <span class="md-ellipsis">
-      Craft Treasure
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#find-a-cure" class="md-nav__link">
-    <span class="md-ellipsis">
-      Find a Cure
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#imbue-treasure" class="md-nav__link">
-    <span class="md-ellipsis">
-      Imbue Treasure
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Imbue Treasure">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#imbue-armor" class="md-nav__link">
-    <span class="md-ellipsis">
-      Imbue Armor
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Imbue Armor">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-armor-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Armor Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-armor-enhancements-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Armor Enhancements Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-armor-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Armor Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-armor-enhancements-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Armor Enhancements Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-armor-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Armor Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#dragons-fire" class="md-nav__link">
-    <span class="md-ellipsis">
-      Dragon's Fire
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-armor-enhancements-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Armor Enhancements Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#imbue-implement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Imbue Implement
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Imbue Implement">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-implement-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Implement Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-implement-enhancements-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Implement Enhancements Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-implement-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Implement Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-implement-enhancements-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Implement Enhancements Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-implement-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Implement Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-implement-enhancements-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Implement Enhancements Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#imbue-weapon" class="md-nav__link">
-    <span class="md-ellipsis">
-      Imbue Weapon
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Imbue Weapon">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#unarmed-strike-treasures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unarmed Strike Treasures
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-weapon-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Weapon Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-weapon-enhancements-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Weapon Enhancements Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-weapon-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Weapon Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stop-right-there" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stop Right There
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-weapon-enhancements" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Weapon Enhancements
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-weapon-enhancement" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Weapon Enhancement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#nova" class="md-nav__link">
-    <span class="md-ellipsis">
-      Nova
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-weapon-enhancements" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Weapon Enhancements
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#research-projects" class="md-nav__link">
-    <span class="md-ellipsis">
-      Research Projects
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Research Projects">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#discover-lore" class="md-nav__link">
-    <span class="md-ellipsis">
-      Discover Lore
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Discover Lore">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#discover-lore-project-goals-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Discover Lore Project Goals Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#common-knowledge" class="md-nav__link">
-    <span class="md-ellipsis">
-      Common Knowledge
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#obscure-knowledge" class="md-nav__link">
-    <span class="md-ellipsis">
-      Obscure Knowledge
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#lost-knowledge" class="md-nav__link">
-    <span class="md-ellipsis">
-      Lost Knowledge
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#forbidden-knowledge" class="md-nav__link">
-    <span class="md-ellipsis">
-      Forbidden Knowledge
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Forbidden Knowledge">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#crafting-and-research-events-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Crafting and Research Events Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#go-undercover" class="md-nav__link">
-    <span class="md-ellipsis">
-      Go Undercover
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Go Undercover">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#complications" class="md-nav__link">
-    <span class="md-ellipsis">
-      Complications
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Complications">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#hone-career-skills-events-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hone Career Skills Events Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hone-career-skills" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hone Career Skills
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#learn-from-a-master" class="md-nav__link">
-    <span class="md-ellipsis">
-      Learn From a Master
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Learn From a Master">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#learn-from-a-master-events-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Learn From a Master Events Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#learn-from-master-project-goals-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Learn from Master Project Goals Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#acquire-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Acquire Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hone-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hone Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#improve-control" class="md-nav__link">
-    <span class="md-ellipsis">
-      Improve Control
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#learn-new-language" class="md-nav__link">
-    <span class="md-ellipsis">
-      Learn New Language
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#learn-new-skill" class="md-nav__link">
-    <span class="md-ellipsis">
-      Learn New Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perfect-new-recipe" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perfect New Recipe
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Perfect New Recipe">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#recipe-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Recipe Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#other-projects" class="md-nav__link">
-    <span class="md-ellipsis">
-      Other Projects
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Other Projects">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#community-service" class="md-nav__link">
-    <span class="md-ellipsis">
-      Community Service
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Community Service">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#community-service-events-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Community Service Events Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#fishing" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fishing
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Fishing">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#tackle-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tackle Table
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Tackle Table">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#fishing-events-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fishing Events Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#spend-time-with-loved-ones" class="md-nav__link">
-    <span class="md-ellipsis">
-      Spend Time With Loved Ones
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Spend Time With Loved Ones">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#spend-time-with-loved-ones-events-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Spend Time With Loved Ones Events Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#downtime-projects">Downtime Projects</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tracking-projects">Tracking Projects</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#project-prerequisites">Project Prerequisites</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#item-prerequisite">Item Prerequisite</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#project-source">Project Source</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#search-for-common-project-sources">Search for Common Project Sources</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#project-roll">Project Roll</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#project-roll-edges-and-banes">Project Roll Edges and Banes</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skills-and-project-rolls">Skills and Project Rolls</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#language-and-project-rolls">Language and Project Rolls</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#guides">Guides</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#for-the-director-project-events">For the Director: Project Events</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#when-to-use-project-events">When To Use Project Events</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#roll-for-event">Roll for Event</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#event-milestones">Event Milestones</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#suggested-event-milestones">Suggested Event Milestones</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#whenever-you-want">Whenever You Want</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#deploying-events">Deploying Events</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#automatic-breakthrough">Automatic Breakthrough</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#crafting-projects">Crafting Projects</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#build-airship">Build Airship</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#build-or-repair-road-renown-table">Build or Repair Road Renown Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#build-or-repair-road">Build or Repair Road</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#build-or-repair-roads-events-table">Build or Repair Roads Events Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#craft-teleportation-platform">Craft Teleportation Platform</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#craft-treasure">Craft Treasure</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#find-a-cure">Find a Cure</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#imbue-treasure">Imbue Treasure</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#imbue-armor">Imbue Armor</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-armor-enhancement">1st-Level Armor Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-armor-enhancements-table">1st-Level Armor Enhancements Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-armor-enhancement">5th-Level Armor Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-armor-enhancements-table">5th-Level Armor Enhancements Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-armor-enhancement">9th-Level Armor Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#dragons-fire">Dragon's Fire</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-armor-enhancements-table">9th-Level Armor Enhancements Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#imbue-implement">Imbue Implement</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-implement-enhancement">1st-Level Implement Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-implement-enhancements-table">1st-Level Implement Enhancements Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-implement-enhancement">5th-Level Implement Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-implement-enhancements-table">5th-Level Implement Enhancements Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-implement-enhancement">9th-Level Implement Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-implement-enhancements-table">9th-Level Implement Enhancements Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#imbue-weapon">Imbue Weapon</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unarmed-strike-treasures">Unarmed Strike Treasures</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-weapon-enhancement">1st-Level Weapon Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-weapon-enhancements-table">1st-Level Weapon Enhancements Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-weapon-enhancement">5th-Level Weapon Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stop-right-there">Stop Right There</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-weapon-enhancements">5th-Level Weapon Enhancements</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-weapon-enhancement">9th-Level Weapon Enhancement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#nova">Nova</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-weapon-enhancements">9th-Level Weapon Enhancements</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#research-projects">Research Projects</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#discover-lore">Discover Lore</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#discover-lore-project-goals-table">Discover Lore Project Goals Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#common-knowledge">Common Knowledge</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#obscure-knowledge">Obscure Knowledge</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lost-knowledge">Lost Knowledge</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#forbidden-knowledge">Forbidden Knowledge</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#crafting-and-research-events-table">Crafting and Research Events Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#go-undercover">Go Undercover</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#complications">Complications</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hone-career-skills-events-table">Hone Career Skills Events Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hone-career-skills">Hone Career Skills</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#learn-from-a-master">Learn From a Master</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#learn-from-a-master-events-table">Learn From a Master Events Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#learn-from-master-project-goals-table">Learn from Master Project Goals Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#acquire-ability">Acquire Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hone-ability">Hone Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#improve-control">Improve Control</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#learn-new-language">Learn New Language</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#learn-new-skill">Learn New Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perfect-new-recipe">Perfect New Recipe</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#recipe-table">Recipe Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#other-projects">Other Projects</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#community-service">Community Service</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#community-service-events-table">Community Service Events Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fishing">Fishing</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tackle-table">Tackle Table</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fishing-events-table">Fishing Events Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#spend-time-with-loved-ones">Spend Time With Loved Ones</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#spend-time-with-loved-ones-events-table">Spend Time With Loved Ones Events Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
                   </div>

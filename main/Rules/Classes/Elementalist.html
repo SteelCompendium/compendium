@@ -32496,1782 +32496,1007 @@
 
       </a>
       
-        <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+        
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#elementalist" class="md-nav__link">
-    <span class="md-ellipsis">
-      Elementalist
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Elementalist">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#basics" class="md-nav__link">
-    <span class="md-ellipsis">
-      Basics
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#elemental-specialization" class="md-nav__link">
-    <span class="md-ellipsis">
-      Elemental Specialization
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Elemental Specialization">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#earth-acolyte-of-earth" class="md-nav__link">
-    <span class="md-ellipsis">
-      Earth: Acolyte of Earth
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Earth: Acolyte of Earth">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#elementalist-advancement-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Elementalist Advancement Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#fire-acolyte-of-fire" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fire: Acolyte of Fire
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#green-acolyte-of-the-green" class="md-nav__link">
-    <span class="md-ellipsis">
-      Green: Acolyte of the Green
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#void-acolyte-of-the-mystery" class="md-nav__link">
-    <span class="md-ellipsis">
-      Void: Acolyte of the Mystery
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Essence
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Essence">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#essence-in-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Essence in Combat
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#essence-outside-of-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Essence Outside of Combat
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hurl-element" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hurl Element
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Hurl Element">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#hurl-element_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hurl Element
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#persistent-magic" class="md-nav__link">
-    <span class="md-ellipsis">
-      Persistent Magic
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#practical-magic" class="md-nav__link">
-    <span class="md-ellipsis">
-      Practical Magic
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Practical Magic">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#practical-magic_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Practical Magic
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-specialization-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Specialization Feature
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-elemental-specialization-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Elemental Specialization Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Elemental Specialization Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#a-beyonding-of-vision" class="md-nav__link">
-    <span class="md-ellipsis">
-      A Beyonding of Vision
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="A Beyonding of Vision">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#shared-void-sense" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shared Void Sense
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#it-is-the-soul-which-hears" class="md-nav__link">
-    <span class="md-ellipsis">
-      It Is the Soul Which Hears
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#motivate-earth" class="md-nav__link">
-    <span class="md-ellipsis">
-      Motivate Earth
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Motivate Earth">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#motivate-earth_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Motivate Earth
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#return-to-formlessness" class="md-nav__link">
-    <span class="md-ellipsis">
-      Return to Formlessness
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Return to Formlessness">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#return-to-formlessness_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Return to Formlessness
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#specialization-triggered-action" class="md-nav__link">
-    <span class="md-ellipsis">
-      Specialization Triggered Action
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Specialization Triggered Action">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#elemental-specialization-triggered-actions-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Elemental Specialization Triggered Actions Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#breath-of-dawn-remembered" class="md-nav__link">
-    <span class="md-ellipsis">
-      Breath of Dawn Remembered
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#explosive-assistance" class="md-nav__link">
-    <span class="md-ellipsis">
-      Explosive Assistance
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skin-like-castle-walls" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skin Like Castle Walls
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#subtle-relocation" class="md-nav__link">
-    <span class="md-ellipsis">
-      Subtle Relocation
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#enchantment" class="md-nav__link">
-    <span class="md-ellipsis">
-      Enchantment
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Enchantment">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#enchantment-of-battle" class="md-nav__link">
-    <span class="md-ellipsis">
-      Enchantment of Battle
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#enchantment-of-celerity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Enchantment of Celerity
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#enchantment-of-destruction" class="md-nav__link">
-    <span class="md-ellipsis">
-      Enchantment of Destruction
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#enchantment-of-distance" class="md-nav__link">
-    <span class="md-ellipsis">
-      Enchantment of Distance
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#enchantment-of-permanence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Enchantment of Permanence
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#elementalist-ward" class="md-nav__link">
-    <span class="md-ellipsis">
-      Elementalist Ward
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Elementalist Ward">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#ward-of-delightful-consequences" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ward of Delightful Consequences
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ward-of-excellent-protection" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ward of Excellent Protection
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ward-of-natures-affection" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ward of Nature's Affection
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ward-of-surprising-reactivity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ward of Surprising Reactivity
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#elementalist-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Elementalist Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Elementalist Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#signature-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#afflict-a-bountiful-decay" class="md-nav__link">
-    <span class="md-ellipsis">
-      Afflict a Bountiful Decay
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#bifurcated-incineration" class="md-nav__link">
-    <span class="md-ellipsis">
-      Bifurcated Incineration
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#grasp-of-beyond" class="md-nav__link">
-    <span class="md-ellipsis">
-      Grasp of Beyond
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#the-green-within-the-green-without" class="md-nav__link">
-    <span class="md-ellipsis">
-      The Green Within, the Green Without
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#meteoric-introduction" class="md-nav__link">
-    <span class="md-ellipsis">
-      Meteoric Introduction
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ry-of-agonizing-self-reflection" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ry of Agonizing Self-Reflection
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#unquiet-ground" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unquiet Ground
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#viscous-fire" class="md-nav__link">
-    <span class="md-ellipsis">
-      Viscous Fire
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heroic-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heroic Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Heroic Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3-essence-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      3-Essence Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#behold-the-mystery-3-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Behold the Mystery (3 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#the-flesh-a-crucible-3-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      The Flesh, a Crucible (3 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#invigorating-growth-3-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Invigorating Growth (3 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ripples-in-the-earth-3-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ripples in the Earth (3 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5-essence-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      5-Essence Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#conflagration-5-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Conflagration (5 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#instantaneous-excavation-5-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Instantaneous Excavation (5 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#no-more-than-a-breeze-5-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      No More Than a Breeze (5 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#test-of-rain-5-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Test of Rain (5 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-specialization-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Specialization Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Specialization Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-elemental-specialization-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Elemental Specialization Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#disciple-of-earth" class="md-nav__link">
-    <span class="md-ellipsis">
-      Disciple of Earth
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#disciple-of-fire" class="md-nav__link">
-    <span class="md-ellipsis">
-      Disciple of Fire
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#disciple-of-the-green" class="md-nav__link">
-    <span class="md-ellipsis">
-      Disciple of the Green
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Disciple of the Green">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#green-animal-forms-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Green Animal Forms Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#there-is-no-space-between" class="md-nav__link">
-    <span class="md-ellipsis">
-      There Is No Space Between
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="There Is No Space Between">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#there-is-no-space-between_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      There Is No Space Between
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#new-5-essence-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      New 5-Essence Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="New 5-Essence Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#o-flower-aid-o-earth-defend-5-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      O Flower Aid, O Earth Defend (5 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#subvert-the-green-within-5-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Subvert the Green Within (5 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#translated-through-flame-5-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Translated Through Flame (5 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#volcanos-embrace-5-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Volcano's Embrace (5 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="3rd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-specialization-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Specialization Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="3rd-Level Specialization Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-elemental-specialization-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Elemental Specialization Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#a-conversation-with-fire" class="md-nav__link">
-    <span class="md-ellipsis">
-      A Conversation With Fire
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#distance-is-only-memory" class="md-nav__link">
-    <span class="md-ellipsis">
-      Distance Is Only Memory
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#earth-accepts-me" class="md-nav__link">
-    <span class="md-ellipsis">
-      Earth Accepts Me
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Earth Accepts Me">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#earth-accepts-me_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Earth Accepts Me
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#remember-growth-and-sun-and-rain" class="md-nav__link">
-    <span class="md-ellipsis">
-      Remember Growth and Sun and Rain
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Remember Growth and Sun and Rain">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#remember-growth-and-sun-and-rain_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Remember Growth and Sun and Rain
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7-essence-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      7-Essence Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7-Essence Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#erase-7-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Erase (7 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#maw-of-earth-7-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Maw of Earth (7 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#swarm-of-spirits-7-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Swarm of Spirits (7 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#wall-of-fire-7-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wall of Fire (7 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#4th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      4th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="4th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#font-of-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Font of Essence
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#mantle-of-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mantle of Essence
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Mantle of Essence">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#mantle-of-essence-specialization-effects-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mantle of Essence Specialization Effects Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#burning-grounds" class="md-nav__link">
-    <span class="md-ellipsis">
-      Burning Grounds
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#flowering-bed" class="md-nav__link">
-    <span class="md-ellipsis">
-      Flowering Bed
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#quaking-earth" class="md-nav__link">
-    <span class="md-ellipsis">
-      Quaking Earth
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#veiling-bed" class="md-nav__link">
-    <span class="md-ellipsis">
-      Veiling Bed
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-specialization-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Specialization Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Specialization Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-elemental-specialization-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Elemental Specialization Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hide-of-tenfold-shields" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hide of Tenfold Shields
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#the-mountain-does-not-move" class="md-nav__link">
-    <span class="md-ellipsis">
-      The Mountain Does Not Move
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#pierce-the-veil-of-substance" class="md-nav__link">
-    <span class="md-ellipsis">
-      Pierce the Veil of Substance
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#smoldering-step" class="md-nav__link">
-    <span class="md-ellipsis">
-      Smoldering Step
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9-essence-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9-Essence Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9-Essence Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#combustion-deferred-9-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Combustion Deferred (9 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#storm-of-sands-9-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Storm of Sands (9 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#subverted-perception-of-space-9-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Subverted Perception of Space (9 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#web-of-all-thats-come-before-9-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Web of All That's Come Before (9 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#wyrding" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wyrding
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#new-9-essence-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      New 9-Essence Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="New 9-Essence Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#luminous-champion-aloft-9-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Luminous Champion Aloft (9 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#magma-titan-9-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Magma Titan (9 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#meteor-9-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Meteor (9 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#the-wode-remembers-and-returns-9-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      The Wode Remembers and Returns (9 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#mantle-of-quintessence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mantle of Quintessence
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#surging-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Surging Essence
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-specialization-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Specialization Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Specialization Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-elemental-specialization-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Elemental Specialization Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#black-hole-star" class="md-nav__link">
-    <span class="md-ellipsis">
-      Black Hole Star
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#chimeric-manifestation" class="md-nav__link">
-    <span class="md-ellipsis">
-      Chimeric Manifestation
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#the-flame-primordial" class="md-nav__link">
-    <span class="md-ellipsis">
-      The Flame Primordial
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#summon-source-of-earth" class="md-nav__link">
-    <span class="md-ellipsis">
-      Summon Source of Earth
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Summon Source of Earth">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#summon-source-of-earth_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Summon Source of Earth
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#source-of-earth-statblock" class="md-nav__link">
-    <span class="md-ellipsis">
-      Source of Earth Statblock
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#11-essence-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      11-Essence Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="11-Essence Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#heart-of-the-wode-11-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heart of the Wode (11 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#muse-of-fire-11-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Muse of Fire (11 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#return-to-oblivion-11-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Return to Oblivion (11 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#world-torn-asunder-11-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      World Torn Asunder (11 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#grand-wyrding" class="md-nav__link">
-    <span class="md-ellipsis">
-      Grand Wyrding
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#new-11-essence-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      New 11-Essence Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="New 11-Essence Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#earth-rejects-you-11-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Earth Rejects You (11 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#the-green-defends-its-servants-11-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      The Green Defends Its Servants (11 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#prism-11-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Prism (11 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#unquenchable-fire-11-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unquenchable Fire (11 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#10th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      10th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="10th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#breath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Breath
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#essential-being" class="md-nav__link">
-    <span class="md-ellipsis">
-      Essential Being
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#one" class="md-nav__link">
-    <span class="md-ellipsis">
-      One
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="One">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#one-specialization-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      One Specialization Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#master-of-earth" class="md-nav__link">
-    <span class="md-ellipsis">
-      Master of Earth
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#master-of-fire" class="md-nav__link">
-    <span class="md-ellipsis">
-      Master of Fire
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#master-of-green" class="md-nav__link">
-    <span class="md-ellipsis">
-      Master of Green
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#master-of-void" class="md-nav__link">
-    <span class="md-ellipsis">
-      Master of Void
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#elementalist">Elementalist</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#basics">Basics</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-features">1st-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#elemental-specialization">Elemental Specialization</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#earth-acolyte-of-earth">Earth: Acolyte of Earth</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#elementalist-advancement-table">Elementalist Advancement Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fire-acolyte-of-fire">Fire: Acolyte of Fire</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#green-acolyte-of-the-green">Green: Acolyte of the Green</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#void-acolyte-of-the-mystery">Void: Acolyte of the Mystery</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#essence">Essence</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#essence-in-combat">Essence in Combat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#essence-outside-of-combat">Essence Outside of Combat</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hurl-element">Hurl Element</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hurl-element_1">Hurl Element</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#persistent-magic">Persistent Magic</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#practical-magic">Practical Magic</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#practical-magic_1">Practical Magic</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-specialization-feature">1st-Level Specialization Feature</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-elemental-specialization-features">1st-Level Elemental Specialization Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#a-beyonding-of-vision">A Beyonding of Vision</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shared-void-sense">Shared Void Sense</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#it-is-the-soul-which-hears">It Is the Soul Which Hears</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#motivate-earth">Motivate Earth</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#motivate-earth_1">Motivate Earth</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#return-to-formlessness">Return to Formlessness</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#return-to-formlessness_1">Return to Formlessness</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#specialization-triggered-action">Specialization Triggered Action</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#elemental-specialization-triggered-actions-table">Elemental Specialization Triggered Actions Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#breath-of-dawn-remembered">Breath of Dawn Remembered</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#explosive-assistance">Explosive Assistance</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skin-like-castle-walls">Skin Like Castle Walls</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#subtle-relocation">Subtle Relocation</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#enchantment">Enchantment</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#enchantment-of-battle">Enchantment of Battle</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#enchantment-of-celerity">Enchantment of Celerity</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#enchantment-of-destruction">Enchantment of Destruction</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#enchantment-of-distance">Enchantment of Distance</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#enchantment-of-permanence">Enchantment of Permanence</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#elementalist-ward">Elementalist Ward</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ward-of-delightful-consequences">Ward of Delightful Consequences</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ward-of-excellent-protection">Ward of Excellent Protection</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ward-of-natures-affection">Ward of Nature's Affection</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ward-of-surprising-reactivity">Ward of Surprising Reactivity</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#elementalist-abilities">Elementalist Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-abilities">Signature Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#afflict-a-bountiful-decay">Afflict a Bountiful Decay</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#bifurcated-incineration">Bifurcated Incineration</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#grasp-of-beyond">Grasp of Beyond</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#the-green-within-the-green-without">The Green Within, the Green Without</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#meteoric-introduction">Meteoric Introduction</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ry-of-agonizing-self-reflection">Ry of Agonizing Self-Reflection</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unquiet-ground">Unquiet Ground</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#viscous-fire">Viscous Fire</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heroic-abilities">Heroic Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3-essence-ability">3-Essence Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#behold-the-mystery-3-essence">Behold the Mystery (3 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#the-flesh-a-crucible-3-essence">The Flesh, a Crucible (3 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#invigorating-growth-3-essence">Invigorating Growth (3 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ripples-in-the-earth-3-essence">Ripples in the Earth (3 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5-essence-ability">5-Essence Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#conflagration-5-essence">Conflagration (5 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#instantaneous-excavation-5-essence">Instantaneous Excavation (5 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#no-more-than-a-breeze-5-essence">No More Than a Breeze (5 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#test-of-rain-5-essence">Test of Rain (5 Essence)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-features">2nd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-specialization-feature">2nd-Level Specialization Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-elemental-specialization-features-table">2nd-Level Elemental Specialization Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#disciple-of-earth">Disciple of Earth</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#disciple-of-fire">Disciple of Fire</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#disciple-of-the-green">Disciple of the Green</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#green-animal-forms-table">Green Animal Forms Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#there-is-no-space-between">There Is No Space Between</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#there-is-no-space-between_1">There Is No Space Between</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#new-5-essence-ability">New 5-Essence Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#o-flower-aid-o-earth-defend-5-essence">O Flower Aid, O Earth Defend (5 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#subvert-the-green-within-5-essence">Subvert the Green Within (5 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#translated-through-flame-5-essence">Translated Through Flame (5 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#volcanos-embrace-5-essence">Volcano's Embrace (5 Essence)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-features">3rd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-specialization-feature">3rd-Level Specialization Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-elemental-specialization-features-table">3rd-Level Elemental Specialization Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#a-conversation-with-fire">A Conversation With Fire</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#distance-is-only-memory">Distance Is Only Memory</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#earth-accepts-me">Earth Accepts Me</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#earth-accepts-me_1">Earth Accepts Me</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#remember-growth-and-sun-and-rain">Remember Growth and Sun and Rain</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#remember-growth-and-sun-and-rain_1">Remember Growth and Sun and Rain</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7-essence-ability">7-Essence Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#erase-7-essence">Erase (7 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#maw-of-earth-7-essence">Maw of Earth (7 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#swarm-of-spirits-7-essence">Swarm of Spirits (7 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wall-of-fire-7-essence">Wall of Fire (7 Essence)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#4th-level-features">4th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#font-of-essence">Font of Essence</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mantle-of-essence">Mantle of Essence</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mantle-of-essence-specialization-effects-table">Mantle of Essence Specialization Effects Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#burning-grounds">Burning Grounds</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#flowering-bed">Flowering Bed</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#quaking-earth">Quaking Earth</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#veiling-bed">Veiling Bed</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_1">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill">Skill</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-features">5th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-specialization-feature">5th-Level Specialization Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-elemental-specialization-features-table">5th-Level Elemental Specialization Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hide-of-tenfold-shields">Hide of Tenfold Shields</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#the-mountain-does-not-move">The Mountain Does Not Move</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pierce-the-veil-of-substance">Pierce the Veil of Substance</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#smoldering-step">Smoldering Step</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9-essence-ability">9-Essence Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#combustion-deferred-9-essence">Combustion Deferred (9 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#storm-of-sands-9-essence">Storm of Sands (9 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#subverted-perception-of-space-9-essence">Subverted Perception of Space (9 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#web-of-all-thats-come-before-9-essence">Web of All That's Come Before (9 Essence)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-features">6th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_2">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wyrding">Wyrding</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#new-9-essence-ability">New 9-Essence Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#luminous-champion-aloft-9-essence">Luminous Champion Aloft (9 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#magma-titan-9-essence">Magma Titan (9 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#meteor-9-essence">Meteor (9 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#the-wode-remembers-and-returns-9-essence">The Wode Remembers and Returns (9 Essence)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-features">7th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_1">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mantle-of-quintessence">Mantle of Quintessence</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#surging-essence">Surging Essence</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_1">Skill</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-features">8th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_3">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-specialization-feature">8th-Level Specialization Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-elemental-specialization-features-table">8th-Level Elemental Specialization Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#black-hole-star">Black Hole Star</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#chimeric-manifestation">Chimeric Manifestation</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#the-flame-primordial">The Flame Primordial</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#summon-source-of-earth">Summon Source of Earth</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#summon-source-of-earth_1">Summon Source of Earth</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#source-of-earth-statblock">Source of Earth Statblock</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#11-essence-ability">11-Essence Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heart-of-the-wode-11-essence">Heart of the Wode (11 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#muse-of-fire-11-essence">Muse of Fire (11 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#return-to-oblivion-11-essence">Return to Oblivion (11 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#world-torn-asunder-11-essence">World Torn Asunder (11 Essence)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-features">9th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#grand-wyrding">Grand Wyrding</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#new-11-essence-ability">New 11-Essence Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#earth-rejects-you-11-essence">Earth Rejects You (11 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#the-green-defends-its-servants-11-essence">The Green Defends Its Servants (11 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#prism-11-essence">Prism (11 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unquenchable-fire-11-essence">Unquenchable Fire (11 Essence)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#10th-level-features">10th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#breath">Breath</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_2">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#essential-being">Essential Being</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#one">One</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#one-specialization-features-table">One Specialization Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#master-of-earth">Master of Earth</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#master-of-fire">Master of Fire</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#master-of-green">Master of Green</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#master-of-void">Master of Void</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_4">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_2">Skill</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
       
@@ -45369,1782 +44594,1007 @@
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
-                    <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+                    
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#elementalist" class="md-nav__link">
-    <span class="md-ellipsis">
-      Elementalist
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Elementalist">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#basics" class="md-nav__link">
-    <span class="md-ellipsis">
-      Basics
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#elemental-specialization" class="md-nav__link">
-    <span class="md-ellipsis">
-      Elemental Specialization
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Elemental Specialization">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#earth-acolyte-of-earth" class="md-nav__link">
-    <span class="md-ellipsis">
-      Earth: Acolyte of Earth
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Earth: Acolyte of Earth">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#elementalist-advancement-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Elementalist Advancement Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#fire-acolyte-of-fire" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fire: Acolyte of Fire
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#green-acolyte-of-the-green" class="md-nav__link">
-    <span class="md-ellipsis">
-      Green: Acolyte of the Green
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#void-acolyte-of-the-mystery" class="md-nav__link">
-    <span class="md-ellipsis">
-      Void: Acolyte of the Mystery
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Essence
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Essence">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#essence-in-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Essence in Combat
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#essence-outside-of-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Essence Outside of Combat
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hurl-element" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hurl Element
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Hurl Element">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#hurl-element_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hurl Element
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#persistent-magic" class="md-nav__link">
-    <span class="md-ellipsis">
-      Persistent Magic
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#practical-magic" class="md-nav__link">
-    <span class="md-ellipsis">
-      Practical Magic
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Practical Magic">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#practical-magic_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Practical Magic
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-specialization-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Specialization Feature
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-elemental-specialization-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Elemental Specialization Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Elemental Specialization Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#a-beyonding-of-vision" class="md-nav__link">
-    <span class="md-ellipsis">
-      A Beyonding of Vision
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="A Beyonding of Vision">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#shared-void-sense" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shared Void Sense
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#it-is-the-soul-which-hears" class="md-nav__link">
-    <span class="md-ellipsis">
-      It Is the Soul Which Hears
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#motivate-earth" class="md-nav__link">
-    <span class="md-ellipsis">
-      Motivate Earth
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Motivate Earth">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#motivate-earth_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Motivate Earth
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#return-to-formlessness" class="md-nav__link">
-    <span class="md-ellipsis">
-      Return to Formlessness
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Return to Formlessness">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#return-to-formlessness_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Return to Formlessness
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#specialization-triggered-action" class="md-nav__link">
-    <span class="md-ellipsis">
-      Specialization Triggered Action
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Specialization Triggered Action">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#elemental-specialization-triggered-actions-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Elemental Specialization Triggered Actions Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#breath-of-dawn-remembered" class="md-nav__link">
-    <span class="md-ellipsis">
-      Breath of Dawn Remembered
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#explosive-assistance" class="md-nav__link">
-    <span class="md-ellipsis">
-      Explosive Assistance
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skin-like-castle-walls" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skin Like Castle Walls
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#subtle-relocation" class="md-nav__link">
-    <span class="md-ellipsis">
-      Subtle Relocation
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#enchantment" class="md-nav__link">
-    <span class="md-ellipsis">
-      Enchantment
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Enchantment">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#enchantment-of-battle" class="md-nav__link">
-    <span class="md-ellipsis">
-      Enchantment of Battle
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#enchantment-of-celerity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Enchantment of Celerity
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#enchantment-of-destruction" class="md-nav__link">
-    <span class="md-ellipsis">
-      Enchantment of Destruction
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#enchantment-of-distance" class="md-nav__link">
-    <span class="md-ellipsis">
-      Enchantment of Distance
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#enchantment-of-permanence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Enchantment of Permanence
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#elementalist-ward" class="md-nav__link">
-    <span class="md-ellipsis">
-      Elementalist Ward
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Elementalist Ward">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#ward-of-delightful-consequences" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ward of Delightful Consequences
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ward-of-excellent-protection" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ward of Excellent Protection
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ward-of-natures-affection" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ward of Nature's Affection
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ward-of-surprising-reactivity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ward of Surprising Reactivity
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#elementalist-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Elementalist Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Elementalist Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#signature-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#afflict-a-bountiful-decay" class="md-nav__link">
-    <span class="md-ellipsis">
-      Afflict a Bountiful Decay
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#bifurcated-incineration" class="md-nav__link">
-    <span class="md-ellipsis">
-      Bifurcated Incineration
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#grasp-of-beyond" class="md-nav__link">
-    <span class="md-ellipsis">
-      Grasp of Beyond
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#the-green-within-the-green-without" class="md-nav__link">
-    <span class="md-ellipsis">
-      The Green Within, the Green Without
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#meteoric-introduction" class="md-nav__link">
-    <span class="md-ellipsis">
-      Meteoric Introduction
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ry-of-agonizing-self-reflection" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ry of Agonizing Self-Reflection
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#unquiet-ground" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unquiet Ground
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#viscous-fire" class="md-nav__link">
-    <span class="md-ellipsis">
-      Viscous Fire
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heroic-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heroic Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Heroic Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3-essence-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      3-Essence Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#behold-the-mystery-3-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Behold the Mystery (3 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#the-flesh-a-crucible-3-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      The Flesh, a Crucible (3 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#invigorating-growth-3-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Invigorating Growth (3 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ripples-in-the-earth-3-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ripples in the Earth (3 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5-essence-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      5-Essence Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#conflagration-5-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Conflagration (5 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#instantaneous-excavation-5-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Instantaneous Excavation (5 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#no-more-than-a-breeze-5-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      No More Than a Breeze (5 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#test-of-rain-5-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Test of Rain (5 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-specialization-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Specialization Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Specialization Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-elemental-specialization-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Elemental Specialization Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#disciple-of-earth" class="md-nav__link">
-    <span class="md-ellipsis">
-      Disciple of Earth
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#disciple-of-fire" class="md-nav__link">
-    <span class="md-ellipsis">
-      Disciple of Fire
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#disciple-of-the-green" class="md-nav__link">
-    <span class="md-ellipsis">
-      Disciple of the Green
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Disciple of the Green">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#green-animal-forms-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Green Animal Forms Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#there-is-no-space-between" class="md-nav__link">
-    <span class="md-ellipsis">
-      There Is No Space Between
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="There Is No Space Between">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#there-is-no-space-between_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      There Is No Space Between
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#new-5-essence-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      New 5-Essence Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="New 5-Essence Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#o-flower-aid-o-earth-defend-5-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      O Flower Aid, O Earth Defend (5 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#subvert-the-green-within-5-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Subvert the Green Within (5 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#translated-through-flame-5-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Translated Through Flame (5 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#volcanos-embrace-5-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Volcano's Embrace (5 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="3rd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-specialization-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Specialization Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="3rd-Level Specialization Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-elemental-specialization-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Elemental Specialization Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#a-conversation-with-fire" class="md-nav__link">
-    <span class="md-ellipsis">
-      A Conversation With Fire
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#distance-is-only-memory" class="md-nav__link">
-    <span class="md-ellipsis">
-      Distance Is Only Memory
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#earth-accepts-me" class="md-nav__link">
-    <span class="md-ellipsis">
-      Earth Accepts Me
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Earth Accepts Me">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#earth-accepts-me_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Earth Accepts Me
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#remember-growth-and-sun-and-rain" class="md-nav__link">
-    <span class="md-ellipsis">
-      Remember Growth and Sun and Rain
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Remember Growth and Sun and Rain">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#remember-growth-and-sun-and-rain_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Remember Growth and Sun and Rain
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7-essence-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      7-Essence Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7-Essence Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#erase-7-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Erase (7 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#maw-of-earth-7-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Maw of Earth (7 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#swarm-of-spirits-7-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Swarm of Spirits (7 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#wall-of-fire-7-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wall of Fire (7 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#4th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      4th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="4th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#font-of-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Font of Essence
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#mantle-of-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mantle of Essence
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Mantle of Essence">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#mantle-of-essence-specialization-effects-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mantle of Essence Specialization Effects Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#burning-grounds" class="md-nav__link">
-    <span class="md-ellipsis">
-      Burning Grounds
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#flowering-bed" class="md-nav__link">
-    <span class="md-ellipsis">
-      Flowering Bed
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#quaking-earth" class="md-nav__link">
-    <span class="md-ellipsis">
-      Quaking Earth
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#veiling-bed" class="md-nav__link">
-    <span class="md-ellipsis">
-      Veiling Bed
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-specialization-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Specialization Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Specialization Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-elemental-specialization-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Elemental Specialization Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hide-of-tenfold-shields" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hide of Tenfold Shields
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#the-mountain-does-not-move" class="md-nav__link">
-    <span class="md-ellipsis">
-      The Mountain Does Not Move
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#pierce-the-veil-of-substance" class="md-nav__link">
-    <span class="md-ellipsis">
-      Pierce the Veil of Substance
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#smoldering-step" class="md-nav__link">
-    <span class="md-ellipsis">
-      Smoldering Step
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9-essence-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9-Essence Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9-Essence Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#combustion-deferred-9-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Combustion Deferred (9 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#storm-of-sands-9-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Storm of Sands (9 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#subverted-perception-of-space-9-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Subverted Perception of Space (9 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#web-of-all-thats-come-before-9-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Web of All That's Come Before (9 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#wyrding" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wyrding
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#new-9-essence-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      New 9-Essence Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="New 9-Essence Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#luminous-champion-aloft-9-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Luminous Champion Aloft (9 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#magma-titan-9-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Magma Titan (9 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#meteor-9-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Meteor (9 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#the-wode-remembers-and-returns-9-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      The Wode Remembers and Returns (9 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#mantle-of-quintessence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mantle of Quintessence
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#surging-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Surging Essence
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-specialization-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Specialization Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Specialization Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-elemental-specialization-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Elemental Specialization Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#black-hole-star" class="md-nav__link">
-    <span class="md-ellipsis">
-      Black Hole Star
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#chimeric-manifestation" class="md-nav__link">
-    <span class="md-ellipsis">
-      Chimeric Manifestation
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#the-flame-primordial" class="md-nav__link">
-    <span class="md-ellipsis">
-      The Flame Primordial
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#summon-source-of-earth" class="md-nav__link">
-    <span class="md-ellipsis">
-      Summon Source of Earth
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Summon Source of Earth">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#summon-source-of-earth_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Summon Source of Earth
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#source-of-earth-statblock" class="md-nav__link">
-    <span class="md-ellipsis">
-      Source of Earth Statblock
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#11-essence-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      11-Essence Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="11-Essence Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#heart-of-the-wode-11-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heart of the Wode (11 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#muse-of-fire-11-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Muse of Fire (11 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#return-to-oblivion-11-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Return to Oblivion (11 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#world-torn-asunder-11-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      World Torn Asunder (11 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#grand-wyrding" class="md-nav__link">
-    <span class="md-ellipsis">
-      Grand Wyrding
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#new-11-essence-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      New 11-Essence Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="New 11-Essence Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#earth-rejects-you-11-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Earth Rejects You (11 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#the-green-defends-its-servants-11-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      The Green Defends Its Servants (11 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#prism-11-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Prism (11 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#unquenchable-fire-11-essence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unquenchable Fire (11 Essence)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#10th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      10th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="10th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#breath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Breath
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#essential-being" class="md-nav__link">
-    <span class="md-ellipsis">
-      Essential Being
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#one" class="md-nav__link">
-    <span class="md-ellipsis">
-      One
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="One">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#one-specialization-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      One Specialization Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#master-of-earth" class="md-nav__link">
-    <span class="md-ellipsis">
-      Master of Earth
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#master-of-fire" class="md-nav__link">
-    <span class="md-ellipsis">
-      Master of Fire
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#master-of-green" class="md-nav__link">
-    <span class="md-ellipsis">
-      Master of Green
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#master-of-void" class="md-nav__link">
-    <span class="md-ellipsis">
-      Master of Void
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#elementalist">Elementalist</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#basics">Basics</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-features">1st-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#elemental-specialization">Elemental Specialization</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#earth-acolyte-of-earth">Earth: Acolyte of Earth</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#elementalist-advancement-table">Elementalist Advancement Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fire-acolyte-of-fire">Fire: Acolyte of Fire</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#green-acolyte-of-the-green">Green: Acolyte of the Green</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#void-acolyte-of-the-mystery">Void: Acolyte of the Mystery</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#essence">Essence</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#essence-in-combat">Essence in Combat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#essence-outside-of-combat">Essence Outside of Combat</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hurl-element">Hurl Element</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hurl-element_1">Hurl Element</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#persistent-magic">Persistent Magic</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#practical-magic">Practical Magic</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#practical-magic_1">Practical Magic</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-specialization-feature">1st-Level Specialization Feature</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-elemental-specialization-features">1st-Level Elemental Specialization Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#a-beyonding-of-vision">A Beyonding of Vision</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shared-void-sense">Shared Void Sense</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#it-is-the-soul-which-hears">It Is the Soul Which Hears</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#motivate-earth">Motivate Earth</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#motivate-earth_1">Motivate Earth</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#return-to-formlessness">Return to Formlessness</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#return-to-formlessness_1">Return to Formlessness</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#specialization-triggered-action">Specialization Triggered Action</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#elemental-specialization-triggered-actions-table">Elemental Specialization Triggered Actions Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#breath-of-dawn-remembered">Breath of Dawn Remembered</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#explosive-assistance">Explosive Assistance</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skin-like-castle-walls">Skin Like Castle Walls</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#subtle-relocation">Subtle Relocation</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#enchantment">Enchantment</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#enchantment-of-battle">Enchantment of Battle</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#enchantment-of-celerity">Enchantment of Celerity</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#enchantment-of-destruction">Enchantment of Destruction</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#enchantment-of-distance">Enchantment of Distance</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#enchantment-of-permanence">Enchantment of Permanence</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#elementalist-ward">Elementalist Ward</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ward-of-delightful-consequences">Ward of Delightful Consequences</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ward-of-excellent-protection">Ward of Excellent Protection</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ward-of-natures-affection">Ward of Nature's Affection</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ward-of-surprising-reactivity">Ward of Surprising Reactivity</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#elementalist-abilities">Elementalist Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-abilities">Signature Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#afflict-a-bountiful-decay">Afflict a Bountiful Decay</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#bifurcated-incineration">Bifurcated Incineration</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#grasp-of-beyond">Grasp of Beyond</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#the-green-within-the-green-without">The Green Within, the Green Without</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#meteoric-introduction">Meteoric Introduction</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ry-of-agonizing-self-reflection">Ry of Agonizing Self-Reflection</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unquiet-ground">Unquiet Ground</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#viscous-fire">Viscous Fire</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heroic-abilities">Heroic Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3-essence-ability">3-Essence Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#behold-the-mystery-3-essence">Behold the Mystery (3 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#the-flesh-a-crucible-3-essence">The Flesh, a Crucible (3 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#invigorating-growth-3-essence">Invigorating Growth (3 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ripples-in-the-earth-3-essence">Ripples in the Earth (3 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5-essence-ability">5-Essence Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#conflagration-5-essence">Conflagration (5 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#instantaneous-excavation-5-essence">Instantaneous Excavation (5 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#no-more-than-a-breeze-5-essence">No More Than a Breeze (5 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#test-of-rain-5-essence">Test of Rain (5 Essence)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-features">2nd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-specialization-feature">2nd-Level Specialization Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-elemental-specialization-features-table">2nd-Level Elemental Specialization Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#disciple-of-earth">Disciple of Earth</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#disciple-of-fire">Disciple of Fire</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#disciple-of-the-green">Disciple of the Green</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#green-animal-forms-table">Green Animal Forms Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#there-is-no-space-between">There Is No Space Between</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#there-is-no-space-between_1">There Is No Space Between</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#new-5-essence-ability">New 5-Essence Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#o-flower-aid-o-earth-defend-5-essence">O Flower Aid, O Earth Defend (5 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#subvert-the-green-within-5-essence">Subvert the Green Within (5 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#translated-through-flame-5-essence">Translated Through Flame (5 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#volcanos-embrace-5-essence">Volcano's Embrace (5 Essence)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-features">3rd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-specialization-feature">3rd-Level Specialization Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-elemental-specialization-features-table">3rd-Level Elemental Specialization Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#a-conversation-with-fire">A Conversation With Fire</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#distance-is-only-memory">Distance Is Only Memory</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#earth-accepts-me">Earth Accepts Me</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#earth-accepts-me_1">Earth Accepts Me</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#remember-growth-and-sun-and-rain">Remember Growth and Sun and Rain</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#remember-growth-and-sun-and-rain_1">Remember Growth and Sun and Rain</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7-essence-ability">7-Essence Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#erase-7-essence">Erase (7 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#maw-of-earth-7-essence">Maw of Earth (7 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#swarm-of-spirits-7-essence">Swarm of Spirits (7 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wall-of-fire-7-essence">Wall of Fire (7 Essence)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#4th-level-features">4th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#font-of-essence">Font of Essence</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mantle-of-essence">Mantle of Essence</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mantle-of-essence-specialization-effects-table">Mantle of Essence Specialization Effects Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#burning-grounds">Burning Grounds</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#flowering-bed">Flowering Bed</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#quaking-earth">Quaking Earth</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#veiling-bed">Veiling Bed</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_1">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill">Skill</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-features">5th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-specialization-feature">5th-Level Specialization Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-elemental-specialization-features-table">5th-Level Elemental Specialization Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hide-of-tenfold-shields">Hide of Tenfold Shields</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#the-mountain-does-not-move">The Mountain Does Not Move</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pierce-the-veil-of-substance">Pierce the Veil of Substance</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#smoldering-step">Smoldering Step</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9-essence-ability">9-Essence Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#combustion-deferred-9-essence">Combustion Deferred (9 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#storm-of-sands-9-essence">Storm of Sands (9 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#subverted-perception-of-space-9-essence">Subverted Perception of Space (9 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#web-of-all-thats-come-before-9-essence">Web of All That's Come Before (9 Essence)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-features">6th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_2">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wyrding">Wyrding</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#new-9-essence-ability">New 9-Essence Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#luminous-champion-aloft-9-essence">Luminous Champion Aloft (9 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#magma-titan-9-essence">Magma Titan (9 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#meteor-9-essence">Meteor (9 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#the-wode-remembers-and-returns-9-essence">The Wode Remembers and Returns (9 Essence)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-features">7th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_1">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mantle-of-quintessence">Mantle of Quintessence</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#surging-essence">Surging Essence</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_1">Skill</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-features">8th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_3">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-specialization-feature">8th-Level Specialization Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-elemental-specialization-features-table">8th-Level Elemental Specialization Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#black-hole-star">Black Hole Star</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#chimeric-manifestation">Chimeric Manifestation</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#the-flame-primordial">The Flame Primordial</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#summon-source-of-earth">Summon Source of Earth</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#summon-source-of-earth_1">Summon Source of Earth</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#source-of-earth-statblock">Source of Earth Statblock</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#11-essence-ability">11-Essence Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heart-of-the-wode-11-essence">Heart of the Wode (11 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#muse-of-fire-11-essence">Muse of Fire (11 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#return-to-oblivion-11-essence">Return to Oblivion (11 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#world-torn-asunder-11-essence">World Torn Asunder (11 Essence)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-features">9th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#grand-wyrding">Grand Wyrding</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#new-11-essence-ability">New 11-Essence Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#earth-rejects-you-11-essence">Earth Rejects You (11 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#the-green-defends-its-servants-11-essence">The Green Defends Its Servants (11 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#prism-11-essence">Prism (11 Essence)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unquenchable-fire-11-essence">Unquenchable Fire (11 Essence)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#10th-level-features">10th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#breath">Breath</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_2">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#essential-being">Essential Being</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#one">One</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#one-specialization-features-table">One Specialization Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#master-of-earth">Master of Earth</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#master-of-fire">Master of Fire</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#master-of-green">Master of Green</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#master-of-void">Master of Void</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_4">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_2">Skill</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
                   </div>

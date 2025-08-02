@@ -32611,1482 +32611,837 @@
 
       </a>
       
-        <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+        
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#tactician" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tactician
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Tactician">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#basics" class="md-nav__link">
-    <span class="md-ellipsis">
-      Basics
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#tactical-doctrine" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tactical Doctrine
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Focus
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Focus">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#tactician-advancement-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tactician Advancement Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#focus-in-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Focus in Combat
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#focus-outside-of-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Focus Outside of Combat
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-doctrine-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Doctrine Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Doctrine Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-doctrine-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Doctrine Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#commanding-presence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Commanding Presence
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#covert-operations" class="md-nav__link">
-    <span class="md-ellipsis">
-      Covert Operations
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#studied-commander" class="md-nav__link">
-    <span class="md-ellipsis">
-      Studied Commander
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#doctrine-triggered-action" class="md-nav__link">
-    <span class="md-ellipsis">
-      Doctrine Triggered Action
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Doctrine Triggered Action">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#doctrine-triggered-actions-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Doctrine Triggered Actions Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#advanced-tactics" class="md-nav__link">
-    <span class="md-ellipsis">
-      Advanced Tactics
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#overwatch" class="md-nav__link">
-    <span class="md-ellipsis">
-      Overwatch
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#parry" class="md-nav__link">
-    <span class="md-ellipsis">
-      Parry
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#field-arsenal" class="md-nav__link">
-    <span class="md-ellipsis">
-      Field Arsenal
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#mark" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mark
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Mark">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#mark_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mark
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#strike-now" class="md-nav__link">
-    <span class="md-ellipsis">
-      Strike Now
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Strike Now">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#strike-now_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      "Strike Now!"
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#tactician-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tactician Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Tactician Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#kit-signature-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Signature Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heroic-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heroic Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Heroic Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3-focus-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      3-Focus Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#battle-cry-3-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Battle Cry (3 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#concussive-strike-3-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Concussive Strike (3 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#inspiring-strike-3-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Inspiring Strike (3 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#squad-forward-3-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Squad! Forward! (3 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5-focus-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      5-Focus Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5-Focus Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#hammer-and-anvil-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hammer and Anvil (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#mind-game-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mind Game (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#now-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Now! (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#this-is-what-we-planned-for-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      This Is What We Planned For (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-doctrine-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Doctrine Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Doctrine Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-doctrine-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Doctrine Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#goaded" class="md-nav__link">
-    <span class="md-ellipsis">
-      Goaded
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#infiltration-tactics" class="md-nav__link">
-    <span class="md-ellipsis">
-      Infiltration Tactics
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#melee-superiority" class="md-nav__link">
-    <span class="md-ellipsis">
-      Melee Superiority
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-doctrine-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Doctrine Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Doctrine Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-insurgent-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Insurgent Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Insurgent Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#fog-of-war-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fog of War (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#try-me-instead-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Try Me Instead (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-mastermind-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Mastermind Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Mastermind Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#ive-got-your-back-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      I've Got Your Back (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#targets-of-opportunity-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Targets of Opportunity (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-vanguard-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Vanguard Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Vanguard Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#no-dying-on-my-watch-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      No Dying on My Watch (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#squad-on-me-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Squad! On Me! (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="3rd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#out-of-position" class="md-nav__link">
-    <span class="md-ellipsis">
-      Out of Position
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7-focus-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      7-Focus Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7-Focus Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#frontal-assault-7-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Frontal Assault (7 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hit-em-hard-7-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hit 'Em Hard! (7 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#rout-7-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Rout (7 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stay-strong-and-focus-7-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stay Strong and Focus! (7 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#4th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      4th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="4th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#focus-on-their-weaknesses" class="md-nav__link">
-    <span class="md-ellipsis">
-      Focus on Their Weaknesses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#improved-field-arsenal" class="md-nav__link">
-    <span class="md-ellipsis">
-      Improved Field Arsenal
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-doctrine-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Doctrine Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Doctrine Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-doctrine-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Doctrine Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#anticipation" class="md-nav__link">
-    <span class="md-ellipsis">
-      Anticipation
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#distracted" class="md-nav__link">
-    <span class="md-ellipsis">
-      Distracted
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#i-predicted-that" class="md-nav__link">
-    <span class="md-ellipsis">
-      I Predicted That
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#leave-no-trace" class="md-nav__link">
-    <span class="md-ellipsis">
-      Leave No Trace
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shake-it-off" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shake It Off
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#tactical-offensive" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tactical Offensive
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9-focus-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9-Focus Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9-Focus Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#squad-gear-check-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Squad! Gear Check! (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#squad-remember-your-training-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Squad! Remember Your Training! (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#win-this-day-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Win This Day! (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#youve-still-got-something-left-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      You've Still Got Something Left (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#master-of-arms" class="md-nav__link">
-    <span class="md-ellipsis">
-      Master of Arms
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-doctrine-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Doctrine Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Doctrine Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-insurgent-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Insurgent Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Insurgent Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#coordinated-execution-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Coordinated Execution (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#panic-in-their-lines-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Panic in Their Lines (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-mastermind-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Mastermind Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Mastermind Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#battle-plan-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Battle Plan (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hustle-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hustle! (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-vanguard-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Vanguard Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Vanguard Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#instant-retaliation-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Instant Retaliation (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#to-me-squad-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      To Me Squad! (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heightened-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heightened Focus
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#seize-the-initiative" class="md-nav__link">
-    <span class="md-ellipsis">
-      Seize the Initiative
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-doctrine-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Doctrine Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7th-Level Doctrine Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-doctrine-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Doctrine Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#asymmetric-warfare" class="md-nav__link">
-    <span class="md-ellipsis">
-      Asymmetric Warfare
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#grand-strategy" class="md-nav__link">
-    <span class="md-ellipsis">
-      Grand Strategy
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shock-and-awe" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shock and Awe
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-doctrine-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Doctrine Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Doctrine Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-doctrine-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Doctrine Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#bait-and-ambush" class="md-nav__link">
-    <span class="md-ellipsis">
-      Bait and Ambush
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#pincer-movement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Pincer Movement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#see-your-enemies-driven-before-you" class="md-nav__link">
-    <span class="md-ellipsis">
-      See Your Enemies Driven Before You
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#11-focus-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      11-Focus Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="11-Focus Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#go-now-and-speed-well-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Go Now and Speed Well (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#finish-them-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Finish Them! (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#floodgates-open-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Floodgates Open (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ill-open-and-youll-close-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      I'll Open and You'll Close (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#grandmaster-of-arms" class="md-nav__link">
-    <span class="md-ellipsis">
-      Grandmaster of Arms
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-doctrine-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Doctrine Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Doctrine Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-insurgent-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Insurgent Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Insurgent Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#squad-hit-and-run-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Squad! Hit and Run! (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#their-lack-of-focus-is-their-undoing-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Their Lack of Focus Is Their Undoing (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-mastermind-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Mastermind Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Mastermind Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#blot-out-the-sun-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blot Out the Sun! (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#counterstrategy-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Counterstrategy (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-vanguard-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Vanguard Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Vanguard Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#that-one-is-mine-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      That One Is Mine! (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#10th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      10th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="10th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#command" class="md-nav__link">
-    <span class="md-ellipsis">
-      Command
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#true-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      True Focus
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#warmaster" class="md-nav__link">
-    <span class="md-ellipsis">
-      Warmaster
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tactician">Tactician</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#basics">Basics</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-features">1st-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tactical-doctrine">Tactical Doctrine</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#focus">Focus</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tactician-advancement-table">Tactician Advancement Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#focus-in-combat">Focus in Combat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#focus-outside-of-combat">Focus Outside of Combat</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-doctrine-feature">1st-Level Doctrine Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-doctrine-features-table">1st-Level Doctrine Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#commanding-presence">Commanding Presence</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#covert-operations">Covert Operations</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#studied-commander">Studied Commander</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#doctrine-triggered-action">Doctrine Triggered Action</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#doctrine-triggered-actions-table">Doctrine Triggered Actions Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#advanced-tactics">Advanced Tactics</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#overwatch">Overwatch</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#parry">Parry</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#field-arsenal">Field Arsenal</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mark">Mark</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mark_1">Mark</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#strike-now">Strike Now</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#strike-now_1">"Strike Now!"</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tactician-abilities">Tactician Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-signature-ability">Kit Signature Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heroic-abilities">Heroic Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3-focus-ability">3-Focus Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#battle-cry-3-focus">Battle Cry (3 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#concussive-strike-3-focus">Concussive Strike (3 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#inspiring-strike-3-focus">Inspiring Strike (3 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#squad-forward-3-focus">Squad! Forward! (3 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5-focus-ability">5-Focus Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hammer-and-anvil-5-focus">Hammer and Anvil (5 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mind-game-5-focus">Mind Game (5 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#now-5-focus">Now! (5 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#this-is-what-we-planned-for-5-focus">This Is What We Planned For (5 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-features">2nd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-doctrine-feature">2nd-Level Doctrine Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-doctrine-features-table">2nd-Level Doctrine Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#goaded">Goaded</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#infiltration-tactics">Infiltration Tactics</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#melee-superiority">Melee Superiority</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-doctrine-ability">2nd-Level Doctrine Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-insurgent-ability">2nd-Level Insurgent Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fog-of-war-5-focus">Fog of War (5 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#try-me-instead-5-focus">Try Me Instead (5 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-mastermind-ability">2nd-Level Mastermind Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ive-got-your-back-5-focus">I've Got Your Back (5 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#targets-of-opportunity-5-focus">Targets of Opportunity (5 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-vanguard-ability">2nd-Level Vanguard Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#no-dying-on-my-watch-5-focus">No Dying on My Watch (5 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#squad-on-me-5-focus">Squad! On Me! (5 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-features">3rd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#out-of-position">Out of Position</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7-focus-ability">7-Focus Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#frontal-assault-7-focus">Frontal Assault (7 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hit-em-hard-7-focus">Hit 'Em Hard! (7 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#rout-7-focus">Rout (7 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stay-strong-and-focus-7-focus">Stay Strong and Focus! (7 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#4th-level-features">4th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#focus-on-their-weaknesses">Focus on Their Weaknesses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#improved-field-arsenal">Improved Field Arsenal</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_1">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill">Skill</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-features">5th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-doctrine-features">5th-Level Doctrine Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-doctrine-features-table">5th-Level Doctrine Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#anticipation">Anticipation</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#distracted">Distracted</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#i-predicted-that">I Predicted That</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#leave-no-trace">Leave No Trace</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shake-it-off">Shake It Off</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tactical-offensive">Tactical Offensive</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9-focus-ability">9-Focus Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#squad-gear-check-9-focus">Squad! Gear Check! (9 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#squad-remember-your-training-9-focus">Squad! Remember Your Training! (9 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#win-this-day-9-focus">Win This Day! (9 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#youve-still-got-something-left-9-focus">You've Still Got Something Left (9 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-features">6th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#master-of-arms">Master of Arms</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_2">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-doctrine-ability">6th-Level Doctrine Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-insurgent-abilities">6th-Level Insurgent Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#coordinated-execution-9-focus">Coordinated Execution (9 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#panic-in-their-lines-9-focus">Panic in Their Lines (9 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-mastermind-abilities">6th-Level Mastermind Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#battle-plan-9-focus">Battle Plan (9 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hustle-9-focus">Hustle! (9 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-vanguard-abilities">6th-Level Vanguard Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#instant-retaliation-9-focus">Instant Retaliation (9 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#to-me-squad-9-focus">To Me Squad! (9 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-features">7th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_1">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heightened-focus">Heightened Focus</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#seize-the-initiative">Seize the Initiative</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_1">Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-doctrine-feature">7th-Level Doctrine Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-doctrine-features-table">7th-Level Doctrine Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#asymmetric-warfare">Asymmetric Warfare</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#grand-strategy">Grand Strategy</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shock-and-awe">Shock and Awe</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-features">8th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_3">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-doctrine-feature">8th-Level Doctrine Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-doctrine-features-table">8th-Level Doctrine Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#bait-and-ambush">Bait and Ambush</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pincer-movement">Pincer Movement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#see-your-enemies-driven-before-you">See Your Enemies Driven Before You</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#11-focus-ability">11-Focus Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#go-now-and-speed-well-11-focus">Go Now and Speed Well (11 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#finish-them-11-focus">Finish Them! (11 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#floodgates-open-11-focus">Floodgates Open (11 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ill-open-and-youll-close-11-focus">I'll Open and You'll Close (11 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-features">9th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#grandmaster-of-arms">Grandmaster of Arms</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-doctrine-ability">9th-Level Doctrine Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-insurgent-abilities">9th-Level Insurgent Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#squad-hit-and-run-11-focus">Squad! Hit and Run! (11 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#their-lack-of-focus-is-their-undoing-11-focus">Their Lack of Focus Is Their Undoing (11 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-mastermind-abilities">9th-Level Mastermind Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blot-out-the-sun-11-focus">Blot Out the Sun! (11 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#counterstrategy-11-focus">Counterstrategy (11 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-vanguard-abilities">9th-Level Vanguard Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#that-one-is-mine-11-focus">That One Is Mine! (11 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#10th-level-features">10th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_2">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#command">Command</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_4">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_2">Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#true-focus">True Focus</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#warmaster">Warmaster</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
       
@@ -45069,1482 +44424,837 @@
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
-                    <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+                    
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#tactician" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tactician
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Tactician">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#basics" class="md-nav__link">
-    <span class="md-ellipsis">
-      Basics
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#tactical-doctrine" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tactical Doctrine
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Focus
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Focus">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#tactician-advancement-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tactician Advancement Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#focus-in-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Focus in Combat
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#focus-outside-of-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Focus Outside of Combat
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-doctrine-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Doctrine Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Doctrine Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-doctrine-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Doctrine Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#commanding-presence" class="md-nav__link">
-    <span class="md-ellipsis">
-      Commanding Presence
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#covert-operations" class="md-nav__link">
-    <span class="md-ellipsis">
-      Covert Operations
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#studied-commander" class="md-nav__link">
-    <span class="md-ellipsis">
-      Studied Commander
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#doctrine-triggered-action" class="md-nav__link">
-    <span class="md-ellipsis">
-      Doctrine Triggered Action
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Doctrine Triggered Action">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#doctrine-triggered-actions-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Doctrine Triggered Actions Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#advanced-tactics" class="md-nav__link">
-    <span class="md-ellipsis">
-      Advanced Tactics
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#overwatch" class="md-nav__link">
-    <span class="md-ellipsis">
-      Overwatch
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#parry" class="md-nav__link">
-    <span class="md-ellipsis">
-      Parry
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#field-arsenal" class="md-nav__link">
-    <span class="md-ellipsis">
-      Field Arsenal
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#mark" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mark
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Mark">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#mark_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mark
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#strike-now" class="md-nav__link">
-    <span class="md-ellipsis">
-      Strike Now
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Strike Now">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#strike-now_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      "Strike Now!"
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#tactician-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tactician Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Tactician Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#kit-signature-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Signature Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heroic-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heroic Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Heroic Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3-focus-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      3-Focus Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#battle-cry-3-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Battle Cry (3 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#concussive-strike-3-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Concussive Strike (3 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#inspiring-strike-3-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Inspiring Strike (3 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#squad-forward-3-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Squad! Forward! (3 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5-focus-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      5-Focus Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5-Focus Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#hammer-and-anvil-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hammer and Anvil (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#mind-game-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mind Game (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#now-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Now! (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#this-is-what-we-planned-for-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      This Is What We Planned For (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-doctrine-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Doctrine Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Doctrine Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-doctrine-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Doctrine Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#goaded" class="md-nav__link">
-    <span class="md-ellipsis">
-      Goaded
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#infiltration-tactics" class="md-nav__link">
-    <span class="md-ellipsis">
-      Infiltration Tactics
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#melee-superiority" class="md-nav__link">
-    <span class="md-ellipsis">
-      Melee Superiority
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-doctrine-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Doctrine Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Doctrine Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-insurgent-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Insurgent Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Insurgent Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#fog-of-war-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fog of War (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#try-me-instead-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Try Me Instead (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-mastermind-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Mastermind Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Mastermind Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#ive-got-your-back-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      I've Got Your Back (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#targets-of-opportunity-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Targets of Opportunity (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-vanguard-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Vanguard Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Vanguard Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#no-dying-on-my-watch-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      No Dying on My Watch (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#squad-on-me-5-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Squad! On Me! (5 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="3rd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#out-of-position" class="md-nav__link">
-    <span class="md-ellipsis">
-      Out of Position
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7-focus-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      7-Focus Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7-Focus Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#frontal-assault-7-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Frontal Assault (7 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hit-em-hard-7-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hit 'Em Hard! (7 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#rout-7-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Rout (7 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stay-strong-and-focus-7-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stay Strong and Focus! (7 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#4th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      4th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="4th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#focus-on-their-weaknesses" class="md-nav__link">
-    <span class="md-ellipsis">
-      Focus on Their Weaknesses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#improved-field-arsenal" class="md-nav__link">
-    <span class="md-ellipsis">
-      Improved Field Arsenal
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-doctrine-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Doctrine Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Doctrine Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-doctrine-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Doctrine Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#anticipation" class="md-nav__link">
-    <span class="md-ellipsis">
-      Anticipation
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#distracted" class="md-nav__link">
-    <span class="md-ellipsis">
-      Distracted
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#i-predicted-that" class="md-nav__link">
-    <span class="md-ellipsis">
-      I Predicted That
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#leave-no-trace" class="md-nav__link">
-    <span class="md-ellipsis">
-      Leave No Trace
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shake-it-off" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shake It Off
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#tactical-offensive" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tactical Offensive
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9-focus-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9-Focus Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9-Focus Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#squad-gear-check-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Squad! Gear Check! (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#squad-remember-your-training-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Squad! Remember Your Training! (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#win-this-day-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Win This Day! (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#youve-still-got-something-left-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      You've Still Got Something Left (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#master-of-arms" class="md-nav__link">
-    <span class="md-ellipsis">
-      Master of Arms
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-doctrine-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Doctrine Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Doctrine Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-insurgent-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Insurgent Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Insurgent Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#coordinated-execution-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Coordinated Execution (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#panic-in-their-lines-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Panic in Their Lines (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-mastermind-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Mastermind Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Mastermind Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#battle-plan-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Battle Plan (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hustle-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hustle! (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-vanguard-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Vanguard Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Vanguard Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#instant-retaliation-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Instant Retaliation (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#to-me-squad-9-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      To Me Squad! (9 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heightened-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heightened Focus
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#seize-the-initiative" class="md-nav__link">
-    <span class="md-ellipsis">
-      Seize the Initiative
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-doctrine-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Doctrine Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7th-Level Doctrine Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-doctrine-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Doctrine Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#asymmetric-warfare" class="md-nav__link">
-    <span class="md-ellipsis">
-      Asymmetric Warfare
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#grand-strategy" class="md-nav__link">
-    <span class="md-ellipsis">
-      Grand Strategy
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shock-and-awe" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shock and Awe
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-doctrine-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Doctrine Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Doctrine Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-doctrine-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Doctrine Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#bait-and-ambush" class="md-nav__link">
-    <span class="md-ellipsis">
-      Bait and Ambush
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#pincer-movement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Pincer Movement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#see-your-enemies-driven-before-you" class="md-nav__link">
-    <span class="md-ellipsis">
-      See Your Enemies Driven Before You
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#11-focus-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      11-Focus Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="11-Focus Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#go-now-and-speed-well-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Go Now and Speed Well (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#finish-them-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Finish Them! (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#floodgates-open-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Floodgates Open (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ill-open-and-youll-close-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      I'll Open and You'll Close (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#grandmaster-of-arms" class="md-nav__link">
-    <span class="md-ellipsis">
-      Grandmaster of Arms
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-doctrine-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Doctrine Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Doctrine Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-insurgent-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Insurgent Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Insurgent Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#squad-hit-and-run-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Squad! Hit and Run! (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#their-lack-of-focus-is-their-undoing-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Their Lack of Focus Is Their Undoing (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-mastermind-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Mastermind Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Mastermind Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#blot-out-the-sun-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blot Out the Sun! (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#counterstrategy-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Counterstrategy (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-vanguard-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Vanguard Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Vanguard Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#that-one-is-mine-11-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      That One Is Mine! (11 Focus)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#10th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      10th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="10th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#command" class="md-nav__link">
-    <span class="md-ellipsis">
-      Command
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#true-focus" class="md-nav__link">
-    <span class="md-ellipsis">
-      True Focus
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#warmaster" class="md-nav__link">
-    <span class="md-ellipsis">
-      Warmaster
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tactician">Tactician</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#basics">Basics</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-features">1st-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tactical-doctrine">Tactical Doctrine</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#focus">Focus</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tactician-advancement-table">Tactician Advancement Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#focus-in-combat">Focus in Combat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#focus-outside-of-combat">Focus Outside of Combat</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-doctrine-feature">1st-Level Doctrine Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-doctrine-features-table">1st-Level Doctrine Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#commanding-presence">Commanding Presence</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#covert-operations">Covert Operations</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#studied-commander">Studied Commander</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#doctrine-triggered-action">Doctrine Triggered Action</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#doctrine-triggered-actions-table">Doctrine Triggered Actions Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#advanced-tactics">Advanced Tactics</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#overwatch">Overwatch</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#parry">Parry</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#field-arsenal">Field Arsenal</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mark">Mark</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mark_1">Mark</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#strike-now">Strike Now</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#strike-now_1">"Strike Now!"</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tactician-abilities">Tactician Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-signature-ability">Kit Signature Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heroic-abilities">Heroic Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3-focus-ability">3-Focus Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#battle-cry-3-focus">Battle Cry (3 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#concussive-strike-3-focus">Concussive Strike (3 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#inspiring-strike-3-focus">Inspiring Strike (3 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#squad-forward-3-focus">Squad! Forward! (3 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5-focus-ability">5-Focus Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hammer-and-anvil-5-focus">Hammer and Anvil (5 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mind-game-5-focus">Mind Game (5 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#now-5-focus">Now! (5 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#this-is-what-we-planned-for-5-focus">This Is What We Planned For (5 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-features">2nd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-doctrine-feature">2nd-Level Doctrine Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-doctrine-features-table">2nd-Level Doctrine Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#goaded">Goaded</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#infiltration-tactics">Infiltration Tactics</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#melee-superiority">Melee Superiority</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-doctrine-ability">2nd-Level Doctrine Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-insurgent-ability">2nd-Level Insurgent Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fog-of-war-5-focus">Fog of War (5 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#try-me-instead-5-focus">Try Me Instead (5 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-mastermind-ability">2nd-Level Mastermind Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ive-got-your-back-5-focus">I've Got Your Back (5 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#targets-of-opportunity-5-focus">Targets of Opportunity (5 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-vanguard-ability">2nd-Level Vanguard Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#no-dying-on-my-watch-5-focus">No Dying on My Watch (5 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#squad-on-me-5-focus">Squad! On Me! (5 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-features">3rd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#out-of-position">Out of Position</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7-focus-ability">7-Focus Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#frontal-assault-7-focus">Frontal Assault (7 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hit-em-hard-7-focus">Hit 'Em Hard! (7 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#rout-7-focus">Rout (7 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stay-strong-and-focus-7-focus">Stay Strong and Focus! (7 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#4th-level-features">4th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#focus-on-their-weaknesses">Focus on Their Weaknesses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#improved-field-arsenal">Improved Field Arsenal</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_1">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill">Skill</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-features">5th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-doctrine-features">5th-Level Doctrine Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-doctrine-features-table">5th-Level Doctrine Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#anticipation">Anticipation</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#distracted">Distracted</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#i-predicted-that">I Predicted That</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#leave-no-trace">Leave No Trace</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shake-it-off">Shake It Off</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#tactical-offensive">Tactical Offensive</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9-focus-ability">9-Focus Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#squad-gear-check-9-focus">Squad! Gear Check! (9 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#squad-remember-your-training-9-focus">Squad! Remember Your Training! (9 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#win-this-day-9-focus">Win This Day! (9 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#youve-still-got-something-left-9-focus">You've Still Got Something Left (9 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-features">6th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#master-of-arms">Master of Arms</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_2">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-doctrine-ability">6th-Level Doctrine Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-insurgent-abilities">6th-Level Insurgent Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#coordinated-execution-9-focus">Coordinated Execution (9 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#panic-in-their-lines-9-focus">Panic in Their Lines (9 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-mastermind-abilities">6th-Level Mastermind Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#battle-plan-9-focus">Battle Plan (9 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hustle-9-focus">Hustle! (9 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-vanguard-abilities">6th-Level Vanguard Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#instant-retaliation-9-focus">Instant Retaliation (9 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#to-me-squad-9-focus">To Me Squad! (9 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-features">7th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_1">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heightened-focus">Heightened Focus</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#seize-the-initiative">Seize the Initiative</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_1">Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-doctrine-feature">7th-Level Doctrine Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-doctrine-features-table">7th-Level Doctrine Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#asymmetric-warfare">Asymmetric Warfare</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#grand-strategy">Grand Strategy</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shock-and-awe">Shock and Awe</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-features">8th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_3">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-doctrine-feature">8th-Level Doctrine Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-doctrine-features-table">8th-Level Doctrine Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#bait-and-ambush">Bait and Ambush</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pincer-movement">Pincer Movement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#see-your-enemies-driven-before-you">See Your Enemies Driven Before You</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#11-focus-ability">11-Focus Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#go-now-and-speed-well-11-focus">Go Now and Speed Well (11 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#finish-them-11-focus">Finish Them! (11 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#floodgates-open-11-focus">Floodgates Open (11 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ill-open-and-youll-close-11-focus">I'll Open and You'll Close (11 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-features">9th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#grandmaster-of-arms">Grandmaster of Arms</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-doctrine-ability">9th-Level Doctrine Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-insurgent-abilities">9th-Level Insurgent Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#squad-hit-and-run-11-focus">Squad! Hit and Run! (11 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#their-lack-of-focus-is-their-undoing-11-focus">Their Lack of Focus Is Their Undoing (11 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-mastermind-abilities">9th-Level Mastermind Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blot-out-the-sun-11-focus">Blot Out the Sun! (11 Focus)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#counterstrategy-11-focus">Counterstrategy (11 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-vanguard-abilities">9th-Level Vanguard Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#that-one-is-mine-11-focus">That One Is Mine! (11 Focus)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#10th-level-features">10th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_2">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#command">Command</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_4">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_2">Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#true-focus">True Focus</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#warmaster">Warmaster</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
                   </div>

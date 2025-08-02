@@ -32588,1554 +32588,881 @@
 
       </a>
       
-        <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+        
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#shadow" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shadow
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Shadow">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#basics" class="md-nav__link">
-    <span class="md-ellipsis">
-      Basics
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#shadow-college" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shadow College
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Shadow College">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#shadow-advancement-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shadow Advancement Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Insight
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Insight">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#insight-in-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Insight in Combat
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#insight-outside-of-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Insight Outside of Combat
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-college-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level College Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level College Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-college-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level College Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#black-ash-teleport" class="md-nav__link">
-    <span class="md-ellipsis">
-      Black Ash Teleport
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Black Ash Teleport">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#black-ash-teleport_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Black Ash Teleport
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#coat-the-blade" class="md-nav__link">
-    <span class="md-ellipsis">
-      Coat the Blade
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Coat the Blade">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#coat-the-blade_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Coat the Blade
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#im-no-threat" class="md-nav__link">
-    <span class="md-ellipsis">
-      I'm No Threat
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="I&#39;m No Threat">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#im-no-threat_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      I'm No Threat
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#smoke-bomb" class="md-nav__link">
-    <span class="md-ellipsis">
-      Smoke Bomb
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#college-triggered-action" class="md-nav__link">
-    <span class="md-ellipsis">
-      College Triggered Action
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="College Triggered Action">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#college-triggered-actions-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      College Triggered Actions Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#clever-trick-1-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Clever Trick (1 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#defensive-roll" class="md-nav__link">
-    <span class="md-ellipsis">
-      Defensive Roll
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#in-all-this-confusion" class="md-nav__link">
-    <span class="md-ellipsis">
-      In All This Confusion
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hesitation-is-weakness" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hesitation Is Weakness
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Hesitation Is Weakness">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#hesitation-is-weakness-1-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hesitation Is Weakness (1 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shadow-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shadow Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Shadow Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#gasping-in-pain" class="md-nav__link">
-    <span class="md-ellipsis">
-      Gasping in Pain
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#i-work-better-alone" class="md-nav__link">
-    <span class="md-ellipsis">
-      I Work Better Alone
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#teamwork-has-its-place" class="md-nav__link">
-    <span class="md-ellipsis">
-      Teamwork Has Its Place
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#you-were-watching-the-wrong-one" class="md-nav__link">
-    <span class="md-ellipsis">
-      You Were Watching the Wrong One
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heroic-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heroic Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Heroic Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3-insight-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      3-Insight Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#disorienting-strike-3-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Disorienting Strike (3 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#eviscerate-3-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Eviscerate (3 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#get-in-get-out-3-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Get In Get Out (3 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#two-throats-at-once-3-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Two Throats at Once (3 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5-insight-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      5-Insight Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5-Insight Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#coup-de-grace-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Coup de Grace (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#one-hundred-throats-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      One Hundred Throats (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#setup-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Setup (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shadowstrike-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shadowstrike (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-college-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level College Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level College Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#burning-ash" class="md-nav__link">
-    <span class="md-ellipsis">
-      Burning Ash
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#friend" class="md-nav__link">
-    <span class="md-ellipsis">
-      Friend!
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#trained-assassin" class="md-nav__link">
-    <span class="md-ellipsis">
-      Trained Assassin
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-college-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level College Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level College Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-black-ash-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Black Ash Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Black Ash Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#in-a-puff-of-smoke-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      In a Puff of Smoke (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#too-slow-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Too Slow (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-caustic-alchemy-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Caustic Alchemy Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Caustic Alchemy Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#sticky-bomb-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Sticky Bomb (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stink-bomb-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stink Bomb (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-harlequin-mask-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Harlequin Mask Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Harlequin Mask Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#machinations-of-sound-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Machinations of Sound (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#so-gullible-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      So Gullible (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="3rd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#careful-observation" class="md-nav__link">
-    <span class="md-ellipsis">
-      Careful Observation
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Careful Observation">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#careful-observation_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Careful Observation
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7-insight-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      7-Insight Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7-Insight Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#dancer-7-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Dancer (7 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#misdirecting-strike-7-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Misdirecting Strike (7 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#pinning-shot-7-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Pinning Shot (7 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#staggering-blow-7-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Staggering Blow (7 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#4th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      4th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="4th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#keep-it-down" class="md-nav__link">
-    <span class="md-ellipsis">
-      Keep It Down
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#night-watch" class="md-nav__link">
-    <span class="md-ellipsis">
-      Night Watch
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Night Watch">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#night-watch_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Night Watch
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#surge-of-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Surge of Insight
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-college-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level College Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level College Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-college-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level College Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#harlequin-gambit" class="md-nav__link">
-    <span class="md-ellipsis">
-      Harlequin Gambit
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#trail-of-cinders" class="md-nav__link">
-    <span class="md-ellipsis">
-      Trail of Cinders
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#volatile-reagents" class="md-nav__link">
-    <span class="md-ellipsis">
-      Volatile Reagents
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9-insight-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9-Insight Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9-Insight Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#blackout-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blackout (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#into-the-shadows-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Into the Shadows (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shadowfall-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shadowfall (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#you-talk-too-much-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      You Talk Too Much (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#umbral-form" class="md-nav__link">
-    <span class="md-ellipsis">
-      Umbral Form
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-college-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level College Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level College Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-black-ash-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Black Ash Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Black Ash Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#black-ash-eruption-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Black Ash Eruption (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#cinderstorm-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Cinderstorm (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-caustic-alchemy-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Caustic Alchemy Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Caustic Alchemy Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#one-vial-makes-you-better-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      One Vial Makes You Better (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#one-vial-makes-you-faster-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      One Vial Makes You Faster (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-harlequin-mask-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Harlequin Mask Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Harlequin Mask Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#look-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Look! (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#puppet-strings-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Puppet Strings (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#keen-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Keen Insight
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#careful-observation-improvement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Careful Observation Improvement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ventriloquist" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ventriloquist
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-college-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level College Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level College Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-college-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level College Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#cinder-step" class="md-nav__link">
-    <span class="md-ellipsis">
-      Cinder Step
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#parkour" class="md-nav__link">
-    <span class="md-ellipsis">
-      Parkour
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#time-bomb" class="md-nav__link">
-    <span class="md-ellipsis">
-      Time Bomb
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Time Bomb">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#time-bomb_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Time Bomb
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#11-insight-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      11-Insight Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="11-Insight Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#assassinate-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Assassinate (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shadowgrasp-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shadowgrasp (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#speed-of-shadows-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Speed of Shadows (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#they-always-line-up-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      They Always Line Up (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#gloom-squad" class="md-nav__link">
-    <span class="md-ellipsis">
-      Gloom Squad
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-college-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level College Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level College Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-black-ash-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Black Ash Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Black Ash Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#cacophony-of-cinders-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Cacophony of Cinders (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#demon-door-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Demon Door (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-caustic-alchemy-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Caustic Alchemy Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Caustic Alchemy Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#chain-reaction-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Chain Reaction (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#to-the-stars-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      To the Stars (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-harlequin-mask-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Harlequin Mask Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Harlequin Mask Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#i-am-you-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      I Am You (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#it-was-me-all-along-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      It Was Me All Along (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#10th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      10th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="10th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#death-pool" class="md-nav__link">
-    <span class="md-ellipsis">
-      Death Pool
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#careful-observation-improvement_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Careful Observation Improvement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#improved-umbral-form" class="md-nav__link">
-    <span class="md-ellipsis">
-      Improved Umbral Form
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#subterfuge" class="md-nav__link">
-    <span class="md-ellipsis">
-      Subterfuge
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shadow">Shadow</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#basics">Basics</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-features">1st-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shadow-college">Shadow College</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shadow-advancement-table">Shadow Advancement Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#insight">Insight</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#insight-in-combat">Insight in Combat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#insight-outside-of-combat">Insight Outside of Combat</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-college-features">1st-Level College Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-college-features-table">1st-Level College Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#black-ash-teleport">Black Ash Teleport</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#black-ash-teleport_1">Black Ash Teleport</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#coat-the-blade">Coat the Blade</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#coat-the-blade_1">Coat the Blade</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#im-no-threat">I'm No Threat</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#im-no-threat_1">I'm No Threat</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#smoke-bomb">Smoke Bomb</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#college-triggered-action">College Triggered Action</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#college-triggered-actions-table">College Triggered Actions Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#clever-trick-1-insight">Clever Trick (1 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#defensive-roll">Defensive Roll</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#in-all-this-confusion">In All This Confusion</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hesitation-is-weakness">Hesitation Is Weakness</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hesitation-is-weakness-1-insight">Hesitation Is Weakness (1 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit">Kit</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shadow-abilities">Shadow Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#gasping-in-pain">Gasping in Pain</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#i-work-better-alone">I Work Better Alone</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#teamwork-has-its-place">Teamwork Has Its Place</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#you-were-watching-the-wrong-one">You Were Watching the Wrong One</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heroic-abilities">Heroic Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3-insight-ability">3-Insight Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#disorienting-strike-3-insight">Disorienting Strike (3 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#eviscerate-3-insight">Eviscerate (3 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#get-in-get-out-3-insight">Get In Get Out (3 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#two-throats-at-once-3-insight">Two Throats at Once (3 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5-insight-ability">5-Insight Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#coup-de-grace-5-insight">Coup de Grace (5 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#one-hundred-throats-5-insight">One Hundred Throats (5 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#setup-5-insight">Setup (5 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shadowstrike-5-insight">Shadowstrike (5 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-features">2nd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-college-feature">2nd-Level College Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#burning-ash">Burning Ash</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#friend">Friend!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#trained-assassin">Trained Assassin</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-college-ability">2nd-Level College Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-black-ash-ability">2nd-Level Black Ash Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#in-a-puff-of-smoke-5-insight">In a Puff of Smoke (5 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#too-slow-5-insight">Too Slow (5 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-caustic-alchemy-ability">2nd-Level Caustic Alchemy Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sticky-bomb-5-insight">Sticky Bomb (5 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stink-bomb-5-insight">Stink Bomb (5 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-harlequin-mask-ability">2nd-Level Harlequin Mask Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#machinations-of-sound-5-insight">Machinations of Sound (5 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#so-gullible-5-insight">So Gullible (5 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-features">3rd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#careful-observation">Careful Observation</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#careful-observation_1">Careful Observation</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7-insight-ability">7-Insight Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#dancer-7-insight">Dancer (7 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#misdirecting-strike-7-insight">Misdirecting Strike (7 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pinning-shot-7-insight">Pinning Shot (7 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#staggering-blow-7-insight">Staggering Blow (7 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#4th-level-features">4th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#keep-it-down">Keep It Down</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#night-watch">Night Watch</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#night-watch_1">Night Watch</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_1">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill">Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#surge-of-insight">Surge of Insight</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-features">5th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-college-feature">5th-Level College Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-college-features-table">5th-Level College Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#harlequin-gambit">Harlequin Gambit</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#trail-of-cinders">Trail of Cinders</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#volatile-reagents">Volatile Reagents</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9-insight-ability">9-Insight Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blackout-9-insight">Blackout (9 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#into-the-shadows-9-insight">Into the Shadows (9 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shadowfall-9-insight">Shadowfall (9 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#you-talk-too-much-9-insight">You Talk Too Much (9 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-features">6th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_2">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#umbral-form">Umbral Form</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-college-ability">6th-Level College Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-black-ash-abilities">6th-Level Black Ash Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#black-ash-eruption-9-insight">Black Ash Eruption (9 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cinderstorm-9-insight">Cinderstorm (9 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-caustic-alchemy-abilities">6th-Level Caustic Alchemy Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#one-vial-makes-you-better-9-insight">One Vial Makes You Better (9 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#one-vial-makes-you-faster-9-insight">One Vial Makes You Faster (9 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-harlequin-mask-abilities">6th-Level Harlequin Mask Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#look-9-insight">Look! (9 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#puppet-strings-9-insight">Puppet Strings (9 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-features">7th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_1">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#keen-insight">Keen Insight</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_1">Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#careful-observation-improvement">Careful Observation Improvement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ventriloquist">Ventriloquist</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-features">8th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_3">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-college-feature">8th-Level College Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-college-features-table">8th-Level College Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cinder-step">Cinder Step</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#parkour">Parkour</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#time-bomb">Time Bomb</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#time-bomb_1">Time Bomb</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#11-insight-ability">11-Insight Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#assassinate-11-insight">Assassinate (11 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shadowgrasp-11-insight">Shadowgrasp (11 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#speed-of-shadows-11-insight">Speed of Shadows (11 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#they-always-line-up-11-insight">They Always Line Up (11 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-features">9th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#gloom-squad">Gloom Squad</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-college-ability">9th-Level College Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-black-ash-abilities">9th-Level Black Ash Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cacophony-of-cinders-11-insight">Cacophony of Cinders (11 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#demon-door-11-insight">Demon Door (11 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-caustic-alchemy-abilities">9th-Level Caustic Alchemy Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#chain-reaction-11-insight">Chain Reaction (11 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#to-the-stars-11-insight">To the Stars (11 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-harlequin-mask-abilities">9th-Level Harlequin Mask Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#i-am-you-11-insight">I Am You (11 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#it-was-me-all-along-11-insight">It Was Me All Along (11 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#10th-level-features">10th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_2">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#death-pool">Death Pool</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_4">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_2">Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#careful-observation-improvement_1">Careful Observation Improvement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#improved-umbral-form">Improved Umbral Form</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#subterfuge">Subterfuge</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
       
@@ -45141,1554 +44468,881 @@
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
-                    <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+                    
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#shadow" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shadow
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Shadow">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#basics" class="md-nav__link">
-    <span class="md-ellipsis">
-      Basics
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#shadow-college" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shadow College
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Shadow College">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#shadow-advancement-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shadow Advancement Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Insight
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Insight">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#insight-in-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Insight in Combat
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#insight-outside-of-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Insight Outside of Combat
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-college-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level College Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level College Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-college-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level College Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#black-ash-teleport" class="md-nav__link">
-    <span class="md-ellipsis">
-      Black Ash Teleport
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Black Ash Teleport">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#black-ash-teleport_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Black Ash Teleport
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#coat-the-blade" class="md-nav__link">
-    <span class="md-ellipsis">
-      Coat the Blade
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Coat the Blade">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#coat-the-blade_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Coat the Blade
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#im-no-threat" class="md-nav__link">
-    <span class="md-ellipsis">
-      I'm No Threat
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="I&#39;m No Threat">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#im-no-threat_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      I'm No Threat
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#smoke-bomb" class="md-nav__link">
-    <span class="md-ellipsis">
-      Smoke Bomb
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#college-triggered-action" class="md-nav__link">
-    <span class="md-ellipsis">
-      College Triggered Action
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="College Triggered Action">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#college-triggered-actions-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      College Triggered Actions Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#clever-trick-1-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Clever Trick (1 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#defensive-roll" class="md-nav__link">
-    <span class="md-ellipsis">
-      Defensive Roll
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#in-all-this-confusion" class="md-nav__link">
-    <span class="md-ellipsis">
-      In All This Confusion
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hesitation-is-weakness" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hesitation Is Weakness
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Hesitation Is Weakness">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#hesitation-is-weakness-1-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hesitation Is Weakness (1 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shadow-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shadow Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Shadow Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#gasping-in-pain" class="md-nav__link">
-    <span class="md-ellipsis">
-      Gasping in Pain
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#i-work-better-alone" class="md-nav__link">
-    <span class="md-ellipsis">
-      I Work Better Alone
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#teamwork-has-its-place" class="md-nav__link">
-    <span class="md-ellipsis">
-      Teamwork Has Its Place
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#you-were-watching-the-wrong-one" class="md-nav__link">
-    <span class="md-ellipsis">
-      You Were Watching the Wrong One
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heroic-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heroic Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Heroic Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3-insight-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      3-Insight Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#disorienting-strike-3-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Disorienting Strike (3 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#eviscerate-3-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Eviscerate (3 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#get-in-get-out-3-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Get In Get Out (3 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#two-throats-at-once-3-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Two Throats at Once (3 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5-insight-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      5-Insight Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5-Insight Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#coup-de-grace-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Coup de Grace (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#one-hundred-throats-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      One Hundred Throats (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#setup-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Setup (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shadowstrike-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shadowstrike (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-college-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level College Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level College Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#burning-ash" class="md-nav__link">
-    <span class="md-ellipsis">
-      Burning Ash
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#friend" class="md-nav__link">
-    <span class="md-ellipsis">
-      Friend!
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#trained-assassin" class="md-nav__link">
-    <span class="md-ellipsis">
-      Trained Assassin
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-college-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level College Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level College Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-black-ash-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Black Ash Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Black Ash Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#in-a-puff-of-smoke-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      In a Puff of Smoke (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#too-slow-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Too Slow (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-caustic-alchemy-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Caustic Alchemy Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Caustic Alchemy Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#sticky-bomb-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Sticky Bomb (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stink-bomb-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stink Bomb (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-harlequin-mask-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Harlequin Mask Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Harlequin Mask Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#machinations-of-sound-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Machinations of Sound (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#so-gullible-5-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      So Gullible (5 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="3rd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#careful-observation" class="md-nav__link">
-    <span class="md-ellipsis">
-      Careful Observation
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Careful Observation">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#careful-observation_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Careful Observation
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7-insight-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      7-Insight Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7-Insight Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#dancer-7-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Dancer (7 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#misdirecting-strike-7-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Misdirecting Strike (7 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#pinning-shot-7-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Pinning Shot (7 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#staggering-blow-7-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Staggering Blow (7 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#4th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      4th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="4th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#keep-it-down" class="md-nav__link">
-    <span class="md-ellipsis">
-      Keep It Down
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#night-watch" class="md-nav__link">
-    <span class="md-ellipsis">
-      Night Watch
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Night Watch">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#night-watch_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Night Watch
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#surge-of-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Surge of Insight
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-college-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level College Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level College Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-college-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level College Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#harlequin-gambit" class="md-nav__link">
-    <span class="md-ellipsis">
-      Harlequin Gambit
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#trail-of-cinders" class="md-nav__link">
-    <span class="md-ellipsis">
-      Trail of Cinders
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#volatile-reagents" class="md-nav__link">
-    <span class="md-ellipsis">
-      Volatile Reagents
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9-insight-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9-Insight Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9-Insight Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#blackout-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blackout (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#into-the-shadows-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Into the Shadows (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shadowfall-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shadowfall (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#you-talk-too-much-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      You Talk Too Much (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#umbral-form" class="md-nav__link">
-    <span class="md-ellipsis">
-      Umbral Form
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-college-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level College Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level College Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-black-ash-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Black Ash Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Black Ash Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#black-ash-eruption-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Black Ash Eruption (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#cinderstorm-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Cinderstorm (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-caustic-alchemy-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Caustic Alchemy Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Caustic Alchemy Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#one-vial-makes-you-better-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      One Vial Makes You Better (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#one-vial-makes-you-faster-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      One Vial Makes You Faster (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-harlequin-mask-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Harlequin Mask Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Harlequin Mask Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#look-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Look! (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#puppet-strings-9-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Puppet Strings (9 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#keen-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Keen Insight
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#careful-observation-improvement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Careful Observation Improvement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ventriloquist" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ventriloquist
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-college-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level College Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level College Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-college-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level College Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#cinder-step" class="md-nav__link">
-    <span class="md-ellipsis">
-      Cinder Step
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#parkour" class="md-nav__link">
-    <span class="md-ellipsis">
-      Parkour
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#time-bomb" class="md-nav__link">
-    <span class="md-ellipsis">
-      Time Bomb
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Time Bomb">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#time-bomb_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Time Bomb
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#11-insight-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      11-Insight Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="11-Insight Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#assassinate-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Assassinate (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shadowgrasp-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shadowgrasp (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#speed-of-shadows-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Speed of Shadows (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#they-always-line-up-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      They Always Line Up (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#gloom-squad" class="md-nav__link">
-    <span class="md-ellipsis">
-      Gloom Squad
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-college-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level College Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level College Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-black-ash-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Black Ash Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Black Ash Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#cacophony-of-cinders-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Cacophony of Cinders (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#demon-door-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Demon Door (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-caustic-alchemy-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Caustic Alchemy Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Caustic Alchemy Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#chain-reaction-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      Chain Reaction (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#to-the-stars-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      To the Stars (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-harlequin-mask-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Harlequin Mask Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Harlequin Mask Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#i-am-you-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      I Am You (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#it-was-me-all-along-11-insight" class="md-nav__link">
-    <span class="md-ellipsis">
-      It Was Me All Along (11 Insight)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#10th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      10th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="10th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#death-pool" class="md-nav__link">
-    <span class="md-ellipsis">
-      Death Pool
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#careful-observation-improvement_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Careful Observation Improvement
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#improved-umbral-form" class="md-nav__link">
-    <span class="md-ellipsis">
-      Improved Umbral Form
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#subterfuge" class="md-nav__link">
-    <span class="md-ellipsis">
-      Subterfuge
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shadow">Shadow</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#basics">Basics</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-features">1st-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shadow-college">Shadow College</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shadow-advancement-table">Shadow Advancement Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#insight">Insight</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#insight-in-combat">Insight in Combat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#insight-outside-of-combat">Insight Outside of Combat</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-college-features">1st-Level College Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-college-features-table">1st-Level College Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#black-ash-teleport">Black Ash Teleport</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#black-ash-teleport_1">Black Ash Teleport</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#coat-the-blade">Coat the Blade</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#coat-the-blade_1">Coat the Blade</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#im-no-threat">I'm No Threat</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#im-no-threat_1">I'm No Threat</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#smoke-bomb">Smoke Bomb</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#college-triggered-action">College Triggered Action</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#college-triggered-actions-table">College Triggered Actions Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#clever-trick-1-insight">Clever Trick (1 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#defensive-roll">Defensive Roll</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#in-all-this-confusion">In All This Confusion</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hesitation-is-weakness">Hesitation Is Weakness</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hesitation-is-weakness-1-insight">Hesitation Is Weakness (1 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit">Kit</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shadow-abilities">Shadow Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#gasping-in-pain">Gasping in Pain</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#i-work-better-alone">I Work Better Alone</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#teamwork-has-its-place">Teamwork Has Its Place</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#you-were-watching-the-wrong-one">You Were Watching the Wrong One</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heroic-abilities">Heroic Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3-insight-ability">3-Insight Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#disorienting-strike-3-insight">Disorienting Strike (3 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#eviscerate-3-insight">Eviscerate (3 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#get-in-get-out-3-insight">Get In Get Out (3 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#two-throats-at-once-3-insight">Two Throats at Once (3 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5-insight-ability">5-Insight Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#coup-de-grace-5-insight">Coup de Grace (5 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#one-hundred-throats-5-insight">One Hundred Throats (5 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#setup-5-insight">Setup (5 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shadowstrike-5-insight">Shadowstrike (5 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-features">2nd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-college-feature">2nd-Level College Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#burning-ash">Burning Ash</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#friend">Friend!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#trained-assassin">Trained Assassin</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-college-ability">2nd-Level College Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-black-ash-ability">2nd-Level Black Ash Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#in-a-puff-of-smoke-5-insight">In a Puff of Smoke (5 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#too-slow-5-insight">Too Slow (5 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-caustic-alchemy-ability">2nd-Level Caustic Alchemy Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sticky-bomb-5-insight">Sticky Bomb (5 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stink-bomb-5-insight">Stink Bomb (5 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-harlequin-mask-ability">2nd-Level Harlequin Mask Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#machinations-of-sound-5-insight">Machinations of Sound (5 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#so-gullible-5-insight">So Gullible (5 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-features">3rd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#careful-observation">Careful Observation</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#careful-observation_1">Careful Observation</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7-insight-ability">7-Insight Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#dancer-7-insight">Dancer (7 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#misdirecting-strike-7-insight">Misdirecting Strike (7 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pinning-shot-7-insight">Pinning Shot (7 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#staggering-blow-7-insight">Staggering Blow (7 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#4th-level-features">4th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#keep-it-down">Keep It Down</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#night-watch">Night Watch</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#night-watch_1">Night Watch</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_1">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill">Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#surge-of-insight">Surge of Insight</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-features">5th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-college-feature">5th-Level College Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-college-features-table">5th-Level College Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#harlequin-gambit">Harlequin Gambit</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#trail-of-cinders">Trail of Cinders</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#volatile-reagents">Volatile Reagents</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9-insight-ability">9-Insight Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blackout-9-insight">Blackout (9 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#into-the-shadows-9-insight">Into the Shadows (9 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shadowfall-9-insight">Shadowfall (9 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#you-talk-too-much-9-insight">You Talk Too Much (9 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-features">6th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_2">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#umbral-form">Umbral Form</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-college-ability">6th-Level College Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-black-ash-abilities">6th-Level Black Ash Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#black-ash-eruption-9-insight">Black Ash Eruption (9 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cinderstorm-9-insight">Cinderstorm (9 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-caustic-alchemy-abilities">6th-Level Caustic Alchemy Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#one-vial-makes-you-better-9-insight">One Vial Makes You Better (9 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#one-vial-makes-you-faster-9-insight">One Vial Makes You Faster (9 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-harlequin-mask-abilities">6th-Level Harlequin Mask Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#look-9-insight">Look! (9 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#puppet-strings-9-insight">Puppet Strings (9 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-features">7th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_1">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#keen-insight">Keen Insight</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_1">Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#careful-observation-improvement">Careful Observation Improvement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ventriloquist">Ventriloquist</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-features">8th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_3">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-college-feature">8th-Level College Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-college-features-table">8th-Level College Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cinder-step">Cinder Step</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#parkour">Parkour</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#time-bomb">Time Bomb</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#time-bomb_1">Time Bomb</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#11-insight-ability">11-Insight Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#assassinate-11-insight">Assassinate (11 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shadowgrasp-11-insight">Shadowgrasp (11 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#speed-of-shadows-11-insight">Speed of Shadows (11 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#they-always-line-up-11-insight">They Always Line Up (11 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-features">9th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#gloom-squad">Gloom Squad</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-college-ability">9th-Level College Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-black-ash-abilities">9th-Level Black Ash Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cacophony-of-cinders-11-insight">Cacophony of Cinders (11 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#demon-door-11-insight">Demon Door (11 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-caustic-alchemy-abilities">9th-Level Caustic Alchemy Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#chain-reaction-11-insight">Chain Reaction (11 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#to-the-stars-11-insight">To the Stars (11 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-harlequin-mask-abilities">9th-Level Harlequin Mask Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#i-am-you-11-insight">I Am You (11 Insight)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#it-was-me-all-along-11-insight">It Was Me All Along (11 Insight)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#10th-level-features">10th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_2">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#death-pool">Death Pool</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_4">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_2">Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#careful-observation-improvement_1">Careful Observation Improvement</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#improved-umbral-form">Improved Umbral Form</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#subterfuge">Subterfuge</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
                   </div>

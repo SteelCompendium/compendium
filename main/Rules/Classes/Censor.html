@@ -32450,1866 +32450,1055 @@
 
       </a>
       
-        <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+        
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#censor" class="md-nav__link">
-    <span class="md-ellipsis">
-      Censor
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Censor">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#basics" class="md-nav__link">
-    <span class="md-ellipsis">
-      Basics
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#censor-order" class="md-nav__link">
-    <span class="md-ellipsis">
-      Censor Order
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#deity-and-domains" class="md-nav__link">
-    <span class="md-ellipsis">
-      Deity and Domains
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Deity and Domains">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#censor-advancement-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Censor Advancement Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wrath
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Wrath">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#wrath-in-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wrath in Combat
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#wrath-outside-of-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wrath Outside of Combat
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#judgment" class="md-nav__link">
-    <span class="md-ellipsis">
-      Judgment
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Judgment">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#judgment_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Judgment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#judgment-order-benefit" class="md-nav__link">
-    <span class="md-ellipsis">
-      Judgment Order Benefit
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#my-life-for-yours" class="md-nav__link">
-    <span class="md-ellipsis">
-      My Life for Yours
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="My Life for Yours">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#my-life-for-yours_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      My Life for Yours
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-domain-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Domain Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Domain Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-censor-domain-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Censor Domain Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#blessing-of-compassion" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing of Compassion
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#blessing-of-comprehension" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing of Comprehension
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#blessing-of-fortunate-weather" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing of Fortunate Weather
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#faithful-friend" class="md-nav__link">
-    <span class="md-ellipsis">
-      Faithful Friend
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Faithful Friend">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#faithful-friend_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Faithful Friend
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#grave-speech" class="md-nav__link">
-    <span class="md-ellipsis">
-      Grave Speech
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Grave Speech">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#grave-speech_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Grave Speech
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hands-of-the-maker" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hands of the Maker
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Hands of the Maker">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#hands-of-the-maker_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hands of the Maker
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#inner-light" class="md-nav__link">
-    <span class="md-ellipsis">
-      Inner Light
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#inspired-deception" class="md-nav__link">
-    <span class="md-ellipsis">
-      Inspired Deception
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#oracular-visions" class="md-nav__link">
-    <span class="md-ellipsis">
-      Oracular Visions
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#protective-circle" class="md-nav__link">
-    <span class="md-ellipsis">
-      Protective Circle
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#revitalizing-ritual" class="md-nav__link">
-    <span class="md-ellipsis">
-      Revitalizing Ritual
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#sanctified-weapon" class="md-nav__link">
-    <span class="md-ellipsis">
-      Sanctified Weapon
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#censor-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Censor Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Censor Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#back-blasphemer" class="md-nav__link">
-    <span class="md-ellipsis">
-      Back Blasphemer!
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#every-step-death" class="md-nav__link">
-    <span class="md-ellipsis">
-      Every Step … Death!
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#halt-miscreant" class="md-nav__link">
-    <span class="md-ellipsis">
-      Halt Miscreant!
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#your-allies-cannot-save-you" class="md-nav__link">
-    <span class="md-ellipsis">
-      Your Allies Cannot Save You!
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heroic-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heroic Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Heroic Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3-wrath-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      3-Wrath Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#behold-a-shield-of-faith-3-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Behold a Shield of Faith! (3 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#driving-assault-3-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Driving Assault (3 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#the-gods-punish-and-defend-3-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      The Gods Punish and Defend (3 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#repent-3-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Repent! (3 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5-wrath-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      5-Wrath Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#arrest-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Arrest (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#behold-the-face-of-justice-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Behold the Face of Justice! (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#censored-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Censored (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#purifying-fire-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Purifying Fire (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-order-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Order Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Order Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-order-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Order Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#it-was-foretold" class="md-nav__link">
-    <span class="md-ellipsis">
-      It Was Foretold
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#judge-of-character" class="md-nav__link">
-    <span class="md-ellipsis">
-      Judge of Character
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#lead-by-example" class="md-nav__link">
-    <span class="md-ellipsis">
-      Lead by Example
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#saints-vigilance" class="md-nav__link">
-    <span class="md-ellipsis">
-      Saint's Vigilance
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#a-sense-for-truth" class="md-nav__link">
-    <span class="md-ellipsis">
-      A Sense for Truth
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stalwart-icon" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stalwart Icon
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-order-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Order Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Order Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-exorcist-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Exorcist Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Exorcist Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#it-is-justice-you-fear-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      It Is Justice You Fear (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#revelator-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Revelator (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-oracle-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Oracle Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Oracle Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#prescient-grace-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Prescient Grace (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#with-my-blessing-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      With My Blessing (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-paragon-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Paragon Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Paragon Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#blessing-of-the-faithful-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing of the Faithful (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#sentenced-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Sentenced (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="3rd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#look-on-my-work-and-despair" class="md-nav__link">
-    <span class="md-ellipsis">
-      Look On My Work and Despair
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7-wrath-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      7-Wrath Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7-Wrath Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#edict-of-disruptive-isolation-7-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Edict of Disruptive Isolation (7 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#edict-of-perfect-order-7-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Edict of Perfect Order (7 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#edict-of-purifying-pacifism-7-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Edict of Purifying Pacifism (7 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#edict-of-stillness-7-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Edict of Stillness (7 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#4th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      4th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="4th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#wrath-beyond-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wrath Beyond Wrath
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#4th-level-domain-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      4th-Level Domain Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="4th-Level Domain Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#4th-level-censor-domain-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      4th-Level Censor Domain Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#blessing-of-life" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing of Life
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#blessing-of-secrets" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing of Secrets
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Blessing of Secrets">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#blessing-of-secrets_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing of Secrets
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#impervious-touch" class="md-nav__link">
-    <span class="md-ellipsis">
-      Impervious Touch
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#improved-hands-of-the-maker" class="md-nav__link">
-    <span class="md-ellipsis">
-      Improved Hands of the Maker
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#improved-sanctified-weapon" class="md-nav__link">
-    <span class="md-ellipsis">
-      Improved Sanctified Weapon
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#invocation-of-the-heart" class="md-nav__link">
-    <span class="md-ellipsis">
-      Invocation of the Heart
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#light-of-revelation" class="md-nav__link">
-    <span class="md-ellipsis">
-      Light of Revelation
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#oracular-warning" class="md-nav__link">
-    <span class="md-ellipsis">
-      Oracular Warning
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#seance" class="md-nav__link">
-    <span class="md-ellipsis">
-      Seance
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#saints-epiphany" class="md-nav__link">
-    <span class="md-ellipsis">
-      Saint's Epiphany
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#windwalk" class="md-nav__link">
-    <span class="md-ellipsis">
-      Windwalk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#wode-road" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wode Road
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-order-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Order Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Order Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-order-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Order Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#evil-revealed" class="md-nav__link">
-    <span class="md-ellipsis">
-      Evil Revealed
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#prophecy" class="md-nav__link">
-    <span class="md-ellipsis">
-      Prophecy
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stand-fast" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stand Fast!
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9-wrath-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9-Wrath Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9-Wrath Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#gods-grant-thee-strength-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Gods Grant Thee Strength (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#orison-of-victory-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Orison of Victory (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#righteous-judgment-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Righteous Judgment (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shield-of-the-righteous-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shield of the Righteous (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#implement-of-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Implement of Wrath
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-order-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Order Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Order Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-exorcist-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Exorcist Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Exorcist Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#begone-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Begone! (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#pain-of-your-own-making-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Pain of Your Own Making (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-oracle-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Oracle Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Oracle Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#burden-of-evil-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Burden of Evil (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#edict-of-peace-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Edict of Peace (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-paragon-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Paragon Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Paragon Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#congregation-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Congregation (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#intercede-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Intercede (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-domain-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Domain Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7th-Level Domain Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-censor-domain-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Censor Domain Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#blessing-of-iron" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing of Iron
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#covenant-of-the-heart" class="md-nav__link">
-    <span class="md-ellipsis">
-      Covenant of the Heart
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Covenant of the Heart">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#guided-to-your-side" class="md-nav__link">
-    <span class="md-ellipsis">
-      Guided to Your Side
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#divine-quartermaster" class="md-nav__link">
-    <span class="md-ellipsis">
-      Divine Quartermaster
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#font-of-grace" class="md-nav__link">
-    <span class="md-ellipsis">
-      Font of Grace
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#gods-library" class="md-nav__link">
-    <span class="md-ellipsis">
-      Gods' Library
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#light-of-the-burning-sun" class="md-nav__link">
-    <span class="md-ellipsis">
-      Light of the Burning Sun
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#natures-bounty" class="md-nav__link">
-    <span class="md-ellipsis">
-      Nature's Bounty
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ride-the-lightning" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ride the Lightning
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#trinity-of-trickery" class="md-nav__link">
-    <span class="md-ellipsis">
-      Trinity of Trickery
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Trinity of Trickery">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#trinity-of-trickery-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Trinity of Trickery (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#word-of-death-deferred" class="md-nav__link">
-    <span class="md-ellipsis">
-      Word of Death Deferred
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#word-of-fate-denied" class="md-nav__link">
-    <span class="md-ellipsis">
-      Word of Fate Denied
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#your-triumphs-are-remembered" class="md-nav__link">
-    <span class="md-ellipsis">
-      Your Triumphs Are Remembered
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#focused-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Focused Wrath
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-order-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Order Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Order Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-order-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Order Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#demonologist" class="md-nav__link">
-    <span class="md-ellipsis">
-      Demonologist
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#their-past-revealed" class="md-nav__link">
-    <span class="md-ellipsis">
-      Their Past Revealed
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#vow" class="md-nav__link">
-    <span class="md-ellipsis">
-      Vow
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#11-wrath-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      11-Wrath Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="11-Wrath Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#excommunication-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Excommunication (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hand-of-the-gods-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hand of the Gods (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#pillar-of-holy-fire-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Pillar of Holy Fire (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#your-allies-turn-on-you-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Your Allies Turn on You! (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#improved-implement-of-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Improved Implement of Wrath
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-order-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Order Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Order Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-exorcist-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Exorcist Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Exorcist Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#banish-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Banish (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#terror-manifest-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Terror Manifest (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-oracle-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Oracle Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Oracle Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#blessing-and-a-curse-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing and a Curse (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#fulfill-your-destiny-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fulfill Your Destiny (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-paragon-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Paragon Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Paragon Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#apostate-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Apostate (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#edict-of-unyielding-resolve-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Edict of Unyielding Resolve (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#10th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      10th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="10th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#templar" class="md-nav__link">
-    <span class="md-ellipsis">
-      Templar
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#virtue" class="md-nav__link">
-    <span class="md-ellipsis">
-      Virtue
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#wrath-of-the-gods" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wrath of the Gods
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#censor">Censor</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#basics">Basics</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-features">1st-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#censor-order">Censor Order</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#deity-and-domains">Deity and Domains</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#censor-advancement-table">Censor Advancement Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wrath">Wrath</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wrath-in-combat">Wrath in Combat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wrath-outside-of-combat">Wrath Outside of Combat</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#judgment">Judgment</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#judgment_1">Judgment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#judgment-order-benefit">Judgment Order Benefit</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit">Kit</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#my-life-for-yours">My Life for Yours</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#my-life-for-yours_1">My Life for Yours</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-domain-feature">1st-Level Domain Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-censor-domain-features-table">1st-Level Censor Domain Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-of-compassion">Blessing of Compassion</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-of-comprehension">Blessing of Comprehension</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-of-fortunate-weather">Blessing of Fortunate Weather</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#faithful-friend">Faithful Friend</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#faithful-friend_1">Faithful Friend</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#grave-speech">Grave Speech</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#grave-speech_1">Grave Speech</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hands-of-the-maker">Hands of the Maker</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hands-of-the-maker_1">Hands of the Maker</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#inner-light">Inner Light</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#inspired-deception">Inspired Deception</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#oracular-visions">Oracular Visions</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#protective-circle">Protective Circle</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#revitalizing-ritual">Revitalizing Ritual</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sanctified-weapon">Sanctified Weapon</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#censor-abilities">Censor Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#back-blasphemer">Back Blasphemer!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#every-step-death">Every Step … Death!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#halt-miscreant">Halt Miscreant!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#your-allies-cannot-save-you">Your Allies Cannot Save You!</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heroic-abilities">Heroic Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3-wrath-ability">3-Wrath Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#behold-a-shield-of-faith-3-wrath">Behold a Shield of Faith! (3 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#driving-assault-3-wrath">Driving Assault (3 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#the-gods-punish-and-defend-3-wrath">The Gods Punish and Defend (3 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#repent-3-wrath">Repent! (3 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5-wrath-ability">5-Wrath Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#arrest-5-wrath">Arrest (5 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#behold-the-face-of-justice-5-wrath">Behold the Face of Justice! (5 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#censored-5-wrath">Censored (5 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#purifying-fire-5-wrath">Purifying Fire (5 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-features">2nd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-order-features">2nd-Level Order Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-order-features-table">2nd-Level Order Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#it-was-foretold">It Was Foretold</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#judge-of-character">Judge of Character</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lead-by-example">Lead by Example</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#saints-vigilance">Saint's Vigilance</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#a-sense-for-truth">A Sense for Truth</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stalwart-icon">Stalwart Icon</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-order-ability">2nd-Level Order Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-exorcist-ability">2nd-Level Exorcist Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#it-is-justice-you-fear-5-wrath">It Is Justice You Fear (5 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#revelator-5-wrath">Revelator (5 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-oracle-ability">2nd-Level Oracle Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#prescient-grace-5-wrath">Prescient Grace (5 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#with-my-blessing-5-wrath">With My Blessing (5 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-paragon-ability">2nd-Level Paragon Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-of-the-faithful-5-wrath">Blessing of the Faithful (5 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sentenced-5-wrath">Sentenced (5 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-features">3rd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#look-on-my-work-and-despair">Look On My Work and Despair</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7-wrath-ability">7-Wrath Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#edict-of-disruptive-isolation-7-wrath">Edict of Disruptive Isolation (7 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#edict-of-perfect-order-7-wrath">Edict of Perfect Order (7 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#edict-of-purifying-pacifism-7-wrath">Edict of Purifying Pacifism (7 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#edict-of-stillness-7-wrath">Edict of Stillness (7 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#4th-level-features">4th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_1">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill">Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wrath-beyond-wrath">Wrath Beyond Wrath</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#4th-level-domain-feature">4th-Level Domain Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#4th-level-censor-domain-features-table">4th-Level Censor Domain Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-of-life">Blessing of Life</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-of-secrets">Blessing of Secrets</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-of-secrets_1">Blessing of Secrets</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#impervious-touch">Impervious Touch</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#improved-hands-of-the-maker">Improved Hands of the Maker</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#improved-sanctified-weapon">Improved Sanctified Weapon</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#invocation-of-the-heart">Invocation of the Heart</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#light-of-revelation">Light of Revelation</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#oracular-warning">Oracular Warning</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#seance">Seance</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#saints-epiphany">Saint's Epiphany</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#windwalk">Windwalk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wode-road">Wode Road</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-features">5th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-order-feature">5th-Level Order Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-order-features-table">5th-Level Order Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#evil-revealed">Evil Revealed</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#prophecy">Prophecy</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stand-fast">Stand Fast!</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9-wrath-ability">9-Wrath Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#gods-grant-thee-strength-9-wrath">Gods Grant Thee Strength (9 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#orison-of-victory-9-wrath">Orison of Victory (9 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#righteous-judgment-9-wrath">Righteous Judgment (9 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shield-of-the-righteous-9-wrath">Shield of the Righteous (9 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-features">6th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#implement-of-wrath">Implement of Wrath</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_2">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-order-ability">6th-Level Order Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-exorcist-abilities">6th-Level Exorcist Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#begone-9-wrath">Begone! (9 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pain-of-your-own-making-9-wrath">Pain of Your Own Making (9 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-oracle-abilities">6th-Level Oracle Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#burden-of-evil-9-wrath">Burden of Evil (9 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#edict-of-peace-9-wrath">Edict of Peace (9 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-paragon-abilities">6th-Level Paragon Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#congregation-9-wrath">Congregation (9 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#intercede-9-wrath">Intercede (9 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-features">7th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_1">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-domain-feature">7th-Level Domain Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-censor-domain-features-table">7th-Level Censor Domain Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-of-iron">Blessing of Iron</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#covenant-of-the-heart">Covenant of the Heart</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#guided-to-your-side">Guided to Your Side</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#divine-quartermaster">Divine Quartermaster</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#font-of-grace">Font of Grace</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#gods-library">Gods' Library</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#light-of-the-burning-sun">Light of the Burning Sun</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#natures-bounty">Nature's Bounty</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ride-the-lightning">Ride the Lightning</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#trinity-of-trickery">Trinity of Trickery</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#trinity-of-trickery-9-wrath">Trinity of Trickery (9 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#word-of-death-deferred">Word of Death Deferred</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#word-of-fate-denied">Word of Fate Denied</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#your-triumphs-are-remembered">Your Triumphs Are Remembered</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#focused-wrath">Focused Wrath</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_1">Skill</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-features">8th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_3">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-order-feature">8th-Level Order Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-order-features-table">8th-Level Order Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#demonologist">Demonologist</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#their-past-revealed">Their Past Revealed</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#vow">Vow</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#11-wrath-ability">11-Wrath Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#excommunication-11-wrath">Excommunication (11 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hand-of-the-gods-11-wrath">Hand of the Gods (11 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pillar-of-holy-fire-11-wrath">Pillar of Holy Fire (11 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#your-allies-turn-on-you-11-wrath">Your Allies Turn on You! (11 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-features">9th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#improved-implement-of-wrath">Improved Implement of Wrath</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-order-ability">9th-Level Order Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-exorcist-abilities">9th-Level Exorcist Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#banish-11-wrath">Banish (11 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#terror-manifest-11-wrath">Terror Manifest (11 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-oracle-abilities">9th-Level Oracle Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-and-a-curse-11-wrath">Blessing and a Curse (11 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fulfill-your-destiny-11-wrath">Fulfill Your Destiny (11 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-paragon-abilities">9th-Level Paragon Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#apostate-11-wrath">Apostate (11 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#edict-of-unyielding-resolve-11-wrath">Edict of Unyielding Resolve (11 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#10th-level-features">10th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_2">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_4">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_2">Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#templar">Templar</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#virtue">Virtue</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wrath-of-the-gods">Wrath of the Gods</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
       
@@ -45453,1866 +44642,1055 @@
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
-                    <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+                    
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#censor" class="md-nav__link">
-    <span class="md-ellipsis">
-      Censor
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Censor">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#basics" class="md-nav__link">
-    <span class="md-ellipsis">
-      Basics
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#censor-order" class="md-nav__link">
-    <span class="md-ellipsis">
-      Censor Order
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#deity-and-domains" class="md-nav__link">
-    <span class="md-ellipsis">
-      Deity and Domains
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Deity and Domains">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#censor-advancement-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Censor Advancement Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wrath
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Wrath">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#wrath-in-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wrath in Combat
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#wrath-outside-of-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wrath Outside of Combat
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#judgment" class="md-nav__link">
-    <span class="md-ellipsis">
-      Judgment
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Judgment">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#judgment_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Judgment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#judgment-order-benefit" class="md-nav__link">
-    <span class="md-ellipsis">
-      Judgment Order Benefit
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#my-life-for-yours" class="md-nav__link">
-    <span class="md-ellipsis">
-      My Life for Yours
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="My Life for Yours">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#my-life-for-yours_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      My Life for Yours
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-domain-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Domain Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="1st-Level Domain Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#1st-level-censor-domain-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      1st-Level Censor Domain Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#blessing-of-compassion" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing of Compassion
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#blessing-of-comprehension" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing of Comprehension
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#blessing-of-fortunate-weather" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing of Fortunate Weather
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#faithful-friend" class="md-nav__link">
-    <span class="md-ellipsis">
-      Faithful Friend
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Faithful Friend">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#faithful-friend_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Faithful Friend
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#grave-speech" class="md-nav__link">
-    <span class="md-ellipsis">
-      Grave Speech
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Grave Speech">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#grave-speech_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Grave Speech
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hands-of-the-maker" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hands of the Maker
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Hands of the Maker">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#hands-of-the-maker_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hands of the Maker
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#inner-light" class="md-nav__link">
-    <span class="md-ellipsis">
-      Inner Light
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#inspired-deception" class="md-nav__link">
-    <span class="md-ellipsis">
-      Inspired Deception
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#oracular-visions" class="md-nav__link">
-    <span class="md-ellipsis">
-      Oracular Visions
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#protective-circle" class="md-nav__link">
-    <span class="md-ellipsis">
-      Protective Circle
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#revitalizing-ritual" class="md-nav__link">
-    <span class="md-ellipsis">
-      Revitalizing Ritual
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#sanctified-weapon" class="md-nav__link">
-    <span class="md-ellipsis">
-      Sanctified Weapon
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#censor-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Censor Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Censor Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#back-blasphemer" class="md-nav__link">
-    <span class="md-ellipsis">
-      Back Blasphemer!
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#every-step-death" class="md-nav__link">
-    <span class="md-ellipsis">
-      Every Step … Death!
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#halt-miscreant" class="md-nav__link">
-    <span class="md-ellipsis">
-      Halt Miscreant!
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#your-allies-cannot-save-you" class="md-nav__link">
-    <span class="md-ellipsis">
-      Your Allies Cannot Save You!
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heroic-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heroic Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Heroic Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#3-wrath-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      3-Wrath Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#behold-a-shield-of-faith-3-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Behold a Shield of Faith! (3 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#driving-assault-3-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Driving Assault (3 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#the-gods-punish-and-defend-3-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      The Gods Punish and Defend (3 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#repent-3-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Repent! (3 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5-wrath-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      5-Wrath Ability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#arrest-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Arrest (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#behold-the-face-of-justice-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Behold the Face of Justice! (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#censored-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Censored (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#purifying-fire-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Purifying Fire (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-order-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Order Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Order Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-order-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Order Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#it-was-foretold" class="md-nav__link">
-    <span class="md-ellipsis">
-      It Was Foretold
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#judge-of-character" class="md-nav__link">
-    <span class="md-ellipsis">
-      Judge of Character
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#lead-by-example" class="md-nav__link">
-    <span class="md-ellipsis">
-      Lead by Example
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#saints-vigilance" class="md-nav__link">
-    <span class="md-ellipsis">
-      Saint's Vigilance
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#a-sense-for-truth" class="md-nav__link">
-    <span class="md-ellipsis">
-      A Sense for Truth
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stalwart-icon" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stalwart Icon
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-order-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Order Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Order Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-exorcist-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Exorcist Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Exorcist Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#it-is-justice-you-fear-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      It Is Justice You Fear (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#revelator-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Revelator (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-oracle-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Oracle Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Oracle Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#prescient-grace-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Prescient Grace (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#with-my-blessing-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      With My Blessing (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#2nd-level-paragon-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      2nd-Level Paragon Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="2nd-Level Paragon Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#blessing-of-the-faithful-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing of the Faithful (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#sentenced-5-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Sentenced (5 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#3rd-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      3rd-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="3rd-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#look-on-my-work-and-despair" class="md-nav__link">
-    <span class="md-ellipsis">
-      Look On My Work and Despair
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7-wrath-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      7-Wrath Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7-Wrath Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#edict-of-disruptive-isolation-7-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Edict of Disruptive Isolation (7 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#edict-of-perfect-order-7-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Edict of Perfect Order (7 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#edict-of-purifying-pacifism-7-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Edict of Purifying Pacifism (7 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#edict-of-stillness-7-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Edict of Stillness (7 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#4th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      4th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="4th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#wrath-beyond-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wrath Beyond Wrath
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#4th-level-domain-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      4th-Level Domain Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="4th-Level Domain Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#4th-level-censor-domain-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      4th-Level Censor Domain Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#blessing-of-life" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing of Life
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#blessing-of-secrets" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing of Secrets
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Blessing of Secrets">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#blessing-of-secrets_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing of Secrets
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#impervious-touch" class="md-nav__link">
-    <span class="md-ellipsis">
-      Impervious Touch
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#improved-hands-of-the-maker" class="md-nav__link">
-    <span class="md-ellipsis">
-      Improved Hands of the Maker
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#improved-sanctified-weapon" class="md-nav__link">
-    <span class="md-ellipsis">
-      Improved Sanctified Weapon
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#invocation-of-the-heart" class="md-nav__link">
-    <span class="md-ellipsis">
-      Invocation of the Heart
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#light-of-revelation" class="md-nav__link">
-    <span class="md-ellipsis">
-      Light of Revelation
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#oracular-warning" class="md-nav__link">
-    <span class="md-ellipsis">
-      Oracular Warning
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#seance" class="md-nav__link">
-    <span class="md-ellipsis">
-      Seance
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#saints-epiphany" class="md-nav__link">
-    <span class="md-ellipsis">
-      Saint's Epiphany
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#windwalk" class="md-nav__link">
-    <span class="md-ellipsis">
-      Windwalk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#wode-road" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wode Road
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-order-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Order Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="5th-Level Order Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#5th-level-order-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      5th-Level Order Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#evil-revealed" class="md-nav__link">
-    <span class="md-ellipsis">
-      Evil Revealed
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#prophecy" class="md-nav__link">
-    <span class="md-ellipsis">
-      Prophecy
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stand-fast" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stand Fast!
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9-wrath-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9-Wrath Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9-Wrath Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#gods-grant-thee-strength-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Gods Grant Thee Strength (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#orison-of-victory-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Orison of Victory (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#righteous-judgment-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Righteous Judgment (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shield-of-the-righteous-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shield of the Righteous (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#implement-of-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Implement of Wrath
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-order-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Order Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Order Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-exorcist-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Exorcist Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Exorcist Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#begone-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Begone! (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#pain-of-your-own-making-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Pain of Your Own Making (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-oracle-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Oracle Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Oracle Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#burden-of-evil-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Burden of Evil (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#edict-of-peace-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Edict of Peace (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#6th-level-paragon-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      6th-Level Paragon Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="6th-Level Paragon Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#congregation-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Congregation (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#intercede-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Intercede (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-domain-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Domain Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="7th-Level Domain Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#7th-level-censor-domain-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      7th-Level Censor Domain Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#blessing-of-iron" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing of Iron
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#covenant-of-the-heart" class="md-nav__link">
-    <span class="md-ellipsis">
-      Covenant of the Heart
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Covenant of the Heart">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#guided-to-your-side" class="md-nav__link">
-    <span class="md-ellipsis">
-      Guided to Your Side
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#divine-quartermaster" class="md-nav__link">
-    <span class="md-ellipsis">
-      Divine Quartermaster
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#font-of-grace" class="md-nav__link">
-    <span class="md-ellipsis">
-      Font of Grace
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#gods-library" class="md-nav__link">
-    <span class="md-ellipsis">
-      Gods' Library
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#light-of-the-burning-sun" class="md-nav__link">
-    <span class="md-ellipsis">
-      Light of the Burning Sun
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#natures-bounty" class="md-nav__link">
-    <span class="md-ellipsis">
-      Nature's Bounty
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ride-the-lightning" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ride the Lightning
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#trinity-of-trickery" class="md-nav__link">
-    <span class="md-ellipsis">
-      Trinity of Trickery
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Trinity of Trickery">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#trinity-of-trickery-9-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Trinity of Trickery (9 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#word-of-death-deferred" class="md-nav__link">
-    <span class="md-ellipsis">
-      Word of Death Deferred
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#word-of-fate-denied" class="md-nav__link">
-    <span class="md-ellipsis">
-      Word of Fate Denied
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#your-triumphs-are-remembered" class="md-nav__link">
-    <span class="md-ellipsis">
-      Your Triumphs Are Remembered
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#focused-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Focused Wrath
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#perk_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-order-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Order Feature
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="8th-Level Order Feature">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#8th-level-order-features-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      8th-Level Order Features Table
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#demonologist" class="md-nav__link">
-    <span class="md-ellipsis">
-      Demonologist
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#their-past-revealed" class="md-nav__link">
-    <span class="md-ellipsis">
-      Their Past Revealed
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#vow" class="md-nav__link">
-    <span class="md-ellipsis">
-      Vow
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#11-wrath-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      11-Wrath Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="11-Wrath Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#excommunication-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Excommunication (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hand-of-the-gods-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hand of the Gods (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#pillar-of-holy-fire-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Pillar of Holy Fire (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#your-allies-turn-on-you-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Your Allies Turn on You! (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#improved-implement-of-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Improved Implement of Wrath
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-order-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Order Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Order Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-exorcist-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Exorcist Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Exorcist Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#banish-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Banish (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#terror-manifest-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Terror Manifest (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-oracle-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Oracle Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Oracle Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#blessing-and-a-curse-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Blessing and a Curse (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#fulfill-your-destiny-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fulfill Your Destiny (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#9th-level-paragon-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      9th-Level Paragon Abilities
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="9th-Level Paragon Abilities">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#apostate-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Apostate (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#edict-of-unyielding-resolve-11-wrath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Edict of Unyielding Resolve (11 Wrath)
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#10th-level-features" class="md-nav__link">
-    <span class="md-ellipsis">
-      10th-Level Features
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="10th-Level Features">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#characteristic-increase_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Characteristic Increase
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#perk_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Perk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#skill_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Skill
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#templar" class="md-nav__link">
-    <span class="md-ellipsis">
-      Templar
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#virtue" class="md-nav__link">
-    <span class="md-ellipsis">
-      Virtue
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#wrath-of-the-gods" class="md-nav__link">
-    <span class="md-ellipsis">
-      Wrath of the Gods
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#censor">Censor</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#basics">Basics</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-features">1st-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#censor-order">Censor Order</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#deity-and-domains">Deity and Domains</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#censor-advancement-table">Censor Advancement Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wrath">Wrath</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wrath-in-combat">Wrath in Combat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wrath-outside-of-combat">Wrath Outside of Combat</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#judgment">Judgment</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#judgment_1">Judgment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#judgment-order-benefit">Judgment Order Benefit</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit">Kit</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#my-life-for-yours">My Life for Yours</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#my-life-for-yours_1">My Life for Yours</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-domain-feature">1st-Level Domain Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#1st-level-censor-domain-features-table">1st-Level Censor Domain Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-of-compassion">Blessing of Compassion</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-of-comprehension">Blessing of Comprehension</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-of-fortunate-weather">Blessing of Fortunate Weather</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#faithful-friend">Faithful Friend</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#faithful-friend_1">Faithful Friend</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#grave-speech">Grave Speech</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#grave-speech_1">Grave Speech</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hands-of-the-maker">Hands of the Maker</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hands-of-the-maker_1">Hands of the Maker</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#inner-light">Inner Light</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#inspired-deception">Inspired Deception</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#oracular-visions">Oracular Visions</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#protective-circle">Protective Circle</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#revitalizing-ritual">Revitalizing Ritual</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sanctified-weapon">Sanctified Weapon</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#censor-abilities">Censor Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#back-blasphemer">Back Blasphemer!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#every-step-death">Every Step … Death!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#halt-miscreant">Halt Miscreant!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#your-allies-cannot-save-you">Your Allies Cannot Save You!</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heroic-abilities">Heroic Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3-wrath-ability">3-Wrath Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#behold-a-shield-of-faith-3-wrath">Behold a Shield of Faith! (3 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#driving-assault-3-wrath">Driving Assault (3 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#the-gods-punish-and-defend-3-wrath">The Gods Punish and Defend (3 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#repent-3-wrath">Repent! (3 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5-wrath-ability">5-Wrath Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#arrest-5-wrath">Arrest (5 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#behold-the-face-of-justice-5-wrath">Behold the Face of Justice! (5 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#censored-5-wrath">Censored (5 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#purifying-fire-5-wrath">Purifying Fire (5 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-features">2nd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-order-features">2nd-Level Order Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-order-features-table">2nd-Level Order Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#it-was-foretold">It Was Foretold</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#judge-of-character">Judge of Character</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lead-by-example">Lead by Example</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#saints-vigilance">Saint's Vigilance</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#a-sense-for-truth">A Sense for Truth</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stalwart-icon">Stalwart Icon</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-order-ability">2nd-Level Order Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-exorcist-ability">2nd-Level Exorcist Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#it-is-justice-you-fear-5-wrath">It Is Justice You Fear (5 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#revelator-5-wrath">Revelator (5 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-oracle-ability">2nd-Level Oracle Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#prescient-grace-5-wrath">Prescient Grace (5 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#with-my-blessing-5-wrath">With My Blessing (5 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#2nd-level-paragon-ability">2nd-Level Paragon Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-of-the-faithful-5-wrath">Blessing of the Faithful (5 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sentenced-5-wrath">Sentenced (5 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#3rd-level-features">3rd-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#look-on-my-work-and-despair">Look On My Work and Despair</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7-wrath-ability">7-Wrath Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#edict-of-disruptive-isolation-7-wrath">Edict of Disruptive Isolation (7 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#edict-of-perfect-order-7-wrath">Edict of Perfect Order (7 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#edict-of-purifying-pacifism-7-wrath">Edict of Purifying Pacifism (7 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#edict-of-stillness-7-wrath">Edict of Stillness (7 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#4th-level-features">4th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_1">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill">Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wrath-beyond-wrath">Wrath Beyond Wrath</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#4th-level-domain-feature">4th-Level Domain Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#4th-level-censor-domain-features-table">4th-Level Censor Domain Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-of-life">Blessing of Life</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-of-secrets">Blessing of Secrets</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-of-secrets_1">Blessing of Secrets</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#impervious-touch">Impervious Touch</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#improved-hands-of-the-maker">Improved Hands of the Maker</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#improved-sanctified-weapon">Improved Sanctified Weapon</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#invocation-of-the-heart">Invocation of the Heart</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#light-of-revelation">Light of Revelation</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#oracular-warning">Oracular Warning</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#seance">Seance</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#saints-epiphany">Saint's Epiphany</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#windwalk">Windwalk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wode-road">Wode Road</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-features">5th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-order-feature">5th-Level Order Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#5th-level-order-features-table">5th-Level Order Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#evil-revealed">Evil Revealed</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#prophecy">Prophecy</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stand-fast">Stand Fast!</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9-wrath-ability">9-Wrath Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#gods-grant-thee-strength-9-wrath">Gods Grant Thee Strength (9 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#orison-of-victory-9-wrath">Orison of Victory (9 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#righteous-judgment-9-wrath">Righteous Judgment (9 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shield-of-the-righteous-9-wrath">Shield of the Righteous (9 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-features">6th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#implement-of-wrath">Implement of Wrath</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_2">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-order-ability">6th-Level Order Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-exorcist-abilities">6th-Level Exorcist Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#begone-9-wrath">Begone! (9 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pain-of-your-own-making-9-wrath">Pain of Your Own Making (9 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-oracle-abilities">6th-Level Oracle Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#burden-of-evil-9-wrath">Burden of Evil (9 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#edict-of-peace-9-wrath">Edict of Peace (9 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#6th-level-paragon-abilities">6th-Level Paragon Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#congregation-9-wrath">Congregation (9 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#intercede-9-wrath">Intercede (9 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-features">7th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_1">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-domain-feature">7th-Level Domain Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#7th-level-censor-domain-features-table">7th-Level Censor Domain Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-of-iron">Blessing of Iron</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#covenant-of-the-heart">Covenant of the Heart</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#guided-to-your-side">Guided to Your Side</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#divine-quartermaster">Divine Quartermaster</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#font-of-grace">Font of Grace</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#gods-library">Gods' Library</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#light-of-the-burning-sun">Light of the Burning Sun</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#natures-bounty">Nature's Bounty</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ride-the-lightning">Ride the Lightning</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#trinity-of-trickery">Trinity of Trickery</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#trinity-of-trickery-9-wrath">Trinity of Trickery (9 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#word-of-death-deferred">Word of Death Deferred</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#word-of-fate-denied">Word of Fate Denied</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#your-triumphs-are-remembered">Your Triumphs Are Remembered</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#focused-wrath">Focused Wrath</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_1">Skill</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-features">8th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_3">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-order-feature">8th-Level Order Feature</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#8th-level-order-features-table">8th-Level Order Features Table</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#demonologist">Demonologist</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#their-past-revealed">Their Past Revealed</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#vow">Vow</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#11-wrath-ability">11-Wrath Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#excommunication-11-wrath">Excommunication (11 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hand-of-the-gods-11-wrath">Hand of the Gods (11 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pillar-of-holy-fire-11-wrath">Pillar of Holy Fire (11 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#your-allies-turn-on-you-11-wrath">Your Allies Turn on You! (11 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-features">9th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#improved-implement-of-wrath">Improved Implement of Wrath</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-order-ability">9th-Level Order Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-exorcist-abilities">9th-Level Exorcist Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#banish-11-wrath">Banish (11 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#terror-manifest-11-wrath">Terror Manifest (11 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-oracle-abilities">9th-Level Oracle Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#blessing-and-a-curse-11-wrath">Blessing and a Curse (11 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fulfill-your-destiny-11-wrath">Fulfill Your Destiny (11 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#9th-level-paragon-abilities">9th-Level Paragon Abilities</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#apostate-11-wrath">Apostate (11 Wrath)</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#edict-of-unyielding-resolve-11-wrath">Edict of Unyielding Resolve (11 Wrath)</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#10th-level-features">10th-Level Features</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#characteristic-increase_2">Characteristic Increase</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#perk_4">Perk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#skill_2">Skill</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#templar">Templar</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#virtue">Virtue</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#wrath-of-the-gods">Wrath of the Gods</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
                   </div>

@@ -32245,1562 +32245,896 @@
 
       </a>
       
-        <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+        
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#changing-your-kit" class="md-nav__link">
-    <span class="md-ellipsis">
-      Changing Your Kit
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#kit-equipment" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Equipment
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Kit Equipment">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#kit-armor-categories" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Armor Categories
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Kit Armor Categories">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#none" class="md-nav__link">
-    <span class="md-ellipsis">
-      None
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#light-armor" class="md-nav__link">
-    <span class="md-ellipsis">
-      Light Armor
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#medium-armor" class="md-nav__link">
-    <span class="md-ellipsis">
-      Medium Armor
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heavy-armor" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heavy Armor
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shield" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shield
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-weapon-categories" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Weapon Categories
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Kit Weapon Categories">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#bow" class="md-nav__link">
-    <span class="md-ellipsis">
-      Bow
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ensnaring-weapon" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ensnaring Weapon
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#light-weapon" class="md-nav__link">
-    <span class="md-ellipsis">
-      Light Weapon
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#medium-weapon" class="md-nav__link">
-    <span class="md-ellipsis">
-      Medium Weapon
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heavy-weapon" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heavy Weapon
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#polearm" class="md-nav__link">
-    <span class="md-ellipsis">
-      Polearm
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#unarmed-strikes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unarmed Strikes
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#whip" class="md-nav__link">
-    <span class="md-ellipsis">
-      Whip
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kits-and-treasures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kits and Treasures
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#kit-bonuses-and-traits" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses and Traits
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Kit Bonuses and Traits">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#stamina-bonus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stamina Bonus
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#speed-bonus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Speed Bonus
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stability-bonus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stability Bonus
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#damage-bonuses" class="md-nav__link">
-    <span class="md-ellipsis">
-      Damage Bonuses
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Damage Bonuses">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#bonuses-across-tiers" class="md-nav__link">
-    <span class="md-ellipsis">
-      Bonuses Across Tiers
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#distance-bonus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Distance Bonus
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#disengage-bonus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Disengage Bonus
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#kit-signature-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Signature Ability
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#kits-a-to-z" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kits A to Z
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Kits A to Z">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#arcane-archer" class="md-nav__link">
-    <span class="md-ellipsis">
-      Arcane Archer
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Arcane Archer">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#exploding-arrow" class="md-nav__link">
-    <span class="md-ellipsis">
-      Exploding Arrow
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#battlemind" class="md-nav__link">
-    <span class="md-ellipsis">
-      Battlemind
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Battlemind">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#unmooring" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unmooring
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#cloak-and-dagger" class="md-nav__link">
-    <span class="md-ellipsis">
-      Cloak and Dagger
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Cloak and Dagger">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#fade" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fade
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#dual-wielder" class="md-nav__link">
-    <span class="md-ellipsis">
-      Dual Wielder
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Dual Wielder">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#double-strike" class="md-nav__link">
-    <span class="md-ellipsis">
-      Double Strike
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#guisarmier" class="md-nav__link">
-    <span class="md-ellipsis">
-      Guisarmier
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Guisarmier">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#forward-thrust-backward-smash" class="md-nav__link">
-    <span class="md-ellipsis">
-      Forward Thrust, Backward Smash
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#martial-artist" class="md-nav__link">
-    <span class="md-ellipsis">
-      Martial Artist
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Martial Artist">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_5" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_5" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_5" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#battle-grace" class="md-nav__link">
-    <span class="md-ellipsis">
-      Battle Grace
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#mountain" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mountain
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Mountain">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_6" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_6" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_6" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#pain-for-pain" class="md-nav__link">
-    <span class="md-ellipsis">
-      Pain for Pain
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#panther" class="md-nav__link">
-    <span class="md-ellipsis">
-      Panther
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Panther">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_7" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_7" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_7" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#devastating-rush" class="md-nav__link">
-    <span class="md-ellipsis">
-      Devastating Rush
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#pugilist" class="md-nav__link">
-    <span class="md-ellipsis">
-      Pugilist
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Pugilist">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_8" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_8" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_8" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#lets-dance" class="md-nav__link">
-    <span class="md-ellipsis">
-      Let's Dance
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#raider" class="md-nav__link">
-    <span class="md-ellipsis">
-      Raider
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Raider">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_9" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_9" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_9" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#shock-and-awe" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shock and Awe
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ranger" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ranger
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Ranger">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_10" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_10" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_10" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#hamstring-shot" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hamstring Shot
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#rapid-fire" class="md-nav__link">
-    <span class="md-ellipsis">
-      Rapid-Fire
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Rapid-Fire">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_11" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_11" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_11" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#two-shot" class="md-nav__link">
-    <span class="md-ellipsis">
-      Two Shot
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#retiarius" class="md-nav__link">
-    <span class="md-ellipsis">
-      Retiarius
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Retiarius">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_12" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_12" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_12" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#net-and-stab" class="md-nav__link">
-    <span class="md-ellipsis">
-      Net and Stab
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shining-armor" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shining Armor
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Shining Armor">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_13" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_13" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_13" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#protective-attack" class="md-nav__link">
-    <span class="md-ellipsis">
-      Protective Attack
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#sniper" class="md-nav__link">
-    <span class="md-ellipsis">
-      Sniper
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Sniper">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_14" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_14" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_14" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#patient-shot" class="md-nav__link">
-    <span class="md-ellipsis">
-      Patient Shot
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#spellsword" class="md-nav__link">
-    <span class="md-ellipsis">
-      Spellsword
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Spellsword">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_15" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_15" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_15" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#leaping-lightning" class="md-nav__link">
-    <span class="md-ellipsis">
-      Leaping Lightning
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stick-and-robe" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stick and Robe
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Stick and Robe">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_16" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_16" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_16" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#where-i-want-you" class="md-nav__link">
-    <span class="md-ellipsis">
-      Where I Want You
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#swashbuckler" class="md-nav__link">
-    <span class="md-ellipsis">
-      Swashbuckler
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Swashbuckler">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_17" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_17" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_17" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#fancy-footwork" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fancy Footwork
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#sword-and-board" class="md-nav__link">
-    <span class="md-ellipsis">
-      Sword and Board
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Sword and Board">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_18" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_18" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_18" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#shield-bash" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shield Bash
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#warrior-priest" class="md-nav__link">
-    <span class="md-ellipsis">
-      Warrior Priest
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Warrior Priest">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_19" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_19" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_19" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#weakening-brand" class="md-nav__link">
-    <span class="md-ellipsis">
-      Weakening Brand
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#whirlwind" class="md-nav__link">
-    <span class="md-ellipsis">
-      Whirlwind
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Whirlwind">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_20" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_20" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_20" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#extension-of-my-arm" class="md-nav__link">
-    <span class="md-ellipsis">
-      Extension of My Arm
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#optional-rule-losing-equipment" class="md-nav__link">
-    <span class="md-ellipsis">
-      Optional Rule: Losing Equipment
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Optional Rule: Losing Equipment">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#kits-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kits Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kits">Kits</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#changing-your-kit">Changing Your Kit</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-equipment">Kit Equipment</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-armor-categories">Kit Armor Categories</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#none">None</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#light-armor">Light Armor</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#medium-armor">Medium Armor</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heavy-armor">Heavy Armor</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shield">Shield</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-weapon-categories">Kit Weapon Categories</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#bow">Bow</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ensnaring-weapon">Ensnaring Weapon</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#light-weapon">Light Weapon</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#medium-weapon">Medium Weapon</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heavy-weapon">Heavy Weapon</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#polearm">Polearm</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unarmed-strikes">Unarmed Strikes</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#whip">Whip</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kits-and-treasures">Kits and Treasures</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses-and-traits">Kit Bonuses and Traits</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stamina-bonus">Stamina Bonus</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#speed-bonus">Speed Bonus</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stability-bonus">Stability Bonus</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#damage-bonuses">Damage Bonuses</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#bonuses-across-tiers">Bonuses Across Tiers</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#distance-bonus">Distance Bonus</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#disengage-bonus">Disengage Bonus</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-signature-ability">Kit Signature Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kits-a-to-z">Kits A to Z</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#arcane-archer">Arcane Archer</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#exploding-arrow">Exploding Arrow</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#battlemind">Battlemind</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_1">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_1">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_1">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unmooring">Unmooring</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cloak-and-dagger">Cloak and Dagger</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_2">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_2">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_2">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fade">Fade</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#dual-wielder">Dual Wielder</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_3">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_3">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_3">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#double-strike">Double Strike</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#guisarmier">Guisarmier</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_4">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_4">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_4">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#forward-thrust-backward-smash">Forward Thrust, Backward Smash</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#martial-artist">Martial Artist</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_5">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_5">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_5">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#battle-grace">Battle Grace</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mountain">Mountain</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_6">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_6">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_6">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pain-for-pain">Pain for Pain</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#panther">Panther</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_7">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_7">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_7">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#devastating-rush">Devastating Rush</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pugilist">Pugilist</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_8">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_8">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_8">Signature Ability</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lets-dance">Let's Dance</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#raider">Raider</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_9">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_9">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_9">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shock-and-awe">Shock and Awe</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ranger">Ranger</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_10">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_10">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_10">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hamstring-shot">Hamstring Shot</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#rapid-fire">Rapid-Fire</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_11">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_11">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_11">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#two-shot">Two Shot</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#retiarius">Retiarius</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_12">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_12">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_12">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#net-and-stab">Net and Stab</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shining-armor">Shining Armor</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_13">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_13">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_13">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#protective-attack">Protective Attack</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sniper">Sniper</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_14">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_14">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_14">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#patient-shot">Patient Shot</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#spellsword">Spellsword</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_15">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_15">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_15">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#leaping-lightning">Leaping Lightning</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stick-and-robe">Stick and Robe</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_16">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_16">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_16">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#where-i-want-you">Where I Want You</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#swashbuckler">Swashbuckler</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_17">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_17">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_17">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fancy-footwork">Fancy Footwork</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sword-and-board">Sword and Board</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_18">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_18">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_18">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shield-bash">Shield Bash</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#warrior-priest">Warrior Priest</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_19">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_19">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_19">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#weakening-brand">Weakening Brand</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#whirlwind">Whirlwind</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_20">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_20">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_20">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#extension-of-my-arm">Extension of My Arm</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#optional-rule-losing-equipment">Optional Rule: Losing Equipment</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kits-table">Kits Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
       
@@ -45151,1562 +44485,896 @@
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
-                    <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+                    
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#changing-your-kit" class="md-nav__link">
-    <span class="md-ellipsis">
-      Changing Your Kit
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#kit-equipment" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Equipment
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Kit Equipment">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#kit-armor-categories" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Armor Categories
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Kit Armor Categories">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#none" class="md-nav__link">
-    <span class="md-ellipsis">
-      None
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#light-armor" class="md-nav__link">
-    <span class="md-ellipsis">
-      Light Armor
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#medium-armor" class="md-nav__link">
-    <span class="md-ellipsis">
-      Medium Armor
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heavy-armor" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heavy Armor
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shield" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shield
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-weapon-categories" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Weapon Categories
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Kit Weapon Categories">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#bow" class="md-nav__link">
-    <span class="md-ellipsis">
-      Bow
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ensnaring-weapon" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ensnaring Weapon
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#light-weapon" class="md-nav__link">
-    <span class="md-ellipsis">
-      Light Weapon
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#medium-weapon" class="md-nav__link">
-    <span class="md-ellipsis">
-      Medium Weapon
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heavy-weapon" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heavy Weapon
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#polearm" class="md-nav__link">
-    <span class="md-ellipsis">
-      Polearm
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#unarmed-strikes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unarmed Strikes
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#whip" class="md-nav__link">
-    <span class="md-ellipsis">
-      Whip
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kits-and-treasures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kits and Treasures
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#kit-bonuses-and-traits" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses and Traits
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Kit Bonuses and Traits">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#stamina-bonus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stamina Bonus
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#speed-bonus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Speed Bonus
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stability-bonus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stability Bonus
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#damage-bonuses" class="md-nav__link">
-    <span class="md-ellipsis">
-      Damage Bonuses
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Damage Bonuses">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#bonuses-across-tiers" class="md-nav__link">
-    <span class="md-ellipsis">
-      Bonuses Across Tiers
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#distance-bonus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Distance Bonus
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#disengage-bonus" class="md-nav__link">
-    <span class="md-ellipsis">
-      Disengage Bonus
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#kit-signature-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Signature Ability
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#kits-a-to-z" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kits A to Z
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Kits A to Z">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#arcane-archer" class="md-nav__link">
-    <span class="md-ellipsis">
-      Arcane Archer
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Arcane Archer">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#exploding-arrow" class="md-nav__link">
-    <span class="md-ellipsis">
-      Exploding Arrow
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#battlemind" class="md-nav__link">
-    <span class="md-ellipsis">
-      Battlemind
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Battlemind">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#unmooring" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unmooring
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#cloak-and-dagger" class="md-nav__link">
-    <span class="md-ellipsis">
-      Cloak and Dagger
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Cloak and Dagger">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_2" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#fade" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fade
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#dual-wielder" class="md-nav__link">
-    <span class="md-ellipsis">
-      Dual Wielder
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Dual Wielder">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_3" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#double-strike" class="md-nav__link">
-    <span class="md-ellipsis">
-      Double Strike
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#guisarmier" class="md-nav__link">
-    <span class="md-ellipsis">
-      Guisarmier
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Guisarmier">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_4" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#forward-thrust-backward-smash" class="md-nav__link">
-    <span class="md-ellipsis">
-      Forward Thrust, Backward Smash
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#martial-artist" class="md-nav__link">
-    <span class="md-ellipsis">
-      Martial Artist
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Martial Artist">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_5" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_5" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_5" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#battle-grace" class="md-nav__link">
-    <span class="md-ellipsis">
-      Battle Grace
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#mountain" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mountain
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Mountain">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_6" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_6" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_6" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#pain-for-pain" class="md-nav__link">
-    <span class="md-ellipsis">
-      Pain for Pain
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#panther" class="md-nav__link">
-    <span class="md-ellipsis">
-      Panther
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Panther">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_7" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_7" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_7" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#devastating-rush" class="md-nav__link">
-    <span class="md-ellipsis">
-      Devastating Rush
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#pugilist" class="md-nav__link">
-    <span class="md-ellipsis">
-      Pugilist
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Pugilist">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_8" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_8" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_8" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#lets-dance" class="md-nav__link">
-    <span class="md-ellipsis">
-      Let's Dance
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#raider" class="md-nav__link">
-    <span class="md-ellipsis">
-      Raider
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Raider">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_9" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_9" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_9" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#shock-and-awe" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shock and Awe
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ranger" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ranger
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Ranger">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_10" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_10" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_10" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#hamstring-shot" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hamstring Shot
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#rapid-fire" class="md-nav__link">
-    <span class="md-ellipsis">
-      Rapid-Fire
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Rapid-Fire">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_11" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_11" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_11" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#two-shot" class="md-nav__link">
-    <span class="md-ellipsis">
-      Two Shot
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#retiarius" class="md-nav__link">
-    <span class="md-ellipsis">
-      Retiarius
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Retiarius">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_12" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_12" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_12" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#net-and-stab" class="md-nav__link">
-    <span class="md-ellipsis">
-      Net and Stab
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shining-armor" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shining Armor
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Shining Armor">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_13" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_13" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_13" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#protective-attack" class="md-nav__link">
-    <span class="md-ellipsis">
-      Protective Attack
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#sniper" class="md-nav__link">
-    <span class="md-ellipsis">
-      Sniper
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Sniper">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_14" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_14" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_14" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#patient-shot" class="md-nav__link">
-    <span class="md-ellipsis">
-      Patient Shot
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#spellsword" class="md-nav__link">
-    <span class="md-ellipsis">
-      Spellsword
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Spellsword">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_15" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_15" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_15" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#leaping-lightning" class="md-nav__link">
-    <span class="md-ellipsis">
-      Leaping Lightning
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stick-and-robe" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stick and Robe
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Stick and Robe">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_16" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_16" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_16" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#where-i-want-you" class="md-nav__link">
-    <span class="md-ellipsis">
-      Where I Want You
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#swashbuckler" class="md-nav__link">
-    <span class="md-ellipsis">
-      Swashbuckler
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Swashbuckler">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_17" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_17" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_17" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#fancy-footwork" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fancy Footwork
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#sword-and-board" class="md-nav__link">
-    <span class="md-ellipsis">
-      Sword and Board
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Sword and Board">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_18" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_18" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_18" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#shield-bash" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shield Bash
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#warrior-priest" class="md-nav__link">
-    <span class="md-ellipsis">
-      Warrior Priest
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Warrior Priest">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_19" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_19" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_19" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#weakening-brand" class="md-nav__link">
-    <span class="md-ellipsis">
-      Weakening Brand
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#whirlwind" class="md-nav__link">
-    <span class="md-ellipsis">
-      Whirlwind
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Whirlwind">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#equipment_20" class="md-nav__link">
-    <span class="md-ellipsis">
-      Equipment
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#kit-bonuses_20" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kit Bonuses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#signature-ability_20" class="md-nav__link">
-    <span class="md-ellipsis">
-      Signature Ability
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Signature Ability">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#extension-of-my-arm" class="md-nav__link">
-    <span class="md-ellipsis">
-      Extension of My Arm
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#optional-rule-losing-equipment" class="md-nav__link">
-    <span class="md-ellipsis">
-      Optional Rule: Losing Equipment
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Optional Rule: Losing Equipment">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#kits-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Kits Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kits">Kits</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#changing-your-kit">Changing Your Kit</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-equipment">Kit Equipment</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-armor-categories">Kit Armor Categories</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#none">None</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#light-armor">Light Armor</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#medium-armor">Medium Armor</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heavy-armor">Heavy Armor</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shield">Shield</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-weapon-categories">Kit Weapon Categories</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#bow">Bow</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ensnaring-weapon">Ensnaring Weapon</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#light-weapon">Light Weapon</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#medium-weapon">Medium Weapon</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heavy-weapon">Heavy Weapon</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#polearm">Polearm</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unarmed-strikes">Unarmed Strikes</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#whip">Whip</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kits-and-treasures">Kits and Treasures</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses-and-traits">Kit Bonuses and Traits</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stamina-bonus">Stamina Bonus</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#speed-bonus">Speed Bonus</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stability-bonus">Stability Bonus</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#damage-bonuses">Damage Bonuses</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#bonuses-across-tiers">Bonuses Across Tiers</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#distance-bonus">Distance Bonus</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#disengage-bonus">Disengage Bonus</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-signature-ability">Kit Signature Ability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kits-a-to-z">Kits A to Z</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#arcane-archer">Arcane Archer</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#exploding-arrow">Exploding Arrow</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#battlemind">Battlemind</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_1">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_1">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_1">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unmooring">Unmooring</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cloak-and-dagger">Cloak and Dagger</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_2">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_2">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_2">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fade">Fade</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#dual-wielder">Dual Wielder</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_3">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_3">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_3">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#double-strike">Double Strike</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#guisarmier">Guisarmier</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_4">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_4">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_4">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#forward-thrust-backward-smash">Forward Thrust, Backward Smash</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#martial-artist">Martial Artist</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_5">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_5">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_5">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#battle-grace">Battle Grace</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mountain">Mountain</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_6">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_6">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_6">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pain-for-pain">Pain for Pain</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#panther">Panther</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_7">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_7">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_7">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#devastating-rush">Devastating Rush</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#pugilist">Pugilist</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_8">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_8">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_8">Signature Ability</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#lets-dance">Let's Dance</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#raider">Raider</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_9">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_9">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_9">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shock-and-awe">Shock and Awe</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ranger">Ranger</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_10">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_10">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_10">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hamstring-shot">Hamstring Shot</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#rapid-fire">Rapid-Fire</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_11">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_11">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_11">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#two-shot">Two Shot</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#retiarius">Retiarius</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_12">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_12">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_12">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#net-and-stab">Net and Stab</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shining-armor">Shining Armor</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_13">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_13">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_13">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#protective-attack">Protective Attack</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sniper">Sniper</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_14">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_14">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_14">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#patient-shot">Patient Shot</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#spellsword">Spellsword</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_15">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_15">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_15">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#leaping-lightning">Leaping Lightning</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stick-and-robe">Stick and Robe</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_16">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_16">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_16">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#where-i-want-you">Where I Want You</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#swashbuckler">Swashbuckler</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_17">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_17">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_17">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fancy-footwork">Fancy Footwork</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sword-and-board">Sword and Board</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_18">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_18">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_18">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shield-bash">Shield Bash</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#warrior-priest">Warrior Priest</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_19">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_19">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_19">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#weakening-brand">Weakening Brand</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#whirlwind">Whirlwind</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#equipment_20">Equipment</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kit-bonuses_20">Kit Bonuses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#signature-ability_20">Signature Ability</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#extension-of-my-arm">Extension of My Arm</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#optional-rule-losing-equipment">Optional Rule: Losing Equipment</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#kits-table">Kits Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
                   </div>

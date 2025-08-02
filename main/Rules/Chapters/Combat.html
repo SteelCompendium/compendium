@@ -32084,1289 +32084,731 @@
 
       </a>
       
-        <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+        
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#set-the-map" class="md-nav__link">
-    <span class="md-ellipsis">
-      Set the Map
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Set the Map">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#size-and-space" class="md-nav__link">
-    <span class="md-ellipsis">
-      Size and Space
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Size and Space">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#creature-sizes-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Creature Sizes Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#sides" class="md-nav__link">
-    <span class="md-ellipsis">
-      Sides
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#combat-round" class="md-nav__link">
-    <span class="md-ellipsis">
-      Combat Round
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Combat Round">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#when-does-combat-start" class="md-nav__link">
-    <span class="md-ellipsis">
-      When Does Combat Start?
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#determine-surprise" class="md-nav__link">
-    <span class="md-ellipsis">
-      Determine Surprise
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#determine-who-goes-first" class="md-nav__link">
-    <span class="md-ellipsis">
-      Determine Who Goes First
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#creatures-take-turns" class="md-nav__link">
-    <span class="md-ellipsis">
-      Creatures Take Turns
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Creatures Take Turns">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#determining-who-acts-next" class="md-nav__link">
-    <span class="md-ellipsis">
-      Determining Who Acts Next
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#argument-timer" class="md-nav__link">
-    <span class="md-ellipsis">
-      Argument Timer
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#enemies-act-in-groups" class="md-nav__link">
-    <span class="md-ellipsis">
-      Enemies Act In Groups
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#end-of-round" class="md-nav__link">
-    <span class="md-ellipsis">
-      End of Round
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#taking-a-turn" class="md-nav__link">
-    <span class="md-ellipsis">
-      Taking a Turn
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Taking a Turn">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#triggered-actions-and-free-triggered-actions" class="md-nav__link">
-    <span class="md-ellipsis">
-      Triggered Actions and Free Triggered Actions
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#free-maneuvers" class="md-nav__link">
-    <span class="md-ellipsis">
-      Free Maneuvers
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#no-action-activities" class="md-nav__link">
-    <span class="md-ellipsis">
-      No-Action Activities
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#movement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Movement
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Movement">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#cant-exceed-speed" class="md-nav__link">
-    <span class="md-ellipsis">
-      Can't Exceed Speed
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#cant-cut-corners" class="md-nav__link">
-    <span class="md-ellipsis">
-      Can't Cut Corners
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Can&#39;t Cut Corners">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#cut-corners" class="md-nav__link">
-    <span class="md-ellipsis">
-      Cut Corners
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shifting" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shifting
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#movement-types" class="md-nav__link">
-    <span class="md-ellipsis">
-      Movement Types
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Movement Types">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#walk" class="md-nav__link">
-    <span class="md-ellipsis">
-      Walk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#burrow" class="md-nav__link">
-    <span class="md-ellipsis">
-      Burrow
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Burrow">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#dig-maneuver" class="md-nav__link">
-    <span class="md-ellipsis">
-      Dig Maneuver
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#targeting-burrowing-creatures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Targeting Burrowing Creatures
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#non-burrowing-creatures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Non-Burrowing Creatures
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#claw-dirt" class="md-nav__link">
-    <span class="md-ellipsis">
-      Claw Dirt
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#burrowing-forced-movement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Burrowing Forced Movement
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#climb-or-swim" class="md-nav__link">
-    <span class="md-ellipsis">
-      Climb or Swim
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Climb or Swim">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#climbing-other-creatures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Climbing Other Creatures
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#jump" class="md-nav__link">
-    <span class="md-ellipsis">
-      Jump
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#crawl" class="md-nav__link">
-    <span class="md-ellipsis">
-      Crawl
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#fly" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fly
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hover" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hover
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#teleport" class="md-nav__link">
-    <span class="md-ellipsis">
-      Teleport
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#falling" class="md-nav__link">
-    <span class="md-ellipsis">
-      Falling
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Falling">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#falling-onto-another-creature" class="md-nav__link">
-    <span class="md-ellipsis">
-      Falling Onto Another Creature
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#falling-far" class="md-nav__link">
-    <span class="md-ellipsis">
-      Falling Far
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#difficult-terrain" class="md-nav__link">
-    <span class="md-ellipsis">
-      Difficult Terrain
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#damaging-terrain" class="md-nav__link">
-    <span class="md-ellipsis">
-      Damaging Terrain
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#high-ground" class="md-nav__link">
-    <span class="md-ellipsis">
-      High Ground
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#forced-movement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Forced Movement
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Forced Movement">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#vertical" class="md-nav__link">
-    <span class="md-ellipsis">
-      Vertical
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#big-versus-little" class="md-nav__link">
-    <span class="md-ellipsis">
-      Big Versus Little
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#slamming-into-creatures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Slamming into Creatures
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#slamming-into-objects" class="md-nav__link">
-    <span class="md-ellipsis">
-      Slamming Into Objects
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hurling-through-objects" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hurling Through Objects
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#forced-into-a-fall" class="md-nav__link">
-    <span class="md-ellipsis">
-      Forced Into a Fall
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#when-a-creature-moves" class="md-nav__link">
-    <span class="md-ellipsis">
-      "When a Creature Moves …"
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#death-effects-and-forced-movement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Death Effects and Forced Movement
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#move-actions" class="md-nav__link">
-    <span class="md-ellipsis">
-      Move Actions
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Move Actions">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#advance" class="md-nav__link">
-    <span class="md-ellipsis">
-      Advance
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#disengage" class="md-nav__link">
-    <span class="md-ellipsis">
-      Disengage
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ride" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ride
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#maneuvers" class="md-nav__link">
-    <span class="md-ellipsis">
-      Maneuvers
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Maneuvers">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#aid-attack" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aid Attack
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#catch-breath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Catch Breath
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#escape-grab" class="md-nav__link">
-    <span class="md-ellipsis">
-      Escape Grab
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Escape Grab">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#escape-grab_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Escape Grab
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#grab" class="md-nav__link">
-    <span class="md-ellipsis">
-      Grab
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Grab">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#grab_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Grab
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hide" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hide
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#knockback" class="md-nav__link">
-    <span class="md-ellipsis">
-      Knockback
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Knockback">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#knockback_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Knockback
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#make-or-assist-a-test" class="md-nav__link">
-    <span class="md-ellipsis">
-      Make or Assist a Test
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#search-for-hidden-creatures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Search for Hidden Creatures
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stand-up" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stand Up
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#use-consumable" class="md-nav__link">
-    <span class="md-ellipsis">
-      Use Consumable
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#main-actions" class="md-nav__link">
-    <span class="md-ellipsis">
-      Main Actions
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Main Actions">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#charge" class="md-nav__link">
-    <span class="md-ellipsis">
-      Charge
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#defend" class="md-nav__link">
-    <span class="md-ellipsis">
-      Defend
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#free-strike" class="md-nav__link">
-    <span class="md-ellipsis">
-      Free Strike
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heal" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heal
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#free-strikes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Free Strikes
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Free Strikes">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#granted-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Granted Abilities
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#opportunity-attacks" class="md-nav__link">
-    <span class="md-ellipsis">
-      Opportunity Attacks
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#standard-free-strikes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Standard Free Strikes
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Standard Free Strikes">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#melee-weapon-free-strike" class="md-nav__link">
-    <span class="md-ellipsis">
-      Melee Weapon Free Strike
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ranged-weapon-free-strike" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ranged Weapon Free Strike
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#flanking" class="md-nav__link">
-    <span class="md-ellipsis">
-      Flanking
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#cover" class="md-nav__link">
-    <span class="md-ellipsis">
-      Cover
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#concealment" class="md-nav__link">
-    <span class="md-ellipsis">
-      Concealment
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Concealment">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#invisible-creatures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Invisible Creatures
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#damage" class="md-nav__link">
-    <span class="md-ellipsis">
-      Damage
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Damage">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#damage-types" class="md-nav__link">
-    <span class="md-ellipsis">
-      Damage Types
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Damage Types">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#damage-immunity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Damage Immunity
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#damage-weakness" class="md-nav__link">
-    <span class="md-ellipsis">
-      Damage Weakness
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#stamina" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stamina
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Stamina">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#recoveries-and-recovery-value" class="md-nav__link">
-    <span class="md-ellipsis">
-      Recoveries and Recovery Value
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#winded" class="md-nav__link">
-    <span class="md-ellipsis">
-      Winded
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#dying-and-death" class="md-nav__link">
-    <span class="md-ellipsis">
-      Dying and Death
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#director-controlled-creatures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Director-Controlled Creatures
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Director-Controlled Creatures">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#no-recoveries" class="md-nav__link">
-    <span class="md-ellipsis">
-      No Recoveries
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#knocking-creatures-out" class="md-nav__link">
-    <span class="md-ellipsis">
-      Knocking Creatures Out
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Knocking Creatures Out">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#unconscious" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unconscious
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#temporary-stamina" class="md-nav__link">
-    <span class="md-ellipsis">
-      Temporary Stamina
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#object-stamina" class="md-nav__link">
-    <span class="md-ellipsis">
-      Object Stamina
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#underwater-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Underwater Combat
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#suffocating" class="md-nav__link">
-    <span class="md-ellipsis">
-      Suffocating
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#mounted-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mounted Combat
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#end-of-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      End of Combat
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="End of Combat">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#how-combat-ends" class="md-nav__link">
-    <span class="md-ellipsis">
-      How Combat Ends
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#objective-endings" class="md-nav__link">
-    <span class="md-ellipsis">
-      Objective Endings
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Objective Endings">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#diminish-numbers" class="md-nav__link">
-    <span class="md-ellipsis">
-      Diminish Numbers
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#defeat-a-specific-foe" class="md-nav__link">
-    <span class="md-ellipsis">
-      Defeat a Specific Foe
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#get-the-thing" class="md-nav__link">
-    <span class="md-ellipsis">
-      Get the Thing!
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#destroy-the-thing" class="md-nav__link">
-    <span class="md-ellipsis">
-      Destroy the Thing!
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#save-another" class="md-nav__link">
-    <span class="md-ellipsis">
-      Save Another
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#escort" class="md-nav__link">
-    <span class="md-ellipsis">
-      Escort
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hold-them-off" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hold Them Off
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#assault-the-defenses" class="md-nav__link">
-    <span class="md-ellipsis">
-      Assault the Defenses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stop-the-action" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stop the Action
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#complete-the-action" class="md-nav__link">
-    <span class="md-ellipsis">
-      Complete the Action
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#dramatic-finish" class="md-nav__link">
-    <span class="md-ellipsis">
-      Dramatic Finish
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#event-ending" class="md-nav__link">
-    <span class="md-ellipsis">
-      Event Ending
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#combat">Combat</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#set-the-map">Set the Map</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#size-and-space">Size and Space</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#creature-sizes-table">Creature Sizes Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sides">Sides</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#combat-round">Combat Round</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#when-does-combat-start">When Does Combat Start?</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#determine-surprise">Determine Surprise</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#determine-who-goes-first">Determine Who Goes First</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#creatures-take-turns">Creatures Take Turns</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#determining-who-acts-next">Determining Who Acts Next</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#argument-timer">Argument Timer</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#enemies-act-in-groups">Enemies Act In Groups</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#end-of-round">End of Round</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#taking-a-turn">Taking a Turn</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#triggered-actions-and-free-triggered-actions">Triggered Actions and Free Triggered Actions</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#free-maneuvers">Free Maneuvers</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#no-action-activities">No-Action Activities</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#movement">Movement</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cant-exceed-speed">Can't Exceed Speed</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cant-cut-corners">Can't Cut Corners</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cut-corners">Cut Corners</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shifting">Shifting</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#movement-types">Movement Types</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#walk">Walk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#burrow">Burrow</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#dig-maneuver">Dig Maneuver</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#targeting-burrowing-creatures">Targeting Burrowing Creatures</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#non-burrowing-creatures">Non-Burrowing Creatures</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#claw-dirt">Claw Dirt</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#burrowing-forced-movement">Burrowing Forced Movement</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#climb-or-swim">Climb or Swim</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#climbing-other-creatures">Climbing Other Creatures</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#jump">Jump</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#crawl">Crawl</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fly">Fly</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hover">Hover</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#teleport">Teleport</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#falling">Falling</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#falling-onto-another-creature">Falling Onto Another Creature</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#falling-far">Falling Far</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#difficult-terrain">Difficult Terrain</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#damaging-terrain">Damaging Terrain</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#high-ground">High Ground</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#forced-movement">Forced Movement</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#vertical">Vertical</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#big-versus-little">Big Versus Little</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#slamming-into-creatures">Slamming into Creatures</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#slamming-into-objects">Slamming Into Objects</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hurling-through-objects">Hurling Through Objects</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#forced-into-a-fall">Forced Into a Fall</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stability">Stability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#when-a-creature-moves">"When a Creature Moves …"</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#death-effects-and-forced-movement">Death Effects and Forced Movement</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#move-actions">Move Actions</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#advance">Advance</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#disengage">Disengage</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ride">Ride</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#maneuvers">Maneuvers</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aid-attack">Aid Attack</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#catch-breath">Catch Breath</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#escape-grab">Escape Grab</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#escape-grab_1">Escape Grab</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#grab">Grab</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#grab_1">Grab</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hide">Hide</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#knockback">Knockback</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#knockback_1">Knockback</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#make-or-assist-a-test">Make or Assist a Test</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#search-for-hidden-creatures">Search for Hidden Creatures</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stand-up">Stand Up</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#use-consumable">Use Consumable</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#main-actions">Main Actions</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#charge">Charge</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#defend">Defend</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#free-strike">Free Strike</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heal">Heal</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#free-strikes">Free Strikes</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#granted-abilities">Granted Abilities</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#opportunity-attacks">Opportunity Attacks</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#standard-free-strikes">Standard Free Strikes</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#melee-weapon-free-strike">Melee Weapon Free Strike</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ranged-weapon-free-strike">Ranged Weapon Free Strike</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#flanking">Flanking</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cover">Cover</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#concealment">Concealment</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#invisible-creatures">Invisible Creatures</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#damage">Damage</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#damage-types">Damage Types</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#damage-immunity">Damage Immunity</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#damage-weakness">Damage Weakness</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stamina">Stamina</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#recoveries-and-recovery-value">Recoveries and Recovery Value</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#winded">Winded</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#dying-and-death">Dying and Death</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#director-controlled-creatures">Director-Controlled Creatures</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#no-recoveries">No Recoveries</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#knocking-creatures-out">Knocking Creatures Out</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unconscious">Unconscious</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#temporary-stamina">Temporary Stamina</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#object-stamina">Object Stamina</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#underwater-combat">Underwater Combat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#suffocating">Suffocating</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mounted-combat">Mounted Combat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#end-of-combat">End of Combat</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#how-combat-ends">How Combat Ends</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#objective-endings">Objective Endings</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#diminish-numbers">Diminish Numbers</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#defeat-a-specific-foe">Defeat a Specific Foe</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#get-the-thing">Get the Thing!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#destroy-the-thing">Destroy the Thing!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#save-another">Save Another</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#escort">Escort</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hold-them-off">Hold Them Off</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#assault-the-defenses">Assault the Defenses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stop-the-action">Stop the Action</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#complete-the-action">Complete the Action</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#dramatic-finish">Dramatic Finish</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#event-ending">Event Ending</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
       
@@ -44878,1289 +44320,731 @@
               <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
-                    <!--
-  Copyright (c) 2016-2025 Martin Donath <martin.donath@squidfunk.com>
-
-  Permission is hereby granted, free of charge, to any person obtaining a copy
-  of this software and associated documentation files (the "Software"), to
-  deal in the Software without restriction, including without limitation the
-  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
-  sell copies of the Software, and to permit persons to whom the Software is
-  furnished to do so, subject to the following conditions:
-
-  The above copyright notice and this permission notice shall be included in
-  all copies or substantial portions of the Software.
-
-  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
-  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
-  IN THE SOFTWARE.
--->
-
-<!-- Determine title -->
+                    
 
 
 
-<!-- Table of contents -->
+
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-    
-
-    <!--
-        REMOVING TO SHOW ALL H1 HEADERS
-
-      Check whether the content starts with a level 1 headline. If it does, the
-      top-level anchor must be skipped, since it would be redundant to the link
-      to the current page that is located just above the anchor. Therefore we
-      directly continue with the children of the anchor.
-
-    
-    
-    
-    
-    -->
-
-    <!-- Table of contents title and list -->
     
     <label class="md-nav__title" for="__toc">
         <span class="md-nav__icon md-icon"></span>
         Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-        
-        <li class="md-nav__item">
-  <a href="#set-the-map" class="md-nav__link">
-    <span class="md-ellipsis">
-      Set the Map
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Set the Map">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#size-and-space" class="md-nav__link">
-    <span class="md-ellipsis">
-      Size and Space
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Size and Space">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#creature-sizes-table" class="md-nav__link">
-    <span class="md-ellipsis">
-      Creature Sizes Table
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#sides" class="md-nav__link">
-    <span class="md-ellipsis">
-      Sides
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#combat-round" class="md-nav__link">
-    <span class="md-ellipsis">
-      Combat Round
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Combat Round">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#when-does-combat-start" class="md-nav__link">
-    <span class="md-ellipsis">
-      When Does Combat Start?
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#determine-surprise" class="md-nav__link">
-    <span class="md-ellipsis">
-      Determine Surprise
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#determine-who-goes-first" class="md-nav__link">
-    <span class="md-ellipsis">
-      Determine Who Goes First
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#creatures-take-turns" class="md-nav__link">
-    <span class="md-ellipsis">
-      Creatures Take Turns
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Creatures Take Turns">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#determining-who-acts-next" class="md-nav__link">
-    <span class="md-ellipsis">
-      Determining Who Acts Next
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#argument-timer" class="md-nav__link">
-    <span class="md-ellipsis">
-      Argument Timer
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#enemies-act-in-groups" class="md-nav__link">
-    <span class="md-ellipsis">
-      Enemies Act In Groups
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#end-of-round" class="md-nav__link">
-    <span class="md-ellipsis">
-      End of Round
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#taking-a-turn" class="md-nav__link">
-    <span class="md-ellipsis">
-      Taking a Turn
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Taking a Turn">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#triggered-actions-and-free-triggered-actions" class="md-nav__link">
-    <span class="md-ellipsis">
-      Triggered Actions and Free Triggered Actions
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#free-maneuvers" class="md-nav__link">
-    <span class="md-ellipsis">
-      Free Maneuvers
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#no-action-activities" class="md-nav__link">
-    <span class="md-ellipsis">
-      No-Action Activities
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#movement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Movement
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Movement">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#cant-exceed-speed" class="md-nav__link">
-    <span class="md-ellipsis">
-      Can't Exceed Speed
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#cant-cut-corners" class="md-nav__link">
-    <span class="md-ellipsis">
-      Can't Cut Corners
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Can&#39;t Cut Corners">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#cut-corners" class="md-nav__link">
-    <span class="md-ellipsis">
-      Cut Corners
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#shifting" class="md-nav__link">
-    <span class="md-ellipsis">
-      Shifting
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#movement-types" class="md-nav__link">
-    <span class="md-ellipsis">
-      Movement Types
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Movement Types">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#walk" class="md-nav__link">
-    <span class="md-ellipsis">
-      Walk
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#burrow" class="md-nav__link">
-    <span class="md-ellipsis">
-      Burrow
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Burrow">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#dig-maneuver" class="md-nav__link">
-    <span class="md-ellipsis">
-      Dig Maneuver
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#targeting-burrowing-creatures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Targeting Burrowing Creatures
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#non-burrowing-creatures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Non-Burrowing Creatures
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#claw-dirt" class="md-nav__link">
-    <span class="md-ellipsis">
-      Claw Dirt
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#burrowing-forced-movement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Burrowing Forced Movement
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#climb-or-swim" class="md-nav__link">
-    <span class="md-ellipsis">
-      Climb or Swim
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Climb or Swim">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#climbing-other-creatures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Climbing Other Creatures
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#jump" class="md-nav__link">
-    <span class="md-ellipsis">
-      Jump
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#crawl" class="md-nav__link">
-    <span class="md-ellipsis">
-      Crawl
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#fly" class="md-nav__link">
-    <span class="md-ellipsis">
-      Fly
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hover" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hover
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#teleport" class="md-nav__link">
-    <span class="md-ellipsis">
-      Teleport
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#falling" class="md-nav__link">
-    <span class="md-ellipsis">
-      Falling
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Falling">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#falling-onto-another-creature" class="md-nav__link">
-    <span class="md-ellipsis">
-      Falling Onto Another Creature
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#falling-far" class="md-nav__link">
-    <span class="md-ellipsis">
-      Falling Far
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#difficult-terrain" class="md-nav__link">
-    <span class="md-ellipsis">
-      Difficult Terrain
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#damaging-terrain" class="md-nav__link">
-    <span class="md-ellipsis">
-      Damaging Terrain
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#high-ground" class="md-nav__link">
-    <span class="md-ellipsis">
-      High Ground
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#forced-movement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Forced Movement
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Forced Movement">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#vertical" class="md-nav__link">
-    <span class="md-ellipsis">
-      Vertical
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#big-versus-little" class="md-nav__link">
-    <span class="md-ellipsis">
-      Big Versus Little
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#slamming-into-creatures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Slamming into Creatures
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#slamming-into-objects" class="md-nav__link">
-    <span class="md-ellipsis">
-      Slamming Into Objects
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hurling-through-objects" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hurling Through Objects
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#forced-into-a-fall" class="md-nav__link">
-    <span class="md-ellipsis">
-      Forced Into a Fall
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stability" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stability
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#when-a-creature-moves" class="md-nav__link">
-    <span class="md-ellipsis">
-      "When a Creature Moves …"
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#death-effects-and-forced-movement" class="md-nav__link">
-    <span class="md-ellipsis">
-      Death Effects and Forced Movement
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#move-actions" class="md-nav__link">
-    <span class="md-ellipsis">
-      Move Actions
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Move Actions">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#advance" class="md-nav__link">
-    <span class="md-ellipsis">
-      Advance
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#disengage" class="md-nav__link">
-    <span class="md-ellipsis">
-      Disengage
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ride" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ride
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#maneuvers" class="md-nav__link">
-    <span class="md-ellipsis">
-      Maneuvers
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Maneuvers">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#aid-attack" class="md-nav__link">
-    <span class="md-ellipsis">
-      Aid Attack
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#catch-breath" class="md-nav__link">
-    <span class="md-ellipsis">
-      Catch Breath
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#escape-grab" class="md-nav__link">
-    <span class="md-ellipsis">
-      Escape Grab
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Escape Grab">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#escape-grab_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Escape Grab
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#grab" class="md-nav__link">
-    <span class="md-ellipsis">
-      Grab
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Grab">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#grab_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Grab
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hide" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hide
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#knockback" class="md-nav__link">
-    <span class="md-ellipsis">
-      Knockback
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Knockback">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#knockback_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      Knockback
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#make-or-assist-a-test" class="md-nav__link">
-    <span class="md-ellipsis">
-      Make or Assist a Test
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#search-for-hidden-creatures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Search for Hidden Creatures
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stand-up" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stand Up
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#use-consumable" class="md-nav__link">
-    <span class="md-ellipsis">
-      Use Consumable
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#main-actions" class="md-nav__link">
-    <span class="md-ellipsis">
-      Main Actions
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Main Actions">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#charge" class="md-nav__link">
-    <span class="md-ellipsis">
-      Charge
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#defend" class="md-nav__link">
-    <span class="md-ellipsis">
-      Defend
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#free-strike" class="md-nav__link">
-    <span class="md-ellipsis">
-      Free Strike
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#heal" class="md-nav__link">
-    <span class="md-ellipsis">
-      Heal
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#free-strikes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Free Strikes
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Free Strikes">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#granted-abilities" class="md-nav__link">
-    <span class="md-ellipsis">
-      Granted Abilities
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#opportunity-attacks" class="md-nav__link">
-    <span class="md-ellipsis">
-      Opportunity Attacks
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#standard-free-strikes" class="md-nav__link">
-    <span class="md-ellipsis">
-      Standard Free Strikes
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Standard Free Strikes">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#melee-weapon-free-strike" class="md-nav__link">
-    <span class="md-ellipsis">
-      Melee Weapon Free Strike
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ranged-weapon-free-strike" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ranged Weapon Free Strike
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#flanking" class="md-nav__link">
-    <span class="md-ellipsis">
-      Flanking
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#cover" class="md-nav__link">
-    <span class="md-ellipsis">
-      Cover
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#concealment" class="md-nav__link">
-    <span class="md-ellipsis">
-      Concealment
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Concealment">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#invisible-creatures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Invisible Creatures
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#damage" class="md-nav__link">
-    <span class="md-ellipsis">
-      Damage
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Damage">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#damage-types" class="md-nav__link">
-    <span class="md-ellipsis">
-      Damage Types
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Damage Types">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#damage-immunity" class="md-nav__link">
-    <span class="md-ellipsis">
-      Damage Immunity
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#damage-weakness" class="md-nav__link">
-    <span class="md-ellipsis">
-      Damage Weakness
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#stamina" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stamina
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Stamina">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#recoveries-and-recovery-value" class="md-nav__link">
-    <span class="md-ellipsis">
-      Recoveries and Recovery Value
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#winded" class="md-nav__link">
-    <span class="md-ellipsis">
-      Winded
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#dying-and-death" class="md-nav__link">
-    <span class="md-ellipsis">
-      Dying and Death
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#director-controlled-creatures" class="md-nav__link">
-    <span class="md-ellipsis">
-      Director-Controlled Creatures
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Director-Controlled Creatures">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#no-recoveries" class="md-nav__link">
-    <span class="md-ellipsis">
-      No Recoveries
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#knocking-creatures-out" class="md-nav__link">
-    <span class="md-ellipsis">
-      Knocking Creatures Out
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Knocking Creatures Out">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#unconscious" class="md-nav__link">
-    <span class="md-ellipsis">
-      Unconscious
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#temporary-stamina" class="md-nav__link">
-    <span class="md-ellipsis">
-      Temporary Stamina
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#object-stamina" class="md-nav__link">
-    <span class="md-ellipsis">
-      Object Stamina
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#underwater-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Underwater Combat
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#suffocating" class="md-nav__link">
-    <span class="md-ellipsis">
-      Suffocating
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#mounted-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      Mounted Combat
-    </span>
-  </a>
-  
-</li>
-        
-        <li class="md-nav__item">
-  <a href="#end-of-combat" class="md-nav__link">
-    <span class="md-ellipsis">
-      End of Combat
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="End of Combat">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#how-combat-ends" class="md-nav__link">
-    <span class="md-ellipsis">
-      How Combat Ends
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#objective-endings" class="md-nav__link">
-    <span class="md-ellipsis">
-      Objective Endings
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Objective Endings">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#diminish-numbers" class="md-nav__link">
-    <span class="md-ellipsis">
-      Diminish Numbers
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#defeat-a-specific-foe" class="md-nav__link">
-    <span class="md-ellipsis">
-      Defeat a Specific Foe
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#get-the-thing" class="md-nav__link">
-    <span class="md-ellipsis">
-      Get the Thing!
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#destroy-the-thing" class="md-nav__link">
-    <span class="md-ellipsis">
-      Destroy the Thing!
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#save-another" class="md-nav__link">
-    <span class="md-ellipsis">
-      Save Another
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#escort" class="md-nav__link">
-    <span class="md-ellipsis">
-      Escort
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#hold-them-off" class="md-nav__link">
-    <span class="md-ellipsis">
-      Hold Them Off
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#assault-the-defenses" class="md-nav__link">
-    <span class="md-ellipsis">
-      Assault the Defenses
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#stop-the-action" class="md-nav__link">
-    <span class="md-ellipsis">
-      Stop the Action
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#complete-the-action" class="md-nav__link">
-    <span class="md-ellipsis">
-      Complete the Action
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#dramatic-finish" class="md-nav__link">
-    <span class="md-ellipsis">
-      Dramatic Finish
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#event-ending" class="md-nav__link">
-    <span class="md-ellipsis">
-      Event Ending
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-        
-    </ul>
+    <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#combat">Combat</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#set-the-map">Set the Map</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#size-and-space">Size and Space</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#creature-sizes-table">Creature Sizes Table</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#sides">Sides</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#combat-round">Combat Round</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#when-does-combat-start">When Does Combat Start?</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#determine-surprise">Determine Surprise</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#determine-who-goes-first">Determine Who Goes First</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#creatures-take-turns">Creatures Take Turns</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#determining-who-acts-next">Determining Who Acts Next</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#argument-timer">Argument Timer</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#enemies-act-in-groups">Enemies Act In Groups</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#end-of-round">End of Round</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#taking-a-turn">Taking a Turn</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#triggered-actions-and-free-triggered-actions">Triggered Actions and Free Triggered Actions</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#free-maneuvers">Free Maneuvers</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#no-action-activities">No-Action Activities</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#movement">Movement</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cant-exceed-speed">Can't Exceed Speed</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cant-cut-corners">Can't Cut Corners</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cut-corners">Cut Corners</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#shifting">Shifting</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#movement-types">Movement Types</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#walk">Walk</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#burrow">Burrow</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#dig-maneuver">Dig Maneuver</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#targeting-burrowing-creatures">Targeting Burrowing Creatures</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#non-burrowing-creatures">Non-Burrowing Creatures</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#claw-dirt">Claw Dirt</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#burrowing-forced-movement">Burrowing Forced Movement</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#climb-or-swim">Climb or Swim</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#climbing-other-creatures">Climbing Other Creatures</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#jump">Jump</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#crawl">Crawl</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#fly">Fly</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hover">Hover</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#teleport">Teleport</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#falling">Falling</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#falling-onto-another-creature">Falling Onto Another Creature</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#falling-far">Falling Far</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#difficult-terrain">Difficult Terrain</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#damaging-terrain">Damaging Terrain</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#high-ground">High Ground</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#forced-movement">Forced Movement</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#vertical">Vertical</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#big-versus-little">Big Versus Little</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#slamming-into-creatures">Slamming into Creatures</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#slamming-into-objects">Slamming Into Objects</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hurling-through-objects">Hurling Through Objects</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#forced-into-a-fall">Forced Into a Fall</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stability">Stability</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#when-a-creature-moves">"When a Creature Moves …"</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#death-effects-and-forced-movement">Death Effects and Forced Movement</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#move-actions">Move Actions</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#advance">Advance</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#disengage">Disengage</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ride">Ride</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#maneuvers">Maneuvers</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#aid-attack">Aid Attack</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#catch-breath">Catch Breath</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#escape-grab">Escape Grab</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#escape-grab_1">Escape Grab</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#grab">Grab</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#grab_1">Grab</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hide">Hide</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#knockback">Knockback</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#knockback_1">Knockback</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#make-or-assist-a-test">Make or Assist a Test</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#search-for-hidden-creatures">Search for Hidden Creatures</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stand-up">Stand Up</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#use-consumable">Use Consumable</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#main-actions">Main Actions</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#charge">Charge</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#defend">Defend</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#free-strike">Free Strike</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#heal">Heal</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#free-strikes">Free Strikes</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#granted-abilities">Granted Abilities</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#opportunity-attacks">Opportunity Attacks</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#standard-free-strikes">Standard Free Strikes</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#melee-weapon-free-strike">Melee Weapon Free Strike</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#ranged-weapon-free-strike">Ranged Weapon Free Strike</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#flanking">Flanking</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#cover">Cover</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#concealment">Concealment</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#invisible-creatures">Invisible Creatures</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#damage">Damage</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#damage-types">Damage Types</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#damage-immunity">Damage Immunity</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#damage-weakness">Damage Weakness</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stamina">Stamina</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#recoveries-and-recovery-value">Recoveries and Recovery Value</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#winded">Winded</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#dying-and-death">Dying and Death</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#director-controlled-creatures">Director-Controlled Creatures</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#no-recoveries">No Recoveries</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#knocking-creatures-out">Knocking Creatures Out</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#unconscious">Unconscious</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#temporary-stamina">Temporary Stamina</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#object-stamina">Object Stamina</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#underwater-combat">Underwater Combat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#suffocating">Suffocating</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#mounted-combat">Mounted Combat</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#end-of-combat">End of Combat</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#how-combat-ends">How Combat Ends</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#objective-endings">Objective Endings</a>
+        
+        <ul class="md-nav__list">
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#diminish-numbers">Diminish Numbers</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#defeat-a-specific-foe">Defeat a Specific Foe</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#get-the-thing">Get the Thing!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#destroy-the-thing">Destroy the Thing!</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#save-another">Save Another</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#escort">Escort</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#hold-them-off">Hold Them Off</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#assault-the-defenses">Assault the Defenses</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#stop-the-action">Stop the Action</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#complete-the-action">Complete the Action</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#dramatic-finish">Dramatic Finish</a>
+        
+    </li>
+    
+    <li class="md-nav__item">
+        <a class="md-nav__link" href="#event-ending">Event Ending</a>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
+        
+    </li>
+    
+</ul>
     
 </nav>
                   </div>
