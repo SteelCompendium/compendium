@@ -4561,10 +4561,6 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
-         <loc>https://steelcompendium.io/main/Rules/Ancestries/Index.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
          <loc>https://steelcompendium.io/main/Rules/Ancestries/Memonek.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
@@ -4586,6 +4582,10 @@
     </url>
     <url>
          <loc>https://steelcompendium.io/main/Rules/Ancestries/Wode%20Elf.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Ancestries/_Index.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
@@ -4625,10 +4625,6 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
-         <loc>https://steelcompendium.io/main/Rules/Careers/Index.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
          <loc>https://steelcompendium.io/main/Rules/Careers/Laborer.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
@@ -4665,6 +4661,10 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
+         <loc>https://steelcompendium.io/main/Rules/Careers/_Index.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
          <loc>https://steelcompendium.io/main/Rules/Chapters/Ancestries.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
@@ -4694,10 +4694,6 @@
     </url>
     <url>
          <loc>https://steelcompendium.io/main/Rules/Chapters/Gods%20And%20Religion.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Chapters/Index.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
@@ -4733,6 +4729,10 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
+         <loc>https://steelcompendium.io/main/Rules/Chapters/_Index.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
          <loc>https://steelcompendium.io/main/Rules/Classes/Censor.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
@@ -4746,10 +4746,6 @@
     </url>
     <url>
          <loc>https://steelcompendium.io/main/Rules/Classes/Fury.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Classes/Index.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
@@ -4770,6 +4766,10 @@
     </url>
     <url>
          <loc>https://steelcompendium.io/main/Rules/Classes/Troubadour.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Classes/_Index.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
@@ -4950,10 +4950,6 @@
     </url>
     <url>
          <loc>https://steelcompendium.io/main/Rules/Complications/Indebted.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Complications/Index.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
@@ -5177,6 +5173,10 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
+         <loc>https://steelcompendium.io/main/Rules/Complications/_Index.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
          <loc>https://steelcompendium.io/main/Rules/Conditions/Bleeding.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
@@ -5190,10 +5190,6 @@
     </url>
     <url>
          <loc>https://steelcompendium.io/main/Rules/Conditions/Grabbed.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Conditions/Index.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
@@ -5217,7 +5213,11 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
-         <loc>https://steelcompendium.io/main/Rules/Cultures/Index.html</loc>
+         <loc>https://steelcompendium.io/main/Rules/Conditions/_Index.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Cultures/_Index.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
@@ -5293,7 +5293,7 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
-         <loc>https://steelcompendium.io/main/Rules/Kits/Index.html</loc>
+         <loc>https://steelcompendium.io/main/Rules/Kits/Kits%20Table.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
@@ -5365,6 +5365,10 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
+         <loc>https://steelcompendium.io/main/Rules/Kits/_Index.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
          <loc>https://steelcompendium.io/main/Rules/Movement/%22When%20A%20Creature%20Moves%20%22.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
@@ -5425,10 +5429,6 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
-         <loc>https://steelcompendium.io/main/Rules/Movement/Index.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
          <loc>https://steelcompendium.io/main/Rules/Movement/Jump.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
@@ -5462,6 +5462,10 @@
     </url>
     <url>
          <loc>https://steelcompendium.io/main/Rules/Movement/Walk.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Movement/_Index.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
@@ -5513,7 +5517,7 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
-         <loc>https://steelcompendium.io/main/Rules/Perks/Index.html</loc>
+         <loc>https://steelcompendium.io/main/Rules/Perks/_Index.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
@@ -5713,10 +5717,6 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
-         <loc>https://steelcompendium.io/main/Rules/Skills/Index.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
          <loc>https://steelcompendium.io/main/Rules/Skills/Interpersonal%20Skills.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
@@ -5729,7 +5729,11 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
-         <loc>https://steelcompendium.io/main/Rules/Titles/Index.html</loc>
+         <loc>https://steelcompendium.io/main/Rules/Skills/_Index.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Titles/_Index.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
@@ -5969,7 +5973,7 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
-         <loc>https://steelcompendium.io/main/Rules/Treasures/Index.html</loc>
+         <loc>https://steelcompendium.io/main/Rules/Treasures/_Index.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
