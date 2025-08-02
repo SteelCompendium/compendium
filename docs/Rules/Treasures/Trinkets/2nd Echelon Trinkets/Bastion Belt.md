@@ -6,7 +6,7 @@ item_name: Bastion Belt
 scc:
   - mcdm.heroes.v1:treasure.trinkets.2nd-echelon:bastion-belt
 scdc:
-  - 1.1.1:12.4.2:05
+  - 1.1.1:11.4.2:05
 source: mcdm.heroes.v1
 type: treasure/trinkets/2nd-echelon
 ---

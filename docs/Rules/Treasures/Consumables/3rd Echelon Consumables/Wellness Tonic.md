@@ -6,7 +6,7 @@ item_name: Wellness Tonic
 scc:
   - mcdm.heroes.v1:treasure.consumable.3rd-echelon:wellness-tonic
 scdc:
-  - 1.1.1:12.2.2:04
+  - 1.1.1:11.2.2:04
 source: mcdm.heroes.v1
 type: treasure/consumable/3rd-echelon
 ---

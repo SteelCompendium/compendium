@@ -3,13 +3,13 @@ class: conduit
 feature_type: trait
 file_dpath: Conduit/1st-Level Features
 item_id: conduit-advancement-table
-item_index: '41'
+item_index: '43'
 item_name: Conduit Advancement Table
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:conduit-advancement-table
 scdc:
-  - 1.1.1:13.1.8.1:41
+  - 1.1.1:13.1.8.1:43
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

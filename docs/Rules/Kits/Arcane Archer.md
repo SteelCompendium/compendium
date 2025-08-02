@@ -6,7 +6,7 @@ item_name: Arcane Archer
 scc:
   - mcdm.heroes.v1:kit:arcane-archer
 scdc:
-  - 1.1.1:9:12
+  - 1.1.1:8:12
 source: mcdm.heroes.v1
 type: kit
 ---

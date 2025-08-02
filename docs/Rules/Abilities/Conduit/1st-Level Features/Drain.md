@@ -3,13 +3,13 @@ class: conduit
 feature_type: trait
 file_dpath: Conduit/1st-Level Features
 item_id: drain
-item_index: '33'
+item_index: '35'
 item_name: Drain
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:drain
 scdc:
-  - 1.1.1:13.1.8.1:33
+  - 1.1.1:13.1.8.1:35
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

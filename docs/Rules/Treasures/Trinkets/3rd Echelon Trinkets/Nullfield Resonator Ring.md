@@ -6,7 +6,7 @@ item_name: Nullfield Resonator Ring
 scc:
   - mcdm.heroes.v1:treasure.trinkets.3rd-echelon:nullfield-resonator-ring
 scdc:
-  - 1.1.1:12.4.3:03
+  - 1.1.1:11.4.3:03
 source: mcdm.heroes.v1
 type: treasure/trinkets/3rd-echelon
 ---

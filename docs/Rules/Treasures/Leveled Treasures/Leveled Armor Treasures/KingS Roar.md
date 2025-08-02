@@ -6,7 +6,7 @@ item_name: King'S Roar
 scc:
   - mcdm.heroes.v1:treasure.leveled.armor:king-s-roar
 scdc:
-  - 1.1.1:12.3.4:09
+  - 1.1.1:11.3.4:09
 source: mcdm.heroes.v1
 type: treasure/leveled/armor
 ---

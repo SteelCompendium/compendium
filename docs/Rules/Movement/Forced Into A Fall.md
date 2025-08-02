@@ -6,7 +6,7 @@ item_name: Forced Into A Fall
 scc:
   - mcdm.heroes.v1:movement:forced-into-a-fall
 scdc:
-  - 1.1.1:10:08
+  - 1.1.1:9:08
 source: mcdm.heroes.v1
 type: movement
 ---

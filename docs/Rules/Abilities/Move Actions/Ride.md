@@ -1,13 +1,13 @@
 ---
 class: combat
-file_dpath: Abilities
+file_dpath: Abilities/Move Actions
 item_id: ride
 item_index: '03'
 item_name: Ride
 scc:
   - mcdm.heroes.v1:common\_ability.move\_action:ride
 scdc:
-  - 1.1.1:7.2:03
+  - 1.1.1:12.2:03
 source: mcdm.heroes.v1
 type: common\_ability/move\_action
 ---

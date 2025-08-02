@@ -6,7 +6,7 @@ item_name: Stability
 scc:
   - mcdm.heroes.v1:movement:stability
 scdc:
-  - 1.1.1:10:16
+  - 1.1.1:9:16
 source: mcdm.heroes.v1
 type: movement
 ---

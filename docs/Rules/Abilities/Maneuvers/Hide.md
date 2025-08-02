@@ -1,13 +1,13 @@
 ---
 class: combat
-file_dpath: Abilities
+file_dpath: Abilities/Maneuvers
 item_id: hide
 item_index: 09
 item_name: Hide
 scc:
   - mcdm.heroes.v1:common\_ability.maneuver:hide
 scdc:
-  - 1.1.1:7.3:09
+  - 1.1.1:12.3:09
 source: mcdm.heroes.v1
 type: common\_ability/maneuver
 ---

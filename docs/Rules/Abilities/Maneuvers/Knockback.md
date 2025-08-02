@@ -1,13 +1,13 @@
 ---
 class: combat
-file_dpath: Abilities
+file_dpath: Abilities/Maneuvers
 item_id: knockback
 item_index: '05'
 item_name: Knockback
 scc:
   - mcdm.heroes.v1:common\_ability.maneuver:knockback
 scdc:
-  - 1.1.1:7.3:05
+  - 1.1.1:12.3:05
 source: mcdm.heroes.v1
 type: common\_ability/maneuver
 ---

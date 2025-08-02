@@ -1,13 +1,13 @@
 ---
 class: combat
-file_dpath: Abilities
+file_dpath: Abilities/Maneuvers
 item_id: escape-grab
 item_index: 08
 item_name: Escape Grab
 scc:
   - mcdm.heroes.v1:common\_ability.maneuver:escape-grab
 scdc:
-  - 1.1.1:7.3:08
+  - 1.1.1:12.3:08
 source: mcdm.heroes.v1
 type: common\_ability/maneuver
 ---

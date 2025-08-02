@@ -3,13 +3,13 @@ class: conduit
 feature_type: trait
 file_dpath: Conduit/1st-Level Features
 item_id: 1st-level-conduit-domain-features-table
-item_index: '16'
+item_index: '17'
 item_name: 1st-Level Conduit Domain Features Table
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:1st-level-conduit-domain-features-table
 scdc:
-  - 1.1.1:13.1.8.1:16
+  - 1.1.1:13.1.8.1:17
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

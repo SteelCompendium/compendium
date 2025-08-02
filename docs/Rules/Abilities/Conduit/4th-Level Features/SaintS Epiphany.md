@@ -3,13 +3,13 @@ class: conduit
 feature_type: trait
 file_dpath: Conduit/4th-Level Features
 item_id: saints-epiphany
-item_index: '10'
+item_index: '11'
 item_name: Saint's Epiphany
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:saints-epiphany
 scdc:
-  - 1.1.1:13.1.8.10:10
+  - 1.1.1:13.1.8.10:11
 source: mcdm.heroes.v1
 type: feature/trait/conduit/4th-level-feature
 ---

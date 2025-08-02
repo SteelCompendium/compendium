@@ -6,7 +6,7 @@ item_name: Swashbuckler
 scc:
   - mcdm.heroes.v1:kit:swashbuckler
 scdc:
-  - 1.1.1:9:15
+  - 1.1.1:8:15
 source: mcdm.heroes.v1
 type: kit
 ---

@@ -1,13 +1,13 @@
 ---
 class: combat
-file_dpath: Abilities
+file_dpath: Abilities/Maneuvers
 item_id: make-or-assist-a-test
 item_index: '03'
 item_name: Make Or Assist A Test
 scc:
   - mcdm.heroes.v1:common\_ability.maneuver:make-or-assist-a-test
 scdc:
-  - 1.1.1:7.3:03
+  - 1.1.1:12.3:03
 source: mcdm.heroes.v1
 type: common\_ability/maneuver
 ---

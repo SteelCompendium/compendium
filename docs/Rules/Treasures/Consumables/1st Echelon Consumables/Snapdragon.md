@@ -6,7 +6,7 @@ item_name: Snapdragon
 scc:
   - mcdm.heroes.v1:treasure.consumable.1st-echelon:snapdragon
 scdc:
-  - 1.1.1:12.2.1:06
+  - 1.1.1:11.2.1:06
 source: mcdm.heroes.v1
 type: treasure/consumable/1st-echelon
 ---

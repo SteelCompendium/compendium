@@ -5,12 +5,12 @@ type: index
 
 # Fury: 10th-Level Features Index
 
-| file_name                                                           | cost | level | feature_type |
-| ------------------------------------------------------------------- | ---- | ----- | ------------ |
-| [Chaos Incarnate](../Chaos%20Incarnate)                             |      | 10    | trait        |
-| [Characteristic Increase](../Characteristic%20Increase)             |      | 10    | trait        |
-| [Growing Ferocity Improvement](../Growing%20Ferocity%20Improvement) |      | 10    | trait        |
-| [Perk](../Perk)                                                     |      | 10    | trait        |
-| [Primordial Ferocity](../Primordial%20Ferocity)                     |      | 10    | trait        |
-| [Primordial Power](../Primordial%20Power)                           |      | 10    | trait        |
-| [Skill](../Skill)                                                   |      | 10    | trait        |
+| file_name                                                        | cost | level | feature_type |
+| ---------------------------------------------------------------- | ---- | ----- | ------------ |
+| [Chaos Incarnate](Chaos%20Incarnate)                             |      | 10    | trait        |
+| [Characteristic Increase](Characteristic%20Increase)             |      | 10    | trait        |
+| [Growing Ferocity Improvement](Growing%20Ferocity%20Improvement) |      | 10    | trait        |
+| [Perk](Perk)                                                     |      | 10    | trait        |
+| [Primordial Ferocity](Primordial%20Ferocity)                     |      | 10    | trait        |
+| [Primordial Power](Primordial%20Power)                           |      | 10    | trait        |
+| [Skill](Skill)                                                   |      | 10    | trait        |

@@ -3,13 +3,13 @@ class: conduit
 feature_type: trait
 file_dpath: Conduit/1st-Level Features
 item_id: piety-outside-of-combat
-item_index: '21'
+item_index: '22'
 item_name: Piety Outside of Combat
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:piety-outside-of-combat
 scdc:
-  - 1.1.1:13.1.8.1:21
+  - 1.1.1:13.1.8.1:22
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

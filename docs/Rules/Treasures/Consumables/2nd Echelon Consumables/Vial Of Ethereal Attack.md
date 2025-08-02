@@ -6,7 +6,7 @@ item_name: Vial Of Ethereal Attack
 scc:
   - mcdm.heroes.v1:treasure.consumable.2nd-echelon:vial-of-ethereal-attack
 scdc:
-  - 1.1.1:12.2.3:04
+  - 1.1.1:11.2.3:04
 source: mcdm.heroes.v1
 type: treasure/consumable/2nd-echelon
 ---

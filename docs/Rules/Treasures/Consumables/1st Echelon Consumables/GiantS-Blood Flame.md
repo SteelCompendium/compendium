@@ -6,7 +6,7 @@ item_name: Giant'S-Blood Flame
 scc:
   - mcdm.heroes.v1:treasure.consumable.1st-echelon:giant-s-blood-flame
 scdc:
-  - 1.1.1:12.2.1:07
+  - 1.1.1:11.2.1:07
 source: mcdm.heroes.v1
 type: treasure/consumable/1st-echelon
 ---

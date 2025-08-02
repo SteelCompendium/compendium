@@ -6,7 +6,7 @@ item_name: Adaptive Second Skin Of Toxins
 scc:
   - mcdm.heroes.v1:treasure.leveled.armor:adaptive-second-skin-of-toxins
 scdc:
-  - 1.1.1:12.3.4:05
+  - 1.1.1:11.3.4:05
 source: mcdm.heroes.v1
 type: treasure/leveled/armor
 ---

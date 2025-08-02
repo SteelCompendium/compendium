@@ -3,13 +3,13 @@ class: conduit
 feature_type: trait
 file_dpath: Conduit/1st-Level Features
 item_id: oracular-visions
-item_index: '40'
+item_index: '42'
 item_name: Oracular Visions
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:oracular-visions
 scdc:
-  - 1.1.1:13.1.8.1:40
+  - 1.1.1:13.1.8.1:42
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

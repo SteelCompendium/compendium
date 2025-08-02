@@ -6,7 +6,7 @@ item_name: Teleport
 scc:
   - mcdm.heroes.v1:movement:teleport
 scdc:
-  - 1.1.1:10:05
+  - 1.1.1:9:05
 source: mcdm.heroes.v1
 type: movement
 ---

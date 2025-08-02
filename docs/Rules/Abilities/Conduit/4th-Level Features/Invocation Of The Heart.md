@@ -3,13 +3,13 @@ class: conduit
 feature_type: trait
 file_dpath: Conduit/4th-Level Features
 item_id: invocation-of-the-heart
-item_index: '05'
+item_index: '06'
 item_name: Invocation of the Heart
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:invocation-of-the-heart
 scdc:
-  - 1.1.1:13.1.8.10:05
+  - 1.1.1:13.1.8.10:06
 source: mcdm.heroes.v1
 type: feature/trait/conduit/4th-level-feature
 ---

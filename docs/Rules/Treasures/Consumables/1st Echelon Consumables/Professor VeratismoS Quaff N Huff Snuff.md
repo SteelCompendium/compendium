@@ -6,7 +6,7 @@ item_name: Professor Veratismo'S Quaff 'N Huff Snuff
 scc:
   - mcdm.heroes.v1:treasure.consumable.1st-echelon:professor-veratismo-s-quaff-n-huff-snuff
 scdc:
-  - 1.1.1:12.2.1:13
+  - 1.1.1:11.2.1:13
 source: mcdm.heroes.v1
 type: treasure/consumable/1st-echelon
 ---

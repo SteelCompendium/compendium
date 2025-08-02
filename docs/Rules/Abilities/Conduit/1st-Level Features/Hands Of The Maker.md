@@ -1,13 +1,15 @@
 ---
+class: conduit
 feature_type: trait
-file_dpath: Conduit/1st-Level Features
+file_dpath: Abilities/Conduit/1st-Level Features
 item_id: hands-of-the-maker
-item_index: '49'
+item_index: '25'
 item_name: Hands of the Maker
+level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:hands-of-the-maker
 scdc:
-  - 1.1.1:13.1.8.1:49
+  - 1.1.1:13.1.8.1:25
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

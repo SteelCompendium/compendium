@@ -6,7 +6,7 @@ item_name: Raider
 scc:
   - mcdm.heroes.v1:kit:raider
 scdc:
-  - 1.1.1:9:05
+  - 1.1.1:8:05
 source: mcdm.heroes.v1
 type: kit
 ---

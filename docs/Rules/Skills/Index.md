@@ -5,10 +5,10 @@ type: index
 
 # Skills Index
 
-| file_name                                                       |
-| --------------------------------------------------------------- |
-| [Crafting Skills Table](../Crafting%20Skills%20Table)           |
-| [Exploration Skills Table](../Exploration%20Skills%20Table)     |
-| [Interpersonal Skills Table](../Interpersonal%20Skills%20Table) |
-| [Intrigue Skill Table](../Intrigue%20Skill%20Table)             |
-| [Lore Skills Table](../Lore%20Skills%20Table)                   |
+| file_name                                      |
+| ---------------------------------------------- |
+| [Crafting Skills](Crafting%20Skills)           |
+| [Exploration Skills](Exploration%20Skills)     |
+| [Interpersonal Skills](Interpersonal%20Skills) |
+| [Intrigue Skills](Intrigue%20Skills)           |
+| [Lore Skills](Lore%20Skills)                   |

@@ -6,7 +6,7 @@ item_name: Breath Of Creation
 scc:
   - mcdm.heroes.v1:treasure.consumable.4th-echelon:breath-of-creation
 scdc:
-  - 1.1.1:12.2.4:01
+  - 1.1.1:11.2.4:01
 source: mcdm.heroes.v1
 type: treasure/consumable/4th-echelon
 ---

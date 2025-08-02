@@ -6,7 +6,7 @@ item_name: Climbing Other Creatures
 scc:
   - mcdm.heroes.v1:movement:climbing-other-creatures
 scdc:
-  - 1.1.1:10:12
+  - 1.1.1:9:12
 source: mcdm.heroes.v1
 type: movement
 ---

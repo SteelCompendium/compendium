@@ -1,13 +1,15 @@
 ---
+class: conduit
 feature_type: trait
-file_dpath: Conduit/4th-Level Features
+file_dpath: Abilities/Conduit/4th-Level Features
 item_id: blessing-of-secrets
-item_index: '18'
+item_index: '05'
 item_name: Blessing of Secrets
+level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:blessing-of-secrets
 scdc:
-  - 1.1.1:13.1.8.10:18
+  - 1.1.1:13.1.8.10:05
 source: mcdm.heroes.v1
 type: feature/trait/conduit/4th-level-feature
 ---

@@ -6,7 +6,7 @@ item_name: Memonek
 scc:
   - mcdm.heroes.v1:ancestry:memonek
 scdc:
-  - 1.1.1:8:11
+  - 1.1.1:7:11
 source: mcdm.heroes.v1
 type: ancestry
 ---

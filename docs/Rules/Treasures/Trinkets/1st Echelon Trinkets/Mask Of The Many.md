@@ -6,7 +6,7 @@ item_name: Mask Of The Many
 scc:
   - mcdm.heroes.v1:treasure.trinkets.1st-echelon:mask-of-the-many
 scdc:
-  - 1.1.1:12.4.4:01
+  - 1.1.1:11.4.4:01
 source: mcdm.heroes.v1
 type: treasure/trinkets/1st-echelon
 ---

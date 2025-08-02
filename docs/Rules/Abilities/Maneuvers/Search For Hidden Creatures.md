@@ -1,13 +1,13 @@
 ---
 class: combat
-file_dpath: Abilities
+file_dpath: Abilities/Maneuvers
 item_id: search-for-hidden-creatures
 item_index: '02'
 item_name: Search For Hidden Creatures
 scc:
   - mcdm.heroes.v1:common\_ability.maneuver:search-for-hidden-creatures
 scdc:
-  - 1.1.1:7.3:02
+  - 1.1.1:12.3:02
 source: mcdm.heroes.v1
 type: common\_ability/maneuver
 ---

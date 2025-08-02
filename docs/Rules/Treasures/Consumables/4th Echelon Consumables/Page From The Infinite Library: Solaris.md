@@ -6,7 +6,7 @@ item_name: 'Page From The Infinite Library: Solaris'
 scc:
   - mcdm.heroes.v1:treasure.consumable.4th-echelon:page-from-the-infinite-library-solaris
 scdc:
-  - 1.1.1:12.2.4:02
+  - 1.1.1:11.2.4:02
 source: mcdm.heroes.v1
 type: treasure/consumable/4th-echelon
 ---

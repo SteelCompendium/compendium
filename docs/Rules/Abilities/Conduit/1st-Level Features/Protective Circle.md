@@ -3,13 +3,13 @@ class: conduit
 feature_type: trait
 file_dpath: Conduit/1st-Level Features
 item_id: protective-circle
-item_index: '18'
+item_index: '19'
 item_name: Protective Circle
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:protective-circle
 scdc:
-  - 1.1.1:13.1.8.1:18
+  - 1.1.1:13.1.8.1:19
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

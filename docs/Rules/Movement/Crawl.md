@@ -6,7 +6,7 @@ item_name: Crawl
 scc:
   - mcdm.heroes.v1:movement:crawl
 scdc:
-  - 1.1.1:10:03
+  - 1.1.1:9:03
 source: mcdm.heroes.v1
 type: movement
 ---

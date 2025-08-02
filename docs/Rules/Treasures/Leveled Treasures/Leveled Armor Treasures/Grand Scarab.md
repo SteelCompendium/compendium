@@ -6,7 +6,7 @@ item_name: Grand Scarab
 scc:
   - mcdm.heroes.v1:treasure.leveled.armor:grand-scarab
 scdc:
-  - 1.1.1:12.3.4:03
+  - 1.1.1:11.3.4:03
 source: mcdm.heroes.v1
 type: treasure/leveled/armor
 ---

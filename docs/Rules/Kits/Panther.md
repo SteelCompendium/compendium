@@ -6,7 +6,7 @@ item_name: Panther
 scc:
   - mcdm.heroes.v1:kit:panther
 scdc:
-  - 1.1.1:9:20
+  - 1.1.1:8:20
 source: mcdm.heroes.v1
 type: kit
 ---

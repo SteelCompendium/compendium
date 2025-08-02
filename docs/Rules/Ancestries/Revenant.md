@@ -6,7 +6,7 @@ item_name: Revenant
 scc:
   - mcdm.heroes.v1:ancestry:revenant
 scdc:
-  - 1.1.1:8:06
+  - 1.1.1:7:06
 source: mcdm.heroes.v1
 type: ancestry
 ---

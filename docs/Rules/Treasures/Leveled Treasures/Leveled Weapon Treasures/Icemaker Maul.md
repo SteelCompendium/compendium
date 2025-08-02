@@ -6,7 +6,7 @@ item_name: Icemaker Maul
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:icemaker-maul
 scdc:
-  - 1.1.1:12.3.1:01
+  - 1.1.1:11.3.1:01
 source: mcdm.heroes.v1
 type: treasure/leveled/weapon
 ---

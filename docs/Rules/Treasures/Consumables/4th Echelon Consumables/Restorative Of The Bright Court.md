@@ -6,7 +6,7 @@ item_name: Restorative Of The Bright Court
 scc:
   - mcdm.heroes.v1:treasure.consumable.4th-echelon:restorative-of-the-bright-court
 scdc:
-  - 1.1.1:12.2.4:04
+  - 1.1.1:11.2.4:04
 source: mcdm.heroes.v1
 type: treasure/consumable/4th-echelon
 ---

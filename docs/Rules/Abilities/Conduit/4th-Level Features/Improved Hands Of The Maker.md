@@ -3,13 +3,13 @@ class: conduit
 feature_type: trait
 file_dpath: Conduit/4th-Level Features
 item_id: improved-hands-of-the-maker
-item_index: '16'
+item_index: '17'
 item_name: Improved Hands of the Maker
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:improved-hands-of-the-maker
 scdc:
-  - 1.1.1:13.1.8.10:16
+  - 1.1.1:13.1.8.10:17
 source: mcdm.heroes.v1
 type: feature/trait/conduit/4th-level-feature
 ---

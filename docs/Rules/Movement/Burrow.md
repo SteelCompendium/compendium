@@ -6,7 +6,7 @@ item_name: Burrow
 scc:
   - mcdm.heroes.v1:movement:burrow
 scdc:
-  - 1.1.1:10:21
+  - 1.1.1:9:21
 source: mcdm.heroes.v1
 type: movement
 ---

@@ -6,7 +6,7 @@ item_name: Whirlwind
 scc:
   - mcdm.heroes.v1:kit:whirlwind
 scdc:
-  - 1.1.1:9:08
+  - 1.1.1:8:08
 source: mcdm.heroes.v1
 type: kit
 ---

@@ -1,15 +1,23 @@
 ---
 file_dpath: Skills
-item_id: lore-skills-table
-item_index: '05'
-item_name: Lore Skills Table
+item_id: lore-skills
+item_index: '04'
+item_name: Lore Skills
 scc:
-  - mcdm.heroes.v1:skill:lore-skills-table
+  - mcdm.heroes.v1:skill:lore-skills
 scdc:
-  - 1.1.1:5:05
+  - 1.1.1:5:04
 source: mcdm.heroes.v1
 type: skill
 ---
+
+##### Lore Skills
+
+Skills from the lore skill group are used to research and recall specific information. They are especially useful during rests and downtime.
+
+Rewards for tests made with lore skills typically include learning an extra piece of useful information.
+
+Consequences for tests made with lore skills typically include learning an incorrect piece of information that seems useful, but which actually works against your interests or wastes time. (It's fun to roleplay these kinds of moments, so lean in!) Alternatively, the Director can make medium and hard tests with lore group skills for each hero in secret, then let the players know the narrative outcome without revealing the outcome of the power roll (see the [Optional Rule: Secret Reactive Tests](#page-267-3) sidebar earlier in this chapter).
 
 ###### Lore Skills Table
 

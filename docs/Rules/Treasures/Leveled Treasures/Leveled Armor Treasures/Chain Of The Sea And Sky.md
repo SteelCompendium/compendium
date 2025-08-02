@@ -6,7 +6,7 @@ item_name: Chain Of The Sea And Sky
 scc:
   - mcdm.heroes.v1:treasure.leveled.armor:chain-of-the-sea-and-sky
 scdc:
-  - 1.1.1:12.3.4:02
+  - 1.1.1:11.3.4:02
 source: mcdm.heroes.v1
 type: treasure/leveled/armor
 ---

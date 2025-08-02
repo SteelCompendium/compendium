@@ -6,7 +6,7 @@ item_name: Devil
 scc:
   - mcdm.heroes.v1:ancestry:devil
 scdc:
-  - 1.1.1:8:08
+  - 1.1.1:7:08
 source: mcdm.heroes.v1
 type: ancestry
 ---

@@ -1,15 +1,23 @@
 ---
 file_dpath: Skills
-item_id: intrigue-skill-table
+item_id: intrigue-skills
 item_index: '03'
-item_name: Intrigue Skill Table
+item_name: Intrigue Skills
 scc:
-  - mcdm.heroes.v1:skill:intrigue-skill-table
+  - mcdm.heroes.v1:skill:intrigue-skills
 scdc:
   - 1.1.1:5:03
 source: mcdm.heroes.v1
 type: skill
 ---
+
+##### Intrigue Skills
+
+Skills from the intrigue skill group are used in tasks centered around investigation, thievery, and spycraft.
+
+Rewards for tests made with skills from this group typically include helping another creature engaging in the same task succeed without needing to also make a test, automatically succeeding on a follow-up test while engaged in the same task, discovering helpful information in addition to what you set out to learn, and performing an extra bit of clandestine activity in addition to what you set out to do.
+
+Consequences for tests made with intrigue skills include getting caught in the act or failing to notice a detail that places you in danger, such as triggering a trap or walking into an ambush.
 
 ###### Intrigue Skill Table
 

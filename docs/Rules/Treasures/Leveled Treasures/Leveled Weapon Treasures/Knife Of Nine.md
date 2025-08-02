@@ -6,7 +6,7 @@ item_name: Knife Of Nine
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:knife-of-nine
 scdc:
-  - 1.1.1:12.3.1:02
+  - 1.1.1:11.3.1:02
 source: mcdm.heroes.v1
 type: treasure/leveled/weapon
 ---

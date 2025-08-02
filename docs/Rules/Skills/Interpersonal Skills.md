@@ -1,15 +1,23 @@
 ---
 file_dpath: Skills
-item_id: interpersonal-skills-table
+item_id: interpersonal-skills
 item_index: '02'
-item_name: Interpersonal Skills Table
+item_name: Interpersonal Skills
 scc:
-  - mcdm.heroes.v1:skill:interpersonal-skills-table
+  - mcdm.heroes.v1:skill:interpersonal-skills
 scdc:
   - 1.1.1:5:02
 source: mcdm.heroes.v1
 type: skill
 ---
+
+##### Interpersonal Skills
+
+Skills from the interpersonal skill group are used to socially interact with other creatures, and are particularly useful during negotiations (see [Chapter 11)](#page-297-1). Aside from the Handle Animals skill, you can generally only use interpersonal skills when you attempt to influence creatures who have emotions and who can understand you.
+
+Rewards for tests made with interpersonal skills typically include gaining an extra favor, item, or piece of information from the people or creatures you interact with.
+
+Consequences for tests made with interpersonal skills include making the creature you're interacting with angry, sad, embarrassed, offended, or otherwise upset or uncomfortable. This might cause them to ignore you, storm off, spread rumors about you, attack you, betray you, blackmail you, or otherwise attempt to harm you.
 
 ###### Interpersonal Skills Table
 

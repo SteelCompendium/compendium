@@ -6,7 +6,7 @@ item_name: Chaldorb
 scc:
   - mcdm.heroes.v1:treasure.leveled.implement:chaldorb
 scdc:
-  - 1.1.1:12.3.3:05
+  - 1.1.1:11.3.3:05
 source: mcdm.heroes.v1
 type: treasure/leveled/implement
 ---

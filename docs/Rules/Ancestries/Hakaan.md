@@ -6,7 +6,7 @@ item_name: Hakaan
 scc:
   - mcdm.heroes.v1:ancestry:hakaan
 scdc:
-  - 1.1.1:8:12
+  - 1.1.1:7:12
 source: mcdm.heroes.v1
 type: ancestry
 ---
