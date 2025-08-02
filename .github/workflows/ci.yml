@@ -24,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install mkdocs-material mike mkdocs-roamlinks-plugin
+          pip install mkdocs-material mike mkdocs-roamlinks-plugin mkdocs-awesome-nav
 
       - name: Deploy documentation
         env:

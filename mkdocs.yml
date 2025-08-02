@@ -43,6 +43,7 @@ extra:
 plugins:
    - search
    - roamlinks
+   - awesome-nav
 
 extra_css:
    - stylesheets/extra.css
