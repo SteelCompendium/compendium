@@ -8,18 +8,4 @@ Steel Compendium Rules is a structured collection of data from the Draw Steel He
 
 - [[Draw Steel Heroes - Unlinked|Draw Steel Heroes]] - Full Heroes book without injected links.
 
-Sections have also been broken out for convenience:
-
-- [[Abilities/Index|Abilities]]
-- [[Ancestries/Index|Ancestries]]
-- [[Careers/Index|Careers]]
-- [[Chapters/Index|Chapters]]
-- [[Classes/Index|Classes]]
-- [[Complications/Index|Complications]]
-- [[Kits/Index|Kits]]
-- [[Movement/Index|Movement]]
-- [[Perks/Index|Perks]]
-- [[Skills/Index|Skills]]
-- [[Titles/Index|Titles]]
-- [[Treasures/Index|Treasures]]
-
+Use the nav to browse sections 
