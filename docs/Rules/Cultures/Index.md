@@ -5,20 +5,18 @@ type: index
 
 # Cultures Index
 
-[KNOWN ISSUE] These index links are potentially broken! Use the Nav in the top-left instead
-
-| file_name                       |
-| ------------------------------- |
-| [Nomadic](../Nomadic)           |
-| [Rural](../Rural)               |
-| [Secluded](../Secluded)         |
-| [Urban](../Urban)               |
-| [Wilderness](../Wilderness)     |
-| [Bureaucratic](../Bureaucratic) |
-| [Communal](../Communal)         |
-| [Academic](../Academic)         |
-| [Creative](../Creative)         |
-| [Labor](../Labor)               |
-| [Lawless](../Lawless)           |
-| [Martial](../Martial)           |
-| [Noble](../Noble)               |
+| file_name                                    |
+| -------------------------------------------- |
+| [Nomadic](../Environments/Nomadic)           |
+| [Rural](../Environments/Rural)               |
+| [Secluded](../Environments/Secluded)         |
+| [Urban](../Environments/Urban)               |
+| [Wilderness](../Environments/Wilderness)     |
+| [Bureaucratic](../Organization/Bureaucratic) |
+| [Communal](../Organization/Communal)         |
+| [Academic](../Upbringing/Academic)           |
+| [Creative](../Upbringing/Creative)           |
+| [Labor](../Upbringing/Labor)                 |
+| [Lawless](../Upbringing/Lawless)             |
+| [Martial](../Upbringing/Martial)             |
+| [Noble](../Upbringing/Noble)                 |
