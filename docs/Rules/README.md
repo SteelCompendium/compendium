@@ -10,16 +10,16 @@ Steel Compendium Rules is a structured collection of data from the Draw Steel He
 
 Sections have also been broken out for convenience (BETA, see nav):
 
-- [[Rules/Abilities/Index/|Abilities]]
-- [[Rules/Ancestries/Index/|Ancestries]]
-- [[Rules/Careers/Index/|Careers]]
-- [[Rules/Chapters/Index/|Chapters]]
-- [[Rules/Classes/Index/|Classes]]
-- [[Rules/Complications/Index/|Complications]]
-- [[Rules/Kits/Index/|Kits]]
-- [[Rules/Movement/Index/|Movement]]
-- [[Rules/Perks/Index/|Perks]]
-- [[Rules/Skills/Index/|Skills]]
-- [[Rules/Titles/Index/|Titles]]
-- [[Rules/Treasures/Index/|Treasures]]
+- [[Rules/Abilities/Index|Abilities]]
+- [[Rules/Ancestries/Index|Ancestries]]
+- [[Rules/Careers/Index|Careers]]
+- [[Rules/Chapters/Index|Chapters]]
+- [[Rules/Classes/Index|Classes]]
+- [[Rules/Complications/Index|Complications]]
+- [[Rules/Kits/Index|Kits]]
+- [[Rules/Movement/Index|Movement]]
+- [[Rules/Perks/Index|Perks]]
+- [[Rules/Skills/Index|Skills]]
+- [[Rules/Titles/Index|Titles]]
+- [[Rules/Treasures/Index|Treasures]]
 
