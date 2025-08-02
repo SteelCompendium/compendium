@@ -29,74 +29,6 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
-         <loc>https://steelcompendium.io/main/Rules/Abilities/Advance.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Abilities/Aid%20Attack.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Abilities/Catch%20Breath.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Abilities/Charge.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Abilities/Defend.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Abilities/Disengage.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Abilities/Escape%20Grab.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Abilities/Free%20Strike.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Abilities/Grab.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Abilities/Heal.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Abilities/Hide.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Abilities/Knockback.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Abilities/Make%20Or%20Assist%20A%20Test.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Abilities/Ride.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Abilities/Search%20For%20Hidden%20Creatures.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Abilities/Stand%20Up.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Abilities/Use%20Consumable.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
          <loc>https://steelcompendium.io/main/Rules/Abilities/Censor/Index.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
@@ -741,6 +673,10 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Conduit/1st-Level%20Features/Faithful%20Friend.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
          <loc>https://steelcompendium.io/main/Rules/Abilities/Conduit/1st-Level%20Features/Fate%20Domain%20Piety%20And%20Effect.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
@@ -750,6 +686,10 @@
     </url>
     <url>
          <loc>https://steelcompendium.io/main/Rules/Abilities/Conduit/1st-Level%20Features/Grave%20Speech.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Conduit/1st-Level%20Features/Hands%20Of%20The%20Maker.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
@@ -1006,6 +946,10 @@
     </url>
     <url>
          <loc>https://steelcompendium.io/main/Rules/Abilities/Conduit/4th-Level%20Features/Blessing%20Of%20Life.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Conduit/4th-Level%20Features/Blessing%20Of%20Secrets.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
@@ -2238,6 +2182,86 @@
     </url>
     <url>
          <loc>https://steelcompendium.io/main/Rules/Abilities/Fury/9th-Level%20Features/Shower%20Of%20Blood.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Main%20Actions/Charge.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Main%20Actions/Defend.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Main%20Actions/Free%20Strike.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Main%20Actions/Heal.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Main%20Actions/Index.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Maneuvers/Aid%20Attack.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Maneuvers/Catch%20Breath.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Maneuvers/Escape%20Grab.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Maneuvers/Grab.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Maneuvers/Hide.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Maneuvers/Index.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Maneuvers/Knockback.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Maneuvers/Make%20Or%20Assist%20A%20Test.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Maneuvers/Search%20For%20Hidden%20Creatures.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Maneuvers/Stand%20Up.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Maneuvers/Use%20Consumable.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Move%20Actions/Advance.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Move%20Actions/Disengage.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Move%20Actions/Index.html</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://steelcompendium.io/main/Rules/Abilities/Move%20Actions/Ride.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
@@ -5193,18 +5217,6 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
-         <loc>https://steelcompendium.io/main/Rules/Conduit/1st-Level%20Features/Faithful%20Friend.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Conduit/1st-Level%20Features/Hands%20Of%20The%20Maker.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
-         <loc>https://steelcompendium.io/main/Rules/Conduit/4th-Level%20Features/Blessing%20Of%20Secrets.html</loc>
-         <lastmod>2025-08-02</lastmod>
-    </url>
-    <url>
          <loc>https://steelcompendium.io/main/Rules/Cultures/Index.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
@@ -5693,11 +5705,11 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
-         <loc>https://steelcompendium.io/main/Rules/Skills/Crafting%20Skills%20Table.html</loc>
+         <loc>https://steelcompendium.io/main/Rules/Skills/Crafting%20Skills.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
-         <loc>https://steelcompendium.io/main/Rules/Skills/Exploration%20Skills%20Table.html</loc>
+         <loc>https://steelcompendium.io/main/Rules/Skills/Exploration%20Skills.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
@@ -5705,15 +5717,15 @@
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
-         <loc>https://steelcompendium.io/main/Rules/Skills/Interpersonal%20Skills%20Table.html</loc>
+         <loc>https://steelcompendium.io/main/Rules/Skills/Interpersonal%20Skills.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
-         <loc>https://steelcompendium.io/main/Rules/Skills/Intrigue%20Skill%20Table.html</loc>
+         <loc>https://steelcompendium.io/main/Rules/Skills/Intrigue%20Skills.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
-         <loc>https://steelcompendium.io/main/Rules/Skills/Lore%20Skills%20Table.html</loc>
+         <loc>https://steelcompendium.io/main/Rules/Skills/Lore%20Skills.html</loc>
          <lastmod>2025-08-02</lastmod>
     </url>
     <url>
