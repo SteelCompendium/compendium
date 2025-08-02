@@ -24,4 +24,9 @@ type: feature/trait/conduit/1st-level-feature
 
 **Effect:** The target can spend a Recovery.
 
-**Spend 1+ Piety:** For each piety spent, choose one of the following enhancements: - You can target one additional ally within distance. - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn. - A prone target can stand up. - A target can spend 1 additional Recovery.
+**Spend 1+ Piety:** For each piety spent, choose one of the following enhancements:
+
+- You can target one additional ally within distance.
+- You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
+- A prone target can stand up.
+- A target can spend 1 additional Recovery.

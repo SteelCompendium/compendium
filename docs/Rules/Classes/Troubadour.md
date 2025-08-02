@@ -195,7 +195,11 @@ You have the following ability.
 | ----------------- | -------------: |
 | **📏 Ranged 10**  | **🎯 Special** |
 
-**Effect:** Choose one of the following effects: - You orate a rousing tale of victory. One ally within distance gains an edge on the next power roll they make before the start of your next turn. - You weave a tale of high-stakes heroics. One ally within distance gains 1 surge. - You insult a foe where they're most vulnerable. One enemy within distance takes a bane on the next power roll they make before the end of their next turn.
+**Effect:** Choose one of the following effects:
+
+- You orate a rousing tale of victory. One ally within distance gains an edge on the next power roll they make before the start of your next turn.
+- You weave a tale of high-stakes heroics. One ally within distance gains 1 surge.
+- You insult a foe where they're most vulnerable. One enemy within distance takes a bane on the next power roll they make before the end of their next turn.
 
 **Spend 1 Drama:** You can choose two targets for the chosen effect.
 
@@ -1135,7 +1139,12 @@ Choose one heroic ability from the following options, each of which costs 11 dra
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, whenever you deal rolled damage to a creature or object, or enable a creature to spend a Recovery, you can use a free triggered action to give that creature or object one of the following effects until the start of your next turn. If this ability is triggered by multiple targets taking damage or multiple creatures spending Recoveries simultaneously, each target receives the same effect: - The target has damage weakness equal to your Presence score against any magic, psionic, or weapon ability. - The target has damage immunity equal to your Presence score. - The target has a bonus to stability and a penalty to speed equal to your Presence score. - The target has a bonus to speed and a penalty to stability equal to your Presence score.
+**Effect:** Until the end of the encounter, whenever you deal rolled damage to a creature or object, or enable a creature to spend a Recovery, you can use a free triggered action to give that creature or object one of the following effects until the start of your next turn. If this ability is triggered by multiple targets taking damage or multiple creatures spending Recoveries simultaneously, each target receives the same effect:
+
+- The target has damage weakness equal to your Presence score against any magic, psionic, or weapon ability.
+- The target has damage immunity equal to your Presence score.
+- The target has a bonus to stability and a penalty to speed equal to your Presence score.
+- The target has a bonus to speed and a penalty to stability equal to your Presence score.
 
 ###### The Show Must Go On (11 Drama)
 

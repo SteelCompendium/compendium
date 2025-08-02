@@ -281,7 +281,12 @@ You have the following ability, which you can use once on your turn.
 
 **Effect:** The target can spend a Recovery.
 
-**Spend 1+ Piety:** For each piety spent, choose one of the following enhancements: - You can target one additional ally within distance. - You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn. - A prone target can stand up. - A target can spend 1 additional Recovery.
+**Spend 1+ Piety:** For each piety spent, choose one of the following enhancements:
+
+- You can target one additional ally within distance.
+- You can end one effect on a target that is ended by a saving throw or that ends at the end of their turn.
+- A prone target can stand up.
+- A target can spend 1 additional Recovery.
 
 #### Ray of Wrath
 
@@ -678,7 +683,10 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 | ----------------- | ---------------------: |
 | **📏 Ranged 10**  | **🎯 Three creatures** |
 
-**Effect:** You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying: - Whenever a target makes a power roll, they can roll three dice and choose which two rolls to use. - Whenever a target makes a power roll, they must roll three dice and use the lowest two rolls.
+**Effect:** You can target yourself instead of one creature with this ability. Choose one of the following effects, which lasts until the end of the encounter or until you are dying:
+
+- Whenever a target makes a power roll, they can roll three dice and choose which two rolls to use.
+- Whenever a target makes a power roll, they must roll three dice and use the lowest two rolls.
 
 ###### Blessing of Insight (5 Piety)
 

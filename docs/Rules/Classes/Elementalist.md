@@ -929,7 +929,11 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 | ------------------------------------- | -------------: |
 | **📏 3 cube within 10**               | **🎯 Special** |
 
-**Effect:** Until the start of your next turn, the area gains the following effects: - Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of Recoveries. - The area is difficult terrain for enemies. - Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.
+**Effect:** Until the start of your next turn, the area gains the following effects:
+
+- Once as a free maneuver at the start of your turn, you allow yourself and each ally in the area to spend any number of Recoveries.
+- The area is difficult terrain for enemies.
+- Each enemy who enters the area for the first time in a combat round or starts their turn there takes damage equal to your Reason score.
 
 **Persistent 1:** The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your line of effect.
 
@@ -1303,7 +1307,13 @@ Choose one heroic ability from the following options, each of which costs 9 esse
 | ------------------------------------- | ----------------------: |
 | **📏 Ranged 10**                      | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target has the following benefits: - Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become restrained until the effect ends. - They have fire immunity 10. - Their strikes deal extra fire damage equal to twice your Reason score. - When the target force moves a creature or object, the forced movement distance gains a +2 bonus. - They can use their highest characteristic instead of Might for Might power rolls.
+**Effect:** Until the start of your next turn, the target has the following benefits:
+
+- Their size and stability increase by 2, with any size 1 target becoming size 3. Each creature who is within the target's new space slides to the nearest unoccupied space, ignoring stability. If the target doesn't have space to grow, they grow as much as they can and become restrained until the effect ends.
+- They have fire immunity 10.
+- Their strikes deal extra fire damage equal to twice your Reason score.
+- When the target force moves a creature or object, the forced movement distance gains a +2 bonus.
+- They can use their highest characteristic instead of Might for Might power rolls.
 
 **Persistent 2:** The effect lasts until the start of your next turn. Additionally, at the start of your turn, the target can spend 2 Recoveries.
 

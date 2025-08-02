@@ -2711,11 +2711,11 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 - *Swashbuckler:* You can automatically climb at full speed while moving
 - *Treasure Keeper:* You earn 1 Wealth.
 - *Weather Wizard:* Once per day, you can spend 10 uninterrupted minutes to magically alter mundane weather in a 5-mile radius around you. The weather moves with you and persists for 6 hours or until you dismiss it as a free maneuver. Choose from one of the following weather types:
-- *Calm:* Wind-powered vessels and technology cease working
-- *Fog:* Visibility is reduced to 6 squares.
-- *High Winds:* The speed of wind-powered vessels is doubled.
-- *Light Winds:* No effects due to weather.
-- *Storm:* The crew of an unsheltered wind-powered vessel must make a medium group Reason test. On a failure, the vessel needs repairs and moves at half speed until those repairs are made.
+    - *Calm:* Wind-powered vessels and technology cease working
+    - *Fog:* Visibility is reduced to 6 squares.
+    - *High Winds:* The speed of wind-powered vessels is doubled.
+    - *Light Winds:* No effects due to weather.
+    - *Storm:* The crew of an unsheltered wind-powered vessel must make a medium group Reason test. On a failure, the vessel needs repairs and moves at half speed until those repairs are made.
 
 #### Maestro
 
