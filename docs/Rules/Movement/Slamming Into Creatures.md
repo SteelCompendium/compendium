@@ -6,7 +6,7 @@ item_name: Slamming Into Creatures
 scc:
   - mcdm.heroes.v1:movement:slamming-into-creatures
 scdc:
-  - 1.1.1:9:23
+  - 1.1.1:10:23
 source: mcdm.heroes.v1
 type: movement
 ---

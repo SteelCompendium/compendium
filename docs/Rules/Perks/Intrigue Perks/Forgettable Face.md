@@ -6,7 +6,7 @@ item_name: Forgettable Face
 scc:
   - mcdm.heroes.v1:perk.intrigue:forgettable-face
 scdc:
-  - 1.1.1:16.5:02
+  - 1.1.1:17.5:02
 source: mcdm.heroes.v1
 type: perk/intrigue
 ---

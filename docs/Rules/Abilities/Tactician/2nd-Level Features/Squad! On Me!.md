@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.2nd-level-feature:squad-on-me-5-focus
 scdc:
-  - 1.1.1:13.2.4.5:04
+  - 1.1.1:14.2.4.5:04
 source: mcdm.heroes.v1
 type: feature/ability/tactician/2nd-level-feature
 ---

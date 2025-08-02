@@ -6,7 +6,7 @@ item_name: Peace
 scc:
   - mcdm.heroes.v1:motivation\_or\_pitfall:peace
 scdc:
-  - 1.1.1:10:12
+  - 1.1.1:11:12
 source: mcdm.heroes.v1
 type: motivation\_or\_pitfall
 ---

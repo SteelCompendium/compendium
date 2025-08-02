@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:gravitic-burst-5-clarity
 scdc:
-  - 1.1.1:13.2.1.5:05
+  - 1.1.1:14.2.1.5:05
 source: mcdm.heroes.v1
 type: feature/ability/talent/2nd-level-feature
 ---

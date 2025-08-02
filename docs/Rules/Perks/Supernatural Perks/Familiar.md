@@ -6,7 +6,7 @@ item_name: Familiar
 scc:
   - mcdm.heroes.v1:perk.supernatural:familiar
 scdc:
-  - 1.1.1:16.4:07
+  - 1.1.1:17.4:07
 source: mcdm.heroes.v1
 type: perk/supernatural
 ---

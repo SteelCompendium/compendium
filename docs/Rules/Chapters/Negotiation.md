@@ -1,5 +1,5 @@
 ---
-chapter_num: 1
+chapter_num: 11
 file_dpath: Chapters
 item_id: negotiation
 item_index: '01'
@@ -9,7 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:01
 source: mcdm.heroes.v1
-title: 'Chapter 1: Negotiation'
+title: 'Chapter 11: Negotiation'
 type: chapter
 ---
 

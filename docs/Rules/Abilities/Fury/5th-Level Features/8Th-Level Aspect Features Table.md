@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.fury.5th-level-feature:5th-level-aspect-features-table
 scdc:
-  - 1.1.1:13.1.5.5:01
+  - 1.1.1:14.1.5.5:01
 source: mcdm.heroes.v1
 type: feature/trait/fury/5th-level-feature
 ---

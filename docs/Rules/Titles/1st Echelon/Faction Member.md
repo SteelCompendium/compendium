@@ -6,7 +6,7 @@ item_name: Faction Member
 scc:
   - mcdm.heroes.v1:title.1st-echelon:faction-member
 scdc:
-  - 1.1.1:14.4:08
+  - 1.1.1:15.4:08
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

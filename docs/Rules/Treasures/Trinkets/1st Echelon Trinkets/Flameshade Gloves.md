@@ -6,7 +6,7 @@ item_name: Flameshade Gloves
 scc:
   - mcdm.heroes.v1:treasure.trinkets.1st-echelon:flameshade-gloves
 scdc:
-  - 1.1.1:11.4.4:07
+  - 1.1.1:12.4.4:07
 source: mcdm.heroes.v1
 type: treasure/trinkets/1st-echelon
 ---

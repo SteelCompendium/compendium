@@ -7,7 +7,7 @@ item_name: Search For Hidden Creatures
 scc:
   - mcdm.heroes.v1:common\_ability.maneuver:search-for-hidden-creatures
 scdc:
-  - 1.1.1:12.3:02
+  - 1.1.1:13.3:02
 source: mcdm.heroes.v1
 type: common\_ability/maneuver
 ---

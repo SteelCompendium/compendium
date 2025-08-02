@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:8th-level-elemental-specialization-features-table
 scdc:
-  - 1.1.1:13.1.9.2:04
+  - 1.1.1:14.1.9.2:04
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/8th-level-feature
 ---

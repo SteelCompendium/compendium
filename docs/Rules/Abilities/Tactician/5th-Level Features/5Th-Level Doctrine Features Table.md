@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:5th-level-doctrine-features-table
 scdc:
-  - 1.1.1:13.1.4.5:08
+  - 1.1.1:14.1.4.5:08
 source: mcdm.heroes.v1
 type: feature/trait/tactician/5th-level-feature
 ---

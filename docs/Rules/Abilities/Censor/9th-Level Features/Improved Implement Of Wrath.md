@@ -9,7 +9,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.trait.censor.9th-level-feature:improved-implement-of-wrath
 scdc:
-  - 1.1.1:13.1.7.8:01
+  - 1.1.1:14.1.7.8:01
 source: mcdm.heroes.v1
 type: feature/trait/censor/9th-level-feature
 ---

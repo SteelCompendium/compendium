@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.talent.6th-level-feature:expanded-power-3-clarity
 scdc:
-  - 1.1.1:13.2.1.3:01
+  - 1.1.1:14.2.1.3:01
 source: mcdm.heroes.v1
 type: feature/ability/talent/6th-level-feature
 ---

@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.censor.4th-level-feature:oracular-warning
 scdc:
-  - 1.1.1:13.1.7.10:01
+  - 1.1.1:14.1.7.10:01
 source: mcdm.heroes.v1
 type: feature/trait/censor/4th-level-feature
 ---

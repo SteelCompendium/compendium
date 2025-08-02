@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.null.8th-level-feature:shared-momentum
 scdc:
-  - 1.1.1:13.1.6.2:05
+  - 1.1.1:14.1.6.2:05
 source: mcdm.heroes.v1
 type: feature/trait/null/8th-level-feature
 ---

@@ -1,5 +1,5 @@
 ---
-chapter_num: 13
+chapter_num: 15
 file_dpath: Chapters
 item_id: for-the-director
 item_index: '13'
@@ -9,7 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:13
 source: mcdm.heroes.v1
-title: 'Chapter 13: For The Director'
+title: 'Chapter 15: For The Director'
 type: chapter
 ---
 

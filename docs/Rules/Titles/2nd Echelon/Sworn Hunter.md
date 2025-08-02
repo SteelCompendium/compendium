@@ -6,7 +6,7 @@ item_name: Sworn Hunter
 scc:
   - mcdm.heroes.v1:title.2nd-echelon:sworn-hunter
 scdc:
-  - 1.1.1:14.3:07
+  - 1.1.1:15.3:07
 source: mcdm.heroes.v1
 type: title/2nd-echelon
 ---

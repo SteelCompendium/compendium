@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:love-domain-piety-and-effect
 scdc:
-  - 1.1.1:13.1.8.1:21
+  - 1.1.1:14.1.8.1:21
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

@@ -7,7 +7,7 @@ item_name: Make Or Assist A Test
 scc:
   - mcdm.heroes.v1:common\_ability.maneuver:make-or-assist-a-test
 scdc:
-  - 1.1.1:12.3:03
+  - 1.1.1:13.3:03
 source: mcdm.heroes.v1
 type: common\_ability/maneuver
 ---

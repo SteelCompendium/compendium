@@ -6,7 +6,7 @@ item_name: Mage Hunter
 scc:
   - mcdm.heroes.v1:title.1st-echelon:mage-hunter
 scdc:
-  - 1.1.1:14.4:10
+  - 1.1.1:15.4:10
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

@@ -6,7 +6,7 @@ item_name: Wanted Dead Or Alive
 scc:
   - mcdm.heroes.v1:title.1st-echelon:wanted-dead-or-alive
 scdc:
-  - 1.1.1:14.4:12
+  - 1.1.1:15.4:12
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

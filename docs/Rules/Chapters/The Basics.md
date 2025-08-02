@@ -1,5 +1,5 @@
 ---
-chapter_num: 4
+chapter_num: 1
 file_dpath: Chapters
 item_id: the-basics
 item_index: '04'
@@ -9,7 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:04
 source: mcdm.heroes.v1
-title: 'Chapter 4: The Basics'
+title: 'Chapter 1: The Basics'
 type: chapter
 ---
 

@@ -12,6 +12,7 @@ type: index
 | [Cloak And Dagger](Cloak%20And%20Dagger) |
 | [Dual Wielder](Dual%20Wielder)           |
 | [Guisarmier](Guisarmier)                 |
+| [Kits Table](Kits%20Table)               |
 | [LetS Dance](LetS%20Dance)               |
 | [Martial Artist](Martial%20Artist)       |
 | [Mountain](Mountain)                     |

@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.null.7th-level-feature:skill
 scdc:
-  - 1.1.1:13.1.6.8:01
+  - 1.1.1:14.1.6.8:01
 source: mcdm.heroes.v1
 type: feature/trait/null/7th-level-feature
 ---

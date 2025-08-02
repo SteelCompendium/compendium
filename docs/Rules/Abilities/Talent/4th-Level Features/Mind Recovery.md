@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.talent.4th-level-feature:mind-recovery
 scdc:
-  - 1.1.1:13.1.1.10:03
+  - 1.1.1:14.1.1.10:03
 source: mcdm.heroes.v1
 type: feature/trait/talent/4th-level-feature
 ---

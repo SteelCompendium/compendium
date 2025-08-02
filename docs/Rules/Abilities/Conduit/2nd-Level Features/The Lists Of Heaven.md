@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.2nd-level-feature:the-lists-of-heaven
 scdc:
-  - 1.1.1:13.1.8.6:01
+  - 1.1.1:14.1.8.6:01
 source: mcdm.heroes.v1
 type: feature/trait/conduit/2nd-level-feature
 ---

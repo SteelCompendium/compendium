@@ -6,7 +6,7 @@ item_name: Wetwork
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:wetwork
 scdc:
-  - 1.1.1:11.3.1:06
+  - 1.1.1:12.3.1:06
 source: mcdm.heroes.v1
 type: treasure/leveled/weapon
 ---

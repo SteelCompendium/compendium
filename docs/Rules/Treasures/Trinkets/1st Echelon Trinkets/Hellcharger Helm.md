@@ -6,7 +6,7 @@ item_name: Hellcharger Helm
 scc:
   - mcdm.heroes.v1:treasure.trinkets.1st-echelon:hellcharger-helm
 scdc:
-  - 1.1.1:11.4.4:02
+  - 1.1.1:12.4.4:02
 source: mcdm.heroes.v1
 type: treasure/trinkets/1st-echelon
 ---

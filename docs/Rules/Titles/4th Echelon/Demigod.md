@@ -6,7 +6,7 @@ item_name: Demigod
 scc:
   - mcdm.heroes.v1:title.4th-echelon:demigod
 scdc:
-  - 1.1.1:14.1:07
+  - 1.1.1:15.1:07
 source: mcdm.heroes.v1
 type: title/4th-echelon
 ---

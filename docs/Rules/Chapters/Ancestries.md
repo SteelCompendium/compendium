@@ -1,5 +1,5 @@
 ---
-chapter_num: 15
+chapter_num: 3
 file_dpath: Chapters
 item_id: ancestries
 item_index: '15'
@@ -9,7 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:15
 source: mcdm.heroes.v1
-title: 'Chapter 15: Ancestries'
+title: 'Chapter 3: Ancestries'
 type: chapter
 ---
 

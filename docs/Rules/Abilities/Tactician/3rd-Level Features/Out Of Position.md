@@ -9,7 +9,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.3rd-level-feature:out-of-position
 scdc:
-  - 1.1.1:13.1.4.7:01
+  - 1.1.1:14.1.4.7:01
 source: mcdm.heroes.v1
 type: feature/trait/tactician/3rd-level-feature
 ---

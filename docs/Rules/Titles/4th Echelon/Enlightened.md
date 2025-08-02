@@ -6,7 +6,7 @@ item_name: Enlightened
 scc:
   - mcdm.heroes.v1:title.4th-echelon:enlightened
 scdc:
-  - 1.1.1:14.1:01
+  - 1.1.1:15.1:01
 source: mcdm.heroes.v1
 type: title/4th-echelon
 ---

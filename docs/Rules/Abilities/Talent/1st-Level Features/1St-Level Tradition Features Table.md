@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:1st-level-tradition-features-table
 scdc:
-  - 1.1.1:13.1.1.1:12
+  - 1.1.1:14.1.1.1:12
 source: mcdm.heroes.v1
 type: feature/trait/talent/1st-level-feature
 ---

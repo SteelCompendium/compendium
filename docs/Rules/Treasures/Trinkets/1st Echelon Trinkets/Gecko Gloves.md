@@ -6,7 +6,7 @@ item_name: Gecko Gloves
 scc:
   - mcdm.heroes.v1:treasure.trinkets.1st-echelon:gecko-gloves
 scdc:
-  - 1.1.1:11.4.4:04
+  - 1.1.1:12.4.4:04
 source: mcdm.heroes.v1
 type: treasure/trinkets/1st-echelon
 ---

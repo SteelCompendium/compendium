@@ -1,5 +1,5 @@
 ---
-chapter_num: 8
+chapter_num: 5
 file_dpath: Chapters
 item_id: classes
 item_index: 08
@@ -9,7 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:08
 source: mcdm.heroes.v1
-title: 'Chapter 8: Classes'
+title: 'Chapter 5: Classes'
 type: chapter
 ---
 

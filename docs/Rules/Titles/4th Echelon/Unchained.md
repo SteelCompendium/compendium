@@ -6,7 +6,7 @@ item_name: Unchained
 scc:
   - mcdm.heroes.v1:title.4th-echelon:unchained
 scdc:
-  - 1.1.1:14.1:10
+  - 1.1.1:15.1:10
 source: mcdm.heroes.v1
 type: title/4th-echelon
 ---

@@ -12,7 +12,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:the-show-must-go-on-11-drama
 scdc:
-  - 1.1.1:13.2.3.2:02
+  - 1.1.1:14.2.3.2:02
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/8th-level-feature
 ---

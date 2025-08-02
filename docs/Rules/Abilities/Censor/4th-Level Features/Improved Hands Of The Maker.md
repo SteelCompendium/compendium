@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.censor.4th-level-feature:improved-hands-of-the-maker
 scdc:
-  - 1.1.1:13.1.7.10:17
+  - 1.1.1:14.1.7.10:17
 source: mcdm.heroes.v1
 type: feature/trait/censor/4th-level-feature
 ---

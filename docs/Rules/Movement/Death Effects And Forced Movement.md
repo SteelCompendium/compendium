@@ -6,7 +6,7 @@ item_name: Death Effects And Forced Movement
 scc:
   - mcdm.heroes.v1:movement:death-effects-and-forced-movement
 scdc:
-  - 1.1.1:9:19
+  - 1.1.1:10:19
 source: mcdm.heroes.v1
 type: movement
 ---

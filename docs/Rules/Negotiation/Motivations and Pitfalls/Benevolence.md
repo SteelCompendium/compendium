@@ -6,7 +6,7 @@ item_name: Benevolence
 scc:
   - mcdm.heroes.v1:motivation\_or\_pitfall:benevolence
 scdc:
-  - 1.1.1:10:07
+  - 1.1.1:11:07
 source: mcdm.heroes.v1
 type: motivation\_or\_pitfall
 ---

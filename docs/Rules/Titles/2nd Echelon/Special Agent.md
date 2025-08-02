@@ -6,7 +6,7 @@ item_name: Special Agent
 scc:
   - mcdm.heroes.v1:title.2nd-echelon:special-agent
 scdc:
-  - 1.1.1:14.3:13
+  - 1.1.1:15.3:13
 source: mcdm.heroes.v1
 type: title/2nd-echelon
 ---

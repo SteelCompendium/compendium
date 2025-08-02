@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.fury.8th-level-feature:8th-level-aspect-features-table
 scdc:
-  - 1.1.1:13.1.5.2:03
+  - 1.1.1:14.1.5.2:03
 source: mcdm.heroes.v1
 type: feature/trait/fury/8th-level-feature
 ---

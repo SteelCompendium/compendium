@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.talent.7th-level-feature:characteristic-increase
 scdc:
-  - 1.1.1:13.1.1.9:04
+  - 1.1.1:14.1.1.9:04
 source: mcdm.heroes.v1
 type: feature/trait/talent/7th-level-feature
 ---

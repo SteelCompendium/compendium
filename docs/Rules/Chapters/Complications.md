@@ -1,5 +1,5 @@
 ---
-chapter_num: 5
+chapter_num: 8
 file_dpath: Chapters
 item_id: complications
 item_index: '05'
@@ -9,7 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:05
 source: mcdm.heroes.v1
-title: 'Chapter 5: Complications'
+title: 'Chapter 8: Complications'
 type: chapter
 ---
 

@@ -7,7 +7,7 @@ item_name: Free Strike
 scc:
   - mcdm.heroes.v1:common\_ability.main\_action:free-strike
 scdc:
-  - 1.1.1:12.1:04
+  - 1.1.1:13.1:04
 source: mcdm.heroes.v1
 type: common\_ability/main\_action
 ---

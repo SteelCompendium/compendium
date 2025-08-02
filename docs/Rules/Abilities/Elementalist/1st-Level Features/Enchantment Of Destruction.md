@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:enchantment-of-destruction
 scdc:
-  - 1.1.1:13.1.9.1:21
+  - 1.1.1:14.1.9.1:21
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

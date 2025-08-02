@@ -6,7 +6,7 @@ item_name: Reborn
 scc:
   - mcdm.heroes.v1:title.4th-echelon:reborn
 scdc:
-  - 1.1.1:14.1:04
+  - 1.1.1:15.1:04
 source: mcdm.heroes.v1
 type: title/4th-echelon
 ---

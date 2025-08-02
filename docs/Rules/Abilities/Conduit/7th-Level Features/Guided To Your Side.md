@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:guided-to-your-side
 scdc:
-  - 1.1.1:13.1.8.9:15
+  - 1.1.1:14.1.8.9:15
 source: mcdm.heroes.v1
 type: feature/trait/conduit/7th-level-feature
 ---

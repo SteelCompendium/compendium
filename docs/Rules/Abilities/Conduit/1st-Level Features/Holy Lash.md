@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:holy-lash
 scdc:
-  - 1.1.1:13.1.8.1:30
+  - 1.1.1:14.1.8.1:30
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

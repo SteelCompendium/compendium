@@ -6,7 +6,7 @@ item_name: Fly
 scc:
   - mcdm.heroes.v1:movement:fly
 scdc:
-  - 1.1.1:9:15
+  - 1.1.1:10:15
 source: mcdm.heroes.v1
 type: movement
 ---

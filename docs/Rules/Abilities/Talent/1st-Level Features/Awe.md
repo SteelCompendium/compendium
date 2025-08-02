@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:awe-3-clarity
 scdc:
-  - 1.1.1:13.2.1.1:07
+  - 1.1.1:14.2.1.1:07
 source: mcdm.heroes.v1
 type: feature/ability/talent/1st-level-feature
 ---

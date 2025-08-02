@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:distracted
 scdc:
-  - 1.1.1:13.1.4.5:09
+  - 1.1.1:14.1.4.5:09
 source: mcdm.heroes.v1
 type: feature/trait/tactician/5th-level-feature
 ---

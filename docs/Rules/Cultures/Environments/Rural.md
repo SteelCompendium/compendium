@@ -6,7 +6,7 @@ item_name: Rural
 scc:
   - mcdm.heroes.v1:culture\_benefit.environment:rural
 scdc:
-  - 1.1.1:15.2:02
+  - 1.1.1:16.2:02
 source: mcdm.heroes.v1
 type: culture\_benefit/environment
 ---

@@ -6,7 +6,7 @@ item_name: Battleaxe Diplomat
 scc:
   - mcdm.heroes.v1:title.1st-echelon:battleaxe-diplomat
 scdc:
-  - 1.1.1:14.4:18
+  - 1.1.1:15.4:18
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

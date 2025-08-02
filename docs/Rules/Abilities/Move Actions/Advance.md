@@ -7,7 +7,7 @@ item_name: Advance
 scc:
   - mcdm.heroes.v1:common\_ability.move\_action:advance
 scdc:
-  - 1.1.1:12.2:02
+  - 1.1.1:13.2:02
 source: mcdm.heroes.v1
 type: common\_ability/move\_action
 ---

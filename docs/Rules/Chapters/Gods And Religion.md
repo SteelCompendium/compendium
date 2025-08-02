@@ -1,5 +1,5 @@
 ---
-chapter_num: 16
+chapter_num: 14
 file_dpath: Chapters
 item_id: gods-and-religion
 item_index: '16'
@@ -9,7 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:16
 source: mcdm.heroes.v1
-title: 'Chapter 16: Gods And Religion'
+title: 'Chapter 14: Gods And Religion'
 type: chapter
 ---
 

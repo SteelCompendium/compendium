@@ -6,7 +6,7 @@ item_name: Master Crafter
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:master-crafter
 scdc:
-  - 1.1.1:14.2:10
+  - 1.1.1:15.2:10
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

@@ -6,7 +6,7 @@ item_name: Traveling Sage
 scc:
   - mcdm.heroes.v1:perk.lore:traveling-sage
 scdc:
-  - 1.1.1:16.2:02
+  - 1.1.1:17.2:02
 source: mcdm.heroes.v1
 type: perk/lore
 ---

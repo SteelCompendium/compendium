@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:synaptic-override-5-clarity
 scdc:
-  - 1.1.1:13.2.1.5:04
+  - 1.1.1:14.2.1.5:04
 source: mcdm.heroes.v1
 type: feature/ability/talent/2nd-level-feature
 ---

@@ -1,5 +1,5 @@
 ---
-chapter_num: 7
+chapter_num: 0
 file_dpath: Chapters
 item_id: introduction
 item_index: '07'
@@ -9,7 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:07
 source: mcdm.heroes.v1
-title: 'Chapter 7: Introduction'
+title: 'Chapter 0: Introduction'
 type: chapter
 ---
 

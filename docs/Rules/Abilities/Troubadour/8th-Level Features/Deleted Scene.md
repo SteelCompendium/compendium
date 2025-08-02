@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:deleted-scene
 scdc:
-  - 1.1.1:13.1.3.2:06
+  - 1.1.1:14.1.3.2:06
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/8th-level-feature
 ---

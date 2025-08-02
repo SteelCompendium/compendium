@@ -6,7 +6,7 @@ item_name: Bloodbound Band
 scc:
   - mcdm.heroes.v1:treasure.leveled.other:bloodbound-band
 scdc:
-  - 1.1.1:11.3.2:01
+  - 1.1.1:12.3.2:01
 source: mcdm.heroes.v1
 type: treasure/leveled/other
 ---

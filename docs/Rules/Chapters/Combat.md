@@ -1,5 +1,5 @@
 ---
-chapter_num: 11
+chapter_num: 10
 file_dpath: Chapters
 item_id: combat
 item_index: '11'
@@ -9,7 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:11
 source: mcdm.heroes.v1
-title: 'Chapter 11: Combat'
+title: 'Chapter 10: Combat'
 type: chapter
 ---
 

@@ -6,7 +6,7 @@ item_name: Big Versus Little
 scc:
   - mcdm.heroes.v1:movement:big-versus-little
 scdc:
-  - 1.1.1:9:24
+  - 1.1.1:10:24
 source: mcdm.heroes.v1
 type: movement
 ---

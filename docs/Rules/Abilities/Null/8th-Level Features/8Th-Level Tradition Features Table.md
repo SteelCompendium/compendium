@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.null.8th-level-feature:8th-level-tradition-features-table
 scdc:
-  - 1.1.1:13.1.6.2:01
+  - 1.1.1:14.1.6.2:01
 source: mcdm.heroes.v1
 type: feature/trait/null/8th-level-feature
 ---

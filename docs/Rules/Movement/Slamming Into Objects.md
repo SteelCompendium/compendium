@@ -6,7 +6,7 @@ item_name: Slamming Into Objects
 scc:
   - mcdm.heroes.v1:movement:slamming-into-objects
 scdc:
-  - 1.1.1:9:22
+  - 1.1.1:10:22
 source: mcdm.heroes.v1
 type: movement
 ---

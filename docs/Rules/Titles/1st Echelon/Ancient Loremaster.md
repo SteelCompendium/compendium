@@ -6,7 +6,7 @@ item_name: Ancient Loremaster
 scc:
   - mcdm.heroes.v1:title.1st-echelon:ancient-loremaster
 scdc:
-  - 1.1.1:14.4:11
+  - 1.1.1:15.4:11
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

@@ -6,7 +6,7 @@ item_name: Elixir Of Saint Elspeth
 scc:
   - mcdm.heroes.v1:treasure.consumable.4th-echelon:elixir-of-saint-elspeth
 scdc:
-  - 1.1.1:11.2.4:03
+  - 1.1.1:12.2.4:03
 source: mcdm.heroes.v1
 type: treasure/consumable/4th-echelon
 ---

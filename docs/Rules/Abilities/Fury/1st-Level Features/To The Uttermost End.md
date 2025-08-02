@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:to-the-uttermost-end-5-ferocity
 scdc:
-  - 1.1.1:13.2.5.1:06
+  - 1.1.1:14.2.5.1:06
 source: mcdm.heroes.v1
 type: feature/ability/fury/1st-level-feature
 ---

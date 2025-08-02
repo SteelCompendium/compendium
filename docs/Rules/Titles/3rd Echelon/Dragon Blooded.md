@@ -6,7 +6,7 @@ item_name: Dragon Blooded
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:dragon-blooded
 scdc:
-  - 1.1.1:14.2:12
+  - 1.1.1:15.2:12
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

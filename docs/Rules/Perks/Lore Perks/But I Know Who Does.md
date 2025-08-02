@@ -6,7 +6,7 @@ item_name: But I Know Who Does
 scc:
   - mcdm.heroes.v1:perk.lore:but-i-know-who-does
 scdc:
-  - 1.1.1:16.2:04
+  - 1.1.1:17.2:04
 source: mcdm.heroes.v1
 type: perk/lore
 ---

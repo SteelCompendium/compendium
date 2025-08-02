@@ -6,7 +6,7 @@ item_name: Non-Burrowing Creatures
 scc:
   - mcdm.heroes.v1:movement:non-burrowing-creatures
 scdc:
-  - 1.1.1:9:09
+  - 1.1.1:10:09
 source: mcdm.heroes.v1
 type: movement
 ---

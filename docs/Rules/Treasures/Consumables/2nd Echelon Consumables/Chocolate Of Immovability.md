@@ -6,7 +6,7 @@ item_name: Chocolate Of Immovability
 scc:
   - mcdm.heroes.v1:treasure.consumable.2nd-echelon:chocolate-of-immovability
 scdc:
-  - 1.1.1:11.2.3:03
+  - 1.1.1:12.2.3:03
 source: mcdm.heroes.v1
 type: treasure/consumable/2nd-echelon
 ---

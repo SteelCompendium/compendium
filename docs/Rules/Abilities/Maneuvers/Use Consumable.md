@@ -7,7 +7,7 @@ item_name: Use Consumable
 scc:
   - mcdm.heroes.v1:common\_ability.maneuver:use-consumable
 scdc:
-  - 1.1.1:12.3:07
+  - 1.1.1:13.3:07
 source: mcdm.heroes.v1
 type: common\_ability/maneuver
 ---

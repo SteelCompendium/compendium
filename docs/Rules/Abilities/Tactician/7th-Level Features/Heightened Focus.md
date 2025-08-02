@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:heightened-focus
 scdc:
-  - 1.1.1:13.1.4.9:10
+  - 1.1.1:14.1.4.9:10
 source: mcdm.heroes.v1
 type: feature/trait/tactician/7th-level-feature
 ---

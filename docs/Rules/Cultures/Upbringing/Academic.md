@@ -6,7 +6,7 @@ item_name: Academic
 scc:
   - mcdm.heroes.v1:culture\_benefit.upbringing:academic
 scdc:
-  - 1.1.1:15.3:06
+  - 1.1.1:16.3:06
 source: mcdm.heroes.v1
 type: culture\_benefit/upbringing
 ---

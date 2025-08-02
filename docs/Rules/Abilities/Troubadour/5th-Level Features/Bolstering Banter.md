@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.5th-level-feature:bolstering-banter
 scdc:
-  - 1.1.1:13.1.3.5:01
+  - 1.1.1:14.1.3.5:01
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/5th-level-feature
 ---

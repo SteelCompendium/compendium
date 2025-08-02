@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:1st-level-conduit-domain-features-table
 scdc:
-  - 1.1.1:13.1.8.1:17
+  - 1.1.1:14.1.8.1:17
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

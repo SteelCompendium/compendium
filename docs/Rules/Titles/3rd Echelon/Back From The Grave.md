@@ -6,7 +6,7 @@ item_name: Back From The Grave
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:back-from-the-grave
 scdc:
-  - 1.1.1:14.2:03
+  - 1.1.1:15.2:03
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

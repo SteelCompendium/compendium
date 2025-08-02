@@ -6,7 +6,7 @@ item_name: Master Librarian
 scc:
   - mcdm.heroes.v1:title.2nd-echelon:master-librarian
 scdc:
-  - 1.1.1:14.3:08
+  - 1.1.1:15.3:08
 source: mcdm.heroes.v1
 type: title/2nd-echelon
 ---

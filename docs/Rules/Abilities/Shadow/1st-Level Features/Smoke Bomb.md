@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:smoke-bomb
 scdc:
-  - 1.1.1:13.1.2.1:03
+  - 1.1.1:14.1.2.1:03
 source: mcdm.heroes.v1
 type: feature/trait/shadow/1st-level-feature
 ---

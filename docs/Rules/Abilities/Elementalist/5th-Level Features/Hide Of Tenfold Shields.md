@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:hide-of-tenfold-shields
 scdc:
-  - 1.1.1:13.1.9.5:03
+  - 1.1.1:14.1.9.5:03
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/5th-level-feature
 ---

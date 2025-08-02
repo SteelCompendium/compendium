@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:a-squad-unto-myself-5-discipline
 scdc:
-  - 1.1.1:13.2.6.1:08
+  - 1.1.1:14.2.6.1:08
 source: mcdm.heroes.v1
 type: feature/ability/null/1st-level-feature
 ---

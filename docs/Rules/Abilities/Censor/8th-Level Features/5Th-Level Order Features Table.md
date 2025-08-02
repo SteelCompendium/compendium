@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.censor.8th-level-feature:8th-level-order-features-table
 scdc:
-  - 1.1.1:13.1.7.2:02
+  - 1.1.1:14.1.7.2:02
 source: mcdm.heroes.v1
 type: feature/trait/censor/8th-level-feature
 ---

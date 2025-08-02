@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.talent.2nd-level-feature:ease-the-hours
 scdc:
-  - 1.1.1:13.1.1.6:04
+  - 1.1.1:14.1.1.6:04
 source: mcdm.heroes.v1
 type: feature/trait/talent/2nd-level-feature
 ---

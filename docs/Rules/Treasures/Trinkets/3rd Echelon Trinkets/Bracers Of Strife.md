@@ -6,7 +6,7 @@ item_name: Bracers Of Strife
 scc:
   - mcdm.heroes.v1:treasure.trinkets.3rd-echelon:bracers-of-strife
 scdc:
-  - 1.1.1:11.4.3:05
+  - 1.1.1:12.4.3:05
 source: mcdm.heroes.v1
 type: treasure/trinkets/3rd-echelon
 ---

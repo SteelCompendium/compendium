@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.talent.9th-level-feature:resonant-mind-spike-11-clarity
 scdc:
-  - 1.1.1:13.2.1.7:05
+  - 1.1.1:14.2.1.7:05
 source: mcdm.heroes.v1
 type: feature/ability/talent/9th-level-feature
 ---

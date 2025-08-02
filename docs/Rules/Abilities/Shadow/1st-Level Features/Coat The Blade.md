@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:coat-the-blade
 scdc:
-  - 1.1.1:13.1.2.1:07
+  - 1.1.1:14.1.2.1:07
 source: mcdm.heroes.v1
 type: feature/trait/shadow/1st-level-feature
 ---

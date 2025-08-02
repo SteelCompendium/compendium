@@ -9,7 +9,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.censor.5th-level-feature:prophecy
 scdc:
-  - 1.1.1:13.1.7.5:04
+  - 1.1.1:14.1.7.5:04
 source: mcdm.heroes.v1
 type: feature/trait/censor/5th-level-feature
 ---

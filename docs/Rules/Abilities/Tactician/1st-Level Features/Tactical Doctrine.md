@@ -9,7 +9,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:tactical-doctrine
 scdc:
-  - 1.1.1:13.1.4.1:08
+  - 1.1.1:14.1.4.1:08
 source: mcdm.heroes.v1
 type: feature/trait/tactician/1st-level-feature
 ---

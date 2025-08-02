@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:in-a-puff-of-smoke-5-insight
 scdc:
-  - 1.1.1:13.2.2.5:01
+  - 1.1.1:14.2.2.5:01
 source: mcdm.heroes.v1
 type: feature/ability/shadow/2nd-level-feature
 ---

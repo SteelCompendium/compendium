@@ -12,7 +12,7 @@ level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.5th-level-feature:win-this-day-9-focus
 scdc:
-  - 1.1.1:13.2.4.4:04
+  - 1.1.1:14.2.4.4:04
 source: mcdm.heroes.v1
 type: feature/ability/tactician/5th-level-feature
 ---

@@ -6,7 +6,7 @@ item_name: Master Of Disguise
 scc:
   - mcdm.heroes.v1:perk.intrigue:master-of-disguise
 scdc:
-  - 1.1.1:16.5:06
+  - 1.1.1:17.5:06
 source: mcdm.heroes.v1
 type: perk/intrigue
 ---

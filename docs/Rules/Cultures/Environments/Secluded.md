@@ -6,7 +6,7 @@ item_name: Secluded
 scc:
   - mcdm.heroes.v1:culture\_benefit.environment:secluded
 scdc:
-  - 1.1.1:15.2:05
+  - 1.1.1:16.2:05
 source: mcdm.heroes.v1
 type: culture\_benefit/environment
 ---

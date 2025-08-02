@@ -12,7 +12,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:staggering-blow-7-insight
 scdc:
-  - 1.1.1:13.2.2.6:01
+  - 1.1.1:14.2.2.6:01
 source: mcdm.heroes.v1
 type: feature/ability/shadow/3rd-level-feature
 ---

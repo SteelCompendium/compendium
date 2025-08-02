@@ -6,7 +6,7 @@ item_name: Stop-'N-Go Coin
 scc:
   - mcdm.heroes.v1:treasure.trinkets.2nd-echelon:stop-n-go-coin
 scdc:
-  - 1.1.1:11.4.2:01
+  - 1.1.1:12.4.2:01
 source: mcdm.heroes.v1
 type: treasure/trinkets/2nd-echelon
 ---

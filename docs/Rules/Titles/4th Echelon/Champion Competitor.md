@@ -6,7 +6,7 @@ item_name: Champion Competitor
 scc:
   - mcdm.heroes.v1:title.4th-echelon:champion-competitor
 scdc:
-  - 1.1.1:14.1:02
+  - 1.1.1:15.1:02
 source: mcdm.heroes.v1
 type: title/4th-echelon
 ---

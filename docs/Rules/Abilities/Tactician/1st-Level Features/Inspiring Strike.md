@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:inspiring-strike-3-focus
 scdc:
-  - 1.1.1:13.2.4.1:01
+  - 1.1.1:14.2.4.1:01
 source: mcdm.heroes.v1
 type: feature/ability/tactician/1st-level-feature
 ---

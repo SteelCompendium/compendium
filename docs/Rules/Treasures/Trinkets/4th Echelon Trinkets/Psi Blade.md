@@ -6,7 +6,7 @@ item_name: Psi Blade
 scc:
   - mcdm.heroes.v1:treasure.trinkets.4th-echelon:psi-blade
 scdc:
-  - 1.1.1:11.4.1:01
+  - 1.1.1:12.4.1:01
 source: mcdm.heroes.v1
 type: treasure/trinkets/4th-echelon
 ---
