@@ -9,6 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:06
 source: mcdm.heroes.v1
+title: 'Chapter 6: Perks'
 type: chapter
 ---
 

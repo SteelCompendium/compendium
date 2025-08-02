@@ -9,6 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:11
 source: mcdm.heroes.v1
+title: 'Chapter 11: Combat'
 type: chapter
 ---
 

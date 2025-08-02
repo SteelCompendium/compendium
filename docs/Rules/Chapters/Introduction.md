@@ -9,6 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:07
 source: mcdm.heroes.v1
+title: 'Chapter 7: Introduction'
 type: chapter
 ---
 

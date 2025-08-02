@@ -9,6 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:16
 source: mcdm.heroes.v1
+title: 'Chapter 16: Gods And Religion'
 type: chapter
 ---
 

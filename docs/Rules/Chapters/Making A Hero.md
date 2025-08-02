@@ -9,6 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:12
 source: mcdm.heroes.v1
+title: 'Chapter 12: Making A Hero'
 type: chapter
 ---
 

@@ -9,6 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:05
 source: mcdm.heroes.v1
+title: 'Chapter 5: Complications'
 type: chapter
 ---
 

@@ -9,6 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:09
 source: mcdm.heroes.v1
+title: 'Chapter 9: Rewards'
 type: chapter
 ---
 

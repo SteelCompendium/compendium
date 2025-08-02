@@ -9,6 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:13
 source: mcdm.heroes.v1
+title: 'Chapter 13: For The Director'
 type: chapter
 ---
 

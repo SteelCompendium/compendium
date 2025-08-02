@@ -9,6 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:03
 source: mcdm.heroes.v1
+title: 'Chapter 3: Downtime Projects'
 type: chapter
 ---
 

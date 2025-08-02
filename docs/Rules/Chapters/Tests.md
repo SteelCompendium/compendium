@@ -9,6 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:14
 source: mcdm.heroes.v1
+title: 'Chapter 14: Tests'
 type: chapter
 ---
 

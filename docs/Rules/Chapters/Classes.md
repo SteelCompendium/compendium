@@ -9,6 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:08
 source: mcdm.heroes.v1
+title: 'Chapter 8: Classes'
 type: chapter
 ---
 

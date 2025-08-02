@@ -1,5 +1,5 @@
 ---
-title: Draw Steel Heroes
+title: Draw Steel Heroes Book
 ---
 
 # Introduction

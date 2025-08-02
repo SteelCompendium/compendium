@@ -9,6 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:15
 source: mcdm.heroes.v1
+title: 'Chapter 15: Ancestries'
 type: chapter
 ---
 

@@ -9,6 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:04
 source: mcdm.heroes.v1
+title: 'Chapter 4: The Basics'
 type: chapter
 ---
 

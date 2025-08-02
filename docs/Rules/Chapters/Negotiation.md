@@ -9,6 +9,7 @@ scc:
 scdc:
   - 1.1.1:3:01
 source: mcdm.heroes.v1
+title: 'Chapter 1: Negotiation'
 type: chapter
 ---
 
