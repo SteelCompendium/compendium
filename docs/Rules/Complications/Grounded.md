@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: grounded
-item_index: '88'
+item_index: '90'
 item_name: Grounded
 scc:
   - mcdm.heroes.v1:complication:grounded
 scdc:
-  - 1.1.1:6:88
+  - 1.1.1:6:90
 source: mcdm.heroes.v1
 type: complication
 ---

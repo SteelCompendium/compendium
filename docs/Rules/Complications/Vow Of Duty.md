@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: vow-of-duty
-item_index: '36'
+item_index: '37'
 item_name: Vow Of Duty
 scc:
   - mcdm.heroes.v1:complication:vow-of-duty
 scdc:
-  - 1.1.1:6:36
+  - 1.1.1:6:37
 source: mcdm.heroes.v1
 type: complication
 ---

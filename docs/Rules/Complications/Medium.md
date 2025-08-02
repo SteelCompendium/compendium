@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: medium
-item_index: '77'
+item_index: '79'
 item_name: Medium
 scc:
   - mcdm.heroes.v1:complication:medium
 scdc:
-  - 1.1.1:6:77
+  - 1.1.1:6:79
 source: mcdm.heroes.v1
 type: complication
 ---

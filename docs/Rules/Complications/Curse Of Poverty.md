@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: curse-of-poverty
-item_index: '62'
+item_index: '63'
 item_name: Curse Of Poverty
 scc:
   - mcdm.heroes.v1:complication:curse-of-poverty
 scdc:
-  - 1.1.1:6:62
+  - 1.1.1:6:63
 source: mcdm.heroes.v1
 type: complication
 ---

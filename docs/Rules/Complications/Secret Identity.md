@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: secret-identity
-item_index: '65'
+item_index: '67'
 item_name: Secret Identity
 scc:
   - mcdm.heroes.v1:complication:secret-identity
 scdc:
-  - 1.1.1:6:65
+  - 1.1.1:6:67
 source: mcdm.heroes.v1
 type: complication
 ---

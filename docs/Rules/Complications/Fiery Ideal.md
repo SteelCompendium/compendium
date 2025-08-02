@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: fiery-ideal
-item_index: '42'
+item_index: '43'
 item_name: Fiery Ideal
 scc:
   - mcdm.heroes.v1:complication:fiery-ideal
 scdc:
-  - 1.1.1:6:42
+  - 1.1.1:6:43
 source: mcdm.heroes.v1
 type: complication
 ---

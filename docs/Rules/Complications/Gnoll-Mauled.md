@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: gnoll-mauled
-item_index: '63'
+item_index: '65'
 item_name: Gnoll-Mauled
 scc:
   - mcdm.heroes.v1:complication:gnoll-mauled
 scdc:
-  - 1.1.1:6:63
+  - 1.1.1:6:65
 source: mcdm.heroes.v1
 type: complication
 ---

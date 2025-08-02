@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: vow-of-honesty
-item_index: '67'
+item_index: '69'
 item_name: Vow Of Honesty
 scc:
   - mcdm.heroes.v1:complication:vow-of-honesty
 scdc:
-  - 1.1.1:6:67
+  - 1.1.1:6:69
 source: mcdm.heroes.v1
 type: complication
 ---

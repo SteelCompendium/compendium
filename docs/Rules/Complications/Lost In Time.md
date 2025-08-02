@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: lost-in-time
-item_index: '35'
+item_index: '36'
 item_name: Lost In Time
 scc:
   - mcdm.heroes.v1:complication:lost-in-time
 scdc:
-  - 1.1.1:6:35
+  - 1.1.1:6:36
 source: mcdm.heroes.v1
 type: complication
 ---

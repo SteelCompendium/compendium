@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: disgraced
-item_index: '22'
+item_index: '23'
 item_name: Disgraced
 scc:
   - mcdm.heroes.v1:complication:disgraced
 scdc:
-  - 1.1.1:6:22
+  - 1.1.1:6:23
 source: mcdm.heroes.v1
 type: complication
 ---

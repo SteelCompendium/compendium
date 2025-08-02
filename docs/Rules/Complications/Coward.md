@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: coward
-item_index: '47'
+item_index: '48'
 item_name: Coward
 scc:
   - mcdm.heroes.v1:complication:coward
 scdc:
-  - 1.1.1:6:47
+  - 1.1.1:6:48
 source: mcdm.heroes.v1
 type: complication
 ---

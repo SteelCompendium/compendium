@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: fallen-immortal
-item_index: '56'
+item_index: '57'
 item_name: Fallen Immortal
 scc:
   - mcdm.heroes.v1:complication:fallen-immortal
 scdc:
-  - 1.1.1:6:56
+  - 1.1.1:6:57
 source: mcdm.heroes.v1
 type: complication
 ---

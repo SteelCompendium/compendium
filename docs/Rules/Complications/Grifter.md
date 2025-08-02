@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: grifter
-item_index: '84'
+item_index: '86'
 item_name: Grifter
 scc:
   - mcdm.heroes.v1:complication:grifter
 scdc:
-  - 1.1.1:6:84
+  - 1.1.1:6:86
 source: mcdm.heroes.v1
 type: complication
 ---

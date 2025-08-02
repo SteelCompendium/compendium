@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: war-of-assassins
-item_index: '60'
+item_index: '61'
 item_name: War Of Assassins
 scc:
   - mcdm.heroes.v1:complication:war-of-assassins
 scdc:
-  - 1.1.1:6:60
+  - 1.1.1:6:61
 source: mcdm.heroes.v1
 type: complication
 ---

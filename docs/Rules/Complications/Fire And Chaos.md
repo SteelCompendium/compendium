@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: fire-and-chaos
-item_index: '27'
+item_index: '28'
 item_name: Fire And Chaos
 scc:
   - mcdm.heroes.v1:complication:fire-and-chaos
 scdc:
-  - 1.1.1:6:27
+  - 1.1.1:6:28
 source: mcdm.heroes.v1
 type: complication
 ---

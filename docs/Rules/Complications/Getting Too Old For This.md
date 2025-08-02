@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: getting-too-old-for-this
-item_index: '59'
+item_index: '60'
 item_name: Getting Too Old For This
 scc:
   - mcdm.heroes.v1:complication:getting-too-old-for-this
 scdc:
-  - 1.1.1:6:59
+  - 1.1.1:6:60
 source: mcdm.heroes.v1
 type: complication
 ---

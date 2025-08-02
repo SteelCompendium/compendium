@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: loner
-item_index: '58'
+item_index: '59'
 item_name: Loner
 scc:
   - mcdm.heroes.v1:complication:loner
 scdc:
-  - 1.1.1:6:58
+  - 1.1.1:6:59
 source: mcdm.heroes.v1
 type: complication
 ---

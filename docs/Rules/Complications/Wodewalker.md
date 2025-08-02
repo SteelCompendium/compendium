@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: wodewalker
-item_index: '45'
+item_index: '46'
 item_name: Wodewalker
 scc:
   - mcdm.heroes.v1:complication:wodewalker
 scdc:
-  - 1.1.1:6:45
+  - 1.1.1:6:46
 source: mcdm.heroes.v1
 type: complication
 ---

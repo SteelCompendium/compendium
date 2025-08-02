@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: mundane
-item_index: '96'
+item_index: '98'
 item_name: Mundane
 scc:
   - mcdm.heroes.v1:complication:mundane
 scdc:
-  - 1.1.1:6:96
+  - 1.1.1:6:98
 source: mcdm.heroes.v1
 type: complication
 ---

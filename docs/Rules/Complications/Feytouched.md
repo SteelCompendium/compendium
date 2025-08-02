@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: feytouched
-item_index: '54'
+item_index: '55'
 item_name: Feytouched
 scc:
   - mcdm.heroes.v1:complication:feytouched
 scdc:
-  - 1.1.1:6:54
+  - 1.1.1:6:55
 source: mcdm.heroes.v1
 type: complication
 ---

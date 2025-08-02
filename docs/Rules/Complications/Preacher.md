@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: preacher
-item_index: '89'
+item_index: '91'
 item_name: Preacher
 scc:
   - mcdm.heroes.v1:complication:preacher
 scdc:
-  - 1.1.1:6:89
+  - 1.1.1:6:91
 source: mcdm.heroes.v1
 type: complication
 ---

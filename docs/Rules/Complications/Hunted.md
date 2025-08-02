@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: hunted
-item_index: '28'
+item_index: '29'
 item_name: Hunted
 scc:
   - mcdm.heroes.v1:complication:hunted
 scdc:
-  - 1.1.1:6:28
+  - 1.1.1:6:29
 source: mcdm.heroes.v1
 type: complication
 ---

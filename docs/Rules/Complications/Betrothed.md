@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: betrothed
-item_index: '31'
+item_index: '32'
 item_name: Betrothed
 scc:
   - mcdm.heroes.v1:complication:betrothed
 scdc:
-  - 1.1.1:6:31
+  - 1.1.1:6:32
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: curse-of-stone
-item_index: '30'
+item_index: '31'
 item_name: Curse Of Stone
 scc:
   - mcdm.heroes.v1:complication:curse-of-stone
 scdc:
-  - 1.1.1:6:30
+  - 1.1.1:6:31
 source: mcdm.heroes.v1
 type: complication
 ---

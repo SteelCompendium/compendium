@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: following-in-the-footsteps
-item_index: '75'
+item_index: '77'
 item_name: Following In The Footsteps
 scc:
   - mcdm.heroes.v1:complication:following-in-the-footsteps
 scdc:
-  - 1.1.1:6:75
+  - 1.1.1:6:77
 source: mcdm.heroes.v1
 type: complication
 ---

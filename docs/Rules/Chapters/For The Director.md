@@ -811,7 +811,7 @@ The burgomaster has the following possible pitfalls:
 
 The virtuoso archetype can be used for any other local celebrity, such as a master crafter, inspired artist, famous gladiator, or world champion.
 
-###### **Motivations**
+###### Motivations
 
 The virtuoso has the following possible motivations:
 

@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: hawk-rider
-item_index: '39'
+item_index: '40'
 item_name: Hawk Rider
 scc:
   - mcdm.heroes.v1:complication:hawk-rider
 scdc:
-  - 1.1.1:6:39
+  - 1.1.1:6:40
 source: mcdm.heroes.v1
 type: complication
 ---

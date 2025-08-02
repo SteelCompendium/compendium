@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: lucky
-item_index: '87'
+item_index: '89'
 item_name: Lucky
 scc:
   - mcdm.heroes.v1:complication:lucky
 scdc:
-  - 1.1.1:6:87
+  - 1.1.1:6:89
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: chosen-one
-item_index: '43'
+item_index: '44'
 item_name: Chosen One
 scc:
   - mcdm.heroes.v1:complication:chosen-one
 scdc:
-  - 1.1.1:6:43
+  - 1.1.1:6:44
 source: mcdm.heroes.v1
 type: complication
 ---

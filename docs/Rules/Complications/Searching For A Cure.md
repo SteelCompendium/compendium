@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: searching-for-a-cure
-item_index: '21'
+item_index: '22'
 item_name: Searching For A Cure
 scc:
   - mcdm.heroes.v1:complication:searching-for-a-cure
 scdc:
-  - 1.1.1:6:21
+  - 1.1.1:6:22
 source: mcdm.heroes.v1
 type: complication
 ---

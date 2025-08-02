@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: misunderstood
-item_index: '50'
+item_index: '51'
 item_name: Misunderstood
 scc:
   - mcdm.heroes.v1:complication:misunderstood
 scdc:
-  - 1.1.1:6:50
+  - 1.1.1:6:51
 source: mcdm.heroes.v1
 type: complication
 ---

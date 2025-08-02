@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: waking-dreams
-item_index: '19'
+item_index: '20'
 item_name: Waking Dreams
 scc:
   - mcdm.heroes.v1:complication:waking-dreams
 scdc:
-  - 1.1.1:6:19
+  - 1.1.1:6:20
 source: mcdm.heroes.v1
 type: complication
 ---

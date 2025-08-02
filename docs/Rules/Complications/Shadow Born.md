@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: shadow-born
-item_index: '90'
+item_index: '92'
 item_name: Shadow Born
 scc:
   - mcdm.heroes.v1:complication:shadow-born
 scdc:
-  - 1.1.1:6:90
+  - 1.1.1:6:92
 source: mcdm.heroes.v1
 type: complication
 ---

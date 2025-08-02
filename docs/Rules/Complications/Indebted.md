@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: indebted
-item_index: '94'
+item_index: '96'
 item_name: Indebted
 scc:
   - mcdm.heroes.v1:complication:indebted
 scdc:
-  - 1.1.1:6:94
+  - 1.1.1:6:96
 source: mcdm.heroes.v1
 type: complication
 ---

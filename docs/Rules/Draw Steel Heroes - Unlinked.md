@@ -4186,7 +4186,7 @@ You can stack squares on top of each other to make the wall higher. Unless other
 >
 > Likewise, abilities and effects that require a creature to move in a straight line, such as the Charge main action or forced movement that is a push or a pull, don't have to take the form of a straight series of squares on the grid. Simply move the creature one square at a time in a single direction without ever bending back in a direction opposite to where they've already moved.
 
-#### **Target**
+#### Target
 
 The "Target" entry of an ability, represented by this symbol x, notes the number of creatures, objects, or both who can be targeted by that ability. You can always affect fewer targets than the number indicated by this entry.
 
@@ -6310,7 +6310,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 You make use of a number of heroic abilities, all of which channel piety to empower them.
 
-###### **3-Piety Ability**
+###### 3-Piety Ability
 
 Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* Violence Will Not Aid Thee.)
 
@@ -7895,7 +7895,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 You channel a variety of heroic abilities, all of them fueled by your essence.
 
-###### **3-Essence Ability**
+###### 3-Essence Ability
 
 Choose one heroic ability from the following options, each of which costs 3 essence to use. (*Quick Build:* The Flesh, a Crucible.)
 
@@ -7963,7 +7963,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 **Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
 
-###### **5-Essence Ability**
+###### 5-Essence Ability
 
 Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* Conflagration.)
 
@@ -18662,7 +18662,7 @@ You were dying in the wode, collapsing while starving and wounded. When you woke
 
 **Drawback:** You have fire weakness 5.
 
-## **Wrathful Spirit**
+#### Wrathful Spirit
 
 You're quick to anger, never letting an insult go without slinging one right back. In combat, you fight as if possessed by a literal spirit of wrath. No matter the tactical circumstances, when someone injures you, you feel compelled to answer blood with blood.
 
@@ -18670,7 +18670,7 @@ You're quick to anger, never letting an insult go without slinging one right bac
 
 **Drawback:** In combat, whenever a creature makes a strike against you and you are not taunted, you are taunted by that creature until the end of your next turn. Additionally, whether in casual conversation or if you are involved in a negotiation, whenever a creature insults you, you must either spend a Recovery or be compelled to reply with an insult.
 
-## **Wrongly Imprisoned**
+#### Wrongly Imprisoned
 
 You spent many years imprisoned for a crime you didn't commit. During your long hours of solitary confinement, you honed your skills and recited the names of those who framed you. Someday, you will have your revenge.
 
@@ -26517,7 +26517,7 @@ The burgomaster has the following possible pitfalls:
 
 The virtuoso archetype can be used for any other local celebrity, such as a master crafter, inspired artist, famous gladiator, or world champion.
 
-###### **Motivations**
+###### Motivations
 
 The virtuoso has the following possible motivations:
 

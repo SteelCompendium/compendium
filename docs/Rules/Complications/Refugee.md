@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: refugee
-item_index: '92'
+item_index: '94'
 item_name: Refugee
 scc:
   - mcdm.heroes.v1:complication:refugee
 scdc:
-  - 1.1.1:6:92
+  - 1.1.1:6:94
 source: mcdm.heroes.v1
 type: complication
 ---

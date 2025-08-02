@@ -196,7 +196,7 @@ You can stack squares on top of each other to make the wall higher. Unless other
 >
 > Likewise, abilities and effects that require a creature to move in a straight line, such as the Charge main action or forced movement that is a push or a pull, don't have to take the form of a straight series of squares on the grid. Simply move the creature one square at a time in a single direction without ever bending back in a direction opposite to where they've already moved.
 
-#### **Target**
+#### Target
 
 The "Target" entry of an ability, represented by this symbol x, notes the number of creatures, objects, or both who can be targeted by that ability. You can always affect fewer targets than the number indicated by this entry.
 
@@ -224,7 +224,7 @@ You aren't an eligible target for your own abilities that target allies unless t
 
 If an ability targets "self," it can affect only the creature using the ability. Your own abilities can affect you only if they target "self."
 
-##### Each [Target]
+##### Each [Target](#target)
 
 If an area ability doesn't provide a number of targets but instead says it applies to each creature, object, enemy, or ally in the area, then all eligible targets for the ability are affected.
 
@@ -2387,7 +2387,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 You make use of a number of heroic abilities, all of which channel piety to empower them.
 
-###### **3-Piety Ability**
+###### 3-Piety Ability
 
 Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* Violence Will Not Aid Thee.)
 
@@ -3967,7 +3967,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 You channel a variety of heroic abilities, all of them fueled by your essence.
 
-###### **3-Essence Ability**
+###### 3-Essence Ability
 
 Choose one heroic ability from the following options, each of which costs 3 essence to use. (*Quick Build:* The Flesh, a Crucible.)
 
@@ -4035,7 +4035,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 **Effect:** You must be touching the ground to use this ability. Additionally, you can choose a square of ground in the area that is unoccupied or is occupied by you or any ally. A pillar of earth rises out of the ground in that square, with a height in squares up to your Reason score. The pillar can't collide with any creatures or objects, nor can it force creatures raised by it to collide with other creatures or objects.
 
-###### **5-Essence Ability**
+###### 5-Essence Ability
 
 Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* Conflagration.)
 

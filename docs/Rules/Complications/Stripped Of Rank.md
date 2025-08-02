@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: stripped-of-rank
-item_index: '69'
+item_index: '71'
 item_name: Stripped Of Rank
 scc:
   - mcdm.heroes.v1:complication:stripped-of-rank
 scdc:
-  - 1.1.1:6:69
+  - 1.1.1:6:71
 source: mcdm.heroes.v1
 type: complication
 ---

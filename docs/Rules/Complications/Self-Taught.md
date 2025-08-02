@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: self-taught
-item_index: '98'
+item_index: '100'
 item_name: Self-Taught
 scc:
   - mcdm.heroes.v1:complication:self-taught
 scdc:
-  - 1.1.1:6:98
+  - 1.1.1:6:100
 source: mcdm.heroes.v1
 type: complication
 ---

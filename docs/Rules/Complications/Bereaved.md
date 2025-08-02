@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: bereaved
-item_index: '68'
+item_index: '70'
 item_name: Bereaved
 scc:
   - mcdm.heroes.v1:complication:bereaved
 scdc:
-  - 1.1.1:6:68
+  - 1.1.1:6:70
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: ward
-item_index: '32'
+item_index: '33'
 item_name: Ward
 scc:
   - mcdm.heroes.v1:complication:ward
 scdc:
-  - 1.1.1:6:32
+  - 1.1.1:6:33
 source: mcdm.heroes.v1
 type: complication
 ---

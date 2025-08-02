@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: meddling-butler
-item_index: '86'
+item_index: '88'
 item_name: Meddling Butler
 scc:
   - mcdm.heroes.v1:complication:meddling-butler
 scdc:
-  - 1.1.1:6:86
+  - 1.1.1:6:88
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: war-dog-collar
-item_index: '70'
+item_index: '72'
 item_name: War Dog Collar
 scc:
   - mcdm.heroes.v1:complication:war-dog-collar
 scdc:
-  - 1.1.1:6:70
+  - 1.1.1:6:72
 source: mcdm.heroes.v1
 type: complication
 ---

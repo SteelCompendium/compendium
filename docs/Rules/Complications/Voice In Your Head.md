@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: voice-in-your-head
-item_index: '55'
+item_index: '56'
 item_name: Voice In Your Head
 scc:
   - mcdm.heroes.v1:complication:voice-in-your-head
 scdc:
-  - 1.1.1:6:55
+  - 1.1.1:6:56
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: evanesceria
-item_index: '18'
+item_index: '19'
 item_name: Evanesceria
 scc:
   - mcdm.heroes.v1:complication:evanesceria
 scdc:
-  - 1.1.1:6:18
+  - 1.1.1:6:19
 source: mcdm.heroes.v1
 type: complication
 ---

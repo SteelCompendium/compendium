@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: cult-victim
-item_index: '33'
+item_index: '34'
 item_name: Cult Victim
 scc:
   - mcdm.heroes.v1:complication:cult-victim
 scdc:
-  - 1.1.1:6:33
+  - 1.1.1:6:34
 source: mcdm.heroes.v1
 type: complication
 ---

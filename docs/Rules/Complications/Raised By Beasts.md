@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: raised-by-beasts
-item_index: '23'
+item_index: '24'
 item_name: Raised By Beasts
 scc:
   - mcdm.heroes.v1:complication:raised-by-beasts
 scdc:
-  - 1.1.1:6:23
+  - 1.1.1:6:24
 source: mcdm.heroes.v1
 type: complication
 ---

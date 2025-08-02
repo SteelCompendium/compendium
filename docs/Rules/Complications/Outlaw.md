@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: outlaw
-item_index: '25'
+item_index: '26'
 item_name: Outlaw
 scc:
   - mcdm.heroes.v1:complication:outlaw
 scdc:
-  - 1.1.1:6:25
+  - 1.1.1:6:26
 source: mcdm.heroes.v1
 type: complication
 ---

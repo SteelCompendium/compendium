@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: curse-of-punishment
-item_index: '72'
+item_index: '74'
 item_name: Curse Of Punishment
 scc:
   - mcdm.heroes.v1:complication:curse-of-punishment
 scdc:
-  - 1.1.1:6:72
+  - 1.1.1:6:74
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: chaos-touched
-item_index: '41'
+item_index: '42'
 item_name: Chaos Touched
 scc:
   - mcdm.heroes.v1:complication:chaos-touched
 scdc:
-  - 1.1.1:6:41
+  - 1.1.1:6:42
 source: mcdm.heroes.v1
 type: complication
 ---

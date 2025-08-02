@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: vampire-scion
-item_index: '24'
+item_index: '25'
 item_name: Vampire Scion
 scc:
   - mcdm.heroes.v1:complication:vampire-scion
 scdc:
-  - 1.1.1:6:24
+  - 1.1.1:6:25
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: lightning-soul
-item_index: '16'
+item_index: '17'
 item_name: Lightning Soul
 scc:
   - mcdm.heroes.v1:complication:lightning-soul
 scdc:
-  - 1.1.1:6:16
+  - 1.1.1:6:17
 source: mcdm.heroes.v1
 type: complication
 ---

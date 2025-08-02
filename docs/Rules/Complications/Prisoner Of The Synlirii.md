@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: prisoner-of-the-synlirii
-item_index: '29'
+item_index: '30'
 item_name: Prisoner Of The Synlirii
 scc:
   - mcdm.heroes.v1:complication:prisoner-of-the-synlirii
 scdc:
-  - 1.1.1:6:29
+  - 1.1.1:6:30
 source: mcdm.heroes.v1
 type: complication
 ---

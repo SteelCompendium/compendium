@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: promising-apprentice
-item_index: '15'
+item_index: '16'
 item_name: Promising Apprentice
 scc:
   - mcdm.heroes.v1:complication:promising-apprentice
 scdc:
-  - 1.1.1:6:15
+  - 1.1.1:6:16
 source: mcdm.heroes.v1
 type: complication
 ---

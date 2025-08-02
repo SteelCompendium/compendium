@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: infernal-contract-but-like-bad
-item_index: '74'
+item_index: '76'
 item_name: Infernal Contract … But, Like, Bad
 scc:
   - mcdm.heroes.v1:complication:infernal-contract-but-like-bad
 scdc:
-  - 1.1.1:6:74
+  - 1.1.1:6:76
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -515,7 +515,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 You make use of a number of heroic abilities, all of which channel piety to empower them.
 
-###### **3-Piety Ability**
+###### 3-Piety Ability
 
 Choose one heroic ability from the following options, each of which costs 3 piety to use. (*Quick Build:* Violence Will Not Aid Thee.)
 

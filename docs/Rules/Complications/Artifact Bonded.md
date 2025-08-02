@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: artifact-bonded
-item_index: '93'
+item_index: '95'
 item_name: Artifact Bonded
 scc:
   - mcdm.heroes.v1:complication:artifact-bonded
 scdc:
-  - 1.1.1:6:93
+  - 1.1.1:6:95
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: slight-case-of-lycanthropy
-item_index: '46'
+item_index: '47'
 item_name: Slight Case Of Lycanthropy
 scc:
   - mcdm.heroes.v1:complication:slight-case-of-lycanthropy
 scdc:
-  - 1.1.1:6:46
+  - 1.1.1:6:47
 source: mcdm.heroes.v1
 type: complication
 ---

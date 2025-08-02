@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: medusa-blood
-item_index: '83'
+item_index: '85'
 item_name: Medusa Blood
 scc:
   - mcdm.heroes.v1:complication:medusa-blood
 scdc:
-  - 1.1.1:6:83
+  - 1.1.1:6:85
 source: mcdm.heroes.v1
 type: complication
 ---

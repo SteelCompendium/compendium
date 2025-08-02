@@ -105,3 +105,5 @@ type: index
 | [Ward](../Ward)                                                                        |
 | [Waterborn](../Waterborn)                                                              |
 | [Wodewalker](../Wodewalker)                                                            |
+| [Wrathful Spirit](../Wrathful%20Spirit)                                                |
+| [Wrongly Imprisoned](../Wrongly%20Imprisoned)                                          |

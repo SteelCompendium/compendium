@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: animal-form
-item_index: '91'
+item_index: '93'
 item_name: Animal Form
 scc:
   - mcdm.heroes.v1:complication:animal-form
 scdc:
-  - 1.1.1:6:91
+  - 1.1.1:6:93
 source: mcdm.heroes.v1
 type: complication
 ---

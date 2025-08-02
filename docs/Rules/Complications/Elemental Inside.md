@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: elemental-inside
-item_index: '78'
+item_index: '80'
 item_name: Elemental Inside
 scc:
   - mcdm.heroes.v1:complication:elemental-inside
 scdc:
-  - 1.1.1:6:78
+  - 1.1.1:6:80
 source: mcdm.heroes.v1
 type: complication
 ---

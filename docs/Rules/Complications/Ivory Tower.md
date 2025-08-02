@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: ivory-tower
-item_index: '49'
+item_index: '50'
 item_name: Ivory Tower
 scc:
   - mcdm.heroes.v1:complication:ivory-tower
 scdc:
-  - 1.1.1:6:49
+  - 1.1.1:6:50
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: curse-of-immortality
-item_index: '40'
+item_index: '41'
 item_name: Curse Of Immortality
 scc:
   - mcdm.heroes.v1:complication:curse-of-immortality
 scdc:
-  - 1.1.1:6:40
+  - 1.1.1:6:41
 source: mcdm.heroes.v1
 type: complication
 ---

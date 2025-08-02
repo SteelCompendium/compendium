@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: curse-of-caution
-item_index: '26'
+item_index: '27'
 item_name: Curse Of Caution
 scc:
   - mcdm.heroes.v1:complication:curse-of-caution
 scdc:
-  - 1.1.1:6:26
+  - 1.1.1:6:27
 source: mcdm.heroes.v1
 type: complication
 ---

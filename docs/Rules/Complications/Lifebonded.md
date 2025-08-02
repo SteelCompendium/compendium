@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: lifebonded
-item_index: '81'
+item_index: '83'
 item_name: Lifebonded
 scc:
   - mcdm.heroes.v1:complication:lifebonded
 scdc:
-  - 1.1.1:6:81
+  - 1.1.1:6:83
 source: mcdm.heroes.v1
 type: complication
 ---

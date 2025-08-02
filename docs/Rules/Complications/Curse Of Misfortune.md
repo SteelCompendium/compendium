@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: curse-of-misfortune
-item_index: '64'
+item_index: '66'
 item_name: Curse Of Misfortune
 scc:
   - mcdm.heroes.v1:complication:curse-of-misfortune
 scdc:
-  - 1.1.1:6:64
+  - 1.1.1:6:66
 source: mcdm.heroes.v1
 type: complication
 ---

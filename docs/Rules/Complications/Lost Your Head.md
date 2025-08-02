@@ -1,12 +1,12 @@
 ---
 file_dpath: Complications
 item_id: lost-your-head
-item_index: '57'
+item_index: '58'
 item_name: Lost Your Head
 scc:
   - mcdm.heroes.v1:complication:lost-your-head
 scdc:
-  - 1.1.1:6:57
+  - 1.1.1:6:58
 source: mcdm.heroes.v1
 type: complication
 ---
