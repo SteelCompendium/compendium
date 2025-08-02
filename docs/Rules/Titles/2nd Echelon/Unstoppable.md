@@ -6,7 +6,7 @@ item_name: Unstoppable
 scc:
   - mcdm.heroes.v1:title.2nd-echelon:unstoppable
 scdc:
-  - 1.1.1:14.2:01
+  - 1.1.1:14.3:01
 source: mcdm.heroes.v1
 type: title/2nd-echelon
 ---

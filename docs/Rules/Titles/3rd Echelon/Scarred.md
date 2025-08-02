@@ -6,7 +6,7 @@ item_name: Scarred
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:scarred
 scdc:
-  - 1.1.1:14.1:08
+  - 1.1.1:14.2:08
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

@@ -6,7 +6,7 @@ item_name: Diabolist
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:diabolist
 scdc:
-  - 1.1.1:14.1:04
+  - 1.1.1:14.2:04
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

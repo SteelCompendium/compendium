@@ -56,3 +56,13 @@ type: index
 | [Scarred](../Scarred)                                       |
 | [Siege Breaker](../Siege%20Breaker)                         |
 | [Teacher](../Teacher)                                       |
+| [Champion Competitor](../Champion%20Competitor)             |
+| [Demigod](../Demigod)                                       |
+| [Enlightened](../Enlightened)                               |
+| [Forsaken](../Forsaken)                                     |
+| [Monarch](../Monarch)                                       |
+| [Peace Bringer](../Peace%20Bringer)                         |
+| [Reborn](../Reborn)                                         |
+| [Theoretical Warrior](../Theoretical%20Warrior)             |
+| [Tireless](../Tireless)                                     |
+| [Unchained](../Unchained)                                   |

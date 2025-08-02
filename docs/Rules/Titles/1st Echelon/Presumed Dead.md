@@ -6,7 +6,7 @@ item_name: Presumed Dead
 scc:
   - mcdm.heroes.v1:title.1st-echelon:presumed-dead
 scdc:
-  - 1.1.1:14.3:13
+  - 1.1.1:14.4:13
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

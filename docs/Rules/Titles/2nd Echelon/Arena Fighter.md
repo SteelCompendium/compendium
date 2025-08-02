@@ -6,7 +6,7 @@ item_name: Arena Fighter
 scc:
   - mcdm.heroes.v1:title.2nd-echelon:arena-fighter
 scdc:
-  - 1.1.1:14.2:06
+  - 1.1.1:14.3:06
 source: mcdm.heroes.v1
 type: title/2nd-echelon
 ---

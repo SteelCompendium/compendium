@@ -6,7 +6,7 @@ item_name: Owed A Favor
 scc:
   - mcdm.heroes.v1:title.1st-echelon:owed-a-favor
 scdc:
-  - 1.1.1:14.3:07
+  - 1.1.1:14.4:07
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

@@ -6,7 +6,7 @@ item_name: Ratcatcher
 scc:
   - mcdm.heroes.v1:title.1st-echelon:ratcatcher
 scdc:
-  - 1.1.1:14.3:06
+  - 1.1.1:14.4:06
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---
