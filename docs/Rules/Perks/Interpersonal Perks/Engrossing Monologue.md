@@ -1,12 +1,13 @@
 ---
+file_basename: Engrossing Monologue
 file_dpath: Perks/Interpersonal Perks
 item_id: engrossing-monologue
-item_index: '02'
+item_index: '03'
 item_name: Engrossing Monologue
 scc:
   - mcdm.heroes.v1:perk.interpersonal:engrossing-monologue
 scdc:
-  - 1.1.1:17.1:02
+  - 1.1.1:17.1:03
 source: mcdm.heroes.v1
 type: perk/interpersonal
 ---

@@ -1,4 +1,5 @@
 ---
+file_basename: Labor
 file_dpath: Cultures/Upbringing
 item_id: labor
 item_index: '02'

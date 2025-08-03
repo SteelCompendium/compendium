@@ -1,4 +1,5 @@
 ---
+file_basename: Arena Fighter
 file_dpath: Titles/2nd Echelon
 item_id: arena-fighter
 item_index: '06'

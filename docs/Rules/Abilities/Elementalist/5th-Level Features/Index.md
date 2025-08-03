@@ -8,10 +8,10 @@ type: index
 | file_name                                                                 | cost      | level | feature_type |
 | ------------------------------------------------------------------------- | --------- | ----- | ------------ |
 | [Combustion Deferred](../Combustion%20Deferred)                           | 9 Essence | 5     | ability      |
-| [Hide Of Tenfold Shields](../Hide%20Of%20Tenfold%20Shields)               |           | 5     | trait        |
-| [Pierce The Veil Of Substance](../Pierce%20The%20Veil%20Of%20Substance)   |           | 5     | trait        |
+| [Hide of Tenfold Shields](../Hide%20of%20Tenfold%20Shields)               |           | 5     | trait        |
+| [Pierce the Veil of Substance](../Pierce%20the%20Veil%20of%20Substance)   |           | 5     | trait        |
 | [Smoldering Step](../Smoldering%20Step)                                   |           | 5     | trait        |
-| [Storm Of Sands](../Storm%20Of%20Sands)                                   | 9 Essence | 5     | ability      |
-| [Subverted Perception Of Space](../Subverted%20Perception%20Of%20Space)   | 9 Essence | 5     | ability      |
+| [Storm of Sands](../Storm%20of%20Sands)                                   | 9 Essence | 5     | ability      |
+| [Subverted Perception of Space](../Subverted%20Perception%20of%20Space)   | 9 Essence | 5     | ability      |
 | [The Mountain Does Not Move](../The%20Mountain%20Does%20Not%20Move)       |           | 5     | trait        |
-| [Web Of All ThatS Come Before](../Web%20Of%20All%20ThatS%20Come%20Before) | 9 Essence | 5     | ability      |
+| [Web of All Thats Come Before](../Web%20of%20All%20Thats%20Come%20Before) | 9 Essence | 5     | ability      |

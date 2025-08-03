@@ -1,4 +1,5 @@
 ---
+file_basename: Handy
 file_dpath: Perks/Crafting Perks
 item_id: handy
 item_index: '01'

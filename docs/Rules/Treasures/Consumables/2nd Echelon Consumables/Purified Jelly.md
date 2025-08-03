@@ -1,12 +1,13 @@
 ---
+file_basename: Purified Jelly
 file_dpath: Treasures/Consumables/2nd Echelon Consumables
 item_id: purified-jelly
-item_index: '06'
+item_index: '05'
 item_name: Purified Jelly
 scc:
   - mcdm.heroes.v1:treasure.consumable.2nd-echelon:purified-jelly
 scdc:
-  - 1.1.1:12.2.3:06
+  - 1.1.1:12.2.3:05
 source: mcdm.heroes.v1
 type: treasure/consumable/2nd-echelon
 ---

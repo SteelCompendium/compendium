@@ -1,4 +1,5 @@
 ---
+file_basename: Frightened
 file_dpath: Conditions
 item_id: frightened
 item_index: '02'

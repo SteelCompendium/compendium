@@ -4,6 +4,7 @@ cost: 5 Discipline
 cost_amount: 5
 cost_resource: Discipline
 feature_type: ability
+file_basename: Magnified Power
 file_dpath: Null/7th-Level Features
 item_id: magnified-power-5-discipline
 item_index: '05'

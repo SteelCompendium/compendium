@@ -4,6 +4,7 @@ cost: 5 Clarity
 cost_amount: 5
 cost_resource: Clarity
 feature_type: ability
+file_basename: Applied Chronometrics
 file_dpath: Talent/2nd-Level Features
 item_id: applied-chronometrics-5-clarity
 item_index: '03'

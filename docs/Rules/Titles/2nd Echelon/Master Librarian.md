@@ -1,4 +1,5 @@
 ---
+file_basename: Master Librarian
 file_dpath: Titles/2nd Echelon
 item_id: master-librarian
 item_index: 08

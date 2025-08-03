@@ -1,4 +1,5 @@
 ---
+file_basename: Monarch
 file_dpath: Titles/4th Echelon
 item_id: monarch
 item_index: '06'

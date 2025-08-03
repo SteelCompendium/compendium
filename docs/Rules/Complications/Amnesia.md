@@ -1,12 +1,13 @@
 ---
+file_basename: Amnesia
 file_dpath: Complications
 item_id: amnesia
-item_index: '11'
+item_index: '14'
 item_name: Amnesia
 scc:
   - mcdm.heroes.v1:complication:amnesia
 scdc:
-  - 1.1.1:6:11
+  - 1.1.1:6:14
 source: mcdm.heroes.v1
 type: complication
 ---

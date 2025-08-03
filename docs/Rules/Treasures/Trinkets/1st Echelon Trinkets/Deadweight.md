@@ -1,4 +1,5 @@
 ---
+file_basename: Deadweight
 file_dpath: Treasures/Trinkets/1st Echelon Trinkets
 item_id: deadweight
 item_index: 09

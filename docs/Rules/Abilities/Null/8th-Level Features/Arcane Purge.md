@@ -4,6 +4,7 @@ cost: 11 Discipline
 cost_amount: 11
 cost_resource: Discipline
 feature_type: ability
+file_basename: Arcane Purge
 file_dpath: Null/8th-Level Features
 item_id: arcane-purge-11-discipline
 item_index: '04'

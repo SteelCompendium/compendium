@@ -1,12 +1,13 @@
 ---
+file_basename: Sewer Folk
 file_dpath: Complications
 item_id: sewer-folk
-item_index: '06'
+item_index: 08
 item_name: Sewer Folk
 scc:
   - mcdm.heroes.v1:complication:sewer-folk
 scdc:
-  - 1.1.1:6:06
+  - 1.1.1:6:08
 source: mcdm.heroes.v1
 type: complication
 ---

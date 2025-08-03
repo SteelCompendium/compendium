@@ -1,6 +1,7 @@
 ---
 class: shadow
 feature_type: trait
+file_basename: Keen Insight
 file_dpath: Shadow/7th-Level Features
 item_id: keen-insight
 item_index: '04'

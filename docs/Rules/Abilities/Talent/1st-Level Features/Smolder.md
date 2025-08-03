@@ -4,6 +4,7 @@ cost: 3 Clarity
 cost_amount: 3
 cost_resource: Clarity
 feature_type: ability
+file_basename: Smolder
 file_dpath: Talent/1st-Level Features
 item_id: smolder-3-clarity
 item_index: '04'

@@ -1,12 +1,13 @@
 ---
+file_basename: Ranger
 file_dpath: Kits
 item_id: ranger
-item_index: '02'
+item_index: '03'
 item_name: Ranger
 scc:
   - mcdm.heroes.v1:kit:ranger
 scdc:
-  - 1.1.1:8:02
+  - 1.1.1:8:03
 source: mcdm.heroes.v1
 type: kit
 ---

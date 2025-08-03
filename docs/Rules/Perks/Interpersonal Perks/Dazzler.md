@@ -1,4 +1,5 @@
 ---
+file_basename: Dazzler
 file_dpath: Perks/Interpersonal Perks
 item_id: dazzler
 item_index: '04'

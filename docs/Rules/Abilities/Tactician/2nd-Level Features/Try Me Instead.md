@@ -4,6 +4,7 @@ cost: 5 Focus
 cost_amount: 5
 cost_resource: Focus
 feature_type: ability
+file_basename: Try Me Instead
 file_dpath: Tactician/2nd-Level Features
 item_id: try-me-instead-5-focus
 item_index: '01'

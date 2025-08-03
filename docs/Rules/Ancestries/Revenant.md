@@ -1,4 +1,5 @@
 ---
+file_basename: Revenant
 file_dpath: Ancestries
 item_id: revenant
 item_index: '06'

@@ -1,4 +1,5 @@
 ---
+file_basename: Creature Sense
 file_dpath: Perks/Supernatural Perks
 item_id: creature-sense
 item_index: '03'

@@ -1,12 +1,13 @@
 ---
+file_basename: Rival
 file_dpath: Complications
 item_id: rival
-item_index: '75'
+item_index: '76'
 item_name: Rival
 scc:
   - mcdm.heroes.v1:complication:rival
 scdc:
-  - 1.1.1:6:75
+  - 1.1.1:6:76
 source: mcdm.heroes.v1
 type: complication
 ---

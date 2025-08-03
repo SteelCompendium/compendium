@@ -1,4 +1,5 @@
 ---
+file_basename: Noble
 file_dpath: Cultures/Upbringing
 item_id: noble
 item_index: '05'

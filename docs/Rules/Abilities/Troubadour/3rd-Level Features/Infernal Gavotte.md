@@ -4,15 +4,16 @@ cost: 7 Drama
 cost_amount: 7
 cost_resource: Drama
 feature_type: ability
+file_basename: Infernal Gavotte
 file_dpath: Troubadour/3rd-Level Features
 item_id: infernal-gavotte-7-drama
-item_index: '03'
+item_index: '02'
 item_name: Infernal Gavotte (7 Drama)
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.3rd-level-feature:infernal-gavotte-7-drama
 scdc:
-  - 1.1.1:13.2.3.6:03
+  - 1.1.1:13.2.3.6:02
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/3rd-level-feature
 ---

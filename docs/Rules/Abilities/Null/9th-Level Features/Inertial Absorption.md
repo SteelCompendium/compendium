@@ -4,6 +4,7 @@ cost: 11 Discipline
 cost_amount: 11
 cost_resource: Discipline
 feature_type: ability
+file_basename: Inertial Absorption
 file_dpath: Null/9th-Level Features
 item_id: inertial-absorption-11-discipline
 item_index: '02'

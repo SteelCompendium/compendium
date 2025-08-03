@@ -1,6 +1,7 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: Goaded
 file_dpath: Tactician/2nd-Level Features
 item_id: goaded
 item_index: '01'

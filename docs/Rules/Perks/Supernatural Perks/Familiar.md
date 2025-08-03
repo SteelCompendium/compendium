@@ -1,4 +1,5 @@
 ---
+file_basename: Familiar
 file_dpath: Perks/Supernatural Perks
 item_id: familiar
 item_index: '07'

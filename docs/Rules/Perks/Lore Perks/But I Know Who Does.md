@@ -1,12 +1,13 @@
 ---
+file_basename: But I Know Who Does
 file_dpath: Perks/Lore Perks
 item_id: but-i-know-who-does
-item_index: '04'
+item_index: '05'
 item_name: But I Know Who Does
 scc:
   - mcdm.heroes.v1:perk.lore:but-i-know-who-does
 scdc:
-  - 1.1.1:17.2:04
+  - 1.1.1:17.2:05
 source: mcdm.heroes.v1
 type: perk/lore
 ---

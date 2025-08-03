@@ -1,12 +1,13 @@
 ---
+file_basename: Third Eye Seeker
 file_dpath: Treasures/Leveled Treasures/Leveled Weapon Treasures
 item_id: third-eye-seeker
-item_index: '13'
+item_index: '14'
 item_name: Third Eye Seeker
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:third-eye-seeker
 scdc:
-  - 1.1.1:12.3.1:13
+  - 1.1.1:12.3.1:14
 source: mcdm.heroes.v1
 type: treasure/leveled/weapon
 ---

@@ -1,12 +1,13 @@
 ---
+file_basename: Stability
 file_dpath: Movement
 item_id: stability
-item_index: '16'
+item_index: '15'
 item_name: Stability
 scc:
   - mcdm.heroes.v1:movement:stability
 scdc:
-  - 1.1.1:10:16
+  - 1.1.1:10:15
 source: mcdm.heroes.v1
 type: movement
 ---

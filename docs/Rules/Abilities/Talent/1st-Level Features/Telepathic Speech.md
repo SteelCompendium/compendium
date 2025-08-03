@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Telepathic Speech
 file_dpath: Talent/1st-Level Features
 item_id: telepathic-speech
 item_index: '01'

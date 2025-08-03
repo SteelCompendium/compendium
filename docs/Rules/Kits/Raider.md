@@ -1,12 +1,13 @@
 ---
+file_basename: Raider
 file_dpath: Kits
 item_id: raider
-item_index: '05'
+item_index: '07'
 item_name: Raider
 scc:
   - mcdm.heroes.v1:kit:raider
 scdc:
-  - 1.1.1:8:05
+  - 1.1.1:8:07
 source: mcdm.heroes.v1
 type: kit
 ---

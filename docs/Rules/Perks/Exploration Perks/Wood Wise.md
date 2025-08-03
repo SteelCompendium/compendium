@@ -1,4 +1,5 @@
 ---
+file_basename: Wood Wise
 file_dpath: Perks/Exploration Perks
 item_id: wood-wise
 item_index: '01'

@@ -4,6 +4,7 @@ cost: 11 Wrath
 cost_amount: 11
 cost_resource: Wrath
 feature_type: ability
+file_basename: Excommunication
 file_dpath: Censor/8th-Level Features
 item_id: excommunication-11-wrath
 item_index: '04'

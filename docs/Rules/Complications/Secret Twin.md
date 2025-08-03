@@ -1,12 +1,13 @@
 ---
+file_basename: Secret Twin
 file_dpath: Complications
 item_id: secret-twin
-item_index: '53'
+item_index: '54'
 item_name: Secret Twin
 scc:
   - mcdm.heroes.v1:complication:secret-twin
 scdc:
-  - 1.1.1:6:53
+  - 1.1.1:6:54
 source: mcdm.heroes.v1
 type: complication
 ---

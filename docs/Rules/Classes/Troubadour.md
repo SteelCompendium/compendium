@@ -1,4 +1,5 @@
 ---
+file_basename: Troubadour
 file_dpath: Classes
 item_id: troubadour
 item_index: '06'

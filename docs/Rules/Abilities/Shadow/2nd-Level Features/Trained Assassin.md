@@ -1,6 +1,7 @@
 ---
 class: shadow
 feature_type: trait
+file_basename: Trained Assassin
 file_dpath: Shadow/2nd-Level Features
 item_id: trained-assassin
 item_index: '04'

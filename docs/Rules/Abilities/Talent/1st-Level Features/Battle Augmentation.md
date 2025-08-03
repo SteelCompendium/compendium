@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Battle Augmentation
 file_dpath: Talent/1st-Level Features
 item_id: battle-augmentation
 item_index: 08

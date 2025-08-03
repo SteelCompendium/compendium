@@ -1,6 +1,7 @@
 ---
 class: elementalist
 feature_type: trait
+file_basename: The Flame Primordial
 file_dpath: Elementalist/8th-Level Features
 item_id: the-flame-primordial
 item_index: '06'

@@ -1,4 +1,5 @@
 ---
+file_basename: Personal Effigy
 file_dpath: Treasures/Consumables/3rd Echelon Consumables
 item_id: personal-effigy
 item_index: '06'

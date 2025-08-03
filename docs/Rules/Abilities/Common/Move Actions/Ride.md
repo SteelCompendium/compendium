@@ -1,5 +1,6 @@
 ---
 class: combat
+file_basename: Ride
 file_dpath: Abilities/Common/Move Actions
 item_id: ride
 item_index: '03'

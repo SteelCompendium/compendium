@@ -1,4 +1,5 @@
 ---
+file_basename: Bottled Paradox
 file_dpath: Treasures/Consumables/3rd Echelon Consumables
 item_id: bottled-paradox
 item_index: '03'

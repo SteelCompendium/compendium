@@ -1,4 +1,5 @@
 ---
+file_basename: Encepter
 file_dpath: Treasures/Artifacts
 item_id: encepter
 item_index: '03'

@@ -1,6 +1,7 @@
 ---
 class: troubadour
 feature_type: trait
+file_basename: Deleted Scene
 file_dpath: Troubadour/8th-Level Features
 item_id: deleted-scene
 item_index: '05'

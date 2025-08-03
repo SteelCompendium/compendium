@@ -1,6 +1,7 @@
 ---
 class: shadow
 feature_type: trait
+file_basename: Burning Ash
 file_dpath: Shadow/2nd-Level Features
 item_id: burning-ash
 item_index: '03'

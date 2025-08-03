@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Incinerate
 file_dpath: Talent/1st-Level Features
 item_id: incinerate
 item_index: '11'

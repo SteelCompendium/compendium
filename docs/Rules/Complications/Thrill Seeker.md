@@ -1,12 +1,13 @@
 ---
+file_basename: Thrill Seeker
 file_dpath: Complications
 item_id: thrill-seeker
-item_index: '04'
+item_index: '06'
 item_name: Thrill Seeker
 scc:
   - mcdm.heroes.v1:complication:thrill-seeker
 scdc:
-  - 1.1.1:6:04
+  - 1.1.1:6:06
 source: mcdm.heroes.v1
 type: complication
 ---

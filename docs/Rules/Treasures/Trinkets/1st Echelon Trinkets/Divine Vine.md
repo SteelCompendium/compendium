@@ -1,4 +1,5 @@
 ---
+file_basename: Divine Vine
 file_dpath: Treasures/Trinkets/1st Echelon Trinkets
 item_id: divine-vine
 item_index: '06'

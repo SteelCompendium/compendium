@@ -1,6 +1,7 @@
 ---
 class: censor
 feature_type: trait
+file_basename: Perk
 file_dpath: Censor/8th-Level Features
 item_id: perk
 item_index: '01'

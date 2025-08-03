@@ -4,15 +4,16 @@ cost: 5 Clarity
 cost_amount: 5
 cost_resource: Clarity
 feature_type: ability
+file_basename: Overwhelm
 file_dpath: Talent/2nd-Level Features
 item_id: overwhelm-5-clarity
-item_index: '01'
+item_index: '02'
 item_name: Overwhelm (5 Clarity)
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.talent.2nd-level-feature:overwhelm-5-clarity
 scdc:
-  - 1.1.1:13.2.1.5:01
+  - 1.1.1:13.2.1.5:02
 source: mcdm.heroes.v1
 type: feature/ability/talent/2nd-level-feature
 ---

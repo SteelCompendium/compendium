@@ -4,6 +4,7 @@ cost: 5 Discipline
 cost_amount: 5
 cost_resource: Discipline
 feature_type: ability
+file_basename: Kinetic Shield
 file_dpath: Null/2nd-Level Features
 item_id: kinetic-shield-5-discipline
 item_index: '05'

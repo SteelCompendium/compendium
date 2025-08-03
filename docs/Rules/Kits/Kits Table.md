@@ -1,4 +1,5 @@
 ---
+file_basename: Kits Table
 file_dpath: Kits
 item_id: kits-table
 item_index: '01'

@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Primordial Aspect
 file_dpath: Fury/1st-Level Features
 item_id: primordial-aspect
 item_index: '01'

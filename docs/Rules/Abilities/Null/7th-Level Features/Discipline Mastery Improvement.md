@@ -1,6 +1,7 @@
 ---
 class: 'null'
 feature_type: trait
+file_basename: Discipline Mastery Improvement
 file_dpath: Null/7th-Level Features
 item_id: discipline-mastery-improvement
 item_index: '03'

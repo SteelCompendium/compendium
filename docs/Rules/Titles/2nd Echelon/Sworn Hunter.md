@@ -1,4 +1,5 @@
 ---
+file_basename: Sworn Hunter
 file_dpath: Titles/2nd Echelon
 item_id: sworn-hunter
 item_index: '07'

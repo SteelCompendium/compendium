@@ -1,12 +1,13 @@
 ---
+file_basename: Molten Constrictor
 file_dpath: Treasures/Leveled Treasures/Leveled Weapon Treasures
 item_id: molten-constrictor
-item_index: '11'
+item_index: '12'
 item_name: Molten Constrictor
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:molten-constrictor
 scdc:
-  - 1.1.1:12.3.1:11
+  - 1.1.1:12.3.1:12
 source: mcdm.heroes.v1
 type: treasure/leveled/weapon
 ---

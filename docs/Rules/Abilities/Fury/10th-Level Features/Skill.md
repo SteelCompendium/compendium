@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Skill
 file_dpath: Fury/10th-Level Features
 item_id: skill
 item_index: '04'

@@ -1,15 +1,16 @@
 ---
 class: troubadour
 feature_type: trait
+file_basename: Verbal Duel
 file_dpath: Troubadour/5th-Level Features
 item_id: verbal-duel
-item_index: '06'
+item_index: '05'
 item_name: Verbal Duel
 level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.5th-level-feature:verbal-duel
 scdc:
-  - 1.1.1:13.1.3.5:06
+  - 1.1.1:13.1.3.5:05
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/5th-level-feature
 ---

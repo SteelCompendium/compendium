@@ -11,7 +11,7 @@ type: index
 | [Distance Is Only Memory](../Distance%20Is%20Only%20Memory)                       |           | 3     | trait        |
 | [Earth Accepts Me](../Earth%20Accepts%20Me)                                       |           | 3     | trait        |
 | [Erase](../Erase)                                                                 | 7 Essence | 3     | ability      |
-| [Maw Of Earth](../Maw%20Of%20Earth)                                               | 7 Essence | 3     | ability      |
-| [Remember Growth And Sun And Rain](../Remember%20Growth%20And%20Sun%20And%20Rain) |           | 3     | trait        |
-| [Swarm Of Spirits](../Swarm%20Of%20Spirits)                                       | 7 Essence | 3     | ability      |
-| [Wall Of Fire](../Wall%20Of%20Fire)                                               | 7 Essence | 3     | ability      |
+| [Maw of Earth](../Maw%20of%20Earth)                                               | 7 Essence | 3     | ability      |
+| [Remember Growth and Sun and Rain](../Remember%20Growth%20and%20Sun%20and%20Rain) |           | 3     | trait        |
+| [Swarm of Spirits](../Swarm%20of%20Spirits)                                       | 7 Essence | 3     | ability      |
+| [Wall of Fire](../Wall%20of%20Fire)                                               | 7 Essence | 3     | ability      |

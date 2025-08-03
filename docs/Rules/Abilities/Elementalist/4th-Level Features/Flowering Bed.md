@@ -1,6 +1,7 @@
 ---
 class: elementalist
 feature_type: trait
+file_basename: Flowering Bed
 file_dpath: Elementalist/4th-Level Features
 item_id: flowering-bed
 item_index: '06'

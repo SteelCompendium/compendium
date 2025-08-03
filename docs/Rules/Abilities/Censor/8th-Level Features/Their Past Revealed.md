@@ -1,6 +1,7 @@
 ---
 class: censor
 feature_type: trait
+file_basename: Their Past Revealed
 file_dpath: Censor/8th-Level Features
 item_id: their-past-revealed
 item_index: '03'

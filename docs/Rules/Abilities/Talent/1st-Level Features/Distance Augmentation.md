@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Distance Augmentation
 file_dpath: Talent/1st-Level Features
 item_id: distance-augmentation
 item_index: '05'

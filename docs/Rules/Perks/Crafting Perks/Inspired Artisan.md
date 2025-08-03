@@ -1,4 +1,5 @@
 ---
+file_basename: Inspired Artisan
 file_dpath: Perks/Crafting Perks
 item_id: inspired-artisan
 item_index: '06'

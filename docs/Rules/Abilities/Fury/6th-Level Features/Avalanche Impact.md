@@ -4,15 +4,16 @@ cost: 9 Ferocity
 cost_amount: 9
 cost_resource: Ferocity
 feature_type: ability
+file_basename: Avalanche Impact
 file_dpath: Fury/6th-Level Features
 item_id: avalanche-impact-9-ferocity
-item_index: '05'
+item_index: '04'
 item_name: Avalanche Impact (9 Ferocity)
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.fury.6th-level-feature:avalanche-impact-9-ferocity
 scdc:
-  - 1.1.1:13.2.5.3:05
+  - 1.1.1:13.2.5.3:04
 source: mcdm.heroes.v1
 type: feature/ability/fury/6th-level-feature
 ---

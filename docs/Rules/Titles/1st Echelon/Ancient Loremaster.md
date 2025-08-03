@@ -1,12 +1,13 @@
 ---
+file_basename: Ancient Loremaster
 file_dpath: Titles/1st Echelon
 item_id: ancient-loremaster
-item_index: '11'
+item_index: '10'
 item_name: Ancient Loremaster
 scc:
   - mcdm.heroes.v1:title.1st-echelon:ancient-loremaster
 scdc:
-  - 1.1.1:15.4:11
+  - 1.1.1:15.4:10
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

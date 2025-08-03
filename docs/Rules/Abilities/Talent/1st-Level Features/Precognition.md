@@ -4,6 +4,7 @@ cost: 3 Clarity
 cost_amount: 3
 cost_resource: Clarity
 feature_type: ability
+file_basename: Precognition
 file_dpath: Talent/1st-Level Features
 item_id: precognition-3-clarity
 item_index: '05'

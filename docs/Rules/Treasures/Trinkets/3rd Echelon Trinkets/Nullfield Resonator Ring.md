@@ -1,12 +1,13 @@
 ---
+file_basename: Nullfield Resonator Ring
 file_dpath: Treasures/Trinkets/3rd Echelon Trinkets
 item_id: nullfield-resonator-ring
-item_index: '03'
+item_index: '02'
 item_name: Nullfield Resonator Ring
 scc:
   - mcdm.heroes.v1:treasure.trinkets.3rd-echelon:nullfield-resonator-ring
 scdc:
-  - 1.1.1:12.4.3:03
+  - 1.1.1:12.4.3:02
 source: mcdm.heroes.v1
 type: treasure/trinkets/3rd-echelon
 ---

@@ -1,15 +1,16 @@
 ---
 class: troubadour
 feature_type: trait
+file_basename: Kit
 file_dpath: Troubadour/1st-Level Features
 item_id: kit
-item_index: '06'
+item_index: '04'
 item_name: Kit
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:kit
 scdc:
-  - 1.1.1:13.1.3.1:06
+  - 1.1.1:13.1.3.1:04
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/1st-level-feature
 ---

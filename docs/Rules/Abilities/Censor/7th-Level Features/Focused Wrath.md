@@ -1,15 +1,16 @@
 ---
 class: censor
 feature_type: trait
+file_basename: Focused Wrath
 file_dpath: Censor/7th-Level Features
 item_id: focused-wrath
-item_index: '11'
+item_index: 09
 item_name: Focused Wrath
 level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.censor.7th-level-feature:focused-wrath
 scdc:
-  - 1.1.1:13.1.7.9:11
+  - 1.1.1:13.1.7.9:09
 source: mcdm.heroes.v1
 type: feature/trait/censor/7th-level-feature
 ---

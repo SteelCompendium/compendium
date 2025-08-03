@@ -1,4 +1,5 @@
 ---
+file_basename: Crafting Skills
 file_dpath: Skills
 item_id: crafting-skills
 item_index: '05'

@@ -12,4 +12,4 @@ type: index
 | [Skill](../Skill)                                       |      | 10    | trait        |
 | [Templar](../Templar)                                   |      | 10    | trait        |
 | [Virtue](../Virtue)                                     |      | 10    | trait        |
-| [Wrath Of The Gods](../Wrath%20Of%20The%20Gods)         |      | 10    | trait        |
+| [Wrath of the Gods](../Wrath%20of%20the%20Gods)         |      | 10    | trait        |

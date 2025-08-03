@@ -1,4 +1,5 @@
 ---
+file_basename: Monster Whisperer
 file_dpath: Perks/Exploration Perks
 item_id: monster-whisperer
 item_index: '03'

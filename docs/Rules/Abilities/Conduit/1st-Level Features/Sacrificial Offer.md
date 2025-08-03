@@ -1,15 +1,16 @@
 ---
 class: conduit
 feature_type: trait
+file_basename: Sacrificial Offer
 file_dpath: Conduit/1st-Level Features
 item_id: sacrificial-offer
-item_index: '06'
+item_index: 08
 item_name: Sacrificial Offer
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:sacrificial-offer
 scdc:
-  - 1.1.1:13.1.8.1:06
+  - 1.1.1:13.1.8.1:08
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

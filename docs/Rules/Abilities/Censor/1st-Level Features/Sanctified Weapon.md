@@ -1,6 +1,7 @@
 ---
 class: censor
 feature_type: trait
+file_basename: Sanctified Weapon
 file_dpath: Censor/1st-Level Features
 item_id: sanctified-weapon
 item_index: '19'

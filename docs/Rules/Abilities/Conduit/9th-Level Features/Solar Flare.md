@@ -4,6 +4,7 @@ cost: 11 Piety
 cost_amount: 11
 cost_resource: Piety
 feature_type: ability
+file_basename: Solar Flare
 file_dpath: Conduit/9th-Level Features
 item_id: solar-flare-11-piety
 item_index: '10'

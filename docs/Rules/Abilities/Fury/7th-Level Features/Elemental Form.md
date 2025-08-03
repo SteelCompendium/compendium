@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Elemental Form
 file_dpath: Fury/7th-Level Features
 item_id: elemental-form
 item_index: '01'

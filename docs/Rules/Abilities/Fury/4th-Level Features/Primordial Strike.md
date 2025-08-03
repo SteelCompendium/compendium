@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Primordial Strike
 file_dpath: Fury/4th-Level Features
 item_id: primordial-strike
 item_index: '06'

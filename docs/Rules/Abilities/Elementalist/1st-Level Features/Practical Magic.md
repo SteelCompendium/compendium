@@ -1,15 +1,16 @@
 ---
 class: elementalist
 feature_type: trait
+file_basename: Practical Magic
 file_dpath: Elementalist/1st-Level Features
 item_id: practical-magic
-item_index: '10'
+item_index: '14'
 item_name: Practical Magic
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:practical-magic
 scdc:
-  - 1.1.1:13.1.9.1:10
+  - 1.1.1:13.1.9.1:14
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

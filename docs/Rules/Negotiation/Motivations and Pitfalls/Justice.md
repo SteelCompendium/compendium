@@ -1,4 +1,5 @@
 ---
+file_basename: Justice
 file_dpath: Negotiation/Motivations and Pitfalls
 item_id: justice
 item_index: 08

@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Primordial Attunement
 file_dpath: Fury/4th-Level Features
 item_id: primordial-attunement
 item_index: '04'

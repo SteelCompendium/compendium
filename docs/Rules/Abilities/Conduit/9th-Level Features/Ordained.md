@@ -1,6 +1,7 @@
 ---
 class: conduit
 feature_type: trait
+file_basename: Ordained
 file_dpath: Conduit/9th-Level Features
 item_id: ordained
 item_index: '02'

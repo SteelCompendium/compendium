@@ -4,6 +4,7 @@ cost: 11 Drama
 cost_amount: 11
 cost_resource: Drama
 feature_type: ability
+file_basename: Expert Fencer
 file_dpath: Troubadour/9th-Level Features
 item_id: expert-fencer-11-drama
 item_index: '02'

@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Mindlink
 file_dpath: Talent/8th-Level Features
 item_id: mindlink
 item_index: '03'

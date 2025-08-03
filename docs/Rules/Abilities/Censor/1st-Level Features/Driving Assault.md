@@ -4,15 +4,16 @@ cost: 3 Wrath
 cost_amount: 3
 cost_resource: Wrath
 feature_type: ability
+file_basename: Driving Assault
 file_dpath: Censor/1st-Level Features
 item_id: driving-assault-3-wrath
-item_index: '07'
+item_index: 08
 item_name: Driving Assault (3 Wrath)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:driving-assault-3-wrath
 scdc:
-  - 1.1.1:13.2.7.1:07
+  - 1.1.1:13.2.7.1:08
 source: mcdm.heroes.v1
 type: feature/ability/censor/1st-level-feature
 ---

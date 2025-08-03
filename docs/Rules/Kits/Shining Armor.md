@@ -1,4 +1,5 @@
 ---
+file_basename: Shining Armor
 file_dpath: Kits
 item_id: shining-armor
 item_index: '01'

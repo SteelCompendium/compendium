@@ -1,6 +1,7 @@
 ---
 class: censor
 feature_type: trait
+file_basename: Vow
 file_dpath: Censor/8th-Level Features
 item_id: vow
 item_index: '04'

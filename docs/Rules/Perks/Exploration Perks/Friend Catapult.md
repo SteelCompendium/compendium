@@ -1,4 +1,5 @@
 ---
+file_basename: Friend Catapult
 file_dpath: Perks/Exploration Perks
 item_id: friend-catapult
 item_index: 09

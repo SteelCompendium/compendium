@@ -1,15 +1,16 @@
 ---
 class: elementalist
 feature_type: trait
+file_basename: Smoldering Step
 file_dpath: Elementalist/5th-Level Features
 item_id: smoldering-step
-item_index: '02'
+item_index: '03'
 item_name: Smoldering Step
 level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.5th-level-feature:smoldering-step
 scdc:
-  - 1.1.1:13.1.9.5:02
+  - 1.1.1:13.1.9.5:03
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/5th-level-feature
 ---

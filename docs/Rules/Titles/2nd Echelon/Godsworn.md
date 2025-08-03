@@ -1,4 +1,5 @@
 ---
+file_basename: Godsworn
 file_dpath: Titles/2nd Echelon
 item_id: godsworn
 item_index: '15'

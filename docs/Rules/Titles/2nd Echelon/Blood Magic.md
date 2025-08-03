@@ -1,4 +1,5 @@
 ---
+file_basename: Blood Magic
 file_dpath: Titles/2nd Echelon
 item_id: blood-magic
 item_index: '14'

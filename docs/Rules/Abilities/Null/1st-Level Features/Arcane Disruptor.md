@@ -4,6 +4,7 @@ cost: 5 Discipline
 cost_amount: 5
 cost_resource: Discipline
 feature_type: ability
+file_basename: Arcane Disruptor
 file_dpath: Null/1st-Level Features
 item_id: arcane-disruptor-5-discipline
 item_index: '06'

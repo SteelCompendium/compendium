@@ -4,6 +4,7 @@ cost: 5 Clarity
 cost_amount: 5
 cost_resource: Clarity
 feature_type: ability
+file_basename: Flashback
 file_dpath: Talent/1st-Level Features
 item_id: flashback-5-clarity
 item_index: '01'

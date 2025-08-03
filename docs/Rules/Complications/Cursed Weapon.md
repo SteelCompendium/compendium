@@ -1,12 +1,13 @@
 ---
+file_basename: Cursed Weapon
 file_dpath: Complications
 item_id: cursed-weapon
-item_index: '07'
+item_index: 09
 item_name: Cursed Weapon
 scc:
   - mcdm.heroes.v1:complication:cursed-weapon
 scdc:
-  - 1.1.1:6:07
+  - 1.1.1:6:09
 source: mcdm.heroes.v1
 type: complication
 ---

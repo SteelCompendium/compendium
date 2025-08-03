@@ -1,6 +1,7 @@
 ---
 class: 'null'
 feature_type: trait
+file_basename: Rapid Processing
 file_dpath: Null/2nd-Level Features
 item_id: rapid-processing
 item_index: '01'

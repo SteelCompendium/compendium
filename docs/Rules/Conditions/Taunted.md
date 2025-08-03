@@ -1,4 +1,5 @@
 ---
+file_basename: Taunted
 file_dpath: Conditions
 item_id: taunted
 item_index: '03'

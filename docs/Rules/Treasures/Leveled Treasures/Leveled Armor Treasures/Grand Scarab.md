@@ -1,4 +1,5 @@
 ---
+file_basename: Grand Scarab
 file_dpath: Treasures/Leveled Treasures/Leveled Armor Treasures
 item_id: grand-scarab
 item_index: '03'

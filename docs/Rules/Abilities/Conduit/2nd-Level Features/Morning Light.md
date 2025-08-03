@@ -4,6 +4,7 @@ cost: 5 Piety
 cost_amount: 5
 cost_resource: Piety
 feature_type: ability
+file_basename: Morning Light
 file_dpath: Conduit/2nd-Level Features
 item_id: morning-light-5-piety
 item_index: 09

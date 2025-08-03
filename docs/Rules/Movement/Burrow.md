@@ -1,4 +1,5 @@
 ---
+file_basename: Burrow
 file_dpath: Movement
 item_id: burrow
 item_index: '21'

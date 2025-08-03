@@ -1,4 +1,5 @@
 ---
+file_basename: Forgettable Face
 file_dpath: Perks/Intrigue Perks
 item_id: forgettable-face
 item_index: '02'

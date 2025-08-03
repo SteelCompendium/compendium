@@ -1,15 +1,16 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Repel
 file_dpath: Talent/1st-Level Features
 item_id: repel
-item_index: '17'
+item_index: '18'
 item_name: Repel
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:repel
 scdc:
-  - 1.1.1:13.1.1.1:17
+  - 1.1.1:13.1.1.1:18
 source: mcdm.heroes.v1
 type: feature/trait/talent/1st-level-feature
 ---

@@ -1,12 +1,13 @@
 ---
+file_basename: Antihero
 file_dpath: Complications
 item_id: antihero
-item_index: 08
+item_index: '10'
 item_name: Antihero
 scc:
   - mcdm.heroes.v1:complication:antihero
 scdc:
-  - 1.1.1:6:08
+  - 1.1.1:6:10
 source: mcdm.heroes.v1
 type: complication
 ---

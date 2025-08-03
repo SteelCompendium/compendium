@@ -1,6 +1,7 @@
 ---
 class: 'null'
 feature_type: trait
+file_basename: Manifold Body
 file_dpath: Null/10th-Level Features
 item_id: manifold-body
 item_index: '03'

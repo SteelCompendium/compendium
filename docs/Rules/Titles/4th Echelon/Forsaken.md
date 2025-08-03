@@ -1,4 +1,5 @@
 ---
+file_basename: Forsaken
 file_dpath: Titles/4th Echelon
 item_id: forsaken
 item_index: 08

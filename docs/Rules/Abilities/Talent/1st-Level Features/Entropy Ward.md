@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Entropy Ward
 file_dpath: Talent/1st-Level Features
 item_id: entropy-ward
 item_index: '10'

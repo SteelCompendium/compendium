@@ -1,4 +1,5 @@
 ---
+file_basename: Telekinetic Bulwark
 file_dpath: Treasures/Leveled Treasures/Leveled Armor Treasures
 item_id: telekinetic-bulwark
 item_index: '04'

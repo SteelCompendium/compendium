@@ -1,4 +1,5 @@
 ---
+file_basename: Artifact Bonded
 file_dpath: Complications
 item_id: artifact-bonded
 item_index: '95'

@@ -1,4 +1,5 @@
 ---
+file_basename: Displacing Replacement Bracer
 file_dpath: Treasures/Trinkets/1st Echelon Trinkets
 item_id: displacing-replacement-bracer
 item_index: 08

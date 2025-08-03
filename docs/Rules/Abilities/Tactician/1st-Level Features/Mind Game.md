@@ -4,6 +4,7 @@ cost: 5 Focus
 cost_amount: 5
 cost_resource: Focus
 feature_type: ability
+file_basename: Mind Game
 file_dpath: Tactician/1st-Level Features
 item_id: mind-game-5-focus
 item_index: 08

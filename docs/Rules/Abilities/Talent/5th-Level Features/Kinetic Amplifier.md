@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Kinetic Amplifier
 file_dpath: Talent/5th-Level Features
 item_id: kinetic-amplifier
 item_index: '04'

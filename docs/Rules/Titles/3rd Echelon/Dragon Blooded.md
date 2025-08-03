@@ -1,4 +1,5 @@
 ---
+file_basename: Dragon Blooded
 file_dpath: Titles/3rd Echelon
 item_id: dragon-blooded
 item_index: '12'

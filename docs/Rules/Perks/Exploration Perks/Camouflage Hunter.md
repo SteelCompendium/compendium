@@ -1,12 +1,13 @@
 ---
+file_basename: Camouflage Hunter
 file_dpath: Perks/Exploration Perks
 item_id: camouflage-hunter
-item_index: '06'
+item_index: '07'
 item_name: Camouflage Hunter
 scc:
   - mcdm.heroes.v1:perk.exploration:camouflage-hunter
 scdc:
-  - 1.1.1:17.3:06
+  - 1.1.1:17.3:07
 source: mcdm.heroes.v1
 type: perk/exploration
 ---

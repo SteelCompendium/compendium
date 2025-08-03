@@ -1,4 +1,5 @@
 ---
+file_basename: Theoretical Warrior
 file_dpath: Titles/4th Echelon
 item_id: theoretical-warrior
 item_index: '05'

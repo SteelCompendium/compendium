@@ -4,15 +4,16 @@ cost: 5 Piety
 cost_amount: 5
 cost_resource: Piety
 feature_type: ability
+file_basename: The Gods Command You Obey
 file_dpath: Conduit/2nd-Level Features
 item_id: the-gods-command-you-obey-5-piety
-item_index: '06'
+item_index: '07'
 item_name: The Gods Command You Obey (5 Piety)
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:the-gods-command-you-obey-5-piety
 scdc:
-  - 1.1.1:13.2.8.5:06
+  - 1.1.1:13.2.8.5:07
 source: mcdm.heroes.v1
 type: feature/ability/conduit/2nd-level-feature
 ---

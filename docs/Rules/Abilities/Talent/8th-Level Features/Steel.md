@@ -4,6 +4,7 @@ cost: 11 Clarity
 cost_amount: 11
 cost_resource: Clarity
 feature_type: ability
+file_basename: Steel
 file_dpath: Talent/8th-Level Features
 item_id: steel-11-clarity
 item_index: '03'

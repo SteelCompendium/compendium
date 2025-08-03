@@ -19,13 +19,13 @@ type: index
 | [Mage Hunter](../1st%20Echelon/Mage%20Hunter)                             |
 | [Marshal](../1st%20Echelon/Marshal)                                       |
 | [Monster Bane](../1st%20Echelon/Monster%20Bane)                           |
-| [Owed A Favor](../1st%20Echelon/Owed%20A%20Favor)                         |
+| [Owed a Favor](../1st%20Echelon/Owed%20a%20Favor)                         |
 | [Presumed Dead](../1st%20Echelon/Presumed%20Dead)                         |
 | [Ratcatcher](../1st%20Echelon/Ratcatcher)                                 |
-| [Saved For A Worse Fate](../1st%20Echelon/Saved%20For%20A%20Worse%20Fate) |
+| [Saved for a Worse Fate](../1st%20Echelon/Saved%20for%20a%20Worse%20Fate) |
 | [Ship Captain](../1st%20Echelon/Ship%20Captain)                           |
 | [Troupe Leading Player](../1st%20Echelon/Troupe%20Leading%20Player)       |
-| [Wanted Dead Or Alive](../1st%20Echelon/Wanted%20Dead%20Or%20Alive)       |
+| [Wanted Dead or Alive](../1st%20Echelon/Wanted%20Dead%20or%20Alive)       |
 | [Zombie Slayer](../1st%20Echelon/Zombie%20Slayer)                         |
 | [Arena Fighter](../2nd%20Echelon/Arena%20Fighter)                         |
 | [Awakened](../2nd%20Echelon/Awakened)                                     |
@@ -43,8 +43,8 @@ type: index
 | [Sworn Hunter](../2nd%20Echelon/Sworn%20Hunter)                           |
 | [Undead Slain](../2nd%20Echelon/Undead%20Slain)                           |
 | [Unstoppable](../2nd%20Echelon/Unstoppable)                               |
-| [Armed And Dangerous](../3rd%20Echelon/Armed%20And%20Dangerous)           |
-| [Back From The Grave](../3rd%20Echelon/Back%20From%20The%20Grave)         |
+| [Armed and Dangerous](../3rd%20Echelon/Armed%20and%20Dangerous)           |
+| [Back From the Grave](../3rd%20Echelon/Back%20From%20the%20Grave)         |
 | [Demon Slayer](../3rd%20Echelon/Demon%20Slayer)                           |
 | [Diabolist](../3rd%20Echelon/Diabolist)                                   |
 | [Dragon Blooded](../3rd%20Echelon/Dragon%20Blooded)                       |

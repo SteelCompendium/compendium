@@ -1,12 +1,13 @@
 ---
+file_basename: Infernal Contract
 file_dpath: Complications
 item_id: infernal-contract
-item_index: '78'
+item_index: '77'
 item_name: Infernal Contract
 scc:
   - mcdm.heroes.v1:complication:infernal-contract
 scdc:
-  - 1.1.1:6:78
+  - 1.1.1:6:77
 source: mcdm.heroes.v1
 type: complication
 ---

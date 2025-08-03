@@ -1,6 +1,7 @@
 ---
 class: troubadour
 feature_type: trait
+file_basename: Foil
 file_dpath: Troubadour/3rd-Level Features
 item_id: foil
 item_index: '02'

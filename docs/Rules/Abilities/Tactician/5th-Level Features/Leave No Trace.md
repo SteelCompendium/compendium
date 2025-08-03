@@ -1,6 +1,7 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: Leave No Trace
 file_dpath: Tactician/5th-Level Features
 item_id: leave-no-trace
 item_index: '04'

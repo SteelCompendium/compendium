@@ -1,4 +1,5 @@
 ---
+file_basename: Brawny
 file_dpath: Perks/Exploration Perks
 item_id: brawny
 item_index: '10'

@@ -1,13 +1,14 @@
 ---
 chapter_num: 13
+file_basename: Rewards
 file_dpath: Chapters
 item_id: rewards
-item_index: 09
+item_index: '11'
 item_name: Rewards
 scc:
   - mcdm.heroes.v1:chapter:rewards
 scdc:
-  - 1.1.1:3:09
+  - 1.1.1:3:11
 source: mcdm.heroes.v1
 title: 'Chapter 13: Rewards'
 type: chapter

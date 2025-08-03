@@ -1,6 +1,7 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: Warmaster
 file_dpath: Tactician/10th-Level Features
 item_id: warmaster
 item_index: '06'

@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Minor Telekinesis
 file_dpath: Talent/1st-Level Features
 item_id: minor-telekinesis
 item_index: '03'

@@ -1,4 +1,5 @@
 ---
+file_basename: Power Player
 file_dpath: Perks/Interpersonal Perks
 item_id: power-player
 item_index: 09

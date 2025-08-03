@@ -1,4 +1,5 @@
 ---
+file_basename: Dazed
 file_dpath: Conditions
 item_id: dazed
 item_index: 08

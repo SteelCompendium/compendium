@@ -1,12 +1,13 @@
 ---
+file_basename: Frostheart
 file_dpath: Complications
 item_id: frostheart
-item_index: '39'
+item_index: '38'
 item_name: Frostheart
 scc:
   - mcdm.heroes.v1:complication:frostheart
 scdc:
-  - 1.1.1:6:39
+  - 1.1.1:6:38
 source: mcdm.heroes.v1
 type: complication
 ---

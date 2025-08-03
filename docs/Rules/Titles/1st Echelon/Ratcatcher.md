@@ -1,4 +1,5 @@
 ---
+file_basename: Ratcatcher
 file_dpath: Titles/1st Echelon
 item_id: ratcatcher
 item_index: '06'

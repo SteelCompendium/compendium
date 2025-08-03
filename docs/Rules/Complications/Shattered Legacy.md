@@ -1,12 +1,13 @@
 ---
+file_basename: Shattered Legacy
 file_dpath: Complications
 item_id: shattered-legacy
-item_index: '02'
+item_index: '04'
 item_name: Shattered Legacy
 scc:
   - mcdm.heroes.v1:complication:shattered-legacy
 scdc:
-  - 1.1.1:6:02
+  - 1.1.1:6:04
 source: mcdm.heroes.v1
 type: complication
 ---

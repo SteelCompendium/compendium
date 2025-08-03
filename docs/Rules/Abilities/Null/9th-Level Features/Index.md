@@ -10,7 +10,7 @@ type: index
 | [Absolute Zero](../Absolute%20Zero)             | 11 Discipline | 9     | ability      |
 | [Arrestor Cycle](../Arrestor%20Cycle)           | 11 Discipline | 9     | ability      |
 | [Heat Drain](../Heat%20Drain)                   | 11 Discipline | 9     | ability      |
-| [I Am The Weapon](../I%20Am%20The%20Weapon)     |               | 9     | trait        |
+| [I Am the Weapon](../I%20Am%20the%20Weapon)     |               | 9     | trait        |
 | [Inertial Absorption](../Inertial%20Absorption) | 11 Discipline | 9     | ability      |
 | [Realitas](../Realitas)                         | 11 Discipline | 9     | ability      |
 | [Time Loop](../Time%20Loop)                     | 11 Discipline | 9     | ability      |

@@ -1,4 +1,5 @@
 ---
+file_basename: Freedom
 file_dpath: Negotiation/Motivations and Pitfalls
 item_id: freedom
 item_index: '04'

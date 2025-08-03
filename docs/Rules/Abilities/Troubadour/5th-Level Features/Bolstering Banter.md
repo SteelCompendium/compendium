@@ -1,6 +1,7 @@
 ---
 class: troubadour
 feature_type: trait
+file_basename: Bolstering Banter
 file_dpath: Troubadour/5th-Level Features
 item_id: bolstering-banter
 item_index: '01'

@@ -1,4 +1,5 @@
 ---
+file_basename: Elemental Dabbler
 file_dpath: Titles/1st Echelon
 item_id: elemental-dabbler
 item_index: '20'

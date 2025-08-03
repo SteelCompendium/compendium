@@ -10,10 +10,10 @@ type: index
 | [A Squad Unto Myself](../A%20Squad%20Unto%20Myself)                   | 5 Discipline | 1     | ability      |
 | [Arcane Disruptor](../Arcane%20Disruptor)                             | 5 Discipline | 1     | ability      |
 | [Chronal Spike](../Chronal%20Spike)                                   | 3 Discipline | 1     | ability      |
-| [Dance Of Blows](../Dance%20Of%20Blows)                               |              | 1     | trait        |
+| [Dance of Blows](../Dance%20of%20Blows)                               |              | 1     | trait        |
 | [Density Augmentation](../Density%20Augmentation)                     |              | 1     | trait        |
-| [Discipline Outside Of Combat](../Discipline%20Outside%20Of%20Combat) |              | 1     | trait        |
-| [Faster Than The Eye](../Faster%20Than%20The%20Eye)                   |              | 1     | trait        |
+| [Discipline Outside of Combat](../Discipline%20Outside%20of%20Combat) |              | 1     | trait        |
+| [Faster Than the Eye](../Faster%20Than%20the%20Eye)                   |              | 1     | trait        |
 | [Force Augmentation](../Force%20Augmentation)                         |              | 1     | trait        |
 | [Impart Force](../Impart%20Force)                                     | 5 Discipline | 1     | ability      |
 | [Inertial Shield](../Inertial%20Shield)                               |              | 1     | trait        |

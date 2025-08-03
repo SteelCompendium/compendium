@@ -1,12 +1,13 @@
 ---
+file_basename: Host Body
 file_dpath: Complications
 item_id: host-body
-item_index: '84'
+item_index: '83'
 item_name: Host Body
 scc:
   - mcdm.heroes.v1:complication:host-body
 scdc:
-  - 1.1.1:6:84
+  - 1.1.1:6:83
 source: mcdm.heroes.v1
 type: complication
 ---

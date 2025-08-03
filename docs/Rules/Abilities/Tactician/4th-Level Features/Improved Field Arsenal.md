@@ -1,15 +1,16 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: Improved Field Arsenal
 file_dpath: Tactician/4th-Level Features
 item_id: improved-field-arsenal
-item_index: '02'
+item_index: '01'
 item_name: Improved Field Arsenal
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.4th-level-feature:improved-field-arsenal
 scdc:
-  - 1.1.1:13.1.4.10:02
+  - 1.1.1:13.1.4.10:01
 source: mcdm.heroes.v1
 type: feature/trait/tactician/4th-level-feature
 ---

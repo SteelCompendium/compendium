@@ -4,15 +4,16 @@ cost: 9 Focus
 cost_amount: 9
 cost_resource: Focus
 feature_type: ability
+file_basename: Coordinated Execution
 file_dpath: Tactician/6th-Level Features
 item_id: coordinated-execution-9-focus
-item_index: '03'
+item_index: '04'
 item_name: Coordinated Execution (9 Focus)
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.6th-level-feature:coordinated-execution-9-focus
 scdc:
-  - 1.1.1:13.2.4.3:03
+  - 1.1.1:13.2.4.3:04
 source: mcdm.heroes.v1
 type: feature/ability/tactician/6th-level-feature
 ---

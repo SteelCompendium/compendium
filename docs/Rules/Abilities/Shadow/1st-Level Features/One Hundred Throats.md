@@ -4,6 +4,7 @@ cost: 5 Insight
 cost_amount: 5
 cost_resource: Insight
 feature_type: ability
+file_basename: One Hundred Throats
 file_dpath: Shadow/1st-Level Features
 item_id: one-hundred-throats-5-insight
 item_index: '02'

@@ -12,7 +12,7 @@ type: index
 | [Awe](../Awe)                                                   | 3 Clarity | 1     | ability      |
 | [Battle Augmentation](../Battle%20Augmentation)                 |           | 1     | trait        |
 | [Choke](../Choke)                                               | 3 Clarity | 1     | ability      |
-| [Clarity Outside Of Combat](../Clarity%20Outside%20Of%20Combat) |           | 1     | trait        |
+| [Clarity Outside of Combat](../Clarity%20Outside%20of%20Combat) |           | 1     | trait        |
 | [Density Augmentation](../Density%20Augmentation)               |           | 1     | trait        |
 | [Distance Augmentation](../Distance%20Augmentation)             |           | 1     | trait        |
 | [Entropic Bolt](../Entropic%20Bolt)                             |           | 1     | trait        |

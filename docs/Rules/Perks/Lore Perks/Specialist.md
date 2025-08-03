@@ -1,12 +1,13 @@
 ---
+file_basename: Specialist
 file_dpath: Perks/Lore Perks
 item_id: specialist
-item_index: '03'
+item_index: '04'
 item_name: Specialist
 scc:
   - mcdm.heroes.v1:perk.lore:specialist
 scdc:
-  - 1.1.1:17.2:03
+  - 1.1.1:17.2:04
 source: mcdm.heroes.v1
 type: perk/lore
 ---

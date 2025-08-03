@@ -4,15 +4,16 @@ cost: 11 Insight
 cost_amount: 11
 cost_resource: Insight
 feature_type: ability
+file_basename: They Always Line Up
 file_dpath: Shadow/8th-Level Features
 item_id: they-always-line-up-11-insight
-item_index: '02'
+item_index: '01'
 item_name: They Always Line Up (11 Insight)
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.8th-level-feature:they-always-line-up-11-insight
 scdc:
-  - 1.1.1:13.2.2.2:02
+  - 1.1.1:13.2.2.2:01
 source: mcdm.heroes.v1
 type: feature/ability/shadow/8th-level-feature
 ---

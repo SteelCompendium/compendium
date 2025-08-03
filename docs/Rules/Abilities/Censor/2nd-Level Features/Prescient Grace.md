@@ -4,6 +4,7 @@ cost: 5 Wrath
 cost_amount: 5
 cost_resource: Wrath
 feature_type: ability
+file_basename: Prescient Grace
 file_dpath: Censor/2nd-Level Features
 item_id: prescient-grace-5-wrath
 item_index: '06'

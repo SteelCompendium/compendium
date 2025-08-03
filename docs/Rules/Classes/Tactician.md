@@ -1,4 +1,5 @@
 ---
+file_basename: Tactician
 file_dpath: Classes
 item_id: tactician
 item_index: '03'

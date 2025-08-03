@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Inescapable Wrath
 file_dpath: Fury/2nd-Level Features
 item_id: inescapable-wrath
 item_index: '03'

@@ -4,6 +4,7 @@ cost: 3 Insight
 cost_amount: 3
 cost_resource: Insight
 feature_type: ability
+file_basename: Eviscerate
 file_dpath: Shadow/1st-Level Features
 item_id: eviscerate-3-insight
 item_index: '01'

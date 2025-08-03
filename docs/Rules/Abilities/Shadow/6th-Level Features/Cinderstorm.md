@@ -4,15 +4,16 @@ cost: 9 Insight
 cost_amount: 9
 cost_resource: Insight
 feature_type: ability
+file_basename: Cinderstorm
 file_dpath: Shadow/6th-Level Features
 item_id: cinderstorm-9-insight
-item_index: '03'
+item_index: '02'
 item_name: Cinderstorm (9 Insight)
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:cinderstorm-9-insight
 scdc:
-  - 1.1.1:13.2.2.3:03
+  - 1.1.1:13.2.2.3:02
 source: mcdm.heroes.v1
 type: feature/ability/shadow/6th-level-feature
 ---

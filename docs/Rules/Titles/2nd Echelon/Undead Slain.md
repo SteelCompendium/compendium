@@ -1,4 +1,5 @@
 ---
+file_basename: Undead Slain
 file_dpath: Titles/2nd Echelon
 item_id: undead-slain
 item_index: '16'

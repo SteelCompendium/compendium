@@ -12,4 +12,4 @@ type: index
 | [Night Watch](../Night%20Watch)                         |      | 4     | trait        |
 | [Perk](../Perk)                                         |      | 4     | trait        |
 | [Skill](../Skill)                                       |      | 4     | trait        |
-| [Surge Of Insight](../Surge%20Of%20Insight)             |      | 4     | trait        |
+| [Surge of Insight](../Surge%20of%20Insight)             |      | 4     | trait        |

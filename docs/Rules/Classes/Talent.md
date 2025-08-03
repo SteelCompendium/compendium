@@ -1,4 +1,5 @@
 ---
+file_basename: Talent
 file_dpath: Classes
 item_id: talent
 item_index: '02'

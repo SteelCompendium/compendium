@@ -1,4 +1,5 @@
 ---
+file_basename: Criminal Contacts
 file_dpath: Perks/Intrigue Perks
 item_id: criminal-contacts
 item_index: '05'

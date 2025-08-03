@@ -1,4 +1,5 @@
 ---
+file_basename: Lie Detector
 file_dpath: Perks/Interpersonal Perks
 item_id: lie-detector
 item_index: 08

@@ -1,12 +1,13 @@
 ---
+file_basename: Advanced Studies
 file_dpath: Complications
 item_id: advanced-studies
-item_index: 09
+item_index: '12'
 item_name: Advanced Studies
 scc:
   - mcdm.heroes.v1:complication:advanced-studies
 scdc:
-  - 1.1.1:6:09
+  - 1.1.1:6:12
 source: mcdm.heroes.v1
 type: complication
 ---

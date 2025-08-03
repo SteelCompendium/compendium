@@ -1,4 +1,5 @@
 ---
+file_basename: Champion Competitor
 file_dpath: Titles/4th Echelon
 item_id: champion-competitor
 item_index: '02'

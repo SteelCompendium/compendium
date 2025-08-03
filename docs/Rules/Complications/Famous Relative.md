@@ -1,12 +1,13 @@
 ---
+file_basename: Famous Relative
 file_dpath: Complications
 item_id: famous-relative
-item_index: '18'
+item_index: '20'
 item_name: Famous Relative
 scc:
   - mcdm.heroes.v1:complication:famous-relative
 scdc:
-  - 1.1.1:6:18
+  - 1.1.1:6:20
 source: mcdm.heroes.v1
 type: complication
 ---

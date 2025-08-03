@@ -1,6 +1,7 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: Grand Strategy
 file_dpath: Tactician/7th-Level Features
 item_id: grand-strategy
 item_index: '01'

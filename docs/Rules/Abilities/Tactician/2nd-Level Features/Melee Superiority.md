@@ -1,6 +1,7 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: Melee Superiority
 file_dpath: Tactician/2nd-Level Features
 item_id: melee-superiority
 item_index: '04'

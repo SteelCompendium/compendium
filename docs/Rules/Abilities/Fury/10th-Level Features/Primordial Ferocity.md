@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Primordial Ferocity
 file_dpath: Fury/10th-Level Features
 item_id: primordial-ferocity
 item_index: '03'

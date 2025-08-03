@@ -1,6 +1,7 @@
 ---
 class: 'null'
 feature_type: trait
+file_basename: Inertial Sink
 file_dpath: Null/2nd-Level Features
 item_id: inertial-sink
 item_index: '04'

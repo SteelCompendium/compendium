@@ -1,4 +1,5 @@
 ---
+file_basename: Siege Breaker
 file_dpath: Titles/3rd Echelon
 item_id: siege-breaker
 item_index: '11'

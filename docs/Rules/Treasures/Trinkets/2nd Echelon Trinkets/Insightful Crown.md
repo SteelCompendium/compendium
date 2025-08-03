@@ -1,4 +1,5 @@
 ---
+file_basename: Insightful Crown
 file_dpath: Treasures/Trinkets/2nd Echelon Trinkets
 item_id: insightful-crown
 item_index: '02'

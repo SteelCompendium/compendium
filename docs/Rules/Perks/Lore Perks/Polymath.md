@@ -1,12 +1,13 @@
 ---
+file_basename: Polymath
 file_dpath: Perks/Lore Perks
 item_id: polymath
-item_index: '06'
+item_index: '07'
 item_name: Polymath
 scc:
   - mcdm.heroes.v1:perk.lore:polymath
 scdc:
-  - 1.1.1:17.2:06
+  - 1.1.1:17.2:07
 source: mcdm.heroes.v1
 type: perk/lore
 ---

@@ -4,6 +4,7 @@ cost: 5 Discipline
 cost_amount: 5
 cost_resource: Discipline
 feature_type: ability
+file_basename: A Squad Unto Myself
 file_dpath: Null/1st-Level Features
 item_id: a-squad-unto-myself-5-discipline
 item_index: 08

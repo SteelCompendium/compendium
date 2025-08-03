@@ -1,6 +1,7 @@
 ---
 class: elementalist
 feature_type: trait
+file_basename: There Is No Space Between
 file_dpath: Elementalist/2nd-Level Features
 item_id: there-is-no-space-between
 item_index: '03'

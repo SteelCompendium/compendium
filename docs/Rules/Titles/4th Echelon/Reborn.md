@@ -1,4 +1,5 @@
 ---
+file_basename: Reborn
 file_dpath: Titles/4th Echelon
 item_id: reborn
 item_index: '04'

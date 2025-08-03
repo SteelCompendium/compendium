@@ -1,4 +1,5 @@
 ---
+file_basename: Heist Hero
 file_dpath: Titles/2nd Echelon
 item_id: heist-hero
 item_index: '03'

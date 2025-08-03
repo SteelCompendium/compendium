@@ -1,12 +1,13 @@
 ---
+file_basename: Spiny Turtle
 file_dpath: Treasures/Leveled Treasures/Leveled Armor Treasures
 item_id: spiny-turtle
-item_index: '07'
+item_index: '06'
 item_name: Spiny Turtle
 scc:
   - mcdm.heroes.v1:treasure.leveled.armor:spiny-turtle
 scdc:
-  - 1.1.1:12.3.4:07
+  - 1.1.1:12.3.4:06
 source: mcdm.heroes.v1
 type: treasure/leveled/armor
 ---

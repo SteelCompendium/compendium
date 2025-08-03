@@ -4,6 +4,7 @@ cost: 7 Discipline
 cost_amount: 7
 cost_resource: Discipline
 feature_type: ability
+file_basename: Molecular Rearrangement Field
 file_dpath: Null/3rd-Level Features
 item_id: molecular-rearrangement-field-7-discipline
 item_index: '03'

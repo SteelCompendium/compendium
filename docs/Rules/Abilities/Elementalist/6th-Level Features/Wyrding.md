@@ -1,6 +1,7 @@
 ---
 class: elementalist
 feature_type: trait
+file_basename: Wyrding
 file_dpath: Elementalist/6th-Level Features
 item_id: wyrding
 item_index: '01'

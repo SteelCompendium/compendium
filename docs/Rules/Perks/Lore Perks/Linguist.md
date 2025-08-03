@@ -1,12 +1,13 @@
 ---
+file_basename: Linguist
 file_dpath: Perks/Lore Perks
 item_id: linguist
-item_index: '07'
+item_index: 08
 item_name: Linguist
 scc:
   - mcdm.heroes.v1:perk.lore:linguist
 scdc:
-  - 1.1.1:17.2:07
+  - 1.1.1:17.2:08
 source: mcdm.heroes.v1
 type: perk/lore
 ---

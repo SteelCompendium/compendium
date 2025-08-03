@@ -4,6 +4,7 @@ cost: 9 Piety
 cost_amount: 9
 cost_resource: Piety
 feature_type: ability
+file_basename: Gods Machine
 file_dpath: Conduit/6th-Level Features
 item_id: gods-machine-9-piety
 item_index: '12'

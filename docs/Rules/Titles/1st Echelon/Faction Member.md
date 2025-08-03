@@ -1,12 +1,13 @@
 ---
+file_basename: Faction Member
 file_dpath: Titles/1st Echelon
 item_id: faction-member
-item_index: 08
+item_index: '07'
 item_name: Faction Member
 scc:
   - mcdm.heroes.v1:title.1st-echelon:faction-member
 scdc:
-  - 1.1.1:15.4:08
+  - 1.1.1:15.4:07
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

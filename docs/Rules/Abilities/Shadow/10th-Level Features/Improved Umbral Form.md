@@ -1,6 +1,7 @@
 ---
 class: shadow
 feature_type: trait
+file_basename: Improved Umbral Form
 file_dpath: Shadow/10th-Level Features
 item_id: improved-umbral-form
 item_index: '01'

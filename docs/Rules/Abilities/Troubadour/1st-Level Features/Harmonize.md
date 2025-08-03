@@ -4,6 +4,7 @@ cost: 3 Drama
 cost_amount: 3
 cost_resource: Drama
 feature_type: ability
+file_basename: Harmonize
 file_dpath: Troubadour/1st-Level Features
 item_id: harmonize-3-drama
 item_index: '10'

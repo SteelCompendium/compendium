@@ -1,4 +1,5 @@
 ---
+file_basename: Teamwork
 file_dpath: Perks/Exploration Perks
 item_id: teamwork
 item_index: '02'

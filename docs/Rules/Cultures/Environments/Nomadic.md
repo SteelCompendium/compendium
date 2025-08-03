@@ -1,4 +1,5 @@
 ---
+file_basename: Nomadic
 file_dpath: Cultures/Environments
 item_id: nomadic
 item_index: '01'

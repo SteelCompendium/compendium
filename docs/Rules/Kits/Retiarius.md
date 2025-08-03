@@ -1,12 +1,13 @@
 ---
+file_basename: Retiarius
 file_dpath: Kits
 item_id: retiarius
-item_index: '04'
+item_index: '06'
 item_name: Retiarius
 scc:
   - mcdm.heroes.v1:kit:retiarius
 scdc:
-  - 1.1.1:8:04
+  - 1.1.1:8:06
 source: mcdm.heroes.v1
 type: kit
 ---

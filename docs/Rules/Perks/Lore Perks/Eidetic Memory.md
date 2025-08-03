@@ -1,4 +1,5 @@
 ---
+file_basename: Eidetic Memory
 file_dpath: Perks/Lore Perks
 item_id: eidetic-memory
 item_index: '01'

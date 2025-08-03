@@ -1,5 +1,6 @@
 ---
 class: combat
+file_basename: Heal
 file_dpath: Abilities/Common/Main Actions
 item_id: heal
 item_index: '02'

@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Perk
 file_dpath: Fury/4th-Level Features
 item_id: perk
 item_index: '02'

@@ -1,12 +1,13 @@
 ---
+file_basename: Pirate
 file_dpath: Complications
 item_id: pirate
-item_index: '54'
+item_index: '58'
 item_name: Pirate
 scc:
   - mcdm.heroes.v1:complication:pirate
 scdc:
-  - 1.1.1:6:54
+  - 1.1.1:6:58
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -1,4 +1,5 @@
 ---
+file_basename: Secluded
 file_dpath: Cultures/Environments
 item_id: secluded
 item_index: '05'

@@ -1,4 +1,5 @@
 ---
+file_basename: Giant Slayer
 file_dpath: Titles/2nd Echelon
 item_id: giant-slayer
 item_index: '05'

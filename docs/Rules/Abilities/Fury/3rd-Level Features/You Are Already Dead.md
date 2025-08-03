@@ -4,6 +4,7 @@ cost: 7 Ferocity
 cost_amount: 7
 cost_resource: Ferocity
 feature_type: ability
+file_basename: You Are Already Dead
 file_dpath: Fury/3rd-Level Features
 item_id: you-are-already-dead-7-ferocity
 item_index: '04'

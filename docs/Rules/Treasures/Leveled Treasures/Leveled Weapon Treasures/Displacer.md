@@ -1,12 +1,13 @@
 ---
+file_basename: Displacer
 file_dpath: Treasures/Leveled Treasures/Leveled Weapon Treasures
 item_id: displacer
-item_index: '07'
+item_index: 09
 item_name: Displacer
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:displacer
 scdc:
-  - 1.1.1:12.3.1:07
+  - 1.1.1:12.3.1:09
 source: mcdm.heroes.v1
 type: treasure/leveled/weapon
 ---

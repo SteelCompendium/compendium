@@ -1,12 +1,13 @@
 ---
+file_basename: Gladiator
 file_dpath: Careers
 item_id: gladiator
-item_index: '04'
+item_index: '03'
 item_name: Gladiator
 scc:
   - mcdm.heroes.v1:career:gladiator
 scdc:
-  - 1.1.1:1:04
+  - 1.1.1:1:03
 source: mcdm.heroes.v1
 type: career
 ---

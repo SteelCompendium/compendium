@@ -1,4 +1,5 @@
 ---
+file_basename: Corsair
 file_dpath: Titles/2nd Echelon
 item_id: corsair
 item_index: 09

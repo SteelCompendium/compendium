@@ -4,6 +4,7 @@ cost: 3 Focus
 cost_amount: 3
 cost_resource: Focus
 feature_type: ability
+file_basename: Battle Cry
 file_dpath: Tactician/1st-Level Features
 item_id: battle-cry-3-focus
 item_index: '04'

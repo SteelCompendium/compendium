@@ -1,12 +1,13 @@
 ---
+file_basename: Climbing Other Creatures
 file_dpath: Movement
 item_id: climbing-other-creatures
-item_index: '12'
+item_index: '11'
 item_name: Climbing Other Creatures
 scc:
   - mcdm.heroes.v1:movement:climbing-other-creatures
 scdc:
-  - 1.1.1:10:12
+  - 1.1.1:10:11
 source: mcdm.heroes.v1
 type: movement
 ---

@@ -17,7 +17,7 @@ type: index
 | [Farmer](../Farmer)                       |
 | [Gladiator](../Gladiator)                 |
 | [Laborer](../Laborer)                     |
-| [MageS Apprentice](../MageS%20Apprentice) |
+| [Mages Apprentice](../Mages%20Apprentice) |
 | [Performer](../Performer)                 |
 | [Politician](../Politician)               |
 | [Sage](../Sage)                           |

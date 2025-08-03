@@ -1,12 +1,13 @@
 ---
+file_basename: Mortal Coil
 file_dpath: Treasures/Artifacts
 item_id: mortal-coil
-item_index: '01'
+item_index: '02'
 item_name: Mortal Coil
 scc:
   - mcdm.heroes.v1:treasure.artifact:mortal-coil
 scdc:
-  - 1.1.1:12.1:01
+  - 1.1.1:12.1:02
 source: mcdm.heroes.v1
 type: treasure/artifact
 ---

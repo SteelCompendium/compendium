@@ -1,4 +1,5 @@
 ---
+file_basename: Anamorphic Larva
 file_dpath: Treasures/Consumables/3rd Echelon Consumables
 item_id: anamorphic-larva
 item_index: '01'

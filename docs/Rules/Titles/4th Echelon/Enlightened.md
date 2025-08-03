@@ -1,4 +1,5 @@
 ---
+file_basename: Enlightened
 file_dpath: Titles/4th Echelon
 item_id: enlightened
 item_index: '01'

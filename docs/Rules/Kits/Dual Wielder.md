@@ -1,12 +1,13 @@
 ---
+file_basename: Dual Wielder
 file_dpath: Kits
 item_id: dual-wielder
-item_index: '10'
+item_index: '12'
 item_name: Dual Wielder
 scc:
   - mcdm.heroes.v1:kit:dual-wielder
 scdc:
-  - 1.1.1:8:10
+  - 1.1.1:8:12
 source: mcdm.heroes.v1
 type: kit
 ---

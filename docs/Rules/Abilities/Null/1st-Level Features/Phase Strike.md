@@ -4,6 +4,7 @@ cost: 5 Discipline
 cost_amount: 5
 cost_resource: Discipline
 feature_type: ability
+file_basename: Phase Strike
 file_dpath: Null/1st-Level Features
 item_id: phase-strike-5-discipline
 item_index: '01'

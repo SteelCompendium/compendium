@@ -1,4 +1,5 @@
 ---
+file_basename: Conduit
 file_dpath: Classes
 item_id: conduit
 item_index: 08

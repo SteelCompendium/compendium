@@ -1,6 +1,7 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: Shake It Off
 file_dpath: Tactician/5th-Level Features
 item_id: shake-it-off
 item_index: '05'

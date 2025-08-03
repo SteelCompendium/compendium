@@ -1,6 +1,7 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: See Your Enemies Driven Before You
 file_dpath: Tactician/8th-Level Features
 item_id: see-your-enemies-driven-before-you
 item_index: '04'

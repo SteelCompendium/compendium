@@ -1,4 +1,5 @@
 ---
+file_basename: Sailor
 file_dpath: Careers
 item_id: sailor
 item_index: '06'

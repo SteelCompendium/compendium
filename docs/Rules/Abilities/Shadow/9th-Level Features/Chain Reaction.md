@@ -4,6 +4,7 @@ cost: 11 Insight
 cost_amount: 11
 cost_resource: Insight
 feature_type: ability
+file_basename: Chain Reaction
 file_dpath: Shadow/9th-Level Features
 item_id: chain-reaction-11-insight
 item_index: '02'

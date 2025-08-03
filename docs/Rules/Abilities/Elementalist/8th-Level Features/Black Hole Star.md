@@ -1,6 +1,7 @@
 ---
 class: elementalist
 feature_type: trait
+file_basename: Black Hole Star
 file_dpath: Elementalist/8th-Level Features
 item_id: black-hole-star
 item_index: '02'

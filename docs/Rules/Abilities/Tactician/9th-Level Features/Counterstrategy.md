@@ -4,6 +4,7 @@ cost: 11 Focus
 cost_amount: 11
 cost_resource: Focus
 feature_type: ability
+file_basename: Counterstrategy
 file_dpath: Tactician/9th-Level Features
 item_id: counterstrategy-11-focus
 item_index: '01'

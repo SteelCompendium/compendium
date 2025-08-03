@@ -1,4 +1,5 @@
 ---
+file_basename: Psi Blade
 file_dpath: Treasures/Trinkets/4th Echelon Trinkets
 item_id: psi-blade
 item_index: '01'

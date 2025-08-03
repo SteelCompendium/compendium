@@ -1,4 +1,5 @@
 ---
+file_basename: Intrigue Skills
 file_dpath: Skills
 item_id: intrigue-skills
 item_index: '03'

@@ -1,12 +1,13 @@
 ---
+file_basename: Walk
 file_dpath: Movement
 item_id: walk
-item_index: '18'
+item_index: '19'
 item_name: Walk
 scc:
   - mcdm.heroes.v1:movement:walk
 scdc:
-  - 1.1.1:10:18
+  - 1.1.1:10:19
 source: mcdm.heroes.v1
 type: movement
 ---

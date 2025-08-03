@@ -1,5 +1,6 @@
 ---
 class: combat
+file_basename: Charge
 file_dpath: Abilities/Common/Main Actions
 item_id: charge
 item_index: '03'

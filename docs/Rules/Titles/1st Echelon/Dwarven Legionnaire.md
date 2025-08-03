@@ -1,4 +1,5 @@
 ---
+file_basename: Dwarven Legionnaire
 file_dpath: Titles/1st Echelon
 item_id: dwarven-legionnaire
 item_index: '16'

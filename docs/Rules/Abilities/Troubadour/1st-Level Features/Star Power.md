@@ -4,6 +4,7 @@ cost: 1 Drama
 cost_amount: 1
 cost_resource: Drama
 feature_type: ability
+file_basename: Star Power
 file_dpath: Troubadour/1st-Level Features
 item_id: star-power-1-drama
 item_index: 09

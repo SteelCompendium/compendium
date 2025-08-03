@@ -1,15 +1,16 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: Commanding Presence
 file_dpath: Tactician/1st-Level Features
 item_id: commanding-presence
-item_index: '14'
+item_index: '13'
 item_name: Commanding Presence
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:commanding-presence
 scdc:
-  - 1.1.1:13.1.4.1:14
+  - 1.1.1:13.1.4.1:13
 source: mcdm.heroes.v1
 type: feature/trait/tactician/1st-level-feature
 ---

@@ -1,4 +1,5 @@
 ---
+file_basename: Wellness Tonic
 file_dpath: Treasures/Consumables/3rd Echelon Consumables
 item_id: wellness-tonic
 item_index: '04'

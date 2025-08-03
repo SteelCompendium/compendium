@@ -14,5 +14,5 @@ type: index
 | [Perk](../Perk)                                       |          | 8     | trait        |
 | [Power Ballad](../Power%20Ballad)                     | 11 Drama | 8     | ability      |
 | [Radical Fantasia](../Radical%20Fantasia)             |          | 8     | trait        |
-| [Saved In The Edit](../Saved%20In%20The%20Edit)       | 11 Drama | 8     | ability      |
+| [Saved in the Edit](../Saved%20in%20the%20Edit)       | 11 Drama | 8     | ability      |
 | [The Show Must Go On](../The%20Show%20Must%20Go%20On) | 11 Drama | 8     | ability      |

@@ -1,4 +1,5 @@
 ---
+file_basename: Stygian Liquor
 file_dpath: Treasures/Consumables/3rd Echelon Consumables
 item_id: stygian-liquor
 item_index: 08

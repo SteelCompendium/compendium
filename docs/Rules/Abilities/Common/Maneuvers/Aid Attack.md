@@ -1,5 +1,6 @@
 ---
 class: combat
+file_basename: Aid Attack
 file_dpath: Abilities/Common/Maneuvers
 item_id: aid-attack
 item_index: '06'

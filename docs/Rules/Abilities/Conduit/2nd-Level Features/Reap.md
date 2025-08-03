@@ -4,15 +4,16 @@ cost: 5 Piety
 cost_amount: 5
 cost_resource: Piety
 feature_type: ability
+file_basename: Reap
 file_dpath: Conduit/2nd-Level Features
 item_id: reap-5-piety
-item_index: '11'
+item_index: '10'
 item_name: Reap (5 Piety)
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:reap-5-piety
 scdc:
-  - 1.1.1:13.2.8.5:11
+  - 1.1.1:13.2.8.5:10
 source: mcdm.heroes.v1
 type: feature/ability/conduit/2nd-level-feature
 ---

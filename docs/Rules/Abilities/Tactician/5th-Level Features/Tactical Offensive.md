@@ -1,6 +1,7 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: Tactical Offensive
 file_dpath: Tactician/5th-Level Features
 item_id: tactical-offensive
 item_index: '03'

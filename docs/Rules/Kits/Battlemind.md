@@ -1,12 +1,13 @@
 ---
+file_basename: Battlemind
 file_dpath: Kits
 item_id: battlemind
-item_index: '06'
+item_index: 09
 item_name: Battlemind
 scc:
   - mcdm.heroes.v1:kit:battlemind
 scdc:
-  - 1.1.1:8:06
+  - 1.1.1:8:09
 source: mcdm.heroes.v1
 type: kit
 ---

@@ -1,15 +1,16 @@
 ---
 class: censor
 feature_type: trait
+file_basename: It Was Foretold
 file_dpath: Censor/2nd-Level Features
 item_id: it-was-foretold
-item_index: '02'
+item_index: '01'
 item_name: It Was Foretold
 level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:it-was-foretold
 scdc:
-  - 1.1.1:13.1.7.6:02
+  - 1.1.1:13.1.7.6:01
 source: mcdm.heroes.v1
 type: feature/trait/censor/2nd-level-feature
 ---

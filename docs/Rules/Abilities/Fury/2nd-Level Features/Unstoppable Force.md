@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Unstoppable Force
 file_dpath: Fury/2nd-Level Features
 item_id: unstoppable-force
 item_index: '02'

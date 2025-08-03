@@ -1,12 +1,13 @@
 ---
+file_basename: Steeltongue
 file_dpath: Treasures/Leveled Treasures/Leveled Weapon Treasures
 item_id: steeltongue
-item_index: '10'
+item_index: '11'
 item_name: Steeltongue
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:steeltongue
 scdc:
-  - 1.1.1:12.3.1:10
+  - 1.1.1:12.3.1:11
 source: mcdm.heroes.v1
 type: treasure/leveled/weapon
 ---

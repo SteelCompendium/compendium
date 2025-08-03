@@ -1,4 +1,5 @@
 ---
+file_basename: Pugilist
 file_dpath: Kits
 item_id: pugilist
 item_index: '22'

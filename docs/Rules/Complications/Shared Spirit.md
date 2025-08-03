@@ -1,12 +1,13 @@
 ---
+file_basename: Shared Spirit
 file_dpath: Complications
 item_id: shared-spirit
-item_index: '10'
+item_index: '13'
 item_name: Shared Spirit
 scc:
   - mcdm.heroes.v1:complication:shared-spirit
 scdc:
-  - 1.1.1:6:10
+  - 1.1.1:6:13
 source: mcdm.heroes.v1
 type: complication
 ---

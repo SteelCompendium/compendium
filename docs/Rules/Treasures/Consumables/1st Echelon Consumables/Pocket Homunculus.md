@@ -1,12 +1,13 @@
 ---
+file_basename: Pocket Homunculus
 file_dpath: Treasures/Consumables/1st Echelon Consumables
 item_id: pocket-homunculus
-item_index: '05'
+item_index: '06'
 item_name: Pocket Homunculus
 scc:
   - mcdm.heroes.v1:treasure.consumable.1st-echelon:pocket-homunculus
 scdc:
-  - 1.1.1:12.2.1:05
+  - 1.1.1:12.2.1:06
 source: mcdm.heroes.v1
 type: treasure/consumable/1st-echelon
 ---

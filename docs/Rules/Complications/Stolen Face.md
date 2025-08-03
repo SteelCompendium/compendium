@@ -1,12 +1,13 @@
 ---
+file_basename: Stolen Face
 file_dpath: Complications
 item_id: stolen-face
-item_index: '05'
+item_index: '07'
 item_name: Stolen Face
 scc:
   - mcdm.heroes.v1:complication:stolen-face
 scdc:
-  - 1.1.1:6:05
+  - 1.1.1:6:07
 source: mcdm.heroes.v1
 type: complication
 ---

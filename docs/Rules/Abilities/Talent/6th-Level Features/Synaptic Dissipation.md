@@ -4,6 +4,7 @@ cost: 9 Clarity
 cost_amount: 9
 cost_resource: Clarity
 feature_type: ability
+file_basename: Synaptic Dissipation
 file_dpath: Talent/6th-Level Features
 item_id: synaptic-dissipation-9-clarity
 item_index: '02'

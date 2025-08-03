@@ -1,15 +1,16 @@
 ---
 class: conduit
 feature_type: trait
+file_basename: Inspired Deception
 file_dpath: Conduit/1st-Level Features
 item_id: inspired-deception
-item_index: '04'
+item_index: '05'
 item_name: Inspired Deception
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:inspired-deception
 scdc:
-  - 1.1.1:13.1.8.1:04
+  - 1.1.1:13.1.8.1:05
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

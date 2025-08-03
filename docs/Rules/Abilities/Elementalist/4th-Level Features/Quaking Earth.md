@@ -1,6 +1,7 @@
 ---
 class: elementalist
 feature_type: trait
+file_basename: Quaking Earth
 file_dpath: Elementalist/4th-Level Features
 item_id: quaking-earth
 item_index: '01'

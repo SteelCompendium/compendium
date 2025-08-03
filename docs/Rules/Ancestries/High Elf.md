@@ -1,4 +1,5 @@
 ---
+file_basename: High Elf
 file_dpath: Ancestries
 item_id: high-elf
 item_index: '10'

@@ -4,6 +4,7 @@ cost: 7 Piety
 cost_amount: 7
 cost_resource: Piety
 feature_type: ability
+file_basename: Soul Siphon
 file_dpath: Conduit/3rd-Level Features
 item_id: soul-siphon-7-piety
 item_index: '01'

@@ -1,12 +1,13 @@
 ---
+file_basename: Fly
 file_dpath: Movement
 item_id: fly
-item_index: '15'
+item_index: '14'
 item_name: Fly
 scc:
   - mcdm.heroes.v1:movement:fly
 scdc:
-  - 1.1.1:10:15
+  - 1.1.1:10:14
 source: mcdm.heroes.v1
 type: movement
 ---

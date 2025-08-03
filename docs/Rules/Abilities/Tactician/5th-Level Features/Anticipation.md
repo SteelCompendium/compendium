@@ -1,6 +1,7 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: Anticipation
 file_dpath: Tactician/5th-Level Features
 item_id: anticipation
 item_index: '02'

@@ -1,12 +1,13 @@
 ---
+file_basename: Exile
 file_dpath: Complications
 item_id: exile
-item_index: '21'
+item_index: '23'
 item_name: Exile
 scc:
   - mcdm.heroes.v1:complication:exile
 scdc:
-  - 1.1.1:6:21
+  - 1.1.1:6:23
 source: mcdm.heroes.v1
 type: complication
 ---

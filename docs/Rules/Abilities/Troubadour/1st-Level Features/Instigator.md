@@ -1,6 +1,7 @@
 ---
 class: troubadour
 feature_type: trait
+file_basename: Instigator
 file_dpath: Troubadour/1st-Level Features
 item_id: instigator
 item_index: '20'

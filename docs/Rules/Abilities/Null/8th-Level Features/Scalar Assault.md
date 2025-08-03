@@ -4,6 +4,7 @@ cost: 11 Discipline
 cost_amount: 11
 cost_resource: Discipline
 feature_type: ability
+file_basename: Scalar Assault
 file_dpath: Null/8th-Level Features
 item_id: scalar-assault-11-discipline
 item_index: '02'

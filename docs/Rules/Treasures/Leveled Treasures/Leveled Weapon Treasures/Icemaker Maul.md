@@ -1,12 +1,13 @@
 ---
+file_basename: Icemaker Maul
 file_dpath: Treasures/Leveled Treasures/Leveled Weapon Treasures
 item_id: icemaker-maul
-item_index: '01'
+item_index: '02'
 item_name: Icemaker Maul
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:icemaker-maul
 scdc:
-  - 1.1.1:12.3.1:01
+  - 1.1.1:12.3.1:02
 source: mcdm.heroes.v1
 type: treasure/leveled/weapon
 ---

@@ -1,15 +1,16 @@
 ---
 class: troubadour
 feature_type: trait
+file_basename: Medley
 file_dpath: Troubadour/5th-Level Features
 item_id: medley
-item_index: '04'
+item_index: '03'
 item_name: Medley
 level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.5th-level-feature:medley
 scdc:
-  - 1.1.1:13.1.3.5:04
+  - 1.1.1:13.1.3.5:03
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/5th-level-feature
 ---

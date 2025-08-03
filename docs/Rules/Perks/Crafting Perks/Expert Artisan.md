@@ -1,4 +1,5 @@
 ---
+file_basename: Expert Artisan
 file_dpath: Perks/Crafting Perks
 item_id: expert-artisan
 item_index: '02'

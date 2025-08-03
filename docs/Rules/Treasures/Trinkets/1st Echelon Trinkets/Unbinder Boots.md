@@ -1,4 +1,5 @@
 ---
+file_basename: Unbinder Boots
 file_dpath: Treasures/Trinkets/1st Echelon Trinkets
 item_id: unbinder-boots
 item_index: '05'

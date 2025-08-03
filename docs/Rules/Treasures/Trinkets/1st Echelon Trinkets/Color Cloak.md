@@ -1,4 +1,5 @@
 ---
+file_basename: Color Cloak
 file_dpath: Treasures/Trinkets/1st Echelon Trinkets
 item_id: color-cloak-yellow
 item_index: '10'

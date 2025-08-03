@@ -1,6 +1,7 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: Infiltration Tactics
 file_dpath: Tactician/2nd-Level Features
 item_id: infiltration-tactics
 item_index: '03'

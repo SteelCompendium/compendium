@@ -4,6 +4,7 @@ cost: 9 Insight
 cost_amount: 9
 cost_resource: Insight
 feature_type: ability
+file_basename: Blackout
 file_dpath: Shadow/5th-Level Features
 item_id: blackout-9-insight
 item_index: '04'

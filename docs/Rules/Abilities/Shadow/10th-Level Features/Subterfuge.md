@@ -1,6 +1,7 @@
 ---
 class: shadow
 feature_type: trait
+file_basename: Subterfuge
 file_dpath: Shadow/10th-Level Features
 item_id: subterfuge
 item_index: '02'

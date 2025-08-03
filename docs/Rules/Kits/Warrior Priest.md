@@ -1,12 +1,13 @@
 ---
+file_basename: Warrior Priest
 file_dpath: Kits
 item_id: warrior-priest
-item_index: '07'
+item_index: '10'
 item_name: Warrior Priest
 scc:
   - mcdm.heroes.v1:kit:warrior-priest
 scdc:
-  - 1.1.1:8:07
+  - 1.1.1:8:10
 source: mcdm.heroes.v1
 type: kit
 ---

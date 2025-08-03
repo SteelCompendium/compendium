@@ -1,6 +1,7 @@
 ---
 class: troubadour
 feature_type: trait
+file_basename: Radical Fantasia
 file_dpath: Troubadour/8th-Level Features
 item_id: radical-fantasia
 item_index: '03'

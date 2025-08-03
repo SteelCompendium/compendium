@@ -4,6 +4,7 @@ cost: 9 Essence
 cost_amount: 9
 cost_resource: Essence
 feature_type: ability
+file_basename: Meteor
 file_dpath: Elementalist/6th-Level Features
 item_id: meteor-9-essence
 item_index: '01'

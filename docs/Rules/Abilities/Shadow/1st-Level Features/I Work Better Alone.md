@@ -1,6 +1,7 @@
 ---
 class: shadow
 feature_type: trait
+file_basename: I Work Better Alone
 file_dpath: Shadow/1st-Level Features
 item_id: i-work-better-alone
 item_index: '07'

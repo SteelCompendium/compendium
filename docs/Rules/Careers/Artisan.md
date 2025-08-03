@@ -1,4 +1,5 @@
 ---
+file_basename: Artisan
 file_dpath: Careers
 item_id: artisan
 item_index: 08

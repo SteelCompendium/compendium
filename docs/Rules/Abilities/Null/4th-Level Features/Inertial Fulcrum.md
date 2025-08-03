@@ -1,6 +1,7 @@
 ---
 class: 'null'
 feature_type: trait
+file_basename: Inertial Fulcrum
 file_dpath: Null/4th-Level Features
 item_id: inertial-fulcrum
 item_index: '02'

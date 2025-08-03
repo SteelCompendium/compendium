@@ -4,15 +4,16 @@ cost: 9 Wrath
 cost_amount: 9
 cost_resource: Wrath
 feature_type: ability
+file_basename: Congregation
 file_dpath: Censor/6th-Level Features
 item_id: congregation-9-wrath
-item_index: '05'
+item_index: '04'
 item_name: Congregation (9 Wrath)
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.censor.6th-level-feature:congregation-9-wrath
 scdc:
-  - 1.1.1:13.2.7.3:05
+  - 1.1.1:13.2.7.3:04
 source: mcdm.heroes.v1
 type: feature/ability/censor/6th-level-feature
 ---

@@ -1,12 +1,13 @@
 ---
+file_basename: Expert Sage
 file_dpath: Perks/Lore Perks
 item_id: expert-sage
-item_index: '05'
+item_index: '06'
 item_name: Expert Sage
 scc:
   - mcdm.heroes.v1:perk.lore:expert-sage
 scdc:
-  - 1.1.1:17.2:05
+  - 1.1.1:17.2:06
 source: mcdm.heroes.v1
 type: perk/lore
 ---

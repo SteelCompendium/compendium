@@ -1,5 +1,6 @@
 ---
 class: combat
+file_basename: Advance
 file_dpath: Abilities/Common/Move Actions
 item_id: advance
 item_index: '02'

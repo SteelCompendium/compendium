@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Vanishing Ward
 file_dpath: Talent/1st-Level Features
 item_id: vanishing-ward
 item_index: '07'

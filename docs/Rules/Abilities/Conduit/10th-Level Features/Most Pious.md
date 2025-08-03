@@ -1,6 +1,7 @@
 ---
 class: conduit
 feature_type: trait
+file_basename: Most Pious
 file_dpath: Conduit/10th-Level Features
 item_id: most-pious
 item_index: '05'

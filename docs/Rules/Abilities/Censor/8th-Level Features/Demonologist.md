@@ -1,6 +1,7 @@
 ---
 class: censor
 feature_type: trait
+file_basename: Demonologist
 file_dpath: Censor/8th-Level Features
 item_id: demonologist
 item_index: '02'

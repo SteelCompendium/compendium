@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Triangulate
 file_dpath: Talent/5th-Level Features
 item_id: triangulate
 item_index: '05'

@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Unfettered
 file_dpath: Fury/5th-Level Features
 item_id: unfettered
 item_index: '03'

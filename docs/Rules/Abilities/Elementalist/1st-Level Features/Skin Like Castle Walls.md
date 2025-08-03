@@ -1,15 +1,16 @@
 ---
 class: elementalist
 feature_type: trait
+file_basename: Skin Like Castle Walls
 file_dpath: Elementalist/1st-Level Features
 item_id: skin-like-castle-walls
-item_index: '14'
+item_index: '20'
 item_name: Skin Like Castle Walls
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:skin-like-castle-walls
 scdc:
-  - 1.1.1:13.1.9.1:14
+  - 1.1.1:13.1.9.1:20
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

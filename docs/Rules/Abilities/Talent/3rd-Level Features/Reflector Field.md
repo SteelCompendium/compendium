@@ -4,6 +4,7 @@ cost: 7 Clarity
 cost_amount: 7
 cost_resource: Clarity
 feature_type: ability
+file_basename: Reflector Field
 file_dpath: Talent/3rd-Level Features
 item_id: reflector-field-7-clarity
 item_index: '04'

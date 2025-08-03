@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Low Gravity
 file_dpath: Talent/8th-Level Features
 item_id: low-gravity
 item_index: '05'

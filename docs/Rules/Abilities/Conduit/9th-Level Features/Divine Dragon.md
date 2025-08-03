@@ -4,6 +4,7 @@ cost: 11 Piety
 cost_amount: 11
 cost_resource: Piety
 feature_type: ability
+file_basename: Divine Dragon
 file_dpath: Conduit/9th-Level Features
 item_id: divine-dragon-11-piety
 item_index: '12'

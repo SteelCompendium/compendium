@@ -1,4 +1,5 @@
 ---
+file_basename: Fury
 file_dpath: Classes
 item_id: fury
 item_index: '01'

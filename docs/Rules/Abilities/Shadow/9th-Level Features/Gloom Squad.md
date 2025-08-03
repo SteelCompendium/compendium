@@ -1,6 +1,7 @@
 ---
 class: shadow
 feature_type: trait
+file_basename: Gloom Squad
 file_dpath: Shadow/9th-Level Features
 item_id: gloom-squad
 item_index: '01'

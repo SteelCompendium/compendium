@@ -4,6 +4,7 @@ cost: 5 Wrath
 cost_amount: 5
 cost_resource: Wrath
 feature_type: ability
+file_basename: Arrest
 file_dpath: Censor/1st-Level Features
 item_id: arrest-5-wrath
 item_index: '03'

@@ -1,4 +1,5 @@
 ---
+file_basename: Team Leader
 file_dpath: Perks/Exploration Perks
 item_id: team-leader
 item_index: '05'

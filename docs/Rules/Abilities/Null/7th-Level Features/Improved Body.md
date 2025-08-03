@@ -1,6 +1,7 @@
 ---
 class: 'null'
 feature_type: trait
+file_basename: Improved Body
 file_dpath: Null/7th-Level Features
 item_id: improved-body
 item_index: '04'

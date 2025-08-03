@@ -1,12 +1,13 @@
 ---
+file_basename: Greening
 file_dpath: Complications
 item_id: greening
-item_index: '73'
+item_index: '74'
 item_name: Greening
 scc:
   - mcdm.heroes.v1:complication:greening
 scdc:
-  - 1.1.1:6:73
+  - 1.1.1:6:74
 source: mcdm.heroes.v1
 type: complication
 ---

@@ -1,5 +1,6 @@
 ---
 class: combat
+file_basename: Defend
 file_dpath: Abilities/Common/Main Actions
 item_id: defend
 item_index: '01'

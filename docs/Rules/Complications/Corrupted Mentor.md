@@ -1,12 +1,13 @@
 ---
+file_basename: Corrupted Mentor
 file_dpath: Complications
 item_id: corrupted-mentor
-item_index: '97'
+item_index: '98'
 item_name: Corrupted Mentor
 scc:
   - mcdm.heroes.v1:complication:corrupted-mentor
 scdc:
-  - 1.1.1:6:97
+  - 1.1.1:6:98
 source: mcdm.heroes.v1
 type: complication
 ---

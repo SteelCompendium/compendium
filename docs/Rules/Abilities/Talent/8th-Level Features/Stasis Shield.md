@@ -4,6 +4,7 @@ cost: 3 Clarity
 cost_amount: 3
 cost_resource: Clarity
 feature_type: ability
+file_basename: Stasis Shield
 file_dpath: Talent/8th-Level Features
 item_id: stasis-shield-3-clarity
 item_index: '01'

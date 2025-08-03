@@ -4,6 +4,7 @@ cost: 9 Drama
 cost_amount: 9
 cost_resource: Drama
 feature_type: ability
+file_basename: Feedback
 file_dpath: Troubadour/6th-Level Features
 item_id: feedback-9-drama
 item_index: '01'

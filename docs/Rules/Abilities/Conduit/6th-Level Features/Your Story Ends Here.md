@@ -4,6 +4,7 @@ cost: 9 Piety
 cost_amount: 9
 cost_resource: Piety
 feature_type: ability
+file_basename: Your Story Ends Here
 file_dpath: Conduit/6th-Level Features
 item_id: your-story-ends-here-9-piety
 item_index: 09

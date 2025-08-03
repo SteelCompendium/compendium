@@ -4,15 +4,16 @@ cost: 9 Piety
 cost_amount: 9
 cost_resource: Piety
 feature_type: ability
+file_basename: Penance
 file_dpath: Conduit/5th-Level Features
 item_id: penance-9-piety
-item_index: '02'
+item_index: '01'
 item_name: Penance (9 Piety)
 level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.5th-level-feature:penance-9-piety
 scdc:
-  - 1.1.1:13.2.8.4:02
+  - 1.1.1:13.2.8.4:01
 source: mcdm.heroes.v1
 type: feature/ability/conduit/5th-level-feature
 ---

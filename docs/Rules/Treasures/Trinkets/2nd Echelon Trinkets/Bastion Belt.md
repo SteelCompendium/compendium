@@ -1,12 +1,13 @@
 ---
+file_basename: Bastion Belt
 file_dpath: Treasures/Trinkets/2nd Echelon Trinkets
 item_id: bastion-belt
-item_index: '05'
+item_index: '07'
 item_name: Bastion Belt
 scc:
   - mcdm.heroes.v1:treasure.trinkets.2nd-echelon:bastion-belt
 scdc:
-  - 1.1.1:12.4.2:05
+  - 1.1.1:12.4.2:07
 source: mcdm.heroes.v1
 type: treasure/trinkets/2nd-echelon
 ---

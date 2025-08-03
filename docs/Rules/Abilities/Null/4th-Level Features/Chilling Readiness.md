@@ -1,6 +1,7 @@
 ---
 class: 'null'
 feature_type: trait
+file_basename: Chilling Readiness
 file_dpath: Null/4th-Level Features
 item_id: chilling-readiness
 item_index: '01'

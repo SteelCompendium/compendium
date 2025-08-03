@@ -1,12 +1,13 @@
 ---
+file_basename: Maestro
 file_dpath: Titles/3rd Echelon
 item_id: maestro
-item_index: '06'
+item_index: '05'
 item_name: Maestro
 scc:
   - mcdm.heroes.v1:title.3rd-echelon:maestro
 scdc:
-  - 1.1.1:15.2:06
+  - 1.1.1:15.2:05
 source: mcdm.heroes.v1
 type: title/3rd-echelon
 ---

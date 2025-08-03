@@ -1,6 +1,7 @@
 ---
 class: shadow
 feature_type: trait
+file_basename: Night Watch
 file_dpath: Shadow/4th-Level Features
 item_id: night-watch
 item_index: '06'

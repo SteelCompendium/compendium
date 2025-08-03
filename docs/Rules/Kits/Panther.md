@@ -1,12 +1,13 @@
 ---
+file_basename: Panther
 file_dpath: Kits
 item_id: panther
-item_index: '20'
+item_index: '19'
 item_name: Panther
 scc:
   - mcdm.heroes.v1:kit:panther
 scdc:
-  - 1.1.1:8:20
+  - 1.1.1:8:19
 source: mcdm.heroes.v1
 type: kit
 ---

@@ -1,6 +1,7 @@
 ---
 class: elementalist
 feature_type: trait
+file_basename: Earth Accepts Me
 file_dpath: Elementalist/3rd-Level Features
 item_id: earth-accepts-me
 item_index: '03'

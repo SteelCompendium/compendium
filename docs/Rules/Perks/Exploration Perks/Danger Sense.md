@@ -1,12 +1,13 @@
 ---
+file_basename: Danger Sense
 file_dpath: Perks/Exploration Perks
 item_id: danger-sense
-item_index: '07'
+item_index: 08
 item_name: Danger Sense
 scc:
   - mcdm.heroes.v1:perk.exploration:danger-sense
 scdc:
-  - 1.1.1:17.3:07
+  - 1.1.1:17.3:08
 source: mcdm.heroes.v1
 type: perk/exploration
 ---

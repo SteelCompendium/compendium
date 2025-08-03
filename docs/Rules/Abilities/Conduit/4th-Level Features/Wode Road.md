@@ -1,6 +1,7 @@
 ---
 class: conduit
 feature_type: trait
+file_basename: Wode Road
 file_dpath: Conduit/4th-Level Features
 item_id: wode-road
 item_index: '03'

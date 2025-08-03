@@ -1,4 +1,5 @@
 ---
+file_basename: Rural
 file_dpath: Cultures/Environments
 item_id: rural
 item_index: '02'

@@ -1,15 +1,16 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Mighty Leaps
 file_dpath: Fury/1st-Level Features
 item_id: mighty-leaps
-item_index: '12'
+item_index: 09
 item_name: Mighty Leaps
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.fury.1st-level-feature:mighty-leaps
 scdc:
-  - 1.1.1:13.1.5.1:12
+  - 1.1.1:13.1.5.1:09
 source: mcdm.heroes.v1
 type: feature/trait/fury/1st-level-feature
 ---

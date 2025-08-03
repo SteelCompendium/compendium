@@ -4,6 +4,7 @@ cost: 9 Focus
 cost_amount: 9
 cost_resource: Focus
 feature_type: ability
+file_basename: Instant Retaliation
 file_dpath: Tactician/6th-Level Features
 item_id: instant-retaliation-9-focus
 item_index: '05'

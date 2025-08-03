@@ -1,15 +1,16 @@
 ---
 class: elementalist
 feature_type: trait
+file_basename: Characteristic Increase
 file_dpath: Elementalist/10th-Level Features
 item_id: characteristic-increase
-item_index: '06'
+item_index: '07'
 item_name: Characteristic Increase
 level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:characteristic-increase
 scdc:
-  - 1.1.1:13.1.9.4:06
+  - 1.1.1:13.1.9.4:07
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/10th-level-feature
 ---

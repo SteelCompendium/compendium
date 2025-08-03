@@ -1,4 +1,5 @@
 ---
+file_basename: Lucky Dog
 file_dpath: Perks/Intrigue Perks
 item_id: lucky-dog
 item_index: '01'

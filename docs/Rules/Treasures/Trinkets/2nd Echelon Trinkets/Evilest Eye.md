@@ -1,12 +1,13 @@
 ---
+file_basename: Evilest Eye
 file_dpath: Treasures/Trinkets/2nd Echelon Trinkets
 item_id: evilest-eye
-item_index: '03'
+item_index: '04'
 item_name: Evilest Eye
 scc:
   - mcdm.heroes.v1:treasure.trinkets.2nd-echelon:evilest-eye
 scdc:
-  - 1.1.1:12.4.2:03
+  - 1.1.1:12.4.2:04
 source: mcdm.heroes.v1
 type: treasure/trinkets/2nd-echelon
 ---

@@ -4,15 +4,16 @@ cost: 9 Ferocity
 cost_amount: 9
 cost_resource: Ferocity
 feature_type: ability
+file_basename: Debilitating Strike
 file_dpath: Fury/5th-Level Features
 item_id: debilitating-strike-9-ferocity
-item_index: '02'
+item_index: '01'
 item_name: Debilitating Strike (9 Ferocity)
 level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.fury.5th-level-feature:debilitating-strike-9-ferocity
 scdc:
-  - 1.1.1:13.2.5.4:02
+  - 1.1.1:13.2.5.4:01
 source: mcdm.heroes.v1
 type: feature/ability/fury/5th-level-feature
 ---

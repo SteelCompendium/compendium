@@ -1,12 +1,13 @@
 ---
+file_basename: Wrongly Imprisoned
 file_dpath: Complications
 item_id: wrongly-imprisoned
-item_index: '64'
+item_index: '67'
 item_name: Wrongly Imprisoned
 scc:
   - mcdm.heroes.v1:complication:wrongly-imprisoned
 scdc:
-  - 1.1.1:6:64
+  - 1.1.1:6:67
 source: mcdm.heroes.v1
 type: complication
 ---

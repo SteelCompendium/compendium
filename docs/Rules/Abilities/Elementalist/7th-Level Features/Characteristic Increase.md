@@ -1,6 +1,7 @@
 ---
 class: elementalist
 feature_type: trait
+file_basename: Characteristic Increase
 file_dpath: Elementalist/7th-Level Features
 item_id: characteristic-increase
 item_index: '03'

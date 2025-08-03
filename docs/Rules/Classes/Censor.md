@@ -1,4 +1,5 @@
 ---
+file_basename: Censor
 file_dpath: Classes
 item_id: censor
 item_index: '07'

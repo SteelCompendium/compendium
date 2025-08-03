@@ -13,11 +13,11 @@ type: index
 | [Combat](../Combat)                           |
 | [Complications](../Complications)             |
 | [Downtime Projects](../Downtime%20Projects)   |
-| [For The Director](../For%20The%20Director)   |
-| [Gods And Religion](../Gods%20And%20Religion) |
+| [For the Director](../For%20the%20Director)   |
+| [Gods and Religion](../Gods%20and%20Religion) |
 | [Introduction](../Introduction)               |
 | [Kits](../Kits)                               |
-| [Making A Hero](../Making%20A%20Hero)         |
+| [Making a Hero](../Making%20a%20Hero)         |
 | [Negotiation](../Negotiation)                 |
 | [Perks](../Perks)                             |
 | [Rewards](../Rewards)                         |

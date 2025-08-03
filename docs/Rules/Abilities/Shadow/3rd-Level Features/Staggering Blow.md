@@ -4,6 +4,7 @@ cost: 7 Insight
 cost_amount: 7
 cost_resource: Insight
 feature_type: ability
+file_basename: Staggering Blow
 file_dpath: Shadow/3rd-Level Features
 item_id: staggering-blow-7-insight
 item_index: '01'

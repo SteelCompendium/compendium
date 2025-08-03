@@ -1,5 +1,6 @@
 ---
 chapter_num: 9
+file_basename: Tests
 file_dpath: Chapters
 item_id: tests
 item_index: '14'

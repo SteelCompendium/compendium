@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Ancestral Memory
 file_dpath: Talent/7th-Level Features
 item_id: ancestral-memory
 item_index: '05'

@@ -1,5 +1,6 @@
 ---
 class: combat
+file_basename: Free Strike
 file_dpath: Abilities/Common/Main Actions
 item_id: free-strike
 item_index: '04'

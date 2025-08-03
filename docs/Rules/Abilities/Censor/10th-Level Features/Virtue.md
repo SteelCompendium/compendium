@@ -1,6 +1,7 @@
 ---
 class: censor
 feature_type: trait
+file_basename: Virtue
 file_dpath: Censor/10th-Level Features
 item_id: virtue
 item_index: '04'

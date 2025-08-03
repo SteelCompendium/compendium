@@ -1,6 +1,7 @@
 ---
 class: censor
 feature_type: trait
+file_basename: Templar
 file_dpath: Censor/10th-Level Features
 item_id: templar
 item_index: '06'

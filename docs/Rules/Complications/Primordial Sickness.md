@@ -1,12 +1,13 @@
 ---
+file_basename: Primordial Sickness
 file_dpath: Complications
 item_id: primordial-sickness
-item_index: '35'
+item_index: '34'
 item_name: Primordial Sickness
 scc:
   - mcdm.heroes.v1:complication:primordial-sickness
 scdc:
-  - 1.1.1:6:35
+  - 1.1.1:6:34
 source: mcdm.heroes.v1
 type: complication
 ---

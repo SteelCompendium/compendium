@@ -1,12 +1,13 @@
 ---
+file_basename: Dragon Dreams
 file_dpath: Complications
 item_id: dragon-dreams
-item_index: '03'
+item_index: '05'
 item_name: Dragon Dreams
 scc:
   - mcdm.heroes.v1:complication:dragon-dreams
 scdc:
-  - 1.1.1:6:03
+  - 1.1.1:6:05
 source: mcdm.heroes.v1
 type: complication
 ---

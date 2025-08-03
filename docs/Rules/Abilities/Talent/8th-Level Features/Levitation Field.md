@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Levitation Field
 file_dpath: Talent/8th-Level Features
 item_id: levitation-field
 item_index: '04'

@@ -4,6 +4,7 @@ cost: 9 Insight
 cost_amount: 9
 cost_resource: Insight
 feature_type: ability
+file_basename: One Vial Makes You Better
 file_dpath: Shadow/6th-Level Features
 item_id: one-vial-makes-you-better-9-insight
 item_index: '06'

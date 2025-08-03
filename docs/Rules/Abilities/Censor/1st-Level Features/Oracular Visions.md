@@ -1,15 +1,16 @@
 ---
 class: censor
 feature_type: trait
+file_basename: Oracular Visions
 file_dpath: Censor/1st-Level Features
 item_id: oracular-visions
-item_index: '21'
+item_index: '20'
 item_name: Oracular Visions
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:oracular-visions
 scdc:
-  - 1.1.1:13.1.7.1:21
+  - 1.1.1:13.1.7.1:20
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

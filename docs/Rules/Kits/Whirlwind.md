@@ -1,12 +1,13 @@
 ---
+file_basename: Whirlwind
 file_dpath: Kits
 item_id: whirlwind
-item_index: 08
+item_index: '11'
 item_name: Whirlwind
 scc:
   - mcdm.heroes.v1:kit:whirlwind
 scdc:
-  - 1.1.1:8:08
+  - 1.1.1:8:11
 source: mcdm.heroes.v1
 type: kit
 ---

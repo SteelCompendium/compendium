@@ -4,6 +4,7 @@ cost: 11 Ferocity
 cost_amount: 11
 cost_resource: Ferocity
 feature_type: ability
+file_basename: Death Rattle
 file_dpath: Fury/9th-Level Features
 item_id: death-rattle-11-ferocity
 item_index: '05'

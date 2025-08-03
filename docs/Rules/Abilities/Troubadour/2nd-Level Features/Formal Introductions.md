@@ -1,15 +1,16 @@
 ---
 class: troubadour
 feature_type: trait
+file_basename: Formal Introductions
 file_dpath: Troubadour/2nd-Level Features
 item_id: formal-introductions
-item_index: '05'
+item_index: '04'
 item_name: Formal Introductions
 level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.2nd-level-feature:formal-introductions
 scdc:
-  - 1.1.1:13.1.3.6:05
+  - 1.1.1:13.1.3.6:04
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/2nd-level-feature
 ---

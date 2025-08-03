@@ -1,4 +1,5 @@
 ---
+file_basename: Bull Shot
 file_dpath: Treasures/Consumables/2nd Echelon Consumables
 item_id: bull-shot
 item_index: 09

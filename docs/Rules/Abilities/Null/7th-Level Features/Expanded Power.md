@@ -4,6 +4,7 @@ cost: 3 Discipline
 cost_amount: 3
 cost_resource: Discipline
 feature_type: ability
+file_basename: Expanded Power
 file_dpath: Null/7th-Level Features
 item_id: expanded-power-3-discipline
 item_index: '01'

@@ -1,5 +1,6 @@
 ---
 class: combat
+file_basename: Use Consumable
 file_dpath: Abilities/Common/Maneuvers
 item_id: use-consumable
 item_index: '07'

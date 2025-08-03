@@ -1,6 +1,7 @@
 ---
 class: troubadour
 feature_type: trait
+file_basename: Masterwork
 file_dpath: Troubadour/8th-Level Features
 item_id: masterwork
 item_index: '01'

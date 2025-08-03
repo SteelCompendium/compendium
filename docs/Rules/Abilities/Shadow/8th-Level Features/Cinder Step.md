@@ -1,6 +1,7 @@
 ---
 class: shadow
 feature_type: trait
+file_basename: Cinder Step
 file_dpath: Shadow/8th-Level Features
 item_id: cinder-step
 item_index: '01'

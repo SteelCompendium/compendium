@@ -1,4 +1,5 @@
 ---
+file_basename: Growth Potion
 file_dpath: Treasures/Consumables/1st Echelon Consumables
 item_id: growth-potion
 item_index: 09

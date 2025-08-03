@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Remote Amplification
 file_dpath: Talent/5th-Level Features
 item_id: remote-amplification
 item_index: '01'

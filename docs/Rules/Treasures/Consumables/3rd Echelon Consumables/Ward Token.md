@@ -1,4 +1,5 @@
 ---
+file_basename: Ward Token
 file_dpath: Treasures/Consumables/3rd Echelon Consumables
 item_id: ward-token
 item_index: '05'

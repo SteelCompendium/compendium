@@ -1,6 +1,7 @@
 ---
 class: 'null'
 feature_type: trait
+file_basename: Shared Momentum
 file_dpath: Null/8th-Level Features
 item_id: shared-momentum
 item_index: '04'

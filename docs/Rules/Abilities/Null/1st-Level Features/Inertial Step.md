@@ -1,6 +1,7 @@
 ---
 class: 'null'
 feature_type: trait
+file_basename: Inertial Step
 file_dpath: Null/1st-Level Features
 item_id: inertial-step
 item_index: '15'

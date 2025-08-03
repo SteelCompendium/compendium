@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Menagerie
 file_dpath: Fury/8th-Level Features
 item_id: menagerie
 item_index: '01'

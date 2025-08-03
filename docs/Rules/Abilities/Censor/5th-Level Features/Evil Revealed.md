@@ -1,6 +1,7 @@
 ---
 class: censor
 feature_type: trait
+file_basename: Evil Revealed
 file_dpath: Censor/5th-Level Features
 item_id: evil-revealed
 item_index: '03'

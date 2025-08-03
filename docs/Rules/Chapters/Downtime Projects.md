@@ -1,13 +1,14 @@
 ---
 chapter_num: 12
+file_basename: Downtime Projects
 file_dpath: Chapters
 item_id: downtime-projects
-item_index: '03'
+item_index: '05'
 item_name: Downtime Projects
 scc:
   - mcdm.heroes.v1:chapter:downtime-projects
 scdc:
-  - 1.1.1:3:03
+  - 1.1.1:3:05
 source: mcdm.heroes.v1
 title: 'Chapter 12: Downtime Projects'
 type: chapter

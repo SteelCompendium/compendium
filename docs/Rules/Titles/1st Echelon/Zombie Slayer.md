@@ -1,12 +1,13 @@
 ---
+file_basename: Zombie Slayer
 file_dpath: Titles/1st Echelon
 item_id: zombie-slayer
-item_index: 09
+item_index: 08
 item_name: Zombie Slayer
 scc:
   - mcdm.heroes.v1:title.1st-echelon:zombie-slayer
 scdc:
-  - 1.1.1:15.4:09
+  - 1.1.1:15.4:08
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

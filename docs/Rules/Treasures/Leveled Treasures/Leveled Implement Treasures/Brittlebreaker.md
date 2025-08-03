@@ -1,12 +1,13 @@
 ---
+file_basename: Brittlebreaker
 file_dpath: Treasures/Leveled Treasures/Leveled Implement Treasures
 item_id: brittlebreaker
-item_index: '03'
+item_index: '02'
 item_name: Brittlebreaker
 scc:
   - mcdm.heroes.v1:treasure.leveled.implement:brittlebreaker
 scdc:
-  - 1.1.1:12.3.3:03
+  - 1.1.1:12.3.3:02
 source: mcdm.heroes.v1
 type: treasure/leveled/implement
 ---

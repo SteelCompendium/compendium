@@ -1,6 +1,7 @@
 ---
 class: elementalist
 feature_type: trait
+file_basename: Skill
 file_dpath: Elementalist/7th-Level Features
 item_id: skill
 item_index: '02'

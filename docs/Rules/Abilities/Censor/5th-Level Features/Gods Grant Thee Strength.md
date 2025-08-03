@@ -4,6 +4,7 @@ cost: 9 Wrath
 cost_amount: 9
 cost_resource: Wrath
 feature_type: ability
+file_basename: Gods Grant Thee Strength
 file_dpath: Censor/5th-Level Features
 item_id: gods-grant-thee-strength-9-wrath
 item_index: '04'

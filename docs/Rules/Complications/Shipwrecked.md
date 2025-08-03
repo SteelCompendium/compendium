@@ -1,12 +1,13 @@
 ---
+file_basename: Shipwrecked
 file_dpath: Complications
 item_id: shipwrecked
-item_index: '62'
+item_index: '66'
 item_name: Shipwrecked
 scc:
   - mcdm.heroes.v1:complication:shipwrecked
 scdc:
-  - 1.1.1:6:62
+  - 1.1.1:6:66
 source: mcdm.heroes.v1
 type: complication
 ---

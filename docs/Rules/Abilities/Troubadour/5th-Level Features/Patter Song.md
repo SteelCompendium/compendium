@@ -4,6 +4,7 @@ cost: 9 Drama
 cost_amount: 9
 cost_resource: Drama
 feature_type: ability
+file_basename: Patter Song
 file_dpath: Troubadour/5th-Level Features
 item_id: patter-song-9-drama
 item_index: '02'

@@ -4,6 +4,7 @@ cost: 11 Drama
 cost_amount: 11
 cost_resource: Drama
 feature_type: ability
+file_basename: Melt Their Faces
 file_dpath: Troubadour/9th-Level Features
 item_id: melt-their-faces-11-drama
 item_index: '04'

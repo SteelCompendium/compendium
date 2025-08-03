@@ -4,15 +4,16 @@ cost: 11 Clarity
 cost_amount: 11
 cost_resource: Clarity
 feature_type: ability
+file_basename: Resonant Mind Spike
 file_dpath: Talent/9th-Level Features
 item_id: resonant-mind-spike-11-clarity
-item_index: '05'
+item_index: '06'
 item_name: Resonant Mind Spike (11 Clarity)
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.talent.9th-level-feature:resonant-mind-spike-11-clarity
 scdc:
-  - 1.1.1:13.2.1.7:05
+  - 1.1.1:13.2.1.7:06
 source: mcdm.heroes.v1
 type: feature/ability/talent/9th-level-feature
 ---

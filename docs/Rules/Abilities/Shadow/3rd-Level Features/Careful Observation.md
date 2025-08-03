@@ -1,6 +1,7 @@
 ---
 class: shadow
 feature_type: trait
+file_basename: Careful Observation
 file_dpath: Shadow/3rd-Level Features
 item_id: careful-observation
 item_index: '01'

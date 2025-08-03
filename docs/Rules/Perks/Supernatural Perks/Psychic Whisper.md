@@ -1,4 +1,5 @@
 ---
+file_basename: Psychic Whisper
 file_dpath: Perks/Supernatural Perks
 item_id: psychic-whisper
 item_index: '06'

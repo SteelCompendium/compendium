@@ -1,6 +1,7 @@
 ---
 class: elementalist
 feature_type: trait
+file_basename: A Conversation With Fire
 file_dpath: Elementalist/3rd-Level Features
 item_id: a-conversation-with-fire
 item_index: '04'

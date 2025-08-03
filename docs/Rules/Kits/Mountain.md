@@ -1,12 +1,13 @@
 ---
+file_basename: Mountain
 file_dpath: Kits
 item_id: mountain
-item_index: '03'
+item_index: '05'
 item_name: Mountain
 scc:
   - mcdm.heroes.v1:kit:mountain
 scdc:
-  - 1.1.1:8:03
+  - 1.1.1:8:05
 source: mcdm.heroes.v1
 type: kit
 ---

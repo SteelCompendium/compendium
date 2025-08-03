@@ -1,6 +1,7 @@
 ---
 class: troubadour
 feature_type: trait
+file_basename: Foreshadowing
 file_dpath: Troubadour/4th-Level Features
 item_id: foreshadowing
 item_index: '01'

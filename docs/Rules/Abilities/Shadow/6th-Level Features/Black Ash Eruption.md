@@ -4,15 +4,16 @@ cost: 9 Insight
 cost_amount: 9
 cost_resource: Insight
 feature_type: ability
+file_basename: Black Ash Eruption
 file_dpath: Shadow/6th-Level Features
 item_id: black-ash-eruption-9-insight
-item_index: '02'
+item_index: '01'
 item_name: Black Ash Eruption (9 Insight)
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:black-ash-eruption-9-insight
 scdc:
-  - 1.1.1:13.2.2.3:02
+  - 1.1.1:13.2.2.3:01
 source: mcdm.heroes.v1
 type: feature/ability/shadow/6th-level-feature
 ---

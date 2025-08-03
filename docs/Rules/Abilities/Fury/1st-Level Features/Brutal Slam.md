@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Brutal Slam
 file_dpath: Fury/1st-Level Features
 item_id: brutal-slam
 item_index: '02'

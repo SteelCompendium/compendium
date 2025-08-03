@@ -1,6 +1,7 @@
 ---
 class: shadow
 feature_type: trait
+file_basename: Skill
 file_dpath: Shadow/7th-Level Features
 item_id: skill
 item_index: '01'

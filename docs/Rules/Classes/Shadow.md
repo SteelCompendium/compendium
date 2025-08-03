@@ -1,4 +1,5 @@
 ---
+file_basename: Shadow
 file_dpath: Classes
 item_id: shadow
 item_index: 09

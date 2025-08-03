@@ -1,4 +1,5 @@
 ---
+file_basename: Float Powder
 file_dpath: Treasures/Consumables/2nd Echelon Consumables
 item_id: float-powder
 item_index: '01'

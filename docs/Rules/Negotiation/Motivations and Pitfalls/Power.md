@@ -1,4 +1,5 @@
 ---
+file_basename: Power
 file_dpath: Negotiation/Motivations and Pitfalls
 item_id: power
 item_index: '02'

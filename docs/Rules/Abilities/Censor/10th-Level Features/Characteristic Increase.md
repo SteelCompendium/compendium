@@ -1,6 +1,7 @@
 ---
 class: censor
 feature_type: trait
+file_basename: Characteristic Increase
 file_dpath: Censor/10th-Level Features
 item_id: characteristic-increase
 item_index: '03'

@@ -4,15 +4,16 @@ cost: 11 Wrath
 cost_amount: 11
 cost_resource: Wrath
 feature_type: ability
+file_basename: Banish
 file_dpath: Censor/9th-Level Features
 item_id: banish-11-wrath
-item_index: '04'
+item_index: '05'
 item_name: Banish (11 Wrath)
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.censor.9th-level-feature:banish-11-wrath
 scdc:
-  - 1.1.1:13.2.7.7:04
+  - 1.1.1:13.2.7.7:05
 source: mcdm.heroes.v1
 type: feature/ability/censor/9th-level-feature
 ---

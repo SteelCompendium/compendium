@@ -1,4 +1,5 @@
 ---
+file_basename: Thingspeaker
 file_dpath: Perks/Supernatural Perks
 item_id: thingspeaker
 item_index: '01'

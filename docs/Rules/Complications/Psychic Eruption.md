@@ -1,12 +1,13 @@
 ---
+file_basename: Psychic Eruption
 file_dpath: Complications
 item_id: psychic-eruption
-item_index: '99'
+item_index: '100'
 item_name: Psychic Eruption
 scc:
   - mcdm.heroes.v1:complication:psychic-eruption
 scdc:
-  - 1.1.1:6:99
+  - 1.1.1:6:100
 source: mcdm.heroes.v1
 type: complication
 ---

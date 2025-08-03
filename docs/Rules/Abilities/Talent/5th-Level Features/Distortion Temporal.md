@@ -1,15 +1,16 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Distortion Temporal
 file_dpath: Talent/5th-Level Features
 item_id: distortion-temporal
-item_index: '02'
+item_index: '03'
 item_name: Distortion Temporal
 level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.talent.5th-level-feature:distortion-temporal
 scdc:
-  - 1.1.1:13.1.1.5:02
+  - 1.1.1:13.1.1.5:03
 source: mcdm.heroes.v1
 type: feature/trait/talent/5th-level-feature
 ---

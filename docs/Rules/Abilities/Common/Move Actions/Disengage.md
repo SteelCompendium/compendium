@@ -1,5 +1,6 @@
 ---
 class: combat
+file_basename: Disengage
 file_dpath: Abilities/Common/Move Actions
 item_id: disengage
 item_index: '01'

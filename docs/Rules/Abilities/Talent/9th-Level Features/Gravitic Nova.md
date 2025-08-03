@@ -4,15 +4,16 @@ cost: 11 Clarity
 cost_amount: 11
 cost_resource: Clarity
 feature_type: ability
+file_basename: Gravitic Nova
 file_dpath: Talent/9th-Level Features
 item_id: gravitic-nova-11-clarity
-item_index: '04'
+item_index: '05'
 item_name: Gravitic Nova (11 Clarity)
 level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.talent.9th-level-feature:gravitic-nova-11-clarity
 scdc:
-  - 1.1.1:13.2.1.7:04
+  - 1.1.1:13.2.1.7:05
 source: mcdm.heroes.v1
 type: feature/ability/talent/9th-level-feature
 ---

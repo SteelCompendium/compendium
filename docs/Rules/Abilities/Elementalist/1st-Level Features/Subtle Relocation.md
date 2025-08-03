@@ -1,6 +1,7 @@
 ---
 class: elementalist
 feature_type: trait
+file_basename: Subtle Relocation
 file_dpath: Elementalist/1st-Level Features
 item_id: subtle-relocation
 item_index: '01'

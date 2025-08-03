@@ -1,12 +1,13 @@
 ---
+file_basename: Consuming Interest
 file_dpath: Complications
 item_id: consuming-interest
-item_index: '81'
+item_index: '80'
 item_name: Consuming Interest
 scc:
   - mcdm.heroes.v1:complication:consuming-interest
 scdc:
-  - 1.1.1:6:81
+  - 1.1.1:6:80
 source: mcdm.heroes.v1
 type: complication
 ---

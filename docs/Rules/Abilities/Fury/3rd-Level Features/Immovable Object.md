@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Immovable Object
 file_dpath: Fury/3rd-Level Features
 item_id: immovable-object
 item_index: '01'

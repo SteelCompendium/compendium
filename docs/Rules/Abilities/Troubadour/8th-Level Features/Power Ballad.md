@@ -4,6 +4,7 @@ cost: 11 Drama
 cost_amount: 11
 cost_resource: Drama
 feature_type: ability
+file_basename: Power Ballad
 file_dpath: Troubadour/8th-Level Features
 item_id: power-ballad-11-drama
 item_index: '03'

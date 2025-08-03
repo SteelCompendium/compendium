@@ -1,12 +1,13 @@
 ---
+file_basename: Sniper
 file_dpath: Kits
 item_id: sniper
-item_index: '17'
+item_index: '18'
 item_name: Sniper
 scc:
   - mcdm.heroes.v1:kit:sniper
 scdc:
-  - 1.1.1:8:17
+  - 1.1.1:8:18
 source: mcdm.heroes.v1
 type: kit
 ---

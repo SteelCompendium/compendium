@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Skill
 file_dpath: Talent/10th-Level Features
 item_id: skill
 item_index: '03'

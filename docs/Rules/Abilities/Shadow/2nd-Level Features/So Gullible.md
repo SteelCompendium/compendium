@@ -4,6 +4,7 @@ cost: 5 Insight
 cost_amount: 5
 cost_resource: Insight
 feature_type: ability
+file_basename: So Gullible
 file_dpath: Shadow/2nd-Level Features
 item_id: so-gullible-5-insight
 item_index: '03'

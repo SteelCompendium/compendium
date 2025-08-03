@@ -7,7 +7,7 @@ type: index
 
 | file_name                                         | cost       | level | feature_type |
 | ------------------------------------------------- | ---------- | ----- | ------------ |
-| [Doubling The Hours](../Doubling%20The%20Hours)   |            | 8     | trait        |
+| [Doubling the Hours](../Doubling%20the%20Hours)   |            | 8     | trait        |
 | [Doubt](../Doubt)                                 | 11 Clarity | 8     | ability      |
 | [Levitation Field](../Levitation%20Field)         |            | 8     | trait        |
 | [Low Gravity](../Low%20Gravity)                   |            | 8     | trait        |

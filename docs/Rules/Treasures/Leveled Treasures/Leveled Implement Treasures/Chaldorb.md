@@ -1,12 +1,13 @@
 ---
+file_basename: Chaldorb
 file_dpath: Treasures/Leveled Treasures/Leveled Implement Treasures
 item_id: chaldorb
-item_index: '05'
+item_index: '06'
 item_name: Chaldorb
 scc:
   - mcdm.heroes.v1:treasure.leveled.implement:chaldorb
 scdc:
-  - 1.1.1:12.3.3:05
+  - 1.1.1:12.3.3:06
 source: mcdm.heroes.v1
 type: treasure/leveled/implement
 ---

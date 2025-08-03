@@ -1,4 +1,5 @@
 ---
+file_basename: Monster Bane
 file_dpath: Titles/1st Echelon
 item_id: monster-bane
 item_index: '14'

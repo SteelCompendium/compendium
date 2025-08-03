@@ -4,6 +4,7 @@ cost: 11 Essence
 cost_amount: 11
 cost_resource: Essence
 feature_type: ability
+file_basename: Unquenchable Fire
 file_dpath: Elementalist/9th-Level Features
 item_id: unquenchable-fire-11-essence
 item_index: '04'

@@ -1,5 +1,6 @@
 ---
 chapter_num: 11
+file_basename: Negotiation
 file_dpath: Chapters
 item_id: negotiation
 item_index: '01'

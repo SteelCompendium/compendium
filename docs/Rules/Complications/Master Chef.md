@@ -1,12 +1,13 @@
 ---
+file_basename: Master Chef
 file_dpath: Complications
 item_id: master-chef
-item_index: '45'
+item_index: '44'
 item_name: Master Chef
 scc:
   - mcdm.heroes.v1:complication:master-chef
 scdc:
-  - 1.1.1:6:45
+  - 1.1.1:6:44
 source: mcdm.heroes.v1
 type: complication
 ---

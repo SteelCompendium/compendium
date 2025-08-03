@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Mind Recovery
 file_dpath: Talent/4th-Level Features
 item_id: mind-recovery
 item_index: '03'

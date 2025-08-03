@@ -1,22 +1,19 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: Strike Now
 file_dpath: Tactician/1st-Level Features
 item_id: strike-now
-item_index: '04'
+item_index: '05'
 item_name: '"Strike Now!"'
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:strike-now
 scdc:
-  - 1.1.1:13.1.4.1:04
+  - 1.1.1:13.1.4.1:05
 source: mcdm.heroes.v1
 type: feature/trait/tactician/1st-level-feature
 ---
-
-#### Strike Now
-
-You have the following ability.
 
 ###### "Strike Now!"
 

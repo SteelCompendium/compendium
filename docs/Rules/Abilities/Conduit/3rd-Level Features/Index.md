@@ -7,8 +7,8 @@ type: index
 
 | file_name                                                       | cost    | level | feature_type |
 | --------------------------------------------------------------- | ------- | ----- | ------------ |
-| [Fear Of The Gods](../Fear%20Of%20The%20Gods)                   | 7 Piety | 3     | ability      |
+| [Fear of the Gods](../Fear%20of%20the%20Gods)                   | 7 Piety | 3     | ability      |
 | [Minor Miracle](../Minor%20Miracle)                             |         | 3     | trait        |
-| [SaintS Raiment](../SaintS%20Raiment)                           | 7 Piety | 3     | ability      |
+| [Saints Raiment](../Saints%20Raiment)                           | 7 Piety | 3     | ability      |
 | [Soul Siphon](../Soul%20Siphon)                                 | 7 Piety | 3     | ability      |
-| [Words Of Wrath And Grace](../Words%20Of%20Wrath%20And%20Grace) | 7 Piety | 3     | ability      |
+| [Words of Wrath and Grace](../Words%20of%20Wrath%20and%20Grace) | 7 Piety | 3     | ability      |

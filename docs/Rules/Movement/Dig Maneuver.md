@@ -1,4 +1,5 @@
 ---
+file_basename: Dig Maneuver
 file_dpath: Movement
 item_id: dig-maneuver
 item_index: '01'

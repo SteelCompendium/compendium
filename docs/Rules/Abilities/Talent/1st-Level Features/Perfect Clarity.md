@@ -4,6 +4,7 @@ cost: 5 Clarity
 cost_amount: 5
 cost_resource: Clarity
 feature_type: ability
+file_basename: Perfect Clarity
 file_dpath: Talent/1st-Level Features
 item_id: perfect-clarity-5-clarity
 item_index: '03'

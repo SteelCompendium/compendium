@@ -1,15 +1,16 @@
 ---
 class: conduit
 feature_type: trait
+file_basename: Blessed Light
 file_dpath: Conduit/1st-Level Features
 item_id: blessed-light
-item_index: '12'
+item_index: '14'
 item_name: Blessed Light
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessed-light
 scdc:
-  - 1.1.1:13.1.8.1:12
+  - 1.1.1:13.1.8.1:14
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

@@ -1,6 +1,7 @@
 ---
 class: conduit
 feature_type: trait
+file_basename: Minor Miracle
 file_dpath: Conduit/3rd-Level Features
 item_id: minor-miracle
 item_index: '01'

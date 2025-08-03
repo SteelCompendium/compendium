@@ -1,6 +1,7 @@
 ---
 class: elementalist
 feature_type: trait
+file_basename: Burning Grounds
 file_dpath: Elementalist/4th-Level Features
 item_id: burning-grounds
 item_index: '05'

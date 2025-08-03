@@ -15,5 +15,5 @@ type: index
 | [Mind Snare](../Mind%20Snare)                     | 9 Clarity | 5     | ability      |
 | [Remote Amplification](../Remote%20Amplification) |           | 5     | trait        |
 | [Soulbound](../Soulbound)                         | 9 Clarity | 5     | ability      |
-| [Speed Of Thought](../Speed%20Of%20Thought)       |           | 5     | trait        |
+| [Speed of Thought](../Speed%20of%20Thought)       |           | 5     | trait        |
 | [Triangulate](../Triangulate)                     |           | 5     | trait        |

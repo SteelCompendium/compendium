@@ -11,6 +11,6 @@ type: index
 | [Characteristic Increase](../Characteristic%20Increase) |      | 7     | trait        |
 | [Grand Strategy](../Grand%20Strategy)                   |      | 7     | trait        |
 | [Heightened Focus](../Heightened%20Focus)               |      | 7     | trait        |
-| [Seize The Initiative](../Seize%20The%20Initiative)     |      | 7     | trait        |
-| [Shock And Awe](../Shock%20And%20Awe)                   |      | 7     | trait        |
+| [Seize the Initiative](../Seize%20the%20Initiative)     |      | 7     | trait        |
+| [Shock and Awe](../Shock%20and%20Awe)                   |      | 7     | trait        |
 | [Skill](../Skill)                                       |      | 7     | trait        |

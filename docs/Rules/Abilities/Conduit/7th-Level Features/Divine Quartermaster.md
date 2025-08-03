@@ -1,6 +1,7 @@
 ---
 class: conduit
 feature_type: trait
+file_basename: Divine Quartermaster
 file_dpath: Conduit/7th-Level Features
 item_id: divine-quartermaster
 item_index: '06'

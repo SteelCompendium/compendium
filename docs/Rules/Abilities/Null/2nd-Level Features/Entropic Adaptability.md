@@ -1,6 +1,7 @@
 ---
 class: 'null'
 feature_type: trait
+file_basename: Entropic Adaptability
 file_dpath: Null/2nd-Level Features
 item_id: entropic-adaptability
 item_index: '03'

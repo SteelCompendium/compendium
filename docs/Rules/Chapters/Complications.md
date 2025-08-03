@@ -1,13 +1,14 @@
 ---
 chapter_num: 8
+file_basename: Complications
 file_dpath: Chapters
 item_id: complications
-item_index: '05'
+item_index: '07'
 item_name: Complications
 scc:
   - mcdm.heroes.v1:chapter:complications
 scdc:
-  - 1.1.1:3:05
+  - 1.1.1:3:07
 source: mcdm.heroes.v1
 title: 'Chapter 8: Complications'
 type: chapter

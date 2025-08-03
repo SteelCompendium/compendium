@@ -1,4 +1,5 @@
 ---
+file_basename: Open Book
 file_dpath: Perks/Interpersonal Perks
 item_id: open-book
 item_index: '10'

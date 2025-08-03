@@ -1,15 +1,16 @@
 ---
 class: 'null'
 feature_type: trait
+file_basename: Joint Lock
 file_dpath: Null/1st-Level Features
 item_id: joint-lock
-item_index: '05'
+item_index: '06'
 item_name: Joint Lock
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:joint-lock
 scdc:
-  - 1.1.1:13.1.6.1:05
+  - 1.1.1:13.1.6.1:06
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

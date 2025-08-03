@@ -1,4 +1,5 @@
 ---
+file_basename: Timesplitter
 file_dpath: Treasures/Consumables/3rd Echelon Consumables
 item_id: timesplitter
 item_index: '07'

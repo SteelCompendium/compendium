@@ -4,6 +4,7 @@ cost: 11 Wrath
 cost_amount: 11
 cost_resource: Wrath
 feature_type: ability
+file_basename: Fulfill Your Destiny
 file_dpath: Censor/9th-Level Features
 item_id: fulfill-your-destiny-11-wrath
 item_index: '02'

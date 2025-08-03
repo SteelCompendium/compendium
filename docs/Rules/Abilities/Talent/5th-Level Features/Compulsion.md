@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Compulsion
 file_dpath: Talent/5th-Level Features
 item_id: compulsion
 item_index: '06'

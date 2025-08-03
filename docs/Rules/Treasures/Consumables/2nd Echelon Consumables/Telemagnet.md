@@ -1,12 +1,13 @@
 ---
+file_basename: Telemagnet
 file_dpath: Treasures/Consumables/2nd Echelon Consumables
 item_id: telemagnet
-item_index: 08
+item_index: '07'
 item_name: Telemagnet
 scc:
   - mcdm.heroes.v1:treasure.consumable.2nd-echelon:telemagnet
 scdc:
-  - 1.1.1:12.2.3:08
+  - 1.1.1:12.2.3:07
 source: mcdm.heroes.v1
 type: treasure/consumable/2nd-echelon
 ---

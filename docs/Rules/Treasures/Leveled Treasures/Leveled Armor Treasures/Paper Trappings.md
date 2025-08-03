@@ -1,4 +1,5 @@
 ---
+file_basename: Paper Trappings
 file_dpath: Treasures/Leveled Treasures/Leveled Armor Treasures
 item_id: paper-trappings
 item_index: '01'

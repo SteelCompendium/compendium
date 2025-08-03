@@ -1,6 +1,7 @@
 ---
 class: troubadour
 feature_type: trait
+file_basename: Moonlight Sonata
 file_dpath: Troubadour/8th-Level Features
 item_id: moonlight-sonata
 item_index: '04'

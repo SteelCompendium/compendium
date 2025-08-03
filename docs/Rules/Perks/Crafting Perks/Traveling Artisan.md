@@ -1,4 +1,5 @@
 ---
+file_basename: Traveling Artisan
 file_dpath: Perks/Crafting Perks
 item_id: traveling-artisan
 item_index: '04'

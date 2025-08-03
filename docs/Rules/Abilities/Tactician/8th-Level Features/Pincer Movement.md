@@ -1,6 +1,7 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: Pincer Movement
 file_dpath: Tactician/8th-Level Features
 item_id: pincer-movement
 item_index: '03'

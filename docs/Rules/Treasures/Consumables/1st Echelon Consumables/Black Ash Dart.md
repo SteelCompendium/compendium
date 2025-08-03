@@ -1,4 +1,5 @@
 ---
+file_basename: Black Ash Dart
 file_dpath: Treasures/Consumables/1st Echelon Consumables
 item_id: black-ash-dart
 item_index: 08

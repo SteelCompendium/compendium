@@ -1,4 +1,5 @@
 ---
+file_basename: Communal
 file_dpath: Cultures/Organization
 item_id: communal
 item_index: '02'

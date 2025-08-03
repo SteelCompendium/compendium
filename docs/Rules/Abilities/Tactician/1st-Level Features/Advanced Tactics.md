@@ -1,15 +1,16 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: Advanced Tactics
 file_dpath: Tactician/1st-Level Features
 item_id: advanced-tactics
-item_index: '03'
+item_index: '04'
 item_name: Advanced Tactics
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:advanced-tactics
 scdc:
-  - 1.1.1:13.1.4.1:03
+  - 1.1.1:13.1.4.1:04
 source: mcdm.heroes.v1
 type: feature/trait/tactician/1st-level-feature
 ---

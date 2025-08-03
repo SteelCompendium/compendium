@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Stormborn
 file_dpath: Fury/5th-Level Features
 item_id: stormborn
 item_index: '02'

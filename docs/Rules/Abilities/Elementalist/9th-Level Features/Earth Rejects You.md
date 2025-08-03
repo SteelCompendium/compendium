@@ -4,6 +4,7 @@ cost: 11 Essence
 cost_amount: 11
 cost_resource: Essence
 feature_type: ability
+file_basename: Earth Rejects You
 file_dpath: Elementalist/9th-Level Features
 item_id: earth-rejects-you-11-essence
 item_index: '01'

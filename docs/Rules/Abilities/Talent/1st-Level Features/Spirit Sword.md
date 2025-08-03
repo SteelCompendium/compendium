@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Spirit Sword
 file_dpath: Talent/1st-Level Features
 item_id: spirit-sword
 item_index: 09

@@ -1,12 +1,13 @@
 ---
+file_basename: Runaway
 file_dpath: Complications
 item_id: runaway
-item_index: '01'
+item_index: '02'
 item_name: Runaway
 scc:
   - mcdm.heroes.v1:complication:runaway
 scdc:
-  - 1.1.1:6:01
+  - 1.1.1:6:02
 source: mcdm.heroes.v1
 type: complication
 ---

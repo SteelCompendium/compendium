@@ -4,6 +4,7 @@ cost: 5 Ferocity
 cost_amount: 5
 cost_resource: Ferocity
 feature_type: ability
+file_basename: Thunder Roar
 file_dpath: Fury/1st-Level Features
 item_id: thunder-roar-5-ferocity
 item_index: '04'

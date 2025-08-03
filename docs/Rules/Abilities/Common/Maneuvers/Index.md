@@ -13,7 +13,7 @@ type: index
 | [Grab](../Grab)                                                     |      |       |              |
 | [Hide](../Hide)                                                     |      |       |              |
 | [Knockback](../Knockback)                                           |      |       |              |
-| [Make Or Assist A Test](../Make%20Or%20Assist%20A%20Test)           |      |       |              |
-| [Search For Hidden Creatures](../Search%20For%20Hidden%20Creatures) |      |       |              |
+| [Make or Assist a Test](../Make%20or%20Assist%20a%20Test)           |      |       |              |
+| [Search for Hidden Creatures](../Search%20for%20Hidden%20Creatures) |      |       |              |
 | [Stand Up](../Stand%20Up)                                           |      |       |              |
 | [Use Consumable](../Use%20Consumable)                               |      |       |              |

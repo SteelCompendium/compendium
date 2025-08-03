@@ -4,6 +4,7 @@ cost: 7 Ferocity
 cost_amount: 7
 cost_resource: Ferocity
 feature_type: ability
+file_basename: Steelbreaker
 file_dpath: Fury/3rd-Level Features
 item_id: steelbreaker-7-ferocity
 item_index: '02'

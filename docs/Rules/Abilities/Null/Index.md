@@ -17,10 +17,10 @@ type: index
 | [A Squad Unto Myself](../1st-Level%20Features/A%20Squad%20Unto%20Myself)                      | 5 Discipline  | 1     | ability      |
 | [Arcane Disruptor](../1st-Level%20Features/Arcane%20Disruptor)                                | 5 Discipline  | 1     | ability      |
 | [Chronal Spike](../1st-Level%20Features/Chronal%20Spike)                                      | 3 Discipline  | 1     | ability      |
-| [Dance Of Blows](../1st-Level%20Features/Dance%20Of%20Blows)                                  |               | 1     | trait        |
+| [Dance of Blows](../1st-Level%20Features/Dance%20of%20Blows)                                  |               | 1     | trait        |
 | [Density Augmentation](../1st-Level%20Features/Density%20Augmentation)                        |               | 1     | trait        |
-| [Discipline Outside Of Combat](../1st-Level%20Features/Discipline%20Outside%20Of%20Combat)    |               | 1     | trait        |
-| [Faster Than The Eye](../1st-Level%20Features/Faster%20Than%20The%20Eye)                      |               | 1     | trait        |
+| [Discipline Outside of Combat](../1st-Level%20Features/Discipline%20Outside%20of%20Combat)    |               | 1     | trait        |
+| [Faster Than the Eye](../1st-Level%20Features/Faster%20Than%20the%20Eye)                      |               | 1     | trait        |
 | [Force Augmentation](../1st-Level%20Features/Force%20Augmentation)                            |               | 1     | trait        |
 | [Impart Force](../1st-Level%20Features/Impart%20Force)                                        | 5 Discipline  | 1     | ability      |
 | [Inertial Shield](../1st-Level%20Features/Inertial%20Shield)                                  |               | 1     | trait        |
@@ -55,8 +55,8 @@ type: index
 | [Reorder](../3rd-Level%20Features/Reorder)                                                    |               | 3     | trait        |
 | [Stabilizing Field](../3rd-Level%20Features/Stabilizing%20Field)                              | 7 Discipline  | 3     | ability      |
 | [Synapse Field](../3rd-Level%20Features/Synapse%20Field)                                      | 7 Discipline  | 3     | ability      |
-| [5Th-Level Tradition Feature](../4th-Level%20Features/5Th-Level%20Tradition%20Feature)        |               | 4     | trait        |
-| [8Th-Level Tradition Feature](../4th-Level%20Features/8Th-Level%20Tradition%20Feature)        |               | 4     | trait        |
+| [5th Level Tradition Feature](../4th-Level%20Features/5th%20Level%20Tradition%20Feature)      |               | 4     | trait        |
+| [8th Level Tradition Feature](../4th-Level%20Features/8th%20Level%20Tradition%20Feature)      |               | 4     | trait        |
 | [Anticipating Strike](../4th-Level%20Features/Anticipating%20Strike)                          | 9 Discipline  | 4     | ability      |
 | [Characteristic Increase](../4th-Level%20Features/Characteristic%20Increase)                  |               | 4     | trait        |
 | [Chilling Readiness](../4th-Level%20Features/Chilling%20Readiness)                            |               | 4     | trait        |
@@ -78,7 +78,7 @@ type: index
 | [Iron Body](../6th-Level%20Features/Iron%20Body)                                              | 9 Discipline  | 6     | ability      |
 | [Perk](../6th-Level%20Features/Perk)                                                          |               | 6     | trait        |
 | [Phase Step](../6th-Level%20Features/Phase%20Step)                                            | 9 Discipline  | 6     | ability      |
-| [Wall Of Ice](../6th-Level%20Features/Wall%20Of%20Ice)                                        | 9 Discipline  | 6     | ability      |
+| [Wall of Ice](../6th-Level%20Features/Wall%20of%20Ice)                                        | 9 Discipline  | 6     | ability      |
 | [Characteristic Increase](../7th-Level%20Features/Characteristic%20Increase)                  |               | 7     | trait        |
 | [Discipline Mastery Improvement](../7th-Level%20Features/Discipline%20Mastery%20Improvement)  |               | 7     | trait        |
 | [Dynamic Power](../7th-Level%20Features/Dynamic%20Power)                                      | 1 Discipline  | 7     | ability      |
@@ -101,7 +101,7 @@ type: index
 | [Absolute Zero](../9th-Level%20Features/Absolute%20Zero)                                      | 11 Discipline | 9     | ability      |
 | [Arrestor Cycle](../9th-Level%20Features/Arrestor%20Cycle)                                    | 11 Discipline | 9     | ability      |
 | [Heat Drain](../9th-Level%20Features/Heat%20Drain)                                            | 11 Discipline | 9     | ability      |
-| [I Am The Weapon](../9th-Level%20Features/I%20Am%20The%20Weapon)                              |               | 9     | trait        |
+| [I Am the Weapon](../9th-Level%20Features/I%20Am%20the%20Weapon)                              |               | 9     | trait        |
 | [Inertial Absorption](../9th-Level%20Features/Inertial%20Absorption)                          | 11 Discipline | 9     | ability      |
 | [Realitas](../9th-Level%20Features/Realitas)                                                  | 11 Discipline | 9     | ability      |
 | [Time Loop](../9th-Level%20Features/Time%20Loop)                                              | 11 Discipline | 9     | ability      |

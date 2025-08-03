@@ -4,6 +4,7 @@ cost: 9 Clarity
 cost_amount: 9
 cost_resource: Clarity
 feature_type: ability
+file_basename: Synaptic Conditioning
 file_dpath: Talent/6th-Level Features
 item_id: synaptic-conditioning-9-clarity
 item_index: '12'

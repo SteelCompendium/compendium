@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: A Step Ahead
 file_dpath: Fury/8th-Level Features
 item_id: a-step-ahead
 item_index: '04'

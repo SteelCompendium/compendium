@@ -4,6 +4,7 @@ cost: 1 Discipline
 cost_amount: 1
 cost_resource: Discipline
 feature_type: ability
+file_basename: Heightened Power
 file_dpath: Null/7th-Level Features
 item_id: heightened-power-1-discipline
 item_index: '04'

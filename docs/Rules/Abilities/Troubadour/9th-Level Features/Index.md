@@ -13,4 +13,4 @@ type: index
 | [Melt Their Faces](../Melt%20Their%20Faces)         | 11 Drama | 9     | ability      |
 | [Renegotiated Contract](../Renegotiated%20Contract) | 11 Drama | 9     | ability      |
 | [Rising Tension](../Rising%20Tension)               | 11 Drama | 9     | ability      |
-| [Roar Of The Crowd](../Roar%20Of%20The%20Crowd)     |          | 9     | trait        |
+| [Roar of the Crowd](../Roar%20of%20the%20Crowd)     |          | 9     | trait        |

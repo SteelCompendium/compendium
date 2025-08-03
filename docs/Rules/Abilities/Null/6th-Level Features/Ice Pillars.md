@@ -4,6 +4,7 @@ cost: 9 Discipline
 cost_amount: 9
 cost_resource: Discipline
 feature_type: ability
+file_basename: Ice Pillars
 file_dpath: Null/6th-Level Features
 item_id: ice-pillars-9-discipline
 item_index: '01'

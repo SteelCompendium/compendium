@@ -1,6 +1,7 @@
 ---
 class: censor
 feature_type: trait
+file_basename: Windwalk
 file_dpath: Censor/4th-Level Features
 item_id: windwalk
 item_index: '16'

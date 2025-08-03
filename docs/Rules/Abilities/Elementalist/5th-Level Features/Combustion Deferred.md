@@ -4,6 +4,7 @@ cost: 9 Essence
 cost_amount: 9
 cost_resource: Essence
 feature_type: ability
+file_basename: Combustion Deferred
 file_dpath: Elementalist/5th-Level Features
 item_id: combustion-deferred-9-essence
 item_index: '02'

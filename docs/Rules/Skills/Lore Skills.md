@@ -1,4 +1,5 @@
 ---
+file_basename: Lore Skills
 file_dpath: Skills
 item_id: lore-skills
 item_index: '04'

@@ -1,4 +1,5 @@
 ---
+file_basename: Shifting Ring
 file_dpath: Treasures/Trinkets/3rd Echelon Trinkets
 item_id: shifting-ring
 item_index: '01'

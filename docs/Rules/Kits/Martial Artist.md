@@ -1,12 +1,13 @@
 ---
+file_basename: Martial Artist
 file_dpath: Kits
 item_id: martial-artist
-item_index: '21'
+item_index: '20'
 item_name: Martial Artist
 scc:
   - mcdm.heroes.v1:kit:martial-artist
 scdc:
-  - 1.1.1:8:21
+  - 1.1.1:8:20
 source: mcdm.heroes.v1
 type: kit
 ---

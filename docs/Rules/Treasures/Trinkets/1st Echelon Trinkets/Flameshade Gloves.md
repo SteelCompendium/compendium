@@ -1,4 +1,5 @@
 ---
+file_basename: Flameshade Gloves
 file_dpath: Treasures/Trinkets/1st Echelon Trinkets
 item_id: flameshade-gloves
 item_index: '07'

@@ -1,4 +1,5 @@
 ---
+file_basename: Buzz Balm
 file_dpath: Treasures/Consumables/1st Echelon Consumables
 item_id: buzz-balm
 item_index: '01'

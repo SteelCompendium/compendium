@@ -4,6 +4,7 @@ cost: 3 Discipline
 cost_amount: 3
 cost_resource: Discipline
 feature_type: ability
+file_basename: Chronal Spike
 file_dpath: Null/1st-Level Features
 item_id: chronal-spike-3-discipline
 item_index: '04'

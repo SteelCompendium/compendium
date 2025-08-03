@@ -4,6 +4,7 @@ cost: 9 Insight
 cost_amount: 9
 cost_resource: Insight
 feature_type: ability
+file_basename: Shadowfall
 file_dpath: Shadow/5th-Level Features
 item_id: shadowfall-9-insight
 item_index: '01'

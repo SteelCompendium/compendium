@@ -1,4 +1,5 @@
 ---
+file_basename: Knight
 file_dpath: Titles/2nd Echelon
 item_id: knight
 item_index: '02'

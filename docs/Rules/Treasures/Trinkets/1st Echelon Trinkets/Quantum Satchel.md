@@ -1,12 +1,13 @@
 ---
+file_basename: Quantum Satchel
 file_dpath: Treasures/Trinkets/1st Echelon Trinkets
 item_id: quantum-satchel
-item_index: '03'
+item_index: '02'
 item_name: Quantum Satchel
 scc:
   - mcdm.heroes.v1:treasure.trinkets.1st-echelon:quantum-satchel
 scdc:
-  - 1.1.1:12.4.4:03
+  - 1.1.1:12.4.4:02
 source: mcdm.heroes.v1
 type: treasure/trinkets/1st-echelon
 ---

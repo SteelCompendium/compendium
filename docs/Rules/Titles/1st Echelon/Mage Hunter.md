@@ -1,12 +1,13 @@
 ---
+file_basename: Mage Hunter
 file_dpath: Titles/1st Echelon
 item_id: mage-hunter
-item_index: '10'
+item_index: 09
 item_name: Mage Hunter
 scc:
   - mcdm.heroes.v1:title.1st-echelon:mage-hunter
 scdc:
-  - 1.1.1:15.4:10
+  - 1.1.1:15.4:09
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

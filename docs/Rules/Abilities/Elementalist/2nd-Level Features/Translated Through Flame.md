@@ -4,6 +4,7 @@ cost: 5 Essence
 cost_amount: 5
 cost_resource: Essence
 feature_type: ability
+file_basename: Translated Through Flame
 file_dpath: Elementalist/2nd-Level Features
 item_id: translated-through-flame-5-essence
 item_index: '01'

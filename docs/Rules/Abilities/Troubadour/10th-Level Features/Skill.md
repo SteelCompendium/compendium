@@ -1,6 +1,7 @@
 ---
 class: troubadour
 feature_type: trait
+file_basename: Skill
 file_dpath: Troubadour/10th-Level Features
 item_id: skill
 item_index: '04'

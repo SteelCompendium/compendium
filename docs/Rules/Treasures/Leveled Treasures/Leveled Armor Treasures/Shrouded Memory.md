@@ -1,4 +1,5 @@
 ---
+file_basename: Shrouded Memory
 file_dpath: Treasures/Leveled Treasures/Leveled Armor Treasures
 item_id: shrouded-memory
 item_index: '10'

@@ -1,4 +1,5 @@
 ---
+file_basename: Gecko Gloves
 file_dpath: Treasures/Trinkets/1st Echelon Trinkets
 item_id: gecko-gloves
 item_index: '04'

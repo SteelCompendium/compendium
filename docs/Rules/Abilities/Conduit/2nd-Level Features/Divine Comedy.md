@@ -4,15 +4,16 @@ cost: 5 Piety
 cost_amount: 5
 cost_resource: Piety
 feature_type: ability
+file_basename: Divine Comedy
 file_dpath: Conduit/2nd-Level Features
 item_id: divine-comedy-5-piety
-item_index: '05'
+item_index: '06'
 item_name: Divine Comedy (5 Piety)
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:divine-comedy-5-piety
 scdc:
-  - 1.1.1:13.2.8.5:05
+  - 1.1.1:13.2.8.5:06
 source: mcdm.heroes.v1
 type: feature/ability/conduit/2nd-level-feature
 ---

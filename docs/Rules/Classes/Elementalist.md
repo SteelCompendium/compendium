@@ -1,4 +1,5 @@
 ---
+file_basename: Elementalist
 file_dpath: Classes
 item_id: elementalist
 item_index: '04'

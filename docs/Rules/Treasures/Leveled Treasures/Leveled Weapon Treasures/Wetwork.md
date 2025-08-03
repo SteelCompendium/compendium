@@ -1,12 +1,13 @@
 ---
+file_basename: Wetwork
 file_dpath: Treasures/Leveled Treasures/Leveled Weapon Treasures
 item_id: wetwork
-item_index: '06'
+item_index: '07'
 item_name: Wetwork
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:wetwork
 scdc:
-  - 1.1.1:12.3.1:06
+  - 1.1.1:12.3.1:07
 source: mcdm.heroes.v1
 type: treasure/leveled/weapon
 ---

@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Psion
 file_dpath: Talent/10th-Level Features
 item_id: psion
 item_index: '05'

@@ -4,6 +4,7 @@ cost: 1 Clarity
 cost_amount: 1
 cost_resource: Clarity
 feature_type: ability
+file_basename: Extended Power
 file_dpath: Talent/6th-Level Features
 item_id: extended-power-1-clarity
 item_index: '05'

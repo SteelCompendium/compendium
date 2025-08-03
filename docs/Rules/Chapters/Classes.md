@@ -1,13 +1,14 @@
 ---
 chapter_num: 5
+file_basename: Classes
 file_dpath: Chapters
 item_id: classes
-item_index: 08
+item_index: '10'
 item_name: Classes
 scc:
   - mcdm.heroes.v1:chapter:classes
 scdc:
-  - 1.1.1:3:08
+  - 1.1.1:3:10
 source: mcdm.heroes.v1
 title: 'Chapter 5: Classes'
 type: chapter

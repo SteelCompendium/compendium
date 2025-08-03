@@ -1,12 +1,13 @@
 ---
+file_basename: Spellsword
 file_dpath: Kits
 item_id: spellsword
-item_index: '13'
+item_index: '15'
 item_name: Spellsword
 scc:
   - mcdm.heroes.v1:kit:spellsword
 scdc:
-  - 1.1.1:8:13
+  - 1.1.1:8:15
 source: mcdm.heroes.v1
 type: kit
 ---

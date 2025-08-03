@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Primordial Portal
 file_dpath: Fury/6th-Level Features
 item_id: primordial-portal
 item_index: '01'

@@ -4,15 +4,16 @@ cost: 9 Ferocity
 cost_amount: 9
 cost_resource: Ferocity
 feature_type: ability
+file_basename: Rebounding Storm
 file_dpath: Fury/5th-Level Features
 item_id: rebounding-storm-9-ferocity
-item_index: '04'
+item_index: '02'
 item_name: Rebounding Storm (9 Ferocity)
 level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.fury.5th-level-feature:rebounding-storm-9-ferocity
 scdc:
-  - 1.1.1:13.2.5.4:04
+  - 1.1.1:13.2.5.4:02
 source: mcdm.heroes.v1
 type: feature/ability/fury/5th-level-feature
 ---

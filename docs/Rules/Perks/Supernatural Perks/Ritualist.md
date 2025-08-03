@@ -1,4 +1,5 @@
 ---
+file_basename: Ritualist
 file_dpath: Perks/Supernatural Perks
 item_id: ritualist
 item_index: '04'

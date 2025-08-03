@@ -1,6 +1,7 @@
 ---
 class: troubadour
 feature_type: trait
+file_basename: Perk
 file_dpath: Troubadour/2nd-Level Features
 item_id: perk
 item_index: '01'

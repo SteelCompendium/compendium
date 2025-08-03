@@ -1,6 +1,7 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: Parry
 file_dpath: Tactician/1st-Level Features
 item_id: parry
 item_index: '01'

@@ -1,4 +1,5 @@
 ---
+file_basename: Lachomp Tooth
 file_dpath: Treasures/Consumables/1st Echelon Consumables
 item_id: lachomp-tooth
 item_index: '02'

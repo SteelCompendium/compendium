@@ -1,4 +1,5 @@
 ---
+file_basename: Faction Officer
 file_dpath: Titles/2nd Echelon
 item_id: faction-officer
 item_index: '12'

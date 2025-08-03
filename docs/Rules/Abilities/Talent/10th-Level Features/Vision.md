@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Vision
 file_dpath: Talent/10th-Level Features
 item_id: vision
 item_index: '06'

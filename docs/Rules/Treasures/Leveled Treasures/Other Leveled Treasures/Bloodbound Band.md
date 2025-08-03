@@ -1,4 +1,5 @@
 ---
+file_basename: Bloodbound Band
 file_dpath: Treasures/Leveled Treasures/Other Leveled Treasures
 item_id: bloodbound-band
 item_index: '01'

@@ -1,4 +1,5 @@
 ---
+file_basename: Brawler
 file_dpath: Titles/1st Echelon
 item_id: brawler
 item_index: '05'

@@ -1,12 +1,13 @@
 ---
+file_basename: Thunderhead Bident
 file_dpath: Treasures/Leveled Treasures/Leveled Weapon Treasures
 item_id: thunderhead-bident
-item_index: 09
+item_index: '10'
 item_name: Thunderhead Bident
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:thunderhead-bident
 scdc:
-  - 1.1.1:12.3.1:09
+  - 1.1.1:12.3.1:10
 source: mcdm.heroes.v1
 type: treasure/leveled/weapon
 ---

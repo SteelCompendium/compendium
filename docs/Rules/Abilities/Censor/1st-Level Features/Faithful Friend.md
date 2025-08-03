@@ -1,15 +1,16 @@
 ---
 class: censor
 feature_type: trait
+file_basename: Faithful Friend
 file_dpath: Censor/1st-Level Features
 item_id: faithful-friend
-item_index: '01'
+item_index: '02'
 item_name: Faithful Friend
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:faithful-friend
 scdc:
-  - 1.1.1:13.1.7.1:01
+  - 1.1.1:13.1.7.1:02
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

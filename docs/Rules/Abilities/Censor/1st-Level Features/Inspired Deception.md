@@ -1,6 +1,7 @@
 ---
 class: censor
 feature_type: trait
+file_basename: Inspired Deception
 file_dpath: Censor/1st-Level Features
 item_id: inspired-deception
 item_index: '03'

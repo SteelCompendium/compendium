@@ -4,15 +4,16 @@ cost: 5 Wrath
 cost_amount: 5
 cost_resource: Wrath
 feature_type: ability
+file_basename: Purifying Fire
 file_dpath: Censor/1st-Level Features
 item_id: purifying-fire-5-wrath
-item_index: '06'
+item_index: '07'
 item_name: Purifying Fire (5 Wrath)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:purifying-fire-5-wrath
 scdc:
-  - 1.1.1:13.2.7.1:06
+  - 1.1.1:13.2.7.1:07
 source: mcdm.heroes.v1
 type: feature/ability/censor/1st-level-feature
 ---

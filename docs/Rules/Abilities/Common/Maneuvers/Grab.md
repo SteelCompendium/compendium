@@ -1,5 +1,6 @@
 ---
 class: combat
+file_basename: Grab
 file_dpath: Abilities/Common/Maneuvers
 item_id: grab
 item_index: '10'

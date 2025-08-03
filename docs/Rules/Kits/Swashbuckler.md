@@ -1,12 +1,13 @@
 ---
+file_basename: Swashbuckler
 file_dpath: Kits
 item_id: swashbuckler
-item_index: '15'
+item_index: '17'
 item_name: Swashbuckler
 scc:
   - mcdm.heroes.v1:kit:swashbuckler
 scdc:
-  - 1.1.1:8:15
+  - 1.1.1:8:17
 source: mcdm.heroes.v1
 type: kit
 ---

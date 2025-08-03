@@ -1,6 +1,7 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: Tactical Doctrine
 file_dpath: Tactician/1st-Level Features
 item_id: tactical-doctrine
 item_index: '06'

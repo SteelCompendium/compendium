@@ -17,8 +17,8 @@ type: index
 | [Grab](../Maneuvers/Grab)                                                     |      |       |              |
 | [Hide](../Maneuvers/Hide)                                                     |      |       |              |
 | [Knockback](../Maneuvers/Knockback)                                           |      |       |              |
-| [Make Or Assist A Test](../Maneuvers/Make%20Or%20Assist%20A%20Test)           |      |       |              |
-| [Search For Hidden Creatures](../Maneuvers/Search%20For%20Hidden%20Creatures) |      |       |              |
+| [Make or Assist a Test](../Maneuvers/Make%20or%20Assist%20a%20Test)           |      |       |              |
+| [Search for Hidden Creatures](../Maneuvers/Search%20for%20Hidden%20Creatures) |      |       |              |
 | [Stand Up](../Maneuvers/Stand%20Up)                                           |      |       |              |
 | [Use Consumable](../Maneuvers/Use%20Consumable)                               |      |       |              |
 | [Advance](../Move%20Actions/Advance)                                          |      |       |              |

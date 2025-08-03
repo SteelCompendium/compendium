@@ -1,12 +1,13 @@
 ---
+file_basename: Concealment Potion
 file_dpath: Treasures/Consumables/2nd Echelon Consumables
 item_id: concealment-potion
-item_index: '02'
+item_index: '03'
 item_name: Concealment Potion
 scc:
   - mcdm.heroes.v1:treasure.consumable.2nd-echelon:concealment-potion
 scdc:
-  - 1.1.1:12.2.3:02
+  - 1.1.1:12.2.3:03
 source: mcdm.heroes.v1
 type: treasure/consumable/2nd-echelon
 ---

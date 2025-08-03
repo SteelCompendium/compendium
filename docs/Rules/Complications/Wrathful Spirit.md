@@ -1,12 +1,13 @@
 ---
+file_basename: Wrathful Spirit
 file_dpath: Complications
 item_id: wrathful-spirit
-item_index: '15'
+item_index: '17'
 item_name: Wrathful Spirit
 scc:
   - mcdm.heroes.v1:complication:wrathful-spirit
 scdc:
-  - 1.1.1:6:15
+  - 1.1.1:6:17
 source: mcdm.heroes.v1
 type: complication
 ---

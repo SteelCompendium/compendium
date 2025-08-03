@@ -1,4 +1,5 @@
 ---
+file_basename: Weakened
 file_dpath: Conditions
 item_id: weakened
 item_index: '05'

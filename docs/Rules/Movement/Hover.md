@@ -1,12 +1,13 @@
 ---
+file_basename: Hover
 file_dpath: Movement
 item_id: hover
-item_index: '10'
+item_index: '07'
 item_name: Hover
 scc:
   - mcdm.heroes.v1:movement:hover
 scdc:
-  - 1.1.1:10:10
+  - 1.1.1:10:07
 source: mcdm.heroes.v1
 type: movement
 ---

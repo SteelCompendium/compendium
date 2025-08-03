@@ -1,12 +1,13 @@
 ---
+file_basename: City Rat
 file_dpath: Titles/1st Echelon
 item_id: city-rat
-item_index: '03'
+item_index: '04'
 item_name: City Rat
 scc:
   - mcdm.heroes.v1:title.1st-echelon:city-rat
 scdc:
-  - 1.1.1:15.4:03
+  - 1.1.1:15.4:04
 source: mcdm.heroes.v1
 type: title/1st-echelon
 ---

@@ -1,12 +1,13 @@
 ---
+file_basename: Onerous Bow
 file_dpath: Treasures/Leveled Treasures/Leveled Weapon Treasures
 item_id: onerous-bow
-item_index: '03'
+item_index: '04'
 item_name: Onerous Bow
 scc:
   - mcdm.heroes.v1:treasure.leveled.weapon:onerous-bow
 scdc:
-  - 1.1.1:12.3.1:03
+  - 1.1.1:12.3.1:04
 source: mcdm.heroes.v1
 type: treasure/leveled/weapon
 ---

@@ -1,15 +1,16 @@
 ---
 class: censor
 feature_type: trait
+file_basename: Your Triumphs Are Remembered
 file_dpath: Censor/7th-Level Features
 item_id: your-triumphs-are-remembered
-item_index: '02'
+item_index: '03'
 item_name: Your Triumphs Are Remembered
 level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.censor.7th-level-feature:your-triumphs-are-remembered
 scdc:
-  - 1.1.1:13.1.7.9:02
+  - 1.1.1:13.1.7.9:03
 source: mcdm.heroes.v1
 type: feature/trait/censor/7th-level-feature
 ---

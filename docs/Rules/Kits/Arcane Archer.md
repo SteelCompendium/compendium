@@ -1,12 +1,13 @@
 ---
+file_basename: Arcane Archer
 file_dpath: Kits
 item_id: arcane-archer
-item_index: '12'
+item_index: '13'
 item_name: Arcane Archer
 scc:
   - mcdm.heroes.v1:kit:arcane-archer
 scdc:
-  - 1.1.1:8:12
+  - 1.1.1:8:13
 source: mcdm.heroes.v1
 type: kit
 ---

@@ -4,6 +4,7 @@ cost: 7 Focus
 cost_amount: 7
 cost_resource: Focus
 feature_type: ability
+file_basename: Rout
 file_dpath: Tactician/3rd-Level Features
 item_id: rout-7-focus
 item_index: '02'

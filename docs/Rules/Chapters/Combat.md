@@ -1,13 +1,14 @@
 ---
 chapter_num: 10
+file_basename: Combat
 file_dpath: Chapters
 item_id: combat
-item_index: '11'
+item_index: '13'
 item_name: Combat
 scc:
   - mcdm.heroes.v1:chapter:combat
 scdc:
-  - 1.1.1:3:11
+  - 1.1.1:3:13
 source: mcdm.heroes.v1
 title: 'Chapter 10: Combat'
 type: chapter

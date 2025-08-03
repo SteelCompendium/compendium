@@ -1,4 +1,5 @@
 ---
+file_basename: Slipped Lead
 file_dpath: Perks/Intrigue Perks
 item_id: slipped-lead
 item_index: '03'

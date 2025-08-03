@@ -1,6 +1,7 @@
 ---
 class: tactician
 feature_type: trait
+file_basename: Perk
 file_dpath: Tactician/8th-Level Features
 item_id: perk
 item_index: '02'

@@ -1,4 +1,5 @@
 ---
+file_basename: Foesense Lenses
 file_dpath: Treasures/Leveled Treasures/Leveled Implement Treasures
 item_id: foesense-lenses
 item_index: '04'

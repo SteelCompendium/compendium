@@ -1,12 +1,13 @@
 ---
+file_basename: Hellcharger Helm
 file_dpath: Treasures/Trinkets/1st Echelon Trinkets
 item_id: hellcharger-helm
-item_index: '02'
+item_index: '01'
 item_name: Hellcharger Helm
 scc:
   - mcdm.heroes.v1:treasure.trinkets.1st-echelon:hellcharger-helm
 scdc:
-  - 1.1.1:12.4.4:02
+  - 1.1.1:12.4.4:01
 source: mcdm.heroes.v1
 type: treasure/trinkets/1st-echelon
 ---

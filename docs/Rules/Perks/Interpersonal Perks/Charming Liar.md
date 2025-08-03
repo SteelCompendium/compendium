@@ -1,12 +1,13 @@
 ---
+file_basename: Charming Liar
 file_dpath: Perks/Interpersonal Perks
 item_id: charming-liar
-item_index: '05'
+item_index: '06'
 item_name: Charming Liar
 scc:
   - mcdm.heroes.v1:perk.interpersonal:charming-liar
 scdc:
-  - 1.1.1:17.1:05
+  - 1.1.1:17.1:06
 source: mcdm.heroes.v1
 type: perk/interpersonal
 ---

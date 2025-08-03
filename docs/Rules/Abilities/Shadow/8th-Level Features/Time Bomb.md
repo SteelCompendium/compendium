@@ -1,6 +1,7 @@
 ---
 class: shadow
 feature_type: trait
+file_basename: Time Bomb
 file_dpath: Shadow/8th-Level Features
 item_id: time-bomb
 item_index: '02'

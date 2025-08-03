@@ -1,6 +1,7 @@
 ---
 class: shadow
 feature_type: trait
+file_basename: Black Ash Teleport
 file_dpath: Shadow/1st-Level Features
 item_id: black-ash-teleport
 item_index: '13'

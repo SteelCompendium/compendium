@@ -4,6 +4,7 @@ cost: 11 Piety
 cost_amount: 11
 cost_resource: Piety
 feature_type: ability
+file_basename: Thorn Cage
 file_dpath: Conduit/9th-Level Features
 item_id: thorn-cage-11-piety
 item_index: '11'

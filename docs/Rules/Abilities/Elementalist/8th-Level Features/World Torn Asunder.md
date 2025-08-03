@@ -4,6 +4,7 @@ cost: 11 Essence
 cost_amount: 11
 cost_resource: Essence
 feature_type: ability
+file_basename: World Torn Asunder
 file_dpath: Elementalist/8th-Level Features
 item_id: world-torn-asunder-11-essence
 item_index: '03'

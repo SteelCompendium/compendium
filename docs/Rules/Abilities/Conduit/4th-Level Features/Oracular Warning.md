@@ -1,6 +1,7 @@
 ---
 class: conduit
 feature_type: trait
+file_basename: Oracular Warning
 file_dpath: Conduit/4th-Level Features
 item_id: oracular-warning
 item_index: '01'

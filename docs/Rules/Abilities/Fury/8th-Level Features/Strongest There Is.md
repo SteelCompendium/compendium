@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Strongest There Is
 file_dpath: Fury/8th-Level Features
 item_id: strongest-there-is
 item_index: '03'

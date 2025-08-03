@@ -1,15 +1,16 @@
 ---
 class: conduit
 feature_type: trait
+file_basename: Lightfall
 file_dpath: Conduit/1st-Level Features
 item_id: lightfall
-item_index: 09
+item_index: '11'
 item_name: Lightfall
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:lightfall
 scdc:
-  - 1.1.1:13.1.8.1:09
+  - 1.1.1:13.1.8.1:11
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

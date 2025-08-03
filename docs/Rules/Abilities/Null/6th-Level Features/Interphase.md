@@ -4,6 +4,7 @@ cost: 9 Discipline
 cost_amount: 9
 cost_resource: Discipline
 feature_type: ability
+file_basename: Interphase
 file_dpath: Null/6th-Level Features
 item_id: interphase-9-discipline
 item_index: '05'

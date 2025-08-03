@@ -4,6 +4,7 @@ cost: 5 Drama
 cost_amount: 5
 cost_resource: Drama
 feature_type: ability
+file_basename: Method Acting
 file_dpath: Troubadour/1st-Level Features
 item_id: method-acting-5-drama
 item_index: '07'

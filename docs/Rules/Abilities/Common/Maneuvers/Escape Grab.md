@@ -1,5 +1,6 @@
 ---
 class: combat
+file_basename: Escape Grab
 file_dpath: Abilities/Common/Maneuvers
 item_id: escape-grab
 item_index: 08

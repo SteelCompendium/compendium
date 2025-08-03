@@ -1,4 +1,5 @@
 ---
+file_basename: Arcane Trick
 file_dpath: Perks/Supernatural Perks
 item_id: arcane-trick
 item_index: '02'

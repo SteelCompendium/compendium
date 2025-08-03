@@ -1,12 +1,13 @@
 ---
+file_basename: Vertical
 file_dpath: Movement
 item_id: vertical
-item_index: '11'
+item_index: 08
 item_name: Vertical
 scc:
   - mcdm.heroes.v1:movement:vertical
 scdc:
-  - 1.1.1:10:11
+  - 1.1.1:10:08
 source: mcdm.heroes.v1
 type: movement
 ---

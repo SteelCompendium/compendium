@@ -4,6 +4,7 @@ cost: 9 Drama
 cost_amount: 9
 cost_resource: Drama
 feature_type: ability
+file_basename: Continuity Error
 file_dpath: Troubadour/5th-Level Features
 item_id: continuity-error-9-drama
 item_index: '04'

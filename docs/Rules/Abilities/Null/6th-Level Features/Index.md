@@ -15,4 +15,4 @@ type: index
 | [Iron Body](../Iron%20Body)                       | 9 Discipline | 6     | ability      |
 | [Perk](../Perk)                                   |              | 6     | trait        |
 | [Phase Step](../Phase%20Step)                     | 9 Discipline | 6     | ability      |
-| [Wall Of Ice](../Wall%20Of%20Ice)                 | 9 Discipline | 6     | ability      |
+| [Wall of Ice](../Wall%20of%20Ice)                 | 9 Discipline | 6     | ability      |

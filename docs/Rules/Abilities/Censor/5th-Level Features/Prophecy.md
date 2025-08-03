@@ -1,6 +1,7 @@
 ---
 class: censor
 feature_type: trait
+file_basename: Prophecy
 file_dpath: Censor/5th-Level Features
 item_id: prophecy
 item_index: '02'

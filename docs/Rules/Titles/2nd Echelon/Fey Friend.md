@@ -1,4 +1,5 @@
 ---
+file_basename: Fey Friend
 file_dpath: Titles/2nd Echelon
 item_id: fey-friend
 item_index: '10'

@@ -1,4 +1,5 @@
 ---
+file_basename: Greed
 file_dpath: Negotiation/Motivations and Pitfalls
 item_id: greed
 item_index: '10'

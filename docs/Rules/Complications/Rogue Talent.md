@@ -1,12 +1,13 @@
 ---
+file_basename: Rogue Talent
 file_dpath: Complications
 item_id: rogue-talent
-item_index: '52'
+item_index: '53'
 item_name: Rogue Talent
 scc:
   - mcdm.heroes.v1:complication:rogue-talent
 scdc:
-  - 1.1.1:6:52
+  - 1.1.1:6:53
 source: mcdm.heroes.v1
 type: complication
 ---

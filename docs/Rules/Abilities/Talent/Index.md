@@ -19,7 +19,7 @@ type: index
 | [Awe](../1st-Level%20Features/Awe)                                                       | 3 Clarity  | 1     | ability      |
 | [Battle Augmentation](../1st-Level%20Features/Battle%20Augmentation)                     |            | 1     | trait        |
 | [Choke](../1st-Level%20Features/Choke)                                                   | 3 Clarity  | 1     | ability      |
-| [Clarity Outside Of Combat](../1st-Level%20Features/Clarity%20Outside%20Of%20Combat)     |            | 1     | trait        |
+| [Clarity Outside of Combat](../1st-Level%20Features/Clarity%20Outside%20of%20Combat)     |            | 1     | trait        |
 | [Density Augmentation](../1st-Level%20Features/Density%20Augmentation)                   |            | 1     | trait        |
 | [Distance Augmentation](../1st-Level%20Features/Distance%20Augmentation)                 |            | 1     | trait        |
 | [Entropic Bolt](../1st-Level%20Features/Entropic%20Bolt)                                 |            | 1     | trait        |
@@ -49,11 +49,11 @@ type: index
 | [Telepathic Speech](../1st-Level%20Features/Telepathic%20Speech)                         |            | 1     | trait        |
 | [Vanishing Ward](../1st-Level%20Features/Vanishing%20Ward)                               |            | 1     | trait        |
 | [Applied Chronometrics](../2nd-Level%20Features/Applied%20Chronometrics)                 | 5 Clarity  | 2     | ability      |
-| [Ease The Hours](../2nd-Level%20Features/Ease%20The%20Hours)                             |            | 2     | trait        |
-| [Ease The Mind](../2nd-Level%20Features/Ease%20The%20Mind)                               |            | 2     | trait        |
 | [Ease Their Fall](../2nd-Level%20Features/Ease%20Their%20Fall)                           |            | 2     | trait        |
+| [Ease the Hours](../2nd-Level%20Features/Ease%20the%20Hours)                             |            | 2     | trait        |
+| [Ease the Mind](../2nd-Level%20Features/Ease%20the%20Mind)                               |            | 2     | trait        |
 | [Gravitic Burst](../2nd-Level%20Features/Gravitic%20Burst)                               | 5 Clarity  | 2     | ability      |
-| [Levity And Gravity](../2nd-Level%20Features/Levity%20And%20Gravity)                     | 5 Clarity  | 2     | ability      |
+| [Levity and Gravity](../2nd-Level%20Features/Levity%20and%20Gravity)                     | 5 Clarity  | 2     | ability      |
 | [Overwhelm](../2nd-Level%20Features/Overwhelm)                                           | 5 Clarity  | 2     | ability      |
 | [Perk](../2nd-Level%20Features/Perk)                                                     |            | 2     | trait        |
 | [Slow](../2nd-Level%20Features/Slow)                                                     | 5 Clarity  | 2     | ability      |
@@ -77,7 +77,7 @@ type: index
 | [Mind Snare](../5th-Level%20Features/Mind%20Snare)                                       | 9 Clarity  | 5     | ability      |
 | [Remote Amplification](../5th-Level%20Features/Remote%20Amplification)                   |            | 5     | trait        |
 | [Soulbound](../5th-Level%20Features/Soulbound)                                           | 9 Clarity  | 5     | ability      |
-| [Speed Of Thought](../5th-Level%20Features/Speed%20Of%20Thought)                         |            | 5     | trait        |
+| [Speed of Thought](../5th-Level%20Features/Speed%20of%20Thought)                         |            | 5     | trait        |
 | [Triangulate](../5th-Level%20Features/Triangulate)                                       |            | 5     | trait        |
 | [Dynamic Power](../6th-Level%20Features/Dynamic%20Power)                                 | 1 Clarity  | 6     | ability      |
 | [Expanded Power](../6th-Level%20Features/Expanded%20Power)                               | 3 Clarity  | 6     | ability      |
@@ -98,7 +98,7 @@ type: index
 | [Characteristic Increase](../7th-Level%20Features/Characteristic%20Increase)             |            | 7     | trait        |
 | [Lucid Mind](../7th-Level%20Features/Lucid%20Mind)                                       |            | 7     | trait        |
 | [Skill](../7th-Level%20Features/Skill)                                                   |            | 7     | trait        |
-| [Doubling The Hours](../8th-Level%20Features/Doubling%20The%20Hours)                     |            | 8     | trait        |
+| [Doubling the Hours](../8th-Level%20Features/Doubling%20the%20Hours)                     |            | 8     | trait        |
 | [Doubt](../8th-Level%20Features/Doubt)                                                   | 11 Clarity | 8     | ability      |
 | [Levitation Field](../8th-Level%20Features/Levitation%20Field)                           |            | 8     | trait        |
 | [Low Gravity](../8th-Level%20Features/Low%20Gravity)                                     |            | 8     | trait        |
@@ -110,8 +110,8 @@ type: index
 | [Steel](../8th-Level%20Features/Steel)                                                   | 11 Clarity | 8     | ability      |
 | [Universal Connection](../8th-Level%20Features/Universal%20Connection)                   |            | 8     | trait        |
 | [Acceleration Field](../9th-Level%20Features/Acceleration%20Field)                       | 11 Clarity | 9     | ability      |
-| [Borrow From The Future](../9th-Level%20Features/Borrow%20From%20The%20Future)           | 11 Clarity | 9     | ability      |
-| [Fortress Of Perfect Thought](../9th-Level%20Features/Fortress%20Of%20Perfect%20Thought) |            | 9     | trait        |
+| [Borrow From the Future](../9th-Level%20Features/Borrow%20From%20the%20Future)           | 11 Clarity | 9     | ability      |
+| [Fortress of Perfect Thought](../9th-Level%20Features/Fortress%20of%20Perfect%20Thought) |            | 9     | trait        |
 | [Fulcrum](../9th-Level%20Features/Fulcrum)                                               | 11 Clarity | 9     | ability      |
 | [Gravitic Nova](../9th-Level%20Features/Gravitic%20Nova)                                 | 11 Clarity | 9     | ability      |
 | [Resonant Mind Spike](../9th-Level%20Features/Resonant%20Mind%20Spike)                   | 11 Clarity | 9     | ability      |

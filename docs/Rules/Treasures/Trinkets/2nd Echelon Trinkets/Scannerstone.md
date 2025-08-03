@@ -1,12 +1,13 @@
 ---
+file_basename: Scannerstone
 file_dpath: Treasures/Trinkets/2nd Echelon Trinkets
 item_id: scannerstone
-item_index: '04'
+item_index: '06'
 item_name: Scannerstone
 scc:
   - mcdm.heroes.v1:treasure.trinkets.2nd-echelon:scannerstone
 scdc:
-  - 1.1.1:12.4.2:04
+  - 1.1.1:12.4.2:06
 source: mcdm.heroes.v1
 type: treasure/trinkets/2nd-echelon
 ---

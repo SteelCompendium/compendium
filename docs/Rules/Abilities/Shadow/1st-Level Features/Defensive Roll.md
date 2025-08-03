@@ -1,6 +1,7 @@
 ---
 class: shadow
 feature_type: trait
+file_basename: Defensive Roll
 file_dpath: Shadow/1st-Level Features
 item_id: defensive-roll
 item_index: '10'

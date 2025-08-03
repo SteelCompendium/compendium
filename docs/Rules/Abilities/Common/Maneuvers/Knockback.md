@@ -1,5 +1,6 @@
 ---
 class: combat
+file_basename: Knockback
 file_dpath: Abilities/Common/Maneuvers
 item_id: knockback
 item_index: '05'

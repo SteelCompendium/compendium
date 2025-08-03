@@ -1,6 +1,7 @@
 ---
 class: 'null'
 feature_type: trait
+file_basename: Perk
 file_dpath: Null/4th-Level Features
 item_id: perk
 item_index: '03'

@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Characteristic Increase
 file_dpath: Fury/4th-Level Features
 item_id: characteristic-increase
 item_index: '05'

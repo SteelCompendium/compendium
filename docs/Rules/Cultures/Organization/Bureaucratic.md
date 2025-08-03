@@ -1,4 +1,5 @@
 ---
+file_basename: Bureaucratic
 file_dpath: Cultures/Organization
 item_id: bureaucratic
 item_index: '01'

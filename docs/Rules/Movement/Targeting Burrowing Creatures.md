@@ -1,12 +1,13 @@
 ---
+file_basename: Targeting Burrowing Creatures
 file_dpath: Movement
 item_id: targeting-burrowing-creatures
-item_index: '14'
+item_index: '13'
 item_name: Targeting Burrowing Creatures
 scc:
   - mcdm.heroes.v1:movement:targeting-burrowing-creatures
 scdc:
-  - 1.1.1:10:14
+  - 1.1.1:10:13
 source: mcdm.heroes.v1
 type: movement
 ---

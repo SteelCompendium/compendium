@@ -1,4 +1,5 @@
 ---
+file_basename: Presumed Dead
 file_dpath: Titles/1st Echelon
 item_id: presumed-dead
 item_index: '13'

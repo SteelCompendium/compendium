@@ -11,5 +11,5 @@ type: index
 | [Magma Titan](../Magma%20Titan)                                             | 9 Essence | 6     | ability      |
 | [Meteor](../Meteor)                                                         | 9 Essence | 6     | ability      |
 | [Perk](../Perk)                                                             |           | 6     | trait        |
-| [The Wode Remembers And Returns](../The%20Wode%20Remembers%20And%20Returns) | 9 Essence | 6     | ability      |
+| [The Wode Remembers and Returns](../The%20Wode%20Remembers%20and%20Returns) | 9 Essence | 6     | ability      |
 | [Wyrding](../Wyrding)                                                       |           | 6     | trait        |

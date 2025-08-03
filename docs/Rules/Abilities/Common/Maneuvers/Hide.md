@@ -1,5 +1,6 @@
 ---
 class: combat
+file_basename: Hide
 file_dpath: Abilities/Common/Maneuvers
 item_id: hide
 item_index: 09

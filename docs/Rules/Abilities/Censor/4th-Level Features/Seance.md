@@ -1,6 +1,7 @@
 ---
 class: censor
 feature_type: trait
+file_basename: Seance
 file_dpath: Censor/4th-Level Features
 item_id: seance
 item_index: '02'

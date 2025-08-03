@@ -1,6 +1,7 @@
 ---
 class: conduit
 feature_type: trait
+file_basename: Gods Library
 file_dpath: Conduit/7th-Level Features
 item_id: gods-library
 item_index: '05'

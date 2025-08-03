@@ -1,15 +1,16 @@
 ---
 class: elementalist
 feature_type: trait
+file_basename: Chimeric Manifestation
 file_dpath: Elementalist/8th-Level Features
 item_id: chimeric-manifestation
-item_index: '03'
+item_index: '04'
 item_name: Chimeric Manifestation
 level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:chimeric-manifestation
 scdc:
-  - 1.1.1:13.1.9.2:03
+  - 1.1.1:13.1.9.2:04
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/8th-level-feature
 ---

@@ -1,12 +1,13 @@
 ---
+file_basename: Crash Landed
 file_dpath: Complications
 item_id: crash-landed
-item_index: '49'
+item_index: '47'
 item_name: Crash Landed
 scc:
   - mcdm.heroes.v1:complication:crash-landed
 scdc:
-  - 1.1.1:6:49
+  - 1.1.1:6:47
 source: mcdm.heroes.v1
 type: complication
 ---

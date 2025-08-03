@@ -1,4 +1,5 @@
 ---
+file_basename: Traveling Sage
 file_dpath: Perks/Lore Perks
 item_id: traveling-sage
 item_index: '02'

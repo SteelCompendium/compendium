@@ -1,15 +1,16 @@
 ---
 class: troubadour
 feature_type: trait
+file_basename: Choreography
 file_dpath: Troubadour/1st-Level Features
 item_id: choreography
-item_index: '07'
+item_index: '05'
 item_name: Choreography
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:choreography
 scdc:
-  - 1.1.1:13.1.3.1:07
+  - 1.1.1:13.1.3.1:05
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/1st-level-feature
 ---

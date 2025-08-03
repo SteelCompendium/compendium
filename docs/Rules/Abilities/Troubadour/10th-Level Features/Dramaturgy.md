@@ -1,6 +1,7 @@
 ---
 class: troubadour
 feature_type: trait
+file_basename: Dramaturgy
 file_dpath: Troubadour/10th-Level Features
 item_id: dramaturgy
 item_index: '02'

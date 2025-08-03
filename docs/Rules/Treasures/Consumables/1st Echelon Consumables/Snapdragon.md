@@ -1,12 +1,13 @@
 ---
+file_basename: Snapdragon
 file_dpath: Treasures/Consumables/1st Echelon Consumables
 item_id: snapdragon
-item_index: '06'
+item_index: '07'
 item_name: Snapdragon
 scc:
   - mcdm.heroes.v1:treasure.consumable.1st-echelon:snapdragon
 scdc:
-  - 1.1.1:12.2.1:06
+  - 1.1.1:12.2.1:07
 source: mcdm.heroes.v1
 type: treasure/consumable/1st-echelon
 ---

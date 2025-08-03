@@ -4,6 +4,7 @@ cost: 9 Clarity
 cost_amount: 9
 cost_resource: Clarity
 feature_type: ability
+file_basename: Exothermic Shield
 file_dpath: Talent/5th-Level Features
 item_id: exothermic-shield-9-clarity
 item_index: '02'

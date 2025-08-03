@@ -1,4 +1,5 @@
 ---
+file_basename: Exploration Skills
 file_dpath: Skills
 item_id: exploration-skills
 item_index: '01'

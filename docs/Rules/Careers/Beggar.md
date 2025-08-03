@@ -1,4 +1,5 @@
 ---
+file_basename: Beggar
 file_dpath: Careers
 item_id: beggar
 item_index: '10'

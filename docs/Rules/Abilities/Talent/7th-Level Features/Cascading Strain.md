@@ -1,6 +1,7 @@
 ---
 class: talent
 feature_type: trait
+file_basename: Cascading Strain
 file_dpath: Talent/7th-Level Features
 item_id: cascading-strain
 item_index: '01'

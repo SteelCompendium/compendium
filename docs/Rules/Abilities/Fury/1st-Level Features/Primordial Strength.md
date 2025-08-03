@@ -1,6 +1,7 @@
 ---
 class: fury
 feature_type: trait
+file_basename: Primordial Strength
 file_dpath: Fury/1st-Level Features
 item_id: primordial-strength
 item_index: '13'

@@ -1,4 +1,5 @@
 ---
+file_basename: Mirror Token
 file_dpath: Treasures/Consumables/1st Echelon Consumables
 item_id: mirror-token
 item_index: '03'

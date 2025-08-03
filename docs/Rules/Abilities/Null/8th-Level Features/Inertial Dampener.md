@@ -1,6 +1,7 @@
 ---
 class: 'null'
 feature_type: trait
+file_basename: Inertial Dampener
 file_dpath: Null/8th-Level Features
 item_id: inertial-dampener
 item_index: '03'

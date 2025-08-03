@@ -1,4 +1,5 @@
 ---
+file_basename: Local Hero
 file_dpath: Titles/1st Echelon
 item_id: local-hero
 item_index: '01'

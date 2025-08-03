@@ -1,12 +1,13 @@
 ---
+file_basename: Silent Sentinel
 file_dpath: Complications
 item_id: silent-sentinel
-item_index: '68'
+item_index: '69'
 item_name: Silent Sentinel
 scc:
   - mcdm.heroes.v1:complication:silent-sentinel
 scdc:
-  - 1.1.1:6:68
+  - 1.1.1:6:69
 source: mcdm.heroes.v1
 type: complication
 ---
