@@ -271,17 +271,63 @@ If your familiar is destroyed, you can restore them as a respite activity, or by
 
 ###### Familiar Statblock
 
-| **Familiar**               | Level - -           |
-| :------------------------- | :------------------ |
-| **Ancestry:** Familiar     | **EV:** -           |
-| **Stamina:** 2x your level | **Immunity:** -     |
-| **Speed:** 5               | **Weakness:** -     |
-| **Movement:** -            | **With Captain:** - |
-| **Might:** -3              | **Free Strike:** 5  |
-| **Agility:** +2            | **Melee:** -        |
-| **Reason:** 0              | **Ranged:** -       |
-| **Intuition:** 0           | **Size:** 1T        |
-| **Presence:** +1           | **Stability:** 0    |
+**Familiar**
+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 16%" />
+<col style="width: 26%" />
+<col style="width: 20%" />
+<col style="width: 19%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;">Familiar</th>
+<th style="text-align: center;"></th>
+<th style="text-align: center;">Level -</th>
+<th style="text-align: center;">-</th>
+<th style="text-align: center;">EV -</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><strong>1T</strong><br />
+Size</td>
+<td style="text-align: center;"><strong>5</strong><br />
+Speed</td>
+<td style="text-align: center;"><strong>2x your level</strong><br />
+Stamina</td>
+<td style="text-align: center;"><strong>0</strong><br />
+Stability</td>
+<td style="text-align: center;"><strong>-</strong><br />
+Free Strike</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><strong>-</strong><br />
+Immunities</td>
+<td style="text-align: center;"><strong>-</strong><br />
+Movement</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><strong>-</strong><br />
+With Captain</td>
+<td style="text-align: center;"><strong>-</strong><br />
+Weaknesses</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><strong>-3</strong><br />
+Might</td>
+<td style="text-align: center;"><strong>+2</strong><br />
+Agility</td>
+<td style="text-align: center;"><strong>0</strong><br />
+Reason</td>
+<td style="text-align: center;"><strong>0</strong><br />
+Intuition</td>
+<td style="text-align: center;"><strong>+1</strong><br />
+Presence</td>
+</tr>
+</tbody>
+</table>
 
 **Telepathic**
 

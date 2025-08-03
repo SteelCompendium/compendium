@@ -8622,17 +8622,13 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 
 **<span class="steel-compendium-h7">Source of Earth Statblock</span>**
 
-| **Source of Earth**     | Level 8 BRUTE       |
-| :---------------------- | :------------------ |
-| **Ancestry:** Elemental | **EV:**             |
-| **Stamina:** 45         | **Immunity:** -     |
-| **Speed:** 6            | **Weakness:** -     |
-| **Movement:** Burrow    | **With Captain:** - |
-| **Might:** +3           | **Free Strike:** 5  |
-| **Agility:** +1         | **Melee:** -        |
-| **Reason:** -5          | **Ranged:** -       |
-| **Intuition:** -5       | **Size:** 2         |
-| **Presence:** -3        | **Stability:** 5    |
+**Source of Earth**
+
+|      Elemental      |                        |      Level 8      |         BRUTE         |         EV -         |
+| :-----------------: | :--------------------: | :---------------: | :-------------------: | :------------------: |
+|    **2**<br>Size    |     **6**<br>Speed     | **45**<br>Stamina |  **5**<br>Stability   | **5**<br>Free Strike |
+| **-**<br>Immunities | **Burrow**<br>Movement |                   | **-**<br>With Captain | **-**<br>Weaknesses  |
+|   **+3**<br>Might   |   **+1**<br>Agility    | **-5**<br>Reason  |  **-5**<br>Intuition  |  **-3**<br>Presence  |
 
 **Earthwalk**
 
@@ -17508,17 +17504,13 @@ If your familiar is destroyed, you can restore them as a respite activity, or by
 
 ###### Familiar Statblock
 
-| **Familiar**               | Level - -           |
-| :------------------------- | :------------------ |
-| **Ancestry:** Familiar     | **EV:** -           |
-| **Stamina:** 2x your level | **Immunity:** -     |
-| **Speed:** 5               | **Weakness:** -     |
-| **Movement:** -            | **With Captain:** - |
-| **Might:** -3              | **Free Strike:** 5  |
-| **Agility:** +2            | **Melee:** -        |
-| **Reason:** 0              | **Ranged:** -       |
-| **Intuition:** 0           | **Size:** 1T        |
-| **Presence:** +1           | **Stability:** 0    |
+**Familiar**
+
+|      Familiar       |                   |           Level -            |           -           |         EV -         |
+| :-----------------: | :---------------: | :--------------------------: | :-------------------: | :------------------: |
+|   **1T**<br>Size    |  **5**<br>Speed   | **2x your level**<br>Stamina |  **0**<br>Stability   | **-**<br>Free Strike |
+| **-**<br>Immunities | **-**<br>Movement |                              | **-**<br>With Captain | **-**<br>Weaknesses  |
+|   **-3**<br>Might   | **+2**<br>Agility |       **0**<br>Reason        |  **0**<br>Intuition   |  **+1**<br>Presence  |
 
 **Telepathic**
 
