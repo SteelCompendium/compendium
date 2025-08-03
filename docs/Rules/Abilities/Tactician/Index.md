@@ -14,7 +14,6 @@ type: index
 | [True Focus](10th-Level%20Features/True%20Focus)                                                              |          | 10    | trait        |
 | [Warmaster](10th-Level%20Features/Warmaster)                                                                  |          | 10    | trait        |
 | ["Strike Now!"](1st-Level%20Features/%22Strike%20Now%21%22)                                                   |          | 1     | trait        |
-| [1St-Level Doctrine Features Table](1st-Level%20Features/1St-Level%20Doctrine%20Features%20Table)             |          | 1     | trait        |
 | [Advanced Tactics](1st-Level%20Features/Advanced%20Tactics)                                                   |          | 1     | trait        |
 | [Battle Cry](1st-Level%20Features/Battle%20Cry)                                                               | 3 Focus  | 1     | ability      |
 | [Commanding Presence](1st-Level%20Features/Commanding%20Presence)                                             |          | 1     | trait        |
@@ -35,9 +34,7 @@ type: index
 | [Strike Now](1st-Level%20Features/Strike%20Now)                                                               |          | 1     | trait        |
 | [Studied Commander](1st-Level%20Features/Studied%20Commander)                                                 |          | 1     | trait        |
 | [Tactical Doctrine](1st-Level%20Features/Tactical%20Doctrine)                                                 |          | 1     | trait        |
-| [Tactician Advancement Table](1st-Level%20Features/Tactician%20Advancement%20Table)                           |          | 1     | trait        |
 | [This Is What We Planned For](1st-Level%20Features/This%20Is%20What%20We%20Planned%20For)                     | 5 Focus  | 1     | ability      |
-| [2Nd-Level Doctrine Features Table](2nd-Level%20Features/2Nd-Level%20Doctrine%20Features%20Table)             |          | 2     | trait        |
 | [Fog Of War](2nd-Level%20Features/Fog%20Of%20War)                                                             | 5 Focus  | 2     | ability      |
 | [Goaded](2nd-Level%20Features/Goaded)                                                                         |          | 2     | trait        |
 | [IVe Got Your Back](2nd-Level%20Features/IVe%20Got%20Your%20Back)                                             | 5 Focus  | 2     | ability      |
@@ -58,9 +55,6 @@ type: index
 | [Improved Field Arsenal](4th-Level%20Features/Improved%20Field%20Arsenal)                                     |          | 4     | trait        |
 | [Perk](4th-Level%20Features/Perk)                                                                             |          | 4     | trait        |
 | [Skill](4th-Level%20Features/Skill)                                                                           |          | 4     | trait        |
-| [5Th-Level Doctrine Features Table](5th-Level%20Features/5Th-Level%20Doctrine%20Features%20Table)             |          | 5     | trait        |
-| [7Th-Level Doctrine Features Table](5th-Level%20Features/7Th-Level%20Doctrine%20Features%20Table)             |          | 5     | trait        |
-| [8Th-Level Doctrine Features Table](5th-Level%20Features/8Th-Level%20Doctrine%20Features%20Table)             |          | 5     | trait        |
 | [Anticipation](5th-Level%20Features/Anticipation)                                                             |          | 5     | trait        |
 | [Distracted](5th-Level%20Features/Distracted)                                                                 |          | 5     | trait        |
 | [I Predicted That](5th-Level%20Features/I%20Predicted%20That)                                                 |          | 5     | trait        |
@@ -79,9 +73,6 @@ type: index
 | [Panic In Their Lines](6th-Level%20Features/Panic%20In%20Their%20Lines)                                       | 9 Focus  | 6     | ability      |
 | [Perk](6th-Level%20Features/Perk)                                                                             |          | 6     | trait        |
 | [To Me Squad!](6th-Level%20Features/To%20Me%20Squad%21)                                                       | 9 Focus  | 6     | ability      |
-| [5Th-Level Doctrine Features Table](7th-Level%20Features/5Th-Level%20Doctrine%20Features%20Table)             |          | 7     | trait        |
-| [7Th-Level Doctrine Features Table](7th-Level%20Features/7Th-Level%20Doctrine%20Features%20Table)             |          | 7     | trait        |
-| [8Th-Level Doctrine Features Table](7th-Level%20Features/8Th-Level%20Doctrine%20Features%20Table)             |          | 7     | trait        |
 | [Asymmetric Warfare](7th-Level%20Features/Asymmetric%20Warfare)                                               |          | 7     | trait        |
 | [Characteristic Increase](7th-Level%20Features/Characteristic%20Increase)                                     |          | 7     | trait        |
 | [Grand Strategy](7th-Level%20Features/Grand%20Strategy)                                                       |          | 7     | trait        |
@@ -89,9 +80,6 @@ type: index
 | [Seize The Initiative](7th-Level%20Features/Seize%20The%20Initiative)                                         |          | 7     | trait        |
 | [Shock And Awe](7th-Level%20Features/Shock%20And%20Awe)                                                       |          | 7     | trait        |
 | [Skill](7th-Level%20Features/Skill)                                                                           |          | 7     | trait        |
-| [5Th-Level Doctrine Features Table](8th-Level%20Features/5Th-Level%20Doctrine%20Features%20Table)             |          | 8     | trait        |
-| [7Th-Level Doctrine Features Table](8th-Level%20Features/7Th-Level%20Doctrine%20Features%20Table)             |          | 8     | trait        |
-| [8Th-Level Doctrine Features Table](8th-Level%20Features/8Th-Level%20Doctrine%20Features%20Table)             |          | 8     | trait        |
 | [Bait And Ambush](8th-Level%20Features/Bait%20And%20Ambush)                                                   |          | 8     | trait        |
 | [Finish Them!](8th-Level%20Features/Finish%20Them%21)                                                         | 11 Focus | 8     | ability      |
 | [Floodgates Open](8th-Level%20Features/Floodgates%20Open)                                                     | 11 Focus | 8     | ability      |

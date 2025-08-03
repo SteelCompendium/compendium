@@ -3,13 +3,13 @@ class: talent
 feature_type: trait
 file_dpath: Talent/5th-Level Features
 item_id: triangulate
-item_index: '07'
+item_index: '05'
 item_name: Triangulate
 level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.talent.5th-level-feature:triangulate
 scdc:
-  - 1.1.1:14.1.1.5:07
+  - 1.1.1:13.1.1.5:05
 source: mcdm.heroes.v1
 type: feature/trait/talent/5th-level-feature
 ---

@@ -3,13 +3,13 @@ class: tactician
 feature_type: trait
 file_dpath: Tactician/5th-Level Features
 item_id: distracted
-item_index: 09
+item_index: '06'
 item_name: Distracted
 level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:distracted
 scdc:
-  - 1.1.1:14.1.4.5:09
+  - 1.1.1:13.1.4.5:06
 source: mcdm.heroes.v1
 type: feature/trait/tactician/5th-level-feature
 ---

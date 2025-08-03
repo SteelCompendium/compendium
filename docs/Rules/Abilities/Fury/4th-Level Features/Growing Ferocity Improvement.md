@@ -9,7 +9,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.fury.4th-level-feature:growing-ferocity-improvement
 scdc:
-  - 1.1.1:14.1.5.10:07
+  - 1.1.1:13.1.5.10:07
 source: mcdm.heroes.v1
 type: feature/trait/fury/4th-level-feature
 ---

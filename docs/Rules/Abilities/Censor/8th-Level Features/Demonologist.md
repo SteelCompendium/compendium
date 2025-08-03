@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/8th-Level Features
 item_id: demonologist
-item_index: '03'
+item_index: '02'
 item_name: Demonologist
 level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.censor.8th-level-feature:demonologist
 scdc:
-  - 1.1.1:14.1.7.2:03
+  - 1.1.1:13.1.7.2:02
 source: mcdm.heroes.v1
 type: feature/trait/censor/8th-level-feature
 ---

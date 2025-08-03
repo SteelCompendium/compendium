@@ -3,13 +3,13 @@ class: 'null'
 feature_type: trait
 file_dpath: Null/1st-Level Features
 item_id: inertial-step
-item_index: '17'
+item_index: '15'
 item_name: Inertial Step
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:inertial-step
 scdc:
-  - 1.1.1:14.1.6.1:17
+  - 1.1.1:13.1.6.1:15
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

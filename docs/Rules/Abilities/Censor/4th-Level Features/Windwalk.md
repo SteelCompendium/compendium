@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/4th-Level Features
 item_id: windwalk
-item_index: '18'
+item_index: '16'
 item_name: Windwalk
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.censor.4th-level-feature:windwalk
 scdc:
-  - 1.1.1:14.1.7.10:18
+  - 1.1.1:13.1.7.10:16
 source: mcdm.heroes.v1
 type: feature/trait/censor/4th-level-feature
 ---

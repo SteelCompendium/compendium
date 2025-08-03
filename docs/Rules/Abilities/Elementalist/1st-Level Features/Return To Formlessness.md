@@ -3,13 +3,13 @@ class: elementalist
 feature_type: trait
 file_dpath: Elementalist/1st-Level Features
 item_id: return-to-formlessness
-item_index: '26'
+item_index: '25'
 item_name: Return to Formlessness
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:return-to-formlessness
 scdc:
-  - 1.1.1:14.1.9.1:26
+  - 1.1.1:13.1.9.1:25
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

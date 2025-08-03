@@ -3,13 +3,13 @@ class: elementalist
 feature_type: trait
 file_dpath: Elementalist/1st-Level Features
 item_id: motivate-earth
-item_index: '27'
+item_index: '26'
 item_name: Motivate Earth
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:motivate-earth
 scdc:
-  - 1.1.1:14.1.9.1:27
+  - 1.1.1:13.1.9.1:26
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

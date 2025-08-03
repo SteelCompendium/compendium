@@ -9,7 +9,7 @@ level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.10th-level-feature:applause
 scdc:
-  - 1.1.1:14.1.3.4:01
+  - 1.1.1:13.1.3.4:01
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/10th-level-feature
 ---

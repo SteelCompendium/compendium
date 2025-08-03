@@ -3,13 +3,13 @@ class: troubadour
 feature_type: trait
 file_dpath: Troubadour/8th-Level Features
 item_id: deleted-scene
-item_index: '06'
+item_index: '05'
 item_name: Deleted Scene
 level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:deleted-scene
 scdc:
-  - 1.1.1:14.1.3.2:06
+  - 1.1.1:13.1.3.2:05
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/8th-level-feature
 ---

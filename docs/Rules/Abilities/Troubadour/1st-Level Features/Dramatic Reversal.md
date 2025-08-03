@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:dramatic-reversal-5-drama
 scdc:
-  - 1.1.1:14.2.3.1:04
+  - 1.1.1:13.2.3.1:04
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/1st-level-feature
 ---

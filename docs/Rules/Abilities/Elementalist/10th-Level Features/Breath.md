@@ -3,13 +3,13 @@ class: elementalist
 feature_type: trait
 file_dpath: Elementalist/10th-Level Features
 item_id: breath
-item_index: 09
+item_index: 08
 item_name: Breath
 level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:breath
 scdc:
-  - 1.1.1:14.1.9.4:09
+  - 1.1.1:13.1.9.4:08
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/10th-level-feature
 ---

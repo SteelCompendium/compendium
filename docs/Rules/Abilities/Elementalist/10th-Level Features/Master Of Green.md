@@ -3,13 +3,13 @@ class: elementalist
 feature_type: trait
 file_dpath: Elementalist/10th-Level Features
 item_id: master-of-green
-item_index: '10'
+item_index: 09
 item_name: Master of Green
 level: 10
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.10th-level-feature:master-of-green
 scdc:
-  - 1.1.1:14.1.9.4:10
+  - 1.1.1:13.1.9.4:09
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/10th-level-feature
 ---

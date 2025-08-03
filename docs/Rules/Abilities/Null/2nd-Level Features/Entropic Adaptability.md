@@ -3,13 +3,13 @@ class: 'null'
 feature_type: trait
 file_dpath: Null/2nd-Level Features
 item_id: entropic-adaptability
-item_index: '04'
+item_index: '03'
 item_name: Entropic Adaptability
 level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.null.2nd-level-feature:entropic-adaptability
 scdc:
-  - 1.1.1:14.1.6.5:04
+  - 1.1.1:13.1.6.5:03
 source: mcdm.heroes.v1
 type: feature/trait/null/2nd-level-feature
 ---

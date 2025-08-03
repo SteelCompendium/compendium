@@ -3,13 +3,13 @@ class: talent
 feature_type: trait
 file_dpath: Talent/1st-Level Features
 item_id: talent-tradition
-item_index: '26'
+item_index: '24'
 item_name: Talent Tradition
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:talent-tradition
 scdc:
-  - 1.1.1:14.1.1.1:26
+  - 1.1.1:13.1.1.1:24
 source: mcdm.heroes.v1
 type: feature/trait/talent/1st-level-feature
 ---

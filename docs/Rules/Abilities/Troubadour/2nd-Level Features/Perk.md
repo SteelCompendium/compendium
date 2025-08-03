@@ -9,7 +9,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.2nd-level-feature:perk
 scdc:
-  - 1.1.1:14.1.3.6:01
+  - 1.1.1:13.1.3.6:01
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/2nd-level-feature
 ---

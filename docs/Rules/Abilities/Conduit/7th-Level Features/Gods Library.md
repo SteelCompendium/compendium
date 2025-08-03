@@ -3,13 +3,13 @@ class: conduit
 feature_type: trait
 file_dpath: Conduit/7th-Level Features
 item_id: gods-library
-item_index: '06'
+item_index: '05'
 item_name: Gods' Library
 level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:gods-library
 scdc:
-  - 1.1.1:14.1.8.9:06
+  - 1.1.1:13.1.8.9:05
 source: mcdm.heroes.v1
 type: feature/trait/conduit/7th-level-feature
 ---

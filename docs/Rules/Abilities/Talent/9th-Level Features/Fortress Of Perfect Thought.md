@@ -9,7 +9,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.trait.talent.9th-level-feature:fortress-of-perfect-thought
 scdc:
-  - 1.1.1:14.1.1.8:01
+  - 1.1.1:13.1.1.8:01
 source: mcdm.heroes.v1
 type: feature/trait/talent/9th-level-feature
 ---

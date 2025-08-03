@@ -12,7 +12,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.ability.null.4th-level-feature:anticipating-strike-9-discipline
 scdc:
-  - 1.1.1:14.2.6.8:01
+  - 1.1.1:13.2.6.8:01
 source: mcdm.heroes.v1
 type: feature/ability/null/4th-level-feature
 ---

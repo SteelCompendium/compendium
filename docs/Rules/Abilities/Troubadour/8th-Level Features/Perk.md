@@ -9,7 +9,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:perk
 scdc:
-  - 1.1.1:14.1.3.2:02
+  - 1.1.1:13.1.3.2:02
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/8th-level-feature
 ---

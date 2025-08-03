@@ -3,13 +3,13 @@ class: fury
 feature_type: trait
 file_dpath: Fury/2nd-Level Features
 item_id: unstoppable-force
-item_index: '03'
+item_index: '02'
 item_name: Unstoppable Force
 level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.fury.2nd-level-feature:unstoppable-force
 scdc:
-  - 1.1.1:14.1.5.6:03
+  - 1.1.1:13.1.5.6:02
 source: mcdm.heroes.v1
 type: feature/trait/fury/2nd-level-feature
 ---

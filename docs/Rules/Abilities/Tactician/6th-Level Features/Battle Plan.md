@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.6th-level-feature:battle-plan-9-focus
 scdc:
-  - 1.1.1:14.2.4.3:02
+  - 1.1.1:13.2.4.3:02
 source: mcdm.heroes.v1
 type: feature/ability/tactician/6th-level-feature
 ---

@@ -12,7 +12,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:muse-of-fire-11-essence
 scdc:
-  - 1.1.1:14.2.9.2:02
+  - 1.1.1:13.2.9.2:02
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/8th-level-feature
 ---

@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/8th-Level Features
 item_id: vow
-item_index: '06'
+item_index: '04'
 item_name: Vow
 level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.censor.8th-level-feature:vow
 scdc:
-  - 1.1.1:14.1.7.2:06
+  - 1.1.1:13.1.7.2:04
 source: mcdm.heroes.v1
 type: feature/trait/censor/8th-level-feature
 ---

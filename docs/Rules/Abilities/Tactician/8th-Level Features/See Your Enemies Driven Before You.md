@@ -3,13 +3,13 @@ class: tactician
 feature_type: trait
 file_dpath: Tactician/8th-Level Features
 item_id: see-your-enemies-driven-before-you
-item_index: '06'
+item_index: '04'
 item_name: See Your Enemies Driven Before You
 level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:see-your-enemies-driven-before-you
 scdc:
-  - 1.1.1:14.1.4.2:06
+  - 1.1.1:13.1.4.2:04
 source: mcdm.heroes.v1
 type: feature/trait/tactician/8th-level-feature
 ---

@@ -3,13 +3,13 @@ class: talent
 feature_type: trait
 file_dpath: Talent/8th-Level Features
 item_id: levitation-field
-item_index: '06'
+item_index: '04'
 item_name: Levitation Field
 level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.talent.8th-level-feature:levitation-field
 scdc:
-  - 1.1.1:14.1.1.2:06
+  - 1.1.1:13.1.1.2:04
 source: mcdm.heroes.v1
 type: feature/trait/talent/8th-level-feature
 ---

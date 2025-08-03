@@ -3,13 +3,13 @@ class: tactician
 feature_type: trait
 file_dpath: Tactician/2nd-Level Features
 item_id: melee-superiority
-item_index: '05'
+item_index: '04'
 item_name: Melee Superiority
 level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.2nd-level-feature:melee-superiority
 scdc:
-  - 1.1.1:14.1.4.6:05
+  - 1.1.1:13.1.4.6:04
 source: mcdm.heroes.v1
 type: feature/trait/tactician/2nd-level-feature
 ---

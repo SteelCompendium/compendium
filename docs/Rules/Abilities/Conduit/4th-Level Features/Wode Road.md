@@ -3,13 +3,13 @@ class: conduit
 feature_type: trait
 file_dpath: Conduit/4th-Level Features
 item_id: wode-road
-item_index: '04'
+item_index: '03'
 item_name: Wode Road
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.4th-level-feature:wode-road
 scdc:
-  - 1.1.1:14.1.8.10:04
+  - 1.1.1:13.1.8.10:03
 source: mcdm.heroes.v1
 type: feature/trait/conduit/4th-level-feature
 ---

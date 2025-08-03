@@ -14,7 +14,6 @@ type: index
 | [Perk](10th-Level%20Features/Perk)                                                                |            | 10    | trait        |
 | [Skill](10th-Level%20Features/Skill)                                                              |            | 10    | trait        |
 | [Subterfuge](10th-Level%20Features/Subterfuge)                                                    |            | 10    | trait        |
-| [1St-Level College Features Table](1st-Level%20Features/1St-Level%20College%20Features%20Table)   |            | 1     | trait        |
 | [Black Ash Teleport](1st-Level%20Features/Black%20Ash%20Teleport)                                 |            | 1     | trait        |
 | [Clever Trick](1st-Level%20Features/Clever%20Trick)                                               | 1 Insight  | 1     | ability      |
 | [Coat The Blade](1st-Level%20Features/Coat%20The%20Blade)                                         |            | 1     | trait        |
@@ -33,7 +32,6 @@ type: index
 | [Kit](1st-Level%20Features/Kit)                                                                   |            | 1     | trait        |
 | [One Hundred Throats](1st-Level%20Features/One%20Hundred%20Throats)                               | 5 Insight  | 1     | ability      |
 | [Setup](1st-Level%20Features/Setup)                                                               | 5 Insight  | 1     | ability      |
-| [Shadow Advancement Table](1st-Level%20Features/Shadow%20Advancement%20Table)                     |            | 1     | trait        |
 | [Shadowstrike](1st-Level%20Features/Shadowstrike)                                                 | 5 Insight  | 1     | ability      |
 | [Smoke Bomb](1st-Level%20Features/Smoke%20Bomb)                                                   |            | 1     | trait        |
 | [Teamwork Has Its Place](1st-Level%20Features/Teamwork%20Has%20Its%20Place)                       |            | 1     | trait        |
@@ -59,8 +57,6 @@ type: index
 | [Perk](4th-Level%20Features/Perk)                                                                 |            | 4     | trait        |
 | [Skill](4th-Level%20Features/Skill)                                                               |            | 4     | trait        |
 | [Surge Of Insight](4th-Level%20Features/Surge%20Of%20Insight)                                     |            | 4     | trait        |
-| [5Th-Level College Features Table](5th-Level%20Features/5Th-Level%20College%20Features%20Table)   |            | 5     | trait        |
-| [8Th-Level College Features Table](5th-Level%20Features/8Th-Level%20College%20Features%20Table)   |            | 5     | trait        |
 | [Blackout](5th-Level%20Features/Blackout)                                                         | 9 Insight  | 5     | ability      |
 | [Harlequin Gambit](5th-Level%20Features/Harlequin%20Gambit)                                       |            | 5     | trait        |
 | [Into The Shadows](5th-Level%20Features/Into%20The%20Shadows)                                     | 9 Insight  | 5     | ability      |
@@ -81,8 +77,6 @@ type: index
 | [Keen Insight](7th-Level%20Features/Keen%20Insight)                                               |            | 7     | trait        |
 | [Skill](7th-Level%20Features/Skill)                                                               |            | 7     | trait        |
 | [Ventriloquist](7th-Level%20Features/Ventriloquist)                                               |            | 7     | trait        |
-| [5Th-Level College Features Table](8th-Level%20Features/5Th-Level%20College%20Features%20Table)   |            | 8     | trait        |
-| [8Th-Level College Features Table](8th-Level%20Features/8Th-Level%20College%20Features%20Table)   |            | 8     | trait        |
 | [Assassinate](8th-Level%20Features/Assassinate)                                                   | 11 Insight | 8     | ability      |
 | [Cinder Step](8th-Level%20Features/Cinder%20Step)                                                 |            | 8     | trait        |
 | [Parkour](8th-Level%20Features/Parkour)                                                           |            | 8     | trait        |

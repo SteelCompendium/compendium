@@ -3,13 +3,13 @@ class: tactician
 feature_type: trait
 file_dpath: Tactician/7th-Level Features
 item_id: shock-and-awe
-item_index: 08
+item_index: '06'
 item_name: Shock and Awe
 level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:shock-and-awe
 scdc:
-  - 1.1.1:14.1.4.9:08
+  - 1.1.1:13.1.4.9:06
 source: mcdm.heroes.v1
 type: feature/trait/tactician/7th-level-feature
 ---

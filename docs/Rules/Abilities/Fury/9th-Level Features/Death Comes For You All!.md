@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.fury.9th-level-feature:death-comes-for-you-all-11-ferocity
 scdc:
-  - 1.1.1:14.2.5.6:01
+  - 1.1.1:13.2.5.6:01
 source: mcdm.heroes.v1
 type: feature/ability/fury/9th-level-feature
 ---

@@ -3,13 +3,13 @@ class: conduit
 feature_type: trait
 file_dpath: Conduit/7th-Level Features
 item_id: word-of-fate-denied
-item_index: '13'
+item_index: '11'
 item_name: Word of Fate Denied
 level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:word-of-fate-denied
 scdc:
-  - 1.1.1:14.1.8.9:13
+  - 1.1.1:13.1.8.9:11
 source: mcdm.heroes.v1
 type: feature/trait/conduit/7th-level-feature
 ---

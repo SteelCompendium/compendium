@@ -3,13 +3,13 @@ class: tactician
 feature_type: trait
 file_dpath: Tactician/7th-Level Features
 item_id: grand-strategy
-item_index: '03'
+item_index: '01'
 item_name: Grand Strategy
 level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:grand-strategy
 scdc:
-  - 1.1.1:14.1.4.9:03
+  - 1.1.1:13.1.4.9:01
 source: mcdm.heroes.v1
 type: feature/trait/tactician/7th-level-feature
 ---

@@ -3,13 +3,13 @@ class: conduit
 feature_type: trait
 file_dpath: Conduit/7th-Level Features
 item_id: your-triumphs-are-remembered
-item_index: '03'
+item_index: '02'
 item_name: Your Triumphs Are Remembered
 level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:your-triumphs-are-remembered
 scdc:
-  - 1.1.1:14.1.8.9:03
+  - 1.1.1:13.1.8.9:02
 source: mcdm.heroes.v1
 type: feature/trait/conduit/7th-level-feature
 ---

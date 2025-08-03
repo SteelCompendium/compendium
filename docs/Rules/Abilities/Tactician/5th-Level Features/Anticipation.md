@@ -3,13 +3,13 @@ class: tactician
 feature_type: trait
 file_dpath: Tactician/5th-Level Features
 item_id: anticipation
-item_index: '04'
+item_index: '02'
 item_name: Anticipation
 level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.5th-level-feature:anticipation
 scdc:
-  - 1.1.1:14.1.4.5:04
+  - 1.1.1:13.1.4.5:02
 source: mcdm.heroes.v1
 type: feature/trait/tactician/5th-level-feature
 ---

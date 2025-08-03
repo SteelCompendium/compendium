@@ -3,13 +3,13 @@ class: elementalist
 feature_type: trait
 file_dpath: Elementalist/8th-Level Features
 item_id: summon-source-of-earth
-item_index: '07'
+item_index: '05'
 item_name: Summon Source of Earth
 level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:summon-source-of-earth
 scdc:
-  - 1.1.1:14.1.9.2:07
+  - 1.1.1:13.1.9.2:05
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/8th-level-feature
 ---

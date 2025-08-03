@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/8th-Level Features
 item_id: their-past-revealed
-item_index: '05'
+item_index: '03'
 item_name: Their Past Revealed
 level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.censor.8th-level-feature:their-past-revealed
 scdc:
-  - 1.1.1:14.1.7.2:05
+  - 1.1.1:13.1.7.2:03
 source: mcdm.heroes.v1
 type: feature/trait/censor/8th-level-feature
 ---

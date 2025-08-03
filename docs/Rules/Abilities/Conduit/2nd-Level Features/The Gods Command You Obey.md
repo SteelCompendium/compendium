@@ -12,7 +12,7 @@ level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.2nd-level-feature:the-gods-command-you-obey-5-piety
 scdc:
-  - 1.1.1:14.2.8.5:06
+  - 1.1.1:13.2.8.5:06
 source: mcdm.heroes.v1
 type: feature/ability/conduit/2nd-level-feature
 ---

@@ -3,13 +3,13 @@ class: fury
 feature_type: trait
 file_dpath: Fury/3rd-Level Features
 item_id: see-through-their-tricks
-item_index: '04'
+item_index: '03'
 item_name: See Through Their Tricks
 level: 3
 scc:
   - mcdm.heroes.v1:feature.trait.fury.3rd-level-feature:see-through-their-tricks
 scdc:
-  - 1.1.1:14.1.5.7:04
+  - 1.1.1:13.1.5.7:03
 source: mcdm.heroes.v1
 type: feature/trait/fury/3rd-level-feature
 ---

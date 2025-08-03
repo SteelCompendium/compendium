@@ -3,13 +3,13 @@ class: shadow
 feature_type: trait
 file_dpath: Shadow/5th-Level Features
 item_id: harlequin-gambit
-item_index: '04'
+item_index: '02'
 item_name: Harlequin Gambit
 level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:harlequin-gambit
 scdc:
-  - 1.1.1:14.1.2.5:04
+  - 1.1.1:13.1.2.5:02
 source: mcdm.heroes.v1
 type: feature/trait/shadow/5th-level-feature
 ---

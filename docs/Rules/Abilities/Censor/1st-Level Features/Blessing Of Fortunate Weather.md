@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/1st-Level Features
 item_id: blessing-of-fortunate-weather
-item_index: '25'
+item_index: '23'
 item_name: Blessing of Fortunate Weather
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:blessing-of-fortunate-weather
 scdc:
-  - 1.1.1:14.1.7.1:25
+  - 1.1.1:13.1.7.1:23
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

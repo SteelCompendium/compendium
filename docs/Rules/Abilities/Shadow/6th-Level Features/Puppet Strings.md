@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.6th-level-feature:puppet-strings-9-insight
 scdc:
-  - 1.1.1:14.2.2.3:04
+  - 1.1.1:13.2.2.3:04
 source: mcdm.heroes.v1
 type: feature/ability/shadow/6th-level-feature
 ---

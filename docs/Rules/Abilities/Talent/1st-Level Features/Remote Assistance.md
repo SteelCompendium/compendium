@@ -3,13 +3,13 @@ class: talent
 feature_type: trait
 file_dpath: Talent/1st-Level Features
 item_id: remote-assistance
-item_index: '24'
+item_index: '22'
 item_name: Remote Assistance
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:remote-assistance
 scdc:
-  - 1.1.1:14.1.1.1:24
+  - 1.1.1:13.1.1.1:22
 source: mcdm.heroes.v1
 type: feature/trait/talent/1st-level-feature
 ---

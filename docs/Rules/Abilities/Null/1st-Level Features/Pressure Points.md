@@ -3,13 +3,13 @@ class: 'null'
 feature_type: trait
 file_dpath: Null/1st-Level Features
 item_id: pressure-points
-item_index: '16'
+item_index: '14'
 item_name: Pressure Points
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:pressure-points
 scdc:
-  - 1.1.1:14.1.6.1:16
+  - 1.1.1:13.1.6.1:14
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

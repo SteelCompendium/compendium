@@ -17,13 +17,11 @@ type: index
 | [1St-Level Aspect Features Tables](1st-Level%20Features/1St-Level%20Aspect%20Features%20Tables)     |             | 1     | trait        |
 | [Back!](1st-Level%20Features/Back%21)                                                               | 3 Ferocity  | 1     | ability      |
 | [Beast Shape](1st-Level%20Features/Beast%20Shape)                                                   |             | 1     | trait        |
-| [Berserker Growing Ferocity Table](1st-Level%20Features/Berserker%20Growing%20Ferocity%20Table)     |             | 1     | trait        |
 | [Blood For Blood!](1st-Level%20Features/Blood%20For%20Blood%21)                                     | 5 Ferocity  | 1     | ability      |
 | [Brutal Slam](1st-Level%20Features/Brutal%20Slam)                                                   |             | 1     | trait        |
 | [Ferocity In Combat](1st-Level%20Features/Ferocity%20In%20Combat)                                   |             | 1     | trait        |
 | [Ferocity Outside Of Combat](1st-Level%20Features/Ferocity%20Outside%20Of%20Combat)                 |             | 1     | trait        |
 | [Furious Change](1st-Level%20Features/Furious%20Change)                                             |             | 1     | trait        |
-| [Fury Advancement Table](1st-Level%20Features/Fury%20Advancement%20Table)                           |             | 1     | trait        |
 | [Hit And Run](1st-Level%20Features/Hit%20And%20Run)                                                 |             | 1     | trait        |
 | [Impaled!](1st-Level%20Features/Impaled%21)                                                         |             | 1     | trait        |
 | [Kit](1st-Level%20Features/Kit)                                                                     |             | 1     | trait        |
@@ -34,7 +32,6 @@ type: index
 | [Primordial Aspect](1st-Level%20Features/Primordial%20Aspect)                                       |             | 1     | trait        |
 | [Primordial Cunning](1st-Level%20Features/Primordial%20Cunning)                                     |             | 1     | trait        |
 | [Primordial Strength](1st-Level%20Features/Primordial%20Strength)                                   |             | 1     | trait        |
-| [Reaver Growing Ferocity Table](1st-Level%20Features/Reaver%20Growing%20Ferocity%20Table)           |             | 1     | trait        |
 | [Relentless Hunter](1st-Level%20Features/Relentless%20Hunter)                                       |             | 1     | trait        |
 | [Thunder Roar](1st-Level%20Features/Thunder%20Roar)                                                 | 5 Ferocity  | 1     | ability      |
 | [Tide Of Death](1st-Level%20Features/Tide%20Of%20Death)                                             | 3 Ferocity  | 1     | ability      |
@@ -42,12 +39,10 @@ type: index
 | [To The Uttermost End](1st-Level%20Features/To%20The%20Uttermost%20End)                             | 5 Ferocity  | 1     | ability      |
 | [Unearthly Reflexes](1st-Level%20Features/Unearthly%20Reflexes)                                     |             | 1     | trait        |
 | [Your Entrails Are Your Extrails!](1st-Level%20Features/Your%20Entrails%20Are%20Your%20Extrails%21) | 3 Ferocity  | 1     | ability      |
-| [2Nd-Level Aspect Features Table](2nd-Level%20Features/2Nd-Level%20Aspect%20Features%20Table)       |             | 2     | trait        |
 | [Inescapable Wrath](2nd-Level%20Features/Inescapable%20Wrath)                                       |             | 2     | trait        |
 | [Perk](2nd-Level%20Features/Perk)                                                                   |             | 2     | trait        |
 | [Tooth And Claw](2nd-Level%20Features/Tooth%20And%20Claw)                                           |             | 2     | trait        |
 | [Unstoppable Force](2nd-Level%20Features/Unstoppable%20Force)                                       |             | 2     | trait        |
-| [3Rd-Level Aspect Features Table](3rd-Level%20Features/3Rd-Level%20Aspect%20Features%20Table)       |             | 3     | trait        |
 | [Demon Unleashed](3rd-Level%20Features/Demon%20Unleashed)                                           | 7 Ferocity  | 3     | ability      |
 | [Face The Storm!](3rd-Level%20Features/Face%20The%20Storm%21)                                       | 7 Ferocity  | 3     | ability      |
 | [Immovable Object](3rd-Level%20Features/Immovable%20Object)                                         |             | 3     | trait        |
@@ -62,8 +57,6 @@ type: index
 | [Primordial Attunement](4th-Level%20Features/Primordial%20Attunement)                               |             | 4     | trait        |
 | [Primordial Strike](4th-Level%20Features/Primordial%20Strike)                                       |             | 4     | trait        |
 | [Skill](4th-Level%20Features/Skill)                                                                 |             | 4     | trait        |
-| [5Th-Level Aspect Features Table](5th-Level%20Features/5Th-Level%20Aspect%20Features%20Table)       |             | 5     | trait        |
-| [8Th-Level Aspect Features Table](5th-Level%20Features/8Th-Level%20Aspect%20Features%20Table)       |             | 5     | trait        |
 | [Bounder](5th-Level%20Features/Bounder)                                                             |             | 5     | trait        |
 | [Debilitating Strike](5th-Level%20Features/Debilitating%20Strike)                                   | 9 Ferocity  | 5     | ability      |
 | [My Turn!](5th-Level%20Features/My%20Turn%21)                                                       | 9 Ferocity  | 5     | ability      |
@@ -85,8 +78,6 @@ type: index
 | [Greater Ferocity](7th-Level%20Features/Greater%20Ferocity)                                         |             | 7     | trait        |
 | [Growing Ferocity Improvement](7th-Level%20Features/Growing%20Ferocity%20Improvement)               |             | 7     | trait        |
 | [Skill](7th-Level%20Features/Skill)                                                                 |             | 7     | trait        |
-| [5Th-Level Aspect Features Table](8th-Level%20Features/5Th-Level%20Aspect%20Features%20Table)       |             | 8     | trait        |
-| [8Th-Level Aspect Features Table](8th-Level%20Features/8Th-Level%20Aspect%20Features%20Table)       |             | 8     | trait        |
 | [A Step Ahead](8th-Level%20Features/A%20Step%20Ahead)                                               |             | 8     | trait        |
 | [Elemental Ferocity](8th-Level%20Features/Elemental%20Ferocity)                                     | 11 Ferocity | 8     | ability      |
 | [Menagerie](8th-Level%20Features/Menagerie)                                                         |             | 8     | trait        |

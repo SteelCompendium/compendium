@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.talent.9th-level-feature:synaptic-terror-11-clarity
 scdc:
-  - 1.1.1:14.2.1.7:01
+  - 1.1.1:13.2.1.7:01
 source: mcdm.heroes.v1
 type: feature/ability/talent/9th-level-feature
 ---

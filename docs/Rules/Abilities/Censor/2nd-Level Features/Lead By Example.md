@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/2nd-Level Features
 item_id: lead-by-example
-item_index: 08
+item_index: '07'
 item_name: Lead by Example
 level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:lead-by-example
 scdc:
-  - 1.1.1:14.1.7.6:08
+  - 1.1.1:13.1.7.6:07
 source: mcdm.heroes.v1
 type: feature/trait/censor/2nd-level-feature
 ---

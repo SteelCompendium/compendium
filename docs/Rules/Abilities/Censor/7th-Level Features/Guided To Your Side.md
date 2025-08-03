@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/7th-Level Features
 item_id: guided-to-your-side
-item_index: '14'
+item_index: '12'
 item_name: Guided to Your Side
 level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.censor.7th-level-feature:guided-to-your-side
 scdc:
-  - 1.1.1:14.1.7.9:14
+  - 1.1.1:13.1.7.9:12
 source: mcdm.heroes.v1
 type: feature/trait/censor/7th-level-feature
 ---

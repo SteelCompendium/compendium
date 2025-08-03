@@ -3,13 +3,13 @@ class: 'null'
 feature_type: trait
 file_dpath: Null/1st-Level Features
 item_id: dance-of-blows
-item_index: '14'
+item_index: '12'
 item_name: Dance of Blows
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:dance-of-blows
 scdc:
-  - 1.1.1:14.1.6.1:14
+  - 1.1.1:13.1.6.1:12
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

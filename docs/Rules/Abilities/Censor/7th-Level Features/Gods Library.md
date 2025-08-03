@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.censor.7th-level-feature:gods-library
 scdc:
-  - 1.1.1:14.1.7.9:04
+  - 1.1.1:13.1.7.9:04
 source: mcdm.heroes.v1
 type: feature/trait/censor/7th-level-feature
 ---

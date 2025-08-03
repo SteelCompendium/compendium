@@ -15,7 +15,6 @@ type: index
 | [Skill](10th-Level%20Features/Skill)                                                                            |          | 10    | trait        |
 | ["Ballad Of The Beast"](1st-Level%20Features/%22Ballad%20Of%20The%20Beast%22)                                   |          | 1     | trait        |
 | ["Thunder Mother"](1st-Level%20Features/%22Thunder%20Mother%22)                                                 |          | 1     | trait        |
-| [1St-Level Class Act Features Table](1st-Level%20Features/1St-Level%20Class%20Act%20Features%20Table)           |          | 1     | trait        |
 | [Acrobatics](1st-Level%20Features/Acrobatics)                                                                   |          | 1     | trait        |
 | [Artful Flourish](1st-Level%20Features/Artful%20Flourish)                                                       |          | 1     | trait        |
 | [Blocking](1st-Level%20Features/Blocking)                                                                       |          | 1     | trait        |
@@ -40,7 +39,6 @@ type: index
 | [Scene Partner](1st-Level%20Features/Scene%20Partner)                                                           |          | 1     | trait        |
 | [Star Power](1st-Level%20Features/Star%20Power)                                                                 | 1 Drama  | 1     | ability      |
 | [Troubadour Abilities](1st-Level%20Features/Troubadour%20Abilities)                                             |          | 1     | trait        |
-| [Troubadour Advancement Table](1st-Level%20Features/Troubadour%20Advancement%20Table)                           |          | 1     | trait        |
 | [Troubadour Class Act](1st-Level%20Features/Troubadour%20Class%20Act)                                           |          | 1     | trait        |
 | [Turnabout Is Fair Play](1st-Level%20Features/Turnabout%20Is%20Fair%20Play)                                     |          | 1     | trait        |
 | [Upstage](1st-Level%20Features/Upstage)                                                                         | 3 Drama  | 1     | ability      |
@@ -58,7 +56,6 @@ type: index
 | [Twist At The End](2nd-Level%20Features/Twist%20At%20The%20End)                                                 | 5 Drama  | 2     | ability      |
 | ["Fire Up The Night"](3rd-Level%20Features/%22Fire%20Up%20The%20Night%22)                                       |          | 3     | trait        |
 | ["Never-Ending Hero"](3rd-Level%20Features/%22Never-Ending%20Hero%22)                                           |          | 3     | trait        |
-| [3Rd-Level Class Act Features Table](3rd-Level%20Features/3Rd-Level%20Class%20Act%20Features%20Table)           |          | 3     | trait        |
 | [Extensive Rewrites](3rd-Level%20Features/Extensive%20Rewrites)                                                 | 7 Drama  | 3     | ability      |
 | [Foil](3rd-Level%20Features/Foil)                                                                               |          | 3     | trait        |
 | [Infernal Gavotte](3rd-Level%20Features/Infernal%20Gavotte)                                                     | 7 Drama  | 3     | ability      |
@@ -94,7 +91,6 @@ type: index
 | [Characteristic Increase](7th-Level%20Features/Characteristic%20Increase)                                       |          | 7     | trait        |
 | [Equal Billing](7th-Level%20Features/Equal%20Billing)                                                           |          | 7     | trait        |
 | [Skill](7th-Level%20Features/Skill)                                                                             |          | 7     | trait        |
-| [8Th-Level Class Act Features Table](8th-Level%20Features/8Th-Level%20Class%20Act%20Features%20Table)           |          | 8     | trait        |
 | [Deleted Scene](8th-Level%20Features/Deleted%20Scene)                                                           |          | 8     | trait        |
 | [Dramatic Reveal](8th-Level%20Features/Dramatic%20Reveal)                                                       | 11 Drama | 8     | ability      |
 | [Masterwork](8th-Level%20Features/Masterwork)                                                                   |          | 8     | trait        |

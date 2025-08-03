@@ -12,7 +12,7 @@ level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:coup-de-grace-5-insight
 scdc:
-  - 1.1.1:14.2.2.1:04
+  - 1.1.1:13.2.2.1:04
 source: mcdm.heroes.v1
 type: feature/ability/shadow/1st-level-feature
 ---

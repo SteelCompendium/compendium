@@ -12,7 +12,6 @@ type: index
 | [Behold The Mystery](Behold%20The%20Mystery)                                           | 3 Essence | 1     | ability      |
 | [Bifurcated Incineration](Bifurcated%20Incineration)                                   |           | 1     | trait        |
 | [Breath Of Dawn Remembered](Breath%20Of%20Dawn%20Remembered)                           |           | 1     | trait        |
-| [Elementalist Advancement Table](Elementalist%20Advancement%20Table)                   |           | 1     | trait        |
 | [Enchantment Of Battle](Enchantment%20Of%20Battle)                                     |           | 1     | trait        |
 | [Enchantment Of Celerity](Enchantment%20Of%20Celerity)                                 |           | 1     | trait        |
 | [Enchantment Of Destruction](Enchantment%20Of%20Destruction)                           |           | 1     | trait        |

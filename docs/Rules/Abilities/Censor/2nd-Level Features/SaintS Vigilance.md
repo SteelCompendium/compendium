@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/2nd-Level Features
 item_id: saints-vigilance
-item_index: '06'
+item_index: '05'
 item_name: Saint's Vigilance
 level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.censor.2nd-level-feature:saints-vigilance
 scdc:
-  - 1.1.1:14.1.7.6:06
+  - 1.1.1:13.1.7.6:05
 source: mcdm.heroes.v1
 type: feature/trait/censor/2nd-level-feature
 ---

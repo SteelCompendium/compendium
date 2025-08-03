@@ -7,9 +7,6 @@ type: index
 
 | file_name                                                                          | cost     | level | feature_type |
 | ---------------------------------------------------------------------------------- | -------- | ----- | ------------ |
-| [5Th-Level Doctrine Features Table](5Th-Level%20Doctrine%20Features%20Table)       |          | 8     | trait        |
-| [7Th-Level Doctrine Features Table](7Th-Level%20Doctrine%20Features%20Table)       |          | 8     | trait        |
-| [8Th-Level Doctrine Features Table](8Th-Level%20Doctrine%20Features%20Table)       |          | 8     | trait        |
 | [Bait And Ambush](Bait%20And%20Ambush)                                             |          | 8     | trait        |
 | [Finish Them!](Finish%20Them%21)                                                   | 11 Focus | 8     | ability      |
 | [Floodgates Open](Floodgates%20Open)                                               | 11 Focus | 8     | ability      |

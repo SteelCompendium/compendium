@@ -3,13 +3,13 @@ class: shadow
 feature_type: trait
 file_dpath: Shadow/5th-Level Features
 item_id: trail-of-cinders
-item_index: '03'
+item_index: '01'
 item_name: Trail of Cinders
 level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.5th-level-feature:trail-of-cinders
 scdc:
-  - 1.1.1:14.1.2.5:03
+  - 1.1.1:13.1.2.5:01
 source: mcdm.heroes.v1
 type: feature/trait/shadow/5th-level-feature
 ---

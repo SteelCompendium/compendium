@@ -3,13 +3,13 @@ class: fury
 feature_type: trait
 file_dpath: Fury/1st-Level Features
 item_id: impaled
-item_index: '04'
+item_index: '03'
 item_name: Impaled!
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.fury.1st-level-feature:impaled
 scdc:
-  - 1.1.1:14.1.5.1:04
+  - 1.1.1:13.1.5.1:03
 source: mcdm.heroes.v1
 type: feature/trait/fury/1st-level-feature
 ---

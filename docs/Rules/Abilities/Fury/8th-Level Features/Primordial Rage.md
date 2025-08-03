@@ -12,7 +12,7 @@ level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.fury.8th-level-feature:primordial-rage-11-ferocity
 scdc:
-  - 1.1.1:14.2.5.2:03
+  - 1.1.1:13.2.5.2:03
 source: mcdm.heroes.v1
 type: feature/ability/fury/8th-level-feature
 ---

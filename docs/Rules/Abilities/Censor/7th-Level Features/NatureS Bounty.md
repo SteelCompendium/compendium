@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/7th-Level Features
 item_id: natures-bounty
-item_index: '15'
+item_index: '13'
 item_name: Nature's Bounty
 level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.censor.7th-level-feature:natures-bounty
 scdc:
-  - 1.1.1:14.1.7.9:15
+  - 1.1.1:13.1.7.9:13
 source: mcdm.heroes.v1
 type: feature/trait/censor/7th-level-feature
 ---

@@ -9,7 +9,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.trait.censor.3rd-level-feature:look-on-my-work-and-despair
 scdc:
-  - 1.1.1:14.1.7.7:01
+  - 1.1.1:13.1.7.7:01
 source: mcdm.heroes.v1
 type: feature/trait/censor/3rd-level-feature
 ---

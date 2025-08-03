@@ -3,13 +3,13 @@ class: fury
 feature_type: trait
 file_dpath: Fury/1st-Level Features
 item_id: kit
-item_index: '10'
+item_index: 09
 item_name: Kit
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.fury.1st-level-feature:kit
 scdc:
-  - 1.1.1:14.1.5.1:10
+  - 1.1.1:13.1.5.1:09
 source: mcdm.heroes.v1
 type: feature/trait/fury/1st-level-feature
 ---

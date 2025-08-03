@@ -3,13 +3,13 @@ class: tactician
 feature_type: trait
 file_dpath: Tactician/7th-Level Features
 item_id: asymmetric-warfare
-item_index: '06'
+item_index: '04'
 item_name: Asymmetric Warfare
 level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.7th-level-feature:asymmetric-warfare
 scdc:
-  - 1.1.1:14.1.4.9:06
+  - 1.1.1:13.1.4.9:04
 source: mcdm.heroes.v1
 type: feature/trait/tactician/7th-level-feature
 ---

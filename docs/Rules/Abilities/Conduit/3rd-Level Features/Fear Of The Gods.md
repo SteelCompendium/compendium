@@ -12,7 +12,7 @@ level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.3rd-level-feature:fear-of-the-gods-7-piety
 scdc:
-  - 1.1.1:14.2.8.6:04
+  - 1.1.1:13.2.8.6:04
 source: mcdm.heroes.v1
 type: feature/ability/conduit/3rd-level-feature
 ---

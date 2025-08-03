@@ -3,13 +3,13 @@ class: fury
 feature_type: trait
 file_dpath: Fury/2nd-Level Features
 item_id: tooth-and-claw
-item_index: '05'
+item_index: '04'
 item_name: Tooth and Claw
 level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.fury.2nd-level-feature:tooth-and-claw
 scdc:
-  - 1.1.1:14.1.5.6:05
+  - 1.1.1:13.1.5.6:04
 source: mcdm.heroes.v1
 type: feature/trait/fury/2nd-level-feature
 ---

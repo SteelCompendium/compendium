@@ -3,13 +3,13 @@ class: 'null'
 feature_type: trait
 file_dpath: Null/2nd-Level Features
 item_id: inertial-sink
-item_index: '05'
+item_index: '04'
 item_name: Inertial Sink
 level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.null.2nd-level-feature:inertial-sink
 scdc:
-  - 1.1.1:14.1.6.5:05
+  - 1.1.1:13.1.6.5:04
 source: mcdm.heroes.v1
 type: feature/trait/null/2nd-level-feature
 ---

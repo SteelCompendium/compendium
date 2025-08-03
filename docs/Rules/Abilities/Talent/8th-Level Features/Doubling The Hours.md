@@ -3,13 +3,13 @@ class: talent
 feature_type: trait
 file_dpath: Talent/8th-Level Features
 item_id: doubling-the-hours
-item_index: '03'
+item_index: '02'
 item_name: Doubling the Hours
 level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.talent.8th-level-feature:doubling-the-hours
 scdc:
-  - 1.1.1:14.1.1.2:03
+  - 1.1.1:13.1.1.2:02
 source: mcdm.heroes.v1
 type: feature/trait/talent/8th-level-feature
 ---

@@ -3,13 +3,13 @@ class: elementalist
 feature_type: trait
 file_dpath: Elementalist/3rd-Level Features
 item_id: earth-accepts-me
-item_index: '04'
+item_index: '03'
 item_name: Earth Accepts Me
 level: 3
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.3rd-level-feature:earth-accepts-me
 scdc:
-  - 1.1.1:14.1.9.7:04
+  - 1.1.1:13.1.9.7:03
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/3rd-level-feature
 ---

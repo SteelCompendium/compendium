@@ -3,13 +3,13 @@ class: tactician
 feature_type: trait
 file_dpath: Tactician/8th-Level Features
 item_id: pincer-movement
-item_index: '05'
+item_index: '03'
 item_name: Pincer Movement
 level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:pincer-movement
 scdc:
-  - 1.1.1:14.1.4.2:05
+  - 1.1.1:13.1.4.2:03
 source: mcdm.heroes.v1
 type: feature/trait/tactician/8th-level-feature
 ---

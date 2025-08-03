@@ -3,13 +3,13 @@ class: tactician
 feature_type: trait
 file_dpath: Tactician/2nd-Level Features
 item_id: infiltration-tactics
-item_index: '04'
+item_index: '03'
 item_name: Infiltration Tactics
 level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.2nd-level-feature:infiltration-tactics
 scdc:
-  - 1.1.1:14.1.4.6:04
+  - 1.1.1:13.1.4.6:03
 source: mcdm.heroes.v1
 type: feature/trait/tactician/2nd-level-feature
 ---

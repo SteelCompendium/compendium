@@ -3,13 +3,13 @@ class: troubadour
 feature_type: trait
 file_dpath: Troubadour/1st-Level Features
 item_id: riposte
-item_index: '12'
+item_index: '11'
 item_name: Riposte
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:riposte
 scdc:
-  - 1.1.1:14.1.3.1:12
+  - 1.1.1:13.1.3.1:11
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/1st-level-feature
 ---

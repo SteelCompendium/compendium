@@ -12,7 +12,7 @@ level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.6th-level-feature:magma-titan-9-essence
 scdc:
-  - 1.1.1:14.2.9.3:02
+  - 1.1.1:13.2.9.3:02
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/6th-level-feature
 ---

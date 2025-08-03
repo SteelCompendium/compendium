@@ -3,13 +3,13 @@ class: tactician
 feature_type: trait
 file_dpath: Tactician/8th-Level Features
 item_id: bait-and-ambush
-item_index: '03'
+item_index: '01'
 item_name: Bait and Ambush
 level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.8th-level-feature:bait-and-ambush
 scdc:
-  - 1.1.1:14.1.4.2:03
+  - 1.1.1:13.1.4.2:01
 source: mcdm.heroes.v1
 type: feature/trait/tactician/8th-level-feature
 ---

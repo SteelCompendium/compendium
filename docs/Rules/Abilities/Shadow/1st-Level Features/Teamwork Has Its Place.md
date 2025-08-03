@@ -3,13 +3,13 @@ class: shadow
 feature_type: trait
 file_dpath: Shadow/1st-Level Features
 item_id: teamwork-has-its-place
-item_index: '11'
+item_index: 09
 item_name: Teamwork Has Its Place
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:teamwork-has-its-place
 scdc:
-  - 1.1.1:14.1.2.1:11
+  - 1.1.1:13.1.2.1:09
 source: mcdm.heroes.v1
 type: feature/trait/shadow/1st-level-feature
 ---

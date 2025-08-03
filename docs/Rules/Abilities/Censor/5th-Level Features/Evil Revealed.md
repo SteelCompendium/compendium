@@ -3,13 +3,13 @@ class: censor
 feature_type: trait
 file_dpath: Censor/5th-Level Features
 item_id: evil-revealed
-item_index: '05'
+item_index: '03'
 item_name: Evil Revealed
 level: 5
 scc:
   - mcdm.heroes.v1:feature.trait.censor.5th-level-feature:evil-revealed
 scdc:
-  - 1.1.1:14.1.7.5:05
+  - 1.1.1:13.1.7.5:03
 source: mcdm.heroes.v1
 type: feature/trait/censor/5th-level-feature
 ---

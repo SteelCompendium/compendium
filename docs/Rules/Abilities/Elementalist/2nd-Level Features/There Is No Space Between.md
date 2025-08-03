@@ -3,13 +3,13 @@ class: elementalist
 feature_type: trait
 file_dpath: Elementalist/2nd-Level Features
 item_id: there-is-no-space-between
-item_index: '04'
+item_index: '03'
 item_name: There Is No Space Between
 level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:there-is-no-space-between
 scdc:
-  - 1.1.1:14.1.9.6:04
+  - 1.1.1:13.1.9.6:03
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/2nd-level-feature
 ---

@@ -3,13 +3,13 @@ class: conduit
 feature_type: trait
 file_dpath: Conduit/7th-Level Features
 item_id: natures-bounty
-item_index: '16'
+item_index: '14'
 item_name: Nature's Bounty
 level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:natures-bounty
 scdc:
-  - 1.1.1:14.1.8.9:16
+  - 1.1.1:13.1.8.9:14
 source: mcdm.heroes.v1
 type: feature/trait/conduit/7th-level-feature
 ---

@@ -9,7 +9,7 @@ level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.7th-level-feature:equal-billing
 scdc:
-  - 1.1.1:14.1.3.9:03
+  - 1.1.1:13.1.3.9:03
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/7th-level-feature
 ---

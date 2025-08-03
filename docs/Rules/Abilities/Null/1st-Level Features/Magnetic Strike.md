@@ -3,13 +3,13 @@ class: 'null'
 feature_type: trait
 file_dpath: Null/1st-Level Features
 item_id: magnetic-strike
-item_index: 09
+item_index: 08
 item_name: Magnetic Strike
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.null.1st-level-feature:magnetic-strike
 scdc:
-  - 1.1.1:14.1.6.1:09
+  - 1.1.1:13.1.6.1:08
 source: mcdm.heroes.v1
 type: feature/trait/null/1st-level-feature
 ---

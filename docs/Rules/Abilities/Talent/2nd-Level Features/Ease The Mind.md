@@ -3,13 +3,13 @@ class: talent
 feature_type: trait
 file_dpath: Talent/2nd-Level Features
 item_id: ease-the-mind
-item_index: '05'
+item_index: '04'
 item_name: Ease the Mind
 level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.talent.2nd-level-feature:ease-the-mind
 scdc:
-  - 1.1.1:14.1.1.6:05
+  - 1.1.1:13.1.1.6:04
 source: mcdm.heroes.v1
 type: feature/trait/talent/2nd-level-feature
 ---

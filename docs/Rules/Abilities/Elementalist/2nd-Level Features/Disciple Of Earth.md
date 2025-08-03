@@ -3,13 +3,13 @@ class: elementalist
 feature_type: trait
 file_dpath: Elementalist/2nd-Level Features
 item_id: disciple-of-earth
-item_index: '05'
+item_index: '04'
 item_name: Disciple of Earth
 level: 2
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.2nd-level-feature:disciple-of-earth
 scdc:
-  - 1.1.1:14.1.9.6:05
+  - 1.1.1:13.1.9.6:04
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/2nd-level-feature
 ---

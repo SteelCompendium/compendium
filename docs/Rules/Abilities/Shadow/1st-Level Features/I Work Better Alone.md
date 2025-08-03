@@ -3,13 +3,13 @@ class: shadow
 feature_type: trait
 file_dpath: Shadow/1st-Level Features
 item_id: i-work-better-alone
-item_index: 08
+item_index: '07'
 item_name: I Work Better Alone
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:i-work-better-alone
 scdc:
-  - 1.1.1:14.1.2.1:08
+  - 1.1.1:13.1.2.1:07
 source: mcdm.heroes.v1
 type: feature/trait/shadow/1st-level-feature
 ---

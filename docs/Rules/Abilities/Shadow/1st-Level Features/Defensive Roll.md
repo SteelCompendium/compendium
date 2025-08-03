@@ -3,13 +3,13 @@ class: shadow
 feature_type: trait
 file_dpath: Shadow/1st-Level Features
 item_id: defensive-roll
-item_index: '12'
+item_index: '10'
 item_name: Defensive Roll
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:defensive-roll
 scdc:
-  - 1.1.1:14.1.2.1:12
+  - 1.1.1:13.1.2.1:10
 source: mcdm.heroes.v1
 type: feature/trait/shadow/1st-level-feature
 ---

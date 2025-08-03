@@ -12,7 +12,7 @@ level: 9
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.9th-level-feature:blessing-of-the-fortress-11-piety
 scdc:
-  - 1.1.1:14.2.8.7:02
+  - 1.1.1:13.2.8.7:02
 source: mcdm.heroes.v1
 type: feature/ability/conduit/9th-level-feature
 ---

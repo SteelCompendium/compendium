@@ -3,13 +3,13 @@ class: elementalist
 feature_type: trait
 file_dpath: Elementalist/1st-Level Features
 item_id: unquiet-ground
-item_index: '25'
+item_index: '24'
 item_name: Unquiet Ground
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:unquiet-ground
 scdc:
-  - 1.1.1:14.1.9.1:25
+  - 1.1.1:13.1.9.1:24
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

@@ -3,13 +3,13 @@ class: elementalist
 feature_type: trait
 file_dpath: Elementalist/3rd-Level Features
 item_id: a-conversation-with-fire
-item_index: '05'
+item_index: '04'
 item_name: A Conversation With Fire
 level: 3
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.3rd-level-feature:a-conversation-with-fire
 scdc:
-  - 1.1.1:14.1.9.7:05
+  - 1.1.1:13.1.9.7:04
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/3rd-level-feature
 ---

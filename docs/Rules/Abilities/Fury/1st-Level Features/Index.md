@@ -10,13 +10,11 @@ type: index
 | [1St-Level Aspect Features Tables](1St-Level%20Aspect%20Features%20Tables)     |            | 1     | trait        |
 | [Back!](Back%21)                                                               | 3 Ferocity | 1     | ability      |
 | [Beast Shape](Beast%20Shape)                                                   |            | 1     | trait        |
-| [Berserker Growing Ferocity Table](Berserker%20Growing%20Ferocity%20Table)     |            | 1     | trait        |
 | [Blood For Blood!](Blood%20For%20Blood%21)                                     | 5 Ferocity | 1     | ability      |
 | [Brutal Slam](Brutal%20Slam)                                                   |            | 1     | trait        |
 | [Ferocity In Combat](Ferocity%20In%20Combat)                                   |            | 1     | trait        |
 | [Ferocity Outside Of Combat](Ferocity%20Outside%20Of%20Combat)                 |            | 1     | trait        |
 | [Furious Change](Furious%20Change)                                             |            | 1     | trait        |
-| [Fury Advancement Table](Fury%20Advancement%20Table)                           |            | 1     | trait        |
 | [Hit And Run](Hit%20And%20Run)                                                 |            | 1     | trait        |
 | [Impaled!](Impaled%21)                                                         |            | 1     | trait        |
 | [Kit](Kit)                                                                     |            | 1     | trait        |
@@ -27,7 +25,6 @@ type: index
 | [Primordial Aspect](Primordial%20Aspect)                                       |            | 1     | trait        |
 | [Primordial Cunning](Primordial%20Cunning)                                     |            | 1     | trait        |
 | [Primordial Strength](Primordial%20Strength)                                   |            | 1     | trait        |
-| [Reaver Growing Ferocity Table](Reaver%20Growing%20Ferocity%20Table)           |            | 1     | trait        |
 | [Relentless Hunter](Relentless%20Hunter)                                       |            | 1     | trait        |
 | [Thunder Roar](Thunder%20Roar)                                                 | 5 Ferocity | 1     | ability      |
 | [Tide Of Death](Tide%20Of%20Death)                                             | 3 Ferocity | 1     | ability      |
