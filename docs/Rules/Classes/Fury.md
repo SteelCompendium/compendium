@@ -469,7 +469,9 @@ Choose one of the following abilities.
 | ---------------------- | -----------: |
 | **📏 Self; see below** |  **🎯 Self** |
 
-**Effect:** You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are difficult terrain for you. You automatically destroy each square of structure you move through and leave behind a square of difficult terrain. Additionally, you make one power roll that targets each enemy you move adjacent to during this movement.
+**Effect:** You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are difficult terrain for you. You automatically destroy each square of structure you move through and leave behind a square of difficult terrain.
+
+Additionally, you make one power roll that targets each enemy you move adjacent to during this movement.
 
 **Power Roll + Might:**
 

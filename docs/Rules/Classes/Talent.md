@@ -732,7 +732,9 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 | ---------------------------------------- | --------------: |
 | **📏 Self; see below**                   |     **🎯 Self** |
 
-**Effect:** You create three size 1T orbs that orbit your body. Each orb gives you a cumulative damage immunity 1. Each time you take damage, you lose 1 orb. Once on each of your turns, you can use a free maneuver to fire an orb at a creature or object within 5 squares as a ranged strike, losing the orb after the strike.
+**Effect:** You create three size 1T orbs that orbit your body. Each orb gives you a cumulative damage immunity 1. Each time you take damage, you lose 1 orb.
+
+Once on each of your turns, you can use a free maneuver to fire an orb at a creature or object within 5 squares as a ranged strike, losing the orb after the strike.
 
 **Power Roll + Reason:**
 
@@ -990,7 +992,9 @@ Choose one of the following abilities.
 | -------------------------------------- | ------------------------------------------: |
 | **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
 
-**Effect:** The area is frozen in time until the start of your next turn. Each object in the area is restrained and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed. Make a power roll that targets each enemy in the area.
+**Effect:** The area is frozen in time until the start of your next turn. Each object in the area is restrained and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
+
+Make a power roll that targets each enemy in the area.
 
 **Power Roll + Presence:**
 

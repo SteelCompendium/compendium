@@ -150,7 +150,9 @@ You have the following ability.
 | ----------- | -----------: |
 | **📏 Self** |  \*\*🎯 Self |
 
-**Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can shift. The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.
+**Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can shift.
+
+The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.
 
 **Spend 1 Insight:** Choose a creature whose size is no more than 1 greater than yours and who is within 10 squares. This ability's illusion makes you appear as that creature. This illusion covers your entire body, including clothing and armor, and alters your voice to sound like that of the creature. You gain an edge on tests made to convince the creature's allies that you are the creature.
 
@@ -839,7 +841,9 @@ Choose one of the following abilities.
 | ---------------- | ---------------------: |
 | **📏 Ranged 10** | **🎯 Three creatures** |
 
-**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter. A creature who drinks the potion can spend up to 2 Recoveries, and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.
+**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.
+
+A creature who drinks the potion can spend up to 2 Recoveries, and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.
 
 ###### One Vial Makes You Faster (9 Insight)
 
@@ -849,7 +853,9 @@ Choose one of the following abilities.
 | ---------------- | ---------------------: |
 | **📏 Ranged 10** | **🎯 Three creatures** |
 
-**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter. A creature who drinks the potion receives benefits based on your power roll.
+**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.
+
+A creature who drinks the potion receives benefits based on your power roll.
 
 **Power Roll + Agility:**
 
@@ -951,7 +957,9 @@ You have damage immunity against area abilities and effects equal to your Agilit
 | ----------------------- | ----------------------------: |
 | **📏 2 cube within 10** | **🎯 Each enemy in the area** |
 
-**Effect:** Each target takes acid, fire, or poison damage (your choice) equal to your Agility score. For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 surge that must be used with this ability. After using the ability or at the end of the encounter, its area and surges are reset.
+**Effect:** Each target takes acid, fire, or poison damage (your choice) equal to your Agility score.
+
+For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 surge that must be used with this ability. After using the ability or at the end of the encounter, its area and surges are reset.
 
 **Spend 2+ Insight**: For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
 

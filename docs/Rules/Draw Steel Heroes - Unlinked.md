@@ -2837,6 +2837,7 @@ You have the following ability.
 | **📏 Self** |     **🎯 Self** |
 
 **Effect:** You flatten yourself into a shadow against a wall or floor you are touching, and become hidden from any creature you have cover or concealment from or who isn't observing you. While in shadow form, you have full awareness of your surroundings, and strikes made against you and tests made to search for you take a bane. You can't move or be force moved, and you can't take main actions or maneuvers except to exit this form or to direct creatures under your control, such as one you summon using an ability. Any ability or effect that targets more than 1 square affects you in this form only if it explicitly affects the surface you are flattened against. You can exit this form as a maneuver.
+
 If the surface you are flattened against is destroyed, this ability ends and you take 1d6 damage that can't be reduced in any way.
 
 #### Signature Trait: Small!
@@ -4591,6 +4592,7 @@ You pick out the enemies most worthy of your wrath and place a divine judgment u
 | **📏 Ranged 10**  | **🎯 One enemy** |
 
 **Effect:** The target is judged by you until the end of the encounter, you use this ability again, you willingly end this effect (no action required), or another censor judges the target.
+
 Whenever a creature judged by you uses a main action and is within your line of effect, you can use a free triggered action to deal holy damage equal to twice your Presence score to them.
 When a creature judged by you is reduced to 0 Stamina, you can use a free triggered action to use this ability against a new target.
 Additionally, you can spend 1 wrath to take one of the following free triggered actions:
@@ -7284,6 +7286,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 | **📏 Ranged 10**  |  **🎯 Special** |
 
 **Effect:** You conjure a size 4 dragon that appears in an unoccupied space within distance. The dragon has speed 6 and can fly, stability 4, 100 Stamina, immunity all to fire damage, and uses your characteristics. The dragon disappears at the end of the encounter, if their Stamina drops to 0, or if you are dying.
+
 On subsequent turns, you can use a main action to command the dragon to breathe magic fire in a 3 cube within 1 square of them. Make the following power roll targeting each enemy in the area.
 
 **Power Roll + Intuition:**
@@ -7636,6 +7639,7 @@ You have the following ability.
 | **📏 Ranged 10**        |  **🎯 Special** |
 
 **Effect:** You touch a square containing mundane dirt, stone, or metal and create a 5 wall of the same material, which rises up out of the ground and must include the square you touched.
+
 Alternatively, you touch a structure made of mundane dirt, stone, or metal that occupies 2 or more squares. You can open a 1-square opening in the structure where you touched it. You can instead touch an existing doorway or other opening that is 1 square or smaller in a mundane dirt, stone, or metal surface. The opening is sealed by the same material that makes up the surface.
 
 ##### Return to Formlessness
@@ -8616,6 +8620,7 @@ You have the following ability.
 | **📏 Ranged 10**         |  **🎯 Special** |
 
 **Effect:** A **source of earth** emerges from an unoccupied space within distance. The source takes their turn immediately after you, moving up to their speed and either taking a main action or a maneuver. The source is dismissed at the start of your next turn.
+
 The source starts an encounter at full Stamina, but maintains their current Stamina throughout the encounter, even if they are dismissed and you use this ability again. They can't regain Stamina during the encounter. When the source's Stamina is reduced to 0, you can't use this ability again until you earn 1 or more Victories.
 
 **Persistent 2:** The source takes another turn. They are dismissed at the start of your next turn.
@@ -9303,6 +9308,7 @@ Choose one of the following abilities.
 | **📏 Self; see below** |  **🎯 Self** |
 
 **Effect:** You move up to your speed in a straight line. During this movement, you can move through mundane structures, including walls, which are difficult terrain for you. You automatically destroy each square of structure you move through and leave behind a square of difficult terrain.
+
 Additionally, you make one power roll that targets each enemy you move adjacent to during this movement.
 
 **Power Roll + Might:**
@@ -11567,6 +11573,7 @@ You have the following ability.
 | **📏 Self** |  \*\*🎯 Self |
 
 **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can shift.
+
 The illusion ends when you harm another creature, when you physically interact with a creature, when you use this ability again, or when you end the illusion (no action required). If you end this illusion by harming another creature, you gain 1 surge.
 
 **Spend 1 Insight:** Choose a creature whose size is no more than 1 greater than yours and who is within 10 squares. This ability's illusion makes you appear as that creature. This illusion covers your entire body, including clothing and armor, and alters your voice to sound like that of the creature. You gain an edge on tests made to convince the creature's allies that you are the creature.
@@ -12257,6 +12264,7 @@ Choose one of the following abilities.
 | **📏 Ranged 10** | **🎯 Three creatures** |
 
 **Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.
+
 A creature who drinks the potion can spend up to 2 Recoveries, and has acid immunity, fire immunity, or poison immunity (their choice) equal to your level until the end of the encounter.
 
 **<span class="steel-compendium-ability">One Vial Makes You Faster (9 Insight)</span>**
@@ -12268,6 +12276,7 @@ A creature who drinks the potion can spend up to 2 Recoveries, and has acid immu
 | **📏 Ranged 10** | **🎯 Three creatures** |
 
 **Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.
+
 A creature who drinks the potion receives benefits based on your power roll.
 
 **Power Roll + Agility:**
@@ -12371,6 +12380,7 @@ You have damage immunity against area abilities and effects equal to your Agilit
 | **📏 2 cube within 10** | **🎯 Each enemy in the area** |
 
 **Effect:** Each target takes acid, fire, or poison damage (your choice) equal to your Agility score.
+
 For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 surge that must be used with this ability. After using the ability or at the end of the encounter, its area and surges are reset.
 
 **Spend 2+ Insight**: For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
@@ -12796,7 +12806,9 @@ You know how to focus the attention of your allies as you push them toward victo
 | **📏 Ranged 10** | **🎯 One creature** |
 
 **Effect:** The target is marked by you until the end of the encounter, until you are dying, or until you use this ability again. You can willingly end your mark on a creature (no action required), and if another tactician marks a creature, your mark on that creature ends. When a creature marked by you is reduced to 0 Stamina, you can use a free triggered action to mark a new target within distance.
+
 You can initially mark only one creature using this ability, though other tactician abilities allow you to mark additional creatures at the same time. The mastermind tactical doctrine's Anticipation feature allows you to target additional creatures with this ability starting at 5th level.
+
 While a creature marked by you is within your line of effect, you and allies within your line of effect gain an edge on power rolls made against that creature. Additionally, whenever you or any ally uses an ability to deal rolled damage to a creature marked by you, you can spend 1 focus to gain one of the following benefits as a free triggered action:
 
 - The ability deals extra damage equal to twice your Reason score.
@@ -14339,6 +14351,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 | **📏 Self; see below**                   |     **🎯 Self** |
 
 **Effect:** You create three size 1T orbs that orbit your body. Each orb gives you a cumulative damage immunity 1. Each time you take damage, you lose 1 orb.
+
 Once on each of your turns, you can use a free maneuver to fire an orb at a creature or object within 5 squares as a ranged strike, losing the orb after the strike.
 
 **Power Roll + Reason:**
@@ -14598,6 +14611,7 @@ Choose one of the following abilities.
 | **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
 
 **Effect:** The area is frozen in time until the start of your next turn. Each object in the area is restrained and can't fall until the effect ends. Until the effect ends, creatures in the area who are reduced to 0 Stamina or would die stay alive, and objects in the area that are reduced to 0 Stamina remain undestroyed.
+
 Make a power roll that targets each enemy in the area.
 
 **Power Roll + Presence:**
@@ -15755,6 +15769,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 | **📏 Ranged 10**  | **🎯 One creature** |
 
 **Effect:** Until the end of the encounter, both you and the target can target each other with abilities even if you are beyond distance, with the distance of this ability replacing those abilities' distances. The target can't be force moved by an ability used beyond distance this way.
+
 Additionally, once on each of your turns, you can use a free maneuver to communicate a motivating or dispiriting message to the target, either granting them 2 surges or forcing them to take a bane on the next ability roll they make before the start of your next turn.
 
 ### 4th-Level Features

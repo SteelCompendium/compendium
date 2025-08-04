@@ -26,7 +26,9 @@ type: feature/ability/shadow/6th-level-feature
 | ---------------- | ---------------------: |
 | **📏 Ranged 10** | **🎯 Three creatures** |
 
-**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter. A creature who drinks the potion receives benefits based on your power roll.
+**Effect:** You ready, hand, or lob a potion to each target, who can immediately quaff the potion (no action required). If they don't drink the potion right away, they must use the Use Consumable maneuver to consume it later. The potion loses its potency at the end of the encounter.
+
+A creature who drinks the potion receives benefits based on your power roll.
 
 **Power Roll + Agility:**
 
