@@ -17,4 +17,6 @@ type: feature/trait/null/4th-level-feature
 
 #### Skill
 
-You gain one skill of your choice.
+You gain one skill of your choice. See Skills in Chapter 9: Tests.
+
+As a 5th-level null, you gain the following features.

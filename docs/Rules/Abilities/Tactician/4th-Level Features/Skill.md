@@ -17,4 +17,4 @@ type: feature/trait/tactician/4th-level-feature
 
 #### Skill
 
-You gain one skill of your choice.
+You gain one skill of your choice. See Skills in Chapter 9: Tests.

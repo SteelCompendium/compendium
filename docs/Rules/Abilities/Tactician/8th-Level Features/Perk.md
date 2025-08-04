@@ -17,4 +17,4 @@ type: feature/trait/tactician/8th-level-feature
 
 #### Perk
 
-You gain one exploration, interpersonal, or intrigue perk of your choice.
+You gain one perk of your choice.

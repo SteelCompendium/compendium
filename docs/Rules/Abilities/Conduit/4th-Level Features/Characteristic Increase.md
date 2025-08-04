@@ -17,4 +17,4 @@ type: feature/trait/conduit/4th-level-feature
 
 #### Characteristic Increase
 
-Your Intuition score increases to 5. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 5.
+Your Intuition score increases to 3. Additionally, you can increase one of your characteristic scores by 1, to a maximum of 3.

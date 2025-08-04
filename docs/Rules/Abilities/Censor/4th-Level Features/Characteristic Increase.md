@@ -17,4 +17,4 @@ type: feature/trait/censor/4th-level-feature
 
 #### Characteristic Increase
 
-Your Might and Presence scores each increase to 5.
+Your Might and Presence scores each increase to 3.

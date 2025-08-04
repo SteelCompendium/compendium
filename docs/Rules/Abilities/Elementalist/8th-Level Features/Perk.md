@@ -17,4 +17,4 @@ type: feature/trait/elementalist/8th-level-feature
 
 #### Perk
 
-You gain one crafting, lore, or supernatural perk of your choice.
+You gain one perk of your choice.

@@ -17,4 +17,4 @@ type: feature/trait/tactician/4th-level-feature
 
 #### Characteristic Increase
 
-Your Might and Reason scores each increase to 5.
+Your Might and Reason scores each increase to 3.

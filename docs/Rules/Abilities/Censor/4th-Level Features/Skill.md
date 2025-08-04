@@ -17,4 +17,4 @@ type: feature/trait/censor/4th-level-feature
 
 #### Skill
 
-You gain one skill of your choice.
+You gain one skill of your choice. See [Skills](#page-268-0) in Chapter 9: Tests.

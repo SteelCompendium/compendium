@@ -17,4 +17,4 @@ type: feature/trait/null/4th-level-feature
 
 #### Characteristic Increase
 
-Your Agility and Intuition scores each increase to 5.
+Your Agility and Intuition scores each increase to 3.

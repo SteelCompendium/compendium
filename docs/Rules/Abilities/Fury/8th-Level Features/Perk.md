@@ -17,4 +17,4 @@ type: feature/trait/fury/8th-level-feature
 
 #### Perk
 
-You gain one crafting, exploration, or intrigue perk of your choice.
+You gain one perk of your choice.

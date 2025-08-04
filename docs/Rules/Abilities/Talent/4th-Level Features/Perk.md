@@ -17,4 +17,4 @@ type: feature/trait/talent/4th-level-feature
 
 #### Perk
 
-You gain one interpersonal, lore, or supernatural perk of your choice.
+You gain one perk of your choice.

@@ -17,4 +17,4 @@ type: feature/trait/fury/4th-level-feature
 
 #### Characteristic Increase
 
-Your Might and Agility scores each increase to 5.
+Your Might and Agility scores each increase to 3.

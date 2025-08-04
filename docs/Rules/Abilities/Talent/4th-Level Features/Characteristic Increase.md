@@ -17,4 +17,4 @@ type: feature/trait/talent/4th-level-feature
 
 #### Characteristic Increase
 
-Your Reason and Presence scores each increase to 5.
+Your Reason and Presence scores each increase to 3.

@@ -17,4 +17,4 @@ type: feature/trait/troubadour/4th-level-feature
 
 #### Characteristic Increase
 
-Your Agility and Presence scores each increase to 5.
+Your Agility and Presence scores each increase to 3.

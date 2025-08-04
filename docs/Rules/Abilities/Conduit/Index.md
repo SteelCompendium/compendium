@@ -104,10 +104,7 @@ type: index
 | [Skill](../4th-Level%20Features/Skill)                                                                   |          | 4     | trait        |
 | [Windwalk](../4th-Level%20Features/Windwalk)                                                             |          | 4     | trait        |
 | [Wode Road](../4th-Level%20Features/Wode%20Road)                                                         |          | 4     | trait        |
-| [4th Level Domain Feature](../5th-Level%20Features/4th%20Level%20Domain%20Feature)                       |          | 5     | trait        |
 | [5th Level Domain Feature](../5th-Level%20Features/5th%20Level%20Domain%20Feature)                       |          | 5     | trait        |
-| [7th Level Domain Feature](../5th-Level%20Features/7th%20Level%20Domain%20Feature)                       |          | 5     | trait        |
-| [8th Level Domain Feature](../5th-Level%20Features/8th%20Level%20Domain%20Feature)                       |          | 5     | trait        |
 | [Beacon of Grace](../5th-Level%20Features/Beacon%20of%20Grace)                                           | 9 Piety  | 5     | ability      |
 | [Penance](../5th-Level%20Features/Penance)                                                               | 9 Piety  | 5     | ability      |
 | [Sanctuary](../5th-Level%20Features/Sanctuary)                                                           | 9 Piety  | 5     | ability      |
@@ -141,9 +138,6 @@ type: index
 | [Word of Death Deferred](../7th-Level%20Features/Word%20of%20Death%20Deferred)                           |          | 7     | trait        |
 | [Word of Fate Denied](../7th-Level%20Features/Word%20of%20Fate%20Denied)                                 |          | 7     | trait        |
 | [Your Triumphs Are Remembered](../7th-Level%20Features/Your%20Triumphs%20Are%20Remembered)               |          | 7     | trait        |
-| [4th Level Domain Feature](../8th-Level%20Features/4th%20Level%20Domain%20Feature)                       |          | 8     | trait        |
-| [5th Level Domain Feature](../8th-Level%20Features/5th%20Level%20Domain%20Feature)                       |          | 8     | trait        |
-| [7th Level Domain Feature](../8th-Level%20Features/7th%20Level%20Domain%20Feature)                       |          | 8     | trait        |
 | [8th Level Domain Feature](../8th-Level%20Features/8th%20Level%20Domain%20Feature)                       |          | 8     | trait        |
 | [Arise](../8th-Level%20Features/Arise)                                                                   | 11 Piety | 8     | ability      |
 | [Blessing of Steel](../8th-Level%20Features/Blessing%20of%20Steel)                                       | 11 Piety | 8     | ability      |

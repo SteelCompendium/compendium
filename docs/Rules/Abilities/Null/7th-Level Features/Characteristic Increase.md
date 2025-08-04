@@ -17,4 +17,4 @@ type: feature/trait/null/7th-level-feature
 
 #### Characteristic Increase
 
-Your Agility and Intuition scores each increase to 5.
+Each of your characteristic scores increases by 1, to a maximum of 4.

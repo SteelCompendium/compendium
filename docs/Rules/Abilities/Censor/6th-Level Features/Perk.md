@@ -17,4 +17,4 @@ type: feature/trait/censor/6th-level-feature
 
 #### Perk
 
-You gain one crafting, lore, or supernatural perk of your choice.
+You gain one interpersonal, lore, or supernatural perk of your choice.

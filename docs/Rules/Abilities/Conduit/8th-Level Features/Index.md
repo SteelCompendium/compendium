@@ -7,9 +7,6 @@ type: index
 
 | File Name                                                     | Cost     | Level | Feature Type |
 | ------------------------------------------------------------- | -------- | ----- | ------------ |
-| [4th Level Domain Feature](../4th%20Level%20Domain%20Feature) |          | 8     | trait        |
-| [5th Level Domain Feature](../5th%20Level%20Domain%20Feature) |          | 8     | trait        |
-| [7th Level Domain Feature](../7th%20Level%20Domain%20Feature) |          | 8     | trait        |
 | [8th Level Domain Feature](../8th%20Level%20Domain%20Feature) |          | 8     | trait        |
 | [Arise](../Arise)                                             | 11 Piety | 8     | ability      |
 | [Blessing of Steel](../Blessing%20of%20Steel)                 | 11 Piety | 8     | ability      |

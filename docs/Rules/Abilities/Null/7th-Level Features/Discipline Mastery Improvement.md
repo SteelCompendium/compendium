@@ -17,4 +17,4 @@ type: feature/trait/null/7th-level-feature
 
 #### Discipline Mastery Improvement
 
-Your Discipline Mastery feature provides additional benefits when you have 12 or more discipline.
+Your Discipline Mastery feature provides additional benefits when you have 10 or more discipline.

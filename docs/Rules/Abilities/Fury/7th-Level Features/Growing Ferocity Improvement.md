@@ -17,4 +17,4 @@ type: feature/trait/fury/7th-level-feature
 
 #### Growing Ferocity Improvement
 
-Your Growing Ferocity feature provides additional benefits when you have 12 or more ferocity.
+Your Growing Ferocity feature provides additional benefits when you have 10 or more ferocity.
