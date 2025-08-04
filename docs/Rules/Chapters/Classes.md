@@ -4962,7 +4962,7 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 <thead>
 <tr class="header">
 <th style="text-align: center;">Elemental</th>
-<th style="text-align: center;"></th>
+<th style="text-align: center;">-</th>
 <th style="text-align: center;">Level 8</th>
 <th style="text-align: center;">BRUTE</th>
 <th style="text-align: center;">EV -</th>

@@ -285,7 +285,7 @@ If your familiar is destroyed, you can restore them as a respite activity, or by
 <thead>
 <tr class="header">
 <th style="text-align: center;">Familiar</th>
-<th style="text-align: center;"></th>
+<th style="text-align: center;">-</th>
 <th style="text-align: center;">Level -</th>
 <th style="text-align: center;">-</th>
 <th style="text-align: center;">EV -</th>

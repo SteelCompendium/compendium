@@ -8629,7 +8629,7 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 
 **Source of Earth**
 
-|      Elemental      |                        |      Level 8      |         BRUTE         |         EV -         |
+|      Elemental      |           -            |      Level 8      |         BRUTE         |         EV -         |
 | :-----------------: | :--------------------: | :---------------: | :-------------------: | :------------------: |
 |    **2**<br>Size    |     **6**<br>Speed     | **45**<br>Stamina |  **5**<br>Stability   | **5**<br>Free Strike |
 | **-**<br>Immunities | **Burrow**<br>Movement |                   | **-**<br>With Captain | **-**<br>Weaknesses  |
@@ -17521,7 +17521,7 @@ If your familiar is destroyed, you can restore them as a respite activity, or by
 
 **Familiar**
 
-|      Familiar       |                   |           Level -            |           -           |         EV -         |
+|      Familiar       |         -         |           Level -            |           -           |         EV -         |
 | :-----------------: | :---------------: | :--------------------------: | :-------------------: | :------------------: |
 |   **1T**<br>Size    |  **5**<br>Speed   | **2x your level**<br>Stamina |  **0**<br>Stability   | **-**<br>Free Strike |
 | **-**<br>Immunities | **-**<br>Movement |                              | **-**<br>With Captain | **-**<br>Weaknesses  |
