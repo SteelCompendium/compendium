@@ -17,11 +17,11 @@ type: index
 | [Gasping in Pain](../Gasping%20in%20Pain)                                       |           | 1     | trait        |
 | [Get In Get Out](../Get%20In%20Get%20Out)                                       | 3 Insight | 1     | ability      |
 | [Hesitation Is Weakness](../Hesitation%20Is%20Weakness)                         | 1 Insight | 1     | ability      |
-| [I Work Better Alone](../I%20Work%20Better%20Alone)                             |           | 1     | trait        |
 | [Im No Threat](../Im%20No%20Threat)                                             |           | 1     | trait        |
 | [In All This Confusion](../In%20All%20This%20Confusion)                         |           | 1     | trait        |
-| [Insight Outside of Combat](../Insight%20Outside%20of%20Combat)                 |           | 1     | trait        |
 | [Insight in Combat](../Insight%20in%20Combat)                                   |           | 1     | trait        |
+| [Insight Outside of Combat](../Insight%20Outside%20of%20Combat)                 |           | 1     | trait        |
+| [I Work Better Alone](../I%20Work%20Better%20Alone)                             |           | 1     | trait        |
 | [Kit](../Kit)                                                                   |           | 1     | trait        |
 | [One Hundred Throats](../One%20Hundred%20Throats)                               | 5 Insight | 1     | ability      |
 | [Setup](../Setup)                                                               | 5 Insight | 1     | ability      |

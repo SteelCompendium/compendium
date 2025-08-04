@@ -12,8 +12,8 @@ type: index
 | [Beast Shape](../Beast%20Shape)                                                 |            | 1     | trait        |
 | [Blood for Blood](../Blood%20for%20Blood)                                       | 5 Ferocity | 1     | ability      |
 | [Brutal Slam](../Brutal%20Slam)                                                 |            | 1     | trait        |
-| [Ferocity Outside of Combat](../Ferocity%20Outside%20of%20Combat)               |            | 1     | trait        |
 | [Ferocity in Combat](../Ferocity%20in%20Combat)                                 |            | 1     | trait        |
+| [Ferocity Outside of Combat](../Ferocity%20Outside%20of%20Combat)               |            | 1     | trait        |
 | [Furious Change](../Furious%20Change)                                           |            | 1     | trait        |
 | [Hit and Run](../Hit%20and%20Run)                                               |            | 1     | trait        |
 | [Impaled](../Impaled)                                                           |            | 1     | trait        |

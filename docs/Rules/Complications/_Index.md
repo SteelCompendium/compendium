@@ -21,13 +21,13 @@ type: index
 | [Coward](../Coward)                                                         |
 | [Crash Landed](../Crash%20Landed)                                           |
 | [Cult Victim](../Cult%20Victim)                                             |
+| [Cursed Weapon](../Cursed%20Weapon)                                         |
 | [Curse of Caution](../Curse%20of%20Caution)                                 |
 | [Curse of Immortality](../Curse%20of%20Immortality)                         |
 | [Curse of Misfortune](../Curse%20of%20Misfortune)                           |
 | [Curse of Poverty](../Curse%20of%20Poverty)                                 |
 | [Curse of Punishment](../Curse%20of%20Punishment)                           |
 | [Curse of Stone](../Curse%20of%20Stone)                                     |
-| [Cursed Weapon](../Cursed%20Weapon)                                         |
 | [Disgraced](../Disgraced)                                                   |
 | [Dragon Dreams](../Dragon%20Dreams)                                         |
 | [Elemental Inside](../Elemental%20Inside)                                   |
@@ -58,8 +58,8 @@ type: index
 | [Lifebonded](../Lifebonded)                                                 |
 | [Lightning Soul](../Lightning%20Soul)                                       |
 | [Loner](../Loner)                                                           |
-| [Lost Your Head](../Lost%20Your%20Head)                                     |
 | [Lost in Time](../Lost%20in%20Time)                                         |
+| [Lost Your Head](../Lost%20Your%20Head)                                     |
 | [Lucky](../Lucky)                                                           |
 | [Master Chef](../Master%20Chef)                                             |
 | [Meddling Butler](../Meddling%20Butler)                                     |
@@ -100,9 +100,9 @@ type: index
 | [Vow of Duty](../Vow%20of%20Duty)                                           |
 | [Vow of Honesty](../Vow%20of%20Honesty)                                     |
 | [Waking Dreams](../Waking%20Dreams)                                         |
+| [Ward](../Ward)                                                             |
 | [War Dog Collar](../War%20Dog%20Collar)                                     |
 | [War of Assassins](../War%20of%20Assassins)                                 |
-| [Ward](../Ward)                                                             |
 | [Waterborn](../Waterborn)                                                   |
 | [Wodewalker](../Wodewalker)                                                 |
 | [Wrathful Spirit](../Wrathful%20Spirit)                                     |

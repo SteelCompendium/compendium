@@ -7,8 +7,8 @@ type: index
 
 | File Name                                                             | Cost         | Level | Feature Type |
 | --------------------------------------------------------------------- | ------------ | ----- | ------------ |
-| [A Squad Unto Myself](../A%20Squad%20Unto%20Myself)                   | 5 Discipline | 1     | ability      |
 | [Arcane Disruptor](../Arcane%20Disruptor)                             | 5 Discipline | 1     | ability      |
+| [A Squad Unto Myself](../A%20Squad%20Unto%20Myself)                   | 5 Discipline | 1     | ability      |
 | [Chronal Spike](../Chronal%20Spike)                                   | 3 Discipline | 1     | ability      |
 | [Dance of Blows](../Dance%20of%20Blows)                               |              | 1     | trait        |
 | [Density Augmentation](../Density%20Augmentation)                     |              | 1     | trait        |

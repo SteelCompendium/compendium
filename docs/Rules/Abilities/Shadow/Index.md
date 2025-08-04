@@ -24,11 +24,11 @@ type: index
 | [Gasping in Pain](../1st-Level%20Features/Gasping%20in%20Pain)                                       |            | 1     | trait        |
 | [Get In Get Out](../1st-Level%20Features/Get%20In%20Get%20Out)                                       | 3 Insight  | 1     | ability      |
 | [Hesitation Is Weakness](../1st-Level%20Features/Hesitation%20Is%20Weakness)                         | 1 Insight  | 1     | ability      |
-| [I Work Better Alone](../1st-Level%20Features/I%20Work%20Better%20Alone)                             |            | 1     | trait        |
 | [Im No Threat](../1st-Level%20Features/Im%20No%20Threat)                                             |            | 1     | trait        |
 | [In All This Confusion](../1st-Level%20Features/In%20All%20This%20Confusion)                         |            | 1     | trait        |
-| [Insight Outside of Combat](../1st-Level%20Features/Insight%20Outside%20of%20Combat)                 |            | 1     | trait        |
 | [Insight in Combat](../1st-Level%20Features/Insight%20in%20Combat)                                   |            | 1     | trait        |
+| [Insight Outside of Combat](../1st-Level%20Features/Insight%20Outside%20of%20Combat)                 |            | 1     | trait        |
+| [I Work Better Alone](../1st-Level%20Features/I%20Work%20Better%20Alone)                             |            | 1     | trait        |
 | [Kit](../1st-Level%20Features/Kit)                                                                   |            | 1     | trait        |
 | [One Hundred Throats](../1st-Level%20Features/One%20Hundred%20Throats)                               | 5 Insight  | 1     | ability      |
 | [Setup](../1st-Level%20Features/Setup)                                                               | 5 Insight  | 1     | ability      |

@@ -13,8 +13,8 @@ type: index
 | [Blocking](../Blocking)                                     |         | 1     | trait        |
 | [Choreography](../Choreography)                             |         | 1     | trait        |
 | [Cutting Sarcasm](../Cutting%20Sarcasm)                     |         | 1     | trait        |
-| [Drama Outside of Combat](../Drama%20Outside%20of%20Combat) |         | 1     | trait        |
 | [Drama in Combat](../Drama%20in%20Combat)                   |         | 1     | trait        |
+| [Drama Outside of Combat](../Drama%20Outside%20of%20Combat) |         | 1     | trait        |
 | [Dramatic Monologue](../Dramatic%20Monologue)               |         | 1     | trait        |
 | [Dramatic Reversal](../Dramatic%20Reversal)                 | 5 Drama | 1     | ability      |
 | [Fake Your Death](../Fake%20Your%20Death)                   | 5 Drama | 1     | ability      |

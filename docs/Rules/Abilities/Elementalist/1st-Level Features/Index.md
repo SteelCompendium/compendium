@@ -17,8 +17,8 @@ type: index
 | [Enchantment of Destruction](../Enchantment%20of%20Destruction)                       |           | 1     | trait        |
 | [Enchantment of Distance](../Enchantment%20of%20Distance)                             |           | 1     | trait        |
 | [Enchantment of Permanence](../Enchantment%20of%20Permanence)                         |           | 1     | trait        |
-| [Essence Outside of Combat](../Essence%20Outside%20of%20Combat)                       |           | 1     | trait        |
 | [Essence in Combat](../Essence%20in%20Combat)                                         |           | 1     | trait        |
+| [Essence Outside of Combat](../Essence%20Outside%20of%20Combat)                       |           | 1     | trait        |
 | [Explosive Assistance](../Explosive%20Assistance)                                     |           | 1     | trait        |
 | [Fire Acolyte of Fire](../Fire%20Acolyte%20of%20Fire)                                 |           | 1     | trait        |
 | [Grasp of Beyond](../Grasp%20of%20Beyond)                                             |           | 1     | trait        |

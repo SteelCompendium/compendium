@@ -8,8 +8,8 @@ type: index
 | File Name                                           | Cost      | Level | Feature Type |
 | --------------------------------------------------- | --------- | ----- | ------------ |
 | [Applied Chronometrics](../Applied%20Chronometrics) | 5 Clarity | 2     | ability      |
-| [Ease Their Fall](../Ease%20Their%20Fall)           |           | 2     | trait        |
 | [Ease the Hours](../Ease%20the%20Hours)             |           | 2     | trait        |
+| [Ease Their Fall](../Ease%20Their%20Fall)           |           | 2     | trait        |
 | [Ease the Mind](../Ease%20the%20Mind)               |           | 2     | trait        |
 | [Gravitic Burst](../Gravitic%20Burst)               | 5 Clarity | 2     | ability      |
 | [Levity and Gravity](../Levity%20and%20Gravity)     | 5 Clarity | 2     | ability      |

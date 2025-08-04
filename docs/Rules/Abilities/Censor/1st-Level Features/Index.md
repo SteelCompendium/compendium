@@ -14,8 +14,8 @@ type: index
 | [Blessing of Compassion](../Blessing%20of%20Compassion)                 |         | 1     | trait        |
 | [Blessing of Comprehension](../Blessing%20of%20Comprehension)           |         | 1     | trait        |
 | [Blessing of Fortunate Weather](../Blessing%20of%20Fortunate%20Weather) |         | 1     | trait        |
-| [Censor Order](../Censor%20Order)                                       |         | 1     | trait        |
 | [Censored](../Censored)                                                 | 5 Wrath | 1     | ability      |
+| [Censor Order](../Censor%20Order)                                       |         | 1     | trait        |
 | [Driving Assault](../Driving%20Assault)                                 | 3 Wrath | 1     | ability      |
 | [Every Step Death](../Every%20Step%20Death)                             |         | 1     | trait        |
 | [Faithful Friend](../Faithful%20Friend)                                 |         | 1     | trait        |
@@ -24,8 +24,8 @@ type: index
 | [Hands of the Maker](../Hands%20of%20the%20Maker)                       |         | 1     | trait        |
 | [Inner Light](../Inner%20Light)                                         |         | 1     | trait        |
 | [Inspired Deception](../Inspired%20Deception)                           |         | 1     | trait        |
-| [Judgment Order Benefit](../Judgment%20Order%20Benefit)                 |         | 1     | trait        |
 | [Judgment](../Judgment)                                                 |         | 1     | trait        |
+| [Judgment Order Benefit](../Judgment%20Order%20Benefit)                 |         | 1     | trait        |
 | [Kit](../Kit)                                                           |         | 1     | trait        |
 | [My Life for Yours](../My%20Life%20for%20Yours)                         |         | 1     | trait        |
 | [Oracular Visions](../Oracular%20Visions)                               |         | 1     | trait        |
@@ -35,6 +35,6 @@ type: index
 | [Revitalizing Ritual](../Revitalizing%20Ritual)                         |         | 1     | trait        |
 | [Sanctified Weapon](../Sanctified%20Weapon)                             |         | 1     | trait        |
 | [The Gods Punish and Defend](../The%20Gods%20Punish%20and%20Defend)     | 3 Wrath | 1     | ability      |
-| [Wrath Outside of Combat](../Wrath%20Outside%20of%20Combat)             |         | 1     | trait        |
 | [Wrath in Combat](../Wrath%20in%20Combat)                               |         | 1     | trait        |
+| [Wrath Outside of Combat](../Wrath%20Outside%20of%20Combat)             |         | 1     | trait        |
 | [Your Allies Cannot Save You](../Your%20Allies%20Cannot%20Save%20You)   |         | 1     | trait        |

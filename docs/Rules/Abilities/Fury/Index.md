@@ -19,8 +19,8 @@ type: index
 | [Beast Shape](../1st-Level%20Features/Beast%20Shape)                                                   |             | 1     | trait        |
 | [Blood for Blood](../1st-Level%20Features/Blood%20for%20Blood)                                         | 5 Ferocity  | 1     | ability      |
 | [Brutal Slam](../1st-Level%20Features/Brutal%20Slam)                                                   |             | 1     | trait        |
-| [Ferocity Outside of Combat](../1st-Level%20Features/Ferocity%20Outside%20of%20Combat)                 |             | 1     | trait        |
 | [Ferocity in Combat](../1st-Level%20Features/Ferocity%20in%20Combat)                                   |             | 1     | trait        |
+| [Ferocity Outside of Combat](../1st-Level%20Features/Ferocity%20Outside%20of%20Combat)                 |             | 1     | trait        |
 | [Furious Change](../1st-Level%20Features/Furious%20Change)                                             |             | 1     | trait        |
 | [Hit and Run](../1st-Level%20Features/Hit%20and%20Run)                                                 |             | 1     | trait        |
 | [Impaled](../1st-Level%20Features/Impaled)                                                             |             | 1     | trait        |

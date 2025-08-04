@@ -26,8 +26,8 @@ type: index
 | [Enchantment of Destruction](../1st-Level%20Features/Enchantment%20of%20Destruction)                       |            | 1     | trait        |
 | [Enchantment of Distance](../1st-Level%20Features/Enchantment%20of%20Distance)                             |            | 1     | trait        |
 | [Enchantment of Permanence](../1st-Level%20Features/Enchantment%20of%20Permanence)                         |            | 1     | trait        |
-| [Essence Outside of Combat](../1st-Level%20Features/Essence%20Outside%20of%20Combat)                       |            | 1     | trait        |
 | [Essence in Combat](../1st-Level%20Features/Essence%20in%20Combat)                                         |            | 1     | trait        |
+| [Essence Outside of Combat](../1st-Level%20Features/Essence%20Outside%20of%20Combat)                       |            | 1     | trait        |
 | [Explosive Assistance](../1st-Level%20Features/Explosive%20Assistance)                                     |            | 1     | trait        |
 | [Fire Acolyte of Fire](../1st-Level%20Features/Fire%20Acolyte%20of%20Fire)                                 |            | 1     | trait        |
 | [Grasp of Beyond](../1st-Level%20Features/Grasp%20of%20Beyond)                                             |            | 1     | trait        |

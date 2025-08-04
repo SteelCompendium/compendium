@@ -20,8 +20,8 @@ type: index
 | [Blessing of Compassion](../1st-Level%20Features/Blessing%20of%20Compassion)                 |          | 1     | trait        |
 | [Blessing of Comprehension](../1st-Level%20Features/Blessing%20of%20Comprehension)           |          | 1     | trait        |
 | [Blessing of Fortunate Weather](../1st-Level%20Features/Blessing%20of%20Fortunate%20Weather) |          | 1     | trait        |
-| [Censor Order](../1st-Level%20Features/Censor%20Order)                                       |          | 1     | trait        |
 | [Censored](../1st-Level%20Features/Censored)                                                 | 5 Wrath  | 1     | ability      |
+| [Censor Order](../1st-Level%20Features/Censor%20Order)                                       |          | 1     | trait        |
 | [Driving Assault](../1st-Level%20Features/Driving%20Assault)                                 | 3 Wrath  | 1     | ability      |
 | [Every Step Death](../1st-Level%20Features/Every%20Step%20Death)                             |          | 1     | trait        |
 | [Faithful Friend](../1st-Level%20Features/Faithful%20Friend)                                 |          | 1     | trait        |
@@ -30,8 +30,8 @@ type: index
 | [Hands of the Maker](../1st-Level%20Features/Hands%20of%20the%20Maker)                       |          | 1     | trait        |
 | [Inner Light](../1st-Level%20Features/Inner%20Light)                                         |          | 1     | trait        |
 | [Inspired Deception](../1st-Level%20Features/Inspired%20Deception)                           |          | 1     | trait        |
-| [Judgment Order Benefit](../1st-Level%20Features/Judgment%20Order%20Benefit)                 |          | 1     | trait        |
 | [Judgment](../1st-Level%20Features/Judgment)                                                 |          | 1     | trait        |
+| [Judgment Order Benefit](../1st-Level%20Features/Judgment%20Order%20Benefit)                 |          | 1     | trait        |
 | [Kit](../1st-Level%20Features/Kit)                                                           |          | 1     | trait        |
 | [My Life for Yours](../1st-Level%20Features/My%20Life%20for%20Yours)                         |          | 1     | trait        |
 | [Oracular Visions](../1st-Level%20Features/Oracular%20Visions)                               |          | 1     | trait        |
@@ -41,8 +41,8 @@ type: index
 | [Revitalizing Ritual](../1st-Level%20Features/Revitalizing%20Ritual)                         |          | 1     | trait        |
 | [Sanctified Weapon](../1st-Level%20Features/Sanctified%20Weapon)                             |          | 1     | trait        |
 | [The Gods Punish and Defend](../1st-Level%20Features/The%20Gods%20Punish%20and%20Defend)     | 3 Wrath  | 1     | ability      |
-| [Wrath Outside of Combat](../1st-Level%20Features/Wrath%20Outside%20of%20Combat)             |          | 1     | trait        |
 | [Wrath in Combat](../1st-Level%20Features/Wrath%20in%20Combat)                               |          | 1     | trait        |
+| [Wrath Outside of Combat](../1st-Level%20Features/Wrath%20Outside%20of%20Combat)             |          | 1     | trait        |
 | [Your Allies Cannot Save You](../1st-Level%20Features/Your%20Allies%20Cannot%20Save%20You)   |          | 1     | trait        |
 | [A Sense for Truth](../2nd-Level%20Features/A%20Sense%20for%20Truth)                         |          | 2     | trait        |
 | [Blessing of the Faithful](../2nd-Level%20Features/Blessing%20of%20the%20Faithful)           | 5 Wrath  | 2     | ability      |

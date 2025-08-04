@@ -49,8 +49,8 @@ type: index
 | [Telepathic Speech](../1st-Level%20Features/Telepathic%20Speech)                         |            | 1     | trait        |
 | [Vanishing Ward](../1st-Level%20Features/Vanishing%20Ward)                               |            | 1     | trait        |
 | [Applied Chronometrics](../2nd-Level%20Features/Applied%20Chronometrics)                 | 5 Clarity  | 2     | ability      |
-| [Ease Their Fall](../2nd-Level%20Features/Ease%20Their%20Fall)                           |            | 2     | trait        |
 | [Ease the Hours](../2nd-Level%20Features/Ease%20the%20Hours)                             |            | 2     | trait        |
+| [Ease Their Fall](../2nd-Level%20Features/Ease%20Their%20Fall)                           |            | 2     | trait        |
 | [Ease the Mind](../2nd-Level%20Features/Ease%20the%20Mind)                               |            | 2     | trait        |
 | [Gravitic Burst](../2nd-Level%20Features/Gravitic%20Burst)                               | 5 Clarity  | 2     | ability      |
 | [Levity and Gravity](../2nd-Level%20Features/Levity%20and%20Gravity)                     | 5 Clarity  | 2     | ability      |

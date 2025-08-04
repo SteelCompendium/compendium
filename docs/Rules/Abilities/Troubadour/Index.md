@@ -19,8 +19,8 @@ type: index
 | [Blocking](../1st-Level%20Features/Blocking)                                                                       |          | 1     | trait        |
 | [Choreography](../1st-Level%20Features/Choreography)                                                               |          | 1     | trait        |
 | [Cutting Sarcasm](../1st-Level%20Features/Cutting%20Sarcasm)                                                       |          | 1     | trait        |
-| [Drama Outside of Combat](../1st-Level%20Features/Drama%20Outside%20of%20Combat)                                   |          | 1     | trait        |
 | [Drama in Combat](../1st-Level%20Features/Drama%20in%20Combat)                                                     |          | 1     | trait        |
+| [Drama Outside of Combat](../1st-Level%20Features/Drama%20Outside%20of%20Combat)                                   |          | 1     | trait        |
 | [Dramatic Monologue](../1st-Level%20Features/Dramatic%20Monologue)                                                 |          | 1     | trait        |
 | [Dramatic Reversal](../1st-Level%20Features/Dramatic%20Reversal)                                                   | 5 Drama  | 1     | ability      |
 | [Fake Your Death](../1st-Level%20Features/Fake%20Your%20Death)                                                     | 5 Drama  | 1     | ability      |
@@ -46,8 +46,8 @@ type: index
 | [Allow Me to Introduce Tonights Players](../2nd-Level%20Features/Allow%20Me%20to%20Introduce%20Tonights%20Players) |          | 2     | trait        |
 | [Appeal to the Muses](../2nd-Level%20Features/Appeal%20to%20the%20Muses)                                           |          | 2     | trait        |
 | [Classic Chandelier Stunt](../2nd-Level%20Features/Classic%20Chandelier%20Stunt)                                   | 5 Drama  | 2     | ability      |
-| [En Garde](../2nd-Level%20Features/En%20Garde)                                                                     | 5 Drama  | 2     | ability      |
 | [Encore](../2nd-Level%20Features/Encore)                                                                           | 5 Drama  | 2     | ability      |
+| [En Garde](../2nd-Level%20Features/En%20Garde)                                                                     | 5 Drama  | 2     | ability      |
 | [Formal Introductions](../2nd-Level%20Features/Formal%20Introductions)                                             |          | 2     | trait        |
 | [Guest Star](../2nd-Level%20Features/Guest%20Star)                                                                 | 5 Drama  | 2     | ability      |
 | [My Reputation Precedes Me](../2nd-Level%20Features/My%20Reputation%20Precedes%20Me)                               |          | 2     | trait        |

@@ -14,8 +14,8 @@ type: index
 | [Order](../10th-Level%20Features/Order)                                                       |               | 10    | trait        |
 | [Perk](../10th-Level%20Features/Perk)                                                         |               | 10    | trait        |
 | [Skill](../10th-Level%20Features/Skill)                                                       |               | 10    | trait        |
-| [A Squad Unto Myself](../1st-Level%20Features/A%20Squad%20Unto%20Myself)                      | 5 Discipline  | 1     | ability      |
 | [Arcane Disruptor](../1st-Level%20Features/Arcane%20Disruptor)                                | 5 Discipline  | 1     | ability      |
+| [A Squad Unto Myself](../1st-Level%20Features/A%20Squad%20Unto%20Myself)                      | 5 Discipline  | 1     | ability      |
 | [Chronal Spike](../1st-Level%20Features/Chronal%20Spike)                                      | 3 Discipline  | 1     | ability      |
 | [Dance of Blows](../1st-Level%20Features/Dance%20of%20Blows)                                  |               | 1     | trait        |
 | [Density Augmentation](../1st-Level%20Features/Density%20Augmentation)                        |               | 1     | trait        |

@@ -13,8 +13,8 @@ type: index
 | [Concussive Strike](../Concussive%20Strike)                             | 3 Focus | 1     | ability      |
 | [Covert Operations](../Covert%20Operations)                             |         | 1     | trait        |
 | [Field Arsenal](../Field%20Arsenal)                                     |         | 1     | trait        |
-| [Focus Outside of Combat](../Focus%20Outside%20of%20Combat)             |         | 1     | trait        |
 | [Focus in Combat](../Focus%20in%20Combat)                               |         | 1     | trait        |
+| [Focus Outside of Combat](../Focus%20Outside%20of%20Combat)             |         | 1     | trait        |
 | [Hammer and Anvil](../Hammer%20and%20Anvil)                             | 5 Focus | 1     | ability      |
 | [Inspiring Strike](../Inspiring%20Strike)                               | 3 Focus | 1     | ability      |
 | [Kit Signature Ability](../Kit%20Signature%20Ability)                   |         | 1     | trait        |

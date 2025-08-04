@@ -25,8 +25,8 @@ type: index
 | [Death Domain Piety and Effect](../1st-Level%20Features/Death%20Domain%20Piety%20and%20Effect)           |          | 1     | trait        |
 | [Deity and Domains](../1st-Level%20Features/Deity%20and%20Domains)                                       |          | 1     | trait        |
 | [Drain](../1st-Level%20Features/Drain)                                                                   |          | 1     | trait        |
-| [Faith Is Our Armor](../1st-Level%20Features/Faith%20Is%20Our%20Armor)                                   | 5 Piety  | 1     | ability      |
 | [Faithful Friend](../1st-Level%20Features/Faithful%20Friend)                                             |          | 1     | trait        |
+| [Faith Is Our Armor](../1st-Level%20Features/Faith%20Is%20Our%20Armor)                                   | 5 Piety  | 1     | ability      |
 | [Fate Domain Piety and Effect](../1st-Level%20Features/Fate%20Domain%20Piety%20and%20Effect)             |          | 1     | trait        |
 | [Font of Wrath](../1st-Level%20Features/Font%20of%20Wrath)                                               | 3 Piety  | 1     | ability      |
 | [Grave Speech](../1st-Level%20Features/Grave%20Speech)                                                   |          | 1     | trait        |

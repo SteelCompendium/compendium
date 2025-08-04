@@ -8,10 +8,10 @@ type: index
 | File Name                                                                         |
 | --------------------------------------------------------------------------------- |
 | [Big Versus Little](../Big%20Versus%20Little)                                     |
-| [Burrow](../Burrow)                                                               |
 | [Burrowing Forced Movement](../Burrowing%20Forced%20Movement)                     |
-| [Climb or Swim](../Climb%20or%20Swim)                                             |
+| [Burrow](../Burrow)                                                               |
 | [Climbing Other Creatures](../Climbing%20Other%20Creatures)                       |
+| [Climb or Swim](../Climb%20or%20Swim)                                             |
 | [Crawl](../Crawl)                                                                 |
 | [Death Effects and Forced Movement](../Death%20Effects%20and%20Forced%20Movement) |
 | [Dig Maneuver](../Dig%20Maneuver)                                                 |
@@ -23,8 +23,8 @@ type: index
 | [Hurling Through Objects](../Hurling%20Through%20Objects)                         |
 | [Jump](../Jump)                                                                   |
 | [Non Burrowing Creatures](../Non%20Burrowing%20Creatures)                         |
-| [Slamming Into Objects](../Slamming%20Into%20Objects)                             |
 | [Slamming into Creatures](../Slamming%20into%20Creatures)                         |
+| [Slamming Into Objects](../Slamming%20Into%20Objects)                             |
 | [Stability](../Stability)                                                         |
 | [Targeting Burrowing Creatures](../Targeting%20Burrowing%20Creatures)             |
 | [Teleport](../Teleport)                                                           |
