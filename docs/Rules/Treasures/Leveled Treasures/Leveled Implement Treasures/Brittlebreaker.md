@@ -1,4 +1,5 @@
 ---
+echelon:
 file_basename: Brittlebreaker
 file_dpath: Treasures/Leveled Treasures/Leveled Implement Treasures
 item_id: brittlebreaker
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.3.3:02
 source: mcdm.heroes.v1
+treasure_type: Leveled
 type: treasure/leveled/implement
 ---
 

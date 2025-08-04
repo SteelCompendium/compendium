@@ -1,4 +1,5 @@
 ---
+echelon: 1st
 file_basename: Professor Veratismos Quaff n Huff Snuff
 file_dpath: Treasures/Consumables/1st Echelon Consumables
 item_id: professor-veratismos-quaff-n-huff-snuff
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.2.1:11
 source: mcdm.heroes.v1
+treasure_type: Consumable
 type: treasure/consumable/1st-echelon
 ---
 

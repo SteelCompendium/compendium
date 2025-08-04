@@ -1,4 +1,5 @@
 ---
+echelon:
 file_basename: Bloodbound Band
 file_dpath: Treasures/Leveled Treasures/Other Leveled Treasures
 item_id: bloodbound-band
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.3.2:01
 source: mcdm.heroes.v1
+treasure_type: Leveled
 type: treasure/leveled/other
 ---
 

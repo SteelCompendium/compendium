@@ -1,4 +1,5 @@
 ---
+echelon: 4th
 file_basename: Gravekeepers Lantern
 file_dpath: Treasures/Trinkets/4th Echelon Trinkets
 item_id: gravekeepers-lantern
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.4.1:02
 source: mcdm.heroes.v1
+treasure_type: Trinkets
 type: treasure/trinkets/4th-echelon
 ---
 

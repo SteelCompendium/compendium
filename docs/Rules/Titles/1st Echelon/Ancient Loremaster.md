@@ -1,4 +1,5 @@
 ---
+echelon: 1st
 file_basename: Ancient Loremaster
 file_dpath: Titles/1st Echelon
 item_id: ancient-loremaster

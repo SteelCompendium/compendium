@@ -1,4 +1,5 @@
 ---
+echelon: 3rd
 file_basename: Armed and Dangerous
 file_dpath: Titles/3rd Echelon
 item_id: armed-and-dangerous

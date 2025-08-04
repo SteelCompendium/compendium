@@ -1,4 +1,5 @@
 ---
+echelon: 3rd
 file_basename: G Allios Visiting Card
 file_dpath: Treasures/Consumables/3rd Echelon Consumables
 item_id: gallios-visiting-card
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.2.2:02
 source: mcdm.heroes.v1
+treasure_type: Consumable
 type: treasure/consumable/3rd-echelon
 ---
 

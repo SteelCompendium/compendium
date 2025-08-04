@@ -1,4 +1,5 @@
 ---
+echelon: 1st
 file_basename: Deadweight
 file_dpath: Treasures/Trinkets/1st Echelon Trinkets
 item_id: deadweight
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.4.4:09
 source: mcdm.heroes.v1
+treasure_type: Trinkets
 type: treasure/trinkets/1st-echelon
 ---
 

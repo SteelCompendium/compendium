@@ -1,4 +1,5 @@
 ---
+echelon: 2nd
 file_basename: Scroll of Resurrection
 file_dpath: Treasures/Consumables/2nd Echelon Consumables
 item_id: scroll-of-resurrection
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.2.3:02
 source: mcdm.heroes.v1
+treasure_type: Consumable
 type: treasure/consumable/2nd-echelon
 ---
 

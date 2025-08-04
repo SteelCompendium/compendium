@@ -1,4 +1,5 @@
 ---
+echelon:
 file_basename: Shrouded Memory
 file_dpath: Treasures/Leveled Treasures/Leveled Armor Treasures
 item_id: shrouded-memory
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.3.4:10
 source: mcdm.heroes.v1
+treasure_type: Leveled
 type: treasure/leveled/armor
 ---
 

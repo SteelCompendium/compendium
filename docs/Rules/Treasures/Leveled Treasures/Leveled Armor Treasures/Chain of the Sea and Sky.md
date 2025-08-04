@@ -1,4 +1,5 @@
 ---
+echelon:
 file_basename: Chain of the Sea and Sky
 file_dpath: Treasures/Leveled Treasures/Leveled Armor Treasures
 item_id: chain-of-the-sea-and-sky
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.3.4:08
 source: mcdm.heroes.v1
+treasure_type: Leveled
 type: treasure/leveled/armor
 ---
 

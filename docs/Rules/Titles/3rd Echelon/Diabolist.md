@@ -1,4 +1,5 @@
 ---
+echelon: 3rd
 file_basename: Diabolist
 file_dpath: Titles/3rd Echelon
 item_id: diabolist

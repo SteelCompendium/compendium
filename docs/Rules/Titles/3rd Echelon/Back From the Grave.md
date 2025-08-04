@@ -1,4 +1,5 @@
 ---
+echelon: 3rd
 file_basename: Back From the Grave
 file_dpath: Titles/3rd Echelon
 item_id: back-from-the-grave

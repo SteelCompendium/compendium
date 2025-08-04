@@ -1,4 +1,5 @@
 ---
+echelon: 2nd
 file_basename: Awakened
 file_dpath: Titles/2nd Echelon
 item_id: awakened

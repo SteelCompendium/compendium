@@ -1,4 +1,5 @@
 ---
+echelon: 1st
 file_basename: City Rat
 file_dpath: Titles/1st Echelon
 item_id: city-rat

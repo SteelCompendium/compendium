@@ -1,4 +1,5 @@
 ---
+echelon:
 file_basename: Thunderhead Bident
 file_dpath: Treasures/Leveled Treasures/Leveled Weapon Treasures
 item_id: thunderhead-bident
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.3.1:10
 source: mcdm.heroes.v1
+treasure_type: Leveled
 type: treasure/leveled/weapon
 ---
 

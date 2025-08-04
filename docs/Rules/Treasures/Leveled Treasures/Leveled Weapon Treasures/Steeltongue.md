@@ -1,4 +1,5 @@
 ---
+echelon:
 file_basename: Steeltongue
 file_dpath: Treasures/Leveled Treasures/Leveled Weapon Treasures
 item_id: steeltongue
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.3.1:11
 source: mcdm.heroes.v1
+treasure_type: Leveled
 type: treasure/leveled/weapon
 ---
 

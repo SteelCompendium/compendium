@@ -1,4 +1,5 @@
 ---
+echelon: 1st
 file_basename: Saved for a Worse Fate
 file_dpath: Titles/1st Echelon
 item_id: saved-for-a-worse-fate

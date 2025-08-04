@@ -1,4 +1,5 @@
 ---
+echelon: 4th
 file_basename: Restorative of the Bright Court
 file_dpath: Treasures/Consumables/4th Echelon Consumables
 item_id: restorative-of-the-bright-court
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.2.4:01
 source: mcdm.heroes.v1
+treasure_type: Consumable
 type: treasure/consumable/4th-echelon
 ---
 

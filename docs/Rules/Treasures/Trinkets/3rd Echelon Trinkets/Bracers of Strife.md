@@ -1,4 +1,5 @@
 ---
+echelon: 3rd
 file_basename: Bracers of Strife
 file_dpath: Treasures/Trinkets/3rd Echelon Trinkets
 item_id: bracers-of-strife
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.4.3:04
 source: mcdm.heroes.v1
+treasure_type: Trinkets
 type: treasure/trinkets/3rd-echelon
 ---
 

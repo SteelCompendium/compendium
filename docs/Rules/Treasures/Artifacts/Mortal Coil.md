@@ -1,4 +1,5 @@
 ---
+echelon:
 file_basename: Mortal Coil
 file_dpath: Treasures/Artifacts
 item_id: mortal-coil
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.1:02
 source: mcdm.heroes.v1
+treasure_type: Treasure
 type: treasure/artifact
 ---
 

@@ -1,4 +1,5 @@
 ---
+echelon:
 file_basename: Icemaker Maul
 file_dpath: Treasures/Leveled Treasures/Leveled Weapon Treasures
 item_id: icemaker-maul
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.3.1:02
 source: mcdm.heroes.v1
+treasure_type: Leveled
 type: treasure/leveled/weapon
 ---
 

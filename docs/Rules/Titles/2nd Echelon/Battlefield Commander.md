@@ -1,4 +1,5 @@
 ---
+echelon: 2nd
 file_basename: Battlefield Commander
 file_dpath: Titles/2nd Echelon
 item_id: battlefield-commander

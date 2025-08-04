@@ -1,4 +1,5 @@
 ---
+echelon: 4th
 file_basename: Breath of Creation
 file_dpath: Treasures/Consumables/4th Echelon Consumables
 item_id: breath-of-creation
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.2.4:02
 source: mcdm.heroes.v1
+treasure_type: Consumable
 type: treasure/consumable/4th-echelon
 ---
 

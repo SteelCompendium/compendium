@@ -1,4 +1,5 @@
 ---
+echelon:
 file_basename: Foesense Lenses
 file_dpath: Treasures/Leveled Treasures/Leveled Implement Treasures
 item_id: foesense-lenses
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.3.3:04
 source: mcdm.heroes.v1
+treasure_type: Leveled
 type: treasure/leveled/implement
 ---
 

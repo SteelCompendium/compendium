@@ -1,4 +1,5 @@
 ---
+echelon:
 file_basename: Encepter
 file_dpath: Treasures/Artifacts
 item_id: encepter
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.1:03
 source: mcdm.heroes.v1
+treasure_type: Treasure
 type: treasure/artifact
 ---
 

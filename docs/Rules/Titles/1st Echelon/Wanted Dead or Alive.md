@@ -1,4 +1,5 @@
 ---
+echelon: 1st
 file_basename: Wanted Dead or Alive
 file_dpath: Titles/1st Echelon
 item_id: wanted-dead-or-alive

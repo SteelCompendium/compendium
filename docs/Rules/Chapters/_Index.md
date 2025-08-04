@@ -5,21 +5,21 @@ type: index
 
 # Chapters Index
 
-| file_name                                     |
-| --------------------------------------------- |
-| [Ancestries](../Ancestries)                   |
-| [Background](../Background)                   |
-| [Classes](../Classes)                         |
-| [Combat](../Combat)                           |
-| [Complications](../Complications)             |
-| [Downtime Projects](../Downtime%20Projects)   |
-| [For the Director](../For%20the%20Director)   |
-| [Gods and Religion](../Gods%20and%20Religion) |
-| [Introduction](../Introduction)               |
-| [Kits](../Kits)                               |
-| [Making a Hero](../Making%20a%20Hero)         |
-| [Negotiation](../Negotiation)                 |
-| [Perks](../Perks)                             |
-| [Rewards](../Rewards)                         |
-| [Tests](../Tests)                             |
-| [The Basics](../The%20Basics)                 |
+| file_name                                     | chapter_num |
+| --------------------------------------------- | ----------- |
+| [Ancestries](../Ancestries)                   | 3           |
+| [Background](../Background)                   | 4           |
+| [Classes](../Classes)                         | 5           |
+| [Combat](../Combat)                           | 10          |
+| [Complications](../Complications)             | 8           |
+| [Downtime Projects](../Downtime%20Projects)   | 12          |
+| [For the Director](../For%20the%20Director)   | 15          |
+| [Gods and Religion](../Gods%20and%20Religion) | 14          |
+| [Introduction](../Introduction)               | 0           |
+| [Kits](../Kits)                               | 6           |
+| [Making a Hero](../Making%20a%20Hero)         | 2           |
+| [Negotiation](../Negotiation)                 | 11          |
+| [Perks](../Perks)                             | 7           |
+| [Rewards](../Rewards)                         | 13          |
+| [Tests](../Tests)                             | 9           |
+| [The Basics](../The%20Basics)                 | 1           |

@@ -1,4 +1,5 @@
 ---
+echelon: 1st
 file_basename: Color Cloak
 file_dpath: Treasures/Trinkets/1st Echelon Trinkets
 item_id: color-cloak-yellow
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.4.4:10
 source: mcdm.heroes.v1
+treasure_type: Trinkets
 type: treasure/trinkets/1st-echelon
 ---
 

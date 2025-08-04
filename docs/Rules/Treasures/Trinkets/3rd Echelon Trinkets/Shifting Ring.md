@@ -1,4 +1,5 @@
 ---
+echelon: 3rd
 file_basename: Shifting Ring
 file_dpath: Treasures/Trinkets/3rd Echelon Trinkets
 item_id: shifting-ring
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.4.3:01
 source: mcdm.heroes.v1
+treasure_type: Trinkets
 type: treasure/trinkets/3rd-echelon
 ---
 

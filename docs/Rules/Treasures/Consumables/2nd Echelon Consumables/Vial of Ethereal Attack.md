@@ -1,4 +1,5 @@
 ---
+echelon: 2nd
 file_basename: Vial of Ethereal Attack
 file_dpath: Treasures/Consumables/2nd Echelon Consumables
 item_id: vial-of-ethereal-attack
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.2.3:06
 source: mcdm.heroes.v1
+treasure_type: Consumable
 type: treasure/consumable/2nd-echelon
 ---
 

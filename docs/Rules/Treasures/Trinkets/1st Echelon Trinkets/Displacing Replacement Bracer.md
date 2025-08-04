@@ -1,4 +1,5 @@
 ---
+echelon: 1st
 file_basename: Displacing Replacement Bracer
 file_dpath: Treasures/Trinkets/1st Echelon Trinkets
 item_id: displacing-replacement-bracer
@@ -9,6 +10,7 @@ scc:
 scdc:
   - 1.1.1:12.4.4:08
 source: mcdm.heroes.v1
+treasure_type: Trinkets
 type: treasure/trinkets/1st-echelon
 ---
 
