@@ -1,4 +1,5 @@
 ---
+culture_benefit_type: Upbringing
 file_basename: Martial
 file_dpath: Cultures/Upbringing
 item_id: martial

@@ -1,4 +1,5 @@
 ---
+culture_benefit_type: Organization
 file_basename: Communal
 file_dpath: Cultures/Organization
 item_id: communal

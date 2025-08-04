@@ -1,4 +1,5 @@
 ---
+culture_benefit_type: Organization
 file_basename: Bureaucratic
 file_dpath: Cultures/Organization
 item_id: bureaucratic

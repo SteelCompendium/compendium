@@ -9,6 +9,7 @@ scc:
 scdc:
   - 1.1.1:9.1:01
 source: mcdm.heroes.v1
+title: 📄 Kit Table
 type: reference\_table/kits
 ---
 

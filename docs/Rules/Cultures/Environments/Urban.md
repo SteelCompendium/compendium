@@ -1,4 +1,5 @@
 ---
+culture_benefit_type: Environment
 file_basename: Urban
 file_dpath: Cultures/Environments
 item_id: urban

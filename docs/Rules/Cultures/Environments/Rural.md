@@ -1,4 +1,5 @@
 ---
+culture_benefit_type: Environment
 file_basename: Rural
 file_dpath: Cultures/Environments
 item_id: rural
