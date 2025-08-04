@@ -1,7 +1,5 @@
-document$.subscribe(function() {
-  var tables = document.querySelectorAll("article table:not([class])")
-  tables.forEach(function(table) {
-    new Tablesort(table)
-  })
-})
-
+document$.subscribe(function () {
+  const selector = "article table:not([class]):has(tbody > tr + tr)";
+  const tables = document.querySelectorAll(selector);
+  tables.forEach((table) => new Tablesort(table));
+});
