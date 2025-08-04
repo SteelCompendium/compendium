@@ -5,7 +5,7 @@ type: index
 
 # Elementalist: 2nd-Level Features Index
 
-| file_name                                                         | cost      | level | feature_type |
+| File Name                                                         | Cost      | Level | Feature Type |
 | ----------------------------------------------------------------- | --------- | ----- | ------------ |
 | [Disciple of Earth](../Disciple%20of%20Earth)                     |           | 2     | trait        |
 | [Disciple of Fire](../Disciple%20of%20Fire)                       |           | 2     | trait        |

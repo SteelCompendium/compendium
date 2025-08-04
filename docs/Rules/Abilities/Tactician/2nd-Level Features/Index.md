@@ -5,7 +5,7 @@ type: index
 
 # Tactician: 2nd-Level Features Index
 
-| file_name                                               | cost    | level | feature_type |
+| File Name                                               | Cost    | Level | Feature Type |
 | ------------------------------------------------------- | ------- | ----- | ------------ |
 | [Fog of War](../Fog%20of%20War)                         | 5 Focus | 2     | ability      |
 | [Goaded](../Goaded)                                     |         | 2     | trait        |

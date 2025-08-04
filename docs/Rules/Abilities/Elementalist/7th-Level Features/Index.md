@@ -5,7 +5,7 @@ type: index
 
 # Elementalist: 7th-Level Features Index
 
-| file_name                                               | cost | level | feature_type |
+| File Name                                               | Cost | Level | Feature Type |
 | ------------------------------------------------------- | ---- | ----- | ------------ |
 | [Characteristic Increase](../Characteristic%20Increase) |      | 7     | trait        |
 | [Mantle of Quintessence](../Mantle%20of%20Quintessence) |      | 7     | trait        |

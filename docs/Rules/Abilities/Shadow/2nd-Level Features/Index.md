@@ -5,7 +5,7 @@ type: index
 
 # Shadow: 2nd-Level Features Index
 
-| file_name                                             | cost      | level | feature_type |
+| File Name                                             | Cost      | Level | Feature Type |
 | ----------------------------------------------------- | --------- | ----- | ------------ |
 | [Burning Ash](../Burning%20Ash)                       |           | 2     | trait        |
 | [Friend](../Friend)                                   |           | 2     | trait        |

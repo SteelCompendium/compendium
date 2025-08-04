@@ -5,7 +5,7 @@ type: index
 
 # Troubadour: 5th-Level Features Index
 
-| file_name                                           | cost    | level | feature_type |
+| File Name                                           | Cost    | Level | Feature Type |
 | --------------------------------------------------- | ------- | ----- | ------------ |
 | [Action Hero](../Action%20Hero)                     | 9 Drama | 5     | ability      |
 | [Bolstering Banter](../Bolstering%20Banter)         |         | 5     | trait        |

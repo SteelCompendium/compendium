@@ -5,7 +5,7 @@ type: index
 
 # Tactician: 1st-Level Features Index
 
-| file_name                                                               | cost    | level | feature_type |
+| File Name                                                               | Cost    | Level | Feature Type |
 | ----------------------------------------------------------------------- | ------- | ----- | ------------ |
 | [Advanced Tactics](../Advanced%20Tactics)                               |         | 1     | trait        |
 | [Battle Cry](../Battle%20Cry)                                           | 3 Focus | 1     | ability      |

@@ -5,7 +5,7 @@ type: index
 
 # Null: 6th-Level Features Index
 
-| file_name                                         | cost         | level | feature_type |
+| File Name                                         | Cost         | Level | Feature Type |
 | ------------------------------------------------- | ------------ | ----- | ------------ |
 | [Elemental Absorption](../Elemental%20Absorption) |              | 6     | trait        |
 | [Elemental Buffer](../Elemental%20Buffer)         |              | 6     | trait        |

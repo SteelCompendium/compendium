@@ -5,7 +5,7 @@ type: index
 
 # Elementalist: 9th-Level Features Index
 
-| file_name                                                                   | cost       | level | feature_type |
+| File Name                                                                   | Cost       | Level | Feature Type |
 | --------------------------------------------------------------------------- | ---------- | ----- | ------------ |
 | [Earth Rejects You](../Earth%20Rejects%20You)                               | 11 Essence | 9     | ability      |
 | [Grand Wyrding](../Grand%20Wyrding)                                         |            | 9     | trait        |

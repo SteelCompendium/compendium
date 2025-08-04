@@ -5,7 +5,7 @@ type: index
 
 # Complications Index
 
-| file_name                                                                   |
+| File Name                                                                   |
 | --------------------------------------------------------------------------- |
 | [Advanced Studies](../Advanced%20Studies)                                   |
 | [Amnesia](../Amnesia)                                                       |

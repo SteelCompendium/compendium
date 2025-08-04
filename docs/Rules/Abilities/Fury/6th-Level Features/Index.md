@@ -5,7 +5,7 @@ type: index
 
 # Fury: 6th-Level Features Index
 
-| file_name                                                                       | cost       | level | feature_type |
+| File Name                                                                       | Cost       | Level | Feature Type |
 | ------------------------------------------------------------------------------- | ---------- | ----- | ------------ |
 | [Avalanche Impact](../Avalanche%20Impact)                                       | 9 Ferocity | 6     | ability      |
 | [Death Strike](../Death%20Strike)                                               | 9 Ferocity | 6     | ability      |

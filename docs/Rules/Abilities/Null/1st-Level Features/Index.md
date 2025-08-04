@@ -5,7 +5,7 @@ type: index
 
 # Null: 1st-Level Features Index
 
-| file_name                                                             | cost         | level | feature_type |
+| File Name                                                             | Cost         | Level | Feature Type |
 | --------------------------------------------------------------------- | ------------ | ----- | ------------ |
 | [A Squad Unto Myself](../A%20Squad%20Unto%20Myself)                   | 5 Discipline | 1     | ability      |
 | [Arcane Disruptor](../Arcane%20Disruptor)                             | 5 Discipline | 1     | ability      |

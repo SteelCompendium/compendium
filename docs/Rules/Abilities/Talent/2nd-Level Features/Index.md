@@ -5,7 +5,7 @@ type: index
 
 # Talent: 2nd-Level Features Index
 
-| file_name                                           | cost      | level | feature_type |
+| File Name                                           | Cost      | Level | Feature Type |
 | --------------------------------------------------- | --------- | ----- | ------------ |
 | [Applied Chronometrics](../Applied%20Chronometrics) | 5 Clarity | 2     | ability      |
 | [Ease Their Fall](../Ease%20Their%20Fall)           |           | 2     | trait        |

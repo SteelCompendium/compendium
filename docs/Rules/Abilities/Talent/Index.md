@@ -5,7 +5,7 @@ type: index
 
 # Talent Index
 
-| file_name                                                                                | cost       | level | feature_type |
+| File Name                                                                                | Cost       | Level | Feature Type |
 | ---------------------------------------------------------------------------------------- | ---------- | ----- | ------------ |
 | [Characteristic Increase](../10th-Level%20Features/Characteristic%20Increase)            |            | 10    | trait        |
 | [Clear Mind](../10th-Level%20Features/Clear%20Mind)                                      |            | 10    | trait        |

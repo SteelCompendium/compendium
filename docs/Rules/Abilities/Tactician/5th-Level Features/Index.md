@@ -5,7 +5,7 @@ type: index
 
 # Tactician: 5th-Level Features Index
 
-| file_name                                                                   | cost    | level | feature_type |
+| File Name                                                                   | Cost    | Level | Feature Type |
 | --------------------------------------------------------------------------- | ------- | ----- | ------------ |
 | [Anticipation](../Anticipation)                                             |         | 5     | trait        |
 | [Distracted](../Distracted)                                                 |         | 5     | trait        |

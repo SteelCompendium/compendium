@@ -5,7 +5,7 @@ type: index
 
 # Troubadour: 2nd-Level Features Index
 
-| file_name                                                                                     | cost    | level | feature_type |
+| File Name                                                                                     | Cost    | Level | Feature Type |
 | --------------------------------------------------------------------------------------------- | ------- | ----- | ------------ |
 | [Allow Me to Introduce Tonights Players](../Allow%20Me%20to%20Introduce%20Tonights%20Players) |         | 2     | trait        |
 | [Appeal to the Muses](../Appeal%20to%20the%20Muses)                                           |         | 2     | trait        |

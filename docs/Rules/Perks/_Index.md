@@ -5,7 +5,7 @@ type: index
 
 # Perks Index
 
-| file_name                                                                      |
+| File Name                                                                      |
 | ------------------------------------------------------------------------------ |
 | [Area of Expertise](../Crafting%20Perks/Area%20of%20Expertise)                 |
 | [Expert Artisan](../Crafting%20Perks/Expert%20Artisan)                         |

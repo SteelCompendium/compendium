@@ -5,7 +5,7 @@ type: index
 
 # Troubadour: 1st-Level Features Index
 
-| file_name                                                   | cost    | level | feature_type |
+| File Name                                                   | Cost    | Level | Feature Type |
 | ----------------------------------------------------------- | ------- | ----- | ------------ |
 | [Acrobatics](../Acrobatics)                                 |         | 1     | trait        |
 | [Artful Flourish](../Artful%20Flourish)                     |         | 1     | trait        |

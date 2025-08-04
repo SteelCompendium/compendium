@@ -5,7 +5,7 @@ type: index
 
 # Elementalist: 5th-Level Features Index
 
-| file_name                                                                 | cost      | level | feature_type |
+| File Name                                                                 | Cost      | Level | Feature Type |
 | ------------------------------------------------------------------------- | --------- | ----- | ------------ |
 | [Combustion Deferred](../Combustion%20Deferred)                           | 9 Essence | 5     | ability      |
 | [Hide of Tenfold Shields](../Hide%20of%20Tenfold%20Shields)               |           | 5     | trait        |

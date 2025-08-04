@@ -5,7 +5,7 @@ type: index
 
 # Talent: 8th-Level Features Index
 
-| file_name                                         | cost       | level | feature_type |
+| File Name                                         | Cost       | Level | Feature Type |
 | ------------------------------------------------- | ---------- | ----- | ------------ |
 | [Doubling the Hours](../Doubling%20the%20Hours)   |            | 8     | trait        |
 | [Doubt](../Doubt)                                 | 11 Clarity | 8     | ability      |

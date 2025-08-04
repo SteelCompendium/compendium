@@ -5,7 +5,7 @@ type: index
 
 # Censor: 3rd-Level Features Index
 
-| file_name                                                               | cost    | level | feature_type |
+| File Name                                                               | Cost    | Level | Feature Type |
 | ----------------------------------------------------------------------- | ------- | ----- | ------------ |
 | [Edict of Disruptive Isolation](../Edict%20of%20Disruptive%20Isolation) | 7 Wrath | 3     | ability      |
 | [Edict of Perfect Order](../Edict%20of%20Perfect%20Order)               | 7 Wrath | 3     | ability      |

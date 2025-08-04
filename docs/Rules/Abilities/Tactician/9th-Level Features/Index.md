@@ -5,7 +5,7 @@ type: index
 
 # Tactician: 9th-Level Features Index
 
-| file_name                                                                                   | cost     | level | feature_type |
+| File Name                                                                                   | Cost     | Level | Feature Type |
 | ------------------------------------------------------------------------------------------- | -------- | ----- | ------------ |
 | [Blot Out the Sun](../Blot%20Out%20the%20Sun)                                               | 11 Focus | 9     | ability      |
 | [Counterstrategy](../Counterstrategy)                                                       | 11 Focus | 9     | ability      |

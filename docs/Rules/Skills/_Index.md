@@ -5,7 +5,7 @@ type: index
 
 # Skills Index
 
-| file_name                                         |
+| File Name                                         |
 | ------------------------------------------------- |
 | [Crafting Skills](../Crafting%20Skills)           |
 | [Exploration Skills](../Exploration%20Skills)     |

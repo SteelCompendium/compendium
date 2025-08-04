@@ -5,7 +5,7 @@ type: index
 
 # Conduit: 6th-Level Features Index
 
-| file_name                                                           | cost    | level | feature_type |
+| File Name                                                           | Cost    | Level | Feature Type |
 | ------------------------------------------------------------------- | ------- | ----- | ------------ |
 | [Aura of Souls](../Aura%20of%20Souls)                               | 9 Piety | 6     | ability      |
 | [Blade of the Heavens](../Blade%20of%20the%20Heavens)               | 9 Piety | 6     | ability      |

@@ -5,7 +5,7 @@ type: index
 
 # Censor: 9th-Level Features Index
 
-| file_name                                                           | cost     | level | feature_type |
+| File Name                                                           | Cost     | Level | Feature Type |
 | ------------------------------------------------------------------- | -------- | ----- | ------------ |
 | [Apostate](../Apostate)                                             | 11 Wrath | 9     | ability      |
 | [Banish](../Banish)                                                 | 11 Wrath | 9     | ability      |

@@ -5,7 +5,7 @@ type: index
 
 # Elementalist: 3rd-Level Features Index
 
-| file_name                                                                         | cost      | level | feature_type |
+| File Name                                                                         | Cost      | Level | Feature Type |
 | --------------------------------------------------------------------------------- | --------- | ----- | ------------ |
 | [A Conversation With Fire](../A%20Conversation%20With%20Fire)                     |           | 3     | trait        |
 | [Distance Is Only Memory](../Distance%20Is%20Only%20Memory)                       |           | 3     | trait        |

@@ -5,7 +5,7 @@ type: index
 
 # Shadow: 4th-Level Features Index
 
-| file_name                                               | cost | level | feature_type |
+| File Name                                               | Cost | Level | Feature Type |
 | ------------------------------------------------------- | ---- | ----- | ------------ |
 | [Characteristic Increase](../Characteristic%20Increase) |      | 4     | trait        |
 | [Keep It Down](../Keep%20It%20Down)                     |      | 4     | trait        |

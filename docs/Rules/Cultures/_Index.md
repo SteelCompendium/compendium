@@ -5,7 +5,7 @@ type: index
 
 # Cultures Index
 
-| file_name                                    | culture_benefit_type |
+| File Name                                    | Culture Benefit Type |
 | -------------------------------------------- | -------------------- |
 | [Nomadic](../Environments/Nomadic)           | Environment          |
 | [Rural](../Environments/Rural)               | Environment          |

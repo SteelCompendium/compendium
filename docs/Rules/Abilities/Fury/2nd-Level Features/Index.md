@@ -5,7 +5,7 @@ type: index
 
 # Fury: 2nd-Level Features Index
 
-| file_name                                   | cost | level | feature_type |
+| File Name                                   | Cost | Level | Feature Type |
 | ------------------------------------------- | ---- | ----- | ------------ |
 | [Inescapable Wrath](../Inescapable%20Wrath) |      | 2     | trait        |
 | [Perk](../Perk)                             |      | 2     | trait        |

@@ -5,7 +5,7 @@ type: index
 
 # Censor Index
 
-| file_name                                                                                    | cost     | level | feature_type |
+| File Name                                                                                    | Cost     | Level | Feature Type |
 | -------------------------------------------------------------------------------------------- | -------- | ----- | ------------ |
 | [Characteristic Increase](../10th-Level%20Features/Characteristic%20Increase)                |          | 10    | trait        |
 | [Perk](../10th-Level%20Features/Perk)                                                        |          | 10    | trait        |

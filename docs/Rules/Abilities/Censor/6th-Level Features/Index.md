@@ -5,7 +5,7 @@ type: index
 
 # Censor: 6th-Level Features Index
 
-| file_name                                                     | cost    | level | feature_type |
+| File Name                                                     | Cost    | Level | Feature Type |
 | ------------------------------------------------------------- | ------- | ----- | ------------ |
 | [Begone](../Begone)                                           | 9 Wrath | 6     | ability      |
 | [Burden of Evil](../Burden%20of%20Evil)                       | 9 Wrath | 6     | ability      |

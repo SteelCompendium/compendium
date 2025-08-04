@@ -5,7 +5,7 @@ type: index
 
 # Troubadour: 6th-Level Features Index
 
-| file_name                                                         | cost    | level | feature_type |
+| File Name                                                         | Cost    | Level | Feature Type |
 | ----------------------------------------------------------------- | ------- | ----- | ------------ |
 | [Blood on the Stage](../Blood%20on%20the%20Stage)                 | 9 Drama | 6     | ability      |
 | [Feedback](../Feedback)                                           | 9 Drama | 6     | ability      |

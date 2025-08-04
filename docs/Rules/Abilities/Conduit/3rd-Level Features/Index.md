@@ -5,7 +5,7 @@ type: index
 
 # Conduit: 3rd-Level Features Index
 
-| file_name                                                       | cost    | level | feature_type |
+| File Name                                                       | Cost    | Level | Feature Type |
 | --------------------------------------------------------------- | ------- | ----- | ------------ |
 | [Fear of the Gods](../Fear%20of%20the%20Gods)                   | 7 Piety | 3     | ability      |
 | [Minor Miracle](../Minor%20Miracle)                             |         | 3     | trait        |

@@ -5,7 +5,7 @@ type: index
 
 # Shadow: 6th-Level Features Index
 
-| file_name                                                         | cost      | level | feature_type |
+| File Name                                                         | Cost      | Level | Feature Type |
 | ----------------------------------------------------------------- | --------- | ----- | ------------ |
 | [Black Ash Eruption](../Black%20Ash%20Eruption)                   | 9 Insight | 6     | ability      |
 | [Cinderstorm](../Cinderstorm)                                     | 9 Insight | 6     | ability      |

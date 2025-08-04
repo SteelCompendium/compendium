@@ -5,7 +5,7 @@ type: index
 
 # Tactician: 8th-Level Features Index
 
-| file_name                                                                             | cost     | level | feature_type |
+| File Name                                                                             | Cost     | Level | Feature Type |
 | ------------------------------------------------------------------------------------- | -------- | ----- | ------------ |
 | [Bait and Ambush](../Bait%20and%20Ambush)                                             |          | 8     | trait        |
 | [Finish Them](../Finish%20Them)                                                       | 11 Focus | 8     | ability      |

@@ -5,7 +5,7 @@ type: index
 
 # Talent: 3rd-Level Features Index
 
-| file_name                                       | cost      | level | feature_type |
+| File Name                                       | Cost      | Level | Feature Type |
 | ----------------------------------------------- | --------- | ----- | ------------ |
 | [Fling Through Time](../Fling%20Through%20Time) | 7 Clarity | 3     | ability      |
 | [Force Orbs](../Force%20Orbs)                   | 7 Clarity | 3     | ability      |

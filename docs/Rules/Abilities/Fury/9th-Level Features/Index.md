@@ -5,7 +5,7 @@ type: index
 
 # Fury: 9th-Level Features Index
 
-| file_name                                                                         | cost        | level | feature_type |
+| File Name                                                                         | Cost        | Level | Feature Type |
 | --------------------------------------------------------------------------------- | ----------- | ----- | ------------ |
 | [Death Comes for You All](../Death%20Comes%20for%20You%20All)                     | 11 Ferocity | 9     | ability      |
 | [Death Rattle](../Death%20Rattle)                                                 | 11 Ferocity | 9     | ability      |

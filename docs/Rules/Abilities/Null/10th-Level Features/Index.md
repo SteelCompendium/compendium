@@ -5,7 +5,7 @@ type: index
 
 # Null: 10th-Level Features Index
 
-| file_name                                                               | cost | level | feature_type |
+| File Name                                                               | Cost | Level | Feature Type |
 | ----------------------------------------------------------------------- | ---- | ----- | ------------ |
 | [Characteristic Increase](../Characteristic%20Increase)                 |      | 10    | trait        |
 | [Discipline Mastery Improvement](../Discipline%20Mastery%20Improvement) |      | 10    | trait        |

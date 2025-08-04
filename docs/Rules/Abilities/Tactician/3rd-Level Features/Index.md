@@ -5,7 +5,7 @@ type: index
 
 # Tactician: 3rd-Level Features Index
 
-| file_name                                               | cost    | level | feature_type |
+| File Name                                               | Cost    | Level | Feature Type |
 | ------------------------------------------------------- | ------- | ----- | ------------ |
 | [Frontal Assault](../Frontal%20Assault)                 | 7 Focus | 3     | ability      |
 | [Hit Em Hard](../Hit%20Em%20Hard)                       | 7 Focus | 3     | ability      |

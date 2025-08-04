@@ -5,7 +5,7 @@ type: index
 
 # Elementalist: 6th-Level Features Index
 
-| file_name                                                                   | cost      | level | feature_type |
+| File Name                                                                   | Cost      | Level | Feature Type |
 | --------------------------------------------------------------------------- | --------- | ----- | ------------ |
 | [Luminous Champion Aloft](../Luminous%20Champion%20Aloft)                   | 9 Essence | 6     | ability      |
 | [Magma Titan](../Magma%20Titan)                                             | 9 Essence | 6     | ability      |

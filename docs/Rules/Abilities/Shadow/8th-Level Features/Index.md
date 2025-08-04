@@ -5,7 +5,7 @@ type: index
 
 # Shadow: 8th-Level Features Index
 
-| file_name                                           | cost       | level | feature_type |
+| File Name                                           | Cost       | Level | Feature Type |
 | --------------------------------------------------- | ---------- | ----- | ------------ |
 | [Assassinate](../Assassinate)                       | 11 Insight | 8     | ability      |
 | [Cinder Step](../Cinder%20Step)                     |            | 8     | trait        |

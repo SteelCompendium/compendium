@@ -5,7 +5,7 @@ type: index
 
 # Fury: 3rd-Level Features Index
 
-| file_name                                                     | cost       | level | feature_type |
+| File Name                                                     | Cost       | Level | Feature Type |
 | ------------------------------------------------------------- | ---------- | ----- | ------------ |
 | [Demon Unleashed](../Demon%20Unleashed)                       | 7 Ferocity | 3     | ability      |
 | [Face the Storm](../Face%20the%20Storm)                       | 7 Ferocity | 3     | ability      |

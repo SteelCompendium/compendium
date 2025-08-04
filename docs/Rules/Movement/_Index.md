@@ -5,7 +5,7 @@ type: index
 
 # Movement Index
 
-| file_name                                                                         |
+| File Name                                                                         |
 | --------------------------------------------------------------------------------- |
 | [Big Versus Little](../Big%20Versus%20Little)                                     |
 | [Burrow](../Burrow)                                                               |

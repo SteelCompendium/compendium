@@ -5,7 +5,7 @@ type: index
 
 # Talent: 5th-Level Features Index
 
-| file_name                                         | cost      | level | feature_type |
+| File Name                                         | Cost      | Level | Feature Type |
 | ------------------------------------------------- | --------- | ----- | ------------ |
 | [Compulsion](../Compulsion)                       |           | 5     | trait        |
 | [Distortion Temporal](../Distortion%20Temporal)   |           | 5     | trait        |

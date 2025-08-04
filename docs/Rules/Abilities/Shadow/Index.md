@@ -5,7 +5,7 @@ type: index
 
 # Shadow Index
 
-| file_name                                                                                            | cost       | level | feature_type |
+| File Name                                                                                            | Cost       | Level | Feature Type |
 | ---------------------------------------------------------------------------------------------------- | ---------- | ----- | ------------ |
 | [Careful Observation Improvement](../10th-Level%20Features/Careful%20Observation%20Improvement)      |            | 10    | trait        |
 | [Characteristic Increase](../10th-Level%20Features/Characteristic%20Increase)                        |            | 10    | trait        |

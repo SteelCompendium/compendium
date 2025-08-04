@@ -5,7 +5,7 @@ type: index
 
 # Shadow: 3rd-Level Features Index
 
-| file_name                                       | cost      | level | feature_type |
+| File Name                                       | Cost      | Level | Feature Type |
 | ----------------------------------------------- | --------- | ----- | ------------ |
 | [Careful Observation](../Careful%20Observation) |           | 3     | trait        |
 | [Dancer](../Dancer)                             | 7 Insight | 3     | ability      |

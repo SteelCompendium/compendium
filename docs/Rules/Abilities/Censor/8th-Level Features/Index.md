@@ -5,7 +5,7 @@ type: index
 
 # Censor: 8th-Level Features Index
 
-| file_name                                                     | cost     | level | feature_type |
+| File Name                                                     | Cost     | Level | Feature Type |
 | ------------------------------------------------------------- | -------- | ----- | ------------ |
 | [Demonologist](../Demonologist)                               |          | 8     | trait        |
 | [Excommunication](../Excommunication)                         | 11 Wrath | 8     | ability      |

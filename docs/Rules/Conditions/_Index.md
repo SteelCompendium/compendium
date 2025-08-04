@@ -5,7 +5,7 @@ type: index
 
 # Conditions Index
 
-| file_name                   |
+| File Name                   |
 | --------------------------- |
 | [Bleeding](../Bleeding)     |
 | [Dazed](../Dazed)           |

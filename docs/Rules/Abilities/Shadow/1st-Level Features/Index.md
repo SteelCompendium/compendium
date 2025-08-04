@@ -5,7 +5,7 @@ type: index
 
 # Shadow: 1st-Level Features Index
 
-| file_name                                                                       | cost      | level | feature_type |
+| File Name                                                                       | Cost      | Level | Feature Type |
 | ------------------------------------------------------------------------------- | --------- | ----- | ------------ |
 | [Black Ash Teleport](../Black%20Ash%20Teleport)                                 |           | 1     | trait        |
 | [Clever Trick](../Clever%20Trick)                                               | 1 Insight | 1     | ability      |

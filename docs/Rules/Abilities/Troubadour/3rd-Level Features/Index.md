@@ -5,7 +5,7 @@ type: index
 
 # Troubadour: 3rd-Level Features Index
 
-| file_name                                       | cost    | level | feature_type |
+| File Name                                       | Cost    | Level | Feature Type |
 | ----------------------------------------------- | ------- | ----- | ------------ |
 | [Extensive Rewrites](../Extensive%20Rewrites)   | 7 Drama | 3     | ability      |
 | [Fire Up the Night](../Fire%20Up%20the%20Night) |         | 3     | trait        |

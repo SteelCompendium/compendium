@@ -5,7 +5,7 @@ type: index
 
 # Elementalist: 1st-Level Features Index
 
-| file_name                                                                             | cost      | level | feature_type |
+| File Name                                                                             | Cost      | Level | Feature Type |
 | ------------------------------------------------------------------------------------- | --------- | ----- | ------------ |
 | [1st Level Specialization Feature](../1st%20Level%20Specialization%20Feature)         |           | 1     | trait        |
 | [Afflict a Bountiful Decay](../Afflict%20a%20Bountiful%20Decay)                       |           | 1     | trait        |

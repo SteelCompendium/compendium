@@ -5,7 +5,7 @@ type: index
 
 # Censor: 4th-Level Features Index
 
-| file_name                                                             | cost | level | feature_type |
+| File Name                                                             | Cost | Level | Feature Type |
 | --------------------------------------------------------------------- | ---- | ----- | ------------ |
 | [Blessing of Life](../Blessing%20of%20Life)                           |      | 4     | trait        |
 | [Blessing of Secrets](../Blessing%20of%20Secrets)                     |      | 4     | trait        |

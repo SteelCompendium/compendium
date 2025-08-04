@@ -5,7 +5,7 @@ type: index
 
 # Ancestries Index
 
-| file_name                           |
+| File Name                           |
 | ----------------------------------- |
 | [Devil](../Devil)                   |
 | [Dragon Knight](../Dragon%20Knight) |

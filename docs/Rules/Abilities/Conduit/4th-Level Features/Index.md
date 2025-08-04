@@ -5,7 +5,7 @@ type: index
 
 # Conduit: 4th-Level Features Index
 
-| file_name                                                             | cost | level | feature_type |
+| File Name                                                             | Cost | Level | Feature Type |
 | --------------------------------------------------------------------- | ---- | ----- | ------------ |
 | [Blessed Domain](../Blessed%20Domain)                                 |      | 4     | trait        |
 | [Blessing of Life](../Blessing%20of%20Life)                           |      | 4     | trait        |

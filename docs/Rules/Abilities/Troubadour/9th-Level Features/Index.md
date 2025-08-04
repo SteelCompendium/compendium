@@ -5,7 +5,7 @@ type: index
 
 # Troubadour: 9th-Level Features Index
 
-| file_name                                           | cost     | level | feature_type |
+| File Name                                           | Cost     | Level | Feature Type |
 | --------------------------------------------------- | -------- | ----- | ------------ |
 | [Epic](../Epic)                                     | 11 Drama | 9     | ability      |
 | [Expert Fencer](../Expert%20Fencer)                 | 11 Drama | 9     | ability      |

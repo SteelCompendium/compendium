@@ -5,7 +5,7 @@ type: index
 
 # Null: 9th-Level Features Index
 
-| file_name                                       | cost          | level | feature_type |
+| File Name                                       | Cost          | Level | Feature Type |
 | ----------------------------------------------- | ------------- | ----- | ------------ |
 | [Absolute Zero](../Absolute%20Zero)             | 11 Discipline | 9     | ability      |
 | [Arrestor Cycle](../Arrestor%20Cycle)           | 11 Discipline | 9     | ability      |

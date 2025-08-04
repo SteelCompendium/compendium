@@ -5,7 +5,7 @@ type: index
 
 # Shadow: 9th-Level Features Index
 
-| file_name                                             | cost       | level | feature_type |
+| File Name                                             | Cost       | Level | Feature Type |
 | ----------------------------------------------------- | ---------- | ----- | ------------ |
 | [Cacophony of Cinders](../Cacophony%20of%20Cinders)   | 11 Insight | 9     | ability      |
 | [Chain Reaction](../Chain%20Reaction)                 | 11 Insight | 9     | ability      |

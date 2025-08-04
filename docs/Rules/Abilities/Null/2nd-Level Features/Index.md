@@ -5,7 +5,7 @@ type: index
 
 # Null: 2nd-Level Features Index
 
-| file_name                                           | cost         | level | feature_type |
+| File Name                                           | Cost         | Level | Feature Type |
 | --------------------------------------------------- | ------------ | ----- | ------------ |
 | [Blur](../Blur)                                     | 5 Discipline | 2     | ability      |
 | [Entropic Adaptability](../Entropic%20Adaptability) |              | 2     | trait        |

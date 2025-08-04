@@ -5,7 +5,7 @@ type: index
 
 # Conduit: 10th-Level Features Index
 
-| file_name                                               | cost | level | feature_type |
+| File Name                                               | Cost | Level | Feature Type |
 | ------------------------------------------------------- | ---- | ----- | ------------ |
 | [Avatar](../Avatar)                                     |      | 10    | trait        |
 | [Characteristic Increase](../Characteristic%20Increase) |      | 10    | trait        |

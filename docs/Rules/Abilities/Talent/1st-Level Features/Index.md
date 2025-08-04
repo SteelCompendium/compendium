@@ -5,7 +5,7 @@ type: index
 
 # Talent: 1st-Level Features Index
 
-| file_name                                                       | cost      | level | feature_type |
+| File Name                                                       | Cost      | Level | Feature Type |
 | --------------------------------------------------------------- | --------- | ----- | ------------ |
 | [Accelerate](../Accelerate)                                     |           | 1     | trait        |
 | [Again](../Again)                                               |           | 1     | trait        |

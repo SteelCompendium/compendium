@@ -5,7 +5,7 @@ type: index
 
 # Tactician: 6th-Level Features Index
 
-| file_name                                             | cost    | level | feature_type |
+| File Name                                             | Cost    | Level | Feature Type |
 | ----------------------------------------------------- | ------- | ----- | ------------ |
 | [Battle Plan](../Battle%20Plan)                       | 9 Focus | 6     | ability      |
 | [Coordinated Execution](../Coordinated%20Execution)   | 9 Focus | 6     | ability      |

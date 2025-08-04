@@ -5,7 +5,7 @@ type: index
 
 # Common: Move Actions Index
 
-| file_name                 | cost | level | feature_type |
+| File Name                 | Cost | Level | Feature Type |
 | ------------------------- | ---- | ----- | ------------ |
 | [Advance](../Advance)     |      |       |              |
 | [Disengage](../Disengage) |      |       |              |

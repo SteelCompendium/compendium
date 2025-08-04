@@ -5,7 +5,7 @@ type: index
 
 # Censor: 1st-Level Features Index
 
-| file_name                                                               | cost    | level | feature_type |
+| File Name                                                               | Cost    | Level | Feature Type |
 | ----------------------------------------------------------------------- | ------- | ----- | ------------ |
 | [Arrest](../Arrest)                                                     | 5 Wrath | 1     | ability      |
 | [Back Blasphemer](../Back%20Blasphemer)                                 |         | 1     | trait        |

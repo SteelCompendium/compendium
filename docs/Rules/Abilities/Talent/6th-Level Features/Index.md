@@ -5,7 +5,7 @@ type: index
 
 # Talent: 6th-Level Features Index
 
-| file_name                                           | cost      | level | feature_type |
+| File Name                                           | Cost      | Level | Feature Type |
 | --------------------------------------------------- | --------- | ----- | ------------ |
 | [Dynamic Power](../Dynamic%20Power)                 | 1 Clarity | 6     | ability      |
 | [Expanded Power](../Expanded%20Power)               | 3 Clarity | 6     | ability      |

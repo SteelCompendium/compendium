@@ -5,7 +5,7 @@ type: index
 
 # Conduit: 2nd-Level Features Index
 
-| file_name                                                               | cost    | level | feature_type |
+| File Name                                                               | Cost    | Level | Feature Type |
 | ----------------------------------------------------------------------- | ------- | ----- | ------------ |
 | [2nd Level Domain Feature](../2nd%20Level%20Domain%20Feature)           |         | 2     | trait        |
 | [Blessing of Fate and Destiny](../Blessing%20of%20Fate%20and%20Destiny) | 5 Piety | 2     | ability      |

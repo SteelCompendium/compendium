@@ -5,7 +5,7 @@ type: index
 
 # Fury: 8th-Level Features Index
 
-| file_name                                       | cost        | level | feature_type |
+| File Name                                       | Cost        | Level | Feature Type |
 | ----------------------------------------------- | ----------- | ----- | ------------ |
 | [A Step Ahead](../A%20Step%20Ahead)             |             | 8     | trait        |
 | [Elemental Ferocity](../Elemental%20Ferocity)   | 11 Ferocity | 8     | ability      |

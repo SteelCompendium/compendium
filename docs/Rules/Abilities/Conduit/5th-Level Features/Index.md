@@ -5,7 +5,7 @@ type: index
 
 # Conduit: 5th-Level Features Index
 
-| file_name                                                     | cost    | level | feature_type |
+| File Name                                                     | Cost    | Level | Feature Type |
 | ------------------------------------------------------------- | ------- | ----- | ------------ |
 | [4th Level Domain Feature](../4th%20Level%20Domain%20Feature) |         | 5     | trait        |
 | [5th Level Domain Feature](../5th%20Level%20Domain%20Feature) |         | 5     | trait        |

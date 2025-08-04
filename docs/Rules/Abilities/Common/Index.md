@@ -5,7 +5,7 @@ type: index
 
 # Common Index
 
-| file_name                                                                     | cost | level | feature_type |
+| File Name                                                                     | Cost | Level | Feature Type |
 | ----------------------------------------------------------------------------- | ---- | ----- | ------------ |
 | [Charge](../Main%20Actions/Charge)                                            |      |       |              |
 | [Defend](../Main%20Actions/Defend)                                            |      |       |              |

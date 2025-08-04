@@ -5,7 +5,7 @@ type: index
 
 # Censor: 2nd-Level Features Index
 
-| file_name                                                     | cost    | level | feature_type |
+| File Name                                                     | Cost    | Level | Feature Type |
 | ------------------------------------------------------------- | ------- | ----- | ------------ |
 | [A Sense for Truth](../A%20Sense%20for%20Truth)               |         | 2     | trait        |
 | [Blessing of the Faithful](../Blessing%20of%20the%20Faithful) | 5 Wrath | 2     | ability      |

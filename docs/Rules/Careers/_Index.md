@@ -5,7 +5,7 @@ type: index
 
 # Careers Index
 
-| file_name                                 |
+| File Name                                 |
 | ----------------------------------------- |
 | [Agent](../Agent)                         |
 | [Aristocrat](../Aristocrat)               |

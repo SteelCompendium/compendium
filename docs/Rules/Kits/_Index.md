@@ -5,7 +5,7 @@ type: index
 
 # Kits Index
 
-| file_name                                   |
+| File Name                                   |
 | ------------------------------------------- |
 | [Arcane Archer](../Arcane%20Archer)         |
 | [Battlemind](../Battlemind)                 |

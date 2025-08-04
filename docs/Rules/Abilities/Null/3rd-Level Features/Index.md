@@ -5,7 +5,7 @@ type: index
 
 # Null: 3rd-Level Features Index
 
-| file_name                                                             | cost         | level | feature_type |
+| File Name                                                             | Cost         | Level | Feature Type |
 | --------------------------------------------------------------------- | ------------ | ----- | ------------ |
 | [Absorption Field](../Absorption%20Field)                             | 7 Discipline | 3     | ability      |
 | [Molecular Rearrangement Field](../Molecular%20Rearrangement%20Field) | 7 Discipline | 3     | ability      |

@@ -5,7 +5,7 @@ type: index
 
 # Conduit: 1st-Level Features Index
 
-| file_name                                                                           | cost    | level | feature_type |
+| File Name                                                                           | Cost    | Level | Feature Type |
 | ----------------------------------------------------------------------------------- | ------- | ----- | ------------ |
 | [Bastion Ward](../Bastion%20Ward)                                                   |         | 1     | trait        |
 | [Blessed Light](../Blessed%20Light)                                                 |         | 1     | trait        |

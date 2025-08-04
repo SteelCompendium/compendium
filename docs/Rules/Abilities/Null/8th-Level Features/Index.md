@@ -5,7 +5,7 @@ type: index
 
 # Null: 8th-Level Features Index
 
-| file_name                                   | cost          | level | feature_type |
+| File Name                                   | Cost          | Level | Feature Type |
 | ------------------------------------------- | ------------- | ----- | ------------ |
 | [Arcane Purge](../Arcane%20Purge)           | 11 Discipline | 8     | ability      |
 | [Inertial Dampener](../Inertial%20Dampener) |               | 8     | trait        |

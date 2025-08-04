@@ -5,7 +5,7 @@ type: index
 
 # Troubadour: 7th-Level Features Index
 
-| file_name                                               | cost | level | feature_type |
+| File Name                                               | Cost | Level | Feature Type |
 | ------------------------------------------------------- | ---- | ----- | ------------ |
 | [A Muses Muse](../A%20Muses%20Muse)                     |      | 7     | trait        |
 | [Characteristic Increase](../Characteristic%20Increase) |      | 7     | trait        |

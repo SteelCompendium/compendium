@@ -5,7 +5,7 @@ type: index
 
 # Talent: 9th-Level Features Index
 
-| file_name                                                           | cost       | level | feature_type |
+| File Name                                                           | Cost       | Level | Feature Type |
 | ------------------------------------------------------------------- | ---------- | ----- | ------------ |
 | [Acceleration Field](../Acceleration%20Field)                       | 11 Clarity | 9     | ability      |
 | [Borrow From the Future](../Borrow%20From%20the%20Future)           | 11 Clarity | 9     | ability      |

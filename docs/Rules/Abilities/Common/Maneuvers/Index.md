@@ -5,7 +5,7 @@ type: index
 
 # Common: Maneuvers Index
 
-| file_name                                                           | cost | level | feature_type |
+| File Name                                                           | Cost | Level | Feature Type |
 | ------------------------------------------------------------------- | ---- | ----- | ------------ |
 | [Aid Attack](../Aid%20Attack)                                       |      |       |              |
 | [Catch Breath](../Catch%20Breath)                                   |      |       |              |

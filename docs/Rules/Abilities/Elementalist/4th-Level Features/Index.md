@@ -5,7 +5,7 @@ type: index
 
 # Elementalist: 4th-Level Features Index
 
-| file_name                                               | cost | level | feature_type |
+| File Name                                               | Cost | Level | Feature Type |
 | ------------------------------------------------------- | ---- | ----- | ------------ |
 | [Burning Grounds](../Burning%20Grounds)                 |      | 4     | trait        |
 | [Characteristic Increase](../Characteristic%20Increase) |      | 4     | trait        |

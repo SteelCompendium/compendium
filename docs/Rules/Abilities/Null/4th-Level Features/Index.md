@@ -5,7 +5,7 @@ type: index
 
 # Null: 4th-Level Features Index
 
-| file_name                                                               | cost         | level | feature_type |
+| File Name                                                               | Cost         | Level | Feature Type |
 | ----------------------------------------------------------------------- | ------------ | ----- | ------------ |
 | [5th Level Tradition Feature](../5th%20Level%20Tradition%20Feature)     |              | 4     | trait        |
 | [8th Level Tradition Feature](../8th%20Level%20Tradition%20Feature)     |              | 4     | trait        |

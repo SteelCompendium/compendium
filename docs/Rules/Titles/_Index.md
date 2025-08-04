@@ -5,7 +5,7 @@ type: index
 
 # Titles Index
 
-| file_name                                                                 | echelon |
+| File Name                                                                 | Echelon |
 | ------------------------------------------------------------------------- | ------- |
 | [Ancient Loremaster](../1st%20Echelon/Ancient%20Loremaster)               | 1st     |
 | [Battleaxe Diplomat](../1st%20Echelon/Battleaxe%20Diplomat)               | 1st     |

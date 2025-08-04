@@ -5,7 +5,7 @@ type: index
 
 # Troubadour: 8th-Level Features Index
 
-| file_name                                             | cost     | level | feature_type |
+| File Name                                             | Cost     | Level | Feature Type |
 | ----------------------------------------------------- | -------- | ----- | ------------ |
 | [Deleted Scene](../Deleted%20Scene)                   |          | 8     | trait        |
 | [Dramatic Reveal](../Dramatic%20Reveal)               | 11 Drama | 8     | ability      |

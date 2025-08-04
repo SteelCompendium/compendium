@@ -5,7 +5,7 @@ type: index
 
 # Classes Index
 
-| file_name                       |
+| File Name                       |
 | ------------------------------- |
 | [Censor](../Censor)             |
 | [Conduit](../Conduit)           |

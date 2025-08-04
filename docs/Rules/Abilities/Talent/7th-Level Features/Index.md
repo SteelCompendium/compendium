@@ -5,7 +5,7 @@ type: index
 
 # Talent: 7th-Level Features Index
 
-| file_name                                               | cost | level | feature_type |
+| File Name                                               | Cost | Level | Feature Type |
 | ------------------------------------------------------- | ---- | ----- | ------------ |
 | [Ancestral Memory](../Ancestral%20Memory)               |      | 7     | trait        |
 | [Cascading Strain](../Cascading%20Strain)               |      | 7     | trait        |

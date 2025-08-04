@@ -5,7 +5,7 @@ type: index
 
 # Shadow: 5th-Level Features Index
 
-| file_name                                       | cost      | level | feature_type |
+| File Name                                       | Cost      | Level | Feature Type |
 | ----------------------------------------------- | --------- | ----- | ------------ |
 | [Blackout](../Blackout)                         | 9 Insight | 5     | ability      |
 | [Harlequin Gambit](../Harlequin%20Gambit)       |           | 5     | trait        |

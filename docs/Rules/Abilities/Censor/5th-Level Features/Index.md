@@ -5,7 +5,7 @@ type: index
 
 # Censor: 5th-Level Features Index
 
-| file_name                                                     | cost    | level | feature_type |
+| File Name                                                     | Cost    | Level | Feature Type |
 | ------------------------------------------------------------- | ------- | ----- | ------------ |
 | [Evil Revealed](../Evil%20Revealed)                           |         | 5     | trait        |
 | [Gods Grant Thee Strength](../Gods%20Grant%20Thee%20Strength) | 9 Wrath | 5     | ability      |

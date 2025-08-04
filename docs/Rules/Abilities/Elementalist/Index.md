@@ -5,7 +5,7 @@ type: index
 
 # Elementalist Index
 
-| file_name                                                                                                  | cost       | level | feature_type |
+| File Name                                                                                                  | Cost       | Level | Feature Type |
 | ---------------------------------------------------------------------------------------------------------- | ---------- | ----- | ------------ |
 | [Breath](../10th-Level%20Features/Breath)                                                                  |            | 10    | trait        |
 | [Characteristic Increase](../10th-Level%20Features/Characteristic%20Increase)                              |            | 10    | trait        |

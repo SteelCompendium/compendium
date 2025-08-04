@@ -5,7 +5,7 @@ type: index
 
 # Conduit: 9th-Level Features Index
 
-| file_name                                                     | cost     | level | feature_type |
+| File Name                                                     | Cost     | Level | Feature Type |
 | ------------------------------------------------------------- | -------- | ----- | ------------ |
 | [Alacrity of the Heart](../Alacrity%20of%20the%20Heart)       | 11 Piety | 9     | ability      |
 | [Bend Fate](../Bend%20Fate)                                   | 11 Piety | 9     | ability      |

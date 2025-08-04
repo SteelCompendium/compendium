@@ -5,7 +5,7 @@ type: index
 
 # Elementalist: 8th-Level Features Index
 
-| file_name                                                       | cost       | level | feature_type |
+| File Name                                                       | Cost       | Level | Feature Type |
 | --------------------------------------------------------------- | ---------- | ----- | ------------ |
 | [Black Hole Star](../Black%20Hole%20Star)                       |            | 8     | trait        |
 | [Chimeric Manifestation](../Chimeric%20Manifestation)           |            | 8     | trait        |

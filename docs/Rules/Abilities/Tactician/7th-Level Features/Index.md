@@ -5,7 +5,7 @@ type: index
 
 # Tactician: 7th-Level Features Index
 
-| file_name                                               | cost | level | feature_type |
+| File Name                                               | Cost | Level | Feature Type |
 | ------------------------------------------------------- | ---- | ----- | ------------ |
 | [Asymmetric Warfare](../Asymmetric%20Warfare)           |      | 7     | trait        |
 | [Characteristic Increase](../Characteristic%20Increase) |      | 7     | trait        |

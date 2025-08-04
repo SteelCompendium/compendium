@@ -5,7 +5,7 @@ type: index
 
 # Chapters Index
 
-| file_name                                     | chapter_num |
+| File Name                                     | Chapter Num |
 | --------------------------------------------- | ----------- |
 | [Ancestries](../Ancestries)                   | 3           |
 | [Background](../Background)                   | 4           |

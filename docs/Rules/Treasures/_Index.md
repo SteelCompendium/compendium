@@ -5,7 +5,7 @@ type: index
 
 # Treasures Index
 
-| file_name                                                                                                                                   | treasure_type |
+| File Name                                                                                                                                   | Treasure Type |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | [Blade of a Thousand Years](../Artifacts/Blade%20of%20a%20Thousand%20Years)                                                                 | Treasure      |
 | [Encepter](../Artifacts/Encepter)                                                                                                           | Treasure      |

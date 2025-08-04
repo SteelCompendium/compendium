@@ -5,7 +5,7 @@ type: index
 
 # Tactician Index
 
-| file_name                                                                                                        | cost     | level | feature_type |
+| File Name                                                                                                        | Cost     | Level | Feature Type |
 | ---------------------------------------------------------------------------------------------------------------- | -------- | ----- | ------------ |
 | [Characteristic Increase](../10th-Level%20Features/Characteristic%20Increase)                                    |          | 10    | trait        |
 | [Command](../10th-Level%20Features/Command)                                                                      |          | 10    | trait        |

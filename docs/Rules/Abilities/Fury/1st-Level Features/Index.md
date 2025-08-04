@@ -5,7 +5,7 @@ type: index
 
 # Fury: 1st-Level Features Index
 
-| file_name                                                                       | cost       | level | feature_type |
+| File Name                                                                       | Cost       | Level | Feature Type |
 | ------------------------------------------------------------------------------- | ---------- | ----- | ------------ |
 | [1st Level Aspect Features Tables](../1st%20Level%20Aspect%20Features%20Tables) |            | 1     | trait        |
 | [Back](../Back)                                                                 | 3 Ferocity | 1     | ability      |
