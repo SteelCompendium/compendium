@@ -10,15 +10,23 @@ Steel Compendium Rules is a structured collection of data from the Draw Steel He
 
 Sections have also been broken out for convenience (BETA, see nav):
 
-- [[Rules/Ancestries/_Index|Ancestries]]
-- [[Rules/Careers/_Index|Careers]]
-- [[Rules/Chapters/_Index|Chapters]]
-- [[Rules/Classes/_Index|Classes]]
-- [[Rules/Complications/_Index|Complications]]
-- [[Rules/Kits/_Index|Kits]]
-- [[Rules/Movement/_Index|Movement]]
-- [[Rules/Perks/_Index|Perks]]
-- [[Rules/Skills/_Index|Skills]]
-- [[Rules/Titles/_Index|Titles]]
-- [[Rules/Treasures/_Index|Treasures]]
+### [[Rules/Ancestries/_Index|Ancestries]]
+                                        
+|                                                   |                                         |                                               |
+|---------------------------------------------------|-----------------------------------------|-----------------------------------------------|
+| [[Rules/Ancestries/Devil\|Devil]]                 | [[Rules/Ancestries/High Elf\|High Elf]] | [[Rules/Ancestries/Polder\|Polder]]           | 
+| [[Rules/Ancestries/Dragon Knight\|Dragon Knight]] | [[Rules/Ancestries/Human\|Human]]       | [[Rules/Ancestries/Revenant\|Revenant]]       | 
+| [[Rules/Ancestries/Dwarf\|Dwarf]]                 | [[Rules/Ancestries/Memonek\|Memonek]]   | [[Rules/Ancestries/Time Raider\|Time Raider]] | 
+| [[Rules/Ancestries/Hakaan\|Hakaan]]               | [[Rules/Ancestries/Orc\|Orc]]           | [[Rules/Ancestries/Wode Elf\|Wode Elf]]       | 
+
+### [[Rules/Careers/_Index|Careers]]
+### [[Rules/Chapters/_Index|Chapters]]
+### [[Rules/Classes/_Index|Classes]]
+### [[Rules/Complications/_Index|Complications]]
+### [[Rules/Kits/_Index|Kits]]
+### [[Rules/Movement/_Index|Movement]]
+### [[Rules/Perks/_Index|Perks]]
+### [[Rules/Skills/_Index|Skills]]
+### [[Rules/Titles/_Index|Titles]]
+### [[Rules/Treasures/_Index|Treasures]]
 
