@@ -8635,29 +8635,29 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 | **-**<br>Immunities | **Burrow**<br>Movement |                   | **-**<br>With Captain | **-**<br>Weaknesses  |
 |   **+3**<br>Might   |   **+1**<br>Agility    | **-5**<br>Reason  |  **-5**<br>Intuition  |  **-3**<br>Presence  |
 
-**Earthwalk**
+> **Earthwalk**
+>
+> Difficult terrain composed of earth and stone doesn’t cost the source extra movement.
 
-Difficult terrain composed of earth and stone doesn’t cost the source extra movement.
+> **Tunneler**
+>
+> When the source burrows, they create a size 2 tunnel.
 
-**Tunneler**
+> **Earth Harness**
+>
+> A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.
 
-When the source burrows, they create a size 2 tunnel.
-
-**Earth Harness**
-
-A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.
-
-**Boulder Bash**
-
-| **Melee, Ranged, Strike, Weapon** |                 **Signature** |
-| --------------------------------- | ----------------------------: |
-| **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
-
-**2d10 + 3:**
-
-- **≤11:** 5 damage; push 3
-- **12-16:** 9 damage; push 4
-- **17+:** 12 damage; push 5
+> **Boulder Bash**
+>
+> | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
+> | --------------------------------- | ----------------------------: |
+> | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
+>
+> **2d10 + 3:**
+>
+> - **≤11:** 5 damage; push 3
+> - **12-16:** 9 damage; push 4
+> - **17+:** 12 damage; push 5
 
 #### 11-Essence Ability
 
@@ -17527,9 +17527,9 @@ If your familiar is destroyed, you can restore them as a respite activity, or by
 | **-**<br>Immunities | **-**<br>Movement |                              | **-**<br>With Captain | **-**<br>Weaknesses  |
 |   **-3**<br>Might   | **+2**<br>Agility |       **0**<br>Reason        |  **0**<br>Intuition   |  **+1**<br>Presence  |
 
-**Telepathic**
-
-While you and your familiar are within 10 squares of each other, you can communicate telepathically and share each other’s senses. While sharing senses, each of you also benefits from your own senses at the same time.
+> **Telepathic**
+>
+> While you and your familiar are within 10 squares of each other, you can communicate telepathically and share each other’s senses. While sharing senses, each of you also benefits from your own senses at the same time.
 
 #### Invisible Force
 

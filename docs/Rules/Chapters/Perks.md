@@ -330,9 +330,9 @@ Presence</td>
 </tbody>
 </table>
 
-**Telepathic**
-
-While you and your familiar are within 10 squares of each other, you can communicate telepathically and share each other's senses. While sharing senses, each of you also benefits from your own senses at the same time.
+> **Telepathic**
+>
+> While you and your familiar are within 10 squares of each other, you can communicate telepathically and share each other's senses. While sharing senses, each of you also benefits from your own senses at the same time.
 
 #### Invisible Force
 
