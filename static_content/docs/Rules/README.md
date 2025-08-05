@@ -30,6 +30,15 @@ Sections have also been broken out for convenience (BETA, see nav):
 | [Warden](Careers/Warden)         | [Watch Officer](Careers/Watch%20Officer) |                                                |
 
 ### [[Rules/Chapters/_Index|Chapters]]
+
+|                                                    |                                                               |                                                                 |                                                               | 
+|----------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------|
+| [Chapter 0: Introduction](Chapters/Introduction)   | [Chapter 1: The Basics](Chapters/The%20Basics)                | [Chapter 2: Making a Hero](Chapters/Making%20a%20Hero)          | [Chapter 3: Ancestries](Chapters/Ancestries)                  | 
+ | [Chapter 4: Background](Chapters/Background)       | [Chapter 5: Classes](Chapters/Classes)                        | [Chapter 6: Kits](Chapters/Kits)                                | [Chapter 7: Perks](Chapters/Perks)                            | 
+ | [Chapter 8: Complications](Chapters/Complications) | [Chapter 9: Tests](Chapters/Tests)                            | [Chapter 10: Combat](Chapters/Combat)                           | [Chapter 11: Negotiation](Chapters/Negotiation)               | 
+ | [Chapter 12: Rewards](Chapters/Rewards)            | [Chapter 13: Downtime Projects](Chapters/Downtime%20Projects) | [Chapter 14: Gods and Religion](Chapters/Gods%20and%20Religion) | [Chapter 15: For the Director](Chapters/For%20the%20Director) |
+
+
 ### [[Rules/Classes/_Index|Classes]]
 ### [[Rules/Complications/_Index|Complications]]
 ### [[Rules/Kits/_Index|Kits]]
