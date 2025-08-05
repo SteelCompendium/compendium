@@ -10,7 +10,6 @@ Steel Compendium Rules is a structured collection of data from the Draw Steel He
 
 Sections have also been broken out for convenience (BETA, see nav):
 
-- [[Rules/Abilities/_Index|Abilities]]
 - [[Rules/Ancestries/_Index|Ancestries]]
 - [[Rules/Careers/_Index|Careers]]
 - [[Rules/Chapters/_Index|Chapters]]
