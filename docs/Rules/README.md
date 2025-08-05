@@ -12,12 +12,12 @@ Sections have also been broken out for convenience (BETA, see nav):
 
 ### [[Rules/Ancestries/_Index|Ancestries]]
                                         
-|                                                |                                      |                                            |
-|------------------------------------------------|--------------------------------------|--------------------------------------------|
-| [Devil](../Ancestries/Devil)                   | [High Elf](../Ancestries/High%20Elf) | [Polder](../Ancestries/Polder)             | 
-| [Dragon Knight](../Ancestries/Dragon%20Knight) | [Human](../Ancestries/Human)         | [Revenant](../Ancestries/Revenant)         | 
-| [Dwarf](../Ancestries/Dwarf)                   | [Memonek](../Ancestries/Memonek)     | [Time Raider](../Ancestries/Time%20Raider) | 
-| [Hakaan](../Ancestries/Hakaan)                 | [Orc](../Ancestries/Orc)             | [Wode Elf](../Ancestries/Wode%20Elf)       | 
+|                                             |                                   |                                         |
+|---------------------------------------------|-----------------------------------|-----------------------------------------|
+| [Devil](Ancestries/Devil)                   | [High Elf](Ancestries/High%20Elf) | [Polder](Ancestries/Polder)             | 
+| [Dragon Knight](Ancestries/Dragon%20Knight) | [Human](Ancestries/Human)         | [Revenant](Ancestries/Revenant)         | 
+| [Dwarf](Ancestries/Dwarf)                   | [Memonek](Ancestries/Memonek)     | [Time Raider](Ancestries/Time%20Raider) | 
+| [Hakaan](Ancestries/Hakaan)                 | [Orc](Ancestries/Orc)             | [Wode Elf](Ancestries/Wode%20Elf)       | 
 
 ### [[Rules/Careers/_Index|Careers]]
 ### [[Rules/Chapters/_Index|Chapters]]
