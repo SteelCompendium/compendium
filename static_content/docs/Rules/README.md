@@ -20,6 +20,15 @@ Sections have also been broken out for convenience (BETA, see nav):
 | [Hakaan](Ancestries/Hakaan)                 | [Orc](Ancestries/Orc)             | [Wode Elf](Ancestries/Wode%20Elf)       | 
 
 ### [[Rules/Careers/_Index|Careers]]
+
+|                                  |                                          |                                                |                                | 
+|----------------------------------|------------------------------------------|------------------------------------------------|--------------------------------|
+| [Agent](Careers/Agent)           | [Aristocrat](Careers/Aristocrat)         | [Artisan](Careers/Artisan)                     | [Beggar](Careers/Beggar)       |
+| [Criminal](Careers/Criminal)     | [Disciple](Careers/Disciple)             | [Explorer](Careers/Explorer)                   | [Farmer](Careers/Farmer)       |
+| [Gladiator](Careers/Gladiator)   | [Laborer](Careers/Laborer)               | [Mages Apprentice](Careers/Mages%20Apprentice) | [Performer](Careers/Performer) |
+| [Politician](Careers/Politician) | [Sage](Careers/Sage)                     | [Sailor](Careers/Sailor)                       | [Soldier](Careers/Soldier)     |
+| [Warden](Careers/Warden)         | [Watch Officer](Careers/Watch%20Officer) |                                                |
+
 ### [[Rules/Chapters/_Index|Chapters]]
 ### [[Rules/Classes/_Index|Classes]]
 ### [[Rules/Complications/_Index|Complications]]
