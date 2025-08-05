@@ -1,8 +1,8 @@
 # Xentis' Draw Steel Compendium
 
-> IMPORTANT!  This is the old backer-packet!
-> 
-> [The latest rules can be found here](https://steelcompendium.io/compendium/main/)
+## IMPORTANT!  This is the old backer-packet!
+
+[The latest rules can be found here](https://steelcompendium.io/compendium/main/)
 
 The Draw Steel Compendium is an independent product published under the DRAW STEEL Creator License and is not affiliated with MCDM Productions, LLC. DRAW STEEL © 2024 MCDM Productions, LLC.
 
