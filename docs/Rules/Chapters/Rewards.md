@@ -1884,7 +1884,7 @@ In addition to armor, shields, implements, and weapons, heroes can make use of a
 
 **9th Level:** The ring's bonus to Stamina increases to +21. Additionally, if a creature bonded with you dies, you can choose to die in their place. Your sacrifice twists fate to remove the creature from danger, and they regain Stamina equal to their winded value. Your ring then teleports into their possession and ceases to be magic.
 
-## Bloody Hand Wraps
+##### Bloody Hand Wraps
 
 *These rough hand wraps are stained with blood that never comes clean.*
 

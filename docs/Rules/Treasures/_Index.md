@@ -76,6 +76,10 @@ type: index
 | [Thunderhead Bident](../Leveled%20Treasures/Leveled%20Weapon%20Treasures/Thunderhead%20Bident)                                              | Leveled       |
 | [Wetwork](../Leveled%20Treasures/Leveled%20Weapon%20Treasures/Wetwork)                                                                      | Leveled       |
 | [Bloodbound Band](../Leveled%20Treasures/Other%20Leveled%20Treasures/Bloodbound%20Band)                                                     | Leveled       |
+| [Bloody Hand Wraps](../Leveled%20Treasures/Other%20Leveled%20Treasures/Bloody%20Hand%20Wraps)                                               | Leveled       |
+| [Lightning Treads](../Leveled%20Treasures/Other%20Leveled%20Treasures/Lightning%20Treads)                                                   | Leveled       |
+| [Revengers Wrap](../Leveled%20Treasures/Other%20Leveled%20Treasures/Revengers%20Wrap)                                                       | Leveled       |
+| [Thief of Joy](../Leveled%20Treasures/Other%20Leveled%20Treasures/Thief%20of%20Joy)                                                         | Leveled       |
 | [Color Cloak](../Trinkets/1st%20Echelon%20Trinkets/Color%20Cloak)                                                                           | Trinkets      |
 | [Deadweight](../Trinkets/1st%20Echelon%20Trinkets/Deadweight)                                                                               | Trinkets      |
 | [Displacing Replacement Bracer](../Trinkets/1st%20Echelon%20Trinkets/Displacing%20Replacement%20Bracer)                                     | Trinkets      |
