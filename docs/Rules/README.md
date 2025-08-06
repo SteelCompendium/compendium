@@ -10,6 +10,22 @@ Steel Compendium Rules is a structured collection of data from the Draw Steel He
 
 Sections have also been broken out for convenience (BETA, see nav):
 
+- [Abilities](Abilities)
+- [Ancestries](Ancestries/_Index)
+- [Careers](Careers/_Index)
+- [Chapters](Chapters/_Index)
+- [Classes](Classes/_Index)
+- [Complications](Complications/_Index)
+- [Conditions](Conditions/_Index)
+- [Cultures](Cultures/_Index)
+- [Kits](Kits/_Index)
+- [Movement](Movement/_Index)
+- [Negotiation](Negotiation/_Index)
+- [Perks](Perks/_Index)
+- [Skills](Skills/_Index)
+- [Titles](Titles/_Index)
+- [Treasures](Treasures/_Index)
+
 ### [[Rules/Ancestries/_Index|Ancestries]]
                                         
 |                                             |                                   |                                         |
@@ -90,26 +106,23 @@ Sections have also been broken out for convenience (BETA, see nav):
 
 ##### Environments
 
-- [Nomadic](Cultures/Environments/Nomadic)
-- [Rural](Cultures/Environments/Rural)
-- [Secluded](Cultures/Environments/Secluded)
-- [Urban](Cultures/Environments/Urban)
-- [Wilderness](Cultures/Environments/Wilderness)
+|                                                |                                      |                                            |                                      |
+|------------------------------------------------|--------------------------------------|--------------------------------------------|--------------------------------------|
+| [Nomadic](Cultures/Environments/Nomadic)       | [Rural](Cultures/Environments/Rural) | [Secluded](Cultures/Environments/Secluded) | [Urban](Cultures/Environments/Urban) |
+| [Wilderness](Cultures/Environments/Wilderness) |                                      |                                            |                                      |
 
 ##### Organization
 
-- [Bureaucratic](Cultures/Organization/Bureaucratic)
-- [Communal](Cultures/Organization/Communal)
+|                                                    |                                            |
+|----------------------------------------------------|--------------------------------------------|
+| [Bureaucratic](Cultures/Organization/Bureaucratic) | [Communal](Cultures/Organization/Communal) |
 
 ##### Upbringing
 
-- [Academic](Cultures/Upbringing/Academic)
-- [Creative](Cultures/Upbringing/Creative)
-- [Labor](Cultures/Upbringing/Labor)
-- [Lawless](Cultures/Upbringing/Lawless)
-- [Martial](Cultures/Upbringing/Martial)
-- [Noble](Cultures/Upbringing/Noble)
-
+|                                          |                                          |                                    |                                        |
+|------------------------------------------|------------------------------------------|------------------------------------|----------------------------------------|
+| [Academic](Cultures/Upbringing/Academic) | [Creative](Cultures/Upbringing/Creative) | [Labor](Cultures/Upbringing/Labor) | [Lawless](Cultures/Upbringing/Lawless) |
+| [Martial](Cultures/Upbringing/Martial)   | [Noble](Cultures/Upbringing/Noble)       |                                    |                                        |
 
 ### [[Rules/Kits/_Index|Kits]]
 
@@ -147,68 +160,48 @@ Sections have also been broken out for convenience (BETA, see nav):
 
 ##### Crafting Perks
 
-- [Area of Expertise](Perks/Crafting%20Perks/Area%20of%20Expertise)
-- [Expert Artisan](Perks/Crafting%20Perks/Expert%20Artisan)
-- [Handy](Perks/Crafting%20Perks/Handy)
-- [Improvisation Creation](Perks/Crafting%20Perks/Improvisation%20Creation)
-- [Inspired Artisan](Perks/Crafting%20Perks/Inspired%20Artisan)
-- [Traveling Artisan](Perks/Crafting%20Perks/Traveling%20Artisan)
+|                                                                   |                                                                 |                                       |                                                                           |
+|-------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------|---------------------------------------------------------------------------|
+| [Area of Expertise](Perks/Crafting%20Perks/Area%20of%20Expertise) | [Expert Artisan](Perks/Crafting%20Perks/Expert%20Artisan)       | [Handy](Perks/Crafting%20Perks/Handy) | [Improvisation Creation](Perks/Crafting%20Perks/Improvisation%20Creation) |
+| [Inspired Artisan](Perks/Crafting%20Perks/Inspired%20Artisan)     | [Traveling Artisan](Perks/Crafting%20Perks/Traveling%20Artisan) |                                       |                                                                           |
 
 ##### Exploration Perks
 
-- [Brawny](Perks/Exploration%20Perks/Brawny)
-- [Camouflage Hunter](Perks/Exploration%20Perks/Camouflage%20Hunter)
-- [Danger Sense](Perks/Exploration%20Perks/Danger%20Sense)
-- [Friend Catapult](Perks/Exploration%20Perks/Friend%20Catapult)
-- [Ive Got You](Perks/Exploration%20Perks/Ive%20Got%20You)
-- [Monster Whisperer](Perks/Exploration%20Perks/Monster%20Whisperer)
-- [Put Your Back Into It](Perks/Exploration%20Perks/Put%20Your%20Back%20Into%20It)
-- [Team Leader](Perks/Exploration%20Perks/Team%20Leader)
-- [Teamwork](Perks/Exploration%20Perks/Teamwork)
-- [Wood Wise](Perks/Exploration%20Perks/Wood%20Wise)
+|                                                          |                                                                    |                                                                                  |                                                                |
+|----------------------------------------------------------|--------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------|
+| [Brawny](Perks/Exploration%20Perks/Brawny)               | [Camouflage Hunter](Perks/Exploration%20Perks/Camouflage%20Hunter) | [Danger Sense](Perks/Exploration%20Perks/Danger%20Sense)                         | [Friend Catapult](Perks/Exploration%20Perks/Friend%20Catapult) |
+| [Ive Got You](Perks/Exploration%20Perks/Ive%20Got%20You) | [Monster Whisperer](Perks/Exploration%20Perks/Monster%20Whisperer) | [Put Your Back Into It](Perks/Exploration%20Perks/Put%20Your%20Back%20Into%20It) | [Team Leader](Perks/Exploration%20Perks/Team%20Leader)         |
+| [Teamwork](Perks/Exploration%20Perks/Teamwork)           | [Wood Wise](Perks/Exploration%20Perks/Wood%20Wise)                 |                                                                                  |                                                                |
 
 ##### Interpersonal Perks
 
-- [Charming Liar](Perks/Interpersonal%20Perks/Charming%20Liar)
-- [Dazzler](Perks/Interpersonal%20Perks/Dazzler)
-- [Engrossing Monologue](Perks/Interpersonal%20Perks/Engrossing%20Monologue)
-- [Harmonizer](Perks/Interpersonal%20Perks/Harmonizer)
-- [Lie Detector](Perks/Interpersonal%20Perks/Lie%20Detector)
-- [Open Book](Perks/Interpersonal%20Perks/Open%20Book)
-- [Pardon My Friend](Perks/Interpersonal%20Perks/Pardon%20My%20Friend)
-- [Power Player](Perks/Interpersonal%20Perks/Power%20Player)
-- [So Tell Me](Perks/Interpersonal%20Perks/So%20Tell%20Me)
-- [Spot the Tell](Perks/Interpersonal%20Perks/Spot%20the%20Tell)
+|                                                              |                                                                |                                                                            |                                                            |
+|--------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------|
+| [Charming Liar](Perks/Interpersonal%20Perks/Charming%20Liar) | [Dazzler](Perks/Interpersonal%20Perks/Dazzler)                 | [Engrossing Monologue](Perks/Interpersonal%20Perks/Engrossing%20Monologue) | [Harmonizer](Perks/Interpersonal%20Perks/Harmonizer)       |
+| [Lie Detector](Perks/Interpersonal%20Perks/Lie%20Detector)   | [Open Book](Perks/Interpersonal%20Perks/Open%20Book)           | [Pardon My Friend](Perks/Interpersonal%20Perks/Pardon%20My%20Friend)       | [Power Player](Perks/Interpersonal%20Perks/Power%20Player) |
+| [So Tell Me](Perks/Interpersonal%20Perks/So%20Tell%20Me)     | [Spot the Tell](Perks/Interpersonal%20Perks/Spot%20the%20Tell) |                                                                            |                                                            |
 
 ##### Intrigue Perks
 
-- [Criminal Contacts](Perks/Intrigue%20Perks/Criminal%20Contacts)
-- [Forgettable Face](Perks/Intrigue%20Perks/Forgettable%20Face)
-- [Gum Up the Works](Perks/Intrigue%20Perks/Gum%20Up%20the%20Works)
-- [Lucky Dog](Perks/Intrigue%20Perks/Lucky%20Dog)
-- [Master of Disguise](Perks/Intrigue%20Perks/Master%20of%20Disguise)
-- [Slipped Lead](Perks/Intrigue%20Perks/Slipped%20Lead)
+|                                                                     |                                                               |                                                                   |                                                 |
+|---------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------|
+| [Criminal Contacts](Perks/Intrigue%20Perks/Criminal%20Contacts)     | [Forgettable Face](Perks/Intrigue%20Perks/Forgettable%20Face) | [Gum Up the Works](Perks/Intrigue%20Perks/Gum%20Up%20the%20Works) | [Lucky Dog](Perks/Intrigue%20Perks/Lucky%20Dog) |
+| [Master of Disguise](Perks/Intrigue%20Perks/Master%20of%20Disguise) | [Slipped Lead](Perks/Intrigue%20Perks/Slipped%20Lead)         |                                                                   |                                                 |
 
 ##### Lore Perks
 
-- [But I Know Who Does](Perks/Lore%20Perks/But%20I%20Know%20Who%20Does)
-- [Eidetic Memory](Perks/Lore%20Perks/Eidetic%20Memory)
-- [Expert Sage](Perks/Lore%20Perks/Expert%20Sage)
-- [Ive Read About This Place](Perks/Lore%20Perks/Ive%20Read%20About%20This%20Place)
-- [Linguist](Perks/Lore%20Perks/Linguist)
-- [Polymath](Perks/Lore%20Perks/Polymath)
-- [Specialist](Perks/Lore%20Perks/Specialist)
-- [Traveling Sage](Perks/Lore%20Perks/Traveling%20Sage)
+|                                                                       |                                                       |                                                 |                                                                                   |
+|-----------------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------|-----------------------------------------------------------------------------------|
+| [But I Know Who Does](Perks/Lore%20Perks/But%20I%20Know%20Who%20Does) | [Eidetic Memory](Perks/Lore%20Perks/Eidetic%20Memory) | [Expert Sage](Perks/Lore%20Perks/Expert%20Sage) | [Ive Read About This Place](Perks/Lore%20Perks/Ive%20Read%20About%20This%20Place) |
+| [Linguist](Perks/Lore%20Perks/Linguist)                               | [Polymath](Perks/Lore%20Perks/Polymath)               | [Specialist](Perks/Lore%20Perks/Specialist)     | [Traveling Sage](Perks/Lore%20Perks/Traveling%20Sage)                             |
 
 ##### Supernatural Perks
 
-- [Arcane Trick](Perks/Supernatural%20Perks/Arcane%20Trick)
-- [Creature Sense](Perks/Supernatural%20Perks/Creature%20Sense)
-- [Familiar](Perks/Supernatural%20Perks/Familiar)
-- [Invisible Force](Perks/Supernatural%20Perks/Invisible%20Force)
-- [Psychic Whisper](Perks/Supernatural%20Perks/Psychic%20Whisper)
-- [Ritualist](Perks/Supernatural%20Perks/Ritualist)
-- [Thingspeaker](Perks/Supernatural%20Perks/Thingspeaker)
+|                                                                 |                                                               |                                                         |                                                                 |
+|-----------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------------|
+| [Arcane Trick](Perks/Supernatural%20Perks/Arcane%20Trick)       | [Creature Sense](Perks/Supernatural%20Perks/Creature%20Sense) | [Familiar](Perks/Supernatural%20Perks/Familiar)         | [Invisible Force](Perks/Supernatural%20Perks/Invisible%20Force) |
+| [Psychic Whisper](Perks/Supernatural%20Perks/Psychic%20Whisper) | [Ritualist](Perks/Supernatural%20Perks/Ritualist)             | [Thingspeaker](Perks/Supernatural%20Perks/Thingspeaker) |                                                                 |
+
 
 ### [[Rules/Skills/_Index|Skills]]
 
@@ -263,136 +256,110 @@ Sections have also been broken out for convenience (BETA, see nav):
 
 ##### Artifacts
 
-- [Blade of a Thousand Years](Treasures/Artifacts/Blade%20of%20a%20Thousand%20Years)
-- [Encepter](Treasures/Artifacts/Encepter)
-- [Mortal Coil](Treasures/Artifacts/Mortal%20Coil)
+|                                                                                    |                                          |                                                  |  |
+|------------------------------------------------------------------------------------|------------------------------------------|--------------------------------------------------|--|
+| [Blade of a Thousand Years](Treasures/Artifacts/Blade%20of%20a%20Thousand%20Years) | [Encepter](Treasures/Artifacts/Encepter) | [Mortal Coil](Treasures/Artifacts/Mortal%20Coil) |  |
+
 
 ##### Consumables
 
 ###### 1st Echelon Consumables
 
-- [Black Ash Dart](Treasures/Consumables/1st%20Echelon%20Consumables/Black%20Ash%20Dart)
-- [Blood Essence Vial](Treasures/Consumables/1st%20Echelon%20Consumables/Blood%20Essence%20Vial)
-- [Buzz Balm](Treasures/Consumables/1st%20Echelon%20Consumables/Buzz%20Balm)
-- [Catapult Dust](Treasures/Consumables/1st%20Echelon%20Consumables/Catapult%20Dust)
-- [Giants Blood Flame](Treasures/Consumables/1st%20Echelon%20Consumables/Giants%20Blood%20Flame)
-- [Growth Potion](Treasures/Consumables/1st%20Echelon%20Consumables/Growth%20Potion)
-- [Healing Potion](Treasures/Consumables/1st%20Echelon%20Consumables/Healing%20Potion)
-- [Imps Tongue](Treasures/Consumables/1st%20Echelon%20Consumables/Imps%20Tongue)
-- [Lachomp Tooth](Treasures/Consumables/1st%20Echelon%20Consumables/Lachomp%20Tooth)
-- [Mirror Token](Treasures/Consumables/1st%20Echelon%20Consumables/Mirror%20Token)
-- [Pocket Homunculus](Treasures/Consumables/1st%20Echelon%20Consumables/Pocket%20Homunculus)
-- [Portable Cloud](Treasures/Consumables/1st%20Echelon%20Consumables/Portable%20Cloud)
-- [Professor Veratismos Quaff n Huff Snuff](Treasures/Consumables/1st%20Echelon%20Consumables/Professor%20Veratismos%20Quaff%20n%20Huff%20Snuff)
-- [Snapdragon](Treasures/Consumables/1st%20Echelon%20Consumables/Snapdragon)
+|                                                                                                                                                |                                                                                                |                                                                                            |                                                                                      |
+|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| [Black Ash Dart](Treasures/Consumables/1st%20Echelon%20Consumables/Black%20Ash%20Dart)                                                         | [Blood Essence Vial](Treasures/Consumables/1st%20Echelon%20Consumables/Blood%20Essence%20Vial) | [Buzz Balm](Treasures/Consumables/1st%20Echelon%20Consumables/Buzz%20Balm)                 | [Catapult Dust](Treasures/Consumables/1st%20Echelon%20Consumables/Catapult%20Dust)   |
+| [Giants Blood Flame](Treasures/Consumables/1st%20Echelon%20Consumables/Giants%20Blood%20Flame)                                                 | [Growth Potion](Treasures/Consumables/1st%20Echelon%20Consumables/Growth%20Potion)             | [Healing Potion](Treasures/Consumables/1st%20Echelon%20Consumables/Healing%20Potion)       | [Imps Tongue](Treasures/Consumables/1st%20Echelon%20Consumables/Imps%20Tongue)       |
+| [Lachomp Tooth](Treasures/Consumables/1st%20Echelon%20Consumables/Lachomp%20Tooth)                                                             | [Mirror Token](Treasures/Consumables/1st%20Echelon%20Consumables/Mirror%20Token)               | [Pocket Homunculus](Treasures/Consumables/1st%20Echelon%20Consumables/Pocket%20Homunculus) | [Portable Cloud](Treasures/Consumables/1st%20Echelon%20Consumables/Portable%20Cloud) |
+| [Professor Veratismos Quaff n Huff Snuff](Treasures/Consumables/1st%20Echelon%20Consumables/Professor%20Veratismos%20Quaff%20n%20Huff%20Snuff) | [Snapdragon](Treasures/Consumables/1st%20Echelon%20Consumables/Snapdragon)                     |                                                                                            |                                                                                      |
+
 
 ###### 2nd Echelon Consumables
 
-- [Breath of Dawn](Treasures/Consumables/2nd%20Echelon%20Consumables/Breath%20of%20Dawn)
-- [Bull Shot](Treasures/Consumables/2nd%20Echelon%20Consumables/Bull%20Shot)
-- [Chocolate of Immovability](Treasures/Consumables/2nd%20Echelon%20Consumables/Chocolate%20of%20Immovability)
-- [Concealment Potion](Treasures/Consumables/2nd%20Echelon%20Consumables/Concealment%20Potion)
-- [Float Powder](Treasures/Consumables/2nd%20Echelon%20Consumables/Float%20Powder)
-- [Purified Jelly](Treasures/Consumables/2nd%20Echelon%20Consumables/Purified%20Jelly)
-- [Scroll of Resurrection](Treasures/Consumables/2nd%20Echelon%20Consumables/Scroll%20of%20Resurrection)
-- [Telemagnet](Treasures/Consumables/2nd%20Echelon%20Consumables/Telemagnet)
-- [Vial of Ethereal Attack](Treasures/Consumables/2nd%20Echelon%20Consumables/Vial%20of%20Ethereal%20Attack)
+|                                                                                                            |                                                                                      |                                                                                                              |                                                                                              |
+|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| [Breath of Dawn](Treasures/Consumables/2nd%20Echelon%20Consumables/Breath%20of%20Dawn)                     | [Bull Shot](Treasures/Consumables/2nd%20Echelon%20Consumables/Bull%20Shot)           | [Chocolate of Immovability](Treasures/Consumables/2nd%20Echelon%20Consumables/Chocolate%20of%20Immovability) | [Concealment Potion](Treasures/Consumables/2nd%20Echelon%20Consumables/Concealment%20Potion) |
+| [Float Powder](Treasures/Consumables/2nd%20Echelon%20Consumables/Float%20Powder)                           | [Purified Jelly](Treasures/Consumables/2nd%20Echelon%20Consumables/Purified%20Jelly) | [Scroll of Resurrection](Treasures/Consumables/2nd%20Echelon%20Consumables/Scroll%20of%20Resurrection)       | [Telemagnet](Treasures/Consumables/2nd%20Echelon%20Consumables/Telemagnet)                   |
+| [Vial of Ethereal Attack](Treasures/Consumables/2nd%20Echelon%20Consumables/Vial%20of%20Ethereal%20Attack) |                                                                                      |                                                                                                              |                                                                                              |
+
 
 ###### 3rd Echelon Consumables
 
-- [Anamorphic Larva](Treasures/Consumables/3rd%20Echelon%20Consumables/Anamorphic%20Larva)
-- [Bottled Paradox](Treasures/Consumables/3rd%20Echelon%20Consumables/Bottled%20Paradox)
-- [G Allios Visiting Card](Treasures/Consumables/3rd%20Echelon%20Consumables/G%20Allios%20Visiting%20Card)
-- [Personal Effigy](Treasures/Consumables/3rd%20Echelon%20Consumables/Personal%20Effigy)
-- [Stygian Liquor](Treasures/Consumables/3rd%20Echelon%20Consumables/Stygian%20Liquor)
-- [Timesplitter](Treasures/Consumables/3rd%20Echelon%20Consumables/Timesplitter)
-- [Ward Token](Treasures/Consumables/3rd%20Echelon%20Consumables/Ward%20Token)
-- [Wellness Tonic](Treasures/Consumables/3rd%20Echelon%20Consumables/Wellness%20Tonic)
+|                                                                                          |                                                                                        |                                                                                                          |                                                                                        |
+|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| [Anamorphic Larva](Treasures/Consumables/3rd%20Echelon%20Consumables/Anamorphic%20Larva) | [Bottled Paradox](Treasures/Consumables/3rd%20Echelon%20Consumables/Bottled%20Paradox) | [G Allios Visiting Card](Treasures/Consumables/3rd%20Echelon%20Consumables/G%20Allios%20Visiting%20Card) | [Personal Effigy](Treasures/Consumables/3rd%20Echelon%20Consumables/Personal%20Effigy) |
+| [Stygian Liquor](Treasures/Consumables/3rd%20Echelon%20Consumables/Stygian%20Liquor)     | [Timesplitter](Treasures/Consumables/3rd%20Echelon%20Consumables/Timesplitter)         | [Ward Token](Treasures/Consumables/3rd%20Echelon%20Consumables/Ward%20Token)                             | [Wellness Tonic](Treasures/Consumables/3rd%20Echelon%20Consumables/Wellness%20Tonic)   |
+
 
 ###### 4th Echelon Consumables
 
-- [Breath of Creation](Treasures/Consumables/4th%20Echelon%20Consumables/Breath%20of%20Creation)
-- [Elixir of Saint Elspeth](Treasures/Consumables/4th%20Echelon%20Consumables/Elixir%20of%20Saint%20Elspeth)
-- [Page From the Infinite Library Solaris](Treasures/Consumables/4th%20Echelon%20Consumables/Page%20From%20the%20Infinite%20Library%20Solaris)
-- [Restorative of the Bright Court](Treasures/Consumables/4th%20Echelon%20Consumables/Restorative%20of%20the%20Bright%20Court)
+|                                                                                                |                                                                                                            |                                                                                                                                              |                                                                                                                              |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| [Breath of Creation](Treasures/Consumables/4th%20Echelon%20Consumables/Breath%20of%20Creation) | [Elixir of Saint Elspeth](Treasures/Consumables/4th%20Echelon%20Consumables/Elixir%20of%20Saint%20Elspeth) | [Page From the Infinite Library Solaris](Treasures/Consumables/4th%20Echelon%20Consumables/Page%20From%20the%20Infinite%20Library%20Solaris) | [Restorative of the Bright Court](Treasures/Consumables/4th%20Echelon%20Consumables/Restorative%20of%20the%20Bright%20Court) |
 
 ##### Leveled Treasures
 
 ###### Leveled Armor Treasures
 
-- [Adaptive Second Skin of Toxins](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Adaptive%20Second%20Skin%20of%20Toxins)
-- [Chain of the Sea and Sky](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Chain%20of%20the%20Sea%20and%20Sky)
-- [Grand Scarab](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Grand%20Scarab)
-- [Kings Roar](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Kings%20Roar)
-- [Kuranzoi Prismscale](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Kuranzoi%20Prismscale)
-- [Paper Trappings](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Paper%20Trappings)
-- [Shrouded Memory](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Shrouded%20Memory)
-- [Spiny Turtle](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Spiny%20Turtle)
-- [Star Hunter](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Star%20Hunter)
-- [Telekinetic Bulwark](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Telekinetic%20Bulwark)
+|                                                                                                                                    |                                                                                                                          |                                                                                                |                                                                                          |
+|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| [Adaptive Second Skin of Toxins](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Adaptive%20Second%20Skin%20of%20Toxins) | [Chain of the Sea and Sky](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Chain%20of%20the%20Sea%20and%20Sky) | [Grand Scarab](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Grand%20Scarab)       | [Kings Roar](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Kings%20Roar)     |
+| [Kuranzoi Prismscale](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Kuranzoi%20Prismscale)                             | [Paper Trappings](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Paper%20Trappings)                           | [Shrouded Memory](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Shrouded%20Memory) | [Spiny Turtle](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Spiny%20Turtle) |
+| [Star Hunter](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Star%20Hunter)                                             | [Telekinetic Bulwark](Treasures/Leveled%20Treasures/Leveled%20Armor%20Treasures/Telekinetic%20Bulwark)                   |                                                                                                |                                                                                          |
+
 
 ###### Leveled Implement Treasures
 
-- [Abjurers Bastion](Treasures/Leveled%20Treasures/Leveled%20Implement%20Treasures/Abjurers%20Bastion)
-- [Brittlebreaker](Treasures/Leveled%20Treasures/Leveled%20Implement%20Treasures/Brittlebreaker)
-- [Chaldorb](Treasures/Leveled%20Treasures/Leveled%20Implement%20Treasures/Chaldorb)
-- [Ether Fueled Vessel](Treasures/Leveled%20Treasures/Leveled%20Implement%20Treasures/Ether%20Fueled%20Vessel)
-- [Foesense Lenses](Treasures/Leveled%20Treasures/Leveled%20Implement%20Treasures/Foesense%20Lenses)
-- [Words Become Wonders at Next Breath](Treasures/Leveled%20Treasures/Leveled%20Implement%20Treasures/Words%20Become%20Wonders%20at%20Next%20Breath)
+|                                                                                                      |                                                                                                                                                    |                                                                                    |                                                                                                              |
+|------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
+| [Abjurers Bastion](Treasures/Leveled%20Treasures/Leveled%20Implement%20Treasures/Abjurers%20Bastion) | [Brittlebreaker](Treasures/Leveled%20Treasures/Leveled%20Implement%20Treasures/Brittlebreaker)                                                     | [Chaldorb](Treasures/Leveled%20Treasures/Leveled%20Implement%20Treasures/Chaldorb) | [Ether Fueled Vessel](Treasures/Leveled%20Treasures/Leveled%20Implement%20Treasures/Ether%20Fueled%20Vessel) |
+| [Foesense Lenses](Treasures/Leveled%20Treasures/Leveled%20Implement%20Treasures/Foesense%20Lenses)   | [Words Become Wonders at Next Breath](Treasures/Leveled%20Treasures/Leveled%20Implement%20Treasures/Words%20Become%20Wonders%20at%20Next%20Breath) |                                                                                    |                                                                                                              |
 
 ###### Leveled Weapon Treasures
 
-- [Authoritys End](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Authoritys%20End)
-- [Blade of Quintessence](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Blade%20of%20Quintessence)
-- [Blade of the Luxurious Fop](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Blade%20of%20the%20Luxurious%20Fop)
-- [Displacer](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Displacer)
-- [Executioners Blade](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Executioners%20Blade)
-- [Icemaker Maul](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Icemaker%20Maul)
-- [Knife of Nine](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Knife%20of%20Nine)
-- [Lance of the Sundered Star](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Lance%20of%20the%20Sundered%20Star)
-- [Molten Constrictor](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Molten%20Constrictor)
-- [Onerous Bow](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Onerous%20Bow)
-- [Steeltongue](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Steeltongue)
-- [Third Eye Seeker](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Third%20Eye%20Seeker)
-- [Thunderhead Bident](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Thunderhead%20Bident)
-- [Wetwork](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Wetwork)
+|                                                                                                       |                                                                                                               |                                                                                                                             |                                                                                                                             |
+|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| [Authoritys End](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Authoritys%20End)         | [Blade of Quintessence](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Blade%20of%20Quintessence) | [Blade of the Luxurious Fop](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Blade%20of%20the%20Luxurious%20Fop) | [Displacer](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Displacer)                                           |
+| [Executioners Blade](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Executioners%20Blade) | [Icemaker Maul](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Icemaker%20Maul)                   | [Knife of Nine](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Knife%20of%20Nine)                               | [Lance of the Sundered Star](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Lance%20of%20the%20Sundered%20Star) |
+| [Molten Constrictor](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Molten%20Constrictor) | [Onerous Bow](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Onerous%20Bow)                       | [Steeltongue](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Steeltongue)                                       | [Third Eye Seeker](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Third%20Eye%20Seeker)                         |
+| [Thunderhead Bident](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Thunderhead%20Bident) | [Wetwork](Treasures/Leveled%20Treasures/Leveled%20Weapon%20Treasures/Wetwork)                                 |                                                                                                                             |                                                                                                                             |
+
 
 ###### Other Leveled Treasures
 
-- [Bloodbound Band](Treasures/Leveled%20Treasures/Other%20Leveled%20Treasures/Bloodbound%20Band)
-- [Bloody Hand Wraps](Treasures/Leveled%20Treasures/Other%20Leveled%20Treasures/Bloody%20Hand%20Wraps)
-- [Lightning Treads](Treasures/Leveled%20Treasures/Other%20Leveled%20Treasures/Lightning%20Treads)
-- [Revengers Wrap](Treasures/Leveled%20Treasures/Other%20Leveled%20Treasures/Revengers%20Wrap)
-- [Thief of Joy](Treasures/Leveled%20Treasures/Other%20Leveled%20Treasures/Thief%20of%20Joy)
+|                                                                                                |                                                                                                      |                                                                                                  |                                                                                              |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| [Bloodbound Band](Treasures/Leveled%20Treasures/Other%20Leveled%20Treasures/Bloodbound%20Band) | [Bloody Hand Wraps](Treasures/Leveled%20Treasures/Other%20Leveled%20Treasures/Bloody%20Hand%20Wraps) | [Lightning Treads](Treasures/Leveled%20Treasures/Other%20Leveled%20Treasures/Lightning%20Treads) | [Revengers Wrap](Treasures/Leveled%20Treasures/Other%20Leveled%20Treasures/Revengers%20Wrap) |
+| [Thief of Joy](Treasures/Leveled%20Treasures/Other%20Leveled%20Treasures/Thief%20of%20Joy)     |                                                                                                      |                                                                                                  |                                                                                              |
+
 
 ##### Trinkets
 
-- [1st Echelon Trinkets](Treasures/Trinkets/1st%20Echelon%20Trinkets)
-- [Color Cloak](Treasures/Trinkets/1st%20Echelon%20Trinkets/Color%20Cloak)
-- [Deadweight](Treasures/Trinkets/1st%20Echelon%20Trinkets/Deadweight)
-- [Displacing Replacement Bracer](Treasures/Trinkets/1st%20Echelon%20Trinkets/Displacing%20Replacement%20Bracer)
-- [Divine Vine](Treasures/Trinkets/1st%20Echelon%20Trinkets/Divine%20Vine)
-- [Flameshade Gloves](Treasures/Trinkets/1st%20Echelon%20Trinkets/Flameshade%20Gloves)
-- [Gecko Gloves](Treasures/Trinkets/1st%20Echelon%20Trinkets/Gecko%20Gloves)
-- [Hellcharger Helm](Treasures/Trinkets/1st%20Echelon%20Trinkets/Hellcharger%20Helm)
-- [Mask of the Many](Treasures/Trinkets/1st%20Echelon%20Trinkets/Mask%20of%20the%20Many)
-- [Quantum Satchel](Treasures/Trinkets/1st%20Echelon%20Trinkets/Quantum%20Satchel)
-- [Unbinder Boots](Treasures/Trinkets/1st%20Echelon%20Trinkets/Unbinder%20Boots)
-- [2nd Echelon Trinkets](Treasures/Trinkets/2nd%20Echelon%20Trinkets)
-- [Bastion Belt](Treasures/Trinkets/2nd%20Echelon%20Trinkets/Bastion%20Belt)
-- [Evilest Eye](Treasures/Trinkets/2nd%20Echelon%20Trinkets/Evilest%20Eye)
-- [Insightful Crown](Treasures/Trinkets/2nd%20Echelon%20Trinkets/Insightful%20Crown)
-- [Key of Inquiry](Treasures/Trinkets/2nd%20Echelon%20Trinkets/Key%20of%20Inquiry)
-- [Mediators Charm](Treasures/Trinkets/2nd%20Echelon%20Trinkets/Mediators%20Charm)
-- [Necklace of the Bayou](Treasures/Trinkets/2nd%20Echelon%20Trinkets/Necklace%20of%20the%20Bayou)
-- [Scannerstone](Treasures/Trinkets/2nd%20Echelon%20Trinkets/Scannerstone)
-- [Stop n Go Coin](Treasures/Trinkets/2nd%20Echelon%20Trinkets/Stop%20n%20Go%20Coin)
-- [3rd Echelon Trinkets](Treasures/Trinkets/3rd%20Echelon%20Trinkets)
-- [Bracers of Strife](Treasures/Trinkets/3rd%20Echelon%20Trinkets/Bracers%20of%20Strife)
-- [Mask of Oversight](Treasures/Trinkets/3rd%20Echelon%20Trinkets/Mask%20of%20Oversight)
-- [Mirage Band](Treasures/Trinkets/3rd%20Echelon%20Trinkets/Mirage%20Band)
-- [Nullfield Resonator Ring](Treasures/Trinkets/3rd%20Echelon%20Trinkets/Nullfield%20Resonator%20Ring)
-- [Shifting Ring](Treasures/Trinkets/3rd%20Echelon%20Trinkets/Shifting%20Ring)
-- [4th Echelon Trinkets](Treasures/Trinkets/4th%20Echelon%20Trinkets)
-- [Gravekeepers Lantern](Treasures/Trinkets/4th%20Echelon%20Trinkets/Gravekeepers%20Lantern)
-- [Psi Blade](Treasures/Trinkets/4th%20Echelon%20Trinkets/Psi%20Blade)
+##### 1st Echelon Trinkets
+
+|                                                                                      |                                                                                |                                                                                                                |                                                                                        |
+|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| [Color Cloak](Treasures/Trinkets/1st%20Echelon%20Trinkets/Color%20Cloak)             | [Deadweight](Treasures/Trinkets/1st%20Echelon%20Trinkets/Deadweight)           | [Displacing Replacement Bracer](Treasures/Trinkets/1st%20Echelon%20Trinkets/Displacing%20Replacement%20Bracer) | [Divine Vine](Treasures/Trinkets/1st%20Echelon%20Trinkets/Divine%20Vine)               |
+| [Flameshade Gloves](Treasures/Trinkets/1st%20Echelon%20Trinkets/Flameshade%20Gloves) | [Gecko Gloves](Treasures/Trinkets/1st%20Echelon%20Trinkets/Gecko%20Gloves)     | [Hellcharger Helm](Treasures/Trinkets/1st%20Echelon%20Trinkets/Hellcharger%20Helm)                             | [Mask of the Many](Treasures/Trinkets/1st%20Echelon%20Trinkets/Mask%20of%20the%20Many) |
+| [Quantum Satchel](Treasures/Trinkets/1st%20Echelon%20Trinkets/Quantum%20Satchel)     | [Unbinder Boots](Treasures/Trinkets/1st%20Echelon%20Trinkets/Unbinder%20Boots) |                                                                                                                |                                                                                        |
+
+
+##### 2nd Echelon Trinkets
+
+|                                                                                  |                                                                                                  |                                                                                    |                                                                                    |
+|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| [Bastion Belt](Treasures/Trinkets/2nd%20Echelon%20Trinkets/Bastion%20Belt)       | [Evilest Eye](Treasures/Trinkets/2nd%20Echelon%20Trinkets/Evilest%20Eye)                         | [Insightful Crown](Treasures/Trinkets/2nd%20Echelon%20Trinkets/Insightful%20Crown) | [Key of Inquiry](Treasures/Trinkets/2nd%20Echelon%20Trinkets/Key%20of%20Inquiry)   |
+| [Mediators Charm](Treasures/Trinkets/2nd%20Echelon%20Trinkets/Mediators%20Charm) | [Necklace of the Bayou](Treasures/Trinkets/2nd%20Echelon%20Trinkets/Necklace%20of%20the%20Bayou) | [Scannerstone](Treasures/Trinkets/2nd%20Echelon%20Trinkets/Scannerstone)           | [Stop n Go Coin](Treasures/Trinkets/2nd%20Echelon%20Trinkets/Stop%20n%20Go%20Coin) |
+
+
+##### 3rd Echelon Trinkets
+|                                                                                        |                                                                                        |                                                                          |                                                                                                      |
+|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| [Bracers of Strife](Treasures/Trinkets/3rd%20Echelon%20Trinkets/Bracers%20of%20Strife) | [Mask of Oversight](Treasures/Trinkets/3rd%20Echelon%20Trinkets/Mask%20of%20Oversight) | [Mirage Band](Treasures/Trinkets/3rd%20Echelon%20Trinkets/Mirage%20Band) | [Nullfield Resonator Ring](Treasures/Trinkets/3rd%20Echelon%20Trinkets/Nullfield%20Resonator%20Ring) |
+| [Shifting Ring](Treasures/Trinkets/3rd%20Echelon%20Trinkets/Shifting%20Ring)           |                                                                                        |                                                                          |                                                                                                      |
+
+
+##### 4th Echelon Trinkets
+
+|                                                                                            |                                                                      |  |  |
+|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------|--|--|
+| [Gravekeepers Lantern](Treasures/Trinkets/4th%20Echelon%20Trinkets/Gravekeepers%20Lantern) | [Psi Blade](Treasures/Trinkets/4th%20Echelon%20Trinkets/Psi%20Blade) |  |  |
