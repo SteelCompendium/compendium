@@ -20,7 +20,6 @@ Sections have also been broken out for convenience (BETA, see nav):
 - [Cultures](Cultures/_Index)
 - [Kits](Kits/_Index)
 - [Movement](Movement/_Index)
-- [Negotiation](Negotiation/_Index)
 - [Perks](Perks/_Index)
 - [Skills](Skills/_Index)
 - [Titles](Titles/_Index)
@@ -148,7 +147,7 @@ Sections have also been broken out for convenience (BETA, see nav):
 | [Forced Into a Fall](Movement/Forced%20Into%20a%20Fall) | [Vertical](Movement/Vertical)                                                           | [When a Creature Moves](Movement/When%20a%20Creature%20Moves)               | [Big Versus Little](Movement/Big%20Versus%20Little)             |
 
 
-### [[Rules/Negotiation/Motivations and Pitfalls/_Index|Negotiation: Motivations and Pitfalls]]
+### Negotiation: Motivations and Pitfalls
 
 |                                                                                 |                                                                   |                                                             |                                                                 |
 |---------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------|
