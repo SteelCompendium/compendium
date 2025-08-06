@@ -8,7 +8,7 @@ Steel Compendium Rules is a structured collection of data from the Draw Steel He
 
 - [[Draw Steel Heroes - Unlinked|Draw Steel Heroes]] - Full Heroes book without injected links.
 
-Sections have also been broken out for convenience (BETA, see nav):
+Sections have also been broken out for convenience:
 
 - Abilities
     - [Censor Abilities](Abilities/Censor/Index)
