@@ -10,7 +10,17 @@ Steel Compendium Rules is a structured collection of data from the Draw Steel He
 
 Sections have also been broken out for convenience (BETA, see nav):
 
-- [Abilities](Abilities)
+- Abilities
+  - [Censor Abilities](Abilities/Censor/Index)
+  - [Common Abilities](Abilities/Common/Index)
+  - [Conduit Abilities](Abilities/Conduit/Index)
+  - [Elementalist Abilities](Abilities/Elementalist/Index)
+  - [Fury Abilities](Abilities/Fury/Index)
+  - [Null Abilities](Abilities/Null/Index)
+  - [Shadow Abilities](Abilities/Shadow/Index)
+  - [Tactician Abilities](Abilities/Tactician/Index)
+  - [Talent Abilities](Abilities/Talent/Index)
+  - [Troubadour Abilities](Abilities/Troubadour/Index)
 - [Ancestries](Ancestries/_Index)
 - [Careers](Careers/_Index)
 - [Chapters](Chapters/_Index)
