@@ -1,0 +1,10 @@
+/* The tables used to display abilities should not have headers to avoid sorttable tables */
+th:empty {
+    display: none;
+    value: remove;
+}
+
+/* Maximum space for text block */
+.md-grid {
+    max-width: 100%;
+}

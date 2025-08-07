@@ -1,0 +1,114 @@
+@font-face {
+    font-family: "BerlingskeSlab-DBd";
+    src: url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.eot");
+    src: url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/8cd8b6c5a3db3b61777d58cb5860fb17.svg#BerlingskeSlab-DBd")format("svg");
+}
+
+body {
+    font-family: "BerlingskeSlab-DBd";
+}
+
+@font-face {
+    font-family: "Test Newzald";
+    src: url("https://db.onlinewebfonts.com/t/776429d73240ce386ead55e740ef2ece.eot");
+    src: url("https://db.onlinewebfonts.com/t/776429d73240ce386ead55e740ef2ece.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/776429d73240ce386ead55e740ef2ece.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/776429d73240ce386ead55e740ef2ece.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/776429d73240ce386ead55e740ef2ece.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/776429d73240ce386ead55e740ef2ece.svg#Test Newzald")format("svg");
+}
+
+@font-face {
+    font-family: "Beaufort W01 Heavy";
+    src: url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.eot");
+    src: url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/5a8d949826c5f2d8733fa324b51a507d.svg#Beaufort W01 Heavy")format("svg");
+}
+
+/* Headers */
+.md-typeset h1 {
+    font-family: "Beaufort W01 Heavy";
+    font-size: 5em;
+    text-transform: uppercase;
+    margin: 0 0 .25em;
+}
+.md-typeset h2 {
+    font-family: "Beaufort W01 Heavy";
+    font-size: 3em;
+    text-transform: uppercase;
+}
+.md-typeset h3, .md-typeset h4, .md-typeset h5, .md-typeset h6 {
+    font-family: "Test Newzald";
+}
+.md-typeset h3 {
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
+    font-size: 3em;
+}
+.md-typeset h4 {
+    font-size: 2.5em;
+    font-weight: bold;
+}
+.md-typeset h5 {
+    font-size: 2.25em;
+    text-transform: none;
+    color: inherit;
+    font-weight: normal;
+}
+.md-typeset h6 {
+    font-size: 1.75em;
+    color: inherit;
+    font-weight: bold;
+}
+
+/* Callouts */
+.md-typeset blockquote {
+    border: 1px solid var(--md-default-fg-color--lighter);
+    border-left: 1px solid var(--md-default-fg-color--lighter) !important;
+    border-radius: 0.5em;
+}
+.md-typeset blockquote:first-of-type {
+    font-weight: bold;
+    text-align: center;
+}
+
+/* ==================== */
+/*    Horizontal Rule   */
+/* ==================== */
+
+.md-typeset hr {
+    /* reset */
+    border: none;
+    margin: 6px 0;
+    padding: 0;
+    height: 2px;
+    position: relative;
+
+    /* draw the two faded‐out lines */
+    background:
+        /* left half */  linear-gradient(to left,  var(--md-default-fg-color--lighter) 50%, transparent 100%) no-repeat left center,
+        /* right half */ linear-gradient(to right, var(--md-default-fg-color--lighter) 50%, transparent 100%) no-repeat right center;
+    background-size: calc(50% - 7px) 2px, calc(50% - 7px) 2px;
+}
+
+.md-typeset hr::after {
+    content: "";
+    position: absolute;
+    /* center the 14×14 diamond */
+    top: 50%; left: 50%;
+    width: 14px; height: 14px;
+    margin: -7px 0 0 -7px;
+
+    /* diamond shape */
+    background-color: var(--md-default-fg-color--lighter);
+    transform: rotate(45deg);
+    box-shadow: inset 0 0 0 3px var(--md-default-bg-color);
+    border-bottom: 2px solid var(--md-default-fg-color--lighter);
+    border-right: 2px solid var(--md-default-fg-color--lighter);
+}
