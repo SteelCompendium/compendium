@@ -241,7 +241,7 @@ If an ability requires a power roll, it has a "Power Roll" entry that tells you 
 Unlike power rolls made as tests (see Chapter 9), ability rolls always do something useful. You're rolling to determine the impact of the ability, including how much damage it deals and any other effects it imposes based on the tier outcome of the power roll. For instance, the fury's Brutal Slam ability is a melee strike that targets one adjacent creature (within 1 square), and which has the following effects:
 
 - **Tier 1 (11 or lower):** The ability deals damage equal to 3 + your Might score, then pushes the target back 1 square.
-- **Tier 2 (12**\*-\***16):** The ability deals damage equal to 6 + your Might score, then pushes the target back 2 squares.
+- **Tier 2 (12-16):** The ability deals damage equal to 6 + your Might score, then pushes the target back 2 squares.
 - **Tier 3 (17 or higher):** The ability deals damage equal to 9 + your Might score, then pushes the target back 4 squares.
 
 ###### Characteristics and Damage
