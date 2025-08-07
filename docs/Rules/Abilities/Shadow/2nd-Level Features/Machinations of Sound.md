@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Machinations of Sound
 file_dpath: Shadow/2nd-Level Features
 item_id: machinations-of-sound-5-insight
-item_index: '04'
+item_index: '05'
 item_name: Machinations of Sound (5 Insight)
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:machinations-of-sound-5-insight
 scdc:
-  - 1.1.1:13.2.2.5:04
+  - 1.1.1:13.2.2.5:05
 source: mcdm.heroes.v1
 type: feature/ability/shadow/2nd-level-feature
 ---

@@ -21,6 +21,7 @@ type: index
 | [Behold the Mystery](../1st-Level%20Features/Behold%20the%20Mystery)                                       | 3 Essence  | 1     | ability      |
 | [Bifurcated Incineration](../1st-Level%20Features/Bifurcated%20Incineration)                               |            | 1     | trait        |
 | [Breath of Dawn Remembered](../1st-Level%20Features/Breath%20of%20Dawn%20Remembered)                       |            | 1     | trait        |
+| [Conflagration](../1st-Level%20Features/Conflagration)                                                     | 5 Essence  | 1     | ability      |
 | [Earth Acolyte of Earth](../1st-Level%20Features/Earth%20Acolyte%20of%20Earth)                             |            | 1     | trait        |
 | [Enchantment of Battle](../1st-Level%20Features/Enchantment%20of%20Battle)                                 |            | 1     | trait        |
 | [Enchantment of Celerity](../1st-Level%20Features/Enchantment%20of%20Celerity)                             |            | 1     | trait        |
@@ -34,10 +35,12 @@ type: index
 | [Grasp of Beyond](../1st-Level%20Features/Grasp%20of%20Beyond)                                             |            | 1     | trait        |
 | [Green Acolyte of the Green](../1st-Level%20Features/Green%20Acolyte%20of%20the%20Green)                   |            | 1     | trait        |
 | [Hurl Element](../1st-Level%20Features/Hurl%20Element)                                                     |            | 1     | trait        |
+| [Instantaneous Excavation](../1st-Level%20Features/Instantaneous%20Excavation)                             | 5 Essence  | 1     | ability      |
 | [Invigorating Growth](../1st-Level%20Features/Invigorating%20Growth)                                       | 3 Essence  | 1     | ability      |
 | [It Is the Soul Which Hears](../1st-Level%20Features/It%20Is%20the%20Soul%20Which%20Hears)                 |            | 1     | trait        |
 | [Meteoric Introduction](../1st-Level%20Features/Meteoric%20Introduction)                                   |            | 1     | trait        |
 | [Motivate Earth](../1st-Level%20Features/Motivate%20Earth)                                                 |            | 1     | trait        |
+| [No More Than a Breeze](../1st-Level%20Features/No%20More%20Than%20a%20Breeze)                             | 5 Essence  | 1     | ability      |
 | [Persistent Magic](../1st-Level%20Features/Persistent%20Magic)                                             |            | 1     | trait        |
 | [Practical Magic](../1st-Level%20Features/Practical%20Magic)                                               |            | 1     | trait        |
 | [Return to Formlessness](../1st-Level%20Features/Return%20to%20Formlessness)                               |            | 1     | trait        |
@@ -46,6 +49,7 @@ type: index
 | [Shared Void Sense](../1st-Level%20Features/Shared%20Void%20Sense)                                         |            | 1     | trait        |
 | [Skin Like Castle Walls](../1st-Level%20Features/Skin%20Like%20Castle%20Walls)                             |            | 1     | trait        |
 | [Subtle Relocation](../1st-Level%20Features/Subtle%20Relocation)                                           |            | 1     | trait        |
+| [Test of Rain](../1st-Level%20Features/Test%20of%20Rain)                                                   | 5 Essence  | 1     | ability      |
 | [The Flesh a Crucible](../1st-Level%20Features/The%20Flesh%20a%20Crucible)                                 | 3 Essence  | 1     | ability      |
 | [The Green Within the Green Without](../1st-Level%20Features/The%20Green%20Within%20the%20Green%20Without) |            | 1     | trait        |
 | [Unquiet Ground](../1st-Level%20Features/Unquiet%20Ground)                                                 |            | 1     | trait        |
@@ -57,7 +61,9 @@ type: index
 | [Ward of Surprising Reactivity](../1st-Level%20Features/Ward%20of%20Surprising%20Reactivity)               |            | 1     | trait        |
 | [Disciple of Earth](../2nd-Level%20Features/Disciple%20of%20Earth)                                         |            | 2     | trait        |
 | [Disciple of Fire](../2nd-Level%20Features/Disciple%20of%20Fire)                                           |            | 2     | trait        |
+| [O Flower Aid O Earth Defend](../2nd-Level%20Features/O%20Flower%20Aid%20O%20Earth%20Defend)               | 5 Essence  | 2     | ability      |
 | [Perk](../2nd-Level%20Features/Perk)                                                                       |            | 2     | trait        |
+| [Subvert the Green Within](../2nd-Level%20Features/Subvert%20the%20Green%20Within)                         | 5 Essence  | 2     | ability      |
 | [There Is No Space Between](../2nd-Level%20Features/There%20Is%20No%20Space%20Between)                     |            | 2     | trait        |
 | [Translated Through Flame](../2nd-Level%20Features/Translated%20Through%20Flame)                           | 5 Essence  | 2     | ability      |
 | [Volcanos Embrace](../2nd-Level%20Features/Volcanos%20Embrace)                                             | 5 Essence  | 2     | ability      |

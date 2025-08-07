@@ -39,12 +39,13 @@ type: index
 | [You Were Watching the Wrong One](../1st-Level%20Features/You%20Were%20Watching%20the%20Wrong%20One) |            | 1     | trait        |
 | [Burning Ash](../2nd-Level%20Features/Burning%20Ash)                                                 |            | 2     | trait        |
 | [Friend](../2nd-Level%20Features/Friend)                                                             |            | 2     | trait        |
-| [In a Puff of Smoke](../2nd-Level%20Features/In%20a%20Puff%20of%20Smoke)                             | 5 Insight  | 2     | ability      |
+| [In a Puff of Ash](../2nd-Level%20Features/In%20a%20Puff%20of%20Ash)                                 | 5 Insight  | 2     | ability      |
 | [Machinations of Sound](../2nd-Level%20Features/Machinations%20of%20Sound)                           | 5 Insight  | 2     | ability      |
 | [Perk](../2nd-Level%20Features/Perk)                                                                 |            | 2     | trait        |
 | [So Gullible](../2nd-Level%20Features/So%20Gullible)                                                 | 5 Insight  | 2     | ability      |
 | [Sticky Bomb](../2nd-Level%20Features/Sticky%20Bomb)                                                 | 5 Insight  | 2     | ability      |
 | [Stink Bomb](../2nd-Level%20Features/Stink%20Bomb)                                                   | 5 Insight  | 2     | ability      |
+| [Too Slow](../2nd-Level%20Features/Too%20Slow)                                                       | 5 Insight  | 2     | ability      |
 | [Trained Assassin](../2nd-Level%20Features/Trained%20Assassin)                                       |            | 2     | trait        |
 | [Careful Observation](../3rd-Level%20Features/Careful%20Observation)                                 |            | 3     | trait        |
 | [Dancer](../3rd-Level%20Features/Dancer)                                                             | 7 Insight  | 3     | ability      |

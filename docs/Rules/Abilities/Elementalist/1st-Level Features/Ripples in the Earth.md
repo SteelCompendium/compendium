@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Ripples in the Earth
 file_dpath: Elementalist/1st-Level Features
 item_id: ripples-in-the-earth-3-essence
-item_index: '01'
+item_index: '02'
 item_name: Ripples in the Earth (3 Essence)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:ripples-in-the-earth-3-essence
 scdc:
-  - 1.1.1:13.2.9.1:01
+  - 1.1.1:13.2.9.1:02
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/1st-level-feature
 ---

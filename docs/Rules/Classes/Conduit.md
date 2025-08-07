@@ -805,8 +805,6 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 | ----------------- | -------------: |
 | **📏 Ranged 10**  | **🎯 Special** |
 
-![target icon](https://upload.wikimedia.org/wikipedia/commons/9/9a/Misc_Target_Icon.png) Special
-
 **Effect:** A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 surge at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
 
 ###### Wellspring of Grace (5 Piety)

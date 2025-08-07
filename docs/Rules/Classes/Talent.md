@@ -1206,7 +1206,7 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 | ------------------------------------- | ------------------: |
 | **📏 Melee 2**                        | **🎯 One creature** |
 
-**Power Roll + Reason**
+**Power Roll + Reason:**
 
 - **≤11:** 12 + R damage; R < WEAK, the target takes a bane on their next power roll
 - **12-16:** 17 + R damage; R < AVERAGE, the target takes a bane on power rolls (save ends)

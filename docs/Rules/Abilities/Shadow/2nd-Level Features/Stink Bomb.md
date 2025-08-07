@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Stink Bomb
 file_dpath: Shadow/2nd-Level Features
 item_id: stink-bomb-5-insight
-item_index: '05'
+item_index: '06'
 item_name: Stink Bomb (5 Insight)
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.2nd-level-feature:stink-bomb-5-insight
 scdc:
-  - 1.1.1:13.2.2.5:05
+  - 1.1.1:13.2.2.5:06
 source: mcdm.heroes.v1
 type: feature/ability/shadow/2nd-level-feature
 ---

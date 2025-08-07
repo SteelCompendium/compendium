@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Invigorating Growth
 file_dpath: Elementalist/1st-Level Features
 item_id: invigorating-growth-3-essence
-item_index: '04'
+item_index: '07'
 item_name: Invigorating Growth (3 Essence)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:invigorating-growth-3-essence
 scdc:
-  - 1.1.1:13.2.9.1:04
+  - 1.1.1:13.2.9.1:07
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/1st-level-feature
 ---

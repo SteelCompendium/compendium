@@ -4261,7 +4261,7 @@ Strikes and area abilities can deal damage and have an additional effect on a ta
 
 To keep things moving quickly and to make abilities easy to read during play, damage and effects are separated with a semicolon in a power roll tier entry, with effects abbreviated whenever possible. An effect determined by a power roll always applies to the target unless otherwise specified. For example, the Brutal Slam ability mentioned above has the following power roll setup in the ability format:
 
-**Power Roll +** Might\*\*:\*\*
+**Power Roll + Might:**
 
 - **≤11:** 3 + M damage; push 1
 - **12-16:** 6 + M damage; push 2
@@ -6596,8 +6596,6 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 | ----------------- | -------------: |
 | **📏 Ranged 10**  | **🎯 Special** |
 
-![target icon](https://upload.wikimedia.org/wikipedia/commons/9/9a/Misc_Target_Icon.png) Special
-
 **Effect:** A size 2 statue rises out of the ground in an unoccupied space within distance and lasts until the end of the encounter. While within 3 squares of the statue, you gain 1 surge at the start of each of your turns. Each ally within 3 squares of the statue gains this same benefit. The statue is destroyed if it takes 20 or more damage. It has immunity all to poison and psychic damage.
 
 **<span class="steel-compendium-ability">Wellspring of Grace (5 Piety)</span>**
@@ -7971,7 +7969,7 @@ Choose one heroic ability from the following options, each of which costs 3 esse
 
 Choose one heroic ability from the following options, each of which costs 5 essence to use. (*Quick Build:* Conflagration.)
 
-########## Conflagration (5 Essence)
+**<span class="steel-compendium-ability">Conflagration (5 Essence)</span>**
 
 *A storm of fire descends upon your enemies.*
 
@@ -7987,7 +7985,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 **Persistent 2:** At the start of your turn, you can use a maneuver to use this ability again without spending essence.
 
-########## Instantaneous Excavation (5 Essence)
+**<span class="steel-compendium-ability">Instantaneous Excavation (5 Essence)</span>**
 
 *The surface of the world around you opens up to swallow foes.*
 
@@ -8005,7 +8003,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 **Persistent 1:** At the start of your turn, you open another hole, making a power roll against each creature who could fall into the hole when it opens without spending essence.
 
-########## No More Than a Breeze (5 Essence)
+**<span class="steel-compendium-ability">No More Than a Breeze (5 Essence)</span>**
 
 *The material substance of a creature shreds away at your command.*
 
@@ -8017,7 +8015,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 **Persistent 1:** The effect lasts until the start of your next turn.
 
-########## Test of Rain (5 Essence)
+**<span class="steel-compendium-ability">Test of Rain (5 Essence)</span>**
 
 *You call down a rain that burns your enemies and restores your allies.*
 
@@ -8120,7 +8118,7 @@ At the start of each of your turns while the portals are active, you can open a 
 
 Choose one heroic ability from the following options, each of which costs 5 essence to use. Alternatively, you can choose one of the 5-essence abilities you didn't select at 1st level (see 1st-Level Features).
 
-########## O Flower Aid, O Earth Defend (5 Essence)
+**<span class="steel-compendium-ability">O Flower Aid, O Earth Defend (5 Essence)</span>**
 
 *Revitalizing plants and jagged stones grow, helping allies and hindering foes.*
 
@@ -8136,7 +8134,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 **Persistent 1:** The area remains until the start of your next turn. As a maneuver, you can move the area up to 5 squares. This ability ends if the area is ever not within your line of effect.
 
-########## Subvert the Green Within (5 Essence)
+**<span class="steel-compendium-ability">Subvert the Green Within (5 Essence)</span>**
 
 *Fungal spores sprout inside your enemy's brain, allowing you to control their actions.*
 
@@ -11891,7 +11889,7 @@ Your shadow college grants your choice of one of two heroic abilities.
 
 Choose one of the following abilities.
 
-**<span class="steel-compendium-ability">In a Puff of Smoke (5 Insight)</span>**
+**<span class="steel-compendium-ability">In a Puff of Ash (5 Insight)</span>**
 
 *You enchant a strike with your teleportation magic.*
 
@@ -11905,7 +11903,7 @@ Choose one of the following abilities.
 - **12-16:** 10 + A damage; you can teleport the target up to 3 squares
 - **17+:** 14 + A damage; you can teleport the target up to 5 squares
 
-######### Too Slow (5 Insight)
+**<span class="steel-compendium-ability">Too Slow (5 Insight)</span>**
 
 *Your foe made a big mistake.*
 
@@ -12383,7 +12381,7 @@ You have damage immunity against area abilities and effects equal to your Agilit
 
 For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 surge that must be used with this ability. After using the ability or at the end of the encounter, its area and surges are reset.
 
-**Spend 2+ Insight**: For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
+**Spend 2+ Insight:** For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
 
 #### 11-Insight Ability
 
@@ -14822,7 +14820,7 @@ Choose one heroic ability from the following options, each of which costs 11 cla
 | ------------------------------------- | ------------------: |
 | **📏 Melee 2**                        | **🎯 One creature** |
 
-**Power Roll + Reason**
+**Power Roll + Reason:**
 
 - **≤11:** 12 + R damage; R < WEAK, the target takes a bane on their next power roll
 - **12-16:** 17 + R damage; R < AVERAGE, the target takes a bane on power rolls (save ends)
@@ -16635,7 +16633,7 @@ You wear medium armor and wield a polearm.
 
 ##### Signature Ability
 
-######### Forward Thrust, Backward Smash
+**<span class="steel-compendium-ability">Forward Thrust, Backward Smash</span>**
 
 *In your hands, the haft is as good as the head.*
 
@@ -18273,7 +18271,7 @@ Your mother and father never saw eye to eye. You know this because your father i
 
 **Benefit:** You have the following ability.
 
-######### Stone Eyes
+**<span class="steel-compendium-ability">Stone Eyes</span>**
 
 *Your looks don't kill-they petrify.*
 

@@ -469,7 +469,7 @@ Your shadow college grants your choice of one of two heroic abilities.
 
 Choose one of the following abilities.
 
-###### In a Puff of Smoke (5 Insight)
+###### In a Puff of Ash (5 Insight)
 
 *You enchant a strike with your teleportation magic.*
 
@@ -961,7 +961,7 @@ You have damage immunity against area abilities and effects equal to your Agilit
 
 For each combat round that has passed since this ability was last used in the current encounter, the area increases by 1 and you gain 1 surge that must be used with this ability. After using the ability or at the end of the encounter, its area and surges are reset.
 
-**Spend 2+ Insight**: For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
+**Spend 2+ Insight:** For every 2 insight spent, you increase the cube's size by 1 and gain 1 surge that can be used only with this ability.
 
 #### 11-Insight Ability
 

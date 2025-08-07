@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Volcanos Embrace
 file_dpath: Elementalist/2nd-Level Features
 item_id: volcanos-embrace-5-essence
-item_index: '02'
+item_index: '04'
 item_name: Volcano's Embrace (5 Essence)
 level: 2
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.2nd-level-feature:volcanos-embrace-5-essence
 scdc:
-  - 1.1.1:13.2.9.5:02
+  - 1.1.1:13.2.9.5:04
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/2nd-level-feature
 ---
