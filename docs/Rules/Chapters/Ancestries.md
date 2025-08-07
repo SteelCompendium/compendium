@@ -246,93 +246,19 @@ Humans have the potential to live a little longer on Orden than they do in the r
 
 ###### Ancestry Measurements Table
 
-<table style="width:98%;">
-<colgroup>
-<col style="width: 16%" />
-<col style="width: 28%" />
-<col style="width: 22%" />
-<col style="width: 31%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Ancestry</th>
-<th>Height in Feet/<br />
-Inches</th>
-<th>Weight in<br />
-Pounds</th>
-<th>Life Expectancy in<br />
-Years</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Devil</td>
-<td>5'0''-6'0''</td>
-<td>120-250</td>
-<td>70-120</td>
-</tr>
-<tr class="even">
-<td>Dragon Knight</td>
-<td>6'0''-7'0''</td>
-<td>200-350</td>
-<td>50-90</td>
-</tr>
-<tr class="odd">
-<td>Dwarf</td>
-<td>4'0''-4'6''</td>
-<td>500-1,000</td>
-<td>700-1,500</td>
-</tr>
-<tr class="even">
-<td>Wode Elf</td>
-<td>5'6''-6'6''</td>
-<td>100-150</td>
-<td>1,200-3,000</td>
-</tr>
-<tr class="odd">
-<td>High Elf</td>
-<td>5'6''-6'6''</td>
-<td>100-150</td>
-<td>1,200-3,000</td>
-</tr>
-<tr class="even">
-<td>Hakaan</td>
-<td>9'0''-10'0''</td>
-<td>1,000-2,000</td>
-<td>300-500</td>
-</tr>
-<tr class="odd">
-<td>Human</td>
-<td>5'0''-6'0''</td>
-<td>100-300</td>
-<td>70-120</td>
-</tr>
-<tr class="even">
-<td>Memonek</td>
-<td>5'0''-6'0''</td>
-<td>50-100</td>
-<td>70-120</td>
-</tr>
-<tr class="odd">
-<td>Orc</td>
-<td>5'6''-6'6''</td>
-<td>150-300</td>
-<td>50-90</td>
-</tr>
-<tr class="even">
-<td>Polder</td>
-<td>3'3''-3'9''</td>
-<td>20-50</td>
-<td>50-90</td>
-</tr>
-<tr class="odd">
-<td>Time Raider</td>
-<td>5'0''-6'0''</td>
-<td>120-250</td>
-<td>50-90</td>
-</tr>
-</tbody>
-</table>
+| Ancestry      | Height in Feet/<br/> Inches | Weight in<br/> Pounds | Life Expectancy in<br/> Years |
+| ------------- | --------------------------- | --------------------- | ----------------------------- |
+| Devil         | 5'0''-6'0''                 | 120-250               | 70-120                        |
+| Dragon Knight | 6'0''-7'0''                 | 200-350               | 50-90                         |
+| Dwarf         | 4'0''-4'6''                 | 500-1,000             | 700-1,500                     |
+| Wode Elf      | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
+| High Elf      | 5'6''-6'6''                 | 100-150               | 1,200-3,000                   |
+| Hakaan        | 9'0''-10'0''                | 1,000-2,000           | 300-500                       |
+| Human         | 5'0''-6'0''                 | 100-300               | 70-120                        |
+| Memonek       | 5'0''-6'0''                 | 50-100                | 70-120                        |
+| Orc           | 5'6''-6'6''                 | 150-300               | 50-90                         |
+| Polder        | 3'3''-3'9''                 | 20-50                 | 50-90                         |
+| Time Raider   | 5'0''-6'0''                 | 120-250               | 50-90                         |
 
 ### Starting Size and Speed
 

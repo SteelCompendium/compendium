@@ -19,61 +19,11 @@ type: feature/trait/elementalist/8th-level-feature
 
 **Source of Earth**
 
-<table style="width:99%;">
-<colgroup>
-<col style="width: 19%" />
-<col style="width: 22%" />
-<col style="width: 17%" />
-<col style="width: 21%" />
-<col style="width: 20%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="text-align: center;">Elemental</th>
-<th style="text-align: center;">-</th>
-<th style="text-align: center;">Level 8</th>
-<th style="text-align: center;">BRUTE</th>
-<th style="text-align: center;">EV -</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"><strong>2</strong><br />
-Size</td>
-<td style="text-align: center;"><strong>6</strong><br />
-Speed</td>
-<td style="text-align: center;"><strong>45</strong><br />
-Stamina</td>
-<td style="text-align: center;"><strong>5</strong><br />
-Stability</td>
-<td style="text-align: center;"><strong>5</strong><br />
-Free Strike</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><strong>-</strong><br />
-Immunities</td>
-<td style="text-align: center;"><strong>Burrow</strong><br />
-Movement</td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><strong>-</strong><br />
-With Captain</td>
-<td style="text-align: center;"><strong>-</strong><br />
-Weaknesses</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><strong>+3</strong><br />
-Might</td>
-<td style="text-align: center;"><strong>+1</strong><br />
-Agility</td>
-<td style="text-align: center;"><strong>-5</strong><br />
-Reason</td>
-<td style="text-align: center;"><strong>-5</strong><br />
-Intuition</td>
-<td style="text-align: center;"><strong>-3</strong><br />
-Presence</td>
-</tr>
-</tbody>
-</table>
+|       Elemental       |            -             |       Level 8       |          BRUTE          |          EV -          |
+| :-------------------: | :----------------------: | :-----------------: | :---------------------: | :--------------------: |
+|    **2**<br/> Size    |     **6**<br/> Speed     | **45**<br/> Stamina |  **5**<br/> Stability   | **5**<br/> Free Strike |
+| **-**<br/> Immunities | **Burrow**<br/> Movement |                     | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|   **+3**<br/> Might   |   **+1**<br/> Agility    | **-5**<br/> Reason  |  **-5**<br/> Intuition  |  **-3**<br/> Presence  |
 
 > **Earthwalk**
 >

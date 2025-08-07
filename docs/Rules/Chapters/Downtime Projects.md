@@ -994,107 +994,28 @@ Whether for sustenance, relaxation, or bragging rights, you've gone fishing, pro
 
 ##### Tackle Table
 
-<table style="width:98%;">
-<colgroup>
-<col style="width: 5%" />
-<col style="width: 1%" />
-<col style="width: 92%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Reward</th>
-<th>Cost</th>
-<th>Effect</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Hearty meal (1 serving)</td>
-<td>50</td>
-<td>A creature who eats a serving of a meal prepared with the fish caught during the project increases their Recoveries by 1 until the end of their next respite. A creature can benefit from only one serving of this meal or another like it (such as from the Perfect New Recipe project) at a time.</td>
-</tr>
-<tr class="even">
-<td>Great meal (1 serving)</td>
-<td>100</td>
-<td>A creature who eats a serving of a meal prepared with the fish caught during the project increases their Recoveries by 1 until the end of their next respite, and gains 10 temporary Stamina that lasts until the end of their next respite if it isn't lost first. A creature can benefit only from one serving of this meal or another like it (such as from the Perfect New Recipe project) at a time.</td>
-</tr>
-<tr class="odd">
-<td>Better tackle</td>
-<td>120</td>
-<td>You gain the following title and benefit.<br />
-<strong>Angler:</strong> You gain an edge on Fishing project rolls.</td>
-</tr>
-<tr class="even">
-<td>Fishing event</td>
-<td>200</td>
-<td>You roll on the Fishing Events table.</td>
-</tr>
-<tr class="odd">
-<td>Legendary fisher</td>
-<td>300</td>
-<td>You gain the following title and benefit.<br />
-<strong>Goldenrod:</strong> Each time you undertake the Fishing project, you can reroll one project roll.</td>
-</tr>
-</tbody>
-</table>
+| Reward                  | Cost | Effect                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hearty meal (1 serving) | 50   | A creature who eats a serving of a meal prepared with the fish caught during the project increases their Recoveries by 1 until the end of their next respite. A creature can benefit from only one serving of this meal or another like it (such as from the Perfect New Recipe project) at a time.                                                                                                       |
+| Great meal (1 serving)  | 100  | A creature who eats a serving of a meal prepared with the fish caught during the project increases their Recoveries by 1 until the end of their next respite, and gains 10 temporary Stamina that lasts until the end of their next respite if it isn't lost first. A creature can benefit only from one serving of this meal or another like it (such as from the Perfect New Recipe project) at a time. |
+| Better tackle           | 120  | You gain the following title and benefit.<br/> **Angler:** You gain an edge on Fishing project rolls.                                                                                                                                                                                                                                                                                                     |
+| Fishing event           | 200  | You roll on the Fishing Events table.                                                                                                                                                                                                                                                                                                                                                                     |
+| Legendary fisher        | 300  | You gain the following title and benefit.<br/> **Goldenrod:** Each time you undertake the Fishing project, you can reroll one project roll.                                                                                                                                                                                                                                                               |
 
 ###### Fishing Events Table
 
-<table style="width:99%;">
-<colgroup>
-<col style="width: 0%" />
-<col style="width: 99%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>d10</th>
-<th>Event</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1</td>
-<td>While fishing, the hero reels in a talking fish. The fish informs the hero of any events that have occurred within 10 squares of the body of water where they were caught over the last week, or provides one piece of Forbidden Knowledge (see the Discover Lore project), as the Director determines.</td>
-</tr>
-<tr class="even">
-<td>2</td>
-<td>While fishing, the hero reels in a note in a bottle. The note is written in Anjali and binds the reader into a deal with a powerful devil if read out loud. This gives the devil ownership of the reader's soul in exchange for rolling an additional d10 on all future Fishing project rolls.</td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td>While the hero is fishing, passersby inform them of a rumor of a magic fishing rod that allows the fisher to double the size of the fish they reel in. The Director can decide whether the rumor is true, and if so, where the rod might be found.</td>
-</tr>
-<tr class="even">
-<td>4</td>
-<td>While fishing, the hero reels in an <strong>angulotl day bringer</strong> (see <em><a href="https://mcdm.gg/DS-Monsters">Draw Steel:</a> <a href="https://mcdm.gg/DS-Monsters">Monsters</a></em>). The angulotl is insulted by the hero catching them, and threatens to summon heavy thunderstorms and drown the region in a flood. However, they can be negotiated with, and might provide the hero with one serving of an amazing meal if they stay on good terms. A creature who eats a serving of this meal increases their Recoveries by 1 until the end of their next respite, and gains 25 temporary Stamina that lasts until the end of their next respite if it isn't lost first. A creature can benefit only from one serving of this meal or another like it (such as from the Perfect New Recipe project) at a time.</td>
-</tr>
-<tr class="odd">
-<td>5</td>
-<td>While fishing, the hero reels in half of a mysterious ancient treasure of the Director's choice. If the other half is found, both halves magically meld together to restore the treasure.</td>
-</tr>
-<tr class="even">
-<td>6</td>
-<td>While fishing, the hero is energized by fond memories of their life up to that point. They gain an edge on Presence tests until the end of their next respite.</td>
-</tr>
-<tr class="odd">
-<td>7</td>
-<td>The hero reaches a new fishing milestone, gaining the following title and benefit.<br />
-<strong>Master of Reels:</strong> Whenever you deal damage to a target who is 2 or more squares away from you and that target isn't also force moved, you can pull the target a number of squares equal to your Agility, Reason, or Intuition score (your choice).</td>
-</tr>
-<tr class="even">
-<td>8</td>
-<td>While fishing, the hero engages in relaxing meditation that grants an automatic breakthrough on another project they're working on. Alternatively, they gain insight that grants an automatic breakthrough on another hero's project of their choice.</td>
-</tr>
-<tr class="odd">
-<td>9</td>
-<td>While fishing, the hero is pulled into the water by an ancient fish and must make a hard Might test. On a success, the hero reels in a humongous fish worth 100 points. On a failure, they end the current respite with 1 fewer Recoveries than usual. On a success with a complication, the hero obtains both outcomes.</td>
-</tr>
-<tr class="even">
-<td>10</td>
-<td>While fishing, the hero notes what appears to be an underwater cavern. If the cavern is explored, it reveals a treasure of the Director's choice guarded by a revenant knight fulfilling their duty until their captain returns.</td>
-</tr>
-</tbody>
-</table>
+| d10 | Event                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | While fishing, the hero reels in a talking fish. The fish informs the hero of any events that have occurred within 10 squares of the body of water where they were caught over the last week, or provides one piece of Forbidden Knowledge (see the Discover Lore project), as the Director determines.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 2   | While fishing, the hero reels in a note in a bottle. The note is written in Anjali and binds the reader into a deal with a powerful devil if read out loud. This gives the devil ownership of the reader's soul in exchange for rolling an additional d10 on all future Fishing project rolls.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 3   | While the hero is fishing, passersby inform them of a rumor of a magic fishing rod that allows the fisher to double the size of the fish they reel in. The Director can decide whether the rumor is true, and if so, where the rod might be found.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 4   | While fishing, the hero reels in an **angulotl day bringer** (see *[Draw Steel:](https://mcdm.gg/DS-Monsters) [Monsters](https://mcdm.gg/DS-Monsters)*). The angulotl is insulted by the hero catching them, and threatens to summon heavy thunderstorms and drown the region in a flood. However, they can be negotiated with, and might provide the hero with one serving of an amazing meal if they stay on good terms. A creature who eats a serving of this meal increases their Recoveries by 1 until the end of their next respite, and gains 25 temporary Stamina that lasts until the end of their next respite if it isn't lost first. A creature can benefit only from one serving of this meal or another like it (such as from the Perfect New Recipe project) at a time. |
+| 5   | While fishing, the hero reels in half of a mysterious ancient treasure of the Director's choice. If the other half is found, both halves magically meld together to restore the treasure.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| 6   | While fishing, the hero is energized by fond memories of their life up to that point. They gain an edge on Presence tests until the end of their next respite.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 7   | The hero reaches a new fishing milestone, gaining the following title and benefit.<br/> **Master of Reels:** Whenever you deal damage to a target who is 2 or more squares away from you and that target isn't also force moved, you can pull the target a number of squares equal to your Agility, Reason, or Intuition score (your choice).                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 8   | While fishing, the hero engages in relaxing meditation that grants an automatic breakthrough on another project they're working on. Alternatively, they gain insight that grants an automatic breakthrough on another hero's project of their choice.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 9   | While fishing, the hero is pulled into the water by an ancient fish and must make a hard Might test. On a success, the hero reels in a humongous fish worth 100 points. On a failure, they end the current respite with 1 fewer Recoveries than usual. On a success with a complication, the hero obtains both outcomes.                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 10  | While fishing, the hero notes what appears to be an underwater cavern. If the cavern is explored, it reveals a treasure of the Director's choice guarded by a revenant knight fulfilling their duty until their captain returns.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 #### Spend Time With Loved Ones
 

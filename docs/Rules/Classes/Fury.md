@@ -127,7 +127,7 @@ Some Growing Ferocity benefits can be applied only if you are a specific level o
 
 Your primordial aspect grants you two features, as shown on the 1st-Level Aspect Features table.
 
-###### 1st-Level Aspect Features Tables
+###### 1st-Level Aspect Features Table
 
 | Aspect     | Feature                        |
 | ---------- | ------------------------------ |

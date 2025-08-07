@@ -14,7 +14,6 @@ type: index
 | [Primordial Ferocity](../10th-Level%20Features/Primordial%20Ferocity)                                  |             | 10    | trait        |
 | [Primordial Power](../10th-Level%20Features/Primordial%20Power)                                        |             | 10    | trait        |
 | [Skill](../10th-Level%20Features/Skill)                                                                |             | 10    | trait        |
-| [1st Level Aspect Features Tables](../1st-Level%20Features/1st%20Level%20Aspect%20Features%20Tables)   |             | 1     | trait        |
 | [Back](../1st-Level%20Features/Back)                                                                   | 3 Ferocity  | 1     | ability      |
 | [Beast Shape](../1st-Level%20Features/Beast%20Shape)                                                   |             | 1     | trait        |
 | [Blood for Blood](../1st-Level%20Features/Blood%20for%20Blood)                                         | 5 Ferocity  | 1     | ability      |

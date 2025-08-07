@@ -22,7 +22,7 @@ type: feature/ability/null/4th-level-feature
 
 *You suddenly strike an enemy, then grab them in a psionically enhanced grip.*
 
-| **Melee, Psionic, Strike, Weapon** |    **Free trigger** |
+| **Melee, Psionic, Strike, Weapon** |  **Free triggered** |
 | ---------------------------------- | ------------------: |
 | **📏 Melee 1**                     | **🎯 One creature** |
 

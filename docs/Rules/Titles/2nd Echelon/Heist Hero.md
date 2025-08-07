@@ -27,8 +27,7 @@ type: title/2nd-echelon
 
 ###### Timely Distraction
 
-*Coming through with hot soup!\
-I better watch out for that banana peel!*
+*Coming through with hot soup!<br/> I better watch out for that banana peel!*
 
 | **Ranged**       |       **Triggered** |
 | ---------------- | ------------------: |

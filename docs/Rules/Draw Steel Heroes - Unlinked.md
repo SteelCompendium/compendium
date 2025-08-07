@@ -4714,7 +4714,7 @@ You have the following ability.
 
 *You craft objects with the power of your mind.*
 
-| **Magic**   | **Manuever** |
+| **Magic**   | **Maneuver** |
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
@@ -5595,9 +5595,9 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 *You curse your foe to become a bane to their allies.*
 
-| **Melee, Stike, Weapon** |     **Main Action** |
-| ------------------------ | ------------------: |
-| **📏 Melee 1**           | **🎯 One creature** |
+| **Melee, Strike, Weapon** |     **Main Action** |
+| ------------------------- | ------------------: |
+| **📏 Melee 1**            | **🎯 One creature** |
 
 **Power Roll + Might:**
 
@@ -6320,7 +6320,7 @@ Choose one heroic ability from the following options, each of which costs 3 piet
 
 *You ask your saint for thunder and your prayer is answered.*
 
-| **Area, Magic, Range**  |               **Main action** |
+| **Area, Magic, Ranged** |               **Main action** |
 | ----------------------- | ----------------------------: |
 | **📏 3 cube within 10** | **🎯 Each enemy in the area** |
 
@@ -7689,7 +7689,9 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 | ----------------------- | ----------------------: |
 | **📏 Ranged 10**        | **🎯 Self or one ally** |
 
-**Trigger:** The target force moves a creature or object. **Effect:** The forced movement distance gains a bonus equal to your Reason score.
+**Trigger:** The target force moves a creature or object.
+
+**Effect:** The forced movement distance gains a bonus equal to your Reason score.
 
 **Spend 1 Essence:** The forced movement distance gains a bonus equal to twice your Reason score instead.
 
@@ -7711,11 +7713,13 @@ Your elemental specialization grants you a triggered action, as shown on the Spe
 
 *You call on the void to swallow and spit out an ally.*
 
-| **Magic, Ranged, Void** |          s**Triggered** |
+| **Magic, Ranged, Void** |           **Triggered** |
 | ----------------------- | ----------------------: |
 | **📏 Ranged 10**        | **🎯 Self or one ally** |
 
-**Trigger:** The target starts their turn, moves, or is force moved. **Effect:** You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.
+**Trigger:** The target starts their turn, moves, or is force moved.
+
+**Effect:** You teleport the target up to a number of squares equal to your Reason score. If the target moves to trigger this ability, you can teleport them at any point during the move.
 
 **Spend 1 Essence:** You teleport the target up to a number of squares equal to twice your Reason score instead.
 
@@ -8019,9 +8023,9 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 *You call down a rain that burns your enemies and restores your allies.*
 
-| **Area, Green, Magic, Raned** |               **Main action** |
-| ----------------------------- | ----------------------------: |
-| **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
+| **Area, Green, Magic, Ranged** |               **Main action** |
+| ------------------------------ | ----------------------------: |
+| **📏 3 cube within 10**        | **🎯 Each enemy in the area** |
 
 **Power Roll + Reason:**
 
@@ -8963,7 +8967,7 @@ Some Growing Ferocity benefits can be applied only if you are a specific level o
 
 Your primordial aspect grants you two features, as shown on the 1st-Level Aspect Features table.
 
-###### 1st-Level Aspect Features Tables
+###### 1st-Level Aspect Features Table
 
 | Aspect     | Feature                        |
 | ---------- | ------------------------------ |
@@ -10974,7 +10978,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 
 *You suddenly strike an enemy, then grab them in a psionically enhanced grip.*
 
-| **Melee, Psionic, Strike, Weapon** |    **Free trigger** |
+| **Melee, Psionic, Strike, Weapon** |  **Free triggered** |
 | ---------------------------------- | ------------------: |
 | **📏 Melee 1**                     | **🎯 One creature** |
 
@@ -15394,7 +15398,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 *A lyrical (and physical) jab insults an enemy and inspires an ally.*
 
-| **Maigc, Melee, Ranged, Strike** |     **Main action** |
+| **Magic, Melee, Ranged, Strike** |     **Main action** |
 | -------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**       | **🎯 One creature** |
 
@@ -23704,7 +23708,7 @@ Though its size and make are often debated, the sword is consistently described 
 
 **Rally the Righteous:** This blade fills all around it with hope and courage. Each ally within 1 mile of the weapon gains an edge on weapon abilities and magic abilities, and has damage immunity 5. Additionally, each such creature's Stamina maximum increases by 15 and they gain a +15 bonus to Stamina when this ability first affects them.
 
-**Turn the Tide**: Each enemy minion within 1 mile of the sword is dazed. Any enemy leader or solo creature in that area takes a bane on ability rolls.
+**Turn the Tide:** Each enemy minion within 1 mile of the sword is dazed. Any enemy leader or solo creature in that area takes a bane on ability rolls.
 
 **Victory's Assurance:** This weapon always appears on the eve before what will later come to be known as a historic battle. It disappears after 24 hours or when the battle is won, whichever comes first. By taking the blade, the wielder unwittingly enters into a pact with the weapon. If they don't secure victory against monumental odds or some great foe by the time the sword disappears, they are pulled into the sword, preventing any chance of resurrection, and forever dooming them to lend their strength to the heroes of other ages.
 

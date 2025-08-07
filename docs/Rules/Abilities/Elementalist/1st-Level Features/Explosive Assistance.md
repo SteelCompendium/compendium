@@ -23,6 +23,8 @@ type: feature/trait/elementalist/1st-level-feature
 | ----------------------- | ----------------------: |
 | **📏 Ranged 10**        | **🎯 Self or one ally** |
 
-**Trigger:** The target force moves a creature or object. **Effect:** The forced movement distance gains a bonus equal to your Reason score.
+**Trigger:** The target force moves a creature or object.
+
+**Effect:** The forced movement distance gains a bonus equal to your Reason score.
 
 **Spend 1 Essence:** The forced movement distance gains a bonus equal to twice your Reason score instead.

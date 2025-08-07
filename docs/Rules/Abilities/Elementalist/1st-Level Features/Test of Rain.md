@@ -22,9 +22,9 @@ type: feature/ability/elementalist/1st-level-feature
 
 *You call down a rain that burns your enemies and restores your allies.*
 
-| **Area, Green, Magic, Raned** |               **Main action** |
-| ----------------------------- | ----------------------------: |
-| **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
+| **Area, Green, Magic, Ranged** |               **Main action** |
+| ------------------------------ | ----------------------------: |
+| **📏 3 cube within 10**        | **🎯 Each enemy in the area** |
 
 **Power Roll + Reason:**
 

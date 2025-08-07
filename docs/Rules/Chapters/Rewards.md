@@ -1988,7 +1988,7 @@ Though its size and make are often debated, the sword is consistently described 
 
 **Rally the Righteous:** This blade fills all around it with hope and courage. Each ally within 1 mile of the weapon gains an edge on weapon abilities and magic abilities, and has damage immunity 5. Additionally, each such creature's Stamina maximum increases by 15 and they gain a +15 bonus to Stamina when this ability first affects them.
 
-**Turn the Tide**: Each enemy minion within 1 mile of the sword is dazed. Any enemy leader or solo creature in that area takes a bane on ability rolls.
+**Turn the Tide:** Each enemy minion within 1 mile of the sword is dazed. Any enemy leader or solo creature in that area takes a bane on ability rolls.
 
 **Victory's Assurance:** This weapon always appears on the eve before what will later come to be known as a historic battle. It disappears after 24 hours or when the battle is won, whichever comes first. By taking the blade, the wielder unwittingly enters into a pact with the weapon. If they don't secure victory against monumental odds or some great foe by the time the sword disappears, they are pulled into the sword, preventing any chance of resurrection, and forever dooming them to lend their strength to the heroes of other ages.
 
@@ -2532,8 +2532,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 ###### Timely Distraction
 
-*Coming through with hot soup!\
-I better watch out for that banana peel!*
+*Coming through with hot soup!<br/> I better watch out for that banana peel!*
 
 | **Ranged**       |       **Triggered** |
 | ---------------- | ------------------: |

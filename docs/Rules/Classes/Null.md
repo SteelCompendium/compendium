@@ -714,7 +714,7 @@ Choose one heroic ability from the following options, each of which costs 9 disc
 
 *You suddenly strike an enemy, then grab them in a psionically enhanced grip.*
 
-| **Melee, Psionic, Strike, Weapon** |    **Free trigger** |
+| **Melee, Psionic, Strike, Weapon** |  **Free triggered** |
 | ---------------------------------- | ------------------: |
 | **📏 Melee 1**                     | **🎯 One creature** |
 

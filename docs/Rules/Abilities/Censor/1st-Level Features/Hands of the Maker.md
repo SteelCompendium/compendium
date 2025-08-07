@@ -19,7 +19,7 @@ type: feature/trait/censor/1st-level-feature
 
 *You craft objects with the power of your mind.*
 
-| **Magic**   | **Manuever** |
+| **Magic**   | **Maneuver** |
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 

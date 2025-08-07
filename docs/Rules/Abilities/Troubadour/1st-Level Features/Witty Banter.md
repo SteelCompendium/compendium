@@ -19,7 +19,7 @@ type: feature/trait/troubadour/1st-level-feature
 
 *A lyrical (and physical) jab insults an enemy and inspires an ally.*
 
-| **Maigc, Melee, Ranged, Strike** |     **Main action** |
+| **Magic, Melee, Ranged, Strike** |     **Main action** |
 | -------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**       | **🎯 One creature** |
 

@@ -22,7 +22,7 @@ type: feature/ability/conduit/1st-level-feature
 
 *You ask your saint for thunder and your prayer is answered.*
 
-| **Area, Magic, Range**  |               **Main action** |
+| **Area, Magic, Ranged** |               **Main action** |
 | ----------------------- | ----------------------------: |
 | **📏 3 cube within 10** | **🎯 Each enemy in the area** |
 
