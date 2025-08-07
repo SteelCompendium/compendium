@@ -15,7 +15,7 @@ type: title/2nd-echelon
 
 #### Awakened
 
-*I was grappling with them, and when they died … I felt something happen. To me.*
+*I was grappling with them, and when they died... I felt something happen. To me.*
 
 **Prerequisite:** You defeat a leader or solo creature who has at least one ability with the Psionic keyword, such as a voiceless talker evolutionist.
 

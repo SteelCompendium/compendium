@@ -30,6 +30,6 @@ type: feature/ability/elementalist/9th-level-feature
 
 - **≤11:** 13 + R fire damage; I < WEAK, dazed (save ends)
 - **12-16:** 18 + R fire damage; I < AVERAGE, dazed (save ends)
-- **17+:** 25 + Rfire damage; I < STRONG, dazed (save ends)
+- **17+:** 25 + R fire damage; I < STRONG, dazed (save ends)
 
 **Effect:** This damage ignores immunity.

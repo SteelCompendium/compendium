@@ -49,7 +49,7 @@ As a 1st-level shadow, you gain the following features.
 
 #### Shadow College
 
-Shadow colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out—or are kicked out—as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
+Shadow colleges are secret institutions that turn ordinary folk into something else. Finding a college is the first step in a rigorous initiation process that tests the mettle of an applicant. Even those who make the cut often wash out-or are kicked out-as the master shadows who teach stealth, magic, and assassination to their students are often less than gentle in their approach.
 
 You graduated from a shadow college chosen from the following options, each of which grants you a skill. (*Quick Build:* College of Black Ash.)
 
@@ -63,7 +63,7 @@ Your shadow college is your subclass, and your choice of college determines many
 
 | Level | Features                                                                                                            | Abilities                 | College Abilities |
 | ----- | ------------------------------------------------------------------------------------------------------------------- | ------------------------- | ----------------- |
-| 1st   | Shadow College, Insight, College Features, College Triggered Action, Hesitation Is Weakness, Kit, Shadow Abilities  | Signature, 3, 5           | —                 |
+| 1st   | Shadow College, Insight, College Features, College Triggered Action, Hesitation Is Weakness, Kit, Shadow Abilities  | Signature, 3, 5           | -                 |
 | 2nd   | College Feature, Perk, College Ability                                                                              | Signature, 3, 5           | 5                 |
 | 3rd   | Careful Observation, 7-Insight Ability                                                                              | Signature, 3, 5, 7        | 5                 |
 | 4th   | Characteristic Increase, Keep It Down, Night Watch, Perk, Skill, Surge of Insight                                   | Signature, 3, 5, 7        | 5                 |
@@ -130,9 +130,9 @@ You have the following ability.
 
 *A little poison goes a long way.*
 
-| **—**       | **Maneuver** |
+| **-**       | **Maneuver** |
 | ----------- | -----------: |
-| **📏 Self** |  \*\*🎯 Self |
+| **📏 Self** |  **🎯 Self** |
 
 **Effect:** You gain 2 surges. Additionally, whenever you use a surge before the end of the encounter, you can choose to have it deal poison damage.
 
@@ -188,7 +188,7 @@ Your shadow college grants you a triggered action, as shown on the College Trigg
 
 *When an enemy attacks, you roll with the impact to reduce the harm.*
 
-| **—**       | **Triggered** |
+| **-**       | **Triggered** |
 | ----------- | ------------: |
 | **📏 Self** |   **🎯 Self** |
 
@@ -220,7 +220,7 @@ You have the following ability.
 
 *Keep up the attack. Never give them a moment's grace.*
 
-| **—**       | **Free triggered** |
+| **-**       | **Free triggered** |
 | ----------- | -----------------: |
 | **📏 Self** |        **🎯 Self** |
 
@@ -589,7 +589,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 
 *You enter a flow state that makes you nearly impossible to pin down.*
 
-| **—**       | **Maneuver** |
+| **-**       | **Maneuver** |
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
@@ -613,7 +613,7 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 
 ###### Pinning Shot (7 Insight)
 
-*One missile—placed well and placed hard.*
+*One missile-placed well and placed hard.*
 
 | **Ranged, Strike, Weapon** |     **Main action** |
 | -------------------------- | ------------------: |
@@ -749,7 +749,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 
 | **Area, Melee, Weapon**     |               **Main action** |
 | --------------------------- | ----------------------------: |
-| **📏 10 × 1 line within 1** | **🎯 Each enemy in the area** |
+| **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
 
 **Power Roll + Agility:**
 
@@ -1013,7 +1013,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 
 | **Area, Ranged, Weapon**   |               **Main action** |
 | -------------------------- | ----------------------------: |
-| **📏 5 × 1 line within 5** | **🎯 Each enemy in the area** |
+| **📏 5 x 1 line within 5** | **🎯 Each enemy in the area** |
 
 **Power Roll + Agility:**
 

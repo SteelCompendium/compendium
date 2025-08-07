@@ -20,7 +20,7 @@ type: feature/ability/troubadour/6th-level-feature
 
 ###### You're All My Understudies (9 Drama)
 
-*It's important for everyone to know each other's lines, just in case …*
+*It's important for everyone to know each other's lines, just in case...*
 
 | **Area, Magic** |                 **Maneuver** |
 | --------------- | ---------------------------: |

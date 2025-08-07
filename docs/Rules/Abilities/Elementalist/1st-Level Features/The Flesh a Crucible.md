@@ -33,19 +33,3 @@ type: feature/ability/elementalist/1st-level-feature
 - **17+:** 11 + R fire damage
 
 **Persistent 1:** If the target is within distance at the start of your turn, you can make the power roll again without spending essence (no action required).
-
-###### Invigorating Growth (3 Essence)
-
-*Mushrooms erupt from a foe, sapping their vitality to spread strengthening spores.*
-
-| **Green, Magic, Ranged, Strike** |     **Main action** |
-| -------------------------------- | ------------------: |
-| **📏 Ranged 10**                 | **🎯 One creature** |
-
-**Power Roll + Reason:**
-
-- **≤11:** 4 + R poison damage
-- **12-16:** 7 + R poison damage
-- **17+:** 11 + R poison damage
-
-**Effect:** Mushrooms cover the target's body. While the mushrooms are on the target, you and any ally adjacent to the target gain 1 surge whenever the target takes damage. The mushrooms can be removed by the target or an adjacent creature as a main action.

@@ -30,8 +30,8 @@ type: treasure/trinkets/2nd-echelon
 
 **Effect:** As a maneuver, you toss the coin in the air and let it fall to the ground in front of you. Roll a d3 to determine the coin's effect, depending on which face shows when it lands:
 
-- **1—Red:** The area within 2 squares of you is difficult terrain for enemies until the end of your next turn.
-- **2—Green:** You and each ally who starts their turn within 2 squares of you gains a +1 bonus to speed until the end of your next turn.
-- **3—Spinning Coin:** Both the red and green effects occur while the coin continuously spins.
+- **1-Red:** The area within 2 squares of you is difficult terrain for enemies until the end of your next turn.
+- **2-Green:** You and each ally who starts their turn within 2 squares of you gains a +1 bonus to speed until the end of your next turn.
+- **3-Spinning Coin:** Both the red and green effects occur while the coin continuously spins.
 
 The coin must be picked up before it can be used again. If any creature picks up the coin, its effects immediately end.

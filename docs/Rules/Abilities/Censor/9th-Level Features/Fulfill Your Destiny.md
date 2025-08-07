@@ -28,4 +28,4 @@ type: feature/ability/censor/9th-level-feature
 
 **Trigger:** You or another hero ends their turn.
 
-**Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on poºwer rolls.
+**Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on power rolls.

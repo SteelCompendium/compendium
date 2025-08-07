@@ -24,7 +24,7 @@ type: feature/ability/talent/5th-level-feature
 
 | **Area, Charge, Psionic, Telekinesis** |               **Main action** |
 | -------------------------------------- | ----------------------------: |
-| **📏 5 × 2 line within 1**             | **🎯 Each enemy in the area** |
+| **📏 5 x 2 line within 1**             | **🎯 Each enemy in the area** |
 
 **Effect:** You teleport to a square on the opposite side of the area before making the power roll.
 

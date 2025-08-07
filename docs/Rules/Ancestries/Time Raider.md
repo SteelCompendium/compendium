@@ -14,7 +14,7 @@ type: ancestry
 
 ## Time Raider
 
-The original servitor species of the synliroi—evil psions with near godlike power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym "time raiders" was given to them by denizens of the lower worlds who, seeing the advanced technology the kuran'zoi wield, concluded they must be from the future.
+The original servitor species of the synliroi-evil psions with near godlike power-the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym "time raiders" was given to them by denizens of the lower worlds who, seeing the advanced technology the kuran'zoi wield, concluded they must be from the future.
 
 Extraordinarily rare in Orden, time raiders thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
 
@@ -40,21 +40,21 @@ The alien sighed. "'Blaap blaap blaap,'" she said. "You should hear yourself. Li
 
 Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head smashed into the ruined column. She was dazed but she shook it off and laughed.
 
-"Look how easily this one is goaded!" she said. She spat out dark-blue blood and turned to the peasants gathered. "You people! Why do you let yourselves be cowed by these … *bits*? Bits of people kludged together? Even the least of you is worth more than these."
+"Look how easily this one is goaded!" she said. She spat out dark-blue blood and turned to the peasants gathered. "You people! Why do you let yourselves be cowed by these... *bits*? Bits of people kludged together? Even the least of you is worth more than these."
 
-"Perhaps from the air," Flight Captain Lyria offered, and she stroked the feathers of her giant hawk mount to calm it. "I could scout the forest around the …"
+"Perhaps from the air," Flight Captain Lyria offered, and she stroked the feathers of her giant hawk mount to calm it. "I could scout the forest around the..."
 
-"No!" Taxiarch Lycaon pointed a finger at the Hawklord and strode toward her. "*You* are the elite of Ajax's winged harriers, *I* am his chosen brigade commander. *We* are not scavengers! This one …" he stabbed a gloved finger at the alien, "… will come to heel, or I will give her to my war dogs." He turned to face the chained alien, who yawned. Lycaon seethed.
+"No!" Taxiarch Lycaon pointed a finger at the Hawklord and strode toward her. "*You* are the elite of Ajax's winged harriers, *I* am his chosen brigade commander. *We* are not scavengers! This one..." he stabbed a gloved finger at the alien, "... will come to heel, or I will give her to my war dogs." He turned to face the chained alien, who yawned. Lycaon seethed.
 
 "They may pull you apart," he said to her, and at this his squadron of soldiers, all in black leather and golden pauldrons, started making barking sounds. Then they laughed at each other.
 
 "Or I may let my crucibite melt the skin from your bones." At that, a war dog clad in leather from head to foot wearing a heavy mask with glass circles where the eyes should be and some kind of canister over his mouth stepped forward. The long thin brass tube in his hands connected to a large metal tank on his back.
 
-"Shall I let you choose?" the taxiarch said, and drew a dagger from his belt. "I will cut off one finger. If you cry out, *I* kill you. If not, another finger. And if you cry out *then* …"
+"Shall I let you choose?" the taxiarch said, and drew a dagger from his belt. "I will cut off one finger. If you cry out, *I* kill you. If not, another finger. And if you cry out *then*..."
 
 Slowly everyone assembled could make out the sounds of a conversation, quiet with a metallic ring to it. The voices got louder until eventually they could be heard.
 
-"… should be ready for anything," one voice said, deep, commanding, and images started to form around and between the war dogs, the Hawklord, and the taxiarch. Like faded images in a manuscript they seemed, gaining pigment and clarity and, eventually, depth as their voices grew louder and clearer.
+"... should be ready for anything," one voice said, deep, commanding, and images started to form around and between the war dogs, the Hawklord, and the taxiarch. Like faded images in a manuscript they seemed, gaining pigment and clarity and, eventually, depth as their voices grew louder and clearer.
 
 "Oh, thank you for the brilliant tactical advice," another voice, high pitched, piped up.
 
@@ -68,9 +68,9 @@ One of the villagers waved back before being shushed.
 
 John looked at the taxiarch and immediately read the situation. It was a clear enough picture.
 
-There was something about the war dogs. They loved Ajax's cruelty—reveled in it. John had crossed swords with other commanders in Ajax's army before. Ground Commander Vordokov was a professional—could be reasoned with, but he was an orc.
+There was something about the war dogs. They loved Ajax's cruelty-reveled in it. John had crossed swords with other commanders in Ajax's army before. Ground Commander Vordokov was a professional-could be reasoned with, but he was an orc.
 
-Not the war dogs—they were fanatics.
+Not the war dogs-they were fanatics.
 
 "What's this?" the taxiarch called out with a hungry grin. "Allies of the alien?" He was projecting confidence. Trying to muster his wary soldiers.
 
@@ -88,7 +88,7 @@ John knew what came next, but he wasn't an assassin. He had his own part to play
 
 Lycaon cocked his head at Sir John and took a few foolish steps toward the tactician. He was just out of reach. But close enough.
 
-"I see you are a man, like Ajax. Why do you lower yourself with these … creatures?" The war dog taxiarch looked at the elf, giant, polder, dwarf, and dragon knight. "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you …"—his voice lowered almost to a whisper—"… to be on the winning side for a change."
+"I see you are a man, like Ajax. Why do you lower yourself with these... creatures?" The war dog taxiarch looked at the elf, giant, polder, dwarf, and dragon knight. "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you..."-his voice lowered almost to a whisper-"... to be on the winning side for a change."
 
 Sir John took a deep breath, his body language changed and that was enough. Several things then happened at once, so quickly no one would later be able to say who acted first.
 
@@ -100,7 +100,7 @@ John felt his skin tighten as Dazar warded him, and from the sun's shadow cast b
 
 The hakaan burst into action and sped past him like a blur.
 
-At the same instant, a call—a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in his heart—the clarion call of the last Storm Knight!
+At the same instant, a call-a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in his heart-the clarion call of the last Storm Knight!
 
 At the sound, the orc dashed forward into a knot of wardog commandos, her axe already hewing about her.
 

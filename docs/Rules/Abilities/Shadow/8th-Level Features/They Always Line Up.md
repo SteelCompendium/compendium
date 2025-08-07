@@ -24,7 +24,7 @@ type: feature/ability/shadow/8th-level-feature
 
 | **Area, Ranged, Weapon**   |               **Main action** |
 | -------------------------- | ----------------------------: |
-| **📏 5 × 1 line within 5** | **🎯 Each enemy in the area** |
+| **📏 5 x 1 line within 5** | **🎯 Each enemy in the area** |
 
 **Power Roll + Agility:**
 

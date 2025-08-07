@@ -15,7 +15,7 @@ type: title/2nd-echelon
 
 #### Faction Officer
 
-*If you want or need something, talk to me. I have a certain … influence in these parts.*
+*If you want or need something, talk to me. I have a certain... influence in these parts.*
 
 **Prerequisite:** You have the Faction Member title, and you greatly advance the faction's goals.
 

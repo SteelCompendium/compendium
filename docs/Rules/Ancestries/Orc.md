@@ -14,7 +14,7 @@ type: ancestry
 
 ## Orc
 
-An anger that cannot be hidden. A fury that drives them in battle. Orcs are famed throughout the world as consummate warriors—a reputation that the peace-loving orcs find
+An anger that cannot be hidden. A fury that drives them in battle. Orcs are famed throughout the world as consummate warriors-a reputation that the peace-loving orcs find
 
 The fifth of the speaking peoples, orcs arrived on Orden after humans and elves. They made their homes in the borderlands between those two cultures, preferring the natural forests and avoiding the elf-haunted wodes. For generations, this put them directly in the path of humans who cut down the trees and built roads and farms.
 
@@ -26,7 +26,7 @@ Each orc has within them a fire that causes their veins to glow once blood is dr
 
 The orc pulled her greataxe from the split skull of the newly dead ogre. Prone heroes scrambled to their feet. Dazar healed the wounded.
 
-The orc hopped down from the corpse of the defeated. "Elg was a ruin ogre," she said. "Infected with a troll disease. An inconvenience for troll-kin but to an ogre …" She indicated the mutated ogre. "You weren't to know."
+The orc hopped down from the corpse of the defeated. "Elg was a ruin ogre," she said. "Infected with a troll disease. An inconvenience for troll-kin but to an ogre..." She indicated the mutated ogre. "You weren't to know."
 
 "Oh, good," Sir John said with obvious relief. "You speak Caelian." "Yes." The orc said. She seemed distant. She gave John a look. "I speak the language of your conquerors."
 
@@ -76,7 +76,7 @@ Khorva frowned. "I thought the Dragon Phalanx were dead."
 
 Khorva nodded once, impressed.
 
-"We need the Howling," John said. "If we get you your tribe back …?" Khorva sighed and said nothing for several moments. After a while, she returned from her reverie to look at John.
+"We need the Howling," John said. "If we get you your tribe back...?" Khorva sighed and said nothing for several moments. After a while, she returned from her reverie to look at John.
 
 "I'd rather go fishing."
 

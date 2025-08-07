@@ -14,7 +14,7 @@ type: ancestry
 
 ## Devil
 
-The native ancestry of the Seven Cities of Hell, devils are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each devil is born with some *hellmark*—horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings.
+The native ancestry of the Seven Cities of Hell, devils are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each devil is born with some *hellmark*-horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings.
 
 Hell is dominated by the Seven Cities of Hell, each ruled by a different archdevil who constantly plots and schemes against the others in the hope of ascending to the Throne of Hell.
 
@@ -30,29 +30,29 @@ Adelard scuttled across the floor of his basement, a heavy tome clutched in one 
 
 One of the red candles suddenly guttered out, making the small room noticeably darker. "Damn and blast!" he hissed. Then he relit it from another candle.
 
-Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the candles—they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said *a* skull—it didn't even specify a *human* skull! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual *know* if the skull was real?
+Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the candles-they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said *a* skull-it didn't even specify a *human* skull! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual *know* if the skull was real?
 
-He was wittering, putting off the inevitable. He pulled himself together. It was either going to work, or it wasn't, and wittering wasn't going to help. He opened the book and turned the page—then began to speak the ritual.
+He was wittering, putting off the inevitable. He pulled himself together. It was either going to work, or it wasn't, and wittering wasn't going to help. He opened the book and turned the page-then began to speak the ritual.
 
-Moments later, the candles flared, there was a burst of flame, and acrid brimstone filled his nostrils. When the smoke cleared … there was a devil standing in his basement—dark purple skin, horns, even a twitching tail.
+Moments later, the candles flared, there was a burst of flame, and acrid brimstone filled his nostrils. When the smoke cleared... there was a devil standing in his basement-dark purple skin, horns, even a twitching tail.
 
-"Aha! Yes, finally." The creature rubbed his hands together. "It's about time," he said, pulling on the bottom of his waistcoat to straighten it. "Now then! How does it go? Oh, yes." He cleared his throat. "On behalf of my lord, his grace Archduke Dispater, Lord of Dis, I am empowered to offer you …" But his speech fell on deaf ears.
+"Aha! Yes, finally." The creature rubbed his hands together. "It's about time," he said, pulling on the bottom of his waistcoat to straighten it. "Now then! How does it go? Oh, yes." He cleared his throat. "On behalf of my lord, his grace Archduke Dispater, Lord of Dis, I am empowered to offer you..." But his speech fell on deaf ears.
 
-"It worked!" Adelard said, holding his clenched fists up. "Ahahaha! It worked! Finally, after *years*! I will have my revenge! Hahaha …! \*cough\* \*cough\*" Adelard was suddenly gripped by a coughing fit, but he kept crowing.
+"It worked!" Adelard said, holding his clenched fists up. "Ahahaha! It worked! Finally, after *years*! I will have my revenge! Hahaha...! \*cough\* \*cough\*" Adelard was suddenly gripped by a coughing fit, but he kept crowing.
 
-"Dismiss me from service, will they?! \*cough\* Old and useless … am I?! I'll show *them*!" He coughed again, fighting to breathe now. "I will *hex* them and *torture* them until they …"
+"Dismiss me from service, will they?! \*cough\* Old and useless... am I?! I'll show *them*!" He coughed again, fighting to breathe now. "I will *hex* them and *torture* them until they..."
 
-He stopped cavorting and capering, and his eyes went wide. "Until they … until …" He clutched his chest.
+He stopped cavorting and capering, and his eyes went wide. "Until they... until..." He clutched his chest.
 
 "Uh-oh," the devil said, genuinely worried.
 
 "HNNG!" Adelard grunted. Then he collapsed to the ground, curled into a fetal position, obviously in immense pain.
 
-"Nono. Nurse!" the devil called out. "Doctor?! Is anyone … you should lie down. Well, you are lying down. Do some … some deep-breathing exercises. Have a cup of tea! That always …"
+"Nono. Nurse!" the devil called out. "Doctor?! Is anyone... you should lie down. Well, you are lying down. Do some... some deep-breathing exercises. Have a cup of tea! That always..."
 
 Adelard gasped one last time and uncurled, muscles relaxed. Eyes open but unseeing.
 
-"… calms me down," the devil said quietly.
+"... calms me down," the devil said quietly.
 
 Suddenly, the candles were extinguished as one, plunging the room into pitch blackness. The devil's hellsight meant this was only a minor inconvenience for him. "Um," he said to the empty room. "Uh-oh."
 
@@ -66,7 +66,7 @@ A few moments later, the door to a small home, little more than a wooden shack, 
 
 A wide woman dressed in wool, carrying a pile of clean clothes, saw him and stopped in her tracks, her mouth open.
 
-"Oh! Good day to you, madam. I wonder if you could tell me …"
+"Oh! Good day to you, madam. I wonder if you could tell me..."
 
 "AAAHHHHH!!!" she screamed. For quite a long time. Then she dropped her laundry and ran.
 
@@ -102,13 +102,13 @@ She laughed. "Riyalkin the Red Pen is every bit as advertised."
 
 He waggled his eyebrows. "Style counts for something."
 
-"But wait, that was …" She did some quick mental math. "Fifteen years ago?"
+"But wait, that was..." She did some quick mental math. "Fifteen years ago?"
 
 "Well, I was an accountant here in Capital for several years in between." "An accountant!"
 
 Riyalkin shrugged. "It's what I did before. I'm moderately good at it." "And how does one go from being an alien accountant to a famous troubadour?"
 
-"Well …" Riyalkin seemed uncomfortable suddenly. "It's just that … the thing is, accountancy in the Seven Cities is just so much more interesting than it is here. Plotting and scheming, always on the lookout for an assassin, people constantly trying to claw their way up the ladder, usually over your dead body. And I guess I just … missed the excitement."
+"Well..." Riyalkin seemed uncomfortable suddenly. "It's just that... the thing is, accountancy in the Seven Cities is just so much more interesting than it is here. Plotting and scheming, always on the lookout for an assassin, people constantly trying to claw their way up the ladder, usually over your dead body. And I guess I just... missed the excitement."
 
 "The excitement of being an accountant."
 

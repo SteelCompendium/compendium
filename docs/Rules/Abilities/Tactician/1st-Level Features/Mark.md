@@ -17,7 +17,7 @@ type: feature/trait/tactician/1st-level-feature
 
 ###### Mark
 
-*You draw your allies' attention to a specific foe—with devastating effect.*
+*You draw your allies' attention to a specific foe-with devastating effect.*
 
 | **Ranged**       |        **Maneuver** |
 | ---------------- | ------------------: |

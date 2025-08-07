@@ -19,7 +19,7 @@ type: feature/trait/shadow/1st-level-feature
 
 *When an enemy attacks, you roll with the impact to reduce the harm.*
 
-| **—**       | **Triggered** |
+| **-**       | **Triggered** |
 | ----------- | ------------: |
 | **📏 Self** |   **🎯 Self** |
 

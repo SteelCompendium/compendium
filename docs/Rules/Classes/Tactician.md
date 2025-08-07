@@ -50,7 +50,7 @@ As a 1st-level tactician, you gain the following features.
 
 #### Tactical Doctrine
 
-Warfare is as old as civilization—and perhaps even older. As battle became ever more complex, military leaders invented tactical doctrine, outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a tactical doctrine from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the Intimidate skill.)
+Warfare is as old as civilization-and perhaps even older. As battle became ever more complex, military leaders invented tactical doctrine, outlining how combatants should be structured, used, and deployed. Doctrine can be learned at war colleges passing on ancient martial traditions, or directly through blood and sweat on the battlefield. Whatever path brought you to your mastery of historically proven tactics, you choose a tactical doctrine from the following options, each of which grants you a skill. (*Quick Build:* Vanguard and the Intimidate skill.)
 
 - **Insurgent:** Doing your duty, playing fair, and dying honorably in battle is your opponent's job. You'll do whatever it takes to keep your allies alive. You gain a skill from the intrigue skill group.
 - **Mastermind:** You have an encyclopedic knowledge of warfare, viewing the battlefield as a game board and seeking victory by thinking steps ahead of your opponents. You gain a skill from the lore skill group.
@@ -66,7 +66,7 @@ The ring of steel panics others but brings order to your mind, granting you a He
 
 | Level | Features                                                                                                                    | Abilities      | Doctrine Abilities |
 | ----- | --------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------ |
-| 1st   | Tactical Doctrine, Focus, Doctrine Feature, Doctrine Triggered Action, Field Arsenal, Mark, Strike Now, Tactician Abilities | 3, 5           | —                  |
+| 1st   | Tactical Doctrine, Focus, Doctrine Feature, Doctrine Triggered Action, Field Arsenal, Mark, Strike Now, Tactician Abilities | 3, 5           | -                  |
 | 2nd   | Perk, Doctrine Feature, Doctrine Ability                                                                                    | 3, 5           | 5                  |
 | 3rd   | Out of Position, 7-Focus Ability                                                                                            | 3, 5, 7        | 5                  |
 | 4th   | Characteristic Increase, Focus on Their Weakness, Improved Field Arsenal, Perk, Skill                                       | 3, 5, 7        | 5                  |
@@ -214,7 +214,7 @@ You know how to focus the attention of your allies as you push them toward victo
 
 ###### Mark
 
-*You draw your allies' attention to a specific foe—with devastating effect.*
+*You draw your allies' attention to a specific foe-with devastating effect.*
 
 | **Ranged**       |        **Maneuver** |
 | ---------------- | ------------------: |
@@ -287,9 +287,9 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 
 **Power Roll + Might:**
 
-- **≤11:** 3\*\*+\*\* M damage; M < WEAK, dazed (save ends)
+- **≤11:** 3 + M damage; M < WEAK, dazed (save ends)
 - **12-16:** 5 + M damage; M < AVERAGE, dazed (save ends)
-- **17+:** 8\*\*+\*\* M damage; M < STRONG, dazed (save ends)
+- **17+:** 8 + M damage; M < STRONG, dazed (save ends)
 
 ###### Inspiring Strike (3 Focus)
 
@@ -301,9 +301,9 @@ Choose one heroic ability from the following options, each of which costs 3 focu
 
 **Power Roll + Might:**
 
-- **≤11:** 3\*\*+\*\* M damage; you or one ally within 10 squares of you can spend a Recovery
+- **≤11:** 3 + M damage; you or one ally within 10 squares of you can spend a Recovery
 - **12-16:** 5 + M damage; you or one ally within 10 squares of you can spend a Recovery
-- **17+:** 8\*\*+\*\* M damage; you and one ally within 10 squares of you can spend a Recovery, and each of you gains an edge on the next ability roll you make during the encounter
+- **17+:** 8 + M damage; you and one ally within 10 squares of you can spend a Recovery, and each of you gains an edge on the next ability roll you make during the encounter
 
 ###### Squad! Forward! (3 Focus)
 
@@ -329,9 +329,9 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 
 **Power Roll + Might:**
 
-- **≤11:** 5\*\*+\*\* M damage; one ally within 10 squares of you can use a strike signature ability against the target as a free triggered action
+- **≤11:** 5 + M damage; one ally within 10 squares of you can use a strike signature ability against the target as a free triggered action
 - **12-16:** 9 + M damage; one ally within 10 squares of you can use a strike signature ability that gains an edge against the target as a free triggered action
-- **17+:** 12\*\*+\*\* M damage; two allies within 10 squares of you can each use a strike signature ability that gains an edge against the target as a free triggered action
+- **17+:** 12 + M damage; two allies within 10 squares of you can each use a strike signature ability that gains an edge against the target as a free triggered action
 
 **Effect:** If the target is reduced to 0 Stamina before one or both chosen allies has made their strike, the ally or allies can pick a different target.
 
@@ -347,15 +347,15 @@ Choose one heroic ability from the following options, each of which costs 5 focu
 
 **Power Roll + Might:**
 
-- **≤11:** 4\*\*+\*\* M damage; R < WEAK, weakened (save ends)
+- **≤11:** 4 + M damage; R < WEAK, weakened (save ends)
 - **12-16:** 6 + M damage; R < AVERAGE, weakened (save ends)
-- **17+:** 10\*\*+\*\* M damage; R < STRONG, weakened (save ends)
+- **17+:** 10 + M damage; R < STRONG, weakened (save ends)
 
 **Effect:** Before the start of your next turn, the first time any ally deals damage to any target marked by you, that ally can spend a Recovery.
 
 ###### Now! (5 Focus)
 
-*Your allies wait for your command—then unleash death!*
+*Your allies wait for your command-then unleash death!*
 
 | **Ranged**       |        **Maneuver** |
 | ---------------- | ------------------: |
@@ -776,9 +776,9 @@ Choose one of the following abilities.
 
 **Power Roll + Might:**
 
-- **≤11:** 6\*\*+\*\* M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability instead of a free strike for the charge
+- **≤11:** 6 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability instead of a free strike for the charge
 - **12-16:** 9 + M damage; one ally within 10 squares can use the Charge main action as a free triggered action, and can use a melee strike signature ability that gains an edge instead of a free strike for the charge
-- **17+:** 13\*\*+\*\* M damage; two allies within 10 squares can use the Charge main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a free strike for the charge
+- **17+:** 13 + M damage; two allies within 10 squares can use the Charge main action as a free triggered action, and can each use a melee strike signature ability that gains an edge instead of a free strike for the charge
 
 **Effect:** If the target is hit with two or more strikes as part of this ability and they have R < STRONG, they are dazed (save ends). If the target is reduced to 0 Stamina before one or both allies has made their strike, the ally or allies can pick a different target.
 
@@ -974,7 +974,7 @@ Choose one of the following abilities.
 
 *I've identified a way to negate their strengths.*
 
-| **—**       | **Main action** |
+| **-**       | **Main action** |
 | ----------- | --------------: |
 | **📏 Self** |     **🎯 Self** |
 

@@ -3,7 +3,7 @@ file_basename: Infernal Contract But Like Bad
 file_dpath: Complications
 item_id: infernal-contract-but-like-bad
 item_index: '11'
-item_name: Infernal Contract … But, Like, Bad
+item_name: Infernal Contract... But, Like, Bad
 scc:
   - mcdm.heroes.v1:complication:infernal-contract-but-like-bad
 scdc:
@@ -12,7 +12,7 @@ source: mcdm.heroes.v1
 type: complication
 ---
 
-#### Infernal Contract … But, Like, Bad
+#### Infernal Contract... But, Like, Bad
 
 You made a deal with a devil. Not a very good deal, because it wasn't a very good devil. It's too late for regrets, though, because your soul is forfeit unless you find a loophole or can convince the devil to void the deal.
 

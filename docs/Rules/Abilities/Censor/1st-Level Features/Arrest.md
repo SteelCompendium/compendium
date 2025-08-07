@@ -20,7 +20,7 @@ type: feature/ability/censor/1st-level-feature
 
 ###### Arrest (5 Wrath)
 
-*“I got you, you son of a bitch.”*
+*"I got you, you son of a bitch."*
 
 | **Magic, Melee, Strike, Weapon** |     **Main Action** |
 | -------------------------------- | ------------------: |

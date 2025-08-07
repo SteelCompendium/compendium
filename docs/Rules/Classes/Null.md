@@ -74,7 +74,7 @@ You lose any remaining discipline at the end of the encounter.
 
 | Level | Features                                                                                                                                            | Abilities                     | Tradition Abilities |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | Null Tradition, Discipline, Null Field, Inertial Shield, Discipline Mastery, Null Speed, Psionic Augmentation, Psionic Martial Arts, Null Abilities | Two signature, 3, 5           | —                   |
+| 1st   | Null Tradition, Discipline, Null Field, Inertial Shield, Discipline Mastery, Null Speed, Psionic Augmentation, Psionic Martial Arts, Null Abilities | Two signature, 3, 5           | -                   |
 | 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                          | Two signature, 3, 5           | 5                   |
 | 3rd   | Psionic Leap, Reorder, 7-Discipline Ability                                                                                                         | Two signature, 3, 5, 7        | 5                   |
 | 4th   | Characteristic Increase, Discipline Mastery Improvement, Enhanced Null Field, Perk, Regenerative Field, Skill                                       | Two signature, 3, 5, 7        | 5                   |
@@ -320,7 +320,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Power Roll + Agility:**
 
-- \*\*≤11:\*\*4 + A damage; push 2
+- **≤11:** 4 + A damage; push 2
 - **12-16:** 6 + A damage; push 4
 - **17+:** 8 + A damage; push 6
 

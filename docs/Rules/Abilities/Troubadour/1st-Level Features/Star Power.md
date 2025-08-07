@@ -22,7 +22,7 @@ type: feature/ability/troubadour/1st-level-feature
 
 *Your years of practicing fencing and dancing pay off on the battlefield.*
 
-| **—**       | **Maneuver** |
+| **-**       | **Maneuver** |
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 

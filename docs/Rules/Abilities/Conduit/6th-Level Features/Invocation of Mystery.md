@@ -20,7 +20,7 @@ type: feature/ability/conduit/6th-level-feature
 
 ###### Invocation of Mystery (9 Piety)
 
-*"Now you see us …"*
+*"Now you see us..."*
 
 | **Area, Magic** |                          **Maneuver** |
 | --------------- | ------------------------------------: |

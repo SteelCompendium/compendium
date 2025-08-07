@@ -14,9 +14,9 @@ type: ancestry
 
 ## Dwarf
 
-Possessed of a strength that belies their size, dwarves have flesh infused with stone—a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel dwarves.
+Possessed of a strength that belies their size, dwarves have flesh infused with stone-a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel dwarves.
 
-Dwarves are the children of the elder god Ord, and a common phrase among dwarves is "Ord made the world"—their way of saying, "What will be, will be." They take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many dwarves leave their homes to see the world and seek glory in Ord's name.
+Dwarves are the children of the elder god Ord, and a common phrase among dwarves is "Ord made the world"-their way of saying, "What will be, will be." They take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many dwarves leave their homes to see the world and seek glory in Ord's name.
 
 ### On Dwarves
 
@@ -46,7 +46,7 @@ The dwarf ignored them.
 
 The dwarf paused. "High theochron?" he said. "A lofty title. Far too lofty for a job such as this," he went back to work and a moment later there were two more smoking blocks. He cleared them away.
 
-"There's a job for nine …" John hesitated. *Ratcatchers* didn't seem appropriate. He went with his gut. "Heroes. In Bedegar. A village looking for someone to stand against Lord Saxton."
+"There's a job for nine..." John hesitated. *Ratcatchers* didn't seem appropriate. He went with his gut. "Heroes. In Bedegar. A village looking for someone to stand against Lord Saxton."
 
 "Mm. I have heard of this one," the dwarf said, seemingly uninterested. He hurled the smaller blocks into a pile and went to heft a new stone to cut. "A foul tyrant. Well-suited to these times. Perhaps the people deserve him."
 
@@ -80,7 +80,7 @@ The dwarf said nothing. He looked at the coin in his hand.
 
 "My people left me!" Dazar barked. "When they embraced Ajax!" Embers just watched the dwarf. His rage subsided as quickly as it came.
 
-"I thought … I thought leaving might inspire my people to …" He looked at the nearby village. "Eh, it matters not. I could not have stayed in any event. I lack the stomach for tyranny."
+"I thought... I thought leaving might inspire my people to..." He looked at the nearby village. "Eh, it matters not. I could not have stayed in any event. I lack the stomach for tyranny."
 
 "Kal Kalavar's new thane is not an easy problem to solve," John said with sympathy. "Saxton is."
 
@@ -98,13 +98,13 @@ No one spoke for a moment. "These people," Dazar said. "These villagers. Do they
 
 John didn't answer.
 
-"Do they know that asking us for help, asking *you*," Dazar looked Sir John up and down "… means starting something they *must* see through to the end? It means hardship, privation, *death* buying a future for their children? You told them this?"
+"Do they know that asking us for help, asking *you*," Dazar looked Sir John up and down "... means starting something they *must* see through to the end? It means hardship, privation, *death* buying a future for their children? You told them this?"
 
 John shook his head.
 
-"Well why not?!" Dazar demanded. "You of all people must understand …"
+"Well why not?!" Dazar demanded. "You of all people must understand..."
 
-"Dazar," John said, and his measured voice was a quick counter to Dazar's protest. "These people are already at their wits' end. Just … just surviving, putting food on the table, keeping their children warm. Giving them *hope*. It's already more than should be asked of anyone. And then coming to us, swallowing their pride. Asking us for aid.
+"Dazar," John said, and his measured voice was a quick counter to Dazar's protest. "These people are already at their wits' end. Just... just surviving, putting food on the table, keeping their children warm. Giving them *hope*. It's already more than should be asked of anyone. And then coming to us, swallowing their pride. Asking us for aid.
 
 "It's our job to understand the job *for* them." Then, quieter, John added, "And forgive them, ahead of time, for when they weaken, and give in to fear."
 

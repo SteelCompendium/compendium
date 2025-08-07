@@ -25,7 +25,7 @@ type: feature/trait/fury/1st-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 3 + M damage\*\*
+- **≤11:** 3 + M damage
 - **12-16:** 6 + M damage
 - **17+:** 9 + M damage
 

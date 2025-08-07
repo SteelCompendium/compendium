@@ -16,7 +16,7 @@ type: chapter
 
 # Ancestries
 
-Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are devils, dwarves, elves, time raiders—and of course humans, whose culture and history dominates many worlds.
+Fantastic peoples inhabit the worlds of *Draw Steel*. Among them are devils, dwarves, elves, time raiders-and of course humans, whose culture and history dominates many worlds.
 
 Your hero is one of these folks! The fantastic ancestry you choose bestows benefits that come from your anatomy and physiology. This choice doesn't grant you cultural benefits, such as crafting or lore skills, though. While many game settings have cultures made of mostly one ancestry, other cultures and worlds have a cosmopolitan mix of peoples.
 
@@ -32,11 +32,11 @@ This chapter details twelve ancestries for the game:
 
 **Wode Elf:** Lithe humanoids with finely furred skin in all shades of blue, wode elves have angular features and large, pointed ears akin to a bat's. They possess a supernatural glamor that allows them to blend in with their surroundings when they wish to hide.
 
-**High Elf:** Stately and graceful, high elves have tall, willowy bodies, pointed ears, and smoother skin than most other humanoids. Rare metal inlays such as gold, platinum, palladium, and iridium act as organic components within their skin. The truest form of any high elf is hidden from most—sometimes even from themself—thanks to a supernatural glamor that makes them more attractive to others, whatever that might mean to an individual. This glamor transcends physical appearance, also slightly altering a high elf's tone and smell.
+**High Elf:** Stately and graceful, high elves have tall, willowy bodies, pointed ears, and smoother skin than most other humanoids. Rare metal inlays such as gold, platinum, palladium, and iridium act as organic components within their skin. The truest form of any high elf is hidden from most-sometimes even from themself-thanks to a supernatural glamor that makes them more attractive to others, whatever that might mean to an individual. This glamor transcends physical appearance, also slightly altering a high elf's tone and smell.
 
 **Hakaan:** Descended from stone giants, the mighty hakaan stand over 9 feet tall and have well-muscled bodies made of organic stone. They are the largest ancestry in this book!
 
-**Human:** Humans are the most numerous people in Orden and many other fantasy worlds! In *Draw Steel*, humans have all the diversity that our species displays in real life—and they can sense the presence of supernatural energy!
+**Human:** Humans are the most numerous people in Orden and many other fantasy worlds! In *Draw Steel*, humans have all the diversity that our species displays in real life-and they can sense the presence of supernatural energy!
 
 **Memonek:** Originating on Axiom, the Plane of Uttermost Law, memonek are a machine people made of metal, marble, glass, and other inorganic materials. Their bodies are lightweight, making them easier to move and letting them fall at slower speeds.
 
@@ -68,7 +68,7 @@ This chapter details twelve ancestries for the game:
 
 Orden (talked about in Chapter 1: The Basics) is a fantasy world. It works on principles similar to those many people throughout history believed governed the real world. "I dunno, a god did it probably."
 
-Humans, elves, orcs, dwarves, dragons, all have creator gods—the Elder Gods, four of whom made the world for some reason. Maybe they were bored.
+Humans, elves, orcs, dwarves, dragons, all have creator gods-the Elder Gods, four of whom made the world for some reason. Maybe they were bored.
 
 The fashion among those gods for creating new, intelligent, species petered out after the orcs. Once humans came along and invented war, it stopped being fun.
 
@@ -78,13 +78,13 @@ And in a world where powerful, world-altering magics are available, mortals some
 
 However, mortals are not gods and lack their ineffable wisdom. They are, in fact, very effable. Many have sought the power to create. It is available to any sorcerer of near-godlike power with the right rituals, though these days that power is very obscure. Creating new intelligent species was easier for mortal wizards back in the youth of the world when magic was friskier.
 
-In every instance in recorded history, attempts by mortals to make obedient servitor species backfired. The steel dwarves worked marvels with valiar, the truemetal, and the miracle mineral iridoss, known as prismacore, that grants objects a semblance of life. Eventually their science and magics produced the omnivok—machines that were self-aware. Perhaps uniquely, when the dwarves realized they had created beings equal to themselves they stopped their work and gave their creations full rights and independence, preferring to work with them rather than attempt, and inevitably fail, to be their masters.
+In every instance in recorded history, attempts by mortals to make obedient servitor species backfired. The steel dwarves worked marvels with valiar, the truemetal, and the miracle mineral iridoss, known as prismacore, that grants objects a semblance of life. Eventually their science and magics produced the omnivok-machines that were self-aware. Perhaps uniquely, when the dwarves realized they had created beings equal to themselves they stopped their work and gave their creations full rights and independence, preferring to work with them rather than attempt, and inevitably fail, to be their masters.
 
 Normally, it doesn't work out that nicely. Even with the best of intentions, things go awry. The Dragon Phalanx were created by Good King Omund's wizard Vitae to be the perfect knights, dispensing justice throughout the lands. But the same sorceries that grant self-awareness also grant independence. Agency. And though they enjoyed 30 years of peace and justice, eventually the dragon knights were betrayed by one of their own, seduced by the power offered by Ajax.
 
 The law of unintended consequences applies to the just and the unjust alike.
 
-Usually when some powerful being tries to create an intelligent species, it's for less-than-virtuous reasons. The synliroi are responsible for several intelligent species in the timescape, each an attempt to create a perfectly obedient servitor species. The most notorious example are the kuran'zoi—the time raiders who rebelled almost immediately and who carry a burning hate for the voiceless talkers to this day.
+Usually when some powerful being tries to create an intelligent species, it's for less-than-virtuous reasons. The synliroi are responsible for several intelligent species in the timescape, each an attempt to create a perfectly obedient servitor species. The most notorious example are the kuran'zoi-the time raiders who rebelled almost immediately and who carry a burning hate for the voiceless talkers to this day.
 
 A perhaps less egregious use of this power is called *quickening*, used when a powerful mage lives in and amongst some clever species just on the cusp of self-awareness. These instances, which are much more numerous than creating a new species from whole cloth, are more like the concept of *uplifting* found in science fiction. The mage or witch or shaman didn't create anything. They just gave these cute, clever, frog-things a little boost. A little nudge. And suddenly there are angulotls walking around having conversations with each other,
 
@@ -104,7 +104,7 @@ Equally obviously; names are cultural, not biological. Your character probably h
 
 #### Last Names and Bynames
 
-Most people living in Orden—and this is especially true of Vasloria live in villages. They do not have and do not use last names or family names. Everyone in the village knows who you mean when you refer to "William." Even if there's more than one William in the village, you can usually tell who someone's referring to from context. Sometimes folks prepend "our" to someone's name meaning: the one related to or otherwise concerned with me and my family. "Our William" for instance.
+Most people living in Orden-and this is especially true of Vasloria live in villages. They do not have and do not use last names or family names. Everyone in the village knows who you mean when you refer to "William." Even if there's more than one William in the village, you can usually tell who someone's referring to from context. Sometimes folks prepend "our" to someone's name meaning: the one related to or otherwise concerned with me and my family. "Our William" for instance.
 
 If that's not enough, folks use another identifier known as a byname. If there were two boys in the village named Much, one of them might be called Much the Miller's Son, to distinguish them from the other lad.
 
@@ -120,13 +120,13 @@ Unlike remote villages, well settled areas where many towns and villages are all
 
 Most cultures in Vasloria make a distinction between masculine and feminine names, though not all do. And for some cultures that make such a distinction, almost no one outside the culture can tell the difference.
 
-Among those cultures which do make a distinction between masculine and feminine names, there are always names that *could* refer to a person of any gender. Here in the real world, you can't tell a person's gender just from the name "Shane." This is mostly because which names are considered masculine or feminine changes over time, and when this happens, there's a period—maybe a few generations—where the name could refer to a person of any gender.
+Among those cultures which do make a distinction between masculine and feminine names, there are always names that *could* refer to a person of any gender. Here in the real world, you can't tell a person's gender just from the name "Shane." This is mostly because which names are considered masculine or feminine changes over time, and when this happens, there's a period-maybe a few generations-where the name could refer to a person of any gender.
 
-Of course, there's no law (neither metaphorically nor literally) that requires your character to go by their birth name. They might not even know their birth name depending on what happened after they were born. It's not unusual, especially among talents, for a hero to adopt a moniker or sobriquet instead of a name. And in some cultures, there's a tradition of changing your name—or at least how you prefer to be known—as you go through different stages of life. High elves sometimes adopt a wholly new name when they reach a certain age, or more commonly, they choose a different component of their name. When A Mist Curls Around Dying Embers was a young woman, she was known as Mist. Now that she's the master of the Tower of Translation, she's known as Embers.
+Of course, there's no law (neither metaphorically nor literally) that requires your character to go by their birth name. They might not even know their birth name depending on what happened after they were born. It's not unusual, especially among talents, for a hero to adopt a moniker or sobriquet instead of a name. And in some cultures, there's a tradition of changing your name-or at least how you prefer to be known-as you go through different stages of life. High elves sometimes adopt a wholly new name when they reach a certain age, or more commonly, they choose a different component of their name. When A Mist Curls Around Dying Embers was a young woman, she was known as Mist. Now that she's the master of the Tower of Translation, she's known as Embers.
 
 #### Authentic or Comedic?
 
-For some players choosing a "good name"—by which they mean "authentic to the setting"—is important and can take a while. Because the right name can ground a character in the world, and this can help the player feel more immersed in the fictional reality. It also communicates to the other players that you're serious about the game and your hero.
+For some players choosing a "good name"-by which they mean "authentic to the setting"-is important and can take a while. Because the right name can ground a character in the world, and this can help the player feel more immersed in the fictional reality. It also communicates to the other players that you're serious about the game and your hero.
 
 For other players, choosing a comedic, joke name communicates the opposite! You are here to have fun and screw around and taking things seriously is something you already have to do all week, and so you pick a ridiculous name just to get a laugh because that's what you're serious about.
 
@@ -160,7 +160,7 @@ The choice of name is an important one, because it says a lot about you and how 
 
 ##### Wode Elf Names
 
-Elves in general have a casual attitude toward gender, it having no direct bearing on procreation for them. (Normal elf upon learning how humans mate: "You mean … like animals?") They tend to view the various sex-linked traits associated among other ancestries with masculinity or femininity as a kind of fashion to be taken up or discarded as the mood suits. Over one life, any elf might wear masculine features, or feminine features, or both, many times. For wode elves, this often means adopting a new name, or a different version of the same name. Llyandros might become Llyandra for instance.
+Elves in general have a casual attitude toward gender, it having no direct bearing on procreation for them. (Normal elf upon learning how humans mate: "You mean... like animals?") They tend to view the various sex-linked traits associated among other ancestries with masculinity or femininity as a kind of fashion to be taken up or discarded as the mood suits. Over one life, any elf might wear masculine features, or feminine features, or both, many times. For wode elves, this often means adopting a new name, or a different version of the same name. Llyandros might become Llyandra for instance.
 
 **Feminine:** Elvyr, Eviarwyc, Illwyv, Iorwyth, Lliarwyn, Meithennyn, Nimuë, Rhegyth, Viarwyn, Ysallwyth
 
@@ -267,69 +267,69 @@ Years</th>
 <tbody>
 <tr class="odd">
 <td>Devil</td>
-<td>5'0''–6'0''</td>
-<td>120–250</td>
-<td>70–120</td>
+<td>5'0''-6'0''</td>
+<td>120-250</td>
+<td>70-120</td>
 </tr>
 <tr class="even">
 <td>Dragon Knight</td>
-<td>6'0''–7'0''</td>
-<td>200–350</td>
-<td>50–90</td>
+<td>6'0''-7'0''</td>
+<td>200-350</td>
+<td>50-90</td>
 </tr>
 <tr class="odd">
 <td>Dwarf</td>
-<td>4'0''–4'6''</td>
+<td>4'0''-4'6''</td>
 <td>500-1,000</td>
-<td>700–1,500</td>
+<td>700-1,500</td>
 </tr>
 <tr class="even">
 <td>Wode Elf</td>
-<td>5'6''–6'6''</td>
-<td>100–150</td>
-<td>1,200–3,000</td>
+<td>5'6''-6'6''</td>
+<td>100-150</td>
+<td>1,200-3,000</td>
 </tr>
 <tr class="odd">
 <td>High Elf</td>
-<td>5'6''–6'6''</td>
-<td>100–150</td>
-<td>1,200–3,000</td>
+<td>5'6''-6'6''</td>
+<td>100-150</td>
+<td>1,200-3,000</td>
 </tr>
 <tr class="even">
 <td>Hakaan</td>
-<td>9'0''–10'0''</td>
-<td>1,000–2,000</td>
-<td>300–500</td>
+<td>9'0''-10'0''</td>
+<td>1,000-2,000</td>
+<td>300-500</td>
 </tr>
 <tr class="odd">
 <td>Human</td>
-<td>5'0''–6'0''</td>
-<td>100–300</td>
-<td>70–120</td>
+<td>5'0''-6'0''</td>
+<td>100-300</td>
+<td>70-120</td>
 </tr>
 <tr class="even">
 <td>Memonek</td>
-<td>5'0''–6'0''</td>
-<td>50–100</td>
-<td>70–120</td>
+<td>5'0''-6'0''</td>
+<td>50-100</td>
+<td>70-120</td>
 </tr>
 <tr class="odd">
 <td>Orc</td>
-<td>5'6''–6'6''</td>
-<td>150–300</td>
-<td>50–90</td>
+<td>5'6''-6'6''</td>
+<td>150-300</td>
+<td>50-90</td>
 </tr>
 <tr class="even">
 <td>Polder</td>
-<td>3'3''–3'9''</td>
-<td>20–50</td>
-<td>50–90</td>
+<td>3'3''-3'9''</td>
+<td>20-50</td>
+<td>50-90</td>
 </tr>
 <tr class="odd">
 <td>Time Raider</td>
-<td>5'0''–6'0''</td>
-<td>120–250</td>
-<td>50–90</td>
+<td>5'0''-6'0''</td>
+<td>120-250</td>
+<td>50-90</td>
 </tr>
 </tbody>
 </table>
@@ -350,7 +350,7 @@ For example, the devil ancestry has the signature trait Silver Tongue and 3 ance
 
 ## Devil
 
-The native ancestry of the Seven Cities of Hell, devils are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each devil is born with some *hellmark*—horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings.
+The native ancestry of the Seven Cities of Hell, devils are humanoids with red or blue skin expressed in a wide variety of hues, from bright crimson to deep purple. Each devil is born with some *hellmark*-horns, a tail, cloven hooves, a forked tongue, fanged incisors, or even wings.
 
 Hell is dominated by the Seven Cities of Hell, each ruled by a different archdevil who constantly plots and schemes against the others in the hope of ascending to the Throne of Hell.
 
@@ -366,29 +366,29 @@ Adelard scuttled across the floor of his basement, a heavy tome clutched in one 
 
 One of the red candles suddenly guttered out, making the small room noticeably darker. "Damn and blast!" he hissed. Then he relit it from another candle.
 
-Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the candles—they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said *a* skull—it didn't even specify a *human* skull! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual *know* if the skull was real?
+Stepping back to admire his handiwork, Adelard crossed his arms and nodded. He'd spent his last coppers on the candles-they weren't cheap. And he feared the skull might be fake, but did it matter? The book just said *a* skull-it didn't even specify a *human* skull! Did it matter if it was real? It was probably real. What kind of market was there for replica skulls? But it was awfully cheap. Anyway, did it matter? How would the ritual *know* if the skull was real?
 
-He was wittering, putting off the inevitable. He pulled himself together. It was either going to work, or it wasn't, and wittering wasn't going to help. He opened the book and turned the page—then began to speak the ritual.
+He was wittering, putting off the inevitable. He pulled himself together. It was either going to work, or it wasn't, and wittering wasn't going to help. He opened the book and turned the page-then began to speak the ritual.
 
-Moments later, the candles flared, there was a burst of flame, and acrid brimstone filled his nostrils. When the smoke cleared … there was a devil standing in his basement—dark purple skin, horns, even a twitching tail.
+Moments later, the candles flared, there was a burst of flame, and acrid brimstone filled his nostrils. When the smoke cleared... there was a devil standing in his basement-dark purple skin, horns, even a twitching tail.
 
-"Aha! Yes, finally." The creature rubbed his hands together. "It's about time," he said, pulling on the bottom of his waistcoat to straighten it. "Now then! How does it go? Oh, yes." He cleared his throat. "On behalf of my lord, his grace Archduke Dispater, Lord of Dis, I am empowered to offer you …" But his speech fell on deaf ears.
+"Aha! Yes, finally." The creature rubbed his hands together. "It's about time," he said, pulling on the bottom of his waistcoat to straighten it. "Now then! How does it go? Oh, yes." He cleared his throat. "On behalf of my lord, his grace Archduke Dispater, Lord of Dis, I am empowered to offer you..." But his speech fell on deaf ears.
 
-"It worked!" Adelard said, holding his clenched fists up. "Ahahaha! It worked! Finally, after *years*! I will have my revenge! Hahaha …! \*cough\* \*cough\*" Adelard was suddenly gripped by a coughing fit, but he kept crowing.
+"It worked!" Adelard said, holding his clenched fists up. "Ahahaha! It worked! Finally, after *years*! I will have my revenge! Hahaha...! \*cough\* \*cough\*" Adelard was suddenly gripped by a coughing fit, but he kept crowing.
 
-"Dismiss me from service, will they?! \*cough\* Old and useless … am I?! I'll show *them*!" He coughed again, fighting to breathe now. "I will *hex* them and *torture* them until they …"
+"Dismiss me from service, will they?! \*cough\* Old and useless... am I?! I'll show *them*!" He coughed again, fighting to breathe now. "I will *hex* them and *torture* them until they..."
 
-He stopped cavorting and capering, and his eyes went wide. "Until they … until …" He clutched his chest.
+He stopped cavorting and capering, and his eyes went wide. "Until they... until..." He clutched his chest.
 
 "Uh-oh," the devil said, genuinely worried.
 
 "HNNG!" Adelard grunted. Then he collapsed to the ground, curled into a fetal position, obviously in immense pain.
 
-"Nono. Nurse!" the devil called out. "Doctor?! Is anyone … you should lie down. Well, you are lying down. Do some … some deep-breathing exercises. Have a cup of tea! That always …"
+"Nono. Nurse!" the devil called out. "Doctor?! Is anyone... you should lie down. Well, you are lying down. Do some... some deep-breathing exercises. Have a cup of tea! That always..."
 
 Adelard gasped one last time and uncurled, muscles relaxed. Eyes open but unseeing.
 
-"… calms me down," the devil said quietly.
+"... calms me down," the devil said quietly.
 
 Suddenly, the candles were extinguished as one, plunging the room into pitch blackness. The devil's hellsight meant this was only a minor inconvenience for him. "Um," he said to the empty room. "Uh-oh."
 
@@ -402,7 +402,7 @@ A few moments later, the door to a small home, little more than a wooden shack, 
 
 A wide woman dressed in wool, carrying a pile of clean clothes, saw him and stopped in her tracks, her mouth open.
 
-"Oh! Good day to you, madam. I wonder if you could tell me …"
+"Oh! Good day to you, madam. I wonder if you could tell me..."
 
 "AAAHHHHH!!!" she screamed. For quite a long time. Then she dropped her laundry and ran.
 
@@ -438,13 +438,13 @@ She laughed. "Riyalkin the Red Pen is every bit as advertised."
 
 He waggled his eyebrows. "Style counts for something."
 
-"But wait, that was …" She did some quick mental math. "Fifteen years ago?"
+"But wait, that was..." She did some quick mental math. "Fifteen years ago?"
 
 "Well, I was an accountant here in Capital for several years in between." "An accountant!"
 
 Riyalkin shrugged. "It's what I did before. I'm moderately good at it." "And how does one go from being an alien accountant to a famous troubadour?"
 
-"Well …" Riyalkin seemed uncomfortable suddenly. "It's just that … the thing is, accountancy in the Seven Cities is just so much more interesting than it is here. Plotting and scheming, always on the lookout for an assassin, people constantly trying to claw their way up the ladder, usually over your dead body. And I guess I just … missed the excitement."
+"Well..." Riyalkin seemed uncomfortable suddenly. "It's just that... the thing is, accountancy in the Seven Cities is just so much more interesting than it is here. Plotting and scheming, always on the lookout for an assassin, people constantly trying to claw their way up the ladder, usually over your dead body. And I guess I just... missed the excitement."
 
 "The excitement of being an accountant."
 
@@ -496,7 +496,7 @@ You possess wings powerful enough to take you airborne. While using your wings t
 
 ## Dragon Knight
 
-The ritual of Dracogenesis that grants the power to create a generation of dragon knights—also known as draconians or wyrmwights—is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khoursir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
+The ritual of Dracogenesis that grants the power to create a generation of dragon knights-also known as draconians or wyrmwights-is obscure and supremely difficult for even an experienced sorcerer to master. Small populations of draconians in Khemhara, Higara, and Khoursir attest to this. Descendants of original generations created millennia ago by powerful wizards, they have never been numerous. A typical clutch yields only a single egg. After only a few generations, these draconians begin to show new adaptations like feathers or frilled ridges.
 
 The largest extant population of draconians is the remnants of the Dragon Phalanx in Vasloria. Created by Good King Omund's wizard Vitae, the Dragon Phalanx once numbered several thousand of the king's greatest knights, ensuring the rule of law across the land.
 
@@ -510,7 +510,7 @@ The cloaked figure at the back of the inn stood up. As they did so, their hood s
 
 A tall, broad draconian stepped into the light. He was old, his scales battle-scarred. He rested one clawed hand on the pommel of a mace that hung from a loop on his belt, while the other carried his shield by a strap. His flat, expressionless look was more terrifying than any threatening glower.
 
-The three human bandits took a step back. One of the dwarves just sneered—then, sensing his human compatriots' reluctance, turned to look at them. "What's this?" the lead dwarf growled.
+The three human bandits took a step back. One of the dwarves just sneered-then, sensing his human compatriots' reluctance, turned to look at them. "What's this?" the lead dwarf growled.
 
 Looking at the dragon knight, another bandit added quickly, "We didn't know there was one of you here."
 
@@ -532,7 +532,7 @@ The dragon knight sneered and bared a set of sharp teeth. "*Look for someone els
 
 The man scurried around to stand in front of the draconian, blocking his way. He took off his worn cap and held it over his breast. "I'm sorry sir, but there ain't no one else. There's this new tax, you see, from the new baron. And a priest says he's of Saint Ajax."
 
-The knight bared his impressive teeth, ready to scare Jago and the other two away—when someone else spoke.
+The knight bared his impressive teeth, ready to scare Jago and the other two away-when someone else spoke.
 
 "You might want to hear 'em out, Vaant," said a voice from the table the three peasants had been sitting at.
 
@@ -558,23 +558,23 @@ The draconian sniffed, released John's hand. "Sure," he said. "But why *me*?"
 
 The inn had mostly gone back to its business but the three peasants watched intently. Eventually the dragon knight spoke again, his voice low.
 
-"I owe you a lot, John—but not everything."
+"I owe you a lot, John-but not everything."
 
 "I'm not asking everything."
 
 "No, that's not how it starts. But I have this feeling that's how it'll end."
 
-"What does your oath say? 'Even should the sun stop in the sky, even should the night—'"
+"What does your oath say? 'Even should the sun stop in the sky, even should the night-'"
 
-"John," the dragon knight said, his voice suddenly sad. Exasperated. "You don't want to quote my oath to me. You really don't. I liked serving with you. I have fond memories of that time—of you. Don't spoil it." He looked at his friend, the three peasants, then shook his head and turned to leave the inn.
+"John," the dragon knight said, his voice suddenly sad. Exasperated. "You don't want to quote my oath to me. You really don't. I liked serving with you. I have fond memories of that time-of you. Don't spoil it." He looked at his friend, the three peasants, then shook his head and turned to leave the inn.
 
 "Vaant," Sir John said, following. "Sir Vaantikalisax, by your *oath*!" The dragon knight stopped and spun around. Everyone in the inn was watching the show again. Act two.
 
 "The people need leadership," John said.
 
-Vaantikalisax's reptile eyes flashed in anger. "They *had it*! Thirty years, and what did it amount to?! I watched Ajax … I watched him …" The dragon knight's eyes flinched. His clawed hands tightened on his mace and shield. "I watched the oath … fail."
+Vaantikalisax's reptile eyes flashed in anger. "They *had it*! Thirty years, and what did it amount to?! I watched Ajax... I watched him..." The dragon knight's eyes flinched. His clawed hands tightened on his mace and shield. "I watched the oath... fail."
 
-"Vaant … Vaant, the Dragon Phalanx didn't *fail*. You were *betrayed*. It was Mandrake! One of your own, don't you get it? You're just as fallible as the rest of us. You were never 'incorruptible.' It's just what we wanted to believe. You're just people—like the rest of us."
+"Vaant... Vaant, the Dragon Phalanx didn't *fail*. You were *betrayed*. It was Mandrake! One of your own, don't you get it? You're just as fallible as the rest of us. You were never 'incorruptible.' It's just what we wanted to believe. You're just people-like the rest of us."
 
 The dragon knight looked at the people around him, at the three peasants desperate for someone, anyone, to help them. Then he looked back to his friend.
 
@@ -650,9 +650,9 @@ You possess wings powerful enough to take you airborne. While using your wings t
 
 ## Dwarf
 
-Possessed of a strength that belies their size, dwarves have flesh infused with stone—a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel dwarves.
+Possessed of a strength that belies their size, dwarves have flesh infused with stone-a silico-organic hybrid making them physically denser than other humanoids. They enjoy a reputation in Orden as savvy engineers and technologists thanks to the lore they inherited from their elder siblings, the long-extinct steel dwarves.
 
-Dwarves are the children of the elder god Ord, and a common phrase among dwarves is "Ord made the world"—their way of saying, "What will be, will be." They take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many dwarves leave their homes to see the world and seek glory in Ord's name.
+Dwarves are the children of the elder god Ord, and a common phrase among dwarves is "Ord made the world"-their way of saying, "What will be, will be." They take great pride in knowing that along with Aan, Eth, and Kul, their god created the mundane world, and many dwarves leave their homes to see the world and seek glory in Ord's name.
 
 ### On Dwarves
 
@@ -682,7 +682,7 @@ The dwarf ignored them.
 
 The dwarf paused. "High theochron?" he said. "A lofty title. Far too lofty for a job such as this," he went back to work and a moment later there were two more smoking blocks. He cleared them away.
 
-"There's a job for nine …" John hesitated. *Ratcatchers* didn't seem appropriate. He went with his gut. "Heroes. In Bedegar. A village looking for someone to stand against Lord Saxton."
+"There's a job for nine..." John hesitated. *Ratcatchers* didn't seem appropriate. He went with his gut. "Heroes. In Bedegar. A village looking for someone to stand against Lord Saxton."
 
 "Mm. I have heard of this one," the dwarf said, seemingly uninterested. He hurled the smaller blocks into a pile and went to heft a new stone to cut. "A foul tyrant. Well-suited to these times. Perhaps the people deserve him."
 
@@ -716,7 +716,7 @@ The dwarf said nothing. He looked at the coin in his hand.
 
 "My people left me!" Dazar barked. "When they embraced Ajax!" Embers just watched the dwarf. His rage subsided as quickly as it came.
 
-"I thought … I thought leaving might inspire my people to …" He looked at the nearby village. "Eh, it matters not. I could not have stayed in any event. I lack the stomach for tyranny."
+"I thought... I thought leaving might inspire my people to..." He looked at the nearby village. "Eh, it matters not. I could not have stayed in any event. I lack the stomach for tyranny."
 
 "Kal Kalavar's new thane is not an easy problem to solve," John said with sympathy. "Saxton is."
 
@@ -734,13 +734,13 @@ No one spoke for a moment. "These people," Dazar said. "These villagers. Do they
 
 John didn't answer.
 
-"Do they know that asking us for help, asking *you*," Dazar looked Sir John up and down "… means starting something they *must* see through to the end? It means hardship, privation, *death* buying a future for their children? You told them this?"
+"Do they know that asking us for help, asking *you*," Dazar looked Sir John up and down "... means starting something they *must* see through to the end? It means hardship, privation, *death* buying a future for their children? You told them this?"
 
 John shook his head.
 
-"Well why not?!" Dazar demanded. "You of all people must understand …"
+"Well why not?!" Dazar demanded. "You of all people must understand..."
 
-"Dazar," John said, and his measured voice was a quick counter to Dazar's protest. "These people are already at their wits' end. Just … just surviving, putting food on the table, keeping their children warm. Giving them *hope*. It's already more than should be asked of anyone. And then coming to us, swallowing their pride. Asking us for aid.
+"Dazar," John said, and his measured voice was a quick counter to Dazar's protest. "These people are already at their wits' end. Just... just surviving, putting food on the table, keeping their children warm. Giving them *hope*. It's already more than should be asked of anyone. And then coming to us, swallowing their pride. Asking us for aid.
 
 "It's our job to understand the job *for* them." Then, quieter, John added, "And forgive them, ahead of time, for when they weaken, and give in to fear."
 
@@ -816,7 +816,7 @@ Meliora gasped. Credan frowned, and Wenna hushed her. Dade was ushered back towa
 
 The elves were tall, taller than an adult human, but seemed always to crouch as soon as they stopped moving. Their eyes were unsettling, widely spaced and huge. But it was their ears, long and tall and twisting and set with great scoops to catch all sound, that marked them as elves of the wode.
 
-"Admittedly, though, most terrans regret the experience." The voice they had heard called out again—from above. The children looked up and now saw a wode elf with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
+"Admittedly, though, most terrans regret the experience." The voice they had heard called out again-from above. The children looked up and now saw a wode elf with long, furry, twisting ears and nut-brown skin smiling down at them. They wore a brightly colored outfit. The children watched the elf leap lightly from branch to lower branch until finally landing with a flourish on the forest floor before them.
 
 "*Consort!*" An elf before them spoke in Yllyric as he stood from his crouch and bowed. "*We have been tracking these since they entered the wode.*"
 
@@ -832,11 +832,11 @@ The one called Rhythylthin reached out while Dade was turned, looking at the que
 
 "Nothing happens within the wode without our knowledge," the elf said. Dade spun on him and nocked another arrow. "And approval," Rhythylthin added, clenching his fist and snapping the arrow in it.
 
-"You come bearing a gift for our queen—the *Codex Dryadalis*." Llyander nodded at the heavy scroll Meliora carried. "My cousin Rhythylthin here was sent to capture you and escort you to the Orchid Court. But I am the queen's consort, and have my own thoughts on the matter."
+"You come bearing a gift for our queen-the *Codex Dryadalis*." Llyander nodded at the heavy scroll Meliora carried. "My cousin Rhythylthin here was sent to capture you and escort you to the Orchid Court. But I am the queen's consort, and have my own thoughts on the matter."
 
-The elf smiled at the children. "But have no fear," they said. Their Vaslorian was perfect, their voice a melody. "You are safe … now." The pause before "now" spoke volumes.
+The elf smiled at the children. "But have no fear," they said. Their Vaslorian was perfect, their voice a melody. "You are safe... now." The pause before "now" spoke volumes.
 
-"Are you a … a … boy or a girl?" Wenna asked.
+"Are you a... a... boy or a girl?" Wenna asked.
 
 Llyander smiled gaily. "I am a song! I contain melodies and harmonies alike," they said. Wenna smiled.
 
@@ -850,15 +850,15 @@ In spite of his previous skepticism toward the queen's consort, Rhythylthin stra
 
 "Hmm? Do what?" Llyander asked, looking after the elves, wondering what Meliora meant.
 
-"Just … disappear like that!"
+"Just... disappear like that!"
 
 Llyander looked at the other children with a combination of wonder and annoyance. "Do terran children not play hiding games?"
 
-"Well …" Jeremy looked at Dade, who was no help. "We do, but …"
+"Well..." Jeremy looked at Dade, who was no help. "We do, but..."
 
 Llyander made a theatrical, dismissive gesture with one arm. "Well, it is the same thing, then. But for our people, it is a game we practice all our lives! We would be poor protectors of the wode if we could not conceal ourselves within it."
 
-"But that was …" Meliora was frustrated at the elf's seeming evasion. "That was *magic*!"
+"But that was..." Meliora was frustrated at the elf's seeming evasion. "That was *magic*!"
 
 "You say? Well," Llyander mused, "terrans are a part and apart, it is said. It is your blessing and your curse methinks. Perhaps someday you can explain it to me!" The elf's eyes twinkled at Meliora's frustration.
 
@@ -866,7 +866,7 @@ Llyander turned and marched off. "Come!" they called. The children ran to catch 
 
 "Where are we going?" Wenna asked.
 
-"I enjoy the favor of Lord Tear," Llyander said. "We are old friends. With me as your guide, he will treat you well—likely bestow favor upon you! You should be in anticipation of great treasure." They smiled.
+"I enjoy the favor of Lord Tear," Llyander said. "We are old friends. With me as your guide, he will treat you well-likely bestow favor upon you! You should be in anticipation of great treasure." They smiled.
 
 The elf stopped suddenly and spun toward them, serious but kindly. They pointed to each of the children in turn.
 
@@ -930,7 +930,7 @@ You have the following signature ability. Signature abilities can be used at wil
 
 Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, high elf history describes a better age, before the coming of humans and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
 
-In the millennia since their creators retired to Arcadia, the high elves built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
+In the millennia since their creators retired to Arcadia, the high elves built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before-collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
 
 ### On High Elves
 
@@ -940,7 +940,7 @@ In the millennia since their creators retired to Arcadia, the high elves built a
 
 The five children stood alone in the center of a large circular courtyard open to the sky, their wode elf escort Llyander at their side. Lord Tear, King of the High Elves, sat on a marble throne, holding the scroll of the *Codex Dryadalis* in his lap. He had not spoken since Llyander made their speech and handed the codex over. The members of the court, nobles and courtiers and learned sages, gathered to watch. Implacable warriors in golden plate with fine filigree etched into the metal stood guard around the perimeter.
 
-"They seem like …" Meliora said, searching for the words.
+"They seem like..." Meliora said, searching for the words.
 
 "Like the lords of all the world," Wenna said with awe and wonder. "And we are their prisoners," Jeremy said, looking at his brother Dade and Credan beside him.
 
@@ -956,7 +956,7 @@ At this, Lord Tear exchanged a look with Llyander, consort to Queen Imyrr. It wa
 
 The king tapped the scroll against his lap, seeming to have reached a decision.
 
-"Well done, consort. Young humans, your escort here seeks to shame me. For they know well they could have taken this prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they deliver me the power necessary to throw off the yoke of Ajax's rule. Long has Llyander resented the decision I made and sought to change it …"—he looked at Llyander—"… by changing my mind."
+"Well done, consort. Young humans, your escort here seeks to shame me. For they know well they could have taken this prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they deliver me the power necessary to throw off the yoke of Ajax's rule. Long has Llyander resented the decision I made and sought to change it..."-he looked at Llyander-"... by changing my mind."
 
 Llyander nodded deferentially, silently congratulating the king on his insight.
 
@@ -984,7 +984,7 @@ Llyander raised an eyebrow, then walked in front of the children so that as the 
 
 Wenna and Meliora nodded. Llyander nodded to the guards and guests. "This is *their* glamor. Whatever you find pleasant and attractive in another? That is what you see in them. If you value good humor, they are jesters. If you value beauty, they are breathtaking. If you find intelligence attractive, they are sages. It is not just an effect of appearance, though it is also that. It is one of *demeanor*."
 
-"But how do they *do* …"
+"But how do they *do*..."
 
 Llyander put a finger to their lips, silencing young Meliora. "It is not a thing they *do*. It is an effect in your *mind*."
 
@@ -1044,7 +1044,7 @@ But Holkatya betrayed them, and the only future a hakaan is allowed to see is th
 
 The Doomsight can happen at any moment. It does not come for all or even most hakaan, but when it comes, it is considered an act of overwhelming hubris to ignore it. Trying to escape the Doomsight means a painful, tragic death, and cursing your family to live with shame.
 
-But the only hakaan the average human meets is one trying to fulfill their doom. The human superstition—that the arrival of one or more hakaan in human lands is a sign of great forces acting in the world, auspicious times—is literally true. In dark times, many hakaan experience the Doomsight and leave their communities to venture out into the mundane world, in search of their destiny.
+But the only hakaan the average human meets is one trying to fulfill their doom. The human superstition-that the arrival of one or more hakaan in human lands is a sign of great forces acting in the world, auspicious times-is literally true. In dark times, many hakaan experience the Doomsight and leave their communities to venture out into the mundane world, in search of their destiny.
 
 Humans in Vanigar have their own word for this concept of a personal fate. "Wyrd." Traditional hakaan sometimes refer to the Doomsight as "wyrdken."
 
@@ -1060,9 +1060,9 @@ The rectangular, toothed egress demon was twelve feet tall at least, the giant a
 
 In the instant before the maw of teeth and eyeballs shut, the giant grabbed each side of the mouth, and pulled. Muscles the size of hounds bulged. Tendons like ship cables stood taught, quivering with strain. "Not today!" the giant shouted. "Not TODAY!!"
 
-As the giant forced the maw open, glowing tentacles writhed out of it, wrapping around the giant's arms, legs, neck. "Hahah!" the figure laughed. "You'll find … MY flesh …" the giant's bravado hid the fact that he was at the uttermost limits of his strength. "… too RICH … for your taste!"
+As the giant forced the maw open, glowing tentacles writhed out of it, wrapping around the giant's arms, legs, neck. "Hahah!" the figure laughed. "You'll find... MY flesh..." the giant's bravado hid the fact that he was at the uttermost limits of his strength. "... too RICH... for your taste!"
 
-John knew what the giant did not—the tendrils drained life, sapped energy. The living portal would gain the strength it needed to defeat the giant by drinking his own life force.
+John knew what the giant did not-the tendrils drained life, sapped energy. The living portal would gain the strength it needed to defeat the giant by drinking his own life force.
 
 But the arrival of the giant changed the equation. John saw a new solution. The hakaan risked his life to buy them options, and Sir John of Tor would not let the giant risk his life in vain.
 
@@ -1086,7 +1086,7 @@ They only had a moment before the demons swarmed them, but a moment was all it t
 
 The demons in midstride all turned inside out, leaving bubbling, steaming pools of organs, eyeballs, and teeth on the ground. Leaving four heroes gasping from the fight.
 
-"I told you …" Dazar said, hands on his knees. "Not to open! That book!"
+"I told you..." Dazar said, hands on his knees. "Not to open! That book!"
 
 "You didn't say 'Don't open that,'" John said, leaning back and gulping air. "You just said it was dangerous. I knew it was dangerous!"
 
@@ -1106,7 +1106,7 @@ The demons in midstride all turned inside out, leaving bubbling, steaming pools 
 
 The giant smiled "Fear? At a meeting of friends? Ah these must be treacherous times indeed if simple folk like us have cause to fear meeting strangers."
 
-"No offense," John said. "It's just that … well … we only ever see one of you when you come down from the hills. Following your doom. Which is usually a …" John tried to find a less dramatic way to say it, but nothing came to mind. "A tiding of ill-omen."
+"No offense," John said. "It's just that... well... we only ever see one of you when you come down from the hills. Following your doom. Which is usually a..." John tried to find a less dramatic way to say it, but nothing came to mind. "A tiding of ill-omen."
 
 "You are following your wyrd," Embers said.
 
@@ -1152,7 +1152,7 @@ You are exceptionally strong. You gain an edge on tests made to lift and haul he
 
 Working with your Director, you can predetermine an encounter in which you will die. When that encounter begins, you become doomed. While doomed, you automatically obtain a tier 3 outcome on tests and ability rolls, and you don't die no matter how low your Stamina falls. You then die immediately at the end of the encounter, and can't be returned to life by any means.
 
-If you don't predetermine your death encounter, you can choose to become doomed while you are dying with the Director's approval (no action required). Doing so should be reserved for encounters in which you are dying as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to you—not because you're playing a one-shot and have nothing to lose, Hacaarl.
+If you don't predetermine your death encounter, you can choose to become doomed while you are dying with the Director's approval (no action required). Doing so should be reserved for encounters in which you are dying as a result of suitable heroism, such as making a last stand against a boss or saving civilians, or when the consequences of your actions have finally caught up to you-not because you're playing a one-shot and have nothing to lose, Hacaarl.
 
 Additionally, when your Stamina reaches the negative of your winded value and you are not doomed, you turn to rubble instead of experiencing death. You are unaware of your surroundings in this state, and you can't regain Stamina or have this effect undone in any way. After 12 hours, you regain Stamina equal to your recovery value.
 
@@ -1170,9 +1170,9 @@ Your body is made to withstand the blows of your enemies. Your Might score is tr
 
 ## Human
 
-Humans belong to the world in a way the other speaking peoples do not. You can sense the presence of the supernatural—that … oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
+Humans belong to the world in a way the other speaking peoples do not. You can sense the presence of the supernatural-that... oily smell in the air, as I've heard it described. And the presence of deathless causes the hairs on the back of your neck to stand up. Or why do you think graveyards affect you so? Whatever magic is, its grip on you is light. Whatever drives the deathless, your nature rebels against it.
 
-"No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin … the dwarves and the orcs as you say. What is it that sets humans apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason."
+"No one knows why this should be. We elves have no such senses. Nor do the elementals or the kanin... the dwarves and the orcs as you say. What is it that sets humans apart? I am an historian, not a physician. I cannot say. Perhaps some of you will one day find out and teach us all the reason."
 
 ### On Humans
 
@@ -1186,25 +1186,25 @@ What do I think of humans? Well, I will tell you.
 
 I was here, teaching this class during the fire of Chaos 373. The fire *leveled this city*. Can you imagine that? Can you imagine the heat, the death, destruction that such a thing causes?
 
-*Six months* after the Great Fire, your ancestors had rebuilt … everything. I have seen many miracles in my life. Witnessing that feat might be chief among them.
+*Six months* after the Great Fire, your ancestors had rebuilt... everything. I have seen many miracles in my life. Witnessing that feat might be chief among them.
 
-Liches are almost always humans. Did you know that? I think I know why. Your lives are so short—almost as soon as you're born, you're thinking about dying, and you refuse to yield.
+Liches are almost always humans. Did you know that? I think I know why. Your lives are so short-almost as soon as you're born, you're thinking about dying, and you refuse to yield.
 
-That refusal to yield to death … to *death* … is what drives you, I think. Drives you to leave the world better than you found it. Causes ruined people to rebuild great city.
+That refusal to yield to death... to *death*... is what drives you, I think. Drives you to leave the world better than you found it. Causes ruined people to rebuild great city.
 
-We studied human history in this room. Did you feel that those great ancestors of yours were perhaps made of finer stuff than you? Do not think thus. I knew them, and I know you, and your future is greater. I sometimes think each human generation greater than the last—more courageous, more generous. Quicker to forgive.
+We studied human history in this room. Did you feel that those great ancestors of yours were perhaps made of finer stuff than you? Do not think thus. I knew them, and I know you, and your future is greater. I sometimes think each human generation greater than the last-more courageous, more generous. Quicker to forgive.
 
 Today, Ajax's name is on everyone's tongue, but we learned of many great evils that plagued this world. We met the Pharaoh Khorsekef, desperate, his power failing, as he opened the Great Tet and drank of the time stored there, becoming the Ultralich. He was defeated, and now rules the Necropolitan Ruin in the Abyssal Waste.
 
 We watched Cthrion Uroniziir try to reduce the timescape into one singular universe, wiping out reality as we know it. She was defeated, and we see her cage every day.1
 
-Each of these great evils was defeated by a coalition. The armies and heroes of many speaking peoples. And all of them—all of them—were led … by humans. That's a fact. That's history. You can look it up.
+Each of these great evils was defeated by a coalition. The armies and heroes of many speaking peoples. And all of them-all of them-were led... by humans. That's a fact. That's history. You can look it up.
 
-Is there some rare trait that makes you uniquely qualified to lead disparate peoples, bring them together to achieve great things? I think … there must be.
+Is there some rare trait that makes you uniquely qualified to lead disparate peoples, bring them together to achieve great things? I think... there must be.
 
-Those great humans, your ancestors, did not focus on differences. They did not *weigh* different people and grade them based on arbitrary traits deemed virtues and flaws. That is what Ajax does. No, those humans focused on the future. On making a better world … for all of us. A world many of them knew they would not live to see. That is a sacrifice … I can scarcely imagine.
+Those great humans, your ancestors, did not focus on differences. They did not *weigh* different people and grade them based on arbitrary traits deemed virtues and flaws. That is what Ajax does. No, those humans focused on the future. On making a better world... for all of us. A world many of them knew they would not live to see. That is a sacrifice... I can scarcely imagine.
 
-The people who stand against Ajax and tyrants like him will be just like you—normal people. Priests and scholars and merchants and farmers. Maybe even teachers.
+The people who stand against Ajax and tyrants like him will be just like you-normal people. Priests and scholars and merchants and farmers. Maybe even teachers.
 
 Stopping Ajax will require you to become something else. You must become heroes. Conduits of saints, warmasters of great armies. Censors and shadows. That may seem unlikely now, but the future has a way of surprising us.
 
@@ -1246,13 +1246,13 @@ Your human physiology allows you to fight, run, and stay awake longer than other
 
 The native denizens of Axiom, the Plane of Uttermost Law, memonek dwell in a land with lakes and trees and birds and flowers. But on this alien world, the lakes are seas of mercury, the birds glitter with wings of glass stretched gossamer thin, and the flowers' petals are iridescent metal as flexible and fragile as any earthly rose.
 
-The minds of memonek are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Orden where law and chaos mix, a sickness comes over them—an uncontrollable sensation called emotion.
+The minds of memonek are highly ordered. Their reason is their great pride. But when descending to the lower planes, including a manifold like Orden where law and chaos mix, a sickness comes over them-an uncontrollable sensation called emotion.
 
 ### On Memonek
 
 "You want to tell me what just happened?" Sir John asked. Count Revile avoided his gaze, then turned and stamped across the bloody battlefield. "I'm fine!" Revile shouted, all evidence to the contrary.
 
-"I know what I saw," John said as he followed his friend. "You went into a *bloodlust*. And it's not the first time. Listen!" John shouted, uncharacteristically, trying to get the count to pay attention. "You *asked* me for help, remember? You want to get home," John gestured to the sky, "… and you asked for help and I *said*, 'Do you remember?' I said, '*Is there anything else we should know?*'
+"I know what I saw," John said as he followed his friend. "You went into a *bloodlust*. And it's not the first time. Listen!" John shouted, uncharacteristically, trying to get the count to pay attention. "You *asked* me for help, remember? You want to get home," John gestured to the sky, "... and you asked for help and I *said*, 'Do you remember?' I said, '*Is there anything else we should know?*'
 
 "Now I *meant*, 'Is there anyone coming after you we need to know about?' But it's starting to *seem like* there's something wrong with *you*. That you *knew about* and *chose* not to tell me."
 
@@ -1262,7 +1262,7 @@ Vithyaranu, Count of the ALAV *Revile* paced back and forth, his cloak billowing
 
 Revile stopped and turned to look at the rest of the party, recovering from their wounds. The memonek's white porcelain chest heaved as he tried to calm himself. His ceramic skin looked as strong as plate, but John knew it was brittle, fragile.
 
-Count Revile took a deep breath. "We call it *velloparatha*," he said. "In your tongue it would be … worldsick. Or world-sickness? It is a thing that happens … to my people … when they come to your world. It is an illness of … of feeling. Emotion."
+Count Revile took a deep breath. "We call it *velloparatha*," he said. "In your tongue it would be... worldsick. Or world-sickness? It is a thing that happens... to my people... when they come to your world. It is an illness of... of feeling. Emotion."
 
 "Are you going mad?" John asked, his voice quiet. He wanted to give the count a chance to answer privately.
 
@@ -1272,17 +1272,17 @@ The memonek smiled ruefully. "It feels that way sometimes. I spent an hour this 
 
 "No emotions where you're from?"
 
-Count Revile shook his head. "Not like this. We are creatures of reason, we of Axiom. It is our art, our pride. Our religion sometimes methinks. We have emotions; joy, sadness, wonder, grief. But they are … a fashion. They do not *happen* to us; they are something we indulge in, out of propriety. Here … everything is order and chaos mixed. Even in *me*. In me." Revile placed his hand on his chest.
+Count Revile shook his head. "Not like this. We are creatures of reason, we of Axiom. It is our art, our pride. Our religion sometimes methinks. We have emotions; joy, sadness, wonder, grief. But they are... a fashion. They do not *happen* to us; they are something we indulge in, out of propriety. Here... everything is order and chaos mixed. Even in *me*. In me." Revile placed his hand on his chest.
 
 "In the battle today. That anger was not directed at Ajax's war dogs. It was at myself."
 
-"At yourself ? Why? What did you …?"
+"At yourself ? Why? What did you...?"
 
-"John," the memonek said, and now it was his turn to whisper. "I was afraid. Afraid of … of being wounded, of failing you, failing my friends. Of dying. And out of that fear came … enormous anger. At myself. Anger that I was so weak so … useless. Anger so … strong, so powerful … I forgot who I was."
+"John," the memonek said, and now it was his turn to whisper. "I was afraid. Afraid of... of being wounded, of failing you, failing my friends. Of dying. And out of that fear came... enormous anger. At myself. Anger that I was so weak so... useless. Anger so... strong, so powerful... I forgot who I was."
 
-John chuckled. "That's just …" He smiled broadly. "That's just normal. We all feel that way."
+John chuckled. "That's just..." He smiled broadly. "That's just normal. We all feel that way."
 
-"What? No, you don't understand …"
+"What? No, you don't understand..."
 
 "Oh I don't understand, okay, let me guess. It felt like you were gonna *piss* yourself."
 
@@ -1374,11 +1374,11 @@ Your ordered mind can't be caught off guard. You can't be made surprised.
 
 ##### Useful Emotion (1 Point)
 
-Velloparatha—the worldsickness—might hinder you, but you know how to turn your pain into something your enemies feel. At the start of any combat, you gain 1 surge.
+Velloparatha-the worldsickness-might hinder you, but you know how to turn your pain into something your enemies feel. At the start of any combat, you gain 1 surge.
 
 ## Orc
 
-An anger that cannot be hidden. A fury that drives them in battle. Orcs are famed throughout the world as consummate warriors—a reputation that the peace-loving orcs find
+An anger that cannot be hidden. A fury that drives them in battle. Orcs are famed throughout the world as consummate warriors-a reputation that the peace-loving orcs find
 
 The fifth of the speaking peoples, orcs arrived on Orden after humans and elves. They made their homes in the borderlands between those two cultures, preferring the natural forests and avoiding the elf-haunted wodes. For generations, this put them directly in the path of humans who cut down the trees and built roads and farms.
 
@@ -1390,7 +1390,7 @@ Each orc has within them a fire that causes their veins to glow once blood is dr
 
 The orc pulled her greataxe from the split skull of the newly dead ogre. Prone heroes scrambled to their feet. Dazar healed the wounded.
 
-The orc hopped down from the corpse of the defeated. "Elg was a ruin ogre," she said. "Infected with a troll disease. An inconvenience for troll-kin but to an ogre …" She indicated the mutated ogre. "You weren't to know."
+The orc hopped down from the corpse of the defeated. "Elg was a ruin ogre," she said. "Infected with a troll disease. An inconvenience for troll-kin but to an ogre..." She indicated the mutated ogre. "You weren't to know."
 
 "Oh, good," Sir John said with obvious relief. "You speak Caelian." "Yes." The orc said. She seemed distant. She gave John a look. "I speak the language of your conquerors."
 
@@ -1440,7 +1440,7 @@ Khorva frowned. "I thought the Dragon Phalanx were dead."
 
 Khorva nodded once, impressed.
 
-"We need the Howling," John said. "If we get you your tribe back …?" Khorva sighed and said nothing for several moments. After a while, she returned from her reverie to look at John.
+"We need the Howling," John said. "If we get you your tribe back...?" Khorva sighed and said nothing for several moments. After a while, she returned from her reverie to look at John.
 
 "I'd rather go fishing."
 
@@ -1544,31 +1544,31 @@ Short, averaging 31/2 feet tall, the polders' origins are obscure. They are a yo
 
 ### On Polders
 
-The three peasants—Jago, his wife Sarah, and his sister Beth—sat together watching the three heroes talk in the crowded common room of the inn. Well, Jackson Bootblack seemed to be doing most of the talking.
+The three peasants-Jago, his wife Sarah, and his sister Beth-sat together watching the three heroes talk in the crowded common room of the inn. Well, Jackson Bootblack seemed to be doing most of the talking.
 
-"This kind of shit doesn't work if it's just a bunch of ratcatchers like us," the polder said. "You need the people to rise up. Been fifteen years since Omund died—fifteen years of fighting wolves and bandits and worse. The people welcome a tyrant after that. They like order, you know? They adapt."
+"This kind of shit doesn't work if it's just a bunch of ratcatchers like us," the polder said. "You need the people to rise up. Been fifteen years since Omund died-fifteen years of fighting wolves and bandits and worse. The people welcome a tyrant after that. They like order, you know? They adapt."
 
 "If you stand on the grass long enough, it learns to lie flat," A Mist Curls Around Dying Embers said. "But what do *you* say?"
 
 "Eh?" the polder asked her. But he glanced at Sir John staring at him. "You say the people have no stomach for rebellion," Embers said. "But what about you?"
 
-"Oh," the polder said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the high elf and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just … I never met a polder before," he said.
+"Oh," the polder said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the high elf and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a polder before," he said.
 
 "Are you kidding me?" Jackson said.
 
-"No! Sorry, I just …"
+"No! Sorry, I just..."
 
 "What are you, from the moon? Where you from that you never met a polder before? There's polder in every fucking village and town from here to the sea."
 
-"Really? That's weird. I'm from Tor, I've been all over—just never met a polder before."
+"Really? That's weird. I'm from Tor, I've been all over-just never met a polder before."
 
 Jackson looked at his friend, the high elf void mage. "Am I crazy?" "You're not crazy." Embers smiled. She was enjoying watching two of her friends get to know each other. "John's just never run into one, it seems."
 
 "Well, we're adorable," the polder said, and drank some ale. "They must have been around I guess," John said. "I probably just never noticed."
 
-The polder put his drink down. "Oh, thank you. Thank you very much. You know, it's funny. I never have any problem noticing you big assholes. One of you makes about as much noise as a cow, which … I don't even know how you manage that."
+The polder put his drink down. "Oh, thank you. Thank you very much. You know, it's funny. I never have any problem noticing you big assholes. One of you makes about as much noise as a cow, which... I don't even know how you manage that."
 
-"You're talking just … my voice is just as loud as yours!"
+"You're talking just... my voice is just as loud as yours!"
 
 "I mean the way you walk around. Just the way you move, the way you stand up and sit down. You make so much goddamn noise."
 
@@ -1576,9 +1576,9 @@ Jago, Sarah, and Beth all smiled at the exchange.
 
 "Humans are loud, yes," Embers agreed.
 
-"Do we have to … can we talk about something else, please?" John said.
+"Do we have to... can we talk about something else, please?" John said.
 
-"I just …" The polder wouldn't let it go. "You seriously never … you never been to an inn? Cavall's teeth, I can't count how many inns and taverns I've been to run by polders, got polders in the kitchen or waiting tables. One of the only two things we're good at, I think."
+"I just..." The polder wouldn't let it go. "You seriously never... you never been to an inn? Cavall's teeth, I can't count how many inns and taverns I've been to run by polders, got polders in the kitchen or waiting tables. One of the only two things we're good at, I think."
 
 "Yeah?" John asked. "What's the other one?"
 
@@ -1586,11 +1586,11 @@ The little man smiled. "Getting into places we ain't supposed to be." "Now we're
 
 "Yeah, okay. To business: How to rally the people." The polder took the question seriously. "It's not hard. First, we need someone they'll rally around. I could make someone up, invent a local folk hero, but if we can find the real thing? They just need to look the part, that's all. I'll take care of the rest."
 
-"I'm working on that," John said. "But it's … slower going than I thought. I'm betting on a long shot."
+"I'm working on that," John said. "But it's... slower going than I thought. I'm betting on a long shot."
 
 "What's the holdup?"
 
-John thought about how to put what he knew into words. "You know …" He shrugged. "Some people can only be heroes if they think they're better than everyone else. Some people can only be heroes once they realize they're not. And some people …"
+John thought about how to put what he knew into words. "You know..." He shrugged. "Some people can only be heroes if they think they're better than everyone else. Some people can only be heroes once they realize they're not. And some people..."
 
 He looked at his drink, at the expensive clear glass the innkeep had given him because he recognized Sir John. He turned the glass slowly on the table, and now he was mostly talking to himself. "Some people still have to figure that out."
 
@@ -1598,19 +1598,19 @@ He looked at his drink, at the expensive clear glass the innkeep had given him b
 
 John took a deep breath and came back to reality. "Well. If we could be picky, we wouldn't need a hero," he said.
 
-The polder looked at the high elf and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story—short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre … no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
+The polder looked at the high elf and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story-short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
 
 "Where are we going to find three ogres?" John asked.
 
 "What do you mean?" Now it was the polder's turn to be confused. "What do you mean, 'What do I mean?'" John said.
 
-"I'm not … we don't need *real* ogres." Jackson looked at the elf. "Is he for real?"
+"I'm not... we don't need *real* ogres." Jackson looked at the elf. "Is he for real?"
 
 "Trust me," the void mage said.
 
 "You mean you're going to make it up?!" John exclaimed.
 
-"I …" Jackson looked with incredulity at the high elf void mage, then back at the human. "Yes, I do mean that. Does he know what I do?" he asked the elf.
+"I..." Jackson looked with incredulity at the high elf void mage, then back at the human. "Yes, I do mean that. Does he know what I do?" he asked the elf.
 
 "He'll learn." Embers smiled.
 
@@ -1622,7 +1622,7 @@ John turned to Embers. "I thought he was a thief."
 
 "You *were* a thief."
 
-"Yeah, I was with the Clock. Probably still am—they don't exactly let you just walk away. We sort of have an agreement. I agree to do what they tell me and they agree not to tell me to do anything."
+"Yeah, I was with the Clock. Probably still am-they don't exactly let you just walk away. We sort of have an agreement. I agree to do what they tell me and they agree not to tell me to do anything."
 
 "Did they kick you out, or did you quit?"
 
@@ -1632,7 +1632,7 @@ John turned to Embers. "I thought he was a thief."
 
 "I'm annoying."
 
-The elf smiled. "He's a troubadour—one of the best."
+The elf smiled. "He's a troubadour-one of the best."
 
 Sir John looked at him, nodded. "No lute, I notice. And you don't seem the type to sit by the hearth telling stories."
 
@@ -1646,7 +1646,7 @@ John turned to see.
 
 Sir Vaantikalisax loomed just inside the doorway, his scales and armor glowing in the light of the hearth fire. Sir John shot up out of his chair, a huge smile on his face.
 
-"I, uh …" Vaantikalisax said. The tall, broad draconian looked from John to the three peasants. Jago, Sarah, and Beth were beaming with even more joy than John, if that were possible.
+"I, uh..." Vaantikalisax said. The tall, broad draconian looked from John to the three peasants. Jago, Sarah, and Beth were beaming with even more joy than John, if that were possible.
 
 The dragon knight stared at them for a moment, then turned back to his friend.
 
@@ -1674,7 +1674,7 @@ If the surface you are flattened against is destroyed, this ability ends and you
 
 #### Signature Trait: Small!
 
-Your diminutive stature lets you easily get out of—or into—trouble. Your size is 1S.
+Your diminutive stature lets you easily get out of-or into-trouble. Your size is 1S.
 
 #### Purchased Polder Traits
 
@@ -1708,7 +1708,7 @@ Staying light on your feet lets you quickly get back into position. Whenever you
 
 The dead walk among us. Some of them are happier about it than others.
 
-Unlike the necromantic rituals that produce wights and wraiths and zombies, revenants rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air—and, unlike their zombified cousins, they retain all their memories and personality from life.
+Unlike the necromantic rituals that produce wights and wraiths and zombies, revenants rise from the grave through a combination of an unjust death and a burning desire for vengeance. Creatures sustained on pure will, they have no need of food or water or air-and, unlike their zombified cousins, they retain all their memories and personality from life.
 
 These revenants are rare. Many are hunted by ignorant villagers who see only their dead flesh and assume the worst. Those who survive the pitchfork brigade either choose a solitary life, often as a wandering soul seeking out living company yet constantly in fear of it, or they migrate to a metropolis such as Blackbottom or Capital, where lost souls gather to make a home.
 
@@ -1716,13 +1716,13 @@ These revenants are rare. Many are hunted by ignorant villagers who see only the
 
 "I'm telling you, we are being *followed*."
 
-"No one knows we're here. No one even knows this place *exists*! We got all day. We stash everything here, and take a sample to …" The head thief pulled a vial out of a crate stuffed with straw and looked at it.
+"No one knows we're here. No one even knows this place *exists*! We got all day. We stash everything here, and take a sample to..." The head thief pulled a vial out of a crate stuffed with straw and looked at it.
 
-"It's just …" The junior cutpurse spoke nervously. "There was this lady knight in Blackbottom sniffing around. She seemed serious. I got this weird … chill when I looked at her."
+"It's just..." The junior cutpurse spoke nervously. "There was this lady knight in Blackbottom sniffing around. She seemed serious. I got this weird... chill when I looked at her."
 
-"Hey," the head thief said, his brow furrowed as he looked at the label on the vial. "Where'd you say you bought this stuff ? You said a ship—a ship from where?"
+"Hey," the head thief said, his brow furrowed as he looked at the label on the vial. "Where'd you say you bought this stuff ? You said a ship-a ship from where?"
 
-"I dunno, uh … uh, Capital I think."
+"I dunno, uh... uh, Capital I think."
 
 The head thief looked at the panicking cutpurse. "This lady knight she have a red and blue device on her shield?"
 
@@ -1732,11 +1732,11 @@ from the outside, looked like an unremarkable section of wall.
 
 "Oh, you've got to be kidding me."
 
-"Nonono! How could she … Capital was *nine months ago!*"
+"Nonono! How could she... Capital was *nine months ago!*"
 
-"She's a revenant, idiot! She doesn't even need air. She could have walked here! Just … into the water and across the bottom of the sea! Why didn't you say anything?"
+"She's a revenant, idiot! She doesn't even need air. She could have walked here! Just... into the water and across the bottom of the sea! Why didn't you say anything?"
 
-"I did! You asshole, I just did! I been trying to tell you for—"
+"I did! You asshole, I just did! I been trying to tell you for-"
 
 "Man, there is a *difference* between, 'Hey I think we're being shadowed,' and, 'There's a deathless *copper* coming after us!'"
 
@@ -1744,7 +1744,7 @@ One of the four thieves opened a vial and dipped his dirk into the red oil withi
 
 "What is *that* gonna do? *She's already dead!*" Another knock at the hidden door. "Forget it. Let her knock. Grab as many as you can, and we'll go out the back."
 
-The head thief ran for the door out the back of the safe house. He jerked it open—and the other thieves watched as a silver flash silently flared across his forehead. Through the open door, they could see the silhouette of the knight, her open hand held up in front of her.
+The head thief ran for the door out the back of the safe house. He jerked it open-and the other thieves watched as a silver flash silently flared across his forehead. Through the open door, they could see the silhouette of the knight, her open hand held up in front of her.
 
 She clenched her hand into a fist and the *judgment* she had placed on the head cutpurse detonated, hurling him backward. He sprawled across the floor, conscious but stunned.
 
@@ -1752,13 +1752,13 @@ The gray-skinned knight walked into the room. Metal heels rang out on the wooden
 
 "Boys," Lady Filliamo said pleasantly. "Busy morning."
 
-"How did you … this is impossible, how did you *find* us?" She looked at the man groaning on the floor. "Your boss didn't tell you about the vengeance mark?"
+"How did you... this is impossible, how did you *find* us?" She looked at the man groaning on the floor. "Your boss didn't tell you about the vengeance mark?"
 
-"You marked us. Back in Capital. You marked one of us and just … just *walked* here."
+"You marked us. Back in Capital. You marked one of us and just... just *walked* here."
 
-"Don't be stupid. I marked you in Blackbottom. Capital was just normal detective work. I came here by *ship*." She smiled—black lips on pale gray skin.
+"Don't be stupid. I marked you in Blackbottom. Capital was just normal detective work. I came here by *ship*." She smiled-black lips on pale gray skin.
 
-"Come on." The braver of the three remaining thieves drew twin daggers. "She can't get all of us at—"
+"Come on." The braver of the three remaining thieves drew twin daggers. "She can't get all of us at-"
 
 Lady Filliamo made a broad gesture with her right hand and argent marks flared across the foreheads of all three thieves. A clatter of
 
@@ -1828,7 +1828,7 @@ Additionally, you have the following signature ability. Signature abilities can 
 
 ## Time Raider
 
-The original servitor species of the synliroi—evil psions with near godlike power—the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym "time raiders" was given to them by denizens of the lower worlds who, seeing the advanced technology the kuran'zoi wield, concluded they must be from the future.
+The original servitor species of the synliroi-evil psions with near godlike power-the kuran'zoi liberated themselves during the First Psychic War. In the centuries since, they built their own culture and civilization as nomads of the timescape. The exonym "time raiders" was given to them by denizens of the lower worlds who, seeing the advanced technology the kuran'zoi wield, concluded they must be from the future.
 
 Extraordinarily rare in Orden, time raiders thrive on the Sea of Stars, the Sea Between Worlds, where the winds of limbo roar.
 
@@ -1854,21 +1854,21 @@ The alien sighed. "'Blaap blaap blaap,'" she said. "You should hear yourself. Li
 
 Her taunts worked. Lycaon hauled back and punched the alien in the jaw. Her head smashed into the ruined column. She was dazed but she shook it off and laughed.
 
-"Look how easily this one is goaded!" she said. She spat out dark-blue blood and turned to the peasants gathered. "You people! Why do you let yourselves be cowed by these … *bits*? Bits of people kludged together? Even the least of you is worth more than these."
+"Look how easily this one is goaded!" she said. She spat out dark-blue blood and turned to the peasants gathered. "You people! Why do you let yourselves be cowed by these... *bits*? Bits of people kludged together? Even the least of you is worth more than these."
 
-"Perhaps from the air," Flight Captain Lyria offered, and she stroked the feathers of her giant hawk mount to calm it. "I could scout the forest around the …"
+"Perhaps from the air," Flight Captain Lyria offered, and she stroked the feathers of her giant hawk mount to calm it. "I could scout the forest around the..."
 
-"No!" Taxiarch Lycaon pointed a finger at the Hawklord and strode toward her. "*You* are the elite of Ajax's winged harriers, *I* am his chosen brigade commander. *We* are not scavengers! This one …" he stabbed a gloved finger at the alien, "… will come to heel, or I will give her to my war dogs." He turned to face the chained alien, who yawned. Lycaon seethed.
+"No!" Taxiarch Lycaon pointed a finger at the Hawklord and strode toward her. "*You* are the elite of Ajax's winged harriers, *I* am his chosen brigade commander. *We* are not scavengers! This one..." he stabbed a gloved finger at the alien, "... will come to heel, or I will give her to my war dogs." He turned to face the chained alien, who yawned. Lycaon seethed.
 
 "They may pull you apart," he said to her, and at this his squadron of soldiers, all in black leather and golden pauldrons, started making barking sounds. Then they laughed at each other.
 
 "Or I may let my crucibite melt the skin from your bones." At that, a war dog clad in leather from head to foot wearing a heavy mask with glass circles where the eyes should be and some kind of canister over his mouth stepped forward. The long thin brass tube in his hands connected to a large metal tank on his back.
 
-"Shall I let you choose?" the taxiarch said, and drew a dagger from his belt. "I will cut off one finger. If you cry out, *I* kill you. If not, another finger. And if you cry out *then* …"
+"Shall I let you choose?" the taxiarch said, and drew a dagger from his belt. "I will cut off one finger. If you cry out, *I* kill you. If not, another finger. And if you cry out *then*..."
 
 Slowly everyone assembled could make out the sounds of a conversation, quiet with a metallic ring to it. The voices got louder until eventually they could be heard.
 
-"… should be ready for anything," one voice said, deep, commanding, and images started to form around and between the war dogs, the Hawklord, and the taxiarch. Like faded images in a manuscript they seemed, gaining pigment and clarity and, eventually, depth as their voices grew louder and clearer.
+"... should be ready for anything," one voice said, deep, commanding, and images started to form around and between the war dogs, the Hawklord, and the taxiarch. Like faded images in a manuscript they seemed, gaining pigment and clarity and, eventually, depth as their voices grew louder and clearer.
 
 "Oh, thank you for the brilliant tactical advice," another voice, high pitched, piped up.
 
@@ -1882,9 +1882,9 @@ One of the villagers waved back before being shushed.
 
 John looked at the taxiarch and immediately read the situation. It was a clear enough picture.
 
-There was something about the war dogs. They loved Ajax's cruelty—reveled in it. John had crossed swords with other commanders in Ajax's army before. Ground Commander Vordokov was a professional—could be reasoned with, but he was an orc.
+There was something about the war dogs. They loved Ajax's cruelty-reveled in it. John had crossed swords with other commanders in Ajax's army before. Ground Commander Vordokov was a professional-could be reasoned with, but he was an orc.
 
-Not the war dogs—they were fanatics.
+Not the war dogs-they were fanatics.
 
 "What's this?" the taxiarch called out with a hungry grin. "Allies of the alien?" He was projecting confidence. Trying to muster his wary soldiers.
 
@@ -1902,7 +1902,7 @@ John knew what came next, but he wasn't an assassin. He had his own part to play
 
 Lycaon cocked his head at Sir John and took a few foolish steps toward the tactician. He was just out of reach. But close enough.
 
-"I see you are a man, like Ajax. Why do you lower yourself with these … creatures?" The war dog taxiarch looked at the elf, giant, polder, dwarf, and dragon knight. "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you …"—his voice lowered almost to a whisper—"… to be on the winning side for a change."
+"I see you are a man, like Ajax. Why do you lower yourself with these... creatures?" The war dog taxiarch looked at the elf, giant, polder, dwarf, and dragon knight. "Little more than slimy things crawled out of the sea? Join us. Join me. Join Ajax. It'll be nice for you..."-his voice lowered almost to a whisper-"... to be on the winning side for a change."
 
 Sir John took a deep breath, his body language changed and that was enough. Several things then happened at once, so quickly no one would later be able to say who acted first.
 
@@ -1914,7 +1914,7 @@ John felt his skin tighten as Dazar warded him, and from the sun's shadow cast b
 
 The hakaan burst into action and sped past him like a blur.
 
-At the same instant, a call—a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in his heart—the clarion call of the last Storm Knight!
+At the same instant, a call-a horn. From directly behind John a blast of sound like a chord played by a dozen trumpets, and hope sang in his heart-the clarion call of the last Storm Knight!
 
 At the sound, the orc dashed forward into a knot of wardog commandos, her axe already hewing about her.
 

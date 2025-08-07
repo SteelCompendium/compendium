@@ -14,7 +14,7 @@ type: class
 
 ## Censor
 
-Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions—or even existence—are anathema to your church.\*\*
+Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions-or even existence-are anathema to your church.\*\*
 
 As a censor, you're at your best against the strongest foes. Your judgment terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
 
@@ -93,7 +93,7 @@ Abilities</th>
 Judgment, Kit, My Life for Yours, Domain<br />
 Feature, Censor Abilities</td>
 <td>Signature, 3, 5</td>
-<td>—</td>
+<td>-</td>
 </tr>
 <tr class="even">
 <td>2nd</td>
@@ -366,9 +366,9 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 4 holy damage; push 2
 - **17+:** 6 holy damage; push 3
 
-###### Every Step … Death!
+###### Every Step... Death!
 
-*You show your foe a glimpse of their fate after death.* **Magic, Ranged, Strike Main action**
+*You show your foe a glimpse of their fate after death.*
 
 | **Magic, Ranged, Strike** |     **Main Action** |
 | ------------------------- | ------------------: |
@@ -488,7 +488,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 ###### Arrest (5 Wrath)
 
-*“I got you, you son of a bitch.”*
+*"I got you, you son of a bitch."*
 
 | **Magic, Melee, Strike, Weapon** |     **Main Action** |
 | -------------------------------- | ------------------: |
@@ -1333,7 +1333,7 @@ Choose one of the following abilities.
 
 **Trigger:** You or another hero ends their turn.
 
-**Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on poºwer rolls.
+**Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on power rolls.
 
 ##### 9th-Level Paragon Abilities
 

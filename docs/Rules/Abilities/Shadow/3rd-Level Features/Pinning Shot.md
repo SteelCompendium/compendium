@@ -20,7 +20,7 @@ type: feature/ability/shadow/3rd-level-feature
 
 ###### Pinning Shot (7 Insight)
 
-*One missile—placed well and placed hard.*
+*One missile-placed well and placed hard.*
 
 | **Ranged, Strike, Weapon** |     **Main action** |
 | -------------------------- | ------------------: |

@@ -22,7 +22,7 @@ type: feature/ability/shadow/1st-level-feature
 
 *Keep up the attack. Never give them a moment's grace.*
 
-| **—**       | **Free triggered** |
+| **-**       | **Free triggered** |
 | ----------- | -----------------: |
 | **📏 Self** |        **🎯 Self** |
 

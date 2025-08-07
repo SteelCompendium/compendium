@@ -20,7 +20,7 @@ type: feature/ability/fury/1st-level-feature
 
 ###### Out of the Way! (3 Ferocity)
 
-*Your enemies will clear your path—whether they want to or not.*
+*Your enemies will clear your path-whether they want to or not.*
 
 | **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |

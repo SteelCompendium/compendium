@@ -28,6 +28,6 @@ type: feature/ability/tactician/1st-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 3\*\*+\*\* M damage; M < WEAK, dazed (save ends)
+- **≤11:** 3 + M damage; M < WEAK, dazed (save ends)
 - **12-16:** 5 + M damage; M < AVERAGE, dazed (save ends)
-- **17+:** 8\*\*+\*\* M damage; M < STRONG, dazed (save ends)
+- **17+:** 8 + M damage; M < STRONG, dazed (save ends)

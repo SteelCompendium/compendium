@@ -17,7 +17,7 @@ type: feature/trait/troubadour/1st-level-feature
 
 ###### Revitalizing Limerick
 
-*There once was a man from Capital ...*
+*There once was a man from Capital...*
 
 | **Area, Magic, Performance** |                         **No action** |
 | ---------------------------- | ------------------------------------: |
