@@ -22,7 +22,7 @@ type: feature/ability/shadow/3rd-level-feature
 
 *You enter a flow state that makes you nearly impossible to pin down.*
 
-| **—**       | **Maneuver** |
+| **-**       | **Maneuver** |
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 

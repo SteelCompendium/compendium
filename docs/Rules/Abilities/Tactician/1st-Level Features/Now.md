@@ -20,7 +20,7 @@ type: feature/ability/tactician/1st-level-feature
 
 ###### Now! (5 Focus)
 
-*Your allies wait for your command—then unleash death!*
+*Your allies wait for your command-then unleash death!*
 
 | **Ranged**       |        **Maneuver** |
 | ---------------- | ------------------: |

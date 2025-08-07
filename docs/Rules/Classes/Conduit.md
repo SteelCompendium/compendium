@@ -63,7 +63,7 @@ Your deity grants you a Heroic Resource called piety, letting you heal and empow
 
 At the start of a combat encounter or some other stressful situation tracked in combat rounds (as determined by the Director), you gain piety equal to your Victories. At the start of each of your turns during combat, you gain 1d3 piety.
 
-Additionally, you can gain more piety by praying to the gods—but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain piety at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
+Additionally, you can gain more piety by praying to the gods-but beware! Doing so can easily draw their ire, as the gods hate to be annoyed. Before you roll to gain piety at the start of your turn, you can pray (no action required). If you do, your roll gains the following additional effects:
 
 - If the roll is a 1, you gain 1 additional piety but anger the gods! You take psychic damage equal to 1d6 + your level, which can't be reduced in any way.
 - If the roll is a 2, you gain 1 additional piety.
@@ -75,7 +75,7 @@ You lose any remaining piety at the end of the encounter.
 
 | Level | Features                                                                                                                         | Abilities                     | Domain Abilities |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------- |
-| 1st   | Deity and Domains, Piety, Domain Feature, Healing Grace, Ray of Wrath, Triggered Action, Prayer, Conduit Ward, Conduit Abilities | Two signature, 3, 5           | —                |
+| 1st   | Deity and Domains, Piety, Domain Feature, Healing Grace, Ray of Wrath, Triggered Action, Prayer, Conduit Ward, Conduit Abilities | Two signature, 3, 5           | -                |
 | 2nd   | The Lists of Heaven, Perk, Domain Feature, Domain Ability                                                                        | Two signature, 3, 5           | 5                |
 | 3rd   | Minor Miracle, 7-Piety Ability                                                                                                   | Two signature, 3, 5, 7        | 5                |
 | 4th   | Blessed Domains, Characteristic Increase, Domain Feature, Perk, Skill Increase                                                   | Two signature, 3, 5, 7        | 5                |
@@ -406,7 +406,7 @@ Choose two signature abilities from the following options. Signature abilities c
 **Power Roll + Intuition:**
 
 - **≤11:** 3 + I holy damage
-- **12–16:** 5 + I holy damage
+- **12-16:** 5 + I holy damage
 - **17+:** 8 + I holy damage
 
 **Effect:** One ally within distance gains a number of surges equal to the tier outcome of your power roll.

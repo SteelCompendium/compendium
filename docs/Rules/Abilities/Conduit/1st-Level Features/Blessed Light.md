@@ -26,7 +26,7 @@ type: feature/trait/conduit/1st-level-feature
 **Power Roll + Intuition:**
 
 - **≤11:** 3 + I holy damage
-- **12–16:** 5 + I holy damage
+- **12-16:** 5 + I holy damage
 - **17+:** 8 + I holy damage
 
 **Effect:** One ally within distance gains a number of surges equal to the tier outcome of your power roll.

@@ -28,6 +28,6 @@ type: feature/ability/tactician/1st-level-feature
 
 **Power Roll + Might:**
 
-- **≤11:** 3\*\*+\*\* M damage; you or one ally within 10 squares of you can spend a Recovery
+- **≤11:** 3 + M damage; you or one ally within 10 squares of you can spend a Recovery
 - **12-16:** 5 + M damage; you or one ally within 10 squares of you can spend a Recovery
-- **17+:** 8\*\*+\*\* M damage; you and one ally within 10 squares of you can spend a Recovery, and each of you gains an edge on the next ability roll you make during the encounter
+- **17+:** 8 + M damage; you and one ally within 10 squares of you can spend a Recovery, and each of you gains an edge on the next ability roll you make during the encounter

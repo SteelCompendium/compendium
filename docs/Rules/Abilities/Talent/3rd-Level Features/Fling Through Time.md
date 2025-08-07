@@ -29,7 +29,7 @@ type: feature/ability/talent/3rd-level-feature
 **Power Roll + Presence:**
 
 - **≤11:** 3 + P corruption damage; P < WEAK, weakened (save ends)
-- **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGER, they are weakened (save ends)
+- **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are weakened (save ends)
 - **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are weakened (save ends)
 
 **Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.

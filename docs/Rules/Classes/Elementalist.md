@@ -410,7 +410,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 ###### Meteoric Introduction
 
-*You give your enemy a gentle tap—like an asteroid impact.*
+*You give your enemy a gentle tap-like an asteroid impact.*
 
 | **Earth, Magic, Melee, Strike** |               **Main action** |
 | ------------------------------- | ----------------------------: |
@@ -709,7 +709,7 @@ You can revert back to your true form as a maneuver. You can't enter an animal f
 <td>1T</td>
 <td>+0</td>
 <td>+0/+0/+0</td>
-<td>—</td>
+<td>-</td>
 </tr>
 <tr class="odd">
 <td>Great cat</td>

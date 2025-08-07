@@ -20,7 +20,7 @@ type: feature/ability/talent/6th-level-feature
 
 ###### Synaptic Conditioning (9 Clarity)
 
-*It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!*
+*It's a subtle mindset shift. It's not that they're your enemy-you just don't like them!*
 
 | **Psionic, Melee**, **Strike, Telepathy** |     **Main action** |
 | ----------------------------------------- | ------------------: |

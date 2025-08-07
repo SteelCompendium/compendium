@@ -30,4 +30,6 @@ type: feature/ability/talent/1st-level-feature
 
 **Power Roll + Presence:**
 
-3 + P psychic damage; I < WEAK, frightened (save ends) 6 + P psychic damage; I < AVERAGE, frightened (save ends) 9 + P psychic damage; I < STRONG, frightened (save ends)
+- **≤11:** 3 + P psychic damage; I < WEAK, frightened (save ends)
+- **12-16:** 6 + P psychic damage; I < AVERAGE, frightened (save ends)
+- **17+:** 9 + P psychic damage; I < STRONG, frightened (save ends)

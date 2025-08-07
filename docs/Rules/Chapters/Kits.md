@@ -40,7 +40,7 @@ The armor provided by each kit fits into one of five categories, indicating the 
 
 ##### None
 
-If a kit provides no armor, you can wear whatever clothing you like! Robes, a fashionable tunic and pants—or your character might just loincloth it. It's totally up to you.
+If a kit provides no armor, you can wear whatever clothing you like! Robes, a fashionable tunic and pants-or your character might just loincloth it. It's totally up to you.
 
 ##### Light Armor
 
@@ -192,7 +192,7 @@ You wear no armor and wield a bow.
 
 #### Battlemind
 
-Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! The Battlemind kit harnesses the power of your mind to make you harder to move—and to make your foes easier to push around.
+Who says lightly armored heroes can't also be hard to move? You just need to employ some psionics! The Battlemind kit harnesses the power of your mind to make you harder to move-and to make your foes easier to push around.
 
 ##### Equipment
 
@@ -460,7 +460,7 @@ You wear no armor and wield only your unarmed strikes.
 
 ##### Signature Ability
 
-#### Let's Dance
+###### Let's Dance
 
 *Keeping your enemies stumbling around the battlefield is second nature to you.*
 
@@ -790,7 +790,7 @@ You wear light armor and wield a medium weapon.
 
 ###### Fancy Footwork
 
-*All combat is a dance—and you'll be the one leading.*
+*All combat is a dance-and you'll be the one leading.*
 
 | **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
@@ -806,7 +806,7 @@ You wear light armor and wield a medium weapon.
 
 #### Sword and Board
 
-The Sword and Board kit doesn't just give you a shield—it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
+The Sword and Board kit doesn't just give you a shield-it makes the shield part of your offensive arsenal. With a medium weapon in one hand and a block of steel or solid oak in the other, you protect yourself while you control the battlefield.
 
 ##### Equipment
 
@@ -923,25 +923,25 @@ The rules of the game expect that heroes always have access to their equipment. 
 
 | Kit              | Armor          | Weapon             | Stamina per Echelon | Speed | Stability | Melee Damage | Ranged Damage | Melee Distance | Ranged Distance | Disengage |
 | ---------------- | -------------- | ------------------ | ------------------- | ----- | --------- | ------------ | ------------- | -------------- | --------------- | --------- |
-| Arcane Archer    | None           | Bow                | —                   | +1    | —         | —            | +2/+2/+2      | —              | +10             | +1        |
-| Battlemind       | Light          | Medium             | +3                  | +2    | +1        | +2/+2/+2     | —             | —              | —               | —         |
-| Cloak and Dagger | Light          | Light              | +3                  | +2    | —         | +1/+1/+1     | +1/+1/+1      | —              | +5              | +1        |
-| Dual Wielder     | Medium         | Light, medium      | +6                  | +2    | —         | +2/+2/+2     | —             | —              | —               | +1        |
-| Guisarmier       | Medium         | Polearm            | +6                  | —     | +1        | +2/+2/+2     | —             | +1             | —               | —         |
-| Martial Artist   | None           | Unarmed strikes    | +3                  | +3    | —         | +2/+2/+2     | —             | —              | —               | +1        |
-| Mountain         | Heavy          | Heavy              | +9                  | —     | +2        | +0/+0/+4     | —             | —              | —               | —         |
-| Panther          | None           | Heavy              | +6                  | +1    | +1        | +0/+0/+4     | —             | —              | —               | —         |
-| Pugilist         | None           | Unarmed strikes    | +6                  | +2    | +1        | +1/+1/+1     | —             | —              | —               | —         |
-| Raider           | Light, shield  | Light              | +6                  | +1    | —         | +1/+1/+1     | +1/+1/+1      | —              | +5              | +1        |
-| Ranger           | Medium         | Bow, medium        | +6                  | +1    | —         | +1/+1/+1     | +1/+1/+1      | —              | +5              | +1        |
-| Rapid-Fire       | Light          | Bow                | +3                  | +1    | —         | —            | +2/+2/+2      | —              | +7              | +1        |
-| Retiarius        | Light          | Ensnaring, polearm | +3                  | +1    | —         | +2/+2/+2     | —             | +1             | —               | +1        |
-| Shining Armor    | Heavy, shield  | Medium             | +12                 | —     | +1        | +2/+2/+2     | —             | —              | —               | —         |
-| Sniper           | None           | Bow                | —                   | +1    | —         | —            | +0/+0/+4      | —              | +10             | +1        |
-| Spellsword       | Light, shield  | Medium             | +6                  | +1    | +1        | +2/+2/+2     | —             | —              | —               | —         |
-| Stick and Robe   | Light          | Polearm            | +3                  | +2    | —         | +1/+1/+1     | —             | +1             | —               | +1        |
-| Swashbuckler     | Light          | Medium             | +3                  | +3    | —         | +2/+2/+2     | —             | —              | —               | +1        |
-| Sword and Board  | Medium, shield | Medium             | +9                  | —     | +1        | +2/+2/+2     | —             | —              | —               | +1        |
-| Warrior Priest   | Heavy          | Light              | +9                  | +1    | +1        | +1/+1/+1     | —             | —              | —               | —         |
-| Whirlwind        | None           | Whip               | —                   | +3    | —         | +1/+1/+1     | —             | +1             | —               | +1        |
+| Arcane Archer    | None           | Bow                | -                   | +1    | -         | -            | +2/+2/+2      | -              | +10             | +1        |
+| Battlemind       | Light          | Medium             | +3                  | +2    | +1        | +2/+2/+2     | -             | -              | -               | -         |
+| Cloak and Dagger | Light          | Light              | +3                  | +2    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| Dual Wielder     | Medium         | Light, medium      | +6                  | +2    | -         | +2/+2/+2     | -             | -              | -               | +1        |
+| Guisarmier       | Medium         | Polearm            | +6                  | -     | +1        | +2/+2/+2     | -             | +1             | -               | -         |
+| Martial Artist   | None           | Unarmed strikes    | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
+| Mountain         | Heavy          | Heavy              | +9                  | -     | +2        | +0/+0/+4     | -             | -              | -               | -         |
+| Panther          | None           | Heavy              | +6                  | +1    | +1        | +0/+0/+4     | -             | -              | -               | -         |
+| Pugilist         | None           | Unarmed strikes    | +6                  | +2    | +1        | +1/+1/+1     | -             | -              | -               | -         |
+| Raider           | Light, shield  | Light              | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| Ranger           | Medium         | Bow, medium        | +6                  | +1    | -         | +1/+1/+1     | +1/+1/+1      | -              | +5              | +1        |
+| Rapid-Fire       | Light          | Bow                | +3                  | +1    | -         | -            | +2/+2/+2      | -              | +7              | +1        |
+| Retiarius        | Light          | Ensnaring, polearm | +3                  | +1    | -         | +2/+2/+2     | -             | +1             | -               | +1        |
+| Shining Armor    | Heavy, shield  | Medium             | +12                 | -     | +1        | +2/+2/+2     | -             | -              | -               | -         |
+| Sniper           | None           | Bow                | -                   | +1    | -         | -            | +0/+0/+4      | -              | +10             | +1        |
+| Spellsword       | Light, shield  | Medium             | +6                  | +1    | +1        | +2/+2/+2     | -             | -              | -               | -         |
+| Stick and Robe   | Light          | Polearm            | +3                  | +2    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
+| Swashbuckler     | Light          | Medium             | +3                  | +3    | -         | +2/+2/+2     | -             | -              | -               | +1        |
+| Sword and Board  | Medium, shield | Medium             | +9                  | -     | +1        | +2/+2/+2     | -             | -              | -               | +1        |
+| Warrior Priest   | Heavy          | Light              | +9                  | +1    | +1        | +1/+1/+1     | -             | -              | -               | -         |
+| Whirlwind        | None           | Whip               | -                   | +3    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
 |                  |                |                    |                     |       |           |              |               |                |                 |           |

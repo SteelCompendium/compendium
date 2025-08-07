@@ -14,7 +14,7 @@ type: class
 
 ## Censor
 
-Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions—or even existence—are anathema to your church.\*\*
+Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions-or even existence-are anathema to your church.\*\*
 
 As a censor, you're at your best against the strongest foes. Your judgment terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
 
@@ -93,7 +93,7 @@ Abilities</th>
 Judgment, Kit, My Life for Yours, Domain<br />
 Feature, Censor Abilities</td>
 <td>Signature, 3, 5</td>
-<td>—</td>
+<td>-</td>
 </tr>
 <tr class="even">
 <td>2nd</td>
@@ -488,7 +488,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 ###### Arrest (5 Wrath)
 
-*“I got you, you son of a bitch.”*
+*"I got you, you son of a bitch."*
 
 | **Magic, Melee, Strike, Weapon** |     **Main Action** |
 | -------------------------------- | ------------------: |

@@ -13,7 +13,6 @@ type: index
 | [Dual Wielder](../Dual%20Wielder)           |
 | [Guisarmier](../Guisarmier)                 |
 | [Kits Table](../Kits%20Table)               |
-| [Lets Dance](../Lets%20Dance)               |
 | [Martial Artist](../Martial%20Artist)       |
 | [Mountain](../Mountain)                     |
 | [Panther](../Panther)                       |

@@ -16,7 +16,7 @@ type: ancestry
 
 Children of the solar celestials created to tend their libraries and attend to the true elves as heralds, high elf history describes a better age, before the coming of humans and war. A time when the celestials were still in the world, and all that mattered was art and beauty.
 
-In the millennia since their creators retired to Arcadia, the high elves built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before—collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
+In the millennia since their creators retired to Arcadia, the high elves built a civilization for themselves, primarily living in and among the fallen celestial sky cities. With no creators left to please, the elves continue as they did before-collecting lore and knowledge, worshipping art, and turning more inward and distrusting of outsiders with each generation.
 
 ### On High Elves
 
@@ -42,7 +42,7 @@ At this, Lord Tear exchanged a look with Llyander, consort to Queen Imyrr. It wa
 
 The king tapped the scroll against his lap, seeming to have reached a decision.
 
-"Well done, consort. Young humans, your escort here seeks to shame me. For they know well they could have taken this prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they deliver me the power necessary to throw off the yoke of Ajax's rule. Long has Llyander resented the decision I made and sought to change it …"—he looked at Llyander—"… by changing my mind."
+"Well done, consort. Young humans, your escort here seeks to shame me. For they know well they could have taken this prize to their queen and earned her favor. Instead, Llyander brought it to me in the hopes that by doing so, they deliver me the power necessary to throw off the yoke of Ajax's rule. Long has Llyander resented the decision I made and sought to change it …"-he looked at Llyander-"… by changing my mind."
 
 Llyander nodded deferentially, silently congratulating the king on his insight.
 

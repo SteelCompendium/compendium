@@ -20,7 +20,7 @@ type: feature/ability/troubadour/3rd-level-feature
 
 ###### We Meet at Last (7 Drama)
 
-*You magically intertwine your fate with another creature—for better or worse.*
+*You magically intertwine your fate with another creature-for better or worse.*
 
 | **Magic, Ranged** |        **Maneuver** |
 | ----------------- | ------------------: |

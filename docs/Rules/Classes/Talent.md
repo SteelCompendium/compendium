@@ -14,7 +14,7 @@ type: class
 
 ## Talent
 
-Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a talent's abilities, can tap into the mind's full potential. You are one of those people—a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
+Arare few people are born with the potential to harness psionic power, but only those who experience an awakening, a significant event that activates a talent's abilities, can tap into the mind's full potential. You are one of those people-a master of psionics and a source of incredible power created through sheer force of will. You can move and change matter, time, gravity, the laws of physics, or another creature's mind.
 
 **As a talent, you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and talents who use too much power too quickly pay a deadly price.**
 
@@ -83,7 +83,7 @@ You lose any remaining clarity or reset any negative clarity at the end of the e
 
 | Level | Features                                                                                                                                     | Abilities                     | Tradition Abilities |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ------------------- |
-| 1st   | Talent Tradition, Clarity and Strain, Mind Spike, Psionic Augmentation, Talent Ward, Telepathic Speech, Tradition Features, Talent Abilities | Two signature, 3, 5           | —                   |
+| 1st   | Talent Tradition, Clarity and Strain, Mind Spike, Psionic Augmentation, Talent Ward, Telepathic Speech, Tradition Features, Talent Abilities | Two signature, 3, 5           | -                   |
 | 2nd   | Perk, Tradition Feature, Tradition Ability                                                                                                   | Two signature, 3, 5           | 5                   |
 | 3rd   | Scan, 7-Clarity Ability                                                                                                                      | Two signature, 3, 5, 7        | 5                   |
 | 4th   | Characteristic Increase, Mind Projection, Mind Recovery, Perk, Skill Suspensor Field                                                         | Two signature, 3, 5, 7        | 5                   |
@@ -376,7 +376,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 #### Materialize
 
-*You picture an object in your mind and give it form—directly above your opponent's head.*
+*You picture an object in your mind and give it form-directly above your opponent's head.*
 
 | **Psionic, Ranged, Resopathy, Strike** |               **Main action** |
 | -------------------------------------- | ----------------------------: |
@@ -448,7 +448,9 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 **Power Roll + Presence:**
 
-3 + P psychic damage; I < WEAK, frightened (save ends) 6 + P psychic damage; I < AVERAGE, frightened (save ends) 9 + P psychic damage; I < STRONG, frightened (save ends)
+- **≤11:** 3 + P psychic damage; I < WEAK, frightened (save ends)
+- **12-16:** 6 + P psychic damage; I < AVERAGE, frightened (save ends)
+- **17+:** 9 + P psychic damage; I < STRONG, frightened (save ends)
 
 ###### Choke (3 Clarity)
 
@@ -717,7 +719,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 **Power Roll + Presence:**
 
 - **≤11:** 3 + P corruption damage; P < WEAK, weakened (save ends)
-- **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGER, they are weakened (save ends)
+- **12-16:** 5 + P corruption damage; the target is flung through time, and if P < AVERAGE, they are weakened (save ends)
 - **17+:** 8 + P corruption damage; the target is flung through time, and if P < STRONG, they are weakened (save ends)
 
 **Effect:** A target who is flung through time is removed from the encounter map until the end of their next turn, reappearing in their original space or the nearest unoccupied space.
@@ -1048,7 +1050,7 @@ Choose one of the following abilities.
 
 ###### Synaptic Conditioning (9 Clarity)
 
-*It's a subtle mindset shift. It's not that they're your enemy—you just don't like them!*
+*It's a subtle mindset shift. It's not that they're your enemy-you just don't like them!*
 
 | **Psionic, Melee**, **Strike, Telepathy** |     **Main action** |
 | ----------------------------------------- | ------------------: |

@@ -66,7 +66,7 @@ During battles, you are fueled by the dynamic ups, downs, and upside downs of th
 
 | Level | Features                                                                                                                        | Abilities                 | Class Act Abilities |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------------- |
-| 1st   | Troubadour Class Act, Drama, Kit, Scene Partner, Routines, Class Act Features, Class Act Triggered Action, Troubadour Abilities | Signature, 3, 5           | —                   |
+| 1st   | Troubadour Class Act, Drama, Kit, Scene Partner, Routines, Class Act Features, Class Act Triggered Action, Troubadour Abilities | Signature, 3, 5           | -                   |
 | 2nd   | Appeal to the Muses, Invocation, Perk, Class Act Ability                                                                        | Signature, 3, 5           | 5                   |
 | 3rd   | Class Act Feature, 7-Drama Ability                                                                                              | Signature, 3, 5, 7        | 5                   |
 | 4th   | Characteristic Increase, Melodrama, Perk, Skill, Zeitgeist                                                                      | Signature, 3, 5, 7        | 5                   |
@@ -230,7 +230,7 @@ You have the following ability.
 
 *Your years of practicing fencing and dancing pay off on the battlefield.*
 
-| **—**       | **Maneuver** |
+| **-**       | **Maneuver** |
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
@@ -746,7 +746,7 @@ Choose one heroic ability from the following options, each of which costs 7 dram
 
 ###### We Meet at Last (7 Drama)
 
-*You magically intertwine your fate with another creature—for better or worse.*
+*You magically intertwine your fate with another creature-for better or worse.*
 
 | **Magic, Ranged** |        **Maneuver** |
 | ----------------- | ------------------: |

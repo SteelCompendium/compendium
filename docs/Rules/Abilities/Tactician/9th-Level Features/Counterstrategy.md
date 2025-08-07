@@ -22,7 +22,7 @@ type: feature/ability/tactician/9th-level-feature
 
 *I've identified a way to negate their strengths.*
 
-| **—**       | **Main action** |
+| **-**       | **Main action** |
 | ----------- | --------------: |
 | **📏 Self** |     **🎯 Self** |
 
