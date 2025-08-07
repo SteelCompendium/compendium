@@ -21,6 +21,7 @@ type: index
 | [Behold the Mystery](../1st-Level%20Features/Behold%20the%20Mystery)                                       | 3 Essence  | 1     | ability      |
 | [Bifurcated Incineration](../1st-Level%20Features/Bifurcated%20Incineration)                               |            | 1     | trait        |
 | [Breath of Dawn Remembered](../1st-Level%20Features/Breath%20of%20Dawn%20Remembered)                       |            | 1     | trait        |
+| [Earth Acolyte of Earth](../1st-Level%20Features/Earth%20Acolyte%20of%20Earth)                             |            | 1     | trait        |
 | [Enchantment of Battle](../1st-Level%20Features/Enchantment%20of%20Battle)                                 |            | 1     | trait        |
 | [Enchantment of Celerity](../1st-Level%20Features/Enchantment%20of%20Celerity)                             |            | 1     | trait        |
 | [Enchantment of Destruction](../1st-Level%20Features/Enchantment%20of%20Destruction)                       |            | 1     | trait        |
@@ -33,6 +34,7 @@ type: index
 | [Grasp of Beyond](../1st-Level%20Features/Grasp%20of%20Beyond)                                             |            | 1     | trait        |
 | [Green Acolyte of the Green](../1st-Level%20Features/Green%20Acolyte%20of%20the%20Green)                   |            | 1     | trait        |
 | [Hurl Element](../1st-Level%20Features/Hurl%20Element)                                                     |            | 1     | trait        |
+| [Invigorating Growth](../1st-Level%20Features/Invigorating%20Growth)                                       | 3 Essence  | 1     | ability      |
 | [It Is the Soul Which Hears](../1st-Level%20Features/It%20Is%20the%20Soul%20Which%20Hears)                 |            | 1     | trait        |
 | [Meteoric Introduction](../1st-Level%20Features/Meteoric%20Introduction)                                   |            | 1     | trait        |
 | [Motivate Earth](../1st-Level%20Features/Motivate%20Earth)                                                 |            | 1     | trait        |
@@ -58,6 +60,7 @@ type: index
 | [Perk](../2nd-Level%20Features/Perk)                                                                       |            | 2     | trait        |
 | [There Is No Space Between](../2nd-Level%20Features/There%20Is%20No%20Space%20Between)                     |            | 2     | trait        |
 | [Translated Through Flame](../2nd-Level%20Features/Translated%20Through%20Flame)                           | 5 Essence  | 2     | ability      |
+| [Volcanos Embrace](../2nd-Level%20Features/Volcanos%20Embrace)                                             | 5 Essence  | 2     | ability      |
 | [A Conversation With Fire](../3rd-Level%20Features/A%20Conversation%20With%20Fire)                         |            | 3     | trait        |
 | [Distance Is Only Memory](../3rd-Level%20Features/Distance%20Is%20Only%20Memory)                           |            | 3     | trait        |
 | [Earth Accepts Me](../3rd-Level%20Features/Earth%20Accepts%20Me)                                           |            | 3     | trait        |

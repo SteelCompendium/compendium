@@ -60,7 +60,7 @@ There are churches dedicated to nature or knowledge or the sun, with no clear mo
 
 Elves, dwarves, and orcs revere their own creator gods. Val, Ord, and Kul respectively. Humans, uniquely, worship many gods. The difference between the Innumerable Younger Gods of the humans and the Elder Gods who created the other speaking peoples is not well understood.
 
-Dwarves mostly venerate dwarf heroes, humans mostly worship human saints, and so on … But this is just a side effect of the fact that members of the same ancestry share the same culture and language and self-assemble along those lines. Any sufficiently large city, regardless of which species founded it, has churches and temples to gods of many species because cities attract people of many different species.
+Dwarves mostly venerate dwarf heroes, humans mostly worship human saints, and so on... But this is just a side effect of the fact that members of the same ancestry share the same culture and language and self-assemble along those lines. Any sufficiently large city, regardless of which species founded it, has churches and temples to gods of many species because cities attract people of many different species.
 
 Each culture's pantheon reflects the mores and folkways of the people who live there. In far northern Vanigar, villains in folktales often gain their power by tricking others through clever wordplay. Riddles. Though they are villains, they are clever, and this earns them some respect even from their enemies. So the Vanigar pantheon includes Holkatya, a trickster god.
 
@@ -72,7 +72,7 @@ For instance, the High City of Dalrath, a small barony in northern Aendrim, has 
 
 Because of all these gods and saints, religion in Orden is a very à la carte affair. There are human heroes in the elf pantheon. There are dwarf saints in many human pantheons. Elder or younger, the gods do not care much about their followers' biology. If you devote your life to the teachings of a god and do good works in their name, you can expect to be rewarded regardless of your ancestry. And, though the Age of Saints is long past, most folk believe it is still possible for a mortal to ascend to sainthood or herodom, even in this late age.
 
-Lastly, though rulers across the land instinctively believe the gods are paying more attention to them because they are queens or dukes or the heads of a powerful wizard order or guild … there is no evidence of this. As far as theologists can tell, the gods seem to view every soul as equally worthy. Many of the tales of saints and heroes feature characters of enormous divine power battling over the soul of a normal person with no station or power or inheritance.
+Lastly, though rulers across the land instinctively believe the gods are paying more attention to them because they are queens or dukes or the heads of a powerful wizard order or guild... there is no evidence of this. As far as theologists can tell, the gods seem to view every soul as equally worthy. Many of the tales of saints and heroes feature characters of enormous divine power battling over the soul of a normal person with no station or power or inheritance.
 
 As much as it annoys the great and the good, the gods view all mortals as equals.
 
@@ -110,7 +110,7 @@ Churches have bureaucracy just like any organization and while some prelates, ab
 
 The prayers acolytes perform in churches are little more than magical rituals. They say the right words, make the right gestures, touch the appropriate fetish or talisman, and wounds close, curses are lifted, blessings bestowed. There's no direct connection in these examples between the acolyte and their god or saint. Though, even a lowly acolyte can expect to find their prayers fall on deaf ears if they fail to uphold the tenets of their faith.
 
-Should the acolyte continue in their studies and deeds and earn the rank of conduit or censor, they gain access to greater prayers granted them by their saint. As they advance in their faith they call upon their saint more directly, and they begin to form a personal relationship with their saint. It is a feeling that develops whereby the conduit learns the … mood, for lack of a better term, of their saint or hero.
+Should the acolyte continue in their studies and deeds and earn the rank of conduit or censor, they gain access to greater prayers granted them by their saint. As they advance in their faith they call upon their saint more directly, and they begin to form a personal relationship with their saint. It is a feeling that develops whereby the conduit learns the... mood, for lack of a better term, of their saint or hero.
 
 As they gain experience, a conduit or censor may even enter into dialogue with their saint. When they call upon their saint for power in battle, their saint personally answers them. They might literally be on first-name terms. At even higher levels, conduits begin to get a sense of the greater power behind the saint or legendary hero: their god, who begins answering prayers directly. They become, in effect, little mini-saints. The pathway from high-level conduit or censor to saint is now obscure, but was once well-known. In earlier ages of the world, it was expected that certain holy heroes who had served their god and saint well would-should appropriately dramatic circumstances reveal themselves-be elevated to sainthood.
 
@@ -368,7 +368,7 @@ On the eve of a war between elves and humans that would certainly result in the 
 
 At the moment of his death, when the god-caller rang the bell of souls officially announcing her father's passing to the tribe, Khravila looked at her brother and saw hesitation. Khravila had never known doubt.
 
-She snatched her tribe's oriflamme from her father's dead hands … and ran. For many leagues she ran and the tales of the creatures-manticores, griffins, chimeras-who barred her passage passed into legend. Orc children still delight at the tricks and wordplay Khravila employed to thwart the beasts, avoid fighting, and continue her epic run.
+She snatched her tribe's oriflamme from her father's dead hands... and ran. For many leagues she ran and the tales of the creatures-manticores, griffins, chimeras-who barred her passage passed into legend. Orc children still delight at the tricks and wordplay Khravila employed to thwart the beasts, avoid fighting, and continue her epic run.
 
 Less than five hours after her father died, Khravila arrived at the Astragalus Court, forty leagues from home and while many elements of her legend are certainly mythical, the time and distance are well attested. Khravila held forth the oriflamme and announced that, should the elves continue their assault on the humans, there would be war between them and her tribe. "Chose quickly," she said. "My people are right behind me, and eager for battle." They could not have known she was bluffing.
 
@@ -586,7 +586,7 @@ The people were appalled, the White Ravine was impossible to cross for any but t
 
 The people cried and prepared for death. Gryffyn saw this, and his heart felt like it would burst. "There are stones enough in the quarry," he said enigmatically. "Yoke the oxen and bring the stones to the ravine and do not stop, even in darkness, even in rain, until the ghouls come or the quarry is empty."
 
-When the army of Cinis the Pale arrived, the people fled to the ravine, the path being easy as their carts and oxen had worn a clear road. Thinking they would throw themselves into the ravine rather than be eaten by the ghouls, they were astonished to discover … the miracle. A great stone bridge crossing the ravine. It had not existed three days prior, and all agreed it could not have taken less than a year to build.
+When the army of Cinis the Pale arrived, the people fled to the ravine, the path being easy as their carts and oxen had worn a clear road. Thinking they would throw themselves into the ravine rather than be eaten by the ghouls, they were astonished to discover... the miracle. A great stone bridge crossing the ravine. It had not existed three days prior, and all agreed it could not have taken less than a year to build.
 
 Fleeing across the bridge, the refugees found the body of Gryffyn, author of this marvel, his fingers bleeding, hammer in his hand, his heart having finally failed. He knew his labors would cost his life. But Gryffyn's Arch still stands, almost a thousand years later.
 
@@ -718,7 +718,7 @@ Years later, a fire threatened to engulf the local wode, and the elves within re
 
 Draighen proposed a trick the humans-"the men of farm and field" used when fire threaten to burn their crops after a drought. "Starve the fire," she proposed. The elves, initially curious, rejected her idea as soon as they understood it. "Cut down the trees?!" they exclaimed, and exiled the human.
 
-Refusing to give up on the elves, even after they chose to die with their forest, Draighen went to the derwic, who immediately praised her plan and were eager to help. The elves of the wode were astonished when Draighen returned with a dozen derwic who immediately began uprooting a line of trees ten miles long and a thousand feet wide. What would have taken the elves or humans many days even working together, the derwic did in an hour. The fire reached the edge of the break the walking trees had made … and died out.
+Refusing to give up on the elves, even after they chose to die with their forest, Draighen went to the derwic, who immediately praised her plan and were eager to help. The elves of the wode were astonished when Draighen returned with a dozen derwic who immediately began uprooting a line of trees ten miles long and a thousand feet wide. What would have taken the elves or humans many days even working together, the derwic did in an hour. The fire reached the edge of the break the walking trees had made... and died out.
 
 When the elves remarked upon this, taking the derwic to task for their actions, Hurolathornindrascyl, derwic's chief, looked at Draighen in confusion and then pointed to the sea of uprooted trees. "They would have moved on their own if they could! We just helped them along."
 

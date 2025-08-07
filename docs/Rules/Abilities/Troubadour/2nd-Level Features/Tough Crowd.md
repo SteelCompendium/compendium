@@ -20,7 +20,7 @@ type: feature/ability/troubadour/2nd-level-feature
 
 ###### Tough Crowd (5 Drama)
 
-*Your fans don't seem to like the opening act …*
+*Your fans don't seem to like the opening act...*
 
 | **Area, Magic, Ranged** | **Main action** |
 | ----------------------- | --------------: |

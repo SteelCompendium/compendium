@@ -277,7 +277,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Power Roll + Might:**
 
-- **≤11:** 3 + M damage\*\*
+- **≤11:** 3 + M damage
 - **12-16:** 6 + M damage
 - **17+:** 9 + M damage
 
@@ -483,7 +483,7 @@ Additionally, you make one power roll that targets each enemy you move adjacent 
 
 Choose one of the following abilities.
 
-###### Death … Death! (5 Ferocity)
+###### Death... Death! (5 Ferocity)
 
 *Your unbridled rage strikes terror in their hearts.*
 
@@ -741,7 +741,7 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 ###### To Stone! (9 Ferocity)
 
-*You channel the Primordial Chaos into blows that petrify your foe … literally.*
+*You channel the Primordial Chaos into blows that petrify your foe... literally.*
 
 | **Magic, Melee, Strike, Weapon** |     **Main action** |
 | -------------------------------- | ------------------: |

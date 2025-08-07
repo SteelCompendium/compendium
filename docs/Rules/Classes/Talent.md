@@ -18,7 +18,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 **As a talent, you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and talents who use too much power too quickly pay a deadly price.**
 
-> "I've seen what you can do! There is NO LIMIT to your power! All you have to do … is BELIEVE!"
+> "I've seen what you can do! There is NO LIMIT to your power! All you have to do... is BELIEVE!"
 >
 > **Khorva**
 
@@ -440,9 +440,9 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 *You project psionic energy out to a creature and take on a new visage in their mind.*
 
-| **Psionic, Ranged**, **Strike, Telepathy** |     **Main action** |
-| ------------------------------------------ | ------------------: |
-| **📏 Ranged 10**                           | **🎯 One creature** |
+| **Psionic, Ranged, Strike, Telepathy** |     **Main action** |
+| -------------------------------------- | ------------------: |
+| **📏 Ranged 10**                       | **🎯 One creature** |
 
 **Effect:** If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
 
@@ -872,7 +872,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 
 | **Area, Charge, Psionic, Telekinesis** |               **Main action** |
 | -------------------------------------- | ----------------------------: |
-| **📏 5 × 2 line within 1**             | **🎯 Each enemy in the area** |
+| **📏 5 x 2 line within 1**             | **🎯 Each enemy in the area** |
 
 **Effect:** You teleport to a square on the opposite side of the area before making the power roll.
 

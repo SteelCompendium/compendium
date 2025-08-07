@@ -20,7 +20,7 @@ type: feature/ability/conduit/8th-level-feature
 
 ###### Drag the Unworthy (11 Piety)
 
-You conjure an angel who moves a foe and heals your allies.\*
+*You conjure an angel who moves a foe and heals your allies.*
 
 | **Magic, Ranged, Strike** |               **Main action** |
 | ------------------------- | ----------------------------: |

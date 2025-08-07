@@ -17,7 +17,7 @@ type: feature/trait/troubadour/1st-level-feature
 
 ###### Blocking
 
-*No, no, no, you lose the audience that way. Try it like this …*
+*No, no, no, you lose the audience that way. Try it like this...*
 
 | **Area, Magic, Performance** |                    **No action** |
 | ---------------------------- | -------------------------------: |

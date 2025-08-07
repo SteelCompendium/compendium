@@ -20,7 +20,7 @@ type: feature/ability/troubadour/2nd-level-feature
 
 ###### En Garde! (5 Drama)
 
-*Wait, it's … Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!*
+*Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!*
 
 | **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |

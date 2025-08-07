@@ -15,7 +15,7 @@ type: title/2nd-echelon
 
 #### Unstoppable
 
-*I seen the goblin king run 'im through with a spear. Then I seen 'im pull 'imself back up, spear still in 'im, and headbutt the goblin king … then he pulls out the spear and throws it on the goblin king's corpse.*
+*I seen the goblin king run 'im through with a spear. Then I seen 'im pull 'imself back up, spear still in 'im, and headbutt the goblin king... then he pulls out the spear and throws it on the goblin king's corpse.*
 
 **Prerequisite:** You defeat a foe while at or below 0 Stamina.
 

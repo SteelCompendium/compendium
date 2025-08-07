@@ -156,7 +156,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### War Domain Piety and Effect
 
-- \*\*Piety:\*\*You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
 - **Prayer Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.
 
 #### 1st-Level Domain Feature
@@ -1156,7 +1156,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 ###### Invocation of Mystery (9 Piety)
 
-*"Now you see us …"*
+*"Now you see us..."*
 
 | **Area, Magic** |                          **Maneuver** |
 | --------------- | ------------------------------------: |
@@ -1196,7 +1196,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 | **Area, Magic**                    |               **Main action** |
 | ---------------------------------- | ----------------------------: |
-| **📏 Three 10 × 1 lines within 1** | **🎯 Each enemy in the area** |
+| **📏 Three 10 x 1 lines within 1** | **🎯 Each enemy in the area** |
 
 **Power Roll + Intuition:**
 
@@ -1409,7 +1409,7 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 
 ###### Drag the Unworthy (11 Piety)
 
-You conjure an angel who moves a foe and heals your allies.\*
+*You conjure an angel who moves a foe and heals your allies.*
 
 | **Magic, Ranged, Strike** |               **Main action** |
 | ------------------------- | ----------------------------: |

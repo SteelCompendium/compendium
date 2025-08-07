@@ -46,7 +46,7 @@ The dwarf ignored them.
 
 The dwarf paused. "High theochron?" he said. "A lofty title. Far too lofty for a job such as this," he went back to work and a moment later there were two more smoking blocks. He cleared them away.
 
-"There's a job for nine …" John hesitated. *Ratcatchers* didn't seem appropriate. He went with his gut. "Heroes. In Bedegar. A village looking for someone to stand against Lord Saxton."
+"There's a job for nine..." John hesitated. *Ratcatchers* didn't seem appropriate. He went with his gut. "Heroes. In Bedegar. A village looking for someone to stand against Lord Saxton."
 
 "Mm. I have heard of this one," the dwarf said, seemingly uninterested. He hurled the smaller blocks into a pile and went to heft a new stone to cut. "A foul tyrant. Well-suited to these times. Perhaps the people deserve him."
 
@@ -80,7 +80,7 @@ The dwarf said nothing. He looked at the coin in his hand.
 
 "My people left me!" Dazar barked. "When they embraced Ajax!" Embers just watched the dwarf. His rage subsided as quickly as it came.
 
-"I thought … I thought leaving might inspire my people to …" He looked at the nearby village. "Eh, it matters not. I could not have stayed in any event. I lack the stomach for tyranny."
+"I thought... I thought leaving might inspire my people to..." He looked at the nearby village. "Eh, it matters not. I could not have stayed in any event. I lack the stomach for tyranny."
 
 "Kal Kalavar's new thane is not an easy problem to solve," John said with sympathy. "Saxton is."
 
@@ -98,13 +98,13 @@ No one spoke for a moment. "These people," Dazar said. "These villagers. Do they
 
 John didn't answer.
 
-"Do they know that asking us for help, asking *you*," Dazar looked Sir John up and down "… means starting something they *must* see through to the end? It means hardship, privation, *death* buying a future for their children? You told them this?"
+"Do they know that asking us for help, asking *you*," Dazar looked Sir John up and down "... means starting something they *must* see through to the end? It means hardship, privation, *death* buying a future for their children? You told them this?"
 
 John shook his head.
 
-"Well why not?!" Dazar demanded. "You of all people must understand …"
+"Well why not?!" Dazar demanded. "You of all people must understand..."
 
-"Dazar," John said, and his measured voice was a quick counter to Dazar's protest. "These people are already at their wits' end. Just … just surviving, putting food on the table, keeping their children warm. Giving them *hope*. It's already more than should be asked of anyone. And then coming to us, swallowing their pride. Asking us for aid.
+"Dazar," John said, and his measured voice was a quick counter to Dazar's protest. "These people are already at their wits' end. Just... just surviving, putting food on the table, keeping their children warm. Giving them *hope*. It's already more than should be asked of anyone. And then coming to us, swallowing their pride. Asking us for aid.
 
 "It's our job to understand the job *for* them." Then, quieter, John added, "And forgive them, ahead of time, for when they weaken, and give in to fear."
 

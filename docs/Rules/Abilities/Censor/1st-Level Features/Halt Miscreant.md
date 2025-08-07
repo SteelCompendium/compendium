@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Halt Miscreant
 file_dpath: Censor/1st-Level Features
 item_id: halt-miscreant
-item_index: '22'
+item_index: '21'
 item_name: Halt Miscreant!
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:halt-miscreant
 scdc:
-  - 1.1.1:13.1.7.1:22
+  - 1.1.1:13.1.7.1:21
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

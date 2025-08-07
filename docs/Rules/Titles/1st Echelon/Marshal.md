@@ -15,7 +15,7 @@ type: title/1st-echelon
 
 #### Marshal
 
-*I said you had twenty-four hours to leave town. That was … what, about twenty-four hours ago?*
+*I said you had twenty-four hours to leave town. That was... what, about twenty-four hours ago?*
 
 **Prerequisite:** You join an organization that hunts criminals, such as the Far Mariners (see [Orden and the Timescape](#page-24-1) in [Chapter 1: The Basics](#page-17-3)), or you are deputized to act for the local authorities.
 

@@ -749,7 +749,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 
 | **Area, Melee, Weapon**     |               **Main action** |
 | --------------------------- | ----------------------------: |
-| **📏 10 × 1 line within 1** | **🎯 Each enemy in the area** |
+| **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
 
 **Power Roll + Agility:**
 
@@ -1013,7 +1013,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 
 | **Area, Ranged, Weapon**   |               **Main action** |
 | -------------------------- | ----------------------------: |
-| **📏 5 × 1 line within 5** | **🎯 Each enemy in the area** |
+| **📏 5 x 1 line within 5** | **🎯 Each enemy in the area** |
 
 **Power Roll + Agility:**
 

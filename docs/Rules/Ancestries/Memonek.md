@@ -22,7 +22,7 @@ The minds of memonek are highly ordered. Their reason is their great pride. But 
 
 "You want to tell me what just happened?" Sir John asked. Count Revile avoided his gaze, then turned and stamped across the bloody battlefield. "I'm fine!" Revile shouted, all evidence to the contrary.
 
-"I know what I saw," John said as he followed his friend. "You went into a *bloodlust*. And it's not the first time. Listen!" John shouted, uncharacteristically, trying to get the count to pay attention. "You *asked* me for help, remember? You want to get home," John gestured to the sky, "… and you asked for help and I *said*, 'Do you remember?' I said, '*Is there anything else we should know?*'
+"I know what I saw," John said as he followed his friend. "You went into a *bloodlust*. And it's not the first time. Listen!" John shouted, uncharacteristically, trying to get the count to pay attention. "You *asked* me for help, remember? You want to get home," John gestured to the sky, "... and you asked for help and I *said*, 'Do you remember?' I said, '*Is there anything else we should know?*'
 
 "Now I *meant*, 'Is there anyone coming after you we need to know about?' But it's starting to *seem like* there's something wrong with *you*. That you *knew about* and *chose* not to tell me."
 
@@ -32,7 +32,7 @@ Vithyaranu, Count of the ALAV *Revile* paced back and forth, his cloak billowing
 
 Revile stopped and turned to look at the rest of the party, recovering from their wounds. The memonek's white porcelain chest heaved as he tried to calm himself. His ceramic skin looked as strong as plate, but John knew it was brittle, fragile.
 
-Count Revile took a deep breath. "We call it *velloparatha*," he said. "In your tongue it would be … worldsick. Or world-sickness? It is a thing that happens … to my people … when they come to your world. It is an illness of … of feeling. Emotion."
+Count Revile took a deep breath. "We call it *velloparatha*," he said. "In your tongue it would be... worldsick. Or world-sickness? It is a thing that happens... to my people... when they come to your world. It is an illness of... of feeling. Emotion."
 
 "Are you going mad?" John asked, his voice quiet. He wanted to give the count a chance to answer privately.
 
@@ -42,17 +42,17 @@ The memonek smiled ruefully. "It feels that way sometimes. I spent an hour this 
 
 "No emotions where you're from?"
 
-Count Revile shook his head. "Not like this. We are creatures of reason, we of Axiom. It is our art, our pride. Our religion sometimes methinks. We have emotions; joy, sadness, wonder, grief. But they are … a fashion. They do not *happen* to us; they are something we indulge in, out of propriety. Here … everything is order and chaos mixed. Even in *me*. In me." Revile placed his hand on his chest.
+Count Revile shook his head. "Not like this. We are creatures of reason, we of Axiom. It is our art, our pride. Our religion sometimes methinks. We have emotions; joy, sadness, wonder, grief. But they are... a fashion. They do not *happen* to us; they are something we indulge in, out of propriety. Here... everything is order and chaos mixed. Even in *me*. In me." Revile placed his hand on his chest.
 
 "In the battle today. That anger was not directed at Ajax's war dogs. It was at myself."
 
-"At yourself ? Why? What did you …?"
+"At yourself ? Why? What did you...?"
 
-"John," the memonek said, and now it was his turn to whisper. "I was afraid. Afraid of … of being wounded, of failing you, failing my friends. Of dying. And out of that fear came … enormous anger. At myself. Anger that I was so weak so … useless. Anger so … strong, so powerful … I forgot who I was."
+"John," the memonek said, and now it was his turn to whisper. "I was afraid. Afraid of... of being wounded, of failing you, failing my friends. Of dying. And out of that fear came... enormous anger. At myself. Anger that I was so weak so... useless. Anger so... strong, so powerful... I forgot who I was."
 
-John chuckled. "That's just …" He smiled broadly. "That's just normal. We all feel that way."
+John chuckled. "That's just..." He smiled broadly. "That's just normal. We all feel that way."
 
-"What? No, you don't understand …"
+"What? No, you don't understand..."
 
 "Oh I don't understand, okay, let me guess. It felt like you were gonna *piss* yourself."
 

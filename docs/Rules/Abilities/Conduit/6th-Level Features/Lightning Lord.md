@@ -24,7 +24,7 @@ type: feature/ability/conduit/6th-level-feature
 
 | **Area, Magic**                    |               **Main action** |
 | ---------------------------------- | ----------------------------: |
-| **📏 Three 10 × 1 lines within 1** | **🎯 Each enemy in the area** |
+| **📏 Three 10 x 1 lines within 1** | **🎯 Each enemy in the area** |
 
 **Power Roll + Intuition:**
 

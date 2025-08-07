@@ -12,3 +12,4 @@ type: index
 | [Perk](../Perk)                                                   |           | 2     | trait        |
 | [There Is No Space Between](../There%20Is%20No%20Space%20Between) |           | 2     | trait        |
 | [Translated Through Flame](../Translated%20Through%20Flame)       | 5 Essence | 2     | ability      |
+| [Volcanos Embrace](../Volcanos%20Embrace)                         | 5 Essence | 2     | ability      |

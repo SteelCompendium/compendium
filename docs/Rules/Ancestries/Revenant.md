@@ -24,13 +24,13 @@ These revenants are rare. Many are hunted by ignorant villagers who see only the
 
 "I'm telling you, we are being *followed*."
 
-"No one knows we're here. No one even knows this place *exists*! We got all day. We stash everything here, and take a sample to …" The head thief pulled a vial out of a crate stuffed with straw and looked at it.
+"No one knows we're here. No one even knows this place *exists*! We got all day. We stash everything here, and take a sample to..." The head thief pulled a vial out of a crate stuffed with straw and looked at it.
 
-"It's just …" The junior cutpurse spoke nervously. "There was this lady knight in Blackbottom sniffing around. She seemed serious. I got this weird … chill when I looked at her."
+"It's just..." The junior cutpurse spoke nervously. "There was this lady knight in Blackbottom sniffing around. She seemed serious. I got this weird... chill when I looked at her."
 
 "Hey," the head thief said, his brow furrowed as he looked at the label on the vial. "Where'd you say you bought this stuff ? You said a ship-a ship from where?"
 
-"I dunno, uh … uh, Capital I think."
+"I dunno, uh... uh, Capital I think."
 
 The head thief looked at the panicking cutpurse. "This lady knight she have a red and blue device on her shield?"
 
@@ -40,9 +40,9 @@ from the outside, looked like an unremarkable section of wall.
 
 "Oh, you've got to be kidding me."
 
-"Nonono! How could she … Capital was *nine months ago!*"
+"Nonono! How could she... Capital was *nine months ago!*"
 
-"She's a revenant, idiot! She doesn't even need air. She could have walked here! Just … into the water and across the bottom of the sea! Why didn't you say anything?"
+"She's a revenant, idiot! She doesn't even need air. She could have walked here! Just... into the water and across the bottom of the sea! Why didn't you say anything?"
 
 "I did! You asshole, I just did! I been trying to tell you for-"
 
@@ -60,9 +60,9 @@ The gray-skinned knight walked into the room. Metal heels rang out on the wooden
 
 "Boys," Lady Filliamo said pleasantly. "Busy morning."
 
-"How did you … this is impossible, how did you *find* us?" She looked at the man groaning on the floor. "Your boss didn't tell you about the vengeance mark?"
+"How did you... this is impossible, how did you *find* us?" She looked at the man groaning on the floor. "Your boss didn't tell you about the vengeance mark?"
 
-"You marked us. Back in Capital. You marked one of us and just … just *walked* here."
+"You marked us. Back in Capital. You marked one of us and just... just *walked* here."
 
 "Don't be stupid. I marked you in Blackbottom. Capital was just normal detective work. I came here by *ship*." She smiled-black lips on pale gray skin.
 

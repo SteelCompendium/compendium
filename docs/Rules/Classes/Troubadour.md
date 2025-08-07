@@ -136,7 +136,7 @@ You start off with the Choreography and Revitalizing Limerick performance abilit
 
 ###### Revitalizing Limerick
 
-*There once was a man from Capital ...*
+*There once was a man from Capital...*
 
 | **Area, Magic, Performance** |                         **No action** |
 | ---------------------------- | ------------------------------------: |
@@ -176,7 +176,7 @@ You have the following performance ability, which is usable with your Routines f
 
 ###### Blocking
 
-*No, no, no, you lose the audience that way. Try it like this …*
+*No, no, no, you lose the audience that way. Try it like this...*
 
 | **Area, Magic, Performance** |                    **No action** |
 | ---------------------------- | -------------------------------: |
@@ -600,7 +600,7 @@ Choose one of the following abilities.
 
 ###### En Garde! (5 Drama)
 
-*Wait, it's … Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!*
+*Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!*
 
 | **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
@@ -630,7 +630,7 @@ Choose one of the following abilities.
 
 ###### Tough Crowd (5 Drama)
 
-*Your fans don't seem to like the opening act …*
+*Your fans don't seem to like the opening act...*
 
 | **Area, Magic, Ranged** | **Main action** |
 | ----------------------- | --------------: |
@@ -968,7 +968,7 @@ Choose one of the following abilities.
 
 ###### You're All My Understudies (9 Drama)
 
-*It's important for everyone to know each other's lines, just in case …*
+*It's important for everyone to know each other's lines, just in case...*
 
 | **Area, Magic** |                 **Maneuver** |
 | --------------- | ---------------------------: |

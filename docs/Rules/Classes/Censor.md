@@ -366,9 +366,9 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 4 holy damage; push 2
 - **17+:** 6 holy damage; push 3
 
-###### Every Step … Death!
+###### Every Step... Death!
 
-*You show your foe a glimpse of their fate after death.* **Magic, Ranged, Strike Main action**
+*You show your foe a glimpse of their fate after death.*
 
 | **Magic, Ranged, Strike** |     **Main Action** |
 | ------------------------- | ------------------: |
@@ -1333,7 +1333,7 @@ Choose one of the following abilities.
 
 **Trigger:** You or another hero ends their turn.
 
-**Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on poºwer rolls.
+**Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on power rolls.
 
 ##### 9th-Level Paragon Abilities
 

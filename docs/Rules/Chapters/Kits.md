@@ -682,7 +682,7 @@ You wear no armor and wield a bow.
 
 ###### Patient Shot
 
-*Breathe … aim … wait … then strike!*
+*Breathe... aim... wait... then strike!*
 
 | **Ranged, Strike, Weapon** |     **Main action** |
 | -------------------------- | ------------------: |
@@ -840,7 +840,7 @@ You wear medium armor and wield a shield and a medium weapon.
 
 #### Warrior Priest
 
-The Warrior Priest kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine … and the heavy armor you wear.
+The Warrior Priest kit imbues the power of the gods into your weapon, making it a smiting instrument. You wade into the fray without fear, thanks to the power of the divine... and the heavy armor you wear.
 
 ##### Equipment
 

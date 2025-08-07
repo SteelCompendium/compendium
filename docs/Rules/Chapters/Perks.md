@@ -152,7 +152,7 @@ When an ally within 5 squares fails a Presence test, you can step in and make a 
 
 Whenever you make a test that uses the Brag, Flirt, or Intimidate skills, you can use Might instead of any other characteristic the test calls for.
 
-#### So Tell Me …
+#### So Tell Me...
 
 Whenever you succeed on a Presence test to influence one or more creatures, you can ask one creature you influenced a follow-up question after the test resolves, which they must answer honestly. At the Director's discretion, the creature doesn't have to answer the question completely-or at all-if the response would put them or a loved one in danger.
 

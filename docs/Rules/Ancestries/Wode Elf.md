@@ -54,9 +54,9 @@ The one called Rhythylthin reached out while Dade was turned, looking at the que
 
 "You come bearing a gift for our queen-the *Codex Dryadalis*." Llyander nodded at the heavy scroll Meliora carried. "My cousin Rhythylthin here was sent to capture you and escort you to the Orchid Court. But I am the queen's consort, and have my own thoughts on the matter."
 
-The elf smiled at the children. "But have no fear," they said. Their Vaslorian was perfect, their voice a melody. "You are safe … now." The pause before "now" spoke volumes.
+The elf smiled at the children. "But have no fear," they said. Their Vaslorian was perfect, their voice a melody. "You are safe... now." The pause before "now" spoke volumes.
 
-"Are you a … a … boy or a girl?" Wenna asked.
+"Are you a... a... boy or a girl?" Wenna asked.
 
 Llyander smiled gaily. "I am a song! I contain melodies and harmonies alike," they said. Wenna smiled.
 
@@ -70,15 +70,15 @@ In spite of his previous skepticism toward the queen's consort, Rhythylthin stra
 
 "Hmm? Do what?" Llyander asked, looking after the elves, wondering what Meliora meant.
 
-"Just … disappear like that!"
+"Just... disappear like that!"
 
 Llyander looked at the other children with a combination of wonder and annoyance. "Do terran children not play hiding games?"
 
-"Well …" Jeremy looked at Dade, who was no help. "We do, but …"
+"Well..." Jeremy looked at Dade, who was no help. "We do, but..."
 
 Llyander made a theatrical, dismissive gesture with one arm. "Well, it is the same thing, then. But for our people, it is a game we practice all our lives! We would be poor protectors of the wode if we could not conceal ourselves within it."
 
-"But that was …" Meliora was frustrated at the elf's seeming evasion. "That was *magic*!"
+"But that was..." Meliora was frustrated at the elf's seeming evasion. "That was *magic*!"
 
 "You say? Well," Llyander mused, "terrans are a part and apart, it is said. It is your blessing and your curse methinks. Perhaps someday you can explain it to me!" The elf's eyes twinkled at Meliora's frustration.
 

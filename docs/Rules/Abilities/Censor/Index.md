@@ -23,7 +23,6 @@ type: index
 | [Censored](../1st-Level%20Features/Censored)                                                 | 5 Wrath  | 1     | ability      |
 | [Censor Order](../1st-Level%20Features/Censor%20Order)                                       |          | 1     | trait        |
 | [Driving Assault](../1st-Level%20Features/Driving%20Assault)                                 | 3 Wrath  | 1     | ability      |
-| [Every Step Death](../1st-Level%20Features/Every%20Step%20Death)                             |          | 1     | trait        |
 | [Faithful Friend](../1st-Level%20Features/Faithful%20Friend)                                 |          | 1     | trait        |
 | [Grave Speech](../1st-Level%20Features/Grave%20Speech)                                       |          | 1     | trait        |
 | [Halt Miscreant](../1st-Level%20Features/Halt%20Miscreant)                                   |          | 1     | trait        |

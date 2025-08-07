@@ -22,9 +22,9 @@ type: feature/ability/talent/1st-level-feature
 
 *You project psionic energy out to a creature and take on a new visage in their mind.*
 
-| **Psionic, Ranged**, **Strike, Telepathy** |     **Main action** |
-| ------------------------------------------ | ------------------: |
-| **📏 Ranged 10**                           | **🎯 One creature** |
+| **Psionic, Ranged, Strike, Telepathy** |     **Main action** |
+| -------------------------------------- | ------------------: |
+| **📏 Ranged 10**                       | **🎯 One creature** |
 
 **Effect:** If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
 

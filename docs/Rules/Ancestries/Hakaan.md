@@ -38,7 +38,7 @@ The rectangular, toothed egress demon was twelve feet tall at least, the giant a
 
 In the instant before the maw of teeth and eyeballs shut, the giant grabbed each side of the mouth, and pulled. Muscles the size of hounds bulged. Tendons like ship cables stood taught, quivering with strain. "Not today!" the giant shouted. "Not TODAY!!"
 
-As the giant forced the maw open, glowing tentacles writhed out of it, wrapping around the giant's arms, legs, neck. "Hahah!" the figure laughed. "You'll find … MY flesh …" the giant's bravado hid the fact that he was at the uttermost limits of his strength. "… too RICH … for your taste!"
+As the giant forced the maw open, glowing tentacles writhed out of it, wrapping around the giant's arms, legs, neck. "Hahah!" the figure laughed. "You'll find... MY flesh..." the giant's bravado hid the fact that he was at the uttermost limits of his strength. "... too RICH... for your taste!"
 
 John knew what the giant did not-the tendrils drained life, sapped energy. The living portal would gain the strength it needed to defeat the giant by drinking his own life force.
 
@@ -64,7 +64,7 @@ They only had a moment before the demons swarmed them, but a moment was all it t
 
 The demons in midstride all turned inside out, leaving bubbling, steaming pools of organs, eyeballs, and teeth on the ground. Leaving four heroes gasping from the fight.
 
-"I told you …" Dazar said, hands on his knees. "Not to open! That book!"
+"I told you..." Dazar said, hands on his knees. "Not to open! That book!"
 
 "You didn't say 'Don't open that,'" John said, leaning back and gulping air. "You just said it was dangerous. I knew it was dangerous!"
 
@@ -84,7 +84,7 @@ The demons in midstride all turned inside out, leaving bubbling, steaming pools 
 
 The giant smiled "Fear? At a meeting of friends? Ah these must be treacherous times indeed if simple folk like us have cause to fear meeting strangers."
 
-"No offense," John said. "It's just that … well … we only ever see one of you when you come down from the hills. Following your doom. Which is usually a …" John tried to find a less dramatic way to say it, but nothing came to mind. "A tiding of ill-omen."
+"No offense," John said. "It's just that... well... we only ever see one of you when you come down from the hills. Following your doom. Which is usually a..." John tried to find a less dramatic way to say it, but nothing came to mind. "A tiding of ill-omen."
 
 "You are following your wyrd," Embers said.
 

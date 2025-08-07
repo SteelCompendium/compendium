@@ -388,7 +388,7 @@ Each creature has a stability that allows them to resist forced movement. When a
 
 A creature's stability can't be less than 0, even when reduced by a penalty.
 
-##### "When a Creature Moves …"
+##### "When a Creature Moves..."
 
 Certain abilities and effects trigger when a creature moves into a particular area. Forced movement triggers these options unless otherwise noted, including an effect stating that a creature must willingly move to trigger it.
 
@@ -751,7 +751,7 @@ Combat doesn't always have to be about destroying your enemies. Sometimes it's a
 
 ##### Save Another
 
-No one earns the mantle of hero without saving a few lives. Sometimes the point of an encounter isn't to kill, but to save as many folks as you can. If the heroes rescue powerful allies from the clutches of their foes during combat, the added strength of those allies might be enough to make the remainder of the encounter trivial. When you and your companions save a griffon from a crew of poachers, the hunters become the … well, you know the rest.
+No one earns the mantle of hero without saving a few lives. Sometimes the point of an encounter isn't to kill, but to save as many folks as you can. If the heroes rescue powerful allies from the clutches of their foes during combat, the added strength of those allies might be enough to make the remainder of the encounter trivial. When you and your companions save a griffon from a crew of poachers, the hunters become the... well, you know the rest.
 
 ##### Escort
 

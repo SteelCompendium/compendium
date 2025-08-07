@@ -16,7 +16,7 @@ type: chapter
 
 # Rewards
 
-Virtue is its own reward … but wouldn't a magic sword also be kind of nice? As heroes adventure, they find and craft treasures even as they are awarded titles, earn renown, attract followers, and amass wealth. This chapter presents all the various rewards a hero can earn during their career! As you read over the rewards within, make note of the treasures and titles your hero would like to earn. Then you can start pursuing them during your adventures.
+Virtue is its own reward... but wouldn't a magic sword also be kind of nice? As heroes adventure, they find and craft treasures even as they are awarded titles, earn renown, attract followers, and amass wealth. This chapter presents all the various rewards a hero can earn during their career! As you read over the rewards within, make note of the treasures and titles your hero would like to earn. Then you can start pursuing them during your adventures.
 
 ## Treasures
 
@@ -1440,7 +1440,9 @@ Magic and psionic armor and shields are the primary tools of heroes always ready
 
 ##### Telekinetic Bulwark
 
-*An unseen force seems to draw this steel shield toward nearby creatures.* **Keywords:** Psionic, Shield
+*An unseen force seems to draw this steel shield toward nearby creatures.*
+
+**Keywords:** Psionic, Shield
 
 **Item Prerequisite:** Three ingots of steel, six crystals that resonate with psionic power
 
@@ -2222,7 +2224,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 #### Marshal
 
-*I said you had twenty-four hours to leave town. That was … what, about twenty-four hours ago?*
+*I said you had twenty-four hours to leave town. That was... what, about twenty-four hours ago?*
 
 **Prerequisite:** You join an organization that hunts criminals, such as the Far Mariners (see [Orden and the Timescape](#page-24-1) in [Chapter 1: The Basics](#page-17-3)), or you are deputized to act for the local authorities.
 
@@ -2247,7 +2249,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 
 #### Owed a Favor
 
-*The Guild's gratitude knows no bounds! We'll repay you in any way we can … short of actually paying you.*
+*The Guild's gratitude knows no bounds! We'll repay you in any way we can... short of actually paying you.*
 
 **Prerequisite:** You successfully perform a service for a powerful faction.
 
@@ -2257,7 +2259,7 @@ Additionally, the faction is a good source of information. The Director chooses 
 
 #### Presumed Dead
 
-*But … you're dead. We went to your funeral.*
+*But... you're dead. We went to your funeral.*
 
 **Prerequisite:** You die in a way that prevents your body from being recovered or examined (for instance, by falling off a cliff).
 
@@ -2396,7 +2398,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 #### Awakened
 
-*I was grappling with them, and when they died … I felt something happen. To me.*
+*I was grappling with them, and when they died... I felt something happen. To me.*
 
 **Prerequisite:** You defeat a leader or solo creature who has at least one ability with the Psionic keyword, such as a voiceless talker evolutionist.
 
@@ -2456,7 +2458,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 #### Faction Officer
 
-*If you want or need something, talk to me. I have a certain … influence in these parts.*
+*If you want or need something, talk to me. I have a certain... influence in these parts.*
 
 **Prerequisite:** You have the Faction Member title, and you greatly advance the faction's goals.
 
@@ -2586,7 +2588,7 @@ I better watch out for that banana peel!*
 
 #### Special Agent
 
-*And this is interesting … if you twist the third button on your overcoat no, don't do it now!*
+*And this is interesting... if you twist the third button on your overcoat no, don't do it now!*
 
 **Prerequisite:** A spymaster gives you an important secret mission.
 
@@ -2603,7 +2605,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 - Make a test that uses the Disguise skill. You gain an edge on the test.
 - One mundane lock you touch is unlocked.
 - Choose a square within 10 squares, even if you don't have line of effect to it. You can observe the area around that square as if you were in it.
-- You throw the boffin up to 10 squares, where it explodes in a 5 cube. Each creature in the area takes fire damage equal to 2d10 + your level. The boffin is permanently destroyed but can be replaced by your spymaster … though they don't like doing so too often.
+- You throw the boffin up to 10 squares, where it explodes in a 5 cube. Each creature in the area takes fire damage equal to 2d10 + your level. The boffin is permanently destroyed but can be replaced by your spymaster... though they don't like doing so too often.
 
 #### Sworn Hunter
 
@@ -2631,7 +2633,7 @@ Taking the Boffin benefit lets you use the following boffin properties as a mane
 
 #### Unstoppable
 
-*I seen the goblin king run 'im through with a spear. Then I seen 'im pull 'imself back up, spear still in 'im, and headbutt the goblin king … then he pulls out the spear and throws it on the goblin king's corpse.*
+*I seen the goblin king run 'im through with a spear. Then I seen 'im pull 'imself back up, spear still in 'im, and headbutt the goblin king... then he pulls out the spear and throws it on the goblin king's corpse.*
 
 **Prerequisite:** You defeat a foe while at or below 0 Stamina.
 
@@ -2692,7 +2694,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 #### Dragon Blooded
 
-*I stabbed the wyrm Axarthan in the heart and their silver blood washed over me, leaving me … as you see.*
+*I stabbed the wyrm Axarthan in the heart and their silver blood washed over me, leaving me... as you see.*
 
 **Prerequisite:** You defeat a leader or solo creature with the Dragon keyword, such as a gloom dragon.
 
@@ -2789,7 +2791,7 @@ Titles suitable for 3rd-echelon characters are presented in alphabetical order.
 
 #### Scarred
 
-*Last time we fought, I gave you a little token to remember me by … now it appears you need another reminder of my power.*
+*Last time we fought, I gave you a little token to remember me by... now it appears you need another reminder of my power.*
 
 **Prerequisite:** An enemy leader or solo creature reduces you to 0 Stamina.
 
@@ -2823,7 +2825,7 @@ Titles suitable for 4th-echelon characters are presented in alphabetical order.
 
 #### Champion Competitor
 
-*Marduk uses the Beldoit Gambit! Avanna counters with the Iron Defense and goes on the attack! Marduk's last tower is knocked down! And just like that, we have a new … world … champion!*
+*Marduk uses the Beldoit Gambit! Avanna counters with the Iron Defense and goes on the attack! Marduk's last tower is knocked down! And just like that, we have a new... world... champion!*
 
 **Prerequisite:** You beat the best in the world at a game or sport.
 

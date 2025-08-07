@@ -182,7 +182,7 @@ When an ability affects a cubic area, that area is expressed as "X cube." The nu
 
 ##### Line
 
-When an ability affects a linear area, that area is expressed as "A × B line." The number A denotes the line's length in squares, while the number B equals the line's width and height in squares. When you create a line area of effect, the squares in that area must be in a straight line. A creature or object must be within the area to be targeted by a line ability.
+When an ability affects a linear area, that area is expressed as "A x B line." The number A denotes the line's length in squares, while the number B equals the line's width and height in squares. When you create a line area of effect, the squares in that area must be in a straight line. A creature or object must be within the area to be targeted by a line ability.
 
 ##### Wall
 
@@ -855,9 +855,9 @@ Choose one signature ability from the following options. Signature abilities can
 - **12-16:** 4 holy damage; push 2
 - **17+:** 6 holy damage; push 3
 
-###### Every Step … Death!
+###### Every Step... Death!
 
-*You show your foe a glimpse of their fate after death.* **Magic, Ranged, Strike Main action**
+*You show your foe a glimpse of their fate after death.*
 
 | **Magic, Ranged, Strike** |     **Main Action** |
 | ------------------------- | ------------------: |
@@ -1822,7 +1822,7 @@ Choose one of the following abilities.
 
 **Trigger:** You or another hero ends their turn.
 
-**Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on poºwer rolls.
+**Effect:** The target takes their turn after the triggering hero, and immediately removes all conditions and negative effects on themself. During their turn, the target has a double edge on power rolls.
 
 ##### 9th-Level Paragon Abilities
 
@@ -2036,7 +2036,7 @@ Additionally, whenever you activate a domain effect by praying for piety, you ca
 
 ###### War Domain Piety and Effect
 
-- \*\*Piety:\*\*You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
+- **Piety:** You gain 2 piety the first time in an encounter that you or a creature within 10 squares takes damage greater than 10 + your level in a single turn.
 - **Prayer Effect:** Choose up to three allies within 10 squares of you, or choose yourself instead of one ally. Each target gains 2 surges.
 
 #### 1st-Level Domain Feature
@@ -3036,7 +3036,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 ###### Invocation of Mystery (9 Piety)
 
-*"Now you see us …"*
+*"Now you see us..."*
 
 | **Area, Magic** |                          **Maneuver** |
 | --------------- | ------------------------------------: |
@@ -3076,7 +3076,7 @@ Once on each subsequent turn, you can use a free maneuver to move the machine a 
 
 | **Area, Magic**                    |               **Main action** |
 | ---------------------------------- | ----------------------------: |
-| **📏 Three 10 × 1 lines within 1** | **🎯 Each enemy in the area** |
+| **📏 Three 10 x 1 lines within 1** | **🎯 Each enemy in the area** |
 
 **Power Roll + Intuition:**
 
@@ -3289,7 +3289,7 @@ Choose one heroic ability from the following options, each of which costs 11 pie
 
 ###### Drag the Unworthy (11 Piety)
 
-You conjure an angel who moves a foe and heals your allies.\*
+*You conjure an angel who moves a foe and heals your allies.*
 
 | **Magic, Ranged, Strike** |               **Main action** |
 | ------------------------- | ----------------------------: |
@@ -3581,10 +3581,6 @@ Through your studies, you know and can manipulate the seven primal elements of t
 
 You choose an elemental specialization from the following options: earth, fire, green, or void. Your elemental specialization is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)
 
-##### Earth: Acolyte of Earth
-
-You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your stability increases by 1 until the start of your next turn. This benefit is cumulative.
-
 ###### Elementalist Advancement Table
 
 | Level | Features                                                                                                                                                                                            | Abilities                           |
@@ -3599,6 +3595,10 @@ You harness the flow of earth magic to become harder to move. Whenever you use a
 | 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 | 9th   | Grand Wyrding, New 11-Essence Ability                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 | 10th  | Characteristic Increase, Breath, Essential Being, One, Perk, Skill Increase                                                                                                                         | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+
+##### Earth: Acolyte of Earth
+
+You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your stability increases by 1 until the start of your next turn. This benefit is cumulative.
 
 ##### Fire: Acolyte of Fire
 
@@ -5087,7 +5087,7 @@ Each enemy who ends their turn within 3 squares of the tree is restrained until 
 - **12-16:** M < AVERAGE, prone
 - **17+:** M < STRONG, prone
 
-**Effect:** You create a fissure in the ground adjacent to you that is a 10 × 2 line and 6 squares deep. Each creature in the area who is prone and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.
+**Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who is prone and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.
 
 ### 9th-Level Features
 
@@ -5153,7 +5153,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 
 - **≤11:** 13 + R fire damage; I < WEAK, dazed (save ends)
 - **12-16:** 18 + R fire damage; I < AVERAGE, dazed (save ends)
-- **17+:** 25 + Rfire damage; I < STRONG, dazed (save ends)
+- **17+:** 25 + R fire damage; I < STRONG, dazed (save ends)
 
 **Effect:** This damage ignores immunity.
 
@@ -5487,7 +5487,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Power Roll + Might:**
 
-- **≤11:** 3 + M damage\*\*
+- **≤11:** 3 + M damage
 - **12-16:** 6 + M damage
 - **17+:** 9 + M damage
 
@@ -5693,7 +5693,7 @@ Additionally, you make one power roll that targets each enemy you move adjacent 
 
 Choose one of the following abilities.
 
-###### Death … Death! (5 Ferocity)
+###### Death... Death! (5 Ferocity)
 
 *Your unbridled rage strikes terror in their hearts.*
 
@@ -5951,7 +5951,7 @@ Choose one heroic ability from the following options, each of which costs 9 fero
 
 ###### To Stone! (9 Ferocity)
 
-*You channel the Primordial Chaos into blows that petrify your foe … literally.*
+*You channel the Primordial Chaos into blows that petrify your foe... literally.*
 
 | **Magic, Melee, Strike, Weapon** |     **Main action** |
 | -------------------------------- | ------------------: |
@@ -6954,7 +6954,7 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Power Roll + Agility:**
 
-- \*\*≤11:\*\*4 + A damage; push 2
+- **≤11:** 4 + A damage; push 2
 - **12-16:** 6 + A damage; push 4
 - **17+:** 8 + A damage; push 6
 
@@ -8543,7 +8543,7 @@ Choose one heroic ability from the following options, each of which costs 9 insi
 
 | **Area, Melee, Weapon**     |               **Main action** |
 | --------------------------- | ----------------------------: |
-| **📏 10 × 1 line within 1** | **🎯 Each enemy in the area** |
+| **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
 
 **Power Roll + Agility:**
 
@@ -8807,7 +8807,7 @@ Choose one heroic ability from the following options, each of which costs 11 ins
 
 | **Area, Ranged, Weapon**   |               **Main action** |
 | -------------------------- | ----------------------------: |
-| **📏 5 × 1 line within 5** | **🎯 Each enemy in the area** |
+| **📏 5 x 1 line within 5** | **🎯 Each enemy in the area** |
 
 **Power Roll + Agility:**
 
@@ -10005,7 +10005,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 **As a talent, you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and talents who use too much power too quickly pay a deadly price.**
 
-> "I've seen what you can do! There is NO LIMIT to your power! All you have to do … is BELIEVE!"
+> "I've seen what you can do! There is NO LIMIT to your power! All you have to do... is BELIEVE!"
 >
 > **Khorva**
 
@@ -10427,9 +10427,9 @@ Choose one heroic ability from the following options, each of which costs 3 clar
 
 *You project psionic energy out to a creature and take on a new visage in their mind.*
 
-| **Psionic, Ranged**, **Strike, Telepathy** |     **Main action** |
-| ------------------------------------------ | ------------------: |
-| **📏 Ranged 10**                           | **🎯 One creature** |
+| **Psionic, Ranged, Strike, Telepathy** |     **Main action** |
+| -------------------------------------- | ------------------: |
+| **📏 Ranged 10**                       | **🎯 One creature** |
 
 **Effect:** If you target an ally, they gain temporary Stamina equal to three times your Presence score, and they can end one effect on them that is ended by a saving throw or that ends at the end of their turn. If you target an enemy, you make a power roll.
 
@@ -10859,7 +10859,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 
 | **Area, Charge, Psionic, Telekinesis** |               **Main action** |
 | -------------------------------------- | ----------------------------: |
-| **📏 5 × 2 line within 1**             | **🎯 Each enemy in the area** |
+| **📏 5 x 2 line within 1**             | **🎯 Each enemy in the area** |
 
 **Effect:** You teleport to a square on the opposite side of the area before making the power roll.
 
@@ -11523,7 +11523,7 @@ You start off with the Choreography and Revitalizing Limerick performance abilit
 
 ###### Revitalizing Limerick
 
-*There once was a man from Capital ...*
+*There once was a man from Capital...*
 
 | **Area, Magic, Performance** |                         **No action** |
 | ---------------------------- | ------------------------------------: |
@@ -11563,7 +11563,7 @@ You have the following performance ability, which is usable with your Routines f
 
 ###### Blocking
 
-*No, no, no, you lose the audience that way. Try it like this …*
+*No, no, no, you lose the audience that way. Try it like this...*
 
 | **Area, Magic, Performance** |                    **No action** |
 | ---------------------------- | -------------------------------: |
@@ -11987,7 +11987,7 @@ Choose one of the following abilities.
 
 ###### En Garde! (5 Drama)
 
-*Wait, it's … Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!*
+*Wait, it's... Guard! Turn! Parry! Dodge! Spin! Thrust! Ha!*
 
 | **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
@@ -12017,7 +12017,7 @@ Choose one of the following abilities.
 
 ###### Tough Crowd (5 Drama)
 
-*Your fans don't seem to like the opening act …*
+*Your fans don't seem to like the opening act...*
 
 | **Area, Magic, Ranged** | **Main action** |
 | ----------------------- | --------------: |
@@ -12355,7 +12355,7 @@ Choose one of the following abilities.
 
 ###### You're All My Understudies (9 Drama)
 
-*It's important for everyone to know each other's lines, just in case …*
+*It's important for everyone to know each other's lines, just in case...*
 
 | **Area, Magic** |                 **Maneuver** |
 | --------------- | ---------------------------: |

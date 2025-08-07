@@ -16,7 +16,9 @@ type: treasure/leveled/armor
 
 ##### Telekinetic Bulwark
 
-*An unseen force seems to draw this steel shield toward nearby creatures.* **Keywords:** Psionic, Shield
+*An unseen force seems to draw this steel shield toward nearby creatures.*
+
+**Keywords:** Psionic, Shield
 
 **Item Prerequisite:** Three ingots of steel, six crystals that resonate with psionic power
 

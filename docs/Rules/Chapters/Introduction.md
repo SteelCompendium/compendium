@@ -48,7 +48,7 @@ So let's talk about what we mean when we use these terms.
 
 Strategy is: "What are we trying to do?" Break a siege, free a prisoner, rescue a captive, steal a tome of ancient lore. Strategy is about long-term goals.
 
-Tactics is about: "How are we going to do that?" We're going to … surround them! Sneak around them! Pick them off one by one! Kill their leader first. Kill their priest first! "No resurrections!"
+Tactics is about: "How are we going to do that?" We're going to... surround them! Sneak around them! Pick them off one by one! Kill their leader first. Kill their priest first! "No resurrections!"
 
 In a tactical game, *positioning matters*. So our game is played on a grid. Effects and distances are measured in squares. This means all players are focused on the same problem, and there is no ambiguity regarding where the heroes and villains are in relation to each other. The hobgoblin troopers are setting themselves up in a line to stop our tactician and fury from getting into melee with the hobgoblin war mage. We're all aware of what's happening, and we can talk about what we're going to do to stop it.
 
@@ -76,7 +76,7 @@ Likewise in our game, we don't worry about stuff that heroes in fiction tend not
 
 You don't track food such as rations, and you don't worry about how many torches you have. Light might factor into a specific environment, because that can be a fun tactical challenge, but the game doesn't expect that everyone is always worried about running out of light.
 
-Basically, we worry only about those things you'd see your characters doing in a movie, or a comic, or a novel about their adventures. Assume all the tedious stuff happens off-screen. Speaking of things happening on-screen …
+Basically, we worry only about those things you'd see your characters doing in a movie, or a comic, or a novel about their adventures. Assume all the tedious stuff happens off-screen. Speaking of things happening on-screen...
 
 ### Cinematic
 
@@ -88,7 +88,7 @@ You should imagine your tactician character leading the battle, granting your al
 
 ### Fantasy
 
-Just … you know … it's got dragons and stuff.
+Just... you know... it's got dragons and stuff.
 
 It's worth mentioning-while everyone basically already knows what fantasy means in this context, we do imagine it a little more broadly than your average classical medieval fantasy. We like that stuff! Vasloria is our medieval European fantasy analog with knights on horseback and wizards in towers. But we also like high fantasy urban intrigue, and so we're developing Capital, the City of the Great Game, the Greatest City in This or Any Age. Vasloria is mostly humans and elves and orcs and dwarves, but Capital has dozens, *hundreds* of different ancestries in it.
 
@@ -356,7 +356,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Leveled Treasure:** A treasure that can be used at will, and which increases in power as its hero wielder gains new levels.
 
-**Line:** When an ability or other effect creates a line, that area is expressed as "A × B line." The number A denotes the line's length in squares, while the number B equals the line's width and height in squares. When you create a line area of effect, the squares in that area must be in a straight line. A line effect might last only as long as it takes to affect its targets, or it might have a duration specified by the effect.
+**Line:** When an ability or other effect creates a line, that area is expressed as "A x B line." The number A denotes the line's length in squares, while the number B equals the line's width and height in squares. When you create a line area of effect, the squares in that area must be in a straight line. A line effect might last only as long as it takes to affect its targets, or it might have a duration specified by the effect.
 
 **Line of Effect:** To target a creature or object with an ability or other effect, a creature must have line of effect to that target. If any solid object, such as a wall or pillar, completely blocks the target from the creature, then the creature doesn't have line of effect.
 

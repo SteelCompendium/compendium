@@ -20,7 +20,7 @@ type: feature/ability/fury/5th-level-feature
 
 ###### To Stone! (9 Ferocity)
 
-*You channel the Primordial Chaos into blows that petrify your foe … literally.*
+*You channel the Primordial Chaos into blows that petrify your foe... literally.*
 
 | **Magic, Melee, Strike, Weapon** |     **Main action** |
 | -------------------------------- | ------------------: |

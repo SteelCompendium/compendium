@@ -24,7 +24,7 @@ type: feature/ability/shadow/5th-level-feature
 
 | **Area, Melee, Weapon**     |               **Main action** |
 | --------------------------- | ----------------------------: |
-| **📏 10 × 1 line within 1** | **🎯 Each enemy in the area** |
+| **📏 10 x 1 line within 1** | **🎯 Each enemy in the area** |
 
 **Power Roll + Agility:**
 

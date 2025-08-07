@@ -63,10 +63,6 @@ Through your studies, you know and can manipulate the seven primal elements of t
 
 You choose an elemental specialization from the following options: earth, fire, green, or void. Your elemental specialization is your subclass, and your choice of specialization determines many of the features you'll gain as you gain new levels, including one of the following benefits. (Other elemental specializations will be featured in future products.) (*Quick Build:* Fire.)
 
-##### Earth: Acolyte of Earth
-
-You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your stability increases by 1 until the start of your next turn. This benefit is cumulative.
-
 ###### Elementalist Advancement Table
 
 | Level | Features                                                                                                                                                                                            | Abilities                           |
@@ -81,6 +77,10 @@ You harness the flow of earth magic to become harder to move. Whenever you use a
 | 8th   | Perk, Specialization Feature, 11-Essence Ability                                                                                                                                                    | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 | 9th   | Grand Wyrding, New 11-Essence Ability                                                                                                                                                               | Two signature, 3, 5, 5, 7, 9, 9, 11 |
 | 10th  | Characteristic Increase, Breath, Essential Being, One, Perk, Skill Increase                                                                                                                         | Two signature, 3, 5, 5, 7, 9, 9, 11 |
+
+##### Earth: Acolyte of Earth
+
+You harness the flow of earth magic to become harder to move. Whenever you use an ability that has the Earth and Magic keywords, your stability increases by 1 until the start of your next turn. This benefit is cumulative.
 
 ##### Fire: Acolyte of Fire
 
@@ -1569,7 +1569,7 @@ Each enemy who ends their turn within 3 squares of the tree is restrained until 
 - **12-16:** M < AVERAGE, prone
 - **17+:** M < STRONG, prone
 
-**Effect:** You create a fissure in the ground adjacent to you that is a 10 × 2 line and 6 squares deep. Each creature in the area who is prone and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.
+**Effect:** You create a fissure in the ground adjacent to you that is a 10 x 2 line and 6 squares deep. Each creature in the area who is prone and size 2 or smaller falls in. Other creatures can enter the fissure or can shift to the nearest unoccupied space of their choice outside it.
 
 ### 9th-Level Features
 
@@ -1635,7 +1635,7 @@ Choose one heroic ability from the following options, each of which costs 11 ess
 
 - **≤11:** 13 + R fire damage; I < WEAK, dazed (save ends)
 - **12-16:** 18 + R fire damage; I < AVERAGE, dazed (save ends)
-- **17+:** 25 + Rfire damage; I < STRONG, dazed (save ends)
+- **17+:** 25 + R fire damage; I < STRONG, dazed (save ends)
 
 **Effect:** This damage ignores immunity.
 

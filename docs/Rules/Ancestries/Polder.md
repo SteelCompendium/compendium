@@ -28,11 +28,11 @@ The three peasants-Jago, his wife Sarah, and his sister Beth-sat together watchi
 
 "Eh?" the polder asked her. But he glanced at Sir John staring at him. "You say the people have no stomach for rebellion," Embers said. "But what about you?"
 
-"Oh," the polder said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the high elf and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just … I never met a polder before," he said.
+"Oh," the polder said, "I say it doesn't matter much what I say. Why's he looking at me like that?" he asked the high elf and pointed at Sir John. Realizing he was being rude, John shook his head to clear it. "Sorry, I just... I never met a polder before," he said.
 
 "Are you kidding me?" Jackson said.
 
-"No! Sorry, I just …"
+"No! Sorry, I just..."
 
 "What are you, from the moon? Where you from that you never met a polder before? There's polder in every fucking village and town from here to the sea."
 
@@ -42,9 +42,9 @@ Jackson looked at his friend, the high elf void mage. "Am I crazy?" "You're not 
 
 "Well, we're adorable," the polder said, and drank some ale. "They must have been around I guess," John said. "I probably just never noticed."
 
-The polder put his drink down. "Oh, thank you. Thank you very much. You know, it's funny. I never have any problem noticing you big assholes. One of you makes about as much noise as a cow, which … I don't even know how you manage that."
+The polder put his drink down. "Oh, thank you. Thank you very much. You know, it's funny. I never have any problem noticing you big assholes. One of you makes about as much noise as a cow, which... I don't even know how you manage that."
 
-"You're talking just … my voice is just as loud as yours!"
+"You're talking just... my voice is just as loud as yours!"
 
 "I mean the way you walk around. Just the way you move, the way you stand up and sit down. You make so much goddamn noise."
 
@@ -52,9 +52,9 @@ Jago, Sarah, and Beth all smiled at the exchange.
 
 "Humans are loud, yes," Embers agreed.
 
-"Do we have to … can we talk about something else, please?" John said.
+"Do we have to... can we talk about something else, please?" John said.
 
-"I just …" The polder wouldn't let it go. "You seriously never … you never been to an inn? Cavall's teeth, I can't count how many inns and taverns I've been to run by polders, got polders in the kitchen or waiting tables. One of the only two things we're good at, I think."
+"I just..." The polder wouldn't let it go. "You seriously never... you never been to an inn? Cavall's teeth, I can't count how many inns and taverns I've been to run by polders, got polders in the kitchen or waiting tables. One of the only two things we're good at, I think."
 
 "Yeah?" John asked. "What's the other one?"
 
@@ -62,11 +62,11 @@ The little man smiled. "Getting into places we ain't supposed to be." "Now we're
 
 "Yeah, okay. To business: How to rally the people." The polder took the question seriously. "It's not hard. First, we need someone they'll rally around. I could make someone up, invent a local folk hero, but if we can find the real thing? They just need to look the part, that's all. I'll take care of the rest."
 
-"I'm working on that," John said. "But it's … slower going than I thought. I'm betting on a long shot."
+"I'm working on that," John said. "But it's... slower going than I thought. I'm betting on a long shot."
 
 "What's the holdup?"
 
-John thought about how to put what he knew into words. "You know …" He shrugged. "Some people can only be heroes if they think they're better than everyone else. Some people can only be heroes once they realize they're not. And some people …"
+John thought about how to put what he knew into words. "You know..." He shrugged. "Some people can only be heroes if they think they're better than everyone else. Some people can only be heroes once they realize they're not. And some people..."
 
 He looked at his drink, at the expensive clear glass the innkeep had given him because he recognized Sir John. He turned the glass slowly on the table, and now he was mostly talking to himself. "Some people still have to figure that out."
 
@@ -74,19 +74,19 @@ He looked at his drink, at the expensive clear glass the innkeep had given him b
 
 John took a deep breath and came back to reality. "Well. If we could be picky, we wouldn't need a hero," he said.
 
-The polder looked at the high elf and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story-short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre … no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
+The polder looked at the high elf and nodded, impressed. Test passed. "Okay. Well, if you've already got a candidate, I could get things started. The other half is: We need a good story-short, punchy. Something that'll catch on, needs to be easy to relate to, but bigger than life. A tax. A toll! Bridge toll, classic. An ogre... no, three ogres. Yeah, three is better. Three ogres in Ajax's livery. A lone figure standing against them. See? Easy."
 
 "Where are we going to find three ogres?" John asked.
 
 "What do you mean?" Now it was the polder's turn to be confused. "What do you mean, 'What do I mean?'" John said.
 
-"I'm not … we don't need *real* ogres." Jackson looked at the elf. "Is he for real?"
+"I'm not... we don't need *real* ogres." Jackson looked at the elf. "Is he for real?"
 
 "Trust me," the void mage said.
 
 "You mean you're going to make it up?!" John exclaimed.
 
-"I …" Jackson looked with incredulity at the high elf void mage, then back at the human. "Yes, I do mean that. Does he know what I do?" he asked the elf.
+"I..." Jackson looked with incredulity at the high elf void mage, then back at the human. "Yes, I do mean that. Does he know what I do?" he asked the elf.
 
 "He'll learn." Embers smiled.
 
@@ -122,7 +122,7 @@ John turned to see.
 
 Sir Vaantikalisax loomed just inside the doorway, his scales and armor glowing in the light of the hearth fire. Sir John shot up out of his chair, a huge smile on his face.
 
-"I, uh …" Vaantikalisax said. The tall, broad draconian looked from John to the three peasants. Jago, Sarah, and Beth were beaming with even more joy than John, if that were possible.
+"I, uh..." Vaantikalisax said. The tall, broad draconian looked from John to the three peasants. Jago, Sarah, and Beth were beaming with even more joy than John, if that were possible.
 
 The dragon knight stared at them for a moment, then turned back to his friend.
 

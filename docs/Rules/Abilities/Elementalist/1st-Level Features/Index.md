@@ -12,6 +12,7 @@ type: index
 | [Behold the Mystery](../Behold%20the%20Mystery)                                       | 3 Essence | 1     | ability      |
 | [Bifurcated Incineration](../Bifurcated%20Incineration)                               |           | 1     | trait        |
 | [Breath of Dawn Remembered](../Breath%20of%20Dawn%20Remembered)                       |           | 1     | trait        |
+| [Earth Acolyte of Earth](../Earth%20Acolyte%20of%20Earth)                             |           | 1     | trait        |
 | [Enchantment of Battle](../Enchantment%20of%20Battle)                                 |           | 1     | trait        |
 | [Enchantment of Celerity](../Enchantment%20of%20Celerity)                             |           | 1     | trait        |
 | [Enchantment of Destruction](../Enchantment%20of%20Destruction)                       |           | 1     | trait        |
@@ -24,6 +25,7 @@ type: index
 | [Grasp of Beyond](../Grasp%20of%20Beyond)                                             |           | 1     | trait        |
 | [Green Acolyte of the Green](../Green%20Acolyte%20of%20the%20Green)                   |           | 1     | trait        |
 | [Hurl Element](../Hurl%20Element)                                                     |           | 1     | trait        |
+| [Invigorating Growth](../Invigorating%20Growth)                                       | 3 Essence | 1     | ability      |
 | [It Is the Soul Which Hears](../It%20Is%20the%20Soul%20Which%20Hears)                 |           | 1     | trait        |
 | [Meteoric Introduction](../Meteoric%20Introduction)                                   |           | 1     | trait        |
 | [Motivate Earth](../Motivate%20Earth)                                                 |           | 1     | trait        |

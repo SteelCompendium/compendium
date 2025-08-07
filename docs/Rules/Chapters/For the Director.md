@@ -465,7 +465,7 @@ Once you have your list of information and objects the heroes can find, make a l
 
 When an exploration scene starts, tell the heroes what they notice around them. Opening with what sighted heroes can see is a good idea, but all characters have other senses. Mention what they can smell, hear, and feel in the environment if it's applicable to what they're investigating. These little details can help the players better imagine the scene, and can lead them to important narrative beats within it. Before you run the scene, write these details down so you can give them to the players right at the start, rather than trying to think them up off the cuff.
 
-You don't need to list every single detail of an environment. That can lead to players spending a lot of time having their characters interact with details you included just for flavor, and can have you saying things like, "Yes, I know I described the tapestries for 5 minutes, but there's really not much more to them. Now, the pile of bones at the center of the floor, on the other hand …" Many players will also zone out if you provide too much environmental detail, even if you're giving an Oscar-worthy narration. Instead, stick to the pieces of the environment that are worthy of the characters' notice.
+You don't need to list every single detail of an environment. That can lead to players spending a lot of time having their characters interact with details you included just for flavor, and can have you saying things like, "Yes, I know I described the tapestries for 5 minutes, but there's really not much more to them. Now, the pile of bones at the center of the floor, on the other hand..." Many players will also zone out if you provide too much environmental detail, even if you're giving an Oscar-worthy narration. Instead, stick to the pieces of the environment that are worthy of the characters' notice.
 
 As an example, if the heroes are exploring an abandoned bandit hideout in a cave for information about where the criminals relocated, you might describe a refuse pile in a corner of the cave, a mud-covered floor, and the smoking remains of a doused fire. Why point these things out? Because the refuse pile holds a torn-up map to the bandits' new hideout that the heroes can assemble, the muddy floor means the bandits left tracks that can be followed, and the smoking fire means that at least a few of the bandits left not long ago and might still be en route to the hideout. You've given the characters and players three important elements to interact with, each of which gives them information they can use to advance the story or get an idea of events to come. You don't need to describe the stalactites hanging from the ceiling, or the sound of the wind blowing through the entrance to the cave, or the wood pile next to the campfire, or the slugs crawling on that wood. Though one or two such details can be atmospheric, too many will distract folks and pull them out of the game. Instead, fill in those secondary details as the players ask questions while their characters explore.
 
@@ -827,7 +827,7 @@ The virtuoso has the following possible motivations:
 The virtuoso has the following possible pitfalls:
 
 - **Greed:** You offer me money? Money comes to geniuses-it is our due. I can get it from a thousand admirers.
-- **Power:** I have no ambitions beyond this opera house. For me to leave this place, even for a palace or a throne … it would be an exile for me.
+- **Power:** I have no ambitions beyond this opera house. For me to leave this place, even for a palace or a throne... it would be an exile for me.
 - **Protection:** I'm not afraid. The god of music will look after her own.
 - **Vengeance:** Perhaps there are some who hate me-those who think I stand in their way, or whose accomplishments I have eclipsed. But I hate no one and am jealous of no one.
 
@@ -844,7 +844,7 @@ The high priest archetype can be used for any other national authority, such as 
 The high priest has the following possible motivations:
 
 - **Benevolence:** We are agreed on this matter. If this threat puts people in danger, we must come to their rescue.
-- **Discovery:** Why, yes … I would be interested in looking at that document further. Surely no harm can come from being aware of the snares and dangers in the world.
+- **Discovery:** Why, yes... I would be interested in looking at that document further. Surely no harm can come from being aware of the snares and dangers in the world.
 - **Higher Authority:** Indeed, my appointed duty is to serve all folk whether it be my deity, my liege, or the poorest person crying out in need.
 - **Justice:** Rest assured, the good will receive their just reward and the evil will be punished. I will see to it.
 
@@ -904,7 +904,7 @@ The dragon has the following possible motivations:
 
 The dragon has the following possible pitfalls:
 
-- **Legacy:** No heir will outlive me, no legend will remember my past glory … for I shall never die!
+- **Legacy:** No heir will outlive me, no legend will remember my past glory... for I shall never die!
 - **Peace:** You want to make peace? When there are still things in the world that are not yet mine?
 - **Power:** How can *you* possibly offer *me* power?
 - **Revelry:** My pleasures are as far beyond your comprehension as yours are to a worm.
@@ -939,7 +939,7 @@ The monarch has the following possible pitfalls:
 
 **Impression Score:** 11
 
-*The lich spent centuries alone, studying and building their power … but now the time for studying is over.*
+*The lich spent centuries alone, studying and building their power... but now the time for studying is over.*
 
 The lich is willing to negotiate with strong heroes who might make loyal lieutenants-or powerful undead servants if the talks don't go well.
 
@@ -950,9 +950,9 @@ The lich archetype can be used for any other world-shaking threat, such as a wou
 The lich has the following possible motivations:
 
 - **Discovery:** Give me that book at once! Your very touch corrupts it.
-- **Power:** Yes … yes … power! Ahahahaha! Bring me this power and you will be rewarded.
+- **Power:** Yes... yes... power! Ahahahaha! Bring me this power and you will be rewarded.
 - **Revelry:** Join my court for the coming feast! We shall know such entertainments as were never seen in this world before.
-- **Vengeance:** The world despised me … banished me … forgot me. The world shall regret it.
+- **Vengeance:** The world despised me... banished me... forgot me. The world shall regret it.
 
 ###### Pitfalls
 
@@ -960,7 +960,7 @@ The lich has the following possible pitfalls:
 
 - **Benevolence:** Do you ask the farmer to pity the wheat before it's harvested?
 - **Legacy:** I don't care what the common people think of me. The less they think of me, the better-as long as they obey my commands.
-- **Peace:** Yes, yes, peace will come … but not now.
+- **Peace:** Yes, yes, peace will come... but not now.
 - **Protection:** If you're so intent on saving lives, then save your own by bowing down before me! No harm will come to my servants.
 
 ##### Deity
@@ -975,10 +975,10 @@ The deity archetype can be used for any other world-transcending power, such as 
 
 The deity has the following possible motivations:
 
-- **Benevolence:** Worry not, for I have sent champions to save the world. Perhaps these champions … are closer than you think.
+- **Benevolence:** Worry not, for I have sent champions to save the world. Perhaps these champions... are closer than you think.
 - **Legacy:** When that blessed day arrives, all shall come before me to pray, and I shall offer my blessings to the world!
 - **Power:** Although I am all-powerful on the spiritual realm, my hands are bound in such worldly matters. But if you act for me, I can offer a little assistance.
-- **Protection:** Have faith, little one … none will be forgotten or left behind.
+- **Protection:** Have faith, little one... none will be forgotten or left behind.
 
 ###### Pitfalls
 
@@ -1293,7 +1293,7 @@ You should check in with your players occasionally to see if they have any speci
 
 #### Awarding Renown
 
-The heroes earn Renown whenever they do something of significance, such as saving a town or … well, saving the world! As a general guideline, heroes should earn 1 Renown per level.
+The heroes earn Renown whenever they do something of significance, such as saving a town or... well, saving the world! As a general guideline, heroes should earn 1 Renown per level.
 
 If you want the characters to be less famous than in a standard heroic tale, you can adjust this to give out Renown every other level. Alternatively, you can award Renown after each adventure if you want the heroes to become power players in the world more quickly.
 
