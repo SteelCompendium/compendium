@@ -18,6 +18,7 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 **As a tactician, you have abilities that heal your allies and grant them increased damage, movement, and attacks, even as you leave your enemies struggling to respond.**
 
+<!-- -->
 > "Your line is broken, Varrox! Your wizard is dead. Hahah! You should have negotiated!"
 >
 > **Sir John of Tor**
@@ -91,6 +92,7 @@ Though you can't gain focus outside of combat, you can use your heroic abilities
 
 When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the tactician, but they might appear in future products.)
 
+<!-- -->
 > **Tactician Abilities Explained**
 >
 > Many of the tactician's abilities grant allies extra movement, damage, and actions. But what's happening in the fiction to allow this? The tactician is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The tactician can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the tactician's abilities are the actual commands they give their friends!

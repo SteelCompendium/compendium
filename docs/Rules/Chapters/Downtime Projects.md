@@ -232,6 +232,7 @@ Imbuing treasure with supernatural power as a downtime project typically means y
 
 Armor imbued with an enhancement grants you special benefits while it is worn. Additionally, when your armor receives its 1st-level enhancement, it also grants a +6 bonus to Stamina. A 5th-level enhancement increases the Stamina bonus to +12, and a 9th-level enhancement increases it to +21.
 
+<!-- -->
 > **Clothing as Armor Treasures**
 >
 > A hero who has a kit that provides no armor, such as the Martial Artist or Sniper kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as elementalists and nulls, can also benefit from such treasures.

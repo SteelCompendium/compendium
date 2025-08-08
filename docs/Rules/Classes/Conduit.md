@@ -18,6 +18,7 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 
 **As a conduit, you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
 
+<!-- -->
 > "The gods judge our actions, and our inaction."
 >
 > **Dazar**

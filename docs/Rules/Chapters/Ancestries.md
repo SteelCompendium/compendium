@@ -48,6 +48,7 @@ This chapter details twelve ancestries for the game:
 
 **Time Raider:** Travelers of the timescape, the time raiders (or kuran'zoi as they call themselves) have four arms and a single ocular sensor instead of a pair of eyes. Many have innate psionic abilities that make them capable warriors.
 
+<!-- -->
 > **Other Sections**
 >
 > The rules for using ancestries refer to lots of other parts of the game. You can find information on specific topics as follows:

@@ -25,6 +25,7 @@ type: title/1st-echelon
 - *Local Fame:* You earn 1 Renown.
 - *A New Dawn:* Each time you finish a respite while in a community you have saved, the party gains a hero token. This hero token disappears at the end of your next respite if it hasn't been used.
 
+<!-- -->
 > **Renown and Wealth**
 >
 > Many titles bestow Renown, followers, and wealth upon heroes. Those topics are covered later in this chapter.

@@ -32,6 +32,7 @@ If your familiar is destroyed, you can restore them as a respite activity, or by
 | **-**<br/> Immunities | **-**<br/> Movement |                                | **-**<br/> With Captain | **-**<br/> Weaknesses  |
 |   **-3**<br/> Might   | **+2**<br/> Agility |       **0**<br/> Reason        |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
+<!-- -->
 > **Telepathic**
 >
 > While you and your familiar are within 10 squares of each other, you can communicate telepathically and share each other's senses. While sharing senses, each of you also benefits from your own senses at the same time.

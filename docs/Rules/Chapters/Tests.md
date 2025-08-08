@@ -66,6 +66,7 @@ You make an Intuition test whenever you attempt a risky task that requires the u
 
 You make a Presence test whenever you attempt a risky task that requires the use of your force of personality. Presence tests are most often used to gain trust, project confidence, and influence and lead other creatures.hough it's easier than easy, then
 
+<!-- -->
 > **Influencing Player Characters With Tests**
 >
 > The things player characters do can't be influenced by any creature making a test, whether a monster, an NPC, or another player character. Many players feel that their agency is taken away if they're compelled to jump into a pile of gold filled with hidden scorpions because an NPC convinced them to do so with a Presence test. For most players, it's not fun to be in control of a hero and lose some of that control.
@@ -185,6 +186,7 @@ Common rewards accompanying success on a test include the following:
 
 In lieu of other rewards, the Director can also decide that a hero who succeeds on a test with a reward earns the players a hero token (see [Hero Tokens](#page-19-4) in [Chapter 1: The Basics](#page-17-3)).
 
+<!-- -->
 > **Optional Rule: Pitching Consequences and Rewards**
 >
 > Coming up with consequences and rewards for tests can be a big part of the fun for many Directors, but even the best Directors occasionally run low on ideas. That's why the game gives the default option of consequences and rewards in the form of Malice and hero tokens. However, a Director who prefers narrative consequences and rewards can ask the players to pitch different consequences and rewards when they make a test. The Director can reject, add to, or modify the players' ideas as they choose, and will remind the players that they need to pitch real consequences, and not minor rewards disguised as consequences.
@@ -250,6 +252,7 @@ Reactive tests are typically made in the following circumstances, though the Dir
 - **Recall Lore:** The Director might ask a hero to make a Reason test when dealing with a new object, a piece of information, or an event to determine what history or details the hero might already know about it.
 - **Creature and DTO Tests:** Some creatures and dynamic terrain objects in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)* have features and abilities that require heroes to make reactive tests. These tests can't be modified by skills.
 
+<!-- -->
 > **Optional Rule: Secret Reactive Tests**
 >
 > Some Directors prefer to make the power rolls for reactive tests for the heroes rather than asking the players to do so. This allows the Director to make the rolls when appropriate for hidden objects, creatures, motivations, and information without tipping off the players that there is information to be gained. Having the Director roll requires the Director to have everyone's characteristics and skills recorded (whether physically or digitally) for easy reference.
@@ -290,10 +293,12 @@ Since you don't need to worry about your character covering a wide spread of ski
 
 The rules for skills allow for them to be flexibly applied to any test that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my Climb skill for a +2 bonus to my Presence test?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many tests as possible. This isn't fun for anyone, and doesn't make a very compelling story.
 
+<!-- -->
 > **Edges on Tests With Specific Skills**
 >
 > Certain features and abilities grant a creature an edge on tests made with a specific skill. A creature making a test where the specific skill would apply gains an edge on the test even if they don't have the skill. For example, the conduit's Blessing of Fortunate Weather can create foggy weather that grants creatures who make tests using the Hide skill an edge on those tests. Any creature who attempts to hide in the fog gains an edge on the test as long as the Hide skill would apply to that test, regardless of whether they have that skill or not.
 
+<!-- -->
 > **Are All Skills Equal?**
 >
 > When choosing skills for your character, deciding which skills will be most useful depends a lot on the campaign. For instance, the Swim skill might be used constantly during a campaign that takes place on the ocean and has heroes exploring underwater ruins, but it won't come up as much in a campaign that takes place entirely in a vast desert. The Psionics skill might come up a lot in a campaign where voiceless talkers are the main foes, and Magic might be more useful in a game where the heroes take on a circle of evil wizards. If you're worried about whether a skill you'd like to take will be useful, discuss your skill list with the Director after you create a hero. And if a skill doesn't work out, you can always trade it for another skill as you wish (see Changing Character Options in Chapter 2: Making a Hero).
@@ -424,6 +429,7 @@ Consequences for tests made with lore skills typically include learning an incor
 | Strategy            | Knowing about battle tactics and logistics                                                 |
 | Timescape           | Knowing about the many worlds of the timescape                                             |
 
+<!-- -->
 > **For the Director: Make Your Own Skills**
 >
 > Directors should feel free to make their own skills that they feel are relevant and useful to their campaigns and adventures. For instance, the game doesn't have a Brewing skill for brewing ale or a Painting skill for making art because those aren't tasks that typically come up in a game about fighting monsters and saving the world. However, a Director could decide that their campaign involves poisoned barrels of ale and large amounts of counterfeit art, and that adding these two new skills to the game would make it more fun for the players. The Director simply needs to pick a group for these new skills-in this case, crafting makes sense. They then let the players know that they can swap out any crafting skill they have for these new skills.
@@ -540,6 +546,7 @@ If the total of your test is higher than that of a hidden creature, they are no 
 
 If a creature is hidden from your allies but not from you, you can use a maneuver without making a test to point that creature out to your allies.
 
+<!-- -->
 > **What Does It Mean to Be Observed?**
 >
 > Most of the time, if a creature has line of effect to you, they're able to observe you-especially if you're an active threat to them, such as in a combat encounter. However, the game leaves what it means to be observed open to interpretation, because there are circumstances where a creature might have line of effect to you but isn't observing you, giving you a chance to hide. For example, a guard in a crowded marketplace likely isn't able to observe every creature within their line of effect, so slipping away to hide in that situation is probably easier than hiding from them in an otherwise empty street. The Director has the final say on who is observing you, and who you are able to observe.

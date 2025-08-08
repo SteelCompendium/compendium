@@ -16,6 +16,7 @@ type: perk/crafting
 
 On any day when you don't take a respite, you can spend 1 uninterrupted hour working on a crafting project using a skill you have from the crafting skill group. If you do so, you gain 1d10 project points toward that project.
 
+<!-- -->
 > **Perks and Tests**
 >
 > The existence of specific perks doesn't mean that a hero can't attempt the task related to a perk without having that perk. Aside from supernatural perks, a Director can always allow a hero to attempt a mundane task mentioned in a perk by making a test. Perks are special because they allow a hero to attempt a specific task without a test, and often give a better result than a successful test-or even a test with a reward would give.

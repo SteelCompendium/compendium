@@ -48,6 +48,7 @@ Heroes can also craft their own treasures, forging the tools they need to get th
 
 When a hero finds a treasure, they learn its properties if they examine it for 5 uninterrupted minutes, unless the item's description says otherwise.
 
+<!-- -->
 > **Treasure Item Prerequisite**
 >
 > Each treasure has an item prerequisite necessary for crafting it. The exact nature of many of the materials used as an item's prerequisite is left nebulous so that the Director can more easily work those materials into a campaign. What's a mindspider, and how rare is their silk? That's for the Director to decide, whether they want to drop prerequisite items into their planned adventures or craft an entire side quest around finding them.
@@ -92,6 +93,7 @@ Consumables are organized by echelon to make life easy for the Director handing 
 
 Your character can carry any number of consumables at a time.
 
+<!-- -->
 > **Other Sections**
 >
 > The rules for using treasures refer to lots of other parts of the game. You can find information on specific topics as follows:
@@ -1250,6 +1252,7 @@ It's fine to own or possess more than three leveled treasures, as long as the ex
 - **12-16:** Your items work together to prevent you from moving until you pick three items and leave the rest behind.
 - **17+:** Nothing happens.
 
+<!-- -->
 > **You Don't Need Three**
 >
 > Because you can carry up to three leveled treasures safely, it's easy to assume that your hero should always seek out and carry three such treasures. The truth is that many heroes find carrying just one or two leveled treasures a perfect thematic and mechanical fit, and have no real need for more. That's totally fine! You'll still be super powerful with just one leveled treasure, especially if you obtain or craft trinkets and consumables that might serve you better.
@@ -2064,6 +2067,7 @@ This section details a number of ready-to-use titles. But the Director can also 
 
 The easiest way to create custom titles is to modify an existing title's requirements to fit the adventure at hand. For instance, your world might contain a secretive organization of freedom fighters-the Jesters-who never carry weapons, defeating foes with unarmed attacks and improvised weapons. Creating a Jester title can be as easy as modifying the Brawler title by changing its requirements to "Fight alongside the Jesters against a mutual foe."
 
+<!-- -->
 > **For the Director: Perks as Custom Titles**
 >
 > You can turn a perk into a 1st-echelon title simply by giving it a prerequisite (see Chapter 7: Perks). For example, a hero might gain the Familiar perk as a title instead if they complete a quest for an archmage, who then teaches the hero the conjuring ritual as a reward.
@@ -2088,10 +2092,12 @@ There is no hard-and-fast rule for the number of titles characters should accumu
 
 Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
+<!-- -->
 > **Optional Rule: Players Choose Titles**
 >
 > If the Director doesn't want to track player accomplishments, they can let the players do it instead. In this case, whenever a hero enters a new echelon of play, they gain one title of their choice for which they qualify.
 
+<!-- -->
 > **For the Director: Planning Titles**
 >
 > While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for. As such, it's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, you can include the Demon Slayer or Dragon Blooded titles as potential rewards alongside that magic cloak or psionic dagger. You can even use titles to inspire adventures. What challenges should a hero face to earn the Demigod title?
@@ -2206,6 +2212,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 - *Local Fame:* You earn 1 Renown.
 - *A New Dawn:* Each time you finish a respite while in a community you have saved, the party gains a hero token. This hero token disappears at the end of your next respite if it hasn't been used.
 
+<!-- -->
 > **Renown and Wealth**
 >
 > Many titles bestow Renown, followers, and wealth upon heroes. Those topics are covered later in this chapter.
@@ -3036,6 +3043,7 @@ In general, a hero earns 1 wealth every second level of play. The Director can i
 
 As an optional rule, the Director can allow a hero to make a purchase that is one above their Wealth score. If this occurs, the hero's Wealth is reduced by 1 (to a minimum of 0) after making the purchase.
 
+<!-- -->
 > **Heroes Don't Do It for Gold**
 >
 > In *Draw Steel*, being a hero isn't a transactional job-it's a calling. As such, using the promise of treasure to motivate the players to accept quests comes up much less often than in many other games. Sure, the heroes need money to live, and some might even enjoy getting rich from their adventures. But money isn't the reason they put their lives on the line. Each time you create a hero, think about why your character answers the call to adventure-and make it about something more than gold.

@@ -18,6 +18,7 @@ Demons and deathless fear you. Criminals run from the sight of your shadow. Agen
 
 As a censor, you're at your best against the strongest foes. Your judgment terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
 
+<!-- -->
 > "We FIGHT!
 >
 > Until HELL!

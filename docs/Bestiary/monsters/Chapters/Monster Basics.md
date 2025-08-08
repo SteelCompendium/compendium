@@ -97,6 +97,7 @@ Undead creatures, such as ghosts and zombies, are the reanimated flesh and spiri
 
 Each Director-controlled creature has an encounter value (abbreviated EV) that is used in building encounters. See Step-by-Step Encounter Building later in this chapter for more information.
 
+<!-- -->
 > **Combat Rounds**
 >
 > Because stat blocks are focused on the tactics and mechanics of combat, all references in a stat block to "rounds" refer to combat rounds.
@@ -116,6 +117,7 @@ Creature free strikes are a static number for two reasons. First, it keeps gamep
 
 Even though a Director-controlled creature doesn't have to roll when they make a free strike, if that creature takes a bane on strikes against a target, they can't make an opportunity attack against that target.
 
+<!-- -->
 > **Stat Block Self-Reference**
 >
 > Whenever a creature's stat block talks about enemies or allies, it refers to enemies or allies of that creature by default. (Chapter 5: Classes of *Draw Steel: Heroes* talks about enemies and allies.) Likewise, if a stat block refers to a target "within x squares," that always means "within x squares of this creature" unless additional text says otherwise.
@@ -254,6 +256,7 @@ Inevitably, one or more noncombatants might get caught up in a dangerous situati
 | **-**<br/> Immunities | **-**<br/> Movement |                    | **-**<br/> With Captain | **-**<br/> Weaknesses  |
 |   **0**<br/> Might    | **0**<br/> Agility  | **0**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
 
+<!-- -->
 > **Size**
 >
 > The noncombatant can be size 1S, 1M, 1L, or 2.

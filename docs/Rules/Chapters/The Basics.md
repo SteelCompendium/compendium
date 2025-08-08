@@ -116,6 +116,7 @@ The game uses two types of power rolls. An **ability roll** is used when you use
 
 A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A tactician might not have an ability that lets them climb up the face of a cliff, so climbing is an activity they can attempt with a test. An elementalist doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](#page-263-0) for more information.
 
+<!-- -->
 > **Sapient Creatures**
 >
 > All creatures in the game are sentient, capable of sensing and reacting to the world around them. But only some creatures are sapient, possessed of advanced intellect and consciousness. Being sapient has nothing to do with a creature's Reason score, but is determined solely by whether a creature is capable of human-like levels of thought and emotion. The Director decides whether creatures are sapient for the purpose of being affected by abilities and features that affect only sapient or nonsapient creatures.
@@ -176,6 +177,7 @@ The rules tell you when to modify a roll with an edge or a bane. The Director ca
 
 specifically says that rain imposes a bane on power rolls made to climb a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
 
+<!-- -->
 > **Why Cap?**
 >
 > We capped edges and banes at a maximum of two each for several reasons, including thinking about the narrative of those penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a creature can benefit or be hindered by short-term circumstances only so much. For example, a character who is prone and weakened by poison already finds it difficult to attack-so that becoming restrained by a net can't really make it harder.
@@ -219,6 +221,7 @@ Whenever hero tokens are available, you can spend them in the following ways:
 
 You can use only one hero token benefit per turn or per test. Unless the Director decides otherwise, unused hero tokens disappear at the end of a session.
 
+<!-- -->
 > **Optional Rule: Hero Tokens Don't Reset**
 >
 > A Director can decide that hero tokens don't refresh at the start of each session and don't disappear at the end of one. This style of play serves many groups who play short sessions consisting of only 2 or 3 hours of play, since it makes hero tokens less abundant and reliable. To use this option, one of the players must note the number of hero tokens available at the end of each session so everyone remembers how many are available the next time you play. The Director should take particular care to remember to award hero tokens for heroic behavior, since the heroes won't get any automatically.
@@ -251,6 +254,7 @@ The word supernatural is used to describe abilities, creatures, objects, and eff
 
 Two types of characters inhabit the world of the game-the player characters (also called PCs or heroes) who are created and controlled by the players, and nonplayer characters (NPCs) created and controlled by the Director. NPCs can include any of the game's monsters, but when the rules refer to NPCs, they generally do so in the context of interacting with them outside of combat.
 
+<!-- -->
 > **Bags of Rats Ain't Heroic**
 >
 > Some players might think that quickly starting a fight with some bar patrons or carrying around a bag of rats is a good way to gather up those sweet, sweet Victories and Heroic Resources. Those strategies don't work! The rules of the game exist to help you tell a cool heroic fantasy story, not so you can try to be clever and exploit them by harming innocent rats to "win." In order to generate Victories and Heroic Resources, you must face and overcome challenges worthy of a hero!
@@ -469,6 +473,7 @@ This lack of objective certainty not only makes it more fun for us to work on Or
 
 P.S. We use the phrase "Orden and the timescape" because Orden is, as it were, the star of the show. But Orden is very clearly only one world *in* the timescape. It's like those astronomy maps hanging on the wall in your grade school science class that said, "Earth and the solar system." Like that map, any map of the timescape will be an artist's interpretation, not drawn to scale, and never wholly accurate depending on what information you're looking for.
 
+<!-- -->
 > **The Timescape in Your Game**
 >
 > We use the timescape and its medieval fantasyland Orden as the default setting presented in these books. Doing so makes it easier for us as designers to marry our design with real examples from a real (imaginary) fantasy world. We also think it's easier for you to take the names for places, languages, and gods, and replace them with your own. We might reference some hero or villain, saint or god, whose name makes you think, "Well, I don't have that in my setting." If we do a good job, though, you might be inspired to say, "But that makes me think..." And being inspired is part of the fun!
@@ -477,6 +482,7 @@ If you're the Director, you can use as many or as few of the details of the time
 
 If you're a player, ask your Director about the setting where the game takes place and discuss with them the sort of hero you want to create. Maybe you want to play a more traditional gruff and bearded dwarf rather than go all short and stony. An open dialogue and honest discussion with your Director can lead to everyone getting what they want out of the game.
 
+<!-- -->
 > **What's Next? Find Out on Patreon**
 >
 > While this book and *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)* are both chock-full of character options and adventure ideas that could keep you playing *Draw Steel* for years, some folks want even more classes, ancestries, monsters, treasures, and encounters. You can find out what we're developing next, get a preview of that content, and read blog posts about the development of the game by joining the MCDM Patreon at *[mcdm.gg/Patreon](https://mcdm.gg/Patreon)*.

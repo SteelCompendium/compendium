@@ -22,6 +22,7 @@ When the heroes face a problem that can be solved only with action, or when they
 
 When combat begins, the Director should position miniatures or tokens on a gridded map to represent the environment, the heroes, their foes, and any other creatures in the battle.
 
+<!-- -->
 > **How Big is a Square?**
 >
 > It's helpful to know how big a square is for abilities and features that heroes and NPCs can use outside of combat. By default, a square is 5 feet on all sides. But the Director can change this measurement to 2 yards, 2 meters, 1 meter, or any other measurement you prefer, as long as that scale stays consistent throughout your game.
@@ -53,6 +54,7 @@ The Creature Sizes table shows example sizes for creatures up to size 5, but lar
 
 Every combat encounter is a conflict between two sides. The heroes and any of their allies are one side, controlled by the players. Any creatures who oppose the heroes are the other side, controlled by the Director. All creatures who oppose the heroes are on the same side, even if those creatures also oppose each other. For example, if the heroes are battling a group of bandits when a kingfissure worm suddenly bursts into the fray to devour player characters and brigands alike, the worm is still on the side of the bandits for the purpose of the game's combat rules.
 
+<!-- -->
 > **NPC Allies**
 >
 > If an NPC ally fights alongside the heroes, the Director should give the players the ally's stat block and let them control the NPC during combat. The Director has enough to worry about. As well, any missteps, mistakes, or triumphs the ally makes will be thanks to the decisions of the players and not the Director, which can make the outcome of the battle more satisfying for the players.
@@ -93,6 +95,7 @@ In general, though, most groups find that it's usually only one or two players i
 
 If the players do end up arguing in circles about what to do next, the Director can place a timer on the discussion. Usually, giving the players a warning and 30 seconds to decide who goes next does the trick. If they can't choose by the end of that time, the Director chooses a hero to act.
 
+<!-- -->
 > **Alternative Turn Order**
 >
 > If planning everyone's turn order isn't fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an Agility test, then record the totals. When it's time for someone on the heroes' side to act, the hero with the highest total goes first. On the next hero turn, the hero with the second-highest total takes their turn, and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied Agility tests to determine who among the tied creatures acts before the others.
@@ -325,6 +328,7 @@ When you force move a target, you can always move that target fewer squares than
 
 Forced movement ignores difficult terrain and never provokes opportunity attacks. When you force move a target into damaging terrain or into terrain that produces an effect, they are affected as if they had moved into it willingly.
 
+<!-- -->
 > **Multitarget Abilities and Forced Movement**
 >
 > Some creatures can force move multiple creatures or objects with a single ability. Unless the ability specifies otherwise, the creature using the ability determines the order in which the targets are force moved. The creature should select each target individually and complete their forced movement before force moving the next target affected.
@@ -357,6 +361,7 @@ When a creature force moves a target into a stationary object that is the target
 
 If you force move a creature downward into an object that doesn't break (including the ground), they also take falling damage as if they had fallen the distance force moved and their Agility score was 0 (see [Falling](#page-283-3) above).
 
+<!-- -->
 > **Tracking Object Forced-Movement Damage**
 >
 > At the Director's discretion, mundane objects that are force moved into creatures or other objects take damage as if they were creatures. Sturdy objects can take damage as follows before they are destroyed:
@@ -785,6 +790,7 @@ If the Director calls the end of combat when a specific objective in an encounte
 
 Event endings can cover big scenarios such as the characters destroying a dam to unleash a river upon their enemies, or completing a ritual that causes all the demons they've been battling to be sent back to the Abyssal Wasteland, accompanied by visual details. For example, if the heroes are battling a necromancer who controls a horde of zombies, the undead might all crumble to dust when the necromancer is defeated. If the heroes destroy an eldritch machine sapping the land of its natural energy, the shockwave from the device's destruction could vaporize the cultists attempting to protect it.
 
+<!-- -->
 > **Fleeing Foes**
 >
 > If you've played a fantasy RPG before, odds are you've had an encounter where you didn't chase down every last fleeing foe-and then one such foe grabbed another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, "No survivors. No mercy!" whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.

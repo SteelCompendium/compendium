@@ -66,6 +66,7 @@ When you make a project roll using a skill from the crafting skill group, you ca
 
 On any day when you don't take a respite, you can spend 1 uninterrupted hour working on a crafting project using a skill you have from the crafting skill group. If you do so, you gain 1d10 project points toward that project.
 
+<!-- -->
 > **Perks and Tests**
 >
 > The existence of specific perks doesn't mean that a hero can't attempt the task related to a perk without having that perk. Aside from supernatural perks, a Director can always allow a hero to attempt a mundane task mentioned in a perk by making a test. Perks are special because they allow a hero to attempt a specific task without a test, and often give a better result than a successful test-or even a test with a reward would give.
@@ -280,6 +281,7 @@ If your familiar is destroyed, you can restore them as a respite activity, or by
 | **-**<br/> Immunities | **-**<br/> Movement |                                | **-**<br/> With Captain | **-**<br/> Weaknesses  |
 |   **-3**<br/> Might   | **+2**<br/> Agility |       **0**<br/> Reason        |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
 
+<!-- -->
 > **Telepathic**
 >
 > While you and your familiar are within 10 squares of each other, you can communicate telepathically and share each other's senses. While sharing senses, each of you also benefits from your own senses at the same time.

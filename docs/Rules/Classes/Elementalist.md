@@ -18,6 +18,7 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 **As an elementalist, you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your elemental specialization determines which of these talents you excel at.**
 
+<!-- -->
 > "Understanding the mystery, requires ignorance of the mystery."
 >
 > **Embers**
@@ -1210,18 +1211,22 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 | **-**<br/> Immunities | **Burrow**<br/> Movement |                     | **-**<br/> With Captain | **-**<br/> Weaknesses  |
 |   **+3**<br/> Might   |   **+1**<br/> Agility    | **-5**<br/> Reason  |  **-5**<br/> Intuition  |  **-3**<br/> Presence  |
 
+<!-- -->
 > **Earthwalk**
 >
 > Difficult terrain composed of earth and stone doesn't cost the source extra movement.
 
+<!-- -->
 > **Tunneler**
 >
 > When the source burrows, they create a size 2 tunnel.
 
+<!-- -->
 > **Earth Harness**
 >
 > A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.
 
+<!-- -->
 > **Boulder Bash**
 >
 > | **Melee, Ranged, Strike, Weapon** |                 **Signature** |

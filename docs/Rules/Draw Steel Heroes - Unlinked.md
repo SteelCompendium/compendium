@@ -686,6 +686,7 @@ The game uses two types of power rolls. An **ability roll** is used when you use
 
 A **test** is a power roll you make outside of using your abilities to affect or interact with the world around you. A tactician might not have an ability that lets them climb up the face of a cliff, so climbing is an activity they can attempt with a test. An elementalist doesn't have an ability that lets them automatically intimidate a cultist into backing down from a fight, but they can make a test if they want to try. See [Tests](#page-263-0) for more information.
 
+<!-- -->
 > **Sapient Creatures**
 >
 > All creatures in the game are sentient, capable of sensing and reacting to the world around them. But only some creatures are sapient, possessed of advanced intellect and consciousness. Being sapient has nothing to do with a creature's Reason score, but is determined solely by whether a creature is capable of human-like levels of thought and emotion. The Director decides whether creatures are sapient for the purpose of being affected by abilities and features that affect only sapient or nonsapient creatures.
@@ -746,6 +747,7 @@ The rules tell you when to modify a roll with an edge or a bane. The Director ca
 
 specifically says that rain imposes a bane on power rolls made to climb a stone wall. But it makes sense that rainy conditions should make climbing that wall harder, so a Director should absolutely do so!
 
+<!-- -->
 > **Why Cap?**
 >
 > We capped edges and banes at a maximum of two each for several reasons, including thinking about the narrative of those penalties. Every little advantage or disadvantage in a heroic story has diminishing returns, acknowledging that a creature can benefit or be hindered by short-term circumstances only so much. For example, a character who is prone and weakened by poison already finds it difficult to attack-so that becoming restrained by a net can't really make it harder.
@@ -789,6 +791,7 @@ Whenever hero tokens are available, you can spend them in the following ways:
 
 You can use only one hero token benefit per turn or per test. Unless the Director decides otherwise, unused hero tokens disappear at the end of a session.
 
+<!-- -->
 > **Optional Rule: Hero Tokens Don't Reset**
 >
 > A Director can decide that hero tokens don't refresh at the start of each session and don't disappear at the end of one. This style of play serves many groups who play short sessions consisting of only 2 or 3 hours of play, since it makes hero tokens less abundant and reliable. To use this option, one of the players must note the number of hero tokens available at the end of each session so everyone remembers how many are available the next time you play. The Director should take particular care to remember to award hero tokens for heroic behavior, since the heroes won't get any automatically.
@@ -821,6 +824,7 @@ The word supernatural is used to describe abilities, creatures, objects, and eff
 
 Two types of characters inhabit the world of the game-the player characters (also called PCs or heroes) who are created and controlled by the players, and nonplayer characters (NPCs) created and controlled by the Director. NPCs can include any of the game's monsters, but when the rules refer to NPCs, they generally do so in the context of interacting with them outside of combat.
 
+<!-- -->
 > **Bags of Rats Ain't Heroic**
 >
 > Some players might think that quickly starting a fight with some bar patrons or carrying around a bag of rats is a good way to gather up those sweet, sweet Victories and Heroic Resources. Those strategies don't work! The rules of the game exist to help you tell a cool heroic fantasy story, not so you can try to be clever and exploit them by harming innocent rats to "win." In order to generate Victories and Heroic Resources, you must face and overcome challenges worthy of a hero!
@@ -1039,6 +1043,7 @@ This lack of objective certainty not only makes it more fun for us to work on Or
 
 P.S. We use the phrase "Orden and the timescape" because Orden is, as it were, the star of the show. But Orden is very clearly only one world *in* the timescape. It's like those astronomy maps hanging on the wall in your grade school science class that said, "Earth and the solar system." Like that map, any map of the timescape will be an artist's interpretation, not drawn to scale, and never wholly accurate depending on what information you're looking for.
 
+<!-- -->
 > **The Timescape in Your Game**
 >
 > We use the timescape and its medieval fantasyland Orden as the default setting presented in these books. Doing so makes it easier for us as designers to marry our design with real examples from a real (imaginary) fantasy world. We also think it's easier for you to take the names for places, languages, and gods, and replace them with your own. We might reference some hero or villain, saint or god, whose name makes you think, "Well, I don't have that in my setting." If we do a good job, though, you might be inspired to say, "But that makes me think..." And being inspired is part of the fun!
@@ -1047,6 +1052,7 @@ If you're the Director, you can use as many or as few of the details of the time
 
 If you're a player, ask your Director about the setting where the game takes place and discuss with them the sort of hero you want to create. Maybe you want to play a more traditional gruff and bearded dwarf rather than go all short and stony. An open dialogue and honest discussion with your Director can lead to everyone getting what they want out of the game.
 
+<!-- -->
 > **What's Next? Find Out on Patreon**
 >
 > While this book and *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)* are both chock-full of character options and adventure ideas that could keep you playing *Draw Steel* for years, some folks want even more classes, ancestries, monsters, treasures, and encounters. You can find out what we're developing next, get a preview of that content, and read blog posts about the development of the game by joining the MCDM Patreon at *[mcdm.gg/Patreon](https://mcdm.gg/Patreon)*.
@@ -1082,6 +1088,7 @@ Each option you can choose for your hero at 1st level includes a parenthetical s
 
 If this is your first time making a hero, don't stress! The first time you build a character for *Draw Steel*, it might take an hour or so. Don't rush the process. Set aside some time, enjoy digging into all the options, and if you can, make your character alongside friends who are playing in the same game. The process gets a lot faster after you've done it once.
 
+<!-- -->
 > **Character Sheets**
 >
 > You can download and print out character sheets and other free resources for *Draw Steel* at *<https://mcdm.gg/DS-Resources>*.
@@ -1098,6 +1105,7 @@ The first thing you should do is think about the kind of hero you want to make. 
 - What people, places, and objects are important to you?
 - How will your hero complement the strengths and weaknesses of the other heroes in your party?
 
+<!-- -->
 > **Ambition is Good!**
 >
 > Heroes aren't just along for the ride in the Director's story. They're active participants in that story, making decisions that change their communities, their worlds, or even the entirety of the timescape! It's good for your hero to have desires-to want to found an organization, seek justice for someone who was wronged, or craft a magic sword that will help you defeat your foes. It's only when that personal ambition becomes more important than the group's story that it creates a potential problem. But if you share your character's ambitions with your Director, they can weave those desires in with the narrative. Character creation is a great time to do this.
@@ -1112,16 +1120,19 @@ Choose your hero's humanoid ancestry from among the range of ancestries availabl
 
 Choose or create your hero's culture. Although ancestry gives your hero any number of physiological benefits, your culture describes the community that raised you and gives you languages and skills. See [Culture](#page-67-1) in [Chapter 4: Background](#page-67-0) for more information.
 
+<!-- -->
 > **Choosing Skills**
 >
 > This game has lots of skills (as detailed in [Skills](#page-268-0) in Chapter 9: Tests), and lots of opportunities during character creation to gain them. We recommend recording a list of all the skills you might choose from the different steps of the character creation process, then making your choices at the end of that process rather than flipping back and forth through the book.
 
+<!-- -->
 > If you gain the same specific skill from two different sources (for instance, from a career and a class), you can pick a different skill from any skill group.
 
 #### 4. Career
 
 Choose your hero's career, which describes what you did for a living before you became a hero. A career provides you with skills, an inciting incident that precipitated your adventuring career, and a perk that lets you customize your hero. It might also grant you languages, Renown, wealth, or the potential to undertake crafting and research. See Careers in Chapter 4: Background for more information.
 
+<!-- -->
 > **I Speak Their Language**
 >
 > Choosing languages at the start of a campaign can be hard because you might not know which languages are going to be most prevalent or useful. You can choose to leave some of the languages you know open until you discover what might be a good choice for the campaign you're playing in. Once you decide to take a language, you can reveal your choice in a dramatic fashion, perhaps during a negotiation where knowing a specific language would help, or when you find a tome that no other hero in your party can read.
@@ -1290,6 +1301,7 @@ This chapter details twelve ancestries for the game:
 
 **Time Raider:** Travelers of the timescape, the time raiders (or kuran'zoi as they call themselves) have four arms and a single ocular sensor instead of a pair of eyes. Many have innate psionic abilities that make them capable warriors.
 
+<!-- -->
 > **Other Sections**
 >
 > The rules for using ancestries refer to lots of other parts of the game. You can find information on specific topics as follows:
@@ -3341,6 +3353,7 @@ Your hero grew up among leaders who rule over others and play the games of polit
 
 **Skill Options:** One skill from the interpersonal skill group. (*Quick Build:* Lead.)
 
+<!-- -->
 > **But I Really Want Alertness**
 >
 > If the culture you create doesn't grant a skill that you want, check with your Director about modifying what the culture's aspects offer. For instance, you can easily make the case that a culture with the noble upbringing aspect should give a character access to the Alertness skill, given that living among those who covet your power means always being aware of your surroundings.
@@ -4037,6 +4050,7 @@ Abilities are special actions, maneuvers, and more that allow you to affect crea
 
 Abilities are presented in a special format that first describes the ability, then summarizes its mechanical details, and finally breaks out the ability's power roll (if it has one) and effects.
 
+<!-- -->
 > **Abilities in Combat**
 >
 > All the abilities appearing in this book are used as a main action, a maneuver, a triggered action, or some other part of your turn. As such, these abilities are all explicitly usable in combat or some other time-sensitive scenario where the game unfolds as combat rounds. If a creature has an ability that takes 1 minute or longer to use, that ability can't be used in combat.
@@ -4105,6 +4119,7 @@ Abilities with the Ranged keyword can be used to affect creatures who are too fa
 
 Abilities with the Strike keyword (often referred to simply as "strikes") deal damage to or impose a harmful effect on specific creatures or objects.
 
+<!-- -->
 > **It's Not All Strikes!**
 >
 > The Strike keyword and phrases such as "makes a strike" are reserved for abilities that have a creature targeting specific creatures or objects (not affecting creatures or objects in an area) and harming those targets in some way by making a power roll. The many abilities in the game that target areas of effect are not strikes. They instead use the Area keyword. That means if a feature distinctly interacts with a strike, that feature has no effect on abilities with the Area keyword.
@@ -4181,6 +4196,7 @@ the wall. A creature or object must be within the area to be targeted by a wall 
 
 You can stack squares on top of each other to make the wall higher. Unless otherwise stated, a wall can't be placed in occupied squares, and a wall blocks line of effect.
 
+<!-- -->
 > **Straight Lines**
 >
 > Talking about a straight line area of effect on an encounter map doesn't mean the line can only be a straight vertical or horizontal line of contiguous squares. It means each square in the line's length must move in the same direction without bending back in an opposite direction. To make a line area quickly, pick your line's origin square, then pick each subsquent square in the line one at a time in a single direction without bending back in an opposite direction.
@@ -4219,6 +4235,7 @@ If an ability targets "self," it can affect only the creature using the ability.
 
 If an area ability doesn't provide a number of targets but instead says it applies to each creature, object, enemy, or ally in the area, then all eligible targets for the ability are affected.
 
+<!-- -->
 > **Telling Friend From Foe**
 >
 > There might be times when a foe disguises or obscures themself so that they're temporarily seen as an ally-or at least not seen as an enemy. Until the effect ends, such a creature can't be targeted by abilities that would usually target them by targeting enemies. Fear not, though. All classes have access to at least one ability that targets creatures, whether friend or foe.
@@ -4486,6 +4503,7 @@ Each class in this chapter includes a table that shows the progression as a hero
 
 For example a 6th-level censor has "Signature, 3, 5, 7, 9" in their Abilities column, and "5, 9" in their Order Abilities column (representing the censor's subclass). This means a censor of that level has a signature ability and four heroic abilities costing 3, 5, 7, and 9 wrath respectively, plus an additional two subclass heroic abilities costing 5 and 9 wrath.
 
+<!-- -->
 > **Quick Build Gold Icons**
 >
 > Abilities granted by your class that are quick build options are indicated by a gold icon to the left of their name. Look for this icon if you're using the quick build options when creating your hero:
@@ -4496,6 +4514,7 @@ Demons and deathless fear you. Criminals run from the sight of your shadow. Agen
 
 As a censor, you're at your best against the strongest foes. Your judgment terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
 
+<!-- -->
 > "We FIGHT!
 >
 > Until HELL!
@@ -5809,6 +5828,7 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 
 **As a conduit, you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
 
+<!-- -->
 > "The gods judge our actions, and our inaction."
 >
 > **Dazar**
@@ -7445,6 +7465,7 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 **As an elementalist, you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your elemental specialization determines which of these talents you excel at.**
 
+<!-- -->
 > "Understanding the mystery, requires ignorance of the mystery."
 >
 > **Embers**
@@ -8637,18 +8658,22 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 | **-**<br>Immunities | **Burrow**<br>Movement |                   | **-**<br>With Captain | **-**<br>Weaknesses  |
 |   **+3**<br>Might   |   **+1**<br>Agility    | **-5**<br>Reason  |  **-5**<br>Intuition  |  **-3**<br>Presence  |
 
+<!-- -->
 > **Earthwalk**
 >
 > Difficult terrain composed of earth and stone doesn't cost the source extra movement.
 
+<!-- -->
 > **Tunneler**
 >
 > When the source burrows, they create a size 2 tunnel.
 
+<!-- -->
 > **Earth Harness**
 >
 > A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.
 
+<!-- -->
 > **Boulder Bash**
 >
 > | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
@@ -8858,6 +8883,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 **As a fury, you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness-and neither do you.**
 
+<!-- -->
 > "DEATH!"
 >
 > **Khorva**
@@ -8902,6 +8928,7 @@ Your primordial aspect is your subclass, and your choice of aspect determines ma
 
 Within the heat of battle, your determination and anger grow, fueling a Heroic Resource called ferocity.
 
+<!-- -->
 > **Where's My Maneuver?**
 >
 > Since most other classes get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the fury?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the fury has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
@@ -10282,6 +10309,7 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 **As a null, you resist the supernatural forces of the universe with composure and confidence. As you strive for perfect order, you are an enemy of the ultimate expression of chaos: the supernatural. Those who break the laws of nature using sorcery or psionics should fear you.**
 
+<!-- -->
 > "Any weapon can be turned against the hand that wields it."
 >
 > **Ardashir**
@@ -12605,6 +12633,7 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 **As a tactician, you have abilities that heal your allies and grant them increased damage, movement, and attacks, even as you leave your enemies struggling to respond.**
 
+<!-- -->
 > "Your line is broken, Varrox! Your wizard is dead. Hahah! You should have negotiated!"
 >
 > **Sir John of Tor**
@@ -12678,6 +12707,7 @@ Though you can't gain focus outside of combat, you can use your heroic abilities
 
 When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the tactician, but they might appear in future products.)
 
+<!-- -->
 > **Tactician Abilities Explained**
 >
 > Many of the tactician's abilities grant allies extra movement, damage, and actions. But what's happening in the fiction to allow this? The tactician is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The tactician can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the tactician's abilities are the actual commands they give their friends!
@@ -13636,6 +13666,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 **As a talent, you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and talents who use too much power too quickly pay a deadly price.**
 
+<!-- -->
 > "I've seen what you can do! There is NO LIMIT to your power! All you have to do... is BELIEVE!"
 >
 > **Khorva**
@@ -15116,6 +15147,7 @@ Though you can't gain drama outside of combat, you can use your heroic abilities
 
 When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as Artful Flourish, you can use it as if you had spent an amount of drama equal to your Victories.
 
+<!-- -->
 > **The Auteur Troubadour**
 >
 > Abilities like Guest Star, Missed Cue, and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
@@ -16347,6 +16379,7 @@ The description of equipment in your kit is limited to broad categories, leaving
 
 You can wear armor and wield weapons that aren't part of your kit, but if you do, you don't get your kit's bonuses.
 
+<!-- -->
 > **Customizing Equipment Appearances**
 >
 > You should absolutely feel free to describe your equipment in a way that makes sense for the story of your game and hero. For instance, if your hero uses a weapon in the whip category as part of their kit, they could use a leather whip, a spiked chain, or a dagger tied to a knotted rope. A hero who wears heavy armor might wear a suit of chain mail, plate armor, or heavy wooden planks tied together. Your choices for equipment aren't limited just to the examples in this book.
@@ -16465,6 +16498,7 @@ For details on the ability format, see [Abilities](#page-83-0) in [Chapter 5: Cl
 
 This section details each kit, whose bonuses and benefits are summarized in the Kits table.
 
+<!-- -->
 > **Improvised Weapons**
 >
 > Improvised weapons include rocks, bottles, plates, furniture, and anything else you pick up that can be bashed, hurled, or stabbed into an enemy. As well, any weapons that aren't part of your kit count as improvised weapons for you. If you're not using a kit with unarmed strikes, then your feet and fists are improvised weapons. If you're not using any kit and pick up a sword to use as part of a melee free strike, the sword counts as an improvised weapon.
@@ -17315,6 +17349,7 @@ When you make a project roll using a skill from the crafting skill group, you ca
 
 On any day when you don't take a respite, you can spend 1 uninterrupted hour working on a crafting project using a skill you have from the crafting skill group. If you do so, you gain 1d10 project points toward that project.
 
+<!-- -->
 > **Perks and Tests**
 >
 > The existence of specific perks doesn't mean that a hero can't attempt the task related to a perk without having that perk. Aside from supernatural perks, a Director can always allow a hero to attempt a mundane task mentioned in a perk by making a test. Perks are special because they allow a hero to attempt a specific task without a test, and often give a better result than a successful test-or even a test with a reward would give.
@@ -17529,6 +17564,7 @@ If your familiar is destroyed, you can restore them as a respite activity, or by
 | **-**<br>Immunities | **-**<br>Movement |                              | **-**<br>With Captain | **-**<br>Weaknesses  |
 |   **-3**<br>Might   | **+2**<br>Agility |       **0**<br>Reason        |  **0**<br>Intuition   |  **+1**<br>Presence  |
 
+<!-- -->
 > **Telepathic**
 >
 > While you and your familiar are within 10 squares of each other, you can communicate telepathically and share each other's senses. While sharing senses, each of you also benefits from your own senses at the same time.
@@ -18739,6 +18775,7 @@ You make an Intuition test whenever you attempt a risky task that requires the u
 
 You make a Presence test whenever you attempt a risky task that requires the use of your force of personality. Presence tests are most often used to gain trust, project confidence, and influence and lead other creatures.hough it's easier than easy, then
 
+<!-- -->
 > **Influencing Player Characters With Tests**
 >
 > The things player characters do can't be influenced by any creature making a test, whether a monster, an NPC, or another player character. Many players feel that their agency is taken away if they're compelled to jump into a pile of gold filled with hidden scorpions because an NPC convinced them to do so with a Presence test. For most players, it's not fun to be in control of a hero and lose some of that control.
@@ -18858,6 +18895,7 @@ Common rewards accompanying success on a test include the following:
 
 In lieu of other rewards, the Director can also decide that a hero who succeeds on a test with a reward earns the players a hero token (see [Hero Tokens](#page-19-4) in [Chapter 1: The Basics](#page-17-3)).
 
+<!-- -->
 > **Optional Rule: Pitching Consequences and Rewards**
 >
 > Coming up with consequences and rewards for tests can be a big part of the fun for many Directors, but even the best Directors occasionally run low on ideas. That's why the game gives the default option of consequences and rewards in the form of Malice and hero tokens. However, a Director who prefers narrative consequences and rewards can ask the players to pitch different consequences and rewards when they make a test. The Director can reject, add to, or modify the players' ideas as they choose, and will remind the players that they need to pitch real consequences, and not minor rewards disguised as consequences.
@@ -18923,6 +18961,7 @@ Reactive tests are typically made in the following circumstances, though the Dir
 - **Recall Lore:** The Director might ask a hero to make a Reason test when dealing with a new object, a piece of information, or an event to determine what history or details the hero might already know about it.
 - **Creature and DTO Tests:** Some creatures and dynamic terrain objects in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)* have features and abilities that require heroes to make reactive tests. These tests can't be modified by skills.
 
+<!-- -->
 > **Optional Rule: Secret Reactive Tests**
 >
 > Some Directors prefer to make the power rolls for reactive tests for the heroes rather than asking the players to do so. This allows the Director to make the rolls when appropriate for hidden objects, creatures, motivations, and information without tipping off the players that there is information to be gained. Having the Director roll requires the Director to have everyone's characteristics and skills recorded (whether physically or digitally) for easy reference.
@@ -18963,10 +19002,12 @@ Since you don't need to worry about your character covering a wide spread of ski
 
 The rules for skills allow for them to be flexibly applied to any test that is appropriate for the skill. This encourages clever thinking. A player can ask the Director, "I want to impress the duke with a story about how I ascended the sheer Cliffs of Azgahnan. Can I use my Climb skill for a +2 bonus to my Presence test?" Getting creative like that is a lot of fun. It paints a visual picture, and it's good tactical thinking! However, if the skills in a game are too broad in the kinds of activities they represent, players inevitably end up applying the same skill over and over again to as many tests as possible. This isn't fun for anyone, and doesn't make a very compelling story.
 
+<!-- -->
 > **Edges on Tests With Specific Skills**
 >
 > Certain features and abilities grant a creature an edge on tests made with a specific skill. A creature making a test where the specific skill would apply gains an edge on the test even if they don't have the skill. For example, the conduit's Blessing of Fortunate Weather can create foggy weather that grants creatures who make tests using the Hide skill an edge on those tests. Any creature who attempts to hide in the fog gains an edge on the test as long as the Hide skill would apply to that test, regardless of whether they have that skill or not.
 
+<!-- -->
 > **Are All Skills Equal?**
 >
 > When choosing skills for your character, deciding which skills will be most useful depends a lot on the campaign. For instance, the Swim skill might be used constantly during a campaign that takes place on the ocean and has heroes exploring underwater ruins, but it won't come up as much in a campaign that takes place entirely in a vast desert. The Psionics skill might come up a lot in a campaign where voiceless talkers are the main foes, and Magic might be more useful in a game where the heroes take on a circle of evil wizards. If you're worried about whether a skill you'd like to take will be useful, discuss your skill list with the Director after you create a hero. And if a skill doesn't work out, you can always trade it for another skill as you wish (see Changing Character Options in Chapter 2: Making a Hero).
@@ -19097,6 +19138,7 @@ Consequences for tests made with lore skills typically include learning an incor
 | Strategy            | Knowing about battle tactics and logistics                                                 |
 | Timescape           | Knowing about the many worlds of the timescape                                             |
 
+<!-- -->
 > **For the Director: Make Your Own Skills**
 >
 > Directors should feel free to make their own skills that they feel are relevant and useful to their campaigns and adventures. For instance, the game doesn't have a Brewing skill for brewing ale or a Painting skill for making art because those aren't tasks that typically come up in a game about fighting monsters and saving the world. However, a Director could decide that their campaign involves poisoned barrels of ale and large amounts of counterfeit art, and that adding these two new skills to the game would make it more fun for the players. The Director simply needs to pick a group for these new skills-in this case, crafting makes sense. They then let the players know that they can swap out any crafting skill they have for these new skills.
@@ -19213,6 +19255,7 @@ If the total of your test is higher than that of a hidden creature, they are no 
 
 If a creature is hidden from your allies but not from you, you can use a maneuver without making a test to point that creature out to your allies.
 
+<!-- -->
 > **What Does It Mean to Be Observed?**
 >
 > Most of the time, if a creature has line of effect to you, they're able to observe you-especially if you're an active threat to them, such as in a combat encounter. However, the game leaves what it means to be observed open to interpretation, because there are circumstances where a creature might have line of effect to you but isn't observing you, giving you a chance to hide. For example, a guard in a crowded marketplace likely isn't able to observe every creature within their line of effect, so slipping away to hide in that situation is probably easier than hiding from them in an otherwise empty street. The Director has the final say on who is observing you, and who you are able to observe.
@@ -19382,6 +19425,7 @@ When the heroes face a problem that can be solved only with action, or when they
 
 When combat begins, the Director should position miniatures or tokens on a gridded map to represent the environment, the heroes, their foes, and any other creatures in the battle.
 
+<!-- -->
 > **How Big is a Square?**
 >
 > It's helpful to know how big a square is for abilities and features that heroes and NPCs can use outside of combat. By default, a square is 5 feet on all sides. But the Director can change this measurement to 2 yards, 2 meters, 1 meter, or any other measurement you prefer, as long as that scale stays consistent throughout your game.
@@ -19413,6 +19457,7 @@ The Creature Sizes table shows example sizes for creatures up to size 5, but lar
 
 Every combat encounter is a conflict between two sides. The heroes and any of their allies are one side, controlled by the players. Any creatures who oppose the heroes are the other side, controlled by the Director. All creatures who oppose the heroes are on the same side, even if those creatures also oppose each other. For example, if the heroes are battling a group of bandits when a kingfissure worm suddenly bursts into the fray to devour player characters and brigands alike, the worm is still on the side of the bandits for the purpose of the game's combat rules.
 
+<!-- -->
 > **NPC Allies**
 >
 > If an NPC ally fights alongside the heroes, the Director should give the players the ally's stat block and let them control the NPC during combat. The Director has enough to worry about. As well, any missteps, mistakes, or triumphs the ally makes will be thanks to the decisions of the players and not the Director, which can make the outcome of the battle more satisfying for the players.
@@ -19453,6 +19498,7 @@ In general, though, most groups find that it's usually only one or two players i
 
 If the players do end up arguing in circles about what to do next, the Director can place a timer on the discussion. Usually, giving the players a warning and 30 seconds to decide who goes next does the trick. If they can't choose by the end of that time, the Director chooses a hero to act.
 
+<!-- -->
 > **Alternative Turn Order**
 >
 > If planning everyone's turn order isn't fun for your group, you can leave it to the dice instead. At the start of combat, have each hero, enemy, and group of enemies make an Agility test, then record the totals. When it's time for someone on the heroes' side to act, the hero with the highest total goes first. On the next hero turn, the hero with the second-highest total takes their turn, and so on. The Director-controlled creatures act the same way. Creatures on the same side should reroll tied Agility tests to determine who among the tied creatures acts before the others.
@@ -19685,6 +19731,7 @@ When you force move a target, you can always move that target fewer squares than
 
 Forced movement ignores difficult terrain and never provokes opportunity attacks. When you force move a target into damaging terrain or into terrain that produces an effect, they are affected as if they had moved into it willingly.
 
+<!-- -->
 > **Multitarget Abilities and Forced Movement**
 >
 > Some creatures can force move multiple creatures or objects with a single ability. Unless the ability specifies otherwise, the creature using the ability determines the order in which the targets are force moved. The creature should select each target individually and complete their forced movement before force moving the next target affected.
@@ -19717,6 +19764,7 @@ When a creature force moves a target into a stationary object that is the target
 
 If you force move a creature downward into an object that doesn't break (including the ground), they also take falling damage as if they had fallen the distance force moved and their Agility score was 0 (see [Falling](#page-283-3) above).
 
+<!-- -->
 > **Tracking Object Forced-Movement Damage**
 >
 > At the Director's discretion, mundane objects that are force moved into creatures or other objects take damage as if they were creatures. Sturdy objects can take damage as follows before they are destroyed:
@@ -20145,6 +20193,7 @@ If the Director calls the end of combat when a specific objective in an encounte
 
 Event endings can cover big scenarios such as the characters destroying a dam to unleash a river upon their enemies, or completing a ritual that causes all the demons they've been battling to be sent back to the Abyssal Wasteland, accompanied by visual details. For example, if the heroes are battling a necromancer who controls a horde of zombies, the undead might all crumble to dust when the necromancer is defeated. If the heroes destroy an eldritch machine sapping the land of its natural energy, the shockwave from the device's destruction could vaporize the cultists attempting to protect it.
 
+<!-- -->
 > **Fleeing Foes**
 >
 > If you've played a fantasy RPG before, odds are you've had an encounter where you didn't chase down every last fleeing foe-and then one such foe grabbed another bunch of evil buddies and came back to ambush you. It takes only one experience like this to create players who promise, "No survivors. No mercy!" whenever foes break ranks. Chasing down every last foe can be fun once in a while, but it can easily turn a tactical encounter into a slog.
@@ -20362,6 +20411,7 @@ Arguments that appeal to the vengeance motivation contend that the NPC can gain 
 - "The servants of Ajax killed your sister as she scoured the city for his cults. The Black Iron Pact works for the Overlord. Give us her diaries, and we might uncover the pact's hideaway and deal a great blow to your hated foes."
 - "That prankster Huckable made your trousers tear at the last council meeting. Don't you want to pay him back? We can arrange a delicious prank at the next gathering, but we need you to guarantee the safety of the orc refugees."
 
+<!-- -->
 > **NPCs Change Over Time**
 >
 > Just like the heroes, NPCs in negotiations are complex individuals who can change over time. It's possible that the heroes might have to negotiate with the same NPC for several different favors during the course of a campaign, over which time the NPC's motivations and pitfalls might change. If the heroes turn a bandit captain with the greed and power motivations into a temporary ally, that criminal might learn from them, changing their ways to rob only those who exploit the poor and giving those earnings to people in need. The next time the heroes negotiate with the bandit captain, they have the benevolence and protection motivations.
@@ -20435,6 +20485,7 @@ At the Director's discretion, a particularly well-roleplayed or well-reasoned ar
 
 If the heroes attempt to appeal to a motivation that's already been appealed to, the NPC's interest remains the same and their patience decreases by 1.
 
+<!-- -->
 > **Appealing to Multiple Motivations**
 >
 > If a hero makes an argument that appears to appeal to more than one of an NPC's motivations, the Director can ask for clarification. After listing the motivations it seemed as though the player was trying to appeal to, they can ask the player to pick one from the list. If the player had another motivation in mind, it's up to the Director whether the argument appealed to that specific motivation or not.
@@ -20457,6 +20508,7 @@ If the heroes try to use the same argument without a pitfall or motivation twice
 
 If a hero lies to an NPC with an argument that fails to increase the NPC's interest, the Director can decide that the NPC catches the lie and is offended by it. The NPC's interest decreases by 1, in addition to any decrease imposed by the failure.
 
+<!-- -->
 > **Everyone Can Participate**
 >
 > Since Reason and Intuition with creatively applied skills can be used to make arguments, all heroes can actively participate in the process of negotiation. The hero with the highest Presence who has the Persuade skill doesn't automatically have to be the one who makes all the tests.
@@ -20560,6 +20612,7 @@ The heroes are engaging in a negotiation with Zola Honeycut, the human guildmast
 
 Zola is neutral toward the heroes when the negotiation begins. She knows them only by reputation, though she understands that they too believe Saxton is a tyrant who must be stopped. However, standing up to that tyrant has cost her people dearly, and she's not sure she's ready to rejoin the fight. One wrong move could spell the end of the Clock!
 
+<!-- -->
 > **Zola Honeycut Negotiation Stats**
 >
 > - **Interest: 2**
@@ -20922,6 +20975,7 @@ Imbuing treasure with supernatural power as a downtime project typically means y
 
 Armor imbued with an enhancement grants you special benefits while it is worn. Additionally, when your armor receives its 1st-level enhancement, it also grants a +6 bonus to Stamina. A 5th-level enhancement increases the Stamina bonus to +12, and a 9th-level enhancement increases it to +21.
 
+<!-- -->
 > **Clothing as Armor Treasures**
 >
 > A hero who has a kit that provides no armor, such as the Martial Artist or Sniper kit, can create and make use of leveled armor treasures that imbue mundane clothing with supernatural power. At the Director's discretion, heroes who don't use kits, such as elementalists and nulls, can also benefit from such treasures.
@@ -21768,6 +21822,7 @@ Heroes can also craft their own treasures, forging the tools they need to get th
 
 When a hero finds a treasure, they learn its properties if they examine it for 5 uninterrupted minutes, unless the item's description says otherwise.
 
+<!-- -->
 > **Treasure Item Prerequisite**
 >
 > Each treasure has an item prerequisite necessary for crafting it. The exact nature of many of the materials used as an item's prerequisite is left nebulous so that the Director can more easily work those materials into a campaign. What's a mindspider, and how rare is their silk? That's for the Director to decide, whether they want to drop prerequisite items into their planned adventures or craft an entire side quest around finding them.
@@ -21812,6 +21867,7 @@ Consumables are organized by echelon to make life easy for the Director handing 
 
 Your character can carry any number of consumables at a time.
 
+<!-- -->
 > **Other Sections**
 >
 > The rules for using treasures refer to lots of other parts of the game. You can find information on specific topics as follows:
@@ -22970,6 +23026,7 @@ It's fine to own or possess more than three leveled treasures, as long as the ex
 - **12-16:** Your items work together to prevent you from moving until you pick three items and leave the rest behind.
 - **17+:** Nothing happens.
 
+<!-- -->
 > **You Don't Need Three**
 >
 > Because you can carry up to three leveled treasures safely, it's easy to assume that your hero should always seek out and carry three such treasures. The truth is that many heroes find carrying just one or two leveled treasures a perfect thematic and mechanical fit, and have no real need for more. That's totally fine! You'll still be super powerful with just one leveled treasure, especially if you obtain or craft trinkets and consumables that might serve you better.
@@ -23784,6 +23841,7 @@ This section details a number of ready-to-use titles. But the Director can also 
 
 The easiest way to create custom titles is to modify an existing title's requirements to fit the adventure at hand. For instance, your world might contain a secretive organization of freedom fighters-the Jesters-who never carry weapons, defeating foes with unarmed attacks and improvised weapons. Creating a Jester title can be as easy as modifying the Brawler title by changing its requirements to "Fight alongside the Jesters against a mutual foe."
 
+<!-- -->
 > **For the Director: Perks as Custom Titles**
 >
 > You can turn a perk into a 1st-echelon title simply by giving it a prerequisite (see Chapter 7: Perks). For example, a hero might gain the Familiar perk as a title instead if they complete a quest for an archmage, who then teaches the hero the conjuring ritual as a reward.
@@ -23808,10 +23866,12 @@ There is no hard-and-fast rule for the number of titles characters should accumu
 
 Titles suitable for 1st-echelon characters are presented in alphabetical order.
 
+<!-- -->
 > **Optional Rule: Players Choose Titles**
 >
 > If the Director doesn't want to track player accomplishments, they can let the players do it instead. In this case, whenever a hero enters a new echelon of play, they gain one title of their choice for which they qualify.
 
+<!-- -->
 > **For the Director: Planning Titles**
 >
 > While running a game session, it can be hard to track the heroes' actions and remember which titles they might qualify for. As such, it's easier to plan titles ahead of time. If the heroes might face a demon or dragon in an upcoming adventure, you can include the Demon Slayer or Dragon Blooded titles as potential rewards alongside that magic cloak or psionic dagger. You can even use titles to inspire adventures. What challenges should a hero face to earn the Demigod title?
@@ -23926,6 +23986,7 @@ Additionally, the Director assigns you one of the following benefits, as appropr
 - *Local Fame:* You earn 1 Renown.
 - *A New Dawn:* Each time you finish a respite while in a community you have saved, the party gains a hero token. This hero token disappears at the end of your next respite if it hasn't been used.
 
+<!-- -->
 > **Renown and Wealth**
 >
 > Many titles bestow Renown, followers, and wealth upon heroes. Those topics are covered later in this chapter.
@@ -24756,6 +24817,7 @@ In general, a hero earns 1 wealth every second level of play. The Director can i
 
 As an optional rule, the Director can allow a hero to make a purchase that is one above their Wealth score. If this occurs, the hero's Wealth is reduced by 1 (to a minimum of 0) after making the purchase.
 
+<!-- -->
 > **Heroes Don't Do It for Gold**
 >
 > In *Draw Steel*, being a hero isn't a transactional job-it's a calling. As such, using the promise of treasure to motivate the players to accept quests comes up much less often than in many other games. Sure, the heroes need money to live, and some might even enjoy getting rich from their adventures. But money isn't the reason they put their lives on the line. Each time you create a hero, think about why your character answers the call to adventure-and make it about something more than gold.
@@ -24803,6 +24865,7 @@ Usually, these churches recognize each other as expressing different, equally va
 
 There are churches dedicated to nature or knowledge or the sun, with no clear moral or ethical component to them. There are evil churches, churches devoted to dark saints and tyrant gods. But the saints and heroes listed here each have churches that, however esoteric their teachings (usually referred to as the "speech" or "words" of the saint or hero) expect their clergy to go forth into the world and perform good deeds-tend to the sick, ease pain, perform birth, death, and union rituals. These churches all have acolytes and abbots, censors and conduits. It is not so much that Grole the One-Handed was, in life, principally concerned with the spiritual wellbeing of his *people*, but rather that this is what people expect of *churches*. So, as a religion grows, it soon conforms to the expectations of the people such that even the church of Khorvath Who Slew A Thousand has conduits who heal the sick and tend to the souls of their people.
 
+<!-- -->
 > **How To Use This Chapter**
 >
 > *Draw Steel* isn't about religion any more than it is about language or treasure, but understanding how religion works in a day-to-day sense can help make the game world feel more real. The people in Orden aren't any more religious than the people of Earth were in the premodern era. It is a factor in their lives, but not the only factor-and for some people, not a very important one.
@@ -25745,6 +25808,7 @@ The best way to think of a campaign is to compare it to a film saga, a series of
 
 Some campaigns are short, spanning only a single adventure or even just one session of play. Most last a good while longer than that, and contain multiple adventures. The longest campaigns feature many adventures and take the heroes from 1st to 10th level.
 
+<!-- -->
 > **You're Not Being Tested**
 >
 > You don't need to memorize every single rule and exception before you start running *Draw Steel*. This is a big book, and you're allowed to use it while you play! Whenever a question comes up at the table, you can tell the other players, "Let me reference the old texts," and find the right answer.
@@ -25802,6 +25866,7 @@ Here's an example of an opening overview that Matthew Colville created for his g
 
 As you can see, this opening overview introduces the setting-Vasloria (see [Orden and the Timescape](#page-24-1) in [Chapter 1: The Basics](#page-17-3)). It also gives just enough history and background information for the players to understand their heroes' goal-to recover the knowledge and weapons of the last emperor, sealed behind powerful wards, in order to stop the tyrant Ajax.
 
+<!-- -->
 > **Personal Problems at the Table**
 >
 > Sometimes a player might talk over others. Sometimes a player makes a snarky comment that hurts someone else's feelings. Sometimes a player might cheat on their dice rolls. When personal problems pop up at the table, it's best to talk about those issues at the player level rather than try to solve them by punishing a player's hero.
@@ -25991,6 +26056,7 @@ A lot of Directors prefer to make their own adventures rather than use published
 
 Every good adventure includes villains, a task to accomplish, NPCs, and interesting locations and adventure sites.
 
+<!-- -->
 > **Player Ambition Writes Adventures**
 >
 > Players have ambition driven by their characters' complications, personal stories, and desires for titles, supernatural treasures, and other rewards. Indulge these desires! If a hero wants to go on a quest to gain a Blade of Quintessence, let them know where they can find one (after they put in the proper research or questing time, of course). You can then plan an adventure, even just a short one, around the weapon's retrieval!
@@ -26026,6 +26092,7 @@ Instead of achieving their goals through diplomacy and heroics, villains take wh
 
 Of course, some villains want to cause violence and mayhem just for the sake of it! These villains can be fun to throw into an adventure from time to time, but many are the type of folks who are typically being manipulated by villains with even greater motivation. As such, they shouldn't be the focus of every adventure in every campaign.
 
+<!-- -->
 > **Stealing is Encouraged**
 >
 > When you're coming up with ideas for campaigns, adventures, and scenes, you should feel free to steal plots, action set pieces, characters, and anything else you want from your favorite movies, television shows, novels, comic books, and podcasts. You can then modify a few cosmetic details to make things your own. Borrowing a character who's a human man in your favorite novel to make an NPC? Make the NPC a dwarf woman with a new name and no one is the wiser. Got an idea for an encounter based on a battle scene from your favorite science fiction flick? Make those invading aliens gnolls instead! Let your favorite stories inspire you, especially when you're looking for new ideas.
@@ -26044,6 +26111,7 @@ An adventure's goal isn't always clear to the players at the start, but the hero
 
 Every adventure should have an inciting incident that either sees the heroes discovering the adventure's goal, or that puts them on the path to discovering it. If the characters start an adventure by finding the freshly murdered body of a noble in the streets of Capital, they're likely to look for clues that could lead them to catching a murderer-a solid, straightforward adventure goal. Or it could be that the murder leads them to uncovering a grand conspiracy in which one of Capital's Great Houses is planning a coordinated and violent takeover of the city. The heroes must stop those plots-an adventure goal that might take them several scenes to fully uncover. But each of those scenes should lead directly to the next without leaving the players wondering, "What should we do?"
 
+<!-- -->
 > **Complications and Adventures**
 >
 > If the heroes in your campaign have taken complications (see [Complications and Campaigns](#page-391-0) above), it's a good idea to have at least one complication make trouble for a hero during an adventure, or play some other part in the adventure's story. Rotate the hero whose complication is highlighted each time, so that every player gets a chance to be at the center of the story.
@@ -26192,6 +26260,7 @@ more if you dig through it." This encourages players to be more active in the pr
 
 Allow the heroes' investigation to drive the action. In an exploration scene, you take on the role of the environment, reacting to the characters' and players' choices. Don't tell the players what their heroes do. Instead, describe the consequences of their actions. If characters take the time to carefully search the bandit hideout for traps, they should have a chance of finding any traps you've set up there. But if a hero runs into the cave and triggers a hidden trap because they didn't move into hostile territory carefully, that's on them! It's an important lesson the player can learn for next time.
 
+<!-- -->
 > **The Players Will Surprise You**
 >
 > Even the best-prepared adventures rarely survive first contact with the heroes. Your session notes expect the players to have their characters enter the bandit hideout from a secret back entrance, but one player has the bright idea of entering through a crack in the cave roof. It's perfectly fine to go off script and adapt to the players' plans if doing so is fun for everyone.
@@ -26252,6 +26321,7 @@ The hazards you'll create and use in your adventures come in one of three types:
 - **Activated One-Time:** An activated one-time hazard is triggered and then creates one instance of danger. Sometimes that danger ends almost as soon as it begins, such as a trap that fires a single poison dart. Other times, that one instance of danger can create other lasting problems the heroes must deal with, such as a cave-in that deals damage, then leaves the party trapped in an abandoned mine.
 - **Obstruction:** Obstructions are hazards the heroes must find their way over or around, such as pools of acid, chasms, and rivers of lava. Since obstruction hazards are typically static, a hero takes damage or suffers other effects from an obstruction only as the result of a failed test made to traverse the hazard.
 
+<!-- -->
 > **Terrain as Hazards**
 >
 > Some of the best hazards are the terrain options found in *[Draw Steel: Monsters](https://mcdm.gg/DS-Monsters)*. These dynamic options work great in combat encounters, but you can also use many of them as hazards the heroes must cross (such as acid pools and lava) or contend with (such as the arcane object known as the black obelisk) as they travel from one destination to another. You can use these hazards as is, or rework them to match your story. For example, you might convert an acid pool to a pool of toxic sludge by having it deal poison damage instead of acid damage.
@@ -26338,6 +26408,7 @@ It helps to know the various outcomes an NPC might offer during a negotiation ah
 
 A negotiation has six possible outcomes, but two of those are predetermined. If a negotiation ends with the NPC at interest 4, then the heroes get what they want. If the heroes end the negotiation at interest 1, the NPC can't offer them anything. Even with four options left wide open, however, setting up outcomes actually requires less prep work than you might think.
 
+<!-- -->
 > **Multiple NPCs**
 >
 > The negotiation rules are built around the idea of the heroes facing off against a single dominant NPC-a powerful leader, a ranking diplomat, a warlord, a key villain, and so forth. But this isn't to say that you can't run a negotiation with the heroes interacting with a group of NPCs, each with their own slightly different take on wheeling and dealing.
@@ -26384,6 +26455,7 @@ During negotiation, let the players talk freely about their strategy if that fit
 
 Once a negotiation starts, the players and characters can obtain information about the NPC involved only by making tests, using their characters' features, or through engaging in conversation with the NPC. Whenever the NPC makes an offer to the heroes after a test, make it clear what the terms of the offer are. While some NPCs might speak cryptically, it's best for the players to understand what they're getting their heroes into. It can be fun to trick the heroes, but many players don't feel the fun when they get tricked instead.
 
+<!-- -->
 > **Sharing Interest and Patience**
 >
 > It's up to you as the Director to decide whether to share an NPC's interest or patience during a negotiation. Sometimes sharing this information can make an encounter more dramatic, with the players watching their progress rise and fall in real time. Other groups might find negotiation more fun and immersive if those exact numbers are hidden from the players, just as some groups like knowing the Stamina of every creature in a battle and others prefer to keep that information secret. Talk to your players about what they'd prefer.
@@ -27115,6 +27187,7 @@ The encounter you craft should be connected to the first adventure you plan to r
 
 If you've got still more time, you can keep playing a little longer, either by expanding the combat encounter or adding some exploration or travel. Otherwise, wrap the combat up, thank the players for a great first session, and start planning your next session.
 
+<!-- -->
 > "Life's like a movie
 >
 > Write your own ending

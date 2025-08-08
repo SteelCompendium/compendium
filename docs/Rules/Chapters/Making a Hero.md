@@ -45,6 +45,7 @@ Each option you can choose for your hero at 1st level includes a parenthetical s
 
 If this is your first time making a hero, don't stress! The first time you build a character for *Draw Steel*, it might take an hour or so. Don't rush the process. Set aside some time, enjoy digging into all the options, and if you can, make your character alongside friends who are playing in the same game. The process gets a lot faster after you've done it once.
 
+<!-- -->
 > **Character Sheets**
 >
 > You can download and print out character sheets and other free resources for *Draw Steel* at *<https://mcdm.gg/DS-Resources>*.
@@ -61,6 +62,7 @@ The first thing you should do is think about the kind of hero you want to make. 
 - What people, places, and objects are important to you?
 - How will your hero complement the strengths and weaknesses of the other heroes in your party?
 
+<!-- -->
 > **Ambition is Good!**
 >
 > Heroes aren't just along for the ride in the Director's story. They're active participants in that story, making decisions that change their communities, their worlds, or even the entirety of the timescape! It's good for your hero to have desires-to want to found an organization, seek justice for someone who was wronged, or craft a magic sword that will help you defeat your foes. It's only when that personal ambition becomes more important than the group's story that it creates a potential problem. But if you share your character's ambitions with your Director, they can weave those desires in with the narrative. Character creation is a great time to do this.
@@ -75,16 +77,19 @@ Choose your hero's humanoid ancestry from among the range of ancestries availabl
 
 Choose or create your hero's culture. Although ancestry gives your hero any number of physiological benefits, your culture describes the community that raised you and gives you languages and skills. See [Culture](#page-67-1) in [Chapter 4: Background](#page-67-0) for more information.
 
+<!-- -->
 > **Choosing Skills**
 >
 > This game has lots of skills (as detailed in [Skills](#page-268-0) in Chapter 9: Tests), and lots of opportunities during character creation to gain them. We recommend recording a list of all the skills you might choose from the different steps of the character creation process, then making your choices at the end of that process rather than flipping back and forth through the book.
 
+<!-- -->
 > If you gain the same specific skill from two different sources (for instance, from a career and a class), you can pick a different skill from any skill group.
 
 #### 4. Career
 
 Choose your hero's career, which describes what you did for a living before you became a hero. A career provides you with skills, an inciting incident that precipitated your adventuring career, and a perk that lets you customize your hero. It might also grant you languages, Renown, wealth, or the potential to undertake crafting and research. See Careers in Chapter 4: Background for more information.
 
+<!-- -->
 > **I Speak Their Language**
 >
 > Choosing languages at the start of a campaign can be hard because you might not know which languages are going to be most prevalent or useful. You can choose to leave some of the languages you know open until you discover what might be a good choice for the campaign you're playing in. Once you decide to take a language, you can reveal your choice in a dramatic fashion, perhaps during a negotiation where knowing a specific language would help, or when you find a tome that no other hero in your party can read.

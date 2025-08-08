@@ -18,6 +18,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 **As a talent, you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and talents who use too much power too quickly pay a deadly price.**
 
+<!-- -->
 > "I've seen what you can do! There is NO LIMIT to your power! All you have to do... is BELIEVE!"
 >
 > **Khorva**

@@ -48,6 +48,7 @@ Abilities are special actions, maneuvers, and more that allow you to affect crea
 
 Abilities are presented in a special format that first describes the ability, then summarizes its mechanical details, and finally breaks out the ability's power roll (if it has one) and effects.
 
+<!-- -->
 > **Abilities in Combat**
 >
 > All the abilities appearing in this book are used as a main action, a maneuver, a triggered action, or some other part of your turn. As such, these abilities are all explicitly usable in combat or some other time-sensitive scenario where the game unfolds as combat rounds. If a creature has an ability that takes 1 minute or longer to use, that ability can't be used in combat.
@@ -116,6 +117,7 @@ Abilities with the Ranged keyword can be used to affect creatures who are too fa
 
 Abilities with the Strike keyword (often referred to simply as "strikes") deal damage to or impose a harmful effect on specific creatures or objects.
 
+<!-- -->
 > **It's Not All Strikes!**
 >
 > The Strike keyword and phrases such as "makes a strike" are reserved for abilities that have a creature targeting specific creatures or objects (not affecting creatures or objects in an area) and harming those targets in some way by making a power roll. The many abilities in the game that target areas of effect are not strikes. They instead use the Area keyword. That means if a feature distinctly interacts with a strike, that feature has no effect on abilities with the Area keyword.
@@ -192,6 +194,7 @@ the wall. A creature or object must be within the area to be targeted by a wall 
 
 You can stack squares on top of each other to make the wall higher. Unless otherwise stated, a wall can't be placed in occupied squares, and a wall blocks line of effect.
 
+<!-- -->
 > **Straight Lines**
 >
 > Talking about a straight line area of effect on an encounter map doesn't mean the line can only be a straight vertical or horizontal line of contiguous squares. It means each square in the line's length must move in the same direction without bending back in an opposite direction. To make a line area quickly, pick your line's origin square, then pick each subsquent square in the line one at a time in a single direction without bending back in an opposite direction.
@@ -230,6 +233,7 @@ If an ability targets "self," it can affect only the creature using the ability.
 
 If an area ability doesn't provide a number of targets but instead says it applies to each creature, object, enemy, or ally in the area, then all eligible targets for the ability are affected.
 
+<!-- -->
 > **Telling Friend From Foe**
 >
 > There might be times when a foe disguises or obscures themself so that they're temporarily seen as an ally-or at least not seen as an enemy. Until the effect ends, such a creature can't be targeted by abilities that would usually target them by targeting enemies. Fear not, though. All classes have access to at least one ability that targets creatures, whether friend or foe.
@@ -497,6 +501,7 @@ Each class in this chapter includes a table that shows the progression as a hero
 
 For example a 6th-level censor has "Signature, 3, 5, 7, 9" in their Abilities column, and "5, 9" in their Order Abilities column (representing the censor's subclass). This means a censor of that level has a signature ability and four heroic abilities costing 3, 5, 7, and 9 wrath respectively, plus an additional two subclass heroic abilities costing 5 and 9 wrath.
 
+<!-- -->
 > **Quick Build Gold Icons**
 >
 > Abilities granted by your class that are quick build options are indicated by a gold icon to the left of their name. Look for this icon if you're using the quick build options when creating your hero:
@@ -507,6 +512,7 @@ Demons and deathless fear you. Criminals run from the sight of your shadow. Agen
 
 As a censor, you're at your best against the strongest foes. Your judgment terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
 
+<!-- -->
 > "We FIGHT!
 >
 > Until HELL!
@@ -1817,6 +1823,7 @@ The power of the gods flows through you! As a vessel for divine power, you don't
 
 **As a conduit, you heal and buff your allies, and debuff your foes while smiting them with divine magic. The spark of divinity within you shines, filling your enemies with awe and making you more worldly and aware.**
 
+<!-- -->
 > "The gods judge our actions, and our inaction."
 >
 > **Dazar**
@@ -3453,6 +3460,7 @@ Air for movement. Earth for permanence. Fire for destruction. Water for change. 
 
 **As an elementalist, you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your elemental specialization determines which of these talents you excel at.**
 
+<!-- -->
 > "Understanding the mystery, requires ignorance of the mystery."
 >
 > **Embers**
@@ -4645,18 +4653,22 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 | **-**<br/> Immunities | **Burrow**<br/> Movement |                     | **-**<br/> With Captain | **-**<br/> Weaknesses  |
 |   **+3**<br/> Might   |   **+1**<br/> Agility    | **-5**<br/> Reason  |  **-5**<br/> Intuition  |  **-3**<br/> Presence  |
 
+<!-- -->
 > **Earthwalk**
 >
 > Difficult terrain composed of earth and stone doesn't cost the source extra movement.
 
+<!-- -->
 > **Tunneler**
 >
 > When the source burrows, they create a size 2 tunnel.
 
+<!-- -->
 > **Earth Harness**
 >
 > A creature that has the Earth Accepts Me ability can use it as a free action to meld into the source.
 
+<!-- -->
 > **Boulder Bash**
 >
 > | **Melee, Ranged, Strike, Weapon** |                 **Signature** |
@@ -4866,6 +4878,7 @@ You do not temper the heat of battle within you. You unleash it! Your experience
 
 **As a fury, you devastate foes with overwhelming might, hurl yourself and enemies around the battlefield, and grow stronger as your ferocity increases. Nature has no concept of fairness-and neither do you.**
 
+<!-- -->
 > "DEATH!"
 >
 > **Khorva**
@@ -4910,6 +4923,7 @@ Your primordial aspect is your subclass, and your choice of aspect determines ma
 
 Within the heat of battle, your determination and anger grow, fueling a Heroic Resource called ferocity.
 
+<!-- -->
 > **Where's My Maneuver?**
 >
 > Since most other classes get a bespoke maneuver, you might find yourself asking, "Where's the special maneuver for the fury?" The answer is that the class doesn't need its own maneuver, because most of the time, the fantasy of the fury has them using the Grab or Knockback maneuvers in combat. They're really good at those maneuvers too, so it doesn't make sense to give you another option that you'll rarely or never use.
@@ -6290,6 +6304,7 @@ The mind is not separate from the body. Perfection of one requires perfection of
 
 **As a null, you resist the supernatural forces of the universe with composure and confidence. As you strive for perfect order, you are an enemy of the ultimate expression of chaos: the supernatural. Those who break the laws of nature using sorcery or psionics should fear you.**
 
+<!-- -->
 > "Any weapon can be turned against the hand that wields it."
 >
 > **Ardashir**
@@ -8613,6 +8628,7 @@ Strategist. Defender. Leader. With weapon in hand, you lead allies into the maw 
 
 **As a tactician, you have abilities that heal your allies and grant them increased damage, movement, and attacks, even as you leave your enemies struggling to respond.**
 
+<!-- -->
 > "Your line is broken, Varrox! Your wizard is dead. Hahah! You should have negotiated!"
 >
 > **Sir John of Tor**
@@ -8686,6 +8702,7 @@ Though you can't gain focus outside of combat, you can use your heroic abilities
 
 When you use an ability outside of combat that lets you spend unlimited focus on its effect, you can use it as if you had spent an amount of focus equal to your Victories. (Such abilities aren't part of the core rules for the tactician, but they might appear in future products.)
 
+<!-- -->
 > **Tactician Abilities Explained**
 >
 > Many of the tactician's abilities grant allies extra movement, damage, and actions. But what's happening in the fiction to allow this? The tactician is an incredible strategist and inspiring leader who is quick to give commands and inspiration that causes their allies to act. The tactician can quickly read the battlefield, analyze enemies, and then bark orders and encouragement that pushes their allies to greatness. Many of the names of the tactician's abilities are the actual commands they give their friends!
@@ -9643,6 +9660,7 @@ Arare few people are born with the potential to harness psionic power, but only 
 
 **As a talent, you are limited only by the strength of your mind. But the ability to wield multiple powers at once and change reality at will involves a gamble. Every manifestation has a chance of harming you, and talents who use too much power too quickly pay a deadly price.**
 
+<!-- -->
 > "I've seen what you can do! There is NO LIMIT to your power! All you have to do... is BELIEVE!"
 >
 > **Khorva**
@@ -11123,6 +11141,7 @@ Though you can't gain drama outside of combat, you can use your heroic abilities
 
 When you use an ability outside of combat that lets you spend unlimited drama on its effect, such as Artful Flourish, you can use it as if you had spent an amount of drama equal to your Victories.
 
+<!-- -->
 > **The Auteur Troubadour**
 >
 > Abilities like Guest Star, Missed Cue, and Twist at the End allow the auteur to rewrite bits of what happens in the battle by temporarily removing creatures from an encounter, bringing people back to life, or causing a new ally to appear. These abilities and features are no more powerful than any other, but they're narratively different from shooting rays of fire or swinging a sword.
