@@ -189,12 +189,10 @@ At the start of each round, Ajax chooses a new stance from one of the following 
 >
 > Ajax automatically treats his initial power roll as a 17. He can still roll to determine if he scores a critical hit.
 
-<!-- -->
 > ⭐️ **Mastermind**
 >
 > Before he uses an ability, Ajax can either shift up to 2 squares, or can cause one creature within line of effect to slide up to 2 squares, ignoring stability.
 
-<!-- -->
 > ⭐️ **Vanguard**
 >
 > Ajax has damage immunity 5. Additionally, any enemy who makes a power roll that includes Ajax as a target has a double bane on the roll.
@@ -203,12 +201,10 @@ At the start of each round, Ajax chooses a new stance from one of the following 
 
 At the start of Ajax's turn, you can spend Malice to activate one of the following features.
 
-<!-- -->
 > 👤 **Reason (2 Malice)**
 >
 > Ajax attempts to instill doubt into a creature within line of effect through logic and reason. The creature and Ajax make an opposed Reason test. If Ajax wins, he chooses to either deal 11 extra damage to one target on his next strike or to gain an additional triggered action during the current round. Ajax can't use this feature against the same creature during the same encounter.
 
-<!-- -->
 > 🌀 **Nexus Jewel (5 Malice)**
 >
 > Until the end of the round, Ajax chooses one of the following environments he has previously visited and overlays that environment on top of the encounter map, temporarily merging multiple realities.
@@ -219,12 +215,10 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Volcanic Canyon:** The air is stiflingly hot. Each enemy takes 5 fire damage for each square they enter.
 
-<!-- -->
 > ☠️ **Solo Action (5 Malice)**
 >
 > Ajax takes an additional main action on his turn. He can use this feature even if he is dazed.
 
-<!-- -->
 > 🔳 **Draw Steel (10 Malice)**
 >
 > | **Area, Magic, Ranged, Weapon** |                          **Main Action** |
@@ -247,14 +241,12 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 | **-**<br/> Immunities | **Fly, hover**<br/> Movement |                      | **-**<br/> With Captain |  **-**<br/> Weaknesses  |
 |   **+5**<br/> Might   |     **+4**<br/> Agility      |  **+5**<br/> Reason  |  **+5**<br/> Intuition  |  **+4**<br/> Presence   |
 
-<!-- -->
 > ☠️ **Ajax**
 >
 > **Ajax Turns:** Ajax takes up to three turns each round. He can't take turns consecutively. Additionally, he can use three triggered actions in a round while he isn't dazed.
 >
 > **End Effect:** At the end of each of his turns, Ajax can take 20 damage to end up to two effects on him that can be ended by a saving throw. This damage can't be reduced in any way.
 
-<!-- -->
 > 🗡 **Blade of the Gol King**
 >
 > | **Charge, Magic, Melee, Strike, Weapon** |           **Signature Ability** |
@@ -271,7 +263,6 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **1+ Malice:** Ajax can strike one additional target for each Malice spent.
 
-<!-- -->
 > 🔳 **Decree by the Jade Hand**
 >
 > | **Area, Magic, Ranged** |                          **Main Action** |
@@ -288,7 +279,6 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **3 Malice:** The potency increases by 1. Additionally, the ground beneath the area drops 3 squares and is difficult terrain. Each flying target who has M < 5 is knocked prone.
 
-<!-- -->
 > 🏹 **Divine Vine**
 >
 > | **Magic, Ranged, Weapon** |                    **Maneuver** |
@@ -305,7 +295,6 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Special:** This ability can be replaced with the features of a different treasure Ajax has acquired.
 
-<!-- -->
 > 🔳 Bead of Hell (2 Malice)
 >
 > | **Area, Magic, Ranged** |   **Maneuver** |
@@ -314,12 +303,10 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Effect:** Ajax throws a glowing bead to a square within distance, which ignites at the start of Ajax's next turn and creates an area around it that lasts until the start of Ajax's following turn. Each enemy in the area when the bead ignites takes 20 fire damage, and if they have A < 5, they are dazed (save ends). Any enemy who starts their turn in the area takes 10 fire damage.
 
-<!-- -->
 > ⭐️ **I'm Not Done Yet.**
 >
 > Ajax dies only when his Stamina reaches −350. While his Stamina is below 0, Ajax is bleeding, he can choose any two options from his Tactical Stance trait each round, and the Director gains 2 additional Malice per round.
 
-<!-- -->
 > ❗️ **Is This What They Taught You?**
 >
 > | **Ranged**       |           **Triggered action** |
@@ -330,7 +317,6 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Effect:** The target is marked while Ajax is marked. While the target is marked this way, Ajax gains an edge on power rolls against them, and whenever the target uses a triggered action involving their mark on Ajax, he can make a free strike against them.
 
-<!-- -->
 > ❗️ **Shieldbreaker Talisman**
 >
 > | **Magic, Melee** |           **Triggered action** |
@@ -341,7 +327,6 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Effect:** Ajax makes a free strike against the target, dealing extra damage equal to twice the amount that was reduced. This extra damage can't be reduced in any way.
 
-<!-- -->
 > ❗️ **Who's Hesitating?**
 >
 > | **-**       | **Triggered action** |
@@ -352,7 +337,6 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Effect:** Ajax shifts up to his speed and can make a free strike. If the target has R < 4, this free strike also makes them weakened until the end of their next turn.
 
-<!-- -->
 > ❗️ **Your Obsession With Me Betrays You**
 >
 > | **Magic, Ranged** |           **Triggered action** |
@@ -363,7 +347,6 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Effect:** If the target has I < 4, they use a signature ability against a target of Ajax's choice.
 
-<!-- -->
 > ❗️ **You Would Flounder Your Assault? (2 Malice)**
 >
 > | **Magic**   | **Triggered action** |
@@ -374,7 +357,6 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Effect:** Ajax regains the same amount of Stamina.
 
-<!-- -->
 > ☠️ **Phoenix Wing King**
 >
 > | **Area, Magic, Weapon** |          **Villain Action 1** |
@@ -387,7 +369,6 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Effect:** Ajax flies at high speed to cut through each target, then appears in an unoccupied space within distance.
 
-<!-- -->
 > ☠️ **I've Learned Their Tricks**
 >
 > | **-**          |          **Villain Action 2** |
@@ -398,7 +379,6 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Special:** This villain action can be replaced with a villain action from a creature any target has previously encountered.
 
-<!-- -->
 > ☠️ **Awe of the Iron Crown**
 >
 > | **Area, Magic** |          **Villain Action 3** |

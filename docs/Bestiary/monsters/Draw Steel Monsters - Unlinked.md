@@ -4,6 +4,8 @@ title: Draw Steel Monsters Book
 
 # Monster Basics
 
+<!-- -->
+
 > **For the Director**
 >
 > The information in *Draw Steel: Monsters* is intended for the Director's use, and all references to "you" in this book refer to the Director. All players are welcome to read this book, but we recommend stopping short of reading the monster stat blocks. Those are for the Director's eyes only.
@@ -51,6 +53,8 @@ It's worthwhile to discuss with your players how each of them would like to enga
 #### Everyone Loves Zombies
 
 For certain groups of players, imagining monsters beyond their game definition isn't fun. For others, building a morally ambiguous story around facing off against foes very much like their characters requires too much effort to be satisfying. Thankfully, *Draw Steel* comes with an assortment of undead, demons, and war dogs that can be fought with impunity. There will always be a need for heroes to rise up and protect innocent people from these sorts of programmed, irredeemable monsters, and doing so is no less heroic than overcoming a complex monster.
+
+<!-- -->
 
 > **Other Sections**
 >
@@ -147,6 +151,8 @@ Undead creatures, such as ghosts and zombies, are the reanimated flesh and spiri
 
 Each Director-controlled creature has an encounter value (abbreviated EV) that is used in building encounters. See Step-by-Step Encounter Building later in this chapter for more information.
 
+<!-- -->
+
 > **Combat Rounds**
 >
 > Because stat blocks are focused on the tactics and mechanics of combat, all references in a stat block to "rounds" refer to combat rounds.
@@ -165,6 +171,8 @@ Creature free strikes are a static number for two reasons. First, it keeps gamep
 ##### Creature Opportunity Attacks
 
 Even though a Director-controlled creature doesn't have to roll when they make a free strike, if that creature takes a bane on strikes against a target, they can't make an opportunity attack against that target.
+
+<!-- -->
 
 > **Stat Block Self-Reference**
 >
@@ -298,11 +306,13 @@ Inevitably, one or more noncombatants might get caught up in a dangerous situati
 
 **<span class="steel-compendium-statblock">Noncombatant</span>**
 
-|   Human or Animal   |                   |     Level -      |           -           |         EV -         |
+|   Human or Animal   |         -         |     Level -      |           -           |         EV -         |
 | :-----------------: | :---------------: | :--------------: | :-------------------: | :------------------: |
 |  **1S-2**<br>Size   |  **5**<br>Speed   | **8**<br>Stamina |  **0**<br>Stability   | **1**<br>Free Strike |
 | **-**<br>Immunities | **-**<br>Movement |                  | **-**<br>With Captain | **-**<br>Weaknesses  |
 |   **0**<br>Might    | **0**<br>Agility  | **0**<br>Reason  |  **0**<br>Intuition   |  **0**<br>Presence   |
+
+<!-- -->
 
 > **Size**
 >
@@ -336,13 +346,19 @@ All monsters have access to the following Malice features, in addition to any "[
 
 At the start of any monster's turn, you can spend Malice to activate one of the following features:
 
+<!-- -->
+
 > **Brutal Effectiveness (3 Malice)**
 >
 > The monster digs into the enemy's weak spot. The next ability the monster uses with a potency has that potency increased by 1.
 
+<!-- -->
+
 > **Malicious Strike (5+ Malice)**
 >
 > The monster pours all their animosity into their attack. Their next strike deals extra damage to one target equal to the monster's highest characteristic score. The extra damage increases by 1 for each additional Malice spent on this feature (to a maximum of three times the monster's highest characteristic). This feature can't be used two rounds in a row, even by different monsters.
+
+<!-- -->
 
 > **That's So Much Malice!**
 >
@@ -381,6 +397,8 @@ Minion squads are particularly susceptible to damage-dealing area abilities that
 ##### Minion Weakness and Immunity
 
 If a minion has either a damage immunity or a damage weakness for a source of damage, apply the effects to the minion's squad once, even if multiple minions share the same immunity or weakness. These effects are the last things applied when calculating damage and can drop (or save!) multiple minions from any source of damage, including area effects.
+
+<!-- -->
 
 > **Whoa! Those Minions Died Too Quickly!**
 >
@@ -442,6 +460,8 @@ While a minion squad has a captain, each minion in the squad gains the benefits 
 
 If a squad of minions loses their captain, a new allied creature can become that squad's captain at the start of the next round (no action required).
 
+<!-- -->
+
 > **Stat Block Icons**
 >
 > The stat blocks in this book contain multiple different icons that allow quick scanning for just the right trait or ability for the situation. The following list provides examples of the most common icons you'll come across.
@@ -462,6 +482,8 @@ If a squad of minions loses their captain, a new allied creature can become that
 ### Step-by-Step Encounter Building
 
 An encounter is a scene in which the heroes are faced with challenges or opposition. As soon as the players have made their heroes and are ready to see those heroes put into interesting situations, encounter building is the focus of your game! The step-by-step guidelines in this section are focused primarily on building combat encounters, where battle is a highly likely (and often eagerly expected) outcome.
+
+<!-- -->
 
 > **It's Not Science**
 >
@@ -557,6 +579,8 @@ Once you know the party's encounter strength and have chosen your encounter diff
 - Hard encounters have a budget greater than a standard encounter, but no more than the party's ES plus the encounter strength of three heroes.
 - Extreme encounters have a budget that is anything greater than hard.
 
+<!-- -->
+
 > **How Many Fights Before a Respite?**
 >
 > A group of heroes can generally handle from 4 to 6 Victories’ worth of combat encounters before needing to stop for a respite to refresh their Stamina and Recoveries. But as with encounter building, determining exactly how many encounters a party can run through before needing to rest and restore resources isn’t an exact science.
@@ -564,6 +588,8 @@ Once you know the party's encounter strength and have chosen your encounter diff
 > The luck of the dice, the number of treasures claimed, the composition of encounters, and the strengths of the heroes all factor into this math. And heroes might want to stop for a respite while they still have plenty of Recoveries because they have a downtime project they want to advance, or because they're ready to turn their Victories into xP and gain a new level.
 >
 > Even if we could account for all those factors, your game might have outlier experiences in which the party has to stop and rest a little earlier than you'd expected, or will push through long after you thought they'd stop. We think that's a good thing. Part of the fun of roleplaying games is the fact that they're unpredictable, with the dice and the decisions the heroes make both playing a big part in the story. When players push on because they have a lot of Victories, that's the game working as intended.
+
+<!-- -->
 
 > **Encounters Should Have Narrative Importance**
 >
@@ -653,6 +679,8 @@ You adjust your hero slots according to encounter difficulty, which then dictate
 
 Include one or two dynamic terrain objects for encounters of standard difficulty or easier. Add two to three dynamic terrain objects to hard and extreme encounters. Use only objects of the heroes' level or lower.
 
+<!-- -->
+
 > **Parties Large and Small**
 >
 > *Draw Steel* was made and tested with groups of mainly three to six heroes, including retainers, since that's how we expected most folks will play the game. If your group is smaller or larger than that, don't panic! The game still works and will be a lot of fun for you, but you'll want to keep the following guidelines in mind:
@@ -723,6 +751,8 @@ Solo creatures can stand as an encounter all on their own for a group of four to
 
 Solo creatures use every movement advantage they have, whether burrowing, climbing, flying, swimming, or teleporting around the battlefield on their turn. They focus on whichever hero threatens them most effectively, even as they position themselves to target as many foes as possible with their area abilities.
 
+<!-- -->
+
 > **Instant Solo Creature**
 >
 > Most leaders and elite creatures can be adapted into a solo creature on the fly with the following adjustments:
@@ -753,6 +783,8 @@ Vertical maps are especially great, as an area with high ledges can lead to a su
 
 You don't have to be a master artist to create a great tactical map. You can use hand-drawn shapes and lines on an erasable mat or virtual tabletop to represent cliffs, hazards, and more. You can also find incredible maps online. Some are free, and most others are available for a reasonable price on the websites of many great cartographers.
 
+<!-- -->
+
 > **Making Objectives Known**
 >
 > Encounters work best if the players have a good idea of what their characters are working toward, but you don't need to state objectives outright at the start of every battle. Not all groups want to commence combat with you saying, "Your objectives are to break the eldritch machine and destroy the vampire lord," if doing so takes the players out of the game's narrative.
@@ -775,6 +807,8 @@ The writeup for each of these objectives includes the following sections:
 - **Success Condition** details what the heroes must do to win the day. When a success condition is met, the heroes' enemies flee or surrender, or you can utilize the dramatic finish or event ending encounter-end options described in Chapter 10: Combat of *Draw Steel: Heroes*.
 - **Victories** tells you how many Victories each hero earns for completing the encounter, based on the encounter's difficulty.
 - **Failure Condition** sets out what happens when the heroes have failed and the enemies win.
+
+<!-- -->
 
 > **Fun Is Most Important**
 >
@@ -815,6 +849,8 @@ If the heroes achieve success, they earn 1 Victory for an easy or standard encou
 ##### Failure Condition
 
 The heroes earn no Victories if they are killed, captured, flee, or otherwise fail to defeat their foes.
+
+<!-- -->
 
 > **Fleeing Foes**
 >
@@ -1138,6 +1174,8 @@ Each hero earns 1 Victory if the success condition is met. They earn 2 Victories
 
 The heroes earn no Victories if they fail to stop the action before the end of the encounter duration. They might earn Victories from any new encounters that occur because of a failure.
 
+<!-- -->
+
 > **Under Pressure**
 >
 > If the heroes have been saving the day faster than you expected, it might be time to see how fast they truly are! Encounters built around the objective of stopping an action or completing an action work well in tandem with the other objectives in this section. The heroes might need to diminish enemy numbers or defeat a specific foe within 2 rounds or lose their opportunity to infiltrate the palace. Maybe an escort mission needs to reach the destination within 3 rounds to contain a devastating explosion! See Combined Objectives for more details.
@@ -1194,6 +1232,8 @@ If an encounter has multiple alternative objectives, you reward the heroes for t
 
 The heroes might start an encounter with one objective, only to have you change things up with an unexpected shot of dramatic tension. For instance, the characters are battling it out with a demon lord to end that creature's reign of terror-a "Defeat a Specific Foe" objective. Then they suddenly notice the demon's cultists preparing to sacrifice a group of innocent noncombatants, changing the objective to "Save Another." When an objective shifts, make sure the players understand there's now something else at stake. As long as the innocents are saved, it no longer matters if the demon lord lives.
 
+<!-- -->
+
 > **Changing or Adding Objectives**
 >
 > If you find that the heroes are having an exceptionally easy time taking on an encounter, you can always have a dramatic twist in the middle of the battle that leads to an additional objective and changes their current goal. Don't have this kind of surprise in every battle, but much like using reinforcements, changing or adding objectives is a tactic you can lean on when an encounter you meant to be hard turns out to be trivial.
@@ -1237,6 +1277,8 @@ You can end combat with a dramatic finish, which lets the heroes get in on the n
 #### Allow Heroes to Flee
 
 If the heroes decide to abandon a fight they can't win, you can have them escape using a montage test, or simply describe them running away so as to live to fight another day. Do whatever you think will be the most fun for the players after a defeat.
+
+<!-- -->
 
 > **Optional Rule: Last-Stand Stamina**
 >
@@ -1497,6 +1539,8 @@ While some of his forces may refer to Ajax as the Iron Saint, the version of him
 
 Ajax speaks Caelian, Higaran, Khoursirian, Phaedran, Riojan, Vaniric, and Vaslorian.
 
+<!-- -->
+
 > **Ajax the Leader**
 >
 > Ajax is a master tactician. It would stand to reason that he can enter battle leading an army instead of facing the heroes solo.
@@ -1517,13 +1561,19 @@ Ajax speaks Caelian, Higaran, Khoursirian, Phaedran, Riojan, Vaniric, and Vaslor
 
 At the start of each round, Ajax chooses a new stance from one of the following options and gains its benefits:
 
+<!-- -->
+
 > ⭐️ **Insurgent**
 >
 > Ajax automatically treats his initial power roll as a 17. He can still roll to determine if he scores a critical hit.
 
+<!-- -->
+
 > ⭐️ **Mastermind**
 >
 > Before he uses an ability, Ajax can either shift up to 2 squares, or can cause one creature within line of effect to slide up to 2 squares, ignoring stability.
+
+<!-- -->
 
 > ⭐️ **Vanguard**
 >
@@ -1533,9 +1583,13 @@ At the start of each round, Ajax chooses a new stance from one of the following 
 
 At the start of Ajax's turn, you can spend Malice to activate one of the following features.
 
+<!-- -->
+
 > 👤 **Reason (2 Malice)**
 >
 > Ajax attempts to instill doubt into a creature within line of effect through logic and reason. The creature and Ajax make an opposed Reason test. If Ajax wins, he chooses to either deal 11 extra damage to one target on his next strike or to gain an additional triggered action during the current round. Ajax can't use this feature against the same creature during the same encounter.
+
+<!-- -->
 
 > 🌀 **Nexus Jewel (5 Malice)**
 >
@@ -1547,9 +1601,13 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Volcanic Canyon:** The air is stiflingly hot. Each enemy takes 5 fire damage for each square they enter.
 
+<!-- -->
+
 > ☠️ **Solo Action (5 Malice)**
 >
 > Ajax takes an additional main action on his turn. He can use this feature even if he is dazed.
+
+<!-- -->
 
 > 🔳 **Draw Steel (10 Malice)**
 >
@@ -1573,11 +1631,15 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 | **-**<br>Immunities | **Fly, hover**<br>Movement |                    | **-**<br>With Captain |  **-**<br>Weaknesses  |
 |   **+5**<br>Might   |     **+4**<br>Agility      |  **+5**<br>Reason  |  **+5**<br>Intuition  |  **+4**<br>Presence   |
 
+<!-- -->
+
 > ☠️ **Ajax**
 >
 > **Ajax Turns:** Ajax takes up to three turns each round. He can't take turns consecutively. Additionally, he can use three triggered actions in a round while he isn't dazed.
 >
 > **End Effect:** At the end of each of his turns, Ajax can take 20 damage to end up to two effects on him that can be ended by a saving throw. This damage can't be reduced in any way.
+
+<!-- -->
 
 > 🗡 **Blade of the Gol King**
 >
@@ -1595,6 +1657,8 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **1+ Malice:** Ajax can strike one additional target for each Malice spent.
 
+<!-- -->
+
 > 🔳 **Decree by the Jade Hand**
 >
 > | **Area, Magic, Ranged** |                          **Main Action** |
@@ -1610,6 +1674,8 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 > **Effect:** A hexed target glows green, and each of their heroic abilities has its cost increased by 2.
 >
 > **3 Malice:** The potency increases by 1. Additionally, the ground beneath the area drops 3 squares and is difficult terrain. Each flying target who has M < 5 is knocked prone.
+
+<!-- -->
 
 > 🏹 **Divine Vine**
 >
@@ -1627,6 +1693,8 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Special:** This ability can be replaced with the features of a different treasure Ajax has acquired.
 
+<!-- -->
+
 > 🔳 Bead of Hell (2 Malice)
 >
 > | **Area, Magic, Ranged** |   **Maneuver** |
@@ -1635,9 +1703,13 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Effect:** Ajax throws a glowing bead to a square within distance, which ignites at the start of Ajax's next turn and creates an area around it that lasts until the start of Ajax's following turn. Each enemy in the area when the bead ignites takes 20 fire damage, and if they have A < 5, they are dazed (save ends). Any enemy who starts their turn in the area takes 10 fire damage.
 
+<!-- -->
+
 > ⭐️ **I'm Not Done Yet.**
 >
 > Ajax dies only when his Stamina reaches −350. While his Stamina is below 0, Ajax is bleeding, he can choose any two options from his Tactical Stance trait each round, and the Director gains 2 additional Malice per round.
+
+<!-- -->
 
 > ❗️ **Is This What They Taught You?**
 >
@@ -1649,6 +1721,8 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Effect:** The target is marked while Ajax is marked. While the target is marked this way, Ajax gains an edge on power rolls against them, and whenever the target uses a triggered action involving their mark on Ajax, he can make a free strike against them.
 
+<!-- -->
+
 > ❗️ **Shieldbreaker Talisman**
 >
 > | **Magic, Melee** |           **Triggered action** |
@@ -1658,6 +1732,8 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 > **Trigger:** An enemy within distance uses an ability to reduce damage.
 >
 > **Effect:** Ajax makes a free strike against the target, dealing extra damage equal to twice the amount that was reduced. This extra damage can't be reduced in any way.
+
+<!-- -->
 
 > ❗️ **Who's Hesitating?**
 >
@@ -1669,6 +1745,8 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Effect:** Ajax shifts up to his speed and can make a free strike. If the target has R < 4, this free strike also makes them weakened until the end of their next turn.
 
+<!-- -->
+
 > ❗️ **Your Obsession With Me Betrays You**
 >
 > | **Magic, Ranged** |           **Triggered action** |
@@ -1679,6 +1757,8 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Effect:** If the target has I < 4, they use a signature ability against a target of Ajax's choice.
 
+<!-- -->
+
 > ❗️ **You Would Flounder Your Assault? (2 Malice)**
 >
 > | **Magic**   | **Triggered action** |
@@ -1688,6 +1768,8 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 > **Trigger:** A creature within 10 squares regains Stamina.
 >
 > **Effect:** Ajax regains the same amount of Stamina.
+
+<!-- -->
 
 > ☠️ **Phoenix Wing King**
 >
@@ -1701,6 +1783,8 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 >
 > **Effect:** Ajax flies at high speed to cut through each target, then appears in an unoccupied space within distance.
 
+<!-- -->
+
 > ☠️ **I've Learned Their Tricks**
 >
 > | **-**          |          **Villain Action 2** |
@@ -1710,6 +1794,8 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 > **Effect:** Ajax uses the shadow elf eclipse's technique to reduce each target's surges to 0. Additionally, until the end of the round, Ajax ignores edges and double edges on any target's abilities, and ignores any nondamaging effects of any target's damage-dealing abilities.
 >
 > **Special:** This villain action can be replaced with a villain action from a creature any target has previously encountered.
+
+<!-- -->
 
 > ☠️ **Awe of the Iron Crown**
 >
