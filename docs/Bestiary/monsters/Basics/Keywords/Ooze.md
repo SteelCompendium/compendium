@@ -7,7 +7,7 @@ item_name: Ooze
 scc:
   - mcdm.heroes.v1:keywords:ooze
 scdc:
-  - 1.1.1:1:15
+  - 1.1.1:2:15
 source: mcdm.heroes.v1
 type: keywords
 ---

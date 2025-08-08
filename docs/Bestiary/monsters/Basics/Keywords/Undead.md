@@ -7,7 +7,7 @@ item_name: Undead
 scc:
   - mcdm.heroes.v1:keywords:undead
 scdc:
-  - 1.1.1:1:07
+  - 1.1.1:2:07
 source: mcdm.heroes.v1
 type: keywords
 ---

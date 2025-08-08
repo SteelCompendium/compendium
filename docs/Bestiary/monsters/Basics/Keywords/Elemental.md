@@ -7,7 +7,7 @@ item_name: Elemental
 scc:
   - mcdm.heroes.v1:keywords:elemental
 scdc:
-  - 1.1.1:1:09
+  - 1.1.1:2:09
 source: mcdm.heroes.v1
 type: keywords
 ---

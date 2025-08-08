@@ -7,7 +7,7 @@ item_name: Construct
 scc:
   - mcdm.heroes.v1:keywords:construct
 scdc:
-  - 1.1.1:1:05
+  - 1.1.1:2:05
 source: mcdm.heroes.v1
 type: keywords
 ---

@@ -7,7 +7,7 @@ item_name: Dragon
 scc:
   - mcdm.heroes.v1:keywords:dragon
 scdc:
-  - 1.1.1:1:02
+  - 1.1.1:2:02
 source: mcdm.heroes.v1
 type: keywords
 ---

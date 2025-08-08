@@ -7,7 +7,7 @@ item_name: Fey
 scc:
   - mcdm.heroes.v1:keywords:fey
 scdc:
-  - 1.1.1:1:08
+  - 1.1.1:2:08
 source: mcdm.heroes.v1
 type: keywords
 ---

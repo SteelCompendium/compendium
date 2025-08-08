@@ -7,7 +7,7 @@ item_name: Giant
 scc:
   - mcdm.heroes.v1:keywords:giant
 scdc:
-  - 1.1.1:1:13
+  - 1.1.1:2:13
 source: mcdm.heroes.v1
 type: keywords
 ---

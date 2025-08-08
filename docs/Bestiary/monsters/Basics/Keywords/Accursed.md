@@ -7,7 +7,7 @@ item_name: Accursed
 scc:
   - mcdm.heroes.v1:keywords:accursed
 scdc:
-  - 1.1.1:1:01
+  - 1.1.1:2:01
 source: mcdm.heroes.v1
 type: keywords
 ---

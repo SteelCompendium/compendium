@@ -8627,7 +8627,7 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 
 **Persistent 2:** The source takes another turn. They are dismissed at the start of your next turn.
 
-**<span class="steel-compendium-h7">Source of Earth Statblock</span>**
+**<span class="steel-compendium-statblock">Source of Earth Statblock</span>**
 
 **Source of Earth**
 

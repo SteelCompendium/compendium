@@ -7,7 +7,7 @@ item_name: Humanoid
 scc:
   - mcdm.heroes.v1:keywords:humanoid
 scdc:
-  - 1.1.1:1:12
+  - 1.1.1:2:12
 source: mcdm.heroes.v1
 type: keywords
 ---

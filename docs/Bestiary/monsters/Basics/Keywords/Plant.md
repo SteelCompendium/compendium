@@ -7,7 +7,7 @@ item_name: Plant
 scc:
   - mcdm.heroes.v1:keywords:plant
 scdc:
-  - 1.1.1:1:14
+  - 1.1.1:2:14
 source: mcdm.heroes.v1
 type: keywords
 ---

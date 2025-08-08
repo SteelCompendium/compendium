@@ -7,7 +7,7 @@ item_name: Abyssal
 scc:
   - mcdm.heroes.v1:keywords:abyssal
 scdc:
-  - 1.1.1:1:10
+  - 1.1.1:2:10
 source: mcdm.heroes.v1
 type: keywords
 ---
