@@ -14,11 +14,11 @@ type: monster
 
 ###### Angulotl Pollywog
 
-|          Angulotl          |            Level 1            |             Minion Harrier              |  EV 3 for 4 minions   |                        |
-| :------------------------: | :---------------------------: | :-------------------------------------: | :-------------------: | :--------------------: |
-|      **1S**<br/> Size      |       **6**<br/> Speed        |           **4**<br/> Stamina            | **0**<br/> Stability  | **1**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses |                        |
-|     **+0**<br/> Might      |      **+2**<br/> Agility      |           **-2**<br/> Reason            | **-2**<br/> Intuition |  **+0**<br/> Presence  |
+|          Angulotl          |               -               |      Level 1       |             Minion Harrier              |   EV 3 for 4 minions   |
+| :------------------------: | :---------------------------: | :----------------: | :-------------------------------------: | :--------------------: |
+|      **1S**<br/> Size      |       **6**<br/> Speed        | **4**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **+0**<br/> Might      |      **+2**<br/> Agility      | **-2**<br/> Reason |          **-2**<br/> Intuition          |  **+0**<br/> Presence  |
 
 <!-- -->
 > 🗡 **Nip (Signature Ability)**

@@ -14,11 +14,11 @@ type: monster
 
 ###### Angulotl Wave
 
-|     Angulotl, Humanoid     |               -               |         Level 1         |   Horde Controller    |          EV 3          |
-| :------------------------: | :---------------------------: | :---------------------: | :-------------------: | :--------------------: |
-|      **1S**<br/> Size      |       **5**<br/> Speed        |   **10**<br/> Stamina   | **0**<br/> Stability  | **1**<br/> Free Strike |
-| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement | **-**<br/> With Captain | **-**<br/> Weaknesses |                        |
-|     **+0**<br/> Might      |      **+0**<br/> Agility      |   **+0**<br/> Reason    | **+2**<br/> Intuition |  **+2**<br/> Presence  |
+|     Angulotl, Humanoid     |               -               |       Level 1       |    Horde Controller     |          EV 3          |
+| :------------------------: | :---------------------------: | :-----------------: | :---------------------: | :--------------------: |
+|      **1S**<br/> Size      |       **5**<br/> Speed        | **10**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
+| **Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **+0**<br/> Might      |      **+0**<br/> Agility      | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
 
 <!-- -->
 > 🏹 **Refulgent Beams (Signature Ability)**

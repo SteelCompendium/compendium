@@ -14,11 +14,11 @@ type: monster
 
 ###### Clawfish
 
-|            Angulotl, Animal             |               -               |                    Level 1                    |     Minion Brute      |   EV 3 for 4 minions   |
-| :-------------------------------------: | :---------------------------: | :-------------------------------------------: | :-------------------: | :--------------------: |
-|            **1S**<br/> Size             |       **5**<br/> Speed        |              **5**<br/> Stamina               | **0**<br/> Stability  | **2**<br/> Free Strike |
-| **Lightning 3, Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses |                        |
-|            **+0**<br/> Might            |      **+2**<br/> Agility      |              **-3**<br/> Reason               | **-2**<br/> Intuition |  **+1**<br/> Presence  |
+|            Angulotl, Animal             |               -               |      Level 1       |                 Minion Brute                  |   EV 3 for 4 minions   |
+| :-------------------------------------: | :---------------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
+|            **1S**<br/> Size             |       **5**<br/> Speed        | **5**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
+| **Lightning 3, Poison 2**<br/> Immunity | **Climb, swim**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|            **+0**<br/> Might            |      **+2**<br/> Agility      | **-3**<br/> Reason |             **-2**<br/> Intuition             |  **+1**<br/> Presence  |
 
 <!-- -->
 > 🗡 **Hookclaw (Signature Ability)**
