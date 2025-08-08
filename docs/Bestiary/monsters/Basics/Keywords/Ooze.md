@@ -5,10 +5,10 @@ item_id: ooze
 item_index: '15'
 item_name: Ooze
 scc:
-  - mcdm.heroes.v1:keywords:ooze
+  - mcdm.monsters.v1:keywords:ooze
 scdc:
-  - 1.1.1:2:15
-source: mcdm.heroes.v1
+  - 1.1.1:3:15
+source: mcdm.monsters.v1
 type: keywords
 ---
 

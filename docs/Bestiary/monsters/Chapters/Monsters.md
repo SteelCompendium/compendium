@@ -6,10 +6,10 @@ item_id: monsters
 item_index: '02'
 item_name: Monsters
 scc:
-  - mcdm.heroes.v1:chapter:monsters
+  - mcdm.monsters.v1:chapter:monsters
 scdc:
   - 1.1.1:1:02
-source: mcdm.heroes.v1
+source: mcdm.monsters.v1
 type: chapter
 ---
 

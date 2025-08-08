@@ -5,10 +5,10 @@ item_id: fey
 item_index: 08
 item_name: Fey
 scc:
-  - mcdm.heroes.v1:keywords:fey
+  - mcdm.monsters.v1:keywords:fey
 scdc:
-  - 1.1.1:2:08
-source: mcdm.heroes.v1
+  - 1.1.1:3:08
+source: mcdm.monsters.v1
 type: keywords
 ---
 

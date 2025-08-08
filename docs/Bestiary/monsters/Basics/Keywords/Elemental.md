@@ -5,10 +5,10 @@ item_id: elemental
 item_index: 09
 item_name: Elemental
 scc:
-  - mcdm.heroes.v1:keywords:elemental
+  - mcdm.monsters.v1:keywords:elemental
 scdc:
-  - 1.1.1:2:09
-source: mcdm.heroes.v1
+  - 1.1.1:3:09
+source: mcdm.monsters.v1
 type: keywords
 ---
 

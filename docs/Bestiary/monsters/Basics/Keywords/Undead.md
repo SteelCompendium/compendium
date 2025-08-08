@@ -5,10 +5,10 @@ item_id: undead
 item_index: '07'
 item_name: Undead
 scc:
-  - mcdm.heroes.v1:keywords:undead
+  - mcdm.monsters.v1:keywords:undead
 scdc:
-  - 1.1.1:2:07
-source: mcdm.heroes.v1
+  - 1.1.1:3:07
+source: mcdm.monsters.v1
 type: keywords
 ---
 

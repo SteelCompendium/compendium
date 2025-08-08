@@ -5,10 +5,10 @@ item_id: animal
 item_index: '06'
 item_name: Animal
 scc:
-  - mcdm.heroes.v1:keywords:animal
+  - mcdm.monsters.v1:keywords:animal
 scdc:
-  - 1.1.1:2:06
-source: mcdm.heroes.v1
+  - 1.1.1:3:06
+source: mcdm.monsters.v1
 type: keywords
 ---
 

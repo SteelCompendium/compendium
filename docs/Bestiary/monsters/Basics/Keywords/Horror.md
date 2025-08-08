@@ -5,10 +5,10 @@ item_id: horror
 item_index: '04'
 item_name: Horror
 scc:
-  - mcdm.heroes.v1:keywords:horror
+  - mcdm.monsters.v1:keywords:horror
 scdc:
-  - 1.1.1:2:04
-source: mcdm.heroes.v1
+  - 1.1.1:3:04
+source: mcdm.monsters.v1
 type: keywords
 ---
 

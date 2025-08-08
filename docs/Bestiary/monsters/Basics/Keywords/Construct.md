@@ -5,10 +5,10 @@ item_id: construct
 item_index: '05'
 item_name: Construct
 scc:
-  - mcdm.heroes.v1:keywords:construct
+  - mcdm.monsters.v1:keywords:construct
 scdc:
-  - 1.1.1:2:05
-source: mcdm.heroes.v1
+  - 1.1.1:3:05
+source: mcdm.monsters.v1
 type: keywords
 ---
 

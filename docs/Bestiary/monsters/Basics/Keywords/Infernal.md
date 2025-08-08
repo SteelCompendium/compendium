@@ -5,10 +5,10 @@ item_id: infernal
 item_index: '11'
 item_name: Infernal
 scc:
-  - mcdm.heroes.v1:keywords:infernal
+  - mcdm.monsters.v1:keywords:infernal
 scdc:
-  - 1.1.1:2:11
-source: mcdm.heroes.v1
+  - 1.1.1:3:11
+source: mcdm.monsters.v1
 type: keywords
 ---
 

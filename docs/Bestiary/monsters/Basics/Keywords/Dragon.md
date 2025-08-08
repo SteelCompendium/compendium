@@ -5,10 +5,10 @@ item_id: dragon
 item_index: '02'
 item_name: Dragon
 scc:
-  - mcdm.heroes.v1:keywords:dragon
+  - mcdm.monsters.v1:keywords:dragon
 scdc:
-  - 1.1.1:2:02
-source: mcdm.heroes.v1
+  - 1.1.1:3:02
+source: mcdm.monsters.v1
 type: keywords
 ---
 

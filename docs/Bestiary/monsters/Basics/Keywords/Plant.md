@@ -5,10 +5,10 @@ item_id: plant
 item_index: '14'
 item_name: Plant
 scc:
-  - mcdm.heroes.v1:keywords:plant
+  - mcdm.monsters.v1:keywords:plant
 scdc:
-  - 1.1.1:2:14
-source: mcdm.heroes.v1
+  - 1.1.1:3:14
+source: mcdm.monsters.v1
 type: keywords
 ---
 

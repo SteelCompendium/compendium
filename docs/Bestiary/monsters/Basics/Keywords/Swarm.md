@@ -5,10 +5,10 @@ item_id: swarm
 item_index: '03'
 item_name: Swarm
 scc:
-  - mcdm.heroes.v1:keywords:swarm
+  - mcdm.monsters.v1:keywords:swarm
 scdc:
-  - 1.1.1:2:03
-source: mcdm.heroes.v1
+  - 1.1.1:3:03
+source: mcdm.monsters.v1
 type: keywords
 ---
 

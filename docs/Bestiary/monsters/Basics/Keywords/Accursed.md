@@ -5,10 +5,10 @@ item_id: accursed
 item_index: '01'
 item_name: Accursed
 scc:
-  - mcdm.heroes.v1:keywords:accursed
+  - mcdm.monsters.v1:keywords:accursed
 scdc:
-  - 1.1.1:2:01
-source: mcdm.heroes.v1
+  - 1.1.1:3:01
+source: mcdm.monsters.v1
 type: keywords
 ---
 

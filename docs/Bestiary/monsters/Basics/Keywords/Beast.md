@@ -5,10 +5,10 @@ item_id: beast
 item_index: '16'
 item_name: Beast
 scc:
-  - mcdm.heroes.v1:keywords:beast
+  - mcdm.monsters.v1:keywords:beast
 scdc:
-  - 1.1.1:2:16
-source: mcdm.heroes.v1
+  - 1.1.1:3:16
+source: mcdm.monsters.v1
 type: keywords
 ---
 

@@ -5,10 +5,10 @@ item_id: giant
 item_index: '13'
 item_name: Giant
 scc:
-  - mcdm.heroes.v1:keywords:giant
+  - mcdm.monsters.v1:keywords:giant
 scdc:
-  - 1.1.1:2:13
-source: mcdm.heroes.v1
+  - 1.1.1:3:13
+source: mcdm.monsters.v1
 type: keywords
 ---
 

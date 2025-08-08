@@ -6,10 +6,10 @@ item_id: monster-basics
 item_index: '01'
 item_name: Monster Basics
 scc:
-  - mcdm.heroes.v1:chapter:monster-basics
+  - mcdm.monsters.v1:chapter:monster-basics
 scdc:
   - 1.1.1:1:01
-source: mcdm.heroes.v1
+source: mcdm.monsters.v1
 type: chapter
 ---
 

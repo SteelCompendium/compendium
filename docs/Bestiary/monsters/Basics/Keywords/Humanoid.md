@@ -5,10 +5,10 @@ item_id: humanoid
 item_index: '12'
 item_name: Humanoid
 scc:
-  - mcdm.heroes.v1:keywords:humanoid
+  - mcdm.monsters.v1:keywords:humanoid
 scdc:
-  - 1.1.1:2:12
-source: mcdm.heroes.v1
+  - 1.1.1:3:12
+source: mcdm.monsters.v1
 type: keywords
 ---
 

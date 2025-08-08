@@ -5,10 +5,10 @@ item_id: abyssal
 item_index: '10'
 item_name: Abyssal
 scc:
-  - mcdm.heroes.v1:keywords:abyssal
+  - mcdm.monsters.v1:keywords:abyssal
 scdc:
-  - 1.1.1:2:10
-source: mcdm.heroes.v1
+  - 1.1.1:3:10
+source: mcdm.monsters.v1
 type: keywords
 ---
 
