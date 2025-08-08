@@ -1,13 +1,13 @@
 ---
 file_basename: Angulotl Cleaver
-file_dpath: Monsters/Angulotls
+file_dpath: Monsters/Angulotls/Statblocks
 item_id: angulotl-cleaver
-item_index: 09
+item_index: '04'
 item_name: Angulotl Cleaver
 scc:
   - mcdm.monsters.v1:monster:angulotl-cleaver
 scdc:
-  - 1.1.1:2:09
+  - 1.1.1:2:04
 source: mcdm.monsters.v1
 type: monster
 ---

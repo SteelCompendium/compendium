@@ -1,13 +1,13 @@
 ---
 file_basename: Predator B
-file_dpath: Monsters/Animals
+file_dpath: Monsters/Animals/Statblocks
 item_id: predator-b
-item_index: '01'
+item_index: '10'
 item_name: Predator B
 scc:
   - mcdm.monsters.v1:monster:predator-b
 scdc:
-  - 1.1.1:2:01
+  - 1.1.1:2:10
 source: mcdm.monsters.v1
 type: monster
 ---

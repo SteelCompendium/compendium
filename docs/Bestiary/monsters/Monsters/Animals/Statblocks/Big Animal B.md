@@ -1,13 +1,13 @@
 ---
 file_basename: Big Animal B
-file_dpath: Monsters/Animals
+file_dpath: Monsters/Animals/Statblocks
 item_id: big-animal-b
-item_index: '06'
+item_index: '15'
 item_name: Big Animal B
 scc:
   - mcdm.monsters.v1:monster:big-animal-b
 scdc:
-  - 1.1.1:2:06
+  - 1.1.1:2:15
 source: mcdm.monsters.v1
 type: monster
 ---
