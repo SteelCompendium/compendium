@@ -28,3 +28,6 @@ type: index
 | [Big Animal B](../Animals/Statblocks/Big%20Animal%20B)                               |
 | [Predator A](../Animals/Statblocks/Predator%20A)                                     |
 | [Predator B](../Animals/Statblocks/Predator%20B)                                     |
+| [Arixx](../Arixx/Arixx)                                                              |
+| [Arixx Malice](../Arixx/Features/Arixx%20Malice)                                     |
+| [Arixx](../Arixx/Statblocks/Arixx)                                                   |
