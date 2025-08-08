@@ -269,7 +269,7 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 > - **12-16:** 22 damage; M < 5 the target loses 1d3 Recoveries
 > - **17+:** 26 damage; M < 6 prone and the target loses 1d3 Recoveries
 >
-> **Effect:** Ajax shifts up to 2 squares between striking each target. | |
+> **Effect:** Ajax shifts up to 2 squares between striking each target.
 >
 > **1+ Malice:** Ajax can strike one additional target for each Malice spent.
 
