@@ -2,12 +2,12 @@
 file_basename: Ajax the Invincible
 file_dpath: Monsters/Ajax the Invincible
 item_id: ajax-the-invincible
-item_index: '01'
+item_index: 09
 item_name: Ajax the Invincible
 scc:
   - mcdm.monsters.v1:monster:ajax-the-invincible
 scdc:
-  - 1.1.1:2:01
+  - 1.1.1:2:09
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -148,9 +148,9 @@ type: monster
 > **Effect:** Ajax regains the same amount of Stamina.
 
 <!-- -->
-> ☠️ **Phoenix Wing King**
+> ☠️ **Phoenix Wing King (Villain Action 1)**
 >
-> | **Area, Magic, Weapon** |          **Villain Action 1** |
+> | **Area, Magic, Weapon** |                         **-** |
 > | ----------------------- | ----------------------------: |
 > | **📏 5 burst**          | **🎯 Each enemy in the area** |
 >
@@ -161,9 +161,9 @@ type: monster
 > **Effect:** Ajax flies at high speed to cut through each target, then appears in an unoccupied space within distance.
 
 <!-- -->
-> ☠️ **I've Learned Their Tricks**
+> ☠️ **I've Learned Their Tricks (Villain Action 2)**
 >
-> | **-**          |          **Villain Action 2** |
+> | **-**          |                         **-** |
 > | -------------- | ----------------------------: |
 > | **📏 3 burst** | **🎯 Each enemy in the area** |
 >
@@ -172,9 +172,9 @@ type: monster
 > **Special:** This villain action can be replaced with a villain action from a creature any target has previously encountered.
 
 <!-- -->
-> ☠️ **Awe of the Iron Crown**
+> ☠️ **Awe of the Iron Crown (Villain Action 3)**
 >
-> | **Area, Magic** |          **Villain Action 3** |
+> | **Area, Magic** |                         **-** |
 > | --------------- | ----------------------------: |
 > | **📏 7 burst**  | **🎯 Each enemy in the area** |
 >
