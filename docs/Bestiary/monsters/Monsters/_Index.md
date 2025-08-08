@@ -19,3 +19,9 @@ type: index
 | [Angulotl Slink](../Angulotls/Angulotl%20Slink)                           |
 | [Angulotl Wave](../Angulotls/Angulotl%20Wave)                             |
 | [Clawfish](../Angulotls/Clawfish)                                         |
+| [Animal](../Animals/Animal)                                               |
+| [Animal Swarm](../Animals/Animal%20Swarm)                                 |
+| [Big Animal A](../Animals/Big%20Animal%20A)                               |
+| [Big Animal B](../Animals/Big%20Animal%20B)                               |
+| [Predator A](../Animals/Predator%20A)                                     |
+| [Predator B](../Animals/Predator%20B)                                     |

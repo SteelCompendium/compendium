@@ -2,12 +2,12 @@
 file_basename: Angulotl Slink
 file_dpath: Monsters/Angulotls
 item_id: angulotl-slink
-item_index: '01'
+item_index: '07'
 item_name: Angulotl Slink
 scc:
   - mcdm.monsters.v1:monster:angulotl-slink
 scdc:
-  - 1.1.1:2:01
+  - 1.1.1:2:07
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Angulotl Pollywog
 file_dpath: Monsters/Angulotls
 item_id: angulotl-pollywog
-item_index: '05'
+item_index: '11'
 item_name: Angulotl Pollywog
 scc:
   - mcdm.monsters.v1:monster:angulotl-pollywog
 scdc:
-  - 1.1.1:2:05
+  - 1.1.1:2:11
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Angulotl Needler
 file_dpath: Monsters/Angulotls
 item_id: angulotl-needler
-item_index: '07'
+item_index: '13'
 item_name: Angulotl Needler
 scc:
   - mcdm.monsters.v1:monster:angulotl-needler
 scdc:
-  - 1.1.1:2:07
+  - 1.1.1:2:13
 source: mcdm.monsters.v1
 type: monster
 ---
