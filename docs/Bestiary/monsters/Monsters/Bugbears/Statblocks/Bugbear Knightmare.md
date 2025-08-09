@@ -2,12 +2,12 @@
 file_basename: Bugbear Knightmare
 file_dpath: Monsters/Bugbears/Statblocks
 item_id: bugbear-knightmare
-item_index: '24'
+item_index: '25'
 item_name: Bugbear Knightmare
 scc:
   - mcdm.monsters.v1:monster:bugbear-knightmare
 scdc:
-  - 1.1.1:2:24
+  - 1.1.1:2:25
 source: mcdm.monsters.v1
 type: monster
 ---

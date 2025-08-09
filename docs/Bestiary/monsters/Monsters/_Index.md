@@ -50,3 +50,6 @@ type: index
 | [Bugbear Roughneck](../Bugbears/Statblocks/Bugbear%20Roughneck)                      |
 | [Bugbear Snare](../Bugbears/Statblocks/Bugbear%20Snare)                              |
 | [Bugbear Sneak](../Bugbears/Statblocks/Bugbear%20Sneak)                              |
+| [Chimera](../Chimera/Chimera)                                                        |
+| [Chimera Malice](../Chimera/Features/Chimera%20Malice)                               |
+| [Chimera](../Chimera/Statblocks/Chimera)                                             |
