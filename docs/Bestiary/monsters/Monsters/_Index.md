@@ -41,3 +41,12 @@ type: index
 | [Bredbeddle](../Bredbeddle/Bredbeddle)                                               |
 | [Bredbeddle Malice](../Bredbeddle/Features/Bredbeddle%20Malice)                      |
 | [Bredbeddle](../Bredbeddle/Statblocks/Bredbeddle)                                    |
+| [Bugbears](../Bugbears/Bugbears)                                                     |
+| [Bugbear Malice](../Bugbears/Features/Bugbear%20Malice)                              |
+| [Bugbear Channeler](../Bugbears/Statblocks/Bugbear%20Channeler)                      |
+| [Bugbear Commander](../Bugbears/Statblocks/Bugbear%20Commander)                      |
+| [Bugbear Knightmare](../Bugbears/Statblocks/Bugbear%20Knightmare)                    |
+| [Bugbear Mob](../Bugbears/Statblocks/Bugbear%20Mob)                                  |
+| [Bugbear Roughneck](../Bugbears/Statblocks/Bugbear%20Roughneck)                      |
+| [Bugbear Snare](../Bugbears/Statblocks/Bugbear%20Snare)                              |
+| [Bugbear Sneak](../Bugbears/Statblocks/Bugbear%20Sneak)                              |
