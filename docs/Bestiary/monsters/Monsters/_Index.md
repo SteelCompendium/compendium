@@ -38,3 +38,6 @@ type: index
 | [Basilisk Malice](../Basilisks/Features/Basilisk%20Malice)                           |
 | [Basilisk](../Basilisks/Statblocks/Basilisk)                                         |
 | [Basilisk Tonguesnapper](../Basilisks/Statblocks/Basilisk%20Tonguesnapper)           |
+| [Bredbeddle](../Bredbeddle/Bredbeddle)                                               |
+| [Bredbeddle Malice](../Bredbeddle/Features/Bredbeddle%20Malice)                      |
+| [Bredbeddle](../Bredbeddle/Statblocks/Bredbeddle)                                    |

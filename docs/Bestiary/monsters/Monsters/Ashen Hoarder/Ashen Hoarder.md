@@ -125,7 +125,7 @@ At the start of an ashen hoarder's turn, you can spend Malice to activate one of
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** The ashen hoarder moves up to twice their speed in a straight line. Each creature or object in the path of this movement is either pushed into the nearest unoccupied space outside the path, or if they have m\<3\] is pushed forward until the movement ends. Any creature who is force moved forward into an obstacle is dazed (save ends).
+> **Effect:** The ashen hoarder moves up to twice their speed in a straight line. Each creature or object in the path of this movement is either pushed into the nearest unoccupied space outside the path, or if they have M < 3 is pushed forward until the movement ends. Any creature who is force moved forward into an obstacle is dazed (save ends).
 
 <!-- -->
 > ❗️ **Armor of Corpses (2 Malice)**
@@ -146,7 +146,7 @@ At the start of an ashen hoarder's turn, you can spend Malice to activate one of
 <!-- -->
 > ⭐️ **Soul Singularity**
 >
-> When the ashen hoarder is reduced to 0 Stamina, they explode in a swirling singularity of bone shards and soul energy. Each creature within 5 squares of the ashen hoarder who has m\<3\] takes 11 corruption damage. A creature killed by this damage has their soul sucked into the vortex and lost somewhere in the Abyssal Wasteland, and can't be brought back to life until their soul is recovered.
+> When the ashen hoarder is reduced to 0 Stamina, they explode in a swirling singularity of bone shards and soul energy. Each creature within 5 squares of the ashen hoarder who has M < 3 takes 11 corruption damage. A creature killed by this damage has their soul sucked into the vortex and lost somewhere in the Abyssal Wasteland, and can't be brought back to life until their soul is recovered.
 
 <!-- -->
 > ☠️ **Skeletal Eruption (Villain Action 1)**

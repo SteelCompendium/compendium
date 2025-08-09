@@ -2,12 +2,12 @@
 file_basename: Ashen Hoarder
 file_dpath: Monsters/Ashen Hoarder/Statblocks
 item_id: ashen-hoarder
-item_index: '02'
+item_index: '03'
 item_name: Ashen Hoarder
 scc:
   - mcdm.monsters.v1:monster:ashen-hoarder
 scdc:
-  - 1.1.1:2:02
+  - 1.1.1:2:03
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -79,7 +79,7 @@ type: monster
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** The ashen hoarder moves up to twice their speed in a straight line. Each creature or object in the path of this movement is either pushed into the nearest unoccupied space outside the path, or if they have m\<3\] is pushed forward until the movement ends. Any creature who is force moved forward into an obstacle is dazed (save ends).
+> **Effect:** The ashen hoarder moves up to twice their speed in a straight line. Each creature or object in the path of this movement is either pushed into the nearest unoccupied space outside the path, or if they have M < 3 is pushed forward until the movement ends. Any creature who is force moved forward into an obstacle is dazed (save ends).
 
 <!-- -->
 > ❗️ **Armor of Corpses (2 Malice)**
@@ -100,7 +100,7 @@ type: monster
 <!-- -->
 > ⭐️ **Soul Singularity**
 >
-> When the ashen hoarder is reduced to 0 Stamina, they explode in a swirling singularity of bone shards and soul energy. Each creature within 5 squares of the ashen hoarder who has m\<3\] takes 11 corruption damage. A creature killed by this damage has their soul sucked into the vortex and lost somewhere in the Abyssal Wasteland, and can't be brought back to life until their soul is recovered.
+> When the ashen hoarder is reduced to 0 Stamina, they explode in a swirling singularity of bone shards and soul energy. Each creature within 5 squares of the ashen hoarder who has M < 3 takes 11 corruption damage. A creature killed by this damage has their soul sucked into the vortex and lost somewhere in the Abyssal Wasteland, and can't be brought back to life until their soul is recovered.
 
 <!-- -->
 > ☠️ **Skeletal Eruption (Villain Action 1)**
