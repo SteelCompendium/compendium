@@ -9,7 +9,7 @@ type: index
 | ----------------------------------------------------------- | ------- | ----- | ------------ |
 | [Acrobatics](../Acrobatics)                                 |         | 1     | ability      |
 | [Artful Flourish](../Artful%20Flourish)                     |         | 1     | ability      |
-| [Ballad of the Beast](../Ballad%20of%20the%20Beast)         |         | 1     | trait        |
+| [Ballad of the Beast](../Ballad%20of%20the%20Beast)         |         | 1     | ability      |
 | [Blocking](../Blocking)                                     |         | 1     | ability      |
 | [Choreography](../Choreography)                             |         | 1     | ability      |
 | [Cutting Sarcasm](../Cutting%20Sarcasm)                     |         | 1     | ability      |

@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: War Domain Piety and Effect
 file_dpath: Conduit/1st-Level Features
 item_id: war-domain-piety-and-effect
-item_index: 08
+item_index: '07'
 item_name: War Domain Piety and Effect
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:war-domain-piety-and-effect
 scdc:
-  - 1.1.1:13.1.8.1:08
+  - 1.1.1:13.1.8.1:07
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

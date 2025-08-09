@@ -4,13 +4,13 @@ feature_type: ability
 file_basename: Blessed Light
 file_dpath: Conduit/1st-Level Features
 item_id: blessed-light
-item_index: 08
+item_index: 09
 item_name: Blessed Light
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:blessed-light
 scdc:
-  - 1.1.1:13.2.8.1:08
+  - 1.1.1:13.2.8.1:09
 source: mcdm.heroes.v1
 type: feature/ability/conduit/1st-level-feature
 ---

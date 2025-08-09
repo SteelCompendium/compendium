@@ -15,7 +15,7 @@ type: index
 | [Skill](../10th-Level%20Features/Skill)                                                                            |          | 10    | trait        |
 | [Acrobatics](../1st-Level%20Features/Acrobatics)                                                                   |          | 1     | ability      |
 | [Artful Flourish](../1st-Level%20Features/Artful%20Flourish)                                                       |          | 1     | ability      |
-| [Ballad of the Beast](../1st-Level%20Features/Ballad%20of%20the%20Beast)                                           |          | 1     | trait        |
+| [Ballad of the Beast](../1st-Level%20Features/Ballad%20of%20the%20Beast)                                           |          | 1     | ability      |
 | [Blocking](../1st-Level%20Features/Blocking)                                                                       |          | 1     | ability      |
 | [Choreography](../1st-Level%20Features/Choreography)                                                               |          | 1     | ability      |
 | [Cutting Sarcasm](../1st-Level%20Features/Cutting%20Sarcasm)                                                       |          | 1     | ability      |
@@ -59,7 +59,7 @@ type: index
 | [Foil](../3rd-Level%20Features/Foil)                                                                               |          | 3     | trait        |
 | [Infernal Gavotte](../3rd-Level%20Features/Infernal%20Gavotte)                                                     | 7 Drama  | 3     | ability      |
 | [Missed Cue](../3rd-Level%20Features/Missed%20Cue)                                                                 |          | 3     | trait        |
-| [Never Ending Hero](../3rd-Level%20Features/Never%20Ending%20Hero)                                                 |          | 3     | trait        |
+| [Never Ending Hero](../3rd-Level%20Features/Never%20Ending%20Hero)                                                 |          | 3     | ability      |
 | [Star Solo](../3rd-Level%20Features/Star%20Solo)                                                                   | 7 Drama  | 3     | ability      |
 | [We Meet at Last](../3rd-Level%20Features/We%20Meet%20at%20Last)                                                   | 7 Drama  | 3     | ability      |
 | [Characteristic Increase](../4th-Level%20Features/Characteristic%20Increase)                                       |          | 4     | trait        |

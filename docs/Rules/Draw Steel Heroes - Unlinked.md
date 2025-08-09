@@ -15308,7 +15308,7 @@ You have the following performance abilities, which are usable with your Routine
 - **12-16:** Lightning damage equal to 5 + your level
 - **17+:** Lightning damage equal to 10 + your level
 
-#### "Ballad of the Beast"
+**<span class="steel-compendium-ability">"Ballad of the Beast"</span>**
 
 *Teeth are bare! ♪ Eyes black! ♪ No escaping the beast!♪*
 
@@ -15732,7 +15732,7 @@ You have the following performance abilities, which are usable with your Routine
 
 **Effect:** While this performance is active, each target who starts their turn in the area doesn't take a bane on strikes against creatures with concealment. Once during their turn, they can search for hidden creatures as a free maneuver (see Hide and Sneak in Chapter 9: Tests).
 
-#### "Never-Ending Hero"
+**<span class="steel-compendium-ability">"Never-Ending Hero"</span>**
 
 *And toniiight we can truly say ♪ They will alllways find a way!♪*
 

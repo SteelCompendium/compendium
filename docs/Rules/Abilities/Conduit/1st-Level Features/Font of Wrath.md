@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Font of Wrath
 file_dpath: Conduit/1st-Level Features
 item_id: font-of-wrath-3-piety
-item_index: '03'
+item_index: '04'
 item_name: Font of Wrath (3 Piety)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:font-of-wrath-3-piety
 scdc:
-  - 1.1.1:13.2.8.1:03
+  - 1.1.1:13.2.8.1:04
 source: mcdm.heroes.v1
 type: feature/ability/conduit/1st-level-feature
 ---

@@ -12,6 +12,6 @@ type: index
 | [Foil](../Foil)                                 |         | 3     | trait        |
 | [Infernal Gavotte](../Infernal%20Gavotte)       | 7 Drama | 3     | ability      |
 | [Missed Cue](../Missed%20Cue)                   |         | 3     | trait        |
-| [Never Ending Hero](../Never%20Ending%20Hero)   |         | 3     | trait        |
+| [Never Ending Hero](../Never%20Ending%20Hero)   |         | 3     | ability      |
 | [Star Solo](../Star%20Solo)                     | 7 Drama | 3     | ability      |
 | [We Meet at Last](../We%20Meet%20at%20Last)     | 7 Drama | 3     | ability      |

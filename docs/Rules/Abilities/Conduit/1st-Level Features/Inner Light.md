@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Inner Light
 file_dpath: Conduit/1st-Level Features
 item_id: inner-light
-item_index: '07'
+item_index: '06'
 item_name: Inner Light
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:inner-light
 scdc:
-  - 1.1.1:13.1.8.1:07
+  - 1.1.1:13.1.8.1:06
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

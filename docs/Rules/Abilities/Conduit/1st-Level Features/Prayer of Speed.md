@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Prayer of Speed
 file_dpath: Conduit/1st-Level Features
 item_id: prayer-of-speed
-item_index: '19'
+item_index: '17'
 item_name: Prayer of Speed
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:prayer-of-speed
 scdc:
-  - 1.1.1:13.1.8.1:19
+  - 1.1.1:13.1.8.1:17
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

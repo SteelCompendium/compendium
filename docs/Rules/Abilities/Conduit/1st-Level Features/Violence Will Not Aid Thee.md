@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Violence Will Not Aid Thee
 file_dpath: Conduit/1st-Level Features
 item_id: violence-will-not-aid-thee-3-piety
-item_index: '18'
+item_index: '20'
 item_name: Violence Will Not Aid Thee (3 Piety)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:violence-will-not-aid-thee-3-piety
 scdc:
-  - 1.1.1:13.2.8.1:18
+  - 1.1.1:13.2.8.1:20
 source: mcdm.heroes.v1
 type: feature/ability/conduit/1st-level-feature
 ---

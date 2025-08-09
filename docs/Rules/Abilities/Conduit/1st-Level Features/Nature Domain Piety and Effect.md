@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Nature Domain Piety and Effect
 file_dpath: Conduit/1st-Level Features
 item_id: nature-domain-piety-and-effect
-item_index: '03'
+item_index: '02'
 item_name: Nature Domain Piety and Effect
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:nature-domain-piety-and-effect
 scdc:
-  - 1.1.1:13.1.8.1:03
+  - 1.1.1:13.1.8.1:02
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

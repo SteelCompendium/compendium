@@ -25,12 +25,12 @@ type: index
 | [Death Domain Piety and Effect](../1st-Level%20Features/Death%20Domain%20Piety%20and%20Effect)           |          | 1     | trait        |
 | [Deity and Domains](../1st-Level%20Features/Deity%20and%20Domains)                                       |          | 1     | trait        |
 | [Drain](../1st-Level%20Features/Drain)                                                                   |          | 1     | ability      |
-| [Faithful Friend](../1st-Level%20Features/Faithful%20Friend)                                             |          | 1     | trait        |
+| [Faithful Friend](../1st-Level%20Features/Faithful%20Friend)                                             |          | 1     | ability      |
 | [Faith Is Our Armor](../1st-Level%20Features/Faith%20Is%20Our%20Armor)                                   | 5 Piety  | 1     | ability      |
 | [Fate Domain Piety and Effect](../1st-Level%20Features/Fate%20Domain%20Piety%20and%20Effect)             |          | 1     | trait        |
 | [Font of Wrath](../1st-Level%20Features/Font%20of%20Wrath)                                               | 3 Piety  | 1     | ability      |
 | [Grave Speech](../1st-Level%20Features/Grave%20Speech)                                                   |          | 1     | trait        |
-| [Hands of the Maker](../1st-Level%20Features/Hands%20of%20the%20Maker)                                   |          | 1     | trait        |
+| [Hands of the Maker](../1st-Level%20Features/Hands%20of%20the%20Maker)                                   |          | 1     | ability      |
 | [Healing Grace](../1st-Level%20Features/Healing%20Grace)                                                 |          | 1     | ability      |
 | [Holy Lash](../1st-Level%20Features/Holy%20Lash)                                                         |          | 1     | ability      |
 | [Inner Light](../1st-Level%20Features/Inner%20Light)                                                     |          | 1     | trait        |
@@ -90,7 +90,7 @@ type: index
 | [Words of Wrath and Grace](../3rd-Level%20Features/Words%20of%20Wrath%20and%20Grace)                     | 7 Piety  | 3     | ability      |
 | [Blessed Domain](../4th-Level%20Features/Blessed%20Domain)                                               |          | 4     | trait        |
 | [Blessing of Life](../4th-Level%20Features/Blessing%20of%20Life)                                         |          | 4     | trait        |
-| [Blessing of Secrets](../4th-Level%20Features/Blessing%20of%20Secrets)                                   |          | 4     | trait        |
+| [Blessing of Secrets](../4th-Level%20Features/Blessing%20of%20Secrets)                                   |          | 4     | ability      |
 | [Characteristic Increase](../4th-Level%20Features/Characteristic%20Increase)                             |          | 4     | trait        |
 | [Impervious Touch](../4th-Level%20Features/Impervious%20Touch)                                           |          | 4     | trait        |
 | [Improved Hands of the Maker](../4th-Level%20Features/Improved%20Hands%20of%20the%20Maker)               |          | 4     | trait        |
