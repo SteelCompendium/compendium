@@ -1,6 +1,6 @@
 ---
 class: troubadour
-feature_type: trait
+feature_type: ability
 file_basename: Spotlight
 file_dpath: Troubadour/6th-Level Features
 item_id: spotlight
@@ -8,11 +8,11 @@ item_index: '01'
 item_name: Spotlight
 level: 6
 scc:
-  - mcdm.heroes.v1:feature.trait.troubadour.6th-level-feature:spotlight
+  - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:spotlight
 scdc:
-  - 1.1.1:13.1.3.3:01
+  - 1.1.1:13.2.3.3:01
 source: mcdm.heroes.v1
-type: feature/trait/troubadour/6th-level-feature
+type: feature/ability/troubadour/6th-level-feature
 ---
 
 ###### Spotlight

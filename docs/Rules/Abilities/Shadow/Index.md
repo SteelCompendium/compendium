@@ -14,29 +14,29 @@ type: index
 | [Perk](../10th-Level%20Features/Perk)                                                                |            | 10    | trait        |
 | [Skill](../10th-Level%20Features/Skill)                                                              |            | 10    | trait        |
 | [Subterfuge](../10th-Level%20Features/Subterfuge)                                                    |            | 10    | trait        |
-| [Black Ash Teleport](../1st-Level%20Features/Black%20Ash%20Teleport)                                 |            | 1     | trait        |
+| [Black Ash Teleport](../1st-Level%20Features/Black%20Ash%20Teleport)                                 |            | 1     | ability      |
 | [Clever Trick](../1st-Level%20Features/Clever%20Trick)                                               | 1 Insight  | 1     | ability      |
-| [Coat the Blade](../1st-Level%20Features/Coat%20the%20Blade)                                         |            | 1     | trait        |
+| [Coat the Blade](../1st-Level%20Features/Coat%20the%20Blade)                                         |            | 1     | ability      |
 | [Coup de Grace](../1st-Level%20Features/Coup%20de%20Grace)                                           | 5 Insight  | 1     | ability      |
-| [Defensive Roll](../1st-Level%20Features/Defensive%20Roll)                                           |            | 1     | trait        |
+| [Defensive Roll](../1st-Level%20Features/Defensive%20Roll)                                           |            | 1     | ability      |
 | [Disorienting Strike](../1st-Level%20Features/Disorienting%20Strike)                                 | 3 Insight  | 1     | ability      |
 | [Eviscerate](../1st-Level%20Features/Eviscerate)                                                     | 3 Insight  | 1     | ability      |
-| [Gasping in Pain](../1st-Level%20Features/Gasping%20in%20Pain)                                       |            | 1     | trait        |
+| [Gasping in Pain](../1st-Level%20Features/Gasping%20in%20Pain)                                       |            | 1     | ability      |
 | [Get In Get Out](../1st-Level%20Features/Get%20In%20Get%20Out)                                       | 3 Insight  | 1     | ability      |
 | [Hesitation Is Weakness](../1st-Level%20Features/Hesitation%20Is%20Weakness)                         | 1 Insight  | 1     | ability      |
-| [Im No Threat](../1st-Level%20Features/Im%20No%20Threat)                                             |            | 1     | trait        |
-| [In All This Confusion](../1st-Level%20Features/In%20All%20This%20Confusion)                         |            | 1     | trait        |
+| [Im No Threat](../1st-Level%20Features/Im%20No%20Threat)                                             |            | 1     | ability      |
+| [In All This Confusion](../1st-Level%20Features/In%20All%20This%20Confusion)                         |            | 1     | ability      |
 | [Insight in Combat](../1st-Level%20Features/Insight%20in%20Combat)                                   |            | 1     | trait        |
 | [Insight Outside of Combat](../1st-Level%20Features/Insight%20Outside%20of%20Combat)                 |            | 1     | trait        |
-| [I Work Better Alone](../1st-Level%20Features/I%20Work%20Better%20Alone)                             |            | 1     | trait        |
+| [I Work Better Alone](../1st-Level%20Features/I%20Work%20Better%20Alone)                             |            | 1     | ability      |
 | [Kit](../1st-Level%20Features/Kit)                                                                   |            | 1     | trait        |
 | [One Hundred Throats](../1st-Level%20Features/One%20Hundred%20Throats)                               | 5 Insight  | 1     | ability      |
 | [Setup](../1st-Level%20Features/Setup)                                                               | 5 Insight  | 1     | ability      |
 | [Shadowstrike](../1st-Level%20Features/Shadowstrike)                                                 | 5 Insight  | 1     | ability      |
 | [Smoke Bomb](../1st-Level%20Features/Smoke%20Bomb)                                                   |            | 1     | trait        |
-| [Teamwork Has Its Place](../1st-Level%20Features/Teamwork%20Has%20Its%20Place)                       |            | 1     | trait        |
+| [Teamwork Has Its Place](../1st-Level%20Features/Teamwork%20Has%20Its%20Place)                       |            | 1     | ability      |
 | [Two Throats at Once](../1st-Level%20Features/Two%20Throats%20at%20Once)                             | 3 Insight  | 1     | ability      |
-| [You Were Watching the Wrong One](../1st-Level%20Features/You%20Were%20Watching%20the%20Wrong%20One) |            | 1     | trait        |
+| [You Were Watching the Wrong One](../1st-Level%20Features/You%20Were%20Watching%20the%20Wrong%20One) |            | 1     | ability      |
 | [Burning Ash](../2nd-Level%20Features/Burning%20Ash)                                                 |            | 2     | trait        |
 | [Friend](../2nd-Level%20Features/Friend)                                                             |            | 2     | trait        |
 | [In a Puff of Ash](../2nd-Level%20Features/In%20a%20Puff%20of%20Ash)                                 | 5 Insight  | 2     | ability      |
@@ -47,14 +47,14 @@ type: index
 | [Stink Bomb](../2nd-Level%20Features/Stink%20Bomb)                                                   | 5 Insight  | 2     | ability      |
 | [Too Slow](../2nd-Level%20Features/Too%20Slow)                                                       | 5 Insight  | 2     | ability      |
 | [Trained Assassin](../2nd-Level%20Features/Trained%20Assassin)                                       |            | 2     | trait        |
-| [Careful Observation](../3rd-Level%20Features/Careful%20Observation)                                 |            | 3     | trait        |
+| [Careful Observation](../3rd-Level%20Features/Careful%20Observation)                                 |            | 3     | ability      |
 | [Dancer](../3rd-Level%20Features/Dancer)                                                             | 7 Insight  | 3     | ability      |
 | [Misdirecting Strike](../3rd-Level%20Features/Misdirecting%20Strike)                                 | 7 Insight  | 3     | ability      |
 | [Pinning Shot](../3rd-Level%20Features/Pinning%20Shot)                                               | 7 Insight  | 3     | ability      |
 | [Staggering Blow](../3rd-Level%20Features/Staggering%20Blow)                                         | 7 Insight  | 3     | ability      |
 | [Characteristic Increase](../4th-Level%20Features/Characteristic%20Increase)                         |            | 4     | trait        |
 | [Keep It Down](../4th-Level%20Features/Keep%20It%20Down)                                             |            | 4     | trait        |
-| [Night Watch](../4th-Level%20Features/Night%20Watch)                                                 |            | 4     | trait        |
+| [Night Watch](../4th-Level%20Features/Night%20Watch)                                                 |            | 4     | ability      |
 | [Perk](../4th-Level%20Features/Perk)                                                                 |            | 4     | trait        |
 | [Skill](../4th-Level%20Features/Skill)                                                               |            | 4     | trait        |
 | [Surge of Insight](../4th-Level%20Features/Surge%20of%20Insight)                                     |            | 4     | trait        |
@@ -85,7 +85,7 @@ type: index
 | [Shadowgrasp](../8th-Level%20Features/Shadowgrasp)                                                   | 11 Insight | 8     | ability      |
 | [Speed of Shadows](../8th-Level%20Features/Speed%20of%20Shadows)                                     | 11 Insight | 8     | ability      |
 | [They Always Line Up](../8th-Level%20Features/They%20Always%20Line%20Up)                             | 11 Insight | 8     | ability      |
-| [Time Bomb](../8th-Level%20Features/Time%20Bomb)                                                     |            | 8     | trait        |
+| [Time Bomb](../8th-Level%20Features/Time%20Bomb)                                                     |            | 8     | ability      |
 | [Cacophony of Cinders](../9th-Level%20Features/Cacophony%20of%20Cinders)                             | 11 Insight | 9     | ability      |
 | [Chain Reaction](../9th-Level%20Features/Chain%20Reaction)                                           | 11 Insight | 9     | ability      |
 | [Demon Door](../9th-Level%20Features/Demon%20Door)                                                   | 11 Insight | 9     | ability      |

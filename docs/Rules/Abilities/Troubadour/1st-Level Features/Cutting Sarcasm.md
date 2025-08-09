@@ -1,18 +1,18 @@
 ---
 class: troubadour
-feature_type: trait
+feature_type: ability
 file_basename: Cutting Sarcasm
 file_dpath: Troubadour/1st-Level Features
 item_id: cutting-sarcasm
-item_index: '01'
+item_index: '02'
 item_name: Cutting Sarcasm
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:cutting-sarcasm
+  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:cutting-sarcasm
 scdc:
-  - 1.1.1:13.1.3.1:01
+  - 1.1.1:13.2.3.1:02
 source: mcdm.heroes.v1
-type: feature/trait/troubadour/1st-level-feature
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Cutting Sarcasm

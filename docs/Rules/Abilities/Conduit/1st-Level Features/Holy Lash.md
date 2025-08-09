@@ -1,18 +1,18 @@
 ---
 class: conduit
-feature_type: trait
+feature_type: ability
 file_basename: Holy Lash
 file_dpath: Conduit/1st-Level Features
 item_id: holy-lash
-item_index: '30'
+item_index: '16'
 item_name: Holy Lash
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:holy-lash
+  - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:holy-lash
 scdc:
-  - 1.1.1:13.1.8.1:30
+  - 1.1.1:13.2.8.1:16
 source: mcdm.heroes.v1
-type: feature/trait/conduit/1st-level-feature
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Holy Lash

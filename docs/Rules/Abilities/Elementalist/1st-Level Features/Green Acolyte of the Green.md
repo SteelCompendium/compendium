@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Green Acolyte of the Green
 file_dpath: Elementalist/1st-Level Features
 item_id: green-acolyte-of-the-green
-item_index: '24'
+item_index: '12'
 item_name: 'Green: Acolyte of the Green'
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:green-acolyte-of-the-green
 scdc:
-  - 1.1.1:13.1.9.1:24
+  - 1.1.1:13.1.9.1:12
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

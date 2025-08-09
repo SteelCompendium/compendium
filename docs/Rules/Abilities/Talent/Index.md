@@ -14,36 +14,36 @@ type: index
 | [Psion](../10th-Level%20Features/Psion)                                                  |            | 10    | trait        |
 | [Skill](../10th-Level%20Features/Skill)                                                  |            | 10    | trait        |
 | [Vision](../10th-Level%20Features/Vision)                                                |            | 10    | trait        |
-| [Accelerate](../1st-Level%20Features/Accelerate)                                         |            | 1     | trait        |
-| [Again](../1st-Level%20Features/Again)                                                   |            | 1     | trait        |
+| [Accelerate](../1st-Level%20Features/Accelerate)                                         |            | 1     | ability      |
+| [Again](../1st-Level%20Features/Again)                                                   |            | 1     | ability      |
 | [Awe](../1st-Level%20Features/Awe)                                                       | 3 Clarity  | 1     | ability      |
 | [Battle Augmentation](../1st-Level%20Features/Battle%20Augmentation)                     |            | 1     | trait        |
 | [Choke](../1st-Level%20Features/Choke)                                                   | 3 Clarity  | 1     | ability      |
 | [Clarity Outside of Combat](../1st-Level%20Features/Clarity%20Outside%20of%20Combat)     |            | 1     | trait        |
 | [Density Augmentation](../1st-Level%20Features/Density%20Augmentation)                   |            | 1     | trait        |
 | [Distance Augmentation](../1st-Level%20Features/Distance%20Augmentation)                 |            | 1     | trait        |
-| [Entropic Bolt](../1st-Level%20Features/Entropic%20Bolt)                                 |            | 1     | trait        |
+| [Entropic Bolt](../1st-Level%20Features/Entropic%20Bolt)                                 |            | 1     | ability      |
 | [Entropy Ward](../1st-Level%20Features/Entropy%20Ward)                                   |            | 1     | trait        |
-| [Feedback Loop](../1st-Level%20Features/Feedback%20Loop)                                 |            | 1     | trait        |
+| [Feedback Loop](../1st-Level%20Features/Feedback%20Loop)                                 |            | 1     | ability      |
 | [Flashback](../1st-Level%20Features/Flashback)                                           | 5 Clarity  | 1     | ability      |
 | [Force Augmentation](../1st-Level%20Features/Force%20Augmentation)                       |            | 1     | trait        |
-| [Hoarfrost](../1st-Level%20Features/Hoarfrost)                                           |            | 1     | trait        |
-| [Incinerate](../1st-Level%20Features/Incinerate)                                         |            | 1     | trait        |
+| [Hoarfrost](../1st-Level%20Features/Hoarfrost)                                           |            | 1     | ability      |
+| [Incinerate](../1st-Level%20Features/Incinerate)                                         |            | 1     | ability      |
 | [Inertia Soak](../1st-Level%20Features/Inertia%20Soak)                                   | 5 Clarity  | 1     | ability      |
 | [Iron](../1st-Level%20Features/Iron)                                                     | 5 Clarity  | 1     | ability      |
-| [Kinetic Grip](../1st-Level%20Features/Kinetic%20Grip)                                   |            | 1     | trait        |
-| [Kinetic Pulse](../1st-Level%20Features/Kinetic%20Pulse)                                 |            | 1     | trait        |
-| [Mind Spike](../1st-Level%20Features/Mind%20Spike)                                       |            | 1     | trait        |
-| [Minor Telekinesis](../1st-Level%20Features/Minor%20Telekinesis)                         |            | 1     | trait        |
-| [Optic Blast](../1st-Level%20Features/Optic%20Blast)                                     |            | 1     | trait        |
+| [Kinetic Grip](../1st-Level%20Features/Kinetic%20Grip)                                   |            | 1     | ability      |
+| [Kinetic Pulse](../1st-Level%20Features/Kinetic%20Pulse)                                 |            | 1     | ability      |
+| [Mind Spike](../1st-Level%20Features/Mind%20Spike)                                       |            | 1     | ability      |
+| [Minor Telekinesis](../1st-Level%20Features/Minor%20Telekinesis)                         |            | 1     | ability      |
+| [Optic Blast](../1st-Level%20Features/Optic%20Blast)                                     |            | 1     | ability      |
 | [Perfect Clarity](../1st-Level%20Features/Perfect%20Clarity)                             | 5 Clarity  | 1     | ability      |
 | [Precognition](../1st-Level%20Features/Precognition)                                     | 3 Clarity  | 1     | ability      |
-| [Remote Assistance](../1st-Level%20Features/Remote%20Assistance)                         |            | 1     | trait        |
-| [Repel](../1st-Level%20Features/Repel)                                                   |            | 1     | trait        |
+| [Remote Assistance](../1st-Level%20Features/Remote%20Assistance)                         |            | 1     | ability      |
+| [Repel](../1st-Level%20Features/Repel)                                                   |            | 1     | ability      |
 | [Repulsive Ward](../1st-Level%20Features/Repulsive%20Ward)                               |            | 1     | trait        |
 | [Smolder](../1st-Level%20Features/Smolder)                                               | 3 Clarity  | 1     | ability      |
 | [Speed Augmentation](../1st-Level%20Features/Speed%20Augmentation)                       |            | 1     | trait        |
-| [Spirit Sword](../1st-Level%20Features/Spirit%20Sword)                                   |            | 1     | trait        |
+| [Spirit Sword](../1st-Level%20Features/Spirit%20Sword)                                   |            | 1     | ability      |
 | [Steel Ward](../1st-Level%20Features/Steel%20Ward)                                       |            | 1     | trait        |
 | [Talent Tradition](../1st-Level%20Features/Talent%20Tradition)                           |            | 1     | trait        |
 | [Telepathic Speech](../1st-Level%20Features/Telepathic%20Speech)                         |            | 1     | trait        |
@@ -79,17 +79,11 @@ type: index
 | [Soulbound](../5th-Level%20Features/Soulbound)                                           | 9 Clarity  | 5     | ability      |
 | [Speed of Thought](../5th-Level%20Features/Speed%20of%20Thought)                         |            | 5     | trait        |
 | [Triangulate](../5th-Level%20Features/Triangulate)                                       |            | 5     | trait        |
-| [Dynamic Power](../6th-Level%20Features/Dynamic%20Power)                                 | 1 Clarity  | 6     | ability      |
-| [Expanded Power](../6th-Level%20Features/Expanded%20Power)                               | 3 Clarity  | 6     | ability      |
-| [Extended Power](../6th-Level%20Features/Extended%20Power)                               | 1 Clarity  | 6     | ability      |
 | [Fate](../6th-Level%20Features/Fate)                                                     | 9 Clarity  | 6     | ability      |
 | [Gravitic Well](../6th-Level%20Features/Gravitic%20Well)                                 | 9 Clarity  | 6     | ability      |
 | [Greater Kinetic Grip](../6th-Level%20Features/Greater%20Kinetic%20Grip)                 | 9 Clarity  | 6     | ability      |
-| [Heightened Power](../6th-Level%20Features/Heightened%20Power)                           | 1 Clarity  | 6     | ability      |
-| [Magnified Power](../6th-Level%20Features/Magnified%20Power)                             | 5 Clarity  | 6     | ability      |
 | [Perk](../6th-Level%20Features/Perk)                                                     |            | 6     | trait        |
-| [Shared Power](../6th-Level%20Features/Shared%20Power)                                   | 5 Clarity  | 6     | ability      |
-| [Sharpened Power](../6th-Level%20Features/Sharpened%20Power)                             | 1 Clarity  | 6     | ability      |
+| [Psi Boost](../6th-Level%20Features/Psi%20Boost)                                         |            | 6     | trait        |
 | [Stasis Field](../6th-Level%20Features/Stasis%20Field)                                   | 9 Clarity  | 6     | ability      |
 | [Synaptic Conditioning](../6th-Level%20Features/Synaptic%20Conditioning)                 | 9 Clarity  | 6     | ability      |
 | [Synaptic Dissipation](../6th-Level%20Features/Synaptic%20Dissipation)                   | 9 Clarity  | 6     | ability      |
@@ -100,7 +94,7 @@ type: index
 | [Skill](../7th-Level%20Features/Skill)                                                   |            | 7     | trait        |
 | [Doubling the Hours](../8th-Level%20Features/Doubling%20the%20Hours)                     |            | 8     | trait        |
 | [Doubt](../8th-Level%20Features/Doubt)                                                   | 11 Clarity | 8     | ability      |
-| [Levitation Field](../8th-Level%20Features/Levitation%20Field)                           |            | 8     | trait        |
+| [Levitation Field](../8th-Level%20Features/Levitation%20Field)                           |            | 8     | ability      |
 | [Low Gravity](../8th-Level%20Features/Low%20Gravity)                                     |            | 8     | trait        |
 | [Mindlink](../8th-Level%20Features/Mindlink)                                             |            | 8     | trait        |
 | [Mindwipe](../8th-Level%20Features/Mindwipe)                                             | 11 Clarity | 8     | ability      |

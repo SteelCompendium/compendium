@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Fake Your Death
 file_dpath: Troubadour/1st-Level Features
 item_id: fake-your-death-5-drama
-item_index: '03'
+item_index: '05'
 item_name: Fake Your Death (5 Drama)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:fake-your-death-5-drama
 scdc:
-  - 1.1.1:13.2.3.1:03
+  - 1.1.1:13.2.3.1:05
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/1st-level-feature
 ---

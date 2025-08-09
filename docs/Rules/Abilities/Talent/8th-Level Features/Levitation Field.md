@@ -1,18 +1,18 @@
 ---
 class: talent
-feature_type: trait
+feature_type: ability
 file_basename: Levitation Field
 file_dpath: Talent/8th-Level Features
 item_id: levitation-field
-item_index: '04'
+item_index: '02'
 item_name: Levitation Field
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.trait.talent.8th-level-feature:levitation-field
+  - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:levitation-field
 scdc:
-  - 1.1.1:13.1.1.2:04
+  - 1.1.1:13.2.1.2:02
 source: mcdm.heroes.v1
-type: feature/trait/talent/8th-level-feature
+type: feature/ability/talent/8th-level-feature
 ---
 
 ###### Levitation Field

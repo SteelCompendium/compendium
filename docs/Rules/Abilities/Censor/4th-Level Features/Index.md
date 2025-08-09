@@ -8,7 +8,7 @@ type: index
 | File Name                                                             | Cost | Level | Feature Type |
 | --------------------------------------------------------------------- | ---- | ----- | ------------ |
 | [Blessing of Life](../Blessing%20of%20Life)                           |      | 4     | trait        |
-| [Blessing of Secrets](../Blessing%20of%20Secrets)                     |      | 4     | trait        |
+| [Blessing of Secrets](../Blessing%20of%20Secrets)                     |      | 4     | ability      |
 | [Characteristic Increase](../Characteristic%20Increase)               |      | 4     | trait        |
 | [Impervious Touch](../Impervious%20Touch)                             |      | 4     | trait        |
 | [Improved Hands of the Maker](../Improved%20Hands%20of%20the%20Maker) |      | 4     | trait        |

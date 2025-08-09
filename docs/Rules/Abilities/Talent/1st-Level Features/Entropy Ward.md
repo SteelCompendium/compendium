@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Entropy Ward
 file_dpath: Talent/1st-Level Features
 item_id: entropy-ward
-item_index: '10'
+item_index: '06'
 item_name: Entropy Ward
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:entropy-ward
 scdc:
-  - 1.1.1:13.1.1.1:10
+  - 1.1.1:13.1.1.1:06
 source: mcdm.heroes.v1
 type: feature/trait/talent/1st-level-feature
 ---

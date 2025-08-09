@@ -1,18 +1,18 @@
 ---
 class: conduit
-feature_type: trait
+feature_type: ability
 file_basename: Warriors Prayer
 file_dpath: Conduit/1st-Level Features
 item_id: warriors-prayer
-item_index: '23'
+item_index: '12'
 item_name: Warrior's Prayer
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:warriors-prayer
+  - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:warriors-prayer
 scdc:
-  - 1.1.1:13.1.8.1:23
+  - 1.1.1:13.2.8.1:12
 source: mcdm.heroes.v1
-type: feature/trait/conduit/1st-level-feature
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Warrior's Prayer

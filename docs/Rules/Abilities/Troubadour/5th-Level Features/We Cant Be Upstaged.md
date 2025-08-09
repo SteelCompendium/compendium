@@ -1,6 +1,6 @@
 ---
 class: troubadour
-feature_type: trait
+feature_type: ability
 file_basename: We Cant Be Upstaged
 file_dpath: Troubadour/5th-Level Features
 item_id: we-cant-be-upstaged
@@ -8,11 +8,11 @@ item_index: '06'
 item_name: We Can't Be Upstaged!
 level: 5
 scc:
-  - mcdm.heroes.v1:feature.trait.troubadour.5th-level-feature:we-cant-be-upstaged
+  - mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:we-cant-be-upstaged
 scdc:
-  - 1.1.1:13.1.3.5:06
+  - 1.1.1:13.2.3.4:06
 source: mcdm.heroes.v1
-type: feature/trait/troubadour/5th-level-feature
+type: feature/ability/troubadour/5th-level-feature
 ---
 
 ###### We Can't Be Upstaged!

@@ -1,18 +1,18 @@
 ---
 class: elementalist
-feature_type: trait
+feature_type: ability
 file_basename: Motivate Earth
 file_dpath: Elementalist/1st-Level Features
 item_id: motivate-earth
-item_index: '30'
+item_index: '21'
 item_name: Motivate Earth
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:motivate-earth
+  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:motivate-earth
 scdc:
-  - 1.1.1:13.1.9.1:30
+  - 1.1.1:13.2.9.1:21
 source: mcdm.heroes.v1
-type: feature/trait/elementalist/1st-level-feature
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Motivate Earth

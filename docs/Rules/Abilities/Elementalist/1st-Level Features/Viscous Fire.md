@@ -1,18 +1,18 @@
 ---
 class: elementalist
-feature_type: trait
+feature_type: ability
 file_basename: Viscous Fire
 file_dpath: Elementalist/1st-Level Features
 item_id: viscous-fire
-item_index: '17'
+item_index: '11'
 item_name: Viscous Fire
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:viscous-fire
+  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:viscous-fire
 scdc:
-  - 1.1.1:13.1.9.1:17
+  - 1.1.1:13.2.9.1:11
 source: mcdm.heroes.v1
-type: feature/trait/elementalist/1st-level-feature
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Viscous Fire

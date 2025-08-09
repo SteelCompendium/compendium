@@ -8,7 +8,7 @@ type: index
 | File Name                                       | Cost    | Level | Feature Type |
 | ----------------------------------------------- | ------- | ----- | ------------ |
 | [Extensive Rewrites](../Extensive%20Rewrites)   | 7 Drama | 3     | ability      |
-| [Fire Up the Night](../Fire%20Up%20the%20Night) |         | 3     | trait        |
+| [Fire Up the Night](../Fire%20Up%20the%20Night) |         | 3     | ability      |
 | [Foil](../Foil)                                 |         | 3     | trait        |
 | [Infernal Gavotte](../Infernal%20Gavotte)       | 7 Drama | 3     | ability      |
 | [Missed Cue](../Missed%20Cue)                   |         | 3     | trait        |

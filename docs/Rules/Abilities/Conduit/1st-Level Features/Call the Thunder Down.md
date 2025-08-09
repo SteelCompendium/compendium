@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Call the Thunder Down
 file_dpath: Conduit/1st-Level Features
 item_id: call-the-thunder-down-3-piety
-item_index: '05'
+item_index: '07'
 item_name: Call the Thunder Down (3 Piety)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:call-the-thunder-down-3-piety
 scdc:
-  - 1.1.1:13.2.8.1:05
+  - 1.1.1:13.2.8.1:07
 source: mcdm.heroes.v1
 type: feature/ability/conduit/1st-level-feature
 ---

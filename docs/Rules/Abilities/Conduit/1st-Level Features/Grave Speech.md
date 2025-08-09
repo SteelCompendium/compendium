@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Grave Speech
 file_dpath: Conduit/1st-Level Features
 item_id: grave-speech
-item_index: '32'
+item_index: '22'
 item_name: Grave Speech
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:grave-speech
 scdc:
-  - 1.1.1:13.1.8.1:32
+  - 1.1.1:13.1.8.1:22
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

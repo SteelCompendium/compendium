@@ -1,18 +1,18 @@
 ---
 class: shadow
-feature_type: trait
+feature_type: ability
 file_basename: Careful Observation
 file_dpath: Shadow/3rd-Level Features
 item_id: careful-observation
-item_index: '01'
+item_index: '04'
 item_name: Careful Observation
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.trait.shadow.3rd-level-feature:careful-observation
+  - mcdm.heroes.v1:feature.ability.shadow.3rd-level-feature:careful-observation
 scdc:
-  - 1.1.1:13.1.2.7:01
+  - 1.1.1:13.2.2.6:04
 source: mcdm.heroes.v1
-type: feature/trait/shadow/3rd-level-feature
+type: feature/ability/shadow/3rd-level-feature
 ---
 
 ###### Careful Observation

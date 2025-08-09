@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Ferocity Outside of Combat
 file_dpath: Fury/1st-Level Features
 item_id: ferocity-outside-of-combat
-item_index: '13'
+item_index: 08
 item_name: Ferocity Outside of Combat
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.fury.1st-level-feature:ferocity-outside-of-combat
 scdc:
-  - 1.1.1:13.1.5.1:13
+  - 1.1.1:13.1.5.1:08
 source: mcdm.heroes.v1
 type: feature/trait/fury/1st-level-feature
 ---

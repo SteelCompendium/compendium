@@ -1,21 +1,21 @@
 ---
 class: elementalist
-feature_type: trait
-file_basename: Ry of Agonizing Self Reflection
+feature_type: ability
+file_basename: Ray of Agonizing Self Reflection
 file_dpath: Elementalist/1st-Level Features
-item_id: ry-of-agonizing-self-reflection
-item_index: '02'
-item_name: Ry of Agonizing Self-Reflection
+item_id: ray-of-agonizing-self-reflection
+item_index: '01'
+item_name: Ray of Agonizing Self-Reflection
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:ry-of-agonizing-self-reflection
+  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:ray-of-agonizing-self-reflection
 scdc:
-  - 1.1.1:13.1.9.1:02
+  - 1.1.1:13.2.9.1:01
 source: mcdm.heroes.v1
-type: feature/trait/elementalist/1st-level-feature
+type: feature/ability/elementalist/1st-level-feature
 ---
 
-###### Ry of Agonizing Self-Reflection
+###### Ray of Agonizing Self-Reflection
 
 *You inflict pain and doubt in equal measure.*
 

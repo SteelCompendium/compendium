@@ -14,7 +14,7 @@ type: index
 | [Virtue](../10th-Level%20Features/Virtue)                                                    |          | 10    | trait        |
 | [Wrath of the Gods](../10th-Level%20Features/Wrath%20of%20the%20Gods)                        |          | 10    | trait        |
 | [Arrest](../1st-Level%20Features/Arrest)                                                     | 5 Wrath  | 1     | ability      |
-| [Back Blasphemer](../1st-Level%20Features/Back%20Blasphemer)                                 |          | 1     | trait        |
+| [Back Blasphemer](../1st-Level%20Features/Back%20Blasphemer)                                 |          | 1     | ability      |
 | [Behold a Shield of Faith](../1st-Level%20Features/Behold%20a%20Shield%20of%20Faith)         | 3 Wrath  | 1     | ability      |
 | [Behold the Face of Justice](../1st-Level%20Features/Behold%20the%20Face%20of%20Justice)     | 5 Wrath  | 1     | ability      |
 | [Blessing of Compassion](../1st-Level%20Features/Blessing%20of%20Compassion)                 |          | 1     | trait        |
@@ -23,16 +23,16 @@ type: index
 | [Censored](../1st-Level%20Features/Censored)                                                 | 5 Wrath  | 1     | ability      |
 | [Censor Order](../1st-Level%20Features/Censor%20Order)                                       |          | 1     | trait        |
 | [Driving Assault](../1st-Level%20Features/Driving%20Assault)                                 | 3 Wrath  | 1     | ability      |
-| [Faithful Friend](../1st-Level%20Features/Faithful%20Friend)                                 |          | 1     | trait        |
-| [Grave Speech](../1st-Level%20Features/Grave%20Speech)                                       |          | 1     | trait        |
-| [Halt Miscreant](../1st-Level%20Features/Halt%20Miscreant)                                   |          | 1     | trait        |
-| [Hands of the Maker](../1st-Level%20Features/Hands%20of%20the%20Maker)                       |          | 1     | trait        |
+| [Faithful Friend](../1st-Level%20Features/Faithful%20Friend)                                 |          | 1     | ability      |
+| [Grave Speech](../1st-Level%20Features/Grave%20Speech)                                       |          | 1     | ability      |
+| [Halt Miscreant](../1st-Level%20Features/Halt%20Miscreant)                                   |          | 1     | ability      |
+| [Hands of the Maker](../1st-Level%20Features/Hands%20of%20the%20Maker)                       |          | 1     | ability      |
 | [Inner Light](../1st-Level%20Features/Inner%20Light)                                         |          | 1     | trait        |
 | [Inspired Deception](../1st-Level%20Features/Inspired%20Deception)                           |          | 1     | trait        |
-| [Judgment](../1st-Level%20Features/Judgment)                                                 |          | 1     | trait        |
+| [Judgment](../1st-Level%20Features/Judgment)                                                 |          | 1     | ability      |
 | [Judgment Order Benefit](../1st-Level%20Features/Judgment%20Order%20Benefit)                 |          | 1     | trait        |
 | [Kit](../1st-Level%20Features/Kit)                                                           |          | 1     | trait        |
-| [My Life for Yours](../1st-Level%20Features/My%20Life%20for%20Yours)                         |          | 1     | trait        |
+| [My Life for Yours](../1st-Level%20Features/My%20Life%20for%20Yours)                         |          | 1     | ability      |
 | [Oracular Visions](../1st-Level%20Features/Oracular%20Visions)                               |          | 1     | trait        |
 | [Protective Circle](../1st-Level%20Features/Protective%20Circle)                             |          | 1     | trait        |
 | [Purifying Fire](../1st-Level%20Features/Purifying%20Fire)                                   | 5 Wrath  | 1     | ability      |
@@ -42,7 +42,7 @@ type: index
 | [The Gods Punish and Defend](../1st-Level%20Features/The%20Gods%20Punish%20and%20Defend)     | 3 Wrath  | 1     | ability      |
 | [Wrath in Combat](../1st-Level%20Features/Wrath%20in%20Combat)                               |          | 1     | trait        |
 | [Wrath Outside of Combat](../1st-Level%20Features/Wrath%20Outside%20of%20Combat)             |          | 1     | trait        |
-| [Your Allies Cannot Save You](../1st-Level%20Features/Your%20Allies%20Cannot%20Save%20You)   |          | 1     | trait        |
+| [Your Allies Cannot Save You](../1st-Level%20Features/Your%20Allies%20Cannot%20Save%20You)   |          | 1     | ability      |
 | [A Sense for Truth](../2nd-Level%20Features/A%20Sense%20for%20Truth)                         |          | 2     | trait        |
 | [Blessing of the Faithful](../2nd-Level%20Features/Blessing%20of%20the%20Faithful)           | 5 Wrath  | 2     | ability      |
 | [It Is Justice You Fear](../2nd-Level%20Features/It%20Is%20Justice%20You%20Fear)             | 5 Wrath  | 2     | ability      |
@@ -62,7 +62,7 @@ type: index
 | [Edict of Stillness](../3rd-Level%20Features/Edict%20of%20Stillness)                         | 7 Wrath  | 3     | ability      |
 | [Look On My Work and Despair](../3rd-Level%20Features/Look%20On%20My%20Work%20and%20Despair) |          | 3     | trait        |
 | [Blessing of Life](../4th-Level%20Features/Blessing%20of%20Life)                             |          | 4     | trait        |
-| [Blessing of Secrets](../4th-Level%20Features/Blessing%20of%20Secrets)                       |          | 4     | trait        |
+| [Blessing of Secrets](../4th-Level%20Features/Blessing%20of%20Secrets)                       |          | 4     | ability      |
 | [Characteristic Increase](../4th-Level%20Features/Characteristic%20Increase)                 |          | 4     | trait        |
 | [Impervious Touch](../4th-Level%20Features/Impervious%20Touch)                               |          | 4     | trait        |
 | [Improved Hands of the Maker](../4th-Level%20Features/Improved%20Hands%20of%20the%20Maker)   |          | 4     | trait        |
@@ -98,7 +98,7 @@ type: index
 | [Focused Wrath](../7th-Level%20Features/Focused%20Wrath)                                     |          | 7     | trait        |
 | [Font of Grace](../7th-Level%20Features/Font%20of%20Grace)                                   |          | 7     | trait        |
 | [Gods Library](../7th-Level%20Features/Gods%20Library)                                       |          | 7     | trait        |
-| [Guided to Your Side](../7th-Level%20Features/Guided%20to%20Your%20Side)                     |          | 7     | trait        |
+| [Guided to Your Side](../7th-Level%20Features/Guided%20to%20Your%20Side)                     |          | 7     | ability      |
 | [Light of the Burning Sun](../7th-Level%20Features/Light%20of%20the%20Burning%20Sun)         |          | 7     | trait        |
 | [Natures Bounty](../7th-Level%20Features/Natures%20Bounty)                                   |          | 7     | trait        |
 | [Ride the Lightning](../7th-Level%20Features/Ride%20the%20Lightning)                         |          | 7     | trait        |

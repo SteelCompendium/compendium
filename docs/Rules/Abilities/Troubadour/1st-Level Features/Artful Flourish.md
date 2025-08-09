@@ -1,18 +1,18 @@
 ---
 class: troubadour
-feature_type: trait
+feature_type: ability
 file_basename: Artful Flourish
 file_dpath: Troubadour/1st-Level Features
 item_id: artful-flourish
-item_index: '07'
+item_index: '11'
 item_name: Artful Flourish
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:artful-flourish
+  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:artful-flourish
 scdc:
-  - 1.1.1:13.1.3.1:07
+  - 1.1.1:13.2.3.1:11
 source: mcdm.heroes.v1
-type: feature/trait/troubadour/1st-level-feature
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Artful Flourish

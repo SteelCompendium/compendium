@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: The Gods Punish and Defend
 file_dpath: Censor/1st-Level Features
 item_id: the-gods-punish-and-defend-3-wrath
-item_index: '05'
+item_index: '11'
 item_name: The Gods Punish and Defend (3 Wrath)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:the-gods-punish-and-defend-3-wrath
 scdc:
-  - 1.1.1:13.2.7.1:05
+  - 1.1.1:13.2.7.1:11
 source: mcdm.heroes.v1
 type: feature/ability/censor/1st-level-feature
 ---

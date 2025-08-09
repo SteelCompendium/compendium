@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Hypnotic Overtones
 file_dpath: Troubadour/1st-Level Features
 item_id: hypnotic-overtones-3-drama
-item_index: '06'
+item_index: '13'
 item_name: Hypnotic Overtones (3 Drama)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:hypnotic-overtones-3-drama
 scdc:
-  - 1.1.1:13.2.3.1:06
+  - 1.1.1:13.2.3.1:13
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/1st-level-feature
 ---

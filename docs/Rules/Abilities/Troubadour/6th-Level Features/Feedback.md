@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Feedback
 file_dpath: Troubadour/6th-Level Features
 item_id: feedback-9-drama
-item_index: '01'
+item_index: '02'
 item_name: Feedback (9 Drama)
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:feedback-9-drama
 scdc:
-  - 1.1.1:13.2.3.3:01
+  - 1.1.1:13.2.3.3:02
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/6th-level-feature
 ---

@@ -1,18 +1,18 @@
 ---
 class: elementalist
-feature_type: trait
+feature_type: ability
 file_basename: Grasp of Beyond
 file_dpath: Elementalist/1st-Level Features
 item_id: grasp-of-beyond
-item_index: '28'
+item_index: '19'
 item_name: Grasp of Beyond
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:grasp-of-beyond
+  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:grasp-of-beyond
 scdc:
-  - 1.1.1:13.1.9.1:28
+  - 1.1.1:13.2.9.1:19
 source: mcdm.heroes.v1
-type: feature/trait/elementalist/1st-level-feature
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Grasp of Beyond

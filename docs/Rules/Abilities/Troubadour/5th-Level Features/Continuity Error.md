@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Continuity Error
 file_dpath: Troubadour/5th-Level Features
 item_id: continuity-error-9-drama
-item_index: '04'
+item_index: '05'
 item_name: Continuity Error (9 Drama)
 level: 5
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.5th-level-feature:continuity-error-9-drama
 scdc:
-  - 1.1.1:13.2.3.4:04
+  - 1.1.1:13.2.3.4:05
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/5th-level-feature
 ---

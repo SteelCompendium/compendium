@@ -1,18 +1,18 @@
 ---
 class: conduit
-feature_type: trait
+feature_type: ability
 file_basename: Guided to Your Side
 file_dpath: Conduit/7th-Level Features
 item_id: guided-to-your-side
-item_index: '12'
+item_index: '01'
 item_name: Guided to Your Side
 level: 7
 scc:
-  - mcdm.heroes.v1:feature.trait.conduit.7th-level-feature:guided-to-your-side
+  - mcdm.heroes.v1:feature.ability.conduit.7th-level-feature:guided-to-your-side
 scdc:
-  - 1.1.1:13.1.8.9:12
+  - 1.1.1:13.2.8.8:01
 source: mcdm.heroes.v1
-type: feature/trait/conduit/7th-level-feature
+type: feature/ability/conduit/7th-level-feature
 ---
 
 ###### Guided to Your Side

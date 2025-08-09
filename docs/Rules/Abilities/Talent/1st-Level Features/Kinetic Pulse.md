@@ -1,18 +1,18 @@
 ---
 class: talent
-feature_type: trait
+feature_type: ability
 file_basename: Kinetic Pulse
 file_dpath: Talent/1st-Level Features
 item_id: kinetic-pulse
-item_index: '16'
+item_index: '14'
 item_name: Kinetic Pulse
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:kinetic-pulse
+  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:kinetic-pulse
 scdc:
-  - 1.1.1:13.1.1.1:16
+  - 1.1.1:13.2.1.1:14
 source: mcdm.heroes.v1
-type: feature/trait/talent/1st-level-feature
+type: feature/ability/talent/1st-level-feature
 ---
 
 ###### Kinetic Pulse

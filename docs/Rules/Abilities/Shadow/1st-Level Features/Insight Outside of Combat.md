@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Insight Outside of Combat
 file_dpath: Shadow/1st-Level Features
 item_id: insight-outside-of-combat
-item_index: '03'
+item_index: '01'
 item_name: Insight Outside of Combat
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:insight-outside-of-combat
 scdc:
-  - 1.1.1:13.1.2.1:03
+  - 1.1.1:13.1.2.1:01
 source: mcdm.heroes.v1
 type: feature/trait/shadow/1st-level-feature
 ---

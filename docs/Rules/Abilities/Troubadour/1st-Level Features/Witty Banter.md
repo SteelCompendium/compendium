@@ -1,18 +1,18 @@
 ---
 class: troubadour
-feature_type: trait
+feature_type: ability
 file_basename: Witty Banter
 file_dpath: Troubadour/1st-Level Features
 item_id: witty-banter
-item_index: '11'
+item_index: '14'
 item_name: Witty Banter
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:witty-banter
+  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:witty-banter
 scdc:
-  - 1.1.1:13.1.3.1:11
+  - 1.1.1:13.2.3.1:14
 source: mcdm.heroes.v1
-type: feature/trait/troubadour/1st-level-feature
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Witty Banter

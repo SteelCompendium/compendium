@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Rejuvenate
 file_dpath: Talent/8th-Level Features
 item_id: rejuvenate-11-clarity
-item_index: '05'
+item_index: '06'
 item_name: Rejuvenate (11 Clarity)
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:rejuvenate-11-clarity
 scdc:
-  - 1.1.1:13.2.1.2:05
+  - 1.1.1:13.2.1.2:06
 source: mcdm.heroes.v1
 type: feature/ability/talent/8th-level-feature
 ---

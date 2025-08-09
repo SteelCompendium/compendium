@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Hesitation Is Weakness
 file_dpath: Shadow/1st-Level Features
 item_id: hesitation-is-weakness-1-insight
-item_index: 08
+item_index: '15'
 item_name: Hesitation Is Weakness (1 Insight)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:hesitation-is-weakness-1-insight
 scdc:
-  - 1.1.1:13.2.2.1:08
+  - 1.1.1:13.2.2.1:15
 source: mcdm.heroes.v1
 type: feature/ability/shadow/1st-level-feature
 ---

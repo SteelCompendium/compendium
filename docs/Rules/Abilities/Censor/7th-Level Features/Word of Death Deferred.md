@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Word of Death Deferred
 file_dpath: Censor/7th-Level Features
 item_id: word-of-death-deferred
-item_index: '13'
+item_index: '12'
 item_name: Word of Death Deferred
 level: 7
 scc:
   - mcdm.heroes.v1:feature.trait.censor.7th-level-feature:word-of-death-deferred
 scdc:
-  - 1.1.1:13.1.7.9:13
+  - 1.1.1:13.1.7.9:12
 source: mcdm.heroes.v1
 type: feature/trait/censor/7th-level-feature
 ---

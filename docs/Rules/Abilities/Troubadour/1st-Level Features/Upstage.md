@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Upstage
 file_dpath: Troubadour/1st-Level Features
 item_id: upstage-3-drama
-item_index: '02'
+item_index: '04'
 item_name: Upstage (3 Drama)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:upstage-3-drama
 scdc:
-  - 1.1.1:13.2.3.1:02
+  - 1.1.1:13.2.3.1:04
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/1st-level-feature
 ---

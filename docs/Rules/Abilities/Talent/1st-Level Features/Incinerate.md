@@ -1,18 +1,18 @@
 ---
 class: talent
-feature_type: trait
+feature_type: ability
 file_basename: Incinerate
 file_dpath: Talent/1st-Level Features
 item_id: incinerate
-item_index: '11'
+item_index: 09
 item_name: Incinerate
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:incinerate
+  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:incinerate
 scdc:
-  - 1.1.1:13.1.1.1:11
+  - 1.1.1:13.2.1.1:09
 source: mcdm.heroes.v1
-type: feature/trait/talent/1st-level-feature
+type: feature/ability/talent/1st-level-feature
 ---
 
 ###### Incinerate

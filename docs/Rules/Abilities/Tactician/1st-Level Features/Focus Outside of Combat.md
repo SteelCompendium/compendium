@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Focus Outside of Combat
 file_dpath: Tactician/1st-Level Features
 item_id: focus-outside-of-combat
-item_index: '02'
+item_index: '01'
 item_name: Focus Outside of Combat
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:focus-outside-of-combat
 scdc:
-  - 1.1.1:13.1.4.1:02
+  - 1.1.1:13.1.4.1:01
 source: mcdm.heroes.v1
 type: feature/trait/tactician/1st-level-feature
 ---

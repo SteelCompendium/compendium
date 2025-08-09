@@ -1,18 +1,18 @@
 ---
 class: troubadour
-feature_type: trait
+feature_type: ability
 file_basename: Revitalizing Limerick
 file_dpath: Troubadour/1st-Level Features
 item_id: revitalizing-limerick
-item_index: '03'
+item_index: '06'
 item_name: Revitalizing Limerick
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:revitalizing-limerick
+  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:revitalizing-limerick
 scdc:
-  - 1.1.1:13.1.3.1:03
+  - 1.1.1:13.2.3.1:06
 source: mcdm.heroes.v1
-type: feature/trait/troubadour/1st-level-feature
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Revitalizing Limerick

@@ -1,6 +1,6 @@
 ---
 class: elementalist
-feature_type: trait
+feature_type: ability
 file_basename: Remember Growth and Sun and Rain
 file_dpath: Elementalist/3rd-Level Features
 item_id: remember-growth-and-sun-and-rain
@@ -8,11 +8,11 @@ item_index: '01'
 item_name: Remember Growth and Sun and Rain
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.trait.elementalist.3rd-level-feature:remember-growth-and-sun-and-rain
+  - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:remember-growth-and-sun-and-rain
 scdc:
-  - 1.1.1:13.1.9.7:01
+  - 1.1.1:13.2.9.6:01
 source: mcdm.heroes.v1
-type: feature/trait/elementalist/3rd-level-feature
+type: feature/ability/elementalist/3rd-level-feature
 ---
 
 ###### Remember Growth and Sun and Rain

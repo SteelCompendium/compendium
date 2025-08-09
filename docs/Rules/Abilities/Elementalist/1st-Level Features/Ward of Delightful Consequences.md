@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Ward of Delightful Consequences
 file_dpath: Elementalist/1st-Level Features
 item_id: ward-of-delightful-consequences
-item_index: '25'
+item_index: '13'
 item_name: Ward of Delightful Consequences
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:ward-of-delightful-consequences
 scdc:
-  - 1.1.1:13.1.9.1:25
+  - 1.1.1:13.1.9.1:13
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

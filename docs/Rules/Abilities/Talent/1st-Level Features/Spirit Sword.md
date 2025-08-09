@@ -1,18 +1,18 @@
 ---
 class: talent
-feature_type: trait
+feature_type: ability
 file_basename: Spirit Sword
 file_dpath: Talent/1st-Level Features
 item_id: spirit-sword
-item_index: 09
+item_index: '07'
 item_name: Spirit Sword
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:spirit-sword
+  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:spirit-sword
 scdc:
-  - 1.1.1:13.1.1.1:09
+  - 1.1.1:13.2.1.1:07
 source: mcdm.heroes.v1
-type: feature/trait/talent/1st-level-feature
+type: feature/ability/talent/1st-level-feature
 ---
 
 ###### Spirit Sword

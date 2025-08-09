@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Star Power
 file_dpath: Troubadour/1st-Level Features
 item_id: star-power-1-drama
-item_index: 09
+item_index: '21'
 item_name: Star Power (1 Drama)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:star-power-1-drama
 scdc:
-  - 1.1.1:13.2.3.1:09
+  - 1.1.1:13.2.3.1:21
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/1st-level-feature
 ---

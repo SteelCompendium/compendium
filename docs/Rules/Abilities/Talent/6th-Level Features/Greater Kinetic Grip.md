@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Greater Kinetic Grip
 file_dpath: Talent/6th-Level Features
 item_id: greater-kinetic-grip-9-clarity
-item_index: '03'
+item_index: '02'
 item_name: Greater Kinetic Grip (9 Clarity)
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.talent.6th-level-feature:greater-kinetic-grip-9-clarity
 scdc:
-  - 1.1.1:13.2.1.3:03
+  - 1.1.1:13.2.1.3:02
 source: mcdm.heroes.v1
 type: feature/ability/talent/6th-level-feature
 ---

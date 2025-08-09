@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Insight in Combat
 file_dpath: Shadow/1st-Level Features
 item_id: insight-in-combat
-item_index: '04'
+item_index: '02'
 item_name: Insight in Combat
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:insight-in-combat
 scdc:
-  - 1.1.1:13.1.2.1:04
+  - 1.1.1:13.1.2.1:02
 source: mcdm.heroes.v1
 type: feature/trait/shadow/1st-level-feature
 ---

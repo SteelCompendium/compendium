@@ -1,18 +1,18 @@
 ---
 class: conduit
-feature_type: trait
+feature_type: ability
 file_basename: Wither
 file_dpath: Conduit/1st-Level Features
 item_id: wither
-item_index: '15'
+item_index: 09
 item_name: Wither
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:wither
+  - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:wither
 scdc:
-  - 1.1.1:13.1.8.1:15
+  - 1.1.1:13.2.8.1:09
 source: mcdm.heroes.v1
-type: feature/trait/conduit/1st-level-feature
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Wither

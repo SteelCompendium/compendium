@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: One Hundred Throats
 file_dpath: Shadow/1st-Level Features
 item_id: one-hundred-throats-5-insight
-item_index: '02'
+item_index: '03'
 item_name: One Hundred Throats (5 Insight)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:one-hundred-throats-5-insight
 scdc:
-  - 1.1.1:13.2.2.1:02
+  - 1.1.1:13.2.2.1:03
 source: mcdm.heroes.v1
 type: feature/ability/shadow/1st-level-feature
 ---

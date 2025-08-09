@@ -1,18 +1,18 @@
 ---
 class: censor
-feature_type: trait
+feature_type: ability
 file_basename: Judgment
 file_dpath: Censor/1st-Level Features
 item_id: judgment
-item_index: '12'
+item_index: 09
 item_name: Judgment
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:judgment
+  - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:judgment
 scdc:
-  - 1.1.1:13.1.7.1:12
+  - 1.1.1:13.2.7.1:09
 source: mcdm.heroes.v1
-type: feature/trait/censor/1st-level-feature
+type: feature/ability/censor/1st-level-feature
 ---
 
 ###### Judgment

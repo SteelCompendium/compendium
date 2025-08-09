@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Doubt
 file_dpath: Talent/8th-Level Features
 item_id: doubt-11-clarity
-item_index: '04'
+item_index: '05'
 item_name: Doubt (11 Clarity)
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:doubt-11-clarity
 scdc:
-  - 1.1.1:13.2.1.2:04
+  - 1.1.1:13.2.1.2:05
 source: mcdm.heroes.v1
 type: feature/ability/talent/8th-level-feature
 ---

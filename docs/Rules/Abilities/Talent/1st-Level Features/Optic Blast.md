@@ -1,18 +1,18 @@
 ---
 class: talent
-feature_type: trait
+feature_type: ability
 file_basename: Optic Blast
 file_dpath: Talent/1st-Level Features
 item_id: optic-blast
-item_index: '19'
+item_index: '18'
 item_name: Optic Blast
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:optic-blast
+  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:optic-blast
 scdc:
-  - 1.1.1:13.1.1.1:19
+  - 1.1.1:13.2.1.1:18
 source: mcdm.heroes.v1
-type: feature/trait/talent/1st-level-feature
+type: feature/ability/talent/1st-level-feature
 ---
 
 ###### Optic Blast

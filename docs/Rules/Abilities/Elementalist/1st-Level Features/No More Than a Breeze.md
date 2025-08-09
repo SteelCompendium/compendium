@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: No More Than a Breeze
 file_dpath: Elementalist/1st-Level Features
 item_id: no-more-than-a-breeze-5-essence
-item_index: '01'
+item_index: '07'
 item_name: No More Than a Breeze (5 Essence)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:no-more-than-a-breeze-5-essence
 scdc:
-  - 1.1.1:13.2.9.1:01
+  - 1.1.1:13.2.9.1:07
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/1st-level-feature
 ---

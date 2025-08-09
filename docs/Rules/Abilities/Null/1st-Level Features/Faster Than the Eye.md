@@ -1,6 +1,6 @@
 ---
 class: 'null'
-feature_type: trait
+feature_type: ability
 file_basename: Faster Than the Eye
 file_dpath: Null/1st-Level Features
 item_id: faster-than-the-eye
@@ -8,11 +8,11 @@ item_index: '04'
 item_name: Faster Than the Eye
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.null.1st-level-feature:faster-than-the-eye
+  - mcdm.heroes.v1:feature.ability.null.1st-level-feature:faster-than-the-eye
 scdc:
-  - 1.1.1:13.1.6.1:04
+  - 1.1.1:13.2.6.1:04
 source: mcdm.heroes.v1
-type: feature/trait/null/1st-level-feature
+type: feature/ability/null/1st-level-feature
 ---
 
 ###### Faster Than the Eye

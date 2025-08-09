@@ -13,7 +13,7 @@ type: index
 | [Focused Wrath](../Focused%20Wrath)                                   |         | 7     | trait        |
 | [Font of Grace](../Font%20of%20Grace)                                 |         | 7     | trait        |
 | [Gods Library](../Gods%20Library)                                     |         | 7     | trait        |
-| [Guided to Your Side](../Guided%20to%20Your%20Side)                   |         | 7     | trait        |
+| [Guided to Your Side](../Guided%20to%20Your%20Side)                   |         | 7     | ability      |
 | [Light of the Burning Sun](../Light%20of%20the%20Burning%20Sun)       |         | 7     | trait        |
 | [Natures Bounty](../Natures%20Bounty)                                 |         | 7     | trait        |
 | [Ride the Lightning](../Ride%20the%20Lightning)                       |         | 7     | trait        |

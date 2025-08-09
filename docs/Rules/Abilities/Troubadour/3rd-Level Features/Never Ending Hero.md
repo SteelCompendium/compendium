@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Never Ending Hero
 file_dpath: Troubadour/3rd-Level Features
 item_id: never-ending-hero
-item_index: '04'
+item_index: '03'
 item_name: '"Never-Ending Hero"'
 level: 3
 scc:
   - mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:never-ending-hero
 scdc:
-  - 1.1.1:13.1.3.7:04
+  - 1.1.1:13.1.3.7:03
 source: mcdm.heroes.v1
 type: feature/trait/troubadour/3rd-level-feature
 ---

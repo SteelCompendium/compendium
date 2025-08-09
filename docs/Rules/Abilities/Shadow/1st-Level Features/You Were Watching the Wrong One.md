@@ -1,18 +1,18 @@
 ---
 class: shadow
-feature_type: trait
+feature_type: ability
 file_basename: You Were Watching the Wrong One
 file_dpath: Shadow/1st-Level Features
 item_id: you-were-watching-the-wrong-one
-item_index: '11'
+item_index: '14'
 item_name: You Were Watching the Wrong One
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:you-were-watching-the-wrong-one
+  - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:you-were-watching-the-wrong-one
 scdc:
-  - 1.1.1:13.1.2.1:11
+  - 1.1.1:13.2.2.1:14
 source: mcdm.heroes.v1
-type: feature/trait/shadow/1st-level-feature
+type: feature/ability/shadow/1st-level-feature
 ---
 
 ###### You Were Watching the Wrong One

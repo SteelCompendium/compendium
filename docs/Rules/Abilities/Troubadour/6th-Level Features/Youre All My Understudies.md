@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Youre All My Understudies
 file_dpath: Troubadour/6th-Level Features
 item_id: youre-all-my-understudies-9-drama
-item_index: '02'
+item_index: '03'
 item_name: You're All My Understudies (9 Drama)
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:youre-all-my-understudies-9-drama
 scdc:
-  - 1.1.1:13.2.3.3:02
+  - 1.1.1:13.2.3.3:03
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/6th-level-feature
 ---

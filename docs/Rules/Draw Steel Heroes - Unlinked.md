@@ -5389,7 +5389,7 @@ Choose one of the following abilities.
 
 *You reverse the effects from an evildoer.*
 
-| **Magic, Ranged** |      **Free Triggered** |
+| **Magic, Ranged** |      **Free triggered** |
 | ----------------- | ----------------------: |
 | **📏 Ranged 10**  | **🎯 Self or one ally** |
 
@@ -7874,7 +7874,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 5 + R damage; push 3
 - **17+:** 8 + R damage; push 4
 
-**<span class="steel-compendium-ability">Ry of Agonizing Self-Reflection</span>**
+**<span class="steel-compendium-ability">Ray of Agonizing Self-Reflection</span>**
 
 *You inflict pain and doubt in equal measure.*
 

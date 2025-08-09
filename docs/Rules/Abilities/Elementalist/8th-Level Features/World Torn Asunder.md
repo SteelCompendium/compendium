@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: World Torn Asunder
 file_dpath: Elementalist/8th-Level Features
 item_id: world-torn-asunder-11-essence
-item_index: '03'
+item_index: '04'
 item_name: World Torn Asunder (11 Essence)
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.8th-level-feature:world-torn-asunder-11-essence
 scdc:
-  - 1.1.1:13.2.9.2:03
+  - 1.1.1:13.2.9.2:04
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/8th-level-feature
 ---

@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Studied Commander
 file_dpath: Tactician/1st-Level Features
 item_id: studied-commander
-item_index: '12'
+item_index: '07'
 item_name: Studied Commander
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:studied-commander
 scdc:
-  - 1.1.1:13.1.4.1:12
+  - 1.1.1:13.1.4.1:07
 source: mcdm.heroes.v1
 type: feature/trait/tactician/1st-level-feature
 ---

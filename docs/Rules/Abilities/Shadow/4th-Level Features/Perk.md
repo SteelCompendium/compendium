@@ -10,7 +10,7 @@ level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.shadow.4th-level-feature:perk
 scdc:
-  - 1.1.1:13.1.2.10:01
+  - 1.1.1:13.1.2.9:01
 source: mcdm.heroes.v1
 type: feature/trait/shadow/4th-level-feature
 ---

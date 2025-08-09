@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Arrest
 file_dpath: Censor/1st-Level Features
 item_id: arrest-5-wrath
-item_index: '03'
+item_index: '06'
 item_name: Arrest (5 Wrath)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:arrest-5-wrath
 scdc:
-  - 1.1.1:13.2.7.1:03
+  - 1.1.1:13.2.7.1:06
 source: mcdm.heroes.v1
 type: feature/ability/censor/1st-level-feature
 ---

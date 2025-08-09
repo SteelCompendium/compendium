@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Trinity of Trickery
 file_dpath: Censor/7th-Level Features
 item_id: trinity-of-trickery-9-wrath
-item_index: '01'
+item_index: '02'
 item_name: Trinity of Trickery (9 Wrath)
 level: 7
 scc:
   - mcdm.heroes.v1:feature.ability.censor.7th-level-feature:trinity-of-trickery-9-wrath
 scdc:
-  - 1.1.1:13.2.7.8:01
+  - 1.1.1:13.2.7.8:02
 source: mcdm.heroes.v1
 type: feature/ability/censor/7th-level-feature
 ---

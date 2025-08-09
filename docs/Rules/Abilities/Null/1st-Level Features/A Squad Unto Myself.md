@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: A Squad Unto Myself
 file_dpath: Null/1st-Level Features
 item_id: a-squad-unto-myself-5-discipline
-item_index: 08
+item_index: '18'
 item_name: A Squad Unto Myself (5 Discipline)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:a-squad-unto-myself-5-discipline
 scdc:
-  - 1.1.1:13.2.6.1:08
+  - 1.1.1:13.2.6.1:18
 source: mcdm.heroes.v1
 type: feature/ability/null/1st-level-feature
 ---

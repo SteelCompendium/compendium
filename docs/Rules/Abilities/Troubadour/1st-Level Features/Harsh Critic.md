@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Harsh Critic
 file_dpath: Troubadour/1st-Level Features
 item_id: harsh-critic-3-drama
-item_index: 08
+item_index: '20'
 item_name: Harsh Critic (3 Drama)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:harsh-critic-3-drama
 scdc:
-  - 1.1.1:13.2.3.1:08
+  - 1.1.1:13.2.3.1:20
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/1st-level-feature
 ---

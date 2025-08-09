@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Instantaneous Excavation
 file_dpath: Elementalist/1st-Level Features
 item_id: instantaneous-excavation-5-essence
-item_index: '06'
+item_index: '20'
 item_name: Instantaneous Excavation (5 Essence)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:instantaneous-excavation-5-essence
 scdc:
-  - 1.1.1:13.2.9.1:06
+  - 1.1.1:13.2.9.1:20
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/1st-level-feature
 ---

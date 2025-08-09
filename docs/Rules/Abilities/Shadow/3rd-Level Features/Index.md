@@ -7,7 +7,7 @@ type: index
 
 | File Name                                       | Cost      | Level | Feature Type |
 | ----------------------------------------------- | --------- | ----- | ------------ |
-| [Careful Observation](../Careful%20Observation) |           | 3     | trait        |
+| [Careful Observation](../Careful%20Observation) |           | 3     | ability      |
 | [Dancer](../Dancer)                             | 7 Insight | 3     | ability      |
 | [Misdirecting Strike](../Misdirecting%20Strike) | 7 Insight | 3     | ability      |
 | [Pinning Shot](../Pinning%20Shot)               | 7 Insight | 3     | ability      |

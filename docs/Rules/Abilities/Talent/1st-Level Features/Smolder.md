@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Smolder
 file_dpath: Talent/1st-Level Features
 item_id: smolder-3-clarity
-item_index: '04'
+item_index: 08
 item_name: Smolder (3 Clarity)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:smolder-3-clarity
 scdc:
-  - 1.1.1:13.2.1.1:04
+  - 1.1.1:13.2.1.1:08
 source: mcdm.heroes.v1
 type: feature/ability/talent/1st-level-feature
 ---

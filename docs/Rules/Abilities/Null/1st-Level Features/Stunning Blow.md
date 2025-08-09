@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Stunning Blow
 file_dpath: Null/1st-Level Features
 item_id: stunning-blow-3-discipline
-item_index: '03'
+item_index: '07'
 item_name: Stunning Blow (3 Discipline)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:stunning-blow-3-discipline
 scdc:
-  - 1.1.1:13.2.6.1:03
+  - 1.1.1:13.2.6.1:07
 source: mcdm.heroes.v1
 type: feature/ability/null/1st-level-feature
 ---

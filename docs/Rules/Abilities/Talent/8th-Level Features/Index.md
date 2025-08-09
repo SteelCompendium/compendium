@@ -9,7 +9,7 @@ type: index
 | ------------------------------------------------- | ---------- | ----- | ------------ |
 | [Doubling the Hours](../Doubling%20the%20Hours)   |            | 8     | trait        |
 | [Doubt](../Doubt)                                 | 11 Clarity | 8     | ability      |
-| [Levitation Field](../Levitation%20Field)         |            | 8     | trait        |
+| [Levitation Field](../Levitation%20Field)         |            | 8     | ability      |
 | [Low Gravity](../Low%20Gravity)                   |            | 8     | trait        |
 | [Mindlink](../Mindlink)                           |            | 8     | trait        |
 | [Mindwipe](../Mindwipe)                           | 11 Clarity | 8     | ability      |

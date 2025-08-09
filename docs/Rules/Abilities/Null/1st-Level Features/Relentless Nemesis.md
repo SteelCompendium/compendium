@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Relentless Nemesis
 file_dpath: Null/1st-Level Features
 item_id: relentless-nemesis-3-discipline
-item_index: '02'
+item_index: '03'
 item_name: Relentless Nemesis (3 Discipline)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:relentless-nemesis-3-discipline
 scdc:
-  - 1.1.1:13.2.6.1:02
+  - 1.1.1:13.2.6.1:03
 source: mcdm.heroes.v1
 type: feature/ability/null/1st-level-feature
 ---

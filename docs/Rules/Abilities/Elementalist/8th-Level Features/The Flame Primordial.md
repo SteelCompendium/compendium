@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: The Flame Primordial
 file_dpath: Elementalist/8th-Level Features
 item_id: the-flame-primordial
-item_index: '06'
+item_index: '05'
 item_name: The Flame Primordial
 level: 8
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.8th-level-feature:the-flame-primordial
 scdc:
-  - 1.1.1:13.1.9.2:06
+  - 1.1.1:13.1.9.2:05
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/8th-level-feature
 ---

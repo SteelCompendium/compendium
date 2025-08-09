@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Conflagration
 file_dpath: Elementalist/1st-Level Features
 item_id: conflagration-5-essence
-item_index: 08
+item_index: '25'
 item_name: Conflagration (5 Essence)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:conflagration-5-essence
 scdc:
-  - 1.1.1:13.2.9.1:08
+  - 1.1.1:13.2.9.1:25
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/1st-level-feature
 ---

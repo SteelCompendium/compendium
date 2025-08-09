@@ -427,7 +427,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 5 + R damage; push 3
 - **17+:** 8 + R damage; push 4
 
-###### Ry of Agonizing Self-Reflection
+###### Ray of Agonizing Self-Reflection
 
 *You inflict pain and doubt in equal measure.*
 

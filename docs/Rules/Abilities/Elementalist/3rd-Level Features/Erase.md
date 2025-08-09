@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Erase
 file_dpath: Elementalist/3rd-Level Features
 item_id: erase-7-essence
-item_index: '04'
+item_index: '06'
 item_name: Erase (7 Essence)
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:erase-7-essence
 scdc:
-  - 1.1.1:13.2.9.6:04
+  - 1.1.1:13.2.9.6:06
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/3rd-level-feature
 ---

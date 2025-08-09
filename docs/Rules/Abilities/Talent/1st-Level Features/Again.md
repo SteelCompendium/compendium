@@ -1,18 +1,18 @@
 ---
 class: talent
-feature_type: trait
+feature_type: ability
 file_basename: Again
 file_dpath: Talent/1st-Level Features
 item_id: again
-item_index: '15'
+item_index: '13'
 item_name: Again
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:again
+  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:again
 scdc:
-  - 1.1.1:13.1.1.1:15
+  - 1.1.1:13.2.1.1:13
 source: mcdm.heroes.v1
-type: feature/trait/talent/1st-level-feature
+type: feature/ability/talent/1st-level-feature
 ---
 
 ###### Again

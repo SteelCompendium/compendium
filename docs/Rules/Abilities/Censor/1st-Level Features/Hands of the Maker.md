@@ -1,18 +1,18 @@
 ---
 class: censor
-feature_type: trait
+feature_type: ability
 file_basename: Hands of the Maker
 file_dpath: Censor/1st-Level Features
 item_id: hands-of-the-maker
-item_index: '13'
+item_index: '10'
 item_name: Hands of the Maker
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:hands-of-the-maker
+  - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:hands-of-the-maker
 scdc:
-  - 1.1.1:13.1.7.1:13
+  - 1.1.1:13.2.7.1:10
 source: mcdm.heroes.v1
-type: feature/trait/censor/1st-level-feature
+type: feature/ability/censor/1st-level-feature
 ---
 
 ###### Hands of the Maker

@@ -1,18 +1,18 @@
 ---
 class: elementalist
-feature_type: trait
+feature_type: ability
 file_basename: The Green Within the Green Without
 file_dpath: Elementalist/1st-Level Features
 item_id: the-green-within-the-green-without
-item_index: '19'
+item_index: '13'
 item_name: The Green Within, the Green Without
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:the-green-within-the-green-without
+  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:the-green-within-the-green-without
 scdc:
-  - 1.1.1:13.1.9.1:19
+  - 1.1.1:13.2.9.1:13
 source: mcdm.heroes.v1
-type: feature/trait/elementalist/1st-level-feature
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### The Green Within, the Green Without

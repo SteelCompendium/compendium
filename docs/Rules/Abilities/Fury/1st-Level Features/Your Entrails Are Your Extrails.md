@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Your Entrails Are Your Extrails
 file_dpath: Fury/1st-Level Features
 item_id: your-entrails-are-your-extrails-3-ferocity
-item_index: '01'
+item_index: '03'
 item_name: Your Entrails Are Your Extrails! (3 Ferocity)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:your-entrails-are-your-extrails-3-ferocity
 scdc:
-  - 1.1.1:13.2.5.1:01
+  - 1.1.1:13.2.5.1:03
 source: mcdm.heroes.v1
 type: feature/ability/fury/1st-level-feature
 ---

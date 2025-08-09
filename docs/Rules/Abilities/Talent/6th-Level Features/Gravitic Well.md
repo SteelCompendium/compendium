@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Gravitic Well
 file_dpath: Talent/6th-Level Features
 item_id: gravitic-well-9-clarity
-item_index: '07'
+item_index: '03'
 item_name: Gravitic Well (9 Clarity)
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.talent.6th-level-feature:gravitic-well-9-clarity
 scdc:
-  - 1.1.1:13.2.1.3:07
+  - 1.1.1:13.2.1.3:03
 source: mcdm.heroes.v1
 type: feature/ability/talent/6th-level-feature
 ---

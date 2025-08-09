@@ -17,14 +17,14 @@ type: index
 | [Back](../1st-Level%20Features/Back)                                                                   | 3 Ferocity  | 1     | ability      |
 | [Beast Shape](../1st-Level%20Features/Beast%20Shape)                                                   |             | 1     | trait        |
 | [Blood for Blood](../1st-Level%20Features/Blood%20for%20Blood)                                         | 5 Ferocity  | 1     | ability      |
-| [Brutal Slam](../1st-Level%20Features/Brutal%20Slam)                                                   |             | 1     | trait        |
+| [Brutal Slam](../1st-Level%20Features/Brutal%20Slam)                                                   |             | 1     | ability      |
 | [Ferocity in Combat](../1st-Level%20Features/Ferocity%20in%20Combat)                                   |             | 1     | trait        |
 | [Ferocity Outside of Combat](../1st-Level%20Features/Ferocity%20Outside%20of%20Combat)                 |             | 1     | trait        |
-| [Furious Change](../1st-Level%20Features/Furious%20Change)                                             |             | 1     | trait        |
-| [Hit and Run](../1st-Level%20Features/Hit%20and%20Run)                                                 |             | 1     | trait        |
-| [Impaled](../1st-Level%20Features/Impaled)                                                             |             | 1     | trait        |
+| [Furious Change](../1st-Level%20Features/Furious%20Change)                                             |             | 1     | ability      |
+| [Hit and Run](../1st-Level%20Features/Hit%20and%20Run)                                                 |             | 1     | ability      |
+| [Impaled](../1st-Level%20Features/Impaled)                                                             |             | 1     | ability      |
 | [Kit](../1st-Level%20Features/Kit)                                                                     |             | 1     | trait        |
-| [Lines of Force](../1st-Level%20Features/Lines%20of%20Force)                                           |             | 1     | trait        |
+| [Lines of Force](../1st-Level%20Features/Lines%20of%20Force)                                           |             | 1     | ability      |
 | [Make Peace With Your God](../1st-Level%20Features/Make%20Peace%20With%20Your%20God)                   | 5 Ferocity  | 1     | ability      |
 | [Mighty Leaps](../1st-Level%20Features/Mighty%20Leaps)                                                 |             | 1     | trait        |
 | [Out of the Way](../1st-Level%20Features/Out%20of%20the%20Way)                                         | 3 Ferocity  | 1     | ability      |
@@ -34,9 +34,9 @@ type: index
 | [Relentless Hunter](../1st-Level%20Features/Relentless%20Hunter)                                       |             | 1     | trait        |
 | [Thunder Roar](../1st-Level%20Features/Thunder%20Roar)                                                 | 5 Ferocity  | 1     | ability      |
 | [Tide of Death](../1st-Level%20Features/Tide%20of%20Death)                                             | 3 Ferocity  | 1     | ability      |
-| [To the Death](../1st-Level%20Features/To%20the%20Death)                                               |             | 1     | trait        |
+| [To the Death](../1st-Level%20Features/To%20the%20Death)                                               |             | 1     | ability      |
 | [To the Uttermost End](../1st-Level%20Features/To%20the%20Uttermost%20End)                             | 5 Ferocity  | 1     | ability      |
-| [Unearthly Reflexes](../1st-Level%20Features/Unearthly%20Reflexes)                                     |             | 1     | trait        |
+| [Unearthly Reflexes](../1st-Level%20Features/Unearthly%20Reflexes)                                     |             | 1     | ability      |
 | [Your Entrails Are Your Extrails](../1st-Level%20Features/Your%20Entrails%20Are%20Your%20Extrails)     | 3 Ferocity  | 1     | ability      |
 | [Inescapable Wrath](../2nd-Level%20Features/Inescapable%20Wrath)                                       |             | 2     | trait        |
 | [Perk](../2nd-Level%20Features/Perk)                                                                   |             | 2     | trait        |

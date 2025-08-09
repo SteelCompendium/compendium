@@ -1,18 +1,18 @@
 ---
 class: shadow
-feature_type: trait
+feature_type: ability
 file_basename: Time Bomb
 file_dpath: Shadow/8th-Level Features
 item_id: time-bomb
-item_index: '02'
+item_index: '01'
 item_name: Time Bomb
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.trait.shadow.8th-level-feature:time-bomb
+  - mcdm.heroes.v1:feature.ability.shadow.8th-level-feature:time-bomb
 scdc:
-  - 1.1.1:13.1.2.2:02
+  - 1.1.1:13.2.2.2:01
 source: mcdm.heroes.v1
-type: feature/trait/shadow/8th-level-feature
+type: feature/ability/shadow/8th-level-feature
 ---
 
 ###### Time Bomb

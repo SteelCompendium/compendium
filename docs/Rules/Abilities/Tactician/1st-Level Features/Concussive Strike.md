@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Concussive Strike
 file_dpath: Tactician/1st-Level Features
 item_id: concussive-strike-3-focus
-item_index: '07'
+item_index: '10'
 item_name: Concussive Strike (3 Focus)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:concussive-strike-3-focus
 scdc:
-  - 1.1.1:13.2.4.1:07
+  - 1.1.1:13.2.4.1:10
 source: mcdm.heroes.v1
 type: feature/ability/tactician/1st-level-feature
 ---

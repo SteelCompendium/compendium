@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Legendary Drum Fill
 file_dpath: Troubadour/6th-Level Features
 item_id: legendary-drum-fill-9-drama
-item_index: '03'
+item_index: '04'
 item_name: Legendary Drum Fill (9 Drama)
 level: 6
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.6th-level-feature:legendary-drum-fill-9-drama
 scdc:
-  - 1.1.1:13.2.3.3:03
+  - 1.1.1:13.2.3.3:04
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/6th-level-feature
 ---

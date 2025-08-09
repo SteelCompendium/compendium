@@ -1,18 +1,18 @@
 ---
 class: censor
-feature_type: trait
+feature_type: ability
 file_basename: Blessing of Secrets
 file_dpath: Censor/4th-Level Features
 item_id: blessing-of-secrets
-item_index: '12'
+item_index: '01'
 item_name: Blessing of Secrets
 level: 4
 scc:
-  - mcdm.heroes.v1:feature.trait.censor.4th-level-feature:blessing-of-secrets
+  - mcdm.heroes.v1:feature.ability.censor.4th-level-feature:blessing-of-secrets
 scdc:
-  - 1.1.1:13.1.7.10:12
+  - 1.1.1:13.2.7.9:01
 source: mcdm.heroes.v1
-type: feature/trait/censor/4th-level-feature
+type: feature/ability/censor/4th-level-feature
 ---
 
 ###### Blessing of Secrets

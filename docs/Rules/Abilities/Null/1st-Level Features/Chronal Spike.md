@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Chronal Spike
 file_dpath: Null/1st-Level Features
 item_id: chronal-spike-3-discipline
-item_index: '04'
+item_index: '12'
 item_name: Chronal Spike (3 Discipline)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:chronal-spike-3-discipline
 scdc:
-  - 1.1.1:13.2.6.1:04
+  - 1.1.1:13.2.6.1:12
 source: mcdm.heroes.v1
 type: feature/ability/null/1st-level-feature
 ---

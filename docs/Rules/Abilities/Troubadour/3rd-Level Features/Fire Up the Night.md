@@ -1,18 +1,18 @@
 ---
 class: troubadour
-feature_type: trait
+feature_type: ability
 file_basename: Fire Up the Night
 file_dpath: Troubadour/3rd-Level Features
 item_id: fire-up-the-night
-item_index: '01'
+item_index: '02'
 item_name: '"Fire Up the Night"'
 level: 3
 scc:
-  - mcdm.heroes.v1:feature.trait.troubadour.3rd-level-feature:fire-up-the-night
+  - mcdm.heroes.v1:feature.ability.troubadour.3rd-level-feature:fire-up-the-night
 scdc:
-  - 1.1.1:13.1.3.7:01
+  - 1.1.1:13.2.3.6:02
 source: mcdm.heroes.v1
-type: feature/trait/troubadour/3rd-level-feature
+type: feature/ability/troubadour/3rd-level-feature
 ---
 
 ###### "Fire Up the Night"

@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Sermon of Grace
 file_dpath: Conduit/1st-Level Features
 item_id: sermon-of-grace-5-piety
-item_index: 08
+item_index: '20'
 item_name: Sermon of Grace (5 Piety)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:sermon-of-grace-5-piety
 scdc:
-  - 1.1.1:13.2.8.1:08
+  - 1.1.1:13.2.8.1:20
 source: mcdm.heroes.v1
 type: feature/ability/conduit/1st-level-feature
 ---

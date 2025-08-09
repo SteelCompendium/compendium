@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: The Show Must Go On
 file_dpath: Troubadour/8th-Level Features
 item_id: the-show-must-go-on-11-drama
-item_index: '02'
+item_index: '04'
 item_name: The Show Must Go On (11 Drama)
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:the-show-must-go-on-11-drama
 scdc:
-  - 1.1.1:13.2.3.2:02
+  - 1.1.1:13.2.3.2:04
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/8th-level-feature
 ---

@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Squad Forward
 file_dpath: Tactician/1st-Level Features
 item_id: squad-forward-3-focus
-item_index: '02'
+item_index: '03'
 item_name: Squad! Forward! (3 Focus)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:squad-forward-3-focus
 scdc:
-  - 1.1.1:13.2.4.1:02
+  - 1.1.1:13.2.4.1:03
 source: mcdm.heroes.v1
 type: feature/ability/tactician/1st-level-feature
 ---

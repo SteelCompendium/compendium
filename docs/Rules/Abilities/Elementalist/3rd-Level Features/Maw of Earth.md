@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Maw of Earth
 file_dpath: Elementalist/3rd-Level Features
 item_id: maw-of-earth-7-essence
-item_index: '02'
+item_index: '03'
 item_name: Maw of Earth (7 Essence)
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:maw-of-earth-7-essence
 scdc:
-  - 1.1.1:13.2.9.6:02
+  - 1.1.1:13.2.9.6:03
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/3rd-level-feature
 ---

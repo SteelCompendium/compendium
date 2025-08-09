@@ -14,7 +14,7 @@ type: index
 | [Perk](../10th-Level%20Features/Perk)                                                                    |          | 10    | trait        |
 | [Skill](../10th-Level%20Features/Skill)                                                                  |          | 10    | trait        |
 | [Bastion Ward](../1st-Level%20Features/Bastion%20Ward)                                                   |          | 1     | trait        |
-| [Blessed Light](../1st-Level%20Features/Blessed%20Light)                                                 |          | 1     | trait        |
+| [Blessed Light](../1st-Level%20Features/Blessed%20Light)                                                 |          | 1     | ability      |
 | [Blessing of Compassion](../1st-Level%20Features/Blessing%20of%20Compassion)                             |          | 1     | trait        |
 | [Blessing of Comprehension](../1st-Level%20Features/Blessing%20of%20Comprehension)                       |          | 1     | trait        |
 | [Blessing of Fortunate Weather](../1st-Level%20Features/Blessing%20of%20Fortunate%20Weather)             |          | 1     | trait        |
@@ -24,21 +24,21 @@ type: index
 | [Curse of Terror](../1st-Level%20Features/Curse%20of%20Terror)                                           | 5 Piety  | 1     | ability      |
 | [Death Domain Piety and Effect](../1st-Level%20Features/Death%20Domain%20Piety%20and%20Effect)           |          | 1     | trait        |
 | [Deity and Domains](../1st-Level%20Features/Deity%20and%20Domains)                                       |          | 1     | trait        |
-| [Drain](../1st-Level%20Features/Drain)                                                                   |          | 1     | trait        |
+| [Drain](../1st-Level%20Features/Drain)                                                                   |          | 1     | ability      |
 | [Faithful Friend](../1st-Level%20Features/Faithful%20Friend)                                             |          | 1     | trait        |
 | [Faith Is Our Armor](../1st-Level%20Features/Faith%20Is%20Our%20Armor)                                   | 5 Piety  | 1     | ability      |
 | [Fate Domain Piety and Effect](../1st-Level%20Features/Fate%20Domain%20Piety%20and%20Effect)             |          | 1     | trait        |
 | [Font of Wrath](../1st-Level%20Features/Font%20of%20Wrath)                                               | 3 Piety  | 1     | ability      |
 | [Grave Speech](../1st-Level%20Features/Grave%20Speech)                                                   |          | 1     | trait        |
 | [Hands of the Maker](../1st-Level%20Features/Hands%20of%20the%20Maker)                                   |          | 1     | trait        |
-| [Healing Grace](../1st-Level%20Features/Healing%20Grace)                                                 |          | 1     | trait        |
-| [Holy Lash](../1st-Level%20Features/Holy%20Lash)                                                         |          | 1     | trait        |
+| [Healing Grace](../1st-Level%20Features/Healing%20Grace)                                                 |          | 1     | ability      |
+| [Holy Lash](../1st-Level%20Features/Holy%20Lash)                                                         |          | 1     | ability      |
 | [Inner Light](../1st-Level%20Features/Inner%20Light)                                                     |          | 1     | trait        |
 | [Inspired Deception](../1st-Level%20Features/Inspired%20Deception)                                       |          | 1     | trait        |
 | [Judgments Hammer](../1st-Level%20Features/Judgments%20Hammer)                                           | 3 Piety  | 1     | ability      |
 | [Knowledge Domain Piety and Effect](../1st-Level%20Features/Knowledge%20Domain%20Piety%20and%20Effect)   |          | 1     | trait        |
 | [Life Domain Piety and Effect](../1st-Level%20Features/Life%20Domain%20Piety%20and%20Effect)             |          | 1     | trait        |
-| [Lightfall](../1st-Level%20Features/Lightfall)                                                           |          | 1     | trait        |
+| [Lightfall](../1st-Level%20Features/Lightfall)                                                           |          | 1     | ability      |
 | [Love Domain Piety and Effect](../1st-Level%20Features/Love%20Domain%20Piety%20and%20Effect)             |          | 1     | trait        |
 | [Nature Domain Piety and Effect](../1st-Level%20Features/Nature%20Domain%20Piety%20and%20Effect)         |          | 1     | trait        |
 | [Oracular Visions](../1st-Level%20Features/Oracular%20Visions)                                           |          | 1     | trait        |
@@ -51,23 +51,23 @@ type: index
 | [Protection Domain Piety and Effect](../1st-Level%20Features/Protection%20Domain%20Piety%20and%20Effect) |          | 1     | trait        |
 | [Protective Circle](../1st-Level%20Features/Protective%20Circle)                                         |          | 1     | trait        |
 | [Quickness Ward](../1st-Level%20Features/Quickness%20Ward)                                               |          | 1     | trait        |
-| [Ray of Wrath](../1st-Level%20Features/Ray%20of%20Wrath)                                                 |          | 1     | trait        |
+| [Ray of Wrath](../1st-Level%20Features/Ray%20of%20Wrath)                                                 |          | 1     | ability      |
 | [Revitalizing Ritual](../1st-Level%20Features/Revitalizing%20Ritual)                                     |          | 1     | trait        |
-| [Sacrificial Offer](../1st-Level%20Features/Sacrificial%20Offer)                                         |          | 1     | trait        |
+| [Sacrificial Offer](../1st-Level%20Features/Sacrificial%20Offer)                                         |          | 1     | ability      |
 | [Sanctified Weapon](../1st-Level%20Features/Sanctified%20Weapon)                                         |          | 1     | trait        |
 | [Sanctuary Ward](../1st-Level%20Features/Sanctuary%20Ward)                                               |          | 1     | trait        |
 | [Sermon of Grace](../1st-Level%20Features/Sermon%20of%20Grace)                                           | 5 Piety  | 1     | ability      |
 | [Spirit Ward](../1st-Level%20Features/Spirit%20Ward)                                                     |          | 1     | trait        |
-| [Staggering Curse](../1st-Level%20Features/Staggering%20Curse)                                           |          | 1     | trait        |
+| [Staggering Curse](../1st-Level%20Features/Staggering%20Curse)                                           |          | 1     | ability      |
 | [Storm Domain Piety and Effect](../1st-Level%20Features/Storm%20Domain%20Piety%20and%20Effect)           |          | 1     | trait        |
 | [Sun Domain Piety and Effect](../1st-Level%20Features/Sun%20Domain%20Piety%20and%20Effect)               |          | 1     | trait        |
 | [Trickery Domain Piety and Effect](../1st-Level%20Features/Trickery%20Domain%20Piety%20and%20Effect)     |          | 1     | trait        |
 | [Violence Will Not Aid Thee](../1st-Level%20Features/Violence%20Will%20Not%20Aid%20Thee)                 | 3 Piety  | 1     | ability      |
 | [War Domain Piety and Effect](../1st-Level%20Features/War%20Domain%20Piety%20and%20Effect)               |          | 1     | trait        |
-| [Warriors Prayer](../1st-Level%20Features/Warriors%20Prayer)                                             |          | 1     | trait        |
-| [Wither](../1st-Level%20Features/Wither)                                                                 |          | 1     | trait        |
-| [Word of Guidance](../1st-Level%20Features/Word%20of%20Guidance)                                         |          | 1     | trait        |
-| [Word of Judgment](../1st-Level%20Features/Word%20of%20Judgment)                                         |          | 1     | trait        |
+| [Warriors Prayer](../1st-Level%20Features/Warriors%20Prayer)                                             |          | 1     | ability      |
+| [Wither](../1st-Level%20Features/Wither)                                                                 |          | 1     | ability      |
+| [Word of Guidance](../1st-Level%20Features/Word%20of%20Guidance)                                         |          | 1     | ability      |
+| [Word of Judgment](../1st-Level%20Features/Word%20of%20Judgment)                                         |          | 1     | ability      |
 | [2nd Level Domain Feature](../2nd-Level%20Features/2nd%20Level%20Domain%20Feature)                       |          | 2     | trait        |
 | [Blessing of Fate and Destiny](../2nd-Level%20Features/Blessing%20of%20Fate%20and%20Destiny)             | 5 Piety  | 2     | ability      |
 | [Blessing of Insight](../2nd-Level%20Features/Blessing%20of%20Insight)                                   | 5 Piety  | 2     | ability      |
@@ -129,7 +129,7 @@ type: index
 | [Faithfuls Reward](../7th-Level%20Features/Faithfuls%20Reward)                                           |          | 7     | trait        |
 | [Font of Grace](../7th-Level%20Features/Font%20of%20Grace)                                               |          | 7     | trait        |
 | [Gods Library](../7th-Level%20Features/Gods%20Library)                                                   |          | 7     | trait        |
-| [Guided to Your Side](../7th-Level%20Features/Guided%20to%20Your%20Side)                                 |          | 7     | trait        |
+| [Guided to Your Side](../7th-Level%20Features/Guided%20to%20Your%20Side)                                 |          | 7     | ability      |
 | [Light of the Burning Sun](../7th-Level%20Features/Light%20of%20the%20Burning%20Sun)                     |          | 7     | trait        |
 | [Natures Bounty](../7th-Level%20Features/Natures%20Bounty)                                               |          | 7     | trait        |
 | [Skill](../7th-Level%20Features/Skill)                                                                   |          | 7     | trait        |

@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Out of the Way
 file_dpath: Fury/1st-Level Features
 item_id: out-of-the-way-3-ferocity
-item_index: '02'
+item_index: '04'
 item_name: Out of the Way! (3 Ferocity)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:out-of-the-way-3-ferocity
 scdc:
-  - 1.1.1:13.2.5.1:02
+  - 1.1.1:13.2.5.1:04
 source: mcdm.heroes.v1
 type: feature/ability/fury/1st-level-feature
 ---

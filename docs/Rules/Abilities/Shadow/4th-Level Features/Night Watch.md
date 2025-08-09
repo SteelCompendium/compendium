@@ -1,18 +1,18 @@
 ---
 class: shadow
-feature_type: trait
+feature_type: ability
 file_basename: Night Watch
 file_dpath: Shadow/4th-Level Features
 item_id: night-watch
-item_index: '06'
+item_index: '01'
 item_name: Night Watch
 level: 4
 scc:
-  - mcdm.heroes.v1:feature.trait.shadow.4th-level-feature:night-watch
+  - mcdm.heroes.v1:feature.ability.shadow.4th-level-feature:night-watch
 scdc:
-  - 1.1.1:13.1.2.10:06
+  - 1.1.1:13.2.2.8:01
 source: mcdm.heroes.v1
-type: feature/trait/shadow/4th-level-feature
+type: feature/ability/shadow/4th-level-feature
 ---
 
 ###### Night Watch

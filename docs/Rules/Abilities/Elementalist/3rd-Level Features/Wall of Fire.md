@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Wall of Fire
 file_dpath: Elementalist/3rd-Level Features
 item_id: wall-of-fire-7-essence
-item_index: '01'
+item_index: '02'
 item_name: Wall of Fire (7 Essence)
 level: 3
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.3rd-level-feature:wall-of-fire-7-essence
 scdc:
-  - 1.1.1:13.2.9.6:01
+  - 1.1.1:13.2.9.6:02
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/3rd-level-feature
 ---

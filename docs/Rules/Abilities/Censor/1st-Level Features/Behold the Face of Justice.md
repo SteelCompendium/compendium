@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Behold the Face of Justice
 file_dpath: Censor/1st-Level Features
 item_id: behold-the-face-of-justice-5-wrath
-item_index: '01'
+item_index: '03'
 item_name: Behold the Face of Justice! (5 Wrath)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:behold-the-face-of-justice-5-wrath
 scdc:
-  - 1.1.1:13.2.7.1:01
+  - 1.1.1:13.2.7.1:03
 source: mcdm.heroes.v1
 type: feature/ability/censor/1st-level-feature
 ---

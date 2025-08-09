@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Method Acting
 file_dpath: Troubadour/1st-Level Features
 item_id: method-acting-5-drama
-item_index: '07'
+item_index: '16'
 item_name: Method Acting (5 Drama)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:method-acting-5-drama
 scdc:
-  - 1.1.1:13.2.3.1:07
+  - 1.1.1:13.2.3.1:16
 source: mcdm.heroes.v1
 type: feature/ability/troubadour/1st-level-feature
 ---

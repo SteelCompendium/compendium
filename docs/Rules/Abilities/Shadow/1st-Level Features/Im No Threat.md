@@ -1,18 +1,18 @@
 ---
 class: shadow
-feature_type: trait
+feature_type: ability
 file_basename: Im No Threat
 file_dpath: Shadow/1st-Level Features
 item_id: im-no-threat
-item_index: '12'
+item_index: '17'
 item_name: I'm No Threat
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:im-no-threat
+  - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:im-no-threat
 scdc:
-  - 1.1.1:13.1.2.1:12
+  - 1.1.1:13.2.2.1:17
 source: mcdm.heroes.v1
-type: feature/trait/shadow/1st-level-feature
+type: feature/ability/shadow/1st-level-feature
 ---
 
 ###### I'm No Threat

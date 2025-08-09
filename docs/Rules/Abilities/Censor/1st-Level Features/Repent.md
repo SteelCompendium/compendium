@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Repent
 file_dpath: Censor/1st-Level Features
 item_id: repent-3-wrath
-item_index: '02'
+item_index: '05'
 item_name: Repent! (3 Wrath)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:repent-3-wrath
 scdc:
-  - 1.1.1:13.2.7.1:02
+  - 1.1.1:13.2.7.1:05
 source: mcdm.heroes.v1
 type: feature/ability/censor/1st-level-feature
 ---

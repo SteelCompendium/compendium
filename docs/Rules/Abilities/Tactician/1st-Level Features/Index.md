@@ -7,7 +7,7 @@ type: index
 
 | File Name                                                               | Cost    | Level | Feature Type |
 | ----------------------------------------------------------------------- | ------- | ----- | ------------ |
-| [Advanced Tactics](../Advanced%20Tactics)                               |         | 1     | trait        |
+| [Advanced Tactics](../Advanced%20Tactics)                               |         | 1     | ability      |
 | [Battle Cry](../Battle%20Cry)                                           | 3 Focus | 1     | ability      |
 | [Commanding Presence](../Commanding%20Presence)                         |         | 1     | trait        |
 | [Concussive Strike](../Concussive%20Strike)                             | 3 Focus | 1     | ability      |
@@ -18,13 +18,13 @@ type: index
 | [Hammer and Anvil](../Hammer%20and%20Anvil)                             | 5 Focus | 1     | ability      |
 | [Inspiring Strike](../Inspiring%20Strike)                               | 3 Focus | 1     | ability      |
 | [Kit Signature Ability](../Kit%20Signature%20Ability)                   |         | 1     | trait        |
-| [Mark](../Mark)                                                         |         | 1     | trait        |
+| [Mark](../Mark)                                                         |         | 1     | ability      |
 | [Mind Game](../Mind%20Game)                                             | 5 Focus | 1     | ability      |
 | [Now](../Now)                                                           | 5 Focus | 1     | ability      |
-| [Overwatch](../Overwatch)                                               |         | 1     | trait        |
-| [Parry](../Parry)                                                       |         | 1     | trait        |
+| [Overwatch](../Overwatch)                                               |         | 1     | ability      |
+| [Parry](../Parry)                                                       |         | 1     | ability      |
 | [Squad Forward](../Squad%20Forward)                                     | 3 Focus | 1     | ability      |
-| [Strike Now](../Strike%20Now)                                           |         | 1     | trait        |
+| [Strike Now](../Strike%20Now)                                           |         | 1     | ability      |
 | [Studied Commander](../Studied%20Commander)                             |         | 1     | trait        |
 | [Tactical Doctrine](../Tactical%20Doctrine)                             |         | 1     | trait        |
 | [This Is What We Planned For](../This%20Is%20What%20We%20Planned%20For) | 5 Focus | 1     | ability      |

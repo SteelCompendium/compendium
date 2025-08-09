@@ -1,18 +1,18 @@
 ---
 class: troubadour
-feature_type: trait
+feature_type: ability
 file_basename: Turnabout Is Fair Play
 file_dpath: Troubadour/1st-Level Features
 item_id: turnabout-is-fair-play
-item_index: '17'
+item_index: '19'
 item_name: Turnabout Is Fair Play
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:turnabout-is-fair-play
+  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:turnabout-is-fair-play
 scdc:
-  - 1.1.1:13.1.3.1:17
+  - 1.1.1:13.2.3.1:19
 source: mcdm.heroes.v1
-type: feature/trait/troubadour/1st-level-feature
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Turnabout Is Fair Play

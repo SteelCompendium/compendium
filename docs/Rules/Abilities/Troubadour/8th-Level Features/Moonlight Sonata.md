@@ -1,18 +1,18 @@
 ---
 class: troubadour
-feature_type: trait
+feature_type: ability
 file_basename: Moonlight Sonata
 file_dpath: Troubadour/8th-Level Features
 item_id: moonlight-sonata
-item_index: '04'
+item_index: '03'
 item_name: Moonlight Sonata
 level: 8
 scc:
-  - mcdm.heroes.v1:feature.trait.troubadour.8th-level-feature:moonlight-sonata
+  - mcdm.heroes.v1:feature.ability.troubadour.8th-level-feature:moonlight-sonata
 scdc:
-  - 1.1.1:13.1.3.2:04
+  - 1.1.1:13.2.3.2:03
 source: mcdm.heroes.v1
-type: feature/trait/troubadour/8th-level-feature
+type: feature/ability/troubadour/8th-level-feature
 ---
 
 ###### Moonlight Sonata

@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Test of Rain
 file_dpath: Elementalist/1st-Level Features
 item_id: test-of-rain-5-essence
-item_index: '03'
+item_index: '15'
 item_name: Test of Rain (5 Essence)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:test-of-rain-5-essence
 scdc:
-  - 1.1.1:13.2.9.1:03
+  - 1.1.1:13.2.9.1:15
 source: mcdm.heroes.v1
 type: feature/ability/elementalist/1st-level-feature
 ---

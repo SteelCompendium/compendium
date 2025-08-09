@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Back
 file_dpath: Fury/1st-Level Features
 item_id: back-3-ferocity
-item_index: '06'
+item_index: '12'
 item_name: Back! (3 Ferocity)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:back-3-ferocity
 scdc:
-  - 1.1.1:13.2.5.1:06
+  - 1.1.1:13.2.5.1:12
 source: mcdm.heroes.v1
 type: feature/ability/fury/1st-level-feature
 ---

@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: It Is the Soul Which Hears
 file_dpath: Elementalist/1st-Level Features
 item_id: it-is-the-soul-which-hears
-item_index: '12'
+item_index: '06'
 item_name: It Is the Soul Which Hears
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:it-is-the-soul-which-hears
 scdc:
-  - 1.1.1:13.1.9.1:12
+  - 1.1.1:13.1.9.1:06
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

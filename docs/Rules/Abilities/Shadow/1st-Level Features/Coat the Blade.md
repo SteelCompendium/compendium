@@ -1,18 +1,18 @@
 ---
 class: shadow
-feature_type: trait
+feature_type: ability
 file_basename: Coat the Blade
 file_dpath: Shadow/1st-Level Features
 item_id: coat-the-blade
-item_index: 08
+item_index: '11'
 item_name: Coat the Blade
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:coat-the-blade
+  - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:coat-the-blade
 scdc:
-  - 1.1.1:13.1.2.1:08
+  - 1.1.1:13.2.2.1:11
 source: mcdm.heroes.v1
-type: feature/trait/shadow/1st-level-feature
+type: feature/ability/shadow/1st-level-feature
 ---
 
 ###### Coat the Blade

@@ -1,18 +1,18 @@
 ---
 class: fury
-feature_type: trait
+feature_type: ability
 file_basename: Lines of Force
 file_dpath: Fury/1st-Level Features
 item_id: lines-of-force
-item_index: '14'
+item_index: '11'
 item_name: Lines of Force
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.fury.1st-level-feature:lines-of-force
+  - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:lines-of-force
 scdc:
-  - 1.1.1:13.1.5.1:14
+  - 1.1.1:13.2.5.1:11
 source: mcdm.heroes.v1
-type: feature/trait/fury/1st-level-feature
+type: feature/ability/fury/1st-level-feature
 ---
 
 ###### Lines of Force

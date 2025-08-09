@@ -13,7 +13,7 @@ type: index
 | [Skill](../10th-Level%20Features/Skill)                                                                          |          | 10    | trait        |
 | [True Focus](../10th-Level%20Features/True%20Focus)                                                              |          | 10    | trait        |
 | [Warmaster](../10th-Level%20Features/Warmaster)                                                                  |          | 10    | trait        |
-| [Advanced Tactics](../1st-Level%20Features/Advanced%20Tactics)                                                   |          | 1     | trait        |
+| [Advanced Tactics](../1st-Level%20Features/Advanced%20Tactics)                                                   |          | 1     | ability      |
 | [Battle Cry](../1st-Level%20Features/Battle%20Cry)                                                               | 3 Focus  | 1     | ability      |
 | [Commanding Presence](../1st-Level%20Features/Commanding%20Presence)                                             |          | 1     | trait        |
 | [Concussive Strike](../1st-Level%20Features/Concussive%20Strike)                                                 | 3 Focus  | 1     | ability      |
@@ -24,13 +24,13 @@ type: index
 | [Hammer and Anvil](../1st-Level%20Features/Hammer%20and%20Anvil)                                                 | 5 Focus  | 1     | ability      |
 | [Inspiring Strike](../1st-Level%20Features/Inspiring%20Strike)                                                   | 3 Focus  | 1     | ability      |
 | [Kit Signature Ability](../1st-Level%20Features/Kit%20Signature%20Ability)                                       |          | 1     | trait        |
-| [Mark](../1st-Level%20Features/Mark)                                                                             |          | 1     | trait        |
+| [Mark](../1st-Level%20Features/Mark)                                                                             |          | 1     | ability      |
 | [Mind Game](../1st-Level%20Features/Mind%20Game)                                                                 | 5 Focus  | 1     | ability      |
 | [Now](../1st-Level%20Features/Now)                                                                               | 5 Focus  | 1     | ability      |
-| [Overwatch](../1st-Level%20Features/Overwatch)                                                                   |          | 1     | trait        |
-| [Parry](../1st-Level%20Features/Parry)                                                                           |          | 1     | trait        |
+| [Overwatch](../1st-Level%20Features/Overwatch)                                                                   |          | 1     | ability      |
+| [Parry](../1st-Level%20Features/Parry)                                                                           |          | 1     | ability      |
 | [Squad Forward](../1st-Level%20Features/Squad%20Forward)                                                         | 3 Focus  | 1     | ability      |
-| [Strike Now](../1st-Level%20Features/Strike%20Now)                                                               |          | 1     | trait        |
+| [Strike Now](../1st-Level%20Features/Strike%20Now)                                                               |          | 1     | ability      |
 | [Studied Commander](../1st-Level%20Features/Studied%20Commander)                                                 |          | 1     | trait        |
 | [Tactical Doctrine](../1st-Level%20Features/Tactical%20Doctrine)                                                 |          | 1     | trait        |
 | [This Is What We Planned For](../1st-Level%20Features/This%20Is%20What%20We%20Planned%20For)                     | 5 Focus  | 1     | ability      |

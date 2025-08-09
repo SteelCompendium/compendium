@@ -9,7 +9,7 @@ type: index
 | ------------------------------------------------------- | ---- | ----- | ------------ |
 | [Characteristic Increase](../Characteristic%20Increase) |      | 4     | trait        |
 | [Keep It Down](../Keep%20It%20Down)                     |      | 4     | trait        |
-| [Night Watch](../Night%20Watch)                         |      | 4     | trait        |
+| [Night Watch](../Night%20Watch)                         |      | 4     | ability      |
 | [Perk](../Perk)                                         |      | 4     | trait        |
 | [Skill](../Skill)                                       |      | 4     | trait        |
 | [Surge of Insight](../Surge%20of%20Insight)             |      | 4     | trait        |

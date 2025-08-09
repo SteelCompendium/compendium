@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Steel
 file_dpath: Talent/8th-Level Features
 item_id: steel-11-clarity
-item_index: '03'
+item_index: '04'
 item_name: Steel (11 Clarity)
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.talent.8th-level-feature:steel-11-clarity
 scdc:
-  - 1.1.1:13.2.1.2:03
+  - 1.1.1:13.2.1.2:04
 source: mcdm.heroes.v1
 type: feature/ability/talent/8th-level-feature
 ---

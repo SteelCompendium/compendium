@@ -1,18 +1,18 @@
 ---
 class: conduit
-feature_type: trait
+feature_type: ability
 file_basename: Staggering Curse
 file_dpath: Conduit/1st-Level Features
 item_id: staggering-curse
-item_index: '16'
+item_index: '10'
 item_name: Staggering Curse
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:staggering-curse
+  - mcdm.heroes.v1:feature.ability.conduit.1st-level-feature:staggering-curse
 scdc:
-  - 1.1.1:13.1.8.1:16
+  - 1.1.1:13.2.8.1:10
 source: mcdm.heroes.v1
-type: feature/trait/conduit/1st-level-feature
+type: feature/ability/conduit/1st-level-feature
 ---
 
 ###### Staggering Curse

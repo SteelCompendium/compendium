@@ -1,18 +1,18 @@
 ---
 class: elementalist
-feature_type: trait
+feature_type: ability
 file_basename: Hurl Element
 file_dpath: Elementalist/1st-Level Features
 item_id: hurl-element
-item_index: '31'
+item_index: '22'
 item_name: Hurl Element
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:hurl-element
+  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:hurl-element
 scdc:
-  - 1.1.1:13.1.9.1:31
+  - 1.1.1:13.2.9.1:22
 source: mcdm.heroes.v1
-type: feature/trait/elementalist/1st-level-feature
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Hurl Element

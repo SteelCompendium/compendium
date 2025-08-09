@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Bastion Ward
 file_dpath: Conduit/1st-Level Features
 item_id: bastion-ward
-item_index: '21'
+item_index: '15'
 item_name: Bastion Ward
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:bastion-ward
 scdc:
-  - 1.1.1:13.1.8.1:21
+  - 1.1.1:13.1.8.1:15
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

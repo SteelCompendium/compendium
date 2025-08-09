@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Thunder Roar
 file_dpath: Fury/1st-Level Features
 item_id: thunder-roar-5-ferocity
-item_index: '04'
+item_index: 09
 item_name: Thunder Roar (5 Ferocity)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:thunder-roar-5-ferocity
 scdc:
-  - 1.1.1:13.2.5.1:04
+  - 1.1.1:13.2.5.1:09
 source: mcdm.heroes.v1
 type: feature/ability/fury/1st-level-feature
 ---

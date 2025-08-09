@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Shadowgrasp
 file_dpath: Shadow/8th-Level Features
 item_id: shadowgrasp-11-insight
-item_index: '04'
+item_index: '05'
 item_name: Shadowgrasp (11 Insight)
 level: 8
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.8th-level-feature:shadowgrasp-11-insight
 scdc:
-  - 1.1.1:13.2.2.2:04
+  - 1.1.1:13.2.2.2:05
 source: mcdm.heroes.v1
 type: feature/ability/shadow/8th-level-feature
 ---

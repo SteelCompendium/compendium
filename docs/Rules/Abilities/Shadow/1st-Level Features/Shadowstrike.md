@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Shadowstrike
 file_dpath: Shadow/1st-Level Features
 item_id: shadowstrike-5-insight
-item_index: '03'
+item_index: '05'
 item_name: Shadowstrike (5 Insight)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:shadowstrike-5-insight
 scdc:
-  - 1.1.1:13.2.2.1:03
+  - 1.1.1:13.2.2.1:05
 source: mcdm.heroes.v1
 type: feature/ability/shadow/1st-level-feature
 ---

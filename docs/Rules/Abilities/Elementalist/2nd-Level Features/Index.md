@@ -12,6 +12,6 @@ type: index
 | [O Flower Aid O Earth Defend](../O%20Flower%20Aid%20O%20Earth%20Defend) | 5 Essence | 2     | ability      |
 | [Perk](../Perk)                                                         |           | 2     | trait        |
 | [Subvert the Green Within](../Subvert%20the%20Green%20Within)           | 5 Essence | 2     | ability      |
-| [There Is No Space Between](../There%20Is%20No%20Space%20Between)       |           | 2     | trait        |
+| [There Is No Space Between](../There%20Is%20No%20Space%20Between)       |           | 2     | ability      |
 | [Translated Through Flame](../Translated%20Through%20Flame)             | 5 Essence | 2     | ability      |
 | [Volcanos Embrace](../Volcanos%20Embrace)                               | 5 Essence | 2     | ability      |

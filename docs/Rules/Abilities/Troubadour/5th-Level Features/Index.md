@@ -14,6 +14,6 @@ type: index
 | [Love Song](../Love%20Song)                         | 9 Drama | 5     | ability      |
 | [Medley](../Medley)                                 |         | 5     | trait        |
 | [Patter Song](../Patter%20Song)                     | 9 Drama | 5     | ability      |
-| [Take Two](../Take%20Two)                           |         | 5     | trait        |
+| [Take Two](../Take%20Two)                           |         | 5     | ability      |
 | [Verbal Duel](../Verbal%20Duel)                     |         | 5     | trait        |
-| [We Cant Be Upstaged](../We%20Cant%20Be%20Upstaged) |         | 5     | trait        |
+| [We Cant Be Upstaged](../We%20Cant%20Be%20Upstaged) |         | 5     | ability      |

@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Purifying Fire
 file_dpath: Censor/1st-Level Features
 item_id: purifying-fire-5-wrath
-item_index: '07'
+item_index: '14'
 item_name: Purifying Fire (5 Wrath)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:purifying-fire-5-wrath
 scdc:
-  - 1.1.1:13.2.7.1:07
+  - 1.1.1:13.2.7.1:14
 source: mcdm.heroes.v1
 type: feature/ability/censor/1st-level-feature
 ---

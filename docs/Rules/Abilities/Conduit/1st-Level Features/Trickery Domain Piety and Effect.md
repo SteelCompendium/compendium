@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Trickery Domain Piety and Effect
 file_dpath: Conduit/1st-Level Features
 item_id: trickery-domain-piety-and-effect
-item_index: '44'
+item_index: '32'
 item_name: Trickery Domain Piety and Effect
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:trickery-domain-piety-and-effect
 scdc:
-  - 1.1.1:13.1.8.1:44
+  - 1.1.1:13.1.8.1:32
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

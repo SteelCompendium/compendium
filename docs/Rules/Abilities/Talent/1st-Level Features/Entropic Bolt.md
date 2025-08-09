@@ -1,18 +1,18 @@
 ---
 class: talent
-feature_type: trait
+feature_type: ability
 file_basename: Entropic Bolt
 file_dpath: Talent/1st-Level Features
 item_id: entropic-bolt
-item_index: '17'
+item_index: '15'
 item_name: Entropic Bolt
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:entropic-bolt
+  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:entropic-bolt
 scdc:
-  - 1.1.1:13.1.1.1:17
+  - 1.1.1:13.2.1.1:15
 source: mcdm.heroes.v1
-type: feature/trait/talent/1st-level-feature
+type: feature/ability/talent/1st-level-feature
 ---
 
 ###### Entropic Bolt

@@ -1,18 +1,18 @@
 ---
 class: tactician
-feature_type: trait
+feature_type: ability
 file_basename: Overwatch
 file_dpath: Tactician/1st-Level Features
 item_id: overwatch
-item_index: '10'
+item_index: '13'
 item_name: Overwatch
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.tactician.1st-level-feature:overwatch
+  - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:overwatch
 scdc:
-  - 1.1.1:13.1.4.1:10
+  - 1.1.1:13.2.4.1:13
 source: mcdm.heroes.v1
-type: feature/trait/tactician/1st-level-feature
+type: feature/ability/tactician/1st-level-feature
 ---
 
 ###### Overwatch

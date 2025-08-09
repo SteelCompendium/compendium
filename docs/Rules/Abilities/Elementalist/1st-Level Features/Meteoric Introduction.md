@@ -1,18 +1,18 @@
 ---
 class: elementalist
-feature_type: trait
+feature_type: ability
 file_basename: Meteoric Introduction
 file_dpath: Elementalist/1st-Level Features
 item_id: meteoric-introduction
-item_index: 08
+item_index: '05'
 item_name: Meteoric Introduction
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:meteoric-introduction
+  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:meteoric-introduction
 scdc:
-  - 1.1.1:13.1.9.1:08
+  - 1.1.1:13.2.9.1:05
 source: mcdm.heroes.v1
-type: feature/trait/elementalist/1st-level-feature
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Meteoric Introduction

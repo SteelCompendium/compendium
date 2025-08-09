@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Revitalizing Ritual
 file_dpath: Censor/1st-Level Features
 item_id: revitalizing-ritual
-item_index: 08
+item_index: '05'
 item_name: Revitalizing Ritual
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:revitalizing-ritual
 scdc:
-  - 1.1.1:13.1.7.1:08
+  - 1.1.1:13.1.7.1:05
 source: mcdm.heroes.v1
 type: feature/trait/censor/1st-level-feature
 ---

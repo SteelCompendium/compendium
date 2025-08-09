@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Get In Get Out
 file_dpath: Shadow/1st-Level Features
 item_id: get-in-get-out-3-insight
-item_index: '07'
+item_index: '10'
 item_name: Get In Get Out (3 Insight)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:get-in-get-out-3-insight
 scdc:
-  - 1.1.1:13.2.2.1:07
+  - 1.1.1:13.2.2.1:10
 source: mcdm.heroes.v1
 type: feature/ability/shadow/1st-level-feature
 ---

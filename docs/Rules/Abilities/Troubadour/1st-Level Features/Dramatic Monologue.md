@@ -1,18 +1,18 @@
 ---
 class: troubadour
-feature_type: trait
+feature_type: ability
 file_basename: Dramatic Monologue
 file_dpath: Troubadour/1st-Level Features
 item_id: dramatic-monologue
-item_index: '16'
+item_index: '18'
 item_name: Dramatic Monologue
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.troubadour.1st-level-feature:dramatic-monologue
+  - mcdm.heroes.v1:feature.ability.troubadour.1st-level-feature:dramatic-monologue
 scdc:
-  - 1.1.1:13.1.3.1:16
+  - 1.1.1:13.2.3.1:18
 source: mcdm.heroes.v1
-type: feature/trait/troubadour/1st-level-feature
+type: feature/ability/troubadour/1st-level-feature
 ---
 
 ###### Dramatic Monologue

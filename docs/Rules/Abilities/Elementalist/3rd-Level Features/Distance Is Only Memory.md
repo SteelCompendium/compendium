@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Distance Is Only Memory
 file_dpath: Elementalist/3rd-Level Features
 item_id: distance-is-only-memory
-item_index: '02'
+item_index: '01'
 item_name: Distance Is Only Memory
 level: 3
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.3rd-level-feature:distance-is-only-memory
 scdc:
-  - 1.1.1:13.1.9.7:02
+  - 1.1.1:13.1.9.7:01
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/3rd-level-feature
 ---

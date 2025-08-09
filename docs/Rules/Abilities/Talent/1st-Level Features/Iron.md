@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Iron
 file_dpath: Talent/1st-Level Features
 item_id: iron-5-clarity
-item_index: '02'
+item_index: '04'
 item_name: Iron (5 Clarity)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:iron-5-clarity
 scdc:
-  - 1.1.1:13.2.1.1:02
+  - 1.1.1:13.2.1.1:04
 source: mcdm.heroes.v1
 type: feature/ability/talent/1st-level-feature
 ---

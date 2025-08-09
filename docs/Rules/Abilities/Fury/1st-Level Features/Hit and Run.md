@@ -1,18 +1,18 @@
 ---
 class: fury
-feature_type: trait
+feature_type: ability
 file_basename: Hit and Run
 file_dpath: Fury/1st-Level Features
 item_id: hit-and-run
-item_index: '10'
+item_index: '07'
 item_name: Hit and Run
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.fury.1st-level-feature:hit-and-run
+  - mcdm.heroes.v1:feature.ability.fury.1st-level-feature:hit-and-run
 scdc:
-  - 1.1.1:13.1.5.1:10
+  - 1.1.1:13.2.5.1:07
 source: mcdm.heroes.v1
-type: feature/trait/fury/1st-level-feature
+type: feature/ability/fury/1st-level-feature
 ---
 
 ###### Hit and Run

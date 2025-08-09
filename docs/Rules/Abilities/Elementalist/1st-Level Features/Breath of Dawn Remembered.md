@@ -1,18 +1,18 @@
 ---
 class: elementalist
-feature_type: trait
+feature_type: ability
 file_basename: Breath of Dawn Remembered
 file_dpath: Elementalist/1st-Level Features
 item_id: breath-of-dawn-remembered
-item_index: '34'
+item_index: '24'
 item_name: Breath of Dawn Remembered
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:breath-of-dawn-remembered
+  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:breath-of-dawn-remembered
 scdc:
-  - 1.1.1:13.1.9.1:34
+  - 1.1.1:13.2.9.1:24
 source: mcdm.heroes.v1
-type: feature/trait/elementalist/1st-level-feature
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Breath of Dawn Remembered

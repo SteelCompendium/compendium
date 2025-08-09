@@ -1,18 +1,18 @@
 ---
 class: censor
-feature_type: trait
+feature_type: ability
 file_basename: Grave Speech
 file_dpath: Censor/1st-Level Features
 item_id: grave-speech
-item_index: '15'
+item_index: '13'
 item_name: Grave Speech
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:grave-speech
+  - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:grave-speech
 scdc:
-  - 1.1.1:13.1.7.1:15
+  - 1.1.1:13.2.7.1:13
 source: mcdm.heroes.v1
-type: feature/trait/censor/1st-level-feature
+type: feature/ability/censor/1st-level-feature
 ---
 
 ###### Grave Speech

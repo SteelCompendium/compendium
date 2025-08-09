@@ -1,18 +1,18 @@
 ---
 class: talent
-feature_type: trait
+feature_type: ability
 file_basename: Minor Telekinesis
 file_dpath: Talent/1st-Level Features
 item_id: minor-telekinesis
-item_index: '03'
+item_index: '02'
 item_name: Minor Telekinesis
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.talent.1st-level-feature:minor-telekinesis
+  - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:minor-telekinesis
 scdc:
-  - 1.1.1:13.1.1.1:03
+  - 1.1.1:13.2.1.1:02
 source: mcdm.heroes.v1
-type: feature/trait/talent/1st-level-feature
+type: feature/ability/talent/1st-level-feature
 ---
 
 ###### Minor Telekinesis

@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Two Throats at Once
 file_dpath: Shadow/1st-Level Features
 item_id: two-throats-at-once-3-insight
-item_index: '10'
+item_index: '18'
 item_name: Two Throats at Once (3 Insight)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:two-throats-at-once-3-insight
 scdc:
-  - 1.1.1:13.2.2.1:10
+  - 1.1.1:13.2.2.1:18
 source: mcdm.heroes.v1
 type: feature/ability/shadow/1st-level-feature
 ---

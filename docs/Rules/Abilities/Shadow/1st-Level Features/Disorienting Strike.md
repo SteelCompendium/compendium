@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Disorienting Strike
 file_dpath: Shadow/1st-Level Features
 item_id: disorienting-strike-3-insight
-item_index: 09
+item_index: '16'
 item_name: Disorienting Strike (3 Insight)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:disorienting-strike-3-insight
 scdc:
-  - 1.1.1:13.2.2.1:09
+  - 1.1.1:13.2.2.1:16
 source: mcdm.heroes.v1
 type: feature/ability/shadow/1st-level-feature
 ---

@@ -10,14 +10,14 @@ type: index
 | [Back](../Back)                                                               | 3 Ferocity | 1     | ability      |
 | [Beast Shape](../Beast%20Shape)                                               |            | 1     | trait        |
 | [Blood for Blood](../Blood%20for%20Blood)                                     | 5 Ferocity | 1     | ability      |
-| [Brutal Slam](../Brutal%20Slam)                                               |            | 1     | trait        |
+| [Brutal Slam](../Brutal%20Slam)                                               |            | 1     | ability      |
 | [Ferocity in Combat](../Ferocity%20in%20Combat)                               |            | 1     | trait        |
 | [Ferocity Outside of Combat](../Ferocity%20Outside%20of%20Combat)             |            | 1     | trait        |
-| [Furious Change](../Furious%20Change)                                         |            | 1     | trait        |
-| [Hit and Run](../Hit%20and%20Run)                                             |            | 1     | trait        |
-| [Impaled](../Impaled)                                                         |            | 1     | trait        |
+| [Furious Change](../Furious%20Change)                                         |            | 1     | ability      |
+| [Hit and Run](../Hit%20and%20Run)                                             |            | 1     | ability      |
+| [Impaled](../Impaled)                                                         |            | 1     | ability      |
 | [Kit](../Kit)                                                                 |            | 1     | trait        |
-| [Lines of Force](../Lines%20of%20Force)                                       |            | 1     | trait        |
+| [Lines of Force](../Lines%20of%20Force)                                       |            | 1     | ability      |
 | [Make Peace With Your God](../Make%20Peace%20With%20Your%20God)               | 5 Ferocity | 1     | ability      |
 | [Mighty Leaps](../Mighty%20Leaps)                                             |            | 1     | trait        |
 | [Out of the Way](../Out%20of%20the%20Way)                                     | 3 Ferocity | 1     | ability      |
@@ -27,7 +27,7 @@ type: index
 | [Relentless Hunter](../Relentless%20Hunter)                                   |            | 1     | trait        |
 | [Thunder Roar](../Thunder%20Roar)                                             | 5 Ferocity | 1     | ability      |
 | [Tide of Death](../Tide%20of%20Death)                                         | 3 Ferocity | 1     | ability      |
-| [To the Death](../To%20the%20Death)                                           |            | 1     | trait        |
+| [To the Death](../To%20the%20Death)                                           |            | 1     | ability      |
 | [To the Uttermost End](../To%20the%20Uttermost%20End)                         | 5 Ferocity | 1     | ability      |
-| [Unearthly Reflexes](../Unearthly%20Reflexes)                                 |            | 1     | trait        |
+| [Unearthly Reflexes](../Unearthly%20Reflexes)                                 |            | 1     | ability      |
 | [Your Entrails Are Your Extrails](../Your%20Entrails%20Are%20Your%20Extrails) | 3 Ferocity | 1     | ability      |

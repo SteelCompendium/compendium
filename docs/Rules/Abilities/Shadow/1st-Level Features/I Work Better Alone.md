@@ -1,18 +1,18 @@
 ---
 class: shadow
-feature_type: trait
+feature_type: ability
 file_basename: I Work Better Alone
 file_dpath: Shadow/1st-Level Features
 item_id: i-work-better-alone
-item_index: '07'
+item_index: 09
 item_name: I Work Better Alone
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:i-work-better-alone
+  - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:i-work-better-alone
 scdc:
-  - 1.1.1:13.1.2.1:07
+  - 1.1.1:13.2.2.1:09
 source: mcdm.heroes.v1
-type: feature/trait/shadow/1st-level-feature
+type: feature/ability/shadow/1st-level-feature
 ---
 
 ###### I Work Better Alone

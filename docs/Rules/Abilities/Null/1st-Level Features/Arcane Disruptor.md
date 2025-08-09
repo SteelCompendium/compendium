@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Arcane Disruptor
 file_dpath: Null/1st-Level Features
 item_id: arcane-disruptor-5-discipline
-item_index: '06'
+item_index: '15'
 item_name: Arcane Disruptor (5 Discipline)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:arcane-disruptor-5-discipline
 scdc:
-  - 1.1.1:13.2.6.1:06
+  - 1.1.1:13.2.6.1:15
 source: mcdm.heroes.v1
 type: feature/ability/null/1st-level-feature
 ---

@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Ward of Natures Affection
 file_dpath: Elementalist/1st-Level Features
 item_id: ward-of-natures-affection
-item_index: '04'
+item_index: '02'
 item_name: Ward of Nature's Affection
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:ward-of-natures-affection
 scdc:
-  - 1.1.1:13.1.9.1:04
+  - 1.1.1:13.1.9.1:02
 source: mcdm.heroes.v1
 type: feature/trait/elementalist/1st-level-feature
 ---

@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Psychic Pulse
 file_dpath: Null/1st-Level Features
 item_id: psychic-pulse-3-discipline
-item_index: '07'
+item_index: '17'
 item_name: Psychic Pulse (3 Discipline)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.null.1st-level-feature:psychic-pulse-3-discipline
 scdc:
-  - 1.1.1:13.2.6.1:07
+  - 1.1.1:13.2.6.1:17
 source: mcdm.heroes.v1
 type: feature/ability/null/1st-level-feature
 ---

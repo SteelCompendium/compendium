@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Mind Game
 file_dpath: Tactician/1st-Level Features
 item_id: mind-game-5-focus
-item_index: 08
+item_index: '12'
 item_name: Mind Game (5 Focus)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.tactician.1st-level-feature:mind-game-5-focus
 scdc:
-  - 1.1.1:13.2.4.1:08
+  - 1.1.1:13.2.4.1:12
 source: mcdm.heroes.v1
 type: feature/ability/tactician/1st-level-feature
 ---

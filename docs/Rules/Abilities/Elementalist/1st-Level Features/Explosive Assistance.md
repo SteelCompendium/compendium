@@ -1,18 +1,18 @@
 ---
 class: elementalist
-feature_type: trait
+feature_type: ability
 file_basename: Explosive Assistance
 file_dpath: Elementalist/1st-Level Features
 item_id: explosive-assistance
-item_index: 09
+item_index: '06'
 item_name: Explosive Assistance
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.elementalist.1st-level-feature:explosive-assistance
+  - mcdm.heroes.v1:feature.ability.elementalist.1st-level-feature:explosive-assistance
 scdc:
-  - 1.1.1:13.1.9.1:09
+  - 1.1.1:13.2.9.1:06
 source: mcdm.heroes.v1
-type: feature/trait/elementalist/1st-level-feature
+type: feature/ability/elementalist/1st-level-feature
 ---
 
 ###### Explosive Assistance

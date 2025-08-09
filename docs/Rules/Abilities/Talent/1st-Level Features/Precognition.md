@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Precognition
 file_dpath: Talent/1st-Level Features
 item_id: precognition-3-clarity
-item_index: '05'
+item_index: '10'
 item_name: Precognition (3 Clarity)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.talent.1st-level-feature:precognition-3-clarity
 scdc:
-  - 1.1.1:13.2.1.1:05
+  - 1.1.1:13.2.1.1:10
 source: mcdm.heroes.v1
 type: feature/ability/talent/1st-level-feature
 ---

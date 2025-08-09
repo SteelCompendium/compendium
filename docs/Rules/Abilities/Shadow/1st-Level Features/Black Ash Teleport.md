@@ -1,18 +1,18 @@
 ---
 class: shadow
-feature_type: trait
+feature_type: ability
 file_basename: Black Ash Teleport
 file_dpath: Shadow/1st-Level Features
 item_id: black-ash-teleport
-item_index: '13'
+item_index: '19'
 item_name: Black Ash Teleport
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.shadow.1st-level-feature:black-ash-teleport
+  - mcdm.heroes.v1:feature.ability.shadow.1st-level-feature:black-ash-teleport
 scdc:
-  - 1.1.1:13.1.2.1:13
+  - 1.1.1:13.2.2.1:19
 source: mcdm.heroes.v1
-type: feature/trait/shadow/1st-level-feature
+type: feature/ability/shadow/1st-level-feature
 ---
 
 ###### Black Ash Teleport

@@ -1,18 +1,18 @@
 ---
 class: censor
-feature_type: trait
+feature_type: ability
 file_basename: Back Blasphemer
 file_dpath: Censor/1st-Level Features
 item_id: back-blasphemer
-item_index: '10'
+item_index: '07'
 item_name: Back Blasphemer!
 level: 1
 scc:
-  - mcdm.heroes.v1:feature.trait.censor.1st-level-feature:back-blasphemer
+  - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:back-blasphemer
 scdc:
-  - 1.1.1:13.1.7.1:10
+  - 1.1.1:13.2.7.1:07
 source: mcdm.heroes.v1
-type: feature/trait/censor/1st-level-feature
+type: feature/ability/censor/1st-level-feature
 ---
 
 ###### Back Blasphemer!
