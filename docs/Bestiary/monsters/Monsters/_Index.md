@@ -34,3 +34,7 @@ type: index
 | [Ashen Hoarder](../Ashen%20Hoarder/Ashen%20Hoarder)                                  |
 | [Ashen Hoarder Malice](../Ashen%20Hoarder/Features/Ashen%20Hoarder%20Malice)         |
 | [Ashen Hoarder](../Ashen%20Hoarder/Statblocks/Ashen%20Hoarder)                       |
+| [Basilisks](../Basilisks/Basilisks)                                                  |
+| [Basilisk Malice](../Basilisks/Features/Basilisk%20Malice)                           |
+| [Basilisk](../Basilisks/Statblocks/Basilisk)                                         |
+| [Basilisk Tonguesnapper](../Basilisks/Statblocks/Basilisk%20Tonguesnapper)           |
