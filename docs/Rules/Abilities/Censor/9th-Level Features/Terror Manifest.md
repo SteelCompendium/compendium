@@ -22,7 +22,7 @@ type: feature/ability/censor/9th-level-feature
 
 *"I know what you fear."*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 

@@ -47,7 +47,7 @@ type: feature/trait/elementalist/8th-level-feature
 > | --------------------------------- | ----------------------------: |
 > | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
 >
-> **2d10 + 3:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 5 damage; push 3
 > - **12-16:** 9 damage; push 4

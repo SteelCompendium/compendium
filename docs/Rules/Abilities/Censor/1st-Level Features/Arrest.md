@@ -22,7 +22,7 @@ type: feature/ability/censor/1st-level-feature
 
 *"I got you, you son of a bitch."*
 
-| **Magic, Melee, Strike, Weapon** |     **Main Action** |
+| **Magic, Melee, Strike, Weapon** |     **Main action** |
 | -------------------------------- | ------------------: |
 | **📏 Melee 1**                   | **🎯 One creature** |
 

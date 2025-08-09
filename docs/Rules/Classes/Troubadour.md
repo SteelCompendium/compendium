@@ -407,7 +407,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 *Just one bad review will ruin their day.*
 
-| **Magic, Melee, Ranged, Strike** |               **Main Action** |
+| **Magic, Melee, Ranged, Strike** |               **Main action** |
 | -------------------------------- | ----------------------------: |
 | **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
 
@@ -439,7 +439,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 *You write something unexpected into the scene that hinders your enemy.*
 
-| **Area, Magic, Ranged** |               **Main Action** |
+| **Area, Magic, Ranged** |               **Main action** |
 | ----------------------- | ----------------------------: |
 | **📏 3 cube within 10** | **🎯 Each enemy in the area** |
 
@@ -568,6 +568,8 @@ Your troubadour class act grants your choice of one of two heroic abilities.
 Choose one of the following abilities.
 
 ###### Guest Star (5 Drama)
+
+*We offered them a percentage of the gross. So they're working for free!*
 
 | **Magic, Ranged** | **Main action** |
 | ----------------- | --------------: |

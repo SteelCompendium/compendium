@@ -22,7 +22,7 @@ type: feature/ability/censor/8th-level-feature
 
 *Your enemy's guilt fuels a holy flame that burns your foes.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 

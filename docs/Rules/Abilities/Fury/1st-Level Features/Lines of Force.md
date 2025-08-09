@@ -17,6 +17,8 @@ type: feature/ability/fury/1st-level-feature
 
 ###### Lines of Force
 
+*You redirect the energy of motion.*
+
 | **Magic, Melee** |               **Triggered** |
 | ---------------- | --------------------------: |
 | **📏 Melee 1**   | **🎯 Self or one creature** |

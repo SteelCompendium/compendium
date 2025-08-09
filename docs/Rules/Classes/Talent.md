@@ -425,7 +425,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 6 + P damage
 - **17+:** 9 + P damage
 
-Effect: You gain 1 surge.
+**Effect:** You gain 1 surge.
 
 **Strained:** The target takes an extra 3 damage. You also take 3 damage that can't be reduced in any way.
 
@@ -731,7 +731,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 
 *Spheres of solid psionic energy float around you.*
 
-| **Psionic, Ranged, Strike, Telekinesis** | **Main Action** |
+| **Psionic, Ranged, Strike, Telekinesis** | **Main action** |
 | ---------------------------------------- | --------------: |
 | **📏 Self; see below**                   |     **🎯 Self** |
 
@@ -991,7 +991,7 @@ Choose one of the following abilities.
 
 *Keep everything as it was. Ignore everything that will be.*
 
-| **Area, Chronopathy, Psionic, Ranged** |                             **Main Action** |
+| **Area, Chronopathy, Psionic, Ranged** |                             **Main action** |
 | -------------------------------------- | ------------------------------------------: |
 | **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
 
@@ -1015,7 +1015,7 @@ Choose one of the following abilities.
 
 *You bend gravity into a fine point and pull your foes toward it.*
 
-| **Area, Psionic, Ranged, Telekinesis** |                             **Main Action** |
+| **Area, Psionic, Ranged, Telekinesis** |                             **Main action** |
 | -------------------------------------- | ------------------------------------------: |
 | **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
 

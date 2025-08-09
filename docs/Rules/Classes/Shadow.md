@@ -627,6 +627,8 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 
 ###### Staggering Blow (7 Insight)
 
+*There's no recovering from this.*
+
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
@@ -1043,7 +1045,7 @@ Choose one of the following abilities.
 
 *You tumble through the battle, stabbing foes and teleporting allies.*
 
-| **Magic, Melee, Weapon** | **Main Action** |
+| **Magic, Melee, Weapon** | **Main action** |
 | ------------------------ | --------------: |
 | **📏 Self; see below**   |     **🎯 Self** |
 

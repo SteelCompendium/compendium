@@ -22,7 +22,7 @@ type: feature/ability/censor/1st-level-feature
 
 *You attack a foe and your enemies behold a vision of the true nature of your resolve.*
 
-| **Magic, Melee, Ranged, Strike, Weapon** |     **Main Action** |
+| **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |
 | ---------------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
 

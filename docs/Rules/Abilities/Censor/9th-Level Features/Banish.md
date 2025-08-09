@@ -22,7 +22,7 @@ type: feature/ability/censor/9th-level-feature
 
 *You sever the target's tenuous connection to the world.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 

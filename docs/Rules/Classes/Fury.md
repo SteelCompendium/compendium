@@ -189,6 +189,8 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 
 ###### Lines of Force
 
+*You redirect the energy of motion.*
+
 | **Magic, Melee** |               **Triggered** |
 | ---------------- | --------------------------: |
 | **📏 Melee 1**   | **🎯 Self or one creature** |
@@ -972,6 +974,8 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 **Effect:** If the target is a minion or is winded but isn't a leader or solo creature, they are reduced to 0 Stamina before this ability's damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.
 
 ###### Primordial Rage (11 Ferocity)
+
+*Your ferocity manifests into primordial power.*
 
 | **Magic**   | **Maneuver** |
 | ----------- | -----------: |

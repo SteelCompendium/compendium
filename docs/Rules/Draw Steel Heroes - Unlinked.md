@@ -1155,7 +1155,7 @@ See Free Strikes in Chapter 10: Combat for more information on using free strike
 
 **<span class="steel-compendium-ability">Melee Weapon Free Strike</span>**
 
-| **Charge, Melee, Strike, Weapon** |               **Main Action** |
+| **Charge, Melee, Strike, Weapon** |               **Main action** |
 | --------------------------------- | ----------------------------: |
 | **📏 Melee 1**                    | **🎯 One creature or object** |
 
@@ -1167,7 +1167,7 @@ See Free Strikes in Chapter 10: Combat for more information on using free strike
 
 **<span class="steel-compendium-ability">Ranged Weapon Free Strike</span>**
 
-| **Ranged, Strike, Weapon** |               **Main Action** |
+| **Ranged, Strike, Weapon** |               **Main action** |
 | -------------------------- | ----------------------------: |
 | **📏 Ranged 5**            | **🎯 One creature or object** |
 
@@ -1784,7 +1784,7 @@ You have the following signature ability.
 
 *You let loose a mighty roar to shake your foes' spirits.*
 
-| **Area, Magic** |               **Main Action** |
+| **Area, Magic** |               **Main action** |
 | --------------- | ----------------------------: |
 | **📏 1 Burst**  | **🎯 Each enemy in the area** |
 
@@ -1802,7 +1802,7 @@ You have the following signature ability.
 
 *A furious exhalation of energy washes over your foes.*
 
-| **Area, Magic**        |               **Main Action** |
+| **Area, Magic**        |               **Main action** |
 | ---------------------- | ----------------------------: |
 | **📏 3 cube within 1** | **🎯 Each enemy in the area** |
 
@@ -2096,7 +2096,7 @@ You have the following signature ability. Signature abilities can be used at wil
 
 *Thorny vines erupt from every surface and attempt to bind your foe.*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -2844,7 +2844,7 @@ You have the following ability.
 
 *You become an actual shadow.*
 
-| **Magic**   | **Main Action** |
+| **Magic**   | **Main action** |
 | ----------- | --------------: |
 | **📏 Self** |     **🎯 Self** |
 
@@ -2994,7 +2994,7 @@ Additionally, you have the following signature ability. Signature abilities can 
 
 **<span class="steel-compendium-ability">Detonate Sigil</span>**
 
-| **Magic, Ranged, Strike** |                        **Main Action** |
+| **Magic, Ranged, Strike** |                        **Main action** |
 | ------------------------- | -------------------------------------: |
 | **📏 Ranged 10**          | **🎯 One creature bearing your sigil** |
 
@@ -4705,7 +4705,7 @@ You have the following ability.
 
 *An animal spirit is drawn to you, sharing their senses with you and serving you faithfully.*
 
-| **Magic**   | **Main Action** |
+| **Magic**   | **Main action** |
 | ----------- | --------------: |
 | **📏 Self** |     **🎯 Self** |
 
@@ -4775,7 +4775,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You channel power through your weapon to repel foes.*
 
-| **Area, Magic, Melee, Weapon** |               **Main Action** |
+| **Area, Magic, Melee, Weapon** |               **Main action** |
 | ------------------------------ | ----------------------------: |
 | **📏 2 cube within 1**         | **🎯 Each enemy in the area** |
 
@@ -4789,7 +4789,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You show your foe a glimpse of their fate after death.*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -4805,7 +4805,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 *You infuse your weapon with holy magic that makes it difficult for your foe to get away.*
 
-| **Melee, Strike, Weapon** |               **Main Action** |
+| **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
@@ -4819,7 +4819,7 @@ Choose one signature ability from the following options. Signature abilities can
 
 *Your magic strike turns your foe's guilt into a burst of holy power.*
 
-| **Melee, Strike, Weapon** |               **Main Action** |
+| **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
@@ -4843,7 +4843,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 *A mighty blow turns your foe's vitality into a holy light that envelops you and an ally, discouraging enemies who might attack you.*
 
-| **Melee, Strike, Weapon** |               **Main Action** |
+| **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
@@ -4859,7 +4859,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 *As you force your enemy back with your weapon, you use your faith to stay close.*
 
-| **Melee, Strike, Weapon** |               **Main Action** |
+| **Melee, Strike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 Melee 1**            | **🎯 One creature or object** |
 
@@ -4875,7 +4875,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 *You channel holy energy to smite a foe and heal an ally.*
 
-| **Magic, Melee, Strike, Weapon** |               **Main Action** |
+| **Magic, Melee, Strike, Weapon** |               **Main action** |
 | -------------------------------- | ----------------------------: |
 | **📏 Melee 1**                   | **🎯 One creature or object** |
 
@@ -4891,7 +4891,7 @@ Choose one heroic ability from the following options, each of which costs 3 wrat
 
 *You conjure memories of their sins to harry your foes.*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -4909,7 +4909,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 *"I got you, you son of a bitch."*
 
-| **Magic, Melee, Strike, Weapon** |     **Main Action** |
+| **Magic, Melee, Strike, Weapon** |     **Main action** |
 | -------------------------------- | ------------------: |
 | **📏 Melee 1**                   | **🎯 One creature** |
 
@@ -4925,7 +4925,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 *You attack a foe and your enemies behold a vision of the true nature of your resolve.*
 
-| **Magic, Melee, Ranged, Strike, Weapon** |     **Main Action** |
+| **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |
 | ---------------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
 
@@ -4941,7 +4941,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 *Judged and sentenced.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -4957,7 +4957,7 @@ Choose one heroic ability from the following options, each of which costs 5 wrat
 
 *The gods judge, fire cleanses.*
 
-| **Magic, Melee, Ranged, Strike, Weapon** |     **Main Action** |
+| **Magic, Melee, Ranged, Strike, Weapon** |     **Main action** |
 | ---------------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**               | **🎯 One creature** |
 
@@ -5025,7 +5025,7 @@ Choose one of the following abilities.
 
 *I am but a vessel. Your own deeds weigh upon you.*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -5091,7 +5091,7 @@ Choose one of the following abilities.
 
 *The shock of your condemnation freezes your enemy in their boots.*
 
-| **Magic, Melee, Strike, Weapon** |     **Main Action** |
+| **Magic, Melee, Strike, Weapon** |     **Main action** |
 | -------------------------------- | ------------------: |
 | **📏 Melee 1**                   | **🎯 One creature** |
 
@@ -5320,7 +5320,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 
 *You amplify the power of your judgment.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -5336,7 +5336,7 @@ Choose one heroic ability from the following options, each of which costs 9 wrat
 
 *You strike a foe and create a fleet of divine shields that protect your allies.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -5498,7 +5498,7 @@ You can maintain bonds with up to three willing creatures using your Invocation 
 
 *You concentrate on a friend and teleport to them.*
 
-| **Magic, Ranged** |           **Main Action** |
+| **Magic, Ranged** |           **Main action** |
 | ----------------- | ------------------------: |
 | **📏 Ranged 10**  | **🎯 Self and each ally** |
 
@@ -5614,7 +5614,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 *You curse your foe to become a bane to their allies.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -5630,7 +5630,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 *You use your foe as a tool against your enemies.*
 
-| **Ranged, Strike, Weapon** |     **Main Action** |
+| **Ranged, Strike, Weapon** |     **Main action** |
 | -------------------------- | ------------------: |
 | **📏 Ranged 10**           | **🎯 One creature** |
 
@@ -5646,7 +5646,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 *Your enemy's guilt fuels a holy flame that burns your foes.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -5662,7 +5662,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 
 *You turn your enemies' ire to the target.*
 
-| **Ranged, Strike, Weapon** |     **Main Action** |
+| **Ranged, Strike, Weapon** |     **Main action** |
 | -------------------------- | ------------------: |
 | **📏 Ranged 10**           | **🎯 One creature** |
 
@@ -5698,7 +5698,7 @@ Choose one of the following abilities.
 
 *You sever the target's tenuous connection to the world.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -5714,7 +5714,7 @@ Choose one of the following abilities.
 
 *"I know what you fear."*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -5762,7 +5762,7 @@ Choose one of the following abilities.
 
 *You channel holy energy to seal an enemy's fate.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
@@ -6031,7 +6031,7 @@ You have the following ability.
 
 You have the following ability.
 
-#### Grave Speech
+**<span class="steel-compendium-ability">Grave Speech</span>**
 
 *You commune with the lingering soul of the recently dead.*
 
@@ -6817,7 +6817,7 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 
 *You ignite a foe with holy radiance, rewarding allies who attack them.*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -7998,7 +7998,7 @@ Choose one heroic ability from the following options, each of which costs 5 esse
 
 *A storm of fire descends upon your enemies.*
 
-| **Area, Fire, Magic, Ranged** |               **Main Action** |
+| **Area, Fire, Magic, Ranged** |               **Main action** |
 | ----------------------------- | ----------------------------: |
 | **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
 
@@ -8680,7 +8680,7 @@ The source starts an encounter at full Stamina, but maintains their current Stam
 > | --------------------------------- | ----------------------------: |
 > | **📏 Melee 2 or ranged 10**       | **🎯 One creature or object** |
 >
-> **2d10 + 3:**
+> **Power Roll + 3:**
 >
 > - **≤11:** 5 damage; push 3
 > - **12-16:** 9 damage; push 4
@@ -9053,6 +9053,8 @@ Your primordial aspect grants you a triggered action, as shown on the Aspect Tri
 **Spend 1 Ferocity:** If you are not dying, you can spend a Recovery.
 
 **<span class="steel-compendium-ability">Lines of Force</span>**
+
+*You redirect the energy of motion.*
 
 | **Magic, Melee** |               **Triggered** |
 | ---------------- | --------------------------: |
@@ -9837,6 +9839,8 @@ Choose one heroic ability from the following options, each of which costs 11 fer
 **Effect:** If the target is a minion or is winded but isn't a leader or solo creature, they are reduced to 0 Stamina before this ability's damage is dealt. If the target is killed by this damage, you can deal any damage over what was required to kill them to another creature within 5 squares of the target.
 
 **<span class="steel-compendium-ability">Primordial Rage (11 Ferocity)</span>**
+
+*Your ferocity manifests into primordial power.*
 
 | **Magic**   | **Maneuver** |
 | ----------- | -----------: |
@@ -10835,6 +10839,8 @@ Choose one of the following abilities.
 Choose one of the following heroic abilities.
 
 **<span class="steel-compendium-ability">Entropic Field (5 Discipline)</span>**
+
+*You drastically increase the local entropy.*
 
 | **Area, Psionic, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
@@ -12079,6 +12085,8 @@ Choose one heroic ability from the following options, each of which costs 7 insi
 
 **<span class="steel-compendium-ability">Staggering Blow (7 Insight)</span>**
 
+*There’s no recovering from this.*
+
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
@@ -12495,7 +12503,7 @@ Choose one of the following abilities.
 
 *You tumble through the battle, stabbing foes and teleporting allies.*
 
-| **Magic, Melee, Weapon** | **Main Action** |
+| **Magic, Melee, Weapon** | **Main action** |
 | ------------------------ | --------------: |
 | **📏 Self; see below**   |     **🎯 Self** |
 
@@ -13370,6 +13378,8 @@ Choose one of the following abilities.
 
 **<span class="steel-compendium-ability">Instant Retaliation (9 Focus)</span>**
 
+*You parry with almost supernatural speed.*
+
 | **Melee, Weapon** | **Free triggered** |
 | ----------------- | -----------------: |
 | **📏 Melee 1**    |    **🎯 One ally** |
@@ -13510,6 +13520,8 @@ Choose one heroic ability from the following options, each of which costs 11 foc
 
 **<span class="steel-compendium-ability">Floodgates Open (11 Focus)</span>**
 
+*You direct your squad to strike in unison and with devastating effect.*
+
 | **Ranged**       |     **Main action** |
 | ---------------- | ------------------: |
 | **📏 Ranged 10** | **🎯 Three allies** |
@@ -13612,7 +13624,7 @@ Choose one of the following abilities.
 
 *You focus on making an enemy irrelevant.*
 
-| **Melee, Ranged, Strike, Weapon** |     **Main Action** |
+| **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
@@ -14073,7 +14085,7 @@ Choose two signature abilities from the following options. Signature abilities c
 - **12-16:** 6 + P damage
 - **17+:** 9 + P damage
 
-Effect: You gain 1 surge.
+**Effect:** You gain 1 surge.
 
 **Strained:** The target takes an extra 3 damage. You also take 3 damage that can't be reduced in any way.
 
@@ -14379,7 +14391,7 @@ Choose one heroic ability from the following options, each of which costs 7 clar
 
 *Spheres of solid psionic energy float around you.*
 
-| **Psionic, Ranged, Strike, Telekinesis** | **Main Action** |
+| **Psionic, Ranged, Strike, Telekinesis** | **Main action** |
 | ---------------------------------------- | --------------: |
 | **📏 Self; see below**                   |     **🎯 Self** |
 
@@ -14639,7 +14651,7 @@ Choose one of the following abilities.
 
 *Keep everything as it was. Ignore everything that will be.*
 
-| **Area, Chronopathy, Psionic, Ranged** |                             **Main Action** |
+| **Area, Chronopathy, Psionic, Ranged** |                             **Main action** |
 | -------------------------------------- | ------------------------------------------: |
 | **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
 
@@ -14663,7 +14675,7 @@ Choose one of the following abilities.
 
 *You bend gravity into a fine point and pull your foes toward it.*
 
-| **Area, Psionic, Ranged, Telekinesis** |                             **Main Action** |
+| **Area, Psionic, Ranged, Telekinesis** |                             **Main action** |
 | -------------------------------------- | ------------------------------------------: |
 | **📏 4 cube within 10**                | **🎯 Each creature and object in the area** |
 
@@ -15456,7 +15468,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 *Just one bad review will ruin their day.*
 
-| **Magic, Melee, Ranged, Strike** |               **Main Action** |
+| **Magic, Melee, Ranged, Strike** |               **Main action** |
 | -------------------------------- | ----------------------------: |
 | **📏 Melee 1 or ranged 10**      | **🎯 One creature or object** |
 
@@ -15488,7 +15500,7 @@ Choose one heroic ability from the following options, each of which costs 3 dram
 
 *You write something unexpected into the scene that hinders your enemy.*
 
-| **Area, Magic, Ranged** |               **Main Action** |
+| **Area, Magic, Ranged** |               **Main action** |
 | ----------------------- | ----------------------------: |
 | **📏 3 cube within 10** | **🎯 Each enemy in the area** |
 
@@ -15617,6 +15629,8 @@ Your troubadour class act grants your choice of one of two heroic abilities.
 Choose one of the following abilities.
 
 **<span class="steel-compendium-ability">Guest Star (5 Drama)</span>**
+
+*We offered them a percentage of the gross. So they’re working for free!*
 
 | **Magic, Ranged** | **Main action** |
 | ----------------- | --------------: |
@@ -17526,7 +17540,7 @@ You have the following ability.
 
 *You cast an entertaining spell that creates a minor but impressive magical effect.*
 
-| **Magic**              | **Main Action** |
+| **Magic**              | **Main action** |
 | ---------------------- | --------------: |
 | **📏 Self; see below** |     **🎯 Self** |
 
@@ -18293,7 +18307,7 @@ You can perceive ghosts and spirits that others don't sense. These supernatural 
 
 *The restless dead speak to you.*
 
-| **Magic**   | **Main Action** |
+| **Magic**   | **Main action** |
 | ----------- | --------------: |
 | **📏 Self** |     **🎯 Self** |
 
@@ -18685,7 +18699,7 @@ You nearly lost your life at sea, but then you heard the voice. Someone-or somet
 
 *You summon a wave of water to batter your foe.*
 
-| **Magic, Ranged, Strike** |               **Main Action** |
+| **Magic, Ranged, Strike** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 Ranged 10**          | **🎯 One creature or object** |
 
@@ -19968,7 +19982,7 @@ A melee weapon free strike is a melee strike made with an unarmed strike or an i
 
 **<span class="steel-compendium-ability">Melee Weapon Free Strike</span>**
 
-| **Charge, Melee, Stike, Weapon** |               **Main Action** |
+| **Charge, Melee, Stike, Weapon** |               **Main action** |
 | -------------------------------- | ----------------------------: |
 | **📏 Melee 1**                   | **🎯 One creature or object** |
 
@@ -19980,7 +19994,7 @@ A melee weapon free strike is a melee strike made with an unarmed strike or an i
 
 **<span class="steel-compendium-ability">Ranged Weapon Free Strike</span>**
 
-| **Ranged, Stike, Weapon** |               **Main Action** |
+| **Ranged, Stike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 Ranged 5**           | **🎯 One creature or object** |
 
@@ -24273,7 +24287,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 **<span class="steel-compendium-ability">The Harder They Fall (7 Heroic Resource)</span>**
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 

@@ -243,7 +243,7 @@ You have the following ability.
 
 *You cast an entertaining spell that creates a minor but impressive magical effect.*
 
-| **Magic**              | **Main Action** |
+| **Magic**              | **Main action** |
 | ---------------------- | --------------: |
 | **📏 Self; see below** |     **🎯 Self** |
 

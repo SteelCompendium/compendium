@@ -20,6 +20,8 @@ type: feature/ability/tactician/8th-level-feature
 
 ###### Floodgates Open (11 Focus)
 
+*You direct your squad to strike in unison and with devastating effect.*
+
 | **Ranged**       |     **Main action** |
 | ---------------- | ------------------: |
 | **📏 Ranged 10** | **🎯 Three allies** |

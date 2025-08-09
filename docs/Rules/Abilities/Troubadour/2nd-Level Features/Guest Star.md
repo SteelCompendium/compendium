@@ -20,6 +20,8 @@ type: feature/ability/troubadour/2nd-level-feature
 
 ###### Guest Star (5 Drama)
 
+*We offered them a percentage of the gross. So they're working for free!*
+
 | **Magic, Ranged** | **Main action** |
 | ----------------- | --------------: |
 | **📏 Ranged 10**  |  **🎯 Special** |

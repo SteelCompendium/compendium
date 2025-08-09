@@ -531,7 +531,7 @@ You have the following signature ability.
 
 *You let loose a mighty roar to shake your foes' spirits.*
 
-| **Area, Magic** |               **Main Action** |
+| **Area, Magic** |               **Main action** |
 | --------------- | ----------------------------: |
 | **📏 1 Burst**  | **🎯 Each enemy in the area** |
 
@@ -549,7 +549,7 @@ You have the following signature ability.
 
 *A furious exhalation of energy washes over your foes.*
 
-| **Area, Magic**        |               **Main Action** |
+| **Area, Magic**        |               **Main action** |
 | ---------------------- | ----------------------------: |
 | **📏 3 cube within 1** | **🎯 Each enemy in the area** |
 
@@ -843,7 +843,7 @@ You have the following signature ability. Signature abilities can be used at wil
 
 *Thorny vines erupt from every surface and attempt to bind your foe.*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 
@@ -1591,7 +1591,7 @@ You have the following ability.
 
 *You become an actual shadow.*
 
-| **Magic**   | **Main Action** |
+| **Magic**   | **Main action** |
 | ----------- | --------------: |
 | **📏 Self** |     **🎯 Self** |
 
@@ -1741,7 +1741,7 @@ Additionally, you have the following signature ability. Signature abilities can 
 
 ###### Detonate Sigil
 
-| **Magic, Ranged, Strike** |                        **Main Action** |
+| **Magic, Ranged, Strike** |                        **Main action** |
 | ------------------------- | -------------------------------------: |
 | **📏 Ranged 10**          | **🎯 One creature bearing your sigil** |
 

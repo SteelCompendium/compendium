@@ -20,6 +20,8 @@ type: feature/ability/tactician/6th-level-feature
 
 ###### Instant Retaliation (9 Focus)
 
+*You parry with almost supernatural speed.*
+
 | **Melee, Weapon** | **Free triggered** |
 | ----------------- | -----------------: |
 | **📏 Melee 1**    |    **🎯 One ally** |

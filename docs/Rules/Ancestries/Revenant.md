@@ -122,7 +122,7 @@ Additionally, you have the following signature ability. Signature abilities can 
 
 ###### Detonate Sigil
 
-| **Magic, Ranged, Strike** |                        **Main Action** |
+| **Magic, Ranged, Strike** |                        **Main action** |
 | ------------------------- | -------------------------------------: |
 | **📏 Ranged 10**          | **🎯 One creature bearing your sigil** |
 

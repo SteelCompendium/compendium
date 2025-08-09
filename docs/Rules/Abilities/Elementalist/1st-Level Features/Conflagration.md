@@ -22,7 +22,7 @@ type: feature/ability/elementalist/1st-level-feature
 
 *A storm of fire descends upon your enemies.*
 
-| **Area, Fire, Magic, Ranged** |               **Main Action** |
+| **Area, Fire, Magic, Ranged** |               **Main action** |
 | ----------------------------- | ----------------------------: |
 | **📏 3 cube within 10**       | **🎯 Each enemy in the area** |
 

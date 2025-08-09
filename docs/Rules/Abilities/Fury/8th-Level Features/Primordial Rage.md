@@ -20,6 +20,8 @@ type: feature/ability/fury/8th-level-feature
 
 ###### Primordial Rage (11 Ferocity)
 
+*Your ferocity manifests into primordial power.*
+
 | **Magic**   | **Maneuver** |
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |

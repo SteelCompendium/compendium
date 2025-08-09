@@ -140,7 +140,7 @@ You have the following ability.
 
 *You become an actual shadow.*
 
-| **Magic**   | **Main Action** |
+| **Magic**   | **Main action** |
 | ----------- | --------------: |
 | **📏 Self** |     **🎯 Self** |
 

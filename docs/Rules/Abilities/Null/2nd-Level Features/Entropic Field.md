@@ -20,6 +20,8 @@ type: feature/ability/null/2nd-level-feature
 
 ###### Entropic Field (5 Discipline)
 
+*You drastically increase the local entropy.*
+
 | **Area, Psionic, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 3 cube within 1**    | **🎯 Each enemy in the area** |

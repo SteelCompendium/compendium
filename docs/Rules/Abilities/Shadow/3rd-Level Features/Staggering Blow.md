@@ -20,6 +20,8 @@ type: feature/ability/shadow/3rd-level-feature
 
 ###### Staggering Blow (7 Insight)
 
+*There's no recovering from this.*
+
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
 | **📏 Melee 1 or ranged 5**        | **🎯 One creature** |

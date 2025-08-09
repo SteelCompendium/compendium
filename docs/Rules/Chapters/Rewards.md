@@ -2499,7 +2499,7 @@ Titles suitable for 2nd-echelon characters are presented in alphabetical order.
 
 ###### The Harder They Fall (7 Heroic Resource)
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 

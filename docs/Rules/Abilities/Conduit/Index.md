@@ -29,7 +29,7 @@ type: index
 | [Faith Is Our Armor](../1st-Level%20Features/Faith%20Is%20Our%20Armor)                                   | 5 Piety  | 1     | ability      |
 | [Fate Domain Piety and Effect](../1st-Level%20Features/Fate%20Domain%20Piety%20and%20Effect)             |          | 1     | trait        |
 | [Font of Wrath](../1st-Level%20Features/Font%20of%20Wrath)                                               | 3 Piety  | 1     | ability      |
-| [Grave Speech](../1st-Level%20Features/Grave%20Speech)                                                   |          | 1     | trait        |
+| [Grave Speech](../1st-Level%20Features/Grave%20Speech)                                                   |          | 1     | ability      |
 | [Hands of the Maker](../1st-Level%20Features/Hands%20of%20the%20Maker)                                   |          | 1     | ability      |
 | [Healing Grace](../1st-Level%20Features/Healing%20Grace)                                                 |          | 1     | ability      |
 | [Holy Lash](../1st-Level%20Features/Holy%20Lash)                                                         |          | 1     | ability      |

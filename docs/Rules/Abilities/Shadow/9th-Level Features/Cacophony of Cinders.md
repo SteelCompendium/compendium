@@ -22,7 +22,7 @@ type: feature/ability/shadow/9th-level-feature
 
 *You tumble through the battle, stabbing foes and teleporting allies.*
 
-| **Magic, Melee, Weapon** | **Main Action** |
+| **Magic, Melee, Weapon** | **Main action** |
 | ------------------------ | --------------: |
 | **📏 Self; see below**   |     **🎯 Self** |
 

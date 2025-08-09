@@ -22,7 +22,7 @@ type: feature/ability/censor/8th-level-feature
 
 *You curse your foe to become a bane to their allies.*
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 

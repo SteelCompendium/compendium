@@ -221,7 +221,7 @@ You have the following ability.
 
 You have the following ability.
 
-#### Grave Speech
+###### Grave Speech
 
 *You commune with the lingering soul of the recently dead.*
 
@@ -1007,7 +1007,7 @@ Choose one heroic ability from the following options, each of which costs 9 piet
 
 *You ignite a foe with holy radiance, rewarding allies who attack them.*
 
-| **Magic, Ranged, Strike** |     **Main Action** |
+| **Magic, Ranged, Strike** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Ranged 10**          | **🎯 One creature** |
 

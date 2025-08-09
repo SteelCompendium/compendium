@@ -23,7 +23,7 @@ type: index
 | [Faith Is Our Armor](../Faith%20Is%20Our%20Armor)                                   | 5 Piety | 1     | ability      |
 | [Fate Domain Piety and Effect](../Fate%20Domain%20Piety%20and%20Effect)             |         | 1     | trait        |
 | [Font of Wrath](../Font%20of%20Wrath)                                               | 3 Piety | 1     | ability      |
-| [Grave Speech](../Grave%20Speech)                                                   |         | 1     | trait        |
+| [Grave Speech](../Grave%20Speech)                                                   |         | 1     | ability      |
 | [Hands of the Maker](../Hands%20of%20the%20Maker)                                   |         | 1     | ability      |
 | [Healing Grace](../Healing%20Grace)                                                 |         | 1     | ability      |
 | [Holy Lash](../Holy%20Lash)                                                         |         | 1     | ability      |

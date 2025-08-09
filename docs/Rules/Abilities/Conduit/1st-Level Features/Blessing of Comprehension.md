@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Blessing of Comprehension
 file_dpath: Conduit/1st-Level Features
 item_id: blessing-of-comprehension
-item_index: '26'
+item_index: '25'
 item_name: Blessing of Comprehension
 level: 1
 scc:
   - mcdm.heroes.v1:feature.trait.conduit.1st-level-feature:blessing-of-comprehension
 scdc:
-  - 1.1.1:13.1.8.1:26
+  - 1.1.1:13.1.8.1:25
 source: mcdm.heroes.v1
 type: feature/trait/conduit/1st-level-feature
 ---

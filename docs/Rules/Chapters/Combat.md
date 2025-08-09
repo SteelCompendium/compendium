@@ -565,7 +565,7 @@ A melee weapon free strike is a melee strike made with an unarmed strike or an i
 
 ###### Melee Weapon Free Strike
 
-| **Charge, Melee, Stike, Weapon** |               **Main Action** |
+| **Charge, Melee, Stike, Weapon** |               **Main action** |
 | -------------------------------- | ----------------------------: |
 | **📏 Melee 1**                   | **🎯 One creature or object** |
 
@@ -577,7 +577,7 @@ A melee weapon free strike is a melee strike made with an unarmed strike or an i
 
 ###### Ranged Weapon Free Strike
 
-| **Ranged, Stike, Weapon** |               **Main Action** |
+| **Ranged, Stike, Weapon** |               **Main action** |
 | ------------------------- | ----------------------------: |
 | **📏 Ranged 5**           | **🎯 One creature or object** |
 

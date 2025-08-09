@@ -26,7 +26,7 @@ type: title/2nd-echelon
 
 ###### The Harder They Fall (7 Heroic Resource)
 
-| **Melee, Strike, Weapon** |     **Main Action** |
+| **Melee, Strike, Weapon** |     **Main action** |
 | ------------------------- | ------------------: |
 | **📏 Melee 1**            | **🎯 One creature** |
 
