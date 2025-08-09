@@ -31,3 +31,6 @@ type: index
 | [Arixx](../Arixx/Arixx)                                                              |
 | [Arixx Malice](../Arixx/Features/Arixx%20Malice)                                     |
 | [Arixx](../Arixx/Statblocks/Arixx)                                                   |
+| [Ashen Hoarder](../Ashen%20Hoarder/Ashen%20Hoarder)                                  |
+| [Ashen Hoarder Malice](../Ashen%20Hoarder/Features/Ashen%20Hoarder%20Malice)         |
+| [Ashen Hoarder](../Ashen%20Hoarder/Statblocks/Ashen%20Hoarder)                       |

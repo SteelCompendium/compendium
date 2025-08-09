@@ -2,12 +2,12 @@
 file_basename: Angulotl Wave
 file_dpath: Monsters/Angulotls/Statblocks
 item_id: angulotl-wave
-item_index: '06'
+item_index: '07'
 item_name: Angulotl Wave
 scc:
   - mcdm.monsters.v1:monster:angulotl-wave
 scdc:
-  - 1.1.1:2:06
+  - 1.1.1:2:07
 source: mcdm.monsters.v1
 type: monster
 ---
