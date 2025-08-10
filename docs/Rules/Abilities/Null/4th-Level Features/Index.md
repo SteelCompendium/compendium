@@ -7,7 +7,6 @@ type: index
 
 | File Name                                                               | Cost         | Level | Feature Type |
 | ----------------------------------------------------------------------- | ------------ | ----- | ------------ |
-| [5th Level Tradition Feature](../5th%20Level%20Tradition%20Feature)     |              | 4     | trait        |
 | [Anticipating Strike](../Anticipating%20Strike)                         | 9 Discipline | 4     | ability      |
 | [Characteristic Increase](../Characteristic%20Increase)                 |              | 4     | trait        |
 | [Chilling Readiness](../Chilling%20Readiness)                           |              | 4     | trait        |

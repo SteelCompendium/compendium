@@ -4510,7 +4510,7 @@ For example a 6th-level censor has "Signature, 3, 5, 7, 9" in their Abilities co
 
 ## Censor
 
-Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions-or even existence-are anathema to your church.\*\*
+Demons and deathless fear you. Criminals run from the sight of your shadow. Agents of chaos, blasphemers, and heretics tremble at the sound of your voice. You carry the power of the gods, armed with wrath and sent out into the world first to seek, then censor those whose actions-or even existence-are anathema to your church.
 
 As a censor, you're at your best against the strongest foes. Your judgment terrifies heretics, stops enemies in their tracks, and even hurls them across the battlefield.
 
@@ -4620,7 +4620,8 @@ Additionally, you can spend 1 wrath to take one of the following free triggered 
 - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
 - If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn.
-    You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
+
+You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
 
 ##### Judgment Order Benefit
 
@@ -7271,7 +7272,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 | **Magic, Ranged** |    **Maneuver** |
 | ----------------- | --------------: |
-| **📏 Ranged 10**  | **🎯 one ally** |
+| **📏 Ranged 10**  | **🎯 One ally** |
 
 **Effect:** The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource.
 
@@ -7461,7 +7462,7 @@ You gain one skill of your choice.
 
 ## Elementalist
 
-Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.\*\*
+Air for movement. Earth for permanence. Fire for destruction. Water for change. Green for growth. Rot for death. Void for the mystery that which cannot be known. Years of study and practice and poring over tomes brought you the revelations that allow you to manipulate these building blocks of reality. Now you use your mastery of the seven elements to destroy, create, and warp the world with magic.
 
 **As an elementalist, you can unleash your wrath across a field of foes, debilitate enemies, ward yourself and allies, manipulate terrain, warp space, and more. Your elemental specialization determines which of these talents you excel at.**
 
@@ -7614,7 +7615,7 @@ You have the following ability.
 
 Your elemental specialization grants you a feature, as shown on the 1st-Level Elemental Specialization Features table.
 
-#### 1st-Level Elemental Specialization Features
+#### 1st-Level Elemental Specialization Features Table
 
 | Specialization | Feature                    |
 | -------------- | -------------------------- |
@@ -9258,9 +9259,9 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 *You unleash a howl that hurls your enemies back.*
 
-| **Area, Melee, Weapon**  |               **Main action** |
-| ------------------------ | ----------------------------: |
-| **📏 5x1 line within 1** | **🎯 Each enemy in the area** |
+| **Area, Melee, Weapon**    |               **Main action** |
+| -------------------------- | ----------------------------: |
+| **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
 
 **Effect:** The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
 
@@ -10986,6 +10987,8 @@ As a 5th-level null, you gain the following features.
 
 Your null tradition grants you a feature, as shown on the 5th-Level Tradition Features table.
 
+###### 5th-Level Tradition Features Table
+
 | Tradition     | Feature            |
 | ------------- | ------------------ |
 | Chronokinetic | Instant Action     |
@@ -11606,7 +11609,7 @@ You have the following ability.
 
 | **Magic**   | **Maneuver** |
 | ----------- | -----------: |
-| **📏 Self** |  \*\*🎯 Self |
+| **📏 Self** |  **🎯 Self** |
 
 **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can shift.
 
@@ -11636,7 +11639,7 @@ Your shadow college grants you a triggered action, as shown on the College Trigg
 
 | **Magic**   | **Triggered** |
 | ----------- | ------------: |
-| **📏 Self** |   \*\*🎯 Self |
+| **📏 Self** |   **🎯 Self** |
 
 **Trigger:** An enemy targets you with a strike.
 
@@ -11662,7 +11665,7 @@ Your shadow college grants you a triggered action, as shown on the College Trigg
 
 | **Magic**   | **Triggered** |
 | ----------- | ------------: |
-| **📏 Self** |   \*\*🎯 Self |
+| **📏 Self** |   **🎯 Self** |
 
 **Trigger:** You take damage.
 
@@ -11882,7 +11885,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 
 | **Magic, Melee, Ranged** | **Main action** |
 | ------------------------ | --------------: |
-| **📏 Self; see below 5** |     **🎯 Self** |
+| **📏 Self; see below**   |     **🎯 Self** |
 
 **Effect:** You use a strike signature ability twice.
 
@@ -11898,12 +11901,13 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 Your shadow college grants you a feature, as shown on the 2nd-Level College Features table.
 
-| 2nd-Level College Features |                  |
-| -------------------------- | ---------------- |
-| College                    | Feature          |
-| Black Ash                  | Burning Ash      |
-| Caustic Alchemy            | Trained Assassin |
-| Harlequin Mask             | Friend!          |
+###### 2nd-Level College Features Table
+
+| College         | Feature          |
+| --------------- | ---------------- |
+| Black Ash       | Burning Ash      |
+| Caustic Alchemy | Trained Assassin |
+| Harlequin Mask  | Friend!          |
 
 ##### Burning Ash
 
@@ -20793,9 +20797,7 @@ Many downtime projects have one or more special items you must possess or obtain
 
 To start a downtime project, you must have access to specific lore detailing how the project is to be undertaken. This can take the form of written information (a book, scroll, schematic, and so forth), an expert tutor with wisdom to share, a master artisan with skills to teach, a supernatural manifestation of the project's scope and secrets, or any other form of the Director's determination. This project-focused lore is referred to as a project source. Not only do you need project sources to start a downtime project, but you must have access to those sources whenever you make a project roll for that particular project (see [Project Roll](#page-307-1) below).
 
-Some project sources are relatively easy to find. Building a castle doesn't require tomes filled with ancient lore, but it's also not something every stonemason knows how to do. However, the location of the tomb of Ashrya, the mummified protector of one hundred slumbering
-
-sorcerer-sovereigns, might exist only in a single tome that requires an accompanying adventure to unearth.
+Some project sources are relatively easy to find. Building a castle doesn't require tomes filled with ancient lore, but it's also not something every stonemason knows how to do. However, the location of the tomb of Ashrya, the mummified protector of one hundred slumbering sorcerer-sovereigns, might exist only in a single tome that requires an accompanying adventure to unearth.
 
 The language with which project sources are set down or can be shared is chosen by the Director. The sample projects below have suggestions using languages in Orden (see that section in [Chapter 4: Background](#page-67-0)), though you might be able to find a version of a source in other languages as well.
 
@@ -20829,9 +20831,7 @@ If you know the language of a project source, you can make a project roll withou
 
 #### Guides
 
-Heroes sometimes find guides-special books, schematics, knowledgeable NPCs, supernatural recordings, and so forth-providing important and easy-to-understand information relating to a downtime project. Each guide has a knowledge value and a connection to a specific project
-
-that greatly decreases the time required to complete the project. When a hero studies a guide as a respite activity, they gain the guide's knowledge value as project points toward its project. The guide can't be used with that specific instance of the project again, though it can be used for a different project of the same type.
+Heroes sometimes find guides-special books, schematics, knowledgeable NPCs, supernatural recordings, and so forth-providing important and easy-to-understand information relating to a downtime project. Each guide has a knowledge value and a connection to a specific project that greatly decreases the time required to complete the project. When a hero studies a guide as a respite activity, they gain the guide's knowledge value as project points toward its project. The guide can't be used with that specific instance of the project again, though it can be used for a different project of the same type.
 
 Guides are awarded at the Director's discretion, usually as a tool that can be used to increase the speed of complex projects for campaigns with little downtime. For example, the Build Airship downtime project has a project goal of 3,000, requiring a fair bit of downtime. But if a hero finds a manual that describes how to craft an airship and grants them 1,000 or more project points toward the Build Airship project, the crafting time can be significantly reduced.
 

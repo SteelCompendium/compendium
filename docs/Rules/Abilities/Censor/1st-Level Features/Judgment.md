@@ -30,4 +30,6 @@ Whenever a creature judged by you uses a main action and is within your line of 
 - When an adjacent creature judged by you starts to shift, you make a melee free strike against them and their speed becomes 0 until the end of the current turn, preventing them from shifting.
 - When a creature judged by you within 10 squares makes a power roll, you cause them to take a bane on the roll.
 - When a creature judged by you within 10 squares uses an ability with a potency that targets only one creature, the potency is reduced by 1 for that creature.
-- If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn. You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.
+- If you damage a creature judged by you with a melee ability, the creature is taunted by you until the end of their next turn.
+
+You can choose only one free triggered action option at a time, even if multiple options are triggered by the same effect.

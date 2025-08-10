@@ -21,7 +21,7 @@ type: feature/ability/shadow/1st-level-feature
 
 | **Magic**   | **Triggered** |
 | ----------- | ------------: |
-| **📏 Self** |   \*\*🎯 Self |
+| **📏 Self** |   **🎯 Self** |
 
 **Trigger:** You take damage.
 

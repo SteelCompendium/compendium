@@ -393,9 +393,9 @@ Choose one heroic ability from the following options, each of which costs 5 fero
 
 *You unleash a howl that hurls your enemies back.*
 
-| **Area, Melee, Weapon**  |               **Main action** |
-| ------------------------ | ----------------------------: |
-| **📏 5x1 line within 1** | **🎯 Each enemy in the area** |
+| **Area, Melee, Weapon**    |               **Main action** |
+| -------------------------- | ----------------------------: |
+| **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
 
 **Effect:** The targets are force moved one at a time, starting with the target nearest to you, and can be pushed into other targets in the same line.
 

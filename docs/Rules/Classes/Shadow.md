@@ -148,7 +148,7 @@ You have the following ability.
 
 | **Magic**   | **Maneuver** |
 | ----------- | -----------: |
-| **📏 Self** |  \*\*🎯 Self |
+| **📏 Self** |  **🎯 Self** |
 
 **Effect:** You envelop yourself in an illusion that makes you appear nonthreatening and harmless to your enemies. You might take on the appearance of a harmless animal of your size, such as a sheep or capybara, or you might appear as a less heroic and unarmed version of yourself. While this illusion lasts, your strikes gain an edge, and when you take the Disengage move action, you gain a +1 bonus to the distance you can shift.
 
@@ -178,7 +178,7 @@ Your shadow college grants you a triggered action, as shown on the College Trigg
 
 | **Magic**   | **Triggered** |
 | ----------- | ------------: |
-| **📏 Self** |   \*\*🎯 Self |
+| **📏 Self** |   **🎯 Self** |
 
 **Trigger:** An enemy targets you with a strike.
 
@@ -204,7 +204,7 @@ Your shadow college grants you a triggered action, as shown on the College Trigg
 
 | **Magic**   | **Triggered** |
 | ----------- | ------------: |
-| **📏 Self** |   \*\*🎯 Self |
+| **📏 Self** |   **🎯 Self** |
 
 **Trigger:** You take damage.
 
@@ -424,7 +424,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 
 | **Magic, Melee, Ranged** | **Main action** |
 | ------------------------ | --------------: |
-| **📏 Self; see below 5** |     **🎯 Self** |
+| **📏 Self; see below**   |     **🎯 Self** |
 
 **Effect:** You use a strike signature ability twice.
 
@@ -440,12 +440,13 @@ You gain one exploration, interpersonal, or intrigue perk of your choice. See Ch
 
 Your shadow college grants you a feature, as shown on the 2nd-Level College Features table.
 
-| 2nd-Level College Features |                  |
-| -------------------------- | ---------------- |
-| College                    | Feature          |
-| Black Ash                  | Burning Ash      |
-| Caustic Alchemy            | Trained Assassin |
-| Harlequin Mask             | Friend!          |
+###### 2nd-Level College Features Table
+
+| College         | Feature          |
+| --------------- | ---------------- |
+| Black Ash       | Burning Ash      |
+| Caustic Alchemy | Trained Assassin |
+| Harlequin Mask  | Friend!          |
 
 ##### Burning Ash
 

@@ -55,7 +55,6 @@ type: index
 | [Reorder](../3rd-Level%20Features/Reorder)                                                    |               | 3     | trait        |
 | [Stabilizing Field](../3rd-Level%20Features/Stabilizing%20Field)                              | 7 Discipline  | 3     | ability      |
 | [Synapse Field](../3rd-Level%20Features/Synapse%20Field)                                      | 7 Discipline  | 3     | ability      |
-| [5th Level Tradition Feature](../4th-Level%20Features/5th%20Level%20Tradition%20Feature)      |               | 4     | trait        |
 | [Anticipating Strike](../4th-Level%20Features/Anticipating%20Strike)                          | 9 Discipline  | 4     | ability      |
 | [Characteristic Increase](../4th-Level%20Features/Characteristic%20Increase)                  |               | 4     | trait        |
 | [Chilling Readiness](../4th-Level%20Features/Chilling%20Readiness)                            |               | 4     | trait        |

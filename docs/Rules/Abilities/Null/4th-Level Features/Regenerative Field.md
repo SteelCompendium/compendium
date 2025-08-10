@@ -4,13 +4,13 @@ feature_type: trait
 file_basename: Regenerative Field
 file_dpath: Null/4th-Level Features
 item_id: regenerative-field
-item_index: 09
+item_index: 08
 item_name: Regenerative Field
 level: 4
 scc:
   - mcdm.heroes.v1:feature.trait.null.4th-level-feature:regenerative-field
 scdc:
-  - 1.1.1:13.1.6.9:09
+  - 1.1.1:13.1.6.9:08
 source: mcdm.heroes.v1
 type: feature/trait/null/4th-level-feature
 ---

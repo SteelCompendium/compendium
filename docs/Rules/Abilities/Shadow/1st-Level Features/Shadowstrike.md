@@ -24,6 +24,6 @@ type: feature/ability/shadow/1st-level-feature
 
 | **Magic, Melee, Ranged** | **Main action** |
 | ------------------------ | --------------: |
-| **📏 Self; see below 5** |     **🎯 Self** |
+| **📏 Self; see below**   |     **🎯 Self** |
 
 **Effect:** You use a strike signature ability twice.

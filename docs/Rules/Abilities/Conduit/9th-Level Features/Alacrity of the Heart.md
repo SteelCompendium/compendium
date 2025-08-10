@@ -24,6 +24,6 @@ type: feature/ability/conduit/9th-level-feature
 
 | **Magic, Ranged** |    **Maneuver** |
 | ----------------- | --------------: |
-| **📏 Ranged 10**  | **🎯 one ally** |
+| **📏 Ranged 10**  | **🎯 One ally** |
 
 **Effect:** The target has an additional main action they can use on their next turn, and gains 3 of their Heroic Resource.
