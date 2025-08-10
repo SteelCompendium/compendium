@@ -58,7 +58,7 @@ type: monster
 > **Effect:** Myxovidan and the target shift to swap places.
 
 <!-- -->
-> ❗️ **Anyone Can Do That 2 Malice**
+> ❗️ **Anyone Can Do That (2 Malice)**
 >
 > | **-**       | **Triggered action** |
 > | ----------- | -------------------: |

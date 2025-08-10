@@ -17,7 +17,7 @@ type: monster/feature
 At the start of any draconian's turn, you can spend Malice to activate one of the following features.
 
 <!-- -->
-> 👤 **Guarding Gale 3 Malice**
+> 👤 **Guarding Gale (3 Malice)**
 >
 > A draconian acting this turn flaps their wings and creates a mighty gale. Each creature adjacent to the draconian is pushed up to 4 squares, and if they have M < 2, , they are knocked prone.
 

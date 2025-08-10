@@ -32,6 +32,6 @@ At the start of a bredbeddle's turn, you can spend Malice to activate one of the
 > The bredbeddle takes an additional main action on their turn. They can use this feature even if they are dazed.
 
 <!-- -->
-> 🌀 **Green Phantom 7 Malice**
+> 🌀 **Green Phantom (7 Malice)**
 >
 > A phantom second bredbeddle phases into view, appearing in an unoccupied space anywhere on the encounter map, then vanishing at the end of the round. The phantom bredbeddle shares the original bredbeddle's statistics but has 24 Stamina, corruption immunity 10, and can fly. The phantom bredbeddle can take one turn and use any of the bredbeddle's abilities except for villain actions. Only one phantom bredbeddle can be active at a time.

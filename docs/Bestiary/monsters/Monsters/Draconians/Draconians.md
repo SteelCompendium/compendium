@@ -2,12 +2,12 @@
 file_basename: Draconians
 file_dpath: Monsters/Draconians
 item_id: draconians
-item_index: '11'
+item_index: '12'
 item_name: Draconians
 scc:
   - mcdm.monsters.v1:monster.section:draconians
 scdc:
-  - 1.1.1:2.1:11
+  - 1.1.1:2.1:12
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -51,7 +51,7 @@ Most draconians speak Caelian in addition to the languages of their employers an
 At the start of any draconian's turn, you can spend Malice to activate one of the following features.
 
 <!-- -->
-> 👤 **Guarding Gale 3 Malice**
+> 👤 **Guarding Gale (3 Malice)**
 >
 > A draconian acting this turn flaps their wings and creates a mighty gale. Each creature adjacent to the draconian is pushed up to 4 squares, and if they have M < 2, , they are knocked prone.
 
@@ -331,7 +331,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 > **Effect:** Myxovidan and the target shift to swap places.
 
 <!-- -->
-> ❗️ **Anyone Can Do That 2 Malice**
+> ❗️ **Anyone Can Do That (2 Malice)**
 >
 > | **-**       | **Triggered action** |
 > | ----------- | -------------------: |
@@ -390,7 +390,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 > **Effect:** Phrrygalax flies up to his speed and lands in an unoccupied space on the ground. Each creature adjacent to where he lands who has A < 2 is knocked prone.
 
 <!-- -->
-> ❗️ **Armor of the Ancients 2 Malice**
+> ❗️ **Armor of the Ancients (2 Malice)**
 >
 > | **-**       | **Triggered action** |
 > | ----------- | -------------------: |

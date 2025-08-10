@@ -56,7 +56,7 @@ type: monster
 > **Effect:** Phrrygalax flies up to his speed and lands in an unoccupied space on the ground. Each creature adjacent to where he lands who has A < 2 is knocked prone.
 
 <!-- -->
-> ❗️ **Armor of the Ancients 2 Malice**
+> ❗️ **Armor of the Ancients (2 Malice)**
 >
 > | **-**       | **Triggered action** |
 > | ----------- | -------------------: |

@@ -2,12 +2,12 @@
 file_basename: Angulotls
 file_dpath: Monsters/Angulotls
 item_id: angulotls
-item_index: '06'
+item_index: '07'
 item_name: Angulotls
 scc:
   - mcdm.monsters.v1:monster.section:angulotls
 scdc:
-  - 1.1.1:2.1:06
+  - 1.1.1:2.1:07
 source: mcdm.monsters.v1
 type: monster/section
 ---
