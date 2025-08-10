@@ -2,12 +2,12 @@
 file_basename: Devil High Judge
 file_dpath: Monsters/Devils/Statblocks
 item_id: devil-high-judge
-item_index: '62'
+item_index: '68'
 item_name: Devil High Judge
 scc:
   - mcdm.monsters.v1:monster:devil-high-judge
 scdc:
-  - 1.1.1:2:62
+  - 1.1.1:2:68
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -102,7 +102,7 @@ type: monster
 > **Effect:** Each target shifts up to their speed. The high judge can make each creature charmed by All Rise, Compel the Jury, or Devilish Suggestion move up to half that creature's speed.
 
 <!-- -->
-> ☠️ \*\*Deceptive Stratagem (Villain Action 3\*)\*
+> ☠️ **Deceptive Stratagem (Villain Action 3)**
 >
 > | **Magic, Ranged** |               **-** |
 > | ----------------- | ------------------: |

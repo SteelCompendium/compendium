@@ -2,12 +2,12 @@
 file_basename: Wobalas
 file_dpath: Monsters/Demons/Statblocks
 item_id: wobalas
-item_index: '21'
+item_index: '27'
 item_name: Wobalas
 scc:
   - mcdm.monsters.v1:monster:wobalas
 scdc:
-  - 1.1.1:2:21
+  - 1.1.1:2:27
 source: mcdm.monsters.v1
 type: monster
 ---

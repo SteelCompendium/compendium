@@ -548,7 +548,7 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > **Effect:** Each target shifts up to their speed. The high judge can make each creature charmed by All Rise, Compel the Jury, or Devilish Suggestion move up to half that creature's speed.
 
 <!-- -->
-> ☠️ \*\*Deceptive Stratagem (Villain Action 3\*)\*
+> ☠️ **Deceptive Stratagem (Villain Action 3)**
 >
 > | **Magic, Ranged** |               **-** |
 > | ----------------- | ------------------: |

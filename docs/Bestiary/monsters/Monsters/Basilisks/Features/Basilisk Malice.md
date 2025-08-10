@@ -2,12 +2,12 @@
 file_basename: Basilisk Malice
 file_dpath: Monsters/Basilisks/Features
 item_id: basilisk-malice
-item_index: '11'
+item_index: '12'
 item_name: Basilisk Malice
 scc:
   - mcdm.monsters.v1:monster.feature:basilisk-malice
 scdc:
-  - 1.1.1:2.2:11
+  - 1.1.1:2.2:12
 source: mcdm.monsters.v1
 type: monster/feature
 ---
@@ -22,7 +22,7 @@ At the start of any basilisk's turn, you can spend Malice to activate one of the
 > A basilisk acting this turn can burrow until the start of their next turn, and moves up to their speed. They have damage immunity 2 while underground. The basilisk can burrow through stone, but can't drag other creatures underground when they do so. At the start of each of the basilisk's turns, the Director can spend 1 Malice to let the basilisk continue burrowing.
 
 <!-- -->
-> 🔳 \*\*Upchuck (5 Malice\*)\*
+> 🔳 **Upchuck (5 Malice)**
 >
 > | **Area, Weapon**        |               **Main action** |
 > | ----------------------- | ----------------------------: |

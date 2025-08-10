@@ -98,3 +98,11 @@ type: index
 | [Devil Magistrate](../Devils/Statblocks/Devil%20Magistrate)                          |
 | [Devil Notary](../Devils/Statblocks/Devil%20Notary)                                  |
 | [Devil Scrivener](../Devils/Statblocks/Devil%20Scrivener)                            |
+| [Draconians](../Draconians/Draconians)                                               |
+| [Draconian Malice](../Draconians/Features/Draconian%20Malice)                        |
+| [Aeolyxria the Uncanny](../Draconians/Statblocks/Aeolyxria%20the%20Uncanny)          |
+| [Dorzinuuth the Base](../Draconians/Statblocks/Dorzinuuth%20the%20Base)              |
+| [Locratix the Morningstar](../Draconians/Statblocks/Locratix%20the%20Morningstar)    |
+| [Lydixavus the Deadeye](../Draconians/Statblocks/Lydixavus%20the%20Deadeye)          |
+| [Myxovidan the Sintaker](../Draconians/Statblocks/Myxovidan%20the%20Sintaker)        |
+| [Phrrygalax the Subduer](../Draconians/Statblocks/Phrrygalax%20the%20Subduer)        |

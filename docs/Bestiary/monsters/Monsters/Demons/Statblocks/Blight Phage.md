@@ -2,12 +2,12 @@
 file_basename: Blight Phage
 file_dpath: Monsters/Demons/Statblocks
 item_id: blight-phage
-item_index: '49'
+item_index: '55'
 item_name: Blight Phage
 scc:
   - mcdm.monsters.v1:monster:blight-phage
 scdc:
-  - 1.1.1:2:49
+  - 1.1.1:2:55
 source: mcdm.monsters.v1
 type: monster
 ---

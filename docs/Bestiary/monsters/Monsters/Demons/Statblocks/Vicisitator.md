@@ -2,12 +2,12 @@
 file_basename: Vicisitator
 file_dpath: Monsters/Demons/Statblocks
 item_id: vicisitator
-item_index: '30'
+item_index: '36'
 item_name: Vicisitator
 scc:
   - mcdm.monsters.v1:monster:vicisitator
 scdc:
-  - 1.1.1:2:30
+  - 1.1.1:2:36
 source: mcdm.monsters.v1
 type: monster
 ---
