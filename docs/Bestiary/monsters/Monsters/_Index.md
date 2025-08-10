@@ -53,3 +53,48 @@ type: index
 | [Chimera](../Chimera/Chimera)                                                        |
 | [Chimera Malice](../Chimera/Features/Chimera%20Malice)                               |
 | [Chimera](../Chimera/Statblocks/Chimera)                                             |
+| [Demons](../Demons/Demons)                                                           |
+| [Demon Malice](../Demons/Features/Demon%20Malice)                                    |
+| [Aurumvas](../Demons/Statblocks/Aurumvas)                                            |
+| [Bale Eye](../Demons/Statblocks/Bale%20Eye)                                          |
+| [Bendrak](../Demons/Statblocks/Bendrak)                                              |
+| [Blight Phage](../Demons/Statblocks/Blight%20Phage)                                  |
+| [Chimeron](../Demons/Statblocks/Chimeron)                                            |
+| [Chorogaunt](../Demons/Statblocks/Chorogaunt)                                        |
+| [Ensnarer](../Demons/Statblocks/Ensnarer)                                            |
+| [Fangling](../Demons/Statblocks/Fangling)                                            |
+| [Fiktin](../Demons/Statblocks/Fiktin)                                                |
+| [Frenzied](../Demons/Statblocks/Frenzied)                                            |
+| [Grulqin](../Demons/Statblocks/Grulqin)                                              |
+| [Gunge](../Demons/Statblocks/Gunge)                                                  |
+| [Izyak](../Demons/Statblocks/Izyak)                                                  |
+| [Lumbering Egress](../Demons/Statblocks/Lumbering%20Egress)                          |
+| [Muceron](../Demons/Statblocks/Muceron)                                              |
+| [Optacus](../Demons/Statblocks/Optacus)                                              |
+| [Orliq](../Demons/Statblocks/Orliq)                                                  |
+| [Pitling](../Demons/Statblocks/Pitling)                                              |
+| [Remasch](../Demons/Statblocks/Remasch)                                              |
+| [Ruinant](../Demons/Statblocks/Ruinant)                                              |
+| [Soulraker Handmaiden](../Demons/Statblocks/Soulraker%20Handmaiden)                  |
+| [Soulraker Hivequeen](../Demons/Statblocks/Soulraker%20Hivequeen)                    |
+| [Soulraker Praetorian](../Demons/Statblocks/Soulraker%20Praetorian)                  |
+| [Soulraker Scout](../Demons/Statblocks/Soulraker%20Scout)                            |
+| [Soulraker Soldier](../Demons/Statblocks/Soulraker%20Soldier)                        |
+| [Soulraker Stinger](../Demons/Statblocks/Soulraker%20Stinger)                        |
+| [Styrich](../Demons/Statblocks/Styrich)                                              |
+| [Torlas](../Demons/Statblocks/Torlas)                                                |
+| [Tormenauk](../Demons/Statblocks/Tormenauk)                                          |
+| [Tyburaki](../Demons/Statblocks/Tyburaki)                                            |
+| [Unguloid](../Demons/Statblocks/Unguloid)                                            |
+| [Vicisitator](../Demons/Statblocks/Vicisitator)                                      |
+| [Wobalas](../Demons/Statblocks/Wobalas)                                              |
+| [Devils](../Devils/Devils)                                                           |
+| [Devil Malice](../Devils/Features/Devil%20Malice)                                    |
+| [Devil Adjudicator](../Devils/Statblocks/Devil%20Adjudicator)                        |
+| [Devil Clerk](../Devils/Statblocks/Devil%20Clerk)                                    |
+| [Devil High Judge](../Devils/Statblocks/Devil%20High%20Judge)                        |
+| [Devil Jurist](../Devils/Statblocks/Devil%20Jurist)                                  |
+| [Devil Legate](../Devils/Statblocks/Devil%20Legate)                                  |
+| [Devil Magistrate](../Devils/Statblocks/Devil%20Magistrate)                          |
+| [Devil Notary](../Devils/Statblocks/Devil%20Notary)                                  |
+| [Devil Scrivener](../Devils/Statblocks/Devil%20Scrivener)                            |
