@@ -2,12 +2,12 @@
 file_basename: Omen Dragon
 file_dpath: Monsters/Dragons/Statblocks
 item_id: omen-dragon
-item_index: '76'
+item_index: '81'
 item_name: Omen Dragon
 scc:
   - mcdm.monsters.v1:monster:omen-dragon
 scdc:
-  - 1.1.1:2:76
+  - 1.1.1:2:81
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -30,12 +30,12 @@ type: monster
 <!-- -->
 > ⭐️ **Deathcount**
 >
-> Several of the dragon's abilities impose a Deathcount on a target. At the end of every turn, a creature with a Deathcount who is within the area of the dragon's Stagnant Wyrmscale Aura has that Deathcount reduced by 1. When a creature's Deathcount hits 0, they die. If multiple Deathcounts are imposed on a creature, they don't stack. Only the lowest Deathcount takes effect. All Death- counts are lost when the dragon is reduced to 0 Stamina.
+> Several of the dragon's abilities impose a Deathcount on a target. At the end of every turn, a creature with a Deathcount who is within the area of the dragon's Stagnant Wyrmscale Aura has that Deathcount reduced by 1. When a creature's Deathcount hits 0, they die. If multiple Deathcounts are imposed on a creature, they don't stack. Only the lowest Deathcount takes effect. All Deathcounts are lost when the dragon is reduced to 0 Stamina.
 
 <!-- -->
 > ❇️ **Stagnant Wyrmscale Aura**
 >
-> The dragon's scales create a 4 aura of supernatural stagnancy around them. The area is difficult terrain for enemies, and no crea- ture except the omen dragon can regain Stamina while in the area. Any creature dragonsealed by the omen dragon who starts their turn in the dragon's aura and doesn't have a Deathcount gains a Deathcount of 12.
+> The dragon's scales create a 4 aura of supernatural stagnancy around them. The area is difficult terrain for enemies, and no creature except the omen dragon can regain Stamina while in the area. Any creature dragonsealed by the omen dragon who starts their turn in the dragon's aura and doesn't have a Deathcount gains a Deathcount of 12.
 
 <!-- -->
 > 🔳 **Corroding Breath (Signature Ability)**
@@ -79,7 +79,7 @@ type: monster
 > | --------------- | ----------------------------: |
 > | **📏 10 burst** | **🎯 Each enemy in the area** |
 >
-> **Effect:** Each target must be dragonsealed. Each target takes 9 corrup- tion damage, and the omen dragon regains Stamina equal to half the total damage dealt. The target then loses their dragonseal.
+> **Effect:** Each target must be dragonsealed. Each target takes 9 corruption damage, and the omen dragon regains Stamina equal to half the total damage dealt. The target then loses their dragonseal.
 
 <!-- -->
 > ❗️ **Don't Turn Away (1 Malice)**
@@ -88,9 +88,9 @@ type: monster
 > | ----------- | ------------------------: |
 > | **📏 Self** |               **🎯 Self** |
 >
-> **Trigger:** A creature leaves the area of the dragon's Stagnant Wyrms- cale Aura trait.
+> **Trigger:** A creature leaves the area of the dragon's Stagnant Wyrmscale Aura trait.
 >
-> **Effect:** The dragon shifts up to their speed, and the Deathcount of each dragonsealed creature who comes adjacent to the dragon dur- ing this shift is reduced by 1.
+> **Effect:** The dragon shifts up to their speed, and the Deathcount of each dragonsealed creature who comes adjacent to the dragon during this shift is reduced by 1.
 
 <!-- -->
 > ❗️ **Repent! (2 Malice)**
@@ -144,7 +144,7 @@ type: monster
 
 ###### Omen Dragon Malice
 
-At the start of an omen dragon's turn, you can spend Malice to acti- vate one of the following features.
+At the start of an omen dragon's turn, you can spend Malice to activate one of the following features.
 
 <!-- -->
 > ⭐️ **Black Skies (3 Malice)**
@@ -154,7 +154,7 @@ At the start of an omen dragon's turn, you can spend Malice to acti- vate one of
 <!-- -->
 > ❇️ **Rise and Fall (5 Malice)**
 >
-> The dragon flies up to 10 squares and carries fated souls with them. Each creature in the area of the dragon's Stagnant Wyrms- cale Aura trait makes a **Presence test**.
+> The dragon flies up to 10 squares and carries fated souls with them. Each creature in the area of the dragon's Stagnant Wyrmscale Aura trait makes a **Presence test**.
 >
 > - **≤11:** Vertical pull 10
 > - **12-16:** Vertical pull 6

@@ -2,12 +2,12 @@
 file_basename: Demons
 file_dpath: Monsters/Demons
 item_id: demons
-item_index: '06'
+item_index: '07'
 item_name: Demons
 scc:
   - mcdm.monsters.v1:monster.section:demons
 scdc:
-  - 1.1.1:2.1:06
+  - 1.1.1:2.1:07
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -1458,7 +1458,7 @@ At the start of any level 10 or higher demon's turn, you can spend Malice to act
 > - **12-16:** 7 damage
 > - **17+:** 9 damage
 >
-> **Effect:** The tyburaki can make a free strike against each enemy adja- cent to the target.
+> **Effect:** The tyburaki can make a free strike against each enemy adjacent to the target.
 
 <!-- -->
 > ⭐️ **Breacher**
@@ -1586,7 +1586,7 @@ At the start of any level 10 or higher demon's turn, you can spend Malice to act
 > - **12-16:** 7 psychic damage; P < 4 bleeding (save ends)
 > - **17+:** 9 psychic damage; P < 5 bleeding (save ends)
 >
-> **Effect:** Any creature who is bleeding from this ability loses 2d6 Stam- ina instead of 1d6.
+> **Effect:** Any creature who is bleeding from this ability loses 2d6 Stamina instead of 1d6.
 
 <!-- -->
 > ⭐️ **Lethe**

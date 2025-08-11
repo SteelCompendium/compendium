@@ -317,7 +317,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 > - **12-16:** 10 damage; slide 1
 > - **17+:** 13 damage; slide 1
 >
-> **Effect:** The shieldwall can shift 1 square to remain adjacent to the tar- get. A target restrained by a dwarf can be force moved by this ability. This forced movement doesn't end the restrained condition unless the Director determines otherwise.
+> **Effect:** The shieldwall can shift 1 square to remain adjacent to the target. A target restrained by a dwarf can be force moved by this ability. This forced movement doesn't end the restrained condition unless the Director determines otherwise.
 >
 > **3 Malice:** This ability targets one additional target.
 
@@ -561,7 +561,7 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 > - **12-16:** 9 damage
 > - **17+:** 12 damage; M < 2 restrained (save ends)
 >
-> **Effect:** A target already restrained or restrained by this ability is pulled up to 3 squares. A target restrained by a dwarf can be force moved by this ability. This forced movement doesn't end the restrained condi- tion unless the Director determines otherwise.
+> **Effect:** A target already restrained or restrained by this ability is pulled up to 3 squares. A target restrained by a dwarf can be force moved by this ability. This forced movement doesn't end the restrained condition unless the Director determines otherwise.
 
 <!-- -->
 > ❇️ **Stunning Blast (3 Malice)**

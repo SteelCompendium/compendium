@@ -2,12 +2,12 @@
 file_basename: Dwarf Shieldwall
 file_dpath: Monsters/Dwarves/Statblocks
 item_id: dwarf-shieldwall
-item_index: '89'
+item_index: '94'
 item_name: Dwarf Shieldwall
 scc:
   - mcdm.monsters.v1:monster:dwarf-shieldwall
 scdc:
-  - 1.1.1:2:89
+  - 1.1.1:2:94
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -33,7 +33,7 @@ type: monster
 > - **12-16:** 10 damage; slide 1
 > - **17+:** 13 damage; slide 1
 >
-> **Effect:** The shieldwall can shift 1 square to remain adjacent to the tar- get. A target restrained by a dwarf can be force moved by this ability. This forced movement doesn't end the restrained condition unless the Director determines otherwise.
+> **Effect:** The shieldwall can shift 1 square to remain adjacent to the target. A target restrained by a dwarf can be force moved by this ability. This forced movement doesn't end the restrained condition unless the Director determines otherwise.
 >
 > **3 Malice:** This ability targets one additional target.
 

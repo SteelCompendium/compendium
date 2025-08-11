@@ -38,4 +38,4 @@ At the start of an arixx's turn, you can spend Malice to activate one of the fol
 <!-- -->
 > 🌀 **Earth Sink (7 Malice)**
 >
-> The encounter map suddenly quakes, then begins to sink. Each creature on the ground who has a < 1 is knocked prone. Until the end of the encounter, each creature who starts their turn on the ground and can't burrow must spend 1 additional square of movement to leave their starting position, or 2 squares if they start their turn prone or underground. A creature who starts and ends their turn in the same space on the ground and can't burrow sinks 1 square into the ground.
+> The encounter map suddenly quakes, then begins to sink. Each creature on the ground who has A < 1 is knocked prone. Until the end of the encounter, each creature who starts their turn on the ground and can't burrow must spend 1 additional square of movement to leave their starting position, or 2 squares if they start their turn prone or underground. A creature who starts and ends their turn in the same space on the ground and can't burrow sinks 1 square into the ground.

@@ -48,7 +48,7 @@ type: monster
 > - **12-16:** 7 psychic damage; P < 4 bleeding (save ends)
 > - **17+:** 9 psychic damage; P < 5 bleeding (save ends)
 >
-> **Effect:** Any creature who is bleeding from this ability loses 2d6 Stam- ina instead of 1d6.
+> **Effect:** Any creature who is bleeding from this ability loses 2d6 Stamina instead of 1d6.
 
 <!-- -->
 > ⭐️ **Lethe**

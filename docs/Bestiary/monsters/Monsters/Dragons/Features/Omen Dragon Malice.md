@@ -2,19 +2,19 @@
 file_basename: Omen Dragon Malice
 file_dpath: Monsters/Dragons/Features
 item_id: omen-dragon-malice
-item_index: '14'
+item_index: '15'
 item_name: Omen Dragon Malice
 scc:
   - mcdm.monsters.v1:monster.feature:omen-dragon-malice
 scdc:
-  - 1.1.1:2.2:14
+  - 1.1.1:2.2:15
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
 ###### Omen Dragon Malice
 
-At the start of an omen dragon's turn, you can spend Malice to acti- vate one of the following features.
+At the start of an omen dragon's turn, you can spend Malice to activate one of the following features.
 
 <!-- -->
 > ⭐️ **Black Skies (3 Malice)**
@@ -24,7 +24,7 @@ At the start of an omen dragon's turn, you can spend Malice to acti- vate one of
 <!-- -->
 > ❇️ **Rise and Fall (5 Malice)**
 >
-> The dragon flies up to 10 squares and carries fated souls with them. Each creature in the area of the dragon's Stagnant Wyrms- cale Aura trait makes a **Presence test**.
+> The dragon flies up to 10 squares and carries fated souls with them. Each creature in the area of the dragon's Stagnant Wyrmscale Aura trait makes a **Presence test**.
 >
 > - **≤11:** Vertical pull 10
 > - **12-16:** Vertical pull 6

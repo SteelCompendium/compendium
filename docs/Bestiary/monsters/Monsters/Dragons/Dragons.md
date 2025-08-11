@@ -275,7 +275,7 @@ Thorn dragons are highly territorial, and are vigilant against potential threats
 > | ----------------- | -----------------------------: |
 > | **📏 Ranged 10**  | **🎯 The triggering creature** |
 >
-> **Trigger:** A dragonsealed creature within distance ends the dragon- sealed effect.
+> **Trigger:** A dragonsealed creature within distance ends the dragonsealed effect.
 >
 > **Effect:** The target is pulled up to 5 squares toward the dragon, and if they have A < 2, they are restrained until the end of their next turn.
 
@@ -415,7 +415,7 @@ Eerie myths surround the gloom dragons, for they wield languages they do not the
 > - **12-16:** 11 cold damage; the target is dragonsealed (save ends)
 > - **17+:** 6 cold damage
 >
-> A dragonsealed creature has psychic weakness 3 and cold weak- ness 3. Additionally, the area is filled with magical darkness. The dragon ignores concealment created by this darkness.
+> A dragonsealed creature has psychic weakness 3 and cold weakness 3. Additionally, the area is filled with magical darkness. The dragon ignores concealment created by this darkness.
 
 <!-- -->
 > 🗡 **Phantom Tail Swing**
@@ -435,7 +435,7 @@ Eerie myths surround the gloom dragons, for they wield languages they do not the
 <!-- -->
 > ⭐️ **Shadow Skulk**
 >
-> Once per turn, the dragon can shift up to their speed, leaving be- hind a 4 cube area of magical darkness in their starting space that lasts until the end of the encounter. The dragon ignores conceal- ment created by this darkness. Any enemy who ends their turn in the area and has I < 3 is frightened of the dragon until the end of their next turn.
+> Once per turn, the dragon can shift up to their speed, leaving behind a 4 cube area of magical darkness in their starting space that lasts until the end of the encounter. The dragon ignores concealment created by this darkness. Any enemy who ends their turn in the area and has I < 3 is frightened of the dragon until the end of their next turn.
 
 <!-- -->
 > ❇️ **Visions in the Dark (5 Malice)**
@@ -492,7 +492,7 @@ Eerie myths surround the gloom dragons, for they wield languages they do not the
 > | -------------- | -------------: |
 > | **📏 Special** | **🎯 Special** |
 >
-> **Effect:** The dragon disappears from the encounter map. The dragon and three hallucinatory illusions of themself then immediately reappear in unoccupied spaces on the encounter map, and the dragon and each illusion uses Breath of Brume. Each illusion is indistinguish- able from the dragon except by supernatural means, has 1 Stamina, and has the dragon's speed. An illusion acts on the dragon's turns but can take only move actions. Once per round before or after using an ability, the dragon can trade places with any duplicate.
+> **Effect:** The dragon disappears from the encounter map. The dragon and three hallucinatory illusions of themself then immediately reappear in unoccupied spaces on the encounter map, and the dragon and each illusion uses Breath of Brume. Each illusion is indistinguishable from the dragon except by supernatural means, has 1 Stamina, and has the dragon's speed. An illusion acts on the dragon's turns but can take only move actions. Once per round before or after using an ability, the dragon can trade places with any duplicate.
 
 ###### Gloom Dragon Malice
 
@@ -757,12 +757,12 @@ An omen dragon speaks with the voices of all the souls they have collected. In a
 <!-- -->
 > ⭐️ **Deathcount**
 >
-> Several of the dragon's abilities impose a Deathcount on a target. At the end of every turn, a creature with a Deathcount who is within the area of the dragon's Stagnant Wyrmscale Aura has that Deathcount reduced by 1. When a creature's Deathcount hits 0, they die. If multiple Deathcounts are imposed on a creature, they don't stack. Only the lowest Deathcount takes effect. All Death- counts are lost when the dragon is reduced to 0 Stamina.
+> Several of the dragon's abilities impose a Deathcount on a target. At the end of every turn, a creature with a Deathcount who is within the area of the dragon's Stagnant Wyrmscale Aura has that Deathcount reduced by 1. When a creature's Deathcount hits 0, they die. If multiple Deathcounts are imposed on a creature, they don't stack. Only the lowest Deathcount takes effect. All Deathcounts are lost when the dragon is reduced to 0 Stamina.
 
 <!-- -->
 > ❇️ **Stagnant Wyrmscale Aura**
 >
-> The dragon's scales create a 4 aura of supernatural stagnancy around them. The area is difficult terrain for enemies, and no crea- ture except the omen dragon can regain Stamina while in the area. Any creature dragonsealed by the omen dragon who starts their turn in the dragon's aura and doesn't have a Deathcount gains a Deathcount of 12.
+> The dragon's scales create a 4 aura of supernatural stagnancy around them. The area is difficult terrain for enemies, and no creature except the omen dragon can regain Stamina while in the area. Any creature dragonsealed by the omen dragon who starts their turn in the dragon's aura and doesn't have a Deathcount gains a Deathcount of 12.
 
 <!-- -->
 > 🔳 **Corroding Breath (Signature Ability)**
@@ -806,7 +806,7 @@ An omen dragon speaks with the voices of all the souls they have collected. In a
 > | --------------- | ----------------------------: |
 > | **📏 10 burst** | **🎯 Each enemy in the area** |
 >
-> **Effect:** Each target must be dragonsealed. Each target takes 9 corrup- tion damage, and the omen dragon regains Stamina equal to half the total damage dealt. The target then loses their dragonseal.
+> **Effect:** Each target must be dragonsealed. Each target takes 9 corruption damage, and the omen dragon regains Stamina equal to half the total damage dealt. The target then loses their dragonseal.
 
 <!-- -->
 > ❗️ **Don't Turn Away (1 Malice)**
@@ -815,9 +815,9 @@ An omen dragon speaks with the voices of all the souls they have collected. In a
 > | ----------- | ------------------------: |
 > | **📏 Self** |               **🎯 Self** |
 >
-> **Trigger:** A creature leaves the area of the dragon's Stagnant Wyrms- cale Aura trait.
+> **Trigger:** A creature leaves the area of the dragon's Stagnant Wyrmscale Aura trait.
 >
-> **Effect:** The dragon shifts up to their speed, and the Deathcount of each dragonsealed creature who comes adjacent to the dragon dur- ing this shift is reduced by 1.
+> **Effect:** The dragon shifts up to their speed, and the Deathcount of each dragonsealed creature who comes adjacent to the dragon during this shift is reduced by 1.
 
 <!-- -->
 > ❗️ **Repent! (2 Malice)**
@@ -871,7 +871,7 @@ An omen dragon speaks with the voices of all the souls they have collected. In a
 
 ###### Omen Dragon Malice
 
-At the start of an omen dragon's turn, you can spend Malice to acti- vate one of the following features.
+At the start of an omen dragon's turn, you can spend Malice to activate one of the following features.
 
 <!-- -->
 > ⭐️ **Black Skies (3 Malice)**
@@ -881,7 +881,7 @@ At the start of an omen dragon's turn, you can spend Malice to acti- vate one of
 <!-- -->
 > ❇️ **Rise and Fall (5 Malice)**
 >
-> The dragon flies up to 10 squares and carries fated souls with them. Each creature in the area of the dragon's Stagnant Wyrms- cale Aura trait makes a **Presence test**.
+> The dragon flies up to 10 squares and carries fated souls with them. Each creature in the area of the dragon's Stagnant Wyrmscale Aura trait makes a **Presence test**.
 >
 > - **≤11:** Vertical pull 10
 > - **12-16:** Vertical pull 6
@@ -1038,7 +1038,7 @@ Meteor dragons are not known for their conversational habits. When they do deign
 > | ----------- | ----------: |
 > | **📏 Self** | **🎯 Self** |
 >
-> **Effect:** Until the end of the encounter, each enemy who is dragon- sealed and weakened and who the dragon has line of effect to loses 1 of their Heroic Resource at the start of each of their turns (to a minimum of 0). The dragon then uses their Cosmic Tail Ray ability with a double edge, targeting four creatures or objects.
+> **Effect:** Until the end of the encounter, each enemy who is dragonsealed and weakened and who the dragon has line of effect to loses 1 of their Heroic Resource at the start of each of their turns (to a minimum of 0). The dragon then uses their Cosmic Tail Ray ability with a double edge, targeting four creatures or objects.
 
 <!-- -->
 > ☠️ **Voidlight Breath (Villain Action 3)**

@@ -2,12 +2,12 @@
 file_basename: Draconians
 file_dpath: Monsters/Draconians
 item_id: draconians
-item_index: '13'
+item_index: '14'
 item_name: Draconians
 scc:
   - mcdm.monsters.v1:monster.section:draconians
 scdc:
-  - 1.1.1:2.1:13
+  - 1.1.1:2.1:14
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -267,7 +267,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** Lydixavus flies up to their speed, leaving a size 1S ice mine in the space they took off from. The ice mine explodes when an enemy enters its space, using the power roll for the Ice Lob ability, and target- ing the triggering creature and each creature and object adjacent to the ice mine.
+> **Effect:** Lydixavus flies up to their speed, leaving a size 1S ice mine in the space they took off from. The ice mine explodes when an enemy enters its space, using the power roll for the Ice Lob ability, and targeting the triggering creature and each creature and object adjacent to the ice mine.
 
 <!-- -->
 > ❗️ **Wasn't Aiming For You**
@@ -339,7 +339,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 >
 > **Trigger:** An adjacent creature damages Myxovidan with a melee ability.
 >
-> **Effect:** Myxovidan recreates the ability to use it against the triggering creature. If the ability has a power roll, Myxovidan uses his highest characteristic score for the roll. If Myxovidan gets a higher tier out- come than the triggering creature, the Director gains 2 Malice.
+> **Effect:** Myxovidan recreates the ability to use it against the triggering creature. If the ability has a power roll, Myxovidan uses his highest characteristic score for the roll. If Myxovidan gets a higher tier outcome than the triggering creature, the Director gains 2 Malice.
 
 <!-- -->
 > ⭐️ **Stench of Death**

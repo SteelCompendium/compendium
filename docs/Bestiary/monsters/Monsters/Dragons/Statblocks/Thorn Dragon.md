@@ -2,12 +2,12 @@
 file_basename: Thorn Dragon
 file_dpath: Monsters/Dragons/Statblocks
 item_id: thorn-dragon
-item_index: '78'
+item_index: '83'
 item_name: Thorn Dragon
 scc:
   - mcdm.monsters.v1:monster:thorn-dragon
 scdc:
-  - 1.1.1:2:78
+  - 1.1.1:2:83
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -83,7 +83,7 @@ type: monster
 > | ----------------- | -----------------------------: |
 > | **📏 Ranged 10**  | **🎯 The triggering creature** |
 >
-> **Trigger:** A dragonsealed creature within distance ends the dragon- sealed effect.
+> **Trigger:** A dragonsealed creature within distance ends the dragonsealed effect.
 >
 > **Effect:** The target is pulled up to 5 squares toward the dragon, and if they have A < 2, they are restrained until the end of their next turn.
 

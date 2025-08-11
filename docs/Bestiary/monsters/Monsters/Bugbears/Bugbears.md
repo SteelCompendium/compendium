@@ -2,12 +2,12 @@
 file_basename: Bugbears
 file_dpath: Monsters/Bugbears
 item_id: bugbears
-item_index: '05'
+item_index: '06'
 item_name: Bugbears
 scc:
   - mcdm.monsters.v1:monster.section:bugbears
 scdc:
-  - 1.1.1:2.1:05
+  - 1.1.1:2.1:06
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -413,7 +413,7 @@ Most bugbears speak Caelian, Khelt, and Szetch.
 <!-- -->
 > ⭐️ **Magic Terror**
 >
-> Each enemy has a −1 penalty to power rolls, saving throws, or dam- age rolled as a d6 or a d3 for each knightmare adjacent to them.
+> Each enemy has a −1 penalty to power rolls, saving throws, or damage rolled as a d6 or a d3 for each knightmare adjacent to them.
 
 ###### Bugbear Mob
 

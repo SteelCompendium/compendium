@@ -33,7 +33,7 @@ type: monster
 > - **12-16:** 7 damage
 > - **17+:** 9 damage
 >
-> **Effect:** The tyburaki can make a free strike against each enemy adja- cent to the target.
+> **Effect:** The tyburaki can make a free strike against each enemy adjacent to the target.
 
 <!-- -->
 > ⭐️ **Breacher**

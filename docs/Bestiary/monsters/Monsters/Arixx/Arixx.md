@@ -2,12 +2,12 @@
 file_basename: Arixx
 file_dpath: Monsters/Arixx
 item_id: arixx
-item_index: 09
+item_index: '10'
 item_name: Arixx
 scc:
   - mcdm.monsters.v1:monster.section:arixx
 scdc:
-  - 1.1.1:2.1:09
+  - 1.1.1:2.1:10
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -52,7 +52,7 @@ At the start of an arixx's turn, you can spend Malice to activate one of the fol
 <!-- -->
 > 🌀 **Earth Sink (7 Malice)**
 >
-> The encounter map suddenly quakes, then begins to sink. Each creature on the ground who has a < 1 is knocked prone. Until the end of the encounter, each creature who starts their turn on the ground and can't burrow must spend 1 additional square of movement to leave their starting position, or 2 squares if they start their turn prone or underground. A creature who starts and ends their turn in the same space on the ground and can't burrow sinks 1 square into the ground.
+> The encounter map suddenly quakes, then begins to sink. Each creature on the ground who has A < 1 is knocked prone. Until the end of the encounter, each creature who starts their turn on the ground and can't burrow must spend 1 additional square of movement to leave their starting position, or 2 squares if they start their turn prone or underground. A creature who starts and ends their turn in the same space on the ground and can't burrow sinks 1 square into the ground.
 
 ###### Arixx
 

@@ -66,7 +66,7 @@ type: monster
 >
 > **Trigger:** An adjacent creature damages Myxovidan with a melee ability.
 >
-> **Effect:** Myxovidan recreates the ability to use it against the triggering creature. If the ability has a power roll, Myxovidan uses his highest characteristic score for the roll. If Myxovidan gets a higher tier out- come than the triggering creature, the Director gains 2 Malice.
+> **Effect:** Myxovidan recreates the ability to use it against the triggering creature. If the ability has a power roll, Myxovidan uses his highest characteristic score for the roll. If Myxovidan gets a higher tier outcome than the triggering creature, the Director gains 2 Malice.
 
 <!-- -->
 > ⭐️ **Stench of Death**

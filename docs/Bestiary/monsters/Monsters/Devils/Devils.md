@@ -2,12 +2,12 @@
 file_basename: Devils
 file_dpath: Monsters/Devils
 item_id: devils
-item_index: '04'
+item_index: '05'
 item_name: Devils
 scc:
   - mcdm.monsters.v1:monster.section:devils
 scdc:
-  - 1.1.1:2.1:04
+  - 1.1.1:2.1:05
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -554,4 +554,4 @@ At the start of any devil's turn, you can spend Malice to activate one of the fo
 > | ----------------- | ------------------: |
 > | **📏 Ranged 12**  | **🎯 One creature** |
 >
-> **Effect:** If the target is an ally or a creature charmed by All Rise, Compel the Jury, or Devilish Suggestion, the high judge and the target teleport to swap places. Each ally within 12 squares of the high judge can then make a free strike against a target of the high judge's choice. Each creature charmed by All Rise, Compel the Jury, or Devilish Sug- gestion makes a free strike against a target of the high judge's choice.
+> **Effect:** If the target is an ally or a creature charmed by All Rise, Compel the Jury, or Devilish Suggestion, the high judge and the target teleport to swap places. Each ally within 12 squares of the high judge can then make a free strike against a target of the high judge's choice. Each creature charmed by All Rise, Compel the Jury, or Devilish Suggestion makes a free strike against a target of the high judge's choice.

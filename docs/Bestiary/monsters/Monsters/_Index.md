@@ -128,3 +128,10 @@ type: index
 | [Dwarf Trapper](../Dwarves/Statblocks/Dwarf%20Trapper)                               |
 | [Dwarf Warden](../Dwarves/Statblocks/Dwarf%20Warden)                                 |
 | [Servitor War Walker](../Dwarves/Statblocks/Servitor%20War%20Walker)                 |
+| [Elementals](../Elementals/Elementals)                                               |
+| [Elemental Malice](../Elementals/Features/Elemental%20Malice)                        |
+| [Crux of Fire](../Elementals/Statblocks/Crux%20of%20Fire)                            |
+| [Essence of Storms](../Elementals/Statblocks/Essence%20of%20Storms)                  |
+| [Essence of Tides](../Elementals/Statblocks/Essence%20of%20Tides)                    |
+| [Field of Growth](../Elementals/Statblocks/Field%20of%20Growth)                      |
+| [Force of Earth](../Elementals/Statblocks/Force%20of%20Earth)                        |

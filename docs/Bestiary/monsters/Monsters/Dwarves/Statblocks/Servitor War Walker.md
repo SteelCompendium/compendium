@@ -2,12 +2,12 @@
 file_basename: Servitor War Walker
 file_dpath: Monsters/Dwarves/Statblocks
 item_id: servitor-war-walker
-item_index: '79'
+item_index: '84'
 item_name: Servitor War Walker
 scc:
   - mcdm.monsters.v1:monster:servitor-war-walker
 scdc:
-  - 1.1.1:2:79
+  - 1.1.1:2:84
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -33,7 +33,7 @@ type: monster
 > - **12-16:** 9 damage
 > - **17+:** 12 damage; M < 2 restrained (save ends)
 >
-> **Effect:** A target already restrained or restrained by this ability is pulled up to 3 squares. A target restrained by a dwarf can be force moved by this ability. This forced movement doesn't end the restrained condi- tion unless the Director determines otherwise.
+> **Effect:** A target already restrained or restrained by this ability is pulled up to 3 squares. A target restrained by a dwarf can be force moved by this ability. This forced movement doesn't end the restrained condition unless the Director determines otherwise.
 
 <!-- -->
 > ❇️ **Stunning Blast (3 Malice)**

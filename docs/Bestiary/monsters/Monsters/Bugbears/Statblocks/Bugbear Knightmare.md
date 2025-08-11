@@ -43,4 +43,4 @@ type: monster
 <!-- -->
 > ⭐️ **Magic Terror**
 >
-> Each enemy has a −1 penalty to power rolls, saving throws, or dam- age rolled as a d6 or a d3 for each knightmare adjacent to them.
+> Each enemy has a −1 penalty to power rolls, saving throws, or damage rolled as a d6 or a d3 for each knightmare adjacent to them.
