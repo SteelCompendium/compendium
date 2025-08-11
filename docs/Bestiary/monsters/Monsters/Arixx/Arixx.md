@@ -2,12 +2,12 @@
 file_basename: Arixx
 file_dpath: Monsters/Arixx
 item_id: arixx
-item_index: 08
+item_index: 09
 item_name: Arixx
 scc:
   - mcdm.monsters.v1:monster.section:arixx
 scdc:
-  - 1.1.1:2.1:08
+  - 1.1.1:2.1:09
 source: mcdm.monsters.v1
 type: monster/section
 ---
