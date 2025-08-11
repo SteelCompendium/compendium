@@ -4306,7 +4306,7 @@ Your character has a **weak**, an **average**, and a **strong** potency value, a
 - Your average potency value is equal to your highest characteristic score − 1.
 - Your strong potency value is equal to your highest characteristic score.
 
-In abilities and other effects, a potency always appears as the single-letter abbreviation for the target's characteristic: M for Might, A for Agility, R for Reason, I for Intuition, or P for Presence. That characteristic is followed by a "less than" sign (\<) and your potency value-for example, M\<w or R\<v -with the value indicating the minimum score in that characteristic that the target needs to beat the effect.
+In abilities and other effects, a potency always appears as the single-letter abbreviation for the target's characteristic: M for Might, A for Agility, R for Reason, I for Intuition, or P for Presence. That characteristic is followed by a "less than" sign (\<) and your potency value-for example, M < WEAK or R < AVERAGE -with the value indicating the minimum score in that characteristic that the target needs to beat the effect.
 
 As an example, consider the conduit's Judgment's Hammer ability, which has the following power roll:
 
@@ -4350,7 +4350,7 @@ Potencies are made for quick resolution at the table, but a number of triggered 
 
 If an ability or feature allows you to spend your Heroic Resource on an effect that is entirely dependent on a potency and the target is unaffected because their characteristic is high enough to resist the potency, then you don't spend the Heroic Resource.
 
-For example, the tactician's Overwatch ability allows the tactician to spend 1 focus to impose the slowed condition on a target who has R\<v. Since spending focus this way has no other effect, if the tactician targets a creature whose high Reason leaves them unaffected, the tactician doesn't waste any focus. However, if spending this focus had another automatic effect such as dealing extra damage to the target, the 1 focus would be spent even though the potency was resisted.
+For example, the tactician's Overwatch ability allows the tactician to spend 1 focus to impose the slowed condition on a target who has R < AVERAGE. Since spending focus this way has no other effect, if the tactician targets a creature whose high Reason leaves them unaffected, the tactician doesn't waste any focus. However, if spending this focus had another automatic effect such as dealing extra damage to the target, the 1 focus would be spent even though the potency was resisted.
 
 This rule also applies to Director-controlled creatures who spend Malice on abilities and features that affect a target using a potency and have no other automatic effects.
 
@@ -4441,7 +4441,7 @@ Whenever a creature moves or is subjected to forced movement-a push, pull, or sl
 
 Some abilities and other effects refer to a hero or their targets being "on the ground." Unless otherwise indicated, "ground" means any surface a creature could typically stand, sit, or lie upon, whether a castle's stone floor, the dirt of a road, the deck of a ship, or a metal platform suspended high in the air.
 
-<span id="page-91-0"></span>Likewise, if an effect refers to a "ceiling," that means any solid surface above a creature, whether a wooden tavern ceiling, the rocky roof of a cave, or an invisible wall of force.
+Likewise, if an effect refers to a "ceiling," that means any solid surface above a creature, whether a wooden tavern ceiling, the rocky roof of a cave, or an invisible wall of force.
 
 #### Conditions
 
@@ -10931,7 +10931,7 @@ Choose one heroic ability from the following options, each of which costs 7 disc
 | ----------- | -----------: |
 | **📏 Self** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has i\<vand enters the area for the first time in a combat round or starts their turn there is bleeding (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
+**Effect:** Until the end of the encounter, the size of your Null Field ability increases by 1. While the area of that ability is enlarged this way, each enemy who has I < AVERAGE and enters the area for the first time in a combat round or starts their turn there is bleeding (save ends). Each ally who enters the area for the first time in a combat round or starts their turn there gains temporary Stamina equal to your Intuition score.
 
 **<span class="steel-compendium-ability">Stabilizing Field (7 Discipline)</span>**
 
@@ -13965,9 +13965,9 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Power Roll + Presence:**
 
-- **≤11:** 2 + P corruption damage; p\<w, slowed (save ends)
-- **12-16:** 3 + P corruption damage; p\<v, slowed (save ends)
-- **17+:** 5 + P corruption damage; p\<s, slowed (save ends)
+- **≤11:** 2 + P corruption damage; P < WEAK, slowed (save ends)
+- **12-16:** 3 + P corruption damage; P < AVERAGE, slowed (save ends)
+- **17+:** 5 + P corruption damage; P < STRONG, slowed (save ends)
 
 **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 
@@ -14279,7 +14279,7 @@ Choose one of the following abilities.
 
 **Power Roll + Presence:**
 
-- **≤11:** The target's speed is halved (save ends), or if p\<w, the target is slowed (save ends).
+- **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is slowed (save ends).
 - **12-16:** The target is slowed (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
 - **17+:** The target is slowed (save ends), or if P < STRONG, the target's speed is 0 (save ends).
 
@@ -18339,9 +18339,9 @@ Your mother and father never saw eye to eye. You know this because your father i
 
 **Power Roll + Might or Presence:**
 
-- **≤11:** 2 damage; M\<w, slowed (save ends)
-- **12-16:** 4 damage; M\<v, slowed (save ends)
-- **17+:** 6 damage; M\<s, slowed (save ends)
+- **≤11:** 2 damage; M < WEAK, slowed (save ends)
+- **12-16:** 4 damage; M < AVERAGE, slowed (save ends)
+- **17+:** 6 damage; M < STRONG, slowed (save ends)
 
 **Effect:** This ability has no effect on a creature who can't see you or who purposefully avoids looking at your eyes. A creature reduced to 0 Stamina by this ability is turned to inanimate stone.
 

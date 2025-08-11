@@ -301,9 +301,9 @@ Choose two signature abilities from the following options. Signature abilities c
 
 **Power Roll + Presence:**
 
-- **≤11:** 2 + P corruption damage; p
-- **12-16:** 3 + P corruption damage; p
-- **17+:** 5 + P corruption damage; p
+- **≤11:** 2 + P corruption damage; P < WEAK, slowed (save ends)
+- **12-16:** 3 + P corruption damage; P < AVERAGE, slowed (save ends)
+- **17+:** 5 + P corruption damage; P < STRONG, slowed (save ends)
 
 **Effect:** The target takes an extra 1 corruption damage for each additional time they are targeted by this ability during the encounter.
 
@@ -615,7 +615,7 @@ Choose one of the following abilities.
 
 **Power Roll + Presence:**
 
-- **≤11:** The target's speed is halved (save ends), or if p
+- **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is slowed (save ends).
 - **12-16:** The target is slowed (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
 - **17+:** The target is slowed (save ends), or if P < STRONG, the target's speed is 0 (save ends).
 

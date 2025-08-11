@@ -28,7 +28,7 @@ type: feature/ability/talent/2nd-level-feature
 
 **Power Roll + Presence:**
 
-- **≤11:** The target's speed is halved (save ends), or if p
+- **≤11:** The target's speed is halved (save ends), or if P < WEAK, the target is slowed (save ends).
 - **12-16:** The target is slowed (save ends), or if P < AVERAGE, the target's speed is 0 (save ends).
 - **17+:** The target is slowed (save ends), or if P < STRONG, the target's speed is 0 (save ends).
 
