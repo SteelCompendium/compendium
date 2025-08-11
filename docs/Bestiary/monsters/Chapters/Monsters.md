@@ -7411,3 +7411,1263 @@ At the start of any elemental's turn, you can spend Malice to activate one of th
 > ⭐️ **Stone Swim**
 >
 > The force can burrow through stone, but can't drag other creatures underground when they do so.
+
+## Elves, High
+
+The children of the solar celestials, the high elves were created to tend to the sun elves as librarians and heralds. Now they sequester themselves away from the world amid the fallen cities of the sky elves, remembering a better age, before the arrival of humans and war to the world made the high elves who they are today.
+
+#### Glamorous
+
+The high elves hold an unwavering poise worthy of a noble background. They also emit a glamor that allows them to take on physical features and aspects of personality as they desire. Each person sees this glamor slightly differently, emphasizing some details over others based on one's own values and fascinations.
+
+#### Loremasters
+
+The adage "knowledge is power" is a rough translation of an ancient Hyrallic saying. A closer translation is "knowledge before power." High elves believe knowledge is the pursuit from which all good things flow: life, power, legacy.
+
+In their ruined towers, they study ancient history and magic thought long extinct. They revive dead spells and languages and manipulate their use to suit their means. High elves can use this magic for wondrous creations. They can also use it to kill by lifting a finger.
+
+#### Elemental Summoners
+
+Through their studies of ancient magic, many high elves have cultivated a strong bond to elemental creatures and can call upon their aid. In service to high elves, soot crows scout from the sky, living vine walls called brambleguards create labyrinthine barricades, and ceramic horses provide fast transport over long distances.
+
+Many high elves can also summon magical wisps called elemental motes. These sprites enervate their foes against high elf magic and revive fallen elementals in a brilliant flash by sacrificing their own energy.
+
+#### Surround and Suppress
+
+Foes who threaten high elf armies are dealt with quickly and entirely. High elves take advantage of each other's magic to corral enemies together and throw huge waves of destruction upon them. The more exposure a victim has to high elf magic, the more effective that magic is in destroying them. High elf wyrds ensure there's no escape, warping the environment into treacherous pits-and eventually, graveyards.
+
+#### Magical Manipulation
+
+The high elves practice a tradition of group-casting magic that empowers their abilities as more elves participate. This enables them to extend their spells farther, sometimes even miles away from the caster when an entire platoon works in unison.
+
+Many high elves have also collected extensive libraries of tomes over the centuries. Even on the battlefield, an elf can turn to a book to transform a mundane weapon volley into a magical one.
+
+#### The Unseen Hands
+
+The Unseen Hands is a sect of high elf radicals who believe they have stumbled upon sky elf texts detailing their downfall at the hands of the sun elves. The story surrounding their purported discoveries has twisted into a narrative decrying modern society for benefiting from the lore accumulated in service to the sun elves. The sect hides among high elf society in plain sight, slowly manipulating nobles as they attempt to dismantle that society and plunge the world into anarchy.
+
+#### The Ordinator
+
+Being in the presence of a high elf ordinator inspires an ancient fear in those who know high elf history. Occupying a position of both military and clerical authority, an ordinator is capable of focusing a force of high elves to precisely strike an arrow's tip from the other end of the battlefield. These spellcasters are among the most studied elves in their communities and courts, and their strategic minds are matched only by their affinity with elementals. The ordinator is not only an illuminating beacon of command for their platoon; they are a spiritual beacon of hope for their people.
+
+#### High Elf Languages
+
+Most high elves speak Caelian and Hyrallic, with some also speaking Yllyric.
+
+<!-- -->
+> **The Ordinator is a Magic Beacon**
+>
+> Whenever a high elf ordinator appears on an encounter map, the Chaincast Malice feature is improved and always active. When any elf uses a magic ability as if they were in the ordinator's space, that ability has a double edge.
+
+###### High Elf Malice
+
+At the start of any high elf's turn, you can spend Malice to activate one of the following features.
+
+<!-- -->
+> 🌀 **Chaincast (3 Malice)**
+>
+> Until the end of the round, whenever a high elf uses a magic ability, they can use it as if they were occupying the square of another high elf on the encounter map to whom they have line of effect.
+
+<!-- -->
+> 🔳 \*\*Gift From an Accursed Tome (5 Malice)
+>
+> | **Area, Magic**            |               **Main action** |
+> | -------------------------- | ----------------------------: |
+> | **📏 5 x 1 line within 1** | **🎯 Each enemy in the area** |
+>
+> **Effect:** The high elf chooses a damage type and condition from one of the following combinations: cold damage and slowed, poison damage and weakened, or corruption damage and frightened.
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** 5 damage; R < 1 chosen condition (save ends)
+> - **12-16:** 9 damage; R < 2 chosen condition (save ends)
+> - **17+:** 12 damage; R < 3 chosen condition (save ends)
+>
+> **Special:** This ability can't be used by a minion.
+
+<!-- -->
+> 🌀 **In Defiance of Time (7 Malice)**
+>
+> Until the end of the round, each high elf in the encounter gains a +4 bonus to speed, and whenever a high elf uses an ability against an enemy, each high elf adjacent to that enemy can make a free strike against them.
+
+###### Elemental Mote
+
+| Elemental, High Elf, Soulless |           -           |      Level 1       |              Minion Hexer               | EV 3 for four minions  |
+| :---------------------------: | :-------------------: | :----------------: | :-------------------------------------: | :--------------------: |
+|       **1T**<br/> Size        |   **5**<br/> Speed    | **3**<br/> Stamina |          **0**<br/> Stability           | **1**<br/> Free Strike |
+|      **-**<br/> Immunity      | **Fly**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|       **0**<br/> Might        |  **0**<br/> Agility   | **0**<br/> Reason  |          **0**<br/> Intuition           |  **+2**<br/> Presence  |
+
+<!-- -->
+> 🗡 **Dweomer Plume (Signature Ability)**
+>
+> | **Magic, Melee, Strike** |                          **Main action** |
+> | ------------------------ | ---------------------------------------: |
+> | **📏 Melee 2**           | **🎯 One creature or object per minion** |
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** 1 damage
+> - **12-16:** 2 damage; R < 1 damage weakness 3 (save ends)
+> - **17+:** 3 damage; R < 2 damage weakness 3 (save ends)
+
+<!-- -->
+> ⭐️ **Spark of Life**
+>
+> On their turn, the mote can leave the encounter in a flash of light to revive one adjacent dead soot crow, brambleguard, or ceramic horse. The revived creature returns with 3 Stamina.
+
+###### High Elf Dawn Mage
+
+| Fey, High Elf, Humanoid |          -          |      Level 1       |                 Minion Controller                 | EV 3 for four minions  |
+| :---------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
+|    **1M**<br/> Size     |  **5**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **1**<br/> Free Strike |
+|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **0**<br/> Might     | **0**<br/> Agility  | **+2**<br/> Reason |               **-1**<br/> Intuition               |  **+1**<br/> Presence  |
+
+<!-- -->
+> 🏹 **Bright Bolt (Signature Ability)**
+>
+> | **Magic, Ranged, Strike** |                          **Main action** |
+> | ------------------------- | ---------------------------------------: |
+> | **📏 Ranged 5**           | **🎯 One creature or object per minion** |
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** 1 holy damage
+> - **12-16:** 2 holy damage
+> - **17+:** 3 holy damage
+>
+> **Effect:** Until the start of the dawn mage's next turn, the target can't hide.
+
+<!-- -->
+> ⭐️ **Otherworldly Grace**
+>
+> At the start of each of their turns, the dawn mage can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn.
+
+###### High Elf Quiver
+
+| Fey, High Elf, Humanoid |          -          |      Level 1       |                 Minion Artillery                  | EV 3 for four minions  |
+| :---------------------: | :-----------------: | :----------------: | :-----------------------------------------------: | :--------------------: |
+|    **1M**<br/> Size     |  **5**<br/> Speed   | **3**<br/> Stamina |               **0**<br/> Stability                | **2**<br/> Free Strike |
+|   **-**<br/> Immunity   | **-**<br/> Movement |         -          | **+5 bonus to ranged distance**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **0**<br/> Might     | **+2**<br/> Agility | **+1**<br/> Reason |               **0**<br/> Intuition                |  **0**<br/> Presence   |
+
+<!-- -->
+> 🏹 **Heavy Arrow (Signature Ability)**
+>
+> | **Ranged, Strike, Weapon** |                          **Main action** |
+> | -------------------------- | ---------------------------------------: |
+> | **📏 Ranged 10**           | **🎯 One creature or object per minion** |
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** 2 damage
+> - **12-16:** 4 damage
+> - **17+:** 5 damage
+>
+> **Effect:** Each ally adjacent to the target shifts up to 2 squares
+
+<!-- -->
+> ⭐️ **Otherworldly Grace**
+>
+> At the start of each of their turns, the quiver can choose one effect on them that can be ended by a saving throw. They change the duration of the effect to instead end at the end of their turn
+
+###### Soot Crow
+
+| Elemental, High Elf |           -           |      Level 1       |                Minion Harrier                 | EV 3 for four minions  |
+| :-----------------: | :-------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
+|  **1T**<br/> Size   |   **7**<br/> Speed    | **4**<br/> Stamina |             **0**<br/> Stability              | **1**<br/> Free Strike |
+| **-**<br/> Immunity | **Fly**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **0**<br/> Might   |  **+2**<br/> Agility  | **0**<br/> Reason  |             **0**<br/> Intuition              |  **+1**<br/> Presence  |
+
+<!-- -->
+> 🗡 **Heckle (Signature Ability)**
+>
+> | **Melee, Strike, Weapon** |                          **Main action** |
+> | ------------------------- | ---------------------------------------: |
+> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** 1 damage
+> - **12-16:** 2 damage
+> - **17+:** 3 damage; taunted (EoT)
+>
+> **Effect:** Until the end of their turn, the soot crow ignores opportunity attacks from the target.
+
+###### Brambleguard
+
+| Elemental, High Elf |          -          |       Level 2       |    Platoon Defender     |          EV 8          |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
+|   **2**<br/> Size   |  **4**<br/> Speed   | **59**<br/> Stamina |  **3**<br/> Stability   | **4**<br/> Free Strike |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **+2**<br/> Might  | **0**<br/> Agility  |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+2**<br/> Presence  |
+
+<!-- -->
+> 🔳 **Wall of Roses (Signature Ability)**
+>
+> | **Area, Magic**           | **Main action** |
+> | ------------------------- | --------------: |
+> | **📏 Special; see below** |     **🎯 Self** |
+>
+> **Effect:** Until the start of the brambleguard's next turn, their speed is 0 and they extend themself into a 5 wall. Each ally who starts their turn adjacent to the brambleguard regains 5 Stamina and can apply the Magic keyword to their weapon abilities until the end of their turn.
+
+<!-- -->
+> ❇️ **Whip Frenzy**
+>
+> | **Area, Weapon** |               **Main action** |
+> | ---------------- | ----------------------------: |
+> | **📏 2 burst**   | **🎯 Each enemy in the area** |
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** 4 damage
+> - **12-16:** 7 damage; push 3
+> - **17+:** 10 damage; push 3; A < 2 bleeding (save ends)
+
+<!-- -->
+> ⭐️ **Thicket and Thorns**
+>
+> The brambleguard blocks line of effect for enemies. Each enemy who starts their turn adjacent to a brambleguard takes 4 damage
+
+###### High Elf Bloodletter
+
+| Fey, High Elf, Humanoid |          -          |       Level 1       |    Platoon Ambusher     |          EV 6          |
+| :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
+|    **1M**<br/> Size     |  **7**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **0**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason  |  **+1**<br/> Intuition  |  **0**<br/> Presence   |
+
+<!-- -->
+> 🗡 **Razor's Edge (Signature Ability)**
+>
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 1**            | **🎯 One creature or object** |
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** 6 damage
+> - **12-16:** 9 damage
+> - **17+:** 12 damage; R < 2 bleeding (save ends)
+>
+> **Effect:** The bloodletter and each of their allies has a double edge on abilities targeting a creature bleeding this way.
+
+<!-- -->
+> ❇️ **Blood Haze (2 Malice)**
+>
+> | **Area, Magic** |   **Maneuver** |
+> | --------------- | -------------: |
+> | **📏 1 burst**  | **🎯 Special** |
+>
+> **Effect:** Until the end of the next round, a cloud of blood vapor fills the area. The cloud blocks line of effect for enemies , and any enemy has damage weakness 3 while in the area. The bloodletter can then shift up to their speed, and can attempt to hide if they end that shift with concealment.
+
+<!-- -->
+> ⭐️ **Otherworldly Grace**
+>
+> At the start of each of their turns, the bloodletter can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn.
+
+###### High Elf Deathtouch
+
+| Fey, High Elf, Humanoid |          -          |       Level 2       |    Platoon Artillery    |          EV 8          |
+| :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
+|    **1M**<br/> Size     |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **+2**<br/> Might    | **0**<br/> Agility  | **+1**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
+
+<!-- -->
+> 🏹 **Heartpiercer (Signature Ability)**
+>
+> | **Ranged, Strike, Weapon** |     **Main action** |
+> | -------------------------- | ------------------: |
+> | **📏 Ranged 15**           | **🎯 One creature** |
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** 7 damage
+> - **12-16:** 10 damage
+> - **17+:** 13 damage; R < 1 bleeding (save ends); I < 1 frightened (save ends); P < 1 restrained (save ends)
+>
+> **5 Malice:** The ability takes the Area keyword and loses the Strike keyword, its distance becomes a 3 cube within 10, and it targets each enemy in the area.
+
+<!-- -->
+> 🗡 **Kiss of Death**
+>
+> | **Magic, Melee** |            **Maneuver** |
+> | ---------------- | ----------------------: |
+> | **📏 Melee 1**   | **🎯 One willing ally** |
+>
+> **Effect:** The target has a +5 bonus to speed and automatically obtains a tier 3 outcome on power rolls. They can still roll to determine if they score a critical hit. At the end of their next turn, the target immediately dies.
+
+<!-- -->
+> ⭐️ **Otherworldly Grace**
+>
+> At the start of each of their turns, the deathtouch can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn.
+
+###### High Elf Orbweaver
+
+| Fey, High Elf, Humanoid |          -          |       Level 3       |      Platoon Hexer      |         EV 10          |
+| :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
+|    **1M**<br/> Size     |  **5**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **0**<br/> Might     | **0**<br/> Agility  | **+2**<br/> Reason  |  **+2**<br/> Intuition  |  **+2**<br/> Presence  |
+
+<!-- -->
+> 🔳 **Awash (Signature Ability)**
+>
+> | **Area, Magic**        |                  **Main action** |
+> | ---------------------- | -------------------------------: |
+> | **📏 3 cube within 1** | **🎯 Each creature in the area** |
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** 4 cold damage; M < 0 push 3
+> - **12-16:** 6 cold damage; M < 1 push 5 or prone
+> - **17+:** 9 cold damage; M < 2 slide 5 or prone
+
+<!-- -->
+> 🏹 **Aetherweb**
+>
+> | **Magic, Ranged, Strike** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 8**           | **🎯 Two enemies or objects** |
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** 5 damage; R < 0 slowed (save ends)
+> - **12-16:** 8 damage; R < 1 slowed (save ends)
+> - **17+:** 11 damage; R < 2 restrained (save ends)
+>
+> **Effect:** Each enemy within 3 squares of a target suffers the same potency effect as the target unless they are already adjacent to them, or if they immediately shift into an unoccupied space adjacent to the target (no action required).
+
+<!-- -->
+> ⭐️ **Otherworldly Grace**
+>
+> At the start of each of their turns, the orbweaver can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn.
+
+###### High Elf Palinode
+
+|   Fey, High Elf, Humanoid   |          -          |       Level 1       |     Platoon Support     |          EV 6          |
+| :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
+|      **1M**<br/> Size       |  **5**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
+| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **0**<br/> Might       | **0**<br/> Agility  |  **0**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
+
+<!-- -->
+> 🏹 **Instill Regret (Signature Ability)**
+>
+> | **Magic, Ranged, Strike** |     **Main action** |
+> | ------------------------- | ------------------: |
+> | **📏 Ranged 8**           | **🎯 One creature** |
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** 5 psychic damage
+> - **12-16:** 7 psychic damage; I < 1 weakened (save ends)
+> - **17+:** 9 psychic damage; I < 2 weakened (save ends)
+>
+> **2 Malice:** The potency increases by 1. If the target is weakened this way at the end of the encounter, they can't take a respite activity during their next respite.
+
+<!-- -->
+> 🏹 **Recall**
+>
+> | **Magic, Ranged** |      **Maneuver** |
+> | ----------------- | ----------------: |
+> | **📏 Ranged 5**   | **🎯 Two allies** |
+>
+> **Effect:** Each target can teleport to an unoccupied space adjacent to the palinode. The palinode and each target then gain 5 temporary Stamina.
+
+<!-- -->
+> ⭐️ **Otherworldly Grace**
+>
+> At the start of each of their turns, the palinode can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn.
+
+###### High Elf Deployments
+
+<!-- -->
+> **High Elf Deployments**
+>
+> High elves are obsessed with knowledge: discovering it, documenting it, and protecting it. While this means that many of them are cloistered in towers with noses buried firmly in ancient tomes, lost knowledge is often found in dangerous ruins or in the collections of powerful individuals with no intent to share. When this happens, strike teams of like- minded high elves deploy to infiltrate and "forcefully acquire" such knowledge.
+>
+> Many high elves also consider themselves guardians of dangerous or forbidden lore and are ready to defend it with their lives. Many illusory groves and glamoured ruins conceal repositories and powerful warriors sworn to keep these secrets out of the hands of those who would use them for ill.
+>
+> **High Elf Sample Encounters**
+>
+> - **Ruin Hunters, 24 EV:** Eight soot crows, eight dawn mages, one palinode, one zephyr
+> - **Grove Guardians, 36 EV:** Eight elemental motes, eight soot crows, one brambleguard, one wyrd, one ceramic horse
+> - **Acquisitor Strike Team, 46 EV:** Eight quivers, eight soot crows, one brambleguard, three bloodletters, one deathtouch
+> - **Relic Wardens, 74 EV:** Sixteen elemental motes, eight dawn mages, two bloodletters, one brambleguard, one palinode, one orbweaver, one ordinator
+
+###### High Elf Wyrd
+
+|   Fey, High Elf, Humanoid   |          -          |       Level 3       |   Platoon Controller    |         EV 10          |
+| :-------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
+|      **1M**<br/> Size       |  **5**<br/> Speed   | **40**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
+| **Psychic 5**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|      **0**<br/> Might       | **+1**<br/> Agility | **+2**<br/> Reason  |  **-1**<br/> Intuition  |  **+2**<br/> Presence  |
+
+<!-- -->
+> 🔳 **Twystrd (Signature Ability)**
+>
+> | **Area, Magic**        |               **Main action** |
+> | ---------------------- | ----------------------------: |
+> | **📏 1 cube within 5** | **🎯 Each enemy in the area** |
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** Vertical push 3
+> - **12-16:** Vertical push 5
+> - **17+:** Vertical push 6
+>
+> **Effect:** For each elemental mote adjacent to the wyrd, the size of the cube increases by 1.
+
+<!-- -->
+> 🏹 **Summon Elemental (2 Malice)**
+>
+> | **Ranged**      |   **Maneuver** |
+> | --------------- | -------------: |
+> | **📏 Ranged 5** | **🎯 Special** |
+>
+> **Effect:** The wyrd summons two elemental motes or two soot crows into unoccupied spaces within distance.
+
+<!-- -->
+> 🔳 **Wyrd Warp (2 Malice)**
+>
+> | **Area, Magic**        |   **Maneuver** |
+> | ---------------------- | -------------: |
+> | **📏 8 wall within 8** | **🎯 Special** |
+>
+> **Effect:** The wyrd shapes the land in the area as if it were loose clay, either raising the ground or pushing it down to create a trench. Any creature in the area moves with the terrain to its new higher elevation, or falls if the ground is lowered beneath them.
+
+<!-- -->
+> ⭐️ **Otherworldly Grace**
+>
+> At the start of each of their turns, the wyrd can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn.
+
+###### High Elf Zephyr
+
+| Fey, High Elf, Humanoid |          -          |       Level 1       |     Platoon Harrier     |          EV 6          |
+| :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
+|    **1M**<br/> Size     |  **7**<br/> Speed   | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **0**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
+
+<!-- -->
+> 🗡 **Sweeping Blade (Signature Ability)**
+>
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 2**            | **🎯 One creature or object** |
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** 5 damage
+> - **12-16:** 7 damage
+> - **17+:** 9 damage
+>
+> **Effect:** On a tier 3 outcome, the zephyr can make a free strike against a creature adjacent to the target. If they do so and that creature and the target both have A < 2, the creature and the target are both prone. On any tier outcome, the zephyr can then shift up to 2 squares
+
+<!-- -->
+> 👤 **Windwalk**
+>
+> | **-**       | **Maneuver** |
+> | ----------- | -----------: |
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** The zephyr flies up to their speed. If they don't end this movment on solid ground, they are prone.
+
+<!-- -->
+> ⭐️ **Like the Wind**
+>
+> The zephyr doesn't provoke opportunity attacks by moving.
+
+<!-- -->
+> ⭐️ **Otherworldly Grace**
+>
+> At the start of each of their turns, the zephyr can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn.
+
+###### High Elf Ordinator
+
+| Fey, High Elf, Humanoid |           -           |       Level 3        |         Leader          |         EV 20          |
+| :---------------------: | :-------------------: | :------------------: | :---------------------: | :--------------------: |
+|    **1M**<br/> Size     |   **5**<br/> Speed    | **120**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
+|   **-**<br/> Immunity   | **Fly**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **0**<br/> Might     |  **+2**<br/> Agility  |  **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+3**<br/> Presence  |
+
+<!-- -->
+> 🏹 **Lightning Rod (Signature Ability)**
+>
+> | **Magic, Ranged, Strike** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 10**          | **🎯 One creature or object** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 9 lightning damage; R < 1 dazed (save ends)
+> - **12-16:** 14 lightning damage; R < 2 dazed (save ends)
+> - **17+:** 17 lightning damage; R < 3 dazed (save ends)
+>
+> **Effect:** Until the start of the ordinator's next turn, each ally high elf in the encounter gains an edge on ability rolls against the target.
+
+<!-- -->
+> ❇️ **Elemental Uproar**
+>
+> | **Area, Magic** |                           **Maneuver** |
+> | --------------- | -------------------------------------: |
+> | **📏 10 burst** | **🎯 Each elemental ally in the area** |
+>
+> **Effect:** Each target can move up to their speed or make a free strike. Elemental mote targets can, instead, use their Spark of Life trait.
+
+<!-- -->
+> 🏹 **Summon Elemental (2 Malice)**
+>
+> | **Ranged**       |   **Maneuver** |
+> | ---------------- | -------------: |
+> | **📏 Ranged 10** | **🎯 Special** |
+>
+> **Effect:** The ordinator summons four elemental motes or four soot crows into unoccupied space within distance.
+>
+> **3 Malice:** The ordinator instead summons one ceramic horse or one winded brambleguard into an unoccupied space within distance.
+
+<!-- -->
+> ❗️ **Enough!**
+>
+> | **Ranged**       |        **Triggered action** |
+> | ---------------- | --------------------------: |
+> | **📏 Ranged 10** | **🎯 The triggering enemy** |
+>
+> **Trigger:** An enemy within distance uses an ability against the ordinator or any ally within distance.
+>
+> **Effect:** The ordinator uses Lightning Rod against the target after the ability is resolved.
+
+<!-- -->
+> ⭐️ **Otherworldly Blessing**
+>
+> At the start of each of their turns, the ordinator can choose one or more effects on them that can be ended by a saving throw. The effects instead end at the end of the ordinator's turn
+
+<!-- -->
+> ☠️ **Fountains Roar, Now Free From the Earth (Villain Action 1)**
+>
+> | **Area, Magic** |                        **-** |
+> | --------------- | ---------------------------: |
+> | **📏 10 burst** | **🎯 Each ally in the area** |
+>
+> **Effect:** Each target glows briefly, and can end one effect on themself then move up to their speed.
+
+<!-- -->
+> ☠️ **And the Sun Forsook Her Children (Villain Action 2)**
+>
+> | **Area, Magic, Ranged** |                         **-** |
+> | ----------------------- | ----------------------------: |
+> | **📏 5 cube within 10** | **🎯 Each enemy in the area** |
+>
+> **Effect:** Each target makes a **Presence test**.
+>
+> - **≤11:** 12 corruption damage; pull 5 toward the center of the cube
+> - **12-16:** 9 corruption damage; pull 3 toward the center of the cube
+> - **17+:** Pull 1 toward the center of the cube
+>
+> **Effect:** The area turns dark and distorted, and is difficult terrain for enemies.
+
+<!-- -->
+> ☠️ **But We Will Change Her Mind (Villain Action 3)**
+>
+> | **Area, Magic** |                                 **-** |
+> | --------------- | ------------------------------------: |
+> | **📏 10 burst** | **🎯 Self and each ally in the area** |
+>
+> **Effect:** Each target's free strike now has the Magic keyword and can target two creatures or objects. Additionally, each target glows with magic.
+
+###### Ceramic Horse
+
+| Elemental, High Elf |          -          |       Level 1       |      Platoon Mount      |          EV 6          |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
+|   **2**<br/> Size   |  **10**<br/> Speed  | **30**<br/> Stamina |  **2**<br/> Stability   | **3**<br/> Free Strike |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **+2**<br/> Might  | **+2**<br/> Agility |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
+
+<!-- -->
+> 🗡 **Elemental Charge (Signature Ability)**
+>
+> | **Charge, Melee, Strike, Weapon** |               **Main action** |
+> | --------------------------------- | ----------------------------: |
+> | **📏 Melee 1**                    | **🎯 One creature or object** |
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** 5 damage
+> - **12-16:** 7 fire damage
+> - **17+:** 9 lightning damage; M < 2 prone
+
+<!-- -->
+> ❇️ **Stomp**
+>
+> | **Area, Weapon** |               **Main action** |
+> | ---------------- | ----------------------------: |
+> | **📏 1 burst**   | **🎯 Each enemy in the area** |
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** 3 damage
+> - **12-16:** 5 damage
+> - **17+:** 7 damage
+>
+> **Effect:** Any target who is prone takes an extra 2 damage.
+
+<!-- -->
+> 👤 **Buck (2 Malice)**
+>
+> | **-**       |             **Maneuver** |
+> | ----------- | -----------------------: |
+> | **📏 Self** | **🎯 The horse's rider** |
+>
+> **Effect:** The horse vertical slides the target up to 3 squares, ignoring stability. The target can use a ranged ability at any point during this forced movement, and takes no damage if they then fall.
+
+<!-- -->
+> ⭐️ **Shared Otherworldly Grace**
+>
+> If the ceramic horse's rider has the Otherworldly Grace trait, the ceramic horse also has that trait.
+
+## Elves, Shadow
+
+Children of the Twilight Celestials, the shadow elves are the native denizens of the parasitic manifold of Equinox, also known as Dusk. Theirs is a world of perpetual twilight, a sun that never rises nor sets, a world that knows neither noon nor midnight.
+
+Equinox is a dying world. The shadow elves plan to use their magic to rewrite Orden's topography, creating a new home with themselves as rulers over all.
+
+#### In Equinox's Shadow
+
+Shadow elves are lit by an unseen sun. In places like Orden, they appear washed out, silhouetted, or grayscale. In Equinox, they have lived in the shadow of their manifold's eternal dusk, making them incompatible with other light sources. Their skills, magic, and weapons do not fare well in the sun. But in turn, they can blend in with existing darkness and dissolve out of sight.
+
+#### Manifold Weaponry
+
+The shadow elves have mastered the art of combining deep, ancient magic with cutting-edge technology. Their weaponsmiths craft blades of solid shadow that strike and wound in many dimensions at once. A creature hit by one of these blades is injured in multiple worlds at a time. Only a victim of strong mind can compartmentalize and end these effects on their body in the here and now.
+
+#### Brush Stalkers
+
+When the shadow elves invade Orden, they often ride domesticated dwimmerbeasts known as brush stalkers-quadrupeds who carry entire ecosystems on their rack of antlers. Newly born brush stalkers do not survive translation into Orden, so the ones the shadow elves ride are old: overgrown with bioluminescent moss, cracks on their ancient cloven hooves.
+
+A brush stalker's glamor allows them to look like a mundane deer. But when the glamour falls, the creature devours the light around them and plunges their surroundings into darkness.
+
+#### Fractured Factions
+
+Equinox is a small world, ruled by Every Strike of Lightning a Lover Betrayed, the Queen of Shadows. It is her shadow elf scouts and assassins who scour Orden seeking allies who might be persuaded that their lives would be better under a different master. But there are other factions of shadow elves in Equinox. Not all who dwell under the invisible sun seek conquest. Others are sages and pacifists who seek to heal their world or find an empty world somewhere in the timescape to resettle to.
+
+#### Duskcalling
+
+Certain shadow elf warriors have a natural link to the unseen sun that illuminates their world. With this link, a warrior can perform a Lay: a mix of humming and throat singing that aligns celestial bodies across manifolds. Some Lays can temporarily induce an eclipse on the manifold in which the duskcaller is performing, allowing their comrades to gain the advantage.
+
+A skilled duskcaller can lead a band in a group song powerful enough to recreate the conditions of Equinox for a short time. Some shadow elf factions are researching this connection in earnest, considering it a viable step toward terraforming a second Equinox.
+
+#### Shadow Tactics
+
+Belief that Equinox is a dying world makes the shadow elves desperate, for soon they'll have no home to retreat to. Their tactics rely on both impenetrable defense and a swift and decisive offense. Since they can't benefit from a home advantage, all warriors are taught to create one. If there are no places to hide, form them. If the light is too bright, remove it.
+
+In many shadow elf societies, all people are given basic combat training and are expected to serve at least one military tour in their life. Those who excel move on to become duskcallers, mournblades, and eclipses: paragons of strength who are venerated by the people. Research and discovery are employed for the primary purpose of furthering military goals. Even the popular children's game hide-and-seek is a military device created to prepare a people for constant, imminent conflict.
+
+#### Shadow Elf Languages
+
+Most shadow elves speak Illyvric, though platoon leaders might speak some Caelian or Hyrallic.
+
+###### Shadow Elf Malice
+
+At the start of any shadow elf's turn, you can spend Malice to activate one of the following features.
+
+<!-- -->
+> ⭐️ **Watch Me Disappear (3 Malice)**
+>
+> Each shadow elf acting this turn can attempt to hide as a free maneuver if they have concealment.
+
+<!-- -->
+> ⭐️ **Extra Dimension (5 Malice)**
+>
+> When any shadow elf acting this turn makes a strike against a target who has I < 2 in addition to the strike's regular effects, the target is bleeding (save ends) or slowed (save ends).
+
+<!-- -->
+> 🌀 **Home Is Where the Hurt Is (10 Malice)**
+>
+> The shadow elves synthesize a concentrated pocket manifold reminiscent of Equinox and graft it onto the encounter map. Until the end of the encounter, all creatures can see shadow elves in full color, and shadow elves no longer benefit from their Of the Umbra trait. Additionally, the potency of all shadow elf abilities increases by 2, and any enemy making a saving throw against an effect imposed by a shadow elf ability must roll an 8 or higher as they feel the effect across two worlds.
+
+###### Shadow Elf Cloak
+
+| Fey, Humanoid, Shadow Elf |            -            |      Level 4       |             Minion Harrier              | EV 6 for four minions  |
+| :-----------------------: | :---------------------: | :----------------: | :-------------------------------------: | :--------------------: |
+|     **1M**<br/> Size      |    **8**<br/> Speed     | **8**<br/> Stamina |          **0**<br/> Stability           | **2**<br/> Free Strike |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **+2 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **+3**<br/> Might     |   **+1**<br/> Agility   | **0**<br/> Reason  |          **0**<br/> Intuition           |  **0**<br/> Presence   |
+
+<!-- -->
+> 🗡 **Stick and Poke (Signature Ability)**
+>
+> | **Melee, Strike, Weapon** |                          **Main action** |
+> | ------------------------- | ---------------------------------------: |
+> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 2 damage
+> - **12-16:** 4 damage
+> - **17+:** 6 damage
+>
+> **Effect:** The cloak shifts up to 2 squares
+
+<!-- -->
+> ⭐️ **Of the Umbra**
+>
+> The cloak ignores concealment created by darkness. While the cloak is in direct sunlight, they have damage weakness 3. While the cloak has concealment, they have damage immunity 3.
+
+###### Shadow Elf Dusk Mage
+
+| Fey, Humanoid, Shadow Elf |            -            |      Level 4       |                 Minion Hexer                  | EV 6 for four minions  |
+| :-----------------------: | :---------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
+|     **1M**<br/> Size      |    **5**<br/> Speed     | **7**<br/> Stamina |             **0**<br/> Stability              | **2**<br/> Free Strike |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **0**<br/> Might      |   **+3**<br/> Agility   | **+2**<br/> Reason |             **0**<br/> Intuition              |  **0**<br/> Presence   |
+
+<!-- -->
+> 🏹 **Gloom Bolt (Signature Ability)**
+>
+> | **Magic, Ranged, Strike** |                          **Main action** |
+> | ------------------------- | ---------------------------------------: |
+> | **📏 Ranged 5**           | **🎯 One creature or object per minion** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 2 damage
+> - **12-16:** 4 damage; A < 2 slowed (save ends)
+> - **17+:** 6 damage; A < 3 slowed (save ends)
+
+<!-- -->
+> ⭐️ **Of the Umbra**
+>
+> The dusk mage ignores concealment created by darkness. While the dusk mage is in direct sunlight, they have damage weakness 3. While the dusk mage has concealment, they have damage immunity 3.
+
+###### Shadow Elf Sniper
+
+| Fey, Humanoid, Shadow Elf |            -            |      Level 4       |                 Minion Artillery                 | EV 6 for four minions  |
+| :-----------------------: | :---------------------: | :----------------: | :----------------------------------------------: | :--------------------: |
+|     **1M**<br/> Size      |    **5**<br/> Speed     | **7**<br/> Stamina |               **0**<br/> Stability               | **3**<br/> Free Strike |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **+2 damage bonus to strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **+1**<br/> Might     |   **+3**<br/> Agility   | **0**<br/> Reason  |               **0**<br/> Intuition               |  **0**<br/> Presence   |
+
+<!-- -->
+> 🏹 **Lumina Arrow (Signature Ability)**
+>
+> | **Ranged, Strike, Weapon** |                          **Main action** |
+> | -------------------------- | ---------------------------------------: |
+> | **📏 Ranged 7**            | **🎯 One creature or object per minion** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 3 damage
+> - **12-16:** 5 damage
+> - **17+:** 7 damage
+>
+> **Effect:** The next strike made against the target gains an edge.
+
+<!-- -->
+> ⭐️ **Of the Umbra**
+>
+> The sniper ignores concealment created by darkness. While the sniper is in direct sunlight, they have damage weakness 3. While the sniper has concealment, they have damage immunity 3.
+
+###### Shadow Elf Nightstrike
+
+| Fey, Humanoid, Shadow Elf |            -            |      Level 4       |                Minion Ambusher                | EV 6 for four minions  |
+| :-----------------------: | :---------------------: | :----------------: | :-------------------------------------------: | :--------------------: |
+|     **1M**<br/> Size      |    **5**<br/> Speed     | **8**<br/> Stamina |             **0**<br/> Stability              | **3**<br/> Free Strike |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |         -          | **Gain an edge on strikes**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **+1**<br/> Might     |   **+3**<br/> Agility   | **0**<br/> Reason  |             **+1**<br/> Intuition             |  **0**<br/> Presence   |
+
+<!-- -->
+> 🗡 **Vault (Signature Ability)**
+>
+> | **Melee, Strike, Weapon** |                          **Main action** |
+> | ------------------------- | ---------------------------------------: |
+> | **📏 Melee 2**            | **🎯 One creature or object per minion** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 3 damage
+> - **12-16:** 5 damage
+> - **17+:** 7 damage
+>
+> **Effect:** The nightstrike shifts to leap over the target and into an unoccupied space adjacent to the target, opposite from the nightstrike's original space.
+
+<!-- -->
+> ⭐️ **Of the Umbra**
+>
+> The nightstrike ignores concealment created by darkness. While the nightstrike is in direct sunlight, they have damage weakness 3. While the nightstrike has concealment, they have damage immunity 3.
+
+###### Shadow Elf Assassin
+
+| Fey, Humanoid, Shadow Elf |            -            |       Level 6       |    Platoon Artillery    |         EV 16          |
+| :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
+|     **1M**<br/> Size      |    **5**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **0**<br/> Might      |   **+3**<br/> Agility   | **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
+
+<!-- -->
+> 🏹 **Lumina Assault (Signature Ability)**
+>
+> | **Ranged, Strike, Weapon** |               **Main action** |
+> | -------------------------- | ----------------------------: |
+> | **📏 Ranged 15**           | **🎯 One creature or object** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 10 damage
+> - **12-16:** 15 damage
+> - **17+:** 18 damage
+>
+> **Effect:** The next ability used against the target has a double edge.
+>
+> **5 Malice:** Each non-minion ally within 3 squares of the target can make a free strike against them.
+
+<!-- -->
+> 🔳 **Splitbow (2 Malice)**
+>
+> | **Area, Ranged, Weapon**    |               **Main action** |
+> | --------------------------- | ----------------------------: |
+> | **📏 4 x 1 line within 10** | **🎯 Each enemy in the area** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 5 damage; I < 1 bleeding (save ends)
+> - **12-16:** 10 damage; I < 2 bleeding (save ends)
+> - **17+:** 12 damage; I < 3 bleeding (save ends)
+>
+> **Effect:** Each target is pushed up to 4 squares.
+
+<!-- -->
+> ⭐️ **Of the Umbra**
+>
+> The assassin ignores concealment created by darkness. While the assassin is in direct sunlight, they have damage weakness 3. While the assassin has concealment, they have damage immunity 3.
+
+###### Shadow Elf Duskcaller
+
+| Fey, Humanoid, Shadow Elf |            -            |       Level 5       |   Platoon Controller    |         EV 14          |
+| :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
+|     **1M**<br/> Size      |    **5**<br/> Speed     | **60**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **0**<br/> Might      |   **+3**<br/> Agility   | **+3**<br/> Reason  |  **+2**<br/> Intuition  |  **+1**<br/> Presence  |
+
+<!-- -->
+> 🗡 **Night Knife (Signature Ability)**
+>
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 1**            | **🎯 One creature or object** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 9 damage
+> - **12-16:** 13 damage
+> - **17+:** 16 damage
+>
+> **Effect:** If the duskcaller has concealment, they can target one additional creature or object.
+
+<!-- -->
+> 🔳 **The Lay of Cor'thoroth**
+>
+> | **Area, Magic, Ranged** |   **Maneuver** |
+> | ----------------------- | -------------: |
+> | **📏 2 cube within 3**  | **🎯 Special** |
+>
+> **Effect:** Until the start of the duskcaller's next turn, the area is filled with darkness.
+>
+> **2 Malice:** The size of the cube increases by 3.
+
+<!-- -->
+> ⭐️ **Of the Umbra**
+>
+> The duskcaller ignores concealment created by darkness. While the duskcaller is in direct sunlight, they have damage weakness 3. While the duskcaller has concealment, they have damage immunity 3.
+
+###### Shadow Elf Knightfell
+
+| Fey, Humanoid, Shadow Elf |            -            |       Level 4       |    Platoon Defender     |         EV 12          |
+| :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
+|     **1M**<br/> Size      |    **5**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **0**<br/> Might      |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **+3**<br/> Intuition  |  **+2**<br/> Presence  |
+
+<!-- -->
+> 🏹 **Suffusing Strike (Signature Ability)**
+>
+> | **Magic, Ranged, Strike** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 3**           | **🎯 One creature or object** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 8 corruption damage
+> - **12-16:** 12 corruption damage; R < 2 taunted (EoT)
+> - **17+:** 15 corruption damage; R < 3 taunted (EoT)
+
+<!-- -->
+> ❗️ **Trick of the Eye**
+>
+> | **Magic, Melee** | **Triggered action** |
+> | ---------------- | -------------------: |
+> | **📏 Melee 2**   |      **🎯 One ally** |
+>
+> **Trigger:** An enemy within distance makes a strike against the target.
+>
+> **Effect:** The target takes half the damage and the knightfell takes the other half.
+
+<!-- -->
+> ⭐️ **Of the Umbra**
+>
+> The knightfell ignores concealment created by darkness. While the knightfell is in direct sunlight, they have damage weakness 3. While the knightfell has concealment, they have damage immunity 3.
+
+###### Shadow Elf Luminator
+
+| Fey, Humanoid, Shadow Elf |            -            |       Level 4       |     Platoon Support     |         EV 12          |
+| :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
+|     **1M**<br/> Size      |    **5**<br/> Speed     | **60**<br/> Stamina |  **0**<br/> Stability   | **5**<br/> Free Strike |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **0**<br/> Might      |   **+1**<br/> Agility   | **+1**<br/> Reason  |  **+3**<br/> Intuition  |  **+2**<br/> Presence  |
+
+<!-- -->
+> 🏹 **Lumina Mark (Signature Ability)**
+>
+> | **Magic, Ranged, Strike** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 3**           | **🎯 One creature or object** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 8 lightning damage
+> - **12-16:** 12 lightning damage
+> - **17+:** 15 lightning damage
+>
+> **Effect:** The next strike made against the target deals an extra 5 damage.
+
+<!-- -->
+> ❇️ **Mourning Till Dusk (3 Malice)**
+>
+> | **Area, Magic** |              **Main action** |
+> | --------------- | ---------------------------: |
+> | **📏 2 burst**  | **🎯 Each ally in the area** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** The target regains 6 Stamina.
+> - **12-16:** The target regains 9 Stamina.
+> - **17+:** The target regains 12 Stamina and the Director gains 3 Malice.
+>
+> **Effect:** Each target gains an edge on their next strike.
+
+<!-- -->
+> ⭐️ **Of the Umbra**
+>
+> The luminator ignores concealment created by darkness. While the luminator is in direct sunlight, they have damage weakness 3. While the luminator has concealment, they have damage immunity 3.
+
+###### Shadow Elf Moondancer
+
+| Fey, Humanoid, Shadow Elf |            -            |       Level 5       |     Platoon Harrier     |         EV 14          |
+| :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
+|     **1M**<br/> Size      |    **7**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **+1**<br/> Might     |   **+3**<br/> Agility   | **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
+
+<!-- -->
+> 🗡 **Crescent Sweep (Signature Ability)**
+>
+> | **Charge, Melee, Strike, Weapon** |               **Main action** |
+> | --------------------------------- | ----------------------------: |
+> | **📏 Melee 1**                    | **🎯 One creature or object** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 9 damage
+> - **12-16:** 13 damage
+> - **17+:** 16 damage
+>
+> **Effect:** Until the end of the current turn, the moondancer ignores opportunity attacks from the target.
+
+<!-- -->
+> ❗️ **Dissolve**
+>
+> | **Magic**   | **Triggered action** |
+> | ----------- | -------------------: |
+> | **📏 Self** |          **🎯 Self** |
+>
+> **Trigger:** The moondancer takes damage from a strike.
+>
+> **Effect:** The moondancer can teleport up to 10 squares to a space with concealment created by darkness.
+
+<!-- -->
+> ⭐️ **Of the Umbra**
+>
+> The moondancer ignores concealment created by darkness. While the moondancer is in direct sunlight, they have damage weakness 3. While the moondancer has concealment, they have damage immunity 3.
+
+###### Shadow Elf Mournblade
+
+| Fey, Humanoid, Shadow Elf |            -            |       Level 6       |    Platoon Ambusher     |         EV 16          |
+| :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
+|     **1M**<br/> Size      |    **5**<br/> Speed     | **80**<br/> Stamina |  **0**<br/> Stability   | **7**<br/> Free Strike |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **+2**<br/> Might     |   **+3**<br/> Agility   | **+1**<br/> Reason  |  **+2**<br/> Intuition  |  **0**<br/> Presence   |
+
+<!-- -->
+> 🗡 **Knife in the Dark (Signature Ability)**
+>
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 1**            | **🎯 One creature or object** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 10 damage
+> - **12-16:** 15 damage
+> - **17+:** 18 damage
+>
+> **Effect:** The mournblade is invisible to the target until the start of the mournblade's next turn.
+
+<!-- -->
+> 👤 **Shadow Step**
+>
+> | **Magic**   | **Maneuver** |
+> | ----------- | -----------: |
+> | **📏 Self** |  **🎯 Self** |
+>
+> **Effect:** If the mournblade has concealment, they can teleport up to 10 squares to a space with concealment created by darkness.
+
+<!-- -->
+> ⭐️ **Of the Umbra**
+>
+> The mournblade ignores concealment created by darkness. While the mournblade is in direct sunlight, they have damage weakness 3. While the mournblade has concealment, they have damage immunity 3.
+
+###### Shadow Elf Noctis Mage
+
+| Fey, Humanoid, Shadow Elf |            -            |       Level 6       |      Platoon Hexer      |         EV 16          |
+| :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
+|     **1M**<br/> Size      |    **5**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **0**<br/> Might      |   **+2**<br/> Agility   | **+3**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
+
+<!-- -->
+> 🏹 **Blotting Bolt (Signature Ability)**
+>
+> | **Magic, Ranged, Strike** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 5**           | **🎯 One creature or object** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 9 damage
+> - **12-16:** 14 damage
+> - **17+:** 17 damage
+>
+> **Effect:** The target takes a bane on their next strike.
+>
+> **3 Malice:** The target instead has a double bane on the next ability they use.
+
+<!-- -->
+> 🏹 **Enemies in the Dark (3 Malice)**
+>
+> | **Magic, Ranged, Strike** |    **Main action** |
+> | ------------------------- | -----------------: |
+> | **📏 Ranged 5**           | **🎯 Two enemies** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 8 damage; R < 1 the target makes a free strike against one enemy of the noctis mage's choice.
+> - **12-16:** 10 damage; R < 2 the target makes a free strike against one enemy of the noctis mage's choice.
+> - **17+:** 13 damage; R < 3 the target uses a signature ability against one enemy of the noctis mage's choice.
+
+<!-- -->
+> ⭐️ **Of the Umbra**
+>
+> The noctis mage ignores concealment created by darkness. While the noctis mage is in direct sunlight, they have damage weakness 3. While the noctis mage has concealment, they have damage immunity 3.
+
+###### Shadow Elf Panther
+
+| Fey, Humanoid, Shadow Elf |            -            |       Level 4       |      Platoon Brute      |         EV 12          |
+| :-----------------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
+|     **1M**<br/> Size      |    **5**<br/> Speed     | **70**<br/> Stamina |  **0**<br/> Stability   | **6**<br/> Free Strike |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **+3**<br/> Might     |   **+2**<br/> Agility   | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
+
+<!-- -->
+> 🗡 **Dusk Cleave (Signature Ability)**
+>
+> | **Melee, Strike, Weapon** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Melee 1**            | **🎯 One creature or object** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 9 damage
+> - **12-16:** 13 damage
+> - **17+:** 16 damage; I < 3 bleeding (save ends)
+>
+> **Effect:** The panther can make a free strike against a creature or object adjacent to the target.
+
+<!-- -->
+> ❇️ **Bladestorm (3 Malice)**
+>
+> | **Area, Weapon** |               **Main action** |
+> | ---------------- | ----------------------------: |
+> | **📏 2 burst**   | **🎯 Each enemy in the area** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 5 corruption damage
+> - **12-16:** 8 corruption damage; I < 2 dazed (save ends)
+> - **17+:** 10 corruption damage; I < 3 dazed (save ends)
+>
+> **Effect:** The panther has a double edge on strikes against targets dazed this way.
+
+<!-- -->
+> ⭐️ **Of the Umbra**
+>
+> The panther ignores concealment created by darkness. While the panther is in direct sunlight, they have damage weakness 3. While the panther has concealment, they have damage immunity 3.
+
+###### Shadow Elf Deployments
+
+**Shadow Elf Deployments**
+
+When under order of the Shadow Queen, shadow elf missions outside of Equinox are usually short, dangerous, and targeted. They rarely last more than a week or two, and the force often appears in Orden not far from their target. Mission goals trend towards the nefarious-kidnapping, assassination, theft, and general skullduggery are the order of the day.
+
+However, not every shadow elf force is affiliate d wit h th queen. Some are exiled rebels plotting their return, others independent groups searching for lost magic to restore their world, and yet others have left Equinox permanently to seek new lives in the caverns and deep woods of Orden. No matter their affiliation , these groups will brook no attempts to thwart their goals and are all deadly warriors.
+
+**Shadow Elf Sample Encounters**
+
+- **Infiltrator Wing, 44 EV:** Eight cloaks, four dusk mages, one moondancer, one luminator
+- **Colony Guard, 64 EV:** Eight nightstrikes, eight snipers, one knightfell, one brush stalker, one noctis mage
+- **Kill Wing, 84 EV:** Eight dusk mages, two assassins, two panthers, one mournblade
+- **Shadow Incursion, 122 EV:** Sixteen cloaks, eight snipers, two moondancers, one luminator, one duskcaller, one eclipse
+
+###### Shadow Elf Eclipse
+
+| Fey, Humanoid, Shadow Elf |            -            |       Level 6        |         Leader          |         EV 32          |
+| :-----------------------: | :---------------------: | :------------------: | :---------------------: | :--------------------: |
+|     **1M**<br/> Size      |    **6**<br/> Speed     | **180**<br/> Stamina |  **1**<br/> Stability   | **7**<br/> Free Strike |
+|    **-**<br/> Immunity    | **Climb**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **+4**<br/> Might     |   **+3**<br/> Agility   |  **+2**<br/> Reason  |  **+1**<br/> Intuition  |  **+2**<br/> Presence  |
+
+<!-- -->
+> 🗡 **Manifold Blade (Signature Ability)**
+>
+> | **Melee, Strike, Weapon** |                 **Main action** |
+> | ------------------------- | ------------------------------: |
+> | **📏 Melee 1**            | **🎯 Two creatures or objects** |
+>
+> **Power Roll + 4:**
+>
+> - **≤11:** 11 damage; I < 2 bleeding (save ends)
+> - **12-16:** 16 damage; I < 3 bleeding (save ends)
+> - **17+:** 19 damage; I < 4 bleeding (save ends)
+>
+> **2 Malice:** The potency increases by 1.
+
+<!-- -->
+> 🏹 **Grasping Shadow**
+>
+> | **Magic, Ranged** |                                       **Maneuver** |
+> | ----------------- | -------------------------------------------------: |
+> | **📏 Ranged 5**   | **🎯 Three creatures or objects casting a shadow** |
+>
+> **Power Roll + 4:**
+>
+> - **≤11:** Pull 5; I < 2 slowed (save ends)
+> - **12-16:** Pull 7; I < 3 slowed (save ends)
+> - **17+:** Pull 10; I < 4 slowed (save ends)
+
+<!-- -->
+> ❗️ **Put It Out!**
+>
+> | **Ranged**       |        **Triggered action** |
+> | ---------------- | --------------------------: |
+> | **📏 Ranged 10** | **🎯 The triggering enemy** |
+>
+> **Trigger:** An enemy within distance uses an ability that emits light, including abilities that deal fire or lightning damage .
+>
+> **Effect:** The target has a double bane on the ability.
+
+<!-- -->
+> ⭐️ **End Effec**
+>
+> At the end of each of their turns, the eclipse can take 10 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way.
+
+<!-- -->
+> ⭐️ **Of the Umbra**
+>
+> The eclipse ignores concealment created by darkness. While the eclipse is in direct sunlight, they have damage weakness 3. While the eclipse has concealment, they have damage immunity 3.
+
+<!-- -->
+> ☠️ **From the Shadows (Villain Action 1)**
+>
+> | **Ranged**      |          **-** |
+> | --------------- | -------------: |
+> | **📏 Ranged 5** | **🎯 Special** |
+>
+> **Effect:** The eclipse calls forth one brush stalker into an unoccupied space within distance. Each ally within distance can then shift up to their speed and make a free strike.
+
+<!-- -->
+> ☠️ **Cast Away All Hope (Villain Action 2)**
+>
+> | **Area, Magic** |                         **-** |
+> | --------------- | ----------------------------: |
+> | **📏 3 burst**  | **🎯 Each enemy in the area** |
+>
+> **Effect:** Each target loses all their surges. Additionally, until the end of the round, allies ignore edges and double edges on any targets' abilities, and ignore any nondamaging effects of any target's damage-dealing abilities.
+
+<!-- -->
+> ☠️ **Umbral Hunger (Villain Action 3)**
+>
+> | **Area, Magic**        |                         **-** |
+> | ---------------------- | ----------------------------: |
+> | **📏 3 cube within 5** | **🎯 Each enemy in the area** |
+>
+> **Power Roll + 4:**
+>
+> - **≤11:** 7 corruption damage; R < 2 the target has speed 0 (save ends)
+> - **12-16:** 12 corruption damage; R < 3 the target has speed 0 (save ends)
+> - **17+:** 15 corruption damage; R < 4 the target has speed 0 (save ends)
+>
+> **Effect:** The area is shrouded in darkness that creates concealment until the end of the encounter. Any enemy who starts their turn in the area takes 5 corruption damage.
+
+###### Brush Stalker
+
+| Animal, Fey, Shadow Elf |          -          |       Level 4       |      Platoon Mount      |         EV 12          |
+| :---------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
+|     **2**<br/> Size     |  **8**<br/> Speed   | **60**<br/> Stamina |  **3**<br/> Stability   | **5**<br/> Free Strike |
+|   **-**<br/> Immunity   | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|    **+3**<br/> Might    | **+2**<br/> Agility | **-1**<br/> Reason  |  **+1**<br/> Intuition  |  **+1**<br/> Presence  |
+
+<!-- -->
+> 🗡 **Gore (Signature Ability)**
+>
+> | **Charge, Melee, Strike, Weapon** |                 **Main action** |
+> | --------------------------------- | ------------------------------: |
+> | **📏 Melee 2**                    | **🎯 Two creatures or objects** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 7 damage
+> - **12-16:** 10 damage
+> - **17+:** 13 damage
+
+<!-- -->
+> ❇️ **Reclamation (2 Malice)**
+>
+> | **Area, Magic** |               **Main action** |
+> | --------------- | ----------------------------: |
+> | **📏 2 burst**  | **🎯 Each enemy in the area** |
+>
+> **Power Roll + 3:**
+>
+> - **≤11:** 4 corruption damage; M < 1 weakened (save ends)
+> - **12-16:** 7 corruption damage; M < 2 weakened (save ends)
+> - **17+:** 10 corruption damage; M < 3 weakened (save ends)
+
+<!-- -->
+> ⭐️ **Suneater**
+>
+> The area within 2 squares of the brush stalker is devoid of light and provides concealment.
+
+<!-- -->
+> ⭐️ **Wyrd Dyr**
+>
+> While they have line of effect to the brush stalker , any animal except another brush stalker is frightened

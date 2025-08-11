@@ -2,12 +2,12 @@
 file_basename: Ashen Hoarder Malice
 file_dpath: Monsters/Ashen Hoarder/Features
 item_id: ashen-hoarder-malice
-item_index: '06'
+item_index: '07'
 item_name: Ashen Hoarder Malice
 scc:
   - mcdm.monsters.v1:monster.feature:ashen-hoarder-malice
 scdc:
-  - 1.1.1:2.2:06
+  - 1.1.1:2.2:07
 source: mcdm.monsters.v1
 type: monster/feature
 ---

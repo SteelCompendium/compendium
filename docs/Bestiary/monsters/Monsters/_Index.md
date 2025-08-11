@@ -135,3 +135,34 @@ type: index
 | [Essence of Tides](../Elementals/Statblocks/Essence%20of%20Tides)                    |
 | [Field of Growth](../Elementals/Statblocks/Field%20of%20Growth)                      |
 | [Force of Earth](../Elementals/Statblocks/Force%20of%20Earth)                        |
+| [Elves High](../Elves%20High/Elves%20High)                                           |
+| [High Elf Malice](../Elves%20High/Features/High%20Elf%20Malice)                      |
+| [Brambleguard](../Elves%20High/Statblocks/Brambleguard)                              |
+| [Ceramic Horse](../Elves%20High/Statblocks/Ceramic%20Horse)                          |
+| [Elemental Mote](../Elves%20High/Statblocks/Elemental%20Mote)                        |
+| [High Elf Bloodletter](../Elves%20High/Statblocks/High%20Elf%20Bloodletter)          |
+| [High Elf Dawn Mage](../Elves%20High/Statblocks/High%20Elf%20Dawn%20Mage)            |
+| [High Elf Deathtouch](../Elves%20High/Statblocks/High%20Elf%20Deathtouch)            |
+| [High Elf Orbweaver](../Elves%20High/Statblocks/High%20Elf%20Orbweaver)              |
+| [High Elf Ordinator](../Elves%20High/Statblocks/High%20Elf%20Ordinator)              |
+| [High Elf Palinode](../Elves%20High/Statblocks/High%20Elf%20Palinode)                |
+| [High Elf Quiver](../Elves%20High/Statblocks/High%20Elf%20Quiver)                    |
+| [High Elf Wyrd](../Elves%20High/Statblocks/High%20Elf%20Wyrd)                        |
+| [High Elf Zephyr](../Elves%20High/Statblocks/High%20Elf%20Zephyr)                    |
+| [Soot Crow](../Elves%20High/Statblocks/Soot%20Crow)                                  |
+| [Elves Shadow](../Elves%20Shadow/Elves%20Shadow)                                     |
+| [Shadow Elf Malice](../Elves%20Shadow/Features/Shadow%20Elf%20Malice)                |
+| [Brush Stalker](../Elves%20Shadow/Statblocks/Brush%20Stalker)                        |
+| [Shadow Elf Assassin](../Elves%20Shadow/Statblocks/Shadow%20Elf%20Assassin)          |
+| [Shadow Elf Cloak](../Elves%20Shadow/Statblocks/Shadow%20Elf%20Cloak)                |
+| [Shadow Elf Duskcaller](../Elves%20Shadow/Statblocks/Shadow%20Elf%20Duskcaller)      |
+| [Shadow Elf Dusk Mage](../Elves%20Shadow/Statblocks/Shadow%20Elf%20Dusk%20Mage)      |
+| [Shadow Elf Eclipse](../Elves%20Shadow/Statblocks/Shadow%20Elf%20Eclipse)            |
+| [Shadow Elf Knightfell](../Elves%20Shadow/Statblocks/Shadow%20Elf%20Knightfell)      |
+| [Shadow Elf Luminator](../Elves%20Shadow/Statblocks/Shadow%20Elf%20Luminator)        |
+| [Shadow Elf Moondancer](../Elves%20Shadow/Statblocks/Shadow%20Elf%20Moondancer)      |
+| [Shadow Elf Mournblade](../Elves%20Shadow/Statblocks/Shadow%20Elf%20Mournblade)      |
+| [Shadow Elf Nightstrike](../Elves%20Shadow/Statblocks/Shadow%20Elf%20Nightstrike)    |
+| [Shadow Elf Noctis Mage](../Elves%20Shadow/Statblocks/Shadow%20Elf%20Noctis%20Mage)  |
+| [Shadow Elf Panther](../Elves%20Shadow/Statblocks/Shadow%20Elf%20Panther)            |
+| [Shadow Elf Sniper](../Elves%20Shadow/Statblocks/Shadow%20Elf%20Sniper)              |

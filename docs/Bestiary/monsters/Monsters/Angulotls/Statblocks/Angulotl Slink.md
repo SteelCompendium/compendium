@@ -2,12 +2,12 @@
 file_basename: Angulotl Slink
 file_dpath: Monsters/Angulotls/Statblocks
 item_id: angulotl-slink
-item_index: '12'
+item_index: '39'
 item_name: Angulotl Slink
 scc:
   - mcdm.monsters.v1:monster:angulotl-slink
 scdc:
-  - 1.1.1:2:12
+  - 1.1.1:2:39
 source: mcdm.monsters.v1
 type: monster
 ---

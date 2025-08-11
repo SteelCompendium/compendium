@@ -2,12 +2,12 @@
 file_basename: Pitling
 file_dpath: Monsters/Demons/Statblocks
 item_id: pitling
-item_index: '28'
+item_index: '55'
 item_name: Pitling
 scc:
   - mcdm.monsters.v1:monster:pitling
 scdc:
-  - 1.1.1:2:28
+  - 1.1.1:2:55
 source: mcdm.monsters.v1
 type: monster
 ---
