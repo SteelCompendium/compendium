@@ -2,12 +2,12 @@
 file_basename: Sand Stone Giant
 file_dpath: Monsters/Giants/Statblocks
 item_id: sand-stone-giant
-item_index: '40'
+item_index: '42'
 item_name: Sand Stone Giant
 scc:
   - mcdm.monsters.v1:monster:sand-stone-giant
 scdc:
-  - 1.1.1:2:40
+  - 1.1.1:2:42
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Fire Giant Fireballer
 file_dpath: Monsters/Giants/Statblocks
 item_id: fire-giant-fireballer
-item_index: '35'
+item_index: '37'
 item_name: Fire Giant Fireballer
 scc:
   - mcdm.monsters.v1:monster:fire-giant-fireballer
 scdc:
-  - 1.1.1:2:35
+  - 1.1.1:2:37
 source: mcdm.monsters.v1
 type: monster
 ---

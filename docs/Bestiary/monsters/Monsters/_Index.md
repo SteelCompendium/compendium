@@ -225,3 +225,7 @@ type: index
 | [Skitterling](../Goblins/Statblocks/Skitterling)                                         |
 | [War Spider](../Goblins/Statblocks/War%20Spider)                                         |
 | [Worg](../Goblins/Statblocks/Worg)                                                       |
+| [Griffon Malice](../Griffons/Features/Griffon%20Malice)                                  |
+| [Griffons](../Griffons/Griffons)                                                         |
+| [Griffon](../Griffons/Statblocks/Griffon)                                                |
+| [Striped Condor Griffon](../Griffons/Statblocks/Striped%20Condor%20Griffon)              |

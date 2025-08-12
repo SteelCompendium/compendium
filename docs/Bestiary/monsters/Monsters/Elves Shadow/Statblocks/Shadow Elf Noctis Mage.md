@@ -2,12 +2,12 @@
 file_basename: Shadow Elf Noctis Mage
 file_dpath: Monsters/Elves Shadow/Statblocks
 item_id: shadow-elf-noctis-mage
-item_index: '60'
+item_index: '62'
 item_name: Shadow Elf Noctis Mage
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-noctis-mage
 scdc:
-  - 1.1.1:2:60
+  - 1.1.1:2:62
 source: mcdm.monsters.v1
 type: monster
 ---

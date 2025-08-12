@@ -2,12 +2,12 @@
 file_basename: Draconian Malice
 file_dpath: Monsters/Draconians/Features
 item_id: draconian-malice
-item_index: '03'
+item_index: '04'
 item_name: Draconian Malice
 scc:
   - mcdm.monsters.v1:monster.feature:draconian-malice
 scdc:
-  - 1.1.1:2.2:03
+  - 1.1.1:2.2:04
 source: mcdm.monsters.v1
 type: monster/feature
 ---

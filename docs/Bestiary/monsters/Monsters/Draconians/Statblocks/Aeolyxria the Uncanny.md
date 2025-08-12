@@ -2,12 +2,12 @@
 file_basename: Aeolyxria the Uncanny
 file_dpath: Monsters/Draconians/Statblocks
 item_id: aeolyxria-the-uncanny
-item_index: '16'
+item_index: '18'
 item_name: Aeolyxria the Uncanny
 scc:
   - mcdm.monsters.v1:monster:aeolyxria-the-uncanny
 scdc:
-  - 1.1.1:2:16
+  - 1.1.1:2:18
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Devil Legate
 file_dpath: Monsters/Devils/Statblocks
 item_id: devil-legate
-item_index: '137'
+item_index: '139'
 item_name: Devil Legate
 scc:
   - mcdm.monsters.v1:monster:devil-legate
 scdc:
-  - 1.1.1:2:137
+  - 1.1.1:2:139
 source: mcdm.monsters.v1
 type: monster
 ---

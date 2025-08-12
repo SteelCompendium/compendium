@@ -2,12 +2,12 @@
 file_basename: High Elf Deathtouch
 file_dpath: Monsters/Elves High/Statblocks
 item_id: high-elf-deathtouch
-item_index: '31'
+item_index: '33'
 item_name: High Elf Deathtouch
 scc:
   - mcdm.monsters.v1:monster:high-elf-deathtouch
 scdc:
-  - 1.1.1:2:31
+  - 1.1.1:2:33
 source: mcdm.monsters.v1
 type: monster
 ---

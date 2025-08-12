@@ -2,12 +2,12 @@
 file_basename: High Elf Wyrd
 file_dpath: Monsters/Elves High/Statblocks
 item_id: high-elf-wyrd
-item_index: '24'
+item_index: '26'
 item_name: High Elf Wyrd
 scc:
   - mcdm.monsters.v1:monster:high-elf-wyrd
 scdc:
-  - 1.1.1:2:24
+  - 1.1.1:2:26
 source: mcdm.monsters.v1
 type: monster
 ---

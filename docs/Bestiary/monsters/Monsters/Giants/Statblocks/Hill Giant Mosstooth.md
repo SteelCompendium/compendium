@@ -2,12 +2,12 @@
 file_basename: Hill Giant Mosstooth
 file_dpath: Monsters/Giants/Statblocks
 item_id: hill-giant-mosstooth
-item_index: '38'
+item_index: '40'
 item_name: Hill Giant Mosstooth
 scc:
   - mcdm.monsters.v1:monster:hill-giant-mosstooth
 scdc:
-  - 1.1.1:2:38
+  - 1.1.1:2:40
 source: mcdm.monsters.v1
 type: monster
 ---

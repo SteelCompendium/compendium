@@ -2,12 +2,12 @@
 file_basename: Lumbering Egress
 file_dpath: Monsters/Demons/Statblocks
 item_id: lumbering-egress
-item_index: '102'
+item_index: '104'
 item_name: Lumbering Egress
 scc:
   - mcdm.monsters.v1:monster:lumbering-egress
 scdc:
-  - 1.1.1:2:102
+  - 1.1.1:2:104
 source: mcdm.monsters.v1
 type: monster
 ---
