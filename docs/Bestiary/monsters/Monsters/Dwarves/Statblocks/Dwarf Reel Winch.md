@@ -2,12 +2,12 @@
 file_basename: Dwarf Reel Winch
 file_dpath: Monsters/Dwarves/Statblocks
 item_id: dwarf-reel-winch
-item_index: '122'
+item_index: '135'
 item_name: Dwarf Reel Winch
 scc:
   - mcdm.monsters.v1:monster:dwarf-reel-winch
 scdc:
-  - 1.1.1:2:122
+  - 1.1.1:2:135
 source: mcdm.monsters.v1
 type: monster
 ---

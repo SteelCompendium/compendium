@@ -2,12 +2,12 @@
 file_basename: Gloom Dragon Malice
 file_dpath: Monsters/Dragons/Features
 item_id: gloom-dragon-malice
-item_index: '18'
+item_index: '19'
 item_name: Gloom Dragon Malice
 scc:
   - mcdm.monsters.v1:monster.feature:gloom-dragon-malice
 scdc:
-  - 1.1.1:2.2:18
+  - 1.1.1:2.2:19
 source: mcdm.monsters.v1
 type: monster/feature
 ---

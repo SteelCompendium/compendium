@@ -166,3 +166,18 @@ type: index
 | [Shadow Elf Noctis Mage](../Elves%20Shadow/Statblocks/Shadow%20Elf%20Noctis%20Mage)  |
 | [Shadow Elf Panther](../Elves%20Shadow/Statblocks/Shadow%20Elf%20Panther)            |
 | [Shadow Elf Sniper](../Elves%20Shadow/Statblocks/Shadow%20Elf%20Sniper)              |
+| [Elves Wode](../Elves%20Wode/Elves%20Wode)                                           |
+| [Wode Elf Malice](../Elves%20Wode/Features/Wode%20Elf%20Malice)                      |
+| [Wode Elf Chirurgeon](../Elves%20Wode/Statblocks/Wode%20Elf%20Chirurgeon)            |
+| [Wode Elf Druid](../Elves%20Wode/Statblocks/Wode%20Elf%20Druid)                      |
+| [Wode Elf Green Seer](../Elves%20Wode/Statblocks/Wode%20Elf%20Green%20Seer)          |
+| [Wode Elf Greenskeeper](../Elves%20Wode/Statblocks/Wode%20Elf%20Greenskeeper)        |
+| [Wode Elf Guerrilla](../Elves%20Wode/Statblocks/Wode%20Elf%20Guerrilla)              |
+| [Wode Elf Gweiadur](../Elves%20Wode/Statblocks/Wode%20Elf%20Gweiadur)                |
+| [Wode Elf Lookout](../Elves%20Wode/Statblocks/Wode%20Elf%20Lookout)                  |
+| [Wode Elf Runner](../Elves%20Wode/Statblocks/Wode%20Elf%20Runner)                    |
+| [Wode Elf Scout](../Elves%20Wode/Statblocks/Wode%20Elf%20Scout)                      |
+| [Wode Elf Sentry](../Elves%20Wode/Statblocks/Wode%20Elf%20Sentry)                    |
+| [Wode Elf Warleader](../Elves%20Wode/Statblocks/Wode%20Elf%20Warleader)              |
+| [Wode Elf Yeoman](../Elves%20Wode/Statblocks/Wode%20Elf%20Yeoman)                    |
+| [Wodenelg](../Elves%20Wode/Statblocks/Wodenelg)                                      |

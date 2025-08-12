@@ -2,12 +2,12 @@
 file_basename: Angulotl Dart
 file_dpath: Monsters/Angulotls/Statblocks
 item_id: angulotl-dart
-item_index: '40'
+item_index: '53'
 item_name: Angulotl Dart
 scc:
   - mcdm.monsters.v1:monster:angulotl-dart
 scdc:
-  - 1.1.1:2:40
+  - 1.1.1:2:53
 source: mcdm.monsters.v1
 type: monster
 ---

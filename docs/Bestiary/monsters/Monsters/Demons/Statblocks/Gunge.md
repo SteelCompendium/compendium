@@ -2,12 +2,12 @@
 file_basename: Gunge
 file_dpath: Monsters/Demons/Statblocks
 item_id: gunge
-item_index: '71'
+item_index: '84'
 item_name: Gunge
 scc:
   - mcdm.monsters.v1:monster:gunge
 scdc:
-  - 1.1.1:2:71
+  - 1.1.1:2:84
 source: mcdm.monsters.v1
 type: monster
 ---

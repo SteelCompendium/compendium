@@ -2,12 +2,12 @@
 file_basename: Ensnarer
 file_dpath: Monsters/Demons/Statblocks
 item_id: ensnarer
-item_index: '56'
+item_index: '69'
 item_name: Ensnarer
 scc:
   - mcdm.monsters.v1:monster:ensnarer
 scdc:
-  - 1.1.1:2:56
+  - 1.1.1:2:69
 source: mcdm.monsters.v1
 type: monster
 ---

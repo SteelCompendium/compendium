@@ -2,12 +2,12 @@
 file_basename: Tormenauk
 file_dpath: Monsters/Demons/Statblocks
 item_id: tormenauk
-item_index: '80'
+item_index: '93'
 item_name: Tormenauk
 scc:
   - mcdm.monsters.v1:monster:tormenauk
 scdc:
-  - 1.1.1:2:80
+  - 1.1.1:2:93
 source: mcdm.monsters.v1
 type: monster
 ---

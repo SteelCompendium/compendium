@@ -2,12 +2,12 @@
 file_basename: Soulraker Stinger
 file_dpath: Monsters/Demons/Statblocks
 item_id: soulraker-stinger
-item_index: '60'
+item_index: '73'
 item_name: Soulraker Stinger
 scc:
   - mcdm.monsters.v1:monster:soulraker-stinger
 scdc:
-  - 1.1.1:2:60
+  - 1.1.1:2:73
 source: mcdm.monsters.v1
 type: monster
 ---

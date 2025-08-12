@@ -2,12 +2,12 @@
 file_basename: Bugbear Commander
 file_dpath: Monsters/Bugbears/Statblocks
 item_id: bugbear-commander
-item_index: '90'
+item_index: '103'
 item_name: Bugbear Commander
 scc:
   - mcdm.monsters.v1:monster:bugbear-commander
 scdc:
-  - 1.1.1:2:90
+  - 1.1.1:2:103
 source: mcdm.monsters.v1
 type: monster
 ---
