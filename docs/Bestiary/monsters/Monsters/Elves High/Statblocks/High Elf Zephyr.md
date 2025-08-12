@@ -2,12 +2,12 @@
 file_basename: High Elf Zephyr
 file_dpath: Monsters/Elves High/Statblocks
 item_id: high-elf-zephyr
-item_index: '19'
+item_index: '30'
 item_name: High Elf Zephyr
 scc:
   - mcdm.monsters.v1:monster:high-elf-zephyr
 scdc:
-  - 1.1.1:2:19
+  - 1.1.1:2:30
 source: mcdm.monsters.v1
 type: monster
 ---

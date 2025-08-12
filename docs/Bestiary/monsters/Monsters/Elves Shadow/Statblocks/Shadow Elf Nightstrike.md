@@ -2,12 +2,12 @@
 file_basename: Shadow Elf Nightstrike
 file_dpath: Monsters/Elves Shadow/Statblocks
 item_id: shadow-elf-nightstrike
-item_index: '44'
+item_index: '55'
 item_name: Shadow Elf Nightstrike
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-nightstrike
 scdc:
-  - 1.1.1:2:44
+  - 1.1.1:2:55
 source: mcdm.monsters.v1
 type: monster
 ---

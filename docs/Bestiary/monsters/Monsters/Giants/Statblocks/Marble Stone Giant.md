@@ -2,12 +2,12 @@
 file_basename: Marble Stone Giant
 file_dpath: Monsters/Giants/Statblocks
 item_id: marble-stone-giant
-item_index: '31'
+item_index: '42'
 item_name: Marble Stone Giant
 scc:
   - mcdm.monsters.v1:monster:marble-stone-giant
 scdc:
-  - 1.1.1:2:31
+  - 1.1.1:2:42
 source: mcdm.monsters.v1
 type: monster
 ---

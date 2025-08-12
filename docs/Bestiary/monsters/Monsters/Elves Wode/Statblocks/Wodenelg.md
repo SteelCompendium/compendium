@@ -2,12 +2,12 @@
 file_basename: Wodenelg
 file_dpath: Monsters/Elves Wode/Statblocks
 item_id: wodenelg
-item_index: '55'
+item_index: '66'
 item_name: Wodenelg
 scc:
   - mcdm.monsters.v1:monster:wodenelg
 scdc:
-  - 1.1.1:2:55
+  - 1.1.1:2:66
 source: mcdm.monsters.v1
 type: monster
 ---

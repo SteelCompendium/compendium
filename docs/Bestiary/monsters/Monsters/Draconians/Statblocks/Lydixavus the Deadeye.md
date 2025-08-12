@@ -2,12 +2,12 @@
 file_basename: Lydixavus the Deadeye
 file_dpath: Monsters/Draconians/Statblocks
 item_id: lydixavus-the-deadeye
-item_index: '07'
+item_index: '18'
 item_name: Lydixavus the Deadeye
 scc:
   - mcdm.monsters.v1:monster:lydixavus-the-deadeye
 scdc:
-  - 1.1.1:2:07
+  - 1.1.1:2:18
 source: mcdm.monsters.v1
 type: monster
 ---

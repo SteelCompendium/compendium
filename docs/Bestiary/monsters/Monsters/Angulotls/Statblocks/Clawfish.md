@@ -2,12 +2,12 @@
 file_basename: Clawfish
 file_dpath: Monsters/Angulotls/Statblocks
 item_id: clawfish
-item_index: '72'
+item_index: '83'
 item_name: Clawfish
 scc:
   - mcdm.monsters.v1:monster:clawfish
 scdc:
-  - 1.1.1:2:72
+  - 1.1.1:2:83
 source: mcdm.monsters.v1
 type: monster
 ---

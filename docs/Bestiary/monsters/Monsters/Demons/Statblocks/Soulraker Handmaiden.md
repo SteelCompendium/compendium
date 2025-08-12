@@ -2,12 +2,12 @@
 file_basename: Soulraker Handmaiden
 file_dpath: Monsters/Demons/Statblocks
 item_id: soulraker-handmaiden
-item_index: '95'
+item_index: '106'
 item_name: Soulraker Handmaiden
 scc:
   - mcdm.monsters.v1:monster:soulraker-handmaiden
 scdc:
-  - 1.1.1:2:95
+  - 1.1.1:2:106
 source: mcdm.monsters.v1
 type: monster
 ---

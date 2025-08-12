@@ -2,12 +2,12 @@
 file_basename: High Elf Ordinator
 file_dpath: Monsters/Elves High/Statblocks
 item_id: high-elf-ordinator
-item_index: '14'
+item_index: '25'
 item_name: High Elf Ordinator
 scc:
   - mcdm.monsters.v1:monster:high-elf-ordinator
 scdc:
-  - 1.1.1:2:14
+  - 1.1.1:2:25
 source: mcdm.monsters.v1
 type: monster
 ---

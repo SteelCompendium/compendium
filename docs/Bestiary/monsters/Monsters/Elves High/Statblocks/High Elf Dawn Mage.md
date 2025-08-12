@@ -2,12 +2,12 @@
 file_basename: High Elf Dawn Mage
 file_dpath: Monsters/Elves High/Statblocks
 item_id: high-elf-dawn-mage
-item_index: '12'
+item_index: '23'
 item_name: High Elf Dawn Mage
 scc:
   - mcdm.monsters.v1:monster:high-elf-dawn-mage
 scdc:
-  - 1.1.1:2:12
+  - 1.1.1:2:23
 source: mcdm.monsters.v1
 type: monster
 ---

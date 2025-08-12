@@ -2,12 +2,12 @@
 file_basename: Frenzied
 file_dpath: Monsters/Demons/Statblocks
 item_id: frenzied
-item_index: '100'
+item_index: '111'
 item_name: Frenzied
 scc:
   - mcdm.monsters.v1:monster:frenzied
 scdc:
-  - 1.1.1:2:100
+  - 1.1.1:2:111
 source: mcdm.monsters.v1
 type: monster
 ---

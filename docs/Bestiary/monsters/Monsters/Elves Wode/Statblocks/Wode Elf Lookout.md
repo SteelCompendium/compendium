@@ -2,12 +2,12 @@
 file_basename: Wode Elf Lookout
 file_dpath: Monsters/Elves Wode/Statblocks
 item_id: wode-elf-lookout
-item_index: '58'
+item_index: '69'
 item_name: Wode Elf Lookout
 scc:
   - mcdm.monsters.v1:monster:wode-elf-lookout
 scdc:
-  - 1.1.1:2:58
+  - 1.1.1:2:69
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Devil Magistrate
 file_dpath: Monsters/Devils/Statblocks
 item_id: devil-magistrate
-item_index: '123'
+item_index: '134'
 item_name: Devil Magistrate
 scc:
   - mcdm.monsters.v1:monster:devil-magistrate
 scdc:
-  - 1.1.1:2:123
+  - 1.1.1:2:134
 source: mcdm.monsters.v1
 type: monster
 ---

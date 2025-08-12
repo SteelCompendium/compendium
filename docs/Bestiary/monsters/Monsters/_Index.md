@@ -199,3 +199,16 @@ type: index
 | [Hill Giant Mosstooth](../Giants/Statblocks/Hill%20Giant%20Mosstooth)                |
 | [Marble Stone Giant](../Giants/Statblocks/Marble%20Stone%20Giant)                    |
 | [Sand Stone Giant](../Giants/Statblocks/Sand%20Stone%20Giant)                        |
+| [Gnoll Malice](../Gnolls/Features/Gnoll%20Malice)                                    |
+| [Gnolls](../Gnolls/Gnolls)                                                           |
+| [Abyssal Hyena](../Gnolls/Statblocks/Abyssal%20Hyena)                                |
+| [Gnoll Abyssal Archer](../Gnolls/Statblocks/Gnoll%20Abyssal%20Archer)                |
+| [Gnoll Abyssal Summoner](../Gnolls/Statblocks/Gnoll%20Abyssal%20Summoner)            |
+| [Gnoll Bonesplitter](../Gnolls/Statblocks/Gnoll%20Bonesplitter)                      |
+| [Gnoll Cackler](../Gnolls/Statblocks/Gnoll%20Cackler)                                |
+| [Gnoll Carnage](../Gnolls/Statblocks/Gnoll%20Carnage)                                |
+| [Gnoll Chainflai](../Gnolls/Statblocks/Gnoll%20Chainflai)                            |
+| [Gnoll Mage Mauler](../Gnolls/Statblocks/Gnoll%20Mage%20Mauler)                      |
+| [Gnoll Marauder](../Gnolls/Statblocks/Gnoll%20Marauder)                              |
+| [Gnoll Wildling](../Gnolls/Statblocks/Gnoll%20Wildling)                              |
+| [Tusker Demon](../Gnolls/Statblocks/Tusker%20Demon)                                  |
