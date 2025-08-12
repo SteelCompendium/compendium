@@ -7,13 +7,13 @@ feature_type: ability
 file_basename: Driving Assault
 file_dpath: Censor/1st-Level Features
 item_id: driving-assault-3-wrath
-item_index: '16'
+item_index: '17'
 item_name: Driving Assault (3 Wrath)
 level: 1
 scc:
   - mcdm.heroes.v1:feature.ability.censor.1st-level-feature:driving-assault-3-wrath
 scdc:
-  - 1.1.1:13.2.7.1:16
+  - 1.1.1:13.2.7.1:17
 source: mcdm.heroes.v1
 type: feature/ability/censor/1st-level-feature
 ---
