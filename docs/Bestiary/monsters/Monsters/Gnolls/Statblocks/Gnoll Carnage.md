@@ -84,7 +84,7 @@ type: monster
 > | --------------- | -----------------------------------: |
 > | **📏 5 burst**  | **🎯 Each winded enemy in the area** |
 >
-> **Effect:** The carnage's eyes and all exposed blood within distance glow bright red. Each target makes a Presence test.
+> **Effect:** The carnage's eyes and all exposed blood within distance glow bright red. Each target makes a **Presence test**.
 >
 > - **≤11:** The target can't regain Stamina until the end of the encounter.
 > - **12-16:** The target can't regain Stamina (save ends).

@@ -2,12 +2,12 @@
 file_basename: Gnolls
 file_dpath: Monsters/Gnolls
 item_id: gnolls
-item_index: '20'
+item_index: '21'
 item_name: Gnolls
 scc:
   - mcdm.monsters.v1:monster.section:gnolls
 scdc:
-  - 1.1.1:2.1:20
+  - 1.1.1:2.1:21
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -500,7 +500,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 > | --------------- | -----------------------------------: |
 > | **📏 5 burst**  | **🎯 Each winded enemy in the area** |
 >
-> **Effect:** The carnage's eyes and all exposed blood within distance glow bright red. Each target makes a Presence test.
+> **Effect:** The carnage's eyes and all exposed blood within distance glow bright red. Each target makes a **Presence test**.
 >
 > - **≤11:** The target can't regain Stamina until the end of the encounter.
 > - **12-16:** The target can't regain Stamina (save ends).
