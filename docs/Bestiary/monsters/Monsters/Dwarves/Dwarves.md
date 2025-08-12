@@ -2,12 +2,12 @@
 file_basename: Dwarves
 file_dpath: Monsters/Dwarves
 item_id: dwarves
-item_index: '01'
+item_index: '02'
 item_name: Dwarves
 scc:
   - mcdm.monsters.v1:monster.section:dwarves
 scdc:
-  - 1.1.1:2.1:01
+  - 1.1.1:2.1:02
 source: mcdm.monsters.v1
 type: monster/section
 ---

@@ -181,3 +181,6 @@ type: index
 | [Wode Elf Warleader](../Elves%20Wode/Statblocks/Wode%20Elf%20Warleader)              |
 | [Wode Elf Yeoman](../Elves%20Wode/Statblocks/Wode%20Elf%20Yeoman)                    |
 | [Wodenelg](../Elves%20Wode/Statblocks/Wodenelg)                                      |
+| [Fossil Cryptic Malice](../Fossil%20Cryptic/Features/Fossil%20Cryptic%20Malice)      |
+| [Fossil Cryptic](../Fossil%20Cryptic/Fossil%20Cryptic)                               |
+| [Fossil Cryptic](../Fossil%20Cryptic/Statblocks/Fossil%20Cryptic)                    |
