@@ -2,12 +2,12 @@
 file_basename: Shadow Elf Sniper
 file_dpath: Monsters/Elves Shadow/Statblocks
 item_id: shadow-elf-sniper
-item_index: '33'
+item_index: '46'
 item_name: Shadow Elf Sniper
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-sniper
 scdc:
-  - 1.1.1:2:33
+  - 1.1.1:2:46
 source: mcdm.monsters.v1
 type: monster
 ---

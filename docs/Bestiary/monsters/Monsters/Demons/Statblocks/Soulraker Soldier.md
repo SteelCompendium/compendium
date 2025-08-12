@@ -2,12 +2,12 @@
 file_basename: Soulraker Soldier
 file_dpath: Monsters/Demons/Statblocks
 item_id: soulraker-soldier
-item_index: '85'
+item_index: '98'
 item_name: Soulraker Soldier
 scc:
   - mcdm.monsters.v1:monster:soulraker-soldier
 scdc:
-  - 1.1.1:2:85
+  - 1.1.1:2:98
 source: mcdm.monsters.v1
 type: monster
 ---

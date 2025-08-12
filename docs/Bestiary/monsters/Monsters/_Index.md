@@ -184,3 +184,18 @@ type: index
 | [Fossil Cryptic Malice](../Fossil%20Cryptic/Features/Fossil%20Cryptic%20Malice)      |
 | [Fossil Cryptic](../Fossil%20Cryptic/Fossil%20Cryptic)                               |
 | [Fossil Cryptic](../Fossil%20Cryptic/Statblocks/Fossil%20Cryptic)                    |
+| [Giant Malice](../Giants/Features/Giant%20Malice)                                    |
+| [Giants](../Giants/Giants)                                                           |
+| [Basalt Stone Giant](../Giants/Statblocks/Basalt%20Stone%20Giant)                    |
+| [Fire Giant Chief](../Giants/Statblocks/Fire%20Giant%20Chief)                        |
+| [Fire Giant Fireballer](../Giants/Statblocks/Fire%20Giant%20Fireballer)              |
+| [Fire Giant Lightbearer](../Giants/Statblocks/Fire%20Giant%20Lightbearer)            |
+| [Fire Giant Red Fist](../Giants/Statblocks/Fire%20Giant%20Red%20Fist)                |
+| [Frost Giant Snowblaster](../Giants/Statblocks/Frost%20Giant%20Snowblaster)          |
+| [Frost Giant Storm Hurler](../Giants/Statblocks/Frost%20Giant%20Storm%20Hurler)      |
+| [Frost Giant Wind Sprinter](../Giants/Statblocks/Frost%20Giant%20Wind%20Sprinter)    |
+| [Granite Stone Giant](../Giants/Statblocks/Granite%20Stone%20Giant)                  |
+| [Hill Giant Clobberer](../Giants/Statblocks/Hill%20Giant%20Clobberer)                |
+| [Hill Giant Mosstooth](../Giants/Statblocks/Hill%20Giant%20Mosstooth)                |
+| [Marble Stone Giant](../Giants/Statblocks/Marble%20Stone%20Giant)                    |
+| [Sand Stone Giant](../Giants/Statblocks/Sand%20Stone%20Giant)                        |

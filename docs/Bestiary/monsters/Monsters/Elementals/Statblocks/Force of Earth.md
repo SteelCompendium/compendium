@@ -2,12 +2,12 @@
 file_basename: Force of Earth
 file_dpath: Monsters/Elementals/Statblocks
 item_id: force-of-earth
-item_index: '117'
+item_index: '130'
 item_name: Force of Earth
 scc:
   - mcdm.monsters.v1:monster:force-of-earth
 scdc:
-  - 1.1.1:2:117
+  - 1.1.1:2:130
 source: mcdm.monsters.v1
 type: monster
 ---

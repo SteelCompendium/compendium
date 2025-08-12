@@ -2,12 +2,12 @@
 file_basename: Tyburaki
 file_dpath: Monsters/Demons/Statblocks
 item_id: tyburaki
-item_index: '71'
+item_index: '84'
 item_name: Tyburaki
 scc:
   - mcdm.monsters.v1:monster:tyburaki
 scdc:
-  - 1.1.1:2:71
+  - 1.1.1:2:84
 source: mcdm.monsters.v1
 type: monster
 ---

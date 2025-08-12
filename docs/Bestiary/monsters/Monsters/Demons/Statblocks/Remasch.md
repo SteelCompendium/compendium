@@ -2,12 +2,12 @@
 file_basename: Remasch
 file_dpath: Monsters/Demons/Statblocks
 item_id: remasch
-item_index: '91'
+item_index: '104'
 item_name: Remasch
 scc:
   - mcdm.monsters.v1:monster:remasch
 scdc:
-  - 1.1.1:2:91
+  - 1.1.1:2:104
 source: mcdm.monsters.v1
 type: monster
 ---
