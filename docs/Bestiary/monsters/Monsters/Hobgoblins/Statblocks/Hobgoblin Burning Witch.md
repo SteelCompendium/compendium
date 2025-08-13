@@ -2,12 +2,12 @@
 file_basename: Hobgoblin Burning Witch
 file_dpath: Monsters/Hobgoblins/Statblocks
 item_id: hobgoblin-burning-witch
-item_index: '36'
+item_index: '51'
 item_name: Hobgoblin Burning Witch
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-burning-witch
 scdc:
-  - 1.1.1:2:36
+  - 1.1.1:2:51
 source: mcdm.monsters.v1
 type: monster
 ---

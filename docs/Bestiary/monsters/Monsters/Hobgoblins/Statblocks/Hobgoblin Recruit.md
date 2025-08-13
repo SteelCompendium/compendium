@@ -2,12 +2,12 @@
 file_basename: Hobgoblin Recruit
 file_dpath: Monsters/Hobgoblins/Statblocks
 item_id: hobgoblin-recruit
-item_index: '35'
+item_index: '50'
 item_name: Hobgoblin Recruit
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-recruit
 scdc:
-  - 1.1.1:2:35
+  - 1.1.1:2:50
 source: mcdm.monsters.v1
 type: monster
 ---

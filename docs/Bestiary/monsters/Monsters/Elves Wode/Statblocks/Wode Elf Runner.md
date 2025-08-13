@@ -2,12 +2,12 @@
 file_basename: Wode Elf Runner
 file_dpath: Monsters/Elves Wode/Statblocks
 item_id: wode-elf-runner
-item_index: '81'
+item_index: '96'
 item_name: Wode Elf Runner
 scc:
   - mcdm.monsters.v1:monster:wode-elf-runner
 scdc:
-  - 1.1.1:2:81
+  - 1.1.1:2:96
 source: mcdm.monsters.v1
 type: monster
 ---

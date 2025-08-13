@@ -38,7 +38,7 @@ Hags are treacherous by nature, and they only recruit creatures they can trust t
 
 Most hags speak Anjali, Caelian, Khelt, and Yllyric, with older hags often knowing several more languages.
 
-#### Hag Malice Malice Features
+#### Hag Malice
 
 At the start of a hag's turn, you can spend Malice to activate one of the following features.
 

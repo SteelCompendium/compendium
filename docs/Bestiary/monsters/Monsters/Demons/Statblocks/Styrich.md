@@ -2,12 +2,12 @@
 file_basename: Styrich
 file_dpath: Monsters/Demons/Statblocks
 item_id: styrich
-item_index: '113'
+item_index: '128'
 item_name: Styrich
 scc:
   - mcdm.monsters.v1:monster:styrich
 scdc:
-  - 1.1.1:2:113
+  - 1.1.1:2:128
 source: mcdm.monsters.v1
 type: monster
 ---

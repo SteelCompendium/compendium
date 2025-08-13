@@ -2,12 +2,12 @@
 file_basename: Dwarf Catchpole
 file_dpath: Monsters/Dwarves/Statblocks
 item_id: dwarf-catchpole
-item_index: '180'
+item_index: '195'
 item_name: Dwarf Catchpole
 scc:
   - mcdm.monsters.v1:monster:dwarf-catchpole
 scdc:
-  - 1.1.1:2:180
+  - 1.1.1:2:195
 source: mcdm.monsters.v1
 type: monster
 ---

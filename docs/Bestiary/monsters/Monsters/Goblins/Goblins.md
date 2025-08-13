@@ -22,7 +22,7 @@ Their long arms and prehensile toes make goblins particularly well adapted to en
 
 Whether within a society or living in exile, goblins survive and thrive because they work together. A single goblin forced into the wild is terrified. A dozen outlaw goblins are supremely confident-perhaps overly so. Such groups often become bandits who ambush travelers crossing through their territory, be it desert, forest, or underground. Larger goblin hordes might become unscrupulous mercenaries serving powerful villains. No matter how they're encountered, goblins prefer to fight as an overwhelming force and to flee when foes outnumber friends.
 
-###### Goblin Malice Malice Features
+###### Goblin Malice
 
 At the start of any goblin's turn, you can spend Malice to activate one of the following features.
 

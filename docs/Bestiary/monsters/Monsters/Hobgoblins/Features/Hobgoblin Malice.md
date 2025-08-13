@@ -1,18 +1,18 @@
 ---
-file_basename: Hobgoblin Malice Malice Features
+file_basename: Hobgoblin Malice
 file_dpath: Monsters/Hobgoblins/Features
-item_id: hobgoblin-malice-malice-features
+item_id: hobgoblin-malice
 item_index: 08
-item_name: Hobgoblin Malice Malice Features
+item_name: Hobgoblin Malice
 scc:
-  - mcdm.monsters.v1:monster.feature:hobgoblin-malice-malice-features
+  - mcdm.monsters.v1:monster.feature:hobgoblin-malice
 scdc:
   - 1.1.1:2.2:08
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Hobgoblin Malice Malice Features
+###### Hobgoblin Malice
 
 At the start of any hobgoblin's turn, you can spend Malice to activate one of the following features.
 

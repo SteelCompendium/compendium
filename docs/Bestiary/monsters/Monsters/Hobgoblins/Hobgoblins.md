@@ -48,7 +48,7 @@ Devils captured the grack'tanars eons ago. Broken, these demons wait for a call 
 
 Most hobgoblins speak Anjali, Caelian, and Szetch.
 
-###### Hobgoblin Malice Malice Features
+###### Hobgoblin Malice
 
 At the start of any hobgoblin's turn, you can spend Malice to activate one of the following features.
 

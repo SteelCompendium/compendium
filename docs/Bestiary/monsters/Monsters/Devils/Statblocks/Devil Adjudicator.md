@@ -2,12 +2,12 @@
 file_basename: Devil Adjudicator
 file_dpath: Monsters/Devils/Statblocks
 item_id: devil-adjudicator
-item_index: '149'
+item_index: '164'
 item_name: Devil Adjudicator
 scc:
   - mcdm.monsters.v1:monster:devil-adjudicator
 scdc:
-  - 1.1.1:2:149
+  - 1.1.1:2:164
 source: mcdm.monsters.v1
 type: monster
 ---

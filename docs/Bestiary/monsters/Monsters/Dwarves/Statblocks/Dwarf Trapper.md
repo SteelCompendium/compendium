@@ -2,12 +2,12 @@
 file_basename: Dwarf Trapper
 file_dpath: Monsters/Dwarves/Statblocks
 item_id: dwarf-trapper
-item_index: '184'
+item_index: '199'
 item_name: Dwarf Trapper
 scc:
   - mcdm.monsters.v1:monster:dwarf-trapper
 scdc:
-  - 1.1.1:2:184
+  - 1.1.1:2:199
 source: mcdm.monsters.v1
 type: monster
 ---

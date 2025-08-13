@@ -2,12 +2,12 @@
 file_basename: Hobgoblin Death Captain
 file_dpath: Monsters/Hobgoblins/Statblocks
 item_id: hobgoblin-death-captain
-item_index: '47'
+item_index: '62'
 item_name: Hobgoblin Death Captain
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-death-captain
 scdc:
-  - 1.1.1:2:47
+  - 1.1.1:2:62
 source: mcdm.monsters.v1
 type: monster
 ---

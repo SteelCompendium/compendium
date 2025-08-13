@@ -2,12 +2,12 @@
 file_basename: Grilp
 file_dpath: Monsters/Hobgoblins/Statblocks
 item_id: grilp
-item_index: '38'
+item_index: '53'
 item_name: Grilp
 scc:
   - mcdm.monsters.v1:monster:grilp
 scdc:
-  - 1.1.1:2:38
+  - 1.1.1:2:53
 source: mcdm.monsters.v1
 type: monster
 ---

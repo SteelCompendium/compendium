@@ -2,12 +2,12 @@
 file_basename: Dwarf Shieldwall
 file_dpath: Monsters/Dwarves/Statblocks
 item_id: dwarf-shieldwall
-item_index: '187'
+item_index: '202'
 item_name: Dwarf Shieldwall
 scc:
   - mcdm.monsters.v1:monster:dwarf-shieldwall
 scdc:
-  - 1.1.1:2:187
+  - 1.1.1:2:202
 source: mcdm.monsters.v1
 type: monster
 ---

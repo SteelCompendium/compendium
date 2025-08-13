@@ -2,12 +2,12 @@
 file_basename: Dwarf Gunner
 file_dpath: Monsters/Dwarves/Statblocks
 item_id: dwarf-gunner
-item_index: '186'
+item_index: '201'
 item_name: Dwarf Gunner
 scc:
   - mcdm.monsters.v1:monster:dwarf-gunner
 scdc:
-  - 1.1.1:2:186
+  - 1.1.1:2:201
 source: mcdm.monsters.v1
 type: monster
 ---
