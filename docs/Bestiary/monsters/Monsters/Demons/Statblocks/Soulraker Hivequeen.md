@@ -2,12 +2,12 @@
 file_basename: Soulraker Hivequeen
 file_dpath: Monsters/Demons/Statblocks
 item_id: soulraker-hivequeen
-item_index: '145'
+item_index: '146'
 item_name: Soulraker Hivequeen
 scc:
   - mcdm.monsters.v1:monster:soulraker-hivequeen
 scdc:
-  - 1.1.1:2:145
+  - 1.1.1:2:146
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Soulraker Scout
 file_dpath: Monsters/Demons/Statblocks
 item_id: soulraker-scout
-item_index: '144'
+item_index: '145'
 item_name: Soulraker Scout
 scc:
   - mcdm.monsters.v1:monster:soulraker-scout
 scdc:
-  - 1.1.1:2:144
+  - 1.1.1:2:145
 source: mcdm.monsters.v1
 type: monster
 ---

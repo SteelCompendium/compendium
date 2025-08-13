@@ -2,12 +2,12 @@
 file_basename: Goblin Monarch
 file_dpath: Monsters/Goblins/Statblocks
 item_id: goblin-monarch
-item_index: '176'
+item_index: '177'
 item_name: Goblin Monarch
 scc:
   - mcdm.monsters.v1:monster:goblin-monarch
 scdc:
-  - 1.1.1:2:176
+  - 1.1.1:2:177
 source: mcdm.monsters.v1
 type: monster
 ---

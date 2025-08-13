@@ -2,12 +2,12 @@
 file_basename: Basilisk Tonguesnapper
 file_dpath: Monsters/Basilisks/Statblocks
 item_id: basilisk-tonguesnapper
-item_index: '188'
+item_index: '189'
 item_name: Basilisk Tonguesnapper
 scc:
   - mcdm.monsters.v1:monster:basilisk-tonguesnapper
 scdc:
-  - 1.1.1:2:188
+  - 1.1.1:2:189
 source: mcdm.monsters.v1
 type: monster
 ---

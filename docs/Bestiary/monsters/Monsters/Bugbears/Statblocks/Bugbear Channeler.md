@@ -2,12 +2,12 @@
 file_basename: Bugbear Channeler
 file_dpath: Monsters/Bugbears/Statblocks
 item_id: bugbear-channeler
-item_index: '157'
+item_index: '158'
 item_name: Bugbear Channeler
 scc:
   - mcdm.monsters.v1:monster:bugbear-channeler
 scdc:
-  - 1.1.1:2:157
+  - 1.1.1:2:158
 source: mcdm.monsters.v1
 type: monster
 ---
