@@ -2,12 +2,12 @@
 file_basename: Dwarf Warden
 file_dpath: Monsters/Dwarves/Statblocks
 item_id: dwarf-warden
-item_index: '218'
+item_index: '220'
 item_name: Dwarf Warden
 scc:
   - mcdm.monsters.v1:monster:dwarf-warden
 scdc:
-  - 1.1.1:2:218
+  - 1.1.1:2:220
 source: mcdm.monsters.v1
 type: monster
 ---

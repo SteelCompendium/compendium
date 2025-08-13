@@ -216,15 +216,15 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 >
 > Whenever the gunner deals rolled damage to a target, one creature or object adjacent to the target takes 3 damage.
 
+###### Dwarf Launcher
+
+|   Dwarf, Humanoid   |          -          |       Level 1       |      Platoon Hexer      |          EV 8          |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
+|  **1M**<br/> Size   |  **5**<br/> Speed   | **39**<br/> Stamina |  **3**<br/> Stability   | **4**<br/> Free Strike |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **+1**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
+
 <!-- -->
-> ###### Dwarf Launcher
->
-> |   Dwarf, Humanoid   |          -          |       Level 1       |      Platoon Hexer      |          EV 8          |
-> | :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
-> |  **1M**<br/> Size   |  **5**<br/> Speed   | **39**<br/> Stamina |  **3**<br/> Stability   | **4**<br/> Free Strike |
-> | **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-> |  **+1**<br/> Might  | **+0**<br/> Agility | **+0**<br/> Reason  |  **+2**<br/> Intuition  |  **+0**<br/> Presence  |
->
 > 🔳 **Concussive Grenade (Signature Ability)**
 >
 > | **Area, Ranged, Weapon** |               **Main action** |

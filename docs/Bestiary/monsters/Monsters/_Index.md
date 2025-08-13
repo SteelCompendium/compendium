@@ -121,6 +121,7 @@ type: index
 | [Dwarf Driver](../Dwarves/Statblocks/Dwarf%20Driver)                                                 |
 | [Dwarf Gunner](../Dwarves/Statblocks/Dwarf%20Gunner)                                                 |
 | [Dwarf Hunter](../Dwarves/Statblocks/Dwarf%20Hunter)                                                 |
+| [Dwarf Launcher](../Dwarves/Statblocks/Dwarf%20Launcher)                                             |
 | [Dwarf Marauder](../Dwarves/Statblocks/Dwarf%20Marauder)                                             |
 | [Dwarf Reel Winch](../Dwarves/Statblocks/Dwarf%20Reel%20Winch)                                       |
 | [Dwarf Shieldwall](../Dwarves/Statblocks/Dwarf%20Shieldwall)                                         |
@@ -221,6 +222,7 @@ type: index
 | [Goblin Sniper](../Goblins/Statblocks/Goblin%20Sniper)                                               |
 | [Goblin Spinecleaver](../Goblins/Statblocks/Goblin%20Spinecleaver)                                   |
 | [Goblin Stinker](../Goblins/Statblocks/Goblin%20Stinker)                                             |
+| [Goblin Underboss](../Goblins/Statblocks/Goblin%20Underboss)                                         |
 | [Goblin Warrior](../Goblins/Statblocks/Goblin%20Warrior)                                             |
 | [Skitterling](../Goblins/Statblocks/Skitterling)                                                     |
 | [War Spider](../Goblins/Statblocks/War%20Spider)                                                     |

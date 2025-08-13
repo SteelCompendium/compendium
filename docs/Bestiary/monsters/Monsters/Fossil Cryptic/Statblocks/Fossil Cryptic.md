@@ -2,12 +2,12 @@
 file_basename: Fossil Cryptic
 file_dpath: Monsters/Fossil Cryptic/Statblocks
 item_id: fossil-cryptic
-item_index: '226'
+item_index: '228'
 item_name: Fossil Cryptic
 scc:
   - mcdm.monsters.v1:monster:fossil-cryptic
 scdc:
-  - 1.1.1:2:226
+  - 1.1.1:2:228
 source: mcdm.monsters.v1
 type: monster
 ---

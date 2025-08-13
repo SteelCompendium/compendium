@@ -8055,15 +8055,15 @@ At the start of any dwarf's turn, you can spend Malice to activate one of the fo
 >
 > Whenever the gunner deals rolled damage to a target, one creature or object adjacent to the target takes 3 damage.
 
+**<span class="steel-compendium-statblock">Dwarf Launcher</span>**
+
+|  Dwarf, Humanoid  |         -         |      Level 1      |     Platoon Hexer     |         EV 8         |
+| :---------------: | :---------------: | :---------------: | :-------------------: | :------------------: |
+|  **1M**<br>Size   |  **5**<br>Speed   | **39**<br>Stamina |  **3**<br>Stability   | **4**<br>Free Strike |
+| **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain | **-**<br>Weaknesses  |
+|  **+1**<br>Might  | **+0**<br>Agility | **+0**<br>Reason  |  **+2**<br>Intuition  |  **+0**<br>Presence  |
+
 <!-- -->
-> ####### Dwarf Launcher
->
-> |  Dwarf, Humanoid  |         -         |      Level 1      |     Platoon Hexer     |         EV 8         |
-> | :---------------: | :---------------: | :---------------: | :-------------------: | :------------------: |
-> |  **1M**<br>Size   |  **5**<br>Speed   | **39**<br>Stamina |  **3**<br>Stability   | **4**<br>Free Strike |
-> | **-**<br>Immunity | **-**<br>Movement |         -         | **-**<br>With Captain | **-**<br>Weaknesses  |
-> |  **+1**<br>Might  | **+0**<br>Agility | **+0**<br>Reason  |  **+2**<br>Intuition  |  **+0**<br>Presence  |
->
 > 🔳 **Concussive Grenade (Signature Ability)**
 >
 > | **Area, Ranged, Weapon** |               **Main action** |
@@ -12480,15 +12480,15 @@ Most goblins speak Caelian and Szetch.
 >
 > The stinker doesn't provoke opportunity attacks by moving
 
+**<span class="steel-compendium-statblock">Goblin Underboss</span>**
+
+| Goblin, Humanoid  |           -           |      Level 1      |     Horde Support     |         EV 3         |
+| :---------------: | :-------------------: | :---------------: | :-------------------: | :------------------: |
+|  **1S**<br>Size   |    **5**<br>Speed     | **15**<br>Stamina |  **0**<br>Stability   | **1**<br>Free Strike |
+| **-**<br>Immunity | **Climb**<br>Movement |         -         | **-**<br>With Captain | **-**<br>Weaknesses  |
+|  **-1**<br>Might  |   **+2**<br>Agility   |  **0**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
+
 <!-- -->
-> ####### Goblin Underboss
->
-> | Goblin, Humanoid  |           -           |      Level 1      |     Horde Support     |         EV 3         |
-> | :---------------: | :-------------------: | :---------------: | :-------------------: | :------------------: |
-> |  **1S**<br>Size   |    **5**<br>Speed     | **15**<br>Stamina |  **0**<br>Stability   | **1**<br>Free Strike |
-> | **-**<br>Immunity | **Climb**<br>Movement |         -         | **-**<br>With Captain | **-**<br>Weaknesses  |
-> |  **-1**<br>Might  |   **+2**<br>Agility   |  **0**<br>Reason  |  **0**<br>Intuition   |  **+1**<br>Presence  |
->
 > 🗡 **Swordplay (Signature Ability)**
 >
 > | **Melee, Strike, Weapon** |               **Main action** |

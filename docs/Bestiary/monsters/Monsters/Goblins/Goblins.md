@@ -294,15 +294,15 @@ Most goblins speak Caelian and Szetch.
 >
 > The stinker doesn't provoke opportunity attacks by moving
 
+###### Goblin Underboss
+
+|  Goblin, Humanoid   |            -            |       Level 1       |      Horde Support      |          EV 3          |
+| :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
+|  **1S**<br/> Size   |    **5**<br/> Speed     | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
+| **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **-1**<br/> Might  |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
+
 <!-- -->
-> ###### Goblin Underboss
->
-> |  Goblin, Humanoid   |            -            |       Level 1       |      Horde Support      |          EV 3          |
-> | :-----------------: | :---------------------: | :-----------------: | :---------------------: | :--------------------: |
-> |  **1S**<br/> Size   |    **5**<br/> Speed     | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
-> | **-**<br/> Immunity | **Climb**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-> |  **-1**<br/> Might  |   **+2**<br/> Agility   |  **0**<br/> Reason  |  **0**<br/> Intuition   |  **+1**<br/> Presence  |
->
 > 🗡 **Swordplay (Signature Ability)**
 >
 > | **Melee, Strike, Weapon** |               **Main action** |
