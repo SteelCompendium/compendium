@@ -2,12 +2,12 @@
 file_basename: Fire Giant Lightbearer
 file_dpath: Monsters/Giants/Statblocks
 item_id: fire-giant-lightbearer
-item_index: '36'
+item_index: '51'
 item_name: Fire Giant Lightbearer
 scc:
   - mcdm.monsters.v1:monster:fire-giant-lightbearer
 scdc:
-  - 1.1.1:2:36
+  - 1.1.1:2:51
 source: mcdm.monsters.v1
 type: monster
 ---

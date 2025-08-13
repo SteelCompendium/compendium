@@ -2,12 +2,12 @@
 file_basename: Griffons
 file_dpath: Monsters/Griffons
 item_id: griffons
-item_index: '22'
+item_index: '23'
 item_name: Griffons
 scc:
   - mcdm.monsters.v1:monster.section:griffons
 scdc:
-  - 1.1.1:2.1:22
+  - 1.1.1:2.1:23
 source: mcdm.monsters.v1
 type: monster/section
 ---

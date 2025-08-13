@@ -2,12 +2,12 @@
 file_basename: Shadow Elf Assassin
 file_dpath: Monsters/Elves Shadow/Statblocks
 item_id: shadow-elf-assassin
-item_index: '61'
+item_index: '76'
 item_name: Shadow Elf Assassin
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-assassin
 scdc:
-  - 1.1.1:2:61
+  - 1.1.1:2:76
 source: mcdm.monsters.v1
 type: monster
 ---

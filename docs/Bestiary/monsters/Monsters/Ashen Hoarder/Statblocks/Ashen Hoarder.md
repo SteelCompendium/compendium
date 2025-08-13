@@ -2,12 +2,12 @@
 file_basename: Ashen Hoarder
 file_dpath: Monsters/Ashen Hoarder/Statblocks
 item_id: ashen-hoarder
-item_index: '49'
+item_index: '64'
 item_name: Ashen Hoarder
 scc:
   - mcdm.monsters.v1:monster:ashen-hoarder
 scdc:
-  - 1.1.1:2:49
+  - 1.1.1:2:64
 source: mcdm.monsters.v1
 type: monster
 ---

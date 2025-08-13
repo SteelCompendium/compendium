@@ -2,12 +2,12 @@
 file_basename: Crux of Fire
 file_dpath: Monsters/Elementals/Statblocks
 item_id: crux-of-fire
-item_index: '156'
+item_index: '171'
 item_name: Crux of Fire
 scc:
   - mcdm.monsters.v1:monster:crux-of-fire
 scdc:
-  - 1.1.1:2:156
+  - 1.1.1:2:171
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Wode Elf Guerrilla
 file_dpath: Monsters/Elves Wode/Statblocks
 item_id: wode-elf-guerrilla
-item_index: '73'
+item_index: '88'
 item_name: Wode Elf Guerrilla
 scc:
   - mcdm.monsters.v1:monster:wode-elf-guerrilla
 scdc:
-  - 1.1.1:2:73
+  - 1.1.1:2:88
 source: mcdm.monsters.v1
 type: monster
 ---

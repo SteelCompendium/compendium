@@ -2,12 +2,12 @@
 file_basename: Orliq
 file_dpath: Monsters/Demons/Statblocks
 item_id: orliq
-item_index: '112'
+item_index: '127'
 item_name: Orliq
 scc:
   - mcdm.monsters.v1:monster:orliq
 scdc:
-  - 1.1.1:2:112
+  - 1.1.1:2:127
 source: mcdm.monsters.v1
 type: monster
 ---

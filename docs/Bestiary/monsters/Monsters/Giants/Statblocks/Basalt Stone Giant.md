@@ -2,12 +2,12 @@
 file_basename: Basalt Stone Giant
 file_dpath: Monsters/Giants/Statblocks
 item_id: basalt-stone-giant
-item_index: '39'
+item_index: '54'
 item_name: Basalt Stone Giant
 scc:
   - mcdm.monsters.v1:monster:basalt-stone-giant
 scdc:
-  - 1.1.1:2:39
+  - 1.1.1:2:54
 source: mcdm.monsters.v1
 type: monster
 ---
