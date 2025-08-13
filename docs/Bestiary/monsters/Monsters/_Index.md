@@ -295,3 +295,5 @@ type: index
 | [Lizardfolk Shellguard](../Lizardfolks/Statblocks/Lizardfolk%20Shellguard)                           |
 | [Lizardfolk Skyterror](../Lizardfolks/Statblocks/Lizardfolk%20Skyterror)                             |
 | [Lizardfolk Tonguer](../Lizardfolks/Statblocks/Lizardfolk%20Tonguer)                                 |
+| [Manticore](../Manticores/Manticore)                                                                 |
+| [Manticore](../Manticores/Statblocks/Manticore)                                                      |

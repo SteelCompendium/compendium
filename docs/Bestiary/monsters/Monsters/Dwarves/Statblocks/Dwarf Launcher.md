@@ -2,12 +2,12 @@
 file_basename: Dwarf Launcher
 file_dpath: Monsters/Dwarves/Statblocks
 item_id: dwarf-launcher
-item_index: '217'
+item_index: '218'
 item_name: Dwarf Launcher
 scc:
   - mcdm.monsters.v1:monster:dwarf-launcher
 scdc:
-  - 1.1.1:2:217
+  - 1.1.1:2:218
 source: mcdm.monsters.v1
 type: monster
 ---
