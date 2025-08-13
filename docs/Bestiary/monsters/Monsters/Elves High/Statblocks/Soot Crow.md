@@ -2,12 +2,12 @@
 file_basename: Soot Crow
 file_dpath: Monsters/Elves High/Statblocks
 item_id: soot-crow
-item_index: '30'
+item_index: '42'
 item_name: Soot Crow
 scc:
   - mcdm.monsters.v1:monster:soot-crow
 scdc:
-  - 1.1.1:2:30
+  - 1.1.1:2:42
 source: mcdm.monsters.v1
 type: monster
 ---

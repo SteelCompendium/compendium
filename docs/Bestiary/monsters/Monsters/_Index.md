@@ -267,3 +267,16 @@ type: index
 | [Kingfissure Worm Malice](../Kingfissure%20Worm/Features/Kingfissure%20Worm%20Malice) |
 | [Kingfissure Worm](../Kingfissure%20Worm/Kingfissure%20Worm)                          |
 | [Kingfissure Wor](../Kingfissure%20Worm/Statblocks/Kingfissure%20Wor)                 |
+| [Kobolds](../Kobolds/Kobolds)                                                         |
+| [Kobold Adeptus](../Kobolds/Statblocks/Kobold%20Adeptus)                              |
+| [Kobold Artifex](../Kobolds/Statblocks/Kobold%20Artifex)                              |
+| [Kobold Centurion](../Kobolds/Statblocks/Kobold%20Centurion)                          |
+| [Kobold Legionary](../Kobolds/Statblocks/Kobold%20Legionary)                          |
+| [Kobold Princeps](../Kobolds/Statblocks/Kobold%20Princeps)                            |
+| [Kobold Sagittarion](../Kobolds/Statblocks/Kobold%20Sagittarion)                      |
+| [Kobold Signifer](../Kobolds/Statblocks/Kobold%20Signifer)                            |
+| [Kobold Tiro](../Kobolds/Statblocks/Kobold%20Tiro)                                    |
+| [Kobold Veles](../Kobolds/Statblocks/Kobold%20Veles)                                  |
+| [Kobold Venator](../Kobolds/Statblocks/Kobold%20Venator)                              |
+| [Shieldscale Drangolin](../Kobolds/Statblocks/Shieldscale%20Drangolin)                |
+| [Trained Gummy Brick](../Kobolds/Statblocks/Trained%20Gummy%20Brick)                  |

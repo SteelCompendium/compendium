@@ -2,12 +2,12 @@
 file_basename: Human Guard
 file_dpath: Monsters/Humans/Statblocks
 item_id: human-guard
-item_index: '48'
+item_index: '60'
 item_name: Human Guard
 scc:
   - mcdm.monsters.v1:monster:human-guard
 scdc:
-  - 1.1.1:2:48
+  - 1.1.1:2:60
 source: mcdm.monsters.v1
 type: monster
 ---

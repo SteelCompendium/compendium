@@ -2,12 +2,12 @@
 file_basename: Hobgoblin War Mage
 file_dpath: Monsters/Hobgoblins/Statblocks
 item_id: hobgoblin-war-mage
-item_index: '57'
+item_index: '69'
 item_name: Hobgoblin War Mage
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-war-mage
 scdc:
-  - 1.1.1:2:57
+  - 1.1.1:2:69
 source: mcdm.monsters.v1
 type: monster
 ---

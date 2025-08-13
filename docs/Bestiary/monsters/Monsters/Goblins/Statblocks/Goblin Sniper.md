@@ -2,12 +2,12 @@
 file_basename: Goblin Sniper
 file_dpath: Monsters/Goblins/Statblocks
 item_id: goblin-sniper
-item_index: '182'
+item_index: '194'
 item_name: Goblin Sniper
 scc:
   - mcdm.monsters.v1:monster:goblin-sniper
 scdc:
-  - 1.1.1:2:182
+  - 1.1.1:2:194
 source: mcdm.monsters.v1
 type: monster
 ---

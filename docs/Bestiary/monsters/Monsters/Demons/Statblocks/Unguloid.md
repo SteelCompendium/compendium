@@ -2,12 +2,12 @@
 file_basename: Unguloid
 file_dpath: Monsters/Demons/Statblocks
 item_id: unguloid
-item_index: '123'
+item_index: '135'
 item_name: Unguloid
 scc:
   - mcdm.monsters.v1:monster:unguloid
 scdc:
-  - 1.1.1:2:123
+  - 1.1.1:2:135
 source: mcdm.monsters.v1
 type: monster
 ---

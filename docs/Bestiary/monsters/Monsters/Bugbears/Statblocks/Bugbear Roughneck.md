@@ -2,12 +2,12 @@
 file_basename: Bugbear Roughneck
 file_dpath: Monsters/Bugbears/Statblocks
 item_id: bugbear-roughneck
-item_index: '159'
+item_index: '171'
 item_name: Bugbear Roughneck
 scc:
   - mcdm.monsters.v1:monster:bugbear-roughneck
 scdc:
-  - 1.1.1:2:159
+  - 1.1.1:2:171
 source: mcdm.monsters.v1
 type: monster
 ---

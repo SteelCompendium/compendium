@@ -2,12 +2,12 @@
 file_basename: Fiktin
 file_dpath: Monsters/Demons/Statblocks
 item_id: fiktin
-item_index: '134'
+item_index: '146'
 item_name: Fiktin
 scc:
   - mcdm.monsters.v1:monster:fiktin
 scdc:
-  - 1.1.1:2:134
+  - 1.1.1:2:146
 source: mcdm.monsters.v1
 type: monster
 ---

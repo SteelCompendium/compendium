@@ -2,12 +2,12 @@
 file_basename: Hobgoblin Redglare
 file_dpath: Monsters/Hobgoblins/Statblocks
 item_id: hobgoblin-redglare
-item_index: '58'
+item_index: '70'
 item_name: Hobgoblin Redglare
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-redglare
 scdc:
-  - 1.1.1:2:58
+  - 1.1.1:2:70
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Human Brawler
 file_dpath: Monsters/Humans/Statblocks
 item_id: human-brawler
-item_index: '45'
+item_index: '57'
 item_name: Human Brawler
 scc:
   - mcdm.monsters.v1:monster:human-brawler
 scdc:
-  - 1.1.1:2:45
+  - 1.1.1:2:57
 source: mcdm.monsters.v1
 type: monster
 ---

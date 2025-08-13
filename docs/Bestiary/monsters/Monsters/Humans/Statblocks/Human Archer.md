@@ -2,12 +2,12 @@
 file_basename: Human Archer
 file_dpath: Monsters/Humans/Statblocks
 item_id: human-archer
-item_index: '47'
+item_index: '59'
 item_name: Human Archer
 scc:
   - mcdm.monsters.v1:monster:human-archer
 scdc:
-  - 1.1.1:2:47
+  - 1.1.1:2:59
 source: mcdm.monsters.v1
 type: monster
 ---

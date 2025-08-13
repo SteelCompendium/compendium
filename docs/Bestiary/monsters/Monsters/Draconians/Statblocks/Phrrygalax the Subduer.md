@@ -2,12 +2,12 @@
 file_basename: Phrrygalax the Subduer
 file_dpath: Monsters/Draconians/Statblocks
 item_id: phrrygalax-the-subduer
-item_index: '17'
+item_index: '29'
 item_name: Phrrygalax the Subduer
 scc:
   - mcdm.monsters.v1:monster:phrrygalax-the-subduer
 scdc:
-  - 1.1.1:2:17
+  - 1.1.1:2:29
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Shadow Elf Dusk Mage
 file_dpath: Monsters/Elves Shadow/Statblocks
 item_id: shadow-elf-dusk-mage
-item_index: '80'
+item_index: '92'
 item_name: Shadow Elf Dusk Mage
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-dusk-mage
 scdc:
-  - 1.1.1:2:80
+  - 1.1.1:2:92
 source: mcdm.monsters.v1
 type: monster
 ---

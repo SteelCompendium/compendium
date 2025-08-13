@@ -2,12 +2,12 @@
 file_basename: Human Blackguard
 file_dpath: Monsters/Humans/Statblocks
 item_id: human-blackguard
-item_index: '44'
+item_index: '56'
 item_name: Human Blackguard
 scc:
   - mcdm.monsters.v1:monster:human-blackguard
 scdc:
-  - 1.1.1:2:44
+  - 1.1.1:2:56
 source: mcdm.monsters.v1
 type: monster
 ---

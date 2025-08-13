@@ -2,12 +2,12 @@
 file_basename: Meteor Dragon
 file_dpath: Monsters/Dragons/Statblocks
 item_id: meteor-dragon
-item_index: '191'
+item_index: '203'
 item_name: Meteor Dragon
 scc:
   - mcdm.monsters.v1:monster:meteor-dragon
 scdc:
-  - 1.1.1:2:191
+  - 1.1.1:2:203
 source: mcdm.monsters.v1
 type: monster
 ---

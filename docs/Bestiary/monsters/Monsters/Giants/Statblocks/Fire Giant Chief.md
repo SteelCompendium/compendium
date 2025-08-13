@@ -2,12 +2,12 @@
 file_basename: Fire Giant Chief
 file_dpath: Monsters/Giants/Statblocks
 item_id: fire-giant-chief
-item_index: '65'
+item_index: '77'
 item_name: Fire Giant Chief
 scc:
   - mcdm.monsters.v1:monster:fire-giant-chief
 scdc:
-  - 1.1.1:2:65
+  - 1.1.1:2:77
 source: mcdm.monsters.v1
 type: monster
 ---

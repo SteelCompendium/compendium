@@ -1,0 +1,56 @@
+---
+file_basename: Kobold Adeptus
+file_dpath: Monsters/Kobolds/Statblocks
+item_id: kobold-adeptus
+item_index: '16'
+item_name: Kobold Adeptus
+scc:
+  - mcdm.monsters.v1:monster:kobold-adeptus
+scdc:
+  - 1.1.1:2:16
+source: mcdm.monsters.v1
+type: monster
+---
+
+###### Kobold Adeptus
+
+|  Humanoid, Kobold   |          -          |       Level 1       |     Horde Artillery     |          EV 3          |
+| :-----------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
+|  **1S**<br/> Size   |  **5**<br/> Speed   | **10**<br/> Stamina |  **0**<br/> Stability   | **2**<br/> Free Strike |
+| **-**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **0**<br/> Might   | **+1**<br/> Agility | **+2**<br/> Reason  |  **0**<br/> Intuition   |  **0**<br/> Presence   |
+
+<!-- -->
+> 🏹 **Shocking Bolt (Signature Ability)**
+>
+> | **Magic, Ranged, Strike** |               **Main action** |
+> | ------------------------- | ----------------------------: |
+> | **📏 Ranged 15**          | **🎯 One creature or object** |
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** 4 lightning damage
+> - **12-16:** 6 lightning damage
+> - **17+:** 7 lightning damage
+>
+> **Effect:** While the target is adjacent to any enemy, the adeptus gains an edge on this ability. Each enemy adjacent to the target takes 2 lighting damage.
+
+<!-- -->
+> 🏹 **Arcane Telum (3 Malice)**
+>
+> | **Magic, Ranged, Strike** |                      **Maneuver** |
+> | ------------------------- | --------------------------------: |
+> | **📏 Ranged 15**          | **🎯 Three creatures or objects** |
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** 3 damage
+> - **12-16:** 5 damage
+> - **17+:** 6 damage
+>
+> **Effect:** This ability ignores banes, double banes, and damage immunity.
+
+<!-- -->
+> ⭐️ **Shield? Shield!**
+>
+> While adjacent to an ally who also has this trait, the adeptus has stability 1, has cover, and grants cover to allies.
