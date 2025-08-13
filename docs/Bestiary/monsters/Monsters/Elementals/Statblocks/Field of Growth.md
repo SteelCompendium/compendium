@@ -2,12 +2,12 @@
 file_basename: Field of Growth
 file_dpath: Monsters/Elementals/Statblocks
 item_id: field-of-growth
-item_index: '196'
+item_index: '205'
 item_name: Field of Growth
 scc:
   - mcdm.monsters.v1:monster:field-of-growth
 scdc:
-  - 1.1.1:2:196
+  - 1.1.1:2:205
 source: mcdm.monsters.v1
 type: monster
 ---

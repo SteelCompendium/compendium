@@ -2,12 +2,12 @@
 file_basename: Essence of Storms
 file_dpath: Monsters/Elementals/Statblocks
 item_id: essence-of-storms
-item_index: '197'
+item_index: '206'
 item_name: Essence of Storms
 scc:
   - mcdm.monsters.v1:monster:essence-of-storms
 scdc:
-  - 1.1.1:2:197
+  - 1.1.1:2:206
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Arixx Malice
 file_dpath: Monsters/Arixx/Features
 item_id: arixx-malice
-item_index: '14'
+item_index: '16'
 item_name: Arixx Malice
 scc:
   - mcdm.monsters.v1:monster.feature:arixx-malice
 scdc:
-  - 1.1.1:2.2:14
+  - 1.1.1:2.2:16
 source: mcdm.monsters.v1
 type: monster/feature
 ---

@@ -2,12 +2,12 @@
 file_basename: Devil Clerk
 file_dpath: Monsters/Devils/Statblocks
 item_id: devil-clerk
-item_index: '179'
+item_index: '188'
 item_name: Devil Clerk
 scc:
   - mcdm.monsters.v1:monster:devil-clerk
 scdc:
-  - 1.1.1:2:179
+  - 1.1.1:2:188
 source: mcdm.monsters.v1
 type: monster
 ---

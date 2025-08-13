@@ -1,0 +1,41 @@
+---
+file_basename: Lizardfolk Shellguard
+file_dpath: Monsters/Lizardfolks/Statblocks
+item_id: lizardfolk-shellguard
+item_index: '18'
+item_name: Lizardfolk Shellguard
+scc:
+  - mcdm.monsters.v1:monster:lizardfolk-shellguard
+scdc:
+  - 1.1.1:2:18
+source: mcdm.monsters.v1
+type: monster
+---
+
+###### Lizardfolk Shellguard
+
+| Humanoid, Lizardfolk |           -            |      Level 1       |              Minion Defender              | EV 3 for four minions  |
+| :------------------: | :--------------------: | :----------------: | :---------------------------------------: | :--------------------: |
+|   **1L**<br/> Size   |    **5**<br/> Speed    | **6**<br/> Stamina |           **1**<br/> Stability            | **1**<br/> Free Strike |
+| **-**<br/> Immunity  | **Swim**<br/> Movement |         -          | **+2 bonus to Stamina**<br/> With Captain | **-**<br/> Weaknesses  |
+|  **+2**<br/> Might   |  **+1**<br/> Agility   | **0**<br/> Reason  |           **0**<br/> Intuition            |  **0**<br/> Presence   |
+
+<!-- -->
+> 🗡 **Shield Smash (Signature Ability)**
+>
+> | **Melee, Strike, Weapon** |                          **Main action** |
+> | ------------------------- | ---------------------------------------: |
+> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
+>
+> **Power Roll + 2:**
+>
+> - **≤11:** 1 damage
+> - **12-16:** 2 damage
+> - **17+:** 3 damage
+>
+> **Effect:** The target takes a bane on their next strike.
+
+<!-- -->
+> ⭐️ **Reptilian Escape**
+>
+> While the shellguard has a tail, whenever they are grabbed, prone, slowed, or weakened, they can lose their tail to immediately end that condition, then shift up to 2 squares.

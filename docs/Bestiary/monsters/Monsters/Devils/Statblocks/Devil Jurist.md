@@ -2,12 +2,12 @@
 file_basename: Devil Jurist
 file_dpath: Monsters/Devils/Statblocks
 item_id: devil-jurist
-item_index: '181'
+item_index: '190'
 item_name: Devil Jurist
 scc:
   - mcdm.monsters.v1:monster:devil-jurist
 scdc:
-  - 1.1.1:2:181
+  - 1.1.1:2:190
 source: mcdm.monsters.v1
 type: monster
 ---

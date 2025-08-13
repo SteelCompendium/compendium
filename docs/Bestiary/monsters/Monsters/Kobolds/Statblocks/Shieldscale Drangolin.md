@@ -2,12 +2,12 @@
 file_basename: Shieldscale Drangolin
 file_dpath: Monsters/Kobolds/Statblocks
 item_id: shieldscale-drangolin
-item_index: '23'
+item_index: '30'
 item_name: Shieldscale Drangolin
 scc:
   - mcdm.monsters.v1:monster:shieldscale-drangolin
 scdc:
-  - 1.1.1:2:23
+  - 1.1.1:2:30
 source: mcdm.monsters.v1
 type: monster
 ---

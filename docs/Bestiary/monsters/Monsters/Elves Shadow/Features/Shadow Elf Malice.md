@@ -2,12 +2,12 @@
 file_basename: Shadow Elf Malice
 file_dpath: Monsters/Elves Shadow/Features
 item_id: shadow-elf-malice
-item_index: '12'
+item_index: '14'
 item_name: Shadow Elf Malice
 scc:
   - mcdm.monsters.v1:monster.feature:shadow-elf-malice
 scdc:
-  - 1.1.1:2.2:12
+  - 1.1.1:2.2:14
 source: mcdm.monsters.v1
 type: monster/feature
 ---

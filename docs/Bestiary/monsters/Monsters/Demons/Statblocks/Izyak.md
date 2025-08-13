@@ -2,12 +2,12 @@
 file_basename: Izyak
 file_dpath: Monsters/Demons/Statblocks
 item_id: izyak
-item_index: '152'
+item_index: '161'
 item_name: Izyak
 scc:
   - mcdm.monsters.v1:monster:izyak
 scdc:
-  - 1.1.1:2:152
+  - 1.1.1:2:161
 source: mcdm.monsters.v1
 type: monster
 ---

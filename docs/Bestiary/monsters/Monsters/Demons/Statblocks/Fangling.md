@@ -2,12 +2,12 @@
 file_basename: Fangling
 file_dpath: Monsters/Demons/Statblocks
 item_id: fangling
-item_index: '143'
+item_index: '152'
 item_name: Fangling
 scc:
   - mcdm.monsters.v1:monster:fangling
 scdc:
-  - 1.1.1:2:143
+  - 1.1.1:2:152
 source: mcdm.monsters.v1
 type: monster
 ---

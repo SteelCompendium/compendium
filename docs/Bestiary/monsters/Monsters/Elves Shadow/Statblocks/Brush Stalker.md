@@ -2,12 +2,12 @@
 file_basename: Brush Stalker
 file_dpath: Monsters/Elves Shadow/Statblocks
 item_id: brush-stalker
-item_index: '97'
+item_index: '106'
 item_name: Brush Stalker
 scc:
   - mcdm.monsters.v1:monster:brush-stalker
 scdc:
-  - 1.1.1:2:97
+  - 1.1.1:2:106
 source: mcdm.monsters.v1
 type: monster
 ---

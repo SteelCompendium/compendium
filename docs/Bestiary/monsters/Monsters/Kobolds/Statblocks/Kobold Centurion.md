@@ -2,12 +2,12 @@
 file_basename: Kobold Centurion
 file_dpath: Monsters/Kobolds/Statblocks
 item_id: kobold-centurion
-item_index: '25'
+item_index: '32'
 item_name: Kobold Centurion
 scc:
   - mcdm.monsters.v1:monster:kobold-centurion
 scdc:
-  - 1.1.1:2:25
+  - 1.1.1:2:32
 source: mcdm.monsters.v1
 type: monster
 ---

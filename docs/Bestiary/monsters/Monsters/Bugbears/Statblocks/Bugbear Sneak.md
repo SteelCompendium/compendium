@@ -2,12 +2,12 @@
 file_basename: Bugbear Sneak
 file_dpath: Monsters/Bugbears/Statblocks
 item_id: bugbear-sneak
-item_index: '168'
+item_index: '177'
 item_name: Bugbear Sneak
 scc:
   - mcdm.monsters.v1:monster:bugbear-sneak
 scdc:
-  - 1.1.1:2:168
+  - 1.1.1:2:177
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: High Elf Palinode
 file_dpath: Monsters/Elves High/Statblocks
 item_id: high-elf-palinode
-item_index: '36'
+item_index: '43'
 item_name: High Elf Palinode
 scc:
   - mcdm.monsters.v1:monster:high-elf-palinode
 scdc:
-  - 1.1.1:2:36
+  - 1.1.1:2:43
 source: mcdm.monsters.v1
 type: monster
 ---

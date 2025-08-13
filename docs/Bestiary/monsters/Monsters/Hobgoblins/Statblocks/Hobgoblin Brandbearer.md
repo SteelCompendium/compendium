@@ -2,12 +2,12 @@
 file_basename: Hobgoblin Brandbearer
 file_dpath: Monsters/Hobgoblins/Statblocks
 item_id: hobgoblin-brandbearer
-item_index: '72'
+item_index: '79'
 item_name: Hobgoblin Brandbearer
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-brandbearer
 scdc:
-  - 1.1.1:2:72
+  - 1.1.1:2:79
 source: mcdm.monsters.v1
 type: monster
 ---
