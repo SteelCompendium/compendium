@@ -229,3 +229,5 @@ type: index
 | [Griffons](../Griffons/Griffons)                                                         |
 | [Griffon](../Griffons/Statblocks/Griffon)                                                |
 | [Striped Condor Griffon](../Griffons/Statblocks/Striped%20Condor%20Griffon)              |
+| [Hag](../Hag/Hag)                                                                        |
+| [Wode Hag](../Hag/Statblocks/Wode%20Hag)                                                 |

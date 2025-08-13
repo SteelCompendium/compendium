@@ -2,12 +2,12 @@
 file_basename: Draconians
 file_dpath: Monsters/Draconians
 item_id: draconians
-item_index: '20'
+item_index: '21'
 item_name: Draconians
 scc:
   - mcdm.monsters.v1:monster.section:draconians
 scdc:
-  - 1.1.1:2.1:20
+  - 1.1.1:2.1:21
 source: mcdm.monsters.v1
 type: monster/section
 ---

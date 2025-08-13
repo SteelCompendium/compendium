@@ -2,12 +2,12 @@
 file_basename: Goblin Cursespitter
 file_dpath: Monsters/Goblins/Statblocks
 item_id: goblin-cursespitter
-item_index: '141'
+item_index: '142'
 item_name: Goblin Cursespitter
 scc:
   - mcdm.monsters.v1:monster:goblin-cursespitter
 scdc:
-  - 1.1.1:2:141
+  - 1.1.1:2:142
 source: mcdm.monsters.v1
 type: monster
 ---

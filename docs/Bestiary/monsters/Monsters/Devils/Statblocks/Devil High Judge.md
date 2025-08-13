@@ -2,12 +2,12 @@
 file_basename: Devil High Judge
 file_dpath: Monsters/Devils/Statblocks
 item_id: devil-high-judge
-item_index: '134'
+item_index: '135'
 item_name: Devil High Judge
 scc:
   - mcdm.monsters.v1:monster:devil-high-judge
 scdc:
-  - 1.1.1:2:134
+  - 1.1.1:2:135
 source: mcdm.monsters.v1
 type: monster
 ---

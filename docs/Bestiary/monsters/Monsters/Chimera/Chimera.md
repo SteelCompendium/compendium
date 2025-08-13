@@ -2,12 +2,12 @@
 file_basename: Chimera
 file_dpath: Monsters/Chimera
 item_id: chimera
-item_index: '23'
+item_index: '24'
 item_name: Chimera
 scc:
   - mcdm.monsters.v1:monster.section:chimera
 scdc:
-  - 1.1.1:2.1:23
+  - 1.1.1:2.1:24
 source: mcdm.monsters.v1
 type: monster/section
 ---

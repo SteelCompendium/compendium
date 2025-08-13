@@ -2,12 +2,12 @@
 file_basename: Essence of Tides
 file_dpath: Monsters/Elementals/Statblocks
 item_id: essence-of-tides
-item_index: '151'
+item_index: '152'
 item_name: Essence of Tides
 scc:
   - mcdm.monsters.v1:monster:essence-of-tides
 scdc:
-  - 1.1.1:2:151
+  - 1.1.1:2:152
 source: mcdm.monsters.v1
 type: monster
 ---
