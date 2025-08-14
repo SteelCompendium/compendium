@@ -2,12 +2,12 @@
 file_basename: Human Death Cultist
 file_dpath: Monsters/Humans/Statblocks
 item_id: human-death-cultist
-item_index: '80'
+item_index: '116'
 item_name: Human Death Cultist
 scc:
   - mcdm.monsters.v1:monster:human-death-cultist
 scdc:
-  - 1.1.1:2:80
+  - 1.1.1:2:116
 source: mcdm.monsters.v1
 type: monster
 ---

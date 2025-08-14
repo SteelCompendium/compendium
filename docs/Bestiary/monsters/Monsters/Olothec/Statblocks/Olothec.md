@@ -2,12 +2,12 @@
 file_basename: Olothec
 file_dpath: Monsters/Olothec/Statblocks
 item_id: olothec
-item_index: '45'
+item_index: '73'
 item_name: Olothec
 scc:
   - mcdm.monsters.v1:monster:olothec
 scdc:
-  - 1.1.1:2:45
+  - 1.1.1:2:73
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Lizardfolk Shellguard
 file_dpath: Monsters/Lizardfolks/Statblocks
 item_id: lizardfolk-shellguard
-item_index: '23'
+item_index: '51'
 item_name: Lizardfolk Shellguard
 scc:
   - mcdm.monsters.v1:monster:lizardfolk-shellguard
 scdc:
-  - 1.1.1:2:23
+  - 1.1.1:2:51
 source: mcdm.monsters.v1
 type: monster
 ---

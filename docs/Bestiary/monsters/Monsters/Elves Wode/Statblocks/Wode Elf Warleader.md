@@ -2,12 +2,12 @@
 file_basename: Wode Elf Warleader
 file_dpath: Monsters/Elves Wode/Statblocks
 item_id: wode-elf-warleader
-item_index: '152'
+item_index: '188'
 item_name: Wode Elf Warleader
 scc:
   - mcdm.monsters.v1:monster:wode-elf-warleader
 scdc:
-  - 1.1.1:2:152
+  - 1.1.1:2:188
 source: mcdm.monsters.v1
 type: monster
 ---

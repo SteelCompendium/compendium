@@ -2,12 +2,12 @@
 file_basename: Gnoll Marauder
 file_dpath: Monsters/Gnolls/Statblocks
 item_id: gnoll-marauder
-item_index: 09
+item_index: '37'
 item_name: Gnoll Marauder
 scc:
   - mcdm.monsters.v1:monster:gnoll-marauder
 scdc:
-  - 1.1.1:2:09
+  - 1.1.1:2:37
 source: mcdm.monsters.v1
 type: monster
 ---

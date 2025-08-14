@@ -2,12 +2,12 @@
 file_basename: Human Death Acolyte
 file_dpath: Monsters/Humans/Statblocks
 item_id: human-death-acolyte
-item_index: '79'
+item_index: '115'
 item_name: Human Death Acolyte
 scc:
   - mcdm.monsters.v1:monster:human-death-acolyte
 scdc:
-  - 1.1.1:2:79
+  - 1.1.1:2:115
 source: mcdm.monsters.v1
 type: monster
 ---

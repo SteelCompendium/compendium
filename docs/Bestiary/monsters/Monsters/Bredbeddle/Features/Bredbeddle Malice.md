@@ -2,12 +2,12 @@
 file_basename: Bredbeddle Malice
 file_dpath: Monsters/Bredbeddle/Features
 item_id: bredbeddle-malice
-item_index: '14'
+item_index: '15'
 item_name: Bredbeddle Malice
 scc:
   - mcdm.monsters.v1:monster.feature:bredbeddle-malice
 scdc:
-  - 1.1.1:2.2:14
+  - 1.1.1:2.2:15
 source: mcdm.monsters.v1
 type: monster/feature
 ---

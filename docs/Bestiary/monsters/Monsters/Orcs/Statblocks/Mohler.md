@@ -2,12 +2,12 @@
 file_basename: Mohler
 file_dpath: Monsters/Orcs/Statblocks
 item_id: mohler
-item_index: '59'
+item_index: '87'
 item_name: Mohler
 scc:
   - mcdm.monsters.v1:monster:mohler
 scdc:
-  - 1.1.1:2:59
+  - 1.1.1:2:87
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Fire Giant Red Fist
 file_dpath: Monsters/Giants/Statblocks
 item_id: fire-giant-red-fist
-item_index: '116'
+item_index: '152'
 item_name: Fire Giant Red Fist
 scc:
   - mcdm.monsters.v1:monster:fire-giant-red-fist
 scdc:
-  - 1.1.1:2:116
+  - 1.1.1:2:152
 source: mcdm.monsters.v1
 type: monster
 ---

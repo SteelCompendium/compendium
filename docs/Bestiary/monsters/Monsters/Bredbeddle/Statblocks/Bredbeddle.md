@@ -2,12 +2,12 @@
 file_basename: Bredbeddle
 file_dpath: Monsters/Bredbeddle/Statblocks
 item_id: bredbeddle
-item_index: '123'
+item_index: '159'
 item_name: Bredbeddle
 scc:
   - mcdm.monsters.v1:monster:bredbeddle
 scdc:
-  - 1.1.1:2:123
+  - 1.1.1:2:159
 source: mcdm.monsters.v1
 type: monster
 ---

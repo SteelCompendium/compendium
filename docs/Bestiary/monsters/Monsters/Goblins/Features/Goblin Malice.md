@@ -2,12 +2,12 @@
 file_basename: Goblin Malice
 file_dpath: Monsters/Goblins/Features
 item_id: goblin-malice
-item_index: '26'
+item_index: '27'
 item_name: Goblin Malice
 scc:
   - mcdm.monsters.v1:monster.feature:goblin-malice
 scdc:
-  - 1.1.1:2.2:26
+  - 1.1.1:2.2:27
 source: mcdm.monsters.v1
 type: monster/feature
 ---

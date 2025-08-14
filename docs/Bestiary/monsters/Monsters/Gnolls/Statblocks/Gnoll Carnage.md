@@ -2,12 +2,12 @@
 file_basename: Gnoll Carnage
 file_dpath: Monsters/Gnolls/Statblocks
 item_id: gnoll-carnage
-item_index: '10'
+item_index: '38'
 item_name: Gnoll Carnage
 scc:
   - mcdm.monsters.v1:monster:gnoll-carnage
 scdc:
-  - 1.1.1:2:10
+  - 1.1.1:2:38
 source: mcdm.monsters.v1
 type: monster
 ---

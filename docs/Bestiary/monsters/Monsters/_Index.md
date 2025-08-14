@@ -333,3 +333,42 @@ type: index
 | [Orc Terranova](../Orcs/Statblocks/Orc%20Terranova)                                   |
 | [Orc Warleader](../Orcs/Statblocks/Orc%20Warleader)                                   |
 | [Scyza](../Orcs/Statblocks/Scyza)                                                     |
+| [Radenwight Malice](../Radenwights/Features/Radenwight%20Malice)                      |
+| [Radenwights](../Radenwights/Radenwights)                                             |
+| [Radenwight Bruxer](../Radenwights/Statblocks/Radenwight%20Bruxer)                    |
+| [Radenwight Maestro](../Radenwights/Statblocks/Radenwight%20Maestro)                  |
+| [Radenwight Mischiever](../Radenwights/Statblocks/Radenwight%20Mischiever)            |
+| [Radenwight Piper](../Radenwights/Statblocks/Radenwight%20Piper)                      |
+| [Radenwight Ratcrobat](../Radenwights/Statblocks/Radenwight%20Ratcrobat)              |
+| [Radenwight Redeye](../Radenwights/Statblocks/Radenwight%20Redeye)                    |
+| [Radenwight Scrapper](../Radenwights/Statblocks/Radenwight%20Scrapper)                |
+| [Radenwight Swiftpaw](../Radenwights/Statblocks/Radenwight%20Swiftpaw)                |
+| [Rival Conduit](../Rivals/1st%20Echelon/Statblocks/Rival%20Conduit)                   |
+| [Rival Elementalist](../Rivals/1st%20Echelon/Statblocks/Rival%20Elementalist)         |
+| [Rival Fury](../Rivals/1st%20Echelon/Statblocks/Rival%20Fury)                         |
+| [Rival Null](../Rivals/1st%20Echelon/Statblocks/Rival%20Null)                         |
+| [Rival Shadow](../Rivals/1st%20Echelon/Statblocks/Rival%20Shadow)                     |
+| [Rival Tactician](../Rivals/1st%20Echelon/Statblocks/Rival%20Tactician)               |
+| [Rival Talent](../Rivals/1st%20Echelon/Statblocks/Rival%20Talent)                     |
+| [Rival Conduit](../Rivals/2nd%20Echelon/Statblocks/Rival%20Conduit)                   |
+| [Rival Elementalist](../Rivals/2nd%20Echelon/Statblocks/Rival%20Elementalist)         |
+| [Rival Fury](../Rivals/2nd%20Echelon/Statblocks/Rival%20Fury)                         |
+| [Rival Null](../Rivals/2nd%20Echelon/Statblocks/Rival%20Null)                         |
+| [Rival Shadow](../Rivals/2nd%20Echelon/Statblocks/Rival%20Shadow)                     |
+| [Rival Tactician](../Rivals/2nd%20Echelon/Statblocks/Rival%20Tactician)               |
+| [Rival Talent](../Rivals/2nd%20Echelon/Statblocks/Rival%20Talent)                     |
+| [Rival Conduit](../Rivals/3rd%20Echelon/Statblocks/Rival%20Conduit)                   |
+| [Rival Elementalist](../Rivals/3rd%20Echelon/Statblocks/Rival%20Elementalist)         |
+| [Rival Fury](../Rivals/3rd%20Echelon/Statblocks/Rival%20Fury)                         |
+| [Rival Null](../Rivals/3rd%20Echelon/Statblocks/Rival%20Null)                         |
+| [Rival Shadow](../Rivals/3rd%20Echelon/Statblocks/Rival%20Shadow)                     |
+| [Rival Tactician](../Rivals/3rd%20Echelon/Statblocks/Rival%20Tactician)               |
+| [Rival Talent](../Rivals/3rd%20Echelon/Statblocks/Rival%20Talent)                     |
+| [Rival Conduit](../Rivals/4th%20Echelon/Statblocks/Rival%20Conduit)                   |
+| [Rival Elementalist](../Rivals/4th%20Echelon/Statblocks/Rival%20Elementalist)         |
+| [Rival Fury](../Rivals/4th%20Echelon/Statblocks/Rival%20Fury)                         |
+| [Rival Null](../Rivals/4th%20Echelon/Statblocks/Rival%20Null)                         |
+| [Rival Shadow](../Rivals/4th%20Echelon/Statblocks/Rival%20Shadow)                     |
+| [Rival Tactician](../Rivals/4th%20Echelon/Statblocks/Rival%20Tactician)               |
+| [Rival Talent](../Rivals/4th%20Echelon/Statblocks/Rival%20Talent)                     |
+| [Rivals](../Rivals/Rivals)                                                            |

@@ -2,12 +2,12 @@
 file_basename: Orc Razor
 file_dpath: Monsters/Orcs/Statblocks
 item_id: orc-razor
-item_index: '68'
+item_index: '96'
 item_name: Orc Razor
 scc:
   - mcdm.monsters.v1:monster:orc-razor
 scdc:
-  - 1.1.1:2:68
+  - 1.1.1:2:96
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Hobgoblin Incendiarist
 file_dpath: Monsters/Hobgoblins/Statblocks
 item_id: hobgoblin-incendiarist
-item_index: '106'
+item_index: '142'
 item_name: Hobgoblin Incendiarist
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-incendiarist
 scdc:
-  - 1.1.1:2:106
+  - 1.1.1:2:142
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Gnoll Wildling
 file_dpath: Monsters/Gnolls/Statblocks
 item_id: gnoll-wildling
-item_index: '14'
+item_index: '42'
 item_name: Gnoll Wildling
 scc:
   - mcdm.monsters.v1:monster:gnoll-wildling
 scdc:
-  - 1.1.1:2:14
+  - 1.1.1:2:42
 source: mcdm.monsters.v1
 type: monster
 ---

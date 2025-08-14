@@ -2,12 +2,12 @@
 file_basename: Gnoll Bonesplitter
 file_dpath: Monsters/Gnolls/Statblocks
 item_id: gnoll-bonesplitter
-item_index: '11'
+item_index: '39'
 item_name: Gnoll Bonesplitter
 scc:
   - mcdm.monsters.v1:monster:gnoll-bonesplitter
 scdc:
-  - 1.1.1:2:11
+  - 1.1.1:2:39
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Bugbear Malice
 file_dpath: Monsters/Bugbears/Features
 item_id: bugbear-malice
-item_index: '24'
+item_index: '25'
 item_name: Bugbear Malice
 scc:
   - mcdm.monsters.v1:monster.feature:bugbear-malice
 scdc:
-  - 1.1.1:2.2:24
+  - 1.1.1:2.2:25
 source: mcdm.monsters.v1
 type: monster/feature
 ---

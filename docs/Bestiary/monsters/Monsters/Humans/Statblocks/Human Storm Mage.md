@@ -2,12 +2,12 @@
 file_basename: Human Storm Mage
 file_dpath: Monsters/Humans/Statblocks
 item_id: human-storm-mage
-item_index: '89'
+item_index: '125'
 item_name: Human Storm Mage
 scc:
   - mcdm.monsters.v1:monster:human-storm-mage
 scdc:
-  - 1.1.1:2:89
+  - 1.1.1:2:125
 source: mcdm.monsters.v1
 type: monster
 ---

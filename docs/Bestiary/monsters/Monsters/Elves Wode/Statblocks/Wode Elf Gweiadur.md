@@ -2,12 +2,12 @@
 file_basename: Wode Elf Gweiadur
 file_dpath: Monsters/Elves Wode/Statblocks
 item_id: wode-elf-gweiadur
-item_index: '146'
+item_index: '182'
 item_name: Wode Elf Gweiadur
 scc:
   - mcdm.monsters.v1:monster:wode-elf-gweiadur
 scdc:
-  - 1.1.1:2:146
+  - 1.1.1:2:182
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Olothec
 file_dpath: Monsters/Olothec
 item_id: olothec
-item_index: '29'
+item_index: '30'
 item_name: Olothec
 scc:
   - mcdm.monsters.v1:monster.section:olothec
 scdc:
-  - 1.1.1:2.1:29
+  - 1.1.1:2.1:30
 source: mcdm.monsters.v1
 type: monster/section
 ---

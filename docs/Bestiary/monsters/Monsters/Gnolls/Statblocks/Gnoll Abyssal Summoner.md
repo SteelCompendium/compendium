@@ -2,12 +2,12 @@
 file_basename: Gnoll Abyssal Summoner
 file_dpath: Monsters/Gnolls/Statblocks
 item_id: gnoll-abyssal-summoner
-item_index: 08
+item_index: '36'
 item_name: Gnoll Abyssal Summoner
 scc:
   - mcdm.monsters.v1:monster:gnoll-abyssal-summoner
 scdc:
-  - 1.1.1:2:08
+  - 1.1.1:2:36
 source: mcdm.monsters.v1
 type: monster
 ---

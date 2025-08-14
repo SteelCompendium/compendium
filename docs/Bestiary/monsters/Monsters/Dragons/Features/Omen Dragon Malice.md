@@ -2,12 +2,12 @@
 file_basename: Omen Dragon Malice
 file_dpath: Monsters/Dragons/Features
 item_id: omen-dragon-malice
-item_index: '30'
+item_index: '31'
 item_name: Omen Dragon Malice
 scc:
   - mcdm.monsters.v1:monster.feature:omen-dragon-malice
 scdc:
-  - 1.1.1:2.2:30
+  - 1.1.1:2.2:31
 source: mcdm.monsters.v1
 type: monster/feature
 ---

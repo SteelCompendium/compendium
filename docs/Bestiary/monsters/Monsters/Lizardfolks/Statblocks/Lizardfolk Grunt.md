@@ -2,12 +2,12 @@
 file_basename: Lizardfolk Grunt
 file_dpath: Monsters/Lizardfolks/Statblocks
 item_id: lizardfolk-grunt
-item_index: '22'
+item_index: '50'
 item_name: Lizardfolk Grunt
 scc:
   - mcdm.monsters.v1:monster:lizardfolk-grunt
 scdc:
-  - 1.1.1:2:22
+  - 1.1.1:2:50
 source: mcdm.monsters.v1
 type: monster
 ---

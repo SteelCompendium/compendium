@@ -2,12 +2,12 @@
 file_basename: Grulqin
 file_dpath: Monsters/Demons/Statblocks
 item_id: grulqin
-item_index: '186'
+item_index: '222'
 item_name: Grulqin
 scc:
   - mcdm.monsters.v1:monster:grulqin
 scdc:
-  - 1.1.1:2:186
+  - 1.1.1:2:222
 source: mcdm.monsters.v1
 type: monster
 ---

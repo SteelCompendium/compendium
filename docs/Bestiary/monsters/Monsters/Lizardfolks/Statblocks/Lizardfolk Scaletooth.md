@@ -2,12 +2,12 @@
 file_basename: Lizardfolk Scaletooth
 file_dpath: Monsters/Lizardfolks/Statblocks
 item_id: lizardfolk-scaletooth
-item_index: '24'
+item_index: '52'
 item_name: Lizardfolk Scaletooth
 scc:
   - mcdm.monsters.v1:monster:lizardfolk-scaletooth
 scdc:
-  - 1.1.1:2:24
+  - 1.1.1:2:52
 source: mcdm.monsters.v1
 type: monster
 ---

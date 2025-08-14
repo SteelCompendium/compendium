@@ -2,12 +2,12 @@
 file_basename: Trained Gummy Brick
 file_dpath: Monsters/Kobolds/Statblocks
 item_id: trained-gummy-brick
-item_index: '32'
+item_index: '60'
 item_name: Trained Gummy Brick
 scc:
   - mcdm.monsters.v1:monster:trained-gummy-brick
 scdc:
-  - 1.1.1:2:32
+  - 1.1.1:2:60
 source: mcdm.monsters.v1
 type: monster
 ---

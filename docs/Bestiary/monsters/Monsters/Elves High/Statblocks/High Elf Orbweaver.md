@@ -2,12 +2,12 @@
 file_basename: High Elf Orbweaver
 file_dpath: Monsters/Elves High/Statblocks
 item_id: high-elf-orbweaver
-item_index: '47'
+item_index: '75'
 item_name: High Elf Orbweaver
 scc:
   - mcdm.monsters.v1:monster:high-elf-orbweaver
 scdc:
-  - 1.1.1:2:47
+  - 1.1.1:2:75
 source: mcdm.monsters.v1
 type: monster
 ---

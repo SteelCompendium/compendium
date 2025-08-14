@@ -2,12 +2,12 @@
 file_basename: Shadow Elf Luminator
 file_dpath: Monsters/Elves Shadow/Statblocks
 item_id: shadow-elf-luminator
-item_index: '131'
+item_index: '167'
 item_name: Shadow Elf Luminator
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-luminator
 scdc:
-  - 1.1.1:2:131
+  - 1.1.1:2:167
 source: mcdm.monsters.v1
 type: monster
 ---

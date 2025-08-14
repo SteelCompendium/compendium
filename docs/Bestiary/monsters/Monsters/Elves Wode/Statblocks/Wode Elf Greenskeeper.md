@@ -2,12 +2,12 @@
 file_basename: Wode Elf Greenskeeper
 file_dpath: Monsters/Elves Wode/Statblocks
 item_id: wode-elf-greenskeeper
-item_index: '149'
+item_index: '185'
 item_name: Wode Elf Greenskeeper
 scc:
   - mcdm.monsters.v1:monster:wode-elf-greenskeeper
 scdc:
-  - 1.1.1:2:149
+  - 1.1.1:2:185
 source: mcdm.monsters.v1
 type: monster
 ---

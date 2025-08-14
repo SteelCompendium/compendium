@@ -2,12 +2,12 @@
 file_basename: Human Raider
 file_dpath: Monsters/Humans/Statblocks
 item_id: human-raider
-item_index: '77'
+item_index: '113'
 item_name: Human Raider
 scc:
   - mcdm.monsters.v1:monster:human-raider
 scdc:
-  - 1.1.1:2:77
+  - 1.1.1:2:113
 source: mcdm.monsters.v1
 type: monster
 ---

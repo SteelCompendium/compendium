@@ -2,12 +2,12 @@
 file_basename: Orc Bloodspark
 file_dpath: Monsters/Orcs/Statblocks
 item_id: orc-bloodspark
-item_index: '72'
+item_index: '100'
 item_name: Orc Bloodspark
 scc:
   - mcdm.monsters.v1:monster:orc-bloodspark
 scdc:
-  - 1.1.1:2:72
+  - 1.1.1:2:100
 source: mcdm.monsters.v1
 type: monster
 ---

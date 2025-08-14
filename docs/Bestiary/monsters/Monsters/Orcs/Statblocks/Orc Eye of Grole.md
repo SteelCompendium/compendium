@@ -2,12 +2,12 @@
 file_basename: Orc Eye of Grole
 file_dpath: Monsters/Orcs/Statblocks
 item_id: orc-eye-of-grole
-item_index: '65'
+item_index: '93'
 item_name: Orc Eye of Grole
 scc:
   - mcdm.monsters.v1:monster:orc-eye-of-grole
 scdc:
-  - 1.1.1:2:65
+  - 1.1.1:2:93
 source: mcdm.monsters.v1
 type: monster
 ---

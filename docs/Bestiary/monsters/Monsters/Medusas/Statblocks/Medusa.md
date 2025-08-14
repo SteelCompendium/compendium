@@ -2,12 +2,12 @@
 file_basename: Medusa
 file_dpath: Monsters/Medusas/Statblocks
 item_id: medusa
-item_index: '163'
+item_index: '199'
 item_name: Medusa
 scc:
   - mcdm.monsters.v1:monster:medusa
 scdc:
-  - 1.1.1:2:163
+  - 1.1.1:2:199
 source: mcdm.monsters.v1
 type: monster
 ---

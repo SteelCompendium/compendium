@@ -2,12 +2,12 @@
 file_basename: Tusker Demon
 file_dpath: Monsters/Gnolls/Statblocks
 item_id: tusker-demon
-item_index: '13'
+item_index: '41'
 item_name: Tusker Demon
 scc:
   - mcdm.monsters.v1:monster:tusker-demon
 scdc:
-  - 1.1.1:2:13
+  - 1.1.1:2:41
 source: mcdm.monsters.v1
 type: monster
 ---

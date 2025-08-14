@@ -2,12 +2,12 @@
 file_basename: Lizardfolk Bloodeye
 file_dpath: Monsters/Lizardfolks/Statblocks
 item_id: lizardfolk-bloodeye
-item_index: '19'
+item_index: '47'
 item_name: Lizardfolk Bloodeye
 scc:
   - mcdm.monsters.v1:monster:lizardfolk-bloodeye
 scdc:
-  - 1.1.1:2:19
+  - 1.1.1:2:47
 source: mcdm.monsters.v1
 type: monster
 ---
