@@ -2,12 +2,12 @@
 file_basename: Hobgoblin Lancer
 file_dpath: Monsters/Hobgoblins/Statblocks
 item_id: hobgoblin-lancer
-item_index: '136'
+item_index: '146'
 item_name: Hobgoblin Lancer
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-lancer
 scdc:
-  - 1.1.1:2:136
+  - 1.1.1:2:146
 source: mcdm.monsters.v1
 type: monster
 ---

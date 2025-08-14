@@ -2,12 +2,12 @@
 file_basename: Human Scoundrel
 file_dpath: Monsters/Humans/Statblocks
 item_id: human-scoundrel
-item_index: '117'
+item_index: '127'
 item_name: Human Scoundrel
 scc:
   - mcdm.monsters.v1:monster:human-scoundrel
 scdc:
-  - 1.1.1:2:117
+  - 1.1.1:2:127
 source: mcdm.monsters.v1
 type: monster
 ---

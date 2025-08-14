@@ -2,12 +2,12 @@
 file_basename: Animal
 file_dpath: Monsters/Animals/Statblocks
 item_id: animal
-item_index: '204'
+item_index: '214'
 item_name: Animal
 scc:
   - mcdm.monsters.v1:monster:animal
 scdc:
-  - 1.1.1:2:204
+  - 1.1.1:2:214
 source: mcdm.monsters.v1
 type: monster
 ---

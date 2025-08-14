@@ -2,12 +2,12 @@
 file_basename: Orcs
 file_dpath: Monsters/Orcs
 item_id: orcs
-item_index: '29'
+item_index: '30'
 item_name: Orcs
 scc:
   - mcdm.monsters.v1:monster.section:orcs
 scdc:
-  - 1.1.1:2.1:29
+  - 1.1.1:2.1:30
 source: mcdm.monsters.v1
 type: monster/section
 ---

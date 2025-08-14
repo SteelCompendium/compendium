@@ -2,12 +2,12 @@
 file_basename: Lizardfolk
 file_dpath: Monsters/Lizardfolks
 item_id: lizardfolk
-item_index: '35'
+item_index: '36'
 item_name: Lizardfolk
 scc:
   - mcdm.monsters.v1:monster.section:lizardfolk
 scdc:
-  - 1.1.1:2.1:35
+  - 1.1.1:2.1:36
 source: mcdm.monsters.v1
 type: monster/section
 ---

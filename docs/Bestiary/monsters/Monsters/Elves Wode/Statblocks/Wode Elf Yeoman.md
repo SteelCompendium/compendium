@@ -2,12 +2,12 @@
 file_basename: Wode Elf Yeoman
 file_dpath: Monsters/Elves Wode/Statblocks
 item_id: wode-elf-yeoman
-item_index: '187'
+item_index: '197'
 item_name: Wode Elf Yeoman
 scc:
   - mcdm.monsters.v1:monster:wode-elf-yeoman
 scdc:
-  - 1.1.1:2:187
+  - 1.1.1:2:197
 source: mcdm.monsters.v1
 type: monster
 ---

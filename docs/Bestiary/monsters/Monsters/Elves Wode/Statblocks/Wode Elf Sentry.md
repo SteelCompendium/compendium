@@ -2,12 +2,12 @@
 file_basename: Wode Elf Sentry
 file_dpath: Monsters/Elves Wode/Statblocks
 item_id: wode-elf-sentry
-item_index: '180'
+item_index: '190'
 item_name: Wode Elf Sentry
 scc:
   - mcdm.monsters.v1:monster:wode-elf-sentry
 scdc:
-  - 1.1.1:2:180
+  - 1.1.1:2:190
 source: mcdm.monsters.v1
 type: monster
 ---

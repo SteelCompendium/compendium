@@ -2,12 +2,12 @@
 file_basename: Radenwight Swiftpaw
 file_dpath: Monsters/Radenwights/Statblocks
 item_id: radenwight-swiftpaw
-item_index: '110'
+item_index: '120'
 item_name: Radenwight Swiftpaw
 scc:
   - mcdm.monsters.v1:monster:radenwight-swiftpaw
 scdc:
-  - 1.1.1:2:110
+  - 1.1.1:2:120
 source: mcdm.monsters.v1
 type: monster
 ---

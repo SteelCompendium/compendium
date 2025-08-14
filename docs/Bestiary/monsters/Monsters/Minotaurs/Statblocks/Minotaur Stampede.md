@@ -2,12 +2,12 @@
 file_basename: Minotaur Stampede
 file_dpath: Monsters/Minotaurs/Statblocks
 item_id: minotaur-stampede
-item_index: '128'
+item_index: '138'
 item_name: Minotaur Stampede
 scc:
   - mcdm.monsters.v1:monster:minotaur-stampede
 scdc:
-  - 1.1.1:2:128
+  - 1.1.1:2:138
 source: mcdm.monsters.v1
 type: monster
 ---

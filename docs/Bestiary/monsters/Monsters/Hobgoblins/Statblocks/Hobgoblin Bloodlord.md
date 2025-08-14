@@ -2,12 +2,12 @@
 file_basename: Hobgoblin Bloodlord
 file_dpath: Monsters/Hobgoblins/Statblocks
 item_id: hobgoblin-bloodlord
-item_index: '140'
+item_index: '150'
 item_name: Hobgoblin Bloodlord
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-bloodlord
 scdc:
-  - 1.1.1:2:140
+  - 1.1.1:2:150
 source: mcdm.monsters.v1
 type: monster
 ---

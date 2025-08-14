@@ -2,12 +2,12 @@
 file_basename: Ruinant
 file_dpath: Monsters/Demons/Statblocks
 item_id: ruinant
-item_index: '238'
+item_index: '248'
 item_name: Ruinant
 scc:
   - mcdm.monsters.v1:monster:ruinant
 scdc:
-  - 1.1.1:2:238
+  - 1.1.1:2:248
 source: mcdm.monsters.v1
 type: monster
 ---

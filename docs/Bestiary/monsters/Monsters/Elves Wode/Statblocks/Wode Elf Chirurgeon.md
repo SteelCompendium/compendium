@@ -2,12 +2,12 @@
 file_basename: Wode Elf Chirurgeon
 file_dpath: Monsters/Elves Wode/Statblocks
 item_id: wode-elf-chirurgeon
-item_index: '189'
+item_index: '199'
 item_name: Wode Elf Chirurgeon
 scc:
   - mcdm.monsters.v1:monster:wode-elf-chirurgeon
 scdc:
-  - 1.1.1:2:189
+  - 1.1.1:2:199
 source: mcdm.monsters.v1
 type: monster
 ---

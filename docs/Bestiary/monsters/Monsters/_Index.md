@@ -375,3 +375,15 @@ type: index
 | [Shambling Mound Malice](../Shambling%20Mound/Features/Shambling%20Mound%20Malice)    |
 | [Shambling Mound](../Shambling%20Mound/Shambling%20Mound)                             |
 | [Shambling Mound](../Shambling%20Mound/Statblocks/Shambling%20Mound)                  |
+| [Time Raider Malice](../Time%20Raiders/Features/Time%20Raider%20Malice)               |
+| [Time Raider Archon](../Time%20Raiders/Statblocks/Time%20Raider%20Archon)             |
+| [Time Raider Armiger](../Time%20Raiders/Statblocks/Time%20Raider%20Armiger)           |
+| [Time Raider Cannonfall](../Time%20Raiders/Statblocks/Time%20Raider%20Cannonfall)     |
+| [Time Raider Helix](../Time%20Raiders/Statblocks/Time%20Raider%20Helix)               |
+| [Time Raider Hijack](../Time%20Raiders/Statblocks/Time%20Raider%20Hijack)             |
+| [Time Raider Mind Punk](../Time%20Raiders/Statblocks/Time%20Raider%20Mind%20Punk)     |
+| [Time Raider Myriad](../Time%20Raiders/Statblocks/Time%20Raider%20Myriad)             |
+| [Time Raider Nemesis](../Time%20Raiders/Statblocks/Time%20Raider%20Nemesis)           |
+| [Time Raider Tyrannis](../Time%20Raiders/Statblocks/Time%20Raider%20Tyrannis)         |
+| [Time Raider Vertex](../Time%20Raiders/Statblocks/Time%20Raider%20Vertex)             |
+| [Time Raiders](../Time%20Raiders/Time%20Raiders)                                      |

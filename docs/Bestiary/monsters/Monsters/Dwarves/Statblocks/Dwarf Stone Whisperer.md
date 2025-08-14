@@ -2,12 +2,12 @@
 file_basename: Dwarf Stone Whisperer
 file_dpath: Monsters/Dwarves/Statblocks
 item_id: dwarf-stone-whisperer
-item_index: '286'
+item_index: '296'
 item_name: Dwarf Stone Whisperer
 scc:
   - mcdm.monsters.v1:monster:dwarf-stone-whisperer
 scdc:
-  - 1.1.1:2:286
+  - 1.1.1:2:296
 source: mcdm.monsters.v1
 type: monster
 ---

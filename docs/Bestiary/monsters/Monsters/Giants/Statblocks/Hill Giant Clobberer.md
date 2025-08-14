@@ -2,12 +2,12 @@
 file_basename: Hill Giant Clobberer
 file_dpath: Monsters/Giants/Statblocks
 item_id: hill-giant-clobberer
-item_index: '157'
+item_index: '167'
 item_name: Hill Giant Clobberer
 scc:
   - mcdm.monsters.v1:monster:hill-giant-clobberer
 scdc:
-  - 1.1.1:2:157
+  - 1.1.1:2:167
 source: mcdm.monsters.v1
 type: monster
 ---
