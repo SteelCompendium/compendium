@@ -2,12 +2,12 @@
 file_basename: Dwarf Driver
 file_dpath: Monsters/Dwarves/Statblocks
 item_id: dwarf-driver
-item_index: '280'
+item_index: '281'
 item_name: Dwarf Driver
 scc:
   - mcdm.monsters.v1:monster:dwarf-driver
 scdc:
-  - 1.1.1:2:280
+  - 1.1.1:2:281
 source: mcdm.monsters.v1
 type: monster
 ---

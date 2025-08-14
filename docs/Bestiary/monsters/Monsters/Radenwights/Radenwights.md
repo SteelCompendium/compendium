@@ -2,12 +2,12 @@
 file_basename: Radenwights
 file_dpath: Monsters/Radenwights
 item_id: radenwights
-item_index: '26'
+item_index: '27'
 item_name: Radenwights
 scc:
   - mcdm.monsters.v1:monster.section:radenwights
 scdc:
-  - 1.1.1:2.1:26
+  - 1.1.1:2.1:27
 source: mcdm.monsters.v1
 type: monster/section
 ---

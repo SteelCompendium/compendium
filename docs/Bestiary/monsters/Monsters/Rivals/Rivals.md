@@ -2,12 +2,12 @@
 file_basename: Rivals
 file_dpath: Monsters/Rivals
 item_id: rivals
-item_index: '36'
+item_index: '37'
 item_name: Rivals
 scc:
   - mcdm.monsters.v1:monster.section:rivals
 scdc:
-  - 1.1.1:2.1:36
+  - 1.1.1:2.1:37
 source: mcdm.monsters.v1
 type: monster/section
 ---

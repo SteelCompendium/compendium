@@ -2,12 +2,12 @@
 file_basename: Minotaurs
 file_dpath: Monsters/Minotaurs
 item_id: minotaurs
-item_index: '24'
+item_index: '25'
 item_name: Minotaurs
 scc:
   - mcdm.monsters.v1:monster.section:minotaurs
 scdc:
-  - 1.1.1:2.1:24
+  - 1.1.1:2.1:25
 source: mcdm.monsters.v1
 type: monster/section
 ---

@@ -372,3 +372,6 @@ type: index
 | [Rival Tactician](../Rivals/4th%20Echelon/Statblocks/Rival%20Tactician)               |
 | [Rival Talent](../Rivals/4th%20Echelon/Statblocks/Rival%20Talent)                     |
 | [Rivals](../Rivals/Rivals)                                                            |
+| [Shambling Mound Malice](../Shambling%20Mound/Features/Shambling%20Mound%20Malice)    |
+| [Shambling Mound](../Shambling%20Mound/Shambling%20Mound)                             |
+| [Shambling Mound](../Shambling%20Mound/Statblocks/Shambling%20Mound)                  |

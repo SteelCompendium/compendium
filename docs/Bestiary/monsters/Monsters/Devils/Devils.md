@@ -2,12 +2,12 @@
 file_basename: Devils
 file_dpath: Monsters/Devils
 item_id: devils
-item_index: 08
+item_index: 09
 item_name: Devils
 scc:
   - mcdm.monsters.v1:monster.section:devils
 scdc:
-  - 1.1.1:2.1:08
+  - 1.1.1:2.1:09
 source: mcdm.monsters.v1
 type: monster/section
 ---

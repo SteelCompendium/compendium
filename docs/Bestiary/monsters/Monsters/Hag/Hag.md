@@ -2,12 +2,12 @@
 file_basename: Hag
 file_dpath: Monsters/Hag
 item_id: hag
-item_index: 09
+item_index: '10'
 item_name: Hag
 scc:
   - mcdm.monsters.v1:monster.section:hag
 scdc:
-  - 1.1.1:2.1:09
+  - 1.1.1:2.1:10
 source: mcdm.monsters.v1
 type: monster/section
 ---
