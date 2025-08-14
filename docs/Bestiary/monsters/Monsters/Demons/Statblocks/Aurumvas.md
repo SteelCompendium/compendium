@@ -2,12 +2,12 @@
 file_basename: Aurumvas
 file_dpath: Monsters/Demons/Statblocks
 item_id: aurumvas
-item_index: '163'
+item_index: '168'
 item_name: Aurumvas
 scc:
   - mcdm.monsters.v1:monster:aurumvas
 scdc:
-  - 1.1.1:2:163
+  - 1.1.1:2:168
 source: mcdm.monsters.v1
 type: monster
 ---

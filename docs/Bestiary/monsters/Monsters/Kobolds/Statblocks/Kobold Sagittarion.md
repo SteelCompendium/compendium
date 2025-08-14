@@ -2,12 +2,12 @@
 file_basename: Kobold Sagittarion
 file_dpath: Monsters/Kobolds/Statblocks
 item_id: kobold-sagittarion
-item_index: '33'
+item_index: '38'
 item_name: Kobold Sagittarion
 scc:
   - mcdm.monsters.v1:monster:kobold-sagittarion
 scdc:
-  - 1.1.1:2:33
+  - 1.1.1:2:38
 source: mcdm.monsters.v1
 type: monster
 ---

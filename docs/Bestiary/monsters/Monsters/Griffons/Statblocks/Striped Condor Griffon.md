@@ -2,12 +2,12 @@
 file_basename: Striped Condor Griffon
 file_dpath: Monsters/Griffons/Statblocks
 item_id: striped-condor-griffon
-item_index: '21'
+item_index: '26'
 item_name: Striped Condor Griffon
 scc:
   - mcdm.monsters.v1:monster:striped-condor-griffon
 scdc:
-  - 1.1.1:2:21
+  - 1.1.1:2:26
 source: mcdm.monsters.v1
 type: monster
 ---

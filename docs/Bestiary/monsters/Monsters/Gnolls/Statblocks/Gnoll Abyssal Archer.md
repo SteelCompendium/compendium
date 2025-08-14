@@ -2,12 +2,12 @@
 file_basename: Gnoll Abyssal Archer
 file_dpath: Monsters/Gnolls/Statblocks
 item_id: gnoll-abyssal-archer
-item_index: '02'
+item_index: '07'
 item_name: Gnoll Abyssal Archer
 scc:
   - mcdm.monsters.v1:monster:gnoll-abyssal-archer
 scdc:
-  - 1.1.1:2:02
+  - 1.1.1:2:07
 source: mcdm.monsters.v1
 type: monster
 ---

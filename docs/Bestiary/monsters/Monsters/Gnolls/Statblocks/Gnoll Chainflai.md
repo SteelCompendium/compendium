@@ -2,12 +2,12 @@
 file_basename: Gnoll Chainflai
 file_dpath: Monsters/Gnolls/Statblocks
 item_id: gnoll-chainflai
-item_index: '10'
+item_index: '15'
 item_name: Gnoll Chainflai
 scc:
   - mcdm.monsters.v1:monster:gnoll-chainflai
 scdc:
-  - 1.1.1:2:10
+  - 1.1.1:2:15
 source: mcdm.monsters.v1
 type: monster
 ---

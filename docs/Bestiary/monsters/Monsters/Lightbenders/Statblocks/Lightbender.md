@@ -2,12 +2,12 @@
 file_basename: Lightbender
 file_dpath: Monsters/Lightbenders/Statblocks
 item_id: lightbender
-item_index: '98'
+item_index: '108'
 item_name: Lightbender
 scc:
   - mcdm.monsters.v1:monster:lightbender
 scdc:
-  - 1.1.1:2:98
+  - 1.1.1:2:108
 source: mcdm.monsters.v1
 type: monster
 ---

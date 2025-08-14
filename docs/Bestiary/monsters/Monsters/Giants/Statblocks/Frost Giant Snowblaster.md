@@ -2,12 +2,12 @@
 file_basename: Frost Giant Snowblaster
 file_dpath: Monsters/Giants/Statblocks
 item_id: frost-giant-snowblaster
-item_index: '87'
+item_index: '97'
 item_name: Frost Giant Snowblaster
 scc:
   - mcdm.monsters.v1:monster:frost-giant-snowblaster
 scdc:
-  - 1.1.1:2:87
+  - 1.1.1:2:97
 source: mcdm.monsters.v1
 type: monster
 ---

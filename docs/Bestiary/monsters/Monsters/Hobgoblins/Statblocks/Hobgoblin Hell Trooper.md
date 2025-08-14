@@ -2,12 +2,12 @@
 file_basename: Hobgoblin Hell Trooper
 file_dpath: Monsters/Hobgoblins/Statblocks
 item_id: hobgoblin-hell-trooper
-item_index: '71'
+item_index: '81'
 item_name: Hobgoblin Hell Trooper
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-hell-trooper
 scdc:
-  - 1.1.1:2:71
+  - 1.1.1:2:81
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Shadow Elf Eclipse
 file_dpath: Monsters/Elves Shadow/Statblocks
 item_id: shadow-elf-eclipse
-item_index: '111'
+item_index: '121'
 item_name: Shadow Elf Eclipse
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-eclipse
 scdc:
-  - 1.1.1:2:111
+  - 1.1.1:2:121
 source: mcdm.monsters.v1
 type: monster
 ---

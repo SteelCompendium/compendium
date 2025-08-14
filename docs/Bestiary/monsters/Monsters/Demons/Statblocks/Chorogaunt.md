@@ -2,12 +2,12 @@
 file_basename: Chorogaunt
 file_dpath: Monsters/Demons/Statblocks
 item_id: chorogaunt
-item_index: '154'
+item_index: '159'
 item_name: Chorogaunt
 scc:
   - mcdm.monsters.v1:monster:chorogaunt
 scdc:
-  - 1.1.1:2:154
+  - 1.1.1:2:159
 source: mcdm.monsters.v1
 type: monster
 ---

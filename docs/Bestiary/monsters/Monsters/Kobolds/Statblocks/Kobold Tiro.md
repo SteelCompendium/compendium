@@ -2,12 +2,12 @@
 file_basename: Kobold Tiro
 file_dpath: Monsters/Kobolds/Statblocks
 item_id: kobold-tiro
-item_index: '29'
+item_index: '34'
 item_name: Kobold Tiro
 scc:
   - mcdm.monsters.v1:monster:kobold-tiro
 scdc:
-  - 1.1.1:2:29
+  - 1.1.1:2:34
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Torlas
 file_dpath: Monsters/Demons/Statblocks
 item_id: torlas
-item_index: '182'
+item_index: '187'
 item_name: Torlas
 scc:
   - mcdm.monsters.v1:monster:torlas
 scdc:
-  - 1.1.1:2:182
+  - 1.1.1:2:187
 source: mcdm.monsters.v1
 type: monster
 ---

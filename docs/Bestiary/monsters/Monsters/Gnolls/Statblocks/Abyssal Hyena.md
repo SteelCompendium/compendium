@@ -2,12 +2,12 @@
 file_basename: Abyssal Hyena
 file_dpath: Monsters/Gnolls/Statblocks
 item_id: abyssal-hyena
-item_index: '12'
+item_index: '17'
 item_name: Abyssal Hyena
 scc:
   - mcdm.monsters.v1:monster:abyssal-hyena
 scdc:
-  - 1.1.1:2:12
+  - 1.1.1:2:17
 source: mcdm.monsters.v1
 type: monster
 ---

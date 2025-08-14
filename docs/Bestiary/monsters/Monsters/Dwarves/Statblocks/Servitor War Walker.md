@@ -2,12 +2,12 @@
 file_basename: Servitor War Walker
 file_dpath: Monsters/Dwarves/Statblocks
 item_id: servitor-war-walker
-item_index: '222'
+item_index: '227'
 item_name: Servitor War Walker
 scc:
   - mcdm.monsters.v1:monster:servitor-war-walker
 scdc:
-  - 1.1.1:2:222
+  - 1.1.1:2:227
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -1,13 +1,13 @@
 ---
 file_basename: Minotaur Lackey
-file_dpath: Monsters/Minotaurss/Statblocks
+file_dpath: Monsters/Minotaurs/Statblocks
 item_id: minotaur-lackey
-item_index: '139'
+item_index: '74'
 item_name: Minotaur Lackey
 scc:
   - mcdm.monsters.v1:monster:minotaur-lackey
 scdc:
-  - 1.1.1:2:139
+  - 1.1.1:2:74
 source: mcdm.monsters.v1
 type: monster
 ---

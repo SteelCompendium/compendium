@@ -2,12 +2,12 @@
 file_basename: Kobold Princeps
 file_dpath: Monsters/Kobolds/Statblocks
 item_id: kobold-princeps
-item_index: '25'
+item_index: '30'
 item_name: Kobold Princeps
 scc:
   - mcdm.monsters.v1:monster:kobold-princeps
 scdc:
-  - 1.1.1:2:25
+  - 1.1.1:2:30
 source: mcdm.monsters.v1
 type: monster
 ---

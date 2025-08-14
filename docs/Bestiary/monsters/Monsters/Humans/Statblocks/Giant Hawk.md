@@ -2,12 +2,12 @@
 file_basename: Giant Hawk
 file_dpath: Monsters/Humans/Statblocks
 item_id: giant-hawk
-item_index: '65'
+item_index: '70'
 item_name: Giant Hawk
 scc:
   - mcdm.monsters.v1:monster:giant-hawk
 scdc:
-  - 1.1.1:2:65
+  - 1.1.1:2:70
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Kobold Adeptus
 file_dpath: Monsters/Kobolds/Statblocks
 item_id: kobold-adeptus
-item_index: '23'
+item_index: '28'
 item_name: Kobold Adeptus
 scc:
   - mcdm.monsters.v1:monster:kobold-adeptus
 scdc:
-  - 1.1.1:2:23
+  - 1.1.1:2:28
 source: mcdm.monsters.v1
 type: monster
 ---

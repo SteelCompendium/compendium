@@ -2,12 +2,12 @@
 file_basename: Shadow Elf Mournblade
 file_dpath: Monsters/Elves Shadow/Statblocks
 item_id: shadow-elf-mournblade
-item_index: '114'
+item_index: '124'
 item_name: Shadow Elf Mournblade
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-mournblade
 scdc:
-  - 1.1.1:2:114
+  - 1.1.1:2:124
 source: mcdm.monsters.v1
 type: monster
 ---

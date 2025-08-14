@@ -2,12 +2,12 @@
 file_basename: Lizardfolk Tonguer
 file_dpath: Monsters/Lizardfolks/Statblocks
 item_id: lizardfolk-tonguer
-item_index: '16'
+item_index: '21'
 item_name: Lizardfolk Tonguer
 scc:
   - mcdm.monsters.v1:monster:lizardfolk-tonguer
 scdc:
-  - 1.1.1:2:16
+  - 1.1.1:2:21
 source: mcdm.monsters.v1
 type: monster
 ---

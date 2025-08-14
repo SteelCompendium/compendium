@@ -2,12 +2,12 @@
 file_basename: Kobold Venator
 file_dpath: Monsters/Kobolds/Statblocks
 item_id: kobold-venator
-item_index: '26'
+item_index: '31'
 item_name: Kobold Venator
 scc:
   - mcdm.monsters.v1:monster:kobold-venator
 scdc:
-  - 1.1.1:2:26
+  - 1.1.1:2:31
 source: mcdm.monsters.v1
 type: monster
 ---

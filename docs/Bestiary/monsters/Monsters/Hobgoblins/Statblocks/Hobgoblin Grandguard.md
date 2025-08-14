@@ -2,12 +2,12 @@
 file_basename: Hobgoblin Grandguard
 file_dpath: Monsters/Hobgoblins/Statblocks
 item_id: hobgoblin-grandguard
-item_index: '75'
+item_index: '85'
 item_name: Hobgoblin Grandguard
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-grandguard
 scdc:
-  - 1.1.1:2:75
+  - 1.1.1:2:85
 source: mcdm.monsters.v1
 type: monster
 ---

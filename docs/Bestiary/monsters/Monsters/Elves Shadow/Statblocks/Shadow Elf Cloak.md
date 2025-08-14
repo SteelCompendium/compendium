@@ -2,12 +2,12 @@
 file_basename: Shadow Elf Cloak
 file_dpath: Monsters/Elves Shadow/Statblocks
 item_id: shadow-elf-cloak
-item_index: '104'
+item_index: '114'
 item_name: Shadow Elf Cloak
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-cloak
 scdc:
-  - 1.1.1:2:104
+  - 1.1.1:2:114
 source: mcdm.monsters.v1
 type: monster
 ---

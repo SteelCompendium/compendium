@@ -2,12 +2,12 @@
 file_basename: Tactical Stance
 file_dpath: Monsters/Ajax the Invincible/Features
 item_id: tactical-stance-ajax-feature
-item_index: '07'
+item_index: 08
 item_name: Tactical Stance (Ajax Feature)
 scc:
   - mcdm.monsters.v1:monster.feature:tactical-stance-ajax-feature
 scdc:
-  - 1.1.1:2.2:07
+  - 1.1.1:2.2:08
 source: mcdm.monsters.v1
 type: monster/feature
 ---

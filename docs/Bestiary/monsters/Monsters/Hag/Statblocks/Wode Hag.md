@@ -2,12 +2,12 @@
 file_basename: Wode Hag
 file_dpath: Monsters/Hag/Statblocks
 item_id: wode-hag
-item_index: '190'
+item_index: '195'
 item_name: Wode Hag
 scc:
   - mcdm.monsters.v1:monster:wode-hag
 scdc:
-  - 1.1.1:2:190
+  - 1.1.1:2:195
 source: mcdm.monsters.v1
 type: monster
 ---

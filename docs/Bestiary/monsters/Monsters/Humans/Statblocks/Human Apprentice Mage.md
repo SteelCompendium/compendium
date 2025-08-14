@@ -2,12 +2,12 @@
 file_basename: Human Apprentice Mage
 file_dpath: Monsters/Humans/Statblocks
 item_id: human-apprentice-mage
-item_index: '61'
+item_index: '66'
 item_name: Human Apprentice Mage
 scc:
   - mcdm.monsters.v1:monster:human-apprentice-mage
 scdc:
-  - 1.1.1:2:61
+  - 1.1.1:2:66
 source: mcdm.monsters.v1
 type: monster
 ---

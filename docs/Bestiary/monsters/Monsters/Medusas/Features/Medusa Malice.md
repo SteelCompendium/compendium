@@ -2,12 +2,12 @@
 file_basename: Medusa Malice
 file_dpath: Monsters/Medusas/Features
 item_id: medusa-malice
-item_index: '18'
+item_index: '19'
 item_name: Medusa Malice
 scc:
   - mcdm.monsters.v1:monster.feature:medusa-malice
 scdc:
-  - 1.1.1:2.2:18
+  - 1.1.1:2.2:19
 source: mcdm.monsters.v1
 type: monster/feature
 ---

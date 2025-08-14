@@ -2,12 +2,12 @@
 file_basename: Hobgoblins
 file_dpath: Monsters/Hobgoblins
 item_id: hobgoblins
-item_index: '24'
+item_index: '23'
 item_name: Hobgoblins
 scc:
   - mcdm.monsters.v1:monster.section:hobgoblins
 scdc:
-  - 1.1.1:2.1:24
+  - 1.1.1:2.1:23
 source: mcdm.monsters.v1
 type: monster/section
 ---

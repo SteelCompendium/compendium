@@ -2,12 +2,12 @@
 file_basename: Ajax the Invincible
 file_dpath: Monsters/Ajax the Invincible/Statblocks
 item_id: ajax-the-invincible
-item_index: '53'
+item_index: '58'
 item_name: Ajax the Invincible
 scc:
   - mcdm.monsters.v1:monster:ajax-the-invincible
 scdc:
-  - 1.1.1:2:53
+  - 1.1.1:2:58
 source: mcdm.monsters.v1
 type: monster
 ---

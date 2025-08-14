@@ -300,9 +300,16 @@ type: index
 | [Medusa Malice](../Medusas/Features/Medusa%20Malice)                                  |
 | [Medusa](../Medusas/Medusa)                                                           |
 | [Medusa](../Medusas/Statblocks/Medusa)                                                |
-| [Minotaurs](../Minotaurss/Minotaurs)                                                  |
-| [Minotaur Bully](../Minotaurss/Statblocks/Minotaur%20Bully)                           |
-| [Minotaur Lackey](../Minotaurss/Statblocks/Minotaur%20Lackey)                         |
-| [Minotaur](../Minotaurss/Statblocks/Minotaur)                                         |
-| [Minotaur Stampede](../Minotaurss/Statblocks/Minotaur%20Stampede)                     |
-| [Minotaur Sunderer](../Minotaurss/Statblocks/Minotaur%20Sunderer)                     |
+| [Minotaurs](../Minotaurs/Minotaurs)                                                   |
+| [Minotaur Bully](../Minotaurs/Statblocks/Minotaur%20Bully)                            |
+| [Minotaur Lackey](../Minotaurs/Statblocks/Minotaur%20Lackey)                          |
+| [Minotaur](../Minotaurs/Statblocks/Minotaur)                                          |
+| [Minotaur Stampede](../Minotaurs/Statblocks/Minotaur%20Stampede)                      |
+| [Minotaur Sunderer](../Minotaurs/Statblocks/Minotaur%20Sunderer)                      |
+| [Ogre Malice](../Ogres/Features/Ogre%20Malice)                                        |
+| [Ogres](../Ogres/Ogres)                                                               |
+| [Cyclops](../Ogres/Statblocks/Cyclops)                                                |
+| [Ogre Blue Blood](../Ogres/Statblocks/Ogre%20Blue%20Blood)                            |
+| [Ogre Goon](../Ogres/Statblocks/Ogre%20Goon)                                          |
+| [Ogre Juggernaut](../Ogres/Statblocks/Ogre%20Juggernaut)                              |
+| [Ogre Tantrum](../Ogres/Statblocks/Ogre%20Tantrum)                                    |

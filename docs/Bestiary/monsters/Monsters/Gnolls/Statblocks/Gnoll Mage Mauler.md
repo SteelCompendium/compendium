@@ -2,12 +2,12 @@
 file_basename: Gnoll Mage Mauler
 file_dpath: Monsters/Gnolls/Statblocks
 item_id: gnoll-mage-mauler
-item_index: '11'
+item_index: '16'
 item_name: Gnoll Mage Mauler
 scc:
   - mcdm.monsters.v1:monster:gnoll-mage-mauler
 scdc:
-  - 1.1.1:2:11
+  - 1.1.1:2:16
 source: mcdm.monsters.v1
 type: monster
 ---

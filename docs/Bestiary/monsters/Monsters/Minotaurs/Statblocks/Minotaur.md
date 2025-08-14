@@ -1,13 +1,13 @@
 ---
 file_basename: Minotaur
-file_dpath: Monsters/Minotaurss/Statblocks
+file_dpath: Monsters/Minotaurs/Statblocks
 item_id: minotaur
-item_index: '140'
+item_index: '75'
 item_name: Minotaur
 scc:
   - mcdm.monsters.v1:monster:minotaur
 scdc:
-  - 1.1.1:2:140
+  - 1.1.1:2:75
 source: mcdm.monsters.v1
 type: monster
 ---

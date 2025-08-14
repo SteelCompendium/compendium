@@ -2,12 +2,12 @@
 file_basename: Granite Stone Giant
 file_dpath: Monsters/Giants/Statblocks
 item_id: granite-stone-giant
-item_index: '96'
+item_index: '106'
 item_name: Granite Stone Giant
 scc:
   - mcdm.monsters.v1:monster:granite-stone-giant
 scdc:
-  - 1.1.1:2:96
+  - 1.1.1:2:106
 source: mcdm.monsters.v1
 type: monster
 ---

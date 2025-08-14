@@ -2,12 +2,12 @@
 file_basename: Kobold Veles
 file_dpath: Monsters/Kobolds/Statblocks
 item_id: kobold-veles
-item_index: '28'
+item_index: '33'
 item_name: Kobold Veles
 scc:
   - mcdm.monsters.v1:monster:kobold-veles
 scdc:
-  - 1.1.1:2:28
+  - 1.1.1:2:33
 source: mcdm.monsters.v1
 type: monster
 ---

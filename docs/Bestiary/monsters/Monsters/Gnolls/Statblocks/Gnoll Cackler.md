@@ -2,12 +2,12 @@
 file_basename: Gnoll Cackler
 file_dpath: Monsters/Gnolls/Statblocks
 item_id: gnoll-cackler
-item_index: '07'
+item_index: '12'
 item_name: Gnoll Cackler
 scc:
   - mcdm.monsters.v1:monster:gnoll-cackler
 scdc:
-  - 1.1.1:2:07
+  - 1.1.1:2:12
 source: mcdm.monsters.v1
 type: monster
 ---

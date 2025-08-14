@@ -2,12 +2,12 @@
 file_basename: Lizardfolk Skyterror
 file_dpath: Monsters/Lizardfolks/Statblocks
 item_id: lizardfolk-skyterror
-item_index: '15'
+item_index: '20'
 item_name: Lizardfolk Skyterror
 scc:
   - mcdm.monsters.v1:monster:lizardfolk-skyterror
 scdc:
-  - 1.1.1:2:15
+  - 1.1.1:2:20
 source: mcdm.monsters.v1
 type: monster
 ---

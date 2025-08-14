@@ -2,12 +2,12 @@
 file_basename: Goblin Warrior
 file_dpath: Monsters/Goblins/Statblocks
 item_id: goblin-warrior
-item_index: '199'
+item_index: '204'
 item_name: Goblin Warrior
 scc:
   - mcdm.monsters.v1:monster:goblin-warrior
 scdc:
-  - 1.1.1:2:199
+  - 1.1.1:2:204
 source: mcdm.monsters.v1
 type: monster
 ---

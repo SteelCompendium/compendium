@@ -2,12 +2,12 @@
 file_basename: Kobold Artifex
 file_dpath: Monsters/Kobolds/Statblocks
 item_id: kobold-artifex
-item_index: '24'
+item_index: '29'
 item_name: Kobold Artifex
 scc:
   - mcdm.monsters.v1:monster:kobold-artifex
 scdc:
-  - 1.1.1:2:24
+  - 1.1.1:2:29
 source: mcdm.monsters.v1
 type: monster
 ---

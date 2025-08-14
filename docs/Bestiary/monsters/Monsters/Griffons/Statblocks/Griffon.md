@@ -2,12 +2,12 @@
 file_basename: Griffon
 file_dpath: Monsters/Griffons/Statblocks
 item_id: griffon
-item_index: '20'
+item_index: '25'
 item_name: Griffon
 scc:
   - mcdm.monsters.v1:monster:griffon
 scdc:
-  - 1.1.1:2:20
+  - 1.1.1:2:25
 source: mcdm.monsters.v1
 type: monster
 ---
