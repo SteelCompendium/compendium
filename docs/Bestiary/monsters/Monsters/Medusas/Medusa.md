@@ -2,12 +2,12 @@
 file_basename: Medusa
 file_dpath: Monsters/Medusas
 item_id: medusa
-item_index: '15'
+item_index: '18'
 item_name: Medusa
 scc:
   - mcdm.monsters.v1:monster.section:medusa
 scdc:
-  - 1.1.1:2.1:15
+  - 1.1.1:2.1:18
 source: mcdm.monsters.v1
 type: monster/section
 ---

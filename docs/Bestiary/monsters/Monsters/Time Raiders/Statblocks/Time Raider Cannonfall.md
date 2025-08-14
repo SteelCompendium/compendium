@@ -2,12 +2,12 @@
 file_basename: Time Raider Cannonfall
 file_dpath: Monsters/Time Raiders/Statblocks
 item_id: time-raider-cannonfall
-item_index: '111'
+item_index: '145'
 item_name: Time Raider Cannonfall
 scc:
   - mcdm.monsters.v1:monster:time-raider-cannonfall
 scdc:
-  - 1.1.1:2:111
+  - 1.1.1:2:145
 source: mcdm.monsters.v1
 type: monster
 ---

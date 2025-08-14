@@ -2,12 +2,12 @@
 file_basename: Orc Juggernaut
 file_dpath: Monsters/Orcs/Statblocks
 item_id: orc-juggernaut
-item_index: '101'
+item_index: '135'
 item_name: Orc Juggernaut
 scc:
   - mcdm.monsters.v1:monster:orc-juggernaut
 scdc:
-  - 1.1.1:2:101
+  - 1.1.1:2:135
 source: mcdm.monsters.v1
 type: monster
 ---

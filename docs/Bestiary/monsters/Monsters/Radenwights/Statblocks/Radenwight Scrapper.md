@@ -2,12 +2,12 @@
 file_basename: Radenwight Scrapper
 file_dpath: Monsters/Radenwights/Statblocks
 item_id: radenwight-scrapper
-item_index: '118'
+item_index: '152'
 item_name: Radenwight Scrapper
 scc:
   - mcdm.monsters.v1:monster:radenwight-scrapper
 scdc:
-  - 1.1.1:2:118
+  - 1.1.1:2:152
 source: mcdm.monsters.v1
 type: monster
 ---

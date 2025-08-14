@@ -2,12 +2,12 @@
 file_basename: Hobgoblin Smokebinder
 file_dpath: Monsters/Hobgoblins/Statblocks
 item_id: hobgoblin-smokebinder
-item_index: '145'
+item_index: '179'
 item_name: Hobgoblin Smokebinder
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-smokebinder
 scdc:
-  - 1.1.1:2:145
+  - 1.1.1:2:179
 source: mcdm.monsters.v1
 type: monster
 ---

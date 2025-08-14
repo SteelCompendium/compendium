@@ -2,12 +2,12 @@
 file_basename: Dorzinuuth the Base
 file_dpath: Monsters/Draconians/Statblocks
 item_id: dorzinuuth-the-base
-item_index: '67'
+item_index: '101'
 item_name: Dorzinuuth the Base
 scc:
   - mcdm.monsters.v1:monster:dorzinuuth-the-base
 scdc:
-  - 1.1.1:2:67
+  - 1.1.1:2:101
 source: mcdm.monsters.v1
 type: monster
 ---

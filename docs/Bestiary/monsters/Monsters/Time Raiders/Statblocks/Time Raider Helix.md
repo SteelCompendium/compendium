@@ -2,12 +2,12 @@
 file_basename: Time Raider Helix
 file_dpath: Monsters/Time Raiders/Statblocks
 item_id: time-raider-helix
-item_index: '109'
+item_index: '143'
 item_name: Time Raider Helix
 scc:
   - mcdm.monsters.v1:monster:time-raider-helix
 scdc:
-  - 1.1.1:2:109
+  - 1.1.1:2:143
 source: mcdm.monsters.v1
 type: monster
 ---

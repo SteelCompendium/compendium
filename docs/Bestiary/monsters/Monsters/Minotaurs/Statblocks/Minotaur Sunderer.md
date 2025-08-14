@@ -2,12 +2,12 @@
 file_basename: Minotaur Sunderer
 file_dpath: Monsters/Minotaurs/Statblocks
 item_id: minotaur-sunderer
-item_index: '139'
+item_index: '173'
 item_name: Minotaur Sunderer
 scc:
   - mcdm.monsters.v1:monster:minotaur-sunderer
 scdc:
-  - 1.1.1:2:139
+  - 1.1.1:2:173
 source: mcdm.monsters.v1
 type: monster
 ---

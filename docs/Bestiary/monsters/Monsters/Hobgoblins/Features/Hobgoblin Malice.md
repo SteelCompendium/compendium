@@ -2,12 +2,12 @@
 file_basename: Hobgoblin Malice
 file_dpath: Monsters/Hobgoblins/Features
 item_id: hobgoblin-malice
-item_index: '14'
+item_index: '16'
 item_name: Hobgoblin Malice
 scc:
   - mcdm.monsters.v1:monster.feature:hobgoblin-malice
 scdc:
-  - 1.1.1:2.2:14
+  - 1.1.1:2.2:16
 source: mcdm.monsters.v1
 type: monster/feature
 ---

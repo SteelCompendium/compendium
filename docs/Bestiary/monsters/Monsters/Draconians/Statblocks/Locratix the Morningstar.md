@@ -2,12 +2,12 @@
 file_basename: Locratix the Morningstar
 file_dpath: Monsters/Draconians/Statblocks
 item_id: locratix-the-morningstar
-item_index: '71'
+item_index: '105'
 item_name: Locratix the Morningstar
 scc:
   - mcdm.monsters.v1:monster:locratix-the-morningstar
 scdc:
-  - 1.1.1:2:71
+  - 1.1.1:2:105
 source: mcdm.monsters.v1
 type: monster
 ---

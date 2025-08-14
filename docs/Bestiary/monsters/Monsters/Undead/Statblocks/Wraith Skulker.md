@@ -1,0 +1,41 @@
+---
+file_basename: Wraith Skulker
+file_dpath: Monsters/Undead/Statblocks
+item_id: wraith-skulker
+item_index: '86'
+item_name: Wraith Skulker
+scc:
+  - mcdm.monsters.v1:monster:wraith-skulker
+scdc:
+  - 1.1.1:2:86
+source: mcdm.monsters.v1
+type: monster
+---
+
+###### Wraith Skulker
+
+|                   Undead                   |              -               |      Level 10       |             Minion Harrier              | EV 12 for four minions |
+| :----------------------------------------: | :--------------------------: | :-----------------: | :-------------------------------------: | :--------------------: |
+|              **1M**<br/> Size              |       **7**<br/> Speed       | **15**<br/> Stamina |          **1**<br/> Stability           | **4**<br/> Free Strike |
+| **Corruption 10, poison 10**<br/> Immunity | **Fly, hover**<br/> Movement |          -          | **+3 bonus to speed**<br/> With Captain | **-**<br/> Weaknesses  |
+|             **-2**<br/> Might              |     **+3**<br/> Agility      | **+1**<br/> Reason  |          **+1**<br/> Intuition          |  **+5**<br/> Presence  |
+
+<!-- -->
+> 🗡 **Draining Rake (Signature Ability)**
+>
+> | **Melee, Strike, Weapon** |                          **Main action** |
+> | ------------------------- | ---------------------------------------: |
+> | **📏 Melee 1**            | **🎯 One creature or object per minion** |
+>
+> **Power Roll + 5:**
+>
+> - **≤11:** 4 cold damage; the wraith can shift 1 squar
+> - **12-16:** 7 cold damage; the wraith shifts up to 2 square
+> - **17+:** 9 cold damage; P < 5 slowed (save ends); the wraith shifts up to 3 squares
+>
+> **Effect:** The wraith turns invisible until the start of their next turn.
+
+<!-- -->
+> ⭐️ **Corruptive Phasing**
+>
+> The wraith can move through creatures and objects at their usual speed, but can't end their turn inside a creature or object. The first time in a round that the wraith moves through a creature, that creature takes 5 corruption damage. The wraith doesn't take damage from being force moved into objects.

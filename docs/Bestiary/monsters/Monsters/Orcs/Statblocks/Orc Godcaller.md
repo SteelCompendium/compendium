@@ -2,12 +2,12 @@
 file_basename: Orc Godcaller
 file_dpath: Monsters/Orcs/Statblocks
 item_id: orc-godcaller
-item_index: '91'
+item_index: '125'
 item_name: Orc Godcaller
 scc:
   - mcdm.monsters.v1:monster:orc-godcaller
 scdc:
-  - 1.1.1:2:91
+  - 1.1.1:2:125
 source: mcdm.monsters.v1
 type: monster
 ---

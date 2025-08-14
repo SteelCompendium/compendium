@@ -2,12 +2,12 @@
 file_basename: Goblins
 file_dpath: Monsters/Goblins
 item_id: goblins
-item_index: 08
+item_index: '10'
 item_name: Goblins
 scc:
   - mcdm.monsters.v1:monster.section:goblins
 scdc:
-  - 1.1.1:2.1:08
+  - 1.1.1:2.1:10
 source: mcdm.monsters.v1
 type: monster/section
 ---

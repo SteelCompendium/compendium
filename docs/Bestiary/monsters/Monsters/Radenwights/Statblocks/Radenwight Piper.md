@@ -2,12 +2,12 @@
 file_basename: Radenwight Piper
 file_dpath: Monsters/Radenwights/Statblocks
 item_id: radenwight-piper
-item_index: '114'
+item_index: '148'
 item_name: Radenwight Piper
 scc:
   - mcdm.monsters.v1:monster:radenwight-piper
 scdc:
-  - 1.1.1:2:114
+  - 1.1.1:2:148
 source: mcdm.monsters.v1
 type: monster
 ---

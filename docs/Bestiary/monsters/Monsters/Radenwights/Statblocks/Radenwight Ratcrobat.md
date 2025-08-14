@@ -2,12 +2,12 @@
 file_basename: Radenwight Ratcrobat
 file_dpath: Monsters/Radenwights/Statblocks
 item_id: radenwight-ratcrobat
-item_index: '116'
+item_index: '150'
 item_name: Radenwight Ratcrobat
 scc:
   - mcdm.monsters.v1:monster:radenwight-ratcrobat
 scdc:
-  - 1.1.1:2:116
+  - 1.1.1:2:150
 source: mcdm.monsters.v1
 type: monster
 ---

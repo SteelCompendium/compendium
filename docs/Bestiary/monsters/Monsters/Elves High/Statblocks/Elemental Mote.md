@@ -2,12 +2,12 @@
 file_basename: Elemental Mote
 file_dpath: Monsters/Elves High/Statblocks
 item_id: elemental-mote
-item_index: '76'
+item_index: '110'
 item_name: Elemental Mote
 scc:
   - mcdm.monsters.v1:monster:elemental-mote
 scdc:
-  - 1.1.1:2:76
+  - 1.1.1:2:110
 source: mcdm.monsters.v1
 type: monster
 ---

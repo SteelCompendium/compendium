@@ -2,12 +2,12 @@
 file_basename: Radenwight Malice
 file_dpath: Monsters/Radenwights/Features
 item_id: radenwight-malice
-item_index: '13'
+item_index: '15'
 item_name: Radenwight Malice
 scc:
   - mcdm.monsters.v1:monster.feature:radenwight-malice
 scdc:
-  - 1.1.1:2.2:13
+  - 1.1.1:2.2:15
 source: mcdm.monsters.v1
 type: monster/feature
 ---

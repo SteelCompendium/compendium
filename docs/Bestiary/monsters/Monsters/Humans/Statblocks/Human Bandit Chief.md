@@ -2,12 +2,12 @@
 file_basename: Human Bandit Chief
 file_dpath: Monsters/Humans/Statblocks
 item_id: human-bandit-chief
-item_index: '129'
+item_index: '163'
 item_name: Human Bandit Chief
 scc:
   - mcdm.monsters.v1:monster:human-bandit-chief
 scdc:
-  - 1.1.1:2:129
+  - 1.1.1:2:163
 source: mcdm.monsters.v1
 type: monster
 ---

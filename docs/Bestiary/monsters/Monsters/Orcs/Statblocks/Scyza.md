@@ -2,12 +2,12 @@
 file_basename: Scyza
 file_dpath: Monsters/Orcs/Statblocks
 item_id: scyza
-item_index: '95'
+item_index: '129'
 item_name: Scyza
 scc:
   - mcdm.monsters.v1:monster:scyza
 scdc:
-  - 1.1.1:2:95
+  - 1.1.1:2:129
 source: mcdm.monsters.v1
 type: monster
 ---

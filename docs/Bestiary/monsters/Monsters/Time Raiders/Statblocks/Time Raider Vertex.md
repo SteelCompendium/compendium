@@ -2,12 +2,12 @@
 file_basename: Time Raider Vertex
 file_dpath: Monsters/Time Raiders/Statblocks
 item_id: time-raider-vertex
-item_index: '110'
+item_index: '144'
 item_name: Time Raider Vertex
 scc:
   - mcdm.monsters.v1:monster:time-raider-vertex
 scdc:
-  - 1.1.1:2:110
+  - 1.1.1:2:144
 source: mcdm.monsters.v1
 type: monster
 ---

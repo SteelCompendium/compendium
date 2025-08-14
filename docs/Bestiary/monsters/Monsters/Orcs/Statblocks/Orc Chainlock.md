@@ -2,12 +2,12 @@
 file_basename: Orc Chainlock
 file_dpath: Monsters/Orcs/Statblocks
 item_id: orc-chainlock
-item_index: '89'
+item_index: '123'
 item_name: Orc Chainlock
 scc:
   - mcdm.monsters.v1:monster:orc-chainlock
 scdc:
-  - 1.1.1:2:89
+  - 1.1.1:2:123
 source: mcdm.monsters.v1
 type: monster
 ---

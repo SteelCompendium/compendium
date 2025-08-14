@@ -2,12 +2,12 @@
 file_basename: Orc Garotter
 file_dpath: Monsters/Orcs/Statblocks
 item_id: orc-garotter
-item_index: '99'
+item_index: '133'
 item_name: Orc Garotter
 scc:
   - mcdm.monsters.v1:monster:orc-garotter
 scdc:
-  - 1.1.1:2:99
+  - 1.1.1:2:133
 source: mcdm.monsters.v1
 type: monster
 ---

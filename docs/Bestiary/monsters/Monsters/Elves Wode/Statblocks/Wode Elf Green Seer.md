@@ -2,12 +2,12 @@
 file_basename: Wode Elf Green Seer
 file_dpath: Monsters/Elves Wode/Statblocks
 item_id: wode-elf-green-seer
-item_index: '187'
+item_index: '221'
 item_name: Wode Elf Green Seer
 scc:
   - mcdm.monsters.v1:monster:wode-elf-green-seer
 scdc:
-  - 1.1.1:2:187
+  - 1.1.1:2:221
 source: mcdm.monsters.v1
 type: monster
 ---

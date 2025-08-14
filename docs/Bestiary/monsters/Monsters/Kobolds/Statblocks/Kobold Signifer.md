@@ -2,12 +2,12 @@
 file_basename: Kobold Signifer
 file_dpath: Monsters/Kobolds/Statblocks
 item_id: kobold-signifer
-item_index: '55'
+item_index: '89'
 item_name: Kobold Signifer
 scc:
   - mcdm.monsters.v1:monster:kobold-signifer
 scdc:
-  - 1.1.1:2:55
+  - 1.1.1:2:89
 source: mcdm.monsters.v1
 type: monster
 ---

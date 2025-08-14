@@ -2,12 +2,12 @@
 file_basename: Myxovidan the Sintaker
 file_dpath: Monsters/Draconians/Statblocks
 item_id: myxovidan-the-sintaker
-item_index: '68'
+item_index: '102'
 item_name: Myxovidan the Sintaker
 scc:
   - mcdm.monsters.v1:monster:myxovidan-the-sintaker
 scdc:
-  - 1.1.1:2:68
+  - 1.1.1:2:102
 source: mcdm.monsters.v1
 type: monster
 ---

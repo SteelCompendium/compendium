@@ -2,12 +2,12 @@
 file_basename: Orc Bloodrunner
 file_dpath: Monsters/Orcs/Statblocks
 item_id: orc-bloodrunner
-item_index: '90'
+item_index: '124'
 item_name: Orc Bloodrunner
 scc:
   - mcdm.monsters.v1:monster:orc-bloodrunner
 scdc:
-  - 1.1.1:2:90
+  - 1.1.1:2:124
 source: mcdm.monsters.v1
 type: monster
 ---

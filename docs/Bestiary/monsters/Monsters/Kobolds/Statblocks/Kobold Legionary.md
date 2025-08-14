@@ -2,12 +2,12 @@
 file_basename: Kobold Legionary
 file_dpath: Monsters/Kobolds/Statblocks
 item_id: kobold-legionary
-item_index: '64'
+item_index: '98'
 item_name: Kobold Legionary
 scc:
   - mcdm.monsters.v1:monster:kobold-legionary
 scdc:
-  - 1.1.1:2:64
+  - 1.1.1:2:98
 source: mcdm.monsters.v1
 type: monster
 ---
