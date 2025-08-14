@@ -2,12 +2,12 @@
 file_basename: Lightbender Pouncer
 file_dpath: Monsters/Lightbenders/Statblocks
 item_id: lightbender-pouncer
-item_index: '109'
+item_index: '125'
 item_name: Lightbender Pouncer
 scc:
   - mcdm.monsters.v1:monster:lightbender-pouncer
 scdc:
-  - 1.1.1:2:109
+  - 1.1.1:2:125
 source: mcdm.monsters.v1
 type: monster
 ---

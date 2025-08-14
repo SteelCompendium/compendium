@@ -2,12 +2,12 @@
 file_basename: High Elf Quiver
 file_dpath: Monsters/Elves High/Statblocks
 item_id: high-elf-quiver
-item_index: '45'
+item_index: '46'
 item_name: High Elf Quiver
 scc:
   - mcdm.monsters.v1:monster:high-elf-quiver
 scdc:
-  - 1.1.1:2:45
+  - 1.1.1:2:46
 source: mcdm.monsters.v1
 type: monster
 ---

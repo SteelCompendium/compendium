@@ -2,12 +2,12 @@
 file_basename: Hobgoblin Firerunner
 file_dpath: Monsters/Hobgoblins/Statblocks
 item_id: hobgoblin-firerunner
-item_index: '93'
+item_index: '109'
 item_name: Hobgoblin Firerunner
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-firerunner
 scdc:
-  - 1.1.1:2:93
+  - 1.1.1:2:109
 source: mcdm.monsters.v1
 type: monster
 ---

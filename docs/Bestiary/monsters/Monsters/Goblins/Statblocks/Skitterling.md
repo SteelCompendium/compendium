@@ -2,12 +2,12 @@
 file_basename: Skitterling
 file_dpath: Monsters/Goblins/Statblocks
 item_id: skitterling
-item_index: '210'
+item_index: '226'
 item_name: Skitterling
 scc:
   - mcdm.monsters.v1:monster:skitterling
 scdc:
-  - 1.1.1:2:210
+  - 1.1.1:2:226
 source: mcdm.monsters.v1
 type: monster
 ---

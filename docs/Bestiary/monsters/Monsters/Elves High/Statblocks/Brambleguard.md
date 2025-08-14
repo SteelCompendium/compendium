@@ -2,12 +2,12 @@
 file_basename: Brambleguard
 file_dpath: Monsters/Elves High/Statblocks
 item_id: brambleguard
-item_index: '53'
+item_index: '54'
 item_name: Brambleguard
 scc:
   - mcdm.monsters.v1:monster:brambleguard
 scdc:
-  - 1.1.1:2:53
+  - 1.1.1:2:54
 source: mcdm.monsters.v1
 type: monster
 ---

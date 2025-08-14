@@ -2,12 +2,12 @@
 file_basename: Kobolds
 file_dpath: Monsters/Kobolds
 item_id: kobolds
-item_index: '29'
+item_index: '31'
 item_name: Kobolds
 scc:
   - mcdm.monsters.v1:monster.section:kobolds
 scdc:
-  - 1.1.1:2.1:29
+  - 1.1.1:2.1:31
 source: mcdm.monsters.v1
 type: monster/section
 ---

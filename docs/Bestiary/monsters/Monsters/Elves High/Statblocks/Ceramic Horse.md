@@ -2,12 +2,12 @@
 file_basename: Ceramic Horse
 file_dpath: Monsters/Elves High/Statblocks
 item_id: ceramic-horse
-item_index: '55'
+item_index: '56'
 item_name: Ceramic Horse
 scc:
   - mcdm.monsters.v1:monster:ceramic-horse
 scdc:
-  - 1.1.1:2:55
+  - 1.1.1:2:56
 source: mcdm.monsters.v1
 type: monster
 ---

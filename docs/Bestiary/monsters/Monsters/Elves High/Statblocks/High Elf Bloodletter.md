@@ -2,12 +2,12 @@
 file_basename: High Elf Bloodletter
 file_dpath: Monsters/Elves High/Statblocks
 item_id: high-elf-bloodletter
-item_index: '52'
+item_index: '53'
 item_name: High Elf Bloodletter
 scc:
   - mcdm.monsters.v1:monster:high-elf-bloodletter
 scdc:
-  - 1.1.1:2:52
+  - 1.1.1:2:53
 source: mcdm.monsters.v1
 type: monster
 ---
