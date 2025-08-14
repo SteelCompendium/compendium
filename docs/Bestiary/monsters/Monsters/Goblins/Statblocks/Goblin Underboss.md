@@ -2,12 +2,12 @@
 file_basename: Goblin Underboss
 file_dpath: Monsters/Goblins/Statblocks
 item_id: goblin-underboss
-item_index: '202'
+item_index: '203'
 item_name: Goblin Underboss
 scc:
   - mcdm.monsters.v1:monster:goblin-underboss
 scdc:
-  - 1.1.1:2:202
+  - 1.1.1:2:203
 source: mcdm.monsters.v1
 type: monster
 ---

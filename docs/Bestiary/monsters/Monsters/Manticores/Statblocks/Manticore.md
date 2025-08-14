@@ -2,12 +2,12 @@
 file_basename: Manticore
 file_dpath: Monsters/Manticores/Statblocks
 item_id: manticore
-item_index: '215'
+item_index: '216'
 item_name: Manticore
 scc:
   - mcdm.monsters.v1:monster:manticore
 scdc:
-  - 1.1.1:2:215
+  - 1.1.1:2:216
 source: mcdm.monsters.v1
 type: monster
 ---

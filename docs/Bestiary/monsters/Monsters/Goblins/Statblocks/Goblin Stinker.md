@@ -2,12 +2,12 @@
 file_basename: Goblin Stinker
 file_dpath: Monsters/Goblins/Statblocks
 item_id: goblin-stinker
-item_index: '201'
+item_index: '202'
 item_name: Goblin Stinker
 scc:
   - mcdm.monsters.v1:monster:goblin-stinker
 scdc:
-  - 1.1.1:2:201
+  - 1.1.1:2:202
 source: mcdm.monsters.v1
 type: monster
 ---

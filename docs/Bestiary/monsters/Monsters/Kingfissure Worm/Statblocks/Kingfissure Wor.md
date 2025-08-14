@@ -2,12 +2,12 @@
 file_basename: Kingfissure Wor
 file_dpath: Monsters/Kingfissure Worm/Statblocks
 item_id: kingfissure-wor
-item_index: '137'
+item_index: '138'
 item_name: Kingfissure Wor
 scc:
   - mcdm.monsters.v1:monster:kingfissure-wor
 scdc:
-  - 1.1.1:2:137
+  - 1.1.1:2:138
 source: mcdm.monsters.v1
 type: monster
 ---

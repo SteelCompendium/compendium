@@ -297,3 +297,6 @@ type: index
 | [Lizardfolk Tonguer](../Lizardfolks/Statblocks/Lizardfolk%20Tonguer)                                 |
 | [Manticore](../Manticores/Manticore)                                                                 |
 | [Manticore](../Manticores/Statblocks/Manticore)                                                      |
+| [Medusa Malice Malice Features](../Medusas/Features/Medusa%20Malice%20Malice%20Features)             |
+| [Medusa](../Medusas/Medusa)                                                                          |
+| [Medusa](../Medusas/Statblocks/Medusa)                                                               |

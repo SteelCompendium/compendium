@@ -2,12 +2,12 @@
 file_basename: Bendrak
 file_dpath: Monsters/Demons/Statblocks
 item_id: bendrak
-item_index: '170'
+item_index: '171'
 item_name: Bendrak
 scc:
   - mcdm.monsters.v1:monster:bendrak
 scdc:
-  - 1.1.1:2:170
+  - 1.1.1:2:171
 source: mcdm.monsters.v1
 type: monster
 ---

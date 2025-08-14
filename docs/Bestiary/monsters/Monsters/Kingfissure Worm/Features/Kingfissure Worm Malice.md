@@ -2,12 +2,12 @@
 file_basename: Kingfissure Worm Malice
 file_dpath: Monsters/Kingfissure Worm/Features
 item_id: kingfissure-worm-malice
-item_index: '18'
+item_index: '19'
 item_name: Kingfissure Worm Malice
 scc:
   - mcdm.monsters.v1:monster.feature:kingfissure-worm-malice
 scdc:
-  - 1.1.1:2.2:18
+  - 1.1.1:2.2:19
 source: mcdm.monsters.v1
 type: monster/feature
 ---
