@@ -2,12 +2,12 @@
 file_basename: Lizardfolk
 file_dpath: Monsters/Lizardfolks
 item_id: lizardfolk
-item_index: '30'
+item_index: '31'
 item_name: Lizardfolk
 scc:
   - mcdm.monsters.v1:monster.section:lizardfolk
 scdc:
-  - 1.1.1:2.1:30
+  - 1.1.1:2.1:31
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -48,7 +48,7 @@ In times of crisis, such as a food shortage, an evil lizardfolk leader can explo
 
 Most lizardfolk speak Caelian and their own dialect of Khamish.
 
-###### Lizardfolk Malice Malice Features
+###### Lizardfolk Malice
 
 At the start of any lizardfolk's turn, you can spend Malice to activate one of the following features.
 

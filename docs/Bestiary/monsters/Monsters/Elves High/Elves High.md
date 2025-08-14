@@ -2,12 +2,12 @@
 file_basename: Elves High
 file_dpath: Monsters/Elves High
 item_id: elves-high
-item_index: '26'
+item_index: '27'
 item_name: Elves, High
 scc:
   - mcdm.monsters.v1:monster.section:elves-high
 scdc:
-  - 1.1.1:2.1:26
+  - 1.1.1:2.1:27
 source: mcdm.monsters.v1
 type: monster/section
 ---

@@ -2,12 +2,12 @@
 file_basename: Devil Notary
 file_dpath: Monsters/Devils/Statblocks
 item_id: devil-notary
-item_index: '192'
+item_index: '197'
 item_name: Devil Notary
 scc:
   - mcdm.monsters.v1:monster:devil-notary
 scdc:
-  - 1.1.1:2:192
+  - 1.1.1:2:197
 source: mcdm.monsters.v1
 type: monster
 ---

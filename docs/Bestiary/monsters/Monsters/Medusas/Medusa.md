@@ -2,12 +2,12 @@
 file_basename: Medusa
 file_dpath: Monsters/Medusas
 item_id: medusa
-item_index: '14'
+item_index: '15'
 item_name: Medusa
 scc:
   - mcdm.monsters.v1:monster.section:medusa
 scdc:
-  - 1.1.1:2.1:14
+  - 1.1.1:2.1:15
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -46,7 +46,7 @@ Agents of the deity who ordered a medusa's curse can sometimes be convinced to l
 
 Medusas can speak any language they knew before they were cursed. Many of them speak Caelian, and others have learned the languages of monsters and creatures they dwell near. Additionally, tales tell of some medusas who speak the original form of Khamish.
 
-###### Medusa Malice Malice Features
+###### Medusa Malice
 
 At the start of a medusa's turn, you can spend Malice to activate one of the following features.
 

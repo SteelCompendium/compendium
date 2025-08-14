@@ -2,12 +2,12 @@
 file_basename: Bugbear Snare
 file_dpath: Monsters/Bugbears/Statblocks
 item_id: bugbear-snare
-item_index: '184'
+item_index: '189'
 item_name: Bugbear Snare
 scc:
   - mcdm.monsters.v1:monster:bugbear-snare
 scdc:
-  - 1.1.1:2:184
+  - 1.1.1:2:189
 source: mcdm.monsters.v1
 type: monster
 ---

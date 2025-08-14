@@ -1,18 +1,18 @@
 ---
-file_basename: Medusa Malice Malice Features
+file_basename: Medusa Malice
 file_dpath: Monsters/Medusas/Features
-item_id: medusa-malice-malice-features
+item_id: medusa-malice
 item_index: '18'
-item_name: Medusa Malice Malice Features
+item_name: Medusa Malice
 scc:
-  - mcdm.monsters.v1:monster.feature:medusa-malice-malice-features
+  - mcdm.monsters.v1:monster.feature:medusa-malice
 scdc:
   - 1.1.1:2.2:18
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Medusa Malice Malice Features
+###### Medusa Malice
 
 At the start of a medusa's turn, you can spend Malice to activate one of the following features.
 

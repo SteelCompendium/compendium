@@ -2,12 +2,12 @@
 file_basename: Kobolds
 file_dpath: Monsters/Kobolds
 item_id: kobolds
-item_index: '28'
+item_index: '29'
 item_name: Kobolds
 scc:
   - mcdm.monsters.v1:monster.section:kobolds
 scdc:
-  - 1.1.1:2.1:28
+  - 1.1.1:2.1:29
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -50,7 +50,7 @@ The gummy brick is a deadly ooze-a monster shaped of acidic goo and driven by en
 
 Most kobolds speak Kethaic and can understand Caelian.
 
-#### Kobold Malice Malice Features
+#### Kobold Malice
 
 At the start of any kobolds's turn, you can spend Malice to activate one of the following features.
 

@@ -2,12 +2,12 @@
 file_basename: Goblin Spinecleaver
 file_dpath: Monsters/Goblins/Statblocks
 item_id: goblin-spinecleaver
-item_index: '198'
+item_index: '203'
 item_name: Goblin Spinecleaver
 scc:
   - mcdm.monsters.v1:monster:goblin-spinecleaver
 scdc:
-  - 1.1.1:2:198
+  - 1.1.1:2:203
 source: mcdm.monsters.v1
 type: monster
 ---

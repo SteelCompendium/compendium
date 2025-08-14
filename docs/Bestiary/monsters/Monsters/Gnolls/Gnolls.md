@@ -2,12 +2,12 @@
 file_basename: Gnolls
 file_dpath: Monsters/Gnolls
 item_id: gnolls
-item_index: '31'
+item_index: '32'
 item_name: Gnolls
 scc:
   - mcdm.monsters.v1:monster.section:gnolls
 scdc:
-  - 1.1.1:2.1:31
+  - 1.1.1:2.1:32
 source: mcdm.monsters.v1
 type: monster/section
 ---

@@ -2,12 +2,12 @@
 file_basename: Thorn Dragon
 file_dpath: Monsters/Dragons/Statblocks
 item_id: thorn-dragon
-item_index: '215'
+item_index: '220'
 item_name: Thorn Dragon
 scc:
   - mcdm.monsters.v1:monster:thorn-dragon
 scdc:
-  - 1.1.1:2:215
+  - 1.1.1:2:220
 source: mcdm.monsters.v1
 type: monster
 ---
