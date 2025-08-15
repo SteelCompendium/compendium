@@ -7,7 +7,7 @@ item_name: Dragon
 scc:
   - mcdm.monsters.v1:keywords:dragon
 scdc:
-  - 1.1.1:3:02
+  - 1.1.1:4:02
 source: mcdm.monsters.v1
 type: keywords
 ---

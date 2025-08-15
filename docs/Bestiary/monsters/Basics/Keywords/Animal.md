@@ -7,7 +7,7 @@ item_name: Animal
 scc:
   - mcdm.monsters.v1:keywords:animal
 scdc:
-  - 1.1.1:3:06
+  - 1.1.1:4:06
 source: mcdm.monsters.v1
 type: keywords
 ---

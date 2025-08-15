@@ -7,7 +7,7 @@ item_name: Horror
 scc:
   - mcdm.monsters.v1:keywords:horror
 scdc:
-  - 1.1.1:3:04
+  - 1.1.1:4:04
 source: mcdm.monsters.v1
 type: keywords
 ---

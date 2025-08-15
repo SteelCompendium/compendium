@@ -3,12 +3,12 @@ chapter_num: 2
 file_basename: Monsters
 file_dpath: Chapters
 item_id: monsters
-item_index: '02'
+item_index: '03'
 item_name: Monsters
 scc:
   - mcdm.monsters.v1:chapter:monsters
 scdc:
-  - 1.1.1:1:02
+  - 1.1.1:1:03
 source: mcdm.monsters.v1
 type: chapter
 ---
@@ -18325,10 +18325,10 @@ It is believed these magical origins are what give shambling mounds their abilit
 >
 > Creating poison from the extracted toxins requires the completion of a special crafting project (see Chapter 12: Downtime Projects of *Draw Steel: Heroes*).
 >
-> - **Item Prerequisite**: Shambling mound toxins
-> - **Project Source**: Texts or lore in Caelian
-> - **Project Roll Characteristic**: Reason or Intuition
-> - **Project Goal**: 45
+> - **Item Prerequisite:** Shambling mound toxins
+> - **Project Source:** Texts or lore in Caelian
+> - **Project Roll Characteristic:** Reason or Intuition
+> - **Project Goal:** 45
 >
 > As a maneuver, one vial of poison can be applied to a weapon. For 1 minute after the poison is applied, damage dealing abilities using that weapon deal an extra 4 + 1d6 poison damage.
 

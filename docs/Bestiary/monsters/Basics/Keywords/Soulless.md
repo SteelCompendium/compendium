@@ -7,7 +7,7 @@ item_name: Soulless
 scc:
   - mcdm.monsters.v1:keywords:soulless
 scdc:
-  - 1.1.1:3:11
+  - 1.1.1:4:11
 source: mcdm.monsters.v1
 type: keywords
 ---

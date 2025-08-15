@@ -7,7 +7,7 @@ item_name: Ooze
 scc:
   - mcdm.monsters.v1:keywords:ooze
 scdc:
-  - 1.1.1:3:16
+  - 1.1.1:4:16
 source: mcdm.monsters.v1
 type: keywords
 ---

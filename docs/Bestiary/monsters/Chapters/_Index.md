@@ -5,7 +5,8 @@ type: index
 
 # Chapters Index
 
-| File Name                             |
-| ------------------------------------- |
-| [Monster Basics](../Monster%20Basics) |
-| [Monsters](../Monsters)               |
+| File Name                               |
+| --------------------------------------- |
+| [Dynamic Terrain](../Dynamic%20Terrain) |
+| [Monster Basics](../Monster%20Basics)   |
+| [Monsters](../Monsters)                 |

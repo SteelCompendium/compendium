@@ -7,7 +7,7 @@ item_name: Swarm
 scc:
   - mcdm.monsters.v1:keywords:swarm
 scdc:
-  - 1.1.1:3:03
+  - 1.1.1:4:03
 source: mcdm.monsters.v1
 type: keywords
 ---

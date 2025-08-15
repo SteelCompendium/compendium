@@ -7,7 +7,7 @@ item_name: Beast
 scc:
   - mcdm.monsters.v1:keywords:beast
 scdc:
-  - 1.1.1:3:17
+  - 1.1.1:4:17
 source: mcdm.monsters.v1
 type: keywords
 ---

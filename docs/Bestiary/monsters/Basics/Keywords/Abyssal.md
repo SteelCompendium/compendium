@@ -7,7 +7,7 @@ item_name: Abyssal
 scc:
   - mcdm.monsters.v1:keywords:abyssal
 scdc:
-  - 1.1.1:3:10
+  - 1.1.1:4:10
 source: mcdm.monsters.v1
 type: keywords
 ---

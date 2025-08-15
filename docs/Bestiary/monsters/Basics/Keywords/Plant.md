@@ -7,7 +7,7 @@ item_name: Plant
 scc:
   - mcdm.monsters.v1:keywords:plant
 scdc:
-  - 1.1.1:3:15
+  - 1.1.1:4:15
 source: mcdm.monsters.v1
 type: keywords
 ---
