@@ -2,12 +2,12 @@
 file_basename: Shambling Mound
 file_dpath: Monsters/Shambling Mound/Statblocks
 item_id: shambling-mound
-item_index: '325'
+item_index: '330'
 item_name: Shambling Mound
 scc:
   - mcdm.monsters.v1:monster:shambling-mound
 scdc:
-  - 1.1.1:2:325
+  - 1.1.1:2:330
 source: mcdm.monsters.v1
 type: monster
 ---

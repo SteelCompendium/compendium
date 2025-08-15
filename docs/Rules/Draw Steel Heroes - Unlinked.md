@@ -112,7 +112,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Adjacent:** Within 1 square.
 
-**Advance Move Action:** A main action that allows a creature to move a number of squares up to their speed. This movement can be broken up by a creature's maneuver and main action.
+**Advance Move Action:** A move action that allows a creature to move a number of squares up to their speed. This movement can be broken up by a creature's maneuver and main action.
 
 **Agility:** A characteristic that represents a creature's coordination and nimbleness.
 
@@ -234,7 +234,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Double Bane:** When a creature has two or more banes and no edges applied to a power roll , they have a double bane on the roll. A double bane applies no penalty to a power roll, but instead automatically decreases the tier outcome of the roll by one tier.
 
-**Double Edge:** When a creature has two or more edges and no banes applied to a power roll l, they have a double edge on the roll. A double edge adds no bonus to a power roll, but instead automatically increases the tier outcome of the roll by one tier.
+**Double Edge:** When a creature has two or more edges and no banes applied to a power roll, they have a double edge on the roll. A double edge adds no bonus to a power roll, but instead automatically increases the tier outcome of the roll by one tier.
 
 **Downtime Project:** A task a hero undertakes during one or more respites.
 
@@ -430,9 +430,9 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Prone:** A condition that causes a creature to become flat on the ground. Strikes made by a prone creature take a bane, and melee abilities used against a prone creature gain an edge.
 
-**Pull:** A form of forced moved that pulls a target toward a creature or effect, moving them in a horizontal straight line.
+**Pull:** A form of forced movement that pulls a target toward a creature or effect, moving them in a horizontal straight line.
 
-**Push:** A form of forced moved that pushes a target away from a creature or effect, moving them in a horizontal straight line.
+**Push:** A form of forced movement that pushes a target away from a creature or effect, moving them in a horizontal straight line.
 
 **Ranged:** Ranged abilities can be used to target creatures or objects too far away to make direct contact with.
 
@@ -454,7 +454,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Respite Activity:** An activity that can be undertaken during a respite. A hero can take one respite activity per respite.
 
-**Restrained:** A condition that reduces a creature's speed to 0 and prevents them from using the Stand Up maneuver or being forced moved.
+**Restrained:** A condition that reduces a creature's speed to 0 and prevents them from using the Stand Up maneuver or being force moved.
 
 **Retainer:** A follower who adventures alongside a hero.
 
@@ -488,7 +488,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Skill:** Special knowledge or training that can be applied to a test. When a skill applies to a test, it grants a +2 bonus to the power roll.
 
-**Slide:** A form of forced moved that slides a target in any direction, moving them along any horizontal line.
+**Slide:** A form of forced movement that slides a target in any direction, moving them along any horizontal line.
 
 **Slowed:** A condition that reduces a creature's speed to 2.
 
@@ -498,7 +498,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Square:** The smallest unit of measurement on an encounter map. Distance, space, and speed are all reckoned in squares.
 
-**Stability:** A measure of a creature's immovability. When a creature is forced moved, the distance they can be force moved is reduced by a number of squares equal to their stability.
+**Stability:** A measure of a creature's immovability. When a creature is force moved, the distance they can be force moved is reduced by a number of squares equal to their stability.
 
 **Stamina:** A measure of a creature's health and vitality. When a hero's Stamina is reduced to 0 or lower, they are dying. When a nonhero creature's Stamina is reduced to 0, they die or are knocked unconscious, as determined by the creature who reduced them to 0 Stamina.
 
@@ -546,7 +546,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Time Raider:** An ancestry of four-armed psionic folk with ocular sensors instead of eyes.
 
-**Timescape:** A multiverse of worlds, also know as manifolds, connected by the Sea of Stars.
+**Timescape:** A multiverse of worlds, also known as manifolds, connected by the Sea of Stars.
 
 **Treasure:** A piece of supernatural equipment, from weapons and armor to implements and more.
 
@@ -566,7 +566,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Vasloria:** A forested, feudal-medieval continent in Orden.
 
-**Vertical:** When any form of forced moved is noted as vertical, the creature performing the forced movement can move the target up or down (though not into the ground) in addition to horizontally.
+**Vertical:** When any form of forced movement is noted as vertical, the creature performing the forced movement can move the target up or down in addition to horizontally.
 
 **Victories:** A measure of a hero's increasing power over the course of an adventure, earned by triumphing in battles and overcoming other challenges.
 
@@ -715,7 +715,7 @@ If you downgrade a critical hit, you still get the extra action benefit of the c
 
 The total of your power roll before your characteristic or any other modifiers are added is called the natural roll. The rules often refer to this as "rolling a natural X," where X is the total of the roll. For example, if you get a 20 on a power roll before adding your characteristic, this is called rolling a natural 20.
 
-When you roll a natural 19 or 20 on certain types of power rolls, this is a critical hit (see [Critical Hit](#page-89-0) in [Classes](#page-83-2)).
+When you roll a natural 19 or 20 on a power roll, it is always a tier 3 result regardless of any modifiers, and on certain types of power rolls, this is a critical hit (see [Critical Hit](#page-89-0) in [Classes](#page-83-2)).
 
 #### Edges and Banes
 
@@ -895,7 +895,7 @@ The standard 8-or-so hours of sleep one gets at night doesn't count as a respite
 
 The core gameplay experience of *Draw Steel* takes place over ten levels of play. At 1st level, player characters are already known as heroes and have the power to save their local village. By the time the characters are 10th level, people all over the world-maybe even across all worlds know the names of their saviors!
 
-Since this game encompasses power levels from hometown to demigods, the core experience has been divided into four different echelons. Each echelon determines the types of threats the heroes can take on, the stakes of their stories, and the rewards they receive at the various levels of play.
+Since this game encompasses power levels from hometown heroes to demigods, the core experience has been divided into four different echelons. Each echelon determines the types of threats the heroes can take on, the stakes of their stories, and the rewards they receive at the various levels of play.
 
 #### 1st Echelon (1st to 3rd Level)
 
@@ -1511,7 +1511,7 @@ Humans have the potential to live a little longer on Orden than they do in the r
 | Human         | 5'0''-6'0''               | 100-300             | 70-120                      |
 | Memonek       | 5'0''-6'0''               | 50-100              | 70-120                      |
 | Orc           | 5'6''-6'6''               | 150-300             | 50-90                       |
-| Polder        | 3'3''-3'9''               | 20-50               | 50-90                       |
+| Polder        | 3'3''-3'6''               | 20-50               | 50-90                       |
 | Time Raider   | 5'0''-6'0''               | 120-250             | 50-90                       |
 
 ### Starting Size and Speed
@@ -3366,7 +3366,7 @@ If your hero knows a language, they can speak, read, write, and understand it.
 
 ##### Caelian Empire
 
-The Caelian Empire dominated five of the eight regions of Orden 3,000 years ago. During the height of this most recent human empire, all humans (including folks from Vanigar in the far north, but not folks from the islands of Ix). learned to speak the Caelian tongue. For many, especially the noble classes and the well-to-do, Caelian effectively replaced their native language.
+The Caelian Empire dominated five of the eight regions of Orden 3,000 years ago. During the height of this most recent human empire, all humans (including folks from Vanigar in the far north, but not folks from the islands of Ix) learned to speak the Caelian tongue. For many, especially the noble classes and the well-to-do, Caelian effectively replaced their native language.
 
 Some 1,300 years after the fall of the Caelian Empire, the languages of the different regions of the empire are enjoying a resurgence. Still, the Caelian tongue is spoken by most humans in most regions to one extent or another.
 
@@ -3376,7 +3376,7 @@ Most people in Orden can speak and understand some Caelian, simply because the e
 
 Folk have been speaking, signing, and writing in Orden for at least thirty thousand years, but most of the world's ancient languages are now dead. Many have been forgotten. Others were spoken by peoples who never developed writing, preventing those languages from being preserved. And many languages that were preserved in writing left no related descendants, so that no one now knows what sounds that writing represented.
 
-The languages on the Vaslorian Languages by Ancestry table are the most common languages in that region, actively spoken and signed by significant populations of people. The Vaslorian Human Languages table shows the dominant languages in that region's human-centric territories. Most languages are associated with a specific ancestry and its culture, but being a member of an ancestry doesn't automatically make you part of the associated culture the language is tied to. For example, if your orc hero was raised in a culture of elves, you probably speak one of the elf languages, and might never have learned Kalliak.
+The languages on the Languages by Ancestry table are the most common languages actively spoken and signed by significant populations of people in Orden. The Vaslorian Human Languages table shows the dominant languages in that region's human-centric territories. Most languages are associated with a specific ancestry and its culture, but being a member of an ancestry doesn't automatically make you part of the associated culture the language is tied to. For example, if your orc hero was raised in a culture of elves, you probably speak one of the elf languages, and might never have learned Kalliak.
 
 Most languages have colloquial or casual names. For instance, many people in Orden call Kalliak "Orcish" and Hyrallic "Elvish," but any sage knows there are lots of orcish and elf languages, just as there are multiple human languages.
 
@@ -3390,7 +3390,7 @@ Each extant language has a spoken, signed, and written version. When you learn a
 | Higara   | Higaran     |
 | Ix       | Oaxuatl     |
 | Khemhara | Khemharic   |
-| Koursir  | Khoursirian |
+| Khoursir | Khoursirian |
 | Phaedros | Phaedran    |
 | Rioja    | Riojan      |
 | Vanigar  | Vaniric     |
@@ -4079,7 +4079,7 @@ The nine Heroic Resources in the game are:
 
 ##### Heroic Abilities
 
-If an ability has a Heroic Resource cost to activate-as in, you can't use the ability at all without spending some of your Heroic Resource-then it is a heroic ability. If an effect allows you to use heroic ability when it isn't your turn, you must sill pay its Heroic Resource cost to use it it unless the effect says otherwise.
+If an ability has a Heroic Resource cost to activate-as in, you can't use the ability at all without spending some of your Heroic Resource-then it is a heroic ability. If an effect allows you to use a heroic ability when it isn't your turn, you must still pay its Heroic Resource cost to use it unless the effect says otherwise.
 
 Some abilities don't cost your Heroic Resource to use but allow you to spend your Heroic Resource to enhance or add effects to the ability, such as the conduit's Healing Grace. These abilities are not heroic abilities unless the baseline ability can't be used without spending your Heroic Resource.
 
@@ -4354,7 +4354,7 @@ This rule also applies to Director-controlled creatures who spend Malice on abil
 
 #### Critical Hit
 
-Whenever you make an ability roll as a main action and the roll is a natural 19 or natural 20-a total of 19 or 20 before adding your characteristic score or other modifiers-you score a critical hit. A critical hit allows you to immediately take an additional action after resolving the power roll, whether or not it's your turn and even if you are dazed (see [Conditions](#page-91-2) below).
+Whenever you make an ability roll as a main action and the roll is a natural 19 or natural 20-a total of 19 or 20 before adding your characteristic score or other modifiers-you score a critical hit. A critical hit allows you to immediately take an additional main action after resolving the power roll, whether or not it's your turn and even if you are dazed (see [Conditions](#page-91-2) below).
 
 You can't score a critical hit with an ability roll made as a maneuver or any other action type, but you can score a critical hit with a main action you use off your turn. For example, an opportunity attack made as a triggered action or a signature ability used as a free triggered action with the assistance of the tactician's Strike Now ability can be critical hits.
 
@@ -4465,7 +4465,7 @@ A creature who is grabbed has speed 0, can't be force moved except by a creature
 
 A creature who has another creature grabbed can use a maneuver to move the grabbed creature into an unoccupied space adjacent to them.
 
-A creature can release a creature they have grabbed at any time to end that condition (no action required). A grabbed creature can attempt to escape being grabbed using the Escape Grab maneuver (see [Chapter 10: Combat](#page-288-0)). If a grabbed creature teleports, or if either the grabbed creature or the creature grabbing them is force moved so that both creatures are no longer adjacent to each other, that creature is no longer grabbed.
+A creature can release a creature they have grabbed at any time to end that condition (no action required). A grabbed creature can attempt to escape being grabbed using the Escape Grab maneuver (see [Chapter 10: Combat](#page-288-0)). If a grabbed creature teleports, or if either the grabbed creature or the creature grabbing them is force moved so that both creatures are not adjacent to each other, that creature is no longer grabbed.
 
 A creature can grab only creatures of their size or smaller. If a creature's Might score is 2 or higher, they can grab any creature larger than them with a size equal to or less than their Might score.
 
@@ -5671,7 +5671,7 @@ Choose one heroic ability from the following options, each of which costs 11 wra
 - **12-16:** 9 + P damage; I < AVERAGE, slowed (save ends)
 - **17+:** 12 + P damage; I < STRONG, slowed (save ends)
 
-**Effect:** While the target is slowed this way, each ally who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is slowed this way, each ally within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
+**Effect:** While the target is slowed this way, each of their allies who starts their turn within 5 squares of them must use a free maneuver to make a free strike against the target. Additionally, while the target is slowed this way, each of their allies within 5 squares of them who can make a triggered free strike against a different creature must make the free strike against the target instead.
 
 ### 9th-Level Features
 
@@ -7292,7 +7292,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 | ---------------------- | -----------: |
 | **📏 Self; see below** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, no target can approach within 5 squares of you by moving or by being force moved by any enemy. Targets can be force moved closer to you by you or your allies, or can move closer because of your movement.
+**Effect:** Until the end of the encounter or until you are dying, no enemy can approach within 5 squares of you. by moving or by being force moved by any enemy. Targets can be force moved closer to you by you or your allies, or can move closer because of your movement.
 
 **<span class="steel-compendium-ability">Divine Dragon (11 Piety)</span>**
 
@@ -11125,7 +11125,7 @@ Choose one of the following abilities.
 | ------------------- | --------------------------------: |
 | **📏 Ranged 10**    | **🎯 Three creatures or objects** |
 
-**Power Roll + Reason:**
+**Power Roll + Intuition:**
 
 - **≤11:** Vertical slide 6
 - **12-16:** Vertical slide 8
@@ -13024,7 +13024,7 @@ Your tactical doctrine grants you a feature, as shown on the 2nd-Level Doctrine 
 
 ##### Goaded
 
-You have learned to leverage your marked foes' psychology and goad them into acting before they're tactically ready. Whenever a creature marked by you uses a strike that targets you or any ally within your line of effect, you can use a free triggered action to change the target of the strike to you or another ally within your line of effect.
+You have learned to leverage your marked foes’ psychology and goad them into acting before they’re tactically ready. Whenever a creature marked by you uses a strike that targets you or any ally within your line of effect, you can use a free triggered action to change one target of the strike to you or another ally within your line of effect. The new target must be within distance of the ability and within line of effect of the creature using it.
 
 ##### Infiltration Tactics
 
@@ -14525,7 +14525,7 @@ Choose one heroic ability from the following options, each of which costs 9 clar
 | -------------------------------- | ----------------------: |
 | **📏 Ranged 10**                 | **🎯 Self or one ally** |
 
-**Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy attempts uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
+**Effect:** Until the start of your next turn, the target has cold immunity 10 and fire immunity 10, and their strikes deal extra fire damage equal to twice your Reason score. Additionally, whenever an enemy uses a melee ability against the target while they are under this effect, the enemy takes 5 fire damage.
 
 **Strained:** The target gains 2 surges. You are weakened and slowed (save ends).
 
@@ -14751,7 +14751,7 @@ As a 7th-level talent, you gain the following features.
 
 #### Ancestral Memory
 
-Each time you finish a respite, you can choose a number of skills you have up to your Reason score and replace them with an equal number of skills from the interpersonal and lore skill groups. These replacements last unil the end of your next respite.
+Each time you finish a respite, you can choose a number of skills you have up to your Reason score and replace them with an equal number of skills from the interpersonal and lore skill groups. These replacements last until the end of your next respite.
 
 #### Cascading Strain
 
@@ -15105,7 +15105,7 @@ There is no visible text in the image provided. The image appears to show a deco
 
 **Recoveries:** 8
 
-**Skills:** You gain the Read Person skill (see Skills in Chapter 9: Tests). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Read Person, Rumors, Society.)
+**Skills:** You gain the Read Person skill (see Skills in Chapter 9: Tests). Then choose two skills from the interpersonal skill group and one skill from the intrigue or lore skill groups. (*Quick Build:* Brag, Flirt, Read Person, Rumors.)
 
 ### 1st-Level Features
 
@@ -16154,7 +16154,7 @@ You have the following performance abilities, which are usable with your Routine
 | ---------------------------- | ---------------------------: |
 | **📏 5 aura**                | **🎯 Each ally in the area** |
 
-**Effect:** While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can't spend Recoveries or use triggered actions At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.
+**Effect:** While this performance is active, each target who is dead can choose to continue taking turns after death. On each of their turns, a target can move and use either a main action or a maneuver, but can't spend Recoveries or use triggered actions. At the end of the encounter, each target who chose to take turns this way turns to dust and blows away.
 
 **<span class="steel-compendium-ability">Radical Fantasia</span>**
 
@@ -16867,9 +16867,9 @@ You wear light armor and wield a shield and a light weapon.
 
 ##### Signature Ability
 
-**<span class="steel-compendium-ability">Shock and Awe</span>**
+**<span class="steel-compendium-ability">Raider's Awe</span>**
 
-*You execute a brutal strike that leaves your foe reeling.*
+*You execute a brutal strike that leaves your foe reeling. (Previously known as "Shock and Awe")*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
@@ -17311,7 +17311,6 @@ The rules of the game expect that heroes always have access to their equipment. 
 | Sword and Board  | Medium, shield | Medium             | +9                  | -     | +1        | +2/+2/+2     | -             | -              | -               | +1        |
 | Warrior Priest   | Heavy          | Light              | +9                  | +1    | +1        | +1/+1/+1     | -             | -              | -               | -         |
 | Whirlwind        | None           | Whip               | -                   | +3    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
-|                  |                |                    |                     |       |           |              |               |                |                 |           |
 
 # Perks
 
@@ -19348,7 +19347,7 @@ During a montage test, a Director can introduce new challenges for the heroes to
 
 #### Total Successes and Failures
 
-The Director or another player will track the total number of successes and failures the heroes earn during a montage test. Every montage test has a success limit and a failure limit. When the number of successful tests equals the success limit, the montage test ends and the heroes achieve total success (see[Montage Test Outcomes](#page-276-1) below). The montage test can also end when the number of failed tests equals the failure limit, and the heroes suffer total failure.
+The Director or another player will track the total number of successes and failures the heroes earn during a montage test. Every montage test has a success limit and a failure limit. When the number of successful tests equals the success limit, the montage test ends and the heroes achieve total success (see [Montage Test Outcomes](#page-276-1) below). The montage test can also end when the number of failed tests equals the failure limit, and the heroes suffer total failure.
 
 #### Limited Rounds
 
@@ -19639,7 +19638,7 @@ If a creature who can't burrow wants to dig into the ground, they can use the fo
 
 ###### Burrowing Forced Movement
 
-While a creature who is completely beneath the ground while burrowing is force moved by movement that isn't vertical, they aren't moved, and they take 1 damage for each square they would have been force moved. If the forced movement is vertical, the creature is moved through the dirt as is if were air.
+While a creature who is completely beneath the ground while burrowing is force moved by movement that isn't vertical, they aren't moved, and they take 1 damage for each square they would have been force moved. If the forced movement is vertical, the creature is moved through the dirt as if it were air.
 
 ##### Climb or Swim
 
@@ -19711,7 +19710,7 @@ When a creature teleports, they move from one space to another space instantaneo
 
 When a creature falls 2 or more squares and lands on the ground, they take 2 damage for each square they fall (to a maximum of 50 damage) and land prone. A creature who falls can reduce the effective height of the fall by a number of squares equal to their Agility score (to a minimum of 0). Falling into liquid that is 1 square or more deep reduces the effective height of a fall by 4 squares (to a minimum of 0).
 
-Falling is not forced movement, but being force moved downward is considered falling (see [Falling](#page-283-3) below). Movement from falling doesn't provoke opportunity attacks (see [Opportunity Attacks](#page-289-4) below).
+Falling is not forced movement, but being force moved downward is considered falling. Movement from falling doesn't provoke opportunity attacks (see [Opportunity Attacks](#page-289-4) below).
 
 ##### Falling Onto Another Creature
 
@@ -19804,7 +19803,7 @@ If any forced movement remains after the object is destroyed, you can continue t
 
 ##### Forced Into a Fall
 
-If you can't fly and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when the foced movement ends, you fall.
+If you can't fly and are force moved across an open space that would cause you to fall, such as being pushed over the edge of a cliff, you continue moving the total distance you were moved first. If you are still in a position to fall when the forced movement ends, you fall.
 
 ##### Stability
 
@@ -19938,7 +19937,7 @@ Unless otherwise noted in its description, a creature can activate a consumable 
 
 When you take a main action, you most often do so to use a unique ability granted by your class, kit, or a treasure (see [Abilities](#page-83-0) in [Chapter 5: Classes](#page-83-2)). These abilities represent the most unique, flavorful, and impactful things you can do with your main action.
 
-You can also use your main action to catch your breath, help another creature regain Stamina, charge into battle, defend yourself, or make a free strike.
+You can also use your main action to help another creature regain Stamina, charge into battle, defend yourself, or make a free strike.
 
 You can convert your main action into a maneuver or a move action, allowing you to take two maneuvers or move actions on your turn.
 
@@ -20278,7 +20277,7 @@ Each motivation can be successfully appealed to only once during a negotiation. 
 
 #### Pitfalls
 
-Pitfalls are motivations that spark ire, discomfort, shame, fear, or some other negative response in an NPC. Using a pitfall in an argument causes an NPC's interest and patience to wane. Each NPC has at least one pitfall, and many have atleast two.
+Pitfalls are motivations that spark ire, discomfort, shame, fear, or some other negative response in an NPC. Using a pitfall in an argument causes an NPC's interest and patience to wane. Each NPC has at least one pitfall, and many have at least two.
 
 Pitfalls and motivations are two sides of the same concept. They're presented below as a single list, because what might be a motivation for one NPC is a pitfall for another. Whenever the heroes make an argument, they risk stumbling into one of an NPC's pitfalls unless they do their research beforehand or read the NPC well.
 
@@ -20632,7 +20631,7 @@ Zola is neutral toward the heroes when the negotiation begins. She knows them on
 > **Zola Honeycut Negotiation Stats**
 >
 > - **Interest: 2**
-> - **Patience: 3**
+> - **Patience: 4**
 > - **Impression: 3**
 >
 > ###### Motivations
@@ -20691,7 +20690,7 @@ Before making an argument, Alyssa is attempting to learn what Zola's motivations
 
 **Director:** *Hold it there, champ. Zola's eyes narrow as you speak, and she holds up a hand to cut you off. "I will not swear to serve any ruler, no matter how benevolent. I'll consider being a partner, but even that outlook is grim if you tell me again that I need to bend the knee."*
 
-Korvo inadvertently made an argument using a pitfall by appealing to a higher authority. The Director notes that Zola's interest drops to 1 and her patience drops to 2. Zola gave a pretty firm "No" response here, which is what an NPC with an interest of 1 would say. However, the Director phrased Zola's response in such a way that the heroes know they can keep making arguments if they wish, since her patience hasn't run out.
+Korvo inadvertently made an argument using a pitfall by appealing to a higher authority. The Director notes that Zola's interest drops to 1 and her patience drops to 3. Zola gave a pretty firm "No" response here, which is what an NPC with an interest of 1 would say. However, the Director phrased Zola's response in such a way that the heroes know they can keep making arguments if they wish, since her patience hasn't run out.
 
 **James:** *Sorry! I thought that'd work. Seems like higher authority is a pitfall for her*.
 
@@ -20715,7 +20714,7 @@ The heroes now know both of Zola's pitfalls: higher authority and revelry.
 
 **Matt:** *That's a 14!*
 
-Because Linn appealed to a motivation, Zola's interest increases to 2, and her patience remains at 2. The Director gives a "No, but..." response based on Zola's interest. At this point, the heroes haven't promised anything, so she offers them something for free.
+Because Linn appealed to a motivation, Zola's interest increases to 2, and her patience drops to 2. The Director gives a "No, but..." response based on Zola's interest. At this point, the heroes haven't promised anything, so she offers them something for free.
 
 **Director:** *Zola nods along as you speak. "You're correct, but I'm not sure I can spare the people. I'll tell you what I can do. I have spies watching Saxton still. I can give you information about his troops' movements. Will that suffice?"*
 
@@ -20878,7 +20877,7 @@ If an event grants an automatic breakthrough on a downtime project, the project 
 
 Crafting projects enable heroes to create vehicles, supernatural treasures, and more. When you start a crafting project, other creatures can also work on the project, using their respite activity to contribute a project roll in order to get the work done faster.
 
-Unless a project has a event table of its own, the Director uses the [Crafting and Research Events](#page-319-0) table for crafting project events.
+Unless a project has an event table of its own, the Director uses the [Crafting and Research Events](#page-319-0) table for crafting project events.
 
 #### Build Airship
 
@@ -21420,7 +21419,7 @@ A hero who has a kit that uses unarmed strikes, such as the Martial Artist and P
 
 | **Area, Magic** |               **Main action** |
 | --------------- | ----------------------------: |
-| **📏 3 area**   | **🎯 Each enemy in the area** |
+| **📏 3 burst**  | **🎯 Each enemy in the area** |
 
 **Power Roll + Your Highest Characteristic Score:**
 
@@ -21454,7 +21453,7 @@ A hero who has a kit that uses unarmed strikes, such as the Martial Artist and P
 
 Heroes can undertake many different types of research downtime projects, which can involve seeking out new lore, improving existing knowledge with study, uncovering rumors or secrets, and more.
 
-Unless a project has a event table of its own or a special event entry, the Director uses the [Crafting and Research Events](#page-319-0) table for research project events.
+Unless a project has an event table of its own or a special event entry, the Director uses the [Crafting and Research Events](#page-319-0) table for research project events.
 
 #### Discover Lore
 
@@ -21861,7 +21860,7 @@ To gain the benefits of a weapon or armor treasure, the treasure must have keywo
 
 If your hero doesn't use a kit, they can't gain benefits from using armor or weapon treasures unless they have a feature that says otherwise, such as the conduit's Prayer of Soldier's Skill.
 
-A weapon's damage bonus only adds to melee abilities if you kit has a melee damage bonus. A weapon's damage bonus only adds to ranged abilities if your kit has a ranged damage bonus.
+A weapon's damage bonus only adds to melee abilities if your kit has a melee damage bonus. A weapon's damage bonus only adds to ranged abilities if your kit has a ranged damage bonus.
 
 #### Magic and Psionic Treasures
 
@@ -22984,7 +22983,7 @@ This section presents 4th-echelon trinket treasures in alphabetical order.
 
 ##### Gravekeeper's Lantern
 
-*This ancient wooden tablet is inscribed with eldritch runes and stained with dark blood.*
+*This ancient wooden lantern is inscribed with eldritch runes and stained with dark blood.*
 
 **Keywords:** Magic
 
@@ -23811,7 +23810,7 @@ The Encepter is said to have first manifested in a young world doomed to apocaly
 
 Change is the engine of existence. Permanence begets stagnation. When the past refuses to relinquish control, a path must be cleared for the future. Energized by the flickering of minds and souls passing through the void, the Mortal Coil taps into the entropic potential inherent in every living creature to cast a shadow capable of felling even gods. For the true gift of life is death, and gifts are meant to be given.
 
-Only one destined for death can contain the power of the Mortal Coil. A mortal creature who carries this artifact serves as its host, gaining an additional action on each of their turns, aging at ten times the usual rate, and becoming unable to ever regain Stamina. A host with no natural maximum lifespan permanently reduces their Stamina maximum by 10 each year.
+Only one destined for death can contain the power of the Mortal Coil. A mortal creature who carries this artifact serves as its host, gaining an additional main action on each of their turns, aging at ten times the usual rate, and becoming unable to ever regain Stamina. A host with no natural maximum lifespan permanently reduces their Stamina maximum by 10 each year.
 
 When the Mortal Coil is left unattended or is in the possession of a creature who is not mortal, it activates and can't be deactivated until a mortal creature becomes its host once more. While active, the artifact extends a penumbra of influence for 10 miles in every direction. Every creature in the penumbra is subject to the following effects.
 
@@ -24797,7 +24796,7 @@ Artisans are crafting experts who can contribute to your research and crafting p
 
 When you recruit an artisan, choose four skills from the crafting skill group that they know (see [Skills](#page-268-0) in [Chapter 9: Tests](#page-263-0)). An artisan has a Might or Agility score of 1 (your choice), a Reason score of 1, and a 0 in all other characteristics. They know Caelian and two other languages of your choice.
 
-##### Retainers
+##### Retainer
 
 Retainers are heroic NPCs who adventure alongside the player characters. They are controlled by players in combat and are both simpler to run and less powerful than player characters. A hero can have only one retainer in their service at a time unless the Director deems otherwise. Because retainers and their stat blocks are combat focused, the Director can also decide that a large party can have only one retainer in total-or can't have any retainers at all-to keep combat from getting long and tedious.
 
@@ -24934,7 +24933,7 @@ Some people in Orden, like the hakaan and the orcs believe their ancestors watch
 
 ### Conduits and Censors
 
-"Conduit" and "censor" are not a titles within any church-they are jobs or ranks. An abbot, rector, even a bishop may be, or may have been, a conduit or a censor. Conduits and censors are those members of the church expected to go out into the world and actively, sometimes very actively, represent their saint's ethos. It is for this purpose conduits and censors are given access to powerful prayers.
+"Conduit" and "censor" are not titles within any church-they are jobs or ranks. An abbot, rector, even a bishop may be, or may have been, a conduit or a censor. Conduits and censors are those members of the church expected to go out into the world and actively, sometimes very actively, represent their saint's ethos. It is for this purpose conduits and censors are given access to powerful prayers.
 
 Any sufficiently large organization has conduits and censors just like they have shadows and wizards. The thieves' guild needs healers, just as the church needs spies! A conduit who works for the thieves' guild still serves their saint which implicitly means the church approves of the guild's activities and the two organizations are at least pointing in the same direction if not actively allied.
 
@@ -24965,36 +24964,36 @@ The Deities and Domains table and the Saints and Domains table summarize each of
 
 ###### Saints and Domains Table
 
-| Saint                              | Domains                       |
-| ---------------------------------- | ----------------------------- |
-| Atossa the Shepherd                | Fate, Protection, Trickery    |
-| Cho'kassa the Time Rider           | Storm, Sun                    |
-| Draighen the Warden                | Nature, Sun                   |
-| Eriarwen the Wroth                 | Nature, Storm                 |
-| Eseld the Eye                      | Knowledge, Trickery           |
-| Gaed the Confessor                 | Love, Protection              |
-| Grole the One-Handed               | Life, War                     |
-| Gryffyn the Stout                  | Creation, Life                |
-| Gwenllian the Fell-Handed          | Protection, War               |
-| Illwyv li Orchiax                  | Nature, Protection            |
-| Khorvath Who Slew a Thousand       | Sun, War                      |
-| Khravila Who Ran Forty Leagues     | Knowledge, Trickery           |
-| Kyruyalka the False Principle      | Death, Trickery               |
-| Lady Magnetar                      | Life, Sun                     |
-| Llewellyn the Valiant              | Life, Protection              |
-| Mahsiti the Weaver                 | Creation, Knowledge, Trickery |
-| Pentalion the Paladin              | Death, War                    |
-| Prexaspes the Stargazer            | Nature, Protection, Sun       |
-| Ripples of Honey on a Golden Shore | Life, Protection              |
-| A Sea of Suns                      | Creation, Life                |
-| Stakros the Engineer               | Creation, Knowledge           |
-| The Taste of Morning               | Creation, Knowledge           |
-| Thellasko the Great Designer       | Knowledge, War                |
-| Thyll Hylacae                      | Life, Nature                  |
-| Uryal the Subtle                   | Knowledge, Trickery           |
-| Valak-koth the Seeker              | Knowledge, Sun                |
-| Yllin Dyrvis                       | Knowledge, Nature             |
-| Zarok the Law-Giver                | Protection, War               |
+| Saint                               | Domains                       |
+| ----------------------------------- | ----------------------------- |
+| Atossa the Shepherd                 | Fate, Protection, Trickery    |
+| Cho'kassa the Time Rider            | Storm, Sun                    |
+| Draighen the Warden                 | Nature, Sun                   |
+| Eriarwen the Wroth                  | Nature, Storm                 |
+| Eseld the Eye                       | Knowledge, Trickery           |
+| Gaed the Confessor                  | Love, Protection              |
+| Grole the One-Handed                | Life, War                     |
+| Gryffyn the Stout                   | Creation, Life                |
+| Gwenllian the Fell-Handed           | Protection, War               |
+| Illwyv li Orchiax                   | Nature, Protection            |
+| Khorvath Who Slew a Thousand        | Sun, War                      |
+| Khravila Who Ran Forty Leagues      | Knowledge, Trickery           |
+| Kyruyalka the False Principle       | Death, Trickery               |
+| Lady Magnetar                       | Life, Sun                     |
+| Llewellyn the Valiant               | Life, Protection              |
+| Mahsiti the Weaver                  | Creation, Knowledge, Trickery |
+| Pentalion the Paladin               | Death, War                    |
+| Prexaspes the Stargazer             | Nature, Protection, Sun       |
+| Ripples of Honey on a Shore of Gold | Life, Protection              |
+| A Sea of Suns                       | Creation, Life                |
+| Stakros the Engineer                | Creation, Knowledge           |
+| The Taste of Morning                | Creation, Knowledge           |
+| Thellasko the Great Designer        | Knowledge, War                |
+| Thyll Hylacae                       | Life, Nature                  |
+| Uryal the Subtle                    | Knowledge, Trickery           |
+| Valak-koth the Seeker               | Knowledge, Sun                |
+| Yllin Dyrvis                        | Knowledge, Nature             |
+| Zarok the Law-Giver                 | Protection, War               |
 
 ### Val
 
@@ -25312,7 +25311,7 @@ Expensive to produce, *The Game of War* was never very popular outside the Acade
 
 In Thellasko's time, the most senior noble was always the senior commander, regardless of experience or, indeed, sanity. After Thellasko and *The Game of War*, commanders were chosen from among the soldiers with the most battlefield experience.
 
-Thellasko was granted sainthood on his deathbed after a generation of successful battles won by his students, all of whom carried a symbol of graduation from Thellasko's school-three adjacent hexagons. The students praised him on the battlefield during his life, and his church continues to advance his theories
+Thellasko was granted sainthood on his deathbed after a generation of successful battles won by his students, all of whom carried a symbol of graduation from Thellasko's school-three adjacent hexagons. The students praised him on the battlefield during his life, and his church continues to advance his theories.
 
 Thellasko teaches the virtue of accepting the battle as it is, not as you wish it might be. To take action based on available data, not what tradition says. That wars are not won based solely on the size of one's army, but based on which side is best able to bring its force to bear against the opponent.
 
@@ -25490,7 +25489,7 @@ The Red Sun hobgoblins seemed unstoppable. The baron began to think he might nee
 
 Then the loremaster came. Zür the wizard, dwarf and master of the Tower of Enchantment arrived. Seeing the need, he opened his tomes and researched what might the hobgoblins might wield. He presented himself to the baron's court with a solution. The Red Sun had found an ancient spring dedicated to a Gol demon-god. The Red Sun hobgoblins had bathed in the spring and awoken the blessing of the demon within and, having bathed in the river, they were now invulnerable.
 
-Zür believed he could remove the enchantment and rob the Ren Sun of their power. But the way to the spring was dangerous and he had no guard. The baron was at a loss, his greatest knights were almost all dead, thanks to the Red Sun.
+Zür believed he could remove the enchantment and rob the Red Sun of their power. But the way to the spring was dangerous and he had no guard. The baron was at a loss, his greatest knights were almost all dead, thanks to the Red Sun.
 
 "I will attend," Lady Gwenllian volunteered. The baron objected. Lady Gwenllian was his personal knight and bodyguard, just as her mother had been to his father. "If we succeed," Gwenllian said, "you will have no need of bodyguards. If we fail, it will be the same."
 
@@ -26317,7 +26316,7 @@ If a test is a **success with a consequence**, the hero succeeds but suffers a s
 
 If a test is a **success**, the hero does what they set out to do! You can even let a player narrate the outcome of a successful test by asking them, "How did you pull this off ?"
 
-If the test is a **success with a reward**, the hero does what they set out to do-and then some. A reward might grant another character who needs to make the same test an automatic success, grant a boon on a future test for the hero, reveal a hidden treasure the hero wasn't looking for, inspire a nearby NPC to come forth and offer aid, or earn the group a hero token. A reward on a test is yours to choose.
+If the test is a **success with a reward**, the hero does what they set out to do-and then some. A reward might grant another character who needs to make the same test an automatic success, grant an edge on a future test for the hero, reveal a hidden treasure the hero wasn't looking for, inspire a nearby NPC to come forth and offer aid, or earn the group a hero token. A reward on a test is yours to choose.
 
 Sample consequences and rewards for tests are detailed in [Chapter 9: Tests](#page-263-0).
 
@@ -26555,6 +26554,10 @@ The guildmaster has the following possible pitfalls:
 - **Justice:** We're reshaping the world here. Of course, some people who can't adapt are going to find themselves on the bottom. But why should anyone blame us for that?
 - **Peace:** Conflict isn't bad in and of itself. It drives innovation. The key is to not be on the losing side.
 - **Revelry:** I don't have time for this foolishness. Come talk to me again when you have something of value to show me.
+
+#### Warlord
+
+**Impression Score:** 4
 
 *The warlord has raised their banner and troops flock to their cause. Some say a warlord never negotiates, but that's not true. They're happy to listen to terms of surrender.*
 

@@ -2,12 +2,12 @@
 file_basename: Bugbears
 file_dpath: Monsters/Bugbears
 item_id: bugbears
-item_index: '13'
+item_index: '14'
 item_name: Bugbears
 scc:
   - mcdm.monsters.v1:monster.section:bugbears
 scdc:
-  - 1.1.1:2.1:13
+  - 1.1.1:2.1:14
 source: mcdm.monsters.v1
 type: monster/section
 ---

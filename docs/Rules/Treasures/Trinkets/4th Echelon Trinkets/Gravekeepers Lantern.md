@@ -16,7 +16,7 @@ type: treasure/trinkets/4th-echelon
 
 ##### Gravekeeper's Lantern
 
-*This ancient wooden tablet is inscribed with eldritch runes and stained with dark blood.*
+*This ancient wooden lantern is inscribed with eldritch runes and stained with dark blood.*
 
 **Keywords:** Magic
 

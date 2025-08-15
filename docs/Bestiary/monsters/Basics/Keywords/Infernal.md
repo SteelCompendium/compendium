@@ -2,12 +2,12 @@
 file_basename: Infernal
 file_dpath: Basics/Keywords
 item_id: infernal
-item_index: '11'
+item_index: '12'
 item_name: Infernal
 scc:
   - mcdm.monsters.v1:keywords:infernal
 scdc:
-  - 1.1.1:3:11
+  - 1.1.1:3:12
 source: mcdm.monsters.v1
 type: keywords
 ---

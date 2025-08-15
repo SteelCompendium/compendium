@@ -2,12 +2,12 @@
 file_basename: Plant
 file_dpath: Basics/Keywords
 item_id: plant
-item_index: '14'
+item_index: '15'
 item_name: Plant
 scc:
   - mcdm.monsters.v1:keywords:plant
 scdc:
-  - 1.1.1:3:14
+  - 1.1.1:3:15
 source: mcdm.monsters.v1
 type: keywords
 ---

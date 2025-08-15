@@ -85,6 +85,8 @@ Ooze creatures, such as the gummy brick, are semisolid masses of moisture and ma
 
 Plant creatures, such as the shambling mound, are made of vegetation. Like other creatures (and unlike plant objects), they can move and interact with their environment.
 
+###### Soulless
+
 ###### Swarm
 
 Swarm creatures are actually more than one creature! When a whole bunch of creatures get together, whether a swarm of spiders or a swarm of minotaurs, they move and act together as if they were one creature.

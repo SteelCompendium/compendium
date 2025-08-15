@@ -103,7 +103,7 @@ Some people in Orden, like the hakaan and the orcs believe their ancestors watch
 
 ### Conduits and Censors
 
-"Conduit" and "censor" are not a titles within any church-they are jobs or ranks. An abbot, rector, even a bishop may be, or may have been, a conduit or a censor. Conduits and censors are those members of the church expected to go out into the world and actively, sometimes very actively, represent their saint's ethos. It is for this purpose conduits and censors are given access to powerful prayers.
+"Conduit" and "censor" are not titles within any church-they are jobs or ranks. An abbot, rector, even a bishop may be, or may have been, a conduit or a censor. Conduits and censors are those members of the church expected to go out into the world and actively, sometimes very actively, represent their saint's ethos. It is for this purpose conduits and censors are given access to powerful prayers.
 
 Any sufficiently large organization has conduits and censors just like they have shadows and wizards. The thieves' guild needs healers, just as the church needs spies! A conduit who works for the thieves' guild still serves their saint which implicitly means the church approves of the guild's activities and the two organizations are at least pointing in the same direction if not actively allied.
 
@@ -134,36 +134,36 @@ The Deities and Domains table and the Saints and Domains table summarize each of
 
 ###### Saints and Domains Table
 
-| Saint                              | Domains                       |
-| ---------------------------------- | ----------------------------- |
-| Atossa the Shepherd                | Fate, Protection, Trickery    |
-| Cho'kassa the Time Rider           | Storm, Sun                    |
-| Draighen the Warden                | Nature, Sun                   |
-| Eriarwen the Wroth                 | Nature, Storm                 |
-| Eseld the Eye                      | Knowledge, Trickery           |
-| Gaed the Confessor                 | Love, Protection              |
-| Grole the One-Handed               | Life, War                     |
-| Gryffyn the Stout                  | Creation, Life                |
-| Gwenllian the Fell-Handed          | Protection, War               |
-| Illwyv li Orchiax                  | Nature, Protection            |
-| Khorvath Who Slew a Thousand       | Sun, War                      |
-| Khravila Who Ran Forty Leagues     | Knowledge, Trickery           |
-| Kyruyalka the False Principle      | Death, Trickery               |
-| Lady Magnetar                      | Life, Sun                     |
-| Llewellyn the Valiant              | Life, Protection              |
-| Mahsiti the Weaver                 | Creation, Knowledge, Trickery |
-| Pentalion the Paladin              | Death, War                    |
-| Prexaspes the Stargazer            | Nature, Protection, Sun       |
-| Ripples of Honey on a Golden Shore | Life, Protection              |
-| A Sea of Suns                      | Creation, Life                |
-| Stakros the Engineer               | Creation, Knowledge           |
-| The Taste of Morning               | Creation, Knowledge           |
-| Thellasko the Great Designer       | Knowledge, War                |
-| Thyll Hylacae                      | Life, Nature                  |
-| Uryal the Subtle                   | Knowledge, Trickery           |
-| Valak-koth the Seeker              | Knowledge, Sun                |
-| Yllin Dyrvis                       | Knowledge, Nature             |
-| Zarok the Law-Giver                | Protection, War               |
+| Saint                               | Domains                       |
+| ----------------------------------- | ----------------------------- |
+| Atossa the Shepherd                 | Fate, Protection, Trickery    |
+| Cho'kassa the Time Rider            | Storm, Sun                    |
+| Draighen the Warden                 | Nature, Sun                   |
+| Eriarwen the Wroth                  | Nature, Storm                 |
+| Eseld the Eye                       | Knowledge, Trickery           |
+| Gaed the Confessor                  | Love, Protection              |
+| Grole the One-Handed                | Life, War                     |
+| Gryffyn the Stout                   | Creation, Life                |
+| Gwenllian the Fell-Handed           | Protection, War               |
+| Illwyv li Orchiax                   | Nature, Protection            |
+| Khorvath Who Slew a Thousand        | Sun, War                      |
+| Khravila Who Ran Forty Leagues      | Knowledge, Trickery           |
+| Kyruyalka the False Principle       | Death, Trickery               |
+| Lady Magnetar                       | Life, Sun                     |
+| Llewellyn the Valiant               | Life, Protection              |
+| Mahsiti the Weaver                  | Creation, Knowledge, Trickery |
+| Pentalion the Paladin               | Death, War                    |
+| Prexaspes the Stargazer             | Nature, Protection, Sun       |
+| Ripples of Honey on a Shore of Gold | Life, Protection              |
+| A Sea of Suns                       | Creation, Life                |
+| Stakros the Engineer                | Creation, Knowledge           |
+| The Taste of Morning                | Creation, Knowledge           |
+| Thellasko the Great Designer        | Knowledge, War                |
+| Thyll Hylacae                       | Life, Nature                  |
+| Uryal the Subtle                    | Knowledge, Trickery           |
+| Valak-koth the Seeker               | Knowledge, Sun                |
+| Yllin Dyrvis                        | Knowledge, Nature             |
+| Zarok the Law-Giver                 | Protection, War               |
 
 ### Val
 
@@ -481,7 +481,7 @@ Expensive to produce, *The Game of War* was never very popular outside the Acade
 
 In Thellasko's time, the most senior noble was always the senior commander, regardless of experience or, indeed, sanity. After Thellasko and *The Game of War*, commanders were chosen from among the soldiers with the most battlefield experience.
 
-Thellasko was granted sainthood on his deathbed after a generation of successful battles won by his students, all of whom carried a symbol of graduation from Thellasko's school-three adjacent hexagons. The students praised him on the battlefield during his life, and his church continues to advance his theories
+Thellasko was granted sainthood on his deathbed after a generation of successful battles won by his students, all of whom carried a symbol of graduation from Thellasko's school-three adjacent hexagons. The students praised him on the battlefield during his life, and his church continues to advance his theories.
 
 Thellasko teaches the virtue of accepting the battle as it is, not as you wish it might be. To take action based on available data, not what tradition says. That wars are not won based solely on the size of one's army, but based on which side is best able to bring its force to bear against the opponent.
 
@@ -659,7 +659,7 @@ The Red Sun hobgoblins seemed unstoppable. The baron began to think he might nee
 
 Then the loremaster came. Zür the wizard, dwarf and master of the Tower of Enchantment arrived. Seeing the need, he opened his tomes and researched what might the hobgoblins might wield. He presented himself to the baron's court with a solution. The Red Sun had found an ancient spring dedicated to a Gol demon-god. The Red Sun hobgoblins had bathed in the spring and awoken the blessing of the demon within and, having bathed in the river, they were now invulnerable.
 
-Zür believed he could remove the enchantment and rob the Ren Sun of their power. But the way to the spring was dangerous and he had no guard. The baron was at a loss, his greatest knights were almost all dead, thanks to the Red Sun.
+Zür believed he could remove the enchantment and rob the Red Sun of their power. But the way to the spring was dangerous and he had no guard. The baron was at a loss, his greatest knights were almost all dead, thanks to the Red Sun.
 
 "I will attend," Lady Gwenllian volunteered. The baron objected. Lady Gwenllian was his personal knight and bodyguard, just as her mother had been to his father. "If we succeed," Gwenllian said, "you will have no need of bodyguards. If we fail, it will be the same."
 

@@ -2,12 +2,12 @@
 file_basename: Demons
 file_dpath: Monsters/Demons
 item_id: demons
-item_index: '15'
+item_index: '16'
 item_name: Demons
 scc:
   - mcdm.monsters.v1:monster.section:demons
 scdc:
-  - 1.1.1:2.1:15
+  - 1.1.1:2.1:16
 source: mcdm.monsters.v1
 type: monster/section
 ---

@@ -2,12 +2,12 @@
 file_basename: Giants
 file_dpath: Monsters/Giants
 item_id: giants
-item_index: '26'
+item_index: '27'
 item_name: Giants
 scc:
   - mcdm.monsters.v1:monster.section:giants
 scdc:
-  - 1.1.1:2.1:26
+  - 1.1.1:2.1:27
 source: mcdm.monsters.v1
 type: monster/section
 ---

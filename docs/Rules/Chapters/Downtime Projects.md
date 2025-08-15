@@ -119,7 +119,7 @@ If an event grants an automatic breakthrough on a downtime project, the project 
 
 Crafting projects enable heroes to create vehicles, supernatural treasures, and more. When you start a crafting project, other creatures can also work on the project, using their respite activity to contribute a project roll in order to get the work done faster.
 
-Unless a project has a event table of its own, the Director uses the [Crafting and Research Events](#page-319-0) table for crafting project events.
+Unless a project has an event table of its own, the Director uses the [Crafting and Research Events](#page-319-0) table for crafting project events.
 
 #### Build Airship
 
@@ -661,7 +661,7 @@ A hero who has a kit that uses unarmed strikes, such as the Martial Artist and P
 
 | **Area, Magic** |               **Main action** |
 | --------------- | ----------------------------: |
-| **📏 3 area**   | **🎯 Each enemy in the area** |
+| **📏 3 burst**  | **🎯 Each enemy in the area** |
 
 **Power Roll + Your Highest Characteristic Score:**
 
@@ -695,7 +695,7 @@ A hero who has a kit that uses unarmed strikes, such as the Martial Artist and P
 
 Heroes can undertake many different types of research downtime projects, which can involve seeking out new lore, improving existing knowledge with study, uncovering rumors or secrets, and more.
 
-Unless a project has a event table of its own or a special event entry, the Director uses the [Crafting and Research Events](#page-319-0) table for research project events.
+Unless a project has an event table of its own or a special event entry, the Director uses the [Crafting and Research Events](#page-319-0) table for research project events.
 
 #### Discover Lore
 

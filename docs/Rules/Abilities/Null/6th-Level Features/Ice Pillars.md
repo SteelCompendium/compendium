@@ -26,7 +26,7 @@ type: feature/ability/null/6th-level-feature
 | ------------------- | --------------------------------: |
 | **📏 Ranged 10**    | **🎯 Three creatures or objects** |
 
-**Power Roll + Reason:**
+**Power Roll + Intuition:**
 
 - **≤11:** Vertical slide 6
 - **12-16:** Vertical slide 8

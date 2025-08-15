@@ -2,12 +2,12 @@
 file_basename: Giant
 file_dpath: Basics/Keywords
 item_id: giant
-item_index: '13'
+item_index: '14'
 item_name: Giant
 scc:
   - mcdm.monsters.v1:keywords:giant
 scdc:
-  - 1.1.1:3:13
+  - 1.1.1:3:14
 source: mcdm.monsters.v1
 type: keywords
 ---

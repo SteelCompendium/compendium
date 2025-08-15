@@ -2,12 +2,12 @@
 file_basename: Elementals
 file_dpath: Monsters/Elementals
 item_id: elementals
-item_index: 09
+item_index: '10'
 item_name: Elementals
 scc:
   - mcdm.monsters.v1:monster.section:elementals
 scdc:
-  - 1.1.1:2.1:09
+  - 1.1.1:2.1:10
 source: mcdm.monsters.v1
 type: monster/section
 ---

@@ -502,9 +502,9 @@ You wear light armor and wield a shield and a light weapon.
 
 ##### Signature Ability
 
-###### Shock and Awe
+###### Raider's Awe
 
-*You execute a brutal strike that leaves your foe reeling.*
+*You execute a brutal strike that leaves your foe reeling. (Previously known as "Shock and Awe")*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
@@ -946,4 +946,3 @@ The rules of the game expect that heroes always have access to their equipment. 
 | Sword and Board  | Medium, shield | Medium             | +9                  | -     | +1        | +2/+2/+2     | -             | -              | -               | +1        |
 | Warrior Priest   | Heavy          | Light              | +9                  | +1    | +1        | +1/+1/+1     | -             | -              | -               | -         |
 | Whirlwind        | None           | Whip               | -                   | +3    | -         | +1/+1/+1     | -             | +1             | -               | +1        |
-|                  |                |                    |                     |       |           |              |               |                |                 |           |

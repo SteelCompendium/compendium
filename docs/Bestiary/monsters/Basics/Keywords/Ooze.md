@@ -2,12 +2,12 @@
 file_basename: Ooze
 file_dpath: Basics/Keywords
 item_id: ooze
-item_index: '15'
+item_index: '16'
 item_name: Ooze
 scc:
   - mcdm.monsters.v1:keywords:ooze
 scdc:
-  - 1.1.1:3:15
+  - 1.1.1:3:16
 source: mcdm.monsters.v1
 type: keywords
 ---

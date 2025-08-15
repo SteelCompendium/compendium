@@ -124,7 +124,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Adjacent:** Within 1 square.
 
-**Advance Move Action:** A main action that allows a creature to move a number of squares up to their speed. This movement can be broken up by a creature's maneuver and main action.
+**Advance Move Action:** A move action that allows a creature to move a number of squares up to their speed. This movement can be broken up by a creature's maneuver and main action.
 
 **Agility:** A characteristic that represents a creature's coordination and nimbleness.
 
@@ -246,7 +246,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Double Bane:** When a creature has two or more banes and no edges applied to a power roll , they have a double bane on the roll. A double bane applies no penalty to a power roll, but instead automatically decreases the tier outcome of the roll by one tier.
 
-**Double Edge:** When a creature has two or more edges and no banes applied to a power roll l, they have a double edge on the roll. A double edge adds no bonus to a power roll, but instead automatically increases the tier outcome of the roll by one tier.
+**Double Edge:** When a creature has two or more edges and no banes applied to a power roll, they have a double edge on the roll. A double edge adds no bonus to a power roll, but instead automatically increases the tier outcome of the roll by one tier.
 
 **Downtime Project:** A task a hero undertakes during one or more respites.
 
@@ -442,9 +442,9 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Prone:** A condition that causes a creature to become flat on the ground. Strikes made by a prone creature take a bane, and melee abilities used against a prone creature gain an edge.
 
-**Pull:** A form of forced moved that pulls a target toward a creature or effect, moving them in a horizontal straight line.
+**Pull:** A form of forced movement that pulls a target toward a creature or effect, moving them in a horizontal straight line.
 
-**Push:** A form of forced moved that pushes a target away from a creature or effect, moving them in a horizontal straight line.
+**Push:** A form of forced movement that pushes a target away from a creature or effect, moving them in a horizontal straight line.
 
 **Ranged:** Ranged abilities can be used to target creatures or objects too far away to make direct contact with.
 
@@ -466,7 +466,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Respite Activity:** An activity that can be undertaken during a respite. A hero can take one respite activity per respite.
 
-**Restrained:** A condition that reduces a creature's speed to 0 and prevents them from using the Stand Up maneuver or being forced moved.
+**Restrained:** A condition that reduces a creature's speed to 0 and prevents them from using the Stand Up maneuver or being force moved.
 
 **Retainer:** A follower who adventures alongside a hero.
 
@@ -500,7 +500,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Skill:** Special knowledge or training that can be applied to a test. When a skill applies to a test, it grants a +2 bonus to the power roll.
 
-**Slide:** A form of forced moved that slides a target in any direction, moving them along any horizontal line.
+**Slide:** A form of forced movement that slides a target in any direction, moving them along any horizontal line.
 
 **Slowed:** A condition that reduces a creature's speed to 2.
 
@@ -510,7 +510,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Square:** The smallest unit of measurement on an encounter map. Distance, space, and speed are all reckoned in squares.
 
-**Stability:** A measure of a creature's immovability. When a creature is forced moved, the distance they can be force moved is reduced by a number of squares equal to their stability.
+**Stability:** A measure of a creature's immovability. When a creature is force moved, the distance they can be force moved is reduced by a number of squares equal to their stability.
 
 **Stamina:** A measure of a creature's health and vitality. When a hero's Stamina is reduced to 0 or lower, they are dying. When a nonhero creature's Stamina is reduced to 0, they die or are knocked unconscious, as determined by the creature who reduced them to 0 Stamina.
 
@@ -558,7 +558,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Time Raider:** An ancestry of four-armed psionic folk with ocular sensors instead of eyes.
 
-**Timescape:** A multiverse of worlds, also know as manifolds, connected by the Sea of Stars.
+**Timescape:** A multiverse of worlds, also known as manifolds, connected by the Sea of Stars.
 
 **Treasure:** A piece of supernatural equipment, from weapons and armor to implements and more.
 
@@ -578,7 +578,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Vasloria:** A forested, feudal-medieval continent in Orden.
 
-**Vertical:** When any form of forced moved is noted as vertical, the creature performing the forced movement can move the target up or down (though not into the ground) in addition to horizontally.
+**Vertical:** When any form of forced movement is noted as vertical, the creature performing the forced movement can move the target up or down in addition to horizontally.
 
 **Victories:** A measure of a hero's increasing power over the course of an adventure, earned by triumphing in battles and overcoming other challenges.
 

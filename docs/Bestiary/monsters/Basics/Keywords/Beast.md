@@ -2,12 +2,12 @@
 file_basename: Beast
 file_dpath: Basics/Keywords
 item_id: beast
-item_index: '16'
+item_index: '17'
 item_name: Beast
 scc:
   - mcdm.monsters.v1:keywords:beast
 scdc:
-  - 1.1.1:3:16
+  - 1.1.1:3:17
 source: mcdm.monsters.v1
 type: keywords
 ---

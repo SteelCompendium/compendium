@@ -2,12 +2,12 @@
 file_basename: Troll Limbjumble
 file_dpath: Monsters/Trolls/Statblocks
 item_id: troll-limbjumble
-item_index: '344'
+item_index: '349'
 item_name: Troll Limbjumble
 scc:
   - mcdm.monsters.v1:monster:troll-limbjumble
 scdc:
-  - 1.1.1:2:344
+  - 1.1.1:2:349
 source: mcdm.monsters.v1
 type: monster
 ---

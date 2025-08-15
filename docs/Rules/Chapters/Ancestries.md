@@ -258,7 +258,7 @@ Humans have the potential to live a little longer on Orden than they do in the r
 | Human         | 5'0''-6'0''                 | 100-300               | 70-120                        |
 | Memonek       | 5'0''-6'0''                 | 50-100                | 70-120                        |
 | Orc           | 5'6''-6'6''                 | 150-300               | 50-90                         |
-| Polder        | 3'3''-3'9''                 | 20-50                 | 50-90                         |
+| Polder        | 3'3''-3'6''                 | 20-50                 | 50-90                         |
 | Time Raider   | 5'0''-6'0''                 | 120-250               | 50-90                         |
 
 ### Starting Size and Speed

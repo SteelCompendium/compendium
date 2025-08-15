@@ -2,12 +2,12 @@
 file_basename: Troll Crack Trooper
 file_dpath: Monsters/Trolls/Statblocks
 item_id: troll-crack-trooper
-item_index: '342'
+item_index: '347'
 item_name: Troll Crack Trooper
 scc:
   - mcdm.monsters.v1:monster:troll-crack-trooper
 scdc:
-  - 1.1.1:2:342
+  - 1.1.1:2:347
 source: mcdm.monsters.v1
 type: monster
 ---

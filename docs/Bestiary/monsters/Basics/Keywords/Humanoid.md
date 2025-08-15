@@ -2,12 +2,12 @@
 file_basename: Humanoid
 file_dpath: Basics/Keywords
 item_id: humanoid
-item_index: '12'
+item_index: '13'
 item_name: Humanoid
 scc:
   - mcdm.monsters.v1:keywords:humanoid
 scdc:
-  - 1.1.1:3:12
+  - 1.1.1:3:13
 source: mcdm.monsters.v1
 type: keywords
 ---

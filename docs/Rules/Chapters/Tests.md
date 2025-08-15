@@ -623,7 +623,7 @@ During a montage test, a Director can introduce new challenges for the heroes to
 
 #### Total Successes and Failures
 
-The Director or another player will track the total number of successes and failures the heroes earn during a montage test. Every montage test has a success limit and a failure limit. When the number of successful tests equals the success limit, the montage test ends and the heroes achieve total success (see[Montage Test Outcomes](#page-276-1) below). The montage test can also end when the number of failed tests equals the failure limit, and the heroes suffer total failure.
+The Director or another player will track the total number of successes and failures the heroes earn during a montage test. Every montage test has a success limit and a failure limit. When the number of successful tests equals the success limit, the montage test ends and the heroes achieve total success (see [Montage Test Outcomes](#page-276-1) below). The montage test can also end when the number of failed tests equals the failure limit, and the heroes suffer total failure.
 
 #### Limited Rounds
 
