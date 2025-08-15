@@ -2,12 +2,12 @@
 file_basename: Multivok Chief
 file_dpath: Monsters/Valok/Statblocks
 item_id: multivok-chief
-item_index: '322'
+item_index: '331'
 item_name: Multivok Chief
 scc:
   - mcdm.monsters.v1:monster:multivok-chief
 scdc:
-  - 1.1.1:2:322
+  - 1.1.1:2:331
 source: mcdm.monsters.v1
 type: monster
 ---

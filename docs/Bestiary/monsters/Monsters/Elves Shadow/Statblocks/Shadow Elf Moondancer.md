@@ -2,12 +2,12 @@
 file_basename: Shadow Elf Moondancer
 file_dpath: Monsters/Elves Shadow/Statblocks
 item_id: shadow-elf-moondancer
-item_index: '209'
+item_index: '211'
 item_name: Shadow Elf Moondancer
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-moondancer
 scdc:
-  - 1.1.1:2:209
+  - 1.1.1:2:211
 source: mcdm.monsters.v1
 type: monster
 ---

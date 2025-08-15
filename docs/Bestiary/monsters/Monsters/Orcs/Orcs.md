@@ -2,12 +2,12 @@
 file_basename: Orcs
 file_dpath: Monsters/Orcs
 item_id: orcs
-item_index: '34'
+item_index: '39'
 item_name: Orcs
 scc:
   - mcdm.monsters.v1:monster.section:orcs
 scdc:
-  - 1.1.1:2.1:34
+  - 1.1.1:2.1:39
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -295,11 +295,11 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 
 ###### Orc Eye of Grole
 
-|                Humanoid, Orc                |          -          |       Level 1       |    Platoon Artillery    |          EV 6          |
-| :-----------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
-|              **1M**<br/> Size               |  **6**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
-| **Cold, fire , or lightning**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
-|              **+1**<br/> Might              | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **-2**<br/> Presence  |
+|               Humanoid, Orc                |          -          |       Level 1       |    Platoon Artillery    |          EV 6          |
+| :----------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
+|              **1M**<br/> Size              |  **6**<br/> Speed   | **20**<br/> Stamina |  **0**<br/> Stability   | **4**<br/> Free Strike |
+| **Cold, fire, or lightning**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|             **+1**<br/> Might              | **+1**<br/> Agility | **+0**<br/> Reason  |  **+0**<br/> Intuition  |  **-2**<br/> Presence  |
 
 <!-- -->
 > ⭐️ **Elemental Affinity**
@@ -463,7 +463,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 > **Effect:** A target who is already prone takes an extra 6 damage.
 
 <!-- -->
-> ❗️ **Hrraaaaaagh! 1 Malice**
+> ❗️ **Hrraaaaaagh! (1 Malice)**
 >
 > | **-**       | **Free triggered action** |
 > | ----------- | ------------------------: |

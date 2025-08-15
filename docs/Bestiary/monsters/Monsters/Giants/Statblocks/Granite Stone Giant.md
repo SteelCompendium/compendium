@@ -2,12 +2,12 @@
 file_basename: Granite Stone Giant
 file_dpath: Monsters/Giants/Statblocks
 item_id: granite-stone-giant
-item_index: '202'
+item_index: '204'
 item_name: Granite Stone Giant
 scc:
   - mcdm.monsters.v1:monster:granite-stone-giant
 scdc:
-  - 1.1.1:2:202
+  - 1.1.1:2:204
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -48,7 +48,7 @@ type: monster
 > - **12-16:** 10 damage; push 4
 > - **17+:** 14 damage; vertical push 4
 >
-> **Effect:** The area is difficult terrain . Whenever a creature enters square in the area, they take 3 damage.
+> **Effect:** The area is difficult terrain. Whenever a creature enters square in the area, they take 3 damage.
 
 <!-- -->
 > 👤 **Castle Stone Shape**

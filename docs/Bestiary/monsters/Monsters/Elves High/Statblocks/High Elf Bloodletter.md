@@ -42,7 +42,7 @@ type: monster
 > | --------------- | -------------: |
 > | **📏 1 burst**  | **🎯 Special** |
 >
-> **Effect:** Until the end of the next round, a cloud of blood vapor fills the area. The cloud blocks line of effect for enemies , and any enemy has damage weakness 3 while in the area. The bloodletter can then shift up to their speed, and can attempt to hide if they end that shift with concealment.
+> **Effect:** Until the end of the next round, a cloud of blood vapor fills the area. The cloud blocks line of effect for enemies, and any enemy has damage weakness 3 while in the area. The bloodletter can then shift up to their speed, and can attempt to hide if they end that shift with concealment.
 
 <!-- -->
 > ⭐️ **Otherworldly Grace**

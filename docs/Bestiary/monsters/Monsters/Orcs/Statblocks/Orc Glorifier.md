@@ -2,12 +2,12 @@
 file_basename: Orc Glorifier
 file_dpath: Monsters/Orcs/Statblocks
 item_id: orc-glorifier
-item_index: '122'
+item_index: '124'
 item_name: Orc Glorifier
 scc:
   - mcdm.monsters.v1:monster:orc-glorifier
 scdc:
-  - 1.1.1:2:122
+  - 1.1.1:2:124
 source: mcdm.monsters.v1
 type: monster
 ---

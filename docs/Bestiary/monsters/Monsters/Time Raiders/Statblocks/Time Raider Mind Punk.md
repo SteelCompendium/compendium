@@ -2,12 +2,12 @@
 file_basename: Time Raider Mind Punk
 file_dpath: Monsters/Time Raiders/Statblocks
 item_id: time-raider-mind-punk
-item_index: '146'
+item_index: '148'
 item_name: Time Raider Mind Punk
 scc:
   - mcdm.monsters.v1:monster:time-raider-mind-punk
 scdc:
-  - 1.1.1:2:146
+  - 1.1.1:2:148
 source: mcdm.monsters.v1
 type: monster
 ---

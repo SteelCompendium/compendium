@@ -2,12 +2,12 @@
 file_basename: Time Raider Myriad
 file_dpath: Monsters/Time Raiders/Statblocks
 item_id: time-raider-myriad
-item_index: '142'
+item_index: '144'
 item_name: Time Raider Myriad
 scc:
   - mcdm.monsters.v1:monster:time-raider-myriad
 scdc:
-  - 1.1.1:2:142
+  - 1.1.1:2:144
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Troll Ravager
 file_dpath: Monsters/Trolls/Statblocks
 item_id: troll-ravager
-item_index: '348'
+item_index: '411'
 item_name: Troll Ravager
 scc:
   - mcdm.monsters.v1:monster:troll-ravager
 scdc:
-  - 1.1.1:2:348
+  - 1.1.1:2:411
 source: mcdm.monsters.v1
 type: monster
 ---

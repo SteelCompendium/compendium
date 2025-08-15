@@ -2,12 +2,12 @@
 file_basename: Giants
 file_dpath: Monsters/Giants
 item_id: giants
-item_index: '27'
+item_index: '32'
 item_name: Giants
 scc:
   - mcdm.monsters.v1:monster.section:giants
 scdc:
-  - 1.1.1:2.1:27
+  - 1.1.1:2.1:32
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -577,7 +577,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 > - **12-16:** 10 damage; push 4
 > - **17+:** 14 damage; vertical push 4
 >
-> **Effect:** The area is difficult terrain . Whenever a creature enters square in the area, they take 3 damage.
+> **Effect:** The area is difficult terrain. Whenever a creature enters square in the area, they take 3 damage.
 
 <!-- -->
 > 👤 **Castle Stone Shape**

@@ -2,12 +2,12 @@
 file_basename: Wode Hag
 file_dpath: Monsters/Hag/Statblocks
 item_id: wode-hag
-item_index: '292'
+item_index: '294'
 item_name: Wode Hag
 scc:
   - mcdm.monsters.v1:monster:wode-hag
 scdc:
-  - 1.1.1:2:292
+  - 1.1.1:2:294
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -69,7 +69,7 @@ type: monster
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** The hag alters their body to become any size 1 creature, from a house cat to a humanoid. If the hag uses this ability while outside of any enemy's line of effect , they can choose to be automatically hidden. The hag can return to their original form as a free maneuver.
+> **Effect:** The hag alters their body to become any size 1 creature, from a house cat to a humanoid. If the hag uses this ability while outside of any enemy's line of effect, they can choose to be automatically hidden. The hag can return to their original form as a free maneuver.
 >
 > **5 Malice:** The hag becomes a size 2 creature instead, from a bear to an ogre. While in this form, the hag's melee abilities gain a +1 bonus to distance and deal an extra 4 damage.
 

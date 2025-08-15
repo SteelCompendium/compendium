@@ -2,12 +2,12 @@
 file_basename: Valok
 file_dpath: Monsters/Valok
 item_id: valok
-item_index: 09
+item_index: '12'
 item_name: Valok
 scc:
   - mcdm.monsters.v1:monster.section:valok
 scdc:
-  - 1.1.1:2.1:09
+  - 1.1.1:2.1:12
 source: mcdm.monsters.v1
 type: monster/section
 ---

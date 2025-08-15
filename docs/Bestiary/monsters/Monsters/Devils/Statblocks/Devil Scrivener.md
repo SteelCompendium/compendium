@@ -2,12 +2,12 @@
 file_basename: Devil Scrivener
 file_dpath: Monsters/Devils/Statblocks
 item_id: devil-scrivener
-item_index: '293'
+item_index: '295'
 item_name: Devil Scrivener
 scc:
   - mcdm.monsters.v1:monster:devil-scrivener
 scdc:
-  - 1.1.1:2:293
+  - 1.1.1:2:295
 source: mcdm.monsters.v1
 type: monster
 ---

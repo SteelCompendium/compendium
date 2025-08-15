@@ -2,12 +2,12 @@
 file_basename: Undead
 file_dpath: Monsters/Undead
 item_id: undead
-item_index: '40'
+item_index: '46'
 item_name: Undead
 scc:
   - mcdm.monsters.v1:monster.section:undead
 scdc:
-  - 1.1.1:2.1:40
+  - 1.1.1:2.1:46
 source: mcdm.monsters.v1
 type: monster/section
 ---

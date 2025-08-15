@@ -2,12 +2,12 @@
 file_basename: Elves Wode
 file_dpath: Monsters/Elves Wode
 item_id: elves-wode
-item_index: '22'
+item_index: '27'
 item_name: Elves, Wode
 scc:
   - mcdm.monsters.v1:monster.section:elves-wode
 scdc:
-  - 1.1.1:2.1:22
+  - 1.1.1:2.1:27
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -258,7 +258,7 @@ At the start of any wode elf's turn, you can spend Malice to activate
 > **3 Malice:** The size of the cube and the potency both increase by 1.
 
 <!-- -->
-> 🏹 **The Wode Protects Us 3 Malice**
+> 🏹 **The Wode Protects Us (3 Malice)**
 >
 > | **Magic, Ranged** |                 **Maneuver** |
 > | ----------------- | ---------------------------: |
@@ -540,7 +540,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 > | --------------- | ---------------------------: |
 > | **📏 10 burst** | **🎯 Each ally in the area** |
 >
-> **Effect:** Each non-minion target can make a free strike, then each target shifts up to 3 squares . A target who has cover or concealment at the end of this shift can attempt to hide at the end of the warleader's turn.
+> **Effect:** Each non-minion target can make a free strike, then each target shifts up to 3 squares. A target who has cover or concealment at the end of this shift can attempt to hide at the end of the warleader's turn.
 
 <!-- -->
 > ❗️ **Wode Sickness**
@@ -556,7 +556,7 @@ Wode elves are highly mobile and adept at hindering their enemies. A common tact
 <!-- -->
 > ⭐️ **End Effect**
 >
-> At the end of each of their turns, the warleader can take 5 damage to end one effect on them that can be ended by a saving throw . This damage can't be reduced in any way.
+> At the end of each of their turns, the warleader can take 5 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way.
 
 <!-- -->
 > ⭐️ **Into the Green**

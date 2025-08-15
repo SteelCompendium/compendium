@@ -2,12 +2,12 @@
 file_basename: Human Knave
 file_dpath: Monsters/Humans/Statblocks
 item_id: human-knave
-item_index: '156'
+item_index: '158'
 item_name: Human Knave
 scc:
   - mcdm.monsters.v1:monster:human-knave
 scdc:
-  - 1.1.1:2:156
+  - 1.1.1:2:158
 source: mcdm.monsters.v1
 type: monster
 ---

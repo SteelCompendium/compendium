@@ -2,12 +2,12 @@
 file_basename: Fossil Cryptic
 file_dpath: Monsters/Fossil Cryptic/Statblocks
 item_id: fossil-cryptic
-item_index: '350'
+item_index: '413'
 item_name: Fossil Cryptic
 scc:
   - mcdm.monsters.v1:monster:fossil-cryptic
 scdc:
-  - 1.1.1:2:350
+  - 1.1.1:2:413
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -79,7 +79,7 @@ type: monster
 > **2 Malice:** The ability targets one additional target.
 
 <!-- -->
-> ❗️ **Dissipate 1 Malice**
+> ❗️ **Dissipate (1 Malice)**
 >
 > | **-**       | **Triggered action** |
 > | ----------- | -------------------: |

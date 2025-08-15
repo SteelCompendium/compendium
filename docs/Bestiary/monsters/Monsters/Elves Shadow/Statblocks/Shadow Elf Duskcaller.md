@@ -2,12 +2,12 @@
 file_basename: Shadow Elf Duskcaller
 file_dpath: Monsters/Elves Shadow/Statblocks
 item_id: shadow-elf-duskcaller
-item_index: '213'
+item_index: '215'
 item_name: Shadow Elf Duskcaller
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-duskcaller
 scdc:
-  - 1.1.1:2:213
+  - 1.1.1:2:215
 source: mcdm.monsters.v1
 type: monster
 ---

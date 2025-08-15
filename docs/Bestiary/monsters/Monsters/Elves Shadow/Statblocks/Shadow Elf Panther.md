@@ -2,12 +2,12 @@
 file_basename: Shadow Elf Panther
 file_dpath: Monsters/Elves Shadow/Statblocks
 item_id: shadow-elf-panther
-item_index: '215'
+item_index: '217'
 item_name: Shadow Elf Panther
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-panther
 scdc:
-  - 1.1.1:2:215
+  - 1.1.1:2:217
 source: mcdm.monsters.v1
 type: monster
 ---

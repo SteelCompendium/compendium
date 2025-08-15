@@ -19,7 +19,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 <!-- -->
 > 👤 **Guarding Gale (3 Malice)**
 >
-> A draconian acting this turn flaps their wings and creates a mighty gale. Each creature adjacent to the draconian is pushed up to 4 squares, and if they have M < 2, , they are knocked prone.
+> A draconian acting this turn flaps their wings and creates a mighty gale. Each creature adjacent to the draconian is pushed up to 4 squares, and if they have M < 2, they are knocked prone.
 
 <!-- -->
 > 🔳 **Breath Weapon (5 Malice)**

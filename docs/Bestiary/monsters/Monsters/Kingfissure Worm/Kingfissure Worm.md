@@ -2,12 +2,12 @@
 file_basename: Kingfissure Worm
 file_dpath: Monsters/Kingfissure Worm
 item_id: kingfissure-worm
-item_index: '18'
+item_index: '22'
 item_name: Kingfissure Worm
 scc:
   - mcdm.monsters.v1:monster.section:kingfissure-worm
 scdc:
-  - 1.1.1:2.1:18
+  - 1.1.1:2.1:22
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -131,7 +131,7 @@ At the start of a kingfissure worm's turn or when an action's trigger occurs, yo
 > **2 Malice:** When the kingfissure worm uses the Charge main action, they ignore difficult terrain and automatically destroy mundane size 3 and smaller objects in the path of their charge. The first time the kingfissure worm moves through a creature's space during this charge, that creature takes 8 damage and is pushed up to 3 squares.
 
 <!-- -->
-> 🗡 **Consume 2 Malice**
+> 🗡 **Consume (2 Malice)**
 >
 > | **Melee**      |             **Main action** |
 > | -------------- | --------------------------: |

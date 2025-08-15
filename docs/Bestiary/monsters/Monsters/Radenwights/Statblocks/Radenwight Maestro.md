@@ -2,12 +2,12 @@
 file_basename: Radenwight Maestro
 file_dpath: Monsters/Radenwights/Statblocks
 item_id: radenwight-maestro
-item_index: '149'
+item_index: '151'
 item_name: Radenwight Maestro
 scc:
   - mcdm.monsters.v1:monster:radenwight-maestro
 scdc:
-  - 1.1.1:2:149
+  - 1.1.1:2:151
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -51,7 +51,7 @@ type: monster
 > **3 Malice:** Each ally within 3 squares of any target has a +2 bonus to speed until the end of their next turn.
 
 <!-- -->
-> ❗️ **Ever-Ready Rodent 2 Malice**
+> ❗️ **Ever-Ready Rodent (2 Malice)**
 >
 > | **Magic, Ranged** |      **Free triggered action** |
 > | ----------------- | -----------------------------: |

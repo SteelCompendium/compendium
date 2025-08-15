@@ -2,12 +2,12 @@
 file_basename: Elves High
 file_dpath: Monsters/Elves High
 item_id: elves-high
-item_index: '35'
+item_index: '41'
 item_name: Elves, High
 scc:
   - mcdm.monsters.v1:monster.section:elves-high
 scdc:
-  - 1.1.1:2.1:35
+  - 1.1.1:2.1:41
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -260,7 +260,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 > | --------------- | -------------: |
 > | **📏 1 burst**  | **🎯 Special** |
 >
-> **Effect:** Until the end of the next round, a cloud of blood vapor fills the area. The cloud blocks line of effect for enemies , and any enemy has damage weakness 3 while in the area. The bloodletter can then shift up to their speed, and can attempt to hide if they end that shift with concealment.
+> **Effect:** Until the end of the next round, a cloud of blood vapor fills the area. The cloud blocks line of effect for enemies, and any enemy has damage weakness 3 while in the area. The bloodletter can then shift up to their speed, and can attempt to hide if they end that shift with concealment.
 
 <!-- -->
 > ⭐️ **Otherworldly Grace**

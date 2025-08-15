@@ -2,12 +2,12 @@
 file_basename: Radenwights
 file_dpath: Monsters/Radenwights
 item_id: radenwights
-item_index: '31'
+item_index: '36'
 item_name: Radenwights
 scc:
   - mcdm.monsters.v1:monster.section:radenwights
 scdc:
-  - 1.1.1:2.1:31
+  - 1.1.1:2.1:36
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -392,7 +392,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 > **3 Malice:** Each ally within 3 squares of any target has a +2 bonus to speed until the end of their next turn.
 
 <!-- -->
-> ❗️ **Ever-Ready Rodent 2 Malice**
+> ❗️ **Ever-Ready Rodent (2 Malice)**
 >
 > | **Magic, Ranged** |      **Free triggered action** |
 > | ----------------- | -----------------------------: |

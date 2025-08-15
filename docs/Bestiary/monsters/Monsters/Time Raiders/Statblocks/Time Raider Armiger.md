@@ -2,12 +2,12 @@
 file_basename: Time Raider Armiger
 file_dpath: Monsters/Time Raiders/Statblocks
 item_id: time-raider-armiger
-item_index: '139'
+item_index: '141'
 item_name: Time Raider Armiger
 scc:
   - mcdm.monsters.v1:monster:time-raider-armiger
 scdc:
-  - 1.1.1:2:139
+  - 1.1.1:2:141
 source: mcdm.monsters.v1
 type: monster
 ---

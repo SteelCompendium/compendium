@@ -2,12 +2,12 @@
 file_basename: Wode Elf Warleader
 file_dpath: Monsters/Elves Wode/Statblocks
 item_id: wode-elf-warleader
-item_index: '232'
+item_index: '234'
 item_name: Wode Elf Warleader
 scc:
   - mcdm.monsters.v1:monster:wode-elf-warleader
 scdc:
-  - 1.1.1:2:232
+  - 1.1.1:2:234
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -44,7 +44,7 @@ type: monster
 > | --------------- | ---------------------------: |
 > | **📏 10 burst** | **🎯 Each ally in the area** |
 >
-> **Effect:** Each non-minion target can make a free strike, then each target shifts up to 3 squares . A target who has cover or concealment at the end of this shift can attempt to hide at the end of the warleader's turn.
+> **Effect:** Each non-minion target can make a free strike, then each target shifts up to 3 squares. A target who has cover or concealment at the end of this shift can attempt to hide at the end of the warleader's turn.
 
 <!-- -->
 > ❗️ **Wode Sickness**
@@ -60,7 +60,7 @@ type: monster
 <!-- -->
 > ⭐️ **End Effect**
 >
-> At the end of each of their turns, the warleader can take 5 damage to end one effect on them that can be ended by a saving throw . This damage can't be reduced in any way.
+> At the end of each of their turns, the warleader can take 5 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way.
 
 <!-- -->
 > ⭐️ **Into the Green**

@@ -2,12 +2,12 @@
 file_basename: Shadow Elf Eclipse
 file_dpath: Monsters/Elves Shadow/Statblocks
 item_id: shadow-elf-eclipse
-item_index: '217'
+item_index: '219'
 item_name: Shadow Elf Eclipse
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-eclipse
 scdc:
-  - 1.1.1:2:217
+  - 1.1.1:2:219
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -55,7 +55,7 @@ type: monster
 > | ---------------- | --------------------------: |
 > | **📏 Ranged 10** | **🎯 The triggering enemy** |
 >
-> **Trigger:** An enemy within distance uses an ability that emits light, including abilities that deal fire or lightning damage .
+> **Trigger:** An enemy within distance uses an ability that emits light, including abilities that deal fire or lightning damage.
 >
 > **Effect:** The target has a double bane on the ability.
 

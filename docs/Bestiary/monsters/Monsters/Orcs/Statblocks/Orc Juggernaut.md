@@ -2,12 +2,12 @@
 file_basename: Orc Juggernaut
 file_dpath: Monsters/Orcs/Statblocks
 item_id: orc-juggernaut
-item_index: '135'
+item_index: '137'
 item_name: Orc Juggernaut
 scc:
   - mcdm.monsters.v1:monster:orc-juggernaut
 scdc:
-  - 1.1.1:2:135
+  - 1.1.1:2:137
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -36,7 +36,7 @@ type: monster
 > **Effect:** A target who is already prone takes an extra 6 damage.
 
 <!-- -->
-> ❗️ **Hrraaaaaagh! 1 Malice**
+> ❗️ **Hrraaaaaagh! (1 Malice)**
 >
 > | **-**       | **Free triggered action** |
 > | ----------- | ------------------------: |

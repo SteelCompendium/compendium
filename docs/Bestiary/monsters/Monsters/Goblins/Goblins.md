@@ -2,12 +2,12 @@
 file_basename: Goblins
 file_dpath: Monsters/Goblins
 item_id: goblins
-item_index: '11'
+item_index: '15'
 item_name: Goblins
 scc:
   - mcdm.monsters.v1:monster.section:goblins
 scdc:
-  - 1.1.1:2.1:11
+  - 1.1.1:2.1:15
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -396,7 +396,7 @@ Most goblins speak Caelian and Szetch.
 > **Effect:** One ally within 10 squares of the monarch can make a free strike.
 
 <!-- -->
-> 🏹 **Get in Here! 1 Malice**
+> 🏹 **Get in Here! (1 Malice)**
 >
 > | **Ranged**       |   **Maneuver** |
 > | ---------------- | -------------: |
@@ -489,7 +489,7 @@ Most goblins speak Caelian and Szetch.
 > - **17+:** 12 damage
 
 <!-- -->
-> 👤 **Trample 5 Malice**
+> 👤 **Trample (5 Malice)**
 >
 > | **-**       | **Main action** |
 > | ----------- | --------------: |

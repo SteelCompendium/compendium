@@ -2,12 +2,12 @@
 file_basename: Frost Giant Storm Hurler
 file_dpath: Monsters/Giants/Statblocks
 item_id: frost-giant-storm-hurler
-item_index: '198'
+item_index: '200'
 item_name: Frost Giant Storm Hurler
 scc:
   - mcdm.monsters.v1:monster:frost-giant-storm-hurler
 scdc:
-  - 1.1.1:2:198
+  - 1.1.1:2:200
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: War Spider
 file_dpath: Monsters/Goblins/Statblocks
 item_id: war-spider
-item_index: '311'
+item_index: '313'
 item_name: War Spider
 scc:
   - mcdm.monsters.v1:monster:war-spider
 scdc:
-  - 1.1.1:2:311
+  - 1.1.1:2:313
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -49,7 +49,7 @@ type: monster
 > - **17+:** 12 damage
 
 <!-- -->
-> 👤 **Trample 5 Malice**
+> 👤 **Trample (5 Malice)**
 >
 > | **-**       | **Main action** |
 > | ----------- | --------------: |

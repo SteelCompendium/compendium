@@ -2,12 +2,12 @@
 file_basename: Orc Blitzer
 file_dpath: Monsters/Orcs/Statblocks
 item_id: orc-blitzer
-item_index: '131'
+item_index: '133'
 item_name: Orc Blitzer
 scc:
   - mcdm.monsters.v1:monster:orc-blitzer
 scdc:
-  - 1.1.1:2:131
+  - 1.1.1:2:133
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -127,7 +127,7 @@ At the start of a fossil cryptic's turn, you can spend Malice to activate one of
 > **2 Malice:** The ability targets one additional target.
 
 <!-- -->
-> ❗️ **Dissipate 1 Malice**
+> ❗️ **Dissipate (1 Malice)**
 >
 > | **-**       | **Triggered action** |
 > | ----------- | -------------------: |

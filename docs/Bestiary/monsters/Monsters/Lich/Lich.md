@@ -2,12 +2,12 @@
 file_basename: Lich
 file_dpath: Monsters/Lich
 item_id: lich
-item_index: '05'
+item_index: '06'
 item_name: Lich
 scc:
   - mcdm.monsters.v1:monster.section:lich
 scdc:
-  - 1.1.1:2.1:05
+  - 1.1.1:2.1:06
 source: mcdm.monsters.v1
 type: monster/section
 ---

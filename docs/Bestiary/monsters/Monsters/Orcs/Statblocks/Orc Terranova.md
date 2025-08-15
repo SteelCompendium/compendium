@@ -2,12 +2,12 @@
 file_basename: Orc Terranova
 file_dpath: Monsters/Orcs/Statblocks
 item_id: orc-terranova
-item_index: '128'
+item_index: '130'
 item_name: Orc Terranova
 scc:
   - mcdm.monsters.v1:monster:orc-terranova
 scdc:
-  - 1.1.1:2:128
+  - 1.1.1:2:130
 source: mcdm.monsters.v1
 type: monster
 ---

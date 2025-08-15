@@ -2,12 +2,12 @@
 file_basename: Shadow Elf Knightfell
 file_dpath: Monsters/Elves Shadow/Statblocks
 item_id: shadow-elf-knightfell
-item_index: '208'
+item_index: '210'
 item_name: Shadow Elf Knightfell
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-knightfell
 scdc:
-  - 1.1.1:2:208
+  - 1.1.1:2:210
 source: mcdm.monsters.v1
 type: monster
 ---

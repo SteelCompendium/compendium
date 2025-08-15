@@ -2,12 +2,12 @@
 file_basename: Orc Warleader
 file_dpath: Monsters/Orcs/Statblocks
 item_id: orc-warleader
-item_index: '126'
+item_index: '128'
 item_name: Orc Warleader
 scc:
   - mcdm.monsters.v1:monster:orc-warleader
 scdc:
-  - 1.1.1:2:126
+  - 1.1.1:2:128
 source: mcdm.monsters.v1
 type: monster
 ---

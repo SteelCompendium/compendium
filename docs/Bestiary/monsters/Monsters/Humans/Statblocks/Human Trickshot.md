@@ -2,12 +2,12 @@
 file_basename: Human Trickshot
 file_dpath: Monsters/Humans/Statblocks
 item_id: human-trickshot
-item_index: '158'
+item_index: '160'
 item_name: Human Trickshot
 scc:
   - mcdm.monsters.v1:monster:human-trickshot
 scdc:
-  - 1.1.1:2:158
+  - 1.1.1:2:160
 source: mcdm.monsters.v1
 type: monster
 ---

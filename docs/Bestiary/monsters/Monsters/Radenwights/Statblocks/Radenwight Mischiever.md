@@ -2,12 +2,12 @@
 file_basename: Radenwight Mischiever
 file_dpath: Monsters/Radenwights/Statblocks
 item_id: radenwight-mischiever
-item_index: '151'
+item_index: '153'
 item_name: Radenwight Mischiever
 scc:
   - mcdm.monsters.v1:monster:radenwight-mischiever
 scdc:
-  - 1.1.1:2:151
+  - 1.1.1:2:153
 source: mcdm.monsters.v1
 type: monster
 ---

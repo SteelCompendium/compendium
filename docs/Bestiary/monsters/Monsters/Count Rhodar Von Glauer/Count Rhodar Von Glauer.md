@@ -2,12 +2,12 @@
 file_basename: Count Rhodar Von Glauer
 file_dpath: Monsters/Count Rhodar Von Glauer
 item_id: count-rhodar-von-glauer
-item_index: '15'
+item_index: '19'
 item_name: Count Rhodar Von Glauer
 scc:
   - mcdm.monsters.v1:monster.section:count-rhodar-von-glauer
 scdc:
-  - 1.1.1:2.1:15
+  - 1.1.1:2.1:19
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -90,7 +90,7 @@ At the start of Rhodar's turn, you can spend Malice to activate one of the follo
 <!-- -->
 > ☠️ **Solo Monster**
 >
-> **End Effect:** At the end of each of his turns, Rhodar can take 20 dam- age to end one effect on him that can be ended by a saving throw . This damage can't be reduced in any way.
+> **End Effect:** At the end of each of his turns, Rhodar can take 20 dam- age to end one effect on him that can be ended by a saving throw. This damage can't be reduced in any way.
 >
 > **Solo Turns:** Rhodar can take two turns each round. He can't take turns consecutively.
 

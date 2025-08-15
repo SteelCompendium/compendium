@@ -2,12 +2,12 @@
 file_basename: Draconians
 file_dpath: Monsters/Draconians
 item_id: draconians
-item_index: '37'
+item_index: '43'
 item_name: Draconians
 scc:
   - mcdm.monsters.v1:monster.section:draconians
 scdc:
-  - 1.1.1:2.1:37
+  - 1.1.1:2.1:43
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -53,7 +53,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 <!-- -->
 > 👤 **Guarding Gale (3 Malice)**
 >
-> A draconian acting this turn flaps their wings and creates a mighty gale. Each creature adjacent to the draconian is pushed up to 4 squares, and if they have M < 2, , they are knocked prone.
+> A draconian acting this turn flaps their wings and creates a mighty gale. Each creature adjacent to the draconian is pushed up to 4 squares, and if they have M < 2, they are knocked prone.
 
 <!-- -->
 > 🔳 **Breath Weapon (5 Malice)**

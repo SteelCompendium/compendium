@@ -2,12 +2,12 @@
 file_basename: Radenwight Redeye
 file_dpath: Monsters/Radenwights/Statblocks
 item_id: radenwight-redeye
-item_index: '153'
+item_index: '155'
 item_name: Radenwight Redeye
 scc:
   - mcdm.monsters.v1:monster:radenwight-redeye
 scdc:
-  - 1.1.1:2:153
+  - 1.1.1:2:155
 source: mcdm.monsters.v1
 type: monster
 ---

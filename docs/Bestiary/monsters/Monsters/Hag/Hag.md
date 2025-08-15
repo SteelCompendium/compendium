@@ -2,12 +2,12 @@
 file_basename: Hag
 file_dpath: Monsters/Hag
 item_id: hag
-item_index: '13'
+item_index: '17'
 item_name: Hag
 scc:
   - mcdm.monsters.v1:monster.section:hag
 scdc:
-  - 1.1.1:2.1:13
+  - 1.1.1:2.1:17
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -141,7 +141,7 @@ The hag utters terrible words that push each enemy within 2 squares of them up t
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** The hag alters their body to become any size 1 creature, from a house cat to a humanoid. If the hag uses this ability while outside of any enemy's line of effect , they can choose to be automatically hidden. The hag can return to their original form as a free maneuver.
+> **Effect:** The hag alters their body to become any size 1 creature, from a house cat to a humanoid. If the hag uses this ability while outside of any enemy's line of effect, they can choose to be automatically hidden. The hag can return to their original form as a free maneuver.
 >
 > **5 Malice:** The hag becomes a size 2 creature instead, from a bear to an ogre. While in this form, the hag's melee abilities gain a +1 bonus to distance and deal an extra 4 damage.
 
@@ -212,7 +212,7 @@ The hag utters terrible words that push each enemy within 2 squares of them up t
 <!-- -->
 > **Hag Goodies**
 >
-> Hags collect, craft , and trade a variety of trinkets and talismans over the course of their lifetimes. Most of a hag's prized possessions-a stove with living human feet, a porcelain doll that cries real tears, a book that details the reader's most humiliating memories-are of no apparent use to anyone except perhaps for a museum of the macabre, but a few of a hag's baubles are more generally useful.
+> Hags collect, craft, and trade a variety of trinkets and talismans over the course of their lifetimes. Most of a hag's prized possessions-a stove with living human feet, a porcelain doll that cries real tears, a book that details the reader's most humiliating memories-are of no apparent use to anyone except perhaps for a museum of the macabre, but a few of a hag's baubles are more generally useful.
 >
 > The following are sample treasures from a hag's hut. A hag might have two or three of these goodies on hand and know how to obtain the others. These items can be found in Draw Steel: Heroes.
 >

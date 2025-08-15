@@ -2,12 +2,12 @@
 file_basename: Orc Rampart
 file_dpath: Monsters/Orcs/Statblocks
 item_id: orc-rampart
-item_index: '132'
+item_index: '134'
 item_name: Orc Rampart
 scc:
   - mcdm.monsters.v1:monster:orc-rampart
 scdc:
-  - 1.1.1:2:132
+  - 1.1.1:2:134
 source: mcdm.monsters.v1
 type: monster
 ---

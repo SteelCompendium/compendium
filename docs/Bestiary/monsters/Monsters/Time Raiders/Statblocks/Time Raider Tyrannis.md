@@ -2,12 +2,12 @@
 file_basename: Time Raider Tyrannis
 file_dpath: Monsters/Time Raiders/Statblocks
 item_id: time-raider-tyrannis
-item_index: '137'
+item_index: '139'
 item_name: Time Raider Tyrannis
 scc:
   - mcdm.monsters.v1:monster:time-raider-tyrannis
 scdc:
-  - 1.1.1:2:137
+  - 1.1.1:2:139
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Time Raider Hijack
 file_dpath: Monsters/Time Raiders/Statblocks
 item_id: time-raider-hijack
-item_index: '138'
+item_index: '140'
 item_name: Time Raider Hijack
 scc:
   - mcdm.monsters.v1:monster:time-raider-hijack
 scdc:
-  - 1.1.1:2:138
+  - 1.1.1:2:140
 source: mcdm.monsters.v1
 type: monster
 ---

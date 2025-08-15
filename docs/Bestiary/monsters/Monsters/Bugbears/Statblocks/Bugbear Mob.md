@@ -2,12 +2,12 @@
 file_basename: Bugbear Mob
 file_dpath: Monsters/Bugbears/Statblocks
 item_id: bugbear-mob
-item_index: '286'
+item_index: '288'
 item_name: Bugbear Mob
 scc:
   - mcdm.monsters.v1:monster:bugbear-mob
 scdc:
-  - 1.1.1:2:286
+  - 1.1.1:2:288
 source: mcdm.monsters.v1
 type: monster
 ---

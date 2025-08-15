@@ -2,12 +2,12 @@
 file_basename: Elves Shadow
 file_dpath: Monsters/Elves Shadow
 item_id: elves-shadow
-item_index: '23'
+item_index: '28'
 item_name: Elves, Shadow
 scc:
   - mcdm.monsters.v1:monster.section:elves-shadow
 scdc:
-  - 1.1.1:2.1:23
+  - 1.1.1:2.1:28
 source: mcdm.monsters.v1
 type: monster/section
 ---
@@ -513,7 +513,7 @@ At the start of any shadow elf's turn, you can spend Malice to activate one of t
 
 When under order of the Shadow Queen, shadow elf missions outside of Equinox are usually short, dangerous, and targeted. They rarely last more than a week or two, and the force often appears in Orden not far from their target. Mission goals trend towards the nefarious-kidnapping, assassination, theft, and general skullduggery are the order of the day.
 
-However, not every shadow elf force is affiliate d wit h th queen. Some are exiled rebels plotting their return, others independent groups searching for lost magic to restore their world, and yet others have left Equinox permanently to seek new lives in the caverns and deep woods of Orden. No matter their affiliation , these groups will brook no attempts to thwart their goals and are all deadly warriors.
+However, not every shadow elf force is affiliate d wit h th queen. Some are exiled rebels plotting their return, others independent groups searching for lost magic to restore their world, and yet others have left Equinox permanently to seek new lives in the caverns and deep woods of Orden. No matter their affiliation, these groups will brook no attempts to thwart their goals and are all deadly warriors.
 
 **Shadow Elf Sample Encounters**
 
@@ -565,7 +565,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
 > | ---------------- | --------------------------: |
 > | **📏 Ranged 10** | **🎯 The triggering enemy** |
 >
-> **Trigger:** An enemy within distance uses an ability that emits light, including abilities that deal fire or lightning damage .
+> **Trigger:** An enemy within distance uses an ability that emits light, including abilities that deal fire or lightning damage.
 >
 > **Effect:** The target has a double bane on the ability.
 
@@ -654,4 +654,4 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
 <!-- -->
 > ⭐️ **Wyrd Dyr**
 >
-> While they have line of effect to the brush stalker , any animal except another brush stalker is frightened
+> While they have line of effect to the brush stalker, any animal except another brush stalker is frightened

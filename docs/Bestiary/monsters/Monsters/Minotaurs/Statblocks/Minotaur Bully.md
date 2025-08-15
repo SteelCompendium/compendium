@@ -2,12 +2,12 @@
 file_basename: Minotaur Bully
 file_dpath: Monsters/Minotaurs/Statblocks
 item_id: minotaur-bully
-item_index: '174'
+item_index: '176'
 item_name: Minotaur Bully
 scc:
   - mcdm.monsters.v1:monster:minotaur-bully
 scdc:
-  - 1.1.1:2:174
+  - 1.1.1:2:176
 source: mcdm.monsters.v1
 type: monster
 ---

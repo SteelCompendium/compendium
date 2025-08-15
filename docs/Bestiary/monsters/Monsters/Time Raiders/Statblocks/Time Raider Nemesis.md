@@ -2,12 +2,12 @@
 file_basename: Time Raider Nemesis
 file_dpath: Monsters/Time Raiders/Statblocks
 item_id: time-raider-nemesis
-item_index: '140'
+item_index: '142'
 item_name: Time Raider Nemesis
 scc:
   - mcdm.monsters.v1:monster:time-raider-nemesis
 scdc:
-  - 1.1.1:2:140
+  - 1.1.1:2:142
 source: mcdm.monsters.v1
 type: monster
 ---

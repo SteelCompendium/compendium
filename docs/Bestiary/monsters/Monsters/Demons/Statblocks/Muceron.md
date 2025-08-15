@@ -2,12 +2,12 @@
 file_basename: Muceron
 file_dpath: Monsters/Demons/Statblocks
 item_id: muceron
-item_index: '275'
+item_index: '277'
 item_name: Muceron
 scc:
   - mcdm.monsters.v1:monster:muceron
 scdc:
-  - 1.1.1:2:275
+  - 1.1.1:2:277
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Frost Giant Wind Sprinter
 file_dpath: Monsters/Giants/Statblocks
 item_id: frost-giant-wind-sprinter
-item_index: '200'
+item_index: '202'
 item_name: Frost Giant Wind Sprinter
 scc:
   - mcdm.monsters.v1:monster:frost-giant-wind-sprinter
 scdc:
-  - 1.1.1:2:200
+  - 1.1.1:2:202
 source: mcdm.monsters.v1
 type: monster
 ---

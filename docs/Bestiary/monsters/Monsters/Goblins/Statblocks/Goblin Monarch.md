@@ -2,12 +2,12 @@
 file_basename: Goblin Monarch
 file_dpath: Monsters/Goblins/Statblocks
 item_id: goblin-monarch
-item_index: '306'
+item_index: '308'
 item_name: Goblin Monarch
 scc:
   - mcdm.monsters.v1:monster:goblin-monarch
 scdc:
-  - 1.1.1:2:306
+  - 1.1.1:2:308
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -36,7 +36,7 @@ type: monster
 > **Effect:** One ally within 10 squares of the monarch can make a free strike.
 
 <!-- -->
-> 🏹 **Get in Here! 1 Malice**
+> 🏹 **Get in Here! (1 Malice)**
 >
 > | **Ranged**       |   **Maneuver** |
 > | ---------------- | -------------: |

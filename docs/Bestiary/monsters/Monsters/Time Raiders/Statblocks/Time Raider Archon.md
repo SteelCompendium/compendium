@@ -2,12 +2,12 @@
 file_basename: Time Raider Archon
 file_dpath: Monsters/Time Raiders/Statblocks
 item_id: time-raider-archon
-item_index: '141'
+item_index: '143'
 item_name: Time Raider Archon
 scc:
   - mcdm.monsters.v1:monster:time-raider-archon
 scdc:
-  - 1.1.1:2:141
+  - 1.1.1:2:143
 source: mcdm.monsters.v1
 type: monster
 ---
