@@ -678,9 +678,7 @@ At the start of Lord Syuul's turn, you can spend Malice to activate one of the f
 > | ----------------- | ----------------------------: |
 > | **📏 10 burst**   | **🎯 Each enemy in the area** |
 >
-> **Effect:** Each target makes an Intuition test.
->
-> **Power Roll + 4:**
+> **Effect:** Each target makes an **Intuition test**.
 >
 > - **≤11:** 16 psychic damage; the target has no line of effect to any creture except Lord Syuul, and takes a bane on strikes targeting Lord Syuul (save ends)
 > - **12-16:** 13 psychic damage; the target has no line of effect to any creature except Lord Syuul (save ends)

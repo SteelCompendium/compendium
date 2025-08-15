@@ -131,9 +131,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 > | ----------------------- | -------------------------------: |
 > | **📏 4 cube within 10** | **🎯 Each creature in the area** |
 >
-> **Effect:** Each target makes an Agility test. The same condition is imposed on each affected target.
->
-> **Power Roll + 3:**
+> **Effect:** Each target makes an **Agility test**. The same condition is imposed on each affected target.
 >
 > - **≤11:** 5 fire damage; slowed or weakened (save ends)
 > - **12-16:** 5 fire damage; slowed or weakened (EoT)
