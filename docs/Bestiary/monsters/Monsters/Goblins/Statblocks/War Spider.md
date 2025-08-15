@@ -64,6 +64,8 @@ type: monster
 > | ---------------------- | -------------------------------: |
 > | **📏 3 cube within 1** | **🎯 Each creature in the area** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** A < 0 restrained (save ends)
 > - **12-16:** A < 1 restrained (save ends)
 > - **17+:** A < 2 restrained (save ends)

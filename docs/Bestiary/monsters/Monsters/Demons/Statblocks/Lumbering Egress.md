@@ -95,6 +95,6 @@ type: monster
 >
 > - **≤11:** 6 corruption damage; R < 2 weakened (save ends)
 > - **12-16:** 2 11 corruption damage; R < 3 weakened (save ends)
-> - **17+:** 3 14 corruption damage; R < 2 weakened (save ends)
+> - **17+:** 3 14 corruption damage; R < 4 weakened (save ends)
 >
 > **Effect:** The egress recalls and instantly destroys any minion allies on the encounter map. A torrent of churned-up minion bodies, blood, and ichor erupts from the egress, dealing an extra 1 damage for each minion destroyed this way.

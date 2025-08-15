@@ -36,11 +36,13 @@ type: monster
 > **Effect:** Each target must be on the ground, and the ground in each target's space rises 1 square.
 
 <!-- -->
-> ❇️ **Sinkhole 3 Malice**
+> ❇️ **Sinkhole (3 Malice)**
 >
 > | **Area, Weapon** |                          **Main action** |
 > | ---------------- | ---------------------------------------: |
 > | **📏 3 Burst**   | **🎯 Each enemy and object in the area** |
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** 4 damage; M < 0 restrained (save ends)
 > - **12-16:** 7 damage; M < 1 restrained (save ends)

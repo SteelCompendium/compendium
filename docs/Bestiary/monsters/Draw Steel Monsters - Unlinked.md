@@ -139,6 +139,8 @@ Plant creatures, such as the shambling mound, are made of vegetation. Like other
 
 ###### Soulless
 
+Soulless creatures do not have a soul, and are generally those who are created by another creature, such as many constructs, undead, and war dogs. There are a few abilities or other rules in the game that can only affect creatures with souls. Soulless creatures are immune to these effects. Likewise, if a rule only affects a creature without a soul, soulless creatures are the only valid targets for such effects.
+
 ###### Swarm
 
 Swarm creatures are actually more than one creature! When a whole bunch of creatures get together, whether a swarm of spiders or a swarm of minotaurs, they move and act together as if they were one creature.
@@ -1747,7 +1749,7 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 <!-- -->
 > ☠️ **I've Learned Their Tricks (Villain Action 2)**
 >
-> | **-**          |                         **-** |
+> | **Area**       |                         **-** |
 > | -------------- | ----------------------------: |
 > | **📏 3 burst** | **🎯 Each enemy in the area** |
 >
@@ -1804,7 +1806,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 <!-- -->
 > ❇️ **Resonating Croak (5 Malice)**
 >
-> Each angulotl in the encounter puffs out their throat and starts loudly droning Any non-angulotl adjacent to an angulotl makes an **Intuition test.**
+> Each angulotl in the encounter puffs out their throat and starts loudly droning. Any non-angulotl adjacent to an angulotl makes an **Intuition test.**
 >
 > - **≤11:** 5 sonic damage; slowed (EoT)
 > - **12-16:** 4 sonic damage
@@ -3234,7 +3236,7 @@ At the start of any basilisk's turn, you can spend Malice to activate one of the
 >
 > - **≤11:** A < 0 restrained (save ends)
 > - **12-16:** A < 1 restrained (save ends)
-> - **17+:** Slowed (save ends); or if M < 2 restrained (save ends)
+> - **17+:** Slowed (save ends); or if A < 2 restrained (save ends)
 >
 > **Effect:** If a target is already slowed, the potency increases by 1 for that target. A target restrained this way magically begins to turn to stone, and a target who ends two consecutive turns restrained this way is petrified. A target restrained this way or a creature adjacent to them can use a main action to cut encroaching stone from the target’s body, dealing 8 damage to the target that can’t be reduced in any way and ending this effect.
 
@@ -4282,8 +4284,6 @@ At the start of any demon's turn, you can spend Malice to activate one of the fo
 > | ----------------- | ----------------------: |
 > | **📏 Ranged 10**  | **🎯 Self or one ally** |
 >
-> **Power Roll + 2:**
->
 > **Effect:** The target is invisible until the start of their next turn. They can then move up to 3 squares and attempt to hide.
 
 <!-- -->
@@ -4993,7 +4993,7 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 >
 > - **≤11:** 6 corruption damage; R < 2 weakened (save ends)
 > - **12-16:** 2 11 corruption damage; R < 3 weakened (save ends)
-> - **17+:** 3 14 corruption damage; R < 2 weakened (save ends)
+> - **17+:** 3 14 corruption damage; R < 4 weakened (save ends)
 >
 > **Effect:** The egress recalls and instantly destroys any minion allies on the encounter map. A torrent of churned-up minion bodies, blood, and ichor erupts from the egress, dealing an extra 1 damage for each minion destroyed this way.
 
@@ -6500,7 +6500,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 | Draconian, Dragon, Humanoid |          -          |      Level 6       |    Elite Artillery    |        EV 32         |
 | :-------------------------: | :-----------------: | :----------------: | :-------------------: | :------------------: |
 |       **1M**<br>Size        |   **5**<br>Speed    | **140**<br>Stamina |  **2**<br>Stability   | **7**<br>Free Strike |
-|   **Acid 6**<br>Immunity    | **Fly**<br>Movement |         -          | **-**<br>With Captain | **-**<br>Weaknesses  |
+|   **Cold 6**<br>Immunity    | **Fly**<br>Movement |         -          | **-**<br>With Captain | **-**<br>Weaknesses  |
 |       **-1**<br>Might       |  **+3**<br>Agility  |  **+3**<br>Reason  |  **+3**<br>Intuition  |  **+1**<br>Presence  |
 
 <!-- -->
@@ -6620,7 +6620,7 @@ At the start of any draconian's turn, you can spend Malice to activate one of th
 | Draconian, Dragon, Humanoid |          -          |      Level 6       |      Elite Brute      |        EV 32         |
 | :-------------------------: | :-----------------: | :----------------: | :-------------------: | :------------------: |
 |       **1L**<br>Size        |   **5**<br>Speed    | **180**<br>Stamina |  **3**<br>Stability   | **7**<br>Free Strike |
-|   **Acid 6**<br>Immunity    | **Fly**<br>Movement |         -          | **-**<br>With Captain | **-**<br>Weaknesses  |
+|   **Fire 6**<br>Immunity    | **Fly**<br>Movement |         -          | **-**<br>With Captain | **-**<br>Weaknesses  |
 |       **+3**<br>Might       |  **+2**<br>Agility  |  **+0**<br>Reason  |  **+0**<br>Intuition  |  **+3**<br>Presence  |
 
 <!-- -->
@@ -7177,9 +7177,7 @@ Eerie myths surround the gloom dragons, for they wield languages they do not the
 > | ----------------------- | ---------------------------------------: |
 > | **📏 4 cube within 10** | **🎯 Each enemy and object in the area** |
 >
-> **Effect:** Each target makes an Agility test.
->
-> **Power Roll + 4:**
+> **Effect:** Each target makes an **Agility test**.
 >
 > - **≤11:** 14 cold damage; the target is dragonsealed (save ends)
 > - **12-16:** 11 cold damage; the target is dragonsealed (save ends)
@@ -8927,7 +8925,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 <!-- -->
 > ⭐️ **Otherworldly Grace**
 >
-> At the start of each of their turns, the quiver can choose one effect on them that can be ended by a saving throw. They change the duration of the effect to instead end at the end of their turn
+> At the start of each of their turns, the quiver can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn.
 
 **<span class="steel-compendium-statblock">Soot Crow</span>**
 
@@ -12141,7 +12139,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 > - **12-16:** 11 damage; A < 2 bleeding (save ends)
 > - **17+:** 14 damage; A < 3 bleeding and dazed (save ends)
 >
-> **Effect:** An ally by this ability ignores the damage and can make a free strike.
+> **Effect:** An ally targeted by this ability ignores the damage and can make a free strike.
 
 <!-- -->
 > ❇️ **Carnage's Cackletongue (4 Malice)**
@@ -12553,7 +12551,7 @@ Most goblins speak Caelian and Szetch.
 >
 > - **≤11:** 5 damage; M < 0 bleeding (save ends)
 > - **12-16:** 6 damage; M < 1 bleeding (save ends)
-> - **17+:** 7 damage; M < 3 bleeding (save ends)
+> - **17+:** 7 damage; M < 2 bleeding (save ends)
 
 <!-- -->
 > ⭐️ **Crafty**
@@ -12691,6 +12689,8 @@ Most goblins speak Caelian and Szetch.
 > | **Area, Weapon**       |                     **Maneuver** |
 > | ---------------------- | -------------------------------: |
 > | **📏 3 cube within 1** | **🎯 Each creature in the area** |
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** A < 0 restrained (save ends)
 > - **12-16:** A < 1 restrained (save ends)
@@ -13511,7 +13511,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 > - **12-16:** 11 damage
 > - **17+:** 14 damage
 >
-> **Effect:** Each target is pushed up to 10 squares within the area, and the grandguard shifts into the area behind by the targets
+> **Effect:** Each target is pushed up to 10 squares in the same direction, and the grandguard shifts into the area left behind by the targets.
 
 <!-- -->
 > ⭐️ **Wide Guard**
@@ -14534,7 +14534,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 > | ----------- | ----------: |
 > | **📏 Self** | **🎯 Self** |
 >
-> **Effect:** The bandit chief shifts up to 10 squares. During or after this movement, they can use their Whip and Magic Longsword against up to four targets. Additionally, one ally adjacent to each target can make a free strike against that target.
+> **Effect:** The bandit chief shifts up to 10 squares regardless of their speed. During or after this movement, they can use their Whip and Magic Longsword against up to four targets. Additionally, one ally adjacent to each target can make a free strike against that target.
 
 **<span class="steel-compendium-statblock">Giant Hawk</span>**
 
@@ -15228,8 +15228,6 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 >
 > **Effect:** Until the start of the centurion's next turn, the centurion and their allies gain an edge on power rolls against the target.
 >
-> **3 Malice:** While weakened this way, a target is also restrained.
->
 > **3+ Malice:** This ability targets one additional target for each 3 Malice spent.
 
 <!-- -->
@@ -15278,7 +15276,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 <!-- -->
 > ⭐️ **Shield? Shield!**
 >
-> While adjacent to an ally who also has this trait, the venator has stability 1, has cover, and grants cover to allies.
+> While adjacent to an ally who also has this trait, the centurion has stability 3, has cover, and grants cover to allies.
 
 **<span class="steel-compendium-statblock">Shieldscale Drangolin</span>**
 
@@ -15358,7 +15356,7 @@ Though lightbenders are typically solitary creatures, they sometimes cross into 
 At the start of any lightbender's turn, you can spend Malice to activate one of the following features.
 
 <!-- -->
-> ⭐️ **Silent Prow (3 Malice)**
+> ⭐️ **Silent Prowl (3 Malice)**
 >
 > Each lightbender acting this turn can teleport up to their speed as a move action and attempt to hide as a free maneuver, all until the start of their next turn.
 
@@ -16196,9 +16194,9 @@ At the start of a medusa's turn, you can spend Malice to activate one of the fol
 > **Effect:** The medusa shifts up to 3 squares and can attempt to hide even if observed.
 
 <!-- -->
-> ❗️ **Venomous Spit**
+> ❗️ **Venomous Spit (2 Malice)**
 >
-> | **Melee**      |                   **Maneuver** |
+> | **Melee**      |           **Triggered action** |
 > | -------------- | -----------------------------: |
 > | **📏 Melee 1** | **🎯 The triggering creature** |
 >
@@ -16335,6 +16333,8 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 > | --------------------------------- | ----------------------------: |
 > | **📏 Melee 2**                    | **🎯 One creature or object** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** 5 damage; I < 0 dazed (save ends)
 > - **12-16:** 8 damage; I < 1 dazed (save ends)
 > - **17+:** 9 damage; I < 2 dazed (save ends)
@@ -16387,6 +16387,8 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 > | -------------- | ----------------------------: |
 > | **📏 3 burst** | **🎯 Each enemy in the area** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** I < 0 frightened (save ends)
 > - **12-16:** I < 1 frightened (save ends)
 > - **17+:** I < 2 frightened (save ends)
@@ -16401,6 +16403,8 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 > | **📏 Melee 2**                    | **🎯 One creature** |
 >
 > **Special:** The target must be grabbed by the sunderer.
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** 5 damage; M < 0 bleeding (save ends)
 > - **12-16:** 8 damage; M < 1 bleeding (save ends)
@@ -16622,7 +16626,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 > **Effect:** The goon slides the target up to 5 squares
 
 <!-- -->
-> ⭐️ **Defiant Ange**
+> ⭐️ **Defiant Anger**
 >
 > While winded, the goon has damage immunity 2.
 
@@ -16694,7 +16698,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 > The juggernaut automatically destroys any mundane size 1 objects in their path when they move or are forced moved. They can break through any mundane wall made of wood, stone, or a similarly sturdy material this way as long as the wall is 2 squares thick or less.
 
 <!-- -->
-> ⭐️ **Defiant Ange**
+> ⭐️ **Defiant Anger**
 >
 > While winded, the juggernaut has damage immunity 2.
 
@@ -16766,9 +16770,9 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 > Whenever the blue blood would make a free strike, an ally within 5 squares can make a free strike instead.
 
 <!-- -->
-> ⭐️ **Defiant Ange**
+> ⭐️ **Royal Anger**
 >
-> While winded, the blue blood has damage immunity 2.
+> The blue blood has damage immunity 2 while their squad has three or fewer minions in it.
 
 **<span class="steel-compendium-statblock">Ogre Tantrum</span>**
 
@@ -16798,7 +16802,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 <!-- -->
 > ⭐️ **Excessive Anger**
 >
-> While winded, the tantrum has damage immunity 3 and speed 8.
+> The tantrum has damage immunity 3 and speed 8 while their squad has two or fewer minions in it.
 
 ## Olothec
 
@@ -16828,6 +16832,16 @@ Most olothec communicate telepathically using Mindspeech and speak Urollialic. M
 > **Content Warning: Body Horror**
 >
 > Most olothec are creatures of incomprehensible evil who use their psionic might to reshape the flesh of their enemies. Their stat blocks contain strong elements of body horror. You should feel free to modify any of these effects for the safety of you and your players.
+
+##### Slime Servants
+
+Slime servants are creatures who have been changed through the powers of the olothec. Their flesh devolves into a translucent primordial state, and they lose their memories and sense of self, becoming a slime servant NPC who is loyal to the olothec. The slime servant retains all their original statistics and gains the following traits:
+
+- **Being of the Deep.** The slime servant can breathe air and water. Additionally, they can automatically swim at full speed while moving.
+- **Dulled Mind.** The slime servant can’t be frightened or taunted.
+- **Servant Senses.** The olothec can sense anything the slime servant senses, and if the slime servant can speak, the olothec can speak through their body.
+
+Only technology from the upper worlds, particularly products of evolutionary advancements made by the voiceless talkers, can restore a slime servant’s memories and return them to their original state.
 
 **<span class="steel-compendium-malice">Olothec Malice</span>**
 
@@ -17295,7 +17309,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 > The eye has an affinity for one of the following damage types cold, fire, or lightning. The chosen type determines the eye's damage immunity and the damage dealt by their abilities.
 
 <!-- -->
-> 🏹 **Elemental Discharge (3 Malice)**
+> 🏹 **Elemental Discharge (Signature Ability)**
 >
 > | **Magic, Ranged, Strike** |               **Main action** |
 > | ------------------------- | ----------------------------: |
@@ -17310,7 +17324,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 > **Effect:** This ability deals cold, fire, or lightning damage.
 
 <!-- -->
-> 🔳 **Elemental Discharge (3 Malice)**
+> 🔳 **Power Burst (3 Malice)**
 >
 > | **Area, Magic**            |               **Main action** |
 > | -------------------------- | ----------------------------: |
@@ -17320,7 +17334,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 >
 > - **≤11:** 3 damage; push 2
 > - **12-16:** 5 damage; push 3
-> - **17+:** 3 damage; push 4, prone
+> - **17+:** 8 damage; push 4, prone
 >
 > **Effect:** This ability deals cold, fire, or lightning damage, and any enemy targeted by the ability has damage weakness 3 to the same damage type (save ends).
 
@@ -17543,11 +17557,13 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 > **Effect:** Each target must be on the ground, and the ground in each target's space rises 1 square.
 
 <!-- -->
-> ❇️ **Sinkhole 3 Malice**
+> ❇️ **Sinkhole (3 Malice)**
 >
 > | **Area, Weapon** |                          **Main action** |
 > | ---------------- | ---------------------------------------: |
 > | **📏 3 Burst**   | **🎯 Each enemy and object in the area** |
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** 4 damage; M < 0 restrained (save ends)
 > - **12-16:** 7 damage; M < 1 restrained (save ends)
@@ -17776,9 +17792,9 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 <!-- -->
 > 🗡 **Trouser Cut (3 Malice)**
 >
-> | **Magic, Melee, Ranged** |     **Main action** |
-> | ------------------------ | ------------------: |
-> | **📏 Melee 1**           | **🎯 One creature** |
+> | **Magic, Melee** |     **Main action** |
+> | ---------------- | ------------------: |
+> | **📏 Melee 1**   | **🎯 One creature** |
 >
 > **Power Roll + 2:**
 >
@@ -18110,7 +18126,7 @@ At the start of any radenwight's turn, you can spend Malice to activate one of t
 > **Effect:** Each ally within distance can use Ready Rodent as a free triggered action once before the end of the round.
 
 <!-- -->
-> 🏹 **Tempo Change**
+> 🏹 **Tempo Changer**
 >
 > | **Magic, Ranged, Strike** |       **Maneuver** |
 > | ------------------------- | -----------------: |
@@ -19562,7 +19578,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 | :---------------: | :---------------: | :----------------: | :-------------------: | :-------------------: |
 |  **1M**<br>Size   |  **5**<br>Speed   | **220**<br>Stamina |  **2**<br>Stability   | **10**<br>Free Strike |
 | **-**<br>Immunity | **-**<br>Movement |         -          | **-**<br>With Captain |  **-**<br>Weaknesses  |
-|  **+5**<br>Might  | **+2**<br>Agility |  **+4**<br>Reason  |  **0**<br>Intuition   |   **+**<br>Presence   |
+|  **+5**<br>Might  | **+2**<br>Agility |  **+4**<br>Reason  |  **0**<br>Intuition   |  **+3**<br>Presence   |
 
 <!-- -->
 > 🏹 **Forward Assault (Signature Ability)**
@@ -22322,7 +22338,7 @@ Each new moon, when the Red Tax came due, the count would visit a young candidat
 
 Eventually, the conquering force of Emperor Gaius VIII came for Rhodar-not because he was a vampire, but because the empire wanted his land and people. Count von Glauer was staked, and his body burned to ash. The emperor kept the Rod of Count Rhodar von Glauer as a trophy, and with this symbol of authority, he sealed his claim to the land.
 
-Under new rule, Rhodar's people lament the absence of their lord, recalling the time before the coming of the empire as a golden age. But the witches' whispers can still be heard. For as long as the people of Glauer persist, they continue believ¬ing their Dragon Count will return in their darkest hour to deliver them from tyranny.
+Under new rule, Rhodar's people lament the absence of their lord, recalling the time before the coming of the empire as a golden age. But the witches' whispers can still be heard. For as long as the people of Glauer persist, they continue believing their Dragon Count will return in their darkest hour to deliver them from tyranny.
 
 ### Excerpt from the Chronicle of the Chain of Acheron
 
@@ -22467,7 +22483,7 @@ At the start of Rhodar's turn, you can spend Malice to activate one of the follo
 > **Effect:** Rhodar shifts up to his speed before or after using this ability He regains Stamina equal to half the total corruption damage dealt.
 
 <!-- -->
-> 🔳 **Vengeance of Rhöl**
+> 🔳 **Vengeance of Rhöl (2 Malice)**
 >
 > | **Area, Magic, Ranged**     |   **Maneuver** |
 > | --------------------------- | -------------: |
@@ -22959,9 +22975,7 @@ Most valok communicate exclusively in Rallarian.
 > | ------------------------ | ---------------------------------------: |
 > | **📏 3 cube within 5**   | **🎯 Each enemy and object in the area** |
 >
-> **Effect:** Each target must make either an Agility test or an Intuition test.
->
-> **Power Roll + 4:**
+> **Effect:** Each target must make either an Agility test or an **Intuition test**.
 >
 > - **≤11:** 15 damage; push 5, prone
 > - **12-16:** 12 damage; push 3
@@ -23010,6 +23024,8 @@ Most valok communicate exclusively in Rallarian.
 > | **📏 Melee 3** | **🎯 The triggering creature or object** |
 >
 > **Trigger:** A creature or object within distance deals damage to the builder.
+>
+> **Power Roll + 4:**
 >
 > - **≤11:** A < 2 restrained (save ends)
 > - **12-16:** A < 3 restrained (save ends)

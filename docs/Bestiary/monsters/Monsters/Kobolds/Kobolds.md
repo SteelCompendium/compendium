@@ -461,8 +461,6 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 >
 > **Effect:** Until the start of the centurion's next turn, the centurion and their allies gain an edge on power rolls against the target.
 >
-> **3 Malice:** While weakened this way, a target is also restrained.
->
 > **3+ Malice:** This ability targets one additional target for each 3 Malice spent.
 
 <!-- -->
@@ -511,7 +509,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 <!-- -->
 > ⭐️ **Shield? Shield!**
 >
-> While adjacent to an ally who also has this trait, the venator has stability 1, has cover, and grants cover to allies.
+> While adjacent to an ally who also has this trait, the centurion has stability 3, has cover, and grants cover to allies.
 
 ###### Shieldscale Drangolin
 

@@ -87,6 +87,8 @@ Plant creatures, such as the shambling mound, are made of vegetation. Like other
 
 ###### Soulless
 
+Soulless creatures do not have a soul, and are generally those who are created by another creature, such as many constructs, undead, and war dogs. There are a few abilities or other rules in the game that can only affect creatures with souls. Soulless creatures are immune to these effects. Likewise, if a rule only affects a creature without a soul, soulless creatures are the only valid targets for such effects.
+
 ###### Swarm
 
 Swarm creatures are actually more than one creature! When a whole bunch of creatures get together, whether a swarm of spiders or a swarm of minotaurs, they move and act together as if they were one creature.

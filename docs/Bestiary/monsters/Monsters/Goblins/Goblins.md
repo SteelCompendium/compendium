@@ -365,7 +365,7 @@ Most goblins speak Caelian and Szetch.
 >
 > - **≤11:** 5 damage; M < 0 bleeding (save ends)
 > - **12-16:** 6 damage; M < 1 bleeding (save ends)
-> - **17+:** 7 damage; M < 3 bleeding (save ends)
+> - **17+:** 7 damage; M < 2 bleeding (save ends)
 
 <!-- -->
 > ⭐️ **Crafty**
@@ -503,6 +503,8 @@ Most goblins speak Caelian and Szetch.
 > | **Area, Weapon**       |                     **Maneuver** |
 > | ---------------------- | -------------------------------: |
 > | **📏 3 cube within 1** | **🎯 Each creature in the area** |
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** A < 0 restrained (save ends)
 > - **12-16:** A < 1 restrained (save ends)

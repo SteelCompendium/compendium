@@ -128,7 +128,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 > **Effect:** The goon slides the target up to 5 squares
 
 <!-- -->
-> ⭐️ **Defiant Ange**
+> ⭐️ **Defiant Anger**
 >
 > While winded, the goon has damage immunity 2.
 
@@ -200,7 +200,7 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 > The juggernaut automatically destroys any mundane size 1 objects in their path when they move or are forced moved. They can break through any mundane wall made of wood, stone, or a similarly sturdy material this way as long as the wall is 2 squares thick or less.
 
 <!-- -->
-> ⭐️ **Defiant Ange**
+> ⭐️ **Defiant Anger**
 >
 > While winded, the juggernaut has damage immunity 2.
 
@@ -272,9 +272,9 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 > Whenever the blue blood would make a free strike, an ally within 5 squares can make a free strike instead.
 
 <!-- -->
-> ⭐️ **Defiant Ange**
+> ⭐️ **Royal Anger**
 >
-> While winded, the blue blood has damage immunity 2.
+> The blue blood has damage immunity 2 while their squad has three or fewer minions in it.
 
 ###### Ogre Tantrum
 
@@ -304,4 +304,4 @@ At the start of any ogre's turn, you can spend Malice to activate one of the fol
 <!-- -->
 > ⭐️ **Excessive Anger**
 >
-> While winded, the tantrum has damage immunity 3 and speed 8.
+> The tantrum has damage immunity 3 and speed 8 while their squad has two or fewer minions in it.

@@ -163,7 +163,7 @@ type: monster
 <!-- -->
 > ☠️ **I've Learned Their Tricks (Villain Action 2)**
 >
-> | **-**          |                         **-** |
+> | **Area**       |                         **-** |
 > | -------------- | ----------------------------: |
 > | **📏 3 burst** | **🎯 Each enemy in the area** |
 >

@@ -307,7 +307,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 > The eye has an affinity for one of the following damage types cold, fire, or lightning. The chosen type determines the eye's damage immunity and the damage dealt by their abilities.
 
 <!-- -->
-> 🏹 **Elemental Discharge (3 Malice)**
+> 🏹 **Elemental Discharge (Signature Ability)**
 >
 > | **Magic, Ranged, Strike** |               **Main action** |
 > | ------------------------- | ----------------------------: |
@@ -322,7 +322,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 > **Effect:** This ability deals cold, fire, or lightning damage.
 
 <!-- -->
-> 🔳 **Elemental Discharge (3 Malice)**
+> 🔳 **Power Burst (3 Malice)**
 >
 > | **Area, Magic**            |               **Main action** |
 > | -------------------------- | ----------------------------: |
@@ -332,7 +332,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 >
 > - **≤11:** 3 damage; push 2
 > - **12-16:** 5 damage; push 3
-> - **17+:** 3 damage; push 4, prone
+> - **17+:** 8 damage; push 4, prone
 >
 > **Effect:** This ability deals cold, fire, or lightning damage, and any enemy targeted by the ability has damage weakness 3 to the same damage type (save ends).
 
@@ -555,11 +555,13 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 > **Effect:** Each target must be on the ground, and the ground in each target's space rises 1 square.
 
 <!-- -->
-> ❇️ **Sinkhole 3 Malice**
+> ❇️ **Sinkhole (3 Malice)**
 >
 > | **Area, Weapon** |                          **Main action** |
 > | ---------------- | ---------------------------------------: |
 > | **📏 3 Burst**   | **🎯 Each enemy and object in the area** |
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** 4 damage; M < 0 restrained (save ends)
 > - **12-16:** 7 damage; M < 1 restrained (save ends)

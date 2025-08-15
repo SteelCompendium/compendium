@@ -41,6 +41,16 @@ Most olothec communicate telepathically using Mindspeech and speak Urollialic. M
 >
 > Most olothec are creatures of incomprehensible evil who use their psionic might to reshape the flesh of their enemies. Their stat blocks contain strong elements of body horror. You should feel free to modify any of these effects for the safety of you and your players.
 
+##### Slime Servants
+
+Slime servants are creatures who have been changed through the powers of the olothec. Their flesh devolves into a translucent primordial state, and they lose their memories and sense of self, becoming a slime servant NPC who is loyal to the olothec. The slime servant retains all their original statistics and gains the following traits:
+
+- **Being of the Deep.** The slime servant can breathe air and water. Additionally, they can automatically swim at full speed while moving.
+- **Dulled Mind.** The slime servant can't be frightened or taunted.
+- **Servant Senses.** The olothec can sense anything the slime servant senses, and if the slime servant can speak, the olothec can speak through their body.
+
+Only technology from the upper worlds, particularly products of evolutionary advancements made by the voiceless talkers, can restore a slime servant's memories and return them to their original state.
+
 ###### Olothec Malice
 
 At the start of an olothec's turn, you can spend Malice to activate one of the following features.

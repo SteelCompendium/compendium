@@ -232,9 +232,7 @@ Most valok communicate exclusively in Rallarian.
 > | ------------------------ | ---------------------------------------: |
 > | **📏 3 cube within 5**   | **🎯 Each enemy and object in the area** |
 >
-> **Effect:** Each target must make either an Agility test or an Intuition test.
->
-> **Power Roll + 4:**
+> **Effect:** Each target must make either an Agility test or an **Intuition test**.
 >
 > - **≤11:** 15 damage; push 5, prone
 > - **12-16:** 12 damage; push 3
@@ -283,6 +281,8 @@ Most valok communicate exclusively in Rallarian.
 > | **📏 Melee 3** | **🎯 The triggering creature or object** |
 >
 > **Trigger:** A creature or object within distance deals damage to the builder.
+>
+> **Power Roll + 4:**
 >
 > - **≤11:** A < 2 restrained (save ends)
 > - **12-16:** A < 3 restrained (save ends)

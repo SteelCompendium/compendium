@@ -98,7 +98,7 @@ type: monster
 > **Effect:** Rhodar shifts up to his speed before or after using this ability He regains Stamina equal to half the total corruption damage dealt.
 
 <!-- -->
-> 🔳 **Vengeance of Rhöl**
+> 🔳 **Vengeance of Rhöl (2 Malice)**
 >
 > | **Area, Magic, Ranged**     |   **Maneuver** |
 > | --------------------------- | -------------: |

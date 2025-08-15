@@ -170,7 +170,7 @@ At the start of any high elf's turn, you can spend Malice to activate one of the
 <!-- -->
 > ⭐️ **Otherworldly Grace**
 >
-> At the start of each of their turns, the quiver can choose one effect on them that can be ended by a saving throw. They change the duration of the effect to instead end at the end of their turn
+> At the start of each of their turns, the quiver can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn.
 
 ###### Soot Crow
 

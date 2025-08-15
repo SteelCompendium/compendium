@@ -44,7 +44,7 @@ type: monster
 >
 > - **≤11:** 5 damage; M < 0 bleeding (save ends)
 > - **12-16:** 6 damage; M < 1 bleeding (save ends)
-> - **17+:** 7 damage; M < 3 bleeding (save ends)
+> - **17+:** 7 damage; M < 2 bleeding (save ends)
 
 <!-- -->
 > ⭐️ **Crafty**

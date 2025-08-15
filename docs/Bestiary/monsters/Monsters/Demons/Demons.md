@@ -238,8 +238,6 @@ At the start of any demon's turn, you can spend Malice to activate one of the fo
 > | ----------------- | ----------------------: |
 > | **📏 Ranged 10**  | **🎯 Self or one ally** |
 >
-> **Power Roll + 2:**
->
 > **Effect:** The target is invisible until the start of their next turn. They can then move up to 3 squares and attempt to hide.
 
 <!-- -->
@@ -949,7 +947,7 @@ At the start of any level 4 or higher demon's turn, you can spend Malice to acti
 >
 > - **≤11:** 6 corruption damage; R < 2 weakened (save ends)
 > - **12-16:** 2 11 corruption damage; R < 3 weakened (save ends)
-> - **17+:** 3 14 corruption damage; R < 2 weakened (save ends)
+> - **17+:** 3 14 corruption damage; R < 4 weakened (save ends)
 >
 > **Effect:** The egress recalls and instantly destroys any minion allies on the encounter map. A torrent of churned-up minion bodies, blood, and ichor erupts from the egress, dealing an extra 1 damage for each minion destroyed this way.
 

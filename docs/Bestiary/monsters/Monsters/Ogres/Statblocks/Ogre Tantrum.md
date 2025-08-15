@@ -40,4 +40,4 @@ type: monster
 <!-- -->
 > ⭐️ **Excessive Anger**
 >
-> While winded, the tantrum has damage immunity 3 and speed 8.
+> The tantrum has damage immunity 3 and speed 8 while their squad has two or fewer minions in it.

@@ -295,7 +295,7 @@ At the start of Ajax's turn, you can spend Malice to activate one of the followi
 <!-- -->
 > ☠️ **I've Learned Their Tricks (Villain Action 2)**
 >
-> | **-**          |                         **-** |
+> | **Area**       |                         **-** |
 > | -------------- | ----------------------------: |
 > | **📏 3 burst** | **🎯 Each enemy in the area** |
 >

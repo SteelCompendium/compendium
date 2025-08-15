@@ -77,6 +77,6 @@ type: monster
 > **Effect:** The goon slides the target up to 5 squares
 
 <!-- -->
-> ⭐️ **Defiant Ange**
+> ⭐️ **Defiant Anger**
 >
 > While winded, the goon has damage immunity 2.

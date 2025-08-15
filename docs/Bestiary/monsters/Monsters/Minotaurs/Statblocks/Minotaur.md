@@ -51,6 +51,8 @@ type: monster
 > | --------------------------------- | ----------------------------: |
 > | **📏 Melee 2**                    | **🎯 One creature or object** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** 5 damage; I < 0 dazed (save ends)
 > - **12-16:** 8 damage; I < 1 dazed (save ends)
 > - **17+:** 9 damage; I < 2 dazed (save ends)

@@ -407,9 +407,7 @@ Eerie myths surround the gloom dragons, for they wield languages they do not the
 > | ----------------------- | ---------------------------------------: |
 > | **📏 4 cube within 10** | **🎯 Each enemy and object in the area** |
 >
-> **Effect:** Each target makes an Agility test.
->
-> **Power Roll + 4:**
+> **Effect:** Each target makes an **Agility test**.
 >
 > - **≤11:** 14 cold damage; the target is dragonsealed (save ends)
 > - **12-16:** 11 cold damage; the target is dragonsealed (save ends)

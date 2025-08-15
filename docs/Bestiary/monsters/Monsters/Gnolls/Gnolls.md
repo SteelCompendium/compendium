@@ -449,7 +449,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 > - **12-16:** 11 damage; A < 2 bleeding (save ends)
 > - **17+:** 14 damage; A < 3 bleeding and dazed (save ends)
 >
-> **Effect:** An ally by this ability ignores the damage and can make a free strike.
+> **Effect:** An ally targeted by this ability ignores the damage and can make a free strike.
 
 <!-- -->
 > ❇️ **Carnage's Cackletongue (4 Malice)**

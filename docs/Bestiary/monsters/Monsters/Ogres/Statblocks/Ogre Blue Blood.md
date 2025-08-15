@@ -41,6 +41,6 @@ type: monster
 > Whenever the blue blood would make a free strike, an ally within 5 squares can make a free strike instead.
 
 <!-- -->
-> ⭐️ **Defiant Ange**
+> ⭐️ **Royal Anger**
 >
-> While winded, the blue blood has damage immunity 2.
+> The blue blood has damage immunity 2 while their squad has three or fewer minions in it.

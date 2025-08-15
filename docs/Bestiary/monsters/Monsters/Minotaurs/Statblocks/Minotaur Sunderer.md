@@ -42,6 +42,8 @@ type: monster
 > | -------------- | ----------------------------: |
 > | **📏 3 burst** | **🎯 Each enemy in the area** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** I < 0 frightened (save ends)
 > - **12-16:** I < 1 frightened (save ends)
 > - **17+:** I < 2 frightened (save ends)
@@ -56,6 +58,8 @@ type: monster
 > | **📏 Melee 2**                    | **🎯 One creature** |
 >
 > **Special:** The target must be grabbed by the sunderer.
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** 5 damage; M < 0 bleeding (save ends)
 > - **12-16:** 8 damage; M < 1 bleeding (save ends)

@@ -80,6 +80,6 @@ type: monster
 > The juggernaut automatically destroys any mundane size 1 objects in their path when they move or are forced moved. They can break through any mundane wall made of wood, stone, or a similarly sturdy material this way as long as the wall is 2 squares thick or less.
 
 <!-- -->
-> ⭐️ **Defiant Ange**
+> ⭐️ **Defiant Anger**
 >
 > While winded, the juggernaut has damage immunity 2.

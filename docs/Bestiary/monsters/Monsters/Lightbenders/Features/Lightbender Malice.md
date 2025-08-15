@@ -17,7 +17,7 @@ type: monster/feature
 At the start of any lightbender's turn, you can spend Malice to activate one of the following features.
 
 <!-- -->
-> ⭐️ **Silent Prow (3 Malice)**
+> ⭐️ **Silent Prowl (3 Malice)**
 >
 > Each lightbender acting this turn can teleport up to their speed as a move action and attempt to hide as a free maneuver, all until the start of their next turn.
 

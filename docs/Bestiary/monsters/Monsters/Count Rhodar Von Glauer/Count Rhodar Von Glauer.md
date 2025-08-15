@@ -20,7 +20,7 @@ Each new moon, when the Red Tax came due, the count would visit a young candidat
 
 Eventually, the conquering force of Emperor Gaius VIII came for Rhodar-not because he was a vampire, but because the empire wanted his land and people. Count von Glauer was staked, and his body burned to ash. The emperor kept the Rod of Count Rhodar von Glauer as a trophy, and with this symbol of authority, he sealed his claim to the land.
 
-Under new rule, Rhodar's people lament the absence of their lord, recalling the time before the coming of the empire as a golden age. But the witches' whispers can still be heard. For as long as the people of Glauer persist, they continue believ¬ing their Dragon Count will return in their darkest hour to deliver them from tyranny.
+Under new rule, Rhodar's people lament the absence of their lord, recalling the time before the coming of the empire as a golden age. But the witches' whispers can still be heard. For as long as the people of Glauer persist, they continue believing their Dragon Count will return in their darkest hour to deliver them from tyranny.
 
 ### Excerpt from the Chronicle of the Chain of Acheron
 
@@ -165,7 +165,7 @@ At the start of Rhodar's turn, you can spend Malice to activate one of the follo
 > **Effect:** Rhodar shifts up to his speed before or after using this ability He regains Stamina equal to half the total corruption damage dealt.
 
 <!-- -->
-> 🔳 **Vengeance of Rhöl**
+> 🔳 **Vengeance of Rhöl (2 Malice)**
 >
 > | **Area, Magic, Ranged**     |   **Maneuver** |
 > | --------------------------- | -------------: |

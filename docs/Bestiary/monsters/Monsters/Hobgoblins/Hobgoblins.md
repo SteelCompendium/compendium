@@ -357,7 +357,7 @@ At the start of any hobgoblin's turn, you can spend Malice to activate one of th
 > - **12-16:** 11 damage
 > - **17+:** 14 damage
 >
-> **Effect:** Each target is pushed up to 10 squares within the area, and the grandguard shifts into the area behind by the targets
+> **Effect:** Each target is pushed up to 10 squares in the same direction, and the grandguard shifts into the area left behind by the targets.
 
 <!-- -->
 > ⭐️ **Wide Guard**

@@ -36,7 +36,7 @@ type: monster
 > **Effect:** Each ally within distance can use Ready Rodent as a free triggered action once before the end of the round.
 
 <!-- -->
-> 🏹 **Tempo Change**
+> 🏹 **Tempo Changer**
 >
 > | **Magic, Ranged, Strike** |       **Maneuver** |
 > | ------------------------- | -----------------: |

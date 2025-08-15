@@ -160,9 +160,9 @@ At the start of a medusa's turn, you can spend Malice to activate one of the fol
 > **Effect:** The medusa shifts up to 3 squares and can attempt to hide even if observed.
 
 <!-- -->
-> ❗️ **Venomous Spit**
+> ❗️ **Venomous Spit (2 Malice)**
 >
-> | **Melee**      |                   **Maneuver** |
+> | **Melee**      |           **Triggered action** |
 > | -------------- | -----------------------------: |
 > | **📏 Melee 1** | **🎯 The triggering creature** |
 >

@@ -42,8 +42,6 @@ type: monster
 > | ----------------- | ----------------------: |
 > | **📏 Ranged 10**  | **🎯 Self or one ally** |
 >
-> **Power Roll + 2:**
->
 > **Effect:** The target is invisible until the start of their next turn. They can then move up to 3 squares and attempt to hide.
 
 <!-- -->

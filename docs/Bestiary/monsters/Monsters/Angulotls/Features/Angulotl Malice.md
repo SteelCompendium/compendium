@@ -24,7 +24,7 @@ At the start of any angulotl's turn, you can spend Malice to activate one of the
 <!-- -->
 > ❇️ **Resonating Croak (5 Malice)**
 >
-> Each angulotl in the encounter puffs out their throat and starts loudly droning Any non-angulotl adjacent to an angulotl makes an **Intuition test.**
+> Each angulotl in the encounter puffs out their throat and starts loudly droning. Any non-angulotl adjacent to an angulotl makes an **Intuition test.**
 >
 > - **≤11:** 5 sonic damage; slowed (EoT)
 > - **12-16:** 4 sonic damage

@@ -96,6 +96,8 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 > | --------------------------------- | ----------------------------: |
 > | **📏 Melee 2**                    | **🎯 One creature or object** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** 5 damage; I < 0 dazed (save ends)
 > - **12-16:** 8 damage; I < 1 dazed (save ends)
 > - **17+:** 9 damage; I < 2 dazed (save ends)
@@ -148,6 +150,8 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 > | -------------- | ----------------------------: |
 > | **📏 3 burst** | **🎯 Each enemy in the area** |
 >
+> **Power Roll + 2:**
+>
 > - **≤11:** I < 0 frightened (save ends)
 > - **12-16:** I < 1 frightened (save ends)
 > - **17+:** I < 2 frightened (save ends)
@@ -162,6 +166,8 @@ At the start of any minotaur's turn, you can spend Malice to activate one of the
 > | **📏 Melee 2**                    | **🎯 One creature** |
 >
 > **Special:** The target must be grabbed by the sunderer.
+>
+> **Power Roll + 2:**
 >
 > - **≤11:** 5 damage; M < 0 bleeding (save ends)
 > - **12-16:** 8 damage; M < 1 bleeding (save ends)
