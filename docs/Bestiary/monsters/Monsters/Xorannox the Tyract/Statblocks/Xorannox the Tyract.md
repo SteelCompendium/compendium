@@ -2,12 +2,12 @@
 file_basename: Xorannox the Tyract
 file_dpath: Monsters/Xorannox the Tyract/Statblocks
 item_id: xorannox-the-tyract
-item_index: '318'
+item_index: '319'
 item_name: Xorannox the Tyract
 scc:
   - mcdm.monsters.v1:monster:xorannox-the-tyract
 scdc:
-  - 1.1.1:2:318
+  - 1.1.1:2:319
 source: mcdm.monsters.v1
 type: monster
 ---

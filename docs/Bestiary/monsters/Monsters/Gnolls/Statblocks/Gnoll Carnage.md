@@ -50,7 +50,7 @@ type: monster
 > Whenever a non-minion ally within 5 squares of the carnage is reduced to 0 Stamina, the carnage can move up to their speed, then can either make a melee free strike against two creatures or use Shrapnel Whip against one creature.
 
 <!-- -->
-> ⭐️ **End Effec**
+> ⭐️ **End Effect**
 >
 > At the end of each of their turns, the carnage can take 5 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way.
 

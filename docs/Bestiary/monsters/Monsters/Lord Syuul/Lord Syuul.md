@@ -12,6 +12,82 @@ source: mcdm.monsters.v1
 type: monster/section
 ---
 
+## Lord Syuul
+
+"Yours is an interesting mind, Tyract. I wonder what it *tastes* like?"
+
+Chief Design Architect of the living synlirii high science vessel *Waking Nightmare*, Lord Syuul (*see-YOU-ull*) scours the timescape looking for novel genetic specimens he can torture into new species. His spies, informants, and allies are always on the lookout for subjects with unique hereditary traits the Interlace might extract.
+
+### The Extractors
+
+Syuul's most trusted servants form his elite surgical commandos, the Extractors. Whenever his ship detects the presence of some novel or unique genetic ability, they dispatch a small team of synlirii genetic surgeons and a single scanner.
+
+Scanners are 4-foot-tall floating glass cylinders filled with solid brain material and cerebrospinal fluid. They hover in place, scanning and cataloging every living being in the area in an instant.
+
+The scanner identifies any creatures with valuable hereditary abilities so the Extractors can apply the Interlace, siphoning off the victim's unique abilities.
+
+Miraculously, some subjects survive this process. Those who do find they no longer have access to whatever hereditary traits the Extractors stole.
+
+### Mind Masters of the Timescape
+
+Known to his servants and thralls as the Architect of Change, Syuul's research is no mere academic pursuit. He works tirelessly to build a catalog of mutations and hereditary traits. Talents, with their innate ability to turn thoughts into raw power, are his current obsession.
+
+Lord Syuul remembers a time when his people ruled the world of Proteus, the Sea of Eternal Change, as gods. Before the time raiders rebelled, before the synlirii retreated to the World Below. While his fellow genetic architects are content to rule the Dark Under All, Syuul burns with hatred.
+
+Hatred not just of the time raiders and the ungrateful proteans, but of every living being not under his direct control.
+
+He no longer values his original technological marvel, the Body Banks, and so was happy to trade that obsolete invention to Ajax's wizard Mortum in exchange for more genetic material.
+
+The Body Banks were limited. They required manually feeding specimens into the tanks. His new device allows Lord Syuul to dynamically rewrite a living being's genetic material from a distance. From *any* distance.
+
+In his mind, everything that is not Lord Syuul is flawed. When his new device is complete, he will remake the timescape in his own image. Every living being, a formless mass of mind and flesh thinking only Syuul's thoughts.
+
+### Lord Syuul's Languages
+
+Lord Syuul communicates telepathically using Mindspeech and speaks Variac.
+
+###### Lord Syuul's Malice
+
+At the start of Lord Syuul's turn, you can spend Malice to activate one of the following features.
+
+<!-- -->
+> 👤 **Guise (3 Malice)**
+>
+> Lord Syuul projects a psionic screen over his body, preventing other creatures from treating him as an enemy until the end of his next turn.
+
+<!-- -->
+> ❇️ **Do It for Me (5 Malice)**
+>
+> Lord Syuul psionically plunders the minds of each creature within 2 squares of him. Each such creature makes a **Reason test**.
+>
+> - **≤11:** 13 psychic damage; the target uses a signature ability against a creature of Lord Syuul's choice
+> - **12-16:** 10 psychic damage; the target makes a free strike against a creature of Lord Syuul's choice
+> - **17+:** No effect.
+
+<!-- -->
+> ☠️ **Solo Action (5 Malice)**
+>
+> Lord Syuul takes an additional main action on his turn. He can use this feature even if he is dazed.
+
+<!-- -->
+> 🌀 **Overpower (7 Malice)**
+>
+> Lord Syuul sends out a psionic burst to completely overpower his greatest threats. He makes a **Reason test** (2d10 + 4).
+>
+> - **≤11:** Lord Syuul has damage weakness 5.
+> - **12-16:** Lord Syuul has damage immunity 2.
+> - **17+:** Lord Syuul has damage immunity 5.
+>
+> Once per round as a maneuver, Lord Syuul can repeat this test, replacing the previous Overpower effect.
+>
+> Whenever an Overpower effect is active, any hero who has one or more psionic abilities can use a maneuver to push back by making a **Reason test**, replacing the previous Overpower effect.
+>
+> - **≤11:** Lord Syuul has damage immunity 5.
+> - **12-16:** Lord Syuul has damage immunity 2.
+> - **17+:** Lord Syuul has damage weakness 5.
+>
+> The Overpower effect lasts until the end of the encounter.
+
 ###### Lord Syuul
 
 |   Horror, Voiceless Talker   |                 -                 |       Level 6        |          Solo           |         EV 96          |

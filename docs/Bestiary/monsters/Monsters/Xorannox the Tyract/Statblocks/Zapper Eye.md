@@ -2,12 +2,12 @@
 file_basename: Zapper Eye
 file_dpath: Monsters/Xorannox the Tyract/Statblocks
 item_id: zapper-eye
-item_index: '315'
+item_index: '316'
 item_name: Zapper Eye
 scc:
   - mcdm.monsters.v1:monster:zapper-eye
 scdc:
-  - 1.1.1:2:315
+  - 1.1.1:2:316
 source: mcdm.monsters.v1
 type: monster
 ---

@@ -2,12 +2,12 @@
 file_basename: Necrotic Eye
 file_dpath: Monsters/Xorannox the Tyract/Statblocks
 item_id: necrotic-eye
-item_index: '320'
+item_index: '321'
 item_name: Necrotic Eye
 scc:
   - mcdm.monsters.v1:monster:necrotic-eye
 scdc:
-  - 1.1.1:2:320
+  - 1.1.1:2:321
 source: mcdm.monsters.v1
 type: monster
 ---

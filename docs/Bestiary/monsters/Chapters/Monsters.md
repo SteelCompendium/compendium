@@ -8582,7 +8582,7 @@ However, not every shadow elf force is affiliate d wit h th queen. Some are exil
 > **Effect:** The target has a double bane on the ability.
 
 <!-- -->
-> ⭐️ **End Effec**
+> ⭐️ **End Effect**
 >
 > At the end of each of their turns, the eclipse can take 10 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way.
 
@@ -10796,7 +10796,7 @@ At the start of any gnoll's turn, you can spend Malice to activate one of the fo
 > Whenever a non-minion ally within 5 squares of the carnage is reduced to 0 Stamina, the carnage can move up to their speed, then can either make a melee free strike against two creatures or use Shrapnel Whip against one creature.
 
 <!-- -->
-> ⭐️ **End Effec**
+> ⭐️ **End Effect**
 >
 > At the end of each of their turns, the carnage can take 5 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way.
 
@@ -11615,7 +11615,7 @@ Hags are treacherous by nature, and they only recruit creatures they can trust t
 
 Most hags speak Anjali, Caelian, Khelt, and Yllyric, with older hags often knowing several more languages.
 
-#### Hag Malice
+###### Hag Malice
 
 At the start of a hag's turn, you can spend Malice to activate one of the following features.
 
@@ -12570,7 +12570,7 @@ Humans are connected to the natural world in a way that many other folk are not.
 
 Most humans speak Caelian and one Vaslorian human language.
 
-#### Human Malice
+###### Human Malice
 
 At the start of any human's turn, you can spend Malice to activate one of the following features.
 
@@ -13034,7 +13034,7 @@ At the start of any human's turn, you can spend Malice to activate one of the fo
 > **Effect:** The target is marked until the start of the blackguard's next turn. The blackguard and each of their allies gain an edge on abilities used against targets marked by the blackguard.
 
 <!-- -->
-> ⭐️ **End Effec**
+> ⭐️ **End Effect**
 >
 > At the end of each of their turns, the blackguard can take 5 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way.
 
@@ -13448,7 +13448,7 @@ The gummy brick is a deadly ooze-a monster shaped of acidic goo and driven by en
 
 Most kobolds speak Kethaic and can understand Caelian.
 
-#### Kobold Malice
+###### Kobold Malice
 
 At the start of any kobolds's turn, you can spend Malice to activate one of the following features.
 
@@ -14525,7 +14525,7 @@ A manticore who develops a taste for humanoids can rarely be tamed. But a young 
 
 Most manticores can mimic Caelian and one language commonly spoken in the region where they dwell. Except in rare cases, manticores don't communicate in full sentences and are too driven by hunger to engage in negotiation.
 
-#### Manticore Malice
+###### Manticore Malice
 
 At the start of any manticore's turn, you can spend Malice to activate one of the following features.
 
@@ -14893,7 +14893,7 @@ Even evil minotaurs can be fiercely loyal friends, gladly charging into certain 
 
 Most minotaurs speak their own dialect of Khamish.
 
-### Minotaur Malice
+###### Minotaur Malice
 
 At the start of any minotaur's turn, you can spend Malice to activate one of the following features.
 
@@ -16895,19 +16895,19 @@ At the start of any rival's turn, you can spend Malice to activate one of the fo
 
 ##### Rival Ancestries Table
 
-| Keyword                                | Size Adjustment | Stability Adjustment | Ancestral Trait                                                                                                                                                                                                                                                                                                                                     |
-| -------------------------------------- | --------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Devil                                  | 1M              | 0                    | **Prehensile Tail:** The rival can't be flanked.                                                                                                                                                                                                                                                                                                    |
-| Draconian (for the<br/> dragon knight) | 1M              | +1                   | **Wings:** The rival can fly. While flying, their stability is 0.                                                                                                                                                                                                                                                                                   |
-| Dwarf                                  | 1M              | +2                   | **Great Fortitude:** The rival can't be made weakened.                                                                                                                                                                                                                                                                                              |
-| High Elf/Wode Elf                      | 1M              | 0                    | **Otherworldly Grace:** At the start of each of their turns, the rival can choose one effect on them that can be<br/> ended by a saving throw. That effect instead ends at the end of their turn.                                                                                                                                                   |
-| Hakaan                                 | 1L              | +2                   | **Forceful:** When the rival force moves a creature or object, they can force move them an additional 2 squares.                                                                                                                                                                                                                                    |
-| Human                                  | 1M              | +1                   | **Determination:** As a maneuver, the rival can end the frightened, slowed, or weakened condition on themself.                                                                                                                                                                                                                                      |
-| Memonek                                | 1M              | -1 (minimum 0)       | **Nonstop:** The rival can't be made slowed.                                                                                                                                                                                                                                                                                                        |
-| Orc                                    | 1M              | +2                   | **Glowing Recovery:** Once per round, the rival can use a maneuver to regain Stamina equal to 5 times their level.                                                                                                                                                                                                                                  |
-| Polder                                 | 1S              | 0                    | **Nimblestep:** The rival ignores difficult terrain and can move at full speed while sneaking.                                                                                                                                                                                                                                                      |
-| Revenant                               | 1M              | +1                   | **Vengeance Mark:** The rival places a magic sigil on an enemy within 10 squares of them. The rival always knows<br/> the direction to that enemy while the sigil is active on them. As a main action, the rival can detonate the sigil,<br/> dealing damage to the target equal to the rival's free strike and sliding the target up to 2 squares. |
-| Time Raider                            | 1M              | 0                    | **Four-Armed Martial Arts:** Whenever the rival uses the Grab or Knockback maneuver, they can target one<br/> additional creature.                                                                                                                                                                                                                  |
+| Keyword                           | Size Adjustment | Stability Adjustment | Ancestral Trait                                                                                                                                                                                                                                                                                                                           |
+| --------------------------------- | --------------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Devil                             | 1M              | 0                    | **Prehensile Tail:** The rival can't be flanked.                                                                                                                                                                                                                                                                                          |
+| Draconian (for the dragon knight) | 1M              | +1                   | **Wings:** The rival can fly. While flying, their stability is 0.                                                                                                                                                                                                                                                                         |
+| Dwarf                             | 1M              | +2                   | **Great Fortitude:** The rival can't be made weakened.                                                                                                                                                                                                                                                                                    |
+| High Elf/Wode Elf                 | 1M              | 0                    | **Otherworldly Grace:** At the start of each of their turns, the rival can choose one effect on them that can be ended by a saving throw. That effect instead ends at the end of their turn.                                                                                                                                              |
+| Hakaan                            | 1L              | +2                   | **Forceful:** When the rival force moves a creature or object, they can force move them an additional 2 squares.                                                                                                                                                                                                                          |
+| Human                             | 1M              | +1                   | **Determination:** As a maneuver, the rival can end the frightened, slowed, or weakened condition on themself.                                                                                                                                                                                                                            |
+| Memonek                           | 1M              | -1 (minimum 0)       | **Nonstop:** The rival can't be made slowed.                                                                                                                                                                                                                                                                                              |
+| Orc                               | 1M              | +2                   | **Glowing Recovery:** Once per round, the rival can use a maneuver to regain Stamina equal to 5 times their level.                                                                                                                                                                                                                        |
+| Polder                            | 1S              | 0                    | **Nimblestep:** The rival ignores difficult terrain and can move at full speed while sneaking.                                                                                                                                                                                                                                            |
+| Revenant                          | 1M              | +1                   | **Vengeance Mark:** The rival places a magic sigil on an enemy within 10 squares of them. The rival always knows the direction to that enemy while the sigil is active on them. As a main action, the rival can detonate the sigil, dealing damage to the target equal to the rival's free strike and sliding the target up to 2 squares. |
+| Time Raider                       | 1M              | 0                    | **Four-Armed Martial Arts:** Whenever the rival uses the Grab or Knockback maneuver, they can target one additional creature.                                                                                                                                                                                                             |
 
 ### Rivals-1st Echelon
 
@@ -18042,7 +18042,7 @@ This is what peak performance looks like. Few bands of monsters can put up a fig
 > | ------------------------------ | ----------------------------: |
 > | **📏 3 cube within 10**        | **🎯 Each enemy in the area** |
 >
-> **Effect:** The area becomes overgrown with caustic vines until the end of the encounter. While in the area, any enemy has acid weakness 5 and is slowed. Any enemy who ends their turn in the area and has m< 4 is restrained (save ends).
+> **Effect:** The area becomes overgrown with caustic vines until the end of the encounter. While in the area, any enemy has acid weakness 5 and is slowed. Any enemy who ends their turn in the area and has M < 4 is restrained (save ends).
 
 <!-- -->
 > ❗️ **Breach of Nihility**
@@ -20588,7 +20588,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 <!-- -->
 > ⭐️ **Burn Bright**
 >
-> If the waxen takes fire damage, they ignite. While ignited, the waxen takes 4 fire damage at the start of each of their turns and their strikes deal an extra 4 fire damag.
+> If the waxen takes fire damage, they ignite. While ignited, the waxen takes 4 fire damage at the start of each of their turns and their strikes deal an extra 4 fire damage.
 
 ###### Vampire
 
@@ -21167,9 +21167,9 @@ At the start of Rhodar's turn, you can spend Malice to activate one of the follo
 >
 > **Power Roll + 5:**
 >
-> - **≤11:** 10 fire damage ; R < 4 weakened (save ends)
-> - **12-16:** 16 fire damage ; R < 5 weakened (save ends)
-> - **17+:** 20 fire damage ; R < 6 weakened (save ends)
+> - **≤11:** 10 fire damage; R < 4 weakened (save ends)
+> - **12-16:** 16 fire damage; R < 5 weakened (save ends)
+> - **17+:** 20 fire damage; R < 6 weakened (save ends)
 >
 > **Effect:** Rhodar teleports to an unoccupied space adjacent to one target after the ability resolve.
 
@@ -21227,7 +21227,7 @@ At the start of a lich's turn, you can spend Malice to activate one of the follo
 <!-- -->
 > 🌀 **Cloud of Deceit (7 Malice)**
 >
-> The lich summons a mind-altering mist, turns invisible until the start of their next turn, and moves up to half their speed. Each enemy within 20 squares of the lich's starting point who has i\<4\] is deceived. While deceived, a creature perceives all allies and enemies as the lich, and perceives the environment as an unfamiliar wasteland corrupted by necrotic blight. If other creatures attempt to communicate with a deceived creature, that creature interprets their words as ghastly taunts in the lich's voice.
+> The lich summons a mind-altering mist, turns invisible until the start of their next turn, and moves up to half their speed. Each enemy within 20 squares of the lich's starting point who has I < 4 is deceived. While deceived, a creature perceives all allies and enemies as the lich, and perceives the environment as an unfamiliar wasteland corrupted by necrotic blight. If other creatures attempt to communicate with a deceived creature, that creature interprets their words as ghastly taunts in the lich's voice.
 >
 > This effect lasts until an affected creature takes damage or an ally uses a main action to shake them out of it. Each time this feature is used during an encounter, the distance of the effect decreases by 5 squares (to a minimum of 5 squares) and the potency increases by 1.
 
@@ -21398,7 +21398,7 @@ While two classes of valok-servok and multivok-have been discovered, ancient ste
 
 Ruined valok litter the deepest ruins of the steel dwarves, and without the steel dwarves' secrets, their valiar and iridoss are useless to modern smiths. But some valok still labor in the depths, carrying out the orders given to them long ago and ready to end any who interfere.
 
-#### Valok Malice Malice Features
+###### Valok Malice
 
 At the start of any valok's turn, you can spend Malice to activate one of the following features.
 
@@ -21809,7 +21809,7 @@ Most valok communicate exclusively in Rallarian.
 > - **12-16:** 12 fire damage; the target is burning (EoT
 > - **17+:** 8 fire damage
 >
-> A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. Additionally, the area is burning until the end of the encounter. While the area is burning, it is difficul t terrai n an d an y enem takes 3 fire damage for each square of the area they enter.
+> A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. Additionally, the area is burning until the end of the encounter. While the area is burning, it is difficult terrain and any enemy takes 3 fire damage for each square of the area they enter.
 
 <!-- -->
 > ❗️ **Quick Blast (1 Malice)**
@@ -22168,7 +22168,7 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 > **Effect:** Until the start of the artillerist's next turn, the next psionic ability used against the target automatically treats its initial power roll as a 17. The creature using the ability can still roll to determine if they score a critical hit.
 
 <!-- -->
-> ❗️ **Tactical Reposition 1 Malice**
+> ❗️ **Tactical Reposition (1 Malice)**
 >
 > | **-**       | **Triggered action** |
 > | ----------- | -------------------: |
@@ -22341,7 +22341,9 @@ At the start of any voiceless talker's turn, you can spend Malice to activate on
 > - **12-16:** 12 lightning damage
 > - **17+:** 15 lightning damage
 >
-> **Effect:** Until the end of the encounter, the evolutionist is surrounded by a psionic electrical storm that is a 5 aura. The area is difficult terrain for enemies, and any enemy who enters the area for the first time in a round or starts their turn there takes 8 lightning damage. ## Lord Syuul
+> **Effect:** Until the end of the encounter, the evolutionist is surrounded by a psionic electrical storm that is a 5 aura. The area is difficult terrain for enemies, and any enemy who enters the area for the first time in a round or starts their turn there takes 8 lightning damage.
+
+## Lord Syuul
 
 "Yours is an interesting mind, Tyract. I wonder what it *tastes* like?"
 
@@ -22961,7 +22963,7 @@ At the start of any war dog's turn, you can spend Malice to activate one of the 
 > | ----------------- | ----------------------------: |
 > | **📏 5 burst**    | **🎯 Each enemy in the area** |
 >
-> **Effect:** The neuronite chooses one ally within 10 squares. Each target is either taunted by the ally, or the ally has damage immunity 3 whenever any target makes a strike against them (the neuronite's choice). Either effect lasts until the start of the neuronite 's next turn
+> **Effect:** The neuronite chooses one ally within 10 squares. Each target is either taunted by the ally, or the ally has damage immunity 3 whenever any target makes a strike against them (the neuronite's choice). Either effect lasts until the start of the neuronite's next turn
 
 <!-- -->
 > ⭐️ **Loyalty Collar**
@@ -24554,7 +24556,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 >
 > - **≤11:** 15 damage
 > - **12-16:** 21 damage; Doru gains an edge on his next power roll; M < 4 slide 3
-> - **17+:** 25 damage; Doru has a double edge on his next power roll; m< 5 slide 5
+> - **17+:** 25 damage; Doru has a double edge on his next power roll; M < 5 slide 5
 >
 > **Effect:** The damage from this ability can't be reduced in any way.
 >
@@ -24861,7 +24863,7 @@ At the start of any level 10 or higher war dog's turn, you can spend Malice to a
 > | --------------- | -------------------------------: |
 > | **📏 5 burst**  | **🎯 Each creature in the area** |
 >
-> **Effect:** Until the start of the next round, each target enemy who has i< 4 is dazed, each target enemy who has M < 4 is restrained, and each target enemy who has A < 4 can't use triggered actions. Additionally, until the end of the encounter, Alkestis and each target ally have damage immunity 3 and deal an extra 5 damage with strikes.
+> **Effect:** Until the start of the next round, each target enemy who has I < 4 is dazed, each target enemy who has M < 4 is restrained, and each target enemy who has A < 4 can't use triggered actions. Additionally, until the end of the encounter, Alkestis and each target ally have damage immunity 3 and deal an extra 5 damage with strikes.
 
 ## Werewolf
 
@@ -25065,7 +25067,7 @@ A wyvern's infamous temper is easily provoked, particularly if their eggs or hat
 
 Wyverns are unable to speak. However, a clever hero carrying a feast of fresh meat might be able to reason with one.
 
-#### Wyvern Malice Malice Features
+###### Wyvern Malice Malice Features
 
 At the start of any wyvern's turn, you can spend Malice to activate one of the following features.
 
@@ -25133,7 +25135,7 @@ At the start of any wyvern's turn, you can spend Malice to activate one of the f
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** The lurker flies up to their speed, then can attempt to hide . Each enemy the lurker moves adjacent to during this movement can choose to take 3 sonic damage or fall prone.
+> **Effect:** The lurker flies up to their speed, then can attempt to hide. Each enemy the lurker moves adjacent to during this movement can choose to take 3 sonic damage or fall prone.
 
 <!-- -->
 > ❗️ **Retaliatory Dive**
@@ -25154,7 +25156,7 @@ At the start of any wyvern's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Tenacious Hunter**
 >
-> Any creature affected by a condition imposed by a wyvern can 't be hidden from the lurker.
+> Any creature affected by a condition imposed by a wyvern can't be hidden from the lurker.
 
 ###### Wyvern Predator
 
@@ -25226,7 +25228,7 @@ At the start of any wyvern's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Tenacious Hunter**
 >
-> Any creature affected by a condition imposed by a wyvern can 't be hidden from the predator.
+> Any creature affected by a condition imposed by a wyvern can't be hidden from the predator.
 
 ## Xorannox the Tyract
 

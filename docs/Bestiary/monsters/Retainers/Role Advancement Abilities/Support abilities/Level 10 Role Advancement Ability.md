@@ -15,7 +15,7 @@ type: feature/ability/role-advancement/support
 ###### Level 10 Role Advancement Ability
 
 <!-- -->
-> 🗡 **Back from the Dead Encounter**
+> 🗡 **Back from the Dead (Encounter)**
 >
 > | **Melee**      | **Main action** |
 > | -------------- | --------------: |

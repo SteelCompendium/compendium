@@ -2,12 +2,12 @@
 file_basename: Servok War Engine
 file_dpath: Monsters/Valok/Statblocks
 item_id: servok-war-engine
-item_index: '328'
+item_index: '329'
 item_name: Servok War Engine
 scc:
   - mcdm.monsters.v1:monster:servok-war-engine
 scdc:
-  - 1.1.1:2:328
+  - 1.1.1:2:329
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -70,7 +70,7 @@ type: monster
 > - **12-16:** 12 fire damage; the target is burning (EoT
 > - **17+:** 8 fire damage
 >
-> A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. Additionally, the area is burning until the end of the encounter. While the area is burning, it is difficul t terrai n an d an y enem takes 3 fire damage for each square of the area they enter.
+> A burning creature takes 1d6 fire damage at the start of each of their turns. A burning object takes 1d6 fire damage at the end of each round. Additionally, the area is burning until the end of the encounter. While the area is burning, it is difficult terrain and any enemy takes 3 fire damage for each square of the area they enter.
 
 <!-- -->
 > ❗️ **Quick Blast (1 Malice)**

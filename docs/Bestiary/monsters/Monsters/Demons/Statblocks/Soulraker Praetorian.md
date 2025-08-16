@@ -2,12 +2,12 @@
 file_basename: Soulraker Praetorian
 file_dpath: Monsters/Demons/Statblocks
 item_id: soulraker-praetorian
-item_index: '262'
+item_index: '263'
 item_name: Soulraker Praetorian
 scc:
   - mcdm.monsters.v1:monster:soulraker-praetorian
 scdc:
-  - 1.1.1:2:262
+  - 1.1.1:2:263
 source: mcdm.monsters.v1
 type: monster
 ---

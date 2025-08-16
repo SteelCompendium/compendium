@@ -2,12 +2,12 @@
 file_basename: Optacus
 file_dpath: Monsters/Demons/Statblocks
 item_id: optacus
-item_index: '281'
+item_index: '282'
 item_name: Optacus
 scc:
   - mcdm.monsters.v1:monster:optacus
 scdc:
-  - 1.1.1:2:281
+  - 1.1.1:2:282
 source: mcdm.monsters.v1
 type: monster
 ---

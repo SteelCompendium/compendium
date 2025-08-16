@@ -2,12 +2,12 @@
 file_basename: Griffon Malice
 file_dpath: Monsters/Griffons/Features
 item_id: griffon-malice
-item_index: '07'
+item_index: 08
 item_name: Griffon Malice
 scc:
   - mcdm.monsters.v1:monster.feature:griffon-malice
 scdc:
-  - 1.1.1:2.2:07
+  - 1.1.1:2.2:08
 source: mcdm.monsters.v1
 type: monster/feature
 ---

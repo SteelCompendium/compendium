@@ -2,12 +2,12 @@
 file_basename: Gnoll Malice
 file_dpath: Monsters/Gnolls/Features
 item_id: gnoll-malice
-item_index: '03'
+item_index: '04'
 item_name: Gnoll Malice
 scc:
   - mcdm.monsters.v1:monster.feature:gnoll-malice
 scdc:
-  - 1.1.1:2.2:03
+  - 1.1.1:2.2:04
 source: mcdm.monsters.v1
 type: monster/feature
 ---

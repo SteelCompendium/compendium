@@ -2,12 +2,12 @@
 file_basename: Angulotl Daybringer
 file_dpath: Monsters/Angulotls/Statblocks
 item_id: angulotl-daybringer
-item_index: '242'
+item_index: '243'
 item_name: Angulotl Daybringer
 scc:
   - mcdm.monsters.v1:monster:angulotl-daybringer
 scdc:
-  - 1.1.1:2:242
+  - 1.1.1:2:243
 source: mcdm.monsters.v1
 type: monster
 ---

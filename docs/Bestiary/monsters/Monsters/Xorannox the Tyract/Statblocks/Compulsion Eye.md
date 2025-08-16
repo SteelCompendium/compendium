@@ -2,12 +2,12 @@
 file_basename: Compulsion Eye
 file_dpath: Monsters/Xorannox the Tyract/Statblocks
 item_id: compulsion-eye
-item_index: '317'
+item_index: '318'
 item_name: Compulsion Eye
 scc:
   - mcdm.monsters.v1:monster:compulsion-eye
 scdc:
-  - 1.1.1:2:317
+  - 1.1.1:2:318
 source: mcdm.monsters.v1
 type: monster
 ---

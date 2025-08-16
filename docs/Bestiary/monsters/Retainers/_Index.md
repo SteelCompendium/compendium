@@ -35,9 +35,11 @@ type: index
 | [Level 7 Role Advancement Ability](../Role%20Advancement%20Abilities/Support%20abilities/Level%207%20Role%20Advancement%20Ability)      |
 | [Angulotl Hopper](../Statblocks/Angulotl%20Hopper)                                                                                      |
 | [Bugbear Commando](../Statblocks/Bugbear%20Commando)                                                                                    |
+| [Devil Defector](../Statblocks/Devil%20Defector)                                                                                        |
 | [Dwarf Mortar](../Statblocks/Dwarf%20Mortar)                                                                                            |
 | [Gnoll Gnasher](../Statblocks/Gnoll%20Gnasher)                                                                                          |
 | [Goblin Guide](../Statblocks/Goblin%20Guide)                                                                                            |
+| [High Elf Weatherwise](../Statblocks/High%20Elf%20Weatherwise)                                                                          |
 | [Hobgoblin Flameslinger](../Statblocks/Hobgoblin%20Flameslinger)                                                                        |
 | [Human Warrior](../Statblocks/Human%20Warrior)                                                                                          |
 | [Kobold Shieldbearer](../Statblocks/Kobold%20Shieldbearer)                                                                              |

@@ -2,12 +2,12 @@
 file_basename: Demolition
 file_dpath: Monsters/Xorannox the Tyract/Statblocks
 item_id: demolition
-item_index: '319'
+item_index: '320'
 item_name: Demolition
 scc:
   - mcdm.monsters.v1:monster:demolition
 scdc:
-  - 1.1.1:2:319
+  - 1.1.1:2:320
 source: mcdm.monsters.v1
 type: monster
 ---

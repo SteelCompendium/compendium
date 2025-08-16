@@ -82,4 +82,4 @@ type: monster
 <!-- -->
 > ⭐️ **Tenacious Hunter**
 >
-> Any creature affected by a condition imposed by a wyvern can 't be hidden from the predator.
+> Any creature affected by a condition imposed by a wyvern can't be hidden from the predator.

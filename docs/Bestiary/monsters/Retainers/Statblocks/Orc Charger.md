@@ -35,7 +35,7 @@ source: mcdm.monsters.v1
 ###### Level 4 Retainer Advancement Ability
 
 <!-- -->
-> 👤 **Blood Oath Encounter**
+> 👤 **Blood Oath (Encounter)**
 >
 > | **Self**    | **Maneuver** |
 > | ----------- | -----------: |
@@ -46,7 +46,7 @@ source: mcdm.monsters.v1
 ###### Level 7 Retainer Advancement Ability
 
 <!-- -->
-> 👤 **Mow 'Em Down Encounter**
+> 👤 **Mow 'Em Down (Encounter)**
 >
 > | **-**                  | **Main action** |
 > | ---------------------- | --------------: |

@@ -47,7 +47,7 @@ type: monster
 > **Effect:** The target is marked until the start of the blackguard's next turn. The blackguard and each of their allies gain an edge on abilities used against targets marked by the blackguard.
 
 <!-- -->
-> ⭐️ **End Effec**
+> ⭐️ **End Effect**
 >
 > At the end of each of their turns, the blackguard can take 5 damage to end one effect on them that can be ended by a saving throw. This damage can't be reduced in any way.
 

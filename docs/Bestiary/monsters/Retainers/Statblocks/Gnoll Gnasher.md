@@ -35,7 +35,7 @@ source: mcdm.monsters.v1
 ###### Level 4 Retainer Advancement Ability
 
 <!-- -->
-> ❗️ **Frenzied Bite Encounter**
+> ❗️ **Frenzied Bite (Encounter)**
 >
 > | **-**       | **Triggered action** |
 > | ----------- | -------------------: |
@@ -63,7 +63,7 @@ source: mcdm.monsters.v1
 ###### Level 10 Retainer Advancement Ability
 
 <!-- -->
-> 👤 **Horrific Feas Encounter**
+> 👤 **Horrific Feas (Encounter)**
 >
 > | **-**       | **Main action** |
 > | ----------- | --------------: |

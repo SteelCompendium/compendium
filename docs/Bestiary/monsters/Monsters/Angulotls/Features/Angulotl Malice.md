@@ -2,12 +2,12 @@
 file_basename: Angulotl Malice
 file_dpath: Monsters/Angulotls/Features
 item_id: angulotl-malice
-item_index: '24'
+item_index: '30'
 item_name: Angulotl Malice
 scc:
   - mcdm.monsters.v1:monster.feature:angulotl-malice
 scdc:
-  - 1.1.1:2.2:24
+  - 1.1.1:2.2:30
 source: mcdm.monsters.v1
 type: monster/feature
 ---

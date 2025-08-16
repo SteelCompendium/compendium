@@ -59,7 +59,7 @@ source: mcdm.monsters.v1
 ###### Level 10 Retainer Advancement Ability
 
 <!-- -->
-> ❗️ **Fire Bad Encounter**
+> ❗️ **Fire Bad (Encounter)**
 >
 > | **-**       | **Triggered action** |
 > | ----------- | -------------------: |

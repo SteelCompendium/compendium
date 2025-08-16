@@ -15,7 +15,7 @@ type: feature/ability/role-advancement/mount
 ###### Level 7 Role Advancement Ability
 
 <!-- -->
-> 👤 **Giddyup! Encounter**
+> 👤 **Giddyup! (Encounter)**
 >
 > | **-**          | **Move action** |
 > | -------------- | --------------: |

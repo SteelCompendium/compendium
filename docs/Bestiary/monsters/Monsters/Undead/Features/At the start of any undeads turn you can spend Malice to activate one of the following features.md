@@ -2,12 +2,12 @@
 file_basename: At the start of any undeads turn you can spend Malice to activate one of the following features
 file_dpath: Monsters/Undead/Features
 item_id: at-the-start-of-any-undeads-turn-you-can-spend-malice-to-activate-one-of-the-following-features
-item_index: '06'
+item_index: '07'
 item_name: At the start of any undead's turn, you can spend Malice to activate one of the following features.
 scc:
   - mcdm.monsters.v1:monster.feature:at-the-start-of-any-undeads-turn-you-can-spend-malice-to-activate-one-of-the-following-features
 scdc:
-  - 1.1.1:2.2:06
+  - 1.1.1:2.2:07
 source: mcdm.monsters.v1
 type: monster/feature
 ---

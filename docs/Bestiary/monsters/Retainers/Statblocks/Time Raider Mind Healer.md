@@ -37,7 +37,7 @@ source: mcdm.monsters.v1
 ###### Level 4 Retainer Advancement Ability
 
 <!-- -->
-> 🏹 **Stim Charge Encounter**
+> 🏹 **Stim Charge (Encounter)**
 >
 > | **Ranged**      |     **Main action** |
 > | --------------- | ------------------: |

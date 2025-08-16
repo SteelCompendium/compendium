@@ -2,12 +2,12 @@
 file_basename: Toxic Eye Level 6 Hexer
 file_dpath: Monsters/Xorannox the Tyract/Statblocks
 item_id: toxic-eye-level-6-hexer
-item_index: '321'
+item_index: '322'
 item_name: Toxic Eye Level 6 Hexer
 scc:
   - mcdm.monsters.v1:monster:toxic-eye-level-6-hexer
 scdc:
-  - 1.1.1:2:321
+  - 1.1.1:2:322
 source: mcdm.monsters.v1
 type: monster
 ---

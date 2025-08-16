@@ -2,12 +2,12 @@
 file_basename: Count Rhodar von Glauer
 file_dpath: Monsters/Count Rhodar Von Glauer/Statblocks
 item_id: count-rhodar-von-glauer
-item_index: '286'
+item_index: '287'
 item_name: Count Rhodar von Glauer
 scc:
   - mcdm.monsters.v1:monster:count-rhodar-von-glauer
 scdc:
-  - 1.1.1:2:286
+  - 1.1.1:2:287
 source: mcdm.monsters.v1
 type: monster
 ---
@@ -161,8 +161,8 @@ type: monster
 >
 > **Power Roll + 5:**
 >
-> - **≤11:** 10 fire damage ; R < 4 weakened (save ends)
-> - **12-16:** 16 fire damage ; R < 5 weakened (save ends)
-> - **17+:** 20 fire damage ; R < 6 weakened (save ends)
+> - **≤11:** 10 fire damage; R < 4 weakened (save ends)
+> - **12-16:** 16 fire damage; R < 5 weakened (save ends)
+> - **17+:** 20 fire damage; R < 6 weakened (save ends)
 >
 > **Effect:** Rhodar teleports to an unoccupied space adjacent to one target after the ability resolve.

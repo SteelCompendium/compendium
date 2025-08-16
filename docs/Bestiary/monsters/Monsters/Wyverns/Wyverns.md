@@ -34,7 +34,7 @@ A wyvern's infamous temper is easily provoked, particularly if their eggs or hat
 
 Wyverns are unable to speak. However, a clever hero carrying a feast of fresh meat might be able to reason with one.
 
-#### Wyvern Malice Malice Features
+###### Wyvern Malice Malice Features
 
 At the start of any wyvern's turn, you can spend Malice to activate one of the following features.
 
@@ -102,7 +102,7 @@ At the start of any wyvern's turn, you can spend Malice to activate one of the f
 > | ----------- | -----------: |
 > | **📏 Self** |  **🎯 Self** |
 >
-> **Effect:** The lurker flies up to their speed, then can attempt to hide . Each enemy the lurker moves adjacent to during this movement can choose to take 3 sonic damage or fall prone.
+> **Effect:** The lurker flies up to their speed, then can attempt to hide. Each enemy the lurker moves adjacent to during this movement can choose to take 3 sonic damage or fall prone.
 
 <!-- -->
 > ❗️ **Retaliatory Dive**
@@ -123,7 +123,7 @@ At the start of any wyvern's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Tenacious Hunter**
 >
-> Any creature affected by a condition imposed by a wyvern can 't be hidden from the lurker.
+> Any creature affected by a condition imposed by a wyvern can't be hidden from the lurker.
 
 ###### Wyvern Predator
 
@@ -195,4 +195,4 @@ At the start of any wyvern's turn, you can spend Malice to activate one of the f
 <!-- -->
 > ⭐️ **Tenacious Hunter**
 >
-> Any creature affected by a condition imposed by a wyvern can 't be hidden from the predator.
+> Any creature affected by a condition imposed by a wyvern can't be hidden from the predator.

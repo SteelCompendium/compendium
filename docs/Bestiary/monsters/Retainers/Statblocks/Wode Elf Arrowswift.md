@@ -54,7 +54,7 @@ source: mcdm.monsters.v1
 ###### Level 7 Retainer Advancement Ability
 
 <!-- -->
-> 👤 **Magic Arrows Encounter**
+> 👤 **Magic Arrows (Encounter)**
 >
 > | **-**       | **Maneuver** |
 > | ----------- | -----------: |

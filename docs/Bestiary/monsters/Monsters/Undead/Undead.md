@@ -1326,7 +1326,7 @@ At the start of any level 7 or higher undead's turn, you can spend Malice to act
 <!-- -->
 > ⭐️ **Burn Bright**
 >
-> If the waxen takes fire damage, they ignite. While ignited, the waxen takes 4 fire damage at the start of each of their turns and their strikes deal an extra 4 fire damag.
+> If the waxen takes fire damage, they ignite. While ignited, the waxen takes 4 fire damage at the start of each of their turns and their strikes deal an extra 4 fire damage.
 
 ###### Vampire
 

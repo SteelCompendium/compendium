@@ -28,7 +28,7 @@ source: mcdm.monsters.v1
 > - **17+:** 14 damage; push 2
 
 <!-- -->
-> 🗡 **I'm Not a Steed, You're Equipment Encounter**
+> 🗡 **I'm Not a Steed, You're Equipment (Encounter)**
 >
 > | **Melee**      |              **Main action** |
 > | -------------- | ---------------------------: |

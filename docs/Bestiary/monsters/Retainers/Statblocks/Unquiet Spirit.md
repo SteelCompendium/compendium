@@ -34,7 +34,7 @@ source: mcdm.monsters.v1
 > | ----------- | --------------: |
 > | **📏 Self** |     **🎯 Self** |
 >
-> **Effect:** While adjacent to their mentor, the unquiet spirit enters the mentor's space. A spirit who enters their mentor's space this way moves with the mentor, can't be sensed, and can't affect or be affected by other creatures or objects. They can 't take main actions , maneuvers, or move actions, except to use this ability to leave their mentor's space and appear in an adjacent space.
+> **Effect:** While adjacent to their mentor, the unquiet spirit enters the mentor's space. A spirit who enters their mentor's space this way moves with the mentor, can't be sensed, and can't affect or be affected by other creatures or objects. They can't take main actions, maneuvers, or move actions, except to use this ability to leave their mentor's space and appear in an adjacent space.
 
 <!-- -->
 > ⭐️ **Corruptive Phasing**
@@ -76,7 +76,7 @@ source: mcdm.monsters.v1
 ###### Level 10 Retainer Advancement Ability
 
 <!-- -->
-> 🏹 **Death Phase Encounter**
+> 🏹 **Death Phase (Encounter)**
 >
 > | **Magic, Ranged, Strike** |     **Main action** |
 > | ------------------------- | ------------------: |

@@ -30,13 +30,13 @@ source: mcdm.monsters.v1
 > **Effect:** Whenever the shade starts their turn with concealment from the target, they gain 1 surge.
 
 <!-- -->
-> 🔳 **Duskfall Encounter**
+> 🔳 **Duskfall (Encounter)**
 >
 > | **Area, Magic**        |   **Maneuver** |
 > | ---------------------- | -------------: |
 > | **📏 3 cube within 1** | **🎯 Special** |
 >
-> **Effect:** Until the end of the next turn, the area is filled with darkness . The shade's mentor ignores concealment created by this darkness.
+> **Effect:** Until the end of the next turn, the area is filled with darkness. The shade's mentor ignores concealment created by this darkness.
 
 <!-- -->
 > ⭐️ **Of the Umbra**
@@ -58,7 +58,7 @@ source: mcdm.monsters.v1
 > - **12-16:** 12 poison damage; weakened (save ends)
 > - **17+:** 16 poison damage; weakened (save ends)
 >
-> **Effect:** The slow-poison needle is initially painless, with the damage and effect delayed until the start of the target 's next turn. If the shade is hidden, using this ability doesn't cause them to be revealed.
+> **Effect:** The slow-poison needle is initially painless, with the damage and effect delayed until the start of the target's next turn. If the shade is hidden, using this ability doesn't cause them to be revealed.
 
 ###### Level 10 Retainer Advancement Ability
 

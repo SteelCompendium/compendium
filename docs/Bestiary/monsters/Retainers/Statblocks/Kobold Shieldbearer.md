@@ -35,7 +35,7 @@ source: mcdm.monsters.v1
 ###### Level 4 Retainer Advancement Ability
 
 <!-- -->
-> ❗️ **Shield Block Encounter**
+> ❗️ **Shield Block (Encounter)**
 >
 > | **Ranged**      |             **Triggered action** |
 > | --------------- | -------------------------------: |

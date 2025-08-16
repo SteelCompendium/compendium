@@ -2,12 +2,12 @@
 file_basename: Thorn Dragon Malice
 file_dpath: Monsters/Dragons/Features
 item_id: thorn-dragon-malice
-item_index: '38'
+item_index: '45'
 item_name: Thorn Dragon Malice
 scc:
   - mcdm.monsters.v1:monster.feature:thorn-dragon-malice
 scdc:
-  - 1.1.1:2.2:38
+  - 1.1.1:2.2:45
 source: mcdm.monsters.v1
 type: monster/feature
 ---

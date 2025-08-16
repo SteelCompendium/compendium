@@ -2,12 +2,12 @@
 file_basename: Meteor Dragon Malice
 file_dpath: Monsters/Dragons/Features
 item_id: meteor-dragon-malice
-item_index: '39'
+item_index: '46'
 item_name: Meteor Dragon Malice
 scc:
   - mcdm.monsters.v1:monster.feature:meteor-dragon-malice
 scdc:
-  - 1.1.1:2.2:39
+  - 1.1.1:2.2:46
 source: mcdm.monsters.v1
 type: monster/feature
 ---

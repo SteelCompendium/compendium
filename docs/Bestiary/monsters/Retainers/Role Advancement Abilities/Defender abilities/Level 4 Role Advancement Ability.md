@@ -15,7 +15,7 @@ type: feature/ability/role-advancement/defender
 ###### Level 4 Role Advancement Ability
 
 <!-- -->
-> ❗️ **Watch Out! Encounter**
+> ❗️ **Watch Out! (Encounter)**
 >
 > | **Melee**      |         **Triggered action** |
 > | -------------- | ---------------------------: |

@@ -31,7 +31,7 @@ type: monster
 >
 > - **≤11:** 15 damage
 > - **12-16:** 21 damage; Doru gains an edge on his next power roll; M < 4 slide 3
-> - **17+:** 25 damage; Doru has a double edge on his next power roll; m< 5 slide 5
+> - **17+:** 25 damage; Doru has a double edge on his next power roll; M < 5 slide 5
 >
 > **Effect:** The damage from this ability can't be reduced in any way.
 >

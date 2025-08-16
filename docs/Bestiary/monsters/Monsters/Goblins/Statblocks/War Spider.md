@@ -2,12 +2,12 @@
 file_basename: War Spider
 file_dpath: Monsters/Goblins/Statblocks
 item_id: war-spider
-item_index: '313'
+item_index: '314'
 item_name: War Spider
 scc:
   - mcdm.monsters.v1:monster:war-spider
 scdc:
-  - 1.1.1:2:313
+  - 1.1.1:2:314
 source: mcdm.monsters.v1
 type: monster
 ---

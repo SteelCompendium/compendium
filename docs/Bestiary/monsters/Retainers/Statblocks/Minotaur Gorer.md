@@ -59,7 +59,7 @@ source: mcdm.monsters.v1
 ###### Level 7 Retainer Advancement Ability
 
 <!-- -->
-> 👤 **Triumphant Bay Encounter**
+> 👤 **Triumphant Bay (Encounter)**
 >
 > | **-**       | **Maneuver** |
 > | ----------- | -----------: |

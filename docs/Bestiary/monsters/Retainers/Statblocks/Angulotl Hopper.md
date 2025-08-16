@@ -69,7 +69,7 @@ source: mcdm.monsters.v1
 ###### Level 10 Retainer Advancement Ability
 
 <!-- -->
-> ❗️ **Trip of the Tongue Encounter**
+> ❗️ **Trip of the Tongue (Encounter)**
 >
 > | **Melee**      |          **Triggered action** |
 > | -------------- | ----------------------------: |

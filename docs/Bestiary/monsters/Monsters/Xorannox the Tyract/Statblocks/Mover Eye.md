@@ -2,12 +2,12 @@
 file_basename: Mover Eye
 file_dpath: Monsters/Xorannox the Tyract/Statblocks
 item_id: mover-eye
-item_index: '316'
+item_index: '317'
 item_name: Mover Eye
 scc:
   - mcdm.monsters.v1:monster:mover-eye
 scdc:
-  - 1.1.1:2:316
+  - 1.1.1:2:317
 source: mcdm.monsters.v1
 type: monster
 ---

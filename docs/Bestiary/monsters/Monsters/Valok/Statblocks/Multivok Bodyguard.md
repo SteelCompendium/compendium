@@ -2,12 +2,12 @@
 file_basename: Multivok Bodyguard
 file_dpath: Monsters/Valok/Statblocks
 item_id: multivok-bodyguard
-item_index: '327'
+item_index: '328'
 item_name: Multivok Bodyguard
 scc:
   - mcdm.monsters.v1:monster:multivok-bodyguard
 scdc:
-  - 1.1.1:2:327
+  - 1.1.1:2:328
 source: mcdm.monsters.v1
 type: monster
 ---

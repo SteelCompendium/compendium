@@ -2,12 +2,12 @@
 file_basename: Goblin Assassin
 file_dpath: Monsters/Goblins/Statblocks
 item_id: goblin-assassin
-item_index: '306'
+item_index: '307'
 item_name: Goblin Assassin
 scc:
   - mcdm.monsters.v1:monster:goblin-assassin
 scdc:
-  - 1.1.1:2:306
+  - 1.1.1:2:307
 source: mcdm.monsters.v1
 type: monster
 ---

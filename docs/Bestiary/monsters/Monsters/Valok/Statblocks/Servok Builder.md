@@ -2,12 +2,12 @@
 file_basename: Servok Builder
 file_dpath: Monsters/Valok/Statblocks
 item_id: servok-builder
-item_index: '329'
+item_index: '330'
 item_name: Servok Builder
 scc:
   - mcdm.monsters.v1:monster:servok-builder
 scdc:
-  - 1.1.1:2:329
+  - 1.1.1:2:330
 source: mcdm.monsters.v1
 type: monster
 ---
