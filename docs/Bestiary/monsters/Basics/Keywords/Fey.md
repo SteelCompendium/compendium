@@ -7,7 +7,7 @@ item_name: Fey
 scc:
   - mcdm.monsters.v1:keywords:fey
 scdc:
-  - 1.1.1:4:08
+  - 1.1.1:5:08
 source: mcdm.monsters.v1
 type: keywords
 ---

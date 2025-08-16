@@ -7,7 +7,7 @@ item_name: Pavise Shield (Level 1 Fortification Defender)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.fieldwork:pavise-shield-level-1-fortification-defender
 scdc:
-  - 1.1.1:3.3:03
+  - 1.1.1:4.3:03
 source: mcdm.monsters.v1
 type: dynamic-terrain/fieldwork
 ---

@@ -7,7 +7,7 @@ item_name: Holy Idol (Level 5 Relic Support)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.power-fixture:holy-idol-level-5-relic-support
 scdc:
-  - 1.1.1:3.4:02
+  - 1.1.1:4.4:02
 source: mcdm.monsters.v1
 type: dynamic-terrain/power-fixture
 ---

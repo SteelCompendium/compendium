@@ -7,7 +7,7 @@ item_name: Undead
 scc:
   - mcdm.monsters.v1:keywords:undead
 scdc:
-  - 1.1.1:4:07
+  - 1.1.1:5:07
 source: mcdm.monsters.v1
 type: keywords
 ---

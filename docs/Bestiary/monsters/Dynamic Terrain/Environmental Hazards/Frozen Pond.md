@@ -7,7 +7,7 @@ item_name: Frozen Pond (Level 1 Hazard Hexer)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.environmental-hazard:frozen-pond-level-1-hazard-hexer
 scdc:
-  - 1.1.1:3.5:06
+  - 1.1.1:4.5:06
 source: mcdm.monsters.v1
 type: dynamic-terrain/environmental-hazard
 ---

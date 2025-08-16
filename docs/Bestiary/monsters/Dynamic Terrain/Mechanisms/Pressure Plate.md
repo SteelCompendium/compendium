@@ -7,7 +7,7 @@ item_name: Pressure Plate (Level 1 Trigger Support)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.mechanism:pressure-plate-level-1-trigger-support
 scdc:
-  - 1.1.1:3.1:03
+  - 1.1.1:4.1:03
 source: mcdm.monsters.v1
 type: dynamic-terrain/mechanism
 ---

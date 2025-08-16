@@ -7,7 +7,7 @@ item_name: Lava (Level 3 Hazard Hexer)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.environmental-hazard:lava-level-3-hazard-hexer
 scdc:
-  - 1.1.1:3.5:07
+  - 1.1.1:4.5:07
 source: mcdm.monsters.v1
 type: dynamic-terrain/environmental-hazard
 ---

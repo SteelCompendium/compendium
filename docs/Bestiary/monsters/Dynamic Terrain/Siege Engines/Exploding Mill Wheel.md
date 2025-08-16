@@ -7,7 +7,7 @@ item_name: Exploding Mill Wheel (Level 3 Siege Engine Artillery)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.siege-engine:exploding-mill-wheel-level-3-siege-engine-artillery
 scdc:
-  - 1.1.1:3.2:05
+  - 1.1.1:4.2:05
 source: mcdm.monsters.v1
 type: dynamic-terrain/siege-engine
 ---

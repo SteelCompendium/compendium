@@ -7,7 +7,7 @@ item_name: Angry Beehive (Level 2 Hazard Hexer)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.environmental-hazard:angry-beehive-level-2-hazard-hexer
 scdc:
-  - 1.1.1:3.5:04
+  - 1.1.1:4.5:04
 source: mcdm.monsters.v1
 type: dynamic-terrain/environmental-hazard
 ---

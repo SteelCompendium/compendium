@@ -7,7 +7,7 @@ item_name: Snare Trap (Level 1 Trap Ambusher)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.fieldwork:snare-trap-level-1-trap-ambusher
 scdc:
-  - 1.1.1:3.3:01
+  - 1.1.1:4.3:01
 source: mcdm.monsters.v1
 type: dynamic-terrain/fieldwork
 ---

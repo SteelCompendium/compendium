@@ -7,7 +7,7 @@ item_name: Ram (Level 2 Trap Ambusher)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.mechanism:ram-level-2-trap-ambusher
 scdc:
-  - 1.1.1:3.1:01
+  - 1.1.1:4.1:01
 source: mcdm.monsters.v1
 type: dynamic-terrain/mechanism
 ---

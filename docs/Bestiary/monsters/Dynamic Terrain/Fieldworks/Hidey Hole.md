@@ -7,7 +7,7 @@ item_name: Hidey-Hole (Level 1 Fortification Ambusher)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.fieldwork:hidey-hole-level-1-fortification-ambusher
 scdc:
-  - 1.1.1:3.3:04
+  - 1.1.1:4.3:04
 source: mcdm.monsters.v1
 type: dynamic-terrain/fieldwork
 ---

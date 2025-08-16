@@ -7,7 +7,7 @@ item_name: Infernal
 scc:
   - mcdm.monsters.v1:keywords:infernal
 scdc:
-  - 1.1.1:4:12
+  - 1.1.1:5:12
 source: mcdm.monsters.v1
 type: keywords
 ---

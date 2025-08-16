@@ -7,7 +7,7 @@ item_name: Pillar (Level 2 Hazard Hexer)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.mechanism:pillar-level-2-hazard-hexer
 scdc:
-  - 1.1.1:3.1:05
+  - 1.1.1:4.1:05
 source: mcdm.monsters.v1
 type: dynamic-terrain/mechanism
 ---

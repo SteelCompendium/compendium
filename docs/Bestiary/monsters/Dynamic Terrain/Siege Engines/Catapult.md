@@ -7,7 +7,7 @@ item_name: Catapult (Level 3 Siege Engine Artillery)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.siege-engine:catapult-level-3-siege-engine-artillery
 scdc:
-  - 1.1.1:3.2:07
+  - 1.1.1:4.2:07
 source: mcdm.monsters.v1
 type: dynamic-terrain/siege-engine
 ---

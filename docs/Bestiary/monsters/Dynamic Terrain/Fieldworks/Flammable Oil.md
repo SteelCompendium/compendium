@@ -7,7 +7,7 @@ item_name: Flammable Oil (Level 1 Trap Ambusher)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.fieldwork:flammable-oil-level-1-trap-ambusher
 scdc:
-  - 1.1.1:3.3:07
+  - 1.1.1:4.3:07
 source: mcdm.monsters.v1
 type: dynamic-terrain/fieldwork
 ---

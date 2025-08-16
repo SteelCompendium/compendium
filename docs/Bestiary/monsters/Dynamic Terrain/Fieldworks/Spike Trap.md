@@ -7,7 +7,7 @@ item_name: Spike Trap (Level 2 Trap Ambusher)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.fieldwork:spike-trap-level-2-trap-ambusher
 scdc:
-  - 1.1.1:3.3:06
+  - 1.1.1:4.3:06
 source: mcdm.monsters.v1
 type: dynamic-terrain/fieldwork
 ---

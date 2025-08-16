@@ -7,7 +7,7 @@ item_name: Construct
 scc:
   - mcdm.monsters.v1:keywords:construct
 scdc:
-  - 1.1.1:4:05
+  - 1.1.1:5:05
 source: mcdm.monsters.v1
 type: keywords
 ---

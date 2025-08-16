@@ -7,7 +7,7 @@ item_name: Archer's Stakes (Level 1 Fortification Defender)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.fieldwork:archers-stakes-level-1-fortification-defender
 scdc:
-  - 1.1.1:3.3:02
+  - 1.1.1:4.3:02
 source: mcdm.monsters.v1
 type: dynamic-terrain/fieldwork
 ---

@@ -3,12 +3,12 @@ chapter_num: 3
 file_basename: Dynamic Terrain
 file_dpath: Chapters
 item_id: dynamic-terrain
-item_index: '02'
+item_index: '03'
 item_name: Dynamic Terrain
 scc:
   - mcdm.monsters.v1:chapter:dynamic-terrain
 scdc:
-  - 1.1.1:1:02
+  - 1.1.1:1:03
 source: mcdm.monsters.v1
 type: chapter
 ---

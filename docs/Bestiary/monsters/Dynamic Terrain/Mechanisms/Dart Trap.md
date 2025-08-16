@@ -7,7 +7,7 @@ item_name: Dart Trap (Level 1 Trap Ambusher)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.mechanism:dart-trap-level-1-trap-ambusher
 scdc:
-  - 1.1.1:3.1:02
+  - 1.1.1:4.1:02
 source: mcdm.monsters.v1
 type: dynamic-terrain/mechanism
 ---

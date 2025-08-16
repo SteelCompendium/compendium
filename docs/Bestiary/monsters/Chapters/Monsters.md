@@ -3,12 +3,12 @@ chapter_num: 2
 file_basename: Monsters
 file_dpath: Chapters
 item_id: monsters
-item_index: '03'
+item_index: '04'
 item_name: Monsters
 scc:
   - mcdm.monsters.v1:chapter:monsters
 scdc:
-  - 1.1.1:1:03
+  - 1.1.1:1:04
 source: mcdm.monsters.v1
 type: chapter
 ---

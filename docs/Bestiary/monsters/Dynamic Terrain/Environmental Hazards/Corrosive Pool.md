@@ -7,7 +7,7 @@ item_name: Corrosive Pool (Level 2 Hazard Hexer)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.environmental-hazard:corrosive-pool-level-2-hazard-hexer
 scdc:
-  - 1.1.1:3.5:02
+  - 1.1.1:4.5:02
 source: mcdm.monsters.v1
 type: dynamic-terrain/environmental-hazard
 ---

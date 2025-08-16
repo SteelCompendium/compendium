@@ -7,7 +7,7 @@ item_name: The Throne of A'An (Level 4 Relic Controller)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.supernatural-object:the-throne-of-aan-level-4-relic-controller
 scdc:
-  - 1.1.1:3.6:03
+  - 1.1.1:4.6:03
 source: mcdm.monsters.v1
 type: dynamic-terrain/supernatural-object
 ---

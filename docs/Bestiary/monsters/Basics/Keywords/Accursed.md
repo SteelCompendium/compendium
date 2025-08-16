@@ -7,7 +7,7 @@ item_name: Accursed
 scc:
   - mcdm.monsters.v1:keywords:accursed
 scdc:
-  - 1.1.1:4:01
+  - 1.1.1:5:01
 source: mcdm.monsters.v1
 type: keywords
 ---

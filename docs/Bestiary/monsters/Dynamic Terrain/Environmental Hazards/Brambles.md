@@ -7,7 +7,7 @@ item_name: Brambles (Level 1 Hazard Defender)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.environmental-hazard:brambles-level-1-hazard-defender
 scdc:
-  - 1.1.1:3.5:03
+  - 1.1.1:4.5:03
 source: mcdm.monsters.v1
 type: dynamic-terrain/environmental-hazard
 ---

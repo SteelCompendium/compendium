@@ -7,7 +7,7 @@ item_name: Psionic Shard (Level 5 Fortification Defender)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.power-fixture:psionic-shard-level-5-fortification-defender
 scdc:
-  - 1.1.1:3.4:01
+  - 1.1.1:4.4:01
 source: mcdm.monsters.v1
 type: dynamic-terrain/power-fixture
 ---

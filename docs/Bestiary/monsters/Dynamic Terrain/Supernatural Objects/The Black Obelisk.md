@@ -7,7 +7,7 @@ item_name: The Black Obelisk (Level 3 Relic Controller)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.supernatural-object:the-black-obelisk-level-3-relic-controller
 scdc:
-  - 1.1.1:3.6:01
+  - 1.1.1:4.6:01
 source: mcdm.monsters.v1
 type: dynamic-terrain/supernatural-object
 ---

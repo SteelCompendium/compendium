@@ -7,7 +7,7 @@ item_name: Column of Blades (Level 3 Fortification Defender)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.mechanism:column-of-blades-level-3-fortification-defender
 scdc:
-  - 1.1.1:3.1:04
+  - 1.1.1:4.1:04
 source: mcdm.monsters.v1
 type: dynamic-terrain/mechanism
 ---

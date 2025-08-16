@@ -7,7 +7,7 @@ item_name: Toxic Plants (Level 2 Hazard Hexer)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.environmental-hazard:toxic-plants-level-2-hazard-hexer
 scdc:
-  - 1.1.1:3.5:05
+  - 1.1.1:4.5:05
 source: mcdm.monsters.v1
 type: dynamic-terrain/environmental-hazard
 ---

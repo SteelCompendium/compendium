@@ -7,7 +7,7 @@ item_name: Boiling Oil Cauldron (Level 3 Fortification Defender)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.siege-engine:boiling-oil-cauldron-level-3-fortification-defender
 scdc:
-  - 1.1.1:3.2:01
+  - 1.1.1:4.2:01
 source: mcdm.monsters.v1
 type: dynamic-terrain/siege-engine
 ---

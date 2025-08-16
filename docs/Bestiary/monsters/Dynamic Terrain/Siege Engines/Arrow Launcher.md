@@ -7,7 +7,7 @@ item_name: Arrow Launcher (Level 2 Siege Engine Artillery)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.siege-engine:arrow-launcher-level-2-siege-engine-artillery
 scdc:
-  - 1.1.1:3.2:02
+  - 1.1.1:4.2:02
 source: mcdm.monsters.v1
 type: dynamic-terrain/siege-engine
 ---

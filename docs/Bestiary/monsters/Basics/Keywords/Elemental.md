@@ -7,7 +7,7 @@ item_name: Elemental
 scc:
   - mcdm.monsters.v1:keywords:elemental
 scdc:
-  - 1.1.1:4:09
+  - 1.1.1:5:09
 source: mcdm.monsters.v1
 type: keywords
 ---

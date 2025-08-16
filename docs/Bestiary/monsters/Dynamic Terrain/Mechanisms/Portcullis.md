@@ -7,7 +7,7 @@ item_name: Portcullis (Level 3 Trap Ambusher)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.mechanism:portcullis-level-3-trap-ambusher
 scdc:
-  - 1.1.1:3.1:06
+  - 1.1.1:4.1:06
 source: mcdm.monsters.v1
 type: dynamic-terrain/mechanism
 ---

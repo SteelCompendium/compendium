@@ -7,7 +7,7 @@ item_name: Pulley (Level 1 Trigger Support)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.mechanism:pulley-level-1-trigger-support
 scdc:
-  - 1.1.1:3.1:08
+  - 1.1.1:4.1:08
 source: mcdm.monsters.v1
 type: dynamic-terrain/mechanism
 ---

@@ -7,7 +7,7 @@ item_name: Switch (Level 1 Trigger Support)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.mechanism:switch-level-1-trigger-support
 scdc:
-  - 1.1.1:3.1:07
+  - 1.1.1:4.1:07
 source: mcdm.monsters.v1
 type: dynamic-terrain/mechanism
 ---

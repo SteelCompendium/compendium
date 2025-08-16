@@ -7,7 +7,7 @@ item_name: Quicksand (Level 3 Hazard Hexer)
 scc:
   - mcdm.monsters.v1:dynamic-terrain.environmental-hazard:quicksand-level-3-hazard-hexer
 scdc:
-  - 1.1.1:3.5:01
+  - 1.1.1:4.5:01
 source: mcdm.monsters.v1
 type: dynamic-terrain/environmental-hazard
 ---

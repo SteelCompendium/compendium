@@ -10,3 +10,4 @@ type: index
 | [Dynamic Terrain](../Dynamic%20Terrain) |
 | [Monster Basics](../Monster%20Basics)   |
 | [Monsters](../Monsters)                 |
+| [Retainers](../Retainers)               |
