@@ -6,9 +6,23 @@ copyright: The Draw Steel Compendium is an independent product published under t
 theme:
    name: "material"
    palette:
-      scheme: slate
-      primary: black
-      accent: blue
+   # dark mode
+   - media: "(prefers-color-scheme: dark)"
+     scheme: slate
+     primary: black
+     accent: blue
+     toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+   # Light mode
+   - media: "(prefers-color-scheme: light)"
+     scheme: default
+     primary: blue grey
+     accent: blue
+     toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
    logo: Media/favicon.ico
    favicon: Media/favicon.ico
    custom_dir: overrides
