@@ -1,18 +1,18 @@
 ---
 file_basename: Minotaur Malice
 file_dpath: Monsters/Minotaurs/Features
-item_id: minotaur-malice
+item_id: minotaur-malice-malice-features
 item_index: '20'
-item_name: Minotaur Malice
+item_name: Minotaur Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:minotaur-malice
+  - mcdm.monsters.v1:monster.feature:minotaur-malice-malice-features
 scdc:
   - 1.1.1:2.2:20
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Minotaur Malice
+###### Minotaur Malice (Malice Features)
 
 At the start of any minotaur's turn, you can spend Malice to activate one of the following features.
 

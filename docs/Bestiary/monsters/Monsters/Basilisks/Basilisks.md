@@ -39,7 +39,7 @@ Alchemists have discovered a gland in the basilisk's mouth that excretes an oil 
 > - **12-16:** 2 The character creates one dose of salve and can create two more doses by completing the Find a Cure downtime project.
 > - **17+:** 3 The character creates three doses of salve.
 
-###### Basilisk Malice
+###### Basilisk Malice (Malice Features)
 
 At the start of any basilisk's turn, you can spend Malice to activate one of the following features.
 

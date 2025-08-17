@@ -26,7 +26,7 @@ Although arixxi can be found anywhere, they are a particular plague in settled l
 
 Arixxi are a year-round menace in the warmest lands. In temperate places, arixxi hibernate during the winter, granting farmers a season of peace. But this respite is paid for on the first thaw of spring, when every arixx awakens ravenous on the same day and bursts from the ground to feed.
 
-###### Arixx Malice
+###### Arixx Malice (Malice Features)
 
 At the start of an arixx's turn, you can spend Malice to activate one of the following features.
 

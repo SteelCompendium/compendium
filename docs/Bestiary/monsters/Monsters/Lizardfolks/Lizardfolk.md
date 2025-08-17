@@ -48,7 +48,7 @@ In times of crisis, such as a food shortage, an evil lizardfolk leader can explo
 
 Most lizardfolk speak Caelian and their own dialect of Khamish.
 
-###### Lizardfolk Malice
+###### Lizardfolk Malice (Malice Features)
 
 At the start of any lizardfolk's turn, you can spend Malice to activate one of the following features.
 
@@ -359,7 +359,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 >
 > | **Area**        |                                 **-** |
 > | --------------- | ------------------------------------: |
-> | **📏 10 Burst** | **🎯 Self and each ally in the area** |
+> | **📏 10 burst** | **🎯 Self and each ally in the area** |
 >
 > **Effect:** Each target moves up to their speed and can make a free strike. Each target gains temporary Stamina equal to the damage they deal.
 
@@ -376,6 +376,6 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 
 | **Area**        |                                 **-** |
 | --------------- | ------------------------------------: |
-| **📏 10 Burst** | **🎯 Self and each ally in the area** |
+| **📏 10 burst** | **🎯 Self and each ally in the area** |
 
 **Effect:** Each target moves up to their speed. Until the end of the encounter, whenever a creature comes adjacent to a target or starts their turn there, the target can make a free strike against them.

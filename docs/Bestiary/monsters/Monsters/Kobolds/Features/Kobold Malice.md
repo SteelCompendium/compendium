@@ -1,18 +1,18 @@
 ---
 file_basename: Kobold Malice
 file_dpath: Monsters/Kobolds/Features
-item_id: kobold-malice
+item_id: kobold-malice-malice-features
 item_index: 09
-item_name: Kobold Malice
+item_name: Kobold Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:kobold-malice
+  - mcdm.monsters.v1:monster.feature:kobold-malice-malice-features
 scdc:
   - 1.1.1:2.2:09
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Kobold Malice
+###### Kobold Malice (Malice Features)
 
 At the start of any kobolds's turn, you can spend Malice to activate one of the following features.
 

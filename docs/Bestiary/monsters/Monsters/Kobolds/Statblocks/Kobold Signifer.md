@@ -42,7 +42,7 @@ type: monster
 >
 > | **Area**       |                 **Maneuver** |
 > | -------------- | ---------------------------: |
-> | **📏 5 Burst** | **🎯 Each ally in the area** |
+> | **📏 5 burst** | **🎯 Each ally in the area** |
 >
 > **Effect:** Each target regains 5 Stamina.
 

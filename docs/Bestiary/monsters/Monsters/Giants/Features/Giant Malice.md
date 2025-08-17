@@ -1,18 +1,18 @@
 ---
 file_basename: Giant Malice
 file_dpath: Monsters/Giants/Features
-item_id: giant-malice
+item_id: giant-malice-malice-features
 item_index: '22'
-item_name: Giant Malice
+item_name: Giant Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:giant-malice
+  - mcdm.monsters.v1:monster.feature:giant-malice-malice-features
 scdc:
   - 1.1.1:2.2:22
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Giant Malice
+###### Giant Malice (Malice Features)
 
 At the start of any giant's turn, you can spend Malice to activate one of the following features.
 

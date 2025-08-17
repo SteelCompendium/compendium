@@ -28,7 +28,7 @@ Lightbenders can also bend the sounds they make, enabling them to almost complet
 
 Though lightbenders are typically solitary creatures, they sometimes cross into another lightbender's territory to help protect a newborn litter of kittens. A few people have succeeded in taming lightbenders as guards or hunting beasts, and if treated well, they can make loyal protectors, often viewing their smaller humanoid companions as surrogate kittens.
 
-###### Lightbender Malice
+###### Lightbender Malice (Malice Features)
 
 At the start of any lightbender's turn, you can spend Malice to activate one of the following features.
 
@@ -144,7 +144,7 @@ At the start of any lightbender's turn, you can spend Malice to activate one of 
 >
 > | **Area, Magic** |                          **Main action** |
 > | --------------- | ---------------------------------------: |
-> | **📏 2 Burst**  | **🎯 Each enemy and object in the area** |
+> | **📏 2 burst**  | **🎯 Each enemy and object in the area** |
 >
 > **Power Roll + 2:**
 >

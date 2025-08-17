@@ -46,7 +46,7 @@ In his mind, everything that is not Lord Syuul is flawed. When his new device is
 
 Lord Syuul communicates telepathically using Mindspeech and speaks Variac.
 
-###### Lord Syuul's Malice
+###### Lord Syuul's Malice (Malice Features)
 
 At the start of Lord Syuul's turn, you can spend Malice to activate one of the following features.
 

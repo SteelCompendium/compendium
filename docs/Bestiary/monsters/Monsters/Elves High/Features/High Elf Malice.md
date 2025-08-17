@@ -1,18 +1,18 @@
 ---
 file_basename: High Elf Malice
 file_dpath: Monsters/Elves High/Features
-item_id: high-elf-malice
+item_id: high-elf-malice-malice-features
 item_index: '12'
-item_name: High Elf Malice
+item_name: High Elf Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:high-elf-malice
+  - mcdm.monsters.v1:monster.feature:high-elf-malice-malice-features
 scdc:
   - 1.1.1:2.2:12
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### High Elf Malice
+###### High Elf Malice (Malice Features)
 
 At the start of any high elf's turn, you can spend Malice to activate one of the following features.
 

@@ -139,7 +139,7 @@ type: monster
 >
 > An annihilated target must make the test again, decreasing the potency for themself by 2 each time they are annihilated. A creature reduced to 0 Stamina by this dies and their soul is destroyed.
 
-###### Meteor Dragon Malice
+###### Meteor Dragon Malice (Malice Features)
 
 At the start of a meteor dragon's turn, you can spend Malice to activate one of the following features.
 

@@ -1,18 +1,18 @@
 ---
 file_basename: Bredbeddle Malice
 file_dpath: Monsters/Bredbeddle/Features
-item_id: bredbeddle-malice
+item_id: bredbeddle-malice-malice-features
 item_index: '23'
-item_name: Bredbeddle Malice
+item_name: Bredbeddle Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:bredbeddle-malice
+  - mcdm.monsters.v1:monster.feature:bredbeddle-malice-malice-features
 scdc:
   - 1.1.1:2.2:23
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Bredbeddle Malice
+###### Bredbeddle Malice (Malice Features)
 
 At the start of a bredbeddle's turn, you can spend Malice to activate one of the following features.
 

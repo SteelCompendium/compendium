@@ -46,7 +46,7 @@ Most gnolls speak Tholl. Gnoll carnages and other older gnolls usually also know
 
 When gnolls go into a frenzy and coordinate their individual Cackletongue maneuvers, few heroes will leave the battlefield unscarred. Any 1st-echelon encounter that contains more than two non-minion gnolls can be considered one difficulty category harder at the Director's discretion.
 
-###### Gnoll Malice
+###### Gnoll Malice (Malice Features)
 
 At the start of any gnoll's turn, you can spend Malice to activate one of the following features.
 

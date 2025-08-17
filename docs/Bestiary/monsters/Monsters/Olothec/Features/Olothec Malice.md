@@ -1,18 +1,18 @@
 ---
 file_basename: Olothec Malice
 file_dpath: Monsters/Olothec/Features
-item_id: olothec-malice
+item_id: olothec-malice-malice-features
 item_index: '11'
-item_name: Olothec Malice
+item_name: Olothec Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:olothec-malice
+  - mcdm.monsters.v1:monster.feature:olothec-malice-malice-features
 scdc:
   - 1.1.1:2.2:11
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Olothec Malice
+###### Olothec Malice (Malice Features)
 
 At the start of an olothec's turn, you can spend Malice to activate one of the following features.
 

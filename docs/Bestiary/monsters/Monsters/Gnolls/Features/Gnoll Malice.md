@@ -1,18 +1,18 @@
 ---
 file_basename: Gnoll Malice
 file_dpath: Monsters/Gnolls/Features
-item_id: gnoll-malice
+item_id: gnoll-malice-malice-features
 item_index: '04'
-item_name: Gnoll Malice
+item_name: Gnoll Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:gnoll-malice
+  - mcdm.monsters.v1:monster.feature:gnoll-malice-malice-features
 scdc:
   - 1.1.1:2.2:04
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Gnoll Malice
+###### Gnoll Malice (Malice Features)
 
 At the start of any gnoll's turn, you can spend Malice to activate one of the following features.
 

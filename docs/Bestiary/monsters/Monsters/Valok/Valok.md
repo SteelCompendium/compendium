@@ -34,7 +34,7 @@ While two classes of valok-servok and multivok-have been discovered, ancient ste
 
 Ruined valok litter the deepest ruins of the steel dwarves, and without the steel dwarves' secrets, their valiar and iridoss are useless to modern smiths. But some valok still labor in the depths, carrying out the orders given to them long ago and ready to end any who interfere.
 
-###### Valok Malice
+###### Valok Malice (Malice Features)
 
 At the start of any valok's turn, you can spend Malice to activate one of the following features.
 

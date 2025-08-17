@@ -59,7 +59,7 @@ Most high elves speak Caelian and Hyrallic, with some also speaking Yllyric.
 >
 > Whenever a high elf ordinator appears on an encounter map, the Chaincast Malice feature is improved and always active. When any elf uses a magic ability as if they were in the ordinator's space, that ability has a double edge.
 
-###### High Elf Malice
+###### High Elf Malice (Malice Features)
 
 At the start of any high elf's turn, you can spend Malice to activate one of the following features.
 

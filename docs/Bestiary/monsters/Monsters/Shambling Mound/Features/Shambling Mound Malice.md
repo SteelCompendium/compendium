@@ -1,18 +1,18 @@
 ---
 file_basename: Shambling Mound Malice
 file_dpath: Monsters/Shambling Mound/Features
-item_id: shambling-mound-malice
+item_id: shambling-mound-malice-malice-features
 item_index: '52'
-item_name: Shambling Mound Malice
+item_name: Shambling Mound Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:shambling-mound-malice
+  - mcdm.monsters.v1:monster.feature:shambling-mound-malice-malice-features
 scdc:
   - 1.1.1:2.2:52
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Shambling Mound Malice
+###### Shambling Mound Malice (Malice Features)
 
 At the start of a shambling mound's turn, you can spend Malice to activate one of the following features.
 

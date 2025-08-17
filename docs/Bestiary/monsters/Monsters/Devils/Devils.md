@@ -48,7 +48,7 @@ Not every devil in the Seven Cities wants to ruthlessly ascend the hierarchy. So
 
 Most devils speak Anjal and Caelian, among other languages. The more powerful a devil, the more languages they learn in order to more easily make ironclad contracts with a wide variety of people and cultures. Outside of rare circumstances, devils are always willing to negotiate, ever desiring to twist a situation in their favor.
 
-###### Devil Malice
+###### Devil Malice (Malice Features)
 
 At the start of any devil's turn, you can spend Malice to activate one of the following features.
 

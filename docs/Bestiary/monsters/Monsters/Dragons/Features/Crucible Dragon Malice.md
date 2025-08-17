@@ -1,18 +1,18 @@
 ---
 file_basename: Crucible Dragon Malice
 file_dpath: Monsters/Dragons/Features
-item_id: crucible-dragon-malice
+item_id: crucible-dragon-malice-malice-features
 item_index: '49'
-item_name: Crucible Dragon Malice
+item_name: Crucible Dragon Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:crucible-dragon-malice
+  - mcdm.monsters.v1:monster.feature:crucible-dragon-malice-malice-features
 scdc:
   - 1.1.1:2.2:49
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Crucible Dragon Malice
+###### Crucible Dragon Malice (Malice Features)
 
 At the start of a crucible dragon's turn, you can spend Malice to activate one of the following features.
 

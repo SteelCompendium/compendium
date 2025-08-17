@@ -1,18 +1,18 @@
 ---
 file_basename: Gloom Dragon Malice
 file_dpath: Monsters/Dragons/Features
-item_id: gloom-dragon-malice
+item_id: gloom-dragon-malice-malice-features
 item_index: '48'
-item_name: Gloom Dragon Malice
+item_name: Gloom Dragon Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:gloom-dragon-malice
+  - mcdm.monsters.v1:monster.feature:gloom-dragon-malice-malice-features
 scdc:
   - 1.1.1:2.2:48
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Gloom Dragon Malice
+###### Gloom Dragon Malice (Malice Features)
 
 At the start of a gloom dragon's turn, you can spend Malice to activate one of the following features.
 

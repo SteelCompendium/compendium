@@ -40,7 +40,7 @@ Rumor has it that a cyclops can emit a mile-long energy ray from their eye. Howe
 
 Most ogres speak Caelian and High Kuric.
 
-###### Ogre Malice
+###### Ogre Malice (Malice Features)
 
 At the start of any ogre's turn, you can spend Malice to activate one of the following features.
 

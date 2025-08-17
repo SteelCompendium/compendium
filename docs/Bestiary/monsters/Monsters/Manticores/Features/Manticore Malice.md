@@ -1,18 +1,18 @@
 ---
 file_basename: Manticore Malice
 file_dpath: Monsters/Manticores/Features
-item_id: manticore-malice
+item_id: manticore-malice-malice-features
 item_index: '50'
-item_name: Manticore Malice
+item_name: Manticore Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:manticore-malice
+  - mcdm.monsters.v1:monster.feature:manticore-malice-malice-features
 scdc:
   - 1.1.1:2.2:50
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Manticore Malice
+###### Manticore Malice (Malice Features)
 
 At the start of any manticore's turn, you can spend Malice to activate one of the following features.
 

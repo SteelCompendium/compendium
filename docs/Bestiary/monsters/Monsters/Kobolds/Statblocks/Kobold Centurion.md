@@ -53,7 +53,7 @@ type: monster
 >
 > | **Area**       |         **Triggered action** |
 > | -------------- | ---------------------------: |
-> | **📏 5 Burst** | **🎯 Each ally in the area** |
+> | **📏 5 burst** | **🎯 Each ally in the area** |
 >
 > **Trigger:** A creature uses an ability that targets the centurion or an ally of the centurion within distance.
 >

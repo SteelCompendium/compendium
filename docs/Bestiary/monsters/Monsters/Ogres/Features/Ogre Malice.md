@@ -1,18 +1,18 @@
 ---
 file_basename: Ogre Malice
 file_dpath: Monsters/Ogres/Features
-item_id: ogre-malice
+item_id: ogre-malice-malice-features
 item_index: '02'
-item_name: Ogre Malice
+item_name: Ogre Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:ogre-malice
+  - mcdm.monsters.v1:monster.feature:ogre-malice-malice-features
 scdc:
   - 1.1.1:2.2:02
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Ogre Malice
+###### Ogre Malice (Malice Features)
 
 At the start of any ogre's turn, you can spend Malice to activate one of the following features.
 

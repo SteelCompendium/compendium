@@ -30,7 +30,7 @@ Griffons roost alone or in pairs on craggy mountainsides, in forests, or on clif
 
 Griffons come in many varieties. While the most common griffon is the leonine eagle, others include a falcon-panther variety, a bearded vulture-clouded leopard variety, and a striped condor griffon that combines the features of condor and tiger. Questions abound as to whether these creatures came about naturally or were fashioned by magic hands, and many scholars offer abundant rewards to adventurers who can bring them evidence of rare or undiscovered griffon types.
 
-###### Griffon Malice
+###### Griffon Malice (Malice Features)
 
 At the start of any griffon's turn, you can spend Malice to activate one of the following features.
 

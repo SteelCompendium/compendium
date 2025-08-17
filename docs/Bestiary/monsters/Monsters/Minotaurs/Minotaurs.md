@@ -34,7 +34,7 @@ Even evil minotaurs can be fiercely loyal friends, gladly charging into certain 
 
 Most minotaurs speak their own dialect of Khamish.
 
-###### Minotaur Malice
+###### Minotaur Malice (Malice Features)
 
 At the start of any minotaur's turn, you can spend Malice to activate one of the following features.
 

@@ -1,18 +1,18 @@
 ---
 file_basename: Bugbear Malice
 file_dpath: Monsters/Bugbears/Features
-item_id: bugbear-malice
+item_id: bugbear-malice-malice-features
 item_index: '35'
-item_name: Bugbear Malice
+item_name: Bugbear Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:bugbear-malice
+  - mcdm.monsters.v1:monster.feature:bugbear-malice-malice-features
 scdc:
   - 1.1.1:2.2:35
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Bugbear Malice
+###### Bugbear Malice (Malice Features)
 
 At the start of any bugbear's turn, you can spend Malice to activate one of the following features.
 

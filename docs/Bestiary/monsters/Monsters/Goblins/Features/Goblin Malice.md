@@ -1,18 +1,18 @@
 ---
 file_basename: Goblin Malice
 file_dpath: Monsters/Goblins/Features
-item_id: goblin-malice
+item_id: goblin-malice-malice-features
 item_index: '38'
-item_name: Goblin Malice
+item_name: Goblin Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:goblin-malice
+  - mcdm.monsters.v1:monster.feature:goblin-malice-malice-features
 scdc:
   - 1.1.1:2.2:38
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Goblin Malice
+###### Goblin Malice (Malice Features)
 
 At the start of any goblin's turn, you can spend Malice to activate one of the following features.
 

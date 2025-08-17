@@ -559,7 +559,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 >
 > | **Area, Weapon** |                          **Main action** |
 > | ---------------- | ---------------------------------------: |
-> | **📏 3 Burst**   | **🎯 Each enemy and object in the area** |
+> | **📏 3 burst**   | **🎯 Each enemy and object in the area** |
 >
 > **Power Roll + 2:**
 >
@@ -638,7 +638,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 >
 > | \*\* Area\*\*   |                        **-** |
 > | --------------- | ---------------------------: |
-> | **📏 10 Burst** | **🎯 Each ally in the area** |
+> | **📏 10 burst** | **🎯 Each ally in the area** |
 >
 > **Effect:** Each target moves up to their speed. Each enemy adjacent to a target after this move makes an Intuition test.
 >
@@ -730,7 +730,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 >
 > | **Area**       |   **Maneuver** |
 > | -------------- | -------------: |
-> | **📏 3 Burst** | **🎯 Special** |
+> | **📏 3 burst** | **🎯 Special** |
 >
 > **Effect:** The scyza kicks up a sandstorm, granting concealment to themself and any ally in the area until the end of the scyza's next turn. Each enemy in the area makes an Intuition test.
 >

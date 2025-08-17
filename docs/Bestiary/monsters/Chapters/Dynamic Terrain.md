@@ -1595,7 +1595,7 @@ A foreboding obelisk shaped of dark stone harrows the minds and spirits of those
 >
 > | **Area, Magic** |     **Free triggered action** |
 > | --------------- | ----------------------------: |
-> | **📏 10 Burst** | **🎯 Each enemy in the area** |
+> | **📏 10 burst** | **🎯 Each enemy in the area** |
 >
 > **Trigger:** A new round starts.
 >

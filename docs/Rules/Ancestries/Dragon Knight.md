@@ -124,7 +124,7 @@ You have the following signature ability.
 
 | **Area, Magic** |               **Main action** |
 | --------------- | ----------------------------: |
-| **📏 1 Burst**  | **🎯 Each enemy in the area** |
+| **📏 1 burst**  | **🎯 Each enemy in the area** |
 
 **Power Roll + Might or Presence:**
 

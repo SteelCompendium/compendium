@@ -1,18 +1,18 @@
 ---
 file_basename: Basilisk Malice
 file_dpath: Monsters/Basilisks/Features
-item_id: basilisk-malice
+item_id: basilisk-malice-malice-features
 item_index: '42'
-item_name: Basilisk Malice
+item_name: Basilisk Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:basilisk-malice
+  - mcdm.monsters.v1:monster.feature:basilisk-malice-malice-features
 scdc:
   - 1.1.1:2.2:42
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Basilisk Malice
+###### Basilisk Malice (Malice Features)
 
 At the start of any basilisk's turn, you can spend Malice to activate one of the following features.
 

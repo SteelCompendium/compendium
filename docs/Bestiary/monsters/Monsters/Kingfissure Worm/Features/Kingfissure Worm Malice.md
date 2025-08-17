@@ -1,18 +1,18 @@
 ---
 file_basename: Kingfissure Worm Malice
 file_dpath: Monsters/Kingfissure Worm/Features
-item_id: kingfissure-worm-malice
+item_id: kingfissure-worm-malice-malice-features
 item_index: '32'
-item_name: Kingfissure Worm Malice
+item_name: Kingfissure Worm Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:kingfissure-worm-malice
+  - mcdm.monsters.v1:monster.feature:kingfissure-worm-malice-malice-features
 scdc:
   - 1.1.1:2.2:32
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Kingfissure Worm Malice
+###### Kingfissure Worm Malice (Malice Features)
 
 At the start of a kingfissure worm's turn or when an action's trigger occurs, you can spend Malice to activate one of the following features.
 

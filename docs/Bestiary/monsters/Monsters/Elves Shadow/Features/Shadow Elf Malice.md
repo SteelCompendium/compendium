@@ -1,18 +1,18 @@
 ---
 file_basename: Shadow Elf Malice
 file_dpath: Monsters/Elves Shadow/Features
-item_id: shadow-elf-malice
+item_id: shadow-elf-malice-malice-features
 item_index: '26'
-item_name: Shadow Elf Malice
+item_name: Shadow Elf Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:shadow-elf-malice
+  - mcdm.monsters.v1:monster.feature:shadow-elf-malice-malice-features
 scdc:
   - 1.1.1:2.2:26
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Shadow Elf Malice
+###### Shadow Elf Malice (Malice Features)
 
 At the start of any shadow elf's turn, you can spend Malice to activate one of the following features.
 

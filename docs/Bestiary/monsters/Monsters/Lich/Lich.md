@@ -40,7 +40,7 @@ Liches know they have all the time in the world to plot against their foes, and 
 
 A lich speaks the languages they knew in life, and might also pick up Anjali, Proto-Ctholl, Variac, and Vastariax over their limitless lifetime.
 
-###### Lich Malice
+###### Lich Malice (Malice Features)
 
 At the start of a lich's turn, you can spend Malice to activate one of the following features.
 

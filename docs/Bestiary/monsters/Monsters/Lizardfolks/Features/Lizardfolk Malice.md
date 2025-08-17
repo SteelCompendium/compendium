@@ -1,18 +1,18 @@
 ---
 file_basename: Lizardfolk Malice
 file_dpath: Monsters/Lizardfolks/Features
-item_id: lizardfolk-malice
+item_id: lizardfolk-malice-malice-features
 item_index: '05'
-item_name: Lizardfolk Malice
+item_name: Lizardfolk Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:lizardfolk-malice
+  - mcdm.monsters.v1:monster.feature:lizardfolk-malice-malice-features
 scdc:
   - 1.1.1:2.2:05
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Lizardfolk Malice
+###### Lizardfolk Malice (Malice Features)
 
 At the start of any lizardfolk's turn, you can spend Malice to activate one of the following features.
 

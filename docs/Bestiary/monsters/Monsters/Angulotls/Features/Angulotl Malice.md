@@ -1,18 +1,18 @@
 ---
 file_basename: Angulotl Malice
 file_dpath: Monsters/Angulotls/Features
-item_id: angulotl-malice
+item_id: angulotl-malice-malice-features
 item_index: '30'
-item_name: Angulotl Malice
+item_name: Angulotl Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:angulotl-malice
+  - mcdm.monsters.v1:monster.feature:angulotl-malice-malice-features
 scdc:
   - 1.1.1:2.2:30
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Angulotl Malice
+###### Angulotl Malice (Malice Features)
 
 At the start of any angulotl's turn, you can spend Malice to activate one of the following features.
 

@@ -131,7 +131,7 @@ type: monster
 >
 > **Special:** If the Thorn Dragon's Domain trait is in effect, any creature other than the dragon who starts their turn on the encounter map takes 1d3 poison damage.
 
-###### Thorn Dragon Malice
+###### Thorn Dragon Malice (Malice Features)
 
 At the start of a thorn dragon's turn, you can spend Malice to activate one of the following features.
 

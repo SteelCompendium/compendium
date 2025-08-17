@@ -1,18 +1,18 @@
 ---
 file_basename: Dwarf Malice
 file_dpath: Monsters/Dwarves/Features
-item_id: dwarf-malice
+item_id: dwarf-malice-malice-features
 item_index: '54'
-item_name: Dwarf Malice
+item_name: Dwarf Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:dwarf-malice
+  - mcdm.monsters.v1:monster.feature:dwarf-malice-malice-features
 scdc:
   - 1.1.1:2.2:54
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Dwarf Malice
+###### Dwarf Malice (Malice Features)
 
 At the start of any dwarf's turn, you can spend Malice to activate one of the following features.
 

@@ -232,7 +232,7 @@ Whenever you see a rule or game term in the glossary index underlined in cross-r
 
 **Distance:** The number of squares away that a creature using an ability can affect targets with that ability. The "Distance" entry in an area ability also includes the type of area of effect created by that ability.
 
-**Double Bane:** When a creature has two or more banes and no edges applied to a power roll , they have a double bane on the roll. A double bane applies no penalty to a power roll, but instead automatically decreases the tier outcome of the roll by one tier.
+**Double Bane:** When a creature has two or more banes and no edges applied to a power roll, they have a double bane on the roll. A double bane applies no penalty to a power roll, but instead automatically decreases the tier outcome of the roll by one tier.
 
 **Double Edge:** When a creature has two or more edges and no banes applied to a power roll, they have a double edge on the roll. A double edge adds no bonus to a power roll, but instead automatically increases the tier outcome of the roll by one tier.
 
@@ -1786,7 +1786,7 @@ You have the following signature ability.
 
 | **Area, Magic** |               **Main action** |
 | --------------- | ----------------------------: |
-| **📏 1 Burst**  | **🎯 Each enemy in the area** |
+| **📏 1 burst**  | **🎯 Each enemy in the area** |
 
 **Power Roll + Might or Presence:**
 
@@ -2994,15 +2994,17 @@ Additionally, you have the following signature ability. Signature abilities can 
 
 **<span class="steel-compendium-ability">Detonate Sigil</span>**
 
+*A magic sigil you placed on a creature explodes with energy.*
+
 | **Magic, Ranged, Strike** |                        **Main action** |
 | ------------------------- | -------------------------------------: |
 | **📏 Ranged 10**          | **🎯 One creature bearing your sigil** |
 
 **Power Roll + Reason, Intuition, or Presence:**
 
-- **≤11:** 3 + R , I , or P damage; slide 1
-- **12-16:** 5 + R , I , or P damage; slide 2
-- **17+:** 7 + R , I , or P damage; slide 3
+- **≤11:** 3 + R, I, or P damage; slide 1
+- **12-16:** 5 + R, I, or P damage; slide 2
+- **17+:** 7 + R, I, or P damage; slide 3
 
 **Effect:** The sigil disappears from the creature.
 
@@ -3142,9 +3144,9 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Power Roll + Reason, Intuition, or Presence:**
 
-- **≤11:** 2 + R , I , or P damage;
-- **12-16:** 5 + R , I , or P damage; push 1
-- **17+:** 7 + R , I , or P damage; push 2; M < STRONG, prone
+- **≤11:** 2 + R, I, or P damage;
+- **12-16:** 5 + R, I, or P damage; push 1
+- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, prone
 
 **<span class="steel-compendium-ability">Psionic Bolt</span>**
 
@@ -3153,6 +3155,8 @@ Choose one signature ability from the following options. Signature abilities can
 | **Psionic, Ranged, Strike** | Main action                   |
 | --------------------------- | ----------------------------- |
 | **📏 Ranged 10**            | **🎯 One creature or object** |
+
+**Power Roll + Reason, Intuition, or Presence:**
 
 - **≤11:** 2 + R, I, or P psychic damage; slide 1
 - **12-16:** 5 + R, I, or P psychic damage; slide 2
@@ -4250,7 +4254,7 @@ Unlike power rolls made as tests (see Chapter 9), ability rolls always do someth
 
 ###### Characteristics and Damage
 
-Certain damage-dealing abilities note that damage as a number followed by a plus sign (+) and the letter M , A , R , I , or P . The indicated letter means you add your characteristic score-either Might, Agility, Reason, Intuition, or Presence-to the damage dealt by the ability. Certain abilities let you use your highest characteristic score for the power roll.
+Certain damage-dealing abilities note that damage as a number followed by a plus sign (+) and the letter M, A, R, I, or P. The indicated letter means you add your characteristic score-either Might, Agility, Reason, Intuition, or Presence-to the damage dealt by the ability. Certain abilities let you use your highest characteristic score for the power roll.
 
 Using the fury's Brutal Slam ability as an example again, that ability uses a Might power roll and features the following damage expressions in the three tier outcomes of the power roll:
 
@@ -7292,7 +7296,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 | ---------------------- | -----------: |
 | **📏 Self; see below** |  **🎯 Self** |
 
-**Effect:** Until the end of the encounter or until you are dying, no enemy can approach within 5 squares of you. by moving or by being force moved by any enemy. Targets can be force moved closer to you by you or your allies, or can move closer because of your movement.
+**Effect:** Until the end of the encounter or until you are dying, no enemy can approach within 5 squares of you by moving or by being force moved by any enemy. Targets can be force moved closer to you by you or your allies, or can move closer because of your movement.
 
 **<span class="steel-compendium-ability">Divine Dragon (11 Piety)</span>**
 
@@ -22607,7 +22611,7 @@ Additionally, when you are targeted by any effect that deals lightning damage, y
 
 **Project Goal:** 150
 
-**Effect:** As a maneuver, you transfer an object of size 1S or 1T held in one hand with another object of the same size that is within 10 squares. The objects change locations instantaneously and without creating any auditory or visual disturbance. If another creature is wearing or holding the object you transfer to your hand and they have i\<4\] , they fail to notice the transfer.
+**Effect:** As a maneuver, you transfer an object of size 1S or 1T held in one hand with another object of the same size that is within 10 squares. The objects change locations instantaneously and without creating any auditory or visual disturbance. If another creature is wearing or holding the object you transfer to your hand and they have I < 4, they fail to notice the transfer.
 
 ##### Divine Vine
 
@@ -26993,7 +26997,7 @@ The following challenges can be part of the montage test:
 
 At the end of the first round of the montage test, the characters' journey is interrupted by one of the following threats:
 
-Predatory Monster: The characters stumble into or are stalked by a monstrous predator, and must engage in a standard combat encounter to overcome the threat or drive it off. If any character has obtained a success on the Scout Ahead challenge, you can let the characters make a group test to sneak past or set an ambush for the monster.
+**Predatory Monster:** The characters stumble into or are stalked by a monstrous predator, and must engage in a standard combat encounter to overcome the threat or drive it off. If any character has obtained a success on the Scout Ahead challenge, you can let the characters make a group test to sneak past or set an ambush for the monster.
 
 **Unexpected Hazard:** A natural hazard such as an avalanche, rockslide, or wildfire interrupts the journey. Each hero must make a test of your choice to avoid the hazard, losing a Recovery on a failure.
 

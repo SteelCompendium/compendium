@@ -1,18 +1,18 @@
 ---
 file_basename: Chimera Malice
 file_dpath: Monsters/Chimera/Features
-item_id: chimera-malice
+item_id: chimera-malice-malice-features
 item_index: '01'
-item_name: Chimera Malice
+item_name: Chimera Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:chimera-malice
+  - mcdm.monsters.v1:monster.feature:chimera-malice-malice-features
 scdc:
   - 1.1.1:2.2:01
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Chimera Malice
+###### Chimera Malice (Malice Features)
 
 At the start of a chimera's turn, you can spend Malice to activate one of the following features.
 

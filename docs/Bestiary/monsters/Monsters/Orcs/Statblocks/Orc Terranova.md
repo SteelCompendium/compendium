@@ -40,7 +40,7 @@ type: monster
 >
 > | **Area, Weapon** |                          **Main action** |
 > | ---------------- | ---------------------------------------: |
-> | **📏 3 Burst**   | **🎯 Each enemy and object in the area** |
+> | **📏 3 burst**   | **🎯 Each enemy and object in the area** |
 >
 > **Power Roll + 2:**
 >

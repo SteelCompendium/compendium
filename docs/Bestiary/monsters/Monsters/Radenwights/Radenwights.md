@@ -36,7 +36,7 @@ In truth, the Great Maclette finds beauty in the thrill of the heist. Robbery is
 
 Most radenwights speak Caelian and Szetch.
 
-###### Radenwight Malice
+###### Radenwight Malice (Malice Features)
 
 At the start of any radenwight's turn, you can spend Malice to activate one of the following features.
 

@@ -1,18 +1,18 @@
 ---
 file_basename: Lightbender Malice
 file_dpath: Monsters/Lightbenders/Features
-item_id: lightbender-malice
+item_id: lightbender-malice-malice-features
 item_index: '24'
-item_name: Lightbender Malice
+item_name: Lightbender Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:lightbender-malice
+  - mcdm.monsters.v1:monster.feature:lightbender-malice-malice-features
 scdc:
   - 1.1.1:2.2:24
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Lightbender Malice
+###### Lightbender Malice (Malice Features)
 
 At the start of any lightbender's turn, you can spend Malice to activate one of the following features.
 

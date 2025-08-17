@@ -71,7 +71,7 @@ type: monster
 >
 > | \*\* Area\*\*   |                        **-** |
 > | --------------- | ---------------------------: |
-> | **📏 10 Burst** | **🎯 Each ally in the area** |
+> | **📏 10 burst** | **🎯 Each ally in the area** |
 >
 > **Effect:** Each target moves up to their speed. Each enemy adjacent to a target after this move makes an Intuition test.
 >

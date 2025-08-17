@@ -1,18 +1,18 @@
 ---
 file_basename: Omen Dragon Malice
 file_dpath: Monsters/Dragons/Features
-item_id: omen-dragon-malice
+item_id: omen-dragon-malice-malice-features
 item_index: '47'
-item_name: Omen Dragon Malice
+item_name: Omen Dragon Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:omen-dragon-malice
+  - mcdm.monsters.v1:monster.feature:omen-dragon-malice-malice-features
 scdc:
   - 1.1.1:2.2:47
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Omen Dragon Malice
+###### Omen Dragon Malice (Malice Features)
 
 At the start of an omen dragon's turn, you can spend Malice to activate one of the following features.
 

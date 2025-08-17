@@ -1,18 +1,18 @@
 ---
 file_basename: Fossil Cryptic Malice
 file_dpath: Monsters/Fossil Cryptic/Features
-item_id: fossil-cryptic-malice
+item_id: fossil-cryptic-malice-malice-features
 item_index: '56'
-item_name: Fossil Cryptic Malice
+item_name: Fossil Cryptic Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:fossil-cryptic-malice
+  - mcdm.monsters.v1:monster.feature:fossil-cryptic-malice-malice-features
 scdc:
   - 1.1.1:2.2:56
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Fossil Cryptic Malice
+###### Fossil Cryptic Malice (Malice Features)
 
 At the start of a fossil cryptic's turn, you can spend Malice to activate one of the following features.
 

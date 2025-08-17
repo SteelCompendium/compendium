@@ -40,7 +40,7 @@ Most angulotls speak Filliaric.
 
 Angulotls make use of a unique effect called "wet." While wet, an angulotl doesn't provoke opportunity attacks by moving. At the same time, any non-angulotl who is wet and ends their turn with none of their movement remaining slips and falls prone. Several angulotl abilities can impose this effect, but a creature in an encounter featuring angulotls can also become wet by entering water, as the Director determines.
 
-###### Angulotl Malice
+###### Angulotl Malice (Malice Features)
 
 At the start of any angulotl's turn, you can spend Malice to activate one of the following features.
 

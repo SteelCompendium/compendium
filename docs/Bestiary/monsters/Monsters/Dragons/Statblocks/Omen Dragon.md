@@ -142,7 +142,7 @@ type: monster
 >
 > **Effect:** Each target must be dragonsealed. The dragon's eyes glow with unequalled malevolence, and any target who has a Deathcount has that Deathcount reduced to 1.
 
-###### Omen Dragon Malice
+###### Omen Dragon Malice (Malice Features)
 
 At the start of an omen dragon's turn, you can spend Malice to activate one of the following features.
 

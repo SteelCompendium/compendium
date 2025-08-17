@@ -49,7 +49,7 @@ type: monster
 >
 > | **Area, Weapon** |                  **Main action** |
 > | ---------------- | -------------------------------: |
-> | **📏 2 Burst**   | **🎯 Each creature in the area** |
+> | **📏 2 burst**   | **🎯 Each creature in the area** |
 >
 > **Effect:** The drangolin uses the Dig maneuver to breach the surface before using this ability. Each target in the area where the drangolin breaches takes an extra 2 fire damage.
 >

@@ -61,7 +61,7 @@ Most elementals speak Low Kuric. Some can use Caelian when they need to.
 >
 > Atæshia, Queen of Ash
 
-###### Elemental Malice
+###### Elemental Malice (Malice Features)
 
 At the start of any elemental's turn, you can spend Malice to activate one of the following features.
 

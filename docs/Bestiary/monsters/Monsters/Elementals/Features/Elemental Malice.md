@@ -1,18 +1,18 @@
 ---
 file_basename: Elemental Malice
 file_dpath: Monsters/Elementals/Features
-item_id: elemental-malice
+item_id: elemental-malice-malice-features
 item_index: '40'
-item_name: Elemental Malice
+item_name: Elemental Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:elemental-malice
+  - mcdm.monsters.v1:monster.feature:elemental-malice-malice-features
 scdc:
   - 1.1.1:2.2:40
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Elemental Malice
+###### Elemental Malice (Malice Features)
 
 At the start of any elemental's turn, you can spend Malice to activate one of the following features.
 

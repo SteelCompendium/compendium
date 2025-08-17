@@ -55,7 +55,7 @@ Rhodar speaks Caelian and Vaslorian.
 >
 > Dancer, Chronicler of the Chain of Acheron
 
-###### Rhodar's Malice
+###### Rhodar's Malice (Malice Features)
 
 At the start of Rhodar's turn, you can spend Malice to activate one of the following features.
 

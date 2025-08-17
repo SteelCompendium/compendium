@@ -1,18 +1,18 @@
 ---
 file_basename: Time Raider Malice
 file_dpath: Monsters/Time Raiders/Features
-item_id: time-raider-malice
+item_id: time-raider-malice-malice-features
 item_index: '17'
-item_name: Time Raider Malice
+item_name: Time Raider Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:time-raider-malice
+  - mcdm.monsters.v1:monster.feature:time-raider-malice-malice-features
 scdc:
   - 1.1.1:2.2:17
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Time Raider Malice
+###### Time Raider Malice (Malice Features)
 
 At the start of any time raider's turn, you can spend Malice to activate one of the following features.
 

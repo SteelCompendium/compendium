@@ -28,7 +28,7 @@ When bugbears are compelled to take action, they take to the high ground and use
 
 Bugbears value their shared origin with goblins and hobgoblins despite the three lines branching apart so dramatically. They think of themselves as goblinoids first and humanoids second, with that relationship providing a sense of common ground when cloistered bugbears come out of isolation.
 
-###### Bugbear Malice
+###### Bugbear Malice (Malice Features)
 
 At the start of any bugbear's turn, you can spend Malice to activate one of the following features.
 

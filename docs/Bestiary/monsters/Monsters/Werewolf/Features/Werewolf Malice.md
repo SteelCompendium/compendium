@@ -1,18 +1,18 @@
 ---
 file_basename: Werewolf Malice
 file_dpath: Monsters/Werewolf/Features
-item_id: werewolf-malice
+item_id: werewolf-malice-malice-features
 item_index: '43'
-item_name: Werewolf Malice
+item_name: Werewolf Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:werewolf-malice
+  - mcdm.monsters.v1:monster.feature:werewolf-malice-malice-features
 scdc:
   - 1.1.1:2.2:43
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Werewolf Malice
+###### Werewolf Malice (Malice Features)
 
 At the start of a werewolf's turn, you can spend Malice to activate one of the following features.
 

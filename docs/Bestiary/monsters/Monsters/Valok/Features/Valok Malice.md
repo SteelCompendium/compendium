@@ -1,18 +1,18 @@
 ---
 file_basename: Valok Malice
 file_dpath: Monsters/Valok/Features
-item_id: valok-malice
+item_id: valok-malice-malice-features
 item_index: '41'
-item_name: Valok Malice
+item_name: Valok Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:valok-malice
+  - mcdm.monsters.v1:monster.feature:valok-malice-malice-features
 scdc:
   - 1.1.1:2.2:41
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Valok Malice
+###### Valok Malice (Malice Features)
 
 At the start of any valok's turn, you can spend Malice to activate one of the following features.
 

@@ -19,7 +19,7 @@ type: feature/ability/role-advancement/ambusher
 >
 > | **Melee, Strike, Weapon** |     **Main action** |
 > | ------------------------- | ------------------: |
-> | **📏 Melee 1**            | \*\*🎯 One creature |
+> | **📏 Melee 1**            | **🎯 One creature** |
 >
 > **Power Roll + highest characteristic:**
 >

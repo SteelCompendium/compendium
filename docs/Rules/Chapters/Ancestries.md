@@ -533,7 +533,7 @@ You have the following signature ability.
 
 | **Area, Magic** |               **Main action** |
 | --------------- | ----------------------------: |
-| **📏 1 Burst**  | **🎯 Each enemy in the area** |
+| **📏 1 burst**  | **🎯 Each enemy in the area** |
 
 **Power Roll + Might or Presence:**
 
@@ -1741,15 +1741,17 @@ Additionally, you have the following signature ability. Signature abilities can 
 
 ###### Detonate Sigil
 
+*A magic sigil you placed on a creature explodes with energy.*
+
 | **Magic, Ranged, Strike** |                        **Main action** |
 | ------------------------- | -------------------------------------: |
 | **📏 Ranged 10**          | **🎯 One creature bearing your sigil** |
 
 **Power Roll + Reason, Intuition, or Presence:**
 
-- **≤11:** 3 + R , I , or P damage; slide 1
-- **12-16:** 5 + R , I , or P damage; slide 2
-- **17+:** 7 + R , I , or P damage; slide 3
+- **≤11:** 3 + R, I, or P damage; slide 1
+- **12-16:** 5 + R, I, or P damage; slide 2
+- **17+:** 7 + R, I, or P damage; slide 3
 
 **Effect:** The sigil disappears from the creature.
 
@@ -1889,9 +1891,9 @@ Choose one signature ability from the following options. Signature abilities can
 
 **Power Roll + Reason, Intuition, or Presence:**
 
-- **≤11:** 2 + R , I , or P damage;
-- **12-16:** 5 + R , I , or P damage; push 1
-- **17+:** 7 + R , I , or P damage; push 2; M < STRONG, prone
+- **≤11:** 2 + R, I, or P damage;
+- **12-16:** 5 + R, I, or P damage; push 1
+- **17+:** 7 + R, I, or P damage; push 2; M < STRONG, prone
 
 ###### Psionic Bolt
 
@@ -1900,6 +1902,8 @@ Choose one signature ability from the following options. Signature abilities can
 | **Psionic, Ranged, Strike** | Main action                   |
 | --------------------------- | ----------------------------- |
 | **📏 Ranged 10**            | **🎯 One creature or object** |
+
+**Power Roll + Reason, Intuition, or Presence:**
 
 - **≤11:** 2 + R, I, or P psychic damage; slide 1
 - **12-16:** 5 + R, I, or P psychic damage; slide 2

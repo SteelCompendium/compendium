@@ -1,18 +1,18 @@
 ---
 file_basename: Arixx Malice
 file_dpath: Monsters/Arixx/Features
-item_id: arixx-malice
+item_id: arixx-malice-malice-features
 item_index: '29'
-item_name: Arixx Malice
+item_name: Arixx Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:arixx-malice
+  - mcdm.monsters.v1:monster.feature:arixx-malice-malice-features
 scdc:
   - 1.1.1:2.2:29
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Arixx Malice
+###### Arixx Malice (Malice Features)
 
 At the start of an arixx's turn, you can spend Malice to activate one of the following features.
 

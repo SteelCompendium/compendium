@@ -46,7 +46,7 @@ To those who know the Dragon Phalanx of old, no name inspires more awe and fear 
 
 Most draconians speak Caelian in addition to the languages of their employers and creators. Lydixavus, Phrrygalax, and Dorzinuuth all speak Caelian and Vastariax. Aeolyxria speaks Caelian and the First Language. Locratix speaks Caelian and Oaxuatl. Myxovidan speaks Caelian and Axiomatic.
 
-###### Draconian Malice
+###### Draconian Malice (Malice Features)
 
 At the start of any draconian's turn, you can spend Malice to activate one of the following features.
 

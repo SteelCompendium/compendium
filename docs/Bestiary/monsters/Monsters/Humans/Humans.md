@@ -44,7 +44,7 @@ Humans are connected to the natural world in a way that many other folk are not.
 
 Most humans speak Caelian and one Vaslorian human language.
 
-###### Human Malice
+###### Human Malice (Malice Features)
 
 At the start of any human's turn, you can spend Malice to activate one of the following features.
 

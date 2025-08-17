@@ -1,18 +1,18 @@
 ---
 file_basename: Wode Elf Malice
 file_dpath: Monsters/Elves Wode/Features
-item_id: wode-elf-malice
+item_id: wode-elf-malice-malice-features
 item_index: '27'
-item_name: Wode Elf Malice
+item_name: Wode Elf Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:wode-elf-malice
+  - mcdm.monsters.v1:monster.feature:wode-elf-malice-malice-features
 scdc:
   - 1.1.1:2.2:27
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Wode Elf Malice
+###### Wode Elf Malice (Malice Features)
 
 At the start of any wode elf's turn, you can spend Malice to activate
 

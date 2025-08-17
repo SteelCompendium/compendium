@@ -1,18 +1,18 @@
 ---
 file_basename: Troll Malice
 file_dpath: Monsters/Trolls/Features
-item_id: troll-malice
+item_id: troll-malice-malice-features
 item_index: '55'
-item_name: Troll Malice
+item_name: Troll Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:troll-malice
+  - mcdm.monsters.v1:monster.feature:troll-malice-malice-features
 scdc:
   - 1.1.1:2.2:55
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Troll Malice
+###### Troll Malice (Malice Features)
 
 At the start of any troll's turn, you can spend Malice to activate one of the following features.
 

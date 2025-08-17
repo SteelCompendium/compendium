@@ -46,7 +46,7 @@ Agents of the deity who ordered a medusa's curse can sometimes be convinced to l
 
 Medusas can speak any language they knew before they were cursed. Many of them speak Caelian, and others have learned the languages of monsters and creatures they dwell near. Additionally, tales tell of some medusas who speak the original form of Khamish.
 
-###### Medusa Malice
+###### Medusa Malice (Malice Features)
 
 At the start of a medusa's turn, you can spend Malice to activate one of the following features.
 

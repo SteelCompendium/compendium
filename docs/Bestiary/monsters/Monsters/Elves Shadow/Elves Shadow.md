@@ -52,7 +52,7 @@ In many shadow elf societies, all people are given basic combat training and are
 
 Most shadow elves speak Illyvric, though platoon leaders might speak some Caelian or Hyrallic.
 
-###### Shadow Elf Malice
+###### Shadow Elf Malice (Malice Features)
 
 At the start of any shadow elf's turn, you can spend Malice to activate one of the following features.
 

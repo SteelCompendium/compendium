@@ -1,18 +1,18 @@
 ---
 file_basename: Hag Malice
 file_dpath: Monsters/Hag/Features
-item_id: hag-malice
+item_id: hag-malice-malice-features
 item_index: '36'
-item_name: Hag Malice
+item_name: Hag Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:hag-malice
+  - mcdm.monsters.v1:monster.feature:hag-malice-malice-features
 scdc:
   - 1.1.1:2.2:36
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Hag Malice
+###### Hag Malice (Malice Features)
 
 At the start of a hag's turn, you can spend Malice to activate one of the following features.
 

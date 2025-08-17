@@ -1,18 +1,18 @@
 ---
 file_basename: Lich Malice
 file_dpath: Monsters/Lich/Features
-item_id: lich-malice
+item_id: lich-malice-malice-features
 item_index: '51'
-item_name: Lich Malice
+item_name: Lich Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:lich-malice
+  - mcdm.monsters.v1:monster.feature:lich-malice-malice-features
 scdc:
   - 1.1.1:2.2:51
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Lich Malice
+###### Lich Malice (Malice Features)
 
 At the start of a lich's turn, you can spend Malice to activate one of the following features.
 

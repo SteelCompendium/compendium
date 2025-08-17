@@ -51,7 +51,7 @@ Slime servants are creatures who have been changed through the powers of the olo
 
 Only technology from the upper worlds, particularly products of evolutionary advancements made by the voiceless talkers, can restore a slime servant's memories and return them to their original state.
 
-###### Olothec Malice
+###### Olothec Malice (Malice Features)
 
 At the start of an olothec's turn, you can spend Malice to activate one of the following features.
 

@@ -68,7 +68,7 @@ type: monster
 >
 > | **Area**       |   **Maneuver** |
 > | -------------- | -------------: |
-> | **📏 3 Burst** | **🎯 Special** |
+> | **📏 3 burst** | **🎯 Special** |
 >
 > **Effect:** The scyza kicks up a sandstorm, granting concealment to themself and any ally in the area until the end of the scyza's next turn. Each enemy in the area makes an Intuition test.
 >

@@ -323,7 +323,7 @@ Thorn dragons are highly territorial, and are vigilant against potential threats
 >
 > **Special:** If the Thorn Dragon's Domain trait is in effect, any creature other than the dragon who starts their turn on the encounter map takes 1d3 poison damage.
 
-###### Thorn Dragon Malice
+###### Thorn Dragon Malice (Malice Features)
 
 At the start of a thorn dragon's turn, you can spend Malice to activate one of the following features.
 
@@ -492,7 +492,7 @@ Eerie myths surround the gloom dragons, for they wield languages they do not the
 >
 > **Effect:** The dragon disappears from the encounter map. The dragon and three hallucinatory illusions of themself then immediately reappear in unoccupied spaces on the encounter map, and the dragon and each illusion uses Breath of Brume. Each illusion is indistinguishable from the dragon except by supernatural means, has 1 Stamina, and has the dragon's speed. An illusion acts on the dragon's turns but can take only move actions. Once per round before or after using an ability, the dragon can trade places with any duplicate.
 
-###### Gloom Dragon Malice
+###### Gloom Dragon Malice (Malice Features)
 
 At the start of a gloom dragon's turn, you can spend Malice to activate one of the following features.
 
@@ -678,7 +678,7 @@ The oldest of crucible dragons are known to speak some Vastariax, though younger
 > - **12-16:** 13 damage; pull 8 or push 8
 > - **17+:** 7 damage; pull 5 or push 5.
 
-###### Crucible Dragon Malice
+###### Crucible Dragon Malice (Malice Features)
 
 At the start of a crucible dragon's turn, you can spend Malice to activate one of the following features.
 
@@ -867,7 +867,7 @@ An omen dragon speaks with the voices of all the souls they have collected. In a
 >
 > **Effect:** Each target must be dragonsealed. The dragon's eyes glow with unequalled malevolence, and any target who has a Deathcount has that Deathcount reduced to 1.
 
-###### Omen Dragon Malice
+###### Omen Dragon Malice (Malice Features)
 
 At the start of an omen dragon's turn, you can spend Malice to activate one of the following features.
 
@@ -1053,7 +1053,7 @@ Meteor dragons are not known for their conversational habits. When they do deign
 >
 > An annihilated target must make the test again, decreasing the potency for themself by 2 each time they are annihilated. A creature reduced to 0 Stamina by this dies and their soul is destroyed.
 
-###### Meteor Dragon Malice
+###### Meteor Dragon Malice (Malice Features)
 
 At the start of a meteor dragon's turn, you can spend Malice to activate one of the following features.
 

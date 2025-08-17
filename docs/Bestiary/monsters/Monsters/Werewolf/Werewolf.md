@@ -41,7 +41,7 @@ The powers that created the werewolves were also harnessed and cultivated under 
 
 Werewolves can speak any language they knew before they were cursed. A werewolf who has spent time researching their curse might also know Khamish, Anjali, or Khelt, depending on the circumstances underlying their transformation.
 
-###### Werewolf Malice
+###### Werewolf Malice (Malice Features)
 
 At the start of a werewolf's turn, you can spend Malice to activate one of the following features.
 

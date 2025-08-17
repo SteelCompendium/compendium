@@ -43,7 +43,7 @@ When a suitably large piece of a troll is torn off in battle, it does its very b
 
 Most trolls speak High Kuric or Variac, while a few also know Caelian. Trolls are notably difficult to negotiate with unless heroes can provide more appetizing food than themselves.
 
-###### Troll Malice
+###### Troll Malice (Malice Features)
 
 At the start of any troll's turn, you can spend Malice to activate one of the following features.
 

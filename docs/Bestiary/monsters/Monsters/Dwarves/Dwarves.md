@@ -54,7 +54,7 @@ Legends speak of stone singers, dwarves who could move mountains with their song
 
 Most dwarves speak Caelian and Zaliac.
 
-###### Dwarf Malice
+###### Dwarf Malice (Malice Features)
 
 At the start of any dwarf's turn, you can spend Malice to activate one of the following features.
 

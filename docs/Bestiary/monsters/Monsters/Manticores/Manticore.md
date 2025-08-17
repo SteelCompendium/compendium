@@ -32,7 +32,7 @@ A manticore who develops a taste for humanoids can rarely be tamed. But a young 
 
 Most manticores can mimic Caelian and one language commonly spoken in the region where they dwell. Except in rare cases, manticores don't communicate in full sentences and are too driven by hunger to engage in negotiation.
 
-###### Manticore Malice
+###### Manticore Malice (Malice Features)
 
 At the start of any manticore's turn, you can spend Malice to activate one of the following features.
 
@@ -137,7 +137,7 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 >
 > | **Area, Magic** |                            **-** |
 > | --------------- | -------------------------------: |
-> | **📏 5 Burst**  | **🎯 Each creature in the area** |
+> | **📏 5 burst**  | **🎯 Each creature in the area** |
 >
 > - **≤11:** Frightened (EoT); if the target has I < 2 they are instead frightened (save ends)
 > - **12-16:** Frightened (EoT); if the target has I < 3 they are instead frightened (save ends)

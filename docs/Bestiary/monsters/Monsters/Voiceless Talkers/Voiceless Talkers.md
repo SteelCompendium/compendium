@@ -54,7 +54,7 @@ Mindkiller whelps are a lesser form of mindkiller who can be created in a fracti
 
 Most voiceless talkers communicate telepathically using Mindspeech and speak Variac.
 
-###### Voiceless Talker Malice
+###### Voiceless Talker Malice (Malice Features)
 
 At the start of any voiceless talker's turn, you can spend Malice to activate one of the following features.
 

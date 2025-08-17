@@ -50,7 +50,7 @@ The gummy brick is a deadly ooze-a monster shaped of acidic goo and driven by en
 
 Most kobolds speak Kethaic and can understand Caelian.
 
-###### Kobold Malice
+###### Kobold Malice (Malice Features)
 
 At the start of any kobolds's turn, you can spend Malice to activate one of the following features.
 
@@ -334,7 +334,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 >
 > | **Area**       |                 **Maneuver** |
 > | -------------- | ---------------------------: |
-> | **📏 5 Burst** | **🎯 Each ally in the area** |
+> | **📏 5 burst** | **🎯 Each ally in the area** |
 >
 > **Effect:** Each target regains 5 Stamina.
 
@@ -468,7 +468,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 >
 > | **Area**       |         **Triggered action** |
 > | -------------- | ---------------------------: |
-> | **📏 5 Burst** | **🎯 Each ally in the area** |
+> | **📏 5 burst** | **🎯 Each ally in the area** |
 >
 > **Trigger:** A creature uses an ability that targets the centurion or an ally of the centurion within distance.
 >
@@ -548,7 +548,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 >
 > | **Area, Weapon** |                  **Main action** |
 > | ---------------- | -------------------------------: |
-> | **📏 2 Burst**   | **🎯 Each creature in the area** |
+> | **📏 2 burst**   | **🎯 Each creature in the area** |
 >
 > **Effect:** The drangolin uses the Dig maneuver to breach the surface before using this ability. Each target in the area where the drangolin breaches takes an extra 2 fire damage.
 >

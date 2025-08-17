@@ -52,7 +52,7 @@ When fighting a shambling mound, most attention is drawn to the cavernous chambe
 
 One must also be wary of the area around a shambling mound. Their vines reach out far, the full extent of their form hidden among other flora until they strike.
 
-###### Shambling Mound Malice
+###### Shambling Mound Malice (Malice Features)
 
 At the start of a shambling mound's turn, you can spend Malice to activate one of the following features.
 

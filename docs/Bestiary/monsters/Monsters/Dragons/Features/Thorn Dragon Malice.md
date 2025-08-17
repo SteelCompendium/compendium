@@ -1,18 +1,18 @@
 ---
 file_basename: Thorn Dragon Malice
 file_dpath: Monsters/Dragons/Features
-item_id: thorn-dragon-malice
+item_id: thorn-dragon-malice-malice-features
 item_index: '45'
-item_name: Thorn Dragon Malice
+item_name: Thorn Dragon Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:thorn-dragon-malice
+  - mcdm.monsters.v1:monster.feature:thorn-dragon-malice-malice-features
 scdc:
   - 1.1.1:2.2:45
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Thorn Dragon Malice
+###### Thorn Dragon Malice (Malice Features)
 
 At the start of a thorn dragon's turn, you can spend Malice to activate one of the following features.
 

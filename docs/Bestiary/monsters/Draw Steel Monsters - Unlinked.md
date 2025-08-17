@@ -758,7 +758,7 @@ Solo creatures use every movement advantage they have, whether burrowing, climbi
 >
 > - Give them the following Malice feature:
 >
-> **Solo Action** 5 Malice
+> **Solo Action (5 Malice)**
 >
 > The creature takes an additional main action on their turn. They can use this feature even if they are dazed.
 
@@ -1558,7 +1558,7 @@ At the start of each round, Ajax chooses a new stance from one of the following 
 >
 > Ajax has damage immunity 5. Additionally, any enemy who makes a power roll that includes Ajax as a target has a double bane on the roll.
 
-**<span class="steel-compendium-malice">Ajax's Malice</span>**
+**<span class="steel-compendium-malice">Ajax's Malice (Malice Features)</span>**
 
 At the start of Ajax's turn, you can spend Malice to activate one of the following features.
 
@@ -1794,7 +1794,7 @@ Most angulotls speak Filliaric.
 
 Angulotls make use of a unique effect called "wet." While wet, an angulotl doesn't provoke opportunity attacks by moving. At the same time, any non-angulotl who is wet and ends their turn with none of their movement remaining slips and falls prone. Several angulotl abilities can impose this effect, but a creature in an encounter featuring angulotls can also become wet by entering water, as the Director determines.
 
-**<span class="steel-compendium-malice">Angulotl Malice</span>**
+**<span class="steel-compendium-malice">Angulotl Malice (Malice Features)</span>**
 
 At the start of any angulotl's turn, you can spend Malice to activate one of the following features.
 
@@ -2732,7 +2732,7 @@ Although arixxi can be found anywhere, they are a particular plague in settled l
 
 Arixxi are a year-round menace in the warmest lands. In temperate places, arixxi hibernate during the winter, granting farmers a season of peace. But this respite is paid for on the first thaw of spring, when every arixx awakens ravenous on the same day and bursts from the ground to feed.
 
-**<span class="steel-compendium-malice">Arixx Malice</span>**
+**<span class="steel-compendium-malice">Arixx Malice (Malice Features)</span>**
 
 At the start of an arixx's turn, you can spend Malice to activate one of the following features.
 
@@ -2920,7 +2920,7 @@ These automatons are equipped to protect their cargo. If enemies corner an ashen
 
 Creating and powering an ashen hoarder requires a vast amount of necromantic energy. Along with an entire ossuary worth of bones to construct its body, powering the construct requires a soul. That soul is divided between the hoarder and an object known as a Soul Shackle usually a ring or an amulet-that is used to command the construct. Destroying the Soul Shackle can free the trapped soul, but doing so sends an ashen hoarder into an indiscriminate unshackled rage as they feel part of their stolen soul shredded into oblivion. The construct lashes out against any living creature they can before collapsing in on themself. Freeing the soul still trapped inside the ashen hoarder's remains requires completing the Find a Cure downtime project in *[Draw Steel: Heroes](https://mcdm.gg/DS-Heroes)* and the assistance of a powerful holy figure.
 
-**<span class="steel-compendium-malice">Ashen Hoarder Malice</span>**
+**<span class="steel-compendium-malice">Ashen Hoarder Malice (Malice Features)</span>**
 
 At the start of an ashen hoarder's turn, you can spend Malice to activate one of the following features.
 
@@ -3100,7 +3100,7 @@ Alchemists have discovered a gland in the basilisk's mouth that excretes an oil 
 > - **12-16:** 2 The character creates one dose of salve and can create two more doses by completing the Find a Cure downtime project.
 > - **17+:** 3 The character creates three doses of salve.
 
-**<span class="steel-compendium-malice">Basilisk Malice</span>**
+**<span class="steel-compendium-malice">Basilisk Malice (Malice Features)</span>**
 
 At the start of any basilisk's turn, you can spend Malice to activate one of the following features.
 
@@ -3289,7 +3289,7 @@ Travelers warn one another of roads rumored to be haunted by "wild green knights
 
 When a bredbeddle communicates, they typically use High Kuric or the languages that their head's previous owner knew. A bredbeddle who has taken multiple heads over their lifetime most likely knows Caelian as well.
 
-**<span class="steel-compendium-malice">Bredbeddle Malice</span>**
+**<span class="steel-compendium-malice">Bredbeddle Malice (Malice Features)</span>**
 
 At the start of a bredbeddle's turn, you can spend Malice to activate one of the following features.
 
@@ -3460,7 +3460,7 @@ When bugbears are compelled to take action, they take to the high ground and use
 
 Bugbears value their shared origin with goblins and hobgoblins despite the three lines branching apart so dramatically. They think of themselves as goblinoids first and humanoids second, with that relationship providing a sense of common ground when cloistered bugbears come out of isolation.
 
-**<span class="steel-compendium-malice">Bugbear Malice</span>**
+**<span class="steel-compendium-malice">Bugbear Malice (Malice Features)</span>**
 
 At the start of any bugbear's turn, you can spend Malice to activate one of the following features.
 
@@ -3916,7 +3916,7 @@ Chimeras have many ways to keep themselves and their charges from being cornered
 
 Unlike some other multiheaded creatures, a chimera possesses a single unified mind. Their heads work together, never snapping at one another over food, favors, or personality conflicts. The heads often express the chimera's emotions in unison, braying together in times of battle or purring all at once to show affection.
 
-**<span class="steel-compendium-malice">Chimera Malice</span>**
+**<span class="steel-compendium-malice">Chimera Malice (Malice Features)</span>**
 
 At the start of a chimera's turn, you can spend Malice to activate one of the following features.
 
@@ -5773,7 +5773,7 @@ Not every devil in the Seven Cities wants to ruthlessly ascend the hierarchy. So
 
 Most devils speak Anjal and Caelian, among other languages. The more powerful a devil, the more languages they learn in order to more easily make ironclad contracts with a wide variety of people and cultures. Outside of rare circumstances, devils are always willing to negotiate, ever desiring to twist a situation in their favor.
 
-**<span class="steel-compendium-malice">Devil Malice</span>**
+**<span class="steel-compendium-malice">Devil Malice (Malice Features)</span>**
 
 At the start of any devil's turn, you can spend Malice to activate one of the following features.
 
@@ -6315,7 +6315,7 @@ To those who know the Dragon Phalanx of old, no name inspires more awe and fear 
 
 Most draconians speak Caelian in addition to the languages of their employers and creators. Lydixavus, Phrrygalax, and Dorzinuuth all speak Caelian and Vastariax. Aeolyxria speaks Caelian and the First Language. Locratix speaks Caelian and Oaxuatl. Myxovidan speaks Caelian and Axiomatic.
 
-**<span class="steel-compendium-malice">Draconian Malice</span>**
+**<span class="steel-compendium-malice">Draconian Malice (Malice Features)</span>**
 
 At the start of any draconian's turn, you can spend Malice to activate one of the following features.
 
@@ -7093,7 +7093,7 @@ Thorn dragons are highly territorial, and are vigilant against potential threats
 >
 > **Special:** If the Thorn Dragon's Domain trait is in effect, any creature other than the dragon who starts their turn on the encounter map takes 1d3 poison damage.
 
-**<span class="steel-compendium-malice">Thorn Dragon Malice</span>**
+**<span class="steel-compendium-malice">Thorn Dragon Malice (Malice Features)</span>**
 
 At the start of a thorn dragon's turn, you can spend Malice to activate one of the following features.
 
@@ -7262,7 +7262,7 @@ Eerie myths surround the gloom dragons, for they wield languages they do not the
 >
 > **Effect:** The dragon disappears from the encounter map. The dragon and three hallucinatory illusions of themself then immediately reappear in unoccupied spaces on the encounter map, and the dragon and each illusion uses Breath of Brume. Each illusion is indistinguishable from the dragon except by supernatural means, has 1 Stamina, and has the dragon's speed. An illusion acts on the dragon's turns but can take only move actions. Once per round before or after using an ability, the dragon can trade places with any duplicate.
 
-**<span class="steel-compendium-malice">Gloom Dragon Malice</span>**
+**<span class="steel-compendium-malice">Gloom Dragon Malice (Malice Features)</span>**
 
 At the start of a gloom dragon's turn, you can spend Malice to activate one of the following features.
 
@@ -7448,7 +7448,7 @@ The oldest of crucible dragons are known to speak some Vastariax, though younger
 > - **12-16:** 13 damage; pull 8 or push 8
 > - **17+:** 7 damage; pull 5 or push 5.
 
-**<span class="steel-compendium-malice">Crucible Dragon Malice</span>**
+**<span class="steel-compendium-malice">Crucible Dragon Malice (Malice Features)</span>**
 
 At the start of a crucible dragon's turn, you can spend Malice to activate one of the following features.
 
@@ -7637,7 +7637,7 @@ An omen dragon speaks with the voices of all the souls they have collected. In a
 >
 > **Effect:** Each target must be dragonsealed. The dragon's eyes glow with unequalled malevolence, and any target who has a Deathcount has that Deathcount reduced to 1.
 
-**<span class="steel-compendium-malice">Omen Dragon Malice</span>**
+**<span class="steel-compendium-malice">Omen Dragon Malice (Malice Features)</span>**
 
 At the start of an omen dragon's turn, you can spend Malice to activate one of the following features.
 
@@ -7823,7 +7823,7 @@ Meteor dragons are not known for their conversational habits. When they do deign
 >
 > An annihilated target must make the test again, decreasing the potency for themself by 2 each time they are annihilated. A creature reduced to 0 Stamina by this dies and their soul is destroyed.
 
-**<span class="steel-compendium-malice">Meteor Dragon Malice</span>**
+**<span class="steel-compendium-malice">Meteor Dragon Malice (Malice Features)</span>**
 
 At the start of a meteor dragon's turn, you can spend Malice to activate one of the following features.
 
@@ -7893,7 +7893,7 @@ Legends speak of stone singers, dwarves who could move mountains with their song
 
 Most dwarves speak Caelian and Zaliac.
 
-**<span class="steel-compendium-malice">Dwarf Malice</span>**
+**<span class="steel-compendium-malice">Dwarf Malice (Malice Features)</span>**
 
 At the start of any dwarf's turn, you can spend Malice to activate one of the following features.
 
@@ -8474,7 +8474,7 @@ Most elementals speak Low Kuric. Some can use Caelian when they need to.
 >
 > Atæshia, Queen of Ash
 
-**<span class="steel-compendium-malice">Elemental Malice</span>**
+**<span class="steel-compendium-malice">Elemental Malice (Malice Features)</span>**
 
 At the start of any elemental's turn, you can spend Malice to activate one of the following features.
 
@@ -8814,7 +8814,7 @@ Most high elves speak Caelian and Hyrallic, with some also speaking Yllyric.
 >
 > Whenever a high elf ordinator appears on an encounter map, the Chaincast Malice feature is improved and always active. When any elf uses a magic ability as if they were in the ordinator's space, that ability has a double edge.
 
-**<span class="steel-compendium-malice">High Elf Malice</span>**
+**<span class="steel-compendium-malice">High Elf Malice (Malice Features)</span>**
 
 At the start of any high elf's turn, you can spend Malice to activate one of the following features.
 
@@ -9423,7 +9423,7 @@ In many shadow elf societies, all people are given basic combat training and are
 
 Most shadow elves speak Illyvric, though platoon leaders might speak some Caelian or Hyrallic.
 
-**<span class="steel-compendium-malice">Shadow Elf Malice</span>**
+**<span class="steel-compendium-malice">Shadow Elf Malice (Malice Features)</span>**
 
 At the start of any shadow elf's turn, you can spend Malice to activate one of the following features.
 
@@ -10069,7 +10069,7 @@ Most wode elves speak Caelian and Yllyric.
 
 one of the following features.
 
-**<span class="steel-compendium-malice">Wode Elf Malice</span>**
+**<span class="steel-compendium-malice">Wode Elf Malice (Malice Features)</span>**
 
 At the start of any wode elf's turn, you can spend Malice to activate
 
@@ -10677,7 +10677,7 @@ Fossil cryptics often warn trespassers to leave their domains, speaking threats 
 
 Many fossil cryptics speak Phorialtic, but they are known to also use the ancient languages of the ruins they inhabit.
 
-**<span class="steel-compendium-malice">Fossil Cryptic Malice</span>**
+**<span class="steel-compendium-malice">Fossil Cryptic Malice (Malice Features)</span>**
 
 At the start of a fossil cryptic's turn, you can spend Malice to activate one of the following features.
 
@@ -10892,7 +10892,7 @@ Stone giants are made of the same kinds of rocks that form their homes-sandstone
 
 Most giants speak their kind's dialect of High Kuric. Many hill giants also know Caelian.
 
-**<span class="steel-compendium-malice">Giant Malice</span>**
+**<span class="steel-compendium-malice">Giant Malice (Malice Features)</span>**
 
 At the start of any giant's turn, you can spend Malice to activate one of the following features.
 
@@ -11736,7 +11736,7 @@ Most gnolls speak Tholl. Gnoll carnages and other older gnolls usually also know
 
 When gnolls go into a frenzy and coordinate their individual Cackletongue maneuvers, few heroes will leave the battlefield unscarred. Any 1st-echelon encounter that contains more than two non-minion gnolls can be considered one difficulty category harder at the Director's discretion.
 
-**<span class="steel-compendium-malice">Gnoll Malice</span>**
+**<span class="steel-compendium-malice">Gnoll Malice (Malice Features)</span>**
 
 At the start of any gnoll's turn, you can spend Malice to activate one of the following features.
 
@@ -12208,7 +12208,7 @@ Their long arms and prehensile toes make goblins particularly well adapted to en
 
 Whether within a society or living in exile, goblins survive and thrive because they work together. A single goblin forced into the wild is terrified. A dozen outlaw goblins are supremely confident-perhaps overly so. Such groups often become bandits who ambush travelers crossing through their territory, be it desert, forest, or underground. Larger goblin hordes might become unscrupulous mercenaries serving powerful villains. No matter how they're encountered, goblins prefer to fight as an overwhelming force and to flee when foes outnumber friends.
 
-**<span class="steel-compendium-malice">Goblin Malice</span>**
+**<span class="steel-compendium-malice">Goblin Malice (Malice Features)</span>**
 
 At the start of any goblin's turn, you can spend Malice to activate one of the following features.
 
@@ -12777,7 +12777,7 @@ Griffons roost alone or in pairs on craggy mountainsides, in forests, or on clif
 
 Griffons come in many varieties. While the most common griffon is the leonine eagle, others include a falcon-panther variety, a bearded vulture-clouded leopard variety, and a striped condor griffon that combines the features of condor and tiger. Questions abound as to whether these creatures came about naturally or were fashioned by magic hands, and many scholars offer abundant rewards to adventurers who can bring them evidence of rare or undiscovered griffon types.
 
-**<span class="steel-compendium-malice">Griffon Malice</span>**
+**<span class="steel-compendium-malice">Griffon Malice (Malice Features)</span>**
 
 At the start of any griffon's turn, you can spend Malice to activate one of the following features.
 
@@ -12975,7 +12975,7 @@ Hags are treacherous by nature, and they only recruit creatures they can trust t
 
 Most hags speak Anjali, Caelian, Khelt, and Yllyric, with older hags often knowing several more languages.
 
-**<span class="steel-compendium-malice">Hag Malice</span>**
+**<span class="steel-compendium-malice">Hag Malice (Malice Features)</span>**
 
 At the start of a hag's turn, you can spend Malice to activate one of the following features.
 
@@ -13202,7 +13202,7 @@ Devils captured the grack'tanars eons ago. Broken, these demons wait for a call 
 
 Most hobgoblins speak Anjali, Caelian, and Szetch.
 
-**<span class="steel-compendium-malice">Hobgoblin Malice</span>**
+**<span class="steel-compendium-malice">Hobgoblin Malice (Malice Features)</span>**
 
 At the start of any hobgoblin's turn, you can spend Malice to activate one of the following features.
 
@@ -13939,7 +13939,7 @@ Humans are connected to the natural world in a way that many other folk are not.
 
 Most humans speak Caelian and one Vaslorian human language.
 
-**<span class="steel-compendium-malice">Human Malice</span>**
+**<span class="steel-compendium-malice">Human Malice (Malice Features)</span>**
 
 At the start of any human's turn, you can spend Malice to activate one of the following features.
 
@@ -14601,7 +14601,7 @@ Kingfissure worms never stop growing, and the oldest are truly immense, easily m
 
 For all their might and vitality, kingfissure worms are primarily ambush hunters, and like any ambush hunter, they need delicate and precise senses to detect and target their prey when it approaches. As burrowing creatures, they have a finely tuned sense of touch able to detect even the most minute vibrations while in direct contact with earth and stone. This fills the role of their primary sense, and their rudimentary eyesight leaves them dreadfully nearsighted. In combination, their poor vision and reliance on ground-conducted vibrations means that they have almost no way of pinpointing flying creatures, and many species of birds find kingfissure worm territory exceptionally safe and free from predators.
 
-**<span class="steel-compendium-malice">Kingfissure Worm Malice</span>**
+**<span class="steel-compendium-malice">Kingfissure Worm Malice (Malice Features)</span>**
 
 At the start of a kingfissure worm's turn or when an action's trigger occurs, you can spend Malice to activate one of the following features.
 
@@ -14641,7 +14641,7 @@ At the start of a kingfissure worm's turn or when an action's trigger occurs, yo
 >
 > **Effect:** Until the end of the next round, each target takes a −3 penalty to stability, treats all terrain as difficult terrain, and takes 10 damage whenever they are knocked prone.
 
-**<span class="steel-compendium-statblock">Kingfissure Wor</span>**
+**<span class="steel-compendium-statblock">Kingfissure Worm</span>**
 
 |    Beast, Worm    |           -            |      Level 7       |         Solo          |        EV 108        |
 | :---------------: | :--------------------: | :----------------: | :-------------------: | :------------------: |
@@ -14817,7 +14817,7 @@ The gummy brick is a deadly ooze-a monster shaped of acidic goo and driven by en
 
 Most kobolds speak Kethaic and can understand Caelian.
 
-**<span class="steel-compendium-malice">Kobold Malice</span>**
+**<span class="steel-compendium-malice">Kobold Malice (Malice Features)</span>**
 
 At the start of any kobolds's turn, you can spend Malice to activate one of the following features.
 
@@ -15101,7 +15101,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 >
 > | **Area**       |                 **Maneuver** |
 > | -------------- | ---------------------------: |
-> | **📏 5 Burst** | **🎯 Each ally in the area** |
+> | **📏 5 burst** | **🎯 Each ally in the area** |
 >
 > **Effect:** Each target regains 5 Stamina.
 
@@ -15235,7 +15235,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 >
 > | **Area**       |         **Triggered action** |
 > | -------------- | ---------------------------: |
-> | **📏 5 Burst** | **🎯 Each ally in the area** |
+> | **📏 5 burst** | **🎯 Each ally in the area** |
 >
 > **Trigger:** A creature uses an ability that targets the centurion or an ally of the centurion within distance.
 >
@@ -15315,7 +15315,7 @@ At the start of any kobolds's turn, you can spend Malice to activate one of the 
 >
 > | **Area, Weapon** |                  **Main action** |
 > | ---------------- | -------------------------------: |
-> | **📏 2 Burst**   | **🎯 Each creature in the area** |
+> | **📏 2 burst**   | **🎯 Each creature in the area** |
 >
 > **Effect:** The drangolin uses the Dig maneuver to breach the surface before using this ability. Each target in the area where the drangolin breaches takes an extra 2 fire damage.
 >
@@ -15351,7 +15351,7 @@ Lightbenders can also bend the sounds they make, enabling them to almost complet
 
 Though lightbenders are typically solitary creatures, they sometimes cross into another lightbender's territory to help protect a newborn litter of kittens. A few people have succeeded in taming lightbenders as guards or hunting beasts, and if treated well, they can make loyal protectors, often viewing their smaller humanoid companions as surrogate kittens.
 
-**<span class="steel-compendium-malice">Lightbender Malice</span>**
+**<span class="steel-compendium-malice">Lightbender Malice (Malice Features)</span>**
 
 At the start of any lightbender's turn, you can spend Malice to activate one of the following features.
 
@@ -15467,7 +15467,7 @@ At the start of any lightbender's turn, you can spend Malice to activate one of 
 >
 > | **Area, Magic** |                          **Main action** |
 > | --------------- | ---------------------------------------: |
-> | **📏 2 Burst**  | **🎯 Each enemy and object in the area** |
+> | **📏 2 burst**  | **🎯 Each enemy and object in the area** |
 >
 > **Power Roll + 2:**
 >
@@ -15542,7 +15542,7 @@ In times of crisis, such as a food shortage, an evil lizardfolk leader can explo
 
 Most lizardfolk speak Caelian and their own dialect of Khamish.
 
-**<span class="steel-compendium-malice">Lizardfolk Malice</span>**
+**<span class="steel-compendium-malice">Lizardfolk Malice (Malice Features)</span>**
 
 At the start of any lizardfolk's turn, you can spend Malice to activate one of the following features.
 
@@ -15853,7 +15853,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 >
 > | **Area**        |                                 **-** |
 > | --------------- | ------------------------------------: |
-> | **📏 10 Burst** | **🎯 Self and each ally in the area** |
+> | **📏 10 burst** | **🎯 Self and each ally in the area** |
 >
 > **Effect:** Each target moves up to their speed and can make a free strike. Each target gains temporary Stamina equal to the damage they deal.
 
@@ -15870,7 +15870,7 @@ At the start of any lizardfolk's turn, you can spend Malice to activate one of t
 
 | **Area**        |                                 **-** |
 | --------------- | ------------------------------------: |
-| **📏 10 Burst** | **🎯 Self and each ally in the area** |
+| **📏 10 burst** | **🎯 Self and each ally in the area** |
 
 **Effect:** Each target moves up to their speed. Until the end of the encounter, whenever a creature comes adjacent to a target or starts their turn there, the target can make a free strike against them.
 
@@ -15894,7 +15894,7 @@ A manticore who develops a taste for humanoids can rarely be tamed. But a young 
 
 Most manticores can mimic Caelian and one language commonly spoken in the region where they dwell. Except in rare cases, manticores don't communicate in full sentences and are too driven by hunger to engage in negotiation.
 
-**<span class="steel-compendium-malice">Manticore Malice</span>**
+**<span class="steel-compendium-malice">Manticore Malice (Malice Features)</span>**
 
 At the start of any manticore's turn, you can spend Malice to activate one of the following features.
 
@@ -15999,7 +15999,7 @@ At the start of any manticore's turn, you can spend Malice to activate one of th
 >
 > | **Area, Magic** |                            **-** |
 > | --------------- | -------------------------------: |
-> | **📏 5 Burst**  | **🎯 Each creature in the area** |
+> | **📏 5 burst**  | **🎯 Each creature in the area** |
 >
 > - **≤11:** Frightened (EoT); if the target has I < 2 they are instead frightened (save ends)
 > - **12-16:** Frightened (EoT); if the target has I < 3 they are instead frightened (save ends)
@@ -16080,7 +16080,7 @@ Agents of the deity who ordered a medusa's curse can sometimes be convinced to l
 
 Medusas can speak any language they knew before they were cursed. Many of them speak Caelian, and others have learned the languages of monsters and creatures they dwell near. Additionally, tales tell of some medusas who speak the original form of Khamish.
 
-**<span class="steel-compendium-malice">Medusa Malice</span>**
+**<span class="steel-compendium-malice">Medusa Malice (Malice Features)</span>**
 
 At the start of a medusa's turn, you can spend Malice to activate one of the following features.
 
@@ -16271,7 +16271,7 @@ Even evil minotaurs can be fiercely loyal friends, gladly charging into certain 
 
 Most minotaurs speak their own dialect of Khamish.
 
-**<span class="steel-compendium-malice">Minotaur Malice</span>**
+**<span class="steel-compendium-malice">Minotaur Malice (Malice Features)</span>**
 
 At the start of any minotaur's turn, you can spend Malice to activate one of the following features.
 
@@ -16538,7 +16538,7 @@ Rumor has it that a cyclops can emit a mile-long energy ray from their eye. Howe
 
 Most ogres speak Caelian and High Kuric.
 
-**<span class="steel-compendium-malice">Ogre Malice</span>**
+**<span class="steel-compendium-malice">Ogre Malice (Malice Features)</span>**
 
 At the start of any ogre's turn, you can spend Malice to activate one of the following features.
 
@@ -16843,7 +16843,7 @@ Slime servants are creatures who have been changed through the powers of the olo
 
 Only technology from the upper worlds, particularly products of evolutionary advancements made by the voiceless talkers, can restore a slime servant’s memories and return them to their original state.
 
-**<span class="steel-compendium-malice">Olothec Malice</span>**
+**<span class="steel-compendium-malice">Olothec Malice (Malice Features)</span>**
 
 At the start of an olothec's turn, you can spend Malice to activate one of the following features.
 
@@ -17561,7 +17561,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 >
 > | **Area, Weapon** |                          **Main action** |
 > | ---------------- | ---------------------------------------: |
-> | **📏 3 Burst**   | **🎯 Each enemy and object in the area** |
+> | **📏 3 burst**   | **🎯 Each enemy and object in the area** |
 >
 > **Power Roll + 2:**
 >
@@ -17640,7 +17640,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 >
 > | \*\* Area\*\*   |                        **-** |
 > | --------------- | ---------------------------: |
-> | **📏 10 Burst** | **🎯 Each ally in the area** |
+> | **📏 10 burst** | **🎯 Each ally in the area** |
 >
 > **Effect:** Each target moves up to their speed. Each enemy adjacent to a target after this move makes an Intuition test.
 >
@@ -17732,7 +17732,7 @@ At the start of any orc's turn, you can spend Malice to activate one of the foll
 >
 > | **Area**       |   **Maneuver** |
 > | -------------- | -------------: |
-> | **📏 3 Burst** | **🎯 Special** |
+> | **📏 3 burst** | **🎯 Special** |
 >
 > **Effect:** The scyza kicks up a sandstorm, granting concealment to themself and any ally in the area until the end of the scyza's next turn. Each enemy in the area makes an Intuition test.
 >
@@ -17785,7 +17785,7 @@ In truth, the Great Maclette finds beauty in the thrill of the heist. Robbery is
 
 Most radenwights speak Caelian and Szetch.
 
-**<span class="steel-compendium-malice">Radenwight Malice</span>**
+**<span class="steel-compendium-malice">Radenwight Malice (Malice Features)</span>**
 
 At the start of any radenwight's turn, you can spend Malice to activate one of the following features.
 
@@ -19720,7 +19720,7 @@ When fighting a shambling mound, most attention is drawn to the cavernous chambe
 
 One must also be wary of the area around a shambling mound. Their vines reach out far, the full extent of their form hidden among other flora until they strike.
 
-**<span class="steel-compendium-malice">Shambling Mound Malice</span>**
+**<span class="steel-compendium-malice">Shambling Mound Malice (Malice Features)</span>**
 
 At the start of a shambling mound's turn, you can spend Malice to activate one of the following features.
 
@@ -19906,7 +19906,7 @@ While in the Sea of Stars, time raiders and other creatures don't age. As a resu
 
 Most time raiders speak Caelian and Voll. Because of the number of worlds they've visited, many time raiders have their speech peppered with misplaced tenses and strange references.
 
-**<span class="steel-compendium-malice">Time Raider Malice</span>**
+**<span class="steel-compendium-malice">Time Raider Malice (Malice Features)</span>**
 
 At the start of any time raider's turn, you can spend Malice to activate one of the following features.
 
@@ -20345,7 +20345,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 >
 > | **Area**        |                                 **-** |
 > | --------------- | ------------------------------------: |
-> | **📏 10 Burst** | **🎯 Self and each ally in the area** |
+> | **📏 10 burst** | **🎯 Self and each ally in the area** |
 >
 > **Effect:** Each target can end one effect on them or can move up to their speed.
 
@@ -20389,7 +20389,7 @@ When a suitably large piece of a troll is torn off in battle, it does its very b
 
 Most trolls speak High Kuric or Variac, while a few also know Caelian. Trolls are notably difficult to negotiate with unless heroes can provide more appetizing food than themselves.
 
-**<span class="steel-compendium-malice">Troll Malice</span>**
+**<span class="steel-compendium-malice">Troll Malice (Malice Features)</span>**
 
 At the start of any troll's turn, you can spend Malice to activate one of the following features.
 
@@ -22373,7 +22373,7 @@ Rhodar speaks Caelian and Vaslorian.
 >
 > Dancer, Chronicler of the Chain of Acheron
 
-**<span class="steel-compendium-malice">Rhodar's Malice</span>**
+**<span class="steel-compendium-malice">Rhodar's Malice (Malice Features)</span>**
 
 At the start of Rhodar's turn, you can spend Malice to activate one of the following features.
 
@@ -22580,7 +22580,7 @@ Liches know they have all the time in the world to plot against their foes, and 
 
 A lich speaks the languages they knew in life, and might also pick up Anjali, Proto-Ctholl, Variac, and Vastariax over their limitless lifetime.
 
-**<span class="steel-compendium-malice">Lich Malice</span>**
+**<span class="steel-compendium-malice">Lich Malice (Malice Features)</span>**
 
 At the start of a lich's turn, you can spend Malice to activate one of the following features.
 
@@ -22777,7 +22777,7 @@ While two classes of valok-servok and multivok-have been discovered, ancient ste
 
 Ruined valok litter the deepest ruins of the steel dwarves, and without the steel dwarves' secrets, their valiar and iridoss are useless to modern smiths. But some valok still labor in the depths, carrying out the orders given to them long ago and ready to end any who interfere.
 
-**<span class="steel-compendium-malice">Valok Malice</span>**
+**<span class="steel-compendium-malice">Valok Malice (Malice Features)</span>**
 
 At the start of any valok's turn, you can spend Malice to activate one of the following features.
 
@@ -23264,7 +23264,7 @@ Mindkiller whelps are a lesser form of mindkiller who can be created in a fracti
 
 Most voiceless talkers communicate telepathically using Mindspeech and speak Variac.
 
-**<span class="steel-compendium-malice">Voiceless Talker Malice</span>**
+**<span class="steel-compendium-malice">Voiceless Talker Malice (Malice Features)</span>**
 
 At the start of any voiceless talker's turn, you can spend Malice to activate one of the following features.
 
@@ -23756,7 +23756,7 @@ In his mind, everything that is not Lord Syuul is flawed. When his new device is
 
 Lord Syuul communicates telepathically using Mindspeech and speaks Variac.
 
-**<span class="steel-compendium-malice">Lord Syuul's Malice</span>**
+**<span class="steel-compendium-malice">Lord Syuul's Malice (Malice Features)</span>**
 
 At the start of Lord Syuul's turn, you can spend Malice to activate one of the following features.
 
@@ -26273,7 +26273,7 @@ The powers that created the werewolves were also harnessed and cultivated under 
 
 Werewolves can speak any language they knew before they were cursed. A werewolf who has spent time researching their curse might also know Khamish, Anjali, or Khelt, depending on the circumstances underlying their transformation.
 
-**<span class="steel-compendium-malice">Werewolf Malice</span>**
+**<span class="steel-compendium-malice">Werewolf Malice (Malice Features)</span>**
 
 At the start of a werewolf's turn, you can spend Malice to activate one of the following features.
 
@@ -26926,7 +26926,7 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 >
 > The zapper eye has damage immunity 15. When they use a main action, they lose this immunity until the end of the round.
 
-**<span class="steel-compendium-malice">Xorannox's Malice</span>**
+**<span class="steel-compendium-malice">Xorannox's Malice (Malice Features)</span>**
 
 At the start of Xorannox's turn, you can spend Malice to activate one
 of the following features.
@@ -28535,7 +28535,7 @@ A foreboding obelisk shaped of dark stone harrows the minds and spirits of those
 >
 > | **Area, Magic** |     **Free triggered action** |
 > | --------------- | ----------------------------: |
-> | **📏 10 Burst** | **🎯 Each enemy in the area** |
+> | **📏 10 burst** | **🎯 Each enemy in the area** |
 >
 > **Trigger:** A new round starts.
 >
@@ -28787,7 +28787,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 >
 > | **Melee, Strike, Weapon** |     **Main action** |
 > | ------------------------- | ------------------: |
-> | **📏 Melee 1**            | \*\*🎯 One creature |
+> | **📏 Melee 1**            | **🎯 One creature** |
 >
 > **Power Roll + highest characteristic:**
 >
@@ -30020,7 +30020,7 @@ If a role advancement ability has the Magic or Psionic keyword, a retainer can s
 >
 > | **Area, Magic** |               **Main action** |
 > | --------------- | ----------------------------: |
-> | **📏 3 Burst**  | **🎯 Each enemy in the area** |
+> | **📏 3 burst**  | **🎯 Each enemy in the area** |
 >
 > **Power Roll + highest characteristic:**
 >

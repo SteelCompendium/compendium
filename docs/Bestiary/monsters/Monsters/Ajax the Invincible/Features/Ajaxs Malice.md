@@ -1,18 +1,18 @@
 ---
 file_basename: Ajaxs Malice
 file_dpath: Monsters/Ajax the Invincible/Features
-item_id: ajaxs-malice
+item_id: ajaxs-malice-malice-features
 item_index: '16'
-item_name: Ajax's Malice
+item_name: Ajax's Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:ajaxs-malice
+  - mcdm.monsters.v1:monster.feature:ajaxs-malice-malice-features
 scdc:
   - 1.1.1:2.2:16
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Ajax's Malice
+###### Ajax's Malice (Malice Features)
 
 At the start of Ajax's turn, you can spend Malice to activate one of the following features.
 

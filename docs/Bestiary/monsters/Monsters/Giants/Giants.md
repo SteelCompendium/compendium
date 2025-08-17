@@ -52,7 +52,7 @@ Stone giants are made of the same kinds of rocks that form their homes-sandstone
 
 Most giants speak their kind's dialect of High Kuric. Many hill giants also know Caelian.
 
-###### Giant Malice
+###### Giant Malice (Malice Features)
 
 At the start of any giant's turn, you can spend Malice to activate one of the following features.
 

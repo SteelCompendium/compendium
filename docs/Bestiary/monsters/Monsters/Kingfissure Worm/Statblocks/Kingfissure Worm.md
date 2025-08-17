@@ -1,18 +1,18 @@
 ---
-file_basename: Kingfissure Wor
+file_basename: Kingfissure Worm
 file_dpath: Monsters/Kingfissure Worm/Statblocks
-item_id: kingfissure-wor
+item_id: kingfissure-worm
 item_index: '247'
-item_name: Kingfissure Wor
+item_name: Kingfissure Worm
 scc:
-  - mcdm.monsters.v1:monster:kingfissure-wor
+  - mcdm.monsters.v1:monster:kingfissure-worm
 scdc:
   - 1.1.1:2:247
 source: mcdm.monsters.v1
 type: monster
 ---
 
-###### Kingfissure Wor
+###### Kingfissure Worm
 
 |     Beast, Worm     |            -             |       Level 7        |          Solo           |         EV 108         |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :--------------------: |

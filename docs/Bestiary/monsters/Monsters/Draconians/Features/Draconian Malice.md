@@ -1,18 +1,18 @@
 ---
 file_basename: Draconian Malice
 file_dpath: Monsters/Draconians/Features
-item_id: draconian-malice
+item_id: draconian-malice-malice-features
 item_index: '10'
-item_name: Draconian Malice
+item_name: Draconian Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:draconian-malice
+  - mcdm.monsters.v1:monster.feature:draconian-malice-malice-features
 scdc:
   - 1.1.1:2.2:10
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Draconian Malice
+###### Draconian Malice (Malice Features)
 
 At the start of any draconian's turn, you can spend Malice to activate one of the following features.
 

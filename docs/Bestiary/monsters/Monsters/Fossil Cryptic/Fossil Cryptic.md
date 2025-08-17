@@ -32,7 +32,7 @@ Fossil cryptics often warn trespassers to leave their domains, speaking threats 
 
 Many fossil cryptics speak Phorialtic, but they are known to also use the ancient languages of the ruins they inhabit.
 
-###### Fossil Cryptic Malice
+###### Fossil Cryptic Malice (Malice Features)
 
 At the start of a fossil cryptic's turn, you can spend Malice to activate one of the following features.
 

@@ -104,7 +104,7 @@ At the start of each round, Ajax chooses a new stance from one of the following 
 >
 > Ajax has damage immunity 5. Additionally, any enemy who makes a power roll that includes Ajax as a target has a double bane on the roll.
 
-###### Ajax's Malice
+###### Ajax's Malice (Malice Features)
 
 At the start of Ajax's turn, you can spend Malice to activate one of the following features.
 

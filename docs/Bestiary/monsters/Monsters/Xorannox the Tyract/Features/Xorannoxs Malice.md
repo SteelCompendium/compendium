@@ -1,18 +1,18 @@
 ---
 file_basename: Xorannoxs Malice
 file_dpath: Monsters/Xorannox the Tyract/Features
-item_id: xorannoxs-malice
+item_id: xorannoxs-malice-malice-features
 item_index: '39'
-item_name: Xorannox's Malice
+item_name: Xorannox's Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:xorannoxs-malice
+  - mcdm.monsters.v1:monster.feature:xorannoxs-malice-malice-features
 scdc:
   - 1.1.1:2.2:39
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Xorannox's Malice
+###### Xorannox's Malice (Malice Features)
 
 At the start of Xorannox's turn, you can spend Malice to activate one of the following features.
 

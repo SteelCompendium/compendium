@@ -30,7 +30,7 @@ Chimeras have many ways to keep themselves and their charges from being cornered
 
 Unlike some other multiheaded creatures, a chimera possesses a single unified mind. Their heads work together, never snapping at one another over food, favors, or personality conflicts. The heads often express the chimera's emotions in unison, braying together in times of battle or purring all at once to show affection.
 
-###### Chimera Malice
+###### Chimera Malice (Malice Features)
 
 At the start of a chimera's turn, you can spend Malice to activate one of the following features.
 

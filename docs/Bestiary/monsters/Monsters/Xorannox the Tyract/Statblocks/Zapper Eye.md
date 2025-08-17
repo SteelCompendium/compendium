@@ -39,7 +39,7 @@ type: monster
 >
 > The zapper eye has damage immunity 15. When they use a main action, they lose this immunity until the end of the round.
 
-###### Xorannox's Malice
+###### Xorannox's Malice (Malice Features)
 
 At the start of Xorannox's turn, you can spend Malice to activate one of the following features.
 

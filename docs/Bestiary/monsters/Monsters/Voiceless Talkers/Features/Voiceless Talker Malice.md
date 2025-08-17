@@ -1,18 +1,18 @@
 ---
 file_basename: Voiceless Talker Malice
 file_dpath: Monsters/Voiceless Talkers/Features
-item_id: voiceless-talker-malice
+item_id: voiceless-talker-malice-malice-features
 item_index: '44'
-item_name: Voiceless Talker Malice
+item_name: Voiceless Talker Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:voiceless-talker-malice
+  - mcdm.monsters.v1:monster.feature:voiceless-talker-malice-malice-features
 scdc:
   - 1.1.1:2.2:44
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Voiceless Talker Malice
+###### Voiceless Talker Malice (Malice Features)
 
 At the start of any voiceless talker's turn, you can spend Malice to activate one of the following features.
 

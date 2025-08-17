@@ -1,18 +1,18 @@
 ---
 file_basename: Devil Malice
 file_dpath: Monsters/Devils/Features
-item_id: devil-malice
+item_id: devil-malice-malice-features
 item_index: '37'
-item_name: Devil Malice
+item_name: Devil Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:devil-malice
+  - mcdm.monsters.v1:monster.feature:devil-malice-malice-features
 scdc:
   - 1.1.1:2.2:37
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Devil Malice
+###### Devil Malice (Malice Features)
 
 At the start of any devil's turn, you can spend Malice to activate one of the following features.
 

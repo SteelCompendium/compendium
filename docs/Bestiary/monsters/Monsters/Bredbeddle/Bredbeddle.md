@@ -32,7 +32,7 @@ Travelers warn one another of roads rumored to be haunted by "wild green knights
 
 When a bredbeddle communicates, they typically use High Kuric or the languages that their head's previous owner knew. A bredbeddle who has taken multiple heads over their lifetime most likely knows Caelian as well.
 
-###### Bredbeddle Malice
+###### Bredbeddle Malice (Malice Features)
 
 At the start of a bredbeddle's turn, you can spend Malice to activate one of the following features.
 

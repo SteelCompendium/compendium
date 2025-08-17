@@ -1,18 +1,18 @@
 ---
 file_basename: Ashen Hoarder Malice
 file_dpath: Monsters/Ashen Hoarder/Features
-item_id: ashen-hoarder-malice
+item_id: ashen-hoarder-malice-malice-features
 item_index: '25'
-item_name: Ashen Hoarder Malice
+item_name: Ashen Hoarder Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:ashen-hoarder-malice
+  - mcdm.monsters.v1:monster.feature:ashen-hoarder-malice-malice-features
 scdc:
   - 1.1.1:2.2:25
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Ashen Hoarder Malice
+###### Ashen Hoarder Malice (Malice Features)
 
 At the start of an ashen hoarder's turn, you can spend Malice to activate one of the following features.
 

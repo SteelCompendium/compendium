@@ -46,7 +46,7 @@ While in the Sea of Stars, time raiders and other creatures don't age. As a resu
 
 Most time raiders speak Caelian and Voll. Because of the number of worlds they've visited, many time raiders have their speech peppered with misplaced tenses and strange references.
 
-###### Time Raider Malice
+###### Time Raider Malice (Malice Features)
 
 At the start of any time raider's turn, you can spend Malice to activate one of the following features.
 
@@ -485,7 +485,7 @@ At the start of any time raider's turn, you can spend Malice to activate one of 
 >
 > | **Area**        |                                 **-** |
 > | --------------- | ------------------------------------: |
-> | **📏 10 Burst** | **🎯 Self and each ally in the area** |
+> | **📏 10 burst** | **🎯 Self and each ally in the area** |
 >
 > **Effect:** Each target can end one effect on them or can move up to their speed.
 

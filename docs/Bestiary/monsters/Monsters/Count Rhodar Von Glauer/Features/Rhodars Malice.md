@@ -1,18 +1,18 @@
 ---
 file_basename: Rhodars Malice
 file_dpath: Monsters/Count Rhodar Von Glauer/Features
-item_id: rhodars-malice
+item_id: rhodars-malice-malice-features
 item_index: '34'
-item_name: Rhodar's Malice
+item_name: Rhodar's Malice (Malice Features)
 scc:
-  - mcdm.monsters.v1:monster.feature:rhodars-malice
+  - mcdm.monsters.v1:monster.feature:rhodars-malice-malice-features
 scdc:
   - 1.1.1:2.2:34
 source: mcdm.monsters.v1
 type: monster/feature
 ---
 
-###### Rhodar's Malice
+###### Rhodar's Malice (Malice Features)
 
 At the start of Rhodar's turn, you can spend Malice to activate one of the following features.
 
