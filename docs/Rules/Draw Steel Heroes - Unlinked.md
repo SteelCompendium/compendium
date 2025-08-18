@@ -26061,9 +26061,7 @@ Matt tells the Director that Linn enjoys the extra protection afforded to her by
 - **3rd Echelon:** As Linn and the other heroes build a coalition, an elderly high elf named Leaves of the Autumn Wind offers to enhance the crown, allowing the talent to speak directly to Bruulv. The catch is that Leaves needs a magic fire opal from the lair of a fire giant to enhance the crown.
 - **4th Echelon:** With the crown enhanced, Linn can speak directly to Bruulv. By learning the elemental's history and desires through negotiation, she can see that Bruulv mostly wants to return to the City of Brass so they might once again see the raw elemental powers come together. If Linn can visit this city that is literally worlds away, she earns Bruulv's trust and the elemental stops taking over her form.
 
-At each echelon, you should revisit your complication echelon outlines, since the actions of the players could change your plans. In the example
-
-outline above, if Sorin gets away after the battle with Saxton during the 1st echelon, the elementalist is likely to return and try to free Bruulv once again!
+At each echelon, you should revisit your complication echelon outlines, since the actions of the players could change your plans. In the example outline above, if Sorin gets away after the battle with Saxton during the 1st echelon, the elementalist is likely to return and try to free Bruulv once again!
 
 ### Creating Adventures
 
