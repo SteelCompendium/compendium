@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Kobold
+ev: 3 for four minions
 file_basename: Kobold Princeps
 file_dpath: Monsters/Kobolds/Statblocks
+free_strike: 1
+intuition: 0
 item_id: kobold-princeps
 item_index: '92'
 item_name: Kobold Princeps
+level: 1
+might: 0
+presence: 0
+reason: 0
+roles:
+  - Minion Support
 scc:
   - mcdm.monsters.v1:monster:kobold-princeps
 scdc:
   - 1.1.1:2:92
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '4'
 type: monster
 ---
 

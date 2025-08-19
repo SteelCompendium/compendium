@@ -1,14 +1,30 @@
 ---
+agility: 2
+ancestry:
+  - Elemental
+ev: '20'
 file_basename: Essence of Storms
 file_dpath: Monsters/Elementals/Statblocks
+free_strike: 5
+intuition: 0
 item_id: essence-of-storms
 item_index: '325'
 item_name: Essence of Storms
+level: 3
+might: 1
+presence: 2
+reason: -1
+roles:
+  - Elite Harrier
 scc:
   - mcdm.monsters.v1:monster:essence-of-storms
 scdc:
   - 1.1.1:2:325
+size: 1S
 source: mcdm.monsters.v1
+speed: 8
+stability: 0
+stamina: '100'
 type: monster
 ---
 

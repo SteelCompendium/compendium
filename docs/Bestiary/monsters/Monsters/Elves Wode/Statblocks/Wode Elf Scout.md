@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Fey
+  - Humanoid
+  - Wode Elf
+ev: 3 for four minions
 file_basename: Wode Elf Scout
 file_dpath: Monsters/Elves Wode/Statblocks
+free_strike: 2
+intuition: 0
 item_id: wode-elf-scout
 item_index: '224'
 item_name: Wode Elf Scout
+level: 1
+might: 0
+presence: 1
+reason: 0
+roles:
+  - Minion Ambusher
 scc:
   - mcdm.monsters.v1:monster:wode-elf-scout
 scdc:
   - 1.1.1:2:224
+size: 1M
 source: mcdm.monsters.v1
+speed: 10
+stability: 0
+stamina: '4'
 type: monster
 ---
 

@@ -304,10 +304,11 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 
 ###### Zapper Eye
 
-| Eyestalk, Horror, Overmind |              -               |      Level 6       |        Artillery        |         EV -          |
-| :------------------------: | :--------------------------: | :----------------: | :---------------------: | :-------------------: |
-|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |         -          | **-**<br/> With Captain | **-**<br/> Weaknesses |
-|     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason |  **+1**<br/> Intuition  | **-1**<br/> Presence  |
+| Eyestalk, Horror, Overmind |              -               |       Level 6       |        Artillery        |          EV -          |
+| :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
+|      **1M**<br/> Size      |       **5**<br/> Speed       | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
+|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
 > 🔳 **Lightning Beam (Signature Ability)**

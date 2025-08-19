@@ -1,14 +1,31 @@
 ---
+agility: 4
+ancestry:
+  - Humanoid
+  - Rival
+ev: '40'
 file_basename: Rival Null
 file_dpath: Monsters/Rivals/3rd Echelon/Statblocks
+free_strike: 8
+intuition: 4
 item_id: rival-null
 item_index: '21'
 item_name: Rival Null
+level: 8
+might: 2
+presence: 0
+reason: 3
+roles:
+  - Elite Harrier
 scc:
   - mcdm.monsters.v1:monster:rival-null
 scdc:
   - 1.1.1:2:21
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 3
+stamina: '200'
 type: monster
 ---
 

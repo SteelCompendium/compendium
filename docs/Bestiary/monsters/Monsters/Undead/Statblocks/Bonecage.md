@@ -1,14 +1,31 @@
 ---
+agility: -2
+ancestry:
+  - Undead
+  - Soulless
+ev: '12'
 file_basename: Bonecage
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 4
+intuition: 3
 item_id: bonecage
 item_index: '55'
 item_name: Bonecage
+level: 10
+might: 5
+presence: -1
+reason: -2
+roles:
+  - Horde Controller
 scc:
   - mcdm.monsters.v1:monster:bonecage
 scdc:
   - 1.1.1:2:55
+size: '3'
 source: mcdm.monsters.v1
+speed: 6
+stability: 5
+stamina: '55'
 type: monster
 ---
 

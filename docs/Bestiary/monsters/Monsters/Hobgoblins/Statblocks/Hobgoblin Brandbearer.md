@@ -1,14 +1,33 @@
 ---
+agility: 1
+ancestry:
+  - Goblin
+  - Hobgoblin
+  - Humanoid
+  - Infernal
+ev: 6 for four minions
 file_basename: Hobgoblin Brandbearer
 file_dpath: Monsters/Hobgoblins/Statblocks
+free_strike: 2
+intuition: 0
 item_id: hobgoblin-brandbearer
 item_index: '187'
 item_name: Hobgoblin Brandbearer
+level: 4
+might: 0
+presence: 3
+reason: 2
+roles:
+  - Minion Hexer
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-brandbearer
 scdc:
   - 1.1.1:2:187
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '7'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Undead
+  - Vampire
+ev: '9'
 file_basename: Vampire
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 3
+intuition: 1
 item_id: vampire
 item_index: '71'
 item_name: Vampire
+level: 7
+might: 4
+presence: 1
+reason: 1
+roles:
+  - Horde Hexer
 scc:
   - mcdm.monsters.v1:monster:vampire
 scdc:
   - 1.1.1:2:71
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 3
+stamina: '40'
 type: monster
 ---
 

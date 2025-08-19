@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Lizardfolk
+ev: '12'
 file_basename: Lizardfolk Deathrex
 file_dpath: Monsters/Lizardfolks/Statblocks
+free_strike: 4
+intuition: 1
 item_id: lizardfolk-deathrex
 item_index: '46'
 item_name: Lizardfolk Deathrex
+level: 1
+might: 3
+presence: 2
+reason: 0
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:lizardfolk-deathrex
 scdc:
   - 1.1.1:2:46
+size: '2'
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '80'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Goblin
+  - Humanoid
+ev: 3 for four minions
 file_basename: Goblin Sniper
 file_dpath: Monsters/Goblins/Statblocks
+free_strike: 2
+intuition: 0
 item_id: goblin-sniper
 item_index: '315'
 item_name: Goblin Sniper
+level: 1
+might: -2
+presence: -1
+reason: 0
+roles:
+  - Minion Artillery
 scc:
   - mcdm.monsters.v1:monster:goblin-sniper
 scdc:
   - 1.1.1:2:315
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '3'
 type: monster
 ---
 

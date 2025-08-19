@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Fire Giant
+  - Giant
+ev: '44'
 file_basename: Fire Giant Red Fist
 file_dpath: Monsters/Giants/Statblocks
+free_strike: 10
+intuition: 2
 item_id: fire-giant-red-fist
 item_index: '198'
 item_name: Fire Giant Red Fist
+level: 9
+might: 4
+presence: 1
+reason: 0
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:fire-giant-red-fist
 scdc:
   - 1.1.1:2:198
+size: '4'
 source: mcdm.monsters.v1
+speed: 8
+stability: 5
+stamina: '240'
 type: monster
 ---
 

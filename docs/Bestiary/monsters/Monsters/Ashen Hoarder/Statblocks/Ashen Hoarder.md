@@ -1,14 +1,31 @@
 ---
+agility: -1
+ancestry:
+  - Construct
+  - Undead
+ev: '72'
 file_basename: Ashen Hoarder
 file_dpath: Monsters/Ashen Hoarder/Statblocks
+free_strike: 6
+intuition: 0
 item_id: ashen-hoarder
 item_index: '208'
 item_name: Ashen Hoarder
+level: 4
+might: 4
+presence: -5
+reason: -2
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:ashen-hoarder
 scdc:
   - 1.1.1:2:208
+size: '3'
 source: mcdm.monsters.v1
+speed: 8
+stability: 3
+stamina: '350'
 type: monster
 ---
 
@@ -16,7 +33,7 @@ type: monster
 
 |  Construct, Undead  |            -             |       Level 4        |          Solo           |           EV 72            |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |     **8**<br/> Speed     | 35**0**<br/> Stamina |  **3**<br/> Stability   |   **6**<br/> Free Strike   |
+|   **3**<br/> Size   |     **8**<br/> Speed     | **350**<br/> Stamina |  **3**<br/> Stability   |   **6**<br/> Free Strike   |
 | **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
 |  **+4**<br/> Might  |   **-1**<br/> Agility    |  **-2**<br/> Reason  |  **+0**<br/> Intuition  |    **-5**<br/> Presence    |
 

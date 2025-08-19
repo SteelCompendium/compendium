@@ -1,9 +1,26 @@
 ---
+agility: -1
+ancestry:
+  - Undead
+  - Soulless
+ev: '-'
 file_basename: Undead Servitor
 file_dpath: Retainers/Statblocks
+free_strike: 3
+intuition: -1
 item_id: undead-servitor
 item_name: Undead Servitor
+level: 1
+might: 2
+presence: 0
+reason: -3
+roles:
+  - Brute Retainer
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '21'
 ---
 
 ###### Undead Servitor

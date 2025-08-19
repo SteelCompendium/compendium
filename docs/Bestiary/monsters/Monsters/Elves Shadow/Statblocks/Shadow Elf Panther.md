@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Fey
+  - Humanoid
+  - Shadow Elf
+ev: '12'
 file_basename: Shadow Elf Panther
 file_dpath: Monsters/Elves Shadow/Statblocks
+free_strike: 6
+intuition: 1
 item_id: shadow-elf-panther
 item_index: '217'
 item_name: Shadow Elf Panther
+level: 4
+might: 3
+presence: 1
+reason: -1
+roles:
+  - Platoon Brute
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-panther
 scdc:
   - 1.1.1:2:217
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '70'
 type: monster
 ---
 

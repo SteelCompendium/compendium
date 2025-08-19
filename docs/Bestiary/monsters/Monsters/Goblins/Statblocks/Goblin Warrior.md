@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Goblin
+  - Humanoid
+ev: '3'
 file_basename: Goblin Warrior
 file_dpath: Monsters/Goblins/Statblocks
+free_strike: 1
+intuition: 0
 item_id: goblin-warrior
 item_index: '304'
 item_name: Goblin Warrior
+level: 1
+might: -2
+presence: -1
+reason: 0
+roles:
+  - Horde Harrier
 scc:
   - mcdm.monsters.v1:monster:goblin-warrior
 scdc:
   - 1.1.1:2:304
+size: 1S
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '15'
 type: monster
 ---
 

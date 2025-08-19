@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Orc
+ev: '8'
 file_basename: Orc Rampart
 file_dpath: Monsters/Orcs/Statblocks
+free_strike: 4
+intuition: 2
 item_id: orc-rampart
 item_index: '134'
 item_name: Orc Rampart
+level: 2
+might: 2
+presence: 2
+reason: 2
+roles:
+  - Platoon Defender
 scc:
   - mcdm.monsters.v1:monster:orc-rampart
 scdc:
   - 1.1.1:2:134
+size: 1L
 source: mcdm.monsters.v1
+speed: 6
+stability: 2
+stamina: '59'
 type: monster
 ---
 

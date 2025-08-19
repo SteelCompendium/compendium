@@ -1,14 +1,33 @@
 ---
+agility: 2
+ancestry:
+  - Bugbear
+  - Fey
+  - Goblin
+  - Humanoid
+ev: '16'
 file_basename: Bugbear Roughneck
 file_dpath: Monsters/Bugbears/Statblocks
+free_strike: 5
+intuition: 0
 item_id: bugbear-roughneck
 item_index: '291'
 item_name: Bugbear Roughneck
+level: 2
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:bugbear-roughneck
 scdc:
   - 1.1.1:2:291
+size: 1L
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '109'
 type: monster
 ---
 

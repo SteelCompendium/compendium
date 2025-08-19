@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Humanoid
+  - Rival
+ev: '28'
 file_basename: Rival Talent
 file_dpath: Monsters/Rivals/2nd Echelon/Statblocks
+free_strike: 6
+intuition: 0
 item_id: rival-talent
 item_index: '18'
 item_name: Rival Talent
+level: 5
+might: 0
+presence: 1
+reason: 3
+roles:
+  - Elite Hexer
 scc:
   - mcdm.monsters.v1:monster:rival-talent
 scdc:
   - 1.1.1:2:18
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '120'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Abyssal
+  - Demon
+ev: '7'
 file_basename: Fiktin
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 3
+intuition: 1
 item_id: fiktin
 item_index: '265'
 item_name: Fiktin
+level: 5
+might: 2
+presence: 3
+reason: 2
+roles:
+  - Horde Ambusher
 scc:
   - mcdm.monsters.v1:monster:fiktin
 scdc:
   - 1.1.1:2:265
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '35'
 type: monster
 ---
 

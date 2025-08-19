@@ -1,9 +1,26 @@
 ---
+agility: 3
+ancestry:
+  - Undead
+  - Vampire
+ev: '-'
 file_basename: Vampire Rebel
 file_dpath: Retainers/Statblocks
+free_strike: 4
+intuition: 0
 item_id: vampire-rebel
 item_name: Vampire Rebel
+level: 4
+might: 2
+presence: 3
+reason: 0
+roles:
+  - Harrier Retainer
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '48'
 ---
 
 ###### Vampire Rebel

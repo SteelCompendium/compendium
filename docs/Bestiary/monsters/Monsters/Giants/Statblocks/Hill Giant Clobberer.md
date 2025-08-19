@@ -1,14 +1,31 @@
 ---
+agility: -1
+ancestry:
+  - Giant
+  - Hill Giant
+ev: '36'
 file_basename: Hill Giant Clobberer
 file_dpath: Monsters/Giants/Statblocks
+free_strike: 8
+intuition: -1
 item_id: hill-giant-clobberer
 item_index: '203'
 item_name: Hill Giant Clobberer
+level: 7
+might: 4
+presence: -1
+reason: -1
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:hill-giant-clobberer
 scdc:
   - 1.1.1:2:203
+size: '4'
 source: mcdm.monsters.v1
+speed: 6
+stability: 5
+stamina: '200'
 type: monster
 ---
 

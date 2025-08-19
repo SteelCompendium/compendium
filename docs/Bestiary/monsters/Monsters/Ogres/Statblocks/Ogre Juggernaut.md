@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Giant
+  - Ogre
+ev: '16'
 file_basename: Ogre Juggernaut
 file_dpath: Monsters/Ogres/Statblocks
+free_strike: 5
+intuition: 0
 item_id: ogre-juggernaut
 item_index: '06'
 item_name: Ogre Juggernaut
+level: 2
+might: 2
+presence: -1
+reason: -1
+roles:
+  - Elite Harrier
 scc:
   - mcdm.monsters.v1:monster:ogre-juggernaut
 scdc:
   - 1.1.1:2:06
+size: '2'
 source: mcdm.monsters.v1
+speed: 6
+stability: 2
+stamina: '80'
 type: monster
 ---
 

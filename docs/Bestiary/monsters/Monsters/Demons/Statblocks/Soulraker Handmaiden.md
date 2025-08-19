@@ -1,14 +1,32 @@
 ---
+agility: 0
+ancestry:
+  - Abyssal
+  - Demon
+  - Soulraker
+ev: '10'
 file_basename: Soulraker Handmaiden
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 4
+intuition: 2
 item_id: soulraker-handmaiden
 item_index: '270'
 item_name: Soulraker Handmaiden
+level: 8
+might: 3
+presence: 4
+reason: 2
+roles:
+  - Horde Ambusher
 scc:
   - mcdm.monsters.v1:monster:soulraker-handmaiden
 scdc:
   - 1.1.1:2:270
+size: 1M
 source: mcdm.monsters.v1
+speed: 0
+stability: 0
+stamina: '50'
 type: monster
 ---
 

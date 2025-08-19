@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Animal
+  - Goblin
+ev: '12'
 file_basename: War Spider
 file_dpath: Monsters/Goblins/Statblocks
+free_strike: 4
+intuition: 0
 item_id: war-spider
 item_index: '314'
 item_name: War Spider
+level: 1
+might: 2
+presence: -3
+reason: -4
+roles:
+  - Elite Mount
 scc:
   - mcdm.monsters.v1:monster:war-spider
 scdc:
   - 1.1.1:2:314
+size: '3'
 source: mcdm.monsters.v1
+speed: 7
+stability: 2
+stamina: '60'
 type: monster
 ---
 

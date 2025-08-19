@@ -1,9 +1,26 @@
 ---
+agility: 2
+ancestry:
+  - Angulotl
+  - Humanoid
+ev: '-'
 file_basename: Angulotl Hopper
 file_dpath: Retainers/Statblocks
+free_strike: 2
+intuition: 0
 item_id: angulotl-hopper
 item_name: Angulotl Hopper
+level: 1
+might: 1
+presence: 0
+reason: 0
+roles:
+  - Harrier Retainer
+size: 1S
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '21'
 ---
 
 ###### Angulotl Hopper

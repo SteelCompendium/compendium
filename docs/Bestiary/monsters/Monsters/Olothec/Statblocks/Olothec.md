@@ -1,14 +1,31 @@
 ---
+agility: -1
+ancestry:
+  - Horror
+  - Olothec
+ev: '84'
 file_basename: Olothec
 file_dpath: Monsters/Olothec/Statblocks
+free_strike: 7
+intuition: 2
 item_id: olothec
 item_index: '107'
 item_name: Olothec
+level: 6
+might: 4
+presence: 3
+reason: 4
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:olothec
 scdc:
   - 1.1.1:2:107
+size: '2'
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '450'
 type: monster
 ---
 

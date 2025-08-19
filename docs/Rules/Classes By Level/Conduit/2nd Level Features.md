@@ -98,7 +98,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 ###### Morning Light (5 Piety)
 
-*Light shines at your command, burning your foes and blessing your*
+*Light shines at your command, burning your foes and blessing your allies.*
 
 | **Area, Magic** |               **Main action** |
 | --------------- | ----------------------------: |

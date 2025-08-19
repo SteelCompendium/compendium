@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Humanoid
+  - Rival
+ev: '28'
 file_basename: Rival Tactician
 file_dpath: Monsters/Rivals/2nd Echelon/Statblocks
+free_strike: 7
+intuition: 0
 item_id: rival-tactician
 item_index: '19'
 item_name: Rival Tactician
+level: 5
+might: 3
+presence: 1
+reason: 2
+roles:
+  - Elite Artillery
 scc:
   - mcdm.monsters.v1:monster:rival-tactician
 scdc:
   - 1.1.1:2:19
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '120'
 type: monster
 ---
 

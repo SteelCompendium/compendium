@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Devil
+  - Infernal
+ev: '32'
 file_basename: Devil High Judge
 file_dpath: Monsters/Devils/Statblocks
+free_strike: 6
+intuition: 1
 item_id: devil-high-judge
 item_index: '298'
 item_name: Devil High Judge
+level: 6
+might: 1
+presence: 2
+reason: 0
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:devil-high-judge
 scdc:
   - 1.1.1:2:298
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 2
+stamina: '181'
 type: monster
 ---
 

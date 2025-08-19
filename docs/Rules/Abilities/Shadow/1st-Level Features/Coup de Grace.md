@@ -24,7 +24,7 @@ type: feature/ability/shadow/1st-level-feature
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
-| **📏 Melee 1**                    | **🎯 One creature** |
+| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
 **Power Roll + Agility:**
 

@@ -1,9 +1,27 @@
 ---
+agility: 2
+ancestry:
+  - Draconian
+  - Dragon
+  - Humanoid
+ev: '-'
 file_basename: The Nameless
 file_dpath: Retainers/Statblocks
+free_strike: 6
+intuition: 1
 item_id: the-nameless
 item_name: The Nameless
+level: 6
+might: 3
+presence: 2
+reason: 1
+roles:
+  - Defender Retainer
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 4
+stamina: '66'
 ---
 
 ###### The Nameless

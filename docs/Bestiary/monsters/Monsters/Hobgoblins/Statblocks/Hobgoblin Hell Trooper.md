@@ -1,14 +1,33 @@
 ---
+agility: 2
+ancestry:
+  - Goblin
+  - Hobgoblin
+  - Humanoid
+  - Infernal
+ev: '12'
 file_basename: Hobgoblin Hell Trooper
 file_dpath: Monsters/Hobgoblins/Statblocks
+free_strike: 6
+intuition: 0
 item_id: hobgoblin-hell-trooper
 item_index: '179'
 item_name: Hobgoblin Hell Trooper
+level: 4
+might: 3
+presence: 1
+reason: 0
+roles:
+  - Platoon Brute
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-hell-trooper
 scdc:
   - 1.1.1:2:179
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '70'
 type: monster
 ---
 

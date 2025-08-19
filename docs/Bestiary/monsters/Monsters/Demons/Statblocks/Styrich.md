@@ -1,14 +1,31 @@
 ---
+agility: 4
+ancestry:
+  - Abyssal
+  - Demon
+ev: '10'
 file_basename: Styrich
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 3
+intuition: 2
 item_id: styrich
 item_index: '260'
 item_name: Styrich
+level: 8
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Horde Hexer
 scc:
   - mcdm.monsters.v1:monster:styrich
 scdc:
   - 1.1.1:2:260
+size: 1L
 source: mcdm.monsters.v1
+speed: 6
+stability: 1
+stamina: '45'
 type: monster
 ---
 

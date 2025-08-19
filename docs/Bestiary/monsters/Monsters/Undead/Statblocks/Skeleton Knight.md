@@ -1,14 +1,31 @@
 ---
+agility: 5
+ancestry:
+  - Undead
+  - Soulless
+ev: 12 for four minions
 file_basename: Skeleton Knight
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 4
+intuition: 4
 item_id: skeleton-knight
 item_index: '60'
 item_name: Skeleton Knight
+level: 10
+might: 3
+presence: -2
+reason: -2
+roles:
+  - Minion Defender
 scc:
   - mcdm.monsters.v1:monster:skeleton-knight
 scdc:
   - 1.1.1:2:60
+size: 1L
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '17'
 type: monster
 ---
 

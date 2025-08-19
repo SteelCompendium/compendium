@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Abyssal
+  - Demon
+ev: '9'
 file_basename: Chimeron
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 5
+intuition: 1
 item_id: chimeron
 item_index: '268'
 item_name: Chimeron
+level: 9
+might: 4
+presence: 2
+reason: 2
+roles:
+  - Horde Brute
 scc:
   - mcdm.monsters.v1:monster:chimeron
 scdc:
   - 1.1.1:2:268
+size: '3'
 source: mcdm.monsters.v1
+speed: 6
+stability: 2
+stamina: '90'
 type: monster
 ---
 

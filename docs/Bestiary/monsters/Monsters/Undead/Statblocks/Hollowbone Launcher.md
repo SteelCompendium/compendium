@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Undead
+  - Soulless
+ev: 6 for four minions
 file_basename: Hollowbone Launcher
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 3
+intuition: 0
 item_id: hollowbone-launcher
 item_index: '57'
 item_name: Hollowbone Launcher
+level: 4
+might: -2
+presence: 0
+reason: 0
+roles:
+  - Minion Artillery
 scc:
   - mcdm.monsters.v1:monster:hollowbone-launcher
 scdc:
   - 1.1.1:2:57
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '7'
 type: monster
 ---
 

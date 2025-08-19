@@ -1,14 +1,32 @@
 ---
+agility: 3
+ancestry:
+  - Fey
+  - Humanoid
+  - Shadow Elf
+ev: 6 for four minions
 file_basename: Shadow Elf Dusk Mage
 file_dpath: Monsters/Elves Shadow/Statblocks
+free_strike: 2
+intuition: 0
 item_id: shadow-elf-dusk-mage
 item_index: '209'
 item_name: Shadow Elf Dusk Mage
+level: 4
+might: 0
+presence: 0
+reason: 2
+roles:
+  - Minion Hexer
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-dusk-mage
 scdc:
   - 1.1.1:2:209
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '7'
 type: monster
 ---
 

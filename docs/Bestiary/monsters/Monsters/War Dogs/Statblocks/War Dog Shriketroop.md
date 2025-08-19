@@ -1,14 +1,32 @@
 ---
+agility: 4
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: 9 for four minions
 file_basename: War Dog Shriketroop
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 4
+intuition: 1
 item_id: war-dog-shriketroop
 item_index: '354'
 item_name: War Dog Shriketroop
+level: 7
+might: 1
+presence: 1
+reason: 3
+roles:
+  - Minion Artillery
 scc:
   - mcdm.monsters.v1:monster:war-dog-shriketroop
 scdc:
   - 1.1.1:2:354
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '10'
 type: monster
 ---
 

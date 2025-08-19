@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Kobold
+ev: '3'
 file_basename: Kobold Artifex
 file_dpath: Monsters/Kobolds/Statblocks
+free_strike: 1
+intuition: 0
 item_id: kobold-artifex
 item_index: '91'
 item_name: Kobold Artifex
+level: 1
+might: 0
+presence: 0
+reason: 1
+roles:
+  - Horde Controller
 scc:
   - mcdm.monsters.v1:monster:kobold-artifex
 scdc:
   - 1.1.1:2:91
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '10'
 type: monster
 ---
 

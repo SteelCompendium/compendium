@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Fire Giant
+  - Giant
+ev: '44'
 file_basename: Fire Giant Chief
 file_dpath: Monsters/Giants/Statblocks
+free_strike: 9
+intuition: 2
 item_id: fire-giant-chief
 item_index: '192'
 item_name: Fire Giant Chief
+level: 9
+might: 5
+presence: 3
+reason: 0
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:fire-giant-chief
 scdc:
   - 1.1.1:2:192
+size: '5'
 source: mcdm.monsters.v1
+speed: 10
+stability: 10
+stamina: '240'
 type: monster
 ---
 

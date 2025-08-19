@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Fey
+  - Humanoid. Wode Elf
+ev: '20'
 file_basename: Wode Elf Warleader
 file_dpath: Monsters/Elves Wode/Statblocks
+free_strike: 5
+intuition: 2
 item_id: wode-elf-warleader
 item_index: '234'
 item_name: Wode Elf Warleader
+level: 3
+might: 2
+presence: 2
+reason: 2
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:wode-elf-warleader
 scdc:
   - 1.1.1:2:234
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 2
+stamina: '120'
 type: monster
 ---
 

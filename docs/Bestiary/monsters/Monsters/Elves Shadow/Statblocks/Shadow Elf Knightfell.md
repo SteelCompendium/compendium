@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Fey
+  - Humanoid
+  - Shadow Elf
+ev: '12'
 file_basename: Shadow Elf Knightfell
 file_dpath: Monsters/Elves Shadow/Statblocks
+free_strike: 5
+intuition: 3
 item_id: shadow-elf-knightfell
 item_index: '210'
 item_name: Shadow Elf Knightfell
+level: 4
+might: 0
+presence: 2
+reason: 0
+roles:
+  - Platoon Defender
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-knightfell
 scdc:
   - 1.1.1:2:210
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '70'
 type: monster
 ---
 

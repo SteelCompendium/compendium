@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: 3 for four minions
 file_basename: War Dog Commando
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 2
+intuition: 0
 item_id: war-dog-commando
 item_index: '370'
 item_name: War Dog Commando
+level: 1
+might: 0
+presence: 0
+reason: 0
+roles:
+  - Minion Ambusher
 scc:
   - mcdm.monsters.v1:monster:war-dog-commando
 scdc:
   - 1.1.1:2:370
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '4'
 type: monster
 ---
 

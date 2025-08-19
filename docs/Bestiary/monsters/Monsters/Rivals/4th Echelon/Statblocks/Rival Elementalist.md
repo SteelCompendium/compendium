@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Humanoid
+  - Rival
+ev: '48'
 file_basename: Rival Elementalist
 file_dpath: Monsters/Rivals/4th Echelon/Statblocks
+free_strike: 10
+intuition: 4
 item_id: rival-elementalist
 item_index: '30'
 item_name: Rival Elementalist
+level: 10
+might: 1
+presence: 1
+reason: 5
+roles:
+  - Elite Controller
 scc:
   - mcdm.monsters.v1:monster:rival-elementalist
 scdc:
   - 1.1.1:2:30
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '220'
 type: monster
 ---
 

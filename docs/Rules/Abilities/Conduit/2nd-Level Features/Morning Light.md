@@ -20,7 +20,7 @@ type: feature/ability/conduit/2nd-level-feature
 
 ###### Morning Light (5 Piety)
 
-*Light shines at your command, burning your foes and blessing your*
+*Light shines at your command, burning your foes and blessing your allies.*
 
 | **Area, Magic** |               **Main action** |
 | --------------- | ----------------------------: |

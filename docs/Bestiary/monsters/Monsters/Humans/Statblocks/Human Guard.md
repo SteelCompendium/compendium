@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Human
+  - Humanoid
+ev: 3 for four minions
 file_basename: Human Guard
 file_dpath: Monsters/Humans/Statblocks
+free_strike: 2
+intuition: 0
 item_id: human-guard
 item_index: '170'
 item_name: Human Guard
+level: 1
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:human-guard
 scdc:
   - 1.1.1:2:170
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '5'
 type: monster
 ---
 

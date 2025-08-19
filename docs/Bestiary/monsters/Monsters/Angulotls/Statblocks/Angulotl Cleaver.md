@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Angulotl
+  - Humanoid
+ev: 3 for 4 minions
 file_basename: Angulotl Cleaver
 file_dpath: Monsters/Angulotls/Statblocks
+free_strike: 2
+intuition: 1
 item_id: angulotl-cleaver
 item_index: '240'
 item_name: Angulotl Cleaver
+level: 1
+might: 0
+presence: 0
+reason: 0
+roles:
+  - Minion Ambusher
 scc:
   - mcdm.monsters.v1:monster:angulotl-cleaver
 scdc:
   - 1.1.1:2:240
+size: 1S
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '4'
 type: monster
 ---
 

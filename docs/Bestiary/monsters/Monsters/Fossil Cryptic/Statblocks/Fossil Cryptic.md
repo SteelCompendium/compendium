@@ -1,14 +1,30 @@
 ---
+agility: 2
+ancestry:
+  - Elemental
+ev: '48'
 file_basename: Fossil Cryptic
 file_dpath: Monsters/Fossil Cryptic/Statblocks
+free_strike: 5
+intuition: 1
 item_id: fossil-cryptic
 item_index: '413'
 item_name: Fossil Cryptic
+level: 2
+might: 3
+presence: 0
+reason: 1
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:fossil-cryptic
 scdc:
   - 1.1.1:2:413
+size: 1L
 source: mcdm.monsters.v1
+speed: 8
+stability: 3
+stamina: '250'
 type: monster
 ---
 

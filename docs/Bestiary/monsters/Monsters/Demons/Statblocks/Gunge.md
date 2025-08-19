@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Abyssal
+  - Demon
+ev: '6'
 file_basename: Gunge
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 2
+intuition: 2
 item_id: gunge
 item_index: '272'
 item_name: Gunge
+level: 4
+might: 3
+presence: -1
+reason: 1
+roles:
+  - Horde Controller
 scc:
   - mcdm.monsters.v1:monster:gunge
 scdc:
   - 1.1.1:2:272
+size: '3'
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '25'
 type: monster
 ---
 

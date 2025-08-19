@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Dwarf
+  - Humanoid
+ev: '20'
 file_basename: Dwarf Marauder
 file_dpath: Monsters/Dwarves/Statblocks
+free_strike: 5
+intuition: 1
 item_id: dwarf-marauder
 item_index: '397'
 item_name: Dwarf Marauder
+level: 3
+might: 3
+presence: 0
+reason: 2
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:dwarf-marauder
 scdc:
   - 1.1.1:2:397
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 4
+stamina: '132'
 type: monster
 ---
 

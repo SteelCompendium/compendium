@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Fey
+  - High Elf
+  - Humanoid
+ev: 3 for four minions
 file_basename: High Elf Quiver
 file_dpath: Monsters/Elves High/Statblocks
+free_strike: 2
+intuition: 0
 item_id: high-elf-quiver
 item_index: '108'
 item_name: High Elf Quiver
+level: 1
+might: 0
+presence: 0
+reason: 1
+roles:
+  - Minion Artillery
 scc:
   - mcdm.monsters.v1:monster:high-elf-quiver
 scdc:
   - 1.1.1:2:108
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '3'
 type: monster
 ---
 

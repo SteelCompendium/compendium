@@ -1,14 +1,30 @@
 ---
+agility: 1
+ancestry:
+  - Undead
+ev: '9'
 file_basename: Dirt Mournling
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 3
+intuition: 1
 item_id: dirt-mournling
 item_index: '74'
 item_name: Dirt Mournling
+level: 7
+might: 4
+presence: -3
+reason: -2
+roles:
+  - Horde Controller
 scc:
   - mcdm.monsters.v1:monster:dirt-mournling
 scdc:
   - 1.1.1:2:74
+size: '3'
 source: mcdm.monsters.v1
+speed: 6
+stability: 3
+stamina: '64'
 type: monster
 ---
 

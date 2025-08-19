@@ -1,14 +1,32 @@
 ---
+agility: 3
+ancestry:
+  - Fey
+  - Humanoid
+  - Shadow Elf
+ev: '14'
 file_basename: Shadow Elf Duskcaller
 file_dpath: Monsters/Elves Shadow/Statblocks
+free_strike: 6
+intuition: 2
 item_id: shadow-elf-duskcaller
 item_index: '215'
 item_name: Shadow Elf Duskcaller
+level: 5
+might: 0
+presence: 1
+reason: 3
+roles:
+  - Platoon Controller
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-duskcaller
 scdc:
   - 1.1.1:2:215
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '60'
 type: monster
 ---
 

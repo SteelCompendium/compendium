@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '3'
 file_basename: War Dog Eviscerite
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 1
+intuition: 0
 item_id: war-dog-eviscerite
 item_index: '352'
 item_name: War Dog Eviscerite
+level: 1
+might: 1
+presence: 0
+reason: 0
+roles:
+  - Horde Harrier
 scc:
   - mcdm.monsters.v1:monster:war-dog-eviscerite
 scdc:
   - 1.1.1:2:352
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '15'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Abyssal
+  - Demon
+ev: '7'
 file_basename: Bale Eye
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 3
+intuition: 3
 item_id: bale-eye
 item_index: '284'
 item_name: Bale Eye
+level: 5
+might: 0
+presence: 3
+reason: 3
+roles:
+  - Horde Hexer
 scc:
   - mcdm.monsters.v1:monster:bale-eye
 scdc:
   - 1.1.1:2:284
+size: '4'
 source: mcdm.monsters.v1
+speed: 6
+stability: 2
+stamina: '30'
 type: monster
 ---
 

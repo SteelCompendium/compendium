@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Horror
+  - Overmind
+ev: '96'
 file_basename: Xorannox the Tyract
 file_dpath: Monsters/Xorannox the Tyract/Statblocks
+free_strike: 7
+intuition: 3
 item_id: xorannox-the-tyract
 item_index: '319'
 item_name: Xorannox the Tyract
+level: 6
+might: 4
+presence: 3
+reason: 4
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:xorannox-the-tyract
 scdc:
   - 1.1.1:2:319
+size: '3'
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '450'
 type: monster
 ---
 

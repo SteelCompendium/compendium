@@ -1,14 +1,33 @@
 ---
+agility: 5
+ancestry:
+  - Accursed
+  - Humanoid
+  - Minotaur
+  - Swarm
+ev: 12 for four minions
 file_basename: Minotaur Stampede
 file_dpath: Monsters/Minotaurs/Statblocks
+free_strike: 4
+intuition: 2
 item_id: minotaur-stampede
 item_index: '174'
 item_name: Minotaur Stampede
+level: 10
+might: 5
+presence: -1
+reason: 0
+roles:
+  - Minion Defender
 scc:
   - mcdm.monsters.v1:monster:minotaur-stampede
 scdc:
   - 1.1.1:2:174
+size: '4'
 source: mcdm.monsters.v1
+speed: 8
+stability: 2
+stamina: '17'
 type: monster
 ---
 

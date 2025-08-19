@@ -20,7 +20,7 @@ type: feature/ability/shadow/1st-level-feature
 
 ###### Eviscerate (3 Insight)
 
-*You leave your foe bleeding out after a devastating attack*
+*You leave your foe bleeding out after a devastating attack.*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |

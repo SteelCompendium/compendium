@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Lizardfolk
+ev: 3 for four minions
 file_basename: Lizardfolk Tonguer
 file_dpath: Monsters/Lizardfolks/Statblocks
+free_strike: 2
+intuition: 1
 item_id: lizardfolk-tonguer
 item_index: '49'
 item_name: Lizardfolk Tonguer
+level: 1
+might: 0
+presence: 0
+reason: 0
+roles:
+  - Minion Artillery
 scc:
   - mcdm.monsters.v1:monster:lizardfolk-tonguer
 scdc:
   - 1.1.1:2:49
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '3'
 type: monster
 ---
 

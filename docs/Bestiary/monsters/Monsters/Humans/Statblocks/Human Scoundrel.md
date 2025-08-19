@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Human
+  - Humanoid
+ev: '6'
 file_basename: Human Scoundrel
 file_dpath: Monsters/Humans/Statblocks
+free_strike: 4
+intuition: 0
 item_id: human-scoundrel
 item_index: '163'
 item_name: Human Scoundrel
+level: 1
+might: 0
+presence: 1
+reason: 0
+roles:
+  - Platoon Ambusher
 scc:
   - mcdm.monsters.v1:monster:human-scoundrel
 scdc:
   - 1.1.1:2:163
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '30'
 type: monster
 ---
 

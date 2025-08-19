@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Radenwight
+ev: 3 for 4 minions
 file_basename: Radenwight Swiftpaw
 file_dpath: Monsters/Radenwights/Statblocks
+free_strike: 1
+intuition: 0
 item_id: radenwight-swiftpaw
 item_index: '156'
 item_name: Radenwight Swiftpaw
+level: 1
+might: 0
+presence: -1
+reason: 1
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:radenwight-swiftpaw
 scdc:
   - 1.1.1:2:156
+size: 1S
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '4'
 type: monster
 ---
 

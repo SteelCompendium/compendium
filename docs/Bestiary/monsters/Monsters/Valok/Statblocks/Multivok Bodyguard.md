@@ -1,14 +1,33 @@
 ---
+agility: 0
+ancestry:
+  - Construct
+  - Multivok
+  - Soulless
+  - Valok
+ev: '44'
 file_basename: Multivok Bodyguard
 file_dpath: Monsters/Valok/Statblocks
+free_strike: 9
+intuition: 1
 item_id: multivok-bodyguard
 item_index: '328'
 item_name: Multivok Bodyguard
+level: 9
+might: 4
+presence: -4
+reason: -2
+roles:
+  - Elite Defender
 scc:
   - mcdm.monsters.v1:monster:multivok-bodyguard
 scdc:
   - 1.1.1:2:328
+size: '2'
 source: mcdm.monsters.v1
+speed: 5
+stability: 5
+stamina: '240'
 type: monster
 ---
 

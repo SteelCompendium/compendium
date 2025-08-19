@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Rival
+ev: '28'
 file_basename: Rival Fury
 file_dpath: Monsters/Rivals/2nd Echelon/Statblocks
+free_strike: 7
+intuition: 0
 item_id: rival-fury
 item_index: '15'
 item_name: Rival Fury
+level: 5
+might: 3
+presence: 1
+reason: 0
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:rival-fury
 scdc:
   - 1.1.1:2:15
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 3
+stamina: '160'
 type: monster
 ---
 

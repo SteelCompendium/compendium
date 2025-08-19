@@ -1,14 +1,32 @@
 ---
+agility: 3
+ancestry:
+  - Fey
+  - Humanoid
+  - Shadow Elf
+ev: '32'
 file_basename: Shadow Elf Eclipse
 file_dpath: Monsters/Elves Shadow/Statblocks
+free_strike: 7
+intuition: 1
 item_id: shadow-elf-eclipse
 item_index: '219'
 item_name: Shadow Elf Eclipse
+level: 6
+might: 4
+presence: 2
+reason: 2
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-eclipse
 scdc:
   - 1.1.1:2:219
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 1
+stamina: '180'
 type: monster
 ---
 

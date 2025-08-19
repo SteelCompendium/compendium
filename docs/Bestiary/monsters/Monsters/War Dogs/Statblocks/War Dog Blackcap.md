@@ -1,14 +1,32 @@
 ---
+agility: 4
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '9'
 file_basename: War Dog Blackcap
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 4
+intuition: 2
 item_id: war-dog-blackcap
 item_index: '373'
 item_name: War Dog Blackcap
+level: 7
+might: 1
+presence: 0
+reason: 4
+roles:
+  - Horde Ambusher
 scc:
   - mcdm.monsters.v1:monster:war-dog-blackcap
 scdc:
   - 1.1.1:2:373
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '45'
 type: monster
 ---
 

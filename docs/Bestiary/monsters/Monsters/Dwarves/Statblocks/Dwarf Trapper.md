@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Dwarf
+  - Humanoid
+ev: '6'
 file_basename: Dwarf Trapper
 file_dpath: Monsters/Dwarves/Statblocks
+free_strike: 3
+intuition: 1
 item_id: dwarf-trapper
 item_index: '402'
 item_name: Dwarf Trapper
+level: 1
+might: 0
+presence: 0
+reason: 0
+roles:
+  - Platoon Harrier
 scc:
   - mcdm.monsters.v1:monster:dwarf-trapper
 scdc:
   - 1.1.1:2:402
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 2
+stamina: '36'
 type: monster
 ---
 

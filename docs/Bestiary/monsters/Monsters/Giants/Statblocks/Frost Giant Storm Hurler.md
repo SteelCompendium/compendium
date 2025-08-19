@@ -1,14 +1,31 @@
 ---
+agility: -1
+ancestry:
+  - Frost Giant
+  - Giant
+ev: '40'
 file_basename: Frost Giant Storm Hurler
 file_dpath: Monsters/Giants/Statblocks
+free_strike: 9
+intuition: 0
 item_id: frost-giant-storm-hurler
 item_index: '200'
 item_name: Frost Giant Storm Hurler
+level: 8
+might: 4
+presence: 0
+reason: 0
+roles:
+  - Elite Artillery
 scc:
   - mcdm.monsters.v1:monster:frost-giant-storm-hurler
 scdc:
   - 1.1.1:2:200
+size: '4'
 source: mcdm.monsters.v1
+speed: 7
+stability: 5
+stamina: '180'
 type: monster
 ---
 

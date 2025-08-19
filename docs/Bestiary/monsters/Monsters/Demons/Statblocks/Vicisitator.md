@@ -1,14 +1,31 @@
 ---
+agility: 5
+ancestry:
+  - Abyssal
+  - Demon
+ev: '12'
 file_basename: Vicisitator
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 4
+intuition: -2
 item_id: vicisitator
 item_index: '264'
 item_name: Vicisitator
+level: 10
+might: 4
+presence: -3
+reason: -1
+roles:
+  - Horde Harrier
 scc:
   - mcdm.monsters.v1:monster:vicisitator
 scdc:
   - 1.1.1:2:264
+size: 1M
 source: mcdm.monsters.v1
+speed: 9
+stability: 0
+stamina: '60'
 type: monster
 ---
 

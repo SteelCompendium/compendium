@@ -1,14 +1,32 @@
 ---
+agility: 1
+ancestry:
+  - Eyestalk
+  - Horror
+  - Overmind
+ev: '-'
 file_basename: Toxic Eye Level 6 Hexer
 file_dpath: Monsters/Xorannox the Tyract/Statblocks
+free_strike: 3
+intuition: 1
 item_id: toxic-eye-level-6-hexer
 item_index: '322'
 item_name: Toxic Eye Level 6 Hexer
+level: 6
+might: -1
+presence: -1
+reason: 4
+roles:
+  - Hexer
 scc:
   - mcdm.monsters.v1:monster:toxic-eye-level-6-hexer
 scdc:
   - 1.1.1:2:322
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '30'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Human
+  - Humanoid
+ev: '8'
 file_basename: Human Knave
 file_dpath: Monsters/Humans/Statblocks
+free_strike: 4
+intuition: 0
 item_id: human-knave
 item_index: '158'
 item_name: Human Knave
+level: 2
+might: 2
+presence: 0
+reason: 1
+roles:
+  - Platoon Defender
 scc:
   - mcdm.monsters.v1:monster:human-knave
 scdc:
   - 1.1.1:2:158
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '50'
 type: monster
 ---
 

@@ -237,7 +237,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 
 ###### Ghoul
 
-|                  Undead                  |          -          |       Level 1       |      Horde Harrier      |         EV 3\\         |
+|                  Undead                  |          -          |       Level 1       |      Horde Harrier      |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **7**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
 | **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |

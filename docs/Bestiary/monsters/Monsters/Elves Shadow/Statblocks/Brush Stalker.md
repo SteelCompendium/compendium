@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Animal
+  - Fey
+  - Shadow Elf
+ev: '12'
 file_basename: Brush Stalker
 file_dpath: Monsters/Elves Shadow/Statblocks
+free_strike: 5
+intuition: 1
 item_id: brush-stalker
 item_index: '214'
 item_name: Brush Stalker
+level: 4
+might: 3
+presence: 1
+reason: -1
+roles:
+  - Platoon Mount
 scc:
   - mcdm.monsters.v1:monster:brush-stalker
 scdc:
   - 1.1.1:2:214
+size: '2'
 source: mcdm.monsters.v1
+speed: 8
+stability: 3
+stamina: '60'
 type: monster
 ---
 

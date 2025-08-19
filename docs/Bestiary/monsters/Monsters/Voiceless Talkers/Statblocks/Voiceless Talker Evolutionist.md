@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Horror
+  - Voiceless Talker
+ev: '32'
 file_basename: Voiceless Talker Evolutionist
 file_dpath: Monsters/Voiceless Talkers/Statblocks
+free_strike: 7
+intuition: 1
 item_id: voiceless-talker-evolutionist
 item_index: '339'
 item_name: Voiceless Talker Evolutionist
+level: 6
+might: 0
+presence: 2
+reason: 4
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:voiceless-talker-evolutionist
 scdc:
   - 1.1.1:2:339
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '180'
 type: monster
 ---
 

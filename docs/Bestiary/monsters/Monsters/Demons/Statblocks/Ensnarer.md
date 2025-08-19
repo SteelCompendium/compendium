@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Abyssal
+  - Demon
+ev: 3 for four minions
 file_basename: Ensnarer
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 2
+intuition: -1
 item_id: ensnarer
 item_index: '257'
 item_name: Ensnarer
+level: 1
+might: 2
+presence: -1
+reason: -1
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:ensnarer
 scdc:
   - 1.1.1:2:257
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '5'
 type: monster
 ---
 

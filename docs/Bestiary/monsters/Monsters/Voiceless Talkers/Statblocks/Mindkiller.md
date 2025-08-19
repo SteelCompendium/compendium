@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Horror
+  - Voiceless Talker
+ev: '32'
 file_basename: Mindkiller
 file_dpath: Monsters/Voiceless Talkers/Statblocks
+free_strike: 7
+intuition: 2
 item_id: mindkiller
 item_index: '340'
 item_name: Mindkiller
+level: 6
+might: -1
+presence: 0
+reason: 3
+roles:
+  - Elite Hexer
 scc:
   - mcdm.monsters.v1:monster:mindkiller
 scdc:
   - 1.1.1:2:340
+size: 1S
 source: mcdm.monsters.v1
+speed: 6
+stability: 2
+stamina: '140'
 type: monster
 ---
 

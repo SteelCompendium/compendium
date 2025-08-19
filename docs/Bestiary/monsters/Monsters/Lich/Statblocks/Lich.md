@@ -1,14 +1,30 @@
 ---
+agility: 3
+ancestry:
+  - Undead
+ev: '144'
 file_basename: Lich
 file_dpath: Monsters/Lich/Statblocks
+free_strike: 10
+intuition: 5
 item_id: lich
 item_index: '347'
 item_name: Lich
+level: 10
+might: 2
+presence: 5
+reason: 5
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:lich
 scdc:
   - 1.1.1:2:347
+size: 1M
 source: mcdm.monsters.v1
+speed: 10
+stability: 1
+stamina: '650'
 type: monster
 ---
 

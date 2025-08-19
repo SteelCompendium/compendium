@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Radenwight
+ev: 3 for 4 minions
 file_basename: Radenwight Scrapper
 file_dpath: Monsters/Radenwights/Statblocks
+free_strike: 1
+intuition: 0
 item_id: radenwight-scrapper
 item_index: '154'
 item_name: Radenwight Scrapper
+level: 1
+might: -1
+presence: 2
+reason: 0
+roles:
+  - Minion Defender
 scc:
   - mcdm.monsters.v1:monster:radenwight-scrapper
 scdc:
   - 1.1.1:2:154
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '5'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Giant
+  - Ogre
+ev: '16'
 file_basename: Ogre Goon
 file_dpath: Monsters/Ogres/Statblocks
+free_strike: 5
+intuition: 0
 item_id: ogre-goon
 item_index: '02'
 item_name: Ogre Goon
+level: 2
+might: 2
+presence: -1
+reason: -1
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:ogre-goon
 scdc:
   - 1.1.1:2:02
+size: '2'
 source: mcdm.monsters.v1
+speed: 5
+stability: 4
+stamina: '100'
 type: monster
 ---
 

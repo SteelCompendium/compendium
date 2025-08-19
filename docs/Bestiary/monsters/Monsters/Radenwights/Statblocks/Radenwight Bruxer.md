@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Radenwight
+ev: '6'
 file_basename: Radenwight Bruxer
 file_dpath: Monsters/Radenwights/Statblocks
+free_strike: 4
+intuition: 0
 item_id: radenwight-bruxer
 item_index: '149'
 item_name: Radenwight Bruxer
+level: 1
+might: 2
+presence: 1
+reason: -1
+roles:
+  - Platoon Brute
 scc:
   - mcdm.monsters.v1:monster:radenwight-bruxer
 scdc:
   - 1.1.1:2:149
+size: 1L
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '40'
 type: monster
 ---
 

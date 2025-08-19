@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Dragon
+  - Elemental
+ev: '48'
 file_basename: Thorn Dragon
 file_dpath: Monsters/Dragons/Statblocks
+free_strike: 5
+intuition: 1
 item_id: thorn-dragon
 item_index: '345'
 item_name: Thorn Dragon
+level: 2
+might: 2
+presence: 2
+reason: -1
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:thorn-dragon
 scdc:
   - 1.1.1:2:345
+size: '3'
 source: mcdm.monsters.v1
+speed: 8
+stability: 6
+stamina: '250'
 type: monster
 ---
 

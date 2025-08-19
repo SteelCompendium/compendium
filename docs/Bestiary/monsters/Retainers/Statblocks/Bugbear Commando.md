@@ -1,9 +1,28 @@
 ---
+agility: 2
+ancestry:
+  - Bugbear
+  - Fey
+  - Goblin
+  - Humanoid
+ev: '-'
 file_basename: Bugbear Commando
 file_dpath: Retainers/Statblocks
+free_strike: 2
+intuition: 1
 item_id: bugbear-commando
 item_name: Bugbear Commando
+level: 2
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Ambusher Retainer
+size: 1L
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '30'
 ---
 
 ###### Bugbear Commando

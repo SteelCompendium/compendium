@@ -1,14 +1,30 @@
 ---
+agility: 2
+ancestry:
+  - Undead
+ev: '12'
 file_basename: Ghost
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 4
+intuition: 0
 item_id: ghost
 item_index: '80'
 item_name: Ghost
+level: 1
+might: -2
+presence: 3
+reason: 0
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:ghost
 scdc:
   - 1.1.1:2:80
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 1
+stamina: '80'
 type: monster
 ---
 

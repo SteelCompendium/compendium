@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Kobold
+  - Humanoid
+ev: '12'
 file_basename: Shieldscale Drangolin
 file_dpath: Monsters/Kobolds/Statblocks
+free_strike: 5
+intuition: 0
 item_id: shieldscale-drangolin
 item_index: '97'
 item_name: Shieldscale Drangolin
+level: 1
+might: 2
+presence: -2
+reason: -3
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:shieldscale-drangolin
 scdc:
   - 1.1.1:2:97
+size: 2 or 3 Size
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '80'
 type: monster
 ---
 

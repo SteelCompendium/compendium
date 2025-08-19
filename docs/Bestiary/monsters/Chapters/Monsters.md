@@ -1595,7 +1595,7 @@ At the start of an ashen hoarder's turn, you can spend Malice to activate one of
 
 |  Construct, Undead  |            -             |       Level 4        |          Solo           |           EV 72            |
 | :-----------------: | :----------------------: | :------------------: | :---------------------: | :------------------------: |
-|   **3**<br/> Size   |     **8**<br/> Speed     | 35**0**<br/> Stamina |  **3**<br/> Stability   |   **6**<br/> Free Strike   |
+|   **3**<br/> Size   |     **8**<br/> Speed     | **350**<br/> Stamina |  **3**<br/> Stability   |   **6**<br/> Free Strike   |
 | **-**<br/> Immunity | **Burrow**<br/> Movement |          -           | **-**<br/> With Captain | **Holy 5**<br/> Weaknesses |
 |  **+4**<br/> Might  |   **-1**<br/> Agility    |  **-2**<br/> Reason  |  **+0**<br/> Intuition  |    **-5**<br/> Presence    |
 
@@ -9759,7 +9759,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 
 |    Fire Giant, Giant     |          -          |       Level 9        |      Elite Support      |         EV 44          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
-|     **4**<br/> Size      | \*8\*\*<br/> Speed  | **200**<br/> Stamina |  **5**<br/> Stability   | **9**<br/> Free Strike |
+|     **4**<br/> Size      |  **8**<br/> Speed   | **200**<br/> Stamina |  **5**<br/> Stability   | **9**<br/> Free Strike |
 | **Fire 9**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
 |    **+4**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason   |  **+4**<br/> Intuition  |  **+1**<br/> Presence  |
 
@@ -19499,7 +19499,7 @@ At the start of any undead's turn, you can spend Malice to activate one of the f
 
 ###### Ghoul
 
-|                  Undead                  |          -          |       Level 1       |      Horde Harrier      |         EV 3\\         |
+|                  Undead                  |          -          |       Level 1       |      Horde Harrier      |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **7**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
 | **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
@@ -25522,10 +25522,11 @@ Overminds typically speak Za'hariax. Xorannox also speaks Caelian, Hyrallic, and
 
 ###### Zapper Eye
 
-| Eyestalk, Horror, Overmind |              -               |      Level 6       |        Artillery        |         EV -          |
-| :------------------------: | :--------------------------: | :----------------: | :---------------------: | :-------------------: |
-|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |         -          | **-**<br/> With Captain | **-**<br/> Weaknesses |
-|     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason |  **+1**<br/> Intuition  | **-1**<br/> Presence  |
+| Eyestalk, Horror, Overmind |              -               |       Level 6       |        Artillery        |          EV -          |
+| :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
+|      **1M**<br/> Size      |       **5**<br/> Speed       | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
+|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
 > 🔳 **Lightning Beam (Signature Ability)**

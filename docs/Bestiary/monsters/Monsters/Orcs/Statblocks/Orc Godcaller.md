@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Humanoid
+  - Orc
+ev: '6'
 file_basename: Orc Godcaller
 file_dpath: Monsters/Orcs/Statblocks
+free_strike: 3
+intuition: 1
 item_id: orc-godcaller
 item_index: '127'
 item_name: Orc Godcaller
+level: 1
+might: 1
+presence: 2
+reason: 0
+roles:
+  - Platoon Support
 scc:
   - mcdm.monsters.v1:monster:orc-godcaller
 scdc:
   - 1.1.1:2:127
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '30'
 type: monster
 ---
 

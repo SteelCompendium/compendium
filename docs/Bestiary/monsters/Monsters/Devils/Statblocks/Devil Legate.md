@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Devil
+  - Infernal
+ev: '28'
 file_basename: Devil Legate
 file_dpath: Monsters/Devils/Statblocks
+free_strike: 6
+intuition: 1
 item_id: devil-legate
 item_index: '303'
 item_name: Devil Legate
+level: 5
+might: 3
+presence: 2
+reason: 0
+roles:
+  - Elite Defender
 scc:
   - mcdm.monsters.v1:monster:devil-legate
 scdc:
   - 1.1.1:2:303
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 2
+stamina: '160'
 type: monster
 ---
 

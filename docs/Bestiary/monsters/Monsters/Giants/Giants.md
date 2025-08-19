@@ -278,7 +278,7 @@ At the start of any giant's turn, you can spend Malice to activate one of the fo
 
 |    Fire Giant, Giant     |          -          |       Level 9        |      Elite Support      |         EV 44          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
-|     **4**<br/> Size      | \*8\*\*<br/> Speed  | **200**<br/> Stamina |  **5**<br/> Stability   | **9**<br/> Free Strike |
+|     **4**<br/> Size      |  **8**<br/> Speed   | **200**<br/> Stamina |  **5**<br/> Stability   | **9**<br/> Free Strike |
 | **Fire 9**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
 |    **+4**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason   |  **+4**<br/> Intuition  |  **+1**<br/> Presence  |
 

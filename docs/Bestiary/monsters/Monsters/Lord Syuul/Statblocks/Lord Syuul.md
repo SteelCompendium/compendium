@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Horror
+  - Voiceless Talker
+ev: '96'
 file_basename: Lord Syuul
 file_dpath: Monsters/Lord Syuul/Statblocks
+free_strike: 7
+intuition: 4
 item_id: lord-syuul
 item_index: '236'
 item_name: Lord Syuul
+level: 6
+might: 1
+presence: 3
+reason: 4
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:lord-syuul
 scdc:
   - 1.1.1:2:236
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 3
+stamina: '450'
 type: monster
 ---
 

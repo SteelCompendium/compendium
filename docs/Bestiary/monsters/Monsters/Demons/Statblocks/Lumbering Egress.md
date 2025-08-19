@@ -1,14 +1,31 @@
 ---
+agility: -1
+ancestry:
+  - Abyssal
+  - Demon
+ev: '32'
 file_basename: Lumbering Egress
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 7
+intuition: 2
 item_id: lumbering-egress
 item_index: '266'
 item_name: Lumbering Egress
+level: 6
+might: 4
+presence: 2
+reason: 1
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:lumbering-egress
 scdc:
   - 1.1.1:2:266
+size: '3'
 source: mcdm.monsters.v1
+speed: 6
+stability: 3
+stamina: '180'
 type: monster
 ---
 

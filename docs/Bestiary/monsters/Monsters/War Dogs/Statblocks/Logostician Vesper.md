@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Soulless
+  - War Dog
+ev: '48'
 file_basename: Logostician Vesper
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 0
+intuition: 4
 item_id: logostician-vesper
 item_index: '392'
 item_name: Logostician Vesper
+level: 10
+might: 2
+presence: 1
+reason: 5
+roles:
+  - Elite Controller
 scc:
   - mcdm.monsters.v1:monster:logostician-vesper
 scdc:
   - 1.1.1:2:392
+size: '2'
 source: mcdm.monsters.v1
+speed: 1
+stability: 1
+stamina: '02533'
 type: monster
 ---
 

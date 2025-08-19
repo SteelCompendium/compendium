@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Angulotl
+  - Animal
+ev: 3 for 4 minions
 file_basename: Clawfish
 file_dpath: Monsters/Angulotls/Statblocks
+free_strike: 2
+intuition: -2
 item_id: clawfish
 item_index: '245'
 item_name: Clawfish
+level: 1
+might: 0
+presence: 1
+reason: -3
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:clawfish
 scdc:
   - 1.1.1:2:245
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '5'
 type: monster
 ---
 

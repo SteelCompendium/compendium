@@ -1,9 +1,28 @@
 ---
+agility: 0
+ancestry:
+  - Goblin
+  - Hobgoblin
+  - Humanoid
+  - Infernal
+ev: '-'
 file_basename: Hobgoblin Flameslinger
 file_dpath: Retainers/Statblocks
+free_strike: 5
+intuition: 1
 item_id: hobgoblin-flameslinger
 item_name: Hobgoblin Flameslinger
+level: 4
+might: 1
+presence: 3
+reason: 2
+roles:
+  - Controller Retainer
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '48'
 ---
 
 ###### Hobgoblin Flameslinger

@@ -1,14 +1,32 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: 9 for four minions
 file_basename: War Dog Draconite
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 4
+intuition: -1
 item_id: war-dog-draconite
 item_index: '362'
 item_name: War Dog Draconite
+level: 7
+might: 4
+presence: 2
+reason: -2
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:war-dog-draconite
 scdc:
   - 1.1.1:2:362
+size: '2'
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '13'
 type: monster
 ---
 

@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '48'
 file_basename: Castellan Hoplon
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 0
+intuition: 3
 item_id: castellan-hoplon
 item_index: '385'
 item_name: Castellan Hoplon
+level: 10
+might: 5
+presence: 4
+reason: 4
+roles:
+  - Elite Defender
 scc:
   - mcdm.monsters.v1:monster:castellan-hoplon
 scdc:
   - 1.1.1:2:385
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '2603'
 type: monster
 ---
 

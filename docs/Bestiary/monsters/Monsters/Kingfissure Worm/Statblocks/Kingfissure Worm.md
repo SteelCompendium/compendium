@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Beast
+  - Worm
+ev: '108'
 file_basename: Kingfissure Worm
 file_dpath: Monsters/Kingfissure Worm/Statblocks
+free_strike: 8
+intuition: 2
 item_id: kingfissure-worm
 item_index: '247'
 item_name: Kingfissure Worm
+level: 7
+might: 5
+presence: -3
+reason: -5
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:kingfissure-worm
 scdc:
   - 1.1.1:2:247
+size: '5'
 source: mcdm.monsters.v1
+speed: 10
+stability: 5
+stamina: '420'
 type: monster
 ---
 

@@ -1,9 +1,27 @@
 ---
+agility: 1
+ancestry:
+  - Accursed
+  - Humanoid
+  - Minotaur
+ev: '-'
 file_basename: Minotaur Gorer
 file_dpath: Retainers/Statblocks
+free_strike: 6
+intuition: 1
 item_id: minotaur-gorer
 item_name: Minotaur Gorer
+level: 3
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Brute Retainer
+size: '2'
 source: mcdm.monsters.v1
+speed: 6
+stability: 2
+stamina: '39'
 ---
 
 ###### Minotaur Gorer

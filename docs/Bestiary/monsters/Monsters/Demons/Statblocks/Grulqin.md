@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Abyssal
+  - Demon
+ev: 6 for four minions
 file_basename: Grulqin
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 3
+intuition: -1
 item_id: grulqin
 item_index: '269'
 item_name: Grulqin
+level: 4
+might: 3
+presence: -1
+reason: -1
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:grulqin
 scdc:
   - 1.1.1:2:269
+size: 1L
 source: mcdm.monsters.v1
+speed: 8
+stability: 1
+stamina: '9'
 type: monster
 ---
 

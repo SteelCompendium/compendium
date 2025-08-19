@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Beast
+  - Griffon
+ev: '16'
 file_basename: Striped Condor Griffon
 file_dpath: Monsters/Griffons/Statblocks
+free_strike: 5
+intuition: 2
 item_id: striped-condor-griffon
 item_index: '88'
 item_name: Striped Condor Griffon
+level: 2
+might: 2
+presence: 1
+reason: -1
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:striped-condor-griffon
 scdc:
   - 1.1.1:2:88
+size: '3'
 source: mcdm.monsters.v1
+speed: 7
+stability: 3
+stamina: '100'
 type: monster
 ---
 

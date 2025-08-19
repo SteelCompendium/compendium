@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Arixx
+  - Beast
+ev: '36'
 file_basename: Arixx
 file_dpath: Monsters/Arixx/Statblocks
+free_strike: 5
+intuition: 1
 item_id: arixx
 item_index: '237'
 item_name: Arixx
+level: 1
+might: 3
+presence: -4
+reason: -3
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:arixx
 scdc:
   - 1.1.1:2:237
+size: '2'
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '200'
 type: monster
 ---
 

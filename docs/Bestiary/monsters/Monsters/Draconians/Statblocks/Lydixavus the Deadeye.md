@@ -1,14 +1,32 @@
 ---
+agility: 3
+ancestry:
+  - Draconian
+  - Dragon
+  - Humanoid
+ev: '32'
 file_basename: Lydixavus the Deadeye
 file_dpath: Monsters/Draconians/Statblocks
+free_strike: 7
+intuition: 3
 item_id: lydixavus-the-deadeye
 item_index: '106'
 item_name: Lydixavus the Deadeye
+level: 6
+might: -1
+presence: 1
+reason: 3
+roles:
+  - Elite Artillery
 scc:
   - mcdm.monsters.v1:monster:lydixavus-the-deadeye
 scdc:
   - 1.1.1:2:106
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '140'
 type: monster
 ---
 

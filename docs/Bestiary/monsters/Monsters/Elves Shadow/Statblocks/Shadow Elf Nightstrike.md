@@ -1,14 +1,32 @@
 ---
+agility: 3
+ancestry:
+  - Fey
+  - Humanoid
+  - Shadow Elf
+ev: 6 for four minions
 file_basename: Shadow Elf Nightstrike
 file_dpath: Monsters/Elves Shadow/Statblocks
+free_strike: 3
+intuition: 1
 item_id: shadow-elf-nightstrike
 item_index: '216'
 item_name: Shadow Elf Nightstrike
+level: 4
+might: 1
+presence: 0
+reason: 0
+roles:
+  - Minion Ambusher
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-nightstrike
 scdc:
   - 1.1.1:2:216
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '8'
 type: monster
 ---
 

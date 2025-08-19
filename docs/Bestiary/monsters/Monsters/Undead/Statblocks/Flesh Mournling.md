@@ -1,14 +1,30 @@
 ---
+agility: 1
+ancestry:
+  - Undead
+ev: '6'
 file_basename: Flesh Mournling
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 2
+intuition: 2
 item_id: flesh-mournling
 item_index: '83'
 item_name: Flesh Mournling
+level: 4
+might: 3
+presence: -1
+reason: 0
+roles:
+  - Horde Defender
 scc:
   - mcdm.monsters.v1:monster:flesh-mournling
 scdc:
   - 1.1.1:2:83
+size: '2'
 source: mcdm.monsters.v1
+speed: 6
+stability: 2
+stamina: '35'
 type: monster
 ---
 

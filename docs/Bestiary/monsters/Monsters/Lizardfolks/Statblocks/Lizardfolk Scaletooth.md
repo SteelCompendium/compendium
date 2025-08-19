@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Lizardfolk
+ev: '6'
 file_basename: Lizardfolk Scaletooth
 file_dpath: Monsters/Lizardfolks/Statblocks
+free_strike: 4
+intuition: 0
 item_id: lizardfolk-scaletooth
 item_index: '52'
 item_name: Lizardfolk Scaletooth
+level: 1
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Platoon Brute
 scc:
   - mcdm.monsters.v1:monster:lizardfolk-scaletooth
 scdc:
   - 1.1.1:2:52
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '46'
 type: monster
 ---
 

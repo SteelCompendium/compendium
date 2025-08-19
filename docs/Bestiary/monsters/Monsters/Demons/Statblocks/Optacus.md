@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Abyssal
+  - Demon
+ev: 12 for four minions
 file_basename: Optacus
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 5
+intuition: 5
 item_id: optacus
 item_index: '282'
 item_name: Optacus
+level: 10
+might: 1
+presence: 1
+reason: 1
+roles:
+  - Minion Artillery
 scc:
   - mcdm.monsters.v1:monster:optacus
 scdc:
   - 1.1.1:2:282
+size: 1S
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '14'
 type: monster
 ---
 

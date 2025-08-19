@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Giant
+  - Ogre
+ev: 9 for four minions
 file_basename: Ogre Tantrum
 file_dpath: Monsters/Ogres/Statblocks
+free_strike: 4
+intuition: 0
 item_id: ogre-tantrum
 item_index: '03'
 item_name: Ogre Tantrum
+level: 7
+might: 4
+presence: -1
+reason: -1
+roles:
+  - Minion Artillery
 scc:
   - mcdm.monsters.v1:monster:ogre-tantrum
 scdc:
   - 1.1.1:2:03
+size: '2'
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '10'
 type: monster
 ---
 

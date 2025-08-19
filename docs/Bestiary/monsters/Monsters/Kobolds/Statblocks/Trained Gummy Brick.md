@@ -1,14 +1,32 @@
 ---
+agility: -1
+ancestry:
+  - Kobold
+  - Ooze
+  - Soulless
+ev: '12'
 file_basename: Trained Gummy Brick
 file_dpath: Monsters/Kobolds/Statblocks
+free_strike: 4
+intuition: 0
 item_id: trained-gummy-brick
 item_index: '94'
 item_name: Trained Gummy Brick
+level: 1
+might: 2
+presence: -2
+reason: -3
+roles:
+  - Elite Hexer
 scc:
   - mcdm.monsters.v1:monster:trained-gummy-brick
 scdc:
   - 1.1.1:2:94
+size: '2'
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '40'
 type: monster
 ---
 

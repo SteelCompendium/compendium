@@ -1,14 +1,32 @@
 ---
+agility: -1
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '7'
 file_basename: War Dog Doomthief
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 3
+intuition: 3
 item_id: war-dog-doomthief
 item_index: '388'
 item_name: War Dog Doomthief
+level: 5
+might: 3
+presence: 1
+reason: 0
+roles:
+  - Horde Defender
 scc:
   - mcdm.monsters.v1:monster:war-dog-doomthief
 scdc:
   - 1.1.1:2:388
+size: 1L
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '40'
 type: monster
 ---
 

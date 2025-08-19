@@ -1,14 +1,33 @@
 ---
+agility: 3
+ancestry:
+  - Goblin
+  - Hobgoblin
+  - Humanoid
+  - Infernal
+ev: '14'
 file_basename: Hobgoblin Firerunner
 file_dpath: Monsters/Hobgoblins/Statblocks
+free_strike: 6
+intuition: 1
 item_id: hobgoblin-firerunner
 item_index: '191'
 item_name: Hobgoblin Firerunner
+level: 5
+might: 2
+presence: 0
+reason: 1
+roles:
+  - Platoon Harrier
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-firerunner
 scdc:
   - 1.1.1:2:191
+size: 1M
 source: mcdm.monsters.v1
+speed: 8
+stability: 0
+stamina: '70'
 type: monster
 ---
 

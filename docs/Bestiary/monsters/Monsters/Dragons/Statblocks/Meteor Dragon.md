@@ -1,14 +1,31 @@
 ---
+agility: 5
+ancestry:
+  - Dragon
+  - Elemental
+ev: '144'
 file_basename: Meteor Dragon
 file_dpath: Monsters/Dragons/Statblocks
+free_strike: 10
+intuition: 3
 item_id: meteor-dragon
 item_index: '344'
 item_name: Meteor Dragon
+level: 10
+might: 5
+presence: 5
+reason: 3
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:meteor-dragon
 scdc:
   - 1.1.1:2:344
+size: '3'
 source: mcdm.monsters.v1
+speed: 15
+stability: 6
+stamina: '650'
 type: monster
 ---
 

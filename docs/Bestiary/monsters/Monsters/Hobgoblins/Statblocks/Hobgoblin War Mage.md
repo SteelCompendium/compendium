@@ -1,14 +1,33 @@
 ---
+agility: 2
+ancestry:
+  - Goblin
+  - Hobgoblin
+  - Humanoid
+  - Infernal
+ev: '28'
 file_basename: Hobgoblin War Mage
 file_dpath: Monsters/Hobgoblins/Statblocks
+free_strike: 6
+intuition: 2
 item_id: hobgoblin-war-mage
 item_index: '184'
 item_name: Hobgoblin War Mage
+level: 5
+might: 0
+presence: 2
+reason: 3
+roles:
+  - Elite Controller
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-war-mage
 scdc:
   - 1.1.1:2:184
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '120'
 type: monster
 ---
 

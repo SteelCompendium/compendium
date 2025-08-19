@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '4'
 file_basename: War Dog Phosphorite
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 2
+intuition: 0
 item_id: war-dog-phosphorite
 item_index: '350'
 item_name: War Dog Phosphorite
+level: 2
+might: 0
+presence: 0
+reason: 0
+roles:
+  - Horde Hexer
 scc:
   - mcdm.monsters.v1:monster:war-dog-phosphorite
 scdc:
   - 1.1.1:2:350
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '15'
 type: monster
 ---
 

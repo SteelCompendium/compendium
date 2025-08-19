@@ -1,14 +1,32 @@
 ---
+agility: 1
+ancestry:
+  - Abyssal
+  - Animal
+  - Gnoll
+ev: 4 for four minions
 file_basename: Abyssal Hyena
 file_dpath: Monsters/Gnolls/Statblocks
+free_strike: 3
+intuition: 0
 item_id: abyssal-hyena
 item_index: '45'
 item_name: Abyssal Hyena
+level: 2
+might: 2
+presence: -2
+reason: -3
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:abyssal-hyena
 scdc:
   - 1.1.1:2:45
+size: 1M
 source: mcdm.monsters.v1
+speed: 8
+stability: 1
+stamina: '7'
 type: monster
 ---
 

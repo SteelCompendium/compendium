@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '10'
 file_basename: War Dog Firestarter
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 3
+intuition: 4
 item_id: war-dog-firestarter
 item_index: '393'
 item_name: War Dog Firestarter
+level: 8
+might: 0
+presence: 1
+reason: 3
+roles:
+  - Horde Hexer
 scc:
   - mcdm.monsters.v1:monster:war-dog-firestarter
 scdc:
   - 1.1.1:2:393
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '45'
 type: monster
 ---
 

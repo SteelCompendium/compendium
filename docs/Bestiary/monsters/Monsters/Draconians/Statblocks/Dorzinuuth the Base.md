@@ -1,14 +1,32 @@
 ---
+agility: 1
+ancestry:
+  - Draconian
+  - Dragon
+  - Humanoid
+ev: '32'
 file_basename: Dorzinuuth the Base
 file_dpath: Monsters/Draconians/Statblocks
+free_strike: 7
+intuition: 2
 item_id: dorzinuuth-the-base
 item_index: '101'
 item_name: Dorzinuuth the Base
+level: 6
+might: 4
+presence: 3
+reason: 1
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:dorzinuuth-the-base
 scdc:
   - 1.1.1:2:101
+size: '2'
 source: mcdm.monsters.v1
+speed: 5
+stability: 3
+stamina: '180'
 type: monster
 ---
 

@@ -1,14 +1,32 @@
 ---
+agility: 0
+ancestry:
+  - Fey
+  - High Elf
+  - Humanoid
+ev: '8'
 file_basename: High Elf Deathtouch
 file_dpath: Monsters/Elves High/Statblocks
+free_strike: 5
+intuition: 0
 item_id: high-elf-deathtouch
 item_index: '120'
 item_name: High Elf Deathtouch
+level: 2
+might: 2
+presence: 1
+reason: 1
+roles:
+  - Platoon Artillery
 scc:
   - mcdm.monsters.v1:monster:high-elf-deathtouch
 scdc:
   - 1.1.1:2:120
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '30'
 type: monster
 ---
 

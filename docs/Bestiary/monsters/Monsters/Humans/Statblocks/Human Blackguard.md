@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Human
+  - Humanoid
+ev: '12'
 file_basename: Human Blackguard
 file_dpath: Monsters/Humans/Statblocks
+free_strike: 4
+intuition: 0
 item_id: human-blackguard
 item_index: '166'
 item_name: Human Blackguard
+level: 1
+might: 3
+presence: 2
+reason: 2
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:human-blackguard
 scdc:
   - 1.1.1:2:166
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '80'
 type: monster
 ---
 

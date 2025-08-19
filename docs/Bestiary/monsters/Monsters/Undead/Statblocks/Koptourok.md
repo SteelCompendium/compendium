@@ -1,14 +1,30 @@
 ---
+agility: 2
+ancestry:
+  - Undead
+ev: '9'
 file_basename: Koptourok
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 3
+intuition: 1
 item_id: koptourok
 item_index: '59'
 item_name: Koptourok
+level: 7
+might: 4
+presence: -1
+reason: 0
+roles:
+  - Horde Hexer
 scc:
   - mcdm.monsters.v1:monster:koptourok
 scdc:
   - 1.1.1:2:59
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '40'
 type: monster
 ---
 

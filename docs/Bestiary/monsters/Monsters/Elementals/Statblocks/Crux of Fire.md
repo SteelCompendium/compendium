@@ -1,14 +1,30 @@
 ---
+agility: 2
+ancestry:
+  - Elemental
+ev: '20'
 file_basename: Crux of Fire
 file_dpath: Monsters/Elementals/Statblocks
+free_strike: 6
+intuition: 1
 item_id: crux-of-fire
 item_index: '327'
 item_name: Crux of Fire
+level: 3
+might: -1
+presence: 2
+reason: 0
+roles:
+  - Elite Artillery
 scc:
   - mcdm.monsters.v1:monster:crux-of-fire
 scdc:
   - 1.1.1:2:327
+size: 1T
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '80'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Human
+  - Humanoid
+ev: 3 for four minions
 file_basename: Human Death Acolyte
 file_dpath: Monsters/Humans/Statblocks
+free_strike: 1
+intuition: 0
 item_id: human-death-acolyte
 item_index: '161'
 item_name: Human Death Acolyte
+level: 1
+might: 0
+presence: 2
+reason: 0
+roles:
+  - Minion Hexer
 scc:
   - mcdm.monsters.v1:monster:human-death-acolyte
 scdc:
   - 1.1.1:2:161
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '3'
 type: monster
 ---
 

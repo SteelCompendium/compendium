@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Kobold
+ev: '3'
 file_basename: Kobold Legionary
 file_dpath: Monsters/Kobolds/Statblocks
+free_strike: 1
+intuition: 0
 item_id: kobold-legionary
 item_index: '98'
 item_name: Kobold Legionary
+level: 1
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Horde Defender
 scc:
   - mcdm.monsters.v1:monster:kobold-legionary
 scdc:
   - 1.1.1:2:98
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '20'
 type: monster
 ---
 

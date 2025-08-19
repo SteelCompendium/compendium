@@ -20,7 +20,7 @@ type: feature/ability/shadow/9th-level-feature
 
 ###### To the Stars (11 Insight)
 
-*You attach your most potent explosive to your foe. Under less pressing*
+*You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*
 
 | **Melee, Ranged, Strike**   |               **Main action** |
 | --------------------------- | ----------------------------: |

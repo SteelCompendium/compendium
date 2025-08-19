@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Devil
+  - Infernal
+ev: 7 for four minions
 file_basename: Devil Scrivener
 file_dpath: Monsters/Devils/Statblocks
+free_strike: 3
+intuition: 1
 item_id: devil-scrivener
 item_index: '296'
 item_name: Devil Scrivener
+level: 5
+might: 0
+presence: 2
+reason: 1
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:devil-scrivener
 scdc:
   - 1.1.1:2:296
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '9'
 type: monster
 ---
 

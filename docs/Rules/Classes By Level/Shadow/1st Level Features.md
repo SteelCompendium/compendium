@@ -299,7 +299,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 ###### Eviscerate (3 Insight)
 
-*You leave your foe bleeding out after a devastating attack*
+*You leave your foe bleeding out after a devastating attack.*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
@@ -349,7 +349,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
-| **📏 Melee 1**                    | **🎯 One creature** |
+| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
 **Power Roll + Agility:**
 

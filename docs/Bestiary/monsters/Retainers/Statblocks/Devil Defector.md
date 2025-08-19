@@ -1,9 +1,26 @@
 ---
+agility: 2
+ancestry:
+  - Devil
+  - Infernal
+ev: '-'
 file_basename: Devil Defector
 file_dpath: Retainers/Statblocks
+free_strike: 5
+intuition: 1
 item_id: devil-defector
 item_name: Devil Defector
+level: 5
+might: 3
+presence: 2
+reason: 3
+roles:
+  - Hexer Retainer
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '57'
 ---
 
 ###### Devil Defector

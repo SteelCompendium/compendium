@@ -1,14 +1,33 @@
 ---
+agility: -1
+ancestry:
+  - Bugbear
+  - Fey
+  - Goblin
+  - Humanoid
+ev: 7 for four minions
 file_basename: Bugbear Mob
 file_dpath: Monsters/Bugbears/Statblocks
+free_strike: 3
+intuition: 1
 item_id: bugbear-mob
 item_index: '289'
 item_name: Bugbear Mob
+level: 5
+might: 3
+presence: 0
+reason: 0
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:bugbear-mob
 scdc:
   - 1.1.1:2:289
+size: '3'
 source: mcdm.monsters.v1
+speed: 6
+stability: 2
+stamina: '10'
 type: monster
 ---
 

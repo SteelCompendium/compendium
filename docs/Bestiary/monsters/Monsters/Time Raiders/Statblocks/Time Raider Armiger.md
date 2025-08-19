@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Time Raider
+ev: '10'
 file_basename: Time Raider Armiger
 file_dpath: Monsters/Time Raiders/Statblocks
+free_strike: 5
+intuition: 2
 item_id: time-raider-armiger
 item_index: '141'
 item_name: Time Raider Armiger
+level: 3
+might: 0
+presence: 0
+reason: 2
+roles:
+  - Platoon Defender
 scc:
   - mcdm.monsters.v1:monster:time-raider-armiger
 scdc:
   - 1.1.1:2:141
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '60'
 type: monster
 ---
 

@@ -1,14 +1,32 @@
 ---
+agility: 1
+ancestry:
+  - Eyestalk
+  - Horror
+  - Overmind
+ev: '-'
 file_basename: Compulsion Eye
 file_dpath: Monsters/Xorannox the Tyract/Statblocks
+free_strike: 3
+intuition: 1
 item_id: compulsion-eye
 item_index: '318'
 item_name: Compulsion Eye
+level: 6
+might: -1
+presence: -1
+reason: 4
+roles:
+  - Controller
 scc:
   - mcdm.monsters.v1:monster:compulsion-eye
 scdc:
   - 1.1.1:2:318
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '30'
 type: monster
 ---
 

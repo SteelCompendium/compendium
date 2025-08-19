@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Abyssal
+  - Gnoll
+ev: 4 for four minions
 file_basename: Gnoll Mage Mauler
 file_dpath: Monsters/Gnolls/Statblocks
+free_strike: 2
+intuition: 0
 item_id: gnoll-mage-mauler
 item_index: '44'
 item_name: Gnoll Mage Mauler
+level: 2
+might: 2
+presence: 0
+reason: -1
+roles:
+  - Minion Hexer
 scc:
   - mcdm.monsters.v1:monster:gnoll-mage-mauler
 scdc:
   - 1.1.1:2:44
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '4'
 type: monster
 ---
 

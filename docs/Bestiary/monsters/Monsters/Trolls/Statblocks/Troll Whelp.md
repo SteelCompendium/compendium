@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Giant
+  - Troll
+ev: 7 for four minions
 file_basename: Troll Whelp
 file_dpath: Monsters/Trolls/Statblocks
+free_strike: 3
+intuition: 0
 item_id: troll-whelp
 item_index: '408'
 item_name: Troll Whelp
+level: 5
+might: 3
+presence: 0
+reason: -1
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:troll-whelp
 scdc:
   - 1.1.1:2:408
+size: 1L
 source: mcdm.monsters.v1
+speed: 6
+stability: 3
+stamina: '10'
 type: monster
 ---
 

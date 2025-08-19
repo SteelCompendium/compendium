@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Undead
+  - Soulless
+ev: '12'
 file_basename: Lithgekh
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 5
+intuition: 3
 item_id: lithgekh
 item_index: '63'
 item_name: Lithgekh
+level: 10
+might: 0
+presence: -1
+reason: 5
+roles:
+  - Horde Hexer
 scc:
   - mcdm.monsters.v1:monster:lithgekh
 scdc:
   - 1.1.1:2:63
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 1
+stamina: '55'
 type: monster
 ---
 

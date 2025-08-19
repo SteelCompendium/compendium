@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Angulotl
+  - Humanoid
+ev: '3'
 file_basename: Angulotl Slink
 file_dpath: Monsters/Angulotls/Statblocks
+free_strike: 2
+intuition: 0
 item_id: angulotl-slink
 item_index: '238'
 item_name: Angulotl Slink
+level: 1
+might: 1
+presence: 0
+reason: 0
+roles:
+  - Horde Ambusher
 scc:
   - mcdm.monsters.v1:monster:angulotl-slink
 scdc:
   - 1.1.1:2:238
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '15'
 type: monster
 ---
 

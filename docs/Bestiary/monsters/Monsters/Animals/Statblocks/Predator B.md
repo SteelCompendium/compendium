@@ -1,14 +1,30 @@
 ---
+agility: 1
+ancestry:
+  - Animal
+ev: '16'
 file_basename: Predator B
 file_dpath: Monsters/Animals/Statblocks
+free_strike: 5
+intuition: 1
 item_id: predator-b
 item_index: '248'
 item_name: Predator B
+level: 3
+might: 2
+presence: 0
+reason: -1
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:predator-b
 scdc:
   - 1.1.1:2:248
+size: '3'
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '100'
 type: monster
 ---
 

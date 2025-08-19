@@ -1,14 +1,30 @@
 ---
+agility: 0
+ancestry:
+  - Elemental
+ev: '28'
 file_basename: Field of Growth
 file_dpath: Monsters/Elementals/Statblocks
+free_strike: 6
+intuition: 2
 item_id: field-of-growth
 item_index: '324'
 item_name: Field of Growth
+level: 3
+might: 2
+presence: 2
+reason: 0
+roles:
+  - Elite Controller
 scc:
   - mcdm.monsters.v1:monster:field-of-growth
 scdc:
   - 1.1.1:2:324
+size: '3'
 source: mcdm.monsters.v1
+speed: 8
+stability: 2
+stamina: '120'
 type: monster
 ---
 

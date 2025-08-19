@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Beast
+  - Lightbender
+ev: '20'
 file_basename: Lightbender Pouncer
 file_dpath: Monsters/Lightbenders/Statblocks
+free_strike: 5
+intuition: 1
 item_id: lightbender-pouncer
 item_index: '207'
 item_name: Lightbender Pouncer
+level: 3
+might: 2
+presence: -1
+reason: -3
+roles:
+  - Elite Harrier
 scc:
   - mcdm.monsters.v1:monster:lightbender-pouncer
 scdc:
   - 1.1.1:2:207
+size: '2'
 source: mcdm.monsters.v1
+speed: 1
+stability: 1
+stamina: '0100'
 type: monster
 ---
 

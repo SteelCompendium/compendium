@@ -1,14 +1,32 @@
 ---
+agility: 4
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '48'
 file_basename: Strategos Alkestis
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 0
+intuition: 5
 item_id: strategos-alkestis
 item_index: '357'
 item_name: Strategos Alkestis
+level: 10
+might: 4
+presence: 5
+reason: 5
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:strategos-alkestis
 scdc:
   - 1.1.1:2:357
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '2602'
 type: monster
 ---
 

@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Accursed
+  - Humanoid
+  - Minotaur
+ev: '20'
 file_basename: Minotaur
 file_dpath: Monsters/Minotaurs/Statblocks
+free_strike: 5
+intuition: 1
 item_id: minotaur
 item_index: '173'
 item_name: Minotaur
+level: 3
+might: 2
+presence: -1
+reason: 0
+roles:
+  - Elite Harrier
 scc:
   - mcdm.monsters.v1:monster:minotaur
 scdc:
   - 1.1.1:2:173
+size: '2'
 source: mcdm.monsters.v1
+speed: 8
+stability: 2
+stamina: '100'
 type: monster
 ---
 

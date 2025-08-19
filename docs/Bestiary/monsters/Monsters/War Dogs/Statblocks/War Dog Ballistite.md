@@ -1,14 +1,31 @@
 ---
+agility: -2
+ancestry:
+  - Soulless
+  - War Dog
+ev: '10'
 file_basename: War Dog Ballistite
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 4
+intuition: 3
 item_id: war-dog-ballistite
 item_index: '358'
 item_name: War Dog Ballistite
+level: 8
+might: 4
+presence: 2
+reason: 2
+roles:
+  - Horde Artillery
 scc:
   - mcdm.monsters.v1:monster:war-dog-ballistite
 scdc:
   - 1.1.1:2:358
+size: 1L
 source: mcdm.monsters.v1
+speed: 0
+stability: 5
+stamina: '72'
 type: monster
 ---
 

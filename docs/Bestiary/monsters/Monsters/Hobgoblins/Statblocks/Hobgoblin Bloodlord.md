@@ -1,14 +1,33 @@
 ---
+agility: 2
+ancestry:
+  - Goblin
+  - Hobgoblin
+  - Humanoid
+  - Infernal
+ev: '32'
 file_basename: Hobgoblin Bloodlord
 file_dpath: Monsters/Hobgoblins/Statblocks
+free_strike: 7
+intuition: 3
 item_id: hobgoblin-bloodlord
 item_index: '186'
 item_name: Hobgoblin Bloodlord
+level: 6
+might: 4
+presence: 3
+reason: 2
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-bloodlord
 scdc:
   - 1.1.1:2:186
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 2
+stamina: '180'
 type: monster
 ---
 

@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Fey
+  - High Elf
+  - Humanoid
+ev: '20'
 file_basename: High Elf Ordinator
 file_dpath: Monsters/Elves High/Statblocks
+free_strike: 5
+intuition: 2
 item_id: high-elf-ordinator
 item_index: '114'
 item_name: High Elf Ordinator
+level: 3
+might: 0
+presence: 3
+reason: 3
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:high-elf-ordinator
 scdc:
   - 1.1.1:2:114
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '120'
 type: monster
 ---
 

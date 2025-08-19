@@ -1,14 +1,32 @@
 ---
+agility: 1
+ancestry:
+  - Accursed
+  - Humanoid
+  - Minotaur
+ev: '20'
 file_basename: Minotaur Sunderer
 file_dpath: Monsters/Minotaurs/Statblocks
+free_strike: 6
+intuition: 2
 item_id: minotaur-sunderer
 item_index: '175'
 item_name: Minotaur Sunderer
+level: 3
+might: 2
+presence: -1
+reason: 0
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:minotaur-sunderer
 scdc:
   - 1.1.1:2:175
+size: '2'
 source: mcdm.monsters.v1
+speed: 6
+stability: 2
+stamina: '120'
 type: monster
 ---
 

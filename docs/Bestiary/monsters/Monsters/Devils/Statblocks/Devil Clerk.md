@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Devil
+  - Infernal
+ev: 7 for four minions
 file_basename: Devil Clerk
 file_dpath: Monsters/Devils/Statblocks
+free_strike: 3
+intuition: 1
 item_id: devil-clerk
 item_index: '299'
 item_name: Devil Clerk
+level: 5
+might: 3
+presence: 2
+reason: 1
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:devil-clerk
 scdc:
   - 1.1.1:2:299
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '10'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: -1
+ancestry:
+  - Giant
+  - Ogre
+ev: 12 for four minions
 file_basename: Cyclops
 file_dpath: Monsters/Ogres/Statblocks
+free_strike: 4
+intuition: 3
 item_id: cyclops
 item_index: '05'
 item_name: Cyclops
+level: 10
+might: 5
+presence: -1
+reason: -1
+roles:
+  - Minion Controller
 scc:
   - mcdm.monsters.v1:monster:cyclops
 scdc:
   - 1.1.1:2:05
+size: '3'
 source: mcdm.monsters.v1
+speed: 6
+stability: 5
+stamina: '14'
 type: monster
 ---
 

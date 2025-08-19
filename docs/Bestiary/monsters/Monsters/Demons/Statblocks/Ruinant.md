@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Abyssal
+  - Demon
+ev: '3'
 file_basename: Ruinant
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 1
+intuition: 0
 item_id: ruinant
 item_index: '285'
 item_name: Ruinant
+level: 1
+might: 0
+presence: 1
+reason: 0
+roles:
+  - Horde Harrier
 scc:
   - mcdm.monsters.v1:monster:ruinant
 scdc:
   - 1.1.1:2:285
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '15'
 type: monster
 ---
 

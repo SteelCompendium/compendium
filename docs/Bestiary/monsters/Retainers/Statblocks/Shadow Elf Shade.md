@@ -1,9 +1,27 @@
 ---
+agility: 3
+ancestry:
+  - Fey
+  - Humanoid
+  - Shadow Elf
+ev: '-'
 file_basename: Shadow Elf Shade
 file_dpath: Retainers/Statblocks
+free_strike: 5
+intuition: 2
 item_id: shadow-elf-shade
 item_name: Shadow Elf Shade
+level: 4
+might: 1
+presence: 1
+reason: 0
+roles:
+  - Ambusher Retainer
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '48'
 ---
 
 ###### Shadow Elf Shade

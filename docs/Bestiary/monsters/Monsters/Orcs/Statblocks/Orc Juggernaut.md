@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Orc
+ev: '10'
 file_basename: Orc Juggernaut
 file_dpath: Monsters/Orcs/Statblocks
+free_strike: 5
+intuition: -1
 item_id: orc-juggernaut
 item_index: '137'
 item_name: Orc Juggernaut
+level: 3
+might: 2
+presence: 2
+reason: -1
+roles:
+  - Platoon Brute
 scc:
   - mcdm.monsters.v1:monster:orc-juggernaut
 scdc:
   - 1.1.1:2:137
+size: 1L
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '60'
 type: monster
 ---
 

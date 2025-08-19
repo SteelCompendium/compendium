@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Undead
+  - Soulless
+ev: '3'
 file_basename: Skeleton
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 2
+intuition: 0
 item_id: skeleton
 item_index: '84'
 item_name: Skeleton
+level: 1
+might: 0
+presence: -1
+reason: 1
+roles:
+  - Horde Artillery
 scc:
   - mcdm.monsters.v1:monster:skeleton
 scdc:
   - 1.1.1:2:84
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '10'
 type: monster
 ---
 

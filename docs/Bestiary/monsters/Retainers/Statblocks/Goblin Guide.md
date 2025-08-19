@@ -1,9 +1,26 @@
 ---
+agility: 1
+ancestry:
+  - Goblin
+  - Humanoid
+ev: '-'
 file_basename: Goblin Guide
 file_dpath: Retainers/Statblocks
+free_strike: 2
+intuition: 0
 item_id: goblin-guide
 item_name: Goblin Guide
+level: 1
+might: -1
+presence: 1
+reason: 0
+roles:
+  - Harrier Retainer
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '21'
 ---
 
 ###### Goblin Guide

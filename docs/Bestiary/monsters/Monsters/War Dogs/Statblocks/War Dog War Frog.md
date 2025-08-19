@@ -1,14 +1,32 @@
 ---
+agility: 3
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: 6 for four minions
 file_basename: War Dog War Frog
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 3
+intuition: 2
 item_id: war-dog-war-frog
 item_index: '389'
 item_name: War Dog War Frog
+level: 4
+might: -1
+presence: 0
+reason: 0
+roles:
+  - Minion Ambusher
 scc:
   - mcdm.monsters.v1:monster:war-dog-war-frog
 scdc:
   - 1.1.1:2:389
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '8'
 type: monster
 ---
 

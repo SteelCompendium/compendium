@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Orc
+ev: 3 for four minions
 file_basename: Orc Blitzer
 file_dpath: Monsters/Orcs/Statblocks
+free_strike: 1
+intuition: 0
 item_id: orc-blitzer
 item_index: '133'
 item_name: Orc Blitzer
+level: 1
+might: 1
+presence: 0
+reason: 0
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:orc-blitzer
 scdc:
   - 1.1.1:2:133
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '4'
 type: monster
 ---
 

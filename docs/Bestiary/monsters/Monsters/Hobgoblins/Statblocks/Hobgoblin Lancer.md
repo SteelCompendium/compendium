@@ -1,14 +1,33 @@
 ---
+agility: 3
+ancestry:
+  - Goblin
+  - Hobgoblin
+  - Humanoid
+  - Infernal
+ev: 6 for four minions
 file_basename: Hobgoblin Lancer
 file_dpath: Monsters/Hobgoblins/Statblocks
+free_strike: 2
+intuition: 2
 item_id: hobgoblin-lancer
 item_index: '182'
 item_name: Hobgoblin Lancer
+level: 4
+might: 1
+presence: 0
+reason: 0
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-lancer
 scdc:
   - 1.1.1:2:182
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '8'
 type: monster
 ---
 

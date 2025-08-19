@@ -1,14 +1,30 @@
 ---
+agility: 2
+ancestry:
+  - Animal
+ev: '12'
 file_basename: Animal
 file_dpath: Monsters/Animals/Statblocks
+free_strike: 4
+intuition: 1
 item_id: animal
 item_index: '251'
 item_name: Animal
+level: 1
+might: 0
+presence: -2
+reason: -2
+roles:
+  - Elite Harrier
 scc:
   - mcdm.monsters.v1:monster:animal
 scdc:
   - 1.1.1:2:251
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '60'
 type: monster
 ---
 

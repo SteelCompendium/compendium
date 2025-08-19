@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Abyssal
+  - Demon
+ev: '6'
 file_basename: Fangling
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 2
+intuition: 0
 item_id: fangling
 item_index: '262'
 item_name: Fangling
+level: 4
+might: 3
+presence: 0
+reason: 0
+roles:
+  - Horde Harrier
 scc:
   - mcdm.monsters.v1:monster:fangling
 scdc:
   - 1.1.1:2:262
+size: 1L
 source: mcdm.monsters.v1
+speed: 8
+stability: 0
+stamina: '30'
 type: monster
 ---
 

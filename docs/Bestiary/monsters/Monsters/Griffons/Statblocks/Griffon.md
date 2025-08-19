@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Beast
+  - Griffon
+ev: '16'
 file_basename: Griffon
 file_dpath: Monsters/Griffons/Statblocks
+free_strike: 5
+intuition: 1
 item_id: griffon
 item_index: '87'
 item_name: Griffon
+level: 2
+might: 2
+presence: 2
+reason: -1
+roles:
+  - Elite Mount
 scc:
   - mcdm.monsters.v1:monster:griffon
 scdc:
   - 1.1.1:2:87
+size: '2'
 source: mcdm.monsters.v1
+speed: 9
+stability: 2
+stamina: '80'
 type: monster
 ---
 

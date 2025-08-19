@@ -1,14 +1,30 @@
 ---
+agility: -1
+ancestry:
+  - Elemental
+ev: '20'
 file_basename: Force of Earth
 file_dpath: Monsters/Elementals/Statblocks
+free_strike: 6
+intuition: 1
 item_id: force-of-earth
 item_index: '326'
 item_name: Force of Earth
+level: 3
+might: 2
+presence: 2
+reason: 0
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:force-of-earth
 scdc:
   - 1.1.1:2:326
+size: '2'
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '132'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Abyssal
+  - Demon
+ev: '4'
 file_basename: Remasch
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 3
+intuition: 0
 item_id: remasch
 item_index: '279'
 item_name: Remasch
+level: 2
+might: 0
+presence: 2
+reason: 0
+roles:
+  - Horde Ambusher
 scc:
   - mcdm.monsters.v1:monster:remasch
 scdc:
   - 1.1.1:2:279
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '20'
 type: monster
 ---
 

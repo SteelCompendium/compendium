@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Giant
+  - Stone Giant
+ev: '40'
 file_basename: Marble Stone Giant
 file_dpath: Monsters/Giants/Statblocks
+free_strike: 8
+intuition: 3
 item_id: marble-stone-giant
 item_index: '201'
 item_name: Marble Stone Giant
+level: 8
+might: 4
+presence: 0
+reason: 0
+roles:
+  - Elite Hexer
 scc:
   - mcdm.monsters.v1:monster:marble-stone-giant
 scdc:
   - 1.1.1:2:201
+size: '4'
 source: mcdm.monsters.v1
+speed: 6
+stability: 10
+stamina: '207'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Time Raider
+ev: 5 for four minions
 file_basename: Time Raider Myriad
 file_dpath: Monsters/Time Raiders/Statblocks
+free_strike: 3
+intuition: 1
 item_id: time-raider-myriad
 item_index: '144'
 item_name: Time Raider Myriad
+level: 3
+might: 2
+presence: 1
+reason: 2
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:time-raider-myriad
 scdc:
   - 1.1.1:2:144
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '8'
 type: monster
 ---
 

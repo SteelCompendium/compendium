@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Fire Giant
+  - Giant
+ev: '44'
 file_basename: Fire Giant Lightbearer
 file_dpath: Monsters/Giants/Statblocks
+free_strike: 9
+intuition: 4
 item_id: fire-giant-lightbearer
 item_index: '193'
 item_name: Fire Giant Lightbearer
+level: 9
+might: 4
+presence: 1
+reason: 0
+roles:
+  - Elite Support
 scc:
   - mcdm.monsters.v1:monster:fire-giant-lightbearer
 scdc:
   - 1.1.1:2:193
+size: '4'
 source: mcdm.monsters.v1
+speed: 8
+stability: 5
+stamina: '200'
 type: monster
 ---
 
@@ -16,7 +33,7 @@ type: monster
 
 |    Fire Giant, Giant     |          -          |       Level 9        |      Elite Support      |         EV 44          |
 | :----------------------: | :-----------------: | :------------------: | :---------------------: | :--------------------: |
-|     **4**<br/> Size      | \*8\*\*<br/> Speed  | **200**<br/> Stamina |  **5**<br/> Stability   | **9**<br/> Free Strike |
+|     **4**<br/> Size      |  **8**<br/> Speed   | **200**<br/> Stamina |  **5**<br/> Stability   | **9**<br/> Free Strike |
 | **Fire 9**<br/> Immunity | **-**<br/> Movement |          -           | **-**<br/> With Captain | **-**<br/> Weaknesses  |
 |    **+4**<br/> Might     | **+2**<br/> Agility |  **0**<br/> Reason   |  **+4**<br/> Intuition  |  **+1**<br/> Presence  |
 

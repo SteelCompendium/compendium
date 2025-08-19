@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Undead
+  - Soulless
+ev: 3 for four minions
 file_basename: Crawling Claw
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 1
+intuition: -1
 item_id: crawling-claw
 item_index: '75'
 item_name: Crawling Claw
+level: 1
+might: 0
+presence: -1
+reason: -5
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:crawling-claw
 scdc:
   - 1.1.1:2:75
+size: 1T
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '4'
 type: monster
 ---
 

@@ -1,9 +1,26 @@
 ---
+agility: 1
+ancestry:
+  - Undead
+  - Soulless
+ev: '-'
 file_basename: Unquiet Spirit
 file_dpath: Retainers/Statblocks
+free_strike: 2
+intuition: 0
 item_id: unquiet-spirit
 item_name: Unquiet Spirit
+level: 1
+might: -4
+presence: 2
+reason: 0
+roles:
+  - Hexer Retainer
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '21'
 ---
 
 ###### Unquiet Spirit

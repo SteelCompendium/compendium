@@ -1,14 +1,33 @@
 ---
+agility: 2
+ancestry:
+  - Bugbear
+  - Fey
+  - Goblin
+  - Humanoid
+ev: '16'
 file_basename: Bugbear Sneak
 file_dpath: Monsters/Bugbears/Statblocks
+free_strike: 5
+intuition: 0
 item_id: bugbear-sneak
 item_index: '288'
 item_name: Bugbear Sneak
+level: 2
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Elite Ambusher
 scc:
   - mcdm.monsters.v1:monster:bugbear-sneak
 scdc:
   - 1.1.1:2:288
+size: 1L
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '80'
 type: monster
 ---
 

@@ -1,14 +1,33 @@
 ---
+agility: -2
+ancestry:
+  - Construct
+  - Servok
+  - Soulless
+  - Valok
+ev: '44'
 file_basename: Servok Builder
 file_dpath: Monsters/Valok/Statblocks
+free_strike: 0
+intuition: -1
 item_id: servok-builder
 item_index: '330'
 item_name: Servok Builder
+level: 9
+might: 4
+presence: -5
+reason: -4
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:servok-builder
 scdc:
   - 1.1.1:2:330
+size: '3'
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '2408'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Abyssal
+  - Demon
+ev: 3 for four minions
 file_basename: Frenzied
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 1
+intuition: -1
 item_id: frenzied
 item_index: '275'
 item_name: Frenzied
+level: 1
+might: 0
+presence: -1
+reason: -1
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:frenzied
 scdc:
   - 1.1.1:2:275
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '4'
 type: monster
 ---
 

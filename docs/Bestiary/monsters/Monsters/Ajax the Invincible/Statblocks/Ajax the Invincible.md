@@ -1,14 +1,31 @@
 ---
+agility: 4
+ancestry:
+  - Human
+  - Humanoid
+ev: '156'
 file_basename: Ajax the Invincible
 file_dpath: Monsters/Ajax the Invincible/Statblocks
+free_strike: 11
+intuition: 5
 item_id: ajax-the-invincible
 item_index: '138'
 item_name: Ajax the Invincible
+level: 11
+might: 5
+presence: 4
+reason: 5
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:ajax-the-invincible
 scdc:
   - 1.1.1:2:138
+size: 1L
 source: mcdm.monsters.v1
+speed: 7
+stability: 2
+stamina: '700'
 type: monster
 ---
 

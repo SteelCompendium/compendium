@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Time Raider
+ev: '10'
 file_basename: Time Raider Nemesis
 file_dpath: Monsters/Time Raiders/Statblocks
+free_strike: 5
+intuition: 1
 item_id: time-raider-nemesis
 item_index: '142'
 item_name: Time Raider Nemesis
+level: 3
+might: 1
+presence: 0
+reason: 2
+roles:
+  - Platoon Harrier
 scc:
   - mcdm.monsters.v1:monster:time-raider-nemesis
 scdc:
   - 1.1.1:2:142
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '50'
 type: monster
 ---
 

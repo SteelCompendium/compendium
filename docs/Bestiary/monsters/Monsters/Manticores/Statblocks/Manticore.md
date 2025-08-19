@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Beast
+  - Manticore
+ev: '72'
 file_basename: Manticore
 file_dpath: Monsters/Manticores/Statblocks
+free_strike: 6
+intuition: 0
 item_id: manticore
 item_index: '346'
 item_name: Manticore
+level: 4
+might: 4
+presence: -1
+reason: 0
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:manticore
 scdc:
   - 1.1.1:2:346
+size: '2'
 source: mcdm.monsters.v1
+speed: 1
+stability: 2
+stamina: '0350'
 type: monster
 ---
 

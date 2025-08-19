@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Giant
+  - Troll
+ev: 11 for four minions
 file_basename: Troll Crack Trooper
 file_dpath: Monsters/Trolls/Statblocks
+free_strike: 5
+intuition: 0
 item_id: troll-crack-trooper
 item_index: '410'
 item_name: Troll Crack Trooper
+level: 9
+might: 4
+presence: 2
+reason: -1
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:troll-crack-trooper
 scdc:
   - 1.1.1:2:410
+size: '2'
 source: mcdm.monsters.v1
+speed: 6
+stability: 4
+stamina: '15'
 type: monster
 ---
 

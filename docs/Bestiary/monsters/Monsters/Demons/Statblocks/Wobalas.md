@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Abyssal
+  - Demon
+ev: 6 for four minions
 file_basename: Wobalas
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 3
+intuition: 2
 item_id: wobalas
 item_index: '255'
 item_name: Wobalas
+level: 4
+might: 1
+presence: 1
+reason: 1
+roles:
+  - Minion Artillery
 scc:
   - mcdm.monsters.v1:monster:wobalas
 scdc:
   - 1.1.1:2:255
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '7'
 type: monster
 ---
 

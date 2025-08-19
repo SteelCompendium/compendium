@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Radenwight
+ev: '12'
 file_basename: Radenwight Maestro
 file_dpath: Monsters/Radenwights/Statblocks
+free_strike: 4
+intuition: 0
 item_id: radenwight-maestro
 item_index: '151'
 item_name: Radenwight Maestro
+level: 1
+might: -2
+presence: 3
+reason: 0
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:radenwight-maestro
 scdc:
   - 1.1.1:2:151
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '80'
 type: monster
 ---
 

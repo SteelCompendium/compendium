@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Abyssal
+  - Gnoll
+ev: '4'
 file_basename: Gnoll Cackler
 file_dpath: Monsters/Gnolls/Statblocks
+free_strike: 2
+intuition: 2
 item_id: gnoll-cackler
 item_index: '40'
 item_name: Gnoll Cackler
+level: 2
+might: 0
+presence: 2
+reason: 2
+roles:
+  - Horde Hexer
 scc:
   - mcdm.monsters.v1:monster:gnoll-cackler
 scdc:
   - 1.1.1:2:40
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '15'
 type: monster
 ---
 

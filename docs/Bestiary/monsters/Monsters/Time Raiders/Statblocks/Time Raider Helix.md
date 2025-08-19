@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Time Raider
+ev: '10'
 file_basename: Time Raider Helix
 file_dpath: Monsters/Time Raiders/Statblocks
+free_strike: 5
+intuition: 2
 item_id: time-raider-helix
 item_index: '145'
 item_name: Time Raider Helix
+level: 3
+might: 0
+presence: 2
+reason: 2
+roles:
+  - Platoon Controller
 scc:
   - mcdm.monsters.v1:monster:time-raider-helix
 scdc:
   - 1.1.1:2:145
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '40'
 type: monster
 ---
 

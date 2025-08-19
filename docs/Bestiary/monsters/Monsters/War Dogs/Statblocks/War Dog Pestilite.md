@@ -1,14 +1,32 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '5'
 file_basename: War Dog Pestilite
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 2
+intuition: 0
 item_id: war-dog-pestilite
 item_index: '364'
 item_name: War Dog Pestilite
+level: 3
+might: 0
+presence: 2
+reason: 0
+roles:
+  - Horde Controller
 scc:
   - mcdm.monsters.v1:monster:war-dog-pestilite
 scdc:
   - 1.1.1:2:364
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '20'
 type: monster
 ---
 

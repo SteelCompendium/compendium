@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Beast
+  - Lightbender
+ev: '20'
 file_basename: Lightbender
 file_dpath: Monsters/Lightbenders/Statblocks
+free_strike: 6
+intuition: 1
 item_id: lightbender
 item_index: '206'
 item_name: Lightbender
+level: 3
+might: 2
+presence: -1
+reason: -3
+roles:
+  - Elite Ambusher
 scc:
   - mcdm.monsters.v1:monster:lightbender
 scdc:
   - 1.1.1:2:206
+size: '2'
 source: mcdm.monsters.v1
+speed: 1
+stability: 1
+stamina: '0100'
 type: monster
 ---
 

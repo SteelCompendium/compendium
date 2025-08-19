@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Goblin
+  - Humanoid
+ev: '3'
 file_basename: Goblin Stinker
 file_dpath: Monsters/Goblins/Statblocks
+free_strike: 1
+intuition: 0
 item_id: goblin-stinker
 item_index: '312'
 item_name: Goblin Stinker
+level: 1
+might: -2
+presence: 2
+reason: 0
+roles:
+  - Horde Controller
 scc:
   - mcdm.monsters.v1:monster:goblin-stinker
 scdc:
   - 1.1.1:2:312
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '10'
 type: monster
 ---
 

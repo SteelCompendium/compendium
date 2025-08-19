@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Abyssal
+  - Demon
+ev: '9'
 file_basename: Blight Phage
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 3
+intuition: 2
 item_id: blight-phage
 item_index: '283'
 item_name: Blight Phage
+level: 7
+might: 0
+presence: 4
+reason: 4
+roles:
+  - Horde Controller
 scc:
   - mcdm.monsters.v1:monster:blight-phage
 scdc:
   - 1.1.1:2:283
+size: '3'
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '40'
 type: monster
 ---
 

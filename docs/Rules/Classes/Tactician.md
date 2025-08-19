@@ -948,7 +948,7 @@ Choose one of the following abilities.
 
 ###### Their Lack of Focus Is Their Undoing (11 Focus)
 
-*You trick your enemies into attacking each other and leave them*
+*You trick your enemies into attacking each other and leave them confused by the aftermath.*
 
 | **Magic, Ranged, Weapon** |      **Main action** |
 | ------------------------- | -------------------: |

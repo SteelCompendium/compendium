@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Orc
+ev: '8'
 file_basename: Orc Terranova
 file_dpath: Monsters/Orcs/Statblocks
+free_strike: 4
+intuition: 1
 item_id: orc-terranova
 item_index: '130'
 item_name: Orc Terranova
+level: 2
+might: 1
+presence: 2
+reason: 0
+roles:
+  - Platoon Controller
 scc:
   - mcdm.monsters.v1:monster:orc-terranova
 scdc:
   - 1.1.1:2:130
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 2
+stamina: '30'
 type: monster
 ---
 

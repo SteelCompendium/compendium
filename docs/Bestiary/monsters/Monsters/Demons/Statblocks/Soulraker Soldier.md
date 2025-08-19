@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Abyssal
+  - Demon
+  - Soulraker
+ev: 9 for four minions
 file_basename: Soulraker Soldier
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 4
+intuition: -1
 item_id: soulraker-soldier
 item_index: '273'
 item_name: Soulraker Soldier
+level: 7
+might: 4
+presence: -1
+reason: -1
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:soulraker-soldier
 scdc:
   - 1.1.1:2:273
+size: '2'
 source: mcdm.monsters.v1
+speed: 6
+stability: 2
+stamina: '13'
 type: monster
 ---
 

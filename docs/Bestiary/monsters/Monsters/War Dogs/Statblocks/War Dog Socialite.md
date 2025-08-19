@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: 12 for four minions
 file_basename: War Dog Socialite
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 4
+intuition: 3
 item_id: war-dog-socialite
 item_index: '367'
 item_name: War Dog Socialite
+level: 10
+might: 2
+presence: 5
+reason: 4
+roles:
+  - Minion Hexer
 scc:
   - mcdm.monsters.v1:monster:war-dog-socialite
 scdc:
   - 1.1.1:2:367
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '14'
 type: monster
 ---
 

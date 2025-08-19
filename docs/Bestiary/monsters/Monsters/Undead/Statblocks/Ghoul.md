@@ -1,20 +1,36 @@
 ---
+agility: 2
+ancestry:
+  - Undead
+ev: '3'
 file_basename: Ghoul
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 1
+intuition: 0
 item_id: ghoul
 item_index: '77'
 item_name: Ghoul
+level: 1
+might: 0
+presence: -1
+reason: -2
+roles:
+  - Horde Harrier
 scc:
   - mcdm.monsters.v1:monster:ghoul
 scdc:
   - 1.1.1:2:77
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '15'
 type: monster
 ---
 
 ###### Ghoul
 
-|                  Undead                  |          -          |       Level 1       |      Horde Harrier      |         EV 3\\         |
+|                  Undead                  |          -          |       Level 1       |      Horde Harrier      |          EV 3          |
 | :--------------------------------------: | :-----------------: | :-----------------: | :---------------------: | :--------------------: |
 |             **1M**<br/> Size             |  **7**<br/> Speed   | **15**<br/> Stamina |  **0**<br/> Stability   | **1**<br/> Free Strike |
 | **Corruption 1, poison 1**<br/> Immunity | **-**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |

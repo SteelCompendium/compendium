@@ -1,9 +1,27 @@
 ---
+agility: 2
+ancestry:
+  - Fey
+  - Humanoid
+  - Wode Elf
+ev: '-'
 file_basename: Wode Elf Arrowswift
 file_dpath: Retainers/Statblocks
+free_strike: 2
+intuition: 1
 item_id: wode-elf-arrowswift
 item_name: Wode Elf Arrowswift
+level: 1
+might: 0
+presence: 0
+reason: 0
+roles:
+  - Artillery Retainer
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 1
+stamina: '21'
 ---
 
 ###### Wode Elf Arrowswift

@@ -1,14 +1,32 @@
 ---
+agility: 3
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: 6 for four minions
 file_basename: War Dog Sweeper
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 2
+intuition: 2
 item_id: war-dog-sweeper
 item_index: '382'
 item_name: War Dog Sweeper
+level: 4
+might: 0
+presence: 0
+reason: 0
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:war-dog-sweeper
 scdc:
   - 1.1.1:2:382
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '8'
 type: monster
 ---
 

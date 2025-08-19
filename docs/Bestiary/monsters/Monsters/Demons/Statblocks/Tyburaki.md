@@ -1,14 +1,31 @@
 ---
+agility: 5
+ancestry:
+  - Abyssal
+  - Demon
+ev: 12 for four minions
 file_basename: Tyburaki
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 4
+intuition: 3
 item_id: tyburaki
 item_index: '259'
 item_name: Tyburaki
+level: 10
+might: 2
+presence: -1
+reason: 0
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:tyburaki
 scdc:
   - 1.1.1:2:259
+size: '2'
 source: mcdm.monsters.v1
+speed: 8
+stability: 0
+stamina: '15'
 type: monster
 ---
 

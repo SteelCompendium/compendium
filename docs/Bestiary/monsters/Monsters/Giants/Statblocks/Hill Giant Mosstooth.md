@@ -1,14 +1,31 @@
 ---
+agility: -1
+ancestry:
+  - Giant
+  - Hill Giant
+ev: 9 for four minions
 file_basename: Hill Giant Mosstooth
 file_dpath: Monsters/Giants/Statblocks
+free_strike: 4
+intuition: -1
 item_id: hill-giant-mosstooth
 item_index: '197'
 item_name: Hill Giant Mosstooth
+level: 7
+might: 4
+presence: -1
+reason: -1
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:hill-giant-mosstooth
 scdc:
   - 1.1.1:2:197
+size: '4'
 source: mcdm.monsters.v1
+speed: 6
+stability: 5
+stamina: '13'
 type: monster
 ---
 

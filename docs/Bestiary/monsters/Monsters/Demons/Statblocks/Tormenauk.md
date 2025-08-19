@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Abyssal
+  - Demon
+ev: '8'
 file_basename: Tormenauk
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 4
+intuition: 1
 item_id: tormenauk
 item_index: '281'
 item_name: Tormenauk
+level: 6
+might: 3
+presence: 2
+reason: 2
+roles:
+  - Horde Brute
 scc:
   - mcdm.monsters.v1:monster:tormenauk
 scdc:
   - 1.1.1:2:281
+size: '2'
 source: mcdm.monsters.v1
+speed: 6
+stability: 2
+stamina: '45'
 type: monster
 ---
 

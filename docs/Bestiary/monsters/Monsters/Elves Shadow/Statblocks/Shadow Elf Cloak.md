@@ -1,14 +1,32 @@
 ---
+agility: 1
+ancestry:
+  - Fey
+  - Humanoid
+  - Shadow Elf
+ev: 6 for four minions
 file_basename: Shadow Elf Cloak
 file_dpath: Monsters/Elves Shadow/Statblocks
+free_strike: 2
+intuition: 0
 item_id: shadow-elf-cloak
 item_index: '212'
 item_name: Shadow Elf Cloak
+level: 4
+might: 3
+presence: 0
+reason: 0
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-cloak
 scdc:
   - 1.1.1:2:212
+size: 1M
 source: mcdm.monsters.v1
+speed: 8
+stability: 0
+stamina: '8'
 type: monster
 ---
 

@@ -1,14 +1,32 @@
 ---
+agility: 3
+ancestry:
+  - Fey
+  - Humanoid
+  - Shadow Elf
+ev: '16'
 file_basename: Shadow Elf Mournblade
 file_dpath: Monsters/Elves Shadow/Statblocks
+free_strike: 7
+intuition: 2
 item_id: shadow-elf-mournblade
 item_index: '222'
 item_name: Shadow Elf Mournblade
+level: 6
+might: 2
+presence: 0
+reason: 1
+roles:
+  - Platoon Ambusher
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-mournblade
 scdc:
   - 1.1.1:2:222
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '80'
 type: monster
 ---
 

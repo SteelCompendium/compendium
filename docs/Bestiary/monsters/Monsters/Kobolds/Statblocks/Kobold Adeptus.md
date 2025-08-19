@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Kobold
+ev: '3'
 file_basename: Kobold Adeptus
 file_dpath: Monsters/Kobolds/Statblocks
+free_strike: 2
+intuition: 0
 item_id: kobold-adeptus
 item_index: '90'
 item_name: Kobold Adeptus
+level: 1
+might: 0
+presence: 0
+reason: 2
+roles:
+  - Horde Artillery
 scc:
   - mcdm.monsters.v1:monster:kobold-adeptus
 scdc:
   - 1.1.1:2:90
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '10'
 type: monster
 ---
 

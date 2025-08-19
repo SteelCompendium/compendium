@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Dwarf
+  - Humanoid
+ev: '6'
 file_basename: Dwarf Reel Winch
 file_dpath: Monsters/Dwarves/Statblocks
+free_strike: 3
+intuition: 1
 item_id: dwarf-reel-winch
 item_index: '406'
 item_name: Dwarf Reel Winch
+level: 1
+might: 0
+presence: 0
+reason: 0
+roles:
+  - Platoon Support
 scc:
   - mcdm.monsters.v1:monster:dwarf-reel-winch
 scdc:
   - 1.1.1:2:406
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '36'
 type: monster
 ---
 

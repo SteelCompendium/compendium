@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Dwarf
+  - Humanoid
+ev: 3 for 4 minions
 file_basename: Dwarf Driver
 file_dpath: Monsters/Dwarves/Statblocks
+free_strike: 1
+intuition: 0
 item_id: dwarf-driver
 item_index: '395'
 item_name: Dwarf Driver
+level: 1
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:dwarf-driver
 scdc:
   - 1.1.1:2:395
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 1
+stamina: '6'
 type: monster
 ---
 

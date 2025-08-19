@@ -1,14 +1,32 @@
 ---
+agility: 1
+ancestry:
+  - Eyestalk
+  - Horror
+  - Overmind
+ev: '-'
 file_basename: Necrotic Eye
 file_dpath: Monsters/Xorannox the Tyract/Statblocks
+free_strike: 3
+intuition: 1
 item_id: necrotic-eye
 item_index: '321'
 item_name: Necrotic Eye
+level: 6
+might: -1
+presence: -1
+reason: 4
+roles:
+  - Hexer
 scc:
   - mcdm.monsters.v1:monster:necrotic-eye
 scdc:
   - 1.1.1:2:321
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '30'
 type: monster
 ---
 

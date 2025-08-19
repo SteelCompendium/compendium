@@ -1,14 +1,32 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '10'
 file_basename: War Dog Geomancer
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 3
+intuition: 4
 item_id: war-dog-geomancer
 item_index: '351'
 item_name: War Dog Geomancer
+level: 8
+might: 2
+presence: 2
+reason: 4
+roles:
+  - Horde Controller
 scc:
   - mcdm.monsters.v1:monster:war-dog-geomancer
 scdc:
   - 1.1.1:2:351
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 3
+stamina: '45'
 type: monster
 ---
 

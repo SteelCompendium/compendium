@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Radenwight
+ev: 3 for 4 minions
 file_basename: Radenwight Mischiever
 file_dpath: Monsters/Radenwights/Statblocks
+free_strike: 2
+intuition: 1
 item_id: radenwight-mischiever
 item_index: '153'
 item_name: Radenwight Mischiever
+level: 1
+might: -1
+presence: 0
+reason: 0
+roles:
+  - Minion Ambusher
 scc:
   - mcdm.monsters.v1:monster:radenwight-mischiever
 scdc:
   - 1.1.1:2:153
+size: 1S
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '4'
 type: monster
 ---
 

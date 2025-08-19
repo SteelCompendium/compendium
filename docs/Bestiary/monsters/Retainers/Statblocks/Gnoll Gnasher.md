@@ -1,9 +1,26 @@
 ---
+agility: 2
+ancestry:
+  - Abyssal
+  - Gnoll
+ev: '60'
 file_basename: Gnoll Gnasher
 file_dpath: Retainers/Statblocks
+free_strike: 3
+intuition: 0
 item_id: gnoll-gnasher
 item_name: Gnoll Gnasher
+level: 2
+might: 1
+presence: 1
+reason: 0
+roles:
+  - Harrier Retainer
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 1
+stamina: '30'
 ---
 
 ###### Gnoll Gnasher

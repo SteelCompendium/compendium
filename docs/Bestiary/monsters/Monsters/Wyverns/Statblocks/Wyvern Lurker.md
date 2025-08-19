@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Beast
+  - Wyvern
+ev: '24'
 file_basename: Wyvern Lurker
 file_dpath: Monsters/Wyverns/Statblocks
+free_strike: 6
+intuition: 1
 item_id: wyvern-lurker
 item_index: '121'
 item_name: Wyvern Lurker
+level: 4
+might: 2
+presence: 0
+reason: -1
+roles:
+  - Elite Ambusher
 scc:
   - mcdm.monsters.v1:monster:wyvern-lurker
 scdc:
   - 1.1.1:2:121
+size: '2'
 source: mcdm.monsters.v1
+speed: 9
+stability: 2
+stamina: '120'
 type: monster
 ---
 

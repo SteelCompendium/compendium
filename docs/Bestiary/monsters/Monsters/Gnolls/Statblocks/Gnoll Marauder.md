@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Abyssal
+  - Gnoll
+ev: '4'
 file_basename: Gnoll Marauder
 file_dpath: Monsters/Gnolls/Statblocks
+free_strike: 2
+intuition: 0
 item_id: gnoll-marauder
 item_index: '37'
 item_name: Gnoll Marauder
+level: 2
+might: 1
+presence: 1
+reason: 0
+roles:
+  - Horde Harrier
 scc:
   - mcdm.monsters.v1:monster:gnoll-marauder
 scdc:
   - 1.1.1:2:37
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 1
+stamina: '20'
 type: monster
 ---
 

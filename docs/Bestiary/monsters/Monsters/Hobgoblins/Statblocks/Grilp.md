@@ -1,14 +1,32 @@
 ---
+agility: 3
+ancestry:
+  - Devil
+  - Hobgoblin
+  - Infernal
+ev: 6 for four minions
 file_basename: Grilp
 file_dpath: Monsters/Hobgoblins/Statblocks
+free_strike: 3
+intuition: 1
 item_id: grilp
 item_index: '180'
 item_name: Grilp
+level: 4
+might: -1
+presence: 0
+reason: 0
+roles:
+  - Minion Ambusher
 scc:
   - mcdm.monsters.v1:monster:grilp
 scdc:
   - 1.1.1:2:180
+size: 1T
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '8'
 type: monster
 ---
 

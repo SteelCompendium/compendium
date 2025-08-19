@@ -1,14 +1,32 @@
 ---
+agility: 3
+ancestry:
+  - Fey
+  - Humanoid
+  - Shadow Elf
+ev: '14'
 file_basename: Shadow Elf Moondancer
 file_dpath: Monsters/Elves Shadow/Statblocks
+free_strike: 6
+intuition: 2
 item_id: shadow-elf-moondancer
 item_index: '211'
 item_name: Shadow Elf Moondancer
+level: 5
+might: 1
+presence: 0
+reason: 1
+roles:
+  - Platoon Harrier
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-moondancer
 scdc:
   - 1.1.1:2:211
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '70'
 type: monster
 ---
 

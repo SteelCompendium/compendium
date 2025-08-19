@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Abyssal
+  - Demon
+ev: '12'
 file_basename: Izyak
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 4
+intuition: 2
 item_id: izyak
 item_index: '271'
 item_name: Izyak
+level: 10
+might: 0
+presence: 4
+reason: 5
+roles:
+  - Horde Controller
 scc:
   - mcdm.monsters.v1:monster:izyak
 scdc:
   - 1.1.1:2:271
+size: '2'
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '55'
 type: monster
 ---
 

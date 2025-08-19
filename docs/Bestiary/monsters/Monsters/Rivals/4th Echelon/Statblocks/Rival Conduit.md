@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Rival
+ev: '48'
 file_basename: Rival Conduit
 file_dpath: Monsters/Rivals/4th Echelon/Statblocks
+free_strike: 10
+intuition: 5
 item_id: rival-conduit
 item_index: '31'
 item_name: Rival Conduit
+level: 10
+might: 4
+presence: 3
+reason: 1
+roles:
+  - Elite Support
 scc:
   - mcdm.monsters.v1:monster:rival-conduit
 scdc:
   - 1.1.1:2:31
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '240'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: -2
+ancestry:
+  - Mummy
+  - Undead
+ev: 9 for four minions
 file_basename: Mummy Rotwrap
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 4
+intuition: 1
 item_id: mummy-rotwrap
 item_index: '85'
 item_name: Mummy Rotwrap
+level: 7
+might: 4
+presence: -2
+reason: -2
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:mummy-rotwrap
 scdc:
   - 1.1.1:2:85
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '15'
 type: monster
 ---
 

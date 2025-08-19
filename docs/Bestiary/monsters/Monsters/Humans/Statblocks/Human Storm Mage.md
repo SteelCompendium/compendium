@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Human
+  - Humanoid
+ev: '10'
 file_basename: Human Storm Mage
 file_dpath: Monsters/Humans/Statblocks
+free_strike: 5
+intuition: 0
 item_id: human-storm-mage
 item_index: '171'
 item_name: Human Storm Mage
+level: 3
+might: 0
+presence: 1
+reason: 2
+roles:
+  - Platoon Controller
 scc:
   - mcdm.monsters.v1:monster:human-storm-mage
 scdc:
   - 1.1.1:2:171
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '40'
 type: monster
 ---
 

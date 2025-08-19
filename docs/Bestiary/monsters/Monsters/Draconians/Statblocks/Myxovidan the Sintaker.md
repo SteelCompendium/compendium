@@ -1,14 +1,32 @@
 ---
+agility: 3
+ancestry:
+  - Draconian
+  - Dragon
+  - Humanoid
+ev: '32'
 file_basename: Myxovidan the Sintaker
 file_dpath: Monsters/Draconians/Statblocks
+free_strike: 7
+intuition: 2
 item_id: myxovidan-the-sintaker
 item_index: '102'
 item_name: Myxovidan the Sintaker
+level: 6
+might: -1
+presence: 1
+reason: 2
+roles:
+  - Elite Hexer
 scc:
   - mcdm.monsters.v1:monster:myxovidan-the-sintaker
 scdc:
   - 1.1.1:2:102
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '140'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Mummy
+  - Undead
+ev: '24'
 file_basename: Mummy Lord
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 6
+intuition: 4
 item_id: mummy-lord
 item_index: '78'
 item_name: Mummy Lord
+level: 4
+might: 4
+presence: 2
+reason: 2
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:mummy-lord
 scdc:
   - 1.1.1:2:78
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 4
+stamina: '155'
 type: monster
 ---
 

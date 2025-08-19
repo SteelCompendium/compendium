@@ -1,9 +1,26 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Time Raider
+ev: '-'
 file_basename: Time Raider Mind Healer
 file_dpath: Retainers/Statblocks
+free_strike: 4
+intuition: 2
 item_id: time-raider-mind-healer
 item_name: Time Raider Mind Healer
+level: 3
+might: 0
+presence: 0
+reason: 2
+roles:
+  - Support Retainer
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '39'
 ---
 
 ###### Time Raider Mind Healer

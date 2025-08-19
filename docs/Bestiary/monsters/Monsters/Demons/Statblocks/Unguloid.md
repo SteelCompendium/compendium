@@ -1,14 +1,31 @@
 ---
+agility: 5
+ancestry:
+  - Abyssal
+  - Demon
+ev: 12 for four minions
 file_basename: Unguloid
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 5
+intuition: -1
 item_id: unguloid
 item_index: '254'
 item_name: Unguloid
+level: 10
+might: 5
+presence: -1
+reason: -1
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:unguloid
 scdc:
   - 1.1.1:2:254
+size: '2'
 source: mcdm.monsters.v1
+speed: 8
+stability: 3
+stamina: '17'
 type: monster
 ---
 

@@ -1,14 +1,33 @@
 ---
+agility: 1
+ancestry:
+  - Goblin
+  - Hobgoblin
+  - Humanoid
+  - Infernal
+ev: '12'
 file_basename: Hobgoblin Burning Witch
 file_dpath: Monsters/Hobgoblins/Statblocks
+free_strike: 5
+intuition: 2
 item_id: hobgoblin-burning-witch
 item_index: '178'
 item_name: Hobgoblin Burning Witch
+level: 4
+might: 0
+presence: 3
+reason: 2
+roles:
+  - Platoon Controller
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-burning-witch
 scdc:
   - 1.1.1:2:178
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '50'
 type: monster
 ---
 

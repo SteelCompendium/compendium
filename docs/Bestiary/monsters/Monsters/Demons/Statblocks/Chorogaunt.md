@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Abyssal
+  - Demon
+ev: '20'
 file_basename: Chorogaunt
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 5
+intuition: 2
 item_id: chorogaunt
 item_index: '258'
 item_name: Chorogaunt
+level: 3
+might: 2
+presence: 3
+reason: 2
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:chorogaunt
 scdc:
   - 1.1.1:2:258
+size: 1L
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '120'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Human
+  - Humanoid
+ev: '6'
 file_basename: Human Trickshot
 file_dpath: Monsters/Humans/Statblocks
+free_strike: 4
+intuition: 1
 item_id: human-trickshot
 item_index: '160'
 item_name: Human Trickshot
+level: 1
+might: 0
+presence: 0
+reason: 0
+roles:
+  - Platoon Artillery
 scc:
   - mcdm.monsters.v1:monster:human-trickshot
 scdc:
   - 1.1.1:2:160
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '20'
 type: monster
 ---
 

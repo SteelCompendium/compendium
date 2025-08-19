@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Orc
+ev: '6'
 file_basename: Orc Chainlock
 file_dpath: Monsters/Orcs/Statblocks
+free_strike: 3
+intuition: 0
 item_id: orc-chainlock
 item_index: '125'
 item_name: Orc Chainlock
+level: 1
+might: 2
+presence: 0
+reason: 1
+roles:
+  - Platoon Hexer
 scc:
   - mcdm.monsters.v1:monster:orc-chainlock
 scdc:
   - 1.1.1:2:125
+size: 1L
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '20'
 type: monster
 ---
 

@@ -1,14 +1,30 @@
 ---
+agility: 5
+ancestry:
+  - Undead
+ev: '36'
 file_basename: Vampire Lord
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 7
+intuition: 1
 item_id: vampire-lord
 item_index: '72'
 item_name: Vampire Lord
+level: 7
+might: 2
+presence: 2
+reason: 1
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:vampire-lord
 scdc:
   - 1.1.1:2:72
+size: 1M
 source: mcdm.monsters.v1
+speed: 1
+stability: 3
+stamina: '2200'
 type: monster
 ---
 

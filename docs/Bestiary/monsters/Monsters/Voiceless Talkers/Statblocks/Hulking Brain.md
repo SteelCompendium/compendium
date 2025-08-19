@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Horror
+  - Voiceless Talker
+ev: '32'
 file_basename: Hulking Brain
 file_dpath: Monsters/Voiceless Talkers/Statblocks
+free_strike: 7
+intuition: -2
 item_id: hulking-brain
 item_index: '337'
 item_name: Hulking Brain
+level: 6
+might: 3
+presence: 0
+reason: -2
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:hulking-brain
 scdc:
   - 1.1.1:2:337
+size: 1L
 source: mcdm.monsters.v1
+speed: 5
+stability: 4
+stamina: '180'
 type: monster
 ---
 

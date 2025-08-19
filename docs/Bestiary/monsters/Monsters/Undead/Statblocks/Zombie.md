@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Undead
+  - Soulless
+ev: '3'
 file_basename: Zombie
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 2
+intuition: -2
 item_id: zombie
 item_index: '79'
 item_name: Zombie
+level: 1
+might: 2
+presence: 1
+reason: -5
+roles:
+  - Horde Brute
 scc:
   - mcdm.monsters.v1:monster:zombie
 scdc:
   - 1.1.1:2:79
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '20'
 type: monster
 ---
 

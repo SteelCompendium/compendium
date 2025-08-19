@@ -1,14 +1,30 @@
 ---
+agility: 0
+ancestry:
+  - Elemental
+ev: '20'
 file_basename: Essence of Tides
 file_dpath: Monsters/Elementals/Statblocks
+free_strike: 5
+intuition: -1
 item_id: essence-of-tides
 item_index: '323'
 item_name: Essence of Tides
+level: 3
+might: 2
+presence: 2
+reason: 1
+roles:
+  - Elite Controller
 scc:
   - mcdm.monsters.v1:monster:essence-of-tides
 scdc:
   - 1.1.1:2:323
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 1
+stamina: '80'
 type: monster
 ---
 

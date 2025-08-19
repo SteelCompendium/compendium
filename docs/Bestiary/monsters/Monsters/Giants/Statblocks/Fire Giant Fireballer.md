@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Fire Giant
+  - Giant
+ev: 11 for four minions
 file_basename: Fire Giant Fireballer
 file_dpath: Monsters/Giants/Statblocks
+free_strike: 3
+intuition: 2
 item_id: fire-giant-fireballer
 item_index: '194'
 item_name: Fire Giant Fireballer
+level: 9
+might: 4
+presence: 1
+reason: 0
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:fire-giant-fireballer
 scdc:
   - 1.1.1:2:194
+size: '4'
 source: mcdm.monsters.v1
+speed: 7
+stability: 5
+stamina: '13'
 type: monster
 ---
 

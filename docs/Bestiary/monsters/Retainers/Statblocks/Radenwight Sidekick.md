@@ -1,9 +1,26 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Radenwight
+ev: '-'
 file_basename: Radenwight Sidekick
 file_dpath: Retainers/Statblocks
+free_strike: 2
+intuition: 1
 item_id: radenwight-sidekick
 item_name: Radenwight Sidekick
+level: 1
+might: 0
+presence: 0
+reason: 0
+roles:
+  - Support Retainer
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '21'
 ---
 
 ###### Radenwight Sidekick

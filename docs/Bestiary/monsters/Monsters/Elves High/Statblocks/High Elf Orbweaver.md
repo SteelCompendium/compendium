@@ -1,14 +1,32 @@
 ---
+agility: 0
+ancestry:
+  - Fey
+  - High Elf
+  - Humanoid
+ev: '10'
 file_basename: High Elf Orbweaver
 file_dpath: Monsters/Elves High/Statblocks
+free_strike: 5
+intuition: 2
 item_id: high-elf-orbweaver
 item_index: '109'
 item_name: High Elf Orbweaver
+level: 3
+might: 0
+presence: 2
+reason: 2
+roles:
+  - Platoon Hexer
 scc:
   - mcdm.monsters.v1:monster:high-elf-orbweaver
 scdc:
   - 1.1.1:2:109
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '40'
 type: monster
 ---
 

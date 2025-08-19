@@ -1,14 +1,32 @@
 ---
+agility: 0
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '4'
 file_basename: War Dog Amalgamite
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 3
+intuition: 0
 item_id: war-dog-amalgamite
 item_index: '378'
 item_name: War Dog Amalgamite
+level: 2
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Horde Brute
 scc:
   - mcdm.monsters.v1:monster:war-dog-amalgamite
 scdc:
   - 1.1.1:2:378
+size: '2'
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '25'
 type: monster
 ---
 

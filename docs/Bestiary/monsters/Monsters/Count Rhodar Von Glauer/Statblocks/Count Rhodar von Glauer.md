@@ -1,14 +1,31 @@
 ---
+agility: 5
+ancestry:
+  - Undead
+  - Vampire
+ev: '144'
 file_basename: Count Rhodar von Glauer
 file_dpath: Monsters/Count Rhodar Von Glauer/Statblocks
+free_strike: 0
+intuition: 2
 item_id: count-rhodar-von-glauer
 item_index: '287'
 item_name: Count Rhodar von Glauer
+level: 10
+might: 3
+presence: 3
+reason: 2
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:count-rhodar-von-glauer
 scdc:
   - 1.1.1:2:287
+size: 1M
 source: mcdm.monsters.v1
+speed: 1
+stability: 1
+stamina: '26503'
 type: monster
 ---
 

@@ -330,7 +330,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 ###### Eviscerate (3 Insight)
 
-*You leave your foe bleeding out after a devastating attack*
+*You leave your foe bleeding out after a devastating attack.*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
@@ -380,7 +380,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
-| **📏 Melee 1**                    | **🎯 One creature** |
+| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
 **Power Roll + Agility:**
 
@@ -1096,7 +1096,7 @@ Choose one of the following abilities.
 
 ###### To the Stars (11 Insight)
 
-*You attach your most potent explosive to your foe. Under less pressing*
+*You attach your most potent explosive to your foe. Under less pressing circumstances, you're sure you could launch them into orbit.*
 
 | **Melee, Ranged, Strike**   |               **Main action** |
 | --------------------------- | ----------------------------: |

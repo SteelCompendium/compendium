@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Abyssal
+  - Demon
+ev: '48'
 file_basename: Aurumvas
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 10
+intuition: 3
 item_id: aurumvas
 item_index: '267'
 item_name: Aurumvas
+level: 10
+might: 5
+presence: 5
+reason: 5
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:aurumvas
 scdc:
   - 1.1.1:2:267
+size: '3'
 source: mcdm.monsters.v1
+speed: 8
+stability: 2
+stamina: '260'
 type: monster
 ---
 

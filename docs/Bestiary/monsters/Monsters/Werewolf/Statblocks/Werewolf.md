@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Accursed
+  - Humanoid
+  - Werebeast
+ev: '36'
 file_basename: Werewolf
 file_dpath: Monsters/Werewolf/Statblocks
+free_strike: 5
+intuition: 1
 item_id: werewolf
 item_index: '335'
 item_name: Werewolf
+level: 1
+might: 3
+presence: 1
+reason: -1
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:werewolf
 scdc:
   - 1.1.1:2:335
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '200'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Angulotl
+  - Humanoid
+ev: 3 for 4 minions
 file_basename: Angulotl Dart
 file_dpath: Monsters/Angulotls/Statblocks
+free_strike: 2
+intuition: 0
 item_id: angulotl-dart
 item_index: '239'
 item_name: Angulotl Dart
+level: 1
+might: 0
+presence: 0
+reason: 1
+roles:
+  - Minion Artillery
 scc:
   - mcdm.monsters.v1:monster:angulotl-dart
 scdc:
   - 1.1.1:2:239
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '3'
 type: monster
 ---
 

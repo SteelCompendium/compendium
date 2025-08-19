@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Human
+  - Humanoid
+ev: '20'
 file_basename: Human Bandit Chief
 file_dpath: Monsters/Humans/Statblocks
+free_strike: 5
+intuition: 3
 item_id: human-bandit-chief
 item_index: '165'
 item_name: Human Bandit Chief
+level: 3
+might: 2
+presence: 2
+reason: 2
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:human-bandit-chief
 scdc:
   - 1.1.1:2:165
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '120'
 type: monster
 ---
 

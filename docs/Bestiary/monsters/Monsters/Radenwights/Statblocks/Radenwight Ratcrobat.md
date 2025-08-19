@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Radenwight
+ev: '6'
 file_basename: Radenwight Ratcrobat
 file_dpath: Monsters/Radenwights/Statblocks
+free_strike: 3
+intuition: 0
 item_id: radenwight-ratcrobat
 item_index: '152'
 item_name: Radenwight Ratcrobat
+level: 1
+might: -1
+presence: 1
+reason: 0
+roles:
+  - Platoon Harrier
 scc:
   - mcdm.monsters.v1:monster:radenwight-ratcrobat
 scdc:
   - 1.1.1:2:152
+size: 1S
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '30'
 type: monster
 ---
 

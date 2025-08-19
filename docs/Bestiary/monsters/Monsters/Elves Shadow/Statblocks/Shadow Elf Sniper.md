@@ -1,14 +1,32 @@
 ---
+agility: 3
+ancestry:
+  - Fey
+  - Humanoid
+  - Shadow Elf
+ev: 6 for four minions
 file_basename: Shadow Elf Sniper
 file_dpath: Monsters/Elves Shadow/Statblocks
+free_strike: 3
+intuition: 0
 item_id: shadow-elf-sniper
 item_index: '218'
 item_name: Shadow Elf Sniper
+level: 4
+might: 1
+presence: 0
+reason: 0
+roles:
+  - Minion Artillery
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-sniper
 scdc:
   - 1.1.1:2:218
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '7'
 type: monster
 ---
 

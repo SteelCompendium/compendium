@@ -1,14 +1,32 @@
 ---
+agility: 0
+ancestry:
+  - Fey
+  - High Elf
+  - Humanoid
+ev: '6'
 file_basename: High Elf Palinode
 file_dpath: Monsters/Elves High/Statblocks
+free_strike: 3
+intuition: 2
 item_id: high-elf-palinode
 item_index: '111'
 item_name: High Elf Palinode
+level: 1
+might: 0
+presence: 1
+reason: 0
+roles:
+  - Platoon Support
 scc:
   - mcdm.monsters.v1:monster:high-elf-palinode
 scdc:
   - 1.1.1:2:111
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '30'
 type: monster
 ---
 

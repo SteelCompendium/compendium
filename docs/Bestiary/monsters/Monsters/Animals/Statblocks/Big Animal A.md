@@ -1,14 +1,30 @@
 ---
+agility: 2
+ancestry:
+  - Animal
+ev: '12'
 file_basename: Big Animal A
 file_dpath: Monsters/Animals/Statblocks
+free_strike: 4
+intuition: 1
 item_id: big-animal-a
 item_index: '249'
 item_name: Big Animal A
+level: 1
+might: 1
+presence: -2
+reason: -2
+roles:
+  - Elite Mount
 scc:
   - mcdm.monsters.v1:monster:big-animal-a
 scdc:
   - 1.1.1:2:249
+size: '2'
 source: mcdm.monsters.v1
+speed: 6
+stability: 1
+stamina: '60'
 type: monster
 ---
 

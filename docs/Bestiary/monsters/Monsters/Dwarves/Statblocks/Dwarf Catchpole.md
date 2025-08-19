@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Dwarf
+  - Humanoid
+ev: 3 for 4 minions
 file_basename: Dwarf Catchpole
 file_dpath: Monsters/Dwarves/Statblocks
+free_strike: 2
+intuition: 0
 item_id: dwarf-catchpole
 item_index: '398'
 item_name: Dwarf Catchpole
+level: 1
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:dwarf-catchpole
 scdc:
   - 1.1.1:2:398
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '7'
 type: monster
 ---
 

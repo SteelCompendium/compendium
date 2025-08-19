@@ -1,14 +1,32 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '7'
 file_basename: War Dog War Doc
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 3
+intuition: 2
 item_id: war-dog-war-doc
 item_index: '386'
 item_name: War Dog War Doc
+level: 5
+might: 0
+presence: 0
+reason: 3
+roles:
+  - Horde Support
 scc:
   - mcdm.monsters.v1:monster:war-dog-war-doc
 scdc:
   - 1.1.1:2:386
+size: 1L
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '35'
 type: monster
 ---
 

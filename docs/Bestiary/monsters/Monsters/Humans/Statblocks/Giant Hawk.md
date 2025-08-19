@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Animal
+  - Human
+ev: '6'
 file_basename: Giant Hawk
 file_dpath: Monsters/Humans/Statblocks
+free_strike: 3
+intuition: 1
 item_id: giant-hawk
 item_index: '168'
 item_name: Giant Hawk
+level: 1
+might: 2
+presence: -2
+reason: -3
+roles:
+  - Platoon Mount
 scc:
   - mcdm.monsters.v1:monster:giant-hawk
 scdc:
   - 1.1.1:2:168
+size: '2'
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '30'
 type: monster
 ---
 

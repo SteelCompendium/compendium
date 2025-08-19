@@ -1,14 +1,32 @@
 ---
+agility: 4
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: 12 for four minions
 file_basename: War Dog Blood Jumper
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 4
+intuition: 3
 item_id: war-dog-blood-jumper
 item_index: '356'
 item_name: War Dog Blood Jumper
+level: 10
+might: 5
+presence: 2
+reason: 2
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:war-dog-blood-jumper
 scdc:
   - 1.1.1:2:356
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 2
+stamina: '15'
 type: monster
 ---
 

@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Fey
+  - High Elf
+  - Humanoid
+ev: '6'
 file_basename: High Elf Zephyr
 file_dpath: Monsters/Elves High/Statblocks
+free_strike: 3
+intuition: 0
 item_id: high-elf-zephyr
 item_index: '119'
 item_name: High Elf Zephyr
+level: 1
+might: 0
+presence: 1
+reason: 0
+roles:
+  - Platoon Harrier
 scc:
   - mcdm.monsters.v1:monster:high-elf-zephyr
 scdc:
   - 1.1.1:2:119
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '30'
 type: monster
 ---
 

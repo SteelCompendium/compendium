@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Giant
+  - Stone Giant
+ev: '40'
 file_basename: Granite Stone Giant
 file_dpath: Monsters/Giants/Statblocks
+free_strike: 8
+intuition: 2
 item_id: granite-stone-giant
 item_index: '204'
 item_name: Granite Stone Giant
+level: 8
+might: 4
+presence: 1
+reason: 1
+roles:
+  - Elite Defender
 scc:
   - mcdm.monsters.v1:monster:granite-stone-giant
 scdc:
   - 1.1.1:2:204
+size: '4'
 source: mcdm.monsters.v1
+speed: 7
+stability: 10
+stamina: '247'
 type: monster
 ---
 

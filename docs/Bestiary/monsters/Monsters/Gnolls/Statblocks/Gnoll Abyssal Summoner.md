@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Abyssal
+  - Gnoll
+ev: '4'
 file_basename: Gnoll Abyssal Summoner
 file_dpath: Monsters/Gnolls/Statblocks
+free_strike: 2
+intuition: 2
 item_id: gnoll-abyssal-summoner
 item_index: '36'
 item_name: Gnoll Abyssal Summoner
+level: 2
+might: 1
+presence: 2
+reason: 0
+roles:
+  - Horde Support
 scc:
   - mcdm.monsters.v1:monster:gnoll-abyssal-summoner
 scdc:
   - 1.1.1:2:36
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '20'
 type: monster
 ---
 

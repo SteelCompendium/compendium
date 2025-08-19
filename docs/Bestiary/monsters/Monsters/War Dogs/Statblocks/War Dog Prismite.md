@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Soulless
+  - War Dog
+ev: '10'
 file_basename: War Dog Prismite
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 3
+intuition: 2
 item_id: war-dog-prismite
 item_index: '365'
 item_name: War Dog Prismite
+level: 8
+might: 4
+presence: 3
+reason: 4
+roles:
+  - Horde Defender
 scc:
   - mcdm.monsters.v1:monster:war-dog-prismite
 scdc:
   - 1.1.1:2:365
+size: '2'
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '82'
 type: monster
 ---
 

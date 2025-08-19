@@ -1,14 +1,30 @@
 ---
+agility: 4
+ancestry:
+  - Undead
+ev: '9'
 file_basename: Haunt
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 3
+intuition: 0
 item_id: haunt
 item_index: '62'
 item_name: Haunt
+level: 7
+might: -2
+presence: 0
+reason: -1
+roles:
+  - Horde Controller
 scc:
   - mcdm.monsters.v1:monster:haunt
 scdc:
   - 1.1.1:2:62
+size: '2'
 source: mcdm.monsters.v1
+speed: 6
+stability: 1
+stamina: '40'
 type: monster
 ---
 

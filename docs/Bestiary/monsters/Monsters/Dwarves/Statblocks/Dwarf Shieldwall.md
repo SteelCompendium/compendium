@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Dwarf
+  - Humanoid
+ev: '10'
 file_basename: Dwarf Shieldwall
 file_dpath: Monsters/Dwarves/Statblocks
+free_strike: 5
+intuition: 0
 item_id: dwarf-shieldwall
 item_index: '405'
 item_name: Dwarf Shieldwall
+level: 3
+might: 2
+presence: 1
+reason: 0
+roles:
+  - Platoon Defender
 scc:
   - mcdm.monsters.v1:monster:dwarf-shieldwall
 scdc:
   - 1.1.1:2:405
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 4
+stamina: '72'
 type: monster
 ---
 

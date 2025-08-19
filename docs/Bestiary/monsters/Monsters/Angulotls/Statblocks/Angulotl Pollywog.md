@@ -1,14 +1,30 @@
 ---
+agility: 2
+ancestry:
+  - Angulotl
+ev: 3 for 4 minions
 file_basename: Angulotl Pollywog
 file_dpath: Monsters/Angulotls/Statblocks
+free_strike: 1
+intuition: -2
 item_id: angulotl-pollywog
 item_index: '242'
 item_name: Angulotl Pollywog
+level: 1
+might: 0
+presence: 0
+reason: -2
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:angulotl-pollywog
 scdc:
   - 1.1.1:2:242
+size: 1S
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '4'
 type: monster
 ---
 

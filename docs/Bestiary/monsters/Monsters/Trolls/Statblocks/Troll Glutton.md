@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Giant
+  - Troll
+ev: '28'
 file_basename: Troll Glutton
 file_dpath: Monsters/Trolls/Statblocks
+free_strike: 7
+intuition: 0
 item_id: troll-glutton
 item_index: '409'
 item_name: Troll Glutton
+level: 5
+might: 3
+presence: 1
+reason: -1
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:troll-glutton
 scdc:
   - 1.1.1:2:409
+size: '2'
 source: mcdm.monsters.v1
+speed: 6
+stability: 4
+stamina: '160'
 type: monster
 ---
 

@@ -1,14 +1,32 @@
 ---
+agility: 0
+ancestry:
+  - Abyssal
+  - Demon
+  - Hobgoblin
+ev: '24'
 file_basename: Slaughter Demon
 file_dpath: Monsters/Hobgoblins/Statblocks
+free_strike: 6
+intuition: 1
 item_id: slaughter-demon
 item_index: '190'
 item_name: Slaughter Demon
+level: 4
+might: 3
+presence: 0
+reason: -1
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:slaughter-demon
 scdc:
   - 1.1.1:2:190
+size: '3'
 source: mcdm.monsters.v1
+speed: 7
+stability: 3
+stamina: '140'
 type: monster
 ---
 

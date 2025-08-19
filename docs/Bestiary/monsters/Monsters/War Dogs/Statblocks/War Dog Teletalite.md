@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '3'
 file_basename: War Dog Teletalite
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 2
+intuition: 0
 item_id: war-dog-teletalite
 item_index: '376'
 item_name: War Dog Teletalite
+level: 1
+might: 0
+presence: 0
+reason: 0
+roles:
+  - Horde Ambusher
 scc:
   - mcdm.monsters.v1:monster:war-dog-teletalite
 scdc:
   - 1.1.1:2:376
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '15'
 type: monster
 ---
 

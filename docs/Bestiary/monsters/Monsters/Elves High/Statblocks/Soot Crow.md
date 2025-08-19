@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Elemental
+  - High Elf
+ev: 3 for four minions
 file_basename: Soot Crow
 file_dpath: Monsters/Elves High/Statblocks
+free_strike: 1
+intuition: 0
 item_id: soot-crow
 item_index: '117'
 item_name: Soot Crow
+level: 1
+might: 0
+presence: 1
+reason: 0
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:soot-crow
 scdc:
   - 1.1.1:2:117
+size: 1T
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '4'
 type: monster
 ---
 

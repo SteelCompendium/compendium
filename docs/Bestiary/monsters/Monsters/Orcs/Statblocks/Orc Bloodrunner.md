@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Orc
+ev: '10'
 file_basename: Orc Bloodrunner
 file_dpath: Monsters/Orcs/Statblocks
+free_strike: 5
+intuition: 1
 item_id: orc-bloodrunner
 item_index: '126'
 item_name: Orc Bloodrunner
+level: 3
+might: 2
+presence: 1
+reason: 0
+roles:
+  - Platoon Harrier
 scc:
   - mcdm.monsters.v1:monster:orc-bloodrunner
 scdc:
   - 1.1.1:2:126
+size: 1M
 source: mcdm.monsters.v1
+speed: 8
+stability: 0
+stamina: '50'
 type: monster
 ---
 

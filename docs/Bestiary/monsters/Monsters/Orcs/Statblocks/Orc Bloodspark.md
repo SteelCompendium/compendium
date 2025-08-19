@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Orc
+ev: 3 for four minion
 file_basename: Orc Bloodspark
 file_dpath: Monsters/Orcs/Statblocks
+free_strike: 2
+intuition: 0
 item_id: orc-bloodspark
 item_index: '136'
 item_name: Orc Bloodspark
+level: 1
+might: 0
+presence: 2
+reason: 0
+roles:
+  - Minion Artillery
 scc:
   - mcdm.monsters.v1:monster:orc-bloodspark
 scdc:
   - 1.1.1:2:136
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '3'
 type: monster
 ---
 

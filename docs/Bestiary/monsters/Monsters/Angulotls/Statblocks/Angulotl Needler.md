@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Angulotl
+  - Humanoid
+ev: '3'
 file_basename: Angulotl Needler
 file_dpath: Monsters/Angulotls/Statblocks
+free_strike: 2
+intuition: 0
 item_id: angulotl-needler
 item_index: '244'
 item_name: Angulotl Needler
+level: 1
+might: 0
+presence: -1
+reason: 1
+roles:
+  - Horde Artillery
 scc:
   - mcdm.monsters.v1:monster:angulotl-needler
 scdc:
   - 1.1.1:2:244
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '10'
 type: monster
 ---
 

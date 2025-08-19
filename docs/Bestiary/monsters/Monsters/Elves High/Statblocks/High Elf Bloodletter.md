@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Fey
+  - High Elf
+  - Humanoid
+ev: '6'
 file_basename: High Elf Bloodletter
 file_dpath: Monsters/Elves High/Statblocks
+free_strike: 4
+intuition: 1
 item_id: high-elf-bloodletter
 item_index: '115'
 item_name: High Elf Bloodletter
+level: 1
+might: 0
+presence: 0
+reason: 0
+roles:
+  - Platoon Ambusher
 scc:
   - mcdm.monsters.v1:monster:high-elf-bloodletter
 scdc:
   - 1.1.1:2:115
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '30'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Devil
+  - Infernal
+ev: '28'
 file_basename: Devil Jurist
 file_dpath: Monsters/Devils/Statblocks
+free_strike: 7
+intuition: 1
 item_id: devil-jurist
 item_index: '301'
 item_name: Devil Jurist
+level: 5
+might: 0
+presence: 3
+reason: 1
+roles:
+  - Elite Artillery
 scc:
   - mcdm.monsters.v1:monster:devil-jurist
 scdc:
   - 1.1.1:2:301
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '120'
 type: monster
 ---
 

@@ -1,14 +1,32 @@
 ---
+agility: 1
+ancestry:
+  - Fey
+  - Humanoid
+  - Wode Elf
+ev: '6'
 file_basename: Wode Elf Green Seer
 file_dpath: Monsters/Elves Wode/Statblocks
+free_strike: 3
+intuition: 2
 item_id: wode-elf-green-seer
 item_index: '223'
 item_name: Wode Elf Green Seer
+level: 1
+might: 0
+presence: 1
+reason: 0
+roles:
+  - Platoon Hexer
 scc:
   - mcdm.monsters.v1:monster:wode-elf-green-seer
 scdc:
   - 1.1.1:2:223
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '20'
 type: monster
 ---
 

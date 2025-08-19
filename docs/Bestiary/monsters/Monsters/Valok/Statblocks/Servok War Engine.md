@@ -1,14 +1,33 @@
 ---
+agility: -2
+ancestry:
+  - Construct
+  - Servok
+  - Soulless
+  - Valok
+ev: '48'
 file_basename: Servok War Engine
 file_dpath: Monsters/Valok/Statblocks
+free_strike: 0
+intuition: -1
 item_id: servok-war-engine
 item_index: '329'
 item_name: Servok War Engine
+level: 10
+might: 5
+presence: -5
+reason: -4
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:servok-war-engine
 scdc:
   - 1.1.1:2:329
+size: '3'
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '2608'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Giant
+  - Stone Giant
+ev: '40'
 file_basename: Basalt Stone Giant
 file_dpath: Monsters/Giants/Statblocks
+free_strike: 8
+intuition: 2
 item_id: basalt-stone-giant
 item_index: '196'
 item_name: Basalt Stone Giant
+level: 8
+might: 4
+presence: 1
+reason: 1
+roles:
+  - Elite Controller
 scc:
   - mcdm.monsters.v1:monster:basalt-stone-giant
 scdc:
   - 1.1.1:2:196
+size: '4'
 source: mcdm.monsters.v1
+speed: 7
+stability: 10
+stamina: '207'
 type: monster
 ---
 

@@ -1,14 +1,30 @@
 ---
+agility: 1
+ancestry:
+  - Undead
+ev: '3'
 file_basename: Specter
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 1
+intuition: 0
 item_id: specter
 item_index: '66'
 item_name: Specter
+level: 1
+might: -5
+presence: 2
+reason: 0
+roles:
+  - Horde Hexer
 scc:
   - mcdm.monsters.v1:monster:specter
 scdc:
   - 1.1.1:2:66
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '10'
 type: monster
 ---
 

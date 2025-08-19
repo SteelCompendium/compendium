@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Abyssal
+  - Demon
+ev: '4'
 file_basename: Bendrak
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 2
+intuition: 0
 item_id: bendrak
 item_index: '280'
 item_name: Bendrak
+level: 2
+might: 0
+presence: 2
+reason: 0
+roles:
+  - Horde Hexer
 scc:
   - mcdm.monsters.v1:monster:bendrak
 scdc:
   - 1.1.1:2:280
+size: 1L
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '15'
 type: monster
 ---
 

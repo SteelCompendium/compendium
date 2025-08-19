@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Horror
+  - Voiceless Talker
+ev: '32'
 file_basename: Voiceless Talker Artillerist
 file_dpath: Monsters/Voiceless Talkers/Statblocks
+free_strike: 7
+intuition: 2
 item_id: voiceless-talker-artillerist
 item_index: '342'
 item_name: Voiceless Talker Artillerist
+level: 6
+might: 0
+presence: 1
+reason: 3
+roles:
+  - Elite Artillery
 scc:
   - mcdm.monsters.v1:monster:voiceless-talker-artillerist
 scdc:
   - 1.1.1:2:342
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '140'
 type: monster
 ---
 

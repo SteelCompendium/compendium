@@ -1,14 +1,32 @@
 ---
+agility: -1
+ancestry:
+  - Abyssal
+  - Demon
+  - Soulraker
+ev: '44'
 file_basename: Soulraker Hivequeen
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 9
+intuition: 3
 item_id: soulraker-hivequeen
 item_index: '277'
 item_name: Soulraker Hivequeen
+level: 9
+might: 5
+presence: 2
+reason: 3
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:soulraker-hivequeen
 scdc:
   - 1.1.1:2:277
+size: '5'
 source: mcdm.monsters.v1
+speed: 6
+stability: 2
+stamina: '240'
 type: monster
 ---
 

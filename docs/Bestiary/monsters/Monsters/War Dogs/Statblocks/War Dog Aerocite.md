@@ -1,14 +1,32 @@
 ---
+agility: 4
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '10'
 file_basename: War Dog Aerocite
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 3
+intuition: 3
 item_id: war-dog-aerocite
 item_index: '366'
 item_name: War Dog Aerocite
+level: 8
+might: 0
+presence: 1
+reason: 1
+roles:
+  - Horde Harrier
 scc:
   - mcdm.monsters.v1:monster:war-dog-aerocite
 scdc:
   - 1.1.1:2:366
+size: 1M
 source: mcdm.monsters.v1
+speed: 8
+stability: 0
+stamina: '50'
 type: monster
 ---
 

@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Fey
+  - Humanoid
+  - Wide Elf
+ev: '6'
 file_basename: Wode Elf Greenskeeper
 file_dpath: Monsters/Elves Wode/Statblocks
+free_strike: 3
+intuition: 0
 item_id: wode-elf-greenskeeper
 item_index: '231'
 item_name: Wode Elf Greenskeeper
+level: 1
+might: 0
+presence: 1
+reason: 0
+roles:
+  - Platoon Defender
 scc:
   - mcdm.monsters.v1:monster:wode-elf-greenskeeper
 scdc:
   - 1.1.1:2:231
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '40'
 type: monster
 ---
 

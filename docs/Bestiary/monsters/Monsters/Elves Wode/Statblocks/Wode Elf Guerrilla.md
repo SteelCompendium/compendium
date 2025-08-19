@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Fey
+  - Humanoid
+  - Wode Elf
+ev: '10'
 file_basename: Wode Elf Guerrilla
 file_dpath: Monsters/Elves Wode/Statblocks
+free_strike: 5
+intuition: 0
 item_id: wode-elf-guerrilla
 item_index: '232'
 item_name: Wode Elf Guerrilla
+level: 3
+might: 0
+presence: 1
+reason: 0
+roles:
+  - Platoon Ambusher
 scc:
   - mcdm.monsters.v1:monster:wode-elf-guerrilla
 scdc:
   - 1.1.1:2:232
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '50'
 type: monster
 ---
 

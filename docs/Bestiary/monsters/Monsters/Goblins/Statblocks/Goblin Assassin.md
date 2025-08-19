@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Goblin
+  - Humanoid
+ev: '3'
 file_basename: Goblin Assassin
 file_dpath: Monsters/Goblins/Statblocks
+free_strike: 2
+intuition: 0
 item_id: goblin-assassin
 item_index: '307'
 item_name: Goblin Assassin
+level: 1
+might: -2
+presence: -2
+reason: 0
+roles:
+  - Horde Ambusher
 scc:
   - mcdm.monsters.v1:monster:goblin-assassin
 scdc:
   - 1.1.1:2:307
+size: 1S
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '15'
 type: monster
 ---
 

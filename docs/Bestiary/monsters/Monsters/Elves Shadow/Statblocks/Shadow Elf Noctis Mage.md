@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Fey
+  - Humanoid
+  - Shadow Elf
+ev: '16'
 file_basename: Shadow Elf Noctis Mage
 file_dpath: Monsters/Elves Shadow/Statblocks
+free_strike: 6
+intuition: 1
 item_id: shadow-elf-noctis-mage
 item_index: '221'
 item_name: Shadow Elf Noctis Mage
+level: 6
+might: 0
+presence: 1
+reason: 3
+roles:
+  - Platoon Hexer
 scc:
   - mcdm.monsters.v1:monster:shadow-elf-noctis-mage
 scdc:
   - 1.1.1:2:221
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '70'
 type: monster
 ---
 

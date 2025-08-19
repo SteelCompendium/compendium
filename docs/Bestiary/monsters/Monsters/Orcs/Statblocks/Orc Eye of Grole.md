@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Orc
+ev: '6'
 file_basename: Orc Eye of Grole
 file_dpath: Monsters/Orcs/Statblocks
+free_strike: 4
+intuition: 0
 item_id: orc-eye-of-grole
 item_index: '129'
 item_name: Orc Eye of Grole
+level: 1
+might: 1
+presence: -2
+reason: 0
+roles:
+  - Platoon Artillery
 scc:
   - mcdm.monsters.v1:monster:orc-eye-of-grole
 scdc:
   - 1.1.1:2:129
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '20'
 type: monster
 ---
 

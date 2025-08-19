@@ -1,14 +1,32 @@
 ---
+agility: 3
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '6'
 file_basename: War Dog Hypokrite
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 3
+intuition: 0
 item_id: war-dog-hypokrite
 item_index: '383'
 item_name: War Dog Hypokrite
+level: 4
+might: 1
+presence: 2
+reason: 0
+roles:
+  - Horde Ambusher
 scc:
   - mcdm.monsters.v1:monster:war-dog-hypokrite
 scdc:
   - 1.1.1:2:383
+size: 1M
 source: mcdm.monsters.v1
+speed: 8
+stability: 0
+stamina: '30'
 type: monster
 ---
 

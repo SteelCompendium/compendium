@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Devil
+  - Infernal
+ev: '32'
 file_basename: Devil Magistrate
 file_dpath: Monsters/Devils/Statblocks
+free_strike: 7
+intuition: 1
 item_id: devil-magistrate
 item_index: '300'
 item_name: Devil Magistrate
+level: 6
+might: 1
+presence: 2
+reason: 0
+roles:
+  - Elite Harrier
 scc:
   - mcdm.monsters.v1:monster:devil-magistrate
 scdc:
   - 1.1.1:2:300
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '160'
 type: monster
 ---
 

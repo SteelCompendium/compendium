@@ -1,14 +1,32 @@
 ---
+agility: 1
+ancestry:
+  - Fey
+  - Humanoid
+  - Wode Elf
+ev: '8'
 file_basename: Wode Elf Druid
 file_dpath: Monsters/Elves Wode/Statblocks
+free_strike: 3
+intuition: 0
 item_id: wode-elf-druid
 item_index: '229'
 item_name: Wode Elf Druid
+level: 2
+might: 0
+presence: 2
+reason: 0
+roles:
+  - Platoon Controller
 scc:
   - mcdm.monsters.v1:monster:wode-elf-druid
 scdc:
   - 1.1.1:2:229
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '30'
 type: monster
 ---
 

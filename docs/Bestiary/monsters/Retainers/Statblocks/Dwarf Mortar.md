@@ -1,9 +1,26 @@
 ---
+agility: 0
+ancestry:
+  - Dwarf
+  - Humanoid
+ev: '-'
 file_basename: Dwarf Mortar
 file_dpath: Retainers/Statblocks
+free_strike: 3
+intuition: 1
 item_id: dwarf-mortar
 item_name: Dwarf Mortar
+level: 1
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Hexer Retainer
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 3
+stamina: '21'
 ---
 
 ###### Dwarf Mortar

@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Beast
+  - Chimera
+ev: '60'
 file_basename: Chimera
 file_dpath: Monsters/Chimera/Statblocks
+free_strike: 6
+intuition: 1
 item_id: chimera
 item_index: '01'
 item_name: Chimera
+level: 3
+might: 3
+presence: 0
+reason: -2
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:chimera
 scdc:
   - 1.1.1:2:01
+size: '2'
 source: mcdm.monsters.v1
+speed: 10
+stability: 1
+stamina: '300'
 type: monster
 ---
 

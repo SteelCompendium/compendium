@@ -1,14 +1,31 @@
 ---
+agility: -1
+ancestry:
+  - Frost Giant
+  - Giant
+ev: 10 for four minions
 file_basename: Frost Giant Snowblaster
 file_dpath: Monsters/Giants/Statblocks
+free_strike: 4
+intuition: 4
 item_id: frost-giant-snowblaster
 item_index: '195'
 item_name: Frost Giant Snowblaster
+level: 8
+might: 3
+presence: 2
+reason: -1
+roles:
+  - Minion Artillery
 scc:
   - mcdm.monsters.v1:monster:frost-giant-snowblaster
 scdc:
   - 1.1.1:2:195
+size: '4'
 source: mcdm.monsters.v1
+speed: 7
+stability: 5
+stamina: '12'
 type: monster
 ---
 

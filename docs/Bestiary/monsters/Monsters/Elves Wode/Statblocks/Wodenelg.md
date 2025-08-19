@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Plant
+  - Wode Elf
+ev: '6'
 file_basename: Wodenelg
 file_dpath: Monsters/Elves Wode/Statblocks
+free_strike: 3
+intuition: 0
 item_id: wodenelg
 item_index: '227'
 item_name: Wodenelg
+level: 1
+might: 2
+presence: -1
+reason: -1
+roles:
+  - Platoon Mount
 scc:
   - mcdm.monsters.v1:monster:wodenelg
 scdc:
   - 1.1.1:2:227
+size: '2'
 source: mcdm.monsters.v1
+speed: 10
+stability: 1
+stamina: '30'
 type: monster
 ---
 

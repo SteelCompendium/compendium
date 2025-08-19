@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Abyssal
+  - Demon
+ev: '5'
 file_basename: Muceron
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 3
+intuition: 0
 item_id: muceron
 item_index: '278'
 item_name: Muceron
+level: 3
+might: 2
+presence: 1
+reason: 0
+roles:
+  - Horde Brute
 scc:
   - mcdm.monsters.v1:monster:muceron
 scdc:
   - 1.1.1:2:278
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '30'
 type: monster
 ---
 

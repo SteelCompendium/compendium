@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Undead
+  - Soulless
+ev: 3 for four minions
 file_basename: Decrepit Skeleton
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 2
+intuition: 0
 item_id: decrepit-skeleton
 item_index: '82'
 item_name: Decrepit Skeleton
+level: 1
+might: 0
+presence: -2
+reason: -2
+roles:
+  - Minion Artillery
 scc:
   - mcdm.monsters.v1:monster:decrepit-skeleton
 scdc:
   - 1.1.1:2:82
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '3'
 type: monster
 ---
 

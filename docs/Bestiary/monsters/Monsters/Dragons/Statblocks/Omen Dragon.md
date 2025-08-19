@@ -1,14 +1,31 @@
 ---
+agility: 4
+ancestry:
+  - Dragon
+  - Elemental
+ev: '120'
 file_basename: Omen Dragon
 file_dpath: Monsters/Dragons/Statblocks
+free_strike: 9
+intuition: 3
 item_id: omen-dragon
 item_index: '343'
 item_name: Omen Dragon
+level: 8
+might: 3
+presence: 5
+reason: 2
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:omen-dragon
 scdc:
   - 1.1.1:2:343
+size: '5'
 source: mcdm.monsters.v1
+speed: 10
+stability: 6
+stamina: '550'
 type: monster
 ---
 

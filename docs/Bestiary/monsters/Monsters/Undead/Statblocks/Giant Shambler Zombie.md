@@ -1,14 +1,31 @@
 ---
+agility: -3
+ancestry:
+  - Undead
+  - Soulless
+ev: 12 for four minions
 file_basename: Giant Shambler Zombie
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 5
+intuition: 1
 item_id: giant-shambler-zombie
 item_index: '69'
 item_name: Giant Shambler Zombie
+level: 10
+might: 5
+presence: -2
+reason: -3
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:giant-shambler-zombie
 scdc:
   - 1.1.1:2:69
+size: '3'
 source: mcdm.monsters.v1
+speed: 4
+stability: 5
+stamina: '17'
 type: monster
 ---
 

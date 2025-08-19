@@ -1,9 +1,26 @@
 ---
+agility: 1
+ancestry:
+  - Giant
+  - Troll
+ev: '-'
 file_basename: Troll Mercenary
 file_dpath: Retainers/Statblocks
+free_strike: 6
+intuition: 0
 item_id: troll-mercenary
 item_name: Troll Mercenary
+level: 5
+might: 3
+presence: 1
+reason: -1
+roles:
+  - Brute Retainer
+size: '2'
 source: mcdm.monsters.v1
+speed: 6
+stability: 4
+stamina: '57'
 ---
 
 ###### Troll Mercenary

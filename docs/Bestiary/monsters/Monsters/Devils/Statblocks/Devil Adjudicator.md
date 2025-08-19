@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Devil
+  - Infernal
+ev: '32'
 file_basename: Devil Adjudicator
 file_dpath: Monsters/Devils/Statblocks
+free_strike: 7
+intuition: 1
 item_id: devil-adjudicator
 item_index: '297'
 item_name: Devil Adjudicator
+level: 6
+might: 0
+presence: 3
+reason: 2
+roles:
+  - Elite Controller
 scc:
   - mcdm.monsters.v1:monster:devil-adjudicator
 scdc:
   - 1.1.1:2:297
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 1
+stamina: '140'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Dwarf
+  - Humanoid
+ev: 3 for 4 minions
 file_basename: Dwarf Axethrower
 file_dpath: Monsters/Dwarves/Statblocks
+free_strike: 1
+intuition: 2
 item_id: dwarf-axethrower
 item_index: '401'
 item_name: Dwarf Axethrower
+level: 1
+might: 1
+presence: 0
+reason: 0
+roles:
+  - Minion Defender
 scc:
   - mcdm.monsters.v1:monster:dwarf-axethrower
 scdc:
   - 1.1.1:2:401
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '7'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Kobold
+ev: 3 for four minions
 file_basename: Kobold Veles
 file_dpath: Monsters/Kobolds/Statblocks
+free_strike: 1
+intuition: 0
 item_id: kobold-veles
 item_index: '95'
 item_name: Kobold Veles
+level: 1
+might: 0
+presence: 0
+reason: 0
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:kobold-veles
 scdc:
   - 1.1.1:2:95
+size: 1S
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '4'
 type: monster
 ---
 

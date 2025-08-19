@@ -1,14 +1,32 @@
 ---
+agility: -1
+ancestry:
+  - Abyssal
+  - Demon
+  - Soulraker
+ev: 9 for four minions
 file_basename: Soulraker Stinger
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 4
+intuition: 4
 item_id: soulraker-stinger
 item_index: '261'
 item_name: Soulraker Stinger
+level: 7
+might: 0
+presence: 0
+reason: 4
+roles:
+  - Minion Artillery
 scc:
   - mcdm.monsters.v1:monster:soulraker-stinger
 scdc:
   - 1.1.1:2:261
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 0
+stamina: '10'
 type: monster
 ---
 

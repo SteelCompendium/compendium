@@ -1,14 +1,33 @@
 ---
+agility: 2
+ancestry:
+  - Goblin
+  - Hobgoblin
+  - Humanoid
+  - Infernal
+ev: 6 for four minions
 file_basename: Hobgoblin Recruit
 file_dpath: Monsters/Hobgoblins/Statblocks
+free_strike: 3
+intuition: 0
 item_id: hobgoblin-recruit
 item_index: '177'
 item_name: Hobgoblin Recruit
+level: 4
+might: 3
+presence: 1
+reason: 0
+roles:
+  - Minion Brute
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-recruit
 scdc:
   - 1.1.1:2:177
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '9'
 type: monster
 ---
 

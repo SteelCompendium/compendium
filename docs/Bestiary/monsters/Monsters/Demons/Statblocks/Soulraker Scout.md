@@ -1,14 +1,32 @@
 ---
+agility: 4
+ancestry:
+  - Abyssal
+  - Demon
+  - Soulraker
+ev: 9 for four minions
 file_basename: Soulraker Scout
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 3
+intuition: 0
 item_id: soulraker-scout
 item_index: '276'
 item_name: Soulraker Scout
+level: 7
+might: 2
+presence: -1
+reason: 1
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:soulraker-scout
 scdc:
   - 1.1.1:2:276
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '12'
 type: monster
 ---
 

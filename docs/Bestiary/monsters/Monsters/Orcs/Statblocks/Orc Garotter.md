@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Orc
+ev: '6'
 file_basename: Orc Garotter
 file_dpath: Monsters/Orcs/Statblocks
+free_strike: 4
+intuition: 1
 item_id: orc-garotter
 item_index: '135'
 item_name: Orc Garotter
+level: 1
+might: 1
+presence: -1
+reason: 0
+roles:
+  - Platoon Ambusher
 scc:
   - mcdm.monsters.v1:monster:orc-garotter
 scdc:
   - 1.1.1:2:135
+size: 1L
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '30'
 type: monster
 ---
 

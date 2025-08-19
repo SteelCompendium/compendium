@@ -1,14 +1,33 @@
 ---
+agility: 1
+ancestry:
+  - Bugbear
+  - Fey
+  - Goblin
+  - Humanoid
+ev: '16'
 file_basename: Bugbear Channeler
 file_dpath: Monsters/Bugbears/Statblocks
+free_strike: 5
+intuition: 2
 item_id: bugbear-channeler
 item_index: '290'
 item_name: Bugbear Channeler
+level: 2
+might: 1
+presence: 2
+reason: 2
+roles:
+  - Elite Controller
 scc:
   - mcdm.monsters.v1:monster:bugbear-channeler
 scdc:
   - 1.1.1:2:290
+size: 1L
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '60'
 type: monster
 ---
 

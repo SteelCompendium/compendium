@@ -1,14 +1,33 @@
 ---
+agility: 2
+ancestry:
+  - Goblin
+  - Hobgoblin
+  - Humanoid
+  - Infernal
+ev: '16'
 file_basename: Hobgoblin Redglare
 file_dpath: Monsters/Hobgoblins/Statblocks
+free_strike: 6
+intuition: 3
 item_id: hobgoblin-redglare
 item_index: '185'
 item_name: Hobgoblin Redglare
+level: 6
+might: 0
+presence: 3
+reason: 2
+roles:
+  - Platoon Hexer
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-redglare
 scdc:
   - 1.1.1:2:185
+size: 1L
 source: mcdm.monsters.v1
+speed: 5
+stability: 4
+stamina: '70'
 type: monster
 ---
 

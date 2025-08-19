@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Giant
+  - Stone Giant
+ev: 10 for four minions
 file_basename: Sand Stone Giant
 file_dpath: Monsters/Giants/Statblocks
+free_strike: 3
+intuition: 3
 item_id: sand-stone-giant
 item_index: '199'
 item_name: Sand Stone Giant
+level: 8
+might: 4
+presence: 0
+reason: 0
+roles:
+  - Minion Controller
 scc:
   - mcdm.monsters.v1:monster:sand-stone-giant
 scdc:
   - 1.1.1:2:199
+size: '4'
 source: mcdm.monsters.v1
+speed: 7
+stability: 10
+stamina: '14'
 type: monster
 ---
 

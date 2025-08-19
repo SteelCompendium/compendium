@@ -1,14 +1,31 @@
 ---
+agility: 3
+ancestry:
+  - Kobold
+  - Humanoid
+ev: '12'
 file_basename: Kobold Centurion
 file_dpath: Monsters/Kobolds/Statblocks
+free_strike: 2
+intuition: 0
 item_id: kobold-centurion
 item_index: '99'
 item_name: Kobold Centurion
+level: 1
+might: 2
+presence: 2
+reason: 2
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:kobold-centurion
 scdc:
   - 1.1.1:2:99
+size: 1S
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '80'
 type: monster
 ---
 

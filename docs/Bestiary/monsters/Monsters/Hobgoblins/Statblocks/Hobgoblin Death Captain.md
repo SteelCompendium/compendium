@@ -1,14 +1,33 @@
 ---
+agility: 0
+ancestry:
+  - Goblin
+  - Hobgoblin
+  - Humanoid
+  - Infernal
+ev: '12'
 file_basename: Hobgoblin Death Captain
 file_dpath: Monsters/Hobgoblins/Statblocks
+free_strike: 5
+intuition: 0
 item_id: hobgoblin-death-captain
 item_index: '189'
 item_name: Hobgoblin Death Captain
+level: 4
+might: 3
+presence: 2
+reason: 1
+roles:
+  - Platoon Support
 scc:
   - mcdm.monsters.v1:monster:hobgoblin-death-captain
 scdc:
   - 1.1.1:2:189
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '60'
 type: monster
 ---
 

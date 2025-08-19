@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Dwarf
+  - Humanoid
+ev: '8'
 file_basename: Dwarf Launcher
 file_dpath: Monsters/Dwarves/Statblocks
+free_strike: 4
+intuition: 2
 item_id: dwarf-launcher
 item_index: '396'
 item_name: Dwarf Launcher
+level: 1
+might: 1
+presence: 0
+reason: 0
+roles:
+  - Platoon Hexer
 scc:
   - mcdm.monsters.v1:monster:dwarf-launcher
 scdc:
   - 1.1.1:2:396
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 3
+stamina: '39'
 type: monster
 ---
 

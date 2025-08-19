@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Abyssal
+  - Demon
+ev: 3 for four minions
 file_basename: Pitling
 file_dpath: Monsters/Demons/Statblocks
+free_strike: 2
+intuition: -2
 item_id: pitling
 item_index: '256'
 item_name: Pitling
+level: 1
+might: -2
+presence: -2
+reason: -2
+roles:
+  - Minion Artillery
 scc:
   - mcdm.monsters.v1:monster:pitling
 scdc:
   - 1.1.1:2:256
+size: 1T
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '3'
 type: monster
 ---
 

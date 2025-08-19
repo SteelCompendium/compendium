@@ -1,14 +1,33 @@
 ---
+agility: 1
+ancestry:
+  - Bugbear
+  - Fey
+  - Goblin
+  - Humanoid
+ev: '16'
 file_basename: Bugbear Commander
 file_dpath: Monsters/Bugbears/Statblocks
+free_strike: 5
+intuition: 0
 item_id: bugbear-commander
 item_index: '292'
 item_name: Bugbear Commander
+level: 2
+might: 2
+presence: 0
+reason: 2
+roles:
+  - Elite Support
 scc:
   - mcdm.monsters.v1:monster:bugbear-commander
 scdc:
   - 1.1.1:2:292
+size: 1L
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '80'
 type: monster
 ---
 

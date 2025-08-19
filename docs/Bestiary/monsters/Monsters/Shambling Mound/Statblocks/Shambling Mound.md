@@ -1,14 +1,31 @@
 ---
+agility: -1
+ancestry:
+  - Plant
+  - Shambling Mound
+ev: '84'
 file_basename: Shambling Mound
 file_dpath: Monsters/Shambling Mound/Statblocks
+free_strike: 7
+intuition: 1
 item_id: shambling-mound
 item_index: '348'
 item_name: Shambling Mound
+level: 5
+might: 4
+presence: 0
+reason: 0
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:shambling-mound
 scdc:
   - 1.1.1:2:348
+size: '3'
 source: mcdm.monsters.v1
+speed: 3
+stability: 5
+stamina: '400'
 type: monster
 ---
 

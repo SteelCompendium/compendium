@@ -1,9 +1,26 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Kobold
+ev: '-'
 file_basename: Kobold Shieldbearer
 file_dpath: Retainers/Statblocks
+free_strike: 6
+intuition: 0
 item_id: kobold-shieldbearer
 item_name: Kobold Shieldbearer
+level: 1
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Defender Retainer
+size: '2'
 source: mcdm.monsters.v1
+speed: 5
+stability: 4
+stamina: '300'
 ---
 
 ###### Kobold Shieldbearer

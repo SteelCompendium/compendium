@@ -1,14 +1,32 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '36'
 file_basename: War Dog Breaker
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 7
+intuition: 1
 item_id: war-dog-breaker
 item_index: '374'
 item_name: War Dog Breaker
+level: 7
+might: 4
+presence: 3
+reason: 1
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:war-dog-breaker
 scdc:
   - 1.1.1:2:374
+size: '2'
 source: mcdm.monsters.v1
+speed: 5
+stability: 4
+stamina: '200'
 type: monster
 ---
 

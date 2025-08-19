@@ -1,14 +1,32 @@
 ---
+agility: 0
+ancestry:
+  - Fey
+  - High Elf
+  - Humanoid
+ev: 3 for four minions
 file_basename: High Elf Dawn Mage
 file_dpath: Monsters/Elves High/Statblocks
+free_strike: 1
+intuition: -1
 item_id: high-elf-dawn-mage
 item_index: '112'
 item_name: High Elf Dawn Mage
+level: 1
+might: 0
+presence: 1
+reason: 2
+roles:
+  - Minion Controller
 scc:
   - mcdm.monsters.v1:monster:high-elf-dawn-mage
 scdc:
   - 1.1.1:2:112
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '3'
 type: monster
 ---
 

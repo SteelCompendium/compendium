@@ -1,9 +1,26 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Orc
+ev: '-'
 file_basename: Orc Charger
 file_dpath: Retainers/Statblocks
+free_strike: 3
+intuition: 0
 item_id: orc-charger
 item_name: Orc Charger
+level: 1
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Harrier Retainer
+size: 1M
 source: mcdm.monsters.v1
+speed: 8
+stability: 0
+stamina: '21'
 ---
 
 ###### Orc Charger

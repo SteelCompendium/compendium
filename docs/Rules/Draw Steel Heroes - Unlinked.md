@@ -6539,7 +6539,7 @@ Choose one of your domains. You gain a heroic ability from that domain, as shown
 
 **<span class="steel-compendium-ability">Morning Light (5 Piety)</span>**
 
-*Light shines at your command, burning your foes and blessing your*
+*Light shines at your command, burning your foes and blessing your allies.*
 
 | **Area, Magic** |               **Main action** |
 | --------------- | ----------------------------: |
@@ -11793,7 +11793,7 @@ Choose one heroic ability from the following options, each of which costs 3 insi
 
 **<span class="steel-compendium-ability">Eviscerate (3 Insight)</span>**
 
-*You leave your foe bleeding out after a devastating attack*
+*You leave your foe bleeding out after a devastating attack.*
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
@@ -11843,7 +11843,7 @@ Choose one heroic ability from the following options, each of which costs 5 insi
 
 | **Melee, Ranged, Strike, Weapon** |     **Main action** |
 | --------------------------------- | ------------------: |
-| **📏 Melee 1**                    | **🎯 One creature** |
+| **📏 Melee 1 or ranged 5**        | **🎯 One creature** |
 
 **Power Roll + Agility:**
 
@@ -12559,7 +12559,7 @@ Choose one of the following abilities.
 
 **<span class="steel-compendium-ability">To the Stars (11 Insight)</span>**
 
-*You attach your most potent explosive to your foe. Under less pressing*
+*You attach your most potent explosive to your foe. Under less pressing circumstances, you’re sure you could launch them into orbit.*
 
 | **Melee, Ranged, Strike**   |               **Main action** |
 | --------------------------- | ----------------------------: |
@@ -13578,7 +13578,7 @@ Choose one of the following abilities.
 
 **<span class="steel-compendium-ability">Their Lack of Focus Is Their Undoing (11 Focus)</span>**
 
-*You trick your enemies into attacking each other and leave them*
+*You trick your enemies into attacking each other and leave them confused by the aftermath.*
 
 | **Magic, Ranged, Weapon** |      **Main action** |
 | ------------------------- | -------------------: |

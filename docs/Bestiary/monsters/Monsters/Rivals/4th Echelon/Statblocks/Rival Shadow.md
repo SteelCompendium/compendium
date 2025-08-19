@@ -1,14 +1,31 @@
 ---
+agility: 5
+ancestry:
+  - Humanoid
+  - Rival
+ev: '48'
 file_basename: Rival Shadow
 file_dpath: Monsters/Rivals/4th Echelon/Statblocks
+free_strike: 10
+intuition: 2
 item_id: rival-shadow
 item_index: '34'
 item_name: Rival Shadow
+level: 10
+might: 0
+presence: 4
+reason: 3
+roles:
+  - Elite Ambusher
 scc:
   - mcdm.monsters.v1:monster:rival-shadow
 scdc:
   - 1.1.1:2:34
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '240'
 type: monster
 ---
 

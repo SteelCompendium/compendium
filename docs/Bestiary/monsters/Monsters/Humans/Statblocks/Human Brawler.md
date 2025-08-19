@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Human
+  - Humanoid
+ev: '6'
 file_basename: Human Brawler
 file_dpath: Monsters/Humans/Statblocks
+free_strike: 4
+intuition: 0
 item_id: human-brawler
 item_index: '167'
 item_name: Human Brawler
+level: 1
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Platoon Brute
 scc:
   - mcdm.monsters.v1:monster:human-brawler
 scdc:
   - 1.1.1:2:167
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '40'
 type: monster
 ---
 

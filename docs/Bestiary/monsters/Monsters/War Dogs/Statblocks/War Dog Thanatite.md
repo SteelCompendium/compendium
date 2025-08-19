@@ -1,14 +1,32 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '8'
 file_basename: War Dog Thanatite
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 3
+intuition: 3
 item_id: war-dog-thanatite
 item_index: '371'
 item_name: War Dog Thanatite
+level: 6
+might: 1
+presence: 1
+reason: 2
+roles:
+  - Horde Controller
 scc:
   - mcdm.monsters.v1:monster:war-dog-thanatite
 scdc:
   - 1.1.1:2:371
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '35'
 type: monster
 ---
 

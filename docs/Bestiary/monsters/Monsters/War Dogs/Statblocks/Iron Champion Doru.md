@@ -1,14 +1,32 @@
 ---
+agility: 4
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '48'
 file_basename: Iron Champion Doru
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 0
+intuition: 4
 item_id: iron-champion-doru
 item_index: '377'
 item_name: Iron Champion Doru
+level: 10
+might: 5
+presence: 2
+reason: 1
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:iron-champion-doru
 scdc:
   - 1.1.1:2:377
+size: 1L
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '2602'
 type: monster
 ---
 

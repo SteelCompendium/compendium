@@ -1,14 +1,30 @@
 ---
+agility: 3
+ancestry:
+  - Undead
+ev: 12 for four minions
 file_basename: Wraith Skulker
 file_dpath: Monsters/Undead/Statblocks
+free_strike: 4
+intuition: 1
 item_id: wraith-skulker
 item_index: '86'
 item_name: Wraith Skulker
+level: 10
+might: -2
+presence: 5
+reason: 1
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:wraith-skulker
 scdc:
   - 1.1.1:2:86
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 1
+stamina: '15'
 type: monster
 ---
 

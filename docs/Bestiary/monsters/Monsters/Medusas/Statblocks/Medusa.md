@@ -1,14 +1,32 @@
 ---
+agility: 4
+ancestry:
+  - Accursed
+  - Humanoid
+  - Medusa
+ev: '84'
 file_basename: Medusa
 file_dpath: Monsters/Medusas/Statblocks
+free_strike: 8
+intuition: 0
 item_id: medusa
 item_index: '246'
 item_name: Medusa
+level: 5
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:medusa
 scdc:
   - 1.1.1:2:246
+size: 1M
 source: mcdm.monsters.v1
+speed: 1
+stability: 5
+stamina: '0420'
 type: monster
 ---
 

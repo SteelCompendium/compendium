@@ -1,23 +1,42 @@
 ---
+agility: 1
+ancestry:
+  - Eyestalk
+  - Horror
+  - Overmind
+ev: '-'
 file_basename: Zapper Eye
 file_dpath: Monsters/Xorannox the Tyract/Statblocks
+free_strike: 3
+intuition: 1
 item_id: zapper-eye
 item_index: '316'
 item_name: Zapper Eye
+level: 6
+might: -1
+presence: -1
+reason: 4
+roles:
+  - Artillery
 scc:
   - mcdm.monsters.v1:monster:zapper-eye
 scdc:
   - 1.1.1:2:316
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '30'
 type: monster
 ---
 
 ###### Zapper Eye
 
-| Eyestalk, Horror, Overmind |              -               |      Level 6       |        Artillery        |         EV -          |
-| :------------------------: | :--------------------------: | :----------------: | :---------------------: | :-------------------: |
-|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |         -          | **-**<br/> With Captain | **-**<br/> Weaknesses |
-|     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason |  **+1**<br/> Intuition  | **-1**<br/> Presence  |
+| Eyestalk, Horror, Overmind |              -               |       Level 6       |        Artillery        |          EV -          |
+| :------------------------: | :--------------------------: | :-----------------: | :---------------------: | :--------------------: |
+|      **1M**<br/> Size      |       **5**<br/> Speed       | **30**<br/> Stamina |  **0**<br/> Stability   | **3**<br/> Free Strike |
+|    **-**<br/> Immunity     | **Fly, hover**<br/> Movement |          -          | **-**<br/> With Captain | **-**<br/> Weaknesses  |
+|     **-1**<br/> Might      |     **+1**<br/> Agility      | **+4**<br/> Reason  |  **+1**<br/> Intuition  |  **-1**<br/> Presence  |
 
 <!-- -->
 > 🔳 **Lightning Beam (Signature Ability)**

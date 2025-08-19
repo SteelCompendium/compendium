@@ -1,14 +1,33 @@
 ---
+agility: 1
+ancestry:
+  - Construct
+  - Multivok
+  - Soulless
+  - Valok
+ev: '44'
 file_basename: Multivok Chief
 file_dpath: Monsters/Valok/Statblocks
+free_strike: 9
+intuition: 1
 item_id: multivok-chief
 item_index: '332'
 item_name: Multivok Chief
+level: 9
+might: 4
+presence: -3
+reason: -2
+roles:
+  - Elite Support
 scc:
   - mcdm.monsters.v1:monster:multivok-chief
 scdc:
   - 1.1.1:2:332
+size: 1L
 source: mcdm.monsters.v1
+speed: 5
+stability: 3
+stamina: '220'
 type: monster
 ---
 

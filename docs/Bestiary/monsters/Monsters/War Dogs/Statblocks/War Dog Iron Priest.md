@@ -1,14 +1,32 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: '10'
 file_basename: War Dog Iron Priest
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 3
+intuition: 4
 item_id: war-dog-iron-priest
 item_index: '349'
 item_name: War Dog Iron Priest
+level: 8
+might: 2
+presence: 4
+reason: 1
+roles:
+  - Horde Support
 scc:
   - mcdm.monsters.v1:monster:war-dog-iron-priest
 scdc:
   - 1.1.1:2:349
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '50'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Human
+  - Humanoid
+ev: 3 for four minions
 file_basename: Human Archer
 file_dpath: Monsters/Humans/Statblocks
+free_strike: 2
+intuition: 0
 item_id: human-archer
 item_index: '169'
 item_name: Human Archer
+level: 1
+might: 0
+presence: 0
+reason: 0
+roles:
+  - Minion Artillery
 scc:
   - mcdm.monsters.v1:monster:human-archer
 scdc:
   - 1.1.1:2:169
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '3'
 type: monster
 ---
 

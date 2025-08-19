@@ -1,14 +1,32 @@
 ---
+agility: 0
+ancestry:
+  - Humanoid
+  - Soulless
+  - War Dog
+ev: 3 for four minions
 file_basename: War Dog Conscript
 file_dpath: Monsters/War Dogs/Statblocks
+free_strike: 1
+intuition: 0
 item_id: war-dog-conscript
 item_index: '363'
 item_name: War Dog Conscript
+level: 1
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Minion Harrier
 scc:
   - mcdm.monsters.v1:monster:war-dog-conscript
 scdc:
   - 1.1.1:2:363
+size: 1M
 source: mcdm.monsters.v1
+speed: 7
+stability: 0
+stamina: '4'
 type: monster
 ---
 

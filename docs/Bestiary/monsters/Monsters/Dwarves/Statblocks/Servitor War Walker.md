@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Dwarf
+  - Humanoid
+ev: '12'
 file_basename: Servitor War Walker
 file_dpath: Monsters/Dwarves/Statblocks
+free_strike: 4
+intuition: 0
 item_id: servitor-war-walker
 item_index: '394'
 item_name: Servitor War Walker
+level: 1
+might: 2
+presence: -2
+reason: -2
+roles:
+  - Elite Mount
 scc:
   - mcdm.monsters.v1:monster:servitor-war-walker
 scdc:
   - 1.1.1:2:394
+size: '3'
 source: mcdm.monsters.v1
+speed: 8
+stability: 2
+stamina: '60'
 type: monster
 ---
 

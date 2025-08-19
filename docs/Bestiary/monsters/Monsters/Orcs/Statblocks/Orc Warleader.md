@@ -1,14 +1,31 @@
 ---
+agility: 2
+ancestry:
+  - Humanoid
+  - Orc
+ev: '20'
 file_basename: Orc Warleader
 file_dpath: Monsters/Orcs/Statblocks
+free_strike: 5
+intuition: 2
 item_id: orc-warleader
 item_index: '128'
 item_name: Orc Warleader
+level: 3
+might: 3
+presence: 2
+reason: 1
+roles:
+  - Leader
 scc:
   - mcdm.monsters.v1:monster:orc-warleader
 scdc:
   - 1.1.1:2:128
+size: 1M
 source: mcdm.monsters.v1
+speed: 6
+stability: 2
+stamina: '120'
 type: monster
 ---
 

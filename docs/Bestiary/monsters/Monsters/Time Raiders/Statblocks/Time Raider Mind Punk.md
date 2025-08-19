@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Humanoid
+  - Time Raider
+ev: '10'
 file_basename: Time Raider Mind Punk
 file_dpath: Monsters/Time Raiders/Statblocks
+free_strike: 5
+intuition: 2
 item_id: time-raider-mind-punk
 item_index: '148'
 item_name: Time Raider Mind Punk
+level: 3
+might: 2
+presence: 1
+reason: 2
+roles:
+  - Platoon Hexer
 scc:
   - mcdm.monsters.v1:monster:time-raider-mind-punk
 scdc:
   - 1.1.1:2:148
+size: '2'
 source: mcdm.monsters.v1
+speed: 5
+stability: 2
+stamina: '40'
 type: monster
 ---
 

@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Bredbeddle
+  - Giant
+ev: '60'
 file_basename: Bredbeddle
 file_dpath: Monsters/Bredbeddle/Statblocks
+free_strike: 6
+intuition: 2
 item_id: bredbeddle
 item_index: '205'
 item_name: Bredbeddle
+level: 3
+might: 3
+presence: 2
+reason: -3
+roles:
+  - Solo
 scc:
   - mcdm.monsters.v1:monster:bredbeddle
 scdc:
   - 1.1.1:2:205
+size: '2'
 source: mcdm.monsters.v1
+speed: 5
+stability: 4
+stamina: '300'
 type: monster
 ---
 

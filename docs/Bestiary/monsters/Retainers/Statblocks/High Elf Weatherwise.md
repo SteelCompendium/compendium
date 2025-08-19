@@ -1,9 +1,27 @@
 ---
+agility: 1
+ancestry:
+  - Fey
+  - High Elf
+  - Humanoid
+ev: '-'
 file_basename: High Elf Weatherwise
 file_dpath: Retainers/Statblocks
+free_strike: 2
+intuition: 0
 item_id: high-elf-weatherwise
 item_name: High Elf Weatherwise
+level: 1
+might: -1
+presence: 1
+reason: 2
+roles:
+  - Controller Retainer
+size: 1M
 source: mcdm.monsters.v1
+speed: 5
+stability: 0
+stamina: '21'
 ---
 
 ###### High Elf Weatherwise

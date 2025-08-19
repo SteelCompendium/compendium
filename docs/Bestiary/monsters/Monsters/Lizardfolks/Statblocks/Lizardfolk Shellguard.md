@@ -1,14 +1,31 @@
 ---
+agility: 1
+ancestry:
+  - Humanoid
+  - Lizardfolk
+ev: 3 for four minions
 file_basename: Lizardfolk Shellguard
 file_dpath: Monsters/Lizardfolks/Statblocks
+free_strike: 1
+intuition: 0
 item_id: lizardfolk-shellguard
 item_index: '51'
 item_name: Lizardfolk Shellguard
+level: 1
+might: 2
+presence: 0
+reason: 0
+roles:
+  - Minion Defender
 scc:
   - mcdm.monsters.v1:monster:lizardfolk-shellguard
 scdc:
   - 1.1.1:2:51
+size: 1L
 source: mcdm.monsters.v1
+speed: 5
+stability: 1
+stamina: '6'
 type: monster
 ---
 

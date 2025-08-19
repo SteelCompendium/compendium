@@ -1,14 +1,31 @@
 ---
+agility: 0
+ancestry:
+  - Basilisk
+  - Beast
+ev: '12'
 file_basename: Basilisk
 file_dpath: Monsters/Basilisks/Statblocks
+free_strike: 5
+intuition: -1
 item_id: basilisk
 item_index: '333'
 item_name: Basilisk
+level: 1
+might: 2
+presence: -1
+reason: -3
+roles:
+  - Elite Brute
 scc:
   - mcdm.monsters.v1:monster:basilisk
 scdc:
   - 1.1.1:2:333
+size: '2'
 source: mcdm.monsters.v1
+speed: 8
+stability: 2
+stamina: '80'
 type: monster
 ---
 
